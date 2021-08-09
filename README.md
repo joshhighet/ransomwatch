@@ -27,9 +27,9 @@ _requires a local tor circuit on tcp://9050_
 
     docker run -p9050:9050 ghcr.io/thetanz/coretools/torproxy:latest
 
-### Command Line Operations
+## Command Line Operations
 
-## Group Tracking
+### Group Tracking
 
 _manage the groups within [groups.json](groups.json)_
 
