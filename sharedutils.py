@@ -45,8 +45,8 @@ def makewebhook(adaptivecard):
     }
     return webhook
 
-def composecarditem(gangname, victims):
-    gangitem = {
+def composecarditem(groupname, victims):
+    groupitem = {
         'type': 'ColumnSet',
         'columns': [
             {
@@ -55,7 +55,7 @@ def composecarditem(gangname, victims):
                 'items': [
                     {
                         'type': 'TextBlock',
-                        'text': gangname,
+                        'text': groupname,
                         'wrap': True,
                         'weight': 'Bolder'
                     }
@@ -78,7 +78,7 @@ def composecarditem(gangname, victims):
             }
         ]
     }
-    return gangitem
+    return groupitem
 
 def runshellcmd(cmd):
     cmdout = subprocess.run(
