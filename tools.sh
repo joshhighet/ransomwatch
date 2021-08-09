@@ -262,14 +262,10 @@ if [ "$1" == "parser" ]; then
     ###💀😵‍💫✨
 elif [ "$1" == "markdown" ]; then
 
-echo """![](https://avatars0.githubusercontent.com/u/2897191?s=90&v=4)
-
-# ransomwatch group report 👀 🦅
-
-> groups may have multiple sites or mirrors. multiple reports for a single group are expected
+echo """> groups may have multiple sites or mirrors. multiple reports for a single group are expected
 
 | group | online | last seen  | last update |
-|-------|--------|------------|-------------|""" > REPORT.md
+|-------|--------|------------|-------------|""" > report.md
 
     groups=`jq '.[].name' -r groups.json`
 
@@ -280,7 +276,7 @@ echo """![](https://avatars0.githubusercontent.com/u/2897191?s=90&v=4)
         availability=`echo ${groupdata} | jq -r .locations[].available`
         lastscrapetz=`echo ${groupdata} | jq -r .locations[].lastscrape`
         lastupdatetz=`echo ${groupdata} | jq -r .locations[].updated`
-        echo '| '${groupname}' | '${availability}' | '${lastscrapetz}' | '${lastupdatetz}' |' >> REPORT.md
+        echo '| '${groupname}' | '${availability}' | '${lastscrapetz}' | '${lastupdatetz}' |' >> report.md
     done
 
 else
