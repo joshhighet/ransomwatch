@@ -66,32 +66,32 @@ def createrec(name, location):
     return insertdata
 
 def insert(name, location):
-    providerdict = sharedutils.openjson("gangs.json")
+    providerdict = sharedutils.openjson("groups.json")
     newprovider = createrec(name, location)
     providerdict.extend(newprovider)
     print(json.dumps(providerdict))
 
 def checkExisting(provider):
-    gangs = sharedutils.openjson("gangs.json")
-    for gang in gangs:
-        if gang['name'] == provider:
+    groups = sharedutils.openjson("groups.json")
+    for group in groups:
+        if group['name'] == provider:
             return True
     return False
 
 def scraper():
-    gangs = sharedutils.openjson("gangs.json")
+    groups = sharedutils.openjson("groups.json")
     # iterate each provider
-    for gang in gangs:
+    for group in groups:
         # iterate each location we know about
-        for host in gang['locations']:
+        for host in group['locations']:
             host['available'] = bool()
             # we can only scrape onion v3, july 2021
             if host['version'] >= 3:
-                print(gang['name'])
+                print(group['name'])
                 # make a request through the established tor circuit
                 try:
                     response = requests.get(host['slug'], proxies=proxies, headers=headers)
-                    filename = gang['name'] + '-' + sharedutils.striptld(host['slug']) + '.html'
+                    filename = group['name'] + '-' + sharedutils.striptld(host['slug']) + '.html'
                     name = os.path.join(os.getcwd(), 'source', filename)
                     file = open(name, "w+")
                     file.write(response.text)
@@ -101,12 +101,12 @@ def scraper():
                     host['slug'] = response.url
                     host['lastscrape'] = str(datetime.today())
                 except requests.exceptions.Timeout as ret:
-                    print('failed scrape - connection timeout : ' + gang['name'] + ' [' + host['slug'] + ']')
+                    print('failed scrape - connection timeout : ' + group['name'] + ' [' + host['slug'] + ']')
                 except requests.exceptions.ConnectionError as rec:
-                    print('failed scrape - connection error : ' + gang['name'] + ' [' + host['slug'] + ']')
+                    print('failed scrape - connection error : ' + group['name'] + ' [' + host['slug'] + ']')
             host['updated'] = str(datetime.today())
-            with open('gangs.json', 'w', encoding='utf-8') as f:
-                json.dump(gangs, f, ensure_ascii=False, indent=4)
+            with open('groups.json', 'w', encoding='utf-8') as f:
+                json.dump(groups, f, ensure_ascii=False, indent=4)
 
 def reporter():
     diffs = sharedutils.runshellcmd('git diff --name-only normalised/ | cat')
@@ -116,11 +116,11 @@ def reporter():
         for diff in diffs:
             files = diff.split('/')[2].split('\n')
             for file in files:
-                gang = file.split('.')[0]
+                group = file.split('.')[0]
                 victims = sharedutils.runshellcmd('git diff main --no-ext-diff --unified=0 --exit-code -a --no-prefix normalised/' + file + ' | egrep "^\+" | sed "/^+++/d" | cut -d "+" -f2')
                 vicstring = "\n".join(victims)
-                ganghits = sharedutils.composecarditem(gang, vicstring)
-                adaptivecard['body'].append(ganghits)
+                grouphits = sharedutils.composecarditem(group, vicstring)
+                adaptivecard['body'].append(grouphits)
         webhookdata = sharedutils.makewebhook(adaptivecard)
         requests.post(args.webhookuri, json=webhookdata)
     else: 
@@ -131,30 +131,30 @@ def adder(name, location):
         print('records for ' + name + ' already exist, appending to avoid duplication')
         appender(args.name, args.location)
     else:
-        gangs = sharedutils.openjson("gangs.json")
+        groups = sharedutils.openjson("groups.json")
         newrec = createrec(name, location)
-        gangs.append(dict(newrec))
-        with open('gangs.json', 'w', encoding='utf-8') as f:
-            json.dump(gangs, f, ensure_ascii=False, indent=4)
+        groups.append(dict(newrec))
+        with open('groups.json', 'w', encoding='utf-8') as f:
+            json.dump(groups, f, ensure_ascii=False, indent=4)
 
 def appender(name, location):
-    gangs = sharedutils.openjson("gangs.json")
+    groups = sharedutils.openjson("groups.json")
     success = bool()
-    for gang in gangs:
-        if gang['name'] == name:
-            gang['locations'].append(sharedutils.siteschema(location))
+    for group in groups:
+        if group['name'] == name:
+            group['locations'].append(sharedutils.siteschema(location))
             success = True
     if success:
-        with open('gangs.json', 'w', encoding='utf-8') as f:
-            json.dump(gangs, f, ensure_ascii=False, indent=4)
+        with open('groups.json', 'w', encoding='utf-8') as f:
+            json.dump(groups, f, ensure_ascii=False, indent=4)
     else:
         print('cannot append to non-existing provider, ' + name)
 
 def lister():
-    gangs = sharedutils.openjson("gangs.json")
-    for gang in gangs:
-        for host in gang['locations']:
-            print(gang['name'] + ' - ' + host['slug'])
+    groups = sharedutils.openjson("groups.json")
+    for group in groups:
+        for host in group['locations']:
+            print(group['name'] + ' - ' + host['slug'])
 
 def grepper():
     subprocess.call(['./tools.sh', 'parser'])
