@@ -4,6 +4,8 @@
 
 An onionsite scraping framework, built to watch and track ransomware blogs.
 
+[![ransomwatch](https://github.com/thetanz/ransomwatch/actions/workflows/ransomwatch.yml/badge.svg)](https://github.com/thetanz/ransomwatch/actions/workflows/ransomwatch.yml) [![ransomwatch-build/](https://github.com/thetanz/ransomwatch/actions/workflows/ransomwatch-build.yml/badge.svg)](https://github.com/thetanz/ransomwatch/actions/workflows/ransomwatch-build.yml)
+
 ## Technicals
 
 The `groups.json` dictionary handles multiple nodes, relays or mirrors for a single group by storing each known location within a list.
