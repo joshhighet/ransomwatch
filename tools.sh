@@ -5,6 +5,27 @@ set -e
 
 # https://stackoverflow.com/questions/1732348/regex-match-open-tags-except-xhtml-self-contained-tags/1732454#1732454
 
+######
+# beautifulsoup would be a cleaner implementation but comes w/ setup grief
+# 
+# from bs4 import BeautifulSoup
+# 
+# def soupinit(file):
+#     htmldoc = sharedutils.openhtml(file)
+#     soup = BeautifulSoup(htmldoc, 'html.parser')
+#     return soup
+# 
+# def arvinclub(doc):
+#     soup = soupinit(doc)
+#     headers = soup.find_all('h2')
+#     for head in headers:
+#         part = str(head).partition('bookmark">')[2]
+#         title = part.strip('</a></h2>')
+#         print(title)
+# 
+# arvinclub('source/arvinclub.html')
+######
+
 if [ "$1" == "parser" ]; then
     ###💀😵‍💫✨
     # marketo
