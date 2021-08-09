@@ -25,6 +25,9 @@ jobs:
       - name: run parser
         run: |
           python3 ransomwatch.py parse
+      - name: markdown report
+        run: |
+          ./tools.sh markdown
       - name: teamscard report
         run: |
           python3 ransomwatch.py report --webhookuri ${{ secrets.MSTEAMS_WEBHOOK_URI }}
