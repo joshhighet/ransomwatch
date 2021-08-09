@@ -1,0 +1,9 @@
+.DS_Store
+*/.DS_Store
+.python_packages
+__pycache__
+.venv
+*/local.settings.json
+*/.python-version
+.vscode/settings.json
+.vscode/settings.json.lock
