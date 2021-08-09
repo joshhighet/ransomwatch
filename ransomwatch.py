@@ -32,29 +32,6 @@ if args.mode == 'report' and args.webhookuri is None:
 proxies = sharedutils.proxies
 headers = sharedutils.headers()
 
-
-'''
-sticking to hacky bash scripts for now on the parsing front.
-beautifulsoup would be a cleaner implementation but comes setup grief
-######
-from bs4 import BeautifulSoup
-
-def soupinit(file):
-    htmldoc = sharedutils.openhtml(file)
-    soup = BeautifulSoup(htmldoc, 'html.parser')
-    return soup
-
-def arvinclub(doc):
-    soup = soupinit(doc)
-    headers = soup.find_all('h2')
-    for head in headers:
-        part = str(head).partition('bookmark">')[2]
-        title = part.strip('</a></h2>')
-        print(title)
-
-arvinclub('source/arvinclub.html')
-'''
-
 def createrec(name, location):
     location = sharedutils.siteschema(location)
     insertdata = {
@@ -114,7 +91,8 @@ def reporter():
     if diffs != ([''] or []):
         adaptivecard['body'][1]['columns'][1]['items'][1]['text'] = str(datetime.today())
         for diff in diffs:
-            files = diff.split('/')[2].split('\n')
+            print(diff)
+            files = diff.split('/')[1].split('\n')
             for file in files:
                 group = file.split('.')[0]
                 victims = sharedutils.runshellcmd('git diff main --no-ext-diff --unified=0 --exit-code -a --no-prefix normalised/' + file + ' | egrep "^\+" | sed "/^+++/d" | cut -d "+" -f2')
