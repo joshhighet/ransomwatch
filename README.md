@@ -2,50 +2,68 @@
 
 # ransomwatch 👀 🦅
 
+An onionsite scraping framework, built to watch and track ransomware blogs.
 
-## Technical 
+## Technicals
 
-We use the [torproxy](https://github.com/thetanz/coretools) from the [**thetanz/coretools** registry](https://github.com/thetanz/coretools/pkgs/container/coretools%2Ftorproxy) to expose a tor SOCKS5 proxy to the GitHub Action through the use of a [Service Container](https://docs.github.com/en/actions/guides/about-service-containers)
+The `groups.json` dictionary handles multiple nodes, relays or mirrors for a single group by storing each known location within a list.
 
-This iterates any v3 onion addressses within [gangs.json](gangs.json), scraping raw HTML (there's no headless browser or JS processing involved, so no CAPTCHA bypassing)
+| location                 | function    |
+|--------------------------|-------------|
+| [normalised](normalised) | raw html    |
+| [source](source)         | parsed html |
 
-The HTML parsing is done with a mix of `grep`, `awk` and `sed`. It's brittle and like any HTML parsing, has a limited lifetime.
+### GitHub Action
 
-Once the HTML is parsed, deduplicated lists are built and can be found within the `normalised/` directory
-
-The `gangs.json` dictionary handles multiple nodes, relays or mirror for a single group by storing each known location within a list and the CLI supports easy additions of new relays and groups
+The [torproxy](https://github.com/thetanz/coretools) from the [**thetanz/coretools** registry](https://github.com/thetanz/coretools/pkgs/container/coretools%2Ftorproxy) exposes a tor SOCKS5 proxy to the GitHub Action through the use of a [Service Container](https://docs.github.com/en/actions/guides/about-service-containers)
 
 The GitHub Action runs every 24 hours at 12PM NZDT, updating this repository with findings. 
 
-Summary reports can be sent as [Adaptive Cards](https://adaptivecards.io) to a [Microsoft Teams Webhook](https://docs.microsoft.com/en-us/microsoftteams/platform/webhooks-and-connectors/how-to/add-incoming-webhook) by forking this repository and settings the `MSTEAMS_WEBHOOK_URI` secret for the GitHub Action to access. 
-
 ## Usage
 
-:bulb: *if running this locally, you'll need to establish a local tor circuit on tcp://9050* :bulb:
+_requires a local tor circuit on tcp://9050_
 
     docker run -p9050:9050 ghcr.io/thetanz/coretools/torproxy:latest
 
 ### Command Line Operations
 
+## Group Tracking
+
+_manage the groups within [groups.json](groups.json)_
+
+#### add new group
+
+    ransomwhere.py add --name acmecorp --location abcdefg.onion
+
+#### add new mirror for an existing group
+
+    ransomwhere.py append --name acmecorp --location abcdefghigklmnop.onion
+
 ### scraper
 
-iterate each gang using a torsocks proxy, saving the raw HTML within the `source/` directory
+iterates any v3 onion addressses within [groups.json](groups.json), scraping raw HTML (no headless browsers or javascript processing) into [`source/`](source)
 
     ransomwhere.py scrape
 
 ### parser
 
-iterate files within the `source/` directory placing vistims within `normalised/`
+iterate files within the `source/` directory and append to victim lists within [`normalised/`](normalised)
+
+> postprocessing is done with a mix of `grep`, `awk` and `sed` (see [tools.sh](tools.sh)). It's brittle and like most  ̴̭́H̶̤̓T̸̙̅M̶͇̾L̷͑ͅ ̴̙̏p̸̡͆a̷̛̦r̵̬̿s̴̙͛ĩ̴̺n̸̔͜g̸̘̈, has a limited lifetime.
 
     ransomwhere.py parse
 
-### add new gang to watchlist
+### reporter
 
-    ransomwhere.py add --name acmecorp --location abcdefg.onion
+Summary reports (new victims since the previous scrape action) can be sent as [Adaptive Cards](https://adaptivecards.io) to a [Microsoft Teams Webhook](https://docs.microsoft.com/en-us/microsoftteams/platform/webhooks-and-connectors/how-to/add-incoming-webhook)
 
-### add new mirror for existing gang to watchlist
+    ransomwhere.py report --webhookuri https://your-msteams-webhook
 
-    ransomwhere.py append --name acmecorp --location abcdefghigklmnop.onion
+If you're not running this locally, you might want to avoid having your webhook location exposed.
+
+> Set this up by forking this repository and [adding a repository secret](https://docs.github.com/en/actions/reference/encrypted-secrets#creating-encrypted-secrets-for-a-repository) named `MSTEAMS_WEBHOOK_URI` with the location of your webhook for the GitHub Action to access. 
+
+> The [GitHub CLI](https://github.com/cli/cli) can be used to add this with `gh secret set MSTEAMS_WEBHOOK_URI --repos ransomwatch`
 
 ---
 
