@@ -1,0 +1,36 @@
+name: ransomwatch
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  torsocks-job:
+    runs-on: ubuntu-latest
+    services:
+      torproxy:
+        image: ghcr.io/thetanz/coretools/torproxy:latest
+        ports:
+        - 9050:9050
+    steps:
+      - name: checkout the repo
+        uses: actions/checkout@v2
+      - name: install dependencies
+        run: |
+          pip3 install -r requirements.txt
+      - name: run scraper
+        run: |
+          python3 ransomwatch.py scrape
+      - name: run parser
+        run: |
+          python3 ransomwatch.py parse
+      - name: teamscard report
+        run: |
+          python3 ransomwatch.py report --webhook ${{ secrets.MSTEAMS_WEBHOOK_URI }}
+      - name: save changes
+        run: |
+          git config --global user.email "theta-bot@users.noreply.github.com"
+          git config --global user.name "theta-bot"
+          git commit --all --message "thetabot cron 👋" || echo "no changes to commit"
+          git push
