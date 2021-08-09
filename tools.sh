@@ -260,6 +260,29 @@ if [ "$1" == "parser" ]; then
     sort -u normalised/darkleakmarket.txt | uniq > normalised/darkleakmarket.sorted.txt
     mv normalised/darkleakmarket.sorted.txt normalised/darkleakmarket.txt
     ###💀😵‍💫✨
+elif [ "$1" == "markdown" ]; then
+
+echo """![](https://avatars0.githubusercontent.com/u/2897191?s=90&v=4)
+
+# ransomwatch group report 👀 🦅
+
+> groups may have multiple sites or mirrors. multiple reports for a single group are expected
+
+| group | online | last seen  | last update |
+|-------|--------|------------|-------------|""" > REPORT.md
+
+    groups=`jq '.[].name' -r groups.json`
+
+    for group in ${groups}
+    do
+        groupdata=`jq -r '.[] | select(.name=="'${group}'")' groups.json`
+        groupname=`echo ${groupdata} | jq -r .name`
+        availability=`echo ${groupdata} | jq -r .locations[].available`
+        lastscrapetz=`echo ${groupdata} | jq -r .locations[].lastscrape`
+        lastupdatetz=`echo ${groupdata} | jq -r .locations[].updated`
+        echo '| '${groupname}' | '${availability}' | '${lastscrapetz}' | '${lastupdatetz}' |' >> REPORT.md
+    done
+
 else
-   echo "mode must be specified (parser or report)!"
+   echo "mode must be specified (parser or markdown)!"
 fi
