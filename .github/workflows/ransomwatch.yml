@@ -27,7 +27,7 @@ jobs:
           python3 ransomwatch.py parse
       - name: teamscard report
         run: |
-          python3 ransomwatch.py report --webhook ${{ secrets.MSTEAMS_WEBHOOK_URI }}
+          python3 ransomwatch.py report --webhookuri ${{ secrets.MSTEAMS_WEBHOOK_URI }}
       - name: save changes
         run: |
           git config --global user.email "theta-bot@users.noreply.github.com"
