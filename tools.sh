@@ -3,8 +3,9 @@
 
 set -e
 
+# https://stackoverflow.com/questions/1732348/regex-match-open-tags-except-xhtml-self-contained-tags/1732454#1732454
+
 if [ "$1" == "parser" ]; then
-    # https://stackoverflow.com/questions/1732348/regex-match-open-tags-except-xhtml-self-contained-tags/1732454#1732454
     ###💀😵‍💫✨
     # marketo
     # dead
