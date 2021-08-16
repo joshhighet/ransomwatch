@@ -603,5 +603,20 @@
                 "lastscrape": null
             }
         ]
+    },
+    {
+        "name": "payloadbin",
+        "locations": [
+            {
+                "fqdn": "vbmisqjshn4yblehk2vbnil53tlqklxsdaztgphcilto3vdj4geao5qd.onion",
+                "title": null,
+                "version": 3,
+                "slug": "http://vbmisqjshn4yblehk2vbnil53tlqklxsdaztgphcilto3vdj4geao5qd.onion/",
+                "meta": "payload.bin",
+                "available": null,
+                "updated": null,
+                "lastscrape": null
+            }
+        ]
     }
 ]

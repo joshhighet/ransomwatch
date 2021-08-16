@@ -278,6 +278,13 @@ if [ "$1" == "parser" ]; then
     sort -u normalised/blackmatter.txt | uniq > normalised/blackmatter.sorted.txt
     mv normalised/blackmatter.sorted.txt normalised/blackmatter.txt
     ###💀😵‍💫✨
+    # payloadbin
+    grep '<h4 class="h4' source/payloadbin-* \
+    | cut -d '>' -f3 | cut -d '<' -f 1 \
+    | tee -a normalised/payloadbin.txt
+    sort -u normalised/payloadbin.txt | uniq > normalised/payloadbin.sorted.txt
+    mv normalised/payloadbin.sorted.txt normalised/payloadbin.txt
+    ###💀😵‍💫✨
 elif [ "$1" == "markdown" ]; then
 
 echo """> groups may have multiple sites or mirrors. multiple reports for a single group are expected
