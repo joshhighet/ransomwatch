@@ -32,7 +32,7 @@ if [ "$1" == "parser" ]; then
     # dead
     ###💀😵‍💫✨
     # synack
-    grep 'card-title' source/synack*.html \
+    grep 'card-title' source/synack*.html --no-filename \
     | cut -d ">" -f2 \
     | cut -d "<" -f1 \
     | tee -a normalised/synack.txt
@@ -54,7 +54,7 @@ if [ "$1" == "parser" ]; then
     # uses javascript
     ###💀😵‍💫✨
     # lorenz
-    grep 'h3' source/lorenz*.html \
+    grep 'h3' source/lorenz*.html --no-filename \
     | cut -d ">" -f2 \
     | cut -d "<" -f1 \
     | sed -e 's/^ *//g' -e '/^$/d' \
@@ -81,7 +81,7 @@ if [ "$1" == "parser" ]; then
     # uses javascript
     ###💀😵‍💫✨
     # arvinclub
-    grep 'bookmark' source/arvinclub*.html \
+    grep 'bookmark' source/arvinclub*.html --no-filename \
     | cut -d ">" -f3 \
     | cut -d "<" -f1 \
     | tee -a normalised/arvinclub.txt
@@ -99,7 +99,7 @@ if [ "$1" == "parser" ]; then
     # uses javascript
     ###💀😵‍💫✨
     # avaddon
-    grep 'h6' source/avaddon*.html \
+    grep 'h6' source/avaddon*.html --no-filename \
     | cut -d ">" -f3 \
     | sed -e s/'<\/a'// \
     | tee -a normalised/avaddon.txt
@@ -110,7 +110,7 @@ if [ "$1" == "parser" ]; then
     # dead
     ###💀😵‍💫✨
     # xinglocker
-    grep "h3" -A1 source/xinglocker*.html \
+    grep "h3" -A1 source/xinglocker*.html --no-filename \
     | grep -v h3 \
     | awk -v n=4 'NR%n==1' \
     | sed -e 's/^[ \t]*//' \
@@ -122,7 +122,7 @@ if [ "$1" == "parser" ]; then
     # dead
     ###💀😵‍💫✨
     # ragnarlocker - has json within html source so fetch & postprocess w/ jq
-    grep 'var post_links' source/ragnarlocker*.html \
+    grep 'var post_links' source/ragnarlocker*.html --no-filename \
     | sed -e s/"        var post_links = "// -e "s/ ;//" \
     | jq > source/ragnarlocker.json
     jq -r '.[].title' source/ragnarlocker.json \
@@ -131,7 +131,7 @@ if [ "$1" == "parser" ]; then
     mv normalised/ragnarlocker.sorted.txt normalised/ragnarlocker.txt
     ###💀😵‍💫✨
     # clop
-    grep 'PUBLISHED' source/clop*.html \
+    grep 'PUBLISHED' source/clop*.html --no-filename \
     | sed -e s/"<strong>"// -e s/"<\/strong>"// -e s/"<\/p>"// \
     -e s/"<p>"// -e s/"<br>"// -e s/"<strong>"// -e s/"<\/strong>"// \
     | tee -a normalised/clop.txt
@@ -145,7 +145,7 @@ if [ "$1" == "parser" ]; then
     # uses javascript
     ###💀😵‍💫✨
     # revil
-    grep 'href="/posts' source/revil*.html \
+    grep 'href="/posts' source/revil*.html --no-filename \
     | cut -d '>' -f2 \
     | sed -e s/'<\/a'// -e 's/^[ \t]*//' \
     | tee -a normalised/revil.txt
@@ -159,7 +159,7 @@ if [ "$1" == "parser" ]; then
     # dead
     ###💀😵‍💫✨
     # conti
-    grep 'class="title">&' source/conti*.html \
+    grep 'class="title">&' source/conti*.html --no-filename \
     | cut -d ";" -f2 \
     | sed -e s/"&rdquo"// \
     | tee -a normalised/conti.txt
@@ -167,7 +167,7 @@ if [ "$1" == "parser" ]; then
     mv normalised/conti.sorted.txt normalised/conti.txt
     ###💀😵‍💫✨
     # pysa
-    grep 'icon-chevron-right' source/pysa*.html \
+    grep 'icon-chevron-right' source/pysa*.html --no-filename \
     | cut -d '>' -f3 \
     | sed 's/^ *//g' \
     | tee -a normalised/pysa.txt
@@ -175,7 +175,7 @@ if [ "$1" == "parser" ]; then
     mv normalised/pysa.sorted.txt normalised/pysa.txt
     ###💀😵‍💫✨
     #nefilim
-    grep 'h2' source/nefilim*.html \
+    grep 'h2' source/nefilim*.html --no-filename \
     | cut -d '>' -f3 \
     | sed -e s/'<\/a'// \
     | tee -a normalised/nefilim.txt
@@ -186,7 +186,7 @@ if [ "$1" == "parser" ]; then
     # dead
     ###💀😵‍💫✨
     # mount locker
-    grep '<h3><a href=' source/mount-locker*.html \
+    grep '<h3><a href=' source/mount-locker*.html --no-filename \
     | cut -d '>' -f5 \
     | sed -e s/'<\/a'// \
     | sed 's/^ *//g' \
@@ -196,7 +196,7 @@ if [ "$1" == "parser" ]; then
     ###💀😵‍💫✨
     # babuk
     # https://github.com/thetanz/ransomwatch/issues/7
-    grep '<h5>' source/babuk-locker-* \
+    grep '<h5>' source/babuk-locker-*.html --no-filename \
     | sed 's/^ *//g' \
     | cut -d '>' -f2 \
     | cut -d '<' -f1 \
@@ -207,7 +207,7 @@ if [ "$1" == "parser" ]; then
     mv normalised/babuk.sorted.txt normalised/babuk.txt
     ###💀😵‍💫✨
     # ransomexx
-    grep 'card-title' source/ransomexx*.html \
+    grep 'card-title' source/ransomexx*.html --no-filename \
     | cut -d '>' -f2 \
     | sed -e s/'<\/h5'// \
     | tee -a normalised/ransomexx.txt
@@ -215,7 +215,7 @@ if [ "$1" == "parser" ]; then
     mv normalised/ransomexx.sorted.txt normalised/ransomexx.txt
     ###💀😵‍💫✨
     # cuba
-    grep '<p>' source/cuba*.html \
+    grep '<p>' source/cuba*.html --no-filename \
     | cut -d '>' -f3 \
     | cut -d '<' -f1 \
     | tee -a normalised/cuba.txt
@@ -223,7 +223,7 @@ if [ "$1" == "parser" ]; then
     mv normalised/cuba.sorted.txt normalised/cuba.txt
     ###💀😵‍💫✨
     # pay2key
-    grep 'h3><a href' source/pay2key*.html \
+    grep 'h3><a href' source/pay2key*.html --no-filename \
     | cut -d '>' -f3 \
     | sed -e s/'<\/a'// \
     | tee -a normalised/pay2key.txt
@@ -231,7 +231,7 @@ if [ "$1" == "parser" ]; then
     mv normalised/pay2key.sorted.txt normalised/pay2key.txt
     ###💀😵‍💫✨
     # azroteam
-    grep "h3" -A1 source/aztroteam*.html \
+    grep "h3" -A1 source/aztroteam*.html --no-filename \
     | grep -v h3 \
     | awk -v n=4 'NR%n==1' \
     | sed -e 's/^[ \t]*//' \
@@ -240,7 +240,7 @@ if [ "$1" == "parser" ]; then
     mv normalised/aztroteam.sorted.txt normalised/aztroteam.txt
     ###💀😵‍💫✨
     # lockdata
-    grep '<a href="/view.php?' source/lockdata-*.html \
+    grep '<a href="/view.php?' source/lockdata-*.html --no-filename \
     | cut -d '>' -f2 \
     | cut -d '<' -f1 \
     | tee -a normalised/lockdata.txt
@@ -260,7 +260,7 @@ if [ "$1" == "parser" ]; then
     # does not have a vlog
     ###💀😵‍💫✨
     # darkleakmarket
-    grep 'page.php' source/darkleakmarket-*.html \
+    grep 'page.php' source/darkleakmarket-*.html --no-filename \
     | sed -e 's/^[ \t]*//' \
     | cut -d '>' -f3 \
     | sed '/^</d' \
@@ -270,7 +270,7 @@ if [ "$1" == "parser" ]; then
     mv normalised/darkleakmarket.sorted.txt normalised/darkleakmarket.txt
     ###💀😵‍💫✨
     # blackmatter
-    grep '<h4>' source/blackmatter-* \
+    grep '<h4>' source/blackmatter-* --no-filename \
     |  sed 's/^ *//g' \
     | cut -d '>' -f2 \
     | cut -d '<' -f1 \
@@ -279,7 +279,7 @@ if [ "$1" == "parser" ]; then
     mv normalised/blackmatter.sorted.txt normalised/blackmatter.txt
     ###💀😵‍💫✨
     # payloadbin
-    grep '<h4 class="h4' source/payloadbin-* \
+    grep '<h4 class="h4' source/payloadbin-* --no-filename \
     | cut -d '>' -f3 | cut -d '<' -f 1 \
     | tee -a normalised/payloadbin.txt
     sort -u normalised/payloadbin.txt | uniq > normalised/payloadbin.sorted.txt
