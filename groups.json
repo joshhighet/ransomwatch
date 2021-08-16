@@ -588,5 +588,20 @@
                 "lastscrape": null
             }
         ]
+    },
+    {
+        "name": "blackmatter",
+        "locations": [
+            {
+                "fqdn": "blackmax7su6mbwtcyo3xwtpfxpm356jjqrs34y4crcytpw7mifuedyd.onion",
+                "title": null,
+                "version": 3,
+                "slug": "http://blackmax7su6mbwtcyo3xwtpfxpm356jjqrs34y4crcytpw7mifuedyd.onion/",
+                "meta": null,
+                "available": null,
+                "updated": null,
+                "lastscrape": null
+            }
+        ]
     }
 ]

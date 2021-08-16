@@ -201,7 +201,10 @@ if [ "$1" == "parser" ]; then
     | cut -d '>' -f2 \
     | cut -d '<' -f1 \
     | grep -wv 'Hospitals\|Non-Profit\|Schools\|Small Business' \
-    | sed '/^[[:space:]]*$/d'
+    | sed '/^[[:space:]]*$/d' \
+    | tee -a normalised/babuk.txt
+    sort -u normalised/babuk.txt | uniq > normalised/babuk.sorted.txt
+    mv normalised/babuk.sorted.txt normalised/babuk.txt
     ###💀😵‍💫✨
     # ransomexx
     grep 'card-title' source/ransomexx*.html \
@@ -265,6 +268,15 @@ if [ "$1" == "parser" ]; then
     | tee -a normalised/darkleakmarket.txt
     sort -u normalised/darkleakmarket.txt | uniq > normalised/darkleakmarket.sorted.txt
     mv normalised/darkleakmarket.sorted.txt normalised/darkleakmarket.txt
+    ###💀😵‍💫✨
+    # blackmatter
+    grep '<h4>' source/blackmatter-* \
+    |  sed 's/^ *//g' \
+    | cut -d '>' -f2 \
+    | cut -d '<' -f1 \
+    | tee -a normalised/blackmatter.txt
+    sort -u normalised/blackmatter.txt | uniq > normalised/blackmatter.sorted.txt
+    mv normalised/blackmatter.sorted.txt normalised/blackmatter.txt
     ###💀😵‍💫✨
 elif [ "$1" == "markdown" ]; then
 
