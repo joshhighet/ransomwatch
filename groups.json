@@ -573,5 +573,20 @@
                 "lastscrape": "2021-08-16 00:08:33.236312"
             }
         ]
+    },
+    {
+        "name": "prometheus",
+        "locations": [
+            {
+                "fqdn": "promethw27cbrcot.onion",
+                "title": null,
+                "version": 2,
+                "slug": "http://promethw27cbrcot.onion/blog/",
+                "meta": null,
+                "available": null,
+                "updated": null,
+                "lastscrape": null
+            }
+        ]
     }
 ]
