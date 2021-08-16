@@ -40,7 +40,7 @@ if [ "$1" == "parser" ]; then
     mv normalised/synack.sorted.txt normalised/synack.txt
     ###💀😵‍💫✨
     # suncrypt
-    cat suncrypt-*.html \
+    cat source/suncrypt-*.html \
     | tr '>' '\n' \
     | grep -A1 '<a href="client?id=' \
     | sed '/^--/d' \
@@ -89,7 +89,7 @@ if [ "$1" == "parser" ]; then
     mv normalised/arvinclub.sorted.txt normalised/arvinclub.txt
     ###💀😵‍💫✨
     # avoslocker
-    sed -n -e 's/^.*aria-hidden="true"><\/i> //p' avoslocker-*.html \
+    sed -n -e 's/^.*aria-hidden="true"><\/i> //p' source/avoslocker-*.html \
     | cut -d "<" -f1 \
     | tee -a normalised/avoslocker.txt
     sort -u normalised/avoslocker.txt | uniq > normalised/avoslocker.sorted.txt
