@@ -194,8 +194,14 @@ if [ "$1" == "parser" ]; then
     sort -u normalised/mount-locker.txt | uniq > normalised/mount-locker.sorted.txt
     mv normalised/mount-locker.sorted.txt normalised/mount-locker.txt
     ###💀😵‍💫✨
-    # babuk 
+    # babuk
     # https://github.com/thetanz/ransomwatch/issues/7
+    grep '<h5>' source/babuk-locker-* \
+    | sed 's/^ *//g' \
+    | cut -d '>' -f2 \
+    | cut -d '<' -f1 \
+    | grep -wv 'Hospitals\|Non-Profit\|Schools\|Small Business' \
+    | sed '/^[[:space:]]*$/d'
     ###💀😵‍💫✨
     # ransomexx
     grep 'card-title' source/ransomexx*.html \
