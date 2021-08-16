@@ -48,7 +48,7 @@
         {
             "type": "Action.OpenUrl",
             "title": "View Changes",
-            "url": "https://github.com/thetanz/ransomwatch/tree/main/watcher/normalised"
+            "url": "https://github.com/thetanz/ransomwhere/tree/main/watcher/normalised"
         }
     ],
     "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
