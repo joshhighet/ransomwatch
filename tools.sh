@@ -156,7 +156,13 @@ if [ "$1" == "parser" ]; then
     # dead
     ###💀😵‍💫✨
     # ragnarok
-    # dead
+    grep '<h2 class="title">' -A2 source/ragnarok-*.html --no-filename \
+    | grep -wv 'h2 class\|href' \
+    | sed '/^--/d' \
+    | sed 's/^ *//g' \
+    | tee -a normalised/ragnarok.txt
+    sort -u normalised/ragnarok.txt | uniq > normalised/ragnarok.sorted.txt
+    mv normalised/ragnarok.sorted.txt normalised/ragnarok.txt
     ###💀😵‍💫✨
     # conti
     grep 'class="title">&' source/conti*.html --no-filename \
