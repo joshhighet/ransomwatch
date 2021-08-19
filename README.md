@@ -19,7 +19,7 @@ The `groups.json` dictionary handles multiple nodes, relays or mirrors for a sin
 
 ### GitHub Action
 
-The [torproxy](https://github.com/thetanz/coretools) from the [**thetanz/coretools** registry](https://github.com/thetanz/coretools/pkgs/container/coretools%2Ftorproxy) exposes a tor SOCKS5 proxy to the GitHub Action through the use of a [Service Container](https://docs.github.com/en/actions/guides/about-service-containers)
+The [torproxy](https://github.com/thetanz/gotham) from the [**thetanz/gotham** registry](https://github.com/thetanz/gotham/pkgs/container/gotham%2Ftorproxy) exposes a tor SOCKS5 proxy to the GitHub Action through the use of a [Service Container](https://docs.github.com/en/actions/guides/about-service-containers)
 
 The GitHub Action runs every 24 hours at 12PM NZDT, updating this repository with findings. 
 
@@ -27,7 +27,7 @@ The GitHub Action runs every 24 hours at 12PM NZDT, updating this repository wit
 
 _requires a local tor circuit on tcp://9050_
 
-    docker run -p9050:9050 ghcr.io/thetanz/coretools/torproxy:latest
+    docker run -p9050:9050 ghcr.io/thetanz/gotham/torproxy:latest
 
 ## Command Line Operations
 
