@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
         <title>BlackMatter</title>
     <meta name="csrf-param" content="_csrf">
-<meta name="csrf-token" content="JbXG2mHclbZslXmYc1XlSK3gp7SJRErEiP9YjNhtJj1K4ZWiCJHHhBb_LfkaOLAm5Lby5eALH6K6ljLelgBEfw==">
+<meta name="csrf-token" content="sTpNsXqDNyg29Q9EnGJ8xgs6_KGWF5q-zALZL8wQW-qFdQmHG9tARHieSDb-UxSySnbPlsBI2NeDMfR4rkM6nQ==">
 
 <link href="/assets/456911ef/css/bootstrap.css" rel="stylesheet">
 <link href="/css/site.css?16" rel="stylesheet"></head>
@@ -286,14 +286,9 @@
                 <div class="tab-content mt-0">
                     <div class="tab-pane active" id="requestInfo" role="tabpanel">
                         <form id="w2" action="/contact/send-request" method="post">
-<input type="hidden" name="_csrf" value="JbXG2mHclbZslXmYc1XlSK3gp7SJRErEiP9YjNhtJj1K4ZWiCJHHhBb_LfkaOLAm5Lby5eALH6K6ljLelgBEfw==">                        <div class="form-group field-contactform-name required">
+<input type="hidden" name="_csrf" value="sTpNsXqDNyg29Q9EnGJ8xgs6_KGWF5q-zALZL8wQW-qFdQmHG9tARHieSDb-UxSySnbPlsBI2NeDMfR4rkM6nQ==">                        <div class="form-group field-contactform-name required">
 
 <input type="text" id="contactform-name" class="form-control text-center" name="ContactForm[name]" placeholder="Type your name" aria-required="true">
-
-
-</div>                        <div class="form-group field-contactform-email required">
-
-<input type="text" id="contactform-email" class="form-control text-center" name="ContactForm[email]" placeholder="Type your email" aria-required="true">
 
 
 </div>                        <div class="form-group field-contactform-message required">
@@ -312,7 +307,7 @@
 
                     <div class="tab-pane" id="answerInfo" role="tabpanel">
                         <form id="w3" action="/contact/show-result" method="post">
-<input type="hidden" name="_csrf" value="JbXG2mHclbZslXmYc1XlSK3gp7SJRErEiP9YjNhtJj1K4ZWiCJHHhBb_LfkaOLAm5Lby5eALH6K6ljLelgBEfw==">                        <div class="form-group field-answerform-requestid required">
+<input type="hidden" name="_csrf" value="sTpNsXqDNyg29Q9EnGJ8xgs6_KGWF5q-zALZL8wQW-qFdQmHG9tARHieSDb-UxSySnbPlsBI2NeDMfR4rkM6nQ==">                        <div class="form-group field-answerform-requestid required">
 
 <input type="text" id="answerform-requestid" class="form-control text-center" name="AnswerForm[requestId]" placeholder="Type request ID" aria-required="true">
 
@@ -383,7 +378,7 @@ if(typeof window.w1_ias === 'object') { window.w1_ias.reinitialize() }
     };
 }
 )();
-jQuery('#w2').yiiActiveForm([{"id":"contactform-name","name":"name","container":".field-contactform-name","input":"#contactform-name","error":".invalid-feedback","validate":function (attribute, value, messages, deferred, $form) {yii.validation.required(value, messages, {"message":"Name cannot be blank."});value = yii.validation.trim($form, attribute, [], value);yii.validation.string(value, messages, {"message":"Name must be a string.","max":100,"tooLong":"Name should contain at most 100 characters.","skipOnEmpty":1});}},{"id":"contactform-email","name":"email","container":".field-contactform-email","input":"#contactform-email","error":".invalid-feedback","validate":function (attribute, value, messages, deferred, $form) {yii.validation.required(value, messages, {"message":"Email cannot be blank."});value = yii.validation.trim($form, attribute, [], value);yii.validation.email(value, messages, {"pattern":/^[a-zA-Z0-9!#$%&'*+\/=?^_`{|}~-]+(?:\.[a-zA-Z0-9!#$%&'*+\/=?^_`{|}~-]+)*@(?:[a-zA-Z0-9](?:[a-zA-Z0-9-]*[a-zA-Z0-9])?\.)+[a-zA-Z0-9](?:[a-zA-Z0-9-]*[a-zA-Z0-9])?$/,"fullPattern":/^[^@]*<[a-zA-Z0-9!#$%&'*+\/=?^_`{|}~-]+(?:\.[a-zA-Z0-9!#$%&'*+\/=?^_`{|}~-]+)*@(?:[a-zA-Z0-9](?:[a-zA-Z0-9-]*[a-zA-Z0-9])?\.)+[a-zA-Z0-9](?:[a-zA-Z0-9-]*[a-zA-Z0-9])?>$/,"allowName":false,"message":"Email is not a valid email address.","enableIDN":false,"skipOnEmpty":1});}},{"id":"contactform-message","name":"message","container":".field-contactform-message","input":"#contactform-message","error":".invalid-feedback","validate":function (attribute, value, messages, deferred, $form) {yii.validation.required(value, messages, {"message":"Message cannot be blank."});value = yii.validation.trim($form, attribute, [], value);yii.validation.string(value, messages, {"message":"Message must be a string.","max":5000,"tooLong":"Message should contain at most 5,000 characters.","skipOnEmpty":1});}},{"id":"contactform-captcha","name":"captcha","container":".field-contactform-captcha","input":"#contactform-captcha","error":".invalid-feedback","validate":function (attribute, value, messages, deferred, $form) {yii.validation.required(value, messages, {"message":"Captcha cannot be blank."});}}], {"errorSummary":".alert.alert-danger","errorCssClass":"is-invalid","successCssClass":"is-valid","validationStateOn":"input"});
+jQuery('#w2').yiiActiveForm([{"id":"contactform-name","name":"name","container":".field-contactform-name","input":"#contactform-name","error":".invalid-feedback","validate":function (attribute, value, messages, deferred, $form) {yii.validation.required(value, messages, {"message":"Name cannot be blank."});value = yii.validation.trim($form, attribute, [], value);yii.validation.string(value, messages, {"message":"Name must be a string.","max":100,"tooLong":"Name should contain at most 100 characters.","skipOnEmpty":1});}},{"id":"contactform-message","name":"message","container":".field-contactform-message","input":"#contactform-message","error":".invalid-feedback","validate":function (attribute, value, messages, deferred, $form) {yii.validation.required(value, messages, {"message":"Message cannot be blank."});value = yii.validation.trim($form, attribute, [], value);yii.validation.string(value, messages, {"message":"Message must be a string.","max":5000,"tooLong":"Message should contain at most 5,000 characters.","skipOnEmpty":1});}},{"id":"contactform-captcha","name":"captcha","container":".field-contactform-captcha","input":"#contactform-captcha","error":".invalid-feedback","validate":function (attribute, value, messages, deferred, $form) {yii.validation.required(value, messages, {"message":"Captcha cannot be blank."});}}], {"errorSummary":".alert.alert-danger","errorCssClass":"is-invalid","successCssClass":"is-valid","validationStateOn":"input"});
 jQuery('#w3').yiiActiveForm([], {"errorSummary":".alert.alert-danger","errorCssClass":"is-invalid","successCssClass":"is-valid","validationStateOn":"input"});
 });</script></body>
 </html>
