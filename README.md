@@ -2,7 +2,7 @@
 
 # ransomwatch 👀 🦅
 
-[thetanz.github.io/ransomwatch/report](https://thetanz.github.io/ransomwatch/report)
+[ransomwatch.telemetry.ltd/report](https://ransomwatch.telemetry.ltd/report)
 
 An onionsite scraping framework, built to watch and track ransomware blogs.
 
