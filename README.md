@@ -14,8 +14,8 @@ an onionsite scraping framework, built to watch and track ransomware blogs.
 
 | location                 | function    |
 |--------------------------|-------------|
-| [normalised](normalised) | raw html    |
-| [source](source)         | parsed html |
+| [normalised](normalised) | parsed victim lists |
+| [source](source)         | raw/source html |
 
 ### GitHub Action
 
