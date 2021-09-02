@@ -1,4 +1,4 @@
-name: "CodeQL"
+name: "codeql"
 
 on:
   push:
@@ -23,16 +23,17 @@ jobs:
         language: [ 'python' ]
 
     steps:
-    - name: Checkout repository
+    - name: checkout repo
       uses: actions/checkout@v2
 
-    - name: Initialize CodeQL
+    - name: init codeql
       uses: github/codeql-action/init@v1
       with:
         languages: ${{ matrix.language }}
+        queries: security-and-quality
 
-    - name: Autobuild
+    - name: autobuild
       uses: github/codeql-action/autobuild@v1
 
-    - name: Perform CodeQL Analysis
+    - name: run analysis
       uses: github/codeql-action/analyze@v1
