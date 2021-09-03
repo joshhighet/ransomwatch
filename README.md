@@ -6,6 +6,8 @@
 
 an onionsite scraping framework, built to watch and track ransomware blogs.
 
+30+ groups, 40+ mirrors - scraped and parsed, all within github actions - with daily reports
+
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=thetanz_ransomwatch&metric=alert_status)](https://sonarcloud.io/dashboard?id=thetanz_ransomwatch) [![ransomwatch](https://github.com/thetanz/ransomwatch/actions/workflows/ransomwatch.yml/badge.svg)](https://github.com/thetanz/ransomwatch/actions/workflows/ransomwatch.yml) [![ransomwatch-build/](https://github.com/thetanz/ransomwatch/actions/workflows/ransomwatch-build.yml/badge.svg)](https://github.com/thetanz/ransomwatch/actions/workflows/ransomwatch-build.yml) [![CodeQL](https://github.com/thetanz/ransomwatch/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/thetanz/ransomwatch/actions/workflows/codeql-analysis.yml)
 
 ## technicals
@@ -21,7 +23,7 @@ an onionsite scraping framework, built to watch and track ransomware blogs.
 
 [torproxy](https://github.com/thetanz/gotham) from the [**thetanz/gotham** registry](https://github.com/thetanz/gotham/pkgs/container/gotham%2Ftorproxy) exposes a tor SOCKS5 proxy to the GitHub Action through the use of a [Service Container](https://docs.github.com/en/actions/guides/about-service-containers)
 
-The GitHub Action runs a sequence of commands with ransomwatch.py every 24 hours at 12PM NZDT, updating this repository with findings and optionally sending a report to ms Teams on new posts.
+The GitHub Action runs a sequence of commands with ransomwatch.py every 24 hours at 12PM NZDT, updating this repository with findings and optionally sending a report to Teams with newly discovered posts.
 
 ![7B410D65-5B69-4470-ABF5-E31265306293](https://user-images.githubusercontent.com/17993143/130734538-99d8a8ba-7e03-4df3-8360-7e46a676afdd.jpeg)
 
