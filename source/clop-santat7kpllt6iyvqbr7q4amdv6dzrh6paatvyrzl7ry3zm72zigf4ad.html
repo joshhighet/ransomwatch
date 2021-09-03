@@ -58,7 +58,7 @@ table {
 
 input, select, textarea {
     border: 0;
-    box-shadow: 0
+    box-shadow: none;
 }
 
 html {
@@ -74,9 +74,6 @@ body {
     color: #858796;
 }
 
-.logobgimg {
-    background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAMAAAAM7l6QAAAA4VBMVEX///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////9pPP/NAAAASnRSTlMABAcJCwwQFBYdHyIjKTQ2Oj5ESkxOUVZXWGBkZWlqb3Bzd3+Ag5GZnJ6io6Sxt7q+wMbHyMnNztXW2dvh5ejp6uvw8/T2+fr7/f+3i2wAAADLSURBVCjPzdPXDoJAEAVQ7NgL9q7YG/Zesc//f5DuJG4YBBLfvG93T2CyuyAIXwkAy0AwiR95Zs3Tf2SfIYs5uV57p9Iw4OAQaAiXASxYBitOghU79rjwaEvRRPf5xVXsaw8Wz0rH9gmrR/dngyrlGNYif1mWcgEHi5y9lPGUNppt7gi3WFtqeEsYz+Ro4+o6E07jrAjnMJ0dPLGqcO7ojiWUkqR45vN4CQzvuz92ssFNMOYe3OfK4gambP45/Mz6nyh/UK8XHhjh4gvTGmQQRyXgEgAAAABJRU5ErkJggg==)
-}
 
 .container {
     width: 100%;
@@ -102,20 +99,10 @@ body {
     display: inline-block;
     vertical-align: middle;
     text-decoration: none;
-    margin-bottom: 10px
+    margin-bottom: 10px;
+    margin-top: 30px;
 }
 
-.container > .inner > .logo > .square {
-    display: inline-block;
-    vertical-align: middle;
-    width: 40px;
-    height: 40px;
-    background-color: #4e73df;
-    background-size: 24px 24px;
-    background-position: center center;
-    background-repeat: no-repeat;
-    margin-right: 10px
-}
 
 .container > .inner > .logo > .text {
     display: inline-block;
@@ -125,166 +112,28 @@ body {
     font-weight: 700
 }
 
-.container > .inner > .date {
-    display: block;
-    text-align: center;
-    font-size: 42px
-}
 
 p {
     margin-bottom: 10px
 }
-
-.eta {
-    display: inline-block;
-    vertical-align: top;
-    padding: 0 8px;
-    height: 26px;
-    border-radius: 2px;
-    background-color: #4e73df;
-    color: #fff;
-    font-weight: 700;
-    line-height: 26px
-}
-
-.queue-graphic {
-    width: 10px;
-    height: 120px;
-    margin: 10px auto;
-    text-align: center
-}
-
-.queue-graphic > .user-wrap > .user-body {
-    float: left;
-    position: absolute
-}
-
-.queue-graphic > .user-wrap > .user-body > .user-head {
-    width: 20px;
-    height: 20px;
-    border-radius: 100%;
-    background-color: #4e73df;
-    position: absolute;
-    margin-top: 15px;
-    margin-left: -6px
-}
-
-.queue-graphic > .user-wrap > .user-body > .user-torsoe {
-    background-color: #4e73df;
-    height: 42px;
-    width: 20px;
-    position: absolute;
-    margin-top: 32px;
-    margin-left: -10px;
-    border-radius: 5px;
-    background-size: 60% auto;
-    background-position: 60% center;
-    background-repeat: no-repeat;
-    z-index: 2
-}
-
-.queue-graphic > .user-wrap > .user-body > .user-arm-left, .queue-graphic > .user-wrap > .user-body > .user-arm-right {
-    margin-top: 38px;
-    height: 40px;
-    width: 8px;
-    background: #4e73df;
-    float: left;
-    border-radius: 5px;
-    position: relative
-}
-
-.queue-graphic > .user-wrap > .user-body > .user-arm-left {
-    margin-left: -6px;
-    z-index: 5
-}
-
-.queue-graphic > .user-wrap > .user-body > .user-arm-right {
-    background-color: #365bbe;
-    margin-left: 0
-}
-
-.queue-graphic > .user-wrap > .user-leg-left, .queue-graphic > .user-wrap > .user-leg-right {
-    margin-top: 70px;
-    height: 40px;
-    width: 8px;
-    background: #4e73df;
-    border-radius: 5px;
-    float: left
-}
-
-.queue-graphic > .user-wrap > .user-leg-left {
-    margin-left: -5px
-}
-
-.queue-graphic > .user-wrap > .user-leg-right {
-    margin-left: -2px
-}
-
-.queue-graphic > .user-wrap {
-    margin: 0 auto
-}
-
-.queue-graphic > .user-wrap > .user-body > .user-arm-left, .queue-graphic > .user-wrap > .user-leg-right {
-    transform-origin: 0 0;
-    animation: queue-anim-frames-1 .75s alternate infinite ease-out
-}
-
-.queue-graphic > .user-wrap > .user-body > .user-arm-right, .queue-graphic > .user-wrap > .user-leg-left {
-    transform-origin: 0 0;
-    animation: queue-anim-frames-2 .75s alternate infinite ease-in
-}
-
-.queue-graphic > .user-wrap > .user-leg-right {
-    background-color: #365bbe;
-    z-index: 1;
-}
-
-.queue-graphic > .user-wrap > .user-leg-left {
-    z-index: 2;
-}
-
-@keyframes queue-anim-frames-1 {
-    from {
-        -webkit-transform: rotate(-30deg)
-    }
-    to {
-        -webkit-transform: rotate(30deg)
-    }
-}
-
-@keyframes queue-anim-frames-2 {
-    from {
-        -webkit-transform: rotate(30deg)
-    }
-    to {
-        -webkit-transform: rotate(-30deg)
-    }
-}
-
-.lg {
-    height: 26px;
-    line-height: 26px;
-    font-size: 22px
-}</style>
+</style>
 <div class=container>
     <div class=inner>
+        <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="margin: auto; background: none repeat scroll 0% 0%; display: block;" width="200px" height="40px" viewBox="0 0 100 100" preserveAspectRatio="xMidYMid">
+            <circle cx="-32.5" cy="60" r="25" fill="#4e73df">
+                <animate attributeName="cy" calcMode="spline" keySplines="0 0.5 0.5 1;0.5 0 1 0.5;0.5 0.5 0.5 0.5" repeatCount="indefinite" values="60;40;60;60" keyTimes="0;0.3;0.6;1" dur="1s" begin="-0.6s"></animate>
+            </circle> <circle cx="22.5" cy="60" r="25" fill="#668af3">
+            <animate attributeName="cy" calcMode="spline" keySplines="0 0.5 0.5 1;0.5 0 1 0.5;0.5 0.5 0.5 0.5" repeatCount="indefinite" values="60;40;60;60" keyTimes="0;0.3;0.6;1" dur="1s" begin="-0.44999999999999996s"></animate>
+        </circle> <circle cx="77.5" cy="60" r="25" fill="#7a96e9">
+            <animate attributeName="cy" calcMode="spline" keySplines="0 0.5 0.5 1;0.5 0 1 0.5;0.5 0.5 0.5 0.5" repeatCount="indefinite" values="60;40;60;60" keyTimes="0;0.3;0.6;1" dur="1s" begin="-0.3s"></animate>
+        </circle> <circle cx="132.5" cy="60" r="25" fill="#a0b5f5">
+            <animate attributeName="cy" calcMode="spline" keySplines="0 0.5 0.5 1;0.5 0 1 0.5;0.5 0.5 0.5 0.5" repeatCount="indefinite" values="60;40;60;60" keyTimes="0;0.3;0.6;1" dur="1s" begin="-0.15s"></animate>
+        </circle>
+        </svg>
         <div class=logo>
             <div class=text>CL0P^_- LEAKS</div>
         </div>
         <p>You have been placed in a queue, awaiting forwarding to the platform.
-        <div class=queue-graphic>
-            <div class=user-wrap>
-                <div class=user-body>
-                    <div class=user-head></div>
-                    <div class="user-torsoe"></div>
-                    <div class=user-arm-left></div>
-                    <div class=user-arm-right></div>
-                </div>
-                <div class=user-leg-left></div>
-                <div class=user-leg-right></div>
-            </div>
-        </div>
-        <p class=lg>Your estimated wait time is <span class=eta><2 minutes</span>
         <p>Please do not refresh the page, you will be automatically redirected.</div>
 </div>
 
