@@ -98,8 +98,12 @@ def headers():
     return headers
 
 def getsitetitle(html) -> str:
-    title = lxml.html.parse(html)
-    return title.find(".//title").text
+    try:
+        title = lxml.html.parse(html)
+        titletext = title.find(".//title").text
+    except AssertionError:
+        return None
+    return titletext
 
 def hasprotocol(slug):
     return slug.startswith('http')
