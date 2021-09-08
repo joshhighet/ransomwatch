@@ -291,6 +291,12 @@ if [ "$1" == "parser" ]; then
     sort -u normalised/payloadbin.txt | uniq > normalised/payloadbin.sorted.txt
     mv normalised/payloadbin.sorted.txt normalised/payloadbin.txt
     ###💀😵‍💫✨
+    # groove
+    egrep -o 'class="title">([[:alnum:]]| |\.)+</a>' source/groove-* \
+    | cut -d '>' -f2 | cut -d '<' -f 1 \
+    | tee -a normalised/groove.txt
+    sort -u normalised/groove.txt | uniq > normalised/groove.sorted.txt
+    mv normalised/groove.sorted.txt normalised/groove.txt
 elif [ "$1" == "markdown" ]; then
 
 echo """> groups may have multiple sites or mirrors. multiple reports for a single group are expected
