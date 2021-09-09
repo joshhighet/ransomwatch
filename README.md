@@ -86,9 +86,9 @@ docker run ghcr.io/thetanz/ransomwatch scrape
 
 ### Parsing
 
-iterate files within the `source/` directory and append to victim lists within [`normalised/`](normalised)
+iterate files within the `source/` directory and contribute findings to `posts.json`
 
-> postprocessing is done with a mix of `grep`, `awk` and `sed` (see [tools.sh](tools.sh)). It's brittle and like most  ̴̭́H̶̤̓T̸̙̅M̶͇̾L̷͑ͅ ̴̙̏p̸̡͆a̷̛̦r̵̬̿s̴̙͛ĩ̴̺n̸̔͜g̸̘̈, has a limited lifetime.
+> postprocessing is done with a mix of `grep`, `awk` and `sed`. it's brittle and like any  ̴̭́H̶̤̓T̸̙̅M̶͇̾L̷͑ͅ ̴̙̏p̸̡͆a̷̛̦r̵̬̿s̴̙͛ĩ̴̺n̸̔͜g̸̘̈, has a limited lifetime.
 
 ```shell
 ransomwhere.py parse
