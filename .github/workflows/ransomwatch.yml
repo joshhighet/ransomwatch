@@ -30,7 +30,7 @@ jobs:
           ./tools.sh markdown
       - name: teamscard report
         run: |
-          python3 ransomwatch.py report --webhookuri ${{ secrets.MSTEAMS_WEBHOOK_URI }}
+          python3 ransomwatch.py markdown
       - name: save changes
         run: |
           git config --global user.email "theta-bot@users.noreply.github.com"
