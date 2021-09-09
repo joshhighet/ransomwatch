@@ -1,3 +1,5 @@
 lxml
+requests
+selenium
 tldextract
 requests[socks]
