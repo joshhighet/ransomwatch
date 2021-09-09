@@ -1,20 +1,18 @@
-# [ransomwatch](https://github.com/thetanz/ransomwatch)
-
-## 📰 summary - september 10th, 2021
+## 📰 summary - september 9th, 2021
 
 currently tracking `39` groups across `47` various relays and mirrors - _`28` of which are online, with `4` appearing inaccessible_
 
 there are currently `27` active parsers, `4` of which leverage [mozilla/geckodriver](https://github.com/mozilla/geckodriver) - _`3` groups have introduced captchas this year_
 
-⏲ there have been `831` posts within the `last 24 hours`
+⏲ there have been `846` posts within the `last 24 hours`
 
-🦈 there have been `835` posts within the `month of october`
+🦈 there have been `850` posts within the `month of october`
 
-🪐 there have been `853` posts within the `last 90 days`
+🪐 there have been `868` posts within the `last 90 days`
 
-🏚 there have been `887` posts within the `year of 2021`
+🏚 there have been `902` posts within the `year of 2021`
 
-🦕 there have been `921` posts `since the beginning of time`
+🦕 there have been `936` posts `since the beginning of time`
 
 > _the `11` sites using v2 onion services are no longer indexed - [support.torproject.org](https://support.torproject.org/onionservices/v2-deprecation/)_
 
@@ -46,7 +44,7 @@ there are currently `27` active parsers, `4` of which leverage [mozilla/geckodri
 | netwalker |  | ⬇️ 🔴 | 2021-05-01 | rnfdsgm6wb6j6su5txkekw4u4y47kp2eatvu7d6xhyn5cs4lt4pdrqqd.onion |
 | doppelpaymer | Dopple leaks | ⬆️ 🟢 |  | hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion |
 | revil | Happy Blog  | ⬆️ 🟢 |  | dnpscnbaix6nkwvystl3yxglz7nteicqrou3t75tpcc5532cztc46qyd.onion |
-| revil |  | ⬆️ 🟢 |  | aplebzu47wgazapdqks6vrcv6zcnjppkbxbr6wketf56nf6aq2nmyoyd.onion |
+| revil | 502 Bad Gateway | ⬆️ 🟢 |  | aplebzu47wgazapdqks6vrcv6zcnjppkbxbr6wketf56nf6aq2nmyoyd.onion |
 | everest | Everest ransom team | ⬆️ 🟢 |  | ransomocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexfook2j7esad.onion |
 | ragnarok |  | ⬇️ 🔴 | 2021-05-01 | wobpitin77vdsdiswr43duntv6eqw4rvphedutpaxycjdie6gg3binad.onion |
 | ragnarok | Decrypt Site | ⬇️ 🔴 | 2021-08-27 | sushlnty2j7qdzy64qnvyb6ajkwg7resd3p6agc2widnawodtcedgjid.onion |

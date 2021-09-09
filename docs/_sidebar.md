@@ -1,3 +1,1 @@
-- stats
-    - [stats](stats.md)
-    - [recent](recentposts.md)
+- [stats](stats.md)
