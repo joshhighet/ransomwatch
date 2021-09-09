@@ -25,9 +25,6 @@ jobs:
       - name: run parser
         run: |
           python3 ransomwatch.py parse
-      - name: markdown report
-        run: |
-          ./tools.sh markdown
       - name: teamscard report
         run: |
           python3 ransomwatch.py markdown
