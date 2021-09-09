@@ -61,8 +61,8 @@ def mainpage():
         f.close()
     groups = openjson('groups.json')
     # start markdown formatting
-    writeline(uptime_sheet, '# [ransomwatch](https://github.com/thetanz/ransomwatch)')
-    writeline(uptime_sheet, '')
+    # writeline(uptime_sheet, '# [ransomwatch](https://github.com/thetanz/ransomwatch)')
+    # writeline(uptime_sheet, '')
     writeline(uptime_sheet, '## 📰 summary - ' + friendly_tz)
     writeline(uptime_sheet, '')
     writeline(uptime_sheet, 'currently tracking `' + str(groupcount()) + '` groups across `' + str(hostcount()) + '` various relays and mirrors - ' + '_`' + str(onlinecount()) + '` of which are online, with `' + str(geckocount()) + '` appearing inaccessible_')
