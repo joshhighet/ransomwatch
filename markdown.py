@@ -116,10 +116,11 @@ def sidebar():
     # delete contents of file
     with open(sidebar, 'w') as f:
         f.close()
-    groups = openjson('groups.json')
-    writeline(sidebar, '- stats')
-    writeline(sidebar, '    - [stats](stats.md)')
-    writeline(sidebar, '    - [recent](recentposts.md)')
+    writeline(sidebar, '- [stats](stats.md)')
+    # groups = openjson('groups.json')
+    #writeline(sidebar, '- stats')
+    #writeline(sidebar, '    - [stats](stats.md)')
+    #writeline(sidebar, '    - [recent](recentposts.md)')
     # writeline(sidebar, '- groups')
     # '''create a de-duplicated list of groups'''
     # group_list = []
@@ -173,8 +174,10 @@ def recentposts():
 def main():
     mainpage()
     sidebar()
-    recentposts()
+    # recentposts()
     groupreportyearly()
     groupreportmonthly()
     groupreportpie()
     statspage()
+
+main()
