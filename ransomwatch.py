@@ -25,6 +25,7 @@ from sharedutils import getonionversion
 from sharedutils import composecarditem
 from sharedutils import sockshost, socksport
 from sharedutils import stdlog, dbglog, errlog, honk
+from markdown import main as markdown
 
 print(
     '''
@@ -46,12 +47,11 @@ print(
 parser = argparse.ArgumentParser(description='👀 🦅 ransomwatch')
 parser.add_argument("--name", help='provider name')
 parser.add_argument("--location", help='onionsite fqdn')
-parser.add_argument("--webhookuri", help='uri of microsoft teams webhook for reporting')
 parser.add_argument("--append", help='add onionsite fqdn to existing record')
 parser.add_argument(
     "mode",
     help='operation to execute',
-    choices=['add', 'append', 'scrape', 'parse', 'list', 'report']
+    choices=['add', 'append', 'scrape', 'parse', 'list', 'markdown']
     )
 args = parser.parse_args()
 
@@ -63,9 +63,6 @@ if args.location:
     if siteinfo[0] is None:
         parser.error("location does not appear to be a v2 or v3 onionsite")
     location = siteinfo[1]
-
-if args.mode == 'report' and args.webhookuri is None:
-    parser.error("operation requires --webhookuri")
 
 def creategroup(name, location):
     '''
@@ -113,7 +110,6 @@ def scraper():
                 elif group['geckodriver'] is False:
                     stdlog('ransomwatch: ' + 'using socksfetcher')
                     response = socksfetcher(host['slug'])
-                
                 if response is not None:
                     stdlog('ransomwatch: ' + 'scraping ' + host['slug'] + ' successful')
                     filename = group['name'] + '-' + striptld(host['slug']) + '.html'
@@ -123,35 +119,16 @@ def scraper():
                         sitesource.write(response)
                         sitesource.close()
                     dbglog('ransomwatch: ' + 'saving ' + name + ' successful')
-                    
                     host['available'] = True
                     host['title'] = getsitetitle(name)
                     host['lastscrape'] = str(datetime.today())            
                     host['updated'] = str(datetime.today())
                     dbglog('ransomwatch: ' + 'scrape successful')
-                    with open('groups.json', 'w', encoding='utf-8') as f:
-                        json.dump(groups, f, ensure_ascii=False, indent=4)
-
-def reporter():
-    '''
-    main report function to notify on differentials
-    '''
-    diffs = runshellcmd('git diff --name-only normalised/ | cat')
-    adaptivecard = openjson("assets/adaptivecard.json")
-    if diffs != ([''] or []):
-        adaptivecard['body'][1]['columns'][1]['items'][1]['text'] = str(datetime.today())
-        for diff in diffs:
-            files = diff.split('/')[1].split('\n')
-            for file in files:
-                group = file.split('.')[0]
-                victims = runshellcmd('git diff main --no-ext-diff --unified=0 --exit-code -a --no-prefix normalised/' + file + ' | egrep "^\+" | sed "/^+++/d" | cut -d "+" -f2')
-                vicstring = "\n".join(victims)
-                grouphits = composecarditem(group, vicstring)
-                adaptivecard['body'].append(grouphits)
-        webhookdata = makewebhook(adaptivecard)
-        requests.post(args.webhookuri, json=webhookdata)
-    else:
-        pass
+                    with open('groups.json', 'w', encoding='utf-8') as groupsfile:
+                        json.dump(groups, groupsfile, ensure_ascii=False, indent=4)
+                        groupsfile.close()
+            else:
+                errlog('ransomwatch: ' + 'scrape failed - ' + host['slug'] + ' is not a v3 onionsite')
 
 def adder(name, location):
     '''
@@ -206,11 +183,10 @@ if args.mode == 'add':
 if args.mode == 'append':
     appender(args.name, args.location)
 
-if args.mode == 'report':
-    reporter()
+if args.mode == 'markdown':
+    markdown()
 
 if args.mode == 'parse':
-    parsers.synack()
     parsers.suncrypt()
     parsers.lorenz()
     parsers.lockbit2()
@@ -221,6 +197,7 @@ if args.mode == 'parse':
     parsers.ragnarlocker()
     parsers.clop()
     parsers.revil()
+    parsers.everest()
     parsers.ragnarok()
     parsers.conti()
     parsers.pysa()
