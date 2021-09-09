@@ -52,15 +52,13 @@ def main(webpage):
         driver.get(webpage)
         # set the number of seconds to wait before working with the DOM
         sleeptz = 5
-        stdlog('geckodriver: ' + 'waiting ' + str(sleeptz) + 'to render elements')
+        stdlog('geckodriver: ' + 'waiting ' + str(sleeptz) + ' seconds to render elements')
         time.sleep(sleeptz)
-        # custom actions
         if 'lockbitapt' in webpage:
-            driver.find_element_by_css_selector('button').click()
             driver.add_cookie({"name": "ddosproteck", "value": "lol"})
+            driver.find_element_by_css_selector('button').click()
         '''
         get html from dom after js processing and page rendering complete
-        https://www.w3schools.com/jsref/met_document_getelementsbytagname.asp
         '''
         source = driver.execute_script("return document.getElementsByTagName('html')[0].innerHTML")
         stdlog('geckodriver: ' + 'fetched')
