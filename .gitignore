@@ -1,9 +1,10 @@
+.venv
 .DS_Store
 */.DS_Store
-.python_packages
 __pycache__
-.venv
-*/local.settings.json
+geckodriver.log
+.python_packages
 */.python-version
+*/local.settings.json
 .vscode/settings.json
 .vscode/settings.json.lock
