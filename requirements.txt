@@ -1,5 +1,6 @@
 lxml
-requests
+plotly
+kaleido
 selenium
 tldextract
 requests[socks]
