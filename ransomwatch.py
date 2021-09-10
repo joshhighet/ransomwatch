@@ -75,7 +75,8 @@ def creategroup(name, location):
         'geckodriver': bool(),
         'locations': [
             location
-        ]
+        ],
+        'profile': list()
     }
     return insertdata
 

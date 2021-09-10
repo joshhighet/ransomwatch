@@ -14,6 +14,10 @@
                 "updated": "2021-09-08 00:01:21.604365",
                 "lastscrape": "2021-05-01 00:00:00.000000"
             }
+        ],
+        "profile": [
+            "https://www.digitalshadows.com/blog-and-research/marketo-a-return-to-simple-extortion",
+            "https://securityaffairs.co/wordpress/121617/cyber-crime/puma-available-marketo.html"
         ]
     },
     {
@@ -26,11 +30,14 @@
                 "title": "end of game",
                 "version": 3,
                 "slug": "http://xqkz2rmrqkeqf6sjbrb47jfwnqxcd4o2zvaxxzrpbh2piknms37rw2ad.onion/",
-                "meta": null,
+                "meta": "no longer in operation - rebrand",
                 "available": false,
                 "updated": "2021-09-08 00:03:21.496917",
                 "lastscrape": "2021-08-18 00:02:29.699387"
             }
+        ],
+        "profile": [
+            "https://www.zdnet.com/article/synack-ransomware-group-releases-decryption-keys-as-they-rebrand-to-el-cometa/"
         ]
     },
     {
@@ -45,8 +52,8 @@
                 "slug": "http://x2miyuiwpib2imjr5ykyjngdu7v6vprkkhjltrk4qafymtawey4qzwid.onion/",
                 "meta": null,
                 "available": true,
-                "updated": "2021-09-10 00:02:11.185681",
-                "lastscrape": "2021-09-10 00:02:11.185665"
+                "updated": "2021-09-10 16:23:47.319035",
+                "lastscrape": "2021-09-10 16:23:47.319025"
             },
             {
                 "fqdn": "nbzzb6sa6xuura2z.onion",
@@ -58,6 +65,10 @@
                 "updated": "2021-09-08 00:03:26.377871",
                 "lastscrape": "2021-05-01 00:00:00.000000"
             }
+        ],
+        "profile": [
+            "https://www.tetradefense.com/incident-response-services/cause-and-effect-suncrypt-ransomware-analysis/",
+            "https://www.intezer.com/blog/malware-analysis/when-viruses-mutate-did-suncrypt-ransomware-evolve-from-qnapcrypt/"
         ]
     },
     {
@@ -72,8 +83,8 @@
                 "slug": "http://rbvuetuneohce3ouxjlbxtimyyxokb4btncxjbo44fbgxqy7tskinwad.onion/",
                 "meta": "javascript_render",
                 "available": true,
-                "updated": "2021-09-10 00:03:00.533099",
-                "lastscrape": "2021-09-10 00:03:00.533083"
+                "updated": "2021-09-10 16:24:01.811752",
+                "lastscrape": "2021-09-10 16:24:01.811734"
             },
             {
                 "fqdn": "4qbxi3i2oqmyzxsjg4fwe4aly3xkped52gq5orp6efpkeskvchqe27id.onion",
@@ -82,9 +93,13 @@
                 "slug": "http://4qbxi3i2oqmyzxsjg4fwe4aly3xkped52gq5orp6efpkeskvchqe27id.onion/",
                 "meta": "javascript_render",
                 "available": true,
-                "updated": "2021-09-10 00:03:18.858802",
-                "lastscrape": "2021-09-10 00:03:18.858783"
+                "updated": "2021-09-10 16:24:20.529777",
+                "lastscrape": "2021-09-10 16:24:20.529761"
             }
+        ],
+        "profile": [
+            "https://www.secureworks.com/research/lv-ransomware",
+            "https://securityaffairs.co/wordpress/119306/malware/lv-ransomware-repurposed-revil-binary.html"
         ]
     },
     {
@@ -99,9 +114,13 @@
                 "slug": "http://lorenzmlwpzgxq736jzseuterytjueszsvznuibanxomlpkyxk6ksoyd.onion/",
                 "meta": null,
                 "available": true,
-                "updated": "2021-09-10 00:03:23.081701",
-                "lastscrape": "2021-09-10 00:03:23.081682"
+                "updated": "2021-09-10 16:24:28.451550",
+                "lastscrape": "2021-09-10 16:24:28.451538"
             }
+        ],
+        "profile": [
+            "https://www.zdnet.com/article/lorenz-ransomware-attack-victims-can-now-retrieve-their-files-for-free-with-this-decryption-tool/",
+            "https://www.cybertalk.org/the-worst-outcomes-lorenz-ransomware-a-new-double-extortion-strategy/"
         ]
     },
     {
@@ -116,9 +135,13 @@
                 "slug": "http://lockbitapt6vx57t3eeqjofwgcglmutr3a35nygvokja5uuccip4ykyd.onion/",
                 "meta": "javascript_render",
                 "available": true,
-                "updated": "2021-09-10 00:03:36.285196",
-                "lastscrape": "2021-09-10 00:03:36.285179"
+                "updated": "2021-09-10 16:24:44.602727",
+                "lastscrape": "2021-09-10 16:24:44.602714"
             }
+        ],
+        "profile": [
+            "https://threatpost.com/lockbit-ransomware-proliferates-globally/168746/",
+            "https://www.trendmicro.com/en_us/research/21/h/lockbit-resurfaces-with-version-2-0-ransomware-detections-in-chi.html"
         ]
     },
     {
@@ -133,9 +156,13 @@
                 "slug": "http://hiveleakdbtnp76ulyhi52eag6c6tyc3xw7ez7iqy6wc34gd2nekazyd.onion/",
                 "meta": "javascript_render",
                 "available": true,
-                "updated": "2021-09-10 00:03:51.517645",
-                "lastscrape": "2021-09-10 00:03:51.517628"
+                "updated": "2021-09-10 16:24:57.667703",
+                "lastscrape": "2021-09-10 16:24:57.667689"
             }
+        ],
+        "profile": [
+            "https://inf.news/en/tech/c28d9382ab78a5ac3d8fc802f3f0f1e0.html",
+            "https://www.healthcareitnews.com/news/fbi-issues-alert-about-hive-ransomware"
         ]
     },
     {
@@ -153,7 +180,8 @@
                 "updated": "2021-09-08 00:03:55.292510",
                 "lastscrape": "2021-09-08 00:03:55.292492"
             }
-        ]
+        ],
+        "profile": []
     },
     {
         "name": "avoslocker",
@@ -167,9 +195,13 @@
                 "slug": "http://avosqxh72b5ia23dl5fgwcpndkctuzqvh2iefk5imp3pi5gfhel5klad.onion/",
                 "meta": null,
                 "available": true,
-                "updated": "2021-09-10 00:04:01.244792",
-                "lastscrape": "2021-09-10 00:04:01.244776"
+                "updated": "2021-09-10 16:25:17.025377",
+                "lastscrape": "2021-09-10 16:25:17.025364"
             }
+        ],
+        "profile": [
+            "https://blog.cyble.com/2021/07/23/deep-dive-analysis-avoslocker-ransomware/",
+            "https://blog.malwarebytes.com/threat-intelligence/2021/07/avoslocker-enters-the-ransomware-scene-asks-for-partners/"
         ]
     },
     {
@@ -184,9 +216,12 @@
                 "slug": "http://griefcameifmv4hfr3auozmovz5yi6m3h3dwbuqw7baomfxoxz4qteid.onion/",
                 "meta": "has_captcha",
                 "available": true,
-                "updated": "2021-09-10 00:04:05.242465",
-                "lastscrape": "2021-09-10 00:04:05.242450"
+                "updated": "2021-09-10 16:25:24.704812",
+                "lastscrape": "2021-09-10 16:25:24.704798"
             }
+        ],
+        "profile": [
+            "https://heimdalsecurity.com/blog/doppelpaymer-gets-a-rebranding/"
         ]
     },
     {
@@ -204,6 +239,10 @@
                 "updated": "2021-09-08 00:04:04.125800",
                 "lastscrape": "2021-05-01 00:00:00.000000"
             }
+        ],
+        "profile": [
+            "https://www.acronis.com/en-us/articles/avaddon-ransomware/",
+            "https://www.cyber.gov.au/sites/default/files/2021-05/2021-003%20Ongoing%20campaign%20using%20Avaddon%20Ransomware%20-%2020210508.pdf"
         ]
     },
     {
@@ -221,6 +260,9 @@
                 "updated": "2021-09-08 00:04:04.126984",
                 "lastscrape": "2021-05-01 00:00:00.000000"
             }
+        ],
+        "profile": [
+            "https://blog.talosintelligence.com/2021/08/vice-society-ransomware-printnightmare.html"
         ]
     },
     {
@@ -233,11 +275,15 @@
                 "title": "星Team News",
                 "version": 3,
                 "slug": "http://xingnewj6m4qytljhfwemngm7r7rogrindbq7wrfeepejgxc3bwci7qd.onion/",
-                "meta": null,
+                "meta": "uses a custom mountlocker exe",
                 "available": true,
-                "updated": "2021-09-10 00:04:09.733613",
-                "lastscrape": "2021-09-10 00:04:09.733599"
+                "updated": "2021-09-10 16:25:31.297294",
+                "lastscrape": "2021-09-10 16:25:31.297281"
             }
+        ],
+        "profile": [
+            "https://www.izoologic.com/2021/06/19/xing-locker-team-ransomgroup-is-on-a-roll-they-recently-hit-sharafi-group-investments/",
+            "https://itsecuritywire.com/quick-bytes/xinglocker-spreading-worm-using-mountlocker/"
         ]
     },
     {
@@ -255,6 +301,10 @@
                 "updated": "2021-09-08 00:04:15.574928",
                 "lastscrape": "2021-05-01 00:00:00.000000"
             }
+        ],
+        "profile": [
+            "https://blog.qualys.com/vulnerabilities-threat-research/2021/06/09/darkside-ransomware",
+            "https://www.varonis.com/blog/darkside-ransomware/"
         ]
     },
     {
@@ -279,8 +329,8 @@
                 "slug": "http://rgleaktxuey67yrgspmhvtnrqtgogur35lwdrup4d3igtbm3pupc4lyd.onion/",
                 "meta": null,
                 "available": true,
-                "updated": "2021-09-10 00:04:22.477238",
-                "lastscrape": "2021-09-10 00:04:22.477224"
+                "updated": "2021-09-10 16:27:39.841354",
+                "lastscrape": "2021-09-10 16:27:39.841341"
             },
             {
                 "fqdn": "p6o7m73ujalhgkiv.onion",
@@ -292,6 +342,10 @@
                 "updated": "2021-09-08 00:04:19.843356",
                 "lastscrape": "2021-05-01 00:00:00.000000"
             }
+        ],
+        "profile": [
+            "https://news.sophos.com/en-us/2020/05/21/ragnar-locker-ransomware-deploys-virtual-machine-to-dodge-security/",
+            "https://www.bleepingcomputer.com/news/security/ransomware-gang-threatens-to-leak-data-if-victim-contacts-fbi-police/"
         ]
     },
     {
@@ -316,9 +370,13 @@
                 "slug": "http://santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad.onion/",
                 "meta": "has_captcha",
                 "available": true,
-                "updated": "2021-09-10 00:04:26.706392",
-                "lastscrape": "2021-09-10 00:04:26.706378"
+                "updated": "2021-09-10 16:27:47.685294",
+                "lastscrape": "2021-09-10 16:27:47.685283"
             }
+        ],
+        "profile": [
+            "https://blog.malwarebytes.com/malwarebytes-news/2021/02/clop-targets-execs-ransomware-tactics-get-another-new-twist/",
+            "https://unit42.paloaltonetworks.com/clop-ransomware/"
         ]
     },
     {
@@ -336,6 +394,11 @@
                 "updated": "2021-09-08 00:04:40.746600",
                 "lastscrape": "2021-05-01 00:00:00.000000"
             }
+        ],
+        "profile": [
+            "https://threatpost.com/netwalker-ransomware-suspect-charged/163405/",
+            "https://www.cybereason.com/blog/cybereason-vs.-netwalker-ransomware",
+            "https://www.ncsc.org/trends/monthly-trends-articles/2020/netwalker-ransomware"
         ]
     },
     {
@@ -350,9 +413,13 @@
                 "slug": "http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/",
                 "meta": "has_captcha",
                 "available": true,
-                "updated": "2021-09-10 00:04:39.059226",
-                "lastscrape": "2021-09-10 00:04:39.059211"
+                "updated": "2021-09-10 16:28:08.691689",
+                "lastscrape": "2021-09-10 16:28:08.691673"
             }
+        ],
+        "profile": [
+            "https://aithority.com/security/doppelpaymer-ransomware-attack-sinks-a-global-motor-companys-20-million/",
+            "https://www.zscaler.com/blogs/security-research/doppelpaymer-continues-cause-grief-through-rebranding"
         ]
     },
     {
@@ -367,19 +434,24 @@
                 "slug": "http://dnpscnbaix6nkwvystl3yxglz7nteicqrou3t75tpcc5532cztc46qyd.onion/",
                 "meta": null,
                 "available": true,
-                "updated": "2021-09-10 00:04:41.853750",
-                "lastscrape": "2021-09-10 00:04:41.853737"
+                "updated": "2021-09-10 16:28:15.455816",
+                "lastscrape": "2021-09-10 16:28:15.455803"
             },
             {
                 "fqdn": "aplebzu47wgazapdqks6vrcv6zcnjppkbxbr6wketf56nf6aq2nmyoyd.onion",
-                "title": "502 Bad Gateway",
+                "title": null,
                 "version": 3,
                 "slug": "http://aplebzu47wgazapdqks6vrcv6zcnjppkbxbr6wketf56nf6aq2nmyoyd.onion/",
                 "meta": null,
                 "available": true,
-                "updated": "2021-09-10 00:04:44.355735",
-                "lastscrape": "2021-09-10 00:04:44.355722"
+                "updated": "2021-09-10 16:28:21.243982",
+                "lastscrape": "2021-09-10 16:28:21.243966"
             }
+        ],
+        "profile": [
+            "https://www.zdnet.com/article/revil-ransomware-group-resurfaces-after-brief-hiatus/",
+            "https://www.macrumors.com/2021/04/26/revil-delists-stolen-apple-schematics-threat/",
+            "https://www.theverge.com/2021/7/22/22589643/ransomware-kaseya-vsa-decryptor-revil"
         ]
     },
     {
@@ -394,9 +466,12 @@
                 "slug": "http://ransomocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexfook2j7esad.onion/",
                 "meta": null,
                 "available": true,
-                "updated": "2021-09-10 00:04:53.713170",
-                "lastscrape": "2021-09-10 00:04:53.713156"
+                "updated": "2021-09-10 16:28:28.089918",
+                "lastscrape": "2021-09-10 16:28:28.089893"
             }
+        ],
+        "profile": [
+            "https://www.reuters.com/article/us-usa-products-colonial-pipeline-ransom/more-ransomware-websites-disappear-in-aftermath-of-colonial-pipeline-hack-idUSKCN2CX0KT?sf246279339=1"
         ]
     },
     {
@@ -419,11 +494,16 @@
                 "title": "Decrypt Site",
                 "version": 3,
                 "slug": "http://sushlnty2j7qdzy64qnvyb6ajkwg7resd3p6agc2widnawodtcedgjid.onion/",
-                "meta": null,
+                "meta": "shut down & offering a decryptor",
                 "available": false,
                 "updated": "2021-09-08 00:06:09.477754",
                 "lastscrape": "2021-08-27 00:03:27.017295"
             }
+        ],
+        "profile": [
+            "https://techcrunch.com/2021/08/30/ragnarok-ransomware-gang-shuts-down-and-releases-its-decryption-key/",
+            "https://www.cpomagazine.com/cyber-security/ragnarok-ransomware-gang-closes-up-shop-leaves-master-decryptor-key-behind/",
+            "https://www.sababasecurity.com/cheese-shortage-in-dutch-supermarkets-after-a-ransomware-attack/"
         ]
     },
     {
@@ -438,9 +518,13 @@
                 "slug": "http://continewsnv5otx5kaoje7krkto2qbu3gtqef22mnr7eaxw3y6ncz3ad.onion/",
                 "meta": null,
                 "available": true,
-                "updated": "2021-09-10 00:05:06.691555",
-                "lastscrape": "2021-09-10 00:05:06.691522"
+                "updated": "2021-09-10 16:28:58.411146",
+                "lastscrape": "2021-09-10 16:28:58.411133"
             }
+        ],
+        "profile": [
+            "https://threatpost.com/affiliate-leaks-conti-ransomware-playbook/168442/",
+            "https://unit42.paloaltonetworks.com/conti-ransomware-gang/"
         ]
     },
     {
@@ -455,9 +539,13 @@
                 "slug": "http://pysa2bitc5ldeyfak4seeruqymqs4sj5wt5qkcq7aoyg4h2acqieywad.onion/partners.html",
                 "meta": null,
                 "available": true,
-                "updated": "2021-09-10 00:05:11.145738",
-                "lastscrape": "2021-09-10 00:05:11.145724"
+                "updated": "2021-09-10 16:29:03.565131",
+                "lastscrape": "2021-09-10 16:29:03.565119"
             }
+        ],
+        "profile": [
+            "https://www.ic3.gov/Media/News/2021/210316.pdf",
+            "https://blog.malwarebytes.com/threat-spotlight/2021/03/pysa-the-ransomware-attacking-schools"
         ]
     },
     {
@@ -475,6 +563,10 @@
                 "updated": "2021-09-08 00:06:25.221769",
                 "lastscrape": "2021-05-01 00:00:00.000000"
             }
+        ],
+        "profile": [
+            "https://www.zdnet.com/article/a-deep-dive-into-nefilim-a-double-extortion-ransomware-group/",
+            "https://www.trendmicro.com/en_nz/research/21/f/nefilim-modern-ransomware-attack-story.html"
         ]
     },
     {
@@ -492,6 +584,10 @@
                 "updated": "2021-09-08 00:06:32.504536",
                 "lastscrape": "2021-05-01 00:00:00.000000"
             }
+        ],
+        "profile": [
+            "https://techcrunch.com/2020/11/02/maze-ransomware-group-shutting-down/?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAGYbN4y8i2QuhN7mmrR328vvaN52RvfaleJsUK3svm5UWpkvsObjLPbtETm9MvrwriGB5Q31h8o9UnxfcF_UgaBkSJOA3Fg3f4c3UUBE8gEWFMoBZY34Yifg0Yzfbxcw5lLe2_dJEI4SLVXnI1pPTAFAkjOcFMV5M1ntQV7F_sBc",
+            "https://www.fireeye.com/blog/threat-research/2020/05/tactics-techniques-procedures-associated-with-maze-ransomware-incidents.html"
         ]
     },
     {
@@ -509,6 +605,10 @@
                 "updated": "2021-09-08 00:06:32.505748",
                 "lastscrape": "2021-05-01 00:00:00.000000"
             }
+        ],
+        "profile": [
+            "https://www.bleepingcomputer.com/news/security/mount-locker-ransomware-joins-the-multi-million-dollar-ransom-game",
+            "https://www.securitymagazine.com/articles/94954-sophos-identifies-connection-between-mount-locker-and-astro-locker-team-ransomware"
         ]
     },
     {
@@ -523,8 +623,8 @@
                 "slug": "http://wavbeudogz6byhnardd2lkp2jafims3j7tj6k6qnywchn2csngvtffqd.onion/",
                 "meta": null,
                 "available": true,
-                "updated": "2021-09-10 00:05:18.665573",
-                "lastscrape": "2021-09-10 00:05:18.665558"
+                "updated": "2021-09-10 16:29:16.238529",
+                "lastscrape": "2021-09-10 16:29:16.238517"
             },
             {
                 "fqdn": "nq4zyac4ukl4tykmidbzgdlvaboqeqsemkp4t35bzvjeve6zm2lqcjid.onion",
@@ -533,9 +633,14 @@
                 "slug": "http://nq4zyac4ukl4tykmidbzgdlvaboqeqsemkp4t35bzvjeve6zm2lqcjid.onion/",
                 "meta": null,
                 "available": true,
-                "updated": "2021-09-10 00:05:22.897546",
-                "lastscrape": "2021-09-10 00:05:22.897532"
+                "updated": "2021-09-10 16:29:20.947790",
+                "lastscrape": "2021-09-10 16:29:20.947777"
             }
+        ],
+        "profile": [
+            "https://www.bleepingcomputer.com/news/security/leaked-babuk-locker-ransomware-builder-used-in-new-attacks/",
+            "https://www.bleepingcomputer.com/news/security/babuk-ransomwares-full-source-code-leaked-on-hacker-forum/",
+            "https://blog.cyberint.com/babuk-locker"
         ]
     },
     {
@@ -550,9 +655,14 @@
                 "slug": "http://rnsm777cdsjrsdlbs4v5qoeppu3px6sb2igmh53jzrx7ipcrbjz5b2ad.onion/",
                 "meta": null,
                 "available": true,
-                "updated": "2021-09-10 00:05:27.661962",
-                "lastscrape": "2021-09-10 00:05:27.661948"
+                "updated": "2021-09-10 16:29:26.748045",
+                "lastscrape": "2021-09-10 16:29:26.748032"
             }
+        ],
+        "profile": [
+            "https://www.bleepingcomputer.com/news/security/computer-hardware-giant-gigabyte-hit-by-ransomexx-ransomware/",
+            "https://www.cybereason.com/blog/cybereason-vs.-ransomexx-ransomware",
+            "https://www.infosecurity-magazine.com/news/aerospace-giant-embraer-hit/"
         ]
     },
     {
@@ -570,6 +680,10 @@
                 "updated": "2021-09-08 00:06:45.725369",
                 "lastscrape": "2021-05-01 00:00:00.000000"
             }
+        ],
+        "profile": [
+            "https://www.mcafee.com/enterprise/en-us/assets/reports/rp-cuba-ransomware.pdf",
+            "https://digital.nhs.uk/cyber-alerts/2021/cc-3855"
         ]
     },
     {
@@ -584,9 +698,12 @@
                 "slug": "http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/",
                 "meta": null,
                 "available": true,
-                "updated": "2021-09-10 00:05:29.726010",
-                "lastscrape": "2021-09-10 00:05:29.725996"
+                "updated": "2021-09-10 16:29:31.348257",
+                "lastscrape": "2021-09-10 16:29:31.348245"
             }
+        ],
+        "profile": [
+            "https://research.checkpoint.com/2020/ransomware-alert-pay2key/"
         ]
     },
     {
@@ -604,7 +721,8 @@
                 "updated": "2021-09-08 00:06:56.203474",
                 "lastscrape": "2021-05-01 00:00:00.000000"
             }
-        ]
+        ],
+        "profile": []
     },
     {
         "name": "lockdata",
@@ -616,11 +734,15 @@
                 "title": "LockData Auction",
                 "version": 3,
                 "slug": "http://wm6mbuzipviusuc42kcggzkdpbhuv45sn7olyamy6mcqqked3waslbqd.onion/",
-                "meta": null,
+                "meta": "marketplace",
                 "available": true,
-                "updated": "2021-09-10 00:05:36.811291",
-                "lastscrape": "2021-09-10 00:05:36.811276"
+                "updated": "2021-09-10 16:29:56.831503",
+                "lastscrape": "2021-09-10 16:29:56.831491"
             }
+        ],
+        "profile": [
+            "https://www.telekom.com/en/blog/group/article/lockdata-auction-631300",
+            "https://twitter.com/darktracer_int/status/1418318232885153792"
         ]
     },
     {
@@ -633,12 +755,13 @@
                 "title": "Bl@ckt0r | Bug Hunter and Data Breacher",
                 "version": 3,
                 "slug": "http://bl4cktorpms2gybrcyt52aakcxt6yn37byb65uama5cimhifcscnqkid.onion/data-breach.html",
-                "meta": null,
-                "available": true,
+                "meta": "doesn't appear to be a a ransomware group",
+                "available": false,
                 "updated": "2021-09-10 00:05:40.389349",
                 "lastscrape": "2021-09-10 00:05:40.389317"
             }
-        ]
+        ],
+        "profile": []
     },
     {
         "name": "haron",
@@ -650,11 +773,15 @@
                 "title": "Clients page",
                 "version": 3,
                 "slug": "http://ft4zr2jzlqoyob7yg4fcpwyt37hox3ajajqnfkdvbfrkjioyunmqnpad.onion/login.php",
-                "meta": "user:Chaddadgroup pass:Chaddadgroup",
+                "meta": "login page, no apparent posts",
                 "available": true,
-                "updated": "2021-09-10 00:05:44.650417",
-                "lastscrape": "2021-09-10 00:05:44.650402"
+                "updated": "2021-09-10 16:30:09.646617",
+                "lastscrape": "2021-09-10 16:30:09.646601"
             }
+        ],
+        "profile": [
+            "https://therecord.media/new-haron-ransomware-gang-emerges-borrowing-from-avaddon-and-thanos/",
+            "https://threatpost.com/ransomware-gangs-haron-blackmatter/168212/"
         ]
     },
     {
@@ -667,12 +794,13 @@
                 "title": "Dark Leak Market",
                 "version": 3,
                 "slug": "http://54rdhzjzc4ids4u4wata4zr4ywfon5wpz2ml4q3avelgadpvmdal2vqd.onion/",
-                "meta": "not really a ransomware crew - this is a marketplace commonly used by affiliates",
+                "meta": "marketplace commonly used by affiliates - not a ransomware crew",
                 "available": true,
-                "updated": "2021-09-10 00:05:49.535224",
-                "lastscrape": "2021-09-10 00:05:49.535210"
+                "updated": "2021-09-10 16:30:16.958935",
+                "lastscrape": "2021-09-10 16:30:16.958923"
             }
-        ]
+        ],
+        "profile": []
     },
     {
         "name": "prometheus",
@@ -689,6 +817,10 @@
                 "updated": "2021-09-08 00:07:17.934621",
                 "lastscrape": "2021-05-01 00:00:00.000000"
             }
+        ],
+        "profile": [
+            "https://therecord.media/decryptor-released-for-prometheus-ransomware-victims/",
+            "https://unit42.paloaltonetworks.com/prometheus-ransomware/"
         ]
     },
     {
@@ -703,9 +835,13 @@
                 "slug": "http://blackmax7su6mbwtcyo3xwtpfxpm356jjqrs34y4crcytpw7mifuedyd.onion/",
                 "meta": null,
                 "available": true,
-                "updated": "2021-09-10 00:05:53.837964",
-                "lastscrape": "2021-09-10 00:05:53.837949"
+                "updated": "2021-09-10 16:30:21.994490",
+                "lastscrape": "2021-09-10 16:30:21.994477"
             }
+        ],
+        "profile": [
+            "https://www.tripwire.com/state-of-security/featured/blackmatter-pose-new-ransomware-threat/",
+            "https://venturebeat.com/2021/08/23/sophoslabs-research-shows-blackmatter-ransomware-is-closely-acquainted-with-darkside/"
         ]
     },
     {
@@ -720,9 +856,12 @@
                 "slug": "http://vbmisqjshn4yblehk2vbnil53tlqklxsdaztgphcilto3vdj4geao5qd.onion/",
                 "meta": "payload.bin",
                 "available": true,
-                "updated": "2021-09-10 00:05:58.731492",
-                "lastscrape": "2021-09-10 00:05:58.731452"
+                "updated": "2021-09-10 16:30:29.317216",
+                "lastscrape": "2021-09-10 16:30:29.317202"
             }
+        ],
+        "profile": [
+            "https://cyberintelmag.com/malware-viruses/payloadbin-ransomware-attributed-to-evil-corp/"
         ]
     },
     {
@@ -737,9 +876,13 @@
                 "slug": "http://ws3dh6av66sjbxxkjpw5ao3wqzmtejnkzheswm4dz5rrwvular7xvkqd.onion/",
                 "meta": null,
                 "available": true,
-                "updated": "2021-09-10 00:06:00.998798",
-                "lastscrape": "2021-09-10 00:06:00.998671"
+                "updated": "2021-09-10 16:30:35.617111",
+                "lastscrape": "2021-09-10 16:30:35.617098"
             }
+        ],
+        "profile": [
+            "https://intel471.com/blog/groove-gang-ransomware-babuk-revil-blackmatter",
+            "https://www.mcafee.com/blogs/enterprise/mcafee-enterprise-atr/how-groove-gang-is-shaking-up-the-ransomware-as-a-service-market-to-empower-affiliates/"
         ]
     }
 ]
