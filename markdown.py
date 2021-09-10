@@ -182,8 +182,9 @@ def profilepage():
         else:
             writeline(profilepage, '_parsing : `disabled`_')
             writeline(profilepage, '')
+        # add notes if present
         if group['meta'] is not None:
-            writeline(profilepage, '_notes: `' + group['meta'] + '`_')
+            writeline(profilepage, '`' + group['meta'] + '`_')
             writeline(profilepage, '')
         if group['javascript_render'] is True:
             writeline(profilepage, '> fetching this site requires a headless browser for javascript processing')
