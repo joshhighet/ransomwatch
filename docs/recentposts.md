@@ -4,11 +4,6 @@ _`30` most recent posts_
 
 | date | title | group |
 |---|---|---|
-| 09/09/2021 | `ofplaw.com ` | lockbit2 |
-| 09/09/2021 | `envisioncu.com ` | lockbit2 |
-| 09/09/2021 | `Who is the real Bad Guys here? Or what recovery experts prefer to keep silent.` | ragnarlocker |
-| 09/09/2021 | `Vendrig Holding B.V.` | conti |
-| 09/09/2021 | `TURLA SRL` | conti |
 | 09/09/2021 | `Sanger & Altgelt Insurance Agents` | conti |
 | 09/09/2021 | `RPE CONTRACTING` | conti |
 | 09/09/2021 | `Riwega S.R.L.` | conti |
@@ -34,3 +29,8 @@ _`30` most recent posts_
 | 10/09/2021 | `OUR NEW PARTNER - XI` | azroteam |
 | 10/09/2021 | `[CHINA] TCL China St` | lockdata |
 | 10/09/2021 | `[USA] OrthoCare, 700` | lockdata |
+| 10/09/2021 | `https://www.nov... ` | lockbit2 |
+| 10/09/2021 | `gahesa.com ` | lockbit2 |
+| 10/09/2021 | `cansmart.co.za ` | lockbit2 |
+| 10/09/2021 | `cimaser.com ` | lockbit2 |
+| 10/09/2021 | `hbfinanse.pl ` | lockbit2 |
