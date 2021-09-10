@@ -1,2 +1,4 @@
 - [home](README.md)
+- [recent](recentposts.md)
 - [stats](stats.md)
+- [profiles](profiles.md)

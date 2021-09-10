@@ -1,0 +1,1485 @@
+# 🐦 profiles
+
+## 🦑 marketo
+
+_parsing : `disabled`_
+
+- https://www.digitalshadows.com/blog-and-research/marketo-a-return-to-simple-extortion
+
+- https://securityaffairs.co/wordpress/121617/cyber-crime/puma-available-marketo.html
+
+| title | available | version | last visit | fqdn
+|---|---|---|---|---|
+| none | False | 2 | 00:00 01/05/2021 | `marketojbwagqnwx.onion` |
+
+| post | date |
+|---|---|
+## 🧰 synack
+
+_parsing : `enabled`_
+
+- https://www.zdnet.com/article/synack-ransomware-group-releases-decryption-keys-as-they-rebrand-to-el-cometa
+
+| title | available | version | last visit | fqdn
+|---|---|---|---|---|
+| end of game | False | 3 | 00:02 18/08/2021 | `xqkz2rmrqkeqf6sjbrb47jfwnqxcd4o2zvaxxzrpbh2piknms37rw2ad.onion` |
+
+| post | date |
+|---|---|
+## 🧽 suncrypt
+
+_parsing : `enabled`_
+
+- https://www.tetradefense.com/incident-response-services/cause-and-effect-suncrypt-ransomware-analysis
+
+- https://www.intezer.com/blog/malware-analysis/when-viruses-mutate-did-suncrypt-ransomware-evolve-from-qnapcrypt
+
+| title | available | version | last visit | fqdn
+|---|---|---|---|---|
+| News | True | 3 | 19:13 10/09/2021 | `x2miyuiwpib2imjr5ykyjngdu7v6vprkkhjltrk4qafymtawey4qzwid.onion` |
+| none | False | 2 | 00:00 01/05/2021 | `nbzzb6sa6xuura2z.onion` |
+
+| post | date |
+|---|---|
+| `Cornerstone Automation Systems, LLC` | 09/09/2021 |
+| `PRP diagnostic imaging` | 09/09/2021 |
+| `JSW Steel USA` | 09/09/2021 |
+| `SB Zantal Markt` | 09/09/2021 |
+| `Dean and Fulkerson` | 09/09/2021 |
+| `AGSO` | 09/09/2021 |
+| `Mark A. O'neal and Associates` | 09/09/2021 |
+| `Grushwitz` | 09/09/2021 |
+| `Glen Dimplex Home Appliances` | 09/09/2021 |
+| `Tri-signal Intergration` | 09/09/2021 |
+## 🍟 lv
+
+_parsing : `disabled`_
+
+> fetching this site requires a headless browser for javascript processing
+
+> fetching this site uses geckodriver/selenium
+
+- https://www.secureworks.com/research/lv-ransomware
+
+- https://securityaffairs.co/wordpress/119306/malware/lv-ransomware-repurposed-revil-binary.html
+
+| title | available | version | last visit | fqdn
+|---|---|---|---|---|
+| LV Blog | True | 3 | 19:13 10/09/2021 | `rbvuetuneohce3ouxjlbxtimyyxokb4btncxjbo44fbgxqy7tskinwad.onion` |
+| LV Blog | True | 3 | 19:14 10/09/2021 | `4qbxi3i2oqmyzxsjg4fwe4aly3xkped52gq5orp6efpkeskvchqe27id.onion` |
+
+| post | date |
+|---|---|
+## 🐇 lorenz
+
+_parsing : `enabled`_
+
+- https://www.zdnet.com/article/lorenz-ransomware-attack-victims-can-now-retrieve-their-files-for-free-with-this-decryption-tool
+
+- https://www.cybertalk.org/the-worst-outcomes-lorenz-ransomware-a-new-double-extortion-strategy
+
+| title | available | version | last visit | fqdn
+|---|---|---|---|---|
+| Lorenz | True | 3 | 19:14 10/09/2021 | `lorenzmlwpzgxq736jzseuterytjueszsvznuibanxomlpkyxk6ksoyd.onion` |
+
+| post | date |
+|---|---|
+| `Sebastian` | 10/08/2021 |
+| `Miller-Valentine Group` | 29/07/2021 |
+| `MPS Credit Union` | 27/07/2021 |
+| `Buchanan Hauling & Rigging` | 24/06/2021 |
+| `Langs Building Supplies Pty Ltd` | 01/06/2021 |
+| `Challenge Manufacturing Company` | 11/05/2021 |
+| `DNS Toptech` | 13/04/2021 |
+| `Wolfe Eye Clinic ` | 01/04/2021 |
+| `Bases Conversion and Development Authority (BCDA)` | 01/04/2021 |
+| `Tygavac ltd.` | 01/04/2021 |
+| `Airtech Advanced Materials Group` | 29/04/2021 |
+| `Joy Cone` | 11/04/2021 |
+| `The managementtrust` | 11/02/2021 |
+| `Windemuller` | 12/01/2020 |
+| `Multifeeder` | 10/01/2021 |
+| `Commport Communications` | 20/12/2020 |
+## 💸 lockbit2
+
+_parsing : `disabled`_
+
+> fetching this site requires a headless browser for javascript processing
+
+> fetching this site uses geckodriver/selenium
+
+- https://threatpost.com/lockbit-ransomware-proliferates-globally/168746
+
+- https://www.trendmicro.com/en_us/research/21/h/lockbit-resurfaces-with-version-2-0-ransomware-detections-in-chi.html
+
+| title | available | version | last visit | fqdn
+|---|---|---|---|---|
+| LockBit BLOG | True | 3 | 19:14 10/09/2021 | `lockbitapt6vx57t3eeqjofwgcglmutr3a35nygvokja5uuccip4ykyd.onion` |
+
+| post | date |
+|---|---|
+| `` | 09/09/2021 |
+| `tovogomma.it ` | 10/09/2021 |
+| `royalporcelain.... ` | 10/09/2021 |
+| `suenco.co.th ` | 10/09/2021 |
+| `comebi.mx ` | 10/09/2021 |
+| `tesa46.com ` | 10/09/2021 |
+| `pikecountysheri... ` | 10/09/2021 |
+| `callabsolute.co... ` | 10/09/2021 |
+| `benner.com.br ` | 10/09/2021 |
+| `cheadlelaw.com ` | 10/09/2021 |
+| `hpe-konstanz.de ` | 10/09/2021 |
+| `remedios.lawyer ` | 10/09/2021 |
+| `soenen-golfkart... ` | 10/09/2021 |
+| `odeffinancieras... ` | 10/09/2021 |
+| `prototal.se ` | 10/09/2021 |
+| `denverhousing.o... ` | 10/09/2021 |
+| `barolit.com ` | 10/09/2021 |
+| `autohausdaehn.d... ` | 10/09/2021 |
+| `pulmuonewildwoo... ` | 10/09/2021 |
+| `ch13bham.com ` | 10/09/2021 |
+| `seiei-ashd.co.j... ` | 10/09/2021 |
+| `maximusinfoware... ` | 10/09/2021 |
+| `pridepak.co.za ` | 10/09/2021 |
+| `overseas-ast.co... ` | 10/09/2021 |
+| `hellmich-partne... ` | 10/09/2021 |
+| `yakimacoop.com ` | 10/09/2021 |
+| `nutrix.co.th ` | 10/09/2021 |
+| `pro-beam.com ` | 10/09/2021 |
+| `e-button.com.tw ` | 10/09/2021 |
+| `brunsrealty.com ` | 10/09/2021 |
+| `softvision.com.... ` | 10/09/2021 |
+| `isoftstone.com ` | 10/09/2021 |
+| `nepgroup.com ` | 10/09/2021 |
+| `conmoto.de ` | 10/09/2021 |
+| `stetsonexpo.com ` | 10/09/2021 |
+| `bangkokair.com ` | 10/09/2021 |
+| `alta-electronic... ` | 10/09/2021 |
+| `pla-pumpen.de ` | 10/09/2021 |
+| `servisistanbul.... ` | 10/09/2021 |
+| `fragerlaw.com ` | 10/09/2021 |
+| `faberinc.com ` | 10/09/2021 |
+| `delrantownship.... ` | 10/09/2021 |
+| `abecho.co.jp ` | 10/09/2021 |
+| `sdfeg.com ` | 10/09/2021 |
+| `ethiopianairlin... ` | 10/09/2021 |
+| `beardowadams.co... ` | 10/09/2021 |
+| `ceratube.ma ` | 10/09/2021 |
+| `garagedeckx.be ` | 10/09/2021 |
+| `lemonastere.ca ` | 10/09/2021 |
+| `livingflame.co.... ` | 10/09/2021 |
+| `selinerag.ch ` | 10/09/2021 |
+| `saleeprinting.c... ` | 10/09/2021 |
+| `autoelectric.co... ` | 10/09/2021 |
+| `en.mkb.bg ` | 10/09/2021 |
+| `meccalte.com ` | 10/09/2021 |
+| `jy-oilseal.com ` | 10/09/2021 |
+| `bpc.ao ` | 10/09/2021 |
+| `audit-treuhand.... ` | 10/09/2021 |
+| `accenture.com ` | 10/09/2021 |
+| `sabre.ca ` | 10/09/2021 |
+| `nusantararegas.... ` | 10/09/2021 |
+| `nwtf.org ` | 10/09/2021 |
+| `petrologiscanar... ` | 10/09/2021 |
+| `esrmotors.com ` | 10/09/2021 |
+| `megawatts.com.s... ` | 10/09/2021 |
+| `inlineplumbing.... ` | 10/09/2021 |
+| `yamato-esulon.c... ` | 10/09/2021 |
+| `jaccs.com.ph ` | 10/09/2021 |
+| `gdexpress.com ` | 10/09/2021 |
+| `dprotege.com.br ` | 10/09/2021 |
+| `gicinque.com ` | 10/09/2021 |
+| `verisilicon.com ` | 10/09/2021 |
+| `hitechpiping.ca ` | 10/09/2021 |
+| `yazaki-group.co... ` | 10/09/2021 |
+| `mtgsrl.com ` | 10/09/2021 |
+| `cenco-zotti.com ` | 10/09/2021 |
+| `jginc.biz ` | 10/09/2021 |
+| `bennetts.com.au ` | 10/09/2021 |
+| `nutrifood.co.id ` | 10/09/2021 |
+| `ymcadc.org ` | 10/09/2021 |
+| `kmazuckert.com ` | 10/09/2021 |
+| `luzeirosfortale... ` | 10/09/2021 |
+| `lanexmfg.com ` | 10/09/2021 |
+| `otcqatar.com ` | 10/09/2021 |
+| `ccz.com.au ` | 10/09/2021 |
+| `cometgroup.be ` | 10/09/2021 |
+| `setg.at ` | 10/09/2021 |
+| `aquazzura.com ` | 10/09/2021 |
+| `colliganlaw.com` | 10/09/2021 |
+| `russellwbho.co.... ` | 09/09/2021 |
+| `pi-hf.com ` | 09/09/2021 |
+| `ofplaw.com ` | 09/09/2021 |
+| `envisioncu.com ` | 09/09/2021 |
+## 🦆 hive
+
+_parsing : `disabled`_
+
+> fetching this site requires a headless browser for javascript processing
+
+> fetching this site uses geckodriver/selenium
+
+- https://inf.news/en/tech/c28d9382ab78a5ac3d8fc802f3f0f1e0.html
+
+- https://www.healthcareitnews.com/news/fbi-issues-alert-about-hive-ransomware
+
+| title | available | version | last visit | fqdn
+|---|---|---|---|---|
+| Hive | True | 3 | 19:14 10/09/2021 | `hiveleakdbtnp76ulyhi52eag6c6tyc3xw7ez7iqy6wc34gd2nekazyd.onion` |
+
+| post | date |
+|---|---|
+## 🧲 arvinclub
+
+_parsing : `enabled`_
+
+| title | available | version | last visit | fqdn
+|---|---|---|---|---|
+| Arvin Club – آزادی برای اتصال | False | 3 | 00:03 08/09/2021 | `3kp6j22pz3zkv76yutctosa6djpj4yib2icvdqxucdaxxedumhqicpad.onion` |
+
+| post | date |
+|---|---|
+| `T-Mobile` | 09/09/2021 |
+| `For Press` | 09/09/2021 |
+| `Leiden University Hacked` | 09/09/2021 |
+| `UtAir` | 09/09/2021 |
+| `RockYou2021` | 09/09/2021 |
+| `Beh Pardakht Mellat Cards` | 09/09/2021 |
+| `Etoudplus.ir` | 09/09/2021 |
+| `33M Bank Mellat – Iran` | 09/09/2021 |
+| `CardPayPortal` | 09/09/2021 |
+| `USA 280M` | 09/09/2021 |
+## 🦆 avoslocker
+
+_parsing : `enabled`_
+
+- https://blog.cyble.com/2021/07/23/deep-dive-analysis-avoslocker-ransomware
+
+- https://blog.malwarebytes.com/threat-intelligence/2021/07/avoslocker-enters-the-ransomware-scene-asks-for-partners
+
+| title | available | version | last visit | fqdn
+|---|---|---|---|---|
+| AvosLocker Press Rel | True | 3 | 19:17 10/09/2021 | `avosqxh72b5ia23dl5fgwcpndkctuzqvh2iefk5imp3pi5gfhel5klad.onion` |
+
+| post | date |
+|---|---|
+| `Pacific City Bank` | 04/09/2021 |
+| `Moorfields NHS UK &amp; Dubai` | 01/09/2021 |
+| `Potter Concrete` | 01/09/2021 |
+| `Master Chemical` | 29/08/2021 |
+| `Artas Holding / Artas Insaat` | 28/08/2021 |
+| `Coghlin Electrical Contractors` | 28/08/2021 |
+| `Home in Brussels` | 28/08/2021 |
+| `On logistics Services Algeciras, S.L` | 28/08/2021 |
+| `Gimmler Gruppe` | 19/08/2021 |
+| `SoftwareDesign Consulting Group` | 19/08/2021 |
+| `Mauck & Baker` | 05/08/2021 |
+| `Geneva, Ohio` | 18/06/2021 |
+| `Heller Injury Lawyers` | 13/06/2021 |
+| `Arabian Cargo Group` | 13/06/2021 |
+| `AvosLocker is officially online!` | 01/01/2021 |
+## 💸 grief
+
+:warning: _has a captcha_
+
+_parsing : `disabled`_
+
+- https://heimdalsecurity.com/blog/doppelpaymer-gets-a-rebranding
+
+| title | available | version | last visit | fqdn
+|---|---|---|---|---|
+| Grief list | True | 3 | 19:17 10/09/2021 | `griefcameifmv4hfr3auozmovz5yi6m3h3dwbuqw7baomfxoxz4qteid.onion` |
+
+| post | date |
+|---|---|
+## 🧲 avaddon
+
+_parsing : `enabled`_
+
+- https://www.acronis.com/en-us/articles/avaddon-ransomware
+
+- https://www.cyber.gov.au/sites/default/files/2021-05/2021-003%20Ongoing%20campaign%20using%20Avaddon%20Ransomware%20-%2020210508.pdf
+
+| title | available | version | last visit | fqdn
+|---|---|---|---|---|
+| none | False | 2 | 00:00 01/05/2021 | `avaddongun7rngel.onion` |
+
+| post | date |
+|---|---|
+| `Accounts IQ` | 09/09/2021 |
+| `Imperial Printing and Paper Box Mfg` | 09/09/2021 |
+| `Inventec Appliances Corp` | 09/09/2021 |
+| `Syndex` | 09/09/2021 |
+| `LE VOLCAN` | 09/09/2021 |
+| `Buckeye International Inc` | 09/09/2021 |
+| `Carlos Federspiel &amp; Co SA` | 09/09/2021 |
+| `Johann Kupp GmbH &amp; Co. KG` | 09/09/2021 |
+| `Servilex Advocaten` | 09/09/2021 |
+| `Ballas Capital Limited` | 09/09/2021 |
+| `FEBANCOLOMBIA` | 09/09/2021 |
+| `Cube Audit Ltd` | 09/09/2021 |
+| `Halwani Bros Ltd` | 09/09/2021 |
+| `Rate Rabbit Inc` | 09/09/2021 |
+| `JetSJ` | 09/09/2021 |
+| `Maryan beachwear group GmbH` | 09/09/2021 |
+| `360 InStore` | 09/09/2021 |
+| `PKMK law&amp;finance s.r.o` | 09/09/2021 |
+| `Solvere LLC` | 09/09/2021 |
+| `RINGSPANN GmbH` | 09/09/2021 |
+| `AXA Group` | 09/09/2021 |
+| `EVGA` | 09/09/2021 |
+| `Vistex` | 09/09/2021 |
+| `Letton Percival` | 09/09/2021 |
+| `SL Corporation` | 09/09/2021 |
+| `Henry Oil &amp; Gas` | 09/09/2021 |
+| `PT Angkasa Pura I` | 09/09/2021 |
+| `ACER FINANCE` | 09/09/2021 |
+| `NIJMAN / ZEETANK International Transport Sp. z o. o.` | 09/09/2021 |
+| `MEGAPOLIS HOLDINGS (OVERSEAS) LIMITED` | 09/09/2021 |
+| `DOCTUM PHARMACEUTICAL Κ. T. YIOKARIS &amp; CO S.A.` | 09/09/2021 |
+| `ULTRACEUTICALS PTY LIMITED` | 09/09/2021 |
+| `Coindu` | 09/09/2021 |
+| `TAIWAN SURFACE MOUNTING TECHNOLOGY CORP.` | 09/09/2021 |
+| `Cinov Federation` | 09/09/2021 |
+| `Glasbau Wiedemann GmbH` | 09/09/2021 |
+| `Cocal` | 09/09/2021 |
+| `SPINE &amp; DISC` | 09/09/2021 |
+| `EUROMAIS - PEÇAS E PNEUS, LDA` | 09/09/2021 |
+| `Schepisi Communications` | 09/09/2021 |
+| `LG Vina Chemical` | 09/09/2021 |
+| `Diacom` | 09/09/2021 |
+| `Construct` | 09/09/2021 |
+| `MEDUNA vakuová kalírna s.r.o` | 09/09/2021 |
+| `SC TECHNOSEAL SERVICES SRL` | 09/09/2021 |
+| `Farrells` | 09/09/2021 |
+| `CNE` | 09/09/2021 |
+| `COMUNE DI VILLAFRANCA D&#039;ASTI` | 09/09/2021 |
+| `Newcomb Secondary College` | 09/09/2021 |
+| `MUNICIPIO DE QUATRO BARRAS` | 09/09/2021 |
+| `OLOMOUC` | 09/09/2021 |
+| `Cathar Games` | 09/09/2021 |
+| `Partit Nazzjonalista` | 09/09/2021 |
+| `Innovative Office Solutions LLC` | 09/09/2021 |
+| `ADUANAS Y SERVICIOS FORNESA SL` | 09/09/2021 |
+| `Presque Isle Police Department` | 09/09/2021 |
+| `CJ Selecta S/A` | 09/09/2021 |
+| `Greatwide Truckload` | 09/09/2021 |
+| `Hames Homes LLC` | 09/09/2021 |
+| `MSPharma` | 09/09/2021 |
+| `Active Business &amp; Technology` | 09/09/2021 |
+| `Exedy Corporation` | 09/09/2021 |
+| `BIANCHI VENDING` | 09/09/2021 |
+| `Dicon Fiberoptics Inc` | 09/09/2021 |
+| `Logixal` | 09/09/2021 |
+| `EROWA LTD` | 09/09/2021 |
+| `DBMSC Steel` | 09/09/2021 |
+| `Coburn Supply Company , Inc.` | 09/09/2021 |
+| `Aldes` | 09/09/2021 |
+| `B.W. Wilson Paper` | 09/09/2021 |
+| `MITCHAM INDUSTRIES INC` | 09/09/2021 |
+| `HealthCare Global Enterprises Ltd` | 09/09/2021 |
+| `ASBIS CZ, spol. s r.o.` | 09/09/2021 |
+| `Cambridge Weight Plan Ltd` | 09/09/2021 |
+| `Grupo Prilux` | 09/09/2021 |
+| `Município de Constância` | 09/09/2021 |
+| `Indonesia Infrastructure Guarantee Fund` | 09/09/2021 |
+| `BDhouse` | 09/09/2021 |
+| `CERINNOV, UNIPESSOAL, LDA` | 09/09/2021 |
+| `ALIZON` | 09/09/2021 |
+| `Gorzynski` | 09/09/2021 |
+| `Millwright Regional Council of Ontario` | 09/09/2021 |
+| `SOVRIN PLASTICS LIMITED` | 09/09/2021 |
+| `BRIDGEWAY SENIOR HEALTHCARE` | 09/09/2021 |
+| `Steel Art Signs Corp.` | 09/09/2021 |
+| `Targetcom` | 09/09/2021 |
+| `Basque Center for Applied Mathematics-BCAM` | 09/09/2021 |
+| `Mikro Trading` | 09/09/2021 |
+| `Schneider &amp; Branch` | 09/09/2021 |
+| `Zhuhai Languan Electronic Technology Co., Ltd` | 09/09/2021 |
+| `AlohaABA` | 09/09/2021 |
+| `SISCONT` | 09/09/2021 |
+| `La compagnie du SAV` | 09/09/2021 |
+| `ANLEC R&amp;D` | 09/09/2021 |
+| `FUTURIMPLANTS` | 09/09/2021 |
+| `Omni Manufacturing, Inc.` | 09/09/2021 |
+| `Doré Law Group P.C` | 09/09/2021 |
+| `CASHMAG` | 09/09/2021 |
+| `CELL Foods Inc.` | 09/09/2021 |
+| `Prefeitura Municipal de Saquarema` | 09/09/2021 |
+| `Party Rental LTD` | 09/09/2021 |
+| `VERIHA TRUCKING INC` | 09/09/2021 |
+| `Grand Power Systems` | 09/09/2021 |
+| `Carnegie Wave Energy` | 09/09/2021 |
+| `JFC International (Europe)` | 09/09/2021 |
+| `Mullins Food Products Inc` | 09/09/2021 |
+| `The Capital Medical Center` | 09/09/2021 |
+| `UNIVERSAL ACCOUNTING SERVICES INC` | 09/09/2021 |
+| `SVI ASSURANCES` | 09/09/2021 |
+| `MundoFertil` | 09/09/2021 |
+| `Elite Software Inc` | 09/09/2021 |
+| `BEE LINE LOGISTICS, INC` | 09/09/2021 |
+| `KEITH MACHINERY CORP.` | 09/09/2021 |
+| `Hardy Buoys Smoked Fish Inc.` | 09/09/2021 |
+| `FBL Advogados` | 09/09/2021 |
+| `Somerset ISD` | 09/09/2021 |
+| `Groupe Qualinet Inc.` | 09/09/2021 |
+| `VAUGHN CONCRETE PRODUCTS, INC` | 09/09/2021 |
+| `PT Asuransi Bintang Tbk` | 09/09/2021 |
+| `American Heart of Poland Inc` | 09/09/2021 |
+| `Allanasons  Ltd` | 09/09/2021 |
+| `MK-Technik` | 09/09/2021 |
+| `BIOREP TECHNOLOGIES, INC.` | 09/09/2021 |
+| `Finalyse` | 09/09/2021 |
+| `Marolles-en-Brie` | 09/09/2021 |
+| `International Longshore &amp; Warehouse Union` | 09/09/2021 |
+| `Payzant Building Products Ltd` | 09/09/2021 |
+| `Intensive Care On-Line Network , Inc` | 09/09/2021 |
+| `NetVigour Inc` | 09/09/2021 |
+| `Garvin Promotion Group, LLC` | 09/09/2021 |
+| `AHT Global` | 09/09/2021 |
+| `KOE` | 09/09/2021 |
+| `Dade City Florida` | 09/09/2021 |
+| `Monterey Bay Air Resources District` | 09/09/2021 |
+| `National AIDS Control Council` | 09/09/2021 |
+| `Brown Robert LLP` | 09/09/2021 |
+| `American Bank Systems INC` | 09/09/2021 |
+| `Lonrho` | 09/09/2021 |
+| `J.C. Cannistraro` | 09/09/2021 |
+| `Golden Aluminum` | 09/09/2021 |
+| `Sky Leasing, LLC` | 09/09/2021 |
+| `EFCO forms` | 09/09/2021 |
+| `NIJMAN / ZEETANK Int` | 10/09/2021 |
+## 🧲 vicesociety
+
+_parsing : `disabled`_
+
+> fetching this site uses geckodriver/selenium
+
+- https://blog.talosintelligence.com/2021/08/vice-society-ransomware-printnightmare.html
+
+| title | available | version | last visit | fqdn
+|---|---|---|---|---|
+| none | False | 2 | 00:00 01/05/2021 | `4hzyuotli6maqa4u.onion` |
+
+| post | date |
+|---|---|
+## 🍟 xinglocker
+
+_parsing : `enabled`_
+
+_notes: `xing use a custom mountlocker exe`_
+
+- https://www.izoologic.com/2021/06/19/xing-locker-team-ransomgroup-is-on-a-roll-they-recently-hit-sharafi-group-investments
+
+- https://itsecuritywire.com/quick-bytes/xinglocker-spreading-worm-using-mountlocker
+
+| title | available | version | last visit | fqdn
+|---|---|---|---|---|
+| 星Team News | True | 3 | 19:17 10/09/2021 | `xingnewj6m4qytljhfwemngm7r7rogrindbq7wrfeepejgxc3bwci7qd.onion` |
+
+| post | date |
+|---|---|
+| `J.Irwin Company` | 17/08/2021 |
+| `DiaSorin` | 08/07/2021 |
+| `Greenwood Fabricating &amp; Plating` | 03/06/2021 |
+| `Positive Promotions, Inc.` | 02/06/2021 |
+| `AQUALUNG` | 02/06/2021 |
+| `Sharafi Group Investments` | 27/05/2021 |
+| `Coastal Family Health Center` | 24/05/2021 |
+| `T.I.S. Group` | 24/05/2021 |
+| `OSF Healthcare System` | 18/05/2021 |
+| `Solen A.S ` | 14/05/2021 |
+| `CBN Logistic` | 14/05/2021 |
+| `LineStar` | 14/05/2021 |
+| `Desert Plastering LLC` | 13/05/2021 |
+| `Gulfeagle Supply` | 11/05/2021 |
+| `GlobeMed Saudi` | 06/05/2021 |
+| `Washoe Tribe` | 06/05/2021 |
+| `Bridgelux, Inc. ` | 06/05/2021 |
+| `Pezzuto Group` | 29/04/2021 |
+| `NAVNIT GROUP` | 29/04/2021 |
+## 🧱 darkside
+
+_parsing : `disabled`_
+
+- https://blog.qualys.com/vulnerabilities-threat-research/2021/06/09/darkside-ransomware
+
+- https://www.varonis.com/blog/darkside-ransomware
+
+| title | available | version | last visit | fqdn
+|---|---|---|---|---|
+| none | False | 3 | 00:00 01/05/2021 | `darksidc3iux462n6yunevoag52ntvwp6wulaz3zirkmh4cnz6hhj7id.onion` |
+
+| post | date |
+|---|---|
+## 🧱 ragnarlocker
+
+_parsing : `enabled`_
+
+- https://news.sophos.com/en-us/2020/05/21/ragnar-locker-ransomware-deploys-virtual-machine-to-dodge-security
+
+- https://www.bleepingcomputer.com/news/security/ransomware-gang-threatens-to-leak-data-if-victim-contacts-fbi-police
+
+| title | available | version | last visit | fqdn
+|---|---|---|---|---|
+| none | False | 2 | 00:00 01/05/2021 | `rgleak7op734elep.onion` |
+| Home Page of Ragnar_ | True | 3 | 19:17 10/09/2021 | `rgleaktxuey67yrgspmhvtnrqtgogur35lwdrup4d3igtbm3pupc4lyd.onion` |
+| none | False | 2 | 00:00 01/05/2021 | `p6o7m73ujalhgkiv.onion` |
+
+| post | date |
+|---|---|
+| `Announcement: FTP` | 01/07/2021 |
+| `Software company Xoriant` | 06/06/2021 |
+| `New Leak GatewayPM` | 05/06/2021 |
+| `GATEWAY Property Management` | 23/06/2021 |
+| `ADATA LEAKED` | 25/05/2021 |
+| `NEW Links for ADATA` | 26/05/2021 |
+| `Webhelp's company - XtraSource` | 08/02/2021 |
+| `Ludwig Pfeiffer Leaked` | 26/01/2021 |
+| `Kaye/Bassman International - New "Wall of Shamer"` | 18/12/2020 |
+| `Cornerstone-BB Group Leaked` | 14/12/2020 |
+| `Grupo SADA Leak` | 24/12/2020 |
+| `JMA Energy LEAK` | 05/12/2020 |
+| `New Data Leak post from Chemical company` | 23/12/2020 |
+| `Shasun Chemicals & Drugs Ltd. LEAK` | 06/12/2020 |
+| `Attention, Dassault Falcon Jet updated` | 13/12/2020 |
+| `DASSAULT FALCON JET` | 30/10/2020 |
+| `Advertising Material: Forest Construction Leaked` | 12/12/2020 |
+| `LEAK Post Campari Group` | 10/12/2020 |
+| `New Files For Leak Campari Post` | 30/11/2020 |
+| `Updates with files in EastCoastSeafood Inc.` | 10/12/2020 |
+| `New "WallofShamer" - East Coast Seafood Inc.` | 10/12/2020 |
+| `Official appeal to DASSAULT FALCON JET` | 01/11/2020 |
+| `Ragnar_Team Announce of Potential "WallofShamer"` | 10/11/2020 |
+| `LEAK Post CAPCOM` | 08/11/2020 |
+| `LEAK post FINSA` | 08/11/2020 |
+| `Security breach of CAPCOM network` | 20/10/2020 |
+| `Security breach of Campari Group network` | 08/10/2020 |
+| `BIOLOGICAL E. Ltd. (BE) LEAK POST` | 27/09/2020 |
+| `Insignia Environmental company.` | 13/07/2020 |
+| `Astro Industries, Inc.` | 22/06/2020 |
+| `Bailey&Galyen Attorney at Law` | 22/06/2020 |
+| `New leaks from SOLTEK PACIFIC` | 22/06/2020 |
+| `GST Autoleather Company !` | 22/06/2020 |
+| `ST Engineering` | 22/06/2020 |
+| `Leaks from company EDP Group` | 19/06/2020 |
+| `Leaks from company Omniga GmbH & Co.` | 19/06/2020 |
+| `Leaks Company Birch Communications inc.` | 10/06/2020 |
+| `Leakage from company Catania, Mahon & Rider, PLLC` | 11/06/2020 |
+| `Brunner Announce – Hello World !` | 11/06/2020 |
+| `Who is the real Bad Guys here? Or what recovery experts prefer to keep silent.` | 09/09/2021 |
+| `Who is the real Bad ` | 10/09/2021 |
+## 🧻 clop
+
+:warning: _has a captcha_
+
+_parsing : `enabled`_
+
+- https://blog.malwarebytes.com/malwarebytes-news/2021/02/clop-targets-execs-ransomware-tactics-get-another-new-twist
+
+- https://unit42.paloaltonetworks.com/clop-ransomware
+
+| title | available | version | last visit | fqdn
+|---|---|---|---|---|
+| none | False | 2 | 00:00 01/05/2021 | `ekbgzchl6x2ias37.onion` |
+| Access Queue | True | 3 | 19:17 10/09/2021 | `santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad.onion` |
+
+| post | date |
+|---|---|
+| `UTILITYTRAILER.COM FILES  PART11 PUBLISHED` | 09/09/2021 |
+| `AUROBINDO.COM FILES  PART12 PUBLISHED` | 09/09/2021 |
+| `UTILITYTRAILER.COM FILES  PART10 PUBLISHED` | 09/09/2021 |
+| `AUROBINDO.COM FILES  PART11 PUBLISHED` | 09/09/2021 |
+| `SGS-LAW.COM FILES  PART13 - FINAL PUBLISHED` | 09/09/2021 |
+| `UTILITYTRAILER.COM FILES  PART9 PUBLISHED` | 09/09/2021 |
+| `AUROBINDO.COM FILES  PART10 PUBLISHED` | 09/09/2021 |
+| `SGS-LAW.COM FILES  PART12 PUBLISHED` | 09/09/2021 |
+| `UTILITYTRAILER.COM FILES  PART8 PUBLISHED` | 09/09/2021 |
+| `AUROBINDO.COM FILES  PART9 PUBLISHED` | 09/09/2021 |
+| `SGS-LAW.COM FILES  PART11 PUBLISHED` | 09/09/2021 |
+| `UTILITYTRAILER.COM FILES  PART7 PUBLISHED` | 09/09/2021 |
+| `AUROBINDO.COM FILES  PART8 PUBLISHED` | 09/09/2021 |
+| `SGS-LAW.COM FILES  PART10 PUBLISHED` | 09/09/2021 |
+| `BOUTINEXPRESS.COM FILES  PART12 - FINAL PUBLISHED` | 09/09/2021 |
+| `AUROBINDO.COM FILES  PART7 PUBLISHED` | 09/09/2021 |
+| `SGS-LAW.COM FILES  PART9 PUBLISHED` | 09/09/2021 |
+| `UTILITYTRAILER.COM FILES  PART6 PUBLISHED` | 09/09/2021 |
+| `RFF.ORG FILES  PART5 - FINAL PUBLISHED` | 09/09/2021 |
+| `BOUTINEXPRESS.COM FILES  PART11 PUBLISHED` | 09/09/2021 |
+| `AUROBINDO.COM FILES  PART6 PUBLISHED` | 09/09/2021 |
+| `SGS-LAW.COM FILES  PART8 PUBLISHED` | 09/09/2021 |
+| `UTILITYTRAILER.COM FILES  PART5 PUBLISHED` | 09/09/2021 |
+| `UTILITYTRAILER.COM FILES  PART4 - MAIL PUBLISHED` | 09/09/2021 |
+| `AUROBINDO.COM FILES  PART5 PUBLISHED` | 09/09/2021 |
+| `SGS-LAW.COM FILES  PART7 PUBLISHED` | 09/09/2021 |
+| `BOUTINEXPRESS.COM FILES  PART10 PUBLISHED` | 09/09/2021 |
+| `BOUTINEXPRESS.COM FILES  PART9 PUBLISHED` | 09/09/2021 |
+| `FOODLAND.COM FILES  PART10 PUBLISHED` | 09/09/2021 |
+| `UTILITYTRAILER.COM FILES  PART3 - MAIL PUBLISHED` | 09/09/2021 |
+| `AUROBINDO.COM FILES  PART4 - MAIL PUBLISHED` | 09/09/2021 |
+| `SGS-LAW.COM FILES  PART6 - QUICKBOOKS FILES PUBLISHED` | 09/09/2021 |
+| `NIPRO.COM FILES  PART16 PUBLISHED` | 09/09/2021 |
+| `FOODLAND.COM FILES  PART9 PUBLISHED` | 09/09/2021 |
+| `AUROBINDO.COM FILES  PART3 - MAIL PUBLISHED` | 09/09/2021 |
+| `BOUTINEXPRESS.COM FILES  PART8 PUBLISHED` | 09/09/2021 |
+| `SGS-LAW.COM FILES  PART5 PUBLISHED` | 09/09/2021 |
+| `UTILITYTRAILER.COM FILES  PART2 - MAIL PUBLISHED` | 09/09/2021 |
+| `NIPRO.COM FILES  PART15 PUBLISHED` | 09/09/2021 |
+| `FOODLAND.COM FILES  PART8 PUBLISHED` | 09/09/2021 |
+| `AUROBINDO.COM FILES  PART2 - MAIL PUBLISHED` | 09/09/2021 |
+| `BOUTINEXPRESS.COM FILES  PART6+7 PUBLISHED` | 09/09/2021 |
+| `SGS-LAW.COM FILES  PART4 PUBLISHED` | 09/09/2021 |
+| `UTILITYTRAILER.COM FILES  PART1 - MAIL PUBLISHED` | 09/09/2021 |
+| `BOUTINEXPRESS.COM FILES  PART5 PUBLISHED` | 09/09/2021 |
+| `NIPRO.COM FILES  PART14 PUBLISHED` | 09/09/2021 |
+| `RFF.ORG FILES  PART4 PUBLISHED` | 09/09/2021 |
+| `AUROBINDO.COM FILES  PART1 - DBs PUBLISHED` | 09/09/2021 |
+| `SGS-LAW.COM FILES  PART3 PUBLISHED` | 09/09/2021 |
+| `FOODLAND.COM FILES  PART7 PUBLISHED` | 09/09/2021 |
+| `NIPRO.COM FILES  PART13 PUBLISHED` | 09/09/2021 |
+| `FOODLAND.COM FILES  PART6 PUBLISHED` | 09/09/2021 |
+| `RFF.ORG FILES  PART3 PUBLISHED` | 09/09/2021 |
+| `SGS-LAW.COM FILES  PART2 PUBLISHED` | 09/09/2021 |
+| `FOODLAND.COM FILES  PART5 PUBLISHED` | 09/09/2021 |
+| `BOUTINEXPRESS.COM FILES  PART4 PUBLISHED` | 09/09/2021 |
+| `RFF.ORG FILES  PART2 PUBLISHED` | 09/09/2021 |
+| `SGS-LAW.COM FILES  PART1 PUBLISHED` | 09/09/2021 |
+| `MARNELLCOMPANIES.COM FILES  PART14 - FINAL PUBLISHED` | 09/09/2021 |
+| `MMOSER.COM FILES  PART16 - FINAL PUBLISHED` | 09/09/2021 |
+| `NIPRO.COM FILES  PART12 PUBLISHED` | 09/09/2021 |
+| `FOODLAND.COM FILES  PART4 PUBLISHED` | 09/09/2021 |
+| `BOUTINEXPRESS.COM FILES  PART3 PUBLISHED` | 09/09/2021 |
+| `RFF.ORG FILES  PART1 PUBLISHED` | 09/09/2021 |
+| `NIPRO.COM FILES  PART11 PUBLISHED` | 09/09/2021 |
+| `MMOSER.COM FILES  PART15 PUBLISHED` | 09/09/2021 |
+| `MARNELLCOMPANIES.COM FILES  PART13 PUBLISHED` | 09/09/2021 |
+| `BOUTINEXPRESS.COM FILES  PART2 PUBLISHED` | 09/09/2021 |
+| `FOODLAND.COM FILES  PART3 EXTRACTED EMAILS PUBLISHED` | 09/09/2021 |
+| `MARNELLCOMPANIES.COM FILES  PART12 PUBLISHED` | 09/09/2021 |
+| `BOUTINEXPRESS.COM FILES  PART1 PUBLISHED` | 09/09/2021 |
+| `MMOSER.COM FILES  PART14 PUBLISHED` | 09/09/2021 |
+| `NIPRO.COM FILES  PART10 PUBLISHED` | 09/09/2021 |
+| `MMOSER.COM FILES  PART13 PUBLISHED` | 09/09/2021 |
+| `MARNELLCOMPANIES.COM FILES  PART11 PUBLISHED` | 09/09/2021 |
+| `NIPRO.COM FILES  PART9 PUBLISHED` | 09/09/2021 |
+| `FOODLAND.COM FILES  PART1+2 DBs PUBLISHED` | 09/09/2021 |
+| `MMOSER.COM FILES  PART12 PUBLISHED` | 09/09/2021 |
+| `SIUMED.EDU FILES  PART2 PUBLISHED` | 09/09/2021 |
+| `PNCPA.COM FILES  PART2 PUBLISHED` | 09/09/2021 |
+| `NIPRO.COM FILES  PART8 PUBLISHED` | 09/09/2021 |
+| `MARNELLCOMPANIES.COM FILES  PART10 PUBLISHED` | 09/09/2021 |
+| `NIPRO.COM FILES  PART7 PUBLISHED` | 09/09/2021 |
+| `PNCPA.COM FILES  PART1 PUBLISHED` | 09/09/2021 |
+| `SIUMED.EDU FILES  PART1 PUBLISHED` | 09/09/2021 |
+| `MARNELLCOMPANIES.COM FILES  PART9 PUBLISHED` | 09/09/2021 |
+| `COLORADO.EDU FILES  PART4 PUBLISHED` | 09/09/2021 |
+| `TRAVELSTORE.COM FILES  PART1 PUBLISHED` | 09/09/2021 |
+| `MMOSER.COM FILES  PART11 PUBLISHED` | 09/09/2021 |
+| `EDAG.COM FILES  PART9 - FINAL PUBLISHED` | 09/09/2021 |
+| `MMOSER.COM FILES  PART10 PUBLISHED` | 09/09/2021 |
+| `COLORADO.EDU FILES  PART1+2+3 PUBLISHED` | 09/09/2021 |
+| `MARNELLCOMPANIES.COM FILES  PART8 PUBLISHED` | 09/09/2021 |
+| `NIPRO.COM FILES  PART6 PUBLISHED` | 09/09/2021 |
+| `NIPRO.COM FILES  PART5 PUBLISHED` | 09/09/2021 |
+| `EDAG.COM FILES  PART8 PUBLISHED` | 09/09/2021 |
+| `MMOSER.COM FILES  PART9 PUBLISHED` | 09/09/2021 |
+| `DURHAM.CA FILES  PART2 - FINAL PUBLISHED` | 09/09/2021 |
+| `MARNELLCOMPANIES.COM FILES  PART7 PUBLISHED` | 09/09/2021 |
+| `NIPRO.COM FILES  PART4 PUBLISHED` | 09/09/2021 |
+| `EDAG.COM FILES  PART7 PUBLISHED` | 09/09/2021 |
+| `MMOSER.COM FILES  PART8 PUBLISHED` | 09/09/2021 |
+| `DURHAM.CA FILES  PART1 PUBLISHED` | 09/09/2021 |
+| `MARNELLCOMPANIES.COM FILES  PART6 PUBLISHED` | 09/09/2021 |
+| `EDAG.COM FILES  PART6 PUBLISHED` | 09/09/2021 |
+| `MMOSER.COM FILES  PART7 PUBLISHED` | 09/09/2021 |
+| `MARNELLCOMPANIES.COM FILES  PART5 PUBLISHED` | 09/09/2021 |
+| `UMD.EDU FILES  PART5 - FINAL PUBLISHED` | 09/09/2021 |
+| `SHELL.COM FILES  PART5 - FINAL PUBLISHED` | 09/09/2021 |
+| `NIPRO.COM FILES  PART3 PUBLISHED` | 09/09/2021 |
+| `NIPRO.COM FILES  PART2 - DATABASES PUBLISHED` | 09/09/2021 |
+| `MARNELLCOMPANIES.COM FILES  PART4 PUBLISHED` | 09/09/2021 |
+| `MMOSER.COM FILES  PART6 PUBLISHED` | 09/09/2021 |
+| `UMD.EDU FILES  PART4 PUBLISHED` | 09/09/2021 |
+| `SHELL.COM FILES  PART4 PUBLISHED` | 09/09/2021 |
+| `NIPRO.COM FILES  PART1 PUBLISHED` | 09/09/2021 |
+| `MARNELLCOMPANIES.COM FILES  PART2+3 PUBLISHED` | 09/09/2021 |
+| `MMOSER.COM FILES  PART4+5 PUBLISHED` | 09/09/2021 |
+| `UMD.EDU FILES  PART2+3 PUBLISHED` | 09/09/2021 |
+| `STANFORD.EDU FILES  PART2 - FINAL PUBLISHED` | 09/09/2021 |
+| `SHELL.COM FILES  PART2+3 PUBLISHED` | 09/09/2021 |
+| `YU.EDU FILES  PART1 - FINAL PUBLISHED` | 09/09/2021 |
+| `SHELL.COM FILES  PART1 PUBLISHED` | 09/09/2021 |
+| `UNIVERSITYOFCALIFORNIA.EDU FILES  PART1 PUBLISHED` | 09/09/2021 |
+| `RACETRAC.COM FILES  PART1 - FINAL PUBLISHED` | 09/09/2021 |
+| `STANFORD.EDU FILES  PART1 PUBLISHED` | 09/09/2021 |
+| `UMD.EDU FILES  PART1 PUBLISHED` | 09/09/2021 |
+| `MIAMI.EDU FILES  PART2 PUBLISHED` | 09/09/2021 |
+| `MMOSER.COM FILES  PART1+2+3 PUBLISHED` | 09/09/2021 |
+| `EDAG.COM FILES  PART5 PUBLISHED` | 09/09/2021 |
+| `MARNELLCOMPANIES.COM FILES  PART1 PUBLISHED` | 09/09/2021 |
+| `EDAG.COM FILES  PART4 PUBLISHED` | 09/09/2021 |
+| `MIAMI.EDU FILES  PART1 PUBLISHED` | 09/09/2021 |
+| `EDAG.COM FILES  PART3 PUBLISHED` | 09/09/2021 |
+| `QUALYS.COM FILES  PART4 PUBLISHED` | 09/09/2021 |
+| `EDAG.COM FILES  PART2 PUBLISHED` | 09/09/2021 |
+| `QUALYS.COM FILES  PART3 PUBLISHED` | 09/09/2021 |
+| `EDAG.COM FILES  PART1 PUBLISHED` | 09/09/2021 |
+| `QUALYS.COM FILES  PART2 PUBLISHED` | 09/09/2021 |
+| `WRIGHT.COM FILES  PART4 PUBLISHED` | 09/09/2021 |
+| `TRANSPORT.NSW.GOV.AU FILES  PART10 PUBLISHED` | 09/09/2021 |
+| `WRIGHT.COM FILES  PART3 PUBLISHED` | 09/09/2021 |
+| `WRIGHT.COM FILES  PART2 PUBLISHED` | 09/09/2021 |
+| `WRIGHT.COM FILES  PART1 PUBLISHED` | 09/09/2021 |
+| `QUALYS.COM FILES  PART1 PUBLISHED` | 09/09/2021 |
+| `KINZE.COM FILES  PART2 PUBLISHED` | 09/09/2021 |
+| `NOWFOODS.COM FILES  PART2 PUBLISHED` | 09/09/2021 |
+| `CSX.COM FILES  PART3 PUBLISHED` | 09/09/2021 |
+| `FLAGSTAR.COM FILES  PART4 PUBLISHED` | 09/09/2021 |
+| `BOMBARDIER.COM FILES  PART9 PUBLISHED` | 09/09/2021 |
+| `TRANSPORT.NSW.GOV.AU FILES  PART9 PUBLISHED` | 09/09/2021 |
+| `CSAGROUP.ORG FILES  PART6 PUBLISHED` | 09/09/2021 |
+| `KINZE.COM FILES  PART1 PUBLISHED` | 09/09/2021 |
+| `NOWFOODS.COM FILES  PART1 PUBLISHED` | 09/09/2021 |
+| `CSX.COM FILES  PART2 PUBLISHED` | 09/09/2021 |
+| `FLAGSTAR.COM FILES  PART3 PUBLISHED` | 09/09/2021 |
+| `BOMBARDIER.COM FILES  PART8 PUBLISHED` | 09/09/2021 |
+| `TRANSPORT.NSW.GOV.AU FILES  PART8 PUBLISHED` | 09/09/2021 |
+| `CSAGROUP.ORG FILES  PART5 PUBLISHED` | 09/09/2021 |
+| `FLAGSTAR.COM FILES  PART2 PUBLISHED` | 09/09/2021 |
+| `BOMBARDIER.COM FILES  PART7 PUBLISHED` | 09/09/2021 |
+| `TRANSPORT.NSW.GOV.AU FILES  PART7 PUBLISHED` | 09/09/2021 |
+| `CSAGROUP.ORG FILES  PART4 PUBLISHED` | 09/09/2021 |
+| `FLAGSTAR.COM FILES  PART1 PUBLISHED` | 09/09/2021 |
+| `BOMBARDIER.COM FILES  PART6 PUBLISHED` | 09/09/2021 |
+| `TRANSPORT.NSW.GOV.AU FILES  PART6 PUBLISHED` | 09/09/2021 |
+| `CSAGROUP.ORG FILES  PART3 PUBLISHED` | 09/09/2021 |
+| `BOMBARDIER.COM FILES  PART5 PUBLISHED` | 09/09/2021 |
+| `STERIS.COM FILES  PART5 PUBLISHED` | 09/09/2021 |
+| `TRANSPORT.NSW.GOV.AU FILES  PART5 PUBLISHED` | 09/09/2021 |
+| `CSAGROUP.ORG FILES  PART1+2 PUBLISHED` | 09/09/2021 |
+| `TRANSPORT.NSW.GOV.AU FILES  PART4 PUBLISHED` | 09/09/2021 |
+| `BOMBARDIER.COM FILES  PART4 PUBLISHED` | 09/09/2021 |
+| `DANAHER.COM FILES  PART10 PUBLISHED` | 09/09/2021 |
+| `STERIS.COM FILES  PART4 PUBLISHED` | 09/09/2021 |
+| `TRANSPORT.NSW.GOV.AU FILES  PART3 PUBLISHED` | 09/09/2021 |
+| `BOMBARDIER.COM FILES  PART3 PUBLISHED` | 09/09/2021 |
+| `DANAHER.COM FILES  PART9 PUBLISHED` | 09/09/2021 |
+| `STERIS.COM FILES  PART3 PUBLISHED` | 09/09/2021 |
+| `CGG.COM FILES  PART3 PUBLISHED` | 09/09/2021 |
+| `TRANSPORT.NSW.GOV.AU FILES  PART2 PUBLISHED` | 09/09/2021 |
+| `BOMBARDIER.COM FILES  PART1+2 PUBLISHED` | 09/09/2021 |
+| `SGS-LAW.COM FILES  P` | 10/09/2021 |
+| `MARNELLCOMPANIES.COM` | 10/09/2021 |
+| `FOODLAND.COM FILES  ` | 10/09/2021 |
+## 🎲 netwalker
+
+_parsing : `disabled`_
+
+- https://threatpost.com/netwalker-ransomware-suspect-charged/163405
+
+- https://www.cybereason.com/blog/cybereason-vs.-netwalker-ransomware
+
+- https://www.ncsc.org/trends/monthly-trends-articles/2020/netwalker-ransomware
+
+| title | available | version | last visit | fqdn
+|---|---|---|---|---|
+| none | False | 3 | 00:00 01/05/2021 | `rnfdsgm6wb6j6su5txkekw4u4y47kp2eatvu7d6xhyn5cs4lt4pdrqqd.onion` |
+
+| post | date |
+|---|---|
+## 🔋 doppelpaymer
+
+:warning: _has a captcha_
+
+_parsing : `disabled`_
+
+- https://aithority.com/security/doppelpaymer-ransomware-attack-sinks-a-global-motor-companys-20-million
+
+- https://www.zscaler.com/blogs/security-research/doppelpaymer-continues-cause-grief-through-rebranding
+
+| title | available | version | last visit | fqdn
+|---|---|---|---|---|
+| Dopple leaks | True | 3 | 19:17 10/09/2021 | `hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion` |
+
+| post | date |
+|---|---|
+## ❤️‍🔥 revil
+
+_parsing : `enabled`_
+
+- https://www.zdnet.com/article/revil-ransomware-group-resurfaces-after-brief-hiatus
+
+- https://www.macrumors.com/2021/04/26/revil-delists-stolen-apple-schematics-threat
+
+- https://www.theverge.com/2021/7/22/22589643/ransomware-kaseya-vsa-decryptor-revil
+
+| title | available | version | last visit | fqdn
+|---|---|---|---|---|
+| Happy Blog  | True | 3 | 19:17 10/09/2021 | `dnpscnbaix6nkwvystl3yxglz7nteicqrou3t75tpcc5532cztc46qyd.onion` |
+| none | True | 3 | 19:17 10/09/2021 | `aplebzu47wgazapdqks6vrcv6zcnjppkbxbr6wketf56nf6aq2nmyoyd.onion` |
+
+| post | date |
+|---|---|
+| `ensingerplastics.com` | 09/09/2021 |
+| `South Carolina Legal Services breach` | 09/09/2021 |
+| `lstaff.com / atworksprofessional / atworks.com` | 09/09/2021 |
+| `Primo Water` | 09/09/2021 |
+| `inocean.no / 2000 GB` | 09/09/2021 |
+| `Hx5, LLC` | 09/09/2021 |
+| `Daylesford - BHoldings - Bamford - The Wild Rabbit` | 09/09/2021 |
+| `KASEYA ATTACK INFO` | 09/09/2021 |
+| `kuk.de / KREBS + KIEFER / 500GB` | 09/09/2021 |
+| `neroindustry.com` | 09/09/2021 |
+| `Gosiger` | 09/09/2021 |
+| `Möbelstadt Sommerlad` | 09/09/2021 |
+| `Agile Property Holdings` | 09/09/2021 |
+| `angstrom automotive group` | 09/09/2021 |
+| `Iaffaldano, Shaw &amp; Young LLP` | 09/09/2021 |
+| `ENPOL LLC` | 09/09/2021 |
+| `CEC Vibration Products` | 09/09/2021 |
+| `Betenbough Homes` | 09/09/2021 |
+| `Allen, Dyer, Doppelt, &amp; Gilchrist, P.A.` | 09/09/2021 |
+| `Apex America` | 09/09/2021 |
+## 🔮 everest
+
+_parsing : `disabled`_
+
+- https://www.reuters.com/article/us-usa-products-colonial-pipeline-ransom/more-ransomware-websites-disappear-in-aftermath-of-colonial-pipeline-hack-idUSKCN2CX0KT
+
+| title | available | version | last visit | fqdn
+|---|---|---|---|---|
+| Everest ransom team | True | 3 | 19:18 10/09/2021 | `ransomocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexfook2j7esad.onion` |
+
+| post | date |
+|---|---|
+| `Orha Muvek` | 09/09/2021 |
+| `Alispharm` | 09/09/2021 |
+| `Tampa Tank INC` | 09/09/2021 |
+| `InfraBuild` | 09/09/2021 |
+| `Weir &amp; Partners LLP / Part 2` | 09/09/2021 |
+| `AIC STEEL` | 09/09/2021 |
+| `Сompilation of lawyers France` | 09/09/2021 |
+| `XEFI / Part 2` | 09/09/2021 |
+| `Cabinet Remy Le Bonnois` | 09/09/2021 |
+| `GROUPE CONFIANCE IMMOBILIER` | 09/09/2021 |
+## 🦑 ragnarok
+
+_parsing : `enabled`_
+
+_notes: `shut down & offering a decryptor`_
+
+- https://techcrunch.com/2021/08/30/ragnarok-ransomware-gang-shuts-down-and-releases-its-decryption-key
+
+- https://www.cpomagazine.com/cyber-security/ragnarok-ransomware-gang-closes-up-shop-leaves-master-decryptor-key-behind
+
+- https://www.sababasecurity.com/cheese-shortage-in-dutch-supermarkets-after-a-ransomware-attack
+
+| title | available | version | last visit | fqdn
+|---|---|---|---|---|
+| none | False | 3 | 00:00 01/05/2021 | `wobpitin77vdsdiswr43duntv6eqw4rvphedutpaxycjdie6gg3binad.onion` |
+| Decrypt Site | False | 3 | 00:03 27/08/2021 | `sushlnty2j7qdzy64qnvyb6ajkwg7resd3p6agc2widnawodtcedgjid.onion` |
+
+| post | date |
+|---|---|
+| `Decrypt` | 09/09/2021 |
+## 🌀 conti
+
+_parsing : `enabled`_
+
+- https://threatpost.com/affiliate-leaks-conti-ransomware-playbook/168442
+
+- https://unit42.paloaltonetworks.com/conti-ransomware-gang
+
+| title | available | version | last visit | fqdn
+|---|---|---|---|---|
+| CONTI.News | True | 3 | 19:18 10/09/2021 | `continewsnv5otx5kaoje7krkto2qbu3gtqef22mnr7eaxw3y6ncz3ad.onion` |
+
+| post | date |
+|---|---|
+| `SOLWARE` | 09/09/2021 |
+| `Hanwha Life Vietnam` | 09/09/2021 |
+| `Duke Manufacturing Co.` | 09/09/2021 |
+| `VIVEA` | 09/09/2021 |
+| `Bob Poynter` | 09/09/2021 |
+| `DEBTIN CONSULTANTS (PTY) LTD` | 09/09/2021 |
+| `completeportables` | 09/09/2021 |
+| `Milwaukee World Festival, Inc` | 09/09/2021 |
+| `world-electronics` | 09/09/2021 |
+| `Vendrig Holding B.V.` | 09/09/2021 |
+| `TURLA SRL` | 09/09/2021 |
+| `Sanger & Altgelt Insurance Agents` | 09/09/2021 |
+| `RPE CONTRACTING` | 09/09/2021 |
+| `Riwega S.R.L.` | 09/09/2021 |
+| `MOSS BROS GROUP` | 09/09/2021 |
+| `JAMAC FROZEN FOODS` | 09/09/2021 |
+| `Frank G. Love Envelopes, Inc.` | 09/09/2021 |
+| `Grupo Herdez, S.A.B. de C.V. Holding Companies` | 09/09/2021 |
+## 🗑️ pysa
+
+_parsing : `enabled`_
+
+- https://www.ic3.gov/Media/News/2021/210316.pdf
+
+- https://blog.malwarebytes.com/threat-spotlight/2021/03/pysa-the-ransomware-attacking-schools
+
+| title | available | version | last visit | fqdn
+|---|---|---|---|---|
+| Pysa's Partners | True | 3 | 19:18 10/09/2021 | `pysa2bitc5ldeyfak4seeruqymqs4sj5wt5qkcq7aoyg4h2acqieywad.onion` |
+
+| post | date |
+|---|---|
+| `My Cloud Star` | 09/09/2021 |
+| `HPW` | 09/09/2021 |
+| `HVAC Facility & Plant Maintenance Tools` | 09/09/2021 |
+| `Danko Emergency Equipment` | 09/09/2021 |
+| `FCS Financial` | 09/09/2021 |
+| `Logansport Community School Corporation` | 09/09/2021 |
+| `Karavan Trailers` | 09/09/2021 |
+| `WPSD Local 6` | 09/09/2021 |
+| `LJ Hooker Aspley` | 09/09/2021 |
+| `Famous Supply` | 09/09/2021 |
+| `the NET - Northeast Tennessee Media Group` | 09/09/2021 |
+| `Bulley` | 09/09/2021 |
+| `Sarmad Steel` | 09/09/2021 |
+| `Vermont Personal Injury Lawyers` | 09/09/2021 |
+| `Upstate HomeCare` | 09/09/2021 |
+| `The Fashion Group International` | 09/09/2021 |
+| `OHL Judlau` | 09/09/2021 |
+| `Cyclone Steel` | 09/09/2021 |
+| `Geotechnical Consultants Inc.` | 09/09/2021 |
+| `Hyper Microsystems` | 09/09/2021 |
+| `St Bede's College` | 09/09/2021 |
+| `Buffalo Schools` | 09/09/2021 |
+| `Aztec Events` | 09/09/2021 |
+| `Alliance Architecture` | 09/09/2021 |
+| `AFP Elevator` | 09/09/2021 |
+| `Zane State College` | 09/09/2021 |
+| `Commack Fire Department` | 09/09/2021 |
+| `ATC Transportation` | 09/09/2021 |
+| `Zamora` | 09/09/2021 |
+| `Children's Network of Southwest Florida` | 09/09/2021 |
+| `Dayton Door Sales` | 09/09/2021 |
+| `Drug Alcohol Testing and Screening Compliance in Texas` | 09/09/2021 |
+| `Divorce Lawyer in Reading & Douglassville, PA` | 09/09/2021 |
+| `Worldwide Oilfield Machine` | 09/09/2021 |
+| `Affton School District` | 09/09/2021 |
+| `Gering Public Schools` | 09/09/2021 |
+| `Home Grown Grocery Food Supermarket` | 09/09/2021 |
+| `JVSmith Companies` | 09/09/2021 |
+| `Ciruli Brothers` | 09/09/2021 |
+| `Eagle Eye Produce` | 09/09/2021 |
+| `Wiener Laboratorios` | 09/09/2021 |
+| `Legacy Housing Corporation` | 09/09/2021 |
+| `Aireko` | 09/09/2021 |
+| `Grover Corparation` | 09/09/2021 |
+| `Public Restroom Company` | 09/09/2021 |
+| `Marlboro Pediatric Dentistryâ` | 09/09/2021 |
+| `Millersville University` | 09/09/2021 |
+| `Immanuel Lutheran Church and School` | 09/09/2021 |
+| `Modern Data Systems` | 09/09/2021 |
+| `Upstate Home Care` | 09/09/2021 |
+| `Levante UD` | 09/09/2021 |
+| `Dale Operating Company` | 09/09/2021 |
+| `Transam Carriers` | 09/09/2021 |
+| `Bridgeway Inc` | 09/09/2021 |
+| `City of Covington Louisiana` | 09/09/2021 |
+| `Western Flyer Express` | 09/09/2021 |
+| `Forest City Fire Protection` | 09/09/2021 |
+| `Woodholme Gastroenterology Associates` | 09/09/2021 |
+| `Momentum Transportation` | 09/09/2021 |
+| `Florence-Darlington Technical College` | 09/09/2021 |
+| `FirstCash Inc` | 09/09/2021 |
+| `Tenderloin Housing Clinic` | 09/09/2021 |
+| `Paysoft` | 09/09/2021 |
+| `EBSU` | 09/09/2021 |
+| `Repro X-Press` | 09/09/2021 |
+| `BABB Security Systems` | 09/09/2021 |
+| `Ogden Golf & Country Club` | 09/09/2021 |
+| `OnLINE FM` | 09/09/2021 |
+| `A Superior Towing` | 09/09/2021 |
+| `La ChÃ¢taigneraie` | 09/09/2021 |
+| `Baldwin Wallace University` | 09/09/2021 |
+| `Blackhawk Mining` | 09/09/2021 |
+| `Zionsville Community Schools` | 09/09/2021 |
+| `IDS Online Store` | 09/09/2021 |
+| `Dallas Production` | 09/09/2021 |
+| `D.W. Haber & Son` | 09/09/2021 |
+| `Esteyco` | 09/09/2021 |
+| `American Industrial Felt & Supply, Inc` | 09/09/2021 |
+| `ProSource Wholesale` | 09/09/2021 |
+| `Lo Studio Bartoli & Arveda` | 09/09/2021 |
+| `Prefeitura de BalneÃ¡rio CamboriÃº` | 09/09/2021 |
+| `Syracuse New Times` | 09/09/2021 |
+| `Siesacloud` | 09/09/2021 |
+| `Plantaciones de PlÃ¡tano` | 09/09/2021 |
+| `Grant Supplies` | 09/09/2021 |
+| `Viport` | 09/09/2021 |
+| `Powerblanket` | 09/09/2021 |
+| `Brain:IT` | 09/09/2021 |
+| `Fairfax University of America` | 09/09/2021 |
+| `Doak Shirreff Lawyers` | 09/09/2021 |
+| `Grand Annecy Agglomeration` | 09/09/2021 |
+| `Cleveland Institute of Music` | 09/09/2021 |
+| `Tucker Oil Company Inc.` | 09/09/2021 |
+| `Wolf Lake Industrial Center and Terminals` | 09/09/2021 |
+| `Implanta Spa` | 09/09/2021 |
+| `Peters Bosel Lawyers` | 09/09/2021 |
+| `Little Elm` | 09/09/2021 |
+| `Flamingo Horticulture` | 09/09/2021 |
+| `Prairie View A&M University` | 09/09/2021 |
+| `Intecs group` | 09/09/2021 |
+| `Wisconsin Public Radio` | 09/09/2021 |
+| `Jebco Agencies Inc.` | 09/09/2021 |
+| `Romanoff Group` | 09/09/2021 |
+| `Neenan Company` | 09/09/2021 |
+| `Bridgwater & Taunton College` | 09/09/2021 |
+| `The Bascom` | 09/09/2021 |
+| `Blueknight Energy Partners` | 09/09/2021 |
+| `Ãstre Toten Kommune Voksenopplring` | 09/09/2021 |
+| `The FitzWimark School` | 09/09/2021 |
+| `DFW Communications,Inc.` | 09/09/2021 |
+| `Palos Community Consolidated School District 118` | 09/09/2021 |
+| `CCS` | 09/09/2021 |
+| `Provenza Floors` | 09/09/2021 |
+| `Salesianum School` | 09/09/2021 |
+| `Brookfield Public Schools` | 09/09/2021 |
+| `Thinkware` | 09/09/2021 |
+| `Nama Khoi Municipality` | 09/09/2021 |
+| `Finance Evolution` | 09/09/2021 |
+| `Brickhaus` | 09/09/2021 |
+| `Summit Appliance` | 09/09/2021 |
+| `King Henrys` | 09/09/2021 |
+| `Outwest Express LLC` | 09/09/2021 |
+| `Serinus Energy Plc` | 09/09/2021 |
+| `Mid-Florida Pathology` | 09/09/2021 |
+| `Max. Aarts` | 09/09/2021 |
+| `Torello Moving Strategies` | 09/09/2021 |
+| `St. Mary School Hyde Park` | 09/09/2021 |
+| `Overlake Obstetricians & Gynecologists,PC` | 09/09/2021 |
+| `McKinney` | 09/09/2021 |
+| `Grupo Infoar` | 09/09/2021 |
+| `Bene Ficencia` | 09/09/2021 |
+| `St. Margaretâs Hospice Care` | 09/09/2021 |
+| `Riggins Company` | 09/09/2021 |
+| `Merchant Taylors' School` | 09/09/2021 |
+| `Dayliff` | 09/09/2021 |
+| `Benchmark Family Services` | 09/09/2021 |
+| `Tech 2000` | 09/09/2021 |
+| `Mirai` | 09/09/2021 |
+| `Rontis Medical` | 09/09/2021 |
+| `Gemitchellco` | 09/09/2021 |
+| `Affinity Education` | 09/09/2021 |
+| `Mendes JÃºnior` | 09/09/2021 |
+| `Bruce Turner` | 09/09/2021 |
+| `Roughrider Internation Ltd.` | 09/09/2021 |
+| `Market Pioneer` | 09/09/2021 |
+| `Hackney Council` | 09/09/2021 |
+| `Ayuntamiento de Guadarrama` | 09/09/2021 |
+| `Telhai` | 09/09/2021 |
+| `CWF Group Inc.` | 09/09/2021 |
+| `Mongoldford` | 09/09/2021 |
+| `Avelia` | 09/09/2021 |
+| `Econocom` | 09/09/2021 |
+| `Bakers S.A. Limited` | 09/09/2021 |
+| `IQA` | 09/09/2021 |
+| `Winters Independent School District` | 09/09/2021 |
+| `Heartland` | 09/09/2021 |
+| `ASE Bucuresti` | 09/09/2021 |
+| `Rafaela Alimentos` | 09/09/2021 |
+| `CASES` | 09/09/2021 |
+| `Irish Farmers Journals` | 09/09/2021 |
+| `Kuenne Gruppe` | 09/09/2021 |
+| `West Central Foodservice` | 09/09/2021 |
+| `Tor Vergata` | 09/09/2021 |
+| `UCEL` | 09/09/2021 |
+| `Myerscough College` | 09/09/2021 |
+| `MK Products` | 09/09/2021 |
+| `Bosley` | 09/09/2021 |
+| `ACE Glass` | 09/09/2021 |
+| `The Teka Group` | 09/09/2021 |
+| `Nonin Medical` | 09/09/2021 |
+| `Grand Homes` | 09/09/2021 |
+| `Assured Imaging` | 09/09/2021 |
+| `Uxbridge College` | 09/09/2021 |
+| `The Seifert Logistics Group` | 09/09/2021 |
+| `Upper Columbia Academy` | 09/09/2021 |
+| `Dublin` | 09/09/2021 |
+| `The CFC` | 09/09/2021 |
+| `Lindenwold` | 09/09/2021 |
+| `The Sixth Form Bolton` | 09/09/2021 |
+| `The Dantherm Group` | 09/09/2021 |
+| `Monty Holding Group` | 09/09/2021 |
+| `Illinois Valley Community College` | 09/09/2021 |
+| `Wichita Sheet Metal` | 09/09/2021 |
+| `Alliance Building Services` | 09/09/2021 |
+| `Marseille Provence` | 09/09/2021 |
+| `John Hardy` | 09/09/2021 |
+| `WHSE` | 09/09/2021 |
+| `MCLINC` | 09/09/2021 |
+| `Piedmont Orthopedics | OrthoAtlanta` | 09/09/2021 |
+| `Q3 Academy` | 09/09/2021 |
+| `The Masonic Home of Florida` | 09/09/2021 |
+| `Groupe Lefebvre M.R.P.` | 09/09/2021 |
+| `Cretsenbelledonne` | 09/09/2021 |
+| `Grupocif` | 09/09/2021 |
+| `Noorulislam` | 09/09/2021 |
+| `Ribasalvarez` | 09/09/2021 |
+| `HAC` | 09/09/2021 |
+| `Aebel` | 09/09/2021 |
+| `CDPO` | 09/09/2021 |
+| `Pjfitzpatrick` | 09/09/2021 |
+| `Saludladera` | 09/09/2021 |
+| `Famisanar` | 09/09/2021 |
+| `Poliview` | 09/09/2021 |
+| `Oliviers` | 09/09/2021 |
+| `Matthews` | 09/09/2021 |
+| `Fincamex` | 09/09/2021 |
+| `Allard` | 09/09/2021 |
+| `Diamond Box` | 09/09/2021 |
+| `Faic` | 09/09/2021 |
+| `Liberty Linehaul` | 09/09/2021 |
+| `Sacschool` | 09/09/2021 |
+| `Drug Alcohol Testing` | 10/09/2021 |
+## 🌀 nefilim
+
+_parsing : `enabled`_
+
+> fetching this site uses geckodriver/selenium
+
+- https://www.zdnet.com/article/a-deep-dive-into-nefilim-a-double-extortion-ransomware-group
+
+- https://www.trendmicro.com/en_nz/research/21/f/nefilim-modern-ransomware-attack-story.html
+
+| title | available | version | last visit | fqdn
+|---|---|---|---|---|
+| none | False | 2 | 00:00 01/05/2021 | `hxt254aygrsziejn.onion` |
+
+| post | date |
+|---|---|
+| `The MADSACK Media Group. Part 2.` | 09/09/2021 |
+| `Tegut. Part 2.` | 09/09/2021 |
+| `Saipa Press. Part 1.` | 09/09/2021 |
+| `TPG Internet. Part 1.` | 09/09/2021 |
+| `Tegut. Part 1.` | 09/09/2021 |
+| `The MADSACK Media Group. Part 1.` | 09/09/2021 |
+| `Seven Seas. Part 1.` | 09/09/2021 |
+| `Elliott Group / Cascade Engineering / Unitex Textile Rental Services. Teaser.` | 09/09/2021 |
+| `Grimmway Farms. Part 1.` | 09/09/2021 |
+| `Atlanta Allergy &#038; Asthma. Part 1.` | 09/09/2021 |
+| `Elliott Group / Casc` | 10/09/2021 |
+## 🧻 maze
+
+_parsing : `disabled`_
+
+- https://techcrunch.com/2020/11/02/maze-ransomware-group-shutting-down
+
+- https://www.fireeye.com/blog/threat-research/2020/05/tactics-techniques-procedures-associated-with-maze-ransomware-incidents.html
+
+| title | available | version | last visit | fqdn
+|---|---|---|---|---|
+| none | False | 3 | 00:00 01/05/2021 | `xfr3txoorcyy7tikjgj5dk3rvo3vsrpyaxnclyohkbfp3h277ap4tiad.onion` |
+
+| post | date |
+|---|---|
+## 🦁 mount-locker
+
+_parsing : `enabled`_
+
+- https://www.bleepingcomputer.com/news/security/mount-locker-ransomware-joins-the-multi-million-dollar-ransom-game
+
+- https://www.securitymagazine.com/articles/94954-sophos-identifies-connection-between-mount-locker-and-astro-locker-team-ransomware
+
+| title | available | version | last visit | fqdn
+|---|---|---|---|---|
+| none | False | 2 | 00:00 01/05/2021 | `mountnewsokhwilx.onion` |
+
+| post | date |
+|---|---|
+## 👹 babuk-locker
+
+_parsing : `enabled`_
+
+- https://www.bleepingcomputer.com/news/security/leaked-babuk-locker-ransomware-builder-used-in-new-attacks
+
+- https://www.bleepingcomputer.com/news/security/babuk-ransomwares-full-source-code-leaked-on-hacker-forum
+
+- https://blog.cyberint.com/babuk-locker
+
+| title | available | version | last visit | fqdn
+|---|---|---|---|---|
+| RAMP :) | True | 3 | 19:18 10/09/2021 | `wavbeudogz6byhnardd2lkp2jafims3j7tj6k6qnywchn2csngvtffqd.onion` |
+| Babuk - Leaks site | True | 3 | 19:18 10/09/2021 | `nq4zyac4ukl4tykmidbzgdlvaboqeqsemkp4t35bzvjeve6zm2lqcjid.onion` |
+
+| post | date |
+|---|---|
+## 💎 ransomexx
+
+_parsing : `enabled`_
+
+- https://www.bleepingcomputer.com/news/security/computer-hardware-giant-gigabyte-hit-by-ransomexx-ransomware
+
+- https://www.cybereason.com/blog/cybereason-vs.-ransomexx-ransomware
+
+- https://www.infosecurity-magazine.com/news/aerospace-giant-embraer-hit
+
+| title | available | version | last visit | fqdn
+|---|---|---|---|---|
+| RANSOMEXX | True | 3 | 19:18 10/09/2021 | `rnsm777cdsjrsdlbs4v5qoeppu3px6sb2igmh53jzrx7ipcrbjz5b2ad.onion` |
+
+| post | date |
+|---|---|
+| `American Megatrends International` | 09/09/2021 |
+| `Gigabyte Technology` | 09/09/2021 |
+| `Ermenegildo Zegna Holding` | 09/09/2021 |
+| `Liberty Group &amp; ForHousing` | 09/09/2021 |
+| `Corporación Nacional de Telecomunicación ` | 09/09/2021 |
+| `Walsin` | 09/09/2021 |
+| `WT Microelectronics ` | 09/09/2021 |
+| `Universal Assistance S.A.` | 09/09/2021 |
+| `STEMCOR` | 09/09/2021 |
+| `Wallace &amp; Carey` | 09/09/2021 |
+| `Samvardhana Motherson Peguform ` | 09/09/2021 |
+| `Nobiskrug` | 09/09/2021 |
+| `Ajuntament de Castelló ` | 09/09/2021 |
+| `Consiglio Nazionale del Notariato` | 09/09/2021 |
+| `Pertamina EP` | 09/09/2021 |
+| `CalAmp (NASDAQ: CAMP)` | 09/09/2021 |
+| `Soluzioni Infrastrutturali Telefoniche ed Elettriche S.p.A.` | 09/09/2021 |
+| `Indura SA` | 09/09/2021 |
+| `Vistra` | 09/09/2021 |
+| `Ultrapar Participações S.A.` | 09/09/2021 |
+| `Soluzioni Infrastrut` | 10/09/2021 |
+## 🔮 cuba
+
+_parsing : `enabled`_
+
+> fetching this site uses geckodriver/selenium
+
+- https://www.mcafee.com/enterprise/en-us/assets/reports/rp-cuba-ransomware.pdf
+
+- https://digital.nhs.uk/cyber-alerts/2021/cc-3855
+
+| title | available | version | last visit | fqdn
+|---|---|---|---|---|
+| none | False | 2 | 00:00 01/05/2021 | `cuba4mp6ximo2zlo.onion` |
+
+| post | date |
+|---|---|
+| `OTR Capital believes in simple and straightforward transactions, without hidden costs and unfair termination fees and rules. We understand the importance of quick, easy, and reliable payments and strive to provide our clients...` | 09/09/2021 |
+| `AFTS supplies the preeminent Payment Processing, IRS 1031 Exchange, Data Processing, Invoicing, Statement Printing, Business Mailings, Payment Collection, and Automated Lock-box to help your business maximize profits and outdo...` | 09/09/2021 |
+| `Rose Associates Mission Statement` | 09/09/2021 |
+| `Datamatics is a technology company that builds intelligent solutions enabling data-driven businesses to digitally transform themselves through Robotics, Artificial Intelligence, Cloud, Mobility and Advanced Analytics.` | 09/09/2021 |
+| `First Coast Logistics Services, Inc. was founded in 1999. The Company's line of business includes providing local trucking with storage services.` | 09/09/2021 |
+| `The Squamish Nation is comprised of descendants of the Coast Salish Aboriginal peoples who lived in the present day Greater Vancouver area; Gibson’s landing and Squamish River watershed. The Squamish Nation have occupied and...` | 09/09/2021 |
+| `OTR Capital believes` | 10/09/2021 |
+| `AFTS supplies the pr` | 10/09/2021 |
+| `Datamatics is a tech` | 10/09/2021 |
+| `First Coast Logistic` | 10/09/2021 |
+| `The Squamish Nation ` | 10/09/2021 |
+## 👹 pay2key
+
+_parsing : `enabled`_
+
+- https://research.checkpoint.com/2020/ransomware-alert-pay2key
+
+| title | available | version | last visit | fqdn
+|---|---|---|---|---|
+| Pay2Key Leak Directo | True | 3 | 19:19 10/09/2021 | `pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion` |
+
+| post | date |
+|---|---|
+| `Portnox - Network Security Solutions` | 09/09/2021 |
+| `IAI - Israel Aerospace Industries` | 09/09/2021 |
+| `Intel - Habana Labs` | 09/09/2021 |
+| `InfiApps - Joyvoo` | 09/09/2021 |
+| `INTER - InterElectric` | 09/09/2021 |
+| `MT-LAW [Markman&Tomashin Law Firm]` | 09/09/2021 |
+## 🧽 aztroteam
+
+_parsing : `enabled`_
+
+| title | available | version | last visit | fqdn
+|---|---|---|---|---|
+| none | False | 3 | 00:00 01/05/2021 | `anewset3pcya3xvk73hj7yunuamutxxsm5sohkdi32blhmql55tvgqad.onion` |
+
+| post | date |
+|---|---|
+## 🥁 lockdata
+
+_parsing : `enabled`_
+
+_notes: `marketplace`_
+
+- https://www.telekom.com/en/blog/group/article/lockdata-auction-631300
+
+- https://twitter.com/darktracer_int/status/1418318232885153792
+
+| title | available | version | last visit | fqdn
+|---|---|---|---|---|
+| LockData Auction | True | 3 | 19:19 10/09/2021 | `wm6mbuzipviusuc42kcggzkdpbhuv45sn7olyamy6mcqqked3waslbqd.onion` |
+
+| post | date |
+|---|---|
+| `[CHINA] TCL China Star Optoelectronics Technology Co., Ltd` | 09/09/2021 |
+| `[USA] Crary Industries Inc.` | 09/09/2021 |
+| `[CZ]  GORDIC spol. s r.o.` | 09/09/2021 |
+| `[Saudi Arabia] Al Wefag Trading & Manufacturing` | 09/09/2021 |
+| `[USA] OrthoCare, 700 Lake Ave, Ste 6, Manchester, New Hampshire, 03103` | 09/09/2021 |
+| `[CHINA] TCL China St` | 10/09/2021 |
+| `[USA] OrthoCare, 700` | 10/09/2021 |
+## 🍺 blacktor
+
+_parsing : `enabled`_
+
+| title | available | version | last visit | fqdn
+|---|---|---|---|---|
+| Bl@ckt0r | Bug Hunte | False | 3 | 18:51 10/09/2021 | `bl4cktorpms2gybrcyt52aakcxt6yn37byb65uama5cimhifcscnqkid.onion` |
+
+| post | date |
+|---|---|
+| `2020/04` | 09/09/2021 |
+## 🦁 haron
+
+_parsing : `disabled`_
+
+_notes: `login page, no apparent posts`_
+
+- https://therecord.media/new-haron-ransomware-gang-emerges-borrowing-from-avaddon-and-thanos
+
+- https://threatpost.com/ransomware-gangs-haron-blackmatter/168212
+
+| title | available | version | last visit | fqdn
+|---|---|---|---|---|
+| Clients page | True | 3 | 19:21 10/09/2021 | `ft4zr2jzlqoyob7yg4fcpwyt37hox3ajajqnfkdvbfrkjioyunmqnpad.onion` |
+
+| post | date |
+|---|---|
+## 🧭 darkleakmarket
+
+_parsing : `enabled`_
+
+_notes: `marketplace commonly used by affiliates - not a ransomware crew`_
+
+| title | available | version | last visit | fqdn
+|---|---|---|---|---|
+| Dark Leak Market | True | 3 | 19:21 10/09/2021 | `54rdhzjzc4ids4u4wata4zr4ywfon5wpz2ml4q3avelgadpvmdal2vqd.onion` |
+
+| post | date |
+|---|---|
+| `Liquid Global liquid.com` | 09/09/2021 |
+| `AT&T Database Leak` | 09/09/2021 |
+| `Pine Labs Data Leak` | 09/09/2021 |
+| `DreamHost Data Leak` | 09/09/2021 |
+| `Cognyte Data Leak` | 09/09/2021 |
+| `ADATA corporation Leak` | 09/09/2021 |
+| `AirIndia breach information of 4.5 million custome` | 09/09/2021 |
+| `Dominos India Database Leak` | 09/09/2021 |
+| `Tata Communications Huge Data` | 09/09/2021 |
+| `Upstox.com Huge Data` | 09/09/2021 |
+| `SBI YONO APP DATABASE` | 09/09/2021 |
+| `Astoria Company LLC data` | 09/09/2021 |
+| `Mobikwik Leaked Data` | 09/09/2021 |
+| `Summit Credit Union Big Data Leak` | 09/09/2021 |
+| `Acer.com Leaked Data 100% Fresh` | 09/09/2021 |
+| `Prime Minister of India Data` | 09/09/2021 |
+| `533 Million facebook Users Data ` | 09/09/2021 |
+| `True Caller Indian Data Leak` | 09/09/2021 |
+| `Indiabulls SQL and Documents Leak ` | 09/09/2021 |
+| `2480000 Airtel India Customers Data` | 09/09/2021 |
+| `Jazz Mobile Pakistan Data Dump` | 09/09/2021 |
+| `Beacon Health Solutions LLC Data` | 09/09/2021 |
+| `Bigbasket.com De-Hashed data leaked sql db` | 09/09/2021 |
+| `IDFC Bank Confidential Data Leak` | 09/09/2021 |
+| `Solar Winds Data Leak` | 09/09/2021 |
+| `American Bank Systems INC Data Leak` | 09/09/2021 |
+## 🧱 prometheus
+
+_parsing : `disabled`_
+
+> fetching this site uses geckodriver/selenium
+
+- https://therecord.media/decryptor-released-for-prometheus-ransomware-victims
+
+- https://unit42.paloaltonetworks.com/prometheus-ransomwar
+
+| title | available | version | last visit | fqdn
+|---|---|---|---|---|
+| none | False | 2 | 00:00 01/05/2021 | `promethw27cbrcot.onion` |
+
+| post | date |
+|---|---|
+## 🥁 blackmatter
+
+_parsing : `enabled`_
+
+- https://www.tripwire.com/state-of-security/featured/blackmatter-pose-new-ransomware-threat
+
+- https://venturebeat.com/2021/08/23/sophoslabs-research-shows-blackmatter-ransomware-is-closely-acquainted-with-darkside
+
+| title | available | version | last visit | fqdn
+|---|---|---|---|---|
+| BlackMatter | True | 3 | 19:21 10/09/2021 | `blackmax7su6mbwtcyo3xwtpfxpm356jjqrs34y4crcytpw7mifuedyd.onion` |
+
+| post | date |
+|---|---|
+| `Trust Capital Funding` | 09/09/2021 |
+| `Diamond Schmitt` | 09/09/2021 |
+| `g-able.com` | 09/09/2021 |
+| `Middleton Reutlinger` | 09/09/2021 |
+| `tastefulselections &amp; WFG` | 09/09/2021 |
+| `Kaydon Corporation (SKF Group Brand) ` | 09/09/2021 |
+| `Pine Labs Pvt` | 09/09/2021 |
+| `Network Telecom / Enreach` | 09/09/2021 |
+| `hhcp.com` | 09/09/2021 |
+| `` | 09/09/2021 |
+## 🧲 payloadbin
+
+_parsing : `enabled`_
+
+- https://cyberintelmag.com/malware-viruses/payloadbin-ransomware-attributed-to-evil-corp
+
+| title | available | version | last visit | fqdn
+|---|---|---|---|---|
+| Payload.bin | True | 3 | 19:21 10/09/2021 | `vbmisqjshn4yblehk2vbnil53tlqklxsdaztgphcilto3vdj4geao5qd.onion` |
+
+| post | date |
+|---|---|
+| `www.webstercare.com.au` | 09/09/2021 |
+| `Wrgtexas.com` | 09/09/2021 |
+| `Connelypartners.com` | 09/09/2021 |
+| `Truckcentercompanies.com` | 09/09/2021 |
+| `Uptownbakers.com` | 09/09/2021 |
+| `Victrongroup.com` | 09/09/2021 |
+| `CD Project data` | 09/09/2021 |
+| `iRely LLC&#039;s Grand Failure` | 09/09/2021 |
+| `nsuship.co.jp` | 09/09/2021 |
+| `sklarwilton.com` | 09/09/2021 |
+| `conferenceusa.com` | 09/09/2021 |
+| `pdsec.com` | 09/09/2021 |
+| `www.emmawillard.org` | 09/09/2021 |
+| `www.coreslab.com` | 09/09/2021 |
+| `www.crm.com` | 09/09/2021 |
+| `webstercare.com.au` | 09/09/2021 |
+| `neuro-logica.com` | 09/09/2021 |
+| `Capstoneins.com` | 09/09/2021 |
+| `Reconservices.com` | 09/09/2021 |
+## 🎲 groove
+
+_parsing : `enabled`_
+
+- https://intel471.com/blog/groove-gang-ransomware-babuk-revil-blackmatter
+
+- https://www.mcafee.com/blogs/enterprise/mcafee-enterprise-atr/how-groove-gang-is-shaking-up-the-ransomware-as-a-service-market-to-empower-affiliates
+
+| title | available | version | last visit | fqdn
+|---|---|---|---|---|
+| Утечки | Groove | True | 3 | 19:21 10/09/2021 | `ws3dh6av66sjbxxkjpw5ao3wqzmtejnkzheswm4dz5rrwvular7xvkqd.onion` |
+
+| post | date |
+|---|---|
+| `Мы можем просто договориться` | 09/09/2021 |
+| `Запатченные fortinet точки входа` | 09/09/2021 |
+| `Мысли о смысле` | 09/09/2021 |
+| `ludofact.de 50 GB data stolen` | 09/09/2021 |
+| `Украина и экстрадиции в США` | 10/09/2021 |
+| `Одно интервью` | 10/09/2021 |
