@@ -1,18 +1,18 @@
 ## 📰 summary - september 10th, 2021
 
-currently tracking `39` groups across `47` various relays and mirrors - _`28` of which are online, with `2` appearing inaccessible_
+currently tracking `39` groups across `47` various relays and mirrors - _`29` of which are online, with `2` appearing inaccessible_
 
 there are currently `30` active parsers, `2` of which leverage [mozilla/geckodriver](https://github.com/mozilla/geckodriver) - _`3` groups have introduced captchas this year_
 
-⏲ there have been `868` posts within the `last 24 hours`
+⏲ there have been `869` posts within the `last 24 hours`
 
-🦈 there have been `872` posts within the `month of october`
+🦈 there have been `873` posts within the `month of october`
 
-🪐 there have been `890` posts within the `last 90 days`
+🪐 there have been `891` posts within the `last 90 days`
 
-🏚 there have been `924` posts within the `year of 2021`
+🏚 there have been `925` posts within the `year of 2021`
 
-🦕 there have been `958` posts `since the beginning of time`
+🦕 there have been `959` posts `since the beginning of time`
 
 > _the `11` sites using v2 onion services are no longer indexed - [support.torproject.org](https://support.torproject.org/onionservices/v2-deprecation/)_
 
@@ -29,7 +29,7 @@ there are currently `30` active parsers, `2` of which leverage [mozilla/geckodri
 | lorenz | Lorenz | ⬆️ 🟢 |  | lorenzmlwpzgxq736jzseuterytjueszsvznuibanxomlpkyxk6ksoyd.onion |
 | lockbit2 | LockBit BLOG | ⬆️ 🟢 |  | lockbitapt6vx57t3eeqjofwgcglmutr3a35nygvokja5uuccip4ykyd.onion |
 | hive | Hive | ⬆️ 🟢 |  | hiveleakdbtnp76ulyhi52eag6c6tyc3xw7ez7iqy6wc34gd2nekazyd.onion |
-| arvinclub | Arvin Club – آزادی برای اتصال | ⬇️ 🔴 | 2021-09-08 | 3kp6j22pz3zkv76yutctosa6djpj4yib2icvdqxucdaxxedumhqicpad.onion |
+| arvinclub | Arvin Club – آزادی ب | ⬆️ 🟢 |  | 3kp6j22pz3zkv76yutctosa6djpj4yib2icvdqxucdaxxedumhqicpad.onion |
 | avoslocker | AvosLocker Press Rel | ⬆️ 🟢 |  | avosqxh72b5ia23dl5fgwcpndkctuzqvh2iefk5imp3pi5gfhel5klad.onion |
 | grief | Grief list | ⬆️ 🟢 |  | griefcameifmv4hfr3auozmovz5yi6m3h3dwbuqw7baomfxoxz4qteid.onion |
 | avaddon |  | ⬇️ 🔴 | 2021-05-01 | avaddongun7rngel.onion |
