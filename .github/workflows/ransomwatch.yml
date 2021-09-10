@@ -8,6 +8,7 @@ on:
 jobs:
   torsocks-job:
     runs-on: ubuntu-latest
+    timeout-minutes: 15
     services:
       torproxy:
         image: ghcr.io/thetanz/gotham/torproxy:latest
