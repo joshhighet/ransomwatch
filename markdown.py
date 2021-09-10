@@ -195,7 +195,10 @@ def profilepage():
     for group in groups:
         writeline(profilepage, '## ' + group['name'])
         writeline(profilepage, '')
-        # if has array of profiles show them all
+        # if group meta is not none, write it
+        if group['meta'] is not None:
+            writeline(profilepage, '_notes: `' + group['meta'] + '`_')
+            writeline(profilepage, '')
         if group['profile'] is not None:
             for profile in group['profile']:
                 writeline(profilepage, '- ' + profile)
