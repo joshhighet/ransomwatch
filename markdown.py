@@ -173,7 +173,7 @@ def recentposts():
         line = '| ' + date + ' | ' + '`' + post['post_title'] + '`' + ' | ' + post['group_name'] + ' |'
         writeline(recentposts, line)
 
-def profilepage():
+def profilehome():
     '''
     create a profile page in markdown containing the plotly graphs
     '''
@@ -214,6 +214,50 @@ def profilepage():
                 writeline(profilepage, '- ' + profile)
                 writeline(profilepage, '')
 
+def profilepage():
+    '''
+    create a profile page for each group in their unique markdown files within docs/profiles
+    '''
+    groups = openjson('groups.json')
+    for group in groups:
+        profilepage = 'docs/profiles/' + group['name'] + '.md'
+        # delete contents of file
+        with open(profilepage, 'w') as f:
+            f.close()
+        writeline(profilepage, '| title | available | version | last visit | fqdn')
+        writeline(profilepage, '|---|---|---|---|---|')        
+        for host in group['locations']:
+            print(host['title'])
+            print(str(host['version']))
+            print(host['lastscrape'])
+            print(host['fqdn'])
+            # convert date to ddmmyyyy hh:mm
+            date = host['lastscrape'].split(' ')[0]
+            date = date.split('-')
+            date = date[2] + '/' + date[1] + '/' + date[0]
+            time = host['lastscrape'].split(' ')[1]
+            time = time.split(':')
+            time = time[0] + ':' + time[1]
+            if host['title'] is not None:
+                line = '| ' + host['title'] + ' | ' + str(host['available']) +  ' | ' + str(host['version']) + ' | ' + time + ' ' + date + ' | `' + host['fqdn'] + '` |'
+                writeline(profilepage, line)
+            else:
+                line = '| none | ' + str(host['available']) +  ' | ' + str(host['version']) + ' | ' + time + ' ' + date + ' | `' + host['fqdn'] + '` |'
+                writeline(profilepage, line)
+
+        writeline(profilepage, '')
+        writeline(profilepage, '| post | date |')
+        writeline(profilepage, '|---|---|')
+        posts = openjson('posts.json')
+        for post in posts:
+            if post['group_name'] == group['name']:
+                date = post['discovered'].split(' ')[0]
+                date = date.split('-')
+                date = date[2] + '/' + date[1] + '/' + date[0]
+                line = '| ' + '`' + post['post_title'] + '`' + ' | ' + date + ' |'
+                writeline(profilepage, line)
+
+
 def main():
     mainpage()
     sidebar()
@@ -222,4 +266,6 @@ def main():
     groupreportmonthly()
     groupreportpie()
     statspage()
-    profilepage()
+    profilehome()
+
+profilepage()
