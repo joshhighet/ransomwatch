@@ -209,7 +209,7 @@
     {
         "name": "vicesociety",
         "parser": false,
-        "geckodriver": false,
+        "geckodriver": true,
         "locations": [
             {
                 "fqdn": "4hzyuotli6maqa4u.onion",
@@ -463,7 +463,7 @@
     {
         "name": "nefilim",
         "parser": true,
-        "geckodriver": false,
+        "geckodriver": true,
         "locations": [
             {
                 "fqdn": "hxt254aygrsziejn.onion",
@@ -558,7 +558,7 @@
     {
         "name": "cuba",
         "parser": true,
-        "geckodriver": false,
+        "geckodriver": true,
         "locations": [
             {
                 "fqdn": "cuba4mp6ximo2zlo.onion",
@@ -677,7 +677,7 @@
     {
         "name": "prometheus",
         "parser": false,
-        "geckodriver": false,
+        "geckodriver": true,
         "locations": [
             {
                 "fqdn": "promethw27cbrcot.onion",
