@@ -118,13 +118,13 @@ def sidebar():
         f.close()
     writeline(sidebar, '- [home](README.md)')
     writeline(sidebar, '- [stats](stats.md)')
-    # groups = openjson('groups.json')
-    #writeline(sidebar, '- stats')
+    writeline(sidebar, '- [profiles](profiles.md)')
     #writeline(sidebar, '    - [stats](stats.md)')
     #writeline(sidebar, '    - [recent](recentposts.md)')
     # writeline(sidebar, '- groups')
     # '''create a de-duplicated list of groups'''
     # group_list = []
+    # groups = openjson('groups.json')
     # for group in groups:
     #     if group['name'] not in group_list:
     #         group_list.append(group['name'])
@@ -180,3 +180,25 @@ def main():
     groupreportmonthly()
     groupreportpie()
     statspage()
+
+def profilepage():
+    '''
+    create a profile page in markdown containing the plotly graphs
+    '''
+    profilepage = 'docs/profiles.md'
+    # delete contents of file
+    with open(profilepage, 'w') as f:
+        f.close()
+    writeline(profilepage, '# 📚 profiles')
+    writeline(profilepage, '')
+    groups = openjson('groups.json')
+    for group in groups:
+        writeline(profilepage, '## ' + group['name'])
+        writeline(profilepage, '')
+        # if has array of profiles show them all
+        if group['profile'] is not None:
+            for profile in group['profile']:
+                writeline(profilepage, '- ' + profile)
+                writeline(profilepage, '')
+
+profilepage()
