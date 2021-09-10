@@ -1,6 +1,7 @@
 [
     {
         "name": "marketo",
+        "captcha": false,
         "parser": false,
         "geckodriver": false,
         "javascript_render": false,
@@ -23,6 +24,7 @@
     },
     {
         "name": "synack",
+        "captcha": false,
         "parser": true,
         "geckodriver": false,
         "javascript_render": false,
@@ -44,6 +46,7 @@
     },
     {
         "name": "suncrypt",
+        "captcha": false,
         "parser": true,
         "geckodriver": false,
         "javascript_render": false,
@@ -75,6 +78,7 @@
     },
     {
         "name": "lv",
+        "captcha": false,
         "parser": false,
         "geckodriver": true,
         "javascript_render": true,
@@ -106,6 +110,7 @@
     },
     {
         "name": "lorenz",
+        "captcha": false,
         "parser": true,
         "geckodriver": false,
         "javascript_render": false,
@@ -128,6 +133,7 @@
     },
     {
         "name": "lockbit2",
+        "captcha": false,
         "parser": false,
         "geckodriver": true,
         "javascript_render": true,
@@ -150,6 +156,7 @@
     },
     {
         "name": "hive",
+        "captcha": false,
         "parser": false,
         "geckodriver": true,
         "javascript_render": true,
@@ -172,6 +179,7 @@
     },
     {
         "name": "arvinclub",
+        "captcha": false,
         "parser": true,
         "geckodriver": false,
         "javascript_render": false,
@@ -191,6 +199,7 @@
     },
     {
         "name": "avoslocker",
+        "captcha": false,
         "parser": true,
         "geckodriver": false,
         "javascript_render": false,
@@ -213,10 +222,11 @@
     },
     {
         "name": "grief",
+        "captcha": true,
         "parser": false,
         "geckodriver": false,
         "javascript_render": false,
-        "meta": "has_captcha",
+        "meta": null,
         "locations": [
             {
                 "fqdn": "griefcameifmv4hfr3auozmovz5yi6m3h3dwbuqw7baomfxoxz4qteid.onion",
@@ -234,6 +244,7 @@
     },
     {
         "name": "avaddon",
+        "captcha": false,
         "parser": true,
         "geckodriver": false,
         "javascript_render": false,
@@ -256,6 +267,7 @@
     },
     {
         "name": "vicesociety",
+        "captcha": false,
         "parser": false,
         "geckodriver": true,
         "javascript_render": false,
@@ -277,6 +289,7 @@
     },
     {
         "name": "xinglocker",
+        "captcha": false,
         "parser": true,
         "geckodriver": false,
         "javascript_render": false,
@@ -299,6 +312,7 @@
     },
     {
         "name": "darkside",
+        "captcha": false,
         "parser": false,
         "geckodriver": false,
         "javascript_render": false,
@@ -321,6 +335,7 @@
     },
     {
         "name": "ragnarlocker",
+        "captcha": false,
         "parser": true,
         "geckodriver": false,
         "javascript_render": false,
@@ -361,10 +376,11 @@
     },
     {
         "name": "clop",
+        "captcha": true,
         "parser": true,
         "geckodriver": false,
         "javascript_render": false,
-        "meta": "has_captcha",
+        "meta": null,
         "locations": [
             {
                 "fqdn": "ekbgzchl6x2ias37.onion",
@@ -392,6 +408,7 @@
     },
     {
         "name": "netwalker",
+        "captcha": false,
         "parser": false,
         "geckodriver": false,
         "javascript_render": false,
@@ -415,10 +432,11 @@
     },
     {
         "name": "doppelpaymer",
+        "captcha": true,
         "parser": false,
         "geckodriver": false,
         "javascript_render": false,
-        "meta": "has_captcha",
+        "meta": null,
         "locations": [
             {
                 "fqdn": "hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion",
@@ -437,6 +455,7 @@
     },
     {
         "name": "revil",
+        "captcha": false,
         "parser": true,
         "geckodriver": false,
         "javascript_render": false,
@@ -469,6 +488,7 @@
     },
     {
         "name": "everest",
+        "captcha": false,
         "parser": false,
         "geckodriver": false,
         "javascript_render": false,
@@ -490,6 +510,7 @@
     },
     {
         "name": "ragnarok",
+        "captcha": false,
         "parser": true,
         "geckodriver": false,
         "javascript_render": false,
@@ -522,6 +543,7 @@
     },
     {
         "name": "conti",
+        "captcha": false,
         "parser": true,
         "geckodriver": false,
         "javascript_render": false,
@@ -544,6 +566,7 @@
     },
     {
         "name": "pysa",
+        "captcha": false,
         "parser": true,
         "geckodriver": false,
         "javascript_render": false,
@@ -566,6 +589,7 @@
     },
     {
         "name": "nefilim",
+        "captcha": false,
         "parser": true,
         "geckodriver": true,
         "javascript_render": false,
@@ -588,6 +612,7 @@
     },
     {
         "name": "maze",
+        "captcha": false,
         "parser": false,
         "geckodriver": false,
         "javascript_render": false,
@@ -610,6 +635,7 @@
     },
     {
         "name": "mount-locker",
+        "captcha": false,
         "parser": true,
         "geckodriver": false,
         "javascript_render": false,
@@ -632,6 +658,7 @@
     },
     {
         "name": "babuk-locker",
+        "captcha": false,
         "parser": true,
         "geckodriver": false,
         "javascript_render": false,
@@ -664,6 +691,7 @@
     },
     {
         "name": "ransomexx",
+        "captcha": false,
         "parser": true,
         "geckodriver": false,
         "javascript_render": false,
@@ -687,6 +715,7 @@
     },
     {
         "name": "cuba",
+        "captcha": false,
         "parser": true,
         "geckodriver": true,
         "javascript_render": false,
@@ -709,6 +738,7 @@
     },
     {
         "name": "pay2key",
+        "captcha": false,
         "parser": true,
         "geckodriver": false,
         "javascript_render": false,
@@ -730,6 +760,7 @@
     },
     {
         "name": "aztroteam",
+        "captcha": false,
         "parser": true,
         "geckodriver": false,
         "javascript_render": false,
@@ -749,6 +780,7 @@
     },
     {
         "name": "lockdata",
+        "captcha": false,
         "parser": true,
         "geckodriver": false,
         "javascript_render": false,
@@ -771,6 +803,7 @@
     },
     {
         "name": "blacktor",
+        "captcha": false,
         "parser": true,
         "geckodriver": false,
         "javascript_render": false,
@@ -790,6 +823,7 @@
     },
     {
         "name": "haron",
+        "captcha": false,
         "parser": false,
         "geckodriver": false,
         "javascript_render": false,
@@ -812,6 +846,7 @@
     },
     {
         "name": "darkleakmarket",
+        "captcha": false,
         "parser": true,
         "geckodriver": false,
         "javascript_render": false,
@@ -831,6 +866,7 @@
     },
     {
         "name": "prometheus",
+        "captcha": false,
         "parser": false,
         "geckodriver": true,
         "javascript_render": false,
@@ -853,6 +889,7 @@
     },
     {
         "name": "blackmatter",
+        "captcha": false,
         "parser": true,
         "geckodriver": false,
         "javascript_render": false,
@@ -875,6 +912,7 @@
     },
     {
         "name": "payloadbin",
+        "captcha": false,
         "parser": true,
         "geckodriver": false,
         "javascript_render": false,
@@ -896,6 +934,7 @@
     },
     {
         "name": "groove",
+        "captcha": false,
         "parser": true,
         "geckodriver": false,
         "javascript_render": false,

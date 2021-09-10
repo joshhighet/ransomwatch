@@ -200,6 +200,9 @@ def profilepage():
         emoji = emojis[random.randint(0, len(emojis)-1)]
         writeline(profilepage, '#### ' + emoji + ' [profiles/' + group['name'] + '](profiles/' + group['name'] + '.md)')
         writeline(profilepage, '')
+        if group['captcha'] is True:
+            writeline(profilepage, ':warning: _has a captcha_')
+            writeline(profilepage, '')
         if group['parser'] is True:
             writeline(profilepage, '_parsing : `enabled`_')
             writeline(profilepage, '')
