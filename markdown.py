@@ -180,5 +180,3 @@ def main():
     groupreportmonthly()
     groupreportpie()
     statspage()
-
-main()
