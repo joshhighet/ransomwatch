@@ -42,6 +42,9 @@ def appender(post_title, group_name):
     '''
     append a new post to posts.json
     '''
+    # limit length of post_title to 20 chars
+    if len(post_title) > 20:
+        post_title = post_title[:20]
     if existingpost(post_title, group_name) is False:
         posts = openjson('posts.json')
         newpost = posttemplate(post_title, group_name, str(datetime.today()))

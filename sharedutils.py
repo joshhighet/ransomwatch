@@ -163,7 +163,9 @@ def getsitetitle(html) -> str:
     except AttributeError:
         stdlog('sharedutils: ' + 'could not fetch site title from source - ' + str(html))
         return None
-    stdlog('sharedutils: ' + 'site title - ' + str(titletext))
+    # limit title text to 20 chars
+    if len(titletext) > 20:
+        titletext = titletext[:20]
     return titletext
 
 def hasprotocol(slug):
