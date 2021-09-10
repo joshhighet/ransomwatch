@@ -108,8 +108,11 @@ def scraper():
                 if group['geckodriver'] is True:
                     stdlog('ransomwatch: ' + 'using geckodriver')
                     response = geckodrive.main(host['slug'])
-                elif group['geckodriver'] is False:
-                    stdlog('ransomwatch: ' + 'using socksfetcher')
+                elif group['javascript_render'] is True:
+                    stdlog('ransomwatch: ' + 'using javascript_render (geckodriver)')
+                    response = geckodrive.main(host['slug'])
+                else:
+                    stdlog('ransomwatch: ' + 'using standard socksfetcher')
                     response = socksfetcher(host['slug'])
                 if response is not None:
                     stdlog('ransomwatch: ' + 'scraping ' + host['slug'] + ' successful')

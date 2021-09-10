@@ -3,6 +3,7 @@
         "name": "marketo",
         "parser": false,
         "geckodriver": false,
+        "javascript_render": false,
         "meta": null,
         "locations": [
             {
@@ -24,6 +25,7 @@
         "name": "synack",
         "parser": true,
         "geckodriver": false,
+        "javascript_render": false,
         "meta": null,
         "locations": [
             {
@@ -44,6 +46,7 @@
         "name": "suncrypt",
         "parser": true,
         "geckodriver": false,
+        "javascript_render": false,
         "meta": null,
         "locations": [
             {
@@ -74,7 +77,8 @@
         "name": "lv",
         "parser": false,
         "geckodriver": true,
-        "meta": "javascript_render",
+        "javascript_render": true,
+        "meta": null,
         "locations": [
             {
                 "fqdn": "rbvuetuneohce3ouxjlbxtimyyxokb4btncxjbo44fbgxqy7tskinwad.onion",
@@ -104,6 +108,7 @@
         "name": "lorenz",
         "parser": true,
         "geckodriver": false,
+        "javascript_render": false,
         "meta": null,
         "locations": [
             {
@@ -125,7 +130,8 @@
         "name": "lockbit2",
         "parser": false,
         "geckodriver": true,
-        "meta": "javascript_render",
+        "javascript_render": true,
+        "meta": null,
         "locations": [
             {
                 "fqdn": "lockbitapt6vx57t3eeqjofwgcglmutr3a35nygvokja5uuccip4ykyd.onion",
@@ -146,7 +152,8 @@
         "name": "hive",
         "parser": false,
         "geckodriver": true,
-        "meta": "javascript_render",
+        "javascript_render": true,
+        "meta": null,
         "locations": [
             {
                 "fqdn": "hiveleakdbtnp76ulyhi52eag6c6tyc3xw7ez7iqy6wc34gd2nekazyd.onion",
@@ -167,6 +174,7 @@
         "name": "arvinclub",
         "parser": true,
         "geckodriver": false,
+        "javascript_render": false,
         "meta": null,
         "locations": [
             {
@@ -185,6 +193,7 @@
         "name": "avoslocker",
         "parser": true,
         "geckodriver": false,
+        "javascript_render": false,
         "meta": null,
         "locations": [
             {
@@ -206,6 +215,7 @@
         "name": "grief",
         "parser": false,
         "geckodriver": false,
+        "javascript_render": false,
         "meta": "has_captcha",
         "locations": [
             {
@@ -226,6 +236,7 @@
         "name": "avaddon",
         "parser": true,
         "geckodriver": false,
+        "javascript_render": false,
         "meta": null,
         "locations": [
             {
@@ -247,6 +258,7 @@
         "name": "vicesociety",
         "parser": false,
         "geckodriver": true,
+        "javascript_render": false,
         "meta": null,
         "locations": [
             {
@@ -267,6 +279,7 @@
         "name": "xinglocker",
         "parser": true,
         "geckodriver": false,
+        "javascript_render": false,
         "meta": "xing use a custom mountlocker exe",
         "locations": [
             {
@@ -288,6 +301,7 @@
         "name": "darkside",
         "parser": false,
         "geckodriver": false,
+        "javascript_render": false,
         "meta": null,
         "locations": [
             {
@@ -309,6 +323,7 @@
         "name": "ragnarlocker",
         "parser": true,
         "geckodriver": false,
+        "javascript_render": false,
         "meta": null,
         "locations": [
             {
@@ -348,6 +363,7 @@
         "name": "clop",
         "parser": true,
         "geckodriver": false,
+        "javascript_render": false,
         "meta": "has_captcha",
         "locations": [
             {
@@ -378,6 +394,7 @@
         "name": "netwalker",
         "parser": false,
         "geckodriver": false,
+        "javascript_render": false,
         "meta": null,
         "locations": [
             {
@@ -400,6 +417,7 @@
         "name": "doppelpaymer",
         "parser": false,
         "geckodriver": false,
+        "javascript_render": false,
         "meta": "has_captcha",
         "locations": [
             {
@@ -421,6 +439,7 @@
         "name": "revil",
         "parser": true,
         "geckodriver": false,
+        "javascript_render": false,
         "meta": null,
         "locations": [
             {
@@ -452,6 +471,7 @@
         "name": "everest",
         "parser": false,
         "geckodriver": false,
+        "javascript_render": false,
         "meta": null,
         "locations": [
             {
@@ -472,6 +492,7 @@
         "name": "ragnarok",
         "parser": true,
         "geckodriver": false,
+        "javascript_render": false,
         "meta": "shut down & offering a decryptor",
         "locations": [
             {
@@ -503,6 +524,7 @@
         "name": "conti",
         "parser": true,
         "geckodriver": false,
+        "javascript_render": false,
         "meta": null,
         "locations": [
             {
@@ -524,6 +546,7 @@
         "name": "pysa",
         "parser": true,
         "geckodriver": false,
+        "javascript_render": false,
         "meta": null,
         "locations": [
             {
@@ -545,6 +568,7 @@
         "name": "nefilim",
         "parser": true,
         "geckodriver": true,
+        "javascript_render": false,
         "meta": null,
         "locations": [
             {
@@ -566,6 +590,7 @@
         "name": "maze",
         "parser": false,
         "geckodriver": false,
+        "javascript_render": false,
         "meta": null,
         "locations": [
             {
@@ -587,6 +612,7 @@
         "name": "mount-locker",
         "parser": true,
         "geckodriver": false,
+        "javascript_render": false,
         "meta": null,
         "locations": [
             {
@@ -608,6 +634,7 @@
         "name": "babuk-locker",
         "parser": true,
         "geckodriver": false,
+        "javascript_render": false,
         "meta": null,
         "locations": [
             {
@@ -639,6 +666,7 @@
         "name": "ransomexx",
         "parser": true,
         "geckodriver": false,
+        "javascript_render": false,
         "meta": null,
         "locations": [
             {
@@ -661,6 +689,7 @@
         "name": "cuba",
         "parser": true,
         "geckodriver": true,
+        "javascript_render": false,
         "meta": null,
         "locations": [
             {
@@ -682,6 +711,7 @@
         "name": "pay2key",
         "parser": true,
         "geckodriver": false,
+        "javascript_render": false,
         "meta": null,
         "locations": [
             {
@@ -702,6 +732,7 @@
         "name": "aztroteam",
         "parser": true,
         "geckodriver": false,
+        "javascript_render": false,
         "meta": null,
         "locations": [
             {
@@ -720,6 +751,7 @@
         "name": "lockdata",
         "parser": true,
         "geckodriver": false,
+        "javascript_render": false,
         "meta": "marketplace",
         "locations": [
             {
@@ -741,6 +773,7 @@
         "name": "blacktor",
         "parser": true,
         "geckodriver": false,
+        "javascript_render": false,
         "meta": null,
         "locations": [
             {
@@ -759,6 +792,7 @@
         "name": "haron",
         "parser": false,
         "geckodriver": false,
+        "javascript_render": false,
         "meta": "login page, no apparent posts",
         "locations": [
             {
@@ -780,6 +814,7 @@
         "name": "darkleakmarket",
         "parser": true,
         "geckodriver": false,
+        "javascript_render": false,
         "meta": "marketplace commonly used by affiliates - not a ransomware crew",
         "locations": [
             {
@@ -798,6 +833,7 @@
         "name": "prometheus",
         "parser": false,
         "geckodriver": true,
+        "javascript_render": false,
         "meta": null,
         "locations": [
             {
@@ -819,6 +855,7 @@
         "name": "blackmatter",
         "parser": true,
         "geckodriver": false,
+        "javascript_render": false,
         "meta": null,
         "locations": [
             {
@@ -840,6 +877,7 @@
         "name": "payloadbin",
         "parser": true,
         "geckodriver": false,
+        "javascript_render": false,
         "meta": null,
         "locations": [
             {
@@ -860,6 +898,7 @@
         "name": "groove",
         "parser": true,
         "geckodriver": false,
+        "javascript_render": false,
         "meta": null,
         "locations": [
             {
