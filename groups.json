@@ -3,13 +3,13 @@
         "name": "marketo",
         "parser": false,
         "geckodriver": false,
+        "meta": null,
         "locations": [
             {
                 "fqdn": "marketojbwagqnwx.onion",
                 "title": null,
                 "version": 2,
                 "slug": "http://marketojbwagqnwx.onion",
-                "meta": null,
                 "available": false,
                 "updated": "2021-09-08 00:01:21.604365",
                 "lastscrape": "2021-05-01 00:00:00.000000"
@@ -24,6 +24,7 @@
         "name": "synack",
         "parser": true,
         "geckodriver": false,
+        "meta": null,
         "locations": [
             {
                 "fqdn": "xqkz2rmrqkeqf6sjbrb47jfwnqxcd4o2zvaxxzrpbh2piknms37rw2ad.onion",
@@ -31,7 +32,6 @@
                 "version": 3,
                 "slug": "http://xqkz2rmrqkeqf6sjbrb47jfwnqxcd4o2zvaxxzrpbh2piknms37rw2ad.onion/",
                 "meta": "no longer in operation - rebrand",
-                "available": false,
                 "updated": "2021-09-08 00:03:21.496917",
                 "lastscrape": "2021-08-18 00:02:29.699387"
             }
@@ -44,13 +44,13 @@
         "name": "suncrypt",
         "parser": true,
         "geckodriver": false,
+        "meta": null,
         "locations": [
             {
                 "fqdn": "x2miyuiwpib2imjr5ykyjngdu7v6vprkkhjltrk4qafymtawey4qzwid.onion",
                 "title": "News",
                 "version": 3,
                 "slug": "http://x2miyuiwpib2imjr5ykyjngdu7v6vprkkhjltrk4qafymtawey4qzwid.onion/",
-                "meta": null,
                 "available": true,
                 "updated": "2021-09-10 16:23:47.319035",
                 "lastscrape": "2021-09-10 16:23:47.319025"
@@ -60,7 +60,6 @@
                 "title": null,
                 "version": 2,
                 "slug": "http://nbzzb6sa6xuura2z.onion",
-                "meta": null,
                 "available": false,
                 "updated": "2021-09-08 00:03:26.377871",
                 "lastscrape": "2021-05-01 00:00:00.000000"
@@ -75,13 +74,13 @@
         "name": "lv",
         "parser": false,
         "geckodriver": true,
+        "meta": "javascript_render",
         "locations": [
             {
                 "fqdn": "rbvuetuneohce3ouxjlbxtimyyxokb4btncxjbo44fbgxqy7tskinwad.onion",
                 "title": "LV Blog",
                 "version": 3,
                 "slug": "http://rbvuetuneohce3ouxjlbxtimyyxokb4btncxjbo44fbgxqy7tskinwad.onion/",
-                "meta": "javascript_render",
                 "available": true,
                 "updated": "2021-09-10 16:24:01.811752",
                 "lastscrape": "2021-09-10 16:24:01.811734"
@@ -91,7 +90,6 @@
                 "title": "LV Blog",
                 "version": 3,
                 "slug": "http://4qbxi3i2oqmyzxsjg4fwe4aly3xkped52gq5orp6efpkeskvchqe27id.onion/",
-                "meta": "javascript_render",
                 "available": true,
                 "updated": "2021-09-10 16:24:20.529777",
                 "lastscrape": "2021-09-10 16:24:20.529761"
@@ -106,13 +104,13 @@
         "name": "lorenz",
         "parser": true,
         "geckodriver": false,
+        "meta": null,
         "locations": [
             {
                 "fqdn": "lorenzmlwpzgxq736jzseuterytjueszsvznuibanxomlpkyxk6ksoyd.onion",
                 "title": "Lorenz",
                 "version": 3,
                 "slug": "http://lorenzmlwpzgxq736jzseuterytjueszsvznuibanxomlpkyxk6ksoyd.onion/",
-                "meta": null,
                 "available": true,
                 "updated": "2021-09-10 16:24:28.451550",
                 "lastscrape": "2021-09-10 16:24:28.451538"
@@ -127,13 +125,13 @@
         "name": "lockbit2",
         "parser": false,
         "geckodriver": true,
+        "meta": "javascript_render",
         "locations": [
             {
                 "fqdn": "lockbitapt6vx57t3eeqjofwgcglmutr3a35nygvokja5uuccip4ykyd.onion",
                 "title": "LockBit BLOG",
                 "version": 3,
                 "slug": "http://lockbitapt6vx57t3eeqjofwgcglmutr3a35nygvokja5uuccip4ykyd.onion/",
-                "meta": "javascript_render",
                 "available": true,
                 "updated": "2021-09-10 16:24:44.602727",
                 "lastscrape": "2021-09-10 16:24:44.602714"
@@ -148,13 +146,13 @@
         "name": "hive",
         "parser": false,
         "geckodriver": true,
+        "meta": "javascript_render",
         "locations": [
             {
                 "fqdn": "hiveleakdbtnp76ulyhi52eag6c6tyc3xw7ez7iqy6wc34gd2nekazyd.onion",
                 "title": "Hive",
                 "version": 3,
                 "slug": "http://hiveleakdbtnp76ulyhi52eag6c6tyc3xw7ez7iqy6wc34gd2nekazyd.onion/",
-                "meta": "javascript_render",
                 "available": true,
                 "updated": "2021-09-10 16:24:57.667703",
                 "lastscrape": "2021-09-10 16:24:57.667689"
@@ -169,13 +167,13 @@
         "name": "arvinclub",
         "parser": true,
         "geckodriver": false,
+        "meta": null,
         "locations": [
             {
                 "fqdn": "3kp6j22pz3zkv76yutctosa6djpj4yib2icvdqxucdaxxedumhqicpad.onion",
                 "title": "Arvin Club – آزادی برای اتصال",
                 "version": 3,
                 "slug": "http://3kp6j22pz3zkv76yutctosa6djpj4yib2icvdqxucdaxxedumhqicpad.onion/",
-                "meta": null,
                 "available": false,
                 "updated": "2021-09-08 00:03:55.292510",
                 "lastscrape": "2021-09-08 00:03:55.292492"
@@ -187,13 +185,13 @@
         "name": "avoslocker",
         "parser": true,
         "geckodriver": false,
+        "meta": null,
         "locations": [
             {
                 "fqdn": "avosqxh72b5ia23dl5fgwcpndkctuzqvh2iefk5imp3pi5gfhel5klad.onion",
                 "title": "AvosLocker Press Release",
                 "version": 3,
                 "slug": "http://avosqxh72b5ia23dl5fgwcpndkctuzqvh2iefk5imp3pi5gfhel5klad.onion/",
-                "meta": null,
                 "available": true,
                 "updated": "2021-09-10 16:25:17.025377",
                 "lastscrape": "2021-09-10 16:25:17.025364"
@@ -208,13 +206,13 @@
         "name": "grief",
         "parser": false,
         "geckodriver": false,
+        "meta": "has_captcha",
         "locations": [
             {
                 "fqdn": "griefcameifmv4hfr3auozmovz5yi6m3h3dwbuqw7baomfxoxz4qteid.onion",
                 "title": "Grief list",
                 "version": 3,
                 "slug": "http://griefcameifmv4hfr3auozmovz5yi6m3h3dwbuqw7baomfxoxz4qteid.onion/",
-                "meta": "has_captcha",
                 "available": true,
                 "updated": "2021-09-10 16:25:24.704812",
                 "lastscrape": "2021-09-10 16:25:24.704798"
@@ -228,13 +226,13 @@
         "name": "avaddon",
         "parser": true,
         "geckodriver": false,
+        "meta": null,
         "locations": [
             {
                 "fqdn": "avaddongun7rngel.onion",
                 "title": null,
                 "version": 2,
                 "slug": "http://avaddongun7rngel.onion",
-                "meta": null,
                 "available": false,
                 "updated": "2021-09-08 00:04:04.125800",
                 "lastscrape": "2021-05-01 00:00:00.000000"
@@ -249,13 +247,13 @@
         "name": "vicesociety",
         "parser": false,
         "geckodriver": true,
+        "meta": null,
         "locations": [
             {
                 "fqdn": "4hzyuotli6maqa4u.onion",
                 "title": null,
                 "version": 2,
                 "slug": "http://4hzyuotli6maqa4u.onion",
-                "meta": null,
                 "available": false,
                 "updated": "2021-09-08 00:04:04.126984",
                 "lastscrape": "2021-05-01 00:00:00.000000"
@@ -269,13 +267,13 @@
         "name": "xinglocker",
         "parser": true,
         "geckodriver": false,
+        "meta": "xing use a custom mountlocker exe",
         "locations": [
             {
                 "fqdn": "xingnewj6m4qytljhfwemngm7r7rogrindbq7wrfeepejgxc3bwci7qd.onion",
                 "title": "星Team News",
                 "version": 3,
                 "slug": "http://xingnewj6m4qytljhfwemngm7r7rogrindbq7wrfeepejgxc3bwci7qd.onion/",
-                "meta": "uses a custom mountlocker exe",
                 "available": true,
                 "updated": "2021-09-10 16:25:31.297294",
                 "lastscrape": "2021-09-10 16:25:31.297281"
@@ -290,13 +288,13 @@
         "name": "darkside",
         "parser": false,
         "geckodriver": false,
+        "meta": null,
         "locations": [
             {
                 "fqdn": "darksidc3iux462n6yunevoag52ntvwp6wulaz3zirkmh4cnz6hhj7id.onion",
                 "title": null,
                 "version": 3,
                 "slug": "http://darksidc3iux462n6yunevoag52ntvwp6wulaz3zirkmh4cnz6hhj7id.onion",
-                "meta": null,
                 "available": false,
                 "updated": "2021-09-08 00:04:15.574928",
                 "lastscrape": "2021-05-01 00:00:00.000000"
@@ -311,13 +309,13 @@
         "name": "ragnarlocker",
         "parser": true,
         "geckodriver": false,
+        "meta": null,
         "locations": [
             {
                 "fqdn": "rgleak7op734elep.onion",
                 "title": null,
                 "version": 2,
                 "slug": "http://rgleak7op734elep.onion",
-                "meta": null,
                 "available": false,
                 "updated": "2021-09-08 00:04:15.576142",
                 "lastscrape": "2021-05-01 00:00:00.000000"
@@ -327,7 +325,6 @@
                 "title": "Home Page of Ragnar_Locker Leaks site",
                 "version": 3,
                 "slug": "http://rgleaktxuey67yrgspmhvtnrqtgogur35lwdrup4d3igtbm3pupc4lyd.onion/",
-                "meta": null,
                 "available": true,
                 "updated": "2021-09-10 16:27:39.841354",
                 "lastscrape": "2021-09-10 16:27:39.841341"
@@ -337,7 +334,6 @@
                 "title": null,
                 "version": 2,
                 "slug": "http://p6o7m73ujalhgkiv.onion",
-                "meta": null,
                 "available": false,
                 "updated": "2021-09-08 00:04:19.843356",
                 "lastscrape": "2021-05-01 00:00:00.000000"
@@ -352,13 +348,13 @@
         "name": "clop",
         "parser": true,
         "geckodriver": false,
+        "meta": "has_captcha",
         "locations": [
             {
                 "fqdn": "ekbgzchl6x2ias37.onion",
                 "title": null,
                 "version": 2,
                 "slug": "http://ekbgzchl6x2ias37.onion",
-                "meta": null,
                 "available": false,
                 "updated": "2021-09-08 00:04:19.844737",
                 "lastscrape": "2021-05-01 00:00:00.000000"
@@ -368,7 +364,6 @@
                 "title": "Access Queue",
                 "version": 3,
                 "slug": "http://santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad.onion/",
-                "meta": "has_captcha",
                 "available": true,
                 "updated": "2021-09-10 16:27:47.685294",
                 "lastscrape": "2021-09-10 16:27:47.685283"
@@ -383,13 +378,13 @@
         "name": "netwalker",
         "parser": false,
         "geckodriver": false,
+        "meta": null,
         "locations": [
             {
                 "fqdn": "rnfdsgm6wb6j6su5txkekw4u4y47kp2eatvu7d6xhyn5cs4lt4pdrqqd.onion",
                 "title": null,
                 "version": 3,
                 "slug": "http://rnfdsgm6wb6j6su5txkekw4u4y47kp2eatvu7d6xhyn5cs4lt4pdrqqd.onion",
-                "meta": null,
                 "available": false,
                 "updated": "2021-09-08 00:04:40.746600",
                 "lastscrape": "2021-05-01 00:00:00.000000"
@@ -405,13 +400,13 @@
         "name": "doppelpaymer",
         "parser": false,
         "geckodriver": false,
+        "meta": "has_captcha",
         "locations": [
             {
                 "fqdn": "hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion",
                 "title": "Dopple leaks",
                 "version": 3,
                 "slug": "http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/",
-                "meta": "has_captcha",
                 "available": true,
                 "updated": "2021-09-10 16:28:08.691689",
                 "lastscrape": "2021-09-10 16:28:08.691673"
@@ -426,13 +421,13 @@
         "name": "revil",
         "parser": true,
         "geckodriver": false,
+        "meta": null,
         "locations": [
             {
                 "fqdn": "dnpscnbaix6nkwvystl3yxglz7nteicqrou3t75tpcc5532cztc46qyd.onion",
                 "title": "Happy Blog ",
                 "version": 3,
                 "slug": "http://dnpscnbaix6nkwvystl3yxglz7nteicqrou3t75tpcc5532cztc46qyd.onion/",
-                "meta": null,
                 "available": true,
                 "updated": "2021-09-10 16:28:15.455816",
                 "lastscrape": "2021-09-10 16:28:15.455803"
@@ -442,7 +437,6 @@
                 "title": null,
                 "version": 3,
                 "slug": "http://aplebzu47wgazapdqks6vrcv6zcnjppkbxbr6wketf56nf6aq2nmyoyd.onion/",
-                "meta": null,
                 "available": true,
                 "updated": "2021-09-10 16:28:21.243982",
                 "lastscrape": "2021-09-10 16:28:21.243966"
@@ -458,13 +452,13 @@
         "name": "everest",
         "parser": false,
         "geckodriver": false,
+        "meta": null,
         "locations": [
             {
                 "fqdn": "ransomocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexfook2j7esad.onion",
                 "title": "Everest ransom team",
                 "version": 3,
                 "slug": "http://ransomocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexfook2j7esad.onion/",
-                "meta": null,
                 "available": true,
                 "updated": "2021-09-10 16:28:28.089918",
                 "lastscrape": "2021-09-10 16:28:28.089893"
@@ -478,13 +472,13 @@
         "name": "ragnarok",
         "parser": true,
         "geckodriver": false,
+        "meta": "shut down & offering a decryptor",
         "locations": [
             {
                 "fqdn": "wobpitin77vdsdiswr43duntv6eqw4rvphedutpaxycjdie6gg3binad.onion",
                 "title": null,
                 "version": 3,
                 "slug": "http://wobpitin77vdsdiswr43duntv6eqw4rvphedutpaxycjdie6gg3binad.onion",
-                "meta": null,
                 "available": false,
                 "updated": "2021-09-08 00:06:02.821448",
                 "lastscrape": "2021-05-01 00:00:00.000000"
@@ -494,7 +488,6 @@
                 "title": "Decrypt Site",
                 "version": 3,
                 "slug": "http://sushlnty2j7qdzy64qnvyb6ajkwg7resd3p6agc2widnawodtcedgjid.onion/",
-                "meta": "shut down & offering a decryptor",
                 "available": false,
                 "updated": "2021-09-08 00:06:09.477754",
                 "lastscrape": "2021-08-27 00:03:27.017295"
@@ -510,13 +503,13 @@
         "name": "conti",
         "parser": true,
         "geckodriver": false,
+        "meta": null,
         "locations": [
             {
                 "fqdn": "continewsnv5otx5kaoje7krkto2qbu3gtqef22mnr7eaxw3y6ncz3ad.onion",
                 "title": "CONTI.News",
                 "version": 3,
                 "slug": "http://continewsnv5otx5kaoje7krkto2qbu3gtqef22mnr7eaxw3y6ncz3ad.onion/",
-                "meta": null,
                 "available": true,
                 "updated": "2021-09-10 16:28:58.411146",
                 "lastscrape": "2021-09-10 16:28:58.411133"
@@ -552,13 +545,13 @@
         "name": "nefilim",
         "parser": true,
         "geckodriver": true,
+        "meta": null,
         "locations": [
             {
                 "fqdn": "hxt254aygrsziejn.onion",
                 "title": null,
                 "version": 2,
                 "slug": "http://hxt254aygrsziejn.onion",
-                "meta": null,
                 "available": false,
                 "updated": "2021-09-08 00:06:25.221769",
                 "lastscrape": "2021-05-01 00:00:00.000000"
@@ -573,13 +566,13 @@
         "name": "maze",
         "parser": false,
         "geckodriver": false,
+        "meta": null,
         "locations": [
             {
                 "fqdn": "xfr3txoorcyy7tikjgj5dk3rvo3vsrpyaxnclyohkbfp3h277ap4tiad.onion",
                 "title": null,
                 "version": 3,
                 "slug": "http://xfr3txoorcyy7tikjgj5dk3rvo3vsrpyaxnclyohkbfp3h277ap4tiad.onion",
-                "meta": null,
                 "available": false,
                 "updated": "2021-09-08 00:06:32.504536",
                 "lastscrape": "2021-05-01 00:00:00.000000"
@@ -594,13 +587,13 @@
         "name": "mount-locker",
         "parser": true,
         "geckodriver": false,
+        "meta": null,
         "locations": [
             {
                 "fqdn": "mountnewsokhwilx.onion",
                 "title": null,
                 "version": 2,
                 "slug": "http://mountnewsokhwilx.onion",
-                "meta": null,
                 "available": false,
                 "updated": "2021-09-08 00:06:32.505748",
                 "lastscrape": "2021-05-01 00:00:00.000000"
@@ -615,13 +608,13 @@
         "name": "babuk-locker",
         "parser": true,
         "geckodriver": false,
+        "meta": null,
         "locations": [
             {
                 "fqdn": "wavbeudogz6byhnardd2lkp2jafims3j7tj6k6qnywchn2csngvtffqd.onion",
                 "title": "RAMP :)",
                 "version": 3,
                 "slug": "http://wavbeudogz6byhnardd2lkp2jafims3j7tj6k6qnywchn2csngvtffqd.onion/",
-                "meta": null,
                 "available": true,
                 "updated": "2021-09-10 16:29:16.238529",
                 "lastscrape": "2021-09-10 16:29:16.238517"
@@ -631,7 +624,6 @@
                 "title": "Babuk - Leaks site",
                 "version": 3,
                 "slug": "http://nq4zyac4ukl4tykmidbzgdlvaboqeqsemkp4t35bzvjeve6zm2lqcjid.onion/",
-                "meta": null,
                 "available": true,
                 "updated": "2021-09-10 16:29:20.947790",
                 "lastscrape": "2021-09-10 16:29:20.947777"
@@ -647,13 +639,13 @@
         "name": "ransomexx",
         "parser": true,
         "geckodriver": false,
+        "meta": null,
         "locations": [
             {
                 "fqdn": "rnsm777cdsjrsdlbs4v5qoeppu3px6sb2igmh53jzrx7ipcrbjz5b2ad.onion",
                 "title": "RANSOMEXX",
                 "version": 3,
                 "slug": "http://rnsm777cdsjrsdlbs4v5qoeppu3px6sb2igmh53jzrx7ipcrbjz5b2ad.onion/",
-                "meta": null,
                 "available": true,
                 "updated": "2021-09-10 16:29:26.748045",
                 "lastscrape": "2021-09-10 16:29:26.748032"
@@ -669,13 +661,13 @@
         "name": "cuba",
         "parser": true,
         "geckodriver": true,
+        "meta": null,
         "locations": [
             {
                 "fqdn": "cuba4mp6ximo2zlo.onion",
                 "title": null,
                 "version": 2,
                 "slug": "http://cuba4mp6ximo2zlo.onion",
-                "meta": null,
                 "available": false,
                 "updated": "2021-09-08 00:06:45.725369",
                 "lastscrape": "2021-05-01 00:00:00.000000"
@@ -690,13 +682,13 @@
         "name": "pay2key",
         "parser": true,
         "geckodriver": false,
+        "meta": null,
         "locations": [
             {
                 "fqdn": "pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion",
                 "title": "Pay2Key Leak Directory!",
                 "version": 3,
                 "slug": "http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/",
-                "meta": null,
                 "available": true,
                 "updated": "2021-09-10 16:29:31.348257",
                 "lastscrape": "2021-09-10 16:29:31.348245"
@@ -710,13 +702,13 @@
         "name": "aztroteam",
         "parser": true,
         "geckodriver": false,
+        "meta": null,
         "locations": [
             {
                 "fqdn": "anewset3pcya3xvk73hj7yunuamutxxsm5sohkdi32blhmql55tvgqad.onion",
                 "title": null,
                 "version": 3,
                 "slug": "http://anewset3pcya3xvk73hj7yunuamutxxsm5sohkdi32blhmql55tvgqad.onion",
-                "meta": null,
                 "available": false,
                 "updated": "2021-09-08 00:06:56.203474",
                 "lastscrape": "2021-05-01 00:00:00.000000"
@@ -728,13 +720,13 @@
         "name": "lockdata",
         "parser": true,
         "geckodriver": false,
+        "meta": "marketplace",
         "locations": [
             {
                 "fqdn": "wm6mbuzipviusuc42kcggzkdpbhuv45sn7olyamy6mcqqked3waslbqd.onion",
                 "title": "LockData Auction",
                 "version": 3,
                 "slug": "http://wm6mbuzipviusuc42kcggzkdpbhuv45sn7olyamy6mcqqked3waslbqd.onion/",
-                "meta": "marketplace",
                 "available": true,
                 "updated": "2021-09-10 16:29:56.831503",
                 "lastscrape": "2021-09-10 16:29:56.831491"
@@ -749,13 +741,13 @@
         "name": "blacktor",
         "parser": true,
         "geckodriver": false,
+        "meta": null,
         "locations": [
             {
                 "fqdn": "bl4cktorpms2gybrcyt52aakcxt6yn37byb65uama5cimhifcscnqkid.onion",
                 "title": "Bl@ckt0r | Bug Hunter and Data Breacher",
                 "version": 3,
                 "slug": "http://bl4cktorpms2gybrcyt52aakcxt6yn37byb65uama5cimhifcscnqkid.onion/data-breach.html",
-                "meta": "doesn't appear to be a a ransomware group",
                 "available": false,
                 "updated": "2021-09-10 00:05:40.389349",
                 "lastscrape": "2021-09-10 00:05:40.389317"
@@ -767,13 +759,13 @@
         "name": "haron",
         "parser": false,
         "geckodriver": false,
+        "meta": "login page, no apparent posts",
         "locations": [
             {
                 "fqdn": "ft4zr2jzlqoyob7yg4fcpwyt37hox3ajajqnfkdvbfrkjioyunmqnpad.onion",
                 "title": "Clients page",
                 "version": 3,
                 "slug": "http://ft4zr2jzlqoyob7yg4fcpwyt37hox3ajajqnfkdvbfrkjioyunmqnpad.onion/login.php",
-                "meta": "login page, no apparent posts",
                 "available": true,
                 "updated": "2021-09-10 16:30:09.646617",
                 "lastscrape": "2021-09-10 16:30:09.646601"
@@ -788,13 +780,13 @@
         "name": "darkleakmarket",
         "parser": true,
         "geckodriver": false,
+        "meta": "marketplace commonly used by affiliates - not a ransomware crew",
         "locations": [
             {
                 "fqdn": "54rdhzjzc4ids4u4wata4zr4ywfon5wpz2ml4q3avelgadpvmdal2vqd.onion",
                 "title": "Dark Leak Market",
                 "version": 3,
                 "slug": "http://54rdhzjzc4ids4u4wata4zr4ywfon5wpz2ml4q3avelgadpvmdal2vqd.onion/",
-                "meta": "marketplace commonly used by affiliates - not a ransomware crew",
                 "available": true,
                 "updated": "2021-09-10 16:30:16.958935",
                 "lastscrape": "2021-09-10 16:30:16.958923"
@@ -806,13 +798,13 @@
         "name": "prometheus",
         "parser": false,
         "geckodriver": true,
+        "meta": null,
         "locations": [
             {
                 "fqdn": "promethw27cbrcot.onion",
                 "title": null,
                 "version": 2,
                 "slug": "http://promethw27cbrcot.onion/blog/",
-                "meta": null,
                 "available": false,
                 "updated": "2021-09-08 00:07:17.934621",
                 "lastscrape": "2021-05-01 00:00:00.000000"
@@ -827,13 +819,13 @@
         "name": "blackmatter",
         "parser": true,
         "geckodriver": false,
+        "meta": null,
         "locations": [
             {
                 "fqdn": "blackmax7su6mbwtcyo3xwtpfxpm356jjqrs34y4crcytpw7mifuedyd.onion",
                 "title": "BlackMatter",
                 "version": 3,
                 "slug": "http://blackmax7su6mbwtcyo3xwtpfxpm356jjqrs34y4crcytpw7mifuedyd.onion/",
-                "meta": null,
                 "available": true,
                 "updated": "2021-09-10 16:30:21.994490",
                 "lastscrape": "2021-09-10 16:30:21.994477"
@@ -848,13 +840,13 @@
         "name": "payloadbin",
         "parser": true,
         "geckodriver": false,
+        "meta": null,
         "locations": [
             {
                 "fqdn": "vbmisqjshn4yblehk2vbnil53tlqklxsdaztgphcilto3vdj4geao5qd.onion",
                 "title": "Payload.bin",
                 "version": 3,
                 "slug": "http://vbmisqjshn4yblehk2vbnil53tlqklxsdaztgphcilto3vdj4geao5qd.onion/",
-                "meta": "payload.bin",
                 "available": true,
                 "updated": "2021-09-10 16:30:29.317216",
                 "lastscrape": "2021-09-10 16:30:29.317202"
@@ -868,13 +860,13 @@
         "name": "groove",
         "parser": true,
         "geckodriver": false,
+        "meta": null,
         "locations": [
             {
                 "fqdn": "ws3dh6av66sjbxxkjpw5ao3wqzmtejnkzheswm4dz5rrwvular7xvkqd.onion",
                 "title": "Утечки | Groove",
                 "version": 3,
                 "slug": "http://ws3dh6av66sjbxxkjpw5ao3wqzmtejnkzheswm4dz5rrwvular7xvkqd.onion/",
-                "meta": null,
                 "available": true,
                 "updated": "2021-09-10 16:30:35.617111",
                 "lastscrape": "2021-09-10 16:30:35.617098"

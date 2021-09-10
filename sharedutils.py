@@ -126,7 +126,6 @@ def siteschema(location):
         'title': None,
         'version': getonionversion(location)[0],
         'slug': location,
-        'meta': None,
         'available': None,
         'updated': None,
         'lastscrape': None
@@ -414,7 +413,7 @@ def countcaptchahosts():
     captcha_count = 0
     for group in groups:
         for host in group['locations']:
-            if host['meta'] == 'has_captcha':
+            if group['meta'] == 'has_captcha':
                 captcha_count += 1
     return captcha_count
 
