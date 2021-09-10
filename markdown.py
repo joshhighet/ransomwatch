@@ -162,13 +162,11 @@ def profilepage():
         f.close()
     writeline(profilepage, '# 🐦 profiles')
     writeline(profilepage, '')
-    emojis = ['🗿','🧱','🧨','💸','🧰','💎','🧲','🧬','🧭','🧮','🧰','🧸','🧻','🧽','❤️‍🔥','💈','🌀','🎟️','🎱','🎲','🐇','🦆','🦈','🦑']
+    emojis = ['🗿','🧱','🧨','💸','🧰','💎','🧲','🧬','🧭','🧮','🧰','🧸','🧻','🧽','❤️‍🔥','💈','🌀','🎟️','🎱','🎲','🐇','🦆','🦈','🦑','👹','🦁','🍟','🍺','🥁','🪂','🗑️','🔋','🔮','🛎️']
     groups = openjson('groups.json')
     for group in groups:
-        writeline(profilepage, '## ' + group['name'])
-        writeline(profilepage, '')
         emoji = emojis[random.randint(0, len(emojis)-1)]
-        writeline(profilepage, '#### ' + emoji + ' [profiles/' + group['name'] + '](profiles/' + group['name'] + '.md)')
+        writeline(profilepage, '## ' + emoji + ' ' + group['name'])
         writeline(profilepage, '')
         if group['captcha'] is True:
             writeline(profilepage, ':warning: _has a captcha_')
