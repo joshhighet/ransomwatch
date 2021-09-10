@@ -116,6 +116,7 @@ def sidebar():
     # delete contents of file
     with open(sidebar, 'w') as f:
         f.close()
+    writeline(sidebar, '- [home](README.md)')
     writeline(sidebar, '- [stats](stats.md)')
     # groups = openjson('groups.json')
     #writeline(sidebar, '- stats')

@@ -1,1 +1,2 @@
+- [home](README.md)
 - [stats](stats.md)
