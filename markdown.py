@@ -173,15 +173,6 @@ def recentposts():
         line = '| ' + date + ' | ' + '`' + post['post_title'] + '`' + ' | ' + post['group_name'] + ' |'
         writeline(recentposts, line)
 
-def main():
-    mainpage()
-    sidebar()
-    # recentposts()
-    groupreportyearly()
-    groupreportmonthly()
-    groupreportpie()
-    statspage()
-
 def profilepage():
     '''
     create a profile page in markdown containing the plotly graphs
@@ -223,4 +214,12 @@ def profilepage():
                 writeline(profilepage, '- ' + profile)
                 writeline(profilepage, '')
 
-profilepage()
+def main():
+    mainpage()
+    sidebar()
+    # recentposts()
+    groupreportyearly()
+    groupreportmonthly()
+    groupreportpie()
+    statspage()
+    profilepage()
