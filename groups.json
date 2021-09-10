@@ -81,9 +81,9 @@
         "name": "lv",
         "captcha": false,
         "parser": false,
-        "geckodriver": true,
+        "geckodriver": false,
         "javascript_render": true,
-        "meta": null,
+        "meta": "parser needs to be built",
         "locations": [
             {
                 "fqdn": "rbvuetuneohce3ouxjlbxtimyyxokb4btncxjbo44fbgxqy7tskinwad.onion",
@@ -135,7 +135,7 @@
     {
         "name": "lockbit2",
         "captcha": false,
-        "parser": false,
+        "parser": true,
         "geckodriver": true,
         "javascript_render": true,
         "meta": null,
@@ -158,8 +158,8 @@
     {
         "name": "hive",
         "captcha": false,
-        "parser": false,
-        "geckodriver": true,
+        "parser": true,
+        "geckodriver": false,
         "javascript_render": true,
         "meta": null,
         "locations": [
@@ -226,7 +226,7 @@
         "captcha": true,
         "parser": false,
         "geckodriver": false,
-        "javascript_render": false,
+        "javascript_render": true,
         "meta": null,
         "locations": [
             {
@@ -270,8 +270,8 @@
         "name": "vicesociety",
         "captcha": false,
         "parser": false,
-        "geckodriver": true,
-        "javascript_render": false,
+        "geckodriver": false,
+        "javascript_render": true,
         "meta": null,
         "locations": [
             {
@@ -490,7 +490,7 @@
     {
         "name": "everest",
         "captcha": false,
-        "parser": false,
+        "parser": true,
         "geckodriver": false,
         "javascript_render": false,
         "meta": null,
@@ -592,8 +592,8 @@
         "name": "nefilim",
         "captcha": false,
         "parser": true,
-        "geckodriver": true,
-        "javascript_render": false,
+        "geckodriver": false,
+        "javascript_render": true,
         "meta": null,
         "locations": [
             {
@@ -718,8 +718,8 @@
         "name": "cuba",
         "captcha": false,
         "parser": true,
-        "geckodriver": true,
-        "javascript_render": false,
+        "geckodriver": false,
+        "javascript_render": true,
         "meta": null,
         "locations": [
             {
@@ -828,7 +828,7 @@
         "parser": false,
         "geckodriver": false,
         "javascript_render": false,
-        "meta": "login page, no apparent posts",
+        "meta": "login page, no posts",
         "locations": [
             {
                 "fqdn": "ft4zr2jzlqoyob7yg4fcpwyt37hox3ajajqnfkdvbfrkjioyunmqnpad.onion",
@@ -869,8 +869,8 @@
         "name": "prometheus",
         "captcha": false,
         "parser": false,
-        "geckodriver": true,
-        "javascript_render": false,
+        "geckodriver": false,
+        "javascript_render": true,
         "meta": null,
         "locations": [
             {
