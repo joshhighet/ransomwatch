@@ -227,10 +227,6 @@ def profilepage():
         writeline(profilepage, '| title | available | version | last visit | fqdn')
         writeline(profilepage, '|---|---|---|---|---|')        
         for host in group['locations']:
-            print(host['title'])
-            print(str(host['version']))
-            print(host['lastscrape'])
-            print(host['fqdn'])
             # convert date to ddmmyyyy hh:mm
             date = host['lastscrape'].split(' ')[0]
             date = date.split('-')
