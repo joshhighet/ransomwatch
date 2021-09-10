@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
+import random
 from datetime import datetime as dt
 
 from sharedutils import openjson
@@ -189,15 +190,30 @@ def profilepage():
     # delete contents of file
     with open(profilepage, 'w') as f:
         f.close()
-    writeline(profilepage, '# 📚 profiles')
+    writeline(profilepage, '# 🐦 profiles')
     writeline(profilepage, '')
+    emojis = ['🗿','🧱','🧨','💸'',🧰','💎','🧲','🧬','🧭','🧮','🧰','🧸','🧻','🧽','❤️‍🔥','💈','🌀','🎟️','🎱','🎲','🐇','🦆','🦈','🦑']
     groups = openjson('groups.json')
     for group in groups:
         writeline(profilepage, '## ' + group['name'])
         writeline(profilepage, '')
-        # if group meta is not none, write it
+        emoji = emojis[random.randint(0, len(emojis)-1)]
+        writeline(profilepage, '#### ' + emoji + ' [profiles/' + group['name'] + '](profiles/' + group['name'] + '.md)')
+        writeline(profilepage, '')
+        if group['parser'] is True:
+            writeline(profilepage, '_parsing : `enabled`_')
+            writeline(profilepage, '')
+        else:
+            writeline(profilepage, '_parsing : `disabled`_')
+            writeline(profilepage, '')
         if group['meta'] is not None:
             writeline(profilepage, '_notes: `' + group['meta'] + '`_')
+            writeline(profilepage, '')
+        if group['javascript_render'] is True:
+            writeline(profilepage, '> fetching this site requires a headless browser for javascript processing')
+            writeline(profilepage, '')
+        if group['geckodriver'] is True:
+            writeline(profilepage, '> fetching this site uses geckodriver/selenium')
             writeline(profilepage, '')
         if group['profile'] is not None:
             for profile in group['profile']:
