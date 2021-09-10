@@ -1,18 +1,18 @@
 ## 📰 summary - september 10th, 2021
 
-currently tracking `39` groups across `47` various relays and mirrors - _`29` of which are online, with `2` appearing inaccessible_
+currently tracking `39` groups across `47` various relays and mirrors - _`28` of which are online, with `2` appearing inaccessible_
 
 there are currently `30` active parsers, `2` of which leverage [mozilla/geckodriver](https://github.com/mozilla/geckodriver) - _`3` groups have introduced captchas this year_
 
-⏲ there have been `869` posts within the `last 24 hours`
+⏲ there have been `871` posts within the `last 24 hours`
 
-🦈 there have been `873` posts within the `month of october`
+🦈 there have been `875` posts within the `month of october`
 
-🪐 there have been `891` posts within the `last 90 days`
+🪐 there have been `893` posts within the `last 90 days`
 
-🏚 there have been `925` posts within the `year of 2021`
+🏚 there have been `927` posts within the `year of 2021`
 
-🦕 there have been `959` posts `since the beginning of time`
+🦕 there have been `961` posts `since the beginning of time`
 
 > _the `11` sites using v2 onion services are no longer indexed - [support.torproject.org](https://support.torproject.org/onionservices/v2-deprecation/)_
 
@@ -55,7 +55,7 @@ there are currently `30` active parsers, `2` of which leverage [mozilla/geckodri
 | mount-locker |  | ⬇️ 🔴 | 2021-05-01 | mountnewsokhwilx.onion |
 | babuk-locker | RAMP :) | ⬆️ 🟢 |  | wavbeudogz6byhnardd2lkp2jafims3j7tj6k6qnywchn2csngvtffqd.onion |
 | babuk-locker | Babuk - Leaks site | ⬆️ 🟢 |  | nq4zyac4ukl4tykmidbzgdlvaboqeqsemkp4t35bzvjeve6zm2lqcjid.onion |
-| ransomexx | RANSOMEXX | ⬆️ 🟢 |  | rnsm777cdsjrsdlbs4v5qoeppu3px6sb2igmh53jzrx7ipcrbjz5b2ad.onion |
+| ransomexx | RANSOMEXX | ⬇️ 🔴 | 2021-09-10 | rnsm777cdsjrsdlbs4v5qoeppu3px6sb2igmh53jzrx7ipcrbjz5b2ad.onion |
 | cuba |  | ⬇️ 🔴 | 2021-05-01 | cuba4mp6ximo2zlo.onion |
 | pay2key | Pay2Key Leak Directo | ⬆️ 🟢 |  | pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion |
 | aztroteam |  | ⬇️ 🔴 | 2021-05-01 | anewset3pcya3xvk73hj7yunuamutxxsm5sohkdi32blhmql55tvgqad.onion |
