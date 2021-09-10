@@ -244,7 +244,6 @@ def profilepage():
             else:
                 line = '| none | ' + str(host['available']) +  ' | ' + str(host['version']) + ' | ' + time + ' ' + date + ' | `' + host['fqdn'] + '` |'
                 writeline(profilepage, line)
-
         writeline(profilepage, '')
         writeline(profilepage, '| post | date |')
         writeline(profilepage, '|---|---|')
