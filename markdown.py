@@ -267,5 +267,4 @@ def main():
     groupreportpie()
     statspage()
     profilehome()
-
-profilepage()
+    profilepage()
