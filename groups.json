@@ -524,13 +524,13 @@
         "name": "pysa",
         "parser": true,
         "geckodriver": false,
+        "meta": null,
         "locations": [
             {
                 "fqdn": "pysa2bitc5ldeyfak4seeruqymqs4sj5wt5qkcq7aoyg4h2acqieywad.onion",
                 "title": "Pysa's Partners",
                 "version": 3,
                 "slug": "http://pysa2bitc5ldeyfak4seeruqymqs4sj5wt5qkcq7aoyg4h2acqieywad.onion/partners.html",
-                "meta": null,
                 "available": true,
                 "updated": "2021-09-10 16:29:03.565131",
                 "lastscrape": "2021-09-10 16:29:03.565119"
