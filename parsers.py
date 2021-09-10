@@ -224,7 +224,7 @@ def revil():
 def ragnarok():
     stdlog('parser: ' + 'ragnarok')
     parser = '''
-    grep '<h2 class="title">' -A2 source/ragnarok-*.html --no-filename | grep -wv 'h2 class\|href' | sed '/^--/d' | sed 's/^ *//g'
+    grep 'var post_links =' source/ragnarok-* | cut -d '=' -f 2 | sed 's/^ *//g' | sed -e 's/.$//' -e 's/.$//'  -e 's/.$//' |  jq -r '.[].title'
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
@@ -367,7 +367,7 @@ def darkleakmarket():
 def blackmatter():
     stdlog('parser: ' + 'blackmatter')
     parser = '''
-    grep '<h4>' source/blackmatter-* --no-filename |  sed 's/^ *//g' | cut -d '>' -f2 | cut -d '<' -f1
+    grep '<h4 class="post-announce-name" title="' source/blackmatter-*.html | cut -d '"' -f4 | sort -u
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
