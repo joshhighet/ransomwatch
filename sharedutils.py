@@ -396,17 +396,6 @@ def postslast24h():
             post_count += 1
     return post_count
 
-def offlinegroups24h():
-    '''returns the number of groups that have been offline for the last 24 hours'''
-    groups = openjson('groups.json')
-    offline_groups = []
-    for group in groups:
-        for host in group['locations']:
-            if host['available'] is False:
-                if datetime.now() - datetime.strptime(host['lastscrape'], '%Y-%m-%d %H:%M:%S.%f') > timedelta(hours=24):
-                    offline_groups.append(group['name'])
-    return offline_groups
-
 def countcaptchahosts():
     '''returns a count on the number of groups that have captchas'''
     groups = openjson('groups.json')

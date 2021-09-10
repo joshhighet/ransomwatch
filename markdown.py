@@ -16,7 +16,6 @@ from sharedutils import postssince
 from sharedutils import poststhisyear
 from sharedutils import postslast24h
 from sharedutils import currentmonthstr
-from sharedutils import offlinegroups24h
 from sharedutils import countcaptchahosts
 from sharedutils import groupreportyearly
 from sharedutils import groupreportmonthly
@@ -38,7 +37,7 @@ def writeline(file, line):
 
 def groupreport():
     '''
-    create a figure on the number of posts by respective group
+    create a list with number of posts per unique group
     '''
     posts = openjson('posts.json')
     # count the number of posts by group_name within posts.json
@@ -57,13 +56,9 @@ def mainpage():
     main markdown report generator - used with github pages
     '''
     uptime_sheet = 'docs/README.md'
-    # delete contents of file
     with open(uptime_sheet, 'w') as f:
         f.close()
     groups = openjson('groups.json')
-    # start markdown formatting
-    # writeline(uptime_sheet, '# [ransomwatch](https://github.com/thetanz/ransomwatch)')
-    # writeline(uptime_sheet, '')
     writeline(uptime_sheet, '## 📰 summary - ' + friendly_tz)
     writeline(uptime_sheet, '')
     writeline(uptime_sheet, 'currently tracking `' + str(groupcount()) + '` groups across `' + str(hostcount()) + '` various relays and mirrors - ' + '_`' + str(onlinecount()) + '` of which are online, with `' + str(geckocount()) + '` appearing inaccessible_')
@@ -80,12 +75,6 @@ def mainpage():
     writeline(uptime_sheet, '')
     writeline(uptime_sheet, '🦕 there have been `' + str(postcount()) + '` posts `since the beginning of time`')
     writeline(uptime_sheet, '')
-    #offlinepast24h = offlinegroups24h()
-    #writeline(uptime_sheet, '`' + str(len(offlinepast24h)) + '` locations have gone offline within the past 24 hours')
-    #writeline(uptime_sheet, '')
-    #for offlinehost in offlinepast24h:
-    #    writeline(uptime_sheet, '- ' + offlinehost)
-    #writeline(uptime_sheet, '')
     writeline(uptime_sheet, '> _the `' + str(version2count()) + '` sites using v2 onion services are no longer indexed - [support.torproject.org](https://support.torproject.org/onionservices/v2-deprecation/)_')
     writeline(uptime_sheet, '')
     writeline(uptime_sheet, '# 📚 index')
@@ -118,20 +107,10 @@ def sidebar():
     with open(sidebar, 'w') as f:
         f.close()
     writeline(sidebar, '- [home](README.md)')
+    writeline(sidebar, '- [recent](recentposts.md)')
     writeline(sidebar, '- [stats](stats.md)')
     writeline(sidebar, '- [profiles](profiles.md)')
-    #writeline(sidebar, '    - [stats](stats.md)')
-    #writeline(sidebar, '    - [recent](recentposts.md)')
-    # writeline(sidebar, '- groups')
-    # '''create a de-duplicated list of groups'''
-    # group_list = []
-    # groups = openjson('groups.json')
-    # for group in groups:
-    #     if group['name'] not in group_list:
-    #         group_list.append(group['name'])
-    # for uniqgroup in group_list:
-    #     line = '    - ' + '[' + uniqgroup + '](' + uniqgroup + '.md)'
-    #     writeline(sidebar, line)
+    groups = openjson('groups.json')
 
 def statspage():
     '''
@@ -173,9 +152,9 @@ def recentposts():
         line = '| ' + date + ' | ' + '`' + post['post_title'] + '`' + ' | ' + post['group_name'] + ' |'
         writeline(recentposts, line)
 
-def profilehome():
+def profilepage():
     '''
-    create a profile page in markdown containing the plotly graphs
+    create a profile page for each group in their unique markdown files within docs/profiles
     '''
     profilepage = 'docs/profiles.md'
     # delete contents of file
@@ -183,7 +162,7 @@ def profilehome():
         f.close()
     writeline(profilepage, '# 🐦 profiles')
     writeline(profilepage, '')
-    emojis = ['🗿','🧱','🧨','💸'',🧰','💎','🧲','🧬','🧭','🧮','🧰','🧸','🧻','🧽','❤️‍🔥','💈','🌀','🎟️','🎱','🎲','🐇','🦆','🦈','🦑']
+    emojis = ['🗿','🧱','🧨','💸','🧰','💎','🧲','🧬','🧭','🧮','🧰','🧸','🧻','🧽','❤️‍🔥','💈','🌀','🎟️','🎱','🎲','🐇','🦆','🦈','🦑']
     groups = openjson('groups.json')
     for group in groups:
         writeline(profilepage, '## ' + group['name'])
@@ -213,17 +192,6 @@ def profilehome():
             for profile in group['profile']:
                 writeline(profilepage, '- ' + profile)
                 writeline(profilepage, '')
-
-def profilepage():
-    '''
-    create a profile page for each group in their unique markdown files within docs/profiles
-    '''
-    groups = openjson('groups.json')
-    for group in groups:
-        profilepage = 'docs/profiles/' + group['name'] + '.md'
-        # delete contents of file
-        with open(profilepage, 'w') as f:
-            f.close()
         writeline(profilepage, '| title | available | version | last visit | fqdn')
         writeline(profilepage, '|---|---|---|---|---|')        
         for host in group['locations']:
@@ -256,10 +224,9 @@ def profilepage():
 def main():
     mainpage()
     sidebar()
-    # recentposts()
+    recentposts()
     groupreportyearly()
     groupreportmonthly()
     groupreportpie()
     statspage()
-    profilehome()
     profilepage()
