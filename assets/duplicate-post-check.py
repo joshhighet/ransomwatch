@@ -19,6 +19,13 @@ titles = []
 for post in posts:
     titles.append(post['post_title'])
 
+# show all titles with a length of 20
+for title in titles:
+    if len(title) == 20:
+        print(title)
+
+exit()
+
 '''
 show any exact duplicates
 duplicates may not mean parsing issues
