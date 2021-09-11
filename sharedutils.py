@@ -336,13 +336,13 @@ def hostcount():
             host_count += 1
     return host_count
 
-def geckocount():
+def headlesscount():
     groups = openjson('groups.json')
-    gecko_count = 1
+    js_count = 0
     for group in groups:
-        if group['geckodriver'] is True:
-            gecko_count += 1
-    return gecko_count
+        if group['javascript_render'] is True:
+            js_count += 1
+    return js_count
 
 def onlinecount():
     groups = openjson('groups.json')

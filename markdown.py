@@ -8,7 +8,7 @@ from sharedutils import postcount
 from sharedutils import groupcount
 from sharedutils import parsercount
 from sharedutils import hostcount
-from sharedutils import geckocount
+from sharedutils import headlesscount
 from sharedutils import onlinecount
 from sharedutils import version2count
 from sharedutils import mounthlypostcount
@@ -62,9 +62,9 @@ def mainpage():
     groups = openjson('groups.json')
     writeline(uptime_sheet, '## 📰 summary - ' + friendly_tz)
     writeline(uptime_sheet, '')
-    writeline(uptime_sheet, 'currently tracking `' + str(groupcount()) + '` groups across `' + str(hostcount()) + '` various relays and mirrors - ' + '_`' + str(onlinecount()) + '` of which are online, with `' + str(geckocount()) + '` appearing inaccessible_')
+    writeline(uptime_sheet, 'currently tracking `' + str(groupcount()) + '` groups across `' + str(hostcount()) + '` various relays and mirrors - ' + '_`' + str(onlinecount()) + '` of which are online_')
     writeline(uptime_sheet, '')
-    writeline(uptime_sheet, 'there are currently `' + str(parsercount()) + '` active parsers, `' + str(geckocount()) + '` of which leverage [mozilla/geckodriver](https://github.com/mozilla/geckodriver) - _`' + str(countcaptchahosts()) + '` groups have introduced captchas this year_')
+    writeline(uptime_sheet, 'there are currently `' + str(parsercount()) + '` active parsers, `' + str(headlesscount()) + '` of which requiring headless browsers - _`' + str(countcaptchahosts()) + '` groups have introduced captchas this year_')
     writeline(uptime_sheet, '')
     writeline(uptime_sheet, '⏲ there have been `' + str(postslast24h()) + '` posts within the `last 24 hours`')
     writeline(uptime_sheet, '')
@@ -127,7 +127,7 @@ def statspage():
     writeline(statspage, '')
     writeline(statspage, '![](uptime.png)')
     writeline(statspage, '')
-    writeline(statspage, ':warning: _data capturing commenced in september 2021 - historic posts may not have accuratley accompanying timestamps before this period_')
+    writeline(statspage, ':warning: _data capturing commenced in october 2021 - historic posts may not have accuratley accompanying timestamps before this period_')
     writeline(statspage, '')
     writeline(statspage, '![](postsbymonth.png)')
     writeline(statspage, '')
