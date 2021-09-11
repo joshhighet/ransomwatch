@@ -1,14 +1,14 @@
-## 📰 summary - september 10th, 2021
+## 📰 summary - september 11th, 2021
 
 currently tracking `39` groups across `47` various relays and mirrors - _`29` of which are online, with `2` appearing inaccessible_
 
 there are currently `30` active parsers, `2` of which leverage [mozilla/geckodriver](https://github.com/mozilla/geckodriver) - _`3` groups have introduced captchas this year_
 
-⏲ there have been `871` posts within the `last 24 hours`
+⏲ there have been `115` posts within the `last 24 hours`
 
 🦈 there have been `875` posts within the `month of october`
 
-🪐 there have been `893` posts within the `last 90 days`
+🪐 there have been `891` posts within the `last 90 days`
 
 🏚 there have been `927` posts within the `year of 2021`
 
@@ -60,7 +60,7 @@ there are currently `30` active parsers, `2` of which leverage [mozilla/geckodri
 | pay2key | Pay2Key Leak Directo | ⬆️ 🟢 |  | pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion |
 | aztroteam |  | ⬇️ 🔴 | 2021-05-01 | anewset3pcya3xvk73hj7yunuamutxxsm5sohkdi32blhmql55tvgqad.onion |
 | lockdata | LockData Auction | ⬆️ 🟢 |  | wm6mbuzipviusuc42kcggzkdpbhuv45sn7olyamy6mcqqked3waslbqd.onion |
-| blacktor | Bl@ckt0r - Bug Hunte | ⬆️ 🟢 |  | bl4cktorpms2gybrcyt52aakcxt6yn37byb65uama5cimhifcscnqkid.onion |
+| blacktor | 403 Forbidden | ⬆️ 🟢 |  | bl4cktorpms2gybrcyt52aakcxt6yn37byb65uama5cimhifcscnqkid.onion |
 | haron | Clients page | ⬆️ 🟢 |  | ft4zr2jzlqoyob7yg4fcpwyt37hox3ajajqnfkdvbfrkjioyunmqnpad.onion |
 | darkleakmarket | Dark Leak Market | ⬆️ 🟢 |  | 54rdhzjzc4ids4u4wata4zr4ywfon5wpz2ml4q3avelgadpvmdal2vqd.onion |
 | prometheus |  | ⬇️ 🔴 | 2021-05-01 | promethw27cbrcot.onion |
