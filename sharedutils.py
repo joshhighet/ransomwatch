@@ -3,6 +3,7 @@
 '''
 collection of shared modules used throughout ransomwatch
 '''
+import os
 import sys
 import json
 import socket
@@ -72,6 +73,24 @@ oproxies = {
     'http':  'socks5h://' + str(sockshost) + ':' + str(socksport),
     'https': 'socks5h://' + str(sockshost) + ':' + str(socksport)
 }
+
+def checkgeckodriver():
+    '''
+    check if geckodriver is in the system $PATH
+    '''
+    stdlog('sharedutils: ' + 'checking if geckodriver is in $PATH')
+    cmd = 'geckodriver --version'
+    try:
+        output = runshellcmd(cmd)
+        if 'geckodriver' in output[0]:
+            stdlog('sharedutils: ' + 'geckodriver is in $PATH')
+            return True
+        else:
+            errlog('sharedutils: ' + 'geckodriver is not in $PATH')
+            return False
+    except subprocess.CalledProcessError as cpe:
+        errlog('sharedutils: ' + 'geckodriver check failed - ' + str(cpe))
+        return False
 
 def randomagent():
     '''
