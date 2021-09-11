@@ -2,12 +2,13 @@ name: ransomwatch
 
 on:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '0 * * * *'
   workflow_dispatch:
 
 jobs:
   torsocks-job:
     runs-on: ubuntu-latest
+    timeout-minutes: 15
     services:
       torproxy:
         image: ghcr.io/thetanz/gotham/torproxy:latest
