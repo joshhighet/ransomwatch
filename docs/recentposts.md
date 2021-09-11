@@ -2,6 +2,7 @@
 
 | date | title | group |
 |---|---|---|
+| 2021-09-11 | `ohiograting.com` | revil |
 | 2021-09-11 | `ASSU 2000` | conti |
 | 2021-09-10 | `novohamburgo.rs... ` | lockbit2 |
 | 2021-09-10 | `erg.eu ` | lockbit2 |
@@ -31,4 +32,3 @@
 | 2021-09-10 | `mtgsrl.com ` | lockbit2 |
 | 2021-09-10 | `yazaki-group.co... ` | lockbit2 |
 | 2021-09-10 | `hitechpiping.ca ` | lockbit2 |
-| 2021-09-10 | `verisilicon.com ` | lockbit2 |
