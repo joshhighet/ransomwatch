@@ -14,7 +14,7 @@ _parsing : `disabled`_
 
 | post | date |
 |---|---|
-## 🦑 synack
+## 🧰 synack
 
 _parsing : `enabled`_
 
@@ -26,7 +26,7 @@ _parsing : `enabled`_
 
 | post | date |
 |---|---|
-## 🧨 suncrypt
+## 🧽 suncrypt
 
 _parsing : `enabled`_
 
@@ -36,7 +36,7 @@ _parsing : `enabled`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| News | True | 3 | 12:06 11/09/2021 | `x2miyuiwpib2imjr5ykyjngdu7v6vprkkhjltrk4qafymtawey4qzwid.onion` |
+| News | True | 3 | 13:08 11/09/2021 | `x2miyuiwpib2imjr5ykyjngdu7v6vprkkhjltrk4qafymtawey4qzwid.onion` |
 | none | False | 2 | 00:00 01/05/2021 | `nbzzb6sa6xuura2z.onion` |
 
 | post | date |
@@ -51,7 +51,7 @@ _parsing : `enabled`_
 | `Grushwitz` | 09/09/2021 |
 | `Glen Dimplex Home Appliances` | 09/09/2021 |
 | `Tri-signal Intergration` | 09/09/2021 |
-## ❤️‍🔥 lv
+## 🧰 lv
 
 _parsing : `disabled`_
 
@@ -70,7 +70,7 @@ _parsing : `disabled`_
 
 | post | date |
 |---|---|
-## 🦁 lorenz
+## 🗑️ lorenz
 
 _parsing : `enabled`_
 
@@ -100,7 +100,7 @@ _parsing : `enabled`_
 | `Windemuller` | 12/01/2020 |
 | `Multifeeder` | 10/01/2021 |
 | `Commport Communications` | 20/12/2020 |
-## 🐇 lockbit2
+## 🧭 lockbit2
 
 _parsing : `enabled`_
 
@@ -218,7 +218,7 @@ _parsing : `enabled`_
 | `hbfinanse.pl ` | 10/09/2021 |
 | `erg.eu ` | 10/09/2021 |
 | `novohamburgo.rs... ` | 10/09/2021 |
-## 🦁 hive
+## 🔮 hive
 
 _parsing : `enabled`_
 
@@ -234,7 +234,7 @@ _parsing : `enabled`_
 
 | post | date |
 |---|---|
-## 🍺 arvinclub
+## 🎲 arvinclub
 
 _parsing : `enabled`_
 
@@ -255,7 +255,7 @@ _parsing : `enabled`_
 | `CardPayPortal` | 09/09/2021 |
 | `USA 280M` | 09/09/2021 |
 | `Compilation of Many Breaches (COMB)` | 10/09/2021 |
-## 💈 avoslocker
+## 🥁 avoslocker
 
 _parsing : `enabled`_
 
@@ -284,7 +284,7 @@ _parsing : `enabled`_
 | `Heller Injury Lawyers` | 13/06/2021 |
 | `Arabian Cargo Group` | 13/06/2021 |
 | `AvosLocker is officially online!` | 01/01/2021 |
-## 🦆 grief
+## 🧰 grief
 
 :warning: _has a captcha_
 
@@ -300,7 +300,7 @@ _parsing : `disabled`_
 
 | post | date |
 |---|---|
-## 🦈 avaddon
+## 🛎️ avaddon
 
 _parsing : `enabled`_
 
@@ -456,7 +456,7 @@ _parsing : `enabled`_
 | `Golden Aluminum` | 09/09/2021 |
 | `Sky Leasing, LLC` | 09/09/2021 |
 | `EFCO forms` | 09/09/2021 |
-## 🧰 vicesociety
+## 🧭 vicesociety
 
 _parsing : `disabled`_
 
@@ -470,7 +470,7 @@ _parsing : `disabled`_
 
 | post | date |
 |---|---|
-## 🦁 xinglocker
+## 🍺 xinglocker
 
 _parsing : `enabled`_
 
@@ -505,7 +505,7 @@ _parsing : `enabled`_
 | `Bridgelux, Inc. ` | 06/05/2021 |
 | `Pezzuto Group` | 29/04/2021 |
 | `NAVNIT GROUP` | 29/04/2021 |
-## 🛎️ darkside
+## 🧭 darkside
 
 _parsing : `disabled`_
 
@@ -519,7 +519,7 @@ _parsing : `disabled`_
 
 | post | date |
 |---|---|
-## 🎟️ ragnarlocker
+## 🧨 ragnarlocker
 
 _parsing : `enabled`_
 
@@ -575,7 +575,7 @@ _parsing : `enabled`_
 | `Leakage from company Catania, Mahon & Rider, PLLC` | 11/06/2020 |
 | `Brunner Announce – Hello World !` | 11/06/2020 |
 | `Who is the real Bad Guys here? Or what recovery experts prefer to keep silent.` | 09/09/2021 |
-## 🪂 clop
+## 🧮 clop
 
 :warning: _has a captcha_
 
@@ -776,7 +776,7 @@ _parsing : `enabled`_
 | `BOMBARDIER.COM FILES  PART1+2 PUBLISHED` | 09/09/2021 |
 | `MARNELLCOMPANIES.COM` | 10/09/2021 |
 | `FOODLAND.COM FILES  ` | 10/09/2021 |
-## 🎱 netwalker
+## 🧬 netwalker
 
 _parsing : `disabled`_
 
@@ -792,7 +792,7 @@ _parsing : `disabled`_
 
 | post | date |
 |---|---|
-## 🧬 doppelpaymer
+## 🧮 doppelpaymer
 
 :warning: _has a captcha_
 
@@ -810,7 +810,7 @@ _parsing : `disabled`_
 
 | post | date |
 |---|---|
-## 🦑 revil
+## 💈 revil
 
 _parsing : `enabled`_
 
@@ -848,7 +848,7 @@ _parsing : `enabled`_
 | `Allen, Dyer, Doppelt, &amp; Gilchrist, P.A.` | 09/09/2021 |
 | `Apex America` | 09/09/2021 |
 | `ohiograting.com` | 11/09/2021 |
-## 🧰 everest
+## 🧻 everest
 
 _parsing : `enabled`_
 
@@ -870,7 +870,7 @@ _parsing : `enabled`_
 | `XEFI / Part 2` | 09/09/2021 |
 | `Cabinet Remy Le Bonnois` | 09/09/2021 |
 | `GROUPE CONFIANCE IMMOBILIER` | 09/09/2021 |
-## 💸 ragnarok
+## 🍺 ragnarok
 
 _parsing : `enabled`_
 
@@ -890,7 +890,7 @@ _parsing : `enabled`_
 | post | date |
 |---|---|
 | `Decrypt` | 09/09/2021 |
-## 🗿 conti
+## 🧻 conti
 
 _parsing : `enabled`_
 
@@ -923,7 +923,7 @@ _parsing : `enabled`_
 | `Frank G. Love Envelopes, Inc.` | 09/09/2021 |
 | `Grupo Herdez, S.A.B. de C.V. Holding Companies` | 09/09/2021 |
 | `ASSU 2000` | 11/09/2021 |
-## 🐇 pysa
+## 🦈 pysa
 
 _parsing : `enabled`_
 
@@ -1149,7 +1149,7 @@ _parsing : `enabled`_
 | `Liberty Linehaul` | 09/09/2021 |
 | `Sacschool` | 09/09/2021 |
 | `Drug Alcohol Testing` | 10/09/2021 |
-## 🥁 nefilim
+## 🪂 nefilim
 
 _parsing : `enabled`_
 
@@ -1175,7 +1175,7 @@ _parsing : `enabled`_
 | `Elliott Group / Cascade Engineering / Unitex Textile Rental Services. Teaser.` | 09/09/2021 |
 | `Grimmway Farms. Part 1.` | 09/09/2021 |
 | `Atlanta Allergy &#038; Asthma. Part 1.` | 09/09/2021 |
-## 💎 maze
+## 🧱 maze
 
 _parsing : `disabled`_
 
@@ -1189,7 +1189,7 @@ _parsing : `disabled`_
 
 | post | date |
 |---|---|
-## 🧱 mount-locker
+## 🧽 mount-locker
 
 _parsing : `enabled`_
 
@@ -1203,7 +1203,7 @@ _parsing : `enabled`_
 
 | post | date |
 |---|---|
-## 🧰 babuk-locker
+## 🌀 babuk-locker
 
 _parsing : `enabled`_
 
@@ -1220,7 +1220,7 @@ _parsing : `enabled`_
 
 | post | date |
 |---|---|
-## 🧨 ransomexx
+## 🛎️ ransomexx
 
 _parsing : `enabled`_
 
@@ -1256,7 +1256,7 @@ _parsing : `enabled`_
 | `Indura SA` | 09/09/2021 |
 | `Vistra` | 09/09/2021 |
 | `Ultrapar Participações S.A.` | 09/09/2021 |
-## 🎟️ cuba
+## 💸 cuba
 
 _parsing : `enabled`_
 
@@ -1278,7 +1278,7 @@ _parsing : `enabled`_
 | `Datamatics is a technology company that builds intelligent solutions enabling data-driven ` | 09/09/2021 |
 | `First Coast Logistics Services, Inc. was founded in 1999. The Company's line of business i` | 09/09/2021 |
 | `The Squamish Nation is comprised of descendants of the Coast Salish Aboriginal peoples who` | 09/09/2021 |
-## 🧸 pay2key
+## 🎱 pay2key
 
 _parsing : `enabled`_
 
@@ -1296,7 +1296,7 @@ _parsing : `enabled`_
 | `InfiApps - Joyvoo` | 09/09/2021 |
 | `INTER - InterElectric` | 09/09/2021 |
 | `MT-LAW [Markman&Tomashin Law Firm]` | 09/09/2021 |
-## 🎲 aztroteam
+## 🧸 aztroteam
 
 _parsing : `enabled`_
 
@@ -1306,7 +1306,7 @@ _parsing : `enabled`_
 
 | post | date |
 |---|---|
-## 🛎️ lockdata
+## 🦈 lockdata
 
 _parsing : `enabled`_
 
@@ -1327,7 +1327,7 @@ _parsing : `enabled`_
 | `[CZ]  GORDIC spol. s r.o.` | 09/09/2021 |
 | `[Saudi Arabia] Al Wefag Trading & Manufacturing` | 09/09/2021 |
 | `[USA] OrthoCare, 700 Lake Ave, Ste 6, Manchester, New Hampshire, 03103` | 09/09/2021 |
-## 💎 blacktor
+## 🎱 blacktor
 
 _parsing : `enabled`_
 
@@ -1338,7 +1338,7 @@ _parsing : `enabled`_
 | post | date |
 |---|---|
 | `2020/04` | 09/09/2021 |
-## 🧸 haron
+## 🎟️ haron
 
 _parsing : `disabled`_
 
@@ -1354,7 +1354,7 @@ _parsing : `disabled`_
 
 | post | date |
 |---|---|
-## ❤️‍🔥 darkleakmarket
+## 🪂 darkleakmarket
 
 _parsing : `enabled`_
 
@@ -1392,7 +1392,7 @@ _parsing : `enabled`_
 | `IDFC Bank Confidential Data Leak` | 09/09/2021 |
 | `Solar Winds Data Leak` | 09/09/2021 |
 | `American Bank Systems INC Data Leak` | 09/09/2021 |
-## 🍺 prometheus
+## 🌀 prometheus
 
 _parsing : `disabled`_
 
@@ -1408,7 +1408,7 @@ _parsing : `disabled`_
 
 | post | date |
 |---|---|
-## 🔋 blackmatter
+## 🔮 blackmatter
 
 _parsing : `enabled`_
 
@@ -1433,7 +1433,7 @@ _parsing : `enabled`_
 | `hhcp.com` | 09/09/2021 |
 | `` | 09/09/2021 |
 | `River City Construction` | 11/09/2021 |
-## 🎲 payloadbin
+## 🎟️ payloadbin
 
 _parsing : `enabled`_
 
@@ -1464,7 +1464,7 @@ _parsing : `enabled`_
 | `neuro-logica.com` | 09/09/2021 |
 | `Capstoneins.com` | 09/09/2021 |
 | `Reconservices.com` | 09/09/2021 |
-## 🧬 groove
+## 🗑️ groove
 
 _parsing : `enabled`_
 
