@@ -23,6 +23,7 @@ from sharedutils import socksfetcher
 from sharedutils import getsitetitle
 from sharedutils import getonionversion
 from sharedutils import composecarditem
+from sharedutils import checkgeckodriver
 from sharedutils import sockshost, socksport
 from sharedutils import stdlog, dbglog, errlog, honk
 from markdown import main as markdown
@@ -57,6 +58,12 @@ args = parser.parse_args()
 
 if args.mode == ('add' or 'append') and (args.name is None or args.location is None):
     parser.error("operation requires --name and --location")
+
+if args.mode == 'scrape':
+    # ensure geckodriver is installed
+    if checkgeckodriver() is False:
+        honk('ransomwatch: ' + 'geckodriver not found in $PATH and required for scraping')
+    
 
 if args.location:
     siteinfo = getonionversion(args.location)

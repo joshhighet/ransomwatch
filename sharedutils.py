@@ -3,6 +3,7 @@
 '''
 collection of shared modules used throughout ransomwatch
 '''
+import os
 import sys
 import json
 import socket
@@ -72,6 +73,24 @@ oproxies = {
     'http':  'socks5h://' + str(sockshost) + ':' + str(socksport),
     'https': 'socks5h://' + str(sockshost) + ':' + str(socksport)
 }
+
+def checkgeckodriver():
+    '''
+    check if geckodriver is in the system $PATH
+    '''
+    stdlog('sharedutils: ' + 'checking if geckodriver is in $PATH')
+    cmd = 'geckodriver --version'
+    try:
+        output = runshellcmd(cmd)
+        if 'geckodriver' in output[0]:
+            stdlog('sharedutils: ' + 'geckodriver is in $PATH')
+            return True
+        else:
+            errlog('sharedutils: ' + 'geckodriver is not in $PATH')
+            return False
+    except subprocess.CalledProcessError as cpe:
+        errlog('sharedutils: ' + 'geckodriver check failed - ' + str(cpe))
+        return False
 
 def randomagent():
     '''
@@ -163,8 +182,8 @@ def getsitetitle(html) -> str:
         stdlog('sharedutils: ' + 'could not fetch site title from source - ' + str(html))
         return None
     # limit title text to 20 chars
-    if len(titletext) > 20:
-        titletext = titletext[:20]
+    if len(titletext) > 50:
+        titletext = titletext[:50]
     return titletext
 
 def hasprotocol(slug):
@@ -317,13 +336,13 @@ def hostcount():
             host_count += 1
     return host_count
 
-def geckocount():
+def headlesscount():
     groups = openjson('groups.json')
-    gecko_count = 1
+    js_count = 0
     for group in groups:
-        if group['geckodriver'] is True:
-            gecko_count += 1
-    return gecko_count
+        if group['javascript_render'] is True:
+            js_count += 1
+    return js_count
 
 def onlinecount():
     groups = openjson('groups.json')

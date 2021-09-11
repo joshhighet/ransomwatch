@@ -8,7 +8,7 @@ from sharedutils import postcount
 from sharedutils import groupcount
 from sharedutils import parsercount
 from sharedutils import hostcount
-from sharedutils import geckocount
+from sharedutils import headlesscount
 from sharedutils import onlinecount
 from sharedutils import version2count
 from sharedutils import mounthlypostcount
@@ -62,9 +62,9 @@ def mainpage():
     groups = openjson('groups.json')
     writeline(uptime_sheet, '## 📰 summary - ' + friendly_tz)
     writeline(uptime_sheet, '')
-    writeline(uptime_sheet, 'currently tracking `' + str(groupcount()) + '` groups across `' + str(hostcount()) + '` various relays and mirrors - ' + '_`' + str(onlinecount()) + '` of which are online, with `' + str(geckocount()) + '` appearing inaccessible_')
+    writeline(uptime_sheet, 'currently tracking `' + str(groupcount()) + '` groups across `' + str(hostcount()) + '` various relays and mirrors - ' + '_`' + str(onlinecount()) + '` of which are online_')
     writeline(uptime_sheet, '')
-    writeline(uptime_sheet, 'there are currently `' + str(parsercount()) + '` active parsers, `' + str(geckocount()) + '` of which leverage [mozilla/geckodriver](https://github.com/mozilla/geckodriver) - _`' + str(countcaptchahosts()) + '` groups have introduced captchas this year_')
+    writeline(uptime_sheet, 'there are currently `' + str(parsercount()) + '` active parsers, `' + str(headlesscount()) + '` of which requiring headless browsers - _`' + str(countcaptchahosts()) + '` groups have introduced captchas this year_')
     writeline(uptime_sheet, '')
     writeline(uptime_sheet, '⏲ there have been `' + str(postslast24h()) + '` posts within the `last 24 hours`')
     writeline(uptime_sheet, '')
@@ -125,37 +125,48 @@ def statspage():
     writeline(statspage, '')
     writeline(statspage, '![](postsbygroup.png)')
     writeline(statspage, '')
-    writeline(statspage, '## availability')
-    writeline(statspage, '')
     writeline(statspage, '![](uptime.png)')
     writeline(statspage, '')
-    writeline(statspage, ':warning: _data capturing commenced in september 2021 - historic posts may not have accuratley accompanying timestamps before this period_')
+    writeline(statspage, ':warning: _data capturing commenced in october 2021 - historic posts may not have accuratley accompanying timestamps before this period_')
     writeline(statspage, '')
     writeline(statspage, '![](postsbymonth.png)')
     writeline(statspage, '')
     writeline(statspage, '![](postsbyyear.png)')
 
-def recentposts():
-    produce = 30
-    '''create a markdown table for the <produce> most recent posts based on the discovered field in posts.json'''
-    recentposts = 'docs/recentposts.md'
-    # delete contents of file
-    with open(recentposts, 'w') as f:
-        f.close()
-    writeline(recentposts, '# 📰 recent posts')
-    writeline(recentposts, '')
-    writeline(recentposts, '_`' + str(produce) + '`' + ' most recent posts_')
-    writeline(recentposts, '')
-    writeline(recentposts, '| date | title | group |')
-    writeline(recentposts, '|---|---|---|')
+def recentposts(top):
+    '''
+    create a list the last X posts (most recent)
+    '''
     posts = openjson('posts.json')
-    for post in posts[-produce:]:
-        # convert long date to ddmmyyyy
+    # sort the posts by timestamp - descending
+    sorted_posts = sorted(posts, key=lambda x: x['discovered'], reverse=True)
+    # create a list of the last X posts
+    recentposts = []
+    for post in sorted_posts:
+        recentposts.append(post)
+        if len(recentposts) == top:
+            break
+    return recentposts
+
+def recentpage():
+    '''create a markdown table for the last 30 posts based on the discovered value'''
+    recentpage = 'docs/recentposts.md'
+    # delete contents of file
+    with open(recentpage, 'w') as f:
+        f.close()
+    writeline(recentpage, '# 📰 recent posts')
+    writeline(recentpage, '')
+    writeline(recentpage, '| date | title | group |')
+    writeline(recentpage, '|---|---|---|')
+    # fetch the 30 most revent posts and add to ascending markdown table
+    for post in recentposts(30):
+        # show friendly date for discovered
         date = post['discovered'].split(' ')[0]
-        date = date.split('-')
-        date = date[2] + '/' + date[1] + '/' + date[0]
-        line = '| ' + date + ' | ' + '`' + post['post_title'] + '`' + ' | ' + post['group_name'] + ' |'
-        writeline(recentposts, line)
+        # replace markdown tampering characters
+        title = post['post_title'].replace('|', '-')
+        group = post['group_name'].replace('|', '-')
+        line = '| ' + date + ' | `' + title + '` | ' + group + ' |'
+        writeline(recentpage, line)
 
 def profilepage():
     '''
@@ -228,7 +239,7 @@ def profilepage():
 def main():
     mainpage()
     sidebar()
-    recentposts()
+    recentpage()
     groupreportyearly()
     groupreportmonthly()
     groupreportpie()
