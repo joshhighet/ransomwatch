@@ -4,15 +4,15 @@ currently tracking `39` groups across `47` various relays and mirrors - _`29` of
 
 there are currently `30` active parsers, `2` of which leverage [mozilla/geckodriver](https://github.com/mozilla/geckodriver) - _`3` groups have introduced captchas this year_
 
-⏲ there have been `25` posts within the `last 24 hours`
+⏲ there have been `26` posts within the `last 24 hours`
 
-🦈 there have been `875` posts within the `month of october`
+🦈 there have been `876` posts within the `month of october`
 
-🪐 there have been `891` posts within the `last 90 days`
+🪐 there have been `892` posts within the `last 90 days`
 
-🏚 there have been `927` posts within the `year of 2021`
+🏚 there have been `928` posts within the `year of 2021`
 
-🦕 there have been `961` posts `since the beginning of time`
+🦕 there have been `962` posts `since the beginning of time`
 
 > _the `11` sites using v2 onion services are no longer indexed - [support.torproject.org](https://support.torproject.org/onionservices/v2-deprecation/)_
 

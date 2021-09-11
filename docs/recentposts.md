@@ -4,7 +4,6 @@ _`30` most recent posts_
 
 | date | title | group |
 |---|---|---|
-| 09/09/2021 | `MOSS BROS GROUP` | conti |
 | 09/09/2021 | `JAMAC FROZEN FOODS` | conti |
 | 09/09/2021 | `Frank G. Love Envelopes, Inc.` | conti |
 | 09/09/2021 | `Grupo Herdez, S.A.B. de C.V. Holding Companies` | conti |
@@ -34,3 +33,4 @@ _`30` most recent posts_
 | 10/09/2021 | `Compilation of Many Breaches (COMB)` | arvinclub |
 | 10/09/2021 | `erg.eu ` | lockbit2 |
 | 10/09/2021 | `novohamburgo.rs... ` | lockbit2 |
+| 11/09/2021 | `ASSU 2000` | conti |
