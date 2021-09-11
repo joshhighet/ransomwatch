@@ -2,6 +2,7 @@
 
 | date | title | group |
 |---|---|---|
+| 2021-09-11 | `Primary Residential Mortgage inc. - Leaked` | ragnarlocker |
 | 2021-09-11 | `River City Construction` | blackmatter |
 | 2021-09-11 | `ohiograting.com` | revil |
 | 2021-09-11 | `ASSU 2000` | conti |
@@ -31,4 +32,3 @@
 | 2021-09-10 | `jginc.biz ` | lockbit2 |
 | 2021-09-10 | `cenco-zotti.com ` | lockbit2 |
 | 2021-09-10 | `mtgsrl.com ` | lockbit2 |
-| 2021-09-10 | `yazaki-group.co... ` | lockbit2 |
