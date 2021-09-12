@@ -1,10 +1,10 @@
-## 📰 summary - september 11th, 2021
+## 📰 summary - september 12th, 2021
 
 currently tracking `39` groups across `47` various relays and mirrors - _`27` of which are online_
 
 there are currently `30` active parsers, `9` of which requiring headless browsers - _`3` groups have introduced captchas this year_
 
-⏲ there have been `9` posts within the `last 24 hours`
+⏲ there have been `4` posts within the `last 24 hours`
 
 🦈 there have been `865` posts within the `month of october`
 
