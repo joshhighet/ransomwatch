@@ -2,6 +2,7 @@
 
 | date | title | group |
 |---|---|---|
+| 2021-09-12 | `https://cimico.... ` | lockbit2 |
 | 2021-09-12 | `` | avoslocker |
 | 2021-09-11 | `Primary Residential Mortgage inc. - Leaked` | ragnarlocker |
 | 2021-09-11 | `River City Construction` | blackmatter |
@@ -31,4 +32,3 @@
 | 2021-09-10 | `nutrifood.co.id ` | lockbit2 |
 | 2021-09-10 | `bennetts.com.au ` | lockbit2 |
 | 2021-09-10 | `jginc.biz ` | lockbit2 |
-| 2021-09-10 | `cenco-zotti.com ` | lockbit2 |
