@@ -69,7 +69,7 @@ def synack():
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
-        errlog('synack: ' + 'parsing failiure')
+        errlog('synack: ' + 'parsing fail')
     for post in posts:
         appender(post, 'synack')
 
@@ -80,7 +80,7 @@ def everest():
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
-        errlog('everest: ' + 'parsing failiure')
+        errlog('everest: ' + 'parsing fail')
     for post in posts:
         appender(post, 'everest')
 
@@ -92,7 +92,7 @@ def suncrypt():
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
-        errlog('suncrypt: ' + 'parsing failiure')
+        errlog('suncrypt: ' + 'parsing fail')
     for post in posts:
         appender(post, 'suncrypt')
 
@@ -103,7 +103,7 @@ def lorenz():
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
-        errlog('lorenz: ' + 'parsing failiure')
+        errlog('lorenz: ' + 'parsing fail')
     for post in posts:
         appender(post, 'lorenz')
 
@@ -114,7 +114,7 @@ def lockbit2():
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
-        errlog('lockbit2: ' + 'parsing failiure')
+        errlog('lockbit2: ' + 'parsing fail')
     for post in posts:
         appender(post, 'lockbit2')
 
@@ -128,7 +128,7 @@ def lockbit2desc():
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
-        errlog('lockbit2: ' + 'parsing failiure')
+        errlog('lockbit2: ' + 'parsing fail')
     for post in posts:
         appender(post, 'lockbit2')
 
@@ -139,7 +139,7 @@ def arvinclub():
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
-        errlog('arvinclub: ' + 'parsing failiure')
+        errlog('arvinclub: ' + 'parsing fail')
     for post in posts:
         appender(post, 'arvinclub')
 
@@ -150,7 +150,7 @@ def hiveleak():
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
-        errlog('hiveleak: ' + 'parsing failiure')
+        errlog('hiveleak: ' + 'parsing fail')
     for post in posts:
         appender(post, 'hiveleak')
 
@@ -161,7 +161,7 @@ def avoslocker():
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
-        errlog('avoslocker: ' + 'parsing failiure')
+        errlog('avoslocker: ' + 'parsing fail')
     for post in posts:
         appender(post, 'avoslocker')
 
@@ -172,7 +172,7 @@ def avaddon():
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
-        errlog('avaddon: ' + 'parsing failiure')
+        errlog('avaddon: ' + 'parsing fail')
     for post in posts:
         appender(post, 'avaddon')
 
@@ -183,7 +183,7 @@ def xinglocker():
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
-        errlog('xinglocker: ' + 'parsing failiure')
+        errlog('xinglocker: ' + 'parsing fail')
     for post in posts:
         appender(post, 'xinglocker')
     
@@ -194,10 +194,16 @@ def ragnarlocker():
     '''
     posts = runshellcmd(json_parser)
     post_json = json.loads(posts[0])
+    with open('source/ragnarlocker.json', 'w') as f:
+        json.dump(post_json, f, indent=4)
+        f.close()
     if len(post_json) == 1:
-        errlog('ragnarlocker: ' + 'parsing failiure')
+        errlog('ragnarlocker: ' + 'parsing fail')
     for post in post_json:
-        appender(post['title'], 'ragnarlocker')
+        try:
+            appender(post['title'], 'ragnarlocker')
+        except TypeError:
+            errlog('ragnarlocker: ' + 'parsing fail')
 
 def clop():
     stdlog('parser: ' + 'clop')
@@ -206,7 +212,7 @@ def clop():
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
-        errlog('clop: ' + 'parsing failiure')
+        errlog('clop: ' + 'parsing fail')
     for post in posts:
         appender(post, 'clop')
 
@@ -217,7 +223,7 @@ def revil():
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
-        errlog('revil: ' + 'parsing failiure')
+        errlog('revil: ' + 'parsing fail')
     for post in posts:
         appender(post, 'revil')
 
@@ -228,7 +234,7 @@ def ragnarok():
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
-        errlog('ragnarok: ' + 'parsing failiure')    
+        errlog('ragnarok: ' + 'parsing fail')    
     for post in posts:
         appender(post, 'ragnarok')
 
@@ -239,7 +245,7 @@ def conti():
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
-        errlog('conti: ' + 'parsing failiure')
+        errlog('conti: ' + 'parsing fail')
     for post in posts:
         appender(post, 'conti')
     
@@ -250,7 +256,7 @@ def pysa():
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
-        errlog('pysa: ' + 'parsing failiure')
+        errlog('pysa: ' + 'parsing fail')
     for post in posts:
         appender(post, 'pysa')
 
@@ -261,7 +267,7 @@ def nefilim():
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
-        errlog('nefilim: ' + 'parsing failiure')
+        errlog('nefilim: ' + 'parsing fail')
     for post in posts:
         appender(post, 'nefilim') 
 
@@ -272,7 +278,7 @@ def mountlocker():
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
-        errlog('mountlocker: ' + 'parsing failiure')
+        errlog('mountlocker: ' + 'parsing fail')
     for post in posts:
         appender(post, 'mountlocker')
 
@@ -283,7 +289,7 @@ def babuklocker():
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
-        errlog('babuklocker: ' + 'parsing failiure')
+        errlog('babuklocker: ' + 'parsing fail')
     for post in posts:
         appender(post, 'babuklocker')
     
@@ -294,7 +300,7 @@ def ransomexx():
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
-        errlog('ransomexx: ' + 'parsing failiure')
+        errlog('ransomexx: ' + 'parsing fail')
     for post in posts:
         appender(post, 'ransomexx')
 
@@ -305,7 +311,7 @@ def cuba():
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
-        errlog('cuba: ' + 'parsing failiure')
+        errlog('cuba: ' + 'parsing fail')
     for post in posts:
         appender(post, 'cuba')
 
@@ -316,7 +322,7 @@ def pay2key():
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
-        errlog('pay2key: ' + 'parsing failiure')
+        errlog('pay2key: ' + 'parsing fail')
     for post in posts:
         appender(post, 'pay2key')
 
@@ -327,7 +333,7 @@ def azroteam():
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
-        errlog('azroteam: ' + 'parsing failiure')
+        errlog('azroteam: ' + 'parsing fail')
     for post in posts:
         appender(post, 'azroteam')
 
@@ -338,7 +344,7 @@ def lockdata():
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
-        errlog('lockdata: ' + 'parsing failiure')
+        errlog('lockdata: ' + 'parsing fail')
     for post in posts:
         appender(post, 'lockdata')
     
@@ -349,7 +355,7 @@ def blacktor():
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
-        errlog('blacktor: ' + 'parsing failiure')
+        errlog('blacktor: ' + 'parsing fail')
     for post in posts:
         appender(post, 'blacktor')
     
@@ -360,7 +366,7 @@ def darkleakmarket():
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
-        errlog('darkleakmarket: ' + 'parsing failiure')
+        errlog('darkleakmarket: ' + 'parsing fail')
     for post in posts:
         appender(post, 'darkleakmarket')
 
@@ -371,7 +377,7 @@ def blackmatter():
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
-        errlog('blackmatter: ' + 'parsing failiure')
+        errlog('blackmatter: ' + 'parsing fail')
     for post in posts:
         appender(post, 'blackmatter')
 
@@ -382,7 +388,7 @@ def payloadbin():
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
-        errlog('payloadbin: ' + 'parsing failiure')
+        errlog('payloadbin: ' + 'parsing fail')
     for post in posts:
         appender(post, 'payloadbin')
 
@@ -393,6 +399,6 @@ def groove():
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
-        errlog('groove: ' + 'parsing failiure')
+        errlog('groove: ' + 'parsing fail')
     for post in posts:
         appender(post, 'groove')

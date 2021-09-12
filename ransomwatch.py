@@ -59,12 +59,6 @@ args = parser.parse_args()
 if args.mode == ('add' or 'append') and (args.name is None or args.location is None):
     parser.error("operation requires --name and --location")
 
-if args.mode == 'scrape':
-    # ensure geckodriver is installed
-    if checkgeckodriver() is False:
-        honk('ransomwatch: ' + 'geckodriver not found in $PATH and required for scraping')
-    
-
 if args.location:
     siteinfo = getonionversion(args.location)
     if siteinfo[0] is None:
@@ -183,10 +177,14 @@ def lister():
             print(group['name'] + ' - ' + host['slug'])
 
 if args.mode == 'scrape':
-    '''check we have a socks proxy available for us - call the scraper to commence if we do'''
+    # ensure socks proxy available
     if not checktcp(sockshost, socksport):
         honk("socks proxy not available and required for scraping!")
+    # ensure geckodriver in $PATH
+    if checkgeckodriver() is False:
+        honk('ransomwatch: ' + 'geckodriver not found in $PATH and required for scraping')
     scraper()
+    stdlog('ransomwatch: ' + 'scrape run complete')
 
 if args.mode == 'add':
     adder(args.name, args.location)
@@ -196,6 +194,7 @@ if args.mode == 'append':
 
 if args.mode == 'markdown':
     markdown()
+    stdlog('ransomwatch: ' + 'markdown run complete')
 
 if args.mode == 'parse':
     parsers.suncrypt()
@@ -225,6 +224,7 @@ if args.mode == 'parse':
     parsers.blackmatter()
     parsers.payloadbin()
     parsers.groove()
+    stdlog('ransomwatch: ' + 'parse run complete')
 
 if args.mode == 'list':
     lister()

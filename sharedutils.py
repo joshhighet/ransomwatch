@@ -109,6 +109,28 @@ def headers():
     headers = {'User-Agent': str(randomagent())}
     return headers
 
+def metafetch(url):
+    '''
+    return the status code & http server using oproxies and headers
+    '''
+    try:
+        stdlog('sharedutils: ' + 'meta prefetch request to ' + str(url))
+        request = requests.head(url, proxies=oproxies, headers=headers())
+        statcode = request.status_code
+        try:
+            response = request.headers['server']
+            return statcode, response
+        except KeyError as ke:
+            errlog('sharedutils: ' + 'meta prefetch did not discover server - ' + str(ke))
+            return statcode, None
+
+    except requests.exceptions.Timeout as ret:
+        errlog('sharedutils: ' + 'meta request timeout - ' + str(ret))
+        return None, None
+    except requests.exceptions.ConnectionError as rec:
+        errlog('sharedutils: ' + 'meta request connection error - ' + str(rec))
+        return None, None
+
 def socksfetcher(url):
     '''
     fetch a url via socks proxy
