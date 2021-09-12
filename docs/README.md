@@ -1,6 +1,6 @@
 ## 📰 summary - september 12th, 2021
 
-currently tracking `39` groups across `47` various relays and mirrors - _`29` of which are online_
+currently tracking `39` groups across `47` various relays and mirrors - _`28` of which are online_
 
 there are currently `30` active parsers, `9` of which requiring headless browsers - _`3` groups have introduced captchas this year_
 
@@ -37,7 +37,7 @@ there are currently `30` active parsers, `9` of which requiring headless browser
 | xinglocker | 星Team News | ⬆️ 🟢 |  | xingnewj6m4qytljhfwemngm7r7rogrindbq7wrfeepejgxc3bwci7qd.onion |
 | darkside |  | ⬇️ 🔴 | 2021-05-01 | darksidc3iux462n6yunevoag52ntvwp6wulaz3zirkmh4cnz6hhj7id.onion |
 | ragnarlocker |  | ⬇️ 🔴 | 2021-05-01 | rgleak7op734elep.onion |
-| ragnarlocker |  | ⬆️ 🟢 |  | rgleaktxuey67yrgspmhvtnrqtgogur35lwdrup4d3igtbm3pupc4lyd.onion |
+| ragnarlocker |  | ⬇️ 🔴 | 2021-09-12 | rgleaktxuey67yrgspmhvtnrqtgogur35lwdrup4d3igtbm3pupc4lyd.onion |
 | ragnarlocker |  | ⬇️ 🔴 | 2021-05-01 | p6o7m73ujalhgkiv.onion |
 | clop |  | ⬇️ 🔴 | 2021-05-01 | ekbgzchl6x2ias37.onion |
 | clop | Access Queue | ⬆️ 🟢 |  | santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad.onion |
