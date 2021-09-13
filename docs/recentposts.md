@@ -2,6 +2,9 @@
 
 | date | title | group |
 |---|---|---|
+| 2021-09-13 | `Xmedicalpicture` | everest |
+| 2021-09-13 | `Andel` | everest |
+| 2021-09-13 | `rlsblaw.com ` | lockbit2 |
 | 2021-09-13 | `cimico.net ` | lockbit2 |
 | 2021-09-13 | `robinwoodortho.com` | groove |
 | 2021-09-13 | `Betson Enterprises` | pysa |
@@ -29,6 +32,3 @@
 | 2021-09-10 | `cansmart.co.za ` | lockbit2 |
 | 2021-09-10 | `gahesa.com ` | lockbit2 |
 | 2021-09-10 | `https://www.nov... ` | lockbit2 |
-| 2021-09-10 | `colliganlaw.com` | lockbit2 |
-| 2021-09-10 | `aquazzura.com ` | lockbit2 |
-| 2021-09-10 | `setg.at ` | lockbit2 |
