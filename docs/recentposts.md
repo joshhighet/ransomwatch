@@ -2,6 +2,8 @@
 
 | date | title | group |
 |---|---|---|
+| 2021-09-13 | `VIVA Formwork and Scaffolding` | everest |
+| 2021-09-13 | `Hörmanseder Stahlbau GmbH` | everest |
 | 2021-09-13 | `Southland` | everest |
 | 2021-09-13 | `Xmedicalpicture` | everest |
 | 2021-09-13 | `Andel` | everest |
@@ -30,5 +32,3 @@
 | 2021-09-10 | `Compilation of Many Breaches (COMB)` | arvinclub |
 | 2021-09-10 | `hbfinanse.pl ` | lockbit2 |
 | 2021-09-10 | `cimaser.com ` | lockbit2 |
-| 2021-09-10 | `cansmart.co.za ` | lockbit2 |
-| 2021-09-10 | `gahesa.com ` | lockbit2 |
