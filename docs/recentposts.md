@@ -2,6 +2,14 @@
 
 | date | title | group |
 |---|---|---|
+| 2021-09-13 | `Betson Enterprises` | pysa |
+| 2021-09-13 | `One Community Health` | pysa |
+| 2021-09-13 | `Jesse Engineering Co` | pysa |
+| 2021-09-13 | `Grupo SAN` | pysa |
+| 2021-09-13 | `Spartanburg & Pelham OB-GYN` | pysa |
+| 2021-09-13 | `Haverhill High School` | pysa |
+| 2021-09-13 | `Woodlake Unified` | pysa |
+| 2021-09-13 | `HABI` | pysa |
 | 2021-09-12 | `https://cimico.... ` | lockbit2 |
 | 2021-09-12 | `` | avoslocker |
 | 2021-09-11 | `Primary Residential Mortgage inc. - Leaked` | ragnarlocker |
@@ -24,11 +32,3 @@
 | 2021-09-10 | `setg.at ` | lockbit2 |
 | 2021-09-10 | `cometgroup.be ` | lockbit2 |
 | 2021-09-10 | `ccz.com.au ` | lockbit2 |
-| 2021-09-10 | `otcqatar.com ` | lockbit2 |
-| 2021-09-10 | `lanexmfg.com ` | lockbit2 |
-| 2021-09-10 | `luzeirosfortale... ` | lockbit2 |
-| 2021-09-10 | `kmazuckert.com ` | lockbit2 |
-| 2021-09-10 | `ymcadc.org ` | lockbit2 |
-| 2021-09-10 | `nutrifood.co.id ` | lockbit2 |
-| 2021-09-10 | `bennetts.com.au ` | lockbit2 |
-| 2021-09-10 | `jginc.biz ` | lockbit2 |
