@@ -1,18 +1,18 @@
 ## 📰 summary - september 13th, 2021
 
-currently tracking `39` groups across `47` various relays and mirrors - _`28` of which are online_
+currently tracking `39` groups across `47` various relays and mirrors - _`27` of which are online_
 
 there are currently `30` active parsers, `9` of which requiring headless browsers - _`3` groups have introduced captchas this year_
 
-⏲ there have been `10` posts within the `last 24 hours`
+⏲ there have been `11` posts within the `last 24 hours`
 
-🦈 there have been `876` posts within the `month of october`
+🦈 there have been `877` posts within the `month of october`
 
-🪐 there have been `892` posts within the `last 90 days`
+🪐 there have been `893` posts within the `last 90 days`
 
-🏚 there have been `928` posts within the `year of 2021`
+🏚 there have been `929` posts within the `year of 2021`
 
-🦕 there have been `962` posts `since the beginning of time`
+🦕 there have been `963` posts `since the beginning of time`
 
 > _the `11` sites using v2 onion services are no longer indexed - [support.torproject.org](https://support.torproject.org/onionservices/v2-deprecation/)_
 
@@ -62,7 +62,7 @@ there are currently `30` active parsers, `9` of which requiring headless browser
 | lockdata | LockData Auction | ⬆️ 🟢 |  | wm6mbuzipviusuc42kcggzkdpbhuv45sn7olyamy6mcqqked3waslbqd.onion |
 | blacktor | Bl@ckt0r - Bug Hunter and Data Breacher | ⬆️ 🟢 |  | bl4cktorpms2gybrcyt52aakcxt6yn37byb65uama5cimhifcscnqkid.onion |
 | haron | Clients page | ⬆️ 🟢 |  | ft4zr2jzlqoyob7yg4fcpwyt37hox3ajajqnfkdvbfrkjioyunmqnpad.onion |
-| darkleakmarket | Dark Leak Market | ⬆️ 🟢 |  | 54rdhzjzc4ids4u4wata4zr4ywfon5wpz2ml4q3avelgadpvmdal2vqd.onion |
+| darkleakmarket | Dark Leak Market | ⬇️ 🔴 | 2021-09-13 | 54rdhzjzc4ids4u4wata4zr4ywfon5wpz2ml4q3avelgadpvmdal2vqd.onion |
 | prometheus |  | ⬇️ 🔴 | 2021-05-01 | promethw27cbrcot.onion |
 | blackmatter | BlackMatter | ⬆️ 🟢 |  | blackmax7su6mbwtcyo3xwtpfxpm356jjqrs34y4crcytpw7mifuedyd.onion |
 | payloadbin | Payload.bin | ⬆️ 🟢 |  | vbmisqjshn4yblehk2vbnil53tlqklxsdaztgphcilto3vdj4geao5qd.onion |
