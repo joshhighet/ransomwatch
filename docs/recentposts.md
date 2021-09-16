@@ -2,6 +2,7 @@
 
 | date | title | group |
 |---|---|---|
+| 2021-09-16 | `AMAX` | conti |
 | 2021-09-16 | `Spiezle Architectural Group Inc.` | revil |
 | 2021-09-15 | `EQUITY TRANSPORTATION` | blackmatter |
 | 2021-09-14 | `FULL DATA LEAK of Primary Residential Mortgage, Inc. //` | ragnarlocker |
@@ -31,4 +32,3 @@
 | 2021-09-11 | `ohiograting.com` | revil |
 | 2021-09-11 | `ASSU 2000` | conti |
 | 2021-09-10 | `novohamburgo.rs... ` | lockbit2 |
-| 2021-09-10 | `erg.eu ` | lockbit2 |
