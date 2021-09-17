@@ -2,6 +2,7 @@
 
 | date | title | group |
 |---|---|---|
+| 2021-09-17 | `riscossa.it ` | lockbit2 |
 | 2021-09-17 | `Modern Testing Services` | blackmatter |
 | 2021-09-17 | `mitchellsternla... ` | lockbit2 |
 | 2021-09-17 | `coldwellbankerh... ` | lockbit2 |
@@ -31,4 +32,3 @@
 | 2021-09-13 | `Woodlake Unified` | pysa |
 | 2021-09-13 | `HABI` | pysa |
 | 2021-09-12 | `https://cimico.... ` | lockbit2 |
-| 2021-09-12 | `` | avoslocker |
