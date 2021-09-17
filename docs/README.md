@@ -1,18 +1,18 @@
-## 📰 summary - september 16th, 2021
+## 📰 summary - september 17th, 2021
 
-currently tracking `39` groups across `47` various relays and mirrors - _`26` of which are online_
+currently tracking `39` groups across `47` various relays and mirrors - _`27` of which are online_
 
 there are currently `30` active parsers, `9` of which requiring headless browsers - _`3` groups have introduced captchas this year_
 
-⏲ there have been `2` posts within the `last 24 hours`
+⏲ there have been `3` posts within the `last 24 hours`
 
-🦈 there have been `890` posts within the `month of october`
+🦈 there have been `891` posts within the `month of october`
 
-🪐 there have been `905` posts within the `last 90 days`
+🪐 there have been `906` posts within the `last 90 days`
 
-🏚 there have been `942` posts within the `year of 2021`
+🏚 there have been `943` posts within the `year of 2021`
 
-🦕 there have been `976` posts `since the beginning of time`
+🦕 there have been `977` posts `since the beginning of time`
 
 > _the `11` sites using v2 onion services are no longer indexed - [support.torproject.org](https://support.torproject.org/onionservices/v2-deprecation/)_
 
@@ -45,7 +45,7 @@ there are currently `30` active parsers, `9` of which requiring headless browser
 | doppelpaymer | Dopple leaks | ⬆️ 🟢 |  | hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion |
 | revil | Happy Blog  | ⬆️ 🟢 |  | dnpscnbaix6nkwvystl3yxglz7nteicqrou3t75tpcc5532cztc46qyd.onion |
 | revil |  | ⬆️ 🟢 |  | aplebzu47wgazapdqks6vrcv6zcnjppkbxbr6wketf56nf6aq2nmyoyd.onion |
-| everest | Everest ransom team | ⬇️ 🔴 | 2021-09-16 | ransomocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexfook2j7esad.onion |
+| everest | Everest ransom team | ⬆️ 🟢 |  | ransomocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexfook2j7esad.onion |
 | ragnarok |  | ⬇️ 🔴 | 2021-05-01 | wobpitin77vdsdiswr43duntv6eqw4rvphedutpaxycjdie6gg3binad.onion |
 | ragnarok | Decrypt Site | ⬇️ 🔴 | 2021-08-27 | sushlnty2j7qdzy64qnvyb6ajkwg7resd3p6agc2widnawodtcedgjid.onion |
 | conti | CONTI.News | ⬆️ 🟢 |  | continewsnv5otx5kaoje7krkto2qbu3gtqef22mnr7eaxw3y6ncz3ad.onion |
