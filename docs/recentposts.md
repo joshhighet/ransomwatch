@@ -2,6 +2,12 @@
 
 | date | title | group |
 |---|---|---|
+| 2021-09-18 | `aquazzura.com` | lockbit2 |
+| 2021-09-18 | `northstarak.com ` | lockbit2 |
+| 2021-09-18 | `novotech.com ` | lockbit2 |
+| 2021-09-18 | `agmfinancial.co... ` | lockbit2 |
+| 2021-09-18 | `abcp.org.br ` | lockbit2 |
+| 2021-09-18 | `nrpa.org ` | lockbit2 |
 | 2021-09-18 | `Pulmuone Co., Ltd.` | blackmatter |
 | 2021-09-17 | `riscossa.it ` | lockbit2 |
 | 2021-09-17 | `Modern Testing Services` | blackmatter |
@@ -26,9 +32,3 @@
 | 2021-09-13 | `robinwoodortho.com` | groove |
 | 2021-09-13 | `Betson Enterprises` | pysa |
 | 2021-09-13 | `One Community Health` | pysa |
-| 2021-09-13 | `Jesse Engineering Co` | pysa |
-| 2021-09-13 | `Grupo SAN` | pysa |
-| 2021-09-13 | `Spartanburg & Pelham OB-GYN` | pysa |
-| 2021-09-13 | `Haverhill High School` | pysa |
-| 2021-09-13 | `Woodlake Unified` | pysa |
-| 2021-09-13 | `HABI` | pysa |
