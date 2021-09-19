@@ -2,6 +2,7 @@
 
 | date | title | group |
 |---|---|---|
+| 2021-09-19 | `51talk.com ` | lockbit2 |
 | 2021-09-18 | `aquazzura.com` | lockbit2 |
 | 2021-09-18 | `northstarak.com ` | lockbit2 |
 | 2021-09-18 | `novotech.com ` | lockbit2 |
@@ -31,4 +32,3 @@
 | 2021-09-13 | `cimico.net ` | lockbit2 |
 | 2021-09-13 | `robinwoodortho.com` | groove |
 | 2021-09-13 | `Betson Enterprises` | pysa |
-| 2021-09-13 | `One Community Health` | pysa |
