@@ -2,6 +2,7 @@
 
 | date | title | group |
 |---|---|---|
+| 2021-09-20 | `LA-Martiniquaise` | blackmatter |
 | 2021-09-20 | `Pines Ford Lincoln` | conti |
 | 2021-09-20 | `JMclaughlin` | blackmatter |
 | 2021-09-20 | `CasagrandeGroup` | blackmatter |
@@ -31,4 +32,3 @@
 | 2021-09-18 | `novotech.com ` | lockbit2 |
 | 2021-09-18 | `agmfinancial.co... ` | lockbit2 |
 | 2021-09-18 | `abcp.org.br ` | lockbit2 |
-| 2021-09-18 | `nrpa.org ` | lockbit2 |
