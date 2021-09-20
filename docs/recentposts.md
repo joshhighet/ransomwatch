@@ -2,6 +2,7 @@
 
 | date | title | group |
 |---|---|---|
+| 2021-09-20 | `Bureau van Dijk(bvdinfo.com)` | arvinclub |
 | 2021-09-20 | `drsdoors.com ` | lockbit2 |
 | 2021-09-20 | `westernspirits.... ` | lockbit2 |
 | 2021-09-20 | `noone.com.au ` | lockbit2 |
@@ -31,4 +32,3 @@
 | 2021-09-13 | `miller-rose.com ` | lockbit2 |
 | 2021-09-13 | `atstrack.com ` | lockbit2 |
 | 2021-09-13 | `Irish Pioneer works` | everest |
-| 2021-09-13 | `VIVA Formwork and Scaffolding` | everest |
