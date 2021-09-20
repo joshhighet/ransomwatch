@@ -17,10 +17,11 @@ from sharedutils import poststhisyear
 from sharedutils import postslast24h
 from sharedutils import currentmonthstr
 from sharedutils import countcaptchahosts
-from sharedutils import groupreportyearly
-from sharedutils import groupreportmonthly
-from sharedutils import groupreportpie
-from sharedutils import uptimechart
+
+from plotting import groupreportyearly
+from plotting import groupreportmonthly
+from plotting import groupreportpie
+from plotting import uptimechart
 
 def suffix(d):
     return 'th' if 11<=d<=13 else {1:'st',2:'nd',3:'rd'}.get(d%10, 'th')
@@ -234,7 +235,6 @@ def profilepage():
                 date = date[2] + '/' + date[1] + '/' + date[0]
                 line = '| ' + '`' + post['post_title'] + '`' + ' | ' + date + ' |'
                 writeline(profilepage, line)
-
 
 def main():
     mainpage()
