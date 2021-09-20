@@ -2,6 +2,10 @@
 
 | date | title | group |
 |---|---|---|
+| 2021-09-20 | `JMclaughlin` | blackmatter |
+| 2021-09-20 | `CasagrandeGroup` | blackmatter |
+| 2021-09-20 | `BCP Securities` | blackmatter |
+| 2021-09-20 | `United Carton Industries Company Ltd` | ransomexx |
 | 2021-09-20 | `Pramer Baustoffe GmbH` | blackmatter |
 | 2021-09-20 | `Ellerboeck` | blackmatter |
 | 2021-09-20 | `Citrocasa GmbH` | blackmatter |
@@ -28,7 +32,3 @@
 | 2021-09-18 | `abcp.org.br ` | lockbit2 |
 | 2021-09-18 | `nrpa.org ` | lockbit2 |
 | 2021-09-18 | `Pulmuone Co., Ltd.` | blackmatter |
-| 2021-09-17 | `riscossa.it ` | lockbit2 |
-| 2021-09-17 | `Modern Testing Services` | blackmatter |
-| 2021-09-17 | `mitchellsternla... ` | lockbit2 |
-| 2021-09-17 | `coldwellbankerh... ` | lockbit2 |
