@@ -2,6 +2,13 @@
 
 | date | title | group |
 |---|---|---|
+| 2021-09-20 | `drsdoors.com ` | lockbit2 |
+| 2021-09-20 | `westernspirits.... ` | lockbit2 |
+| 2021-09-20 | `noone.com.au ` | lockbit2 |
+| 2021-09-20 | `glenroy.com ` | lockbit2 |
+| 2021-09-20 | `dykman.com ` | lockbit2 |
+| 2021-09-20 | `ibes-gmbh.de ` | lockbit2 |
+| 2021-09-20 | `grupowec.com ` | lockbit2 |
 | 2021-09-19 | `denark.com ` | lockbit2 |
 | 2021-09-19 | `51talk.com ` | lockbit2 |
 | 2021-09-18 | `aquazzura.com` | lockbit2 |
@@ -25,10 +32,3 @@
 | 2021-09-13 | `atstrack.com ` | lockbit2 |
 | 2021-09-13 | `Irish Pioneer works` | everest |
 | 2021-09-13 | `VIVA Formwork and Scaffolding` | everest |
-| 2021-09-13 | `Hörmanseder Stahlbau GmbH` | everest |
-| 2021-09-13 | `Southland` | everest |
-| 2021-09-13 | `Xmedicalpicture` | everest |
-| 2021-09-13 | `Andel` | everest |
-| 2021-09-13 | `rlsblaw.com ` | lockbit2 |
-| 2021-09-13 | `cimico.net ` | lockbit2 |
-| 2021-09-13 | `robinwoodortho.com` | groove |
