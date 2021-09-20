@@ -2,6 +2,14 @@
 
 | date | title | group |
 |---|---|---|
+| 2021-09-20 | `Pramer Baustoffe GmbH` | blackmatter |
+| 2021-09-20 | `Ellerboeck` | blackmatter |
+| 2021-09-20 | `Citrocasa GmbH` | blackmatter |
+| 2021-09-20 | `Actief-Jobmade` | blackmatter |
+| 2021-09-20 | `johncockerillin... ` | lockbit2 |
+| 2021-09-20 | `ds.net.au ` | lockbit2 |
+| 2021-09-20 | `marriott.com/ho... ` | lockbit2 |
+| 2021-09-20 | `iiservz.com ` | lockbit2 |
 | 2021-09-20 | `Eisvogel Hubert Bernegger GmbH` | blackmatter |
 | 2021-09-20 | `Bureau van Dijk(bvdinfo.com)` | arvinclub |
 | 2021-09-20 | `drsdoors.com ` | lockbit2 |
@@ -24,11 +32,3 @@
 | 2021-09-17 | `Modern Testing Services` | blackmatter |
 | 2021-09-17 | `mitchellsternla... ` | lockbit2 |
 | 2021-09-17 | `coldwellbankerh... ` | lockbit2 |
-| 2021-09-17 | `northwoods &amp; spectrumfurniture` | blackmatter |
-| 2021-09-17 | `Steel Projects` | everest |
-| 2021-09-16 | `AMAX` | conti |
-| 2021-09-16 | `Spiezle Architectural Group Inc.` | revil |
-| 2021-09-15 | `EQUITY TRANSPORTATION` | blackmatter |
-| 2021-09-14 | `FULL DATA LEAK of Primary Residential Mortgage, Inc. //` | ragnarlocker |
-| 2021-09-13 | `miller-rose.com ` | lockbit2 |
-| 2021-09-13 | `atstrack.com ` | lockbit2 |
