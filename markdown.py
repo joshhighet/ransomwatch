@@ -196,7 +196,7 @@ def profilepage():
             writeline(profilepage, '')
         # add notes if present
         if group['meta'] is not None:
-            writeline(profilepage, '`_' + group['meta'] + '`_')
+            writeline(profilepage, '_`' + group['meta'] + '`_')
             writeline(profilepage, '')
         if group['javascript_render'] is True:
             writeline(profilepage, '> fetching this site requires a headless browser for javascript processing')
@@ -235,6 +235,7 @@ def profilepage():
                 date = date[2] + '/' + date[1] + '/' + date[0]
                 line = '| ' + '`' + post['post_title'] + '`' + ' | ' + date + ' |'
                 writeline(profilepage, line)
+        writeline(profilepage, '')
 
 def main():
     mainpage()
