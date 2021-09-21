@@ -2,6 +2,7 @@
 
 | date | title | group |
 |---|---|---|
+| 2021-09-21 | `SCREEN Holdings` | lorenz |
 | 2021-09-21 | `Bumper to Bumper Autoparts` | blackmatter |
 | 2021-09-20 | `aathonrton` | conti |
 | 2021-09-20 | `LA-Martiniquaise` | blackmatter |
@@ -31,4 +32,3 @@
 | 2021-09-19 | `51talk.com ` | lockbit2 |
 | 2021-09-18 | `aquazzura.com` | lockbit2 |
 | 2021-09-18 | `northstarak.com ` | lockbit2 |
-| 2021-09-18 | `novotech.com ` | lockbit2 |
