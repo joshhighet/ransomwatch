@@ -42,6 +42,9 @@ def appender(post_title, group_name):
     '''
     append a new post to posts.json
     '''
+    if len(post_title) == 0:
+        errlog('post_title is empty')
+        return
     # limit length of post_title to 90 chars
     if len(post_title) > 90:
         post_title = post_title[:90]
