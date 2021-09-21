@@ -1,18 +1,18 @@
 ## 📰 summary - september 21st, 2021
 
-currently tracking `39` groups across `47` various relays and mirrors - _`25` of which are online_
+currently tracking `39` groups across `47` various relays and mirrors - _`24` of which are online_
 
 there are currently `30` active parsers, `9` of which requiring headless browsers - _`3` groups have introduced captchas this year_
 
-⏲ there have been `16` posts within the `last 24 hours`
+⏲ there have been `17` posts within the `last 24 hours`
 
-🦈 there have been `926` posts within the `month of september`
+🦈 there have been `927` posts within the `month of september`
 
-🪐 there have been `940` posts within the `last 90 days`
+🪐 there have been `941` posts within the `last 90 days`
 
-🏚 there have been `978` posts within the `year of 2021`
+🏚 there have been `979` posts within the `year of 2021`
 
-🦕 there have been `1012` posts `since the dawn of ransomwatch`
+🦕 there have been `1013` posts `since the dawn of ransomwatch`
 
 > _the `11` sites using v2 onion services are no longer indexed - [support.torproject.org](https://support.torproject.org/onionservices/v2-deprecation/)_
 
@@ -55,7 +55,7 @@ there are currently `30` active parsers, `9` of which requiring headless browser
 | mount-locker |  | ⬇️ 🔴 | 2021-05-01 | mountnewsokhwilx.onion |
 | babuk-locker | RAMP :) | ⬆️ 🟢 |  | wavbeudogz6byhnardd2lkp2jafims3j7tj6k6qnywchn2csngvtffqd.onion |
 | babuk-locker | Babuk - Leaks site | ⬆️ 🟢 |  | nq4zyac4ukl4tykmidbzgdlvaboqeqsemkp4t35bzvjeve6zm2lqcjid.onion |
-| ransomexx | RANSOMEXX | ⬆️ 🟢 |  | rnsm777cdsjrsdlbs4v5qoeppu3px6sb2igmh53jzrx7ipcrbjz5b2ad.onion |
+| ransomexx | RANSOMEXX | ⬇️ 🔴 | 2021-09-21 | rnsm777cdsjrsdlbs4v5qoeppu3px6sb2igmh53jzrx7ipcrbjz5b2ad.onion |
 | cuba |  | ⬇️ 🔴 | 2021-05-01 | cuba4mp6ximo2zlo.onion |
 | pay2key | Pay2Key Leak Directory! | ⬆️ 🟢 |  | pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion |
 | aztroteam |  | ⬇️ 🔴 | 2021-05-01 | anewset3pcya3xvk73hj7yunuamutxxsm5sohkdi32blhmql55tvgqad.onion |
