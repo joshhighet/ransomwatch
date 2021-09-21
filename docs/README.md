@@ -1,4 +1,4 @@
-## 📰 summary - september 20th, 2021
+## 📰 summary - september 21st, 2021
 
 currently tracking `39` groups across `47` various relays and mirrors - _`25` of which are online_
 
@@ -8,7 +8,7 @@ there are currently `30` active parsers, `9` of which requiring headless browser
 
 🦈 there have been `929` posts within the `month of october`
 
-🪐 there have been `944` posts within the `last 90 days`
+🪐 there have been `943` posts within the `last 90 days`
 
 🏚 there have been `981` posts within the `year of 2021`
 
