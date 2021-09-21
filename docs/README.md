@@ -1,10 +1,10 @@
 ## 📰 summary - september 21st, 2021
 
-currently tracking `39` groups across `47` various relays and mirrors - _`24` of which are online_
+currently tracking `39` groups across `47` various relays and mirrors - _`25` of which are online_
 
 there are currently `30` active parsers, `9` of which requiring headless browsers - _`3` groups have introduced captchas this year_
 
-⏲ there have been `3` posts within the `last 24 hours`
+⏲ there have been `2` posts within the `last 24 hours`
 
 🦈 there have been `928` posts within the `month of september`
 
@@ -53,7 +53,7 @@ there are currently `30` active parsers, `9` of which requiring headless browser
 | nefilim |  | ⬇️ 🔴 | 2021-05-01 | hxt254aygrsziejn.onion |
 | maze |  | ⬇️ 🔴 | 2021-05-01 | xfr3txoorcyy7tikjgj5dk3rvo3vsrpyaxnclyohkbfp3h277ap4tiad.onion |
 | mount-locker |  | ⬇️ 🔴 | 2021-05-01 | mountnewsokhwilx.onion |
-| babuk-locker | RAMP :) | ⬇️ 🔴 | 2021-09-21 | wavbeudogz6byhnardd2lkp2jafims3j7tj6k6qnywchn2csngvtffqd.onion |
+| babuk-locker | RAMP :) | ⬆️ 🟢 |  | wavbeudogz6byhnardd2lkp2jafims3j7tj6k6qnywchn2csngvtffqd.onion |
 | babuk-locker | Babuk - Leaks site | ⬆️ 🟢 |  | nq4zyac4ukl4tykmidbzgdlvaboqeqsemkp4t35bzvjeve6zm2lqcjid.onion |
 | ransomexx | RANSOMEXX | ⬆️ 🟢 |  | rnsm777cdsjrsdlbs4v5qoeppu3px6sb2igmh53jzrx7ipcrbjz5b2ad.onion |
 | cuba |  | ⬇️ 🔴 | 2021-05-01 | cuba4mp6ximo2zlo.onion |
