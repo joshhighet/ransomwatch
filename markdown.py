@@ -75,7 +75,7 @@ def mainpage():
     writeline(uptime_sheet, '')
     writeline(uptime_sheet, '🏚 there have been `' + str(poststhisyear()) + '` posts within the `year of ' + str(dt.now().year) + '`')
     writeline(uptime_sheet, '')
-    writeline(uptime_sheet, '🦕 there have been `' + str(postcount()) + '` posts `since the beginning of time`')
+    writeline(uptime_sheet, '🦕 there have been `' + str(postcount()) + '` posts `since the dawn of ransomwatch`')
     writeline(uptime_sheet, '')
     writeline(uptime_sheet, '> _the `' + str(version2count()) + '` sites using v2 onion services are no longer indexed - [support.torproject.org](https://support.torproject.org/onionservices/v2-deprecation/)_')
     writeline(uptime_sheet, '')

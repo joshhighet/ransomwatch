@@ -44,23 +44,10 @@ def honk(msg):
     sys.exit()
 
 def currentmonthstr():
-    months = [
-            "january",
-            "febuary",
-            "march",
-            "april",
-            "may",
-            "june",
-            "july",
-            "august",
-            "september",
-            "october",
-            "november",
-            "december"
-        ]
-    now = (datetime.now())
-    month = (months[now.month])
-    return month
+    '''
+    return the current, full month name in lowercase
+    '''
+    return datetime.now().strftime('%B').lower()
 
 '''
 socks5h:// ensures we route dns requests through the socks proxy
