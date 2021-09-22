@@ -2,6 +2,8 @@
 
 | date | title | group |
 |---|---|---|
+| 2021-09-22 | `Marans Weisz & Newman, LLC` | conti |
+| 2021-09-22 | `rlsblaw.com` | lockbit2 |
 | 2021-09-22 | `PowerGrid Services` | conti |
 | 2021-09-22 | `NASCO Industries` | conti |
 | 2021-09-22 | `jplegal.net ` | lockbit2 |
@@ -30,5 +32,3 @@
 | 2021-09-20 | `ds.net.au ` | lockbit2 |
 | 2021-09-20 | `marriott.com/ho... ` | lockbit2 |
 | 2021-09-20 | `iiservz.com ` | lockbit2 |
-| 2021-09-20 | `Eisvogel Hubert Bernegger GmbH` | blackmatter |
-| 2021-09-20 | `Bureau van Dijk(bvdinfo.com)` | arvinclub |
