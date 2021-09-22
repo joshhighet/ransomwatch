@@ -2,6 +2,15 @@
 
 | date | title | group |
 |---|---|---|
+| 2021-09-22 | `jplegal.net ` | lockbit2 |
+| 2021-09-22 | `hotelservicepro... ` | lockbit2 |
+| 2021-09-22 | `drhrlaw.com ` | lockbit2 |
+| 2021-09-22 | `esopro.com ` | lockbit2 |
+| 2021-09-22 | `hoffsuemmer.de ` | lockbit2 |
+| 2021-09-22 | `wijnendeclerck.... ` | lockbit2 |
+| 2021-09-22 | `ebarc.adv.br ` | lockbit2 |
+| 2021-09-22 | `shop.jerryleigh... ` | lockbit2 |
+| 2021-09-22 | `j-addington.com ` | lockbit2 |
 | 2021-09-21 | `SCREEN Holdings` | lorenz |
 | 2021-09-21 | `Bumper to Bumper Autoparts` | blackmatter |
 | 2021-09-20 | `aathonrton` | conti |
@@ -23,12 +32,3 @@
 | 2021-09-20 | `Bureau van Dijk(bvdinfo.com)` | arvinclub |
 | 2021-09-20 | `drsdoors.com ` | lockbit2 |
 | 2021-09-20 | `westernspirits.... ` | lockbit2 |
-| 2021-09-20 | `noone.com.au ` | lockbit2 |
-| 2021-09-20 | `glenroy.com ` | lockbit2 |
-| 2021-09-20 | `dykman.com ` | lockbit2 |
-| 2021-09-20 | `ibes-gmbh.de ` | lockbit2 |
-| 2021-09-20 | `grupowec.com ` | lockbit2 |
-| 2021-09-19 | `denark.com ` | lockbit2 |
-| 2021-09-19 | `51talk.com ` | lockbit2 |
-| 2021-09-18 | `aquazzura.com` | lockbit2 |
-| 2021-09-18 | `northstarak.com ` | lockbit2 |
