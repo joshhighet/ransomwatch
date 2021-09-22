@@ -1,6 +1,6 @@
 # 🐦 profiles
 
-## 💈 marketo
+## 🦁 marketo
 
 _parsing : `disabled`_
 
@@ -15,7 +15,7 @@ _parsing : `disabled`_
 | post | date |
 |---|---|
 
-## 🦆 synack
+## 🧭 synack
 
 _parsing : `enabled`_
 
@@ -28,7 +28,7 @@ _parsing : `enabled`_
 | post | date |
 |---|---|
 
-## 🗿 suncrypt
+## 🧰 suncrypt
 
 _parsing : `enabled`_
 
@@ -38,7 +38,7 @@ _parsing : `enabled`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| News | True | 3 | 09:06 22/09/2021 | `x2miyuiwpib2imjr5ykyjngdu7v6vprkkhjltrk4qafymtawey4qzwid.onion` |
+| News | True | 3 | 10:06 22/09/2021 | `x2miyuiwpib2imjr5ykyjngdu7v6vprkkhjltrk4qafymtawey4qzwid.onion` |
 | none | False | 2 | 00:00 01/05/2021 | `nbzzb6sa6xuura2z.onion` |
 
 | post | date |
@@ -54,7 +54,7 @@ _parsing : `enabled`_
 | `Glen Dimplex Home Appliances` | 09/09/2021 |
 | `Tri-signal Intergration` | 09/09/2021 |
 
-## 🧨 lv
+## 👹 lv
 
 _parsing : `disabled`_
 
@@ -68,13 +68,13 @@ _`parser needs to be built`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| LV Blog | True | 3 | 09:06 22/09/2021 | `rbvuetuneohce3ouxjlbxtimyyxokb4btncxjbo44fbgxqy7tskinwad.onion` |
-| LV Blog | True | 3 | 09:07 22/09/2021 | `4qbxi3i2oqmyzxsjg4fwe4aly3xkped52gq5orp6efpkeskvchqe27id.onion` |
+| LV Blog | True | 3 | 10:06 22/09/2021 | `rbvuetuneohce3ouxjlbxtimyyxokb4btncxjbo44fbgxqy7tskinwad.onion` |
+| LV Blog | True | 3 | 10:07 22/09/2021 | `4qbxi3i2oqmyzxsjg4fwe4aly3xkped52gq5orp6efpkeskvchqe27id.onion` |
 
 | post | date |
 |---|---|
 
-## 🧸 lorenz
+## 🧮 lorenz
 
 _parsing : `enabled`_
 
@@ -84,7 +84,7 @@ _parsing : `enabled`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| Lorenz | True | 3 | 09:07 22/09/2021 | `lorenzmlwpzgxq736jzseuterytjueszsvznuibanxomlpkyxk6ksoyd.onion` |
+| Lorenz | True | 3 | 10:07 22/09/2021 | `lorenzmlwpzgxq736jzseuterytjueszsvznuibanxomlpkyxk6ksoyd.onion` |
 
 | post | date |
 |---|---|
@@ -106,7 +106,7 @@ _parsing : `enabled`_
 | `Commport Communications` | 20/12/2020 |
 | `SCREEN Holdings` | 21/09/2021 |
 
-## ❤️‍🔥 lockbit2
+## 👹 lockbit2
 
 _parsing : `enabled`_
 
@@ -272,18 +272,18 @@ _parsing : `enabled`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| Hive | True | 3 | 09:07 22/09/2021 | `hiveleakdbtnp76ulyhi52eag6c6tyc3xw7ez7iqy6wc34gd2nekazyd.onion` |
+| Hive | True | 3 | 10:07 22/09/2021 | `hiveleakdbtnp76ulyhi52eag6c6tyc3xw7ez7iqy6wc34gd2nekazyd.onion` |
 
 | post | date |
 |---|---|
 
-## 🦑 arvinclub
+## 🧰 arvinclub
 
 _parsing : `enabled`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| Arvin Club – آزادی برای اتصال | True | 3 | 09:07 22/09/2021 | `3kp6j22pz3zkv76yutctosa6djpj4yib2icvdqxucdaxxedumhqicpad.onion` |
+| Arvin Club – آزادی برای اتصال | True | 3 | 10:07 22/09/2021 | `3kp6j22pz3zkv76yutctosa6djpj4yib2icvdqxucdaxxedumhqicpad.onion` |
 
 | post | date |
 |---|---|
@@ -300,7 +300,7 @@ _parsing : `enabled`_
 | `Compilation of Many Breaches (COMB)` | 10/09/2021 |
 | `Bureau van Dijk(bvdinfo.com)` | 20/09/2021 |
 
-## 🌀 avoslocker
+## 🦆 avoslocker
 
 _parsing : `enabled`_
 
@@ -310,7 +310,7 @@ _parsing : `enabled`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| AvosLocker Anti-DDoS | True | 3 | 09:07 22/09/2021 | `avosqxh72b5ia23dl5fgwcpndkctuzqvh2iefk5imp3pi5gfhel5klad.onion` |
+| AvosLocker Anti-DDoS | True | 3 | 10:07 22/09/2021 | `avosqxh72b5ia23dl5fgwcpndkctuzqvh2iefk5imp3pi5gfhel5klad.onion` |
 
 | post | date |
 |---|---|
@@ -330,7 +330,7 @@ _parsing : `enabled`_
 | `Arabian Cargo Group` | 13/06/2021 |
 | `AvosLocker is officially online!` | 01/01/2021 |
 
-## 🦆 grief
+## 🧸 grief
 
 :warning: _has a captcha_
 
@@ -342,12 +342,12 @@ _parsing : `disabled`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| Grief list | True | 3 | 09:08 22/09/2021 | `griefcameifmv4hfr3auozmovz5yi6m3h3dwbuqw7baomfxoxz4qteid.onion` |
+| Grief list | True | 3 | 10:08 22/09/2021 | `griefcameifmv4hfr3auozmovz5yi6m3h3dwbuqw7baomfxoxz4qteid.onion` |
 
 | post | date |
 |---|---|
 
-## 🦁 avaddon
+## 🦈 avaddon
 
 _parsing : `enabled`_
 
@@ -504,7 +504,7 @@ _parsing : `enabled`_
 | `Sky Leasing, LLC` | 09/09/2021 |
 | `EFCO forms` | 09/09/2021 |
 
-## 💎 vicesociety
+## 🦑 vicesociety
 
 _parsing : `disabled`_
 
@@ -519,7 +519,7 @@ _parsing : `disabled`_
 | post | date |
 |---|---|
 
-## 🎲 xinglocker
+## 🦑 xinglocker
 
 _parsing : `enabled`_
 
@@ -531,7 +531,7 @@ _`xing use a custom mountlocker exe`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| 星Team News | True | 3 | 09:08 22/09/2021 | `xingnewj6m4qytljhfwemngm7r7rogrindbq7wrfeepejgxc3bwci7qd.onion` |
+| 星Team News | True | 3 | 10:08 22/09/2021 | `xingnewj6m4qytljhfwemngm7r7rogrindbq7wrfeepejgxc3bwci7qd.onion` |
 
 | post | date |
 |---|---|
@@ -555,7 +555,7 @@ _`xing use a custom mountlocker exe`_
 | `Pezzuto Group` | 29/04/2021 |
 | `NAVNIT GROUP` | 29/04/2021 |
 
-## 🧮 darkside
+## 🔋 darkside
 
 _parsing : `disabled`_
 
@@ -570,7 +570,7 @@ _parsing : `disabled`_
 | post | date |
 |---|---|
 
-## 🎲 ragnarlocker
+## 🍺 ragnarlocker
 
 _parsing : `enabled`_
 
@@ -581,7 +581,7 @@ _parsing : `enabled`_
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
 | none | False | 2 | 00:00 01/05/2021 | `rgleak7op734elep.onion` |
-| Home Page of Ragnar_Locker Leaks site | True | 3 | 09:10 22/09/2021 | `rgleaktxuey67yrgspmhvtnrqtgogur35lwdrup4d3igtbm3pupc4lyd.onion` |
+| Home Page of Ragnar_Locker Leaks site | True | 3 | 10:08 22/09/2021 | `rgleaktxuey67yrgspmhvtnrqtgogur35lwdrup4d3igtbm3pupc4lyd.onion` |
 | none | False | 2 | 00:00 01/05/2021 | `p6o7m73ujalhgkiv.onion` |
 
 | post | date |
@@ -629,7 +629,7 @@ _parsing : `enabled`_
 | `Primary Residential Mortgage inc. - Leaked` | 11/09/2021 |
 | `FULL DATA LEAK of Primary Residential Mortgage, Inc. //` | 14/09/2021 |
 
-## 🦆 clop
+## 🧻 clop
 
 :warning: _has a captcha_
 
@@ -642,7 +642,7 @@ _parsing : `enabled`_
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
 | none | False | 2 | 00:00 01/05/2021 | `ekbgzchl6x2ias37.onion` |
-| Access Queue | True | 3 | 09:10 22/09/2021 | `santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad.onion` |
+| Access Queue | True | 3 | 10:08 22/09/2021 | `santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad.onion` |
 
 | post | date |
 |---|---|
@@ -831,7 +831,7 @@ _parsing : `enabled`_
 | `MARNELLCOMPANIES.COM` | 10/09/2021 |
 | `FOODLAND.COM FILES  ` | 10/09/2021 |
 
-## 🧰 netwalker
+## 🎲 netwalker
 
 _parsing : `disabled`_
 
@@ -848,7 +848,7 @@ _parsing : `disabled`_
 | post | date |
 |---|---|
 
-## 🧲 doppelpaymer
+## 🌀 doppelpaymer
 
 :warning: _has a captcha_
 
@@ -867,7 +867,7 @@ _parsing : `disabled`_
 | post | date |
 |---|---|
 
-## 👹 revil
+## 🧭 revil
 
 _parsing : `enabled`_
 
@@ -879,8 +879,8 @@ _parsing : `enabled`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| Happy Blog  | True | 3 | 09:11 22/09/2021 | `dnpscnbaix6nkwvystl3yxglz7nteicqrou3t75tpcc5532cztc46qyd.onion` |
-| none | True | 3 | 09:11 22/09/2021 | `aplebzu47wgazapdqks6vrcv6zcnjppkbxbr6wketf56nf6aq2nmyoyd.onion` |
+| Happy Blog  | True | 3 | 10:09 22/09/2021 | `dnpscnbaix6nkwvystl3yxglz7nteicqrou3t75tpcc5532cztc46qyd.onion` |
+| none | True | 3 | 10:09 22/09/2021 | `aplebzu47wgazapdqks6vrcv6zcnjppkbxbr6wketf56nf6aq2nmyoyd.onion` |
 
 | post | date |
 |---|---|
@@ -907,7 +907,7 @@ _parsing : `enabled`_
 | `ohiograting.com` | 11/09/2021 |
 | `Spiezle Architectural Group Inc.` | 16/09/2021 |
 
-## 🌀 everest
+## 🛎️ everest
 
 _parsing : `enabled`_
 
@@ -915,7 +915,7 @@ _parsing : `enabled`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| Everest ransom team | True | 3 | 09:11 22/09/2021 | `ransomocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexfook2j7esad.onion` |
+| Everest ransom team | True | 3 | 10:09 22/09/2021 | `ransomocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexfook2j7esad.onion` |
 
 | post | date |
 |---|---|
@@ -937,7 +937,7 @@ _parsing : `enabled`_
 | `Irish Pioneer works` | 13/09/2021 |
 | `Steel Projects` | 17/09/2021 |
 
-## 🧽 ragnarok
+## 🦆 ragnarok
 
 _parsing : `enabled`_
 
@@ -958,7 +958,7 @@ _`shut down & offering a decryptor`_
 |---|---|
 | `Decrypt` | 09/09/2021 |
 
-## 🧸 conti
+## 🔮 conti
 
 _parsing : `enabled`_
 
@@ -968,7 +968,7 @@ _parsing : `enabled`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| CONTI.News | True | 3 | 09:12 22/09/2021 | `continewsnv5otx5kaoje7krkto2qbu3gtqef22mnr7eaxw3y6ncz3ad.onion` |
+| CONTI.News | True | 3 | 10:10 22/09/2021 | `continewsnv5otx5kaoje7krkto2qbu3gtqef22mnr7eaxw3y6ncz3ad.onion` |
 
 | post | date |
 |---|---|
@@ -994,8 +994,10 @@ _parsing : `enabled`_
 | `AMAX` | 16/09/2021 |
 | `Pines Ford Lincoln` | 20/09/2021 |
 | `aathonrton` | 20/09/2021 |
+| `NASCO Industries` | 22/09/2021 |
+| `PowerGrid Services` | 22/09/2021 |
 
-## 🦆 pysa
+## 🪂 pysa
 
 _parsing : `enabled`_
 
@@ -1005,7 +1007,7 @@ _parsing : `enabled`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| Pysa's Partners | True | 3 | 09:12 22/09/2021 | `pysa2bitc5ldeyfak4seeruqymqs4sj5wt5qkcq7aoyg4h2acqieywad.onion` |
+| Pysa's Partners | False | 3 | 09:12 22/09/2021 | `pysa2bitc5ldeyfak4seeruqymqs4sj5wt5qkcq7aoyg4h2acqieywad.onion` |
 
 | post | date |
 |---|---|
@@ -1230,7 +1232,7 @@ _parsing : `enabled`_
 | `One Community Health` | 13/09/2021 |
 | `Betson Enterprises` | 13/09/2021 |
 
-## ❤️‍🔥 nefilim
+## 🗿 nefilim
 
 _parsing : `enabled`_
 
@@ -1257,7 +1259,7 @@ _parsing : `enabled`_
 | `Grimmway Farms. Part 1.` | 09/09/2021 |
 | `Atlanta Allergy &#038; Asthma. Part 1.` | 09/09/2021 |
 
-## 🪂 maze
+## 🧸 maze
 
 _parsing : `disabled`_
 
@@ -1272,7 +1274,7 @@ _parsing : `disabled`_
 | post | date |
 |---|---|
 
-## 🗿 mount-locker
+## 🔋 mount-locker
 
 _parsing : `enabled`_
 
@@ -1287,7 +1289,7 @@ _parsing : `enabled`_
 | post | date |
 |---|---|
 
-## 🧰 babuk-locker
+## 🔋 babuk-locker
 
 _parsing : `enabled`_
 
@@ -1299,13 +1301,13 @@ _parsing : `enabled`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| RAMP :) | True | 3 | 09:12 22/09/2021 | `wavbeudogz6byhnardd2lkp2jafims3j7tj6k6qnywchn2csngvtffqd.onion` |
-| Babuk - Leaks site | True | 3 | 09:12 22/09/2021 | `nq4zyac4ukl4tykmidbzgdlvaboqeqsemkp4t35bzvjeve6zm2lqcjid.onion` |
+| RAMP :) | True | 3 | 10:12 22/09/2021 | `wavbeudogz6byhnardd2lkp2jafims3j7tj6k6qnywchn2csngvtffqd.onion` |
+| Babuk - Leaks site | True | 3 | 10:12 22/09/2021 | `nq4zyac4ukl4tykmidbzgdlvaboqeqsemkp4t35bzvjeve6zm2lqcjid.onion` |
 
 | post | date |
 |---|---|
 
-## 🧻 ransomexx
+## 🧨 ransomexx
 
 _parsing : `enabled`_
 
@@ -1317,7 +1319,7 @@ _parsing : `enabled`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| RANSOMEXX | True | 3 | 09:12 22/09/2021 | `rnsm777cdsjrsdlbs4v5qoeppu3px6sb2igmh53jzrx7ipcrbjz5b2ad.onion` |
+| RANSOMEXX | True | 3 | 10:12 22/09/2021 | `rnsm777cdsjrsdlbs4v5qoeppu3px6sb2igmh53jzrx7ipcrbjz5b2ad.onion` |
 
 | post | date |
 |---|---|
@@ -1343,7 +1345,7 @@ _parsing : `enabled`_
 | `Ultrapar Participações S.A.` | 09/09/2021 |
 | `United Carton Industries Company Ltd` | 20/09/2021 |
 
-## 🦈 cuba
+## 🪂 cuba
 
 _parsing : `enabled`_
 
@@ -1366,7 +1368,7 @@ _parsing : `enabled`_
 | `First Coast Logistics Services, Inc. was founded in 1999. The Company's line of business i` | 09/09/2021 |
 | `The Squamish Nation is comprised of descendants of the Coast Salish Aboriginal peoples who` | 09/09/2021 |
 
-## 🎲 pay2key
+## 🧨 pay2key
 
 _parsing : `enabled`_
 
@@ -1374,7 +1376,7 @@ _parsing : `enabled`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| Pay2Key Leak Directory! | True | 3 | 09:12 22/09/2021 | `pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion` |
+| Pay2Key Leak Directory! | True | 3 | 10:13 22/09/2021 | `pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion` |
 
 | post | date |
 |---|---|
@@ -1385,7 +1387,7 @@ _parsing : `enabled`_
 | `INTER - InterElectric` | 09/09/2021 |
 | `MT-LAW [Markman&Tomashin Law Firm]` | 09/09/2021 |
 
-## 💈 aztroteam
+## 🧨 aztroteam
 
 _parsing : `enabled`_
 
@@ -1396,7 +1398,7 @@ _parsing : `enabled`_
 | post | date |
 |---|---|
 
-## 🦑 lockdata
+## 🦆 lockdata
 
 _parsing : `enabled`_
 
@@ -1408,7 +1410,7 @@ _`marketplace`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| LockData Auction | True | 3 | 09:12 22/09/2021 | `wm6mbuzipviusuc42kcggzkdpbhuv45sn7olyamy6mcqqked3waslbqd.onion` |
+| LockData Auction | True | 3 | 10:13 22/09/2021 | `wm6mbuzipviusuc42kcggzkdpbhuv45sn7olyamy6mcqqked3waslbqd.onion` |
 
 | post | date |
 |---|---|
@@ -1418,7 +1420,7 @@ _`marketplace`_
 | `[Saudi Arabia] Al Wefag Trading & Manufacturing` | 09/09/2021 |
 | `[USA] OrthoCare, 700 Lake Ave, Ste 6, Manchester, New Hampshire, 03103` | 09/09/2021 |
 
-## 🍟 blacktor
+## 🦆 blacktor
 
 _parsing : `enabled`_
 
@@ -1430,7 +1432,7 @@ _parsing : `enabled`_
 |---|---|
 | `2020/04` | 09/09/2021 |
 
-## 🦁 haron
+## 🧰 haron
 
 _parsing : `disabled`_
 
@@ -1442,12 +1444,12 @@ _`login page, no posts`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| Clients page | True | 3 | 09:12 22/09/2021 | `ft4zr2jzlqoyob7yg4fcpwyt37hox3ajajqnfkdvbfrkjioyunmqnpad.onion` |
+| Clients page | True | 3 | 10:13 22/09/2021 | `ft4zr2jzlqoyob7yg4fcpwyt37hox3ajajqnfkdvbfrkjioyunmqnpad.onion` |
 
 | post | date |
 |---|---|
 
-## 🧰 darkleakmarket
+## 🦆 darkleakmarket
 
 _parsing : `enabled`_
 
@@ -1455,7 +1457,7 @@ _`marketplace commonly used by affiliates - not a ransomware crew`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| Dark Leak Market | True | 3 | 09:13 22/09/2021 | `54rdhzjzc4ids4u4wata4zr4ywfon5wpz2ml4q3avelgadpvmdal2vqd.onion` |
+| Dark Leak Market | True | 3 | 10:13 22/09/2021 | `54rdhzjzc4ids4u4wata4zr4ywfon5wpz2ml4q3avelgadpvmdal2vqd.onion` |
 
 | post | date |
 |---|---|
@@ -1486,7 +1488,7 @@ _`marketplace commonly used by affiliates - not a ransomware crew`_
 | `Solar Winds Data Leak` | 09/09/2021 |
 | `American Bank Systems INC Data Leak` | 09/09/2021 |
 
-## 🔮 prometheus
+## 🗿 prometheus
 
 _parsing : `disabled`_
 
@@ -1503,7 +1505,7 @@ _parsing : `disabled`_
 | post | date |
 |---|---|
 
-## 🍟 blackmatter
+## 🧰 blackmatter
 
 _parsing : `enabled`_
 
@@ -1513,7 +1515,7 @@ _parsing : `enabled`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| BlackMatter | True | 3 | 09:13 22/09/2021 | `blackmax7su6mbwtcyo3xwtpfxpm356jjqrs34y4crcytpw7mifuedyd.onion` |
+| BlackMatter | True | 3 | 10:13 22/09/2021 | `blackmax7su6mbwtcyo3xwtpfxpm356jjqrs34y4crcytpw7mifuedyd.onion` |
 
 | post | date |
 |---|---|
@@ -1542,7 +1544,7 @@ _parsing : `enabled`_
 | `LA-Martiniquaise` | 20/09/2021 |
 | `Bumper to Bumper Autoparts` | 21/09/2021 |
 
-## 🧰 payloadbin
+## 🗑️ payloadbin
 
 _parsing : `enabled`_
 
@@ -1550,7 +1552,7 @@ _parsing : `enabled`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| Payload.bin | True | 3 | 09:13 22/09/2021 | `vbmisqjshn4yblehk2vbnil53tlqklxsdaztgphcilto3vdj4geao5qd.onion` |
+| Payload.bin | True | 3 | 10:13 22/09/2021 | `vbmisqjshn4yblehk2vbnil53tlqklxsdaztgphcilto3vdj4geao5qd.onion` |
 
 | post | date |
 |---|---|
@@ -1574,7 +1576,7 @@ _parsing : `enabled`_
 | `Capstoneins.com` | 09/09/2021 |
 | `Reconservices.com` | 09/09/2021 |
 
-## 🧮 groove
+## 🦑 groove
 
 _parsing : `enabled`_
 
@@ -1584,7 +1586,7 @@ _parsing : `enabled`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| Утечки | Groove | True | 3 | 09:13 22/09/2021 | `ws3dh6av66sjbxxkjpw5ao3wqzmtejnkzheswm4dz5rrwvular7xvkqd.onion` |
+| Утечки | Groove | True | 3 | 10:13 22/09/2021 | `ws3dh6av66sjbxxkjpw5ao3wqzmtejnkzheswm4dz5rrwvular7xvkqd.onion` |
 
 | post | date |
 |---|---|

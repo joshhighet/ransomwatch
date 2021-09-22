@@ -2,6 +2,8 @@
 
 | date | title | group |
 |---|---|---|
+| 2021-09-22 | `PowerGrid Services` | conti |
+| 2021-09-22 | `NASCO Industries` | conti |
 | 2021-09-22 | `jplegal.net ` | lockbit2 |
 | 2021-09-22 | `hotelservicepro... ` | lockbit2 |
 | 2021-09-22 | `drhrlaw.com ` | lockbit2 |
@@ -30,5 +32,3 @@
 | 2021-09-20 | `iiservz.com ` | lockbit2 |
 | 2021-09-20 | `Eisvogel Hubert Bernegger GmbH` | blackmatter |
 | 2021-09-20 | `Bureau van Dijk(bvdinfo.com)` | arvinclub |
-| 2021-09-20 | `drsdoors.com ` | lockbit2 |
-| 2021-09-20 | `westernspirits.... ` | lockbit2 |
