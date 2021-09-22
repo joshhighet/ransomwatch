@@ -2,6 +2,7 @@
 
 | date | title | group |
 |---|---|---|
+| 2021-09-22 | `BÖWE SYSTEC` | conti |
 | 2021-09-22 | `Marans Weisz & Newman, LLC` | conti |
 | 2021-09-22 | `rlsblaw.com` | lockbit2 |
 | 2021-09-22 | `PowerGrid Services` | conti |
@@ -31,4 +32,3 @@
 | 2021-09-20 | `johncockerillin... ` | lockbit2 |
 | 2021-09-20 | `ds.net.au ` | lockbit2 |
 | 2021-09-20 | `marriott.com/ho... ` | lockbit2 |
-| 2021-09-20 | `iiservz.com ` | lockbit2 |
