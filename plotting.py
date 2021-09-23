@@ -39,7 +39,7 @@ def groupreportmonthly():
         else:
             group_counts[post['group_name']] = 1
     # sort the group_counts - descending
-    sorted_group_counts = sorted(group_counts.items(), key=lambda x: x[1], reverse=True)
+    # sorted_group_counts = sorted(group_counts.items(), key=lambda x: x[1], reverse=True)
     # create a list of months
     months = []
     for post in posts:
@@ -81,7 +81,7 @@ def groupreportyearly():
         else:
             group_counts[post['group_name']] = 1
     # sort the group_counts - descending
-    sorted_group_counts = sorted(group_counts.items(), key=lambda x: x[1], reverse=True)
+    # sorted_group_counts = sorted(group_counts.items(), key=lambda x: x[1], reverse=True)
     # create a list of years
     years = []
     for post in posts:

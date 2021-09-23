@@ -261,63 +261,6 @@ def checktcp(host, port):
     stdlog('sharedutils: ' + 'socket - failed connection')
     return False
 
-def makewebhook(adaptivecard):
-    '''
-    creates a universal webhook for the msft adaptive card
-    https://adaptivecards.io
-    '''
-    webhook = {
-        'type': 'message',
-        'attachments': [
-            {
-            'contentType': 'application/vnd.microsoft.card.adaptive',
-            'contentUrl': None,
-            'content': adaptivecard
-            }
-        ]
-    }
-    dbglog('sharedutils: ' + 'composed webhook - ' + str(webhook))
-    return webhook
-
-def composecarditem(groupname, victims):
-    '''
-    create the card for the adaptive card webhook
-    '''
-    groupitem = {
-        'type': 'ColumnSet',
-        'columns': [
-            {
-                'type': 'Column',
-                'width': 'auto',
-                'items': [
-                    {
-                        'type': 'TextBlock',
-                        'text': groupname,
-                        'wrap': True,
-                        'weight': 'Bolder'
-                    }
-                ]
-            },
-            {
-                'type': 'Column',
-                'width': 'stretch',
-                'items': [
-                    {
-                        'type': 'RichTextBlock',
-                        'inlines': [
-                            {
-                                'type': 'TextRun',
-                                'text': victims
-                            }
-                        ]
-                    }
-                ]
-            }
-        ]
-    }
-    dbglog('sharedutils: ' + 'composed card item - ' + str(groupitem))
-    return groupitem
-
 def postcount():
     post_count = 1
     posts = openjson('posts.json')

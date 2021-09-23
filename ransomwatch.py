@@ -7,7 +7,6 @@ does what it says on the tin
 '''
 import os
 import json
-import requests
 import argparse
 from datetime import datetime
 # local imports
@@ -17,12 +16,9 @@ from sharedutils import striptld
 from sharedutils import openjson
 from sharedutils import checktcp
 from sharedutils import siteschema
-from sharedutils import runshellcmd
-from sharedutils import makewebhook
 from sharedutils import socksfetcher
 from sharedutils import getsitetitle
 from sharedutils import getonionversion
-from sharedutils import composecarditem
 from sharedutils import checkgeckodriver
 from sharedutils import sockshost, socksport
 from sharedutils import stdlog, dbglog, errlog, honk
@@ -63,7 +59,6 @@ if args.location:
     siteinfo = getonionversion(args.location)
     if siteinfo[0] is None:
         parser.error("location does not appear to be a v2 or v3 onionsite")
-    location = siteinfo[1]
 
 def creategroup(name, location):
     '''

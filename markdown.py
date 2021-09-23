@@ -112,7 +112,6 @@ def sidebar():
     writeline(sidebar, '- [recent](recentposts.md)')
     writeline(sidebar, '- [stats](stats.md)')
     writeline(sidebar, '- [profiles](profiles.md)')
-    groups = openjson('groups.json')
 
 def statspage():
     '''
