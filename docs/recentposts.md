@@ -2,6 +2,9 @@
 
 | date | title | group |
 |---|---|---|
+| 2021-09-23 | `daylewis.co.uk ` | lockbit2 |
+| 2021-09-23 | `buffingtonlawfi... ` | lockbit2 |
+| 2021-09-23 | `sete.co.uk ` | lockbit2 |
 | 2021-09-23 | `Office Star Products` | conti |
 | 2021-09-23 | `www.daylewis.co... ` | lockbit2 |
 | 2021-09-23 | `https://www.buf... ` | lockbit2 |
@@ -29,6 +32,3 @@
 | 2021-09-20 | `Pines Ford Lincoln` | conti |
 | 2021-09-20 | `JMclaughlin` | blackmatter |
 | 2021-09-20 | `CasagrandeGroup` | blackmatter |
-| 2021-09-20 | `BCP Securities` | blackmatter |
-| 2021-09-20 | `United Carton Industries Company Ltd` | ransomexx |
-| 2021-09-20 | `Pramer Baustoffe GmbH` | blackmatter |
