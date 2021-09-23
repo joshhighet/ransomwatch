@@ -1,6 +1,6 @@
 ## 📰 summary - september 23rd, 2021
 
-currently tracking `39` groups across `47` various relays and mirrors - _`24` of which are online_
+currently tracking `39` groups across `47` various relays and mirrors - _`26` of which are online_
 
 there are currently `30` active parsers, `9` of which requiring headless browsers - _`3` groups have introduced captchas this year_
 
@@ -24,11 +24,11 @@ there are currently `30` active parsers, `9` of which requiring headless browser
 | synack | end of game | ⬇️ 🔴 | 2021-08-18 | xqkz2rmrqkeqf6sjbrb47jfwnqxcd4o2zvaxxzrpbh2piknms37rw2ad.onion |
 | suncrypt | News | ⬆️ 🟢 |  | x2miyuiwpib2imjr5ykyjngdu7v6vprkkhjltrk4qafymtawey4qzwid.onion |
 | suncrypt |  | ⬇️ 🔴 | 2021-05-01 | nbzzb6sa6xuura2z.onion |
-| lv | LV Blog | ⬇️ 🔴 | 2021-09-23 | rbvuetuneohce3ouxjlbxtimyyxokb4btncxjbo44fbgxqy7tskinwad.onion |
+| lv | LV Blog | ⬆️ 🟢 |  | rbvuetuneohce3ouxjlbxtimyyxokb4btncxjbo44fbgxqy7tskinwad.onion |
 | lv | LV Blog | ⬆️ 🟢 |  | 4qbxi3i2oqmyzxsjg4fwe4aly3xkped52gq5orp6efpkeskvchqe27id.onion |
 | lorenz | Lorenz | ⬆️ 🟢 |  | lorenzmlwpzgxq736jzseuterytjueszsvznuibanxomlpkyxk6ksoyd.onion |
 | lockbit2 | LockBit BLOG | ⬇️ 🔴 | 2021-09-22 | lockbitapt6vx57t3eeqjofwgcglmutr3a35nygvokja5uuccip4ykyd.onion |
-| hive | Hive | ⬇️ 🔴 | 2021-09-23 | hiveleakdbtnp76ulyhi52eag6c6tyc3xw7ez7iqy6wc34gd2nekazyd.onion |
+| hive | Hive | ⬆️ 🟢 |  | hiveleakdbtnp76ulyhi52eag6c6tyc3xw7ez7iqy6wc34gd2nekazyd.onion |
 | arvinclub | Arvin Club – آزادی برای اتصال | ⬆️ 🟢 |  | 3kp6j22pz3zkv76yutctosa6djpj4yib2icvdqxucdaxxedumhqicpad.onion |
 | avoslocker | AvosLocker Anti-DDoS | ⬆️ 🟢 |  | avosqxh72b5ia23dl5fgwcpndkctuzqvh2iefk5imp3pi5gfhel5klad.onion |
 | grief | Grief list | ⬆️ 🟢 |  | griefcameifmv4hfr3auozmovz5yi6m3h3dwbuqw7baomfxoxz4qteid.onion |
