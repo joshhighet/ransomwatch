@@ -2,6 +2,11 @@
 
 | date | title | group |
 |---|---|---|
+| 2021-09-23 | `Office Star Products` | conti |
+| 2021-09-23 | `www.daylewis.co... ` | lockbit2 |
+| 2021-09-23 | `https://www.buf... ` | lockbit2 |
+| 2021-09-23 | `robsonstreet.ca ` | lockbit2 |
+| 2021-09-23 | `tes-amm.com ` | lockbit2 |
 | 2021-09-23 | `Real Time` | conti |
 | 2021-09-22 | `BÖWE SYSTEC` | conti |
 | 2021-09-22 | `Marans Weisz & Newman, LLC` | conti |
@@ -27,8 +32,3 @@
 | 2021-09-20 | `BCP Securities` | blackmatter |
 | 2021-09-20 | `United Carton Industries Company Ltd` | ransomexx |
 | 2021-09-20 | `Pramer Baustoffe GmbH` | blackmatter |
-| 2021-09-20 | `Ellerboeck` | blackmatter |
-| 2021-09-20 | `Citrocasa GmbH` | blackmatter |
-| 2021-09-20 | `Actief-Jobmade` | blackmatter |
-| 2021-09-20 | `johncockerillin... ` | lockbit2 |
-| 2021-09-20 | `ds.net.au ` | lockbit2 |
