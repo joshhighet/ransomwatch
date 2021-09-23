@@ -2,6 +2,7 @@
 
 | date | title | group |
 |---|---|---|
+| 2021-09-23 | `PeakLogix` | conti |
 | 2021-09-23 | `daylewis.co.uk ` | lockbit2 |
 | 2021-09-23 | `buffingtonlawfi... ` | lockbit2 |
 | 2021-09-23 | `sete.co.uk ` | lockbit2 |
@@ -31,4 +32,3 @@
 | 2021-09-20 | `LA-Martiniquaise` | blackmatter |
 | 2021-09-20 | `Pines Ford Lincoln` | conti |
 | 2021-09-20 | `JMclaughlin` | blackmatter |
-| 2021-09-20 | `CasagrandeGroup` | blackmatter |
