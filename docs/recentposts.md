@@ -2,6 +2,9 @@
 
 | date | title | group |
 |---|---|---|
+| 2021-09-24 | `Cedar Grove Composting` | conti |
+| 2021-09-24 | `Vera Wang Group` | conti |
+| 2021-09-24 | `Jakes Finer Foods` | conti |
 | 2021-09-24 | `IJmond Werkt` | conti |
 | 2021-09-24 | `IN2 Engineering` | conti |
 | 2021-09-24 | `jaylon.com.au ` | lockbit2 |
@@ -29,6 +32,3 @@
 | 2021-09-22 | `hoffsuemmer.de ` | lockbit2 |
 | 2021-09-22 | `wijnendeclerck.... ` | lockbit2 |
 | 2021-09-22 | `ebarc.adv.br ` | lockbit2 |
-| 2021-09-22 | `shop.jerryleigh... ` | lockbit2 |
-| 2021-09-22 | `j-addington.com ` | lockbit2 |
-| 2021-09-21 | `SCREEN Holdings` | lorenz |
