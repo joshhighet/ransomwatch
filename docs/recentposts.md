@@ -2,6 +2,7 @@
 
 | date | title | group |
 |---|---|---|
+| 2021-09-24 | `Gigabyte Data Leak` | darkleakmarket |
 | 2021-09-24 | `Cedar Grove Composting` | conti |
 | 2021-09-24 | `Vera Wang Group` | conti |
 | 2021-09-24 | `Jakes Finer Foods` | conti |
@@ -31,4 +32,3 @@
 | 2021-09-22 | `esopro.com ` | lockbit2 |
 | 2021-09-22 | `hoffsuemmer.de ` | lockbit2 |
 | 2021-09-22 | `wijnendeclerck.... ` | lockbit2 |
-| 2021-09-22 | `ebarc.adv.br ` | lockbit2 |
