@@ -2,6 +2,11 @@
 
 | date | title | group |
 |---|---|---|
+| 2021-09-25 | `www.myyp.com` | payloadbin |
+| 2021-09-25 | `Huali Industrial Group` | avoslocker |
+| 2021-09-25 | `Whitefish River First Nation` | avoslocker |
+| 2021-09-25 | `Unified Technologies` | avoslocker |
+| 2021-09-25 | `Amphenol Canada` | avoslocker |
 | 2021-09-25 | `scisairsecurity... ` | lockbit2 |
 | 2021-09-25 | `advantecmfs.com ` | lockbit2 |
 | 2021-09-25 | `peabodyproperti... ` | lockbit2 |
@@ -27,8 +32,3 @@
 | 2021-09-23 | `Real Time` | conti |
 | 2021-09-22 | `BÖWE SYSTEC` | conti |
 | 2021-09-22 | `Marans Weisz & Newman, LLC` | conti |
-| 2021-09-22 | `rlsblaw.com` | lockbit2 |
-| 2021-09-22 | `PowerGrid Services` | conti |
-| 2021-09-22 | `NASCO Industries` | conti |
-| 2021-09-22 | `jplegal.net ` | lockbit2 |
-| 2021-09-22 | `hotelservicepro... ` | lockbit2 |
