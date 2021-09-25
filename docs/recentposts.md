@@ -2,6 +2,10 @@
 
 | date | title | group |
 |---|---|---|
+| 2021-09-25 | `scisairsecurity... ` | lockbit2 |
+| 2021-09-25 | `advantecmfs.com ` | lockbit2 |
+| 2021-09-25 | `peabodyproperti... ` | lockbit2 |
+| 2021-09-25 | `dataspeed.it ` | lockbit2 |
 | 2021-09-24 | `Gigabyte Data Leak` | darkleakmarket |
 | 2021-09-24 | `Cedar Grove Composting` | conti |
 | 2021-09-24 | `Vera Wang Group` | conti |
@@ -28,7 +32,3 @@
 | 2021-09-22 | `NASCO Industries` | conti |
 | 2021-09-22 | `jplegal.net ` | lockbit2 |
 | 2021-09-22 | `hotelservicepro... ` | lockbit2 |
-| 2021-09-22 | `drhrlaw.com ` | lockbit2 |
-| 2021-09-22 | `esopro.com ` | lockbit2 |
-| 2021-09-22 | `hoffsuemmer.de ` | lockbit2 |
-| 2021-09-22 | `wijnendeclerck.... ` | lockbit2 |
