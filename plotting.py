@@ -109,24 +109,3 @@ def groupreportyearly():
     fig = go.Figure(data=[go.Bar(x=labels, y=values)])
     fig.update_layout(title_text='posts by year')
     fig.write_image('docs/postsbyyear.png')
-
-def uptimechart():
-    '''
-    graph the uptime of all hosts in groups with plotly
-    '''
-    groups = openjson('groups.json')
-    # count hosts by availability
-    up = 0
-    down = 0
-    for group in groups:
-        # count by available key
-        for host in group['locations']:
-            if host['available'] is True:
-                up += 1
-            else:
-                down += 1
-    labels = ['up', 'down']
-    values = [up, down]
-    fig = go.Figure(data=[go.Pie(labels=labels, values=values)])
-    fig.update_layout(title_text='uptime overview')
-    fig.write_image('docs/uptime.png')

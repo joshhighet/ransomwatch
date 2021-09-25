@@ -172,6 +172,11 @@ def runshellcmd(cmd):
         stdout=subprocess.PIPE
         )
     response = cmdout.stdout.strip().split('\n')
+    '''
+    # if empty list output, error
+    if len(response) == 1:
+        honk('sharedutils: ' + 'shell command returned no output')
+    '''
     return response
 
 def getsitetitle(html) -> str:

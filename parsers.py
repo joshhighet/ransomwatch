@@ -159,8 +159,9 @@ def hiveleak():
 
 def avoslocker():
     stdlog('parser: ' + 'avoslocker')
+    # sed -n -e 's/^.*aria-hidden="true"><\/i> //p' source/avoslocker-*.html | cut -d "<" -f1
     parser = '''
-    sed -n -e 's/^.*aria-hidden="true"><\/i> //p' source/avoslocker-*.html | cut -d "<" -f1
+    egrep -o 'title="([[:alnum:]]| |\.)+"' source/avoslocker-*.html | cut -d '"' -f2
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:

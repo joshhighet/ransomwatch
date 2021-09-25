@@ -18,10 +18,9 @@ from sharedutils import postslast24h
 from sharedutils import currentmonthstr
 from sharedutils import countcaptchahosts
 
+from plotting import groupreportpie
 from plotting import groupreportyearly
 from plotting import groupreportmonthly
-from plotting import groupreportpie
-from plotting import uptimechart
 
 def suffix(d):
     return 'th' if 11<=d<=13 else {1:'st',2:'nd',3:'rd'}.get(d%10, 'th')
@@ -125,7 +124,6 @@ def statspage():
     writeline(statspage, '')
     writeline(statspage, '![](postsbygroup.png)')
     writeline(statspage, '')
-    writeline(statspage, '![](uptime.png)')
     writeline(statspage, '')
     writeline(statspage, ':warning: _data capturing commenced in october 2021 - historic posts may not have accuratley accompanying timestamps before this period_')
     writeline(statspage, '')
@@ -243,6 +241,5 @@ def main():
     groupreportyearly()
     groupreportmonthly()
     groupreportpie()
-    uptimechart()
     statspage()
     profilepage()

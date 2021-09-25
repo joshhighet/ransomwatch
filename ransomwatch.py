@@ -18,11 +18,11 @@ from sharedutils import checktcp
 from sharedutils import siteschema
 from sharedutils import socksfetcher
 from sharedutils import getsitetitle
+from markdown import main as markdown
 from sharedutils import getonionversion
 from sharedutils import checkgeckodriver
 from sharedutils import sockshost, socksport
 from sharedutils import stdlog, dbglog, errlog, honk
-from markdown import main as markdown
 
 print(
     '''
@@ -67,8 +67,11 @@ def creategroup(name, location):
     location = siteschema(location)
     insertdata = {
         'name': name,
+        'captcha': bool(),
         'parser': bool(),
         'geckodriver': bool(),
+        'javascript_render': bool(),
+        'meta': None,
         'locations': [
             location
         ],
@@ -97,7 +100,7 @@ def scraper():
             stdlog('ransomwatch: ' + 'scraping ' + host['slug'])
             host['available'] = bool()
             '''
-            we can only scrape onion v3, july 2021
+            only scrape onion v3 unless using headless browser, not long before this will not be possible
             https://support.torproject.org/onionservices/v2-deprecation/
             '''
             if host['version'] >= 3:
@@ -164,7 +167,7 @@ def appender(name, location):
 
 def lister():
     '''
-    basic function to list out providers &  their addresses to a terminal
+    basic function to list out groups & addresses to term
     '''
     groups = openjson("groups.json")
     for group in groups:
