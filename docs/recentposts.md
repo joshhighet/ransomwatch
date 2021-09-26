@@ -2,6 +2,7 @@
 
 | date | title | group |
 |---|---|---|
+| 2021-09-26 | `iibg.ca ` | lockbit2 |
 | 2021-09-26 | `servisistanbul....` | lockbit2 |
 | 2021-09-25 | `www.myyp.com` | payloadbin |
 | 2021-09-25 | `Huali Industrial Group` | avoslocker |
@@ -31,4 +32,3 @@
 | 2021-09-23 | `robsonstreet.ca ` | lockbit2 |
 | 2021-09-23 | `tes-amm.com ` | lockbit2 |
 | 2021-09-23 | `Real Time` | conti |
-| 2021-09-22 | `BÖWE SYSTEC` | conti |
