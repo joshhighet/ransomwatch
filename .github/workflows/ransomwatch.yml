@@ -33,5 +33,5 @@ jobs:
         run: |
           git config --global user.email "theta-bot@users.noreply.github.com"
           git config --global user.name "theta-bot"
-          git commit --all --message "thetabot cron 👋" || echo "no changes to commit"
+          git commit --all --message "𝚌𝚛𝚘𝚗𝚋𝚘𝚝" || echo "no changes to commit"
           git push
