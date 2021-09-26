@@ -2,7 +2,7 @@
 
 ## [ransomwatch.telemetry.ltd](https://ransomwatch.telemetry.ltd)
 
-an onionsite scraping framework, built to watch and track ransomware blogs.
+an onionsite scraping framework, built to watch and track ransomware blogs
 
 > [virustotal/ransomwatch](https://www.virustotal.com/graph/embed/g75a36964bca04a668232875879a6417649d214d3dc7e4ae6a27b7465b1c15872)
 
@@ -21,17 +21,11 @@ curl -L ransomwhat.telemetry.ltd/groups | jq
 
  `posts.json` contains parsed posts, noted by their discovery time and accountable group
 
-the core engine and SOCKS5 relay run within GitHub Actions.
-
-as of writing a number of sites do not implement any form of CAPTCHA or alternate counter-scraping frameworks. 
-
-by and large we just fetch the raw HTML - in some cases further effort to fetch posts is required - this is where selenium & geckodriver come into play.
-
 ### GitHub Action
 
 [torproxy](https://github.com/thetanz/gotham) from the [**thetanz/gotham** registry](https://github.com/thetanz/gotham/pkgs/container/gotham%2Ftorproxy) exposes a tor SOCKS5 proxy to the GitHub Action through the use of a [Service Container](https://docs.github.com/en/actions/guides/about-service-containers)
 
-the GitHub Action runs on CRON, updating this repository with findings and generating markdown reports within `docs/` which are served through GitHub Pages.
+the GitHub Action runs on CRON, updating this repository with findings, dynamically generating markdown reports within `docs/` which are served through GitHub Pages.
 
 ## Usage
 
@@ -56,21 +50,13 @@ _manage the groups within [groups.json](groups.json)_
 ### add new group
 
 ```shell
-ransomwhere.py add --name acmecorp --location abcdefg.onion
-```
-_or_
-```shell
-docker run ghcr.io/thetanz/ransomwatch add --name acmecorp --location abcdefg.onion
+./ransomwhere.py add --name acmecorp --location abcdefg.onion
 ```
 
 ### add new mirror for an existing group
 
 ```shell
-ransomwhere.py append --name acmecorp --location abcdefghigklmnop.onion
-```
-_or_
-```shell
-docker run ghcr.io/thetanz/ransomwatch append --name acmecorp --location abcdefghigklmnop.onion
+./ransomwhere.py append --name acmecorp --location abcdefghigklmnop.onion
 ```
 
 ## Scraping
@@ -78,11 +64,7 @@ docker run ghcr.io/thetanz/ransomwatch append --name acmecorp --location abcdefg
 iterates any v3 onion addressses within [groups.json](groups.json), scraping raw HTML (no headless browsers or javascript processing) into [`source/`](source)
 
 ```shell
-ransomwhere.py scrape
-```
-_or_
-```shell
-docker run ghcr.io/thetanz/ransomwatch scrape
+./ransomwhere.py scrape
 ```
 
 ### Parsing
@@ -92,9 +74,5 @@ iterate files within the `source/` directory and contribute findings to `posts.j
 > postprocessing is done with a mix of `grep`, `awk` and `sed`. it's brittle and like any  ̴̭́H̶̤̓T̸̙̅M̶͇̾L̷͑ͅ ̴̙̏p̸̡͆a̷̛̦r̵̬̿s̴̙͛ĩ̴̺n̸̔͜g̸̘̈, has a limited lifetime.
 
 ```shell
-ransomwhere.py parse
-```
-_or_
-```shell
-docker run ghcr.io/thetanz/ransomwatch parse
+./ransomwhere.py parse
 ```
