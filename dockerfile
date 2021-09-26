@@ -4,12 +4,13 @@ LABEL org.opencontainers.image.source https://github.com/thetanz/ransomwatch
 
 COPY *.py /
 COPY *.json /
-COPY assets/ /assets/
+COPY assets/useragents.txt /assets/useragents.txt
 COPY requirements.txt /requirements.txt
 
 RUN apt-get update -yy
 RUN apt-get upgrade -yy
-RUN apt install -yy g++ gcc libxml2-dev \
+RUN apt install -yy \
+    g++ gcc libxml2-dev \
     libxslt-dev libffi-dev \
     make curl jq firefox-esr
 
