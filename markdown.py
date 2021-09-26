@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
+import os
+import time
 import random
 from datetime import datetime as dt
 
@@ -22,6 +24,8 @@ from plotting import groupreportpie
 from plotting import groupreportyearly
 from plotting import groupreportmonthly
 
+from sharedutils import stdlog, dbglog, errlog, honk
+
 def suffix(d):
     return 'th' if 11<=d<=13 else {1:'st',2:'nd',3:'rd'}.get(d%10, 'th')
 
@@ -40,6 +44,7 @@ def groupreport():
     '''
     create a list with number of posts per unique group
     '''
+    stdlog('generating group report')
     posts = openjson('posts.json')
     # count the number of posts by group_name within posts.json
     group_counts = {}
@@ -50,12 +55,14 @@ def groupreport():
             group_counts[post['group_name']] = 1
     # sort the group_counts - descending
     sorted_group_counts = sorted(group_counts.items(), key=lambda x: x[1], reverse=True)
+    stdlog('group report generated with %d groups' % len(sorted_group_counts))
     return sorted_group_counts
 
 def mainpage():
     '''
     main markdown report generator - used with github pages
     '''
+    stdlog('generating main page')
     uptime_sheet = 'docs/README.md'
     with open(uptime_sheet, 'w') as f:
         f.close()
@@ -84,7 +91,9 @@ def mainpage():
     writeline(uptime_sheet, header)
     writeline(uptime_sheet, '|---|---|---|---|---|')
     for group in groups:
+        stdlog('generating group report for ' + group['name'])
         for host in group['locations']:
+            stdlog('generating host report for ' + host['fqdn'])
             if host['available'] is True:
                 statusemoji = '⬆️ 🟢'
                 lastseen = ''
@@ -103,6 +112,7 @@ def sidebar():
     '''
     create a sidebar markdown report
     '''
+    stdlog('generating sidebar')
     sidebar = 'docs/_sidebar.md'
     # delete contents of file
     with open(sidebar, 'w') as f:
@@ -111,11 +121,13 @@ def sidebar():
     writeline(sidebar, '- [recent](recentposts.md)')
     writeline(sidebar, '- [stats](stats.md)')
     writeline(sidebar, '- [profiles](profiles.md)')
+    stdlog('sidebar generated')
 
 def statspage():
     '''
     create a stats page in markdown containing the plotly graphs
     '''
+    stdlog('generating stats page')
     statspage = 'docs/stats.md'
     # delete contents of file
     with open(statspage, 'w') as f:
@@ -130,11 +142,13 @@ def statspage():
     writeline(statspage, '![](postsbymonth.png)')
     writeline(statspage, '')
     writeline(statspage, '![](postsbyyear.png)')
+    stdlog('stats page generated')
 
 def recentposts(top):
     '''
     create a list the last X posts (most recent)
     '''
+    stdlog('finding recent posts')
     posts = openjson('posts.json')
     # sort the posts by timestamp - descending
     sorted_posts = sorted(posts, key=lambda x: x['discovered'], reverse=True)
@@ -144,10 +158,12 @@ def recentposts(top):
         recentposts.append(post)
         if len(recentposts) == top:
             break
+    stdlog('recent posts generated')
     return recentposts
 
 def recentpage():
     '''create a markdown table for the last 30 posts based on the discovered value'''
+    stdlog('generating recent posts page')
     recentpage = 'docs/recentposts.md'
     # delete contents of file
     with open(recentpage, 'w') as f:
@@ -165,11 +181,13 @@ def recentpage():
         group = post['group_name'].replace('|', '-')
         line = '| ' + date + ' | `' + title + '` | ' + group + ' |'
         writeline(recentpage, line)
+    stdlog('recent posts page generated')
 
 def profilepage():
     '''
     create a profile page for each group in their unique markdown files within docs/profiles
     '''
+    stdlog('generating profile pages')
     profilepage = 'docs/profiles.md'
     # delete contents of file
     with open(profilepage, 'w') as f:
@@ -180,7 +198,7 @@ def profilepage():
     groups = openjson('groups.json')
     for group in groups:
         emoji = emojis[random.randint(0, len(emojis)-1)]
-        writeline(profilepage, '## ' + emoji + ' ' + group['name'])
+        writeline(profilepage, '## ' + group['name'])
         writeline(profilepage, '')
         if group['captcha'] is True:
             writeline(profilepage, ':warning: _has a captcha_')
@@ -233,13 +251,21 @@ def profilepage():
                 line = '| ' + '`' + post['post_title'] + '`' + ' | ' + date + ' |'
                 writeline(profilepage, line)
         writeline(profilepage, '')
+        stdlog('profile page for ' + group['name'] + ' generated')
+    stdlog('profile page generation complete')
 
 def main():
+    stdlog('generating doco')
     mainpage()
     sidebar()
     recentpage()
-    groupreportyearly()
-    groupreportmonthly()
-    groupreportpie()
     statspage()
     profilepage()
+    # if posts.json has been modified within the last 45 mins, assume new posts discovered and recreate graphs
+    if os.path.getmtime('posts.json') > (time.time() - (45 * 60)):
+        stdlog('posts.json has been modified within the last 45 mins, assuming new posts discovered and recreating graphs')
+        groupreportyearly()
+        groupreportmonthly()
+        groupreportpie()
+    else:
+        stdlog('posts.json has not been modified within the last 45 mins, assuming no new posts discovered')
