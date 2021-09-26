@@ -1,18 +1,18 @@
 ## 📰 summary - september 26th, 2021
 
-currently tracking `39` groups across `47` various relays and mirrors - _`26` of which are online_
+currently tracking `39` groups across `47` various relays and mirrors - _`25` of which are online_
 
 there are currently `30` active parsers, `10` of which requiring headless browsers - _`3` groups have introduced captchas this year_
 
-⏲ there have been `11` posts within the `last 24 hours`
+⏲ there have been `12` posts within the `last 24 hours`
 
-🦈 there have been `972` posts within the `month of september`
+🦈 there have been `973` posts within the `month of september`
 
-🪐 there have been `985` posts within the `last 90 days`
+🪐 there have been `986` posts within the `last 90 days`
 
-🏚 there have been `1024` posts within the `year of 2021`
+🏚 there have been `1025` posts within the `year of 2021`
 
-🦕 there have been `1058` posts `since the dawn of ransomwatch`
+🦕 there have been `1059` posts `since the dawn of ransomwatch`
 
 > _the `11` sites using v2 onion services are no longer indexed - [support.torproject.org](https://support.torproject.org/onionservices/v2-deprecation/)_
 
@@ -48,7 +48,7 @@ there are currently `30` active parsers, `10` of which requiring headless browse
 | everest | Everest ransom team | ⬆️ 🟢 |  | ransomocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexfook2j7esad.onion |
 | ragnarok |  | ⬇️ 🔴 | 2021-05-01 | wobpitin77vdsdiswr43duntv6eqw4rvphedutpaxycjdie6gg3binad.onion |
 | ragnarok | Decrypt Site | ⬇️ 🔴 | 2021-08-27 | sushlnty2j7qdzy64qnvyb6ajkwg7resd3p6agc2widnawodtcedgjid.onion |
-| conti | CONTI.News | ⬆️ 🟢 |  | continewsnv5otx5kaoje7krkto2qbu3gtqef22mnr7eaxw3y6ncz3ad.onion |
+| conti | CONTI.News | ⬇️ 🔴 | 2021-09-26 | continewsnv5otx5kaoje7krkto2qbu3gtqef22mnr7eaxw3y6ncz3ad.onion |
 | pysa | Pysa's Partners | ⬆️ 🟢 |  | pysa2bitc5ldeyfak4seeruqymqs4sj5wt5qkcq7aoyg4h2acqieywad.onion |
 | nefilim |  | ⬇️ 🔴 | 2021-05-01 | hxt254aygrsziejn.onion |
 | maze |  | ⬇️ 🔴 | 2021-05-01 | xfr3txoorcyy7tikjgj5dk3rvo3vsrpyaxnclyohkbfp3h277ap4tiad.onion |
