@@ -2,6 +2,7 @@
 
 | date | title | group |
 |---|---|---|
+| 2021-09-27 | `Minjar Gold` | conti |
 | 2021-09-27 | `parcoinc` | conti |
 | 2021-09-27 | `WEST TREE SERVICE` | conti |
 | 2021-09-26 | `Unione Reno Galliera` | ransomexx |
@@ -31,4 +32,3 @@
 | 2021-09-23 | `daylewis.co.uk ` | lockbit2 |
 | 2021-09-23 | `buffingtonlawfi... ` | lockbit2 |
 | 2021-09-23 | `sete.co.uk ` | lockbit2 |
-| 2021-09-23 | `Office Star Products` | conti |
