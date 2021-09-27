@@ -1,18 +1,18 @@
 ## 📰 summary - september 27th, 2021
 
-currently tracking `39` groups across `47` various relays and mirrors - _`26` of which are online_
+currently tracking `39` groups across `47` various relays and mirrors - _`25` of which are online_
 
 there are currently `30` active parsers, `10` of which requiring headless browsers - _`3` groups have introduced captchas this year_
 
-⏲ there have been `1` posts within the `last 24 hours`
+⏲ there have been `2` posts within the `last 24 hours`
 
-🦈 there have been `976` posts within the `month of september`
+🦈 there have been `977` posts within the `month of september`
 
-🪐 there have been `989` posts within the `last 90 days`
+🪐 there have been `990` posts within the `last 90 days`
 
-🏚 there have been `1028` posts within the `year of 2021`
+🏚 there have been `1029` posts within the `year of 2021`
 
-🦕 there have been `1062` posts `since the dawn of ransomwatch`
+🦕 there have been `1063` posts `since the dawn of ransomwatch`
 
 > _the `11` sites using v2 onion services are no longer indexed - [support.torproject.org](https://support.torproject.org/onionservices/v2-deprecation/)_
 
@@ -31,7 +31,7 @@ there are currently `30` active parsers, `10` of which requiring headless browse
 | hive | Hive | ⬆️ 🟢 |  | hiveleakdbtnp76ulyhi52eag6c6tyc3xw7ez7iqy6wc34gd2nekazyd.onion |
 | arvinclub | Arvin Club – آزادی برای اتصال | ⬆️ 🟢 |  | 3kp6j22pz3zkv76yutctosa6djpj4yib2icvdqxucdaxxedumhqicpad.onion |
 | avoslocker | AvosLocker Press Releases | ⬆️ 🟢 |  | avosqxh72b5ia23dl5fgwcpndkctuzqvh2iefk5imp3pi5gfhel5klad.onion |
-| grief | Grief list | ⬆️ 🟢 |  | griefcameifmv4hfr3auozmovz5yi6m3h3dwbuqw7baomfxoxz4qteid.onion |
+| grief | Grief list | ⬇️ 🔴 | 2021-09-27 | griefcameifmv4hfr3auozmovz5yi6m3h3dwbuqw7baomfxoxz4qteid.onion |
 | avaddon |  | ⬇️ 🔴 | 2021-05-01 | avaddongun7rngel.onion |
 | vicesociety |  | ⬇️ 🔴 | 2021-05-01 | 4hzyuotli6maqa4u.onion |
 | xinglocker | 星Team News | ⬆️ 🟢 |  | xingnewj6m4qytljhfwemngm7r7rogrindbq7wrfeepejgxc3bwci7qd.onion |
