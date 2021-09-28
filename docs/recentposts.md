@@ -2,6 +2,9 @@
 
 | date | title | group |
 |---|---|---|
+| 2021-09-28 | `anasia.com ` | lockbit2 |
+| 2021-09-28 | `vlastuin.nl ` | lockbit2 |
+| 2021-09-28 | `USA company ` | lockbit2 |
 | 2021-09-27 | `Minjar Gold` | conti |
 | 2021-09-27 | `parcoinc` | conti |
 | 2021-09-27 | `WEST TREE SERVICE` | conti |
@@ -29,6 +32,3 @@
 | 2021-09-24 | `franklinempire.... ` | lockbit2 |
 | 2021-09-24 | `papierswhitebir... ` | lockbit2 |
 | 2021-09-23 | `PeakLogix` | conti |
-| 2021-09-23 | `daylewis.co.uk ` | lockbit2 |
-| 2021-09-23 | `buffingtonlawfi... ` | lockbit2 |
-| 2021-09-23 | `sete.co.uk ` | lockbit2 |
