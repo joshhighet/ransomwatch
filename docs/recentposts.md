@@ -2,6 +2,8 @@
 
 | date | title | group |
 |---|---|---|
+| 2021-09-28 | `wortmann.de ` | lockbit2 |
+| 2021-09-28 | `alderking.com ` | lockbit2 |
 | 2021-09-28 | `TaxLeaf Corporate` | conti |
 | 2021-09-28 | `https://www.wor... ` | lockbit2 |
 | 2021-09-28 | `anasia.com ` | lockbit2 |
@@ -30,5 +32,3 @@
 | 2021-09-24 | `Jakes Finer Foods` | conti |
 | 2021-09-24 | `IJmond Werkt` | conti |
 | 2021-09-24 | `IN2 Engineering` | conti |
-| 2021-09-24 | `jaylon.com.au ` | lockbit2 |
-| 2021-09-24 | `franklinempire.... ` | lockbit2 |
