@@ -1,4 +1,4 @@
-## 📰 summary - september 27th, 2021
+## 📰 summary - september 28th, 2021
 
 currently tracking `39` groups across `47` various relays and mirrors - _`24` of which are online_
 
