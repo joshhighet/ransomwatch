@@ -48,12 +48,15 @@ parser.add_argument("--append", help='add onionsite fqdn to existing record')
 parser.add_argument(
     "mode",
     help='operation to execute',
-    choices=['add', 'append', 'scrape', 'parse', 'list', 'markdown']
+    choices=['add', 'append', 'scrape', 'parse', 'list', 'markdown', 'check']
     )
 args = parser.parse_args()
 
-if args.mode == ('add' or 'append') and (args.name is None or args.location is None):
+if args.mode == ('add' or 'append') and (args.name is None and args.location is None):
     parser.error("operation requires --name and --location")
+
+if args.mode == 'check' and args.location is None:
+    parser.error("operation requires --location")
 
 if args.location:
     siteinfo = getonionversion(args.location)
@@ -78,6 +81,17 @@ def creategroup(name, location):
         'profile': list()
     }
     return insertdata
+
+# check if a given location exists in groups.json
+if args.mode == 'check':
+    groups = openjson("groups.json")
+    for group in groups:
+        for location in group['locations']:
+            if location['fqdn'] == args.location:
+                print('ransomwatch: ' + 'location ' + args.location + ' is in groups.json')
+                exit()
+    print('ransomwatch: ' + 'location ' + args.location + ' is not in groups.json')
+    exit()
 
 def checkexisting(provider):
     '''
