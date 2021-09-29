@@ -2,6 +2,8 @@
 
 | date | title | group |
 |---|---|---|
+| 2021-09-29 | `sheraton.marrio... ` | lockbit2 |
+| 2021-09-29 | `rabbalshedekraf... ` | lockbit2 |
 | 2021-09-29 | `crystalvalley` | blackmatter |
 | 2021-09-28 | `hoistcrane.com ` | lockbit2 |
 | 2021-09-28 | `DataXsport` | conti |
@@ -30,5 +32,3 @@
 | 2021-09-25 | `scisairsecurity... ` | lockbit2 |
 | 2021-09-25 | `advantecmfs.com ` | lockbit2 |
 | 2021-09-25 | `peabodyproperti... ` | lockbit2 |
-| 2021-09-25 | `dataspeed.it ` | lockbit2 |
-| 2021-09-24 | `Gigabyte Data Leak` | darkleakmarket |
