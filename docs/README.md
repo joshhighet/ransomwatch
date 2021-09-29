@@ -1,18 +1,18 @@
 ## 📰 summary - september 29th, 2021
 
-currently tracking `67` groups across `79` various relays and mirrors - _`35` of which are online_
+currently tracking `67` groups across `79` various relays and mirrors - _`34` of which are online_
 
 there are currently `30` active parsers, `10` of which requiring headless browsers - _`3` groups have introduced captchas this year_
 
 ⏲ there have been `7` posts within the `last 24 hours`
 
-🦈 there have been `992` posts within the `month of september`
+🦈 there have been `993` posts within the `month of september`
 
-🪐 there have been `1004` posts within the `last 90 days`
+🪐 there have been `1005` posts within the `last 90 days`
 
-🏚 there have been `1044` posts within the `year of 2021`
+🏚 there have been `1045` posts within the `year of 2021`
 
-🦕 there have been `1078` posts `since the dawn of ransomwatch`
+🦕 there have been `1079` posts `since the dawn of ransomwatch`
 
 > _the `19` sites using v2 onion services are no longer indexed - [support.torproject.org](https://support.torproject.org/onionservices/v2-deprecation/)_
 
@@ -64,7 +64,7 @@ there are currently `30` active parsers, `10` of which requiring headless browse
 | lockdata | LockData Auction | ⬆️ 🟢 |  | wm6mbuzipviusuc42kcggzkdpbhuv45sn7olyamy6mcqqked3waslbqd.onion |
 | blacktor | Bl@ckt0r - Bug Hunter and Data Breacher | ⬇️ 🔴 | 2021-09-15 | bl4cktorpms2gybrcyt52aakcxt6yn37byb65uama5cimhifcscnqkid.onion |
 | haron | Clients page | ⬆️ 🟢 |  | ft4zr2jzlqoyob7yg4fcpwyt37hox3ajajqnfkdvbfrkjioyunmqnpad.onion |
-| darkleakmarket | Dark Leak Market | ⬆️ 🟢 |  | 54rdhzjzc4ids4u4wata4zr4ywfon5wpz2ml4q3avelgadpvmdal2vqd.onion |
+| darkleakmarket | Dark Leak Market | ⬇️ 🔴 | 2021-09-29 | 54rdhzjzc4ids4u4wata4zr4ywfon5wpz2ml4q3avelgadpvmdal2vqd.onion |
 | prometheus |  | ⬇️ 🔴 | 2021-05-01 | promethw27cbrcot.onion |
 | blackmatter | BlackMatter | ⬆️ 🟢 |  | blackmax7su6mbwtcyo3xwtpfxpm356jjqrs34y4crcytpw7mifuedyd.onion |
 | payloadbin | Payload.bin | ⬆️ 🟢 |  | vbmisqjshn4yblehk2vbnil53tlqklxsdaztgphcilto3vdj4geao5qd.onion |
