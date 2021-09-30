@@ -1,6 +1,6 @@
 ## 📰 summary - september 30th, 2021
 
-currently tracking `67` groups across `79` various relays and mirrors - _`35` of which are online_
+currently tracking `67` groups across `79` various relays and mirrors - _`33` of which are online_
 
 there are currently `30` active parsers, `10` of which requiring headless browsers - _`3` groups have introduced captchas this year_
 
@@ -28,7 +28,7 @@ there are currently `30` active parsers, `10` of which requiring headless browse
 | suncrypt |  | ⬇️ 🔴 | 2021-05-01 | nbzzb6sa6xuura2z.onion |
 | lv | LV Blog | ⬆️ 🟢 |  | rbvuetuneohce3ouxjlbxtimyyxokb4btncxjbo44fbgxqy7tskinwad.onion |
 | lv | LV Blog | ⬆️ 🟢 |  | 4qbxi3i2oqmyzxsjg4fwe4aly3xkped52gq5orp6efpkeskvchqe27id.onion |
-| lorenz | Lorenz | ⬆️ 🟢 |  | lorenzmlwpzgxq736jzseuterytjueszsvznuibanxomlpkyxk6ksoyd.onion |
+| lorenz | Lorenz | ⬇️ 🔴 | 2021-09-30 | lorenzmlwpzgxq736jzseuterytjueszsvznuibanxomlpkyxk6ksoyd.onion |
 | lockbit2 | LockBit BLOG | ⬇️ 🔴 | 2021-09-30 | lockbitapt6vx57t3eeqjofwgcglmutr3a35nygvokja5uuccip4ykyd.onion |
 | hive | Hive | ⬆️ 🟢 |  | hiveleakdbtnp76ulyhi52eag6c6tyc3xw7ez7iqy6wc34gd2nekazyd.onion |
 | arvinclub | Arvin Club – آزادی برای اتصال | ⬆️ 🟢 |  | 3kp6j22pz3zkv76yutctosa6djpj4yib2icvdqxucdaxxedumhqicpad.onion |
@@ -55,7 +55,7 @@ there are currently `30` active parsers, `10` of which requiring headless browse
 | nefilim |  | ⬇️ 🔴 | 2021-05-01 | hxt254aygrsziejn.onion |
 | maze |  | ⬇️ 🔴 | 2021-05-01 | xfr3txoorcyy7tikjgj5dk3rvo3vsrpyaxnclyohkbfp3h277ap4tiad.onion |
 | mount-locker |  | ⬇️ 🔴 | 2021-05-01 | mountnewsokhwilx.onion |
-| babuk-locker | RAMP :) | ⬆️ 🟢 |  | wavbeudogz6byhnardd2lkp2jafims3j7tj6k6qnywchn2csngvtffqd.onion |
+| babuk-locker | RAMP :) | ⬇️ 🔴 | 2021-09-30 | wavbeudogz6byhnardd2lkp2jafims3j7tj6k6qnywchn2csngvtffqd.onion |
 | babuk-locker | Babuk - Leaks site | ⬇️ 🔴 | 2021-09-30 | nq4zyac4ukl4tykmidbzgdlvaboqeqsemkp4t35bzvjeve6zm2lqcjid.onion |
 | ransomexx | RANSOMEXX | ⬆️ 🟢 |  | rnsm777cdsjrsdlbs4v5qoeppu3px6sb2igmh53jzrx7ipcrbjz5b2ad.onion |
 | cuba |  | ⬇️ 🔴 | 2021-05-01 | cuba4mp6ximo2zlo.onion |
