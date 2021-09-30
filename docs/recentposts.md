@@ -2,6 +2,7 @@
 
 | date | title | group |
 |---|---|---|
+| 2021-09-30 | `Fimmick CRM Hong Kong (www.fimmick.com)` | revil |
 | 2021-09-30 | `calsoft.com` | payloadbin |
 | 2021-09-30 | `Fimmick CRM Honk Kong (www.fimmick.com)` | revil |
 | 2021-09-29 | `amista.cz ` | lockbit2 |
@@ -31,4 +32,3 @@
 | 2021-09-25 | `Huali Industrial Group` | avoslocker |
 | 2021-09-25 | `Whitefish River First Nation` | avoslocker |
 | 2021-09-25 | `Unified Technologies` | avoslocker |
-| 2021-09-25 | `Amphenol Canada` | avoslocker |
