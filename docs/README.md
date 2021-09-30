@@ -1,6 +1,6 @@
 ## 📰 summary - september 30th, 2021
 
-currently tracking `67` groups across `79` various relays and mirrors - _`35` of which are online_
+currently tracking `67` groups across `79` various relays and mirrors - _`33` of which are online_
 
 there are currently `30` active parsers, `10` of which requiring headless browsers - _`3` groups have introduced captchas this year_
 
@@ -32,7 +32,7 @@ there are currently `30` active parsers, `10` of which requiring headless browse
 | lockbit2 | LockBit BLOG | ⬇️ 🔴 | 2021-09-29 | lockbitapt6vx57t3eeqjofwgcglmutr3a35nygvokja5uuccip4ykyd.onion |
 | hive | Hive | ⬆️ 🟢 |  | hiveleakdbtnp76ulyhi52eag6c6tyc3xw7ez7iqy6wc34gd2nekazyd.onion |
 | arvinclub | Arvin Club – آزادی برای اتصال | ⬆️ 🟢 |  | 3kp6j22pz3zkv76yutctosa6djpj4yib2icvdqxucdaxxedumhqicpad.onion |
-| avoslocker | AvosLocker Access Queue | ⬆️ 🟢 |  | avosqxh72b5ia23dl5fgwcpndkctuzqvh2iefk5imp3pi5gfhel5klad.onion |
+| avoslocker | AvosLocker Access Queue | ⬇️ 🔴 | 2021-09-30 | avosqxh72b5ia23dl5fgwcpndkctuzqvh2iefk5imp3pi5gfhel5klad.onion |
 | grief | Grief list | ⬆️ 🟢 |  | griefcameifmv4hfr3auozmovz5yi6m3h3dwbuqw7baomfxoxz4qteid.onion |
 | avaddon |  | ⬇️ 🔴 | 2021-05-01 | avaddongun7rngel.onion |
 | vicesociety |  | ⬇️ 🔴 | 2021-05-01 | 4hzyuotli6maqa4u.onion |
@@ -56,7 +56,7 @@ there are currently `30` active parsers, `10` of which requiring headless browse
 | maze |  | ⬇️ 🔴 | 2021-05-01 | xfr3txoorcyy7tikjgj5dk3rvo3vsrpyaxnclyohkbfp3h277ap4tiad.onion |
 | mount-locker |  | ⬇️ 🔴 | 2021-05-01 | mountnewsokhwilx.onion |
 | babuk-locker | RAMP :) | ⬇️ 🔴 | 2021-09-29 | wavbeudogz6byhnardd2lkp2jafims3j7tj6k6qnywchn2csngvtffqd.onion |
-| babuk-locker | Babuk - Leaks site | ⬆️ 🟢 |  | nq4zyac4ukl4tykmidbzgdlvaboqeqsemkp4t35bzvjeve6zm2lqcjid.onion |
+| babuk-locker | Babuk - Leaks site | ⬇️ 🔴 | 2021-09-30 | nq4zyac4ukl4tykmidbzgdlvaboqeqsemkp4t35bzvjeve6zm2lqcjid.onion |
 | ransomexx | RANSOMEXX | ⬆️ 🟢 |  | rnsm777cdsjrsdlbs4v5qoeppu3px6sb2igmh53jzrx7ipcrbjz5b2ad.onion |
 | cuba |  | ⬇️ 🔴 | 2021-05-01 | cuba4mp6ximo2zlo.onion |
 | pay2key | Pay2Key Leak Directory! | ⬆️ 🟢 |  | pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion |
