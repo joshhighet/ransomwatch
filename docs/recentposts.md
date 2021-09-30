@@ -2,6 +2,7 @@
 
 | date | title | group |
 |---|---|---|
+| 2021-09-30 | `calautomotive.com` | payloadbin |
 | 2021-09-30 | `newhotel.com ` | lockbit2 |
 | 2021-09-30 | `fugybat.fr ` | lockbit2 |
 | 2021-09-30 | `nitropiso.com.m... ` | lockbit2 |
@@ -31,4 +32,3 @@
 | 2021-09-27 | `parcoinc` | conti |
 | 2021-09-27 | `WEST TREE SERVICE` | conti |
 | 2021-09-26 | `Unione Reno Galliera` | ransomexx |
-| 2021-09-26 | `RTI Surgical` | conti |
