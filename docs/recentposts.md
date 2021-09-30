@@ -2,6 +2,7 @@
 
 | date | title | group |
 |---|---|---|
+| 2021-09-30 | `geda-produkte.d... ` | lockbit2 |
 | 2021-09-30 | `calsoft` | payloadbin |
 | 2021-09-30 | `Fimmick CRM Hong Kong (www.fimmick.com)` | revil |
 | 2021-09-30 | `calsoft.com` | payloadbin |
@@ -31,4 +32,3 @@
 | 2021-09-26 | `servisistanbul....` | lockbit2 |
 | 2021-09-25 | `www.myyp.com` | payloadbin |
 | 2021-09-25 | `Huali Industrial Group` | avoslocker |
-| 2021-09-25 | `Whitefish River First Nation` | avoslocker |
