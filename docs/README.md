@@ -1,6 +1,6 @@
 ## 📰 summary - october 1st, 2021
 
-currently tracking `67` groups across `79` various relays and mirrors - _`31` of which are online_
+currently tracking `67` groups across `79` various relays and mirrors - _`32` of which are online_
 
 there are currently `30` active parsers, `10` of which requiring headless browsers - _`3` groups have introduced captchas this year_
 
@@ -85,7 +85,7 @@ there are currently `30` active parsers, `10` of which requiring headless browse
 | hades |  | ⬇️ 🔴 | 2021-05-01 | ixltdyumdlthrtgx.onion |
 | hellokitty | News | ⬆️ 🟢 |  | 3r6n77mpe737w4sbxxxrpc5phbluv6xhtdl5ujpnlvmck5tc7blq2rqd.onion |
 | hotarus |  | ⬇️ 🔴 | 2021-05-01 | r6d636w47ncnaukrpvlhmtdbvbeltc6enfcuuow3jclpmyga7cz374qd.onion |
-| karma | Karma Leaks | ⬇️ 🔴 | 2021-10-01 | 3nvzqyo6l4wkrzumzu5aod7zbosq4ipgf7ifgj3hsvbcr5vcasordvqd.onion |
+| karma | Karma Leaks | ⬆️ 🟢 |  | 3nvzqyo6l4wkrzumzu5aod7zbosq4ipgf7ifgj3hsvbcr5vcasordvqd.onion |
 | lockbit |  | ⬇️ 🔴 | 2021-05-01 | lockbitkodidilol.onion |
 | lockfile | LOCKFILE | ⬆️ 🟢 |  | zqaflhty5hyziovsxgqvj2mrz5e5rs6oqxzb54zolccfnvtn5w2johad.onion |
 | mbc |  | ⬇️ 🔴 | 2021-05-01 | xembshruusobgbvxg4tcjs3jpdnks6xrr6nbokfxadcnlc53yxir22ad.onion |
