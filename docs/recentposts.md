@@ -2,6 +2,8 @@
 
 | date | title | group |
 |---|---|---|
+| 2021-10-01 | `JVCKenwood Case` | conti |
+| 2021-10-01 | `Kes` | everest |
 | 2021-10-01 | `Ronmor Holdings` | revil |
 | 2021-10-01 | `houstonestatepl... ` | lockbit2 |
 | 2021-09-30 | `Gershman Mortgage` | conti |
@@ -30,5 +32,3 @@
 | 2021-09-28 | `https://www.wor... ` | lockbit2 |
 | 2021-09-28 | `anasia.com ` | lockbit2 |
 | 2021-09-28 | `vlastuin.nl ` | lockbit2 |
-| 2021-09-28 | `USA company ` | lockbit2 |
-| 2021-09-27 | `Minjar Gold` | conti |
