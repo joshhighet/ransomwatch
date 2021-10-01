@@ -2,6 +2,10 @@
 
 | date | title | group |
 |---|---|---|
+| 2021-10-01 | `adlinktech.com ` | lockbit2 |
+| 2021-10-01 | `E.M.I.T. Aviati... ` | lockbit2 |
+| 2021-10-01 | `chipsaway.at ` | lockbit2 |
+| 2021-10-01 | `brident.com/en-... ` | lockbit2 |
 | 2021-10-01 | `JVCKenwood Case` | conti |
 | 2021-10-01 | `Kes` | everest |
 | 2021-10-01 | `Ronmor Holdings` | revil |
@@ -28,7 +32,3 @@
 | 2021-09-28 | `PRECREDIT` | everest |
 | 2021-09-28 | `wortmann.de ` | lockbit2 |
 | 2021-09-28 | `alderking.com ` | lockbit2 |
-| 2021-09-28 | `TaxLeaf Corporate` | conti |
-| 2021-09-28 | `https://www.wor... ` | lockbit2 |
-| 2021-09-28 | `anasia.com ` | lockbit2 |
-| 2021-09-28 | `vlastuin.nl ` | lockbit2 |
