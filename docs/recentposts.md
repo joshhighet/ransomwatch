@@ -2,6 +2,7 @@
 
 | date | title | group |
 |---|---|---|
+| 2021-10-01 | `houstonestatepl... ` | lockbit2 |
 | 2021-09-30 | `Gershman Mortgage` | conti |
 | 2021-09-30 | `calautomotive.com` | payloadbin |
 | 2021-09-30 | `newhotel.com ` | lockbit2 |
@@ -31,4 +32,3 @@
 | 2021-09-28 | `USA company ` | lockbit2 |
 | 2021-09-27 | `Minjar Gold` | conti |
 | 2021-09-27 | `parcoinc` | conti |
-| 2021-09-27 | `WEST TREE SERVICE` | conti |
