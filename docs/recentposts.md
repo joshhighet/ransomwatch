@@ -2,6 +2,7 @@
 
 | date | title | group |
 |---|---|---|
+| 2021-10-02 | `Align Technology` | conti |
 | 2021-10-02 | `riviana.com ` | lockbit2 |
 | 2021-10-02 | `wormingtonlegal... ` | lockbit2 |
 | 2021-10-02 | `dcaa.gov.ae ` | lockbit2 |
@@ -31,4 +32,3 @@
 | 2021-09-29 | `rabbalshedekraf... ` | lockbit2 |
 | 2021-09-29 | `crystalvalley` | blackmatter |
 | 2021-09-28 | `hoistcrane.com ` | lockbit2 |
-| 2021-09-28 | `DataXsport` | conti |
