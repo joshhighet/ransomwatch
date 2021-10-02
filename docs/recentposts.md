@@ -2,6 +2,10 @@
 
 | date | title | group |
 |---|---|---|
+| 2021-10-02 | `riviana.com ` | lockbit2 |
+| 2021-10-02 | `wormingtonlegal... ` | lockbit2 |
+| 2021-10-02 | `dcaa.gov.ae ` | lockbit2 |
+| 2021-10-02 | `yankey.com.tw ` | lockbit2 |
 | 2021-10-01 | `adlinktech.com ` | lockbit2 |
 | 2021-10-01 | `E.M.I.T. Aviati... ` | lockbit2 |
 | 2021-10-01 | `chipsaway.at ` | lockbit2 |
@@ -28,7 +32,3 @@
 | 2021-09-29 | `crystalvalley` | blackmatter |
 | 2021-09-28 | `hoistcrane.com ` | lockbit2 |
 | 2021-09-28 | `DataXsport` | conti |
-| 2021-09-28 | `Grupo GSS` | conti |
-| 2021-09-28 | `PRECREDIT` | everest |
-| 2021-09-28 | `wortmann.de ` | lockbit2 |
-| 2021-09-28 | `alderking.com ` | lockbit2 |
