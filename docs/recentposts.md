@@ -2,6 +2,9 @@
 
 | date | title | group |
 |---|---|---|
+| 2021-10-03 | `nuevomundosa.co... ` | lockbit2 |
+| 2021-10-03 | `aktieinvest.se ` | lockbit2 |
+| 2021-10-03 | `estampa.com.pa ` | lockbit2 |
 | 2021-10-02 | `Align Technology` | conti |
 | 2021-10-02 | `riviana.com ` | lockbit2 |
 | 2021-10-02 | `wormingtonlegal... ` | lockbit2 |
@@ -29,6 +32,3 @@
 | 2021-09-30 | `Fimmick CRM Honk Kong (www.fimmick.com)` | revil |
 | 2021-09-29 | `amista.cz ` | lockbit2 |
 | 2021-09-29 | `sheraton.marrio... ` | lockbit2 |
-| 2021-09-29 | `rabbalshedekraf... ` | lockbit2 |
-| 2021-09-29 | `crystalvalley` | blackmatter |
-| 2021-09-28 | `hoistcrane.com ` | lockbit2 |
