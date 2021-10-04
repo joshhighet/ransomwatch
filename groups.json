@@ -1015,7 +1015,7 @@
                 "fqdn": "mhdehvkomeabau7gsetnsrhkfign4jgnx3wajth5yb5h6kvzbd72wlqd.onion",
                 "title": "AtomSilo",
                 "version": 3,
-                "slug": "http://mhdehvkomeabau7gsetnsrhkfign4jgnx3wajth5yb5h6kvzbd72wlqd.onion",
+                "slug": "http://mhdehvkomeabau7gsetnsrhkfign4jgnx3wajth5yb5h6kvzbd72wlqd.onion/list.html",
                 "available": true,
                 "updated": "2021-10-04 07:44:00.763978",
                 "lastscrape": "2021-10-04 07:44:00.763940"
@@ -1046,7 +1046,7 @@
     {
         "name": "blackbyte",
         "captcha": false,
-        "parser": false,
+        "parser": true,
         "geckodriver": false,
         "javascript_render": false,
         "meta": null,
@@ -1295,7 +1295,7 @@
     {
         "name": "karma",
         "captcha": false,
-        "parser": false,
+        "parser": true,
         "geckodriver": false,
         "javascript_render": false,
         "meta": null,

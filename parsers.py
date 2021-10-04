@@ -417,3 +417,36 @@ def bonacigroup():
         errlog('bonacigroup: ' + 'parsing fail')
     for post in posts:
         appender(post, 'bonacigroup')
+
+def karma():
+    stdlog('parser: ' + 'karma')
+    parser = '''
+    grep "h2" source/karma-*.html | cut -d '>' -f 3 | cut -d '<' -f 1 | sed '/^$/d'
+    '''
+    posts = runshellcmd(parser)
+    if len(posts) == 1:
+        errlog('karma: ' + 'parsing fail')
+    for post in posts:
+        appender(post, 'karma')
+
+def blackbyte():
+    stdlog('parser: ' + 'blackbyte')
+    parser = '''
+    cat source/blackbyte-*.html | grep "h1" | cut -d '>' -f 2 | cut -d '<' -f 1 | sed 's/^ *//g'
+    '''
+    posts = runshellcmd(parser)
+    if len(posts) == 1:
+        errlog('blackbyte: ' + 'parsing fail')
+    for post in posts:
+        appender(post, 'blackbyte')
+
+def spook():
+    stdlog('parser: ' + 'spook')
+    parser = '''
+    cat source/spook-*.html | grep 'h2 class' | cut -d '>' -f 3 | cut -d '<' -f 1 | sed -e 's/^ *//g' -e '/^$/d'
+    '''
+    posts = runshellcmd(parser)
+    if len(posts) == 1:
+        errlog('spook: ' + 'parsing fail')
+    for post in posts:
+        appender(post, 'spook')

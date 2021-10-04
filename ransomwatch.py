@@ -218,6 +218,9 @@ if args.mode == 'markdown':
 
 if args.mode == 'parse':
     parsers.bonacigroup()
+    parsers.blackbyte()
+    parsers.spook
+    parsers.karma()
     parsers.suncrypt()
     parsers.lorenz()
     parsers.lockbit2()
