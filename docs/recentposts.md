@@ -2,6 +2,7 @@
 
 | date | title | group |
 |---|---|---|
+| 2021-10-04 | `ZKTeco USA` | blackmatter |
 | 2021-10-03 | `rivercityrental... ` | lockbit2 |
 | 2021-10-03 | `nuevomundosa.co... ` | lockbit2 |
 | 2021-10-03 | `aktieinvest.se ` | lockbit2 |
@@ -31,4 +32,3 @@
 | 2021-09-30 | `Fimmick CRM Hong Kong (www.fimmick.com)` | revil |
 | 2021-09-30 | `calsoft.com` | payloadbin |
 | 2021-09-30 | `Fimmick CRM Honk Kong (www.fimmick.com)` | revil |
-| 2021-09-29 | `amista.cz ` | lockbit2 |
