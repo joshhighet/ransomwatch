@@ -406,3 +406,14 @@ def groove():
         errlog('groove: ' + 'parsing fail')
     for post in posts:
         appender(post, 'groove')
+
+def bonacigroup():
+    stdlog('parser: ' + 'bonacigroup')
+    parser = '''
+    grep 'h5' source/bonacigroup-*.html | cut -d '>' -f 3 | cut -d '<' -f 1
+    '''
+    posts = runshellcmd(parser)
+    if len(posts) == 1:
+        errlog('bonacigroup: ' + 'parsing fail')
+    for post in posts:
+        appender(post, 'bonacigroup')
