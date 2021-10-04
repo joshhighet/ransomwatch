@@ -2038,4 +2038,5 @@ _parsing : `disabled`_
 | `TOA ELECTRIC INDUSTRIAL CO., LTD.` | 04/10/2021 |
 | `Van Dijk De Jongh Notarissen` | 04/10/2021 |
 | `GLOBAL PROTEIN` | 04/10/2021 |
+| `Sashida warehouse CO., Ltd` | 04/10/2021 |
 

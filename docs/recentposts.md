@@ -2,6 +2,7 @@
 
 | date | title | group |
 |---|---|---|
+| 2021-10-04 | `Sashida warehouse CO., Ltd` | spook |
 | 2021-10-04 | `Tom Lange Company, Inc.    ` | blackbyte |
 | 2021-10-04 | `Farmers Cooperative Elevator    ` | blackbyte |
 | 2021-10-04 | `GLOBAL PROTEIN` | spook |
@@ -101,4 +102,3 @@
 | 2021-09-25 | `Unified Technologies` | avoslocker |
 | 2021-09-25 | `Amphenol Canada` | avoslocker |
 | 2021-09-25 | `scisairsecurity... ` | lockbit2 |
-| 2021-09-25 | `advantecmfs.com ` | lockbit2 |
