@@ -166,6 +166,15 @@
                 "available": true,
                 "updated": "2021-10-04 08:06:14.158749",
                 "lastscrape": "2021-10-04 08:06:14.158732"
+            },
+            {
+                "fqdn": "zqaflhty5hyziovsxgqvj2mrz5e5rs6oqxzb54zolccfnvtn5w2johad.onion",
+                "title": null,
+                "version": 3,
+                "slug": "http://zqaflhty5hyziovsxgqvj2mrz5e5rs6oqxzb54zolccfnvtn5w2johad.onion",
+                "available": null,
+                "updated": null,
+                "lastscrape": "2021-05-01 00:00:00.000000"
             }
         ],
         "profile": [
@@ -1324,26 +1333,6 @@
         "profile": []
     },
     {
-        "name": "lockfile",
-        "captcha": false,
-        "parser": false,
-        "geckodriver": false,
-        "javascript_render": false,
-        "meta": null,
-        "locations": [
-            {
-                "fqdn": "zqaflhty5hyziovsxgqvj2mrz5e5rs6oqxzb54zolccfnvtn5w2johad.onion",
-                "title": "LOCKFILE",
-                "version": 3,
-                "slug": "http://zqaflhty5hyziovsxgqvj2mrz5e5rs6oqxzb54zolccfnvtn5w2johad.onion",
-                "available": true,
-                "updated": "2021-10-04 08:11:57.361492",
-                "lastscrape": "2021-10-04 08:11:57.361477"
-            }
-        ],
-        "profile": []
-    },
-    {
         "name": "mbc",
         "captcha": false,
         "parser": false,
@@ -1545,6 +1534,26 @@
                 "title": null,
                 "version": 3,
                 "slug": "http://wj3b2wtj7u2bzup75tzhnso56bin6bnvsxcbwbfcuvzpc4vcixbywlid.onion",
+                "available": null,
+                "updated": null,
+                "lastscrape": "2021-05-01 00:00:00.000000"
+            }
+        ],
+        "profile": []
+    },
+    {
+        "name": "spook",
+        "captcha": false,
+        "parser": false,
+        "geckodriver": false,
+        "javascript_render": false,
+        "meta": null,
+        "locations": [
+            {
+                "fqdn": "spookuhvfyxzph54ikjfwf2mwmxt572krpom7reyayrmxbkizbvkpaid.onion",
+                "title": null,
+                "version": 3,
+                "slug": "http://spookuhvfyxzph54ikjfwf2mwmxt572krpom7reyayrmxbkizbvkpaid.onion/blog/",
                 "available": null,
                 "updated": null,
                 "lastscrape": "2021-05-01 00:00:00.000000"
