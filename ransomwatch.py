@@ -52,7 +52,7 @@ parser.add_argument(
     )
 args = parser.parse_args()
 
-if args.mode == ('add' or 'append') and (args.name is None and args.location is None):
+if args.mode == ('add' or 'append') and (args.name is None or args.location is None):
     parser.error("operation requires --name and --location")
 
 if args.mode == 'check' and args.location is None:
