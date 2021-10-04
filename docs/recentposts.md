@@ -2,6 +2,16 @@
 
 | date | title | group |
 |---|---|---|
+| 2021-10-04 | `GLOBAL PROTEIN` | spook |
+| 2021-10-04 | `Van Dijk De Jongh Notarissen` | spook |
+| 2021-10-04 | `TOA ELECTRIC INDUSTRIAL CO., LTD.` | spook |
+| 2021-10-04 | `I&#8217;M CORPORATION(SUZHOU)CO.,LTD` | spook |
+| 2021-10-04 | `ORLANDO IMPORT-EXPORT 2001 SRL` | spook |
+| 2021-10-04 | `VIASHOPPING` | spook |
+| 2021-10-04 | `Pierce Property Management, Inc.` | spook |
+| 2021-10-04 | `ASISMED S.A.` | spook |
+| 2021-10-04 | `Transports Verlhac et Fils` | spook |
+| 2021-10-04 | `Verhoff Machine &#038; Welding` | spook |
 | 2021-10-04 | `Consolidated High School District 230` | pysa |
 | 2021-10-04 | `SantÃ©lys` | pysa |
 | 2021-10-04 | `Instituto Mixto de Ayuda Social` | pysa |
@@ -92,13 +102,3 @@
 | 2021-09-25 | `advantecmfs.com ` | lockbit2 |
 | 2021-09-25 | `peabodyproperti... ` | lockbit2 |
 | 2021-09-25 | `dataspeed.it ` | lockbit2 |
-| 2021-09-24 | `Gigabyte Data Leak` | darkleakmarket |
-| 2021-09-24 | `Cedar Grove Composting` | conti |
-| 2021-09-24 | `Vera Wang Group` | conti |
-| 2021-09-24 | `Jakes Finer Foods` | conti |
-| 2021-09-24 | `IJmond Werkt` | conti |
-| 2021-09-24 | `IN2 Engineering` | conti |
-| 2021-09-24 | `jaylon.com.au ` | lockbit2 |
-| 2021-09-24 | `franklinempire.... ` | lockbit2 |
-| 2021-09-24 | `papierswhitebir... ` | lockbit2 |
-| 2021-09-23 | `PeakLogix` | conti |
