@@ -1,6 +1,6 @@
 ## 📰 summary - october 4th, 2021
 
-currently tracking `67` groups across `79` various relays and mirrors - _`33` of which are online_
+currently tracking `67` groups across `79` various relays and mirrors - _`32` of which are online_
 
 there are currently `30` active parsers, `10` of which requiring headless browsers - _`3` groups have introduced captchas this year_
 
@@ -22,7 +22,7 @@ there are currently `30` active parsers, `10` of which requiring headless browse
 |---|---|---|---|---|
 | marketo |  | ⬇️ 🔴 | 2021-05-01 | marketojbwagqnwx.onion |
 | marketo |  | ⬇️ 🔴 | 2021-05-01 | g5sbltooh2okkcb2.onion |
-| marketo | 404 Not Found | ⬆️ 🟢 |  | fvki3hj7uxuirxpeop6chgqoczanmebutznt2mkzy6waov6w456vjuid.onion |
+| marketo | 404 Not Found | ⬇️ 🔴 | 2021-10-04 | fvki3hj7uxuirxpeop6chgqoczanmebutznt2mkzy6waov6w456vjuid.onion |
 | synack | end of game | ⬇️ 🔴 | 2021-08-18 | xqkz2rmrqkeqf6sjbrb47jfwnqxcd4o2zvaxxzrpbh2piknms37rw2ad.onion |
 | suncrypt | News | ⬆️ 🟢 |  | x2miyuiwpib2imjr5ykyjngdu7v6vprkkhjltrk4qafymtawey4qzwid.onion |
 | suncrypt |  | ⬇️ 🔴 | 2021-05-01 | nbzzb6sa6xuura2z.onion |
