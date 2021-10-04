@@ -5,32 +5,33 @@ import time
 import random
 from datetime import datetime as dt
 
+from sharedutils import gcount
 from sharedutils import openjson
 from sharedutils import postcount
-from sharedutils import groupcount
-from sharedutils import parsercount
 from sharedutils import hostcount
-from sharedutils import headlesscount
-from sharedutils import onlinecount
-from sharedutils import version2count
-from sharedutils import mounthlypostcount
+from sharedutils import groupcount
 from sharedutils import postssince
-from sharedutils import poststhisyear
+from sharedutils import parsercount
+from sharedutils import onlinecount
 from sharedutils import postslast24h
+from sharedutils import headlesscount
+from sharedutils import version2count
+from sharedutils import poststhisyear
 from sharedutils import currentmonthstr
+from sharedutils import mounthlypostcount
 from sharedutils import countcaptchahosts
+
+from sharedutils import stdlog, dbglog, errlog, honk
 
 from plotting import groupreportpie
 from plotting import groupreportyearly
 from plotting import groupreportmonthly
 
-from sharedutils import stdlog, dbglog, errlog, honk
-
 def suffix(d):
     return 'th' if 11<=d<=13 else {1:'st',2:'nd',3:'rd'}.get(d%10, 'th')
 
-def custom_strftime(format, t):
-    return t.strftime(format).replace('{S}', str(t.day) + suffix(t.day))
+def custom_strftime(fmt, t):
+    return t.strftime(fmt).replace('{S}', str(t.day) + suffix(t.day))
 
 friendly_tz = custom_strftime('%B {S}, %Y', dt.now()).lower()
 
@@ -47,12 +48,7 @@ def groupreport():
     stdlog('generating group report')
     posts = openjson('posts.json')
     # count the number of posts by group_name within posts.json
-    group_counts = {}
-    for post in posts:
-        if post['group_name'] in group_counts:
-            group_counts[post['group_name']] += 1
-        else:
-            group_counts[post['group_name']] = 1
+    group_counts = gcount(posts)
     # sort the group_counts - descending
     sorted_group_counts = sorted(group_counts.items(), key=lambda x: x[1], reverse=True)
     stdlog('group report generated with %d groups' % len(sorted_group_counts))

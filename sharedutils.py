@@ -9,12 +9,12 @@ import socket
 import codecs
 import random
 import logging
-import requests
-import lxml.html
-import tldextract
 import subprocess
 from datetime import datetime
 from datetime import timedelta
+import tldextract
+import lxml.html
+import requests
 
 sockshost = '127.0.0.1'
 socksport = 9050
@@ -49,10 +49,8 @@ def currentmonthstr():
     '''
     return datetime.now().strftime('%B').lower()
 
-'''
-socks5h:// ensures we route dns requests through the socks proxy
-reduces the risk of dns leaks & allows us to resolve hidden services
-'''
+# socks5h:// ensures we route dns requests through the socks proxy
+# reduces the risk of dns leaks & allows us to resolve hidden services
 
 oproxies = {
     'http':  'socks5h://' + str(sockshost) + ':' + str(socksport),
@@ -70,9 +68,8 @@ def checkgeckodriver():
         if 'geckodriver' in output[0]:
             stdlog('sharedutils: ' + 'geckodriver is in $PATH')
             return True
-        else:
-            errlog('sharedutils: ' + 'geckodriver is not in $PATH')
-            return False
+        errlog('sharedutils: ' + 'geckodriver is not in $PATH')
+        return False
     except subprocess.CalledProcessError as cpe:
         errlog('sharedutils: ' + 'geckodriver check failed - ' + str(cpe))
         return False
@@ -91,8 +88,8 @@ def headers():
     '''
     returns a key:val user agent header for use with the requests library
     '''
-    headers = {'User-Agent': str(randomagent())}
-    return headers
+    headerstr = {'User-Agent': str(randomagent())}
+    return headerstr
 
 def metafetch(url):
     '''
@@ -172,11 +169,9 @@ def runshellcmd(cmd):
         stdout=subprocess.PIPE
         )
     response = cmdout.stdout.strip().split('\n')
-    '''
     # if empty list output, error
-    if len(response) == 1:
-        honk('sharedutils: ' + 'shell command returned no output')
-    '''
+    # if len(response) == 1:
+    #     honk('sharedutils: ' + 'shell command returned no output')
     return response
 
 def getsitetitle(html) -> str:
@@ -199,6 +194,15 @@ def getsitetitle(html) -> str:
             titletext = titletext[:50]
         return titletext
     return None
+
+def gcount(posts):
+    group_counts = {}
+    for post in posts:
+        if post['group_name'] in group_counts:
+            group_counts[post['group_name']] += 1
+        else:
+            group_counts[post['group_name']] = 1
+    return group_counts
 
 def hasprotocol(slug):
     '''

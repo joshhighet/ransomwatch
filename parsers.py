@@ -9,7 +9,6 @@ from datetime import datetime
 
 from sharedutils import openjson
 from sharedutils import runshellcmd
-
 from sharedutils import stdlog, dbglog, errlog, honk
 
 def posttemplate(victim, group_name, timestamp):

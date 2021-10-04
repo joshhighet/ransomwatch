@@ -2,23 +2,26 @@
 # -*- coding: utf-8 -*-
 '''
 🧅 👀 🦅 👹
-ransomwatch 
+ransomwatch
 does what it says on the tin
 '''
 import os
 import json
 import argparse
 from datetime import datetime
+
 # local imports
+
 import parsers
 import geckodrive
+from markdown import main as markdown
+
 from sharedutils import striptld
 from sharedutils import openjson
 from sharedutils import checktcp
 from sharedutils import siteschema
 from sharedutils import socksfetcher
 from sharedutils import getsitetitle
-from markdown import main as markdown
 from sharedutils import getonionversion
 from sharedutils import checkgeckodriver
 from sharedutils import sockshost, socksport
@@ -219,7 +222,7 @@ if args.mode == 'markdown':
 if args.mode == 'parse':
     parsers.bonacigroup()
     parsers.blackbyte()
-    parsers.spook
+    parsers.spook()
     parsers.karma()
     parsers.suncrypt()
     parsers.lorenz()

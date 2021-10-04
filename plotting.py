@@ -3,6 +3,7 @@
 
 import plotly.graph_objects as go
 
+from sharedutils import gcount
 from sharedutils import openjson
 
 def groupreportpie():
@@ -11,12 +12,7 @@ def groupreportpie():
     '''
     posts = openjson('posts.json')
     # count the number of posts by group_name within posts.json
-    group_counts = {}
-    for post in posts:
-        if post['group_name'] in group_counts:
-            group_counts[post['group_name']] += 1
-        else:
-            group_counts[post['group_name']] = 1
+    group_counts = gcount(posts)
     # sort the group_counts - descending
     sorted_group_counts = sorted(group_counts.items(), key=lambda x: x[1], reverse=True)
     labels = []
@@ -31,16 +27,6 @@ def groupreportpie():
 def groupreportmonthly():
     '''chart with plotly the posts by month'''
     posts = openjson('posts.json')
-    # count the number of posts by group_name within posts.json
-    group_counts = {}
-    for post in posts:
-        if post['group_name'] in group_counts:
-            group_counts[post['group_name']] += 1
-        else:
-            group_counts[post['group_name']] = 1
-    # sort the group_counts - descending
-    # sorted_group_counts = sorted(group_counts.items(), key=lambda x: x[1], reverse=True)
-    # create a list of months
     months = []
     for post in posts:
         if post['discovered'].split(' ')[0] not in months:
@@ -73,15 +59,6 @@ def groupreportyearly():
     chart with plotly the posts by year
     '''
     posts = openjson('posts.json')
-    # count the number of posts by group_name within posts.json
-    group_counts = {}
-    for post in posts:
-        if post['group_name'] in group_counts:
-            group_counts[post['group_name']] += 1
-        else:
-            group_counts[post['group_name']] = 1
-    # sort the group_counts - descending
-    # sorted_group_counts = sorted(group_counts.items(), key=lambda x: x[1], reverse=True)
     # create a list of years
     years = []
     for post in posts:
