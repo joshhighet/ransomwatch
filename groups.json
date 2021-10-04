@@ -166,6 +166,15 @@
                 "available": false,
                 "updated": "2021-10-04 03:43:09.420798",
                 "lastscrape": "2021-10-04 03:43:09.420777"
+            },
+            {
+                "fqdn": "zqaflhty5hyziovsxgqvj2mrz5e5rs6oqxzb54zolccfnvtn5w2johad.onion",
+                "title": null,
+                "version": 3,
+                "slug": "http://zqaflhty5hyziovsxgqvj2mrz5e5rs6oqxzb54zolccfnvtn5w2johad.onion/",
+                "available": null,
+                "updated": null,
+                "lastscrape": "2021-05-01 00:00:00.000000"
             }
         ],
         "profile": [
@@ -1319,26 +1328,6 @@
                 "available": false,
                 "updated": null,
                 "lastscrape": "2021-05-01 00:00:00.000000"
-            }
-        ],
-        "profile": []
-    },
-    {
-        "name": "lockfile",
-        "captcha": false,
-        "parser": false,
-        "geckodriver": false,
-        "javascript_render": false,
-        "meta": null,
-        "locations": [
-            {
-                "fqdn": "zqaflhty5hyziovsxgqvj2mrz5e5rs6oqxzb54zolccfnvtn5w2johad.onion",
-                "title": "LOCKFILE",
-                "version": 3,
-                "slug": "http://zqaflhty5hyziovsxgqvj2mrz5e5rs6oqxzb54zolccfnvtn5w2johad.onion",
-                "available": true,
-                "updated": "2021-10-04 07:47:10.366315",
-                "lastscrape": "2021-10-04 07:47:10.366303"
             }
         ],
         "profile": []
