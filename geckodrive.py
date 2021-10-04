@@ -23,7 +23,8 @@ def main(webpage):
     '''
     main function to fetch webpages with javascript rendering supporting onion routing
     '''
-    stdlog('geckodriver: ' + 'starting')
+    stdlog('geckodriver: ' + 'starting to fetch ' + webpage)
+    dbglog('geckodriver: ' + 'configuring options, user agent & cert preacceptance')
     options = Options()
     options.headless = True
     options.add_argument("start-maximized")
@@ -54,6 +55,7 @@ def main(webpage):
         stdlog('geckodriver: ' + 'waiting ' + str(sleeptz) + ' seconds to render elements')
         time.sleep(sleeptz)
         if 'lockbitapt' in webpage:
+            stdlog('geckodriver: ' + 'special detected, waiting for captcha')
             driver.add_cookie({"name": "ddosproteck", "value": "lol"})
             driver.find_element_by_css_selector('button').click()
         '''
@@ -61,11 +63,12 @@ def main(webpage):
         '''
         source = driver.execute_script("return document.getElementsByTagName('html')[0].innerHTML")
         stdlog('geckodriver: ' + 'fetched')
-        stdlog('geckodriver: ' + 'webdriver quit')
-        driver.quit()
     except WebDriverException as e:
         errlog('geckodriver: ' + 'error: ' + str(e))
         driver.quit()
         stdlog('geckodriver: ' + 'webdriver quit')
         return None
+    if driver:
+        driver.quit()
+        stdlog('geckodriver: ' + 'webdriver quit')
     return source
