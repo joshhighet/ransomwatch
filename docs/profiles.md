@@ -1752,6 +1752,8 @@ _parsing : `disabled`_
 | `AZA chili    ` | 04/10/2021 |
 | `Clay County Clerk    ` | 04/10/2021 |
 | `Aluflexpack` | 04/10/2021 |
+| `Farmers Cooperative Elevator    ` | 04/10/2021 |
+| `Tom Lange Company, Inc.    ` | 04/10/2021 |
 
 ## lolnek
 
