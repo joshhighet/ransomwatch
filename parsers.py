@@ -68,7 +68,7 @@ all parsers here are shell - mix of grep/sed/awk & perl - runshellcmd is a wrapp
 def synack():
     stdlog('parser: ' + 'synack')
     parser='''
-    grep 'card-title' source/synack*.html --no-filename | cut -d ">" -f2 | cut -d "<" -f1
+    grep 'card-title' source/synack-*.html --no-filename | cut -d ">" -f2 | cut -d "<" -f1
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
@@ -102,7 +102,7 @@ def suncrypt():
 def lorenz():
     stdlog('parser: ' + 'lorenz')
     parser = '''
-    grep 'h3' source/lorenz*.html --no-filename | cut -d ">" -f2 | cut -d "<" -f1 | sed -e 's/^ *//g' -e '/^$/d'
+    grep 'h3' source/lorenz-*.html --no-filename | cut -d ">" -f2 | cut -d "<" -f1 | sed -e 's/^ *//g' -e '/^$/d'
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
@@ -113,7 +113,7 @@ def lorenz():
 def lockbit2():
     stdlog('parser: ' + 'lockbit2')
     parser = '''
-    awk -v lines=2 '/post-title-block/ {for(i=lines;i;--i)getline; print $0 }' source/lockbit2*.html | cut -d '<' -f1 | sed 's/^ *//g'
+    awk -v lines=2 '/post-title-block/ {for(i=lines;i;--i)getline; print $0 }' source/lockbit2-*.html | cut -d '<' -f1 | sed 's/^ *//g'
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
@@ -127,7 +127,7 @@ used to fetch the description of a lb2 post - not used
 def lockbit2desc():
     stdlog('parser: ' + 'lockbit2desc')
     parser = '''
-    sed -n '/post-block-text/{n;p;}' source/lockbit2*.html | sed '/^</d' | cut -d "<" -f1
+    sed -n '/post-block-text/{n;p;}' source/lockbit2-*.html | sed '/^</d' | cut -d "<" -f1
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
@@ -138,7 +138,7 @@ def lockbit2desc():
 def arvinclub():
     stdlog('parser: ' + 'arvinclub')
     parser = '''
-    grep 'bookmark' source/arvinclub*.html --no-filename | cut -d ">" -f3 | cut -d "<" -f1
+    grep 'bookmark' source/arvinclub-*.html --no-filename | cut -d ">" -f3 | cut -d "<" -f1
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
@@ -149,7 +149,7 @@ def arvinclub():
 def hiveleak():
     stdlog('parser: ' + 'hiveleak')
     parser = '''
-    grep 'bookmark' source/hiveleak*.html --no-filename | cut -d ">" -f3 | cut -d "<" -f1
+    grep 'bookmark' source/hiveleak-*.html --no-filename | cut -d ">" -f3 | cut -d "<" -f1
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
@@ -172,7 +172,7 @@ def avoslocker():
 def avaddon():
     stdlog('parser: ' + 'avaddon')
     parser = '''
-    grep 'h6' source/avaddon*.html --no-filename | cut -d ">" -f3 | sed -e s/'<\/a'//
+    grep 'h6' source/avaddon-*.html --no-filename | cut -d ">" -f3 | sed -e s/'<\/a'//
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
@@ -183,7 +183,7 @@ def avaddon():
 def xinglocker():
     stdlog('parser: ' + 'xinglocker')
     parser = '''
-    grep "h3" -A1 source/xinglocker*.html --no-filename | grep -v h3 | awk -v n=4 'NR%n==1' | sed -e 's/^[ \t]*//'
+    grep "h3" -A1 source/xinglocker-*.html --no-filename | grep -v h3 | awk -v n=4 'NR%n==1' | sed -e 's/^[ \t]*//'
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
@@ -194,7 +194,7 @@ def xinglocker():
 def ragnarlocker():
     stdlog('parser: ' + 'ragnarlocker')
     json_parser = '''
-    grep 'var post_links' source/ragnarlocker*.html --no-filename | sed -e s/"        var post_links = "// -e "s/ ;//"
+    grep 'var post_links' source/ragnarlocker-*.html --no-filename | sed -e s/"        var post_links = "// -e "s/ ;//"
     '''
     posts = runshellcmd(json_parser)
     post_json = json.loads(posts[0])
@@ -212,7 +212,7 @@ def ragnarlocker():
 def clop():
     stdlog('parser: ' + 'clop')
     parser = '''
-    grep 'PUBLISHED' source/clop*.html --no-filename | sed -e s/"<strong>"// -e s/"<\/strong>"// -e s/"<\/p>"// -e s/"<p>"// -e s/"<br>"// -e s/"<strong>"// -e s/"<\/strong>"//
+    grep 'PUBLISHED' source/clop-*.html --no-filename | sed -e s/"<strong>"// -e s/"<\/strong>"// -e s/"<\/p>"// -e s/"<p>"// -e s/"<br>"// -e s/"<strong>"// -e s/"<\/strong>"//
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
@@ -223,7 +223,7 @@ def clop():
 def revil():
     stdlog('parser: ' + 'revil')
     parser = '''
-    grep 'href="/posts' source/revil*.html --no-filename | cut -d '>' -f2 | sed -e s/'<\/a'// -e 's/^[ \t]*//'
+    grep 'href="/posts' source/revil-*.html --no-filename | cut -d '>' -f2 | sed -e s/'<\/a'// -e 's/^[ \t]*//'
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
@@ -234,7 +234,7 @@ def revil():
 def ragnarok():
     stdlog('parser: ' + 'ragnarok')
     parser = '''
-    grep 'var post_links =' source/ragnarok-* | cut -d '=' -f 2 | sed 's/^ *//g' | sed -e 's/.$//' -e 's/.$//'  -e 's/.$//' |  jq -r '.[].title'
+    grep 'var post_links =' source/ragnarok-*.html | cut -d '=' -f 2 | sed 's/^ *//g' | sed -e 's/.$//' -e 's/.$//'  -e 's/.$//' |  jq -r '.[].title'
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
@@ -245,7 +245,7 @@ def ragnarok():
 def conti():
     stdlog('parser: ' + 'conti')
     parser = '''
-    grep 'class="title">&' source/conti*.html --no-filename | cut -d ";" -f2 | sed -e s/"&rdquo"//
+    grep 'class="title">&' source/conti-*.html --no-filename | cut -d ";" -f2 | sed -e s/"&rdquo"//
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
@@ -256,7 +256,7 @@ def conti():
 def pysa():
     stdlog('parser: ' + 'pysa')
     parser = '''
-    grep 'icon-chevron-right' source/pysa*.html --no-filename | cut -d '>' -f3 | sed 's/^ *//g'
+    grep 'icon-chevron-right' source/pysa-*.html --no-filename | cut -d '>' -f3 | sed 's/^ *//g'
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
@@ -267,7 +267,7 @@ def pysa():
 def nefilim():
     stdlog('parser: ' + 'nefilim')
     parser = '''
-    grep 'h2' source/nefilim*.html --no-filename | cut -d '>' -f3 | sed -e s/'<\/a'//
+    grep 'h2' source/nefilim-*.html --no-filename | cut -d '>' -f3 | sed -e s/'<\/a'//
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
@@ -278,7 +278,7 @@ def nefilim():
 def mountlocker():
     stdlog('parser: ' + 'mountlocker')
     parser = '''
-    grep '<h3><a href=' source/mount-locker*.html --no-filename | cut -d '>' -f5 | sed -e s/'<\/a'// | sed 's/^ *//g'
+    grep '<h3><a href=' source/mount-locker-*.html --no-filename | cut -d '>' -f5 | sed -e s/'<\/a'// | sed 's/^ *//g'
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
@@ -300,7 +300,7 @@ def babuklocker():
 def ransomexx():
     stdlog('parser: ' + 'ransomexx')
     parser = '''
-    grep 'card-title' source/ransomexx*.html --no-filename | cut -d '>' -f2 | sed -e s/'<\/h5'//
+    grep 'card-title' source/ransomexx-*.html --no-filename | cut -d '>' -f2 | sed -e s/'<\/h5'//
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
@@ -311,7 +311,7 @@ def ransomexx():
 def cuba():
     stdlog('parser: ' + 'cuba')
     parser = '''
-    grep '<p>' source/cuba*.html --no-filename | cut -d '>' -f3 | cut -d '<' -f1
+    grep '<p>' source/cuba-*.html --no-filename | cut -d '>' -f3 | cut -d '<' -f1
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
@@ -322,7 +322,7 @@ def cuba():
 def pay2key():
     stdlog('parser: ' + 'pay2key')
     parser = '''
-    grep 'h3><a href' source/pay2key*.html --no-filename | cut -d '>' -f3 | sed -e s/'<\/a'//
+    grep 'h3><a href' source/pay2key-*.html --no-filename | cut -d '>' -f3 | sed -e s/'<\/a'//
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
@@ -333,7 +333,7 @@ def pay2key():
 def azroteam():
     stdlog('parser: ' + 'azroteam')
     parser = '''
-    grep "h3" -A1 source/aztroteam*.html --no-filename | grep -v h3 | awk -v n=4 'NR%n==1' | sed -e 's/^[ \t]*//'
+    grep "h3" -A1 source/aztroteam-*.html --no-filename | grep -v h3 | awk -v n=4 'NR%n==1' | sed -e 's/^[ \t]*//'
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
@@ -377,7 +377,7 @@ def darkleakmarket():
 def blackmatter():
     stdlog('parser: ' + 'blackmatter')
     parser = '''
-    grep '<h4 class="post-announce-name" title="' source/blackmatter-*.html | cut -d '"' -f4 | sort -u
+    grep '<h4 class="post-announce-name" title="' source/blackmatter-*.html.html | cut -d '"' -f4 | sort -u
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
@@ -388,7 +388,7 @@ def blackmatter():
 def payloadbin():
     stdlog('parser: ' + 'payloadbin')
     parser = '''
-    grep '<h4 class="h4' source/payloadbin-* --no-filename | cut -d '>' -f3 | cut -d '<' -f 1
+    grep '<h4 class="h4' source/payloadbin-*.html --no-filename | cut -d '>' -f3 | cut -d '<' -f 1
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
@@ -399,7 +399,7 @@ def payloadbin():
 def groove():
     stdlog('parser: ' + 'groove')
     parser = '''
-    egrep -o 'class="title">([[:alnum:]]| |\.)+</a>' source/groove-* | cut -d '>' -f2 | cut -d '<' -f 1
+    egrep -o 'class="title">([[:alnum:]]| |\.)+</a>' source/groove-*.html | cut -d '>' -f2 | cut -d '<' -f 1
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
