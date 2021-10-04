@@ -162,7 +162,7 @@ def recentposts(top):
     return recentposts
 
 def recentpage():
-    '''create a markdown table for the last 30 posts based on the discovered value'''
+    '''create a markdown table for the last 100 posts based on the discovered value'''
     stdlog('generating recent posts page')
     recentpage = 'docs/recentposts.md'
     # delete contents of file
@@ -172,8 +172,8 @@ def recentpage():
     writeline(recentpage, '')
     writeline(recentpage, '| date | title | group |')
     writeline(recentpage, '|---|---|---|')
-    # fetch the 30 most revent posts and add to ascending markdown table
-    for post in recentposts(30):
+    # fetch the 100 most revent posts and add to ascending markdown table
+    for post in recentposts(100):
         # show friendly date for discovered
         date = post['discovered'].split(' ')[0]
         # replace markdown tampering characters
