@@ -123,6 +123,7 @@ _parsing : `enabled`_
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
 | LockBit BLOG | True | 3 | 08:06 04/10/2021 | `lockbitapt6vx57t3eeqjofwgcglmutr3a35nygvokja5uuccip4ykyd.onion` |
+| none | None | 3 | 00:00 01/05/2021 | `zqaflhty5hyziovsxgqvj2mrz5e5rs6oqxzb54zolccfnvtn5w2johad.onion` |
 
 | post | date |
 |---|---|
@@ -1313,6 +1314,17 @@ _parsing : `enabled`_
 | `Jesse Engineering Co` | 13/09/2021 |
 | `One Community Health` | 13/09/2021 |
 | `Betson Enterprises` | 13/09/2021 |
+| `Ocean View Nursing & Rehabilitation` | 04/10/2021 |
+| `Associated Solutions` | 04/10/2021 |
+| `HMCC` | 04/10/2021 |
+| `Adore Fashions` | 04/10/2021 |
+| `Jurysync` | 04/10/2021 |
+| `St Benet Biscop` | 04/10/2021 |
+| `ITS, Inc.` | 04/10/2021 |
+| `Ardagh Group` | 04/10/2021 |
+| `Instituto Mixto de Ayuda Social` | 04/10/2021 |
+| `SantÃ©lys` | 04/10/2021 |
+| `Consolidated High School District 230` | 04/10/2021 |
 
 ## nefilim
 
@@ -1732,6 +1744,14 @@ _parsing : `disabled`_
 
 | post | date |
 |---|---|
+| `Matic Transport    ` | 04/10/2021 |
+| `Goss Dodge Chrysler Ram Jeep    ` | 04/10/2021 |
+| `GEO-Alpinbau    ` | 04/10/2021 |
+| `The Plastic Forming Company    ` | 04/10/2021 |
+| `BOSCA S.p.A    ` | 04/10/2021 |
+| `AZA chili    ` | 04/10/2021 |
+| `Clay County Clerk    ` | 04/10/2021 |
+| `Aluflexpack` | 04/10/2021 |
 
 ## lolnek
 
@@ -1765,6 +1785,8 @@ _parsing : `disabled`_
 
 | post | date |
 |---|---|
+| `Charles Crown Financial Ltd` | 04/10/2021 |
+| `Ward Arcuri Foley &amp; Dwyer | Law Firm` | 04/10/2021 |
 
 ## coomingproject
 
@@ -1864,6 +1886,13 @@ _parsing : `disabled`_
 
 | post | date |
 |---|---|
+| `YASH Technologies. Part 1.` | 04/10/2021 |
+| `SI Group. Part 1.` | 04/10/2021 |
+| `Align Technology. Part 2.` | 04/10/2021 |
+| `The next leak will be of a multi billion dollar cosmetics and fragrance company.` | 04/10/2021 |
+| `Align Technology. Part 1.` | 04/10/2021 |
+| `Saurer. Part 1.` | 04/10/2021 |
+| `Our first post` | 04/10/2021 |
 
 ## lockbit
 
@@ -1872,17 +1901,6 @@ _parsing : `disabled`_
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
 | none | False | 2 | 00:00 01/05/2021 | `lockbitkodidilol.onion` |
-
-| post | date |
-|---|---|
-
-## lockfile
-
-_parsing : `disabled`_
-
-| title | available | version | last visit | fqdn
-|---|---|---|---|---|
-| LOCKFILE | True | 3 | 08:11 04/10/2021 | `zqaflhty5hyziovsxgqvj2mrz5e5rs6oqxzb54zolccfnvtn5w2johad.onion` |
 
 | post | date |
 |---|---|
@@ -1994,6 +2012,17 @@ _parsing : `disabled`_
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
 | none | None | 3 | 00:00 01/05/2021 | `wj3b2wtj7u2bzup75tzhnso56bin6bnvsxcbwbfcuvzpc4vcixbywlid.onion` |
+
+| post | date |
+|---|---|
+
+## spook
+
+_parsing : `disabled`_
+
+| title | available | version | last visit | fqdn
+|---|---|---|---|---|
+| none | None | 3 | 00:00 01/05/2021 | `spookuhvfyxzph54ikjfwf2mwmxt572krpom7reyayrmxbkizbvkpaid.onion` |
 
 | post | date |
 |---|---|

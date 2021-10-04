@@ -1,18 +1,18 @@
 ## 📰 summary - october 4th, 2021
 
-currently tracking `67` groups across `79` various relays and mirrors - _`35` of which are online_
+currently tracking `67` groups across `80` various relays and mirrors - _`34` of which are online_
 
 there are currently `30` active parsers, `10` of which requiring headless browsers - _`3` groups have introduced captchas this year_
 
-⏲ there have been `5` posts within the `last 24 hours`
+⏲ there have been `33` posts within the `last 24 hours`
 
-🦈 there have been `21` posts within the `month of october`
+🦈 there have been `49` posts within the `month of october`
 
-🪐 there have been `1035` posts within the `last 90 days`
+🪐 there have been `1063` posts within the `last 90 days`
 
-🏚 there have been `1075` posts within the `year of 2021`
+🏚 there have been `1103` posts within the `year of 2021`
 
-🦕 there have been `1109` posts `since the dawn of ransomwatch`
+🦕 there have been `1137` posts `since the dawn of ransomwatch`
 
 > _the `19` sites using v2 onion services are no longer indexed - [support.torproject.org](https://support.torproject.org/onionservices/v2-deprecation/)_
 
@@ -30,6 +30,7 @@ there are currently `30` active parsers, `10` of which requiring headless browse
 | lv | LV Blog | ⬆️ 🟢 |  | 4qbxi3i2oqmyzxsjg4fwe4aly3xkped52gq5orp6efpkeskvchqe27id.onion |
 | lorenz | Lorenz | ⬆️ 🟢 |  | lorenzmlwpzgxq736jzseuterytjueszsvznuibanxomlpkyxk6ksoyd.onion |
 | lockbit2 | LockBit BLOG | ⬆️ 🟢 |  | lockbitapt6vx57t3eeqjofwgcglmutr3a35nygvokja5uuccip4ykyd.onion |
+| lockbit2 |  | ⬆️ 🟢 |  | zqaflhty5hyziovsxgqvj2mrz5e5rs6oqxzb54zolccfnvtn5w2johad.onion |
 | hive | Hive | ⬆️ 🟢 |  | hiveleakdbtnp76ulyhi52eag6c6tyc3xw7ez7iqy6wc34gd2nekazyd.onion |
 | arvinclub | Arvin Club – آزادی برای اتصال | ⬆️ 🟢 |  | 3kp6j22pz3zkv76yutctosa6djpj4yib2icvdqxucdaxxedumhqicpad.onion |
 | avoslocker | AvosLocker Access Queue | ⬆️ 🟢 |  | avosqxh72b5ia23dl5fgwcpndkctuzqvh2iefk5imp3pi5gfhel5klad.onion |
@@ -87,7 +88,6 @@ there are currently `30` active parsers, `10` of which requiring headless browse
 | hotarus |  | ⬇️ 🔴 | 2021-05-01 | r6d636w47ncnaukrpvlhmtdbvbeltc6enfcuuow3jclpmyga7cz374qd.onion |
 | karma | Karma Leaks | ⬆️ 🟢 |  | 3nvzqyo6l4wkrzumzu5aod7zbosq4ipgf7ifgj3hsvbcr5vcasordvqd.onion |
 | lockbit |  | ⬇️ 🔴 | 2021-05-01 | lockbitkodidilol.onion |
-| lockfile | LOCKFILE | ⬆️ 🟢 |  | zqaflhty5hyziovsxgqvj2mrz5e5rs6oqxzb54zolccfnvtn5w2johad.onion |
 | mbc |  | ⬇️ 🔴 | 2021-05-01 | xembshruusobgbvxg4tcjs3jpdnks6xrr6nbokfxadcnlc53yxir22ad.onion |
 | mydecryptor |  | ⬇️ 🔴 | 2021-05-01 | 5s4ixqul2enwxrqv.onion |
 | n3tworm |  | ⬇️ 🔴 | 2021-05-01 | n3twormruynhn3oetmxvasum2miix2jgg56xskdoyihra4wthvlgyeyd.onion |
@@ -99,3 +99,4 @@ there are currently `30` active parsers, `10` of which requiring headless browse
 | vfokx |  | ⬆️ 🟢 |  | vfokxcdzjbpehgit223vzdzwte47l3zcqtafj34qrr26htjo4uf3obid.onion |
 | vfokx |  | ⬆️ 🟢 |  | 746pbrxl7acvrlhzshosye3b3udk4plurpxt2pp27pojfhkkaooqiiqd.onion |
 | xinof |  | ⬆️ 🟢 |  | wj3b2wtj7u2bzup75tzhnso56bin6bnvsxcbwbfcuvzpc4vcixbywlid.onion |
+| spook |  | ⬆️ 🟢 |  | spookuhvfyxzph54ikjfwf2mwmxt572krpom7reyayrmxbkizbvkpaid.onion |
