@@ -2,6 +2,13 @@
 
 | date | title | group |
 |---|---|---|
+| 2021-10-05 | `EMPIRICAL-RESEARCH.COM  FILES PART3 - dhurley@empirical-research.com.ost PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2021-10-05 | `BRPRINTERS.COM FILES  PART4 PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2021-10-05 | `STORAFILE.CO.UK  FILES PART8 PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2021-10-05 | `BLUEBONNETNUTRITION.COM FILES  FILES PART5 PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2021-10-05 | `BPATPA.COM FILES  PART5 PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2021-10-05 | `barreaudecharle... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
+| 2021-10-05 | `https://moonnur... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-10-05 | `SUNSETHCS.COM FILES  *<em>PART6</em> PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2021-10-05 | `AUROBINDO.COM FILES  PART13 PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2021-10-05 | `UTILITYTRAILER.COM FILES  PART12 PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
@@ -95,10 +102,3 @@
 | 2021-10-05 | `WDMANOR.COM FILES  PART9 PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2021-10-05 | `COMPASSNRG.COM FILES  FILES PART5 - EXTRACTED EMAILS PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2021-10-05 | `GENESISNET.COM FILES  PART3 PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2021-10-05 | `STORAFILE.CO.UK  FILES PART1 - gavin@storafile.co.uk.ost PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2021-10-05 | `GENESISNET.COM FILES  PART4 - SALES PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2021-10-05 | `COMPASSNRG.COM FILES  FILES PART6 - EXTRACTED EMAILS PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2021-10-05 | `WDMANOR.COM FILES  PART10 - PROJECTS PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2021-10-05 | `MMALTZAN.COM FILES  PART10 PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2021-10-05 | `COULSONGROUP.COM FILES  PART10 - 10.2.1.69 PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2021-10-05 | `PARAGONGRI.COM FILES  FILES PART11 PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
