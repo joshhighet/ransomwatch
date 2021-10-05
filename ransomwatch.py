@@ -106,57 +106,49 @@ def checkexisting(provider):
             return True
     return False
 
-def visithandler(host, group):
-    stdlog('ransomwatch: ' + 'scraping ' + host['slug'])
-    host['available'] = bool()
-    '''
-    only scrape onion v3 unless using headless browser, not long before this will not be possible
-    https://support.torproject.org/onionservices/v2-deprecation/
-    '''
-    if host['version'] >= 3:
-        if group['geckodriver'] is True:
-            stdlog('ransomwatch: ' + 'using geckodriver')
-            response = geckodrive.main(host['slug'])
-        elif group['javascript_render'] is True:
-            stdlog('ransomwatch: ' + 'using javascript_render (geckodriver)')
-            response = geckodrive.main(host['slug'])
-        else:
-            stdlog('ransomwatch: ' + 'using standard socksfetcher')
-            response = socksfetcher(host['slug'])
-        if response is not None:
-            stdlog('ransomwatch: ' + 'scraping ' + host['slug'] + ' successful')
-            filename = group['name'] + '-' + striptld(host['slug']) + '.html'
-            name = os.path.join(os.getcwd(), 'source', filename)
-            stdlog('ransomwatch: ' + 'saving ' + name)
-            with open(name, 'w', encoding='utf-8') as sitesource:
-                sitesource.write(response)
-                sitesource.close()
-            dbglog('ransomwatch: ' + 'saving ' + name + ' successful')
-            host['available'] = True
-            host['title'] = getsitetitle(name)
-            host['lastscrape'] = str(datetime.today())
-
 def scraper():
-    '''
-    main scraping function
-    scrapes all by default but can be run against singular group with --name
-    '''
+    '''main scraping function'''
     groups = openjson("groups.json")
-    if args.name is not None:
-        # iterate each provider
-        for group in groups:
-            if group['name'] == args.name:
-                stdlog('ransomwatch: ' + 'working on ' + group['name'])
-                # iterate each location/mirror/relay
-                for host in group['locations']:
-                    visithandler(host, group)
-    else:
-        # iterate each provider
-        for group in groups:
-            stdlog('ransomwatch: ' + 'working on ' + group['name'])
-            # iterate each location/mirror/relay
-            for host in group['locations']:
-                visithandler(host, group)
+    # iterate each provider
+    for group in groups:
+        stdlog('ransomwatch: ' + 'working on ' + group['name'])
+        # iterate each location/mirror/relay
+        for host in group['locations']:
+            stdlog('ransomwatch: ' + 'scraping ' + host['slug'])
+            host['available'] = bool()
+            '''
+            only scrape onion v3 unless using headless browser, not long before this will not be possible
+            https://support.torproject.org/onionservices/v2-deprecation/
+            '''
+            if host['version'] >= 3:
+                if group['geckodriver'] is True:
+                    stdlog('ransomwatch: ' + 'using geckodriver')
+                    response = geckodrive.main(host['slug'])
+                elif group['javascript_render'] is True:
+                    stdlog('ransomwatch: ' + 'using javascript_render (geckodriver)')
+                    response = geckodrive.main(host['slug'])
+                else:
+                    stdlog('ransomwatch: ' + 'using standard socksfetcher')
+                    response = socksfetcher(host['slug'])
+                if response is not None:
+                    stdlog('ransomwatch: ' + 'scraping ' + host['slug'] + ' successful')
+                    filename = group['name'] + '-' + striptld(host['slug']) + '.html'
+                    name = os.path.join(os.getcwd(), 'source', filename)
+                    stdlog('ransomwatch: ' + 'saving ' + name)
+                    with open(name, 'w', encoding='utf-8') as sitesource:
+                        sitesource.write(response)
+                        sitesource.close()
+                    dbglog('ransomwatch: ' + 'saving ' + name + ' successful')
+                    host['available'] = True
+                    host['title'] = getsitetitle(name)
+                    host['lastscrape'] = str(datetime.today())            
+                    host['updated'] = str(datetime.today())
+                    dbglog('ransomwatch: ' + 'scrape successful')
+                    with open('groups.json', 'w', encoding='utf-8') as groupsfile:
+                        json.dump(groups, groupsfile, ensure_ascii=False, indent=4)
+                        groupsfile.close()
+            else:
+                errlog('ransomwatch: ' + 'scrape failed - ' + host['slug'] + ' is not a v3 onionsite')
 
 def adder(name, location):
     '''
