@@ -2,6 +2,7 @@
 
 | date | title | group |
 |---|---|---|
+| 2021-10-05 | `moonnurseries.c... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-10-05 | `Berexco LLC` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2021-10-05 | `GENESISNET.COM FILES  PART11 - 10.0.70.121\ATS_FILESHARE\Project_Management\VERIZON\ADM 18` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2021-10-05 | `Cock Foods Co., Ltd.` | [spook](https://ransomwatch.telemetry.ltd/#/profiles?id=spook) |
@@ -101,4 +102,3 @@
 | 2021-10-05 | `PARAGONGRI.COM FILES  FILES PART10 PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2021-10-05 | `KSSENTERPRISES.COM FILES  PART9 PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2021-10-05 | `COULSONGROUP.COM FILES  PART9 PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2021-10-05 | `MMALTZAN.COM FILES  PART9 PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
