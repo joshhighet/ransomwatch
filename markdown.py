@@ -175,7 +175,8 @@ def recentpage():
         # replace markdown tampering characters
         title = post['post_title'].replace('|', '-')
         group = post['group_name'].replace('|', '-')
-        line = '| ' + date + ' | `' + title + '` | ' + group + ' |'
+        grouplink = '[' + group + '](https://ransomwatch.telemetry.ltd/#/profiles?id=' + group + ')'
+        line = '| ' + date + ' | `' + title + '` | ' + grouplink + ' |'
         writeline(recentpage, line)
     stdlog('recent posts page generated')
 
