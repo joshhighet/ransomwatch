@@ -212,6 +212,7 @@ if args.mode == 'markdown':
     stdlog('ransomwatch: ' + 'markdown run complete')
 
 if args.mode == 'parse':
+    parsers.suncrypt()
     parsers.bonacigroup()
     parsers.blackbyte()
     parsers.spook()
