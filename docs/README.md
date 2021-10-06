@@ -1,10 +1,10 @@
 ## 📰 summary - october 6th, 2021
 
-currently tracking `67` groups across `80` various relays and mirrors - _`34` of which are online_
+currently tracking `67` groups across `80` various relays and mirrors - _`35` of which are online_
 
 there are currently `30` active parsers, `10` of which requiring headless browsers - _`3` groups have introduced captchas this year_
 
-⏲ there have been `3` posts within the `last 24 hours`
+⏲ there have been `2` posts within the `last 24 hours`
 
 🦈 there have been `226` posts within the `month of october`
 
@@ -63,7 +63,7 @@ there are currently `30` active parsers, `10` of which requiring headless browse
 | pay2key | Pay2Key Leak Directory! | ⬆️ 🟢 |  | pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion |
 | aztroteam |  | ⬇️ 🔴 | 2021-05-01 | anewset3pcya3xvk73hj7yunuamutxxsm5sohkdi32blhmql55tvgqad.onion |
 | lockdata | LockData Auction | ⬆️ 🟢 |  | wm6mbuzipviusuc42kcggzkdpbhuv45sn7olyamy6mcqqked3waslbqd.onion |
-| blacktor | Bl@ckt0r - Bug Hunter and Data Breacher Group | ⬇️ 🔴 | 2021-10-06 | bl4cktorpms2gybrcyt52aakcxt6yn37byb65uama5cimhifcscnqkid.onion |
+| blacktor | Bl@ckt0r - Bug Hunter and Data Breacher Group | ⬆️ 🟢 |  | bl4cktorpms2gybrcyt52aakcxt6yn37byb65uama5cimhifcscnqkid.onion |
 | haron | Clients page | ⬆️ 🟢 |  | ft4zr2jzlqoyob7yg4fcpwyt37hox3ajajqnfkdvbfrkjioyunmqnpad.onion |
 | darkleakmarket | Dark Leak Market | ⬆️ 🟢 |  | 54rdhzjzc4ids4u4wata4zr4ywfon5wpz2ml4q3avelgadpvmdal2vqd.onion |
 | prometheus |  | ⬇️ 🔴 | 2021-05-01 | promethw27cbrcot.onion |
