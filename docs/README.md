@@ -6,13 +6,13 @@ there are currently `30` active parsers, `10` of which requiring headless browse
 
 ⏲ there have been `2` posts within the `last 24 hours`
 
-🦈 there have been `226` posts within the `month of october`
+🦈 there have been `227` posts within the `month of october`
 
-🪐 there have been `1239` posts within the `last 90 days`
+🪐 there have been `1240` posts within the `last 90 days`
 
-🏚 there have been `1280` posts within the `year of 2021`
+🏚 there have been `1281` posts within the `year of 2021`
 
-🦕 there have been `1314` posts `since the dawn of ransomwatch`
+🦕 there have been `1315` posts `since the dawn of ransomwatch`
 
 > _the `19` sites using v2 onion services are no longer indexed - [support.torproject.org](https://support.torproject.org/onionservices/v2-deprecation/)_
 
