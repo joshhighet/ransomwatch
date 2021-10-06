@@ -1,10 +1,10 @@
 ## 📰 summary - october 6th, 2021
 
-currently tracking `67` groups across `80` various relays and mirrors - _`35` of which are online_
+currently tracking `67` groups across `80` various relays and mirrors - _`34` of which are online_
 
 there are currently `30` active parsers, `10` of which requiring headless browsers - _`3` groups have introduced captchas this year_
 
-⏲ there have been `164` posts within the `last 24 hours`
+⏲ there have been `163` posts within the `last 24 hours`
 
 🦈 there have been `226` posts within the `month of october`
 
@@ -80,7 +80,7 @@ there are currently `30` active parsers, `10` of which requiring headless browse
 | bonacigroup | Blog | ⬆️ 🟢 |  | bonacifryrxr4siz6ptvokuihdzmjzpveruklxumflz5thmkgauty2qd.onion |
 | coomingproject |  | ⬇️ 🔴 | 2021-05-01 | teo7aj5mfgzxyeme.onion |
 | crylock |  | ⬇️ 🔴 | 2021-05-01 | d57uremugxjrafyg.onion |
-| ech0raix |  | ⬆️ 🟢 |  | veqlxhq7ub5qze3qy56zx2cig2e6tzsgxdspkubwbayqije6oatma6id.onion |
+| ech0raix |  | ⬇️ 🔴 | 2021-10-06 | veqlxhq7ub5qze3qy56zx2cig2e6tzsgxdspkubwbayqije6oatma6id.onion |
 | ep918 |  | ⬇️ 🔴 | 2021-05-01 | dg5fyig37abmivryrxlordrczn6d6r5wzcfe2msuo5mbbu2exnu46fid.onion |
 | exorcist |  | ⬇️ 🔴 | 2021-05-01 | 7iulpt5i6whht6zo2r52f7vptxtjxs3vfcdxxazllikrtqpupn4epnqd.onion |
 | hades |  | ⬇️ 🔴 | 2021-05-01 | ixltdyumdlthrtgx.onion |
