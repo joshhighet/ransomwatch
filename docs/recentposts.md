@@ -2,6 +2,7 @@
 
 | date | title | group |
 |---|---|---|
+| 2021-10-07 | `Join us on RAMP` | [revil](https://ransomwatch.telemetry.ltd/#/profiles?id=revil) |
 | 2021-10-07 | `Gestão Contabilidade Empresarial` | [spook](https://ransomwatch.telemetry.ltd/#/profiles?id=spook) |
 | 2021-10-07 | `Indian Aadhar data & software.` | [darkleakmarket](https://ransomwatch.telemetry.ltd/#/profiles?id=darkleakmarket) |
 | 2021-10-07 | `Epik Domain registrar and web host` | [darkleakmarket](https://ransomwatch.telemetry.ltd/#/profiles?id=darkleakmarket) |
@@ -101,4 +102,3 @@
 | 2021-10-05 | `WDMANOR.COM FILES  PART7 PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2021-10-05 | `COMPASSNRG.COM FILES  FILES PART3 - EXTRACTED EMAILS PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2021-10-05 | `MMALTZAN.COM FILES  PART7 PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2021-10-05 | `GENESISNET.COM FILES  PART1 - EXTRACTED EMAILS PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
