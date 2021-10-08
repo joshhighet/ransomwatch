@@ -2,6 +2,7 @@
 
 | date | title | group |
 |---|---|---|
+| 2021-10-08 | `Tilia GmbH. TILIA GROUP` | [xinglocker](https://ransomwatch.telemetry.ltd/#/profiles?id=xinglocker) |
 | 2021-10-08 | `Kern Glass and Aluminum Company` | [spook](https://ransomwatch.telemetry.ltd/#/profiles?id=spook) |
 | 2021-10-08 | `ECKERD PERU S.A, INKAFARMA, MIFARMA` | [revil](https://ransomwatch.telemetry.ltd/#/profiles?id=revil) |
 | 2021-10-08 | `La SECAN` | [spook](https://ransomwatch.telemetry.ltd/#/profiles?id=spook) |
@@ -101,4 +102,3 @@
 | 2021-10-05 | `WDMANOR.COM FILES  PART5 PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2021-10-05 | `MMALTZAN.COM FILES  PART5 PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2021-10-05 | `PARAGONGRI.COM FILES  FILES PART6 PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2021-10-05 | `ZUCCHETTIKOS.IT FILES  PART9+10 PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
