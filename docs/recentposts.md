@@ -2,6 +2,7 @@
 
 | date | title | group |
 |---|---|---|
+| 2021-10-09 | `Kurier` | [spook](https://ransomwatch.telemetry.ltd/#/profiles?id=spook) |
 | 2021-10-08 | `dusa.com.ve ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-10-08 | `Tilia GmbH. TILIA GROUP` | [xinglocker](https://ransomwatch.telemetry.ltd/#/profiles?id=xinglocker) |
 | 2021-10-08 | `Kern Glass and Aluminum Company` | [spook](https://ransomwatch.telemetry.ltd/#/profiles?id=spook) |
@@ -101,4 +102,3 @@
 | 2021-10-05 | `COULSONGROUP.COM FILES  PART5 PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2021-10-05 | `COMPASSNRG.COM FILES  FILES PART1 - EXTRACTED EMAILS PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2021-10-05 | `WDMANOR.COM FILES  PART5 PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2021-10-05 | `MMALTZAN.COM FILES  PART5 PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
