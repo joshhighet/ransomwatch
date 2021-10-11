@@ -74,7 +74,7 @@ there are currently `30` active parsers, `10` of which requiring headless browse
 | atomsilo | AtomSilo | ⬆️ 🟢 |  | mhdehvkomeabau7gsetnsrhkfign4jgnx3wajth5yb5h6kvzbd72wlqd.onion |
 | avos |  | ⬇️ 🔴 | 2021-05-01 | avos2fuj6olp6x36.onion |
 | blackbyte |  | ⬇️ 🔴 | 2021-05-01 | 6iaj3efye3q62xjgfxyegrufhewxew7yt4scxjd45tlfafyja6q4ctqd.onion |
-| blackbyte | BlackByte BLOG | ⬆️ 🟢 |  | f5uzduboq4fa2xkjloprmctk7ve3dm46ff7aniis66cbekakvksxgeqd.onion |
+| blackbyte | BlackByte BLOG | ⬇️ 🔴 | 2021-10-11 | f5uzduboq4fa2xkjloprmctk7ve3dm46ff7aniis66cbekakvksxgeqd.onion |
 | lolnek | Support | ⬆️ 🟢 |  | mmeeiix2ejdwkmseycljetmpiwebdvgjts75c63camjofn2cjdoulzqd.onion |
 | blackshadow |  | ⬇️ 🔴 | 2021-05-01 | 544corkfh5hwhtn4.onion |
 | bonacigroup | Blog | ⬆️ 🟢 |  | bonacifryrxr4siz6ptvokuihdzmjzpveruklxumflz5thmkgauty2qd.onion |
@@ -85,7 +85,7 @@ there are currently `30` active parsers, `10` of which requiring headless browse
 | exorcist |  | ⬇️ 🔴 | 2021-05-01 | 7iulpt5i6whht6zo2r52f7vptxtjxs3vfcdxxazllikrtqpupn4epnqd.onion |
 | hades |  | ⬇️ 🔴 | 2021-05-01 | ixltdyumdlthrtgx.onion |
 | hellokitty | News | ⬇️ 🔴 | 2021-10-02 | 3r6n77mpe737w4sbxxxrpc5phbluv6xhtdl5ujpnlvmck5tc7blq2rqd.onion |
-| hotarus |  | ⬇️ 🔴 | 2021-05-01 | r6d636w47ncnaukrpvlhmtdbvbeltc6enfcuuow3jclpmyga7cz374qd.onion |
+| hotarus |  | ⬆️ 🟢 |  | r6d636w47ncnaukrpvlhmtdbvbeltc6enfcuuow3jclpmyga7cz374qd.onion |
 | karma | Karma Leaks | ⬆️ 🟢 |  | 3nvzqyo6l4wkrzumzu5aod7zbosq4ipgf7ifgj3hsvbcr5vcasordvqd.onion |
 | lockbit |  | ⬇️ 🔴 | 2021-05-01 | lockbitkodidilol.onion |
 | mbc |  | ⬇️ 🔴 | 2021-05-01 | xembshruusobgbvxg4tcjs3jpdnks6xrr6nbokfxadcnlc53yxir22ad.onion |
