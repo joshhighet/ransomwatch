@@ -2,6 +2,8 @@
 
 | date | title | group |
 |---|---|---|
+| 2021-10-13 | `wolfbergalvarez... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
+| 2021-10-13 | `hitrac-engineer... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-10-13 | `Princess Yachts International` | [spook](https://ransomwatch.telemetry.ltd/#/profiles?id=spook) |
 | 2021-10-12 | `planitox.com.br ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-10-12 | `Distribuidora de Industrias Nacionales    ` | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
@@ -100,5 +102,3 @@
 | 2021-10-05 | `RMICO.COM FILES  PART5+6 PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2021-10-05 | `ZUCCHETTIKOS.IT FILES  PART5 PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2021-10-05 | `PARAGONGRI.COM FILES  FILES PART2 - EXTRACTED EMAILS PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2021-10-05 | `GOABCO.COM FILES  PART6 PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2021-10-05 | `RMICO.COM FILES  PART7 - FINAL PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
