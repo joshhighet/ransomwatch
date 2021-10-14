@@ -1,6 +1,6 @@
-lxml
-plotly
-kaleido
-selenium
-tldextract
-requests[socks]
+lxml==4.6.3
+plotly==5.3.1
+kaleido==0.2.1
+selenium==4.0.0
+tldextract==3.1.2
+requests[socks]==2.26.0
