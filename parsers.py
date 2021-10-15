@@ -431,7 +431,7 @@ def karma():
 def blackbyte():
     stdlog('parser: ' + 'blackbyte')
     parser = '''
-    cat source/blackbyte-*.html | grep "h1" | cut -d '>' -f 2 | cut -d '<' -f 1 | sed 's/^ *//g'
+    cat source/blackbyte-*.html | grep "h1" | cut -d '>' -f 2 | cut -d '<' -f 1 | sed -e 's/^ *//g' -e '/^$/d'
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
