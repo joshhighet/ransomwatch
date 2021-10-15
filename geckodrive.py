@@ -47,7 +47,7 @@ def main(webpage):
             profile.set_preference("network.proxy.socks_remote_dns", True)
     try:
         stdlog('geckodriver: ' + 'starting webdriver')
-        driver = webdriver.Firefox(options=options, firefox_profile=profile, timeout=30)
+        driver = webdriver.Firefox(options=options, firefox_profile=profile)
         stdlog('geckodriver: ' + 'fetching webpage')
         driver.get(webpage)
         # set the number of seconds to wait before working with the DOM
