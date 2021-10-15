@@ -2,6 +2,10 @@
 
 | date | title | group |
 |---|---|---|
+| 2021-10-15 | `wmlaw.com.au ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
+| 2021-10-15 | `uvisionuav.com ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
+| 2021-10-15 | `wataniaind.com ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
+| 2021-10-15 | `alwatania.sa ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-10-15 | `PTT Exploration and Production - 720GB` | [revil](https://ransomwatch.telemetry.ltd/#/profiles?id=revil) |
 | 2021-10-15 | `UTILITYTRAILER.COM FILES  PART3 - MAIL** PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2021-10-15 | `SUNSETHCS.COM FILES  PART5</em> PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
@@ -98,7 +102,3 @@
 | 2021-10-05 | `barreaudecharle... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-10-05 | `https://moonnur... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-10-05 | `SUNSETHCS.COM FILES  *<em>PART6</em> PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2021-10-05 | `AUROBINDO.COM FILES  PART13 PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2021-10-05 | `UTILITYTRAILER.COM FILES  PART12 PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2021-10-05 | `UTILITYTRAILER.COM FILES  PART13 PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2021-10-05 | `AUROBINDO.COM FILES  PART14 PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
