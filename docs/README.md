@@ -29,8 +29,8 @@ there are currently `30` active parsers, `10` of which requiring headless browse
 | lv | LV Blog | ⬆️ 🟢 |  | rbvuetuneohce3ouxjlbxtimyyxokb4btncxjbo44fbgxqy7tskinwad.onion |
 | lv | LV Blog | ⬇️ 🔴 | 2021-10-07 | 4qbxi3i2oqmyzxsjg4fwe4aly3xkped52gq5orp6efpkeskvchqe27id.onion |
 | lorenz | Lorenz | ⬆️ 🟢 |  | lorenzmlwpzgxq736jzseuterytjueszsvznuibanxomlpkyxk6ksoyd.onion |
-| lockbit2 | LockBit BLOG | ⬇️ 🔴 | 2021-10-16 | lockbitapt6vx57t3eeqjofwgcglmutr3a35nygvokja5uuccip4ykyd.onion |
-| lockbit2 | LOCKFILE | ⬆️ 🟢 |  | zqaflhty5hyziovsxgqvj2mrz5e5rs6oqxzb54zolccfnvtn5w2johad.onion |
+| lockbit2 | LockBit BLOG | ⬆️ 🟢 |  | lockbitapt6vx57t3eeqjofwgcglmutr3a35nygvokja5uuccip4ykyd.onion |
+| lockbit2 | LOCKFILE | ⬇️ 🔴 | 2021-10-16 | zqaflhty5hyziovsxgqvj2mrz5e5rs6oqxzb54zolccfnvtn5w2johad.onion |
 | hive | Hive | ⬆️ 🟢 |  | hiveleakdbtnp76ulyhi52eag6c6tyc3xw7ez7iqy6wc34gd2nekazyd.onion |
 | arvinclub | Arvin Club – آزادی برای اتصال | ⬆️ 🟢 |  | 3kp6j22pz3zkv76yutctosa6djpj4yib2icvdqxucdaxxedumhqicpad.onion |
 | avoslocker | AvosLocker Access Queue | ⬆️ 🟢 |  | avosqxh72b5ia23dl5fgwcpndkctuzqvh2iefk5imp3pi5gfhel5klad.onion |
@@ -43,7 +43,7 @@ there are currently `30` active parsers, `10` of which requiring headless browse
 | ragnarlocker | Home Page of Ragnar_Locker Leaks site | ⬆️ 🟢 |  | rgleaktxuey67yrgspmhvtnrqtgogur35lwdrup4d3igtbm3pupc4lyd.onion |
 | ragnarlocker |  | ⬇️ 🔴 | 2021-05-01 | p6o7m73ujalhgkiv.onion |
 | clop |  | ⬇️ 🔴 | 2021-05-01 | ekbgzchl6x2ias37.onion |
-| clop | HOME - CL0P^_- LEAKS | ⬆️ 🟢 |  | santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad.onion |
+| clop | 502 Bad Gateway | ⬆️ 🟢 |  | santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad.onion |
 | netwalker |  | ⬇️ 🔴 | 2021-05-01 | rnfdsgm6wb6j6su5txkekw4u4y47kp2eatvu7d6xhyn5cs4lt4pdrqqd.onion |
 | doppelpaymer | Start-maximized.com | ⬇️ 🔴 | 2021-09-23 | hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion |
 | revil | Happy Blog  | ⬆️ 🟢 |  | dnpscnbaix6nkwvystl3yxglz7nteicqrou3t75tpcc5532cztc46qyd.onion |
