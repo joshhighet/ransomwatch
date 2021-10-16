@@ -2,6 +2,8 @@
 
 | date | title | group |
 |---|---|---|
+| 2021-10-16 | `www.lockslaw.com` | [payloadbin](https://ransomwatch.telemetry.ltd/#/profiles?id=payloadbin) |
+| 2021-10-16 | `NOF CORPORATION` | [spook](https://ransomwatch.telemetry.ltd/#/profiles?id=spook) |
 | 2021-10-16 | `espera.com ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-10-16 | `Apex Filling Systems` | [spook](https://ransomwatch.telemetry.ltd/#/profiles?id=spook) |
 | 2021-10-16 | `valleyregionalt... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -100,5 +102,3 @@
 | 2021-10-05 | `GENESISNET.COM FILES  PART11 - 10.0.70.121\ATS_FILESHARE\Project_Management\VERIZON\ADM 18` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2021-10-05 | `Cock Foods Co., Ltd.` | [spook](https://ransomwatch.telemetry.ltd/#/profiles?id=spook) |
 | 2021-10-05 | `EMPIRICAL-RESEARCH.COM  FILES PART3 - dhurley@empirical-research.com.ost PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2021-10-05 | `BRPRINTERS.COM FILES  PART4 PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2021-10-05 | `STORAFILE.CO.UK  FILES PART8 PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
