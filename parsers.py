@@ -243,8 +243,9 @@ def ragnarok():
 
 def conti():
     stdlog('parser: ' + 'conti')
+    # grep 'class="title">&' source/conti-*.html --no-filename | cut -d ";" -f2 | sed -e s/"&rdquo"//
     parser = '''
-    grep 'class="title">&' source/conti-*.html --no-filename | cut -d ";" -f2 | sed -e s/"&rdquo"//
+    grep 'newsList' source/conti-*.html | sed -e 's/      newsList( //' -e 's/ );//' | jq '.[].title' -r
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
