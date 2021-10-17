@@ -2,6 +2,7 @@
 
 | date | title | group |
 |---|---|---|
+| 2021-10-17 | `ferrolabella.co... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-10-16 | `cassini-technol... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-10-16 | `Goss Dodge Chrysler Ram Jeep` | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
 | 2021-10-16 | `www.lockslaw.com` | [payloadbin](https://ransomwatch.telemetry.ltd/#/profiles?id=payloadbin) |
@@ -101,4 +102,3 @@
 | 2021-10-05 | `maisonlaprise.c... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-10-05 | `moonnurseries.c... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-10-05 | `Berexco LLC` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
-| 2021-10-05 | `GENESISNET.COM FILES  PART11 - 10.0.70.121\ATS_FILESHARE\Project_Management\VERIZON\ADM 18` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
