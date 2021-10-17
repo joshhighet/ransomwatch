@@ -227,10 +227,10 @@
     },
     {
         "name": "avoslocker",
-        "captcha": false,
+        "captcha": true,
         "parser": true,
         "geckodriver": false,
-        "javascript_render": true,
+        "javascript_render": false,
         "meta": null,
         "locations": [
             {
@@ -692,15 +692,6 @@
         "javascript_render": false,
         "meta": null,
         "locations": [
-            {
-                "fqdn": "wavbeudogz6byhnardd2lkp2jafims3j7tj6k6qnywchn2csngvtffqd.onion",
-                "title": "RAMP :)",
-                "version": 3,
-                "slug": "http://wavbeudogz6byhnardd2lkp2jafims3j7tj6k6qnywchn2csngvtffqd.onion/",
-                "available": false,
-                "updated": "2021-09-30 22:13:06.669360",
-                "lastscrape": "2021-09-30 22:13:06.669346"
-            },
             {
                 "fqdn": "nq4zyac4ukl4tykmidbzgdlvaboqeqsemkp4t35bzvjeve6zm2lqcjid.onion",
                 "title": "Babuk - Leaks site",
@@ -1557,6 +1548,26 @@
                 "available": true,
                 "updated": "2021-10-17 21:12:41.273609",
                 "lastscrape": "2021-10-17 21:12:41.273594"
+            }
+        ],
+        "profile": []
+    },
+    {
+        "name": "RAMP",
+        "captcha": false,
+        "parser": false,
+        "geckodriver": false,
+        "javascript_render": false,
+        "meta": null,
+        "locations": [
+            {
+                "fqdn": "wavbeudogz6byhnardd2lkp2jafims3j7tj6k6qnywchn2csngvtffqd.onion",
+                "title": null,
+                "version": 3,
+                "slug": "http://wavbeudogz6byhnardd2lkp2jafims3j7tj6k6qnywchn2csngvtffqd.onion",
+                "available": false,
+                "updated": "2021-05-01 00:00:00.000000",
+                "lastscrape": "2021-05-01 00:00:00.000000"
             }
         ],
         "profile": []
