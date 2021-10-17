@@ -2,6 +2,13 @@
 
 | date | title | group |
 |---|---|---|
+| 2021-10-17 | `Nakisa` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
+| 2021-10-17 | `Galloway Research Service` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
+| 2021-10-17 | `EXAIR` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
+| 2021-10-17 | `Graff Diamonds` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
+| 2021-10-17 | `SEIU Local 888` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
+| 2021-10-17 | `Real Time Consultants, Inc` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
+| 2021-10-17 | `Crowder Construction Company` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2021-10-17 | `ferrolabella.co... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-10-16 | `cassini-technol... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-10-16 | `Goss Dodge Chrysler Ram Jeep` | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
@@ -95,10 +102,3 @@
 | 2021-10-07 | `Epik Domain registrar and web host` | [darkleakmarket](https://ransomwatch.telemetry.ltd/#/profiles?id=darkleakmarket) |
 | 2021-10-07 | `Syniverse Data Leak` | [darkleakmarket](https://ransomwatch.telemetry.ltd/#/profiles?id=darkleakmarket) |
 | 2021-10-06 | `Atlas Financial Holdings, Inc. - Leaked` | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
-| 2021-10-06 | `sides.fr ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2021-10-06 | `MOLNÁRBETON Kft.` | [spook](https://ransomwatch.telemetry.ltd/#/profiles?id=spook) |
-| 2021-10-05 | `transdev.com ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2021-10-05 | `COURTOISE MOTORS` | [spook](https://ransomwatch.telemetry.ltd/#/profiles?id=spook) |
-| 2021-10-05 | `maisonlaprise.c... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2021-10-05 | `moonnurseries.c... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2021-10-05 | `Berexco LLC` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
