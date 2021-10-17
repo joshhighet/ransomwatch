@@ -221,7 +221,7 @@ if args.mode == 'parse':
     parsers.lorenz()
     parsers.lockbit2()
     parsers.arvinclub()
-    parsers.avoslocker()
+    #parsers.avoslocker()
     parsers.avaddon()
     parsers.xinglocker()
     parsers.ragnarlocker()
