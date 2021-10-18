@@ -2,6 +2,9 @@
 
 | date | title | group |
 |---|---|---|
+| 2021-10-18 | `DACOLL.CO.UK FILES  FILES PART3 - Customer Documentation, Engineering Management, JulianDe` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2021-10-18 | `STRATISVISUALS.COM  FILES FILES PART4 - 10.0.0.36, 10.0.0.58 PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2021-10-18 | `SUNSETHCS.COM FILES  FILES PART10 - 208.100.41.212\E$\SHAREDFOLDERS PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2021-10-18 | `EMPIRICAL-RESEARCH.COM  FILES FILES PART7 - 172.18.0.71, 172.18.0.77, 172.18.0.81 PUBLISHE` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2021-10-18 | `BRPRINTERS.COM FILES  PART8 PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2021-10-18 | `STORAFILE.CO.UK  FILES PART12 PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
@@ -99,6 +102,3 @@
 | 2021-10-07 | `sapphiredentalc... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-10-07 | `atsgruppo.eu ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-10-07 | `generalplumbing... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2021-10-07 | `weyers-architek... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2021-10-07 | `reust.ch ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2021-10-07 | `isvo.it ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
