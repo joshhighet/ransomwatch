@@ -2,6 +2,9 @@
 
 | date | title | group |
 |---|---|---|
+| 2021-10-18 | `EMPIRICAL-RESEARCH.COM  FILES FILES PART7 - 172.18.0.71, 172.18.0.77, 172.18.0.81 PUBLISHE` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2021-10-18 | `BRPRINTERS.COM FILES  PART8 PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2021-10-18 | `STORAFILE.CO.UK  FILES PART12 PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2021-10-18 | `BLUEBONNETNUTRITION.COM FILES  FILES PART9 - Accounting PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2021-10-18 | `BPATPA.COM FILES  PART9 PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2021-10-18 | `atento.com ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -99,6 +102,3 @@
 | 2021-10-07 | `weyers-architek... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-10-07 | `reust.ch ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-10-07 | `isvo.it ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2021-10-07 | `kacyumara.com.b... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2021-10-07 | `Join us on RAMP` | [revil](https://ransomwatch.telemetry.ltd/#/profiles?id=revil) |
-| 2021-10-07 | `Gestão Contabilidade Empresarial` | [spook](https://ransomwatch.telemetry.ltd/#/profiles?id=spook) |
