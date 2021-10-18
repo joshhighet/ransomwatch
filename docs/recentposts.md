@@ -2,6 +2,8 @@
 
 | date | title | group |
 |---|---|---|
+| 2021-10-18 | `BLUEBONNETNUTRITION.COM FILES  FILES PART9 - Accounting PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2021-10-18 | `BPATPA.COM FILES  PART9 PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2021-10-18 | `atento.com ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-10-18 | `Grupo Vía` | [spook](https://ransomwatch.telemetry.ltd/#/profiles?id=spook) |
 | 2021-10-17 | `Nakisa` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
@@ -100,5 +102,3 @@
 | 2021-10-07 | `kacyumara.com.b... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-10-07 | `Join us on RAMP` | [revil](https://ransomwatch.telemetry.ltd/#/profiles?id=revil) |
 | 2021-10-07 | `Gestão Contabilidade Empresarial` | [spook](https://ransomwatch.telemetry.ltd/#/profiles?id=spook) |
-| 2021-10-07 | `Indian Aadhar data & software.` | [darkleakmarket](https://ransomwatch.telemetry.ltd/#/profiles?id=darkleakmarket) |
-| 2021-10-07 | `Epik Domain registrar and web host` | [darkleakmarket](https://ransomwatch.telemetry.ltd/#/profiles?id=darkleakmarket) |
