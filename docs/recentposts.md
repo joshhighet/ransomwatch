@@ -2,6 +2,7 @@
 
 | date | title | group |
 |---|---|---|
+| 2021-10-18 | `JVCKenwood` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2021-10-18 | `GENESISNET.COM FILES  PART15  - Projects, Gravetti, Datacomm, Accounting PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2021-10-18 | `DACOLL.CO.UK FILES  FILES PART3 - Customer Documentation, Engineering Management, JulianDe` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2021-10-18 | `STRATISVISUALS.COM  FILES FILES PART4 - 10.0.0.36, 10.0.0.58 PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
@@ -101,4 +102,3 @@
 | 2021-10-07 | `parkertide.com ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-10-07 | `jaykaltrading.c... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-10-07 | `sapphiredentalc... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2021-10-07 | `atsgruppo.eu ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
