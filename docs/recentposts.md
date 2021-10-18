@@ -2,6 +2,15 @@
 
 | date | title | group |
 |---|---|---|
+| 2021-10-18 | `Lesk Engineering` | [pysa](https://ransomwatch.telemetry.ltd/#/profiles?id=pysa) |
+| 2021-10-18 | `Our Lady's Abingdon` | [pysa](https://ransomwatch.telemetry.ltd/#/profiles?id=pysa) |
+| 2021-10-18 | `Western Urethane` | [pysa](https://ransomwatch.telemetry.ltd/#/profiles?id=pysa) |
+| 2021-10-18 | `QPharma` | [pysa](https://ransomwatch.telemetry.ltd/#/profiles?id=pysa) |
+| 2021-10-18 | `Price Davis LLC` | [pysa](https://ransomwatch.telemetry.ltd/#/profiles?id=pysa) |
+| 2021-10-18 | `Campus Sacre Coeur Wien Gymnasium` | [pysa](https://ransomwatch.telemetry.ltd/#/profiles?id=pysa) |
+| 2021-10-18 | `CreateInfor` | [pysa](https://ransomwatch.telemetry.ltd/#/profiles?id=pysa) |
+| 2021-10-18 | `InfoSync IT Solutions` | [pysa](https://ransomwatch.telemetry.ltd/#/profiles?id=pysa) |
+| 2021-10-18 | `Hall Technologies Inc` | [pysa](https://ransomwatch.telemetry.ltd/#/profiles?id=pysa) |
 | 2021-10-18 | `Toos Asphalt Company` | [spook](https://ransomwatch.telemetry.ltd/#/profiles?id=spook) |
 | 2021-10-18 | `JVCKenwood` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2021-10-18 | `GENESISNET.COM FILES  PART15  - Projects, Gravetti, Datacomm, Accounting PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
@@ -93,12 +102,3 @@
 | 2021-10-09 | `Audras &#038; Delaunois` | [spook](https://ransomwatch.telemetry.ltd/#/profiles?id=spook) |
 | 2021-10-09 | `TV FUEGO` | [spook](https://ransomwatch.telemetry.ltd/#/profiles?id=spook) |
 | 2021-10-09 | `meccalte.com` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2021-10-09 | `Kurier` | [spook](https://ransomwatch.telemetry.ltd/#/profiles?id=spook) |
-| 2021-10-08 | `dusa.com.ve ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2021-10-08 | `Tilia GmbH. TILIA GROUP` | [xinglocker](https://ransomwatch.telemetry.ltd/#/profiles?id=xinglocker) |
-| 2021-10-08 | `Kern Glass and Aluminum Company` | [spook](https://ransomwatch.telemetry.ltd/#/profiles?id=spook) |
-| 2021-10-08 | `ECKERD PERU S.A, INKAFARMA, MIFARMA` | [revil](https://ransomwatch.telemetry.ltd/#/profiles?id=revil) |
-| 2021-10-08 | `La SECAN` | [spook](https://ransomwatch.telemetry.ltd/#/profiles?id=spook) |
-| 2021-10-07 | `cobabebrothers.... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2021-10-07 | `parkertide.com ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2021-10-07 | `jaykaltrading.c... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
