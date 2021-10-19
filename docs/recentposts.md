@@ -2,6 +2,7 @@
 
 | date | title | group |
 |---|---|---|
+| 2021-10-19 | `GENERALE PREFABBRICATI SPA    ` | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
 | 2021-10-19 | `dawsoncountyne.org` | [payloadbin](https://ransomwatch.telemetry.ltd/#/profiles?id=payloadbin) |
 | 2021-10-19 | `All County Surveying Inc` | [spook](https://ransomwatch.telemetry.ltd/#/profiles?id=spook) |
 | 2021-10-19 | `Page Automation` | [spook](https://ransomwatch.telemetry.ltd/#/profiles?id=spook) |
@@ -101,4 +102,3 @@
 | 2021-10-10 | `tovogomma.it` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-10-10 | `Sbc Studio` | [spook](https://ransomwatch.telemetry.ltd/#/profiles?id=spook) |
 | 2021-10-09 | `weber-betonpump... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2021-10-09 | `aisc-airbus.com ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
