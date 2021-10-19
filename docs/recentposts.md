@@ -2,6 +2,7 @@
 
 | date | title | group |
 |---|---|---|
+| 2021-10-19 | `Page Automation` | [spook](https://ransomwatch.telemetry.ltd/#/profiles?id=spook) |
 | 2021-10-19 | `prototal.se` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-10-18 | `Lesk Engineering` | [pysa](https://ransomwatch.telemetry.ltd/#/profiles?id=pysa) |
 | 2021-10-18 | `Our Lady's Abingdon` | [pysa](https://ransomwatch.telemetry.ltd/#/profiles?id=pysa) |
@@ -101,4 +102,3 @@
 | 2021-10-09 | `aisc-airbus.com ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-10-09 | `watermarkbeachr... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-10-09 | `Audras &#038; Delaunois` | [spook](https://ransomwatch.telemetry.ltd/#/profiles?id=spook) |
-| 2021-10-09 | `TV FUEGO` | [spook](https://ransomwatch.telemetry.ltd/#/profiles?id=spook) |
