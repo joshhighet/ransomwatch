@@ -2,6 +2,7 @@
 
 | date | title | group |
 |---|---|---|
+| 2021-10-20 | `Società Italiana degli Autori ed Editori` | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2021-10-19 | `garagedeckx.be` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-10-19 | `North Island` | [spook](https://ransomwatch.telemetry.ltd/#/profiles?id=spook) |
 | 2021-10-19 | `ABSOLUTERESULTS.COM FILES  FILES PART1 - bwilliams@absoluteresults.com - New.ost PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
@@ -101,4 +102,3 @@
 | 2021-10-10 | `nofeurope.com ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-10-10 | `hybuilding.com.... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-10-10 | `ceoempowers.org ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2021-10-10 | `CABINET FONT GUILLOT` | [spook](https://ransomwatch.telemetry.ltd/#/profiles?id=spook) |
