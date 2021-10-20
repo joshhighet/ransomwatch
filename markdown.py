@@ -245,7 +245,7 @@ def profilepage():
                 date = post['discovered'].split(' ')[0]
                 date = date.split('-')
                 date = date[2] + '/' + date[1] + '/' + date[0]
-                line = '| ' + '`' + post['post_title'] + '`' + ' | ' + date + ' |'
+                line = '| ' + '`' + post['post_title'].replace('|', '') + '`' + ' | ' + date + ' |'
                 writeline(profilepage, line)
         writeline(profilepage, '')
         stdlog('profile page for ' + group['name'] + ' generated')
