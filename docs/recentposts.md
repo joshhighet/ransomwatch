@@ -2,6 +2,7 @@
 
 | date | title | group |
 |---|---|---|
+| 2021-10-20 | `TONLYELE.COM FILES  PART1 - 10.84.130.123\通力尽调 PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2021-10-20 | `STORAFILE.CO.UK  FILES PART12 - FINAL PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2021-10-20 | `STRATISVISUALS.COM  FILES FILES PART5 - 10.0.0.67, 10.0.0.85, 10.0.0.90, 10.0.0.94 PUBLISH` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2021-10-20 | `EMPIRICAL-RESEARCH.COM  FILES FILES PART8 -  172.18.0.130 PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
@@ -101,4 +102,3 @@
 | 2021-10-13 | `Princess Yachts International` | [spook](https://ransomwatch.telemetry.ltd/#/profiles?id=spook) |
 | 2021-10-12 | `planitox.com.br ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-10-12 | `Distribuidora de Industrias Nacionales    ` | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
-| 2021-10-12 | `cera` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
