@@ -2,6 +2,8 @@
 
 | date | title | group |
 |---|---|---|
+| 2021-10-20 | `bagbyelevator.c... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
+| 2021-10-20 | `zgoda.net ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-10-20 | `Società Italiana degli Autori ed Editori` | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2021-10-19 | `garagedeckx.be` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-10-19 | `North Island` | [spook](https://ransomwatch.telemetry.ltd/#/profiles?id=spook) |
@@ -100,5 +102,3 @@
 | 2021-10-11 | `Ferretti International` | [spook](https://ransomwatch.telemetry.ltd/#/profiles?id=spook) |
 | 2021-10-10 | `erg.eu` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-10-10 | `nofeurope.com ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2021-10-10 | `hybuilding.com.... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2021-10-10 | `ceoempowers.org ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
