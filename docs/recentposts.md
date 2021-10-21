@@ -2,6 +2,8 @@
 
 | date | title | group |
 |---|---|---|
+| 2021-10-21 | `SSMSJUSTICE.COM FILES  FILES PART1 - FOLDER "CEO" including case "Hancock Street Fire" PUB` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2021-10-21 | `ABSOLUTERESULTS.COM FILES  FILES PART2 - 10.21.0.5\DataTeam$\Finance PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2021-10-21 | `https://www.pea... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-10-21 | `https://www.mer... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-10-21 | `https://www.gro... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -100,5 +102,3 @@
 | 2021-10-15 | `BRPRINTERS.COM FILES  PART7 PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2021-10-15 | `STORAFILE.CO.UK  FILES PART11 PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2021-10-15 | `BLUEBONNETNUTRITION.COM FILES  FILES PART8 PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2021-10-15 | `BPATPA.COM FILES  PART8 PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2021-10-15 | `EMPIRICAL-RESEARCH.COM  FILES FILES PART6 - 208.100.41.212 PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
