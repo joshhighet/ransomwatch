@@ -2,6 +2,9 @@
 
 | date | title | group |
 |---|---|---|
+| 2021-10-21 | `https://www.pea... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
+| 2021-10-21 | `https://www.mer... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
+| 2021-10-21 | `https://www.gro... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-10-21 | `www.continental... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-10-21 | `pi-hf.com` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-10-20 | `thefoxhillclub.... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -99,6 +102,3 @@
 | 2021-10-15 | `BLUEBONNETNUTRITION.COM FILES  FILES PART8 PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2021-10-15 | `BPATPA.COM FILES  PART8 PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2021-10-15 | `EMPIRICAL-RESEARCH.COM  FILES FILES PART6 - 208.100.41.212 PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2021-10-15 | `SUNSETHCS.COM FILES  PART9 PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2021-10-15 | `STRATISVISUALS.COM  FILES FILES PART3 - RUribe@stratisvisuals.com.ost, STRATISRFQ@STRATISV` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2021-10-15 | `Medical Designs    ` | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
