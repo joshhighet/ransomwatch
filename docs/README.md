@@ -1,6 +1,6 @@
 ## 📰 summary - october 21st, 2021
 
-currently tracking `68` groups across `80` various relays and mirrors - _`31` of which are online_
+currently tracking `68` groups across `80` various relays and mirrors - _`29` of which are online_
 
 there are currently `33` active parsers, `9` of which requiring headless browsers - _`4` groups have introduced captchas this year_
 
@@ -76,7 +76,7 @@ there are currently `33` active parsers, `9` of which requiring headless browser
 | blackbyte | BlackByte BLOG | ⬆️ 🟢 |  | f5uzduboq4fa2xkjloprmctk7ve3dm46ff7aniis66cbekakvksxgeqd.onion |
 | lolnek | Support | ⬆️ 🟢 |  | mmeeiix2ejdwkmseycljetmpiwebdvgjts75c63camjofn2cjdoulzqd.onion |
 | blackshadow |  | ⬇️ 🔴 | 2021-05-01 | 544corkfh5hwhtn4.onion |
-| bonacigroup | Blog | ⬆️ 🟢 |  | bonacifryrxr4siz6ptvokuihdzmjzpveruklxumflz5thmkgauty2qd.onion |
+| bonacigroup | Blog | ⬇️ 🔴 | 2021-10-21 | bonacifryrxr4siz6ptvokuihdzmjzpveruklxumflz5thmkgauty2qd.onion |
 | coomingproject |  | ⬇️ 🔴 | 2021-05-01 | teo7aj5mfgzxyeme.onion |
 | crylock |  | ⬇️ 🔴 | 2021-05-01 | d57uremugxjrafyg.onion |
 | ech0raix |  | ⬆️ 🟢 |  | veqlxhq7ub5qze3qy56zx2cig2e6tzsgxdspkubwbayqije6oatma6id.onion |
@@ -84,7 +84,7 @@ there are currently `33` active parsers, `9` of which requiring headless browser
 | exorcist |  | ⬇️ 🔴 | 2021-05-01 | 7iulpt5i6whht6zo2r52f7vptxtjxs3vfcdxxazllikrtqpupn4epnqd.onion |
 | hades |  | ⬇️ 🔴 | 2021-05-01 | ixltdyumdlthrtgx.onion |
 | hellokitty | News | ⬇️ 🔴 | 2021-10-02 | 3r6n77mpe737w4sbxxxrpc5phbluv6xhtdl5ujpnlvmck5tc7blq2rqd.onion |
-| hotarus |  | ⬆️ 🟢 |  | r6d636w47ncnaukrpvlhmtdbvbeltc6enfcuuow3jclpmyga7cz374qd.onion |
+| hotarus |  | ⬇️ 🔴 | 2021-10-21 | r6d636w47ncnaukrpvlhmtdbvbeltc6enfcuuow3jclpmyga7cz374qd.onion |
 | karma | Karma Leaks | ⬆️ 🟢 |  | 3nvzqyo6l4wkrzumzu5aod7zbosq4ipgf7ifgj3hsvbcr5vcasordvqd.onion |
 | lockbit |  | ⬇️ 🔴 | 2021-05-01 | lockbitkodidilol.onion |
 | mbc |  | ⬇️ 🔴 | 2021-05-01 | xembshruusobgbvxg4tcjs3jpdnks6xrr6nbokfxadcnlc53yxir22ad.onion |
