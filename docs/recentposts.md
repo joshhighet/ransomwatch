@@ -2,6 +2,7 @@
 
 | date | title | group |
 |---|---|---|
+| 2021-10-22 | `Albireo Energy` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2021-10-22 | `Townley Grammar School` | [pysa](https://ransomwatch.telemetry.ltd/#/profiles?id=pysa) |
 | 2021-10-22 | `Ruskin Community High School` | [pysa](https://ransomwatch.telemetry.ltd/#/profiles?id=pysa) |
 | 2021-10-22 | `Weiss Properties` | [pysa](https://ransomwatch.telemetry.ltd/#/profiles?id=pysa) |
@@ -101,4 +102,3 @@
 | 2021-10-15 | `SUNSETHCS.COM FILES  PART5</em> PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2021-10-15 | `SUNSETHCS.COM FILES  PART6<em> PUBLISHED<strong>` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2021-10-15 | `STORAFILE.CO.UK  FILES PART9 PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2021-10-15 | `BLUEBONNETNUTRITION.COM FILES  FILES PART6 PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
