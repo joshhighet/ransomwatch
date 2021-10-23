@@ -1,6 +1,6 @@
 ## 📰 summary - october 23rd, 2021
 
-currently tracking `68` groups across `80` various relays and mirrors - _`31` of which are online_
+currently tracking `68` groups across `80` various relays and mirrors - _`33` of which are online_
 
 there are currently `33` active parsers, `9` of which requiring headless browsers - _`4` groups have introduced captchas this year_
 
@@ -28,7 +28,7 @@ there are currently `33` active parsers, `9` of which requiring headless browser
 | suncrypt |  | ⬇️ 🔴 | 2021-05-01 | nbzzb6sa6xuura2z.onion |
 | lv | LV Blog | ⬆️ 🟢 |  | rbvuetuneohce3ouxjlbxtimyyxokb4btncxjbo44fbgxqy7tskinwad.onion |
 | lv | LV Blog | ⬇️ 🔴 | 2021-10-07 | 4qbxi3i2oqmyzxsjg4fwe4aly3xkped52gq5orp6efpkeskvchqe27id.onion |
-| lorenz | Lorenz | ⬇️ 🔴 | 2021-10-23 | lorenzmlwpzgxq736jzseuterytjueszsvznuibanxomlpkyxk6ksoyd.onion |
+| lorenz | Lorenz | ⬆️ 🟢 |  | lorenzmlwpzgxq736jzseuterytjueszsvznuibanxomlpkyxk6ksoyd.onion |
 | lockbit2 | LockBit BLOG | ⬆️ 🟢 |  | lockbitapt6vx57t3eeqjofwgcglmutr3a35nygvokja5uuccip4ykyd.onion |
 | lockbit2 | LOCKFILE | ⬆️ 🟢 |  | zqaflhty5hyziovsxgqvj2mrz5e5rs6oqxzb54zolccfnvtn5w2johad.onion |
 | hive | Hive | ⬆️ 🟢 |  | hiveleakdbtnp76ulyhi52eag6c6tyc3xw7ez7iqy6wc34gd2nekazyd.onion |
@@ -43,10 +43,10 @@ there are currently `33` active parsers, `9` of which requiring headless browser
 | ragnarlocker | Home Page of Ragnar_Locker Leaks site | ⬆️ 🟢 |  | rgleaktxuey67yrgspmhvtnrqtgogur35lwdrup4d3igtbm3pupc4lyd.onion |
 | ragnarlocker |  | ⬇️ 🔴 | 2021-05-01 | p6o7m73ujalhgkiv.onion |
 | clop |  | ⬇️ 🔴 | 2021-05-01 | ekbgzchl6x2ias37.onion |
-| clop | HOME - CL0P^_- LEAKS | ⬆️ 🟢 |  | santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad.onion |
+| clop | 502 Bad Gateway | ⬆️ 🟢 |  | santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad.onion |
 | netwalker |  | ⬇️ 🔴 | 2021-05-01 | rnfdsgm6wb6j6su5txkekw4u4y47kp2eatvu7d6xhyn5cs4lt4pdrqqd.onion |
 | doppelpaymer | Start-maximized.com | ⬇️ 🔴 | 2021-09-23 | hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion |
-| revil | The page is not found | ⬇️ 🔴 | 2021-10-23 | dnpscnbaix6nkwvystl3yxglz7nteicqrou3t75tpcc5532cztc46qyd.onion |
+| revil | The page is not found | ⬆️ 🟢 |  | dnpscnbaix6nkwvystl3yxglz7nteicqrou3t75tpcc5532cztc46qyd.onion |
 | revil | The page is not found | ⬆️ 🟢 |  | aplebzu47wgazapdqks6vrcv6zcnjppkbxbr6wketf56nf6aq2nmyoyd.onion |
 | everest | Everest ransom team | ⬆️ 🟢 |  | ransomocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexfook2j7esad.onion |
 | ragnarok |  | ⬇️ 🔴 | 2021-05-01 | wobpitin77vdsdiswr43duntv6eqw4rvphedutpaxycjdie6gg3binad.onion |
