@@ -2,6 +2,8 @@
 
 | date | title | group |
 |---|---|---|
+| 2021-10-23 | `Obeikan Investment Group` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
+| 2021-10-23 | `Artsana` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2021-10-23 | `Porto Seguro` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2021-10-23 | `Grupo Alter` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2021-10-23 | `Ideal Printers` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
@@ -100,5 +102,3 @@
 | 2021-10-17 | `Crowder Construction Company` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2021-10-17 | `ferrolabella.co... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-10-16 | `cassini-technol... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2021-10-16 | `Goss Dodge Chrysler Ram Jeep` | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
-| 2021-10-16 | `www.lockslaw.com` | [payloadbin](https://ransomwatch.telemetry.ltd/#/profiles?id=payloadbin) |
