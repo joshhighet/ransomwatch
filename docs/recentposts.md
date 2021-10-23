@@ -2,6 +2,9 @@
 
 | date | title | group |
 |---|---|---|
+| 2021-10-23 | `Schimberg Co.` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
+| 2021-10-23 | `Vaughn Industries` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
+| 2021-10-23 | `Reliable Parts` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2021-10-23 | `episcopalretirement.com  Возможна утечка` | [groove](https://ransomwatch.telemetry.ltd/#/profiles?id=groove) |
 | 2021-10-23 | `DiGioia Gray & Associates, LLC    ` | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
 | 2021-10-23 | `Про русских в США` | [groove](https://ransomwatch.telemetry.ltd/#/profiles?id=groove) |
@@ -99,6 +102,3 @@
 | 2021-10-16 | `uslogic.com ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-10-15 | `sb-kc.com ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-10-15 | `wmlaw.com.au ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2021-10-15 | `uvisionuav.com ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2021-10-15 | `wataniaind.com ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2021-10-15 | `alwatania.sa ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
