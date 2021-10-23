@@ -2,6 +2,8 @@
 
 | date | title | group |
 |---|---|---|
+| 2021-10-23 | `Про русских в США` | [groove](https://ransomwatch.telemetry.ltd/#/profiles?id=groove) |
+| 2021-10-23 | `therecord.media 30k USD` | [groove](https://ransomwatch.telemetry.ltd/#/profiles?id=groove) |
 | 2021-10-22 | `Revil` | [arvinclub](https://ransomwatch.telemetry.ltd/#/profiles?id=arvinclub) |
 | 2021-10-22 | `Albireo Energy` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2021-10-22 | `Townley Grammar School` | [pysa](https://ransomwatch.telemetry.ltd/#/profiles?id=pysa) |
@@ -100,5 +102,3 @@
 | 2021-10-15 | `alwatania.sa ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-10-15 | `PTT Exploration and Production - 720GB` | [revil](https://ransomwatch.telemetry.ltd/#/profiles?id=revil) |
 | 2021-10-15 | `UTILITYTRAILER.COM FILES  PART3 - MAIL** PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2021-10-15 | `SUNSETHCS.COM FILES  PART5</em> PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2021-10-15 | `SUNSETHCS.COM FILES  PART6<em> PUBLISHED<strong>` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
