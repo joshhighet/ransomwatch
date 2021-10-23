@@ -2,6 +2,7 @@
 
 | date | title | group |
 |---|---|---|
+| 2021-10-23 | `Porto Seguro` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2021-10-23 | `Grupo Alter` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2021-10-23 | `Ideal Printers` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2021-10-23 | `DCI, Inc.` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
@@ -101,4 +102,3 @@
 | 2021-10-16 | `cassini-technol... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-10-16 | `Goss Dodge Chrysler Ram Jeep` | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
 | 2021-10-16 | `www.lockslaw.com` | [payloadbin](https://ransomwatch.telemetry.ltd/#/profiles?id=payloadbin) |
-| 2021-10-16 | `NOF CORPORATION` | [spook](https://ransomwatch.telemetry.ltd/#/profiles?id=spook) |
