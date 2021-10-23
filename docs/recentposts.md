@@ -2,6 +2,10 @@
 
 | date | title | group |
 |---|---|---|
+| 2021-10-23 | `Grupo Alter` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
+| 2021-10-23 | `Ideal Printers` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
+| 2021-10-23 | `DCI, Inc.` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
+| 2021-10-23 | `madejwrobel.pl ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-10-23 | `Sykes Cottages` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2021-10-23 | `Beedie` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2021-10-23 | `Schimberg Co.` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
@@ -98,7 +102,3 @@
 | 2021-10-16 | `Goss Dodge Chrysler Ram Jeep` | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
 | 2021-10-16 | `www.lockslaw.com` | [payloadbin](https://ransomwatch.telemetry.ltd/#/profiles?id=payloadbin) |
 | 2021-10-16 | `NOF CORPORATION` | [spook](https://ransomwatch.telemetry.ltd/#/profiles?id=spook) |
-| 2021-10-16 | `espera.com ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2021-10-16 | `Apex Filling Systems` | [spook](https://ransomwatch.telemetry.ltd/#/profiles?id=spook) |
-| 2021-10-16 | `valleyregionalt... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2021-10-16 | `uslogic.com ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
