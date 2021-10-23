@@ -1,6 +1,6 @@
-## 📰 summary - october 22nd, 2021
+## 📰 summary - october 23rd, 2021
 
-currently tracking `68` groups across `80` various relays and mirrors - _`32` of which are online_
+currently tracking `68` groups across `80` various relays and mirrors - _`34` of which are online_
 
 there are currently `33` active parsers, `9` of which requiring headless browsers - _`4` groups have introduced captchas this year_
 
@@ -29,7 +29,7 @@ there are currently `33` active parsers, `9` of which requiring headless browser
 | lv | LV Blog | ⬆️ 🟢 |  | rbvuetuneohce3ouxjlbxtimyyxokb4btncxjbo44fbgxqy7tskinwad.onion |
 | lv | LV Blog | ⬇️ 🔴 | 2021-10-07 | 4qbxi3i2oqmyzxsjg4fwe4aly3xkped52gq5orp6efpkeskvchqe27id.onion |
 | lorenz | Lorenz | ⬆️ 🟢 |  | lorenzmlwpzgxq736jzseuterytjueszsvznuibanxomlpkyxk6ksoyd.onion |
-| lockbit2 | LockBit BLOG | ⬇️ 🔴 | 2021-10-22 | lockbitapt6vx57t3eeqjofwgcglmutr3a35nygvokja5uuccip4ykyd.onion |
+| lockbit2 | LockBit BLOG | ⬆️ 🟢 |  | lockbitapt6vx57t3eeqjofwgcglmutr3a35nygvokja5uuccip4ykyd.onion |
 | lockbit2 | LOCKFILE | ⬆️ 🟢 |  | zqaflhty5hyziovsxgqvj2mrz5e5rs6oqxzb54zolccfnvtn5w2johad.onion |
 | hive | Hive | ⬆️ 🟢 |  | hiveleakdbtnp76ulyhi52eag6c6tyc3xw7ez7iqy6wc34gd2nekazyd.onion |
 | arvinclub | Arvin Club – آزادی برای اتصال | ⬆️ 🟢 |  | 3kp6j22pz3zkv76yutctosa6djpj4yib2icvdqxucdaxxedumhqicpad.onion |
@@ -68,7 +68,7 @@ there are currently `33` active parsers, `9` of which requiring headless browser
 | prometheus |  | ⬇️ 🔴 | 2021-05-01 | promethw27cbrcot.onion |
 | blackmatter | BlackMatter | ⬆️ 🟢 |  | blackmax7su6mbwtcyo3xwtpfxpm356jjqrs34y4crcytpw7mifuedyd.onion |
 | payloadbin | Payload.bin | ⬆️ 🟢 |  | vbmisqjshn4yblehk2vbnil53tlqklxsdaztgphcilto3vdj4geao5qd.onion |
-| groove | Утечки - Groove | ⬇️ 🔴 | 2021-10-22 | ws3dh6av66sjbxxkjpw5ao3wqzmtejnkzheswm4dz5rrwvular7xvkqd.onion |
+| groove | Утечки - Groove | ⬆️ 🟢 |  | ws3dh6av66sjbxxkjpw5ao3wqzmtejnkzheswm4dz5rrwvular7xvkqd.onion |
 | ako |  | ⬇️ 🔴 | 2021-05-01 | kwvhrdibgmmpkhkidrby4mccwqpds5za6uo2thcw5gz75qncv7rbhyad.onion |
 | atomsilo | AtomSilo | ⬆️ 🟢 |  | mhdehvkomeabau7gsetnsrhkfign4jgnx3wajth5yb5h6kvzbd72wlqd.onion |
 | avos |  | ⬇️ 🔴 | 2021-05-01 | avos2fuj6olp6x36.onion |
