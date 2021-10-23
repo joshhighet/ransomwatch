@@ -15,13 +15,13 @@
 
 
     <link href="https://fonts.googleapis.com/css?family=Playfair+Display:700,900" rel="stylesheet">
-    <link href="/blog.css?v=1635002406" rel="stylesheet">
+    <link href="/blog.css?v=1635004165" rel="stylesheet">
     <script src="/assets/js/jquery-2.1.3.min.js"></script>
 
     <script src="/assets/js/vendor/popper.min.js"></script>
     <script src="/dist/js/bootstrap.min.js"></script>
     <script src="/assets/js/vendor/holder.min.js"></script>
-    <script src="/script.js?v=1635002406"></script>
+    <script src="/script.js?v=1635004165"></script>
     <style>
         .d_buttons{
             display: none;
@@ -132,6 +132,156 @@
 
         <script>
 
+            function ShowProof16(){
+                if(showed16 === 0){
+                    showed16 = 1;
+                    $("#target_16 .proof_block").slideDown(400);
+                }else{
+                    showed16 = 0;
+                    $("#target_16 .proof_block").slideUp(400);
+                }
+
+            }
+            function ShowDButtons16(){
+                if(showed_d_buttons16 === 0){
+                    showed_d_buttons16 = 1;
+                    $("#target_16 .d_buttons").slideDown(400);
+                }else{
+                    showed_d_buttons16 = 0;
+                    $("#target_16 .d_buttons").slideUp(400);
+                }
+
+            }
+
+            var showed16 = 0;
+            var showed_d_buttons16 = 0;
+            var HAPPYSEC16 = 2481035;
+            var t_sec16 = HAPPYSEC16;
+
+            var time16;
+            var intervalId16=0;
+
+
+            $(document).ready(function () {
+
+                intervalId16 = setInterval(function (){
+                    timerDecrement16();
+                }, 1000);
+            });
+
+
+            function timerDecrement16() {
+                time16 = $('#target_16 span.timer');
+
+                if(t_sec16 < 1){
+                    t_sec16 = 0;
+                    newTime = t_sec16 ;
+                }else{
+                    newTime = t_sec16 - 1;
+                }
+
+
+                t_sec16 = newTime;
+
+                var t_min = t_sec16 / 60;
+                var t_hour = t_min / 60;
+                var t_day =
+                    '<b>' + Math.floor(t_hour / 24) + '</b> days ' +
+                    '<b>' + Math.floor(t_hour % 24) +'</b>:' +
+                    '<b>' + Math.floor(t_min % 60) +'</b>:' +
+                    '<b>' + Math.floor(t_sec16 % 60)+ '</b> ';
+
+                time16.html(t_day);
+
+
+
+                if(newTime === 0 && HAPPYSEC16 > 0 || newTime < 1){
+
+                    time16.html('');
+                    $("#target_16 .lock").attr("src","assets/img/lockopen.png");
+                    $("#target_16 .clock").attr("src","assets/img/clockred.png").addClass("clockred");
+                    $("#target_16 .btn2").addClass("redbg");
+                    $("#target_16 .arrow-8").addClass("r8");
+                    $("#target_16 .perc").html("100%");
+
+                    clearInterval(intervalId16);
+                    GetDownloadLink(16,$("#target_16 .redbg"));
+                }
+
+
+            }
+        </script>
+
+        <div class="row jumbotron p-3  text-white rounded bg-d1" id="target_16">
+            <div class="col-md-6 px-0">
+                <h1 class="display-4 font-italic border-bottom">DiGioia Gray & Associates, LLC    </h1>
+            </div>
+
+            <div class="col-md-6 px-0">
+                                    <img src="assets/img/lock.png" alt="" class="lock">
+                
+                                    <div class="arrow-1"></div>
+                    <a href="javascript:" class="buttonstyle2  proofbutton" onclick="ShowProof16();">Proof</a>
+                    
+            </div>
+            <div class="col-md-12 px-0">
+
+                <div class="proof_block text-center"><img src="proofs/16/proof.png" alt="" class="proof"></div>
+
+                <p class="lead my-3 pb-3" >DiGioia Gray is a dynamic firm led by internationally respected engineers and scientists with experience providing consulting services for the energy, transportation, infrastructure, and building development industries.                </p>
+                <div class="dropdown-divider divid-c"></div>
+            </div>
+
+
+            <div class="col-md-12 row px-0  mt-4 mb-4 ml-0">
+                <div class="col-md-3 text-center ">
+                    <p class="lead mb-0 squ">
+                    <span class="text-white font-weight-bold ">
+                        <i class="fa fa-users"></i>
+                    </span>
+                        <br>
+                        <span class="">104</span>
+                    </p>
+                </div>
+                <div class="col-md-3 text-center"><p class="lead mb-0 squ"><span class="text-white font-weight-bold "><i class="fa fa-globe"></i></span><br>
+                        <a href="https://digioiagray.com" class="text-white text-decoration-none">Web Site</a></p></div>
+                <div class="col-md-3 text-center"><p class="lead mb-0 squ "><span class="text-white font-weight-bold "><i class="fa fa-dollar"></i></span> <br>$ 19 Million </p></div>
+                <div class="col-md-3 text-center"><p class="lead mb-0 squ"><span class="text-white font-weight-bold"><i class="fa fa-phone"></i></span><br>(412) 372-4500</p></div>
+
+            </div>
+
+
+
+
+            <div class="col-md-12 row px-0 mt-5">
+                <div class="col-md-12 text-center"><a href="mailto:BlackByteSupp0rt@onionmail.org" class="text-white text-decoration-none">BlackByteSupp0rt@onionmail.org</a></div>
+                <div class="col-md-6">
+                    <p class="lead mb-0 text-white font-weight-bold" style="margin-top: 13px">
+                        <span class="timer"></span> 
+                                                    <img src="assets/img/clock.png" alt="" class="clock">
+                                            </p>
+                </div>
+                <div class="col-md-6 text-right pr-0"><p class="lead mb-0">
+
+
+
+<!--                        <span class="perc">--><!--%</span>-->
+
+
+                    <div class="arrow-8"></div>
+
+                                            <a target="_blank" href="https://anonfiles.com/heV3QdP0u3/2020_rar" class="btn btn2 legitRipple   ">Download Free </a>
+                        
+
+
+                    </p></div>
+
+                    
+            </div>
+        </div>
+        
+        <script>
+
             function ShowProof15(){
                 if(showed15 === 0){
                     showed15 = 1;
@@ -155,7 +305,7 @@
 
             var showed15 = 0;
             var showed_d_buttons15 = 0;
-            var HAPPYSEC15 = 754794;
+            var HAPPYSEC15 = 753035;
             var t_sec15 = HAPPYSEC15;
 
             var time15;
@@ -307,7 +457,7 @@ we have download your documents and important information, include your database
 
             var showed14 = 0;
             var showed_d_buttons14 = 0;
-            var HAPPYSEC14 = -1923606;
+            var HAPPYSEC14 = -1925365;
             var t_sec14 = HAPPYSEC14;
 
             var time14;
@@ -459,7 +609,7 @@ we have download information about your clients, Scans, and many more. if you wo
 
             var showed13 = 0;
             var showed_d_buttons13 = 0;
-            var HAPPYSEC13 = 754794;
+            var HAPPYSEC13 = 753035;
             var t_sec13 = HAPPYSEC13;
 
             var time13;
@@ -614,7 +764,7 @@ The majority of products are marketed and sold under our own brand. Additionally
 
             var showed12 = 0;
             var showed_d_buttons12 = 0;
-            var HAPPYSEC12 = 754794;
+            var HAPPYSEC12 = 753035;
             var t_sec12 = HAPPYSEC12;
 
             var time12;
@@ -765,7 +915,7 @@ The majority of products are marketed and sold under our own brand. Additionally
 
             var showed11 = 0;
             var showed_d_buttons11 = 0;
-            var HAPPYSEC11 = 754794;
+            var HAPPYSEC11 = 753035;
             var t_sec11 = HAPPYSEC11;
 
             var time11;
@@ -916,7 +1066,7 @@ The majority of products are marketed and sold under our own brand. Additionally
 
             var showed10 = 0;
             var showed_d_buttons10 = 0;
-            var HAPPYSEC10 = 754794;
+            var HAPPYSEC10 = 753035;
             var t_sec10 = HAPPYSEC10;
 
             var time10;
@@ -1068,7 +1218,7 @@ We have more then 100GB of your sensitive data, Finance, Sales, Acounting...    
 
             var showed9 = 0;
             var showed_d_buttons9 = 0;
-            var HAPPYSEC9 = 754794;
+            var HAPPYSEC9 = 753035;
             var t_sec9 = HAPPYSEC9;
 
             var time9;
@@ -1220,7 +1370,7 @@ We have more then 250GB of your sensitive data, Finance, Sales, Acounting...    
 
             var showed8 = 0;
             var showed_d_buttons8 = 0;
-            var HAPPYSEC8 = 754794;
+            var HAPPYSEC8 = 753035;
             var t_sec8 = HAPPYSEC8;
 
             var time8;
@@ -1372,7 +1522,7 @@ We have more then 190GB of your sensitive data, Finance, Sales, Acounting...    
 
             var showed7 = 0;
             var showed_d_buttons7 = 0;
-            var HAPPYSEC7 = 754794;
+            var HAPPYSEC7 = 753035;
             var t_sec7 = HAPPYSEC7;
 
             var time7;
