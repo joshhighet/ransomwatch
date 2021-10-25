@@ -2,6 +2,11 @@
 
 | date | title | group |
 |---|---|---|
+| 2021-10-25 | `HÃ¶erskool Labori Paarl` | [pysa](https://ransomwatch.telemetry.ltd/#/profiles?id=pysa) |
+| 2021-10-25 | `Cenikor` | [pysa](https://ransomwatch.telemetry.ltd/#/profiles?id=pysa) |
+| 2021-10-25 | `Suntide Commercial Realty` | [pysa](https://ransomwatch.telemetry.ltd/#/profiles?id=pysa) |
+| 2021-10-25 | `Motor Appliance Corporation` | [pysa](https://ransomwatch.telemetry.ltd/#/profiles?id=pysa) |
+| 2021-10-25 | `Pfertner GmbH Immobilienverwaltung` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2021-10-25 | `SSMSJUSTICE.COM FILES  FILES PART2 - joy@SLFfirm.com - JS.ost, talcinfo@ssmsjustice.com - ` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2021-10-25 | `BPATPA.COM FILES  PART11 PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2021-10-25 | `https://www.cti... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -97,8 +102,3 @@
 | 2021-10-18 | `Price Davis LLC` | [pysa](https://ransomwatch.telemetry.ltd/#/profiles?id=pysa) |
 | 2021-10-18 | `Campus Sacre Coeur Wien Gymnasium` | [pysa](https://ransomwatch.telemetry.ltd/#/profiles?id=pysa) |
 | 2021-10-18 | `CreateInfor` | [pysa](https://ransomwatch.telemetry.ltd/#/profiles?id=pysa) |
-| 2021-10-18 | `InfoSync IT Solutions` | [pysa](https://ransomwatch.telemetry.ltd/#/profiles?id=pysa) |
-| 2021-10-18 | `Hall Technologies Inc` | [pysa](https://ransomwatch.telemetry.ltd/#/profiles?id=pysa) |
-| 2021-10-18 | `Toos Asphalt Company` | [spook](https://ransomwatch.telemetry.ltd/#/profiles?id=spook) |
-| 2021-10-18 | `JVCKenwood` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
-| 2021-10-18 | `GENESISNET.COM FILES  PART15  - Projects, Gravetti, Datacomm, Accounting PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
