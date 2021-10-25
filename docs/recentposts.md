@@ -2,6 +2,8 @@
 
 | date | title | group |
 |---|---|---|
+| 2021-10-25 | `Barnes Professional Eye Care` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
+| 2021-10-25 | `Enviroplas` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2021-10-25 | `bpc.ao` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-10-25 | `https://www.med... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-10-24 | `Digicel Group` | [ransomexx](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomexx) |
@@ -100,5 +102,3 @@
 | 2021-10-18 | `BPATPA.COM FILES  PART9 PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2021-10-18 | `atento.com ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-10-18 | `Grupo Vía` | [spook](https://ransomwatch.telemetry.ltd/#/profiles?id=spook) |
-| 2021-10-17 | `Nakisa` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
-| 2021-10-17 | `Galloway Research Service` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
