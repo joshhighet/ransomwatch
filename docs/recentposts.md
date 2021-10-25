@@ -2,6 +2,11 @@
 
 | date | title | group |
 |---|---|---|
+| 2021-10-25 | `BOLTONUSA.COM FILES  FILES PART3 - CB.pst, archive1.pst, archive2.pst, archive3.pst, backu` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2021-10-25 | `SUNSETHCS.COM FILES  FILES PART12 - 208.100.41.212\E$\USERS PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2021-10-25 | `TONLYELE.COM FILES  PART1 -  通力电子共享服务器, 采购SRM培训教材, 陈江二厂3楼扫描 PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2021-10-25 | `STRATISVISUALS.COM  FILES FILES PART6 - Acct PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2021-10-25 | `ABSOLUTERESULTS.COM FILES  FILES PART3 - HR, HRTemp, AbsoluteDrive PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2021-10-25 | `SAN CARLO GRUPPO ALIMENTARE SPA` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2021-10-25 | `Barnes Professional Eye Care` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2021-10-25 | `Enviroplas` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
@@ -97,8 +102,3 @@
 | 2021-10-18 | `STRATISVISUALS.COM  FILES FILES PART4 - 10.0.0.36, 10.0.0.58 PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2021-10-18 | `SUNSETHCS.COM FILES  FILES PART10 - 208.100.41.212\E$\SHAREDFOLDERS PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2021-10-18 | `EMPIRICAL-RESEARCH.COM  FILES FILES PART7 - 172.18.0.71, 172.18.0.77, 172.18.0.81 PUBLISHE` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2021-10-18 | `BRPRINTERS.COM FILES  PART8 PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2021-10-18 | `STORAFILE.CO.UK  FILES PART12 PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2021-10-18 | `BLUEBONNETNUTRITION.COM FILES  FILES PART9 - Accounting PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2021-10-18 | `BPATPA.COM FILES  PART9 PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2021-10-18 | `atento.com ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
