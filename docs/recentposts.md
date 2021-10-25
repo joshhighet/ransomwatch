@@ -2,6 +2,10 @@
 
 | date | title | group |
 |---|---|---|
+| 2021-10-25 | `SSMSJUSTICE.COM FILES  FILES PART2 - joy@SLFfirm.com - JS.ost, talcinfo@ssmsjustice.com - ` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2021-10-25 | `BPATPA.COM FILES  PART11 PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2021-10-25 | `https://www.cti... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
+| 2021-10-25 | `MINT Investments    ` | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
 | 2021-10-25 | `BOLTONUSA.COM FILES  FILES PART3 - CB.pst, archive1.pst, archive2.pst, archive3.pst, backu` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2021-10-25 | `SUNSETHCS.COM FILES  FILES PART12 - 208.100.41.212\E$\USERS PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2021-10-25 | `TONLYELE.COM FILES  PART1 -  通力电子共享服务器, 采购SRM培训教材, 陈江二厂3楼扫描 PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
@@ -98,7 +102,3 @@
 | 2021-10-18 | `Toos Asphalt Company` | [spook](https://ransomwatch.telemetry.ltd/#/profiles?id=spook) |
 | 2021-10-18 | `JVCKenwood` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2021-10-18 | `GENESISNET.COM FILES  PART15  - Projects, Gravetti, Datacomm, Accounting PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2021-10-18 | `DACOLL.CO.UK FILES  FILES PART3 - Customer Documentation, Engineering Management, JulianDe` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2021-10-18 | `STRATISVISUALS.COM  FILES FILES PART4 - 10.0.0.36, 10.0.0.58 PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2021-10-18 | `SUNSETHCS.COM FILES  FILES PART10 - 208.100.41.212\E$\SHAREDFOLDERS PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2021-10-18 | `EMPIRICAL-RESEARCH.COM  FILES FILES PART7 - 172.18.0.71, 172.18.0.77, 172.18.0.81 PUBLISHE` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
