@@ -2,6 +2,7 @@
 
 | date | title | group |
 |---|---|---|
+| 2021-10-25 | `delete ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-10-25 | `HÃ¶erskool Labori Paarl` | [pysa](https://ransomwatch.telemetry.ltd/#/profiles?id=pysa) |
 | 2021-10-25 | `Cenikor` | [pysa](https://ransomwatch.telemetry.ltd/#/profiles?id=pysa) |
 | 2021-10-25 | `Suntide Commercial Realty` | [pysa](https://ransomwatch.telemetry.ltd/#/profiles?id=pysa) |
@@ -101,4 +102,3 @@
 | 2021-10-18 | `QPharma` | [pysa](https://ransomwatch.telemetry.ltd/#/profiles?id=pysa) |
 | 2021-10-18 | `Price Davis LLC` | [pysa](https://ransomwatch.telemetry.ltd/#/profiles?id=pysa) |
 | 2021-10-18 | `Campus Sacre Coeur Wien Gymnasium` | [pysa](https://ransomwatch.telemetry.ltd/#/profiles?id=pysa) |
-| 2021-10-18 | `CreateInfor` | [pysa](https://ransomwatch.telemetry.ltd/#/profiles?id=pysa) |
