@@ -2,6 +2,7 @@
 
 | date | title | group |
 |---|---|---|
+| 2021-10-26 | `SMARTERASP.NET FILES  PART1 -  SERVER WIN5018 PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2021-10-26 | `Ideal Living` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2021-10-26 | `Wayne Automatic Fire Sprinklers, Inc.` | [xinglocker](https://ransomwatch.telemetry.ltd/#/profiles?id=xinglocker) |
 | 2021-10-26 | `idline.fr ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -101,4 +102,3 @@
 | 2021-10-19 | `garagedeckx.be` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-10-19 | `North Island` | [spook](https://ransomwatch.telemetry.ltd/#/profiles?id=spook) |
 | 2021-10-19 | `ABSOLUTERESULTS.COM FILES  FILES PART1 - bwilliams@absoluteresults.com - New.ost PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2021-10-19 | `BOLTONUSA.COM FILES  FILES PART1 - 2006.pst, 2007.pst, 2008.pst, 2009.pst, 2010.pst, 2010.` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
