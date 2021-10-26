@@ -1,18 +1,18 @@
 ## 📰 summary - october 26th, 2021
 
-currently tracking `68` groups across `80` various relays and mirrors - _`34` of which are online_
+currently tracking `68` groups across `80` various relays and mirrors - _`32` of which are online_
 
 there are currently `33` active parsers, `9` of which requiring headless browsers - _`4` groups have introduced captchas this year_
 
-⏲ there have been `19` posts within the `last 24 hours`
+⏲ there have been `15` posts within the `last 24 hours`
 
-🦈 there have been `457` posts within the `month of october`
+🦈 there have been `458` posts within the `month of october`
 
-🪐 there have been `1469` posts within the `last 90 days`
+🪐 there have been `1470` posts within the `last 90 days`
 
-🏚 there have been `1511` posts within the `year of 2021`
+🏚 there have been `1512` posts within the `year of 2021`
 
-🦕 there have been `1545` posts `since the dawn of ransomwatch`
+🦕 there have been `1546` posts `since the dawn of ransomwatch`
 
 > _the `19` sites using v2 onion services are no longer indexed - [support.torproject.org](https://support.torproject.org/onionservices/v2-deprecation/)_
 
@@ -32,7 +32,7 @@ there are currently `33` active parsers, `9` of which requiring headless browser
 | lockbit2 | LockBit BLOG | ⬆️ 🟢 |  | lockbitapt6vx57t3eeqjofwgcglmutr3a35nygvokja5uuccip4ykyd.onion |
 | lockbit2 | LOCKFILE | ⬆️ 🟢 |  | zqaflhty5hyziovsxgqvj2mrz5e5rs6oqxzb54zolccfnvtn5w2johad.onion |
 | hive | Hive | ⬆️ 🟢 |  | hiveleakdbtnp76ulyhi52eag6c6tyc3xw7ez7iqy6wc34gd2nekazyd.onion |
-| arvinclub | Database Error | ⬆️ 🟢 |  | 3kp6j22pz3zkv76yutctosa6djpj4yib2icvdqxucdaxxedumhqicpad.onion |
+| arvinclub | Database Error | ⬇️ 🔴 | 2021-10-26 | 3kp6j22pz3zkv76yutctosa6djpj4yib2icvdqxucdaxxedumhqicpad.onion |
 | avoslocker | AvosLocker Access Queue | ⬆️ 🟢 |  | avosqxh72b5ia23dl5fgwcpndkctuzqvh2iefk5imp3pi5gfhel5klad.onion |
 | grief | Grief list | ⬆️ 🟢 |  | griefcameifmv4hfr3auozmovz5yi6m3h3dwbuqw7baomfxoxz4qteid.onion |
 | avaddon |  | ⬇️ 🔴 | 2021-05-01 | avaddongun7rngel.onion |
@@ -85,7 +85,7 @@ there are currently `33` active parsers, `9` of which requiring headless browser
 | hades |  | ⬇️ 🔴 | 2021-05-01 | ixltdyumdlthrtgx.onion |
 | hellokitty | News | ⬇️ 🔴 | 2021-10-02 | 3r6n77mpe737w4sbxxxrpc5phbluv6xhtdl5ujpnlvmck5tc7blq2rqd.onion |
 | hotarus | Hotarus Corp | ⬇️ 🔴 | 2021-10-22 | r6d636w47ncnaukrpvlhmtdbvbeltc6enfcuuow3jclpmyga7cz374qd.onion |
-| karma | Karma Leaks | ⬆️ 🟢 |  | 3nvzqyo6l4wkrzumzu5aod7zbosq4ipgf7ifgj3hsvbcr5vcasordvqd.onion |
+| karma | Karma Leaks | ⬇️ 🔴 | 2021-10-26 | 3nvzqyo6l4wkrzumzu5aod7zbosq4ipgf7ifgj3hsvbcr5vcasordvqd.onion |
 | lockbit |  | ⬇️ 🔴 | 2021-05-01 | lockbitkodidilol.onion |
 | mbc |  | ⬇️ 🔴 | 2021-05-01 | xembshruusobgbvxg4tcjs3jpdnks6xrr6nbokfxadcnlc53yxir22ad.onion |
 | mydecryptor |  | ⬇️ 🔴 | 2021-05-01 | 5s4ixqul2enwxrqv.onion |
