@@ -4,7 +4,7 @@ currently tracking `68` groups across `80` various relays and mirrors - _`31` of
 
 there are currently `33` active parsers, `9` of which requiring headless browsers - _`4` groups have introduced captchas this year_
 
-⏲ there have been `28` posts within the `last 24 hours`
+⏲ there have been `22` posts within the `last 24 hours`
 
 🦈 there have been `456` posts within the `month of october`
 
@@ -28,11 +28,11 @@ there are currently `33` active parsers, `9` of which requiring headless browser
 | suncrypt |  | ⬇️ 🔴 | 2021-05-01 | nbzzb6sa6xuura2z.onion |
 | lv | LV Blog | ⬆️ 🟢 |  | rbvuetuneohce3ouxjlbxtimyyxokb4btncxjbo44fbgxqy7tskinwad.onion |
 | lv | LV Blog | ⬇️ 🔴 | 2021-10-07 | 4qbxi3i2oqmyzxsjg4fwe4aly3xkped52gq5orp6efpkeskvchqe27id.onion |
-| lorenz | Lorenz | ⬇️ 🔴 | 2021-10-26 | lorenzmlwpzgxq736jzseuterytjueszsvznuibanxomlpkyxk6ksoyd.onion |
+| lorenz | Lorenz | ⬆️ 🟢 |  | lorenzmlwpzgxq736jzseuterytjueszsvznuibanxomlpkyxk6ksoyd.onion |
 | lockbit2 | LockBit BLOG | ⬇️ 🔴 | 2021-10-26 | lockbitapt6vx57t3eeqjofwgcglmutr3a35nygvokja5uuccip4ykyd.onion |
 | lockbit2 | LOCKFILE | ⬆️ 🟢 |  | zqaflhty5hyziovsxgqvj2mrz5e5rs6oqxzb54zolccfnvtn5w2johad.onion |
 | hive | Hive | ⬆️ 🟢 |  | hiveleakdbtnp76ulyhi52eag6c6tyc3xw7ez7iqy6wc34gd2nekazyd.onion |
-| arvinclub | Arvin Club – آزادی برای اتصال | ⬆️ 🟢 |  | 3kp6j22pz3zkv76yutctosa6djpj4yib2icvdqxucdaxxedumhqicpad.onion |
+| arvinclub | Database Error | ⬆️ 🟢 |  | 3kp6j22pz3zkv76yutctosa6djpj4yib2icvdqxucdaxxedumhqicpad.onion |
 | avoslocker | AvosLocker Access Queue | ⬆️ 🟢 |  | avosqxh72b5ia23dl5fgwcpndkctuzqvh2iefk5imp3pi5gfhel5klad.onion |
 | grief | Grief list | ⬆️ 🟢 |  | griefcameifmv4hfr3auozmovz5yi6m3h3dwbuqw7baomfxoxz4qteid.onion |
 | avaddon |  | ⬇️ 🔴 | 2021-05-01 | avaddongun7rngel.onion |
@@ -61,7 +61,7 @@ there are currently `33` active parsers, `9` of which requiring headless browser
 | cuba |  | ⬇️ 🔴 | 2021-05-01 | cuba4mp6ximo2zlo.onion |
 | pay2key | Pay2Key Leak Directory! | ⬆️ 🟢 |  | pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion |
 | aztroteam |  | ⬇️ 🔴 | 2021-05-01 | anewset3pcya3xvk73hj7yunuamutxxsm5sohkdi32blhmql55tvgqad.onion |
-| lockdata | LockData Auction | ⬆️ 🟢 |  | wm6mbuzipviusuc42kcggzkdpbhuv45sn7olyamy6mcqqked3waslbqd.onion |
+| lockdata | LockData Auction | ⬇️ 🔴 | 2021-10-26 | wm6mbuzipviusuc42kcggzkdpbhuv45sn7olyamy6mcqqked3waslbqd.onion |
 | blacktor | 401 Unauthorized | ⬆️ 🟢 |  | bl4cktorpms2gybrcyt52aakcxt6yn37byb65uama5cimhifcscnqkid.onion |
 | haron | Clients page | ⬆️ 🟢 |  | ft4zr2jzlqoyob7yg4fcpwyt37hox3ajajqnfkdvbfrkjioyunmqnpad.onion |
 | darkleakmarket | Dark Leak Market | ⬇️ 🔴 | 2021-10-07 | 54rdhzjzc4ids4u4wata4zr4ywfon5wpz2ml4q3avelgadpvmdal2vqd.onion |
@@ -73,7 +73,7 @@ there are currently `33` active parsers, `9` of which requiring headless browser
 | atomsilo | AtomSilo | ⬆️ 🟢 |  | mhdehvkomeabau7gsetnsrhkfign4jgnx3wajth5yb5h6kvzbd72wlqd.onion |
 | avos |  | ⬇️ 🔴 | 2021-05-01 | avos2fuj6olp6x36.onion |
 | blackbyte |  | ⬇️ 🔴 | 2021-05-01 | 6iaj3efye3q62xjgfxyegrufhewxew7yt4scxjd45tlfafyja6q4ctqd.onion |
-| blackbyte | BlackByte BLOG | ⬆️ 🟢 |  | f5uzduboq4fa2xkjloprmctk7ve3dm46ff7aniis66cbekakvksxgeqd.onion |
+| blackbyte | BlackByte BLOG | ⬇️ 🔴 | 2021-10-26 | f5uzduboq4fa2xkjloprmctk7ve3dm46ff7aniis66cbekakvksxgeqd.onion |
 | lolnek | Support | ⬆️ 🟢 |  | mmeeiix2ejdwkmseycljetmpiwebdvgjts75c63camjofn2cjdoulzqd.onion |
 | blackshadow |  | ⬇️ 🔴 | 2021-05-01 | 544corkfh5hwhtn4.onion |
 | bonacigroup | Blog | ⬆️ 🟢 |  | bonacifryrxr4siz6ptvokuihdzmjzpveruklxumflz5thmkgauty2qd.onion |
@@ -85,7 +85,7 @@ there are currently `33` active parsers, `9` of which requiring headless browser
 | hades |  | ⬇️ 🔴 | 2021-05-01 | ixltdyumdlthrtgx.onion |
 | hellokitty | News | ⬇️ 🔴 | 2021-10-02 | 3r6n77mpe737w4sbxxxrpc5phbluv6xhtdl5ujpnlvmck5tc7blq2rqd.onion |
 | hotarus | Hotarus Corp | ⬇️ 🔴 | 2021-10-22 | r6d636w47ncnaukrpvlhmtdbvbeltc6enfcuuow3jclpmyga7cz374qd.onion |
-| karma | Karma Leaks | ⬇️ 🔴 | 2021-10-26 | 3nvzqyo6l4wkrzumzu5aod7zbosq4ipgf7ifgj3hsvbcr5vcasordvqd.onion |
+| karma | Karma Leaks | ⬆️ 🟢 |  | 3nvzqyo6l4wkrzumzu5aod7zbosq4ipgf7ifgj3hsvbcr5vcasordvqd.onion |
 | lockbit |  | ⬇️ 🔴 | 2021-05-01 | lockbitkodidilol.onion |
 | mbc |  | ⬇️ 🔴 | 2021-05-01 | xembshruusobgbvxg4tcjs3jpdnks6xrr6nbokfxadcnlc53yxir22ad.onion |
 | mydecryptor |  | ⬇️ 🔴 | 2021-05-01 | 5s4ixqul2enwxrqv.onion |
