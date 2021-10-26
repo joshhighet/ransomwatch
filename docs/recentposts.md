@@ -2,6 +2,9 @@
 
 | date | title | group |
 |---|---|---|
+| 2021-10-26 | `BRPRINTERS.COM FILES  PART10 - IT, Production PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2021-10-26 | `EMPIRICAL-RESEARCH.COM  FILES FILES PART9 -  D PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2021-10-26 | `DACOLL.CO.UK FILES  FILES PART5 - 172.21.240.103 PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2021-10-26 | `dunndev.com ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-10-26 | `https://ville-s... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-10-26 | `laserexcel.com ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -99,6 +102,3 @@
 | 2021-10-19 | `GENERALE PREFABBRICATI SPA    ` | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
 | 2021-10-19 | `dawsoncountyne.org` | [payloadbin](https://ransomwatch.telemetry.ltd/#/profiles?id=payloadbin) |
 | 2021-10-19 | `All County Surveying Inc` | [spook](https://ransomwatch.telemetry.ltd/#/profiles?id=spook) |
-| 2021-10-19 | `Page Automation` | [spook](https://ransomwatch.telemetry.ltd/#/profiles?id=spook) |
-| 2021-10-19 | `prototal.se` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2021-10-18 | `Lesk Engineering` | [pysa](https://ransomwatch.telemetry.ltd/#/profiles?id=pysa) |
