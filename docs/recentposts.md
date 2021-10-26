@@ -2,6 +2,8 @@
 
 | date | title | group |
 |---|---|---|
+| 2021-10-26 | `Wayne Automatic Fire Sprinklers, Inc.` | [xinglocker](https://ransomwatch.telemetry.ltd/#/profiles?id=xinglocker) |
+| 2021-10-26 | `idline.fr ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-10-26 | `BRPRINTERS.COM FILES  PART10 - IT, Production PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2021-10-26 | `EMPIRICAL-RESEARCH.COM  FILES FILES PART9 -  D PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2021-10-26 | `DACOLL.CO.UK FILES  FILES PART5 - 172.21.240.103 PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
@@ -100,5 +102,3 @@
 | 2021-10-19 | `ABSOLUTERESULTS.COM FILES  FILES PART1 - bwilliams@absoluteresults.com - New.ost PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2021-10-19 | `BOLTONUSA.COM FILES  FILES PART1 - 2006.pst, 2007.pst, 2008.pst, 2009.pst, 2010.pst, 2010.` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2021-10-19 | `GENERALE PREFABBRICATI SPA    ` | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
-| 2021-10-19 | `dawsoncountyne.org` | [payloadbin](https://ransomwatch.telemetry.ltd/#/profiles?id=payloadbin) |
-| 2021-10-19 | `All County Surveying Inc` | [spook](https://ransomwatch.telemetry.ltd/#/profiles?id=spook) |
