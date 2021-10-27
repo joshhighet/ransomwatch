@@ -2,6 +2,8 @@
 
 | date | title | group |
 |---|---|---|
+| 2021-10-27 | `DACOLL.CO.UK FILES  FILES PART6 - 172.21.240.103 PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2021-10-27 | `BPATPA.COM FILES  PART12 PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2021-10-27 | `lawyersforemplo... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-10-26 | `ville-saintaffr... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-10-26 | `Medical Healthcare Solutions, Inc` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
@@ -100,5 +102,3 @@
 | 2021-10-20 | `BPATPA.COM FILES  PART10 PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2021-10-20 | `Glenbrook Automotive Group` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2021-10-20 | `Creative Extruded Products` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
-| 2021-10-20 | `bagbyelevator.c... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2021-10-20 | `zgoda.net ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
