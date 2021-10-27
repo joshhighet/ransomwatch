@@ -2,6 +2,8 @@
 
 | date | title | group |
 |---|---|---|
+| 2021-10-27 | `SUNSETHCS.COM FILES  FILES PART13 - FINAL PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2021-10-27 | `QUANTUMGROUP.COM FILES  PART1- Abbvie, abbviekeystone, achn, adarling, alight, cerity, dat` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2021-10-27 | `TONLYELE.COM FILES  PART2 -  通力电子共享服务器, 采购SRM培训教材, 陈江二厂3楼扫描 PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2021-10-27 | `TONLYELE.COM FILES  PART3 - 二楼DQA扫描, 技术创新部, 通力尽调 PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2021-10-27 | `BOLTONUSA.COM FILES  FILES PART4 - E PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
@@ -100,5 +102,3 @@
 | 2021-10-21 | `www.continental... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-10-21 | `pi-hf.com` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-10-20 | `thefoxhillclub.... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2021-10-20 | `SUNSETHCS.COM FILES  FILES PART11 - 208.100.41.212\E$\USERS PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2021-10-20 | `GENESISNET.COM FILES  PART16  - HR_Restricted, HR, HR2018 PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
