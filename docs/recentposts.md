@@ -2,6 +2,8 @@
 
 | date | title | group |
 |---|---|---|
+| 2021-10-27 | `STRATISVISUALS.COM  FILES FILES PART7 - MCCOY004, MCCOY016 PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2021-10-27 | `BRPRINTERS.COM FILES  PART11 - 172.10.20.24\users$ PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2021-10-27 | `SSMSJUSTICE.COM FILES  FILES PART3 - 192.168.1.250\D\DATA\Case Files PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2021-10-27 | `SLIMSTOCK.COM FILES  FILES PART1 - 10.30.10.12, 10.30.10.13, 10.30.10.14, 10.30.10.34, 10.` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2021-10-27 | `DACOLL.CO.UK FILES  FILES PART6 - 172.21.240.103 PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
@@ -100,5 +102,3 @@
 | 2021-10-20 | `STRATISVISUALS.COM  FILES FILES PART5 - 10.0.0.67, 10.0.0.85, 10.0.0.90, 10.0.0.94 PUBLISH` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2021-10-20 | `EMPIRICAL-RESEARCH.COM  FILES FILES PART8 -  172.18.0.130 PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2021-10-20 | `BRPRINTERS.COM FILES  PART9 PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2021-10-20 | `DACOLL.CO.UK FILES  FILES PART4 - 172.21.240.103 PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2021-10-20 | `BPATPA.COM FILES  PART10 PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
