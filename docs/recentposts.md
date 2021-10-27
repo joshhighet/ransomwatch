@@ -2,6 +2,8 @@
 
 | date | title | group |
 |---|---|---|
+| 2021-10-27 | `SSMSJUSTICE.COM FILES  FILES PART3 - 192.168.1.250\D\DATA\Case Files PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2021-10-27 | `SLIMSTOCK.COM FILES  FILES PART1 - 10.30.10.12, 10.30.10.13, 10.30.10.14, 10.30.10.34, 10.` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2021-10-27 | `DACOLL.CO.UK FILES  FILES PART6 - 172.21.240.103 PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2021-10-27 | `BPATPA.COM FILES  PART12 PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2021-10-27 | `lawyersforemplo... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -100,5 +102,3 @@
 | 2021-10-20 | `BRPRINTERS.COM FILES  PART9 PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2021-10-20 | `DACOLL.CO.UK FILES  FILES PART4 - 172.21.240.103 PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2021-10-20 | `BPATPA.COM FILES  PART10 PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2021-10-20 | `Glenbrook Automotive Group` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
-| 2021-10-20 | `Creative Extruded Products` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
