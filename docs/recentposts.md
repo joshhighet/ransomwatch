@@ -2,6 +2,7 @@
 
 | date | title | group |
 |---|---|---|
+| 2021-10-27 | `lawyersforemplo... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-10-26 | `ville-saintaffr... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-10-26 | `Medical Healthcare Solutions, Inc` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2021-10-26 | `le-inc.com ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -101,4 +102,3 @@
 | 2021-10-20 | `Creative Extruded Products` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2021-10-20 | `bagbyelevator.c... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-10-20 | `zgoda.net ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2021-10-20 | `Società Italiana degli Autori ed Editori` | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
