@@ -2,6 +2,10 @@
 
 | date | title | group |
 |---|---|---|
+| 2021-10-28 | `psomagen.com ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
+| 2021-10-28 | `parkhotel.mk ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
+| 2021-10-28 | `roadrebel.com ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
+| 2021-10-28 | `katzmanproduce.... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-10-28 | `H Hotels Collection    ` | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
 | 2021-10-28 | `pandol.com ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-10-28 | `www.parkhotel.m... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -98,7 +102,3 @@
 | 2021-10-21 | `The National Math and Science Initiative` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2021-10-21 | `urbis.com.hk ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-10-21 | `continentalcoun... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2021-10-21 | `meritresources.... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2021-10-21 | `groeflinag.ch ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2021-10-21 | `radium.com.tw ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2021-10-21 | `bataviacontaine... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
