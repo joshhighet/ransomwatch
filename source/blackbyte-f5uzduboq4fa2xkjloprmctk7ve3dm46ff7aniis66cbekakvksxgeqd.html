@@ -15,13 +15,13 @@
 
 
     <link href="https://fonts.googleapis.com/css?family=Playfair+Display:700,900" rel="stylesheet">
-    <link href="/blog.css?v=1635427371" rel="stylesheet">
+    <link href="/blog.css?v=1635428824" rel="stylesheet">
     <script src="/assets/js/jquery-2.1.3.min.js"></script>
 
     <script src="/assets/js/vendor/popper.min.js"></script>
     <script src="/dist/js/bootstrap.min.js"></script>
     <script src="/assets/js/vendor/holder.min.js"></script>
-    <script src="/script.js?v=1635427371"></script>
+    <script src="/script.js?v=1635428824"></script>
     <style>
         .d_buttons{
             display: none;
@@ -142,6 +142,156 @@
 
         <script>
 
+            function ShowProof18(){
+                if(showed18 === 0){
+                    showed18 = 1;
+                    $("#target_18 .proof_block").slideDown(400);
+                }else{
+                    showed18 = 0;
+                    $("#target_18 .proof_block").slideUp(400);
+                }
+
+            }
+            function ShowDButtons18(){
+                if(showed_d_buttons18 === 0){
+                    showed_d_buttons18 = 1;
+                    $("#target_18 .d_buttons").slideDown(400);
+                }else{
+                    showed_d_buttons18 = 0;
+                    $("#target_18 .d_buttons").slideUp(400);
+                }
+
+            }
+
+            var showed18 = 0;
+            var showed_d_buttons18 = 0;
+            var HAPPYSEC18 = 1019576;
+            var t_sec18 = HAPPYSEC18;
+
+            var time18;
+            var intervalId18=0;
+
+
+            $(document).ready(function () {
+
+                intervalId18 = setInterval(function (){
+                    timerDecrement18();
+                }, 1000);
+            });
+
+
+            function timerDecrement18() {
+                time18 = $('#target_18 span.timer');
+
+                if(t_sec18 < 1){
+                    t_sec18 = 0;
+                    newTime = t_sec18 ;
+                }else{
+                    newTime = t_sec18 - 1;
+                }
+
+
+                t_sec18 = newTime;
+
+                var t_min = t_sec18 / 60;
+                var t_hour = t_min / 60;
+                var t_day =
+                    '<b>' + Math.floor(t_hour / 24) + '</b> days ' +
+                    '<b>' + Math.floor(t_hour % 24) +'</b>:' +
+                    '<b>' + Math.floor(t_min % 60) +'</b>:' +
+                    '<b>' + Math.floor(t_sec18 % 60)+ '</b> ';
+
+                time18.html(t_day);
+
+
+
+                if(newTime === 0 && HAPPYSEC18 > 0 || newTime < 1){
+
+                    time18.html('');
+                    $("#target_18 .lock").attr("src","assets/img/lockopen.png");
+                    $("#target_18 .clock").attr("src","assets/img/clockred.png").addClass("clockred");
+                    $("#target_18 .btn2").addClass("redbg");
+                    $("#target_18 .arrow-8").addClass("r8");
+                    $("#target_18 .perc").html("100%");
+
+                    clearInterval(intervalId18);
+                    GetDownloadLink(18,$("#target_18 .redbg"));
+                }
+
+
+            }
+        </script>
+
+        <div class="row jumbotron p-3  text-white rounded bg-d1" id="target_18">
+            <div class="col-md-6 px-0">
+                <h1 class="display-4 font-italic border-bottom">H Hotels Collection    </h1>
+            </div>
+
+            <div class="col-md-6 px-0">
+                                    <img src="assets/img/lock.png" alt="" class="lock">
+                
+                                    <div class="arrow-1"></div>
+                    <a href="javascript:" class="buttonstyle2  proofbutton" onclick="ShowProof18();">Proof</a>
+                    
+            </div>
+            <div class="col-md-12 px-0">
+
+                <div class="proof_block text-center"><img src="proofs/18/proof.png" alt="" class="proof"></div>
+
+                <p class="lead my-3 pb-3" >Distinguished for its genuine passion for hospitality and motivated by a culture of excellence, the Hatzilazarou family established the H Hotels Collection 27 years ago. Its aspiration was to provide world-class holiday experiences in luxury resorts in Rhodes, Greece – one of the most coveted island destinations in the Mediterranean.                </p>
+                <div class="dropdown-divider divid-c"></div>
+            </div>
+
+
+            <div class="col-md-12 row px-0  mt-4 mb-4 ml-0">
+                <div class="col-md-3 text-center ">
+                    <p class="lead mb-0 squ">
+                    <span class="text-white font-weight-bold ">
+                        <i class="fa fa-users"></i>
+                    </span>
+                        <br>
+                        <span class="">854</span>
+                    </p>
+                </div>
+                <div class="col-md-3 text-center"><p class="lead mb-0 squ"><span class="text-white font-weight-bold "><i class="fa fa-globe"></i></span><br>
+                        <a href="www.hhotels.gr" class="text-white text-decoration-none">Web Site</a></p></div>
+                <div class="col-md-3 text-center"><p class="lead mb-0 squ "><span class="text-white font-weight-bold "><i class="fa fa-dollar"></i></span> <br>$ 161 Million </p></div>
+                <div class="col-md-3 text-center"><p class="lead mb-0 squ"><span class="text-white font-weight-bold"><i class="fa fa-phone"></i></span><br>+30 2244 029230</p></div>
+
+            </div>
+
+
+
+
+            <div class="col-md-12 row px-0 mt-5">
+                <div class="col-md-12 text-center"><a href="mailto:BlackByteSupp0rt@onionmail.org" class="text-white text-decoration-none">BlackByteSupp0rt@onionmail.org</a></div>
+                <div class="col-md-6">
+                    <p class="lead mb-0 text-white font-weight-bold" style="margin-top: 13px">
+                        <span class="timer"></span> 
+                                                    <img src="assets/img/clock.png" alt="" class="clock">
+                                            </p>
+                </div>
+                <div class="col-md-6 text-right pr-0"><p class="lead mb-0">
+
+
+
+<!--                        <span class="perc">--><!--%</span>-->
+
+
+                    <div class="arrow-8"></div>
+
+                                            <a target="_blank" href="https://anonfiles.com/Pd50X3Qau4/1_rar" class="btn btn2 legitRipple   ">Download Free </a>
+                        
+
+
+                    </p></div>
+
+                    
+            </div>
+        </div>
+        
+        <script>
+
             function ShowProof17(){
                 if(showed17 === 0){
                     showed17 = 1;
@@ -165,7 +315,7 @@
 
             var showed17 = 0;
             var showed_d_buttons17 = 0;
-            var HAPPYSEC17 = 589029;
+            var HAPPYSEC17 = 587576;
             var t_sec17 = HAPPYSEC17;
 
             var time17;
@@ -315,7 +465,7 @@
 
             var showed16 = 0;
             var showed_d_buttons16 = 0;
-            var HAPPYSEC16 = 416229;
+            var HAPPYSEC16 = 414776;
             var t_sec16 = HAPPYSEC16;
 
             var time16;
@@ -465,7 +615,7 @@
 
             var showed15 = 0;
             var showed_d_buttons15 = 0;
-            var HAPPYSEC15 = 329829;
+            var HAPPYSEC15 = 328376;
             var t_sec15 = HAPPYSEC15;
 
             var time15;
@@ -615,7 +765,7 @@
 
             var showed14 = 0;
             var showed_d_buttons14 = 0;
-            var HAPPYSEC14 = -2348571;
+            var HAPPYSEC14 = -2350024;
             var t_sec14 = HAPPYSEC14;
 
             var time14;
@@ -877,7 +1027,7 @@
 
             var showed13 = 0;
             var showed_d_buttons13 = 0;
-            var HAPPYSEC13 = 329829;
+            var HAPPYSEC13 = 328376;
             var t_sec13 = HAPPYSEC13;
 
             var time13;
@@ -1031,7 +1181,7 @@ The majority of products are marketed and sold under our own brand. Additionally
 
             var showed12 = 0;
             var showed_d_buttons12 = 0;
-            var HAPPYSEC12 = 329829;
+            var HAPPYSEC12 = 328376;
             var t_sec12 = HAPPYSEC12;
 
             var time12;
@@ -1181,7 +1331,7 @@ The majority of products are marketed and sold under our own brand. Additionally
 
             var showed11 = 0;
             var showed_d_buttons11 = 0;
-            var HAPPYSEC11 = 329829;
+            var HAPPYSEC11 = 328376;
             var t_sec11 = HAPPYSEC11;
 
             var time11;
@@ -1331,7 +1481,7 @@ The majority of products are marketed and sold under our own brand. Additionally
 
             var showed10 = 0;
             var showed_d_buttons10 = 0;
-            var HAPPYSEC10 = 329829;
+            var HAPPYSEC10 = 328376;
             var t_sec10 = HAPPYSEC10;
 
             var time10;
@@ -1481,7 +1631,7 @@ The majority of products are marketed and sold under our own brand. Additionally
 
             var showed9 = 0;
             var showed_d_buttons9 = 0;
-            var HAPPYSEC9 = 329829;
+            var HAPPYSEC9 = 328376;
             var t_sec9 = HAPPYSEC9;
 
             var time9;
@@ -1631,7 +1781,7 @@ The majority of products are marketed and sold under our own brand. Additionally
 
             var showed8 = 0;
             var showed_d_buttons8 = 0;
-            var HAPPYSEC8 = 329829;
+            var HAPPYSEC8 = 328376;
             var t_sec8 = HAPPYSEC8;
 
             var time8;
@@ -1781,7 +1931,7 @@ The majority of products are marketed and sold under our own brand. Additionally
 
             var showed7 = 0;
             var showed_d_buttons7 = 0;
-            var HAPPYSEC7 = 329829;
+            var HAPPYSEC7 = 328376;
             var t_sec7 = HAPPYSEC7;
 
             var time7;
