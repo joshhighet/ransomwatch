@@ -2,6 +2,11 @@
 
 | date | title | group |
 |---|---|---|
+| 2021-10-29 | `Acorn Stairlifts` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
+| 2021-10-29 | `Perrin` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
+| 2021-10-29 | `ILLUM` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
+| 2021-10-29 | `Major Wire Industries` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
+| 2021-10-29 | `Los Gatos Tomato Products` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2021-10-29 | `Marketing Alliance Group` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2021-10-29 | `rijeka-airport.... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-10-28 | `amina-treuhand.... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -97,8 +102,3 @@
 | 2021-10-22 | `hagerstownpd.org` | [groove](https://ransomwatch.telemetry.ltd/#/profiles?id=groove) |
 | 2021-10-22 | `wortmann.de` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-10-22 | `datastorageip.c... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2021-10-22 | `srstlaw.com ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2021-10-22 | `wnj.com ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2021-10-22 | `trivalleypc.com` | [groove](https://ransomwatch.telemetry.ltd/#/profiles?id=groove) |
-| 2021-10-22 | `selinigroup.it ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2021-10-22 | `www.datastorage... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
