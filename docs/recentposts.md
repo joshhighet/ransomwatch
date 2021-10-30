@@ -2,6 +2,7 @@
 
 | date | title | group |
 |---|---|---|
+| 2021-10-30 | `nrpa.org` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-10-29 | `Acorn Stairlifts` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2021-10-29 | `Perrin` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2021-10-29 | `ILLUM` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
@@ -101,4 +102,3 @@
 | 2021-10-22 | `Announcement. ReviLives.` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2021-10-22 | `hagerstownpd.org` | [groove](https://ransomwatch.telemetry.ltd/#/profiles?id=groove) |
 | 2021-10-22 | `wortmann.de` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2021-10-22 | `datastorageip.c... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
