@@ -2,6 +2,7 @@
 
 | date | title | group |
 |---|---|---|
+| 2021-10-30 | `logi-cv.com ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-10-30 | `jginc.biz` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-10-30 | `Я не пью виски но с ним бы выпил` | [groove](https://ransomwatch.telemetry.ltd/#/profiles?id=groove) |
 | 2021-10-30 | `nrpa.org` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -101,4 +102,3 @@
 | 2021-10-22 | `Townley Grammar School` | [pysa](https://ransomwatch.telemetry.ltd/#/profiles?id=pysa) |
 | 2021-10-22 | `Ruskin Community High School` | [pysa](https://ransomwatch.telemetry.ltd/#/profiles?id=pysa) |
 | 2021-10-22 | `Weiss Properties` | [pysa](https://ransomwatch.telemetry.ltd/#/profiles?id=pysa) |
-| 2021-10-22 | `Announcement. ReviLives.` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
