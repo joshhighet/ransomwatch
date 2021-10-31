@@ -15,13 +15,13 @@
 
 
     <link href="https://fonts.googleapis.com/css?family=Playfair+Display:700,900" rel="stylesheet">
-    <link href="/blog.css?v=1635686601" rel="stylesheet">
+    <link href="/blog.css?v=1635691823" rel="stylesheet">
     <script src="/assets/js/jquery-2.1.3.min.js"></script>
 
     <script src="/assets/js/vendor/popper.min.js"></script>
     <script src="/dist/js/bootstrap.min.js"></script>
     <script src="/assets/js/vendor/holder.min.js"></script>
-    <script src="/script.js?v=1635686601"></script>
+    <script src="/script.js?v=1635691823"></script>
     <style>
         .d_buttons{
             display: none;
@@ -70,11 +70,11 @@
 <body class="page_body">
 
 <script>
-    // $(function (){
-    //     $(".alert_close").on("click",function (){
-    //         $(".alert_block").fadeOut(400);
-    //     })
-    // })
+    $(function (){
+        $(".alert_close").on("click",function (){
+            $(".alert_block").fadeOut(400);
+        })
+    })
 
 </script>
 
@@ -132,6 +132,156 @@ We are asking your IT team to write us. To our mail. So we can help you get your
 
         <script>
 
+            function ShowProof19(){
+                if(showed19 === 0){
+                    showed19 = 1;
+                    $("#target_19 .proof_block").slideDown(400);
+                }else{
+                    showed19 = 0;
+                    $("#target_19 .proof_block").slideUp(400);
+                }
+
+            }
+            function ShowDButtons19(){
+                if(showed_d_buttons19 === 0){
+                    showed_d_buttons19 = 1;
+                    $("#target_19 .d_buttons").slideDown(400);
+                }else{
+                    showed_d_buttons19 = 0;
+                    $("#target_19 .d_buttons").slideUp(400);
+                }
+
+            }
+
+            var showed19 = 0;
+            var showed_d_buttons19 = 0;
+            var HAPPYSEC19 = 1015777;
+            var t_sec19 = HAPPYSEC19;
+
+            var time19;
+            var intervalId19=0;
+
+
+            $(document).ready(function () {
+
+                intervalId19 = setInterval(function (){
+                    timerDecrement19();
+                }, 1000);
+            });
+
+
+            function timerDecrement19() {
+                time19 = $('#target_19 span.timer');
+
+                if(t_sec19 < 1){
+                    t_sec19 = 0;
+                    newTime = t_sec19 ;
+                }else{
+                    newTime = t_sec19 - 1;
+                }
+
+
+                t_sec19 = newTime;
+
+                var t_min = t_sec19 / 60;
+                var t_hour = t_min / 60;
+                var t_day =
+                    '<b>' + Math.floor(t_hour / 24) + '</b> days ' +
+                    '<b>' + Math.floor(t_hour % 24) +'</b>:' +
+                    '<b>' + Math.floor(t_min % 60) +'</b>:' +
+                    '<b>' + Math.floor(t_sec19 % 60)+ '</b> ';
+
+                time19.html(t_day);
+
+
+
+                if(newTime === 0 && HAPPYSEC19 > 0 || newTime < 1){
+
+                    time19.html('');
+                    $("#target_19 .lock").attr("src","assets/img/lockopen.png");
+                    $("#target_19 .clock").attr("src","assets/img/clockred.png").addClass("clockred");
+                    $("#target_19 .btn2").addClass("redbg");
+                    $("#target_19 .arrow-8").addClass("r8");
+                    $("#target_19 .perc").html("100%");
+
+                    clearInterval(intervalId19);
+                    GetDownloadLink(19,$("#target_19 .redbg"));
+                }
+
+
+            }
+        </script>
+
+        <div class="row jumbotron p-3  text-white rounded bg-d1" id="target_19">
+            <div class="col-md-6 px-0">
+                <h1 class="display-4 font-italic border-bottom">Napili Kai Foundation Gallery    </h1>
+            </div>
+
+            <div class="col-md-6 px-0">
+                                    <img src="assets/img/lock.png" alt="" class="lock">
+                
+                                    <div class="arrow-1"></div>
+                    <a href="javascript:" class="buttonstyle2  proofbutton" onclick="ShowProof19();">Proof</a>
+                    
+            </div>
+            <div class="col-md-12 px-0">
+
+                <div class="proof_block text-center"><img src="proofs/19/proof.png" alt="" class="proof"></div>
+
+                <p class="lead my-3 pb-3" >Kai Napili Ltd is located in Lahaina, HI, United States and is part of the Traveler Accommodation Industry. Kai Napili Ltd has 150 total employees across all of its locations and generates $22.67 million in sales USD Sales figure is modelled.                </p>
+                <div class="dropdown-divider divid-c"></div>
+            </div>
+
+
+            <div class="col-md-12 row px-0  mt-4 mb-4 ml-0">
+                <div class="col-md-3 text-center ">
+                    <p class="lead mb-0 squ">
+                    <span class="text-white font-weight-bold ">
+                        <i class="fa fa-users"></i>
+                    </span>
+                        <br>
+                        <span class="">152</span>
+                    </p>
+                </div>
+                <div class="col-md-3 text-center"><p class="lead mb-0 squ"><span class="text-white font-weight-bold "><i class="fa fa-globe"></i></span><br>
+                        <a href="www.napilikai.com" class="text-white text-decoration-none">Web Site</a></p></div>
+                <div class="col-md-3 text-center"><p class="lead mb-0 squ "><span class="text-white font-weight-bold "><i class="fa fa-dollar"></i></span> <br>$ 28 Million </p></div>
+                <div class="col-md-3 text-center"><p class="lead mb-0 squ"><span class="text-white font-weight-bold"><i class="fa fa-phone"></i></span><br>(808) 669-6271</p></div>
+
+            </div>
+
+
+
+
+            <div class="col-md-12 row px-0 mt-5">
+                <div class="col-md-12 text-center"><a href="mailto:BlackByteSupp0rt@onionmail.org" class="text-white text-decoration-none">BlackByteSupp0rt@onionmail.org</a></div>
+                <div class="col-md-6">
+                    <p class="lead mb-0 text-white font-weight-bold" style="margin-top: 13px">
+                        <span class="timer"></span> 
+                                                    <img src="assets/img/clock.png" alt="" class="clock">
+                                            </p>
+                </div>
+                <div class="col-md-6 text-right pr-0"><p class="lead mb-0">
+
+
+
+<!--                        <span class="perc">--><!--%</span>-->
+
+
+                    <div class="arrow-8"></div>
+
+                                            <a target="_blank" href="https://anonfiles.com/V2xe94R0u6/napilikai.com_rar" class="btn btn2 legitRipple   ">Download Free </a>
+                        
+
+
+                    </p></div>
+
+                    
+            </div>
+        </div>
+        
+        <script>
+
             function ShowProof18(){
                 if(showed18 === 0){
                     showed18 = 1;
@@ -155,7 +305,7 @@ We are asking your IT team to write us. To our mail. So we can help you get your
 
             var showed18 = 0;
             var showed_d_buttons18 = 0;
-            var HAPPYSEC18 = 761799;
+            var HAPPYSEC18 = 756577;
             var t_sec18 = HAPPYSEC18;
 
             var time18;
@@ -305,7 +455,7 @@ We are asking your IT team to write us. To our mail. So we can help you get your
 
             var showed17 = 0;
             var showed_d_buttons17 = 0;
-            var HAPPYSEC17 = 329799;
+            var HAPPYSEC17 = 324577;
             var t_sec17 = HAPPYSEC17;
 
             var time17;
@@ -455,7 +605,7 @@ We are asking your IT team to write us. To our mail. So we can help you get your
 
             var showed16 = 0;
             var showed_d_buttons16 = 0;
-            var HAPPYSEC16 = 156999;
+            var HAPPYSEC16 = 151777;
             var t_sec16 = HAPPYSEC16;
 
             var time16;
@@ -605,7 +755,7 @@ We are asking your IT team to write us. To our mail. So we can help you get your
 
             var showed15 = 0;
             var showed_d_buttons15 = 0;
-            var HAPPYSEC15 = 70599;
+            var HAPPYSEC15 = 65377;
             var t_sec15 = HAPPYSEC15;
 
             var time15;
@@ -755,7 +905,7 @@ We are asking your IT team to write us. To our mail. So we can help you get your
 
             var showed14 = 0;
             var showed_d_buttons14 = 0;
-            var HAPPYSEC14 = -2607801;
+            var HAPPYSEC14 = -2613023;
             var t_sec14 = HAPPYSEC14;
 
             var time14;
@@ -1017,7 +1167,7 @@ We are asking your IT team to write us. To our mail. So we can help you get your
 
             var showed13 = 0;
             var showed_d_buttons13 = 0;
-            var HAPPYSEC13 = 70599;
+            var HAPPYSEC13 = 65377;
             var t_sec13 = HAPPYSEC13;
 
             var time13;
@@ -1171,7 +1321,7 @@ The majority of products are marketed and sold under our own brand. Additionally
 
             var showed12 = 0;
             var showed_d_buttons12 = 0;
-            var HAPPYSEC12 = 70599;
+            var HAPPYSEC12 = 65377;
             var t_sec12 = HAPPYSEC12;
 
             var time12;
@@ -1321,7 +1471,7 @@ The majority of products are marketed and sold under our own brand. Additionally
 
             var showed11 = 0;
             var showed_d_buttons11 = 0;
-            var HAPPYSEC11 = 70599;
+            var HAPPYSEC11 = 65377;
             var t_sec11 = HAPPYSEC11;
 
             var time11;
@@ -1471,7 +1621,7 @@ The majority of products are marketed and sold under our own brand. Additionally
 
             var showed10 = 0;
             var showed_d_buttons10 = 0;
-            var HAPPYSEC10 = 70599;
+            var HAPPYSEC10 = 65377;
             var t_sec10 = HAPPYSEC10;
 
             var time10;
@@ -1621,7 +1771,7 @@ The majority of products are marketed and sold under our own brand. Additionally
 
             var showed9 = 0;
             var showed_d_buttons9 = 0;
-            var HAPPYSEC9 = 70599;
+            var HAPPYSEC9 = 65377;
             var t_sec9 = HAPPYSEC9;
 
             var time9;
@@ -1771,7 +1921,7 @@ The majority of products are marketed and sold under our own brand. Additionally
 
             var showed8 = 0;
             var showed_d_buttons8 = 0;
-            var HAPPYSEC8 = 70599;
+            var HAPPYSEC8 = 65377;
             var t_sec8 = HAPPYSEC8;
 
             var time8;
@@ -1921,7 +2071,7 @@ The majority of products are marketed and sold under our own brand. Additionally
 
             var showed7 = 0;
             var showed_d_buttons7 = 0;
-            var HAPPYSEC7 = 70599;
+            var HAPPYSEC7 = 65377;
             var t_sec7 = HAPPYSEC7;
 
             var time7;

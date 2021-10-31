@@ -2,6 +2,7 @@
 
 | date | title | group |
 |---|---|---|
+| 2021-10-31 | `Napili Kai Foundation Gallery    ` | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
 | 2021-10-31 | `logcabinhomes.c... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-10-30 | `LINICAL doesn't care about digital hygiene` | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
 | 2021-10-30 | `logi-cv.com ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -101,4 +102,3 @@
 | 2021-10-23 | `therecord.media 30k USD` | [groove](https://ransomwatch.telemetry.ltd/#/profiles?id=groove) |
 | 2021-10-22 | `Revil` | [arvinclub](https://ransomwatch.telemetry.ltd/#/profiles?id=arvinclub) |
 | 2021-10-22 | `Albireo Energy` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
-| 2021-10-22 | `Townley Grammar School` | [pysa](https://ransomwatch.telemetry.ltd/#/profiles?id=pysa) |
