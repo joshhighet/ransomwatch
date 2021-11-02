@@ -2,6 +2,7 @@
 
 | date | title | group |
 |---|---|---|
+| 2021-11-02 | `Graff Diamonds - Announcement` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2021-11-02 | `socage` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2021-11-02 | `benefitexpress` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2021-11-02 | `gvalue.com ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -101,4 +102,3 @@
 | 2021-10-24 | `SPF Precut Lumber` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2021-10-24 | `vidisha.kvs.ac.in` | [arvinclub](https://ransomwatch.telemetry.ltd/#/profiles?id=arvinclub) |
 | 2021-10-23 | `Obeikan Investment Group` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
-| 2021-10-23 | `Artsana` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
