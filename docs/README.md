@@ -1,4 +1,4 @@
-## 📰 summary - november 2nd, 2021
+## 📰 summary - november 3rd, 2021
 
 currently tracking `68` groups across `80` various relays and mirrors - _`31` of which are online_
 
@@ -8,7 +8,7 @@ there are currently `33` active parsers, `9` of which requiring headless browser
 
 🦈 there have been `22` posts within the `month of november`
 
-🪐 there have been `1530` posts within the `last 90 days`
+🪐 there have been `1529` posts within the `last 90 days`
 
 🏚 there have been `1573` posts within the `year of 2021`
 
