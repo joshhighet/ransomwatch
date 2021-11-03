@@ -15,13 +15,13 @@
 
 
     <link href="https://fonts.googleapis.com/css?family=Playfair+Display:700,900" rel="stylesheet">
-    <link href="/blog.css?v=1635941869" rel="stylesheet">
+    <link href="/blog.css?v=1635945643" rel="stylesheet">
     <script src="/assets/js/jquery-2.1.3.min.js"></script>
 
     <script src="/assets/js/vendor/popper.min.js"></script>
     <script src="/dist/js/bootstrap.min.js"></script>
     <script src="/assets/js/vendor/holder.min.js"></script>
-    <script src="/script.js?v=1635941869"></script>
+    <script src="/script.js?v=1635945643"></script>
     <style>
         .d_buttons{
             display: none;
@@ -86,6 +86,8 @@ We are asking your IT team to write us. To our mail. So we can help you get your
 </div>
 
 
+
+
 <div class="container">
 
     <div class="map_wrapper">
@@ -110,6 +112,11 @@ We are asking your IT team to write us. To our mail. So we can help you get your
 
     <script>
 
+        function GO(url){
+            window.open(url);
+            return false;
+        }
+
         function ShowProof(t_id){
 
             $("#target_"+t_id+" .proof_block").toggleClass("d-none d-block");
@@ -130,6 +137,184 @@ We are asking your IT team to write us. To our mail. So we can help you get your
 
 
 
+        <script>
+
+            var proof_img_block20 = '<img src="" alt="" class="proof">';
+
+
+            function ShowProof20(){
+                if(showed20 === 0){
+                    showed20 = 1;
+                    $("#target_20 .proof_block").html(proof_img_block20).slideDown(400);
+                }else{
+                    showed20 = 0;
+                    $("#target_20 .proof_block").html('').slideUp(400);
+                }
+
+            }
+            function ShowDButtons20(){
+                if(showed_d_buttons20 === 0){
+                    showed_d_buttons20 = 1;
+                    $("#target_20 .d_buttons").slideDown(400);
+                }else{
+                    showed_d_buttons20 = 0;
+                    $("#target_20 .d_buttons").slideUp(400);
+                }
+
+            }
+
+
+            var showed20 = 0;
+            var showed_d_buttons20 = 0;
+            var HAPPYSEC20 = -188442;
+            var t_sec20 = HAPPYSEC20;
+
+            var time20;
+            var intervalId20=0;
+
+
+            $(document).ready(function () {
+
+                intervalId20 = setInterval(function (){
+                    timerDecrement20();
+                }, 1000);
+            });
+
+
+            function timerDecrement20() {
+                time20 = $('#target_20 span.timer');
+
+                if(t_sec20 < 1){
+                    t_sec20 = 0;
+                    newTime = t_sec20 ;
+                }else{
+                    newTime = t_sec20 - 1;
+                }
+
+
+                t_sec20 = newTime;
+
+                var t_min = t_sec20 / 60;
+                var t_hour = t_min / 60;
+                var t_day =
+                    '<b>' + Math.floor(t_hour / 24) + '</b> days ' +
+                    '<b>' + Math.floor(t_hour % 24) +'</b>:' +
+                    '<b>' + Math.floor(t_min % 60) +'</b>:' +
+                    '<b>' + Math.floor(t_sec20 % 60)+ '</b> ';
+
+                time20.html(t_day);
+
+
+
+                if(newTime === 0 && HAPPYSEC20 > 0 || newTime < 1){
+
+                    time20.html('');
+                    $("#target_20 .lock").attr("src","assets/img/lockopen.png");
+                    $("#target_20 .clock").attr("src","assets/img/clockred.png").addClass("clockred");
+                    $("#target_20 .btn2").addClass("redbg");
+                    $("#target_20 .arrow-8").addClass("r8");
+                    $("#target_20 .perc").html("100%");
+
+                    clearInterval(intervalId20);
+                    GetDownloadLink(20,$("#target_20 .redbg"));
+                }
+
+
+            }
+        </script>
+
+        <div class="row jumbotron p-3  text-white rounded bg-d1" id="target_20">
+            <div class="col-md-6 px-0">
+                <h1 class="display-4 font-italic border-bottom">Regence Footwear    </h1>
+            </div>
+
+            <div class="col-md-6 px-0">
+                                    <img src="assets/img/lockopen.png" alt="" class="lock">
+                
+                
+            </div>
+            <div class="col-md-12 px-0">
+
+                <div class="proof_block text-center"></div>
+
+                <p class="lead my-3 pb-3" >In January 1979, Regence Footwear is created in a small factory employing, at that time, fifteen employees                </p>
+                <div class="dropdown-divider divid-c"></div>
+            </div>
+
+
+            <div class="col-md-12 row px-0  mt-4 mb-4 ml-0">
+                <div class="col-md-3 text-center ">
+                    <p class="lead mb-0 squ">
+                    <span class="text-white font-weight-bold ">
+                        <i class="fa fa-users"></i>
+                    </span>
+                        <br>
+                        <span class="">77</span>
+                    </p>
+                </div>
+                <div class="col-md-3 text-center" onclick="GO('http://www.regence.ca')">
+                    <p class="lead mb-0 squ"><span class="text-white font-weight-bold "><i class="fa fa-globe"></i></span><br>
+                        <a href="javascript:" class="text-white text-decoration-none" >Web Site</a>
+                    </p>
+                </div>
+
+                <div class="col-md-3 text-center"><p class="lead mb-0 squ "><span class="text-white font-weight-bold "><i class="fa fa-dollar"></i></span> <br>$ 50 Million </p></div>
+                <div class="col-md-3 text-center"><p class="lead mb-0 squ"><span class="text-white font-weight-bold"><i class="fa fa-phone"></i></span><br>(418) 849-7997</p></div>
+
+            </div>
+
+
+
+
+            <div class="col-md-12 row px-0 mt-5">
+                <div class="col-md-12 text-center"><a href="mailto:BlackByteSupp0rt@onionmail.org" class="text-white text-decoration-none">BlackByteSupp0rt@onionmail.org</a></div>
+                <div class="col-md-6">
+                    <p class="lead mb-0 text-white font-weight-bold" style="margin-top: 13px">
+                        <span class="timer"></span> 
+                                                    <img src="assets/img/clockred.png" alt="" class="clock clockred">
+                                            </p>
+                </div>
+                <div class="col-md-6 text-right pr-0"><p class="lead mb-0">
+
+
+
+<!--                        <span class="perc">--><!--%</span>-->
+
+
+                    <div class="arrow-8"></div>
+
+                                            <a href="javascript:" class="btn btn2 legitRipple redbg " onclick="ShowDButtons20()">Download Free </a>
+                        
+
+
+                    </p></div>
+
+                                    <div class="col-md-12 text-center d_buttons" style="display: none">
+                                                    <a href="https://anonfiles.com/1071x5S8u3/allfiles_rar" class="btn btn3 legitRipple
+                            redbg88" style="margin-bottom: 3px">
+
+
+
+
+                                   download
+
+
+                                10GB</a>
+                                                        <a href="https://anonfiles.com/d664x1S6u7/Desktop_rar" class="btn btn3 legitRipple
+                            redbg88" style="margin-bottom: 3px">
+
+
+
+
+                                   download
+
+
+                                13.6GB</a>
+                                            </div>
+                        
+            </div>
+        </div>
+        
         <script>
 
             var proof_img_block19 = '<img src="proofs/19/proof.png" alt="" class="proof">';
@@ -159,7 +344,7 @@ We are asking your IT team to write us. To our mail. So we can help you get your
 
             var showed19 = 0;
             var showed_d_buttons19 = 0;
-            var HAPPYSEC19 = 765731;
+            var HAPPYSEC19 = 761958;
             var t_sec19 = HAPPYSEC19;
 
             var time19;
@@ -247,8 +432,12 @@ We are asking your IT team to write us. To our mail. So we can help you get your
                         <span class="">152</span>
                     </p>
                 </div>
-                <div class="col-md-3 text-center"><p class="lead mb-0 squ"><span class="text-white font-weight-bold "><i class="fa fa-globe"></i></span><br>
-                        <a href="http://www.napilikai.com" class="text-white text-decoration-none">Web Site</a></p></div>
+                <div class="col-md-3 text-center" onclick="GO('http://www.napilikai.com')">
+                    <p class="lead mb-0 squ"><span class="text-white font-weight-bold "><i class="fa fa-globe"></i></span><br>
+                        <a href="javascript:" class="text-white text-decoration-none" >Web Site</a>
+                    </p>
+                </div>
+
                 <div class="col-md-3 text-center"><p class="lead mb-0 squ "><span class="text-white font-weight-bold "><i class="fa fa-dollar"></i></span> <br>$ 28 Million </p></div>
                 <div class="col-md-3 text-center"><p class="lead mb-0 squ"><span class="text-white font-weight-bold"><i class="fa fa-phone"></i></span><br>(808) 669-6271</p></div>
 
@@ -313,7 +502,7 @@ We are asking your IT team to write us. To our mail. So we can help you get your
 
             var showed18 = 0;
             var showed_d_buttons18 = 0;
-            var HAPPYSEC18 = 506531;
+            var HAPPYSEC18 = -15642;
             var t_sec18 = HAPPYSEC18;
 
             var time18;
@@ -376,7 +565,7 @@ We are asking your IT team to write us. To our mail. So we can help you get your
             </div>
 
             <div class="col-md-6 px-0">
-                                    <img src="assets/img/lock.png" alt="" class="lock">
+                                    <img src="assets/img/lockopen.png" alt="" class="lock">
                 
                                     <div class="arrow-1"></div>
                     <a href="javascript:" class="buttonstyle2  proofbutton" onclick="ShowProof18();">Proof</a>
@@ -401,8 +590,12 @@ We are asking your IT team to write us. To our mail. So we can help you get your
                         <span class="">854</span>
                     </p>
                 </div>
-                <div class="col-md-3 text-center"><p class="lead mb-0 squ"><span class="text-white font-weight-bold "><i class="fa fa-globe"></i></span><br>
-                        <a href="http://www.hhotels.gr" class="text-white text-decoration-none">Web Site</a></p></div>
+                <div class="col-md-3 text-center" onclick="GO('http://www.hhotels.gr')">
+                    <p class="lead mb-0 squ"><span class="text-white font-weight-bold "><i class="fa fa-globe"></i></span><br>
+                        <a href="javascript:" class="text-white text-decoration-none" >Web Site</a>
+                    </p>
+                </div>
+
                 <div class="col-md-3 text-center"><p class="lead mb-0 squ "><span class="text-white font-weight-bold "><i class="fa fa-dollar"></i></span> <br>$ 161 Million </p></div>
                 <div class="col-md-3 text-center"><p class="lead mb-0 squ"><span class="text-white font-weight-bold"><i class="fa fa-phone"></i></span><br>+30 2244 029230</p></div>
 
@@ -416,7 +609,7 @@ We are asking your IT team to write us. To our mail. So we can help you get your
                 <div class="col-md-6">
                     <p class="lead mb-0 text-white font-weight-bold" style="margin-top: 13px">
                         <span class="timer"></span> 
-                                                    <img src="assets/img/clock.png" alt="" class="clock">
+                                                    <img src="assets/img/clockred.png" alt="" class="clock clockred">
                                             </p>
                 </div>
                 <div class="col-md-6 text-right pr-0"><p class="lead mb-0">
@@ -428,13 +621,85 @@ We are asking your IT team to write us. To our mail. So we can help you get your
 
                     <div class="arrow-8"></div>
 
-                                            <a target="_blank" href="https://anonfiles.com/Pd50X3Qau4/1_rar" class="btn btn2 legitRipple   ">Download Free </a>
+                                            <a href="javascript:" class="btn btn2 legitRipple redbg " onclick="ShowDButtons18()">Download Free </a>
                         
 
 
                     </p></div>
 
-                    
+                                    <div class="col-md-12 text-center d_buttons" style="display: none">
+                                                    <a href="https://anonfiles.com/39u1xcS9u8/marketing_zip" class="btn btn3 legitRipple
+                            redbg88" style="margin-bottom: 3px">
+
+
+
+
+                                   download
+
+
+                                4.5GB</a>
+                                                        <a href="https://anonfiles.com/j4v4x8S6u5/Reservations_zip" class="btn btn3 legitRipple
+                            redbg88" style="margin-bottom: 3px">
+
+
+
+
+                                   download
+
+
+                                7.1GB</a>
+                                                        <a href="https://anonfiles.com/V1t0xaS0u6/Front_Office_Manager_zip" class="btn btn3 legitRipple
+                            redbg88" style="margin-bottom: 3px">
+
+
+
+
+                                   download
+
+
+                                3GB</a>
+                                                        <a href="https://anonfiles.com/Nft3x3S5uf/DATA_rar" class="btn btn3 legitRipple
+                            redbg88" style="margin-bottom: 3px">
+
+
+
+
+                                   download
+
+
+                                1.7GB</a>
+                                                        <a href="https://anonfiles.com/j231xaS4ud/Desktop_zip" class="btn btn3 legitRipple
+                            redbg88" style="margin-bottom: 3px">
+
+
+
+
+                                   download
+
+
+                                4.4GB</a>
+                                                        <a href="https://anonfiles.com/b8Y7x4Sau2/Desktop2_zip" class="btn btn3 legitRipple
+                            redbg88" style="margin-bottom: 3px">
+
+
+
+
+                                   download
+
+
+                                8.7GB</a>
+                                                        <a href="https://anonfiles.com/xeY6xcS9uf/Desktop1_zip" class="btn btn3 legitRipple
+                            redbg88" style="margin-bottom: 3px">
+
+
+
+
+                                   download
+
+
+                                8.8GB</a>
+                                            </div>
+                        
             </div>
         </div>
         
@@ -467,7 +732,7 @@ We are asking your IT team to write us. To our mail. So we can help you get your
 
             var showed17 = 0;
             var showed_d_buttons17 = 0;
-            var HAPPYSEC17 = 74531;
+            var HAPPYSEC17 = -15642;
             var t_sec17 = HAPPYSEC17;
 
             var time17;
@@ -530,7 +795,7 @@ We are asking your IT team to write us. To our mail. So we can help you get your
             </div>
 
             <div class="col-md-6 px-0">
-                                    <img src="assets/img/lock.png" alt="" class="lock">
+                                    <img src="assets/img/lockopen.png" alt="" class="lock">
                 
                                     <div class="arrow-1"></div>
                     <a href="javascript:" class="buttonstyle2  proofbutton" onclick="ShowProof17();">Proof</a>
@@ -555,8 +820,12 @@ We are asking your IT team to write us. To our mail. So we can help you get your
                         <span class="">58</span>
                     </p>
                 </div>
-                <div class="col-md-3 text-center"><p class="lead mb-0 squ"><span class="text-white font-weight-bold "><i class="fa fa-globe"></i></span><br>
-                        <a href="https://www.mintgroup.cz" class="text-white text-decoration-none">Web Site</a></p></div>
+                <div class="col-md-3 text-center" onclick="GO('https://www.mintgroup.cz')">
+                    <p class="lead mb-0 squ"><span class="text-white font-weight-bold "><i class="fa fa-globe"></i></span><br>
+                        <a href="javascript:" class="text-white text-decoration-none" >Web Site</a>
+                    </p>
+                </div>
+
                 <div class="col-md-3 text-center"><p class="lead mb-0 squ "><span class="text-white font-weight-bold "><i class="fa fa-dollar"></i></span> <br>$ 15 Million </p></div>
                 <div class="col-md-3 text-center"><p class="lead mb-0 squ"><span class="text-white font-weight-bold"><i class="fa fa-phone"></i></span><br>+420-225354830</p></div>
 
@@ -570,7 +839,7 @@ We are asking your IT team to write us. To our mail. So we can help you get your
                 <div class="col-md-6">
                     <p class="lead mb-0 text-white font-weight-bold" style="margin-top: 13px">
                         <span class="timer"></span> 
-                                                    <img src="assets/img/clock.png" alt="" class="clock">
+                                                    <img src="assets/img/clockred.png" alt="" class="clock clockred">
                                             </p>
                 </div>
                 <div class="col-md-6 text-right pr-0"><p class="lead mb-0">
@@ -582,13 +851,65 @@ We are asking your IT team to write us. To our mail. So we can help you get your
 
                     <div class="arrow-8"></div>
 
-                                            <a target="_blank" href="javascript:" class="btn btn2 legitRipple   ">Download Free </a>
+                                            <a href="javascript:" class="btn btn2 legitRipple redbg " onclick="ShowDButtons17()">Download Free </a>
                         
 
 
                     </p></div>
 
-                    
+                                    <div class="col-md-12 text-center d_buttons" style="display: none">
+                                                    <a href="https://anonfiles.com/1a19xfSeu9/FINANCE_PROJECTS_rar" class="btn btn3 legitRipple
+                            redbg88" style="margin-bottom: 3px">
+
+
+
+
+                                   download
+
+
+                                2.3GB</a>
+                                                        <a href="https://anonfiles.com/p812x1Sau7/FINANCE_rar" class="btn btn3 legitRipple
+                            redbg88" style="margin-bottom: 3px">
+
+
+
+
+                                   download
+
+
+                                1.1GB</a>
+                                                        <a href="https://anonfiles.com/v01bxbSfu2/ARCHIV_rar" class="btn btn3 legitRipple
+                            redbg88" style="margin-bottom: 3px">
+
+
+
+
+                                   download
+
+
+                                1.5GB</a>
+                                                        <a href="" class="btn btn3 legitRipple
+                            redbg88" style="margin-bottom: 3px">
+
+
+
+
+                                   download
+
+
+                                200MB</a>
+                                                        <a href="https://anonfiles.com/Pd1dxbS9ud/00_General_Information_rar" class="btn btn3 legitRipple
+                            redbg88" style="margin-bottom: 3px">
+
+
+
+
+                                   download
+
+
+                                5.2GB</a>
+                                            </div>
+                        
             </div>
         </div>
         
@@ -621,7 +942,7 @@ We are asking your IT team to write us. To our mail. So we can help you get your
 
             var showed16 = 0;
             var showed_d_buttons16 = 0;
-            var HAPPYSEC16 = -98269;
+            var HAPPYSEC16 = -102042;
             var t_sec16 = HAPPYSEC16;
 
             var time16;
@@ -709,8 +1030,12 @@ We are asking your IT team to write us. To our mail. So we can help you get your
                         <span class="">104</span>
                     </p>
                 </div>
-                <div class="col-md-3 text-center"><p class="lead mb-0 squ"><span class="text-white font-weight-bold "><i class="fa fa-globe"></i></span><br>
-                        <a href="https://digioiagray.com" class="text-white text-decoration-none">Web Site</a></p></div>
+                <div class="col-md-3 text-center" onclick="GO('https://digioiagray.com')">
+                    <p class="lead mb-0 squ"><span class="text-white font-weight-bold "><i class="fa fa-globe"></i></span><br>
+                        <a href="javascript:" class="text-white text-decoration-none" >Web Site</a>
+                    </p>
+                </div>
+
                 <div class="col-md-3 text-center"><p class="lead mb-0 squ "><span class="text-white font-weight-bold "><i class="fa fa-dollar"></i></span> <br>$ 19 Million </p></div>
                 <div class="col-md-3 text-center"><p class="lead mb-0 squ"><span class="text-white font-weight-bold"><i class="fa fa-phone"></i></span><br>(412) 372-4500</p></div>
 
@@ -775,7 +1100,7 @@ We are asking your IT team to write us. To our mail. So we can help you get your
 
             var showed15 = 0;
             var showed_d_buttons15 = 0;
-            var HAPPYSEC15 = -184669;
+            var HAPPYSEC15 = -188442;
             var t_sec15 = HAPPYSEC15;
 
             var time15;
@@ -863,8 +1188,12 @@ We are asking your IT team to write us. To our mail. So we can help you get your
                         <span class="">163</span>
                     </p>
                 </div>
-                <div class="col-md-3 text-center"><p class="lead mb-0 squ"><span class="text-white font-weight-bold "><i class="fa fa-globe"></i></span><br>
-                        <a href="https://www.generaleprefabbricatispa.com" class="text-white text-decoration-none">Web Site</a></p></div>
+                <div class="col-md-3 text-center" onclick="GO('https://www.generaleprefabbricatispa.com')">
+                    <p class="lead mb-0 squ"><span class="text-white font-weight-bold "><i class="fa fa-globe"></i></span><br>
+                        <a href="javascript:" class="text-white text-decoration-none" >Web Site</a>
+                    </p>
+                </div>
+
                 <div class="col-md-3 text-center"><p class="lead mb-0 squ "><span class="text-white font-weight-bold "><i class="fa fa-dollar"></i></span> <br>$ 29.23 Million </p></div>
                 <div class="col-md-3 text-center"><p class="lead mb-0 squ"><span class="text-white font-weight-bold"><i class="fa fa-phone"></i></span><br>+39-07551871</p></div>
 
@@ -890,13 +1219,55 @@ We are asking your IT team to write us. To our mail. So we can help you get your
 
                     <div class="arrow-8"></div>
 
-                                            <a target="_blank" href="https://anonfiles.com/d235PbO2u2/New_folder_rar" class="btn btn2 legitRipple  redbg ">Download Free </a>
+                                            <a href="javascript:" class="btn btn2 legitRipple redbg " onclick="ShowDButtons15()">Download Free </a>
                         
 
 
                     </p></div>
 
-                    
+                                    <div class="col-md-12 text-center d_buttons" style="display: none">
+                                                    <a href="https://anonfiles.com/Z1w8xdSau3/Nuova_cartella_rar" class="btn btn3 legitRipple
+                            redbg88" style="margin-bottom: 3px">
+
+
+
+
+                                   download
+
+
+                                860MB</a>
+                                                        <a href="https://anonfiles.com/Bcwdx4Scu5/DATI_2_rar" class="btn btn3 legitRipple
+                            redbg88" style="margin-bottom: 3px">
+
+
+
+
+                                   download
+
+
+                                783MB</a>
+                                                        <a href="https://anonfiles.com/1ax4x9Sbu2/Company_rar" class="btn btn3 legitRipple
+                            redbg88" style="margin-bottom: 3px">
+
+
+
+
+                                   download
+
+
+                                3.2GB</a>
+                                                        <a href="https://anonfiles.com/1900xaS5ua/DATA_rar" class="btn btn3 legitRipple
+                            redbg88" style="margin-bottom: 3px">
+
+
+
+
+                                   download
+
+
+                                11.4GB</a>
+                                            </div>
+                        
             </div>
         </div>
         
@@ -929,7 +1300,7 @@ We are asking your IT team to write us. To our mail. So we can help you get your
 
             var showed14 = 0;
             var showed_d_buttons14 = 0;
-            var HAPPYSEC14 = -2863069;
+            var HAPPYSEC14 = -2866842;
             var t_sec14 = HAPPYSEC14;
 
             var time14;
@@ -1017,8 +1388,12 @@ We are asking your IT team to write us. To our mail. So we can help you get your
                         <span class="">141</span>
                     </p>
                 </div>
-                <div class="col-md-3 text-center"><p class="lead mb-0 squ"><span class="text-white font-weight-bold "><i class="fa fa-globe"></i></span><br>
-                        <a href="https://www.statcomm.com" class="text-white text-decoration-none">Web Site</a></p></div>
+                <div class="col-md-3 text-center" onclick="GO('https://www.statcomm.com')">
+                    <p class="lead mb-0 squ"><span class="text-white font-weight-bold "><i class="fa fa-globe"></i></span><br>
+                        <a href="javascript:" class="text-white text-decoration-none" >Web Site</a>
+                    </p>
+                </div>
+
                 <div class="col-md-3 text-center"><p class="lead mb-0 squ "><span class="text-white font-weight-bold "><i class="fa fa-dollar"></i></span> <br>$ 31 Million </p></div>
                 <div class="col-md-3 text-center"><p class="lead mb-0 squ"><span class="text-white font-weight-bold"><i class="fa fa-phone"></i></span><br>(650) 988-9508</p></div>
 
@@ -1195,7 +1570,7 @@ We are asking your IT team to write us. To our mail. So we can help you get your
 
             var showed13 = 0;
             var showed_d_buttons13 = 0;
-            var HAPPYSEC13 = -184669;
+            var HAPPYSEC13 = -188442;
             var t_sec13 = HAPPYSEC13;
 
             var time13;
@@ -1287,8 +1662,12 @@ The majority of products are marketed and sold under our own brand. Additionally
                         <span class="">140</span>
                     </p>
                 </div>
-                <div class="col-md-3 text-center"><p class="lead mb-0 squ"><span class="text-white font-weight-bold "><i class="fa fa-globe"></i></span><br>
-                        <a href="https://www.advancemedicaldesigns.com" class="text-white text-decoration-none">Web Site</a></p></div>
+                <div class="col-md-3 text-center" onclick="GO('https://www.advancemedicaldesigns.com')">
+                    <p class="lead mb-0 squ"><span class="text-white font-weight-bold "><i class="fa fa-globe"></i></span><br>
+                        <a href="javascript:" class="text-white text-decoration-none" >Web Site</a>
+                    </p>
+                </div>
+
                 <div class="col-md-3 text-center"><p class="lead mb-0 squ "><span class="text-white font-weight-bold "><i class="fa fa-dollar"></i></span> <br>$ 27 Million </p></div>
                 <div class="col-md-3 text-center"><p class="lead mb-0 squ"><span class="text-white font-weight-bold"><i class="fa fa-phone"></i></span><br>(770) 422-3125</p></div>
 
@@ -1353,7 +1732,7 @@ The majority of products are marketed and sold under our own brand. Additionally
 
             var showed12 = 0;
             var showed_d_buttons12 = 0;
-            var HAPPYSEC12 = -184669;
+            var HAPPYSEC12 = -188442;
             var t_sec12 = HAPPYSEC12;
 
             var time12;
@@ -1441,8 +1820,12 @@ The majority of products are marketed and sold under our own brand. Additionally
                         <span class="">2,970</span>
                     </p>
                 </div>
-                <div class="col-md-3 text-center"><p class="lead mb-0 squ"><span class="text-white font-weight-bold "><i class="fa fa-globe"></i></span><br>
-                        <a href="https://www.abcdin.cl" class="text-white text-decoration-none">Web Site</a></p></div>
+                <div class="col-md-3 text-center" onclick="GO('https://www.abcdin.cl')">
+                    <p class="lead mb-0 squ"><span class="text-white font-weight-bold "><i class="fa fa-globe"></i></span><br>
+                        <a href="javascript:" class="text-white text-decoration-none" >Web Site</a>
+                    </p>
+                </div>
+
                 <div class="col-md-3 text-center"><p class="lead mb-0 squ "><span class="text-white font-weight-bold "><i class="fa fa-dollar"></i></span> <br>$ 570 Million </p></div>
                 <div class="col-md-3 text-center"><p class="lead mb-0 squ"><span class="text-white font-weight-bold"><i class="fa fa-phone"></i></span><br>+56 2 2783 2737</p></div>
 
@@ -1507,7 +1890,7 @@ The majority of products are marketed and sold under our own brand. Additionally
 
             var showed11 = 0;
             var showed_d_buttons11 = 0;
-            var HAPPYSEC11 = -184669;
+            var HAPPYSEC11 = -188442;
             var t_sec11 = HAPPYSEC11;
 
             var time11;
@@ -1595,8 +1978,12 @@ The majority of products are marketed and sold under our own brand. Additionally
                         <span class="">47</span>
                     </p>
                 </div>
-                <div class="col-md-3 text-center"><p class="lead mb-0 squ"><span class="text-white font-weight-bold "><i class="fa fa-globe"></i></span><br>
-                        <a href="https://www.pfccases.com" class="text-white text-decoration-none">Web Site</a></p></div>
+                <div class="col-md-3 text-center" onclick="GO('https://www.pfccases.com')">
+                    <p class="lead mb-0 squ"><span class="text-white font-weight-bold "><i class="fa fa-globe"></i></span><br>
+                        <a href="javascript:" class="text-white text-decoration-none" >Web Site</a>
+                    </p>
+                </div>
+
                 <div class="col-md-3 text-center"><p class="lead mb-0 squ "><span class="text-white font-weight-bold "><i class="fa fa-dollar"></i></span> <br>$ 9 Million </p></div>
                 <div class="col-md-3 text-center"><p class="lead mb-0 squ"><span class="text-white font-weight-bold"><i class="fa fa-phone"></i></span><br>(203) 397-1338</p></div>
 
@@ -1661,7 +2048,7 @@ The majority of products are marketed and sold under our own brand. Additionally
 
             var showed10 = 0;
             var showed_d_buttons10 = 0;
-            var HAPPYSEC10 = -184669;
+            var HAPPYSEC10 = -188442;
             var t_sec10 = HAPPYSEC10;
 
             var time10;
@@ -1749,8 +2136,12 @@ The majority of products are marketed and sold under our own brand. Additionally
                         <span class="">95</span>
                     </p>
                 </div>
-                <div class="col-md-3 text-center"><p class="lead mb-0 squ"><span class="text-white font-weight-bold "><i class="fa fa-globe"></i></span><br>
-                        <a href="https://www.faccooperative.com" class="text-white text-decoration-none">Web Site</a></p></div>
+                <div class="col-md-3 text-center" onclick="GO('https://www.faccooperative.com')">
+                    <p class="lead mb-0 squ"><span class="text-white font-weight-bold "><i class="fa fa-globe"></i></span><br>
+                        <a href="javascript:" class="text-white text-decoration-none" >Web Site</a>
+                    </p>
+                </div>
+
                 <div class="col-md-3 text-center"><p class="lead mb-0 squ "><span class="text-white font-weight-bold "><i class="fa fa-dollar"></i></span> <br>$ 21 Million </p></div>
                 <div class="col-md-3 text-center"><p class="lead mb-0 squ"><span class="text-white font-weight-bold"><i class="fa fa-phone"></i></span><br>(712) 663-4352</p></div>
 
@@ -1815,7 +2206,7 @@ The majority of products are marketed and sold under our own brand. Additionally
 
             var showed9 = 0;
             var showed_d_buttons9 = 0;
-            var HAPPYSEC9 = -184669;
+            var HAPPYSEC9 = -188442;
             var t_sec9 = HAPPYSEC9;
 
             var time9;
@@ -1903,8 +2294,12 @@ The majority of products are marketed and sold under our own brand. Additionally
                         <span class="">?</span>
                     </p>
                 </div>
-                <div class="col-md-3 text-center"><p class="lead mb-0 squ"><span class="text-white font-weight-bold "><i class="fa fa-globe"></i></span><br>
-                        <a href="https://www.tomlange.com" class="text-white text-decoration-none">Web Site</a></p></div>
+                <div class="col-md-3 text-center" onclick="GO('https://www.tomlange.com')">
+                    <p class="lead mb-0 squ"><span class="text-white font-weight-bold "><i class="fa fa-globe"></i></span><br>
+                        <a href="javascript:" class="text-white text-decoration-none" >Web Site</a>
+                    </p>
+                </div>
+
                 <div class="col-md-3 text-center"><p class="lead mb-0 squ "><span class="text-white font-weight-bold "><i class="fa fa-dollar"></i></span> <br>$ 249 Million </p></div>
                 <div class="col-md-3 text-center"><p class="lead mb-0 squ"><span class="text-white font-weight-bold"><i class="fa fa-phone"></i></span><br>(217) 786-3300</p></div>
 
@@ -1969,7 +2364,7 @@ The majority of products are marketed and sold under our own brand. Additionally
 
             var showed8 = 0;
             var showed_d_buttons8 = 0;
-            var HAPPYSEC8 = -184669;
+            var HAPPYSEC8 = -188442;
             var t_sec8 = HAPPYSEC8;
 
             var time8;
@@ -2057,8 +2452,12 @@ The majority of products are marketed and sold under our own brand. Additionally
                         <span class="">71</span>
                     </p>
                 </div>
-                <div class="col-md-3 text-center"><p class="lead mb-0 squ"><span class="text-white font-weight-bold "><i class="fa fa-globe"></i></span><br>
-                        <a href="https://www.matictransport.com.au" class="text-white text-decoration-none">Web Site</a></p></div>
+                <div class="col-md-3 text-center" onclick="GO('https://www.matictransport.com.au')">
+                    <p class="lead mb-0 squ"><span class="text-white font-weight-bold "><i class="fa fa-globe"></i></span><br>
+                        <a href="javascript:" class="text-white text-decoration-none" >Web Site</a>
+                    </p>
+                </div>
+
                 <div class="col-md-3 text-center"><p class="lead mb-0 squ "><span class="text-white font-weight-bold "><i class="fa fa-dollar"></i></span> <br>$ 14 Million </p></div>
                 <div class="col-md-3 text-center"><p class="lead mb-0 squ"><span class="text-white font-weight-bold"><i class="fa fa-phone"></i></span><br>+61 8 6174 3888</p></div>
 
@@ -2123,7 +2522,7 @@ The majority of products are marketed and sold under our own brand. Additionally
 
             var showed7 = 0;
             var showed_d_buttons7 = 0;
-            var HAPPYSEC7 = -184669;
+            var HAPPYSEC7 = -188442;
             var t_sec7 = HAPPYSEC7;
 
             var time7;
@@ -2213,8 +2612,12 @@ We have more then 100GB of your sensitive data, Finance, Sales, Acounting...
                         <span class="">115</span>
                     </p>
                 </div>
-                <div class="col-md-3 text-center"><p class="lead mb-0 squ"><span class="text-white font-weight-bold "><i class="fa fa-globe"></i></span><br>
-                        <a href="http://gossdodgechryslerramjeep.com" class="text-white text-decoration-none">Web Site</a></p></div>
+                <div class="col-md-3 text-center" onclick="GO('http://gossdodgechryslerramjeep.com')">
+                    <p class="lead mb-0 squ"><span class="text-white font-weight-bold "><i class="fa fa-globe"></i></span><br>
+                        <a href="javascript:" class="text-white text-decoration-none" >Web Site</a>
+                    </p>
+                </div>
+
                 <div class="col-md-3 text-center"><p class="lead mb-0 squ "><span class="text-white font-weight-bold "><i class="fa fa-dollar"></i></span> <br>$ 22 Million </p></div>
                 <div class="col-md-3 text-center"><p class="lead mb-0 squ"><span class="text-white font-weight-bold"><i class="fa fa-phone"></i></span><br>(802) 658-0120</p></div>
 

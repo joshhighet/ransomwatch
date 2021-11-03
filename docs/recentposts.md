@@ -2,6 +2,7 @@
 
 | date | title | group |
 |---|---|---|
+| 2021-11-03 | `Regence Footwear    ` | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
 | 2021-11-03 | `bangkokair.com` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-11-02 | `tornel.com.mx ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-11-02 | `Graff Diamonds - Announcement` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
@@ -101,4 +102,3 @@
 | 2021-10-24 | `Digicel Group` | [ransomexx](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomexx) |
 | 2021-10-24 | `galaxybuilders.... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-10-24 | `rockportmusic.o... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2021-10-24 | `SPF Precut Lumber` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
