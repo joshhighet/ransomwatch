@@ -377,7 +377,7 @@ def darkleakmarket():
 def blackmatter():
     stdlog('parser: ' + 'blackmatter')
     parser = '''
-    grep '<h4 class="post-announce-name" title="' source/blackmatter-*.html.html | cut -d '"' -f4 | sort -u
+    grep '<h4 class="post-announce-name" title="' source/blackmatter-*.html | cut -d '"' -f4 | sort -u
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
@@ -450,3 +450,14 @@ def spook():
         errlog('spook: ' + 'parsing fail')
     for post in posts:
         appender(post, 'spook')
+
+def quantum():
+    stdlog('parser: ' + 'quantum')
+    parser = '''
+    cat source/quantum-*.html | awk '/h2/{getline; print}' | sed '/              \<\/a>/d' | sed 's/^ *//g'
+    '''
+    posts = runshellcmd(parser)
+    if len(posts) == 1:
+        errlog('quantum: ' + 'parsing fail')
+    for post in posts:
+        appender(post, 'quantum')
