@@ -6,13 +6,13 @@ there are currently `33` active parsers, `9` of which requiring headless browser
 
 ⏲ there have been `9` posts within the `last 24 hours`
 
-🦈 there have been `32` posts within the `month of november`
+🦈 there have been `33` posts within the `month of november`
 
-🪐 there have been `1539` posts within the `last 90 days`
+🪐 there have been `1540` posts within the `last 90 days`
 
-🏚 there have been `1583` posts within the `year of 2021`
+🏚 there have been `1584` posts within the `year of 2021`
 
-🦕 there have been `1617` posts `since the dawn of ransomwatch`
+🦕 there have been `1618` posts `since the dawn of ransomwatch`
 
 > _the `19` sites using v2 onion services are no longer indexed - [support.torproject.org](https://support.torproject.org/onionservices/v2-deprecation/)_
 
@@ -52,7 +52,7 @@ there are currently `33` active parsers, `9` of which requiring headless browser
 | ragnarok |  | ⬇️ 🔴 | 2021-05-01 | wobpitin77vdsdiswr43duntv6eqw4rvphedutpaxycjdie6gg3binad.onion |
 | ragnarok | Decrypt Site | ⬇️ 🔴 | 2021-08-27 | sushlnty2j7qdzy64qnvyb6ajkwg7resd3p6agc2widnawodtcedgjid.onion |
 | conti | CONTI.News | ⬆️ 🟢 |  | continewsnv5otx5kaoje7krkto2qbu3gtqef22mnr7eaxw3y6ncz3ad.onion |
-| pysa | Pysa's Partners | ⬆️ 🟢 |  | pysa2bitc5ldeyfak4seeruqymqs4sj5wt5qkcq7aoyg4h2acqieywad.onion |
+| pysa | Pysa's Partners | ⬇️ 🔴 | 2021-11-04 | pysa2bitc5ldeyfak4seeruqymqs4sj5wt5qkcq7aoyg4h2acqieywad.onion |
 | nefilim |  | ⬇️ 🔴 | 2021-05-01 | hxt254aygrsziejn.onion |
 | maze |  | ⬇️ 🔴 | 2021-05-01 | xfr3txoorcyy7tikjgj5dk3rvo3vsrpyaxnclyohkbfp3h277ap4tiad.onion |
 | mount-locker |  | ⬇️ 🔴 | 2021-05-01 | mountnewsokhwilx.onion |
@@ -79,7 +79,7 @@ there are currently `33` active parsers, `9` of which requiring headless browser
 | bonacigroup | Blog | ⬆️ 🟢 |  | bonacifryrxr4siz6ptvokuihdzmjzpveruklxumflz5thmkgauty2qd.onion |
 | coomingproject |  | ⬇️ 🔴 | 2021-05-01 | teo7aj5mfgzxyeme.onion |
 | crylock |  | ⬇️ 🔴 | 2021-05-01 | d57uremugxjrafyg.onion |
-| ech0raix |  | ⬇️ 🔴 | 2021-11-04 | veqlxhq7ub5qze3qy56zx2cig2e6tzsgxdspkubwbayqije6oatma6id.onion |
+| ech0raix |  | ⬆️ 🟢 |  | veqlxhq7ub5qze3qy56zx2cig2e6tzsgxdspkubwbayqije6oatma6id.onion |
 | ep918 |  | ⬇️ 🔴 | 2021-05-01 | dg5fyig37abmivryrxlordrczn6d6r5wzcfe2msuo5mbbu2exnu46fid.onion |
 | exorcist |  | ⬇️ 🔴 | 2021-05-01 | 7iulpt5i6whht6zo2r52f7vptxtjxs3vfcdxxazllikrtqpupn4epnqd.onion |
 | hades |  | ⬇️ 🔴 | 2021-05-01 | ixltdyumdlthrtgx.onion |
