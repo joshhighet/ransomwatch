@@ -2,6 +2,14 @@
 
 | date | title | group |
 |---|---|---|
+| 2021-11-04 | `National Beverage` | [blackmatter](https://ransomwatch.telemetry.ltd/#/profiles?id=blackmatter) |
+| 2021-11-04 | `Keycentrix` | [blackmatter](https://ransomwatch.telemetry.ltd/#/profiles?id=blackmatter) |
+| 2021-11-04 | `Jobbers Meat Packing Co., Inc.` | [blackmatter](https://ransomwatch.telemetry.ltd/#/profiles?id=blackmatter) |
+| 2021-11-04 | `Home State Bank` | [blackmatter](https://ransomwatch.telemetry.ltd/#/profiles?id=blackmatter) |
+| 2021-11-04 | `Armour Transportation Systems` | [blackmatter](https://ransomwatch.telemetry.ltd/#/profiles?id=blackmatter) |
+| 2021-11-04 | `TILIA GROUP` | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
+| 2021-11-04 | `</a>` | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
+| 2021-11-04 | `PVR Ltd.` | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
 | 2021-11-03 | `Regence Footwear    ` | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
 | 2021-11-03 | `bangkokair.com` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-11-02 | `tornel.com.mx ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -94,11 +102,3 @@
 | 2021-10-25 | `TONLYELE.COM FILES  PART1 -  通力电子共享服务器, 采购SRM培训教材, 陈江二厂3楼扫描 PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2021-10-25 | `STRATISVISUALS.COM  FILES FILES PART6 - Acct PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2021-10-25 | `ABSOLUTERESULTS.COM FILES  FILES PART3 - HR, HRTemp, AbsoluteDrive PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2021-10-25 | `SAN CARLO GRUPPO ALIMENTARE SPA` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
-| 2021-10-25 | `Barnes Professional Eye Care` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
-| 2021-10-25 | `Enviroplas` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
-| 2021-10-25 | `bpc.ao` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2021-10-25 | `https://www.med... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2021-10-24 | `Digicel Group` | [ransomexx](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomexx) |
-| 2021-10-24 | `galaxybuilders.... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2021-10-24 | `rockportmusic.o... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |

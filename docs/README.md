@@ -1,18 +1,18 @@
 ## 📰 summary - november 4th, 2021
 
-currently tracking `68` groups across `80` various relays and mirrors - _`30` of which are online_
+currently tracking `70` groups across `82` various relays and mirrors - _`30` of which are online_
 
 there are currently `33` active parsers, `9` of which requiring headless browsers - _`4` groups have introduced captchas this year_
 
-⏲ there have been `2` posts within the `last 24 hours`
+⏲ there have been `10` posts within the `last 24 hours`
 
-🦈 there have been `24` posts within the `month of november`
+🦈 there have been `32` posts within the `month of november`
 
-🪐 there have been `1531` posts within the `last 90 days`
+🪐 there have been `1539` posts within the `last 90 days`
 
-🏚 there have been `1575` posts within the `year of 2021`
+🏚 there have been `1583` posts within the `year of 2021`
 
-🦕 there have been `1609` posts `since the dawn of ransomwatch`
+🦕 there have been `1617` posts `since the dawn of ransomwatch`
 
 > _the `19` sites using v2 onion services are no longer indexed - [support.torproject.org](https://support.torproject.org/onionservices/v2-deprecation/)_
 
@@ -67,7 +67,7 @@ there are currently `33` active parsers, `9` of which requiring headless browser
 | darkleakmarket | Dark Leak Market | ⬇️ 🔴 | 2021-10-07 | 54rdhzjzc4ids4u4wata4zr4ywfon5wpz2ml4q3avelgadpvmdal2vqd.onion |
 | prometheus |  | ⬇️ 🔴 | 2021-05-01 | promethw27cbrcot.onion |
 | blackmatter | BlackMatter | ⬆️ 🟢 |  | blackmax7su6mbwtcyo3xwtpfxpm356jjqrs34y4crcytpw7mifuedyd.onion |
-| payloadbin | Payload.bin | ⬆️ 🟢 |  | vbmisqjshn4yblehk2vbnil53tlqklxsdaztgphcilto3vdj4geao5qd.onion |
+| payloadbin | Payload.bin | ⬇️ 🔴 | 2021-11-04 | vbmisqjshn4yblehk2vbnil53tlqklxsdaztgphcilto3vdj4geao5qd.onion |
 | groove | Утечки - Groove | ⬇️ 🔴 | 2021-10-30 | ws3dh6av66sjbxxkjpw5ao3wqzmtejnkzheswm4dz5rrwvular7xvkqd.onion |
 | ako |  | ⬇️ 🔴 | 2021-05-01 | kwvhrdibgmmpkhkidrby4mccwqpds5za6uo2thcw5gz75qncv7rbhyad.onion |
 | atomsilo | AtomSilo | ⬆️ 🟢 |  | mhdehvkomeabau7gsetnsrhkfign4jgnx3wajth5yb5h6kvzbd72wlqd.onion |
@@ -98,5 +98,7 @@ there are currently `33` active parsers, `9` of which requiring headless browser
 | vfokx |  | ⬇️ 🔴 | 2021-05-01 | vfokxcdzjbpehgit223vzdzwte47l3zcqtafj34qrr26htjo4uf3obid.onion |
 | vfokx |  | ⬇️ 🔴 | 2021-05-01 | 746pbrxl7acvrlhzshosye3b3udk4plurpxt2pp27pojfhkkaooqiiqd.onion |
 | xinof |  | ⬇️ 🔴 | 2021-05-01 | wj3b2wtj7u2bzup75tzhnso56bin6bnvsxcbwbfcuvzpc4vcixbywlid.onion |
-| spook | Spook | ⬆️ 🟢 |  | spookuhvfyxzph54ikjfwf2mwmxt572krpom7reyayrmxbkizbvkpaid.onion |
+| spook | Spook | ⬇️ 🔴 | 2021-10-26 | spookuhvfyxzph54ikjfwf2mwmxt572krpom7reyayrmxbkizbvkpaid.onion |
 | RAMP |  | ⬇️ 🔴 | 2021-05-01 | wavbeudogz6byhnardd2lkp2jafims3j7tj6k6qnywchn2csngvtffqd.onion |
+| 54bb47h | BLOG | ⬆️ 🟢 |  | 54bb47h5qu4k7l4d7v5ix3i6ak6elysn3net4by4ihmvrhu7cvbskoqd.onion |
+| quantum | Quantum Blog | ⬆️ 🟢 |  | quantum445bh3gzuyilxdzs5xdepf3b7lkcupswvkryf3n7hgzpxebid.onion |
