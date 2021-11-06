@@ -2,6 +2,8 @@
 
 | date | title | group |
 |---|---|---|
+| 2021-11-06 | `VIENNA INSURANCE GROUP` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
+| 2021-11-06 | `autolaundrysyst... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-11-06 | `ccz.com.au` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-11-06 | `PORTALP` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2021-11-06 | `Agricorp Company` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
@@ -100,5 +102,3 @@
 | 2021-10-28 | `stehimpuls.de ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-10-28 | `www.psomagen.co... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-10-28 | `movingstation.c... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2021-10-27 | `http://www.movi... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2021-10-27 | `tedia.com ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
