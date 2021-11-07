@@ -2,6 +2,7 @@
 
 | date | title | group |
 |---|---|---|
+| 2021-11-07 | `esopro.com` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-11-07 | `TRINA SOLAR` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2021-11-07 | `MEYER CORPORATION` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2021-11-07 | `Royale.co.uk ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -101,4 +102,3 @@
 | 2021-10-29 | `Los Gatos Tomato Products` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2021-10-29 | `Marketing Alliance Group` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2021-10-29 | `rijeka-airport.... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2021-10-28 | `amina-treuhand.... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
