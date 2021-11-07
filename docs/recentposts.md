@@ -2,6 +2,10 @@
 
 | date | title | group |
 |---|---|---|
+| 2021-11-07 | `TRINA SOLAR` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
+| 2021-11-07 | `MEYER CORPORATION` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
+| 2021-11-07 | `Royale.co.uk ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
+| 2021-11-07 | `chatrium.com ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-11-06 | `DALLOYAU` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2021-11-06 | `INDIAN CREEK` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2021-11-06 | `nurihiko.co.jp ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -98,7 +102,3 @@
 | 2021-10-29 | `Marketing Alliance Group` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2021-10-29 | `rijeka-airport.... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-10-28 | `amina-treuhand.... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2021-10-28 | `psomagen.com ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2021-10-28 | `parkhotel.mk ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2021-10-28 | `roadrebel.com ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2021-10-28 | `katzmanproduce.... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
