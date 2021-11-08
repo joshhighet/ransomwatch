@@ -2,6 +2,8 @@
 
 | date | title | group |
 |---|---|---|
+| 2021-11-08 | `DACOLL.CO.UK FILES  PART8 172.21.240.103\NASPOFFICIAL\2020\NASP 4th Cycle PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2021-11-08 | `BPATPA.COM FILES  PART14 PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2021-11-08 | `ARGOS CONNECT ENERGY` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2021-11-07 | `kmazuckert.com` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-11-07 | `Statcomm` | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
@@ -100,5 +102,3 @@
 | 2021-10-30 | `logi-cv.com ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-10-30 | `jginc.biz` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-10-30 | `Я не пью виски но с ним бы выпил` | [groove](https://ransomwatch.telemetry.ltd/#/profiles?id=groove) |
-| 2021-10-30 | `nrpa.org` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2021-10-29 | `Acorn Stairlifts` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
