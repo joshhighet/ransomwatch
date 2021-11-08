@@ -23,9 +23,8 @@ from sharedutils import countcaptchahosts
 
 from sharedutils import stdlog, dbglog, errlog, honk
 
-from plotting import groupreportpie
-from plotting import groupreportyearly
-from plotting import groupreportmonthly
+from plotting import barchartgroups
+from plotting import groupheatmap
 
 def suffix(d):
     return 'th' if 11<=d<=13 else {1:'st',2:'nd',3:'rd'}.get(d%10, 'th')
@@ -130,14 +129,11 @@ def statspage():
         f.close()
     writeline(statspage, '# 📊 stats')
     writeline(statspage, '')
-    writeline(statspage, '![](postsbygroup.png)')
-    writeline(statspage, '')
-    writeline(statspage, '')
     writeline(statspage, ':warning: _data capturing commenced in october 2021 - historic posts may not have accuratley accompanying timestamps before this period_')
     writeline(statspage, '')
-    writeline(statspage, '![](postsbymonth.png)')
+    writeline(statspage, '![](postsbygroupmonth.png)')
     writeline(statspage, '')
-    writeline(statspage, '![](postsbyyear.png)')
+    writeline(statspage, '![](postsbygroup.png)')
     stdlog('stats page generated')
 
 def recentposts(top):
@@ -261,8 +257,7 @@ def main():
     # if posts.json has been modified within the last 45 mins, assume new posts discovered and recreate graphs
     if os.path.getmtime('posts.json') > (time.time() - (45 * 60)):
         stdlog('posts.json has been modified within the last 45 mins, assuming new posts discovered and recreating graphs')
-        groupreportyearly()
-        groupreportmonthly()
-        groupreportpie()
+        groupheatmap()
+        barchartgroups()
     else:
         stdlog('posts.json has not been modified within the last 45 mins, assuming no new posts discovered')

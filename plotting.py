@@ -6,27 +6,24 @@ import plotly.graph_objects as go
 from sharedutils import gcount
 from sharedutils import openjson
 
-def groupreportpie():
+def groupheatmap():
     '''
-    create a pie to show the number of posts by each group
+    create a heatmap to show the number of posts by group_name within posts.json
     '''
     posts = openjson('posts.json')
     # count the number of posts by group_name within posts.json
     group_counts = gcount(posts)
     # sort the group_counts - descending
     sorted_group_counts = sorted(group_counts.items(), key=lambda x: x[1], reverse=True)
+    # create a list of groups
     labels = []
-    values = []
     for group in sorted_group_counts:
         labels.append(group[0])
+    # create a list of counts
+    values = []
+    for group in sorted_group_counts:
         values.append(group[1])
-    fig = go.Figure(data=[go.Pie(labels=labels, values=values)])
-    fig.update_layout(title_text='posts by group')
-    fig.write_image('docs/postsbygroup.png')
-
-def groupreportmonthly():
-    '''chart with plotly the posts by month'''
-    posts = openjson('posts.json')
+    # create a list of months
     months = []
     for post in posts:
         if post['discovered'].split(' ')[0] not in months:
@@ -43,46 +40,34 @@ def groupreportmonthly():
     # sort the month_counts - descending
     sorted_month_counts = sorted(month_counts, key=lambda x: x[1], reverse=True)
     # create a list of months
-    labels = []
+    labels2 = []
     for month in sorted_month_counts:
-        labels.append(month[0])
+        labels2.append(month[0])
     # create a list of counts
-    values = []
+    values2 = []
     for month in sorted_month_counts:
-        values.append(month[1])
-    fig = go.Figure(data=[go.Bar(x=labels, y=values)])
-    fig.update_layout(title_text='posts by month')
-    fig.write_image('docs/postsbymonth.png')
+        values2.append(month[1])
+    fig = go.Figure(data=[go.Heatmap(x=labels, y=labels2, z=values2)])
+    fig.update_layout(title_text='posts by group and month')
+    fig.write_image('docs/postsbygroupmonth.png')
 
-def groupreportyearly():
+def barchartgroups():
     '''
-    chart with plotly the posts by year
+    graph the count of posts by each tracked group
     '''
     posts = openjson('posts.json')
-    # create a list of years
-    years = []
-    for post in posts:
-        if post['discovered'].split(' ')[0].split('-')[0] not in years:
-            years.append(post['discovered'].split(' ')[0].split('-')[0])
-    # create a list of years with counts
-    year_counts = []
-    for year in years:
-        year_counts.append([year, 0])
     # count the number of posts by group_name within posts.json
-    for post in posts:
-        for year in year_counts:
-            if post['discovered'].split(' ')[0].split('-')[0] == year[0]:
-                year[1] += 1
-    # sort the year_counts - descending
-    sorted_year_counts = sorted(year_counts, key=lambda x: x[1], reverse=True)
-    # create a list of years
+    day_counts = gcount(posts)
+    # sort the day_counts - descending
+    sorted_day_counts = sorted(day_counts.items(), key=lambda x: x[1], reverse=True)
+    # create a list of days
     labels = []
-    for year in sorted_year_counts:
-        labels.append(year[0])
+    for day in sorted_day_counts:
+        labels.append(day[0])
     # create a list of counts
     values = []
-    for year in sorted_year_counts:
-        values.append(year[1])
+    for day in sorted_day_counts:
+        values.append(day[1])
     fig = go.Figure(data=[go.Bar(x=labels, y=values)])
-    fig.update_layout(title_text='posts by year')
-    fig.write_image('docs/postsbyyear.png')
+    fig.update_layout(title_text='posts by group')
+    fig.write_image('docs/postsbygroup.png')
