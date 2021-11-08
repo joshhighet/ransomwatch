@@ -65,7 +65,7 @@ def mainpage():
     writeline(uptime_sheet, '')
     writeline(uptime_sheet, '_:warning: all site pages and graphs are dynamically generated every half hour_')
     writeline(uptime_sheet, '')
-    writeline(uptime_sheet, 'see the project [README](https://github.com/thetanz/ransomwatch#ransomwatch--) for technicals')
+    writeline(uptime_sheet, '> see the project [README](https://github.com/thetanz/ransomwatch#ransomwatch--) for technicals')
     writeline(uptime_sheet, '')
     # link to the stats and pfoiles pages
     writeline(uptime_sheet, '## [`stats n\' graphs`](stats.md)')
