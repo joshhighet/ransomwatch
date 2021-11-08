@@ -2,6 +2,11 @@
 
 | date | title | group |
 |---|---|---|
+| 2021-11-08 | `NATUS.COM FILES  PART3 - siebelsfdc, shepler, retcamDHR, hcmfusion PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2021-11-08 | `SMARTERASP.NET FILES  PART3+4 FINAL PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2021-11-08 | `TONLYELE.COM FILES  PART5 - MT工程文件, SMT2工程组 PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2021-11-08 | `BOLTONUSA.COM FILES  FILES PART6 - 10.0.0.20\c$\BOD_HQ_CIFS PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2021-11-08 | `MCH-GROUP.COM FILES  FILES PART2 - 172.16.60.11\FILESERVICE$ PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2021-11-08 | `ABSOLUTERESULTS.COM FILES  FILES PART6 - 10.50.0.1 PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2021-11-08 | `STRATISVISUALS.COM  FILES FILES PART9 - FINAL PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2021-11-08 | `SLIMSTOCK.COM FILES  FILES PART3 PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
@@ -97,8 +102,3 @@
 | 2021-11-01 | `https://gvalue.... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-11-01 | `comune.gonzaga.... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-11-01 | `promo.parker.co... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2021-11-01 | `www.radium.com.... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2021-11-01 | `Finite Recruitment` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
-| 2021-11-01 | `Power Plumbing` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
-| 2021-10-31 | `rabbalshedekraf...` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2021-10-31 | `Napili Kai Foundation Gallery    ` | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
