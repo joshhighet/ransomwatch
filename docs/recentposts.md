@@ -2,6 +2,13 @@
 
 | date | title | group |
 |---|---|---|
+| 2021-11-08 | `Florida Heart Associates` | [pysa](https://ransomwatch.telemetry.ltd/#/profiles?id=pysa) |
+| 2021-11-08 | `Family Dentist Newbury` | [pysa](https://ransomwatch.telemetry.ltd/#/profiles?id=pysa) |
+| 2021-11-08 | `ProActive Works` | [pysa](https://ransomwatch.telemetry.ltd/#/profiles?id=pysa) |
+| 2021-11-08 | `DiputaciÃ³n de Segovia` | [pysa](https://ransomwatch.telemetry.ltd/#/profiles?id=pysa) |
+| 2021-11-08 | `City of Bridgeport, WV` | [pysa](https://ransomwatch.telemetry.ltd/#/profiles?id=pysa) |
+| 2021-11-08 | `Ferrara` | [pysa](https://ransomwatch.telemetry.ltd/#/profiles?id=pysa) |
+| 2021-11-08 | `Universitat AutÃ²noma de Barcelona` | [pysa](https://ransomwatch.telemetry.ltd/#/profiles?id=pysa) |
 | 2021-11-08 | `NATUS.COM FILES  PART3 - siebelsfdc, shepler, retcamDHR, hcmfusion PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2021-11-08 | `SMARTERASP.NET FILES  PART3+4 FINAL PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2021-11-08 | `TONLYELE.COM FILES  PART5 - MT工程文件, SMT2工程组 PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
@@ -95,10 +102,3 @@
 | 2021-11-02 | `gvalue.com ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-11-02 | `wpdn.net ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-11-02 | `dtstechnical.ca ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2021-11-02 | `Southland Holdings` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
-| 2021-11-01 | `immodelaet.be ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2021-11-01 | `bdtaid.com ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2021-11-01 | `morganskenderia... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2021-11-01 | `https://gvalue.... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2021-11-01 | `comune.gonzaga.... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2021-11-01 | `promo.parker.co... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
