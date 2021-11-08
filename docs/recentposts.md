@@ -2,6 +2,8 @@
 
 | date | title | group |
 |---|---|---|
+| 2021-11-08 | `cool-pak.com ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
+| 2021-11-08 | `abiom.nl ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-11-08 | `The Skinners Kent Academy` | [pysa](https://ransomwatch.telemetry.ltd/#/profiles?id=pysa) |
 | 2021-11-08 | `Kent County Council` | [pysa](https://ransomwatch.telemetry.ltd/#/profiles?id=pysa) |
 | 2021-11-08 | `Rusty Hardin & Associates` | [pysa](https://ransomwatch.telemetry.ltd/#/profiles?id=pysa) |
@@ -100,5 +102,3 @@
 | 2021-11-06 | `STAR REFRIGERATION LIMITED` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2021-11-06 | `lkma` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2021-11-06 | `EZ Loader` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
-| 2021-11-06 | `Bochane Groep` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
-| 2021-11-06 | `MUTUAL MATERIALS` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
