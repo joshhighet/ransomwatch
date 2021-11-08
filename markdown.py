@@ -23,8 +23,7 @@ from sharedutils import countcaptchahosts
 
 from sharedutils import stdlog, dbglog, errlog, honk
 
-from plotting import barchartgroups
-from plotting import groupheatmap
+from plotting import barchartgroups, scatterplot, groupheatmap
 
 def suffix(d):
     return 'th' if 11<=d<=13 else {1:'st',2:'nd',3:'rd'}.get(d%10, 'th')
@@ -144,6 +143,8 @@ def statspage():
     writeline(statspage, '![](postsbygroupmonth.png)')
     writeline(statspage, '')
     writeline(statspage, '![](postsbygroup.png)')
+    writeline(statspage, '')
+    writeline(statspage, '![](3dplot.png)')
     stdlog('stats page generated')
 
 def recentposts(top):
@@ -269,5 +270,6 @@ def main():
         stdlog('posts.json has been modified within the last 45 mins, assuming new posts discovered and recreating graphs')
         groupheatmap()
         barchartgroups()
+        scatterplot()
     else:
         stdlog('posts.json has not been modified within the last 45 mins, assuming no new posts discovered')
