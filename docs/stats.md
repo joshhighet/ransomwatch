@@ -5,3 +5,5 @@
 ![](postsbygroupmonth.png)
 
 ![](postsbygroup.png)
+
+![](3dplot.png)
