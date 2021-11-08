@@ -2,6 +2,7 @@
 
 | date | title | group |
 |---|---|---|
+| 2021-11-08 | `GENESISNET.COM FILES  PART19 - 10.16.16.40\G$\GNIS\GNIS-Accounting PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2021-11-08 | `QUANTUMGROUP.COM FILES  PART3 - ladderlife, livelifecapital, lob, mmg, NJCPA PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2021-11-08 | `Florida Heart Associates` | [pysa](https://ransomwatch.telemetry.ltd/#/profiles?id=pysa) |
 | 2021-11-08 | `Family Dentist Newbury` | [pysa](https://ransomwatch.telemetry.ltd/#/profiles?id=pysa) |
@@ -101,4 +102,3 @@
 | 2021-11-02 | `socage` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2021-11-02 | `benefitexpress` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2021-11-02 | `gvalue.com ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2021-11-02 | `wpdn.net ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
