@@ -1,6 +1,8 @@
 
 _:warning: all site pages and graphs are dynamically generated every half hour_
 
+> see the project [README](https://github.com/thetanz/ransomwatch#ransomwatch--) for technicals
+
 ## [`stats n' graphs`](stats.md)
 
 ## [`group profiles`](profiles.md)
