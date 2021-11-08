@@ -2,6 +2,10 @@
 
 | date | title | group |
 |---|---|---|
+| 2021-11-08 | `ABSOLUTERESULTS.COM FILES  FILES PART6 - 10.50.0.1 PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2021-11-08 | `STRATISVISUALS.COM  FILES FILES PART9 - FINAL PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2021-11-08 | `SLIMSTOCK.COM FILES  FILES PART3 PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2021-11-08 | `BRPRINTERS.COM FILES  PART13 - 172.10.20.24\users$ PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2021-11-08 | `SSMSJUSTICE.COM FILES  FILES PART5 - 192.168.1.250\D\DATA PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2021-11-08 | `DACOLL.CO.UK FILES  PART8 172.21.240.103\NASPOFFICIAL\2020\NASP 4th Cycle PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2021-11-08 | `BPATPA.COM FILES  PART14 PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
@@ -98,7 +102,3 @@
 | 2021-11-01 | `Power Plumbing` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2021-10-31 | `rabbalshedekraf...` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-10-31 | `Napili Kai Foundation Gallery    ` | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
-| 2021-10-31 | `logcabinhomes.c... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2021-10-30 | `LINICAL doesn't care about digital hygiene` | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
-| 2021-10-30 | `logi-cv.com ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2021-10-30 | `jginc.biz` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
