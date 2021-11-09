@@ -5,6 +5,9 @@ on:
     - cron: '*/30 * * * *'
   workflow_dispatch:
 
+# to consider: the use of action jobs to breakout each task
+# https://docs.github.com/en/actions/learn-github-actions/essential-features-of-github-actions#sharing-data-between-jobs
+
 jobs:
   torsocks-job:
     runs-on: ubuntu-latest
@@ -26,7 +29,7 @@ jobs:
       - name: run parser
         run: |
           python3 ransomwatch.py parse
-      - name: teamscard report
+      - name: generate markdown & graphs for docsify
         run: |
           python3 ransomwatch.py markdown
       - name: save changes
