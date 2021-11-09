@@ -266,7 +266,7 @@ def main():
     statspage()
     profilepage()
     # if posts.json has been modified within the last 45 mins, assume new posts discovered and recreate graphs
-    if os.path.getmtime('posts.json'):
+    if os.path.getmtime('posts.json') > (time.time() - (45 * 60)):
         stdlog('posts.json has been modified within the last 45 mins, assuming new posts discovered and recreating graphs')
         groupheatmap()
         barchartgroups()
