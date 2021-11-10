@@ -2,6 +2,9 @@
 
 | date | title | group |
 |---|---|---|
+| 2021-11-10 | `ideaitaliausa.c... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
+| 2021-11-10 | `home.hktdc.com ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
+| 2021-11-10 | `cardigos.com ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-11-10 | `comfacundi.com.... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-11-10 | `thinkcaspian.co... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-11-10 | `EQUITY Bank` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
@@ -99,6 +102,3 @@
 | 2021-11-07 | `eberlesrl.com ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-11-07 | `esopro.com` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-11-07 | `TRINA SOLAR` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
-| 2021-11-07 | `MEYER CORPORATION` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
-| 2021-11-07 | `Royale.co.uk ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2021-11-07 | `chatrium.com ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
