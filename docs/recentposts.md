@@ -2,6 +2,7 @@
 
 | date | title | group |
 |---|---|---|
+| 2021-11-11 | `Axiсorp GMBH` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2021-11-11 | `Axio` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2021-11-11 | `Greymouse VA PTY Ltd` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2021-11-11 | `Cabinet Remy Le Bonnois / Data on sale` | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
@@ -101,4 +102,3 @@
 | 2021-11-08 | `BPATPA.COM FILES  PART14 PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2021-11-08 | `ARGOS CONNECT ENERGY` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2021-11-07 | `kmazuckert.com` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2021-11-07 | `Statcomm` | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
