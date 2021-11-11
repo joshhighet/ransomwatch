@@ -2,6 +2,7 @@
 
 | date | title | group |
 |---|---|---|
+| 2021-11-11 | `nuevomundosa.co...` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-11-11 | `VISTRA` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2021-11-11 | `Orgill, Inc.` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2021-11-11 | `Cogan Wire and Metal Products Ltd` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
@@ -101,4 +102,3 @@
 | 2021-11-08 | `SLIMSTOCK.COM FILES  FILES PART3 PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2021-11-08 | `BRPRINTERS.COM FILES  PART13 - 172.10.20.24\users$ PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2021-11-08 | `SSMSJUSTICE.COM FILES  FILES PART5 - 192.168.1.250\D\DATA PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2021-11-08 | `DACOLL.CO.UK FILES  PART8 172.21.240.103\NASPOFFICIAL\2020\NASP 4th Cycle PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
