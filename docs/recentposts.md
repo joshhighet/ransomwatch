@@ -2,6 +2,7 @@
 
 | date | title | group |
 |---|---|---|
+| 2021-11-12 | `bsg-llp.com ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-11-12 | `barfieldinc.com ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-11-12 | `http://bsg-llp.... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-11-12 | `COMMUNAUTÉ DE COMMUNES PAYS D’APT LUBERON` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
@@ -101,4 +102,3 @@
 | 2021-11-08 | `TONLYELE.COM FILES  PART5 - MT工程文件, SMT2工程组 PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2021-11-08 | `BOLTONUSA.COM FILES  FILES PART6 - 10.0.0.20\c$\BOD_HQ_CIFS PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2021-11-08 | `MCH-GROUP.COM FILES  FILES PART2 - 172.16.60.11\FILESERVICE$ PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2021-11-08 | `ABSOLUTERESULTS.COM FILES  FILES PART6 - 10.50.0.1 PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
