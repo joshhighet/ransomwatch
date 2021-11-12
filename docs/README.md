@@ -9,11 +9,11 @@ _:warning: all site pages and graphs are dynamically generated every half hour_
 
 ## 📰 summary - november 12th, 2021
 
-currently tracking `70` groups across `82` various relays and mirrors - _`32` of which are online_
+currently tracking `70` groups across `82` various relays and mirrors - _`31` of which are online_
 
 there are `33` active parsers, `9` of which using headless browsers - _`4` groups have recently introduced captchas_
 
-⏲ there have been `7` posts within the `last 24 hours`
+⏲ there have been `6` posts within the `last 24 hours`
 
 🦈 there have been `198` posts within the `month of november`
 
@@ -109,5 +109,5 @@ there are `33` active parsers, `9` of which using headless browsers - _`4` group
 | xinof |  | ⬇️ 🔴 | 2021-05-01 | wj3b2wtj7u2bzup75tzhnso56bin6bnvsxcbwbfcuvzpc4vcixbywlid.onion |
 | spook | Spook | ⬇️ 🔴 | 2021-10-26 | spookuhvfyxzph54ikjfwf2mwmxt572krpom7reyayrmxbkizbvkpaid.onion |
 | RAMP |  | ⬇️ 🔴 | 2021-05-01 | wavbeudogz6byhnardd2lkp2jafims3j7tj6k6qnywchn2csngvtffqd.onion |
-| 54bb47h | BLOG | ⬆️ 🟢 |  | 54bb47h5qu4k7l4d7v5ix3i6ak6elysn3net4by4ihmvrhu7cvbskoqd.onion |
+| 54bb47h | BLOG | ⬇️ 🔴 | 2021-11-12 | 54bb47h5qu4k7l4d7v5ix3i6ak6elysn3net4by4ihmvrhu7cvbskoqd.onion |
 | quantum | Quantum Blog | ⬆️ 🟢 |  | quantum445bh3gzuyilxdzs5xdepf3b7lkcupswvkryf3n7hgzpxebid.onion |
