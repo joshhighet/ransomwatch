@@ -2,6 +2,8 @@
 
 | date | title | group |
 |---|---|---|
+| 2021-11-12 | `barfieldinc.com ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
+| 2021-11-12 | `http://bsg-llp.... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-11-12 | `COMMUNAUTÉ DE COMMUNES PAYS D’APT LUBERON` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2021-11-12 | `rintal.com ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-11-11 | `nuevomundosa.co...` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -100,5 +102,3 @@
 | 2021-11-08 | `BOLTONUSA.COM FILES  FILES PART6 - 10.0.0.20\c$\BOD_HQ_CIFS PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2021-11-08 | `MCH-GROUP.COM FILES  FILES PART2 - 172.16.60.11\FILESERVICE$ PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2021-11-08 | `ABSOLUTERESULTS.COM FILES  FILES PART6 - 10.50.0.1 PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2021-11-08 | `STRATISVISUALS.COM  FILES FILES PART9 - FINAL PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2021-11-08 | `SLIMSTOCK.COM FILES  FILES PART3 PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
