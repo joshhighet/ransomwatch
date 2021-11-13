@@ -2,6 +2,8 @@
 
 | date | title | group |
 |---|---|---|
+| 2021-11-13 | `era.org.uk ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
+| 2021-11-13 | `mfitexas.com ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-11-12 | `bsg-llp.com ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-11-12 | `barfieldinc.com ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-11-12 | `http://bsg-llp.... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -100,5 +102,3 @@
 | 2021-11-08 | `NATUS.COM FILES  PART3 - siebelsfdc, shepler, retcamDHR, hcmfusion PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2021-11-08 | `SMARTERASP.NET FILES  PART3+4 FINAL PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2021-11-08 | `TONLYELE.COM FILES  PART5 - MT工程文件, SMT2工程组 PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2021-11-08 | `BOLTONUSA.COM FILES  FILES PART6 - 10.0.0.20\c$\BOD_HQ_CIFS PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2021-11-08 | `MCH-GROUP.COM FILES  FILES PART2 - 172.16.60.11\FILESERVICE$ PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
