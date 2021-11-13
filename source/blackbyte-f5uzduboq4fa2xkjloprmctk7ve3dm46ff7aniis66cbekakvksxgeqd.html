@@ -15,13 +15,13 @@
 
 
     <link href="https://fonts.googleapis.com/css?family=Playfair+Display:700,900" rel="stylesheet">
-    <link href="/blog.css?v=1636789258" rel="stylesheet">
+    <link href="/blog.css?v=1636791313" rel="stylesheet">
     <script src="/assets/js/jquery-2.1.3.min.js"></script>
 
     <script src="/assets/js/vendor/popper.min.js"></script>
     <script src="/dist/js/bootstrap.min.js"></script>
     <script src="/assets/js/vendor/holder.min.js"></script>
-    <script src="/script.js?v=1636789258"></script>
+    <script src="/script.js?v=1636791313"></script>
     <style>
         .d_buttons{
             display: none;
@@ -139,93 +139,93 @@
 
         <script>
 
-            var proof_img_block20 = '<img src="" alt="" class="proof">';
+            var proof_img_block22 = '<img src="" alt="" class="proof">';
 
 
-            function ShowProof20(){
-                if(showed20 === 0){
-                    showed20 = 1;
-                    $("#target_20 .proof_block").html(proof_img_block20).slideDown(400);
+            function ShowProof22(){
+                if(showed22 === 0){
+                    showed22 = 1;
+                    $("#target_22 .proof_block").html(proof_img_block22).slideDown(400);
                 }else{
-                    showed20 = 0;
-                    $("#target_20 .proof_block").html('').slideUp(400);
+                    showed22 = 0;
+                    $("#target_22 .proof_block").html('').slideUp(400);
                 }
 
             }
-            function ShowDButtons20(){
-                if(showed_d_buttons20 === 0){
-                    showed_d_buttons20 = 1;
-                    $("#target_20 .d_buttons").slideDown(400);
+            function ShowDButtons22(){
+                if(showed_d_buttons22 === 0){
+                    showed_d_buttons22 = 1;
+                    $("#target_22 .d_buttons").slideDown(400);
                 }else{
-                    showed_d_buttons20 = 0;
-                    $("#target_20 .d_buttons").slideUp(400);
+                    showed_d_buttons22 = 0;
+                    $("#target_22 .d_buttons").slideUp(400);
                 }
 
             }
 
 
-            var showed20 = 0;
-            var showed_d_buttons20 = 0;
-            var HAPPYSEC20 = -1032058;
-            var t_sec20 = HAPPYSEC20;
+            var showed22 = 0;
+            var showed_d_buttons22 = 0;
+            var HAPPYSEC22 = -861313;
+            var t_sec22 = HAPPYSEC22;
 
-            var time20;
-            var intervalId20=0;
+            var time22;
+            var intervalId22=0;
 
 
             $(document).ready(function () {
 
-                intervalId20 = setInterval(function (){
-                    timerDecrement20();
+                intervalId22 = setInterval(function (){
+                    timerDecrement22();
                 }, 1000);
             });
 
 
-            function timerDecrement20() {
-                time20 = $('#target_20 span.timer');
+            function timerDecrement22() {
+                time22 = $('#target_22 span.timer');
 
-                if(t_sec20 < 1){
-                    t_sec20 = 0;
-                    newTime = t_sec20 ;
+                if(t_sec22 < 1){
+                    t_sec22 = 0;
+                    newTime = t_sec22 ;
                 }else{
-                    newTime = t_sec20 - 1;
+                    newTime = t_sec22 - 1;
                 }
 
 
-                t_sec20 = newTime;
+                t_sec22 = newTime;
 
-                var t_min = t_sec20 / 60;
+                var t_min = t_sec22 / 60;
                 var t_hour = t_min / 60;
                 var t_day =
                     '<b>' + Math.floor(t_hour / 24) + '</b> days ' +
                     '<b>' + Math.floor(t_hour % 24) +'</b>:' +
                     '<b>' + Math.floor(t_min % 60) +'</b>:' +
-                    '<b>' + Math.floor(t_sec20 % 60)+ '</b> ';
+                    '<b>' + Math.floor(t_sec22 % 60)+ '</b> ';
 
-                time20.html(t_day);
+                time22.html(t_day);
 
 
 
-                if(newTime === 0 && HAPPYSEC20 > 0 || newTime < 1){
+                if(newTime === 0 && HAPPYSEC22 > 0 || newTime < 1){
 
-                    time20.html('');
-                    $("#target_20 .lock").attr("src","assets/img/lockopen.png");
-                    $("#target_20 .clock").attr("src","assets/img/clockred.png").addClass("clockred");
-                    $("#target_20 .btn2").addClass("redbg");
-                    $("#target_20 .arrow-8").addClass("r8");
-                    $("#target_20 .perc").html("100%");
+                    time22.html('');
+                    $("#target_22 .lock").attr("src","assets/img/lockopen.png");
+                    $("#target_22 .clock").attr("src","assets/img/clockred.png").addClass("clockred");
+                    $("#target_22 .btn2").addClass("redbg");
+                    $("#target_22 .arrow-8").addClass("r8");
+                    $("#target_22 .perc").html("100%");
 
-                    clearInterval(intervalId20);
-                    GetDownloadLink(20,$("#target_20 .redbg"));
+                    clearInterval(intervalId22);
+                    GetDownloadLink(22,$("#target_22 .redbg"));
                 }
 
 
             }
         </script>
 
-        <div class="row jumbotron p-3  text-white rounded bg-d1" id="target_20">
+        <div class="row jumbotron p-3  text-white rounded bg-d1" id="target_22">
             <div class="col-md-6 px-0">
-                <h1 class="display-4 font-italic border-bottom">Regence Footwear    </h1>
+                <h1 class="display-4 font-italic border-bottom">The Glass House    </h1>
             </div>
 
             <div class="col-md-6 px-0">
@@ -237,7 +237,7 @@
 
                 <div class="proof_block text-center"></div>
 
-                <p class="lead my-3 pb-3" >In January 1979, Regence Footwear is created in a small factory employing, at that time, fifteen employees                </p>
+                <p class="lead my-3 pb-3" >The Glass House is our design studio located in Shoreditch, close to the City of London. The studio is a four storey glass and louvred building at the western end of Sclater Street. It is within walking distance of Shoreditch High Street, Liverpool Street and Old Street stations. Public car parking is available nearby, including on Sclater Street. Please call us if you need help finding a parking space. "If you wont connect us in 7 days your data will be upload."                </p>
                 <div class="dropdown-divider divid-c"></div>
             </div>
 
@@ -249,17 +249,17 @@
                         <i class="fa fa-users"></i>
                     </span>
                         <br>
-                        <span class="">77</span>
+                        <span class="">?</span>
                     </p>
                 </div>
-                <div class="col-md-3 text-center" onclick="GO('http://www.regence.ca')">
+                <div class="col-md-3 text-center" onclick="GO('http://lom-fdp.com')">
                     <p class="lead mb-0 squ"><span class="text-white font-weight-bold "><i class="fa fa-globe"></i></span><br>
                         <a href="javascript:" class="text-white text-decoration-none" >Web Site</a>
                     </p>
                 </div>
 
-                <div class="col-md-3 text-center"><p class="lead mb-0 squ "><span class="text-white font-weight-bold "><i class="fa fa-dollar"></i></span> <br>$ 50 Million </p></div>
-                <div class="col-md-3 text-center"><p class="lead mb-0 squ"><span class="text-white font-weight-bold"><i class="fa fa-phone"></i></span><br>(418) 849-7997</p></div>
+                <div class="col-md-3 text-center"><p class="lead mb-0 squ "><span class="text-white font-weight-bold "><i class="fa fa-dollar"></i></span> <br>$ ? </p></div>
+                <div class="col-md-3 text-center"><p class="lead mb-0 squ"><span class="text-white font-weight-bold"><i class="fa fa-phone"></i></span><br>+44 (0)20 8444 2999</p></div>
 
             </div>
 
@@ -283,187 +283,7 @@
 
                     <div class="arrow-8"></div>
 
-                                            <a href="javascript:" class="btn btn2 legitRipple redbg " onclick="ShowDButtons20()">Download Free </a>
-                        
-
-
-                    </p></div>
-
-                                    <div class="col-md-12 text-center d_buttons" style="display: none">
-                                                    <a href="https://anonfiles.com/1071x5S8u3/allfiles_rar" class="btn btn3 legitRipple
-                            redbg88" style="margin-bottom: 3px">
-
-
-
-
-                                   download
-
-
-                                10GB</a>
-                                                        <a href="https://anonfiles.com/d664x1S6u7/Desktop_rar" class="btn btn3 legitRipple
-                            redbg88" style="margin-bottom: 3px">
-
-
-
-
-                                   download
-
-
-                                13.6GB</a>
-                                            </div>
-                        
-            </div>
-        </div>
-        
-        <script>
-
-            var proof_img_block19 = '<img src="proofs/19/proof.png" alt="" class="proof">';
-
-
-            function ShowProof19(){
-                if(showed19 === 0){
-                    showed19 = 1;
-                    $("#target_19 .proof_block").html(proof_img_block19).slideDown(400);
-                }else{
-                    showed19 = 0;
-                    $("#target_19 .proof_block").html('').slideUp(400);
-                }
-
-            }
-            function ShowDButtons19(){
-                if(showed_d_buttons19 === 0){
-                    showed_d_buttons19 = 1;
-                    $("#target_19 .d_buttons").slideDown(400);
-                }else{
-                    showed_d_buttons19 = 0;
-                    $("#target_19 .d_buttons").slideUp(400);
-                }
-
-            }
-
-
-            var showed19 = 0;
-            var showed_d_buttons19 = 0;
-            var HAPPYSEC19 = -81658;
-            var t_sec19 = HAPPYSEC19;
-
-            var time19;
-            var intervalId19=0;
-
-
-            $(document).ready(function () {
-
-                intervalId19 = setInterval(function (){
-                    timerDecrement19();
-                }, 1000);
-            });
-
-
-            function timerDecrement19() {
-                time19 = $('#target_19 span.timer');
-
-                if(t_sec19 < 1){
-                    t_sec19 = 0;
-                    newTime = t_sec19 ;
-                }else{
-                    newTime = t_sec19 - 1;
-                }
-
-
-                t_sec19 = newTime;
-
-                var t_min = t_sec19 / 60;
-                var t_hour = t_min / 60;
-                var t_day =
-                    '<b>' + Math.floor(t_hour / 24) + '</b> days ' +
-                    '<b>' + Math.floor(t_hour % 24) +'</b>:' +
-                    '<b>' + Math.floor(t_min % 60) +'</b>:' +
-                    '<b>' + Math.floor(t_sec19 % 60)+ '</b> ';
-
-                time19.html(t_day);
-
-
-
-                if(newTime === 0 && HAPPYSEC19 > 0 || newTime < 1){
-
-                    time19.html('');
-                    $("#target_19 .lock").attr("src","assets/img/lockopen.png");
-                    $("#target_19 .clock").attr("src","assets/img/clockred.png").addClass("clockred");
-                    $("#target_19 .btn2").addClass("redbg");
-                    $("#target_19 .arrow-8").addClass("r8");
-                    $("#target_19 .perc").html("100%");
-
-                    clearInterval(intervalId19);
-                    GetDownloadLink(19,$("#target_19 .redbg"));
-                }
-
-
-            }
-        </script>
-
-        <div class="row jumbotron p-3  text-white rounded bg-d1" id="target_19">
-            <div class="col-md-6 px-0">
-                <h1 class="display-4 font-italic border-bottom">Napili Kai Foundation Gallery    </h1>
-            </div>
-
-            <div class="col-md-6 px-0">
-                                    <img src="assets/img/lockopen.png" alt="" class="lock">
-                
-                                    <div class="arrow-1"></div>
-                    <a href="javascript:" class="buttonstyle2  proofbutton" onclick="ShowProof19();">Proof</a>
-                    
-            </div>
-            <div class="col-md-12 px-0">
-
-                <div class="proof_block text-center"></div>
-
-                <p class="lead my-3 pb-3" >Kai Napili Ltd is located in Lahaina, HI, United States and is part of the Traveler Accommodation Industry. Kai Napili Ltd has 150 total employees across all of its locations and generates $22.67 million in sales USD Sales figure is modelled.                </p>
-                <div class="dropdown-divider divid-c"></div>
-            </div>
-
-
-            <div class="col-md-12 row px-0  mt-4 mb-4 ml-0">
-                <div class="col-md-3 text-center ">
-                    <p class="lead mb-0 squ">
-                    <span class="text-white font-weight-bold ">
-                        <i class="fa fa-users"></i>
-                    </span>
-                        <br>
-                        <span class="">152</span>
-                    </p>
-                </div>
-                <div class="col-md-3 text-center" onclick="GO('http://www.napilikai.com')">
-                    <p class="lead mb-0 squ"><span class="text-white font-weight-bold "><i class="fa fa-globe"></i></span><br>
-                        <a href="javascript:" class="text-white text-decoration-none" >Web Site</a>
-                    </p>
-                </div>
-
-                <div class="col-md-3 text-center"><p class="lead mb-0 squ "><span class="text-white font-weight-bold "><i class="fa fa-dollar"></i></span> <br>$ 28 Million </p></div>
-                <div class="col-md-3 text-center"><p class="lead mb-0 squ"><span class="text-white font-weight-bold"><i class="fa fa-phone"></i></span><br>(808) 669-6271</p></div>
-
-            </div>
-
-
-
-
-            <div class="col-md-12 row px-0 mt-5">
-                <div class="col-md-12 text-center"><a href="mailto:BlackByteSupp0rt@onionmail.org" class="text-white text-decoration-none">BlackByteSupp0rt@onionmail.org</a></div>
-                <div class="col-md-6">
-                    <p class="lead mb-0 text-white font-weight-bold" style="margin-top: 13px">
-                        <span class="timer"></span> 
-                                                    <img src="assets/img/clockred.png" alt="" class="clock clockred">
-                                            </p>
-                </div>
-                <div class="col-md-6 text-right pr-0"><p class="lead mb-0">
-
-
-
-<!--                        <span class="perc">--><!--%</span>-->
-
-
-                    <div class="arrow-8"></div>
-
-                                            <a target="_blank" href="https://anonfiles.com/V2xe94R0u6/napilikai.com_rar" class="btn btn2 legitRipple  redbg ">Download Free </a>
+                                            <a target="_blank" href="javascript:" class="btn btn2 legitRipple  redbg ">Download Free </a>
                         
 
 
@@ -475,107 +295,105 @@
         
         <script>
 
-            var proof_img_block17 = '<img src="proofs/17/proof.png" alt="" class="proof">';
+            var proof_img_block21 = '<img src="" alt="" class="proof">';
 
 
-            function ShowProof17(){
-                if(showed17 === 0){
-                    showed17 = 1;
-                    $("#target_17 .proof_block").html(proof_img_block17).slideDown(400);
+            function ShowProof21(){
+                if(showed21 === 0){
+                    showed21 = 1;
+                    $("#target_21 .proof_block").html(proof_img_block21).slideDown(400);
                 }else{
-                    showed17 = 0;
-                    $("#target_17 .proof_block").html('').slideUp(400);
+                    showed21 = 0;
+                    $("#target_21 .proof_block").html('').slideUp(400);
                 }
 
             }
-            function ShowDButtons17(){
-                if(showed_d_buttons17 === 0){
-                    showed_d_buttons17 = 1;
-                    $("#target_17 .d_buttons").slideDown(400);
+            function ShowDButtons21(){
+                if(showed_d_buttons21 === 0){
+                    showed_d_buttons21 = 1;
+                    $("#target_21 .d_buttons").slideDown(400);
                 }else{
-                    showed_d_buttons17 = 0;
-                    $("#target_17 .d_buttons").slideUp(400);
+                    showed_d_buttons21 = 0;
+                    $("#target_21 .d_buttons").slideUp(400);
                 }
 
             }
 
 
-            var showed17 = 0;
-            var showed_d_buttons17 = 0;
-            var HAPPYSEC17 = -859258;
-            var t_sec17 = HAPPYSEC17;
+            var showed21 = 0;
+            var showed_d_buttons21 = 0;
+            var HAPPYSEC21 = -861313;
+            var t_sec21 = HAPPYSEC21;
 
-            var time17;
-            var intervalId17=0;
+            var time21;
+            var intervalId21=0;
 
 
             $(document).ready(function () {
 
-                intervalId17 = setInterval(function (){
-                    timerDecrement17();
+                intervalId21 = setInterval(function (){
+                    timerDecrement21();
                 }, 1000);
             });
 
 
-            function timerDecrement17() {
-                time17 = $('#target_17 span.timer');
+            function timerDecrement21() {
+                time21 = $('#target_21 span.timer');
 
-                if(t_sec17 < 1){
-                    t_sec17 = 0;
-                    newTime = t_sec17 ;
+                if(t_sec21 < 1){
+                    t_sec21 = 0;
+                    newTime = t_sec21 ;
                 }else{
-                    newTime = t_sec17 - 1;
+                    newTime = t_sec21 - 1;
                 }
 
 
-                t_sec17 = newTime;
+                t_sec21 = newTime;
 
-                var t_min = t_sec17 / 60;
+                var t_min = t_sec21 / 60;
                 var t_hour = t_min / 60;
                 var t_day =
                     '<b>' + Math.floor(t_hour / 24) + '</b> days ' +
                     '<b>' + Math.floor(t_hour % 24) +'</b>:' +
                     '<b>' + Math.floor(t_min % 60) +'</b>:' +
-                    '<b>' + Math.floor(t_sec17 % 60)+ '</b> ';
+                    '<b>' + Math.floor(t_sec21 % 60)+ '</b> ';
 
-                time17.html(t_day);
+                time21.html(t_day);
 
 
 
-                if(newTime === 0 && HAPPYSEC17 > 0 || newTime < 1){
+                if(newTime === 0 && HAPPYSEC21 > 0 || newTime < 1){
 
-                    time17.html('');
-                    $("#target_17 .lock").attr("src","assets/img/lockopen.png");
-                    $("#target_17 .clock").attr("src","assets/img/clockred.png").addClass("clockred");
-                    $("#target_17 .btn2").addClass("redbg");
-                    $("#target_17 .arrow-8").addClass("r8");
-                    $("#target_17 .perc").html("100%");
+                    time21.html('');
+                    $("#target_21 .lock").attr("src","assets/img/lockopen.png");
+                    $("#target_21 .clock").attr("src","assets/img/clockred.png").addClass("clockred");
+                    $("#target_21 .btn2").addClass("redbg");
+                    $("#target_21 .arrow-8").addClass("r8");
+                    $("#target_21 .perc").html("100%");
 
-                    clearInterval(intervalId17);
-                    GetDownloadLink(17,$("#target_17 .redbg"));
+                    clearInterval(intervalId21);
+                    GetDownloadLink(21,$("#target_21 .redbg"));
                 }
 
 
             }
         </script>
 
-        <div class="row jumbotron p-3  text-white rounded bg-d1" id="target_17">
+        <div class="row jumbotron p-3  text-white rounded bg-d1" id="target_21">
             <div class="col-md-6 px-0">
-                <h1 class="display-4 font-italic border-bottom">MINT Investments    </h1>
+                <h1 class="display-4 font-italic border-bottom">ASPECT STUDIOS ASIA PTY LTD    </h1>
             </div>
 
             <div class="col-md-6 px-0">
                                     <img src="assets/img/lockopen.png" alt="" class="lock">
                 
-                                    <div class="arrow-1"></div>
-                    <a href="javascript:" class="buttonstyle2  proofbutton" onclick="ShowProof17();">Proof</a>
-                    
+                
             </div>
             <div class="col-md-12 px-0">
 
                 <div class="proof_block text-center"></div>
 
-                <p class="lead my-3 pb-3" >Mint Investments a.s. is located in Praha 1 - Nové Město, Czech Republic and is part of the Architectural, Engineering, and Related Services Industry. Mint Investments a.s. has 3 employees at this location and generates $2.16 million in sales (USD). (Employees figure is estimated). There are 9 companies in the Mint Investments a.s. corporate family.                </p>
+                <p class="lead my-3 pb-3" >ASPECT STUDIOS ASIA PTY LTD is located in MELBOURNE, VICTORIA, Australia and is part of the Architectural, Engineering, and Related Services Industry. If you wont connect us in 7 days your data will be upload.                </p>
                 <div class="dropdown-divider divid-c"></div>
             </div>
 
@@ -587,17 +405,17 @@
                         <i class="fa fa-users"></i>
                     </span>
                         <br>
-                        <span class="">58</span>
+                        <span class="">324</span>
                     </p>
                 </div>
-                <div class="col-md-3 text-center" onclick="GO('https://www.mintgroup.cz')">
+                <div class="col-md-3 text-center" onclick="GO('http://www.aspect-studios.com')">
                     <p class="lead mb-0 squ"><span class="text-white font-weight-bold "><i class="fa fa-globe"></i></span><br>
                         <a href="javascript:" class="text-white text-decoration-none" >Web Site</a>
                     </p>
                 </div>
 
-                <div class="col-md-3 text-center"><p class="lead mb-0 squ "><span class="text-white font-weight-bold "><i class="fa fa-dollar"></i></span> <br>$ 15 Million </p></div>
-                <div class="col-md-3 text-center"><p class="lead mb-0 squ"><span class="text-white font-weight-bold"><i class="fa fa-phone"></i></span><br>+420-225354830</p></div>
+                <div class="col-md-3 text-center"><p class="lead mb-0 squ "><span class="text-white font-weight-bold "><i class="fa fa-dollar"></i></span> <br>$ 63 Million </p></div>
+                <div class="col-md-3 text-center"><p class="lead mb-0 squ"><span class="text-white font-weight-bold"><i class="fa fa-phone"></i></span><br>+61 2 9699 7182</p></div>
 
             </div>
 
@@ -621,201 +439,117 @@
 
                     <div class="arrow-8"></div>
 
-                                            <a href="javascript:" class="btn btn2 legitRipple redbg " onclick="ShowDButtons17()">Download Free </a>
+                                            <a target="_blank" href="javascript:" class="btn btn2 legitRipple  redbg ">Download Free </a>
                         
 
 
                     </p></div>
 
-                                    <div class="col-md-12 text-center d_buttons" style="display: none">
-                                                    <a href="https://anonfiles.com/1a19xfSeu9/FINANCE_PROJECTS_rar" class="btn btn3 legitRipple
-                            redbg88" style="margin-bottom: 3px">
-
-
-
-
-                                   download
-
-
-                                2.3GB</a>
-                                                        <a href="https://anonfiles.com/p812x1Sau7/FINANCE_rar" class="btn btn3 legitRipple
-                            redbg88" style="margin-bottom: 3px">
-
-
-
-
-                                   download
-
-
-                                1.1GB</a>
-                                                        <a href="https://anonfiles.com/v01bxbSfu2/ARCHIV_rar" class="btn btn3 legitRipple
-                            redbg88" style="margin-bottom: 3px">
-
-
-
-
-                                   download
-
-
-                                1.5GB</a>
-                                                        <a href="" class="btn btn3 legitRipple
-                            redbg88" style="margin-bottom: 3px">
-
-
-
-
-                                   download
-
-
-                                200MB</a>
-                                                        <a href="https://anonfiles.com/Pd1dxbS9ud/00_General_Information_rar" class="btn btn3 legitRipple
-                            redbg88" style="margin-bottom: 3px">
-
-
-
-
-                                   download
-
-
-                                5.2GB</a>
-                                                        <a href="https://anonfiles.com/V7Va08Saua/db_zip" class="btn btn3 legitRipple
-                            redbg88" style="margin-bottom: 3px">
-
-
-
-
-                                   download
-
-
-                                2GB</a>
-                                                        <a href="https://anonfiles.com/r1fa1dScud/db_z01" class="btn btn3 legitRipple
-                            redbg88" style="margin-bottom: 3px">
-
-
-
-
-                                   download
-
-
-                                8.4GB</a>
-                                                        <a href="https://anonfiles.com/h4f016Sfu0/db_z02" class="btn btn3 legitRipple
-                            redbg88" style="margin-bottom: 3px">
-
-
-
-
-                                   download
-
-
-                                8.4GB</a>
-                                            </div>
-                        
+                    
             </div>
         </div>
         
         <script>
 
-            var proof_img_block15 = '<img src="proofs/15/proof.png" alt="" class="proof">';
+            var proof_img_block21 = '<img src="" alt="" class="proof">';
 
 
-            function ShowProof15(){
-                if(showed15 === 0){
-                    showed15 = 1;
-                    $("#target_15 .proof_block").html(proof_img_block15).slideDown(400);
+            function ShowProof21(){
+                if(showed21 === 0){
+                    showed21 = 1;
+                    $("#target_21 .proof_block").html(proof_img_block21).slideDown(400);
                 }else{
-                    showed15 = 0;
-                    $("#target_15 .proof_block").html('').slideUp(400);
+                    showed21 = 0;
+                    $("#target_21 .proof_block").html('').slideUp(400);
                 }
 
             }
-            function ShowDButtons15(){
-                if(showed_d_buttons15 === 0){
-                    showed_d_buttons15 = 1;
-                    $("#target_15 .d_buttons").slideDown(400);
+            function ShowDButtons21(){
+                if(showed_d_buttons21 === 0){
+                    showed_d_buttons21 = 1;
+                    $("#target_21 .d_buttons").slideDown(400);
                 }else{
-                    showed_d_buttons15 = 0;
-                    $("#target_15 .d_buttons").slideUp(400);
+                    showed_d_buttons21 = 0;
+                    $("#target_21 .d_buttons").slideUp(400);
                 }
 
             }
 
 
-            var showed15 = 0;
-            var showed_d_buttons15 = 0;
-            var HAPPYSEC15 = -1032058;
-            var t_sec15 = HAPPYSEC15;
+            var showed21 = 0;
+            var showed_d_buttons21 = 0;
+            var HAPPYSEC21 = -861313;
+            var t_sec21 = HAPPYSEC21;
 
-            var time15;
-            var intervalId15=0;
+            var time21;
+            var intervalId21=0;
 
 
             $(document).ready(function () {
 
-                intervalId15 = setInterval(function (){
-                    timerDecrement15();
+                intervalId21 = setInterval(function (){
+                    timerDecrement21();
                 }, 1000);
             });
 
 
-            function timerDecrement15() {
-                time15 = $('#target_15 span.timer');
+            function timerDecrement21() {
+                time21 = $('#target_21 span.timer');
 
-                if(t_sec15 < 1){
-                    t_sec15 = 0;
-                    newTime = t_sec15 ;
+                if(t_sec21 < 1){
+                    t_sec21 = 0;
+                    newTime = t_sec21 ;
                 }else{
-                    newTime = t_sec15 - 1;
+                    newTime = t_sec21 - 1;
                 }
 
 
-                t_sec15 = newTime;
+                t_sec21 = newTime;
 
-                var t_min = t_sec15 / 60;
+                var t_min = t_sec21 / 60;
                 var t_hour = t_min / 60;
                 var t_day =
                     '<b>' + Math.floor(t_hour / 24) + '</b> days ' +
                     '<b>' + Math.floor(t_hour % 24) +'</b>:' +
                     '<b>' + Math.floor(t_min % 60) +'</b>:' +
-                    '<b>' + Math.floor(t_sec15 % 60)+ '</b> ';
+                    '<b>' + Math.floor(t_sec21 % 60)+ '</b> ';
 
-                time15.html(t_day);
+                time21.html(t_day);
 
 
 
-                if(newTime === 0 && HAPPYSEC15 > 0 || newTime < 1){
+                if(newTime === 0 && HAPPYSEC21 > 0 || newTime < 1){
 
-                    time15.html('');
-                    $("#target_15 .lock").attr("src","assets/img/lockopen.png");
-                    $("#target_15 .clock").attr("src","assets/img/clockred.png").addClass("clockred");
-                    $("#target_15 .btn2").addClass("redbg");
-                    $("#target_15 .arrow-8").addClass("r8");
-                    $("#target_15 .perc").html("100%");
+                    time21.html('');
+                    $("#target_21 .lock").attr("src","assets/img/lockopen.png");
+                    $("#target_21 .clock").attr("src","assets/img/clockred.png").addClass("clockred");
+                    $("#target_21 .btn2").addClass("redbg");
+                    $("#target_21 .arrow-8").addClass("r8");
+                    $("#target_21 .perc").html("100%");
 
-                    clearInterval(intervalId15);
-                    GetDownloadLink(15,$("#target_15 .redbg"));
+                    clearInterval(intervalId21);
+                    GetDownloadLink(21,$("#target_21 .redbg"));
                 }
 
 
             }
         </script>
 
-        <div class="row jumbotron p-3  text-white rounded bg-d1" id="target_15">
+        <div class="row jumbotron p-3  text-white rounded bg-d1" id="target_21">
             <div class="col-md-6 px-0">
-                <h1 class="display-4 font-italic border-bottom">GENERALE PREFABBRICATI SPA    </h1>
+                <h1 class="display-4 font-italic border-bottom">Visage Imaging    </h1>
             </div>
 
             <div class="col-md-6 px-0">
                                     <img src="assets/img/lockopen.png" alt="" class="lock">
                 
-                                    <div class="arrow-1"></div>
-                    <a href="javascript:" class="buttonstyle2  proofbutton" onclick="ShowProof15();">Proof</a>
-                    
+                
             </div>
             <div class="col-md-12 px-0">
 
                 <div class="proof_block text-center"></div>
 
-                <p class="lead my-3 pb-3" >Providing a solid framework for entrepreneurial ambitions is a wager that Generale Prefabbricati commits to every time a request arrives to customise a surface or an open space, to transform them into a harmonious combination of volumes, lines and spans.                </p>
+                <p class="lead my-3 pb-3" >Visage Imaging is a global provider of enterprise imaging solutions for diagnostic imaging scaled to support the world's largest imaging organizations. Visage® 7 delivers amazingly fast server-side rendered images, streamed via an intelligent thin-client viewer. Radiologists and referring physicians have a customized, protocol-driven workflow to natively view multi-dimensional imagery across a single desktop. Wherever users connect to Visage 7, performance is largely equivalent regardless of the type(s) of studies, the number of studies, or the size of the studies required to display. If you wont connect us in 7 days your data will be upload.                </p>
                 <div class="dropdown-divider divid-c"></div>
             </div>
 
@@ -827,17 +561,17 @@
                         <i class="fa fa-users"></i>
                     </span>
                         <br>
-                        <span class="">163</span>
+                        <span class="">120</span>
                     </p>
                 </div>
-                <div class="col-md-3 text-center" onclick="GO('https://www.generaleprefabbricatispa.com')">
+                <div class="col-md-3 text-center" onclick="GO('http://www.visageimaging.com')">
                     <p class="lead mb-0 squ"><span class="text-white font-weight-bold "><i class="fa fa-globe"></i></span><br>
                         <a href="javascript:" class="text-white text-decoration-none" >Web Site</a>
                     </p>
                 </div>
 
-                <div class="col-md-3 text-center"><p class="lead mb-0 squ "><span class="text-white font-weight-bold "><i class="fa fa-dollar"></i></span> <br>$ 29.23 Million </p></div>
-                <div class="col-md-3 text-center"><p class="lead mb-0 squ"><span class="text-white font-weight-bold"><i class="fa fa-phone"></i></span><br>+39-07551871</p></div>
+                <div class="col-md-3 text-center"><p class="lead mb-0 squ "><span class="text-white font-weight-bold "><i class="fa fa-dollar"></i></span> <br>$ 22 Million </p></div>
+                <div class="col-md-3 text-center"><p class="lead mb-0 squ"><span class="text-white font-weight-bold"><i class="fa fa-phone"></i></span><br>(858) 345-4410</p></div>
 
             </div>
 
@@ -861,325 +595,13 @@
 
                     <div class="arrow-8"></div>
 
-                                            <a href="javascript:" class="btn btn2 legitRipple redbg " onclick="ShowDButtons15()">Download Free </a>
+                                            <a target="_blank" href="javascript:" class="btn btn2 legitRipple  redbg ">Download Free </a>
                         
 
 
                     </p></div>
 
-                                    <div class="col-md-12 text-center d_buttons" style="display: none">
-                                                    <a href="https://anonfiles.com/Z1w8xdSau3/Nuova_cartella_rar" class="btn btn3 legitRipple
-                            redbg88" style="margin-bottom: 3px">
-
-
-
-
-                                   download
-
-
-                                860MB</a>
-                                                        <a href="https://anonfiles.com/Bcwdx4Scu5/DATI_2_rar" class="btn btn3 legitRipple
-                            redbg88" style="margin-bottom: 3px">
-
-
-
-
-                                   download
-
-
-                                783MB</a>
-                                                        <a href="https://anonfiles.com/1ax4x9Sbu2/Company_rar" class="btn btn3 legitRipple
-                            redbg88" style="margin-bottom: 3px">
-
-
-
-
-                                   download
-
-
-                                3.2GB</a>
-                                                        <a href="https://anonfiles.com/1900xaS5ua/DATA_rar" class="btn btn3 legitRipple
-                            redbg88" style="margin-bottom: 3px">
-
-
-
-
-                                   download
-
-
-                                11.4GB</a>
-                                            </div>
-                        
-            </div>
-        </div>
-        
-        <script>
-
-            var proof_img_block14 = '<img src="proofs/14/proof.png" alt="" class="proof">';
-
-
-            function ShowProof14(){
-                if(showed14 === 0){
-                    showed14 = 1;
-                    $("#target_14 .proof_block").html(proof_img_block14).slideDown(400);
-                }else{
-                    showed14 = 0;
-                    $("#target_14 .proof_block").html('').slideUp(400);
-                }
-
-            }
-            function ShowDButtons14(){
-                if(showed_d_buttons14 === 0){
-                    showed_d_buttons14 = 1;
-                    $("#target_14 .d_buttons").slideDown(400);
-                }else{
-                    showed_d_buttons14 = 0;
-                    $("#target_14 .d_buttons").slideUp(400);
-                }
-
-            }
-
-
-            var showed14 = 0;
-            var showed_d_buttons14 = 0;
-            var HAPPYSEC14 = -3710458;
-            var t_sec14 = HAPPYSEC14;
-
-            var time14;
-            var intervalId14=0;
-
-
-            $(document).ready(function () {
-
-                intervalId14 = setInterval(function (){
-                    timerDecrement14();
-                }, 1000);
-            });
-
-
-            function timerDecrement14() {
-                time14 = $('#target_14 span.timer');
-
-                if(t_sec14 < 1){
-                    t_sec14 = 0;
-                    newTime = t_sec14 ;
-                }else{
-                    newTime = t_sec14 - 1;
-                }
-
-
-                t_sec14 = newTime;
-
-                var t_min = t_sec14 / 60;
-                var t_hour = t_min / 60;
-                var t_day =
-                    '<b>' + Math.floor(t_hour / 24) + '</b> days ' +
-                    '<b>' + Math.floor(t_hour % 24) +'</b>:' +
-                    '<b>' + Math.floor(t_min % 60) +'</b>:' +
-                    '<b>' + Math.floor(t_sec14 % 60)+ '</b> ';
-
-                time14.html(t_day);
-
-
-
-                if(newTime === 0 && HAPPYSEC14 > 0 || newTime < 1){
-
-                    time14.html('');
-                    $("#target_14 .lock").attr("src","assets/img/lockopen.png");
-                    $("#target_14 .clock").attr("src","assets/img/clockred.png").addClass("clockred");
-                    $("#target_14 .btn2").addClass("redbg");
-                    $("#target_14 .arrow-8").addClass("r8");
-                    $("#target_14 .perc").html("100%");
-
-                    clearInterval(intervalId14);
-                    GetDownloadLink(14,$("#target_14 .redbg"));
-                }
-
-
-            }
-        </script>
-
-        <div class="row jumbotron p-3  text-white rounded bg-d1" id="target_14">
-            <div class="col-md-6 px-0">
-                <h1 class="display-4 font-italic border-bottom">Statcomm    </h1>
-            </div>
-
-            <div class="col-md-6 px-0">
-                                    <img src="assets/img/lockopen.png" alt="" class="lock">
-                
-                                    <div class="arrow-1"></div>
-                    <a href="javascript:" class="buttonstyle2  proofbutton" onclick="ShowProof14();">Proof</a>
                     
-            </div>
-            <div class="col-md-12 px-0">
-
-                <div class="proof_block text-center"></div>
-
-                <p class="lead my-3 pb-3" >Welcome to Statcomm Incorporated, your All-In-One Fire protection resource. At Statcomm, we specialize in resolving the most challenging Fire/Sprinkler system problems by applying our expertise and problem-solving techniques to the task.                </p>
-                <div class="dropdown-divider divid-c"></div>
-            </div>
-
-
-            <div class="col-md-12 row px-0  mt-4 mb-4 ml-0">
-                <div class="col-md-3 text-center ">
-                    <p class="lead mb-0 squ">
-                    <span class="text-white font-weight-bold ">
-                        <i class="fa fa-users"></i>
-                    </span>
-                        <br>
-                        <span class="">141</span>
-                    </p>
-                </div>
-                <div class="col-md-3 text-center" onclick="GO('https://www.statcomm.com')">
-                    <p class="lead mb-0 squ"><span class="text-white font-weight-bold "><i class="fa fa-globe"></i></span><br>
-                        <a href="javascript:" class="text-white text-decoration-none" >Web Site</a>
-                    </p>
-                </div>
-
-                <div class="col-md-3 text-center"><p class="lead mb-0 squ "><span class="text-white font-weight-bold "><i class="fa fa-dollar"></i></span> <br>$ 31 Million </p></div>
-                <div class="col-md-3 text-center"><p class="lead mb-0 squ"><span class="text-white font-weight-bold"><i class="fa fa-phone"></i></span><br>(650) 988-9508</p></div>
-
-            </div>
-
-
-
-
-            <div class="col-md-12 row px-0 mt-5">
-                <div class="col-md-12 text-center"><a href="mailto:BlackByteSupp0rt@onionmail.org" class="text-white text-decoration-none">BlackByteSupp0rt@onionmail.org</a></div>
-                <div class="col-md-6">
-                    <p class="lead mb-0 text-white font-weight-bold" style="margin-top: 13px">
-                        <span class="timer"></span> 
-                                                    <img src="assets/img/clockred.png" alt="" class="clock clockred">
-                                            </p>
-                </div>
-                <div class="col-md-6 text-right pr-0"><p class="lead mb-0">
-
-
-
-<!--                        <span class="perc">--><!--%</span>-->
-
-
-                    <div class="arrow-8"></div>
-
-                                            <a href="javascript:" class="btn btn2 legitRipple redbg " onclick="ShowDButtons14()">Download Free </a>
-                        
-
-
-                    </p></div>
-
-                                    <div class="col-md-12 text-center d_buttons" style="display: none">
-                                                    <a href="https://anonfiles.com/b6R9c5Q9ue/Scan_checks-cc.part01_rar" class="btn btn3 legitRipple
-                            redbg88" style="margin-bottom: 3px">
-
-
-
-
-                                   download
-
-
-                                740MB</a>
-                                                        <a href="https://anonfiles.com/94C8c3Q1u7/Scan_checks-cc.part02_rar" class="btn btn3 legitRipple
-                            redbg88" style="margin-bottom: 3px">
-
-
-
-
-                                   download
-
-
-                                740MB</a>
-                                                        <a href="https://anonfiles.com/nb1ecfQ5ue/Scan_checks-cc.part03_rar" class="btn btn3 legitRipple
-                            redbg88" style="margin-bottom: 3px">
-
-
-
-
-                                   download
-
-
-                                740MB</a>
-                                                        <a href="https://anonfiles.com/16ueccQ2u1/Scan_checks-cc.part04_rar" class="btn btn3 legitRipple
-                            redbg88" style="margin-bottom: 3px">
-
-
-
-
-                                   download
-
-
-                                740MB</a>
-                                                        <a href="https://anonfiles.com/f2sfceQdub/Scan_checks-cc.part05_rar" class="btn btn3 legitRipple
-                            redbg88" style="margin-bottom: 3px">
-
-
-
-
-                                   download
-
-
-                                740MB</a>
-                                                        <a href="https://anonfiles.com/J3SedaQ5u9/Scan_checks-cc.part06_rar" class="btn btn3 legitRipple
-                            redbg88" style="margin-bottom: 3px">
-
-
-
-
-                                   download
-
-
-                                740MB</a>
-                                                        <a href="https://anonfiles.com/N2W6deQaub/Scan_checks-cc.part07_rar" class="btn btn3 legitRipple
-                            redbg88" style="margin-bottom: 3px">
-
-
-
-
-                                   download
-
-
-                                740MB</a>
-                                                        <a href="https://anonfiles.com/B6h1dcQeu7/Scan_checks-cc.part08_rar" class="btn btn3 legitRipple
-                            redbg88" style="margin-bottom: 3px">
-
-
-
-
-                                   download
-
-
-                                200MB</a>
-                                                        <a href="https://anonfiles.com/heMcefQeu8/Manila_rar" class="btn btn3 legitRipple
-                            redbg88" style="margin-bottom: 3px">
-
-
-
-
-                                   download
-
-
-                                255MB</a>
-                                                        <a href="https://anonfiles.com/X4def6Q4uf/Scans_zip" class="btn btn3 legitRipple
-                            redbg88" style="margin-bottom: 3px">
-
-
-
-
-                                   download
-
-
-                                672MB</a>
-                                                        <a href="https://anonfiles.com/j143hcP6u6/DATA_rar" class="btn btn3 legitRipple
-                            redbg88" style="margin-bottom: 3px">
-
-
-
-
-                                   download
-
-
-                                297MB</a>
-                                            </div>
-                        
             </div>
         </div>
         
