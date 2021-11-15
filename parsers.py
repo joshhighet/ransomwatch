@@ -4,10 +4,12 @@
 parses the source html for each group where a parser exists & contributed to the post dictionary
 always remember..... https://stackoverflow.com/questions/1732348/regex-match-open-tags-except-xhtml-self-contained-tags/1732454#1732454
 '''
+import os
 import json
 from datetime import datetime
 
 from sharedutils import openjson
+from sharedutils import todiscord
 from sharedutils import runshellcmd
 from sharedutils import stdlog, dbglog, errlog, honk
 
@@ -59,6 +61,9 @@ def appender(post_title, group_name):
             '''
             dbglog('writing changes to posts.json')
             json.dump(posts, outfile, indent=4, ensure_ascii=False)
+        # if DISCORD_WEBHOOK is set, post to discord
+        if os.environ.get('DISCORD_WEBHOOK') is not None:
+            todiscord(newpost['post_title'], newpost['group_name'])
 
 '''
 all parsers here are shell - mix of grep/sed/awk & perl - runshellcmd is a wrapper for subprocess.run

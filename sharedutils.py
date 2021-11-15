@@ -3,6 +3,7 @@
 '''
 collection of shared modules used throughout ransomwatch
 '''
+import os
 import sys
 import json
 import socket
@@ -384,3 +385,38 @@ def countcaptchahosts():
         if group['captcha'] is True:
             captcha_count += 1
     return captcha_count
+
+def todiscord(post_title, group):
+    '''
+    sends a post to a discord webhook defined as an envar
+    '''
+    dbglog('sharedutils: ' + 'sending to discord webhook')
+    discord_data = '''
+    {
+    "content": "`%s`",
+    "embeds": [
+        {
+        "color": null,
+        "author": {
+            "name": "%s",
+            "url": "https://ransomwatch.telemetry.ltd/#/profiles?id=%s",
+            "icon_url": "https://avatars.githubusercontent.com/u/10137"
+        }
+        }
+    ]
+    }''' % (post_title, group, group)
+    discord_json = json.loads(discord_data)
+    stdlog('sharedutils: ' + 'sending to discord webhook')
+    try:
+        dscheaders = {
+            'Content-Type': 'application/json',
+            'Accept': 'application/json'
+        }
+        hook_uri = os.environ.get('DISCORD_WEBHOOK')
+        hookpost = requests.post(hook_uri, json=discord_json, headers=dscheaders)
+    except Exception as e:
+        honk('sharedutils: ' + 'error sending discord webhook - ' + str(e))
+    if hookpost.status_code == 204:
+        return True
+    else:
+        honk('sharedutils: ' + 'recieved discord webhook error resonse ' + str(hookpost.status_code) + ' with text ' + str(hookpost.text))

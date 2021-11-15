@@ -27,6 +27,8 @@ jobs:
         run: |
           python3 ransomwatch.py scrape
       - name: run parser
+        env: 
+          DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
         run: |
           python3 ransomwatch.py parse
       - name: generate markdown & graphs for docsify
