@@ -2,6 +2,7 @@
 
 | date | title | group |
 |---|---|---|
+| 2021-11-15 | `Police Brazil` | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2021-11-13 | `Società Italiana degli Autori ed Editori / Data on sale` | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2021-11-13 | `Cabinet Remy Le Bonnois / Data on sale / Charlie Hebdo` | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2021-11-13 | `Visage Imaging` | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
@@ -101,4 +102,3 @@
 | 2021-11-08 | `Family Dentist Newbury` | [pysa](https://ransomwatch.telemetry.ltd/#/profiles?id=pysa) |
 | 2021-11-08 | `ProActive Works` | [pysa](https://ransomwatch.telemetry.ltd/#/profiles?id=pysa) |
 | 2021-11-08 | `DiputaciÃ³n de Segovia` | [pysa](https://ransomwatch.telemetry.ltd/#/profiles?id=pysa) |
-| 2021-11-08 | `City of Bridgeport, WV` | [pysa](https://ransomwatch.telemetry.ltd/#/profiles?id=pysa) |
