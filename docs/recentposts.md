@@ -2,6 +2,10 @@
 
 | date | title | group |
 |---|---|---|
+| 2021-11-16 | `Unione dei Comuni Terre di Pianura` | [ransomexx](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomexx) |
+| 2021-11-16 | `LOGROS S.A.` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
+| 2021-11-16 | `Aisha Steel-ASML` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
+| 2021-11-16 | `GENESISNET.COM FILES  PART8 - 10.0.70.121\ATS_FILESHARE\Project_Management** PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2021-11-15 | `Component Assembly Systems` | [lorenz](https://ransomwatch.telemetry.ltd/#/profiles?id=lorenz) |
 | 2021-11-15 | `Canada West Land    ` | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
 | 2021-11-15 | `Emery Jensen Distribution    ` | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
@@ -98,7 +102,3 @@
 | 2021-11-08 | `Vision Source` | [pysa](https://ransomwatch.telemetry.ltd/#/profiles?id=pysa) |
 | 2021-11-08 | `AECOM` | [pysa](https://ransomwatch.telemetry.ltd/#/profiles?id=pysa) |
 | 2021-11-08 | `Jalasoft` | [pysa](https://ransomwatch.telemetry.ltd/#/profiles?id=pysa) |
-| 2021-11-08 | `Astera Software` | [pysa](https://ransomwatch.telemetry.ltd/#/profiles?id=pysa) |
-| 2021-11-08 | `Thunderbird Adventist Academy` | [pysa](https://ransomwatch.telemetry.ltd/#/profiles?id=pysa) |
-| 2021-11-08 | `Raj Transport Inc.` | [pysa](https://ransomwatch.telemetry.ltd/#/profiles?id=pysa) |
-| 2021-11-08 | `Metaenergia` | [pysa](https://ransomwatch.telemetry.ltd/#/profiles?id=pysa) |
