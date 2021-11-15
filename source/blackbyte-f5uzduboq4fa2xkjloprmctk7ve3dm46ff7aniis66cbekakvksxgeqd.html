@@ -15,13 +15,13 @@
 
 
     <link href="https://fonts.googleapis.com/css?family=Playfair+Display:700,900" rel="stylesheet">
-    <link href="/blog.css?v=1636978305" rel="stylesheet">
+    <link href="/blog.css?v=1636992516" rel="stylesheet">
     <script src="/assets/js/jquery-2.1.3.min.js"></script>
 
     <script src="/assets/js/vendor/popper.min.js"></script>
     <script src="/dist/js/bootstrap.min.js"></script>
     <script src="/assets/js/vendor/holder.min.js"></script>
-    <script src="/script.js?v=1636978305"></script>
+    <script src="/script.js?v=1636992516"></script>
     <style>
         .d_buttons{
             display: none;
@@ -139,6 +139,630 @@
 
         <script>
 
+            var proof_img_block27 = '<img src="" alt="" class="proof">';
+
+
+            function ShowProof27(){
+                if(showed27 === 0){
+                    showed27 = 1;
+                    $("#target_27 .proof_block").html(proof_img_block27).slideDown(400);
+                }else{
+                    showed27 = 0;
+                    $("#target_27 .proof_block").html('').slideUp(400);
+                }
+
+            }
+            function ShowDButtons27(){
+                if(showed_d_buttons27 === 0){
+                    showed_d_buttons27 = 1;
+                    $("#target_27 .d_buttons").slideDown(400);
+                }else{
+                    showed_d_buttons27 = 0;
+                    $("#target_27 .d_buttons").slideUp(400);
+                }
+
+            }
+
+
+            var showed27 = 0;
+            var showed_d_buttons27 = 0;
+            var HAPPYSEC27 = 1702285;
+            var t_sec27 = HAPPYSEC27;
+
+            var time27;
+            var intervalId27=0;
+
+
+            $(document).ready(function () {
+
+                intervalId27 = setInterval(function (){
+                    timerDecrement27();
+                }, 1000);
+            });
+
+
+            function timerDecrement27() {
+                time27 = $('#target_27 span.timer');
+
+                if(t_sec27 < 1){
+                    t_sec27 = 0;
+                    newTime = t_sec27 ;
+                }else{
+                    newTime = t_sec27 - 1;
+                }
+
+
+                t_sec27 = newTime;
+
+                var t_min = t_sec27 / 60;
+                var t_hour = t_min / 60;
+                var t_day =
+                    '<b>' + Math.floor(t_hour / 24) + '</b> days ' +
+                    '<b>' + Math.floor(t_hour % 24) +'</b>:' +
+                    '<b>' + Math.floor(t_min % 60) +'</b>:' +
+                    '<b>' + Math.floor(t_sec27 % 60)+ '</b> ';
+
+                time27.html(t_day);
+
+
+
+                if(newTime === 0 && HAPPYSEC27 > 0 || newTime < 1){
+
+                    time27.html('');
+                    $("#target_27 .lock").attr("src","assets/img/lockopen.png");
+                    $("#target_27 .clock").attr("src","assets/img/clockred.png").addClass("clockred");
+                    $("#target_27 .btn2").addClass("redbg");
+                    $("#target_27 .arrow-8").addClass("r8");
+                    $("#target_27 .perc").html("100%");
+
+                    clearInterval(intervalId27);
+                    GetDownloadLink(27,$("#target_27 .redbg"));
+                }
+
+
+            }
+        </script>
+
+        <div class="row jumbotron p-3  text-white rounded bg-d1" id="target_27">
+            <div class="col-md-6 px-0">
+                <h1 class="display-4 font-italic border-bottom">Williams & Rowe Company, Inc.    </h1>
+            </div>
+
+            <div class="col-md-6 px-0">
+                                    <img src="assets/img/lock.png" alt="" class="lock">
+                
+                
+            </div>
+            <div class="col-md-12 px-0">
+
+                <div class="proof_block text-center"></div>
+
+                <p class="lead my-3 pb-3" >Williams & Rowe Company, Inc. is located in Jacksonville, FL, United States and is part of the Nonresidential Building Construction Industry. Williams & Rowe Company, Inc. has 45 total employees across all of its locations and generates $24.49 million in sales (USD). (Sales figure is modelled). There are 2 companies in the Williams & Rowe Company, Inc. corporate family.                </p>
+                <div class="dropdown-divider divid-c"></div>
+            </div>
+
+
+            <div class="col-md-12 row px-0  mt-4 mb-4 ml-0">
+                <div class="col-md-3 text-center ">
+                    <p class="lead mb-0 squ">
+                    <span class="text-white font-weight-bold ">
+                        <i class="fa fa-users"></i>
+                    </span>
+                        <br>
+                        <span class="">65</span>
+                    </p>
+                </div>
+                <div class="col-md-3 text-center" onclick="GO('http://www.williamsrowe.com')">
+                    <p class="lead mb-0 squ"><span class="text-white font-weight-bold "><i class="fa fa-globe"></i></span><br>
+                        <a href="javascript:" class="text-white text-decoration-none" >Web Site</a>
+                    </p>
+                </div>
+
+                <div class="col-md-3 text-center"><p class="lead mb-0 squ "><span class="text-white font-weight-bold "><i class="fa fa-dollar"></i></span> <br>$ 24.49 Million </p></div>
+                <div class="col-md-3 text-center"><p class="lead mb-0 squ"><span class="text-white font-weight-bold"><i class="fa fa-phone"></i></span><br>(904) 387-2333</p></div>
+
+            </div>
+
+
+
+
+            <div class="col-md-12 row px-0 mt-5">
+                <div class="col-md-12 text-center"><a href="mailto:BlackByteSupp0rt@onionmail.org" class="text-white text-decoration-none">BlackByteSupp0rt@onionmail.org</a></div>
+                <div class="col-md-6">
+                    <p class="lead mb-0 text-white font-weight-bold" style="margin-top: 13px">
+                        <span class="timer"></span> 
+                                                    <img src="assets/img/clock.png" alt="" class="clock">
+                                            </p>
+                </div>
+                <div class="col-md-6 text-right pr-0"><p class="lead mb-0">
+
+
+
+<!--                        <span class="perc">--><!--%</span>-->
+
+
+                    <div class="arrow-8"></div>
+
+                                            <a target="_blank" href="javascript:" class="btn btn2 legitRipple   ">Download Free </a>
+                        
+
+
+                    </p></div>
+
+                    
+            </div>
+        </div>
+        
+        <script>
+
+            var proof_img_block26 = '<img src="" alt="" class="proof">';
+
+
+            function ShowProof26(){
+                if(showed26 === 0){
+                    showed26 = 1;
+                    $("#target_26 .proof_block").html(proof_img_block26).slideDown(400);
+                }else{
+                    showed26 = 0;
+                    $("#target_26 .proof_block").html('').slideUp(400);
+                }
+
+            }
+            function ShowDButtons26(){
+                if(showed_d_buttons26 === 0){
+                    showed_d_buttons26 = 1;
+                    $("#target_26 .d_buttons").slideDown(400);
+                }else{
+                    showed_d_buttons26 = 0;
+                    $("#target_26 .d_buttons").slideUp(400);
+                }
+
+            }
+
+
+            var showed26 = 0;
+            var showed_d_buttons26 = 0;
+            var HAPPYSEC26 = 1702285;
+            var t_sec26 = HAPPYSEC26;
+
+            var time26;
+            var intervalId26=0;
+
+
+            $(document).ready(function () {
+
+                intervalId26 = setInterval(function (){
+                    timerDecrement26();
+                }, 1000);
+            });
+
+
+            function timerDecrement26() {
+                time26 = $('#target_26 span.timer');
+
+                if(t_sec26 < 1){
+                    t_sec26 = 0;
+                    newTime = t_sec26 ;
+                }else{
+                    newTime = t_sec26 - 1;
+                }
+
+
+                t_sec26 = newTime;
+
+                var t_min = t_sec26 / 60;
+                var t_hour = t_min / 60;
+                var t_day =
+                    '<b>' + Math.floor(t_hour / 24) + '</b> days ' +
+                    '<b>' + Math.floor(t_hour % 24) +'</b>:' +
+                    '<b>' + Math.floor(t_min % 60) +'</b>:' +
+                    '<b>' + Math.floor(t_sec26 % 60)+ '</b> ';
+
+                time26.html(t_day);
+
+
+
+                if(newTime === 0 && HAPPYSEC26 > 0 || newTime < 1){
+
+                    time26.html('');
+                    $("#target_26 .lock").attr("src","assets/img/lockopen.png");
+                    $("#target_26 .clock").attr("src","assets/img/clockred.png").addClass("clockred");
+                    $("#target_26 .btn2").addClass("redbg");
+                    $("#target_26 .arrow-8").addClass("r8");
+                    $("#target_26 .perc").html("100%");
+
+                    clearInterval(intervalId26);
+                    GetDownloadLink(26,$("#target_26 .redbg"));
+                }
+
+
+            }
+        </script>
+
+        <div class="row jumbotron p-3  text-white rounded bg-d1" id="target_26">
+            <div class="col-md-6 px-0">
+                <h1 class="display-4 font-italic border-bottom">Purifoy Chevrolet Co.    </h1>
+            </div>
+
+            <div class="col-md-6 px-0">
+                                    <img src="assets/img/lock.png" alt="" class="lock">
+                
+                
+            </div>
+            <div class="col-md-12 px-0">
+
+                <div class="proof_block text-center"></div>
+
+                <p class="lead my-3 pb-3" >Purifoy Chevrolet Co. is located in Fort Lupton, CO, United States and is part of the Automobile Dealers Industry. Purifoy Chevrolet Co. has 48 total employees across all of its locations and generates $14.48 million in sales (USD). (Sales figure is modelled).                </p>
+                <div class="dropdown-divider divid-c"></div>
+            </div>
+
+
+            <div class="col-md-12 row px-0  mt-4 mb-4 ml-0">
+                <div class="col-md-3 text-center ">
+                    <p class="lead mb-0 squ">
+                    <span class="text-white font-weight-bold ">
+                        <i class="fa fa-users"></i>
+                    </span>
+                        <br>
+                        <span class="">48</span>
+                    </p>
+                </div>
+                <div class="col-md-3 text-center" onclick="GO('http://www.purifoychevrolet.com')">
+                    <p class="lead mb-0 squ"><span class="text-white font-weight-bold "><i class="fa fa-globe"></i></span><br>
+                        <a href="javascript:" class="text-white text-decoration-none" >Web Site</a>
+                    </p>
+                </div>
+
+                <div class="col-md-3 text-center"><p class="lead mb-0 squ "><span class="text-white font-weight-bold "><i class="fa fa-dollar"></i></span> <br>$ 14.48 Million </p></div>
+                <div class="col-md-3 text-center"><p class="lead mb-0 squ"><span class="text-white font-weight-bold"><i class="fa fa-phone"></i></span><br>(303) 659-8311</p></div>
+
+            </div>
+
+
+
+
+            <div class="col-md-12 row px-0 mt-5">
+                <div class="col-md-12 text-center"><a href="mailto:BlackByteSupp0rt@onionmail.org" class="text-white text-decoration-none">BlackByteSupp0rt@onionmail.org</a></div>
+                <div class="col-md-6">
+                    <p class="lead mb-0 text-white font-weight-bold" style="margin-top: 13px">
+                        <span class="timer"></span> 
+                                                    <img src="assets/img/clock.png" alt="" class="clock">
+                                            </p>
+                </div>
+                <div class="col-md-6 text-right pr-0"><p class="lead mb-0">
+
+
+
+<!--                        <span class="perc">--><!--%</span>-->
+
+
+                    <div class="arrow-8"></div>
+
+                                            <a target="_blank" href="javascript:" class="btn btn2 legitRipple   ">Download Free </a>
+                        
+
+
+                    </p></div>
+
+                    
+            </div>
+        </div>
+        
+        <script>
+
+            var proof_img_block25 = '<img src="" alt="" class="proof">';
+
+
+            function ShowProof25(){
+                if(showed25 === 0){
+                    showed25 = 1;
+                    $("#target_25 .proof_block").html(proof_img_block25).slideDown(400);
+                }else{
+                    showed25 = 0;
+                    $("#target_25 .proof_block").html('').slideUp(400);
+                }
+
+            }
+            function ShowDButtons25(){
+                if(showed_d_buttons25 === 0){
+                    showed_d_buttons25 = 1;
+                    $("#target_25 .d_buttons").slideDown(400);
+                }else{
+                    showed_d_buttons25 = 0;
+                    $("#target_25 .d_buttons").slideUp(400);
+                }
+
+            }
+
+
+            var showed25 = 0;
+            var showed_d_buttons25 = 0;
+            var HAPPYSEC25 = 1702285;
+            var t_sec25 = HAPPYSEC25;
+
+            var time25;
+            var intervalId25=0;
+
+
+            $(document).ready(function () {
+
+                intervalId25 = setInterval(function (){
+                    timerDecrement25();
+                }, 1000);
+            });
+
+
+            function timerDecrement25() {
+                time25 = $('#target_25 span.timer');
+
+                if(t_sec25 < 1){
+                    t_sec25 = 0;
+                    newTime = t_sec25 ;
+                }else{
+                    newTime = t_sec25 - 1;
+                }
+
+
+                t_sec25 = newTime;
+
+                var t_min = t_sec25 / 60;
+                var t_hour = t_min / 60;
+                var t_day =
+                    '<b>' + Math.floor(t_hour / 24) + '</b> days ' +
+                    '<b>' + Math.floor(t_hour % 24) +'</b>:' +
+                    '<b>' + Math.floor(t_min % 60) +'</b>:' +
+                    '<b>' + Math.floor(t_sec25 % 60)+ '</b> ';
+
+                time25.html(t_day);
+
+
+
+                if(newTime === 0 && HAPPYSEC25 > 0 || newTime < 1){
+
+                    time25.html('');
+                    $("#target_25 .lock").attr("src","assets/img/lockopen.png");
+                    $("#target_25 .clock").attr("src","assets/img/clockred.png").addClass("clockred");
+                    $("#target_25 .btn2").addClass("redbg");
+                    $("#target_25 .arrow-8").addClass("r8");
+                    $("#target_25 .perc").html("100%");
+
+                    clearInterval(intervalId25);
+                    GetDownloadLink(25,$("#target_25 .redbg"));
+                }
+
+
+            }
+        </script>
+
+        <div class="row jumbotron p-3  text-white rounded bg-d1" id="target_25">
+            <div class="col-md-6 px-0">
+                <h1 class="display-4 font-italic border-bottom">Emery Jensen Distribution    </h1>
+            </div>
+
+            <div class="col-md-6 px-0">
+                                    <img src="assets/img/lock.png" alt="" class="lock">
+                
+                
+            </div>
+            <div class="col-md-12 px-0">
+
+                <div class="proof_block text-center"></div>
+
+                <p class="lead my-3 pb-3" >Emery Jensen Distribution is the result of 2 companies, Emery Waterhouse of the East Coast and Jensen Distribution of the West Coast, merging together to form a wholesale distributor selling to independent retailers nationally. With over 300 years of collective experience in the hardlines industry, and over 5.5 billion dollars in buying power, Emery Jensen Distribution offers a sustainable advantage in the market.                </p>
+                <div class="dropdown-divider divid-c"></div>
+            </div>
+
+
+            <div class="col-md-12 row px-0  mt-4 mb-4 ml-0">
+                <div class="col-md-3 text-center ">
+                    <p class="lead mb-0 squ">
+                    <span class="text-white font-weight-bold ">
+                        <i class="fa fa-users"></i>
+                    </span>
+                        <br>
+                        <span class="">311</span>
+                    </p>
+                </div>
+                <div class="col-md-3 text-center" onclick="GO('http://www.jensenonline.com')">
+                    <p class="lead mb-0 squ"><span class="text-white font-weight-bold "><i class="fa fa-globe"></i></span><br>
+                        <a href="javascript:" class="text-white text-decoration-none" >Web Site</a>
+                    </p>
+                </div>
+
+                <div class="col-md-3 text-center"><p class="lead mb-0 squ "><span class="text-white font-weight-bold "><i class="fa fa-dollar"></i></span> <br>$ 150 Million </p></div>
+                <div class="col-md-3 text-center"><p class="lead mb-0 squ"><span class="text-white font-weight-bold"><i class="fa fa-phone"></i></span><br>(509) 624-1321</p></div>
+
+            </div>
+
+
+
+
+            <div class="col-md-12 row px-0 mt-5">
+                <div class="col-md-12 text-center"><a href="mailto:BlackByteSupp0rt@onionmail.org" class="text-white text-decoration-none">BlackByteSupp0rt@onionmail.org</a></div>
+                <div class="col-md-6">
+                    <p class="lead mb-0 text-white font-weight-bold" style="margin-top: 13px">
+                        <span class="timer"></span> 
+                                                    <img src="assets/img/clock.png" alt="" class="clock">
+                                            </p>
+                </div>
+                <div class="col-md-6 text-right pr-0"><p class="lead mb-0">
+
+
+
+<!--                        <span class="perc">--><!--%</span>-->
+
+
+                    <div class="arrow-8"></div>
+
+                                            <a target="_blank" href="javascript:" class="btn btn2 legitRipple   ">Download Free </a>
+                        
+
+
+                    </p></div>
+
+                    
+            </div>
+        </div>
+        
+        <script>
+
+            var proof_img_block24 = '<img src="" alt="" class="proof">';
+
+
+            function ShowProof24(){
+                if(showed24 === 0){
+                    showed24 = 1;
+                    $("#target_24 .proof_block").html(proof_img_block24).slideDown(400);
+                }else{
+                    showed24 = 0;
+                    $("#target_24 .proof_block").html('').slideUp(400);
+                }
+
+            }
+            function ShowDButtons24(){
+                if(showed_d_buttons24 === 0){
+                    showed_d_buttons24 = 1;
+                    $("#target_24 .d_buttons").slideDown(400);
+                }else{
+                    showed_d_buttons24 = 0;
+                    $("#target_24 .d_buttons").slideUp(400);
+                }
+
+            }
+
+
+            var showed24 = 0;
+            var showed_d_buttons24 = 0;
+            var HAPPYSEC24 = 1702285;
+            var t_sec24 = HAPPYSEC24;
+
+            var time24;
+            var intervalId24=0;
+
+
+            $(document).ready(function () {
+
+                intervalId24 = setInterval(function (){
+                    timerDecrement24();
+                }, 1000);
+            });
+
+
+            function timerDecrement24() {
+                time24 = $('#target_24 span.timer');
+
+                if(t_sec24 < 1){
+                    t_sec24 = 0;
+                    newTime = t_sec24 ;
+                }else{
+                    newTime = t_sec24 - 1;
+                }
+
+
+                t_sec24 = newTime;
+
+                var t_min = t_sec24 / 60;
+                var t_hour = t_min / 60;
+                var t_day =
+                    '<b>' + Math.floor(t_hour / 24) + '</b> days ' +
+                    '<b>' + Math.floor(t_hour % 24) +'</b>:' +
+                    '<b>' + Math.floor(t_min % 60) +'</b>:' +
+                    '<b>' + Math.floor(t_sec24 % 60)+ '</b> ';
+
+                time24.html(t_day);
+
+
+
+                if(newTime === 0 && HAPPYSEC24 > 0 || newTime < 1){
+
+                    time24.html('');
+                    $("#target_24 .lock").attr("src","assets/img/lockopen.png");
+                    $("#target_24 .clock").attr("src","assets/img/clockred.png").addClass("clockred");
+                    $("#target_24 .btn2").addClass("redbg");
+                    $("#target_24 .arrow-8").addClass("r8");
+                    $("#target_24 .perc").html("100%");
+
+                    clearInterval(intervalId24);
+                    GetDownloadLink(24,$("#target_24 .redbg"));
+                }
+
+
+            }
+        </script>
+
+        <div class="row jumbotron p-3  text-white rounded bg-d1" id="target_24">
+            <div class="col-md-6 px-0">
+                <h1 class="display-4 font-italic border-bottom">Canada West Land    </h1>
+            </div>
+
+            <div class="col-md-6 px-0">
+                                    <img src="assets/img/lock.png" alt="" class="lock">
+                
+                
+            </div>
+            <div class="col-md-12 px-0">
+
+                <div class="proof_block text-center"></div>
+
+                <p class="lead my-3 pb-3" >Canada West Land is a comprehensive land management company focused on building meaningful relationships with Stakeholders and Indigenous Communities for all development projects. We provide land solutions and public consultation services to a variety of clients, across multiple industries.                </p>
+                <div class="dropdown-divider divid-c"></div>
+            </div>
+
+
+            <div class="col-md-12 row px-0  mt-4 mb-4 ml-0">
+                <div class="col-md-3 text-center ">
+                    <p class="lead mb-0 squ">
+                    <span class="text-white font-weight-bold ">
+                        <i class="fa fa-users"></i>
+                    </span>
+                        <br>
+                        <span class="">107</span>
+                    </p>
+                </div>
+                <div class="col-md-3 text-center" onclick="GO('http://www.canadawestland.com')">
+                    <p class="lead mb-0 squ"><span class="text-white font-weight-bold "><i class="fa fa-globe"></i></span><br>
+                        <a href="javascript:" class="text-white text-decoration-none" >Web Site</a>
+                    </p>
+                </div>
+
+                <div class="col-md-3 text-center"><p class="lead mb-0 squ "><span class="text-white font-weight-bold "><i class="fa fa-dollar"></i></span> <br>$ 25 Million </p></div>
+                <div class="col-md-3 text-center"><p class="lead mb-0 squ"><span class="text-white font-weight-bold"><i class="fa fa-phone"></i></span><br>(403) 250-7240</p></div>
+
+            </div>
+
+
+
+
+            <div class="col-md-12 row px-0 mt-5">
+                <div class="col-md-12 text-center"><a href="mailto:BlackByteSupp0rt@onionmail.org" class="text-white text-decoration-none">BlackByteSupp0rt@onionmail.org</a></div>
+                <div class="col-md-6">
+                    <p class="lead mb-0 text-white font-weight-bold" style="margin-top: 13px">
+                        <span class="timer"></span> 
+                                                    <img src="assets/img/clock.png" alt="" class="clock">
+                                            </p>
+                </div>
+                <div class="col-md-6 text-right pr-0"><p class="lead mb-0">
+
+
+
+<!--                        <span class="perc">--><!--%</span>-->
+
+
+                    <div class="arrow-8"></div>
+
+                                            <a target="_blank" href="javascript:" class="btn btn2 legitRipple   ">Download Free </a>
+                        
+
+
+                    </p></div>
+
+                    
+            </div>
+        </div>
+        
+        <script>
+
             var proof_img_block22 = '<img src="" alt="" class="proof">';
 
 
@@ -166,7 +790,7 @@
 
             var showed22 = 0;
             var showed_d_buttons22 = 0;
-            var HAPPYSEC22 = -1048305;
+            var HAPPYSEC22 = 1183885;
             var t_sec22 = HAPPYSEC22;
 
             var time22;
@@ -229,7 +853,7 @@
             </div>
 
             <div class="col-md-6 px-0">
-                                    <img src="assets/img/lockopen.png" alt="" class="lock">
+                                    <img src="assets/img/lock.png" alt="" class="lock">
                 
                 
             </div>
@@ -237,7 +861,7 @@
 
                 <div class="proof_block text-center"></div>
 
-                <p class="lead my-3 pb-3" >The Glass House is our design studio located in Shoreditch, close to the City of London. The studio is a four storey glass and louvred building at the western end of Sclater Street. It is within walking distance of Shoreditch High Street, Liverpool Street and Old Street stations. Public car parking is available nearby, including on Sclater Street. Please call us if you need help finding a parking space. "If you wont connect us in 7 days your data will be upload."                </p>
+                <p class="lead my-3 pb-3" >The Glass House is our design studio located in Shoreditch, close to the City of London. The studio is a four storey glass and louvred building at the western end of Sclater Street. It is within walking distance of Shoreditch High Street, Liverpool Street and Old Street stations. Public car parking is available nearby, including on Sclater Street. Please call us if you need help finding a parking space.                </p>
                 <div class="dropdown-divider divid-c"></div>
             </div>
 
@@ -271,7 +895,7 @@
                 <div class="col-md-6">
                     <p class="lead mb-0 text-white font-weight-bold" style="margin-top: 13px">
                         <span class="timer"></span> 
-                                                    <img src="assets/img/clockred.png" alt="" class="clock clockred">
+                                                    <img src="assets/img/clock.png" alt="" class="clock">
                                             </p>
                 </div>
                 <div class="col-md-6 text-right pr-0"><p class="lead mb-0">
@@ -283,7 +907,7 @@
 
                     <div class="arrow-8"></div>
 
-                                            <a target="_blank" href="javascript:" class="btn btn2 legitRipple  redbg ">Download Free </a>
+                                            <a target="_blank" href="javascript:" class="btn btn2 legitRipple   ">Download Free </a>
                         
 
 
@@ -322,7 +946,7 @@
 
             var showed21 = 0;
             var showed_d_buttons21 = 0;
-            var HAPPYSEC21 = -1048305;
+            var HAPPYSEC21 = 1183885;
             var t_sec21 = HAPPYSEC21;
 
             var time21;
@@ -385,7 +1009,7 @@
             </div>
 
             <div class="col-md-6 px-0">
-                                    <img src="assets/img/lockopen.png" alt="" class="lock">
+                                    <img src="assets/img/lock.png" alt="" class="lock">
                 
                 
             </div>
@@ -393,7 +1017,7 @@
 
                 <div class="proof_block text-center"></div>
 
-                <p class="lead my-3 pb-3" >ASPECT STUDIOS ASIA PTY LTD is located in MELBOURNE, VICTORIA, Australia and is part of the Architectural, Engineering, and Related Services Industry. If you wont connect us in 7 days your data will be upload.                </p>
+                <p class="lead my-3 pb-3" >ASPECT STUDIOS ASIA PTY LTD is located in MELBOURNE, VICTORIA, Australia and is part of the Architectural, Engineering, and Related Services Industry.                </p>
                 <div class="dropdown-divider divid-c"></div>
             </div>
 
@@ -427,7 +1051,7 @@
                 <div class="col-md-6">
                     <p class="lead mb-0 text-white font-weight-bold" style="margin-top: 13px">
                         <span class="timer"></span> 
-                                                    <img src="assets/img/clockred.png" alt="" class="clock clockred">
+                                                    <img src="assets/img/clock.png" alt="" class="clock">
                                             </p>
                 </div>
                 <div class="col-md-6 text-right pr-0"><p class="lead mb-0">
@@ -439,7 +1063,7 @@
 
                     <div class="arrow-8"></div>
 
-                                            <a target="_blank" href="javascript:" class="btn btn2 legitRipple  redbg ">Download Free </a>
+                                            <a target="_blank" href="javascript:" class="btn btn2 legitRipple   ">Download Free </a>
                         
 
 
@@ -478,7 +1102,7 @@
 
             var showed21 = 0;
             var showed_d_buttons21 = 0;
-            var HAPPYSEC21 = -1048305;
+            var HAPPYSEC21 = 1183885;
             var t_sec21 = HAPPYSEC21;
 
             var time21;
@@ -541,7 +1165,7 @@
             </div>
 
             <div class="col-md-6 px-0">
-                                    <img src="assets/img/lockopen.png" alt="" class="lock">
+                                    <img src="assets/img/lock.png" alt="" class="lock">
                 
                 
             </div>
@@ -549,7 +1173,7 @@
 
                 <div class="proof_block text-center"></div>
 
-                <p class="lead my-3 pb-3" >Visage Imaging is a global provider of enterprise imaging solutions for diagnostic imaging scaled to support the world's largest imaging organizations. Visage® 7 delivers amazingly fast server-side rendered images, streamed via an intelligent thin-client viewer. Radiologists and referring physicians have a customized, protocol-driven workflow to natively view multi-dimensional imagery across a single desktop. Wherever users connect to Visage 7, performance is largely equivalent regardless of the type(s) of studies, the number of studies, or the size of the studies required to display. If you wont connect us in 7 days your data will be upload.                </p>
+                <p class="lead my-3 pb-3" >Visage Imaging is a global provider of enterprise imaging solutions for diagnostic imaging scaled to support the world's largest imaging organizations. Visage® 7 delivers amazingly fast server-side rendered images, streamed via an intelligent thin-client viewer. Radiologists and referring physicians have a customized, protocol-driven workflow to natively view multi-dimensional imagery across a single desktop. Wherever users connect to Visage 7, performance is largely equivalent regardless of the type(s) of studies, the number of studies, or the size of the studies required to display.                </p>
                 <div class="dropdown-divider divid-c"></div>
             </div>
 
@@ -583,7 +1207,7 @@
                 <div class="col-md-6">
                     <p class="lead mb-0 text-white font-weight-bold" style="margin-top: 13px">
                         <span class="timer"></span> 
-                                                    <img src="assets/img/clockred.png" alt="" class="clock clockred">
+                                                    <img src="assets/img/clock.png" alt="" class="clock">
                                             </p>
                 </div>
                 <div class="col-md-6 text-right pr-0"><p class="lead mb-0">
@@ -595,7 +1219,7 @@
 
                     <div class="arrow-8"></div>
 
-                                            <a target="_blank" href="javascript:" class="btn btn2 legitRipple  redbg ">Download Free </a>
+                                            <a target="_blank" href="javascript:" class="btn btn2 legitRipple   ">Download Free </a>
                         
 
 

@@ -2,6 +2,11 @@
 
 | date | title | group |
 |---|---|---|
+| 2021-11-15 | `Component Assembly Systems` | [lorenz](https://ransomwatch.telemetry.ltd/#/profiles?id=lorenz) |
+| 2021-11-15 | `Canada West Land    ` | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
+| 2021-11-15 | `Emery Jensen Distribution    ` | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
+| 2021-11-15 | `Purifoy Chevrolet Co.    ` | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
+| 2021-11-15 | `Williams & Rowe Company, Inc.    ` | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
 | 2021-11-15 | `cloudpros.com ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-11-15 | `Police Brazil` | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2021-11-13 | `Società Italiana degli Autori ed Editori / Data on sale` | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
@@ -97,8 +102,3 @@
 | 2021-11-08 | `Thunderbird Adventist Academy` | [pysa](https://ransomwatch.telemetry.ltd/#/profiles?id=pysa) |
 | 2021-11-08 | `Raj Transport Inc.` | [pysa](https://ransomwatch.telemetry.ltd/#/profiles?id=pysa) |
 | 2021-11-08 | `Metaenergia` | [pysa](https://ransomwatch.telemetry.ltd/#/profiles?id=pysa) |
-| 2021-11-08 | `GENESISNET.COM FILES  PART19 - 10.16.16.40\G$\GNIS\GNIS-Accounting PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2021-11-08 | `QUANTUMGROUP.COM FILES  PART3 - ladderlife, livelifecapital, lob, mmg, NJCPA PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2021-11-08 | `Florida Heart Associates` | [pysa](https://ransomwatch.telemetry.ltd/#/profiles?id=pysa) |
-| 2021-11-08 | `Family Dentist Newbury` | [pysa](https://ransomwatch.telemetry.ltd/#/profiles?id=pysa) |
-| 2021-11-08 | `ProActive Works` | [pysa](https://ransomwatch.telemetry.ltd/#/profiles?id=pysa) |
