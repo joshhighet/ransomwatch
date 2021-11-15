@@ -10,12 +10,12 @@ import socket
 import codecs
 import random
 import logging
+import requests
+import lxml.html
+import tldextract
 import subprocess
 from datetime import datetime
 from datetime import timedelta
-import tldextract
-import lxml.html
-import requests
 
 sockshost = '127.0.0.1'
 socksport = 9050
@@ -98,7 +98,7 @@ def metafetch(url):
     '''
     try:
         stdlog('sharedutils: ' + 'meta prefetch request to ' + str(url))
-        request = requests.head(url, proxies=oproxies, headers=headers())
+        request = requests.head(url, proxies=oproxies, headers=headers(), timeout=20)
         statcode = request.status_code
         try:
             response = request.headers['server']
@@ -106,7 +106,6 @@ def metafetch(url):
         except KeyError as ke:
             errlog('sharedutils: ' + 'meta prefetch did not discover server - ' + str(ke))
             return statcode, None
-
     except requests.exceptions.Timeout as ret:
         errlog('sharedutils: ' + 'meta request timeout - ' + str(ret))
         return None, None
@@ -120,7 +119,7 @@ def socksfetcher(url):
     '''
     try:
         stdlog('sharedutils: ' + 'starting socks request to ' + str(url))
-        request = requests.get(url, proxies=oproxies, headers=headers())
+        request = requests.get(url, proxies=oproxies, headers=headers(), timeout=20)
         dbglog(
             'sharedutils: ' + 'socks request - recieved statuscode - ' \
                 + str(request.status_code)
@@ -135,6 +134,10 @@ def socksfetcher(url):
         errlog('sharedutils: ' + 'socks request timeout - ' + str(ret))
         return None
     except requests.exceptions.ConnectionError as rec:
+        # catch SOCKSHTTPConnectionPool Host unreachable
+        if 'SOCKSHTTPConnectionPool' and 'Host unreachable' in str(rec):
+            errlog('sharedutils: ' + 'socks request unable to route to host, check hsdir resolution status!')
+            return None
         errlog('sharedutils: ' + 'socks request connection error - ' + str(rec))
         return None
 
@@ -193,7 +196,9 @@ def getsitetitle(html) -> str:
     if titletext is not None:
         if len(titletext) > 50:
             titletext = titletext[:50]
+        stdlog('sharedutils: ' + 'site title - ' + str(titletext))
         return titletext
+    stdlog('sharedutils: ' + 'could not find site title from source - ' + str(html))
     return None
 
 def gcount(posts):

@@ -27,9 +27,11 @@ def main(webpage):
     dbglog('geckodriver: ' + 'configuring options, user agent & cert preacceptance')
     options = Options()
     options.headless = True
+    options.set_preference('dom.max_script_run_time', 15)
     options.add_argument("start-maximized")
     profile = webdriver.FirefoxProfile()
     profile.accept_untrusted_certs = True
+    profile.set_preference('network.http.timeout', 20000)
     profile.set_preference("general.useragent.override", randomagent())
     if '.onion' in webpage:
         stdlog('geckodriver: ' + 'appears we are dealing with an onionsite')
@@ -64,7 +66,11 @@ def main(webpage):
         source = driver.execute_script("return document.getElementsByTagName('html')[0].innerHTML")
         stdlog('geckodriver: ' + 'fetched')
     except WebDriverException as e:
-        errlog('geckodriver: ' + 'error: ' + str(e))
+        # if e contains neterror?e=dnsNotFound, then we are dealing with an onion site failing hsdir
+        if 'about:neterror?e=dnsNotFound' in str(e):
+            errlog('geckodriver: ' + 'socks request unable to route to host, check hsdir resolution status!')
+        else:
+            errlog('geckodriver: ' + 'error: ' + str(e))
         driver.quit()
         stdlog('geckodriver: ' + 'webdriver quit')
         return None
