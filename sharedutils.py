@@ -3,6 +3,7 @@
 '''
 collection of shared modules used throughout ransomwatch
 '''
+import re
 import os
 import sys
 import json
@@ -396,6 +397,8 @@ def todiscord(post_title, group):
     sends a post to a discord webhook defined as an envar
     '''
     dbglog('sharedutils: ' + 'sending to discord webhook')
+    # avoid json decode errors by escaping the title if contains \ or "
+    post_title = post_title.replace('\\', '\\\\').replace('"', '\\"')
     discord_data = '''
     {
     "content": "`%s`",
