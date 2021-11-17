@@ -15,13 +15,13 @@
 
 
     <link href="https://fonts.googleapis.com/css?family=Playfair+Display:700,900" rel="stylesheet">
-    <link href="/blog.css?v=1637161778" rel="stylesheet">
+    <link href="/blog.css?v=1637164463" rel="stylesheet">
     <script src="/assets/js/jquery-2.1.3.min.js"></script>
 
     <script src="/assets/js/vendor/popper.min.js"></script>
     <script src="/dist/js/bootstrap.min.js"></script>
     <script src="/assets/js/vendor/holder.min.js"></script>
-    <script src="/script.js?v=1637161778"></script>
+    <script src="/script.js?v=1637164463"></script>
     <style>
         .d_buttons{
             display: none;
@@ -166,7 +166,7 @@
 
             var showed27 = 0;
             var showed_d_buttons27 = 0;
-            var HAPPYSEC27 = 1533022;
+            var HAPPYSEC27 = 1530337;
             var t_sec27 = HAPPYSEC27;
 
             var time27;
@@ -322,7 +322,7 @@
 
             var showed26 = 0;
             var showed_d_buttons26 = 0;
-            var HAPPYSEC26 = 1533022;
+            var HAPPYSEC26 = 1530337;
             var t_sec26 = HAPPYSEC26;
 
             var time26;
@@ -451,162 +451,6 @@
         
         <script>
 
-            var proof_img_block25 = '<img src="" alt="" class="proof">';
-
-
-            function ShowProof25(){
-                if(showed25 === 0){
-                    showed25 = 1;
-                    $("#target_25 .proof_block").html(proof_img_block25).slideDown(400);
-                }else{
-                    showed25 = 0;
-                    $("#target_25 .proof_block").html('').slideUp(400);
-                }
-
-            }
-            function ShowDButtons25(){
-                if(showed_d_buttons25 === 0){
-                    showed_d_buttons25 = 1;
-                    $("#target_25 .d_buttons").slideDown(400);
-                }else{
-                    showed_d_buttons25 = 0;
-                    $("#target_25 .d_buttons").slideUp(400);
-                }
-
-            }
-
-
-            var showed25 = 0;
-            var showed_d_buttons25 = 0;
-            var HAPPYSEC25 = 1533022;
-            var t_sec25 = HAPPYSEC25;
-
-            var time25;
-            var intervalId25=0;
-
-
-            $(document).ready(function () {
-
-                intervalId25 = setInterval(function (){
-                    timerDecrement25();
-                }, 1000);
-            });
-
-
-            function timerDecrement25() {
-                time25 = $('#target_25 span.timer');
-
-                if(t_sec25 < 1){
-                    t_sec25 = 0;
-                    newTime = t_sec25 ;
-                }else{
-                    newTime = t_sec25 - 1;
-                }
-
-
-                t_sec25 = newTime;
-
-                var t_min = t_sec25 / 60;
-                var t_hour = t_min / 60;
-                var t_day =
-                    '<b>' + Math.floor(t_hour / 24) + '</b> days ' +
-                    '<b>' + Math.floor(t_hour % 24) +'</b>:' +
-                    '<b>' + Math.floor(t_min % 60) +'</b>:' +
-                    '<b>' + Math.floor(t_sec25 % 60)+ '</b> ';
-
-                time25.html(t_day);
-
-
-
-                if(newTime === 0 && HAPPYSEC25 > 0 || newTime < 1){
-
-                    time25.html('');
-                    $("#target_25 .lock").attr("src","assets/img/lockopen.png");
-                    $("#target_25 .clock").attr("src","assets/img/clockred.png").addClass("clockred");
-                    $("#target_25 .btn2").addClass("redbg");
-                    $("#target_25 .arrow-8").addClass("r8");
-                    $("#target_25 .perc").html("100%");
-
-                    clearInterval(intervalId25);
-                    GetDownloadLink(25,$("#target_25 .redbg"));
-                }
-
-
-            }
-        </script>
-
-        <div class="row jumbotron p-3  text-white rounded bg-d1" id="target_25">
-            <div class="col-md-6 px-0">
-                <h1 class="display-4 font-italic border-bottom">Emery Jensen Distribution    </h1>
-            </div>
-
-            <div class="col-md-6 px-0">
-                                    <img src="assets/img/lock.png" alt="" class="lock">
-                
-                
-            </div>
-            <div class="col-md-12 px-0">
-
-                <div class="proof_block text-center"></div>
-
-                <p class="lead my-3 pb-3" >Emery Jensen Distribution is the result of 2 companies, Emery Waterhouse of the East Coast and Jensen Distribution of the West Coast, merging together to form a wholesale distributor selling to independent retailers nationally. With over 300 years of collective experience in the hardlines industry, and over 5.5 billion dollars in buying power, Emery Jensen Distribution offers a sustainable advantage in the market.                </p>
-                <div class="dropdown-divider divid-c"></div>
-            </div>
-
-
-            <div class="col-md-12 row px-0  mt-4 mb-4 ml-0">
-                <div class="col-md-3 text-center ">
-                    <p class="lead mb-0 squ">
-                    <span class="text-white font-weight-bold ">
-                        <i class="fa fa-users"></i>
-                    </span>
-                        <br>
-                        <span class="">311</span>
-                    </p>
-                </div>
-                <div class="col-md-3 text-center" onclick="GO('http://www.jensenonline.com')">
-                    <p class="lead mb-0 squ"><span class="text-white font-weight-bold "><i class="fa fa-globe"></i></span><br>
-                        <a href="javascript:" class="text-white text-decoration-none" >Web Site</a>
-                    </p>
-                </div>
-
-                <div class="col-md-3 text-center"><p class="lead mb-0 squ "><span class="text-white font-weight-bold "><i class="fa fa-dollar"></i></span> <br>$ 150 Million </p></div>
-                <div class="col-md-3 text-center"><p class="lead mb-0 squ"><span class="text-white font-weight-bold"><i class="fa fa-phone"></i></span><br>(509) 624-1321</p></div>
-
-            </div>
-
-
-
-
-            <div class="col-md-12 row px-0 mt-5">
-                <div class="col-md-12 text-center"><a href="mailto:BlackByteSupp0rt@onionmail.org" class="text-white text-decoration-none">BlackByteSupp0rt@onionmail.org</a></div>
-                <div class="col-md-6">
-                    <p class="lead mb-0 text-white font-weight-bold" style="margin-top: 13px">
-                        <span class="timer"></span> 
-                                                    <img src="assets/img/clock.png" alt="" class="clock">
-                                            </p>
-                </div>
-                <div class="col-md-6 text-right pr-0"><p class="lead mb-0">
-
-
-
-<!--                        <span class="perc">--><!--%</span>-->
-
-
-                    <div class="arrow-8"></div>
-
-                                            <a target="_blank" href="javascript:" class="btn btn2 legitRipple   ">Download Free </a>
-                        
-
-
-                    </p></div>
-
-                    
-            </div>
-        </div>
-        
-        <script>
-
             var proof_img_block24 = '<img src="" alt="" class="proof">';
 
 
@@ -634,7 +478,7 @@
 
             var showed24 = 0;
             var showed_d_buttons24 = 0;
-            var HAPPYSEC24 = 1533022;
+            var HAPPYSEC24 = 1530337;
             var t_sec24 = HAPPYSEC24;
 
             var time24;
@@ -790,7 +634,7 @@
 
             var showed22 = 0;
             var showed_d_buttons22 = 0;
-            var HAPPYSEC22 = 1014622;
+            var HAPPYSEC22 = 1011937;
             var t_sec22 = HAPPYSEC22;
 
             var time22;
@@ -946,7 +790,7 @@
 
             var showed21 = 0;
             var showed_d_buttons21 = 0;
-            var HAPPYSEC21 = 1014622;
+            var HAPPYSEC21 = 1011937;
             var t_sec21 = HAPPYSEC21;
 
             var time21;
@@ -1102,7 +946,7 @@
 
             var showed21 = 0;
             var showed_d_buttons21 = 0;
-            var HAPPYSEC21 = 1014622;
+            var HAPPYSEC21 = 1011937;
             var t_sec21 = HAPPYSEC21;
 
             var time21;
