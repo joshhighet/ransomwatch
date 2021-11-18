@@ -7,13 +7,13 @@ _:warning: all site pages and graphs are dynamically generated every half hour_
 
 ## [`group profiles`](profiles.md)
 
-## 📰 summary - november 17th, 2021
+## 📰 summary - november 18th, 2021
 
 currently tracking `70` groups across `82` various relays and mirrors - _`29` of which are online_
 
 there are `33` active parsers, `9` of which using headless browsers - _`4` groups have recently introduced captchas_
 
-⏲ there have been `7` posts within the `last 24 hours`
+⏲ there have been `6` posts within the `last 24 hours`
 
 🦈 there have been `234` posts within the `month of november`
 
