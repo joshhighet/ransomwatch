@@ -2,6 +2,7 @@
 
 | date | title | group |
 |---|---|---|
+| 2021-11-18 | `maximusinfoware...` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-11-18 | `Area Energy &amp; Electric` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2021-11-18 | `FTI Group` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2021-11-17 | `ipbridge.co.jp ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -101,4 +102,3 @@
 | 2021-11-08 | `Garner Dental Group` | [pysa](https://ransomwatch.telemetry.ltd/#/profiles?id=pysa) |
 | 2021-11-08 | `MVS Mailers` | [pysa](https://ransomwatch.telemetry.ltd/#/profiles?id=pysa) |
 | 2021-11-08 | `EHS` | [pysa](https://ransomwatch.telemetry.ltd/#/profiles?id=pysa) |
-| 2021-11-08 | `Comstock Johnson Architects` | [pysa](https://ransomwatch.telemetry.ltd/#/profiles?id=pysa) |
