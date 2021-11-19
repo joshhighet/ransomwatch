@@ -2,6 +2,8 @@
 
 | date | title | group |
 |---|---|---|
+| 2021-11-19 | `Hospitality Furnishings &amp; Design Inc.` | [suncrypt](https://ransomwatch.telemetry.ltd/#/profiles?id=suncrypt) |
+| 2021-11-19 | `Herman &amp; Kittle Properties Inc.` | [suncrypt](https://ransomwatch.telemetry.ltd/#/profiles?id=suncrypt) |
 | 2021-11-19 | `a1ssi.com ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-11-19 | `duncandisabilit... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-11-19 | `dcaa.gov.ae` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -100,5 +102,3 @@
 | 2021-11-08 | `Î¤ÎÎ§ÎÎÎÎÎÎÎÎ Î ÎÎÎÎ ÎÎ£Î¤ÎÎÎÎ ÎÎ¥Î Î¡ÎÎ¥` | [pysa](https://ransomwatch.telemetry.ltd/#/profiles?id=pysa) |
 | 2021-11-08 | `SWL` | [pysa](https://ransomwatch.telemetry.ltd/#/profiles?id=pysa) |
 | 2021-11-08 | `Lucton School` | [pysa](https://ransomwatch.telemetry.ltd/#/profiles?id=pysa) |
-| 2021-11-08 | `Hickory Veterinary Hospital` | [pysa](https://ransomwatch.telemetry.ltd/#/profiles?id=pysa) |
-| 2021-11-08 | `Westvale Primary School` | [pysa](https://ransomwatch.telemetry.ltd/#/profiles?id=pysa) |
