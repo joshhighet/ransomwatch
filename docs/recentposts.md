@@ -2,6 +2,7 @@
 
 | date | title | group |
 |---|---|---|
+| 2021-11-20 | `inlineplumbing....` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-11-19 | `Not Yet Kameraden!` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2021-11-19 | `Hospitality Furnishings &amp; Design Inc.` | [suncrypt](https://ransomwatch.telemetry.ltd/#/profiles?id=suncrypt) |
 | 2021-11-19 | `Herman &amp; Kittle Properties Inc.` | [suncrypt](https://ransomwatch.telemetry.ltd/#/profiles?id=suncrypt) |
@@ -101,4 +102,3 @@
 | 2021-11-08 | `The Leschaco Group` | [pysa](https://ransomwatch.telemetry.ltd/#/profiles?id=pysa) |
 | 2021-11-08 | `Eason Horticultural Resources` | [pysa](https://ransomwatch.telemetry.ltd/#/profiles?id=pysa) |
 | 2021-11-08 | `Î¤ÎÎ§ÎÎÎÎÎÎÎÎ Î ÎÎÎÎ ÎÎ£Î¤ÎÎÎÎ ÎÎ¥Î Î¡ÎÎ¥` | [pysa](https://ransomwatch.telemetry.ltd/#/profiles?id=pysa) |
-| 2021-11-08 | `SWL` | [pysa](https://ransomwatch.telemetry.ltd/#/profiles?id=pysa) |

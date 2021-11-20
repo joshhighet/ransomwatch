@@ -9,19 +9,19 @@ _:warning: all site pages and graphs are dynamically generated every half hour_
 
 ## 📰 summary - november 20th, 2021
 
-currently tracking `70` groups across `82` various relays and mirrors - _`29` of which are online_
+currently tracking `70` groups across `82` various relays and mirrors - _`31` of which are online_
 
 there are `33` active parsers, `9` of which using headless browsers - _`4` groups have recently introduced captchas_
 
-⏲ there have been `6` posts within the `last 24 hours`
+⏲ there have been `7` posts within the `last 24 hours`
 
-🦈 there have been `244` posts within the `month of november`
+🦈 there have been `245` posts within the `month of november`
 
-🪐 there have been `1747` posts within the `last 90 days`
+🪐 there have been `1748` posts within the `last 90 days`
 
-🏚 there have been `1795` posts within the `year of 2021`
+🏚 there have been `1796` posts within the `year of 2021`
 
-🦕 there have been `1829` posts `since the dawn of ransomwatch`
+🦕 there have been `1830` posts `since the dawn of ransomwatch`
 
 > _the `19` sites using v2 onion services are no longer indexed - [support.torproject.org](https://support.torproject.org/onionservices/v2-deprecation/)_
 
@@ -33,7 +33,7 @@ there are `33` active parsers, `9` of which using headless browsers - _`4` group
 | marketo |  | ⬇️ 🔴 | 2021-05-01 | g5sbltooh2okkcb2.onion |
 | marketo | 404 Not Found | ⬇️ 🔴 | 2021-10-04 | fvki3hj7uxuirxpeop6chgqoczanmebutznt2mkzy6waov6w456vjuid.onion |
 | synack | end of game | ⬇️ 🔴 | 2021-08-18 | xqkz2rmrqkeqf6sjbrb47jfwnqxcd4o2zvaxxzrpbh2piknms37rw2ad.onion |
-| suncrypt | News | ⬇️ 🔴 | 2021-11-20 | x2miyuiwpib2imjr5ykyjngdu7v6vprkkhjltrk4qafymtawey4qzwid.onion |
+| suncrypt | News | ⬆️ 🟢 |  | x2miyuiwpib2imjr5ykyjngdu7v6vprkkhjltrk4qafymtawey4qzwid.onion |
 | suncrypt |  | ⬇️ 🔴 | 2021-05-01 | nbzzb6sa6xuura2z.onion |
 | lv | LV Blog | ⬆️ 🟢 |  | rbvuetuneohce3ouxjlbxtimyyxokb4btncxjbo44fbgxqy7tskinwad.onion |
 | lv | LV Blog | ⬇️ 🔴 | 2021-10-07 | 4qbxi3i2oqmyzxsjg4fwe4aly3xkped52gq5orp6efpkeskvchqe27id.onion |
@@ -46,7 +46,7 @@ there are `33` active parsers, `9` of which using headless browsers - _`4` group
 | grief | Grief list | ⬆️ 🟢 |  | griefcameifmv4hfr3auozmovz5yi6m3h3dwbuqw7baomfxoxz4qteid.onion |
 | avaddon |  | ⬇️ 🔴 | 2021-05-01 | avaddongun7rngel.onion |
 | vicesociety |  | ⬇️ 🔴 | 2021-05-01 | 4hzyuotli6maqa4u.onion |
-| xinglocker | 星Team News | ⬇️ 🔴 | 2021-11-20 | xingnewj6m4qytljhfwemngm7r7rogrindbq7wrfeepejgxc3bwci7qd.onion |
+| xinglocker | 星Team News | ⬆️ 🟢 |  | xingnewj6m4qytljhfwemngm7r7rogrindbq7wrfeepejgxc3bwci7qd.onion |
 | darkside |  | ⬇️ 🔴 | 2021-05-01 | darksidc3iux462n6yunevoag52ntvwp6wulaz3zirkmh4cnz6hhj7id.onion |
 | ragnarlocker |  | ⬇️ 🔴 | 2021-05-01 | rgleak7op734elep.onion |
 | ragnarlocker | Home Page of Ragnar_Locker Leaks site | ⬆️ 🟢 |  | rgleaktxuey67yrgspmhvtnrqtgogur35lwdrup4d3igtbm3pupc4lyd.onion |
