@@ -2,6 +2,10 @@
 
 | date | title | group |
 |---|---|---|
+| 2021-11-21 | `siix.co.jp ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
+| 2021-11-21 | `telemovil.com.s... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
+| 2021-11-21 | `evans.co.id ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
+| 2021-11-21 | `consortiumlegal... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-11-20 | `apower.com.sg ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-11-20 | `MINISTRY OF ECONOMY AND FINANCE Peru` | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2021-11-20 | `inlineplumbing....` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -98,7 +102,3 @@
 | 2021-11-08 | `Premier Energy` | [pysa](https://ransomwatch.telemetry.ltd/#/profiles?id=pysa) |
 | 2021-11-08 | `Schmincke KÃ¼nstlerfarben` | [pysa](https://ransomwatch.telemetry.ltd/#/profiles?id=pysa) |
 | 2021-11-08 | `Stratford Land` | [pysa](https://ransomwatch.telemetry.ltd/#/profiles?id=pysa) |
-| 2021-11-08 | `Dr Schneider` | [pysa](https://ransomwatch.telemetry.ltd/#/profiles?id=pysa) |
-| 2021-11-08 | `Rockbridge and Bath County` | [pysa](https://ransomwatch.telemetry.ltd/#/profiles?id=pysa) |
-| 2021-11-08 | `Nordic Pharma` | [pysa](https://ransomwatch.telemetry.ltd/#/profiles?id=pysa) |
-| 2021-11-08 | `The Leschaco Group` | [pysa](https://ransomwatch.telemetry.ltd/#/profiles?id=pysa) |
