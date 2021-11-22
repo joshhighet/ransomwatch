@@ -2,6 +2,9 @@
 
 | date | title | group |
 |---|---|---|
+| 2021-11-22 | `jadecorp` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
+| 2021-11-22 | `DKS  Deutsch Kerrigan LLP` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
+| 2021-11-22 | `Charlie Hebdo` | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2021-11-22 | `yankey.com.tw` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-11-22 | `redsrugby.com.au - more then 300GB data leaked` | [lv](https://ransomwatch.telemetry.ltd/#/profiles?id=lv) |
 | 2021-11-22 | `docol.com.br - more then 1.5TB data leaked` | [lv](https://ransomwatch.telemetry.ltd/#/profiles?id=lv) |
@@ -99,6 +102,3 @@
 | 2021-11-08 | `UEMOA` | [pysa](https://ransomwatch.telemetry.ltd/#/profiles?id=pysa) |
 | 2021-11-08 | `Skatetown` | [pysa](https://ransomwatch.telemetry.ltd/#/profiles?id=pysa) |
 | 2021-11-08 | `CHRYSO` | [pysa](https://ransomwatch.telemetry.ltd/#/profiles?id=pysa) |
-| 2021-11-08 | `itimCloud` | [pysa](https://ransomwatch.telemetry.ltd/#/profiles?id=pysa) |
-| 2021-11-08 | `Bayonet` | [pysa](https://ransomwatch.telemetry.ltd/#/profiles?id=pysa) |
-| 2021-11-08 | `Fly Arik Air` | [pysa](https://ransomwatch.telemetry.ltd/#/profiles?id=pysa) |
