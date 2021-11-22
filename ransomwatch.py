@@ -245,6 +245,7 @@ if args.mode == 'parse':
     parsers.payloadbin()
     parsers.groove()
     parsers.quantum()
+    parsers.atomsilo()
     stdlog('ransomwatch: ' + 'parse run complete')
 
 if args.mode == 'list':

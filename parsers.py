@@ -466,3 +466,14 @@ def quantum():
         errlog('quantum: ' + 'parsing fail')
     for post in posts:
         appender(post, 'quantum')
+
+def atomsilo():
+    stdlog('parser: ' + 'atomsilo')
+    parser = '''
+    cat source/atomsilo-*.html | grep "h4" | cut -d '>' -f 3 | cut -d '<' -f 1
+    '''
+    posts = runshellcmd(parser)
+    if len(posts) == 1:
+        errlog('atomsilo: ' + 'parsing fail')
+    for post in posts:
+        appender(post, 'atomsilo')
