@@ -459,7 +459,7 @@ def spook():
 def quantum():
     stdlog('parser: ' + 'quantum')
     parser = '''
-    cat source/quantum-*.html | awk '/h2/{getline; print}' | sed '/              \<\/a>/d' | sed 's/^ *//g'
+    cat source/quantum-*.html | awk '/h2/{getline; print}' | grep -v '</a>' | sed 's/^ *//g'
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
