@@ -483,10 +483,21 @@ def lv():
     # macos grep: grep -oE
     # gnu grep: grep -oP
     parser = '''
-    cat source/lv-rbvuetun*.html | grep -oP "blog-post-title.*?</a>" | cut -d '>' -f 3 | cut -d '<' -f 1
+    grep -oP "blog-post-title.*?</a>" source/lv-rbvuetun*.html | cut -d '>' -f 3 | cut -d '<' -f 1
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
         errlog('lv: ' + 'parsing fail')
     for post in posts:
         appender(post, 'lv')
+
+def five4bb47h():
+    stdlog('parser: ' + '54bb47h')
+    parser = '''
+    grep -oP "aria-label.*?\">" source/54bb47h-*.html | cut -d '"' -f 2 | grep -v "Search button"
+    '''
+    posts = runshellcmd(parser)
+    if len(posts) == 1:
+        errlog('54bb47h: ' + 'parsing fail')
+    for post in posts:
+        appender(post, '54bb47h')
