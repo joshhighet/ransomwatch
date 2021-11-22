@@ -246,6 +246,9 @@ def getonionversion(slug):
     elif len(stripurl.domain) == 56:
         stdlog('sharedutils: ' + 'v3 onionsite detected')
         version = 3
+    else:
+        stdlog('sharedutils: ' + 'unknown onion version, assuming clearnet')
+        version = 0
     return version, location
 
 def openhtml(file):

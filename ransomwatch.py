@@ -62,9 +62,13 @@ if args.mode == 'check' and args.location is None:
     parser.error("operation requires --location")
 
 if args.location:
-    siteinfo = getonionversion(args.location)
-    if siteinfo[0] is None:
-        parser.error("location does not appear to be a v2 or v3 onionsite")
+    # if args.location ends in .onion
+    if args.location.endswith('.onion'):
+        siteinfo = getonionversion(args.location)
+        if siteinfo[0] is None:
+            parser.error("location does not appear to be a v2 or v3 onionsite")
+    else:
+        errlog("location does not appear to be an onionsite, assuming clearnet")
 
 def creategroup(name, location):
     '''
@@ -120,7 +124,7 @@ def scraper():
             only scrape onion v3 unless using headless browser, not long before this will not be possible
             https://support.torproject.org/onionservices/v2-deprecation/
             '''
-            if host['version'] >= 3:
+            if host['version'] == 3 or host['version'] == 0:
                 if group['geckodriver'] is True:
                     stdlog('ransomwatch: ' + 'using geckodriver')
                     response = geckodrive.main(host['slug'])
