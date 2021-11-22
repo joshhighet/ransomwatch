@@ -2,6 +2,7 @@
 
 | date | title | group |
 |---|---|---|
+| 2021-11-22 | `roteritaly.com ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-11-22 | `jadecorp` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2021-11-22 | `DKS  Deutsch Kerrigan LLP` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2021-11-22 | `Charlie Hebdo` | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
@@ -101,4 +102,3 @@
 | 2021-11-08 | `R.E. Pedrotti Co.` | [pysa](https://ransomwatch.telemetry.ltd/#/profiles?id=pysa) |
 | 2021-11-08 | `UEMOA` | [pysa](https://ransomwatch.telemetry.ltd/#/profiles?id=pysa) |
 | 2021-11-08 | `Skatetown` | [pysa](https://ransomwatch.telemetry.ltd/#/profiles?id=pysa) |
-| 2021-11-08 | `CHRYSO` | [pysa](https://ransomwatch.telemetry.ltd/#/profiles?id=pysa) |
