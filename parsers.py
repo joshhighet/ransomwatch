@@ -480,8 +480,10 @@ def atomsilo():
         
 def lv():
     stdlog('parser: ' + 'lv')
+    # macos grep: grep -oE
+    # gnu grep: grep -oP
     parser = '''
-    cat source/lv-rbvuetun*.html | grep -oE "blog-post-title.*?</a>" | cut -d '>' -f 3 | cut -d '<' -f 1
+    cat source/lv-rbvuetun*.html | grep -oP "blog-post-title.*?</a>" | cut -d '>' -f 3 | cut -d '<' -f 1
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
