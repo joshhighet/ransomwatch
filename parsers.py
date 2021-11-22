@@ -494,7 +494,7 @@ def lv():
 def five4bb47h():
     stdlog('parser: ' + '54bb47h')
     parser = '''
-    grep -oP "aria-label.*?\">" source/54bb47h-*.html | cut -d '"' -f 2 | grep -v "Search button"
+    grep -oP "aria-label.*?>" source/54bb47h-*.html | cut -d '"' -f 2 | sed -e '/Search button/d' | tr "..." ' ' | grep "\S"
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
