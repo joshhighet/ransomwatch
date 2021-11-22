@@ -477,3 +477,14 @@ def atomsilo():
         errlog('atomsilo: ' + 'parsing fail')
     for post in posts:
         appender(post, 'atomsilo')
+        
+def lv():
+    stdlog('parser: ' + 'lv')
+    parser = '''
+    cat source/lv-rbvuetun*.html | grep -oE "blog-post-title.*?</a>" | cut -d '>' -f 3 | cut -d '<' -f 1
+    '''
+    posts = runshellcmd(parser)
+    if len(posts) == 1:
+        errlog('lv: ' + 'parsing fail')
+    for post in posts:
+        appender(post, 'lv')
