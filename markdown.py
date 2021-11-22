@@ -66,11 +66,11 @@ def mainpage():
     writeline(uptime_sheet, '')
     writeline(uptime_sheet, '> see the project [README](https://github.com/thetanz/ransomwatch#ransomwatch--) for technicals')
     writeline(uptime_sheet, '')
-    # link to the stats and pfoiles pages
-    writeline(uptime_sheet, '## [`stats n\' graphs`](stats.md)')
-    writeline(uptime_sheet, '')
-    writeline(uptime_sheet, '## [`group profiles`](profiles.md)')
-    writeline(uptime_sheet, '')
+    # link to the stats and profile pages
+    # writeline(uptime_sheet, '## [`stats n\' graphs`](stats.md)')
+    # writeline(uptime_sheet, '')
+    # writeline(uptime_sheet, '## [`group profiles`](profiles.md)')
+    # writeline(uptime_sheet, '')
     writeline(uptime_sheet, '## 📰 summary - ' + friendly_tz)
     writeline(uptime_sheet, '')
     writeline(uptime_sheet, 'currently tracking `' + str(groupcount()) + '` groups across `' + str(hostcount()) + '` various relays and mirrors - ' + '_`' + str(onlinecount()) + '` of which are online_')
