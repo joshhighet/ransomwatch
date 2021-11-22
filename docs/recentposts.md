@@ -2,6 +2,9 @@
 
 | date | title | group |
 |---|---|---|
+| 2021-11-22 | `redsrugby.com.au - more then 300GB data leaked` | [lv](https://ransomwatch.telemetry.ltd/#/profiles?id=lv) |
+| 2021-11-22 | `docol.com.br - more then 1.5TB data leaked` | [lv](https://ransomwatch.telemetry.ltd/#/profiles?id=lv) |
+| 2021-11-22 | `mecfond.com ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-11-22 | `adhhealth.com - more then 1.2Tb data leaaked` | [lv](https://ransomwatch.telemetry.ltd/#/profiles?id=lv) |
 | 2021-11-22 | `</a>` | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
 | 2021-11-21 | `conmoto.de` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -99,6 +102,3 @@
 | 2021-11-08 | `Bayonet` | [pysa](https://ransomwatch.telemetry.ltd/#/profiles?id=pysa) |
 | 2021-11-08 | `Fly Arik Air` | [pysa](https://ransomwatch.telemetry.ltd/#/profiles?id=pysa) |
 | 2021-11-08 | `Las Vegas Cancer Center` | [pysa](https://ransomwatch.telemetry.ltd/#/profiles?id=pysa) |
-| 2021-11-08 | `CarpenterProjects` | [pysa](https://ransomwatch.telemetry.ltd/#/profiles?id=pysa) |
-| 2021-11-08 | `Westmont Helena` | [pysa](https://ransomwatch.telemetry.ltd/#/profiles?id=pysa) |
-| 2021-11-08 | `Woodchurch High School` | [pysa](https://ransomwatch.telemetry.ltd/#/profiles?id=pysa) |
