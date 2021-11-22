@@ -2,6 +2,10 @@
 
 | date | title | group |
 |---|---|---|
+| 2021-11-22 | `fluidsealingpro... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
+| 2021-11-22 | `planters-oil.ne... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
+| 2021-11-22 | `kankakeetitle.c... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
+| 2021-11-22 | `wnrllc.com ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-11-22 | `roteritaly.com ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-11-22 | `jadecorp` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2021-11-22 | `DKS  Deutsch Kerrigan LLP` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
@@ -98,7 +102,3 @@
 | 2021-11-08 | `abiom.nl ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-11-08 | `The Skinners Kent Academy` | [pysa](https://ransomwatch.telemetry.ltd/#/profiles?id=pysa) |
 | 2021-11-08 | `Kent County Council` | [pysa](https://ransomwatch.telemetry.ltd/#/profiles?id=pysa) |
-| 2021-11-08 | `Rusty Hardin & Associates` | [pysa](https://ransomwatch.telemetry.ltd/#/profiles?id=pysa) |
-| 2021-11-08 | `R.E. Pedrotti Co.` | [pysa](https://ransomwatch.telemetry.ltd/#/profiles?id=pysa) |
-| 2021-11-08 | `UEMOA` | [pysa](https://ransomwatch.telemetry.ltd/#/profiles?id=pysa) |
-| 2021-11-08 | `Skatetown` | [pysa](https://ransomwatch.telemetry.ltd/#/profiles?id=pysa) |
