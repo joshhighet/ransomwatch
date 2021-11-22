@@ -29,10 +29,9 @@ def main(webpage):
     options.headless = True
     options.set_preference('dom.max_script_run_time', 15)
     options.add_argument("start-maximized")
-    profile = webdriver.FirefoxProfile()
-    profile.accept_untrusted_certs = True
-    profile.set_preference('network.http.timeout', 20000)
-    profile.set_preference("general.useragent.override", randomagent())
+    options.accept_untrusted_certs = True
+    options.set_preference('network.http.timeout', 20000)
+    options.set_preference("general.useragent.override", randomagent())
     if '.onion' in webpage:
         stdlog('geckodriver: ' + 'appears we are dealing with an onionsite')
         if not checktcp(sockshost, socksport):
@@ -43,13 +42,13 @@ def main(webpage):
                 + sockshost + ':' + str(socksport)
             )
             stdlog('geckodriver: ' + 'configuring proxy settings')
-            profile.set_preference('network.proxy.type', 1)
-            profile.set_preference('network.proxy.socks', sockshost)
-            profile.set_preference('network.proxy.socks_port', int(socksport))
-            profile.set_preference("network.proxy.socks_remote_dns", True)
+            options.set_preference('network.proxy.type', 1)
+            options.set_preference('network.proxy.socks', sockshost)
+            options.set_preference('network.proxy.socks_port', int(socksport))
+            options.set_preference("network.proxy.socks_remote_dns", True)
     try:
         stdlog('geckodriver: ' + 'starting webdriver')
-        driver = webdriver.Firefox(options=options, firefox_profile=profile)
+        driver = webdriver.Firefox(options=options)
         stdlog('geckodriver: ' + 'fetching webpage')
         driver.get(webpage)
         # set the number of seconds to wait before working with the DOM
