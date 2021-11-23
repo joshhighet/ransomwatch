@@ -2,6 +2,7 @@
 
 | date | title | group |
 |---|---|---|
+| 2021-11-23 | `scotttesting.com  - MORE THEN 2.5TB DATA LEAKED` | [lv](https://ransomwatch.telemetry.ltd/#/profiles?id=lv) |
 | 2021-11-23 | `Argentina GOV` | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2021-11-23 | `Goodwill of Central and Coastal Virginia, Inc.    ` | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
 | 2021-11-23 | `INOXPA    ` | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
@@ -101,4 +102,3 @@
 | 2021-11-10 | `thinkcaspian.co... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-11-10 | `EQUITY Bank` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2021-11-09 | `betsaisonparago... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2021-11-09 | `Electra Link` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
