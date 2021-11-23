@@ -2,6 +2,7 @@
 
 | date | title | group |
 |---|---|---|
+| 2021-11-23 | `mtradeasia.com ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-11-23 | `Team Computers Ltd. - Leak` | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
 | 2021-11-23 | `scotttesting.com  - MORE THEN 2.5TB DATA LEAKED` | [lv](https://ransomwatch.telemetry.ltd/#/profiles?id=lv) |
 | 2021-11-23 | `Argentina GOV` | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
@@ -101,4 +102,3 @@
 | 2021-11-10 | `cardigos.com ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-11-10 | `comfacundi.com.... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-11-10 | `thinkcaspian.co... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2021-11-10 | `EQUITY Bank` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
