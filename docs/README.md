@@ -9,15 +9,15 @@ currently tracking `71` groups across `84` various relays and mirrors - _`31` of
 
 there are `33` active parsers, `9` of which using headless browsers - _`4` groups have recently introduced captchas_
 
-⏲ there have been `17` posts within the `last 24 hours`
+⏲ there have been `18` posts within the `last 24 hours`
 
-🦈 there have been `275` posts within the `month of november`
+🦈 there have been `276` posts within the `month of november`
 
-🪐 there have been `1778` posts within the `last 90 days`
+🪐 there have been `1779` posts within the `last 90 days`
 
-🏚 there have been `1826` posts within the `year of 2021`
+🏚 there have been `1827` posts within the `year of 2021`
 
-🦕 there have been `1860` posts `since the dawn of ransomwatch`
+🦕 there have been `1861` posts `since the dawn of ransomwatch`
 
 > _the `19` sites using v2 onion services are no longer indexed - [support.torproject.org](https://support.torproject.org/onionservices/v2-deprecation/)_
 
