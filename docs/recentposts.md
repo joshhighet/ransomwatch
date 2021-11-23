@@ -2,6 +2,9 @@
 
 | date | title | group |
 |---|---|---|
+| 2021-11-23 | `Argentina GOV` | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
+| 2021-11-23 | `Goodwill of Central and Coastal Virginia, Inc.    ` | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
+| 2021-11-23 | `INOXPA    ` | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
 | 2021-11-23 | `centerspacehome... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-11-23 | `benner.com.br` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-11-22 | `Flagship` | [54bb47h](https://ransomwatch.telemetry.ltd/#/profiles?id=54bb47h) |
@@ -99,6 +102,3 @@
 | 2021-11-10 | `EQUITY Bank` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2021-11-09 | `betsaisonparago... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-11-09 | `Electra Link` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
-| 2021-11-09 | `breslowstarling... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2021-11-09 | `abvalve.com ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2021-11-09 | `transaher.es Pa... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |

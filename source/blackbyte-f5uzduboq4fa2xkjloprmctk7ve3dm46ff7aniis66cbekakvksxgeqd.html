@@ -15,13 +15,13 @@
 
 
     <link href="https://fonts.googleapis.com/css?family=Playfair+Display:700,900" rel="stylesheet">
-    <link href="/blog.css?v=1637669441" rel="stylesheet">
+    <link href="/blog.css?v=1637672539" rel="stylesheet">
     <script src="/assets/js/jquery-2.1.3.min.js"></script>
 
     <script src="/assets/js/vendor/popper.min.js"></script>
     <script src="/dist/js/bootstrap.min.js"></script>
     <script src="/assets/js/vendor/holder.min.js"></script>
-    <script src="/script.js?v=1637669441"></script>
+    <script src="/script.js?v=1637672539"></script>
     <style>
         .d_buttons{
             display: none;
@@ -139,6 +139,318 @@
 
         <script>
 
+            var proof_img_block29 = '<img src="" alt="" class="proof">';
+
+
+            function ShowProof29(){
+                if(showed29 === 0){
+                    showed29 = 1;
+                    $("#target_29 .proof_block").html(proof_img_block29).slideDown(400);
+                }else{
+                    showed29 = 0;
+                    $("#target_29 .proof_block").html('').slideUp(400);
+                }
+
+            }
+            function ShowDButtons29(){
+                if(showed_d_buttons29 === 0){
+                    showed_d_buttons29 = 1;
+                    $("#target_29 .d_buttons").slideDown(400);
+                }else{
+                    showed_d_buttons29 = 0;
+                    $("#target_29 .d_buttons").slideUp(400);
+                }
+
+            }
+
+
+            var showed29 = 0;
+            var showed_d_buttons29 = 0;
+            var HAPPYSEC29 = 1454261;
+            var t_sec29 = HAPPYSEC29;
+
+            var time29;
+            var intervalId29=0;
+
+
+            $(document).ready(function () {
+
+                intervalId29 = setInterval(function (){
+                    timerDecrement29();
+                }, 1000);
+            });
+
+
+            function timerDecrement29() {
+                time29 = $('#target_29 span.timer');
+
+                if(t_sec29 < 1){
+                    t_sec29 = 0;
+                    newTime = t_sec29 ;
+                }else{
+                    newTime = t_sec29 - 1;
+                }
+
+
+                t_sec29 = newTime;
+
+                var t_min = t_sec29 / 60;
+                var t_hour = t_min / 60;
+                var t_day =
+                    '<b>' + Math.floor(t_hour / 24) + '</b> days ' +
+                    '<b>' + Math.floor(t_hour % 24) +'</b>:' +
+                    '<b>' + Math.floor(t_min % 60) +'</b>:' +
+                    '<b>' + Math.floor(t_sec29 % 60)+ '</b> ';
+
+                time29.html(t_day);
+
+
+
+                if(newTime === 0 && HAPPYSEC29 > 0 || newTime < 1){
+
+                    time29.html('');
+                    $("#target_29 .lock").attr("src","assets/img/lockopen.png");
+                    $("#target_29 .clock").attr("src","assets/img/clockred.png").addClass("clockred");
+                    $("#target_29 .btn2").addClass("redbg");
+                    $("#target_29 .arrow-8").addClass("r8");
+                    $("#target_29 .perc").html("100%");
+
+                    clearInterval(intervalId29);
+                    GetDownloadLink(29,$("#target_29 .redbg"));
+                }
+
+
+            }
+        </script>
+
+        <div class="row jumbotron p-3  text-white rounded bg-d1" id="target_29">
+            <div class="col-md-6 px-0">
+                <h1 class="display-4 font-italic border-bottom">INOXPA    </h1>
+            </div>
+
+            <div class="col-md-6 px-0">
+                                    <img src="assets/img/lock.png" alt="" class="lock">
+                
+                
+            </div>
+            <div class="col-md-12 px-0">
+
+                <div class="proof_block text-center"></div>
+
+                <p class="lead my-3 pb-3" >INOXPA specialises in manufacturing and marketing stainless steel components and fluid handling equipment, process management, and services for the food, cosmetics, and pharmaceutical industries. INOXPA is a major business group with offices all over the world.                </p>
+                <div class="dropdown-divider divid-c"></div>
+            </div>
+
+
+            <div class="col-md-12 row px-0  mt-4 mb-4 ml-0">
+                <div class="col-md-3 text-center ">
+                    <p class="lead mb-0 squ">
+                    <span class="text-white font-weight-bold ">
+                        <i class="fa fa-users"></i>
+                    </span>
+                        <br>
+                        <span class="">729</span>
+                    </p>
+                </div>
+                <div class="col-md-3 text-center" onclick="GO('http://www.inoxpa.com')">
+                    <p class="lead mb-0 squ"><span class="text-white font-weight-bold "><i class="fa fa-globe"></i></span><br>
+                        <a href="javascript:" class="text-white text-decoration-none" >Web Site</a>
+                    </p>
+                </div>
+
+                <div class="col-md-3 text-center"><p class="lead mb-0 squ "><span class="text-white font-weight-bold "><i class="fa fa-dollar"></i></span> <br>$ 87.2 Million </p></div>
+                <div class="col-md-3 text-center"><p class="lead mb-0 squ"><span class="text-white font-weight-bold"><i class="fa fa-phone"></i></span><br>+34 972 57 52 00</p></div>
+
+            </div>
+
+
+
+
+            <div class="col-md-12 row px-0 mt-5">
+                <div class="col-md-12 text-center"><a href="mailto:BlackByteSupp0rt@onionmail.org" class="text-white text-decoration-none">BlackByteSupp0rt@onionmail.org</a></div>
+                <div class="col-md-6">
+                    <p class="lead mb-0 text-white font-weight-bold" style="margin-top: 13px">
+                        <span class="timer"></span> 
+                                                    <img src="assets/img/clock.png" alt="" class="clock">
+                                            </p>
+                </div>
+                <div class="col-md-6 text-right pr-0"><p class="lead mb-0">
+
+
+
+<!--                        <span class="perc">--><!--%</span>-->
+
+
+                    <div class="arrow-8"></div>
+
+                                            <a target="_blank" href="https://anonfiles.com/b2LbK9W3u6/new_rar" class="btn btn2 legitRipple   ">Download Free </a>
+                        
+
+
+                    </p></div>
+
+                    
+            </div>
+        </div>
+        
+        <script>
+
+            var proof_img_block28 = '<img src="" alt="" class="proof">';
+
+
+            function ShowProof28(){
+                if(showed28 === 0){
+                    showed28 = 1;
+                    $("#target_28 .proof_block").html(proof_img_block28).slideDown(400);
+                }else{
+                    showed28 = 0;
+                    $("#target_28 .proof_block").html('').slideUp(400);
+                }
+
+            }
+            function ShowDButtons28(){
+                if(showed_d_buttons28 === 0){
+                    showed_d_buttons28 = 1;
+                    $("#target_28 .d_buttons").slideDown(400);
+                }else{
+                    showed_d_buttons28 = 0;
+                    $("#target_28 .d_buttons").slideUp(400);
+                }
+
+            }
+
+
+            var showed28 = 0;
+            var showed_d_buttons28 = 0;
+            var HAPPYSEC28 = 1454261;
+            var t_sec28 = HAPPYSEC28;
+
+            var time28;
+            var intervalId28=0;
+
+
+            $(document).ready(function () {
+
+                intervalId28 = setInterval(function (){
+                    timerDecrement28();
+                }, 1000);
+            });
+
+
+            function timerDecrement28() {
+                time28 = $('#target_28 span.timer');
+
+                if(t_sec28 < 1){
+                    t_sec28 = 0;
+                    newTime = t_sec28 ;
+                }else{
+                    newTime = t_sec28 - 1;
+                }
+
+
+                t_sec28 = newTime;
+
+                var t_min = t_sec28 / 60;
+                var t_hour = t_min / 60;
+                var t_day =
+                    '<b>' + Math.floor(t_hour / 24) + '</b> days ' +
+                    '<b>' + Math.floor(t_hour % 24) +'</b>:' +
+                    '<b>' + Math.floor(t_min % 60) +'</b>:' +
+                    '<b>' + Math.floor(t_sec28 % 60)+ '</b> ';
+
+                time28.html(t_day);
+
+
+
+                if(newTime === 0 && HAPPYSEC28 > 0 || newTime < 1){
+
+                    time28.html('');
+                    $("#target_28 .lock").attr("src","assets/img/lockopen.png");
+                    $("#target_28 .clock").attr("src","assets/img/clockred.png").addClass("clockred");
+                    $("#target_28 .btn2").addClass("redbg");
+                    $("#target_28 .arrow-8").addClass("r8");
+                    $("#target_28 .perc").html("100%");
+
+                    clearInterval(intervalId28);
+                    GetDownloadLink(28,$("#target_28 .redbg"));
+                }
+
+
+            }
+        </script>
+
+        <div class="row jumbotron p-3  text-white rounded bg-d1" id="target_28">
+            <div class="col-md-6 px-0">
+                <h1 class="display-4 font-italic border-bottom">Goodwill of Central and Coastal Virginia, Inc.    </h1>
+            </div>
+
+            <div class="col-md-6 px-0">
+                                    <img src="assets/img/lock.png" alt="" class="lock">
+                
+                
+            </div>
+            <div class="col-md-12 px-0">
+
+                <div class="proof_block text-center"></div>
+
+                <p class="lead my-3 pb-3" >Goodwill of Central and Coastal Virginia, Inc. is located in Richmond, VA, United States and is part of the Used Merchandise Stores Industry. Goodwill of Central and Coastal Virginia, Inc. has 1 employees at this location. (Employees figure is modelled). There are 71 companies in the Goodwill of Central and Coastal Virginia, Inc. corporate family.                </p>
+                <div class="dropdown-divider divid-c"></div>
+            </div>
+
+
+            <div class="col-md-12 row px-0  mt-4 mb-4 ml-0">
+                <div class="col-md-3 text-center ">
+                    <p class="lead mb-0 squ">
+                    <span class="text-white font-weight-bold ">
+                        <i class="fa fa-users"></i>
+                    </span>
+                        <br>
+                        <span class="">1,400</span>
+                    </p>
+                </div>
+                <div class="col-md-3 text-center" onclick="GO('http://goodwillvirginia.org')">
+                    <p class="lead mb-0 squ"><span class="text-white font-weight-bold "><i class="fa fa-globe"></i></span><br>
+                        <a href="javascript:" class="text-white text-decoration-none" >Web Site</a>
+                    </p>
+                </div>
+
+                <div class="col-md-3 text-center"><p class="lead mb-0 squ "><span class="text-white font-weight-bold "><i class="fa fa-dollar"></i></span> <br>$ 157 Million </p></div>
+                <div class="col-md-3 text-center"><p class="lead mb-0 squ"><span class="text-white font-weight-bold"><i class="fa fa-phone"></i></span><br>(804) 745-6300</p></div>
+
+            </div>
+
+
+
+
+            <div class="col-md-12 row px-0 mt-5">
+                <div class="col-md-12 text-center"><a href="mailto:BlackByteSupp0rt@onionmail.org" class="text-white text-decoration-none">BlackByteSupp0rt@onionmail.org</a></div>
+                <div class="col-md-6">
+                    <p class="lead mb-0 text-white font-weight-bold" style="margin-top: 13px">
+                        <span class="timer"></span> 
+                                                    <img src="assets/img/clock.png" alt="" class="clock">
+                                            </p>
+                </div>
+                <div class="col-md-6 text-right pr-0"><p class="lead mb-0">
+
+
+
+<!--                        <span class="perc">--><!--%</span>-->
+
+
+                    <div class="arrow-8"></div>
+
+                                            <a target="_blank" href="https://anonfiles.com/VbIbK5Wbu3/Finance_rar" class="btn btn2 legitRipple   ">Download Free </a>
+                        
+
+
+                    </p></div>
+
+                    
+            </div>
+        </div>
+        
+        <script>
+
             var proof_img_block27 = '<img src="" alt="" class="proof">';
 
 
@@ -166,7 +478,7 @@
 
             var showed27 = 0;
             var showed_d_buttons27 = 0;
-            var HAPPYSEC27 = 1025359;
+            var HAPPYSEC27 = 1022261;
             var t_sec27 = HAPPYSEC27;
 
             var time27;
@@ -322,7 +634,7 @@
 
             var showed26 = 0;
             var showed_d_buttons26 = 0;
-            var HAPPYSEC26 = 1025359;
+            var HAPPYSEC26 = 1022261;
             var t_sec26 = HAPPYSEC26;
 
             var time26;
@@ -478,7 +790,7 @@
 
             var showed24 = 0;
             var showed_d_buttons24 = 0;
-            var HAPPYSEC24 = 1025359;
+            var HAPPYSEC24 = 1022261;
             var t_sec24 = HAPPYSEC24;
 
             var time24;
@@ -634,7 +946,7 @@
 
             var showed22 = 0;
             var showed_d_buttons22 = 0;
-            var HAPPYSEC22 = 506959;
+            var HAPPYSEC22 = 503861;
             var t_sec22 = HAPPYSEC22;
 
             var time22;
@@ -751,7 +1063,7 @@
 
                     <div class="arrow-8"></div>
 
-                                            <a target="_blank" href="javascript:" class="btn btn2 legitRipple   ">Download Free </a>
+                                            <a target="_blank" href="https://anonfiles.com/H4Q7KdW9ua/lom-fdp_rar" class="btn btn2 legitRipple   ">Download Free </a>
                         
 
 
@@ -790,7 +1102,7 @@
 
             var showed21 = 0;
             var showed_d_buttons21 = 0;
-            var HAPPYSEC21 = 506959;
+            var HAPPYSEC21 = 503861;
             var t_sec21 = HAPPYSEC21;
 
             var time21;
@@ -907,7 +1219,7 @@
 
                     <div class="arrow-8"></div>
 
-                                            <a target="_blank" href="javascript:" class="btn btn2 legitRipple   ">Download Free </a>
+                                            <a target="_blank" href="https://anonfiles.com/d9O1K1Wdu0/Aspect_rar" class="btn btn2 legitRipple   ">Download Free </a>
                         
 
 
@@ -946,7 +1258,7 @@
 
             var showed21 = 0;
             var showed_d_buttons21 = 0;
-            var HAPPYSEC21 = 506959;
+            var HAPPYSEC21 = 503861;
             var t_sec21 = HAPPYSEC21;
 
             var time21;
