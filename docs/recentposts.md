@@ -2,6 +2,7 @@
 
 | date | title | group |
 |---|---|---|
+| 2021-11-24 | `atlas.ind.br ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-11-24 | `lawrencegroup.n... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-11-24 | `jurelus.de ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-11-23 | `ALPSRX.COM - MORE THEN 150GB DATA LEAKED` | [lv](https://ransomwatch.telemetry.ltd/#/profiles?id=lv) |
@@ -101,4 +102,3 @@
 | 2021-11-11 | `Cabinet Remy Le Bonnois / Data on sale` | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2021-11-11 | `lemonastere.ca` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-11-10 | `daviscrump.com ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2021-11-10 | `ideaitaliausa.c... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
