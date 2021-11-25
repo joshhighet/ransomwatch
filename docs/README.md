@@ -5,7 +5,7 @@ _:warning: all site pages and graphs are dynamically generated every half hour_
 
 ## 📰 summary - november 25th, 2021
 
-currently tracking `71` groups across `84` various relays and mirrors - _`29` of which are online_
+currently tracking `71` groups across `84` various relays and mirrors - _`30` of which are online_
 
 there are `33` active parsers, `9` of which using headless browsers - _`4` groups have recently introduced captchas_
 
@@ -52,7 +52,7 @@ there are `33` active parsers, `9` of which using headless browsers - _`4` group
 | netwalker |  | ⬇️ 🔴 | 2021-05-01 | rnfdsgm6wb6j6su5txkekw4u4y47kp2eatvu7d6xhyn5cs4lt4pdrqqd.onion |
 | doppelpaymer | Start-maximized.com | ⬇️ 🔴 | 2021-09-23 | hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion |
 | revil | The page is not found | ⬆️ 🟢 |  | dnpscnbaix6nkwvystl3yxglz7nteicqrou3t75tpcc5532cztc46qyd.onion |
-| revil | 404 Not Found | ⬆️ 🟢 |  | aplebzu47wgazapdqks6vrcv6zcnjppkbxbr6wketf56nf6aq2nmyoyd.onion |
+| revil | The page is not found | ⬆️ 🟢 |  | aplebzu47wgazapdqks6vrcv6zcnjppkbxbr6wketf56nf6aq2nmyoyd.onion |
 | everest | Everest ransom team | ⬆️ 🟢 |  | ransomocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexfook2j7esad.onion |
 | ragnarok |  | ⬇️ 🔴 | 2021-05-01 | wobpitin77vdsdiswr43duntv6eqw4rvphedutpaxycjdie6gg3binad.onion |
 | ragnarok | Decrypt Site | ⬇️ 🔴 | 2021-08-27 | sushlnty2j7qdzy64qnvyb6ajkwg7resd3p6agc2widnawodtcedgjid.onion |
@@ -61,7 +61,7 @@ there are `33` active parsers, `9` of which using headless browsers - _`4` group
 | nefilim |  | ⬇️ 🔴 | 2021-05-01 | hxt254aygrsziejn.onion |
 | maze |  | ⬇️ 🔴 | 2021-05-01 | xfr3txoorcyy7tikjgj5dk3rvo3vsrpyaxnclyohkbfp3h277ap4tiad.onion |
 | mount-locker |  | ⬇️ 🔴 | 2021-05-01 | mountnewsokhwilx.onion |
-| babuk-locker | Babuk - Leaks site | ⬇️ 🔴 | 2021-11-25 | nq4zyac4ukl4tykmidbzgdlvaboqeqsemkp4t35bzvjeve6zm2lqcjid.onion |
+| babuk-locker | Babuk - Leaks site | ⬆️ 🟢 |  | nq4zyac4ukl4tykmidbzgdlvaboqeqsemkp4t35bzvjeve6zm2lqcjid.onion |
 | ransomexx | RANSOMEXX | ⬆️ 🟢 |  | rnsm777cdsjrsdlbs4v5qoeppu3px6sb2igmh53jzrx7ipcrbjz5b2ad.onion |
 | cuba |  | ⬇️ 🔴 | 2021-05-01 | cuba4mp6ximo2zlo.onion |
 | pay2key | Pay2Key Leak Directory! | ⬆️ 🟢 |  | pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion |
