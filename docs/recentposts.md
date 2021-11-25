@@ -2,6 +2,10 @@
 
 | date | title | group |
 |---|---|---|
+| 2021-11-25 | `vicksburgha.org ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
+| 2021-11-25 | `ardebolassessor... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
+| 2021-11-25 | `IVEQI.Com ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
+| 2021-11-25 | `mpusd.net ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-11-25 | `EDAN.COM FILES  PART1 - 192.168.2.6\D$ - IM-PAYMENT, 国际市场传播, 国际营销系统超声部, 报价单, 行政组文件 PUBLISH` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2021-11-25 | `wolfbergalvarez...` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-11-24 | `atlas.ind.br ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -98,7 +102,3 @@
 | 2021-11-11 | `VISTRA` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2021-11-11 | `Orgill, Inc.` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2021-11-11 | `Cogan Wire and Metal Products Ltd` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
-| 2021-11-11 | `Axiсorp GMBH` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
-| 2021-11-11 | `Axio` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
-| 2021-11-11 | `Greymouse VA PTY Ltd` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
-| 2021-11-11 | `Cabinet Remy Le Bonnois / Data on sale` | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
