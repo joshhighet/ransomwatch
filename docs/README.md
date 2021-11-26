@@ -9,7 +9,7 @@ currently tracking `71` groups across `84` various relays and mirrors - _`31` of
 
 there are `33` active parsers, `9` of which using headless browsers - _`4` groups have recently introduced captchas_
 
-⏲ there have been `11` posts within the `last 24 hours`
+⏲ there have been `10` posts within the `last 24 hours`
 
 🦈 there have been `298` posts within the `month of november`
 
