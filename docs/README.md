@@ -9,7 +9,7 @@ currently tracking `71` groups across `84` various relays and mirrors - _`29` of
 
 there are `33` active parsers, `9` of which using headless browsers - _`4` groups have recently introduced captchas_
 
-⏲ there have been `8` posts within the `last 24 hours`
+⏲ there have been `7` posts within the `last 24 hours`
 
 🦈 there have been `304` posts within the `month of november`
 
@@ -48,11 +48,11 @@ there are `33` active parsers, `9` of which using headless browsers - _`4` group
 | ragnarlocker | Home Page of Ragnar_Locker Leaks site | ⬆️ 🟢 |  | rgleaktxuey67yrgspmhvtnrqtgogur35lwdrup4d3igtbm3pupc4lyd.onion |
 | ragnarlocker |  | ⬇️ 🔴 | 2021-05-01 | p6o7m73ujalhgkiv.onion |
 | clop |  | ⬇️ 🔴 | 2021-05-01 | ekbgzchl6x2ias37.onion |
-| clop | HOME - CL0P^_- LEAKS | ⬆️ 🟢 |  | santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad.onion |
+| clop | 502 Bad Gateway | ⬆️ 🟢 |  | santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad.onion |
 | netwalker |  | ⬇️ 🔴 | 2021-05-01 | rnfdsgm6wb6j6su5txkekw4u4y47kp2eatvu7d6xhyn5cs4lt4pdrqqd.onion |
 | doppelpaymer | Start-maximized.com | ⬇️ 🔴 | 2021-09-23 | hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion |
 | revil | 404 Not Found | ⬆️ 🟢 |  | dnpscnbaix6nkwvystl3yxglz7nteicqrou3t75tpcc5532cztc46qyd.onion |
-| revil | The page is not found | ⬆️ 🟢 |  | aplebzu47wgazapdqks6vrcv6zcnjppkbxbr6wketf56nf6aq2nmyoyd.onion |
+| revil | 404 Not Found | ⬆️ 🟢 |  | aplebzu47wgazapdqks6vrcv6zcnjppkbxbr6wketf56nf6aq2nmyoyd.onion |
 | everest | Everest ransom team | ⬇️ 🔴 | 2021-11-26 | ransomocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexfook2j7esad.onion |
 | ragnarok |  | ⬇️ 🔴 | 2021-05-01 | wobpitin77vdsdiswr43duntv6eqw4rvphedutpaxycjdie6gg3binad.onion |
 | ragnarok | Decrypt Site | ⬇️ 🔴 | 2021-08-27 | sushlnty2j7qdzy64qnvyb6ajkwg7resd3p6agc2widnawodtcedgjid.onion |
