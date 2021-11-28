@@ -2,6 +2,7 @@
 
 | date | title | group |
 |---|---|---|
+| 2021-11-28 | `DUNMORE` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2021-11-28 | `afcx.co` | [arvinclub](https://ransomwatch.telemetry.ltd/#/profiles?id=arvinclub) |
 | 2021-11-27 | `Black Friday has arrived` | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2021-11-27 | `telepro.com.mx ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -101,4 +102,3 @@
 | 2021-11-15 | `Police Brazil` | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2021-11-13 | `Società Italiana degli Autori ed Editori / Data on sale` | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2021-11-13 | `Cabinet Remy Le Bonnois / Data on sale / Charlie Hebdo` | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
-| 2021-11-13 | `Visage Imaging` | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
