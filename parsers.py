@@ -501,3 +501,27 @@ def five4bb47h():
         errlog('54bb47h: ' + 'parsing fail')
     for post in posts:
         appender(post, '54bb47h')
+
+def midas():
+    stdlog('parser: ' + 'midas')
+    parser = '''
+    grep "/h3" source/midas-*.html | sed -e 's/<\/h3>//' -e 's/^ *//g' -e '/^$/d' -e 's/^ *//g' -e 's/[[:space:]]*$//' -e '/^$/d'
+    '''
+    posts = runshellcmd(parser)
+    if len(posts) == 1:
+        errlog('midas: ' + 'parsing fail')
+    for post in posts:
+        appender(post, 'midas')
+
+def snatch():
+    stdlog('parser: ' + 'snatch')
+    # macos grep: grep -oE
+    # gnu grep: grep -oP
+    parser = '''
+    grep -oP "a-b-n-name.*?</div>" source/snatch-*.html | cut -d '>' -f 2 | cut -d '<' -f 1
+    '''
+    posts = runshellcmd(parser)
+    if len(posts) == 1:
+        errlog('snatch: ' + 'parsing fail')
+    for post in posts:
+        appender(post, 'snatch')

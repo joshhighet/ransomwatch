@@ -252,6 +252,8 @@ if args.mode == 'parse':
     parsers.atomsilo()
     parsers.lv()
     parsers.five4bb47h()
+    parsers.snatch()
+    parsers.midas()
     stdlog('ransomwatch: ' + 'parse run complete')
 
 if args.mode == 'list':
