@@ -1573,7 +1573,7 @@
         "profile": []
     },
     {
-        "name": "54bb47h",
+        "name": "sabbath",
         "captcha": false,
         "parser": false,
         "geckodriver": false,
@@ -1599,7 +1599,9 @@
                 "lastscrape": "2021-11-29 22:14:29.828292"
             }
         ],
-        "profile": []
+        "profile": [
+            "https://www.mandiant.com/resources/sabbath-ransomware-affiliate"
+        ]
     },
     {
         "name": "quantum",
