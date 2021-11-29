@@ -2,6 +2,8 @@
 
 | date | title | group |
 |---|---|---|
+| 2021-11-29 | `Epple Druckfarben` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
+| 2021-11-29 | `San Carlo` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2021-11-29 | `dlb.it ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-11-29 | `CurIT` | [midas](https://ransomwatch.telemetry.ltd/#/profiles?id=midas) |
 | 2021-11-29 | `Westrup Company` | [midas](https://ransomwatch.telemetry.ltd/#/profiles?id=midas) |
@@ -100,5 +102,3 @@
 | 2021-11-21 | `telemovil.com.s... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-11-21 | `evans.co.id ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-11-21 | `consortiumlegal... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2021-11-20 | `apower.com.sg ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2021-11-20 | `MINISTRY OF ECONOMY AND FINANCE Peru` | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
