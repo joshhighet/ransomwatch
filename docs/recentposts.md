@@ -2,6 +2,12 @@
 
 | date | title | group |
 |---|---|---|
+| 2021-11-29 | `Texas Enterprises, Inc (TEI)` | [midas](https://ransomwatch.telemetry.ltd/#/profiles?id=midas) |
+| 2021-11-29 | `Calibrus` | [midas](https://ransomwatch.telemetry.ltd/#/profiles?id=midas) |
+| 2021-11-29 | `Amtech Corporation` | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
+| 2021-11-29 | `APG Neuros` | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
+| 2021-11-29 | `Salinen Austria` | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
+| 2021-11-29 | `Ishida` | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
 | 2021-11-29 | `Arbitech` | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
 | 2021-11-29 | `Daylesford Organic` | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
 | 2021-11-29 | `Bock, Hatch, Lewis &amp; Oppenheim, LLC` | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
@@ -96,9 +102,3 @@
 | 2021-11-16 | `trueblueenviron...` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-11-16 | `pkf.com.au ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-11-16 | `Marymount Manhattan College` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
-| 2021-11-16 | `Unione dei Comuni Terre di Pianura` | [ransomexx](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomexx) |
-| 2021-11-16 | `LOGROS S.A.` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
-| 2021-11-16 | `Aisha Steel-ASML` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
-| 2021-11-16 | `GENESISNET.COM FILES  PART8 - 10.0.70.121\ATS_FILESHARE\Project_Management** PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2021-11-15 | `Component Assembly Systems` | [lorenz](https://ransomwatch.telemetry.ltd/#/profiles?id=lorenz) |
-| 2021-11-15 | `Canada West Land    ` | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
