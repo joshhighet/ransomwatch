@@ -2,6 +2,12 @@
 
 | date | title | group |
 |---|---|---|
+| 2021-11-29 | `CurIT` | [midas](https://ransomwatch.telemetry.ltd/#/profiles?id=midas) |
+| 2021-11-29 | `Westrup Company` | [midas](https://ransomwatch.telemetry.ltd/#/profiles?id=midas) |
+| 2021-11-29 | `GROUP OF COMPANY` | [midas](https://ransomwatch.telemetry.ltd/#/profiles?id=midas) |
+| 2021-11-29 | `ChaddadGroup` | [midas](https://ransomwatch.telemetry.ltd/#/profiles?id=midas) |
+| 2021-11-29 | `CRM GROUP` | [midas](https://ransomwatch.telemetry.ltd/#/profiles?id=midas) |
+| 2021-11-29 | `Bouquet Mulligan DeMaio` | [midas](https://ransomwatch.telemetry.ltd/#/profiles?id=midas) |
 | 2021-11-29 | `IDSFULFILLMENT` | [midas](https://ransomwatch.telemetry.ltd/#/profiles?id=midas) |
 | 2021-11-29 | `RWL GmbH` | [midas](https://ransomwatch.telemetry.ltd/#/profiles?id=midas) |
 | 2021-11-29 | `EISENBERG HEFLER &amp; LEVY LLP` | [midas](https://ransomwatch.telemetry.ltd/#/profiles?id=midas) |
@@ -96,9 +102,3 @@
 | 2021-11-20 | `apower.com.sg ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-11-20 | `MINISTRY OF ECONOMY AND FINANCE Peru` | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2021-11-20 | `inlineplumbing....` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2021-11-19 | `Not Yet Kameraden!` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
-| 2021-11-19 | `Hospitality Furnishings &amp; Design Inc.` | [suncrypt](https://ransomwatch.telemetry.ltd/#/profiles?id=suncrypt) |
-| 2021-11-19 | `Herman &amp; Kittle Properties Inc.` | [suncrypt](https://ransomwatch.telemetry.ltd/#/profiles?id=suncrypt) |
-| 2021-11-19 | `a1ssi.com ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2021-11-19 | `duncandisabilit... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2021-11-19 | `dcaa.gov.ae` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
