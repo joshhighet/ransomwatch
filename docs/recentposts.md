@@ -2,6 +2,12 @@
 
 | date | title | group |
 |---|---|---|
+| 2021-11-29 | `Arbitech` | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
+| 2021-11-29 | `Daylesford Organic` | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
+| 2021-11-29 | `Bock, Hatch, Lewis &amp; Oppenheim, LLC` | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
+| 2021-11-29 | `Landmark Builders` | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
+| 2021-11-29 | `Match MG` | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
+| 2021-11-29 | `Cadence Aerospace` | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
 | 2021-11-28 | `ibes-gmbh.de` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-11-28 | `DUNMORE` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2021-11-28 | `afcx.co` | [arvinclub](https://ransomwatch.telemetry.ltd/#/profiles?id=arvinclub) |
@@ -96,9 +102,3 @@
 | 2021-11-16 | `GENESISNET.COM FILES  PART8 - 10.0.70.121\ATS_FILESHARE\Project_Management** PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2021-11-15 | `Component Assembly Systems` | [lorenz](https://ransomwatch.telemetry.ltd/#/profiles?id=lorenz) |
 | 2021-11-15 | `Canada West Land    ` | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
-| 2021-11-15 | `Emery Jensen Distribution    ` | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
-| 2021-11-15 | `Purifoy Chevrolet Co.    ` | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
-| 2021-11-15 | `Williams & Rowe Company, Inc.    ` | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
-| 2021-11-15 | `cloudpros.com ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2021-11-15 | `Police Brazil` | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
-| 2021-11-13 | `Società Italiana degli Autori ed Editori / Data on sale` | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
