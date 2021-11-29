@@ -5,7 +5,7 @@ _:warning: all site pages and graphs are dynamically generated every half hour_
 
 ## 📰 summary - november 29th, 2021
 
-currently tracking `73` groups across `86` various relays and mirrors - _`31` of which are online_
+currently tracking `73` groups across `86` various relays and mirrors - _`33` of which are online_
 
 there are `35` active parsers, `9` of which using headless browsers - _`4` groups have recently introduced captchas_
 
@@ -34,7 +34,7 @@ there are `35` active parsers, `9` of which using headless browsers - _`4` group
 | lv | LV Blog | ⬆️ 🟢 |  | rbvuetuneohce3ouxjlbxtimyyxokb4btncxjbo44fbgxqy7tskinwad.onion |
 | lv | LV Blog | ⬇️ 🔴 | 2021-10-07 | 4qbxi3i2oqmyzxsjg4fwe4aly3xkped52gq5orp6efpkeskvchqe27id.onion |
 | lorenz | Lorenz | ⬆️ 🟢 |  | lorenzmlwpzgxq736jzseuterytjueszsvznuibanxomlpkyxk6ksoyd.onion |
-| lockbit2 | LockBit BLOG | ⬇️ 🔴 | 2021-11-29 | lockbitapt6vx57t3eeqjofwgcglmutr3a35nygvokja5uuccip4ykyd.onion |
+| lockbit2 | LockBit BLOG | ⬆️ 🟢 |  | lockbitapt6vx57t3eeqjofwgcglmutr3a35nygvokja5uuccip4ykyd.onion |
 | lockbit2 | LOCKFILE | ⬇️ 🔴 | 2021-11-21 | zqaflhty5hyziovsxgqvj2mrz5e5rs6oqxzb54zolccfnvtn5w2johad.onion |
 | hive | Hive | ⬆️ 🟢 |  | hiveleakdbtnp76ulyhi52eag6c6tyc3xw7ez7iqy6wc34gd2nekazyd.onion |
 | arvinclub | Arvin Club – آزادی برای اتصال | ⬆️ 🟢 |  | 3kp6j22pz3zkv76yutctosa6djpj4yib2icvdqxucdaxxedumhqicpad.onion |
@@ -79,7 +79,7 @@ there are `35` active parsers, `9` of which using headless browsers - _`4` group
 | avos |  | ⬇️ 🔴 | 2021-05-01 | avos2fuj6olp6x36.onion |
 | blackbyte |  | ⬇️ 🔴 | 2021-05-01 | 6iaj3efye3q62xjgfxyegrufhewxew7yt4scxjd45tlfafyja6q4ctqd.onion |
 | blackbyte | BlackByte BLOG | ⬆️ 🟢 |  | f5uzduboq4fa2xkjloprmctk7ve3dm46ff7aniis66cbekakvksxgeqd.onion |
-| lolnek | Support | ⬇️ 🔴 | 2021-11-29 | mmeeiix2ejdwkmseycljetmpiwebdvgjts75c63camjofn2cjdoulzqd.onion |
+| lolnek | Support | ⬆️ 🟢 |  | mmeeiix2ejdwkmseycljetmpiwebdvgjts75c63camjofn2cjdoulzqd.onion |
 | blackshadow |  | ⬇️ 🔴 | 2021-05-01 | 544corkfh5hwhtn4.onion |
 | bonacigroup | Blog | ⬆️ 🟢 |  | bonacifryrxr4siz6ptvokuihdzmjzpveruklxumflz5thmkgauty2qd.onion |
 | coomingproject |  | ⬇️ 🔴 | 2021-05-01 | teo7aj5mfgzxyeme.onion |
