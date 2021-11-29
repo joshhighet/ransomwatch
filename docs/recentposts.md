@@ -2,6 +2,7 @@
 
 | date | title | group |
 |---|---|---|
+| 2021-11-29 | `dlb.it ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-11-29 | `CurIT` | [midas](https://ransomwatch.telemetry.ltd/#/profiles?id=midas) |
 | 2021-11-29 | `Westrup Company` | [midas](https://ransomwatch.telemetry.ltd/#/profiles?id=midas) |
 | 2021-11-29 | `GROUP OF COMPANY` | [midas](https://ransomwatch.telemetry.ltd/#/profiles?id=midas) |
@@ -101,4 +102,3 @@
 | 2021-11-21 | `consortiumlegal... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-11-20 | `apower.com.sg ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-11-20 | `MINISTRY OF ECONOMY AND FINANCE Peru` | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
-| 2021-11-20 | `inlineplumbing....` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
