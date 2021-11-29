@@ -5,7 +5,7 @@ _:warning: all site pages and graphs are dynamically generated every half hour_
 
 ## 📰 summary - november 29th, 2021
 
-currently tracking `73` groups across `86` various relays and mirrors - _`32` of which are online_
+currently tracking `73` groups across `86` various relays and mirrors - _`31` of which are online_
 
 there are `35` active parsers, `9` of which using headless browsers - _`4` groups have recently introduced captchas_
 
@@ -29,12 +29,12 @@ there are `35` active parsers, `9` of which using headless browsers - _`4` group
 | marketo |  | ⬇️ 🔴 | 2021-05-01 | g5sbltooh2okkcb2.onion |
 | marketo | 404 Not Found | ⬇️ 🔴 | 2021-10-04 | fvki3hj7uxuirxpeop6chgqoczanmebutznt2mkzy6waov6w456vjuid.onion |
 | synack | end of game | ⬇️ 🔴 | 2021-08-18 | xqkz2rmrqkeqf6sjbrb47jfwnqxcd4o2zvaxxzrpbh2piknms37rw2ad.onion |
-| suncrypt | News | ⬆️ 🟢 |  | x2miyuiwpib2imjr5ykyjngdu7v6vprkkhjltrk4qafymtawey4qzwid.onion |
+| suncrypt | News | ⬇️ 🔴 | 2021-11-29 | x2miyuiwpib2imjr5ykyjngdu7v6vprkkhjltrk4qafymtawey4qzwid.onion |
 | suncrypt |  | ⬇️ 🔴 | 2021-05-01 | nbzzb6sa6xuura2z.onion |
 | lv | LV Blog | ⬆️ 🟢 |  | rbvuetuneohce3ouxjlbxtimyyxokb4btncxjbo44fbgxqy7tskinwad.onion |
 | lv | LV Blog | ⬇️ 🔴 | 2021-10-07 | 4qbxi3i2oqmyzxsjg4fwe4aly3xkped52gq5orp6efpkeskvchqe27id.onion |
 | lorenz | Lorenz | ⬆️ 🟢 |  | lorenzmlwpzgxq736jzseuterytjueszsvznuibanxomlpkyxk6ksoyd.onion |
-| lockbit2 | LockBit BLOG | ⬇️ 🔴 | 2021-11-29 | lockbitapt6vx57t3eeqjofwgcglmutr3a35nygvokja5uuccip4ykyd.onion |
+| lockbit2 | LockBit BLOG | ⬆️ 🟢 |  | lockbitapt6vx57t3eeqjofwgcglmutr3a35nygvokja5uuccip4ykyd.onion |
 | lockbit2 | LOCKFILE | ⬇️ 🔴 | 2021-11-21 | zqaflhty5hyziovsxgqvj2mrz5e5rs6oqxzb54zolccfnvtn5w2johad.onion |
 | hive | Hive | ⬆️ 🟢 |  | hiveleakdbtnp76ulyhi52eag6c6tyc3xw7ez7iqy6wc34gd2nekazyd.onion |
 | arvinclub | Arvin Club – آزادی برای اتصال | ⬆️ 🟢 |  | 3kp6j22pz3zkv76yutctosa6djpj4yib2icvdqxucdaxxedumhqicpad.onion |
@@ -68,7 +68,7 @@ there are `35` active parsers, `9` of which using headless browsers - _`4` group
 | aztroteam |  | ⬇️ 🔴 | 2021-05-01 | anewset3pcya3xvk73hj7yunuamutxxsm5sohkdi32blhmql55tvgqad.onion |
 | lockdata | LockData Auction | ⬆️ 🟢 |  | wm6mbuzipviusuc42kcggzkdpbhuv45sn7olyamy6mcqqked3waslbqd.onion |
 | blacktor | 404 Not Found | ⬆️ 🟢 |  | bl4cktorpms2gybrcyt52aakcxt6yn37byb65uama5cimhifcscnqkid.onion |
-| haron | Clients page | ⬆️ 🟢 |  | ft4zr2jzlqoyob7yg4fcpwyt37hox3ajajqnfkdvbfrkjioyunmqnpad.onion |
+| haron | Clients page | ⬇️ 🔴 | 2021-11-29 | ft4zr2jzlqoyob7yg4fcpwyt37hox3ajajqnfkdvbfrkjioyunmqnpad.onion |
 | darkleakmarket | Dark Leak Market | ⬇️ 🔴 | 2021-10-07 | 54rdhzjzc4ids4u4wata4zr4ywfon5wpz2ml4q3avelgadpvmdal2vqd.onion |
 | prometheus |  | ⬇️ 🔴 | 2021-05-01 | promethw27cbrcot.onion |
 | blackmatter | BlackMatter | ⬇️ 🔴 | 2021-11-04 | blackmax7su6mbwtcyo3xwtpfxpm356jjqrs34y4crcytpw7mifuedyd.onion |
