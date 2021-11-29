@@ -2,6 +2,12 @@
 
 | date | title | group |
 |---|---|---|
+| 2021-11-29 | `Xiamen Naier Electronics Co., Ltd.` | [midas](https://ransomwatch.telemetry.ltd/#/profiles?id=midas) |
+| 2021-11-29 | `Haiti Meat Processing SA` | [midas](https://ransomwatch.telemetry.ltd/#/profiles?id=midas) |
+| 2021-11-29 | `Consult Three Architects` | [midas](https://ransomwatch.telemetry.ltd/#/profiles?id=midas) |
+| 2021-11-29 | `Trendico GmbH` | [midas](https://ransomwatch.telemetry.ltd/#/profiles?id=midas) |
+| 2021-11-29 | `Pellisard` | [midas](https://ransomwatch.telemetry.ltd/#/profiles?id=midas) |
+| 2021-11-29 | `G.E.W. CORPORATION LIMITED` | [midas](https://ransomwatch.telemetry.ltd/#/profiles?id=midas) |
 | 2021-11-29 | `Texas Enterprises, Inc (TEI)` | [midas](https://ransomwatch.telemetry.ltd/#/profiles?id=midas) |
 | 2021-11-29 | `Calibrus` | [midas](https://ransomwatch.telemetry.ltd/#/profiles?id=midas) |
 | 2021-11-29 | `Amtech Corporation` | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
@@ -96,9 +102,3 @@
 | 2021-11-17 | `btc-alpha.com ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-11-17 | `royole.com ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-11-17 | `General RV Center` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
-| 2021-11-16 | `JAFTEX Corporation` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
-| 2021-11-16 | `essextec.com ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2021-11-16 | `HARTMANN FINANCIAL ADVISORS LLC` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
-| 2021-11-16 | `trueblueenviron...` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2021-11-16 | `pkf.com.au ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2021-11-16 | `Marymount Manhattan College` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
