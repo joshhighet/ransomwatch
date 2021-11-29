@@ -2,6 +2,17 @@
 
 | date | title | group |
 |---|---|---|
+| 2021-11-29 | `IDSFULFILLMENT` | [midas](https://ransomwatch.telemetry.ltd/#/profiles?id=midas) |
+| 2021-11-29 | `RWL GmbH` | [midas](https://ransomwatch.telemetry.ltd/#/profiles?id=midas) |
+| 2021-11-29 | `EISENBERG HEFLER &amp; LEVY LLP` | [midas](https://ransomwatch.telemetry.ltd/#/profiles?id=midas) |
+| 2021-11-29 | `HAMTACO` | [midas](https://ransomwatch.telemetry.ltd/#/profiles?id=midas) |
+| 2021-11-29 | `CABINET CAZANAVE` | [midas](https://ransomwatch.telemetry.ltd/#/profiles?id=midas) |
+| 2021-11-29 | `Raisetech` | [midas](https://ransomwatch.telemetry.ltd/#/profiles?id=midas) |
+| 2021-11-29 | `EPOWER INTERNATIONAL ( SHANGHAl )CO.,LTD.` | [midas](https://ransomwatch.telemetry.ltd/#/profiles?id=midas) |
+| 2021-11-29 | `Dongguan IMR Technology Co., Ltd` | [midas](https://ransomwatch.telemetry.ltd/#/profiles?id=midas) |
+| 2021-11-29 | `Capital Distributors (S) Pte Ltd` | [midas](https://ransomwatch.telemetry.ltd/#/profiles?id=midas) |
+| 2021-11-29 | `KPS GROUP` | [midas](https://ransomwatch.telemetry.ltd/#/profiles?id=midas) |
+| 2021-11-29 | `Shanghai Cyeco Environmental Technology Co., Ltd.` | [midas](https://ransomwatch.telemetry.ltd/#/profiles?id=midas) |
 | 2021-11-29 | `Xiamen Naier Electronics Co., Ltd.` | [midas](https://ransomwatch.telemetry.ltd/#/profiles?id=midas) |
 | 2021-11-29 | `Haiti Meat Processing SA` | [midas](https://ransomwatch.telemetry.ltd/#/profiles?id=midas) |
 | 2021-11-29 | `Consult Three Architects` | [midas](https://ransomwatch.telemetry.ltd/#/profiles?id=midas) |
@@ -91,14 +102,3 @@
 | 2021-11-19 | `a1ssi.com ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-11-19 | `duncandisabilit... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-11-19 | `dcaa.gov.ae` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2021-11-19 | `HELSA Group International` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
-| 2021-11-18 | `maximusinfoware...` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2021-11-18 | `Area Energy &amp; Electric` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
-| 2021-11-18 | `FTI Group` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
-| 2021-11-17 | `ipbridge.co.jp ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2021-11-17 | `hanshin-dp.co.j... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2021-11-17 | `peschl-ultravio... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2021-11-17 | `reiss-beck.de ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2021-11-17 | `btc-alpha.com ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2021-11-17 | `royole.com ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2021-11-17 | `General RV Center` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
