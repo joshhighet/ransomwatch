@@ -2,6 +2,7 @@
 
 | date | title | group |
 |---|---|---|
+| 2021-11-30 | `Volvo Car Corporation` | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
 | 2021-11-30 | `QRS Healthcare Solutions` | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
 | 2021-11-30 | `UABL S.A.` | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
 | 2021-11-30 | `Read more` | [suncrypt](https://ransomwatch.telemetry.ltd/#/profiles?id=suncrypt) |
@@ -101,4 +102,3 @@
 | 2021-11-22 | `jadecorp` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2021-11-22 | `DKS  Deutsch Kerrigan LLP` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2021-11-22 | `Charlie Hebdo` | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
-| 2021-11-22 | `yankey.com.tw` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
