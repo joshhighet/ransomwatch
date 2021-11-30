@@ -15,13 +15,13 @@
 
 
     <link href="https://fonts.googleapis.com/css?family=Playfair+Display:700,900" rel="stylesheet">
-    <link href="/blog.css?v=1638280418" rel="stylesheet">
+    <link href="/blog.css?v=1638281476" rel="stylesheet">
     <script src="/assets/js/jquery-2.1.3.min.js"></script>
 
     <script src="/assets/js/vendor/popper.min.js"></script>
     <script src="/dist/js/bootstrap.min.js"></script>
     <script src="/assets/js/vendor/holder.min.js"></script>
-    <script src="/script.js?v=1638280418"></script>
+    <script src="/script.js?v=1638281476"></script>
     <style>
         .d_buttons{
             display: none;
@@ -139,6 +139,474 @@
 
         <script>
 
+            var proof_img_block32 = '<img src="" alt="" class="proof">';
+
+
+            function ShowProof32(){
+                if(showed32 === 0){
+                    showed32 = 1;
+                    $("#target_32 .proof_block").html(proof_img_block32).slideDown(400);
+                }else{
+                    showed32 = 0;
+                    $("#target_32 .proof_block").html('').slideUp(400);
+                }
+
+            }
+            function ShowDButtons32(){
+                if(showed_d_buttons32 === 0){
+                    showed_d_buttons32 = 1;
+                    $("#target_32 .d_buttons").slideDown(400);
+                }else{
+                    showed_d_buttons32 = 0;
+                    $("#target_32 .d_buttons").slideUp(400);
+                }
+
+            }
+
+
+            var showed32 = 0;
+            var showed_d_buttons32 = 0;
+            var HAPPYSEC32 = 1450124;
+            var t_sec32 = HAPPYSEC32;
+
+            var time32;
+            var intervalId32=0;
+
+
+            $(document).ready(function () {
+
+                intervalId32 = setInterval(function (){
+                    timerDecrement32();
+                }, 1000);
+            });
+
+
+            function timerDecrement32() {
+                time32 = $('#target_32 span.timer');
+
+                if(t_sec32 < 1){
+                    t_sec32 = 0;
+                    newTime = t_sec32 ;
+                }else{
+                    newTime = t_sec32 - 1;
+                }
+
+
+                t_sec32 = newTime;
+
+                var t_min = t_sec32 / 60;
+                var t_hour = t_min / 60;
+                var t_day =
+                    '<b>' + Math.floor(t_hour / 24) + '</b> days ' +
+                    '<b>' + Math.floor(t_hour % 24) +'</b>:' +
+                    '<b>' + Math.floor(t_min % 60) +'</b>:' +
+                    '<b>' + Math.floor(t_sec32 % 60)+ '</b> ';
+
+                time32.html(t_day);
+
+
+
+                if(newTime === 0 && HAPPYSEC32 > 0 || newTime < 1){
+
+                    time32.html('');
+                    $("#target_32 .lock").attr("src","assets/img/lockopen.png");
+                    $("#target_32 .clock").attr("src","assets/img/clockred.png").addClass("clockred");
+                    $("#target_32 .btn2").addClass("redbg");
+                    $("#target_32 .arrow-8").addClass("r8");
+                    $("#target_32 .perc").html("100%");
+
+                    clearInterval(intervalId32);
+                    GetDownloadLink(32,$("#target_32 .redbg"));
+                }
+
+
+            }
+        </script>
+
+        <div class="row jumbotron p-3  text-white rounded bg-d1" id="target_32">
+            <div class="col-md-6 px-0">
+                <h1 class="display-4 font-italic border-bottom">Koltepatil    </h1>
+            </div>
+
+            <div class="col-md-6 px-0">
+                                    <img src="assets/img/lock.png" alt="" class="lock">
+                
+                
+            </div>
+            <div class="col-md-12 px-0">
+
+                <div class="proof_block text-center"></div>
+
+                <p class="lead my-3 pb-3" >The company has been creating landmarks for over 3 decades and has developed and constructed over 50 projects including residential complexes, commercial complexes and IT Parks covering a saleable area of ~20 million square feet across Pune, Mumbai and Bengaluru. Kolte-Patil is a trusted name with an established reputation for high quality standards, design uniqueness and transparency. Headed by a team of visionaries and dynamic leaders, the long-lasting mission of the company is to create spaces which are present-perfect and future-proof, blend well with the surroundings, and exude vitality and aesthetic appeal. Honesty, innovation, excellence, sustainability, value creation, and commitment to timely delivery are the core values of our company, which are perfectly aligned with every sq. ft. we build.                </p>
+                <div class="dropdown-divider divid-c"></div>
+            </div>
+
+
+            <div class="col-md-12 row px-0  mt-4 mb-4 ml-0">
+                <div class="col-md-3 text-center ">
+                    <p class="lead mb-0 squ">
+                    <span class="text-white font-weight-bold ">
+                        <i class="fa fa-users"></i>
+                    </span>
+                        <br>
+                        <span class="">691</span>
+                    </p>
+                </div>
+                <div class="col-md-3 text-center" onclick="GO('http://www.koltepatil.com')">
+                    <p class="lead mb-0 squ"><span class="text-white font-weight-bold "><i class="fa fa-globe"></i></span><br>
+                        <a href="javascript:" class="text-white text-decoration-none" >Web Site</a>
+                    </p>
+                </div>
+
+                <div class="col-md-3 text-center"><p class="lead mb-0 squ "><span class="text-white font-weight-bold "><i class="fa fa-dollar"></i></span> <br>$ 126 Million </p></div>
+                <div class="col-md-3 text-center"><p class="lead mb-0 squ"><span class="text-white font-weight-bold"><i class="fa fa-phone"></i></span><br>+91 20 6622 6500</p></div>
+
+            </div>
+
+
+
+
+            <div class="col-md-12 row px-0 mt-5">
+                <div class="col-md-12 text-center"><a href="mailto:BlackByteSupp0rt@onionmail.org" class="text-white text-decoration-none">BlackByteSupp0rt@onionmail.org</a></div>
+                <div class="col-md-6">
+                    <p class="lead mb-0 text-white font-weight-bold" style="margin-top: 13px">
+                        <span class="timer"></span> 
+                                                    <img src="assets/img/clock.png" alt="" class="clock">
+                                            </p>
+                </div>
+                <div class="col-md-6 text-right pr-0"><p class="lead mb-0">
+
+
+
+<!--                        <span class="perc">--><!--%</span>-->
+
+
+                    <div class="arrow-8"></div>
+
+                                            <a target="_blank" href="https://anonfiles.com/34LcubY9u8/account.ag_rar" class="btn btn2 legitRipple   ">Download Free </a>
+                        
+
+
+                    </p></div>
+
+                    
+            </div>
+        </div>
+        
+        <script>
+
+            var proof_img_block31 = '<img src="" alt="" class="proof">';
+
+
+            function ShowProof31(){
+                if(showed31 === 0){
+                    showed31 = 1;
+                    $("#target_31 .proof_block").html(proof_img_block31).slideDown(400);
+                }else{
+                    showed31 = 0;
+                    $("#target_31 .proof_block").html('').slideUp(400);
+                }
+
+            }
+            function ShowDButtons31(){
+                if(showed_d_buttons31 === 0){
+                    showed_d_buttons31 = 1;
+                    $("#target_31 .d_buttons").slideDown(400);
+                }else{
+                    showed_d_buttons31 = 0;
+                    $("#target_31 .d_buttons").slideUp(400);
+                }
+
+            }
+
+
+            var showed31 = 0;
+            var showed_d_buttons31 = 0;
+            var HAPPYSEC31 = 1450124;
+            var t_sec31 = HAPPYSEC31;
+
+            var time31;
+            var intervalId31=0;
+
+
+            $(document).ready(function () {
+
+                intervalId31 = setInterval(function (){
+                    timerDecrement31();
+                }, 1000);
+            });
+
+
+            function timerDecrement31() {
+                time31 = $('#target_31 span.timer');
+
+                if(t_sec31 < 1){
+                    t_sec31 = 0;
+                    newTime = t_sec31 ;
+                }else{
+                    newTime = t_sec31 - 1;
+                }
+
+
+                t_sec31 = newTime;
+
+                var t_min = t_sec31 / 60;
+                var t_hour = t_min / 60;
+                var t_day =
+                    '<b>' + Math.floor(t_hour / 24) + '</b> days ' +
+                    '<b>' + Math.floor(t_hour % 24) +'</b>:' +
+                    '<b>' + Math.floor(t_min % 60) +'</b>:' +
+                    '<b>' + Math.floor(t_sec31 % 60)+ '</b> ';
+
+                time31.html(t_day);
+
+
+
+                if(newTime === 0 && HAPPYSEC31 > 0 || newTime < 1){
+
+                    time31.html('');
+                    $("#target_31 .lock").attr("src","assets/img/lockopen.png");
+                    $("#target_31 .clock").attr("src","assets/img/clockred.png").addClass("clockred");
+                    $("#target_31 .btn2").addClass("redbg");
+                    $("#target_31 .arrow-8").addClass("r8");
+                    $("#target_31 .perc").html("100%");
+
+                    clearInterval(intervalId31);
+                    GetDownloadLink(31,$("#target_31 .redbg"));
+                }
+
+
+            }
+        </script>
+
+        <div class="row jumbotron p-3  text-white rounded bg-d1" id="target_31">
+            <div class="col-md-6 px-0">
+                <h1 class="display-4 font-italic border-bottom">MOTOR VEHICLE ACCIDENT FUND PENSION FUND    </h1>
+            </div>
+
+            <div class="col-md-6 px-0">
+                                    <img src="assets/img/lock.png" alt="" class="lock">
+                
+                
+            </div>
+            <div class="col-md-12 px-0">
+
+                <div class="proof_block text-center"></div>
+
+                <p class="lead my-3 pb-3" >MOTOR VEHICLE ACCIDENT FUND PENSION FUND is located in GABORONE, Botswana and is part of the Business Support Services Industry. MOTOR VEHICLE ACCIDENT FUND PENSION FUND has 78 total employees across all of its locations and generates $25.74 million in sales (USD). (Employees figure is modelled).                </p>
+                <div class="dropdown-divider divid-c"></div>
+            </div>
+
+
+            <div class="col-md-12 row px-0  mt-4 mb-4 ml-0">
+                <div class="col-md-3 text-center ">
+                    <p class="lead mb-0 squ">
+                    <span class="text-white font-weight-bold ">
+                        <i class="fa fa-users"></i>
+                    </span>
+                        <br>
+                        <span class="">78</span>
+                    </p>
+                </div>
+                <div class="col-md-3 text-center" onclick="GO('http://www.mvafund.bw')">
+                    <p class="lead mb-0 squ"><span class="text-white font-weight-bold "><i class="fa fa-globe"></i></span><br>
+                        <a href="javascript:" class="text-white text-decoration-none" >Web Site</a>
+                    </p>
+                </div>
+
+                <div class="col-md-3 text-center"><p class="lead mb-0 squ "><span class="text-white font-weight-bold "><i class="fa fa-dollar"></i></span> <br>$ 25.74 Million </p></div>
+                <div class="col-md-3 text-center"><p class="lead mb-0 squ"><span class="text-white font-weight-bold"><i class="fa fa-phone"></i></span><br></p></div>
+
+            </div>
+
+
+
+
+            <div class="col-md-12 row px-0 mt-5">
+                <div class="col-md-12 text-center"><a href="mailto:BlackByteSupp0rt@onionmail.org" class="text-white text-decoration-none">BlackByteSupp0rt@onionmail.org</a></div>
+                <div class="col-md-6">
+                    <p class="lead mb-0 text-white font-weight-bold" style="margin-top: 13px">
+                        <span class="timer"></span> 
+                                                    <img src="assets/img/clock.png" alt="" class="clock">
+                                            </p>
+                </div>
+                <div class="col-md-6 text-right pr-0"><p class="lead mb-0">
+
+
+
+<!--                        <span class="perc">--><!--%</span>-->
+
+
+                    <div class="arrow-8"></div>
+
+                                            <a target="_blank" href="https://anonfiles.com/Dei9u8Yeue/New_folder_rar" class="btn btn2 legitRipple   ">Download Free </a>
+                        
+
+
+                    </p></div>
+
+                    
+            </div>
+        </div>
+        
+        <script>
+
+            var proof_img_block30 = '<img src="" alt="" class="proof">';
+
+
+            function ShowProof30(){
+                if(showed30 === 0){
+                    showed30 = 1;
+                    $("#target_30 .proof_block").html(proof_img_block30).slideDown(400);
+                }else{
+                    showed30 = 0;
+                    $("#target_30 .proof_block").html('').slideUp(400);
+                }
+
+            }
+            function ShowDButtons30(){
+                if(showed_d_buttons30 === 0){
+                    showed_d_buttons30 = 1;
+                    $("#target_30 .d_buttons").slideDown(400);
+                }else{
+                    showed_d_buttons30 = 0;
+                    $("#target_30 .d_buttons").slideUp(400);
+                }
+
+            }
+
+
+            var showed30 = 0;
+            var showed_d_buttons30 = 0;
+            var HAPPYSEC30 = 1450124;
+            var t_sec30 = HAPPYSEC30;
+
+            var time30;
+            var intervalId30=0;
+
+
+            $(document).ready(function () {
+
+                intervalId30 = setInterval(function (){
+                    timerDecrement30();
+                }, 1000);
+            });
+
+
+            function timerDecrement30() {
+                time30 = $('#target_30 span.timer');
+
+                if(t_sec30 < 1){
+                    t_sec30 = 0;
+                    newTime = t_sec30 ;
+                }else{
+                    newTime = t_sec30 - 1;
+                }
+
+
+                t_sec30 = newTime;
+
+                var t_min = t_sec30 / 60;
+                var t_hour = t_min / 60;
+                var t_day =
+                    '<b>' + Math.floor(t_hour / 24) + '</b> days ' +
+                    '<b>' + Math.floor(t_hour % 24) +'</b>:' +
+                    '<b>' + Math.floor(t_min % 60) +'</b>:' +
+                    '<b>' + Math.floor(t_sec30 % 60)+ '</b> ';
+
+                time30.html(t_day);
+
+
+
+                if(newTime === 0 && HAPPYSEC30 > 0 || newTime < 1){
+
+                    time30.html('');
+                    $("#target_30 .lock").attr("src","assets/img/lockopen.png");
+                    $("#target_30 .clock").attr("src","assets/img/clockred.png").addClass("clockred");
+                    $("#target_30 .btn2").addClass("redbg");
+                    $("#target_30 .arrow-8").addClass("r8");
+                    $("#target_30 .perc").html("100%");
+
+                    clearInterval(intervalId30);
+                    GetDownloadLink(30,$("#target_30 .redbg"));
+                }
+
+
+            }
+        </script>
+
+        <div class="row jumbotron p-3  text-white rounded bg-d1" id="target_30">
+            <div class="col-md-6 px-0">
+                <h1 class="display-4 font-italic border-bottom">Karges-Faulconbridge, Inc.    </h1>
+            </div>
+
+            <div class="col-md-6 px-0">
+                                    <img src="assets/img/lock.png" alt="" class="lock">
+                
+                
+            </div>
+            <div class="col-md-12 px-0">
+
+                <div class="proof_block text-center"></div>
+
+                <p class="lead my-3 pb-3" >Karges-Faulconbridge, Inc. operates as an engineering company. The Company provides mechanical, electrical, process, structural, and chemical engineering services. Karges-Faulconbridge also offers commissioning, recommissioning, and retrocommissioning services. Karges-Faulconbridge serves customers in the United States.                </p>
+                <div class="dropdown-divider divid-c"></div>
+            </div>
+
+
+            <div class="col-md-12 row px-0  mt-4 mb-4 ml-0">
+                <div class="col-md-3 text-center ">
+                    <p class="lead mb-0 squ">
+                    <span class="text-white font-weight-bold ">
+                        <i class="fa fa-users"></i>
+                    </span>
+                        <br>
+                        <span class="">122</span>
+                    </p>
+                </div>
+                <div class="col-md-3 text-center" onclick="GO('http://www.kfi-eng.com')">
+                    <p class="lead mb-0 squ"><span class="text-white font-weight-bold "><i class="fa fa-globe"></i></span><br>
+                        <a href="javascript:" class="text-white text-decoration-none" >Web Site</a>
+                    </p>
+                </div>
+
+                <div class="col-md-3 text-center"><p class="lead mb-0 squ "><span class="text-white font-weight-bold "><i class="fa fa-dollar"></i></span> <br>$ 37 Million </p></div>
+                <div class="col-md-3 text-center"><p class="lead mb-0 squ"><span class="text-white font-weight-bold"><i class="fa fa-phone"></i></span><br>(651) 771-0880</p></div>
+
+            </div>
+
+
+
+
+            <div class="col-md-12 row px-0 mt-5">
+                <div class="col-md-12 text-center"><a href="mailto:BlackByteSupp0rt@onionmail.org" class="text-white text-decoration-none">BlackByteSupp0rt@onionmail.org</a></div>
+                <div class="col-md-6">
+                    <p class="lead mb-0 text-white font-weight-bold" style="margin-top: 13px">
+                        <span class="timer"></span> 
+                                                    <img src="assets/img/clock.png" alt="" class="clock">
+                                            </p>
+                </div>
+                <div class="col-md-6 text-right pr-0"><p class="lead mb-0">
+
+
+
+<!--                        <span class="perc">--><!--%</span>-->
+
+
+                    <div class="arrow-8"></div>
+
+                                            <a target="_blank" href="https://anonfiles.com/75G1teY7ud/project_management_rar" class="btn btn2 legitRipple   ">Download Free </a>
+                        
+
+
+                    </p></div>
+
+                    
+            </div>
+        </div>
+        
+        <script>
+
             var proof_img_block29 = '<img src="" alt="" class="proof">';
 
 
@@ -166,7 +634,7 @@
 
             var showed29 = 0;
             var showed_d_buttons29 = 0;
-            var HAPPYSEC29 = 846382;
+            var HAPPYSEC29 = 845324;
             var t_sec29 = HAPPYSEC29;
 
             var time29;
@@ -322,7 +790,7 @@
 
             var showed28 = 0;
             var showed_d_buttons28 = 0;
-            var HAPPYSEC28 = 846382;
+            var HAPPYSEC28 = 845324;
             var t_sec28 = HAPPYSEC28;
 
             var time28;
@@ -478,7 +946,7 @@
 
             var showed27 = 0;
             var showed_d_buttons27 = 0;
-            var HAPPYSEC27 = 414382;
+            var HAPPYSEC27 = 413324;
             var t_sec27 = HAPPYSEC27;
 
             var time27;
@@ -634,7 +1102,7 @@
 
             var showed26 = 0;
             var showed_d_buttons26 = 0;
-            var HAPPYSEC26 = -2177618;
+            var HAPPYSEC26 = -2178676;
             var t_sec26 = HAPPYSEC26;
 
             var time26;
@@ -842,7 +1310,7 @@
 
             var showed24 = 0;
             var showed_d_buttons24 = 0;
-            var HAPPYSEC24 = 414382;
+            var HAPPYSEC24 = 413324;
             var t_sec24 = HAPPYSEC24;
 
             var time24;
@@ -1020,7 +1488,7 @@
 
             var showed22 = 0;
             var showed_d_buttons22 = 0;
-            var HAPPYSEC22 = -104018;
+            var HAPPYSEC22 = -105076;
             var t_sec22 = HAPPYSEC22;
 
             var time22;
@@ -1176,7 +1644,7 @@
 
             var showed21 = 0;
             var showed_d_buttons21 = 0;
-            var HAPPYSEC21 = -104018;
+            var HAPPYSEC21 = -105076;
             var t_sec21 = HAPPYSEC21;
 
             var time21;
@@ -1332,7 +1800,7 @@
 
             var showed21 = 0;
             var showed_d_buttons21 = 0;
-            var HAPPYSEC21 = -104018;
+            var HAPPYSEC21 = -105076;
             var t_sec21 = HAPPYSEC21;
 
             var time21;
