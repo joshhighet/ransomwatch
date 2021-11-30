@@ -2,6 +2,7 @@
 
 | date | title | group |
 |---|---|---|
+| 2021-11-30 | `Burda Sanitärtechnik` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2021-11-30 | `Karges-Faulconbridge, Inc.    ` | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
 | 2021-11-30 | `MOTOR VEHICLE ACCIDENT FUND PENSION FUND    ` | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
 | 2021-11-30 | `Koltepatil    ` | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
@@ -101,4 +102,3 @@
 | 2021-11-22 | `redsrugby.com.au - more then 300GB data leaked` | [lv](https://ransomwatch.telemetry.ltd/#/profiles?id=lv) |
 | 2021-11-22 | `docol.com.br - more then 1.5TB data leaked` | [lv](https://ransomwatch.telemetry.ltd/#/profiles?id=lv) |
 | 2021-11-22 | `mecfond.com ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2021-11-22 | `adhhealth.com - more then 1.2Tb data leaaked` | [lv](https://ransomwatch.telemetry.ltd/#/profiles?id=lv) |
