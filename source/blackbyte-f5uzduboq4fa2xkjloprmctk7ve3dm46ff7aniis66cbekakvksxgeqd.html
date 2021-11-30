@@ -15,13 +15,13 @@
 
 
     <link href="https://fonts.googleapis.com/css?family=Playfair+Display:700,900" rel="stylesheet">
-    <link href="/blog.css?v=1638281476" rel="stylesheet">
+    <link href="/blog.css?v=1638284103" rel="stylesheet">
     <script src="/assets/js/jquery-2.1.3.min.js"></script>
 
     <script src="/assets/js/vendor/popper.min.js"></script>
     <script src="/dist/js/bootstrap.min.js"></script>
     <script src="/assets/js/vendor/holder.min.js"></script>
-    <script src="/script.js?v=1638281476"></script>
+    <script src="/script.js?v=1638284103"></script>
     <style>
         .d_buttons{
             display: none;
@@ -139,6 +139,184 @@
 
         <script>
 
+            var proof_img_block33 = '<img src="" alt="" class="proof">';
+
+
+            function ShowProof33(){
+                if(showed33 === 0){
+                    showed33 = 1;
+                    $("#target_33 .proof_block").html(proof_img_block33).slideDown(400);
+                }else{
+                    showed33 = 0;
+                    $("#target_33 .proof_block").html('').slideUp(400);
+                }
+
+            }
+            function ShowDButtons33(){
+                if(showed_d_buttons33 === 0){
+                    showed_d_buttons33 = 1;
+                    $("#target_33 .d_buttons").slideDown(400);
+                }else{
+                    showed_d_buttons33 = 0;
+                    $("#target_33 .d_buttons").slideUp(400);
+                }
+
+            }
+
+
+            var showed33 = 0;
+            var showed_d_buttons33 = 0;
+            var HAPPYSEC33 = 151497;
+            var t_sec33 = HAPPYSEC33;
+
+            var time33;
+            var intervalId33=0;
+
+
+            $(document).ready(function () {
+
+                intervalId33 = setInterval(function (){
+                    timerDecrement33();
+                }, 1000);
+            });
+
+
+            function timerDecrement33() {
+                time33 = $('#target_33 span.timer');
+
+                if(t_sec33 < 1){
+                    t_sec33 = 0;
+                    newTime = t_sec33 ;
+                }else{
+                    newTime = t_sec33 - 1;
+                }
+
+
+                t_sec33 = newTime;
+
+                var t_min = t_sec33 / 60;
+                var t_hour = t_min / 60;
+                var t_day =
+                    '<b>' + Math.floor(t_hour / 24) + '</b> days ' +
+                    '<b>' + Math.floor(t_hour % 24) +'</b>:' +
+                    '<b>' + Math.floor(t_min % 60) +'</b>:' +
+                    '<b>' + Math.floor(t_sec33 % 60)+ '</b> ';
+
+                time33.html(t_day);
+
+
+
+                if(newTime === 0 && HAPPYSEC33 > 0 || newTime < 1){
+
+                    time33.html('');
+                    $("#target_33 .lock").attr("src","assets/img/lockopen.png");
+                    $("#target_33 .clock").attr("src","assets/img/clockred.png").addClass("clockred");
+                    $("#target_33 .btn2").addClass("redbg");
+                    $("#target_33 .arrow-8").addClass("r8");
+                    $("#target_33 .perc").html("100%");
+
+                    clearInterval(intervalId33);
+                    GetDownloadLink(33,$("#target_33 .redbg"));
+                }
+
+
+            }
+        </script>
+
+        <div class="row jumbotron p-3  text-white rounded bg-d1" id="target_33">
+            <div class="col-md-6 px-0">
+                <h1 class="display-4 font-italic border-bottom">Emery Jensen Distribution    </h1>
+            </div>
+
+            <div class="col-md-6 px-0">
+                                    <img src="assets/img/lock.png" alt="" class="lock">
+                
+                
+            </div>
+            <div class="col-md-12 px-0">
+
+                <div class="proof_block text-center"></div>
+
+                <p class="lead my-3 pb-3" >Emery Jensen Distribution is the result of 2 companies, Emery Waterhouse of the East Coast and Jensen Distribution of the West Coast, merging together to form a wholesale distributor selling to independent retailers nationally. With over 300 years of collective experience in the hardlines industry, and over 5.5 billion dollars in buying power, Emery Jensen Distribution offers a sustainable advantage in the market.                </p>
+                <div class="dropdown-divider divid-c"></div>
+            </div>
+
+
+            <div class="col-md-12 row px-0  mt-4 mb-4 ml-0">
+                <div class="col-md-3 text-center ">
+                    <p class="lead mb-0 squ">
+                    <span class="text-white font-weight-bold ">
+                        <i class="fa fa-users"></i>
+                    </span>
+                        <br>
+                        <span class="">311</span>
+                    </p>
+                </div>
+                <div class="col-md-3 text-center" onclick="GO('http://www.jensenonline.com')">
+                    <p class="lead mb-0 squ"><span class="text-white font-weight-bold "><i class="fa fa-globe"></i></span><br>
+                        <a href="javascript:" class="text-white text-decoration-none" >Web Site</a>
+                    </p>
+                </div>
+
+                <div class="col-md-3 text-center"><p class="lead mb-0 squ "><span class="text-white font-weight-bold "><i class="fa fa-dollar"></i></span> <br>$ 150 Million </p></div>
+                <div class="col-md-3 text-center"><p class="lead mb-0 squ"><span class="text-white font-weight-bold"><i class="fa fa-phone"></i></span><br>(509) 624-1321</p></div>
+
+            </div>
+
+
+
+
+            <div class="col-md-12 row px-0 mt-5">
+                <div class="col-md-12 text-center"><a href="mailto:BlackByteSupp0rt@onionmail.org" class="text-white text-decoration-none">BlackByteSupp0rt@onionmail.org</a></div>
+                <div class="col-md-6">
+                    <p class="lead mb-0 text-white font-weight-bold" style="margin-top: 13px">
+                        <span class="timer"></span> 
+                                                    <img src="assets/img/clock.png" alt="" class="clock">
+                                            </p>
+                </div>
+                <div class="col-md-6 text-right pr-0"><p class="lead mb-0">
+
+
+
+<!--                        <span class="perc">--><!--%</span>-->
+
+
+                    <div class="arrow-8"></div>
+
+                                            <a href="javascript:" class="btn btn2 legitRipple  " onclick="ShowDButtons33()">Download Free </a>
+                        
+
+
+                    </p></div>
+
+                                    <div class="col-md-12 text-center d_buttons" style="display: none">
+                                                    <a href="https://anonfiles.com/P97dt0Y2u0/Ace_rar" class="btn btn3 legitRipple
+                            " style="margin-bottom: 3px">
+
+
+
+
+                                   download
+
+
+                                1.72GB</a>
+                                                        <a href="https://anonfiles.com/L3E2tdY9u6/Annie_rar" class="btn btn3 legitRipple
+                            " style="margin-bottom: 3px">
+
+
+
+
+                                   download
+
+
+                                823MB</a>
+                                            </div>
+                        
+            </div>
+        </div>
+        
+        <script>
+
             var proof_img_block32 = '<img src="" alt="" class="proof">';
 
 
@@ -166,7 +344,7 @@
 
             var showed32 = 0;
             var showed_d_buttons32 = 0;
-            var HAPPYSEC32 = 1450124;
+            var HAPPYSEC32 = 1361097;
             var t_sec32 = HAPPYSEC32;
 
             var time32;
@@ -322,7 +500,7 @@
 
             var showed31 = 0;
             var showed_d_buttons31 = 0;
-            var HAPPYSEC31 = 1450124;
+            var HAPPYSEC31 = 1361097;
             var t_sec31 = HAPPYSEC31;
 
             var time31;
@@ -478,7 +656,7 @@
 
             var showed30 = 0;
             var showed_d_buttons30 = 0;
-            var HAPPYSEC30 = 1450124;
+            var HAPPYSEC30 = 1361097;
             var t_sec30 = HAPPYSEC30;
 
             var time30;
@@ -549,7 +727,7 @@
 
                 <div class="proof_block text-center"></div>
 
-                <p class="lead my-3 pb-3" >Karges-Faulconbridge, Inc. operates as an engineering company. The Company provides mechanical, electrical, process, structural, and chemical engineering services. Karges-Faulconbridge also offers commissioning, recommissioning, and retrocommissioning services. Karges-Faulconbridge serves customers in the United States.                </p>
+                <p class="lead my-3 pb-3" >Karges-Faulconbridge, Inc. operates as an engineering company. The Company provides mechanical, electrical, process, structural, and chemical engineering services. Karges-Faulconbridge also offers commissioning, recommissioning, and retrocommissioning services. Karges-Faulconbridge serves customers in the United States.                </p>
                 <div class="dropdown-divider divid-c"></div>
             </div>
 
@@ -634,7 +812,7 @@
 
             var showed29 = 0;
             var showed_d_buttons29 = 0;
-            var HAPPYSEC29 = 845324;
+            var HAPPYSEC29 = 842697;
             var t_sec29 = HAPPYSEC29;
 
             var time29;
@@ -790,7 +968,7 @@
 
             var showed28 = 0;
             var showed_d_buttons28 = 0;
-            var HAPPYSEC28 = 845324;
+            var HAPPYSEC28 = 842697;
             var t_sec28 = HAPPYSEC28;
 
             var time28;
@@ -946,7 +1124,7 @@
 
             var showed27 = 0;
             var showed_d_buttons27 = 0;
-            var HAPPYSEC27 = 413324;
+            var HAPPYSEC27 = 410697;
             var t_sec27 = HAPPYSEC27;
 
             var time27;
@@ -1102,7 +1280,7 @@
 
             var showed26 = 0;
             var showed_d_buttons26 = 0;
-            var HAPPYSEC26 = -2178676;
+            var HAPPYSEC26 = -2181303;
             var t_sec26 = HAPPYSEC26;
 
             var time26;
@@ -1310,7 +1488,7 @@
 
             var showed24 = 0;
             var showed_d_buttons24 = 0;
-            var HAPPYSEC24 = 413324;
+            var HAPPYSEC24 = 410697;
             var t_sec24 = HAPPYSEC24;
 
             var time24;
@@ -1488,7 +1666,7 @@
 
             var showed22 = 0;
             var showed_d_buttons22 = 0;
-            var HAPPYSEC22 = -105076;
+            var HAPPYSEC22 = -107703;
             var t_sec22 = HAPPYSEC22;
 
             var time22;
@@ -1644,7 +1822,7 @@
 
             var showed21 = 0;
             var showed_d_buttons21 = 0;
-            var HAPPYSEC21 = -105076;
+            var HAPPYSEC21 = -107703;
             var t_sec21 = HAPPYSEC21;
 
             var time21;
@@ -1800,7 +1978,7 @@
 
             var showed21 = 0;
             var showed_d_buttons21 = 0;
-            var HAPPYSEC21 = -105076;
+            var HAPPYSEC21 = -107703;
             var t_sec21 = HAPPYSEC21;
 
             var time21;
