@@ -24,7 +24,9 @@
           </div>
           
           <div class="form-group">
-            <button id="enterButton" type="button" class="btn btn-primary btn-lg btn-block">Enter</button>
+            <button id="enterButton" type="button" class="btn btn-primary btn-lg btn-block">
+		<span id="loading_span" class="spinner-border" role="status" style="width: 27px; height: 27px; display: none;"></span> Enter
+	    </button>
           </div>
           
         </form>
@@ -41,11 +43,13 @@
       $(function(){
         
         $('#clientKeyTextArea').focus();
+        $('#loading_span').hide();
         
         $('#enterButton').click(function(){
           
           $('#enterButton').attr('disabled', true);
-          
+          $('#loading_span').show();
+
           $.post('./login.php', { key: $('#clientKeyTextArea').val() }, function(resp){
             
             if( resp['success'] && resp['success'] === true ){
@@ -55,7 +59,8 @@
             } else {
               
               $('#enterButton').attr('disabled', false);
-              
+              $('#loading_span').hide();
+
               if( resp['message'] ){
                 alert( resp['message'] );
               }
