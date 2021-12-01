@@ -429,6 +429,6 @@ def todiscord(post_title, group):
     if hookpost.status_code == 204:
         return True
     if hookpost.status_code == 429:
-        honk('sharedutils: ' + 'discord webhook rate limit exceeded')
+        errlog('sharedutils: ' + 'discord webhook rate limit exceeded')
     else:
         honk('sharedutils: ' + 'recieved discord webhook error resonse ' + str(hookpost.status_code) + ' with text ' + str(hookpost.text))
