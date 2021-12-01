@@ -2,6 +2,7 @@
 
 | date | title | group |
 |---|---|---|
+| 2021-12-01 | `summit-christia... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-12-01 | `FRONTIER SOFTWARE` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2021-11-30 | `kenwal.com ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-11-30 | `Volvo Car Corporation` | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
@@ -101,4 +102,3 @@
 | 2021-11-22 | `kankakeetitle.c... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-11-22 | `wnrllc.com ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-11-22 | `roteritaly.com ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2021-11-22 | `jadecorp` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
