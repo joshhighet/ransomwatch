@@ -2,6 +2,12 @@
 
 | date | title | group |
 |---|---|---|
+| 2021-12-01 | `Flagship` | [54bb47h](https://ransomwatch.telemetry.ltd/#/profiles?id=54bb47h) |
+| 2021-12-01 | `Stoningtonschools` | [54bb47h](https://ransomwatch.telemetry.ltd/#/profiles?id=54bb47h) |
+| 2021-12-01 | `AISD` | [54bb47h](https://ransomwatch.telemetry.ltd/#/profiles?id=54bb47h) |
+| 2021-12-01 | `Starline` | [54bb47h](https://ransomwatch.telemetry.ltd/#/profiles?id=54bb47h) |
+| 2021-12-01 | `RocTechnologies` | [54bb47h](https://ransomwatch.telemetry.ltd/#/profiles?id=54bb47h) |
+| 2021-12-01 | `MCP Services LLC` | [54bb47h](https://ransomwatch.telemetry.ltd/#/profiles?id=54bb47h) |
 | 2021-12-01 | `FRONTIER SOFTWARE` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2021-11-30 | `kenwal.com ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-11-30 | `Volvo Car Corporation` | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
@@ -88,17 +94,11 @@
 | 2021-11-23 | `INOXPA    ` | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
 | 2021-11-23 | `centerspacehome... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-11-23 | `benner.com.br` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2021-11-22 | `Flagship` | [54bb47h](https://ransomwatch.telemetry.ltd/#/profiles?id=54bb47h) |
-| 2021-11-22 | `Stoningtonschools` | [54bb47h](https://ransomwatch.telemetry.ltd/#/profiles?id=54bb47h) |
-| 2021-11-22 | `AISD` | [54bb47h](https://ransomwatch.telemetry.ltd/#/profiles?id=54bb47h) |
-| 2021-11-22 | `Starline` | [54bb47h](https://ransomwatch.telemetry.ltd/#/profiles?id=54bb47h) |
-| 2021-11-22 | `RocTechnologies` | [54bb47h](https://ransomwatch.telemetry.ltd/#/profiles?id=54bb47h) |
-| 2021-11-22 | `MCP Services LLC` | [54bb47h](https://ransomwatch.telemetry.ltd/#/profiles?id=54bb47h) |
+| 2021-11-22 | `Flagship` | [sabbath](https://ransomwatch.telemetry.ltd/#/profiles?id=sabbath) |
+| 2021-11-22 | `Stoningtonschools` | [sabbath](https://ransomwatch.telemetry.ltd/#/profiles?id=sabbath) |
+| 2021-11-22 | `AISD` | [sabbath](https://ransomwatch.telemetry.ltd/#/profiles?id=sabbath) |
+| 2021-11-22 | `Starline` | [sabbath](https://ransomwatch.telemetry.ltd/#/profiles?id=sabbath) |
+| 2021-11-22 | `RocTechnologies` | [sabbath](https://ransomwatch.telemetry.ltd/#/profiles?id=sabbath) |
+| 2021-11-22 | `MCP Services LLC` | [sabbath](https://ransomwatch.telemetry.ltd/#/profiles?id=sabbath) |
 | 2021-11-22 | `verisilicon.com` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-11-22 | `reigroup.com` | [lv](https://ransomwatch.telemetry.ltd/#/profiles?id=lv) |
-| 2021-11-22 | `fluidsealingpro... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2021-11-22 | `planters-oil.ne... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2021-11-22 | `kankakeetitle.c... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2021-11-22 | `wnrllc.com ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2021-11-22 | `roteritaly.com ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2021-11-22 | `jadecorp` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
