@@ -492,15 +492,15 @@ def lv():
         appender(post, 'lv')
 
 def five4bb47h():
-    stdlog('parser: ' + '54bb47h')
+    stdlog('parser: ' + 'sabbath')
     parser = '''
-    grep -oP "aria-label.*?>" source/54bb47h-*.html | cut -d '"' -f 2 | sed -e '/Search button/d' | tr "..." ' ' | grep "\S"
+    grep -oP "aria-label.*?>" source/sabbath-*.html | cut -d '"' -f 2 | sed -e '/Search button/d' | tr "..." ' ' | grep "\S"
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
-        errlog('54bb47h: ' + 'parsing fail')
+        errlog('sabbath: ' + 'parsing fail')
     for post in posts:
-        appender(post, '54bb47h')
+        appender(post, 'sabbath')
 
 def midas():
     stdlog('parser: ' + 'midas')

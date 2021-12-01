@@ -3,7 +3,6 @@
 '''
 collection of shared modules used throughout ransomwatch
 '''
-import re
 import os
 import sys
 import json
@@ -11,12 +10,12 @@ import socket
 import codecs
 import random
 import logging
-import requests
-import lxml.html
-import tldextract
-import subprocess
 from datetime import datetime
 from datetime import timedelta
+import subprocess
+import tldextract
+import lxml.html
+import requests
 
 sockshost = '127.0.0.1'
 socksport = 9050
@@ -425,9 +424,11 @@ def todiscord(post_title, group):
         }
         hook_uri = os.environ.get('DISCORD_WEBHOOK')
         hookpost = requests.post(hook_uri, json=discord_json, headers=dscheaders)
-    except Exception as e:
-        honk('sharedutils: ' + 'error sending discord webhook - ' + str(e))
+    except requests.exceptions.RequestException as e:
+        honk('sharedutils: ' + 'error sending to discord webhook: ' + str(e))
     if hookpost.status_code == 204:
         return True
+    if hookpost.status_code == 429:
+        honk('sharedutils: ' + 'discord webhook rate limit exceeded')
     else:
         honk('sharedutils: ' + 'recieved discord webhook error resonse ' + str(hookpost.status_code) + ' with text ' + str(hookpost.text))
