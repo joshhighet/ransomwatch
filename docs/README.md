@@ -5,7 +5,7 @@ _:warning: all site pages and graphs are dynamically generated every half hour_
 
 ## 📰 summary - december 1st, 2021
 
-currently tracking `73` groups across `86` various relays and mirrors - _`27` of which are online_
+currently tracking `73` groups across `86` various relays and mirrors - _`30` of which are online_
 
 there are `35` active parsers, `9` of which using headless browsers - _`4` groups have recently introduced captchas_
 
@@ -31,7 +31,7 @@ there are `35` active parsers, `9` of which using headless browsers - _`4` group
 | synack | end of game | ⬇️ 🔴 | 2021-08-18 | xqkz2rmrqkeqf6sjbrb47jfwnqxcd4o2zvaxxzrpbh2piknms37rw2ad.onion |
 | suncrypt | News | ⬆️ 🟢 |  | x2miyuiwpib2imjr5ykyjngdu7v6vprkkhjltrk4qafymtawey4qzwid.onion |
 | suncrypt |  | ⬇️ 🔴 | 2021-05-01 | nbzzb6sa6xuura2z.onion |
-| lv | LV Blog | ⬇️ 🔴 | 2021-12-01 | rbvuetuneohce3ouxjlbxtimyyxokb4btncxjbo44fbgxqy7tskinwad.onion |
+| lv | LV Blog | ⬆️ 🟢 |  | rbvuetuneohce3ouxjlbxtimyyxokb4btncxjbo44fbgxqy7tskinwad.onion |
 | lv | LV Blog | ⬇️ 🔴 | 2021-10-07 | 4qbxi3i2oqmyzxsjg4fwe4aly3xkped52gq5orp6efpkeskvchqe27id.onion |
 | lorenz | Lorenz | ⬆️ 🟢 |  | lorenzmlwpzgxq736jzseuterytjueszsvznuibanxomlpkyxk6ksoyd.onion |
 | lockbit2 | LockBit BLOG | ⬇️ 🔴 | 2021-12-01 | lockbitapt6vx57t3eeqjofwgcglmutr3a35nygvokja5uuccip4ykyd.onion |
@@ -42,7 +42,7 @@ there are `35` active parsers, `9` of which using headless browsers - _`4` group
 | grief | Grief list | ⬆️ 🟢 |  | griefcameifmv4hfr3auozmovz5yi6m3h3dwbuqw7baomfxoxz4qteid.onion |
 | avaddon |  | ⬇️ 🔴 | 2021-05-01 | avaddongun7rngel.onion |
 | vicesociety |  | ⬇️ 🔴 | 2021-05-01 | 4hzyuotli6maqa4u.onion |
-| xinglocker | 星Team News | ⬇️ 🔴 | 2021-12-01 | xingnewj6m4qytljhfwemngm7r7rogrindbq7wrfeepejgxc3bwci7qd.onion |
+| xinglocker | 星Team News | ⬆️ 🟢 |  | xingnewj6m4qytljhfwemngm7r7rogrindbq7wrfeepejgxc3bwci7qd.onion |
 | darkside |  | ⬇️ 🔴 | 2021-05-01 | darksidc3iux462n6yunevoag52ntvwp6wulaz3zirkmh4cnz6hhj7id.onion |
 | ragnarlocker |  | ⬇️ 🔴 | 2021-05-01 | rgleak7op734elep.onion |
 | ragnarlocker | Home Page of Ragnar_Locker Leaks site | ⬆️ 🟢 |  | rgleaktxuey67yrgspmhvtnrqtgogur35lwdrup4d3igtbm3pupc4lyd.onion |
@@ -78,7 +78,7 @@ there are `35` active parsers, `9` of which using headless browsers - _`4` group
 | atomsilo | AtomSilo | ⬆️ 🟢 |  | mhdehvkomeabau7gsetnsrhkfign4jgnx3wajth5yb5h6kvzbd72wlqd.onion |
 | avos |  | ⬇️ 🔴 | 2021-05-01 | avos2fuj6olp6x36.onion |
 | blackbyte |  | ⬇️ 🔴 | 2021-05-01 | 6iaj3efye3q62xjgfxyegrufhewxew7yt4scxjd45tlfafyja6q4ctqd.onion |
-| blackbyte | BlackByte BLOG | ⬇️ 🔴 | 2021-12-01 | f5uzduboq4fa2xkjloprmctk7ve3dm46ff7aniis66cbekakvksxgeqd.onion |
+| blackbyte | BlackByte BLOG | ⬆️ 🟢 |  | f5uzduboq4fa2xkjloprmctk7ve3dm46ff7aniis66cbekakvksxgeqd.onion |
 | lolnek | Support | ⬆️ 🟢 |  | mmeeiix2ejdwkmseycljetmpiwebdvgjts75c63camjofn2cjdoulzqd.onion |
 | blackshadow |  | ⬇️ 🔴 | 2021-05-01 | 544corkfh5hwhtn4.onion |
 | bonacigroup | Blog | ⬆️ 🟢 |  | bonacifryrxr4siz6ptvokuihdzmjzpveruklxumflz5thmkgauty2qd.onion |
