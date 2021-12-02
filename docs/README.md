@@ -5,7 +5,7 @@ _:warning: all site pages and graphs are dynamically generated every half hour_
 
 ## 📰 summary - december 2nd, 2021
 
-currently tracking `73` groups across `86` various relays and mirrors - _`28` of which are online_
+currently tracking `73` groups across `86` various relays and mirrors - _`26` of which are online_
 
 there are `35` active parsers, `9` of which using headless browsers - _`4` groups have recently introduced captchas_
 
@@ -33,11 +33,11 @@ there are `35` active parsers, `9` of which using headless browsers - _`4` group
 | suncrypt |  | ⬇️ 🔴 | 2021-05-01 | nbzzb6sa6xuura2z.onion |
 | lv | LV Blog | ⬆️ 🟢 |  | rbvuetuneohce3ouxjlbxtimyyxokb4btncxjbo44fbgxqy7tskinwad.onion |
 | lv | Start-maximized.com | ⬇️ 🔴 | 2021-12-02 | 4qbxi3i2oqmyzxsjg4fwe4aly3xkped52gq5orp6efpkeskvchqe27id.onion |
-| lorenz | Lorenz | ⬆️ 🟢 |  | lorenzmlwpzgxq736jzseuterytjueszsvznuibanxomlpkyxk6ksoyd.onion |
+| lorenz | Lorenz | ⬇️ 🔴 | 2021-12-02 | lorenzmlwpzgxq736jzseuterytjueszsvznuibanxomlpkyxk6ksoyd.onion |
 | lockbit2 | LockBit BLOG | ⬇️ 🔴 | 2021-12-02 | lockbitapt6vx57t3eeqjofwgcglmutr3a35nygvokja5uuccip4ykyd.onion |
 | lockbit2 | LOCKFILE | ⬇️ 🔴 | 2021-11-21 | zqaflhty5hyziovsxgqvj2mrz5e5rs6oqxzb54zolccfnvtn5w2johad.onion |
 | hive | Hive | ⬆️ 🟢 |  | hiveleakdbtnp76ulyhi52eag6c6tyc3xw7ez7iqy6wc34gd2nekazyd.onion |
-| arvinclub | Arvin Club – آزادی برای اتصال | ⬆️ 🟢 |  | 3kp6j22pz3zkv76yutctosa6djpj4yib2icvdqxucdaxxedumhqicpad.onion |
+| arvinclub | Arvin Club – آزادی برای اتصال | ⬇️ 🔴 | 2021-12-02 | 3kp6j22pz3zkv76yutctosa6djpj4yib2icvdqxucdaxxedumhqicpad.onion |
 | avoslocker | AvosLocker Access Queue | ⬆️ 🟢 |  | avosqxh72b5ia23dl5fgwcpndkctuzqvh2iefk5imp3pi5gfhel5klad.onion |
 | grief | Grief list | ⬆️ 🟢 |  | griefcameifmv4hfr3auozmovz5yi6m3h3dwbuqw7baomfxoxz4qteid.onion |
 | avaddon |  | ⬇️ 🔴 | 2021-05-01 | avaddongun7rngel.onion |
@@ -45,10 +45,10 @@ there are `35` active parsers, `9` of which using headless browsers - _`4` group
 | xinglocker | 星Team News | ⬆️ 🟢 |  | xingnewj6m4qytljhfwemngm7r7rogrindbq7wrfeepejgxc3bwci7qd.onion |
 | darkside |  | ⬇️ 🔴 | 2021-05-01 | darksidc3iux462n6yunevoag52ntvwp6wulaz3zirkmh4cnz6hhj7id.onion |
 | ragnarlocker |  | ⬇️ 🔴 | 2021-05-01 | rgleak7op734elep.onion |
-| ragnarlocker | Home Page of Ragnar_Locker Leaks site | ⬇️ 🔴 | 2021-12-02 | rgleaktxuey67yrgspmhvtnrqtgogur35lwdrup4d3igtbm3pupc4lyd.onion |
+| ragnarlocker | Home Page of Ragnar_Locker Leaks site | ⬆️ 🟢 |  | rgleaktxuey67yrgspmhvtnrqtgogur35lwdrup4d3igtbm3pupc4lyd.onion |
 | ragnarlocker |  | ⬇️ 🔴 | 2021-05-01 | p6o7m73ujalhgkiv.onion |
 | clop |  | ⬇️ 🔴 | 2021-05-01 | ekbgzchl6x2ias37.onion |
-| clop | HOME - CL0P^_- LEAKS | ⬆️ 🟢 |  | santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad.onion |
+| clop | HOME - CL0P^_- LEAKS | ⬇️ 🔴 | 2021-12-02 | santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad.onion |
 | netwalker |  | ⬇️ 🔴 | 2021-05-01 | rnfdsgm6wb6j6su5txkekw4u4y47kp2eatvu7d6xhyn5cs4lt4pdrqqd.onion |
 | doppelpaymer | Start-maximized.com | ⬇️ 🔴 | 2021-09-23 | hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion |
 | revil | 404 Not Found | ⬇️ 🔴 | 2021-11-30 | dnpscnbaix6nkwvystl3yxglz7nteicqrou3t75tpcc5532cztc46qyd.onion |
@@ -68,7 +68,7 @@ there are `35` active parsers, `9` of which using headless browsers - _`4` group
 | aztroteam |  | ⬇️ 🔴 | 2021-05-01 | anewset3pcya3xvk73hj7yunuamutxxsm5sohkdi32blhmql55tvgqad.onion |
 | lockdata | LockData Auction | ⬆️ 🟢 |  | wm6mbuzipviusuc42kcggzkdpbhuv45sn7olyamy6mcqqked3waslbqd.onion |
 | blacktor | 404 Not Found | ⬆️ 🟢 |  | bl4cktorpms2gybrcyt52aakcxt6yn37byb65uama5cimhifcscnqkid.onion |
-| haron | Clients page | ⬇️ 🔴 | 2021-12-02 | ft4zr2jzlqoyob7yg4fcpwyt37hox3ajajqnfkdvbfrkjioyunmqnpad.onion |
+| haron | Clients page | ⬆️ 🟢 |  | ft4zr2jzlqoyob7yg4fcpwyt37hox3ajajqnfkdvbfrkjioyunmqnpad.onion |
 | darkleakmarket | Dark Leak Market | ⬇️ 🔴 | 2021-10-07 | 54rdhzjzc4ids4u4wata4zr4ywfon5wpz2ml4q3avelgadpvmdal2vqd.onion |
 | prometheus |  | ⬇️ 🔴 | 2021-05-01 | promethw27cbrcot.onion |
 | blackmatter | BlackMatter | ⬇️ 🔴 | 2021-11-04 | blackmax7su6mbwtcyo3xwtpfxpm356jjqrs34y4crcytpw7mifuedyd.onion |
@@ -84,7 +84,7 @@ there are `35` active parsers, `9` of which using headless browsers - _`4` group
 | bonacigroup | Blog | ⬆️ 🟢 |  | bonacifryrxr4siz6ptvokuihdzmjzpveruklxumflz5thmkgauty2qd.onion |
 | coomingproject |  | ⬇️ 🔴 | 2021-05-01 | teo7aj5mfgzxyeme.onion |
 | crylock |  | ⬇️ 🔴 | 2021-05-01 | d57uremugxjrafyg.onion |
-| ech0raix |  | ⬆️ 🟢 |  | veqlxhq7ub5qze3qy56zx2cig2e6tzsgxdspkubwbayqije6oatma6id.onion |
+| ech0raix |  | ⬇️ 🔴 | 2021-12-02 | veqlxhq7ub5qze3qy56zx2cig2e6tzsgxdspkubwbayqije6oatma6id.onion |
 | ep918 |  | ⬇️ 🔴 | 2021-05-01 | dg5fyig37abmivryrxlordrczn6d6r5wzcfe2msuo5mbbu2exnu46fid.onion |
 | exorcist |  | ⬇️ 🔴 | 2021-05-01 | 7iulpt5i6whht6zo2r52f7vptxtjxs3vfcdxxazllikrtqpupn4epnqd.onion |
 | hades |  | ⬇️ 🔴 | 2021-05-01 | ixltdyumdlthrtgx.onion |
