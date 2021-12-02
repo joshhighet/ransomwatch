@@ -2,6 +2,8 @@
 
 | date | title | group |
 |---|---|---|
+| 2021-12-02 | `travel-general.... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
+| 2021-12-02 | `mainstreamdata.... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-12-01 | `KISTERS` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2021-12-01 | `summit-christia... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-12-01 | `FRONTIER SOFTWARE` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
@@ -100,5 +102,3 @@
 | 2021-11-22 | `reigroup.com` | [lv](https://ransomwatch.telemetry.ltd/#/profiles?id=lv) |
 | 2021-11-22 | `fluidsealingpro... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-11-22 | `planters-oil.ne... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2021-11-22 | `kankakeetitle.c... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2021-11-22 | `wnrllc.com ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
