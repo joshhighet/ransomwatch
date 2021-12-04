@@ -5,19 +5,19 @@ _:warning: all site pages and graphs are dynamically generated every half hour_
 
 ## 📰 summary - december 4th, 2021
 
-currently tracking `73` groups across `86` various relays and mirrors - _`30` of which are online_
+currently tracking `73` groups across `86` various relays and mirrors - _`29` of which are online_
 
 there are `35` active parsers, `9` of which using headless browsers - _`4` groups have recently introduced captchas_
 
-⏲ there have been `3` posts within the `last 24 hours`
+⏲ there have been `4` posts within the `last 24 hours`
 
-🦈 there have been `23` posts within the `month of december`
+🦈 there have been `24` posts within the `month of december`
 
-🪐 there have been `1865` posts within the `last 90 days`
+🪐 there have been `1866` posts within the `last 90 days`
 
-🏚 there have been `1921` posts within the `year of 2021`
+🏚 there have been `1922` posts within the `year of 2021`
 
-🦕 there have been `1955` posts `since the dawn of ransomwatch`
+🦕 there have been `1956` posts `since the dawn of ransomwatch`
 
 > _the `19` sites using v2 onion services are no longer indexed - [support.torproject.org](https://support.torproject.org/onionservices/v2-deprecation/)_
 
@@ -42,7 +42,7 @@ there are `35` active parsers, `9` of which using headless browsers - _`4` group
 | grief | Grief list | ⬆️ 🟢 |  | griefcameifmv4hfr3auozmovz5yi6m3h3dwbuqw7baomfxoxz4qteid.onion |
 | avaddon |  | ⬇️ 🔴 | 2021-05-01 | avaddongun7rngel.onion |
 | vicesociety |  | ⬇️ 🔴 | 2021-05-01 | 4hzyuotli6maqa4u.onion |
-| xinglocker | 星Team News | ⬆️ 🟢 |  | xingnewj6m4qytljhfwemngm7r7rogrindbq7wrfeepejgxc3bwci7qd.onion |
+| xinglocker | 星Team News | ⬇️ 🔴 | 2021-12-04 | xingnewj6m4qytljhfwemngm7r7rogrindbq7wrfeepejgxc3bwci7qd.onion |
 | darkside |  | ⬇️ 🔴 | 2021-05-01 | darksidc3iux462n6yunevoag52ntvwp6wulaz3zirkmh4cnz6hhj7id.onion |
 | ragnarlocker |  | ⬇️ 🔴 | 2021-05-01 | rgleak7op734elep.onion |
 | ragnarlocker | Home Page of Ragnar_Locker Leaks site | ⬆️ 🟢 |  | rgleaktxuey67yrgspmhvtnrqtgogur35lwdrup4d3igtbm3pupc4lyd.onion |
