@@ -2,6 +2,7 @@
 
 | date | title | group |
 |---|---|---|
+| 2021-12-04 | `NLB Corporation` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2021-12-04 | `Update: Linicals Data` | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
 | 2021-12-03 | `Bohlin Cywinski Jackson` | [suncrypt](https://ransomwatch.telemetry.ltd/#/profiles?id=suncrypt) |
 | 2021-12-02 | `Lootah Group` | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
@@ -101,4 +102,3 @@
 | 2021-11-22 | `Stoningtonschools` | [sabbath](https://ransomwatch.telemetry.ltd/#/profiles?id=sabbath) |
 | 2021-11-22 | `AISD` | [sabbath](https://ransomwatch.telemetry.ltd/#/profiles?id=sabbath) |
 | 2021-11-22 | `Starline` | [sabbath](https://ransomwatch.telemetry.ltd/#/profiles?id=sabbath) |
-| 2021-11-22 | `RocTechnologies` | [sabbath](https://ransomwatch.telemetry.ltd/#/profiles?id=sabbath) |
