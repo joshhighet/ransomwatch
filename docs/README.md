@@ -5,19 +5,19 @@ _:warning: all site pages and graphs are dynamically generated every half hour_
 
 ## 📰 summary - december 5th, 2021
 
-currently tracking `73` groups across `86` various relays and mirrors - _`29` of which are online_
+currently tracking `73` groups across `86` various relays and mirrors - _`30` of which are online_
 
 there are `35` active parsers, `9` of which using headless browsers - _`4` groups have recently introduced captchas_
 
-⏲ there have been `2` posts within the `last 24 hours`
+⏲ there have been `4` posts within the `last 24 hours`
 
-🦈 there have been `26` posts within the `month of december`
+🦈 there have been `28` posts within the `month of december`
 
-🪐 there have been `1868` posts within the `last 90 days`
+🪐 there have been `1870` posts within the `last 90 days`
 
-🏚 there have been `1924` posts within the `year of 2021`
+🏚 there have been `1926` posts within the `year of 2021`
 
-🦕 there have been `1958` posts `since the dawn of ransomwatch`
+🦕 there have been `1960` posts `since the dawn of ransomwatch`
 
 > _the `19` sites using v2 onion services are no longer indexed - [support.torproject.org](https://support.torproject.org/onionservices/v2-deprecation/)_
 
@@ -48,7 +48,7 @@ there are `35` active parsers, `9` of which using headless browsers - _`4` group
 | ragnarlocker | Home Page of Ragnar_Locker Leaks site | ⬆️ 🟢 |  | rgleaktxuey67yrgspmhvtnrqtgogur35lwdrup4d3igtbm3pupc4lyd.onion |
 | ragnarlocker |  | ⬇️ 🔴 | 2021-05-01 | p6o7m73ujalhgkiv.onion |
 | clop |  | ⬇️ 🔴 | 2021-05-01 | ekbgzchl6x2ias37.onion |
-| clop | 502 Bad Gateway | ⬆️ 🟢 |  | santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad.onion |
+| clop | HOME - CL0P^_- LEAKS | ⬆️ 🟢 |  | santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad.onion |
 | netwalker |  | ⬇️ 🔴 | 2021-05-01 | rnfdsgm6wb6j6su5txkekw4u4y47kp2eatvu7d6xhyn5cs4lt4pdrqqd.onion |
 | doppelpaymer | Start-maximized.com | ⬇️ 🔴 | 2021-09-23 | hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion |
 | revil | 404 Not Found | ⬇️ 🔴 | 2021-11-30 | dnpscnbaix6nkwvystl3yxglz7nteicqrou3t75tpcc5532cztc46qyd.onion |
@@ -61,7 +61,7 @@ there are `35` active parsers, `9` of which using headless browsers - _`4` group
 | nefilim |  | ⬇️ 🔴 | 2021-05-01 | hxt254aygrsziejn.onion |
 | maze |  | ⬇️ 🔴 | 2021-05-01 | xfr3txoorcyy7tikjgj5dk3rvo3vsrpyaxnclyohkbfp3h277ap4tiad.onion |
 | mount-locker |  | ⬇️ 🔴 | 2021-05-01 | mountnewsokhwilx.onion |
-| babuk-locker | Babuk - Leaks site | ⬇️ 🔴 | 2021-12-05 | nq4zyac4ukl4tykmidbzgdlvaboqeqsemkp4t35bzvjeve6zm2lqcjid.onion |
+| babuk-locker | Babuk - Leaks site | ⬆️ 🟢 |  | nq4zyac4ukl4tykmidbzgdlvaboqeqsemkp4t35bzvjeve6zm2lqcjid.onion |
 | ransomexx | RANSOMEXX | ⬆️ 🟢 |  | rnsm777cdsjrsdlbs4v5qoeppu3px6sb2igmh53jzrx7ipcrbjz5b2ad.onion |
 | cuba |  | ⬇️ 🔴 | 2021-05-01 | cuba4mp6ximo2zlo.onion |
 | pay2key | Pay2Key Leak Directory! | ⬆️ 🟢 |  | pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion |
