@@ -3,21 +3,21 @@ _:warning: all site pages and graphs are dynamically generated every half hour_
 
 > see the project [README](https://github.com/thetanz/ransomwatch#ransomwatch--) for technicals
 
-## 📰 summary - december 4th, 2021
+## 📰 summary - december 5th, 2021
 
-currently tracking `73` groups across `86` various relays and mirrors - _`30` of which are online_
+currently tracking `73` groups across `86` various relays and mirrors - _`29` of which are online_
 
 there are `35` active parsers, `9` of which using headless browsers - _`4` groups have recently introduced captchas_
 
-⏲ there have been `3` posts within the `last 24 hours`
+⏲ there have been `5` posts within the `last 24 hours`
 
-🦈 there have been `24` posts within the `month of december`
+🦈 there have been `26` posts within the `month of december`
 
-🪐 there have been `1866` posts within the `last 90 days`
+🪐 there have been `1868` posts within the `last 90 days`
 
-🏚 there have been `1922` posts within the `year of 2021`
+🏚 there have been `1924` posts within the `year of 2021`
 
-🦕 there have been `1956` posts `since the dawn of ransomwatch`
+🦕 there have been `1958` posts `since the dawn of ransomwatch`
 
 > _the `19` sites using v2 onion services are no longer indexed - [support.torproject.org](https://support.torproject.org/onionservices/v2-deprecation/)_
 
@@ -68,7 +68,7 @@ there are `35` active parsers, `9` of which using headless browsers - _`4` group
 | aztroteam |  | ⬇️ 🔴 | 2021-05-01 | anewset3pcya3xvk73hj7yunuamutxxsm5sohkdi32blhmql55tvgqad.onion |
 | lockdata | LockData Auction | ⬆️ 🟢 |  | wm6mbuzipviusuc42kcggzkdpbhuv45sn7olyamy6mcqqked3waslbqd.onion |
 | blacktor | 404 Not Found | ⬆️ 🟢 |  | bl4cktorpms2gybrcyt52aakcxt6yn37byb65uama5cimhifcscnqkid.onion |
-| haron | Clients page | ⬆️ 🟢 |  | ft4zr2jzlqoyob7yg4fcpwyt37hox3ajajqnfkdvbfrkjioyunmqnpad.onion |
+| haron | Clients page | ⬇️ 🔴 | 2021-12-04 | ft4zr2jzlqoyob7yg4fcpwyt37hox3ajajqnfkdvbfrkjioyunmqnpad.onion |
 | darkleakmarket | Dark Leak Market | ⬇️ 🔴 | 2021-10-07 | 54rdhzjzc4ids4u4wata4zr4ywfon5wpz2ml4q3avelgadpvmdal2vqd.onion |
 | prometheus |  | ⬇️ 🔴 | 2021-05-01 | promethw27cbrcot.onion |
 | blackmatter | BlackMatter | ⬇️ 🔴 | 2021-11-04 | blackmax7su6mbwtcyo3xwtpfxpm356jjqrs34y4crcytpw7mifuedyd.onion |

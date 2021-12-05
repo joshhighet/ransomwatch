@@ -2,6 +2,8 @@
 
 | date | title | group |
 |---|---|---|
+| 2021-12-05 | `HOULE` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
+| 2021-12-05 | `Spencer Gifts LLC` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2021-12-04 | `Seldin` | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2021-12-04 | `NLB Corporation` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2021-12-04 | `Update: Linicals Data` | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
@@ -100,5 +102,3 @@
 | 2021-11-23 | `centerspacehome... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-11-23 | `benner.com.br` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-11-22 | `Flagship` | [sabbath](https://ransomwatch.telemetry.ltd/#/profiles?id=sabbath) |
-| 2021-11-22 | `Stoningtonschools` | [sabbath](https://ransomwatch.telemetry.ltd/#/profiles?id=sabbath) |
-| 2021-11-22 | `AISD` | [sabbath](https://ransomwatch.telemetry.ltd/#/profiles?id=sabbath) |
