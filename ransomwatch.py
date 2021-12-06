@@ -254,6 +254,7 @@ if args.mode == 'parse':
     parsers.five4bb47h()
     parsers.snatch()
     parsers.midas()
+    parsers.robinhood()
     stdlog('ransomwatch: ' + 'parse run complete')
 
 if args.mode == 'list':

@@ -525,3 +525,14 @@ def snatch():
         errlog('snatch: ' + 'parsing fail')
     for post in posts:
         appender(post, 'snatch')
+
+def robinhood():
+    stdlog('parser: ' + 'robinhood')
+    parser = '''
+    grep '<h2 class="title"' source/robinhood-*.html | cut -d '>' -f 3 | cut -d '<' -f 1
+    '''
+    posts = runshellcmd(parser)
+    if len(posts) == 1:
+        errlog('robinhood: ' + 'parsing fail')
+    for post in posts:
+        appender(post, 'robinhood')

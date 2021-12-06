@@ -1706,7 +1706,7 @@
     {
         "name": "robinhood",
         "captcha": false,
-        "parser": false,
+        "parser": true,
         "geckodriver": false,
         "javascript_render": false,
         "meta": null,
