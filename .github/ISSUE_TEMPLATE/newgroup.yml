@@ -10,7 +10,7 @@ body:
       description: fqdn or web address of group
       placeholder: ex. abcdefg.onion/blog.html
     validations:
-      required: false
+      required: true
   - type: input
     id: groupname
     attributes:
