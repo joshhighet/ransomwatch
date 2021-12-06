@@ -14,7 +14,7 @@ body:
     validations:
       required: false
   - type: input
-    id: summary
+    id: groupname
     attributes:
       label: group name
       description: what name(s) is this actor operating under?
