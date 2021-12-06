@@ -1,0 +1,56 @@
+name: new group
+description: request a new group be tracked
+title: "new group: "
+labels: ["enhancement"]
+assignees:
+  - ghost
+body:
+  - type: input
+    id: fqdn
+    attributes:
+      label: host location
+      description: fqdn or web address of group
+      placeholder: ex. abcdefg.onion/blog.html
+    validations:
+      required: false
+  - type: input
+    id: groupname
+    attributes:
+      label: group name
+      description: what name(s) is this actor operating under?
+      placeholder: bobs burgers
+    validations:
+      required: true
+  - type: textarea
+    id: summary
+    attributes:
+      label: group information
+      description: where did you discover this group?
+      placeholder: any supplementarry links or resources to attribute
+    validations:
+      required: true
+  - type: dropdown
+    id: version
+    attributes:
+      label: host
+      description: what type of host is this?
+      options:
+        - v1 (onion)
+        - v2 (onion)
+        - v0 (clearnet)
+    validations:
+      required: true
+  - type: textarea
+    id: logs
+    attributes:
+      label: parser
+      description: if you have a shell parser similar to those within parsers.py to list posts, drop it here
+      render: shell
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: code of conduct
+      description: do u agree to [code of conduct](https://github.com/thetanz/ransomwatch/blob/main/.github/CODE_OF_CONDUCT.md)
+      options:
+        - label: i agree to follow this project's Code of Conduct
+          required: true
