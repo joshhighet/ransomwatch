@@ -35,6 +35,7 @@ body:
       options:
         - v1 (onion)
         - v2 (onion)
+        - v3 (onion)
         - v0 (clearnet)
     validations:
       required: true
