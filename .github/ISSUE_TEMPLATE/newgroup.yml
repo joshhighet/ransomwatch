@@ -33,10 +33,10 @@ body:
       label: host
       description: what type of host is this?
       options:
+        - clearnet
         - v1 (onion)
         - v2 (onion)
         - v3 (onion)
-        - v0 (clearnet)
     validations:
       required: true
   - type: textarea
