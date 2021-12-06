@@ -1682,5 +1682,45 @@
             }
         ],
         "profile": []
+    },
+    {
+        "name": "entropy",
+        "captcha": true,
+        "parser": false,
+        "geckodriver": false,
+        "javascript_render": false,
+        "meta": null,
+        "locations": [
+            {
+                "fqdn": "leaksv7sroztl377bbohzl42i3ddlfsxopcb6355zc7olzigedm5agad.onion",
+                "title": null,
+                "version": 3,
+                "slug": "http://leaksv7sroztl377bbohzl42i3ddlfsxopcb6355zc7olzigedm5agad.onion/posts",
+                "available": null,
+                "updated": null,
+                "lastscrape": "2021-05-01 00:00:00.000000"
+            }
+        ],
+        "profile": []
+    },
+    {
+        "name": "robinhood",
+        "captcha": false,
+        "parser": false,
+        "geckodriver": false,
+        "javascript_render": false,
+        "meta": null,
+        "locations": [
+            {
+                "fqdn": "tumblr.com",
+                "title": null,
+                "version": 0,
+                "slug": "https://robinhoodleaks.tumblr.com",
+                "available": null,
+                "updated": null,
+                "lastscrape": "2021-05-01 00:00:00.000000"
+            }
+        ],
+        "profile": []
     }
 ]
