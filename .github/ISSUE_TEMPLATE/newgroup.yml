@@ -1,5 +1,5 @@
-name: new group
-description: request a new group be tracked
+name: New Group
+description: Request the addition of a new group
 title: "new group: "
 labels: ["enhancement"]
 assignees:
@@ -26,9 +26,9 @@ body:
     attributes:
       label: group information
       description: where did you discover this group?
-      placeholder: any supplementarry links or resources to attribute
+      placeholder: any supplementary links or resources to attribute this group
     validations:
-      required: true
+      required: false
   - type: dropdown
     id: version
     attributes:
@@ -46,11 +46,4 @@ body:
       label: parser
       description: if you have a shell parser similar to those within parsers.py to list posts, drop it here
       render: shell
-  - type: checkboxes
-    id: terms
-    attributes:
-      label: code of conduct
-      description: do u agree to [code of conduct](https://github.com/thetanz/ransomwatch/blob/main/.github/CODE_OF_CONDUCT.md)
-      options:
-        - label: i agree to follow this project's Code of Conduct
-          required: true
+      placeholder: cat source.html | grep '\magic\|command\' | sed -i 'need\ful' | xargs
