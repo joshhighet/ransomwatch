@@ -2,6 +2,7 @@
 
 | date | title | group |
 |---|---|---|
+| 2021-12-06 | `jpbdselangor.gov.my` | [lv](https://ransomwatch.telemetry.ltd/#/profiles?id=lv) |
 | 2021-12-05 | `gaben.cz` | [lv](https://ransomwatch.telemetry.ltd/#/profiles?id=lv) |
 | 2021-12-05 | `promhotel.fr` | [lv](https://ransomwatch.telemetry.ltd/#/profiles?id=lv) |
 | 2021-12-05 | `HOULE` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
@@ -101,4 +102,3 @@
 | 2021-11-23 | `Argentina GOV` | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2021-11-23 | `Goodwill of Central and Coastal Virginia, Inc.    ` | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
 | 2021-11-23 | `INOXPA    ` | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
-| 2021-11-23 | `centerspacehome... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
