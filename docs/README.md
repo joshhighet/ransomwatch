@@ -5,19 +5,19 @@ _:warning: all site pages and graphs are dynamically generated every half hour_
 
 ## 📰 summary - december 6th, 2021
 
-currently tracking `73` groups across `86` various relays and mirrors - _`29` of which are online_
+currently tracking `73` groups across `86` various relays and mirrors - _`30` of which are online_
 
 there are `35` active parsers, `9` of which using headless browsers - _`4` groups have recently introduced captchas_
 
-⏲ there have been `4` posts within the `last 24 hours`
+⏲ there have been `5` posts within the `last 24 hours`
 
-🦈 there have been `30` posts within the `month of december`
+🦈 there have been `31` posts within the `month of december`
 
-🪐 there have been `1872` posts within the `last 90 days`
+🪐 there have been `1873` posts within the `last 90 days`
 
-🏚 there have been `1928` posts within the `year of 2021`
+🏚 there have been `1929` posts within the `year of 2021`
 
-🦕 there have been `1962` posts `since the dawn of ransomwatch`
+🦕 there have been `1963` posts `since the dawn of ransomwatch`
 
 > _the `19` sites using v2 onion services are no longer indexed - [support.torproject.org](https://support.torproject.org/onionservices/v2-deprecation/)_
 
@@ -38,7 +38,7 @@ there are `35` active parsers, `9` of which using headless browsers - _`4` group
 | lockbit2 | LOCKFILE | ⬇️ 🔴 | 2021-11-21 | zqaflhty5hyziovsxgqvj2mrz5e5rs6oqxzb54zolccfnvtn5w2johad.onion |
 | hive | Hive | ⬆️ 🟢 |  | hiveleakdbtnp76ulyhi52eag6c6tyc3xw7ez7iqy6wc34gd2nekazyd.onion |
 | arvinclub | Arvin Club – آزادی برای اتصال | ⬆️ 🟢 |  | 3kp6j22pz3zkv76yutctosa6djpj4yib2icvdqxucdaxxedumhqicpad.onion |
-| avoslocker | AvosLocker Access Queue | ⬇️ 🔴 | 2021-12-06 | avosqxh72b5ia23dl5fgwcpndkctuzqvh2iefk5imp3pi5gfhel5klad.onion |
+| avoslocker | AvosLocker Access Queue | ⬆️ 🟢 |  | avosqxh72b5ia23dl5fgwcpndkctuzqvh2iefk5imp3pi5gfhel5klad.onion |
 | grief | Grief list | ⬆️ 🟢 |  | griefcameifmv4hfr3auozmovz5yi6m3h3dwbuqw7baomfxoxz4qteid.onion |
 | avaddon |  | ⬇️ 🔴 | 2021-05-01 | avaddongun7rngel.onion |
 | vicesociety |  | ⬇️ 🔴 | 2021-05-01 | 4hzyuotli6maqa4u.onion |
