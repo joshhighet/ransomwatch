@@ -21,7 +21,7 @@ body:
       placeholder: bobs burgers
     validations:
       required: true
-  - type: textsummary
+  - type: textarea
     id: summary
     attributes:
       label: group information
