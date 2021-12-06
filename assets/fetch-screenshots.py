@@ -69,7 +69,6 @@ def threadsafe(slug, fqdn):
         with open(outfile, 'wb') as f:
             f.write(screenshot)
 
-
 groups = openjson('groups.json')
 for group in groups:
     for webpage in group['locations']:
