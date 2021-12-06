@@ -11,6 +11,8 @@ groups are visited & posts are indexed every half hour within this repository - 
 
 ## technicals
 
+_missing a group you know about? [use this issue template](https://github.com/thetanz/ransomwatch/issues/new?assignees=&labels=✨+enhancement&template=newgroup.yml&title=new+group%3A+)_
+
 `groups.json` contains the hosts, nodes, relays and mirrors for a tracked group or actor
 
 `posts.json` contains parsed posts, noted by their discovery time and accountable group
