@@ -2,6 +2,7 @@
 
 | date | title | group |
 |---|---|---|
+| 2021-12-06 | `Besson Seguros` | [robinhood](https://ransomwatch.telemetry.ltd/#/profiles?id=robinhood) |
 | 2021-12-06 | `CHR Solutions` | [pysa](https://ransomwatch.telemetry.ltd/#/profiles?id=pysa) |
 | 2021-12-06 | `Clementoni` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2021-12-06 | `Ruwac` | [ransomexx](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomexx) |
@@ -101,4 +102,3 @@
 | 2021-11-23 | `ALPSRX.COM - MORE THEN 150GB DATA LEAKED` | [lv](https://ransomwatch.telemetry.ltd/#/profiles?id=lv) |
 | 2021-11-23 | `Società Italiana degli Autori ed Editori / Information updated` | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2021-11-23 | `mtradeasia.com ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2021-11-23 | `Team Computers Ltd. - Leak` | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
