@@ -44,6 +44,6 @@ body:
     id: logs
     attributes:
       label: parser
-      description: if you have a shell parser similar to those within parsers.py to list posts, drop it here
+      description: if you have a shell parser similar to those within [parsers.py](https://github.com/thetanz/ransomwatch/blob/main/parsers.py) to list posts, drop it here
       render: shell
       placeholder: cat source.html | grep '\magic\|command\' | sed -i 'need\ful' | xargs
