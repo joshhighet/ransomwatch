@@ -1,9 +1,8 @@
 .venv
+**.log
 .vscode/*
-.DS_Store
-*/.DS_Store
+**.DS_Store
 __pycache__
-geckodriver.log
-.python_packages
-*/.python-version
-*/local.settings.json
+**.python*
+**settings.json
+assets/screenshots/*-*.png
