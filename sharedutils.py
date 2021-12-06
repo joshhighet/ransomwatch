@@ -218,10 +218,14 @@ def hasprotocol(slug):
 
 def getapex(slug):
     '''
-    returns the apex domain for a given webpage/url slug
+    returns the domain for a given webpage/url slug
     '''
     stripurl = tldextract.extract(slug)
-    return stripurl.domain + '.' + stripurl.suffix
+    print(stripurl)
+    if stripurl.subdomain:
+        return stripurl.subdomain + '.' + stripurl.domain + '.' + stripurl.suffix
+    else:
+        return stripurl.domain + '.' + stripurl.suffix
 
 def striptld(slug):
     '''
@@ -417,11 +421,11 @@ def todiscord(post_title, group):
     }''' % (post_title, group, group)
     discord_json = json.loads(discord_data)
     stdlog('sharedutils: ' + 'sending to discord webhook')
+    dscheaders = {
+        'Content-Type': 'application/json',
+        'Accept': 'application/json'
+    }
     try:
-        dscheaders = {
-            'Content-Type': 'application/json',
-            'Accept': 'application/json'
-        }
         hook_uri = os.environ.get('DISCORD_WEBHOOK')
         hookpost = requests.post(hook_uri, json=discord_json, headers=dscheaders)
     except requests.exceptions.RequestException as e:
