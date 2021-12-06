@@ -3,3 +3,4 @@ blank_issues_enabled: false
 contact_links:
   - name: check out ransomwatch
     url: https://ransomwatch.telemetry.ltd
+    about: the site powered by this repository
