@@ -2,8 +2,6 @@ name: New Group
 description: Request the addition of a new group
 title: "new group: "
 labels: ["✨ enhancement"]
-assignees:
-  - ghost
 body:
   - type: input
     id: fqdn
