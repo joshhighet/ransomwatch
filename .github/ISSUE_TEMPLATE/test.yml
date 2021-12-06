@@ -17,6 +17,14 @@ body:
     id: summary
     attributes:
       label: group name
+      description: what name(s) is this actor operating under?
+      placeholder: bobs burgers
+    validations:
+      required: true
+  - type: textsummary
+    id: summary
+    attributes:
+      label: group information
       description: where did you discover this group?
       placeholder: any supplementarry links or resources to attribute
     validations:
