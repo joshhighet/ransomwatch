@@ -6,12 +6,19 @@ always remember..... https://stackoverflow.com/questions/1732348/regex-match-ope
 '''
 import os
 import json
+from sys import platform
 from datetime import datetime
 
 from sharedutils import openjson
 from sharedutils import todiscord
 from sharedutils import runshellcmd
 from sharedutils import stdlog, dbglog, errlog, honk
+
+# on macOS we use 'grep -oE' over 'grep -oP'
+if platform == 'darwin':
+    fancygrep = 'grep -oE'
+else:
+    fancygrep = 'grep -oP'
 
 def posttemplate(victim, group_name, timestamp):
     '''
@@ -250,7 +257,7 @@ def conti():
     stdlog('parser: ' + 'conti')
     # grep 'class="title">&' source/conti-*.html --no-filename | cut -d ";" -f2 | sed -e s/"&rdquo"//
     parser = '''
-    grep 'newsList' source/conti-*.html | sed -e 's/      newsList( //' -e 's/ );//' | jq '.[].title' -r
+    grep 'newsList' source/conti-continewsnv5ot*.html | sed -e 's/      newsList( //' -e 's/ );//' | jq '.[].title' -r
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
@@ -480,11 +487,9 @@ def atomsilo():
         
 def lv():
     stdlog('parser: ' + 'lv')
-    # macos grep: grep -oE
-    # gnu grep: grep -oP
     parser = '''
-    grep -oP "blog-post-title.*?</a>" source/lv-rbvuetun*.html | cut -d '>' -f 3 | cut -d '<' -f 1
-    '''
+    %s "blog-post-title.*?</a>" source/lv-rbvuetun*.html | cut -d '>' -f 3 | cut -d '<' -f 1
+    ''' % (fancygrep)
     posts = runshellcmd(parser)
     if len(posts) == 1:
         errlog('lv: ' + 'parsing fail')
@@ -494,8 +499,8 @@ def lv():
 def five4bb47h():
     stdlog('parser: ' + 'sabbath')
     parser = '''
-    grep -oP "aria-label.*?>" source/sabbath-*.html | cut -d '"' -f 2 | sed -e '/Search button/d' | tr "..." ' ' | grep "\S"
-    '''
+    %s "aria-label.*?>" source/sabbath-*.html | cut -d '"' -f 2 | sed -e '/Search button/d' | tr "..." ' ' | grep "\S"
+    ''' % (fancygrep)
     posts = runshellcmd(parser)
     if len(posts) == 1:
         errlog('sabbath: ' + 'parsing fail')
@@ -515,11 +520,9 @@ def midas():
 
 def snatch():
     stdlog('parser: ' + 'snatch')
-    # macos grep: grep -oE
-    # gnu grep: grep -oP
     parser = '''
-    grep -oP "a-b-n-name.*?</div>" source/snatch-*.html | cut -d '>' -f 2 | cut -d '<' -f 1
-    '''
+    %s "a-b-n-name.*?</div>" source/snatch-*.html | cut -d '>' -f 2 | cut -d '<' -f 1
+    ''' % (fancygrep)
     posts = runshellcmd(parser)
     if len(posts) == 1:
         errlog('snatch: ' + 'parsing fail')
