@@ -256,6 +256,7 @@ if args.mode == 'parse':
     parsers.midas()
     parsers.robinhood()
     parsers.marketo()
+    parsers.rook()
     stdlog('ransomwatch: ' + 'parse run complete')
 
 if args.mode == 'list':

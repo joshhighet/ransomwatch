@@ -2,7 +2,7 @@
     {
         "name": "marketo",
         "captcha": false,
-        "parser": false,
+        "parser": true,
         "geckodriver": false,
         "javascript_render": false,
         "meta": "marketplace - not a ransomware group",
@@ -1774,7 +1774,7 @@
         "parser": false,
         "geckodriver": false,
         "javascript_render": false,
-        "meta": null,
+        "meta": "previous clearnet domain coomingproject.com",
         "locations": [
             {
                 "fqdn": "z6mikrtphid5fmn52nbcbg25tj57sowlm3oc25g563yvsfmygkcxqbyd.onion",
@@ -1784,15 +1784,6 @@
                 "available": false,
                 "updated": null,
                 "lastscrape": "2021-05-01 00:00:00.000000"
-            },
-            {
-                "fqdn": "coomingproject.com",
-                "title": "coomingproject.com - This website is for sale! - c",
-                "version": 0,
-                "slug": "http://coomingproject.com",
-                "available": true,
-                "updated": "2021-12-07 06:13:48.929900",
-                "lastscrape": "2021-12-07 06:13:48.929885"
             }
         ],
         "profile": []
@@ -1820,7 +1811,7 @@
     {
         "name": "rook",
         "captcha": false,
-        "parser": false,
+        "parser": true,
         "geckodriver": false,
         "javascript_render": false,
         "meta": null,

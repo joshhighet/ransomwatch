@@ -550,3 +550,14 @@ def marketo():
         errlog('marketo: ' + 'parsing fail')
     for post in posts:
         appender(post, 'marketo')
+
+def rook():
+    stdlog('parser: ' + 'rook')
+    parser = '''
+    grep 'class="post-title"' source/rook-*.html | cut -d '>' -f 2 | cut -d '<' -f 1 | sed '/^&#34/d'
+    '''
+    posts = runshellcmd(parser)
+    if len(posts) == 1:
+        errlog('rook: ' + 'parsing fail')
+    for post in posts:
+        appender(post, 'rook')
