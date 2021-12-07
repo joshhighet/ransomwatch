@@ -95,5 +95,5 @@
 | [moses](http://localhost:3000/#/profiles?id=moses) |  | 🔴 | 2021-05-01 | mosesstaffm7hptp.onion |
 | [cooming](http://localhost:3000/#/profiles?id=cooming) |  | 🔴 | 2021-05-01 | z6mikrtphid5fmn52nbcbg25tj57sowlm3oc25g563yvsfmygkcxqbyd.onion |
 | [cooming](http://localhost:3000/#/profiles?id=cooming) | coomingproject.com - This website is for sale! - c | 🟢 |  | coomingproject.com |
-| [aGl0bGVyCg==](http://localhost:3000/#/profiles?id=aGl0bGVyCg==) |  | 🔴 | 2021-05-01 | hitleransomware.cf |
+| [aGl0bGVyCg](http://localhost:3000/#/profiles?id=aGl0bGVyCg) |  | 🔴 | 2021-05-01 | hitleransomware.cf |
 | [rook](http://localhost:3000/#/profiles?id=rook) | We Are Rook!!! | 🟢 |  | gamol6n6p2p4c3ad7gxmx3ur7wwdwlywebo2azv3vv5qlmjmole2zbyd.onion |
