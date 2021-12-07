@@ -117,6 +117,6 @@ there are `36` active parsers, `9` of which using headless browsers - _`5` group
 | robinhood | RobinHood | ⬆️ 🟢 |  | robinhoodleaks.tumblr.com |
 | moses |  | ⬇️ 🔴 | 2021-05-01 | mosesstaffm7hptp.onion |
 | cooming |  | ⬇️ 🔴 | 2021-05-01 | z6mikrtphid5fmn52nbcbg25tj57sowlm3oc25g563yvsfmygkcxqbyd.onion |
-| cooming | coomingproject.com - Diese Website steht zum Verka | ⬆️ 🟢 |  | coomingproject.com |
+| cooming | coomingproject.com - This website is for sale! - c | ⬆️ 🟢 |  | coomingproject.com |
 | aGl0bGVyCg== |  | ⬇️ 🔴 | 2021-05-01 | hitleransomware.cf |
 | rook | We Are Rook!!! | ⬆️ 🟢 |  | gamol6n6p2p4c3ad7gxmx3ur7wwdwlywebo2azv3vv5qlmjmole2zbyd.onion |
