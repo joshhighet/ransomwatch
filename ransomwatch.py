@@ -184,7 +184,7 @@ def appender(name, location):
         with open('groups.json', 'w', encoding='utf-8') as groupsfile:
             json.dump(groups, groupsfile, ensure_ascii=False, indent=4)
     else:
-        honk('cannot append to non-existing provider, ' + name)
+        honk('cannot append to non-existing provider')
 
 def lister():
     '''
