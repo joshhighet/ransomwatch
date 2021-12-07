@@ -33,6 +33,15 @@
                 "available": false,
                 "updated": "2021-10-04 08:05:02.379137",
                 "lastscrape": "2021-10-04 08:05:02.379121"
+            },
+            {
+                "fqdn": "jvdamsif53dqjycuozlaye2s47p7xij4x6hzwzwhzrqmv36gkyzohhqd.onion",
+                "title": null,
+                "version": 3,
+                "slug": "http://jvdamsif53dqjycuozlaye2s47p7xij4x6hzwzwhzrqmv36gkyzohhqd.onion",
+                "available": null,
+                "updated": null,
+                "lastscrape": "2021-05-01 00:00:00.000000"
             }
         ],
         "profile": [
@@ -223,7 +232,9 @@
                 "lastscrape": "2021-12-07 01:09:43.824674"
             }
         ],
-        "profile": []
+        "profile": [
+            "http://t.me/arvin_club"
+        ]
     },
     {
         "name": "avoslocker",
@@ -585,6 +596,15 @@
                 "available": true,
                 "updated": "2021-12-07 01:11:44.892829",
                 "lastscrape": "2021-12-07 01:11:44.892815"
+            },
+            {
+                "fqdn": "continews.click",
+                "title": null,
+                "version": 0,
+                "slug": "http://continews.click",
+                "available": null,
+                "updated": null,
+                "lastscrape": "2021-05-01 00:00:00.000000"
             }
         ],
         "profile": [
@@ -774,7 +794,9 @@
             }
         ],
         "profile": [
-            "https://research.checkpoint.com/2020/ransomware-alert-pay2key"
+            "https://research.checkpoint.com/2020/ransomware-alert-pay2key",
+            "https://www.twitter.com/p2ktwtacc",
+            "https://keybase.io/pay2key"
         ]
     },
     {
@@ -1719,6 +1741,95 @@
                 "available": true,
                 "updated": "2021-12-07 01:17:08.722055",
                 "lastscrape": "2021-12-07 01:17:08.722038"
+            }
+        ],
+        "profile": []
+    },
+    {
+        "name": "moses",
+        "captcha": false,
+        "parser": false,
+        "geckodriver": false,
+        "javascript_render": false,
+        "meta": null,
+        "locations": [
+            {
+                "fqdn": "mosesstaffm7hptp.onion",
+                "title": null,
+                "version": 2,
+                "slug": "http://mosesstaffm7hptp.onion",
+                "available": null,
+                "updated": null,
+                "lastscrape": "2021-05-01 00:00:00.000000"
+            }
+        ],
+        "profile": []
+    },
+    {
+        "name": "cooming",
+        "captcha": false,
+        "parser": false,
+        "geckodriver": false,
+        "javascript_render": false,
+        "meta": null,
+        "locations": [
+            {
+                "fqdn": "z6mikrtphid5fmn52nbcbg25tj57sowlm3oc25g563yvsfmygkcxqbyd.onion",
+                "title": null,
+                "version": 3,
+                "slug": "http://z6mikrtphid5fmn52nbcbg25tj57sowlm3oc25g563yvsfmygkcxqbyd.onion",
+                "available": null,
+                "updated": null,
+                "lastscrape": "2021-05-01 00:00:00.000000"
+            },
+            {
+                "fqdn": "coomingproject.com",
+                "title": null,
+                "version": 0,
+                "slug": "http://coomingproject.com",
+                "available": null,
+                "updated": null,
+                "lastscrape": "2021-05-01 00:00:00.000000"
+            }
+        ],
+        "profile": []
+    },
+    {
+        "name": "aGl0bGVyCg==",
+        "captcha": false,
+        "parser": false,
+        "geckodriver": false,
+        "javascript_render": false,
+        "meta": null,
+        "locations": [
+            {
+                "fqdn": "hitleransomware.cf",
+                "title": null,
+                "version": 0,
+                "slug": "http://hitleransomware.cf",
+                "available": null,
+                "updated": null,
+                "lastscrape": "2021-05-01 00:00:00.000000"
+            }
+        ],
+        "profile": []
+    },
+    {
+        "name": "rook",
+        "captcha": false,
+        "parser": false,
+        "geckodriver": false,
+        "javascript_render": false,
+        "meta": null,
+        "locations": [
+            {
+                "fqdn": "gamol6n6p2p4c3ad7gxmx3ur7wwdwlywebo2azv3vv5qlmjmole2zbyd.onion",
+                "title": null,
+                "version": 3,
+                "slug": "http://gamol6n6p2p4c3ad7gxmx3ur7wwdwlywebo2azv3vv5qlmjmole2zbyd.onion",
+                "available": null,
+                "updated": null,
+                "lastscrape": "2021-05-01 00:00:00.000000"
             }
         ],
         "profile": []
