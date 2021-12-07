@@ -2,6 +2,7 @@
 
 | date | title | group |
 |---|---|---|
+| 2021-12-07 | `Altrux Medical` | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
 | 2021-12-07 | `Fittingbox` | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
 | 2021-12-07 | `Millensys` | [marketo](https://ransomwatch.telemetry.ltd/#/profiles?id=marketo) |
 | 2021-12-07 | `GigaTribe` | [marketo](https://ransomwatch.telemetry.ltd/#/profiles?id=marketo) |
@@ -101,4 +102,3 @@
 | 2021-11-29 | `G.E.W. CORPORATION LIMITED` | [midas](https://ransomwatch.telemetry.ltd/#/profiles?id=midas) |
 | 2021-11-29 | `Texas Enterprises, Inc (TEI)` | [midas](https://ransomwatch.telemetry.ltd/#/profiles?id=midas) |
 | 2021-11-29 | `Calibrus` | [midas](https://ransomwatch.telemetry.ltd/#/profiles?id=midas) |
-| 2021-11-29 | `Amtech Corporation` | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
