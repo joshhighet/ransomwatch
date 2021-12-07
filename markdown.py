@@ -60,22 +60,11 @@ def mainpage():
     uptime_sheet = 'docs/README.md'
     with open(uptime_sheet, 'w') as f:
         f.close()
-    groups = openjson('groups.json')
     writeline(uptime_sheet, '')
-    writeline(uptime_sheet, '_:warning: all site pages and graphs are dynamically generated every half hour_')
+    writeline(uptime_sheet, '## summary')
+    writeline(uptime_sheet, '_' + friendly_tz + '_')
     writeline(uptime_sheet, '')
-    writeline(uptime_sheet, '> see the project [README](https://github.com/thetanz/ransomwatch#ransomwatch--) for technicals')
-    writeline(uptime_sheet, '')
-    # link to the stats and profile pages
-    # writeline(uptime_sheet, '## [`stats n\' graphs`](stats.md)')
-    # writeline(uptime_sheet, '')
-    # writeline(uptime_sheet, '## [`group profiles`](profiles.md)')
-    # writeline(uptime_sheet, '')
-    writeline(uptime_sheet, '## 📰 summary - ' + friendly_tz)
-    writeline(uptime_sheet, '')
-    writeline(uptime_sheet, 'currently tracking `' + str(groupcount()) + '` groups across `' + str(hostcount()) + '` various relays and mirrors - ' + '_`' + str(onlinecount()) + '` of which are online_')
-    writeline(uptime_sheet, '')
-    writeline(uptime_sheet, 'there are `' + str(parsercount()) + '` active parsers, `' + str(headlesscount()) + '` of which using headless browsers - _`' + str(countcaptchahosts()) + '` groups have recently introduced captchas_')
+    writeline(uptime_sheet, 'currently tracking `' + str(groupcount()) + '` groups across `' + str(hostcount()) + '` relays & mirrors - _`' + str(onlinecount()) + '` currently online_')
     writeline(uptime_sheet, '')
     writeline(uptime_sheet, '⏲ there have been `' + str(postslast24h()) + '` posts within the `last 24 hours`')
     writeline(uptime_sheet, '')
@@ -87,30 +76,42 @@ def mainpage():
     writeline(uptime_sheet, '')
     writeline(uptime_sheet, '🦕 there have been `' + str(postcount()) + '` posts `since the dawn of ransomwatch`')
     writeline(uptime_sheet, '')
-    writeline(uptime_sheet, '> _the `' + str(version2count()) + '` sites using v2 onion services are no longer indexed - [support.torproject.org](https://support.torproject.org/onionservices/v2-deprecation/)_')
+    writeline(uptime_sheet, 'there are `' + str(parsercount()) + '` custom parsers indexing posts')
+    #writeline(uptime_sheet, 'there are `' + str(parsercount()) + '` active parsers, `' + str(headlesscount()) + '` of which using headless browsers - _`' + str(countcaptchahosts()) + '` groups have recently introduced captchas_')
     writeline(uptime_sheet, '')
-    writeline(uptime_sheet, '# 📚 index')
+    writeline(uptime_sheet, '_`' + str(version2count()) + '` sites using v2 onion services are no longer indexed - [support.torproject.org](https://support.torproject.org/onionservices/v2-deprecation/)_')
     writeline(uptime_sheet, '')
+    writeline(uptime_sheet, '> see the project [README](https://github.com/thetanz/ransomwatch#ransomwatch--) for backend technicals')
+
+def indexpage():
+    index_sheet = 'docs/INDEX.md'
+    with open(index_sheet, 'w') as f:
+        f.close()
+    groups = openjson('groups.json')
+    writeline(index_sheet, '# 📚 index')
+    writeline(index_sheet, '')
     header = '| group | title | status | last seen | location |'
-    writeline(uptime_sheet, header)
-    writeline(uptime_sheet, '|---|---|---|---|---|')
+    writeline(index_sheet, header)
+    writeline(index_sheet, '|---|---|---|---|---|')
     for group in groups:
         stdlog('generating group report for ' + group['name'])
         for host in group['locations']:
             stdlog('generating host report for ' + host['fqdn'])
             if host['available'] is True:
-                statusemoji = '⬆️ 🟢'
+                #statusemoji = '⬆️ 🟢'
+                statusemoji = '🟢'
                 lastseen = ''
             elif host['available'] is False:
                 # iso timestamp converted to yyyy/mm/dd
                 lastseen = host['lastscrape'].split(' ')[0]
-                statusemoji = '⬇️ 🔴'
+                #statusemoji = '⬇️ 🔴'
+                statusemoji = '🔴'
             if host['title'] is not None:
                 title = host['title'].replace('|', '-')
             else:
                 title = ''
-            line = '| ' + group['name'] + ' | ' + title + ' | ' + statusemoji + ' | ' + lastseen + ' | ' + host['fqdn'] + ' |'
-            writeline(uptime_sheet, line)
+            line = '| [' + group['name'] + '](http://localhost:3000/#/profiles?id=' + group['name'] + ') | ' + title + ' | ' + statusemoji + ' | ' + lastseen + ' | ' + host['fqdn'] + ' |'
+            writeline(index_sheet, line)
 
 def sidebar():
     '''
@@ -122,9 +123,10 @@ def sidebar():
     with open(sidebar, 'w') as f:
         f.close()
     writeline(sidebar, '- [home](README.md)')
-    writeline(sidebar, '- [recent](recentposts.md)')
-    writeline(sidebar, '- [stats](stats.md)')
-    writeline(sidebar, '- [profiles](profiles.md)')
+    writeline(sidebar, '- [group index](INDEX.md)')
+    writeline(sidebar, '- [recent posts](recentposts.md)')
+    writeline(sidebar, '- [stats & graphs](stats.md)')
+    writeline(sidebar, '- [group profiles](profiles.md)')
     stdlog('sidebar generated')
 
 def statspage():
@@ -259,6 +261,7 @@ def profilepage():
 def main():
     stdlog('generating doco')
     mainpage()
+    indexpage()
     sidebar()
     recentpage()
     statspage()
