@@ -1,6 +1,5 @@
 import os
 import json
-import logging
 from bs4 import BeautifulSoup
 from sharedutils import stdlog, dbglog, errlog, honk
 
@@ -24,10 +23,8 @@ for file in os.listdir('source'):
             unhandled = []
             externalurls = []
             for link in soup.find_all('a'):
-                logging.debug('link: {}'.format(link))
                 if link.get('href'):
                     if link.get('href').startswith('http'):
-                        logging.debug('external url: {}'.format(link.get('href')))
                         if fqdn not in link.get('href'):
                             externalurls.append(link.get('href'))
                         else:
@@ -39,16 +36,12 @@ for file in os.listdir('source'):
                     else:
                         if link.get('href').startswith('#'):
                             unhandled.append(link.get('href'))
-                            pass
                         elif link.get('href').startswith('javascript'):
                             unhandled.append(link.get('href'))
-                            pass
                         elif link.get('href') == '/':
                             unhandled.append(link.get('href'))
-                            pass
                         elif link.get('href').startswith('/'):
-                            link = fqdn + str(link.get('href') )
-                            urls.append(link)
+                            urls.append(fqdn + str(link.get('href')))
                         else:
                             unhandled.append(link.get('href'))
             infosheet['urls'] = list(set(urls))

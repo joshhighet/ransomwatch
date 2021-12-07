@@ -1,12 +1,7 @@
 '''
 screenshot up hosts using selenium w/firefox webdriver
 '''
-import os
-import sys
-import logging
-import inspect
 import requests
-from threading import Thread
 from selenium import webdriver
 from selenium.common.exceptions import WebDriverException
 from selenium.webdriver.firefox.options import Options
@@ -15,7 +10,6 @@ from sharedutils import sockshost, socksport
 from sharedutils import stdlog, dbglog, errlog, honk
 from sharedutils import checktcp, openjson, randomagent
 
-logging.basicConfig(level=logging.INFO)
 requests.packages.urllib3.disable_warnings()
 
 def screenshot(webpage):
@@ -51,7 +45,7 @@ def screenshot(webpage):
         driver.set_window_size(2560, 1600)
         driver.get(webpage)
         driver.implicitly_wait(10)
-        logging.info('webshot: {}'.format(webpage) + ' taking screenshot')
+        stdlog('webshot: {}'.format(webpage) + ' taking screenshot')
         screenshot = driver.get_screenshot_as_png()
         driver.quit()
     except WebDriverException as wde:
@@ -70,7 +64,7 @@ def main():
     for group in groups:
         stdlog('group: {}'.format(group['name']))
         for webpage in group['locations']:
-            if webpage['available'] == True:
+            if webpage['available'] is True:
                 screenshotpng = screenshot(webpage['slug'])
                 if screenshotpng:
                     outfile = 'source/screenshots/' + webpage['fqdn'].replace('.', '-') + '.png'
