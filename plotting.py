@@ -5,32 +5,42 @@ import matplotlib.pyplot as plt
 from sharedutils import gcount
 from sharedutils import openjson
 
-'''
-the date field in posts is 'discovered' - YYYY-MM-DD HH:MM:SS.SSSSSS
-gcount returns a list i.e {'suncrypt': 15, 'lorenz': 18, 'arvinclub': 15}
-'''
-
 def plot_posts_by_group():
-    # open up the posts dictionary
-    posts = openjson('posts.json')
-    # create a list of groups and their count
+    '''
+    plot the number of posts by group in a barchart
+    '''
+    posts = openjson('posts.json') 
     group_counts = gcount(posts)
-    # we want to sort this list by the count
     group_counts = sorted(group_counts.items(), key=lambda x: x[1], reverse=True)
-    # create a list of the groups
     groups = [x[0] for x in group_counts]
-    # create a list of the counts
     counts = [x[1] for x in group_counts]
-    # create a bar chart
     plt.bar(groups, counts)
-    # set the title
     plt.title('posts by group')
-    # set the x-axis label - the names are long so horizontal labels are better
     plt.xlabel('group name')
     plt.xticks(rotation=90)
-    # set the y-axis label
     plt.ylabel('# of posts')
-    # save the plot to a file
-    plt.savefig('docs/graphs/posts_by_group.png',dpi=300, bbox_inches = "tight")
+    plt.savefig('docs/graphs/posts_by_group.png',dpi=300, bbox_inches="tight")
 
+def pie_chart_uptime():
+    '''
+    plot the uptime of the bot in a pie chart
+    '''
+    groups = openjson('groups.json')
+    available = 0
+    unavailable = 0
+    for group in groups:
+        for host in group['locations']:
+            if host['available'] == True:
+                available += 1
+            elif host['available'] == False:
+                unavailable += 1
+    labels = ['up', 'down']
+    sizes = [available, unavailable]
+    colors = ['green', 'red']
+    plt.pie(sizes, labels=labels, colors=colors, autopct='%1.1f%%', startangle=140)
+    plt.axis('equal')
+    plt.title('group monitoring availability')
+    plt.savefig('docs/graphs/uptime.png',dpi=300, bbox_inches="tight")
+
+#pie_chart_uptime()
 plot_posts_by_group()
