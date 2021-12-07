@@ -131,7 +131,7 @@ def sidebar():
 
 def statspage():
     '''
-    create a stats page in markdown containing the plotly graphs
+    create a stats page in markdown containing the matplotlib graphs
     '''
     stdlog('generating stats page')
     statspage = 'docs/stats.md'
