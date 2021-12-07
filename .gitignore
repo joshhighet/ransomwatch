@@ -5,4 +5,5 @@
 __pycache__
 **.python*
 **settings.json
-assets/screenshots/*-*.png
+source/screenshots/*.png
+source/linkanalysis/*.json
