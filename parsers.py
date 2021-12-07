@@ -536,3 +536,14 @@ def robinhood():
         errlog('robinhood: ' + 'parsing fail')
     for post in posts:
         appender(post, 'robinhood')
+
+def marketo():
+    stdlog('parser: ' + 'marketo')
+    parser = '''
+    cat source/marketo-*.html | grep '<a href="/lot' | sed -e 's/^ *//g' -e '/Show more/d' -e 's/<strong>//g' | cut -d '>' -f 2 | cut -d '<' -f 1 | sed -e '/^$/d'
+    '''
+    posts = runshellcmd(parser)
+    if len(posts) == 1:
+        errlog('marketo: ' + 'parsing fail')
+    for post in posts:
+        appender(post, 'marketo')
