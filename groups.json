@@ -5,7 +5,7 @@
         "parser": false,
         "geckodriver": false,
         "javascript_render": false,
-        "meta": null,
+        "meta": "marketplace - not a ransomware group",
         "locations": [
             {
                 "fqdn": "marketojbwagqnwx.onion",
@@ -46,7 +46,10 @@
         ],
         "profile": [
             "https://www.digitalshadows.com/blog-and-research/marketo-a-return-to-simple-extortion",
-            "https://securityaffairs.co/wordpress/121617/cyber-crime/puma-available-marketo.html"
+            "https://securityaffairs.co/wordpress/121617/cyber-crime/puma-available-marketo.html",
+            "https://t.me/marketo_leaks",
+            "https://t.me/marketocloud",
+            "https://marketo.cloud"
         ]
     },
     {
@@ -825,7 +828,7 @@
         "parser": true,
         "geckodriver": false,
         "javascript_render": false,
-        "meta": "marketplace",
+        "meta": "marketplace - not a ransomware group",
         "locations": [
             {
                 "fqdn": "wm6mbuzipviusuc42kcggzkdpbhuv45sn7olyamy6mcqqked3waslbqd.onion",
@@ -891,7 +894,7 @@
         "parser": true,
         "geckodriver": false,
         "javascript_render": false,
-        "meta": "marketplace commonly used by affiliates - not a ransomware crew",
+        "meta": "marketplace - not a ransomware group",
         "locations": [
             {
                 "fqdn": "54rdhzjzc4ids4u4wata4zr4ywfon5wpz2ml4q3avelgadpvmdal2vqd.onion",
