@@ -33,6 +33,7 @@
 | 2021-12-07 | `epicor.com` | [marketo](https://ransomwatch.telemetry.ltd/#/profiles?id=marketo) |
 | 2021-12-07 | `luxottica.com` | [marketo](https://ransomwatch.telemetry.ltd/#/profiles?id=marketo) |
 | 2021-12-07 | `dwr.virginia.gov` | [marketo](https://ransomwatch.telemetry.ltd/#/profiles?id=marketo) |
+| 2021-12-07 | `KMG Prestige, Inc.` | [rook](https://ransomwatch.telemetry.ltd/#/profiles?id=rook) |
 | 2021-12-06 | `Marshall Investigative Group Part 1/3 1000 Client` | [bonacigroup](https://ransomwatch.telemetry.ltd/#/profiles?id=bonacigroup) |
 | 2021-12-06 | `Saand` | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2021-12-06 | `Bemis Associates    ` | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
@@ -101,4 +102,3 @@
 | 2021-11-29 | `Calibrus` | [midas](https://ransomwatch.telemetry.ltd/#/profiles?id=midas) |
 | 2021-11-29 | `Amtech Corporation` | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
 | 2021-11-29 | `APG Neuros` | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
-| 2021-11-29 | `Salinen Austria` | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
