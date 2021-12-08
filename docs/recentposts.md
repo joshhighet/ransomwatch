@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2021-12-08 | `tlpterminal.com.my` | [lv](https://ransomwatch.telemetry.ltd/#/profiles?id=lv) |
 | 2021-12-08 | `roemer-lueftung... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-12-08 | `nowiny.pl ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-12-08 | `atlas.in ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2021-11-29 | `IDSFULFILLMENT` | [midas](https://ransomwatch.telemetry.ltd/#/profiles?id=midas) |
 | 2021-11-29 | `RWL GmbH` | [midas](https://ransomwatch.telemetry.ltd/#/profiles?id=midas) |
 | 2021-11-29 | `EISENBERG HEFLER &amp; LEVY LLP` | [midas](https://ransomwatch.telemetry.ltd/#/profiles?id=midas) |
-| 2021-11-29 | `HAMTACO` | [midas](https://ransomwatch.telemetry.ltd/#/profiles?id=midas) |
