@@ -2,7 +2,6 @@
 # -*- coding: utf-8 -*-
 import os
 import time
-import random
 from datetime import datetime as dt
 
 from sharedutils import gcount
@@ -14,16 +13,14 @@ from sharedutils import postssince
 from sharedutils import parsercount
 from sharedutils import onlinecount
 from sharedutils import postslast24h
-from sharedutils import headlesscount
 from sharedutils import version2count
 from sharedutils import poststhisyear
 from sharedutils import currentmonthstr
 from sharedutils import mounthlypostcount
-from sharedutils import countcaptchahosts
-
+#from sharedutils import headlesscount
+#from sharedutils import countcaptchahosts
 from sharedutils import stdlog, dbglog, errlog, honk
-
-from plotting import barchartgroups, scatterplot, groupheatmap
+from plotting import trend_posts_per_day, plot_posts_by_group, pie_posts_by_group
 
 def suffix(d):
     return 'th' if 11<=d<=13 else {1:'st',2:'nd',3:'rd'}.get(d%10, 'th')
@@ -140,13 +137,13 @@ def statspage():
         f.close()
     writeline(statspage, '# 📊 stats')
     writeline(statspage, '')
-    writeline(statspage, ':warning: _data capturing commenced in october 2021 - historic posts may not have accuratley accompanying timestamps before this period_')
+    writeline(statspage, '_timestamp association commenced october 21"_')
     writeline(statspage, '')
-    writeline(statspage, '![](postsbygroupmonth.png)')
+    writeline(statspage, '![](graphs/postsbyday.png)')
     writeline(statspage, '')
-    writeline(statspage, '![](postsbygroup.png)')
+    writeline(statspage, '![](graphs/postsbygroup.png)')
     writeline(statspage, '')
-    writeline(statspage, '![](3dplot.png)')
+    writeline(statspage, '![](graphs/grouppie.png)')
     stdlog('stats page generated')
 
 def recentposts(top):
@@ -168,6 +165,7 @@ def recentposts(top):
 
 def recentpage():
     '''create a markdown table for the last 100 posts based on the discovered value'''
+    fetching_count = 100
     stdlog('generating recent posts page')
     recentpage = 'docs/recentposts.md'
     # delete contents of file
@@ -175,10 +173,12 @@ def recentpage():
         f.close()
     writeline(recentpage, '# 📰 recent posts')
     writeline(recentpage, '')
+    writeline(recentpage, '_last `' + str(fetching_count) + '` posts_')
+    writeline(recentpage, '')
     writeline(recentpage, '| date | title | group |')
     writeline(recentpage, '|---|---|---|')
     # fetch the 100 most revent posts and add to ascending markdown table
-    for post in recentposts(100):
+    for post in recentposts(fetching_count):
         # show friendly date for discovered
         date = post['discovered'].split(' ')[0]
         # replace markdown tampering characters
@@ -269,8 +269,8 @@ def main():
     # if posts.json has been modified within the last 45 mins, assume new posts discovered and recreate graphs
     if os.path.getmtime('posts.json') > (time.time() - (45 * 60)):
         stdlog('posts.json has been modified within the last 45 mins, assuming new posts discovered and recreating graphs')
-        groupheatmap()
-        barchartgroups()
-        scatterplot()
+        trend_posts_per_day()
+        plot_posts_by_group()
+        pie_posts_by_group()
     else:
         stdlog('posts.json has not been modified within the last 45 mins, assuming no new posts discovered')
