@@ -1,7 +1,22 @@
 # 📰 recent posts
 
+_last `100` posts_
+
 | date | title | group |
 |---|---|---|
+| 2021-12-08 | `roemer-lueftung... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
+| 2021-12-08 | `nowiny.pl ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
+| 2021-12-08 | `atlas.in ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
+| 2021-12-08 | `psmportraits.co... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
+| 2021-12-08 | `murrayscheese.c... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
+| 2021-12-08 | `prairiesedgecas... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
+| 2021-12-08 | `vestas.com ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
+| 2021-12-08 | `ytlcement.com ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
+| 2021-12-08 | `caudillseed.com ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
+| 2021-12-08 | `kerrylogistics.... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
+| 2021-12-08 | `hp.icon-institu... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
+| 2021-12-08 | `fr.shop-orchest... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
+| 2021-12-08 | `comark.ca ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-12-08 | `NewWave Technologies Inc` | [midas](https://ransomwatch.telemetry.ltd/#/profiles?id=midas) |
 | 2021-12-08 | `serta.com - MORE THEN 500Gb DATA LEAKED` | [lv](https://ransomwatch.telemetry.ltd/#/profiles?id=lv) |
 | 2021-12-07 | `Altrux Medical` | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
@@ -89,16 +104,3 @@
 | 2021-11-29 | `RWL GmbH` | [midas](https://ransomwatch.telemetry.ltd/#/profiles?id=midas) |
 | 2021-11-29 | `EISENBERG HEFLER &amp; LEVY LLP` | [midas](https://ransomwatch.telemetry.ltd/#/profiles?id=midas) |
 | 2021-11-29 | `HAMTACO` | [midas](https://ransomwatch.telemetry.ltd/#/profiles?id=midas) |
-| 2021-11-29 | `CABINET CAZANAVE` | [midas](https://ransomwatch.telemetry.ltd/#/profiles?id=midas) |
-| 2021-11-29 | `Raisetech` | [midas](https://ransomwatch.telemetry.ltd/#/profiles?id=midas) |
-| 2021-11-29 | `EPOWER INTERNATIONAL ( SHANGHAl )CO.,LTD.` | [midas](https://ransomwatch.telemetry.ltd/#/profiles?id=midas) |
-| 2021-11-29 | `Dongguan IMR Technology Co., Ltd` | [midas](https://ransomwatch.telemetry.ltd/#/profiles?id=midas) |
-| 2021-11-29 | `Capital Distributors (S) Pte Ltd` | [midas](https://ransomwatch.telemetry.ltd/#/profiles?id=midas) |
-| 2021-11-29 | `KPS GROUP` | [midas](https://ransomwatch.telemetry.ltd/#/profiles?id=midas) |
-| 2021-11-29 | `Shanghai Cyeco Environmental Technology Co., Ltd.` | [midas](https://ransomwatch.telemetry.ltd/#/profiles?id=midas) |
-| 2021-11-29 | `Xiamen Naier Electronics Co., Ltd.` | [midas](https://ransomwatch.telemetry.ltd/#/profiles?id=midas) |
-| 2021-11-29 | `Haiti Meat Processing SA` | [midas](https://ransomwatch.telemetry.ltd/#/profiles?id=midas) |
-| 2021-11-29 | `Consult Three Architects` | [midas](https://ransomwatch.telemetry.ltd/#/profiles?id=midas) |
-| 2021-11-29 | `Trendico GmbH` | [midas](https://ransomwatch.telemetry.ltd/#/profiles?id=midas) |
-| 2021-11-29 | `Pellisard` | [midas](https://ransomwatch.telemetry.ltd/#/profiles?id=midas) |
-| 2021-11-29 | `G.E.W. CORPORATION LIMITED` | [midas](https://ransomwatch.telemetry.ltd/#/profiles?id=midas) |
