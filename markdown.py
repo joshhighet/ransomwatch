@@ -107,7 +107,7 @@ def indexpage():
                 title = host['title'].replace('|', '-')
             else:
                 title = ''
-            line = '| [' + group['name'] + '](http://localhost:3000/#/profiles?id=' + group['name'] + ') | ' + title + ' | ' + statusemoji + ' | ' + lastseen + ' | ' + host['fqdn'] + ' |'
+            line = '| [' + group['name'] + '](https://ransomwatch.telemetry.ltd/#/profiles?id=' + group['name'] + ') | ' + title + ' | ' + statusemoji + ' | ' + lastseen + ' | ' + host['fqdn'] + ' |'
             writeline(index_sheet, line)
 
 def sidebar():

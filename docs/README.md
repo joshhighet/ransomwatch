@@ -1,20 +1,20 @@
 
 ## summary
-_december 7th, 2021_
+_december 8th, 2021_
 
-currently tracking `79` groups across `95` relays & mirrors - _`35` currently online_
+currently tracking `79` groups across `94` relays & mirrors - _`37` currently online_
 
-⏲ there have been `35` posts within the `last 24 hours`
+⏲ there have been `36` posts within the `last 24 hours`
 
-🦈 there have been `68` posts within the `month of december`
+🦈 there have been `73` posts within the `month of december`
 
-🪐 there have been `1910` posts within the `last 90 days`
+🪐 there have been `1915` posts within the `last 90 days`
 
-🏚 there have been `1966` posts within the `year of 2021`
+🏚 there have been `1971` posts within the `year of 2021`
 
-🦕 there have been `2000` posts `since the dawn of ransomwatch`
+🦕 there have been `2005` posts `since the dawn of ransomwatch`
 
-there are `36` custom parsers indexing posts
+there are `38` custom parsers indexing posts
 
 _`20` sites using v2 onion services are no longer indexed - [support.torproject.org](https://support.torproject.org/onionservices/v2-deprecation/)_
 
