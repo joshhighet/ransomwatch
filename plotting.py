@@ -1,118 +1,83 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-
-import plotly.graph_objects as go
+import datetime
+import matplotlib.pyplot as plt
 
 from sharedutils import gcount
 from sharedutils import openjson
 
-def groupheatmap():
+def plot_posts_by_group():
     '''
-    create a heatmap to show the number of posts by group_name within posts.json
+    plot the number of posts by group in a barchart
     '''
-    posts = openjson('posts.json')
-    # count the number of posts by group_name within posts.json
+    posts = openjson('posts.json') 
     group_counts = gcount(posts)
-    # sort the group_counts - descending
-    sorted_group_counts = sorted(group_counts.items(), key=lambda x: x[1], reverse=True)
-    # create a list of groups
-    labels = []
-    for group in sorted_group_counts:
-        labels.append(group[0])
-    # create a list of counts
-    values = []
-    for group in sorted_group_counts:
-        values.append(group[1])
-    # create a list of months
-    months = []
-    for post in posts:
-        if post['discovered'].split(' ')[0] not in months:
-            months.append(post['discovered'].split(' ')[0])
-    # create a list of months with counts
-    month_counts = []
-    for month in months:
-        month_counts.append([month, 0])
-    # count the number of posts by group_name within posts.json
-    for post in posts:
-        for month in month_counts:
-            if post['discovered'].split(' ')[0] == month[0]:
-                month[1] += 1
-    # sort the month_counts - descending
-    sorted_month_counts = sorted(month_counts, key=lambda x: x[1], reverse=True)
-    # create a list of months
-    labels2 = []
-    for month in sorted_month_counts:
-        labels2.append(month[0])
-    # create a list of counts
-    values2 = []
-    for month in sorted_month_counts:
-        values2.append(month[1])
-    fig = go.Figure(data=[go.Heatmap(x=labels, y=labels2, z=values2)])
-    fig.update_layout(title_text='posts by group and month')
-    fig.write_image('docs/postsbygroupmonth.png')
+    group_counts = sorted(group_counts.items(), key=lambda x: x[1], reverse=True)
+    groups = [x[0] for x in group_counts]
+    counts = [x[1] for x in group_counts]
+    plt.bar(groups, counts)
+    plt.title('posts by group')
+    plt.xlabel('group name')
+    plt.xticks(rotation=90)
+    plt.ylabel('# of posts')
+    plt.savefig('docs/graphs/postsbygroup.png',dpi=300, bbox_inches="tight")
+    plt.clf()
+    plt.cla()
 
-def barchartgroups():
+def trend_posts_per_day():
     '''
-    graph the count of posts by each tracked group
+    plot the trend of the number of posts per day
     '''
     posts = openjson('posts.json')
-    # count the number of posts by group_name within posts.json
-    day_counts = gcount(posts)
-    # sort the day_counts - descending
-    sorted_day_counts = sorted(day_counts.items(), key=lambda x: x[1], reverse=True)
-    # create a list of days
-    labels = []
-    for day in sorted_day_counts:
-        labels.append(day[0])
-    # create a list of counts
-    values = []
-    for day in sorted_day_counts:
-        values.append(day[1])
-    fig = go.Figure(data=[go.Bar(x=labels, y=values)])
-    fig.update_layout(title_text='posts by group')
-    fig.write_image('docs/postsbygroup.png')
+    dates = []
+    for post in posts:
+        dates.append(post['discovered'][0:10])
+    # list of duplicate dates should be marged to show a count of posts per day
+    # i.e ['2021-12-07', '2021-12-07', '2021-12-07', '2021-12-07', '2021-12-07']
+    # becomes [{'2021-12-07',4}] etc
+    datecount = {}
+    for date in dates:
+        if date in datecount:
+            datecount[date] += 1
+        else:
+            datecount[date] = 1
+    # remove '2021-09-09' - generic date of import along w/ anything before 2021-08
+    datecount.pop('2021-09-09', None)
+    datecount = {k: v for k, v in datecount.items() if k >= '2021-08-01'}
+    datecount = list(datecount.items())
+    datecount.sort(key=lambda x: x[0])
+    dates = [datetime.datetime.strptime(x[0], '%Y-%m-%d').date() for x in datecount]
+    counts = [x[1] for x in datecount]
+    plt.plot(dates, counts)
+    plt.title('posts per day')
+    plt.xlabel('date')
+    plt.xticks(rotation=90)
+    plt.ylabel('# of posts')
+    plt.savefig('docs/graphs/postsbyday.png',dpi=300, bbox_inches="tight")
+    plt.clf()
+    plt.cla()
 
-def scatterplot():
+def pie_posts_by_group():
     '''
-    create a 3d scatter plot showing the number of posts by group_name within posts.json
+    plot the number of posts by group in a pie
     '''
     posts = openjson('posts.json')
-    # count the number of posts by group_name within posts.json
     group_counts = gcount(posts)
-    # sort the group_counts - descending
-    sorted_group_counts = sorted(group_counts.items(), key=lambda x: x[1], reverse=True)
-    # create a list of groups
-    labels = []
-    for group in sorted_group_counts:
-        labels.append(group[0])
-    # create a list of counts
-    values = []
-    for group in sorted_group_counts:
-        values.append(group[1])
-    # create a list of months
-    months = []
-    for post in posts:
-        if post['discovered'].split(' ')[0] not in months:
-            months.append(post['discovered'].split(' ')[0])
-    # create a list of months with counts
-    month_counts = []
-    for month in months:
-        month_counts.append([month, 0])
-    # count the number of posts by group_name within posts.json
-    for post in posts:
-        for month in month_counts:
-            if post['discovered'].split(' ')[0] == month[0]:
-                month[1] += 1
-    # sort the month_counts - descending
-    sorted_month_counts = sorted(month_counts, key=lambda x: x[1], reverse=True)
-    # create a list of months
-    labels2 = []
-    for month in sorted_month_counts:
-        labels2.append(month[0])
-    # create a list of counts
-    values2 = []
-    for month in sorted_month_counts:
-        values2.append(month[1])
-    fig = go.Figure(data=[go.Scatter3d(x=labels, y=labels2, z=values2)])
-    fig.update_layout(title_text='posts by group and month')
-    fig.write_image('docs/3dplot.png')
+    group_counts = sorted(group_counts.items(), key=lambda x: x[1], reverse=True)
+    groups = [x[0] for x in group_counts]
+    counts = [x[1] for x in group_counts]
+    # ignoring the top 10 groups, merge the rest into "other"
+    topgroups = groups[:10]
+    topcounts = counts[:10]
+    othercounts = counts[10:]
+    othercount = sum(othercounts)
+    topgroups.append('other')
+    topcounts.append(othercount)
+    colours = ['#ffc09f','#ffee93','#fcf5c7','#a0ced9','#adf7b6','#e8dff5','#fce1e4','#fcf4dd','#ddedea','#daeaf6','#79addc','#ffc09f','#ffee93','#fcf5c7','#adf7b6']
+    plt.pie(topcounts, labels=topgroups, autopct='%1.1f%%', startangle=140, labeldistance=1.1, pctdistance=0.8, colors=colours)
+    plt.legend(loc='lower center', bbox_to_anchor=(0.5, -0.2), ncol=3)
+    plt.text(0.5, 0.5, 'total : ' + str(sum(counts)), horizontalalignment='center', verticalalignment='center', transform=plt.gcf().transFigure)
+    plt.title('posts by group')
+    plt.savefig('docs/graphs/grouppie.png',dpi=300, bbox_inches="tight")
+    plt.clf()
+    plt.cla()
