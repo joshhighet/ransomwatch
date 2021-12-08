@@ -6,7 +6,7 @@
 </h1>
 </div>
 
-an onionsite scraping framework and platform with the intent of tracking ransomware groups
+an onionsite scraping framework with the intent of tracking ransomware groups
 
 running within github actions, groups are visited & posts are indexed within this repository at a regular cadence
 
