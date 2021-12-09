@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2021-12-09 | `LAVI` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2021-12-09 | `SLIMSTOCK.COM FILES  FILES PART5 - 10.50.10.131, 10.50.10.196, 10.50.10.227, 10.50.10.229 ` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2021-12-09 | `DACOLL.CO.UK FILES  FILES PART10 - 172.21.240.103/user3/Dacoll Electrical Ltd PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2021-12-09 | `QUANTUMGROUP.COM FILES  FILES PART4 - nolanfinancial, opalwealthadvisors, shutterfly, soni` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2021-11-29 | `Epple Druckfarben` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2021-11-29 | `San Carlo` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2021-11-29 | `dlb.it ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2021-11-29 | `CurIT` | [midas](https://ransomwatch.telemetry.ltd/#/profiles?id=midas) |
