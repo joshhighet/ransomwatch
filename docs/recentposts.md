@@ -4,6 +4,9 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2021-12-09 | `PRIDE Community Services` | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
+| 2021-12-09 | `Zepter` | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
+| 2021-12-09 | `COMUNE DI TORINO` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2021-12-09 | `Digital Workplace Services &amp; Solutions` | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
 | 2021-12-09 | `The Jewelry Exchange is the Nations #1 Diamond Store.` | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
 | 2021-12-09 | `LAVI` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
@@ -101,6 +104,3 @@ _last `100` posts_
 | 2021-11-30 | `Koltepatil    ` | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
 | 2021-11-29 | `SIRCHIE` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2021-11-29 | `promo.parker.co...` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2021-11-29 | `totalfire.biz ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2021-11-29 | `callay.com.tr ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2021-11-29 | `Epple Druckfarben` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
