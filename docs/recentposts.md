@@ -4,6 +4,22 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2021-12-09 | `Jeffmoss` | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
+| 2021-12-09 | `Ktmtriallaw` | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
+| 2021-12-09 | `se.com ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
+| 2021-12-09 | `volkswind.de ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
+| 2021-12-09 | `ducab.com ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
+| 2021-12-09 | `continuumenergy... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
+| 2021-12-09 | `mswood.ba ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
+| 2021-12-09 | `bsm.upf.edu ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
+| 2021-12-09 | `kssenterprises.... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
+| 2021-12-09 | `clubpilates.com ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
+| 2021-12-09 | `northstarice.co... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
+| 2021-12-09 | `inperium.org ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
+| 2021-12-09 | `apexbrasil.com.... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
+| 2021-12-09 | `proximitysystem... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
+| 2021-12-09 | `g1group.co.uk ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
+| 2021-12-09 | `pacifichills.co... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-12-09 | `Full Data Leak Linical` | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
 | 2021-12-09 | `benlineagencies.com` | [lv](https://ransomwatch.telemetry.ltd/#/profiles?id=lv) |
 | 2021-12-09 | `P&R ENTERPRISES    ` | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
@@ -88,19 +104,3 @@ _last `100` posts_
 | 2021-12-05 | `Spencer Gifts LLC` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2021-12-04 | `Seldin` | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2021-12-04 | `NLB Corporation` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
-| 2021-12-04 | `Update: Linicals Data` | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
-| 2021-12-03 | `Bohlin Cywinski Jackson` | [suncrypt](https://ransomwatch.telemetry.ltd/#/profiles?id=suncrypt) |
-| 2021-12-02 | `Lootah Group` | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
-| 2021-12-02 | `CareFirst CHPDC` | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
-| 2021-12-02 | `Groupe LDLC is going to be Leaked` | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
-| 2021-12-02 | `travel-general.... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2021-12-02 | `mainstreamdata.... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2021-12-01 | `KISTERS` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
-| 2021-12-01 | `summit-christia... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2021-12-01 | `FRONTIER SOFTWARE` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
-| 2021-11-30 | `kenwal.com ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2021-11-30 | `Volvo Car Corporation` | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
-| 2021-11-30 | `QRS Healthcare Solutions` | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
-| 2021-11-30 | `UABL S.A.` | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
-| 2021-11-30 | `Read more` | [suncrypt](https://ransomwatch.telemetry.ltd/#/profiles?id=suncrypt) |
-| 2021-11-30 | `Burda Sanitärtechnik` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
