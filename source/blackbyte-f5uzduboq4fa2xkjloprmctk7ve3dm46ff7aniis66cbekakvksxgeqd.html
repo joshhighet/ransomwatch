@@ -15,13 +15,13 @@
 
 
     <link href="https://fonts.googleapis.com/css?family=Playfair+Display:700,900" rel="stylesheet">
-    <link href="/blog.css?v=1639066377" rel="stylesheet">
+    <link href="/blog.css?v=1639069507" rel="stylesheet">
     <script src="/assets/js/jquery-2.1.3.min.js"></script>
 
     <script src="/assets/js/vendor/popper.min.js"></script>
     <script src="/dist/js/bootstrap.min.js"></script>
     <script src="/assets/js/vendor/holder.min.js"></script>
-    <script src="/script.js?v=1639066377"></script>
+    <script src="/script.js?v=1639069507"></script>
     <style>
         .d_buttons{
             display: none;
@@ -139,6 +139,474 @@
 
         <script>
 
+            var proof_img_block37 = '<img src="" alt="" class="proof">';
+
+
+            function ShowProof37(){
+                if(showed37 === 0){
+                    showed37 = 1;
+                    $("#target_37 .proof_block").html(proof_img_block37).slideDown(400);
+                }else{
+                    showed37 = 0;
+                    $("#target_37 .proof_block").html('').slideUp(400);
+                }
+
+            }
+            function ShowDButtons37(){
+                if(showed_d_buttons37 === 0){
+                    showed_d_buttons37 = 1;
+                    $("#target_37 .d_buttons").slideDown(400);
+                }else{
+                    showed_d_buttons37 = 0;
+                    $("#target_37 .d_buttons").slideUp(400);
+                }
+
+            }
+
+
+            var showed37 = 0;
+            var showed_d_buttons37 = 0;
+            var HAPPYSEC37 = 1785293;
+            var t_sec37 = HAPPYSEC37;
+
+            var time37;
+            var intervalId37=0;
+
+
+            $(document).ready(function () {
+
+                intervalId37 = setInterval(function (){
+                    timerDecrement37();
+                }, 1000);
+            });
+
+
+            function timerDecrement37() {
+                time37 = $('#target_37 span.timer');
+
+                if(t_sec37 < 1){
+                    t_sec37 = 0;
+                    newTime = t_sec37 ;
+                }else{
+                    newTime = t_sec37 - 1;
+                }
+
+
+                t_sec37 = newTime;
+
+                var t_min = t_sec37 / 60;
+                var t_hour = t_min / 60;
+                var t_day =
+                    '<b>' + Math.floor(t_hour / 24) + '</b> days ' +
+                    '<b>' + Math.floor(t_hour % 24) +'</b>:' +
+                    '<b>' + Math.floor(t_min % 60) +'</b>:' +
+                    '<b>' + Math.floor(t_sec37 % 60)+ '</b> ';
+
+                time37.html(t_day);
+
+
+
+                if(newTime === 0 && HAPPYSEC37 > 0 || newTime < 1){
+
+                    time37.html('');
+                    $("#target_37 .lock").attr("src","assets/img/lockopen.png");
+                    $("#target_37 .clock").attr("src","assets/img/clockred.png").addClass("clockred");
+                    $("#target_37 .btn2").addClass("redbg");
+                    $("#target_37 .arrow-8").addClass("r8");
+                    $("#target_37 .perc").html("100%");
+
+                    clearInterval(intervalId37);
+                    GetDownloadLink(37,$("#target_37 .redbg"));
+                }
+
+
+            }
+        </script>
+
+        <div class="row jumbotron p-3  text-white rounded bg-d1" id="target_37">
+            <div class="col-md-6 px-0">
+                <h1 class="display-4 font-italic border-bottom">Quanticate    </h1>
+            </div>
+
+            <div class="col-md-6 px-0">
+                                    <img src="assets/img/lock.png" alt="" class="lock">
+                
+                
+            </div>
+            <div class="col-md-12 px-0">
+
+                <div class="proof_block text-center"></div>
+
+                <p class="lead my-3 pb-3" >QUANTICATE LIMITED is located in HITCHIN, United Kingdom and is part of the Other Professional, Scientific, and Technical Services Industry. QUANTICATE LIMITED has 220 employees at this location and generates $20.44 million in sales (USD). (Employees figure is estimated). There are 7 companies in the QUANTICATE LIMITED corporate family.                </p>
+                <div class="dropdown-divider divid-c"></div>
+            </div>
+
+
+            <div class="col-md-12 row px-0  mt-4 mb-4 ml-0">
+                <div class="col-md-3 text-center ">
+                    <p class="lead mb-0 squ">
+                    <span class="text-white font-weight-bold ">
+                        <i class="fa fa-users"></i>
+                    </span>
+                        <br>
+                        <span class="">280</span>
+                    </p>
+                </div>
+                <div class="col-md-3 text-center" onclick="GO('http://quanticate.com')">
+                    <p class="lead mb-0 squ"><span class="text-white font-weight-bold "><i class="fa fa-globe"></i></span><br>
+                        <a href="javascript:" class="text-white text-decoration-none" >Web Site</a>
+                    </p>
+                </div>
+
+                <div class="col-md-3 text-center"><p class="lead mb-0 squ "><span class="text-white font-weight-bold "><i class="fa fa-dollar"></i></span> <br>$ 20.44 Million </p></div>
+                <div class="col-md-3 text-center"><p class="lead mb-0 squ"><span class="text-white font-weight-bold"><i class="fa fa-phone"></i></span><br>+44 1462 440084</p></div>
+
+            </div>
+
+
+
+
+            <div class="col-md-12 row px-0 mt-5">
+                <div class="col-md-12 text-center"><a href="mailto:BlackByteSupp0rt@onionmail.org" class="text-white text-decoration-none">BlackByteSupp0rt@onionmail.org</a></div>
+                <div class="col-md-6">
+                    <p class="lead mb-0 text-white font-weight-bold" style="margin-top: 13px">
+                        <span class="timer"></span> 
+                                                    <img src="assets/img/clock.png" alt="" class="clock">
+                                            </p>
+                </div>
+                <div class="col-md-6 text-right pr-0"><p class="lead mb-0">
+
+
+
+<!--                        <span class="perc">--><!--%</span>-->
+
+
+                    <div class="arrow-8"></div>
+
+                                            <a target="_blank" href="https://anonfiles.com/b017Tdpdvd/Scans_rar" class="btn btn2 legitRipple   ">Download Free </a>
+                        
+
+
+                    </p></div>
+
+                    
+            </div>
+        </div>
+        
+        <script>
+
+            var proof_img_block36 = '<img src="" alt="" class="proof">';
+
+
+            function ShowProof36(){
+                if(showed36 === 0){
+                    showed36 = 1;
+                    $("#target_36 .proof_block").html(proof_img_block36).slideDown(400);
+                }else{
+                    showed36 = 0;
+                    $("#target_36 .proof_block").html('').slideUp(400);
+                }
+
+            }
+            function ShowDButtons36(){
+                if(showed_d_buttons36 === 0){
+                    showed_d_buttons36 = 1;
+                    $("#target_36 .d_buttons").slideDown(400);
+                }else{
+                    showed_d_buttons36 = 0;
+                    $("#target_36 .d_buttons").slideUp(400);
+                }
+
+            }
+
+
+            var showed36 = 0;
+            var showed_d_buttons36 = 0;
+            var HAPPYSEC36 = 1785293;
+            var t_sec36 = HAPPYSEC36;
+
+            var time36;
+            var intervalId36=0;
+
+
+            $(document).ready(function () {
+
+                intervalId36 = setInterval(function (){
+                    timerDecrement36();
+                }, 1000);
+            });
+
+
+            function timerDecrement36() {
+                time36 = $('#target_36 span.timer');
+
+                if(t_sec36 < 1){
+                    t_sec36 = 0;
+                    newTime = t_sec36 ;
+                }else{
+                    newTime = t_sec36 - 1;
+                }
+
+
+                t_sec36 = newTime;
+
+                var t_min = t_sec36 / 60;
+                var t_hour = t_min / 60;
+                var t_day =
+                    '<b>' + Math.floor(t_hour / 24) + '</b> days ' +
+                    '<b>' + Math.floor(t_hour % 24) +'</b>:' +
+                    '<b>' + Math.floor(t_min % 60) +'</b>:' +
+                    '<b>' + Math.floor(t_sec36 % 60)+ '</b> ';
+
+                time36.html(t_day);
+
+
+
+                if(newTime === 0 && HAPPYSEC36 > 0 || newTime < 1){
+
+                    time36.html('');
+                    $("#target_36 .lock").attr("src","assets/img/lockopen.png");
+                    $("#target_36 .clock").attr("src","assets/img/clockred.png").addClass("clockred");
+                    $("#target_36 .btn2").addClass("redbg");
+                    $("#target_36 .arrow-8").addClass("r8");
+                    $("#target_36 .perc").html("100%");
+
+                    clearInterval(intervalId36);
+                    GetDownloadLink(36,$("#target_36 .redbg"));
+                }
+
+
+            }
+        </script>
+
+        <div class="row jumbotron p-3  text-white rounded bg-d1" id="target_36">
+            <div class="col-md-6 px-0">
+                <h1 class="display-4 font-italic border-bottom">Unique Home Solutions    </h1>
+            </div>
+
+            <div class="col-md-6 px-0">
+                                    <img src="assets/img/lock.png" alt="" class="lock">
+                
+                
+            </div>
+            <div class="col-md-12 px-0">
+
+                <div class="proof_block text-center"></div>
+
+                <p class="lead my-3 pb-3" >Unique Home Solutions, Inc. is located in Columbus, OH, United States and is part of the Building Material and Supplies Dealers Industry. Unique Home Solutions, Inc. has 12 employees at this location. (Employees figure is modelled). There are 3 companies in the Unique Home Solutions, Inc. corporate family.                 </p>
+                <div class="dropdown-divider divid-c"></div>
+            </div>
+
+
+            <div class="col-md-12 row px-0  mt-4 mb-4 ml-0">
+                <div class="col-md-3 text-center ">
+                    <p class="lead mb-0 squ">
+                    <span class="text-white font-weight-bold ">
+                        <i class="fa fa-users"></i>
+                    </span>
+                        <br>
+                        <span class="">296</span>
+                    </p>
+                </div>
+                <div class="col-md-3 text-center" onclick="GO('http://www.uniquehomesolutions.org')">
+                    <p class="lead mb-0 squ"><span class="text-white font-weight-bold "><i class="fa fa-globe"></i></span><br>
+                        <a href="javascript:" class="text-white text-decoration-none" >Web Site</a>
+                    </p>
+                </div>
+
+                <div class="col-md-3 text-center"><p class="lead mb-0 squ "><span class="text-white font-weight-bold "><i class="fa fa-dollar"></i></span> <br>$ 28 Million </p></div>
+                <div class="col-md-3 text-center"><p class="lead mb-0 squ"><span class="text-white font-weight-bold"><i class="fa fa-phone"></i></span><br>(317) 337-9300</p></div>
+
+            </div>
+
+
+
+
+            <div class="col-md-12 row px-0 mt-5">
+                <div class="col-md-12 text-center"><a href="mailto:BlackByteSupp0rt@onionmail.org" class="text-white text-decoration-none">BlackByteSupp0rt@onionmail.org</a></div>
+                <div class="col-md-6">
+                    <p class="lead mb-0 text-white font-weight-bold" style="margin-top: 13px">
+                        <span class="timer"></span> 
+                                                    <img src="assets/img/clock.png" alt="" class="clock">
+                                            </p>
+                </div>
+                <div class="col-md-6 text-right pr-0"><p class="lead mb-0">
+
+
+
+<!--                        <span class="perc">--><!--%</span>-->
+
+
+                    <div class="arrow-8"></div>
+
+                                            <a target="_blank" href="https://anonfiles.com/dbg6S9p2v5/uniquehomesolutions.org_rar" class="btn btn2 legitRipple   ">Download Free </a>
+                        
+
+
+                    </p></div>
+
+                    
+            </div>
+        </div>
+        
+        <script>
+
+            var proof_img_block35 = '<img src="" alt="" class="proof">';
+
+
+            function ShowProof35(){
+                if(showed35 === 0){
+                    showed35 = 1;
+                    $("#target_35 .proof_block").html(proof_img_block35).slideDown(400);
+                }else{
+                    showed35 = 0;
+                    $("#target_35 .proof_block").html('').slideUp(400);
+                }
+
+            }
+            function ShowDButtons35(){
+                if(showed_d_buttons35 === 0){
+                    showed_d_buttons35 = 1;
+                    $("#target_35 .d_buttons").slideDown(400);
+                }else{
+                    showed_d_buttons35 = 0;
+                    $("#target_35 .d_buttons").slideUp(400);
+                }
+
+            }
+
+
+            var showed35 = 0;
+            var showed_d_buttons35 = 0;
+            var HAPPYSEC35 = 1785293;
+            var t_sec35 = HAPPYSEC35;
+
+            var time35;
+            var intervalId35=0;
+
+
+            $(document).ready(function () {
+
+                intervalId35 = setInterval(function (){
+                    timerDecrement35();
+                }, 1000);
+            });
+
+
+            function timerDecrement35() {
+                time35 = $('#target_35 span.timer');
+
+                if(t_sec35 < 1){
+                    t_sec35 = 0;
+                    newTime = t_sec35 ;
+                }else{
+                    newTime = t_sec35 - 1;
+                }
+
+
+                t_sec35 = newTime;
+
+                var t_min = t_sec35 / 60;
+                var t_hour = t_min / 60;
+                var t_day =
+                    '<b>' + Math.floor(t_hour / 24) + '</b> days ' +
+                    '<b>' + Math.floor(t_hour % 24) +'</b>:' +
+                    '<b>' + Math.floor(t_min % 60) +'</b>:' +
+                    '<b>' + Math.floor(t_sec35 % 60)+ '</b> ';
+
+                time35.html(t_day);
+
+
+
+                if(newTime === 0 && HAPPYSEC35 > 0 || newTime < 1){
+
+                    time35.html('');
+                    $("#target_35 .lock").attr("src","assets/img/lockopen.png");
+                    $("#target_35 .clock").attr("src","assets/img/clockred.png").addClass("clockred");
+                    $("#target_35 .btn2").addClass("redbg");
+                    $("#target_35 .arrow-8").addClass("r8");
+                    $("#target_35 .perc").html("100%");
+
+                    clearInterval(intervalId35);
+                    GetDownloadLink(35,$("#target_35 .redbg"));
+                }
+
+
+            }
+        </script>
+
+        <div class="row jumbotron p-3  text-white rounded bg-d1" id="target_35">
+            <div class="col-md-6 px-0">
+                <h1 class="display-4 font-italic border-bottom">P&R ENTERPRISES    </h1>
+            </div>
+
+            <div class="col-md-6 px-0">
+                                    <img src="assets/img/lock.png" alt="" class="lock">
+                
+                
+            </div>
+            <div class="col-md-12 px-0">
+
+                <div class="proof_block text-center"></div>
+
+                <p class="lead my-3 pb-3" >P&R Enterprises, Inc. was founded in 1968 and is headquartered just outside Washington, D.C. in Falls Church, Virginia. P&R is a Mid-Atlantic based building services contractor. In addition, P&R continues to be a pioneer in the implementation of Green Certified Cleaning processes and LEED standards.                </p>
+                <div class="dropdown-divider divid-c"></div>
+            </div>
+
+
+            <div class="col-md-12 row px-0  mt-4 mb-4 ml-0">
+                <div class="col-md-3 text-center ">
+                    <p class="lead mb-0 squ">
+                    <span class="text-white font-weight-bold ">
+                        <i class="fa fa-users"></i>
+                    </span>
+                        <br>
+                        <span class="">52</span>
+                    </p>
+                </div>
+                <div class="col-md-3 text-center" onclick="GO('http://www.p-and-r.com')">
+                    <p class="lead mb-0 squ"><span class="text-white font-weight-bold "><i class="fa fa-globe"></i></span><br>
+                        <a href="javascript:" class="text-white text-decoration-none" >Web Site</a>
+                    </p>
+                </div>
+
+                <div class="col-md-3 text-center"><p class="lead mb-0 squ "><span class="text-white font-weight-bold "><i class="fa fa-dollar"></i></span> <br>$ 19 Million </p></div>
+                <div class="col-md-3 text-center"><p class="lead mb-0 squ"><span class="text-white font-weight-bold"><i class="fa fa-phone"></i></span><br>(703) 931-1000</p></div>
+
+            </div>
+
+
+
+
+            <div class="col-md-12 row px-0 mt-5">
+                <div class="col-md-12 text-center"><a href="mailto:BlackByteSupp0rt@onionmail.org" class="text-white text-decoration-none">BlackByteSupp0rt@onionmail.org</a></div>
+                <div class="col-md-6">
+                    <p class="lead mb-0 text-white font-weight-bold" style="margin-top: 13px">
+                        <span class="timer"></span> 
+                                                    <img src="assets/img/clock.png" alt="" class="clock">
+                                            </p>
+                </div>
+                <div class="col-md-6 text-right pr-0"><p class="lead mb-0">
+
+
+
+<!--                        <span class="perc">--><!--%</span>-->
+
+
+                    <div class="arrow-8"></div>
+
+                                            <a target="_blank" href="https://anonfiles.com/N2e8S5p0v6/Karina_rar" class="btn btn2 legitRipple   ">Download Free </a>
+                        
+
+
+                    </p></div>
+
+                    
+            </div>
+        </div>
+        
+        <script>
+
             var proof_img_block34 = '<img src="" alt="" class="proof">';
 
 
@@ -166,7 +634,7 @@
 
             var showed34 = 0;
             var showed_d_buttons34 = 0;
-            var HAPPYSEC34 = 924423;
+            var HAPPYSEC34 = 921293;
             var t_sec34 = HAPPYSEC34;
 
             var time34;
@@ -322,7 +790,7 @@
 
             var showed33 = 0;
             var showed_d_buttons33 = 0;
-            var HAPPYSEC33 = -630777;
+            var HAPPYSEC33 = -633907;
             var t_sec33 = HAPPYSEC33;
 
             var time33;
@@ -520,7 +988,7 @@
 
             var showed32 = 0;
             var showed_d_buttons32 = 0;
-            var HAPPYSEC32 = 578823;
+            var HAPPYSEC32 = 575693;
             var t_sec32 = HAPPYSEC32;
 
             var time32;
@@ -676,7 +1144,7 @@
 
             var showed31 = 0;
             var showed_d_buttons31 = 0;
-            var HAPPYSEC31 = 578823;
+            var HAPPYSEC31 = 575693;
             var t_sec31 = HAPPYSEC31;
 
             var time31;
@@ -832,7 +1300,7 @@
 
             var showed30 = 0;
             var showed_d_buttons30 = 0;
-            var HAPPYSEC30 = 578823;
+            var HAPPYSEC30 = 575693;
             var t_sec30 = HAPPYSEC30;
 
             var time30;
@@ -988,7 +1456,7 @@
 
             var showed29 = 0;
             var showed_d_buttons29 = 0;
-            var HAPPYSEC29 = 60423;
+            var HAPPYSEC29 = 57293;
             var t_sec29 = HAPPYSEC29;
 
             var time29;
@@ -1144,7 +1612,7 @@
 
             var showed28 = 0;
             var showed_d_buttons28 = 0;
-            var HAPPYSEC28 = 60423;
+            var HAPPYSEC28 = 57293;
             var t_sec28 = HAPPYSEC28;
 
             var time28;
@@ -1300,7 +1768,7 @@
 
             var showed27 = 0;
             var showed_d_buttons27 = 0;
-            var HAPPYSEC27 = -371577;
+            var HAPPYSEC27 = -374707;
             var t_sec27 = HAPPYSEC27;
 
             var time27;
@@ -1456,7 +1924,7 @@
 
             var showed26 = 0;
             var showed_d_buttons26 = 0;
-            var HAPPYSEC26 = -2963577;
+            var HAPPYSEC26 = -2966707;
             var t_sec26 = HAPPYSEC26;
 
             var time26;
@@ -1664,7 +2132,7 @@
 
             var showed24 = 0;
             var showed_d_buttons24 = 0;
-            var HAPPYSEC24 = -371577;
+            var HAPPYSEC24 = -374707;
             var t_sec24 = HAPPYSEC24;
 
             var time24;
@@ -1842,7 +2310,7 @@
 
             var showed21 = 0;
             var showed_d_buttons21 = 0;
-            var HAPPYSEC21 = -889977;
+            var HAPPYSEC21 = -893107;
             var t_sec21 = HAPPYSEC21;
 
             var time21;
@@ -2070,7 +2538,7 @@
 
             var showed21 = 0;
             var showed_d_buttons21 = 0;
-            var HAPPYSEC21 = -889977;
+            var HAPPYSEC21 = -893107;
             var t_sec21 = HAPPYSEC21;
 
             var time21;

@@ -4,6 +4,10 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2021-12-09 | `benlineagencies.com` | [lv](https://ransomwatch.telemetry.ltd/#/profiles?id=lv) |
+| 2021-12-09 | `P&R ENTERPRISES    ` | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
+| 2021-12-09 | `Unique Home Solutions    ` | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
+| 2021-12-09 | `Quanticate    ` | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
 | 2021-12-09 | `PRIDE Community Services` | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
 | 2021-12-09 | `Zepter` | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
 | 2021-12-09 | `COMUNE DI TORINO` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
@@ -100,7 +104,3 @@ _last `100` posts_
 | 2021-11-30 | `Read more` | [suncrypt](https://ransomwatch.telemetry.ltd/#/profiles?id=suncrypt) |
 | 2021-11-30 | `Burda Sanitärtechnik` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2021-11-30 | `Karges-Faulconbridge, Inc.    ` | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
-| 2021-11-30 | `MOTOR VEHICLE ACCIDENT FUND PENSION FUND    ` | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
-| 2021-11-30 | `Koltepatil    ` | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
-| 2021-11-29 | `SIRCHIE` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
-| 2021-11-29 | `promo.parker.co...` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
