@@ -15,13 +15,13 @@
 
 
     <link href="https://fonts.googleapis.com/css?family=Playfair+Display:700,900" rel="stylesheet">
-    <link href="/blog.css?v=1639070171" rel="stylesheet">
+    <link href="/blog.css?v=1639072589" rel="stylesheet">
     <script src="/assets/js/jquery-2.1.3.min.js"></script>
 
     <script src="/assets/js/vendor/popper.min.js"></script>
     <script src="/dist/js/bootstrap.min.js"></script>
     <script src="/assets/js/vendor/holder.min.js"></script>
-    <script src="/script.js?v=1639070171"></script>
+    <script src="/script.js?v=1639072589"></script>
     <style>
         .d_buttons{
             display: none;
@@ -166,7 +166,7 @@
 
             var showed37 = 0;
             var showed_d_buttons37 = 0;
-            var HAPPYSEC37 = 1784629;
+            var HAPPYSEC37 = 1782211;
             var t_sec37 = HAPPYSEC37;
 
             var time37;
@@ -322,7 +322,7 @@
 
             var showed36 = 0;
             var showed_d_buttons36 = 0;
-            var HAPPYSEC36 = 1784629;
+            var HAPPYSEC36 = 1782211;
             var t_sec36 = HAPPYSEC36;
 
             var time36;
@@ -478,7 +478,7 @@
 
             var showed35 = 0;
             var showed_d_buttons35 = 0;
-            var HAPPYSEC35 = 1784629;
+            var HAPPYSEC35 = 1782211;
             var t_sec35 = HAPPYSEC35;
 
             var time35;
@@ -607,162 +607,6 @@
         
         <script>
 
-            var proof_img_block34 = '<img src="" alt="" class="proof">';
-
-
-            function ShowProof34(){
-                if(showed34 === 0){
-                    showed34 = 1;
-                    $("#target_34 .proof_block").html(proof_img_block34).slideDown(400);
-                }else{
-                    showed34 = 0;
-                    $("#target_34 .proof_block").html('').slideUp(400);
-                }
-
-            }
-            function ShowDButtons34(){
-                if(showed_d_buttons34 === 0){
-                    showed_d_buttons34 = 1;
-                    $("#target_34 .d_buttons").slideDown(400);
-                }else{
-                    showed_d_buttons34 = 0;
-                    $("#target_34 .d_buttons").slideUp(400);
-                }
-
-            }
-
-
-            var showed34 = 0;
-            var showed_d_buttons34 = 0;
-            var HAPPYSEC34 = 920629;
-            var t_sec34 = HAPPYSEC34;
-
-            var time34;
-            var intervalId34=0;
-
-
-            $(document).ready(function () {
-
-                intervalId34 = setInterval(function (){
-                    timerDecrement34();
-                }, 1000);
-            });
-
-
-            function timerDecrement34() {
-                time34 = $('#target_34 span.timer');
-
-                if(t_sec34 < 1){
-                    t_sec34 = 0;
-                    newTime = t_sec34 ;
-                }else{
-                    newTime = t_sec34 - 1;
-                }
-
-
-                t_sec34 = newTime;
-
-                var t_min = t_sec34 / 60;
-                var t_hour = t_min / 60;
-                var t_day =
-                    '<b>' + Math.floor(t_hour / 24) + '</b> days ' +
-                    '<b>' + Math.floor(t_hour % 24) +'</b>:' +
-                    '<b>' + Math.floor(t_min % 60) +'</b>:' +
-                    '<b>' + Math.floor(t_sec34 % 60)+ '</b> ';
-
-                time34.html(t_day);
-
-
-
-                if(newTime === 0 && HAPPYSEC34 > 0 || newTime < 1){
-
-                    time34.html('');
-                    $("#target_34 .lock").attr("src","assets/img/lockopen.png");
-                    $("#target_34 .clock").attr("src","assets/img/clockred.png").addClass("clockred");
-                    $("#target_34 .btn2").addClass("redbg");
-                    $("#target_34 .arrow-8").addClass("r8");
-                    $("#target_34 .perc").html("100%");
-
-                    clearInterval(intervalId34);
-                    GetDownloadLink(34,$("#target_34 .redbg"));
-                }
-
-
-            }
-        </script>
-
-        <div class="row jumbotron p-3  text-white rounded bg-d1" id="target_34">
-            <div class="col-md-6 px-0">
-                <h1 class="display-4 font-italic border-bottom">Bemis Associates    </h1>
-            </div>
-
-            <div class="col-md-6 px-0">
-                                    <img src="assets/img/lock.png" alt="" class="lock">
-                
-                
-            </div>
-            <div class="col-md-12 px-0">
-
-                <div class="proof_block text-center"></div>
-
-                <p class="lead my-3 pb-3" >Bemis Associates, Inc. is located in Shirley, MA, United States and is part of the Paint, Coating, and Adhesive Manufacturing Industry. Bemis Associates, Inc. has 334 total employees across all of its locations and generates $98.27 million in sales (USD). (Sales figure is modelled). There are 2 companies in the Bemis Associates, Inc. corporate family.                </p>
-                <div class="dropdown-divider divid-c"></div>
-            </div>
-
-
-            <div class="col-md-12 row px-0  mt-4 mb-4 ml-0">
-                <div class="col-md-3 text-center ">
-                    <p class="lead mb-0 squ">
-                    <span class="text-white font-weight-bold ">
-                        <i class="fa fa-users"></i>
-                    </span>
-                        <br>
-                        <span class="">334</span>
-                    </p>
-                </div>
-                <div class="col-md-3 text-center" onclick="GO('http://www.bemisworldwide.com')">
-                    <p class="lead mb-0 squ"><span class="text-white font-weight-bold "><i class="fa fa-globe"></i></span><br>
-                        <a href="javascript:" class="text-white text-decoration-none" >Web Site</a>
-                    </p>
-                </div>
-
-                <div class="col-md-3 text-center"><p class="lead mb-0 squ "><span class="text-white font-weight-bold "><i class="fa fa-dollar"></i></span> <br>$ 98.27 Million </p></div>
-                <div class="col-md-3 text-center"><p class="lead mb-0 squ"><span class="text-white font-weight-bold"><i class="fa fa-phone"></i></span><br>(978) 425-6500</p></div>
-
-            </div>
-
-
-
-
-            <div class="col-md-12 row px-0 mt-5">
-                <div class="col-md-12 text-center"><a href="mailto:BlackByteSupp0rt@onionmail.org" class="text-white text-decoration-none">BlackByteSupp0rt@onionmail.org</a></div>
-                <div class="col-md-6">
-                    <p class="lead mb-0 text-white font-weight-bold" style="margin-top: 13px">
-                        <span class="timer"></span> 
-                                                    <img src="assets/img/clock.png" alt="" class="clock">
-                                            </p>
-                </div>
-                <div class="col-md-6 text-right pr-0"><p class="lead mb-0">
-
-
-
-<!--                        <span class="perc">--><!--%</span>-->
-
-
-                    <div class="arrow-8"></div>
-
-                                            <a target="_blank" href="https://anonfiles.com/10S0s8o7vc/Operations_Team_rar" class="btn btn2 legitRipple   ">Download Free </a>
-                        
-
-
-                    </p></div>
-
-                    
-            </div>
-        </div>
-        
-        <script>
-
             var proof_img_block33 = '<img src="" alt="" class="proof">';
 
 
@@ -790,7 +634,7 @@
 
             var showed33 = 0;
             var showed_d_buttons33 = 0;
-            var HAPPYSEC33 = -634571;
+            var HAPPYSEC33 = -636989;
             var t_sec33 = HAPPYSEC33;
 
             var time33;
@@ -988,7 +832,7 @@
 
             var showed32 = 0;
             var showed_d_buttons32 = 0;
-            var HAPPYSEC32 = 575029;
+            var HAPPYSEC32 = 572611;
             var t_sec32 = HAPPYSEC32;
 
             var time32;
@@ -1144,7 +988,7 @@
 
             var showed31 = 0;
             var showed_d_buttons31 = 0;
-            var HAPPYSEC31 = 575029;
+            var HAPPYSEC31 = 572611;
             var t_sec31 = HAPPYSEC31;
 
             var time31;
@@ -1300,7 +1144,7 @@
 
             var showed30 = 0;
             var showed_d_buttons30 = 0;
-            var HAPPYSEC30 = 575029;
+            var HAPPYSEC30 = 572611;
             var t_sec30 = HAPPYSEC30;
 
             var time30;
@@ -1456,7 +1300,7 @@
 
             var showed29 = 0;
             var showed_d_buttons29 = 0;
-            var HAPPYSEC29 = 56629;
+            var HAPPYSEC29 = 54211;
             var t_sec29 = HAPPYSEC29;
 
             var time29;
@@ -1612,7 +1456,7 @@
 
             var showed28 = 0;
             var showed_d_buttons28 = 0;
-            var HAPPYSEC28 = 56629;
+            var HAPPYSEC28 = 54211;
             var t_sec28 = HAPPYSEC28;
 
             var time28;
@@ -1768,7 +1612,7 @@
 
             var showed27 = 0;
             var showed_d_buttons27 = 0;
-            var HAPPYSEC27 = -375371;
+            var HAPPYSEC27 = -377789;
             var t_sec27 = HAPPYSEC27;
 
             var time27;
@@ -1924,7 +1768,7 @@
 
             var showed26 = 0;
             var showed_d_buttons26 = 0;
-            var HAPPYSEC26 = -2967371;
+            var HAPPYSEC26 = -2969789;
             var t_sec26 = HAPPYSEC26;
 
             var time26;
@@ -2132,7 +1976,7 @@
 
             var showed24 = 0;
             var showed_d_buttons24 = 0;
-            var HAPPYSEC24 = -375371;
+            var HAPPYSEC24 = -377789;
             var t_sec24 = HAPPYSEC24;
 
             var time24;
@@ -2310,7 +2154,7 @@
 
             var showed21 = 0;
             var showed_d_buttons21 = 0;
-            var HAPPYSEC21 = -893771;
+            var HAPPYSEC21 = -896189;
             var t_sec21 = HAPPYSEC21;
 
             var time21;
@@ -2538,7 +2382,7 @@
 
             var showed21 = 0;
             var showed_d_buttons21 = 0;
-            var HAPPYSEC21 = -893771;
+            var HAPPYSEC21 = -896189;
             var t_sec21 = HAPPYSEC21;
 
             var time21;

@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2021-12-09 | `Full Data Leak Linical` | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
 | 2021-12-09 | `benlineagencies.com` | [lv](https://ransomwatch.telemetry.ltd/#/profiles?id=lv) |
 | 2021-12-09 | `P&R ENTERPRISES    ` | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
 | 2021-12-09 | `Unique Home Solutions    ` | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2021-11-30 | `UABL S.A.` | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
 | 2021-11-30 | `Read more` | [suncrypt](https://ransomwatch.telemetry.ltd/#/profiles?id=suncrypt) |
 | 2021-11-30 | `Burda Sanitärtechnik` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
-| 2021-11-30 | `Karges-Faulconbridge, Inc.    ` | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
