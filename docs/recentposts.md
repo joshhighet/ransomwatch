@@ -4,6 +4,10 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2021-12-09 | `SLIMSTOCK.COM FILES  PART3 PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2021-12-09 | `BOLTONUSA.COM FILES  FILES PART7 - 10.0.0.20\c$\BOD_HQ_CIFS\HW_dept PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2021-12-09 | `ABSOLUTERESULTS.COM FILES  FILES PART7 - E/FTP Directory PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2021-12-09 | `EDAN.COM FILES  FILES PART2 - 192.168.2.6\E$ - 商务组文件, 客服组文件 PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2021-12-08 | `tlpterminal.com.my` | [lv](https://ransomwatch.telemetry.ltd/#/profiles?id=lv) |
 | 2021-12-08 | `roemer-lueftung... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-12-08 | `nowiny.pl ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -100,7 +104,3 @@ _last `100` posts_
 | 2021-11-29 | `GROUP OF COMPANY` | [midas](https://ransomwatch.telemetry.ltd/#/profiles?id=midas) |
 | 2021-11-29 | `ChaddadGroup` | [midas](https://ransomwatch.telemetry.ltd/#/profiles?id=midas) |
 | 2021-11-29 | `CRM GROUP` | [midas](https://ransomwatch.telemetry.ltd/#/profiles?id=midas) |
-| 2021-11-29 | `Bouquet Mulligan DeMaio` | [midas](https://ransomwatch.telemetry.ltd/#/profiles?id=midas) |
-| 2021-11-29 | `IDSFULFILLMENT` | [midas](https://ransomwatch.telemetry.ltd/#/profiles?id=midas) |
-| 2021-11-29 | `RWL GmbH` | [midas](https://ransomwatch.telemetry.ltd/#/profiles?id=midas) |
-| 2021-11-29 | `EISENBERG HEFLER &amp; LEVY LLP` | [midas](https://ransomwatch.telemetry.ltd/#/profiles?id=midas) |
