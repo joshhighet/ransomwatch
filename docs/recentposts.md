@@ -4,6 +4,10 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2021-12-09 | `SLIMSTOCK.COM FILES  FILES PART5 - 10.50.10.131, 10.50.10.196, 10.50.10.227, 10.50.10.229 ` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2021-12-09 | `DACOLL.CO.UK FILES  FILES PART10 - 172.21.240.103/user3/Dacoll Electrical Ltd PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2021-12-09 | `QUANTUMGROUP.COM FILES  FILES PART4 - nolanfinancial, opalwealthadvisors, shutterfly, soni` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2021-12-09 | `TONLYELE.COM FILES  FILES PART6 - 10.84.130.219\F$ PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2021-12-09 | `SLIMSTOCK.COM FILES  PART3 PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2021-12-09 | `BOLTONUSA.COM FILES  FILES PART7 - 10.0.0.20\c$\BOD_HQ_CIFS\HW_dept PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2021-12-09 | `ABSOLUTERESULTS.COM FILES  FILES PART7 - E/FTP Directory PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
@@ -100,7 +104,3 @@ _last `100` posts_
 | 2021-11-29 | `San Carlo` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2021-11-29 | `dlb.it ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-11-29 | `CurIT` | [midas](https://ransomwatch.telemetry.ltd/#/profiles?id=midas) |
-| 2021-11-29 | `Westrup Company` | [midas](https://ransomwatch.telemetry.ltd/#/profiles?id=midas) |
-| 2021-11-29 | `GROUP OF COMPANY` | [midas](https://ransomwatch.telemetry.ltd/#/profiles?id=midas) |
-| 2021-11-29 | `ChaddadGroup` | [midas](https://ransomwatch.telemetry.ltd/#/profiles?id=midas) |
-| 2021-11-29 | `CRM GROUP` | [midas](https://ransomwatch.telemetry.ltd/#/profiles?id=midas) |
