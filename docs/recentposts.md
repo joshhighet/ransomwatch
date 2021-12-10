@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2021-12-10 | `KOBE BUSSAN - HACKED AND MORE THEN 500Gb DATA LEAKED` | [lv](https://ransomwatch.telemetry.ltd/#/profiles?id=lv) |
 | 2021-12-10 | `Medical Pharmacies` | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
 | 2021-12-10 | `MTMRECOGNITION.COM FILES PART1 - mbox PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2021-12-10 | `Leak of IT company Saksoft` | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2021-12-07 | `fujitsu.com` | [marketo](https://ransomwatch.telemetry.ltd/#/profiles?id=marketo) |
 | 2021-12-07 | `spsr-law.com` | [marketo](https://ransomwatch.telemetry.ltd/#/profiles?id=marketo) |
 | 2021-12-07 | `esited.com` | [marketo](https://ransomwatch.telemetry.ltd/#/profiles?id=marketo) |
-| 2021-12-07 | `epicor.com` | [marketo](https://ransomwatch.telemetry.ltd/#/profiles?id=marketo) |
