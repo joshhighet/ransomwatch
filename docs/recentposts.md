@@ -4,6 +4,8 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2021-12-10 | `MTMRECOGNITION.COM FILES PART1 - mbox PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2021-12-10 | `Leak of IT company Saksoft` | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
 | 2021-12-10 | `UMW Group` | [ransomexx](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomexx) |
 | 2021-12-10 | `tamerholding.co... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-12-10 | `robroelaw.com ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -102,5 +104,3 @@ _last `100` posts_
 | 2021-12-07 | `esited.com` | [marketo](https://ransomwatch.telemetry.ltd/#/profiles?id=marketo) |
 | 2021-12-07 | `epicor.com` | [marketo](https://ransomwatch.telemetry.ltd/#/profiles?id=marketo) |
 | 2021-12-07 | `luxottica.com` | [marketo](https://ransomwatch.telemetry.ltd/#/profiles?id=marketo) |
-| 2021-12-07 | `dwr.virginia.gov` | [marketo](https://ransomwatch.telemetry.ltd/#/profiles?id=marketo) |
-| 2021-12-07 | `KMG Prestige, Inc.` | [rook](https://ransomwatch.telemetry.ltd/#/profiles?id=rook) |
