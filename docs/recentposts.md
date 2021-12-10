@@ -4,6 +4,17 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2021-12-10 | `SLIMSTOCK.COM FILES  PART5 - 10.50.10.131, 10.50.10.196, 10.50.10.227, 10.50.10.229 PUBLIS` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2021-12-10 | `DACOLL.CO.UK FILES  PART10 - 172.21.240.103/user3/Dacoll Electrical Ltd PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2021-12-10 | `QUANTUMGROUP.COM FILES  PART4 - nolanfinancial, opalwealthadvisors, shutterfly, sonic, spa` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2021-12-10 | `TONLYELE.COM FILES  PART6 - 10.84.130.219\F$ PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2021-12-10 | `BOLTONUSA.COM FILES  PART7 - 10.0.0.20\c$\BOD_HQ_CIFS\HW_dept PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2021-12-10 | `ABSOLUTERESULTS.COM FILES  PART7 - E/FTP Directory PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2021-12-10 | `EDAN.COM FILES  PART2 - 192.168.2.6\E$ - 商务组文件, 客服组文件 PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2021-12-10 | `MCH-GROUP.COM FILES PART3 - 173.16.60.11\DATEN PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2021-12-10 | `STRATISVISUALS.COM FILES PART10 - C\FTP PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2021-12-10 | `SWIRESPO.COM FILES PART2 -PST\WAFDXB.crewing@swire.com.sg-2, WAFDXB.crewing@swire.com.sg P` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2021-12-10 | `SSMSJUSTICE.COM FILES PART6 - 192.168.1.250\D\DOCUMETS\CRIMINAL,HR-ACCT PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2021-12-09 | `Jeffmoss` | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2021-12-09 | `Ktmtriallaw` | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2021-12-09 | `se.com ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -93,14 +104,3 @@ _last `100` posts_
 | 2021-12-06 | `Saand` | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2021-12-06 | `Bemis Associates    ` | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
 | 2021-12-06 | `Besson Seguros` | [robinhood](https://ransomwatch.telemetry.ltd/#/profiles?id=robinhood) |
-| 2021-12-06 | `CHR Solutions` | [pysa](https://ransomwatch.telemetry.ltd/#/profiles?id=pysa) |
-| 2021-12-06 | `Clementoni` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
-| 2021-12-06 | `Ruwac` | [ransomexx](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomexx) |
-| 2021-12-06 | `MST LAWYERS` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
-| 2021-12-06 | `jpbdselangor.gov.my` | [lv](https://ransomwatch.telemetry.ltd/#/profiles?id=lv) |
-| 2021-12-05 | `gaben.cz` | [lv](https://ransomwatch.telemetry.ltd/#/profiles?id=lv) |
-| 2021-12-05 | `promhotel.fr` | [lv](https://ransomwatch.telemetry.ltd/#/profiles?id=lv) |
-| 2021-12-05 | `HOULE` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
-| 2021-12-05 | `Spencer Gifts LLC` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
-| 2021-12-04 | `Seldin` | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
-| 2021-12-04 | `NLB Corporation` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
