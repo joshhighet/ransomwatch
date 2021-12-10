@@ -2,9 +2,9 @@
 ## summary
 _december 10th, 2021_
 
-currently tracking `79` groups across `94` relays & mirrors - _`36` currently online_
+currently tracking `79` groups across `94` relays & mirrors - _`34` currently online_
 
-⏲ there have been `34` posts within the `last 24 hours`
+⏲ there have been `18` posts within the `last 24 hours`
 
 🦈 there have been `140` posts within the `month of december`
 
