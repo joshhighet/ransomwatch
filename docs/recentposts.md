@@ -4,6 +4,9 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2021-12-10 | `UMW Group` | [ransomexx](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomexx) |
+| 2021-12-10 | `tamerholding.co... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
+| 2021-12-10 | `robroelaw.com ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-12-10 | `Trigyn Technologies Ltd` | [sabbath](https://ransomwatch.telemetry.ltd/#/profiles?id=sabbath) |
 | 2021-12-10 | `SLIMSTOCK.COM FILES  PART5 - 10.50.10.131, 10.50.10.196, 10.50.10.227, 10.50.10.229 PUBLIS` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2021-12-10 | `DACOLL.CO.UK FILES  PART10 - 172.21.240.103/user3/Dacoll Electrical Ltd PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
@@ -101,6 +104,3 @@ _last `100` posts_
 | 2021-12-07 | `luxottica.com` | [marketo](https://ransomwatch.telemetry.ltd/#/profiles?id=marketo) |
 | 2021-12-07 | `dwr.virginia.gov` | [marketo](https://ransomwatch.telemetry.ltd/#/profiles?id=marketo) |
 | 2021-12-07 | `KMG Prestige, Inc.` | [rook](https://ransomwatch.telemetry.ltd/#/profiles?id=rook) |
-| 2021-12-06 | `Marshall Investigative Group Part 1/3 1000 Client` | [bonacigroup](https://ransomwatch.telemetry.ltd/#/profiles?id=bonacigroup) |
-| 2021-12-06 | `Saand` | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
-| 2021-12-06 | `Bemis Associates    ` | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
