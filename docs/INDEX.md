@@ -20,7 +20,7 @@
 | [grief](https://ransomwatch.telemetry.ltd/#/profiles?id=grief) | Grief list | 🟢 |  | griefcameifmv4hfr3auozmovz5yi6m3h3dwbuqw7baomfxoxz4qteid.onion |
 | [avaddon](https://ransomwatch.telemetry.ltd/#/profiles?id=avaddon) |  | 🔴 | 2021-05-01 | avaddongun7rngel.onion |
 | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |  | 🔴 | 2021-05-01 | 4hzyuotli6maqa4u.onion |
-| [xinglocker](https://ransomwatch.telemetry.ltd/#/profiles?id=xinglocker) | 星Team News | 🟢 |  | xingnewj6m4qytljhfwemngm7r7rogrindbq7wrfeepejgxc3bwci7qd.onion |
+| [xinglocker](https://ransomwatch.telemetry.ltd/#/profiles?id=xinglocker) | 星Team News | 🔴 | 2021-12-11 | xingnewj6m4qytljhfwemngm7r7rogrindbq7wrfeepejgxc3bwci7qd.onion |
 | [darkside](https://ransomwatch.telemetry.ltd/#/profiles?id=darkside) |  | 🔴 | 2021-05-01 | darksidc3iux462n6yunevoag52ntvwp6wulaz3zirkmh4cnz6hhj7id.onion |
 | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |  | 🔴 | 2021-05-01 | rgleak7op734elep.onion |
 | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) | Home Page of Ragnar_Locker Leaks site | 🟢 |  | rgleaktxuey67yrgspmhvtnrqtgogur35lwdrup4d3igtbm3pupc4lyd.onion |
@@ -51,7 +51,7 @@
 | [darkleakmarket](https://ransomwatch.telemetry.ltd/#/profiles?id=darkleakmarket) | Dark Leak Market | 🔴 | 2021-10-07 | 54rdhzjzc4ids4u4wata4zr4ywfon5wpz2ml4q3avelgadpvmdal2vqd.onion |
 | [prometheus](https://ransomwatch.telemetry.ltd/#/profiles?id=prometheus) |  | 🔴 | 2021-05-01 | promethw27cbrcot.onion |
 | [blackmatter](https://ransomwatch.telemetry.ltd/#/profiles?id=blackmatter) | BlackMatter | 🔴 | 2021-11-04 | blackmax7su6mbwtcyo3xwtpfxpm356jjqrs34y4crcytpw7mifuedyd.onion |
-| [payloadbin](https://ransomwatch.telemetry.ltd/#/profiles?id=payloadbin) | Payload.bin | 🔴 | 2021-12-11 | vbmisqjshn4yblehk2vbnil53tlqklxsdaztgphcilto3vdj4geao5qd.onion |
+| [payloadbin](https://ransomwatch.telemetry.ltd/#/profiles?id=payloadbin) | Payload.bin | 🟢 |  | vbmisqjshn4yblehk2vbnil53tlqklxsdaztgphcilto3vdj4geao5qd.onion |
 | [groove](https://ransomwatch.telemetry.ltd/#/profiles?id=groove) | Утечки - Groove | 🔴 | 2021-10-30 | ws3dh6av66sjbxxkjpw5ao3wqzmtejnkzheswm4dz5rrwvular7xvkqd.onion |
 | [ako](https://ransomwatch.telemetry.ltd/#/profiles?id=ako) |  | 🔴 | 2021-05-01 | kwvhrdibgmmpkhkidrby4mccwqpds5za6uo2thcw5gz75qncv7rbhyad.onion |
 | [atomsilo](https://ransomwatch.telemetry.ltd/#/profiles?id=atomsilo) | AtomSilo | 🟢 |  | mhdehvkomeabau7gsetnsrhkfign4jgnx3wajth5yb5h6kvzbd72wlqd.onion |
