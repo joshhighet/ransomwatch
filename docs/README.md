@@ -1,6 +1,6 @@
 
 ## summary
-_december 11th, 2021_
+_december 12th, 2021_
 
 currently tracking `79` groups across `94` relays & mirrors - _`35` currently online_
 
