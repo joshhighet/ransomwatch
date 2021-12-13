@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2021-12-13 | `tt-network.dk` | [lv](https://ransomwatch.telemetry.ltd/#/profiles?id=lv) |
 | 2021-12-12 | `luzeirosfortale...` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-12-12 | `Social Enterprise (SEC)` | [sabbath](https://ransomwatch.telemetry.ltd/#/profiles?id=sabbath) |
 | 2021-12-11 | `rbauction.com ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2021-12-07 | `gigatribe.com` | [marketo](https://ransomwatch.telemetry.ltd/#/profiles?id=marketo) |
 | 2021-12-07 | `millensys.com` | [marketo](https://ransomwatch.telemetry.ltd/#/profiles?id=marketo) |
 | 2021-12-07 | `cbsltrans.com` | [marketo](https://ransomwatch.telemetry.ltd/#/profiles?id=marketo) |
-| 2021-12-07 | `bowmanplating.com` | [marketo](https://ransomwatch.telemetry.ltd/#/profiles?id=marketo) |
