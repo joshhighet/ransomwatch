@@ -4,6 +4,10 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2021-12-13 | `Nordic Choice Hotels` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
+| 2021-12-13 | `MEETH` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
+| 2021-12-13 | `DOMICIM Agence` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
+| 2021-12-13 | `Comerio Ercole spa` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2021-12-13 | `tt-network.dk` | [lv](https://ransomwatch.telemetry.ltd/#/profiles?id=lv) |
 | 2021-12-12 | `luzeirosfortale...` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-12-12 | `Social Enterprise (SEC)` | [sabbath](https://ransomwatch.telemetry.ltd/#/profiles?id=sabbath) |
@@ -100,7 +104,3 @@ _last `100` posts_
 | 2021-12-07 | `puma.com` | [marketo](https://ransomwatch.telemetry.ltd/#/profiles?id=marketo) |
 | 2021-12-07 | `meditopia.com` | [marketo](https://ransomwatch.telemetry.ltd/#/profiles?id=marketo) |
 | 2021-12-07 | `tpicorp.com` | [marketo](https://ransomwatch.telemetry.ltd/#/profiles?id=marketo) |
-| 2021-12-07 | `elementia.com` | [marketo](https://ransomwatch.telemetry.ltd/#/profiles?id=marketo) |
-| 2021-12-07 | `gigatribe.com` | [marketo](https://ransomwatch.telemetry.ltd/#/profiles?id=marketo) |
-| 2021-12-07 | `millensys.com` | [marketo](https://ransomwatch.telemetry.ltd/#/profiles?id=marketo) |
-| 2021-12-07 | `cbsltrans.com` | [marketo](https://ransomwatch.telemetry.ltd/#/profiles?id=marketo) |
