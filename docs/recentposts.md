@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2021-12-14 | `Amoria Bond` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2021-12-14 | `hsisensing.com ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-12-13 | `TALIS GROUP` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2021-12-13 | `Chantelle Group` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2021-12-07 | `Virginia Defense Force` | [marketo](https://ransomwatch.telemetry.ltd/#/profiles?id=marketo) |
 | 2021-12-07 | `Otto Instrument` | [marketo](https://ransomwatch.telemetry.ltd/#/profiles?id=marketo) |
 | 2021-12-07 | `Navistar (Volkswagen Group)` | [marketo](https://ransomwatch.telemetry.ltd/#/profiles?id=marketo) |
-| 2021-12-07 | `Align Technology, Inc` | [marketo](https://ransomwatch.telemetry.ltd/#/profiles?id=marketo) |
