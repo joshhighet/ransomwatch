@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2021-12-14 | `The Execu-Search Group` | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
 | 2021-12-14 | `ABC Seamless` | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
 | 2021-12-14 | `Kenall/Legrand` | [lorenz](https://ransomwatch.telemetry.ltd/#/profiles?id=lorenz) |
 | 2021-12-14 | `Rosendahl Design Group` | [rook](https://ransomwatch.telemetry.ltd/#/profiles?id=rook) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2021-12-07 | `Gamesa Corporation leaked data` | [marketo](https://ransomwatch.telemetry.ltd/#/profiles?id=marketo) |
 | 2021-12-07 | `Sea Mar Community Health Centers` | [marketo](https://ransomwatch.telemetry.ltd/#/profiles?id=marketo) |
 | 2021-12-07 | `Elm3 Financial Group, LLC` | [marketo](https://ransomwatch.telemetry.ltd/#/profiles?id=marketo) |
-| 2021-12-07 | `Virginia Department of Military Affairs` | [marketo](https://ransomwatch.telemetry.ltd/#/profiles?id=marketo) |
