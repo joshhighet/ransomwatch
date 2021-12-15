@@ -4,6 +4,8 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2021-12-15 | `boxmarche.it ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
+| 2021-12-15 | `vipsmotel.it ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-12-15 | `DEWEtech` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2021-12-15 | `Company Group LDLC` | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
 | 2021-12-14 | `WEBER_OTT AG` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
@@ -102,5 +104,3 @@ _last `100` posts_
 | 2021-12-07 | `Morgan Truck Body, LLC` | [marketo](https://ransomwatch.telemetry.ltd/#/profiles?id=marketo) |
 | 2021-12-07 | `Luxottica Group S.p.A.` | [marketo](https://ransomwatch.telemetry.ltd/#/profiles?id=marketo) |
 | 2021-12-07 | `Kawasaki Kisen Kaisha, Ltd. (“K” LINE)` | [marketo](https://ransomwatch.telemetry.ltd/#/profiles?id=marketo) |
-| 2021-12-07 | `X-FAB` | [marketo](https://ransomwatch.telemetry.ltd/#/profiles?id=marketo) |
-| 2021-12-07 | `Axis Communications` | [marketo](https://ransomwatch.telemetry.ltd/#/profiles?id=marketo) |
