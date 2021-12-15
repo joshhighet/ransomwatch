@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2021-12-15 | `Company Group LDLC` | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
 | 2021-12-14 | `WEBER_OTT AG` | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2021-12-14 | `The Execu-Search Group` | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
 | 2021-12-14 | `ABC Seamless` | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2021-12-07 | `X-FAB` | [marketo](https://ransomwatch.telemetry.ltd/#/profiles?id=marketo) |
 | 2021-12-07 | `Axis Communications` | [marketo](https://ransomwatch.telemetry.ltd/#/profiles?id=marketo) |
 | 2021-12-07 | `Gamesa Corporation leaked data` | [marketo](https://ransomwatch.telemetry.ltd/#/profiles?id=marketo) |
-| 2021-12-07 | `Sea Mar Community Health Centers` | [marketo](https://ransomwatch.telemetry.ltd/#/profiles?id=marketo) |
