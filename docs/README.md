@@ -2,17 +2,17 @@
 ## summary
 _december 15th, 2021_
 
-currently tracking `79` groups across `94` relays & mirrors - _`32` currently online_
+currently tracking `79` groups across `94` relays & mirrors - _`35` currently online_
 
-⏲ there have been `8` posts within the `last 24 hours`
+⏲ there have been `9` posts within the `last 24 hours`
 
-🦈 there have been `161` posts within the `month of december`
+🦈 there have been `162` posts within the `month of december`
 
-🪐 there have been `1121` posts within the `last 90 days`
+🪐 there have been `1122` posts within the `last 90 days`
 
-🏚 there have been `2059` posts within the `year of 2021`
+🏚 there have been `2060` posts within the `year of 2021`
 
-🦕 there have been `2093` posts `since the dawn of ransomwatch`
+🦕 there have been `2094` posts `since the dawn of ransomwatch`
 
 there are `38` custom parsers indexing posts
 
