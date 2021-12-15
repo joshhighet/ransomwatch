@@ -4,6 +4,19 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2021-12-15 | `SSMSJUSTICE.COM FILES PART7 - 192.168.1.250\D\DOCUMENTS\CIVIL\Almahmodi, Hassan...Dutton, ` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2021-12-15 | `SLIMSTOCK.COM FILES PART6 - 10.30.12.34, 10.30.14.66 PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2021-12-15 | `MTMRECOGNITION.COM  FILES PART2 - 10.0.4.228 PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2021-12-15 | `DACOLL.CO.UK FILES PART11 - 172.21.240.103\user3\ACCOUNTS\Shared Folders\Access...KF quart` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2021-12-15 | `MCH-GROUP.COM FILES PART4 - 173.16.60.11\ACAD_ZEI!MesseCad...User PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2021-12-15 | `QUANTUMGROUP.COM FILES PART5 - QUANTUM FTPLP03V\Quantum FTP\ais\ATT Invoice...Test PUBLISH` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2021-12-15 | `EDAN.COM FILES PART3 - 192.168.2.6\E$\国际营销系统共享文件,跟单组文件 PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2021-12-15 | `TONLYELE.COM FILES PART7 - 10.84.130.219\E$\FTP __ 10.84.130.123\caiwugx_test PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2021-12-15 | `BOLTONUSA.COM FILES PART8 - 10.0.0.20\c$\BOD_HQ_CIFS\BPNE\other PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2021-12-15 | `ABSOLUTERESULTS.COM FILES PART8 - E\FTP Directory\FTPARCC...PrinterFilesPurged PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2021-12-15 | `STRATISVISUALS.COM FILES PART11 - C\FTP\stratis\Ready To PRINT-CT...Wakefern Weekly PUBLIS` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2021-12-15 | `SWIRESPO.COM  FILES PART3 - PST\210421AndBefore...Personal Folders-P165 PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2021-12-15 | `ENPRECIS.COM FILES PART1 - mails PUBLISHED` | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2021-12-15 | `Ajuntament de Castelló` | [ransomexx](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomexx) |
 | 2021-12-15 | `Hellmann Worldwide Logistics ` | [ransomexx](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomexx) |
 | 2021-12-15 | `boxmarche.it ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -91,16 +104,3 @@ _last `100` posts_
 | 2021-12-08 | `murrayscheese.c... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-12-08 | `prairiesedgecas... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2021-12-08 | `vestas.com ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2021-12-08 | `ytlcement.com ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2021-12-08 | `caudillseed.com ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2021-12-08 | `kerrylogistics.... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2021-12-08 | `hp.icon-institu... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2021-12-08 | `fr.shop-orchest... ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2021-12-08 | `comark.ca ` | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2021-12-08 | `NewWave Technologies Inc` | [midas](https://ransomwatch.telemetry.ltd/#/profiles?id=midas) |
-| 2021-12-08 | `serta.com - MORE THEN 500Gb DATA LEAKED` | [lv](https://ransomwatch.telemetry.ltd/#/profiles?id=lv) |
-| 2021-12-07 | `Altrux Medical` | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
-| 2021-12-07 | `Fittingbox` | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
-| 2021-12-07 | `Millensys` | [marketo](https://ransomwatch.telemetry.ltd/#/profiles?id=marketo) |
-| 2021-12-07 | `GigaTribe` | [marketo](https://ransomwatch.telemetry.ltd/#/profiles?id=marketo) |
-| 2021-12-07 | `Morgan Truck Body, LLC` | [marketo](https://ransomwatch.telemetry.ltd/#/profiles?id=marketo) |
