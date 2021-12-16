@@ -15,13 +15,13 @@
 
 
     <link href="https://fonts.googleapis.com/css?family=Playfair+Display:700,900" rel="stylesheet">
-    <link href="/blog.css?v=1639620643" rel="stylesheet">
+    <link href="/blog.css?v=1639691846" rel="stylesheet">
     <script src="/assets/js/jquery-2.1.3.min.js"></script>
 
     <script src="/assets/js/vendor/popper.min.js"></script>
     <script src="/dist/js/bootstrap.min.js"></script>
     <script src="/assets/js/vendor/holder.min.js"></script>
-    <script src="/script.js?v=1639620643"></script>
+    <script src="/script.js?v=1639691846"></script>
     <style>
         .d_buttons{
             display: none;
@@ -139,162 +139,6 @@
 
         <script>
 
-            var proof_img_block38 = '<img src="" alt="" class="proof">';
-
-
-            function ShowProof38(){
-                if(showed38 === 0){
-                    showed38 = 1;
-                    $("#target_38 .proof_block").html(proof_img_block38).slideDown(400);
-                }else{
-                    showed38 = 0;
-                    $("#target_38 .proof_block").html('').slideUp(400);
-                }
-
-            }
-            function ShowDButtons38(){
-                if(showed_d_buttons38 === 0){
-                    showed_d_buttons38 = 1;
-                    $("#target_38 .d_buttons").slideDown(400);
-                }else{
-                    showed_d_buttons38 = 0;
-                    $("#target_38 .d_buttons").slideUp(400);
-                }
-
-            }
-
-
-            var showed38 = 0;
-            var showed_d_buttons38 = 0;
-            var HAPPYSEC38 = -2221842;
-            var t_sec38 = HAPPYSEC38;
-
-            var time38;
-            var intervalId38=0;
-
-
-            $(document).ready(function () {
-
-                intervalId38 = setInterval(function (){
-                    timerDecrement38();
-                }, 1000);
-            });
-
-
-            function timerDecrement38() {
-                time38 = $('#target_38 span.timer');
-
-                if(t_sec38 < 1){
-                    t_sec38 = 0;
-                    newTime = t_sec38 ;
-                }else{
-                    newTime = t_sec38 - 1;
-                }
-
-
-                t_sec38 = newTime;
-
-                var t_min = t_sec38 / 60;
-                var t_hour = t_min / 60;
-                var t_day =
-                    '<b>' + Math.floor(t_hour / 24) + '</b> days ' +
-                    '<b>' + Math.floor(t_hour % 24) +'</b>:' +
-                    '<b>' + Math.floor(t_min % 60) +'</b>:' +
-                    '<b>' + Math.floor(t_sec38 % 60)+ '</b> ';
-
-                time38.html(t_day);
-
-
-
-                if(newTime === 0 && HAPPYSEC38 > 0 || newTime < 1){
-
-                    time38.html('');
-                    $("#target_38 .lock").attr("src","assets/img/lockopen.png");
-                    $("#target_38 .clock").attr("src","assets/img/clockred.png").addClass("clockred");
-                    $("#target_38 .btn2").addClass("redbg");
-                    $("#target_38 .arrow-8").addClass("r8");
-                    $("#target_38 .perc").html("100%");
-
-                    clearInterval(intervalId38);
-                    GetDownloadLink(38,$("#target_38 .redbg"));
-                }
-
-
-            }
-        </script>
-
-        <div class="row jumbotron p-3  text-white rounded bg-d1" id="target_38">
-            <div class="col-md-6 px-0">
-                <h1 class="display-4 font-italic border-bottom">Bemis Associates    </h1>
-            </div>
-
-            <div class="col-md-6 px-0">
-                                    <img src="assets/img/lockopen.png" alt="" class="lock">
-                
-                
-            </div>
-            <div class="col-md-12 px-0">
-
-                <div class="proof_block text-center"></div>
-
-                <p class="lead my-3 pb-3" >Bemis Associates, Inc. is located in Shirley, MA, United States and is part of the Paint, Coating, and Adhesive Manufacturing Industry. Bemis Associates, Inc. has 334 total employees across all of its locations and generates $98.27 million in sales (USD). (Sales figure is modelled). There are 2 companies in the Bemis Associates, Inc. corporate family.                </p>
-                <div class="dropdown-divider divid-c"></div>
-            </div>
-
-
-            <div class="col-md-12 row px-0  mt-4 mb-4 ml-0">
-                <div class="col-md-3 text-center ">
-                    <p class="lead mb-0 squ">
-                    <span class="text-white font-weight-bold ">
-                        <i class="fa fa-users"></i>
-                    </span>
-                        <br>
-                        <span class="">334</span>
-                    </p>
-                </div>
-                <div class="col-md-3 text-center" onclick="GO('http://www.bemisworldwide.com')">
-                    <p class="lead mb-0 squ"><span class="text-white font-weight-bold "><i class="fa fa-globe"></i></span><br>
-                        <a href="javascript:" class="text-white text-decoration-none" >Web Site</a>
-                    </p>
-                </div>
-
-                <div class="col-md-3 text-center"><p class="lead mb-0 squ "><span class="text-white font-weight-bold "><i class="fa fa-dollar"></i></span> <br>$ 98.27 Million </p></div>
-                <div class="col-md-3 text-center"><p class="lead mb-0 squ"><span class="text-white font-weight-bold"><i class="fa fa-phone"></i></span><br>(978) 425-6500</p></div>
-
-            </div>
-
-
-
-
-            <div class="col-md-12 row px-0 mt-5">
-                <div class="col-md-12 text-center"><a href="mailto:BlackByteSupp0rt@onionmail.org" class="text-white text-decoration-none">BlackByteSupp0rt@onionmail.org</a></div>
-                <div class="col-md-6">
-                    <p class="lead mb-0 text-white font-weight-bold" style="margin-top: 13px">
-                        <span class="timer"></span> 
-                                                    <img src="assets/img/clockred.png" alt="" class="clock clockred">
-                                            </p>
-                </div>
-                <div class="col-md-6 text-right pr-0"><p class="lead mb-0">
-
-
-
-<!--                        <span class="perc">--><!--%</span>-->
-
-
-                    <div class="arrow-8"></div>
-
-                                            <a target="_blank" href="javascript:" class="btn btn2 legitRipple  redbg ">Download Free </a>
-                        
-
-
-                    </p></div>
-
-                    
-            </div>
-        </div>
-        
-        <script>
-
             var proof_img_block37 = '<img src="" alt="" class="proof">';
 
 
@@ -322,7 +166,7 @@
 
             var showed37 = 0;
             var showed_d_buttons37 = 0;
-            var HAPPYSEC37 = 1234158;
+            var HAPPYSEC37 = 1162954;
             var t_sec37 = HAPPYSEC37;
 
             var time37;
@@ -478,7 +322,7 @@
 
             var showed36 = 0;
             var showed_d_buttons36 = 0;
-            var HAPPYSEC36 = 1234158;
+            var HAPPYSEC36 = 1162954;
             var t_sec36 = HAPPYSEC36;
 
             var time36;
@@ -634,7 +478,7 @@
 
             var showed35 = 0;
             var showed_d_buttons35 = 0;
-            var HAPPYSEC35 = 1234158;
+            var HAPPYSEC35 = 1162954;
             var t_sec35 = HAPPYSEC35;
 
             var time35;
@@ -790,7 +634,7 @@
 
             var showed33 = 0;
             var showed_d_buttons33 = 0;
-            var HAPPYSEC33 = -1185042;
+            var HAPPYSEC33 = -1256246;
             var t_sec33 = HAPPYSEC33;
 
             var time33;
@@ -988,7 +832,7 @@
 
             var showed32 = 0;
             var showed_d_buttons32 = 0;
-            var HAPPYSEC32 = 24558;
+            var HAPPYSEC32 = -46646;
             var t_sec32 = HAPPYSEC32;
 
             var time32;
@@ -1051,7 +895,7 @@
             </div>
 
             <div class="col-md-6 px-0">
-                                    <img src="assets/img/lock.png" alt="" class="lock">
+                                    <img src="assets/img/lockopen.png" alt="" class="lock">
                 
                 
             </div>
@@ -1093,7 +937,7 @@
                 <div class="col-md-6">
                     <p class="lead mb-0 text-white font-weight-bold" style="margin-top: 13px">
                         <span class="timer"></span> 
-                                                    <img src="assets/img/clock.png" alt="" class="clock">
+                                                    <img src="assets/img/clockred.png" alt="" class="clock clockred">
                                             </p>
                 </div>
                 <div class="col-md-6 text-right pr-0"><p class="lead mb-0">
@@ -1105,7 +949,7 @@
 
                     <div class="arrow-8"></div>
 
-                                            <a target="_blank" href="https://anonfiles.com/34LcubY9u8/account.ag_rar" class="btn btn2 legitRipple   ">Download Free </a>
+                                            <a target="_blank" href="https://anonfiles.com/34LcubY9u8/account.ag_rar" class="btn btn2 legitRipple  redbg ">Download Free </a>
                         
 
 
@@ -1144,7 +988,7 @@
 
             var showed31 = 0;
             var showed_d_buttons31 = 0;
-            var HAPPYSEC31 = 24558;
+            var HAPPYSEC31 = -46646;
             var t_sec31 = HAPPYSEC31;
 
             var time31;
@@ -1207,7 +1051,7 @@
             </div>
 
             <div class="col-md-6 px-0">
-                                    <img src="assets/img/lock.png" alt="" class="lock">
+                                    <img src="assets/img/lockopen.png" alt="" class="lock">
                 
                 
             </div>
@@ -1249,7 +1093,7 @@
                 <div class="col-md-6">
                     <p class="lead mb-0 text-white font-weight-bold" style="margin-top: 13px">
                         <span class="timer"></span> 
-                                                    <img src="assets/img/clock.png" alt="" class="clock">
+                                                    <img src="assets/img/clockred.png" alt="" class="clock clockred">
                                             </p>
                 </div>
                 <div class="col-md-6 text-right pr-0"><p class="lead mb-0">
@@ -1261,7 +1105,7 @@
 
                     <div class="arrow-8"></div>
 
-                                            <a target="_blank" href="https://anonfiles.com/Dei9u8Yeue/New_folder_rar" class="btn btn2 legitRipple   ">Download Free </a>
+                                            <a target="_blank" href="https://anonfiles.com/Dei9u8Yeue/New_folder_rar" class="btn btn2 legitRipple  redbg ">Download Free </a>
                         
 
 
@@ -1300,7 +1144,7 @@
 
             var showed30 = 0;
             var showed_d_buttons30 = 0;
-            var HAPPYSEC30 = 24558;
+            var HAPPYSEC30 = -46646;
             var t_sec30 = HAPPYSEC30;
 
             var time30;
@@ -1363,7 +1207,7 @@
             </div>
 
             <div class="col-md-6 px-0">
-                                    <img src="assets/img/lock.png" alt="" class="lock">
+                                    <img src="assets/img/lockopen.png" alt="" class="lock">
                 
                 
             </div>
@@ -1405,7 +1249,7 @@
                 <div class="col-md-6">
                     <p class="lead mb-0 text-white font-weight-bold" style="margin-top: 13px">
                         <span class="timer"></span> 
-                                                    <img src="assets/img/clock.png" alt="" class="clock">
+                                                    <img src="assets/img/clockred.png" alt="" class="clock clockred">
                                             </p>
                 </div>
                 <div class="col-md-6 text-right pr-0"><p class="lead mb-0">
@@ -1417,7 +1261,7 @@
 
                     <div class="arrow-8"></div>
 
-                                            <a target="_blank" href="https://anonfiles.com/75G1teY7ud/project_management_rar" class="btn btn2 legitRipple   ">Download Free </a>
+                                            <a target="_blank" href="https://anonfiles.com/75G1teY7ud/project_management_rar" class="btn btn2 legitRipple  redbg ">Download Free </a>
                         
 
 
@@ -1456,7 +1300,7 @@
 
             var showed29 = 0;
             var showed_d_buttons29 = 0;
-            var HAPPYSEC29 = -493842;
+            var HAPPYSEC29 = -565046;
             var t_sec29 = HAPPYSEC29;
 
             var time29;
@@ -1612,7 +1456,7 @@
 
             var showed28 = 0;
             var showed_d_buttons28 = 0;
-            var HAPPYSEC28 = -493842;
+            var HAPPYSEC28 = -565046;
             var t_sec28 = HAPPYSEC28;
 
             var time28;
@@ -1768,7 +1612,7 @@
 
             var showed27 = 0;
             var showed_d_buttons27 = 0;
-            var HAPPYSEC27 = -925842;
+            var HAPPYSEC27 = -997046;
             var t_sec27 = HAPPYSEC27;
 
             var time27;
@@ -1924,7 +1768,7 @@
 
             var showed26 = 0;
             var showed_d_buttons26 = 0;
-            var HAPPYSEC26 = -3517842;
+            var HAPPYSEC26 = -3589046;
             var t_sec26 = HAPPYSEC26;
 
             var time26;
@@ -2132,7 +1976,7 @@
 
             var showed24 = 0;
             var showed_d_buttons24 = 0;
-            var HAPPYSEC24 = -925842;
+            var HAPPYSEC24 = -997046;
             var t_sec24 = HAPPYSEC24;
 
             var time24;
@@ -2310,7 +2154,7 @@
 
             var showed21 = 0;
             var showed_d_buttons21 = 0;
-            var HAPPYSEC21 = -1444242;
+            var HAPPYSEC21 = -1515446;
             var t_sec21 = HAPPYSEC21;
 
             var time21;
@@ -2538,7 +2382,7 @@
 
             var showed21 = 0;
             var showed_d_buttons21 = 0;
-            var HAPPYSEC21 = -1444242;
+            var HAPPYSEC21 = -1515446;
             var t_sec21 = HAPPYSEC21;
 
             var time21;
