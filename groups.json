@@ -1765,7 +1765,7 @@
         "parser": false,
         "geckodriver": false,
         "javascript_render": false,
-        "meta": null,
+        "meta": "captcha prevents indexing",
         "locations": [
             {
                 "fqdn": "leaksv7sroztl377bbohzl42i3ddlfsxopcb6355zc7olzigedm5agad.onion",
