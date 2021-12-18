@@ -571,3 +571,14 @@ def cryp70n1c0d3():
         errlog('cryp70n1c0d3: ' + 'parsing fail')
     for post in posts:
         appender(post, 'cryp70n1c0d3')
+
+def blackshadow():
+    stdlog('parser: ' + 'blackshadow')
+    parser = '''
+    egrep -o '_self">([[:alnum:]]| |\.)+</a>'  source/blackshadow-blackshadow.html | cut -d '>' -f 2 | cut -d '<' -f 1 | sed -e '/Donate/d' -e '/Home/d' -e '/Contact US/d' -e '/Telegram channel/d' | sort -u
+    '''
+    posts = runshellcmd(parser)
+    if len(posts) == 1:
+        errlog('blackshadow: ' + 'parsing fail')
+    for post in posts:
+        appender(post, 'blackshadow')

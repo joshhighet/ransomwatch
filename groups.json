@@ -1156,9 +1156,9 @@
     {
         "name": "blackshadow",
         "captcha": false,
-        "parser": false,
+        "parser": true,
         "geckodriver": false,
-        "javascript_render": false,
+        "javascript_render": true,
         "meta": null,
         "locations": [
             {
@@ -1172,12 +1172,12 @@
             },
             {
                 "fqdn": "blackshadow.cc",
-                "title": "Please Wait... | Cloudflare",
+                "title": "Black Shadow Hackers",
                 "version": 0,
                 "slug": "http://blackshadow.cc",
                 "available": true,
-                "updated": "2021-12-18 14:04:54.220158",
-                "lastscrape": "2021-12-18 14:04:54.220146"
+                "updated": "2021-12-18 14:58:45.154973",
+                "lastscrape": "2021-12-18 14:58:45.154695"
             }
         ],
         "profile": []

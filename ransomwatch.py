@@ -259,6 +259,7 @@ if args.mode == 'parse':
     parsers.rook()
     parsers.cryp70n1c0d3()
     parsers.hive()
+    parsers.blackshadow()
     stdlog('ransomwatch: ' + 'parse run complete')
 
 if args.mode == 'list':
