@@ -68,6 +68,8 @@ def main(webpage):
         # if e contains neterror?e=dnsNotFound, then we are dealing with an onion site failing hsdir
         if 'about:neterror?e=dnsNotFound' in str(e):
             errlog('geckodriver: ' + 'socks request unable to route to host, check hsdir resolution status!')
+        elif 'about:neterror?e=netTimeout' in str(e):
+            errlog('geckodriver: ' + 'socks request timed out!')
         else:
             errlog('geckodriver: ' + 'error: ' + str(e))
         driver.quit()
