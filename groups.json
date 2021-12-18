@@ -67,14 +67,13 @@
         "parser": true,
         "geckodriver": false,
         "javascript_render": false,
-        "meta": null,
+        "meta": "no longer in operation - rebrand",
         "locations": [
             {
                 "fqdn": "xqkz2rmrqkeqf6sjbrb47jfwnqxcd4o2zvaxxzrpbh2piknms37rw2ad.onion",
                 "title": "end of game",
                 "version": 3,
                 "slug": "http://xqkz2rmrqkeqf6sjbrb47jfwnqxcd4o2zvaxxzrpbh2piknms37rw2ad.onion/",
-                "meta": "no longer in operation - rebrand",
                 "updated": "2021-09-08 00:03:21.496917",
                 "lastscrape": "2021-08-18 00:02:29.699387",
                 "available": false
@@ -1508,7 +1507,7 @@
         "parser": false,
         "geckodriver": false,
         "javascript_render": false,
-        "meta": null,
+        "meta": "login page, no posts",
         "locations": [
             {
                 "fqdn": "gvka2m4qt5fod2fltkjmdk4gxh5oxemhpgmnmtjptms6fkgfzdd62tad.onion",
