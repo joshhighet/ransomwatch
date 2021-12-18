@@ -69,7 +69,7 @@ def main(webpage):
         if 'about:neterror?e=dnsNotFound' in str(e):
             errlog('geckodriver: ' + 'socks request unable to route to host, check hsdir resolution status!')
         elif 'about:neterror?e=netTimeout' in str(e):
-            errlog('geckodriver: ' + 'socks request timed out!')
+            errlog('geckodriver: ' + 'geckodriver socks request timed out!')
         else:
             errlog('geckodriver: ' + 'error: ' + str(e))
         driver.quit()
