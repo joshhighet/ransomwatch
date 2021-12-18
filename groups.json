@@ -290,7 +290,7 @@
         "parser": true,
         "geckodriver": false,
         "javascript_render": false,
-        "meta": null,
+        "meta": "captcha prevents indexing",
         "locations": [
             {
                 "fqdn": "avosqxh72b5ia23dl5fgwcpndkctuzqvh2iefk5imp3pi5gfhel5klad.onion",
@@ -313,7 +313,7 @@
         "parser": false,
         "geckodriver": false,
         "javascript_render": true,
-        "meta": null,
+        "meta": "captcha prevents indexing",
         "locations": [
             {
                 "fqdn": "griefcameifmv4hfr3auozmovz5yi6m3h3dwbuqw7baomfxoxz4qteid.onion",
