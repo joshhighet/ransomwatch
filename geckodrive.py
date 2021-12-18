@@ -55,10 +55,10 @@ def main(webpage):
         sleeptz = 5
         stdlog('geckodriver: ' + 'waiting ' + str(sleeptz) + ' seconds to render elements')
         time.sleep(sleeptz)
-        if 'lockbitapt' in webpage:
-            stdlog('geckodriver: ' + 'special detected, waiting for captcha')
-            driver.add_cookie({"name": "ddosproteck", "value": "lol"})
-            driver.find_element_by_css_selector('button').click()
+        #if 'lockbitapt' in webpage:
+        #    stdlog('geckodriver: ' + 'special detected, waiting for captcha')
+        #    driver.add_cookie({"name": "ddosproteck", "value": "lol"})
+        #    driver.find_element_by_css_selector('button').click()
         '''
         get html from dom after js processing and page rendering complete
         '''
