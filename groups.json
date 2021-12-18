@@ -1960,9 +1960,9 @@
     {
         "name": "alphav",
         "captcha": false,
-        "parser": false,
+        "parser": true,
         "geckodriver": false,
-        "javascript_render": false,
+        "javascript_render": true,
         "meta": "aka blackcat",
         "locations": [
             {
@@ -1971,8 +1971,8 @@
                 "version": 3,
                 "slug": "http://alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad.onion",
                 "available": true,
-                "updated": "2021-12-18 14:10:15.330738",
-                "lastscrape": "2021-12-18 14:10:15.330727"
+                "updated": "2021-12-18 15:33:23.396970",
+                "lastscrape": "2021-12-18 15:33:23.396947"
             },
             {
                 "fqdn": "2cuqgeerjdba2rhdiviezodpu3lc4qz2sjf4qin6f7std2evleqlzjid.onion",

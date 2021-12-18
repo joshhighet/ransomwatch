@@ -593,3 +593,14 @@ def mosesstaff():
         errlog('mosesstaff: ' + 'parsing fail')
     for post in posts:
         appender(post, 'mosesstaff')
+
+def alphav():
+    stdlog('parser: ' + 'alphav')
+    parser = '''
+    egrep -o 'class="mat-h2">([[:alnum:]]| |\.)+</h2>' source/alphav-*.html | cut -d '>' -f 2 | cut -d '<' -f 1
+    '''
+    posts = runshellcmd(parser)
+    if len(posts) == 1:
+        errlog('alphav: ' + 'parsing fail')
+    for post in posts:
+        appender(post, 'alphav')
