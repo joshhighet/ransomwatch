@@ -102,7 +102,7 @@ def everest():
 def suncrypt():
     stdlog('parser: ' + 'suncrypt')
     parser = '''
-    cat source/suncrypt-*.html | tr '>' '\n' | grep -A1 '<a href="client?id=' | sed '/^--/d' | sed '/^<a/d' | cut -d '<' -f1 | sed 's/[ \t]*$//' "$@"
+    cat source/suncrypt-*.html | tr '>' '\n' | grep -A1 '<a href="client?id=' | sed -e '/^--/d' -e '/^<a/d' | cut -d '<' -f1 | sed -e 's/[ \t]*$//' "$@" -e '/Read more/d'
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
