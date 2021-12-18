@@ -153,7 +153,7 @@ def siteschema(location):
         'title': None,
         'version': getonionversion(location)[0],
         'slug': location,
-        'available': None,
+        'available': False,
         'updated': None,
         'lastscrape': '2021-05-01 00:00:00.000000'
     }
