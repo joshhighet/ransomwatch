@@ -244,7 +244,7 @@ def revil():
 def ragnarok():
     stdlog('parser: ' + 'ragnarok')
     parser = '''
-    grep 'var post_links =' source/ragnarok-*.html | cut -d '=' -f 2 | sed 's/^ *//g' | sed -e 's/.$//' -e 's/.$//'  -e 's/.$//' |  jq -r '.[].title'
+    grep 'var post_links =' source/ragnarok-*.html --no-filename | cut -d '=' -f 2 | sed 's/^ *//g' | sed -e 's/.$//' -e 's/.$//'  -e 's/.$//' |  jq -r '.[].title'
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
@@ -256,7 +256,7 @@ def conti():
     stdlog('parser: ' + 'conti')
     # grep 'class="title">&' source/conti-*.html --no-filename | cut -d ";" -f2 | sed -e s/"&rdquo"//
     parser = '''
-    grep 'newsList' source/conti-continewsnv5ot*.html | sed -e 's/      newsList( //' -e 's/ );//' | jq '.[].title' -r
+    grep 'newsList' source/conti-continewsnv5ot*.html --no-filename | sed -e 's/      newsList( //' -e 's/ );//' | jq '.[].title' -r
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
@@ -388,7 +388,7 @@ def darkleakmarket():
 def blackmatter():
     stdlog('parser: ' + 'blackmatter')
     parser = '''
-    grep '<h4 class="post-announce-name" title="' source/blackmatter-*.html | cut -d '"' -f4 | sort -u
+    grep '<h4 class="post-announce-name" title="' source/blackmatter-*.html --no-filename | cut -d '"' -f4 | sort -u
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
@@ -421,7 +421,7 @@ def groove():
 def bonacigroup():
     stdlog('parser: ' + 'bonacigroup')
     parser = '''
-    grep 'h5' source/bonacigroup-*.html | cut -d '>' -f 3 | cut -d '<' -f 1
+    grep 'h5' source/bonacigroup-*.html --no-filename | cut -d '>' -f 3 | cut -d '<' -f 1
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
@@ -432,7 +432,7 @@ def bonacigroup():
 def karma():
     stdlog('parser: ' + 'karma')
     parser = '''
-    grep "h2" source/karma-*.html | cut -d '>' -f 3 | cut -d '<' -f 1 | sed '/^$/d'
+    grep "h2" source/karma-*.html --no-filename | cut -d '>' -f 3 | cut -d '<' -f 1 | sed '/^$/d'
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
@@ -509,7 +509,7 @@ def five4bb47h():
 def midas():
     stdlog('parser: ' + 'midas')
     parser = '''
-    grep "/h3" source/midas-*.html | sed -e 's/<\/h3>//' -e 's/^ *//g' -e '/^$/d' -e 's/^ *//g' -e 's/[[:space:]]*$//' -e '/^$/d'
+    grep "/h3" source/midas-*.html --no-filename | sed -e 's/<\/h3>//' -e 's/^ *//g' -e '/^$/d' -e 's/^ *//g' -e 's/[[:space:]]*$//' -e '/^$/d'
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
@@ -531,7 +531,7 @@ def snatch():
 def robinhood():
     stdlog('parser: ' + 'robinhood')
     parser = '''
-    grep '<h2 class="title"' source/robinhood-*.html | cut -d '>' -f 3 | cut -d '<' -f 1
+    grep '<h2 class="title"' source/robinhood-*.html --no-filename | cut -d '>' -f 3 | cut -d '<' -f 1
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
@@ -564,7 +564,7 @@ def rook():
 def cryp70n1c0d3():
     stdlog('parser: ' + 'cryp70n1c0d3')
     parser = '''
-    grep 'class="selection">' source/cryp70n1c0d3-*.html | cut -d '>' -f 2 | cut -d '<' -f 1 | sed -e '/\$/d' -e '/OPEN/d' -e '/BID/d' -e '/CLOSED/d' -e '/SALE/d'
+    grep 'class="selection">' source/cryp70n1c0d3-*.html --no-filename | cut -d '>' -f 2 | cut -d '<' -f 1 | sed -e '/\$/d' -e '/OPEN/d' -e '/BID/d' -e '/CLOSED/d' -e '/SALE/d'
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
@@ -586,7 +586,7 @@ def blackshadow():
 def mosesstaff():
     stdlog('parser: ' + 'mosesstaff')
     parser = '''
-    grep '<h2 class="entry-title">' source/moses-moses-staff.html -A 3 | grep '</a>' | sed 's/^ *//g' | cut -d '<' -f 1 | sed 's/[[:space:]]*$//'
+    grep '<h2 class="entry-title">' source/moses-moses-staff.html -A 3 --no-filename | grep '</a>' | sed 's/^ *//g' | cut -d '<' -f 1 | sed 's/[[:space:]]*$//'
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
