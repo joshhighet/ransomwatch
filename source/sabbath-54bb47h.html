@@ -1,0 +1,292 @@
+
+<!doctype html>
+<html lang="en-US">
+<head>
+	
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5, viewport-fit=cover">
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+
+	<title>54bb47h blog &#8211; Data leak blog</title>
+<meta name='robots' content='max-image-preview:large' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="54bb47h blog &raquo; Feed" href="http://54bb47h.blog/feed/" />
+<link rel="alternate" type="application/rss+xml" title="54bb47h blog &raquo; Comments Feed" href="http://54bb47h.blog/comments/feed/" />
+<link rel='stylesheet' id='blocksy-dynamic-global-css'  href='http://54bb47h.blog/wp-content/uploads/blocksy/css/global.css?ver=15915' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='http://54bb47h.blog/wp-includes/css/dist/block-library/style.min.css?ver=5.8.2' media='all' />
+<link rel='stylesheet' id='ct-main-styles-css'  href='http://54bb47h.blog/wp-content/themes/blocksy/static/bundle/main.min.css?ver=1.8.6.8' media='all' />
+<link rel='stylesheet' id='ct-sidebar-styles-css'  href='http://54bb47h.blog/wp-content/themes/blocksy/static/bundle/sidebar.min.css?ver=1.8.6.8' media='all' />
+<link rel="https://api.w.org/" href="http://54bb47h.blog/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://54bb47h.blog/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://54bb47h.blog/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.8.2" />
+<!-- Analytics by WP-Statistics v13.1.2 - https://wp-statistics.com/ -->
+<noscript><link rel='stylesheet' href='http://54bb47h.blog/wp-content/themes/blocksy/static/bundle/no-scripts.min.css' type='text/css' /></noscript>
+	</head>
+
+<body class="home blog wp-custom-logo wp-embed-responsive ct-loading" data-link="type-2" data-prefix="blog" data-header="type-1" data-footer="type-1" >
+
+<a class="skip-link show-on-focus" href="#main">
+	Skip to content</a>
+
+
+<div id="main-container">
+	<header id="header" class="ct-header" data-id="type-1" itemscope="" itemtype="https://schema.org/WPHeader" ><div data-device="desktop" ><div data-row="middle" data-column-set="2" ><div class="ct-container" ><div data-column="start" data-placements="1" ><div data-items="primary" >
+<div	class="site-branding"
+	data-id="logo" 	data-logo="left"	itemscope="itemscope" itemtype="https://schema.org/Organization" >
+
+			<a href="http://54bb47h.blog/" class="site-logo-container" rel="home"><img width="100" height="100" src="http://54bb47h.blog/wp-content/uploads/2021/11/logo.svg" class="default-logo" alt="54bb47h blog" /></a>	
+			<div class="site-title-container">
+							<span class="site-title " itemprop="name" >
+					<a href="http://54bb47h.blog/" rel="home" itemprop="url" >
+						54bb47h BLOG					</a>
+				</span>
+			
+					</div>
+	  </div>
+
+</div></div><div data-column="end" data-placements="1" ><div data-items="primary" >
+<nav
+	id="header-menu-1"
+	class="header-menu-1"
+	data-id="menu" 	data-menu="type-2:center"
+	data-dropdown="type-1:simple"		data-responsive="no"	itemscope="" itemtype="http://schema.org/SiteNavigationElement" >
+
+	</nav>
+
+
+<a href="#search-modal"
+	class="ct-header-search "
+	aria-label="Search"
+	data-label="left"
+	data-id="search" >
+
+	<span class="ct-label ct-hidden-sm ct-hidden-md ct-hidden-lg">Search</span>
+
+	<svg class="ct-icon" width="15" height="15" viewBox="0 0 15 15">
+		<title>Search header icon</title>
+		<path d="M14.8,13.7L12,11c0.9-1.2,1.5-2.6,1.5-4.2c0-3.7-3-6.8-6.8-6.8S0,3,0,6.8s3,6.8,6.8,6.8c1.6,0,3.1-0.6,4.2-1.5l2.8,2.8c0.1,0.1,0.3,0.2,0.5,0.2s0.4-0.1,0.5-0.2C15.1,14.5,15.1,14,14.8,13.7z M1.5,6.8c0-2.9,2.4-5.2,5.2-5.2S12,3.9,12,6.8S9.6,12,6.8,12S1.5,9.6,1.5,6.8z"/>
+	</svg>
+</a>
+</div></div></div></div></div><div data-device="mobile" ><div data-row="middle" data-column-set="2" ><div class="ct-container" ><div data-column="start" data-placements="1" ><div data-items="primary" >
+<div	class="site-branding"
+	data-id="logo" 	data-logo="left"	itemscope="itemscope" itemtype="https://schema.org/Organization" >
+
+			<a href="http://54bb47h.blog/" class="site-logo-container" rel="home"><img width="100" height="100" src="http://54bb47h.blog/wp-content/uploads/2021/11/logo.svg" class="default-logo" alt="54bb47h blog" /></a>	
+			<div class="site-title-container">
+							<span class="site-title " itemprop="name" >
+					<a href="http://54bb47h.blog/" rel="home" itemprop="url" >
+						54bb47h BLOG					</a>
+				</span>
+			
+					</div>
+	  </div>
+
+</div></div><div data-column="end" data-placements="1" ><div data-items="primary" >
+<a
+	href="#offcanvas"
+	class="ct-header-trigger"
+	data-design="simple"
+	data-label="right"
+	aria-label="Menu"
+	data-id="trigger" >
+
+	<span class="ct-label ct-hidden-sm ct-hidden-md ct-hidden-lg">Menu</span>
+
+	<svg
+		class="ct-trigger ct-icon"
+		width="18" height="14" viewBox="0 0 18 14"
+		aria-label="Off-canvas trigger icon"
+		data-type="type-1">
+
+		<rect y="0.00" width="18" height="1.7" rx="1"/>
+		<rect y="6.15" width="18" height="1.7" rx="1"/>
+		<rect y="12.3" width="18" height="1.7" rx="1"/>
+	</svg>
+
+</a>
+</div></div></div></div></div></header>
+	<main id="main" class="site-main hfeed" itemscope="itemscope" itemtype="https://schema.org/CreativeWork" >
+
+		
+<div class="ct-container" data-sidebar="right" data-vertical-spacing="top:bottom">
+
+	<section >
+		<div class="entries" data-layout="enhanced-grid" data-cards="boxed"   ><article id="post-72" class="entry-card post-72 post type-post status-publish format-standard has-post-thumbnail hentry category-data-leak" data-reveal="bottom:no"><ul class="entry-meta" data-type="simple:slash"  ><li class="meta-categories" data-type="simple"><a href="http://54bb47h.blog/category/data-leak/" rel="tag" class="ct-term-2" >Data leak</a></li></ul>
+	<h2 class="entry-title">
+		<a href="http://54bb47h.blog/social-enterprise-sec/">
+			Social Enterprise (SEC)		</a>
+	</h2>
+
+	<a class="ct-image-container boundless-image ct-lazy" href="http://54bb47h.blog/social-enterprise-sec/" aria-label="Social Enterprise (SEC)" tabindex="-1"><img width="296" height="142" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" data-ct-lazy="http://54bb47h.blog/wp-content/uploads/2021/12/sec_logo.png" data-object-fit="~" itemprop="image" /><noscript><img width="296" height="142" src="http://54bb47h.blog/wp-content/uploads/2021/12/sec_logo.png" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" /></noscript><span class="ct-ratio" style="padding-bottom: 75%"></span></a>
+	<div class="entry-excerpt">
+		<p>A cyberattack was carried out on the Social Enterprise (SEC / www.socialenterprise.ca) domain. As a result, the entire internal network was disabled, and valuable personal, financial and other data was leaked.Being a leader in the field of social enterprises, the…</p>
+	</div>
+
+	<div class="ct-ghost"></div><ul class="entry-meta" data-type="simple:slash"  ><li class="meta-author" itemprop="author" itemscope="" itemtype="https://schema.org/Person" ><a class="ct-meta-element-author" href="http://54bb47h.blog/author/iw1hah5agh6cielowail/" title="Posts by 54bb47h team" rel="author" itemprop="url" ><span itemprop="name" >54bb47h team</span></a></li><li class="meta-date" itemprop="datePublished" ><time class="ct-meta-element-date" datetime="2021-12-12T14:08:23+00:00" >December 12, 2021</time></li><li class="meta-comments"><a href="http://54bb47h.blog/social-enterprise-sec/#comments">2 Comments</a></li></ul></article><article id="post-67" class="entry-card post-67 post type-post status-publish format-standard has-post-thumbnail hentry category-data-leak tag-trigyn tag-54bb47h tag-data tag-leak" data-reveal="bottom:no"><ul class="entry-meta" data-type="simple:slash"  ><li class="meta-categories" data-type="simple"><a href="http://54bb47h.blog/category/data-leak/" rel="tag" class="ct-term-2" >Data leak</a></li></ul>
+	<h2 class="entry-title">
+		<a href="http://54bb47h.blog/trigyn-technologies-ltd/">
+			Trigyn Technologies Ltd		</a>
+	</h2>
+
+	<a class="ct-image-container boundless-image ct-lazy" href="http://54bb47h.blog/trigyn-technologies-ltd/" aria-label="Trigyn Technologies Ltd" tabindex="-1"><img width="600" height="450" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" sizes="(max-width: 600px) 100vw, 600px" data-ct-lazy="http://54bb47h.blog/wp-content/uploads/2021/12/Trigyn_Technologies_1_lBU0Ov9.jpg" data-ct-lazy-set="http://54bb47h.blog/wp-content/uploads/2021/12/Trigyn_Technologies_1_lBU0Ov9.jpg 600w, http://54bb47h.blog/wp-content/uploads/2021/12/Trigyn_Technologies_1_lBU0Ov9-300x225.jpg 300w" data-object-fit="~" itemprop="image" /><noscript><img width="600" height="450" src="http://54bb47h.blog/wp-content/uploads/2021/12/Trigyn_Technologies_1_lBU0Ov9.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" srcset="http://54bb47h.blog/wp-content/uploads/2021/12/Trigyn_Technologies_1_lBU0Ov9.jpg 600w, http://54bb47h.blog/wp-content/uploads/2021/12/Trigyn_Technologies_1_lBU0Ov9-300x225.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></noscript><span class="ct-ratio" style="padding-bottom: 75%"></span></a>
+	<div class="entry-excerpt">
+		<p>Trigyn Technologies Limited is a software development company. The Company provides custom engineered software solutions, consulting assignments, and software migration and maintenance services. Trigyn provides computer software for the telecommunications, financial services, and E-business sectors.We bring this news to partners,…</p>
+	</div>
+
+	<div class="ct-ghost"></div><ul class="entry-meta" data-type="simple:slash"  ><li class="meta-author" itemprop="author" itemscope="" itemtype="https://schema.org/Person" ><a class="ct-meta-element-author" href="http://54bb47h.blog/author/iw1hah5agh6cielowail/" title="Posts by 54bb47h team" rel="author" itemprop="url" ><span itemprop="name" >54bb47h team</span></a></li><li class="meta-date" itemprop="datePublished" ><time class="ct-meta-element-date" datetime="2021-12-10T12:12:56+00:00" >December 10, 2021</time></li></ul></article><article id="post-60" class="entry-card post-60 post type-post status-publish format-standard has-post-thumbnail hentry category-data-leak tag-54bb47h tag-data tag-leak tag-mcpsrvsllc" data-reveal="bottom:no"><ul class="entry-meta" data-type="simple:slash"  ><li class="meta-categories" data-type="simple"><a href="http://54bb47h.blog/category/data-leak/" rel="tag" class="ct-term-2" >Data leak</a></li></ul>
+	<h2 class="entry-title">
+		<a href="http://54bb47h.blog/mcp-services-llc/">
+			MCP Services LLC		</a>
+	</h2>
+
+	<a class="ct-image-container boundless-image ct-lazy" href="http://54bb47h.blog/mcp-services-llc/" aria-label="MCP Services LLC" tabindex="-1"><img width="640" height="418" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" sizes="(max-width: 640px) 100vw, 640px" data-ct-lazy="http://54bb47h.blog/wp-content/uploads/2021/11/mcp.jpg" data-ct-lazy-set="http://54bb47h.blog/wp-content/uploads/2021/11/mcp.jpg 640w, http://54bb47h.blog/wp-content/uploads/2021/11/mcp-300x196.jpg 300w" data-object-fit="~" itemprop="image" /><noscript><img width="640" height="418" src="http://54bb47h.blog/wp-content/uploads/2021/11/mcp.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" srcset="http://54bb47h.blog/wp-content/uploads/2021/11/mcp.jpg 640w, http://54bb47h.blog/wp-content/uploads/2021/11/mcp-300x196.jpg 300w" sizes="(max-width: 640px) 100vw, 640px" /></noscript><span class="ct-ratio" style="padding-bottom: 75%"></span></a>
+	<div class="entry-excerpt">
+		<p>MCP Services LLC (mcpsrvs.com) . MC Industries LLC: Mission Clay Products LLC Manufacturer of vitrified clay pipe. Building Products Company LLC Clay Pipe, Phoenix Arizona MCPU Polymer Engineering LLC Manufacturer of urethane products Athletic Polymer Systems Inc. The domain family…</p>
+	</div>
+
+	<div class="ct-ghost"></div><ul class="entry-meta" data-type="simple:slash"  ><li class="meta-author" itemprop="author" itemscope="" itemtype="https://schema.org/Person" ><a class="ct-meta-element-author" href="http://54bb47h.blog/author/iw1hah5agh6cielowail/" title="Posts by 54bb47h team" rel="author" itemprop="url" ><span itemprop="name" >54bb47h team</span></a></li><li class="meta-date" itemprop="datePublished" ><time class="ct-meta-element-date" datetime="2021-11-19T13:06:15+00:00" >November 19, 2021</time></li></ul></article><article id="post-52" class="entry-card post-52 post type-post status-publish format-standard has-post-thumbnail hentry category-data-leak tag-54bb47h tag-data tag-leak tag-roc tag-roctechnologies" data-reveal="bottom:no"><ul class="entry-meta" data-type="simple:slash"  ><li class="meta-categories" data-type="simple"><a href="http://54bb47h.blog/category/data-leak/" rel="tag" class="ct-term-2" >Data leak</a></li></ul>
+	<h2 class="entry-title">
+		<a href="http://54bb47h.blog/roctechnologies/">
+			RocTechnologies		</a>
+	</h2>
+
+	<a class="ct-image-container boundless-image ct-lazy" href="http://54bb47h.blog/roctechnologies/" aria-label="RocTechnologies" tabindex="-1"><img width="768" height="480" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" sizes="(max-width: 768px) 100vw, 768px" data-ct-lazy="http://54bb47h.blog/wp-content/uploads/2021/11/ukk-768x480.jpg" data-ct-lazy-set="http://54bb47h.blog/wp-content/uploads/2021/11/ukk-768x480.jpg 768w, http://54bb47h.blog/wp-content/uploads/2021/11/ukk-300x187.jpg 300w, http://54bb47h.blog/wp-content/uploads/2021/11/ukk-1024x640.jpg 1024w, http://54bb47h.blog/wp-content/uploads/2021/11/ukk.jpg 1205w" data-object-fit="~" itemprop="image" /><noscript><img width="768" height="480" src="http://54bb47h.blog/wp-content/uploads/2021/11/ukk-768x480.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" srcset="http://54bb47h.blog/wp-content/uploads/2021/11/ukk-768x480.jpg 768w, http://54bb47h.blog/wp-content/uploads/2021/11/ukk-300x187.jpg 300w, http://54bb47h.blog/wp-content/uploads/2021/11/ukk-1024x640.jpg 1024w, http://54bb47h.blog/wp-content/uploads/2021/11/ukk.jpg 1205w" sizes="(max-width: 768px) 100vw, 768px" /></noscript><span class="ct-ratio" style="padding-bottom: 75%"></span></a>
+	<div class="entry-excerpt">
+		<p>Roc Technologies (roctechnologies.com) are an IT solution and services provider delivering business transformation through unique process-led approach. They are solutions are built upon project management, process optimisation, platform solutions and managed services. The network of a leading company in the…</p>
+	</div>
+
+	<div class="ct-ghost"></div><ul class="entry-meta" data-type="simple:slash"  ><li class="meta-author" itemprop="author" itemscope="" itemtype="https://schema.org/Person" ><a class="ct-meta-element-author" href="http://54bb47h.blog/author/iw1hah5agh6cielowail/" title="Posts by 54bb47h team" rel="author" itemprop="url" ><span itemprop="name" >54bb47h team</span></a></li><li class="meta-date" itemprop="datePublished" ><time class="ct-meta-element-date" datetime="2021-11-19T11:42:08+00:00" >November 19, 2021</time></li></ul></article><article id="post-47" class="entry-card post-47 post type-post status-publish format-standard has-post-thumbnail hentry category-data-leak tag-54bb47h tag-data tag-leak tag-starline" data-reveal="bottom:no"><ul class="entry-meta" data-type="simple:slash"  ><li class="meta-categories" data-type="simple"><a href="http://54bb47h.blog/category/data-leak/" rel="tag" class="ct-term-2" >Data leak</a></li></ul>
+	<h2 class="entry-title">
+		<a href="http://54bb47h.blog/starline/">
+			Starline		</a>
+	</h2>
+
+	<a class="ct-image-container boundless-image ct-lazy" href="http://54bb47h.blog/starline/" aria-label="Starline" tabindex="-1"><img width="720" height="504" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" sizes="(max-width: 720px) 100vw, 720px" data-ct-lazy="http://54bb47h.blog/wp-content/uploads/2021/11/external-content.duckduck77777go.com_.jpg" data-ct-lazy-set="http://54bb47h.blog/wp-content/uploads/2021/11/external-content.duckduck77777go.com_.jpg 720w, http://54bb47h.blog/wp-content/uploads/2021/11/external-content.duckduck77777go.com_-300x210.jpg 300w" data-object-fit="~" itemprop="image" /><noscript><img width="720" height="504" src="http://54bb47h.blog/wp-content/uploads/2021/11/external-content.duckduck77777go.com_.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" srcset="http://54bb47h.blog/wp-content/uploads/2021/11/external-content.duckduck77777go.com_.jpg 720w, http://54bb47h.blog/wp-content/uploads/2021/11/external-content.duckduck77777go.com_-300x210.jpg 300w" sizes="(max-width: 720px) 100vw, 720px" /></noscript><span class="ct-ratio" style="padding-bottom: 75%"></span></a>
+	<div class="entry-excerpt">
+		<p>Starline Supply (starlinesupply.com) is the supplier of choice for school districts, office buildings, state and federal accounts, health care, and cleaning professionals. They are provide quality products and personalized service at a competitive price. The company did not want to…</p>
+	</div>
+
+	<div class="ct-ghost"></div><ul class="entry-meta" data-type="simple:slash"  ><li class="meta-author" itemprop="author" itemscope="" itemtype="https://schema.org/Person" ><a class="ct-meta-element-author" href="http://54bb47h.blog/author/iw1hah5agh6cielowail/" title="Posts by 54bb47h team" rel="author" itemprop="url" ><span itemprop="name" >54bb47h team</span></a></li><li class="meta-date" itemprop="datePublished" ><time class="ct-meta-element-date" datetime="2021-11-19T10:35:26+00:00" >November 19, 2021</time></li></ul></article><article id="post-38" class="entry-card post-38 post type-post status-publish format-standard has-post-thumbnail hentry category-data-leak tag-54bb47h tag-aisd tag-allen-isd tag-data tag-leak" data-reveal="bottom:no"><ul class="entry-meta" data-type="simple:slash"  ><li class="meta-categories" data-type="simple"><a href="http://54bb47h.blog/category/data-leak/" rel="tag" class="ct-term-2" >Data leak</a></li></ul>
+	<h2 class="entry-title">
+		<a href="http://54bb47h.blog/aisd/">
+			AISD		</a>
+	</h2>
+
+	<a class="ct-image-container boundless-image ct-lazy" href="http://54bb47h.blog/aisd/" aria-label="AISD" tabindex="-1"><img width="532" height="354" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" sizes="(max-width: 532px) 100vw, 532px" data-ct-lazy="http://54bb47h.blog/wp-content/uploads/2021/11/Screen-Shot-2021-10-07-at-8.23.38-PM.webp" data-ct-lazy-set="http://54bb47h.blog/wp-content/uploads/2021/11/Screen-Shot-2021-10-07-at-8.23.38-PM.webp 532w, http://54bb47h.blog/wp-content/uploads/2021/11/Screen-Shot-2021-10-07-at-8.23.38-PM-300x200.webp 300w" data-object-fit="~" itemprop="image" /><noscript><img width="532" height="354" src="http://54bb47h.blog/wp-content/uploads/2021/11/Screen-Shot-2021-10-07-at-8.23.38-PM.webp" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" srcset="http://54bb47h.blog/wp-content/uploads/2021/11/Screen-Shot-2021-10-07-at-8.23.38-PM.webp 532w, http://54bb47h.blog/wp-content/uploads/2021/11/Screen-Shot-2021-10-07-at-8.23.38-PM-300x200.webp 300w" sizes="(max-width: 532px) 100vw, 532px" /></noscript><span class="ct-ratio" style="padding-bottom: 75%"></span></a>
+	<div class="entry-excerpt">
+		<p>Allen ISD is a nationally recognized public school district providing outstanding educational opportunities for elementary and secondary students. The award-winning district serves the majority of the city of Allen, Texas, as well as sections of Parker and McKinney. The suburban…</p>
+	</div>
+
+	<div class="ct-ghost"></div><ul class="entry-meta" data-type="simple:slash"  ><li class="meta-author" itemprop="author" itemscope="" itemtype="https://schema.org/Person" ><a class="ct-meta-element-author" href="http://54bb47h.blog/author/iw1hah5agh6cielowail/" title="Posts by 54bb47h team" rel="author" itemprop="url" ><span itemprop="name" >54bb47h team</span></a></li><li class="meta-date" itemprop="datePublished" ><time class="ct-meta-element-date" datetime="2021-11-18T10:14:39+00:00" >November 18, 2021</time></li></ul></article><article id="post-30" class="entry-card post-30 post type-post status-publish format-standard has-post-thumbnail hentry category-data-leak tag-54bb47h tag-data tag-stoningtonschool" data-reveal="bottom:no"><ul class="entry-meta" data-type="simple:slash"  ><li class="meta-categories" data-type="simple"><a href="http://54bb47h.blog/category/data-leak/" rel="tag" class="ct-term-2" >Data leak</a></li></ul>
+	<h2 class="entry-title">
+		<a href="http://54bb47h.blog/stoningtonschools/">
+			Stoningtonschools		</a>
+	</h2>
+
+	<a class="ct-image-container boundless-image ct-lazy" href="http://54bb47h.blog/stoningtonschools/" aria-label="Stoningtonschools" tabindex="-1"><img width="252" height="246" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" data-ct-lazy="http://54bb47h.blog/wp-content/uploads/2021/11/Stonington_Seal.svg" data-object-fit="~" itemprop="image" /><noscript><img width="252" height="246" src="http://54bb47h.blog/wp-content/uploads/2021/11/Stonington_Seal.svg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" /></noscript><span class="ct-ratio" style="padding-bottom: 75%"></span></a>
+	<div class="entry-excerpt">
+		<p>District is comprised of four schools that serve approximately 2020 students from across the Stonington community including the borough of Stonington, the villages of Pawcatuck, Lord’s Point, and Wequetequock, and the eastern halves of Mystic and Old Mystic. The two…</p>
+	</div>
+
+	<div class="ct-ghost"></div><ul class="entry-meta" data-type="simple:slash"  ><li class="meta-author" itemprop="author" itemscope="" itemtype="https://schema.org/Person" ><a class="ct-meta-element-author" href="http://54bb47h.blog/author/iw1hah5agh6cielowail/" title="Posts by 54bb47h team" rel="author" itemprop="url" ><span itemprop="name" >54bb47h team</span></a></li><li class="meta-date" itemprop="datePublished" ><time class="ct-meta-element-date" datetime="2021-11-18T10:03:52+00:00" >November 18, 2021</time></li></ul></article><article id="post-20" class="entry-card post-20 post type-post status-publish format-standard has-post-thumbnail hentry category-data-leak tag-54bb47h tag-data tag-flagship tag-leak" data-reveal="bottom:no"><ul class="entry-meta" data-type="simple:slash"  ><li class="meta-categories" data-type="simple"><a href="http://54bb47h.blog/category/data-leak/" rel="tag" class="ct-term-2" >Data leak</a></li></ul>
+	<h2 class="entry-title">
+		<a href="http://54bb47h.blog/flagship/">
+			Flagship		</a>
+	</h2>
+
+	<a class="ct-image-container boundless-image ct-lazy" href="http://54bb47h.blog/flagship/" aria-label="Flagship" tabindex="-1"><img width="251" height="103" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" data-ct-lazy="http://54bb47h.blog/wp-content/uploads/2021/11/fcg.webp" data-object-fit="~" itemprop="image" /><noscript><img width="251" height="103" src="http://54bb47h.blog/wp-content/uploads/2021/11/fcg.webp" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" /></noscript><span class="ct-ratio" style="padding-bottom: 75%"></span></a>
+	<div class="entry-excerpt">
+		<p>Flagship Companies Group, LLC (“Flagship”), is a diverse real estate and investment company with interests in&nbsp;residential and commercial real estate, self-storage, studio salons, and green energy. Company www.flagshipcompaniesgroup.com does not care about the safety of its employees. Having refused to…</p>
+	</div>
+
+	<div class="ct-ghost"></div><ul class="entry-meta" data-type="simple:slash"  ><li class="meta-author" itemprop="author" itemscope="" itemtype="https://schema.org/Person" ><a class="ct-meta-element-author" href="http://54bb47h.blog/author/iw1hah5agh6cielowail/" title="Posts by 54bb47h team" rel="author" itemprop="url" ><span itemprop="name" >54bb47h team</span></a></li><li class="meta-date" itemprop="datePublished" ><time class="ct-meta-element-date" datetime="2021-11-18T09:34:05+00:00" >November 18, 2021</time></li></ul></article></div>	</section>
+
+	
+	<aside
+		class="ct-hidden-sm ct-hidden-md"		data-type="type-1"
+		id="sidebar"
+				itemtype="https://schema.org/WPSideBar" itemscope="itemscope" >
+
+		
+		<div
+			class="ct-sidebar" 			>
+			
+			<div class="ct-widget widget_block widget_search" id="block-2"><form role="search" method="get" action="http://54bb47h.blog/" class="wp-block-search__button-outside wp-block-search__text-button wp-block-search"><label for="wp-block-search__input-1" class="wp-block-search__label">Search</label><div class="wp-block-search__inside-wrapper"><input type="search" id="wp-block-search__input-1" class="wp-block-search__input" name="s" value="" placeholder=""  required /><button type="submit" class="wp-block-search__button ">Search</button></div></form></div><div class="ct-widget widget_block" id="block-3"><div class="wp-block-group"><div class="wp-block-group__inner-container"><h2>Recent Posts</h2><ul class="wp-block-latest-posts__list wp-block-latest-posts"><li><a href="http://54bb47h.blog/social-enterprise-sec/">Social Enterprise (SEC)</a></li>
+<li><a href="http://54bb47h.blog/trigyn-technologies-ltd/">Trigyn Technologies Ltd</a></li>
+<li><a href="http://54bb47h.blog/mcp-services-llc/">MCP Services LLC</a></li>
+<li><a href="http://54bb47h.blog/roctechnologies/">RocTechnologies</a></li>
+<li><a href="http://54bb47h.blog/starline/">Starline</a></li>
+</ul></div></div></div><div class="ct-widget widget_block" id="block-4"><div class="wp-block-group"><div class="wp-block-group__inner-container"><h2>Recent Comments</h2><ol class="wp-block-latest-comments"><li class="wp-block-latest-comments__comment"><article><footer class="wp-block-latest-comments__comment-meta"><a class="wp-block-latest-comments__comment-author" href="http://54bb47h.com">54bb47h team</a> on <a class="wp-block-latest-comments__comment-link" href="http://54bb47h.blog/social-enterprise-sec/#comment-7">Social Enterprise (SEC)</a></footer></article></li><li class="wp-block-latest-comments__comment"><article><footer class="wp-block-latest-comments__comment-meta"><span class="wp-block-latest-comments__comment-author">AB</span> on <a class="wp-block-latest-comments__comment-link" href="http://54bb47h.blog/social-enterprise-sec/#comment-5">Social Enterprise (SEC)</a></footer></article></li></ol></div></div></div><div class="ct-widget widget_block" id="block-5"><div class="wp-block-group"><div class="wp-block-group__inner-container"><h2>Archives</h2><ul class=" wp-block-archives-list wp-block-archives">	<li><a href='http://54bb47h.blog/2021/12/'>December 2021</a></li>
+	<li><a href='http://54bb47h.blog/2021/11/'>November 2021</a></li>
+</ul></div></div></div><div class="ct-widget widget_block" id="block-6"><div class="wp-block-group"><div class="wp-block-group__inner-container"><h2>Categories</h2><ul class="wp-block-categories-list wp-block-categories">	<li class="cat-item cat-item-2"><a href="http://54bb47h.blog/category/data-leak/">Data leak</a>
+</li>
+</ul></div></div></div>
+					</div>
+
+			</aside>
+
+	</div>
+
+	</main>
+
+	<footer class="ct-footer" data-id="type-1" itemscope="" itemtype="https://schema.org/WPFooter" ></footer></div>
+
+<div class="ct-drawer-canvas">
+		<div id="search-modal" class="ct-panel" data-behaviour="modal">
+			<div class="ct-panel-actions">
+				<span class="ct-close-button" data-type="type-1">
+					<svg class="ct-icon" width="12" height="12" viewBox="0 0 15 15">
+						<path d="M1 15a1 1 0 01-.71-.29 1 1 0 010-1.41l5.8-5.8-5.8-5.8A1 1 0 011.7.29l5.8 5.8 5.8-5.8a1 1 0 011.41 1.41l-5.8 5.8 5.8 5.8a1 1 0 01-1.41 1.41l-5.8-5.8-5.8 5.8A1 1 0 011 15z"/>
+					</svg>
+				</span>
+			</div>
+
+			<div class="ct-panel-content">
+				
+
+<form
+	role="search" method="get"
+	class="search-form"
+	action="http://54bb47h.blog"
+	data-live-results="thumbs">
+
+	<input type="search" class="modal-field" placeholder="Search" value="" name="s" autocomplete="off" title="Search Input" />
+
+	<button type="submit" class="search-submit" aria-label="Search button">
+		<svg class="ct-icon" width="15" height="15" viewBox="0 0 15 15">
+			<title>Search icon</title>
+			<path d="M14.8,13.7L12,11c0.9-1.2,1.5-2.6,1.5-4.2c0-3.7-3-6.8-6.8-6.8S0,3,0,6.8s3,6.8,6.8,6.8c1.6,0,3.1-0.6,4.2-1.5l2.8,2.8c0.1,0.1,0.3,0.2,0.5,0.2s0.4-0.1,0.5-0.2C15.1,14.5,15.1,14,14.8,13.7z M1.5,6.8c0-2.9,2.4-5.2,5.2-5.2S12,3.9,12,6.8S9.6,12,6.8,12S1.5,9.6,1.5,6.8z"/>
+		</svg>
+
+		<span data-loader="circles"><span></span><span></span><span></span></span>
+	</button>
+
+	
+			<input type="hidden" name="ct_post_type" value="post:page">
+	
+</form>
+
+
+			</div>
+		</div>
+
+		<div id="offcanvas" class="ct-panel ct-header" data-behaviour="right-side" ><div class="ct-panel-inner">
+		<div class="ct-panel-actions">
+			<span class="ct-close-button" data-type="type-1">
+				<svg class="ct-icon" width="12" height="12" viewBox="0 0 15 15">
+					<path d="M1 15a1 1 0 01-.71-.29 1 1 0 010-1.41l5.8-5.8-5.8-5.8A1 1 0 011.7.29l5.8 5.8 5.8-5.8a1 1 0 011.41 1.41l-5.8 5.8 5.8 5.8a1 1 0 01-1.41 1.41l-5.8-5.8-5.8 5.8A1 1 0 011 15z"/>
+				</svg>
+			</span>
+		</div>
+		<div class="ct-panel-content" data-device="desktop" ></div><div class="ct-panel-content" data-device="mobile" >
+<nav class="mobile-menu" data-id="mobile-menu" data-type="type-1:interactive" >
+	</nav>
+
+</div></div></div></div><script id='ct-scripts-js-extra'>
+var ct_localizations = {"ajax_url":"http:\/\/54bb47h.blog\/wp-admin\/admin-ajax.php","nonce":"ad69639562","public_url":"http:\/\/54bb47h.blog\/wp-content\/themes\/blocksy\/static\/bundle\/","rest_url":"http:\/\/54bb47h.blog\/wp-json\/","search_url":"http:\/\/54bb47h.blog\/search\/QUERY_STRING\/","show_more_text":"Show more","more_text":"More","dynamic_js_chunks":[{"id":"blocksy_account","selector":".ct-header-account[href*=\"account-modal\"], .must-log-in a","url":"http:\/\/54bb47h.blog\/wp-content\/plugins\/blocksy-companion\/static\/bundle\/account.js","trigger":"click"},{"id":"blocksy_dark_mode","selector":"[data-id=\"dark-mode-switcher\"]","url":"http:\/\/54bb47h.blog\/wp-content\/plugins\/blocksy-companion\/static\/bundle\/dark-mode.js","trigger":"click"},{"id":"blocksy_sticky_header","selector":"header [data-sticky]","url":"http:\/\/54bb47h.blog\/wp-content\/plugins\/blocksy-companion\/static\/bundle\/sticky.js"},{"id":"blocksy_lazy_load","selector":".ct-lazy[class*=\"ct-image\"]","url":"http:\/\/54bb47h.blog\/wp-content\/themes\/blocksy\/static\/bundle\/lazy-load.js"}],"dynamic_styles":{"lazy_load":"http:\/\/54bb47h.blog\/wp-content\/themes\/blocksy\/static\/bundle\/lazy-load.min.css","search_lazy":"http:\/\/54bb47h.blog\/wp-content\/themes\/blocksy\/static\/bundle\/search-lazy.min.css"},"dynamic_styles_selectors":[{"selector":".ct-panel","url":"http:\/\/54bb47h.blog\/wp-content\/themes\/blocksy\/static\/bundle\/off-canvas.min.css"}]};
+</script>
+<script src='http://54bb47h.blog/wp-content/themes/blocksy/static/bundle/main.js?ver=1.8.6.8' id='ct-scripts-js'></script>
+<script src='http://54bb47h.blog/wp-includes/js/wp-embed.min.js?ver=5.8.2' id='wp-embed-js'></script>
+
+</body>
+</html>
