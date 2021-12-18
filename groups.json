@@ -2001,16 +2001,16 @@
     {
         "name": "cryp70n1c0d3",
         "captcha": false,
-        "parser": false,
+        "parser": true,
         "geckodriver": false,
         "javascript_render": false,
-        "meta": null,
+        "meta": "not a ransomware group",
         "locations": [
             {
                 "fqdn": "7k4yyskpz3rxq5nyokf6ztbpywzbjtdfanweup3skctcxopmt7tq7eid.onion",
                 "title": "|*| CRYP70N1C0D3 Team |*|",
                 "version": 3,
-                "slug": "http://7k4yyskpz3rxq5nyokf6ztbpywzbjtdfanweup3skctcxopmt7tq7eid.onion",
+                "slug": "http://7k4yyskpz3rxq5nyokf6ztbpywzbjtdfanweup3skctcxopmt7tq7eid.onion/databases.html",
                 "available": true,
                 "updated": "2021-12-18 14:10:33.070267",
                 "lastscrape": "2021-12-18 14:10:33.070256"

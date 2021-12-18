@@ -134,17 +134,15 @@ def lockbit2():
 
 '''
 used to fetch the description of a lb2 post - not used
-'''    
 def lockbit2desc():
     stdlog('parser: ' + 'lockbit2desc')
-    parser = '''
-    sed -n '/post-block-text/{n;p;}' source/lockbit2-*.html | sed '/^</d' | cut -d "<" -f1
-    '''
+    # sed -n '/post-block-text/{n;p;}' source/lockbit2-*.html | sed '/^</d' | cut -d "<" -f1
     posts = runshellcmd(parser)
     if len(posts) == 1:
         errlog('lockbit2: ' + 'parsing fail')
     for post in posts:
         appender(post, 'lockbit2')
+'''
 
 def arvinclub():
     stdlog('parser: ' + 'arvinclub')
@@ -561,3 +559,14 @@ def rook():
         errlog('rook: ' + 'parsing fail')
     for post in posts:
         appender(post, 'rook')
+
+def cryp70n1c0d3():
+    stdlog('parser: ' + 'cryp70n1c0d3')
+    parser = '''
+    grep 'class="selection">' source/cryp70n1c0d3-*.html | cut -d '>' -f 2 | cut -d '<' -f 1 | sed -e '/\$/d' -e '/OPEN/d' -e '/BID/d' -e '/CLOSED/d' -e '/SALE/d'
+    '''
+    posts = runshellcmd(parser)
+    if len(posts) == 1:
+        errlog('cryp70n1c0d3: ' + 'parsing fail')
+    for post in posts:
+        appender(post, 'cryp70n1c0d3')
