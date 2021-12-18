@@ -582,3 +582,14 @@ def blackshadow():
         errlog('blackshadow: ' + 'parsing fail')
     for post in posts:
         appender(post, 'blackshadow')
+
+def mosesstaff():
+    stdlog('parser: ' + 'mosesstaff')
+    parser = '''
+    grep '<h2 class="entry-title">' source/moses-moses-staff.html -A 3 | grep '</a>' | sed 's/^ *//g' | cut -d '<' -f 1 | sed 's/[[:space:]]*$//'
+    '''
+    posts = runshellcmd(parser)
+    if len(posts) == 1:
+        errlog('mosesstaff: ' + 'parsing fail')
+    for post in posts:
+        appender(post, 'mosesstaff')

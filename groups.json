@@ -1802,10 +1802,10 @@
     {
         "name": "moses",
         "captcha": false,
-        "parser": false,
+        "parser": true,
         "geckodriver": false,
-        "javascript_render": false,
-        "meta": null,
+        "javascript_render": true,
+        "meta": "not a ransomware group",
         "locations": [
             {
                 "fqdn": "mosesstaffm7hptp.onion",
@@ -1818,12 +1818,12 @@
             },
             {
                 "fqdn": "moses-staff.se",
-                "title": "Your access to this site has been limited by the s",
+                "title": "Activities – Moses Staff",
                 "version": 0,
-                "slug": "http://moses-staff.se",
+                "slug": "https://moses-staff.se/activities/",
                 "available": true,
-                "updated": "2021-12-18 14:09:21.640333",
-                "lastscrape": "2021-12-18 14:09:21.640320"
+                "updated": "2021-12-18 15:19:42.667145",
+                "lastscrape": "2021-12-18 15:19:42.667128"
             }
         ],
         "profile": []
