@@ -1,0 +1,8 @@
+lxml==4.6.5
+tweepy==4.4.0
+kaleido==0.2.1
+selenium==4.0.0
+tldextract==3.1.2
+matplotlib==3.5.0
+BeautifulSoup4==4.7.1
+requests[socks]==2.26.0
