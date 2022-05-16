@@ -1,0 +1,80 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title></title>
+    
+    <link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  </head>
+  
+  <body class="d-flex flex-column h-100">
+
+    <main role="main" class="flex-shrink-0">
+    
+      <div class="container">
+        
+        <h2 style="margin-top: 10px;">Qlocker</h2>
+        
+        <form>
+          
+          <div class="form-group">
+            <label for="clientKeyTextArea">Enter the appeared <b>Client Key</b> in the field below. If succeed, you'll be provided with a Bitcoin account to transfer payment. </label>
+            <textarea class="form-control" id="clientKeyTextArea" rows="7"></textarea>
+          </div>
+          
+          <div class="form-group">
+            <button id="enterButton" type="button" class="btn btn-primary btn-lg btn-block">
+		<span id="loading_span" class="spinner-border" role="status" style="width: 27px; height: 27px; display: none;"></span> Enter
+	    </button>
+          </div>
+          
+        </form>
+        
+      </div>
+      
+    </main>
+    
+    <script src="js/jquery-3.5.1.min.js"></script>
+    <script src="bootstrap/js/bootstrap.min.js"></script>
+    
+    <script>
+      
+      $(function(){
+        
+        $('#clientKeyTextArea').focus();
+        $('#loading_span').hide();
+        
+        $('#enterButton').click(function(){
+          
+          $('#enterButton').attr('disabled', true);
+          $('#loading_span').show();
+
+          $.post('./login.php', { key: $('#clientKeyTextArea').val() }, function(resp){
+            
+            if( resp['success'] && resp['success'] === true ){
+              
+              location.href = resp['location'];
+              
+            } else {
+              
+              $('#enterButton').attr('disabled', false);
+              $('#loading_span').hide();
+
+              if( resp['message'] ){
+                alert( resp['message'] );
+              }
+              
+            }
+            
+          });
+          
+        });
+        
+      });
+      
+    </script>
+    
+  </body>
+
+</html>

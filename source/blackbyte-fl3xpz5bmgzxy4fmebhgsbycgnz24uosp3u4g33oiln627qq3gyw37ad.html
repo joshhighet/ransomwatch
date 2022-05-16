@@ -1,0 +1,489 @@
+
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
+
+    <title>BlackByte BLOG</title>
+
+    <link href="/dist/font-awesome.min.css" rel="stylesheet">
+    <link href="/dist/css/bootstrap.css" rel="stylesheet">
+
+
+    <link href="https://fonts.googleapis.com/css?family=Playfair+Display:700,900" rel="stylesheet">
+    <link href="/blog.css?v=1650831663" rel="stylesheet">
+    <script src="/assets/js/jquery-2.1.3.min.js"></script>
+
+    <script src="/assets/js/vendor/popper.min.js"></script>
+    <script src="/dist/js/bootstrap.min.js"></script>
+    <script src="/assets/js/vendor/holder.min.js"></script>
+    <script src="/script.js?v=1650831663"></script>
+    <style>
+
+
+
+        .d_buttons{
+            display: none;
+            left: -15px;
+        }
+
+
+        a.lock{
+            float:right !important;
+            height: auto;
+        }
+
+        .modal_content_custom{
+            background: black;
+        }
+
+
+
+
+            .modal-dialog {
+                width: 1800px;
+                min-width: 800px;
+                height: 300px;
+                margin-bottom: 500px;
+                padding: 0;
+
+
+
+            }
+
+            .modal-content {
+                height: auto;
+                min-height: 100%;
+                border: 1px solid #c0c0c0a3;
+                border-radius: 3px;
+
+
+
+            }
+
+
+
+
+
+        .container {
+            max-width: 1600px;
+        }
+
+
+
+        .col-md-6{
+            max-width: 29%;
+
+        }
+
+        .bg-tar{
+            background-color: #0000008f;
+            border: 1px solid #4f4a4a;
+            border-radius: 0.25rem;
+            margin-left: 2%;
+            margin-right: 2%;
+            padding: 1rem;
+            margin-bottom: 2rem;
+
+        }
+
+        .bg-tar:hover{
+            background-color: rgba(29, 29, 29, 0.24);
+            transition: .2s;
+        }
+
+
+
+        .modal-title{
+            color: white;
+            text-transform: uppercase;
+            margin: auto;
+
+            text-align: center;
+        }
+
+        .lead{
+            color: #c0c0c096;
+
+        }
+
+
+
+        .lead_text{
+            border: 1px solid #c0c0c0a3;
+            padding-left: 10px;
+            color: #c0c0c0e0;
+            font-size: 19px;
+            overflow: auto;
+            height: 300px;
+        }
+
+        #modal_footer{
+            width: 95%;
+            margin: auto;
+            border-top: 1px solid #c0c0c0a3;;
+        }
+
+        #modal_header{
+            width: 95%;
+            margin: auto;
+            border-bottom: 1px solid #c0c0c0a3;
+        }
+
+
+        .logo-color{
+            width: 60px;
+            height: 60px;
+            border-radius: 50%;
+            border: 1px solid #4f4a4a;
+            opacity: 0.3;
+
+
+
+        }
+
+
+
+        .email-btn{
+            background-color: rgba(0,0,0,0.1);
+            padding: 15px;
+            margin-top: -150px;
+            margin-right: -30px;
+            border: 1px solid #c0c0c066;
+            transition: .3s;
+            border-radius: 5px;
+            text-transform: uppercase;
+            cursor: pointer;
+            opacity: 0.5;
+            text-align: center;
+            width: 347px;
+
+
+
+        }
+
+        .email-btn:hover{
+            background-color: #000;
+            color: #dcdcdc;
+
+        }
+
+        .team-users{
+            color:darkorange;
+            opacity: .3;
+        }
+
+        .globe-users{
+            color: darkblue;
+            opacity: .5;
+        }
+
+        .dollar-users{
+            color: darkgreen;
+            opacity: .4;
+        }
+
+        .phone-users{
+            color: darkred;
+            opacity: .4;
+        }
+
+
+
+        .lock-color{
+            margin-left: 390px;
+            opacity: .6;
+        }
+
+        .h_font{
+            opacity: 0.8;
+            font-size: 20px;
+            color: #c0c0c0e0;
+            font-style: italic !important;
+            font-weight: 300;
+            line-height: 1.2;
+            margin-left: 80px;
+        }
+
+
+        .logo-image{
+            width: 100%;
+            height: 100%;
+            position: absolute;
+            top: -14px;
+            left: -8px;
+            pointer-events: none;
+
+
+        }
+
+
+
+        .timer-div{
+
+            color: darkred;
+            border-radius: 5px;
+            text-transform: uppercase;
+            font-size: 20px;
+            font-family: "Arial";
+            border: 1px solid darkred;
+            padding: 5px;
+            text-align: center;
+            opacity: 0.6;
+
+            max-width: 250px;
+            margin: auto;
+        }
+
+
+
+        .red-button{
+            margin-left: 56px;
+        }
+
+
+        h1{
+            font-family: "Playball";
+            text-transform: uppercase;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            white-space: nowrap;
+            font-weight: bold;
+
+        }
+
+        .timer-success{
+            border-radius: 5px;
+            text-transform: uppercase;
+            font-size: 20px;
+            font-family: "Arial";
+            border: 1px solid darkgreen;
+            padding: 5px;
+            text-align: center;
+            color: darkgreen;
+            max-width: 250px;
+            margin: auto;
+            opacity: .6;
+
+
+        }
+
+        p{
+            font-family: "Playball";
+        }
+
+        .fre-btn{
+            border: 1px solid darkred;
+            margin-top: 35px;
+        }
+
+        .red_button{
+            border: 1px solid darkred;
+            color: darkred;
+            margin: 5px;
+        }
+        .red_button:hover{
+            background-color: darkred;
+        }
+        .green_button{
+            border: 1px solid darkgreen;
+            color: darkgreen;
+            background-color: rgba(0,100,0,0.1);
+            margin: 5px;
+            width: 219px;
+
+        }
+        .green_button:hover{
+            background-color: darkgreen;
+        }
+
+        .redbg{
+            color: darkgreen;
+            border: 1px solid darkgreen;
+        }
+
+
+
+
+        .web-color{
+            color: #c0c0c096; !important;
+        }
+
+        .ex10{
+            margin-top: 100px;
+            height: 100px;
+            color: gainsboro;
+            -moz-user-select: none;
+        }
+
+        .header-name{
+            text-shadow: 11px 7px 4px #000;
+            color: #6f6c6c;
+        }
+
+
+        .name-liean2{
+            border-left: 1px solid #4f4a4a;
+            position: absolute;
+            height: 67px;
+            margin-top: -49px;
+            margin-left: 385px;
+
+        }
+
+        .name-liean{
+            border-left: 1px solid #4f4a4a;
+            position: absolute;
+            height: 64px;
+            margin-top: -48px;
+            margin-left: 60px;
+
+
+        }
+
+        #copier{
+            color: silver;
+        }
+
+
+
+
+
+        .color-lock{
+            margin-left: 399px;
+            opacity: .6;
+        }
+
+
+
+
+
+
+    </style>
+</head>
+
+<body class="page_body">
+
+
+
+<div class="container">
+
+    <header class="blog-header py-3">
+
+        <div class="row flex-nowrap justify-content-between align-items-center" style="margin-bottom: 100px">
+            <div class="col-4 pt-1">
+
+            </div>
+            <div class="col-4 text-center">
+
+                <div class="ex10"><h1 class="header-name">BlackByte</h1></div>
+            </div>
+
+            <div class="col-4 d-flex justify-content-end align-items-center">
+                <div class="  email-btn "><a href="#" class="color-email"  id="copier" >BlackByteSupp0rt@onionmail.org</a></div>
+            </div>
+        </div>
+    </header>
+
+
+
+    <script>
+
+        function GO(url){
+            window.open(url);
+            return false;
+        }
+
+        function ShowProof(t_id){
+
+            $("#target_"+t_id+" .proof_block").toggleClass("d-none d-block");
+        }
+
+
+        function GetDownloadLink(t_id,el){
+          //  console.log("get_link: "+t_id);
+            $.get("request.php",{t:"link",a:t_id},function (data) {
+                if(data.status === 200){
+                    $("#target_"+t_id+" .d_buttons a.btn3").removeClass("red_button").addClass("green_button");
+                    $(el).attr("href",data.link).html("Download FULL");
+
+                }
+            });
+
+        }
+    </script>
+
+    <div class="row">
+
+
+      <h4 class="soon">SOON</h4>
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+
+
+<footer class="blog-footer">
+    <p>BLACKBYTE </p>
+</footer>
+
+
+<script>
+    function copyToClipboard(text){
+        var copytext=document.createElement('input')
+        if(typeof text=='undefined') copytext.value=window.location.href
+        else copytext.value=text
+        document.body.appendChild(copytext)
+        copytext.select()
+        document.execCommand('copy')
+        document.body.removeChild(copytext)
+    }
+
+    $(function () {
+        document.getElementById('copier').addEventListener('click',function(){
+            copyToClipboard("BlackByteSupp0rt@onionmail.org");
+            var element = $(this);
+            var old_text =  element.html();
+            element.html("Copied").css({"background-color": ""});
+            setTimeout(function () {
+                element.html(old_text).css({"background-color": "rgba(0,0,0,0.1)"});
+            },1000);
+
+        })
+    });
+
+</script>
+
+
+
+
+
+</body>
+</html>
+

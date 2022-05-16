@@ -1,0 +1,4693 @@
+
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
+
+    <title>BlackByte BLOG</title>
+
+    <link href="/dist/font-awesome.min.css" rel="stylesheet">
+    <link href="/dist/css/bootstrap.css" rel="stylesheet">
+
+
+    <link href="https://fonts.googleapis.com/css?family=Playfair+Display:700,900" rel="stylesheet">
+    <link href="/blog.css?v=1652696556" rel="stylesheet">
+    <script src="/assets/js/jquery-2.1.3.min.js"></script>
+
+    <script src="/assets/js/vendor/popper.min.js"></script>
+    <script src="/dist/js/bootstrap.min.js"></script>
+    <script src="/assets/js/vendor/holder.min.js"></script>
+    <script src="/script.js?v=1652696556"></script>
+    <style>
+
+
+
+        .d_buttons{
+            display: none;
+            left: -15px;
+        }
+
+
+        a.lock{
+            float:right !important;
+            height: auto;
+        }
+
+        .modal_content_custom{
+            background: black;
+        }
+
+
+
+
+            .modal-dialog {
+                width: 1800px;
+                min-width: 800px;
+                height: 300px;
+                margin-bottom: 500px;
+                padding: 0;
+
+
+
+            }
+
+            .modal-content {
+                height: auto;
+                min-height: 100%;
+                border: 1px solid #c0c0c0a3;
+                border-radius: 3px;
+
+
+
+            }
+
+
+
+
+
+        .container {
+            max-width: 1600px;
+        }
+
+
+
+        .col-md-6{
+            max-width: 29%;
+
+        }
+
+        .bg-tar{
+            background-color: #0000008f;
+            border: 1px solid #4f4a4a;
+            border-radius: 0.25rem;
+            margin-left: 2%;
+            margin-right: 2%;
+            padding: 1rem;
+            margin-bottom: 2rem;
+
+        }
+
+        .bg-tar:hover{
+            background-color: rgba(29, 29, 29, 0.24);
+            transition: .2s;
+        }
+
+
+
+        .modal-title{
+            color: white;
+            text-transform: uppercase;
+            margin: auto;
+
+            text-align: center;
+        }
+
+        .lead{
+            color: #c0c0c096;
+
+        }
+
+
+
+        .lead_text{
+            border: 1px solid #c0c0c0a3;
+            padding-left: 10px;
+            color: #c0c0c0e0;
+            font-size: 19px;
+            overflow: auto;
+            height: 300px;
+        }
+
+        #modal_footer{
+            width: 95%;
+            margin: auto;
+            border-top: 1px solid #c0c0c0a3;;
+        }
+
+        #modal_header{
+            width: 95%;
+            margin: auto;
+            border-bottom: 1px solid #c0c0c0a3;
+        }
+
+
+        .logo-color{
+            width: 60px;
+            height: 60px;
+            border-radius: 50%;
+            border: 1px solid #4f4a4a;
+            opacity: 0.3;
+
+
+
+        }
+
+
+
+        .email-btn{
+            background-color: rgba(0,0,0,0.1);
+            padding: 15px;
+            margin-top: -150px;
+            margin-right: -30px;
+            border: 1px solid #c0c0c066;
+            transition: .3s;
+            border-radius: 5px;
+            cursor: pointer;
+            opacity: 0.5;
+            text-align: center;
+            width: 347px;
+
+
+
+        }
+
+        .email-btn:hover{
+            background-color: #000;
+            color: #dcdcdc;
+
+        }
+
+        .team-users{
+            color:darkorange;
+            opacity: .3;
+        }
+
+        .globe-users{
+            color: darkblue;
+            opacity: .5;
+        }
+
+        .dollar-users{
+            color: darkgreen;
+            opacity: .4;
+        }
+
+        .phone-users{
+            color: darkred;
+            opacity: .4;
+        }
+
+
+
+        .lock-color{
+            margin-left: 390px;
+            opacity: .6;
+        }
+
+        .h_font{
+            opacity: 0.8;
+            font-size: 20px;
+            color: #c0c0c0e0;
+            font-style: italic !important;
+            font-weight: 300;
+            line-height: 1.2;
+            margin-left: 80px;
+        }
+
+
+        .logo-image{
+            width: 100%;
+            height: 100%;
+            position: absolute;
+            top: -14px;
+            left: -8px;
+            pointer-events: none;
+
+
+        }
+
+
+
+        .timer-div{
+
+            color: darkred;
+            border-radius: 5px;
+            text-transform: uppercase;
+            font-size: 20px;
+            font-family: "Arial";
+            border: 1px solid darkred;
+            padding: 5px;
+            text-align: center;
+            opacity: 0.6;
+
+            max-width: 250px;
+            margin: auto;
+        }
+
+
+
+        .red-button{
+            margin-left: 56px;
+        }
+
+
+        h1{
+            font-family: "Playball";
+            text-transform: uppercase;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            white-space: nowrap;
+            font-weight: bold;
+
+        }
+
+        .timer-success{
+            border-radius: 5px;
+            text-transform: uppercase;
+            font-size: 20px;
+            font-family: "Arial";
+            border: 1px solid darkgreen;
+            padding: 5px;
+            text-align: center;
+            color: darkgreen;
+            max-width: 250px;
+            margin: auto;
+            opacity: .6;
+
+
+        }
+
+        p{
+            font-family: "Playball";
+        }
+
+        .fre-btn{
+            border: 1px solid darkred;
+            margin-top: 35px;
+        }
+
+        .red_button{
+            border: 1px solid darkred;
+            color: darkred;
+            margin: 5px;
+        }
+        .red_button:hover{
+            background-color: darkred;
+        }
+        .green_button{
+            border: 1px solid darkgreen;
+            color: darkgreen;
+            background-color: rgba(0,100,0,0.1);
+            margin: 5px;
+            width: 219px;
+
+        }
+        .green_button:hover{
+            background-color: darkgreen;
+        }
+
+        .redbg{
+            color: darkgreen;
+            border: 1px solid darkgreen;
+        }
+
+
+
+
+        .web-color{
+            color: #c0c0c096; !important;
+        }
+
+        .ex10{
+            margin-top: 100px;
+            height: 100px;
+            color: gainsboro;
+            -moz-user-select: none;
+        }
+
+        .header-name{
+            text-shadow: 11px 7px 4px #000;
+            color: #6f6c6c;
+        }
+
+
+        .name-liean2{
+            border-left: 1px solid #4f4a4a;
+            position: absolute;
+            height: 67px;
+            margin-top: -49px;
+            margin-left: 385px;
+
+        }
+
+        .name-liean{
+            border-left: 1px solid #4f4a4a;
+            position: absolute;
+            height: 64px;
+            margin-top: -48px;
+            margin-left: 60px;
+
+
+        }
+
+        #copier{
+            color: silver;
+        }
+
+
+
+
+
+        .color-lock{
+            margin-left: 399px;
+            opacity: .6;
+        }
+
+        #logo-color{
+            width: 60px;
+            height: 60px;
+            border-radius: 20%;
+            border: 1px solid #4f4a4a;
+            padding: 3px;
+            opacity: 0.8;
+
+
+
+
+
+
+
+
+    </style>
+</head>
+
+<body class="page_body">
+
+
+
+<div class="container">
+
+    <header class="blog-header py-3">
+
+        <div class="row flex-nowrap justify-content-between align-items-center" style="margin-bottom: 100px">
+            <div class="col-4 pt-1">
+
+            </div>
+            <div class="col-4 text-center">
+
+                <div class="ex10"><h1 class="header-name">BlackByte</h1></div>
+            </div>
+
+            <div class="col-4 d-flex justify-content-end align-items-center">
+                <div class="  email-btn "><a href="#" class="color-email"  id="copier" >BlackByteSupp0rt@onionmail.org</a></div>
+            </div>
+        </div>
+    </header>
+
+
+
+    <script>
+
+        function GO(url){
+            window.open(url);
+            return false;
+        }
+
+        function ShowProof(t_id){
+
+            $("#target_"+t_id+" .proof_block").toggleClass("d-none d-block");
+        }
+
+
+        function GetDownloadLink(t_id,el){
+          //  console.log("get_link: "+t_id);
+            $.get("request.php",{t:"link",a:t_id},function (data) {
+                if(data.status === 200){
+                    $("#target_"+t_id+" .d_buttons a.btn3").removeClass("red_button").addClass("green_button");
+                    $(el).attr("href",data.link).html("Download FULL");
+
+                }
+            });
+
+        }
+    </script>
+
+    <div class="row">
+
+
+        <script>
+
+            var proof_img_block20 = '<img src="" alt="" class="proof">';
+
+
+            function ShowProof20(){
+                if(showed20 === 0){
+                    showed20 = 1;
+                    $("#target_20 .proof_block").html(proof_img_block20).slideDown(400);
+                }else{
+                    showed20 = 0;
+                    $("#target_20 .proof_block").html(' ').slideUp(400);
+                }
+
+            }
+
+
+            function ShowDButtons20(){
+                if(showed_d_buttons20 === 0){
+                    showed_d_buttons20 = 1;
+                    $("#target_20 .d_buttons").slideDown(400);
+                }else{
+                    showed_d_buttons20 = 0;
+                    $("#target_20 .d_buttons").slideUp(400);
+                }
+
+            }
+
+
+            var showed20 = 0;
+            var showed_d_buttons20 = 0;
+            var HAPPYSEC20 = 1518746;
+            var t_sec20 = HAPPYSEC20;
+
+            var time20;
+            var intervalId20=0;
+
+
+            $(document).ready(function () {
+                $("#target_20 .d_buttons a.btn3").addClass("red_button");
+                intervalId20 = setInterval(function (){
+                    timerDecrement20();
+                }, 1000);
+            });
+
+
+            function timerDecrement20() {
+                time20 = $('#target_20 span.timer');
+
+                if(t_sec20 < 1){
+                    t_sec20 = 0;
+                    newTime = t_sec20 ;
+                }else{
+                    newTime = t_sec20 - 1;
+                }
+
+
+                t_sec20 = newTime;
+
+                var t_min = t_sec20 / 60;
+                var t_hour = t_min / 60;
+                var t_day =
+                    '<b>' + Math.floor(t_hour / 24) + '</b> day I ' +
+                    '<b>' + Math.floor(t_hour % 24) +'</b>:' +
+                    '<b>' + Math.floor(t_min % 60) +'</b>:' +
+                    '<b>' + Math.floor(t_sec20 % 60)+ '</b> ';
+
+                time20.html(t_day);
+
+
+
+                if(newTime === 0 && HAPPYSEC20 > 0 || newTime < 1){
+
+                    time20.html('');
+                    $("#target_20 .lock").attr("src","assets/img/lockopen.png");
+                    $("#target_20 .clock").attr("src","assets/img/clockred.png").addClass("clockred");
+                    $("#target_20 .btn2").addClass("redbg");
+                    $("#target_20 .arrow-8").addClass("r8");
+                    $("#target_20 .perc").html("100%");
+
+                    clearInterval(intervalId20);
+                    GetDownloadLink(20,$("#target_20 .redbg"));
+                }
+
+
+            }
+        </script>
+
+
+
+
+        <div  class="col-md-6 col-sm-12 bg-tar  " style="cursor: pointer" onclick="$('.desc_20').modal('show')">
+            <div class="col-md-10 px-0">
+                <div  class="logo-image">
+                                            <img src="assets/logo/red-logo.png" alt="" class="proof logo-color">
+                                        </div>
+
+                <h1 class="h_font">ats-insubria.it</h1>
+                <div class="name-liean"></div>
+                <div class="name-liean2"></div>
+
+
+            </div>
+
+            <div class="col-md-2 px-0" >
+                                    <img src="assets/img/lock.png" alt="" class="color-lock lock">
+                    
+            </div>
+
+        </div>
+
+
+        <div class="modal desc_20" tabindex="-1"  id="target_20" >
+            <div class="modal-dialog  ">
+                <div class="modal-content modal_content_custom">
+                    <div id="modal_header" class="modal-header">
+                        <h5 class="modal-title font-italic">                                 <img src="assets/logo/red-logo.png" alt="" class="proof logo-color">
+                                </h5>
+                    </div>
+                    <div class="modal-body">
+                                                    <!--  <img src="assets/img/clock.png" alt="" class="clock">-->
+                            <div class="timer-div"><span  class="timer"></span></div>
+                            
+
+
+
+                        <div class="col-md-12 px-0">
+
+                            <div class="proof_block text-center"></div>
+
+
+                            <p class="lead_text my-3 pb-3" >AGENZIA DI TUTELA DELLA SALUTE DELL'INSUBRIA is located in VARESE, VARESE, Italy and is part of the Other Ambulatory Health Care Services Industry. AGENZIA DI TUTELA DELLA SALUTE DELL'INSUBRIA has 3,000 employees at this location and generates $368.22 million in sales (USD). (Sales figure is modelled). There are 36,222 companies in the AGENZIA DI TUTELA DELLA SALUTE DELL'INSUBRIA corporate family.                            </p>
+                        </div>
+
+                        <div class="col-md-12 row px-0  mt-4 mb-4 ml-0">
+                            <div class="col-md-3 text-center ">
+                                <p class="lead mb-0 squ">
+                    <span class="text-white font-weight-bold ">
+                        <i class="fa fa-users team-users" ></i>
+                    </span>
+                                    <br>
+                                    <span class="">3,000</span>
+                                </p>
+                            </div>
+                            <div class="col-md-3 text-center" onclick="GO('http://www.ats-insubria.it/')">
+                                <p class="lead mb-0 squ"><span class="text-white font-weight-bold "><i class="fa fa-globe globe-users"></i></span><br>
+                                    <a href="javascript:" class="text-decoration-none web-color" >Web Site</a>
+                                </p>
+                            </div>
+
+                            <div class="col-md-3 text-center"><p class="lead mb-0 squ "><span class="text-white font-weight-bold "><i class="fa fa-dollar dollar-users"></i></span> <br>$ 368.22 million </p></div>
+                            <div class="col-md-3 text-center"><p class="lead mb-0 squ"><span class="text-white font-weight-bold"><i class="fa fa-phone phone-users" ></i></span><br>+39-029694141</p></div>
+
+                        </div>
+
+                        <div class="col-md-12 row px-0 mt-5">
+                            <div class="col-md-12 text-center"></div>
+                            <div class="col-md-6">
+                                <p class="lead mb-0 text-white font-weight-bold" style="margin-top: 13px">
+
+                                </p>
+                            </div>
+                          <div class="btnred red-button"><div class="arrow-8"></div>
+
+                                                                <a href="javascript:"  class=" fre-btn btn btn2 legitRipple  " onclick="ShowDButtons20()">Download Free </a>
+                                  
+
+                          </div>
+
+
+
+                        </div>
+
+
+
+                    </div>
+                    <div id="modal_footer" class="modal-footer">
+                                                    <div class="col-md-12 text-center d_buttons" style="display: none">
+                                                                    <a href="https://anonfiles.com/Zct5W7eby1/ARCHIVIO_rar"  target="_blank"  class=" btn btn3 legitRipple
+                            " style="margin-bottom: 3px">
+
+
+
+
+                                        download
+
+
+                                        453.42MB</a>
+                                                                </div>
+                            
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+        
+        <script>
+
+            var proof_img_block19 = '<img src="" alt="" class="proof">';
+
+
+            function ShowProof19(){
+                if(showed19 === 0){
+                    showed19 = 1;
+                    $("#target_19 .proof_block").html(proof_img_block19).slideDown(400);
+                }else{
+                    showed19 = 0;
+                    $("#target_19 .proof_block").html(' ').slideUp(400);
+                }
+
+            }
+
+
+            function ShowDButtons19(){
+                if(showed_d_buttons19 === 0){
+                    showed_d_buttons19 = 1;
+                    $("#target_19 .d_buttons").slideDown(400);
+                }else{
+                    showed_d_buttons19 = 0;
+                    $("#target_19 .d_buttons").slideUp(400);
+                }
+
+            }
+
+
+            var showed19 = 0;
+            var showed_d_buttons19 = 0;
+            var HAPPYSEC19 = 1518746;
+            var t_sec19 = HAPPYSEC19;
+
+            var time19;
+            var intervalId19=0;
+
+
+            $(document).ready(function () {
+                $("#target_19 .d_buttons a.btn3").addClass("red_button");
+                intervalId19 = setInterval(function (){
+                    timerDecrement19();
+                }, 1000);
+            });
+
+
+            function timerDecrement19() {
+                time19 = $('#target_19 span.timer');
+
+                if(t_sec19 < 1){
+                    t_sec19 = 0;
+                    newTime = t_sec19 ;
+                }else{
+                    newTime = t_sec19 - 1;
+                }
+
+
+                t_sec19 = newTime;
+
+                var t_min = t_sec19 / 60;
+                var t_hour = t_min / 60;
+                var t_day =
+                    '<b>' + Math.floor(t_hour / 24) + '</b> day I ' +
+                    '<b>' + Math.floor(t_hour % 24) +'</b>:' +
+                    '<b>' + Math.floor(t_min % 60) +'</b>:' +
+                    '<b>' + Math.floor(t_sec19 % 60)+ '</b> ';
+
+                time19.html(t_day);
+
+
+
+                if(newTime === 0 && HAPPYSEC19 > 0 || newTime < 1){
+
+                    time19.html('');
+                    $("#target_19 .lock").attr("src","assets/img/lockopen.png");
+                    $("#target_19 .clock").attr("src","assets/img/clockred.png").addClass("clockred");
+                    $("#target_19 .btn2").addClass("redbg");
+                    $("#target_19 .arrow-8").addClass("r8");
+                    $("#target_19 .perc").html("100%");
+
+                    clearInterval(intervalId19);
+                    GetDownloadLink(19,$("#target_19 .redbg"));
+                }
+
+
+            }
+        </script>
+
+
+
+
+        <div  class="col-md-6 col-sm-12 bg-tar  " style="cursor: pointer" onclick="$('.desc_19').modal('show')">
+            <div class="col-md-10 px-0">
+                <div  class="logo-image">
+                                            <img src="assets/logo/red-logo.png" alt="" class="proof logo-color">
+                                        </div>
+
+                <h1 class="h_font">usu.org.au</h1>
+                <div class="name-liean"></div>
+                <div class="name-liean2"></div>
+
+
+            </div>
+
+            <div class="col-md-2 px-0" >
+                                    <img src="assets/img/lock.png" alt="" class="color-lock lock">
+                    
+            </div>
+
+        </div>
+
+
+        <div class="modal desc_19" tabindex="-1"  id="target_19" >
+            <div class="modal-dialog  ">
+                <div class="modal-content modal_content_custom">
+                    <div id="modal_header" class="modal-header">
+                        <h5 class="modal-title font-italic">                                 <img src="assets/logo/red-logo.png" alt="" class="proof logo-color">
+                                </h5>
+                    </div>
+                    <div class="modal-body">
+                                                    <!--  <img src="assets/img/clock.png" alt="" class="clock">-->
+                            <div class="timer-div"><span  class="timer"></span></div>
+                            
+
+
+
+                        <div class="col-md-12 px-0">
+
+                            <div class="proof_block text-center"></div>
+
+
+                            <p class="lead_text my-3 pb-3" >The United Services Union (USU) has over 32,000 members and represents local government, energy, airline and clerical and administrative employees throughout NSW and the ACT.
+The United Services Union was formed on 21 May 2003 following the merge between two branches of the Australian Services Union – the Municipal Employees Union and the Clerical and Administrative Branch of the ASU. The USU represents local government, energy, airline and clerical and administrative employees throughout NSW.                            </p>
+                        </div>
+
+                        <div class="col-md-12 row px-0  mt-4 mb-4 ml-0">
+                            <div class="col-md-3 text-center ">
+                                <p class="lead mb-0 squ">
+                    <span class="text-white font-weight-bold ">
+                        <i class="fa fa-users team-users" ></i>
+                    </span>
+                                    <br>
+                                    <span class="">?</span>
+                                </p>
+                            </div>
+                            <div class="col-md-3 text-center" onclick="GO('http://www.usu.org.au/')">
+                                <p class="lead mb-0 squ"><span class="text-white font-weight-bold "><i class="fa fa-globe globe-users"></i></span><br>
+                                    <a href="javascript:" class="text-decoration-none web-color" >Web Site</a>
+                                </p>
+                            </div>
+
+                            <div class="col-md-3 text-center"><p class="lead mb-0 squ "><span class="text-white font-weight-bold "><i class="fa fa-dollar dollar-users"></i></span> <br>$ ? </p></div>
+                            <div class="col-md-3 text-center"><p class="lead mb-0 squ"><span class="text-white font-weight-bold"><i class="fa fa-phone phone-users" ></i></span><br>+61 1300 136 604</p></div>
+
+                        </div>
+
+                        <div class="col-md-12 row px-0 mt-5">
+                            <div class="col-md-12 text-center"></div>
+                            <div class="col-md-6">
+                                <p class="lead mb-0 text-white font-weight-bold" style="margin-top: 13px">
+
+                                </p>
+                            </div>
+                          <div class="btnred red-button"><div class="arrow-8"></div>
+
+                                                                <a href="javascript:"  class=" fre-btn btn btn2 legitRipple  " onclick="ShowDButtons19()">Download Free </a>
+                                  
+
+                          </div>
+
+
+
+                        </div>
+
+
+
+                    </div>
+                    <div id="modal_footer" class="modal-footer">
+                                                    <div class="col-md-12 text-center d_buttons" style="display: none">
+                                                                    <a href="https://anonfiles.com/B5m6Wee0yf/Administration_rar"  target="_blank"  class=" btn btn3 legitRipple
+                            " style="margin-bottom: 3px">
+
+
+
+
+                                        download
+
+
+                                        27.14MB</a>
+                                                                </div>
+                            
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+        
+        <script>
+
+            var proof_img_block18 = '<img src="" alt="" class="proof">';
+
+
+            function ShowProof18(){
+                if(showed18 === 0){
+                    showed18 = 1;
+                    $("#target_18 .proof_block").html(proof_img_block18).slideDown(400);
+                }else{
+                    showed18 = 0;
+                    $("#target_18 .proof_block").html(' ').slideUp(400);
+                }
+
+            }
+
+
+            function ShowDButtons18(){
+                if(showed_d_buttons18 === 0){
+                    showed_d_buttons18 = 1;
+                    $("#target_18 .d_buttons").slideDown(400);
+                }else{
+                    showed_d_buttons18 = 0;
+                    $("#target_18 .d_buttons").slideUp(400);
+                }
+
+            }
+
+
+            var showed18 = 0;
+            var showed_d_buttons18 = 0;
+            var HAPPYSEC18 = 1518746;
+            var t_sec18 = HAPPYSEC18;
+
+            var time18;
+            var intervalId18=0;
+
+
+            $(document).ready(function () {
+                $("#target_18 .d_buttons a.btn3").addClass("red_button");
+                intervalId18 = setInterval(function (){
+                    timerDecrement18();
+                }, 1000);
+            });
+
+
+            function timerDecrement18() {
+                time18 = $('#target_18 span.timer');
+
+                if(t_sec18 < 1){
+                    t_sec18 = 0;
+                    newTime = t_sec18 ;
+                }else{
+                    newTime = t_sec18 - 1;
+                }
+
+
+                t_sec18 = newTime;
+
+                var t_min = t_sec18 / 60;
+                var t_hour = t_min / 60;
+                var t_day =
+                    '<b>' + Math.floor(t_hour / 24) + '</b> day I ' +
+                    '<b>' + Math.floor(t_hour % 24) +'</b>:' +
+                    '<b>' + Math.floor(t_min % 60) +'</b>:' +
+                    '<b>' + Math.floor(t_sec18 % 60)+ '</b> ';
+
+                time18.html(t_day);
+
+
+
+                if(newTime === 0 && HAPPYSEC18 > 0 || newTime < 1){
+
+                    time18.html('');
+                    $("#target_18 .lock").attr("src","assets/img/lockopen.png");
+                    $("#target_18 .clock").attr("src","assets/img/clockred.png").addClass("clockred");
+                    $("#target_18 .btn2").addClass("redbg");
+                    $("#target_18 .arrow-8").addClass("r8");
+                    $("#target_18 .perc").html("100%");
+
+                    clearInterval(intervalId18);
+                    GetDownloadLink(18,$("#target_18 .redbg"));
+                }
+
+
+            }
+        </script>
+
+
+
+
+        <div  class="col-md-6 col-sm-12 bg-tar  " style="cursor: pointer" onclick="$('.desc_18').modal('show')">
+            <div class="col-md-10 px-0">
+                <div  class="logo-image">
+                                            <img src="assets/logo/red-logo.png" alt="" class="proof logo-color">
+                                        </div>
+
+                <h1 class="h_font">xydias.gr</h1>
+                <div class="name-liean"></div>
+                <div class="name-liean2"></div>
+
+
+            </div>
+
+            <div class="col-md-2 px-0" >
+                                    <img src="assets/img/lock.png" alt="" class="color-lock lock">
+                    
+            </div>
+
+        </div>
+
+
+        <div class="modal desc_18" tabindex="-1"  id="target_18" >
+            <div class="modal-dialog  ">
+                <div class="modal-content modal_content_custom">
+                    <div id="modal_header" class="modal-header">
+                        <h5 class="modal-title font-italic">                                 <img src="assets/logo/red-logo.png" alt="" class="proof logo-color">
+                                </h5>
+                    </div>
+                    <div class="modal-body">
+                                                    <!--  <img src="assets/img/clock.png" alt="" class="clock">-->
+                            <div class="timer-div"><span  class="timer"></span></div>
+                            
+
+
+
+                        <div class="col-md-12 px-0">
+
+                            <div class="proof_block text-center"></div>
+
+
+                            <p class="lead_text my-3 pb-3" >XYDIAS, COSTAS G., S.A. is located in Athens, Greece and is part of the Drugs and Druggists' Sundries Merchant Wholesalers Industry. XYDIAS, COSTAS G., S.A.generates $53.94 million in sales (USD). There are 2 companies in the XYDIAS, COSTAS G., S.A. corporate family                            </p>
+                        </div>
+
+                        <div class="col-md-12 row px-0  mt-4 mb-4 ml-0">
+                            <div class="col-md-3 text-center ">
+                                <p class="lead mb-0 squ">
+                    <span class="text-white font-weight-bold ">
+                        <i class="fa fa-users team-users" ></i>
+                    </span>
+                                    <br>
+                                    <span class="">?</span>
+                                </p>
+                            </div>
+                            <div class="col-md-3 text-center" onclick="GO('https://www.xydias.gr/')">
+                                <p class="lead mb-0 squ"><span class="text-white font-weight-bold "><i class="fa fa-globe globe-users"></i></span><br>
+                                    <a href="javascript:" class="text-decoration-none web-color" >Web Site</a>
+                                </p>
+                            </div>
+
+                            <div class="col-md-3 text-center"><p class="lead mb-0 squ "><span class="text-white font-weight-bold "><i class="fa fa-dollar dollar-users"></i></span> <br>$ 53.94 million </p></div>
+                            <div class="col-md-3 text-center"><p class="lead mb-0 squ"><span class="text-white font-weight-bold"><i class="fa fa-phone phone-users" ></i></span><br>+30-2105246904</p></div>
+
+                        </div>
+
+                        <div class="col-md-12 row px-0 mt-5">
+                            <div class="col-md-12 text-center"></div>
+                            <div class="col-md-6">
+                                <p class="lead mb-0 text-white font-weight-bold" style="margin-top: 13px">
+
+                                </p>
+                            </div>
+                          <div class="btnred red-button"><div class="arrow-8"></div>
+
+                                                                <a href="javascript:"  class=" fre-btn btn btn2 legitRipple  " onclick="ShowDButtons18()">Download Free </a>
+                                  
+
+                          </div>
+
+
+
+                        </div>
+
+
+
+                    </div>
+                    <div id="modal_footer" class="modal-footer">
+                                                    <div class="col-md-12 text-center d_buttons" style="display: none">
+                                                                    <a href="https://anonfiles.com/DdQ5D2f9y4/_rar"  target="_blank"  class=" btn btn3 legitRipple
+                            " style="margin-bottom: 3px">
+
+
+
+
+                                        download
+
+
+                                        1.31GB</a>
+                                                                </div>
+                            
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+        
+        <script>
+
+            var proof_img_block17 = '<img src="" alt="" class="proof">';
+
+
+            function ShowProof17(){
+                if(showed17 === 0){
+                    showed17 = 1;
+                    $("#target_17 .proof_block").html(proof_img_block17).slideDown(400);
+                }else{
+                    showed17 = 0;
+                    $("#target_17 .proof_block").html(' ').slideUp(400);
+                }
+
+            }
+
+
+            function ShowDButtons17(){
+                if(showed_d_buttons17 === 0){
+                    showed_d_buttons17 = 1;
+                    $("#target_17 .d_buttons").slideDown(400);
+                }else{
+                    showed_d_buttons17 = 0;
+                    $("#target_17 .d_buttons").slideUp(400);
+                }
+
+            }
+
+
+            var showed17 = 0;
+            var showed_d_buttons17 = 0;
+            var HAPPYSEC17 = 309146;
+            var t_sec17 = HAPPYSEC17;
+
+            var time17;
+            var intervalId17=0;
+
+
+            $(document).ready(function () {
+                $("#target_17 .d_buttons a.btn3").addClass("red_button");
+                intervalId17 = setInterval(function (){
+                    timerDecrement17();
+                }, 1000);
+            });
+
+
+            function timerDecrement17() {
+                time17 = $('#target_17 span.timer');
+
+                if(t_sec17 < 1){
+                    t_sec17 = 0;
+                    newTime = t_sec17 ;
+                }else{
+                    newTime = t_sec17 - 1;
+                }
+
+
+                t_sec17 = newTime;
+
+                var t_min = t_sec17 / 60;
+                var t_hour = t_min / 60;
+                var t_day =
+                    '<b>' + Math.floor(t_hour / 24) + '</b> day I ' +
+                    '<b>' + Math.floor(t_hour % 24) +'</b>:' +
+                    '<b>' + Math.floor(t_min % 60) +'</b>:' +
+                    '<b>' + Math.floor(t_sec17 % 60)+ '</b> ';
+
+                time17.html(t_day);
+
+
+
+                if(newTime === 0 && HAPPYSEC17 > 0 || newTime < 1){
+
+                    time17.html('');
+                    $("#target_17 .lock").attr("src","assets/img/lockopen.png");
+                    $("#target_17 .clock").attr("src","assets/img/clockred.png").addClass("clockred");
+                    $("#target_17 .btn2").addClass("redbg");
+                    $("#target_17 .arrow-8").addClass("r8");
+                    $("#target_17 .perc").html("100%");
+
+                    clearInterval(intervalId17);
+                    GetDownloadLink(17,$("#target_17 .redbg"));
+                }
+
+
+            }
+        </script>
+
+
+
+
+        <div  class="col-md-6 col-sm-12 bg-tar  " style="cursor: pointer" onclick="$('.desc_17').modal('show')">
+            <div class="col-md-10 px-0">
+                <div  class="logo-image">
+                                            <img src="assets/logo/red-logo.png" alt="" class="proof logo-color">
+                                        </div>
+
+                <h1 class="h_font">SOGEGROSS SPA</h1>
+                <div class="name-liean"></div>
+                <div class="name-liean2"></div>
+
+
+            </div>
+
+            <div class="col-md-2 px-0" >
+                                    <img src="assets/img/lock.png" alt="" class="color-lock lock">
+                    
+            </div>
+
+        </div>
+
+
+        <div class="modal desc_17" tabindex="-1"  id="target_17" >
+            <div class="modal-dialog  ">
+                <div class="modal-content modal_content_custom">
+                    <div id="modal_header" class="modal-header">
+                        <h5 class="modal-title font-italic">                                 <img src="assets/logo/red-logo.png" alt="" class="proof logo-color">
+                                </h5>
+                    </div>
+                    <div class="modal-body">
+                                                    <!--  <img src="assets/img/clock.png" alt="" class="clock">-->
+                            <div class="timer-div"><span  class="timer"></span></div>
+                            
+
+
+
+                        <div class="col-md-12 px-0">
+
+                            <div class="proof_block text-center"></div>
+
+
+                            <p class="lead_text my-3 pb-3" >SOGEGROSS SPA is located in GENOVA, GENOVA, Italy and is part of the Grocery and Related Product Merchant Wholesalers Industry. SOGEGROSS SPA has 839 employees at this location and generates $1.09 billion in sales (USD). There are 156 companies in the SOGEGROSS SPA corporate family.                            </p>
+                        </div>
+
+                        <div class="col-md-12 row px-0  mt-4 mb-4 ml-0">
+                            <div class="col-md-3 text-center ">
+                                <p class="lead mb-0 squ">
+                    <span class="text-white font-weight-bold ">
+                        <i class="fa fa-users team-users" ></i>
+                    </span>
+                                    <br>
+                                    <span class="">839</span>
+                                </p>
+                            </div>
+                            <div class="col-md-3 text-center" onclick="GO('https://www.sogegross.it/')">
+                                <p class="lead mb-0 squ"><span class="text-white font-weight-bold "><i class="fa fa-globe globe-users"></i></span><br>
+                                    <a href="javascript:" class="text-decoration-none web-color" >Web Site</a>
+                                </p>
+                            </div>
+
+                            <div class="col-md-3 text-center"><p class="lead mb-0 squ "><span class="text-white font-weight-bold "><i class="fa fa-dollar dollar-users"></i></span> <br>$ 1.09 billion </p></div>
+                            <div class="col-md-3 text-center"><p class="lead mb-0 squ"><span class="text-white font-weight-bold"><i class="fa fa-phone phone-users" ></i></span><br>+39-01083351</p></div>
+
+                        </div>
+
+                        <div class="col-md-12 row px-0 mt-5">
+                            <div class="col-md-12 text-center"></div>
+                            <div class="col-md-6">
+                                <p class="lead mb-0 text-white font-weight-bold" style="margin-top: 13px">
+
+                                </p>
+                            </div>
+                          <div class="btnred red-button"><div class="arrow-8"></div>
+
+                                                                <a href="javascript:"  class=" fre-btn btn btn2 legitRipple  " onclick="ShowDButtons17()">Download Free </a>
+                                  
+
+                          </div>
+
+
+
+                        </div>
+
+
+
+                    </div>
+                    <div id="modal_footer" class="modal-footer">
+                                                    <div class="col-md-12 text-center d_buttons" style="display: none">
+                                                                    <a href="https://anonfiles.com/R7x4haa2y5/sogegross.it_rar"  target="_blank"  class=" btn btn3 legitRipple
+                            " style="margin-bottom: 3px">
+
+
+
+
+                                        download
+
+
+                                        7.99GB</a>
+                                                                        <a href="https://anonfiles.com/Z6yf3ec9yf/A_CANCELLARE_AFrattini_rar"  target="_blank"  class=" btn btn3 legitRipple
+                            " style="margin-bottom: 3px">
+
+
+
+
+                                        download
+
+
+                                        7.15GB</a>
+                                                                        <a href="https://anonfiles.com/7bM237c8yf/BDalipi_rar"  target="_blank"  class=" btn btn3 legitRipple
+                            " style="margin-bottom: 3px">
+
+
+
+
+                                        download
+
+
+                                        10.19GB</a>
+                                                                </div>
+                            
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+        
+        <script>
+
+            var proof_img_block16 = '<img src="" alt="" class="proof">';
+
+
+            function ShowProof16(){
+                if(showed16 === 0){
+                    showed16 = 1;
+                    $("#target_16 .proof_block").html(proof_img_block16).slideDown(400);
+                }else{
+                    showed16 = 0;
+                    $("#target_16 .proof_block").html(' ').slideUp(400);
+                }
+
+            }
+
+
+            function ShowDButtons16(){
+                if(showed_d_buttons16 === 0){
+                    showed_d_buttons16 = 1;
+                    $("#target_16 .d_buttons").slideDown(400);
+                }else{
+                    showed_d_buttons16 = 0;
+                    $("#target_16 .d_buttons").slideUp(400);
+                }
+
+            }
+
+
+            var showed16 = 0;
+            var showed_d_buttons16 = 0;
+            var HAPPYSEC16 = 309146;
+            var t_sec16 = HAPPYSEC16;
+
+            var time16;
+            var intervalId16=0;
+
+
+            $(document).ready(function () {
+                $("#target_16 .d_buttons a.btn3").addClass("red_button");
+                intervalId16 = setInterval(function (){
+                    timerDecrement16();
+                }, 1000);
+            });
+
+
+            function timerDecrement16() {
+                time16 = $('#target_16 span.timer');
+
+                if(t_sec16 < 1){
+                    t_sec16 = 0;
+                    newTime = t_sec16 ;
+                }else{
+                    newTime = t_sec16 - 1;
+                }
+
+
+                t_sec16 = newTime;
+
+                var t_min = t_sec16 / 60;
+                var t_hour = t_min / 60;
+                var t_day =
+                    '<b>' + Math.floor(t_hour / 24) + '</b> day I ' +
+                    '<b>' + Math.floor(t_hour % 24) +'</b>:' +
+                    '<b>' + Math.floor(t_min % 60) +'</b>:' +
+                    '<b>' + Math.floor(t_sec16 % 60)+ '</b> ';
+
+                time16.html(t_day);
+
+
+
+                if(newTime === 0 && HAPPYSEC16 > 0 || newTime < 1){
+
+                    time16.html('');
+                    $("#target_16 .lock").attr("src","assets/img/lockopen.png");
+                    $("#target_16 .clock").attr("src","assets/img/clockred.png").addClass("clockred");
+                    $("#target_16 .btn2").addClass("redbg");
+                    $("#target_16 .arrow-8").addClass("r8");
+                    $("#target_16 .perc").html("100%");
+
+                    clearInterval(intervalId16);
+                    GetDownloadLink(16,$("#target_16 .redbg"));
+                }
+
+
+            }
+        </script>
+
+
+
+
+        <div  class="col-md-6 col-sm-12 bg-tar  " style="cursor: pointer" onclick="$('.desc_16').modal('show')">
+            <div class="col-md-10 px-0">
+                <div  class="logo-image">
+                                            <img src="assets/logo/red-logo.png" alt="" class="proof logo-color">
+                                        </div>
+
+                <h1 class="h_font">M+R SPEDAG GROUP</h1>
+                <div class="name-liean"></div>
+                <div class="name-liean2"></div>
+
+
+            </div>
+
+            <div class="col-md-2 px-0" >
+                                    <img src="assets/img/lock.png" alt="" class="color-lock lock">
+                    
+            </div>
+
+        </div>
+
+
+        <div class="modal desc_16" tabindex="-1"  id="target_16" >
+            <div class="modal-dialog  ">
+                <div class="modal-content modal_content_custom">
+                    <div id="modal_header" class="modal-header">
+                        <h5 class="modal-title font-italic">                                 <img src="assets/logo/red-logo.png" alt="" class="proof logo-color">
+                                </h5>
+                    </div>
+                    <div class="modal-body">
+                                                    <!--  <img src="assets/img/clock.png" alt="" class="clock">-->
+                            <div class="timer-div"><span  class="timer"></span></div>
+                            
+
+
+
+                        <div class="col-md-12 px-0">
+
+                            <div class="proof_block text-center"></div>
+
+
+                            <p class="lead_text my-3 pb-3" >The M+R Spedag Group is a family-owned transport and logistics company headquartered in Switzerland. In 2006, the traditional company was taken over by Daniel Richner, son of the founding member Hansruedi Richner.                            </p>
+                        </div>
+
+                        <div class="col-md-12 row px-0  mt-4 mb-4 ml-0">
+                            <div class="col-md-3 text-center ">
+                                <p class="lead mb-0 squ">
+                    <span class="text-white font-weight-bold ">
+                        <i class="fa fa-users team-users" ></i>
+                    </span>
+                                    <br>
+                                    <span class="">818</span>
+                                </p>
+                            </div>
+                            <div class="col-md-3 text-center" onclick="GO('https://www.mrspedag.com/en/en-home/')">
+                                <p class="lead mb-0 squ"><span class="text-white font-weight-bold "><i class="fa fa-globe globe-users"></i></span><br>
+                                    <a href="javascript:" class="text-decoration-none web-color" >Web Site</a>
+                                </p>
+                            </div>
+
+                            <div class="col-md-3 text-center"><p class="lead mb-0 squ "><span class="text-white font-weight-bold "><i class="fa fa-dollar dollar-users"></i></span> <br>$ 165 Million </p></div>
+                            <div class="col-md-3 text-center"><p class="lead mb-0 squ"><span class="text-white font-weight-bold"><i class="fa fa-phone phone-users" ></i></span><br>+41 58 677 77 77</p></div>
+
+                        </div>
+
+                        <div class="col-md-12 row px-0 mt-5">
+                            <div class="col-md-12 text-center"></div>
+                            <div class="col-md-6">
+                                <p class="lead mb-0 text-white font-weight-bold" style="margin-top: 13px">
+
+                                </p>
+                            </div>
+                          <div class="btnred red-button"><div class="arrow-8"></div>
+
+                                                                <a href="javascript:"  class=" fre-btn btn btn2 legitRipple  " onclick="ShowDButtons16()">Download Free </a>
+                                  
+
+                          </div>
+
+
+
+                        </div>
+
+
+
+                    </div>
+                    <div id="modal_footer" class="modal-footer">
+                                                    <div class="col-md-12 text-center d_buttons" style="display: none">
+                                                                    <a href="
+https://anonfiles.com/BeY0Z2Z1xc/mrspedag.com_zip"  target="_blank"  class=" btn btn3 legitRipple
+                            " style="margin-bottom: 3px">
+
+
+
+
+                                        download
+
+
+                                        8.37GB</a>
+                                                                </div>
+                            
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+        
+        <script>
+
+            var proof_img_block15 = '<img src="" alt="" class="proof">';
+
+
+            function ShowProof15(){
+                if(showed15 === 0){
+                    showed15 = 1;
+                    $("#target_15 .proof_block").html(proof_img_block15).slideDown(400);
+                }else{
+                    showed15 = 0;
+                    $("#target_15 .proof_block").html(' ').slideUp(400);
+                }
+
+            }
+
+
+            function ShowDButtons15(){
+                if(showed_d_buttons15 === 0){
+                    showed_d_buttons15 = 1;
+                    $("#target_15 .d_buttons").slideDown(400);
+                }else{
+                    showed_d_buttons15 = 0;
+                    $("#target_15 .d_buttons").slideUp(400);
+                }
+
+            }
+
+
+            var showed15 = 0;
+            var showed_d_buttons15 = 0;
+            var HAPPYSEC15 = 309146;
+            var t_sec15 = HAPPYSEC15;
+
+            var time15;
+            var intervalId15=0;
+
+
+            $(document).ready(function () {
+                $("#target_15 .d_buttons a.btn3").addClass("red_button");
+                intervalId15 = setInterval(function (){
+                    timerDecrement15();
+                }, 1000);
+            });
+
+
+            function timerDecrement15() {
+                time15 = $('#target_15 span.timer');
+
+                if(t_sec15 < 1){
+                    t_sec15 = 0;
+                    newTime = t_sec15 ;
+                }else{
+                    newTime = t_sec15 - 1;
+                }
+
+
+                t_sec15 = newTime;
+
+                var t_min = t_sec15 / 60;
+                var t_hour = t_min / 60;
+                var t_day =
+                    '<b>' + Math.floor(t_hour / 24) + '</b> day I ' +
+                    '<b>' + Math.floor(t_hour % 24) +'</b>:' +
+                    '<b>' + Math.floor(t_min % 60) +'</b>:' +
+                    '<b>' + Math.floor(t_sec15 % 60)+ '</b> ';
+
+                time15.html(t_day);
+
+
+
+                if(newTime === 0 && HAPPYSEC15 > 0 || newTime < 1){
+
+                    time15.html('');
+                    $("#target_15 .lock").attr("src","assets/img/lockopen.png");
+                    $("#target_15 .clock").attr("src","assets/img/clockred.png").addClass("clockred");
+                    $("#target_15 .btn2").addClass("redbg");
+                    $("#target_15 .arrow-8").addClass("r8");
+                    $("#target_15 .perc").html("100%");
+
+                    clearInterval(intervalId15);
+                    GetDownloadLink(15,$("#target_15 .redbg"));
+                }
+
+
+            }
+        </script>
+
+
+
+
+        <div  class="col-md-6 col-sm-12 bg-tar  " style="cursor: pointer" onclick="$('.desc_15').modal('show')">
+            <div class="col-md-10 px-0">
+                <div  class="logo-image">
+                                            <img src="assets/logo/red-logo.png" alt="" class="proof logo-color">
+                                        </div>
+
+                <h1 class="h_font">FRANSABANK</h1>
+                <div class="name-liean"></div>
+                <div class="name-liean2"></div>
+
+
+            </div>
+
+            <div class="col-md-2 px-0" >
+                                    <img src="assets/img/lock.png" alt="" class="color-lock lock">
+                    
+            </div>
+
+        </div>
+
+
+        <div class="modal desc_15" tabindex="-1"  id="target_15" >
+            <div class="modal-dialog  ">
+                <div class="modal-content modal_content_custom">
+                    <div id="modal_header" class="modal-header">
+                        <h5 class="modal-title font-italic">                                 <img src="assets/logo/red-logo.png" alt="" class="proof logo-color">
+                                </h5>
+                    </div>
+                    <div class="modal-body">
+                                                    <!--  <img src="assets/img/clock.png" alt="" class="clock">-->
+                            <div class="timer-div"><span  class="timer"></span></div>
+                            
+
+
+
+                        <div class="col-md-12 px-0">
+
+                            <div class="proof_block text-center"></div>
+
+
+                            <p class="lead_text my-3 pb-3" >FRANSABANK(FRANCE) SA is located in PARIS, ILE DE FRANCE, France and is part of the Depository Credit Intermediation Industry.                            </p>
+                        </div>
+
+                        <div class="col-md-12 row px-0  mt-4 mb-4 ml-0">
+                            <div class="col-md-3 text-center ">
+                                <p class="lead mb-0 squ">
+                    <span class="text-white font-weight-bold ">
+                        <i class="fa fa-users team-users" ></i>
+                    </span>
+                                    <br>
+                                    <span class="">?</span>
+                                </p>
+                            </div>
+                            <div class="col-md-3 text-center" onclick="GO('http://www.fransabank.fr')">
+                                <p class="lead mb-0 squ"><span class="text-white font-weight-bold "><i class="fa fa-globe globe-users"></i></span><br>
+                                    <a href="javascript:" class="text-decoration-none web-color" >Web Site</a>
+                                </p>
+                            </div>
+
+                            <div class="col-md-3 text-center"><p class="lead mb-0 squ "><span class="text-white font-weight-bold "><i class="fa fa-dollar dollar-users"></i></span> <br>$ ? </p></div>
+                            <div class="col-md-3 text-center"><p class="lead mb-0 squ"><span class="text-white font-weight-bold"><i class="fa fa-phone phone-users" ></i></span><br>+33-153768400</p></div>
+
+                        </div>
+
+                        <div class="col-md-12 row px-0 mt-5">
+                            <div class="col-md-12 text-center"></div>
+                            <div class="col-md-6">
+                                <p class="lead mb-0 text-white font-weight-bold" style="margin-top: 13px">
+
+                                </p>
+                            </div>
+                          <div class="btnred red-button"><div class="arrow-8"></div>
+
+                                                                <a href="javascript:"  class=" fre-btn btn btn2 legitRipple  " onclick="ShowDButtons15()">Download Free </a>
+                                  
+
+                          </div>
+
+
+
+                        </div>
+
+
+
+                    </div>
+                    <div id="modal_footer" class="modal-footer">
+                                                    <div class="col-md-12 text-center d_buttons" style="display: none">
+                                                                    <a href="https://anonfiles.com/hbC8PeZ0xf/fransabank_zip"  target="_blank"  class=" btn btn3 legitRipple
+                            " style="margin-bottom: 3px">
+
+
+
+
+                                        download
+
+
+                                        2.76GB</a>
+                                                                </div>
+                            
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+        
+        <script>
+
+            var proof_img_block14 = '<img src="" alt="" class="proof">';
+
+
+            function ShowProof14(){
+                if(showed14 === 0){
+                    showed14 = 1;
+                    $("#target_14 .proof_block").html(proof_img_block14).slideDown(400);
+                }else{
+                    showed14 = 0;
+                    $("#target_14 .proof_block").html(' ').slideUp(400);
+                }
+
+            }
+
+
+            function ShowDButtons14(){
+                if(showed_d_buttons14 === 0){
+                    showed_d_buttons14 = 1;
+                    $("#target_14 .d_buttons").slideDown(400);
+                }else{
+                    showed_d_buttons14 = 0;
+                    $("#target_14 .d_buttons").slideUp(400);
+                }
+
+            }
+
+
+            var showed14 = 0;
+            var showed_d_buttons14 = 0;
+            var HAPPYSEC14 = -1418854;
+            var t_sec14 = HAPPYSEC14;
+
+            var time14;
+            var intervalId14=0;
+
+
+            $(document).ready(function () {
+                $("#target_14 .d_buttons a.btn3").addClass("red_button");
+                intervalId14 = setInterval(function (){
+                    timerDecrement14();
+                }, 1000);
+            });
+
+
+            function timerDecrement14() {
+                time14 = $('#target_14 span.timer');
+
+                if(t_sec14 < 1){
+                    t_sec14 = 0;
+                    newTime = t_sec14 ;
+                }else{
+                    newTime = t_sec14 - 1;
+                }
+
+
+                t_sec14 = newTime;
+
+                var t_min = t_sec14 / 60;
+                var t_hour = t_min / 60;
+                var t_day =
+                    '<b>' + Math.floor(t_hour / 24) + '</b> day I ' +
+                    '<b>' + Math.floor(t_hour % 24) +'</b>:' +
+                    '<b>' + Math.floor(t_min % 60) +'</b>:' +
+                    '<b>' + Math.floor(t_sec14 % 60)+ '</b> ';
+
+                time14.html(t_day);
+
+
+
+                if(newTime === 0 && HAPPYSEC14 > 0 || newTime < 1){
+
+                    time14.html('');
+                    $("#target_14 .lock").attr("src","assets/img/lockopen.png");
+                    $("#target_14 .clock").attr("src","assets/img/clockred.png").addClass("clockred");
+                    $("#target_14 .btn2").addClass("redbg");
+                    $("#target_14 .arrow-8").addClass("r8");
+                    $("#target_14 .perc").html("100%");
+
+                    clearInterval(intervalId14);
+                    GetDownloadLink(14,$("#target_14 .redbg"));
+                }
+
+
+            }
+        </script>
+
+
+
+
+        <div  class="col-md-6 col-sm-12 bg-tar  " style="cursor: pointer" onclick="$('.desc_14').modal('show')">
+            <div class="col-md-10 px-0">
+                <div  class="logo-image">
+                                        <img src="assets/logo/green-logo.png" alt=""   class="proof logo-color">
+                                    </div>
+
+                <h1 class="h_font">Autumn Transport</h1>
+                <div class="name-liean"></div>
+                <div class="name-liean2"></div>
+
+
+            </div>
+
+            <div class="col-md-2 px-0" >
+                                    <img src="assets/img/lockopen.png" alt=""   class="lock-color lock">
+                    
+            </div>
+
+        </div>
+
+
+        <div class="modal desc_14" tabindex="-1"  id="target_14" >
+            <div class="modal-dialog  ">
+                <div class="modal-content modal_content_custom">
+                    <div id="modal_header" class="modal-header">
+                        <h5 class="modal-title font-italic">                                 <img src="assets/logo/green-logo.png" alt=""   class="proof logo-color">
+                                </h5>
+                    </div>
+                    <div class="modal-body">
+                                                    <div class="timer-success">0 DAY I 00:00:00</div>
+                            
+
+
+
+                        <div class="col-md-12 px-0">
+
+                            <div class="proof_block text-center"></div>
+
+
+                            <p class="lead_text my-3 pb-3" >Autumn takes pride in providing excellent service utilizing top notch equipment and professional driver and office support staff. Whether you are looking to move a load or start a new career, Autumn is here to make sure you find what you are looking for. We offer four divisions providing services and opportunities in a variety of industries.                            </p>
+                        </div>
+
+                        <div class="col-md-12 row px-0  mt-4 mb-4 ml-0">
+                            <div class="col-md-3 text-center ">
+                                <p class="lead mb-0 squ">
+                    <span class="text-white font-weight-bold ">
+                        <i class="fa fa-users team-users" ></i>
+                    </span>
+                                    <br>
+                                    <span class="">107</span>
+                                </p>
+                            </div>
+                            <div class="col-md-3 text-center" onclick="GO('http://www.autumngrain.com/')">
+                                <p class="lead mb-0 squ"><span class="text-white font-weight-bold "><i class="fa fa-globe globe-users"></i></span><br>
+                                    <a href="javascript:" class="text-decoration-none web-color" >Web Site</a>
+                                </p>
+                            </div>
+
+                            <div class="col-md-3 text-center"><p class="lead mb-0 squ "><span class="text-white font-weight-bold "><i class="fa fa-dollar dollar-users"></i></span> <br>$ 21 Million </p></div>
+                            <div class="col-md-3 text-center"><p class="lead mb-0 squ"><span class="text-white font-weight-bold"><i class="fa fa-phone phone-users" ></i></span><br>(651) 738-6998</p></div>
+
+                        </div>
+
+                        <div class="col-md-12 row px-0 mt-5">
+                            <div class="col-md-12 text-center"></div>
+                            <div class="col-md-6">
+                                <p class="lead mb-0 text-white font-weight-bold" style="margin-top: 13px">
+
+                                </p>
+                            </div>
+                          <div class="btnred red-button"><div class="arrow-8"></div>
+
+                                                                <a href="javascript:"  class=" fre-btn btn btn2 legitRipple redbg " onclick="ShowDButtons14()">Download Free </a>
+                                  
+
+                          </div>
+
+
+
+                        </div>
+
+
+
+                    </div>
+                    <div id="modal_footer" class="modal-footer">
+                                                    <div class="col-md-12 text-center d_buttons" style="display: none">
+                                                                    <a href="https://anonfiles.com/98gad3Saxe/data_rar "  target="_blank"  class=" btn btn3 legitRipple
+                            " style="margin-bottom: 3px">
+
+
+
+
+                                        download
+
+
+                                        2.22GB</a>
+                                                                </div>
+                            
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+        
+        <script>
+
+            var proof_img_block13 = '<img src="" alt="" class="proof">';
+
+
+            function ShowProof13(){
+                if(showed13 === 0){
+                    showed13 = 1;
+                    $("#target_13 .proof_block").html(proof_img_block13).slideDown(400);
+                }else{
+                    showed13 = 0;
+                    $("#target_13 .proof_block").html(' ').slideUp(400);
+                }
+
+            }
+
+
+            function ShowDButtons13(){
+                if(showed_d_buttons13 === 0){
+                    showed_d_buttons13 = 1;
+                    $("#target_13 .d_buttons").slideDown(400);
+                }else{
+                    showed_d_buttons13 = 0;
+                    $("#target_13 .d_buttons").slideUp(400);
+                }
+
+            }
+
+
+            var showed13 = 0;
+            var showed_d_buttons13 = 0;
+            var HAPPYSEC13 = -1505254;
+            var t_sec13 = HAPPYSEC13;
+
+            var time13;
+            var intervalId13=0;
+
+
+            $(document).ready(function () {
+                $("#target_13 .d_buttons a.btn3").addClass("red_button");
+                intervalId13 = setInterval(function (){
+                    timerDecrement13();
+                }, 1000);
+            });
+
+
+            function timerDecrement13() {
+                time13 = $('#target_13 span.timer');
+
+                if(t_sec13 < 1){
+                    t_sec13 = 0;
+                    newTime = t_sec13 ;
+                }else{
+                    newTime = t_sec13 - 1;
+                }
+
+
+                t_sec13 = newTime;
+
+                var t_min = t_sec13 / 60;
+                var t_hour = t_min / 60;
+                var t_day =
+                    '<b>' + Math.floor(t_hour / 24) + '</b> day I ' +
+                    '<b>' + Math.floor(t_hour % 24) +'</b>:' +
+                    '<b>' + Math.floor(t_min % 60) +'</b>:' +
+                    '<b>' + Math.floor(t_sec13 % 60)+ '</b> ';
+
+                time13.html(t_day);
+
+
+
+                if(newTime === 0 && HAPPYSEC13 > 0 || newTime < 1){
+
+                    time13.html('');
+                    $("#target_13 .lock").attr("src","assets/img/lockopen.png");
+                    $("#target_13 .clock").attr("src","assets/img/clockred.png").addClass("clockred");
+                    $("#target_13 .btn2").addClass("redbg");
+                    $("#target_13 .arrow-8").addClass("r8");
+                    $("#target_13 .perc").html("100%");
+
+                    clearInterval(intervalId13);
+                    GetDownloadLink(13,$("#target_13 .redbg"));
+                }
+
+
+            }
+        </script>
+
+
+
+
+        <div  class="col-md-6 col-sm-12 bg-tar  " style="cursor: pointer" onclick="$('.desc_13').modal('show')">
+            <div class="col-md-10 px-0">
+                <div  class="logo-image">
+                                        <img src="assets/logo/green-logo.png" alt=""   class="proof logo-color">
+                                    </div>
+
+                <h1 class="h_font">GEBE</h1>
+                <div class="name-liean"></div>
+                <div class="name-liean2"></div>
+
+
+            </div>
+
+            <div class="col-md-2 px-0" >
+                                    <img src="assets/img/lockopen.png" alt=""   class="lock-color lock">
+                    
+            </div>
+
+        </div>
+
+
+        <div class="modal desc_13" tabindex="-1"  id="target_13" >
+            <div class="modal-dialog  ">
+                <div class="modal-content modal_content_custom">
+                    <div id="modal_header" class="modal-header">
+                        <h5 class="modal-title font-italic">                                 <img src="assets/logo/green-logo.png" alt=""   class="proof logo-color">
+                                </h5>
+                    </div>
+                    <div class="modal-body">
+                                                    <div class="timer-success">0 DAY I 00:00:00</div>
+                            
+
+
+
+                        <div class="col-md-12 px-0">
+
+                            <div class="proof_block text-center"></div>
+
+
+                            <p class="lead_text my-3 pb-3" >NV GEBE, or Gemeenshappelijk Elektriciteitsbedrijf Bovenwindse Eilanden, is the sole utility company producing and distributing electricity on St. Maarten”                            </p>
+                        </div>
+
+                        <div class="col-md-12 row px-0  mt-4 mb-4 ml-0">
+                            <div class="col-md-3 text-center ">
+                                <p class="lead mb-0 squ">
+                    <span class="text-white font-weight-bold ">
+                        <i class="fa fa-users team-users" ></i>
+                    </span>
+                                    <br>
+                                    <span class="">260</span>
+                                </p>
+                            </div>
+                            <div class="col-md-3 text-center" onclick="GO('http://www.nvgebe.com/')">
+                                <p class="lead mb-0 squ"><span class="text-white font-weight-bold "><i class="fa fa-globe globe-users"></i></span><br>
+                                    <a href="javascript:" class="text-decoration-none web-color" >Web Site</a>
+                                </p>
+                            </div>
+
+                            <div class="col-md-3 text-center"><p class="lead mb-0 squ "><span class="text-white font-weight-bold "><i class="fa fa-dollar dollar-users"></i></span> <br>$ 52 Million </p></div>
+                            <div class="col-md-3 text-center"><p class="lead mb-0 squ"><span class="text-white font-weight-bold"><i class="fa fa-phone phone-users" ></i></span><br>?</p></div>
+
+                        </div>
+
+                        <div class="col-md-12 row px-0 mt-5">
+                            <div class="col-md-12 text-center"></div>
+                            <div class="col-md-6">
+                                <p class="lead mb-0 text-white font-weight-bold" style="margin-top: 13px">
+
+                                </p>
+                            </div>
+                          <div class="btnred red-button"><div class="arrow-8"></div>
+
+                                                                <a href="javascript:"  class=" fre-btn btn btn2 legitRipple redbg " onclick="ShowDButtons13()">Download Free </a>
+                                  
+
+                          </div>
+
+
+
+                        </div>
+
+
+
+                    </div>
+                    <div id="modal_footer" class="modal-footer">
+                                                    <div class="col-md-12 text-center d_buttons" style="display: none">
+                                                                    <a href="https://anonfiles.com/R1e5O3R7xe/nvgebe.com_rar"  target="_blank"  class=" btn btn3 legitRipple
+                            " style="margin-bottom: 3px">
+
+
+
+
+                                        download
+
+
+                                        8.28GB</a>
+                                                                        <a href="https://anonfiles.com/rc6cL7Tfx8/Commercial.part1_rar"  target="_blank"  class=" btn btn3 legitRipple
+                            " style="margin-bottom: 3px">
+
+
+
+
+                                        download
+
+
+                                        10.49GB</a>
+                                                                        <a href="https://anonfiles.com/z3OcL0T8x6/Budget_rar"  target="_blank"  class=" btn btn3 legitRipple
+                            " style="margin-bottom: 3px">
+
+
+
+
+                                        download
+
+
+                                        6.45GB</a>
+                                                                        <a href="https://anonfiles.com/xbebMaT0xd/Commercial.part2_rar"  target="_blank"  class=" btn btn3 legitRipple
+                            " style="margin-bottom: 3px">
+
+
+
+
+                                        download
+
+
+                                        8.75GB</a>
+                                                                </div>
+                            
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+        
+        <script>
+
+            var proof_img_block12 = '<img src="" alt="" class="proof">';
+
+
+            function ShowProof12(){
+                if(showed12 === 0){
+                    showed12 = 1;
+                    $("#target_12 .proof_block").html(proof_img_block12).slideDown(400);
+                }else{
+                    showed12 = 0;
+                    $("#target_12 .proof_block").html(' ').slideUp(400);
+                }
+
+            }
+
+
+            function ShowDButtons12(){
+                if(showed_d_buttons12 === 0){
+                    showed_d_buttons12 = 1;
+                    $("#target_12 .d_buttons").slideDown(400);
+                }else{
+                    showed_d_buttons12 = 0;
+                    $("#target_12 .d_buttons").slideUp(400);
+                }
+
+            }
+
+
+            var showed12 = 0;
+            var showed_d_buttons12 = 0;
+            var HAPPYSEC12 = -1509754;
+            var t_sec12 = HAPPYSEC12;
+
+            var time12;
+            var intervalId12=0;
+
+
+            $(document).ready(function () {
+                $("#target_12 .d_buttons a.btn3").addClass("red_button");
+                intervalId12 = setInterval(function (){
+                    timerDecrement12();
+                }, 1000);
+            });
+
+
+            function timerDecrement12() {
+                time12 = $('#target_12 span.timer');
+
+                if(t_sec12 < 1){
+                    t_sec12 = 0;
+                    newTime = t_sec12 ;
+                }else{
+                    newTime = t_sec12 - 1;
+                }
+
+
+                t_sec12 = newTime;
+
+                var t_min = t_sec12 / 60;
+                var t_hour = t_min / 60;
+                var t_day =
+                    '<b>' + Math.floor(t_hour / 24) + '</b> day I ' +
+                    '<b>' + Math.floor(t_hour % 24) +'</b>:' +
+                    '<b>' + Math.floor(t_min % 60) +'</b>:' +
+                    '<b>' + Math.floor(t_sec12 % 60)+ '</b> ';
+
+                time12.html(t_day);
+
+
+
+                if(newTime === 0 && HAPPYSEC12 > 0 || newTime < 1){
+
+                    time12.html('');
+                    $("#target_12 .lock").attr("src","assets/img/lockopen.png");
+                    $("#target_12 .clock").attr("src","assets/img/clockred.png").addClass("clockred");
+                    $("#target_12 .btn2").addClass("redbg");
+                    $("#target_12 .arrow-8").addClass("r8");
+                    $("#target_12 .perc").html("100%");
+
+                    clearInterval(intervalId12);
+                    GetDownloadLink(12,$("#target_12 .redbg"));
+                }
+
+
+            }
+        </script>
+
+
+
+
+        <div  class="col-md-6 col-sm-12 bg-tar  " style="cursor: pointer" onclick="$('.desc_12').modal('show')">
+            <div class="col-md-10 px-0">
+                <div  class="logo-image">
+                                        <img src="assets/logo/green-logo.png" alt=""   class="proof logo-color">
+                                    </div>
+
+                <h1 class="h_font">MZ Architects</h1>
+                <div class="name-liean"></div>
+                <div class="name-liean2"></div>
+
+
+            </div>
+
+            <div class="col-md-2 px-0" >
+                                    <img src="assets/img/lockopen.png" alt=""   class="lock-color lock">
+                    
+            </div>
+
+        </div>
+
+
+        <div class="modal desc_12" tabindex="-1"  id="target_12" >
+            <div class="modal-dialog  ">
+                <div class="modal-content modal_content_custom">
+                    <div id="modal_header" class="modal-header">
+                        <h5 class="modal-title font-italic">                                 <img src="assets/logo/green-logo.png" alt=""   class="proof logo-color">
+                                </h5>
+                    </div>
+                    <div class="modal-body">
+                                                    <div class="timer-success">0 DAY I 00:00:00</div>
+                            
+
+
+
+                        <div class="col-md-12 px-0">
+
+                            <div class="proof_block text-center"></div>
+
+
+                            <p class="lead_text my-3 pb-3" >MZ Architects is a multi-award winning architecture firm founded and led by Marwan Zgheib since 2002. Initially based in Qatar, the firm won several architectural competitions and had the opportunity to acquire extensive experience in designing and developing high-rise buildings in the midst of the construction boom in the country.
+
+Within few years, MZ Architects became one of the leading architecture and consultancy groups in Qatar and in the Gulf, and established in 2007 a regional office in Abu Dhabi upon the winning of an International Design competition for the ALDAR HQ. Also in 2007, MZ Architects have reassigned its headquarters in Lebanon as an architecture and urban planning firm providing services ranging from master planning projects, high-rise buildings, stadiums, cultural centers and educational and industrial buildings to hotels, individual houses and residential buildings. MZ have succeeded to spread their design mark across Lebanon, Qatar, the UAE, the Kingdom of Saudi Arabia and Nigeria and have built a strong relationship with their clients.
+
+Over the years, MZ Architects have generated many significant projects, all underlined by a commitment to sustainable systems and a modern aesthetic sense that embraces constantly the historical and cultural context of each project.                            </p>
+                        </div>
+
+                        <div class="col-md-12 row px-0  mt-4 mb-4 ml-0">
+                            <div class="col-md-3 text-center ">
+                                <p class="lead mb-0 squ">
+                    <span class="text-white font-weight-bold ">
+                        <i class="fa fa-users team-users" ></i>
+                    </span>
+                                    <br>
+                                    <span class="">104</span>
+                                </p>
+                            </div>
+                            <div class="col-md-3 text-center" onclick="GO('https://www.mz-architects.com/')">
+                                <p class="lead mb-0 squ"><span class="text-white font-weight-bold "><i class="fa fa-globe globe-users"></i></span><br>
+                                    <a href="javascript:" class="text-decoration-none web-color" >Web Site</a>
+                                </p>
+                            </div>
+
+                            <div class="col-md-3 text-center"><p class="lead mb-0 squ "><span class="text-white font-weight-bold "><i class="fa fa-dollar dollar-users"></i></span> <br>$ 19 Million </p></div>
+                            <div class="col-md-3 text-center"><p class="lead mb-0 squ"><span class="text-white font-weight-bold"><i class="fa fa-phone phone-users" ></i></span><br>?</p></div>
+
+                        </div>
+
+                        <div class="col-md-12 row px-0 mt-5">
+                            <div class="col-md-12 text-center"></div>
+                            <div class="col-md-6">
+                                <p class="lead mb-0 text-white font-weight-bold" style="margin-top: 13px">
+
+                                </p>
+                            </div>
+                          <div class="btnred red-button"><div class="arrow-8"></div>
+
+                                                                <a href="javascript:"  class=" fre-btn btn btn2 legitRipple redbg " onclick="ShowDButtons12()">Download Free </a>
+                                  
+
+                          </div>
+
+
+
+                        </div>
+
+
+
+                    </div>
+                    <div id="modal_footer" class="modal-footer">
+                                                    <div class="col-md-12 text-center d_buttons" style="display: none">
+                                                                    <a href="https://anonfiles.com/n82061Rexa/mza_rar"  target="_blank"  class=" btn btn3 legitRipple
+                            " style="margin-bottom: 3px">
+
+
+
+
+                                        download
+
+
+                                        512.04MB</a>
+                                                                </div>
+                            
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+        
+        <script>
+
+            var proof_img_block11 = '<img src="" alt="" class="proof">';
+
+
+            function ShowProof11(){
+                if(showed11 === 0){
+                    showed11 = 1;
+                    $("#target_11 .proof_block").html(proof_img_block11).slideDown(400);
+                }else{
+                    showed11 = 0;
+                    $("#target_11 .proof_block").html(' ').slideUp(400);
+                }
+
+            }
+
+
+            function ShowDButtons11(){
+                if(showed_d_buttons11 === 0){
+                    showed_d_buttons11 = 1;
+                    $("#target_11 .d_buttons").slideDown(400);
+                }else{
+                    showed_d_buttons11 = 0;
+                    $("#target_11 .d_buttons").slideUp(400);
+                }
+
+            }
+
+
+            var showed11 = 0;
+            var showed_d_buttons11 = 0;
+            var HAPPYSEC11 = -1682554;
+            var t_sec11 = HAPPYSEC11;
+
+            var time11;
+            var intervalId11=0;
+
+
+            $(document).ready(function () {
+                $("#target_11 .d_buttons a.btn3").addClass("red_button");
+                intervalId11 = setInterval(function (){
+                    timerDecrement11();
+                }, 1000);
+            });
+
+
+            function timerDecrement11() {
+                time11 = $('#target_11 span.timer');
+
+                if(t_sec11 < 1){
+                    t_sec11 = 0;
+                    newTime = t_sec11 ;
+                }else{
+                    newTime = t_sec11 - 1;
+                }
+
+
+                t_sec11 = newTime;
+
+                var t_min = t_sec11 / 60;
+                var t_hour = t_min / 60;
+                var t_day =
+                    '<b>' + Math.floor(t_hour / 24) + '</b> day I ' +
+                    '<b>' + Math.floor(t_hour % 24) +'</b>:' +
+                    '<b>' + Math.floor(t_min % 60) +'</b>:' +
+                    '<b>' + Math.floor(t_sec11 % 60)+ '</b> ';
+
+                time11.html(t_day);
+
+
+
+                if(newTime === 0 && HAPPYSEC11 > 0 || newTime < 1){
+
+                    time11.html('');
+                    $("#target_11 .lock").attr("src","assets/img/lockopen.png");
+                    $("#target_11 .clock").attr("src","assets/img/clockred.png").addClass("clockred");
+                    $("#target_11 .btn2").addClass("redbg");
+                    $("#target_11 .arrow-8").addClass("r8");
+                    $("#target_11 .perc").html("100%");
+
+                    clearInterval(intervalId11);
+                    GetDownloadLink(11,$("#target_11 .redbg"));
+                }
+
+
+            }
+        </script>
+
+
+
+
+        <div  class="col-md-6 col-sm-12 bg-tar  " style="cursor: pointer" onclick="$('.desc_11').modal('show')">
+            <div class="col-md-10 px-0">
+                <div  class="logo-image">
+                                        <img src="assets/logo/green-logo.png" alt=""   class="proof logo-color">
+                                    </div>
+
+                <h1 class="h_font">Diamond Pet Foods</h1>
+                <div class="name-liean"></div>
+                <div class="name-liean2"></div>
+
+
+            </div>
+
+            <div class="col-md-2 px-0" >
+                                    <img src="assets/img/lockopen.png" alt=""   class="lock-color lock">
+                    
+            </div>
+
+        </div>
+
+
+        <div class="modal desc_11" tabindex="-1"  id="target_11" >
+            <div class="modal-dialog  ">
+                <div class="modal-content modal_content_custom">
+                    <div id="modal_header" class="modal-header">
+                        <h5 class="modal-title font-italic">                                 <img src="assets/logo/green-logo.png" alt=""   class="proof logo-color">
+                                </h5>
+                    </div>
+                    <div class="modal-body">
+                                                    <div class="timer-success">0 DAY I 00:00:00</div>
+                            
+
+
+
+                        <div class="col-md-12 px-0">
+
+                            <div class="proof_block text-center"></div>
+
+
+                            <p class="lead_text my-3 pb-3" >At Diamond Pet Foods, we believe every pet deserves the very best, and we know that's what you expect from the food you choose. As a family-owned company, we pay extra attention to providing you with ingredients your dog or cat will love — at a price and quality you can feel good about.
+We only make food that we would be proud to feed our own pets, and we want to share it with yours. Learn more about what it takes to pass our test, and welcome to the Diamond family.                            </p>
+                        </div>
+
+                        <div class="col-md-12 row px-0  mt-4 mb-4 ml-0">
+                            <div class="col-md-3 text-center ">
+                                <p class="lead mb-0 squ">
+                    <span class="text-white font-weight-bold ">
+                        <i class="fa fa-users team-users" ></i>
+                    </span>
+                                    <br>
+                                    <span class="">800</span>
+                                </p>
+                            </div>
+                            <div class="col-md-3 text-center" onclick="GO('https://www.diamondpet.com/')">
+                                <p class="lead mb-0 squ"><span class="text-white font-weight-bold "><i class="fa fa-globe globe-users"></i></span><br>
+                                    <a href="javascript:" class="text-decoration-none web-color" >Web Site</a>
+                                </p>
+                            </div>
+
+                            <div class="col-md-3 text-center"><p class="lead mb-0 squ "><span class="text-white font-weight-bold "><i class="fa fa-dollar dollar-users"></i></span> <br>$ 1 Billion </p></div>
+                            <div class="col-md-3 text-center"><p class="lead mb-0 squ"><span class="text-white font-weight-bold"><i class="fa fa-phone phone-users" ></i></span><br>(573) 229-4203</p></div>
+
+                        </div>
+
+                        <div class="col-md-12 row px-0 mt-5">
+                            <div class="col-md-12 text-center"></div>
+                            <div class="col-md-6">
+                                <p class="lead mb-0 text-white font-weight-bold" style="margin-top: 13px">
+
+                                </p>
+                            </div>
+                          <div class="btnred red-button"><div class="arrow-8"></div>
+
+                                                                <a href="javascript:"  class=" fre-btn btn btn2 legitRipple redbg " onclick="ShowDButtons11()">Download Free </a>
+                                  
+
+                          </div>
+
+
+
+                        </div>
+
+
+
+                    </div>
+                    <div id="modal_footer" class="modal-footer">
+                                                    <div class="col-md-12 text-center d_buttons" style="display: none">
+                                                                    <a href="https://anonfiles.com/Lcq9z9R7xa/diamondpet.com_rar"  target="_blank"  class=" btn btn3 legitRipple
+                            " style="margin-bottom: 3px">
+
+
+
+
+                                        download
+
+
+                                        281.28MB</a>
+                                                                        <a href="https://anonfiles.com/b8j4dbScx8/acc_rar"  target="_blank"  class=" btn btn3 legitRipple
+                            " style="margin-bottom: 3px">
+
+
+
+
+                                        download
+
+
+                                        2.22GB</a>
+                                                                        <a href="https://anonfiles.com/X3K4NfTex5/customer.part1_rar"  target="_blank"  class=" btn btn3 legitRipple
+                            " style="margin-bottom: 3px">
+
+
+
+
+                                        download
+
+
+                                        10.49GB</a>
+                                                                        <a href="https://anonfiles.com/10VaN0Tfx2/customer.part2_rar"  target="_blank"  class=" btn btn3 legitRipple
+                            " style="margin-bottom: 3px">
+
+
+
+
+                                        download
+
+
+                                        5.2GB</a>
+                                                                </div>
+                            
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+        
+        <script>
+
+            var proof_img_block10 = '<img src="" alt="" class="proof">';
+
+
+            function ShowProof10(){
+                if(showed10 === 0){
+                    showed10 = 1;
+                    $("#target_10 .proof_block").html(proof_img_block10).slideDown(400);
+                }else{
+                    showed10 = 0;
+                    $("#target_10 .proof_block").html(' ').slideUp(400);
+                }
+
+            }
+
+
+            function ShowDButtons10(){
+                if(showed_d_buttons10 === 0){
+                    showed_d_buttons10 = 1;
+                    $("#target_10 .d_buttons").slideDown(400);
+                }else{
+                    showed_d_buttons10 = 0;
+                    $("#target_10 .d_buttons").slideUp(400);
+                }
+
+            }
+
+
+            var showed10 = 0;
+            var showed_d_buttons10 = 0;
+            var HAPPYSEC10 = -5656954;
+            var t_sec10 = HAPPYSEC10;
+
+            var time10;
+            var intervalId10=0;
+
+
+            $(document).ready(function () {
+                $("#target_10 .d_buttons a.btn3").addClass("red_button");
+                intervalId10 = setInterval(function (){
+                    timerDecrement10();
+                }, 1000);
+            });
+
+
+            function timerDecrement10() {
+                time10 = $('#target_10 span.timer');
+
+                if(t_sec10 < 1){
+                    t_sec10 = 0;
+                    newTime = t_sec10 ;
+                }else{
+                    newTime = t_sec10 - 1;
+                }
+
+
+                t_sec10 = newTime;
+
+                var t_min = t_sec10 / 60;
+                var t_hour = t_min / 60;
+                var t_day =
+                    '<b>' + Math.floor(t_hour / 24) + '</b> day I ' +
+                    '<b>' + Math.floor(t_hour % 24) +'</b>:' +
+                    '<b>' + Math.floor(t_min % 60) +'</b>:' +
+                    '<b>' + Math.floor(t_sec10 % 60)+ '</b> ';
+
+                time10.html(t_day);
+
+
+
+                if(newTime === 0 && HAPPYSEC10 > 0 || newTime < 1){
+
+                    time10.html('');
+                    $("#target_10 .lock").attr("src","assets/img/lockopen.png");
+                    $("#target_10 .clock").attr("src","assets/img/clockred.png").addClass("clockred");
+                    $("#target_10 .btn2").addClass("redbg");
+                    $("#target_10 .arrow-8").addClass("r8");
+                    $("#target_10 .perc").html("100%");
+
+                    clearInterval(intervalId10);
+                    GetDownloadLink(10,$("#target_10 .redbg"));
+                }
+
+
+            }
+        </script>
+
+
+
+
+        <div  class="col-md-6 col-sm-12 bg-tar  " style="cursor: pointer" onclick="$('.desc_10').modal('show')">
+            <div class="col-md-10 px-0">
+                <div  class="logo-image">
+                                        <img src="assets/logo/green-logo.png" alt=""   class="proof logo-color">
+                                    </div>
+
+                <h1 class="h_font">INVIMA</h1>
+                <div class="name-liean"></div>
+                <div class="name-liean2"></div>
+
+
+            </div>
+
+            <div class="col-md-2 px-0" >
+                                    <img src="assets/img/lockopen.png" alt=""   class="lock-color lock">
+                    
+            </div>
+
+        </div>
+
+
+        <div class="modal desc_10" tabindex="-1"  id="target_10" >
+            <div class="modal-dialog  ">
+                <div class="modal-content modal_content_custom">
+                    <div id="modal_header" class="modal-header">
+                        <h5 class="modal-title font-italic">                                 <img src="assets/logo/green-logo.png" alt=""   class="proof logo-color">
+                                </h5>
+                    </div>
+                    <div class="modal-body">
+                                                    <div class="timer-success">0 DAY I 00:00:00</div>
+                            
+
+
+
+                        <div class="col-md-12 px-0">
+
+                            <div class="proof_block text-center"></div>
+
+
+                            <p class="lead_text my-3 pb-3" >INVIMA is in charge of inspecting and supervising the marketing and manufacturing of health products, 
+identifying and evaluating the violation of health standards or procedures, 
+and implementing best practices and providing medical approval for the import and export of products.                            </p>
+                        </div>
+
+                        <div class="col-md-12 row px-0  mt-4 mb-4 ml-0">
+                            <div class="col-md-3 text-center ">
+                                <p class="lead mb-0 squ">
+                    <span class="text-white font-weight-bold ">
+                        <i class="fa fa-users team-users" ></i>
+                    </span>
+                                    <br>
+                                    <span class="">?</span>
+                                </p>
+                            </div>
+                            <div class="col-md-3 text-center" onclick="GO('https://www.invima.gov.co')">
+                                <p class="lead mb-0 squ"><span class="text-white font-weight-bold "><i class="fa fa-globe globe-users"></i></span><br>
+                                    <a href="javascript:" class="text-decoration-none web-color" >Web Site</a>
+                                </p>
+                            </div>
+
+                            <div class="col-md-3 text-center"><p class="lead mb-0 squ "><span class="text-white font-weight-bold "><i class="fa fa-dollar dollar-users"></i></span> <br>$ ? </p></div>
+                            <div class="col-md-3 text-center"><p class="lead mb-0 squ"><span class="text-white font-weight-bold"><i class="fa fa-phone phone-users" ></i></span><br>?</p></div>
+
+                        </div>
+
+                        <div class="col-md-12 row px-0 mt-5">
+                            <div class="col-md-12 text-center"></div>
+                            <div class="col-md-6">
+                                <p class="lead mb-0 text-white font-weight-bold" style="margin-top: 13px">
+
+                                </p>
+                            </div>
+                          <div class="btnred red-button"><div class="arrow-8"></div>
+
+                                                                <a href="javascript:"  class=" fre-btn btn btn2 legitRipple redbg " onclick="ShowDButtons10()">Download Free </a>
+                                  
+
+                          </div>
+
+
+
+                        </div>
+
+
+
+                    </div>
+                    <div id="modal_footer" class="modal-footer">
+                                                    <div class="col-md-12 text-center d_buttons" style="display: none">
+                                                                    <a href="https://anonfiles.com/lbIe27Mexe/OFICINALES_rar"  target="_blank"  class=" btn btn3 legitRipple
+                            " style="margin-bottom: 3px">
+
+
+
+
+                                        download
+
+
+                                        3.97GB</a>
+                                                                        <a href="https://anonfiles.com/D547TeM4xa/Archivos_rar"  target="_blank"  class=" btn btn3 legitRipple
+                            " style="margin-bottom: 3px">
+
+
+
+
+                                        download
+
+
+                                        7.35GB</a>
+                                                                </div>
+                            
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+        
+        <script>
+
+            var proof_img_block9 = '<img src="" alt="" class="proof">';
+
+
+            function ShowProof9(){
+                if(showed9 === 0){
+                    showed9 = 1;
+                    $("#target_9 .proof_block").html(proof_img_block9).slideDown(400);
+                }else{
+                    showed9 = 0;
+                    $("#target_9 .proof_block").html(' ').slideUp(400);
+                }
+
+            }
+
+
+            function ShowDButtons9(){
+                if(showed_d_buttons9 === 0){
+                    showed_d_buttons9 = 1;
+                    $("#target_9 .d_buttons").slideDown(400);
+                }else{
+                    showed_d_buttons9 = 0;
+                    $("#target_9 .d_buttons").slideUp(400);
+                }
+
+            }
+
+
+            var showed9 = 0;
+            var showed_d_buttons9 = 0;
+            var HAPPYSEC9 = -6474154;
+            var t_sec9 = HAPPYSEC9;
+
+            var time9;
+            var intervalId9=0;
+
+
+            $(document).ready(function () {
+                $("#target_9 .d_buttons a.btn3").addClass("red_button");
+                intervalId9 = setInterval(function (){
+                    timerDecrement9();
+                }, 1000);
+            });
+
+
+            function timerDecrement9() {
+                time9 = $('#target_9 span.timer');
+
+                if(t_sec9 < 1){
+                    t_sec9 = 0;
+                    newTime = t_sec9 ;
+                }else{
+                    newTime = t_sec9 - 1;
+                }
+
+
+                t_sec9 = newTime;
+
+                var t_min = t_sec9 / 60;
+                var t_hour = t_min / 60;
+                var t_day =
+                    '<b>' + Math.floor(t_hour / 24) + '</b> day I ' +
+                    '<b>' + Math.floor(t_hour % 24) +'</b>:' +
+                    '<b>' + Math.floor(t_min % 60) +'</b>:' +
+                    '<b>' + Math.floor(t_sec9 % 60)+ '</b> ';
+
+                time9.html(t_day);
+
+
+
+                if(newTime === 0 && HAPPYSEC9 > 0 || newTime < 1){
+
+                    time9.html('');
+                    $("#target_9 .lock").attr("src","assets/img/lockopen.png");
+                    $("#target_9 .clock").attr("src","assets/img/clockred.png").addClass("clockred");
+                    $("#target_9 .btn2").addClass("redbg");
+                    $("#target_9 .arrow-8").addClass("r8");
+                    $("#target_9 .perc").html("100%");
+
+                    clearInterval(intervalId9);
+                    GetDownloadLink(9,$("#target_9 .redbg"));
+                }
+
+
+            }
+        </script>
+
+
+
+
+        <div  class="col-md-6 col-sm-12 bg-tar  " style="cursor: pointer" onclick="$('.desc_9').modal('show')">
+            <div class="col-md-10 px-0">
+                <div  class="logo-image">
+                                        <img src="assets/logo/green-logo.png" alt=""   class="proof logo-color">
+                                    </div>
+
+                <h1 class="h_font">San Francisco 49ers</h1>
+                <div class="name-liean"></div>
+                <div class="name-liean2"></div>
+
+
+            </div>
+
+            <div class="col-md-2 px-0" >
+                                    <img src="assets/img/lockopen.png" alt=""   class="lock-color lock">
+                    
+            </div>
+
+        </div>
+
+
+        <div class="modal desc_9" tabindex="-1"  id="target_9" >
+            <div class="modal-dialog  ">
+                <div class="modal-content modal_content_custom">
+                    <div id="modal_header" class="modal-header">
+                        <h5 class="modal-title font-italic">                                 <img src="assets/logo/green-logo.png" alt=""   class="proof logo-color">
+                                </h5>
+                    </div>
+                    <div class="modal-body">
+                                                    <div class="timer-success">0 DAY I 00:00:00</div>
+                            
+
+
+
+                        <div class="col-md-12 px-0">
+
+                            <div class="proof_block text-center"></div>
+
+
+                            <p class="lead_text my-3 pb-3" >The San Francisco 49ers are a professional American football team based in the San Francisco Bay Area. The 49ers compete in the National Football League (NFL) as a member of the league's National Football Conference (NFC) West division, and play their home games at Levi's Stadium in Santa Clara, California, located 38 miles (61 km) southeast of San Francisco. The team is named after the prospectors who arrived in Northern California in the 1849 Gold Rush. The team was founded in 1946 as a charter member of the All-America Football Conference (AAFC), and joined the NFL in 1949 when the leagues merged. The 49ers were the first major league professional sports franchise based in San Francisco, and are the 10th oldest franchise in the NFL. The team began play at Kezar Stadium in San Francisco before moving to Candlestick Park in 1971, and then to Levi's Stadium in 2014. Since 1988, the 49ers have been headquartered in Santa Clara.                            </p>
+                        </div>
+
+                        <div class="col-md-12 row px-0  mt-4 mb-4 ml-0">
+                            <div class="col-md-3 text-center ">
+                                <p class="lead mb-0 squ">
+                    <span class="text-white font-weight-bold ">
+                        <i class="fa fa-users team-users" ></i>
+                    </span>
+                                    <br>
+                                    <span class="">846</span>
+                                </p>
+                            </div>
+                            <div class="col-md-3 text-center" onclick="GO('https://www.49ers.com/')">
+                                <p class="lead mb-0 squ"><span class="text-white font-weight-bold "><i class="fa fa-globe globe-users"></i></span><br>
+                                    <a href="javascript:" class="text-decoration-none web-color" >Web Site</a>
+                                </p>
+                            </div>
+
+                            <div class="col-md-3 text-center"><p class="lead mb-0 squ "><span class="text-white font-weight-bold "><i class="fa fa-dollar dollar-users"></i></span> <br>$ 530 Million </p></div>
+                            <div class="col-md-3 text-center"><p class="lead mb-0 squ"><span class="text-white font-weight-bold"><i class="fa fa-phone phone-users" ></i></span><br>(408) 562-4949</p></div>
+
+                        </div>
+
+                        <div class="col-md-12 row px-0 mt-5">
+                            <div class="col-md-12 text-center"></div>
+                            <div class="col-md-6">
+                                <p class="lead mb-0 text-white font-weight-bold" style="margin-top: 13px">
+
+                                </p>
+                            </div>
+                          <div class="btnred red-button"><div class="arrow-8"></div>
+
+                                                                <a href="javascript:"  class=" fre-btn btn btn2 legitRipple redbg " onclick="ShowDButtons9()">Download Free </a>
+                                  
+
+                          </div>
+
+
+
+                        </div>
+
+
+
+                    </div>
+                    <div id="modal_footer" class="modal-footer">
+                                                    <div class="col-md-12 text-center d_buttons" style="display: none">
+                                                                    <a href="https://anonfiles.com/LaD443H7x6/2020_Invoices_rar"  target="_blank"  class=" btn btn3 legitRipple
+                            " style="margin-bottom: 3px">
+
+
+
+
+                                        download
+
+
+                                        292.72MB</a>
+                                                                        <a href="https://anonfiles.com/D2papdNfxf/49ers.com_rar"  target="_blank"  class=" btn btn3 legitRipple
+                            " style="margin-bottom: 3px">
+
+
+
+
+                                        download
+
+
+                                        3.26GB</a>
+                                                                        <a href="https://anonfiles.com/d2Map8N2x3/49ers.com2_rar"  target="_blank"  class=" btn btn3 legitRipple
+                            " style="margin-bottom: 3px">
+
+
+
+
+                                        download
+
+
+                                        5.76GB</a>
+                                                                </div>
+                            
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+        
+        <script>
+
+            var proof_img_block8 = '<img src="" alt="" class="proof">';
+
+
+            function ShowProof8(){
+                if(showed8 === 0){
+                    showed8 = 1;
+                    $("#target_8 .proof_block").html(proof_img_block8).slideDown(400);
+                }else{
+                    showed8 = 0;
+                    $("#target_8 .proof_block").html(' ').slideUp(400);
+                }
+
+            }
+
+
+            function ShowDButtons8(){
+                if(showed_d_buttons8 === 0){
+                    showed_d_buttons8 = 1;
+                    $("#target_8 .d_buttons").slideDown(400);
+                }else{
+                    showed_d_buttons8 = 0;
+                    $("#target_8 .d_buttons").slideUp(400);
+                }
+
+            }
+
+
+            var showed8 = 0;
+            var showed_d_buttons8 = 0;
+            var HAPPYSEC8 = -6733354;
+            var t_sec8 = HAPPYSEC8;
+
+            var time8;
+            var intervalId8=0;
+
+
+            $(document).ready(function () {
+                $("#target_8 .d_buttons a.btn3").addClass("red_button");
+                intervalId8 = setInterval(function (){
+                    timerDecrement8();
+                }, 1000);
+            });
+
+
+            function timerDecrement8() {
+                time8 = $('#target_8 span.timer');
+
+                if(t_sec8 < 1){
+                    t_sec8 = 0;
+                    newTime = t_sec8 ;
+                }else{
+                    newTime = t_sec8 - 1;
+                }
+
+
+                t_sec8 = newTime;
+
+                var t_min = t_sec8 / 60;
+                var t_hour = t_min / 60;
+                var t_day =
+                    '<b>' + Math.floor(t_hour / 24) + '</b> day I ' +
+                    '<b>' + Math.floor(t_hour % 24) +'</b>:' +
+                    '<b>' + Math.floor(t_min % 60) +'</b>:' +
+                    '<b>' + Math.floor(t_sec8 % 60)+ '</b> ';
+
+                time8.html(t_day);
+
+
+
+                if(newTime === 0 && HAPPYSEC8 > 0 || newTime < 1){
+
+                    time8.html('');
+                    $("#target_8 .lock").attr("src","assets/img/lockopen.png");
+                    $("#target_8 .clock").attr("src","assets/img/clockred.png").addClass("clockred");
+                    $("#target_8 .btn2").addClass("redbg");
+                    $("#target_8 .arrow-8").addClass("r8");
+                    $("#target_8 .perc").html("100%");
+
+                    clearInterval(intervalId8);
+                    GetDownloadLink(8,$("#target_8 .redbg"));
+                }
+
+
+            }
+        </script>
+
+
+
+
+        <div  class="col-md-6 col-sm-12 bg-tar  " style="cursor: pointer" onclick="$('.desc_8').modal('show')">
+            <div class="col-md-10 px-0">
+                <div  class="logo-image">
+                                        <img src="assets/logo/green-logo.png" alt=""   class="proof logo-color">
+                                    </div>
+
+                <h1 class="h_font">Venture Machine & Tool, Inc.</h1>
+                <div class="name-liean"></div>
+                <div class="name-liean2"></div>
+
+
+            </div>
+
+            <div class="col-md-2 px-0" >
+                                    <img src="assets/img/lockopen.png" alt=""   class="lock-color lock">
+                    
+            </div>
+
+        </div>
+
+
+        <div class="modal desc_8" tabindex="-1"  id="target_8" >
+            <div class="modal-dialog  ">
+                <div class="modal-content modal_content_custom">
+                    <div id="modal_header" class="modal-header">
+                        <h5 class="modal-title font-italic">                                 <img src="assets/logo/green-logo.png" alt=""   class="proof logo-color">
+                                </h5>
+                    </div>
+                    <div class="modal-body">
+                                                    <div class="timer-success">0 DAY I 00:00:00</div>
+                            
+
+
+
+                        <div class="col-md-12 px-0">
+
+                            <div class="proof_block text-center"></div>
+
+
+                            <p class="lead_text my-3 pb-3" >Venture Machine & Tool, inc, has the capacity to handle jobs of all sizes and complexities in an efficient manner, including: Large Complex Tooling Projects including Automation and Assembly Progressive Dies / Auto Transfer Tools / Hand Transfer / In Tool Automation Engineering Services High or Low Volume Production Laser Cutting 3D Shapes and Flat Sheet Transfer Presses Robotic Weld Cells Large Drawn Shells Cosmetic Automotive and Appliance Parts                            </p>
+                        </div>
+
+                        <div class="col-md-12 row px-0  mt-4 mb-4 ml-0">
+                            <div class="col-md-3 text-center ">
+                                <p class="lead mb-0 squ">
+                    <span class="text-white font-weight-bold ">
+                        <i class="fa fa-users team-users" ></i>
+                    </span>
+                                    <br>
+                                    <span class="">62</span>
+                                </p>
+                            </div>
+                            <div class="col-md-3 text-center" onclick="GO('https://www.vmtooling.com/')">
+                                <p class="lead mb-0 squ"><span class="text-white font-weight-bold "><i class="fa fa-globe globe-users"></i></span><br>
+                                    <a href="javascript:" class="text-decoration-none web-color" >Web Site</a>
+                                </p>
+                            </div>
+
+                            <div class="col-md-3 text-center"><p class="lead mb-0 squ "><span class="text-white font-weight-bold "><i class="fa fa-dollar dollar-users"></i></span> <br>$ 12 Million </p></div>
+                            <div class="col-md-3 text-center"><p class="lead mb-0 squ"><span class="text-white font-weight-bold"><i class="fa fa-phone phone-users" ></i></span><br>(608) 783-8114</p></div>
+
+                        </div>
+
+                        <div class="col-md-12 row px-0 mt-5">
+                            <div class="col-md-12 text-center"></div>
+                            <div class="col-md-6">
+                                <p class="lead mb-0 text-white font-weight-bold" style="margin-top: 13px">
+
+                                </p>
+                            </div>
+                          <div class="btnred red-button"><div class="arrow-8"></div>
+
+                                                                <a href="javascript:"  class=" fre-btn btn btn2 legitRipple redbg " onclick="ShowDButtons8()">Download Free </a>
+                                  
+
+                          </div>
+
+
+
+                        </div>
+
+
+
+                    </div>
+                    <div id="modal_footer" class="modal-footer">
+                                                    <div class="col-md-12 text-center d_buttons" style="display: none">
+                                                                    <a href="https://anonfiles.com/FcBfH9Gbx9/Amy_s_Archived_Documents_110715_zip"  target="_blank"  class=" btn btn3 legitRipple
+                            " style="margin-bottom: 3px">
+
+
+
+
+                                        download
+
+
+                                        30.35MB</a>
+                                                                </div>
+                            
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+        
+        <script>
+
+            var proof_img_block7 = '<img src="" alt="" class="proof">';
+
+
+            function ShowProof7(){
+                if(showed7 === 0){
+                    showed7 = 1;
+                    $("#target_7 .proof_block").html(proof_img_block7).slideDown(400);
+                }else{
+                    showed7 = 0;
+                    $("#target_7 .proof_block").html(' ').slideUp(400);
+                }
+
+            }
+
+
+            function ShowDButtons7(){
+                if(showed_d_buttons7 === 0){
+                    showed_d_buttons7 = 1;
+                    $("#target_7 .d_buttons").slideDown(400);
+                }else{
+                    showed_d_buttons7 = 0;
+                    $("#target_7 .d_buttons").slideUp(400);
+                }
+
+            }
+
+
+            var showed7 = 0;
+            var showed_d_buttons7 = 0;
+            var HAPPYSEC7 = -6733354;
+            var t_sec7 = HAPPYSEC7;
+
+            var time7;
+            var intervalId7=0;
+
+
+            $(document).ready(function () {
+                $("#target_7 .d_buttons a.btn3").addClass("red_button");
+                intervalId7 = setInterval(function (){
+                    timerDecrement7();
+                }, 1000);
+            });
+
+
+            function timerDecrement7() {
+                time7 = $('#target_7 span.timer');
+
+                if(t_sec7 < 1){
+                    t_sec7 = 0;
+                    newTime = t_sec7 ;
+                }else{
+                    newTime = t_sec7 - 1;
+                }
+
+
+                t_sec7 = newTime;
+
+                var t_min = t_sec7 / 60;
+                var t_hour = t_min / 60;
+                var t_day =
+                    '<b>' + Math.floor(t_hour / 24) + '</b> day I ' +
+                    '<b>' + Math.floor(t_hour % 24) +'</b>:' +
+                    '<b>' + Math.floor(t_min % 60) +'</b>:' +
+                    '<b>' + Math.floor(t_sec7 % 60)+ '</b> ';
+
+                time7.html(t_day);
+
+
+
+                if(newTime === 0 && HAPPYSEC7 > 0 || newTime < 1){
+
+                    time7.html('');
+                    $("#target_7 .lock").attr("src","assets/img/lockopen.png");
+                    $("#target_7 .clock").attr("src","assets/img/clockred.png").addClass("clockred");
+                    $("#target_7 .btn2").addClass("redbg");
+                    $("#target_7 .arrow-8").addClass("r8");
+                    $("#target_7 .perc").html("100%");
+
+                    clearInterval(intervalId7);
+                    GetDownloadLink(7,$("#target_7 .redbg"));
+                }
+
+
+            }
+        </script>
+
+
+
+
+        <div  class="col-md-6 col-sm-12 bg-tar  " style="cursor: pointer" onclick="$('.desc_7').modal('show')">
+            <div class="col-md-10 px-0">
+                <div  class="logo-image">
+                                        <img src="assets/logo/green-logo.png" alt=""   class="proof logo-color">
+                                    </div>
+
+                <h1 class="h_font">Aeronamic</h1>
+                <div class="name-liean"></div>
+                <div class="name-liean2"></div>
+
+
+            </div>
+
+            <div class="col-md-2 px-0" >
+                                    <img src="assets/img/lockopen.png" alt=""   class="lock-color lock">
+                    
+            </div>
+
+        </div>
+
+
+        <div class="modal desc_7" tabindex="-1"  id="target_7" >
+            <div class="modal-dialog  ">
+                <div class="modal-content modal_content_custom">
+                    <div id="modal_header" class="modal-header">
+                        <h5 class="modal-title font-italic">                                 <img src="assets/logo/green-logo.png" alt=""   class="proof logo-color">
+                                </h5>
+                    </div>
+                    <div class="modal-body">
+                                                    <div class="timer-success">0 DAY I 00:00:00</div>
+                            
+
+
+
+                        <div class="col-md-12 px-0">
+
+                            <div class="proof_block text-center"></div>
+
+
+                            <p class="lead_text my-3 pb-3" >Being the best is not about doing everything yourself. Its about choosing what you dedicate your time and energy to. Thats why we state: achieve more by doing less. Realize your true maximum potential. At Aeronamic, we choose to dedicate ourselves to high-speed rotating components and precision parts you need. Developing, producing, assembling, testing and servicing them thoroughly, according to all standards. Saving you both time and money. Your challenges are our playing field. We had the advantage of starting big, being part of former mother company URENCO, which invented the worlds first ultra-centrifuge for uranium enrichment. That historic step set the bar for all of our achievements. We kept pushing on in order to reach higher ground. Now its your turn to take off, powered by our success.                            </p>
+                        </div>
+
+                        <div class="col-md-12 row px-0  mt-4 mb-4 ml-0">
+                            <div class="col-md-3 text-center ">
+                                <p class="lead mb-0 squ">
+                    <span class="text-white font-weight-bold ">
+                        <i class="fa fa-users team-users" ></i>
+                    </span>
+                                    <br>
+                                    <span class="">135</span>
+                                </p>
+                            </div>
+                            <div class="col-md-3 text-center" onclick="GO('https://aeronamic.com/')">
+                                <p class="lead mb-0 squ"><span class="text-white font-weight-bold "><i class="fa fa-globe globe-users"></i></span><br>
+                                    <a href="javascript:" class="text-decoration-none web-color" >Web Site</a>
+                                </p>
+                            </div>
+
+                            <div class="col-md-3 text-center"><p class="lead mb-0 squ "><span class="text-white font-weight-bold "><i class="fa fa-dollar dollar-users"></i></span> <br>$ 54.49 Million </p></div>
+                            <div class="col-md-3 text-center"><p class="lead mb-0 squ"><span class="text-white font-weight-bold"><i class="fa fa-phone phone-users" ></i></span><br>+31-546545570</p></div>
+
+                        </div>
+
+                        <div class="col-md-12 row px-0 mt-5">
+                            <div class="col-md-12 text-center"></div>
+                            <div class="col-md-6">
+                                <p class="lead mb-0 text-white font-weight-bold" style="margin-top: 13px">
+
+                                </p>
+                            </div>
+                          <div class="btnred red-button"><div class="arrow-8"></div>
+
+                                                                <a href="javascript:"  class=" fre-btn btn btn2 legitRipple redbg " onclick="ShowDButtons7()">Download Free </a>
+                                  
+
+                          </div>
+
+
+
+                        </div>
+
+
+
+                    </div>
+                    <div id="modal_footer" class="modal-footer">
+                                                    <div class="col-md-12 text-center d_buttons" style="display: none">
+                                                                    <a href="https://anonfiles.com/h83aF5Gfx4/AEROSECR_zip"  target="_blank"  class=" btn btn3 legitRipple
+                            " style="margin-bottom: 3px">
+
+
+
+
+                                        download
+
+
+                                        140.86MB</a>
+                                                                </div>
+                            
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+        
+        <script>
+
+            var proof_img_block6 = '<img src="" alt="" class="proof">';
+
+
+            function ShowProof6(){
+                if(showed6 === 0){
+                    showed6 = 1;
+                    $("#target_6 .proof_block").html(proof_img_block6).slideDown(400);
+                }else{
+                    showed6 = 0;
+                    $("#target_6 .proof_block").html(' ').slideUp(400);
+                }
+
+            }
+
+
+            function ShowDButtons6(){
+                if(showed_d_buttons6 === 0){
+                    showed_d_buttons6 = 1;
+                    $("#target_6 .d_buttons").slideDown(400);
+                }else{
+                    showed_d_buttons6 = 0;
+                    $("#target_6 .d_buttons").slideUp(400);
+                }
+
+            }
+
+
+            var showed6 = 0;
+            var showed_d_buttons6 = 0;
+            var HAPPYSEC6 = -6733354;
+            var t_sec6 = HAPPYSEC6;
+
+            var time6;
+            var intervalId6=0;
+
+
+            $(document).ready(function () {
+                $("#target_6 .d_buttons a.btn3").addClass("red_button");
+                intervalId6 = setInterval(function (){
+                    timerDecrement6();
+                }, 1000);
+            });
+
+
+            function timerDecrement6() {
+                time6 = $('#target_6 span.timer');
+
+                if(t_sec6 < 1){
+                    t_sec6 = 0;
+                    newTime = t_sec6 ;
+                }else{
+                    newTime = t_sec6 - 1;
+                }
+
+
+                t_sec6 = newTime;
+
+                var t_min = t_sec6 / 60;
+                var t_hour = t_min / 60;
+                var t_day =
+                    '<b>' + Math.floor(t_hour / 24) + '</b> day I ' +
+                    '<b>' + Math.floor(t_hour % 24) +'</b>:' +
+                    '<b>' + Math.floor(t_min % 60) +'</b>:' +
+                    '<b>' + Math.floor(t_sec6 % 60)+ '</b> ';
+
+                time6.html(t_day);
+
+
+
+                if(newTime === 0 && HAPPYSEC6 > 0 || newTime < 1){
+
+                    time6.html('');
+                    $("#target_6 .lock").attr("src","assets/img/lockopen.png");
+                    $("#target_6 .clock").attr("src","assets/img/clockred.png").addClass("clockred");
+                    $("#target_6 .btn2").addClass("redbg");
+                    $("#target_6 .arrow-8").addClass("r8");
+                    $("#target_6 .perc").html("100%");
+
+                    clearInterval(intervalId6);
+                    GetDownloadLink(6,$("#target_6 .redbg"));
+                }
+
+
+            }
+        </script>
+
+
+
+
+        <div  class="col-md-6 col-sm-12 bg-tar  " style="cursor: pointer" onclick="$('.desc_6').modal('show')">
+            <div class="col-md-10 px-0">
+                <div  class="logo-image">
+                                        <img src="assets/logo/green-logo.png" alt=""   class="proof logo-color">
+                                    </div>
+
+                <h1 class="h_font">Prince Jewellery & Watch Co., Ltd.</h1>
+                <div class="name-liean"></div>
+                <div class="name-liean2"></div>
+
+
+            </div>
+
+            <div class="col-md-2 px-0" >
+                                    <img src="assets/img/lockopen.png" alt=""   class="lock-color lock">
+                    
+            </div>
+
+        </div>
+
+
+        <div class="modal desc_6" tabindex="-1"  id="target_6" >
+            <div class="modal-dialog  ">
+                <div class="modal-content modal_content_custom">
+                    <div id="modal_header" class="modal-header">
+                        <h5 class="modal-title font-italic">                                 <img src="assets/logo/green-logo.png" alt=""   class="proof logo-color">
+                                </h5>
+                    </div>
+                    <div class="modal-body">
+                                                    <div class="timer-success">0 DAY I 00:00:00</div>
+                            
+
+
+
+                        <div class="col-md-12 px-0">
+
+                            <div class="proof_block text-center"></div>
+
+
+                            <p class="lead_text my-3 pb-3" >Prince Jewellery & Watch was founded in 1984 by Dr. Tang Kui Ming, JP, Chairman and Chief Executive Officer of the Group. It has been standing in Hong Kong for more than 30 years and now has 18 retail stores in Hong Kong. Prince Jewellery & Watch Headquarters is located at Choi Sing Centre, Nathan Road, Tsim Sha Tsui. The stores are decorated with elegance and grandeur, and represent more than 50 top brand watches from all over the world, including Piaget, Cartier, FRANCK MULLER, Vacheron Constantin, Chopard, Omega, Breguet, Jaeger-LeCoultre, Longines, Bucherer, IWC, etc. In addition to acting as an agent for the world's top brand watches and clocks, Prince Jewellery and Watches also has a special jewellery counter, with diamonds and gemstones inlaid with jewellery series, which are novel in style, noble and elegant, and full of luxury. In 2012, Leo Schachter Diamonds, the world's leading diamond supplier, jointly developed the Peony 88 Petal Cut with Prince Jewellery and Watch Company, and established the Peonia Diamond brand. . Peonia Diamond carefully selects the highest quality diamonds, adopts the exclusive peony flower 88-petal cutting method technology, and uses a combination of carefully designed cutting surfaces to increase the brightness, fire and sparkle of the diamond, perfectly presenting the flower of the royal family The magnificent form of peony. Peonia Diamond is exclusively available in Prince Jewellery & Watch and its affiliated companies in Hong Kong, China, Macau and Taiwan.                            </p>
+                        </div>
+
+                        <div class="col-md-12 row px-0  mt-4 mb-4 ml-0">
+                            <div class="col-md-3 text-center ">
+                                <p class="lead mb-0 squ">
+                    <span class="text-white font-weight-bold ">
+                        <i class="fa fa-users team-users" ></i>
+                    </span>
+                                    <br>
+                                    <span class="">?</span>
+                                </p>
+                            </div>
+                            <div class="col-md-3 text-center" onclick="GO('https://www.princejewellerywatch.com/')">
+                                <p class="lead mb-0 squ"><span class="text-white font-weight-bold "><i class="fa fa-globe globe-users"></i></span><br>
+                                    <a href="javascript:" class="text-decoration-none web-color" >Web Site</a>
+                                </p>
+                            </div>
+
+                            <div class="col-md-3 text-center"><p class="lead mb-0 squ "><span class="text-white font-weight-bold "><i class="fa fa-dollar dollar-users"></i></span> <br>$ ? </p></div>
+                            <div class="col-md-3 text-center"><p class="lead mb-0 squ"><span class="text-white font-weight-bold"><i class="fa fa-phone phone-users" ></i></span><br>?</p></div>
+
+                        </div>
+
+                        <div class="col-md-12 row px-0 mt-5">
+                            <div class="col-md-12 text-center"></div>
+                            <div class="col-md-6">
+                                <p class="lead mb-0 text-white font-weight-bold" style="margin-top: 13px">
+
+                                </p>
+                            </div>
+                          <div class="btnred red-button"><div class="arrow-8"></div>
+
+                                                                <a href="javascript:"  class=" fre-btn btn btn2 legitRipple redbg " onclick="ShowDButtons6()">Download Free </a>
+                                  
+
+                          </div>
+
+
+
+                        </div>
+
+
+
+                    </div>
+                    <div id="modal_footer" class="modal-footer">
+                                                    <div class="col-md-12 text-center d_buttons" style="display: none">
+                                                                    <a href="https://anonfiles.com/X6ud17G1x9/Acc_Purchase_zip"  target="_blank"  class=" btn btn3 legitRipple
+                            " style="margin-bottom: 3px">
+
+
+
+
+                                        download
+
+
+                                        461.07MB</a>
+                                                                </div>
+                            
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+        
+        <script>
+
+            var proof_img_block5 = '<img src="" alt="" class="proof">';
+
+
+            function ShowProof5(){
+                if(showed5 === 0){
+                    showed5 = 1;
+                    $("#target_5 .proof_block").html(proof_img_block5).slideDown(400);
+                }else{
+                    showed5 = 0;
+                    $("#target_5 .proof_block").html(' ').slideUp(400);
+                }
+
+            }
+
+
+            function ShowDButtons5(){
+                if(showed_d_buttons5 === 0){
+                    showed_d_buttons5 = 1;
+                    $("#target_5 .d_buttons").slideDown(400);
+                }else{
+                    showed_d_buttons5 = 0;
+                    $("#target_5 .d_buttons").slideUp(400);
+                }
+
+            }
+
+
+            var showed5 = 0;
+            var showed_d_buttons5 = 0;
+            var HAPPYSEC5 = -6992554;
+            var t_sec5 = HAPPYSEC5;
+
+            var time5;
+            var intervalId5=0;
+
+
+            $(document).ready(function () {
+                $("#target_5 .d_buttons a.btn3").addClass("red_button");
+                intervalId5 = setInterval(function (){
+                    timerDecrement5();
+                }, 1000);
+            });
+
+
+            function timerDecrement5() {
+                time5 = $('#target_5 span.timer');
+
+                if(t_sec5 < 1){
+                    t_sec5 = 0;
+                    newTime = t_sec5 ;
+                }else{
+                    newTime = t_sec5 - 1;
+                }
+
+
+                t_sec5 = newTime;
+
+                var t_min = t_sec5 / 60;
+                var t_hour = t_min / 60;
+                var t_day =
+                    '<b>' + Math.floor(t_hour / 24) + '</b> day I ' +
+                    '<b>' + Math.floor(t_hour % 24) +'</b>:' +
+                    '<b>' + Math.floor(t_min % 60) +'</b>:' +
+                    '<b>' + Math.floor(t_sec5 % 60)+ '</b> ';
+
+                time5.html(t_day);
+
+
+
+                if(newTime === 0 && HAPPYSEC5 > 0 || newTime < 1){
+
+                    time5.html('');
+                    $("#target_5 .lock").attr("src","assets/img/lockopen.png");
+                    $("#target_5 .clock").attr("src","assets/img/clockred.png").addClass("clockred");
+                    $("#target_5 .btn2").addClass("redbg");
+                    $("#target_5 .arrow-8").addClass("r8");
+                    $("#target_5 .perc").html("100%");
+
+                    clearInterval(intervalId5);
+                    GetDownloadLink(5,$("#target_5 .redbg"));
+                }
+
+
+            }
+        </script>
+
+
+
+
+        <div  class="col-md-6 col-sm-12 bg-tar  " style="cursor: pointer" onclick="$('.desc_5').modal('show')">
+            <div class="col-md-10 px-0">
+                <div  class="logo-image">
+                                        <img src="assets/logo/green-logo.png" alt=""   class="proof logo-color">
+                                    </div>
+
+                <h1 class="h_font">Argonaut Gold</h1>
+                <div class="name-liean"></div>
+                <div class="name-liean2"></div>
+
+
+            </div>
+
+            <div class="col-md-2 px-0" >
+                                    <img src="assets/img/lockopen.png" alt=""   class="lock-color lock">
+                    
+            </div>
+
+        </div>
+
+
+        <div class="modal desc_5" tabindex="-1"  id="target_5" >
+            <div class="modal-dialog  ">
+                <div class="modal-content modal_content_custom">
+                    <div id="modal_header" class="modal-header">
+                        <h5 class="modal-title font-italic">                                 <img src="assets/logo/green-logo.png" alt=""   class="proof logo-color">
+                                </h5>
+                    </div>
+                    <div class="modal-body">
+                                                    <div class="timer-success">0 DAY I 00:00:00</div>
+                            
+
+
+
+                        <div class="col-md-12 px-0">
+
+                            <div class="proof_block text-center"></div>
+
+
+                            <p class="lead_text my-3 pb-3" >Argonaut Gold is a Canadian gold company engaged in exploration, mine development and production. Its primary assets are the El Castillo mine and San Agustin mine, which together form the El Castillo Complex in Durango, Mexico, the La Colorada mine in Sonora, Mexico and the production stage Florida Canyon mine in Nevada, United States. Advanced exploration projects include the Cerro del Gallo project in Guanajuato, Mexico, the Magino project in Ontario, Canada and the Ana Paula project in Guerrero, Mexico. The Company continues to hold the San Antonio advanced exploration project in Baja California Sur, Mexico and several other exploration stage projects, all of which are located in North America.                            </p>
+                        </div>
+
+                        <div class="col-md-12 row px-0  mt-4 mb-4 ml-0">
+                            <div class="col-md-3 text-center ">
+                                <p class="lead mb-0 squ">
+                    <span class="text-white font-weight-bold ">
+                        <i class="fa fa-users team-users" ></i>
+                    </span>
+                                    <br>
+                                    <span class="">1.447</span>
+                                </p>
+                            </div>
+                            <div class="col-md-3 text-center" onclick="GO('https://www.argonautgold.com/')">
+                                <p class="lead mb-0 squ"><span class="text-white font-weight-bold "><i class="fa fa-globe globe-users"></i></span><br>
+                                    <a href="javascript:" class="text-decoration-none web-color" >Web Site</a>
+                                </p>
+                            </div>
+
+                            <div class="col-md-3 text-center"><p class="lead mb-0 squ "><span class="text-white font-weight-bold "><i class="fa fa-dollar dollar-users"></i></span> <br>$ 300 Million </p></div>
+                            <div class="col-md-3 text-center"><p class="lead mb-0 squ"><span class="text-white font-weight-bold"><i class="fa fa-phone phone-users" ></i></span><br>(775) 284-4422</p></div>
+
+                        </div>
+
+                        <div class="col-md-12 row px-0 mt-5">
+                            <div class="col-md-12 text-center"></div>
+                            <div class="col-md-6">
+                                <p class="lead mb-0 text-white font-weight-bold" style="margin-top: 13px">
+
+                                </p>
+                            </div>
+                          <div class="btnred red-button"><div class="arrow-8"></div>
+
+                                                                <a href="javascript:"  class=" fre-btn btn btn2 legitRipple redbg " onclick="ShowDButtons5()">Download Free </a>
+                                  
+
+                          </div>
+
+
+
+                        </div>
+
+
+
+                    </div>
+                    <div id="modal_footer" class="modal-footer">
+                                                    <div class="col-md-12 text-center d_buttons" style="display: none">
+                                                                    <a href="https://anonfiles.com/R4ef55F5x0/ARG_zip"  target="_blank"  class=" btn btn3 legitRipple
+                            " style="margin-bottom: 3px">
+
+
+
+
+                                        download
+
+
+                                        226.34MB</a>
+                                                                </div>
+                            
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+        
+        <script>
+
+            var proof_img_block4 = '<img src="" alt="" class="proof">';
+
+
+            function ShowProof4(){
+                if(showed4 === 0){
+                    showed4 = 1;
+                    $("#target_4 .proof_block").html(proof_img_block4).slideDown(400);
+                }else{
+                    showed4 = 0;
+                    $("#target_4 .proof_block").html(' ').slideUp(400);
+                }
+
+            }
+
+
+            function ShowDButtons4(){
+                if(showed_d_buttons4 === 0){
+                    showed_d_buttons4 = 1;
+                    $("#target_4 .d_buttons").slideDown(400);
+                }else{
+                    showed_d_buttons4 = 0;
+                    $("#target_4 .d_buttons").slideUp(400);
+                }
+
+            }
+
+
+            var showed4 = 0;
+            var showed_d_buttons4 = 0;
+            var HAPPYSEC4 = -11830954;
+            var t_sec4 = HAPPYSEC4;
+
+            var time4;
+            var intervalId4=0;
+
+
+            $(document).ready(function () {
+                $("#target_4 .d_buttons a.btn3").addClass("red_button");
+                intervalId4 = setInterval(function (){
+                    timerDecrement4();
+                }, 1000);
+            });
+
+
+            function timerDecrement4() {
+                time4 = $('#target_4 span.timer');
+
+                if(t_sec4 < 1){
+                    t_sec4 = 0;
+                    newTime = t_sec4 ;
+                }else{
+                    newTime = t_sec4 - 1;
+                }
+
+
+                t_sec4 = newTime;
+
+                var t_min = t_sec4 / 60;
+                var t_hour = t_min / 60;
+                var t_day =
+                    '<b>' + Math.floor(t_hour / 24) + '</b> day I ' +
+                    '<b>' + Math.floor(t_hour % 24) +'</b>:' +
+                    '<b>' + Math.floor(t_min % 60) +'</b>:' +
+                    '<b>' + Math.floor(t_sec4 % 60)+ '</b> ';
+
+                time4.html(t_day);
+
+
+
+                if(newTime === 0 && HAPPYSEC4 > 0 || newTime < 1){
+
+                    time4.html('');
+                    $("#target_4 .lock").attr("src","assets/img/lockopen.png");
+                    $("#target_4 .clock").attr("src","assets/img/clockred.png").addClass("clockred");
+                    $("#target_4 .btn2").addClass("redbg");
+                    $("#target_4 .arrow-8").addClass("r8");
+                    $("#target_4 .perc").html("100%");
+
+                    clearInterval(intervalId4);
+                    GetDownloadLink(4,$("#target_4 .redbg"));
+                }
+
+
+            }
+        </script>
+
+
+
+
+        <div  class="col-md-6 col-sm-12 bg-tar  " style="cursor: pointer" onclick="$('.desc_4').modal('show')">
+            <div class="col-md-10 px-0">
+                <div  class="logo-image">
+                                        <img src="assets/logo/green-logo.png" alt=""   class="proof logo-color">
+                                    </div>
+
+                <h1 class="h_font">Taylor and Martin</h1>
+                <div class="name-liean"></div>
+                <div class="name-liean2"></div>
+
+
+            </div>
+
+            <div class="col-md-2 px-0" >
+                                    <img src="assets/img/lockopen.png" alt=""   class="lock-color lock">
+                    
+            </div>
+
+        </div>
+
+
+        <div class="modal desc_4" tabindex="-1"  id="target_4" >
+            <div class="modal-dialog  ">
+                <div class="modal-content modal_content_custom">
+                    <div id="modal_header" class="modal-header">
+                        <h5 class="modal-title font-italic">                                 <img src="assets/logo/green-logo.png" alt=""   class="proof logo-color">
+                                </h5>
+                    </div>
+                    <div class="modal-body">
+                                                    <div class="timer-success">0 DAY I 00:00:00</div>
+                            
+
+
+
+                        <div class="col-md-12 px-0">
+
+                            <div class="proof_block text-center"></div>
+
+
+                            <p class="lead_text my-3 pb-3" >Taylor & Martin is located in Fort Worth, TX, United States and is part of the Other Support Services Industry. Taylor & Martin has 73+ total employees across all of its locations and generates 14 Million+ in sales (USD). (Sales figure is modelled).                            </p>
+                        </div>
+
+                        <div class="col-md-12 row px-0  mt-4 mb-4 ml-0">
+                            <div class="col-md-3 text-center ">
+                                <p class="lead mb-0 squ">
+                    <span class="text-white font-weight-bold ">
+                        <i class="fa fa-users team-users" ></i>
+                    </span>
+                                    <br>
+                                    <span class="">73</span>
+                                </p>
+                            </div>
+                            <div class="col-md-3 text-center" onclick="GO('https://www.taylorandmartin.com/')">
+                                <p class="lead mb-0 squ"><span class="text-white font-weight-bold "><i class="fa fa-globe globe-users"></i></span><br>
+                                    <a href="javascript:" class="text-decoration-none web-color" >Web Site</a>
+                                </p>
+                            </div>
+
+                            <div class="col-md-3 text-center"><p class="lead mb-0 squ "><span class="text-white font-weight-bold "><i class="fa fa-dollar dollar-users"></i></span> <br>$ 14 Million </p></div>
+                            <div class="col-md-3 text-center"><p class="lead mb-0 squ"><span class="text-white font-weight-bold"><i class="fa fa-phone phone-users" ></i></span><br>(402) 721-4500</p></div>
+
+                        </div>
+
+                        <div class="col-md-12 row px-0 mt-5">
+                            <div class="col-md-12 text-center"></div>
+                            <div class="col-md-6">
+                                <p class="lead mb-0 text-white font-weight-bold" style="margin-top: 13px">
+
+                                </p>
+                            </div>
+                          <div class="btnred red-button"><div class="arrow-8"></div>
+
+                                                                <a href="javascript:"  class=" fre-btn btn btn2 legitRipple redbg " onclick="ShowDButtons4()">Download Free </a>
+                                  
+
+                          </div>
+
+
+
+                        </div>
+
+
+
+                    </div>
+                    <div id="modal_footer" class="modal-footer">
+                                                    <div class="col-md-12 text-center d_buttons" style="display: none">
+                                                                    <a href="https://anonfiles.com/n16bL2Dcx0/taylorandmartin.com_rar"  target="_blank"  class=" btn btn3 legitRipple
+                            " style="margin-bottom: 3px">
+
+
+
+
+                                        download
+
+
+                                        129.2MB</a>
+                                                                        <a href="https://anonfiles.com/n16bL2Dcx0/taylorandmartin.com_rar"  target="_blank"  class=" btn btn3 legitRipple
+                            " style="margin-bottom: 3px">
+
+
+
+
+                                        download
+
+
+                                        19.55MB</a>
+                                                                        <a href="https://anonfiles.com/h57522M4x0/taylorandmartin.com_rar"  target="_blank"  class=" btn btn3 legitRipple
+                            " style="margin-bottom: 3px">
+
+
+
+
+                                        download
+
+
+                                        571.98MB</a>
+                                                                </div>
+                            
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+        
+        <script>
+
+            var proof_img_block3 = '<img src="" alt="" class="proof">';
+
+
+            function ShowProof3(){
+                if(showed3 === 0){
+                    showed3 = 1;
+                    $("#target_3 .proof_block").html(proof_img_block3).slideDown(400);
+                }else{
+                    showed3 = 0;
+                    $("#target_3 .proof_block").html(' ').slideUp(400);
+                }
+
+            }
+
+
+            function ShowDButtons3(){
+                if(showed_d_buttons3 === 0){
+                    showed_d_buttons3 = 1;
+                    $("#target_3 .d_buttons").slideDown(400);
+                }else{
+                    showed_d_buttons3 = 0;
+                    $("#target_3 .d_buttons").slideUp(400);
+                }
+
+            }
+
+
+            var showed3 = 0;
+            var showed_d_buttons3 = 0;
+            var HAPPYSEC3 = -11830954;
+            var t_sec3 = HAPPYSEC3;
+
+            var time3;
+            var intervalId3=0;
+
+
+            $(document).ready(function () {
+                $("#target_3 .d_buttons a.btn3").addClass("red_button");
+                intervalId3 = setInterval(function (){
+                    timerDecrement3();
+                }, 1000);
+            });
+
+
+            function timerDecrement3() {
+                time3 = $('#target_3 span.timer');
+
+                if(t_sec3 < 1){
+                    t_sec3 = 0;
+                    newTime = t_sec3 ;
+                }else{
+                    newTime = t_sec3 - 1;
+                }
+
+
+                t_sec3 = newTime;
+
+                var t_min = t_sec3 / 60;
+                var t_hour = t_min / 60;
+                var t_day =
+                    '<b>' + Math.floor(t_hour / 24) + '</b> day I ' +
+                    '<b>' + Math.floor(t_hour % 24) +'</b>:' +
+                    '<b>' + Math.floor(t_min % 60) +'</b>:' +
+                    '<b>' + Math.floor(t_sec3 % 60)+ '</b> ';
+
+                time3.html(t_day);
+
+
+
+                if(newTime === 0 && HAPPYSEC3 > 0 || newTime < 1){
+
+                    time3.html('');
+                    $("#target_3 .lock").attr("src","assets/img/lockopen.png");
+                    $("#target_3 .clock").attr("src","assets/img/clockred.png").addClass("clockred");
+                    $("#target_3 .btn2").addClass("redbg");
+                    $("#target_3 .arrow-8").addClass("r8");
+                    $("#target_3 .perc").html("100%");
+
+                    clearInterval(intervalId3);
+                    GetDownloadLink(3,$("#target_3 .redbg"));
+                }
+
+
+            }
+        </script>
+
+
+
+
+        <div  class="col-md-6 col-sm-12 bg-tar  " style="cursor: pointer" onclick="$('.desc_3').modal('show')">
+            <div class="col-md-10 px-0">
+                <div  class="logo-image">
+                                        <img src="assets/logo/green-logo.png" alt=""   class="proof logo-color">
+                                    </div>
+
+                <h1 class="h_font">Rector Hayden Realtors</h1>
+                <div class="name-liean"></div>
+                <div class="name-liean2"></div>
+
+
+            </div>
+
+            <div class="col-md-2 px-0" >
+                                    <img src="assets/img/lockopen.png" alt=""   class="lock-color lock">
+                    
+            </div>
+
+        </div>
+
+
+        <div class="modal desc_3" tabindex="-1"  id="target_3" >
+            <div class="modal-dialog  ">
+                <div class="modal-content modal_content_custom">
+                    <div id="modal_header" class="modal-header">
+                        <h5 class="modal-title font-italic">                                 <img src="assets/logo/green-logo.png" alt=""   class="proof logo-color">
+                                </h5>
+                    </div>
+                    <div class="modal-body">
+                                                    <div class="timer-success">0 DAY I 00:00:00</div>
+                            
+
+
+
+                        <div class="col-md-12 px-0">
+
+                            <div class="proof_block text-center"></div>
+
+
+                            <p class="lead_text my-3 pb-3" >As an experienced real estate company dedicated to making the home buying experience efficient and stress-free, Rector Hayden REALTORS strives to provide an unparalleled level of service to our customers every day. Our affiliation with HomeServices of America, and our Family of Services, ensure you have access to everything you need when it comes to your real estate journey.                            </p>
+                        </div>
+
+                        <div class="col-md-12 row px-0  mt-4 mb-4 ml-0">
+                            <div class="col-md-3 text-center ">
+                                <p class="lead mb-0 squ">
+                    <span class="text-white font-weight-bold ">
+                        <i class="fa fa-users team-users" ></i>
+                    </span>
+                                    <br>
+                                    <span class="">18.118</span>
+                                </p>
+                            </div>
+                            <div class="col-md-3 text-center" onclick="GO('https://www.rhr.com')">
+                                <p class="lead mb-0 squ"><span class="text-white font-weight-bold "><i class="fa fa-globe globe-users"></i></span><br>
+                                    <a href="javascript:" class="text-decoration-none web-color" >Web Site</a>
+                                </p>
+                            </div>
+
+                            <div class="col-md-3 text-center"><p class="lead mb-0 squ "><span class="text-white font-weight-bold "><i class="fa fa-dollar dollar-users"></i></span> <br>$ 86 Million </p></div>
+                            <div class="col-md-3 text-center"><p class="lead mb-0 squ"><span class="text-white font-weight-bold"><i class="fa fa-phone phone-users" ></i></span><br>(859) 276-4811</p></div>
+
+                        </div>
+
+                        <div class="col-md-12 row px-0 mt-5">
+                            <div class="col-md-12 text-center"></div>
+                            <div class="col-md-6">
+                                <p class="lead mb-0 text-white font-weight-bold" style="margin-top: 13px">
+
+                                </p>
+                            </div>
+                          <div class="btnred red-button"><div class="arrow-8"></div>
+
+                                                                <a href="javascript:"  class=" fre-btn btn btn2 legitRipple redbg " onclick="ShowDButtons3()">Download Free </a>
+                                  
+
+                          </div>
+
+
+
+                        </div>
+
+
+
+                    </div>
+                    <div id="modal_footer" class="modal-footer">
+                                                    <div class="col-md-12 text-center d_buttons" style="display: none">
+                                                                    <a href="https://anonfiles.com/R3MdsfB5xe/rhr.com_zip"  target="_blank"  class=" btn btn3 legitRipple
+                            " style="margin-bottom: 3px">
+
+
+
+
+                                        download
+
+
+                                        4.14MB</a>
+                                                                        <a href="https://anonfiles.com/f3882fMcx8/rhr.com.part1_rar"  target="_blank"  class=" btn btn3 legitRipple
+                            " style="margin-bottom: 3px">
+
+
+
+
+                                        download
+
+
+                                        10.49GB</a>
+                                                                        <a href="https://anonfiles.com/Da8120Mexd/rhr.com.part2_rar"  target="_blank"  class=" btn btn3 legitRipple
+                            " style="margin-bottom: 3px">
+
+
+
+
+                                        download
+
+
+                                        10.49GB</a>
+                                                                        <a href="https://anonfiles.com/tc8b29Mfxb/rhr.com.part3_rar"  target="_blank"  class=" btn btn3 legitRipple
+                            " style="margin-bottom: 3px">
+
+
+
+
+                                        download
+
+
+                                        6.32GB</a>
+                                                                </div>
+                            
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+        
+        <script>
+
+            var proof_img_block2 = '<img src="" alt="" class="proof">';
+
+
+            function ShowProof2(){
+                if(showed2 === 0){
+                    showed2 = 1;
+                    $("#target_2 .proof_block").html(proof_img_block2).slideDown(400);
+                }else{
+                    showed2 = 0;
+                    $("#target_2 .proof_block").html(' ').slideUp(400);
+                }
+
+            }
+
+
+            function ShowDButtons2(){
+                if(showed_d_buttons2 === 0){
+                    showed_d_buttons2 = 1;
+                    $("#target_2 .d_buttons").slideDown(400);
+                }else{
+                    showed_d_buttons2 = 0;
+                    $("#target_2 .d_buttons").slideUp(400);
+                }
+
+            }
+
+
+            var showed2 = 0;
+            var showed_d_buttons2 = 0;
+            var HAPPYSEC2 = -11830954;
+            var t_sec2 = HAPPYSEC2;
+
+            var time2;
+            var intervalId2=0;
+
+
+            $(document).ready(function () {
+                $("#target_2 .d_buttons a.btn3").addClass("red_button");
+                intervalId2 = setInterval(function (){
+                    timerDecrement2();
+                }, 1000);
+            });
+
+
+            function timerDecrement2() {
+                time2 = $('#target_2 span.timer');
+
+                if(t_sec2 < 1){
+                    t_sec2 = 0;
+                    newTime = t_sec2 ;
+                }else{
+                    newTime = t_sec2 - 1;
+                }
+
+
+                t_sec2 = newTime;
+
+                var t_min = t_sec2 / 60;
+                var t_hour = t_min / 60;
+                var t_day =
+                    '<b>' + Math.floor(t_hour / 24) + '</b> day I ' +
+                    '<b>' + Math.floor(t_hour % 24) +'</b>:' +
+                    '<b>' + Math.floor(t_min % 60) +'</b>:' +
+                    '<b>' + Math.floor(t_sec2 % 60)+ '</b> ';
+
+                time2.html(t_day);
+
+
+
+                if(newTime === 0 && HAPPYSEC2 > 0 || newTime < 1){
+
+                    time2.html('');
+                    $("#target_2 .lock").attr("src","assets/img/lockopen.png");
+                    $("#target_2 .clock").attr("src","assets/img/clockred.png").addClass("clockred");
+                    $("#target_2 .btn2").addClass("redbg");
+                    $("#target_2 .arrow-8").addClass("r8");
+                    $("#target_2 .perc").html("100%");
+
+                    clearInterval(intervalId2);
+                    GetDownloadLink(2,$("#target_2 .redbg"));
+                }
+
+
+            }
+        </script>
+
+
+
+
+        <div  class="col-md-6 col-sm-12 bg-tar  " style="cursor: pointer" onclick="$('.desc_2').modal('show')">
+            <div class="col-md-10 px-0">
+                <div  class="logo-image">
+                                        <img src="assets/logo/green-logo.png" alt=""   class="proof logo-color">
+                                    </div>
+
+                <h1 class="h_font">Petrolimex</h1>
+                <div class="name-liean"></div>
+                <div class="name-liean2"></div>
+
+
+            </div>
+
+            <div class="col-md-2 px-0" >
+                                    <img src="assets/img/lockopen.png" alt=""   class="lock-color lock">
+                    
+            </div>
+
+        </div>
+
+
+        <div class="modal desc_2" tabindex="-1"  id="target_2" >
+            <div class="modal-dialog  ">
+                <div class="modal-content modal_content_custom">
+                    <div id="modal_header" class="modal-header">
+                        <h5 class="modal-title font-italic">                                 <img src="assets/logo/green-logo.png" alt=""   class="proof logo-color">
+                                </h5>
+                    </div>
+                    <div class="modal-body">
+                                                    <div class="timer-success">0 DAY I 00:00:00</div>
+                            
+
+
+
+                        <div class="col-md-12 px-0">
+
+                            <div class="proof_block text-center"></div>
+
+
+                            <p class="lead_text my-3 pb-3" >The current Vietnam National Petroleum Group (Petrolimex) was established from the equitisation and restructure of Vietnam National Petroleum Corporation. Petrolimexs main operations are exporting, importing and trading petroleum, refining petrochemicals, investing in other enterprises to conduct business that Petrolimex is doing and other business as prescribed by law.                            </p>
+                        </div>
+
+                        <div class="col-md-12 row px-0  mt-4 mb-4 ml-0">
+                            <div class="col-md-3 text-center ">
+                                <p class="lead mb-0 squ">
+                    <span class="text-white font-weight-bold ">
+                        <i class="fa fa-users team-users" ></i>
+                    </span>
+                                    <br>
+                                    <span class="">270</span>
+                                </p>
+                            </div>
+                            <div class="col-md-3 text-center" onclick="GO('https://www.petrolimex.com.vn/')">
+                                <p class="lead mb-0 squ"><span class="text-white font-weight-bold "><i class="fa fa-globe globe-users"></i></span><br>
+                                    <a href="javascript:" class="text-decoration-none web-color" >Web Site</a>
+                                </p>
+                            </div>
+
+                            <div class="col-md-3 text-center"><p class="lead mb-0 squ "><span class="text-white font-weight-bold "><i class="fa fa-dollar dollar-users"></i></span> <br>$ 257 Million </p></div>
+                            <div class="col-md-3 text-center"><p class="lead mb-0 squ"><span class="text-white font-weight-bold"><i class="fa fa-phone phone-users" ></i></span><br>+84 24 3851 2603</p></div>
+
+                        </div>
+
+                        <div class="col-md-12 row px-0 mt-5">
+                            <div class="col-md-12 text-center"></div>
+                            <div class="col-md-6">
+                                <p class="lead mb-0 text-white font-weight-bold" style="margin-top: 13px">
+
+                                </p>
+                            </div>
+                          <div class="btnred red-button"><div class="arrow-8"></div>
+
+                                                                <a href="javascript:"  class=" fre-btn btn btn2 legitRipple redbg " onclick="ShowDButtons2()">Download Free </a>
+                                  
+
+                          </div>
+
+
+
+                        </div>
+
+
+
+                    </div>
+                    <div id="modal_footer" class="modal-footer">
+                                                    <div class="col-md-12 text-center d_buttons" style="display: none">
+                                                                    <a href="https://anonfiles.com/z9m0r5Bfx6/4._BANKING_zip"  target="_blank"  class=" btn btn3 legitRipple
+                            " style="margin-bottom: 3px">
+
+
+
+
+                                        download
+
+
+                                        3.54MB</a>
+                                                                        <a href="https://anonfiles.com/t33d26M1xb/petrolimex.com.vn.part1_rar"  target="_blank"  class=" btn btn3 legitRipple
+                            " style="margin-bottom: 3px">
+
+
+
+
+                                        download
+
+
+                                        10.49GB</a>
+                                                                        <a href="https://anonfiles.com/Z54929Mex1/petrolimex.com.vn.part2_rar"  target="_blank"  class=" btn btn3 legitRipple
+                            " style="margin-bottom: 3px">
+
+
+
+
+                                        download
+
+
+                                        10.49GB</a>
+                                                                        <a href="
+https://anonfiles.com/n65624Mexe/petrolimex.com.vn.part3_rar"  target="_blank"  class=" btn btn3 legitRipple
+                            " style="margin-bottom: 3px">
+
+
+
+
+                                        download
+
+
+                                        10.49GB</a>
+                                                                        <a href="https://anonfiles.com/j45d2fM2xe/petrolimex.com.vn.part4_rar"  target="_blank"  class=" btn btn3 legitRipple
+                            " style="margin-bottom: 3px">
+
+
+
+
+                                        download
+
+
+                                        10.49GB</a>
+                                                                        <a href="https://anonfiles.com/7a532eMfx4/petrolimex.com.vn.part5_rar"  target="_blank"  class=" btn btn3 legitRipple
+                            " style="margin-bottom: 3px">
+
+
+
+
+                                        download
+
+
+                                        3.12GB</a>
+                                                                </div>
+                            
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+        
+        <script>
+
+            var proof_img_block1 = '<img src="" alt="" class="proof">';
+
+
+            function ShowProof1(){
+                if(showed1 === 0){
+                    showed1 = 1;
+                    $("#target_1 .proof_block").html(proof_img_block1).slideDown(400);
+                }else{
+                    showed1 = 0;
+                    $("#target_1 .proof_block").html(' ').slideUp(400);
+                }
+
+            }
+
+
+            function ShowDButtons1(){
+                if(showed_d_buttons1 === 0){
+                    showed_d_buttons1 = 1;
+                    $("#target_1 .d_buttons").slideDown(400);
+                }else{
+                    showed_d_buttons1 = 0;
+                    $("#target_1 .d_buttons").slideUp(400);
+                }
+
+            }
+
+
+            var showed1 = 0;
+            var showed_d_buttons1 = 0;
+            var HAPPYSEC1 = -11830954;
+            var t_sec1 = HAPPYSEC1;
+
+            var time1;
+            var intervalId1=0;
+
+
+            $(document).ready(function () {
+                $("#target_1 .d_buttons a.btn3").addClass("red_button");
+                intervalId1 = setInterval(function (){
+                    timerDecrement1();
+                }, 1000);
+            });
+
+
+            function timerDecrement1() {
+                time1 = $('#target_1 span.timer');
+
+                if(t_sec1 < 1){
+                    t_sec1 = 0;
+                    newTime = t_sec1 ;
+                }else{
+                    newTime = t_sec1 - 1;
+                }
+
+
+                t_sec1 = newTime;
+
+                var t_min = t_sec1 / 60;
+                var t_hour = t_min / 60;
+                var t_day =
+                    '<b>' + Math.floor(t_hour / 24) + '</b> day I ' +
+                    '<b>' + Math.floor(t_hour % 24) +'</b>:' +
+                    '<b>' + Math.floor(t_min % 60) +'</b>:' +
+                    '<b>' + Math.floor(t_sec1 % 60)+ '</b> ';
+
+                time1.html(t_day);
+
+
+
+                if(newTime === 0 && HAPPYSEC1 > 0 || newTime < 1){
+
+                    time1.html('');
+                    $("#target_1 .lock").attr("src","assets/img/lockopen.png");
+                    $("#target_1 .clock").attr("src","assets/img/clockred.png").addClass("clockred");
+                    $("#target_1 .btn2").addClass("redbg");
+                    $("#target_1 .arrow-8").addClass("r8");
+                    $("#target_1 .perc").html("100%");
+
+                    clearInterval(intervalId1);
+                    GetDownloadLink(1,$("#target_1 .redbg"));
+                }
+
+
+            }
+        </script>
+
+
+
+
+        <div  class="col-md-6 col-sm-12 bg-tar  " style="cursor: pointer" onclick="$('.desc_1').modal('show')">
+            <div class="col-md-10 px-0">
+                <div  class="logo-image">
+                                        <img src="assets/logo/green-logo.png" alt=""   class="proof logo-color">
+                                    </div>
+
+                <h1 class="h_font">Bud Griffin and Associates</h1>
+                <div class="name-liean"></div>
+                <div class="name-liean2"></div>
+
+
+            </div>
+
+            <div class="col-md-2 px-0" >
+                                    <img src="assets/img/lockopen.png" alt=""   class="lock-color lock">
+                    
+            </div>
+
+        </div>
+
+
+        <div class="modal desc_1" tabindex="-1"  id="target_1" >
+            <div class="modal-dialog  ">
+                <div class="modal-content modal_content_custom">
+                    <div id="modal_header" class="modal-header">
+                        <h5 class="modal-title font-italic">                                 <img src="assets/logo/green-logo.png" alt=""   class="proof logo-color">
+                                </h5>
+                    </div>
+                    <div class="modal-body">
+                                                    <div class="timer-success">0 DAY I 00:00:00</div>
+                            
+
+
+
+                        <div class="col-md-12 px-0">
+
+                            <div class="proof_block text-center"></div>
+
+
+                            <p class="lead_text my-3 pb-3" >Seeking sales representation in Texas, Liebert Corporation, the world leader in computer support systems, placed an advertisement in a Houston newspaper and Bud and Lura responded. In 1972, already adept in mechanical contracting, Bud Griffin and Associates, Inc. became the exclusive sales representative for Liebert in Houston and South Texas and expanded its product line to include power support equipment for demanding computer solutions.                            </p>
+                        </div>
+
+                        <div class="col-md-12 row px-0  mt-4 mb-4 ml-0">
+                            <div class="col-md-3 text-center ">
+                                <p class="lead mb-0 squ">
+                    <span class="text-white font-weight-bold ">
+                        <i class="fa fa-users team-users" ></i>
+                    </span>
+                                    <br>
+                                    <span class="">80</span>
+                                </p>
+                            </div>
+                            <div class="col-md-3 text-center" onclick="GO('https://www.bgasales.com/')">
+                                <p class="lead mb-0 squ"><span class="text-white font-weight-bold "><i class="fa fa-globe globe-users"></i></span><br>
+                                    <a href="javascript:" class="text-decoration-none web-color" >Web Site</a>
+                                </p>
+                            </div>
+
+                            <div class="col-md-3 text-center"><p class="lead mb-0 squ "><span class="text-white font-weight-bold "><i class="fa fa-dollar dollar-users"></i></span> <br>$ 10 Million </p></div>
+                            <div class="col-md-3 text-center"><p class="lead mb-0 squ"><span class="text-white font-weight-bold"><i class="fa fa-phone phone-users" ></i></span><br>(713) 664-5462</p></div>
+
+                        </div>
+
+                        <div class="col-md-12 row px-0 mt-5">
+                            <div class="col-md-12 text-center"></div>
+                            <div class="col-md-6">
+                                <p class="lead mb-0 text-white font-weight-bold" style="margin-top: 13px">
+
+                                </p>
+                            </div>
+                          <div class="btnred red-button"><div class="arrow-8"></div>
+
+                                                                <a href="javascript:"  class=" fre-btn btn btn2 legitRipple redbg " onclick="ShowDButtons1()">Download Free </a>
+                                  
+
+                          </div>
+
+
+
+                        </div>
+
+
+
+                    </div>
+                    <div id="modal_footer" class="modal-footer">
+                                                    <div class="col-md-12 text-center d_buttons" style="display: none">
+                                                                    <a href="https://anonfiles.com/h2ncr0Bcx8/BGA_Accounting_zip"  target="_blank"  class=" btn btn3 legitRipple
+                            " style="margin-bottom: 3px">
+
+
+
+
+                                        download
+
+
+                                        343KB</a>
+                                                                        <a href="https://anonfiles.com/N56023M6x5/bgasales.com.part1_rar"  target="_blank"  class=" btn btn3 legitRipple
+                            " style="margin-bottom: 3px">
+
+
+
+
+                                        download
+
+
+                                        10.49GB</a>
+                                                                        <a href="https://anonfiles.com/ve3127M7x8/bgasales.com.part2_rar"  target="_blank"  class=" btn btn3 legitRipple
+                            " style="margin-bottom: 3px">
+
+
+
+
+                                        download
+
+
+                                        10.49GB</a>
+                                                                        <a href="https://anonfiles.com/d2Bf22M4x2/bgasales.com.part3_rar"  target="_blank"  class=" btn btn3 legitRipple
+                            " style="margin-bottom: 3px">
+
+
+
+
+                                        download
+
+
+                                        10.49GB</a>
+                                                                        <a href="https://anonfiles.com/hf3a22Mbx7/bgasales.com.part4_rar"  target="_blank"  class=" btn btn3 legitRipple
+                            " style="margin-bottom: 3px">
+
+
+
+
+                                        download
+
+
+                                        10.49GB</a>
+                                                                        <a href="https://anonfiles.com/L00620M5xf/bgasales.com.part5_rar"  target="_blank"  class=" btn btn3 legitRipple
+                            " style="margin-bottom: 3px">
+
+
+
+
+                                        download
+
+
+                                        577.53MB</a>
+                                                                </div>
+                            
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+        
+    </div>
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+
+
+<footer class="blog-footer">
+    <p>BLACKBYTE </p>
+</footer>
+
+
+<script>
+    function copyToClipboard(text){
+        var copytext=document.createElement('input')
+        if(typeof text=='undefined') copytext.value=window.location.href
+        else copytext.value=text
+        document.body.appendChild(copytext)
+        copytext.select()
+        document.execCommand('copy')
+        document.body.removeChild(copytext)
+    }
+
+    $(function () {
+        document.getElementById('copier').addEventListener('click',function(){
+            copyToClipboard("BlackByteSupp0rt@onionmail.org");
+            var element = $(this);
+            var old_text =  element.html();
+            element.html("Copied").css({"background-color": ""});
+            setTimeout(function () {
+                element.html(old_text).css({"background-color": "rgba(0,0,0,0.1)"});
+            },1000);
+
+        })
+    });
+
+</script>
+
+
+
+
+
+</body>
+</html>
+

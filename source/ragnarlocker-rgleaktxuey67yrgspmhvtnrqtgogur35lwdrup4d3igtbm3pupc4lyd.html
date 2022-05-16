@@ -1,0 +1,325 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>Home Page of Ragnar_Locker Leaks site</title>
+    <script>
+        if (/index.php/.test(location.href)) location.href = location.href.replace(/index\.php/, "");
+    </script>
+    <meta http-equiv="cache-control" content="max-age=0" />
+    <meta http-equiv="cache-control" content="no-cache" />
+    <meta http-equiv="expires" content="0" />
+    <meta http-equiv="expires" content="Tue, 01 Jan 1980 1:00:00 GMT" />
+    <meta http-equiv="pragma" content="no-cache" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <meta name="format-detection" content="telephone=no" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="MobileOptimized" content="176" />
+    <meta name="HandheldFriendly" content="True" />
+    <link rel="shortcut icon" href="favicon.ico?1" type="image/x-icon">
+    <link rel="icon" type="image/png" href="images/favicon.png?1" sizes="16x16">
+    <link rel="icon" type="image/png" href="images/favicon_2x.png?1" sizes="32x32">
+    <link href="css/quill.core.min.css" rel="stylesheet">
+    <link href="css/core.min.css?44" rel="stylesheet">
+    <link href="css/jquery.fancybox.min.css" rel="stylesheet">
+
+    <script src="js/jquery.min.js"></script>
+    <script src="js/jquery.selection.min.js"></script>
+    <script src="js/autosize.min.js"></script>
+    <script src="js/load-image.all.min.js?1"></script>
+    <script src="js/quill.min.js?9"></script>
+    <style>
+        .card {
+            padding-top: 10px;
+            position: relative;
+            display: -webkit-box;
+            display: -ms-flexbox;
+            display: flex;
+            -webkit-box-orient: vertical;
+            -webkit-box-direction: normal;
+            -ms-flex-direction: column;
+            flex-direction: column;
+            min-width: 0;
+            word-wrap: break-word;
+            background-color: #fff;
+            background-clip: border-box;
+            border: 1px solid rgba(0, 0, 0, .125);
+            border-radius: .25rem;
+            white-space: nowrap;
+        }
+
+        .card p {
+            margin-bottom: 5px !important;
+        }
+
+        #_tl_view .header {
+            background: #FFF;
+            padding: 0px;
+            margin-top: 0px !important;
+
+        }
+
+
+
+        /* Page content */
+        .content {}
+
+        /* The sticky class is added to the header with JS when it reaches its scroll position */
+        .sticky {
+            position: fixed;
+            top: 0;
+            z-index: 1000;
+            padding-bottom: 14px;
+            max-width: 732px;
+        }
+
+        #mirror_links {
+            padding-top: 0px; 
+            text-align: center;
+            width: 100%;
+            color: #999;
+            z-index: 1000;
+        }
+
+        #mirror_links a:link, #mirror_links a:active {
+
+            color: #AAA; 
+            text-decoration: none !important;
+            border-bottom-style: none;          
+        }
+        
+        #tab-links {
+            padding-top: 20px;
+            padding-left: 10%;
+        }
+
+        #tab-links a:link {
+            color: #000; 
+            text-decoration: none !important;
+            border-bottom-style: none;          
+        }
+        
+        #tab-links a:hover {
+            color: #000; 
+            text-decoration: none !important;
+            border-bottom: 2px solid #000;          
+        }
+        
+    </style>
+</head>
+
+<body>
+   <!----><div id="tab-links"><a href="?about-us" class="button publish_button"> About Us</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="?rules" class="button publish_button">&#9733; Rules</a></div><!---->
+   <div id="mirror_links">
+   <br />
+   </div>
+
+    <div class="tl_page_wrap">
+        <div class="tl_page">
+
+            <div class="tl_article">
+                <div id="_tl_view" class="tl_article_content"></div>
+            </div>
+
+            <main class="tl_article">
+                <header class="tl_article_header">
+                    <h1 dir="auto"></h1>
+                    <address dir="auto">
+                        <a rel="author"></a>
+                        <!--
+           --><time datetime=""></time>
+                    </address>
+                </header>
+
+                <article id="_tl_editor" class="tl_article_content">
+                    <h1><br></h1>
+                    <address><br></address>
+                    <p><br></p>
+                </article>
+
+                <div id="_tl_link_tooltip" class="tl_link_tooltip"></div>
+                <div id="_tl_tooltip" class="tl_tooltip">
+                    <div class="buttons">
+                        <span class="button_hover"></span>
+                        <span class="button_group">
+                            <!--
+             --><button id="_bold_button"></button>
+                            <!--
+             --><button id="_italic_button"></button>
+                            <!--
+             --><button id="_link_button"></button>
+                            <!--
+           --></span>
+                        <!--
+           --><span class="button_group">
+                            <!--
+             --><button id="_header_button"></button>
+                            <!--
+             --><button id="_subheader_button"></button>
+                            <!--
+             --><button id="_quote_button"></button>
+                            <!--
+           --></span>
+                    </div>
+                    <div class="prompt">
+                        <span class="close"></span>
+                        <div class="prompt_input_wrap"><input type="url" class="prompt_input" /></div>
+                    </div>
+                </div>
+                <div id="_tl_blocks" class="tl_blocks">
+                    <div class="buttons">
+                        <button id="_image_button"></button>
+                        <!--
+           --><button id="_embed_button"></button>
+                    </div>
+                </div>
+                <aside class="tl_article_buttons">
+                    <div class="account account_top"></div>
+                    <div class="account account_bottom"></div>
+                    <div id="_error_msg" class="error_msg"></div>
+                </aside>
+            </main>
+
+        </div>
+
+
+    </div>
+   
+
+    <div id="_tl_alerts" class="tl_alerts"></div>
+    <script type="text/javascript">
+        var post_id = `1`;
+        var user_id = `guest`;
+        var post_links = [{"link":"SkKUL7wY8Cg","title":"Simonson-Lumber decided to be Leaked","views":"7004","password":"0","timestamp":"1652293937","info":""},{"link":"L0GkIr8oWT7l1","title":"International Centre Leaked","views":"57460","password":"0","timestamp":"1649273754","info":""},{"link":"GG7NyCvUa7V","title":"Smith Transport Full Leak","views":"90697","password":"0","timestamp":"1647274538","info":""},{"link":"TIxdfjMIGACEyds","title":"GHI Hornos Industriales Fully Leaked","views":"103464","password":"0","timestamp":"1646430050","info":""},{"link":"kN4M4yf2T5mYWE","title":"GHI Hornos Industriales  first batch of Data (0,1%)","views":"108104","password":"0","timestamp":"1646066519","info":""},{"link":"tqQ4nFvnpVqb5lzL","title":"Airspan Networks got Leaked","views":"156463","password":"0","timestamp":"1642177142","info":""},{"link":"0d2OgwQEiv04","title":"IT-companies Subex & Sectrio Leaked","views":"177830","password":"0","timestamp":"1641667223","info":""},{"link":"7Eyi1S6PKptuwa","title":"Company Group LDLC","views":"210796","password":"0","timestamp":"1639071201","info":""},{"link":"GjPr3PNgLenXPri","title":"Leak of IT company Saksoft","views":"214557","password":"0","timestamp":"1639082999","info":""},{"link":"TrwugEYoq0wSG","title":"Full Data Leak Linical","views":"214495","password":"0","timestamp":"1639045775","info":""},{"link":"EKbLB7mZhO2XUnDH","title":"Update: Linicals Data","views":"220840","password":"0","timestamp":"1638589937","info":""},{"link":"tZ8RNjwTxOSlh","title":"Groupe LDLC is going to be Leaked","views":"222479","password":"0","timestamp":"1638454090","info":""},{"link":"jJE1b9Xadprt","title":"Team Computers Ltd. - Leak","views":"233611","password":"0","timestamp":"1637685554","info":""},{"link":"wgfVdEFMXXu","title":"LINICAL doesn't care about digital hygiene","views":"273074","password":"0","timestamp":"1635577864","info":""},{"link":"vRzHo0e7aAXMF9qz","title":"Atlas Financial Holdings, Inc. - Leaked","views":"293103","password":"0","timestamp":"1633538631","info":""},{"link":"F1VEvBwZm94J","title":"FULL DATA LEAK of Primary Residential Mortgage, Inc. \/\/","views":"333789","password":"0","timestamp":"1631624977","info":""},{"link":"6ckTdzG5qSo7qKAc","title":"Primary Residential Mortgage inc. - Leaked","views":"335566","password":"0","timestamp":"1631538098","info":""},{"link":"y7ttk9cY38H","title":"Who is the real Bad Guys here?\u00a0Or what recovery experts prefer to keep silent.","views":"337526","password":"0","timestamp":"1631216578","info":""},{"link":"ZMG5hrjnkC","title":"Announcement: FTP","views":"342745","password":"0","timestamp":"1630958941","info":""},{"link":"tK32qaHbcF4m2f","title":"Software company Xoriant","views":"445717","password":"0","timestamp":"1624550543","info":"Updated 10\/07\/2021"},{"link":"psOMRHdXTcb4","title":"New Leak GatewayPM","views":"433367","password":"0","timestamp":"1625160546","info":""},{"link":"xYTpFu1SKC5","title":"GATEWAY Property Management","views":"428294","password":"0","timestamp":"1623008436","info":""},{"link":"MdwTweSxFtwPs","title":"ADATA LEAKED","views":"480164","password":"0","timestamp":"1622931471","info":"Downloaded: 1.5TB+"},{"link":"LHLAzwpxfh","title":"NEW Links for ADATA","views":"444711","password":"0","timestamp":"1624449101","info":""},{"link":"YC8TkgZPlNtYsu","title":"Webhelp's company - XtraSource","views":"491863","password":"0","timestamp":"1621968690","info":"Updated 6\/04\/2021"},{"link":"yDCzolsPSis","title":"Ludwig Pfeiffer Leaked","views":"488678","password":"0","timestamp":"1622041254","info":""},{"link":"RJ0JbIhIUtYGCXs6","title":"Kaye\/Bassman International - New \"Wall of Shamer\"","views":"592815","password":"0","timestamp":"1612806282","info":""},{"link":"XABTYSEsT0fcqjgo","title":"Cornerstone-BB Group Leaked","views":"592383","password":"0","timestamp":"1611660141","info":"Total downloaded: 2TB "},{"link":"ifBX3Yh3o1NpWhMOKLim","title":"Grupo SADA Leak","views":"594069","password":"0","timestamp":"1608324784","info":""},{"link":"PoswBRq7lyW5ggx","title":"JMA Energy LEAK","views":"593405","password":"0","timestamp":"1607959068","info":""},{"link":"pSZIuTFxBk","title":"New Data Leak post from Chemical company","views":"601848","password":"0","timestamp":"1608818961","info":""},{"link":"J1XQ3vWJj9","title":"Shasun Chemicals & Drugs Ltd. LEAK","views":"590681","password":"0","timestamp":"1607169143","info":""},{"link":"oeJRBX0h2Jil","title":"Attention, Dassault Falcon Jet updated","views":"598489","password":"0","timestamp":"1608761512","info":""},{"link":"t4Eb3TqV4Q","title":"DASSAULT FALCON JET","views":"596551","password":"0","timestamp":"1607260596","info":""},{"link":"fJ2MSmGxynuQem","title":"Advertising Material: Forest Construction Leaked","views":"590987","password":"0","timestamp":"1607895650","info":"Advertising Material"},{"link":"tfR4tkhpcE2pUg","title":"LEAK Post Campari Group","views":"613406","password":"0","timestamp":"1604081630","info":"Last Update:  12.12.2020"},{"link":"LoDGGF8v1QliWfif","title":"New Files For Leak Campari Post","views":"601094","password":"0","timestamp":"1607812067","info":""},{"link":"hSzHkAcIGW","title":"Updates with files in EastCoastSeafood Inc.","views":"600761","password":"0","timestamp":"1607636180","info":""},{"link":"LjDft9J7hx5BsyMEmfdm","title":"New \"WallofShamer\" - East Coast Seafood Inc.","views":"591899","password":"0","timestamp":"1606751517","info":""},{"link":"2Adto6fvfqm","title":"Official appeal to DASSAULT FALCON JET","views":"590286","password":"0","timestamp":"1607613959","info":""},{"link":"i07VttxnHH","title":"Ragnar_Team Announce of Potential \"WallofShamer\"","views":"587179","password":"0","timestamp":"1607608968","info":""},{"link":"068vV05uS2GCgqa","title":"LEAK Post CAPCOM","views":"617003","password":"0","timestamp":"1604219084","info":"Updated 12.09.2020"},{"link":"wrfjut5sY58kMxY8lr62","title":"LEAK post FINSA","views":"596735","password":"0","timestamp":"1605045970","info":""},{"link":"8qvgiy3gzwVF4S","title":"Security breach of CAPCOM network","views":"601368","password":"0","timestamp":"1604851282","info":""},{"link":"cvbj6hnUKpWcTI","title":"Security breach of Campari Group network","views":"600455","password":"0","timestamp":"1604852859","info":""},{"link":"38KP4j2zYlWcWRm6zsLg","title":"BIOLOGICAL E. Ltd. (BE) LEAK POST","views":"600980","password":"0","timestamp":"1603203135","info":"Updated 11\/04\/2020"},{"link":"qx8xzTvR0voL","title":"Insignia Environmental company.","views":"618498","password":"0","timestamp":"1602170392","info":"updated 10\/31\/2020 12.00"},{"link":"WtOr8jJJA7r5","title":"Astro Industries, Inc.","views":"616801","password":"0","timestamp":"1601239423","info":""},{"link":"zRdCQYfpzr","title":"Bailey&Galyen Attorney at Law","views":"643485","password":"0","timestamp":"1594658151","info":"Revenue: 22mil$ Attorney at Law"},{"link":"ZdBwm26U5PuNTF","title":"New leaks from SOLTEK PACIFIC","views":"634242","password":"0","timestamp":"1592849549","info":"Revenue: $127M Construction company"},{"link":"SV6GdXJfSE6I","title":"GST Autoleather Company !","views":"634303","password":"0","timestamp":"1592851333","info":null},{"link":"GQDQGAjK0G","title":"ST Engineering","views":"636989","password":"0","timestamp":"1592850864","info":null},{"link":"f9RLwu6HCE","title":"Leaks from company EDP Group","views":"633310","password":"0","timestamp":"1592849976","info":null},{"link":"zQMWifQ7C1","title":"Leaks from company Omniga GmbH & Co.","views":"630911","password":"0","timestamp":"1592848311","info":null},{"link":"RAJjdzwLn5","title":"Leaks Company Birch Communications inc.","views":"629528","password":"0","timestamp":"1592575393","info":null},{"link":"XRVTJ7FfmOHvEZo","title":"Leakage from company Catania, Mahon & Rider, PLLC","views":"637176","password":"0","timestamp":"1591891055","info":null},{"link":"U6xbdVBEcU","title":"Brunner Announce \u2013 Hello World !","views":"639043","password":"0","timestamp":"1591885933","info":null}] ;
+
+
+        var baseUrl = location.href.replace(/index\.php/, ""); //$("base")[0].href;
+
+        var source_content = (`{\"ops\":[{\"insert\":\"             Home Page of Ragnar_Locker Leaks site\"},{\"attributes\":{\"blockTitle\":true},\"insert\":\"\\n\"},{\"attributes\":{\"blockAuthor\":true},\"insert\":\"\\n\"},{\"insert\":{\"blockFigure\":{\"caption\":\"\",\"image\":\"view.php?post_id=1&name=FHaB7AeDBKp4dmfK.png\"}}},{\"insert\":\"WALL OF SHAME\"},{\"attributes\":{\"blockSubheader\":true},\"insert\":\"\\n\"},{\"insert\":\"Here will be permanent list of companies who would like to keep in secret the info leakage, exposing themselves and their customers, partners to even greater risk than a bug-hunting reward!\\n::links\\n::views\"},{\"attributes\":{\"blockPullquote\":true},\"insert\":\"\\n\"}]}`);
+        var post_views = `62518130`;
+
+        var fragments = [] ;
+
+        var post_password = "" ;
+        var post_link = "" ;
+
+        var post_password_tmp = post_password;
+        var post_link_tmp = post_link;
+        var source_content_edit = ``;
+        var post_attachments_list = '[{"src":"view.php?post_id=1&name=OC919ZXPTinQx6Pp.png","name":"blob"},{"src":"view.php?post_id=1&name=FHaB7AeDBKp4dmfK.png","name":"blob"}] ';
+
+        function formatDate(unix) {
+            var dt = new Date(unix * 1000);
+
+            return `${
+    (dt.getMonth()+1).toString().padStart(2, '0')}/${
+    dt.getDate().toString().padStart(2, '0')}/${
+    dt.getFullYear().toString().padStart(4, '0')} ${
+    dt.getHours().toString().padStart(2, '0')}:${
+    dt.getMinutes().toString().padStart(2, '0')}:${
+    dt.getSeconds().toString().padStart(2, '0')}`;
+        }
+
+        function generateHtmlLinks() {
+
+            //  console.log(JSON.stringify(post_links));
+            var result = [];
+            for (var i = 0; i < post_links.length; i++) {
+                let post = post_links[i];
+                result.push(`<div class="card">
+    <p>
+        <a style="font-weight: 700" href="?${post['link']}">${post['title']!=""?post['title']:"[no title]"}</a> 
+    </p>
+    ${post['info'] && post['info']!=''?'<p>' + post['info'] + '</p>':''}
+    <p>
+        <small>views: <span class="pageviews-wrapper"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 1792 1792"><path d="M588.277,896v692.375H280.555V896H588.277z M1049.86,630.363v958.012h-307.72V630.363H1049.86z M1511.446,203.625v1384.75h-307.725V203.625H1511.446z"></path></svg>${post['views']}</span> ${post['password']!="0"?"<span class=\"badge\">protected</span>":""}</small>
+    |
+    <small>
+    Published: ${formatDate(post['timestamp'])}
+    </small>
+    </p>
+</div>`);
+            }
+
+            return "<div class='content'>" + result.join("<br />") + "</div>";
+        }
+
+        function addFancy() {
+
+            var els = Array.from(document.querySelectorAll("#_tl_view img")).map(e => {
+
+                var p = e.parentElement;
+
+                var node_a = document.createElement("a");
+                node_a.setAttribute("href", e.getAttribute("src"));
+                node_a.setAttribute("data-fancybox", "gallery");
+                p.insertBefore(node_a, e);
+
+                node_a.appendChild(e);
+
+
+            });
+        }
+
+
+        $(document).ready(function() {
+
+            var html = $("#_tl_editor .ql-editor").html();
+            for (var i = 0; i < fragments.length; i++) {
+                //    console.log(new RegExp(fragments[i].pattern, "g"), fragments[i].replacement);
+                html = html.replace(new RegExp(fragments[i].pattern, "g"), fragments[i].replacement);
+            }
+
+            html = html.replace(/::links/g, generateHtmlLinks());
+            html = html.replace(/::views/g, `<span class="pageviews-wrapper"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 1792 1792"><path d="M588.277,896v692.375H280.555V896H588.277z M1049.86,630.363v958.012h-307.72V630.363H1049.86z M1511.446,203.625v1384.75h-307.725V203.625H1511.446z"></path></svg>${post_views}</span>`);
+
+            $("#_tl_view").html(html);
+            addFancy();
+
+            $("main").hide();
+            $("#_tl_view").show();
+            $("#_tl_view h1").show();
+            if ($("#_tl_view address").text() != "") $("#_tl_view address").show();
+            else $("#_tl_view address").hide();
+
+
+            
+            $("#_tl_view #WALL-OF-SHAME").before("<div class='header'></div>");
+            $("#_tl_view .header").append($("#_tl_view #WALL-OF-SHAME, #_tl_view #WALL-OF-SHAME+*,#_tl_view #WALL-OF-SHAME+*+*"));
+
+            // Get the header
+            var header = document.querySelector('.header');
+            var sticky = 370; //$('#WALL-OF-SHAME').offset().top;
+            $("head").append('<style type="text/css"></style>');
+            var newStyleElement = $("head").children(':last');
+            newStyleElement.html(`
+.sticky + * {
+  padding-top: ${$( "#_tl_view .header" ).height()+18}px;
+}`);
+
+            window.onscroll = function() {
+                myFunction()
+            };
+
+            function myFunction() {
+                //console.log([window.pageYOffset , sticky, window.pageYOffset > sticky]);
+
+                if (window.pageYOffset > sticky) {
+                    header.classList.add("sticky");
+                } else {
+                    header.classList.remove("sticky");
+                }
+            }
+
+        });
+    </script>
+
+
+    <script src="js/post-core.min.js?60"></script>
+    <script src="js/jquery.fancybox.min.js"></script>
+
+</body>
+
+</html>

