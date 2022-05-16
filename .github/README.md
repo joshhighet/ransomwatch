@@ -19,9 +19,6 @@
   <a href="https://github.com/joshhighet/ransomwatch/actions/workflows/codeql-analysis.yml">
     <img src="https://github.com/joshhighet/ransomwatch/actions/workflows/codeql-analysis.yml/badge.svg" alt="ransomwatch codeql analysis" />
   </a>
-  <a href="https://github.com/joshhighet/ransomwatch/actions/workflows/pages/pages-build-deployment">
-    <img src="https://github.com/joshhighet/ransomwatch/actions/workflows/pages/pages-build-deployment/badge.svg" alt="ransomwatch docsify generator" />
-  </a>
 </p>
 
 an onionsite scraping framework with the primary intent of tracking ransomware groups
