@@ -264,8 +264,8 @@ def main():
     recentpage()
     statspage()
     profilepage()
-    # if posts.json has been modified within the last 45 mins, assume new posts discovered and recreate graphs
-    if os.path.getmtime('posts.json') > (time.time() - (45 * 60)):
+    # if posts.json has been modified within the last 10 mins, assume new posts discovered and recreate graphs
+    if os.path.getmtime('posts.json') > (time.time() - 600):
         stdlog('posts.json has been modified within the last 45 mins, assuming new posts discovered and recreating graphs')
         trend_posts_per_day()
         plot_posts_by_group()
