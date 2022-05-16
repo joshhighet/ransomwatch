@@ -1,0 +1,39 @@
+name: "codeql"
+
+on:
+  push:
+    paths:
+      - '**.py'
+  schedule:
+    - cron: '0 0 1 * *'
+  workflow_dispatch:
+
+jobs:
+  analyze:
+    name: Analyze
+    runs-on: ubuntu-latest
+    permissions:
+      actions: read
+      contents: read
+      security-events: write
+
+    strategy:
+      fail-fast: false
+      matrix:
+        language: [ 'python' ]
+
+    steps:
+    - name: checkout repo
+      uses: actions/checkout@v2
+
+    - name: init codeql
+      uses: github/codeql-action/init@v1
+      with:
+        languages: ${{ matrix.language }}
+        queries: security-and-quality
+
+    - name: autobuild
+      uses: github/codeql-action/autobuild@v1
+
+    - name: run analysis
+      uses: github/codeql-action/analyze@v1

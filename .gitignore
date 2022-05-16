@@ -1,0 +1,10 @@
+.venv
+**.log
+.vscode/*
+**.DS_Store
+__pycache__
+**.python*
+**settings.json
+source/screenshots/*.png
+source/linkanalysis/*.json
+assets/tmp/**

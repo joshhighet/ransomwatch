@@ -1,0 +1,27 @@
+
+name: ransomwatch-build/
+
+on:
+  schedule:
+    - cron: '0 0 * * 0'
+  workflow_dispatch:
+
+jobs:
+  push-to-github-cr:
+    name: push image to github container registry
+    runs-on: ubuntu-latest
+    steps:
+      - name: checkout the repo
+        uses: actions/checkout@v2
+      - name: authenticate to gh container registry 
+        uses: docker/login-action@v1.10.0
+        with:
+          registry: ghcr.io
+          username: ${{ github.repository_owner }}
+          password: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: build & push image
+        uses: docker/build-push-action@v2.6.1
+        with:
+          push: true 
+          tags: ghcr.io/${{ github.repository }}:latest

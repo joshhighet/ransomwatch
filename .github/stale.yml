@@ -1,0 +1,17 @@
+# https://github.com/marketplace/stale
+# inactivity days before an issue becomes stale
+daysUntilStale: 60
+# inactivity days before a stale issue is closed
+daysUntilClose: 7
+# issues with the following labels will never be considered stale
+exemptLabels:
+  - pinned
+  - security
+# label to use when marking an issue as stale
+staleLabel: wontfix
+# comment to post when marking an issue as stale.
+markComment: >
+  This issue has been automatically marked as stale because it has not had
+  recent activity. It will be closed if no further activity occurs.
+# comment to post when closing a stale issue.
+closeComment: false

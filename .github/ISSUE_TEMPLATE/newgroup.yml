@@ -1,0 +1,48 @@
+name: New Group
+description: Request the addition of a new group
+title: "new group: "
+labels: ["✨ enhancement"]
+body:
+  - type: input
+    id: fqdn
+    attributes:
+      label: host location
+      description: fqdn or web address of group
+      placeholder: ex. abcdefg.onion/blog.html
+    validations:
+      required: true
+  - type: input
+    id: groupname
+    attributes:
+      label: group name
+      description: what name(s) is this actor operating under?
+      placeholder: bobs burgers
+    validations:
+      required: true
+  - type: textarea
+    id: summary
+    attributes:
+      label: group information
+      description: where did you discover this group?
+      placeholder: any supplementary links or resources to attribute this group
+    validations:
+      required: false
+  - type: dropdown
+    id: version
+    attributes:
+      label: host
+      description: what type of host is this?
+      options:
+        - clearnet
+        - v1 (onion)
+        - v2 (onion)
+        - v3 (onion)
+    validations:
+      required: true
+  - type: textarea
+    id: logs
+    attributes:
+      label: parser
+      description: if you have a shell parser similar to those within [parsers.py](https://github.com/joshhighet/ransomwatch/blob/main/parsers.py) to list posts, drop it here
+      render: shell
+      placeholder: cat source.html | grep '\magic\|command\' | sed -i 'need\ful' | xargs

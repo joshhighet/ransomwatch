@@ -1,0 +1,14 @@
+**.py                @joshhighet
+**.sh                @joshhighet
+**.md                @joshhighet
+**.zsh               @joshhighet
+**.txt               @joshhighet
+**.exclusions        @joshhighet
+/docs/CNAME          @joshhighet
+/docs/index.html     @joshhighet
+/.github/            @joshhighet
+/docs/               @ghost
+/source/             @ghost
+posts.json           @ghost
+groups.json          @ghost
+*                    @ghost
