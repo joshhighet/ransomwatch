@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-05-17 | [`upskwt`](https://google.com/search?q=upskwt) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
 | 2022-05-17 | [`Hirsch Watch Straps &amp; Accessories`](https://google.com/search?q=Hirsch+Watch+Straps+%26amp%3B+Accessories) | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
 | 2022-05-17 | [`InnPower`](https://google.com/search?q=InnPower) | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
 | 2022-05-17 | [`jaykal`](https://google.com/search?q=jaykal) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-05-06 | [`fnoutlet.com`](https://google.com/search?q=fnoutlet.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-05-06 | [`Next Leak On Hold`](https://google.com/search?q=Next+Leak+On+Hold) | [kelvinsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=kelvinsecurity) |
 | 2022-05-06 | [`PTC Industries`](https://google.com/search?q=PTC+Industries) | [kelvinsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=kelvinsecurity) |
-| 2022-05-05 | [`Rollecate Group`](https://google.com/search?q=Rollecate+Group) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
