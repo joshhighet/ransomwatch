@@ -4,6 +4,8 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-05-17 | [`suntecktts.com`](https://google.com/search?q=suntecktts.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
+| 2022-05-17 | [`modetransportat...`](https://google.com/search?q=modetransportat...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-05-17 | [`Tex-Isle Supply`](https://google.com/search?q=Tex-Isle+Supply) | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
 | 2022-05-17 | [`vivalia.be`](https://google.com/search?q=vivalia.be) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-05-17 | [`FOR BlackCat and LockBit advert`](https://google.com/search?q=FOR+BlackCat+and+LockBit+advert) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
@@ -102,5 +104,3 @@ _last `100` posts_
 | 2022-05-07 | [`ALEXIM.COM FILES PART10 - 192.168.3.5\Mail\csanchez\ PUBLISHED`](https://google.com/search?q=ALEXIM.COM+FILES+PART10+-+192.168.3.5%5CMail%5Ccsanchez%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-05-07 | [`AFJCONSULTING.NET FILES PART5 - E\data\documents\Client Folders\ PUBLISHED`](https://google.com/search?q=AFJCONSULTING.NET+FILES+PART5+-+E%5Cdata%5Cdocuments%5CClient+Folders%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-05-07 | [`MCH-GROUP.COM FILES PART31 - 172.16.1.100, 172.16.103.43 PUBLISHED`](https://google.com/search?q=MCH-GROUP.COM+FILES+PART31+-+172.16.1.100%2C+172.16.103.43+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-05-07 | [`BOLTONUSA.COM FILES PART35 - 10.0.0.20\c$\BOD_HQ_CIFS\DB_Dept\DB_DEPT\CLIENT\WV MPOB PUBLI`](https://google.com/search?q=BOLTONUSA.COM+FILES+PART35+-+10.0.0.20%5Cc%24%5CBOD_HQ_CIFS%5CDB_Dept%5CDB_DEPT%5CCLIENT%5CWV+MPOB+PUBLI) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-05-07 | [`realestateconsu...`](https://google.com/search?q=realestateconsu...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
