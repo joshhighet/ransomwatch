@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-05-18 | [`Xplay Data Leak`](https://google.com/search?q=Xplay+Data+Leak) | [darkleakmarket](https://ransomwatch.telemetry.ltd/#/profiles?id=darkleakmarket) |
 | 2022-05-18 | [`Tecnopack`](https://google.com/search?q=Tecnopack) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-05-17 | [`suntecktts.com`](https://google.com/search?q=suntecktts.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-05-17 | [`modetransportat...`](https://google.com/search?q=modetransportat...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-05-07 | [`ALTERNATIVETECHS.COM FILES PART7 - C\Shares\Alternative\accounting\ARCHIVE - former staff `](https://google.com/search?q=ALTERNATIVETECHS.COM+FILES+PART7+-+C%5CShares%5CAlternative%5Caccounting%5CARCHIVE+-+former+staff+) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-05-07 | [`JBINSTANTLAWN.NET FILES PART10 - JB-SERVER\D$\ServerFolders\Company\ PUBLISHED`](https://google.com/search?q=JBINSTANTLAWN.NET+FILES+PART10+-+JB-SERVER%5CD%24%5CServerFolders%5CCompany%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-05-07 | [`ALEXIM.COM FILES PART10 - 192.168.3.5\Mail\csanchez\ PUBLISHED`](https://google.com/search?q=ALEXIM.COM+FILES+PART10+-+192.168.3.5%5CMail%5Ccsanchez%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-05-07 | [`AFJCONSULTING.NET FILES PART5 - E\data\documents\Client Folders\ PUBLISHED`](https://google.com/search?q=AFJCONSULTING.NET+FILES+PART5+-+E%5Cdata%5Cdocuments%5CClient+Folders%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
