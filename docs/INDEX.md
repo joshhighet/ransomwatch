@@ -43,7 +43,7 @@
 | [doppelpaymer](https://ransomwatch.telemetry.ltd/#/profiles?id=doppelpaymer) | Start-maximized.com | 🔴 | 2021-09-23 | hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion |
 | [revil](https://ransomwatch.telemetry.ltd/#/profiles?id=revil) | 404 Not Found | 🟢 |  | dnpscnbaix6nkwvystl3yxglz7nteicqrou3t75tpcc5532cztc46qyd.onion |
 | [revil](https://ransomwatch.telemetry.ltd/#/profiles?id=revil) | 404 Not Found | 🟢 |  | aplebzu47wgazapdqks6vrcv6zcnjppkbxbr6wketf56nf6aq2nmyoyd.onion |
-| [revil](https://ransomwatch.telemetry.ltd/#/profiles?id=revil) | Blog | 🟢 |  | blogxxu75w63ujqarv476otld7cyjkq4yoswzt4ijadkjwvg3vrvd5yd.onion |
+| [revil](https://ransomwatch.telemetry.ltd/#/profiles?id=revil) | 504 Gateway Time-out | 🟢 |  | blogxxu75w63ujqarv476otld7cyjkq4yoswzt4ijadkjwvg3vrvd5yd.onion |
 | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) | Everest ransom team | 🟢 |  | ransomocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexfook2j7esad.onion |
 | [ragnarok](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarok) |  | 🔴 | 2021-05-01 | wobpitin77vdsdiswr43duntv6eqw4rvphedutpaxycjdie6gg3binad.onion |
 | [ragnarok](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarok) | Decrypt Site | 🔴 | 2021-08-27 | sushlnty2j7qdzy64qnvyb6ajkwg7resd3p6agc2widnawodtcedgjid.onion |
@@ -135,7 +135,7 @@
 | [ransomcartel](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomcartel) | Ransomware - Control Panel | 🔴 | 2022-03-03 | u67aylig7i6l657wxmp274eoilaowhp3boljowa6bli63rxyzfzsbtyd.onion |
 | [adminlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=adminlocker) | Admin Locker | 🟢 |  | adminavf4cikzbv6mbbp7ujpwhygnn2t3egiz2pswldj32krrml42wyd.onion |
 | [sugar](https://ransomwatch.telemetry.ltd/#/profiles?id=sugar) |  | 🔴 | 2022-05-10 | chat5sqrnzqewampznybomgn4hf2m53tybkarxk4sfaktwt7oqpkcvyd.onion |
-| [zeon](https://ransomwatch.telemetry.ltd/#/profiles?id=zeon) | ZEON.Recovery - Enter the key | 🔴 | 2022-05-18 | zeonrefpbompx6rwdqa5hxgtp2cxgfmoymlli3azoanisze33pp3x3yd.onion |
+| [zeon](https://ransomwatch.telemetry.ltd/#/profiles?id=zeon) | ZEON.Recovery - Enter the key | 🟢 |  | zeonrefpbompx6rwdqa5hxgtp2cxgfmoymlli3azoanisze33pp3x3yd.onion |
 | [freecivilian](https://ransomwatch.telemetry.ltd/#/profiles?id=freecivilian) | Free Civilian | 🔴 | 2022-05-17 | gcbejm2rcjftouqbxuhimj5oroouqcuxb2my4raxqa7efkz5bd5464id.onion |
 | [pandora](https://ransomwatch.telemetry.ltd/#/profiles?id=pandora) | Pandora Data Leak | 🔴 | 2022-05-03 | vbfqeh5nugm6r2u2qvghsdxm3fotf5wbxb5ltv6vw77vus5frdpuaiid.onion |
 | [pandora](https://ransomwatch.telemetry.ltd/#/profiles?id=pandora) |  | 🔴 | 2021-05-01 | pandoraxyz.xyz |
