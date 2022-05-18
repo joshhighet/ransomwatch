@@ -1,5 +1,5 @@
 #!/bin/zsh
-
+# freshonifyfe4rmuh6qwpsexfhdrww7wnt5qmkoertwxmcuvm4woo4ad.onion
 set -e
 
 if ! `nc -z localhost 9050`; then
@@ -76,15 +76,6 @@ echo ${gistteix} | cut -d ',' -f 2 | sed -E -e 's_.*://([^/@]*@)?([^/:]+).*_\2_'
 gistteix_count=`cat assets/tmp/sources.gistteix | wc -w | awk '{$1=$1};1'`
 echo "${gistteix_count} | gist:teixeira0xfffff:ransomwarefeed.csv"
 
-freshoni=`curl -s --socks5-hostname localhost:9050 'freshonifyfe4rmuh6qwpsexfhdrww7wnt5qmkoertwxmcuvm4woo4ad.onion/?query=ransom' -H 'User-Agent: '${random_useragent}''`
-if [ $? -ne 0 ]; then
-    echo "failed to fetch from onion:freshonify"
-    exit 1
-fi
-echo ${freshoni} | sed -E -e 's_.*://([^/@]*@)?([^/:]+).*_\2_' | grep onion | cut -d '"' -f 1 > assets/tmp/sources.freshoni
-freshoni_count=`cat assets/tmp/sources.freshoni | wc -w | awk '{$1=$1};1'`
-echo "${freshoni_count} | onion:freshonify"
-
 lpn=`curl -s --socks5-hostname localhost:9050 lpnxgtkni46pngdg4pml47hvxg2xqdcrd7z2f5oysyuialodho6g34yd.onion -H 'User-Agent: '${random_useragent}''`
 if [ $? -ne 0 ]; then
     echo "failed to fetch from onion:lpnxgtkni"
@@ -109,3 +100,4 @@ do
         echo "${host}"
     fi
 done <<< "${hosts}"
+rm assets/tmp/sources.*
