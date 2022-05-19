@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-05-19 | [`skinnertrans.ne...`](https://google.com/search?q=skinnertrans.ne...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
+| 2022-05-19 | [`gymund.dk`](https://google.com/search?q=gymund.dk) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
+| 2022-05-19 | [`Magtek`](https://google.com/search?q=Magtek) | [lorenz](https://ransomwatch.telemetry.ltd/#/profiles?id=lorenz) |
 | 2022-05-19 | [`Tri-Ko`](https://google.com/search?q=Tri-Ko) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
 | 2022-05-19 | [`groupe-trouille...`](https://google.com/search?q=groupe-trouille...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-05-19 | [`gdctax.com.au`](https://google.com/search?q=gdctax.com.au) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2022-04-29 | [`www.innotecgroup.com`](https://google.com/search?q=www.innotecgroup.com) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-04-29 | [`Jasper County Sheriff's Office`](https://google.com/search?q=Jasper+County+Sheriff%27s+Office) | [onyx](https://ransomwatch.telemetry.ltd/#/profiles?id=onyx) |
 | 2022-04-29 | [`Monterey Mechanical Co.`](https://google.com/search?q=Monterey+Mechanical+Co.) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
-| 2022-04-29 | [`KSSENTERPRISES.COM FILES PART2 - 10.250.1.6\D$\ PUBLISHED`](https://google.com/search?q=KSSENTERPRISES.COM+FILES+PART2+-+10.250.1.6%5CD%24%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-04-29 | [`ZISSERFAMILYLAW.COM FILES PART6 - D\Shares\DATA\ PUBLISHED`](https://google.com/search?q=ZISSERFAMILYLAW.COM+FILES+PART6+-+D%5CShares%5CDATA%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-04-29 | [`SA1SOLUTIONS.COM  FILES PART6 - 192.168.10.238\D$\Sharepoint\SA1 SOLUTIONS\Helpdesk - Docu`](https://google.com/search?q=SA1SOLUTIONS.COM++FILES+PART6+-+192.168.10.238%5CD%24%5CSharepoint%5CSA1+SOLUTIONS%5CHelpdesk+-+Docu) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
