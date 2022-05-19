@@ -4,6 +4,10 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-05-19 | [`Atlanta Perinatal Associates`](https://google.com/search?q=Atlanta+Perinatal+Associates) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
+| 2022-05-19 | [`Carmel College`](https://google.com/search?q=Carmel+College) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
+| 2022-05-19 | [`Higher School of the Public`](https://google.com/search?q=Higher+School+of+the+Public) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
+| 2022-05-19 | [`Important announcement`](https://google.com/search?q=Important+announcement) | [lv](https://ransomwatch.telemetry.ltd/#/profiles?id=lv) |
 | 2022-05-18 | [`clublinks.com.a...`](https://google.com/search?q=clublinks.com.a...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-05-18 | [`Mercyhurst.edu`](https://google.com/search?q=Mercyhurst.edu) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-05-18 | [`https://clublin...`](https://google.com/search?q=https%3A%2F%2Fclublin...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -100,7 +104,3 @@ _last `100` posts_
 | 2022-05-07 | [`SA1SOLUTIONS.COM  FILES PART7 - 192.168.10.238\D$\Storage - Customers PUBLISHED`](https://google.com/search?q=SA1SOLUTIONS.COM++FILES+PART7+-+192.168.10.238%5CD%24%5CStorage+-+Customers+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-05-07 | [`ORBITELECTRIC.COM FILES PART5 - 192.168.10.23\ORBIT_ART\ PUBLISHED`](https://google.com/search?q=ORBITELECTRIC.COM+FILES+PART5+-+192.168.10.23%5CORBIT_ART%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-05-07 | [`OAKDELL.COM FILES PART7 - 192.168.100.137\C$\Users\clillywhite\ PUBLISHED`](https://google.com/search?q=OAKDELL.COM+FILES+PART7+-+192.168.100.137%5CC%24%5CUsers%5Cclillywhite%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-05-07 | [`JDAVIDTAXLAW.COM FILES PART7 - E_Previous_Employees\ PUBLISHED`](https://google.com/search?q=JDAVIDTAXLAW.COM+FILES+PART7+-+E_Previous_Employees%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-05-07 | [`FAIR-RITE.COM FILES PART7 - 172.16.20.11, 172.16.20.100 PUBLISHED`](https://google.com/search?q=FAIR-RITE.COM+FILES+PART7+-+172.16.20.11%2C+172.16.20.100+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-05-07 | [`DRIVEANDSHINE.COM FILES PART7 - 192.168.200.151 PUBLISHED`](https://google.com/search?q=DRIVEANDSHINE.COM+FILES+PART7+-+192.168.200.151+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-05-07 | [`DRC-LAW.COM FILES PART7 - 10.10.1.2\C$\Shares\Data\Documents\Clients\A-H\Alpine Consulting`](https://google.com/search?q=DRC-LAW.COM+FILES+PART7+-+10.10.1.2%5CC%24%5CShares%5CData%5CDocuments%5CClients%5CA-H%5CAlpine+Consulting) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
