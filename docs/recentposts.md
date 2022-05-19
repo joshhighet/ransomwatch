@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-05-19 | [`groupe-trouille...`](https://google.com/search?q=groupe-trouille...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
+| 2022-05-19 | [`gdctax.com.au`](https://google.com/search?q=gdctax.com.au) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
+| 2022-05-19 | [`fed-gmbh.de`](https://google.com/search?q=fed-gmbh.de) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-05-19 | [`Contractors Pipe and Supply Corporation`](https://google.com/search?q=Contractors+Pipe+and+Supply+Corporation) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2022-05-19 | [`Boom Logistics (boomlogistics.com.au)`](https://google.com/search?q=Boom+Logistics+%28boomlogistics.com.au%29) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-05-19 | [`http://wsretail...`](https://google.com/search?q=http%3A%2F%2Fwsretail...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2022-04-29 | [`ZISSERFAMILYLAW.COM FILES PART6 - D\Shares\DATA\ PUBLISHED`](https://google.com/search?q=ZISSERFAMILYLAW.COM+FILES+PART6+-+D%5CShares%5CDATA%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-04-29 | [`SA1SOLUTIONS.COM  FILES PART6 - 192.168.10.238\D$\Sharepoint\SA1 SOLUTIONS\Helpdesk - Docu`](https://google.com/search?q=SA1SOLUTIONS.COM++FILES+PART6+-+192.168.10.238%5CD%24%5CSharepoint%5CSA1+SOLUTIONS%5CHelpdesk+-+Docu) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-04-29 | [`SSMSJUSTICE.COM FILES PART33 - 192.168.1.247, F PUBLISHED`](https://google.com/search?q=SSMSJUSTICE.COM+FILES+PART33+-+192.168.1.247%2C+F+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-04-29 | [`ORBITELECTRIC.COM FILES PART4 - 192.168.10.3\E$\USERS\ PUBLISHED`](https://google.com/search?q=ORBITELECTRIC.COM+FILES+PART4+-+192.168.10.3%5CE%24%5CUSERS%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-04-29 | [`OAKDELL.COM FILES PART6 - 192.168.100.137\C$\Users\clillywhite\ PUBLISHED`](https://google.com/search?q=OAKDELL.COM+FILES+PART6+-+192.168.100.137%5CC%24%5CUsers%5Cclillywhite%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-04-29 | [`JDAVIDTAXLAW.COM FILES PART6 - E_Previous_Employees\ PUBLISHED`](https://google.com/search?q=JDAVIDTAXLAW.COM+FILES+PART6+-+E_Previous_Employees%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
