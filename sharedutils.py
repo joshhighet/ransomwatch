@@ -451,3 +451,54 @@ def todiscord(post_title, group):
     else:
         honk('sharedutils: ' + 'recieved discord webhook error resonse ' + str(hookpost.status_code) + ' with text ' + str(hookpost.text))
     return False
+
+def toteams(post_title, group):
+    '''
+    sends a post to a miCroSoFt tEaMs webhook defined as an envar
+    '''
+    dbglog('sharedutils: ' + 'sending to microsoft teams webhook')
+    # avoid json decode errors by escaping the title if contains \ or "
+    post_title = post_title.replace('\\', '\\\\').replace('"', '\\"')
+    teams_data = '''
+    {
+    "type":"message",
+    "attachments":[
+        {
+            "contentType":"application/vnd.microsoft.card.adaptive",
+            "contentUrl":null,
+            "content":{
+                "type": "AdaptiveCard",
+                "body": [
+                    {
+                        "type": "TextBlock",
+                        "text": "%s",
+                        "isSubtle": true,
+                        "wrap": true
+                    }
+                ],
+                "actions": [
+                    {
+                        "type": "Action.OpenUrl",
+                        "title": "%s",
+                        "url": "https://ransomwatch.telemetry.ltd/#/profiles?id=%s"
+                    }
+                ],
+                "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+                "version": "1.4"
+            }
+        }
+    ]
+    }''' % (post_title, group, group)
+    try:
+        hook_uri = os.environ.get('MS_TEAMS_WEBHOOK')
+        hookpost = requests.post(hook_uri, data=teams_data, headers={'Content-Type': 'application/json'})
+    except requests.exceptions.RequestException as e:
+        honk('sharedutils: ' + 'error sending to microsoft teams webhook: ' + str(e))
+    if hookpost.status_code == 200:
+        return True
+    elif hookpost.status_code == 429:
+        errlog('sharedutils: ' + 'microsoft teams webhook rate limit exceeded')
+    else:
+        honk('sharedutils: ' + 'recieved microsoft teams webhook error resonse ' + str(hookpost.status_code) + ' with text ' + str(hookpost.text))
+    return False
+    
