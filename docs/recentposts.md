@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-05-20 | [`de`](https://google.com/search?q=de) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-05-20 | [`SPORTPLAZA`](https://google.com/search?q=SPORTPLAZA) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
 | 2022-05-20 | [`firbarcarolo.it`](https://google.com/search?q=firbarcarolo.it) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-05-20 | [`The Catholic Foundation`](https://google.com/search?q=The+Catholic+Foundation) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-04-29 | [`Valley Rentals`](https://google.com/search?q=Valley+Rentals) | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
 | 2022-04-29 | [`Hufcor`](https://google.com/search?q=Hufcor) | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
 | 2022-04-29 | [`Grosvenor Engineering Group`](https://google.com/search?q=Grosvenor+Engineering+Group) | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
-| 2022-04-29 | [`Drive Products`](https://google.com/search?q=Drive+Products) | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
