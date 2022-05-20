@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-05-20 | [`bsm.upf.ed`](https://google.com/search?q=bsm.upf.ed) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-05-20 | [`salumificiovene...`](https://google.com/search?q=salumificiovene...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-05-20 | [`PERBIT.COM FILES PART2 - 10.182.179.241\C$\sbs_prbt_backup_cifs1_vol1\SQL Backup\ PUBLISHE`](https://google.com/search?q=PERBIT.COM+FILES+PART2+-+10.182.179.241%5CC%24%5Csbs_prbt_backup_cifs1_vol1%5CSQL+Backup%5C+PUBLISHE) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-05-20 | [`KSSENTERPRISES.COM FILES PART5 - 10.250.1.6\D$\ PUBLISHED`](https://google.com/search?q=KSSENTERPRISES.COM+FILES+PART5+-+10.250.1.6%5CD%24%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-05-02 | [`CPQD - BANCO CENTRAL OF BRASIL BLOCKHAIN. 1.8TB DATA LEAKED WITH ALL SOURCES.`](https://google.com/search?q=CPQD+-+BANCO+CENTRAL+OF+BRASIL+BLOCKHAIN.+1.8TB+DATA+LEAKED+WITH+ALL+SOURCES.) | [lv](https://ransomwatch.telemetry.ltd/#/profiles?id=lv) |
 | 2022-05-01 | [`ethiopianai`](https://google.com/search?q=ethiopianai) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-05-01 | [`card`](https://google.com/search?q=card) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-05-01 | [`Collegiate sports medicine`](https://google.com/search?q=Collegiate+sports+medicine) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
