@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-05-20 | [`The Catholic Foundation`](https://google.com/search?q=The+Catholic+Foundation) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2022-05-20 | [`morrisonexpress...`](https://google.com/search?q=morrisonexpress...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-05-20 | [`bata`](https://google.com/search?q=bata) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-05-19 | [`EIITNET`](https://google.com/search?q=EIITNET) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-04-29 | [`Drive Products`](https://google.com/search?q=Drive+Products) | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
 | 2022-04-29 | [`Petro Serve`](https://google.com/search?q=Petro+Serve) | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
 | 2022-04-29 | [`Henry`](https://google.com/search?q=Henry) | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
-| 2022-04-29 | [`brid`](https://google.com/search?q=brid) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
