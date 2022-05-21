@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-05-21 | [`Grupo Pavisa`](https://google.com/search?q=Grupo+Pavisa) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
 | 2022-05-21 | [`Contraloría General de la República`](https://google.com/search?q=Contralor%C3%ADa+General+de+la+Rep%C3%BAblica) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
 | 2022-05-20 | [`bsm.upf.ed`](https://google.com/search?q=bsm.upf.ed) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-05-20 | [`salumificiovene...`](https://google.com/search?q=salumificiovene...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-05-02 | [`SOGEGROSS SPA`](https://google.com/search?q=SOGEGROSS+SPA) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
 | 2022-05-02 | [`vestas`](https://google.com/search?q=vestas) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-05-02 | [`CPQD - BANCO CENTRAL OF BRASIL BLOCKHAIN. 1.8TB DATA LEAKED WITH ALL SOURCES.`](https://google.com/search?q=CPQD+-+BANCO+CENTRAL+OF+BRASIL+BLOCKHAIN.+1.8TB+DATA+LEAKED+WITH+ALL+SOURCES.) | [lv](https://ransomwatch.telemetry.ltd/#/profiles?id=lv) |
-| 2022-05-01 | [`ethiopianai`](https://google.com/search?q=ethiopianai) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
