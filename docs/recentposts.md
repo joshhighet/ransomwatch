@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-05-22 | [`seatarrabida.pt`](https://google.com/search?q=seatarrabida.pt) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-05-21 | [`focusadventure..`](https://google.com/search?q=focusadventure..) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-05-21 | [`Grupo Pavisa`](https://google.com/search?q=Grupo+Pavisa) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
 | 2022-05-21 | [`Contraloría General de la República`](https://google.com/search?q=Contralor%C3%ADa+General+de+la+Rep%C3%BAblica) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-05-02 | [`FRANSABANK`](https://google.com/search?q=FRANSABANK) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
 | 2022-05-02 | [`M+R SPEDAG GROUP`](https://google.com/search?q=M%2BR+SPEDAG+GROUP) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
 | 2022-05-02 | [`SOGEGROSS SPA`](https://google.com/search?q=SOGEGROSS+SPA) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
-| 2022-05-02 | [`vestas`](https://google.com/search?q=vestas) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
