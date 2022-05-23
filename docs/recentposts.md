@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-05-23 | [`Active Communications International`](https://google.com/search?q=Active+Communications+International) | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
+| 2022-05-23 | [`Transsion Holdings`](https://google.com/search?q=Transsion+Holdings) | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
 | 2022-05-23 | [`Eurocept`](https://google.com/search?q=Eurocept) | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
 | 2022-05-23 | [`Imenco AS`](https://google.com/search?q=Imenco+AS) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-05-23 | [`Concepts in Millwork`](https://google.com/search?q=Concepts+in+Millwork) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2022-05-04 | [`nizing.com.tw`](https://google.com/search?q=nizing.com.tw) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-05-04 | [`aref.government...`](https://google.com/search?q=aref.government...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-05-04 | [`EYP`](https://google.com/search?q=EYP) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
-| 2022-05-03 | [`BRITISH LINK KUWAIT`](https://google.com/search?q=BRITISH+LINK+KUWAIT) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2022-05-03 | [`Asia Pacific University`](https://google.com/search?q=Asia+Pacific+University) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
