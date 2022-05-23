@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-05-23 | [`etrp`](https://google.com/search?q=etrp) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-05-22 | [`SYSOL`](https://google.com/search?q=SYSOL) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-05-22 | [`reitzner`](https://google.com/search?q=reitzner) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-05-22 | [`HEMERIA`](https://google.com/search?q=HEMERIA) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-05-02 | [`The Scholz Group`](https://google.com/search?q=The+Scholz+Group) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2022-05-02 | [`erediriva.it`](https://google.com/search?q=erediriva.it) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-05-02 | [`cwaengineers.co...`](https://google.com/search?q=cwaengineers.co...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-05-02 | [`agenilsen.no`](https://google.com/search?q=agenilsen.no) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
