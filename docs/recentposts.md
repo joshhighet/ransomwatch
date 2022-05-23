@@ -4,6 +4,14 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-05-23 | [`Concepts in Millwork`](https://google.com/search?q=Concepts+in+Millwork) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
+| 2022-05-23 | [`Eurofred`](https://google.com/search?q=Eurofred) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
+| 2022-05-23 | [`Agile Sourcing Partners`](https://google.com/search?q=Agile+Sourcing+Partners) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
+| 2022-05-23 | [`Alimentos y Frutos S.A.`](https://google.com/search?q=Alimentos+y+Frutos+S.A.) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
+| 2022-05-23 | [`Worksoft`](https://google.com/search?q=Worksoft) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
+| 2022-05-23 | [`Omicron Consulting S.r.L`](https://google.com/search?q=Omicron+Consulting+S.r.L) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
+| 2022-05-23 | [`Pianca`](https://google.com/search?q=Pianca) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
+| 2022-05-23 | [`Allcat Claims Service`](https://google.com/search?q=Allcat+Claims+Service) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-05-23 | [`berschneider.de`](https://google.com/search?q=berschneider.de) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-05-23 | [`etrp`](https://google.com/search?q=etrp) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-05-22 | [`SYSOL`](https://google.com/search?q=SYSOL) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -196,11 +204,3 @@ _last `200` posts_
 | 2022-05-03 | [`Asia Pacific University`](https://google.com/search?q=Asia+Pacific+University) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2022-05-03 | [`Unicity International`](https://google.com/search?q=Unicity+International) | [revil](https://ransomwatch.telemetry.ltd/#/profiles?id=revil) |
 | 2022-05-03 | [`Sarasin & partners LLP`](https://google.com/search?q=Sarasin+%26+partners+LLP) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2022-05-03 | [`Municipality of Posadas`](https://google.com/search?q=Municipality+of+Posadas) | [kelvinsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=kelvinsecurity) |
-| 2022-05-03 | [`bfclcoin`](https://google.com/search?q=bfclcoin) | [kelvinsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=kelvinsecurity) |
-| 2022-05-03 | [`Instance IT Solutions India`](https://google.com/search?q=Instance+IT+Solutions+India) | [kelvinsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=kelvinsecurity) |
-| 2022-05-03 | [`fivestar`](https://google.com/search?q=fivestar) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-05-02 | [`Jameco Electronics`](https://google.com/search?q=Jameco+Electronics) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2022-05-02 | [`PRGX Global Inc.`](https://google.com/search?q=PRGX+Global+Inc.) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2022-05-02 | [`The Scholz Group`](https://google.com/search?q=The+Scholz+Group) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2022-05-02 | [`erediriva.it`](https://google.com/search?q=erediriva.it) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
