@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-05-23 | [`Germany Corporation "VMT-GmbH" Leaked`](https://google.com/search?q=Germany+Corporation+%22VMT-GmbH%22+Leaked) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
 | 2022-05-23 | [`Active Communications International`](https://google.com/search?q=Active+Communications+International) | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
 | 2022-05-23 | [`Transsion Holdings`](https://google.com/search?q=Transsion+Holdings) | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
 | 2022-05-23 | [`Eurocept`](https://google.com/search?q=Eurocept) | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-05-04 | [`rogz.com`](https://google.com/search?q=rogz.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-05-04 | [`nizing.com.tw`](https://google.com/search?q=nizing.com.tw) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-05-04 | [`aref.government...`](https://google.com/search?q=aref.government...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-05-04 | [`EYP`](https://google.com/search?q=EYP) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
