@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-05-24 | [`www.intertabak....`](https://google.com/search?q=www.intertabak....) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-05-24 | [`virtus-advocate...`](https://google.com/search?q=virtus-advocate...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-05-24 | [`Imagen Television`](https://google.com/search?q=Imagen+Television) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-05-23 | [`NEWCOURSECC.COM FILES PART1 - 10.168.0.13, 10.168.0.16, 10.168.40.11, 10.168.0.136 PUBLISH`](https://google.com/search?q=NEWCOURSECC.COM+FILES+PART1+-+10.168.0.13%2C+10.168.0.16%2C+10.168.40.11%2C+10.168.0.136+PUBLISH) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-05-04 | [`Haynes Manuals`](https://google.com/search?q=Haynes+Manuals) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2022-05-04 | [`Zito Media`](https://google.com/search?q=Zito+Media) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2022-05-04 | [`Faw-Volkswagen Automobile Co., Ltd.`](https://google.com/search?q=Faw-Volkswagen+Automobile+Co.%2C+Ltd.) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
-| 2022-05-04 | [`Tosoh Bioscience`](https://google.com/search?q=Tosoh+Bioscience) | [lorenz](https://ransomwatch.telemetry.ltd/#/profiles?id=lorenz) |
