@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-05-24 | [`TRANSCONTRACT`](https://google.com/search?q=TRANSCONTRACT) | [kelvinsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=kelvinsecurity) |
+| 2022-05-24 | [`Mansfield Energy`](https://google.com/search?q=Mansfield+Energy) | [kelvinsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=kelvinsecurity) |
 | 2022-05-24 | [`Central Restaurant Products`](https://google.com/search?q=Central+Restaurant+Products) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-05-24 | [`Schaumburg Park District`](https://google.com/search?q=Schaumburg+Park+District) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-05-24 | [`vitalprev.com.b...`](https://google.com/search?q=vitalprev.com.b...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2022-05-05 | [`toshfarms`](https://google.com/search?q=toshfarms) | [mindware](https://ransomwatch.telemetry.ltd/#/profiles?id=mindware) |
 | 2022-05-05 | [`thebureau`](https://google.com/search?q=thebureau) | [mindware](https://ransomwatch.telemetry.ltd/#/profiles?id=mindware) |
 | 2022-05-05 | [`smd`](https://google.com/search?q=smd) | [mindware](https://ransomwatch.telemetry.ltd/#/profiles?id=mindware) |
-| 2022-05-05 | [`simpsonplastering`](https://google.com/search?q=simpsonplastering) | [mindware](https://ransomwatch.telemetry.ltd/#/profiles?id=mindware) |
-| 2022-05-05 | [`nottco`](https://google.com/search?q=nottco) | [mindware](https://ransomwatch.telemetry.ltd/#/profiles?id=mindware) |
