@@ -4,6 +4,10 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-05-24 | [`Central Restaurant Products`](https://google.com/search?q=Central+Restaurant+Products) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
+| 2022-05-24 | [`Schaumburg Park District`](https://google.com/search?q=Schaumburg+Park+District) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
+| 2022-05-24 | [`vitalprev.com.b...`](https://google.com/search?q=vitalprev.com.b...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
+| 2022-05-24 | [`https://www.vit...`](https://google.com/search?q=https%3A%2F%2Fwww.vit...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-05-24 | [`pet-link.com`](https://google.com/search?q=pet-link.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-05-24 | [`kuwaitflourmill...`](https://google.com/search?q=kuwaitflourmill...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-05-24 | [`erdwaerme-gruen...`](https://google.com/search?q=erdwaerme-gruen...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -200,7 +204,3 @@ _last `200` posts_
 | 2022-05-05 | [`smd`](https://google.com/search?q=smd) | [mindware](https://ransomwatch.telemetry.ltd/#/profiles?id=mindware) |
 | 2022-05-05 | [`simpsonplastering`](https://google.com/search?q=simpsonplastering) | [mindware](https://ransomwatch.telemetry.ltd/#/profiles?id=mindware) |
 | 2022-05-05 | [`nottco`](https://google.com/search?q=nottco) | [mindware](https://ransomwatch.telemetry.ltd/#/profiles?id=mindware) |
-| 2022-05-05 | [`micropakkn`](https://google.com/search?q=micropakkn) | [mindware](https://ransomwatch.telemetry.ltd/#/profiles?id=mindware) |
-| 2022-05-05 | [`mediuscorp`](https://google.com/search?q=mediuscorp) | [mindware](https://ransomwatch.telemetry.ltd/#/profiles?id=mindware) |
-| 2022-05-05 | [`diager`](https://google.com/search?q=diager) | [mindware](https://ransomwatch.telemetry.ltd/#/profiles?id=mindware) |
-| 2022-05-05 | [`callinc`](https://google.com/search?q=callinc) | [mindware](https://ransomwatch.telemetry.ltd/#/profiles?id=mindware) |
