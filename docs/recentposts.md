@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-05-24 | [`Allports Group`](https://google.com/search?q=Allports+Group) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2022-05-24 | [`RateGain`](https://google.com/search?q=RateGain) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
 | 2022-05-24 | [`RateGain`](https://google.com/search?q=RateGain) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-05-24 | [`www.intertabak....`](https://google.com/search?q=www.intertabak....) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-05-24 | [`virtus-advocate...`](https://google.com/search?q=virtus-advocate...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2022-05-05 | [`acorentacar`](https://google.com/search?q=acorentacar) | [mindware](https://ransomwatch.telemetry.ltd/#/profiles?id=mindware) |
 | 2022-05-05 | [`jewelry.`](https://google.com/search?q=jewelry.) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-05-04 | [`ELTA Hellenic Post`](https://google.com/search?q=ELTA+Hellenic+Post) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
-| 2022-05-04 | [`Haynes Manuals`](https://google.com/search?q=Haynes+Manuals) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
-| 2022-05-04 | [`Zito Media`](https://google.com/search?q=Zito+Media) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
