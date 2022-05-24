@@ -4,6 +4,10 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-05-24 | [`pet-link.com`](https://google.com/search?q=pet-link.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
+| 2022-05-24 | [`kuwaitflourmill...`](https://google.com/search?q=kuwaitflourmill...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
+| 2022-05-24 | [`erdwaerme-gruen...`](https://google.com/search?q=erdwaerme-gruen...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
+| 2022-05-24 | [`architectenbure...`](https://google.com/search?q=architectenbure...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-05-24 | [`Allports Group`](https://google.com/search?q=Allports+Group) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2022-05-24 | [`RateGain`](https://google.com/search?q=RateGain) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
 | 2022-05-24 | [`RateGain`](https://google.com/search?q=RateGain) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
@@ -200,7 +204,3 @@ _last `200` posts_
 | 2022-05-05 | [`mediuscorp`](https://google.com/search?q=mediuscorp) | [mindware](https://ransomwatch.telemetry.ltd/#/profiles?id=mindware) |
 | 2022-05-05 | [`diager`](https://google.com/search?q=diager) | [mindware](https://ransomwatch.telemetry.ltd/#/profiles?id=mindware) |
 | 2022-05-05 | [`callinc`](https://google.com/search?q=callinc) | [mindware](https://ransomwatch.telemetry.ltd/#/profiles?id=mindware) |
-| 2022-05-05 | [`allwell`](https://google.com/search?q=allwell) | [mindware](https://ransomwatch.telemetry.ltd/#/profiles?id=mindware) |
-| 2022-05-05 | [`acorentacar`](https://google.com/search?q=acorentacar) | [mindware](https://ransomwatch.telemetry.ltd/#/profiles?id=mindware) |
-| 2022-05-05 | [`jewelry.`](https://google.com/search?q=jewelry.) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-05-04 | [`ELTA Hellenic Post`](https://google.com/search?q=ELTA+Hellenic+Post) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
