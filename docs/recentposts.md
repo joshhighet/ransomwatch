@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-05-25 | [`Yachiyo Of America`](https://google.com/search?q=Yachiyo+Of+America) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
 | 2022-05-25 | [`AGCO`](https://google.com/search?q=AGCO) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2022-05-25 | [`LCRD`](https://google.com/search?q=LCRD) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-05-25 | [`The Contact Company`](https://google.com/search?q=The+Contact+Company) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-05-05 | [`liceu.barcelon`](https://google.com/search?q=liceu.barcelon) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-05-05 | [`delcourt.fr`](https://google.com/search?q=delcourt.fr) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-05-05 | [`Tosoh Corporation`](https://google.com/search?q=Tosoh+Corporation) | [lorenz](https://ransomwatch.telemetry.ltd/#/profiles?id=lorenz) |
-| 2022-05-05 | [`willsent`](https://google.com/search?q=willsent) | [mindware](https://ransomwatch.telemetry.ltd/#/profiles?id=mindware) |
