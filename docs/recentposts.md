@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-05-25 | [`pointsbet.com`](https://google.com/search?q=pointsbet.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-05-24 | [`TRANSCONTRACT`](https://google.com/search?q=TRANSCONTRACT) | [kelvinsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=kelvinsecurity) |
 | 2022-05-24 | [`Mansfield Energy`](https://google.com/search?q=Mansfield+Energy) | [kelvinsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=kelvinsecurity) |
 | 2022-05-24 | [`Central Restaurant Products`](https://google.com/search?q=Central+Restaurant+Products) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-05-05 | [`welplaat`](https://google.com/search?q=welplaat) | [mindware](https://ransomwatch.telemetry.ltd/#/profiles?id=mindware) |
 | 2022-05-05 | [`toshfarms`](https://google.com/search?q=toshfarms) | [mindware](https://ransomwatch.telemetry.ltd/#/profiles?id=mindware) |
 | 2022-05-05 | [`thebureau`](https://google.com/search?q=thebureau) | [mindware](https://ransomwatch.telemetry.ltd/#/profiles?id=mindware) |
-| 2022-05-05 | [`smd`](https://google.com/search?q=smd) | [mindware](https://ransomwatch.telemetry.ltd/#/profiles?id=mindware) |
