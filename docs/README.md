@@ -1,14 +1,14 @@
 
 ## summary
-_may 24th, 2022_
+_may 25th, 2022_
 
-currently tracking `102` groups across `147` relays & mirrors - _`56` currently online_
+currently tracking `102` groups across `147` relays & mirrors - _`36` currently online_
 
 ⏲ there have been `16` posts within the `last 24 hours`
 
 🦈 there have been `260` posts within the `month of may`
 
-🪐 there have been `1078` posts within the `last 90 days`
+🪐 there have been `1076` posts within the `last 90 days`
 
 🏚 there have been `1589` posts within the `year of 2022`
 
