@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-05-26 | [`ils.theinnovate...`](https://google.com/search?q=ils.theinnovate...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-05-26 | [`Lamborghini, Ferrari, Fiat Group, VAG, Brembo And data from other automobile concerns`](https://google.com/search?q=Lamborghini%2C+Ferrari%2C+Fiat+Group%2C+VAG%2C+Brembo+And+data+from+other+automobile+concerns) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2022-05-26 | [`Mebulbs`](https://google.com/search?q=Mebulbs) | [lorenz](https://ransomwatch.telemetry.ltd/#/profiles?id=lorenz) |
 | 2022-05-26 | [`edm-stone.com`](https://google.com/search?q=edm-stone.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-05-07 | [`AFJCONSULTING.NET FILES PART5 - E\data\documents\Client Folders\ PUBLISHED`](https://google.com/search?q=AFJCONSULTING.NET+FILES+PART5+-+E%5Cdata%5Cdocuments%5CClient+Folders%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-05-07 | [`MCH-GROUP.COM FILES PART31 - 172.16.1.100, 172.16.103.43 PUBLISHED`](https://google.com/search?q=MCH-GROUP.COM+FILES+PART31+-+172.16.1.100%2C+172.16.103.43+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-05-07 | [`BOLTONUSA.COM FILES PART35 - 10.0.0.20\c$\BOD_HQ_CIFS\DB_Dept\DB_DEPT\CLIENT\WV MPOB PUBLI`](https://google.com/search?q=BOLTONUSA.COM+FILES+PART35+-+10.0.0.20%5Cc%24%5CBOD_HQ_CIFS%5CDB_Dept%5CDB_DEPT%5CCLIENT%5CWV+MPOB+PUBLI) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-05-07 | [`realestateconsu...`](https://google.com/search?q=realestateconsu...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
