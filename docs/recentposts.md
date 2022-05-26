@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-05-26 | [`edm-stone.com`](https://google.com/search?q=edm-stone.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-05-26 | [`SOUCY`](https://google.com/search?q=SOUCY) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
 | 2022-05-26 | [`Guardian Fueling Technologies`](https://google.com/search?q=Guardian+Fueling+Technologies) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
 | 2022-05-26 | [`ChemStation International`](https://google.com/search?q=ChemStation+International) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-05-07 | [`realestateconsu...`](https://google.com/search?q=realestateconsu...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-05-06 | [`nipmo.dst.gov.z...`](https://google.com/search?q=nipmo.dst.gov.z...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-05-06 | [`mpusd.`](https://google.com/search?q=mpusd.) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-05-06 | [`fnoutlet.com`](https://google.com/search?q=fnoutlet.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
