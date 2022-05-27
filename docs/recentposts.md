@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-05-27 | [`Horwitz Law, Horwitz & Associates`](https://google.com/search?q=Horwitz+Law%2C+Horwitz+%26+Associates) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-05-27 | [`skinnertran`](https://google.com/search?q=skinnertran) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-05-26 | [`ils.theinnovate...`](https://google.com/search?q=ils.theinnovate...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-05-26 | [`Lamborghini, Ferrari, Fiat Group, VAG, Brembo And data from other automobile concerns`](https://google.com/search?q=Lamborghini%2C+Ferrari%2C+Fiat+Group%2C+VAG%2C+Brembo+And+data+from+other+automobile+concerns) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-05-07 | [`JBINSTANTLAWN.NET FILES PART10 - JB-SERVER\D$\ServerFolders\Company\ PUBLISHED`](https://google.com/search?q=JBINSTANTLAWN.NET+FILES+PART10+-+JB-SERVER%5CD%24%5CServerFolders%5CCompany%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-05-07 | [`ALEXIM.COM FILES PART10 - 192.168.3.5\Mail\csanchez\ PUBLISHED`](https://google.com/search?q=ALEXIM.COM+FILES+PART10+-+192.168.3.5%5CMail%5Ccsanchez%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-05-07 | [`AFJCONSULTING.NET FILES PART5 - E\data\documents\Client Folders\ PUBLISHED`](https://google.com/search?q=AFJCONSULTING.NET+FILES+PART5+-+E%5Cdata%5Cdocuments%5CClient+Folders%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-05-07 | [`MCH-GROUP.COM FILES PART31 - 172.16.1.100, 172.16.103.43 PUBLISHED`](https://google.com/search?q=MCH-GROUP.COM+FILES+PART31+-+172.16.1.100%2C+172.16.103.43+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
