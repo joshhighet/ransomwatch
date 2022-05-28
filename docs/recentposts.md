@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-05-28 | [`Travira Air`](https://google.com/search?q=Travira+Air) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
+| 2022-05-28 | [`XEIAD`](https://google.com/search?q=XEIAD) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
 | 2022-05-28 | [`undefined`](https://google.com/search?q=undefined) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2022-05-27 | [`PRICEDEX.COM FILES PART1 - 10.0.100.22 PUBLISHED`](https://google.com/search?q=PRICEDEX.COM+FILES+PART1+-+10.0.100.22+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-05-27 | [`PERBIT.COM FILES PART3 - 10.182.179.241\C$\sbs_prbt_backup_cifs1_vol1\SQL Backup\ PUBLISHE`](https://google.com/search?q=PERBIT.COM+FILES+PART3+-+10.182.179.241%5CC%24%5Csbs_prbt_backup_cifs1_vol1%5CSQL+Backup%5C+PUBLISHE) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2022-05-11 | [`Salud Total`](https://google.com/search?q=Salud+Total) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2022-05-10 | [`Black Bros. Co.`](https://google.com/search?q=Black+Bros.+Co.) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2022-05-10 | [`topaces.us`](https://google.com/search?q=topaces.us) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-05-10 | [`sportco.com`](https://google.com/search?q=sportco.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-05-10 | [`silverbayseafoo...`](https://google.com/search?q=silverbayseafoo...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
