@@ -684,3 +684,14 @@ def ransomhouse():
         errlog('ransomhouse: ' + 'parsing fail')
     for post in posts:
         appender(post, 'ransomhouse')
+
+def cheers():
+    stdlog('parser: ' + 'cheers')
+    parser = '''
+    cat  source/cheers-*.html | grep '<a href="' | grep -v title | cut -d '>' -f 2 | cut -d '<' -f 1 | sed -e '/Cheers/d' -e '/Home/d' -e 's/^ *//g' -e 's/[[:space:]]*$//'
+    '''
+    posts = runshellcmd(parser)
+    if len(posts) == 1:
+        errlog('cheers: ' + 'parsing fail')
+    for post in posts:
+        appender(post, 'cheers')
