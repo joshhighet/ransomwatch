@@ -115,5 +115,3 @@ iterate files within the `source/` directory and contribute findings to `posts.j
 ---
 
 _ransomwatch is [licensed](https://github.com/joshhighet/ransomwatch/blob/main/LICENSE) under [unlicense.org](https://unlicense.org)_
-
-#### [virustotal/ransomwatch](https://www.virustotal.com/graph/embed/g75a36964bca04a668232875879a6417649d214d3dc7e4ae6a27b7465b1c15872) | [ransomwatch.telemetry.ltd](https://ransomwatch.telemetry.ltd)
