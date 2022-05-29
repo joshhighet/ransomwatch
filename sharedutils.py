@@ -496,7 +496,7 @@ def toteams(post_title, group):
         honk('sharedutils: ' + 'error sending to microsoft teams webhook: ' + str(e))
     if hookpost.status_code == 200:
         return True
-    elif hookpost.status_code == 429:
+    if hookpost.status_code == 429:
         errlog('sharedutils: ' + 'microsoft teams webhook rate limit exceeded')
     else:
         honk('sharedutils: ' + 'recieved microsoft teams webhook error resonse ' + str(hookpost.status_code) + ' with text ' + str(hookpost.text))
