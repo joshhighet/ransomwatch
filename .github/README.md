@@ -52,7 +52,7 @@ looking for historical data? check [ransomwatch-history](https://github.com/josh
 
 ## technicals
 
-[torproxy](https://github.com/joshhighet/gotham) from the [**joshhighet/gotham** registry](https://github.com/joshhighet/joshhighet/pkgs/container/gotham%2Ftorproxy) is introduced into the github actions workflow as a [service container](https://docs.github.com/en/actions/guides/about-service-containers) to allow onion routing within  [ransomwatch.yml](https://github.com/joshhighet/ransomwatch/blob/f939ad5d78491c7f162d8acb7b4217c1e2bd5744/.github/workflows/ransomwatch.yml)
+the [torproxy](https://github.com/joshhighet/gotham) from [**joshhighet/gotham** registry](https://github.com/joshhighet/joshhighet/pkgs/container/gotham%2Ftorproxy) is introduced into the github actions workflow as a [service container](https://docs.github.com/en/actions/guides/about-service-containers) to allow onion routing within  [ransomwatch.yml](https://github.com/joshhighet/ransomwatch/blob/f939ad5d78491c7f162d8acb7b4217c1e2bd5744/.github/workflows/ransomwatch.yml)
 
 where possible [psf/requests](https://github.com/psf/requests) is used to fetch source html. if a javascript engine is required to render the dom [mozilla/geckodriver](https://github.com/mozilla/geckodriver) and [seleniumhq/selenium](https://github.com/SeleniumHQ/selenium) are invoked.
 
@@ -90,30 +90,26 @@ docker run -p9050:9050 ghcr.io/joshhighet/gotham/torproxy:latest
 
 _manage the groups within [groups.json](groups.json)_
 
-#### add new group
+#### add new location (group or additional mirror)
 
 ```shell
-./ransomwhere.py add --name acmecorp --location abcdefg.onion
-```
-
-#### add new mirror for an existing group
-
-```shell
-./ransomwhere.py append --name acmecorp --location abcdefghigklmnop.onion
+./ransomwatch.py add --name acmecorp --location abcdefg.onion
 ```
 
 ## scraping
 
 ```shell
-./ransomwhere.py scrape
+./ransomwatch.py scrape
 ```
 
 ## parsing
 
 iterate files within the `source/` directory and contribute findings to `posts.json`
 
+> for a crude health-check across all parsers, use `assets/parsers.sh`
+
 ```shell
-./ransomwhere.py parse
+./ransomwatch.py parse
 ```
 
 ---
