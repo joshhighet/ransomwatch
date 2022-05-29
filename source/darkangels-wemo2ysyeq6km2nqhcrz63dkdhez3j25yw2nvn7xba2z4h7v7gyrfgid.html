@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Home</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="robots" content="noindex">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    <link rel="stylesheet" href="/style.css">
+
+        <link rel="stylesheet" href="/countdown/jquery.countdown.css">
+</head>
+<body>
+    <div class="page-wrapper">
+                <div class="page">
+            <div class="container py-5">
+                                    <div class="height-100vh d-flex flex-column justify-content-center align-items-center">
+        <div class="homepage-outer-circle d-flex justify-content-center align-items-center rounded-circle">
+            <div class="homepage-inner-circle d-flex justify-content-center align-items-center rounded-circle">
+                <img class="logo px-3" src="/images/logo.png" alt="">
+            </div>
+        </div>
+        <div class="homepage-text d-flex flex-column justify-content-center align-items-center">
+            <p>We're very glad that you came to our website</p>
+        </div>
+    </div>
+            </div>
+        </div>
+
+        <div id="myModal" class="modal-window">
+            <span class="close">&times;</span>
+            <div class="modal-window__content">
+                <div>
+                    <img src="#" alt=""/>
+                </div>
+            </div>
+        </div>
+    </div>
+
+<!-- Optional JavaScript -->
+<!-- jQuery first, then Popper.js, then Bootstrap JS -->
+<script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+<script src="/ckeditor5/ckeditor.js" type="text/javascript"></script>
+    <script>
+        document.querySelectorAll(".ckeditor")
+            .forEach(el => {
+                ClassicEditor
+                    .create(el, {
+                        toolbar: [
+                            'heading',
+                            '|',
+                            'bold',
+                            'italic',
+                            'link',
+                            'bulletedList',
+                            'numberedList',
+                            '|',
+                            'indent',
+                            'outdent',
+                            '|',
+                            'imageUpload',
+                            'blockQuote',
+                            'insertTable',
+                            'mediaEmbed',
+                            'undo',
+                            'redo',
+                            'alignment',
+                            'fontSize',
+                            'fontColor',
+                            'fontBackgroundColor',
+                            'fontFamily',
+                            'highlight',
+                            'horizontalLine',
+                            'removeFormat',
+                            'strikethrough',
+                            'underline'
+                        ],
+                        language: 'en',
+                        image: {
+                            // Configure the available styles.
+                            styles: [
+                                'alignLeft', 'alignCenter', 'alignRight'
+                            ],
+
+                            // Configure the available image resize options.
+                            resizeOptions: [
+                                {
+                                    name: 'imageResize:original',
+                                    label: 'Original',
+                                    value: null
+                                },
+                                {
+                                    name: 'imageResize:50',
+                                    label: '50%',
+                                    value: '50'
+                                },
+                                {
+                                    name: 'imageResize:75',
+                                    label: '75%',
+                                    value: '75'
+                                }
+                            ],
+
+                            // You need to configure the image toolbar, too, so it shows the new style
+                            // buttons as well as the resize buttons.
+                            toolbar: [
+                                'imageStyle:alignLeft', 'imageStyle:alignCenter', 'imageStyle:alignRight',
+                                '|',
+                                'imageResize',
+                                '|',
+                                'imageTextAlternative'
+                            ]
+                        },
+                        table: {
+                            contentToolbar: [
+                                'tableColumn',
+                                'tableRow',
+                                'mergeTableCells'
+                            ]
+                        },
+                    })
+                    .catch( error => {
+                        console.error( error );
+                    } );
+            });
+
+        // MODAL
+        let ckContentBlocks = document.querySelectorAll(".ck-content");
+
+        for (let item of ckContentBlocks) {
+            item.addEventListener('click', function (e) {
+                if(e.target.nodeName === "IMG"){
+                    document.querySelector("#myModal img").src = e.target.src;
+                    document.getElementById("myModal").style.display = "block";
+                }
+            })
+        }
+
+        document.querySelector(".close").addEventListener('click', function () {
+            document.getElementById("myModal").style.display = "none";
+
+        });
+    </script>
+        <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+        <script type="text/javascript" src="/countdown/jquery.countdown.js"></script>
+        <script type="text/javascript" src="/script.js"></script>
+
+
+
+    </body>
+</html>
