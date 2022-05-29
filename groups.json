@@ -1033,6 +1033,15 @@
                 "available": true,
                 "updated": "2022-05-29 00:35:02.339335",
                 "lastscrape": "2022-05-29 00:35:02.339320"
+            },
+            {
+                "fqdn": "darkleakyqmv62eweqwy4dnhaijg4m4dkburo73pzuqfdumcntqdokyd.onion",
+                "title": null,
+                "version": 3,
+                "slug": "http://darkleakyqmv62eweqwy4dnhaijg4m4dkburo73pzuqfdumcntqdokyd.onion",
+                "available": false,
+                "updated": null,
+                "lastscrape": "2021-05-01 00:00:00.000000"
             }
         ],
         "profile": []
@@ -2583,5 +2592,43 @@
         "profile": [
             "https://t.me/ransom_house"
         ]
+    },
+    {
+        "name": "cheers",
+        "captcha": false,
+        "parser": false,
+        "javascript_render": false,
+        "meta": null,
+        "locations": [
+            {
+                "fqdn": "rwiajgajdr4kzlnrj5zwebbukpcbrjhupjmk6gufxv6tg7myx34iocad.onion",
+                "title": null,
+                "version": 3,
+                "slug": "http://rwiajgajdr4kzlnrj5zwebbukpcbrjhupjmk6gufxv6tg7myx34iocad.onion",
+                "available": false,
+                "updated": null,
+                "lastscrape": "2021-05-01 00:00:00.000000"
+            }
+        ],
+        "profile": []
+    },
+    {
+        "name": "darkangels",
+        "captcha": false,
+        "parser": false,
+        "javascript_render": false,
+        "meta": "accessing over HTTP returns open dir 29/5/22",
+        "locations": [
+            {
+                "fqdn": "wemo2ysyeq6km2nqhcrz63dkdhez3j25yw2nvn7xba2z4h7v7gyrfgid.onion",
+                "title": null,
+                "version": 3,
+                "slug": "https://wemo2ysyeq6km2nqhcrz63dkdhez3j25yw2nvn7xba2z4h7v7gyrfgid.onion",
+                "available": false,
+                "updated": null,
+                "lastscrape": "2021-05-01 00:00:00.000000"
+            }
+        ],
+        "profile": []
     }
 ]
