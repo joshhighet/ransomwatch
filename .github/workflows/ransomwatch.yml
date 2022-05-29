@@ -40,8 +40,8 @@ jobs:
         run: |
           python3 ransomwatch.py markdown
       - name: save changes
-        run: |
-          git config --global user.email "joshhighet@users.noreply.github.com"
-          git config --global user.name "josh"
+        # git config --global user.email "joshhighet@users.noreply.github.com"
+        # git config --global user.name "josh"
+        run: |  
           git commit --all --message "𝚌𝚛𝚘𝚗𝚋𝚘𝚝" || echo "no changes to commit"
           git push
