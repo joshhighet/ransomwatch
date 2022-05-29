@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-05-29 | [`BLAIR inc.`](https://google.com/search?q=BLAIR+inc.) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2022-05-29 | [`An Technology Company - Paid`](https://google.com/search?q=An+Technology+Company+-+Paid) | [cheers](https://ransomwatch.telemetry.ltd/#/profiles?id=cheers) |
 | 2022-05-29 | [`An Financial Company - Paid`](https://google.com/search?q=An+Financial+Company+-+Paid) | [cheers](https://ransomwatch.telemetry.ltd/#/profiles?id=cheers) |
 | 2022-05-29 | [`An Belgium Hospital - Unpay`](https://google.com/search?q=An+Belgium+Hospital+-+Unpay) | [cheers](https://ransomwatch.telemetry.ltd/#/profiles?id=cheers) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-05-11 | [`The People's Federal Credit Union - tpfcu.com`](https://google.com/search?q=The+People%27s+Federal+Credit+Union+-+tpfcu.com) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-05-11 | [`saskarc.com`](https://google.com/search?q=saskarc.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-05-11 | [`Simonson-Lumber decided to be Leaked`](https://google.com/search?q=Simonson-Lumber+decided+to+be+Leaked) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
-| 2022-05-11 | [`Trans Technology Pte Ltd.`](https://google.com/search?q=Trans+Technology+Pte+Ltd.) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
