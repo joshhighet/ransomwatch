@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-05-29 | [`foxconnbc.com`](https://google.com/search?q=foxconnbc.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-05-29 | [`koenigstahl.pl`](https://google.com/search?q=koenigstahl.pl) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-05-29 | [`pauly.de`](https://google.com/search?q=pauly.de) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-05-29 | [`hospitalsanjose...`](https://google.com/search?q=hospitalsanjose...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-05-12 | [`xydias.gr`](https://google.com/search?q=xydias.gr) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
 | 2022-05-12 | [`usu.org.au`](https://google.com/search?q=usu.org.au) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
 | 2022-05-12 | [`ats-insubria.it`](https://google.com/search?q=ats-insubria.it) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
-| 2022-05-11 | [`Campbell & Partners Consulting`](https://google.com/search?q=Campbell+%26+Partners+Consulting) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
