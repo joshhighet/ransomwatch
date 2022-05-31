@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-05-31 | [`Cavenders`](https://google.com/search?q=Cavenders) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2022-05-31 | [`Westwood`](https://google.com/search?q=Westwood) | [lorenz](https://ransomwatch.telemetry.ltd/#/profiles?id=lorenz) |
 | 2022-05-31 | [`CMC Electronics`](https://google.com/search?q=CMC+Electronics) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-05-31 | [`GREEN MOUNTAIN ELECTRIC SUPPLY (gmes.com)`](https://google.com/search?q=GREEN+MOUNTAIN+ELECTRIC+SUPPLY+%28gmes.com%29) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-05-13 | [`Channel Navigator business intelligence IT`](https://google.com/search?q=Channel+Navigator+business+intelligence+IT) | [kelvinsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=kelvinsecurity) |
 | 2022-05-13 | [`sgservicesud.it`](https://google.com/search?q=sgservicesud.it) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-05-13 | [`riken-nosan.com`](https://google.com/search?q=riken-nosan.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-05-13 | [`mosaiceins.com`](https://google.com/search?q=mosaiceins.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
