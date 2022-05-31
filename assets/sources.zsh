@@ -100,4 +100,4 @@ do
         echo "${host}"
     fi
 done <<< "${hosts}"
-rm assets/tmp/sources.*
+#rm assets/tmp/sources.*
