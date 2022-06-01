@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-06-01 | [`Groupe J.F. Nadeau Inc`](https://google.com/search?q=Groupe+J.F.+Nadeau+Inc) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2022-06-01 | [`JBS TEXTILE GROUP`](https://google.com/search?q=JBS+TEXTILE+GROUP) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2022-06-01 | [`AMS-Gruppe`](https://google.com/search?q=AMS-Gruppe) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-05-31 | [`Cavenders`](https://google.com/search?q=Cavenders) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2022-05-31 | [`Westwood`](https://google.com/search?q=Westwood) | [lorenz](https://ransomwatch.telemetry.ltd/#/profiles?id=lorenz) |
 | 2022-05-31 | [`CMC Electronics`](https://google.com/search?q=CMC+Electronics) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2022-05-13 | [`ALEXIM.COM FILES PART11 - 192.168.3.5\shares PUBLISHED`](https://google.com/search?q=ALEXIM.COM+FILES+PART11+-+192.168.3.5%5Cshares+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-05-13 | [`AFJCONSULTING.NET FILES PART6 - E\data\documents\Client Folders\ PUBLISHED`](https://google.com/search?q=AFJCONSULTING.NET+FILES+PART6+-+E%5Cdata%5Cdocuments%5CClient+Folders%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-05-13 | [`MCH-GROUP.COM FILES PART32 - D\FTP-Drive\ PUBLISHED`](https://google.com/search?q=MCH-GROUP.COM+FILES+PART32+-+D%5CFTP-Drive%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-05-13 | [`Channel Navigator business intelligence IT`](https://google.com/search?q=Channel+Navigator+business+intelligence+IT) | [kelvinsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=kelvinsecurity) |
-| 2022-05-13 | [`sgservicesud.it`](https://google.com/search?q=sgservicesud.it) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-05-13 | [`riken-nosan.com`](https://google.com/search?q=riken-nosan.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
