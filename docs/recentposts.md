@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-06-02 | [`compagniedep`](https://google.com/search?q=compagniedep) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-06-02 | [`hilltopconstruc`](https://google.com/search?q=hilltopconstruc) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-06-02 | [`cepima`](https://google.com/search?q=cepima) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-06-02 | [`Nelsonslaw LLP`](https://google.com/search?q=Nelsonslaw+LLP) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-05-13 | [`ORBITELECTRIC.COM FILES PART6 - 192.168.10.23\ORBIT_ART\ChristinaW\ PUBLISHED`](https://google.com/search?q=ORBITELECTRIC.COM+FILES+PART6+-+192.168.10.23%5CORBIT_ART%5CChristinaW%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-05-13 | [`OAKDELL.COM FILES PART8 - 192.168.100.253 PUBLISHED`](https://google.com/search?q=OAKDELL.COM+FILES+PART8+-+192.168.100.253+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-05-13 | [`JDAVIDTAXLAW.COM FILES PART8 - E\ PUBLISHED`](https://google.com/search?q=JDAVIDTAXLAW.COM+FILES+PART8+-+E%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-05-13 | [`FAIR-RITE.COM FILES PART8 - 172.16.20.110, 172.16.20.111, 172.16.20.126, 172.16.20.151, 17`](https://google.com/search?q=FAIR-RITE.COM+FILES+PART8+-+172.16.20.110%2C+172.16.20.111%2C+172.16.20.126%2C+172.16.20.151%2C+17) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
