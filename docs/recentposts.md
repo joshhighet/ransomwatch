@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-06-02 | [`cepima`](https://google.com/search?q=cepima) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-06-02 | [`Nelsonslaw LLP`](https://google.com/search?q=Nelsonslaw+LLP) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-06-01 | [`XYTECH - HACKED AND 650 GB DATA LEAKED`](https://google.com/search?q=XYTECH+-+HACKED+AND+650+GB+DATA+LEAKED) | [lv](https://ransomwatch.telemetry.ltd/#/profiles?id=lv) |
 | 2022-06-01 | [`CICIS.COM- HACKED AND INFORMATION MORE THEN 120,000 CUSTOMERS LEAKED`](https://google.com/search?q=CICIS.COM-+HACKED+AND+INFORMATION+MORE+THEN+120%2C000+CUSTOMERS+LEAKED) | [lv](https://ransomwatch.telemetry.ltd/#/profiles?id=lv) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-05-13 | [`JDAVIDTAXLAW.COM FILES PART8 - E\ PUBLISHED`](https://google.com/search?q=JDAVIDTAXLAW.COM+FILES+PART8+-+E%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-05-13 | [`FAIR-RITE.COM FILES PART8 - 172.16.20.110, 172.16.20.111, 172.16.20.126, 172.16.20.151, 17`](https://google.com/search?q=FAIR-RITE.COM+FILES+PART8+-+172.16.20.110%2C+172.16.20.111%2C+172.16.20.126%2C+172.16.20.151%2C+17) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-05-13 | [`DRIVEANDSHINE.COM FILES PART8 - 192.168.200.73\C$ PUBLISHED`](https://google.com/search?q=DRIVEANDSHINE.COM+FILES+PART8+-+192.168.200.73%5CC%24+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-05-13 | [`DRC-LAW.COM FILES PART8 - 10.10.1.2\C$\Shares\Data\Documents\Clients\Q-Z\ PUBLISHED`](https://google.com/search?q=DRC-LAW.COM+FILES+PART8+-+10.10.1.2%5CC%24%5CShares%5CData%5CDocuments%5CClients%5CQ-Z%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
