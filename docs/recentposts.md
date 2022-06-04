@@ -4,6 +4,10 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-06-04 | [`wik-group.com`](https://google.com/search?q=wik-group.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
+| 2022-06-04 | [`specpharm.co.za`](https://google.com/search?q=specpharm.co.za) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
+| 2022-06-04 | [`ora.com`](https://google.com/search?q=ora.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
+| 2022-06-04 | [`colonail.com`](https://google.com/search?q=colonail.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-06-04 | [`familyclinicbri...`](https://google.com/search?q=familyclinicbri...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-06-04 | [`Northeastern Technical College`](https://google.com/search?q=Northeastern+Technical+College) | [suncrypt](https://ransomwatch.telemetry.ltd/#/profiles?id=suncrypt) |
 | 2022-06-04 | [`Sierra Packaging Leaked`](https://google.com/search?q=Sierra+Packaging+Leaked) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
@@ -200,7 +204,3 @@ _last `200` posts_
 | 2022-05-16 | [`hinakaorg.com`](https://google.com/search?q=hinakaorg.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-05-16 | [`arcelormittal.h...`](https://google.com/search?q=arcelormittal.h...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-05-15 | [`mercyhurst.edu`](https://google.com/search?q=mercyhurst.edu) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-05-15 | [`boltburdon.co.u...`](https://google.com/search?q=boltburdon.co.u...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-05-14 | [`redgwick.`](https://google.com/search?q=redgwick.) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-05-14 | [`hoffsu`](https://google.com/search?q=hoffsu) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-05-14 | [`optoma.com`](https://google.com/search?q=optoma.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
