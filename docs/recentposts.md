@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-06-04 | [`Sierra Packaging Leaked`](https://google.com/search?q=Sierra+Packaging+Leaked) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
 | 2022-06-03 | [`sport`](https://google.com/search?q=sport) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-06-02 | [`St Paul`](https://google.com/search?q=St+Paul) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2022-06-02 | [`Acorn Recruitment`](https://google.com/search?q=Acorn+Recruitment) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-05-14 | [`optoma.com`](https://google.com/search?q=optoma.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-05-14 | [`For Costa Rica and US terrorists (Biden and his administration)`](https://google.com/search?q=For+Costa+Rica+and+US+terrorists+%28Biden+and+his+administration%29) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-05-13 | [`boltburdonkemp....`](https://google.com/search?q=boltburdonkemp....) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-05-13 | [`www.optoma.com`](https://google.com/search?q=www.optoma.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
