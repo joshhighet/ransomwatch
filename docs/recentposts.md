@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-06-04 | [`SilTerra - HACKED AND 1 TB DATA LEAKED WITH SOURCES AND NDA`](https://google.com/search?q=SilTerra+-+HACKED+AND+1+TB+DATA+LEAKED+WITH+SOURCES+AND+NDA) | [lv](https://ransomwatch.telemetry.ltd/#/profiles?id=lv) |
 | 2022-06-04 | [`wik-group.com`](https://google.com/search?q=wik-group.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-06-04 | [`specpharm.co.za`](https://google.com/search?q=specpharm.co.za) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-06-04 | [`ora.com`](https://google.com/search?q=ora.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-05-16 | [`STU`](https://google.com/search?q=STU) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-05-16 | [`hinakaorg.com`](https://google.com/search?q=hinakaorg.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-05-16 | [`arcelormittal.h...`](https://google.com/search?q=arcelormittal.h...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-05-15 | [`mercyhurst.edu`](https://google.com/search?q=mercyhurst.edu) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
