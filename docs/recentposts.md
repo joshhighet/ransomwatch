@@ -4,6 +4,11 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-06-06 | [`sesver.gob.mx`](https://google.com/search?q=sesver.gob.mx) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
+| 2022-06-06 | [`patralogistik.c...`](https://google.com/search?q=patralogistik.c...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
+| 2022-06-06 | [`linmark.com`](https://google.com/search?q=linmark.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
+| 2022-06-06 | [`hyatts.com`](https://google.com/search?q=hyatts.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
+| 2022-06-06 | [`IBRCN.COM`](https://google.com/search?q=IBRCN.COM) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-06-05 | [`kansashighwaypa...`](https://google.com/search?q=kansashighwaypa...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-06-05 | [`bestattung-walz...`](https://google.com/search?q=bestattung-walz...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-06-04 | [`vainieritraspor...`](https://google.com/search?q=vainieritraspor...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -199,8 +204,3 @@ _last `200` posts_
 | 2022-05-18 | [`Tecnopack`](https://google.com/search?q=Tecnopack) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-05-17 | [`suntecktts.com`](https://google.com/search?q=suntecktts.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-05-17 | [`modetransportat...`](https://google.com/search?q=modetransportat...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-05-17 | [`Tex-Isle Supply`](https://google.com/search?q=Tex-Isle+Supply) | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
-| 2022-05-17 | [`vivalia.be`](https://google.com/search?q=vivalia.be) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-05-17 | [`FOR BlackCat and LockBit advert`](https://google.com/search?q=FOR+BlackCat+and+LockBit+advert) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
-| 2022-05-17 | [`2easy.com.br`](https://google.com/search?q=2easy.com.br) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-05-17 | [`khs-wp.de`](https://google.com/search?q=khs-wp.de) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
