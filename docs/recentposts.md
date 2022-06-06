@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-06-06 | [`VTVCAB`](https://google.com/search?q=VTVCAB) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2022-06-06 | [`mandiant.com`](https://google.com/search?q=mandiant.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-06-06 | [`kan`](https://google.com/search?q=kan) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-06-06 | [`sesver.gob.mx`](https://google.com/search?q=sesver.gob.mx) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-05-18 | [`Mercyhurst.edu`](https://google.com/search?q=Mercyhurst.edu) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-05-18 | [`https://clublin...`](https://google.com/search?q=https%3A%2F%2Fclublin...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-05-18 | [`Xplay Data Leak`](https://google.com/search?q=Xplay+Data+Leak) | [darkleakmarket](https://ransomwatch.telemetry.ltd/#/profiles?id=darkleakmarket) |
-| 2022-05-18 | [`Tecnopack`](https://google.com/search?q=Tecnopack) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
