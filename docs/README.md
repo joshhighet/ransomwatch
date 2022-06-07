@@ -2,17 +2,17 @@
 ## summary
 _june 7th, 2022_
 
-currently tracking `104` groups across `150` relays & mirrors - _`51` currently online_
+currently tracking `104` groups across `150` relays & mirrors - _`54` currently online_
 
-⏲ there have been `4` posts within the `last 24 hours`
+⏲ there have been `5` posts within the `last 24 hours`
 
-🦈 there have been `78` posts within the `month of june`
+🦈 there have been `79` posts within the `month of june`
 
 🪐 there have been `1061` posts within the `last 90 days`
 
-🏚 there have been `1711` posts within the `year of 2022`
+🏚 there have been `1712` posts within the `year of 2022`
 
-🦕 there have been `3997` posts `since the dawn of ransomwatch`
+🦕 there have been `3998` posts `since the dawn of ransomwatch`
 
 there are `50` custom parsers indexing posts
 
