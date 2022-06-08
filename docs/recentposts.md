@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-06-08 | [`English Construction Company`](https://google.com/search?q=English+Construction+Company) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2022-06-07 | [`Losberger De Boer`](https://google.com/search?q=Losberger+De+Boer) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2022-06-07 | [`Alliance Steel`](https://google.com/search?q=Alliance+Steel) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-06-07 | [`equis.com`](https://google.com/search?q=equis.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-05-19 | [`http://wsretail...`](https://google.com/search?q=http%3A%2F%2Fwsretail...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-05-19 | [`Atlanta Perinatal Associates`](https://google.com/search?q=Atlanta+Perinatal+Associates) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2022-05-19 | [`Carmel College`](https://google.com/search?q=Carmel+College) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
-| 2022-05-19 | [`Higher School of the Public`](https://google.com/search?q=Higher+School+of+the+Public) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
