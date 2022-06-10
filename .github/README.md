@@ -44,12 +44,6 @@ looking for historical data? check [ransomwatch-history](https://github.com/josh
 
 ---
 
-## contributions 
-
-- [ransomwatch/network/members](https://github.com/joshhighet/ransomwatch/network/members)
-- [JDL-84/RansomWatchViewer](https://github.com/JDL-84/RansomWatchViewer)
-- [github.com/search?q=ransomwatch](https://github.com/search?o=desc&q=ransomwatch&s=updated&type=Repositories)
-
 ## technicals
 
 the [torproxy](https://github.com/joshhighet/gotham) from [**joshhighet/gotham** registry](https://github.com/joshhighet/joshhighet/pkgs/container/gotham%2Ftorproxy) is introduced into the github actions workflow as a [service container](https://docs.github.com/en/actions/guides/about-service-containers) to allow onion routing within  [ransomwatch.yml](https://github.com/joshhighet/ransomwatch/blob/f939ad5d78491c7f162d8acb7b4217c1e2bd5744/.github/workflows/ransomwatch.yml)
