@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-06-11 | [`The University of Pisa`](https://google.com/search?q=The+University+of+Pisa) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-06-11 | [`ses`](https://google.com/search?q=ses) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-06-11 | [`Metek Plc`](https://google.com/search?q=Metek+Plc) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2022-06-10 | [`eivp-paris.fr`](https://google.com/search?q=eivp-paris.fr) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-05-20 | [`morrisonexpress...`](https://google.com/search?q=morrisonexpress...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-05-20 | [`bata`](https://google.com/search?q=bata) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-05-19 | [`EIITNET`](https://google.com/search?q=EIITNET) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
-| 2022-05-19 | [`CARTEGRAPH`](https://google.com/search?q=CARTEGRAPH) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
