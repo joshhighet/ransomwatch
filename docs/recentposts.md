@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-06-11 | [`Metek Plc`](https://google.com/search?q=Metek+Plc) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2022-06-10 | [`eivp-paris.fr`](https://google.com/search?q=eivp-paris.fr) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-06-10 | [`Tiroler Rohre GmbH`](https://google.com/search?q=Tiroler+Rohre+GmbH) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2022-06-10 | [`Worldwide Flight Services`](https://google.com/search?q=Worldwide+Flight+Services) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-05-19 | [`EIITNET`](https://google.com/search?q=EIITNET) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
 | 2022-05-19 | [`CARTEGRAPH`](https://google.com/search?q=CARTEGRAPH) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
 | 2022-05-19 | [`skinnertrans.ne...`](https://google.com/search?q=skinnertrans.ne...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-05-19 | [`gymund.dk`](https://google.com/search?q=gymund.dk) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
