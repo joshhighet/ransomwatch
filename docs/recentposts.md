@@ -4,6 +4,21 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-06-12 | [`SDZ Druck und Medien`](https://google.com/search?q=SDZ+Druck+und+Medien) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2022-06-12 | [`PRICEDEX.COM FILES PART3 - 10.0.100.48, 10.0.100.10, 10.0.10.19 PUBLISHED`](https://google.com/search?q=PRICEDEX.COM+FILES+PART3+-+10.0.100.48%2C+10.0.100.10%2C+10.0.10.19+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2022-06-12 | [`PERBIT.COM FILES PART5 - 10.182.179.241\C$\sbs_prbt_backup_cifs1_vol1\SQL Backup\ PUBLISHE`](https://google.com/search?q=PERBIT.COM+FILES+PART5+-+10.182.179.241%5CC%24%5Csbs_prbt_backup_cifs1_vol1%5CSQL+Backup%5C+PUBLISHE) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2022-06-12 | [`NEWCOURSECC.COM FILES PART4 - 10.168.0.7\G$\Shared\ PUBLISHED`](https://google.com/search?q=NEWCOURSECC.COM+FILES+PART4+-+10.168.0.7%5CG%24%5CShared%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2022-06-12 | [`888VOIP.COM FILES PART3 - 192.168.40.226 PUBLISHED`](https://google.com/search?q=888VOIP.COM+FILES+PART3+-+192.168.40.226+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2022-06-12 | [`KSSENTERPRISES.COM FILES PART8 - 10.250.1.6\ PUBLISHED`](https://google.com/search?q=KSSENTERPRISES.COM+FILES+PART8+-+10.250.1.6%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2022-06-12 | [`ATAPCOPROPERTIES.COM FILES PART3 - 192.168.0.21\ PUBLISHED`](https://google.com/search?q=ATAPCOPROPERTIES.COM+FILES+PART3+-+192.168.0.21%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2022-06-12 | [`ORBITELECTRIC.COM FILES PART10 - 192.168.10.23\ORBIT_ART\ChristinaW\catalog&amp;pamphlet P`](https://google.com/search?q=ORBITELECTRIC.COM+FILES+PART10+-+192.168.10.23%5CORBIT_ART%5CChristinaW%5Ccatalog%26amp%3Bpamphlet+P) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2022-06-12 | [`FERRAN-SERVICES.COM FILES PART3 - ferran.czellner\C\Users\czellner\ PUBLISHED`](https://google.com/search?q=FERRAN-SERVICES.COM+FILES+PART3+-+ferran.czellner%5CC%5CUsers%5Cczellner%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2022-06-12 | [`ENSSECURITY.COM FILES PART3 - D\FTP\ENS\ PUBLISHED`](https://google.com/search?q=ENSSECURITY.COM+FILES+PART3+-+D%5CFTP%5CENS%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2022-06-12 | [`ALTERNATIVETECHS.COM FILES PART12 - C\Shares\Alternative\TELECOM\ PUBLISHED`](https://google.com/search?q=ALTERNATIVETECHS.COM+FILES+PART12+-+C%5CShares%5CAlternative%5CTELECOM%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2022-06-12 | [`LATOURNERIE-WOLFROM.COM FILES PART3 - 10.100.57.141, 10.100.57.158, 10.100.57.160, 10.100.`](https://google.com/search?q=LATOURNERIE-WOLFROM.COM+FILES+PART3+-+10.100.57.141%2C+10.100.57.158%2C+10.100.57.160%2C+10.100.) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2022-06-12 | [`FTSUMNERK12.COM FILES PART3 - 192.168.0.244\Staff\ PUBLISHED`](https://google.com/search?q=FTSUMNERK12.COM+FILES+PART3+-+192.168.0.244%5CStaff%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2022-06-12 | [`AFJCONSULTING.NET FILES PART10 - E\data\documents\QuickBooks\Company Files\ PUBLISHED`](https://google.com/search?q=AFJCONSULTING.NET+FILES+PART10+-+E%5Cdata%5Cdocuments%5CQuickBooks%5CCompany+Files%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2022-06-12 | [`slgienergy.com`](https://google.com/search?q=slgienergy.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-06-12 | [`sanvitale.r`](https://google.com/search?q=sanvitale.r) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-06-11 | [`The University of Pisa`](https://google.com/search?q=The+University+of+Pisa) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-06-11 | [`ses`](https://google.com/search?q=ses) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -189,18 +204,3 @@ _last `200` posts_
 | 2022-05-20 | [`ZISSERFAMILYLAW.COM FILES PART9 - D\Shares\ PUBLISHED`](https://google.com/search?q=ZISSERFAMILYLAW.COM+FILES+PART9+-+D%5CShares%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-05-20 | [`SA1SOLUTIONS.COM  FILES PART9 - 192.168.10.238\D$\Storage - Picseli\PICSELI 2014 ONWARDS\C`](https://google.com/search?q=SA1SOLUTIONS.COM++FILES+PART9+-+192.168.10.238%5CD%24%5CStorage+-+Picseli%5CPICSELI+2014+ONWARDS%5CC) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-05-20 | [`ORBITELECTRIC.COM FILES PART7 - 192.168.10.23\ORBIT_ART\ChristinaW\ PUBLISHED`](https://google.com/search?q=ORBITELECTRIC.COM+FILES+PART7+-+192.168.10.23%5CORBIT_ART%5CChristinaW%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-05-20 | [`OAKDELL.COM FILES PART9 - D\Server\ PUBLISHED`](https://google.com/search?q=OAKDELL.COM+FILES+PART9+-+D%5CServer%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-05-20 | [`FAIR-RITE.COM FILES PART9 - \C PUBLISHED`](https://google.com/search?q=FAIR-RITE.COM+FILES+PART9+-+%5CC+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-05-20 | [`DRIVEANDSHINE.COM FILES PART9 - D\UserFolders\ PUBLISHED`](https://google.com/search?q=DRIVEANDSHINE.COM+FILES+PART9+-+D%5CUserFolders%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-05-20 | [`DRC-LAW.COM FILES PART9 - 10.10.1.2\C$\Shares\Users PUBLISHED`](https://google.com/search?q=DRC-LAW.COM+FILES+PART9+-+10.10.1.2%5CC%24%5CShares%5CUsers+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-05-20 | [`ALTERNATIVETECHS.COM FILES PART9 - C\Shares\Alternative\ PUBLISHED`](https://google.com/search?q=ALTERNATIVETECHS.COM+FILES+PART9+-+C%5CShares%5CAlternative%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-05-20 | [`JBINSTANTLAWN.NET FILES PART12 - JB-SERVER\Users\ PUBLISHED`](https://google.com/search?q=JBINSTANTLAWN.NET+FILES+PART12+-+JB-SERVER%5CUsers%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-05-20 | [`ALEXIM.COM FILES PART12 - 192.168.3.189\C$\Users\ebustamantejr\ PUBLISHED`](https://google.com/search?q=ALEXIM.COM+FILES+PART12+-+192.168.3.189%5CC%24%5CUsers%5Cebustamantejr%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-05-20 | [`AFJCONSULTING.NET FILES PART7 - E\data\documents\Client Folders\ PUBLISHED`](https://google.com/search?q=AFJCONSULTING.NET+FILES+PART7+-+E%5Cdata%5Cdocuments%5CClient+Folders%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-05-20 | [`MCH-GROUP.COM FILES PART33 - D\FTP-Drive\ PUBLISHED`](https://google.com/search?q=MCH-GROUP.COM+FILES+PART33+-+D%5CFTP-Drive%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-05-20 | [`de`](https://google.com/search?q=de) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-05-20 | [`SPORTPLAZA`](https://google.com/search?q=SPORTPLAZA) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
-| 2022-05-20 | [`firbarcarolo.it`](https://google.com/search?q=firbarcarolo.it) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-05-20 | [`The Catholic Foundation`](https://google.com/search?q=The+Catholic+Foundation) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
-| 2022-05-20 | [`morrisonexpress...`](https://google.com/search?q=morrisonexpress...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-05-20 | [`bata`](https://google.com/search?q=bata) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
