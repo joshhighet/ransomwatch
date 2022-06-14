@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-06-14 | [`Shred Station`](https://google.com/search?q=Shred+Station) | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
+| 2022-06-14 | [`YMCA`](https://google.com/search?q=YMCA) | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
 | 2022-06-14 | [`Purvis Industries`](https://google.com/search?q=Purvis+Industries) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-06-14 | [`M. Green and Company LLP`](https://google.com/search?q=M.+Green+and+Company+LLP) | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
 | 2022-06-14 | [`Medlab Pathology`](https://google.com/search?q=Medlab+Pathology) | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2022-05-23 | [`Pianca`](https://google.com/search?q=Pianca) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-05-23 | [`Allcat Claims Service`](https://google.com/search?q=Allcat+Claims+Service) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-05-23 | [`berschneider.de`](https://google.com/search?q=berschneider.de) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-05-23 | [`etrp`](https://google.com/search?q=etrp) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-05-22 | [`SYSOL`](https://google.com/search?q=SYSOL) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
