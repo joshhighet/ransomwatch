@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-06-14 | [`medcoenergi.com`](https://google.com/search?q=medcoenergi.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
+| 2022-06-14 | [`genusplc.com`](https://google.com/search?q=genusplc.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
+| 2022-06-14 | [`enclosuresoluti`](https://google.com/search?q=enclosuresoluti) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-06-14 | [`https://www.dgi...`](https://google.com/search?q=https%3A%2F%2Fwww.dgi...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-06-14 | [`gruppowasteital...`](https://google.com/search?q=gruppowasteital...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-06-14 | [`Shred Station`](https://google.com/search?q=Shred+Station) | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2022-05-23 | [`Eurofred`](https://google.com/search?q=Eurofred) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-05-23 | [`Agile Sourcing Partners`](https://google.com/search?q=Agile+Sourcing+Partners) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-05-23 | [`Alimentos y Frutos S.A.`](https://google.com/search?q=Alimentos+y+Frutos+S.A.) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
-| 2022-05-23 | [`Worksoft`](https://google.com/search?q=Worksoft) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
-| 2022-05-23 | [`Omicron Consulting S.r.L`](https://google.com/search?q=Omicron+Consulting+S.r.L) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
-| 2022-05-23 | [`Pianca`](https://google.com/search?q=Pianca) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
