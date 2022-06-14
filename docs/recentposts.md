@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-06-14 | [`Metek PLC Files Leak`](https://google.com/search?q=Metek+PLC+Files+Leak) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2022-06-14 | [`Plainedge Public Schools`](https://google.com/search?q=Plainedge+Public+Schools) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-06-14 | [`SCHIFFMANS - HACKED AND DATA LEAKED`](https://google.com/search?q=SCHIFFMANS+-+HACKED+AND+DATA+LEAKED) | [lv](https://ransomwatch.telemetry.ltd/#/profiles?id=lv) |
 | 2022-06-14 | [`MOTOLUCLE.COM - HACKED AND DATA LEAKED`](https://google.com/search?q=MOTOLUCLE.COM+-+HACKED+AND+DATA+LEAKED) | [lv](https://ransomwatch.telemetry.ltd/#/profiles?id=lv) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-05-22 | [`HEMERIA`](https://google.com/search?q=HEMERIA) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
 | 2022-05-22 | [`Elkuch Group`](https://google.com/search?q=Elkuch+Group) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2022-05-22 | [`seatarrabida.pt`](https://google.com/search?q=seatarrabida.pt) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-05-21 | [`focusadventure..`](https://google.com/search?q=focusadventure..) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
