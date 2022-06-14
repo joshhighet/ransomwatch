@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-06-14 | [`theallison.com`](https://google.com/search?q=theallison.com) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-06-14 | [`Bernd Hösele Group`](https://google.com/search?q=Bernd+H%C3%B6sele+Group) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2022-06-13 | [`Grand Valley State University`](https://google.com/search?q=Grand+Valley+State+University) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2022-06-13 | [`etron`](https://google.com/search?q=etron) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-05-21 | [`Grupo Pavisa`](https://google.com/search?q=Grupo+Pavisa) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
 | 2022-05-21 | [`Contraloría General de la República`](https://google.com/search?q=Contralor%C3%ADa+General+de+la+Rep%C3%BAblica) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
 | 2022-05-20 | [`bsm.upf.ed`](https://google.com/search?q=bsm.upf.ed) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-05-20 | [`salumificiovene...`](https://google.com/search?q=salumificiovene...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
