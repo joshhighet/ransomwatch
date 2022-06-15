@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-06-15 | [`dgi.gouv.ml`](https://google.com/search?q=dgi.gouv.ml) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-06-15 | [`RadiciGroup`](https://google.com/search?q=RadiciGroup) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2022-06-15 | [`Magnum`](https://google.com/search?q=Magnum) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2022-06-14 | [`medcoenergi.com`](https://google.com/search?q=medcoenergi.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-05-23 | [`Eurocept`](https://google.com/search?q=Eurocept) | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
 | 2022-05-23 | [`Imenco AS`](https://google.com/search?q=Imenco+AS) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-05-23 | [`Concepts in Millwork`](https://google.com/search?q=Concepts+in+Millwork) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
-| 2022-05-23 | [`Eurofred`](https://google.com/search?q=Eurofred) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
