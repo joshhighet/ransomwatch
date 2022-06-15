@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-06-15 | [`Novelty Group`](https://google.com/search?q=Novelty+Group) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2022-06-15 | [`MOLTOLUCE - HACKED AND DATA LEAKED`](https://google.com/search?q=MOLTOLUCE+-+HACKED+AND+DATA+LEAKED) | [lv](https://ransomwatch.telemetry.ltd/#/profiles?id=lv) |
 | 2022-06-15 | [`vanderpol's`](https://google.com/search?q=vanderpol%27s) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-06-15 | [`dgi.gouv.ml`](https://google.com/search?q=dgi.gouv.ml) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-05-23 | [`Germany Corporation "VMT-GmbH" Leaked`](https://google.com/search?q=Germany+Corporation+%22VMT-GmbH%22+Leaked) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
 | 2022-05-23 | [`Active Communications International`](https://google.com/search?q=Active+Communications+International) | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
 | 2022-05-23 | [`Transsion Holdings`](https://google.com/search?q=Transsion+Holdings) | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
-| 2022-05-23 | [`Eurocept`](https://google.com/search?q=Eurocept) | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
