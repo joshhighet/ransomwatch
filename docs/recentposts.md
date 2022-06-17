@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-06-17 | [`https://www.tb-...`](https://google.com/search?q=https%3A%2F%2Fwww.tb-...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
+| 2022-06-17 | [`http://www.lund...`](https://google.com/search?q=http%3A%2F%2Fwww.lund...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-06-17 | [`bestatt`](https://google.com/search?q=bestatt) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-06-16 | [`RG Alliance Group`](https://google.com/search?q=RG+Alliance+Group) | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
 | 2022-06-16 | [`bestattung-`](https://google.com/search?q=bestattung-) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2022-05-24 | [`RateGain`](https://google.com/search?q=RateGain) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
 | 2022-05-24 | [`RateGain`](https://google.com/search?q=RateGain) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-05-24 | [`www.intertabak....`](https://google.com/search?q=www.intertabak....) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-05-24 | [`virtus-advocate...`](https://google.com/search?q=virtus-advocate...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-05-24 | [`Imagen Television`](https://google.com/search?q=Imagen+Television) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
