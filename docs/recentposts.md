@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-06-18 | [`SOCOTEC`](https://google.com/search?q=SOCOTEC) | [suncrypt](https://ransomwatch.telemetry.ltd/#/profiles?id=suncrypt) |
 | 2022-06-17 | [`keisei-`](https://google.com/search?q=keisei-) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-06-17 | [`https://www.tb-...`](https://google.com/search?q=https%3A%2F%2Fwww.tb-...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-06-17 | [`http://www.lund...`](https://google.com/search?q=http%3A%2F%2Fwww.lund...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-05-24 | [`architectenbure...`](https://google.com/search?q=architectenbure...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-05-24 | [`Allports Group`](https://google.com/search?q=Allports+Group) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2022-05-24 | [`RateGain`](https://google.com/search?q=RateGain) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
-| 2022-05-24 | [`RateGain`](https://google.com/search?q=RateGain) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
