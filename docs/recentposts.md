@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-06-19 | [`optoma`](https://google.com/search?q=optoma) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-06-18 | [`PRICEDEX.COM FILES PART4 - 10.0.10.1\E$\Admin\Restored Files\From MGT03\ PUBLISHED`](https://google.com/search?q=PRICEDEX.COM+FILES+PART4+-+10.0.10.1%5CE%24%5CAdmin%5CRestored+Files%5CFrom+MGT03%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-06-18 | [`PERBIT.COM FILES PART6 - 10.182.179.241\C$\sbs_prbt_backup_cifs1_vol1\SQL Backup\WGV\pbiDB`](https://google.com/search?q=PERBIT.COM+FILES+PART6+-+10.182.179.241%5CC%24%5Csbs_prbt_backup_cifs1_vol1%5CSQL+Backup%5CWGV%5CpbiDB) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-06-18 | [`NEWCOURSECC.COM FILES PART5 - 10.168.0.7\G$\Shared\ PUBLISHED`](https://google.com/search?q=NEWCOURSECC.COM+FILES+PART5+-+10.168.0.7%5CG%24%5CShared%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-05-25 | [`Huge iCloud Nudes Leak`](https://google.com/search?q=Huge+iCloud+Nudes+Leak) | [darkleakmarket](https://ransomwatch.telemetry.ltd/#/profiles?id=darkleakmarket) |
 | 2022-05-25 | [`Yachiyo Of America`](https://google.com/search?q=Yachiyo+Of+America) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
 | 2022-05-25 | [`AGCO`](https://google.com/search?q=AGCO) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2022-05-25 | [`LCRD`](https://google.com/search?q=LCRD) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
