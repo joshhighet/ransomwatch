@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-06-20 | [`business.gov.om`](https://google.com/search?q=business.gov.om) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
+| 2022-06-20 | [`builditinc.com`](https://google.com/search?q=builditinc.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-06-20 | [`rhenus.group`](https://google.com/search?q=rhenus.group) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-06-20 | [`kuwaitairways.c...`](https://google.com/search?q=kuwaitairways.c...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-06-20 | [`plagepalace.com`](https://google.com/search?q=plagepalace.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2022-05-26 | [`edm-stone.com`](https://google.com/search?q=edm-stone.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-05-26 | [`SOUCY`](https://google.com/search?q=SOUCY) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
 | 2022-05-26 | [`Guardian Fueling Technologies`](https://google.com/search?q=Guardian+Fueling+Technologies) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
-| 2022-05-26 | [`ChemStation International`](https://google.com/search?q=ChemStation+International) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
-| 2022-05-25 | [`GUARDFUEL`](https://google.com/search?q=GUARDFUEL) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
