@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-06-21 | [`ecos-office.com`](https://google.com/search?q=ecos-office.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
+| 2022-06-21 | [`coteg-azam.fr`](https://google.com/search?q=coteg-azam.fr) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-06-21 | [`Ospedale Macedonio Melloni`](https://google.com/search?q=Ospedale+Macedonio+Melloni) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2022-06-21 | [`sigma-alimentos...`](https://google.com/search?q=sigma-alimentos...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-06-21 | [`farmaciacirici....`](https://google.com/search?q=farmaciacirici....) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2022-05-27 | [`kerrylog`](https://google.com/search?q=kerrylog) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-05-27 | [`Horwitz Law, Horwitz & Associates`](https://google.com/search?q=Horwitz+Law%2C+Horwitz+%26+Associates) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-05-27 | [`skinnertran`](https://google.com/search?q=skinnertran) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-05-26 | [`ils.theinnovate...`](https://google.com/search?q=ils.theinnovate...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-05-26 | [`Lamborghini, Ferrari, Fiat Group, VAG, Brembo And data from other automobile concerns`](https://google.com/search?q=Lamborghini%2C+Ferrari%2C+Fiat+Group%2C+VAG%2C+Brembo+And+data+from+other+automobile+concerns) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
