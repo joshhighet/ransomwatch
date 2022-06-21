@@ -4,6 +4,11 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-06-21 | [`Canaropa`](https://google.com/search?q=Canaropa) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2022-06-21 | [`Mechanical Systems Company`](https://google.com/search?q=Mechanical+Systems+Company) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2022-06-21 | [`Crane Carrier Company`](https://google.com/search?q=Crane+Carrier+Company) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2022-06-21 | [`PARADOX`](https://google.com/search?q=PARADOX) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2022-06-21 | [`GRUPO mh`](https://google.com/search?q=GRUPO+mh) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2022-06-21 | [`ecos-office.com`](https://google.com/search?q=ecos-office.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-06-21 | [`coteg-azam.fr`](https://google.com/search?q=coteg-azam.fr) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-06-21 | [`Ospedale Macedonio Melloni`](https://google.com/search?q=Ospedale+Macedonio+Melloni) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
@@ -199,8 +204,3 @@ _last `200` posts_
 | 2022-05-27 | [`FTSUMNERK12.COM FILES PART1 - 192.168.0.244\ PUBLISHED`](https://google.com/search?q=FTSUMNERK12.COM+FILES+PART1+-+192.168.0.244%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-05-27 | [`ALEXIM.COM FILES PART13 - 192.168.3.189\C$\Users\ebustamantejr\ PUBLISHED`](https://google.com/search?q=ALEXIM.COM+FILES+PART13+-+192.168.3.189%5CC%24%5CUsers%5Cebustamantejr%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-05-27 | [`AFJCONSULTING.NET FILES PART8 - E\data\documents\Client Folders\ PUBLISHED`](https://google.com/search?q=AFJCONSULTING.NET+FILES+PART8+-+E%5Cdata%5Cdocuments%5CClient+Folders%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-05-27 | [`MCH-GROUP.COM FILES PART34 - D\ PUBLISHED`](https://google.com/search?q=MCH-GROUP.COM+FILES+PART34+-+D%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-05-27 | [`Florida Department of Veterans&#39; Affairs`](https://google.com/search?q=Florida+Department+of+Veterans%26%2339%3B+Affairs) | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
-| 2022-05-27 | [`kerrylog`](https://google.com/search?q=kerrylog) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-05-27 | [`Horwitz Law, Horwitz & Associates`](https://google.com/search?q=Horwitz+Law%2C+Horwitz+%26+Associates) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2022-05-27 | [`skinnertran`](https://google.com/search?q=skinnertran) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
