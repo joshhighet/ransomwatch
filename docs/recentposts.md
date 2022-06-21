@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-06-21 | [`Ospedale Macedonio Melloni`](https://google.com/search?q=Ospedale+Macedonio+Melloni) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2022-06-21 | [`sigma-alimentos...`](https://google.com/search?q=sigma-alimentos...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-06-21 | [`farmaciacirici....`](https://google.com/search?q=farmaciacirici....) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-06-21 | [`agricolaandrea....`](https://google.com/search?q=agricolaandrea....) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-05-27 | [`skinnertran`](https://google.com/search?q=skinnertran) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-05-26 | [`ils.theinnovate...`](https://google.com/search?q=ils.theinnovate...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-05-26 | [`Lamborghini, Ferrari, Fiat Group, VAG, Brembo And data from other automobile concerns`](https://google.com/search?q=Lamborghini%2C+Ferrari%2C+Fiat+Group%2C+VAG%2C+Brembo+And+data+from+other+automobile+concerns) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
-| 2022-05-26 | [`Mebulbs`](https://google.com/search?q=Mebulbs) | [lorenz](https://ransomwatch.telemetry.ltd/#/profiles?id=lorenz) |
