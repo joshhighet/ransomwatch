@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-06-22 | [`Matco Electric`](https://google.com/search?q=Matco+Electric) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-06-22 | [`PT Astra Honda Motor`](https://google.com/search?q=PT+Astra+Honda+Motor) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2022-06-22 | [`Pilton Community College`](https://google.com/search?q=Pilton+Community+College) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2022-06-21 | [`Canaropa`](https://google.com/search?q=Canaropa) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-05-27 | [`DRC-LAW.COM FILES PART10 - C\ PUBLISHED`](https://google.com/search?q=DRC-LAW.COM+FILES+PART10+-+C%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-05-27 | [`ALTERNATIVETECHS.COM FILES PART10 - C\Shares\Alternative\TELECOM\ PUBLISHED`](https://google.com/search?q=ALTERNATIVETECHS.COM+FILES+PART10+-+C%5CShares%5CAlternative%5CTELECOM%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-05-27 | [`LATOURNERIE-WOLFROM.COM FILES PART1 - 10.100.57.13, 10.100.57.52, 10.100.57.110, 10.100.57`](https://google.com/search?q=LATOURNERIE-WOLFROM.COM+FILES+PART1+-+10.100.57.13%2C+10.100.57.52%2C+10.100.57.110%2C+10.100.57) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-05-27 | [`FTSUMNERK12.COM FILES PART1 - 192.168.0.244\ PUBLISHED`](https://google.com/search?q=FTSUMNERK12.COM+FILES+PART1+-+192.168.0.244%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
