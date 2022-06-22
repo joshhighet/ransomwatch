@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-06-22 | [`COUNT+CARE - ENTEGA.DE`](https://google.com/search?q=COUNT%2BCARE+-+ENTEGA.DE) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-06-22 | [`Reed Pope Law`](https://google.com/search?q=Reed+Pope+Law) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-06-22 | [`BAHRA ELECTRIC - HACKED AND MORE THEN 800 GB DATA LEAKED`](https://google.com/search?q=BAHRA+ELECTRIC+-+HACKED+AND+MORE+THEN+800+GB+DATA+LEAKED) | [lv](https://ransomwatch.telemetry.ltd/#/profiles?id=lv) |
 | 2022-06-22 | [`Matco Electric`](https://google.com/search?q=Matco+Electric) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-05-27 | [`FAIR-RITE.COM FILES PART10 - 172.16.70.100 PUBLISHED`](https://google.com/search?q=FAIR-RITE.COM+FILES+PART10+-+172.16.70.100+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-05-27 | [`ENSSECURITY.COM FILES PART1 - 192.168.0.90 PUBLISHED`](https://google.com/search?q=ENSSECURITY.COM+FILES+PART1+-+192.168.0.90+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-05-27 | [`DRIVEANDSHINE.COM FILES PART10 - D\UserFolders\ PUBLISHED`](https://google.com/search?q=DRIVEANDSHINE.COM+FILES+PART10+-+D%5CUserFolders%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-05-27 | [`DRC-LAW.COM FILES PART10 - C\ PUBLISHED`](https://google.com/search?q=DRC-LAW.COM+FILES+PART10+-+C%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
