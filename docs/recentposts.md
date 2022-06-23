@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-06-23 | [`Alphapointe`](https://google.com/search?q=Alphapointe) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
 | 2022-06-23 | [`FAYAT`](https://google.com/search?q=FAYAT) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2022-06-23 | [`Arte Radiotelevisivo Argentino (Artear)`](https://google.com/search?q=Arte+Radiotelevisivo+Argentino+%28Artear%29) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
 | 2022-06-22 | [`COUNT+CARE - ENTEGA.DE`](https://google.com/search?q=COUNT%2BCARE+-+ENTEGA.DE) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-05-27 | [`ORBITELECTRIC.COM FILES PART8 - 192.168.10.23\ORBIT_ART\ChristinaW\ PUBLISHED`](https://google.com/search?q=ORBITELECTRIC.COM+FILES+PART8+-+192.168.10.23%5CORBIT_ART%5CChristinaW%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-05-27 | [`OAKDELL.COM FILES PART10 - D\Server\ PUBLISHED`](https://google.com/search?q=OAKDELL.COM+FILES+PART10+-+D%5CServer%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-05-27 | [`FERRAN-SERVICES.COM FILES FILES PART1 - ferran.bramirez, ferran.jflaherty PUBLISHED`](https://google.com/search?q=FERRAN-SERVICES.COM+FILES+FILES+PART1+-+ferran.bramirez%2C+ferran.jflaherty+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-05-27 | [`FAIR-RITE.COM FILES PART10 - 172.16.70.100 PUBLISHED`](https://google.com/search?q=FAIR-RITE.COM+FILES+PART10+-+172.16.70.100+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
