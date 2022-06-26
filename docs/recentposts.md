@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-06-26 | [`Elbit Systems of America`](https://google.com/search?q=Elbit+Systems+of+America) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2022-06-26 | [`oak-brook.org`](https://google.com/search?q=oak-brook.org) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-06-24 | [`PRICEDEX.COM FILES PART5 - 10.0.10.1\E$\Admin\Restored Files\From MGT03\ PUBLISHED`](https://google.com/search?q=PRICEDEX.COM+FILES+PART5+-+10.0.10.1%5CE%24%5CAdmin%5CRestored+Files%5CFrom+MGT03%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-06-24 | [`PERBIT.COM FILES PART7 - 10.182.179.241\C$\sbs_prbt_backup_cifs1_vol1\SQL Backup\WGV\pbiDB`](https://google.com/search?q=PERBIT.COM+FILES+PART7+-+10.182.179.241%5CC%24%5Csbs_prbt_backup_cifs1_vol1%5CSQL+Backup%5CWGV%5CpbiDB) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-06-24 | [`NEWCOURSECC.COM FILES PART6 - 10.168.0.7\ PUBLISHED`](https://google.com/search?q=NEWCOURSECC.COM+FILES+PART6+-+10.168.0.7%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2022-05-29 | [`BLAIR inc.`](https://google.com/search?q=BLAIR+inc.) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2022-05-29 | [`An Technology Company - Paid`](https://google.com/search?q=An+Technology+Company+-+Paid) | [cheers](https://ransomwatch.telemetry.ltd/#/profiles?id=cheers) |
 | 2022-05-29 | [`An Financial Company - Paid`](https://google.com/search?q=An+Financial+Company+-+Paid) | [cheers](https://ransomwatch.telemetry.ltd/#/profiles?id=cheers) |
-| 2022-05-29 | [`An Belgium Hospital - Unpay`](https://google.com/search?q=An+Belgium+Hospital+-+Unpay) | [cheers](https://ransomwatch.telemetry.ltd/#/profiles?id=cheers) |
-| 2022-05-29 | [`An International Maritime Company - Unpay`](https://google.com/search?q=An+International+Maritime+Company+-+Unpay) | [cheers](https://ransomwatch.telemetry.ltd/#/profiles?id=cheers) |
