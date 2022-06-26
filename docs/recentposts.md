@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-06-26 | [`Medical University of Innsbruck`](https://google.com/search?q=Medical+University+of+Innsbruck) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2022-06-26 | [`Napa Valley College`](https://google.com/search?q=Napa+Valley+College) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
 | 2022-06-26 | [`Elbit Systems of America`](https://google.com/search?q=Elbit+Systems+of+America) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2022-06-26 | [`oak-brook.org`](https://google.com/search?q=oak-brook.org) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-05-29 | [`pauly.de`](https://google.com/search?q=pauly.de) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-05-29 | [`hospitalsanjose...`](https://google.com/search?q=hospitalsanjose...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-05-29 | [`BLAIR inc.`](https://google.com/search?q=BLAIR+inc.) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2022-05-29 | [`An Technology Company - Paid`](https://google.com/search?q=An+Technology+Company+-+Paid) | [cheers](https://ransomwatch.telemetry.ltd/#/profiles?id=cheers) |
