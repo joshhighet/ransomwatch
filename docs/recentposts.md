@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-06-27 | [`Bonneville Collections`](https://google.com/search?q=Bonneville+Collections) | [lorenz](https://ransomwatch.telemetry.ltd/#/profiles?id=lorenz) |
 | 2022-06-27 | [`r1group`](https://google.com/search?q=r1group) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
 | 2022-06-26 | [`Medical University of Innsbruck`](https://google.com/search?q=Medical+University+of+Innsbruck) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2022-06-26 | [`Napa Valley College`](https://google.com/search?q=Napa+Valley+College) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-05-29 | [`foxconnbc.com`](https://google.com/search?q=foxconnbc.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-05-29 | [`koenigstahl.pl`](https://google.com/search?q=koenigstahl.pl) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-05-29 | [`pauly.de`](https://google.com/search?q=pauly.de) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-05-29 | [`hospitalsanjose...`](https://google.com/search?q=hospitalsanjose...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
