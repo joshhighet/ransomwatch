@@ -266,6 +266,7 @@ if args.mode == 'parse':
     parsers.mindware()
     parsers.ransomhouse()
     parsers.cheers()
+    parsers.lockbit3()
     stdlog('ransomwatch: ' + 'parse run complete')
 
 if args.mode == 'list':

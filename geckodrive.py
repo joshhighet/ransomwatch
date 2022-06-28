@@ -53,6 +53,9 @@ def main(webpage):
         driver.get(webpage)
         # set the number of seconds to wait before working with the DOM
         sleeptz = 5
+        if 'lockbitapt3' in webpage:
+            time.sleep(20)
+            #driver.implicitly_wait(20)
         stdlog('geckodriver: ' + 'waiting ' + str(sleeptz) + ' seconds to render elements')
         time.sleep(sleeptz)
         #if 'lockbitapt' in webpage:
