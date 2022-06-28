@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-06-28 | [`SuperAlloy Industrial Co., Ltd.`](https://google.com/search?q=SuperAlloy+Industrial+Co.%2C+Ltd.) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
+| 2022-06-28 | [`Diskriter`](https://google.com/search?q=Diskriter) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
+| 2022-06-28 | [`datalit.it`](https://google.com/search?q=datalit.it) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-06-27 | [`Ministry of Agriculture`](https://google.com/search?q=Ministry+of+Agriculture) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2022-06-27 | [`Bonneville Collections`](https://google.com/search?q=Bonneville+Collections) | [lorenz](https://ransomwatch.telemetry.ltd/#/profiles?id=lorenz) |
 | 2022-06-27 | [`r1group`](https://google.com/search?q=r1group) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2022-05-30 | [`intertabak.com`](https://google.com/search?q=intertabak.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-05-30 | [`inla`](https://google.com/search?q=inla) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-05-30 | [`tcpharmachem.co...`](https://google.com/search?q=tcpharmachem.co...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-05-30 | [`gpmlife.com`](https://google.com/search?q=gpmlife.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-05-29 | [`foxconnbc.com`](https://google.com/search?q=foxconnbc.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-05-29 | [`koenigstahl.pl`](https://google.com/search?q=koenigstahl.pl) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
