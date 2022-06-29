@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-06-29 | [`Avante Health Solutions`](https://google.com/search?q=Avante+Health+Solutions) | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
 | 2022-06-29 | [`New Peoples Bank`](https://google.com/search?q=New+Peoples+Bank) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2022-06-29 | [`metroappliancesandmore.com`](https://google.com/search?q=metroappliancesandmore.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-06-29 | [`lonseal.com`](https://google.com/search?q=lonseal.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-05-31 | [`GREEN MOUNTAIN ELECTRIC SUPPLY (gmes.com)`](https://google.com/search?q=GREEN+MOUNTAIN+ELECTRIC+SUPPLY+%28gmes.com%29) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-05-30 | [`G&P Projects And Systems S.A.`](https://google.com/search?q=G%26P+Projects+And+Systems+S.A.) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
 | 2022-05-30 | [`Caracol TV`](https://google.com/search?q=Caracol+TV) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
-| 2022-05-30 | [`Klasner Solomon & Partners Chartered Professional Accountants`](https://google.com/search?q=Klasner+Solomon+%26+Partners+Chartered+Professional+Accountants) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
