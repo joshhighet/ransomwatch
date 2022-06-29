@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-06-29 | [`metroappliancesandmore.com`](https://google.com/search?q=metroappliancesandmore.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2022-06-29 | [`lonseal.com`](https://google.com/search?q=lonseal.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-06-28 | [`Sembcorp Marine - Unpay`](https://google.com/search?q=Sembcorp+Marine+-+Unpay) | [cheers](https://ransomwatch.telemetry.ltd/#/profiles?id=cheers) |
 | 2022-06-28 | [`SuperAlloy Industrial Co., Ltd.`](https://google.com/search?q=SuperAlloy+Industrial+Co.%2C+Ltd.) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
 | 2022-06-28 | [`Diskriter`](https://google.com/search?q=Diskriter) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2022-05-30 | [`Caracol TV`](https://google.com/search?q=Caracol+TV) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
 | 2022-05-30 | [`Klasner Solomon & Partners Chartered Professional Accountants`](https://google.com/search?q=Klasner+Solomon+%26+Partners+Chartered+Professional+Accountants) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-05-30 | [`Whitehall. (OH)`](https://google.com/search?q=Whitehall.+%28OH%29) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2022-05-30 | [`intertabak.com`](https://google.com/search?q=intertabak.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-05-30 | [`inla`](https://google.com/search?q=inla) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
