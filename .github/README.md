@@ -21,32 +21,30 @@
   </a>
 </p>
 
-an onionsite scraping framework with the primary intent of tracking ransomware groups
-
-running within github actions, groups are visited & posts are indexed within this repository at a regular cadence
-
 missing a group ? try the [_issue template_](https://github.com/joshhighet/ransomwatch/issues/new?assignees=&labels=✨+enhancement&template=newgroup.yml&title=new+group%3A+)
+
+looking for historical data?  check [ransomwatch-history](https://github.com/joshhighet/ransomwatch-history)
+
+this repository leverages github actions & pages to visit, parse & report on monitored hosts in near-realtime.
 
 ```shell
 curl -sL ransomwhat.telemetry.ltd/posts | jq
 curl -sL ransomwhat.telemetry.ltd/groups | jq
 ```
 
-for historical data check [ransomwatch-history](https://github.com/joshhighet/ransomwatch-history)
-
 ---
 
 <h4 align="center">⚠️</h4>
 
 <h4 align="center">
-  content within ransomwatch.telemetry.ltd, posts.json, groups.json and the docs/ & source/ directories is dynamically generated based on infrastructure of real-world threat actors in near-real-time. <br><br> whilst sanitisation efforts have been taken, by viewing or accessing ransomwatch generated material you acknowledge you are doing so at your own risk.
+  content within ransomwatch.telemetry.ltd, posts.json, groups.json and the docs/ & source/ directories is dynamically generated based on hosting choices of real-world threat actors in near-real-time. <br><br> whilst sanitisation efforts have been taken, by viewing or accessing ransomwatch you acknowledge you are doing so at your own risk
 </h4>
 
 ---
 
 ## technicals
 
-the [torproxy](https://github.com/joshhighet/gotham) from [**joshhighet/gotham** registry](https://github.com/joshhighet/joshhighet/pkgs/container/gotham%2Ftorproxy) is introduced into the github actions workflow as a [service container](https://docs.github.com/en/actions/guides/about-service-containers) to allow onion routing within  [ransomwatch.yml](https://github.com/joshhighet/ransomwatch/blob/f939ad5d78491c7f162d8acb7b4217c1e2bd5744/.github/workflows/ransomwatch.yml)
+the [torproxy](https://github.com/joshhighet/gotham) from my [**gotham** registry](https://github.com/joshhighet/joshhighet/pkgs/container/gotham%2Ftorproxy) is introduced into the github actions workflow as a [service container](https://docs.github.com/en/actions/guides/about-service-containers) to allow onion routing within  [ransomwatch.yml](https://github.com/joshhighet/ransomwatch/blob/main/.github/workflows/ransomwatch.yml)
 
 where possible [psf/requests](https://github.com/psf/requests) is used to fetch source html. if a javascript engine is required to render the dom [mozilla/geckodriver](https://github.com/mozilla/geckodriver) and [seleniumhq/selenium](https://github.com/SeleniumHQ/selenium) are invoked.
 
