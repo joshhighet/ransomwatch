@@ -1,5 +1,7 @@
 #!/bin/zsh
 # freshonifyfe4rmuh6qwpsexfhdrww7wnt5qmkoertwxmcuvm4woo4ad.onion
+# onionwsoiu53xre32jwve7euacadvhprq2jytfttb55hrbo3execodad.onion
+
 set -e
 
 if ! `nc -z localhost 9050`; then
