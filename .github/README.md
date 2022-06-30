@@ -32,7 +32,7 @@ curl -sL ransomwhat.telemetry.ltd/posts | jq
 curl -sL ransomwhat.telemetry.ltd/groups | jq
 ```
 
-looking for historical data? check [ransomwatch-history](https://github.com/joshhighet/ransomwatch-history) - from hourly uptime records to git-tracked source HTML for groups over the period of May 2021 to May 2022 - there's insights to be had
+for historical data check [ransomwatch-history](https://github.com/joshhighet/ransomwatch-history)
 
 ---
 
