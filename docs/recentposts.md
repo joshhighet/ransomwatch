@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-07-01 | [`HANSA KONTAKT`](https://google.com/search?q=HANSA+KONTAKT) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
+| 2022-07-01 | [`Amalfitana Gas Srl`](https://google.com/search?q=Amalfitana+Gas+Srl) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2022-07-01 | [`An International Shipping Company - Unpay`](https://google.com/search?q=An+International+Shipping+Company+-+Unpay) | [cheers](https://ransomwatch.telemetry.ltd/#/profiles?id=cheers) |
 | 2022-07-01 | [`Continental Management`](https://google.com/search?q=Continental+Management) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-06-30 | [`Atlantic Dialysis Management Services`](https://google.com/search?q=Atlantic+Dialysis+Management+Services) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2022-06-01 | [`CICIS.COM- HACKED AND INFORMATION MORE THEN 120,000 CUSTOMERS LEAKED`](https://google.com/search?q=CICIS.COM-+HACKED+AND+INFORMATION+MORE+THEN+120%2C000+CUSTOMERS+LEAKED) | [lv](https://ransomwatch.telemetry.ltd/#/profiles?id=lv) |
 | 2022-06-01 | [`bradfo`](https://google.com/search?q=bradfo) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-06-01 | [`Jonathan Adler Leaks`](https://google.com/search?q=Jonathan+Adler+Leaks) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
-| 2022-06-01 | [`Groupe J.F. Nadeau Inc`](https://google.com/search?q=Groupe+J.F.+Nadeau+Inc) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2022-06-01 | [`JBS TEXTILE GROUP`](https://google.com/search?q=JBS+TEXTILE+GROUP) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
