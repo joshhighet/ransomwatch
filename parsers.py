@@ -706,3 +706,14 @@ def lockbit3():
         errlog('lockbit3: ' + 'parsing fail')
     for post in posts:
         appender(post, 'lockbit3')
+
+def yanluowang():
+    stdlog('parser: ' + 'yanluowang')
+    parser = '''
+    grep '<a href="/posts' source/yanluowang-*.html | cut -d '>' -f 2 | cut -d '<' -f 1 | sed -e 's/^ *//g' -e 's/[[:space:]]*$//'
+    '''
+    posts = runshellcmd(parser)
+    if len(posts) == 1:
+        errlog('yanluowang: ' + 'parsing fail')
+    for post in posts:
+        appender(post, 'yanluowang')
