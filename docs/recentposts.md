@@ -4,6 +4,12 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-07-02 | [`Shorr.com leakage`](https://google.com/search?q=Shorr.com+leakage) | [yanluowang](https://ransomwatch.telemetry.ltd/#/profiles?id=yanluowang) |
+| 2022-07-02 | [`Greetings to havi.com and tmsw.com`](https://google.com/search?q=Greetings+to+havi.com+and+tmsw.com) | [yanluowang](https://ransomwatch.telemetry.ltd/#/profiles?id=yanluowang) |
+| 2022-07-02 | [`Big data dump from various organizations`](https://google.com/search?q=Big+data+dump+from+various+organizations) | [yanluowang](https://ransomwatch.telemetry.ltd/#/profiles?id=yanluowang) |
+| 2022-07-02 | [`Walmart was encrypted`](https://google.com/search?q=Walmart+was+encrypted) | [yanluowang](https://ransomwatch.telemetry.ltd/#/profiles?id=yanluowang) |
+| 2022-07-02 | [`Cincinnati bell didn&rsquo;t pay the ransom`](https://google.com/search?q=Cincinnati+bell+didn%26rsquo%3Bt+pay+the+ransom) | [yanluowang](https://ransomwatch.telemetry.ltd/#/profiles?id=yanluowang) |
+| 2022-07-02 | [`Rocky`](https://google.com/search?q=Rocky) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
 | 2022-07-01 | [`sigma-alimentos.com`](https://google.com/search?q=sigma-alimentos.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-07-01 | [`HANSA KONTAKT`](https://google.com/search?q=HANSA+KONTAKT) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-07-01 | [`Amalfitana Gas Srl`](https://google.com/search?q=Amalfitana+Gas+Srl) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
@@ -198,9 +204,3 @@ _last `200` posts_
 | 2022-06-02 | [`closetheloopeu....`](https://google.com/search?q=closetheloopeu....) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-06-02 | [`jewelry.or`](https://google.com/search?q=jewelry.or) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-06-02 | [`compagniedep`](https://google.com/search?q=compagniedep) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-06-02 | [`hilltopconstruc`](https://google.com/search?q=hilltopconstruc) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-06-02 | [`cepima`](https://google.com/search?q=cepima) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-06-02 | [`Nelsonslaw LLP`](https://google.com/search?q=Nelsonslaw+LLP) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2022-06-01 | [`XYTECH - HACKED AND 650 GB DATA LEAKED`](https://google.com/search?q=XYTECH+-+HACKED+AND+650+GB+DATA+LEAKED) | [lv](https://ransomwatch.telemetry.ltd/#/profiles?id=lv) |
-| 2022-06-01 | [`CICIS.COM- HACKED AND INFORMATION MORE THEN 120,000 CUSTOMERS LEAKED`](https://google.com/search?q=CICIS.COM-+HACKED+AND+INFORMATION+MORE+THEN+120%2C000+CUSTOMERS+LEAKED) | [lv](https://ransomwatch.telemetry.ltd/#/profiles?id=lv) |
-| 2022-06-01 | [`bradfo`](https://google.com/search?q=bradfo) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
