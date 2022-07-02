@@ -4,6 +4,12 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-07-02 | [`bosco-avocats.com`](https://google.com/search?q=bosco-avocats.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2022-07-02 | [`faacgroup.com`](https://google.com/search?q=faacgroup.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2022-07-02 | [`lesbureauxdelepargne.com`](https://google.com/search?q=lesbureauxdelepargne.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2022-07-02 | [`plravocats.fr`](https://google.com/search?q=plravocats.fr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2022-07-02 | [`slpcolombus.com`](https://google.com/search?q=slpcolombus.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2022-07-02 | [`axelcium.com`](https://google.com/search?q=axelcium.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-07-02 | [`Shorr.com leakage`](https://google.com/search?q=Shorr.com+leakage) | [yanluowang](https://ransomwatch.telemetry.ltd/#/profiles?id=yanluowang) |
 | 2022-07-02 | [`Greetings to havi.com and tmsw.com`](https://google.com/search?q=Greetings+to+havi.com+and+tmsw.com) | [yanluowang](https://ransomwatch.telemetry.ltd/#/profiles?id=yanluowang) |
 | 2022-07-02 | [`Big data dump from various organizations`](https://google.com/search?q=Big+data+dump+from+various+organizations) | [yanluowang](https://ransomwatch.telemetry.ltd/#/profiles?id=yanluowang) |
@@ -198,9 +204,3 @@ _last `200` posts_
 | 2022-06-04 | [`Sierra Packaging Leaked`](https://google.com/search?q=Sierra+Packaging+Leaked) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
 | 2022-06-03 | [`sport`](https://google.com/search?q=sport) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-06-02 | [`St Paul`](https://google.com/search?q=St+Paul) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
-| 2022-06-02 | [`Acorn Recruitment`](https://google.com/search?q=Acorn+Recruitment) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
-| 2022-06-02 | [`The De Montfort School`](https://google.com/search?q=The+De+Montfort+School) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
-| 2022-06-02 | [`Alexandria. (LA)`](https://google.com/search?q=Alexandria.+%28LA%29) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2022-06-02 | [`closetheloopeu....`](https://google.com/search?q=closetheloopeu....) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-06-02 | [`jewelry.or`](https://google.com/search?q=jewelry.or) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-06-02 | [`compagniedep`](https://google.com/search?q=compagniedep) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
