@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-07-03 | [`AG`](https://google.com/search?q=AG) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
 | 2022-07-02 | [`bosco-avocats.com`](https://google.com/search?q=bosco-avocats.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-07-02 | [`faacgroup.com`](https://google.com/search?q=faacgroup.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-07-02 | [`lesbureauxdelepargne.com`](https://google.com/search?q=lesbureauxdelepargne.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-06-04 | [`Northeastern Technical College`](https://google.com/search?q=Northeastern+Technical+College) | [suncrypt](https://ransomwatch.telemetry.ltd/#/profiles?id=suncrypt) |
 | 2022-06-04 | [`Sierra Packaging Leaked`](https://google.com/search?q=Sierra+Packaging+Leaked) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
 | 2022-06-03 | [`sport`](https://google.com/search?q=sport) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-06-02 | [`St Paul`](https://google.com/search?q=St+Paul) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
