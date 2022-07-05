@@ -2766,7 +2766,7 @@
         "name": "karakurt",
         "captcha": false,
         "parser": false,
-        "javascript_render": false,
+        "javascript_render": true,
         "meta": null,
         "locations": [
             {
