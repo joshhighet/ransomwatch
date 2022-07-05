@@ -75,8 +75,11 @@ def main(webpage):
             errlog('geckodriver: ' + 'socks request timed out!')
         else:
             errlog('geckodriver: ' + 'error: ' + str(e))
-        driver.quit()
-        stdlog('geckodriver: ' + 'webdriver quit')
+        try:
+            driver.quit()
+            stdlog('geckodriver: ' + 'webdriver quit')
+        except UnboundLocalError:
+            pass
         return None
     if driver:
         driver.quit()
