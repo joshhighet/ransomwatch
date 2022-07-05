@@ -4,7 +4,7 @@ _july 5th, 2022_
 
 currently tracking `110` groups across `161` relays & mirrors - _`62` currently online_
 
-⏲ there have been `14` posts within the `last 24 hours`
+⏲ there have been `5` posts within the `last 24 hours`
 
 🦈 there have been `49` posts within the `month of july`
 
