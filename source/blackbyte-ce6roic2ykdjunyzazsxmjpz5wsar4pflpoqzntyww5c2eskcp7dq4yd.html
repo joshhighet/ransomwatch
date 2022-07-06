@@ -15,13 +15,13 @@
 
 
     <link href="https://fonts.googleapis.com/css?family=Playfair+Display:700,900" rel="stylesheet">
-    <link href="/blog.css?v=1657131513" rel="stylesheet">
+    <link href="/blog.css?v=1657138551" rel="stylesheet">
     <script src="/assets/js/jquery-2.1.3.min.js"></script>
 
     <script src="/assets/js/vendor/popper.min.js"></script>
     <script src="/dist/js/bootstrap.min.js"></script>
     <script src="/assets/js/vendor/holder.min.js"></script>
-    <script src="/script.js?v=1657131513"></script>
+    <script src="/script.js?v=1657138551"></script>
     <style>
 
 
@@ -431,6 +431,203 @@
 
         <script>
 
+            var proof_img_block26 = '<img src="" alt="" class="proof">';
+
+
+            function ShowProof26(){
+                if(showed26 === 0){
+                    showed26 = 1;
+                    $("#target_26 .proof_block").html(proof_img_block26).slideDown(400);
+                }else{
+                    showed26 = 0;
+                    $("#target_26 .proof_block").html(' ').slideUp(400);
+                }
+
+            }
+
+
+            function ShowDButtons26(){
+                if(showed_d_buttons26 === 0){
+                    showed_d_buttons26 = 1;
+                    $("#target_26 .d_buttons").slideDown(400);
+                }else{
+                    showed_d_buttons26 = 0;
+                    $("#target_26 .d_buttons").slideUp(400);
+                }
+
+            }
+
+
+            var showed26 = 0;
+            var showed_d_buttons26 = 0;
+            var HAPPYSEC26 = 1715651;
+            var t_sec26 = HAPPYSEC26;
+
+            var time26;
+            var intervalId26=0;
+
+
+            $(document).ready(function () {
+                $("#target_26 .d_buttons a.btn3").addClass("red_button");
+                intervalId26 = setInterval(function (){
+                    timerDecrement26();
+                }, 1000);
+            });
+
+
+            function timerDecrement26() {
+                time26 = $('#target_26 span.timer');
+
+                if(t_sec26 < 1){
+                    t_sec26 = 0;
+                    newTime = t_sec26 ;
+                }else{
+                    newTime = t_sec26 - 1;
+                }
+
+
+                t_sec26 = newTime;
+
+                var t_min = t_sec26 / 60;
+                var t_hour = t_min / 60;
+                var t_day =
+                    '<b>' + Math.floor(t_hour / 24) + '</b> day I ' +
+                    '<b>' + Math.floor(t_hour % 24) +'</b>:' +
+                    '<b>' + Math.floor(t_min % 60) +'</b>:' +
+                    '<b>' + Math.floor(t_sec26 % 60)+ '</b> ';
+
+                time26.html(t_day);
+
+
+
+                if(newTime === 0 && HAPPYSEC26 > 0 || newTime < 1){
+
+                    time26.html('');
+                    $("#target_26 .lock").attr("src","assets/img/lockopen.png");
+                    $("#target_26 .clock").attr("src","assets/img/clockred.png").addClass("clockred");
+                    $("#target_26 .btn2").addClass("redbg");
+                    $("#target_26 .arrow-8").addClass("r8");
+                    $("#target_26 .perc").html("100%");
+
+                    clearInterval(intervalId26);
+                    GetDownloadLink(26,$("#target_26 .redbg"));
+                }
+
+
+            }
+        </script>
+
+
+
+
+        <div  class="col-md-6 col-sm-12 bg-tar  " style="cursor: pointer" onclick="$('.desc_26').modal('show')">
+            <div class="col-md-10 px-0">
+                <div  class="logo-image">
+                                            <img src="assets/logo/red-logo.png" alt="" class="proof logo-color">
+                                        </div>
+
+                <h1 class="h_font">Gatewayrehab</h1>
+                <div class="name-liean"></div>
+                <div class="name-liean2"></div>
+
+
+            </div>
+
+            <div class="col-md-2 px-0" >
+                                    <img src="assets/img/lock.png" alt="" class="color-lock lock">
+                    
+            </div>
+
+        </div>
+
+
+        <div class="modal desc_26" tabindex="-1"  id="target_26" >
+            <div class="modal-dialog  ">
+                <div class="modal-content modal_content_custom">
+                    <div id="modal_header" class="modal-header">
+                        <h5 class="modal-title font-italic">                                 <img src="assets/logo/red-logo.png" alt="" class="proof logo-color">
+                                </h5>
+                    </div>
+                    <div class="modal-body">
+                                                    <!--  <img src="assets/img/clock.png" alt="" class="clock">-->
+                            <div class="timer-div"><span  class="timer"></span></div>
+                            
+
+
+
+                        <div class="col-md-12 px-0">
+
+                            <div class="proof_block text-center"></div>
+
+
+                            <p class="lead_text my-3 pb-3" >Gateway Rehab is a nationally recognized, private, not-for-profit organization that provides treatment for adults, youth and families with alcohol and other drug dependencies. Gateway was founded in 1972 by Dr. Abraham J. Twerski, an internationally recognized authority on addiction treatment. More than 100,000 individuals have received treatment within the Gateway system, which extends throughout western Pennsylvania and Ohio.
+                            </p>
+                        </div>
+
+                        <div class="col-md-12 row px-0  mt-4 mb-4 ml-0">
+                            <div class="col-md-3 text-center ">
+                                <p class="lead mb-0 squ">
+                    <span class="text-white font-weight-bold ">
+                        <i class="fa fa-users team-users" ></i>
+                    </span>
+                                    <br>
+                                    <span class="">?</span>
+                                </p>
+                            </div>
+                            <div class="col-md-3 text-center" onclick="GO('https://www.gatewayrehab.org/')">
+                                <p class="lead mb-0 squ"><span class="text-white font-weight-bold "><i class="fa fa-globe globe-users"></i></span><br>
+                                    <a href="javascript:" class="text-decoration-none web-color" >Web Site</a>
+                                </p>
+                            </div>
+
+                            <div class="col-md-3 text-center"><p class="lead mb-0 squ "><span class="text-white font-weight-bold "><i class="fa fa-dollar dollar-users"></i></span> <br>$ ? </p></div>
+                            <div class="col-md-3 text-center"><p class="lead mb-0 squ"><span class="text-white font-weight-bold"><i class="fa fa-phone phone-users" ></i></span><br>?</p></div>
+
+                        </div>
+
+                        <div class="col-md-12 row px-0 mt-5">
+                            <div class="col-md-12 text-center"></div>
+                            <div class="col-md-6">
+                                <p class="lead mb-0 text-white font-weight-bold" style="margin-top: 13px">
+
+                                </p>
+                            </div>
+                          <div class="btnred red-button"><div class="arrow-8"></div>
+
+                                                                <a href="javascript:"  class=" fre-btn btn btn2 legitRipple  " onclick="ShowDButtons26()">Download Free </a>
+                                  
+
+                          </div>
+
+
+
+                        </div>
+
+
+
+                    </div>
+                    <div id="modal_footer" class="modal-footer">
+                                                    <div class="col-md-12 text-center d_buttons" style="display: none">
+                                                                    <a href="https://anonfiles.com/T1K901vdy8/Accounting_rar"  target="_blank"  class=" btn btn3 legitRipple
+                            " style="margin-bottom: 3px">
+
+
+
+
+
+
+                                        download 4.45GB</a>
+                                                                </div>
+                            
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+        
+        <script>
+
             var proof_img_block25 = '<img src="" alt="" class="proof">';
 
 
@@ -460,7 +657,7 @@
 
             var showed25 = 0;
             var showed_d_buttons25 = 0;
-            var HAPPYSEC25 = 1722688;
+            var HAPPYSEC25 = 1715651;
             var t_sec25 = HAPPYSEC25;
 
             var time25;
@@ -581,7 +778,7 @@
                             </div>
 
                             <div class="col-md-3 text-center"><p class="lead mb-0 squ "><span class="text-white font-weight-bold "><i class="fa fa-dollar dollar-users"></i></span> <br>$ ? </p></div>
-                            <div class="col-md-3 text-center"><p class="lead mb-0 squ"><span class="text-white font-weight-bold"><i class="fa fa-phone phone-users" ></i></span><br>(707) 256-7000</p></div>
+                            <div class="col-md-3 text-center"><p class="lead mb-0 squ"><span class="text-white font-weight-bold"><i class="fa fa-phone phone-users" ></i></span><br>?</p></div>
 
                         </div>
 
@@ -657,7 +854,7 @@
 
             var showed24 = 0;
             var showed_d_buttons24 = 0;
-            var HAPPYSEC24 = 772288;
+            var HAPPYSEC24 = 765251;
             var t_sec24 = HAPPYSEC24;
 
             var time24;
@@ -863,7 +1060,7 @@
 
             var showed23 = 0;
             var showed_d_buttons23 = 0;
-            var HAPPYSEC23 = -437312;
+            var HAPPYSEC23 = -444349;
             var t_sec23 = HAPPYSEC23;
 
             var time23;
@@ -1058,7 +1255,7 @@
 
             var showed22 = 0;
             var showed_d_buttons22 = 0;
-            var HAPPYSEC22 = -2225012;
+            var HAPPYSEC22 = -2232049;
             var t_sec22 = HAPPYSEC22;
 
             var time22;
@@ -1280,7 +1477,7 @@
 
             var showed21 = 0;
             var showed_d_buttons21 = 0;
-            var HAPPYSEC21 = -2225012;
+            var HAPPYSEC21 = -2232049;
             var t_sec21 = HAPPYSEC21;
 
             var time21;
@@ -1487,7 +1684,7 @@ https://anonfiles.com/n5O7o4hcyb/gob.pe_rar"  target="_blank"  class=" btn btn3 
 
             var showed20 = 0;
             var showed_d_buttons20 = 0;
-            var HAPPYSEC20 = -2916212;
+            var HAPPYSEC20 = -2923249;
             var t_sec20 = HAPPYSEC20;
 
             var time20;
@@ -1682,7 +1879,7 @@ https://anonfiles.com/n5O7o4hcyb/gob.pe_rar"  target="_blank"  class=" btn btn3 
 
             var showed19 = 0;
             var showed_d_buttons19 = 0;
-            var HAPPYSEC19 = -2916212;
+            var HAPPYSEC19 = -2923249;
             var t_sec19 = HAPPYSEC19;
 
             var time19;
@@ -1887,7 +2084,7 @@ The United Services Union was formed on 21 May 2003 following the merge between 
 
             var showed18 = 0;
             var showed_d_buttons18 = 0;
-            var HAPPYSEC18 = -2916212;
+            var HAPPYSEC18 = -2923249;
             var t_sec18 = HAPPYSEC18;
 
             var time18;
@@ -2082,7 +2279,7 @@ The United Services Union was formed on 21 May 2003 following the merge between 
 
             var showed17 = 0;
             var showed_d_buttons17 = 0;
-            var HAPPYSEC17 = -4125812;
+            var HAPPYSEC17 = -4132849;
             var t_sec17 = HAPPYSEC17;
 
             var time17;
@@ -2349,7 +2546,7 @@ The United Services Union was formed on 21 May 2003 following the merge between 
 
             var showed16 = 0;
             var showed_d_buttons16 = 0;
-            var HAPPYSEC16 = -4125812;
+            var HAPPYSEC16 = -4132849;
             var t_sec16 = HAPPYSEC16;
 
             var time16;
@@ -2545,7 +2742,7 @@ https://anonfiles.com/BeY0Z2Z1xc/mrspedag.com_zip"  target="_blank"  class=" btn
 
             var showed15 = 0;
             var showed_d_buttons15 = 0;
-            var HAPPYSEC15 = -4125812;
+            var HAPPYSEC15 = -4132849;
             var t_sec15 = HAPPYSEC15;
 
             var time15;
@@ -2740,7 +2937,7 @@ https://anonfiles.com/BeY0Z2Z1xc/mrspedag.com_zip"  target="_blank"  class=" btn
 
             var showed14 = 0;
             var showed_d_buttons14 = 0;
-            var HAPPYSEC14 = -5853812;
+            var HAPPYSEC14 = -5860849;
             var t_sec14 = HAPPYSEC14;
 
             var time14;
@@ -2935,7 +3132,7 @@ https://anonfiles.com/BeY0Z2Z1xc/mrspedag.com_zip"  target="_blank"  class=" btn
 
             var showed13 = 0;
             var showed_d_buttons13 = 0;
-            var HAPPYSEC13 = -5940212;
+            var HAPPYSEC13 = -5947249;
             var t_sec13 = HAPPYSEC13;
 
             var time13;
@@ -3157,7 +3354,7 @@ https://anonfiles.com/BeY0Z2Z1xc/mrspedag.com_zip"  target="_blank"  class=" btn
 
             var showed12 = 0;
             var showed_d_buttons12 = 0;
-            var HAPPYSEC12 = -5944712;
+            var HAPPYSEC12 = -5951749;
             var t_sec12 = HAPPYSEC12;
 
             var time12;
@@ -3356,7 +3553,7 @@ Over the years, MZ Architects have generated many significant projects, all unde
 
             var showed11 = 0;
             var showed_d_buttons11 = 0;
-            var HAPPYSEC11 = -6117512;
+            var HAPPYSEC11 = -6124549;
             var t_sec11 = HAPPYSEC11;
 
             var time11;
@@ -3579,7 +3776,7 @@ We only make food that we would be proud to feed our own pets, and we want to sh
 
             var showed10 = 0;
             var showed_d_buttons10 = 0;
-            var HAPPYSEC10 = -10091912;
+            var HAPPYSEC10 = -10098949;
             var t_sec10 = HAPPYSEC10;
 
             var time10;
@@ -3785,7 +3982,7 @@ and implementing best practices and providing medical approval for the import an
 
             var showed9 = 0;
             var showed_d_buttons9 = 0;
-            var HAPPYSEC9 = -10909112;
+            var HAPPYSEC9 = -10916149;
             var t_sec9 = HAPPYSEC9;
 
             var time9;
@@ -3998,7 +4195,7 @@ and implementing best practices and providing medical approval for the import an
 
             var showed8 = 0;
             var showed_d_buttons8 = 0;
-            var HAPPYSEC8 = -11168312;
+            var HAPPYSEC8 = -11175349;
             var t_sec8 = HAPPYSEC8;
 
             var time8;
@@ -4193,7 +4390,7 @@ and implementing best practices and providing medical approval for the import an
 
             var showed7 = 0;
             var showed_d_buttons7 = 0;
-            var HAPPYSEC7 = -11168312;
+            var HAPPYSEC7 = -11175349;
             var t_sec7 = HAPPYSEC7;
 
             var time7;
@@ -4388,7 +4585,7 @@ and implementing best practices and providing medical approval for the import an
 
             var showed6 = 0;
             var showed_d_buttons6 = 0;
-            var HAPPYSEC6 = -11168312;
+            var HAPPYSEC6 = -11175349;
             var t_sec6 = HAPPYSEC6;
 
             var time6;
@@ -4583,7 +4780,7 @@ and implementing best practices and providing medical approval for the import an
 
             var showed5 = 0;
             var showed_d_buttons5 = 0;
-            var HAPPYSEC5 = -11427512;
+            var HAPPYSEC5 = -11434549;
             var t_sec5 = HAPPYSEC5;
 
             var time5;
@@ -4778,7 +4975,7 @@ and implementing best practices and providing medical approval for the import an
 
             var showed4 = 0;
             var showed_d_buttons4 = 0;
-            var HAPPYSEC4 = -16265912;
+            var HAPPYSEC4 = -16272949;
             var t_sec4 = HAPPYSEC4;
 
             var time4;
@@ -4991,7 +5188,7 @@ and implementing best practices and providing medical approval for the import an
 
             var showed3 = 0;
             var showed_d_buttons3 = 0;
-            var HAPPYSEC3 = -16265912;
+            var HAPPYSEC3 = -16272949;
             var t_sec3 = HAPPYSEC3;
 
             var time3;
@@ -5213,7 +5410,7 @@ and implementing best practices and providing medical approval for the import an
 
             var showed2 = 0;
             var showed_d_buttons2 = 0;
-            var HAPPYSEC2 = -16265912;
+            var HAPPYSEC2 = -16272949;
             var t_sec2 = HAPPYSEC2;
 
             var time2;
@@ -5454,7 +5651,7 @@ https://anonfiles.com/n65624Mexe/petrolimex.com.vn.part3_rar"  target="_blank"  
 
             var showed1 = 0;
             var showed_d_buttons1 = 0;
-            var HAPPYSEC1 = -16265912;
+            var HAPPYSEC1 = -16272949;
             var t_sec1 = HAPPYSEC1;
 
             var time1;

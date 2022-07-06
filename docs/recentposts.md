@@ -4,6 +4,19 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-07-06 | [`LYDECKERLAW`](https://google.com/search?q=LYDECKERLAW) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2022-07-06 | [`Wipro HealthPlan Services`](https://google.com/search?q=Wipro+HealthPlan+Services) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2022-07-06 | [`OLYMPIATILE`](https://google.com/search?q=OLYMPIATILE) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2022-07-06 | [`MAIN`](https://google.com/search?q=MAIN) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2022-07-06 | [`TMI`](https://google.com/search?q=TMI) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2022-07-06 | [`Sierra Pacific Industries`](https://google.com/search?q=Sierra+Pacific+Industries) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2022-07-06 | [`DEKIMO`](https://google.com/search?q=DEKIMO) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2022-07-06 | [`Jinny Beauty Supply`](https://google.com/search?q=Jinny+Beauty+Supply) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2022-07-06 | [`Roche Bobois`](https://google.com/search?q=Roche+Bobois) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2022-07-06 | [`LOSSEWERK`](https://google.com/search?q=LOSSEWERK) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2022-07-06 | [`SCHMIDT Gruppe Service GmbH`](https://google.com/search?q=SCHMIDT+Gruppe+Service+GmbH) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2022-07-06 | [`JBKLDMN`](https://google.com/search?q=JBKLDMN) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2022-07-06 | [`Gatewayrehab`](https://google.com/search?q=Gatewayrehab) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
 | 2022-07-06 | [`Dusit D2 Kenz Hotel Dubai`](https://google.com/search?q=Dusit+D2+Kenz+Hotel+Dubai) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-07-06 | [`Lamoille Health`](https://google.com/search?q=Lamoille+Health) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
 | 2022-07-06 | [`alpachem.com`](https://google.com/search?q=alpachem.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -191,16 +204,3 @@ _last `200` posts_
 | 2022-06-10 | [`Worldwide Flight Services`](https://google.com/search?q=Worldwide+Flight+Services) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2022-06-10 | [`www.vectorinf.c...`](https://google.com/search?q=www.vectorinf.c...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-06-10 | [`cargoexperts.eu`](https://google.com/search?q=cargoexperts.eu) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-06-09 | [`kaisoten.co.jp`](https://google.com/search?q=kaisoten.co.jp) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-06-09 | [`CAPECODRTA - HACKED AND DATA LEAKED`](https://google.com/search?q=CAPECODRTA+-+HACKED+AND+DATA+LEAKED) | [lv](https://ransomwatch.telemetry.ltd/#/profiles?id=lv) |
-| 2022-06-09 | [`Palermo`](https://google.com/search?q=Palermo) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
-| 2022-06-09 | [`virtus-`](https://google.com/search?q=virtus-) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-06-08 | [`Goodman Campbell Brain & Spine`](https://google.com/search?q=Goodman+Campbell+Brain+%26+Spine) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
-| 2022-06-08 | [`English Construction Company`](https://google.com/search?q=English+Construction+Company) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2022-06-07 | [`Losberger De Boer`](https://google.com/search?q=Losberger+De+Boer) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2022-06-07 | [`Alliance Steel`](https://google.com/search?q=Alliance+Steel) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
-| 2022-06-07 | [`equis.com`](https://google.com/search?q=equis.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-06-07 | [`gpml`](https://google.com/search?q=gpml) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-06-07 | [`https://www.equ...`](https://google.com/search?q=https%3A%2F%2Fwww.equ...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-06-06 | [`VTVCAB`](https://google.com/search?q=VTVCAB) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
-| 2022-06-06 | [`mandiant.com`](https://google.com/search?q=mandiant.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
