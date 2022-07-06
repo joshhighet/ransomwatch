@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-07-06 | [`alpachem.com`](https://google.com/search?q=alpachem.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2022-07-06 | [`cabbageinc.com`](https://google.com/search?q=cabbageinc.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2022-07-06 | [`DPP`](https://google.com/search?q=DPP) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2022-07-06 | [`adlerdisplay.com - Adler Display`](https://google.com/search?q=adlerdisplay.com+-+Adler+Display) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-07-06 | [`Sinclair Wilson`](https://google.com/search?q=Sinclair+Wilson) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-07-05 | [`Pontal Engineering Constructions and Developments`](https://google.com/search?q=Pontal+Engineering+Constructions+and+Developments) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2022-06-06 | [`mandiant.com`](https://google.com/search?q=mandiant.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-06-06 | [`kan`](https://google.com/search?q=kan) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-06-06 | [`sesver.gob.mx`](https://google.com/search?q=sesver.gob.mx) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-06-06 | [`patralogistik.c...`](https://google.com/search?q=patralogistik.c...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-06-06 | [`linmark.com`](https://google.com/search?q=linmark.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-06-06 | [`hyatts.com`](https://google.com/search?q=hyatts.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
