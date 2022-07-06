@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-07-06 | [`LOKALTOG`](https://google.com/search?q=LOKALTOG) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2022-07-06 | [`VKF Renzel GmbH`](https://google.com/search?q=VKF+Renzel+GmbH) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2022-07-06 | [`LYDECKERLAW`](https://google.com/search?q=LYDECKERLAW) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2022-07-06 | [`Wipro HealthPlan Services`](https://google.com/search?q=Wipro+HealthPlan+Services) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2022-07-06 | [`OLYMPIATILE`](https://google.com/search?q=OLYMPIATILE) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2022-06-10 | [`eivp-paris.fr`](https://google.com/search?q=eivp-paris.fr) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-06-10 | [`Tiroler Rohre GmbH`](https://google.com/search?q=Tiroler+Rohre+GmbH) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2022-06-10 | [`Worldwide Flight Services`](https://google.com/search?q=Worldwide+Flight+Services) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2022-06-10 | [`www.vectorinf.c...`](https://google.com/search?q=www.vectorinf.c...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-06-10 | [`cargoexperts.eu`](https://google.com/search?q=cargoexperts.eu) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
