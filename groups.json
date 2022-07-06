@@ -2789,5 +2789,26 @@
             }
         ],
         "profile": []
+    },
+    {
+        "name": "redalert",
+        "captcha": false,
+        "parser": false,
+        "javascript_render": true,
+        "meta": null,
+        "locations": [
+            {
+                "fqdn": "blog2hkbm6gogpv2b3uytzi3bj5d5zmc4asbybumjkhuqhas355janyd.onion",
+                "title": null,
+                "version": 3,
+                "slug": "http://blog2hkbm6gogpv2b3uytzi3bj5d5zmc4asbybumjkhuqhas355janyd.onion",
+                "available": false,
+                "updated": null,
+                "lastscrape": "2021-05-01 00:00:00.000000"
+            }
+        ],
+        "profile": [
+            "https://www.bleepingcomputer.com/news/security/new-redalert-ransomware-targets-windows-linux-vmware-esxi-servers/"
+        ]
     }
 ]
