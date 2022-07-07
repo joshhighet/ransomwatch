@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-07-07 | [`lapostemobile.fr`](https://google.com/search?q=lapostemobile.fr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-07-07 | [`stm-com-tw`](https://google.com/search?q=stm-com-tw) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
 | 2022-07-07 | [`carnbrea.com.au`](https://google.com/search?q=carnbrea.com.au) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-07-07 | [`The Wiener Zeitung media group`](https://google.com/search?q=The+Wiener+Zeitung+media+group) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-06-12 | [`sanvitale.r`](https://google.com/search?q=sanvitale.r) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-06-11 | [`The University of Pisa`](https://google.com/search?q=The+University+of+Pisa) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-06-11 | [`ses`](https://google.com/search?q=ses) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-06-11 | [`Metek Plc`](https://google.com/search?q=Metek+Plc) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
