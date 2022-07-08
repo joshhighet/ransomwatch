@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-07-08 | [`acac.com`](https://google.com/search?q=acac.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-07-07 | [`OLYMPIA`](https://google.com/search?q=OLYMPIA) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2022-07-07 | [`lapostemobile.fr`](https://google.com/search?q=lapostemobile.fr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-07-07 | [`stm-com-tw`](https://google.com/search?q=stm-com-tw) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-06-12 | [`AFJCONSULTING.NET FILES PART10 - E\data\documents\QuickBooks\Company Files\ PUBLISHED`](https://google.com/search?q=AFJCONSULTING.NET+FILES+PART10+-+E%5Cdata%5Cdocuments%5CQuickBooks%5CCompany+Files%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-06-12 | [`slgienergy.com`](https://google.com/search?q=slgienergy.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-06-12 | [`sanvitale.r`](https://google.com/search?q=sanvitale.r) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-06-11 | [`The University of Pisa`](https://google.com/search?q=The+University+of+Pisa) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
