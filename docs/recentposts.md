@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-07-11 | [`Summit Care`](https://google.com/search?q=Summit+Care) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
+| 2022-07-11 | [`Uppco`](https://google.com/search?q=Uppco) | [lorenz](https://ransomwatch.telemetry.ltd/#/profiles?id=lorenz) |
 | 2022-07-11 | [`Pontal Engineering Constructions and Developments Files Leak`](https://google.com/search?q=Pontal+Engineering+Constructions+and+Developments+Files+Leak) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2022-07-11 | [`PSA`](https://google.com/search?q=PSA) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
 | 2022-07-11 | [`The Royal Commission for Riyadh City (RCRC)`](https://google.com/search?q=The+Royal+Commission+for+Riyadh+City+%28RCRC%29) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2022-06-13 | [`Grand Valley State University`](https://google.com/search?q=Grand+Valley+State+University) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2022-06-13 | [`etron`](https://google.com/search?q=etron) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
 | 2022-06-13 | [`ptg.com.au`](https://google.com/search?q=ptg.com.au) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-06-12 | [`Opal`](https://google.com/search?q=Opal) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
-| 2022-06-12 | [`SDZ Druck und Medien`](https://google.com/search?q=SDZ+Druck+und+Medien) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
