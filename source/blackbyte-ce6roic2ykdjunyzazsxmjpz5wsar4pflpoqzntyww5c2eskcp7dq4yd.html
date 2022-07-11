@@ -15,13 +15,13 @@
 
 
     <link href="https://fonts.googleapis.com/css?family=Playfair+Display:700,900" rel="stylesheet">
-    <link href="/blog.css?v=1657542001" rel="stylesheet">
+    <link href="/blog.css?v=1657548659" rel="stylesheet">
     <script src="/assets/js/jquery-2.1.3.min.js"></script>
 
     <script src="/assets/js/vendor/popper.min.js"></script>
     <script src="/dist/js/bootstrap.min.js"></script>
     <script src="/assets/js/vendor/holder.min.js"></script>
-    <script src="/script.js?v=1657542001"></script>
+    <script src="/script.js?v=1657548659"></script>
     <style>
 
 
@@ -431,6 +431,212 @@
 
         <script>
 
+            var proof_img_block27 = '<img src="" alt="" class="proof">';
+
+
+            function ShowProof27(){
+                if(showed27 === 0){
+                    showed27 = 1;
+                    $("#target_27 .proof_block").html(proof_img_block27).slideDown(400);
+                }else{
+                    showed27 = 0;
+                    $("#target_27 .proof_block").html(' ').slideUp(400);
+                }
+
+            }
+
+
+            function ShowDButtons27(){
+                if(showed_d_buttons27 === 0){
+                    showed_d_buttons27 = 1;
+                    $("#target_27 .d_buttons").slideDown(400);
+                }else{
+                    showed_d_buttons27 = 0;
+                    $("#target_27 .d_buttons").slideUp(400);
+                }
+
+            }
+
+
+            var showed27 = 0;
+            var showed_d_buttons27 = 0;
+            var HAPPYSEC27 = 1737542;
+            var t_sec27 = HAPPYSEC27;
+
+            var time27;
+            var intervalId27=0;
+
+
+            $(document).ready(function () {
+                $("#target_27 .d_buttons a.btn3").addClass("red_button");
+                intervalId27 = setInterval(function (){
+                    timerDecrement27();
+                }, 1000);
+            });
+
+
+            function timerDecrement27() {
+                time27 = $('#target_27 span.timer');
+
+                if(t_sec27 < 1){
+                    t_sec27 = 0;
+                    newTime = t_sec27 ;
+                }else{
+                    newTime = t_sec27 - 1;
+                }
+
+
+                t_sec27 = newTime;
+
+                var t_min = t_sec27 / 60;
+                var t_hour = t_min / 60;
+                var t_day =
+                    '<b>' + Math.floor(t_hour / 24) + '</b> day I ' +
+                    '<b>' + Math.floor(t_hour % 24) +'</b>:' +
+                    '<b>' + Math.floor(t_min % 60) +'</b>:' +
+                    '<b>' + Math.floor(t_sec27 % 60)+ '</b> ';
+
+                time27.html(t_day);
+
+
+
+                if(newTime === 0 && HAPPYSEC27 > 0 || newTime < 1){
+
+                    time27.html('');
+                    $("#target_27 .lock").attr("src","assets/img/lockopen.png");
+                    $("#target_27 .clock").attr("src","assets/img/clockred.png").addClass("clockred");
+                    $("#target_27 .btn2").addClass("redbg");
+                    $("#target_27 .arrow-8").addClass("r8");
+                    $("#target_27 .perc").html("100%");
+
+                    clearInterval(intervalId27);
+                    GetDownloadLink(27,$("#target_27 .redbg"));
+                }
+
+
+            }
+        </script>
+
+
+
+
+        <div  class="col-md-6 col-sm-12 bg-tar  " style="cursor: pointer" onclick="$('.desc_27').modal('show')">
+            <div class="col-md-10 px-0">
+                <div  class="logo-image">
+                                            <img src="assets/logo/red-logo.png" alt="" class="proof logo-color">
+                                        </div>
+
+                <h1 class="h_font">PSA</h1>
+                <div class="name-liean"></div>
+                <div class="name-liean2"></div>
+
+
+            </div>
+
+            <div class="col-md-2 px-0" >
+                                    <img src="assets/img/lock.png" alt="" class="color-lock lock">
+                    
+            </div>
+
+        </div>
+
+
+        <div class="modal desc_27" tabindex="-1"  id="target_27" >
+            <div class="modal-dialog  ">
+                <div class="modal-content modal_content_custom">
+                    <div id="modal_header" class="modal-header">
+                        <h5 class="modal-title font-italic">                                 <img src="assets/logo/red-logo.png" alt="" class="proof logo-color">
+                                </h5>
+                    </div>
+                    <div class="modal-body">
+                                                    <!--  <img src="assets/img/clock.png" alt="" class="clock">-->
+                            <div class="timer-div"><span  class="timer"></span></div>
+                            
+
+
+
+                        <div class="col-md-12 px-0">
+
+                            <div class="proof_block text-center"></div>
+
+
+                            <p class="lead_text my-3 pb-3" >As Aotearoa New Zealand's largest trade union, we represent and support more than 80,000 workers across central government, state-owned enterprises, local councils, health boards and community groups.
+                            </p>
+                        </div>
+
+                        <div class="col-md-12 row px-0  mt-4 mb-4 ml-0">
+                            <div class="col-md-3 text-center ">
+                                <p class="lead mb-0 squ">
+                    <span class="text-white font-weight-bold ">
+                        <i class="fa fa-users team-users" ></i>
+                    </span>
+                                    <br>
+                                    <span class="">?</span>
+                                </p>
+                            </div>
+                            <div class="col-md-3 text-center" onclick="GO('https://www.psa.org.nz/')">
+                                <p class="lead mb-0 squ"><span class="text-white font-weight-bold "><i class="fa fa-globe globe-users"></i></span><br>
+                                    <a href="javascript:" class="text-decoration-none web-color" >Web Site</a>
+                                </p>
+                            </div>
+
+                            <div class="col-md-3 text-center"><p class="lead mb-0 squ "><span class="text-white font-weight-bold "><i class="fa fa-dollar dollar-users"></i></span> <br>$ ? </p></div>
+                            <div class="col-md-3 text-center"><p class="lead mb-0 squ"><span class="text-white font-weight-bold"><i class="fa fa-phone phone-users" ></i></span><br>?</p></div>
+
+                        </div>
+
+                        <div class="col-md-12 row px-0 mt-5">
+                            <div class="col-md-12 text-center"></div>
+                            <div class="col-md-6">
+                                <p class="lead mb-0 text-white font-weight-bold" style="margin-top: 13px">
+
+                                </p>
+                            </div>
+                          <div class="btnred red-button"><div class="arrow-8"></div>
+
+                                                                <a href="javascript:"  class=" fre-btn btn btn2 legitRipple  " onclick="ShowDButtons27()">Download Free </a>
+                                  
+
+                          </div>
+
+
+
+                        </div>
+
+
+
+                    </div>
+                    <div id="modal_footer" class="modal-footer">
+                                                    <div class="col-md-12 text-center d_buttons" style="display: none">
+                                                                    <a href="https://anonfiles.com/VfM965wey7/Asst_Secs_rar"  target="_blank"  class=" btn btn3 legitRipple
+                            " style="margin-bottom: 3px">
+
+
+
+
+
+
+                                        download 230.87MB</a>
+                                                                        <a href="https://anonfiles.com/J6R56dw0y8/Nat_Secs_rar"  target="_blank"  class=" btn btn3 legitRipple
+                            " style="margin-bottom: 3px">
+
+
+
+
+
+
+                                        download 179.39MB</a>
+                                                                </div>
+                            
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+        
+        <script>
+
             var proof_img_block26 = '<img src="" alt="" class="proof">';
 
 
@@ -460,7 +666,7 @@
 
             var showed26 = 0;
             var showed_d_buttons26 = 0;
-            var HAPPYSEC26 = 1312200;
+            var HAPPYSEC26 = 1305542;
             var t_sec26 = HAPPYSEC26;
 
             var time26;
@@ -657,7 +863,7 @@
 
             var showed25 = 0;
             var showed_d_buttons25 = 0;
-            var HAPPYSEC25 = 1312200;
+            var HAPPYSEC25 = 1305542;
             var t_sec25 = HAPPYSEC25;
 
             var time25;
@@ -854,7 +1060,7 @@
 
             var showed24 = 0;
             var showed_d_buttons24 = 0;
-            var HAPPYSEC24 = 361800;
+            var HAPPYSEC24 = 355142;
             var t_sec24 = HAPPYSEC24;
 
             var time24;
@@ -1060,7 +1266,7 @@
 
             var showed23 = 0;
             var showed_d_buttons23 = 0;
-            var HAPPYSEC23 = -847800;
+            var HAPPYSEC23 = -854458;
             var t_sec23 = HAPPYSEC23;
 
             var time23;
@@ -1255,7 +1461,7 @@
 
             var showed22 = 0;
             var showed_d_buttons22 = 0;
-            var HAPPYSEC22 = -2635500;
+            var HAPPYSEC22 = -2642158;
             var t_sec22 = HAPPYSEC22;
 
             var time22;
@@ -1477,7 +1683,7 @@
 
             var showed21 = 0;
             var showed_d_buttons21 = 0;
-            var HAPPYSEC21 = -2635500;
+            var HAPPYSEC21 = -2642158;
             var t_sec21 = HAPPYSEC21;
 
             var time21;
@@ -1684,7 +1890,7 @@ https://anonfiles.com/n5O7o4hcyb/gob.pe_rar"  target="_blank"  class=" btn btn3 
 
             var showed20 = 0;
             var showed_d_buttons20 = 0;
-            var HAPPYSEC20 = -3326700;
+            var HAPPYSEC20 = -3333358;
             var t_sec20 = HAPPYSEC20;
 
             var time20;
@@ -1879,7 +2085,7 @@ https://anonfiles.com/n5O7o4hcyb/gob.pe_rar"  target="_blank"  class=" btn btn3 
 
             var showed19 = 0;
             var showed_d_buttons19 = 0;
-            var HAPPYSEC19 = -3326700;
+            var HAPPYSEC19 = -3333358;
             var t_sec19 = HAPPYSEC19;
 
             var time19;
@@ -2084,7 +2290,7 @@ The United Services Union was formed on 21 May 2003 following the merge between 
 
             var showed18 = 0;
             var showed_d_buttons18 = 0;
-            var HAPPYSEC18 = -3326700;
+            var HAPPYSEC18 = -3333358;
             var t_sec18 = HAPPYSEC18;
 
             var time18;
@@ -2279,7 +2485,7 @@ The United Services Union was formed on 21 May 2003 following the merge between 
 
             var showed17 = 0;
             var showed_d_buttons17 = 0;
-            var HAPPYSEC17 = -4536300;
+            var HAPPYSEC17 = -4542958;
             var t_sec17 = HAPPYSEC17;
 
             var time17;
@@ -2546,7 +2752,7 @@ The United Services Union was formed on 21 May 2003 following the merge between 
 
             var showed16 = 0;
             var showed_d_buttons16 = 0;
-            var HAPPYSEC16 = -4536300;
+            var HAPPYSEC16 = -4542958;
             var t_sec16 = HAPPYSEC16;
 
             var time16;
@@ -2742,7 +2948,7 @@ https://anonfiles.com/BeY0Z2Z1xc/mrspedag.com_zip"  target="_blank"  class=" btn
 
             var showed15 = 0;
             var showed_d_buttons15 = 0;
-            var HAPPYSEC15 = -4536300;
+            var HAPPYSEC15 = -4542958;
             var t_sec15 = HAPPYSEC15;
 
             var time15;
@@ -2937,7 +3143,7 @@ https://anonfiles.com/BeY0Z2Z1xc/mrspedag.com_zip"  target="_blank"  class=" btn
 
             var showed14 = 0;
             var showed_d_buttons14 = 0;
-            var HAPPYSEC14 = -6264300;
+            var HAPPYSEC14 = -6270958;
             var t_sec14 = HAPPYSEC14;
 
             var time14;
@@ -3132,7 +3338,7 @@ https://anonfiles.com/BeY0Z2Z1xc/mrspedag.com_zip"  target="_blank"  class=" btn
 
             var showed13 = 0;
             var showed_d_buttons13 = 0;
-            var HAPPYSEC13 = -6350700;
+            var HAPPYSEC13 = -6357358;
             var t_sec13 = HAPPYSEC13;
 
             var time13;
@@ -3354,7 +3560,7 @@ https://anonfiles.com/BeY0Z2Z1xc/mrspedag.com_zip"  target="_blank"  class=" btn
 
             var showed12 = 0;
             var showed_d_buttons12 = 0;
-            var HAPPYSEC12 = -6355200;
+            var HAPPYSEC12 = -6361858;
             var t_sec12 = HAPPYSEC12;
 
             var time12;
@@ -3553,7 +3759,7 @@ Over the years, MZ Architects have generated many significant projects, all unde
 
             var showed11 = 0;
             var showed_d_buttons11 = 0;
-            var HAPPYSEC11 = -6528000;
+            var HAPPYSEC11 = -6534658;
             var t_sec11 = HAPPYSEC11;
 
             var time11;
@@ -3776,7 +3982,7 @@ We only make food that we would be proud to feed our own pets, and we want to sh
 
             var showed10 = 0;
             var showed_d_buttons10 = 0;
-            var HAPPYSEC10 = -10502400;
+            var HAPPYSEC10 = -10509058;
             var t_sec10 = HAPPYSEC10;
 
             var time10;
@@ -3982,7 +4188,7 @@ and implementing best practices and providing medical approval for the import an
 
             var showed9 = 0;
             var showed_d_buttons9 = 0;
-            var HAPPYSEC9 = -11319600;
+            var HAPPYSEC9 = -11326258;
             var t_sec9 = HAPPYSEC9;
 
             var time9;
@@ -4195,7 +4401,7 @@ and implementing best practices and providing medical approval for the import an
 
             var showed8 = 0;
             var showed_d_buttons8 = 0;
-            var HAPPYSEC8 = -11578800;
+            var HAPPYSEC8 = -11585458;
             var t_sec8 = HAPPYSEC8;
 
             var time8;
@@ -4390,7 +4596,7 @@ and implementing best practices and providing medical approval for the import an
 
             var showed7 = 0;
             var showed_d_buttons7 = 0;
-            var HAPPYSEC7 = -11578800;
+            var HAPPYSEC7 = -11585458;
             var t_sec7 = HAPPYSEC7;
 
             var time7;
@@ -4585,7 +4791,7 @@ and implementing best practices and providing medical approval for the import an
 
             var showed6 = 0;
             var showed_d_buttons6 = 0;
-            var HAPPYSEC6 = -11578800;
+            var HAPPYSEC6 = -11585458;
             var t_sec6 = HAPPYSEC6;
 
             var time6;
@@ -4780,7 +4986,7 @@ and implementing best practices and providing medical approval for the import an
 
             var showed5 = 0;
             var showed_d_buttons5 = 0;
-            var HAPPYSEC5 = -11838000;
+            var HAPPYSEC5 = -11844658;
             var t_sec5 = HAPPYSEC5;
 
             var time5;
@@ -4975,7 +5181,7 @@ and implementing best practices and providing medical approval for the import an
 
             var showed4 = 0;
             var showed_d_buttons4 = 0;
-            var HAPPYSEC4 = -16676400;
+            var HAPPYSEC4 = -16683058;
             var t_sec4 = HAPPYSEC4;
 
             var time4;
@@ -5188,7 +5394,7 @@ and implementing best practices and providing medical approval for the import an
 
             var showed3 = 0;
             var showed_d_buttons3 = 0;
-            var HAPPYSEC3 = -16676400;
+            var HAPPYSEC3 = -16683058;
             var t_sec3 = HAPPYSEC3;
 
             var time3;
@@ -5410,7 +5616,7 @@ and implementing best practices and providing medical approval for the import an
 
             var showed2 = 0;
             var showed_d_buttons2 = 0;
-            var HAPPYSEC2 = -16676400;
+            var HAPPYSEC2 = -16683058;
             var t_sec2 = HAPPYSEC2;
 
             var time2;
@@ -5651,7 +5857,7 @@ https://anonfiles.com/n65624Mexe/petrolimex.com.vn.part3_rar"  target="_blank"  
 
             var showed1 = 0;
             var showed_d_buttons1 = 0;
-            var HAPPYSEC1 = -16676400;
+            var HAPPYSEC1 = -16683058;
             var t_sec1 = HAPPYSEC1;
 
             var time1;
