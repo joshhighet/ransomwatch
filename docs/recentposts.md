@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-07-11 | [`The Royal Commission for Riyadh City (RCRC)`](https://google.com/search?q=The+Royal+Commission+for+Riyadh+City+%28RCRC%29) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-07-11 | [`Bandai Namco`](https://google.com/search?q=Bandai+Namco) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-07-11 | [`Hydraelectric`](https://google.com/search?q=Hydraelectric) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-07-09 | [`PRICEDEX.COM FILES PART7 - 10.0.10.1\E$\Admin\Restored Files\From MGT03\ehollran\ PUBLISHE`](https://google.com/search?q=PRICEDEX.COM+FILES+PART7+-+10.0.10.1%5CE%24%5CAdmin%5CRestored+Files%5CFrom+MGT03%5Cehollran%5C+PUBLISHE) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-06-12 | [`SDZ Druck und Medien`](https://google.com/search?q=SDZ+Druck+und+Medien) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2022-06-12 | [`PRICEDEX.COM FILES PART3 - 10.0.100.48, 10.0.100.10, 10.0.10.19 PUBLISHED`](https://google.com/search?q=PRICEDEX.COM+FILES+PART3+-+10.0.100.48%2C+10.0.100.10%2C+10.0.10.19+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-06-12 | [`PERBIT.COM FILES PART5 - 10.182.179.241\C$\sbs_prbt_backup_cifs1_vol1\SQL Backup\ PUBLISHE`](https://google.com/search?q=PERBIT.COM+FILES+PART5+-+10.182.179.241%5CC%24%5Csbs_prbt_backup_cifs1_vol1%5CSQL+Backup%5C+PUBLISHE) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-06-12 | [`NEWCOURSECC.COM FILES PART4 - 10.168.0.7\G$\Shared\ PUBLISHED`](https://google.com/search?q=NEWCOURSECC.COM+FILES+PART4+-+10.168.0.7%5CG%24%5CShared%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
