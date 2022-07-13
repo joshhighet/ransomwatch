@@ -4,6 +4,14 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-07-13 | [`SANDO`](https://google.com/search?q=SANDO) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
+| 2022-07-13 | [`RTVCM`](https://google.com/search?q=RTVCM) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
+| 2022-07-13 | [`AdaptIT`](https://google.com/search?q=AdaptIT) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
+| 2022-07-13 | [`Exela Technologies`](https://google.com/search?q=Exela+Technologies) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
+| 2022-07-13 | [`APETITO`](https://google.com/search?q=APETITO) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
+| 2022-07-13 | [`GROUP4 AUSTRALIA`](https://google.com/search?q=GROUP4+AUSTRALIA) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
+| 2022-07-13 | [`Authentic Brands Group`](https://google.com/search?q=Authentic+Brands+Group) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
+| 2022-07-13 | [`Epec.PL - Lied about the absence of Leak`](https://google.com/search?q=Epec.PL+-+Lied+about+the+absence+of+Leak) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
 | 2022-07-13 | [`duda.com`](https://google.com/search?q=duda.com) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-07-12 | [`Podhurst Orseck`](https://google.com/search?q=Podhurst+Orseck) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-07-12 | [`American International Industries`](https://google.com/search?q=American+International+Industries) | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
@@ -196,11 +204,3 @@ _last `200` posts_
 | 2022-06-14 | [`YMCA`](https://google.com/search?q=YMCA) | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
 | 2022-06-14 | [`Purvis Industries`](https://google.com/search?q=Purvis+Industries) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-06-14 | [`M. Green and Company LLP`](https://google.com/search?q=M.+Green+and+Company+LLP) | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
-| 2022-06-14 | [`Medlab Pathology`](https://google.com/search?q=Medlab+Pathology) | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
-| 2022-06-14 | [`SHOPRITE HOLDINGS LTD`](https://google.com/search?q=SHOPRITE+HOLDINGS+LTD) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
-| 2022-06-14 | [`Metek PLC Files Leak`](https://google.com/search?q=Metek+PLC+Files+Leak) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
-| 2022-06-14 | [`Plainedge Public Schools`](https://google.com/search?q=Plainedge+Public+Schools) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2022-06-14 | [`SCHIFFMANS - HACKED AND DATA LEAKED`](https://google.com/search?q=SCHIFFMANS+-+HACKED+AND+DATA+LEAKED) | [lv](https://ransomwatch.telemetry.ltd/#/profiles?id=lv) |
-| 2022-06-14 | [`MOTOLUCLE.COM - HACKED AND DATA LEAKED`](https://google.com/search?q=MOTOLUCLE.COM+-+HACKED+AND+DATA+LEAKED) | [lv](https://ransomwatch.telemetry.ltd/#/profiles?id=lv) |
-| 2022-06-14 | [`theallison.com`](https://google.com/search?q=theallison.com) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2022-06-14 | [`Bernd Hösele Group`](https://google.com/search?q=Bernd+H%C3%B6sele+Group) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
