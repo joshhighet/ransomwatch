@@ -2811,7 +2811,7 @@
     {
         "name": "redalert",
         "captcha": false,
-        "parser": false,
+        "parser": true,
         "javascript_render": true,
         "meta": null,
         "locations": [
@@ -2832,7 +2832,7 @@
     {
         "name": "bianlian",
         "captcha": false,
-        "parser": false,
+        "parser": true,
         "javascript_render": true,
         "meta": null,
         "locations": [
@@ -2854,7 +2854,7 @@
     {
         "name": "0mega",
         "captcha": false,
-        "parser": false,
+        "parser": true,
         "javascript_render": false,
         "meta": null,
         "locations": [

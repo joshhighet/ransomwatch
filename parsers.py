@@ -717,3 +717,36 @@ def yanluowang():
         errlog('yanluowang: ' + 'parsing fail')
     for post in posts:
         appender(post, 'yanluowang')
+
+def omega():
+    stdlog('parser: ' + '0mega')
+    parser = '''
+    grep "<tr class='trow'>" -C 1 source/0mega-*.html | grep '<td>' | cut -d '>' -f 2 | cut -d '<' -f 1 | sort --uniq
+    '''
+    posts = runshellcmd(parser)
+    if len(posts) == 1:
+        errlog('0mega: ' + 'parsing fail')
+    for post in posts:
+        appender(post, '0mega')
+
+def bianlian():
+    stdlog('parser: ' + 'bianlian')
+    parser = '''
+    sed -n '/<a href="\/companies\//,/<\/a>/p' source/bianlian-*.html | egrep -o '([[:alnum:]]| |\.)+</a>' | cut -d '<' -f 1 | sed -e '/Contacts/d'
+    '''
+    posts = runshellcmd(parser)
+    if len(posts) == 1:
+        errlog('bianlian: ' + 'parsing fail')
+    for post in posts:
+        appender(post, 'bianlian')
+
+def redalert():
+    stdlog('parser: ' + 'redalert')
+    parser = '''
+    egrep -o '<h3>([[:alnum:]]| |\.)+</h3>' source/redalert-*.html | cut -d '>' -f 2 | cut -d '<' -f 1
+    '''
+    posts = runshellcmd(parser)
+    if len(posts) == 1:
+        errlog('redalert: ' + 'parsing fail')
+    for post in posts:
+        appender(post, 'redalert')
