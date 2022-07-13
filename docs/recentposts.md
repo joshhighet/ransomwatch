@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-07-13 | [`Van Ausdall & Farrar, inc`](https://google.com/search?q=Van+Ausdall+%26+Farrar%2C+inc) | [lorenz](https://ransomwatch.telemetry.ltd/#/profiles?id=lorenz) |
+| 2022-07-13 | [`Biothane usa`](https://google.com/search?q=Biothane+usa) | [lorenz](https://ransomwatch.telemetry.ltd/#/profiles?id=lorenz) |
+| 2022-07-13 | [`Gresco`](https://google.com/search?q=Gresco) | [lorenz](https://ransomwatch.telemetry.ltd/#/profiles?id=lorenz) |
 | 2022-07-13 | [`SANDO`](https://google.com/search?q=SANDO) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
 | 2022-07-13 | [`RTVCM`](https://google.com/search?q=RTVCM) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
 | 2022-07-13 | [`AdaptIT`](https://google.com/search?q=AdaptIT) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2022-06-14 | [`https://www.dgi...`](https://google.com/search?q=https%3A%2F%2Fwww.dgi...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-06-14 | [`gruppowasteital...`](https://google.com/search?q=gruppowasteital...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-06-14 | [`Shred Station`](https://google.com/search?q=Shred+Station) | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
-| 2022-06-14 | [`YMCA`](https://google.com/search?q=YMCA) | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
-| 2022-06-14 | [`Purvis Industries`](https://google.com/search?q=Purvis+Industries) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2022-06-14 | [`M. Green and Company LLP`](https://google.com/search?q=M.+Green+and+Company+LLP) | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
