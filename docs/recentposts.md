@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-07-13 | [`duda.com`](https://google.com/search?q=duda.com) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-07-12 | [`Podhurst Orseck`](https://google.com/search?q=Podhurst+Orseck) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-07-12 | [`American International Industries`](https://google.com/search?q=American+International+Industries) | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
 | 2022-07-11 | [`Summit Care`](https://google.com/search?q=Summit+Care) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-06-14 | [`MOTOLUCLE.COM - HACKED AND DATA LEAKED`](https://google.com/search?q=MOTOLUCLE.COM+-+HACKED+AND+DATA+LEAKED) | [lv](https://ransomwatch.telemetry.ltd/#/profiles?id=lv) |
 | 2022-06-14 | [`theallison.com`](https://google.com/search?q=theallison.com) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-06-14 | [`Bernd Hösele Group`](https://google.com/search?q=Bernd+H%C3%B6sele+Group) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2022-06-13 | [`Grand Valley State University`](https://google.com/search?q=Grand+Valley+State+University) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
