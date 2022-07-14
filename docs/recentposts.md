@@ -4,6 +4,12 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-07-14 | [`syredis.fr`](https://google.com/search?q=syredis.fr) | [redalert](https://ransomwatch.telemetry.ltd/#/profiles?id=redalert) |
+| 2022-07-14 | [`Mackenzie Medical`](https://google.com/search?q=Mackenzie+Medical) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2022-07-14 | [`Anderson Insurance Associates`](https://google.com/search?q=Anderson+Insurance+Associates) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2022-07-14 | [`High Power Technical Services`](https://google.com/search?q=High+Power+Technical+Services) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2022-07-14 | [`Mooresville Schools`](https://google.com/search?q=Mooresville+Schools) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2022-07-14 | [`Maxey Moverley`](https://google.com/search?q=Maxey+Moverley) | [0mega](https://ransomwatch.telemetry.ltd/#/profiles?id=0mega) |
 | 2022-07-13 | [`Van Ausdall & Farrar, inc`](https://google.com/search?q=Van+Ausdall+%26+Farrar%2C+inc) | [lorenz](https://ransomwatch.telemetry.ltd/#/profiles?id=lorenz) |
 | 2022-07-13 | [`Biothane usa`](https://google.com/search?q=Biothane+usa) | [lorenz](https://ransomwatch.telemetry.ltd/#/profiles?id=lorenz) |
 | 2022-07-13 | [`Gresco`](https://google.com/search?q=Gresco) | [lorenz](https://ransomwatch.telemetry.ltd/#/profiles?id=lorenz) |
@@ -198,9 +204,3 @@ _last `200` posts_
 | 2022-06-15 | [`dgi.gouv.ml`](https://google.com/search?q=dgi.gouv.ml) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-06-15 | [`RadiciGroup`](https://google.com/search?q=RadiciGroup) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2022-06-15 | [`Magnum`](https://google.com/search?q=Magnum) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
-| 2022-06-14 | [`medcoenergi.com`](https://google.com/search?q=medcoenergi.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-06-14 | [`genusplc.com`](https://google.com/search?q=genusplc.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-06-14 | [`enclosuresoluti`](https://google.com/search?q=enclosuresoluti) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-06-14 | [`https://www.dgi...`](https://google.com/search?q=https%3A%2F%2Fwww.dgi...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-06-14 | [`gruppowasteital...`](https://google.com/search?q=gruppowasteital...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-06-14 | [`Shred Station`](https://google.com/search?q=Shred+Station) | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
