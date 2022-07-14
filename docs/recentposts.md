@@ -4,6 +4,11 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-07-14 | [`frederickco.gov`](https://google.com/search?q=frederickco.gov) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2022-07-14 | [`Behavioral Health System`](https://google.com/search?q=Behavioral+Health+System) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
+| 2022-07-14 | [`FMT`](https://google.com/search?q=FMT) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
+| 2022-07-14 | [`CITY-FURNITURE`](https://google.com/search?q=CITY-FURNITURE) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
+| 2022-07-14 | [`RALLYE-DOM`](https://google.com/search?q=RALLYE-DOM) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
 | 2022-07-14 | [`genusplc.com`](https://google.com/search?q=genusplc.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-07-14 | [`ZEUS Scientific`](https://google.com/search?q=ZEUS+Scientific) | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
 | 2022-07-14 | [`vlp.nl`](https://google.com/search?q=vlp.nl) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -199,8 +204,3 @@ _last `200` posts_
 | 2022-06-17 | [`keisei-`](https://google.com/search?q=keisei-) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-06-17 | [`https://www.tb-...`](https://google.com/search?q=https%3A%2F%2Fwww.tb-...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-06-17 | [`http://www.lund...`](https://google.com/search?q=http%3A%2F%2Fwww.lund...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-06-17 | [`bestatt`](https://google.com/search?q=bestatt) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-06-16 | [`RG Alliance Group`](https://google.com/search?q=RG+Alliance+Group) | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
-| 2022-06-16 | [`bestattung-`](https://google.com/search?q=bestattung-) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-06-16 | [`ardebolassessor`](https://google.com/search?q=ardebolassessor) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-06-15 | [`Novelty Group`](https://google.com/search?q=Novelty+Group) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
