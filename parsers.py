@@ -478,7 +478,7 @@ def lv():
     # %s "blog-post-title.*?</a>" source/lv-rbvuetun*.html | cut -d '>' -f 3 | cut -d '<' -f 1
     parser = '''
     jq -r '.posts[].title' source/lv-rbvuetun*.html | sed -e 's/^ *//g' -e 's/[[:space:]]*$//'
-    ''' % (fancygrep)
+    '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
         errlog('lv: ' + 'parsing fail')
