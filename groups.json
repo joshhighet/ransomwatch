@@ -114,7 +114,7 @@
                 "fqdn": "rbvuetuneohce3ouxjlbxtimyyxokb4btncxjbo44fbgxqy7tskinwad.onion",
                 "title": "LV Blog",
                 "version": 3,
-                "slug": "http://rbvuetuneohce3ouxjlbxtimyyxokb4btncxjbo44fbgxqy7tskinwad.onion/",
+                "slug": "http://rbvuetuneohce3ouxjlbxtimyyxokb4btncxjbo44fbgxqy7tskinwad.onion/api/posts/1",
                 "available": true,
                 "updated": "2022-07-14 06:22:01.086425",
                 "lastscrape": "2022-07-14 06:22:01.086411"
@@ -275,7 +275,8 @@
         ],
         "profile": [
             "http://t.me/arvin_club",
-            "https://sosintel.co.uk/a-special-investigation-exposing-a-ransomware-groups-clear-web-ip-and-their-duplicate-identities/"
+            "https://sosintel.co.uk/a-special-investigation-exposing-a-ransomware-groups-clear-web-ip-and-their-duplicate-identities/",
+            "D6164C90642CD93D9D3F353511B4BDBD1428309C90CDE13D3D7088AA5BE3010A52E485834E84"
         ]
     },
     {

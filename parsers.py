@@ -150,8 +150,9 @@ def lockbit2desc():
 
 def arvinclub():
     stdlog('parser: ' + 'arvinclub')
+    # grep 'bookmark' source/arvinclub-*.html --no-filename | cut -d ">" -f3 | cut -d "<" -f1
     parser = '''
-    grep 'bookmark' source/arvinclub-*.html --no-filename | cut -d ">" -f3 | cut -d "<" -f1
+    grep 'rel="bookmark">' source/arvinclub-*.html -C 1 | grep '</a>' | sed 's/^[^[:alnum:]]*//' | cut -d '<' -f 1 | sed -e 's/^ *//g' -e 's/[[:space:]]*$//'
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
@@ -474,8 +475,9 @@ def atomsilo():
         
 def lv():
     stdlog('parser: ' + 'lv')
+    # %s "blog-post-title.*?</a>" source/lv-rbvuetun*.html | cut -d '>' -f 3 | cut -d '<' -f 1
     parser = '''
-    %s "blog-post-title.*?</a>" source/lv-rbvuetun*.html | cut -d '>' -f 3 | cut -d '<' -f 1
+    jq -r '.posts[].title' source/lv-rbvuetun*.html | sed -e 's/^ *//g' -e 's/[[:space:]]*$//'
     ''' % (fancygrep)
     posts = runshellcmd(parser)
     if len(posts) == 1:
