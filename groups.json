@@ -2609,7 +2609,7 @@
         "name": "lockbit3",
         "captcha": false,
         "parser": true,
-        "javascript_render": false,
+        "javascript_render": true,
         "meta": null,
         "locations": [
             {
