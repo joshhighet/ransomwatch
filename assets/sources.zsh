@@ -15,6 +15,15 @@ if [ ! -d assets/tmp ]; then
     mkdir assets/tmp
 fi
 
+dnet_tgram=`curl -s --socks5-hostname localhost:9050 lpnxgtkni46pngdg4pml47hvxg2xqdcrd7z2f5oysyuialodho6g34yd.onion -H 'User-Agent: '${random_useragent}''`
+if [ $? -ne 0 ]; then
+    echo "failed to fetch from telegram:dbforall"
+    exit 1
+fi
+echo ${dnet_tgram} | sed -E -e 's_.*://([^/@]*@)?([^/:]+).*_\2_' | grep onion | cut -d '"' -f 1 > assets/tmp/sources.dnet_tgram
+dnet_tgram_count=`cat assets/tmp/sources.dnet_tgram | wc -w | awk '{$1=$1};1'`
+echo "${dnet_tgram_count} | telegram:dbforall"
+
 googlesheCZJ=`curl -s 'https://docs.google.com/spreadsheets/d/1cH4KCZJvggoHPAbk0u08Wu1vSo9ygx47QfhKD-W0TQ0/gviz/tq?tqx=out:csv' -H 'User-Agent: '${random_useragent}''`
 if [ $? -ne 0 ]; then
     echo "failed to fetch from googlesheets:1cH4KCZJ"
