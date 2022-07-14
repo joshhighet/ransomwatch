@@ -48,7 +48,8 @@ def main(webpage):
         stdlog('chromium: ' + 'fetching webpage')
         driver.get(webpage)
         sleeptz = 5
-        if 'lockbitapt3' in webpage:
+        if 'lockbitapt' in webpage:
+            stdlog('chromium: ' + 'appears to be a lockbit site, giving extra loadtime')
             time.sleep(20)
         stdlog('chromium: ' + 'waiting ' + str(sleeptz) + ' seconds to render elements')
         time.sleep(sleeptz)

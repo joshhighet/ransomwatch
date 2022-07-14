@@ -701,7 +701,7 @@ def cheers():
 def lockbit3():
     stdlog('parser: ' + 'lockbit3')
     parser = '''
-    grep '<div class="post-title">' source/lockbit3-lockbitapt3*.html -C 1 | grep '</div>' | cut -d '<' -f 1 | sed -e 's/^ *//g' -e 's/[[:space:]]*$//'
+    grep '<div class="post-title">' source/lockbit3-*.html -C 1 --no-filename | grep '</div>' | cut -d '<' -f 1 | sed -e 's/^ *//g' -e 's/[[:space:]]*$//' | sort --uniq
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
