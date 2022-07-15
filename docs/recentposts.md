@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-07-15 | [`vahanen.com`](https://google.com/search?q=vahanen.com) | [redalert](https://ransomwatch.telemetry.ltd/#/profiles?id=redalert) |
 | 2022-07-14 | [`Rain the Growth Agency`](https://google.com/search?q=Rain+the+Growth+Agency) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2022-07-14 | [`Duda Farm Fresh Foods  A. Duda & Sons , Inc.  Duda  A. Duda & Sons  Duda Farm Fresh Foods `](https://google.com/search?q=Duda+Farm+Fresh+Foods++A.+Duda+%26+Sons+%2C+Inc.++Duda++A.+Duda+%26+Sons++Duda+Farm+Fresh+Foods+) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-07-14 | [`Unisuper S.A.`](https://google.com/search?q=Unisuper+S.A.) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-06-18 | [`vectorinf.com.b...`](https://google.com/search?q=vectorinf.com.b...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-06-18 | [`tb-kawashima.co...`](https://google.com/search?q=tb-kawashima.co...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-06-18 | [`lundinroof.com`](https://google.com/search?q=lundinroof.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-06-18 | [`SOCOTEC`](https://google.com/search?q=SOCOTEC) | [suncrypt](https://ransomwatch.telemetry.ltd/#/profiles?id=suncrypt) |
