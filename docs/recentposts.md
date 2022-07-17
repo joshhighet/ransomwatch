@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-07-17 | [`sig.id`](https://google.com/search?q=sig.id) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-07-16 | [`ISGEC Heavy Engineering`](https://google.com/search?q=ISGEC+Heavy+Engineering) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2022-07-16 | [`VERITAS Solicitors`](https://google.com/search?q=VERITAS+Solicitors) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2022-07-16 | [`Conway Electrics`](https://google.com/search?q=Conway+Electrics) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-06-20 | [`emprint.com`](https://google.com/search?q=emprint.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-06-20 | [`acac.com`](https://google.com/search?q=acac.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-06-19 | [`optoma`](https://google.com/search?q=optoma) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-06-18 | [`PRICEDEX.COM FILES PART4 - 10.0.10.1\E$\Admin\Restored Files\From MGT03\ PUBLISHED`](https://google.com/search?q=PRICEDEX.COM+FILES+PART4+-+10.0.10.1%5CE%24%5CAdmin%5CRestored+Files%5CFrom+MGT03%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
