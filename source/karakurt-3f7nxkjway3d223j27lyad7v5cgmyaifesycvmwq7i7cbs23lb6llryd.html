@@ -1,1 +1,657 @@
-<head></head><body></body>
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>Auction</title>
+  <meta name="csrf-param" content="authenticity_token">
+<meta name="csrf-token" content="PF7EkQU455luFYq15Hx_5KGQYxZjgHzr-3vWxeIsq7BZwkUPq42Qe1x_dFiAg7F70JJXjL3SkbGPhRtO1FLbWQ">
+  
+  <link rel="stylesheet" media="all" href="/assets/pub/application-de180e5972f1c05b45048439deb8f74e832425561a3b1a1a8fb7552d8b4fa3f7.css">
+  <script src="/assets/pub/application-9fe5a6cbdd750ecdbb1cd17b3d260a4c24b8369f5982e63ddc8e91aa3bb3b00f.js"></script>
+
+  <style>
+      .ml-1 {
+          margin-left: .25rem !important;
+      }
+      .ml-2 {
+          margin-left: .5rem !important;
+      }
+      .big-page-caption {
+          margin-bottom: 40px;
+      }
+      .post-meta {
+          margin-bottom: 5px;
+      }
+      .progress {
+          height: 22px;
+          border-radius: 0;
+          background-color: #fff;
+          -webkit-box-shadow: none;
+          box-shadow: none;
+          border: 1px solid #000;
+      }
+
+      .progress-bar-dark {
+          background-color: #000;
+      }
+
+      .progress-striped .progress-bar, .progress-bar-striped {
+          background-image: -webkit-linear-gradient(-45deg, rgba(255, 255, 255, .15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, .25) 50%, rgba(255, 255, 255, .25) 75%, transparent 75%, transparent);
+          background-image: -o-linear-gradient(-45deg, rgba(255, 255, 255, .15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, .25) 50%, rgba(255, 255, 255, .25) 75%, transparent 75%, transparent);
+          background-image: linear-gradient(-45deg, rgba(255, 255, 255, .15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, .25) 50%, rgba(255, 255, 255, .25) 75%, transparent 75%, transparent);
+          -webkit-background-size: 40px 40px;
+          background-size: 40px 40px;
+          font-size: 13px;
+      }
+
+      .btn-read-more {
+          line-height: 40px;
+          padding: 0 20px;
+          font-family: "Oswald", serif;
+          letter-spacing: 2px;
+      }
+
+      .post-footer a.btn-read-more {
+          text-transform: uppercase;
+          margin: 10px 0 0 0;
+          text-align: center;
+          border: 1px solid #111;
+          color: #111;
+          background-color: transparent;
+      }
+
+      .post-footer a.btn-read-more:hover {
+          background-color: #111;
+          color: #fff;
+          border: 1px solid #111;
+      }
+
+      .btn-expand:hover {
+          border: none;
+          background-color: #ca2026;
+          color: #fff;
+      }
+
+      .btn-expand {
+          border: 1px dashed #111;
+          color: #111;
+          text-transform: uppercase;
+          font-size: 11px;
+          letter-spacing: 3px;
+          padding: 0 10px;
+      }
+
+      .post-footer {
+          margin-top: 15px;
+      }
+
+      .grids {
+          margin: 0 -15px;
+      }
+
+      .category-list-post.category-list-post-two li > div {
+          border-top: 1px solid #eee;
+      }
+
+      .category-mid-post-two > .post-meta {
+          margin-top: 5px;
+      }
+
+      .post-title {
+          white-space: nowrap;
+          overflow: hidden;
+          text-overflow: ellipsis;
+      }
+
+      .company-address {
+          border-bottom: 1px dotted;
+          padding-bottom: 10px;
+          white-space: nowrap;
+          overflow: hidden;
+          text-overflow: ellipsis;
+      }
+
+      .published-state {
+          padding-left: 7px;
+          padding-right: 7px;
+          background-color: #111;
+          color: #fff;
+          font-size: 11px;
+          font-family: SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace;
+      }
+
+      .pre-release .progress {
+          position: relative;
+      }
+
+      .pre-release .progress span {
+          position: absolute;
+          display: block;
+          width: 100%;
+          color: black;
+          font-family: SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace;
+          font-size: 11px;
+      }
+
+      .pre-release .post-thumb {
+          position: relative;
+          overflow: hidden;
+      }
+
+      .pre-release .post-thumb .sale {
+          position: absolute;
+          top: 10px;
+          right: 0;
+          display: inline-block;
+          padding: 1px 5px 1px 10px;
+          z-index: 9;
+          background-color: #ca2026;
+          color: #fff;
+          text-align: right;
+          font-size: 12px;
+          font-family: "Oswald", serif;
+          text-transform: uppercase;
+          letter-spacing: 2px;
+          line-height: 20px;
+      }
+
+      .pre-release .post-thumb .sale-fire {
+          position: absolute;
+          top: 2px;
+          right: 250px;
+          display: inline-block;
+          padding: 1px 5px 1px 10px;
+          z-index: 9;
+          font-size: 40px;
+      }
+
+      .grid-item, .grids-outer {
+          padding: 15px !important;
+      }
+
+      .grids-small .grid-item {
+          margin-bottom: 20px;
+      }
+
+      .dark-mode {
+          /*padding: 10px;*/
+      }
+
+      .dark-mode,
+      .dark-mode .post-des p {
+          background-color: #131313;
+          color: #fcfcfc;
+      }
+
+      .dark-mode .post-meta .post-category a:hover {
+          color: #fcfcfc;
+      }
+
+      .dark-mode .post-title {
+          border-bottom: 2px solid #ca2026;
+          color: #ca2026;
+      }
+
+      .dark-mode .btn-expand:hover {
+          border: none;
+          background-color: #ca2026;
+          color: #fff;
+      }
+
+      .dark-mode .btn-expand {
+          border: 1px dashed #fcfcfc;
+          color: #fcfcfc;
+      }
+
+      .dark-mode .ciz-post .post-footer a.btn-read-more:hover {
+          background-color: #fcfcfc;
+          color: #131313;
+          border: 1px solid #fcfcfc;
+      }
+
+      .dark-mode .ciz-post .post-footer a.btn-read-more {
+          border: 1px solid #fcfcfc;
+          background-color: #131313;
+          color: #fcfcfc;
+      }
+
+      .dark-mode .progress {
+          background-color: #131313;
+          border: 1px solid #fcfcfc;
+      }
+
+      .dark-mode .progress-striped .progress-bar, .dark-mode .progress-bar-striped {
+          background-image: -webkit-linear-gradient(-45deg, rgba(17, 17, 17, .15) 25%, transparent 25%, transparent 50%, rgba(17, 17, 17, .25) 50%, rgba(17, 17, 17, .25) 75%, transparent 75%, transparent);
+          background-image: -o-linear-gradient(-45deg, rgba(17, 17, 17, .15) 25%, transparent 25%, transparent 50%, rgba(17, 17, 17, .25) 50%, rgba(17, 17, 17, .25) 75%, transparent 75%, transparent);
+          background-image: linear-gradient(-45deg, rgba(17, 17, 17, .15) 25%, transparent 25%, transparent 50%, rgba(17, 17, 17, .25) 50%, rgba(17, 17, 17, .25) 75%, transparent 75%, transparent);
+          color: #131313;
+      }
+
+      .dark-mode .progress-bar-dark {
+          background-color: #fcfcfc;
+      }
+
+      .pre-release .dark-mode .progress span {
+          color: #fcfcfc;
+      }
+
+      a.logo > img {
+          width: 50%;
+      }
+
+      .ml-1 {
+          margin-left: .25rem !important;
+      }
+      .ml-2 {
+          margin-left: .5rem !important;
+      }
+      .big-page-caption {
+          margin-bottom: 40px;
+      }
+      .post-meta {
+          margin-bottom: 5px;
+      }
+      .progress {
+          height: 22px;
+          border-radius: 0;
+          background-color: #fff;
+          -webkit-box-shadow: none;
+          box-shadow: none;
+          border: 1px solid #000;
+      }
+
+      .progress-bar-dark {
+          background-color: #000;
+      }
+
+      .progress-striped .progress-bar, .progress-bar-striped {
+          background-image: -webkit-linear-gradient(-45deg, rgba(255, 255, 255, .15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, .25) 50%, rgba(255, 255, 255, .25) 75%, transparent 75%, transparent);
+          background-image: -o-linear-gradient(-45deg, rgba(255, 255, 255, .15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, .25) 50%, rgba(255, 255, 255, .25) 75%, transparent 75%, transparent);
+          background-image: linear-gradient(-45deg, rgba(255, 255, 255, .15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, .25) 50%, rgba(255, 255, 255, .25) 75%, transparent 75%, transparent);
+          -webkit-background-size: 40px 40px;
+          background-size: 40px 40px;
+      }
+
+      .btn-read-more {
+          line-height: 40px;
+          padding: 0 20px;
+          font-family: "Oswald", serif;
+          letter-spacing: 2px;
+      }
+      .post-footer a.btn-read-more {
+          text-transform: uppercase;
+          margin: 10px 0 0 0;
+          text-align: center;
+          border: 1px solid #111;
+          color: #111;
+          background-color: transparent;
+      }
+
+      .post-footer a.btn-read-more:hover {
+          background-color: #111;
+          color: #fff;
+          border: 1px solid #111;
+      }
+
+      .btn-expand:hover {
+          border: none;
+          background-color: #ca2026;
+          color: #fff;
+      }
+
+      .btn-expand {
+          border: 1px dashed #111;
+          color: #111;
+          text-transform: uppercase;
+          font-size: 11px;
+          letter-spacing: 3px;
+          padding: 0 10px;
+      }
+
+      .post-footer {
+          margin-top: 15px;
+      }
+
+      .grids {
+          margin: 0 -15px;
+      }
+
+      .category-list-post.category-list-post-two li > div {
+          border-top: 1px solid #eee;
+      }
+
+      .category-mid-post-two > .post-meta {
+          margin-top: 5px;
+      }
+
+      .published-state {
+          padding-left: 7px;
+          padding-right: 7px;
+          background-color: #111;
+          color: #fff;
+          font-size: 11px;
+          font-family: SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace;
+      }
+
+      .pre-release .progress {
+          position: relative;
+      }
+
+      .pre-release .progress span {
+          position: absolute;
+          display: block;
+          width: 100%;
+          color: black;
+          font-family: SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace;
+          font-size: 11px;
+      }
+
+      .pre-release .post-thumb {
+          position: relative;
+          overflow: hidden;
+      }
+
+      .pre-release .post-thumb .sale {
+          position: absolute;
+          top: 10px;
+          right: 0;
+          display: inline-block;
+          padding: 1px 5px 1px 10px;
+          z-index: 9;
+          background-color: #ca2026;
+          color: #fff;
+          text-align: right;
+          font-size: 12px;
+          font-family: "Oswald", serif;
+          text-transform: uppercase;
+          letter-spacing: 2px;
+          line-height: 20px;
+      }
+
+      .progress {
+          position: relative;
+          margin-bottom: 10px;
+      }
+      .progress span {
+          position: absolute;
+          display: block;
+          width: 100%;
+          color: black;
+          font-family: SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace;
+          font-size: 11px;
+      }
+
+      .list-tags {
+          margin-bottom: 20px;
+      }
+
+      .list-tags a {
+          font-size: 12px;
+          margin: 0;
+      }
+
+      .list-tags a > i {
+          margin-right: 5px;
+      }
+
+      .list-tags a.active {
+          background-color: #111;
+          color: #fff;
+      }
+
+      .shopbar {
+          margin: 0 0 5px 0;
+      }
+
+      .cart-table tr td {
+          border: none !important;
+          padding: 0;
+          vertical-align: middle !important;
+          font-family: "Oswald", serif;
+          text-transform: none;
+      }
+
+      table.cart-table a:hover {
+          color: #ca2026;
+      }
+
+      .action-buttons a.i {
+          margin-right: 5px;
+      }
+
+      .action-buttons a {
+          font-family: "Oswald", serif;
+          letter-spacing: 2px;
+          font-size: 14px;
+          line-height: 25px;
+          text-transform: uppercase;
+          display: inline-block;
+          padding: 0 0 0 30px;
+          text-align: right;
+      }
+
+      .action-buttons a:hover {
+          color: #ca2026;
+      }
+
+      .tags-three {
+          padding-top: 10px;
+      }
+
+      .shopbar .sortby {
+          float: left;
+      }
+
+      .shopbar h3 {
+          margin-left: 10px;
+      }
+
+      .box-search-sidebar {
+          margin-bottom: 0;
+          padding-bottom: 0;
+          height: 25px;
+          font-family: "Oswald", serif;
+          font-size: 13px;
+      }
+
+      .box-search-sidebar input[type="search"] {
+          height: 25px;
+          text-transform: none;
+      }
+
+      .box-search-sidebar button, .box-search-sidebar input[type="submit"] {
+          height: 25px;
+      }
+
+      .pagination {
+          background-color: #111;
+          border-radius: 0;
+          line-height: 30px;
+          font-family: "Oswald", serif;
+          font-size: 15px;
+          color: #fff;
+          min-width: 25px;
+          padding: 0 5px;
+          text-transform: uppercase;
+      }
+
+      .pagination > em.current {
+          background-color: #fff;
+          color: #111;
+          font-style: normal;
+          padding: 1px 10px;
+      }
+
+      .pagination > a, .pagination > span.previous_page, .pagination > span.next_page {
+          margin: 0 10px;
+          line-height: 30px;
+          font-family: "Oswald", serif;
+          font-size: 15px;
+          color: #fff;
+          min-width: 25px;
+          padding: 0 5px;
+          text-transform: uppercase;
+      }
+
+      .message-result {
+          display: none;
+          font-size: 14px;
+          padding: 10px;
+          background-color: #111;
+          color: #fff;
+          text-align: center;
+          font-family: SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace;
+      }
+
+  </style>
+
+</head>
+<body>
+
+<nav class="menu-res hidden-lg hidden-md ">
+  <div class="menu-res-inner">
+    <ul>
+      <li class="menu-item-has-children">
+        <a href="/">Home</a>
+      </li>
+      <li class="menu-item-has-children">
+        <a href="/auction">Auction</a>
+      </li>
+      <li class="menu-item-has-children">
+        <a href="/press_releases">News</a>
+      </li>
+      <li class="menu-item-has-children">
+        <a href="/about">About</a>
+      </li>
+      <li class="menu-item-has-children">
+        <a href="/contact_us">Contact us</a>
+      </li>
+    </ul>
+  </div>
+</nav>
+<div class="page">
+  <div class="mobile-bar hidden-lg hidden-md">
+    <div class="menu-icon-mobile hidden-lg hidden-md">
+      <i class="fa fa-navicon"></i>
+      <span>MENU</span>
+    </div>
+    <div class="search-icon-mobile">
+      <i class="fa fa-search"></i>
+    </div>
+    <div class="search-box-mobile">
+      <form>
+        <input type="search" value="" placeholder="Begin typing..." class="txt-search">
+      </form>
+    </div>
+  </div>
+  <div class="logo-show">
+    <a class="logo" href="/">
+      <img src="/assets/logo-1070ade555e9e191a18573a2095cc8965f3e47abe5501e57b591e4ecf96a29d5.jpg">
+</a>  </div>
+  <nav class="menu-main menu-show hidden-sm hidden-xs">
+    <div class="menu-main-inner">
+      <ul class="hidden-sm hidden-xs">
+        <li class="menu-item-has-children">
+          <a href="/"><i class="fa fa-home"></i> Home </a>
+        </li>
+        <li class="menu-item-has-children">
+          <a href="/auction">Auction</a>
+        </li>
+        <li class="menu-item-has-children">
+          <a href="/press_releases">News</a>
+        </li>
+        <li class="menu-item-has-children">
+          <a href="/about">About</a>
+        </li>
+        <li class="menu-item-has-children">
+          <a href="/contact_us">Contact us</a>
+        </li>
+      </ul>
+      <div class="search-icon">
+        <i class="fa fa-search"></i>
+      </div>
+      <div class="search-box">
+        <form>
+          <input type="search" value="" placeholder="Begin typing..." class="txt-search">
+        </form>
+      </div>
+    </div>
+  </nav>
+
+  
+<div class="wrapper">
+  <div class="wrap">
+    <div class="big-page-caption">
+      <p>Auction</p>
+    </div>
+
+    <div class="detail-page">
+      <article class="detail">
+        <p>If you are interested on our data auctions - you should visit CONTACT US page and fill the contact form, so we will contact you to discuss further.</p>
+
+      </article>
+    </div>
+  </div>
+</div>
+
+  <footer class="footer">
+    <a class="logo" href="/">
+      <img src="/assets/logo-1070ade555e9e191a18573a2095cc8965f3e47abe5501e57b591e4ecf96a29d5.jpg">
+</a>
+    <div class="footer-bar">
+      <div class="allright">
+        <p> All rights reserved. Designed by Sandra Bullock</p>
+      </div>
+      <div class="clearfix"></div>
+    </div>
+  </footer>
+</div>
+
+<span class="totop">Go to <em>TOP</em></span>
+
+<script>
+    $(function () {
+        $("article.ciz-post").on({
+            mouseenter: function () {
+                $(this).parent().addClass('dark-mode');
+            },
+            mouseleave: function () {
+                $(this).parent().removeClass('dark-mode');
+            }
+        });
+
+        $('body').on('click', 'a.btn-expand', function(event) {
+            event.preventDefault();
+            $(this).prev("span").toggleClass('hide');
+
+            if($(this).text() === 'expand') {
+                $(this).text('collapse');
+            } else {
+                $(this).text('expand');
+            }
+
+            return false;
+        });
+    });
+</script>
+
+<style>
+    div.is-loading{position:absolute;background:rgba(194,5,5,.9);color:#fff;font-size:13px;width:90px;height:20px;font-family:monospace;padding-left:5px;padding-top:1px;padding-bottom:2px;z-index:999999;}
+</style>
+<div class="is-loading" style="display: none;">Loading...</div>
+
+<script type="text/javascript">
+    $(document).ajaxStart(function() {
+        $(document).on('mousemove', function(e) {
+            $('div.is-loading').show();
+            $('div.is-loading').css('top', e.pageY + 10);
+            $('div.is-loading').css('left', e.pageX + 10);
+        });
+    }).ajaxStop(function() {
+        $('div.is-loading').hide();
+        $(document).off('mousemove');
+    });
+</script>
+
+</body>
