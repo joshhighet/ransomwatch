@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-07-18 | [`bizframe.co.za`](https://google.com/search?q=bizframe.co.za) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-07-18 | [`integrate.ch`](https://google.com/search?q=integrate.ch) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-07-18 | [`aresfoods.ca`](https://google.com/search?q=aresfoods.ca) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-07-18 | [`An British Financial Company -Unpay`](https://google.com/search?q=An+British+Financial+Company+-Unpay) | [cheers](https://ransomwatch.telemetry.ltd/#/profiles?id=cheers) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-06-21 | [`sigma-alimentos...`](https://google.com/search?q=sigma-alimentos...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-06-21 | [`farmaciacirici....`](https://google.com/search?q=farmaciacirici....) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-06-21 | [`agricolaandrea....`](https://google.com/search?q=agricolaandrea....) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-06-20 | [`business.gov.om`](https://google.com/search?q=business.gov.om) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
