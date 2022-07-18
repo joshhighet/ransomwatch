@@ -28,7 +28,6 @@ def main(webpage):
     options = Options()
     options.headless = True
     options.set_preference('dom.max_script_run_time', 15)
-    options.add_argument("start-maximized")
     options.accept_untrusted_certs = True
     options.set_preference('network.http.timeout', 20000)
     options.set_preference("general.useragent.override", randomagent())

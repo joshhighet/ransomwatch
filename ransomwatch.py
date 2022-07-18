@@ -13,10 +13,10 @@ from datetime import datetime
 # local imports
 
 import parsers
+import geckodrive
 #########################################################
-# import geckodrive
 # ref https://github.com/joshhighet/ransomwatch/issues/22
-import chromium as geckodrive
+# import chromium as geckodrive
 #########################################################
 from markdown import main as markdown
 
