@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-07-19 | [`.com`](https://google.com/search?q=.com) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2022-07-19 | [`cristianaspinecenter.com`](https://google.com/search?q=cristianaspinecenter.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-07-19 | [`crbrandsinc.com`](https://google.com/search?q=crbrandsinc.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-07-19 | [`rovagnati.it`](https://google.com/search?q=rovagnati.it) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-06-22 | [`Reed Pope Law`](https://google.com/search?q=Reed+Pope+Law) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-06-22 | [`BAHRA ELECTRIC - HACKED AND MORE THEN 800 GB DATA LEAKED`](https://google.com/search?q=BAHRA+ELECTRIC+-+HACKED+AND+MORE+THEN+800+GB+DATA+LEAKED) | [lv](https://ransomwatch.telemetry.ltd/#/profiles?id=lv) |
 | 2022-06-22 | [`Matco Electric`](https://google.com/search?q=Matco+Electric) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2022-06-22 | [`PT Astra Honda Motor`](https://google.com/search?q=PT+Astra+Honda+Motor) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
