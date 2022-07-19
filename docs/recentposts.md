@@ -4,6 +4,12 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-07-19 | [`rovagnati.it`](https://google.com/search?q=rovagnati.it) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2022-07-19 | [`madcoenergi.com`](https://google.com/search?q=madcoenergi.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2022-07-19 | [`fedefarma.com`](https://google.com/search?q=fedefarma.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2022-07-19 | [`cpicfiber.com`](https://google.com/search?q=cpicfiber.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2022-07-19 | [`columbiagrain.com`](https://google.com/search?q=columbiagrain.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2022-07-19 | [`clestra.com`](https://google.com/search?q=clestra.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-07-19 | [`Delon Hampton &amp; Associates, Chartered`](https://google.com/search?q=Delon+Hampton+%26amp%3B+Associates%2C+Chartered) | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
 | 2022-07-19 | [`Autohaus`](https://google.com/search?q=Autohaus) | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
 | 2022-07-18 | [`Broshuis - Driving innovation`](https://google.com/search?q=Broshuis+-+Driving+innovation) | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
@@ -198,9 +204,3 @@ _last `200` posts_
 | 2022-06-22 | [`PT Astra Honda Motor`](https://google.com/search?q=PT+Astra+Honda+Motor) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2022-06-22 | [`Pilton Community College`](https://google.com/search?q=Pilton+Community+College) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2022-06-21 | [`Canaropa`](https://google.com/search?q=Canaropa) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2022-06-21 | [`Mechanical Systems Company`](https://google.com/search?q=Mechanical+Systems+Company) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2022-06-21 | [`Crane Carrier Company`](https://google.com/search?q=Crane+Carrier+Company) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2022-06-21 | [`PARADOX`](https://google.com/search?q=PARADOX) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2022-06-21 | [`GRUPO mh`](https://google.com/search?q=GRUPO+mh) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2022-06-21 | [`ecos-office.com`](https://google.com/search?q=ecos-office.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-06-21 | [`coteg-azam.fr`](https://google.com/search?q=coteg-azam.fr) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
