@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-07-20 | [`coastalmedps.com`](https://google.com/search?q=coastalmedps.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2022-07-20 | [`addconsult.nl`](https://google.com/search?q=addconsult.nl) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-07-20 | [`FederalBank/Fedfina.part2`](https://google.com/search?q=FederalBank%2FFedfina.part2) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2022-07-19 | [`XQUADRAT GmbH`](https://google.com/search?q=XQUADRAT+GmbH) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2022-07-19 | [`San Luis Coastal Unified`](https://google.com/search?q=San+Luis+Coastal+Unified) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2022-06-24 | [`New Leak: Prudential LTG.`](https://google.com/search?q=New+Leak%3A+Prudential+LTG.) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
 | 2022-06-23 | [`New Leak: Northern Data Systems`](https://google.com/search?q=New+Leak%3A+Northern+Data+Systems) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
 | 2022-06-23 | [`nutis.com`](https://google.com/search?q=nutis.com) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2022-06-23 | [`Alphapointe`](https://google.com/search?q=Alphapointe) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
-| 2022-06-23 | [`FAYAT`](https://google.com/search?q=FAYAT) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
