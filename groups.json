@@ -2251,6 +2251,24 @@
                 "available": false,
                 "updated": "2022-03-03 18:21:44.305019",
                 "lastscrape": "2022-03-03 18:21:44.305006"
+            },
+            {
+                "fqdn": "cartelirsn5l54ehcbalyyqtfb3j7be2rpvf6ujayaf5qqmg3vlwiayd.onion",
+                "title": null,
+                "version": 3,
+                "slug": "http://cartelirsn5l54ehcbalyyqtfb3j7be2rpvf6ujayaf5qqmg3vlwiayd.onion",
+                "available": false,
+                "updated": null,
+                "lastscrape": "2021-05-01 00:00:00.000000"
+            },
+            {
+                "fqdn": "cartelraqonekult2cxbzzz2ukiff7v6cav3w373uuhenybgqulxm5id.onion",
+                "title": null,
+                "version": 3,
+                "slug": "http://cartelraqonekult2cxbzzz2ukiff7v6cav3w373uuhenybgqulxm5id.onion/company/auth",
+                "available": false,
+                "updated": null,
+                "lastscrape": "2021-05-01 00:00:00.000000"
             }
         ],
         "profile": [
