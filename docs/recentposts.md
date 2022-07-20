@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-07-20 | [`COS`](https://google.com/search?q=COS) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2022-07-20 | [`The Minka Group`](https://google.com/search?q=The+Minka+Group) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2022-07-20 | [`competencia.com.ec`](https://google.com/search?q=competencia.com.ec) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-07-20 | [`coastalmedps.com`](https://google.com/search?q=coastalmedps.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-06-24 | [`LATOURNERIE-WOLFROM.COM FILES PART5 - 10.100.57.144, 10.100.57.150 PUBLISHED`](https://google.com/search?q=LATOURNERIE-WOLFROM.COM+FILES+PART5+-+10.100.57.144%2C+10.100.57.150+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-06-24 | [`FTSUMNERK12.COM FILES PART5 - 192.168.0.244\Staff\ PUBLISHED`](https://google.com/search?q=FTSUMNERK12.COM+FILES+PART5+-+192.168.0.244%5CStaff%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-06-24 | [`AFJCONSULTING.NET FILES PART12 - E\data\documents\QuickBooks\Company Files\ PUBLISHED`](https://google.com/search?q=AFJCONSULTING.NET+FILES+PART12+-+E%5Cdata%5Cdocuments%5CQuickBooks%5CCompany+Files%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-06-24 | [`New Leak: Prudential LTG.`](https://google.com/search?q=New+Leak%3A+Prudential+LTG.) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
