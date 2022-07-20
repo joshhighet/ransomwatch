@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-07-20 | [`Edenfield`](https://google.com/search?q=Edenfield) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2022-07-20 | [`mec.com`](https://google.com/search?q=mec.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-07-20 | [`lexingtonnational.com`](https://google.com/search?q=lexingtonnational.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-07-20 | [`keystonelegal.co.uk`](https://google.com/search?q=keystonelegal.co.uk) | [redalert](https://ransomwatch.telemetry.ltd/#/profiles?id=redalert) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-06-24 | [`888VOIP.COM FILES PART5 - 192.168.10.96\ PUBLISHED`](https://google.com/search?q=888VOIP.COM+FILES+PART5+-+192.168.10.96%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-06-24 | [`ATAPCOPROPERTIES.COM FILES PART5 - 192.168.0.21\ PUBLISHED`](https://google.com/search?q=ATAPCOPROPERTIES.COM+FILES+PART5+-+192.168.0.21%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-06-24 | [`ORBITELECTRIC.COM FILES PART12 - 192.168.10.167 PUBLISHED`](https://google.com/search?q=ORBITELECTRIC.COM+FILES+PART12+-+192.168.10.167+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-06-24 | [`FERRAN-SERVICES.COM FILES PART5 - C\Users\czellner\AppData\Local\Microsoft\Outlook\15\ PUB`](https://google.com/search?q=FERRAN-SERVICES.COM+FILES+PART5+-+C%5CUsers%5Cczellner%5CAppData%5CLocal%5CMicrosoft%5COutlook%5C15%5C+PUB) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
