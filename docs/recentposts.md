@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-07-20 | [`FederalBank/Fedfina.part2`](https://google.com/search?q=FederalBank%2FFedfina.part2) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2022-07-19 | [`XQUADRAT GmbH`](https://google.com/search?q=XQUADRAT+GmbH) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2022-07-19 | [`San Luis Coastal Unified`](https://google.com/search?q=San+Luis+Coastal+Unified) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2022-07-19 | [`An Insurance Company`](https://google.com/search?q=An+Insurance+Company) | [cheers](https://ransomwatch.telemetry.ltd/#/profiles?id=cheers) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-06-23 | [`nutis.com`](https://google.com/search?q=nutis.com) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-06-23 | [`Alphapointe`](https://google.com/search?q=Alphapointe) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
 | 2022-06-23 | [`FAYAT`](https://google.com/search?q=FAYAT) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
-| 2022-06-23 | [`Arte Radiotelevisivo Argentino (Artear)`](https://google.com/search?q=Arte+Radiotelevisivo+Argentino+%28Artear%29) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
