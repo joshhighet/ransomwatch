@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-07-21 | [`CHDE POLSKA`](https://google.com/search?q=CHDE+POLSKA) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2022-07-21 | [`HANDLER Bau GmbH`](https://google.com/search?q=HANDLER+Bau+GmbH) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-07-21 | [`a2-pas.fr`](https://google.com/search?q=a2-pas.fr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-07-21 | [`site-technology`](https://google.com/search?q=site-technology) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-06-26 | [`Napa Valley College`](https://google.com/search?q=Napa+Valley+College) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
 | 2022-06-26 | [`Elbit Systems of America`](https://google.com/search?q=Elbit+Systems+of+America) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2022-06-26 | [`oak-brook.org`](https://google.com/search?q=oak-brook.org) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-06-24 | [`PRICEDEX.COM FILES PART5 - 10.0.10.1\E$\Admin\Restored Files\From MGT03\ PUBLISHED`](https://google.com/search?q=PRICEDEX.COM+FILES+PART5+-+10.0.10.1%5CE%24%5CAdmin%5CRestored+Files%5CFrom+MGT03%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
