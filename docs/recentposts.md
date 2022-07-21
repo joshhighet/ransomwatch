@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-07-21 | [`ocrex.com`](https://google.com/search?q=ocrex.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-07-21 | [`mwd.digital`](https://google.com/search?q=mwd.digital) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-07-20 | [`Edenfield`](https://google.com/search?q=Edenfield) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2022-07-20 | [`mec.com`](https://google.com/search?q=mec.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-06-24 | [`PERBIT.COM FILES PART7 - 10.182.179.241\C$\sbs_prbt_backup_cifs1_vol1\SQL Backup\WGV\pbiDB`](https://google.com/search?q=PERBIT.COM+FILES+PART7+-+10.182.179.241%5CC%24%5Csbs_prbt_backup_cifs1_vol1%5CSQL+Backup%5CWGV%5CpbiDB) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-06-24 | [`NEWCOURSECC.COM FILES PART6 - 10.168.0.7\ PUBLISHED`](https://google.com/search?q=NEWCOURSECC.COM+FILES+PART6+-+10.168.0.7%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-06-24 | [`888VOIP.COM FILES PART5 - 192.168.10.96\ PUBLISHED`](https://google.com/search?q=888VOIP.COM+FILES+PART5+-+192.168.10.96%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-06-24 | [`ATAPCOPROPERTIES.COM FILES PART5 - 192.168.0.21\ PUBLISHED`](https://google.com/search?q=ATAPCOPROPERTIES.COM+FILES+PART5+-+192.168.0.21%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
