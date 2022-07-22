@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-07-22 | [`zhulian.co.th`](https://google.com/search?q=zhulian.co.th) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2022-07-22 | [`townofstmarys.com`](https://google.com/search?q=townofstmarys.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-07-22 | [`bizebra.com`](https://google.com/search?q=bizebra.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-07-21 | [`FederalBank/Fedfina.part3`](https://google.com/search?q=FederalBank%2FFedfina.part3) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2022-07-21 | [`CHDE POLSKA`](https://google.com/search?q=CHDE+POLSKA) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2022-06-27 | [`Ministry of Agriculture`](https://google.com/search?q=Ministry+of+Agriculture) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2022-06-27 | [`Bonneville Collections`](https://google.com/search?q=Bonneville+Collections) | [lorenz](https://ransomwatch.telemetry.ltd/#/profiles?id=lorenz) |
 | 2022-06-27 | [`r1group`](https://google.com/search?q=r1group) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
-| 2022-06-26 | [`Medical University of Innsbruck`](https://google.com/search?q=Medical+University+of+Innsbruck) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
-| 2022-06-26 | [`Napa Valley College`](https://google.com/search?q=Napa+Valley+College) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
