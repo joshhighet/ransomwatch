@@ -2,7 +2,7 @@ name: ransomwatch
 
 on:
   schedule:
-    - cron: '0 * * * *'
+    - cron: '0 */2 * * *'
   workflow_dispatch:
 
 # to consider: the use of action jobs to breakout each task
