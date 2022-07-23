@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-07-23 | [`KKJM Lawfirm`](https://google.com/search?q=KKJM+Lawfirm) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-07-23 | [`Hometrust Mortgage Company`](https://google.com/search?q=Hometrust+Mortgage+Company) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-07-23 | [`roedeanschool.co.za`](https://google.com/search?q=roedeanschool.co.za) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-07-22 | [`lanormandise.fr`](https://google.com/search?q=lanormandise.fr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-06-29 | [`Avante Health Solutions`](https://google.com/search?q=Avante+Health+Solutions) | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
 | 2022-06-29 | [`New Peoples Bank`](https://google.com/search?q=New+Peoples+Bank) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2022-06-29 | [`metroappliancesandmore.com`](https://google.com/search?q=metroappliancesandmore.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-06-29 | [`lonseal.com`](https://google.com/search?q=lonseal.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
