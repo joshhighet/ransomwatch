@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-07-24 | [`SRM Technologies`](https://google.com/search?q=SRM+Technologies) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-07-24 | [`riken.co.jp`](https://google.com/search?q=riken.co.jp) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-07-24 | [`PRICEDEX.COM FILES PART9 - 10.0.10.1\E$\Shares\marketing\ PUBLISHED`](https://google.com/search?q=PRICEDEX.COM+FILES+PART9+-+10.0.10.1%5CE%24%5CShares%5Cmarketing%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-07-24 | [`NEWCOURSECC.COM FILES PART10 - 10.168.0.7\Datastore\FTP_Archive\ PUBLISHED`](https://google.com/search?q=NEWCOURSECC.COM+FILES+PART10+-+10.168.0.7%5CDatastore%5CFTP_Archive%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-07-02 | [`Cincinnati bell didn&rsquo;t pay the ransom`](https://google.com/search?q=Cincinnati+bell+didn%26rsquo%3Bt+pay+the+ransom) | [yanluowang](https://ransomwatch.telemetry.ltd/#/profiles?id=yanluowang) |
 | 2022-07-02 | [`Rocky`](https://google.com/search?q=Rocky) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
 | 2022-07-01 | [`sigma-alimentos.com`](https://google.com/search?q=sigma-alimentos.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-07-01 | [`HANSA KONTAKT`](https://google.com/search?q=HANSA+KONTAKT) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
