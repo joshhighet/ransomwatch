@@ -15,7 +15,7 @@ if [ ! -d assets/tmp ]; then
     mkdir assets/tmp
 fi
 
-dnet_tgram=`curl -s --socks5-hostname localhost:9050 lpnxgtkni46pngdg4pml47hvxg2xqdcrd7z2f5oysyuialodho6g34yd.onion -H 'User-Agent: '${random_useragent}''`
+dnet_tgram=`curl -s --socks5-hostname localhost:9050 https://telemetr.io/en/channels/1232665535-dbforall/posts -H 'User-Agent: '${random_useragent}''`
 if [ $? -ne 0 ]; then
     echo "failed to fetch from telegram:dbforall"
     exit 1
