@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-07-25 | [`OptiProERP is a leading global provider of industry-specific ERP solutions for manufacture`](https://google.com/search?q=OptiProERP+is+a+leading+global+provider+of+industry-specific+ERP+solutions+for+manufacture) | [revil](https://ransomwatch.telemetry.ltd/#/profiles?id=revil) |
+| 2022-07-25 | [`SPINNEYS.COM FILES PART1 - 10.10.11.196, 10.20.0.10 PUBLISHED`](https://google.com/search?q=SPINNEYS.COM+FILES+PART1+-+10.10.11.196%2C+10.20.0.10+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-07-25 | [`eclipse-print.com`](https://google.com/search?q=eclipse-print.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-07-25 | [`overseas-ast.com`](https://google.com/search?q=overseas-ast.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-07-25 | [`legacy-hospitality.com`](https://google.com/search?q=legacy-hospitality.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2022-07-02 | [`slpcolombus.com`](https://google.com/search?q=slpcolombus.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-07-02 | [`axelcium.com`](https://google.com/search?q=axelcium.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-07-02 | [`Shorr.com leakage`](https://google.com/search?q=Shorr.com+leakage) | [yanluowang](https://ransomwatch.telemetry.ltd/#/profiles?id=yanluowang) |
-| 2022-07-02 | [`Greetings to havi.com and tmsw.com`](https://google.com/search?q=Greetings+to+havi.com+and+tmsw.com) | [yanluowang](https://ransomwatch.telemetry.ltd/#/profiles?id=yanluowang) |
-| 2022-07-02 | [`Big data dump from various organizations`](https://google.com/search?q=Big+data+dump+from+various+organizations) | [yanluowang](https://ransomwatch.telemetry.ltd/#/profiles?id=yanluowang) |
