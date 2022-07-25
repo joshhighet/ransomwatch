@@ -107,7 +107,7 @@
         "name": "lv",
         "captcha": false,
         "parser": true,
-        "javascript_render": true,
+        "javascript_render": false,
         "meta": null,
         "locations": [
             {
