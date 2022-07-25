@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-07-25 | [`eclipse-print.com`](https://google.com/search?q=eclipse-print.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-07-25 | [`overseas-ast.com`](https://google.com/search?q=overseas-ast.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-07-25 | [`legacy-hospitality.com`](https://google.com/search?q=legacy-hospitality.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-07-25 | [`agenziaentrate.gov.it`](https://google.com/search?q=agenziaentrate.gov.it) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-07-02 | [`Shorr.com leakage`](https://google.com/search?q=Shorr.com+leakage) | [yanluowang](https://ransomwatch.telemetry.ltd/#/profiles?id=yanluowang) |
 | 2022-07-02 | [`Greetings to havi.com and tmsw.com`](https://google.com/search?q=Greetings+to+havi.com+and+tmsw.com) | [yanluowang](https://ransomwatch.telemetry.ltd/#/profiles?id=yanluowang) |
 | 2022-07-02 | [`Big data dump from various organizations`](https://google.com/search?q=Big+data+dump+from+various+organizations) | [yanluowang](https://ransomwatch.telemetry.ltd/#/profiles?id=yanluowang) |
-| 2022-07-02 | [`Walmart was encrypted`](https://google.com/search?q=Walmart+was+encrypted) | [yanluowang](https://ransomwatch.telemetry.ltd/#/profiles?id=yanluowang) |
