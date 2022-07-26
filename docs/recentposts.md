@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-07-26 | [`FederalBank/Fedfina.part4`](https://google.com/search?q=FederalBank%2FFedfina.part4) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2022-07-25 | [`ryanhanley.ie - HACKED AND MORE THEN 200GB DATA LEAKED`](https://google.com/search?q=ryanhanley.ie+-+HACKED+AND+MORE+THEN+200GB+DATA+LEAKED) | [lv](https://ransomwatch.telemetry.ltd/#/profiles?id=lv) |
 | 2022-07-25 | [`sppc.com.sa - HACKED and more then 900GB data leaked`](https://google.com/search?q=sppc.com.sa+-+HACKED+and+more+then+900GB+data+leaked) | [lv](https://ransomwatch.telemetry.ltd/#/profiles?id=lv) |
 | 2022-07-25 | [`WARTSILA.COM - HACKED AND MORE THEN 2000 GB DATA LEAKED`](https://google.com/search?q=WARTSILA.COM+-+HACKED+AND+MORE+THEN+2000+GB+DATA+LEAKED) | [lv](https://ransomwatch.telemetry.ltd/#/profiles?id=lv) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-07-03 | [`V2 Logistics Corp`](https://google.com/search?q=V2+Logistics+Corp) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2022-07-03 | [`AG`](https://google.com/search?q=AG) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
 | 2022-07-02 | [`bosco-avocats.com`](https://google.com/search?q=bosco-avocats.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-07-02 | [`faacgroup.com`](https://google.com/search?q=faacgroup.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
