@@ -4,6 +4,12 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-07-26 | [`ymaunivers.com`](https://google.com/search?q=ymaunivers.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2022-07-26 | [`sieam.fr`](https://google.com/search?q=sieam.fr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2022-07-26 | [`CUCA FRESCA`](https://google.com/search?q=CUCA+FRESCA) | [onyx](https://ransomwatch.telemetry.ltd/#/profiles?id=onyx) |
+| 2022-07-26 | [`WAYAN NATURAL WEAR`](https://google.com/search?q=WAYAN+NATURAL+WEAR) | [onyx](https://ransomwatch.telemetry.ltd/#/profiles?id=onyx) |
+| 2022-07-26 | [`Artistic Stairs & Railings`](https://google.com/search?q=Artistic+Stairs+%26+Railings) | [onyx](https://ransomwatch.telemetry.ltd/#/profiles?id=onyx) |
+| 2022-07-26 | [`Empress EMS`](https://google.com/search?q=Empress+EMS) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
 | 2022-07-26 | [`Baltholding OÃ`](https://google.com/search?q=Baltholding+O%C3%83%C2%9C) | [onyx](https://ransomwatch.telemetry.ltd/#/profiles?id=onyx) |
 | 2022-07-26 | [`FederalBank/Fedfina.part4`](https://google.com/search?q=FederalBank%2FFedfina.part4) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2022-07-25 | [`ryanhanley.ie - HACKED AND MORE THEN 200GB DATA LEAKED`](https://google.com/search?q=ryanhanley.ie+-+HACKED+AND+MORE+THEN+200GB+DATA+LEAKED) | [lv](https://ransomwatch.telemetry.ltd/#/profiles?id=lv) |
@@ -198,9 +204,3 @@ _last `200` posts_
 | 2022-07-03 | [`ORBITELECTRIC.COM FILES PART13 - 192.168.10.107\C$\Users\benjiet\ PUBLISHED`](https://google.com/search?q=ORBITELECTRIC.COM+FILES+PART13+-+192.168.10.107%5CC%24%5CUsers%5Cbenjiet%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-07-03 | [`FERRAN-SERVICES.COM FILES PART6 - D\Databasics\Collateral\Archive\ PUBLISHED`](https://google.com/search?q=FERRAN-SERVICES.COM+FILES+PART6+-+D%5CDatabasics%5CCollateral%5CArchive%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-07-03 | [`ENSSECURITY.COM FILES PART6 - D\FTP\ENS\Public_Share\ PUBLISHED`](https://google.com/search?q=ENSSECURITY.COM+FILES+PART6+-+D%5CFTP%5CENS%5CPublic_Share%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-07-03 | [`LATOURNERIE-WOLFROM.COM FILES PART6 - 10.100.57.15\ PUBLISHED`](https://google.com/search?q=LATOURNERIE-WOLFROM.COM+FILES+PART6+-+10.100.57.15%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-07-03 | [`FTSUMNERK12.COM FILES PART6 - 192.168.0.244\Staff\ PUBLISHED`](https://google.com/search?q=FTSUMNERK12.COM+FILES+PART6+-+192.168.0.244%5CStaff%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-07-03 | [`AFJCONSULTING.NET FILES PART13 - E\data\documents\ZZ_Client Folders - Archive\ PUBLISHED`](https://google.com/search?q=AFJCONSULTING.NET+FILES+PART13+-+E%5Cdata%5Cdocuments%5CZZ_Client+Folders+-+Archive%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-07-03 | [`Capsonic`](https://google.com/search?q=Capsonic) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2022-07-03 | [`V2 Logistics Corp`](https://google.com/search?q=V2+Logistics+Corp) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2022-07-03 | [`AG`](https://google.com/search?q=AG) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
