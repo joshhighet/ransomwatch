@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-07-26 | [`cheungwoh.com.sg`](https://google.com/search?q=cheungwoh.com.sg) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-07-26 | [`ymaunivers.com`](https://google.com/search?q=ymaunivers.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-07-26 | [`sieam.fr`](https://google.com/search?q=sieam.fr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-07-26 | [`CUCA FRESCA`](https://google.com/search?q=CUCA+FRESCA) | [onyx](https://ransomwatch.telemetry.ltd/#/profiles?id=onyx) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-07-03 | [`888VOIP.COM FILES PART6 - 192.168.10.155 PUBLISHED`](https://google.com/search?q=888VOIP.COM+FILES+PART6+-+192.168.10.155+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-07-03 | [`ORBITELECTRIC.COM FILES PART13 - 192.168.10.107\C$\Users\benjiet\ PUBLISHED`](https://google.com/search?q=ORBITELECTRIC.COM+FILES+PART13+-+192.168.10.107%5CC%24%5CUsers%5Cbenjiet%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-07-03 | [`FERRAN-SERVICES.COM FILES PART6 - D\Databasics\Collateral\Archive\ PUBLISHED`](https://google.com/search?q=FERRAN-SERVICES.COM+FILES+PART6+-+D%5CDatabasics%5CCollateral%5CArchive%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-07-03 | [`ENSSECURITY.COM FILES PART6 - D\FTP\ENS\Public_Share\ PUBLISHED`](https://google.com/search?q=ENSSECURITY.COM+FILES+PART6+-+D%5CFTP%5CENS%5CPublic_Share%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
