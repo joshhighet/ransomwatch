@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-07-27 | [`maldegem.be`](https://google.com/search?q=maldegem.be) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2022-07-27 | [`groupe-helios.com`](https://google.com/search?q=groupe-helios.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2022-07-27 | [`CIMEX`](https://google.com/search?q=CIMEX) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
 | 2022-07-27 | [`Weidmueller`](https://google.com/search?q=Weidmueller) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
 | 2022-07-27 | [`studioteruzzi.com - HACKED AND MORE THEN 80GB DATA LEAKED`](https://google.com/search?q=studioteruzzi.com+-+HACKED+AND+MORE+THEN+80GB+DATA+LEAKED) | [lv](https://ransomwatch.telemetry.ltd/#/profiles?id=lv) |
 | 2022-07-26 | [`cheungwoh.com.sg`](https://google.com/search?q=cheungwoh.com.sg) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2022-07-04 | [`WWSTEELE`](https://google.com/search?q=WWSTEELE) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
 | 2022-07-04 | [`NETWORK4CARS`](https://google.com/search?q=NETWORK4CARS) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
 | 2022-07-03 | [`PRICEDEX.COM FILES PART6 - 10.0.10.1\E$\Admin\Restored Files\From MGT03\ehollran\ PUBLISHE`](https://google.com/search?q=PRICEDEX.COM+FILES+PART6+-+10.0.10.1%5CE%24%5CAdmin%5CRestored+Files%5CFrom+MGT03%5Cehollran%5C+PUBLISHE) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-07-03 | [`PERBIT.COM FILES PART8 - 10.182.179.241\C$\sbs_prbt_backup_cifs1_vol1\SQL Backup\WW-Energi`](https://google.com/search?q=PERBIT.COM+FILES+PART8+-+10.182.179.241%5CC%24%5Csbs_prbt_backup_cifs1_vol1%5CSQL+Backup%5CWW-Energi) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-07-03 | [`NEWCOURSECC.COM FILES PART7 - 10.168.0.7\Datastore\ PUBLISHED`](https://google.com/search?q=NEWCOURSECC.COM+FILES+PART7+-+10.168.0.7%5CDatastore%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-07-03 | [`888VOIP.COM FILES PART6 - 192.168.10.155 PUBLISHED`](https://google.com/search?q=888VOIP.COM+FILES+PART6+-+192.168.10.155+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
