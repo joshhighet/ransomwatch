@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-07-28 | [`coarc.org`](https://google.com/search?q=coarc.org) | [redalert](https://ransomwatch.telemetry.ltd/#/profiles?id=redalert) |
+| 2022-07-28 | [`correounir.com.ar`](https://google.com/search?q=correounir.com.ar) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-07-28 | [`JOHN A. BODZIAK ARCHITECT AIA`](https://google.com/search?q=JOHN+A.+BODZIAK+ARCHITECT+AIA) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-07-27 | [`maldegem.be`](https://google.com/search?q=maldegem.be) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-07-27 | [`groupe-helios.com`](https://google.com/search?q=groupe-helios.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2022-07-04 | [`KDE`](https://google.com/search?q=KDE) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
 | 2022-07-04 | [`YURTICIKARGO`](https://google.com/search?q=YURTICIKARGO) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
 | 2022-07-04 | [`Massy Distribution Limited`](https://google.com/search?q=Massy+Distribution+Limited) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
-| 2022-07-04 | [`WWSTEELE`](https://google.com/search?q=WWSTEELE) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
-| 2022-07-04 | [`NETWORK4CARS`](https://google.com/search?q=NETWORK4CARS) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
