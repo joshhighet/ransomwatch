@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-07-29 | [`Creos Luxembourg`](https://google.com/search?q=Creos+Luxembourg) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-07-29 | [`autoliv.com`](https://google.com/search?q=autoliv.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-07-29 | [`Hong Kong Special Care Dentistry Association Limited`](https://google.com/search?q=Hong+Kong+Special+Care+Dentistry+Association+Limited) | [lv](https://ransomwatch.telemetry.ltd/#/profiles?id=lv) |
 | 2022-07-29 | [`Fandeli`](https://google.com/search?q=Fandeli) | [lorenz](https://ransomwatch.telemetry.ltd/#/profiles?id=lorenz) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-07-04 | [`Vectalia group`](https://google.com/search?q=Vectalia+group) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2022-07-04 | [`Yurtiçi Kargo`](https://google.com/search?q=Yurti%C3%A7i+Kargo) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
 | 2022-07-04 | [`Hamlyns Limited`](https://google.com/search?q=Hamlyns+Limited) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
-| 2022-07-04 | [`Holland CPA`](https://google.com/search?q=Holland+CPA) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
