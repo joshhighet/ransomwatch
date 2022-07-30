@@ -4,6 +4,15 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-07-30 | [`PRICEDEX.COM FILES PART10 - 10.0.10.1\E$\Shares\marketing\ PUBLISHED`](https://google.com/search?q=PRICEDEX.COM+FILES+PART10+-+10.0.10.1%5CE%24%5CShares%5Cmarketing%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2022-07-30 | [`NEWCOURSECC.COM FILES PART11 - 10.168.0.7\Datastore\FTP_Archive\ PUBLISHED`](https://google.com/search?q=NEWCOURSECC.COM+FILES+PART11+-+10.168.0.7%5CDatastore%5CFTP_Archive%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2022-07-30 | [`ORBITELECTRIC.COM FILES PART17 - 192.168.10.109\F$\Personnel\ PUBLISHED`](https://google.com/search?q=ORBITELECTRIC.COM+FILES+PART17+-+192.168.10.109%5CF%24%5CPersonnel%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2022-07-30 | [`FERRAN-SERVICES.COM FILES PART10 - D\Company\Accounts Payable\ PUBLISHED`](https://google.com/search?q=FERRAN-SERVICES.COM+FILES+PART10+-+D%5CCompany%5CAccounts+Payable%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2022-07-30 | [`ENSSECURITY.COM FILES PART10 - D\FTP\ENS\Public_Share\ PUBLISHED`](https://google.com/search?q=ENSSECURITY.COM+FILES+PART10+-+D%5CFTP%5CENS%5CPublic_Share%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2022-07-30 | [`SPINNEYS.COM FILES PART2 - 10.20.0.22, 10.31.10.49, 10.31.10.135, 10.31.10.233, 10.31.32.2`](https://google.com/search?q=SPINNEYS.COM+FILES+PART2+-+10.20.0.22%2C+10.31.10.49%2C+10.31.10.135%2C+10.31.10.233%2C+10.31.32.2) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2022-07-30 | [`LATOURNERIE-WOLFROM.COM FILES PART10 - 10.100.57.15\Trans\ PUBLISHED`](https://google.com/search?q=LATOURNERIE-WOLFROM.COM+FILES+PART10+-+10.100.57.15%5CTrans%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2022-07-30 | [`FTSUMNERK12.COM FILES PART10 - 192.168.0.244\Staff\ PUBLISHED`](https://google.com/search?q=FTSUMNERK12.COM+FILES+PART10+-+192.168.0.244%5CStaff%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2022-07-30 | [`APPLEXUS.COM FILES PART2 - 192.168.3.161, 192.168.5.110, 192.168.5.154 PUBLISHED`](https://google.com/search?q=APPLEXUS.COM+FILES+PART2+-+192.168.3.161%2C+192.168.5.110%2C+192.168.5.154+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-07-29 | [`Creos Luxembourg`](https://google.com/search?q=Creos+Luxembourg) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-07-29 | [`autoliv.com`](https://google.com/search?q=autoliv.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-07-29 | [`Hong Kong Special Care Dentistry Association Limited`](https://google.com/search?q=Hong+Kong+Special+Care+Dentistry+Association+Limited) | [lv](https://ransomwatch.telemetry.ltd/#/profiles?id=lv) |
@@ -195,12 +204,3 @@ _last `200` posts_
 | 2022-07-06 | [`Dusit D2 Kenz Hotel Dubai`](https://google.com/search?q=Dusit+D2+Kenz+Hotel+Dubai) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-07-06 | [`Lamoille Health`](https://google.com/search?q=Lamoille+Health) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
 | 2022-07-06 | [`alpachem.com`](https://google.com/search?q=alpachem.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-07-06 | [`cabbageinc.com`](https://google.com/search?q=cabbageinc.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-07-06 | [`DPP`](https://google.com/search?q=DPP) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2022-07-06 | [`adlerdisplay.com - Adler Display`](https://google.com/search?q=adlerdisplay.com+-+Adler+Display) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2022-07-06 | [`Sinclair Wilson`](https://google.com/search?q=Sinclair+Wilson) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2022-07-05 | [`Pontal Engineering Constructions and Developments`](https://google.com/search?q=Pontal+Engineering+Constructions+and+Developments) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
-| 2022-07-05 | [`Wis-Pak, Inc`](https://google.com/search?q=Wis-Pak%2C+Inc) | [lorenz](https://ransomwatch.telemetry.ltd/#/profiles?id=lorenz) |
-| 2022-07-04 | [`Vectalia group`](https://google.com/search?q=Vectalia+group) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
-| 2022-07-04 | [`Yurtiçi Kargo`](https://google.com/search?q=Yurti%C3%A7i+Kargo) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
-| 2022-07-04 | [`Hamlyns Limited`](https://google.com/search?q=Hamlyns+Limited) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
