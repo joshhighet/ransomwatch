@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-07-31 | [`vytelle.com`](https://google.com/search?q=vytelle.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-07-31 | [`emunworks.com`](https://google.com/search?q=emunworks.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-07-30 | [`PRICEDEX.COM FILES PART10 - 10.0.10.1\E$\Shares\marketing\ PUBLISHED`](https://google.com/search?q=PRICEDEX.COM+FILES+PART10+-+10.0.10.1%5CE%24%5CShares%5Cmarketing%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-07-30 | [`NEWCOURSECC.COM FILES PART11 - 10.168.0.7\Datastore\FTP_Archive\ PUBLISHED`](https://google.com/search?q=NEWCOURSECC.COM+FILES+PART11+-+10.168.0.7%5CDatastore%5CFTP_Archive%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-07-06 | [`JBKLDMN`](https://google.com/search?q=JBKLDMN) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2022-07-06 | [`Gatewayrehab`](https://google.com/search?q=Gatewayrehab) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
 | 2022-07-06 | [`Dusit D2 Kenz Hotel Dubai`](https://google.com/search?q=Dusit+D2+Kenz+Hotel+Dubai) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2022-07-06 | [`Lamoille Health`](https://google.com/search?q=Lamoille+Health) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
