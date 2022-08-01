@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-08-01 | [`shopper360.com.my`](https://google.com/search?q=shopper360.com.my) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-07-31 | [`BAFNAGROUP.COM - HACKED AND MORE THEN 20 GB DATA LEAKED`](https://google.com/search?q=BAFNAGROUP.COM+-+HACKED+AND+MORE+THEN+20+GB+DATA+LEAKED) | [lv](https://ransomwatch.telemetry.ltd/#/profiles?id=lv) |
 | 2022-07-31 | [`get.es`](https://google.com/search?q=get.es) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-07-31 | [`vytelle.com`](https://google.com/search?q=vytelle.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-07-06 | [`Roche Bobois`](https://google.com/search?q=Roche+Bobois) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2022-07-06 | [`LOSSEWERK`](https://google.com/search?q=LOSSEWERK) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2022-07-06 | [`SCHMIDT Gruppe Service GmbH`](https://google.com/search?q=SCHMIDT+Gruppe+Service+GmbH) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2022-07-06 | [`JBKLDMN`](https://google.com/search?q=JBKLDMN) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
