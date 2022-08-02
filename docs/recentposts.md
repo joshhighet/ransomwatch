@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-08-02 | [`Puma Biotechnology - decided to allow Leaks`](https://google.com/search?q=Puma+Biotechnology+-+decided+to+allow+Leaks) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
 | 2022-08-02 | [`casapellas.com`](https://google.com/search?q=casapellas.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-08-01 | [`scohil.com`](https://google.com/search?q=scohil.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-08-01 | [`preflooring.com`](https://google.com/search?q=preflooring.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-07-06 | [`MAIN`](https://google.com/search?q=MAIN) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2022-07-06 | [`TMI`](https://google.com/search?q=TMI) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2022-07-06 | [`Sierra Pacific Industries`](https://google.com/search?q=Sierra+Pacific+Industries) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2022-07-06 | [`DEKIMO`](https://google.com/search?q=DEKIMO) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
