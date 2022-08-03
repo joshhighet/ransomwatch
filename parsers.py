@@ -752,3 +752,14 @@ def redalert():
         errlog('redalert: ' + 'parsing fail')
     for post in posts:
         appender(post, 'redalert')
+
+def daixin():
+    stdlog('parser: ' + 'daixin')
+    parser = '''
+    grep '<h4 class="border-danger' source/daixin-*.html | cut -d '>' -f 3 | cut -d '<' -f 1 | sed -e 's/^ *//g' -e '/^$/d' -e 's/[[:space:]]*$//'
+    '''
+    posts = runshellcmd(parser)
+    if len(posts) == 1:
+        errlog('daixin: ' + 'parsing fail')
+    for post in posts:
+        appender(post, 'daixin')
