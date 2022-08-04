@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-08-04 | [`WARTSILA DATA - ATTENTION !!!`](https://google.com/search?q=WARTSILA+DATA+-+ATTENTION+%21%21%21) | [lv](https://ransomwatch.telemetry.ltd/#/profiles?id=lv) |
 | 2022-08-04 | [`Liftow LTD`](https://google.com/search?q=Liftow+LTD) | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
 | 2022-08-04 | [`BEESENSE`](https://google.com/search?q=BEESENSE) | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
 | 2022-08-04 | [`ENN Group`](https://google.com/search?q=ENN+Group) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-07-09 | [`AFJCONSULTING.NET FILES PART14 - E\data\documents\ZZ_Client Folders - Archive\ PUBLISHED`](https://google.com/search?q=AFJCONSULTING.NET+FILES+PART14+-+E%5Cdata%5Cdocuments%5CZZ_Client+Folders+-+Archive%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-07-09 | [`emprint.com`](https://google.com/search?q=emprint.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-07-08 | [`acac.com`](https://google.com/search?q=acac.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-07-07 | [`OLYMPIA`](https://google.com/search?q=OLYMPIA) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
