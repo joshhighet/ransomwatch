@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-08-04 | [`STTLK`](https://google.com/search?q=STTLK) | [lv](https://ransomwatch.telemetry.ltd/#/profiles?id=lv) |
 | 2022-08-03 | [`AIIM`](https://google.com/search?q=AIIM) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-08-03 | [`Fitzgibbon Hospital (USA)`](https://google.com/search?q=Fitzgibbon+Hospital+%28USA%29) | [daixin](https://ransomwatch.telemetry.ltd/#/profiles?id=daixin) |
 | 2022-08-03 | [`Trib Total Media (USA)`](https://google.com/search?q=Trib+Total+Media+%28USA%29) | [daixin](https://ransomwatch.telemetry.ltd/#/profiles?id=daixin) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-07-07 | [`lapostemobile.fr`](https://google.com/search?q=lapostemobile.fr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-07-07 | [`stm-com-tw`](https://google.com/search?q=stm-com-tw) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
 | 2022-07-07 | [`carnbrea.com.au`](https://google.com/search?q=carnbrea.com.au) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-07-07 | [`The Wiener Zeitung media group`](https://google.com/search?q=The+Wiener+Zeitung+media+group) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
