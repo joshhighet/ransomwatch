@@ -236,7 +236,7 @@ if args.mode == 'parse':
     parsers.pysa()
     parsers.nefilim()
     parsers.mountlocker()
-    parsers.babuklocker()
+    parsers.babuk()
     parsers.ransomexx()
     parsers.cuba()
     parsers.pay2key()

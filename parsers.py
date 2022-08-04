@@ -282,16 +282,16 @@ def mountlocker():
     for post in posts:
         appender(post, 'mountlocker')
 
-def babuklocker():
-    stdlog('parser: ' + 'babuklocker')
+def babuk():
+    stdlog('parser: ' + 'babuk')
     parser = '''
-    grep '<h5>' source/babuk-locker-*.html --no-filename | sed 's/^ *//g' | cut -d '>' -f2 | cut -d '<' -f1 | grep -wv 'Hospitals\|Non-Profit\|Schools\|Small Business' | sed '/^[[:space:]]*$/d'
+    grep '<h5>' source/babuk-*.html --no-filename | sed 's/^ *//g' | cut -d '>' -f2 | cut -d '<' -f1 | grep -wv 'Hospitals\|Non-Profit\|Schools\|Small Business' | sed '/^[[:space:]]*$/d'
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
-        errlog('babuklocker: ' + 'parsing fail')
+        errlog('babuk: ' + 'parsing fail')
     for post in posts:
-        appender(post, 'babuklocker')
+        appender(post, 'babuk')
     
 def ransomexx():
     stdlog('parser: ' + 'ransomexx')

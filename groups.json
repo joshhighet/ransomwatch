@@ -773,7 +773,7 @@
         ]
     },
     {
-        "name": "babuk-locker",
+        "name": "babuk",
         "captcha": false,
         "parser": true,
         "javascript_render": false,
