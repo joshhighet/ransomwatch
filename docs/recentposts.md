@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-08-05 | [`Borough of Union Beach`](https://google.com/search?q=Borough+of+Union+Beach) | [onyx](https://ransomwatch.telemetry.ltd/#/profiles?id=onyx) |
 | 2022-08-04 | [`AD Consulting Group`](https://google.com/search?q=AD+Consulting+Group) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-08-04 | [`SEMIKRON - EXTREMELY LOW LEVEL OF CYBERSECURITY. 2 TB OF CORPORATE DATA STOLEN`](https://google.com/search?q=SEMIKRON+-+EXTREMELY+LOW+LEVEL+OF+CYBERSECURITY.+2+TB+OF+CORPORATE+DATA+STOLEN) | [lv](https://ransomwatch.telemetry.ltd/#/profiles?id=lv) |
 | 2022-08-04 | [`WARTSILA DATA - ATTENTION !!!`](https://google.com/search?q=WARTSILA+DATA+-+ATTENTION+%21%21%21) | [lv](https://ransomwatch.telemetry.ltd/#/profiles?id=lv) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-07-09 | [`ENSSECURITY.COM FILES PART7 - D\FTP\ENS\Public_Share\Marketing_Dept-Public\ PUBLISHED`](https://google.com/search?q=ENSSECURITY.COM+FILES+PART7+-+D%5CFTP%5CENS%5CPublic_Share%5CMarketing_Dept-Public%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-07-09 | [`LATOURNERIE-WOLFROM.COM FILES PART7 - 10.100.57.15\ PUBLISHED`](https://google.com/search?q=LATOURNERIE-WOLFROM.COM+FILES+PART7+-+10.100.57.15%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-07-09 | [`FTSUMNERK12.COM FILES PART7 - 192.168.0.244\Staff\ PUBLISHED`](https://google.com/search?q=FTSUMNERK12.COM+FILES+PART7+-+192.168.0.244%5CStaff%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-07-09 | [`AFJCONSULTING.NET FILES PART14 - E\data\documents\ZZ_Client Folders - Archive\ PUBLISHED`](https://google.com/search?q=AFJCONSULTING.NET+FILES+PART14+-+E%5Cdata%5Cdocuments%5CZZ_Client+Folders+-+Archive%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
