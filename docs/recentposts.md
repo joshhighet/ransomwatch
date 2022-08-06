@@ -4,6 +4,10 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-08-06 | [`wrschool.net`](https://google.com/search?q=wrschool.net) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2022-08-06 | [`trialpro.com`](https://google.com/search?q=trialpro.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2022-08-06 | [`newwestmetals.com`](https://google.com/search?q=newwestmetals.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2022-08-06 | [`hatcherins.com`](https://google.com/search?q=hatcherins.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-08-06 | [`ttdwest`](https://google.com/search?q=ttdwest) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2022-08-06 | [`MAI`](https://google.com/search?q=MAI) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2022-08-06 | [`Montrose Environmental Group, Inc`](https://google.com/search?q=Montrose+Environmental+Group%2C+Inc) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
@@ -200,7 +204,3 @@ _last `200` posts_
 | 2022-07-13 | [`RTVCM`](https://google.com/search?q=RTVCM) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
 | 2022-07-13 | [`AdaptIT`](https://google.com/search?q=AdaptIT) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
 | 2022-07-13 | [`Exela Technologies`](https://google.com/search?q=Exela+Technologies) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
-| 2022-07-13 | [`APETITO`](https://google.com/search?q=APETITO) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
-| 2022-07-13 | [`GROUP4 AUSTRALIA`](https://google.com/search?q=GROUP4+AUSTRALIA) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
-| 2022-07-13 | [`Authentic Brands Group`](https://google.com/search?q=Authentic+Brands+Group) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
-| 2022-07-13 | [`Epec.PL - Lied about the absence of Leak`](https://google.com/search?q=Epec.PL+-+Lied+about+the+absence+of+Leak) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
