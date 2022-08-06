@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-08-06 | [`unimasters.com`](https://google.com/search?q=unimasters.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-08-06 | [`wrschool.net`](https://google.com/search?q=wrschool.net) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-08-06 | [`trialpro.com`](https://google.com/search?q=trialpro.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-08-06 | [`newwestmetals.com`](https://google.com/search?q=newwestmetals.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-07-13 | [`SANDO`](https://google.com/search?q=SANDO) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
 | 2022-07-13 | [`RTVCM`](https://google.com/search?q=RTVCM) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
 | 2022-07-13 | [`AdaptIT`](https://google.com/search?q=AdaptIT) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
-| 2022-07-13 | [`Exela Technologies`](https://google.com/search?q=Exela+Technologies) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
