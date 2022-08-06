@@ -4,6 +4,24 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-08-06 | [`ttdwest`](https://google.com/search?q=ttdwest) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2022-08-06 | [`MAI`](https://google.com/search?q=MAI) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2022-08-06 | [`Montrose Environmental Group, Inc`](https://google.com/search?q=Montrose+Environmental+Group%2C+Inc) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2022-08-06 | [`WALLWORKINC`](https://google.com/search?q=WALLWORKINC) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2022-08-06 | [`paradise`](https://google.com/search?q=paradise) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2022-08-06 | [`WENZEL + WENZEL`](https://google.com/search?q=WENZEL+%2B+WENZEL) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2022-08-06 | [`Trade-Mark Industrial Inc.`](https://google.com/search?q=Trade-Mark+Industrial+Inc.) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2022-08-06 | [`CREMO`](https://google.com/search?q=CREMO) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2022-08-06 | [`RBBUSA`](https://google.com/search?q=RBBUSA) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2022-08-06 | [`BOERNER-GRUPPE`](https://google.com/search?q=BOERNER-GRUPPE) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2022-08-06 | [`Young & Pratt`](https://google.com/search?q=Young+%26+Pratt) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2022-08-06 | [`Jakob Becker`](https://google.com/search?q=Jakob+Becker) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2022-08-06 | [`Love, Barnes & McKew Insurance Adjusters`](https://google.com/search?q=Love%2C+Barnes+%26+McKew+Insurance+Adjusters) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2022-08-06 | [`The O'Regan`](https://google.com/search?q=The+O%27Regan) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2022-08-06 | [`Blairex Laboratories, Inc.`](https://google.com/search?q=Blairex+Laboratories%2C+Inc.) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2022-08-06 | [`Wilks Tire & Battery Service`](https://google.com/search?q=Wilks+Tire+%26+Battery+Service) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2022-08-06 | [`UNIWELL Rohrsysteme GmbH & Co.`](https://google.com/search?q=UNIWELL+Rohrsysteme+GmbH+%26+Co.) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2022-08-06 | [`Grohmann Aluworks GmbH & Co`](https://google.com/search?q=Grohmann+Aluworks+GmbH+%26+Co) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2022-08-05 | [`Borough of Union Beach`](https://google.com/search?q=Borough+of+Union+Beach) | [onyx](https://ransomwatch.telemetry.ltd/#/profiles?id=onyx) |
 | 2022-08-04 | [`AD Consulting Group`](https://google.com/search?q=AD+Consulting+Group) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-08-04 | [`SEMIKRON - EXTREMELY LOW LEVEL OF CYBERSECURITY. 2 TB OF CORPORATE DATA STOLEN`](https://google.com/search?q=SEMIKRON+-+EXTREMELY+LOW+LEVEL+OF+CYBERSECURITY.+2+TB+OF+CORPORATE+DATA+STOLEN) | [lv](https://ransomwatch.telemetry.ltd/#/profiles?id=lv) |
@@ -110,7 +128,7 @@ _last `200` posts_
 | 2022-07-20 | [`lexingtonnational.com`](https://google.com/search?q=lexingtonnational.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-07-20 | [`keystonelegal.co.uk`](https://google.com/search?q=keystonelegal.co.uk) | [redalert](https://ransomwatch.telemetry.ltd/#/profiles?id=redalert) |
 | 2022-07-20 | [`LaVan & Neidenberg`](https://google.com/search?q=LaVan+%26+Neidenberg) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
-| 2022-07-20 | [`COS`](https://google.com/search?q=COS) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2022-07-20 | [`COS2000`](https://google.com/search?q=COS2000) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2022-07-20 | [`The Minka Group`](https://google.com/search?q=The+Minka+Group) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2022-07-20 | [`competencia.com.ec`](https://google.com/search?q=competencia.com.ec) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-07-20 | [`coastalmedps.com`](https://google.com/search?q=coastalmedps.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -138,7 +156,7 @@ _last `200` posts_
 | 2022-07-18 | [`aresfoods.ca`](https://google.com/search?q=aresfoods.ca) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-07-18 | [`An British Financial Company -Unpay`](https://google.com/search?q=An+British+Financial+Company+-Unpay) | [cheers](https://ransomwatch.telemetry.ltd/#/profiles?id=cheers) |
 | 2022-07-18 | [`An International Shipping Company - Paid`](https://google.com/search?q=An+International+Shipping+Company+-+Paid) | [cheers](https://ransomwatch.telemetry.ltd/#/profiles?id=cheers) |
-| 2022-07-18 | [`Knauf`](https://google.com/search?q=Knauf) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2022-07-18 | [`KNAUF`](https://google.com/search?q=KNAUF) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2022-07-18 | [`Wallwork Truck Center`](https://google.com/search?q=Wallwork+Truck+Center) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2022-07-18 | [`Dillon Precision Products`](https://google.com/search?q=Dillon+Precision+Products) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2022-07-17 | [`sig.id`](https://google.com/search?q=sig.id) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -186,21 +204,3 @@ _last `200` posts_
 | 2022-07-13 | [`GROUP4 AUSTRALIA`](https://google.com/search?q=GROUP4+AUSTRALIA) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
 | 2022-07-13 | [`Authentic Brands Group`](https://google.com/search?q=Authentic+Brands+Group) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
 | 2022-07-13 | [`Epec.PL - Lied about the absence of Leak`](https://google.com/search?q=Epec.PL+-+Lied+about+the+absence+of+Leak) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
-| 2022-07-13 | [`duda.com`](https://google.com/search?q=duda.com) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2022-07-12 | [`Podhurst Orseck`](https://google.com/search?q=Podhurst+Orseck) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2022-07-12 | [`American International Industries`](https://google.com/search?q=American+International+Industries) | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
-| 2022-07-11 | [`Summit Care`](https://google.com/search?q=Summit+Care) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
-| 2022-07-11 | [`Uppco`](https://google.com/search?q=Uppco) | [lorenz](https://ransomwatch.telemetry.ltd/#/profiles?id=lorenz) |
-| 2022-07-11 | [`Pontal Engineering Constructions and Developments Files Leak`](https://google.com/search?q=Pontal+Engineering+Constructions+and+Developments+Files+Leak) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
-| 2022-07-11 | [`PSA`](https://google.com/search?q=PSA) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
-| 2022-07-11 | [`The Royal Commission for Riyadh City (RCRC)`](https://google.com/search?q=The+Royal+Commission+for+Riyadh+City+%28RCRC%29) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2022-07-11 | [`Bandai Namco`](https://google.com/search?q=Bandai+Namco) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2022-07-11 | [`Hydraelectric`](https://google.com/search?q=Hydraelectric) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2022-07-09 | [`PRICEDEX.COM FILES PART7 - 10.0.10.1\E$\Admin\Restored Files\From MGT03\ehollran\ PUBLISHE`](https://google.com/search?q=PRICEDEX.COM+FILES+PART7+-+10.0.10.1%5CE%24%5CAdmin%5CRestored+Files%5CFrom+MGT03%5Cehollran%5C+PUBLISHE) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-07-09 | [`NEWCOURSECC.COM FILES PART8 - 10.168.0.7\Datastore\FTP_Archive\ PUBLISHED`](https://google.com/search?q=NEWCOURSECC.COM+FILES+PART8+-+10.168.0.7%5CDatastore%5CFTP_Archive%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-07-09 | [`888VOIP.COM FILES PART7 - 192.168.14.19\C$\Users\ijoyce.AMTECH\ PUBLISHED`](https://google.com/search?q=888VOIP.COM+FILES+PART7+-+192.168.14.19%5CC%24%5CUsers%5Cijoyce.AMTECH%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-07-09 | [`ORBITELECTRIC.COM FILES PART14 - 92.168.10.107\C$\Users\benjiet\Documents\DONOTdelete!\PST`](https://google.com/search?q=ORBITELECTRIC.COM+FILES+PART14+-+92.168.10.107%5CC%24%5CUsers%5Cbenjiet%5CDocuments%5CDONOTdelete%21%5CPST) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-07-09 | [`FERRAN-SERVICES.COM FILES PART7 - D\Databasics\Collateral\Archive\ PUBLISHED`](https://google.com/search?q=FERRAN-SERVICES.COM+FILES+PART7+-+D%5CDatabasics%5CCollateral%5CArchive%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-07-09 | [`ENSSECURITY.COM FILES PART7 - D\FTP\ENS\Public_Share\Marketing_Dept-Public\ PUBLISHED`](https://google.com/search?q=ENSSECURITY.COM+FILES+PART7+-+D%5CFTP%5CENS%5CPublic_Share%5CMarketing_Dept-Public%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-07-09 | [`LATOURNERIE-WOLFROM.COM FILES PART7 - 10.100.57.15\ PUBLISHED`](https://google.com/search?q=LATOURNERIE-WOLFROM.COM+FILES+PART7+-+10.100.57.15%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-07-09 | [`FTSUMNERK12.COM FILES PART7 - 192.168.0.244\Staff\ PUBLISHED`](https://google.com/search?q=FTSUMNERK12.COM+FILES+PART7+-+192.168.0.244%5CStaff%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
