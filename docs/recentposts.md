@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-08-07 | [`versma.com`](https://google.com/search?q=versma.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2022-08-07 | [`ring-plastik.de`](https://google.com/search?q=ring-plastik.de) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-08-06 | [`PRICEDEX.COM FILES PART11 - 10.0.10.1\E$\Shares\projects\ PUBLISHED`](https://google.com/search?q=PRICEDEX.COM+FILES+PART11+-+10.0.10.1%5CE%24%5CShares%5Cprojects%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-08-06 | [`NEWCOURSECC.COM FILES PART12 - 10.168.0.7\Datastore\FTP_Archive\ PUBLISHED`](https://google.com/search?q=NEWCOURSECC.COM+FILES+PART12+-+10.168.0.7%5CDatastore%5CFTP_Archive%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-08-06 | [`ORBITELECTRIC.COM FILES PART18 - 192.168.10.109\F$\Personnel\ PUBLISHED`](https://google.com/search?q=ORBITELECTRIC.COM+FILES+PART18+-+192.168.10.109%5CF%24%5CPersonnel%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2022-07-14 | [`iis.ac.uk`](https://google.com/search?q=iis.ac.uk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-07-14 | [`etgworld.com`](https://google.com/search?q=etgworld.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-07-14 | [`syredis.fr`](https://google.com/search?q=syredis.fr) | [redalert](https://ransomwatch.telemetry.ltd/#/profiles?id=redalert) |
-| 2022-07-14 | [`Mackenzie Medical`](https://google.com/search?q=Mackenzie+Medical) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2022-07-14 | [`Anderson Insurance Associates`](https://google.com/search?q=Anderson+Insurance+Associates) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
