@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-08-09 | [`An Insurance Company  -Paid`](https://google.com/search?q=An+Insurance+Company++-Paid) | [cheers](https://ransomwatch.telemetry.ltd/#/profiles?id=cheers) |
+| 2022-08-09 | [`An Turkey Certified Public Accountancy Firms  -Unpay`](https://google.com/search?q=An+Turkey+Certified+Public+Accountancy+Firms++-Unpay) | [cheers](https://ransomwatch.telemetry.ltd/#/profiles?id=cheers) |
 | 2022-08-08 | [`Freyr Solutions`](https://google.com/search?q=Freyr+Solutions) | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
 | 2022-08-08 | [`Artic Building Services`](https://google.com/search?q=Artic+Building+Services) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-08-07 | [`versma.com`](https://google.com/search?q=versma.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2022-07-14 | [`RALLYE-DOM`](https://google.com/search?q=RALLYE-DOM) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
 | 2022-07-14 | [`genusplc.com`](https://google.com/search?q=genusplc.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-07-14 | [`ZEUS Scientific`](https://google.com/search?q=ZEUS+Scientific) | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
-| 2022-07-14 | [`vlp.nl`](https://google.com/search?q=vlp.nl) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-07-14 | [`iis.ac.uk`](https://google.com/search?q=iis.ac.uk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
