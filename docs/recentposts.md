@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-08-09 | [`ah-a.de`](https://google.com/search?q=ah-a.de) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-08-09 | [`valverdehotel.com`](https://google.com/search?q=valverdehotel.com) | [lv](https://ransomwatch.telemetry.ltd/#/profiles?id=lv) |
 | 2022-08-09 | [`ISTA International GmbH`](https://google.com/search?q=ISTA+International+GmbH) | [daixin](https://ransomwatch.telemetry.ltd/#/profiles?id=daixin) |
 | 2022-08-09 | [`FOSUN.COM`](https://google.com/search?q=FOSUN.COM) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-07-14 | [`frederickco.gov`](https://google.com/search?q=frederickco.gov) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-07-14 | [`Behavioral Health System`](https://google.com/search?q=Behavioral+Health+System) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
 | 2022-07-14 | [`FMT`](https://google.com/search?q=FMT) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
-| 2022-07-14 | [`CITY-FURNITURE`](https://google.com/search?q=CITY-FURNITURE) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
