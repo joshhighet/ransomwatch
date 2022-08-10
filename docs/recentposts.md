@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-08-10 | [`Hot news straight from Cisco`](https://google.com/search?q=Hot+news+straight+from+Cisco) | [yanluowang](https://ransomwatch.telemetry.ltd/#/profiles?id=yanluowang) |
 | 2022-08-09 | [`8 Italy Districts`](https://google.com/search?q=8+Italy+Districts) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2022-08-09 | [`ah-a.de`](https://google.com/search?q=ah-a.de) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-08-09 | [`valverdehotel.com`](https://google.com/search?q=valverdehotel.com) | [lv](https://ransomwatch.telemetry.ltd/#/profiles?id=lv) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-07-14 | [`Duda Farm Fresh Foods  A. Duda & Sons , Inc.  Duda  A. Duda & Sons  Duda Farm Fresh Foods `](https://google.com/search?q=Duda+Farm+Fresh+Foods++A.+Duda+%26+Sons+%2C+Inc.++Duda++A.+Duda+%26+Sons++Duda+Farm+Fresh+Foods+) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-07-14 | [`Unisuper S.A.`](https://google.com/search?q=Unisuper+S.A.) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-07-14 | [`frederickco.gov`](https://google.com/search?q=frederickco.gov) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-07-14 | [`Behavioral Health System`](https://google.com/search?q=Behavioral+Health+System) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
