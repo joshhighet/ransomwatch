@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-08-16 | [`tier1techs.screenconnect.com`](https://google.com/search?q=tier1techs.screenconnect.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2022-08-16 | [`ospreyvideo.com`](https://google.com/search?q=ospreyvideo.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2022-08-16 | [`altaadhod.com`](https://google.com/search?q=altaadhod.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-08-15 | [`ELEFONDATI SRL - WAS HACKED. 20 GB OF SENSITIVE DATA STOLEN`](https://google.com/search?q=ELEFONDATI+SRL+-+WAS+HACKED.+20+GB+OF+SENSITIVE+DATA+STOLEN) | [lv](https://ransomwatch.telemetry.ltd/#/profiles?id=lv) |
 | 2022-08-14 | [`TriState HVAC Equipment`](https://google.com/search?q=TriState+HVAC+Equipment) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
 | 2022-08-13 | [`STTLK - HACKED AND MORE THEN 200GB DATA LEAKED`](https://google.com/search?q=STTLK+-+HACKED+AND+MORE+THEN+200GB+DATA+LEAKED) | [lv](https://ransomwatch.telemetry.ltd/#/profiles?id=lv) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2022-07-18 | [`bizframe.co.za`](https://google.com/search?q=bizframe.co.za) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-07-18 | [`integrate.ch`](https://google.com/search?q=integrate.ch) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-07-18 | [`aresfoods.ca`](https://google.com/search?q=aresfoods.ca) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-07-18 | [`An British Financial Company -Unpay`](https://google.com/search?q=An+British+Financial+Company+-Unpay) | [cheers](https://ransomwatch.telemetry.ltd/#/profiles?id=cheers) |
-| 2022-07-18 | [`An International Shipping Company - Paid`](https://google.com/search?q=An+International+Shipping+Company+-+Paid) | [cheers](https://ransomwatch.telemetry.ltd/#/profiles?id=cheers) |
-| 2022-07-18 | [`KNAUF`](https://google.com/search?q=KNAUF) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
