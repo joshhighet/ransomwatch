@@ -1,0 +1,437 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon"/>
+    <title>BlackByte BLOG</title>
+    <link href="/dist/font-awesome.min.css" rel="stylesheet">
+    <link href="/dist/css/bootstrap.css?v=1660712997" rel="stylesheet">
+    <link href="/blog.css?v=1660712997" rel="stylesheet">
+    <script src="/assets/js/jquery-2.1.3.min.js"></script>
+    <script src="/assets/js/vendor/popper.min.js"></script>
+    <script src="/dist/js/bootstrap.min.js"></script>
+    <script src="/script.js?v=1660712997"></script>
+    <style>
+
+
+
+
+
+
+
+
+
+
+    </style>
+
+</head>
+
+<body class="page_body">
+<div class="container">
+    <header class="blog-header py-3">
+        <div class="row flex-nowrap justify-content-between align-items-center" style="margin-bottom: 100px">
+            <div class="col-4 pt-1">
+            </div>
+            <div class="col-4 text-center">
+                <div class="ex10"><h1 class="header-name name-b">BLACKBYTE</h1></div>
+            </div>
+            <div class="col-4 d-flex justify-content-end align-items-center">
+                <div class="  email-btn "><a href="#"  id="copier">BlackByteSupp0rt@onionmail.org</a>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <script>
+
+        function GO(url) {
+            window.open(url);
+            return false;
+        }
+
+        function ShowProof(t_id) {
+            $("#target_" + t_id + " .proof_block").toggleClass("d-none d-block");
+        }
+
+        function GetDownloadLink(t_id, el) {
+            $.get("request.php", {t: "link", a: t_id}, function (data) {
+                if (data.status === 200) {
+                    $("#target_" + t_id + " .d_buttons a.btn3").removeClass("red_button").addClass("green_button");
+                    $(el).attr("href", data.link).html("Download FULL");
+                    links_full = data.links_full;
+                    var buttons = "";
+                    $.each(links_full, function (index, value) {
+                        buttons = buttons + '<a href="' + value.link + '"  target="_blank"  class=" btn btn3 legitRipple" style="margin-bottom: 3px">download ' + value.size + '</a>';
+                    });
+                    if (buttons.length > 0) {
+                        $(".desc_" + t_id + " .modal-footer .d_buttons").html(buttons);
+                    }
+
+                }
+            });
+
+        }
+
+        function BlockSizer() {
+            var W_W = $(window).width();
+
+            if (W_W < 1280 && W_W > 599) {
+
+                $(".txt").css({"max-width": ($(".cont1").width() / 2 * 0.6) + "px"});
+                $(".cont1 .bgt1 ").removeClass("col-md-4").removeClass("col-md-12").addClass("col-md-6");
+            } else if (W_W < 600) {
+                $(".txt").css({"max-width": ($(".cont1").width() / 1 * 0.6) + "px"});
+                $(".cont1 .bgt1 ").removeClass("col-md-4").removeClass("col-md-6").addClass("col-md-12");
+            } else {
+                $(".txt").css({"max-width": ($(".cont1").width() / 3 * 0.6) + "px"});
+                $(".cont1 .bgt1 ").removeClass("col-md-4").removeClass("col-md-6").removeClass("col-md-12").addClass("col-md-4");
+            }
+        }
+
+
+        function ShowContent(t_id,content_id){
+            $("#target_"+t_id+" .description_content").fadeOut(10);
+            $("#target_"+t_id+" .body"+content_id).fadeIn(10);
+        }
+
+
+        $(document).ready(function () {
+            BlockSizer();
+            window.onresize = function (event) {
+                BlockSizer();
+            }
+        });
+
+
+    </script>
+
+
+
+    <div class="row cont1">
+
+        
+            <script>
+                var proof_img_block1 = '<img src="proofs/1/proof.png" alt="" class="proof">';
+
+                function ShowProof1() {
+                    if (showed1 === 0) {
+                        showed1 = 1;
+                        $("#target_1 .proof_block").html(proof_img_block1).slideDown(400);
+                    } else {
+                        showed1 = 0;
+                        $("#target_1 .proof_block").html(' ').slideUp(400);
+                    }
+                }
+
+                function ShowDButtons1() {
+                    if (showed_d_buttons1 === 0) {
+                        showed_d_buttons1 = 1;
+                        $("#target_1 .d_buttons").slideDown(400);
+                    } else {
+                        showed_d_buttons1 = 0;
+                        $("#target_1 .d_buttons").slideUp(400);
+                    }
+                }
+
+                var showed1 = 0;
+                var showed_d_buttons1 = 0;
+                var HAPPYSEC1 = 3772203;
+                var t_sec1 = HAPPYSEC1;
+                var time1;
+                var intervalId1= 0;
+
+                $(document).ready(function () {
+                    $("#target_1 .d_buttons a.btn3").addClass("red_button");
+                    intervalId1 = setInterval(function () {
+                        timerDecrement1();
+                    }, 1000);
+                });
+
+                function timerDecrement1() {
+                    time1 = $('#target_1 span.timer');
+
+                    if (t_sec1 < 1) {
+                        t_sec1 = 0;
+                        newTime = t_sec1 ;
+                    } else {
+                        newTime = t_sec1 - 1;
+                    }
+
+                    t_sec1 = newTime;
+
+                    var t_min = t_sec1 / 60;
+                    var t_hour = t_min / 60;
+                    var t_day =
+                        '<b>' + Math.floor(t_hour / 24) + '</b>d ' +
+                        '<b>' + Math.floor(t_hour % 24) + '</b>h ' +
+                        '<b>' + Math.floor(t_min % 60) + '</b>m ' +
+                        '<b>' + Math.floor(t_sec1 % 60) + '</b>s ';
+
+                    time1.html(t_day);
+
+                    if (newTime === 0 && HAPPYSEC1 > 0 || newTime < 1) {
+                        time1.html('');
+                        $("#target_1 .lock").attr("src", "assets/img/lockopen.png");
+                        $("#target_1 .clock").attr("src", "assets/img/clockred.png").addClass("clockred");
+                        $("#target_1 .btn2").addClass("redbg");
+                        $("#target_1 .arrow-8").addClass("r8");
+                        $("#target_1 .perc").html("100%");
+                        clearInterval(intervalId1);
+                        GetDownloadLink(1, $("#target_1 .by_button"));
+                    }
+                }
+
+            </script>
+
+            <div class="col-md-4 col-sm-12 bgt1 " id="target_1">
+                <table class="table table-bordered table-content ">
+                    <tr style=";" class="content-fone">
+                        <td class="txt td-1"><h1
+                                    class="h_font">Apex Capital Corp</h1>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p class="lead-text5">Apex has been one of the strongest brands in financial services for the transportation industry for over 20 years. Apex is the full-service freight factor, that means we buy our clients’ freight bills but we also assist them with successfully running and growing their trucking companies. The Apex difference includes managing their accounts receivable, providing free and unlimited credit information, back office support and collections, and a fuel card discount program that saves our clients thousands on fuel. We care about clients, partners, and each other. Our mission is to provide our clients with excellent customer service and be more than just their factoring company.                            </p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="td-time">
+                                                            <div class="timer-div"><span class="timer"></span></div>
+                                                    </td>
+                        <td class="btx btx3 btx-position" onclick="$('.desc_1').modal('show') ">OPEN
+                        </td>
+                    </tr>
+                </table>
+            </div>
+
+            <script>
+                function copy1(text,target_id,block){
+                    selector = ".copy_input_1";
+                    $(selector).val(text);
+                    $(selector).focus();
+                    $(selector).select();
+                    document.execCommand("copy");
+                    old_text = "";
+                    copied_text = "Copied!";
+                    $("#target_"+target_id+" ."+block+" .copied").html(copied_text);
+                    setTimeout(function () {
+                        $("#target_"+target_id+" ."+block+" .copied").html(old_text);
+                    },1000)
+                }
+
+            </script>
+
+            <div class="modal desc_1" tabindex="-1" id="target_1">
+                <div class="modal-dialog  ">
+                    <div class="modal-content modal_content_custom">
+                        <div class="modal-header">
+                            <h5 class="modal-title font-italic">
+                                <div class="b-pulse">B</div>
+                            </h5>
+                        </div>
+                        <div class="modal-body">
+                            <div class="col-md-12 px-0">
+                                <div class="proof_block text-center"></div>
+
+                                <input type="text" class="inp-copy copy_input_1" value="">
+                                <div class=" lead_text my-3 pb-3">Apex has been one of the strongest brands in financial services for the transportation industry for over 20 years. Apex is the full-service freight factor, that means we buy our clients’ freight bills but we also assist them with successfully running and growing their trucking companies. The Apex difference includes managing their accounts receivable, providing free and unlimited credit information, back office support and collections, and a fuel card discount program that saves our clients thousands on fuel. We care about clients, partners, and each other. Our mission is to provide our clients with excellent customer service and be more than just their factoring company.</div>
+                                <div class="body0 description_content cont2"></div>
+
+
+                                <div class="body1 description_content" style="display: none;"  >
+                                    <div>
+                                        <a href="javascript:" onclick="ShowContent(1,0);" class="close"></a>
+                                        <div class="send">Send <b><span class="send-1">5000$</span></b> to address:
+                                            <i class="fa fa-level-down down-address"></i>
+                                        </div>
+                                        <div class="linear"></div>
+                                        <div class="lin-1">
+                                            <div class="wallet-block">Wallets</div><div class="proof-img">Proofs Block</div>
+                                            <div class="block-wa"><div class="btc-block">Bitcoin (BTC) wallet: Copy address <i   data-wallet="#" class="copier-btc btc-copy fa fa-copy" onclick="copy1('#',1,'btc-block')"></i> <span style="" class="copied"></span></div>
+
+                                                <div class="monero-block" >Monero (XMR) wallet: Copy address <i data-mon_ero="#"  class="btc-copy fa fa-copy" onclick="copy1('#',1,'monero-block')"></i> <span class="copied"></span></div></div>
+
+                                            <div class="image__wrapper"><img src="proofs/1/proof.png"  alt="" class=" minimized proof logo-color"></div>
+                                        </div>
+                                        <div class="block-time"><div class="linear"></div>
+                                            <div class="tim-h">After payment confirmation the timer will be extended for 24 hours</div>
+                                            <div class="linear2"></div></div>
+                                        <div class="tox-chat">Copy TOX ID <i data-chat="61141FCA047691D0E47CFD84717B59D3BEDF822442B5E907BE147FD6B8A11B723A48DF7FCA47"  onclick="copy1('61141FCA047691D0E47CFD84717B59D3BEDF822442B5E907BE147FD6B8A11B723A48DF7FCA47',1,'tox-chat')"class="btc-copy fa fa-copy"></i><span class="copied"></span></div>
+
+                                        <div class="sapport-cls">After confirming payment, please write to the TOX chat room<a
+                                                    class="download-mess" target="_blank" href="#">
+                                                <i class="fa fa-download ico-download"></i>
+                                            </a></div>
+                                    </div>
+                                </div>
+
+                                <div class="body2 description_content" style="display: none">
+                                    <div>
+                                        <a href="javascript:" onclick="ShowContent(1,0);" class="close"></a>
+                                        <div class="send">Send <b><span class="send-1">300000$</span></b> to address:
+                                            <i class="fa fa-level-down down-address"></i>
+                                        </div>
+                                        <div class="linear"></div>
+                                        <div class="lin-1">
+                                            <div class="wallet-block">Wallets</div><div class="proof-img">Proofs Block</div>
+                                            <div class="block-wa"><div class="btc-block">Bitcoin (BTC) wallet: Copy address <i   data-wallet="#" class="copier-btc btc-copy fa fa-copy" onclick="copy1('#',1,'btc-block')"></i> <span class="copied"></span></div>
+
+                                                <div class="monero-block" >Monero (XMR) wallet: Copy address <i data-mon_ero="#"  class="btc-copy fa fa-copy" onclick="copy1('#',1,'monero-block')"></i> <span class="copied"></span></div></div>
+                                            <div class="image__wrapper"><img src="proofs/1/proof.png"  alt="" class=" minimized proof logo-color"></div>
+                                        </div>
+                                        <div class="block-time"><div class="linear"></div>
+                                            <div class="tim-h">After payment confirmation all information will be deleted</div>
+                                            <div class="linear2"></div></div>
+                                        <div class="tox-chat">Copy TOX ID <i data-chat="61141FCA047691D0E47CFD84717B59D3BEDF822442B5E907BE147FD6B8A11B723A48DF7FCA47"  onclick="copy1('61141FCA047691D0E47CFD84717B59D3BEDF822442B5E907BE147FD6B8A11B723A48DF7FCA47',1,'tox-chat')"class="btc-copy fa fa-copy"></i><span class="copied"></span></div>
+
+                                        <div class="sapport-cls">After confirming payment, please write to the TOX chat room<a
+                                                    class="download-mess" target="_blank" href="#">
+                                                <i class="fa fa-download ico-download"></i>
+                                            </a></div>
+                                    </div>
+                                </div>
+
+                                <div class="body3 description_content" style="display: none">
+                                    <div>
+                                        <a href="javascript:" onclick="ShowContent(1,0);" class="close"   aria-label="Close"></a>
+                                        <div class="send">Send <b><span class="send-1">200000$</span></b> to address:
+                                            <i class="fa fa-level-down down-address"></i>
+                                        </div>
+                                        <div class="linear"></div>
+                                        <div class="lin-1">
+                                            <div class="wallet-block">Wallets</div><div class="proof-img">Proofs Block</div>
+                                            <div class="block-wa"><div class="btc-block">Bitcoin (BTC) wallet: Copy address <i   data-wallet="#" class="copier-btc btc-copy fa fa-copy" onclick="copy1('#',1,'btc-block')"></i> <span class="copied"></span></div>
+
+
+                                                <div class="monero-block" >Monero (XMR) wallet: Copy address <i data-mon_ero="#"  class="btc-copy fa fa-copy" onclick="copy1('#',1,'monero-block')"></i> <span class="copied"></span></div></div>
+                                            <div class="image__wrapper"><img src="proofs/1/proof.png"  alt="" class=" minimized proof logo-color"></div>
+                                        </div>
+                                        <div class="block-time"><div class="linear"></div>
+                                            <div class="tim-h">After confirmation of payment you will be able to download all data</div>
+                                            <div class="linear2"></div></div>
+                                        <div class="tox-chat">Copy TOX ID <i data-chat="61141FCA047691D0E47CFD84717B59D3BEDF822442B5E907BE147FD6B8A11B723A48DF7FCA47"  onclick="copy1('61141FCA047691D0E47CFD84717B59D3BEDF822442B5E907BE147FD6B8A11B723A48DF7FCA47',1,'tox-chat')"class="btc-copy fa fa-copy"></i><span class="copied"></span></div>
+
+                                        <div class="sapport-cls">After confirming payment, please write to the TOX chat room<a
+                                                    class="download-mess" target="_blank" href="#">
+                                                <i class="fa fa-download ico-download"></i>
+                                            </a></div>
+                                    </div>
+                                </div>
+
+
+                            </div>
+                            <div class="col-md-12 row px-0  mt-4 mb-4 ml-0">
+                                <div class="col-md-4 text-center ">
+                                    <p class="lead mb-0 squ">
+                                        <span class="text-white font-weight-bold ">  </span>
+                                        <br><a class="btn btn-sm animated-button thar-three" href="javascript:" onclick="ShowContent(1,1);">Extend
+                                            timer for 24 hours</a><br>
+                                        <span class="hours-25">5000$</span>
+                                    </p>
+                                </div>
+                                <div class="col-md-4 text-center">
+                                    <p class="lead mb-0 squ">
+                                        <span class="text-white font-weight-bold "></span><br>
+                                        <a class="btn btn-sm animated-button thar-three" href="javascript:" onclick="ShowContent(1,2);">Destroy all
+                                            information</a><br>
+                                        <span class="hours-25">300000$</span>
+                                    </p>
+                                </div>
+                                <div class="col-md-4 text-center">
+                                    <p class="lead mb-0 squ">
+                                        <span class="text-white font-weight-bold"></span><br>
+                                        <a class="btn btn-sm animated-button thar-three"href="javascript:" onclick="ShowContent(1,3);">Download
+                                            all data</a><br>
+                                        <span class="hours-25">200000$</span>
+                                    </p>
+                                </div>
+                            </div>
+
+                            <div class="col-md-12 row px-0 mt-5">
+                                <div class="col-md-12 text-center"></div>
+
+                                <div class="btnred red-button">
+                                    <div class="arrow-8"></div>
+                                    <a href="javascript:"
+                                       class=" fre-btn btn btn2 legitRipple by_button  "
+                                       onclick="ShowDButtons1()">Buy </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="modal-footer">
+                            <div class="col-md-12 text-center d_buttons" style="display: none"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+
+            
+    </div>
+    
+</div>
+
+<footer class="blog-footer">
+    <p class="footer-name">BLACKBYTE</p>
+</footer>
+
+<script>
+
+    var ADMIN_EMAIL = "BlackByteSupp0rt@onionmail.org";
+
+    var ADMIN_NAME = "BLACKBYTE";
+
+    function copyToClipboard(text) {
+        var copytext = document.createElement('input')
+        if (typeof text == 'undefined') copytext.value = window.location.href
+        else copytext.value = text
+        document.body.appendChild(copytext)
+        copytext.select()
+        document.execCommand('copy')
+        document.body.removeChild(copytext)
+    }
+
+    $(function () {
+        $("#copier").on('click', function () {
+            copyToClipboard(ADMIN_EMAIL);
+            var element = $(this);
+            var old_text = ADMIN_EMAIL;
+            element.html("Copied");
+            setTimeout(function () {
+                element.html(old_text);
+            }, 1000);
+
+        })
+
+
+
+    });
+
+
+    $(function(){
+        $('.minimized').click(function(event) {
+            var i_path = $(this).attr('src');
+            $('body').append('<div id="overlay"></div><div id="magnify"><img src="'+i_path+'"><div id="close-popup"><i></i></div></div>');
+            $('#magnify').css({
+                left: ($(document).width() - $('#magnify').outerWidth())/2,
+
+                top: ($(window).height() - $('#magnify').outerHeight())/2
+            });
+            $('#overlay, #magnify').fadeIn('fast');
+        });
+
+        $('body').on('click', '#close-popup, #overlay', function(event) {
+            event.preventDefault();
+            $('#overlay, #magnify').fadeOut('fast', function() {
+                $('#close-popup, #magnify, #overlay').remove();
+            });
+        });
+    });
+
+
+</script>
+
+</body>
+</html>
