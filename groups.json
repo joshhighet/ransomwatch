@@ -1214,9 +1214,19 @@
                 "available": false,
                 "updated": "2022-07-12 20:09:43.526492",
                 "lastscrape": "2022-07-12 20:09:43.526477"
+            },
+            {
+                "fqdn": "jbeg2dct2zhku6c2vwnpxtm2psnjo2xnqvvpoiiwr5hxnc6wrp3uhnad.onion",
+                "title": null,
+                "version": 3,
+                "slug": "http://jbeg2dct2zhku6c2vwnpxtm2psnjo2xnqvvpoiiwr5hxnc6wrp3uhnad.onion",
+                "available": false,
+                "updated": null,
+                "lastscrape": "2021-05-01 00:00:00.000000"
             }
         ],
         "profile": [
+            "61141FCA047691D0E47CFD84717B59D3BEDF822442B5E907BE147FD6B8A11B723A48DF7FCA47",
             "BlackByteSupp0rt@onionmail.org",
             "https://www.zdnet.com/article/blackbyte-ransomware-decryptor-released/",
             "https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/blackbyte-ransomware-pt-1-in-depth-analysis/",
