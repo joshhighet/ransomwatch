@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-08-17 | [`Stratford University`](https://google.com/search?q=Stratford+University) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
 | 2022-08-17 | [`Accelya`](https://google.com/search?q=Accelya) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-08-17 | [`Apex Capital Corp`](https://google.com/search?q=Apex+Capital+Corp) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
 | 2022-08-16 | [`porcelanosa-usa.com`](https://google.com/search?q=porcelanosa-usa.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-07-19 | [`clestra.com`](https://google.com/search?q=clestra.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-07-19 | [`Delon Hampton &amp; Associates, Chartered`](https://google.com/search?q=Delon+Hampton+%26amp%3B+Associates%2C+Chartered) | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
 | 2022-07-19 | [`Autohaus`](https://google.com/search?q=Autohaus) | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
-| 2022-07-18 | [`Broshuis - Driving innovation`](https://google.com/search?q=Broshuis+-+Driving+innovation) | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
