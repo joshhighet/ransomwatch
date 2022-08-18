@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-08-18 | [`An British Financial Company -Public`](https://google.com/search?q=An+British+Financial+Company+-Public) | [cheers](https://ransomwatch.telemetry.ltd/#/profiles?id=cheers) |
+| 2022-08-18 | [`WOOTTON ACADEMY TRUST`](https://google.com/search?q=WOOTTON+ACADEMY+TRUST) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
+| 2022-08-18 | [`File-tree of Tang Capital`](https://google.com/search?q=File-tree+of+Tang+Capital) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
 | 2022-08-17 | [`Stratford University`](https://google.com/search?q=Stratford+University) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
 | 2022-08-17 | [`Accelya`](https://google.com/search?q=Accelya) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-08-17 | [`Apex Capital Corp`](https://google.com/search?q=Apex+Capital+Corp) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2022-07-19 | [`fedefarma.com`](https://google.com/search?q=fedefarma.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-07-19 | [`cpicfiber.com`](https://google.com/search?q=cpicfiber.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-07-19 | [`columbiagrain.com`](https://google.com/search?q=columbiagrain.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-07-19 | [`clestra.com`](https://google.com/search?q=clestra.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-07-19 | [`Delon Hampton &amp; Associates, Chartered`](https://google.com/search?q=Delon+Hampton+%26amp%3B+Associates%2C+Chartered) | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
-| 2022-07-19 | [`Autohaus`](https://google.com/search?q=Autohaus) | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
