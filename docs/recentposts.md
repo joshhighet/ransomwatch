@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-08-19 | [`Reiter Affiliated Companies`](https://google.com/search?q=Reiter+Affiliated+Companies) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
 | 2022-08-19 | [`PROSOL`](https://google.com/search?q=PROSOL) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2022-08-19 | [`Shaw &amp; Slavsky`](https://google.com/search?q=Shaw+%26amp%3B+Slavsky) | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
 | 2022-08-18 | [`Department of Indre-et-Loire`](https://google.com/search?q=Department+of+Indre-et-Loire) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-07-19 | [`XQUADRAT GmbH`](https://google.com/search?q=XQUADRAT+GmbH) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2022-07-19 | [`San Luis Coastal Unified`](https://google.com/search?q=San+Luis+Coastal+Unified) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2022-07-19 | [`An Insurance Company`](https://google.com/search?q=An+Insurance+Company) | [cheers](https://ransomwatch.telemetry.ltd/#/profiles?id=cheers) |
-| 2022-07-19 | [`GENSCO Inc. - allows Leak`](https://google.com/search?q=GENSCO+Inc.+-+allows+Leak) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
