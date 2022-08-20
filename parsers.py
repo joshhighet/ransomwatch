@@ -765,3 +765,14 @@ def daixin():
         errlog('daixin: ' + 'parsing fail')
     for post in posts:
         appender(post, 'daixin')
+
+def icefire():
+    stdlog('parser: ' + 'icefire')
+    parser = '''
+    grep align-middle -C 2 source/icefire-*.html | grep span | grep -v '\*\*\*\*' | grep -v updating | grep '\*\.' | cut -d '>' -f 2 | cut -d '<' -f 1
+    '''
+    posts = runshellcmd(parser)
+    if len(posts) == 1:
+        errlog('icefire: ' + 'parsing fail')
+    for post in posts:
+        appender(post, 'icefire')

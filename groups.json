@@ -3272,5 +3272,24 @@
             }
         ],
         "profile": []
+    },
+    {
+        "name": "icefire",
+        "captcha": false,
+        "parser": true,
+        "javascript_render": false,
+        "meta": null,
+        "locations": [
+            {
+                "fqdn": "kf6x3mjeqljqxjznaw65jixin7dpcunfxbbakwuitizytcpzn4iy5bad.onion",
+                "title": null,
+                "version": 3,
+                "slug": "http://kf6x3mjeqljqxjznaw65jixin7dpcunfxbbakwuitizytcpzn4iy5bad.onion/board/leak_list/",
+                "available": false,
+                "updated": null,
+                "lastscrape": "2021-05-01 00:00:00.000000"
+            }
+        ],
+        "profile": []
     }
 ]
