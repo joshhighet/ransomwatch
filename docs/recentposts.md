@@ -4,6 +4,17 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-08-20 | [`*.algotrader.com`](https://google.com/search?q=%2A.algotrader.com) | [icefire](https://ransomwatch.telemetry.ltd/#/profiles?id=icefire) |
+| 2022-08-20 | [`*.bestservers.pro`](https://google.com/search?q=%2A.bestservers.pro) | [icefire](https://ransomwatch.telemetry.ltd/#/profiles?id=icefire) |
+| 2022-08-20 | [`*.iperactive.com.ar`](https://google.com/search?q=%2A.iperactive.com.ar) | [icefire](https://ransomwatch.telemetry.ltd/#/profiles?id=icefire) |
+| 2022-08-20 | [`*.cco1.com`](https://google.com/search?q=%2A.cco1.com) | [icefire](https://ransomwatch.telemetry.ltd/#/profiles?id=icefire) |
+| 2022-08-20 | [`*.vps-vds.com`](https://google.com/search?q=%2A.vps-vds.com) | [icefire](https://ransomwatch.telemetry.ltd/#/profiles?id=icefire) |
+| 2022-08-20 | [`*.guneshosting.com`](https://google.com/search?q=%2A.guneshosting.com) | [icefire](https://ransomwatch.telemetry.ltd/#/profiles?id=icefire) |
+| 2022-08-20 | [`*.kodhosting.com`](https://google.com/search?q=%2A.kodhosting.com) | [icefire](https://ransomwatch.telemetry.ltd/#/profiles?id=icefire) |
+| 2022-08-20 | [`*.kru.ac.th`](https://google.com/search?q=%2A.kru.ac.th) | [icefire](https://ransomwatch.telemetry.ltd/#/profiles?id=icefire) |
+| 2022-08-20 | [`*.directfn.net`](https://google.com/search?q=%2A.directfn.net) | [icefire](https://ransomwatch.telemetry.ltd/#/profiles?id=icefire) |
+| 2022-08-20 | [`*.feesh.ch`](https://google.com/search?q=%2A.feesh.ch) | [icefire](https://ransomwatch.telemetry.ltd/#/profiles?id=icefire) |
+| 2022-08-20 | [`*.skifgroup.com`](https://google.com/search?q=%2A.skifgroup.com) | [icefire](https://ransomwatch.telemetry.ltd/#/profiles?id=icefire) |
 | 2022-08-19 | [`Greece pipeline company breached - DESFA`](https://google.com/search?q=Greece+pipeline+company+breached+-+DESFA) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
 | 2022-08-19 | [`Reiter Affiliated Companies`](https://google.com/search?q=Reiter+Affiliated+Companies) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
 | 2022-08-19 | [`PROSOL`](https://google.com/search?q=PROSOL) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
@@ -193,14 +204,3 @@ _last `200` posts_
 | 2022-07-21 | [`mwd.digital`](https://google.com/search?q=mwd.digital) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-07-20 | [`Edenfield`](https://google.com/search?q=Edenfield) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2022-07-20 | [`mec.com`](https://google.com/search?q=mec.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-07-20 | [`lexingtonnational.com`](https://google.com/search?q=lexingtonnational.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-07-20 | [`keystonelegal.co.uk`](https://google.com/search?q=keystonelegal.co.uk) | [redalert](https://ransomwatch.telemetry.ltd/#/profiles?id=redalert) |
-| 2022-07-20 | [`LaVan & Neidenberg`](https://google.com/search?q=LaVan+%26+Neidenberg) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
-| 2022-07-20 | [`COS2000`](https://google.com/search?q=COS2000) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2022-07-20 | [`The Minka Group`](https://google.com/search?q=The+Minka+Group) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2022-07-20 | [`competencia.com.ec`](https://google.com/search?q=competencia.com.ec) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-07-20 | [`coastalmedps.com`](https://google.com/search?q=coastalmedps.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-07-20 | [`addconsult.nl`](https://google.com/search?q=addconsult.nl) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-07-20 | [`FederalBank/Fedfina.part2`](https://google.com/search?q=FederalBank%2FFedfina.part2) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
-| 2022-07-19 | [`XQUADRAT GmbH`](https://google.com/search?q=XQUADRAT+GmbH) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
-| 2022-07-19 | [`San Luis Coastal Unified`](https://google.com/search?q=San+Luis+Coastal+Unified) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
