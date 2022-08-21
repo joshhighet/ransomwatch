@@ -4,6 +4,15 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-08-21 | [`SOUTH-STAFFS-WATER.CO.UK FILES PART1 - 10.80.74.230\ PUBLISHED`](https://google.com/search?q=SOUTH-STAFFS-WATER.CO.UK+FILES+PART1+-+10.80.74.230%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2022-08-21 | [`PRICEDEX.COM FILES PART13 - 10.0.10.1\E$\Shares\projects\Marketing and Business\Opticat\ P`](https://google.com/search?q=PRICEDEX.COM+FILES+PART13+-+10.0.10.1%5CE%24%5CShares%5Cprojects%5CMarketing+and+Business%5COpticat%5C+P) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2022-08-21 | [`NEWCOURSECC.COM FILES PART14 - 10.168.0.7\Datastore\FTP_Archive\ PUBLISHED`](https://google.com/search?q=NEWCOURSECC.COM+FILES+PART14+-+10.168.0.7%5CDatastore%5CFTP_Archive%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2022-08-21 | [`ORBITELECTRIC.COM FILES PART20 - 192.168.10.122\C$\Users\RAMONH\Desktop\Kashmal\ PUBLISHED`](https://google.com/search?q=ORBITELECTRIC.COM+FILES+PART20+-+192.168.10.122%5CC%24%5CUsers%5CRAMONH%5CDesktop%5CKashmal%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2022-08-21 | [`FERRAN-SERVICES.COM FILES PART13 - D\Company\ PUBLISHED`](https://google.com/search?q=FERRAN-SERVICES.COM+FILES+PART13+-+D%5CCompany%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2022-08-21 | [`SPINNEYS.COM FILES PART5 - 10.20.50.10\F$\Retail_Finance\Private\SKN\COMMON\EXPENSES(EJ)\S`](https://google.com/search?q=SPINNEYS.COM+FILES+PART5+-+10.20.50.10%5CF%24%5CRetail_Finance%5CPrivate%5CSKN%5CCOMMON%5CEXPENSES%28EJ%29%5CS) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2022-08-21 | [`LATOURNERIE-WOLFROM.COM FILES PART13 - 10.100.57.131\C$\Users\CW\Documents\ PUBLISHED`](https://google.com/search?q=LATOURNERIE-WOLFROM.COM+FILES+PART13+-+10.100.57.131%5CC%24%5CUsers%5CCW%5CDocuments%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2022-08-21 | [`FTSUMNERK12.COM FILES PART13 - 192.168.0.244\StudentShare\GATE\Fikany YB\ PUBLISHED`](https://google.com/search?q=FTSUMNERK12.COM+FILES+PART13+-+192.168.0.244%5CStudentShare%5CGATE%5CFikany+YB%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2022-08-21 | [`APPLEXUS.COM FILES PART5 - 192.168.3.15\D$\COMPANIES\Applexus Technologies PUBLISHED`](https://google.com/search?q=APPLEXUS.COM+FILES+PART5+-+192.168.3.15%5CD%24%5CCOMPANIES%5CApplexus+Technologies+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-08-21 | [`Family Medicine Centers`](https://google.com/search?q=Family+Medicine+Centers) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2022-08-21 | [`BSA Hospice of the Southwest`](https://google.com/search?q=BSA+Hospice+of+the+Southwest) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2022-08-20 | [`*.algotrader.com`](https://google.com/search?q=%2A.algotrader.com) | [icefire](https://ransomwatch.telemetry.ltd/#/profiles?id=icefire) |
@@ -195,12 +204,3 @@ _last `200` posts_
 | 2022-07-22 | [`taylorstafford.com`](https://google.com/search?q=taylorstafford.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-07-22 | [`osde.com.ar`](https://google.com/search?q=osde.com.ar) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-07-22 | [`zhulian.co.th`](https://google.com/search?q=zhulian.co.th) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-07-22 | [`townofstmarys.com`](https://google.com/search?q=townofstmarys.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-07-22 | [`bizebra.com`](https://google.com/search?q=bizebra.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-07-21 | [`FederalBank/Fedfina.part3`](https://google.com/search?q=FederalBank%2FFedfina.part3) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
-| 2022-07-21 | [`CHDE POLSKA`](https://google.com/search?q=CHDE+POLSKA) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
-| 2022-07-21 | [`HANDLER Bau GmbH`](https://google.com/search?q=HANDLER+Bau+GmbH) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2022-07-21 | [`a2-pas.fr`](https://google.com/search?q=a2-pas.fr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-07-21 | [`site-technology`](https://google.com/search?q=site-technology) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
-| 2022-07-21 | [`ocrex.com`](https://google.com/search?q=ocrex.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-07-21 | [`mwd.digital`](https://google.com/search?q=mwd.digital) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
