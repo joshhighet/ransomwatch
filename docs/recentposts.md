@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-08-21 | [`Family Medicine Centers`](https://google.com/search?q=Family+Medicine+Centers) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
+| 2022-08-21 | [`BSA Hospice of the Southwest`](https://google.com/search?q=BSA+Hospice+of+the+Southwest) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2022-08-20 | [`*.algotrader.com`](https://google.com/search?q=%2A.algotrader.com) | [icefire](https://ransomwatch.telemetry.ltd/#/profiles?id=icefire) |
 | 2022-08-20 | [`*.bestservers.pro`](https://google.com/search?q=%2A.bestservers.pro) | [icefire](https://ransomwatch.telemetry.ltd/#/profiles?id=icefire) |
 | 2022-08-20 | [`*.iperactive.com.ar`](https://google.com/search?q=%2A.iperactive.com.ar) | [icefire](https://ransomwatch.telemetry.ltd/#/profiles?id=icefire) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2022-07-21 | [`site-technology`](https://google.com/search?q=site-technology) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
 | 2022-07-21 | [`ocrex.com`](https://google.com/search?q=ocrex.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-07-21 | [`mwd.digital`](https://google.com/search?q=mwd.digital) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-07-20 | [`Edenfield`](https://google.com/search?q=Edenfield) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
-| 2022-07-20 | [`mec.com`](https://google.com/search?q=mec.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
