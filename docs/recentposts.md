@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-08-23 | [`Moskowitz, Mandell &amp; Salim, P.A.`](https://google.com/search?q=Moskowitz%2C+Mandell+%26amp%3B+Salim%2C+P.A.) | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
 | 2022-08-22 | [`Northern Contours Inc.`](https://google.com/search?q=Northern+Contours+Inc.) | [lorenz](https://ransomwatch.telemetry.ltd/#/profiles?id=lorenz) |
 | 2022-08-22 | [`northwestpipe.com`](https://google.com/search?q=northwestpipe.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-08-21 | [`SOUTH-STAFFS-WATER.CO.UK FILES PART1 - 10.80.74.230\ PUBLISHED`](https://google.com/search?q=SOUTH-STAFFS-WATER.CO.UK+FILES+PART1+-+10.80.74.230%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-07-22 | [`lanormandise.fr`](https://google.com/search?q=lanormandise.fr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-07-22 | [`laneprint.com.au`](https://google.com/search?q=laneprint.com.au) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-07-22 | [`Yong Mao Environmental Tech. Co.,Ltd`](https://google.com/search?q=Yong+Mao+Environmental+Tech.+Co.%2CLtd) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-07-22 | [`taylorstafford.com`](https://google.com/search?q=taylorstafford.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
