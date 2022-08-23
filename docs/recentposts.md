@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-08-23 | [`Bombardier Recreational Products (BRP)`](https://google.com/search?q=Bombardier+Recreational+Products+%28BRP%29) | [ransomexx](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomexx) |
+| 2022-08-23 | [`Announcement. Action Lab File-tree`](https://google.com/search?q=Announcement.+Action+Lab+File-tree) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
 | 2022-08-23 | [`DESFA - Pipeline company LEAK`](https://google.com/search?q=DESFA+-+Pipeline+company+LEAK) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
 | 2022-08-23 | [`Moskowitz, Mandell &amp; Salim, P.A.`](https://google.com/search?q=Moskowitz%2C+Mandell+%26amp%3B+Salim%2C+P.A.) | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
 | 2022-08-22 | [`Northern Contours Inc.`](https://google.com/search?q=Northern+Contours+Inc.) | [lorenz](https://ransomwatch.telemetry.ltd/#/profiles?id=lorenz) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2022-07-23 | [`KKJM Lawfirm`](https://google.com/search?q=KKJM+Lawfirm) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-07-23 | [`Hometrust Mortgage Company`](https://google.com/search?q=Hometrust+Mortgage+Company) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-07-23 | [`roedeanschool.co.za`](https://google.com/search?q=roedeanschool.co.za) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-07-22 | [`lanormandise.fr`](https://google.com/search?q=lanormandise.fr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-07-22 | [`laneprint.com.au`](https://google.com/search?q=laneprint.com.au) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
