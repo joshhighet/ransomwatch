@@ -4,6 +4,15 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-08-23 | [`studiobarba.com`](https://google.com/search?q=studiobarba.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2022-08-23 | [`ruffinlawyers.com.au`](https://google.com/search?q=ruffinlawyers.com.au) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2022-08-23 | [`robitgroup.com`](https://google.com/search?q=robitgroup.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2022-08-23 | [`pinjuhlaw.com`](https://google.com/search?q=pinjuhlaw.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2022-08-23 | [`orioninc.com`](https://google.com/search?q=orioninc.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2022-08-23 | [`destinationhope.com`](https://google.com/search?q=destinationhope.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2022-08-23 | [`barrydowd.com`](https://google.com/search?q=barrydowd.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2022-08-23 | [`Engine Power`](https://google.com/search?q=Engine+Power) | [lorenz](https://ransomwatch.telemetry.ltd/#/profiles?id=lorenz) |
+| 2022-08-23 | [`Apex`](https://google.com/search?q=Apex) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
 | 2022-08-23 | [`Bombardier Recreational Products (BRP)`](https://google.com/search?q=Bombardier+Recreational+Products+%28BRP%29) | [ransomexx](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomexx) |
 | 2022-08-23 | [`Announcement. Action Lab File-tree`](https://google.com/search?q=Announcement.+Action+Lab+File-tree) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
 | 2022-08-23 | [`DESFA - Pipeline company LEAK`](https://google.com/search?q=DESFA+-+Pipeline+company+LEAK) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
@@ -195,12 +204,3 @@ _last `200` posts_
 | 2022-07-24 | [`NEWCOURSECC.COM FILES PART10 - 10.168.0.7\Datastore\FTP_Archive\ PUBLISHED`](https://google.com/search?q=NEWCOURSECC.COM+FILES+PART10+-+10.168.0.7%5CDatastore%5CFTP_Archive%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-07-24 | [`888VOIP.COM FILES PART9 - 192.168.14.19\C$\Users\ijoyce.AMTECH\Desktop\Fortnite\FortniteGa`](https://google.com/search?q=888VOIP.COM+FILES+PART9+-+192.168.14.19%5CC%24%5CUsers%5Cijoyce.AMTECH%5CDesktop%5CFortnite%5CFortniteGa) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-07-24 | [`ORBITELECTRIC.COM FILES PART16 - 92.168.10.107\C$\Users\benjiet\Documents\DONOTdelete!\PST`](https://google.com/search?q=ORBITELECTRIC.COM+FILES+PART16+-+92.168.10.107%5CC%24%5CUsers%5Cbenjiet%5CDocuments%5CDONOTdelete%21%5CPST) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-07-24 | [`FERRAN-SERVICES.COM FILES PART9 - D\Company\ PUBLISHED`](https://google.com/search?q=FERRAN-SERVICES.COM+FILES+PART9+-+D%5CCompany%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-07-24 | [`ENSSECURITY.COM FILES PART9 - D\FTP\ENS\Public_Share\Marketing_Dept-Public\2020 Marketing\`](https://google.com/search?q=ENSSECURITY.COM+FILES+PART9+-+D%5CFTP%5CENS%5CPublic_Share%5CMarketing_Dept-Public%5C2020+Marketing%5C) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-07-24 | [`LATOURNERIE-WOLFROM.COM FILES PART9 - 10.100.57.15\Trans\ PUBLISHED`](https://google.com/search?q=LATOURNERIE-WOLFROM.COM+FILES+PART9+-+10.100.57.15%5CTrans%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-07-24 | [`FTSUMNERK12.COM FILES PART9 - 192.168.0.244\Staff\ PUBLISHED`](https://google.com/search?q=FTSUMNERK12.COM+FILES+PART9+-+192.168.0.244%5CStaff%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-07-24 | [`AFJCONSULTING.NET FILES PART16 - C\ PUBLISHED`](https://google.com/search?q=AFJCONSULTING.NET+FILES+PART16+-+C%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-07-24 | [`daytonsuperior.com`](https://google.com/search?q=daytonsuperior.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-07-23 | [`KKJM Lawfirm`](https://google.com/search?q=KKJM+Lawfirm) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2022-07-23 | [`Hometrust Mortgage Company`](https://google.com/search?q=Hometrust+Mortgage+Company) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2022-07-23 | [`roedeanschool.co.za`](https://google.com/search?q=roedeanschool.co.za) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
