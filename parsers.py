@@ -776,3 +776,14 @@ def icefire():
         errlog('icefire: ' + 'parsing fail')
     for post in posts:
         appender(post, 'icefire')
+
+def donutleaks():
+    stdlog('parser: ' + 'donutleaks')
+    parser = '''
+    grep '<h2 class="post-title">' source/donutleaks-*.html --no-filename | cut -d '>' -f 3 | cut -d '<' -f 1
+    '''
+    posts = runshellcmd(parser)
+    if len(posts) == 1:
+        errlog('donutleaks: ' + 'parsing fail')
+    for post in posts:
+        appender(post, 'donutleaks')

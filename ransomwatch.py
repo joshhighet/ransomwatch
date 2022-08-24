@@ -277,6 +277,7 @@ if args.mode == 'parse':
     parsers.redalert()
     parsers.daixin()
     parsers.icefire()
+    parsers.donutleaks()
     stdlog('ransomwatch: ' + 'parse run complete')
 
 if args.mode == 'list':
