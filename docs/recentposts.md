@@ -4,6 +4,13 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-08-24 | [`Enso Detego`](https://google.com/search?q=Enso+Detego) | [donutleaks](https://ransomwatch.telemetry.ltd/#/profiles?id=donutleaks) |
+| 2022-08-24 | [`Sando`](https://google.com/search?q=Sando) | [donutleaks](https://ransomwatch.telemetry.ltd/#/profiles?id=donutleaks) |
+| 2022-08-24 | [`CMZ UK`](https://google.com/search?q=CMZ+UK) | [donutleaks](https://ransomwatch.telemetry.ltd/#/profiles?id=donutleaks) |
+| 2022-08-24 | [`PlanET Biogas Solutions`](https://google.com/search?q=PlanET+Biogas+Solutions) | [donutleaks](https://ransomwatch.telemetry.ltd/#/profiles?id=donutleaks) |
+| 2022-08-24 | [`Sheppard Robson`](https://google.com/search?q=Sheppard+Robson) | [donutleaks](https://ransomwatch.telemetry.ltd/#/profiles?id=donutleaks) |
+| 2022-08-24 | [`Bombardier Recreational Products (BRP) - BONUS CONTENT (!!!)`](https://google.com/search?q=Bombardier+Recreational+Products+%28BRP%29+-+BONUS+CONTENT+%28%21%21%21%29) | [ransomexx](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomexx) |
+| 2022-08-24 | [`Olamgroup`](https://google.com/search?q=Olamgroup) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2022-08-24 | [`GMX`](https://google.com/search?q=GMX) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
 | 2022-08-23 | [`studiobarba.com`](https://google.com/search?q=studiobarba.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-08-23 | [`ruffinlawyers.com.au`](https://google.com/search?q=ruffinlawyers.com.au) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -197,10 +204,3 @@ _last `200` posts_
 | 2022-07-25 | [`SPINNEYS.COM FILES PART1 - 10.10.11.196, 10.20.0.10 PUBLISHED`](https://google.com/search?q=SPINNEYS.COM+FILES+PART1+-+10.10.11.196%2C+10.20.0.10+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-07-25 | [`eclipse-print.com`](https://google.com/search?q=eclipse-print.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-07-25 | [`overseas-ast.com`](https://google.com/search?q=overseas-ast.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-07-25 | [`legacy-hospitality.com`](https://google.com/search?q=legacy-hospitality.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-07-25 | [`agenziaentrate.gov.it`](https://google.com/search?q=agenziaentrate.gov.it) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-07-24 | [`SRM Technologies`](https://google.com/search?q=SRM+Technologies) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2022-07-24 | [`riken.co.jp`](https://google.com/search?q=riken.co.jp) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-07-24 | [`PRICEDEX.COM FILES PART9 - 10.0.10.1\E$\Shares\marketing\ PUBLISHED`](https://google.com/search?q=PRICEDEX.COM+FILES+PART9+-+10.0.10.1%5CE%24%5CShares%5Cmarketing%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-07-24 | [`NEWCOURSECC.COM FILES PART10 - 10.168.0.7\Datastore\FTP_Archive\ PUBLISHED`](https://google.com/search?q=NEWCOURSECC.COM+FILES+PART10+-+10.168.0.7%5CDatastore%5CFTP_Archive%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-07-24 | [`888VOIP.COM FILES PART9 - 192.168.14.19\C$\Users\ijoyce.AMTECH\Desktop\Fortnite\FortniteGa`](https://google.com/search?q=888VOIP.COM+FILES+PART9+-+192.168.14.19%5CC%24%5CUsers%5Cijoyce.AMTECH%5CDesktop%5CFortnite%5CFortniteGa) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
