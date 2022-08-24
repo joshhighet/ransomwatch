@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-08-24 | [`GMX`](https://google.com/search?q=GMX) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
 | 2022-08-23 | [`studiobarba.com`](https://google.com/search?q=studiobarba.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-08-23 | [`ruffinlawyers.com.au`](https://google.com/search?q=ruffinlawyers.com.au) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-08-23 | [`robitgroup.com`](https://google.com/search?q=robitgroup.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-07-24 | [`PRICEDEX.COM FILES PART9 - 10.0.10.1\E$\Shares\marketing\ PUBLISHED`](https://google.com/search?q=PRICEDEX.COM+FILES+PART9+-+10.0.10.1%5CE%24%5CShares%5Cmarketing%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-07-24 | [`NEWCOURSECC.COM FILES PART10 - 10.168.0.7\Datastore\FTP_Archive\ PUBLISHED`](https://google.com/search?q=NEWCOURSECC.COM+FILES+PART10+-+10.168.0.7%5CDatastore%5CFTP_Archive%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-07-24 | [`888VOIP.COM FILES PART9 - 192.168.14.19\C$\Users\ijoyce.AMTECH\Desktop\Fortnite\FortniteGa`](https://google.com/search?q=888VOIP.COM+FILES+PART9+-+192.168.14.19%5CC%24%5CUsers%5Cijoyce.AMTECH%5CDesktop%5CFortnite%5CFortniteGa) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-07-24 | [`ORBITELECTRIC.COM FILES PART16 - 92.168.10.107\C$\Users\benjiet\Documents\DONOTdelete!\PST`](https://google.com/search?q=ORBITELECTRIC.COM+FILES+PART16+-+92.168.10.107%5CC%24%5CUsers%5Cbenjiet%5CDocuments%5CDONOTdelete%21%5CPST) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
