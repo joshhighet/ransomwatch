@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-08-25 | [`ANGT - HACKED. MORE THEN 700 GB SENSITIVE DATA LEAKED`](https://google.com/search?q=ANGT+-+HACKED.+MORE+THEN+700+GB+SENSITIVE+DATA+LEAKED) | [lv](https://ransomwatch.telemetry.ltd/#/profiles?id=lv) |
 | 2022-08-25 | [`growag.ch`](https://google.com/search?q=growag.ch) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-08-24 | [`Baton Rouge General`](https://google.com/search?q=Baton+Rouge+General) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
 | 2022-08-24 | [`Enso Detego`](https://google.com/search?q=Enso+Detego) | [donutleaks](https://ransomwatch.telemetry.ltd/#/profiles?id=donutleaks) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-07-25 | [`APPLEXUS.COM FILES PART1 - 192.168.3.18, 192.168.3.66, 192.168.4.155, 192.168.5.4 PUBLISHE`](https://google.com/search?q=APPLEXUS.COM+FILES+PART1+-+192.168.3.18%2C+192.168.3.66%2C+192.168.4.155%2C+192.168.5.4+PUBLISHE) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-07-25 | [`ginko.com.tw`](https://google.com/search?q=ginko.com.tw) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-07-25 | [`OptiProERP is a leading global provider of industry-specific ERP solutions for manufacture`](https://google.com/search?q=OptiProERP+is+a+leading+global+provider+of+industry-specific+ERP+solutions+for+manufacture) | [revil](https://ransomwatch.telemetry.ltd/#/profiles?id=revil) |
-| 2022-07-25 | [`SPINNEYS.COM FILES PART1 - 10.10.11.196, 10.20.0.10 PUBLISHED`](https://google.com/search?q=SPINNEYS.COM+FILES+PART1+-+10.10.11.196%2C+10.20.0.10+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
