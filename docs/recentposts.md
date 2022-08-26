@@ -4,6 +4,19 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-08-26 | [`thininfra.nl`](https://google.com/search?q=thininfra.nl) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2022-08-26 | [`stjohnvianney.org`](https://google.com/search?q=stjohnvianney.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2022-08-26 | [`stevesilvaplumbing.com`](https://google.com/search?q=stevesilvaplumbing.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2022-08-26 | [`statravel.de`](https://google.com/search?q=statravel.de) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2022-08-26 | [`sportlavit.nl`](https://google.com/search?q=sportlavit.nl) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2022-08-26 | [`perteet.com`](https://google.com/search?q=perteet.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2022-08-26 | [`microdepot.com`](https://google.com/search?q=microdepot.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2022-08-26 | [`lenax.com`](https://google.com/search?q=lenax.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2022-08-26 | [`kkcsworld.com`](https://google.com/search?q=kkcsworld.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2022-08-26 | [`galenica.ma`](https://google.com/search?q=galenica.ma) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2022-08-26 | [`draperyconceptsny.com`](https://google.com/search?q=draperyconceptsny.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2022-08-26 | [`cenviro.com`](https://google.com/search?q=cenviro.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2022-08-26 | [`americantilestone.com`](https://google.com/search?q=americantilestone.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-08-26 | [`trufab.com`](https://google.com/search?q=trufab.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-08-26 | [`canteen.com`](https://google.com/search?q=canteen.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-08-26 | [`hikadikoy.com`](https://google.com/search?q=hikadikoy.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -191,16 +204,3 @@ _last `200` posts_
 | 2022-07-28 | [`coarc.org`](https://google.com/search?q=coarc.org) | [redalert](https://ransomwatch.telemetry.ltd/#/profiles?id=redalert) |
 | 2022-07-28 | [`correounir.com.ar`](https://google.com/search?q=correounir.com.ar) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-07-28 | [`JOHN A. BODZIAK ARCHITECT AIA`](https://google.com/search?q=JOHN+A.+BODZIAK+ARCHITECT+AIA) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2022-07-27 | [`maldegem.be`](https://google.com/search?q=maldegem.be) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-07-27 | [`groupe-helios.com`](https://google.com/search?q=groupe-helios.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-07-27 | [`CIMEX`](https://google.com/search?q=CIMEX) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
-| 2022-07-27 | [`Weidmueller`](https://google.com/search?q=Weidmueller) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
-| 2022-07-27 | [`studioteruzzi.com - HACKED AND MORE THEN 80GB DATA LEAKED`](https://google.com/search?q=studioteruzzi.com+-+HACKED+AND+MORE+THEN+80GB+DATA+LEAKED) | [lv](https://ransomwatch.telemetry.ltd/#/profiles?id=lv) |
-| 2022-07-26 | [`cheungwoh.com.sg`](https://google.com/search?q=cheungwoh.com.sg) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-07-26 | [`ymaunivers.com`](https://google.com/search?q=ymaunivers.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-07-26 | [`sieam.fr`](https://google.com/search?q=sieam.fr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-07-26 | [`CUCA FRESCA`](https://google.com/search?q=CUCA+FRESCA) | [onyx](https://ransomwatch.telemetry.ltd/#/profiles?id=onyx) |
-| 2022-07-26 | [`WAYAN NATURAL WEAR`](https://google.com/search?q=WAYAN+NATURAL+WEAR) | [onyx](https://ransomwatch.telemetry.ltd/#/profiles?id=onyx) |
-| 2022-07-26 | [`Artistic Stairs & Railings`](https://google.com/search?q=Artistic+Stairs+%26+Railings) | [onyx](https://ransomwatch.telemetry.ltd/#/profiles?id=onyx) |
-| 2022-07-26 | [`Empress EMS`](https://google.com/search?q=Empress+EMS) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
-| 2022-07-26 | [`Baltholding OÃ`](https://google.com/search?q=Baltholding+O%C3%83%C2%9C) | [onyx](https://ransomwatch.telemetry.ltd/#/profiles?id=onyx) |
