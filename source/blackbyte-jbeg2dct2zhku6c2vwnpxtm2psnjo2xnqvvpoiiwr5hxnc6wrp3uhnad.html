@@ -6,12 +6,12 @@
     <link rel="shortcut icon" href="favicon.ico" type="image/x-icon"/>
     <title>BB Auction</title>
     <link href="/dist/font-awesome.min.css" rel="stylesheet">
-    <link href="/dist/css/bootstrap.css?v=1661711167" rel="stylesheet">
-    <link href="/blog.css?v=1661711167" rel="stylesheet">
+    <link href="/dist/css/bootstrap.css?v=1661718092" rel="stylesheet">
+    <link href="/blog.css?v=1661718092" rel="stylesheet">
     <script src="/assets/js/jquery-2.1.3.min.js"></script>
     <script src="/assets/js/vendor/popper.min.js"></script>
     <script src="/dist/js/bootstrap.min.js"></script>
-    <script src="/script.js?v=1661711167"></script>
+    <script src="/script.js?v=1661718092"></script>
     <style>
 
     </style>
@@ -144,6 +144,364 @@
 
         
             <script>
+                var proof_img_block4 = '<img src="Array" alt="" class="proof">';
+
+                function ShowProof4() {
+                    if (showed4 === 0) {
+                        showed4 = 1;
+                        $("#target_4 .proof_block").html(proof_img_block4).slideDown(400);
+                    } else {
+                        showed4 = 0;
+                        $("#target_4 .proof_block").html(' ').slideUp(400);
+                    }
+                }
+
+                function ShowDButtons4() {
+                    if (showed_d_buttons4 === 0) {
+                        showed_d_buttons4 = 1;
+                        $("#target_4 .d_buttons").slideDown(400);
+                    } else {
+                        showed_d_buttons4 = 0;
+                        $("#target_4 .d_buttons").slideUp(400);
+                    }
+                }
+
+                var showed4 = 0;
+                var showed_d_buttons4 = 0;
+                var HAPPYSEC4 = -31404092;
+                var t_sec4 = HAPPYSEC4;
+                var time4;
+                var intervalId4= 0;
+
+                $(document).ready(function () {
+                    $("#target_4 .d_buttons a.btn3").addClass("red_button");
+                    intervalId4 = setInterval(function () {
+                        timerDecrement4();
+                    }, 1000);
+                });
+
+                function timerDecrement4() {
+                    time4 = $('#target_4 span.timer');
+
+                    if (t_sec4 < 1) {
+                        t_sec4 = 0;
+                        newTime = t_sec4 ;
+                    } else {
+                        newTime = t_sec4 - 1;
+                    }
+
+                    t_sec4 = newTime;
+
+                    var t_min = t_sec4 / 60;
+                    var t_hour = t_min / 60;
+                    var t_day =
+                        '<b>' + Math.floor(t_hour / 24) + '</b>d ' +
+                        '<b>' + Math.floor(t_hour % 24) + '</b>h ' +
+                        '<b>' + Math.floor(t_min % 60) + '</b>m ' +
+                        '<b>' + Math.floor(t_sec4 % 60) + '</b>s ';
+
+                    time4.html(t_day);
+
+                    if (newTime === 0 && HAPPYSEC4 > 0 || newTime < 1) {
+                        time4.html('');
+                        $("#target_4 .lock").attr("src", "assets/img/lockopen.png");
+                        $("#target_4 .clock").attr("src", "assets/img/clockred.png").addClass("clockred");
+                        $("#target_4 .btn2").addClass("redbg");
+                        $("#target_4 .arrow-8").addClass("r8");
+                        $("#target_4 .perc").html("100%");
+                        clearInterval(intervalId4);
+                        //GetDownloadLink(//, $("#target_// .by_button"));
+                    }
+                }
+
+            </script>
+
+            <div class="col-md-12 col-sm-12 bgt1 " id="target_4" style="display: none">
+                <table class="table table-bordered table-content ">
+                    <tr style=";" class="content-fone">
+                        <td class="txt td-1">
+                            <div style="border-bottom: 1px solid silver; border-left: 1px solid silver; border-right: 1px solid silver; margin-top: 20px; width: 40%; margin-left: auto; margin-right: auto; opacity: 0.1;"></div>
+                            <h1 class="h_font">Grande Stevens</h1>
+
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <input type="text" class="inp-copy copy_input_4" value="">
+                            <p class="lead-text5">Grande Stevens Law Firm, which bears the name of its founder, Franzo Grande Stevens, has provided legal assistance, both transactional and in litigation proceedings, in the areas of civil, commercial and corporate law for over fifty years. The lawyers of the Firm operate on the basis of the principles set out in the Firm's Policy with the goal of being considered by the clients as trusted counsel. 
+                            </p>
+
+
+                            <div class="container1">
+                                <div class="row">
+                                    <div class="col-xs-12 col-md-4"><a data-title="URL" class=" globe glob fa fa-globe"  href="http://grandestevens.it/eng/"  target="_blank"></a></div>
+                                    <div style="text-align: center" class="col-xs-12 col-md-4"><i data-chat="61141FCA047691D0E47CFD84717B59D3BEDF822442B5E907BE147FD6B8A11B723A48DF7FCA47"  onclick="copy4('61141FCA047691D0E47CFD84717B59D3BEDF822442B5E907BE147FD6B8A11B723A48DF7FCA47',4,'tox-chat')" data-title="TOX support" class="btc-copy comm fa fa-commenting"></i><span class="copied"></span></div>
+                                    <div  class="col-xs-12 col-md-4"><i style="float: right" class="mon money fa fa-money" data-title="DATA"  onclick="$('.desc_4').modal('show') "></i></div>
+                                </div>
+                            </div>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+            <script>
+                function copy4(text,target_id,block){
+                    selector = ".copy_input_4";
+                    $(selector).val(text);
+                    $(selector).focus();
+                    $(selector).select();
+                    document.execCommand("copy");
+                    old_text = "";
+                    copied_text = "Copied!";
+                    $("#target_"+target_id+" ."+block+" .copied").html(copied_text);
+                    setTimeout(function () {
+                        $("#target_"+target_id+" ."+block+" .copied").html(old_text);
+                    },1000)
+                }
+            </script>
+            <div class="modal desc_4" tabindex="-1" id="target_4">
+                <div class="modal-dialog  ">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <div class="modal-title">Grande Stevens Proofs Block</div>
+                        </div>
+                        <div class="modal-body">
+                            <div class="col-md-12 px-0">
+                                <div class="proof_block text-center"></div>
+                                <div>
+                                    <div class="blocks"><div class="gallery" >
+                                            <a  class="photo proof_images proof_images_4"> <div class="gallery">
+                                            <a rel="gallery" class="photo gost"><img class="img-l" src="proofs/4/proof1.jpg"></a>
+                                        </div>  <div class="gallery">
+                                            <a rel="gallery" class="photo gost"><img class="img-l" src="proofs/4/proof2.jpg"></a>
+                                        </div>  <div class="gallery">
+                                            <a rel="gallery" class="photo gost"><img class="img-l" src="proofs/4/proof3.jpg"></a>
+                                        </div>  <div class="gallery">
+                                            <a rel="gallery" class="photo gost"><img class="img-l" src="proofs/4/proof4.jpg"></a>
+                                        </div>  <div class="gallery">
+                                            <a rel="gallery" class="photo gost"><img class="img-l" src="proofs/4/proof5.jpg"></a>
+                                        </div> </a>
+                                        </div></div>
+                                    <div class="container2">
+                                        <input type="text" class="inp-copy copy_input_4" value="">
+                                        <div class="info-text">Company documents, deletion/purchase</div>
+                                        <div class="linear2"></div>
+                                        <div class="tox-text">If you are interested to purchase the data or requesting to remove it, Please connect us through our Email/TOX.</div>
+                                            <div style="text-align: center; margin-top: 96px;
+position: absolute; left: 130px; " class="col-xs-12 col-md-4"><i data-chat="61141FCA047691D0E47CFD84717B59D3BEDF822442B5E907BE147FD6B8A11B723A48DF7FCA47"  onclick="copy4('61141FCA047691D0E47CFD84717B59D3BEDF822442B5E907BE147FD6B8A11B723A48DF7FCA47',4,'tox-chat')" data-title="Copy TOX support" class="btc-copy comms fa fa-commenting"></i><span class="copied"></span></div>
+                                            <div style="text-align: center; ;
+position: absolute;" class="col-xs-12 col-md-4"><i data-chat="BlackByteSupp0rt@onionmail.org"  onclick="copy4('BlackByteSupp0rt@onionmail.org',4,'copysupport')" data-title="Copy E-MAIL support" class="support-mail-copy mail-support fa fa-envelope"></i><span class="copied"></span></div>
+                                            <div class="row ends">
+                                            <div class="col-sm-4 ">
+                                                <a class=""><button class="custom-btn btn-12"><span>DELETE DATA</span><span>160000$</span></button></a>
+                                            </div>
+                                            <div class="col-sm-4 ">
+                                                <a href="https://anonfiles.com/H772Lf5ey2/Archive1_zip" target="_blank"><button class="custom-btn btn-12"><span class="proofdata">DOWNLOAD PROOF DATA</span><span>DATA</span></button></a>
+                                            </div>
+                                            <div class="col-sm-4 ">
+                                                <a id="myBtn1" 4><button class="custom-btn btn-12"><span>BUY DATA</span><span>210000$</span></button></a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div id="myModal1" class="modal1" style="background-color: rgba(0, 0, 0, 0.84)" 4>
+                    <div class="modal1-content">
+                        <div class="modal1-header">
+                            <span class="close">&times;</span>
+                            <h2>Information</h2>
+                            <div class="linear2"></div>
+                        </div>
+                        <div class="modal1-body">
+                            <div></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            
+            <script>
+                var proof_img_block3 = '<img src="Array" alt="" class="proof">';
+
+                function ShowProof3() {
+                    if (showed3 === 0) {
+                        showed3 = 1;
+                        $("#target_3 .proof_block").html(proof_img_block3).slideDown(400);
+                    } else {
+                        showed3 = 0;
+                        $("#target_3 .proof_block").html(' ').slideUp(400);
+                    }
+                }
+
+                function ShowDButtons3() {
+                    if (showed_d_buttons3 === 0) {
+                        showed_d_buttons3 = 1;
+                        $("#target_3 .d_buttons").slideDown(400);
+                    } else {
+                        showed_d_buttons3 = 0;
+                        $("#target_3 .d_buttons").slideUp(400);
+                    }
+                }
+
+                var showed3 = 0;
+                var showed_d_buttons3 = 0;
+                var HAPPYSEC3 = -31404092;
+                var t_sec3 = HAPPYSEC3;
+                var time3;
+                var intervalId3= 0;
+
+                $(document).ready(function () {
+                    $("#target_3 .d_buttons a.btn3").addClass("red_button");
+                    intervalId3 = setInterval(function () {
+                        timerDecrement3();
+                    }, 1000);
+                });
+
+                function timerDecrement3() {
+                    time3 = $('#target_3 span.timer');
+
+                    if (t_sec3 < 1) {
+                        t_sec3 = 0;
+                        newTime = t_sec3 ;
+                    } else {
+                        newTime = t_sec3 - 1;
+                    }
+
+                    t_sec3 = newTime;
+
+                    var t_min = t_sec3 / 60;
+                    var t_hour = t_min / 60;
+                    var t_day =
+                        '<b>' + Math.floor(t_hour / 24) + '</b>d ' +
+                        '<b>' + Math.floor(t_hour % 24) + '</b>h ' +
+                        '<b>' + Math.floor(t_min % 60) + '</b>m ' +
+                        '<b>' + Math.floor(t_sec3 % 60) + '</b>s ';
+
+                    time3.html(t_day);
+
+                    if (newTime === 0 && HAPPYSEC3 > 0 || newTime < 1) {
+                        time3.html('');
+                        $("#target_3 .lock").attr("src", "assets/img/lockopen.png");
+                        $("#target_3 .clock").attr("src", "assets/img/clockred.png").addClass("clockred");
+                        $("#target_3 .btn2").addClass("redbg");
+                        $("#target_3 .arrow-8").addClass("r8");
+                        $("#target_3 .perc").html("100%");
+                        clearInterval(intervalId3);
+                        //GetDownloadLink(//, $("#target_// .by_button"));
+                    }
+                }
+
+            </script>
+
+            <div class="col-md-12 col-sm-12 bgt1 " id="target_3" style="display: none">
+                <table class="table table-bordered table-content ">
+                    <tr style=";" class="content-fone">
+                        <td class="txt td-1">
+                            <div style="border-bottom: 1px solid silver; border-left: 1px solid silver; border-right: 1px solid silver; margin-top: 20px; width: 40%; margin-left: auto; margin-right: auto; opacity: 0.1;"></div>
+                            <h1 class="h_font">Torin Drive</h1>
+
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <input type="text" class="inp-copy copy_input_3" value="">
+                            <p class="lead-text5">Torin Drive, the specialized manufacturer of the elevator traction machines, the lift components, the compressor airends, the construction elevator speed reducers, other drive equipment and high quality castings, launched its production of elevator traction machines in 1985.
+As Key High-tech Enterprise of State Torch Plan, we have world class factory with R&D test tower and the advanced equipment. Torin Drive aims at the diversified needs of clients and the various regional lift markets to develop the products in accordance with the diverse criterions, such as Asia Series, Europe Series, and North America Series, etc. Each day, more than 1，200，000 units of Torin Drive elevator traction machines are running simultaneously in the buildings throughout the globe. TORIN DRIVE strives for the most excellent elevator components production group with the intention of providing the personalized supporting and all-round service for the clients.                            </p>
+
+
+                            <div class="container1">
+                                <div class="row">
+                                    <div class="col-xs-12 col-md-4"><a data-title="URL" class=" globe glob fa fa-globe"  href="http://www.torindrive.com/"  target="_blank"></a></div>
+                                    <div style="text-align: center" class="col-xs-12 col-md-4"><i data-chat="61141FCA047691D0E47CFD84717B59D3BEDF822442B5E907BE147FD6B8A11B723A48DF7FCA47"  onclick="copy3('61141FCA047691D0E47CFD84717B59D3BEDF822442B5E907BE147FD6B8A11B723A48DF7FCA47',3,'tox-chat')" data-title="TOX support" class="btc-copy comm fa fa-commenting"></i><span class="copied"></span></div>
+                                    <div  class="col-xs-12 col-md-4"><i style="float: right" class="mon money fa fa-money" data-title="DATA"  onclick="$('.desc_3').modal('show') "></i></div>
+                                </div>
+                            </div>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+            <script>
+                function copy3(text,target_id,block){
+                    selector = ".copy_input_3";
+                    $(selector).val(text);
+                    $(selector).focus();
+                    $(selector).select();
+                    document.execCommand("copy");
+                    old_text = "";
+                    copied_text = "Copied!";
+                    $("#target_"+target_id+" ."+block+" .copied").html(copied_text);
+                    setTimeout(function () {
+                        $("#target_"+target_id+" ."+block+" .copied").html(old_text);
+                    },1000)
+                }
+            </script>
+            <div class="modal desc_3" tabindex="-1" id="target_3">
+                <div class="modal-dialog  ">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <div class="modal-title">Torin Drive Proofs Block</div>
+                        </div>
+                        <div class="modal-body">
+                            <div class="col-md-12 px-0">
+                                <div class="proof_block text-center"></div>
+                                <div>
+                                    <div class="blocks"><div class="gallery" >
+                                            <a  class="photo proof_images proof_images_3"> <div class="gallery">
+                                            <a rel="gallery" class="photo gost"><img class="img-l" src="proofs/3/proof1.png"></a>
+                                        </div>  <div class="gallery">
+                                            <a rel="gallery" class="photo gost"><img class="img-l" src="proofs/3/proof2.png"></a>
+                                        </div>  <div class="gallery">
+                                            <a rel="gallery" class="photo gost"><img class="img-l" src="proofs/3/proof3.png"></a>
+                                        </div>  <div class="gallery">
+                                            <a rel="gallery" class="photo gost"><img class="img-l" src="proofs/3/proof4.png"></a>
+                                        </div>  <div class="gallery">
+                                            <a rel="gallery" class="photo gost"><img class="img-l" src="proofs/3/proof5.png"></a>
+                                        </div> </a>
+                                        </div></div>
+                                    <div class="container2">
+                                        <input type="text" class="inp-copy copy_input_3" value="">
+                                        <div class="info-text">Company documents, deletion/purchase</div>
+                                        <div class="linear2"></div>
+                                        <div class="tox-text">If you are interested to purchase the data or requesting to remove it, Please connect us through our Email/TOX.</div>
+                                            <div style="text-align: center; margin-top: 96px;
+position: absolute; left: 130px; " class="col-xs-12 col-md-4"><i data-chat="61141FCA047691D0E47CFD84717B59D3BEDF822442B5E907BE147FD6B8A11B723A48DF7FCA47"  onclick="copy3('61141FCA047691D0E47CFD84717B59D3BEDF822442B5E907BE147FD6B8A11B723A48DF7FCA47',3,'tox-chat')" data-title="Copy TOX support" class="btc-copy comms fa fa-commenting"></i><span class="copied"></span></div>
+                                            <div style="text-align: center; ;
+position: absolute;" class="col-xs-12 col-md-4"><i data-chat="BlackByteSupp0rt@onionmail.org"  onclick="copy3('BlackByteSupp0rt@onionmail.org',3,'copysupport')" data-title="Copy E-MAIL support" class="support-mail-copy mail-support fa fa-envelope"></i><span class="copied"></span></div>
+                                            <div class="row ends">
+                                            <div class="col-sm-4 ">
+                                                <a class=""><button class="custom-btn btn-12"><span>DELETE DATA</span><span>150000$</span></button></a>
+                                            </div>
+                                            <div class="col-sm-4 ">
+                                                <a href="https://anonfiles.com/D2q6B25dyd/Desktop_rar" target="_blank"><button class="custom-btn btn-12"><span class="proofdata">DOWNLOAD PROOF DATA</span><span>DATA</span></button></a>
+                                            </div>
+                                            <div class="col-sm-4 ">
+                                                <a id="myBtn1" 3><button class="custom-btn btn-12"><span>BUY DATA</span><span>200000$</span></button></a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div id="myModal1" class="modal1" style="background-color: rgba(0, 0, 0, 0.84)" 3>
+                    <div class="modal1-content">
+                        <div class="modal1-header">
+                            <span class="close">&times;</span>
+                            <h2>Information</h2>
+                            <div class="linear2"></div>
+                        </div>
+                        <div class="modal1-body">
+                            <div></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            
+            <script>
                 var proof_img_block2 = '<img src="Array" alt="" class="proof">';
 
                 function ShowProof2() {
@@ -168,7 +526,7 @@
 
                 var showed2 = 0;
                 var showed_d_buttons2 = 0;
-                var HAPPYSEC2 = -31397167;
+                var HAPPYSEC2 = -31404092;
                 var t_sec2 = HAPPYSEC2;
                 var time2;
                 var intervalId2= 0;
