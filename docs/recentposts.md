@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-08-28 | [`goodwillnm.org`](https://google.com/search?q=goodwillnm.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-08-26 | [`thininfra.nl`](https://google.com/search?q=thininfra.nl) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-08-26 | [`stjohnvianney.org`](https://google.com/search?q=stjohnvianney.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-08-26 | [`stevesilvaplumbing.com`](https://google.com/search?q=stevesilvaplumbing.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-07-28 | [`tnq.co.in`](https://google.com/search?q=tnq.co.in) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-07-28 | [`coarc.org`](https://google.com/search?q=coarc.org) | [redalert](https://ransomwatch.telemetry.ltd/#/profiles?id=redalert) |
 | 2022-07-28 | [`correounir.com.ar`](https://google.com/search?q=correounir.com.ar) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-07-28 | [`JOHN A. BODZIAK ARCHITECT AIA`](https://google.com/search?q=JOHN+A.+BODZIAK+ARCHITECT+AIA) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
