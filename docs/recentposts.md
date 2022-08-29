@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-08-29 | [`Justman Packaging & Display Information`](https://google.com/search?q=Justman+Packaging+%26+Display+Information) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
+| 2022-08-29 | [`Laferté`](https://google.com/search?q=Lafert%C3%A9) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
+| 2022-08-29 | [`Josef Saller Services e.K. - Saller Bau`](https://google.com/search?q=Josef+Saller+Services+e.K.+-+Saller+Bau) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-08-29 | [`Spalding Grammar School`](https://google.com/search?q=Spalding+Grammar+School) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2022-08-29 | [` Rudman`](https://google.com/search?q=+Rudman) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2022-08-29 | [`The Preston Partnership`](https://google.com/search?q=The+Preston+Partnership) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2022-07-30 | [`NEWCOURSECC.COM FILES PART11 - 10.168.0.7\Datastore\FTP_Archive\ PUBLISHED`](https://google.com/search?q=NEWCOURSECC.COM+FILES+PART11+-+10.168.0.7%5CDatastore%5CFTP_Archive%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-07-30 | [`ORBITELECTRIC.COM FILES PART17 - 192.168.10.109\F$\Personnel\ PUBLISHED`](https://google.com/search?q=ORBITELECTRIC.COM+FILES+PART17+-+192.168.10.109%5CF%24%5CPersonnel%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-07-30 | [`FERRAN-SERVICES.COM FILES PART10 - D\Company\Accounts Payable\ PUBLISHED`](https://google.com/search?q=FERRAN-SERVICES.COM+FILES+PART10+-+D%5CCompany%5CAccounts+Payable%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-07-30 | [`ENSSECURITY.COM FILES PART10 - D\FTP\ENS\Public_Share\ PUBLISHED`](https://google.com/search?q=ENSSECURITY.COM+FILES+PART10+-+D%5CFTP%5CENS%5CPublic_Share%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-07-30 | [`SPINNEYS.COM FILES PART2 - 10.20.0.22, 10.31.10.49, 10.31.10.135, 10.31.10.233, 10.31.32.2`](https://google.com/search?q=SPINNEYS.COM+FILES+PART2+-+10.20.0.22%2C+10.31.10.49%2C+10.31.10.135%2C+10.31.10.233%2C+10.31.32.2) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-07-30 | [`LATOURNERIE-WOLFROM.COM FILES PART10 - 10.100.57.15\Trans\ PUBLISHED`](https://google.com/search?q=LATOURNERIE-WOLFROM.COM+FILES+PART10+-+10.100.57.15%5CTrans%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
