@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-08-29 | [`currierryan.com`](https://google.com/search?q=currierryan.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-08-28 | [`ygboulons.com`](https://google.com/search?q=ygboulons.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-08-28 | [`uplexis.com.br`](https://google.com/search?q=uplexis.com.br) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-08-28 | [`embalajescapsa.com`](https://google.com/search?q=embalajescapsa.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-07-29 | [`Creos Luxembourg`](https://google.com/search?q=Creos+Luxembourg) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-07-29 | [`autoliv.com`](https://google.com/search?q=autoliv.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-07-29 | [`Hong Kong Special Care Dentistry Association Limited`](https://google.com/search?q=Hong+Kong+Special+Care+Dentistry+Association+Limited) | [lv](https://ransomwatch.telemetry.ltd/#/profiles?id=lv) |
-| 2022-07-29 | [`Fandeli`](https://google.com/search?q=Fandeli) | [lorenz](https://ransomwatch.telemetry.ltd/#/profiles?id=lorenz) |
