@@ -4,6 +4,13 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-08-30 | [`Magnachem`](https://google.com/search?q=Magnachem) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2022-08-30 | [`Alegria Family Services`](https://google.com/search?q=Alegria+Family+Services) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2022-08-30 | [` LLC`](https://google.com/search?q=+LLC) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2022-08-30 | [`Ramada Hervey Bay Hotel Resort`](https://google.com/search?q=Ramada+Hervey+Bay+Hotel+Resort) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2022-08-30 | [`Community Dental Partners`](https://google.com/search?q=Community+Dental+Partners) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2022-08-30 | [`4cRisk`](https://google.com/search?q=4cRisk) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2022-08-30 | [`group`](https://google.com/search?q=group) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2022-08-30 | [`GOV Brazil`](https://google.com/search?q=GOV+Brazil) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2022-08-30 | [`PRICEDEX.COM FILES PART14 - 10.0.10.1\E$\Shares\projects\Marketing and Business\Opticat\ P`](https://google.com/search?q=PRICEDEX.COM+FILES+PART14+-+10.0.10.1%5CE%24%5CShares%5Cprojects%5CMarketing+and+Business%5COpticat%5C+P) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-08-30 | [`ORBITELECTRIC.COM FILES PART21 - 192.168.10.122\C$\Users\RAMONH\Desktop\Kashmal\ PUBLISHED`](https://google.com/search?q=ORBITELECTRIC.COM+FILES+PART21+-+192.168.10.122%5CC%24%5CUsers%5CRAMONH%5CDesktop%5CKashmal%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
@@ -197,10 +204,3 @@ _last `200` posts_
 | 2022-08-02 | [`Doosan Group`](https://google.com/search?q=Doosan+Group) | [revil](https://ransomwatch.telemetry.ltd/#/profiles?id=revil) |
 | 2022-08-02 | [`tekinox.it`](https://google.com/search?q=tekinox.it) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-08-02 | [`obriengroupaustralia.com.au`](https://google.com/search?q=obriengroupaustralia.com.au) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-08-02 | [`kangaroo.vn`](https://google.com/search?q=kangaroo.vn) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-08-02 | [`MarioSinacola`](https://google.com/search?q=MarioSinacola) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2022-08-02 | [`Puma Biotechnology - decided to allow Leaks`](https://google.com/search?q=Puma+Biotechnology+-+decided+to+allow+Leaks) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
-| 2022-08-02 | [`casapellas.com`](https://google.com/search?q=casapellas.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-08-01 | [`scohil.com`](https://google.com/search?q=scohil.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-08-01 | [`preflooring.com`](https://google.com/search?q=preflooring.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-08-01 | [`ARISA CORREDORES DE SEGUROS`](https://google.com/search?q=ARISA+CORREDORES+DE+SEGUROS) | [onyx](https://ransomwatch.telemetry.ltd/#/profiles?id=onyx) |
