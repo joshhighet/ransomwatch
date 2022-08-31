@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-08-31 | [`Huge drama for Tap Air Portugal`](https://google.com/search?q=Huge+drama+for+Tap+Air+Portugal) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
 | 2022-08-31 | [`NCG Medical`](https://google.com/search?q=NCG+Medical) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
 | 2022-08-31 | [`MEIJI.COM.SG`](https://google.com/search?q=MEIJI.COM.SG) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-08-30 | [`Magnachem`](https://google.com/search?q=Magnachem) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-08-03 | [`AIIM`](https://google.com/search?q=AIIM) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-08-03 | [`Fitzgibbon Hospital (USA)`](https://google.com/search?q=Fitzgibbon+Hospital+%28USA%29) | [daixin](https://ransomwatch.telemetry.ltd/#/profiles?id=daixin) |
 | 2022-08-03 | [`Trib Total Media (USA)`](https://google.com/search?q=Trib+Total+Media+%28USA%29) | [daixin](https://ransomwatch.telemetry.ltd/#/profiles?id=daixin) |
-| 2022-08-02 | [`Doosan Group`](https://google.com/search?q=Doosan+Group) | [revil](https://ransomwatch.telemetry.ltd/#/profiles?id=revil) |
