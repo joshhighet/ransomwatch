@@ -1,14 +1,14 @@
 
 ## summary
-_august 30th, 2022_
+_august 31st, 2022_
 
 currently tracking `118` groups across `214` relays & mirrors - _`97` currently online_
 
-⏲ there have been `19` posts within the `last 24 hours`
+⏲ there have been `16` posts within the `last 24 hours`
 
 🦈 there have been `218` posts within the `month of august`
 
-🪐 there have been `655` posts within the `last 90 days`
+🪐 there have been `652` posts within the `last 90 days`
 
 🏚 there have been `2314` posts within the `year of 2022`
 
