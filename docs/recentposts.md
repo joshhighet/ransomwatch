@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-09-01 | [`solidatech.com`](https://google.com/search?q=solidatech.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2022-09-01 | [`precision.com`](https://google.com/search?q=precision.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2022-09-01 | [`hspatent.com`](https://google.com/search?q=hspatent.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-08-31 | [`USA Insurance company - Smith brothers File tree and some proofs`](https://google.com/search?q=USA+Insurance+company+-+Smith+brothers+File+tree+and+some+proofs) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
 | 2022-08-31 | [`Huge drama for Tap Air Portugal`](https://google.com/search?q=Huge+drama+for+Tap+Air+Portugal) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
 | 2022-08-31 | [`NCG Medical`](https://google.com/search?q=NCG+Medical) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2022-08-04 | [`Liftow LTD`](https://google.com/search?q=Liftow+LTD) | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
 | 2022-08-04 | [`BEESENSE`](https://google.com/search?q=BEESENSE) | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
 | 2022-08-04 | [`ENN Group`](https://google.com/search?q=ENN+Group) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
-| 2022-08-04 | [`STTLK`](https://google.com/search?q=STTLK) | [lv](https://ransomwatch.telemetry.ltd/#/profiles?id=lv) |
-| 2022-08-03 | [`AIIM`](https://google.com/search?q=AIIM) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2022-08-03 | [`Fitzgibbon Hospital (USA)`](https://google.com/search?q=Fitzgibbon+Hospital+%28USA%29) | [daixin](https://ransomwatch.telemetry.ltd/#/profiles?id=daixin) |
