@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-09-01 | [`Moon Area School District`](https://google.com/search?q=Moon+Area+School+District) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2022-09-01 | [`An Japan Game Halls Operator`](https://google.com/search?q=An+Japan+Game+Halls+Operator) | [cheers](https://ransomwatch.telemetry.ltd/#/profiles?id=cheers) |
 | 2022-09-01 | [`Moscone Center`](https://google.com/search?q=Moscone+Center) | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
 | 2022-09-01 | [`Monarchnc`](https://google.com/search?q=Monarchnc) | [donutleaks](https://ransomwatch.telemetry.ltd/#/profiles?id=donutleaks) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-08-06 | [`UNIWELL Rohrsysteme GmbH & Co.`](https://google.com/search?q=UNIWELL+Rohrsysteme+GmbH+%26+Co.) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2022-08-06 | [`Grohmann Aluworks GmbH & Co`](https://google.com/search?q=Grohmann+Aluworks+GmbH+%26+Co) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2022-08-05 | [`Borough of Union Beach`](https://google.com/search?q=Borough+of+Union+Beach) | [onyx](https://ransomwatch.telemetry.ltd/#/profiles?id=onyx) |
-| 2022-08-04 | [`AD Consulting Group`](https://google.com/search?q=AD+Consulting+Group) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
