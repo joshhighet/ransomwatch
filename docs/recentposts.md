@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-09-02 | [`Eurocell`](https://google.com/search?q=Eurocell) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
 | 2022-09-02 | [`Instituto Agrario Dominicano`](https://google.com/search?q=Instituto+Agrario+Dominicano) | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
 | 2022-09-01 | [`Moon Area School District`](https://google.com/search?q=Moon+Area+School+District) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2022-09-01 | [`An Japan Game Halls Operator`](https://google.com/search?q=An+Japan+Game+Halls+Operator) | [cheers](https://ransomwatch.telemetry.ltd/#/profiles?id=cheers) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-08-06 | [`Blairex Laboratories, Inc.`](https://google.com/search?q=Blairex+Laboratories%2C+Inc.) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2022-08-06 | [`Wilks Tire & Battery Service`](https://google.com/search?q=Wilks+Tire+%26+Battery+Service) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2022-08-06 | [`UNIWELL Rohrsysteme GmbH & Co.`](https://google.com/search?q=UNIWELL+Rohrsysteme+GmbH+%26+Co.) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2022-08-06 | [`Grohmann Aluworks GmbH & Co`](https://google.com/search?q=Grohmann+Aluworks+GmbH+%26+Co) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
