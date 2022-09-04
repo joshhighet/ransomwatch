@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-09-04 | [`Cpl Architects, Engineers`](https://google.com/search?q=Cpl+Architects%2C+Engineers) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2022-09-04 | [`C2CORP`](https://google.com/search?q=C2CORP) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2022-09-04 | [`Elmbrook Schools`](https://google.com/search?q=Elmbrook+Schools) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2022-09-04 | [`hmets.com`](https://google.com/search?q=hmets.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-09-04 | [`floresfunza.com`](https://google.com/search?q=floresfunza.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-09-03 | [`s`](https://google.com/search?q=s) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2022-08-06 | [`paradise`](https://google.com/search?q=paradise) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2022-08-06 | [`WENZEL + WENZEL`](https://google.com/search?q=WENZEL+%2B+WENZEL) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2022-08-06 | [`Trade-Mark Industrial Inc.`](https://google.com/search?q=Trade-Mark+Industrial+Inc.) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2022-08-06 | [`CREMO`](https://google.com/search?q=CREMO) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2022-08-06 | [`RBBUSA`](https://google.com/search?q=RBBUSA) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2022-08-06 | [`BOERNER-GRUPPE`](https://google.com/search?q=BOERNER-GRUPPE) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
