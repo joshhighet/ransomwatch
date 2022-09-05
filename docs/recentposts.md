@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-09-05 | [`www3.comune.gorizia.it`](https://google.com/search?q=www3.comune.gorizia.it) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2022-09-05 | [`kamut.com`](https://google.com/search?q=kamut.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2022-09-05 | [`divultec.pt`](https://google.com/search?q=divultec.pt) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-09-05 | [`eneva.com.br`](https://google.com/search?q=eneva.com.br) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-09-05 | [`Speed-Buster`](https://google.com/search?q=Speed-Buster) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
 | 2022-09-04 | [`Cpl Architects, Engineers`](https://google.com/search?q=Cpl+Architects%2C+Engineers) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2022-08-06 | [`hatcherins.com`](https://google.com/search?q=hatcherins.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-08-06 | [`ttdwest`](https://google.com/search?q=ttdwest) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2022-08-06 | [`MAI`](https://google.com/search?q=MAI) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2022-08-06 | [`Montrose Environmental Group, Inc`](https://google.com/search?q=Montrose+Environmental+Group%2C+Inc) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2022-08-06 | [`WALLWORKINC`](https://google.com/search?q=WALLWORKINC) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2022-08-06 | [`paradise`](https://google.com/search?q=paradise) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
