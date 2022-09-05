@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-09-05 | [`CleanTech`](https://google.com/search?q=CleanTech) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2022-09-05 | [`augustacoop`](https://google.com/search?q=augustacoop) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2022-09-05 | [`sportscity.com.tw`](https://google.com/search?q=sportscity.com.tw) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-09-05 | [`finnco.eu`](https://google.com/search?q=finnco.eu) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-09-05 | [`psico`](https://google.com/search?q=psico) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2022-08-06 | [`APPLEXUS.COM FILES PART3 - 192.168.5.136, 192.168.5.141, 192.168.5.167, 192.168.5.183, 192`](https://google.com/search?q=APPLEXUS.COM+FILES+PART3+-+192.168.5.136%2C+192.168.5.141%2C+192.168.5.167%2C+192.168.5.183%2C+192) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-08-06 | [`unimasters.com`](https://google.com/search?q=unimasters.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-08-06 | [`wrschool.net`](https://google.com/search?q=wrschool.net) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-08-06 | [`trialpro.com`](https://google.com/search?q=trialpro.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-08-06 | [`newwestmetals.com`](https://google.com/search?q=newwestmetals.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
