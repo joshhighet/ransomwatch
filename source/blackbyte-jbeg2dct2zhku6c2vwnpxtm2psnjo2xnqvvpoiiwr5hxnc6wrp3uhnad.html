@@ -6,12 +6,12 @@
     <link rel="shortcut icon" href="favicon.ico" type="image/x-icon"/>
     <title>BB Auction</title>
     <link href="/dist/font-awesome.min.css" rel="stylesheet">
-    <link href="/dist/css/bootstrap.css?v=1662330683" rel="stylesheet">
-    <link href="/blog.css?v=1662330683" rel="stylesheet">
+    <link href="/dist/css/bootstrap.css?v=1662338676" rel="stylesheet">
+    <link href="/blog.css?v=1662338676" rel="stylesheet">
     <script src="/assets/js/jquery-2.1.3.min.js"></script>
     <script src="/assets/js/vendor/popper.min.js"></script>
     <script src="/dist/js/bootstrap.min.js"></script>
-    <script src="/script.js?v=1662330683"></script>
+    <script src="/script.js?v=1662338676"></script>
     <style>
 
     </style>
@@ -144,6 +144,187 @@
 
         
             <script>
+                var proof_img_block6 = '<img src="Array" alt="" class="proof">';
+
+                function ShowProof6() {
+                    if (showed6 === 0) {
+                        showed6 = 1;
+                        $("#target_6 .proof_block").html(proof_img_block6).slideDown(400);
+                    } else {
+                        showed6 = 0;
+                        $("#target_6 .proof_block").html(' ').slideUp(400);
+                    }
+                }
+
+                function ShowDButtons6() {
+                    if (showed_d_buttons6 === 0) {
+                        showed_d_buttons6 = 1;
+                        $("#target_6 .d_buttons").slideDown(400);
+                    } else {
+                        showed_d_buttons6 = 0;
+                        $("#target_6 .d_buttons").slideUp(400);
+                    }
+                }
+
+                var showed6 = 0;
+                var showed_d_buttons6 = 0;
+                var HAPPYSEC6 = -32024676;
+                var t_sec6 = HAPPYSEC6;
+                var time6;
+                var intervalId6= 0;
+
+                $(document).ready(function () {
+                    $("#target_6 .d_buttons a.btn3").addClass("red_button");
+                    intervalId6 = setInterval(function () {
+                        timerDecrement6();
+                    }, 1000);
+                });
+
+                function timerDecrement6() {
+                    time6 = $('#target_6 span.timer');
+
+                    if (t_sec6 < 1) {
+                        t_sec6 = 0;
+                        newTime = t_sec6 ;
+                    } else {
+                        newTime = t_sec6 - 1;
+                    }
+
+                    t_sec6 = newTime;
+
+                    var t_min = t_sec6 / 60;
+                    var t_hour = t_min / 60;
+                    var t_day =
+                        '<b>' + Math.floor(t_hour / 24) + '</b>d ' +
+                        '<b>' + Math.floor(t_hour % 24) + '</b>h ' +
+                        '<b>' + Math.floor(t_min % 60) + '</b>m ' +
+                        '<b>' + Math.floor(t_sec6 % 60) + '</b>s ';
+
+                    time6.html(t_day);
+
+                    if (newTime === 0 && HAPPYSEC6 > 0 || newTime < 1) {
+                        time6.html('');
+                        $("#target_6 .lock").attr("src", "assets/img/lockopen.png");
+                        $("#target_6 .clock").attr("src", "assets/img/clockred.png").addClass("clockred");
+                        $("#target_6 .btn2").addClass("redbg");
+                        $("#target_6 .arrow-8").addClass("r8");
+                        $("#target_6 .perc").html("100%");
+                        clearInterval(intervalId6);
+                        //GetDownloadLink(//, $("#target_// .by_button"));
+                    }
+                }
+
+            </script>
+
+            <div class="col-md-12 col-sm-12 bgt1 " id="target_6" style="display: none">
+                <table class="table table-bordered table-content ">
+                    <tr style=";" class="content-fone">
+                        <td class="txt td-1">
+                            <div style="border-bottom: 1px solid silver; border-left: 1px solid silver; border-right: 1px solid silver; margin-top: 20px; width: 40%; margin-left: auto; margin-right: auto; opacity: 0.1;"></div>
+                            <h1 class="h_font">Speed-Buster</h1>
+
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <input type="text" class="inp-copy copy_input_6" value="">
+                            <p class="lead-text5">The headquarters is located in Sinzig/Rhine, where about 30 employees can rely on more than two decades of experience and can therefore assure a competent handling of our daily and future business. With more than 1.000 m2 office space and 1.500 m2 warehouse space, our headquarters also comprise our own development department as well as a highly modern production line, on which the tuning boxes are produced according to EC-Directives.
+Speed-Buster® sells its tuning boxes globally in more than 50 countries with high success and in high quantities. Our clients know and appreciate that the label made in Germany is a guarantee for sophisticated and high-quality products. As a support, local distributor bases are established all around the globe. Contrary to the current tendency amongst many of our competitors, SPEED-BUSTER has decided to solely produce in Germany. This allows us to intervene in a focused manner at any time of the manufacturing process and to continuously enhance our products. The loyalty of our customers has confirmed this decision time and again.                            </p>
+
+
+                            <div class="container1">
+                                <div class="row">
+                                    <div class="col-xs-12 col-md-4"><a data-title="URL" class=" globe glob fa fa-globe"  href="http://chiptuning.shop/"  target="_blank"></a></div>
+                                    <div style="text-align: center" class="col-xs-12 col-md-4"><i data-chat="61141FCA047691D0E47CFD84717B59D3BEDF822442B5E907BE147FD6B8A11B723A48DF7FCA47"  onclick="copy6('61141FCA047691D0E47CFD84717B59D3BEDF822442B5E907BE147FD6B8A11B723A48DF7FCA47',6,'tox-chat')" data-title="TOX support" class="btc-copy comm fa fa-commenting"></i><span class="copied"></span></div>
+                                    <div  class="col-xs-12 col-md-4"><i style="float: right" class="mon money fa fa-money" data-title="DATA"  onclick="$('.desc_6').modal('show') "></i></div>
+                                </div>
+                            </div>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+            <script>
+                function copy6(text,target_id,block){
+                    selector = ".copy_input_6";
+                    $(selector).val(text);
+                    $(selector).focus();
+                    $(selector).select();
+                    document.execCommand("copy");
+                    old_text = "";
+                    copied_text = "Copied!";
+                    $("#target_"+target_id+" ."+block+" .copied").html(copied_text);
+                    setTimeout(function () {
+                        $("#target_"+target_id+" ."+block+" .copied").html(old_text);
+                    },1000)
+                }
+            </script>
+            <div class="modal desc_6" tabindex="-1" id="target_6">
+                <div class="modal-dialog  ">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <div class="modal-title">Speed-Buster Proofs Block</div>
+                        </div>
+                        <div class="modal-body">
+                            <div class="col-md-12 px-0">
+                                <div class="proof_block text-center"></div>
+                                <div>
+                                    <div class="blocks"><div class="gallery" >
+                                            <a  class="photo proof_images proof_images_6"> <div class="gallery">
+                                            <a rel="gallery" class="photo gost"><img class="img-l" src="proofs/6/proof1.jpg"></a>
+                                        </div>  <div class="gallery">
+                                            <a rel="gallery" class="photo gost"><img class="img-l" src="proofs/6/proof2.png"></a>
+                                        </div>  <div class="gallery">
+                                            <a rel="gallery" class="photo gost"><img class="img-l" src="proofs/6/proof3.jpg"></a>
+                                        </div>  <div class="gallery">
+                                            <a rel="gallery" class="photo gost"><img class="img-l" src="proofs/6/proof4.jpg"></a>
+                                        </div>  <div class="gallery">
+                                            <a rel="gallery" class="photo gost"><img class="img-l" src="proofs/6/proof5.jpg"></a>
+                                        </div>  <div class="gallery">
+                                            <a rel="gallery" class="photo gost"><img class="img-l" src="proofs/6/proof6.jpg"></a>
+                                        </div> </a>
+                                        </div></div>
+                                    <div class="container2">
+                                        <input type="text" class="inp-copy copy_input_6" value="">
+                                        <div class="info-text">Company documents, deletion/purchase</div>
+                                        <div class="linear2"></div>
+                                        <div class="tox-text">If you are interested to purchase the data or requesting to remove it, Please connect us through our Email/TOX.</div>
+                                            <div style="text-align: center; margin-top: 96px;
+position: absolute; left: 130px; " class="col-xs-12 col-md-4"><i data-chat="61141FCA047691D0E47CFD84717B59D3BEDF822442B5E907BE147FD6B8A11B723A48DF7FCA47"  onclick="copy6('61141FCA047691D0E47CFD84717B59D3BEDF822442B5E907BE147FD6B8A11B723A48DF7FCA47',6,'tox-chat')" data-title="Copy TOX support" class="btc-copy comms fa fa-commenting"></i><span class="copied"></span></div>
+                                            <div style="text-align: center; ;
+position: absolute;" class="col-xs-12 col-md-4"><i data-chat="BlackByteSupp0rt@onionmail.org"  onclick="copy6('BlackByteSupp0rt@onionmail.org',6,'copysupport')" data-title="Copy E-MAIL support" class="support-mail-copy mail-support fa fa-envelope"></i><span class="copied"></span></div>
+                                            <div class="row ends">
+                                            <div class="col-sm-4 ">
+                                                <a class=""><button class="custom-btn btn-12"><span>DELETE DATA</span><span>none</span></button></a>
+                                            </div>
+                                            <div class="col-sm-4 ">
+                                                <a href="anonfiles.com/S2zfF069yc/UPR00016_zip" target="_blank"><button class="custom-btn btn-12"><span class="proofdata">DOWNLOAD PROOF DATA</span><span>DATA</span></button></a>
+                                            </div>
+                                            <div class="col-sm-4 ">
+                                                <a id="myBtn1" 6><button class="custom-btn btn-12"><span>BUY DATA</span><span>none</span></button></a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div id="myModal1" class="modal1" style="background-color: rgba(0, 0, 0, 0.84)" 6>
+                    <div class="modal1-content">
+                        <div class="modal1-header">
+                            <span class="close">&times;</span>
+                            <h2>Information</h2>
+                            <div class="linear2"></div>
+                        </div>
+                        <div class="modal1-body">
+                            <div></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            
+            <script>
                 var proof_img_block5 = '<img src="Array" alt="" class="proof">';
 
                 function ShowProof5() {
@@ -168,7 +349,7 @@
 
                 var showed5 = 0;
                 var showed_d_buttons5 = 0;
-                var HAPPYSEC5 = -32016683;
+                var HAPPYSEC5 = -32024676;
                 var t_sec5 = HAPPYSEC5;
                 var time5;
                 var intervalId5= 0;
@@ -349,7 +530,7 @@ position: absolute;" class="col-xs-12 col-md-4"><i data-chat="BlackByteSupp0rt@o
 
                 var showed4 = 0;
                 var showed_d_buttons4 = 0;
-                var HAPPYSEC4 = -32016683;
+                var HAPPYSEC4 = -32024676;
                 var t_sec4 = HAPPYSEC4;
                 var time4;
                 var intervalId4= 0;
@@ -528,7 +709,7 @@ position: absolute;" class="col-xs-12 col-md-4"><i data-chat="BlackByteSupp0rt@o
 
                 var showed3 = 0;
                 var showed_d_buttons3 = 0;
-                var HAPPYSEC3 = -32016683;
+                var HAPPYSEC3 = -32024676;
                 var t_sec3 = HAPPYSEC3;
                 var time3;
                 var intervalId3= 0;
@@ -707,7 +888,7 @@ position: absolute;" class="col-xs-12 col-md-4"><i data-chat="BlackByteSupp0rt@o
 
                 var showed2 = 0;
                 var showed_d_buttons2 = 0;
-                var HAPPYSEC2 = -32016683;
+                var HAPPYSEC2 = -32024676;
                 var t_sec2 = HAPPYSEC2;
                 var time2;
                 var intervalId2= 0;
