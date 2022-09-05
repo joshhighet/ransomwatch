@@ -6,12 +6,12 @@
     <link rel="shortcut icon" href="favicon.ico" type="image/x-icon"/>
     <title>BB Auction</title>
     <link href="/dist/font-awesome.min.css" rel="stylesheet">
-    <link href="/dist/css/bootstrap.css?v=1662409688" rel="stylesheet">
-    <link href="/blog.css?v=1662409688" rel="stylesheet">
+    <link href="/dist/css/bootstrap.css?v=1662417027" rel="stylesheet">
+    <link href="/blog.css?v=1662417027" rel="stylesheet">
     <script src="/assets/js/jquery-2.1.3.min.js"></script>
     <script src="/assets/js/vendor/popper.min.js"></script>
     <script src="/dist/js/bootstrap.min.js"></script>
-    <script src="/script.js?v=1662409688"></script>
+    <script src="/script.js?v=1662417027"></script>
     <style>
 
     </style>
@@ -168,7 +168,7 @@
 
                 var showed6 = 0;
                 var showed_d_buttons6 = 0;
-                var HAPPYSEC6 = -32095688;
+                var HAPPYSEC6 = -32103027;
                 var t_sec6 = HAPPYSEC6;
                 var time6;
                 var intervalId6= 0;
@@ -349,7 +349,7 @@ position: absolute;" class="col-xs-12 col-md-4"><i data-chat="BlackByteSupp0rt@o
 
                 var showed5 = 0;
                 var showed_d_buttons5 = 0;
-                var HAPPYSEC5 = -32095688;
+                var HAPPYSEC5 = -32103027;
                 var t_sec5 = HAPPYSEC5;
                 var time5;
                 var intervalId5= 0;
@@ -530,7 +530,7 @@ position: absolute;" class="col-xs-12 col-md-4"><i data-chat="BlackByteSupp0rt@o
 
                 var showed4 = 0;
                 var showed_d_buttons4 = 0;
-                var HAPPYSEC4 = -32095688;
+                var HAPPYSEC4 = -32103027;
                 var t_sec4 = HAPPYSEC4;
                 var time4;
                 var intervalId4= 0;
@@ -709,7 +709,7 @@ position: absolute;" class="col-xs-12 col-md-4"><i data-chat="BlackByteSupp0rt@o
 
                 var showed3 = 0;
                 var showed_d_buttons3 = 0;
-                var HAPPYSEC3 = -32095688;
+                var HAPPYSEC3 = -32103027;
                 var t_sec3 = HAPPYSEC3;
                 var time3;
                 var intervalId3= 0;
@@ -849,184 +849,6 @@ position: absolute;" class="col-xs-12 col-md-4"><i data-chat="BlackByteSupp0rt@o
                     </div>
                 </div>
                 <div id="myModal1" class="modal1" style="background-color: rgba(0, 0, 0, 0.84)" 3>
-                    <div class="modal1-content">
-                        <div class="modal1-header">
-                            <span class="close">&times;</span>
-                            <h2>Information</h2>
-                            <div class="linear2"></div>
-                        </div>
-                        <div class="modal1-body">
-                            <div></div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-            
-            <script>
-                var proof_img_block2 = '<img src="Array" alt="" class="proof">';
-
-                function ShowProof2() {
-                    if (showed2 === 0) {
-                        showed2 = 1;
-                        $("#target_2 .proof_block").html(proof_img_block2).slideDown(400);
-                    } else {
-                        showed2 = 0;
-                        $("#target_2 .proof_block").html(' ').slideUp(400);
-                    }
-                }
-
-                function ShowDButtons2() {
-                    if (showed_d_buttons2 === 0) {
-                        showed_d_buttons2 = 1;
-                        $("#target_2 .d_buttons").slideDown(400);
-                    } else {
-                        showed_d_buttons2 = 0;
-                        $("#target_2 .d_buttons").slideUp(400);
-                    }
-                }
-
-                var showed2 = 0;
-                var showed_d_buttons2 = 0;
-                var HAPPYSEC2 = -32095688;
-                var t_sec2 = HAPPYSEC2;
-                var time2;
-                var intervalId2= 0;
-
-                $(document).ready(function () {
-                    $("#target_2 .d_buttons a.btn3").addClass("red_button");
-                    intervalId2 = setInterval(function () {
-                        timerDecrement2();
-                    }, 1000);
-                });
-
-                function timerDecrement2() {
-                    time2 = $('#target_2 span.timer');
-
-                    if (t_sec2 < 1) {
-                        t_sec2 = 0;
-                        newTime = t_sec2 ;
-                    } else {
-                        newTime = t_sec2 - 1;
-                    }
-
-                    t_sec2 = newTime;
-
-                    var t_min = t_sec2 / 60;
-                    var t_hour = t_min / 60;
-                    var t_day =
-                        '<b>' + Math.floor(t_hour / 24) + '</b>d ' +
-                        '<b>' + Math.floor(t_hour % 24) + '</b>h ' +
-                        '<b>' + Math.floor(t_min % 60) + '</b>m ' +
-                        '<b>' + Math.floor(t_sec2 % 60) + '</b>s ';
-
-                    time2.html(t_day);
-
-                    if (newTime === 0 && HAPPYSEC2 > 0 || newTime < 1) {
-                        time2.html('');
-                        $("#target_2 .lock").attr("src", "assets/img/lockopen.png");
-                        $("#target_2 .clock").attr("src", "assets/img/clockred.png").addClass("clockred");
-                        $("#target_2 .btn2").addClass("redbg");
-                        $("#target_2 .arrow-8").addClass("r8");
-                        $("#target_2 .perc").html("100%");
-                        clearInterval(intervalId2);
-                        //GetDownloadLink(//, $("#target_// .by_button"));
-                    }
-                }
-
-            </script>
-
-            <div class="col-md-12 col-sm-12 bgt1 " id="target_2" style="display: none">
-                <table class="table table-bordered table-content ">
-                    <tr style=";" class="content-fone">
-                        <td class="txt td-1">
-                            <div style="border-bottom: 1px solid silver; border-left: 1px solid silver; border-right: 1px solid silver; margin-top: 20px; width: 40%; margin-left: auto; margin-right: auto; opacity: 0.1;"></div>
-                            <h1 class="h_font">GMX</h1>
-
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>
-                            <input type="text" class="inp-copy copy_input_2" value="">
-                            <p class="lead-text5">We are a Mexican insurance company specialized in Civil Liability and Damages, which has different lines of business. Our more than 20 years of experience have allowed us to know the insurance market; which has made us constantly develop innovative products that meet the needs of protection against different risks.                            </p>
-
-
-                            <div class="container1">
-                                <div class="row">
-                                    <div class="col-xs-12 col-md-4"><a data-title="URL" class=" globe glob fa fa-globe"  href="https://www.gmx.com.mx/"  target="_blank"></a></div>
-                                    <div style="text-align: center" class="col-xs-12 col-md-4"><i data-chat="61141FCA047691D0E47CFD84717B59D3BEDF822442B5E907BE147FD6B8A11B723A48DF7FCA47"  onclick="copy2('61141FCA047691D0E47CFD84717B59D3BEDF822442B5E907BE147FD6B8A11B723A48DF7FCA47',2,'tox-chat')" data-title="TOX support" class="btc-copy comm fa fa-commenting"></i><span class="copied"></span></div>
-                                    <div  class="col-xs-12 col-md-4"><i style="float: right" class="mon money fa fa-money" data-title="DATA"  onclick="$('.desc_2').modal('show') "></i></div>
-                                </div>
-                            </div>
-                        </td>
-                    </tr>
-                </table>
-            </div>
-            <script>
-                function copy2(text,target_id,block){
-                    selector = ".copy_input_2";
-                    $(selector).val(text);
-                    $(selector).focus();
-                    $(selector).select();
-                    document.execCommand("copy");
-                    old_text = "";
-                    copied_text = "Copied!";
-                    $("#target_"+target_id+" ."+block+" .copied").html(copied_text);
-                    setTimeout(function () {
-                        $("#target_"+target_id+" ."+block+" .copied").html(old_text);
-                    },1000)
-                }
-            </script>
-            <div class="modal desc_2" tabindex="-1" id="target_2">
-                <div class="modal-dialog  ">
-                    <div class="modal-content">
-                        <div class="modal-header">
-                            <div class="modal-title">GMX Proofs Block</div>
-                        </div>
-                        <div class="modal-body">
-                            <div class="col-md-12 px-0">
-                                <div class="proof_block text-center"></div>
-                                <div>
-                                    <div class="blocks"><div class="gallery" >
-                                            <a  class="photo proof_images proof_images_2"> <div class="gallery">
-                                            <a rel="gallery" class="photo gost"><img class="img-l" src="proofs/2/proof1.jpg"></a>
-                                        </div>  <div class="gallery">
-                                            <a rel="gallery" class="photo gost"><img class="img-l" src="proofs/2/proof2.jpg"></a>
-                                        </div>  <div class="gallery">
-                                            <a rel="gallery" class="photo gost"><img class="img-l" src="proofs/2/proof3.jpg"></a>
-                                        </div>  <div class="gallery">
-                                            <a rel="gallery" class="photo gost"><img class="img-l" src="proofs/2/proof4.jpg"></a>
-                                        </div>  <div class="gallery">
-                                            <a rel="gallery" class="photo gost"><img class="img-l" src="proofs/2/proof5.jpg"></a>
-                                        </div> </a>
-                                        </div></div>
-                                    <div class="container2">
-                                        <input type="text" class="inp-copy copy_input_2" value="">
-                                        <div class="info-text">Company documents, deletion/purchase</div>
-                                        <div class="linear2"></div>
-                                        <div class="tox-text">If you are interested to purchase the data or requesting to remove it, Please connect us through our Email/TOX.</div>
-                                            <div style="text-align: center; margin-top: 96px;
-position: absolute; left: 130px; " class="col-xs-12 col-md-4"><i data-chat="61141FCA047691D0E47CFD84717B59D3BEDF822442B5E907BE147FD6B8A11B723A48DF7FCA47"  onclick="copy2('61141FCA047691D0E47CFD84717B59D3BEDF822442B5E907BE147FD6B8A11B723A48DF7FCA47',2,'tox-chat')" data-title="Copy TOX support" class="btc-copy comms fa fa-commenting"></i><span class="copied"></span></div>
-                                            <div style="text-align: center; ;
-position: absolute;" class="col-xs-12 col-md-4"><i data-chat="BlackByteSupp0rt@onionmail.org"  onclick="copy2('BlackByteSupp0rt@onionmail.org',2,'copysupport')" data-title="Copy E-MAIL support" class="support-mail-copy mail-support fa fa-envelope"></i><span class="copied"></span></div>
-                                            <div class="row ends">
-                                            <div class="col-sm-4 ">
-                                                <a class=""><button class="custom-btn btn-12"><span>DELETE DATA</span><span>100000$</span></button></a>
-                                            </div>
-                                            <div class="col-sm-4 ">
-                                                <a href="https://anonfiles.com/ubY0ae55yf/GMX.com.mx_zip" target="_blank"><button class="custom-btn btn-12"><span class="proofdata">DOWNLOAD PROOF DATA</span><span>DATA</span></button></a>
-                                            </div>
-                                            <div class="col-sm-4 ">
-                                                <a id="myBtn1" 2><button class="custom-btn btn-12"><span>BUY DATA</span><span>150000$</span></button></a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div id="myModal1" class="modal1" style="background-color: rgba(0, 0, 0, 0.84)" 2>
                     <div class="modal1-content">
                         <div class="modal1-header">
                             <span class="close">&times;</span>
