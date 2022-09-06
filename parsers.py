@@ -747,7 +747,7 @@ def bianlian():
 def redalert():
     stdlog('parser: ' + 'redalert')
     parser = '''
-    egrep -o '<h3>([[:alnum:]]| |\.)+</h3>' source/redalert-*.html | cut -d '>' -f 2 | cut -d '<' -f 1
+    egrep -o "<h3>([A-Za-z0-9 ,\'.-])+</h3>" source/redalert-*.html | cut -d '>' -f 2 | cut -d '<' -f 1
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
