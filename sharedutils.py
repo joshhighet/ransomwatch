@@ -345,7 +345,7 @@ def version3count():
                 version3_count += 1
     return version3_count
 
-def mounthlypostcount():
+def monthlypostcount():
     '''
     returns the number of posts within the current month
     '''
