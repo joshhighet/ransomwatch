@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-09-06 | [`lafondasantafe.com`](https://google.com/search?q=lafondasantafe.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2022-09-06 | [`gavresorts.com.br`](https://google.com/search?q=gavresorts.com.br) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-09-05 | [`sbr-zwiesel.de`](https://google.com/search?q=sbr-zwiesel.de) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-09-05 | [`pdh.com.tw`](https://google.com/search?q=pdh.com.tw) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-09-05 | [`monnensenpartners.be`](https://google.com/search?q=monnensenpartners.be) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -22,7 +24,7 @@ _last `200` posts_
 | 2022-09-04 | [`Elmbrook Schools`](https://google.com/search?q=Elmbrook+Schools) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2022-09-04 | [`hmets.com`](https://google.com/search?q=hmets.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-09-04 | [`floresfunza.com`](https://google.com/search?q=floresfunza.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-09-03 | [`s`](https://google.com/search?q=s) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2022-09-03 | [`Baer's`](https://google.com/search?q=Baer%27s) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2022-09-03 | [`Infinitely Virtual`](https://google.com/search?q=Infinitely+Virtual) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2022-09-03 | [`Fundo Nacional de Desenvolvimento da Educação`](https://google.com/search?q=Fundo+Nacional+de+Desenvolvimento+da+Educa%C3%A7%C3%A3o) | [ransomexx](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomexx) |
 | 2022-09-02 | [`TAP Air - First Facts`](https://google.com/search?q=TAP+Air+-+First+Facts) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
@@ -44,11 +46,11 @@ _last `200` posts_
 | 2022-08-31 | [`MEIJI.COM.SG`](https://google.com/search?q=MEIJI.COM.SG) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-08-30 | [`Magnachem`](https://google.com/search?q=Magnachem) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2022-08-30 | [`Alegria Family Services`](https://google.com/search?q=Alegria+Family+Services) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2022-08-30 | [` LLC`](https://google.com/search?q=+LLC) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2022-08-30 | [`WWAY-TV, LLC`](https://google.com/search?q=WWAY-TV%2C+LLC) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2022-08-30 | [`Ramada Hervey Bay Hotel Resort`](https://google.com/search?q=Ramada+Hervey+Bay+Hotel+Resort) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2022-08-30 | [`Community Dental Partners`](https://google.com/search?q=Community+Dental+Partners) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2022-08-30 | [`4cRisk`](https://google.com/search?q=4cRisk) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2022-08-30 | [`group`](https://google.com/search?q=group) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2022-08-30 | [`Captec-group`](https://google.com/search?q=Captec-group) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2022-08-30 | [`GOV Brazil`](https://google.com/search?q=GOV+Brazil) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2022-08-30 | [`PRICEDEX.COM FILES PART14 - 10.0.10.1\E$\Shares\projects\Marketing and Business\Opticat\ P`](https://google.com/search?q=PRICEDEX.COM+FILES+PART14+-+10.0.10.1%5CE%24%5CShares%5Cprojects%5CMarketing+and+Business%5COpticat%5C+P) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-08-30 | [`ORBITELECTRIC.COM FILES PART21 - 192.168.10.122\C$\Users\RAMONH\Desktop\Kashmal\ PUBLISHED`](https://google.com/search?q=ORBITELECTRIC.COM+FILES+PART21+-+192.168.10.122%5CC%24%5CUsers%5CRAMONH%5CDesktop%5CKashmal%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2022-08-06 | [`FERRAN-SERVICES.COM FILES PART11 - D\Company\Accounts Payable\ PUBLISHED`](https://google.com/search?q=FERRAN-SERVICES.COM+FILES+PART11+-+D%5CCompany%5CAccounts+Payable%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-08-06 | [`ENSSECURITY.COM FILES PART11 - 192.168.0.115\C$\Users\Sales\ PUBLISHED`](https://google.com/search?q=ENSSECURITY.COM+FILES+PART11+-+192.168.0.115%5CC%24%5CUsers%5CSales%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-08-06 | [`SPINNEYS.COM FILES PART3 - 10.31.10.126, 10.31.10.153, 10.31.10.185, 10.31.10.226, 10.31.3`](https://google.com/search?q=SPINNEYS.COM+FILES+PART3+-+10.31.10.126%2C+10.31.10.153%2C+10.31.10.185%2C+10.31.10.226%2C+10.31.3) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-08-06 | [`LATOURNERIE-WOLFROM.COM FILES PART11 - 10.100.57.15\Trans\ PUBLISHED`](https://google.com/search?q=LATOURNERIE-WOLFROM.COM+FILES+PART11+-+10.100.57.15%5CTrans%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-08-06 | [`FTSUMNERK12.COM FILES PART11 - 192.168.0.244\StudentShare\ PUBLISHED`](https://google.com/search?q=FTSUMNERK12.COM+FILES+PART11+-+192.168.0.244%5CStudentShare%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
