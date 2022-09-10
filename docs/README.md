@@ -2,13 +2,13 @@
 ## summary
 _september 10th, 2022_
 
-currently tracking `120` groups across `216` relays & mirrors - _`92` currently online_
+currently tracking `120` groups across `216` relays & mirrors - _`91` currently online_
 
 ⏲ there have been `6` posts within the `last 24 hours`
 
 🦈 there have been `53` posts within the `month of september`
 
-🪐 there have been `644` posts within the `last 90 days`
+🪐 there have been `629` posts within the `last 90 days`
 
 🏚 there have been `2371` posts within the `year of 2022`
 
