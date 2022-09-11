@@ -6,12 +6,12 @@
     <link rel="shortcut icon" href="favicon.ico" type="image/x-icon"/>
     <title>BB Auction</title>
     <link href="/dist/font-awesome.min.css" rel="stylesheet">
-    <link href="/dist/css/bootstrap.css?v=1662906590" rel="stylesheet">
-    <link href="/blog.css?v=1662906590" rel="stylesheet">
+    <link href="/dist/css/bootstrap.css?v=1662913601" rel="stylesheet">
+    <link href="/blog.css?v=1662913601" rel="stylesheet">
     <script src="/assets/js/jquery-2.1.3.min.js"></script>
     <script src="/assets/js/vendor/popper.min.js"></script>
     <script src="/dist/js/bootstrap.min.js"></script>
-    <script src="/script.js?v=1662906590"></script>
+    <script src="/script.js?v=1662913601"></script>
     <style>
 
     </style>
@@ -144,6 +144,364 @@
 
         
             <script>
+                var proof_img_block8 = '<img src="Array" alt="" class="proof">';
+
+                function ShowProof8() {
+                    if (showed8 === 0) {
+                        showed8 = 1;
+                        $("#target_8 .proof_block").html(proof_img_block8).slideDown(400);
+                    } else {
+                        showed8 = 0;
+                        $("#target_8 .proof_block").html(' ').slideUp(400);
+                    }
+                }
+
+                function ShowDButtons8() {
+                    if (showed_d_buttons8 === 0) {
+                        showed_d_buttons8 = 1;
+                        $("#target_8 .d_buttons").slideDown(400);
+                    } else {
+                        showed_d_buttons8 = 0;
+                        $("#target_8 .d_buttons").slideUp(400);
+                    }
+                }
+
+                var showed8 = 0;
+                var showed_d_buttons8 = 0;
+                var HAPPYSEC8 = -32599601;
+                var t_sec8 = HAPPYSEC8;
+                var time8;
+                var intervalId8= 0;
+
+                $(document).ready(function () {
+                    $("#target_8 .d_buttons a.btn3").addClass("red_button");
+                    intervalId8 = setInterval(function () {
+                        timerDecrement8();
+                    }, 1000);
+                });
+
+                function timerDecrement8() {
+                    time8 = $('#target_8 span.timer');
+
+                    if (t_sec8 < 1) {
+                        t_sec8 = 0;
+                        newTime = t_sec8 ;
+                    } else {
+                        newTime = t_sec8 - 1;
+                    }
+
+                    t_sec8 = newTime;
+
+                    var t_min = t_sec8 / 60;
+                    var t_hour = t_min / 60;
+                    var t_day =
+                        '<b>' + Math.floor(t_hour / 24) + '</b>d ' +
+                        '<b>' + Math.floor(t_hour % 24) + '</b>h ' +
+                        '<b>' + Math.floor(t_min % 60) + '</b>m ' +
+                        '<b>' + Math.floor(t_sec8 % 60) + '</b>s ';
+
+                    time8.html(t_day);
+
+                    if (newTime === 0 && HAPPYSEC8 > 0 || newTime < 1) {
+                        time8.html('');
+                        $("#target_8 .lock").attr("src", "assets/img/lockopen.png");
+                        $("#target_8 .clock").attr("src", "assets/img/clockred.png").addClass("clockred");
+                        $("#target_8 .btn2").addClass("redbg");
+                        $("#target_8 .arrow-8").addClass("r8");
+                        $("#target_8 .perc").html("100%");
+                        clearInterval(intervalId8);
+                        //GetDownloadLink(//, $("#target_// .by_button"));
+                    }
+                }
+
+            </script>
+
+            <div class="col-md-12 col-sm-12 bgt1 " id="target_8" style="display: none">
+                <table class="table table-bordered table-content ">
+                    <tr style=";" class="content-fone">
+                        <td class="txt td-1">
+                            <div style="border-bottom: 1px solid silver; border-left: 1px solid silver; border-right: 1px solid silver; margin-top: 20px; width: 40%; margin-left: auto; margin-right: auto; opacity: 0.1;"></div>
+                            <h1 class="h_font">TIB Development Bank</h1>
+
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <input type="text" class="inp-copy copy_input_8" value="">
+                            <p class="lead-text5">TIB Development Bank Limited was established in November 1970 initially by the Parliamentary Act, the Tanzania Investment Bank Act of 1970 with the main purpose of financing development with emphasis on industrialization of the country. TIB was able to fulfil its mandate with notable success in the setting up of textile, leather, paper and other processing industries until the macroeconomic instabilities of the 1980s when the country’s economy deteriorated.
+The economic reforms of the 1990s highlighted the lack of long term funding as it was not offered by any of the commercial and financial institutions operating the country at the time. The Government therefore re-designated TIB as a Development Finance Institution (DFI) in 2005. The bank has completed the process of transformation into a DFI with an engagement focus centred primarily on infrastructure, industrialization (agro-processing, mining, and general manufacturing) oil and gas and services sector.                            </p>
+
+
+                            <div class="container1">
+                                <div class="row">
+                                    <div class="col-xs-12 col-md-4"><a data-title="URL" class=" globe glob fa fa-globe"  href="https://www.tib.co.tz/"  target="_blank"></a></div>
+                                    <div style="text-align: center" class="col-xs-12 col-md-4"><i data-chat="61141FCA047691D0E47CFD84717B59D3BEDF822442B5E907BE147FD6B8A11B723A48DF7FCA47"  onclick="copy8('61141FCA047691D0E47CFD84717B59D3BEDF822442B5E907BE147FD6B8A11B723A48DF7FCA47',8,'tox-chat')" data-title="TOX support" class="btc-copy comm fa fa-commenting"></i><span class="copied"></span></div>
+                                    <div  class="col-xs-12 col-md-4"><i style="float: right" class="mon money fa fa-money" data-title="DATA"  onclick="$('.desc_8').modal('show') "></i></div>
+                                </div>
+                            </div>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+            <script>
+                function copy8(text,target_id,block){
+                    selector = ".copy_input_8";
+                    $(selector).val(text);
+                    $(selector).focus();
+                    $(selector).select();
+                    document.execCommand("copy");
+                    old_text = "";
+                    copied_text = "Copied!";
+                    $("#target_"+target_id+" ."+block+" .copied").html(copied_text);
+                    setTimeout(function () {
+                        $("#target_"+target_id+" ."+block+" .copied").html(old_text);
+                    },1000)
+                }
+            </script>
+            <div class="modal desc_8" tabindex="-1" id="target_8">
+                <div class="modal-dialog  ">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <div class="modal-title">TIB Development Bank Proofs Block</div>
+                        </div>
+                        <div class="modal-body">
+                            <div class="col-md-12 px-0">
+                                <div class="proof_block text-center"></div>
+                                <div>
+                                    <div class="blocks"><div class="gallery" >
+                                            <a  class="photo proof_images proof_images_8"> <div class="gallery">
+                                            <a rel="gallery" class="photo gost"><img class="img-l" src="proofs/8/proof1.png"></a>
+                                        </div>  <div class="gallery">
+                                            <a rel="gallery" class="photo gost"><img class="img-l" src="proofs/8/proof2.png"></a>
+                                        </div>  <div class="gallery">
+                                            <a rel="gallery" class="photo gost"><img class="img-l" src="proofs/8/proof3.png"></a>
+                                        </div>  <div class="gallery">
+                                            <a rel="gallery" class="photo gost"><img class="img-l" src="proofs/8/proof4.png"></a>
+                                        </div>  <div class="gallery">
+                                            <a rel="gallery" class="photo gost"><img class="img-l" src="proofs/8/proof5.png"></a>
+                                        </div> </a>
+                                        </div></div>
+                                    <div class="container2">
+                                        <input type="text" class="inp-copy copy_input_8" value="">
+                                        <div class="info-text">Company documents, deletion/purchase</div>
+                                        <div class="linear2"></div>
+                                        <div class="tox-text">If you are interested to purchase the data or requesting to remove it, Please connect us through our Email/TOX.</div>
+                                            <div style="text-align: center; margin-top: 96px;
+position: absolute; left: 130px; " class="col-xs-12 col-md-4"><i data-chat="61141FCA047691D0E47CFD84717B59D3BEDF822442B5E907BE147FD6B8A11B723A48DF7FCA47"  onclick="copy8('61141FCA047691D0E47CFD84717B59D3BEDF822442B5E907BE147FD6B8A11B723A48DF7FCA47',8,'tox-chat')" data-title="Copy TOX support" class="btc-copy comms fa fa-commenting"></i><span class="copied"></span></div>
+                                            <div style="text-align: center; ;
+position: absolute;" class="col-xs-12 col-md-4"><i data-chat="BlackByteSupp0rt@onionmail.org"  onclick="copy8('BlackByteSupp0rt@onionmail.org',8,'copysupport')" data-title="Copy E-MAIL support" class="support-mail-copy mail-support fa fa-envelope"></i><span class="copied"></span></div>
+                                            <div class="row ends">
+                                            <div class="col-sm-4 ">
+                                                <a class=""><button class="custom-btn btn-12"><span>DELETE DATA</span><span>350000$</span></button></a>
+                                            </div>
+                                            <div class="col-sm-4 ">
+                                                <a href="https://anonfiles.com/Od238073yf/finance_reports-new_zip" target="_blank"><button class="custom-btn btn-12"><span class="proofdata">DOWNLOAD PROOF DATA</span><span>DATA</span></button></a>
+                                            </div>
+                                            <div class="col-sm-4 ">
+                                                <a id="myBtn1" 8><button class="custom-btn btn-12"><span>BUY DATA</span><span>300000$</span></button></a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div id="myModal1" class="modal1" style="background-color: rgba(0, 0, 0, 0.84)" 8>
+                    <div class="modal1-content">
+                        <div class="modal1-header">
+                            <span class="close">&times;</span>
+                            <h2>Information</h2>
+                            <div class="linear2"></div>
+                        </div>
+                        <div class="modal1-body">
+                            <div></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            
+            <script>
+                var proof_img_block7 = '<img src="Array" alt="" class="proof">';
+
+                function ShowProof7() {
+                    if (showed7 === 0) {
+                        showed7 = 1;
+                        $("#target_7 .proof_block").html(proof_img_block7).slideDown(400);
+                    } else {
+                        showed7 = 0;
+                        $("#target_7 .proof_block").html(' ').slideUp(400);
+                    }
+                }
+
+                function ShowDButtons7() {
+                    if (showed_d_buttons7 === 0) {
+                        showed_d_buttons7 = 1;
+                        $("#target_7 .d_buttons").slideDown(400);
+                    } else {
+                        showed_d_buttons7 = 0;
+                        $("#target_7 .d_buttons").slideUp(400);
+                    }
+                }
+
+                var showed7 = 0;
+                var showed_d_buttons7 = 0;
+                var HAPPYSEC7 = -32599601;
+                var t_sec7 = HAPPYSEC7;
+                var time7;
+                var intervalId7= 0;
+
+                $(document).ready(function () {
+                    $("#target_7 .d_buttons a.btn3").addClass("red_button");
+                    intervalId7 = setInterval(function () {
+                        timerDecrement7();
+                    }, 1000);
+                });
+
+                function timerDecrement7() {
+                    time7 = $('#target_7 span.timer');
+
+                    if (t_sec7 < 1) {
+                        t_sec7 = 0;
+                        newTime = t_sec7 ;
+                    } else {
+                        newTime = t_sec7 - 1;
+                    }
+
+                    t_sec7 = newTime;
+
+                    var t_min = t_sec7 / 60;
+                    var t_hour = t_min / 60;
+                    var t_day =
+                        '<b>' + Math.floor(t_hour / 24) + '</b>d ' +
+                        '<b>' + Math.floor(t_hour % 24) + '</b>h ' +
+                        '<b>' + Math.floor(t_min % 60) + '</b>m ' +
+                        '<b>' + Math.floor(t_sec7 % 60) + '</b>s ';
+
+                    time7.html(t_day);
+
+                    if (newTime === 0 && HAPPYSEC7 > 0 || newTime < 1) {
+                        time7.html('');
+                        $("#target_7 .lock").attr("src", "assets/img/lockopen.png");
+                        $("#target_7 .clock").attr("src", "assets/img/clockred.png").addClass("clockred");
+                        $("#target_7 .btn2").addClass("redbg");
+                        $("#target_7 .arrow-8").addClass("r8");
+                        $("#target_7 .perc").html("100%");
+                        clearInterval(intervalId7);
+                        //GetDownloadLink(//, $("#target_// .by_button"));
+                    }
+                }
+
+            </script>
+
+            <div class="col-md-12 col-sm-12 bgt1 " id="target_7" style="display: none">
+                <table class="table table-bordered table-content ">
+                    <tr style=";" class="content-fone">
+                        <td class="txt td-1">
+                            <div style="border-bottom: 1px solid silver; border-left: 1px solid silver; border-right: 1px solid silver; margin-top: 20px; width: 40%; margin-left: auto; margin-right: auto; opacity: 0.1;"></div>
+                            <h1 class="h_font">Davin Industries Ltd</h1>
+
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <input type="text" class="inp-copy copy_input_7" value="">
+                            <p class="lead-text5">Since starting business in 1962, Davin Industries has earned an enviable reputation as an industry leader in precision sheetmetal fabrication and contract batch manufacturing.
+Operating from one of New Zealand's best-equipped sheetmetal fabrication facilities, Davin combines state-of-the-art production technology with craftsmanship to complete assignments ranging from prototypes through to volume production runs. The Christchurch facility is registered to ISO9001 and applies quality management principles from receipt of order through to delivery of finished goods.                            </p>
+
+
+                            <div class="container1">
+                                <div class="row">
+                                    <div class="col-xs-12 col-md-4"><a data-title="URL" class=" globe glob fa fa-globe"  href="http://www.davin.co.nz/"  target="_blank"></a></div>
+                                    <div style="text-align: center" class="col-xs-12 col-md-4"><i data-chat="61141FCA047691D0E47CFD84717B59D3BEDF822442B5E907BE147FD6B8A11B723A48DF7FCA47"  onclick="copy7('61141FCA047691D0E47CFD84717B59D3BEDF822442B5E907BE147FD6B8A11B723A48DF7FCA47',7,'tox-chat')" data-title="TOX support" class="btc-copy comm fa fa-commenting"></i><span class="copied"></span></div>
+                                    <div  class="col-xs-12 col-md-4"><i style="float: right" class="mon money fa fa-money" data-title="DATA"  onclick="$('.desc_7').modal('show') "></i></div>
+                                </div>
+                            </div>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+            <script>
+                function copy7(text,target_id,block){
+                    selector = ".copy_input_7";
+                    $(selector).val(text);
+                    $(selector).focus();
+                    $(selector).select();
+                    document.execCommand("copy");
+                    old_text = "";
+                    copied_text = "Copied!";
+                    $("#target_"+target_id+" ."+block+" .copied").html(copied_text);
+                    setTimeout(function () {
+                        $("#target_"+target_id+" ."+block+" .copied").html(old_text);
+                    },1000)
+                }
+            </script>
+            <div class="modal desc_7" tabindex="-1" id="target_7">
+                <div class="modal-dialog  ">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <div class="modal-title">Davin Industries Ltd Proofs Block</div>
+                        </div>
+                        <div class="modal-body">
+                            <div class="col-md-12 px-0">
+                                <div class="proof_block text-center"></div>
+                                <div>
+                                    <div class="blocks"><div class="gallery" >
+                                            <a  class="photo proof_images proof_images_7"> <div class="gallery">
+                                            <a rel="gallery" class="photo gost"><img class="img-l" src="proofs/7/proof1.png"></a>
+                                        </div>  <div class="gallery">
+                                            <a rel="gallery" class="photo gost"><img class="img-l" src="proofs/7/proof2.png"></a>
+                                        </div>  <div class="gallery">
+                                            <a rel="gallery" class="photo gost"><img class="img-l" src="proofs/7/proof3.png"></a>
+                                        </div>  <div class="gallery">
+                                            <a rel="gallery" class="photo gost"><img class="img-l" src="proofs/7/proof4.png"></a>
+                                        </div>  <div class="gallery">
+                                            <a rel="gallery" class="photo gost"><img class="img-l" src="proofs/7/proof5.png"></a>
+                                        </div> </a>
+                                        </div></div>
+                                    <div class="container2">
+                                        <input type="text" class="inp-copy copy_input_7" value="">
+                                        <div class="info-text">Company documents, deletion/purchase</div>
+                                        <div class="linear2"></div>
+                                        <div class="tox-text">If you are interested to purchase the data or requesting to remove it, Please connect us through our Email/TOX.</div>
+                                            <div style="text-align: center; margin-top: 96px;
+position: absolute; left: 130px; " class="col-xs-12 col-md-4"><i data-chat="61141FCA047691D0E47CFD84717B59D3BEDF822442B5E907BE147FD6B8A11B723A48DF7FCA47"  onclick="copy7('61141FCA047691D0E47CFD84717B59D3BEDF822442B5E907BE147FD6B8A11B723A48DF7FCA47',7,'tox-chat')" data-title="Copy TOX support" class="btc-copy comms fa fa-commenting"></i><span class="copied"></span></div>
+                                            <div style="text-align: center; ;
+position: absolute;" class="col-xs-12 col-md-4"><i data-chat="BlackByteSupp0rt@onionmail.org"  onclick="copy7('BlackByteSupp0rt@onionmail.org',7,'copysupport')" data-title="Copy E-MAIL support" class="support-mail-copy mail-support fa fa-envelope"></i><span class="copied"></span></div>
+                                            <div class="row ends">
+                                            <div class="col-sm-4 ">
+                                                <a class=""><button class="custom-btn btn-12"><span>DELETE DATA</span><span>100000$</span></button></a>
+                                            </div>
+                                            <div class="col-sm-4 ">
+                                                <a href="https://anonfiles.com/j2L53776y0/data_zip" target="_blank"><button class="custom-btn btn-12"><span class="proofdata">DOWNLOAD PROOF DATA</span><span>DATA</span></button></a>
+                                            </div>
+                                            <div class="col-sm-4 ">
+                                                <a id="myBtn1" 7><button class="custom-btn btn-12"><span>BUY DATA</span><span>80000$</span></button></a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div id="myModal1" class="modal1" style="background-color: rgba(0, 0, 0, 0.84)" 7>
+                    <div class="modal1-content">
+                        <div class="modal1-header">
+                            <span class="close">&times;</span>
+                            <h2>Information</h2>
+                            <div class="linear2"></div>
+                        </div>
+                        <div class="modal1-body">
+                            <div></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            
+            <script>
                 var proof_img_block6 = '<img src="Array" alt="" class="proof">';
 
                 function ShowProof6() {
@@ -168,7 +526,7 @@
 
                 var showed6 = 0;
                 var showed_d_buttons6 = 0;
-                var HAPPYSEC6 = -32592590;
+                var HAPPYSEC6 = -32599601;
                 var t_sec6 = HAPPYSEC6;
                 var time6;
                 var intervalId6= 0;
@@ -349,7 +707,7 @@ position: absolute;" class="col-xs-12 col-md-4"><i data-chat="BlackByteSupp0rt@o
 
                 var showed5 = 0;
                 var showed_d_buttons5 = 0;
-                var HAPPYSEC5 = -32592590;
+                var HAPPYSEC5 = -32599601;
                 var t_sec5 = HAPPYSEC5;
                 var time5;
                 var intervalId5= 0;
@@ -530,7 +888,7 @@ position: absolute;" class="col-xs-12 col-md-4"><i data-chat="BlackByteSupp0rt@o
 
                 var showed4 = 0;
                 var showed_d_buttons4 = 0;
-                var HAPPYSEC4 = -32592590;
+                var HAPPYSEC4 = -32599601;
                 var t_sec4 = HAPPYSEC4;
                 var time4;
                 var intervalId4= 0;
@@ -709,7 +1067,7 @@ position: absolute;" class="col-xs-12 col-md-4"><i data-chat="BlackByteSupp0rt@o
 
                 var showed3 = 0;
                 var showed_d_buttons3 = 0;
-                var HAPPYSEC3 = -32592590;
+                var HAPPYSEC3 = -32599601;
                 var t_sec3 = HAPPYSEC3;
                 var time3;
                 var intervalId3= 0;

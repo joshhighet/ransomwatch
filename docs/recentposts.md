@@ -4,6 +4,10 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-09-11 | [`canadiansolar.com`](https://google.com/search?q=canadiansolar.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2022-09-11 | [`aralaw.cr`](https://google.com/search?q=aralaw.cr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2022-09-11 | [`Davin Industries Ltd`](https://google.com/search?q=Davin+Industries+Ltd) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
+| 2022-09-11 | [`TIB Development Bank`](https://google.com/search?q=TIB+Development+Bank) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
 | 2022-09-09 | [`marugokiso.co.jp`](https://google.com/search?q=marugokiso.co.jp) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-09-09 | [`lacalera.pe`](https://google.com/search?q=lacalera.pe) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-09-09 | [`diakonissen-riehen.ch`](https://google.com/search?q=diakonissen-riehen.ch) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -200,7 +204,3 @@ _last `200` posts_
 | 2022-08-13 | [`Fast Pace Health`](https://google.com/search?q=Fast+Pace+Health) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-08-13 | [`centuryaluminum.com`](https://google.com/search?q=centuryaluminum.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-08-13 | [`besttaxfiler.com`](https://google.com/search?q=besttaxfiler.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-08-13 | [`beckerlaw.com`](https://google.com/search?q=beckerlaw.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-08-10 | [`whitworth.edu`](https://google.com/search?q=whitworth.edu) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-08-10 | [`okcu.edu`](https://google.com/search?q=okcu.edu) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-08-10 | [`Hot news straight from Cisco`](https://google.com/search?q=Hot+news+straight+from+Cisco) | [yanluowang](https://ransomwatch.telemetry.ltd/#/profiles?id=yanluowang) |
