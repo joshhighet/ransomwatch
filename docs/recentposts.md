@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-09-12 | [`frigobandeira.com`](https://google.com/search?q=frigobandeira.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2022-09-12 | [`ch-sf.fr`](https://google.com/search?q=ch-sf.fr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-09-12 | [`ch-sf.fr (old)`](https://google.com/search?q=ch-sf.fr+%28old%29) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-09-11 | [`hamiota.com`](https://google.com/search?q=hamiota.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-09-11 | [`canadiansolar.com`](https://google.com/search?q=canadiansolar.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2022-08-13 | [`FTSUMNERK12.COM FILES PART12 - 192.168.0.244\StudentShare\GATE\Fikany YB\ PUBLISHED`](https://google.com/search?q=FTSUMNERK12.COM+FILES+PART12+-+192.168.0.244%5CStudentShare%5CGATE%5CFikany+YB%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-08-13 | [`APPLEXUS.COM FILES PART4 - 192.168.3.15\D$\COMPANIES\Applexus Technologies\ PUBLISHED`](https://google.com/search?q=APPLEXUS.COM+FILES+PART4+-+192.168.3.15%5CD%24%5CCOMPANIES%5CApplexus+Technologies%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-08-13 | [`qualitymedicalinc.com`](https://google.com/search?q=qualitymedicalinc.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-08-13 | [`pinnick.co.uk`](https://google.com/search?q=pinnick.co.uk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-08-13 | [`Fast Pace Health`](https://google.com/search?q=Fast+Pace+Health) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
