@@ -787,3 +787,14 @@ def donutleaks():
         errlog('donutleaks: ' + 'parsing fail')
     for post in posts:
         appender(post, 'donutleaks')
+        
+def sparta():
+    stdlog('parser: ' + 'sparta')
+    parser = '''
+    grep 'class="card-header d-flex justify-content-between"><span>' source/sparta-*.html | cut -d '>' -f 4 | cut -d '<' -f 1 | sed -e '/^[[:space:]]*$/d' && grep '<div class="card-header d-flex justify-content-between"><span>' source/sparta-*.html | grep -v '<h2>' | cut -d '>' -f 3 | cut -d '<' -f 1 | sed -e 's/^ *//g' -e 's/[[:space:]]*$//'
+    '''
+    posts = runshellcmd(parser)
+    if len(posts) == 1:
+        errlog('sparta: ' + 'parsing fail')
+    for post in posts:
+        appender(post, 'sparta')

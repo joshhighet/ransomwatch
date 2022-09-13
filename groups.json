@@ -3412,5 +3412,26 @@
             }
         ],
         "profile": []
+    },
+    {
+        "name": "sparta",
+        "captcha": false,
+        "parser": true,
+        "javascript_render": false,
+        "meta": null,
+        "locations": [
+            {
+                "fqdn": "zj2ex44e2b2xi43m2txk4uwi3l55aglsarre7repw7rkfwpj54j46iqd.onion",
+                "title": null,
+                "version": 3,
+                "slug": "http://zj2ex44e2b2xi43m2txk4uwi3l55aglsarre7repw7rkfwpj54j46iqd.onion/",
+                "available": false,
+                "updated": null,
+                "lastscrape": "2021-05-01 00:00:00.000000"
+            }
+        ],
+        "profile": [
+            "spartaprogroup@strong.pm"
+        ]
     }
 ]
