@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-09-13 | [` Spa`](https://google.com/search?q=+Spa) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2022-09-13 | [`Gallery Hotels`](https://google.com/search?q=Gallery+Hotels) | [sparta](https://ransomwatch.telemetry.ltd/#/profiles?id=sparta) |
 | 2022-09-13 | [`Auto88`](https://google.com/search?q=Auto88) | [sparta](https://ransomwatch.telemetry.ltd/#/profiles?id=sparta) |
 | 2022-09-13 | [`Font Packaging`](https://google.com/search?q=Font+Packaging) | [sparta](https://ransomwatch.telemetry.ltd/#/profiles?id=sparta) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-08-17 | [`Stratford University`](https://google.com/search?q=Stratford+University) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
 | 2022-08-17 | [`Accelya`](https://google.com/search?q=Accelya) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-08-17 | [`Apex Capital Corp`](https://google.com/search?q=Apex+Capital+Corp) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
-| 2022-08-16 | [`porcelanosa-usa.com`](https://google.com/search?q=porcelanosa-usa.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
