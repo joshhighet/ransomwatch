@@ -4,6 +4,18 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-09-13 | [`Gallery Hotels`](https://google.com/search?q=Gallery+Hotels) | [sparta](https://ransomwatch.telemetry.ltd/#/profiles?id=sparta) |
+| 2022-09-13 | [`Auto88`](https://google.com/search?q=Auto88) | [sparta](https://ransomwatch.telemetry.ltd/#/profiles?id=sparta) |
+| 2022-09-13 | [`Font Packaging`](https://google.com/search?q=Font+Packaging) | [sparta](https://ransomwatch.telemetry.ltd/#/profiles?id=sparta) |
+| 2022-09-13 | [`Ferrer&Ojeda`](https://google.com/search?q=Ferrer%26Ojeda) | [sparta](https://ransomwatch.telemetry.ltd/#/profiles?id=sparta) |
+| 2022-09-13 | [`Tema Litoclean Group`](https://google.com/search?q=Tema+Litoclean+Group) | [sparta](https://ransomwatch.telemetry.ltd/#/profiles?id=sparta) |
+| 2022-09-13 | [`Grupo Galilea`](https://google.com/search?q=Grupo+Galilea) | [sparta](https://ransomwatch.telemetry.ltd/#/profiles?id=sparta) |
+| 2022-09-13 | [`FundaciÃ³ Sant Francesc d'AssÃ­s `](https://google.com/search?q=Fundaci%C3%83%C2%B3+Sant+Francesc+d%27Ass%C3%83%C2%ADs+) | [sparta](https://ransomwatch.telemetry.ltd/#/profiles?id=sparta) |
+| 2022-09-13 | [`INDIBA`](https://google.com/search?q=INDIBA) | [sparta](https://ransomwatch.telemetry.ltd/#/profiles?id=sparta) |
+| 2022-09-13 | [`RIVISA`](https://google.com/search?q=RIVISA) | [sparta](https://ransomwatch.telemetry.ltd/#/profiles?id=sparta) |
+| 2022-09-13 | [`RABAT`](https://google.com/search?q=RABAT) | [sparta](https://ransomwatch.telemetry.ltd/#/profiles?id=sparta) |
+| 2022-09-13 | [`COMSA CORPORATION`](https://google.com/search?q=COMSA+CORPORATION) | [sparta](https://ransomwatch.telemetry.ltd/#/profiles?id=sparta) |
+| 2022-09-13 | [`SERCOM`](https://google.com/search?q=SERCOM) | [sparta](https://ransomwatch.telemetry.ltd/#/profiles?id=sparta) |
 | 2022-09-13 | [`groupg4.com`](https://google.com/search?q=groupg4.com) | [redalert](https://ransomwatch.telemetry.ltd/#/profiles?id=redalert) |
 | 2022-09-13 | [`bakkerheftrucks.com`](https://google.com/search?q=bakkerheftrucks.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-09-13 | [`bakkerheftrucks.local`](https://google.com/search?q=bakkerheftrucks.local) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -192,15 +204,3 @@ _last `200` posts_
 | 2022-08-17 | [`Accelya`](https://google.com/search?q=Accelya) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-08-17 | [`Apex Capital Corp`](https://google.com/search?q=Apex+Capital+Corp) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
 | 2022-08-16 | [`porcelanosa-usa.com`](https://google.com/search?q=porcelanosa-usa.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-08-16 | [`Vygon Spain`](https://google.com/search?q=Vygon+Spain) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
-| 2022-08-16 | [`tier1techs.screenconnect.com`](https://google.com/search?q=tier1techs.screenconnect.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-08-16 | [`ospreyvideo.com`](https://google.com/search?q=ospreyvideo.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-08-16 | [`altaadhod.com`](https://google.com/search?q=altaadhod.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-08-15 | [`ELEFONDATI SRL - WAS HACKED. 20 GB OF SENSITIVE DATA STOLEN`](https://google.com/search?q=ELEFONDATI+SRL+-+WAS+HACKED.+20+GB+OF+SENSITIVE+DATA+STOLEN) | [lv](https://ransomwatch.telemetry.ltd/#/profiles?id=lv) |
-| 2022-08-14 | [`TriState HVAC Equipment`](https://google.com/search?q=TriState+HVAC+Equipment) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
-| 2022-08-13 | [`STTLK - HACKED AND MORE THEN 200GB DATA LEAKED`](https://google.com/search?q=STTLK+-+HACKED+AND+MORE+THEN+200GB+DATA+LEAKED) | [lv](https://ransomwatch.telemetry.ltd/#/profiles?id=lv) |
-| 2022-08-13 | [`vsainc.com`](https://google.com/search?q=vsainc.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-08-13 | [`PRICEDEX.COM FILES PART12 - 10.0.10.1\E$\Shares\projects\ PUBLISHED`](https://google.com/search?q=PRICEDEX.COM+FILES+PART12+-+10.0.10.1%5CE%24%5CShares%5Cprojects%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-08-13 | [`NEWCOURSECC.COM FILES PART13 - 10.168.0.7\Datastore\FTP_Archive\ PUBLISHED`](https://google.com/search?q=NEWCOURSECC.COM+FILES+PART13+-+10.168.0.7%5CDatastore%5CFTP_Archive%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-08-13 | [`ORBITELECTRIC.COM FILES PART19 - 192.168.10.109\F$\Personnel\ PUBLISHED`](https://google.com/search?q=ORBITELECTRIC.COM+FILES+PART19+-+192.168.10.109%5CF%24%5CPersonnel%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-08-13 | [`FERRAN-SERVICES.COM FILES PART12 - D\Company\Accounts Payable\ PUBLISHED`](https://google.com/search?q=FERRAN-SERVICES.COM+FILES+PART12+-+D%5CCompany%5CAccounts+Payable%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
