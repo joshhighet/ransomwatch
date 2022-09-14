@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-09-14 | [`inspecshawaii.com`](https://google.com/search?q=inspecshawaii.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2022-09-14 | [`HAYAT GROUP`](https://google.com/search?q=HAYAT+GROUP) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-09-14 | [`MR. WONDERFUL`](https://google.com/search?q=MR.+WONDERFUL) | [sparta](https://ransomwatch.telemetry.ltd/#/profiles?id=sparta) |
 | 2022-09-14 | [`AUTO88`](https://google.com/search?q=AUTO88) | [sparta](https://ransomwatch.telemetry.ltd/#/profiles?id=sparta) |
 | 2022-09-14 | [`FONT PACKAGING`](https://google.com/search?q=FONT+PACKAGING) | [sparta](https://ransomwatch.telemetry.ltd/#/profiles?id=sparta) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2022-08-23 | [`Moskowitz, Mandell &amp; Salim, P.A.`](https://google.com/search?q=Moskowitz%2C+Mandell+%26amp%3B+Salim%2C+P.A.) | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
 | 2022-08-22 | [`Northern Contours Inc.`](https://google.com/search?q=Northern+Contours+Inc.) | [lorenz](https://ransomwatch.telemetry.ltd/#/profiles?id=lorenz) |
 | 2022-08-22 | [`northwestpipe.com`](https://google.com/search?q=northwestpipe.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-08-21 | [`SOUTH-STAFFS-WATER.CO.UK FILES PART1 - 10.80.74.230\ PUBLISHED`](https://google.com/search?q=SOUTH-STAFFS-WATER.CO.UK+FILES+PART1+-+10.80.74.230%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-08-21 | [`PRICEDEX.COM FILES PART13 - 10.0.10.1\E$\Shares\projects\Marketing and Business\Opticat\ P`](https://google.com/search?q=PRICEDEX.COM+FILES+PART13+-+10.0.10.1%5CE%24%5CShares%5Cprojects%5CMarketing+and+Business%5COpticat%5C+P) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
