@@ -4,6 +4,10 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-09-14 | [`MR. WONDERFUL`](https://google.com/search?q=MR.+WONDERFUL) | [sparta](https://ransomwatch.telemetry.ltd/#/profiles?id=sparta) |
+| 2022-09-14 | [`AUTO88`](https://google.com/search?q=AUTO88) | [sparta](https://ransomwatch.telemetry.ltd/#/profiles?id=sparta) |
+| 2022-09-14 | [`FONT PACKAGING`](https://google.com/search?q=FONT+PACKAGING) | [sparta](https://ransomwatch.telemetry.ltd/#/profiles?id=sparta) |
+| 2022-09-14 | [`DYNAM JAPAN HOLDINGS CO., LTD`](https://google.com/search?q=DYNAM+JAPAN+HOLDINGS+CO.%2C+LTD) | [cheers](https://ransomwatch.telemetry.ltd/#/profiles?id=cheers) |
 | 2022-09-14 | [`Tri-Supply`](https://google.com/search?q=Tri-Supply) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-09-14 | [`ville-faulquemont.fr`](https://google.com/search?q=ville-faulquemont.fr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-09-14 | [`thezincgroup.com`](https://google.com/search?q=thezincgroup.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -200,7 +204,3 @@ _last `200` posts_
 | 2022-08-22 | [`northwestpipe.com`](https://google.com/search?q=northwestpipe.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-08-21 | [`SOUTH-STAFFS-WATER.CO.UK FILES PART1 - 10.80.74.230\ PUBLISHED`](https://google.com/search?q=SOUTH-STAFFS-WATER.CO.UK+FILES+PART1+-+10.80.74.230%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-08-21 | [`PRICEDEX.COM FILES PART13 - 10.0.10.1\E$\Shares\projects\Marketing and Business\Opticat\ P`](https://google.com/search?q=PRICEDEX.COM+FILES+PART13+-+10.0.10.1%5CE%24%5CShares%5Cprojects%5CMarketing+and+Business%5COpticat%5C+P) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-08-21 | [`NEWCOURSECC.COM FILES PART14 - 10.168.0.7\Datastore\FTP_Archive\ PUBLISHED`](https://google.com/search?q=NEWCOURSECC.COM+FILES+PART14+-+10.168.0.7%5CDatastore%5CFTP_Archive%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-08-21 | [`ORBITELECTRIC.COM FILES PART20 - 192.168.10.122\C$\Users\RAMONH\Desktop\Kashmal\ PUBLISHED`](https://google.com/search?q=ORBITELECTRIC.COM+FILES+PART20+-+192.168.10.122%5CC%24%5CUsers%5CRAMONH%5CDesktop%5CKashmal%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-08-21 | [`FERRAN-SERVICES.COM FILES PART13 - D\Company\ PUBLISHED`](https://google.com/search?q=FERRAN-SERVICES.COM+FILES+PART13+-+D%5CCompany%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-08-21 | [`SPINNEYS.COM FILES PART5 - 10.20.50.10\F$\Retail_Finance\Private\SKN\COMMON\EXPENSES(EJ)\S`](https://google.com/search?q=SPINNEYS.COM+FILES+PART5+-+10.20.50.10%5CF%24%5CRetail_Finance%5CPrivate%5CSKN%5CCOMMON%5CEXPENSES%28EJ%29%5CS) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
