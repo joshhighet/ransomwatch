@@ -4,6 +4,10 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-09-14 | [`southamptoncounty.org`](https://google.com/search?q=southamptoncounty.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2022-09-14 | [`makler.com.ve`](https://google.com/search?q=makler.com.ve) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2022-09-14 | [`independence.com.co`](https://google.com/search?q=independence.com.co) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2022-09-14 | [`cnachile.cl`](https://google.com/search?q=cnachile.cl) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-09-14 | [`markherder.com`](https://google.com/search?q=markherder.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-09-14 | [`inspecshawaii.com`](https://google.com/search?q=inspecshawaii.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-09-14 | [`HAYAT GROUP`](https://google.com/search?q=HAYAT+GROUP) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -200,7 +204,3 @@ _last `200` posts_
 | 2022-08-23 | [`Engine Power`](https://google.com/search?q=Engine+Power) | [lorenz](https://ransomwatch.telemetry.ltd/#/profiles?id=lorenz) |
 | 2022-08-23 | [`Apex`](https://google.com/search?q=Apex) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
 | 2022-08-23 | [`Bombardier Recreational Products (BRP)`](https://google.com/search?q=Bombardier+Recreational+Products+%28BRP%29) | [ransomexx](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomexx) |
-| 2022-08-23 | [`Announcement. Action Lab File-tree`](https://google.com/search?q=Announcement.+Action+Lab+File-tree) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
-| 2022-08-23 | [`DESFA - Pipeline company LEAK`](https://google.com/search?q=DESFA+-+Pipeline+company+LEAK) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
-| 2022-08-23 | [`Moskowitz, Mandell &amp; Salim, P.A.`](https://google.com/search?q=Moskowitz%2C+Mandell+%26amp%3B+Salim%2C+P.A.) | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
-| 2022-08-22 | [`Northern Contours Inc.`](https://google.com/search?q=Northern+Contours+Inc.) | [lorenz](https://ransomwatch.telemetry.ltd/#/profiles?id=lorenz) |
