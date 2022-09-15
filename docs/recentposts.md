@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-09-15 | [`dss-cz.com`](https://google.com/search?q=dss-cz.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-09-15 | [`Nextlabs`](https://google.com/search?q=Nextlabs) | [0mega](https://ransomwatch.telemetry.ltd/#/profiles?id=0mega) |
 | 2022-09-15 | [`midlandplastics.com`](https://google.com/search?q=midlandplastics.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-09-15 | [`nakamuracorp.co.jp`](https://google.com/search?q=nakamuracorp.co.jp) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-08-24 | [`Bombardier Recreational Products (BRP) - BONUS CONTENT (!!!)`](https://google.com/search?q=Bombardier+Recreational+Products+%28BRP%29+-+BONUS+CONTENT+%28%21%21%21%29) | [ransomexx](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomexx) |
 | 2022-08-24 | [`Olamgroup`](https://google.com/search?q=Olamgroup) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2022-08-24 | [`GMX`](https://google.com/search?q=GMX) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
-| 2022-08-23 | [`studiobarba.com`](https://google.com/search?q=studiobarba.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
