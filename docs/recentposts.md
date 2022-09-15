@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-09-15 | [`asecna.org`](https://google.com/search?q=asecna.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2022-09-15 | [`County Suffolk and contractors`](https://google.com/search?q=County+Suffolk+and+contractors) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
+| 2022-09-15 | [`Bell Technical Solutions`](https://google.com/search?q=Bell+Technical+Solutions) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
 | 2022-09-15 | [`dss-cz.com`](https://google.com/search?q=dss-cz.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-09-15 | [`Nextlabs`](https://google.com/search?q=Nextlabs) | [0mega](https://ransomwatch.telemetry.ltd/#/profiles?id=0mega) |
 | 2022-09-15 | [`midlandplastics.com`](https://google.com/search?q=midlandplastics.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2022-08-24 | [`CMZ UK`](https://google.com/search?q=CMZ+UK) | [donutleaks](https://ransomwatch.telemetry.ltd/#/profiles?id=donutleaks) |
 | 2022-08-24 | [`PlanET Biogas Solutions`](https://google.com/search?q=PlanET+Biogas+Solutions) | [donutleaks](https://ransomwatch.telemetry.ltd/#/profiles?id=donutleaks) |
 | 2022-08-24 | [`Sheppard Robson`](https://google.com/search?q=Sheppard+Robson) | [donutleaks](https://ransomwatch.telemetry.ltd/#/profiles?id=donutleaks) |
-| 2022-08-24 | [`Bombardier Recreational Products (BRP) - BONUS CONTENT (!!!)`](https://google.com/search?q=Bombardier+Recreational+Products+%28BRP%29+-+BONUS+CONTENT+%28%21%21%21%29) | [ransomexx](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomexx) |
-| 2022-08-24 | [`Olamgroup`](https://google.com/search?q=Olamgroup) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
-| 2022-08-24 | [`GMX`](https://google.com/search?q=GMX) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
