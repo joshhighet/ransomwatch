@@ -4,6 +4,10 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-09-16 | [`scottobrothers.com`](https://google.com/search?q=scottobrothers.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2022-09-16 | [`kaffeeberlin.com`](https://google.com/search?q=kaffeeberlin.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2022-09-16 | [`equatortrustees.com`](https://google.com/search?q=equatortrustees.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2022-09-16 | [`ces-conditionneur.fr`](https://google.com/search?q=ces-conditionneur.fr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-09-16 | [`software-line.it`](https://google.com/search?q=software-line.it) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-09-15 | [`asecna.org`](https://google.com/search?q=asecna.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-09-15 | [`County Suffolk and contractors`](https://google.com/search?q=County+Suffolk+and+contractors) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -200,7 +204,3 @@ _last `200` posts_
 | 2022-08-25 | [`ANGT - HACKED. MORE THEN 700 GB SENSITIVE DATA LEAKED`](https://google.com/search?q=ANGT+-+HACKED.+MORE+THEN+700+GB+SENSITIVE+DATA+LEAKED) | [lv](https://ransomwatch.telemetry.ltd/#/profiles?id=lv) |
 | 2022-08-25 | [`growag.ch`](https://google.com/search?q=growag.ch) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-08-24 | [`Baton Rouge General`](https://google.com/search?q=Baton+Rouge+General) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
-| 2022-08-24 | [`Enso Detego`](https://google.com/search?q=Enso+Detego) | [donutleaks](https://ransomwatch.telemetry.ltd/#/profiles?id=donutleaks) |
-| 2022-08-24 | [`Sando`](https://google.com/search?q=Sando) | [donutleaks](https://ransomwatch.telemetry.ltd/#/profiles?id=donutleaks) |
-| 2022-08-24 | [`CMZ UK`](https://google.com/search?q=CMZ+UK) | [donutleaks](https://ransomwatch.telemetry.ltd/#/profiles?id=donutleaks) |
-| 2022-08-24 | [`PlanET Biogas Solutions`](https://google.com/search?q=PlanET+Biogas+Solutions) | [donutleaks](https://ransomwatch.telemetry.ltd/#/profiles?id=donutleaks) |
