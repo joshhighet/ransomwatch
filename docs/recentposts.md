@@ -4,6 +4,12 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-09-19 | [`psi.com.tw`](https://google.com/search?q=psi.com.tw) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2022-09-19 | [`okibrasil.com`](https://google.com/search?q=okibrasil.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2022-09-19 | [`mts.mektec.com`](https://google.com/search?q=mts.mektec.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2022-09-19 | [`ducanh.com`](https://google.com/search?q=ducanh.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2022-09-19 | [`CARITAS`](https://google.com/search?q=CARITAS) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
+| 2022-09-19 | [`TAP Air Leak of more than 1.5 million of customers and many other.`](https://google.com/search?q=TAP+Air+Leak+of+more+than+1.5+million+of+customers+and+many+other.) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
 | 2022-09-19 | [`franckbeun.fr`](https://google.com/search?q=franckbeun.fr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-09-19 | [`Government Brazil`](https://google.com/search?q=Government+Brazil) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2022-09-19 | [`New York Racing Association`](https://google.com/search?q=New+York+Racing+Association) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
@@ -198,9 +204,3 @@ _last `200` posts_
 | 2022-08-26 | [`sportlavit.nl`](https://google.com/search?q=sportlavit.nl) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-08-26 | [`perteet.com`](https://google.com/search?q=perteet.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-08-26 | [`microdepot.com`](https://google.com/search?q=microdepot.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-08-26 | [`lenax.com`](https://google.com/search?q=lenax.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-08-26 | [`kkcsworld.com`](https://google.com/search?q=kkcsworld.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-08-26 | [`galenica.ma`](https://google.com/search?q=galenica.ma) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-08-26 | [`draperyconceptsny.com`](https://google.com/search?q=draperyconceptsny.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-08-26 | [`cenviro.com`](https://google.com/search?q=cenviro.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-08-26 | [`americantilestone.com`](https://google.com/search?q=americantilestone.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
