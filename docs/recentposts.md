@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-09-21 | [`www.bbadmin.com`](https://google.com/search?q=www.bbadmin.com) | [redalert](https://ransomwatch.telemetry.ltd/#/profiles?id=redalert) |
+| 2022-09-21 | [`BHARBERT`](https://google.com/search?q=BHARBERT) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
+| 2022-09-21 | [`Ministerio de Economía Argentina`](https://google.com/search?q=Ministerio+de+Econom%C3%ADa+Argentina) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2022-09-21 | [`yourprivateitaly.com`](https://google.com/search?q=yourprivateitaly.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-09-21 | [`uide.edu.ec`](https://google.com/search?q=uide.edu.ec) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-09-21 | [`scrd.ca`](https://google.com/search?q=scrd.ca) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2022-08-29 | [`Advance Corporation`](https://google.com/search?q=Advance+Corporation) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2022-08-29 | [`International Custom Controls`](https://google.com/search?q=International+Custom+Controls) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2022-08-29 | [`currierryan.com`](https://google.com/search?q=currierryan.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-08-28 | [`ygboulons.com`](https://google.com/search?q=ygboulons.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-08-28 | [`uplexis.com.br`](https://google.com/search?q=uplexis.com.br) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-08-28 | [`embalajescapsa.com`](https://google.com/search?q=embalajescapsa.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
