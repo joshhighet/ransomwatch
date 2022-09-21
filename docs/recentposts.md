@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-09-21 | [`CORNERSTONE`](https://google.com/search?q=CORNERSTONE) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2022-09-20 | [`Sierra College`](https://google.com/search?q=Sierra+College) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2022-09-20 | [`Sigmund Software`](https://google.com/search?q=Sigmund+Software) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
 | 2022-09-20 | [`elementnor.no`](https://google.com/search?q=elementnor.no) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-08-26 | [`thininfra.nl`](https://google.com/search?q=thininfra.nl) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-08-26 | [`stjohnvianney.org`](https://google.com/search?q=stjohnvianney.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-08-26 | [`stevesilvaplumbing.com`](https://google.com/search?q=stevesilvaplumbing.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-08-26 | [`statravel.de`](https://google.com/search?q=statravel.de) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
