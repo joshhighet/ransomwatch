@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-09-21 | [`ifwglobal.com`](https://google.com/search?q=ifwglobal.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2022-09-21 | [`Admiral Merchants`](https://google.com/search?q=Admiral+Merchants) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2022-09-21 | [`Foreman Watson Land Title, LLC.`](https://google.com/search?q=Foreman+Watson+Land+Title%2C+LLC.) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2022-09-21 | [`CORNERSTONE`](https://google.com/search?q=CORNERSTONE) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2022-09-20 | [`Sierra College`](https://google.com/search?q=Sierra+College) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2022-09-20 | [`Sigmund Software`](https://google.com/search?q=Sigmund+Software) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2022-08-28 | [`Torin Drive`](https://google.com/search?q=Torin+Drive) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
 | 2022-08-28 | [`Grande Stevens`](https://google.com/search?q=Grande+Stevens) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
 | 2022-08-28 | [`goodwillnm.org`](https://google.com/search?q=goodwillnm.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-08-26 | [`thininfra.nl`](https://google.com/search?q=thininfra.nl) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-08-26 | [`stjohnvianney.org`](https://google.com/search?q=stjohnvianney.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-08-26 | [`stevesilvaplumbing.com`](https://google.com/search?q=stevesilvaplumbing.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
