@@ -2,17 +2,17 @@
 ## summary
 _september 22nd, 2022_
 
-currently tracking `122` groups across `218` relays & mirrors - _`76` currently online_
+currently tracking `122` groups across `218` relays & mirrors - _`77` currently online_
 
-⏲ there have been `10` posts within the `last 24 hours`
+⏲ there have been `11` posts within the `last 24 hours`
 
-🦈 there have been `174` posts within the `month of september`
+🦈 there have been `175` posts within the `month of september`
 
-🪐 there have been `671` posts within the `last 90 days`
+🪐 there have been `672` posts within the `last 90 days`
 
-🏚 there have been `2492` posts within the `year of 2022`
+🏚 there have been `2493` posts within the `year of 2022`
 
-🦕 there have been `4778` posts `since the dawn of ransomwatch`
+🦕 there have been `4779` posts `since the dawn of ransomwatch`
 
 there are `58` custom parsers indexing posts
 

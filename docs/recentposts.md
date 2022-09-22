@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-09-22 | [`congerbuilt.com`](https://google.com/search?q=congerbuilt.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-09-22 | [`GRUPO COPISA`](https://google.com/search?q=GRUPO+COPISA) | [sparta](https://ransomwatch.telemetry.ltd/#/profiles?id=sparta) |
 | 2022-09-22 | [`webnordeste.com.br`](https://google.com/search?q=webnordeste.com.br) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-09-22 | [`thorguard.com`](https://google.com/search?q=thorguard.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-08-29 | [`Josef Saller Services e.K. - Saller Bau`](https://google.com/search?q=Josef+Saller+Services+e.K.+-+Saller+Bau) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-08-29 | [`Spalding Grammar School`](https://google.com/search?q=Spalding+Grammar+School) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2022-08-29 | [` Rudman`](https://google.com/search?q=+Rudman) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2022-08-29 | [`The Preston Partnership`](https://google.com/search?q=The+Preston+Partnership) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
