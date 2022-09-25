@@ -356,7 +356,23 @@
 
 	
 
-	<style>
+	<script>
+window.onload = function () {
+    let portal = document.getElementById("ghost-portal-root");
+    const interval = setInterval(() => {
+        let frame = portal.querySelector('[title="portal-popup"]');
+        if (frame !== null) {
+            const styleElement = document.createElement("style");
+            styleElement.innerHTML = `.gh-portal-powered { display: none; }`;
+            frame.contentDocument.head.appendChild(styleElement);
+        } else {
+            frame = null
+        }
+    }, 300)
+}
+</script>
+
+<style>
 .search-wrapper {
 visibility:hidden;
 }
