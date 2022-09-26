@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-09-26 | [`Cremo`](https://google.com/search?q=Cremo) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2022-09-26 | [`STADLER`](https://google.com/search?q=STADLER) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2022-09-26 | [`yehu.org`](https://google.com/search?q=yehu.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-09-26 | [`TAKAO-UK`](https://google.com/search?q=TAKAO-UK) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
 | 2022-09-26 | [`GFG`](https://google.com/search?q=GFG) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2022-09-01 | [`hspatent.com`](https://google.com/search?q=hspatent.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-08-31 | [`USA Insurance company - Smith brothers File tree and some proofs`](https://google.com/search?q=USA+Insurance+company+-+Smith+brothers+File+tree+and+some+proofs) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
 | 2022-08-31 | [`Huge drama for Tap Air Portugal`](https://google.com/search?q=Huge+drama+for+Tap+Air+Portugal) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
-| 2022-08-31 | [`NCG Medical`](https://google.com/search?q=NCG+Medical) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
-| 2022-08-31 | [`MEIJI.COM.SG`](https://google.com/search?q=MEIJI.COM.SG) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
