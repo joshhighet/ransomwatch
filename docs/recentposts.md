@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-09-27 | [`hdhopwood.com`](https://google.com/search?q=hdhopwood.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2022-09-27 | [`Ministerio de Relaciones Exteriores`](https://google.com/search?q=Ministerio+de+Relaciones+Exteriores) | [onyx](https://ransomwatch.telemetry.ltd/#/profiles?id=onyx) |
 | 2022-09-27 | [`vitalityhp.net`](https://google.com/search?q=vitalityhp.net) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-09-27 | [`ginspectionservices`](https://google.com/search?q=ginspectionservices) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
 | 2022-09-27 | [`AES Clean Technology`](https://google.com/search?q=AES+Clean+Technology) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2022-09-01 | [`An Japan Game Halls Operator`](https://google.com/search?q=An+Japan+Game+Halls+Operator) | [cheers](https://ransomwatch.telemetry.ltd/#/profiles?id=cheers) |
 | 2022-09-01 | [`Moscone Center`](https://google.com/search?q=Moscone+Center) | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
 | 2022-09-01 | [`Monarchnc`](https://google.com/search?q=Monarchnc) | [donutleaks](https://ransomwatch.telemetry.ltd/#/profiles?id=donutleaks) |
-| 2022-09-01 | [`Alan Smith`](https://google.com/search?q=Alan+Smith) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
-| 2022-09-01 | [`Midea Group`](https://google.com/search?q=Midea+Group) | [revil](https://ransomwatch.telemetry.ltd/#/profiles?id=revil) |
