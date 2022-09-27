@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-09-27 | [`vitalityhp.net`](https://google.com/search?q=vitalityhp.net) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2022-09-27 | [`ginspectionservices`](https://google.com/search?q=ginspectionservices) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
 | 2022-09-27 | [`AES Clean Technology`](https://google.com/search?q=AES+Clean+Technology) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2022-09-27 | [`Etna GmbH`](https://google.com/search?q=Etna+GmbH) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2022-09-27 | [`Hendry Regional Medical Center`](https://google.com/search?q=Hendry+Regional+Medical+Center) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2022-09-01 | [`Monarchnc`](https://google.com/search?q=Monarchnc) | [donutleaks](https://ransomwatch.telemetry.ltd/#/profiles?id=donutleaks) |
 | 2022-09-01 | [`Alan Smith`](https://google.com/search?q=Alan+Smith) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
 | 2022-09-01 | [`Midea Group`](https://google.com/search?q=Midea+Group) | [revil](https://ransomwatch.telemetry.ltd/#/profiles?id=revil) |
-| 2022-09-01 | [`solidatech.com`](https://google.com/search?q=solidatech.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-09-01 | [`precision.com`](https://google.com/search?q=precision.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
