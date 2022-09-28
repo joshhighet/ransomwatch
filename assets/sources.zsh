@@ -109,14 +109,14 @@ echo ${gistteix} | cut -d ',' -f 2 | sed -E -e 's_.*://([^/@]*@)?([^/:]+).*_\2_'
 gistteix_count=`cat assets/tmp/sources.gistteix | wc -w | awk '{$1=$1};1'`
 echo "${gistteix_count} | gist:teixeira0xfffff:ransomwarefeed.csv"
 
-lpn=`curl -s --socks5-hostname ${SOCKS5_PROXY} lpnxgtkni46pngdg4pml47hvxg2xqdcrd7z2f5oysyuialodho6g34yd.onion -H 'User-Agent: '${random_useragent}''`
-if [ $? -ne 0 ]; then
-    echo "failed to fetch from onion:lpnxgtkni"
-    exit 1
-fi
-echo ${lpn} | sed -E -e 's_.*://([^/@]*@)?([^/:]+).*_\2_' | grep onion | cut -d '"' -f 1 > assets/tmp/sources.lpn
-lpn_count=`cat assets/tmp/sources.lpn | wc -w | awk '{$1=$1};1'`
-echo "${lpn_count} | onion:lpnxgtkni"
+#lpn=`curl -s --socks5-hostname ${SOCKS5_PROXY} lpnxgtkni46pngdg4pml47hvxg2xqdcrd7z2f5oysyuialodho6g34yd.onion -H 'User-Agent: '${random_useragent}''`
+#if [ $? -ne 0 ]; then
+#    echo "failed to fetch from onion:lpnxgtkni"
+#    exit 1
+#fi
+#echo ${lpn} | sed -E -e 's_.*://([^/@]*@)?([^/:]+).*_\2_' | grep onion | cut -d '"' -f 1 > assets/tmp/sources.lpn
+#lpn_count=`cat assets/tmp/sources.lpn | wc -w | awk '{$1=$1};1'`
+#echo "${lpn_count} | onion:lpnxgtkni"
 
 #inh=`curl -s --socks5-hostname ${SOCKS5_PROXY} inhx4x4y66guy6ljnhq3ijbbgroha5sejcyo2uejmzv6vd3ydwzc6fid.onion -H 'User-Agent: '${random_useragent}''`
 #if [ $? -ne 0 ]; then
