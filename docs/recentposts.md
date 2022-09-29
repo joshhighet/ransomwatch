@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-09-29 | [`Stages Pediatric Care`](https://google.com/search?q=Stages+Pediatric+Care) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2022-09-29 | [`Associated Bag`](https://google.com/search?q=Associated+Bag) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2022-09-29 | [`samyang.com`](https://google.com/search?q=samyang.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-09-29 | [`ID-ware`](https://google.com/search?q=ID-ware) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-09-04 | [`floresfunza.com`](https://google.com/search?q=floresfunza.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-09-03 | [`Baer's`](https://google.com/search?q=Baer%27s) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2022-09-03 | [`Infinitely Virtual`](https://google.com/search?q=Infinitely+Virtual) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2022-09-03 | [`Fundo Nacional de Desenvolvimento da Educação`](https://google.com/search?q=Fundo+Nacional+de+Desenvolvimento+da+Educa%C3%A7%C3%A3o) | [ransomexx](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomexx) |
