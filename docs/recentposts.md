@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-09-29 | [`ID-ware`](https://google.com/search?q=ID-ware) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
+| 2022-09-29 | [`NJVC`](https://google.com/search?q=NJVC) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-09-28 | [`Health Care Solutions Group`](https://google.com/search?q=Health+Care+Solutions+Group) | [donutleaks](https://ransomwatch.telemetry.ltd/#/profiles?id=donutleaks) |
 | 2022-09-28 | [`Evo exhibits`](https://google.com/search?q=Evo+exhibits) | [donutleaks](https://ransomwatch.telemetry.ltd/#/profiles?id=donutleaks) |
 | 2022-09-27 | [`Southwell, Inc.`](https://google.com/search?q=Southwell%2C+Inc.) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2022-09-03 | [`Fundo Nacional de Desenvolvimento da Educação`](https://google.com/search?q=Fundo+Nacional+de+Desenvolvimento+da+Educa%C3%A7%C3%A3o) | [ransomexx](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomexx) |
 | 2022-09-02 | [`TAP Air - First Facts`](https://google.com/search?q=TAP+Air+-+First+Facts) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
 | 2022-09-02 | [`peakinternational.com`](https://google.com/search?q=peakinternational.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-09-02 | [`Eurocell`](https://google.com/search?q=Eurocell) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
-| 2022-09-02 | [`Instituto Agrario Dominicano`](https://google.com/search?q=Instituto+Agrario+Dominicano) | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
