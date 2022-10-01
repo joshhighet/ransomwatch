@@ -6,12 +6,12 @@
     <link rel="shortcut icon" href="favicon.ico" type="image/x-icon"/>
     <title>BB Auction</title>
     <link href="/dist/font-awesome.min.css" rel="stylesheet">
-    <link href="/dist/css/bootstrap.css?v=1664642241" rel="stylesheet">
-    <link href="/blog.css?v=1664642241" rel="stylesheet">
+    <link href="/dist/css/bootstrap.css?v=1664649818" rel="stylesheet">
+    <link href="/blog.css?v=1664649818" rel="stylesheet">
     <script src="/assets/js/jquery-2.1.3.min.js"></script>
     <script src="/assets/js/vendor/popper.min.js"></script>
     <script src="/dist/js/bootstrap.min.js"></script>
-    <script src="/script.js?v=1664642241"></script>
+    <script src="/script.js?v=1664649818"></script>
     <style>
 
     </style>
@@ -144,6 +144,358 @@
 
         
             <script>
+                var proof_img_block12 = '<img src="Array" alt="" class="proof">';
+
+                function ShowProof12() {
+                    if (showed12 === 0) {
+                        showed12 = 1;
+                        $("#target_12 .proof_block").html(proof_img_block12).slideDown(400);
+                    } else {
+                        showed12 = 0;
+                        $("#target_12 .proof_block").html(' ').slideUp(400);
+                    }
+                }
+
+                function ShowDButtons12() {
+                    if (showed_d_buttons12 === 0) {
+                        showed_d_buttons12 = 1;
+                        $("#target_12 .d_buttons").slideDown(400);
+                    } else {
+                        showed_d_buttons12 = 0;
+                        $("#target_12 .d_buttons").slideUp(400);
+                    }
+                }
+
+                var showed12 = 0;
+                var showed_d_buttons12 = 0;
+                var HAPPYSEC12 = -34335818;
+                var t_sec12 = HAPPYSEC12;
+                var time12;
+                var intervalId12= 0;
+
+                $(document).ready(function () {
+                    $("#target_12 .d_buttons a.btn3").addClass("red_button");
+                    intervalId12 = setInterval(function () {
+                        timerDecrement12();
+                    }, 1000);
+                });
+
+                function timerDecrement12() {
+                    time12 = $('#target_12 span.timer');
+
+                    if (t_sec12 < 1) {
+                        t_sec12 = 0;
+                        newTime = t_sec12 ;
+                    } else {
+                        newTime = t_sec12 - 1;
+                    }
+
+                    t_sec12 = newTime;
+
+                    var t_min = t_sec12 / 60;
+                    var t_hour = t_min / 60;
+                    var t_day =
+                        '<b>' + Math.floor(t_hour / 24) + '</b>d ' +
+                        '<b>' + Math.floor(t_hour % 24) + '</b>h ' +
+                        '<b>' + Math.floor(t_min % 60) + '</b>m ' +
+                        '<b>' + Math.floor(t_sec12 % 60) + '</b>s ';
+
+                    time12.html(t_day);
+
+                    if (newTime === 0 && HAPPYSEC12 > 0 || newTime < 1) {
+                        time12.html('');
+                        $("#target_12 .lock").attr("src", "assets/img/lockopen.png");
+                        $("#target_12 .clock").attr("src", "assets/img/clockred.png").addClass("clockred");
+                        $("#target_12 .btn2").addClass("redbg");
+                        $("#target_12 .arrow-8").addClass("r8");
+                        $("#target_12 .perc").html("100%");
+                        clearInterval(intervalId12);
+                        //GetDownloadLink(//, $("#target_// .by_button"));
+                    }
+                }
+
+            </script>
+
+            <div class="col-md-12 col-sm-12 bgt1 " id="target_12" style="display: none">
+                <table class="table table-bordered table-content ">
+                    <tr style=";" class="content-fone">
+                        <td class="txt td-1">
+                            <div style="border-bottom: 1px solid silver; border-left: 1px solid silver; border-right: 1px solid silver; margin-top: 20px; width: 40%; margin-left: auto; margin-right: auto; opacity: 0.1;"></div>
+                            <h1 class="h_font">Almoayed ICT</h1>
+
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <input type="text" class="inp-copy copy_input_12" value="">
+                            <p class="lead-text5">Almoayed ICT is an Information Technology (IT) and Telecommunications (Telecom) solution provider, headquartered in the Kingdom of Bahrain. We are committed towards providing the highest quality of services and solutions to our clients and have Sales & Support offices throughout the Middle East and Africa. We are strengthening our existing core competencies as well as investing in the development of new capabilities to meet new requirements. We are investing heavily in our employees, internal processes and business systems so that we can be better prepared to serve our customers needs.Almoayed Group was established in 1982 by Mr. Nabeel Almoayed with the following vision in mind:To become a truly global IT and Telecommunications Solutions Provider - committed to best value services and solutions. This vision has come to be the sole objective of the Group, with associate of the Group working towards the goal to provide better products, efficient solutions flawless support to their respective customers                            </p>
+
+
+                            <div class="container1">
+                                <div class="row">
+                                    <div class="col-xs-12 col-md-4"><a data-title="URL" class=" globe glob fa fa-globe"  href="http://almoayedgroup.com/"  target="_blank"></a></div>
+                                    <div style="text-align: center" class="col-xs-12 col-md-4"><i data-chat="61141FCA047691D0E47CFD84717B59D3BEDF822442B5E907BE147FD6B8A11B723A48DF7FCA47"  onclick="copy12('61141FCA047691D0E47CFD84717B59D3BEDF822442B5E907BE147FD6B8A11B723A48DF7FCA47',12,'tox-chat')" data-title="TOX support" class="btc-copy comm fa fa-commenting"></i><span class="copied"></span></div>
+                                    <div  class="col-xs-12 col-md-4"><i style="float: right" class="mon money fa fa-money" data-title="DATA"  onclick="$('.desc_12').modal('show') "></i></div>
+                                </div>
+                            </div>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+            <script>
+                function copy12(text,target_id,block){
+                    selector = ".copy_input_12";
+                    $(selector).val(text);
+                    $(selector).focus();
+                    $(selector).select();
+                    document.execCommand("copy");
+                    old_text = "";
+                    copied_text = "Copied!";
+                    $("#target_"+target_id+" ."+block+" .copied").html(copied_text);
+                    setTimeout(function () {
+                        $("#target_"+target_id+" ."+block+" .copied").html(old_text);
+                    },1000)
+                }
+            </script>
+            <div class="modal desc_12" tabindex="-1" id="target_12">
+                <div class="modal-dialog  ">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <div class="modal-title">Almoayed ICT Proofs Block</div>
+                        </div>
+                        <div class="modal-body">
+                            <div class="col-md-12 px-0">
+                                <div class="proof_block text-center"></div>
+                                <div>
+                                    <div class="blocks"><div class="gallery" >
+                                            <a  class="photo proof_images proof_images_12"> <div class="gallery">
+                                            <a rel="gallery" class="photo gost"><img class="img-l" src="proofs/12/proof1.png"></a>
+                                        </div>  <div class="gallery">
+                                            <a rel="gallery" class="photo gost"><img class="img-l" src="proofs/12/proof2.png"></a>
+                                        </div>  <div class="gallery">
+                                            <a rel="gallery" class="photo gost"><img class="img-l" src="proofs/12/proof3.png"></a>
+                                        </div>  <div class="gallery">
+                                            <a rel="gallery" class="photo gost"><img class="img-l" src="proofs/12/proof4.png"></a>
+                                        </div> </a>
+                                        </div></div>
+                                    <div class="container2">
+                                        <input type="text" class="inp-copy copy_input_12" value="">
+                                        <div class="info-text">Company documents, deletion/purchase</div>
+                                        <div class="linear2"></div>
+                                        <div class="tox-text">If you are interested to purchase the data or requesting to remove it, Please connect us through our Email/TOX.</div>
+                                            <div style="text-align: center; margin-top: 96px;
+position: absolute; left: 130px; " class="col-xs-12 col-md-4"><i data-chat="61141FCA047691D0E47CFD84717B59D3BEDF822442B5E907BE147FD6B8A11B723A48DF7FCA47"  onclick="copy12('61141FCA047691D0E47CFD84717B59D3BEDF822442B5E907BE147FD6B8A11B723A48DF7FCA47',12,'tox-chat')" data-title="Copy TOX support" class="btc-copy comms fa fa-commenting"></i><span class="copied"></span></div>
+                                            <div style="text-align: center; ;
+position: absolute;" class="col-xs-12 col-md-4"><i data-chat="BlackByteSupp0rt@onionmail.org"  onclick="copy12('BlackByteSupp0rt@onionmail.org',12,'copysupport')" data-title="Copy E-MAIL support" class="support-mail-copy mail-support fa fa-envelope"></i><span class="copied"></span></div>
+                                            <div class="row ends">
+                                            <div class="col-sm-4 ">
+                                                <a class=""><button class="custom-btn btn-12"><span>DELETE DATA</span><span>250000$</span></button></a>
+                                            </div>
+                                            <div class="col-sm-4 ">
+                                                <a href="https://transfer.sh/4dW6jw/Archive2.zip" target="_blank"><button class="custom-btn btn-12"><span class="proofdata">DOWNLOAD PROOF DATA</span><span>DATA</span></button></a>
+                                            </div>
+                                            <div class="col-sm-4 ">
+                                                <a id="myBtn1" 12><button class="custom-btn btn-12"><span>BUY DATA</span><span>200000$</span></button></a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div id="myModal1" class="modal1" style="background-color: rgba(0, 0, 0, 0.84)" 12>
+                    <div class="modal1-content">
+                        <div class="modal1-header">
+                            <span class="close">&times;</span>
+                            <h2>Information</h2>
+                            <div class="linear2"></div>
+                        </div>
+                        <div class="modal1-body">
+                            <div></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            
+            <script>
+                var proof_img_block11 = '<img src="Array" alt="" class="proof">';
+
+                function ShowProof11() {
+                    if (showed11 === 0) {
+                        showed11 = 1;
+                        $("#target_11 .proof_block").html(proof_img_block11).slideDown(400);
+                    } else {
+                        showed11 = 0;
+                        $("#target_11 .proof_block").html(' ').slideUp(400);
+                    }
+                }
+
+                function ShowDButtons11() {
+                    if (showed_d_buttons11 === 0) {
+                        showed_d_buttons11 = 1;
+                        $("#target_11 .d_buttons").slideDown(400);
+                    } else {
+                        showed_d_buttons11 = 0;
+                        $("#target_11 .d_buttons").slideUp(400);
+                    }
+                }
+
+                var showed11 = 0;
+                var showed_d_buttons11 = 0;
+                var HAPPYSEC11 = -34335818;
+                var t_sec11 = HAPPYSEC11;
+                var time11;
+                var intervalId11= 0;
+
+                $(document).ready(function () {
+                    $("#target_11 .d_buttons a.btn3").addClass("red_button");
+                    intervalId11 = setInterval(function () {
+                        timerDecrement11();
+                    }, 1000);
+                });
+
+                function timerDecrement11() {
+                    time11 = $('#target_11 span.timer');
+
+                    if (t_sec11 < 1) {
+                        t_sec11 = 0;
+                        newTime = t_sec11 ;
+                    } else {
+                        newTime = t_sec11 - 1;
+                    }
+
+                    t_sec11 = newTime;
+
+                    var t_min = t_sec11 / 60;
+                    var t_hour = t_min / 60;
+                    var t_day =
+                        '<b>' + Math.floor(t_hour / 24) + '</b>d ' +
+                        '<b>' + Math.floor(t_hour % 24) + '</b>h ' +
+                        '<b>' + Math.floor(t_min % 60) + '</b>m ' +
+                        '<b>' + Math.floor(t_sec11 % 60) + '</b>s ';
+
+                    time11.html(t_day);
+
+                    if (newTime === 0 && HAPPYSEC11 > 0 || newTime < 1) {
+                        time11.html('');
+                        $("#target_11 .lock").attr("src", "assets/img/lockopen.png");
+                        $("#target_11 .clock").attr("src", "assets/img/clockred.png").addClass("clockred");
+                        $("#target_11 .btn2").addClass("redbg");
+                        $("#target_11 .arrow-8").addClass("r8");
+                        $("#target_11 .perc").html("100%");
+                        clearInterval(intervalId11);
+                        //GetDownloadLink(//, $("#target_// .by_button"));
+                    }
+                }
+
+            </script>
+
+            <div class="col-md-12 col-sm-12 bgt1 " id="target_11" style="display: none">
+                <table class="table table-bordered table-content ">
+                    <tr style=";" class="content-fone">
+                        <td class="txt td-1">
+                            <div style="border-bottom: 1px solid silver; border-left: 1px solid silver; border-right: 1px solid silver; margin-top: 20px; width: 40%; margin-left: auto; margin-right: auto; opacity: 0.1;"></div>
+                            <h1 class="h_font">Swiss American</h1>
+
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <input type="text" class="inp-copy copy_input_11" value="">
+                            <p class="lead-text5">Cheese engages all the senses. We believe that an amazing specialty food deserves an equally compelling label. Swiss American educates the public on the unique conditions that make the world’s best cheeses, starting with in-store packaging, informative displays, and engaging promotions. From private label to control brands, our artists bring their passion for cheese to everything we create; inviting hungry people everywhere to join us in the world of specialty cheeses.                            </p>
+
+
+                            <div class="container1">
+                                <div class="row">
+                                    <div class="col-xs-12 col-md-4"><a data-title="URL" class=" globe glob fa fa-globe"  href="https://swissam.net/"  target="_blank"></a></div>
+                                    <div style="text-align: center" class="col-xs-12 col-md-4"><i data-chat="61141FCA047691D0E47CFD84717B59D3BEDF822442B5E907BE147FD6B8A11B723A48DF7FCA47"  onclick="copy11('61141FCA047691D0E47CFD84717B59D3BEDF822442B5E907BE147FD6B8A11B723A48DF7FCA47',11,'tox-chat')" data-title="TOX support" class="btc-copy comm fa fa-commenting"></i><span class="copied"></span></div>
+                                    <div  class="col-xs-12 col-md-4"><i style="float: right" class="mon money fa fa-money" data-title="DATA"  onclick="$('.desc_11').modal('show') "></i></div>
+                                </div>
+                            </div>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+            <script>
+                function copy11(text,target_id,block){
+                    selector = ".copy_input_11";
+                    $(selector).val(text);
+                    $(selector).focus();
+                    $(selector).select();
+                    document.execCommand("copy");
+                    old_text = "";
+                    copied_text = "Copied!";
+                    $("#target_"+target_id+" ."+block+" .copied").html(copied_text);
+                    setTimeout(function () {
+                        $("#target_"+target_id+" ."+block+" .copied").html(old_text);
+                    },1000)
+                }
+            </script>
+            <div class="modal desc_11" tabindex="-1" id="target_11">
+                <div class="modal-dialog  ">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <div class="modal-title">Swiss American Proofs Block</div>
+                        </div>
+                        <div class="modal-body">
+                            <div class="col-md-12 px-0">
+                                <div class="proof_block text-center"></div>
+                                <div>
+                                    <div class="blocks"><div class="gallery" >
+                                            <a  class="photo proof_images proof_images_11"> <div class="gallery">
+                                            <a rel="gallery" class="photo gost"><img class="img-l" src="proofs/11/proof1.png"></a>
+                                        </div>  <div class="gallery">
+                                            <a rel="gallery" class="photo gost"><img class="img-l" src="proofs/11/proof2.png"></a>
+                                        </div>  <div class="gallery">
+                                            <a rel="gallery" class="photo gost"><img class="img-l" src="proofs/11/proof3.png"></a>
+                                        </div>  <div class="gallery">
+                                            <a rel="gallery" class="photo gost"><img class="img-l" src="proofs/11/proof4.png"></a>
+                                        </div> </a>
+                                        </div></div>
+                                    <div class="container2">
+                                        <input type="text" class="inp-copy copy_input_11" value="">
+                                        <div class="info-text">Company documents, deletion/purchase</div>
+                                        <div class="linear2"></div>
+                                        <div class="tox-text">If you are interested to purchase the data or requesting to remove it, Please connect us through our Email/TOX.</div>
+                                            <div style="text-align: center; margin-top: 96px;
+position: absolute; left: 130px; " class="col-xs-12 col-md-4"><i data-chat="61141FCA047691D0E47CFD84717B59D3BEDF822442B5E907BE147FD6B8A11B723A48DF7FCA47"  onclick="copy11('61141FCA047691D0E47CFD84717B59D3BEDF822442B5E907BE147FD6B8A11B723A48DF7FCA47',11,'tox-chat')" data-title="Copy TOX support" class="btc-copy comms fa fa-commenting"></i><span class="copied"></span></div>
+                                            <div style="text-align: center; ;
+position: absolute;" class="col-xs-12 col-md-4"><i data-chat="BlackByteSupp0rt@onionmail.org"  onclick="copy11('BlackByteSupp0rt@onionmail.org',11,'copysupport')" data-title="Copy E-MAIL support" class="support-mail-copy mail-support fa fa-envelope"></i><span class="copied"></span></div>
+                                            <div class="row ends">
+                                            <div class="col-sm-4 ">
+                                                <a class=""><button class="custom-btn btn-12"><span>DELETE DATA</span><span>350000$</span></button></a>
+                                            </div>
+                                            <div class="col-sm-4 ">
+                                                <a href="https://anonfiles.com/acK4C9A6y0/Budgets_zip" target="_blank"><button class="custom-btn btn-12"><span class="proofdata">DOWNLOAD PROOF DATA</span><span>DATA</span></button></a>
+                                            </div>
+                                            <div class="col-sm-4 ">
+                                                <a id="myBtn1" 11><button class="custom-btn btn-12"><span>BUY DATA</span><span>300000$</span></button></a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div id="myModal1" class="modal1" style="background-color: rgba(0, 0, 0, 0.84)" 11>
+                    <div class="modal1-content">
+                        <div class="modal1-header">
+                            <span class="close">&times;</span>
+                            <h2>Information</h2>
+                            <div class="linear2"></div>
+                        </div>
+                        <div class="modal1-body">
+                            <div></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            
+            <script>
                 var proof_img_block10 = '<img src="Array" alt="" class="proof">';
 
                 function ShowProof10() {
@@ -168,7 +520,7 @@
 
                 var showed10 = 0;
                 var showed_d_buttons10 = 0;
-                var HAPPYSEC10 = -34328241;
+                var HAPPYSEC10 = -34335818;
                 var t_sec10 = HAPPYSEC10;
                 var time10;
                 var intervalId10= 0;
@@ -351,7 +703,7 @@ position: absolute;" class="col-xs-12 col-md-4"><i data-chat="BlackByteSupp0rt@o
 
                 var showed9 = 0;
                 var showed_d_buttons9 = 0;
-                var HAPPYSEC9 = -34328241;
+                var HAPPYSEC9 = -34335818;
                 var t_sec9 = HAPPYSEC9;
                 var time9;
                 var intervalId9= 0;
@@ -527,7 +879,7 @@ position: absolute;" class="col-xs-12 col-md-4"><i data-chat="BlackByteSupp0rt@o
 
                 var showed8 = 0;
                 var showed_d_buttons8 = 0;
-                var HAPPYSEC8 = -34328241;
+                var HAPPYSEC8 = -34335818;
                 var t_sec8 = HAPPYSEC8;
                 var time8;
                 var intervalId8= 0;
@@ -706,7 +1058,7 @@ position: absolute;" class="col-xs-12 col-md-4"><i data-chat="BlackByteSupp0rt@o
 
                 var showed7 = 0;
                 var showed_d_buttons7 = 0;
-                var HAPPYSEC7 = -34328241;
+                var HAPPYSEC7 = -34335818;
                 var t_sec7 = HAPPYSEC7;
                 var time7;
                 var intervalId7= 0;
@@ -885,7 +1237,7 @@ position: absolute;" class="col-xs-12 col-md-4"><i data-chat="BlackByteSupp0rt@o
 
                 var showed6 = 0;
                 var showed_d_buttons6 = 0;
-                var HAPPYSEC6 = -34328241;
+                var HAPPYSEC6 = -34335818;
                 var t_sec6 = HAPPYSEC6;
                 var time6;
                 var intervalId6= 0;
@@ -1066,7 +1418,7 @@ position: absolute;" class="col-xs-12 col-md-4"><i data-chat="BlackByteSupp0rt@o
 
                 var showed5 = 0;
                 var showed_d_buttons5 = 0;
-                var HAPPYSEC5 = -34328241;
+                var HAPPYSEC5 = -34335818;
                 var t_sec5 = HAPPYSEC5;
                 var time5;
                 var intervalId5= 0;
@@ -1247,7 +1599,7 @@ position: absolute;" class="col-xs-12 col-md-4"><i data-chat="BlackByteSupp0rt@o
 
                 var showed4 = 0;
                 var showed_d_buttons4 = 0;
-                var HAPPYSEC4 = -34328241;
+                var HAPPYSEC4 = -34335818;
                 var t_sec4 = HAPPYSEC4;
                 var time4;
                 var intervalId4= 0;
@@ -1426,7 +1778,7 @@ position: absolute;" class="col-xs-12 col-md-4"><i data-chat="BlackByteSupp0rt@o
 
                 var showed3 = 0;
                 var showed_d_buttons3 = 0;
-                var HAPPYSEC3 = -34328241;
+                var HAPPYSEC3 = -34335818;
                 var t_sec3 = HAPPYSEC3;
                 var time3;
                 var intervalId3= 0;
