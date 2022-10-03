@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-10-03 | [`AudioQuest Data Leaked`](https://google.com/search?q=AudioQuest+Data+Leaked) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
+| 2022-10-03 | [`Malayan Flour Mills Bhd. Data Leak`](https://google.com/search?q=Malayan+Flour+Mills+Bhd.+Data+Leak) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
 | 2022-10-02 | [`PENDULUM ASSOCIATES HACKED AND MORE THEN 2 TB SENSITIVE DATA LEAKED`](https://google.com/search?q=PENDULUM+ASSOCIATES+HACKED+AND+MORE+THEN+2+TB+SENSITIVE+DATA+LEAKED) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-10-02 | [`ASSOCIATED RETAILERS LIMITED HACKED MORE THEN 500G SENSITIVE DATA LEAKED`](https://google.com/search?q=ASSOCIATED+RETAILERS+LIMITED+HACKED+MORE+THEN+500G+SENSITIVE+DATA+LEAKED) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-10-02 | [`NJVC [ post has been updated - 2 Oct.]`](https://google.com/search?q=NJVC+%5B+post+has+been+updated+-+2+Oct.%5D) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2022-09-07 | [`DDoS instead of the Discuss - Nice try TAP Air`](https://google.com/search?q=DDoS+instead+of+the+Discuss+-+Nice+try+TAP+Air) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
 | 2022-09-06 | [`California-Oregon Telecommunications Company`](https://google.com/search?q=California-Oregon+Telecommunications+Company) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
 | 2022-09-06 | [`lafondasantafe.com`](https://google.com/search?q=lafondasantafe.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-09-06 | [`gavresorts.com.br`](https://google.com/search?q=gavresorts.com.br) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-09-05 | [`sbr-zwiesel.de`](https://google.com/search?q=sbr-zwiesel.de) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
