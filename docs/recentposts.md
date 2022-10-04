@@ -4,6 +4,20 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-10-04 | [`Veritas Solicitors`](https://google.com/search?q=Veritas+Solicitors) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2022-10-04 | [` Meisenkothen`](https://google.com/search?q=+Meisenkothen) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2022-10-04 | [`Dorsey metrology`](https://google.com/search?q=Dorsey+metrology) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2022-10-04 | [`BMW of Sherman Oaks`](https://google.com/search?q=BMW+of+Sherman+Oaks) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2022-10-04 | [`McGann Facial Design`](https://google.com/search?q=McGann+Facial+Design) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2022-10-04 | [`Mayfield School`](https://google.com/search?q=Mayfield+School) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2022-10-04 | [`Peter Duffy Ltd`](https://google.com/search?q=Peter+Duffy+Ltd) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2022-10-04 | [`Sunflower Farms Distributors, Inc`](https://google.com/search?q=Sunflower+Farms+Distributors%2C+Inc) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2022-10-04 | [`Aarti Drugs Ltd`](https://google.com/search?q=Aarti+Drugs+Ltd) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2022-10-04 | [`Berg Kaprow Lewis`](https://google.com/search?q=Berg+Kaprow+Lewis) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2022-10-04 | [` Company, LLC`](https://google.com/search?q=+Company%2C+LLC) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2022-10-04 | [`derach`](https://google.com/search?q=derach) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2022-10-04 | [`Seanic Ocean Systems`](https://google.com/search?q=Seanic+Ocean+Systems) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2022-10-04 | [`Bartelt`](https://google.com/search?q=Bartelt) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2022-10-04 | [`Rick Shipman Construction`](https://google.com/search?q=Rick+Shipman+Construction) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2022-10-04 | [`Gate Precast`](https://google.com/search?q=Gate+Precast) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2022-10-03 | [`AudioQuest Data Leaked`](https://google.com/search?q=AudioQuest+Data+Leaked) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
@@ -190,17 +204,3 @@ _last `200` posts_
 | 2022-09-11 | [`TIB Development Bank`](https://google.com/search?q=TIB+Development+Bank) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
 | 2022-09-09 | [`marugokiso.co.jp`](https://google.com/search?q=marugokiso.co.jp) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-09-09 | [`lacalera.pe`](https://google.com/search?q=lacalera.pe) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-09-09 | [`diakonissen-riehen.ch`](https://google.com/search?q=diakonissen-riehen.ch) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-09-09 | [`dcashpro.com`](https://google.com/search?q=dcashpro.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-09-09 | [`connectvitypoint.com`](https://google.com/search?q=connectvitypoint.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-09-09 | [`kisan.com.tr`](https://google.com/search?q=kisan.com.tr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-09-09 | [`kortrijkserijschool.be`](https://google.com/search?q=kortrijkserijschool.be) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-09-08 | [`MGSMFG`](https://google.com/search?q=MGSMFG) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2022-09-07 | [`EMEPLATING`](https://google.com/search?q=EMEPLATING) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2022-09-07 | [`STEVENG`](https://google.com/search?q=STEVENG) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2022-09-07 | [`SHI`](https://google.com/search?q=SHI) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2022-09-07 | [`marcopolohotels.com`](https://google.com/search?q=marcopolohotels.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-09-07 | [`hunters.com`](https://google.com/search?q=hunters.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-09-07 | [`misumi.com.tw`](https://google.com/search?q=misumi.com.tw) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-09-07 | [`metaage.com.tw`](https://google.com/search?q=metaage.com.tw) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-09-07 | [`DDoS instead of the Discuss - Nice try TAP Air`](https://google.com/search?q=DDoS+instead+of+the+Discuss+-+Nice+try+TAP+Air) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
