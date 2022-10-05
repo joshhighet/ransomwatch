@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-10-05 | [`apunipima.org.au`](https://google.com/search?q=apunipima.org.au) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2022-10-05 | [`Willemen Group`](https://google.com/search?q=Willemen+Group) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2022-10-05 | [`OPPLE Lighting`](https://google.com/search?q=OPPLE+Lighting) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
 | 2022-10-05 | [`Avalon luxury transport company - Leaked`](https://google.com/search?q=Avalon+luxury+transport+company+-+Leaked) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
 | 2022-10-04 | [`Veritas Solicitors`](https://google.com/search?q=Veritas+Solicitors) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2022-10-04 | [` Meisenkothen`](https://google.com/search?q=+Meisenkothen) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2022-09-11 | [`hamiota.com`](https://google.com/search?q=hamiota.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-09-11 | [`canadiansolar.com`](https://google.com/search?q=canadiansolar.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-09-11 | [`aralaw.cr`](https://google.com/search?q=aralaw.cr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-09-11 | [`Davin Industries Ltd`](https://google.com/search?q=Davin+Industries+Ltd) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
-| 2022-09-11 | [`TIB Development Bank`](https://google.com/search?q=TIB+Development+Bank) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
-| 2022-09-09 | [`marugokiso.co.jp`](https://google.com/search?q=marugokiso.co.jp) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
