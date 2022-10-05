@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-10-05 | [`Empower Insurance`](https://google.com/search?q=Empower+Insurance) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
+| 2022-10-05 | [`Unicity`](https://google.com/search?q=Unicity) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
+| 2022-10-05 | [`Oil India Limited`](https://google.com/search?q=Oil+India+Limited) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
 | 2022-10-05 | [`apunipima.org.au`](https://google.com/search?q=apunipima.org.au) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-10-05 | [`Willemen Group`](https://google.com/search?q=Willemen+Group) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2022-10-05 | [`OPPLE Lighting`](https://google.com/search?q=OPPLE+Lighting) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2022-09-12 | [`frigobandeira.com`](https://google.com/search?q=frigobandeira.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-09-12 | [`ch-sf.fr`](https://google.com/search?q=ch-sf.fr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-09-12 | [`ch-sf.fr (old)`](https://google.com/search?q=ch-sf.fr+%28old%29) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-09-11 | [`hamiota.com`](https://google.com/search?q=hamiota.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-09-11 | [`canadiansolar.com`](https://google.com/search?q=canadiansolar.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-09-11 | [`aralaw.cr`](https://google.com/search?q=aralaw.cr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
