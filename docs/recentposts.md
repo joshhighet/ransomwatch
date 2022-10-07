@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-10-07 | [`SPERONI S.P.A / Data Lamborghini, Ferrari, Fiat Group, VAG, Brembo`](https://google.com/search?q=SPERONI+S.P.A+%2F+Data+Lamborghini%2C+Ferrari%2C+Fiat+Group%2C+VAG%2C+Brembo) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2022-10-07 | [`NJVC [ post has been updated ]`](https://google.com/search?q=NJVC+%5B+post+has+been+updated+%5D) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-10-07 | [`Clarion Communication Management Ltd`](https://google.com/search?q=Clarion+Communication+Management+Ltd) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-10-07 | [`Knoll`](https://google.com/search?q=Knoll) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-09-13 | [`COMSA CORPORATION`](https://google.com/search?q=COMSA+CORPORATION) | [sparta](https://ransomwatch.telemetry.ltd/#/profiles?id=sparta) |
 | 2022-09-13 | [`SERCOM`](https://google.com/search?q=SERCOM) | [sparta](https://ransomwatch.telemetry.ltd/#/profiles?id=sparta) |
 | 2022-09-13 | [`groupg4.com`](https://google.com/search?q=groupg4.com) | [redalert](https://ransomwatch.telemetry.ltd/#/profiles?id=redalert) |
-| 2022-09-13 | [`bakkerheftrucks.com`](https://google.com/search?q=bakkerheftrucks.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
