@@ -4,6 +4,10 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-10-07 | [`NJVC [ post has been updated ]`](https://google.com/search?q=NJVC+%5B+post+has+been+updated+%5D) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
+| 2022-10-07 | [`Clarion Communication Management Ltd`](https://google.com/search?q=Clarion+Communication+Management+Ltd) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
+| 2022-10-07 | [`Knoll`](https://google.com/search?q=Knoll) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
+| 2022-10-07 | [`Pinnacle Incorporated`](https://google.com/search?q=Pinnacle+Incorporated) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-10-06 | [`The UNITED GRINDING Group`](https://google.com/search?q=The+UNITED+GRINDING+Group) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2022-10-06 | [`MultiCare pt.2`](https://google.com/search?q=MultiCare+pt.2) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2022-10-06 | [`Rundle Eye Care`](https://google.com/search?q=Rundle+Eye+Care) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
@@ -200,7 +204,3 @@ _last `200` posts_
 | 2022-09-13 | [`SERCOM`](https://google.com/search?q=SERCOM) | [sparta](https://ransomwatch.telemetry.ltd/#/profiles?id=sparta) |
 | 2022-09-13 | [`groupg4.com`](https://google.com/search?q=groupg4.com) | [redalert](https://ransomwatch.telemetry.ltd/#/profiles?id=redalert) |
 | 2022-09-13 | [`bakkerheftrucks.com`](https://google.com/search?q=bakkerheftrucks.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-09-13 | [`bakkerheftrucks.local`](https://google.com/search?q=bakkerheftrucks.local) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-09-13 | [`OakBend Medical (USA)`](https://google.com/search?q=OakBend+Medical+%28USA%29) | [daixin](https://ransomwatch.telemetry.ltd/#/profiles?id=daixin) |
-| 2022-09-12 | [`omegaservices.com.au`](https://google.com/search?q=omegaservices.com.au) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-09-12 | [`TAP AIR PORTUGAL - 115k personal data leak`](https://google.com/search?q=TAP+AIR+PORTUGAL+-+115k+personal+data+leak) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
