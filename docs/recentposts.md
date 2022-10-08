@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-10-08 | [`Home Dynamix`](https://google.com/search?q=Home+Dynamix) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
+| 2022-10-08 | [`Deutsche Saatveredelung AG`](https://google.com/search?q=Deutsche+Saatveredelung+AG) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
+| 2022-10-08 | [`Notos Com`](https://google.com/search?q=Notos+Com) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-10-08 | [`dialog.com.au`](https://google.com/search?q=dialog.com.au) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2022-10-08 | [`scinopharm.com`](https://google.com/search?q=scinopharm.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2022-10-08 | [`robertbernard.com`](https://google.com/search?q=robertbernard.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2022-09-13 | [`Gallery Hotels`](https://google.com/search?q=Gallery+Hotels) | [sparta](https://ransomwatch.telemetry.ltd/#/profiles?id=sparta) |
 | 2022-09-13 | [`Auto88`](https://google.com/search?q=Auto88) | [sparta](https://ransomwatch.telemetry.ltd/#/profiles?id=sparta) |
 | 2022-09-13 | [`Font Packaging`](https://google.com/search?q=Font+Packaging) | [sparta](https://ransomwatch.telemetry.ltd/#/profiles?id=sparta) |
-| 2022-09-13 | [`Ferrer&Ojeda`](https://google.com/search?q=Ferrer%26Ojeda) | [sparta](https://ransomwatch.telemetry.ltd/#/profiles?id=sparta) |
-| 2022-09-13 | [`Tema Litoclean Group`](https://google.com/search?q=Tema+Litoclean+Group) | [sparta](https://ransomwatch.telemetry.ltd/#/profiles?id=sparta) |
-| 2022-09-13 | [`Grupo Galilea`](https://google.com/search?q=Grupo+Galilea) | [sparta](https://ransomwatch.telemetry.ltd/#/profiles?id=sparta) |
