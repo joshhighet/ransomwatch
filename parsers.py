@@ -798,3 +798,14 @@ def sparta():
         errlog('sparta: ' + 'parsing fail')
     for post in posts:
         appender(post, 'sparta')
+
+def qilin():
+    stdlog('parser: ' + 'qilin')
+    parser = '''
+    jq '.[].target_utl' -r source/qilin-kb*.html || true
+    '''
+    posts = runshellcmd(parser)
+    if len(posts) == 1:
+        errlog('qilin: ' + 'parsing fail')
+    for post in posts:
+        appender(post, 'qilin')
