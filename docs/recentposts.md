@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-10-09 | [`cedemo.com`](https://google.com/search?q=cedemo.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-10-09 | [`dragages-ports.fr`](https://google.com/search?q=dragages-ports.fr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-10-09 | [`buydps.com`](https://google.com/search?q=buydps.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-10-09 | [`alliedusa.com`](https://google.com/search?q=alliedusa.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-09-14 | [`Fiveninefive`](https://google.com/search?q=Fiveninefive) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-09-14 | [`PCSupport`](https://google.com/search?q=PCSupport) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-09-14 | [`Hayat`](https://google.com/search?q=Hayat) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2022-09-14 | [`The Checker Transportation Group`](https://google.com/search?q=The+Checker+Transportation+Group) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
