@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-10-10 | [`tdwood.com`](https://google.com/search?q=tdwood.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2022-10-10 | [`Electricity company pt.2`](https://google.com/search?q=Electricity+company+pt.2) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2022-10-10 | [`jtchapman.com`](https://google.com/search?q=jtchapman.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-10-10 | [`polycube.co.th`](https://google.com/search?q=polycube.co.th) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-10-10 | [`dmcinet.com`](https://google.com/search?q=dmcinet.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2022-09-14 | [`cultivar.net`](https://google.com/search?q=cultivar.net) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-09-14 | [`cmb-artimmo.com`](https://google.com/search?q=cmb-artimmo.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-09-14 | [`cityofbartlett.org`](https://google.com/search?q=cityofbartlett.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-09-14 | [`camdomain.com`](https://google.com/search?q=camdomain.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-09-14 | [`artdis.fr`](https://google.com/search?q=artdis.fr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
