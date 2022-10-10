@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-10-10 | [`polycube.co.th`](https://google.com/search?q=polycube.co.th) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2022-10-10 | [`dmcinet.com`](https://google.com/search?q=dmcinet.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-10-10 | [`Shiloh Industries`](https://google.com/search?q=Shiloh+Industries) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2022-10-10 | [`RS.GOV.BR/Government Brazil`](https://google.com/search?q=RS.GOV.BR%2FGovernment+Brazil) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2022-10-09 | [`securityalliancegroup.com`](https://google.com/search?q=securityalliancegroup.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2022-09-14 | [`camdomain.com`](https://google.com/search?q=camdomain.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-09-14 | [`artdis.fr`](https://google.com/search?q=artdis.fr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-09-14 | [`aipcenergy.com`](https://google.com/search?q=aipcenergy.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-09-14 | [`idealtridon.com`](https://google.com/search?q=idealtridon.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-09-14 | [`GHT CORP`](https://google.com/search?q=GHT+CORP) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
