@@ -69,7 +69,9 @@ def appender(post_title, group_name):
             json.dump(posts, outfile, indent=4, ensure_ascii=False)
         # if socials are set try post
         if os.environ.get('DISCORD_WEBHOOK') is not None:
-            todiscord(newpost['post_title'], newpost['group_name'])
+            todiscord(newpost['post_title'], newpost['group_name'], os.environ.get('DISCORD_WEBHOOK'))
+        if os.environ.get('DISCORD_WEBHOOK_2') is not None:
+            todiscord(newpost['post_title'], newpost['group_name'], os.environ.get('DISCORD_WEBHOOK_2'))
         if os.environ.get('TWITTER_ACCESS_TOKEN') is not None:
             totwitter(newpost['post_title'], newpost['group_name'])
         if os.environ.get('MS_TEAMS_WEBHOOK') is not None:

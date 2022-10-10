@@ -413,7 +413,7 @@ def totwitter(post_title, group):
     except TypeError as te:
         honk('sharedutils: ' + 'twitter tweepy unsatisfied: ' + str(te))
 
-def todiscord(post_title, group):
+def todiscord(post_title, group, hook_uri):
     '''
     sends a post to a discord webhook defined as an envar
     '''
@@ -441,7 +441,6 @@ def todiscord(post_title, group):
         'Accept': 'application/json'
     }
     try:
-        hook_uri = os.environ.get('DISCORD_WEBHOOK')
         hookpost = requests.post(hook_uri, json=discord_json, headers=dscheaders)
     except requests.exceptions.RequestException as e:
         honk('sharedutils: ' + 'error sending to discord webhook: ' + str(e))
