@@ -2605,7 +2605,7 @@
         "name": "ransomhouse",
         "captcha": false,
         "parser": false,
-        "javascript_render": true,
+        "javascript_render": false,
         "meta": null,
         "locations": [
             {
@@ -2616,6 +2616,15 @@
                 "available": false,
                 "updated": "2022-10-01 20:57:54.519450",
                 "lastscrape": "2022-10-01 20:57:54.519431"
+            },
+            {
+                "fqdn": "zohlm7ahjwegcedoz7lrdrti7bvpofymcayotp744qhx6gjmxbuo2yid.onion",
+                "title": null,
+                "version": 3,
+                "slug": "http://zohlm7ahjwegcedoz7lrdrti7bvpofymcayotp744qhx6gjmxbuo2yid.onion/a",
+                "available": false,
+                "updated": null,
+                "lastscrape": "2021-05-01 00:00:00.000000"
             }
         ],
         "profile": [

@@ -683,7 +683,7 @@ def mindware():
 def ransomhouse():
     stdlog('parser: ' + 'ransomhouse')
     parser = '''
-    egrep -o "class=\"cls_recordTop\"><p>([A-Za-z0-9 ,\'.-])+</p>" source/ransomhouse-*.html | cut -d '>' -f 3 | cut -d '<' -f 1
+    egrep -o "class=\"cls_recordTop\"><p>([A-Za-z0-9 ,\'.-])+</p>" source/ransomhouse-xw7au5p*.html | cut -d '>' -f 3 | cut -d '<' -f 1 && jq -r '.data[].header' source/ransomhouse-zoh*.html || true
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
