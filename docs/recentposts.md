@@ -4,6 +4,13 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-10-12 | [`martel.es`](https://google.com/search?q=martel.es) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2022-10-12 | [`MERCOLA`](https://google.com/search?q=MERCOLA) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2022-10-12 | [`SMART Mechanical Solutions`](https://google.com/search?q=SMART+Mechanical+Solutions) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2022-10-12 | [`Quality Telecom Consultants Inc`](https://google.com/search?q=Quality+Telecom+Consultants+Inc) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2022-10-12 | [`ALFATECH`](https://google.com/search?q=ALFATECH) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2022-10-12 | [`AMPORTS`](https://google.com/search?q=AMPORTS) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2022-10-12 | [`Michael Sullivan & Associates`](https://google.com/search?q=Michael+Sullivan+%26+Associates) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2022-10-12 | [`bigcenters.rs`](https://google.com/search?q=bigcenters.rs) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-10-12 | [`mtrx.com`](https://google.com/search?q=mtrx.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-10-12 | [`Advanced Micro Devices, Inc`](https://google.com/search?q=Advanced+Micro+Devices%2C+Inc) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
@@ -197,10 +204,3 @@ _last `200` posts_
 | 2022-09-14 | [`DYNAM JAPAN HOLDINGS CO., LTD`](https://google.com/search?q=DYNAM+JAPAN+HOLDINGS+CO.%2C+LTD) | [cheers](https://ransomwatch.telemetry.ltd/#/profiles?id=cheers) |
 | 2022-09-14 | [`Tri-Supply`](https://google.com/search?q=Tri-Supply) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-09-14 | [`ville-faulquemont.fr`](https://google.com/search?q=ville-faulquemont.fr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-09-14 | [`thezincgroup.com`](https://google.com/search?q=thezincgroup.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-09-14 | [`taxprepandmore.com`](https://google.com/search?q=taxprepandmore.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-09-14 | [`tapcocu.org`](https://google.com/search?q=tapcocu.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-09-14 | [`sva-avignon.concession-landrover.fr`](https://google.com/search?q=sva-avignon.concession-landrover.fr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-09-14 | [`sarassure.fr`](https://google.com/search?q=sarassure.fr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-09-14 | [`quintal.com.co`](https://google.com/search?q=quintal.com.co) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-09-14 | [`pays-colombey-sudtoulois.fr`](https://google.com/search?q=pays-colombey-sudtoulois.fr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
