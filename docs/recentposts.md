@@ -4,6 +4,13 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-10-12 | [`Advanced Micro Devices, Inc`](https://google.com/search?q=Advanced+Micro+Devices%2C+Inc) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
+| 2022-10-12 | [`Fairfax - Crum & Forster`](https://google.com/search?q=Fairfax+-+Crum+%26+Forster) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
+| 2022-10-12 | [`Ipca Laboratories`](https://google.com/search?q=Ipca+Laboratories) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
+| 2022-10-12 | [`Carmen Copper Corporation`](https://google.com/search?q=Carmen+Copper+Corporation) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
+| 2022-10-12 | [`ROFA INDUSTRIAL AUTOMATION`](https://google.com/search?q=ROFA+INDUSTRIAL+AUTOMATION) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
+| 2022-10-12 | [`ADATA Technology`](https://google.com/search?q=ADATA+Technology) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
+| 2022-10-12 | [`Severn Glocon Group`](https://google.com/search?q=Severn+Glocon+Group) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2022-10-11 | [`Stages Pediatric Care Update`](https://google.com/search?q=Stages+Pediatric+Care+Update) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2022-10-11 | [`DMCI Holding Leaked`](https://google.com/search?q=DMCI+Holding+Leaked) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
 | 2022-10-11 | [`Consorci Sanitari Integral &amp; Geseme`](https://google.com/search?q=Consorci+Sanitari+Integral+%26amp%3B+Geseme) | [ransomexx](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomexx) |
@@ -197,10 +204,3 @@ _last `200` posts_
 | 2022-09-14 | [`pays-colombey-sudtoulois.fr`](https://google.com/search?q=pays-colombey-sudtoulois.fr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-09-14 | [`mj-donnais.fr`](https://google.com/search?q=mj-donnais.fr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-09-14 | [`maleosante.fr`](https://google.com/search?q=maleosante.fr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-09-14 | [`maisonloisy.fr`](https://google.com/search?q=maisonloisy.fr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-09-14 | [`mackenzie-law.co.uk`](https://google.com/search?q=mackenzie-law.co.uk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-09-14 | [`lagence33.com`](https://google.com/search?q=lagence33.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-09-14 | [`kwp.at`](https://google.com/search?q=kwp.at) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-09-14 | [`kcgreenholdings.com`](https://google.com/search?q=kcgreenholdings.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-09-14 | [`jt-engineering.com`](https://google.com/search?q=jt-engineering.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-09-14 | [`euromip.fr`](https://google.com/search?q=euromip.fr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
