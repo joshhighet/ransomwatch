@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-10-13 | [`nelsonautohaus.com`](https://google.com/search?q=nelsonautohaus.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-10-12 | [`MultiCare pt.3`](https://google.com/search?q=MultiCare+pt.3) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2022-10-12 | [`marktel.es`](https://google.com/search?q=marktel.es) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-10-12 | [`martel.es`](https://google.com/search?q=martel.es) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-09-14 | [`MR. WONDERFUL`](https://google.com/search?q=MR.+WONDERFUL) | [sparta](https://ransomwatch.telemetry.ltd/#/profiles?id=sparta) |
 | 2022-09-14 | [`AUTO88`](https://google.com/search?q=AUTO88) | [sparta](https://ransomwatch.telemetry.ltd/#/profiles?id=sparta) |
 | 2022-09-14 | [`FONT PACKAGING`](https://google.com/search?q=FONT+PACKAGING) | [sparta](https://ransomwatch.telemetry.ltd/#/profiles?id=sparta) |
-| 2022-09-14 | [`DYNAM JAPAN HOLDINGS CO., LTD`](https://google.com/search?q=DYNAM+JAPAN+HOLDINGS+CO.%2C+LTD) | [cheers](https://ransomwatch.telemetry.ltd/#/profiles?id=cheers) |
