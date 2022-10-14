@@ -4,6 +4,12 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-10-14 | [`villajuris.be`](https://google.com/search?q=villajuris.be) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2022-10-14 | [`tamhash.co.il`](https://google.com/search?q=tamhash.co.il) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2022-10-14 | [`mk.co.th`](https://google.com/search?q=mk.co.th) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2022-10-14 | [`kilvington.vic.edu.au`](https://google.com/search?q=kilvington.vic.edu.au) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2022-10-14 | [`heronconstruction.co.nz`](https://google.com/search?q=heronconstruction.co.nz) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2022-10-14 | [`bankruptcypa.com`](https://google.com/search?q=bankruptcypa.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-10-13 | [`Electricity company pt.3`](https://google.com/search?q=Electricity+company+pt.3) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2022-10-13 | [`Fashion company ZIGI NY - Leaked`](https://google.com/search?q=Fashion+company+ZIGI+NY+-+Leaked) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
 | 2022-10-13 | [`nelsonautohaus.com`](https://google.com/search?q=nelsonautohaus.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -198,9 +204,3 @@ _last `200` posts_
 | 2022-09-14 | [`Triten`](https://google.com/search?q=Triten) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-09-14 | [`southamptoncounty.org`](https://google.com/search?q=southamptoncounty.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-09-14 | [`makler.com.ve`](https://google.com/search?q=makler.com.ve) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-09-14 | [`independence.com.co`](https://google.com/search?q=independence.com.co) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-09-14 | [`cnachile.cl`](https://google.com/search?q=cnachile.cl) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-09-14 | [`markherder.com`](https://google.com/search?q=markherder.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-09-14 | [`inspecshawaii.com`](https://google.com/search?q=inspecshawaii.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-09-14 | [`HAYAT GROUP`](https://google.com/search?q=HAYAT+GROUP) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2022-09-14 | [`MR. WONDERFUL`](https://google.com/search?q=MR.+WONDERFUL) | [sparta](https://ransomwatch.telemetry.ltd/#/profiles?id=sparta) |
