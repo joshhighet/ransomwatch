@@ -4,6 +4,15 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-10-15 | [`tokaisolidtire.com`](https://google.com/search?q=tokaisolidtire.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2022-10-15 | [`oomiya.co.jp`](https://google.com/search?q=oomiya.co.jp) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2022-10-15 | [`kingteam.com.tw`](https://google.com/search?q=kingteam.com.tw) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2022-10-15 | [`groupesavoie.com`](https://google.com/search?q=groupesavoie.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2022-10-15 | [`eureka-puzzle.eu`](https://google.com/search?q=eureka-puzzle.eu) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2022-10-15 | [`eeckman.eu`](https://google.com/search?q=eeckman.eu) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2022-10-15 | [`centurion.com.pl`](https://google.com/search?q=centurion.com.pl) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2022-10-15 | [`castemark.tw`](https://google.com/search?q=castemark.tw) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2022-10-15 | [`Quantumce.com`](https://google.com/search?q=Quantumce.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-10-15 | [`Döhler HACKED! More then 800 GB sensitive data LEAKED!`](https://google.com/search?q=D%C3%B6hler+HACKED%21+More+then+800+GB+sensitive+data+LEAKED%21) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-10-15 | [`MultiCare DataBase Leak`](https://google.com/search?q=MultiCare+DataBase+Leak) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2022-10-14 | [`Electricity company / Air Defense Solutions company`](https://google.com/search?q=Electricity+company+%2F+Air+Defense+Solutions+company) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
@@ -195,12 +204,3 @@ _last `200` posts_
 | 2022-09-16 | [`ces-conditionneur.fr`](https://google.com/search?q=ces-conditionneur.fr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-09-16 | [`software-line.it`](https://google.com/search?q=software-line.it) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-09-15 | [`asecna.org`](https://google.com/search?q=asecna.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-09-15 | [`County Suffolk and contractors`](https://google.com/search?q=County+Suffolk+and+contractors) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2022-09-15 | [`Bell Technical Solutions`](https://google.com/search?q=Bell+Technical+Solutions) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
-| 2022-09-15 | [`dss-cz.com`](https://google.com/search?q=dss-cz.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-09-15 | [`Nextlabs`](https://google.com/search?q=Nextlabs) | [0mega](https://ransomwatch.telemetry.ltd/#/profiles?id=0mega) |
-| 2022-09-15 | [`midlandplastics.com`](https://google.com/search?q=midlandplastics.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-09-15 | [`nakamuracorp.co.jp`](https://google.com/search?q=nakamuracorp.co.jp) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-09-15 | [`FONTAINEBLEAU`](https://google.com/search?q=FONTAINEBLEAU) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
-| 2022-09-15 | [`FederalBank/Fedfina.part5`](https://google.com/search?q=FederalBank%2FFedfina.part5) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
-| 2022-09-14 | [`medical69.com`](https://google.com/search?q=medical69.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
