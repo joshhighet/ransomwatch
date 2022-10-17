@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-10-17 | [`kingfisherinsurance.com`](https://google.com/search?q=kingfisherinsurance.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-10-15 | [`tokaisolidtire.com`](https://google.com/search?q=tokaisolidtire.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-10-15 | [`oomiya.co.jp`](https://google.com/search?q=oomiya.co.jp) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-10-15 | [`kingteam.com.tw`](https://google.com/search?q=kingteam.com.tw) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-09-16 | [`equatortrustees.com`](https://google.com/search?q=equatortrustees.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-09-16 | [`ces-conditionneur.fr`](https://google.com/search?q=ces-conditionneur.fr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-09-16 | [`software-line.it`](https://google.com/search?q=software-line.it) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-09-15 | [`asecna.org`](https://google.com/search?q=asecna.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
