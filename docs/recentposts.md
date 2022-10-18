@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-10-18 | [`Rosenblatt Securities`](https://google.com/search?q=Rosenblatt+Securities) | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
 | 2022-10-18 | [`Unimed Belem`](https://google.com/search?q=Unimed+Belem) | [ransomexx](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomexx) |
 | 2022-10-18 | [`MultiCareInc pt.3`](https://google.com/search?q=MultiCareInc+pt.3) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2022-10-18 | [`MultiCareInc DataBase Leak`](https://google.com/search?q=MultiCareInc+DataBase+Leak) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-09-19 | [`South Pacific Inc`](https://google.com/search?q=South+Pacific+Inc) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
 | 2022-09-17 | [`trisupplyhome.com`](https://google.com/search?q=trisupplyhome.com) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-09-17 | [`First bounty payout $50,000`](https://google.com/search?q=First+bounty+payout+%2450%2C000) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-09-16 | [`Laddawn Inc.`](https://google.com/search?q=Laddawn+Inc.) | [lorenz](https://ransomwatch.telemetry.ltd/#/profiles?id=lorenz) |
