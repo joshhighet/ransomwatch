@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-10-19 | [`DIPF-INTERN - Leaked`](https://google.com/search?q=DIPF-INTERN+-+Leaked) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
+| 2022-10-19 | [`Wes-tec inc.`](https://google.com/search?q=Wes-tec+inc.) | [lorenz](https://ransomwatch.telemetry.ltd/#/profiles?id=lorenz) |
 | 2022-10-18 | [`Weidmuller`](https://google.com/search?q=Weidmuller) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
 | 2022-10-18 | [`Dollmar SpA - Leaked`](https://google.com/search?q=Dollmar+SpA+-+Leaked) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
 | 2022-10-18 | [`Rosenblatt Securities`](https://google.com/search?q=Rosenblatt+Securities) | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2022-09-19 | [`New York Racing Association`](https://google.com/search?q=New+York+Racing+Association) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
 | 2022-09-19 | [`hering-heinz.de`](https://google.com/search?q=hering-heinz.de) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-09-19 | [`midway`](https://google.com/search?q=midway) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2022-09-19 | [`Biggest News`](https://google.com/search?q=Biggest+News) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
-| 2022-09-19 | [`South Pacific Inc`](https://google.com/search?q=South+Pacific+Inc) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
