@@ -4,6 +4,11 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-10-20 | [`EDC3`](https://google.com/search?q=EDC3) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2022-10-20 | [`J.M. Rodgers Co.`](https://google.com/search?q=J.M.+Rodgers+Co.) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2022-10-20 | [`ALRO`](https://google.com/search?q=ALRO) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2022-10-20 | [`STONE1`](https://google.com/search?q=STONE1) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2022-10-20 | [`Stages Pediatric Care New 40 personal records`](https://google.com/search?q=Stages+Pediatric+Care+New+40+personal+records) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2022-10-20 | [`KEMET`](https://google.com/search?q=KEMET) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-10-19 | [`METASYS`](https://google.com/search?q=METASYS) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2022-10-19 | [`TSC`](https://google.com/search?q=TSC) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
@@ -199,8 +204,3 @@ _last `200` posts_
 | 2022-09-26 | [`TAKAO-UK`](https://google.com/search?q=TAKAO-UK) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
 | 2022-09-26 | [`GFG`](https://google.com/search?q=GFG) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
 | 2022-09-26 | [`TSMTU`](https://google.com/search?q=TSMTU) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
-| 2022-09-26 | [`JANMARINI`](https://google.com/search?q=JANMARINI) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
-| 2022-09-26 | [`bliss-d.com`](https://google.com/search?q=bliss-d.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-09-26 | [`Nihonsakari Co. , Ltd`](https://google.com/search?q=Nihonsakari+Co.+%2C+Ltd) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-09-26 | [`Samuel Ryder Academy`](https://google.com/search?q=Samuel+Ryder+Academy) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
-| 2022-09-26 | [`FederalBank/Fedfina DataBase Leak`](https://google.com/search?q=FederalBank%2FFedfina+DataBase+Leak) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
