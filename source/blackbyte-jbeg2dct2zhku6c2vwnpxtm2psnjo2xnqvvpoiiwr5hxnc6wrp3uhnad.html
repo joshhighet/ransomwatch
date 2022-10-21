@@ -6,12 +6,12 @@
     <link rel="shortcut icon" href="favicon.ico" type="image/x-icon"/>
     <title>BB Auction</title>
     <link href="/dist/font-awesome.min.css" rel="stylesheet">
-    <link href="/dist/css/bootstrap.css?v=1666377611" rel="stylesheet">
-    <link href="/blog.css?v=1666377611" rel="stylesheet">
+    <link href="/dist/css/bootstrap.css?v=1666384472" rel="stylesheet">
+    <link href="/blog.css?v=1666384472" rel="stylesheet">
     <script src="/assets/js/jquery-2.1.3.min.js"></script>
     <script src="/assets/js/vendor/popper.min.js"></script>
     <script src="/dist/js/bootstrap.min.js"></script>
-    <script src="/script.js?v=1666377611"></script>
+    <script src="/script.js?v=1666384472"></script>
     <style>
 
     </style>
@@ -144,6 +144,186 @@
 
         
             <script>
+                var proof_img_block14 = '<img src="Array" alt="" class="proof">';
+
+                function ShowProof14() {
+                    if (showed14 === 0) {
+                        showed14 = 1;
+                        $("#target_14 .proof_block").html(proof_img_block14).slideDown(400);
+                    } else {
+                        showed14 = 0;
+                        $("#target_14 .proof_block").html(' ').slideUp(400);
+                    }
+                }
+
+                function ShowDButtons14() {
+                    if (showed_d_buttons14 === 0) {
+                        showed_d_buttons14 = 1;
+                        $("#target_14 .d_buttons").slideDown(400);
+                    } else {
+                        showed_d_buttons14 = 0;
+                        $("#target_14 .d_buttons").slideUp(400);
+                    }
+                }
+
+                var showed14 = 0;
+                var showed_d_buttons14 = 0;
+                var HAPPYSEC14 = -36070472;
+                var t_sec14 = HAPPYSEC14;
+                var time14;
+                var intervalId14= 0;
+
+                $(document).ready(function () {
+                    $("#target_14 .d_buttons a.btn3").addClass("red_button");
+                    intervalId14 = setInterval(function () {
+                        timerDecrement14();
+                    }, 1000);
+                });
+
+                function timerDecrement14() {
+                    time14 = $('#target_14 span.timer');
+
+                    if (t_sec14 < 1) {
+                        t_sec14 = 0;
+                        newTime = t_sec14 ;
+                    } else {
+                        newTime = t_sec14 - 1;
+                    }
+
+                    t_sec14 = newTime;
+
+                    var t_min = t_sec14 / 60;
+                    var t_hour = t_min / 60;
+                    var t_day =
+                        '<b>' + Math.floor(t_hour / 24) + '</b>d ' +
+                        '<b>' + Math.floor(t_hour % 24) + '</b>h ' +
+                        '<b>' + Math.floor(t_min % 60) + '</b>m ' +
+                        '<b>' + Math.floor(t_sec14 % 60) + '</b>s ';
+
+                    time14.html(t_day);
+
+                    if (newTime === 0 && HAPPYSEC14 > 0 || newTime < 1) {
+                        time14.html('');
+                        $("#target_14 .lock").attr("src", "assets/img/lockopen.png");
+                        $("#target_14 .clock").attr("src", "assets/img/clockred.png").addClass("clockred");
+                        $("#target_14 .btn2").addClass("redbg");
+                        $("#target_14 .arrow-8").addClass("r8");
+                        $("#target_14 .perc").html("100%");
+                        clearInterval(intervalId14);
+                        //GetDownloadLink(//, $("#target_// .by_button"));
+                    }
+                }
+
+            </script>
+
+            <div class="col-md-12 col-sm-12 bgt1 " id="target_14" style="display: none">
+                <table class="table table-bordered table-content ">
+                    <tr style=";" class="content-fone">
+                        <td class="txt td-1">
+                            <div style="border-bottom: 1px solid silver; border-left: 1px solid silver; border-right: 1px solid silver; margin-top: 20px; width: 40%; margin-left: auto; margin-right: auto; opacity: 0.1;"></div>
+                            <h1 class="h_font">UNE</h1>
+
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <input type="text" class="inp-copy copy_input_14" value="">
+                            <p class="lead-text5">History of the UNE
+The history of the National University of Education dates back to July 6, 1822, when the Liberator Don José de San Martín, by Supreme Decree, created the first Normal School for Preceptors, a date that gave rise to the celebration of Teacher's Day.
+Officially inaugurated two months later, it began its fruitful and eventful life as a forger of tutors for the first years of independent Peru. Its first Director was the English citizen Diego Thompson, who introduced the educational model called the Lancasterian System in the preparation of teachers. According to this system, the most advanced students became monitors and contributed through practice in the classroom to the best training of their classmates.                            </p>
+
+
+                            <div class="container1">
+                                <div class="row">
+                                    <div class="col-xs-12 col-md-4"><a data-title="URL" class=" globe glob fa fa-globe"  href="https://www.une.edu.pe/"  target="_blank"></a></div>
+                                    <div style="text-align: center" class="col-xs-12 col-md-4"><i data-chat="61141FCA047691D0E47CFD84717B59D3BEDF822442B5E907BE147FD6B8A11B723A48DF7FCA47"  onclick="copy14('61141FCA047691D0E47CFD84717B59D3BEDF822442B5E907BE147FD6B8A11B723A48DF7FCA47',14,'tox-chat')" data-title="TOX support" class="btc-copy comm fa fa-commenting"></i><span class="copied"></span></div>
+                                    <div  class="col-xs-12 col-md-4"><i style="float: right" class="mon money fa fa-money" data-title="DATA"  onclick="$('.desc_14').modal('show') "></i></div>
+                                </div>
+                            </div>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+            <script>
+                function copy14(text,target_id,block){
+                    selector = ".copy_input_14";
+                    $(selector).val(text);
+                    $(selector).focus();
+                    $(selector).select();
+                    document.execCommand("copy");
+                    old_text = "";
+                    copied_text = "Copied!";
+                    $("#target_"+target_id+" ."+block+" .copied").html(copied_text);
+                    setTimeout(function () {
+                        $("#target_"+target_id+" ."+block+" .copied").html(old_text);
+                    },1000)
+                }
+            </script>
+            <div class="modal desc_14" tabindex="-1" id="target_14">
+                <div class="modal-dialog  ">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <div class="modal-title">UNE Proofs Block</div>
+                        </div>
+                        <div class="modal-body">
+                            <div class="col-md-12 px-0">
+                                <div class="proof_block text-center"></div>
+                                <div>
+                                    <div class="blocks"><div class="gallery" >
+                                            <a  class="photo proof_images proof_images_14"> <div class="gallery">
+                                            <a rel="gallery" class="photo gost"><img class="img-l" src="proofs/14/proof1.png"></a>
+                                        </div>  <div class="gallery">
+                                            <a rel="gallery" class="photo gost"><img class="img-l" src="proofs/14/proof2.png"></a>
+                                        </div>  <div class="gallery">
+                                            <a rel="gallery" class="photo gost"><img class="img-l" src="proofs/14/proof3.png"></a>
+                                        </div>  <div class="gallery">
+                                            <a rel="gallery" class="photo gost"><img class="img-l" src="proofs/14/proof4.png"></a>
+                                        </div>  <div class="gallery">
+                                            <a rel="gallery" class="photo gost"><img class="img-l" src="proofs/14/proof5.png"></a>
+                                        </div> </a>
+                                        </div></div>
+                                    <div class="container2">
+                                        <input type="text" class="inp-copy copy_input_14" value="">
+                                        <div class="info-text">Company documents, deletion/purchase</div>
+                                        <div class="linear2"></div>
+                                        <div class="tox-text">If you are interested to purchase the data or requesting to remove it, Please connect us through our Email/TOX.</div>
+                                            <div style="text-align: center; margin-top: 96px;
+position: absolute; left: 130px; " class="col-xs-12 col-md-4"><i data-chat="61141FCA047691D0E47CFD84717B59D3BEDF822442B5E907BE147FD6B8A11B723A48DF7FCA47"  onclick="copy14('61141FCA047691D0E47CFD84717B59D3BEDF822442B5E907BE147FD6B8A11B723A48DF7FCA47',14,'tox-chat')" data-title="Copy TOX support" class="btc-copy comms fa fa-commenting"></i><span class="copied"></span></div>
+                                            <div style="text-align: center; ;
+position: absolute;" class="col-xs-12 col-md-4"><i data-chat="BlackByteSupp0rt@onionmail.org"  onclick="copy14('BlackByteSupp0rt@onionmail.org',14,'copysupport')" data-title="Copy E-MAIL support" class="support-mail-copy mail-support fa fa-envelope"></i><span class="copied"></span></div>
+                                            <div class="row ends">
+                                            <div class="col-sm-4 ">
+                                                <a class=""><button class="custom-btn btn-12"><span>DELETE DATA</span><span>500000$</span></button></a>
+                                            </div>
+                                            <div class="col-sm-4 ">
+                                                <a href="https://anonfiles.com/h821JeD6yf/Archive3_zip" target="_blank"><button class="custom-btn btn-12"><span class="proofdata">DOWNLOAD PROOF DATA</span><span>DATA</span></button></a>
+                                            </div>
+                                            <div class="col-sm-4 ">
+                                                <a id="myBtn1" 14><button class="custom-btn btn-12"><span>BUY DATA</span><span>450000$</span></button></a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div id="myModal1" class="modal1" style="background-color: rgba(0, 0, 0, 0.84)" 14>
+                    <div class="modal1-content">
+                        <div class="modal1-header">
+                            <span class="close">&times;</span>
+                            <h2>Information</h2>
+                            <div class="linear2"></div>
+                        </div>
+                        <div class="modal1-body">
+                            <div></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            
+            <script>
                 var proof_img_block13 = '<img src="Array" alt="" class="proof">';
 
                 function ShowProof13() {
@@ -168,7 +348,7 @@
 
                 var showed13 = 0;
                 var showed_d_buttons13 = 0;
-                var HAPPYSEC13 = -36063611;
+                var HAPPYSEC13 = -36070472;
                 var t_sec13 = HAPPYSEC13;
                 var time13;
                 var intervalId13= 0;
@@ -346,7 +526,7 @@ position: absolute;" class="col-xs-12 col-md-4"><i data-chat="BlackByteSupp0rt@o
 
                 var showed12 = 0;
                 var showed_d_buttons12 = 0;
-                var HAPPYSEC12 = -36063611;
+                var HAPPYSEC12 = -36070472;
                 var t_sec12 = HAPPYSEC12;
                 var time12;
                 var intervalId12= 0;
@@ -522,7 +702,7 @@ position: absolute;" class="col-xs-12 col-md-4"><i data-chat="BlackByteSupp0rt@o
 
                 var showed11 = 0;
                 var showed_d_buttons11 = 0;
-                var HAPPYSEC11 = -36063611;
+                var HAPPYSEC11 = -36070472;
                 var t_sec11 = HAPPYSEC11;
                 var time11;
                 var intervalId11= 0;
@@ -698,7 +878,7 @@ position: absolute;" class="col-xs-12 col-md-4"><i data-chat="BlackByteSupp0rt@o
 
                 var showed10 = 0;
                 var showed_d_buttons10 = 0;
-                var HAPPYSEC10 = -36063611;
+                var HAPPYSEC10 = -36070472;
                 var t_sec10 = HAPPYSEC10;
                 var time10;
                 var intervalId10= 0;
@@ -881,7 +1061,7 @@ position: absolute;" class="col-xs-12 col-md-4"><i data-chat="BlackByteSupp0rt@o
 
                 var showed9 = 0;
                 var showed_d_buttons9 = 0;
-                var HAPPYSEC9 = -36063611;
+                var HAPPYSEC9 = -36070472;
                 var t_sec9 = HAPPYSEC9;
                 var time9;
                 var intervalId9= 0;
@@ -1057,7 +1237,7 @@ position: absolute;" class="col-xs-12 col-md-4"><i data-chat="BlackByteSupp0rt@o
 
                 var showed8 = 0;
                 var showed_d_buttons8 = 0;
-                var HAPPYSEC8 = -36063611;
+                var HAPPYSEC8 = -36070472;
                 var t_sec8 = HAPPYSEC8;
                 var time8;
                 var intervalId8= 0;
@@ -1236,7 +1416,7 @@ position: absolute;" class="col-xs-12 col-md-4"><i data-chat="BlackByteSupp0rt@o
 
                 var showed7 = 0;
                 var showed_d_buttons7 = 0;
-                var HAPPYSEC7 = -36063611;
+                var HAPPYSEC7 = -36070472;
                 var t_sec7 = HAPPYSEC7;
                 var time7;
                 var intervalId7= 0;
@@ -1415,7 +1595,7 @@ position: absolute;" class="col-xs-12 col-md-4"><i data-chat="BlackByteSupp0rt@o
 
                 var showed6 = 0;
                 var showed_d_buttons6 = 0;
-                var HAPPYSEC6 = -36063611;
+                var HAPPYSEC6 = -36070472;
                 var t_sec6 = HAPPYSEC6;
                 var time6;
                 var intervalId6= 0;
@@ -1596,7 +1776,7 @@ position: absolute;" class="col-xs-12 col-md-4"><i data-chat="BlackByteSupp0rt@o
 
                 var showed5 = 0;
                 var showed_d_buttons5 = 0;
-                var HAPPYSEC5 = -36063611;
+                var HAPPYSEC5 = -36070472;
                 var t_sec5 = HAPPYSEC5;
                 var time5;
                 var intervalId5= 0;
@@ -1777,7 +1957,7 @@ position: absolute;" class="col-xs-12 col-md-4"><i data-chat="BlackByteSupp0rt@o
 
                 var showed4 = 0;
                 var showed_d_buttons4 = 0;
-                var HAPPYSEC4 = -36063611;
+                var HAPPYSEC4 = -36070472;
                 var t_sec4 = HAPPYSEC4;
                 var time4;
                 var intervalId4= 0;
@@ -1956,7 +2136,7 @@ position: absolute;" class="col-xs-12 col-md-4"><i data-chat="BlackByteSupp0rt@o
 
                 var showed3 = 0;
                 var showed_d_buttons3 = 0;
-                var HAPPYSEC3 = -36063611;
+                var HAPPYSEC3 = -36070472;
                 var t_sec3 = HAPPYSEC3;
                 var time3;
                 var intervalId3= 0;
