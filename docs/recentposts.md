@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-10-22 | [`Egyptian Electric Cooperative Association`](https://google.com/search?q=Egyptian+Electric+Cooperative+Association) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-10-21 | [`UNE`](https://google.com/search?q=UNE) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
 | 2022-10-21 | [`Stages Pediatric Care New 250 personal records`](https://google.com/search?q=Stages+Pediatric+Care+New+250+personal+records) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2022-10-21 | [`Diamond Mowers`](https://google.com/search?q=Diamond+Mowers) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-09-27 | [`AES Clean Technology`](https://google.com/search?q=AES+Clean+Technology) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2022-09-27 | [`Etna GmbH`](https://google.com/search?q=Etna+GmbH) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2022-09-27 | [`Hendry Regional Medical Center`](https://google.com/search?q=Hendry+Regional+Medical+Center) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
-| 2022-09-26 | [`Cremo`](https://google.com/search?q=Cremo) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
