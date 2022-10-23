@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-10-23 | [`Kenosha Unified School District`](https://google.com/search?q=Kenosha+Unified+School+District) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
 | 2022-10-23 | [`SOUTH-STAFFS-WATER.CO.UK FILES WATER\10.80.74.231\ PUBLISHED`](https://google.com/search?q=SOUTH-STAFFS-WATER.CO.UK+FILES+WATER%5C10.80.74.231%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-10-23 | [`PRICEDEX.COM FILES PART21 - 10.0.100.45 PUBLISHED`](https://google.com/search?q=PRICEDEX.COM+FILES+PART21+-+10.0.100.45+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-10-23 | [`LOESCHGROUP.DE FILES PART1 - 192.168.12.20, 192.168.12.65, 192.168.12.122, ls-srv-fs02 PUB`](https://google.com/search?q=LOESCHGROUP.DE+FILES+PART1+-+192.168.12.20%2C+192.168.12.65%2C+192.168.12.122%2C+ls-srv-fs02+PUB) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-09-30 | [`toyotaalabang.com.ph`](https://google.com/search?q=toyotaalabang.com.ph) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-09-30 | [`Karl Gemünden GmbH & Co. KG`](https://google.com/search?q=Karl+Gem%C3%BCnden+GmbH+%26+Co.+KG) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2022-09-29 | [`Stages Pediatric Care`](https://google.com/search?q=Stages+Pediatric+Care) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
-| 2022-09-29 | [`Associated Bag`](https://google.com/search?q=Associated+Bag) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
