@@ -4,6 +4,14 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-10-23 | [`Grupo Jaime Camara`](https://google.com/search?q=Grupo+Jaime+Camara) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
+| 2022-10-23 | [`TMShipping`](https://google.com/search?q=TMShipping) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
+| 2022-10-23 | [`HALYVOURGIKI.S.A.`](https://google.com/search?q=HALYVOURGIKI.S.A.) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
+| 2022-10-23 | [`Marist College Ashgrove`](https://google.com/search?q=Marist+College+Ashgrove) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
+| 2022-10-23 | [`Pate's Grammar School`](https://google.com/search?q=Pate%27s+Grammar+School) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
+| 2022-10-23 | [`Test Valley School`](https://google.com/search?q=Test+Valley+School) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
+| 2022-10-23 | [`Mars Area School District`](https://google.com/search?q=Mars+Area+School+District) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
+| 2022-10-23 | [`Maternite des Bluets`](https://google.com/search?q=Maternite+des+Bluets) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2022-10-22 | [`Egyptian Electric Cooperative Association`](https://google.com/search?q=Egyptian+Electric+Cooperative+Association) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-10-21 | [`UNE`](https://google.com/search?q=UNE) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
 | 2022-10-21 | [`Stages Pediatric Care New 250 personal records`](https://google.com/search?q=Stages+Pediatric+Care+New+250+personal+records) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
@@ -196,11 +204,3 @@ _last `200` posts_
 | 2022-09-28 | [`Health Care Solutions Group`](https://google.com/search?q=Health+Care+Solutions+Group) | [donutleaks](https://ransomwatch.telemetry.ltd/#/profiles?id=donutleaks) |
 | 2022-09-28 | [`Evo exhibits`](https://google.com/search?q=Evo+exhibits) | [donutleaks](https://ransomwatch.telemetry.ltd/#/profiles?id=donutleaks) |
 | 2022-09-27 | [`Southwell, Inc.`](https://google.com/search?q=Southwell%2C+Inc.) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
-| 2022-09-27 | [`bew.co.th`](https://google.com/search?q=bew.co.th) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-09-27 | [`hdhopwood.com`](https://google.com/search?q=hdhopwood.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-09-27 | [`Ministerio de Relaciones Exteriores`](https://google.com/search?q=Ministerio+de+Relaciones+Exteriores) | [onyx](https://ransomwatch.telemetry.ltd/#/profiles?id=onyx) |
-| 2022-09-27 | [`vitalityhp.net`](https://google.com/search?q=vitalityhp.net) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-09-27 | [`ginspectionservices`](https://google.com/search?q=ginspectionservices) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
-| 2022-09-27 | [`AES Clean Technology`](https://google.com/search?q=AES+Clean+Technology) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2022-09-27 | [`Etna GmbH`](https://google.com/search?q=Etna+GmbH) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2022-09-27 | [`Hendry Regional Medical Center`](https://google.com/search?q=Hendry+Regional+Medical+Center) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
