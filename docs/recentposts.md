@@ -4,6 +4,12 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-10-23 | [`SOUTH-STAFFS-WATER.CO.UK FILES WATER\10.80.74.231\ PUBLISHED`](https://google.com/search?q=SOUTH-STAFFS-WATER.CO.UK+FILES+WATER%5C10.80.74.231%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2022-10-23 | [`PRICEDEX.COM FILES PART21 - 10.0.100.45 PUBLISHED`](https://google.com/search?q=PRICEDEX.COM+FILES+PART21+-+10.0.100.45+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2022-10-23 | [`LOESCHGROUP.DE FILES PART1 - 192.168.12.20, 192.168.12.65, 192.168.12.122, ls-srv-fs02 PUB`](https://google.com/search?q=LOESCHGROUP.DE+FILES+PART1+-+192.168.12.20%2C+192.168.12.65%2C+192.168.12.122%2C+ls-srv-fs02+PUB) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2022-10-23 | [`ORDEREXPRESS.COM.MX FILES PART2 - 10.10.1.22, 10.10.1.23, 10.10.1.73, 10.10.1.170, 10.10.1`](https://google.com/search?q=ORDEREXPRESS.COM.MX+FILES+PART2+-+10.10.1.22%2C+10.10.1.23%2C+10.10.1.73%2C+10.10.1.170%2C+10.10.1) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2022-10-23 | [`MARCELSOLUTION.COM FILES PART3 - SYMASOFT10,11,12,15,17,19,21,22,23 PUBLISHED`](https://google.com/search?q=MARCELSOLUTION.COM+FILES+PART3+-+SYMASOFT10%2C11%2C12%2C15%2C17%2C19%2C21%2C22%2C23+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2022-10-23 | [`SPINNEYS.COM FILES PART13 - 192.6.14.205 PUBLISHED`](https://google.com/search?q=SPINNEYS.COM+FILES+PART13+-+192.6.14.205+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-10-23 | [`Grupo Jaime Camara`](https://google.com/search?q=Grupo+Jaime+Camara) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2022-10-23 | [`TMShipping`](https://google.com/search?q=TMShipping) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2022-10-23 | [`HALYVOURGIKI.S.A.`](https://google.com/search?q=HALYVOURGIKI.S.A.) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
@@ -198,9 +204,3 @@ _last `200` posts_
 | 2022-09-30 | [`Karl Gemünden GmbH & Co. KG`](https://google.com/search?q=Karl+Gem%C3%BCnden+GmbH+%26+Co.+KG) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2022-09-29 | [`Stages Pediatric Care`](https://google.com/search?q=Stages+Pediatric+Care) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2022-09-29 | [`Associated Bag`](https://google.com/search?q=Associated+Bag) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2022-09-29 | [`samyang.com`](https://google.com/search?q=samyang.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-09-29 | [`ID-ware`](https://google.com/search?q=ID-ware) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2022-09-29 | [`NJVC`](https://google.com/search?q=NJVC) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2022-09-28 | [`Health Care Solutions Group`](https://google.com/search?q=Health+Care+Solutions+Group) | [donutleaks](https://ransomwatch.telemetry.ltd/#/profiles?id=donutleaks) |
-| 2022-09-28 | [`Evo exhibits`](https://google.com/search?q=Evo+exhibits) | [donutleaks](https://ransomwatch.telemetry.ltd/#/profiles?id=donutleaks) |
-| 2022-09-27 | [`Southwell, Inc.`](https://google.com/search?q=Southwell%2C+Inc.) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
