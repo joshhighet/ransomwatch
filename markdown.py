@@ -127,6 +127,7 @@ def sidebar():
     writeline(sidebar, '- [group profiles](profiles.md)')
     writeline(sidebar, '- [viz: jdl-84/ransomwatchviewer](https://jdl-84.github.io/RansomWatchViewer/)')
     writeline(sidebar, '- [viz: privtools/ransomposts](https://privtools.github.io/ransomposts/)')
+    writeline(sidebar, '- [alt: ransomlook/ransomlook](https://www.ransomlook.io)')
     stdlog('sidebar generated')
 
 def statspage():
