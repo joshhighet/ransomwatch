@@ -74,8 +74,8 @@ def appender(post_title, group_name):
             todiscord(newpost['post_title'], newpost['group_name'], os.environ.get('DISCORD_WEBHOOK_2'))
         if os.environ.get('TWITTER_ACCESS_TOKEN') is not None:
             totwitter(newpost['post_title'], newpost['group_name'])
-        if os.environ.get('MS_TEAMS_WEBHOOK') is not None:
-            toteams(newpost['post_title'], newpost['group_name'])
+        #if os.environ.get('MS_TEAMS_WEBHOOK') is not None:
+        #    toteams(newpost['post_title'], newpost['group_name'])
 
 '''
 all parsers here are shell - mix of grep/sed/awk & perl - runshellcmd is a wrapper for subprocess.run
