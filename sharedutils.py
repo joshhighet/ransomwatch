@@ -456,7 +456,7 @@ def toteams(post_title, group):
     '''
     sends a post to a miCroSoFt tEaMs webhook defined as an envar
     '''
-    dbglog('sharedutils: ' + 'sending to microsoft teams webhook')
+    stdlog('sharedutils: ' + 'sending to microsoft teams webhook')
     # avoid json decode errors by escaping the title if contains \ or "
     post_title = post_title.replace('\\', '\\\\').replace('"', '\\"')
     teams_data = '''
