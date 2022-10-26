@@ -6,12 +6,12 @@
     <link rel="shortcut icon" href="favicon.ico" type="image/x-icon"/>
     <title>BB Auction</title>
     <link href="/dist/font-awesome.min.css" rel="stylesheet">
-    <link href="/dist/css/bootstrap.css?v=1666780755" rel="stylesheet">
-    <link href="/blog.css?v=1666780755" rel="stylesheet">
+    <link href="/dist/css/bootstrap.css?v=1666824421" rel="stylesheet">
+    <link href="/blog.css?v=1666824421" rel="stylesheet">
     <script src="/assets/js/jquery-2.1.3.min.js"></script>
     <script src="/assets/js/vendor/popper.min.js"></script>
     <script src="/dist/js/bootstrap.min.js"></script>
-    <script src="/script.js?v=1666780755"></script>
+    <script src="/script.js?v=1666824421"></script>
     <style>
 
     </style>
@@ -144,6 +144,363 @@
 
         
             <script>
+                var proof_img_block16 = '<img src="Array" alt="" class="proof">';
+
+                function ShowProof16() {
+                    if (showed16 === 0) {
+                        showed16 = 1;
+                        $("#target_16 .proof_block").html(proof_img_block16).slideDown(400);
+                    } else {
+                        showed16 = 0;
+                        $("#target_16 .proof_block").html(' ').slideUp(400);
+                    }
+                }
+
+                function ShowDButtons16() {
+                    if (showed_d_buttons16 === 0) {
+                        showed_d_buttons16 = 1;
+                        $("#target_16 .d_buttons").slideDown(400);
+                    } else {
+                        showed_d_buttons16 = 0;
+                        $("#target_16 .d_buttons").slideUp(400);
+                    }
+                }
+
+                var showed16 = 0;
+                var showed_d_buttons16 = 0;
+                var HAPPYSEC16 = -36510421;
+                var t_sec16 = HAPPYSEC16;
+                var time16;
+                var intervalId16= 0;
+
+                $(document).ready(function () {
+                    $("#target_16 .d_buttons a.btn3").addClass("red_button");
+                    intervalId16 = setInterval(function () {
+                        timerDecrement16();
+                    }, 1000);
+                });
+
+                function timerDecrement16() {
+                    time16 = $('#target_16 span.timer');
+
+                    if (t_sec16 < 1) {
+                        t_sec16 = 0;
+                        newTime = t_sec16 ;
+                    } else {
+                        newTime = t_sec16 - 1;
+                    }
+
+                    t_sec16 = newTime;
+
+                    var t_min = t_sec16 / 60;
+                    var t_hour = t_min / 60;
+                    var t_day =
+                        '<b>' + Math.floor(t_hour / 24) + '</b>d ' +
+                        '<b>' + Math.floor(t_hour % 24) + '</b>h ' +
+                        '<b>' + Math.floor(t_min % 60) + '</b>m ' +
+                        '<b>' + Math.floor(t_sec16 % 60) + '</b>s ';
+
+                    time16.html(t_day);
+
+                    if (newTime === 0 && HAPPYSEC16 > 0 || newTime < 1) {
+                        time16.html('');
+                        $("#target_16 .lock").attr("src", "assets/img/lockopen.png");
+                        $("#target_16 .clock").attr("src", "assets/img/clockred.png").addClass("clockred");
+                        $("#target_16 .btn2").addClass("redbg");
+                        $("#target_16 .arrow-8").addClass("r8");
+                        $("#target_16 .perc").html("100%");
+                        clearInterval(intervalId16);
+                        //GetDownloadLink(//, $("#target_// .by_button"));
+                    }
+                }
+
+            </script>
+
+            <div class="col-md-12 col-sm-12 bgt1 " id="target_16" style="display: none">
+                <table class="table table-bordered table-content ">
+                    <tr style=";" class="content-fone">
+                        <td class="txt td-1">
+                            <div style="border-bottom: 1px solid silver; border-left: 1px solid silver; border-right: 1px solid silver; margin-top: 20px; width: 40%; margin-left: auto; margin-right: auto; opacity: 0.1;"></div>
+                            <h1 class="h_font">Municipio de Chihuahua</h1>
+
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <input type="text" class="inp-copy copy_input_16" value="">
+                            <p class="lead-text5">The Municipality of Chihuahua is a local government in the northern Mexican state of Chihuahua that looks to serve the local community                            </p>
+
+
+                            <div class="container1">
+                                <div class="row">
+                                    <div class="col-xs-12 col-md-4"><a data-title="URL" class=" globe glob fa fa-globe"  href="https://www.municipiochihuahua.gob.mx/"  target="_blank"></a></div>
+                                    <div style="text-align: center" class="col-xs-12 col-md-4"><i data-chat="61141FCA047691D0E47CFD84717B59D3BEDF822442B5E907BE147FD6B8A11B723A48DF7FCA47"  onclick="copy16('61141FCA047691D0E47CFD84717B59D3BEDF822442B5E907BE147FD6B8A11B723A48DF7FCA47',16,'tox-chat')" data-title="TOX support" class="btc-copy comm fa fa-commenting"></i><span class="copied"></span></div>
+                                    <div  class="col-xs-12 col-md-4"><i style="float: right" class="mon money fa fa-money" data-title="DATA"  onclick="$('.desc_16').modal('show') "></i></div>
+                                </div>
+                            </div>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+            <script>
+                function copy16(text,target_id,block){
+                    selector = ".copy_input_16";
+                    $(selector).val(text);
+                    $(selector).focus();
+                    $(selector).select();
+                    document.execCommand("copy");
+                    old_text = "";
+                    copied_text = "Copied!";
+                    $("#target_"+target_id+" ."+block+" .copied").html(copied_text);
+                    setTimeout(function () {
+                        $("#target_"+target_id+" ."+block+" .copied").html(old_text);
+                    },1000)
+                }
+            </script>
+            <div class="modal desc_16" tabindex="-1" id="target_16">
+                <div class="modal-dialog  ">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <div class="modal-title">Municipio de Chihuahua Proofs Block</div>
+                        </div>
+                        <div class="modal-body">
+                            <div class="col-md-12 px-0">
+                                <div class="proof_block text-center"></div>
+                                <div>
+                                    <div class="blocks"><div class="gallery" >
+                                            <a  class="photo proof_images proof_images_16"> <div class="gallery">
+                                            <a rel="gallery" class="photo gost"><img class="img-l" src="proofs/16/proof1.png"></a>
+                                        </div>  <div class="gallery">
+                                            <a rel="gallery" class="photo gost"><img class="img-l" src="proofs/16/proof2.png"></a>
+                                        </div>  <div class="gallery">
+                                            <a rel="gallery" class="photo gost"><img class="img-l" src="proofs/16/proof3.png"></a>
+                                        </div>  <div class="gallery">
+                                            <a rel="gallery" class="photo gost"><img class="img-l" src="proofs/16/proof4.png"></a>
+                                        </div>  <div class="gallery">
+                                            <a rel="gallery" class="photo gost"><img class="img-l" src="proofs/16/proof5.png"></a>
+                                        </div> </a>
+                                        </div></div>
+                                    <div class="container2">
+                                        <input type="text" class="inp-copy copy_input_16" value="">
+                                        <div class="info-text">Company documents, deletion/purchase</div>
+                                        <div class="linear2"></div>
+                                        <div class="tox-text">If you are interested to purchase the data or requesting to remove it, Please connect us through our Email/TOX.</div>
+                                            <div style="text-align: center; margin-top: 96px;
+position: absolute; left: 130px; " class="col-xs-12 col-md-4"><i data-chat="61141FCA047691D0E47CFD84717B59D3BEDF822442B5E907BE147FD6B8A11B723A48DF7FCA47"  onclick="copy16('61141FCA047691D0E47CFD84717B59D3BEDF822442B5E907BE147FD6B8A11B723A48DF7FCA47',16,'tox-chat')" data-title="Copy TOX support" class="btc-copy comms fa fa-commenting"></i><span class="copied"></span></div>
+                                            <div style="text-align: center; ;
+position: absolute;" class="col-xs-12 col-md-4"><i data-chat="BlackByteSupp0rt@onionmail.org"  onclick="copy16('BlackByteSupp0rt@onionmail.org',16,'copysupport')" data-title="Copy E-MAIL support" class="support-mail-copy mail-support fa fa-envelope"></i><span class="copied"></span></div>
+                                            <div class="row ends">
+                                            <div class="col-sm-4 ">
+                                                <a class=""><button class="custom-btn btn-12"><span>DELETE DATA</span><span>600000$</span></button></a>
+                                            </div>
+                                            <div class="col-sm-4 ">
+                                                <a href="https://anonfiles.com/te9cr3E2y9/Archive18_zip" target="_blank"><button class="custom-btn btn-12"><span class="proofdata">DOWNLOAD PROOF DATA</span><span>DATA</span></button></a>
+                                            </div>
+                                            <div class="col-sm-4 ">
+                                                <a id="myBtn1" 16><button class="custom-btn btn-12"><span>BUY DATA</span><span>500000$</span></button></a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div id="myModal1" class="modal1" style="background-color: rgba(0, 0, 0, 0.84)" 16>
+                    <div class="modal1-content">
+                        <div class="modal1-header">
+                            <span class="close">&times;</span>
+                            <h2>Information</h2>
+                            <div class="linear2"></div>
+                        </div>
+                        <div class="modal1-body">
+                            <div></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            
+            <script>
+                var proof_img_block15 = '<img src="Array" alt="" class="proof">';
+
+                function ShowProof15() {
+                    if (showed15 === 0) {
+                        showed15 = 1;
+                        $("#target_15 .proof_block").html(proof_img_block15).slideDown(400);
+                    } else {
+                        showed15 = 0;
+                        $("#target_15 .proof_block").html(' ').slideUp(400);
+                    }
+                }
+
+                function ShowDButtons15() {
+                    if (showed_d_buttons15 === 0) {
+                        showed_d_buttons15 = 1;
+                        $("#target_15 .d_buttons").slideDown(400);
+                    } else {
+                        showed_d_buttons15 = 0;
+                        $("#target_15 .d_buttons").slideUp(400);
+                    }
+                }
+
+                var showed15 = 0;
+                var showed_d_buttons15 = 0;
+                var HAPPYSEC15 = -36510421;
+                var t_sec15 = HAPPYSEC15;
+                var time15;
+                var intervalId15= 0;
+
+                $(document).ready(function () {
+                    $("#target_15 .d_buttons a.btn3").addClass("red_button");
+                    intervalId15 = setInterval(function () {
+                        timerDecrement15();
+                    }, 1000);
+                });
+
+                function timerDecrement15() {
+                    time15 = $('#target_15 span.timer');
+
+                    if (t_sec15 < 1) {
+                        t_sec15 = 0;
+                        newTime = t_sec15 ;
+                    } else {
+                        newTime = t_sec15 - 1;
+                    }
+
+                    t_sec15 = newTime;
+
+                    var t_min = t_sec15 / 60;
+                    var t_hour = t_min / 60;
+                    var t_day =
+                        '<b>' + Math.floor(t_hour / 24) + '</b>d ' +
+                        '<b>' + Math.floor(t_hour % 24) + '</b>h ' +
+                        '<b>' + Math.floor(t_min % 60) + '</b>m ' +
+                        '<b>' + Math.floor(t_sec15 % 60) + '</b>s ';
+
+                    time15.html(t_day);
+
+                    if (newTime === 0 && HAPPYSEC15 > 0 || newTime < 1) {
+                        time15.html('');
+                        $("#target_15 .lock").attr("src", "assets/img/lockopen.png");
+                        $("#target_15 .clock").attr("src", "assets/img/clockred.png").addClass("clockred");
+                        $("#target_15 .btn2").addClass("redbg");
+                        $("#target_15 .arrow-8").addClass("r8");
+                        $("#target_15 .perc").html("100%");
+                        clearInterval(intervalId15);
+                        //GetDownloadLink(//, $("#target_// .by_button"));
+                    }
+                }
+
+            </script>
+
+            <div class="col-md-12 col-sm-12 bgt1 " id="target_15" style="display: none">
+                <table class="table table-bordered table-content ">
+                    <tr style=";" class="content-fone">
+                        <td class="txt td-1">
+                            <div style="border-bottom: 1px solid silver; border-left: 1px solid silver; border-right: 1px solid silver; margin-top: 20px; width: 40%; margin-left: auto; margin-right: auto; opacity: 0.1;"></div>
+                            <h1 class="h_font">CCLint</h1>
+
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <input type="text" class="inp-copy copy_input_15" value="">
+                            <p class="lead-text5">Welcome to CCL. Our reputation has been built by providing the ideal solution for every project we undertake, using specialised engineering techniques, wherever we are in the world.
+Backed by over 80 years of experience, and sites on five continents, our expertise has helped create iconic construction projects across the globe. CCL’s customers know they can trust our experts to deliver innovation and quality, with attention to detail and an eye for the bigger picture.                            </p>
+
+
+                            <div class="container1">
+                                <div class="row">
+                                    <div class="col-xs-12 col-md-4"><a data-title="URL" class=" globe glob fa fa-globe"  href="https://www.cclint.com/"  target="_blank"></a></div>
+                                    <div style="text-align: center" class="col-xs-12 col-md-4"><i data-chat="61141FCA047691D0E47CFD84717B59D3BEDF822442B5E907BE147FD6B8A11B723A48DF7FCA47"  onclick="copy15('61141FCA047691D0E47CFD84717B59D3BEDF822442B5E907BE147FD6B8A11B723A48DF7FCA47',15,'tox-chat')" data-title="TOX support" class="btc-copy comm fa fa-commenting"></i><span class="copied"></span></div>
+                                    <div  class="col-xs-12 col-md-4"><i style="float: right" class="mon money fa fa-money" data-title="DATA"  onclick="$('.desc_15').modal('show') "></i></div>
+                                </div>
+                            </div>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+            <script>
+                function copy15(text,target_id,block){
+                    selector = ".copy_input_15";
+                    $(selector).val(text);
+                    $(selector).focus();
+                    $(selector).select();
+                    document.execCommand("copy");
+                    old_text = "";
+                    copied_text = "Copied!";
+                    $("#target_"+target_id+" ."+block+" .copied").html(copied_text);
+                    setTimeout(function () {
+                        $("#target_"+target_id+" ."+block+" .copied").html(old_text);
+                    },1000)
+                }
+            </script>
+            <div class="modal desc_15" tabindex="-1" id="target_15">
+                <div class="modal-dialog  ">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <div class="modal-title">CCLint Proofs Block</div>
+                        </div>
+                        <div class="modal-body">
+                            <div class="col-md-12 px-0">
+                                <div class="proof_block text-center"></div>
+                                <div>
+                                    <div class="blocks"><div class="gallery" >
+                                            <a  class="photo proof_images proof_images_15"> <div class="gallery">
+                                            <a rel="gallery" class="photo gost"><img class="img-l" src="proofs/15/proof1.png"></a>
+                                        </div>  <div class="gallery">
+                                            <a rel="gallery" class="photo gost"><img class="img-l" src="proofs/15/proof2.png"></a>
+                                        </div>  <div class="gallery">
+                                            <a rel="gallery" class="photo gost"><img class="img-l" src="proofs/15/proof3.png"></a>
+                                        </div>  <div class="gallery">
+                                            <a rel="gallery" class="photo gost"><img class="img-l" src="proofs/15/proof4.png"></a>
+                                        </div>  <div class="gallery">
+                                            <a rel="gallery" class="photo gost"><img class="img-l" src="proofs/15/proof5.png"></a>
+                                        </div> </a>
+                                        </div></div>
+                                    <div class="container2">
+                                        <input type="text" class="inp-copy copy_input_15" value="">
+                                        <div class="info-text">Company documents, deletion/purchase</div>
+                                        <div class="linear2"></div>
+                                        <div class="tox-text">If you are interested to purchase the data or requesting to remove it, Please connect us through our Email/TOX.</div>
+                                            <div style="text-align: center; margin-top: 96px;
+position: absolute; left: 130px; " class="col-xs-12 col-md-4"><i data-chat="61141FCA047691D0E47CFD84717B59D3BEDF822442B5E907BE147FD6B8A11B723A48DF7FCA47"  onclick="copy15('61141FCA047691D0E47CFD84717B59D3BEDF822442B5E907BE147FD6B8A11B723A48DF7FCA47',15,'tox-chat')" data-title="Copy TOX support" class="btc-copy comms fa fa-commenting"></i><span class="copied"></span></div>
+                                            <div style="text-align: center; ;
+position: absolute;" class="col-xs-12 col-md-4"><i data-chat="BlackByteSupp0rt@onionmail.org"  onclick="copy15('BlackByteSupp0rt@onionmail.org',15,'copysupport')" data-title="Copy E-MAIL support" class="support-mail-copy mail-support fa fa-envelope"></i><span class="copied"></span></div>
+                                            <div class="row ends">
+                                            <div class="col-sm-4 ">
+                                                <a class=""><button class="custom-btn btn-12"><span>DELETE DATA</span><span>120000$</span></button></a>
+                                            </div>
+                                            <div class="col-sm-4 ">
+                                                <a href="https://anonfiles.com/b0HfrbE5y4/ccl-eng_zip" target="_blank"><button class="custom-btn btn-12"><span class="proofdata">DOWNLOAD PROOF DATA</span><span>DATA</span></button></a>
+                                            </div>
+                                            <div class="col-sm-4 ">
+                                                <a id="myBtn1" 15><button class="custom-btn btn-12"><span>BUY DATA</span><span>100000$</span></button></a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div id="myModal1" class="modal1" style="background-color: rgba(0, 0, 0, 0.84)" 15>
+                    <div class="modal1-content">
+                        <div class="modal1-header">
+                            <span class="close">&times;</span>
+                            <h2>Information</h2>
+                            <div class="linear2"></div>
+                        </div>
+                        <div class="modal1-body">
+                            <div></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            
+            <script>
                 var proof_img_block14 = '<img src="Array" alt="" class="proof">';
 
                 function ShowProof14() {
@@ -168,7 +525,7 @@
 
                 var showed14 = 0;
                 var showed_d_buttons14 = 0;
-                var HAPPYSEC14 = -36466755;
+                var HAPPYSEC14 = -36510421;
                 var t_sec14 = HAPPYSEC14;
                 var time14;
                 var intervalId14= 0;
@@ -348,7 +705,7 @@ position: absolute;" class="col-xs-12 col-md-4"><i data-chat="BlackByteSupp0rt@o
 
                 var showed13 = 0;
                 var showed_d_buttons13 = 0;
-                var HAPPYSEC13 = -36466755;
+                var HAPPYSEC13 = -36510421;
                 var t_sec13 = HAPPYSEC13;
                 var time13;
                 var intervalId13= 0;
@@ -526,7 +883,7 @@ position: absolute;" class="col-xs-12 col-md-4"><i data-chat="BlackByteSupp0rt@o
 
                 var showed12 = 0;
                 var showed_d_buttons12 = 0;
-                var HAPPYSEC12 = -36466755;
+                var HAPPYSEC12 = -36510421;
                 var t_sec12 = HAPPYSEC12;
                 var time12;
                 var intervalId12= 0;
@@ -702,7 +1059,7 @@ position: absolute;" class="col-xs-12 col-md-4"><i data-chat="BlackByteSupp0rt@o
 
                 var showed11 = 0;
                 var showed_d_buttons11 = 0;
-                var HAPPYSEC11 = -36466755;
+                var HAPPYSEC11 = -36510421;
                 var t_sec11 = HAPPYSEC11;
                 var time11;
                 var intervalId11= 0;
@@ -878,7 +1235,7 @@ position: absolute;" class="col-xs-12 col-md-4"><i data-chat="BlackByteSupp0rt@o
 
                 var showed10 = 0;
                 var showed_d_buttons10 = 0;
-                var HAPPYSEC10 = -36466755;
+                var HAPPYSEC10 = -36510421;
                 var t_sec10 = HAPPYSEC10;
                 var time10;
                 var intervalId10= 0;
@@ -1061,7 +1418,7 @@ position: absolute;" class="col-xs-12 col-md-4"><i data-chat="BlackByteSupp0rt@o
 
                 var showed9 = 0;
                 var showed_d_buttons9 = 0;
-                var HAPPYSEC9 = -36466755;
+                var HAPPYSEC9 = -36510421;
                 var t_sec9 = HAPPYSEC9;
                 var time9;
                 var intervalId9= 0;
@@ -1237,7 +1594,7 @@ position: absolute;" class="col-xs-12 col-md-4"><i data-chat="BlackByteSupp0rt@o
 
                 var showed8 = 0;
                 var showed_d_buttons8 = 0;
-                var HAPPYSEC8 = -36466755;
+                var HAPPYSEC8 = -36510421;
                 var t_sec8 = HAPPYSEC8;
                 var time8;
                 var intervalId8= 0;
@@ -1416,7 +1773,7 @@ position: absolute;" class="col-xs-12 col-md-4"><i data-chat="BlackByteSupp0rt@o
 
                 var showed7 = 0;
                 var showed_d_buttons7 = 0;
-                var HAPPYSEC7 = -36466755;
+                var HAPPYSEC7 = -36510421;
                 var t_sec7 = HAPPYSEC7;
                 var time7;
                 var intervalId7= 0;
@@ -1595,7 +1952,7 @@ position: absolute;" class="col-xs-12 col-md-4"><i data-chat="BlackByteSupp0rt@o
 
                 var showed6 = 0;
                 var showed_d_buttons6 = 0;
-                var HAPPYSEC6 = -36466755;
+                var HAPPYSEC6 = -36510421;
                 var t_sec6 = HAPPYSEC6;
                 var time6;
                 var intervalId6= 0;
@@ -1776,7 +2133,7 @@ position: absolute;" class="col-xs-12 col-md-4"><i data-chat="BlackByteSupp0rt@o
 
                 var showed5 = 0;
                 var showed_d_buttons5 = 0;
-                var HAPPYSEC5 = -36466755;
+                var HAPPYSEC5 = -36510421;
                 var t_sec5 = HAPPYSEC5;
                 var time5;
                 var intervalId5= 0;
@@ -1957,7 +2314,7 @@ position: absolute;" class="col-xs-12 col-md-4"><i data-chat="BlackByteSupp0rt@o
 
                 var showed4 = 0;
                 var showed_d_buttons4 = 0;
-                var HAPPYSEC4 = -36466755;
+                var HAPPYSEC4 = -36510421;
                 var t_sec4 = HAPPYSEC4;
                 var time4;
                 var intervalId4= 0;
@@ -2136,7 +2493,7 @@ position: absolute;" class="col-xs-12 col-md-4"><i data-chat="BlackByteSupp0rt@o
 
                 var showed3 = 0;
                 var showed_d_buttons3 = 0;
-                var HAPPYSEC3 = -36466755;
+                var HAPPYSEC3 = -36510421;
                 var t_sec3 = HAPPYSEC3;
                 var time3;
                 var intervalId3= 0;
