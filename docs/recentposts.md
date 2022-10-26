@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-10-26 | [`DURAVIT A.G. - Last Call`](https://google.com/search?q=DURAVIT+A.G.+-+Last+Call) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
 | 2022-10-26 | [`Associated Lighting Representatives`](https://google.com/search?q=Associated+Lighting+Representatives) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2022-10-26 | [`Essick Air Products`](https://google.com/search?q=Essick+Air+Products) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2022-10-25 | [`sskb.com.au`](https://google.com/search?q=sskb.com.au) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-10-01 | [`Almoayed ICT`](https://google.com/search?q=Almoayed+ICT) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
 | 2022-10-01 | [`Bombardier Recreational Products (BRP) - SOURCE CODES`](https://google.com/search?q=Bombardier+Recreational+Products+%28BRP%29+-+SOURCE+CODES) | [ransomexx](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomexx) |
 | 2022-10-01 | [`seaviewresortkhaolak.com`](https://google.com/search?q=seaviewresortkhaolak.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-09-30 | [`Los Angeles Unified School District`](https://google.com/search?q=Los+Angeles+Unified+School+District) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
