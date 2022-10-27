@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-10-27 | [`Stages Pediatric Care DataBase on Sale`](https://google.com/search?q=Stages+Pediatric+Care+DataBase+on+Sale) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2022-10-26 | [`CCLint`](https://google.com/search?q=CCLint) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
 | 2022-10-26 | [`Municipio de Chihuahua`](https://google.com/search?q=Municipio+de+Chihuahua) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
 | 2022-10-26 | [`DURAVIT A.G. - Last Call`](https://google.com/search?q=DURAVIT+A.G.+-+Last+Call) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-10-01 | [`MultiCare Home Health`](https://google.com/search?q=MultiCare+Home+Health) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2022-10-01 | [`Aesthetic Dermatology Associates`](https://google.com/search?q=Aesthetic+Dermatology+Associates) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2022-10-01 | [`Swiss American`](https://google.com/search?q=Swiss+American) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
-| 2022-10-01 | [`Almoayed ICT`](https://google.com/search?q=Almoayed+ICT) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
