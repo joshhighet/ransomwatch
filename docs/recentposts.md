@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-10-28 | [`Kujalleq Municipality`](https://google.com/search?q=Kujalleq+Municipality) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
+| 2022-10-28 | [`Rankam China Manufacturing`](https://google.com/search?q=Rankam+China+Manufacturing) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-10-28 | [`The Bishop of Hereford's Bluecoat School`](https://google.com/search?q=The+Bishop+of+Hereford%27s+Bluecoat+School) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2022-10-28 | [`SOUTH-STAFFS-WATER.CO.UK FILES PART9 - WATER\10.80.74.231\ithome$\ PUBLISHED`](https://google.com/search?q=SOUTH-STAFFS-WATER.CO.UK+FILES+PART9+-+WATER%5C10.80.74.231%5Cithome%24%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-10-28 | [`LOESCHGROUP.DE FILES PART2 - 192.168.101.34\D$\PrivateOrdner\ PUBLISHED`](https://google.com/search?q=LOESCHGROUP.DE+FILES+PART2+-+192.168.101.34%5CD%24%5CPrivateOrdner%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2022-10-04 | [`Sunflower Farms Distributors, Inc`](https://google.com/search?q=Sunflower+Farms+Distributors%2C+Inc) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2022-10-04 | [`Aarti Drugs Ltd`](https://google.com/search?q=Aarti+Drugs+Ltd) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2022-10-04 | [`Berg Kaprow Lewis`](https://google.com/search?q=Berg+Kaprow+Lewis) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2022-10-04 | [` Company, LLC`](https://google.com/search?q=+Company%2C+LLC) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2022-10-04 | [`derach`](https://google.com/search?q=derach) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
