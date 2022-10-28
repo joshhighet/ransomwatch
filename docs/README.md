@@ -1,10 +1,10 @@
 
 ## summary
-_october 27th, 2022_
+_october 28th, 2022_
 
-currently tracking `125` groups across `223` relays & mirrors - _`72` currently online_
+currently tracking `125` groups across `223` relays & mirrors - _`53` currently online_
 
-⏲ there have been `11` posts within the `last 24 hours`
+⏲ there have been `8` posts within the `last 24 hours`
 
 🦈 there have been `211` posts within the `month of october`
 
