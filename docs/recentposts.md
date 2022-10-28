@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-10-28 | [`AT&#038;T`](https://google.com/search?q=AT%26%23038%3BT) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2022-10-27 | [`DURAVIT A.G. - Announcement before publishing data`](https://google.com/search?q=DURAVIT+A.G.+-+Announcement+before+publishing+data) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
 | 2022-10-27 | [`rjyoung.com`](https://google.com/search?q=rjyoung.com) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-10-27 | [`Mdaemon Technologies`](https://google.com/search?q=Mdaemon+Technologies) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-10-04 | [`Gate Precast`](https://google.com/search?q=Gate+Precast) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2022-10-03 | [`AudioQuest Data Leaked`](https://google.com/search?q=AudioQuest+Data+Leaked) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
 | 2022-10-03 | [`Malayan Flour Mills Bhd. Data Leak`](https://google.com/search?q=Malayan+Flour+Mills+Bhd.+Data+Leak) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
-| 2022-10-02 | [`PENDULUM ASSOCIATES HACKED AND MORE THEN 2 TB SENSITIVE DATA LEAKED`](https://google.com/search?q=PENDULUM+ASSOCIATES+HACKED+AND+MORE+THEN+2+TB+SENSITIVE+DATA+LEAKED) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
