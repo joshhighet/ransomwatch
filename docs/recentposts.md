@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-10-29 | [`fvsra.org`](https://google.com/search?q=fvsra.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-10-29 | [`greenstamp.co.jp`](https://google.com/search?q=greenstamp.co.jp) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-10-28 | [`Kujalleq Municipality`](https://google.com/search?q=Kujalleq+Municipality) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2022-10-28 | [`Rankam China Manufacturing`](https://google.com/search?q=Rankam+China+Manufacturing) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-10-04 | [`Mayfield School`](https://google.com/search?q=Mayfield+School) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2022-10-04 | [`Peter Duffy Ltd`](https://google.com/search?q=Peter+Duffy+Ltd) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2022-10-04 | [`Sunflower Farms Distributors, Inc`](https://google.com/search?q=Sunflower+Farms+Distributors%2C+Inc) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2022-10-04 | [`Aarti Drugs Ltd`](https://google.com/search?q=Aarti+Drugs+Ltd) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
