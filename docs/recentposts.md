@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-10-30 | [`HENSOLDT France`](https://google.com/search?q=HENSOLDT+France) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
 | 2022-10-30 | [`will-b.jp`](https://google.com/search?q=will-b.jp) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-10-30 | [`santimuni.com`](https://google.com/search?q=santimuni.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-10-30 | [`happmobi.com.br`](https://google.com/search?q=happmobi.com.br) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-10-08 | [`lojastorra.com.br`](https://google.com/search?q=lojastorra.com.br) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2022-10-08 | [`www.emtelco.com.co`](https://google.com/search?q=www.emtelco.com.co) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2022-10-07 | [`Electricity company`](https://google.com/search?q=Electricity+company) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
-| 2022-10-07 | [`SPERONI S.P.A / Data Lamborghini, Ferrari, Fiat Group, VAG, Brembo`](https://google.com/search?q=SPERONI+S.P.A+%2F+Data+Lamborghini%2C+Ferrari%2C+Fiat+Group%2C+VAG%2C+Brembo) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
