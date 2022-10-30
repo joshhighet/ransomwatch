@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-10-30 | [`railway.gov.tw`](https://google.com/search?q=railway.gov.tw) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2022-10-30 | [`lincare.com`](https://google.com/search?q=lincare.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-10-29 | [`saurer.com`](https://google.com/search?q=saurer.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-10-29 | [`Network Communications Inc`](https://google.com/search?q=Network+Communications+Inc) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-10-29 | [`Kolas Law Firm`](https://google.com/search?q=Kolas+Law+Firm) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2022-10-05 | [`Avalon luxury transport company - Leaked`](https://google.com/search?q=Avalon+luxury+transport+company+-+Leaked) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
 | 2022-10-04 | [`Veritas Solicitors`](https://google.com/search?q=Veritas+Solicitors) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2022-10-04 | [` Meisenkothen`](https://google.com/search?q=+Meisenkothen) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2022-10-04 | [`Dorsey metrology`](https://google.com/search?q=Dorsey+metrology) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2022-10-04 | [`BMW of Sherman Oaks`](https://google.com/search?q=BMW+of+Sherman+Oaks) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
