@@ -4,6 +4,15 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-10-30 | [`zurifurniture.com`](https://google.com/search?q=zurifurniture.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2022-10-30 | [`sociedadbilbaina.com`](https://google.com/search?q=sociedadbilbaina.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2022-10-30 | [`seamlessglobalsolutions.com`](https://google.com/search?q=seamlessglobalsolutions.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2022-10-30 | [`macrotel.com.ar`](https://google.com/search?q=macrotel.com.ar) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2022-10-30 | [`hoosierco.com`](https://google.com/search?q=hoosierco.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2022-10-30 | [`gruposanford.com`](https://google.com/search?q=gruposanford.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2022-10-30 | [`close-upinternational.com.uy`](https://google.com/search?q=close-upinternational.com.uy) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2022-10-30 | [`cacula.com`](https://google.com/search?q=cacula.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2022-10-30 | [`byp-global.com`](https://google.com/search?q=byp-global.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-10-30 | [`railway.gov.tw`](https://google.com/search?q=railway.gov.tw) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-10-30 | [`lincare.com`](https://google.com/search?q=lincare.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-10-29 | [`saurer.com`](https://google.com/search?q=saurer.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -195,12 +204,3 @@ _last `200` posts_
 | 2022-10-06 | [`The UNITED GRINDING Group`](https://google.com/search?q=The+UNITED+GRINDING+Group) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2022-10-06 | [`MultiCare pt.2`](https://google.com/search?q=MultiCare+pt.2) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2022-10-06 | [`Rundle Eye Care`](https://google.com/search?q=Rundle+Eye+Care) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
-| 2022-10-05 | [`Empower Insurance`](https://google.com/search?q=Empower+Insurance) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
-| 2022-10-05 | [`Unicity`](https://google.com/search?q=Unicity) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
-| 2022-10-05 | [`Oil India Limited`](https://google.com/search?q=Oil+India+Limited) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
-| 2022-10-05 | [`apunipima.org.au`](https://google.com/search?q=apunipima.org.au) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-10-05 | [`Willemen Group`](https://google.com/search?q=Willemen+Group) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2022-10-05 | [`OPPLE Lighting`](https://google.com/search?q=OPPLE+Lighting) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
-| 2022-10-05 | [`Avalon luxury transport company - Leaked`](https://google.com/search?q=Avalon+luxury+transport+company+-+Leaked) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
-| 2022-10-04 | [`Veritas Solicitors`](https://google.com/search?q=Veritas+Solicitors) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2022-10-04 | [` Meisenkothen`](https://google.com/search?q=+Meisenkothen) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
