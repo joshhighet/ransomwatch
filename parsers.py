@@ -811,3 +811,14 @@ def qilin():
         errlog('qilin: ' + 'parsing fail')
     for post in posts:
         appender(post, 'qilin')
+
+def shaoleaks():
+    stdlog('parser: ' + 'shaoleaks')
+    parser = '''
+    grep '<h2 class="entry-title' source/shaoleaks-*.html | cut -d '>' -f 3 | cut -d '<' -f 1
+    '''
+    posts = runshellcmd(parser)
+    if len(posts) == 1:
+        errlog('shaoleaks: ' + 'parsing fail')
+    for post in posts:
+        appender(post, 'shaoleaks')
