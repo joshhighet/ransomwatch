@@ -4,6 +4,10 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-10-31 | [`Welcome to new customers!`](https://google.com/search?q=Welcome+to+new+customers%21) | [shaoleaks](https://ransomwatch.telemetry.ltd/#/profiles?id=shaoleaks) |
+| 2022-10-31 | [`Some of our customers was not payed to us for data decryption. So we publish some of his d`](https://google.com/search?q=Some+of+our+customers+was+not+payed+to+us+for+data+decryption.+So+we+publish+some+of+his+d) | [shaoleaks](https://ransomwatch.telemetry.ltd/#/profiles?id=shaoleaks) |
+| 2022-10-31 | [`Update for boxerproperty`](https://google.com/search?q=Update+for+boxerproperty) | [shaoleaks](https://ransomwatch.telemetry.ltd/#/profiles?id=shaoleaks) |
+| 2022-10-31 | [`Greetings to havi.com and tmsw.com`](https://google.com/search?q=Greetings+to+havi.com+and+tmsw.com) | [shaoleaks](https://ransomwatch.telemetry.ltd/#/profiles?id=shaoleaks) |
 | 2022-10-31 | [`Genesys Aerosystems`](https://google.com/search?q=Genesys+Aerosystems) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2022-10-31 | [`STECINT_2`](https://google.com/search?q=STECINT_2) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2022-10-31 | [`CADEPLOY`](https://google.com/search?q=CADEPLOY) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
@@ -200,7 +204,3 @@ _last `200` posts_
 | 2022-10-09 | [`Município De Loures`](https://google.com/search?q=Munic%C3%ADpio+De+Loures) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
 | 2022-10-08 | [`Home Dynamix`](https://google.com/search?q=Home+Dynamix) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-10-08 | [`Deutsche Saatveredelung AG`](https://google.com/search?q=Deutsche+Saatveredelung+AG) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2022-10-08 | [`Notos Com`](https://google.com/search?q=Notos+Com) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2022-10-08 | [`dialog.com.au`](https://google.com/search?q=dialog.com.au) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
-| 2022-10-08 | [`scinopharm.com`](https://google.com/search?q=scinopharm.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
-| 2022-10-08 | [`robertbernard.com`](https://google.com/search?q=robertbernard.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
