@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-11-01 | [`fiscosaudepe.com.br`](https://google.com/search?q=fiscosaudepe.com.br) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2022-11-01 | [`Midland Cogeneration Venture, Michigan`](https://google.com/search?q=Midland+Cogeneration+Venture%2C+Michigan) | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
 | 2022-10-31 | [`Welcome to new customers!`](https://google.com/search?q=Welcome+to+new+customers%21) | [shaoleaks](https://ransomwatch.telemetry.ltd/#/profiles?id=shaoleaks) |
 | 2022-10-31 | [`Some of our customers was not payed to us for data decryption. So we publish some of his d`](https://google.com/search?q=Some+of+our+customers+was+not+payed+to+us+for+data+decryption.+So+we+publish+some+of+his+d) | [shaoleaks](https://ransomwatch.telemetry.ltd/#/profiles?id=shaoleaks) |
 | 2022-10-31 | [`Update for boxerproperty`](https://google.com/search?q=Update+for+boxerproperty) | [shaoleaks](https://ransomwatch.telemetry.ltd/#/profiles?id=shaoleaks) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2022-10-09 | [`buydps.com`](https://google.com/search?q=buydps.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-10-09 | [`alliedusa.com`](https://google.com/search?q=alliedusa.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-10-09 | [`Município De Loures`](https://google.com/search?q=Munic%C3%ADpio+De+Loures) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
-| 2022-10-08 | [`Home Dynamix`](https://google.com/search?q=Home+Dynamix) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2022-10-08 | [`Deutsche Saatveredelung AG`](https://google.com/search?q=Deutsche+Saatveredelung+AG) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
