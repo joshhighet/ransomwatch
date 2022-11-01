@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-11-01 | [`YMCA of Metropolitan Washington`](https://google.com/search?q=YMCA+of+Metropolitan+Washington) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
+| 2022-11-01 | [`Unidad Medica Angloamericana`](https://google.com/search?q=Unidad+Medica+Angloamericana) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
+| 2022-11-01 | [`Rooks Heath School`](https://google.com/search?q=Rooks+Heath+School) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2022-11-01 | [`fiscosaudepe.com.br`](https://google.com/search?q=fiscosaudepe.com.br) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-11-01 | [`Midland Cogeneration Venture, Michigan`](https://google.com/search?q=Midland+Cogeneration+Venture%2C+Michigan) | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
 | 2022-10-31 | [`Welcome to new customers!`](https://google.com/search?q=Welcome+to+new+customers%21) | [shaoleaks](https://ransomwatch.telemetry.ltd/#/profiles?id=shaoleaks) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2022-10-09 | [`securityalliancegroup.com`](https://google.com/search?q=securityalliancegroup.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-10-09 | [`cedemo.com`](https://google.com/search?q=cedemo.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-10-09 | [`dragages-ports.fr`](https://google.com/search?q=dragages-ports.fr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-10-09 | [`buydps.com`](https://google.com/search?q=buydps.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-10-09 | [`alliedusa.com`](https://google.com/search?q=alliedusa.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-10-09 | [`Município De Loures`](https://google.com/search?q=Munic%C3%ADpio+De+Loures) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
