@@ -4,6 +4,17 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-11-02 | [`Saint Jean Industries  - MORE THEN 1.5 TB DATA LEAKED`](https://google.com/search?q=Saint+Jean+Industries++-+MORE+THEN+1.5+TB+DATA+LEAKED) | [lv](https://ransomwatch.telemetry.ltd/#/profiles?id=lv) |
+| 2022-11-02 | [`AWESOME-DENTAL.COM - HACKED AND MORE THEN 100GB LEAKED`](https://google.com/search?q=AWESOME-DENTAL.COM+-+HACKED+AND+MORE+THEN+100GB+LEAKED) | [lv](https://ransomwatch.telemetry.ltd/#/profiles?id=lv) |
+| 2022-11-02 | [`WICKERSHAMCONSTRUCTION.COM - HACKED AND MORE THEN 1000GB DATA LEAKED!`](https://google.com/search?q=WICKERSHAMCONSTRUCTION.COM+-+HACKED+AND+MORE+THEN+1000GB+DATA+LEAKED%21) | [lv](https://ransomwatch.telemetry.ltd/#/profiles?id=lv) |
+| 2022-11-02 | [`PARAMOUNT ENTERPRISE INTERNATIONAL HACKED AND MORE THEN 1.5 TB DATA LEAKED`](https://google.com/search?q=PARAMOUNT+ENTERPRISE+INTERNATIONAL+HACKED+AND+MORE+THEN+1.5+TB+DATA+LEAKED) | [lv](https://ransomwatch.telemetry.ltd/#/profiles?id=lv) |
+| 2022-11-02 | [`THEHURSTGROUP.CO.UK - HACKED AND MORE THEN 2000GB SENSITIVE DATA LEAKED`](https://google.com/search?q=THEHURSTGROUP.CO.UK+-+HACKED+AND+MORE+THEN+2000GB+SENSITIVE+DATA+LEAKED) | [lv](https://ransomwatch.telemetry.ltd/#/profiles?id=lv) |
+| 2022-11-02 | [`ROUGIER HACKED. 1 TB SENSITIVE DATA LEAKED`](https://google.com/search?q=ROUGIER+HACKED.+1+TB+SENSITIVE+DATA+LEAKED) | [lv](https://ransomwatch.telemetry.ltd/#/profiles?id=lv) |
+| 2022-11-02 | [`GRUPO SIFU HACKED. MORE THEN 2TB SENSETIVE DATA LEAKED AND READY FOR PUBLICATION`](https://google.com/search?q=GRUPO+SIFU+HACKED.+MORE+THEN+2TB+SENSETIVE+DATA+LEAKED+AND+READY+FOR+PUBLICATION) | [lv](https://ransomwatch.telemetry.ltd/#/profiles?id=lv) |
+| 2022-11-02 | [`SUBCARN WAS HACKED AND OVER 200 GB OF SENSETIVE DATA WAS STOLEN`](https://google.com/search?q=SUBCARN+WAS+HACKED+AND+OVER+200+GB+OF+SENSETIVE+DATA+WAS+STOLEN) | [lv](https://ransomwatch.telemetry.ltd/#/profiles?id=lv) |
+| 2022-11-02 | [`KINETIC.PH WAS HACKED. 200 GB ENGINEERING AND CONFIDENTIAL DATA LEAKED`](https://google.com/search?q=KINETIC.PH+WAS+HACKED.+200+GB+ENGINEERING+AND+CONFIDENTIAL+DATA+LEAKED) | [lv](https://ransomwatch.telemetry.ltd/#/profiles?id=lv) |
+| 2022-11-02 | [`SICOTEC WAS HACKED. 200GB SENSETIVE DATA LEAKED`](https://google.com/search?q=SICOTEC+WAS+HACKED.+200GB+SENSETIVE+DATA+LEAKED) | [lv](https://ransomwatch.telemetry.ltd/#/profiles?id=lv) |
+| 2022-11-02 | [`MCV Holding Company LLC `](https://google.com/search?q=MCV+Holding+Company+LLC+) | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
 | 2022-11-01 | [`Grandview, MO`](https://google.com/search?q=Grandview%2C+MO) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
 | 2022-11-01 | [`YMCA of Metropolitan Washington`](https://google.com/search?q=YMCA+of+Metropolitan+Washington) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2022-11-01 | [`Unidad Medica Angloamericana`](https://google.com/search?q=Unidad+Medica+Angloamericana) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
@@ -193,14 +204,3 @@ _last `200` posts_
 | 2022-10-11 | [`Stages Pediatric Care Update`](https://google.com/search?q=Stages+Pediatric+Care+Update) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2022-10-11 | [`DMCI Holding Leaked`](https://google.com/search?q=DMCI+Holding+Leaked) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
 | 2022-10-11 | [`Consorci Sanitari Integral &amp; Geseme`](https://google.com/search?q=Consorci+Sanitari+Integral+%26amp%3B+Geseme) | [ransomexx](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomexx) |
-| 2022-10-11 | [`The Hibbert Group`](https://google.com/search?q=The+Hibbert+Group) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2022-10-10 | [`TANG CAPITAL LEAKED`](https://google.com/search?q=TANG+CAPITAL+LEAKED) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
-| 2022-10-10 | [`tdwood.com`](https://google.com/search?q=tdwood.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-10-10 | [`Electricity company pt.2`](https://google.com/search?q=Electricity+company+pt.2) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
-| 2022-10-10 | [`jtchapman.com`](https://google.com/search?q=jtchapman.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-10-10 | [`polycube.co.th`](https://google.com/search?q=polycube.co.th) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-10-10 | [`dmcinet.com`](https://google.com/search?q=dmcinet.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-10-10 | [`Shiloh Industries`](https://google.com/search?q=Shiloh+Industries) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2022-10-10 | [`RS.GOV.BR/Government Brazil`](https://google.com/search?q=RS.GOV.BR%2FGovernment+Brazil) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
-| 2022-10-09 | [`securityalliancegroup.com`](https://google.com/search?q=securityalliancegroup.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-10-09 | [`cedemo.com`](https://google.com/search?q=cedemo.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
