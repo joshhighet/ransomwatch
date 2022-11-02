@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-11-02 | [`tekniplex.be`](https://google.com/search?q=tekniplex.be) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-11-02 | [`Bitron`](https://google.com/search?q=Bitron) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2022-11-02 | [`Saint Jean Industries  - MORE THEN 1.5 TB DATA LEAKED`](https://google.com/search?q=Saint+Jean+Industries++-+MORE+THEN+1.5+TB+DATA+LEAKED) | [lv](https://ransomwatch.telemetry.ltd/#/profiles?id=lv) |
 | 2022-11-02 | [`AWESOME-DENTAL.COM - HACKED AND MORE THEN 100GB LEAKED`](https://google.com/search?q=AWESOME-DENTAL.COM+-+HACKED+AND+MORE+THEN+100GB+LEAKED) | [lv](https://ransomwatch.telemetry.ltd/#/profiles?id=lv) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-10-12 | [`ADATA Technology`](https://google.com/search?q=ADATA+Technology) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2022-10-12 | [`Severn Glocon Group`](https://google.com/search?q=Severn+Glocon+Group) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2022-10-11 | [`Stages Pediatric Care Update`](https://google.com/search?q=Stages+Pediatric+Care+Update) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
-| 2022-10-11 | [`DMCI Holding Leaked`](https://google.com/search?q=DMCI+Holding+Leaked) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
