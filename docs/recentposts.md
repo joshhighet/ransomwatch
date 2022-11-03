@@ -4,6 +4,68 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-11-04 | [`https://nmhsi.org`](https://google.com/search?q=https%3A%2F%2Fnmhsi.org) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
+| 2022-11-04 | [`https://www.prioritypower.net`](https://google.com/search?q=https%3A%2F%2Fwww.prioritypower.net) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
+| 2022-11-04 | [`https://happysapiensdental.com`](https://google.com/search?q=https%3A%2F%2Fhappysapiensdental.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
+| 2022-11-04 | [`https://www.caminorealkitchens.com`](https://google.com/search?q=https%3A%2F%2Fwww.caminorealkitchens.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
+| 2022-11-04 | [`https://www.benbrooklibrary.org`](https://google.com/search?q=https%3A%2F%2Fwww.benbrooklibrary.org) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
+| 2022-11-04 | [`https://millermilling.com`](https://google.com/search?q=https%3A%2F%2Fmillermilling.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
+| 2022-11-04 | [`https://www.sunwell.com`](https://google.com/search?q=https%3A%2F%2Fwww.sunwell.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
+| 2022-11-04 | [`http://www.power-soft.com`](https://google.com/search?q=http%3A%2F%2Fwww.power-soft.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
+| 2022-11-04 | [`https://orthoexperts.com/`](https://google.com/search?q=https%3A%2F%2Forthoexperts.com%2F) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
+| 2022-11-04 | [`https://www.mmemed.com`](https://google.com/search?q=https%3A%2F%2Fwww.mmemed.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
+| 2022-11-04 | [`https://www.infocision.com`](https://google.com/search?q=https%3A%2F%2Fwww.infocision.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
+| 2022-11-04 | [`http://www.wiseyes.net`](https://google.com/search?q=http%3A%2F%2Fwww.wiseyes.net) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
+| 2022-11-04 | [`http://www.royalimaging.com`](https://google.com/search?q=http%3A%2F%2Fwww.royalimaging.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
+| 2022-11-04 | [`https://www.whitneyoilco.com`](https://google.com/search?q=https%3A%2F%2Fwww.whitneyoilco.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
+| 2022-11-04 | [`http://www.pandafunds.com`](https://google.com/search?q=http%3A%2F%2Fwww.pandafunds.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
+| 2022-11-04 | [`http://www.veroni.it`](https://google.com/search?q=http%3A%2F%2Fwww.veroni.it) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
+| 2022-11-04 | [`http://www.pressco.com`](https://google.com/search?q=http%3A%2F%2Fwww.pressco.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
+| 2022-11-04 | [`http://www.cymax.com`](https://google.com/search?q=http%3A%2F%2Fwww.cymax.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
+| 2022-11-04 | [`https://fishmans.ca`](https://google.com/search?q=https%3A%2F%2Ffishmans.ca) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
+| 2022-11-04 | [`https://quantumplastics.com`](https://google.com/search?q=https%3A%2F%2Fquantumplastics.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
+| 2022-11-04 | [`Canny Elevator Co Ltd`](https://google.com/search?q=Canny+Elevator+Co+Ltd) | [mallox](https://ransomwatch.telemetry.ltd/#/profiles?id=mallox) |
+| 2022-11-04 | [`API MDC Technical Research Centre Sdn Bhd`](https://google.com/search?q=API+MDC+Technical+Research+Centre+Sdn+Bhd) | [mallox](https://ransomwatch.telemetry.ltd/#/profiles?id=mallox) |
+| 2022-11-04 | [`Aerotech Precision Manufacturing`](https://google.com/search?q=Aerotech+Precision+Manufacturing) | [mallox](https://ransomwatch.telemetry.ltd/#/profiles?id=mallox) |
+| 2022-11-04 | [`CLUB DE TENIS LA PAZ`](https://google.com/search?q=CLUB+DE+TENIS+LA+PAZ) | [mallox](https://ransomwatch.telemetry.ltd/#/profiles?id=mallox) |
+| 2022-11-04 | [`Läderach`](https://google.com/search?q=L%C3%A4derach) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2022-11-04 | [`usairports`](https://google.com/search?q=usairports) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
+| 2022-11-04 | [`trant.co.uk`](https://google.com/search?q=trant.co.uk) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
+| 2022-11-04 | [`the_rose_executive_team`](https://google.com/search?q=the_rose_executive_team) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
+| 2022-11-04 | [`technicote`](https://google.com/search?q=technicote) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
+| 2022-11-04 | [`stm.com.tw`](https://google.com/search?q=stm.com.tw) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
+| 2022-11-04 | [`site-technology_`](https://google.com/search?q=site-technology_) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
+| 2022-11-04 | [`schultheis-ins`](https://google.com/search?q=schultheis-ins) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
+| 2022-11-04 | [`quercus`](https://google.com/search?q=quercus) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
+| 2022-11-04 | [`otrcapital`](https://google.com/search?q=otrcapital) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
+| 2022-11-04 | [`ohagin`](https://google.com/search?q=ohagin) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
+| 2022-11-04 | [`nwdusa`](https://google.com/search?q=nwdusa) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
+| 2022-11-04 | [`ncmutuallife2`](https://google.com/search?q=ncmutuallife2) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
+| 2022-11-04 | [`meriplex`](https://google.com/search?q=meriplex) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
+| 2022-11-04 | [`megaforce`](https://google.com/search?q=megaforce) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
+| 2022-11-04 | [`lycra`](https://google.com/search?q=lycra) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
+| 2022-11-04 | [`linkmfg`](https://google.com/search?q=linkmfg) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
+| 2022-11-04 | [`learning_resources`](https://google.com/search?q=learning_resources) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
+| 2022-11-04 | [`landofrost`](https://google.com/search?q=landofrost) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
+| 2022-11-04 | [`innovairre`](https://google.com/search?q=innovairre) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
+| 2022-11-04 | [`get-integrated`](https://google.com/search?q=get-integrated) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
+| 2022-11-04 | [`gascaribe`](https://google.com/search?q=gascaribe) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
+| 2022-11-04 | [`forefront_dermatology`](https://google.com/search?q=forefront_dermatology) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
+| 2022-11-04 | [`first_coast_logistics_services`](https://google.com/search?q=first_coast_logistics_services) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
+| 2022-11-04 | [`e.h._wachs_pipe_cutters`](https://google.com/search?q=e.h._wachs_pipe_cutters) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
+| 2022-11-04 | [`datamatics`](https://google.com/search?q=datamatics) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
+| 2022-11-04 | [`creditriskmonitor`](https://google.com/search?q=creditriskmonitor) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
+| 2022-11-04 | [`blackhawk`](https://google.com/search?q=blackhawk) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
+| 2022-11-04 | [`bfw`](https://google.com/search?q=bfw) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
+| 2022-11-04 | [`berding-weil`](https://google.com/search?q=berding-weil) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
+| 2022-11-04 | [`bcintlgroup.com`](https://google.com/search?q=bcintlgroup.com) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
+| 2022-11-04 | [`axley`](https://google.com/search?q=axley) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
+| 2022-11-04 | [`afts`](https://google.com/search?q=afts) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
+| 2022-11-04 | [`Ville-chaville`](https://google.com/search?q=Ville-chaville) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
+| 2022-11-04 | [`Skupstina`](https://google.com/search?q=Skupstina) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
+| 2022-11-04 | [`Murphyfamilyventures`](https://google.com/search?q=Murphyfamilyventures) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
+| 2022-11-04 | [`Ginspectionservices`](https://google.com/search?q=Ginspectionservices) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
+| 2022-11-04 | [`Dialogsas`](https://google.com/search?q=Dialogsas) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
 | 2022-11-03 | [`hettichbenelux.com`](https://google.com/search?q=hettichbenelux.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-11-03 | [`Landi Renzo`](https://google.com/search?q=Landi+Renzo) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
 | 2022-11-03 | [`continental.com`](https://google.com/search?q=continental.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -142,65 +204,3 @@ _last `200` posts_
 | 2022-10-19 | [`SPINNEYS.COM FILES PART9 - 10.20.50.10\F$\Retail_Finance\Private\SKN\COMMON\F2\2020\ PUBLI`](https://google.com/search?q=SPINNEYS.COM+FILES+PART9+-+10.20.50.10%5CF%24%5CRetail_Finance%5CPrivate%5CSKN%5CCOMMON%5CF2%5C2020%5C+PUBLI) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-10-19 | [`FTSUMNERK12.COM FILES PART17 - 192.168.3.206 PUBLISHED`](https://google.com/search?q=FTSUMNERK12.COM+FILES+PART17+-+192.168.3.206+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-10-19 | [`APPLEXUS.COM FILES PART9 - 192.168.5.8 PUBLISHED`](https://google.com/search?q=APPLEXUS.COM+FILES+PART9+-+192.168.5.8+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-10-19 | [`SOUTH-STAFFS-WATER.CO.UK FILES PART5 - water\10.80.74.23\data$\Echo\ PUBLISHED`](https://google.com/search?q=SOUTH-STAFFS-WATER.CO.UK+FILES+PART5+-+water%5C10.80.74.23%5Cdata%24%5CEcho%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-10-19 | [`PRICEDEX.COM FILES PART18 - 10.0.10.137\D$\Servers\ PUBLISHED`](https://google.com/search?q=PRICEDEX.COM+FILES+PART18+-+10.0.10.137%5CD%24%5CServers%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-10-19 | [`FERRAN-SERVICES.COM FILES PART18 - ferran.rserfozo, ferran.SQL01 PUBLISHED`](https://google.com/search?q=FERRAN-SERVICES.COM+FILES+PART18+-+ferran.rserfozo%2C+ferran.SQL01+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-10-19 | [`SPINNEYS.COM FILES PART10 - 10.20.50.10\F$\Retail_Finance\Private\SKN\COMMON\F2\ PUBLISHED`](https://google.com/search?q=SPINNEYS.COM+FILES+PART10+-+10.20.50.10%5CF%24%5CRetail_Finance%5CPrivate%5CSKN%5CCOMMON%5CF2%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-10-19 | [`APPLEXUS.COM FILES PART10 - 192.168.7.4 PUBLISHED`](https://google.com/search?q=APPLEXUS.COM+FILES+PART10+-+192.168.7.4+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-10-19 | [`SOUTH-STAFFS-WATER.CO.UK FILES PART6 - water\10.80.74.23\data$\Echo\ PUBLISHED`](https://google.com/search?q=SOUTH-STAFFS-WATER.CO.UK+FILES+PART6+-+water%5C10.80.74.23%5Cdata%24%5CEcho%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-10-19 | [`PRICEDEX.COM FILES PART19 - 10.0.10.137\D$\Servers\ PUBLISHED`](https://google.com/search?q=PRICEDEX.COM+FILES+PART19+-+10.0.10.137%5CD%24%5CServers%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-10-19 | [`MARCELSOLUTION.COM FILES PART1 - DC01, EPEREZ2 PUBLISHED`](https://google.com/search?q=MARCELSOLUTION.COM+FILES+PART1+-+DC01%2C+EPEREZ2+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-10-19 | [`SPINNEYS.COM FILES PART11 - 10.114.20.92 PUBLISHED`](https://google.com/search?q=SPINNEYS.COM+FILES+PART11+-+10.114.20.92+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-10-19 | [`SOUTH-STAFFS-WATER.CO.UK FILES PART7 - cwc PUBLISHED`](https://google.com/search?q=SOUTH-STAFFS-WATER.CO.UK+FILES+PART7+-+cwc+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-10-19 | [`PRICEDEX.COM FILES PART20 - 10.0.10.137\D$\Servers\ PUBLISHED`](https://google.com/search?q=PRICEDEX.COM+FILES+PART20+-+10.0.10.137%5CD%24%5CServers%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-10-19 | [`MARCELSOLUTION.COM  FILES PART2 - SRVTS7 PUBLISHED`](https://google.com/search?q=MARCELSOLUTION.COM++FILES+PART2+-+SRVTS7+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-10-19 | [`SPINNEYS.COM FILES PART12 - 202.0.0.131 PUBLISHED`](https://google.com/search?q=SPINNEYS.COM+FILES+PART12+-+202.0.0.131+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-10-19 | [`DIPF-INTERN - Leaked`](https://google.com/search?q=DIPF-INTERN+-+Leaked) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
-| 2022-10-19 | [`Wes-tec inc.`](https://google.com/search?q=Wes-tec+inc.) | [lorenz](https://ransomwatch.telemetry.ltd/#/profiles?id=lorenz) |
-| 2022-10-18 | [`Weidmuller`](https://google.com/search?q=Weidmuller) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
-| 2022-10-18 | [`Dollmar SpA - Leaked`](https://google.com/search?q=Dollmar+SpA+-+Leaked) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
-| 2022-10-18 | [`Rosenblatt Securities`](https://google.com/search?q=Rosenblatt+Securities) | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
-| 2022-10-18 | [`Unimed Belem`](https://google.com/search?q=Unimed+Belem) | [ransomexx](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomexx) |
-| 2022-10-18 | [`MultiCareInc pt.3`](https://google.com/search?q=MultiCareInc+pt.3) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
-| 2022-10-18 | [`MultiCareInc DataBase Leak`](https://google.com/search?q=MultiCareInc+DataBase+Leak) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
-| 2022-10-18 | [`Stages Pediatric Care new personal data`](https://google.com/search?q=Stages+Pediatric+Care+new+personal+data) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
-| 2022-10-17 | [`CSW GmbH`](https://google.com/search?q=CSW+GmbH) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2022-10-17 | [`kingfisherinsurance.com`](https://google.com/search?q=kingfisherinsurance.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-10-15 | [`tokaisolidtire.com`](https://google.com/search?q=tokaisolidtire.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-10-15 | [`oomiya.co.jp`](https://google.com/search?q=oomiya.co.jp) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-10-15 | [`kingteam.com.tw`](https://google.com/search?q=kingteam.com.tw) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-10-15 | [`groupesavoie.com`](https://google.com/search?q=groupesavoie.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-10-15 | [`eureka-puzzle.eu`](https://google.com/search?q=eureka-puzzle.eu) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-10-15 | [`eeckman.eu`](https://google.com/search?q=eeckman.eu) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-10-15 | [`centurion.com.pl`](https://google.com/search?q=centurion.com.pl) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-10-15 | [`castemark.tw`](https://google.com/search?q=castemark.tw) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-10-15 | [`Quantumce.com`](https://google.com/search?q=Quantumce.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-10-15 | [`Döhler HACKED! More then 800 GB sensitive data LEAKED!`](https://google.com/search?q=D%C3%B6hler+HACKED%21+More+then+800+GB+sensitive+data+LEAKED%21) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2022-10-15 | [`MultiCare DataBase Leak`](https://google.com/search?q=MultiCare+DataBase+Leak) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
-| 2022-10-14 | [`Electricity company / Air Defense Solutions company`](https://google.com/search?q=Electricity+company+%2F+Air+Defense+Solutions+company) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
-| 2022-10-14 | [`Jam Filled Entertainment`](https://google.com/search?q=Jam+Filled+Entertainment) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2022-10-14 | [`RecordTV`](https://google.com/search?q=RecordTV) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2022-10-14 | [`villajuris.be`](https://google.com/search?q=villajuris.be) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-10-14 | [`tamhash.co.il`](https://google.com/search?q=tamhash.co.il) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-10-14 | [`mk.co.th`](https://google.com/search?q=mk.co.th) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-10-14 | [`kilvington.vic.edu.au`](https://google.com/search?q=kilvington.vic.edu.au) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-10-14 | [`heronconstruction.co.nz`](https://google.com/search?q=heronconstruction.co.nz) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-10-14 | [`bankruptcypa.com`](https://google.com/search?q=bankruptcypa.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-10-13 | [`Electricity company pt.3`](https://google.com/search?q=Electricity+company+pt.3) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
-| 2022-10-13 | [`Fashion company ZIGI NY - Leaked`](https://google.com/search?q=Fashion+company+ZIGI+NY+-+Leaked) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
-| 2022-10-13 | [`nelsonautohaus.com`](https://google.com/search?q=nelsonautohaus.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-10-12 | [`MultiCare pt.3`](https://google.com/search?q=MultiCare+pt.3) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
-| 2022-10-12 | [`marktel.es`](https://google.com/search?q=marktel.es) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-10-12 | [`martel.es`](https://google.com/search?q=martel.es) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-10-12 | [`MERCOLA`](https://google.com/search?q=MERCOLA) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2022-10-12 | [`SMART Mechanical Solutions`](https://google.com/search?q=SMART+Mechanical+Solutions) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2022-10-12 | [`Quality Telecom Consultants Inc`](https://google.com/search?q=Quality+Telecom+Consultants+Inc) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2022-10-12 | [`ALFATECH`](https://google.com/search?q=ALFATECH) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2022-10-12 | [`AMPORTS`](https://google.com/search?q=AMPORTS) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2022-10-12 | [`Michael Sullivan & Associates`](https://google.com/search?q=Michael+Sullivan+%26+Associates) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2022-10-12 | [`bigcenters.rs`](https://google.com/search?q=bigcenters.rs) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-10-12 | [`mtrx.com`](https://google.com/search?q=mtrx.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-10-12 | [`Advanced Micro Devices, Inc`](https://google.com/search?q=Advanced+Micro+Devices%2C+Inc) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
-| 2022-10-12 | [`Fairfax - Crum & Forster`](https://google.com/search?q=Fairfax+-+Crum+%26+Forster) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
-| 2022-10-12 | [`Ipca Laboratories`](https://google.com/search?q=Ipca+Laboratories) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
-| 2022-10-12 | [`Carmen Copper Corporation`](https://google.com/search?q=Carmen+Copper+Corporation) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
