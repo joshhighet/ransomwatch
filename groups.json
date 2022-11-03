@@ -3529,7 +3529,7 @@
     {
         "name": "royal",
         "captcha": false,
-        "parser": false,
+        "parser": true,
         "javascript_render": false,
         "meta": null,
         "locations": [
@@ -3541,6 +3541,15 @@
                 "available": true,
                 "updated": "2022-11-03 21:02:16.033980",
                 "lastscrape": "2022-11-03 21:02:16.033965"
+            },
+            {
+                "fqdn": "royal4ezp7xrbakkus3oofjw6gszrohpodmdnfbe5e4w3og5sm7vb3qd.onion",
+                "title": null,
+                "version": 3,
+                "slug": "http://royal4ezp7xrbakkus3oofjw6gszrohpodmdnfbe5e4w3og5sm7vb3qd.onion/api/posts/list",
+                "available": true,
+                "updated": "2022-11-04 09:50:47.842730",
+                "lastscrape": "2022-11-04 09:50:47.842708"
             }
         ],
         "profile": []

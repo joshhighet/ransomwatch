@@ -468,7 +468,7 @@ def quantum():
 def atomsilo():
     stdlog('parser: ' + 'atomsilo')
     parser = '''
-    cat source/atomsilo-*.html | grep "h4" | cut -d '>' -f 3 | cut -d '<' -f 1 | sed -e 's/^ *//g' -e 's/[[:space:]]*$//'
+    grep "h4" source/atomsilo-*.html | cut -d '>' -f 3 | cut -d '<' -f 1 | sed -e 's/^ *//g' -e 's/[[:space:]]*$//'
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
@@ -524,7 +524,7 @@ def snatch():
 def marketo():
     stdlog('parser: ' + 'marketo')
     parser = '''
-    cat source/marketo-*.html | grep '<a href="/lot' | sed -e 's/^ *//g' -e '/Show more/d' -e 's/<strong>//g' | cut -d '>' -f 2 | cut -d '<' -f 1 | sed -e '/^$/d'
+    grep '<a href="/lot' source/marketo-*.html | sed -e 's/^ *//g' -e '/Show more/d' -e 's/<strong>//g' | cut -d '>' -f 2 | cut -d '<' -f 1 | sed -e '/^$/d'
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
@@ -694,7 +694,7 @@ def ransomhouse():
 def cheers():
     stdlog('parser: ' + 'cheers')
     parser = '''
-    cat  source/cheers-*.html | grep '<a href="' | grep -v title | cut -d '>' -f 2 | cut -d '<' -f 1 | sed -e '/Cheers/d' -e '/Home/d' -e 's/^ *//g' -e 's/[[:space:]]*$//'
+    grep '<a href="' source/cheers-*.html | grep -v title | cut -d '>' -f 2 | cut -d '<' -f 1 | sed -e '/Cheers/d' -e '/Home/d' -e 's/^ *//g' -e 's/[[:space:]]*$//'
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
@@ -822,3 +822,25 @@ def shaoleaks():
         errlog('shaoleaks: ' + 'parsing fail')
     for post in posts:
         appender(post, 'shaoleaks')
+
+def mallox():
+    stdlog('parser: ' + 'mallox')
+    parser = '''
+    grep 'class="card-title"' source/mallox-*.html | cut -d '>' -f 2 | cut -d '<' -f 1
+    '''
+    posts = runshellcmd(parser)
+    if len(posts) == 1:
+        errlog('mallox: ' + 'parsing fail')
+    for post in posts:
+        appender(post, 'mallox')
+    
+def royal():
+    stdlog('parser: ' + 'royal')
+    parser = '''
+    jq -r '.data[].url' source/royal-royal4ezp7xr*.html || true
+    '''
+    posts = runshellcmd(parser)
+    if len(posts) == 1:
+        errlog('royal: ' + 'parsing fail')
+    for post in posts:
+        appender(post, 'royal')
