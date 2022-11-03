@@ -3563,5 +3563,24 @@
             }
         ],
         "profile": []
+    },
+    {
+        "name": "mallox",
+        "captcha": false,
+        "parser": true,
+        "javascript_render": true,
+        "meta": "wtyafjyhwqrg[...].onion/post?get_listBlog",
+        "locations": [
+            {
+                "fqdn": "wtyafjyhwqrgo4a45wdvvwhen3cx4euie73qvlhkhvlrexljoyuklaad.onion",
+                "title": "Mallox | Blog",
+                "version": 3,
+                "slug": "http://wtyafjyhwqrgo4a45wdvvwhen3cx4euie73qvlhkhvlrexljoyuklaad.onion",
+                "available": true,
+                "updated": "2022-11-04 09:51:13.469134",
+                "lastscrape": "2022-11-04 09:51:13.469106"
+            }
+        ],
+        "profile": []
     }
 ]
