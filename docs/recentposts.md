@@ -4,6 +4,11 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-11-04 | [`SOUTH-STAFFS-WATER.CO.UK FILES PART10 - WATER\10.80.74.231\ithome$\ PUBLISHED`](https://google.com/search?q=SOUTH-STAFFS-WATER.CO.UK+FILES+PART10+-+WATER%5C10.80.74.231%5Cithome%24%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2022-11-04 | [`LOESCHGROUP.DE FILES PART3 - 192.168.101.34\D$\PrivateOrdner\ PUBLISHED`](https://google.com/search?q=LOESCHGROUP.DE+FILES+PART3+-+192.168.101.34%5CD%24%5CPrivateOrdner%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2022-11-04 | [`ORDEREXPRESS.COM.MX FILES PART4 - 10.10.1.54, 10.10.1.84, 10.10.1.106, 10.10.1.110, 10.10.`](https://google.com/search?q=ORDEREXPRESS.COM.MX+FILES+PART4+-+10.10.1.54%2C+10.10.1.84%2C+10.10.1.106%2C+10.10.1.110%2C+10.10.) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2022-11-04 | [`MARCELSOLUTION.COM FILES PART5 - SYMASOFT7,8,24,27,28,30 PUBLISHED`](https://google.com/search?q=MARCELSOLUTION.COM+FILES+PART5+-+SYMASOFT7%2C8%2C24%2C27%2C28%2C30+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2022-11-04 | [`SPINNEYS.COM FILES PART15 - 202.0.0.200 PUBLISHED`](https://google.com/search?q=SPINNEYS.COM+FILES+PART15+-+202.0.0.200+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-11-04 | [`https://nmhsi.org`](https://google.com/search?q=https%3A%2F%2Fnmhsi.org) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
 | 2022-11-04 | [`https://www.prioritypower.net`](https://google.com/search?q=https%3A%2F%2Fwww.prioritypower.net) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
 | 2022-11-04 | [`https://happysapiensdental.com`](https://google.com/search?q=https%3A%2F%2Fhappysapiensdental.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
@@ -199,8 +204,3 @@ _last `200` posts_
 | 2022-10-19 | [`FTSUMNERK12.COM FILES PART16 - 192.168.0.244\ PUBLISHED`](https://google.com/search?q=FTSUMNERK12.COM+FILES+PART16+-+192.168.0.244%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-10-19 | [`APPLEXUS.COM FILES PART8 - 192.168.4.4\D$\COMPANIES\Applexus Software Solutions\ PUBLISHED`](https://google.com/search?q=APPLEXUS.COM+FILES+PART8+-+192.168.4.4%5CD%24%5CCOMPANIES%5CApplexus+Software+Solutions%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-10-19 | [`SOUTH-STAFFS-WATER.CO.UK FILES PART4 - EMS, F$, hydrosave, iws, onsite PUBLISHED`](https://google.com/search?q=SOUTH-STAFFS-WATER.CO.UK+FILES+PART4+-+EMS%2C+F%24%2C+hydrosave%2C+iws%2C+onsite+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-10-19 | [`PRICEDEX.COM FILES PART17 - 10.0.10.28, 10.0.101.176 PUBLISHED`](https://google.com/search?q=PRICEDEX.COM+FILES+PART17+-+10.0.10.28%2C+10.0.101.176+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-10-19 | [`FERRAN-SERVICES.COM FILES PART17 - D\Users Shared Drive\ PUBLISHED`](https://google.com/search?q=FERRAN-SERVICES.COM+FILES+PART17+-+D%5CUsers+Shared+Drive%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-10-19 | [`SPINNEYS.COM FILES PART9 - 10.20.50.10\F$\Retail_Finance\Private\SKN\COMMON\F2\2020\ PUBLI`](https://google.com/search?q=SPINNEYS.COM+FILES+PART9+-+10.20.50.10%5CF%24%5CRetail_Finance%5CPrivate%5CSKN%5CCOMMON%5CF2%5C2020%5C+PUBLI) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-10-19 | [`FTSUMNERK12.COM FILES PART17 - 192.168.3.206 PUBLISHED`](https://google.com/search?q=FTSUMNERK12.COM+FILES+PART17+-+192.168.3.206+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-10-19 | [`APPLEXUS.COM FILES PART9 - 192.168.5.8 PUBLISHED`](https://google.com/search?q=APPLEXUS.COM+FILES+PART9+-+192.168.5.8+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
