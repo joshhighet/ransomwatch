@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-11-05 | [`MITCON Consultancy & Engineering Services Limited`](https://google.com/search?q=MITCON+Consultancy+%26+Engineering+Services+Limited) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2022-11-05 | [`PETERSON & HANSON`](https://google.com/search?q=PETERSON+%26+HANSON) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
 | 2022-11-05 | [`Broto Legal`](https://google.com/search?q=Broto+Legal) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
 | 2022-11-04 | [`SOUTH-STAFFS-WATER.CO.UK FILES PART10 - WATER\10.80.74.231\ithome$\ PUBLISHED`](https://google.com/search?q=SOUTH-STAFFS-WATER.CO.UK+FILES+PART10+-+WATER%5C10.80.74.231%5Cithome%24%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-10-19 | [`FERRAN-SERVICES.COM FILES PART16 - D\Users Shared Drive\ PUBLISHED`](https://google.com/search?q=FERRAN-SERVICES.COM+FILES+PART16+-+D%5CUsers+Shared+Drive%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-10-19 | [`SPINNEYS.COM FILES PART8 - 10.20.50.10\F$\Retail_Finance\Private\SKN\COMMON\F2\2019\ PUBLI`](https://google.com/search?q=SPINNEYS.COM+FILES+PART8+-+10.20.50.10%5CF%24%5CRetail_Finance%5CPrivate%5CSKN%5CCOMMON%5CF2%5C2019%5C+PUBLI) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-10-19 | [`LATOURNERIE-WOLFROM.COM FILES PART16 - 10.100.57.143, 10.100.57.146 PUBLISHED`](https://google.com/search?q=LATOURNERIE-WOLFROM.COM+FILES+PART16+-+10.100.57.143%2C+10.100.57.146+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-10-19 | [`FTSUMNERK12.COM FILES PART16 - 192.168.0.244\ PUBLISHED`](https://google.com/search?q=FTSUMNERK12.COM+FILES+PART16+-+192.168.0.244%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
