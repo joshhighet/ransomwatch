@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-11-06 | [`HUSSEY GAY BELL`](https://google.com/search?q=HUSSEY+GAY+BELL) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-11-05 | [`https://www.zoominfo.com/c/maynards-industries-ltd/24117794`](https://google.com/search?q=https%3A%2F%2Fwww.zoominfo.com%2Fc%2Fmaynards-industries-ltd%2F24117794) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
 | 2022-11-05 | [`everstrong.com`](https://google.com/search?q=everstrong.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-11-05 | [`KEARNEYCO.COM`](https://google.com/search?q=KEARNEYCO.COM) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-10-19 | [`APPLEXUS.COM FILES PART7 - 192.168.4.4\D$\COMPANIES\Applexus Software Solutions\HR\ PUBLIS`](https://google.com/search?q=APPLEXUS.COM+FILES+PART7+-+192.168.4.4%5CD%24%5CCOMPANIES%5CApplexus+Software+Solutions%5CHR%5C+PUBLIS) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-10-19 | [`SOUTH-STAFFS-WATER.CO.UK FILES PART3 - 10.80.74.230\ PUBLISHED`](https://google.com/search?q=SOUTH-STAFFS-WATER.CO.UK+FILES+PART3+-+10.80.74.230%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-10-19 | [`PRICEDEX.COM FILES PART16 - 10.0.10.1\E$\Shares\projects\Marketing and Business\Opticat\ P`](https://google.com/search?q=PRICEDEX.COM+FILES+PART16+-+10.0.10.1%5CE%24%5CShares%5Cprojects%5CMarketing+and+Business%5COpticat%5C+P) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-10-19 | [`NEWCOURSECC.COM FILES PART17 - 10.168.40.27\D$\FTP\ PUBLISHED`](https://google.com/search?q=NEWCOURSECC.COM+FILES+PART17+-+10.168.40.27%5CD%24%5CFTP%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
