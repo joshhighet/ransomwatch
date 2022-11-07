@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-11-07 | [`Bosselman Energy Inc`](https://google.com/search?q=Bosselman+Energy+Inc) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-11-07 | [`http://www.sheehanfamilycompanies.com`](https://google.com/search?q=http%3A%2F%2Fwww.sheehanfamilycompanies.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
 | 2022-11-07 | [`richard-wolf.com`](https://google.com/search?q=richard-wolf.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-11-07 | [`medibank.com.au`](https://google.com/search?q=medibank.com.au) | [revil](https://ransomwatch.telemetry.ltd/#/profiles?id=revil) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-10-19 | [`SOUTH-STAFFS-WATER.CO.UK FILES PART2 - water\ PUBLISHED`](https://google.com/search?q=SOUTH-STAFFS-WATER.CO.UK+FILES+PART2+-+water%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-10-19 | [`PRICEDEX.COM FILES PART15 - 10.0.10.1\E$\Shares\projects\Marketing and Business\Opticat\ P`](https://google.com/search?q=PRICEDEX.COM+FILES+PART15+-+10.0.10.1%5CE%24%5CShares%5Cprojects%5CMarketing+and+Business%5COpticat%5C+P) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-10-19 | [`NEWCOURSECC.COM FILES PART16 - 10.168.40.27\D$\FTP\ PUBLISHED`](https://google.com/search?q=NEWCOURSECC.COM+FILES+PART16+-+10.168.40.27%5CD%24%5CFTP%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-10-19 | [`ORBITELECTRIC.COM FILES PART22 - F\ PUBLISHED`](https://google.com/search?q=ORBITELECTRIC.COM+FILES+PART22+-+F%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
