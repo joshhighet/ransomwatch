@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-11-07 | [`medibank.com.au`](https://google.com/search?q=medibank.com.au) | [revil](https://ransomwatch.telemetry.ltd/#/profiles?id=revil) |
 | 2022-11-06 | [`CR&amp;R Environmental Services`](https://google.com/search?q=CR%26amp%3BR+Environmental+Services) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2022-11-06 | [`thenet.group`](https://google.com/search?q=thenet.group) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-11-06 | [`rockworthindia.com`](https://google.com/search?q=rockworthindia.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-10-19 | [`ORBITELECTRIC.COM FILES PART22 - F\ PUBLISHED`](https://google.com/search?q=ORBITELECTRIC.COM+FILES+PART22+-+F%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-10-19 | [`FERRAN-SERVICES.COM FILES PART15 - D\Users Shared Drive\ PUBLISHED`](https://google.com/search?q=FERRAN-SERVICES.COM+FILES+PART15+-+D%5CUsers+Shared+Drive%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-10-19 | [`SPINNEYS.COM FILES PART7 - 10.20.50.10\F$\Retail_Finance\Private\SKN\COMMON\F2\2019\ PUBLI`](https://google.com/search?q=SPINNEYS.COM+FILES+PART7+-+10.20.50.10%5CF%24%5CRetail_Finance%5CPrivate%5CSKN%5CCOMMON%5CF2%5C2019%5C+PUBLI) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-10-19 | [`LATOURNERIE-WOLFROM.COM FILES PART15 - 10.100.57.131\C$\Users\CW\Documents\ PUBLISHED`](https://google.com/search?q=LATOURNERIE-WOLFROM.COM+FILES+PART15+-+10.100.57.131%5CC%24%5CUsers%5CCW%5CDocuments%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
