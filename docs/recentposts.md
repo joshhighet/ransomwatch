@@ -4,6 +4,10 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-11-07 | [`METRO`](https://google.com/search?q=METRO) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2022-11-07 | [`Cornwell Quality Tools`](https://google.com/search?q=Cornwell+Quality+Tools) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
+| 2022-11-07 | [`TCQ`](https://google.com/search?q=TCQ) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
+| 2022-11-07 | [`ROYAL GATEWAY CO., LTD`](https://google.com/search?q=ROYAL+GATEWAY+CO.%2C+LTD) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
 | 2022-11-07 | [`http://ivacorm.com`](https://google.com/search?q=http%3A%2F%2Fivacorm.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
 | 2022-11-07 | [`https://www.sohnen.com/`](https://google.com/search?q=https%3A%2F%2Fwww.sohnen.com%2F) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
 | 2022-11-07 | [`ALTEK`](https://google.com/search?q=ALTEK) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
@@ -200,7 +204,3 @@ _last `200` posts_
 | 2022-10-20 | [`ALRO`](https://google.com/search?q=ALRO) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2022-10-20 | [`STONE1`](https://google.com/search?q=STONE1) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2022-10-20 | [`Stages Pediatric Care New 40 personal records`](https://google.com/search?q=Stages+Pediatric+Care+New+40+personal+records) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
-| 2022-10-20 | [`KEMET`](https://google.com/search?q=KEMET) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2022-10-19 | [`METASYS`](https://google.com/search?q=METASYS) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2022-10-19 | [`TSC`](https://google.com/search?q=TSC) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2022-10-19 | [`A G Equipment Company`](https://google.com/search?q=A+G+Equipment+Company) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
