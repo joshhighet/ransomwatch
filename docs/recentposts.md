@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-11-07 | [`http://ivacorm.com`](https://google.com/search?q=http%3A%2F%2Fivacorm.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
+| 2022-11-07 | [`https://www.sohnen.com/`](https://google.com/search?q=https%3A%2F%2Fwww.sohnen.com%2F) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
+| 2022-11-07 | [`ALTEK`](https://google.com/search?q=ALTEK) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
 | 2022-11-07 | [`Wilken Software Group`](https://google.com/search?q=Wilken+Software+Group) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2022-11-07 | [`Bosselman Energy Inc`](https://google.com/search?q=Bosselman+Energy+Inc) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-11-07 | [`http://www.sheehanfamilycompanies.com`](https://google.com/search?q=http%3A%2F%2Fwww.sheehanfamilycompanies.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2022-10-19 | [`METASYS`](https://google.com/search?q=METASYS) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2022-10-19 | [`TSC`](https://google.com/search?q=TSC) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2022-10-19 | [`A G Equipment Company`](https://google.com/search?q=A+G+Equipment+Company) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2022-10-19 | [`BOOTZ`](https://google.com/search?q=BOOTZ) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2022-10-19 | [`SOUTH-STAFFS-WATER.CO.UK FILES PART2 - water\ PUBLISHED`](https://google.com/search?q=SOUTH-STAFFS-WATER.CO.UK+FILES+PART2+-+water%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-10-19 | [`PRICEDEX.COM FILES PART15 - 10.0.10.1\E$\Shares\projects\Marketing and Business\Opticat\ P`](https://google.com/search?q=PRICEDEX.COM+FILES+PART15+-+10.0.10.1%5CE%24%5CShares%5Cprojects%5CMarketing+and+Business%5COpticat%5C+P) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
