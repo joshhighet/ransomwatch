@@ -6,12 +6,12 @@
     <link rel="shortcut icon" href="favicon.ico" type="image/x-icon"/>
     <title>BB Auction</title>
     <link href="/dist/font-awesome.min.css" rel="stylesheet">
-    <link href="/dist/css/bootstrap.css?v=1667925090" rel="stylesheet">
-    <link href="/blog.css?v=1667925090" rel="stylesheet">
+    <link href="/dist/css/bootstrap.css?v=1667939069" rel="stylesheet">
+    <link href="/blog.css?v=1667939069" rel="stylesheet">
     <script src="/assets/js/jquery-2.1.3.min.js"></script>
     <script src="/assets/js/vendor/popper.min.js"></script>
     <script src="/dist/js/bootstrap.min.js"></script>
-    <script src="/script.js?v=1667925090"></script>
+    <script src="/script.js?v=1667939069"></script>
     <style>
 
     </style>
@@ -144,99 +144,98 @@
 
         
             <script>
-                var proof_img_block20 = '<img src="Array" alt="" class="proof">';
+                var proof_img_block19 = '<img src="Array" alt="" class="proof">';
 
-                function ShowProof20() {
-                    if (showed20 === 0) {
-                        showed20 = 1;
-                        $("#target_20 .proof_block").html(proof_img_block20).slideDown(400);
+                function ShowProof19() {
+                    if (showed19 === 0) {
+                        showed19 = 1;
+                        $("#target_19 .proof_block").html(proof_img_block19).slideDown(400);
                     } else {
-                        showed20 = 0;
-                        $("#target_20 .proof_block").html(' ').slideUp(400);
+                        showed19 = 0;
+                        $("#target_19 .proof_block").html(' ').slideUp(400);
                     }
                 }
 
-                function ShowDButtons20() {
-                    if (showed_d_buttons20 === 0) {
-                        showed_d_buttons20 = 1;
-                        $("#target_20 .d_buttons").slideDown(400);
+                function ShowDButtons19() {
+                    if (showed_d_buttons19 === 0) {
+                        showed_d_buttons19 = 1;
+                        $("#target_19 .d_buttons").slideDown(400);
                     } else {
-                        showed_d_buttons20 = 0;
-                        $("#target_20 .d_buttons").slideUp(400);
+                        showed_d_buttons19 = 0;
+                        $("#target_19 .d_buttons").slideUp(400);
                     }
                 }
 
-                var showed20 = 0;
-                var showed_d_buttons20 = 0;
-                var HAPPYSEC20 = -37611090;
-                var t_sec20 = HAPPYSEC20;
-                var time20;
-                var intervalId20= 0;
+                var showed19 = 0;
+                var showed_d_buttons19 = 0;
+                var HAPPYSEC19 = -37625069;
+                var t_sec19 = HAPPYSEC19;
+                var time19;
+                var intervalId19= 0;
 
                 $(document).ready(function () {
-                    $("#target_20 .d_buttons a.btn3").addClass("red_button");
-                    intervalId20 = setInterval(function () {
-                        timerDecrement20();
+                    $("#target_19 .d_buttons a.btn3").addClass("red_button");
+                    intervalId19 = setInterval(function () {
+                        timerDecrement19();
                     }, 1000);
                 });
 
-                function timerDecrement20() {
-                    time20 = $('#target_20 span.timer');
+                function timerDecrement19() {
+                    time19 = $('#target_19 span.timer');
 
-                    if (t_sec20 < 1) {
-                        t_sec20 = 0;
-                        newTime = t_sec20 ;
+                    if (t_sec19 < 1) {
+                        t_sec19 = 0;
+                        newTime = t_sec19 ;
                     } else {
-                        newTime = t_sec20 - 1;
+                        newTime = t_sec19 - 1;
                     }
 
-                    t_sec20 = newTime;
+                    t_sec19 = newTime;
 
-                    var t_min = t_sec20 / 60;
+                    var t_min = t_sec19 / 60;
                     var t_hour = t_min / 60;
                     var t_day =
                         '<b>' + Math.floor(t_hour / 24) + '</b>d ' +
                         '<b>' + Math.floor(t_hour % 24) + '</b>h ' +
                         '<b>' + Math.floor(t_min % 60) + '</b>m ' +
-                        '<b>' + Math.floor(t_sec20 % 60) + '</b>s ';
+                        '<b>' + Math.floor(t_sec19 % 60) + '</b>s ';
 
-                    time20.html(t_day);
+                    time19.html(t_day);
 
-                    if (newTime === 0 && HAPPYSEC20 > 0 || newTime < 1) {
-                        time20.html('');
-                        $("#target_20 .lock").attr("src", "assets/img/lockopen.png");
-                        $("#target_20 .clock").attr("src", "assets/img/clockred.png").addClass("clockred");
-                        $("#target_20 .btn2").addClass("redbg");
-                        $("#target_20 .arrow-8").addClass("r8");
-                        $("#target_20 .perc").html("100%");
-                        clearInterval(intervalId20);
+                    if (newTime === 0 && HAPPYSEC19 > 0 || newTime < 1) {
+                        time19.html('');
+                        $("#target_19 .lock").attr("src", "assets/img/lockopen.png");
+                        $("#target_19 .clock").attr("src", "assets/img/clockred.png").addClass("clockred");
+                        $("#target_19 .btn2").addClass("redbg");
+                        $("#target_19 .arrow-8").addClass("r8");
+                        $("#target_19 .perc").html("100%");
+                        clearInterval(intervalId19);
                         //GetDownloadLink(//, $("#target_// .by_button"));
                     }
                 }
 
             </script>
 
-            <div class="col-md-12 col-sm-12 bgt1 " id="target_20" style="display: none">
+            <div class="col-md-12 col-sm-12 bgt1 " id="target_19" style="display: none">
                 <table class="table table-bordered table-content ">
                     <tr style=";" class="content-fone">
                         <td class="txt td-1">
                             <div style="border-bottom: 1px solid silver; border-left: 1px solid silver; border-right: 1px solid silver; margin-top: 20px; width: 40%; margin-left: auto; margin-right: auto; opacity: 0.1;"></div>
-                            <h1 class="h_font">ALTEK</h1>
+                            <h1 class="h_font">Broto Legal</h1>
 
                         </td>
                     </tr>
                     <tr>
                         <td>
-                            <input type="text" class="inp-copy copy_input_20" value="">
-                            <p class="lead-text5">Altek Profile and History
-Altek is an AS9100C certified, world class contract manufacturer offering the highest quality assembly services delivered on time at market competitive prices. Customer satisfaction is always our top priority. Using lean manufacturing techniques, we process hundreds of different products weekly. Our emphasis on small to medium volume and high mix allows us to satisfy the needs of diverse markets, including medical, commercial/industrial, military, telecommunications, transportation, fuel cell, safety & security and after market                            </p>
+                            <input type="text" class="inp-copy copy_input_19" value="">
+                            <p class="lead-text5">Broto Legal was founded in the 1970s and engages in the commercialization of rice, beans, potatoes, onions and corn for the region of Campinas, Brazil.                            </p>
 
 
                             <div class="container1">
                                 <div class="row">
-                                    <div class="col-xs-12 col-md-4"><a data-title="URL" class=" globe glob fa fa-globe"  href="http://altekcompany.com/"  target="_blank"></a></div>
-                                    <div style="text-align: center" class="col-xs-12 col-md-4"><i data-chat="61141FCA047691D0E47CFD84717B59D3BEDF822442B5E907BE147FD6B8A11B723A48DF7FCA47"  onclick="copy20('61141FCA047691D0E47CFD84717B59D3BEDF822442B5E907BE147FD6B8A11B723A48DF7FCA47',20,'tox-chat')" data-title="TOX support" class="btc-copy comm fa fa-commenting"></i><span class="copied"></span></div>
-                                    <div  class="col-xs-12 col-md-4"><i style="float: right" class="mon money fa fa-money" data-title="DATA"  onclick="$('.desc_20').modal('show') "></i></div>
+                                    <div class="col-xs-12 col-md-4"><a data-title="URL" class=" globe glob fa fa-globe"  href="https://brotolegal.com.br/"  target="_blank"></a></div>
+                                    <div style="text-align: center" class="col-xs-12 col-md-4"><i data-chat="61141FCA047691D0E47CFD84717B59D3BEDF822442B5E907BE147FD6B8A11B723A48DF7FCA47"  onclick="copy19('61141FCA047691D0E47CFD84717B59D3BEDF822442B5E907BE147FD6B8A11B723A48DF7FCA47',19,'tox-chat')" data-title="TOX support" class="btc-copy comm fa fa-commenting"></i><span class="copied"></span></div>
+                                    <div  class="col-xs-12 col-md-4"><i style="float: right" class="mon money fa fa-money" data-title="DATA"  onclick="$('.desc_19').modal('show') "></i></div>
                                 </div>
                             </div>
                         </td>
@@ -244,8 +243,8 @@ Altek is an AS9100C certified, world class contract manufacturer offering the hi
                 </table>
             </div>
             <script>
-                function copy20(text,target_id,block){
-                    selector = ".copy_input_20";
+                function copy19(text,target_id,block){
+                    selector = ".copy_input_19";
                     $(selector).val(text);
                     $(selector).focus();
                     $(selector).select();
@@ -258,53 +257,47 @@ Altek is an AS9100C certified, world class contract manufacturer offering the hi
                     },1000)
                 }
             </script>
-            <div class="modal desc_20" tabindex="-1" id="target_20">
+            <div class="modal desc_19" tabindex="-1" id="target_19">
                 <div class="modal-dialog  ">
                     <div class="modal-content">
                         <div class="modal-header">
-                            <div class="modal-title">ALTEK Proofs Block</div>
+                            <div class="modal-title">Broto Legal Proofs Block</div>
                         </div>
                         <div class="modal-body">
                             <div class="col-md-12 px-0">
                                 <div class="proof_block text-center"></div>
                                 <div>
                                     <div class="blocks"><div class="gallery" >
-                                            <a  class="photo proof_images proof_images_20"> <div class="gallery">
-                                            <a rel="gallery" class="photo gost"><img class="img-l" src="proofs/20/proof1.png"></a>
+                                            <a  class="photo proof_images proof_images_19"> <div class="gallery">
+                                            <a rel="gallery" class="photo gost"><img class="img-l" src="proofs/19/proof1.png"></a>
                                         </div>  <div class="gallery">
-                                            <a rel="gallery" class="photo gost"><img class="img-l" src="proofs/20/proof2.png"></a>
+                                            <a rel="gallery" class="photo gost"><img class="img-l" src="proofs/19/proof2.png"></a>
                                         </div>  <div class="gallery">
-                                            <a rel="gallery" class="photo gost"><img class="img-l" src="proofs/20/proof3.png"></a>
+                                            <a rel="gallery" class="photo gost"><img class="img-l" src="proofs/19/proof3.png"></a>
                                         </div>  <div class="gallery">
-                                            <a rel="gallery" class="photo gost"><img class="img-l" src="proofs/20/proof4.png"></a>
+                                            <a rel="gallery" class="photo gost"><img class="img-l" src="proofs/19/proof4.png"></a>
                                         </div>  <div class="gallery">
-                                            <a rel="gallery" class="photo gost"><img class="img-l" src="proofs/20/proof5.png"></a>
-                                        </div>  <div class="gallery">
-                                            <a rel="gallery" class="photo gost"><img class="img-l" src="proofs/20/proof6.jpg"></a>
-                                        </div>  <div class="gallery">
-                                            <a rel="gallery" class="photo gost"><img class="img-l" src="proofs/20/proof7.jpg"></a>
-                                        </div>  <div class="gallery">
-                                            <a rel="gallery" class="photo gost"><img class="img-l" src="proofs/20/proof8.jpg"></a>
+                                            <a rel="gallery" class="photo gost"><img class="img-l" src="proofs/19/proof5.png"></a>
                                         </div> </a>
                                         </div></div>
                                     <div class="container2">
-                                        <input type="text" class="inp-copy copy_input_20" value="">
+                                        <input type="text" class="inp-copy copy_input_19" value="">
                                         <div class="info-text">Company documents, deletion/purchase</div>
                                         <div class="linear2"></div>
                                         <div class="tox-text">If you are interested to purchase the data or requesting to remove it, Please connect us through our Email/TOX.</div>
                                             <div style="text-align: center; margin-top: 96px;
-position: absolute; left: 130px; " class="col-xs-12 col-md-4"><i data-chat="61141FCA047691D0E47CFD84717B59D3BEDF822442B5E907BE147FD6B8A11B723A48DF7FCA47"  onclick="copy20('61141FCA047691D0E47CFD84717B59D3BEDF822442B5E907BE147FD6B8A11B723A48DF7FCA47',20,'tox-chat')" data-title="Copy TOX support" class="btc-copy comms fa fa-commenting"></i><span class="copied"></span></div>
+position: absolute; left: 130px; " class="col-xs-12 col-md-4"><i data-chat="61141FCA047691D0E47CFD84717B59D3BEDF822442B5E907BE147FD6B8A11B723A48DF7FCA47"  onclick="copy19('61141FCA047691D0E47CFD84717B59D3BEDF822442B5E907BE147FD6B8A11B723A48DF7FCA47',19,'tox-chat')" data-title="Copy TOX support" class="btc-copy comms fa fa-commenting"></i><span class="copied"></span></div>
                                             <div style="text-align: center; ;
-position: absolute;" class="col-xs-12 col-md-4"><i data-chat="BlackByteSupp0rt@onionmail.org"  onclick="copy20('BlackByteSupp0rt@onionmail.org',20,'copysupport')" data-title="Copy E-MAIL support" class="support-mail-copy mail-support fa fa-envelope"></i><span class="copied"></span></div>
+position: absolute;" class="col-xs-12 col-md-4"><i data-chat="BlackByteSupp0rt@onionmail.org"  onclick="copy19('BlackByteSupp0rt@onionmail.org',19,'copysupport')" data-title="Copy E-MAIL support" class="support-mail-copy mail-support fa fa-envelope"></i><span class="copied"></span></div>
                                             <div class="row ends">
                                             <div class="col-sm-4 ">
-                                                <a class=""><button class="custom-btn btn-12"><span>DELETE DATA</span><span>350000$</span></button></a>
+                                                <a class=""><button class="custom-btn btn-12"><span>DELETE DATA</span><span>250000$</span></button></a>
                                             </div>
                                             <div class="col-sm-4 ">
-                                                <a href="https://anonfiles.com/Ye4666Fdy1/altekcompany.com_zip" target="_blank"><button class="custom-btn btn-12"><span class="proofdata">DOWNLOAD PROOF DATA</span><span>DATA</span></button></a>
+                                                <a href="https://anonfiles.com/Q3sa41F2ya/brotolegal.com.br_zip" target="_blank"><button class="custom-btn btn-12"><span class="proofdata">DOWNLOAD PROOF DATA</span><span>DATA</span></button></a>
                                             </div>
                                             <div class="col-sm-4 ">
-                                                <a id="myBtn1" 20><button class="custom-btn btn-12"><span>BUY DATA</span><span>300000$</span></button></a>
+                                                <a id="myBtn1" 19><button class="custom-btn btn-12"><span>BUY DATA</span><span>200000$</span></button></a>
                                             </div>
                                         </div>
                                     </div>
@@ -313,7 +306,7 @@ position: absolute;" class="col-xs-12 col-md-4"><i data-chat="BlackByteSupp0rt@o
                         </div>
                     </div>
                 </div>
-                <div id="myModal1" class="modal1" style="background-color: rgba(0, 0, 0, 0.84)" 20>
+                <div id="myModal1" class="modal1" style="background-color: rgba(0, 0, 0, 0.84)" 19>
                     <div class="modal1-content">
                         <div class="modal1-header">
                             <span class="close">&times;</span>
@@ -353,7 +346,7 @@ position: absolute;" class="col-xs-12 col-md-4"><i data-chat="BlackByteSupp0rt@o
 
                 var showed10 = 0;
                 var showed_d_buttons10 = 0;
-                var HAPPYSEC10 = -37611090;
+                var HAPPYSEC10 = -37625069;
                 var t_sec10 = HAPPYSEC10;
                 var time10;
                 var intervalId10= 0;
@@ -536,7 +529,7 @@ position: absolute;" class="col-xs-12 col-md-4"><i data-chat="BlackByteSupp0rt@o
 
                 var showed4 = 0;
                 var showed_d_buttons4 = 0;
-                var HAPPYSEC4 = -37611090;
+                var HAPPYSEC4 = -37625069;
                 var t_sec4 = HAPPYSEC4;
                 var time4;
                 var intervalId4= 0;
@@ -715,7 +708,7 @@ position: absolute;" class="col-xs-12 col-md-4"><i data-chat="BlackByteSupp0rt@o
 
                 var showed5 = 0;
                 var showed_d_buttons5 = 0;
-                var HAPPYSEC5 = -37611090;
+                var HAPPYSEC5 = -37625069;
                 var t_sec5 = HAPPYSEC5;
                 var time5;
                 var intervalId5= 0;
@@ -896,7 +889,7 @@ position: absolute;" class="col-xs-12 col-md-4"><i data-chat="BlackByteSupp0rt@o
 
                 var showed6 = 0;
                 var showed_d_buttons6 = 0;
-                var HAPPYSEC6 = -37611090;
+                var HAPPYSEC6 = -37625069;
                 var t_sec6 = HAPPYSEC6;
                 var time6;
                 var intervalId6= 0;
@@ -1077,7 +1070,7 @@ position: absolute;" class="col-xs-12 col-md-4"><i data-chat="BlackByteSupp0rt@o
 
                 var showed7 = 0;
                 var showed_d_buttons7 = 0;
-                var HAPPYSEC7 = -37611090;
+                var HAPPYSEC7 = -37625069;
                 var t_sec7 = HAPPYSEC7;
                 var time7;
                 var intervalId7= 0;
@@ -1256,7 +1249,7 @@ position: absolute;" class="col-xs-12 col-md-4"><i data-chat="BlackByteSupp0rt@o
 
                 var showed8 = 0;
                 var showed_d_buttons8 = 0;
-                var HAPPYSEC8 = -37611090;
+                var HAPPYSEC8 = -37625069;
                 var t_sec8 = HAPPYSEC8;
                 var time8;
                 var intervalId8= 0;
@@ -1435,7 +1428,7 @@ position: absolute;" class="col-xs-12 col-md-4"><i data-chat="BlackByteSupp0rt@o
 
                 var showed9 = 0;
                 var showed_d_buttons9 = 0;
-                var HAPPYSEC9 = -37611090;
+                var HAPPYSEC9 = -37625069;
                 var t_sec9 = HAPPYSEC9;
                 var time9;
                 var intervalId9= 0;
@@ -1611,7 +1604,7 @@ position: absolute;" class="col-xs-12 col-md-4"><i data-chat="BlackByteSupp0rt@o
 
                 var showed11 = 0;
                 var showed_d_buttons11 = 0;
-                var HAPPYSEC11 = -37611090;
+                var HAPPYSEC11 = -37625069;
                 var t_sec11 = HAPPYSEC11;
                 var time11;
                 var intervalId11= 0;
@@ -1763,98 +1756,100 @@ position: absolute;" class="col-xs-12 col-md-4"><i data-chat="BlackByteSupp0rt@o
 
             
             <script>
-                var proof_img_block19 = '<img src="Array" alt="" class="proof">';
+                var proof_img_block18 = '<img src="Array" alt="" class="proof">';
 
-                function ShowProof19() {
-                    if (showed19 === 0) {
-                        showed19 = 1;
-                        $("#target_19 .proof_block").html(proof_img_block19).slideDown(400);
+                function ShowProof18() {
+                    if (showed18 === 0) {
+                        showed18 = 1;
+                        $("#target_18 .proof_block").html(proof_img_block18).slideDown(400);
                     } else {
-                        showed19 = 0;
-                        $("#target_19 .proof_block").html(' ').slideUp(400);
+                        showed18 = 0;
+                        $("#target_18 .proof_block").html(' ').slideUp(400);
                     }
                 }
 
-                function ShowDButtons19() {
-                    if (showed_d_buttons19 === 0) {
-                        showed_d_buttons19 = 1;
-                        $("#target_19 .d_buttons").slideDown(400);
+                function ShowDButtons18() {
+                    if (showed_d_buttons18 === 0) {
+                        showed_d_buttons18 = 1;
+                        $("#target_18 .d_buttons").slideDown(400);
                     } else {
-                        showed_d_buttons19 = 0;
-                        $("#target_19 .d_buttons").slideUp(400);
+                        showed_d_buttons18 = 0;
+                        $("#target_18 .d_buttons").slideUp(400);
                     }
                 }
 
-                var showed19 = 0;
-                var showed_d_buttons19 = 0;
-                var HAPPYSEC19 = -37611090;
-                var t_sec19 = HAPPYSEC19;
-                var time19;
-                var intervalId19= 0;
+                var showed18 = 0;
+                var showed_d_buttons18 = 0;
+                var HAPPYSEC18 = -37625069;
+                var t_sec18 = HAPPYSEC18;
+                var time18;
+                var intervalId18= 0;
 
                 $(document).ready(function () {
-                    $("#target_19 .d_buttons a.btn3").addClass("red_button");
-                    intervalId19 = setInterval(function () {
-                        timerDecrement19();
+                    $("#target_18 .d_buttons a.btn3").addClass("red_button");
+                    intervalId18 = setInterval(function () {
+                        timerDecrement18();
                     }, 1000);
                 });
 
-                function timerDecrement19() {
-                    time19 = $('#target_19 span.timer');
+                function timerDecrement18() {
+                    time18 = $('#target_18 span.timer');
 
-                    if (t_sec19 < 1) {
-                        t_sec19 = 0;
-                        newTime = t_sec19 ;
+                    if (t_sec18 < 1) {
+                        t_sec18 = 0;
+                        newTime = t_sec18 ;
                     } else {
-                        newTime = t_sec19 - 1;
+                        newTime = t_sec18 - 1;
                     }
 
-                    t_sec19 = newTime;
+                    t_sec18 = newTime;
 
-                    var t_min = t_sec19 / 60;
+                    var t_min = t_sec18 / 60;
                     var t_hour = t_min / 60;
                     var t_day =
                         '<b>' + Math.floor(t_hour / 24) + '</b>d ' +
                         '<b>' + Math.floor(t_hour % 24) + '</b>h ' +
                         '<b>' + Math.floor(t_min % 60) + '</b>m ' +
-                        '<b>' + Math.floor(t_sec19 % 60) + '</b>s ';
+                        '<b>' + Math.floor(t_sec18 % 60) + '</b>s ';
 
-                    time19.html(t_day);
+                    time18.html(t_day);
 
-                    if (newTime === 0 && HAPPYSEC19 > 0 || newTime < 1) {
-                        time19.html('');
-                        $("#target_19 .lock").attr("src", "assets/img/lockopen.png");
-                        $("#target_19 .clock").attr("src", "assets/img/clockred.png").addClass("clockred");
-                        $("#target_19 .btn2").addClass("redbg");
-                        $("#target_19 .arrow-8").addClass("r8");
-                        $("#target_19 .perc").html("100%");
-                        clearInterval(intervalId19);
+                    if (newTime === 0 && HAPPYSEC18 > 0 || newTime < 1) {
+                        time18.html('');
+                        $("#target_18 .lock").attr("src", "assets/img/lockopen.png");
+                        $("#target_18 .clock").attr("src", "assets/img/clockred.png").addClass("clockred");
+                        $("#target_18 .btn2").addClass("redbg");
+                        $("#target_18 .arrow-8").addClass("r8");
+                        $("#target_18 .perc").html("100%");
+                        clearInterval(intervalId18);
                         //GetDownloadLink(//, $("#target_// .by_button"));
                     }
                 }
 
             </script>
 
-            <div class="col-md-12 col-sm-12 bgt1 " id="target_19" style="display: none">
+            <div class="col-md-12 col-sm-12 bgt1 " id="target_18" style="display: none">
                 <table class="table table-bordered table-content ">
                     <tr style=";" class="content-fone">
                         <td class="txt td-1">
                             <div style="border-bottom: 1px solid silver; border-left: 1px solid silver; border-right: 1px solid silver; margin-top: 20px; width: 40%; margin-left: auto; margin-right: auto; opacity: 0.1;"></div>
-                            <h1 class="h_font">Broto Legal</h1>
+                            <h1 class="h_font">PETERSON & HANSON</h1>
 
                         </td>
                     </tr>
                     <tr>
                         <td>
-                            <input type="text" class="inp-copy copy_input_19" value="">
-                            <p class="lead-text5">Broto Legal was founded in the 1970s and engages in the commercialization of rice, beans, potatoes, onions and corn for the region of Campinas, Brazil.                            </p>
+                            <input type="text" class="inp-copy copy_input_18" value="">
+                            <p class="lead-text5">WE ARE PETERSON & HANSON BYGGNADS AB
+With environment, competence and well-being at the top of the agenda, we perform construction services in Halland and the surrounding area for satisfied and returning customers.
+We have been in the industry since 1963 and are one of Halland's largest construction companies.                            </p>
 
 
                             <div class="container1">
                                 <div class="row">
-                                    <div class="col-xs-12 col-md-4"><a data-title="URL" class=" globe glob fa fa-globe"  href="https://brotolegal.com.br/"  target="_blank"></a></div>
-                                    <div style="text-align: center" class="col-xs-12 col-md-4"><i data-chat="61141FCA047691D0E47CFD84717B59D3BEDF822442B5E907BE147FD6B8A11B723A48DF7FCA47"  onclick="copy19('61141FCA047691D0E47CFD84717B59D3BEDF822442B5E907BE147FD6B8A11B723A48DF7FCA47',19,'tox-chat')" data-title="TOX support" class="btc-copy comm fa fa-commenting"></i><span class="copied"></span></div>
-                                    <div  class="col-xs-12 col-md-4"><i style="float: right" class="mon money fa fa-money" data-title="DATA"  onclick="$('.desc_19').modal('show') "></i></div>
+                                    <div class="col-xs-12 col-md-4"><a data-title="URL" class=" globe glob fa fa-globe"  href="https://www.phbygg.se/"  target="_blank"></a></div>
+                                    <div style="text-align: center" class="col-xs-12 col-md-4"><i data-chat="61141FCA047691D0E47CFD84717B59D3BEDF822442B5E907BE147FD6B8A11B723A48DF7FCA47"  onclick="copy18('61141FCA047691D0E47CFD84717B59D3BEDF822442B5E907BE147FD6B8A11B723A48DF7FCA47',18,'tox-chat')" data-title="TOX support" class="btc-copy comm fa fa-commenting"></i><span class="copied"></span></div>
+                                    <div  class="col-xs-12 col-md-4"><i style="float: right" class="mon money fa fa-money" data-title="DATA"  onclick="$('.desc_18').modal('show') "></i></div>
                                 </div>
                             </div>
                         </td>
@@ -1862,8 +1857,8 @@ position: absolute;" class="col-xs-12 col-md-4"><i data-chat="BlackByteSupp0rt@o
                 </table>
             </div>
             <script>
-                function copy19(text,target_id,block){
-                    selector = ".copy_input_19";
+                function copy18(text,target_id,block){
+                    selector = ".copy_input_18";
                     $(selector).val(text);
                     $(selector).focus();
                     $(selector).select();
@@ -1876,47 +1871,47 @@ position: absolute;" class="col-xs-12 col-md-4"><i data-chat="BlackByteSupp0rt@o
                     },1000)
                 }
             </script>
-            <div class="modal desc_19" tabindex="-1" id="target_19">
+            <div class="modal desc_18" tabindex="-1" id="target_18">
                 <div class="modal-dialog  ">
                     <div class="modal-content">
                         <div class="modal-header">
-                            <div class="modal-title">Broto Legal Proofs Block</div>
+                            <div class="modal-title">PETERSON & HANSON Proofs Block</div>
                         </div>
                         <div class="modal-body">
                             <div class="col-md-12 px-0">
                                 <div class="proof_block text-center"></div>
                                 <div>
                                     <div class="blocks"><div class="gallery" >
-                                            <a  class="photo proof_images proof_images_19"> <div class="gallery">
-                                            <a rel="gallery" class="photo gost"><img class="img-l" src="proofs/19/proof1.png"></a>
+                                            <a  class="photo proof_images proof_images_18"> <div class="gallery">
+                                            <a rel="gallery" class="photo gost"><img class="img-l" src="proofs/18/proof1.png"></a>
                                         </div>  <div class="gallery">
-                                            <a rel="gallery" class="photo gost"><img class="img-l" src="proofs/19/proof2.png"></a>
+                                            <a rel="gallery" class="photo gost"><img class="img-l" src="proofs/18/proof2.png"></a>
                                         </div>  <div class="gallery">
-                                            <a rel="gallery" class="photo gost"><img class="img-l" src="proofs/19/proof3.png"></a>
+                                            <a rel="gallery" class="photo gost"><img class="img-l" src="proofs/18/proof3.png"></a>
                                         </div>  <div class="gallery">
-                                            <a rel="gallery" class="photo gost"><img class="img-l" src="proofs/19/proof4.png"></a>
+                                            <a rel="gallery" class="photo gost"><img class="img-l" src="proofs/18/proof4.png"></a>
                                         </div>  <div class="gallery">
-                                            <a rel="gallery" class="photo gost"><img class="img-l" src="proofs/19/proof5.png"></a>
+                                            <a rel="gallery" class="photo gost"><img class="img-l" src="proofs/18/proof5.png"></a>
                                         </div> </a>
                                         </div></div>
                                     <div class="container2">
-                                        <input type="text" class="inp-copy copy_input_19" value="">
+                                        <input type="text" class="inp-copy copy_input_18" value="">
                                         <div class="info-text">Company documents, deletion/purchase</div>
                                         <div class="linear2"></div>
                                         <div class="tox-text">If you are interested to purchase the data or requesting to remove it, Please connect us through our Email/TOX.</div>
                                             <div style="text-align: center; margin-top: 96px;
-position: absolute; left: 130px; " class="col-xs-12 col-md-4"><i data-chat="61141FCA047691D0E47CFD84717B59D3BEDF822442B5E907BE147FD6B8A11B723A48DF7FCA47"  onclick="copy19('61141FCA047691D0E47CFD84717B59D3BEDF822442B5E907BE147FD6B8A11B723A48DF7FCA47',19,'tox-chat')" data-title="Copy TOX support" class="btc-copy comms fa fa-commenting"></i><span class="copied"></span></div>
+position: absolute; left: 130px; " class="col-xs-12 col-md-4"><i data-chat="61141FCA047691D0E47CFD84717B59D3BEDF822442B5E907BE147FD6B8A11B723A48DF7FCA47"  onclick="copy18('61141FCA047691D0E47CFD84717B59D3BEDF822442B5E907BE147FD6B8A11B723A48DF7FCA47',18,'tox-chat')" data-title="Copy TOX support" class="btc-copy comms fa fa-commenting"></i><span class="copied"></span></div>
                                             <div style="text-align: center; ;
-position: absolute;" class="col-xs-12 col-md-4"><i data-chat="BlackByteSupp0rt@onionmail.org"  onclick="copy19('BlackByteSupp0rt@onionmail.org',19,'copysupport')" data-title="Copy E-MAIL support" class="support-mail-copy mail-support fa fa-envelope"></i><span class="copied"></span></div>
+position: absolute;" class="col-xs-12 col-md-4"><i data-chat="BlackByteSupp0rt@onionmail.org"  onclick="copy18('BlackByteSupp0rt@onionmail.org',18,'copysupport')" data-title="Copy E-MAIL support" class="support-mail-copy mail-support fa fa-envelope"></i><span class="copied"></span></div>
                                             <div class="row ends">
                                             <div class="col-sm-4 ">
-                                                <a class=""><button class="custom-btn btn-12"><span>DELETE DATA</span><span>250000$</span></button></a>
+                                                <a class=""><button class="custom-btn btn-12"><span>DELETE DATA</span><span>150000$</span></button></a>
                                             </div>
                                             <div class="col-sm-4 ">
-                                                <a href="https://anonfiles.com/Q3sa41F2ya/brotolegal.com.br_zip" target="_blank"><button class="custom-btn btn-12"><span class="proofdata">DOWNLOAD PROOF DATA</span><span>DATA</span></button></a>
+                                                <a href="https://anonfiles.com/41W333Fdy7/phbygg_zip" target="_blank"><button class="custom-btn btn-12"><span class="proofdata">DOWNLOAD PROOF DATA</span><span>DATA</span></button></a>
                                             </div>
                                             <div class="col-sm-4 ">
-                                                <a id="myBtn1" 19><button class="custom-btn btn-12"><span>BUY DATA</span><span>200000$</span></button></a>
+                                                <a id="myBtn1" 18><button class="custom-btn btn-12"><span>BUY DATA</span><span>100000$</span></button></a>
                                             </div>
                                         </div>
                                     </div>
@@ -1925,7 +1920,7 @@ position: absolute;" class="col-xs-12 col-md-4"><i data-chat="BlackByteSupp0rt@o
                         </div>
                     </div>
                 </div>
-                <div id="myModal1" class="modal1" style="background-color: rgba(0, 0, 0, 0.84)" 19>
+                <div id="myModal1" class="modal1" style="background-color: rgba(0, 0, 0, 0.84)" 18>
                     <div class="modal1-content">
                         <div class="modal1-header">
                             <span class="close">&times;</span>
@@ -1965,7 +1960,7 @@ position: absolute;" class="col-xs-12 col-md-4"><i data-chat="BlackByteSupp0rt@o
 
                 var showed12 = 0;
                 var showed_d_buttons12 = 0;
-                var HAPPYSEC12 = -37611090;
+                var HAPPYSEC12 = -37625069;
                 var t_sec12 = HAPPYSEC12;
                 var time12;
                 var intervalId12= 0;
@@ -2141,7 +2136,7 @@ position: absolute;" class="col-xs-12 col-md-4"><i data-chat="BlackByteSupp0rt@o
 
                 var showed13 = 0;
                 var showed_d_buttons13 = 0;
-                var HAPPYSEC13 = -37611090;
+                var HAPPYSEC13 = -37625069;
                 var t_sec13 = HAPPYSEC13;
                 var time13;
                 var intervalId13= 0;
@@ -2319,7 +2314,7 @@ position: absolute;" class="col-xs-12 col-md-4"><i data-chat="BlackByteSupp0rt@o
 
                 var showed14 = 0;
                 var showed_d_buttons14 = 0;
-                var HAPPYSEC14 = -37611090;
+                var HAPPYSEC14 = -37625069;
                 var t_sec14 = HAPPYSEC14;
                 var time14;
                 var intervalId14= 0;
@@ -2499,7 +2494,7 @@ position: absolute;" class="col-xs-12 col-md-4"><i data-chat="BlackByteSupp0rt@o
 
                 var showed15 = 0;
                 var showed_d_buttons15 = 0;
-                var HAPPYSEC15 = -37611090;
+                var HAPPYSEC15 = -37625069;
                 var t_sec15 = HAPPYSEC15;
                 var time15;
                 var intervalId15= 0;
@@ -2678,7 +2673,7 @@ position: absolute;" class="col-xs-12 col-md-4"><i data-chat="BlackByteSupp0rt@o
 
                 var showed16 = 0;
                 var showed_d_buttons16 = 0;
-                var HAPPYSEC16 = -37611090;
+                var HAPPYSEC16 = -37625069;
                 var t_sec16 = HAPPYSEC16;
                 var time16;
                 var intervalId16= 0;
@@ -2856,7 +2851,7 @@ position: absolute;" class="col-xs-12 col-md-4"><i data-chat="BlackByteSupp0rt@o
 
                 var showed17 = 0;
                 var showed_d_buttons17 = 0;
-                var HAPPYSEC17 = -37611090;
+                var HAPPYSEC17 = -37625069;
                 var t_sec17 = HAPPYSEC17;
                 var time17;
                 var intervalId17= 0;
@@ -3012,186 +3007,6 @@ position: absolute;" class="col-xs-12 col-md-4"><i data-chat="BlackByteSupp0rt@o
 
             
             <script>
-                var proof_img_block18 = '<img src="Array" alt="" class="proof">';
-
-                function ShowProof18() {
-                    if (showed18 === 0) {
-                        showed18 = 1;
-                        $("#target_18 .proof_block").html(proof_img_block18).slideDown(400);
-                    } else {
-                        showed18 = 0;
-                        $("#target_18 .proof_block").html(' ').slideUp(400);
-                    }
-                }
-
-                function ShowDButtons18() {
-                    if (showed_d_buttons18 === 0) {
-                        showed_d_buttons18 = 1;
-                        $("#target_18 .d_buttons").slideDown(400);
-                    } else {
-                        showed_d_buttons18 = 0;
-                        $("#target_18 .d_buttons").slideUp(400);
-                    }
-                }
-
-                var showed18 = 0;
-                var showed_d_buttons18 = 0;
-                var HAPPYSEC18 = -37611090;
-                var t_sec18 = HAPPYSEC18;
-                var time18;
-                var intervalId18= 0;
-
-                $(document).ready(function () {
-                    $("#target_18 .d_buttons a.btn3").addClass("red_button");
-                    intervalId18 = setInterval(function () {
-                        timerDecrement18();
-                    }, 1000);
-                });
-
-                function timerDecrement18() {
-                    time18 = $('#target_18 span.timer');
-
-                    if (t_sec18 < 1) {
-                        t_sec18 = 0;
-                        newTime = t_sec18 ;
-                    } else {
-                        newTime = t_sec18 - 1;
-                    }
-
-                    t_sec18 = newTime;
-
-                    var t_min = t_sec18 / 60;
-                    var t_hour = t_min / 60;
-                    var t_day =
-                        '<b>' + Math.floor(t_hour / 24) + '</b>d ' +
-                        '<b>' + Math.floor(t_hour % 24) + '</b>h ' +
-                        '<b>' + Math.floor(t_min % 60) + '</b>m ' +
-                        '<b>' + Math.floor(t_sec18 % 60) + '</b>s ';
-
-                    time18.html(t_day);
-
-                    if (newTime === 0 && HAPPYSEC18 > 0 || newTime < 1) {
-                        time18.html('');
-                        $("#target_18 .lock").attr("src", "assets/img/lockopen.png");
-                        $("#target_18 .clock").attr("src", "assets/img/clockred.png").addClass("clockred");
-                        $("#target_18 .btn2").addClass("redbg");
-                        $("#target_18 .arrow-8").addClass("r8");
-                        $("#target_18 .perc").html("100%");
-                        clearInterval(intervalId18);
-                        //GetDownloadLink(//, $("#target_// .by_button"));
-                    }
-                }
-
-            </script>
-
-            <div class="col-md-12 col-sm-12 bgt1 " id="target_18" style="display: none">
-                <table class="table table-bordered table-content ">
-                    <tr style=";" class="content-fone">
-                        <td class="txt td-1">
-                            <div style="border-bottom: 1px solid silver; border-left: 1px solid silver; border-right: 1px solid silver; margin-top: 20px; width: 40%; margin-left: auto; margin-right: auto; opacity: 0.1;"></div>
-                            <h1 class="h_font">PETERSON & HANSON</h1>
-
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>
-                            <input type="text" class="inp-copy copy_input_18" value="">
-                            <p class="lead-text5">WE ARE PETERSON & HANSON BYGGNADS AB
-With environment, competence and well-being at the top of the agenda, we perform construction services in Halland and the surrounding area for satisfied and returning customers.
-We have been in the industry since 1963 and are one of Halland's largest construction companies.                            </p>
-
-
-                            <div class="container1">
-                                <div class="row">
-                                    <div class="col-xs-12 col-md-4"><a data-title="URL" class=" globe glob fa fa-globe"  href="https://www.phbygg.se/"  target="_blank"></a></div>
-                                    <div style="text-align: center" class="col-xs-12 col-md-4"><i data-chat="61141FCA047691D0E47CFD84717B59D3BEDF822442B5E907BE147FD6B8A11B723A48DF7FCA47"  onclick="copy18('61141FCA047691D0E47CFD84717B59D3BEDF822442B5E907BE147FD6B8A11B723A48DF7FCA47',18,'tox-chat')" data-title="TOX support" class="btc-copy comm fa fa-commenting"></i><span class="copied"></span></div>
-                                    <div  class="col-xs-12 col-md-4"><i style="float: right" class="mon money fa fa-money" data-title="DATA"  onclick="$('.desc_18').modal('show') "></i></div>
-                                </div>
-                            </div>
-                        </td>
-                    </tr>
-                </table>
-            </div>
-            <script>
-                function copy18(text,target_id,block){
-                    selector = ".copy_input_18";
-                    $(selector).val(text);
-                    $(selector).focus();
-                    $(selector).select();
-                    document.execCommand("copy");
-                    old_text = "";
-                    copied_text = "Copied!";
-                    $("#target_"+target_id+" ."+block+" .copied").html(copied_text);
-                    setTimeout(function () {
-                        $("#target_"+target_id+" ."+block+" .copied").html(old_text);
-                    },1000)
-                }
-            </script>
-            <div class="modal desc_18" tabindex="-1" id="target_18">
-                <div class="modal-dialog  ">
-                    <div class="modal-content">
-                        <div class="modal-header">
-                            <div class="modal-title">PETERSON & HANSON Proofs Block</div>
-                        </div>
-                        <div class="modal-body">
-                            <div class="col-md-12 px-0">
-                                <div class="proof_block text-center"></div>
-                                <div>
-                                    <div class="blocks"><div class="gallery" >
-                                            <a  class="photo proof_images proof_images_18"> <div class="gallery">
-                                            <a rel="gallery" class="photo gost"><img class="img-l" src="proofs/18/proof1.png"></a>
-                                        </div>  <div class="gallery">
-                                            <a rel="gallery" class="photo gost"><img class="img-l" src="proofs/18/proof2.png"></a>
-                                        </div>  <div class="gallery">
-                                            <a rel="gallery" class="photo gost"><img class="img-l" src="proofs/18/proof3.png"></a>
-                                        </div>  <div class="gallery">
-                                            <a rel="gallery" class="photo gost"><img class="img-l" src="proofs/18/proof4.png"></a>
-                                        </div>  <div class="gallery">
-                                            <a rel="gallery" class="photo gost"><img class="img-l" src="proofs/18/proof5.png"></a>
-                                        </div> </a>
-                                        </div></div>
-                                    <div class="container2">
-                                        <input type="text" class="inp-copy copy_input_18" value="">
-                                        <div class="info-text">Company documents, deletion/purchase</div>
-                                        <div class="linear2"></div>
-                                        <div class="tox-text">If you are interested to purchase the data or requesting to remove it, Please connect us through our Email/TOX.</div>
-                                            <div style="text-align: center; margin-top: 96px;
-position: absolute; left: 130px; " class="col-xs-12 col-md-4"><i data-chat="61141FCA047691D0E47CFD84717B59D3BEDF822442B5E907BE147FD6B8A11B723A48DF7FCA47"  onclick="copy18('61141FCA047691D0E47CFD84717B59D3BEDF822442B5E907BE147FD6B8A11B723A48DF7FCA47',18,'tox-chat')" data-title="Copy TOX support" class="btc-copy comms fa fa-commenting"></i><span class="copied"></span></div>
-                                            <div style="text-align: center; ;
-position: absolute;" class="col-xs-12 col-md-4"><i data-chat="BlackByteSupp0rt@onionmail.org"  onclick="copy18('BlackByteSupp0rt@onionmail.org',18,'copysupport')" data-title="Copy E-MAIL support" class="support-mail-copy mail-support fa fa-envelope"></i><span class="copied"></span></div>
-                                            <div class="row ends">
-                                            <div class="col-sm-4 ">
-                                                <a class=""><button class="custom-btn btn-12"><span>DELETE DATA</span><span>150000$</span></button></a>
-                                            </div>
-                                            <div class="col-sm-4 ">
-                                                <a href="https://anonfiles.com/41W333Fdy7/phbygg_zip" target="_blank"><button class="custom-btn btn-12"><span class="proofdata">DOWNLOAD PROOF DATA</span><span>DATA</span></button></a>
-                                            </div>
-                                            <div class="col-sm-4 ">
-                                                <a id="myBtn1" 18><button class="custom-btn btn-12"><span>BUY DATA</span><span>100000$</span></button></a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div id="myModal1" class="modal1" style="background-color: rgba(0, 0, 0, 0.84)" 18>
-                    <div class="modal1-content">
-                        <div class="modal1-header">
-                            <span class="close">&times;</span>
-                            <h2>Information</h2>
-                            <div class="linear2"></div>
-                        </div>
-                        <div class="modal1-body">
-                            <div></div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-            
-            <script>
                 var proof_img_block3 = '<img src="Array" alt="" class="proof">';
 
                 function ShowProof3() {
@@ -3216,7 +3031,7 @@ position: absolute;" class="col-xs-12 col-md-4"><i data-chat="BlackByteSupp0rt@o
 
                 var showed3 = 0;
                 var showed_d_buttons3 = 0;
-                var HAPPYSEC3 = -37611090;
+                var HAPPYSEC3 = -37625069;
                 var t_sec3 = HAPPYSEC3;
                 var time3;
                 var intervalId3= 0;
