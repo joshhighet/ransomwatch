@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-11-08 | [`thaiho.com`](https://google.com/search?q=thaiho.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2022-11-08 | [`crtl.com`](https://google.com/search?q=crtl.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-11-07 | [`METRO`](https://google.com/search?q=METRO) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2022-11-07 | [`Cornwell Quality Tools`](https://google.com/search?q=Cornwell+Quality+Tools) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
 | 2022-11-07 | [`TCQ`](https://google.com/search?q=TCQ) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2022-10-20 | [`EDC3`](https://google.com/search?q=EDC3) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2022-10-20 | [`J.M. Rodgers Co.`](https://google.com/search?q=J.M.+Rodgers+Co.) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2022-10-20 | [`ALRO`](https://google.com/search?q=ALRO) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2022-10-20 | [`STONE1`](https://google.com/search?q=STONE1) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2022-10-20 | [`Stages Pediatric Care New 40 personal records`](https://google.com/search?q=Stages+Pediatric+Care+New+40+personal+records) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
