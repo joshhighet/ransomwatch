@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-11-11 | [`J & D Pierce Contracts Ltd`](https://google.com/search?q=J+%26+D+Pierce+Contracts+Ltd) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-11-11 | [`amarillogeeks.webhop.org`](https://google.com/search?q=amarillogeeks.webhop.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-11-11 | [`Aeronautics company Canada`](https://google.com/search?q=Aeronautics+company+Canada) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2022-11-10 | [`Kreisverwaltung Rhein-Pfalz-Kreis`](https://google.com/search?q=Kreisverwaltung+Rhein-Pfalz-Kreis) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
@@ -41,7 +42,6 @@ _last `200` posts_
 | 2022-11-07 | [`Bosselman Energy Inc`](https://google.com/search?q=Bosselman+Energy+Inc) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-11-07 | [`http://www.sheehanfamilycompanies.com`](https://google.com/search?q=http%3A%2F%2Fwww.sheehanfamilycompanies.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
 | 2022-11-07 | [`richard-wolf.com`](https://google.com/search?q=richard-wolf.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-11-07 | [`medibank.com.au`](https://google.com/search?q=medibank.com.au) | [revil](https://ransomwatch.telemetry.ltd/#/profiles?id=revil) |
 | 2022-11-06 | [`CR&amp;R Environmental Services`](https://google.com/search?q=CR%26amp%3BR+Environmental+Services) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2022-11-06 | [`thenet.group`](https://google.com/search?q=thenet.group) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-11-06 | [`rockworthindia.com`](https://google.com/search?q=rockworthindia.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
