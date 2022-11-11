@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-11-11 | [`amarillogeeks.webhop.org`](https://google.com/search?q=amarillogeeks.webhop.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-11-11 | [`Aeronautics company Canada`](https://google.com/search?q=Aeronautics+company+Canada) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2022-11-10 | [`Kreisverwaltung Rhein-Pfalz-Kreis`](https://google.com/search?q=Kreisverwaltung+Rhein-Pfalz-Kreis) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2022-11-10 | [`Main & Main Capital Group`](https://google.com/search?q=Main+%26+Main+Capital+Group) | [lorenz](https://ransomwatch.telemetry.ltd/#/profiles?id=lorenz) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-10-25 | [`Lantek Systems Inс`](https://google.com/search?q=Lantek+Systems+In%D1%81) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2022-10-25 | [`Tata Power`](https://google.com/search?q=Tata+Power) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
 | 2022-10-24 | [`pendragonplc.com`](https://google.com/search?q=pendragonplc.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-10-23 | [`Kenosha Unified School District`](https://google.com/search?q=Kenosha+Unified+School+District) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
