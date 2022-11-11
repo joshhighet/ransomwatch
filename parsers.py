@@ -231,7 +231,7 @@ def revil():
     stdlog('parser: ' + 'revil')
     # grep 'href="/posts' source/revil-*.html --no-filename | cut -d '>' -f2 | sed -e s/'<\/a'// -e 's/^[ \t]*//'
     parser = '''
-    grep 'justify-content-between' source/revil-*.html --no-filename | cut -d '>' -f 3 | cut -d '<' -f 1 | sed -e 's/^ *//g' -e 's/[[:space:]]*$//'
+    grep 'justify-content-between' source/revil-*.html --no-filename | cut -d '>' -f 3 | cut -d '<' -f 1 | sed -e 's/^ *//g' -e 's/[[:space:]]*$//' -e '/ediban/d'
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
@@ -845,3 +845,14 @@ def royal():
         errlog('royal: ' + 'parsing fail')
     for post in posts:
         appender(post, 'royal')
+
+def projectrelic():
+    stdlog('parser: ' + 'projectrelic')
+    parser = '''
+    grep '<div class="website">' source/projectrelic-*.html | cut -d '"' -f 4
+    '''
+    posts = runshellcmd(parser)
+    if len(posts) == 1:
+        errlog('projectrelic: ' + 'parsing fail')
+    for post in posts:
+        appender(post, 'projectrelic')
