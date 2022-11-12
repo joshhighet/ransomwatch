@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-11-12 | [`Blog is empty`](https://google.com/search?q=Blog+is+empty) | [revil](https://ransomwatch.telemetry.ltd/#/profiles?id=revil) |
 | 2022-11-12 | [`nobilityrcm.com / altapartnersllc.com  /  MFAST.com / MSBS.biz sym / elitemedicalbill.com`](https://google.com/search?q=nobilityrcm.com+%2F+altapartnersllc.com++%2F++MFAST.com+%2F+MSBS.biz+sym+%2F+elitemedicalbill.com) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-11-12 | [`http://willisklein.com`](https://google.com/search?q=http%3A%2F%2Fwillisklein.com) | [projectrelic](https://ransomwatch.telemetry.ltd/#/profiles?id=projectrelic) |
 | 2022-11-12 | [`http://broad-med.com`](https://google.com/search?q=http%3A%2F%2Fbroad-med.com) | [projectrelic](https://ransomwatch.telemetry.ltd/#/profiles?id=projectrelic) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-10-27 | [`rjyoung.com`](https://google.com/search?q=rjyoung.com) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-10-27 | [`Mdaemon Technologies`](https://google.com/search?q=Mdaemon+Technologies) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-10-27 | [`unipiloto.edu.co`](https://google.com/search?q=unipiloto.edu.co) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2022-10-27 | [`Comando Conjunto de las Fuerzas Armadas Del Ecuador`](https://google.com/search?q=Comando+Conjunto+de+las+Fuerzas+Armadas+Del+Ecuador) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
