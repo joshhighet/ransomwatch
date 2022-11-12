@@ -3591,5 +3591,24 @@
             }
         ],
         "profile": []
+    },
+    {
+        "name": "projectrelic",
+        "captcha": false,
+        "parser": false,
+        "javascript_render": false,
+        "meta": null,
+        "locations": [
+            {
+                "fqdn": "relic5zqwemjnu4veilml6prgyedj6phs7de3udhicuq53z37klxm6qd.onion",
+                "title": null,
+                "version": 3,
+                "slug": "http://relic5zqwemjnu4veilml6prgyedj6phs7de3udhicuq53z37klxm6qd.onion",
+                "available": false,
+                "updated": null,
+                "lastscrape": "2021-05-01 00:00:00.000000"
+            }
+        ],
+        "profile": []
     }
 ]
