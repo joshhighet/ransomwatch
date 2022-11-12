@@ -4,6 +4,11 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-11-12 | [`http://willisklein.com`](https://google.com/search?q=http%3A%2F%2Fwillisklein.com) | [projectrelic](https://ransomwatch.telemetry.ltd/#/profiles?id=projectrelic) |
+| 2022-11-12 | [`http://broad-med.com`](https://google.com/search?q=http%3A%2F%2Fbroad-med.com) | [projectrelic](https://ransomwatch.telemetry.ltd/#/profiles?id=projectrelic) |
+| 2022-11-12 | [`http://turnercpas.com`](https://google.com/search?q=http%3A%2F%2Fturnercpas.com) | [projectrelic](https://ransomwatch.telemetry.ltd/#/profiles?id=projectrelic) |
+| 2022-11-12 | [`http://sterlingbattery.com`](https://google.com/search?q=http%3A%2F%2Fsterlingbattery.com) | [projectrelic](https://ransomwatch.telemetry.ltd/#/profiles?id=projectrelic) |
+| 2022-11-12 | [`http://doctorscenterhospital.com`](https://google.com/search?q=http%3A%2F%2Fdoctorscenterhospital.com) | [projectrelic](https://ransomwatch.telemetry.ltd/#/profiles?id=projectrelic) |
 | 2022-11-11 | [`https://www.qep.com`](https://google.com/search?q=https%3A%2F%2Fwww.qep.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
 | 2022-11-11 | [`BRAZILIAN PET FOODS`](https://google.com/search?q=BRAZILIAN+PET+FOODS) | [lv](https://ransomwatch.telemetry.ltd/#/profiles?id=lv) |
 | 2022-11-11 | [`SOUTH-STAFFS-WATER.CO.UK FILES PART11 - water\10.80.74.231\ PUBLISHED`](https://google.com/search?q=SOUTH-STAFFS-WATER.CO.UK+FILES+PART11+-+water%5C10.80.74.231%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
@@ -199,8 +204,3 @@ _last `200` posts_
 | 2022-10-27 | [`unipiloto.edu.co`](https://google.com/search?q=unipiloto.edu.co) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-10-27 | [`Comando Conjunto de las Fuerzas Armadas Del Ecuador`](https://google.com/search?q=Comando+Conjunto+de+las+Fuerzas+Armadas+Del+Ecuador) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-10-27 | [`Miracapo pizza company`](https://google.com/search?q=Miracapo+pizza+company) | [lorenz](https://ransomwatch.telemetry.ltd/#/profiles?id=lorenz) |
-| 2022-10-27 | [`steelesolutions.com`](https://google.com/search?q=steelesolutions.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-10-27 | [`tiffinmetal.com`](https://google.com/search?q=tiffinmetal.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-10-27 | [`Stages Pediatric Care DataBase on Sale`](https://google.com/search?q=Stages+Pediatric+Care+DataBase+on+Sale) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
-| 2022-10-26 | [`CCLint`](https://google.com/search?q=CCLint) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
-| 2022-10-26 | [`Municipio de Chihuahua`](https://google.com/search?q=Municipio+de+Chihuahua) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |

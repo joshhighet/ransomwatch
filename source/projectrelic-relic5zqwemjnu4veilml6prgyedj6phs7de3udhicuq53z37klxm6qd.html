@@ -1,0 +1,493 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Project Relic. Dumps, leaks, news, announcements</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+:root {
+	--color-cyan2: #a2dffb;
+	--color-grey-dark: #151515;
+	--color-grey1: #282828;
+	--color-grey2: #666;
+	--color-grey-bright: #999999;
+	--color-legend: #769DFF;
+
+	--color-link: rgb(140, 180, 255);
+	--color-title: rgb(190, 165, 255);
+	--color-href-underline: #a2acab;
+
+	--font-arial: 'Arial', verdana;
+	--font-cantarell: Cantarell, "Playfair Display", Georgia, "Times New Roman", serif;
+	--font-main: var(--font-cantarell);
+	--font-headers: var(--font-arial);
+	--font-size: 1rem;
+	--padding-v: .25rem;
+	--padding-h: .5rem;
+	--border-radius: .25rem;
+	--shadow-sm: rgba(0, 0, 0, 0.8);
+	--shadow: rgba(0, 0, 0, 0.6);
+	--ashadow: rgba(0, 0, 0, 0.2);
+	--antishadow: rgba(255, 255, 255, 0.15);
+
+	--invert: 1;
+}
+*, html, body {
+  padding:0px;
+  margin:0px;
+  box-sizing:border-box;
+  perspective:800px;
+	font-family: var(--font-main);
+}
+html { scrollbar-color: var(--color-grey-dark) var(--color-grey2); }
+body {
+  width:100%;
+  height:100%;
+	background-color: var(--color-grey-dark);
+  box-shadow:0px 0px 10px var(--shadow);
+  text-shadow: 0 2px 2px var(--shadow);
+	align-items: center;
+	justify-content: center;
+	color: white;
+}
+.chess, .chess::before, .chess::after { width: 100%; height: 100%; }
+.chess::after { --invert: -1; }
+.chess {
+	position: fixed;
+	top: 0;
+	left: 0;
+	opacity: .2;
+}
+.chess::before, .chess::after {
+	content: "";
+	position: absolute;
+	background: repeating-linear-gradient(calc(45deg * var(--invert)), #000 0, #222 40px, #999 40px, #999 80px);
+	mix-blend-mode: difference;
+}
+
+.banner {
+	width:100vw;
+	max-height: fit-content;
+	background-color: var(--shadow);
+	padding: 1rem 0 1rem 14vw;
+	border-bottom: dotted 1px red;
+}
+.timeline {
+/*	flex: auto;
+	align-self: center;
+	margin-top: 0; */
+	min-width: 75vw;
+	width: fit-content;
+	max-width:100vw;
+	background-color: var(--shadow);
+	border-radius: var(--border-radius);
+	padding: 1.5rem 1rem;
+}
+.timeline ul {
+  list-style-type:none;
+  border-left:1px solid red;
+	padding: var(--padding-v) var(--padding-h);
+}
+.timeline ul li {
+	padding-left: 1.5rem;
+  position:relative;
+  transition:.5s;
+	opacity: .8;
+	display: flex;
+	margin-bottom: 2rem;
+	font-size:var(--font-size);
+}
+.timeline ul li:before {
+  position:absolute;
+  content:'';
+	width: 1.5rem;
+	height: .75rem;
+	background-color:red;
+	left:-0.75rem;
+	top: 1.5rem;
+}
+.timeline ul li:hover:before {
+	background-color:red;
+  box-shadow:0px 0px 10px 2px red;
+	transition:.25s;
+}
+.content {
+	background-color: var(--color-grey1);
+	border: solid black 1px;
+	border-radius: var(--border-radius);
+	flex-row: 1;
+	flex: auto;
+}
+.content:hover {
+  box-shadow:0px 0px 10px 2px var(--color-grey-dark);
+	transition:.25s;
+}
+.header {
+	display: flex;
+	width: 100%;
+/*	opacity: .8; */
+	letter-spacing: .1rem;
+	border-bottom: dotted grey 1px;
+	margin-bottom: 2px;
+}
+.header > div {
+	padding: var(--padding-v) var(--padding-h);
+	width: fit-content;
+	flex-grow: 0;
+	color: white;
+	font-size: large;
+	text-transform:uppercase;
+}
+.header > div:before, .header > div:after {
+	font-weight: 400;
+  font-family: var(--font-headers);
+  text-underline-offset: 0.25em;
+	color: red;
+	text-transform: uppercase;
+	padding: .2rem .5rem 0 0;
+}
+.header > div:last-child { display: flex; flex-grow:1; justify-content: flex-end; align-self: flex-end; }
+
+.name:before { content: "hacked"; }
+/* .country:before, .country:after { content: " +++ "; } */
+
+.description {
+	padding: 1.2rem 1.6rem 1.2rem 1.6rem;
+	text-indent: .5rem;
+	text-align: justify;
+	white-space: normal;
+	flex-wrap: wrap;
+	word-wrap: break-word;
+	flex-grow: 1;
+	max-width: 25vw;
+}
+.column .description,
+.description.column { text-indent: 1rem;  }
+.card {
+  box-shadow:0px 0px 10px var(--shadow);
+	border-top: dotted grey 1px;
+	display: flex;
+	flex-grow: 1;
+}
+.card div {
+	white-space: normal;
+	word-wrap: break-word;
+	text-indent: 0;
+	padding: var(--padding-v) var(--padding-h);
+	margin: 1px;
+	flex-grow: 1;
+}
+.card div:empty { display:none; }
+.card > div:last-of-type { text-align: right; }
+
+/*
+.card div:not(:empty):before {
+	content: var(--div-content);
+	font-family: var(--font-headers);
+	text-decoration: underline 1px dotted var(--color-legend);
+	text-underline-offset: 0.25em;
+	color: var(--color-legend);
+}
+*/
+/*
+.links:before				{ --div-content: "Links:"; }
+.tags:before				{ --div-content: "Tags:"; }
+.addr:before				{ --div-content: "Addr:"; }
+.revenue:before			{ --div-content: "Revenue:"; }
+.description:before	{ --div-content: "Description:"; }
+.phones:before			{ --div-content: "Phones:"; }
+.quotes:before			{ --div-content: "Quotes:"; }
+*/
+
+.addr { white-space: break-spaces; flex-wrap: wrap; word-wrap: normal; }
+.addr p { white-space: nowrap; }
+.website, .addr p { white-space: nowrap; flex-wrap: wrap; }
+.tags, .tags p {
+  white-space: normal;
+  width: min-content;
+}
+/* .tags p:first-letter { color:pink; } */
+.tags p { cursor: pointer; color: var(--color-link); }
+.tags.row p { margin: .25rem; }
+.links a {
+	display: block;
+	padding: calc(var(--padding-v) / 2 ) calc(var(--padding-h) / 2);
+	color: var(--color-link);
+}
+
+.leaks {
+	border-collapse: collapse;
+	border-top: dotted 1px grey;
+	border-bottom: solid 1px var(--antishadow);
+	padding: 1rem .5rem 1rem .5rem;
+	flex-grow: 1;
+	min-width: 100%;
+	min-height: 2rem;
+	height: fit-content;
+	display: flex;
+	flex-direction: column;
+/*	background-color: var(--shadow); */
+	padding-top: 2rem;
+	letter-spacing: .1rem;
+}
+
+.leaks:after {
+	display: flex;
+	content: "download +++ leaks";
+
+	font-size: large;
+	font-weight: 400;
+  font-family: var(--font-headers);
+  text-underline-offset: 0.25em;
+	color: red;
+	text-transform: uppercase;
+	padding: .2rem .5rem 0 0;
+
+/*	border-bottom: solid red 1px; */
+	padding: var(--padding-v) var(--padding-h);
+	position: absolute;
+	top:0;left:0;
+}
+
+u, b, a {
+	display: inline-block;
+	padding: 0 .25rem 0 .25rem;
+}
+u {
+  text-decoration: underline 1px dotted var(--color-legend);
+  text-underline-offset: 0.25em;
+	color: var(--color-legend);
+}
+b { color: var(--color-title); }
+a { color: var(--color-link); }
+h1, h2, h3, h4, h5, h6 { display: inline-block; font-weight: normal; }
+
+.row { display: flex; flex-direction: row; } /* flex-wrap: wrap; margin-right: .25rem; } */
+.column { display: flex; flex-direction: column; } /* flex-wrap: wrap; } */
+
+@media (max-width:600px) {
+  .timeline {
+    width:100%;
+		padding: 1.5rem 1rem;
+  }
+}
+
+.leak {
+	display: flex; flex-direction: row; 
+	color: white;
+	letter-spacing: .125rem;
+	margin: .5rem .5rem;
+/*	flex-grow: 1; */
+	flex: 1 1 auto;
+	min-width: 35vw;
+	max-width: 90vw;
+	justify-content: space-around;
+	align-items: space-around;
+	align-content: space-around;
+	align-self: space-around;
+	flex-wrap: nowrap;
+	gap: 0;
+}
+/* .leak u, .leak a, .leak p {	padding: var(--padding-v) var(--padding-h); } */
+.leak u {
+	font-weight: 300;
+	font-style: normal;
+	text-align: left;
+/*	min-width: min-content;
+	max-width: 5vw;*/
+	width: 5vw;
+	text-decoration: none;
+  border-bottom: dotted white 1px;
+	flex-grow: 0;
+	padding-left: .25rem;
+	align-self: center;
+	align-items: center;
+	align-content: center;
+	justify-content: center;
+}
+.leak a {
+	text-align: right;
+	text-transform: uppercase;
+	font-size: calc(.9 * var(--font-size));
+	color: #0089c7;
+	color: #8ed1fc;
+	color: var(--color-link);
+	text-decoration: none;
+	border-left: 1px dotted black;
+	border-right: 1px dotted black;
+	border-bottom: dotted white 1px;
+	border-left-radius: var(--border-radius);
+	min-width: 15vw;
+	max-width: 42.5vw;
+	letter-spacing: .1rem;
+	flex-grow: auto;
+	flex: 1 1 auto;
+}
+.leak a:not(:nth-child(2)) {	background-color: rgba(50, 50, 50, 0.5); }
+.leak a:hover {
+	border-right: 1px dotted red;
+	border-left: 1px dotted red;
+}
+.leak p {
+	border-bottom: dotted white 1px;
+	min-width: 15vw;
+	max-width: 42.5vw;
+	padding: 0 0 0 0;
+	text-align: left;
+	margin: 0;
+	flex-grow: auto;
+	flex: 1 1 auto;
+}
+
+</style>
+</head>
+<body class="column">
+<div class="chess"></div>
+<div class="banner"><h1>Project Relic. Dumps, leaks, news, announcements</h1></div>
+<div class="timeline">
+<ul>
+
+<li>
+	<div class="content">
+		<div class="header">
+			<div class="name">Doctors Center Hospital</div>
+			<div class="country"></div>
+			<div class="date"></div>
+		</div>
+		<div class="card row">
+			<div class="column">
+				<div class="description"><u>Doctors' Center Hospital</u> is among the leaders in the hospital network of Puerto Rico.</div>
+				<div class="tags row"><p>#hospital</div>
+			</div>
+			<div class="column">
+				<div class="website"><a href="http://doctorscenterhospital.com">http://doctorscenterhospital.com</a></div>
+				<div class="addr column"><p><u>HQ</u> PO Box 30532, Manati, Puerto Rico, 00674, USA</div>
+				<div class="phones"><div class="column"><p>+1 (787) 854-3322</div></div>
+			</div>
+			<div class="column">
+				<div class="revenue"><u>Annual revenue</u> $46m</div>
+        <div class="links column">
+          <a href="http://tuhospitalfamiliar.com">tuhospitalfamiliar.com</a>
+        </div>
+			</div>
+		</div>
+		<div class="leaks">
+			<div class="leak"><a href="//dumpzdrsvg6dd5hi2bjb6cxwzj4ajj6orsns7fwb7vklfbqnqhgwpdad.onion/doctorscenterhospital.com">doctorscenterhospital.com</a><u>114mb</u><p>Examples</div>
+			<div class="leak"><a>-------</a><u>211gb</u><p>Full dump (announce)</div>
+		</div>
+	</div>
+</li>
+
+<li>
+	<div class="content">
+		<div class="header">
+			<div class="name">Sterling Battery</div>
+			<div class="country"></div>
+			<div class="date"></div>
+		</div>
+		<div class="card row">
+			<div class="column">
+				<div class="description"><u>Sterling Battery Co</u> is a company that operates in the Automotive industry.</div>
+				<div class="tags row"><p>#manufacturing</div>
+			</div>
+			<div class="column">
+				<div class="website"><a href="http://sterlingbattery.com">http://sterlingbattery.com</a></div>
+				<div class="addr column"><p><u>HQ</u> 4479 Chinden Blvd, Boise, Idaho, 83714, USA</div>
+				<div class="phones"><div class="column"><p>+1 (208) 376-1721</div></div>
+			</div>
+			<div class="column">
+				<div class="revenue"><u>Annual revenue</u> $5m</div>
+			</div>
+		</div>
+		<div class="leaks">
+			<div class="leak"><a href="//dumpzdrsvg6dd5hi2bjb6cxwzj4ajj6orsns7fwb7vklfbqnqhgwpdad.onion/sterlingbattery.com">sterlingbattery.com</a><u>1.6gb</u><p>Examples</div>
+		</div>
+	</div>
+</li>
+
+<li>
+	<div class="content">
+		<div class="header">
+			<div class="name">Turner & Associates, LLP</div>
+			<div class="country"></div>
+			<div class="date"></div>
+		</div>
+		<div class="card row">
+			<div class="column">
+				<div class="description">Outstanding service to our clients is what makes <u>Turner & Associates, LLP</u> one of the leading CPA firms in the State of Florida. Our combined 75 years of Partner</div>
+				<div class="tags row"><p>#accounting</div>
+			</div>
+			<div class="column">
+				<div class="website"><a href="http://turnercpas.com">http://turnercpas.com</a></div>
+				<div class="addr column"><p><u>HQ</u> 200 S Biscayne Blvd Ste 1770, Miami, Florida, 33131, USA</div>
+				<div class="phones"><div class="column"><p>+1 (305) 377-0707</div></div>
+			</div>
+			<div class="column">
+				<div class="revenue"><u>Annual revenue</u> $6m</div>
+			</div>
+		</div>
+		<div class="leaks">
+			<div class="leak"><a href="//dumpzdrsvg6dd5hi2bjb6cxwzj4ajj6orsns7fwb7vklfbqnqhgwpdad.onion/turnercpas.com">turnercpas.com</a><u>16gb</u><p>Files dump</div>
+		</div>
+	</div>
+</li>
+
+<li>
+	<div class="content">
+		<div class="header">
+			<div class="name">BroadMed Holding</div>
+			<div class="country"></div>
+			<div class="date"></div>
+		</div>
+		<div class="card row">
+			<div class="column">
+				<div class="description"><u>BroadMed Holding (BMH)</u> is a company that specializes in healthcare related businesses. The range of experience stretches to supply the medical field with a wide</div>
+				<div class="tags row"><p>#pharmacies</div>
+			</div>
+			<div class="column">
+				<div class="website"><a href="http://broad-med.com">http://broad-med.com</a></div>
+				<div class="addr column"><p><u>HQ</u>Beirut Symposium Bldg Fl 2, Metn, Lebanon, 13-6636 SHOURAN, Lebanon</div>
+				<div class="phones"><div class="column"><p>+961 1492132</p></p></div></div>
+			</div>
+			<div class="column">
+				<div class="revenue"><u>Annual revenue</u> $5m</div>
+			</div>
+		</div>
+		<div class="leaks">
+			<div class="leak"><a href="//dumpzdrsvg6dd5hi2bjb6cxwzj4ajj6orsns7fwb7vklfbqnqhgwpdad.onion/broad-med.com">broad-med.com</a><u>3gb</u><p>Examples</div>
+		</div>
+	</div>
+</li>
+
+<li>
+	<div class="content">
+		<div class="header">
+			<div class="name">Willis Klein</div>
+			<div class="country"></div>
+			<div class="date"></div>
+		</div>
+		<div class="card row">
+			<div class="column">
+				<div class="description">Founded in 1960, <u>Willis Klein</u> has multiple divisions providing decorative plumbing, door hardware, custom bathroom cabinets and furniture, commercial hardware.</div>
+				<div class="tags row"><p>#architecture<p>#design<p>#engineering</div>
+			</div>
+			<div class="column">
+				<div class="website"><a href="http://willisklein.com">http://willisklein.com</a></div>
+				<div class="addr column"><p><u>HQ</u>4041 Westport Rd, Louisville, Kentucky, 40207, USA</div>
+				<div class="phones"><div class="column"><p>+1 (502) 771-8316</p></div></div>
+			</div>
+			<div class="column">
+				<div class="revenue"><u>Annual revenue</u> $22m</div>
+				<div class="links column"></div>
+				<div class="quotes"></div>
+			</div>
+		</div>
+		<div class="leaks">
+			<div class="leak"><a href="//dumpzdrsvg6dd5hi2bjb6cxwzj4ajj6orsns7fwb7vklfbqnqhgwpdad.onion/willisklein.com">willisklein.com</a><u>68gb</u><p>Full dump</div>
+		</div>
+	</div>
+</li>
+
+</ul>
+</div>
+</body>
+</html>
