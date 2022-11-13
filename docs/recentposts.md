@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-11-13 | [`YASH Technologies`](https://google.com/search?q=YASH+Technologies) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
 | 2022-11-13 | [`Popp Hutcheson PLLC`](https://google.com/search?q=Popp+Hutcheson+PLLC) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2022-11-13 | [`Saurer`](https://google.com/search?q=Saurer) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
 | 2022-11-13 | [`Midland Cogeneration Venture`](https://google.com/search?q=Midland+Cogeneration+Venture) | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-10-28 | [`ORDEREXPRESS.COM.MX FILES PART3 - customerDataBase PUBLISHED`](https://google.com/search?q=ORDEREXPRESS.COM.MX+FILES+PART3+-+customerDataBase+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-10-28 | [`MARCELSOLUTION.COM FILES PART4 - SYMASOFT31-39 PUBLISHED`](https://google.com/search?q=MARCELSOLUTION.COM+FILES+PART4+-+SYMASOFT31-39+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-10-28 | [`SPINNEYS.COM FILES PART14 - 192.168.254.2, SHYJU--LT.itretgrp.net PUBLISHED`](https://google.com/search?q=SPINNEYS.COM+FILES+PART14+-+192.168.254.2%2C+SHYJU--LT.itretgrp.net+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-10-28 | [`AT&#038;T`](https://google.com/search?q=AT%26%23038%3BT) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
