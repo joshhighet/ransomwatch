@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-11-13 | [`Midland Cogeneration Venture`](https://google.com/search?q=Midland+Cogeneration+Venture) | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
 | 2022-11-13 | [`CENTRAL BANK OF GAMBIA HACKED. 2 TB OF CRITICAL DATA WAS STOLEN.`](https://google.com/search?q=CENTRAL+BANK+OF+GAMBIA+HACKED.+2+TB+OF+CRITICAL+DATA+WAS+STOLEN.) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-11-12 | [`Blog is empty`](https://google.com/search?q=Blog+is+empty) | [revil](https://ransomwatch.telemetry.ltd/#/profiles?id=revil) |
 | 2022-11-12 | [`nobilityrcm.com / altapartnersllc.com  /  MFAST.com / MSBS.biz sym / elitemedicalbill.com`](https://google.com/search?q=nobilityrcm.com+%2F+altapartnersllc.com++%2F++MFAST.com+%2F+MSBS.biz+sym+%2F+elitemedicalbill.com) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-10-28 | [`AT&#038;T`](https://google.com/search?q=AT%26%23038%3BT) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2022-10-27 | [`DURAVIT A.G. - Announcement before publishing data`](https://google.com/search?q=DURAVIT+A.G.+-+Announcement+before+publishing+data) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
 | 2022-10-27 | [`rjyoung.com`](https://google.com/search?q=rjyoung.com) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2022-10-27 | [`Mdaemon Technologies`](https://google.com/search?q=Mdaemon+Technologies) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
