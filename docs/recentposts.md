@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-11-13 | [`Popp Hutcheson PLLC`](https://google.com/search?q=Popp+Hutcheson+PLLC) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2022-11-13 | [`Saurer`](https://google.com/search?q=Saurer) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
 | 2022-11-13 | [`Midland Cogeneration Venture`](https://google.com/search?q=Midland+Cogeneration+Venture) | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
 | 2022-11-13 | [`CENTRAL BANK OF GAMBIA HACKED. 2 TB OF CRITICAL DATA WAS STOLEN.`](https://google.com/search?q=CENTRAL+BANK+OF+GAMBIA+HACKED.+2+TB+OF+CRITICAL+DATA+WAS+STOLEN.) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-11-12 | [`Blog is empty`](https://google.com/search?q=Blog+is+empty) | [revil](https://ransomwatch.telemetry.ltd/#/profiles?id=revil) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2022-10-28 | [`MARCELSOLUTION.COM FILES PART4 - SYMASOFT31-39 PUBLISHED`](https://google.com/search?q=MARCELSOLUTION.COM+FILES+PART4+-+SYMASOFT31-39+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-10-28 | [`SPINNEYS.COM FILES PART14 - 192.168.254.2, SHYJU--LT.itretgrp.net PUBLISHED`](https://google.com/search?q=SPINNEYS.COM+FILES+PART14+-+192.168.254.2%2C+SHYJU--LT.itretgrp.net+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-10-28 | [`AT&#038;T`](https://google.com/search?q=AT%26%23038%3BT) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
-| 2022-10-27 | [`DURAVIT A.G. - Announcement before publishing data`](https://google.com/search?q=DURAVIT+A.G.+-+Announcement+before+publishing+data) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
-| 2022-10-27 | [`rjyoung.com`](https://google.com/search?q=rjyoung.com) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
