@@ -4,6 +4,29 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-11-15 | [`DGLEGAL`](https://google.com/search?q=DGLEGAL) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
+| 2022-11-15 | [`emscrm`](https://google.com/search?q=emscrm) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
+| 2022-11-15 | [`MIDAS Company`](https://google.com/search?q=MIDAS+Company) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
+| 2022-11-15 | [`AURIS KONINKLIJKE AURIS GROEP`](https://google.com/search?q=AURIS+KONINKLIJKE+AURIS+GROEP) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
+| 2022-11-15 | [`fidelityunited.ae`](https://google.com/search?q=fidelityunited.ae) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
+| 2022-11-15 | [`goldcreekfoods`](https://google.com/search?q=goldcreekfoods) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
+| 2022-11-15 | [`exheat.com`](https://google.com/search?q=exheat.com) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
+| 2022-11-15 | [`hwrpc.com`](https://google.com/search?q=hwrpc.com) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
+| 2022-11-15 | [`Salmon Software`](https://google.com/search?q=Salmon+Software) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
+| 2022-11-15 | [`tristatefabricators_inc`](https://google.com/search?q=tristatefabricators_inc) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
+| 2022-11-15 | [`atlantisholidays`](https://google.com/search?q=atlantisholidays) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
+| 2022-11-15 | [`archimages inc`](https://google.com/search?q=archimages+inc) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
+| 2022-11-15 | [`ALTlTUDE AEROSPACE INC`](https://google.com/search?q=ALTlTUDE+AEROSPACE+INC) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
+| 2022-11-15 | [`Fonderia Boccacci`](https://google.com/search?q=Fonderia+Boccacci) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
+| 2022-11-15 | [`Zelena Laguna Hotel`](https://google.com/search?q=Zelena+Laguna+Hotel) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
+| 2022-11-15 | [`LEGAZPIBANK`](https://google.com/search?q=LEGAZPIBANK) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
+| 2022-11-15 | [`MCCLEAN16  company`](https://google.com/search?q=MCCLEAN16++company) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
+| 2022-11-15 | [`lawtrade company`](https://google.com/search?q=lawtrade+company) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
+| 2022-11-15 | [`Autosoft company`](https://google.com/search?q=Autosoft+company) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
+| 2022-11-15 | [`BIOPLAN`](https://google.com/search?q=BIOPLAN) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
+| 2022-11-15 | [`Dyatech company`](https://google.com/search?q=Dyatech+company) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
+| 2022-11-14 | [`scottindustrialsystems.com`](https://google.com/search?q=scottindustrialsystems.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2022-11-14 | [`Baysgarth School`](https://google.com/search?q=Baysgarth+School) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2022-11-14 | [`THEW ASSOCIATES HACKED. MORE THEN 50 GB SENSETIVE DATA LEAKED.`](https://google.com/search?q=THEW+ASSOCIATES+HACKED.+MORE+THEN+50+GB+SENSETIVE+DATA+LEAKED.) | [lv](https://ransomwatch.telemetry.ltd/#/profiles?id=lv) |
 | 2022-11-14 | [`Nissan of Las Cruces`](https://google.com/search?q=Nissan+of+Las+Cruces) | [lorenz](https://ransomwatch.telemetry.ltd/#/profiles?id=lorenz) |
 | 2022-11-14 | [`Salud Family Health`](https://google.com/search?q=Salud+Family+Health) | [lorenz](https://ransomwatch.telemetry.ltd/#/profiles?id=lorenz) |
@@ -181,26 +204,3 @@ _last `200` posts_
 | 2022-10-30 | [`exco.fr`](https://google.com/search?q=exco.fr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-10-30 | [`coopavegra.fi.cr`](https://google.com/search?q=coopavegra.fi.cr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-10-30 | [`bellettiascensori.it`](https://google.com/search?q=bellettiascensori.it) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-10-30 | [`aaanchorbolt.com`](https://google.com/search?q=aaanchorbolt.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-10-30 | [`zurifurniture.com`](https://google.com/search?q=zurifurniture.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-10-30 | [`sociedadbilbaina.com`](https://google.com/search?q=sociedadbilbaina.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-10-30 | [`seamlessglobalsolutions.com`](https://google.com/search?q=seamlessglobalsolutions.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-10-30 | [`macrotel.com.ar`](https://google.com/search?q=macrotel.com.ar) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-10-30 | [`hoosierco.com`](https://google.com/search?q=hoosierco.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-10-30 | [`gruposanford.com`](https://google.com/search?q=gruposanford.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-10-30 | [`close-upinternational.com.uy`](https://google.com/search?q=close-upinternational.com.uy) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-10-30 | [`cacula.com`](https://google.com/search?q=cacula.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-10-30 | [`byp-global.com`](https://google.com/search?q=byp-global.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-10-30 | [`railway.gov.tw`](https://google.com/search?q=railway.gov.tw) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-10-30 | [`lincare.com`](https://google.com/search?q=lincare.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-10-29 | [`saurer.com`](https://google.com/search?q=saurer.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-10-29 | [`Network Communications Inc`](https://google.com/search?q=Network+Communications+Inc) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2022-10-29 | [`Kolas Law Firm`](https://google.com/search?q=Kolas+Law+Firm) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2022-10-29 | [`Asahi Group`](https://google.com/search?q=Asahi+Group) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
-| 2022-10-29 | [`fvsra.org`](https://google.com/search?q=fvsra.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-10-29 | [`greenstamp.co.jp`](https://google.com/search?q=greenstamp.co.jp) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-10-28 | [`Kujalleq Municipality`](https://google.com/search?q=Kujalleq+Municipality) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
-| 2022-10-28 | [`Rankam China Manufacturing`](https://google.com/search?q=Rankam+China+Manufacturing) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2022-10-28 | [`The Bishop of Hereford's Bluecoat School`](https://google.com/search?q=The+Bishop+of+Hereford%27s+Bluecoat+School) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
-| 2022-10-28 | [`SOUTH-STAFFS-WATER.CO.UK FILES PART9 - WATER\10.80.74.231\ithome$\ PUBLISHED`](https://google.com/search?q=SOUTH-STAFFS-WATER.CO.UK+FILES+PART9+-+WATER%5C10.80.74.231%5Cithome%24%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-10-28 | [`LOESCHGROUP.DE FILES PART2 - 192.168.101.34\D$\PrivateOrdner\ PUBLISHED`](https://google.com/search?q=LOESCHGROUP.DE+FILES+PART2+-+192.168.101.34%5CD%24%5CPrivateOrdner%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
