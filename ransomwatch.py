@@ -284,6 +284,7 @@ if args.mode == 'parse':
     parsers.mallox()
     parsers.royal()
     parsers.projectrelic()
+    parsers.medusa()
     stdlog('ransomwatch: ' + 'parse run complete')
 
 if args.mode == 'list':

@@ -849,10 +849,21 @@ def royal():
 def projectrelic():
     stdlog('parser: ' + 'projectrelic')
     parser = '''
-    grep '<div class="website">' source/projectrelic-*.html | cut -d '"' -f 4
+    grep --no-filename '<div class="website">' source/projectrelic-*.html | cut -d '"' -f 4
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
         errlog('projectrelic: ' + 'parsing fail')
     for post in posts:
         appender(post, 'projectrelic')
+
+def medusa():
+    stdlog('parser: ' + 'medusa')
+    parser = '''
+    grep --no-filename '<h2 class="entry-title default-max-width">' source/medusa-*.html | cut -d '>' -f 3 | cut -d '<' -f 1
+    '''
+    posts = runshellcmd(parser)
+    if len(posts) == 1:
+        errlog('medusa: ' + 'parsing fail')
+    for post in posts:
+        appender(post, 'medusa')
