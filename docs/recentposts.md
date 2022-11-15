@@ -25,6 +25,7 @@ _last `200` posts_
 | 2022-11-15 | [`Autosoft company`](https://google.com/search?q=Autosoft+company) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2022-11-15 | [`BIOPLAN`](https://google.com/search?q=BIOPLAN) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2022-11-15 | [`Dyatech company`](https://google.com/search?q=Dyatech+company) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
+| 2022-11-15 | [`https://www.keenanins.com`](https://google.com/search?q=https%3A%2F%2Fwww.keenanins.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
 | 2022-11-14 | [`scottindustrialsystems.com`](https://google.com/search?q=scottindustrialsystems.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-11-14 | [`Baysgarth School`](https://google.com/search?q=Baysgarth+School) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2022-11-14 | [`THEW ASSOCIATES HACKED. MORE THEN 50 GB SENSETIVE DATA LEAKED.`](https://google.com/search?q=THEW+ASSOCIATES+HACKED.+MORE+THEN+50+GB+SENSETIVE+DATA+LEAKED.) | [lv](https://ransomwatch.telemetry.ltd/#/profiles?id=lv) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-10-30 | [`happmobi.com.br`](https://google.com/search?q=happmobi.com.br) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-10-30 | [`exco.fr`](https://google.com/search?q=exco.fr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-10-30 | [`coopavegra.fi.cr`](https://google.com/search?q=coopavegra.fi.cr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-10-30 | [`bellettiascensori.it`](https://google.com/search?q=bellettiascensori.it) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
