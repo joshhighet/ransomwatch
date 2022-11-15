@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-11-15 | [`https://www.cristalcontrols.com`](https://google.com/search?q=https%3A%2F%2Fwww.cristalcontrols.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
 | 2022-11-15 | [`http://www.lamtec.com`](https://google.com/search?q=http%3A%2F%2Fwww.lamtec.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
 | 2022-11-15 | [`Hydro-Gear & Agri-Fab`](https://google.com/search?q=Hydro-Gear+%26+Agri-Fab) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
 | 2022-11-15 | [`zagiel.pl`](https://google.com/search?q=zagiel.pl) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-10-31 | [`Update for boxerproperty`](https://google.com/search?q=Update+for+boxerproperty) | [shaoleaks](https://ransomwatch.telemetry.ltd/#/profiles?id=shaoleaks) |
 | 2022-10-31 | [`Greetings to havi.com and tmsw.com`](https://google.com/search?q=Greetings+to+havi.com+and+tmsw.com) | [shaoleaks](https://ransomwatch.telemetry.ltd/#/profiles?id=shaoleaks) |
 | 2022-10-31 | [`Genesys Aerosystems`](https://google.com/search?q=Genesys+Aerosystems) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2022-10-31 | [`STECINT_2`](https://google.com/search?q=STECINT_2) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
