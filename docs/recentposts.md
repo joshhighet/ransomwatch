@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-11-15 | [`LCMH`](https://google.com/search?q=LCMH) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
 | 2022-11-15 | [`DGLEGAL`](https://google.com/search?q=DGLEGAL) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2022-11-15 | [`emscrm`](https://google.com/search?q=emscrm) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2022-11-15 | [`MIDAS Company`](https://google.com/search?q=MIDAS+Company) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-10-30 | [`santimuni.com`](https://google.com/search?q=santimuni.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-10-30 | [`happmobi.com.br`](https://google.com/search?q=happmobi.com.br) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-10-30 | [`exco.fr`](https://google.com/search?q=exco.fr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-10-30 | [`coopavegra.fi.cr`](https://google.com/search?q=coopavegra.fi.cr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
