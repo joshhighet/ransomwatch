@@ -4,6 +4,11 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-11-15 | [`zagiel.pl`](https://google.com/search?q=zagiel.pl) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2022-11-15 | [`linkplus.com.hk`](https://google.com/search?q=linkplus.com.hk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2022-11-15 | [`itis-technology.com`](https://google.com/search?q=itis-technology.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2022-11-15 | [`gulfcoastwindows.com`](https://google.com/search?q=gulfcoastwindows.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2022-11-15 | [`amend.com.br`](https://google.com/search?q=amend.com.br) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-11-15 | [`LCMH`](https://google.com/search?q=LCMH) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
 | 2022-11-15 | [`DGLEGAL`](https://google.com/search?q=DGLEGAL) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2022-11-15 | [`emscrm`](https://google.com/search?q=emscrm) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
@@ -199,8 +204,3 @@ _last `200` posts_
 | 2022-10-31 | [`STECINT_2`](https://google.com/search?q=STECINT_2) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2022-10-31 | [`CADEPLOY`](https://google.com/search?q=CADEPLOY) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2022-10-31 | [`thalesgroup.com`](https://google.com/search?q=thalesgroup.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-10-30 | [`HENSOLDT France`](https://google.com/search?q=HENSOLDT+France) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
-| 2022-10-30 | [`will-b.jp`](https://google.com/search?q=will-b.jp) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-10-30 | [`santimuni.com`](https://google.com/search?q=santimuni.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-10-30 | [`happmobi.com.br`](https://google.com/search?q=happmobi.com.br) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-10-30 | [`exco.fr`](https://google.com/search?q=exco.fr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
