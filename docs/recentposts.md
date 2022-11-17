@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-11-17 | [`https://www.m2selectronics.com`](https://google.com/search?q=https%3A%2F%2Fwww.m2selectronics.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
 | 2022-11-16 | [`Belgium company Zwijndrecht - Leaked`](https://google.com/search?q=Belgium+company+Zwijndrecht+-+Leaked) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
 | 2022-11-16 | [`IMA Financial Group, Inc.`](https://google.com/search?q=IMA+Financial+Group%2C+Inc.) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2022-11-16 | [`Aeronautics company Canada / Production of parts for aircraft engines`](https://google.com/search?q=Aeronautics+company+Canada+%2F+Production+of+parts+for+aircraft+engines) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-11-01 | [`fiscosaudepe.com.br`](https://google.com/search?q=fiscosaudepe.com.br) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-11-01 | [`Midland Cogeneration Venture, Michigan`](https://google.com/search?q=Midland+Cogeneration+Venture%2C+Michigan) | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
 | 2022-10-31 | [`Welcome to new customers!`](https://google.com/search?q=Welcome+to+new+customers%21) | [shaoleaks](https://ransomwatch.telemetry.ltd/#/profiles?id=shaoleaks) |
-| 2022-10-31 | [`Some of our customers was not payed to us for data decryption. So we publish some of his d`](https://google.com/search?q=Some+of+our+customers+was+not+payed+to+us+for+data+decryption.+So+we+publish+some+of+his+d) | [shaoleaks](https://ransomwatch.telemetry.ltd/#/profiles?id=shaoleaks) |
