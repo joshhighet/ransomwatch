@@ -2,9 +2,9 @@
 ## summary
 _november 18th, 2022_
 
-currently tracking `128` groups across `233` relays & mirrors - _`79` currently online_
+currently tracking `128` groups across `233` relays & mirrors - _`93` currently online_
 
-⏲ there have been `5` posts within the `last 24 hours`
+⏲ there have been `4` posts within the `last 24 hours`
 
 🦈 there have been `204` posts within the `month of november`
 
