@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-11-18 | [`https://naulty.com/`](https://google.com/search?q=https%3A%2F%2Fnaulty.com%2F) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
 | 2022-11-17 | [`Institute of Science and Technology Austria`](https://google.com/search?q=Institute+of+Science+and+Technology+Austria) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2022-11-17 | [`Giambalvo, Stalzer & Co.`](https://google.com/search?q=Giambalvo%2C+Stalzer+%26+Co.) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-11-17 | [`Kessing Rechtsanwälte und Fachanwälte in PartGmbB`](https://google.com/search?q=Kessing+Rechtsanw%C3%A4lte+und+Fachanw%C3%A4lte+in+PartGmbB) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-11-01 | [`Grandview, MO`](https://google.com/search?q=Grandview%2C+MO) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
 | 2022-11-01 | [`YMCA of Metropolitan Washington`](https://google.com/search?q=YMCA+of+Metropolitan+Washington) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2022-11-01 | [`Unidad Medica Angloamericana`](https://google.com/search?q=Unidad+Medica+Angloamericana) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
-| 2022-11-01 | [`Rooks Heath School`](https://google.com/search?q=Rooks+Heath+School) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
