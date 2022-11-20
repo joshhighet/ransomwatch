@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-11-20 | [`https://mcandrewslaw.com/`](https://google.com/search?q=https%3A%2F%2Fmcandrewslaw.com%2F) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
 | 2022-11-19 | [`AirAsia Group (MY, ID, TH)`](https://google.com/search?q=AirAsia+Group+%28MY%2C+ID%2C+TH%29) | [daixin](https://ransomwatch.telemetry.ltd/#/profiles?id=daixin) |
 | 2022-11-19 | [`norseman.ca`](https://google.com/search?q=norseman.ca) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-11-19 | [`UNITEDAUTO.MX HAVE BEEN HACKED DUE TO MULTIPLE NETWORK VULNERABILITIES. MORE THAN 2TB OF P`](https://google.com/search?q=UNITEDAUTO.MX+HAVE+BEEN+HACKED+DUE+TO+MULTIPLE+NETWORK+VULNERABILITIES.+MORE+THAN+2TB+OF+P) | [lv](https://ransomwatch.telemetry.ltd/#/profiles?id=lv) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-11-02 | [`ROUGIER HACKED. 1 TB SENSITIVE DATA LEAKED`](https://google.com/search?q=ROUGIER+HACKED.+1+TB+SENSITIVE+DATA+LEAKED) | [lv](https://ransomwatch.telemetry.ltd/#/profiles?id=lv) |
 | 2022-11-02 | [`GRUPO SIFU HACKED. MORE THEN 2TB SENSETIVE DATA LEAKED AND READY FOR PUBLICATION`](https://google.com/search?q=GRUPO+SIFU+HACKED.+MORE+THEN+2TB+SENSETIVE+DATA+LEAKED+AND+READY+FOR+PUBLICATION) | [lv](https://ransomwatch.telemetry.ltd/#/profiles?id=lv) |
 | 2022-11-02 | [`SUBCARN WAS HACKED AND OVER 200 GB OF SENSETIVE DATA WAS STOLEN`](https://google.com/search?q=SUBCARN+WAS+HACKED+AND+OVER+200+GB+OF+SENSETIVE+DATA+WAS+STOLEN) | [lv](https://ransomwatch.telemetry.ltd/#/profiles?id=lv) |
-| 2022-11-02 | [`KINETIC.PH WAS HACKED. 200 GB ENGINEERING AND CONFIDENTIAL DATA LEAKED`](https://google.com/search?q=KINETIC.PH+WAS+HACKED.+200+GB+ENGINEERING+AND+CONFIDENTIAL+DATA+LEAKED) | [lv](https://ransomwatch.telemetry.ltd/#/profiles?id=lv) |
