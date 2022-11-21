@@ -2595,7 +2595,7 @@
         "captcha": false,
         "parser": false,
         "javascript_render": false,
-        "meta": null,
+        "meta": "aka vsop",
         "locations": [
             {
                 "fqdn": "mrdxtxy6vqeqbmb4rvbvueh2kukb3e3mhu3wdothqn7242gztxyzycid.onion",
@@ -2607,7 +2607,9 @@
                 "lastscrape": "2022-11-21 04:59:22.312092"
             }
         ],
-        "profile": []
+        "profile": [
+            "vsop@onionmail.org"
+        ]
     },
     {
         "name": "mindware",
