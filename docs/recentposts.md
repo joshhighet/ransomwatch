@@ -4,6 +4,25 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-11-21 | [`https://dialog.com.au`](https://google.com/search?q=https%3A%2F%2Fdialog.com.au) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
+| 2022-11-21 | [`https://robertbernard.com`](https://google.com/search?q=https%3A%2F%2Frobertbernard.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
+| 2022-11-21 | [`https://contempocard.com`](https://google.com/search?q=https%3A%2F%2Fcontempocard.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
+| 2022-11-21 | [`https://lojastorra.com.br`](https://google.com/search?q=https%3A%2F%2Flojastorra.com.br) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
+| 2022-11-21 | [`https://emtelco.com.co`](https://google.com/search?q=https%3A%2F%2Femtelco.com.co) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
+| 2022-11-21 | [`www.artisticstairs.com`](https://google.com/search?q=www.artisticstairs.com) | [onyx](https://ransomwatch.telemetry.ltd/#/profiles?id=onyx) |
+| 2022-11-21 | [`www.wayan.com.mx`](https://google.com/search?q=www.wayan.com.mx) | [onyx](https://ransomwatch.telemetry.ltd/#/profiles?id=onyx) |
+| 2022-11-21 | [`www.candcfarmsupply.com`](https://google.com/search?q=www.candcfarmsupply.com) | [onyx](https://ransomwatch.telemetry.ltd/#/profiles?id=onyx) |
+| 2022-11-21 | [`www.ackermanplumbinginc.com`](https://google.com/search?q=www.ackermanplumbinginc.com) | [onyx](https://ransomwatch.telemetry.ltd/#/profiles?id=onyx) |
+| 2022-11-21 | [`www.semaphorehq.com`](https://google.com/search?q=www.semaphorehq.com) | [onyx](https://ransomwatch.telemetry.ltd/#/profiles?id=onyx) |
+| 2022-11-21 | [`www.baltholding.eu`](https://google.com/search?q=www.baltholding.eu) | [onyx](https://ransomwatch.telemetry.ltd/#/profiles?id=onyx) |
+| 2022-11-21 | [`www.pacmaritime.com`](https://google.com/search?q=www.pacmaritime.com) | [onyx](https://ransomwatch.telemetry.ltd/#/profiles?id=onyx) |
+| 2022-11-21 | [`www.waynefamilypractice.com`](https://google.com/search?q=www.waynefamilypractice.com) | [onyx](https://ransomwatch.telemetry.ltd/#/profiles?id=onyx) |
+| 2022-11-21 | [`www.advantagedirectcare.com`](https://google.com/search?q=www.advantagedirectcare.com) | [onyx](https://ransomwatch.telemetry.ltd/#/profiles?id=onyx) |
+| 2022-11-21 | [`www.cucafresca.com.br`](https://google.com/search?q=www.cucafresca.com.br) | [onyx](https://ransomwatch.telemetry.ltd/#/profiles?id=onyx) |
+| 2022-11-21 | [`www.arisaseguros.com`](https://google.com/search?q=www.arisaseguros.com) | [onyx](https://ransomwatch.telemetry.ltd/#/profiles?id=onyx) |
+| 2022-11-21 | [`www.jaspercountysheriffoffice.com`](https://google.com/search?q=www.jaspercountysheriffoffice.com) | [onyx](https://ransomwatch.telemetry.ltd/#/profiles?id=onyx) |
+| 2022-11-21 | [`www.minex.gob.gt`](https://google.com/search?q=www.minex.gob.gt) | [onyx](https://ransomwatch.telemetry.ltd/#/profiles?id=onyx) |
+| 2022-11-21 | [`www.projectredirectdc.org`](https://google.com/search?q=www.projectredirectdc.org) | [onyx](https://ransomwatch.telemetry.ltd/#/profiles?id=onyx) |
 | 2022-11-20 | [`McGRATH`](https://google.com/search?q=McGRATH) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
 | 2022-11-20 | [`SAIPRESS`](https://google.com/search?q=SAIPRESS) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
 | 2022-11-20 | [`Nok Air`](https://google.com/search?q=Nok+Air) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -185,22 +204,3 @@ _last `200` posts_
 | 2022-11-04 | [`creditriskmonitor`](https://google.com/search?q=creditriskmonitor) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
 | 2022-11-04 | [`blackhawk`](https://google.com/search?q=blackhawk) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
 | 2022-11-04 | [`bfw`](https://google.com/search?q=bfw) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
-| 2022-11-04 | [`berding-weil`](https://google.com/search?q=berding-weil) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
-| 2022-11-04 | [`bcintlgroup.com`](https://google.com/search?q=bcintlgroup.com) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
-| 2022-11-04 | [`axley`](https://google.com/search?q=axley) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
-| 2022-11-04 | [`afts`](https://google.com/search?q=afts) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
-| 2022-11-04 | [`Ville-chaville`](https://google.com/search?q=Ville-chaville) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
-| 2022-11-04 | [`Skupstina`](https://google.com/search?q=Skupstina) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
-| 2022-11-04 | [`Murphyfamilyventures`](https://google.com/search?q=Murphyfamilyventures) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
-| 2022-11-04 | [`Ginspectionservices`](https://google.com/search?q=Ginspectionservices) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
-| 2022-11-04 | [`Dialogsas`](https://google.com/search?q=Dialogsas) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
-| 2022-11-03 | [`hettichbenelux.com`](https://google.com/search?q=hettichbenelux.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-11-03 | [`Landi Renzo`](https://google.com/search?q=Landi+Renzo) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
-| 2022-11-03 | [`continental.com`](https://google.com/search?q=continental.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-11-03 | [`CONSUMAX.COM.AR - WAS HACKED AND MORE THEN 2TB SENSETIVE DATA LEAKED`](https://google.com/search?q=CONSUMAX.COM.AR+-+WAS+HACKED+AND+MORE+THEN+2TB+SENSETIVE+DATA+LEAKED) | [lv](https://ransomwatch.telemetry.ltd/#/profiles?id=lv) |
-| 2022-11-02 | [`tekniplex.be`](https://google.com/search?q=tekniplex.be) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-11-02 | [`Bitron`](https://google.com/search?q=Bitron) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2022-11-02 | [`Saint Jean Industries  - MORE THEN 1.5 TB DATA LEAKED`](https://google.com/search?q=Saint+Jean+Industries++-+MORE+THEN+1.5+TB+DATA+LEAKED) | [lv](https://ransomwatch.telemetry.ltd/#/profiles?id=lv) |
-| 2022-11-02 | [`AWESOME-DENTAL.COM - HACKED AND MORE THEN 100GB LEAKED`](https://google.com/search?q=AWESOME-DENTAL.COM+-+HACKED+AND+MORE+THEN+100GB+LEAKED) | [lv](https://ransomwatch.telemetry.ltd/#/profiles?id=lv) |
-| 2022-11-02 | [`WICKERSHAMCONSTRUCTION.COM - HACKED AND MORE THEN 1000GB DATA LEAKED!`](https://google.com/search?q=WICKERSHAMCONSTRUCTION.COM+-+HACKED+AND+MORE+THEN+1000GB+DATA+LEAKED%21) | [lv](https://ransomwatch.telemetry.ltd/#/profiles?id=lv) |
-| 2022-11-02 | [`PARAMOUNT ENTERPRISE INTERNATIONAL HACKED AND MORE THEN 1.5 TB DATA LEAKED`](https://google.com/search?q=PARAMOUNT+ENTERPRISE+INTERNATIONAL+HACKED+AND+MORE+THEN+1.5+TB+DATA+LEAKED) | [lv](https://ransomwatch.telemetry.ltd/#/profiles?id=lv) |
