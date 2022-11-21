@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-11-21 | [`Aeronautics company Canada / UTC Aerospace Systems, Bombardier aerospace partners`](https://google.com/search?q=Aeronautics+company+Canada+%2F+UTC+Aerospace+Systems%2C+Bombardier+aerospace+partners) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2022-11-21 | [`https://dialog.com.au`](https://google.com/search?q=https%3A%2F%2Fdialog.com.au) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2022-11-21 | [`https://robertbernard.com`](https://google.com/search?q=https%3A%2F%2Frobertbernard.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2022-11-21 | [`https://contempocard.com`](https://google.com/search?q=https%3A%2F%2Fcontempocard.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-11-04 | [`datamatics`](https://google.com/search?q=datamatics) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
 | 2022-11-04 | [`creditriskmonitor`](https://google.com/search?q=creditriskmonitor) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
 | 2022-11-04 | [`blackhawk`](https://google.com/search?q=blackhawk) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
-| 2022-11-04 | [`bfw`](https://google.com/search?q=bfw) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
