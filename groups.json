@@ -3422,8 +3422,8 @@
     {
         "name": "qilin",
         "captcha": false,
-        "parser": false,
-        "javascript_render": false,
+        "parser": true,
+        "javascript_render": true,
         "meta": null,
         "locations": [
             {
