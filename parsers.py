@@ -661,8 +661,9 @@ def blackbasta():
 
 def onyx():
     stdlog('parser: ' + 'onyx')
+    # grep '<h6 class=' source/onyx-*.html | cut -d '>' -f 2 | cut -d '<' -f 1 | sed -e '/Connect with us/d' -e 's/^ *//g' -e 's/[[:space:]]*$//'
     parser = '''
-    grep '<h6 class=' source/onyx-*.html | cut -d '>' -f 2 | cut -d '<' -f 1 | sed -e '/Connect with us/d' -e 's/^ *//g' -e 's/[[:space:]]*$//'
+    grep '<h6>' source/onyx-*.html | cut -d '>' -f 2 | cut -d '<' -f 1 | sed -e '/^[[:space:]]*$/d' -e '/Connect with us/d'
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
