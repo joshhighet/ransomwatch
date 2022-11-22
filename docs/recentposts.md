@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-11-22 | [`SMB Solutions`](https://google.com/search?q=SMB+Solutions) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
+| 2022-11-22 | [`Leak Announcement - IT company ITonCLOUD`](https://google.com/search?q=Leak+Announcement+-+IT+company+ITonCLOUD) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
 | 2022-11-22 | [`ssp-worldwide.com`](https://google.com/search?q=ssp-worldwide.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-11-22 | [`ryokikogyo.co.jp`](https://google.com/search?q=ryokikogyo.co.jp) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-11-21 | [`Aeronautics company Canada / UTC Aerospace Systems, Bombardier aerospace partners`](https://google.com/search?q=Aeronautics+company+Canada+%2F+UTC+Aerospace+Systems%2C+Bombardier+aerospace+partners) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2022-11-04 | [`gascaribe`](https://google.com/search?q=gascaribe) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
 | 2022-11-04 | [`forefront_dermatology`](https://google.com/search?q=forefront_dermatology) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
 | 2022-11-04 | [`first_coast_logistics_services`](https://google.com/search?q=first_coast_logistics_services) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
-| 2022-11-04 | [`e.h._wachs_pipe_cutters`](https://google.com/search?q=e.h._wachs_pipe_cutters) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
-| 2022-11-04 | [`datamatics`](https://google.com/search?q=datamatics) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
