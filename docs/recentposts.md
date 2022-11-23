@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-11-23 | [`Norman Public Schools`](https://google.com/search?q=Norman+Public+Schools) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
+| 2022-11-23 | [`Aeronautics company Canada / UTC Aerospace Systems, Bombardier aerospace, NASA partners`](https://google.com/search?q=Aeronautics+company+Canada+%2F+UTC+Aerospace+Systems%2C+Bombardier+aerospace%2C+NASA+partners) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2022-11-23 | [`SOUTH-STAFFS-WATER.CO.UK FILES PART12 - 10.80.74.231\ PUBLISHED`](https://google.com/search?q=SOUTH-STAFFS-WATER.CO.UK+FILES+PART12+-+10.80.74.231%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-11-23 | [`LOESCHGROUP.DE FILES PART5 - 192.168.101.34\DATEN\Media\ PUBLISHED`](https://google.com/search?q=LOESCHGROUP.DE+FILES+PART5+-+192.168.101.34%5CDATEN%5CMedia%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-11-23 | [`ORDEREXPRESS.COM.MX FILES PART6 - 10.10.1.33\C$\Users\emmanuel.herrera\ PUBLISHED`](https://google.com/search?q=ORDEREXPRESS.COM.MX+FILES+PART6+-+10.10.1.33%5CC%24%5CUsers%5Cemmanuel.herrera%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2022-11-04 | [`megaforce`](https://google.com/search?q=megaforce) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
 | 2022-11-04 | [`lycra`](https://google.com/search?q=lycra) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
 | 2022-11-04 | [`linkmfg`](https://google.com/search?q=linkmfg) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
-| 2022-11-04 | [`learning_resources`](https://google.com/search?q=learning_resources) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
-| 2022-11-04 | [`landofrost`](https://google.com/search?q=landofrost) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
