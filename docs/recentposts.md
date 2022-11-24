@@ -4,6 +4,14 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-11-24 | [`Myton School`](https://google.com/search?q=Myton+School) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2022-11-24 | [`Modular Mining`](https://google.com/search?q=Modular+Mining) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2022-11-24 | [`Centura College`](https://google.com/search?q=Centura+College) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2022-11-24 | [`Versah`](https://google.com/search?q=Versah) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2022-11-24 | [`Gazelle International Ltd`](https://google.com/search?q=Gazelle+International+Ltd) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2022-11-24 | [`Boon Tool Co`](https://google.com/search?q=Boon+Tool+Co) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2022-11-24 | [`Rentz Management`](https://google.com/search?q=Rentz+Management) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2022-11-24 | [`Harry Rosen`](https://google.com/search?q=Harry+Rosen) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2022-11-24 | [`Ta Chen Stainless Pipe Co., Ltd`](https://google.com/search?q=Ta+Chen+Stainless+Pipe+Co.%2C+Ltd) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-11-24 | [`https://www.labusinessjournal.com`](https://google.com/search?q=https%3A%2F%2Fwww.labusinessjournal.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
 | 2022-11-24 | [`Cincinnati State`](https://google.com/search?q=Cincinnati+State) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
@@ -196,11 +204,3 @@ _last `200` posts_
 | 2022-11-04 | [`usairports`](https://google.com/search?q=usairports) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
 | 2022-11-04 | [`trant.co.uk`](https://google.com/search?q=trant.co.uk) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
 | 2022-11-04 | [`the_rose_executive_team`](https://google.com/search?q=the_rose_executive_team) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
-| 2022-11-04 | [`technicote`](https://google.com/search?q=technicote) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
-| 2022-11-04 | [`stm.com.tw`](https://google.com/search?q=stm.com.tw) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
-| 2022-11-04 | [`site-technology_`](https://google.com/search?q=site-technology_) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
-| 2022-11-04 | [`schultheis-ins`](https://google.com/search?q=schultheis-ins) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
-| 2022-11-04 | [`quercus`](https://google.com/search?q=quercus) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
-| 2022-11-04 | [`otrcapital`](https://google.com/search?q=otrcapital) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
-| 2022-11-04 | [`ohagin`](https://google.com/search?q=ohagin) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
-| 2022-11-04 | [`nwdusa`](https://google.com/search?q=nwdusa) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
