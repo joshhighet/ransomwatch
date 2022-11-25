@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-11-25 | [`ITM`](https://google.com/search?q=ITM) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2022-11-25 | [`Guilford College`](https://google.com/search?q=Guilford+College) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
 | 2022-11-24 | [`Myton School`](https://google.com/search?q=Myton+School) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2022-11-24 | [`Modular Mining`](https://google.com/search?q=Modular+Mining) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-11-04 | [`CLUB DE TENIS LA PAZ`](https://google.com/search?q=CLUB+DE+TENIS+LA+PAZ) | [mallox](https://ransomwatch.telemetry.ltd/#/profiles?id=mallox) |
 | 2022-11-04 | [`Läderach`](https://google.com/search?q=L%C3%A4derach) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2022-11-04 | [`usairports`](https://google.com/search?q=usairports) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
-| 2022-11-04 | [`trant.co.uk`](https://google.com/search?q=trant.co.uk) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
