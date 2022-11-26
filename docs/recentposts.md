@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-11-26 | [`https://www.friedmanlawoffices.com/`](https://google.com/search?q=https%3A%2F%2Fwww.friedmanlawoffices.com%2F) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
 | 2022-11-25 | [`Essent company - Leaked`](https://google.com/search?q=Essent+company+-+Leaked) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
 | 2022-11-25 | [`ITM`](https://google.com/search?q=ITM) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2022-11-25 | [`Guilford College`](https://google.com/search?q=Guilford+College) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-11-04 | [`API MDC Technical Research Centre Sdn Bhd`](https://google.com/search?q=API+MDC+Technical+Research+Centre+Sdn+Bhd) | [mallox](https://ransomwatch.telemetry.ltd/#/profiles?id=mallox) |
 | 2022-11-04 | [`Aerotech Precision Manufacturing`](https://google.com/search?q=Aerotech+Precision+Manufacturing) | [mallox](https://ransomwatch.telemetry.ltd/#/profiles?id=mallox) |
 | 2022-11-04 | [`CLUB DE TENIS LA PAZ`](https://google.com/search?q=CLUB+DE+TENIS+LA+PAZ) | [mallox](https://ransomwatch.telemetry.ltd/#/profiles?id=mallox) |
-| 2022-11-04 | [`Läderach`](https://google.com/search?q=L%C3%A4derach) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
