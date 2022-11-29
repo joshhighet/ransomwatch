@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-11-29 | [`https://www.rmclaw.net/`](https://google.com/search?q=https%3A%2F%2Fwww.rmclaw.net%2F) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
+| 2022-11-29 | [`https://www.cates.com`](https://google.com/search?q=https%3A%2F%2Fwww.cates.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
 | 2022-11-28 | [`kusd.edu`](https://google.com/search?q=kusd.edu) | [revil](https://ransomwatch.telemetry.ltd/#/profiles?id=revil) |
 | 2022-11-28 | [`Sunknowledge Services Inc`](https://google.com/search?q=Sunknowledge+Services+Inc) | [revil](https://ransomwatch.telemetry.ltd/#/profiles?id=revil) |
 | 2022-11-28 | [`bankseta.org.za`](https://google.com/search?q=bankseta.org.za) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2022-11-04 | [`https://happysapiensdental.com`](https://google.com/search?q=https%3A%2F%2Fhappysapiensdental.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
 | 2022-11-04 | [`https://www.caminorealkitchens.com`](https://google.com/search?q=https%3A%2F%2Fwww.caminorealkitchens.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
 | 2022-11-04 | [`https://www.benbrooklibrary.org`](https://google.com/search?q=https%3A%2F%2Fwww.benbrooklibrary.org) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
-| 2022-11-04 | [`https://millermilling.com`](https://google.com/search?q=https%3A%2F%2Fmillermilling.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
-| 2022-11-04 | [`https://www.sunwell.com`](https://google.com/search?q=https%3A%2F%2Fwww.sunwell.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
