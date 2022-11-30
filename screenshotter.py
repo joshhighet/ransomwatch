@@ -1,66 +1,42 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 '''
-screenshot up hosts using selenium w/firefox webdriver
+screenshot available hosts using playwright
+
+// setup
+$ pip3 install playwright
+$ playwright install
 '''
+
 import os
 import requests
-from selenium import webdriver
-from selenium.common.exceptions import WebDriverException
-from selenium.webdriver.firefox.options import Options
-
+from playwright.sync_api import sync_playwright, TimeoutError as PlaywrightTimeoutError
 from sharedutils import sockshost, socksport
-from sharedutils import stdlog, dbglog, errlog, honk
-from sharedutils import checktcp, openjson, randomagent
+from sharedutils import stdlog, errlog, honk
+from sharedutils import openjson        
 
-requests.packages.urllib3.disable_warnings()
-
-def screenshot(webpage):
+def screenshot(webpage,fqdn):
     stdlog('webshot: {}'.format(webpage))
-    if not checktcp(sockshost, socksport):
-        honk("socks proxy not available and required for scraping!")
-    options = Options()
-    options.headless = True
-    options.accept_untrusted_certs = True
-    options.add_argument("start-maximized")
-    options.set_preference('network.http.timeout', 20000)
-    options.set_preference('dom.max_script_run_time', 15)
-    options.set_preference('layout.css.devPixelsPerPx','2.0')
-    options.set_preference("general.useragent.override", randomagent())
-    if '.onion' in webpage:
-        stdlog('geckodriver: ' + 'appears we are dealing with an onionsite')
-        if not checktcp(sockshost, socksport):
-            honk('geckodriver: ' + 'socks proxy not available and required for onionsites!')
-        else:
-            stdlog(
-                'geckodriver: ' + 'assumed torsocks proxy found - tcp://' \
-                + sockshost + ':' + str(socksport)
-            )
-            stdlog('geckodriver: ' + 'configuring proxy settings')
-            options.set_preference('network.proxy.type', 1)
-            options.set_preference('network.proxy.socks', sockshost)
-            options.set_preference('network.proxy.socks_port', int(socksport))
-            options.set_preference("network.proxy.socks_remote_dns", True)
-    try:
-        stdlog('webshot: {}'.format(webpage) + ' starting browser')
-        driver = webdriver.Firefox(options=options)
-        driver.set_page_load_timeout(60)
-        driver.set_window_size(2560, 1600)
-        driver.get(webpage)
-        driver.implicitly_wait(10)
-        stdlog('webshot: {}'.format(webpage) + ' taking screenshot')
-        screenshot = driver.get_screenshot_as_png()
-        driver.quit()
-    except WebDriverException as wde:
-        if 'dnsNotFound' in wde.msg:
-            errlog('webshot: {}'.format(webpage) + ' dnsNotFound')
-            return
-        if 'connectionFailure' in wde.msg:
-            errlog('webshot: {}'.format(webpage) + ' connection refused')
-            return
-        errlog('webshot: {}'.format(webpage) + ' webdriver error: {}'.format(wde))
-        return
-    return screenshot
+    with sync_playwright() as play:
+        try:
+            browser = play.chromium.launch(proxy={"server": "socks5://127.0.0.1:9050"},
+                args=[''])
+            context = browser.new_context(ignore_https_errors= True )
+            page = context.new_page()
+            page.goto(webpage, wait_until='load', timeout = 120000)
+            page.bring_to_front()
+            delay=15000
+            page.wait_for_timeout(delay)
+            page.mouse.move(x=500, y=400)
+            page.wait_for_load_state('networkidle')
+            page.mouse.wheel(delta_y=2000, delta_x=0)
+            page.wait_for_load_state('networkidle')
+            page.wait_for_timeout(5000)
+            name = 'docs/screenshots/' + fqdn.replace('.', '-') + '.png'
+            page.screenshot(path=name, full_page=True)
+        except PlaywrightTimeoutError:
+            stdlog('Timeout!')
+        browser.close()
 
 def main():
     groups = openjson('groups.json')
@@ -68,15 +44,7 @@ def main():
         stdlog('group: {}'.format(group['name']))
         for webpage in group['locations']:
             if webpage['available'] is True:
-                screenshotpng = screenshot(webpage['slug'])
-                if screenshotpng:
-                    outfile = 'source/screenshots/' + webpage['fqdn'].replace('.', '-') + '.png'
-                    if not os.path.exists(os.path.dirname(outfile)):
-                        os.makedirs(os.path.dirname(outfile))
-                    with open(outfile, 'wb') as f:
-                        f.write(screenshotpng)
-                else:
-                    errlog('webshot: {}'.format(webpage) + ' failed')
+                screenshot(webpage['slug'],webpage['fqdn'])
             else:
                 stdlog('webshot: {}'.format(webpage['slug']) + ' not available')
 
