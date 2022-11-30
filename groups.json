@@ -3630,5 +3630,33 @@
             }
         ],
         "profile": []
+    },
+    {
+        "name": "play",
+        "captcha": false,
+        "parser": false,
+        "javascript_render": false,
+        "meta": null,
+        "locations": [
+            {
+                "fqdn": "k7kg3jqxang3wh7hnmaiokchk7qoebupfgoik6rha6mjpzwupwtj25yd.onion",
+                "title": null,
+                "version": 3,
+                "slug": "http://k7kg3jqxang3wh7hnmaiokchk7qoebupfgoik6rha6mjpzwupwtj25yd.onion/",
+                "available": false,
+                "updated": null,
+                "lastscrape": "2021-05-01 00:00:00.000000"
+            },
+            {
+                "fqdn": "mbrlkbtq5jonaqkurjwmxftytyn2ethqvbxfu4rgjbkkknndqwae6byd.onion",
+                "title": null,
+                "version": 3,
+                "slug": "http://mbrlkbtq5jonaqkurjwmxftytyn2ethqvbxfu4rgjbkkknndqwae6byd.onion/",
+                "available": false,
+                "updated": null,
+                "lastscrape": "2021-05-01 00:00:00.000000"
+            }
+        ],
+        "profile": []
     }
 ]
