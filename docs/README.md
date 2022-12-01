@@ -1,14 +1,14 @@
 
 ## summary
-_november 30th, 2022_
+_december 1st, 2022_
 
-currently tracking `129` groups across `235` relays & mirrors - _`81` currently online_
+currently tracking `129` groups across `235` relays & mirrors - _`79` currently online_
 
 ⏲ there have been `2` posts within the `last 24 hours`
 
-🦈 there have been `285` posts within the `month of november`
+🦈 there have been `0` posts within the `month of december`
 
-🪐 there have been `751` posts within the `last 90 days`
+🪐 there have been `749` posts within the `last 90 days`
 
 🏚 there have been `3077` posts within the `year of 2022`
 
