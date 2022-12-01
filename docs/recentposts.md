@@ -4,6 +4,11 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-12-01 | [`Maple Leaf Foods`](https://google.com/search?q=Maple+Leaf+Foods) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2022-12-01 | [`Landaumedia`](https://google.com/search?q=Landaumedia) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
+| 2022-12-01 | [`Generator-power`](https://google.com/search?q=Generator-power) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
+| 2022-12-01 | [`Boss-inc`](https://google.com/search?q=Boss-inc) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
+| 2022-12-01 | [`Holler-Classic`](https://google.com/search?q=Holler-Classic) | [lorenz](https://ransomwatch.telemetry.ltd/#/profiles?id=lorenz) |
 | 2022-11-30 | [`Patton`](https://google.com/search?q=Patton) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
 | 2022-11-30 | [`Shenzhen INVT Electric Co.,Ltd`](https://google.com/search?q=Shenzhen+INVT+Electric+Co.%2CLtd) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-11-29 | [`Plascar Participacoes Industriais`](https://google.com/search?q=Plascar+Participacoes+Industriais) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
@@ -199,8 +204,3 @@ _last `200` posts_
 | 2022-11-05 | [`MITCON Consultancy & Engineering Services Limited`](https://google.com/search?q=MITCON+Consultancy+%26+Engineering+Services+Limited) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2022-11-05 | [`PETERSON & HANSON`](https://google.com/search?q=PETERSON+%26+HANSON) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
 | 2022-11-05 | [`Broto Legal`](https://google.com/search?q=Broto+Legal) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
-| 2022-11-04 | [`SOUTH-STAFFS-WATER.CO.UK FILES PART10 - WATER\10.80.74.231\ithome$\ PUBLISHED`](https://google.com/search?q=SOUTH-STAFFS-WATER.CO.UK+FILES+PART10+-+WATER%5C10.80.74.231%5Cithome%24%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-11-04 | [`LOESCHGROUP.DE FILES PART3 - 192.168.101.34\D$\PrivateOrdner\ PUBLISHED`](https://google.com/search?q=LOESCHGROUP.DE+FILES+PART3+-+192.168.101.34%5CD%24%5CPrivateOrdner%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-11-04 | [`ORDEREXPRESS.COM.MX FILES PART4 - 10.10.1.54, 10.10.1.84, 10.10.1.106, 10.10.1.110, 10.10.`](https://google.com/search?q=ORDEREXPRESS.COM.MX+FILES+PART4+-+10.10.1.54%2C+10.10.1.84%2C+10.10.1.106%2C+10.10.1.110%2C+10.10.) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-11-04 | [`MARCELSOLUTION.COM FILES PART5 - SYMASOFT7,8,24,27,28,30 PUBLISHED`](https://google.com/search?q=MARCELSOLUTION.COM+FILES+PART5+-+SYMASOFT7%2C8%2C24%2C27%2C28%2C30+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-11-04 | [`SPINNEYS.COM FILES PART15 - 202.0.0.200 PUBLISHED`](https://google.com/search?q=SPINNEYS.COM+FILES+PART15+-+202.0.0.200+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
