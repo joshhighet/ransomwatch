@@ -2,7 +2,7 @@
 ## summary
 _december 3rd, 2022_
 
-currently tracking `129` groups across `235` relays & mirrors - _`91` currently online_
+currently tracking `129` groups across `235` relays & mirrors - _`87` currently online_
 
 ⏲ there have been `2` posts within the `last 24 hours`
 
