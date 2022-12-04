@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-12-04 | [`sentenia.net`](https://google.com/search?q=sentenia.net) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2022-12-04 | [`handrhealthcare.com`](https://google.com/search?q=handrhealthcare.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2022-12-04 | [`brunoy.fr`](https://google.com/search?q=brunoy.fr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-12-04 | [`https://www.trussbilt.com`](https://google.com/search?q=https%3A%2F%2Fwww.trussbilt.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
 | 2022-12-04 | [`https://duplicatorsales.net/`](https://google.com/search?q=https%3A%2F%2Fduplicatorsales.net%2F) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
 | 2022-12-04 | [`Grupo NGN`](https://google.com/search?q=Grupo+NGN) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2022-11-08 | [`http://www.h-ortmeier.de`](https://google.com/search?q=http%3A%2F%2Fwww.h-ortmeier.de) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
 | 2022-11-08 | [`http://aviso.ci`](https://google.com/search?q=http%3A%2F%2Faviso.ci) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
 | 2022-11-08 | [`Motional`](https://google.com/search?q=Motional) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2022-11-08 | [`APM Terminals`](https://google.com/search?q=APM+Terminals) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
-| 2022-11-08 | [`thaiho.com`](https://google.com/search?q=thaiho.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-11-08 | [`crtl.com`](https://google.com/search?q=crtl.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
