@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-12-04 | [`Grupo NGN`](https://google.com/search?q=Grupo+NGN) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-12-04 | [`Jubilant`](https://google.com/search?q=Jubilant) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-12-04 | [`pro office Büro + Wohnkultur GmbH`](https://google.com/search?q=pro+office+B%C3%BCro+%2B+Wohnkultur+GmbH) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-12-04 | [`Philippine Economic Zone Authority (PEZA) peza.gov.ph`](https://google.com/search?q=Philippine+Economic+Zone+Authority+%28PEZA%29+peza.gov.ph) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-11-08 | [`crtl.com`](https://google.com/search?q=crtl.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-11-07 | [`METRO`](https://google.com/search?q=METRO) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2022-11-07 | [`Cornwell Quality Tools`](https://google.com/search?q=Cornwell+Quality+Tools) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
-| 2022-11-07 | [`TCQ`](https://google.com/search?q=TCQ) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
