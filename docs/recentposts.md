@@ -4,6 +4,10 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-12-04 | [`Jubilant`](https://google.com/search?q=Jubilant) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
+| 2022-12-04 | [`pro office Büro + Wohnkultur GmbH`](https://google.com/search?q=pro+office+B%C3%BCro+%2B+Wohnkultur+GmbH) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
+| 2022-12-04 | [`Philippine Economic Zone Authority (PEZA) peza.gov.ph`](https://google.com/search?q=Philippine+Economic+Zone+Authority+%28PEZA%29+peza.gov.ph) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
+| 2022-12-04 | [`Cappagh Contractors Construction (London) Ltd`](https://google.com/search?q=Cappagh+Contractors+Construction+%28London%29+Ltd) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-12-04 | [`abilways.com`](https://google.com/search?q=abilways.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-12-04 | [`LOESCHGROUP.DE FILES PART7 - 192.168.101.34\DATEN\Media\ PUBLISHED`](https://google.com/search?q=LOESCHGROUP.DE+FILES+PART7+-+192.168.101.34%5CDATEN%5CMedia%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-12-04 | [`ORDEREXPRESS.COM.MX FILES PART8 - 10.10.1.33\C$\Users\emmanuel.herrera\Documents\Imágenes\`](https://google.com/search?q=ORDEREXPRESS.COM.MX+FILES+PART8+-+10.10.1.33%5CC%24%5CUsers%5Cemmanuel.herrera%5CDocuments%5CIm%C3%A1genes%5C) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
@@ -200,7 +204,3 @@ _last `200` posts_
 | 2022-11-07 | [`METRO`](https://google.com/search?q=METRO) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2022-11-07 | [`Cornwell Quality Tools`](https://google.com/search?q=Cornwell+Quality+Tools) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
 | 2022-11-07 | [`TCQ`](https://google.com/search?q=TCQ) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
-| 2022-11-07 | [`ROYAL GATEWAY CO., LTD`](https://google.com/search?q=ROYAL+GATEWAY+CO.%2C+LTD) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
-| 2022-11-07 | [`http://ivacorm.com`](https://google.com/search?q=http%3A%2F%2Fivacorm.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
-| 2022-11-07 | [`https://www.sohnen.com/`](https://google.com/search?q=https%3A%2F%2Fwww.sohnen.com%2F) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
-| 2022-11-07 | [`ALTEK`](https://google.com/search?q=ALTEK) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
