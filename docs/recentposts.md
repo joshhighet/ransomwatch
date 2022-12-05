@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-12-05 | [`BRYCON Construction`](https://google.com/search?q=BRYCON+Construction) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2022-12-05 | [`prinovaglobal.com`](https://google.com/search?q=prinovaglobal.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-12-05 | [`littleswitzerland.com`](https://google.com/search?q=littleswitzerland.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-12-05 | [`Glutz`](https://google.com/search?q=Glutz) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-11-09 | [`thecondorgroup.com`](https://google.com/search?q=thecondorgroup.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-11-09 | [`chahousing.org`](https://google.com/search?q=chahousing.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-11-09 | [`adnec.ae`](https://google.com/search?q=adnec.ae) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-11-09 | [`Hartnell College`](https://google.com/search?q=Hartnell+College) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
