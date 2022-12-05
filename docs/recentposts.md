@@ -4,6 +4,14 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-12-05 | [`Bonn Nutrients Pvt`](https://google.com/search?q=Bonn+Nutrients+Pvt) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2022-12-05 | [` Restaurant`](https://google.com/search?q=+Restaurant) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2022-12-05 | [`Ability Commerce`](https://google.com/search?q=Ability+Commerce) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2022-12-05 | [`CROWN TECHNOLOGY Ltd`](https://google.com/search?q=CROWN+TECHNOLOGY+Ltd) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2022-12-05 | [`IM Group`](https://google.com/search?q=IM+Group) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2022-12-05 | [` School`](https://google.com/search?q=+School) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2022-12-05 | [`AV Solutions`](https://google.com/search?q=AV+Solutions) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2022-12-05 | [`Technologies`](https://google.com/search?q=Technologies) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2022-12-05 | [`LJ Hooker Palm Beach`](https://google.com/search?q=LJ+Hooker+Palm+Beach) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-12-05 | [`moruga it`](https://google.com/search?q=moruga+it) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-12-04 | [`sentenia.net`](https://google.com/search?q=sentenia.net) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -196,11 +204,3 @@ _last `200` posts_
 | 2022-11-09 | [`stavbar.cz`](https://google.com/search?q=stavbar.cz) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-11-09 | [`sinopecthc.com`](https://google.com/search?q=sinopecthc.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-11-09 | [`oehc.corsica`](https://google.com/search?q=oehc.corsica) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-11-09 | [`carone.com.mx`](https://google.com/search?q=carone.com.mx) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-11-09 | [`shmcomputers.screenconnect.com`](https://google.com/search?q=shmcomputers.screenconnect.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-11-09 | [`http://www.adven.com`](https://google.com/search?q=http%3A%2F%2Fwww.adven.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
-| 2022-11-09 | [`LAW OFFICES OF JOHN T ORCUTT WAS HACKED. MORE THEN 2TB SENSETIVE DATA LEAKED.`](https://google.com/search?q=LAW+OFFICES+OF+JOHN+T+ORCUTT+WAS+HACKED.+MORE+THEN+2TB+SENSETIVE+DATA+LEAKED.) | [lv](https://ransomwatch.telemetry.ltd/#/profiles?id=lv) |
-| 2022-11-09 | [`waltersandwolf`](https://google.com/search?q=waltersandwolf) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
-| 2022-11-09 | [`http://www.silverstone.co.uk`](https://google.com/search?q=http%3A%2F%2Fwww.silverstone.co.uk) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
-| 2022-11-09 | [`http://www.zender.de`](https://google.com/search?q=http%3A%2F%2Fwww.zender.de) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
-| 2022-11-08 | [`http://www.h-ortmeier.de`](https://google.com/search?q=http%3A%2F%2Fwww.h-ortmeier.de) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
