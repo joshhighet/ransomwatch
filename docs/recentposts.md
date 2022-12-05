@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-12-05 | [`LJ Hooker Palm Beach`](https://google.com/search?q=LJ+Hooker+Palm+Beach) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
+| 2022-12-05 | [`moruga it`](https://google.com/search?q=moruga+it) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-12-04 | [`sentenia.net`](https://google.com/search?q=sentenia.net) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-12-04 | [`handrhealthcare.com`](https://google.com/search?q=handrhealthcare.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-12-04 | [`brunoy.fr`](https://google.com/search?q=brunoy.fr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2022-11-09 | [`http://www.silverstone.co.uk`](https://google.com/search?q=http%3A%2F%2Fwww.silverstone.co.uk) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
 | 2022-11-09 | [`http://www.zender.de`](https://google.com/search?q=http%3A%2F%2Fwww.zender.de) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
 | 2022-11-08 | [`http://www.h-ortmeier.de`](https://google.com/search?q=http%3A%2F%2Fwww.h-ortmeier.de) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
-| 2022-11-08 | [`http://aviso.ci`](https://google.com/search?q=http%3A%2F%2Faviso.ci) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
-| 2022-11-08 | [`Motional`](https://google.com/search?q=Motional) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
