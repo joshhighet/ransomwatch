@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-12-06 | [`Elias Motsoaledi Local Municiapality`](https://google.com/search?q=Elias+Motsoaledi+Local+Municiapality) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
+| 2022-12-06 | [`Novak Law Offices`](https://google.com/search?q=Novak+Law+Offices) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
+| 2022-12-06 | [`NCI CABLING INC`](https://google.com/search?q=NCI+CABLING+INC) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-12-05 | [`BRYCON Construction`](https://google.com/search?q=BRYCON+Construction) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2022-12-05 | [`prinovaglobal.com`](https://google.com/search?q=prinovaglobal.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-12-05 | [`littleswitzerland.com`](https://google.com/search?q=littleswitzerland.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2022-11-10 | [`Main & Main Capital Group`](https://google.com/search?q=Main+%26+Main+Capital+Group) | [lorenz](https://ransomwatch.telemetry.ltd/#/profiles?id=lorenz) |
 | 2022-11-10 | [`MCCROSSAN`](https://google.com/search?q=MCCROSSAN) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
 | 2022-11-10 | [`CONFORAMA - HACKED AND MORE THEN 1TB DATA LEAKED!`](https://google.com/search?q=CONFORAMA+-+HACKED+AND+MORE+THEN+1TB+DATA+LEAKED%21) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2022-11-09 | [`thecondorgroup.com`](https://google.com/search?q=thecondorgroup.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-11-09 | [`chahousing.org`](https://google.com/search?q=chahousing.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-11-09 | [`adnec.ae`](https://google.com/search?q=adnec.ae) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
