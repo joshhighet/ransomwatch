@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-12-07 | [`Requena`](https://google.com/search?q=Requena) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-12-06 | [`Feu Vert`](https://google.com/search?q=Feu+Vert) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2022-12-06 | [`PANOLAM`](https://google.com/search?q=PANOLAM) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2022-12-06 | [`myersontooth.com`](https://google.com/search?q=myersontooth.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-11-11 | [`MARCELSOLUTION.COM FILES PART6 - SRVTS3\C$\QB16\DATA\ PUBLISHED`](https://google.com/search?q=MARCELSOLUTION.COM+FILES+PART6+-+SRVTS3%5CC%24%5CQB16%5CDATA%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-11-11 | [`Motional.com`](https://google.com/search?q=Motional.com) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-11-11 | [`http://bfernandez.com`](https://google.com/search?q=http%3A%2F%2Fbfernandez.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
-| 2022-11-11 | [`J & D Pierce Contracts Ltd`](https://google.com/search?q=J+%26+D+Pierce+Contracts+Ltd) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
