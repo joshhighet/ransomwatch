@@ -4,6 +4,14 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-12-09 | [`Mortons Media Group Ltd`](https://google.com/search?q=Mortons+Media+Group+Ltd) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2022-12-09 | [`ARRI`](https://google.com/search?q=ARRI) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2022-12-09 | [`A.R. Thomson Group`](https://google.com/search?q=A.R.+Thomson+Group) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2022-12-09 | [`Cleveland Brothers`](https://google.com/search?q=Cleveland+Brothers) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2022-12-09 | [`AIRCOMECHANICAL`](https://google.com/search?q=AIRCOMECHANICAL) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2022-12-09 | [`Panolam Surface Systems`](https://google.com/search?q=Panolam+Surface+Systems) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2022-12-09 | [`SEACAST`](https://google.com/search?q=SEACAST) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2022-12-09 | [`nworksllc`](https://google.com/search?q=nworksllc) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2022-12-09 | [`ChemiFlex`](https://google.com/search?q=ChemiFlex) | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
 | 2022-12-09 | [`Radical Sportscars`](https://google.com/search?q=Radical+Sportscars) | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
 | 2022-12-09 | [`Orotex`](https://google.com/search?q=Orotex) | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
@@ -196,11 +204,3 @@ _last `200` posts_
 | 2022-11-14 | [`THEW ASSOCIATES HACKED. MORE THEN 50 GB SENSETIVE DATA LEAKED.`](https://google.com/search?q=THEW+ASSOCIATES+HACKED.+MORE+THEN+50+GB+SENSETIVE+DATA+LEAKED.) | [lv](https://ransomwatch.telemetry.ltd/#/profiles?id=lv) |
 | 2022-11-14 | [`Nissan of Las Cruces`](https://google.com/search?q=Nissan+of+Las+Cruces) | [lorenz](https://ransomwatch.telemetry.ltd/#/profiles?id=lorenz) |
 | 2022-11-14 | [`Salud Family Health`](https://google.com/search?q=Salud+Family+Health) | [lorenz](https://ransomwatch.telemetry.ltd/#/profiles?id=lorenz) |
-| 2022-11-13 | [`YASH Technologies`](https://google.com/search?q=YASH+Technologies) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
-| 2022-11-13 | [`Popp Hutcheson PLLC`](https://google.com/search?q=Popp+Hutcheson+PLLC) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2022-11-13 | [`Saurer`](https://google.com/search?q=Saurer) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
-| 2022-11-13 | [`Midland Cogeneration Venture`](https://google.com/search?q=Midland+Cogeneration+Venture) | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
-| 2022-11-13 | [`CENTRAL BANK OF GAMBIA HACKED. 2 TB OF CRITICAL DATA WAS STOLEN.`](https://google.com/search?q=CENTRAL+BANK+OF+GAMBIA+HACKED.+2+TB+OF+CRITICAL+DATA+WAS+STOLEN.) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2022-11-12 | [`Blog is empty`](https://google.com/search?q=Blog+is+empty) | [revil](https://ransomwatch.telemetry.ltd/#/profiles?id=revil) |
-| 2022-11-12 | [`nobilityrcm.com / altapartnersllc.com  /  MFAST.com / MSBS.biz sym / elitemedicalbill.com`](https://google.com/search?q=nobilityrcm.com+%2F+altapartnersllc.com++%2F++MFAST.com+%2F+MSBS.biz+sym+%2F+elitemedicalbill.com) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2022-11-12 | [`http://willisklein.com`](https://google.com/search?q=http%3A%2F%2Fwillisklein.com) | [projectrelic](https://ransomwatch.telemetry.ltd/#/profiles?id=projectrelic) |
