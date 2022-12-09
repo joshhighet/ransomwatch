@@ -4,6 +4,12 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-12-09 | [`ChemiFlex`](https://google.com/search?q=ChemiFlex) | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
+| 2022-12-09 | [`Radical Sportscars`](https://google.com/search?q=Radical+Sportscars) | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
+| 2022-12-09 | [`Orotex`](https://google.com/search?q=Orotex) | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
+| 2022-12-09 | [`Acquarius Trust Group`](https://google.com/search?q=Acquarius+Trust+Group) | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
+| 2022-12-09 | [`Pilenpak`](https://google.com/search?q=Pilenpak) | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
+| 2022-12-09 | [`AHT Wisconsin Windows`](https://google.com/search?q=AHT+Wisconsin+Windows) | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
 | 2022-12-08 | [`New Partners`](https://google.com/search?q=New+Partners) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2022-12-08 | [`LOESCHGROUP.DE FILES PART8 - 192.168.101.34\DATEN\Media\ PUBLISHED`](https://google.com/search?q=LOESCHGROUP.DE+FILES+PART8+-+192.168.101.34%5CDATEN%5CMedia%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-12-08 | [`ORDEREXPRESS.COM.MX FILES PART9 - 10.10.1.33\C$\Users\emmanuel.herrera\Documents\Imágenes\`](https://google.com/search?q=ORDEREXPRESS.COM.MX+FILES+PART9+-+10.10.1.33%5CC%24%5CUsers%5Cemmanuel.herrera%5CDocuments%5CIm%C3%A1genes%5C) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
@@ -198,9 +204,3 @@ _last `200` posts_
 | 2022-11-12 | [`Blog is empty`](https://google.com/search?q=Blog+is+empty) | [revil](https://ransomwatch.telemetry.ltd/#/profiles?id=revil) |
 | 2022-11-12 | [`nobilityrcm.com / altapartnersllc.com  /  MFAST.com / MSBS.biz sym / elitemedicalbill.com`](https://google.com/search?q=nobilityrcm.com+%2F+altapartnersllc.com++%2F++MFAST.com+%2F+MSBS.biz+sym+%2F+elitemedicalbill.com) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-11-12 | [`http://willisklein.com`](https://google.com/search?q=http%3A%2F%2Fwillisklein.com) | [projectrelic](https://ransomwatch.telemetry.ltd/#/profiles?id=projectrelic) |
-| 2022-11-12 | [`http://broad-med.com`](https://google.com/search?q=http%3A%2F%2Fbroad-med.com) | [projectrelic](https://ransomwatch.telemetry.ltd/#/profiles?id=projectrelic) |
-| 2022-11-12 | [`http://turnercpas.com`](https://google.com/search?q=http%3A%2F%2Fturnercpas.com) | [projectrelic](https://ransomwatch.telemetry.ltd/#/profiles?id=projectrelic) |
-| 2022-11-12 | [`http://sterlingbattery.com`](https://google.com/search?q=http%3A%2F%2Fsterlingbattery.com) | [projectrelic](https://ransomwatch.telemetry.ltd/#/profiles?id=projectrelic) |
-| 2022-11-12 | [`http://doctorscenterhospital.com`](https://google.com/search?q=http%3A%2F%2Fdoctorscenterhospital.com) | [projectrelic](https://ransomwatch.telemetry.ltd/#/profiles?id=projectrelic) |
-| 2022-11-11 | [`https://www.qep.com`](https://google.com/search?q=https%3A%2F%2Fwww.qep.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
-| 2022-11-11 | [`BRAZILIAN PET FOODS`](https://google.com/search?q=BRAZILIAN+PET+FOODS) | [lv](https://ransomwatch.telemetry.ltd/#/profiles?id=lv) |
