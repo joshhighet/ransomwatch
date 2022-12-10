@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-12-10 | [`KNOX College`](https://google.com/search?q=KNOX+College) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
 | 2022-12-10 | [`dothousehealth.org`](https://google.com/search?q=dothousehealth.org) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-12-10 | [`koda.com.tw`](https://google.com/search?q=koda.com.tw) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-12-10 | [`biotipo.com.br`](https://google.com/search?q=biotipo.com.br) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-11-15 | [`ALTlTUDE AEROSPACE INC`](https://google.com/search?q=ALTlTUDE+AEROSPACE+INC) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2022-11-15 | [`Fonderia Boccacci`](https://google.com/search?q=Fonderia+Boccacci) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2022-11-15 | [`Zelena Laguna Hotel`](https://google.com/search?q=Zelena+Laguna+Hotel) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
-| 2022-11-15 | [`LEGAZPIBANK`](https://google.com/search?q=LEGAZPIBANK) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
