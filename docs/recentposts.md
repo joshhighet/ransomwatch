@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-12-10 | [`koda.com.tw`](https://google.com/search?q=koda.com.tw) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-12-10 | [`biotipo.com.br`](https://google.com/search?q=biotipo.com.br) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-12-10 | [`Aeroproductsco`](https://google.com/search?q=Aeroproductsco) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-12-10 | [`oltax.com`](https://google.com/search?q=oltax.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-11-15 | [`Zelena Laguna Hotel`](https://google.com/search?q=Zelena+Laguna+Hotel) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2022-11-15 | [`LEGAZPIBANK`](https://google.com/search?q=LEGAZPIBANK) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2022-11-15 | [`MCCLEAN16  company`](https://google.com/search?q=MCCLEAN16++company) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
-| 2022-11-15 | [`lawtrade company`](https://google.com/search?q=lawtrade+company) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
