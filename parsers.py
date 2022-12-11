@@ -904,3 +904,14 @@ def monti():
         errlog('monti: ' + 'parsing fail')
     for post in posts:
         appender(post, 'monti')
+
+def play():
+    stdlog('parser: ' + 'play')
+    parser = '''
+    %s --no-filename '(?<=\\"\\").*?(?=div)' source/play-*.html | tr -d '<>' | tr -d \\'
+    ''' % (fancygrep)
+    posts = runshellcmd(parser)
+    if len(posts) == 1:
+        errlog('play: ' + 'parsing fail')
+    for post in posts:
+        appender(post, 'play')

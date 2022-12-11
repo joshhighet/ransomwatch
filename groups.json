@@ -3652,7 +3652,7 @@
     {
         "name": "play",
         "captcha": false,
-        "parser": false,
+        "parser": true,
         "javascript_render": false,
         "meta": null,
         "locations": [
