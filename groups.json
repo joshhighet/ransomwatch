@@ -2966,7 +2966,7 @@
     {
         "name": "nokoyawa",
         "captcha": false,
-        "parser": false,
+        "parser": true,
         "javascript_render": false,
         "meta": null,
         "locations": [
@@ -2978,6 +2978,15 @@
                 "available": false,
                 "updated": "2022-07-11 22:26:00.512463",
                 "lastscrape": "2022-07-11 22:26:00.512452"
+            },
+            {
+                "fqdn": "6yofnrq7evqrtz3tzi3dkbrdovtywd35lx3iqbc5dyh367nrdh4jgfyd.onion",
+                "title": null,
+                "version": 3,
+                "slug": "http://6yofnrq7evqrtz3tzi3dkbrdovtywd35lx3iqbc5dyh367nrdh4jgfyd.onion",
+                "available": false,
+                "updated": null,
+                "lastscrape": "2021-05-01 00:00:00.000000"
             }
         ],
         "profile": []
