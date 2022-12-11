@@ -881,3 +881,14 @@ def nokoyawa():
         errlog('nokoyawa: ' + 'parsing fail')
     for post in posts:
         appender(post, 'nokoyawa')
+
+def dataleak():
+    stdlog('parser: ' + 'dataleak')
+    parser = '''
+    grep '<h2 class="post-title">' source/dataleak-*.html | cut -d '>' -f 2 | cut -d '<' -f 1
+    '''
+    posts = runshellcmd(parser)
+    if len(posts) == 1:
+        errlog('dataleak: ' + 'parsing fail')
+    for post in posts:
+        appender(post, 'dataleak')
