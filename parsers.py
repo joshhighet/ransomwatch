@@ -739,8 +739,9 @@ def omega():
 
 def bianlian():
     stdlog('parser: ' + 'bianlian')
+    # sed -n '/<a href="\/companies\//,/<\/a>/p' source/bianlian-*.html | egrep -o "([A-Za-z0-9 ,\'.-])+</a>" | cut -d '<' -f 1 | sed -e '/Contacts/d'
     parser = '''
-    sed -n '/<a href="\/companies\//,/<\/a>/p' source/bianlian-*.html | egrep -o "([A-Za-z0-9 ,\'.-])+</a>" | cut -d '<' -f 1 | sed -e '/Contacts/d'
+    sed -n '/<a href="\/companies\//,/<\/a>/p' source/bianlian-*.html | sed 's/&amp;/and/' | egrep -o "([A-Za-z0-9 ,*\'.-])+</a>" | cut -d '<' -f 1 | sed -e '/Contacts/d' | sed -e 's/^ *//g' -e 's/[[:space:]]*$//'
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
