@@ -155,7 +155,8 @@ def siteschema(location):
         'slug': location,
         'available': False,
         'updated': None,
-        'lastscrape': '2021-05-01 00:00:00.000000'
+        'lastscrape': '2021-05-01 00:00:00.000000',
+        'enabled': True
     }
     dbglog('sharedutils: ' + 'schema - ' + str(schema))
     return schema

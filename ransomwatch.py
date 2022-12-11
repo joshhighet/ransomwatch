@@ -127,6 +127,9 @@ def scraper():
             only scrape onion v3 unless using headless browser, not long before this will not be possible
             https://support.torproject.org/onionservices/v2-deprecation/
             '''
+            if host['enabled'] is False:
+                stdlog('ransomwatch: ' + 'skipping, this host has been flagged as disabled')
+                continue
             if host['version'] == 3 or host['version'] == 0:
                 if group['javascript_render'] is True:
                     stdlog('ransomwatch: ' + 'using javascript_render (geckodriver)')
