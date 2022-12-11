@@ -3480,7 +3480,7 @@
     {
         "name": "monti",
         "captcha": false,
-        "parser": false,
+        "parser": true,
         "javascript_render": false,
         "meta": null,
         "locations": [
@@ -3492,6 +3492,15 @@
                 "available": false,
                 "updated": "2022-10-10 19:34:41.368874",
                 "lastscrape": "2022-10-10 19:34:41.368860"
+            },
+            {
+                "fqdn": "mblogci3rudehaagbryjznltdp33ojwzkq6hn2pckvjq33rycmzczpid.onion",
+                "title": null,
+                "version": 3,
+                "slug": "http://mblogci3rudehaagbryjznltdp33ojwzkq6hn2pckvjq33rycmzczpid.onion",
+                "available": false,
+                "updated": null,
+                "lastscrape": "2021-05-01 00:00:00.000000"
             }
         ],
         "profile": []

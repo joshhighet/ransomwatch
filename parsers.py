@@ -893,3 +893,14 @@ def dataleak():
         errlog('dataleak: ' + 'parsing fail')
     for post in posts:
         appender(post, 'dataleak')
+
+def monti():
+    stdlog('parser: ' + 'monti')
+    parser = '''
+    grep '<h5 style="color:#dbdbdb" >' source/monti-*.html | cut -d '>' -f 2 | cut -d '<' -f 1 | grep -v test | sed -e 's/^ *//g' -e 's/[[:space:]]*$//'
+    '''
+    posts = runshellcmd(parser)
+    if len(posts) == 1:
+        errlog('monti: ' + 'parsing fail')
+    for post in posts:
+        appender(post, 'monti')
