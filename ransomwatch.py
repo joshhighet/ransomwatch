@@ -289,6 +289,7 @@ if args.mode == 'parse':
     parsers.dataleak()
     parsers.monti()
     parsers.play()
+    parsers.karakurt()
     stdlog('ransomwatch: ' + 'parse run complete')
 
 if args.mode == 'list':
