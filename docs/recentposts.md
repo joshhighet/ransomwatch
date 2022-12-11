@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-12-11 | [`Antwerpen`](https://google.com/search?q=Antwerpen) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2022-12-11 | [`Rudman`](https://google.com/search?q=Rudman) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2022-12-11 | [`Spa`](https://google.com/search?q=Spa) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2022-12-11 | [`Meisenkothen`](https://google.com/search?q=Meisenkothen) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-11-23 | [`LOESCHGROUP.DE FILES PART5 - 192.168.101.34\DATEN\Media\ PUBLISHED`](https://google.com/search?q=LOESCHGROUP.DE+FILES+PART5+-+192.168.101.34%5CDATEN%5CMedia%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-11-23 | [`ORDEREXPRESS.COM.MX FILES PART6 - 10.10.1.33\C$\Users\emmanuel.herrera\ PUBLISHED`](https://google.com/search?q=ORDEREXPRESS.COM.MX+FILES+PART6+-+10.10.1.33%5CC%24%5CUsers%5Cemmanuel.herrera%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-11-23 | [`MARCELSOLUTION.COM FILES PART7 - SRVTS3\C$\QB16\DATA\ PUBLISHED`](https://google.com/search?q=MARCELSOLUTION.COM+FILES+PART7+-+SRVTS3%5CC%24%5CQB16%5CDATA%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-11-22 | [`lapiamontesa`](https://google.com/search?q=lapiamontesa) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
