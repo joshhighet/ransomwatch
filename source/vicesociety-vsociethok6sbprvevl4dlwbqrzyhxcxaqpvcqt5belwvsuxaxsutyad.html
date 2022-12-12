@@ -27,13 +27,34 @@
 			</td><td align="center"><font size="4" color="#69E17B"><img src="NewPartner.jpg" title="New Partners" width="280"></font><br><br></td></tr>
             <tr height="50"><td colspan="2"><br>
 				<table width="90%" height="50" cellspacing="0" cellpadding="10" bordercolor="#00ff00" border="1" bgcolor="yellow" align="center"><tbody><tr><td>
-				<font size="3" face="Comic Sans MS" color="black">
-				The timer will be started by London time on Desember 12, 2022, at 10:00 p.m. 
-                </font><br>
+				<font size="3" face="Comic Sans MS" color="black">The papers will be published by London time on December 16, 2022, at 12:00 a.m. <br>London time:
+				<div id="time_now_in_london">12 Dec 2022 13:10:22</div>
+		  	    <script type="text/javascript">
+		  		  setInterval( function() {
+		  		  document.getElementById( "time_now_in_london" ).innerText = ( new Date( new Date().getTime() + 1 * 60 * 60 * 1000 ) ).toUTCString().replace( /^[a-zA-Z]{3}\, /, "" ).replace( / GMT$/, "" );
+		  		  }, 1000 );
+		     	</script>
+				<br>Remains:<br><b></b></font><b>
 				<font size="6" face="Comic Sans MS" color="black">
-				4 days  00 hours 00 minutes 00 seconds <br>
-                </font>
-				</td></tr>
+			    <p id="timer">3 days 16 hours 49 minutes 37 seconds </p>
+                <script>
+                var countDownDate = new Date( 1671166800000 ).getTime();
+                var x = setInterval(function() {
+                  var now = ( new Date() ).valueOf();
+                  var distance = countDownDate - now;
+                  var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+                  var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+                  var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+                  var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+                  document.getElementById("timer").innerHTML = days + " days " + hours + " hours "
+                  + minutes + " minutes " + seconds + " seconds ";
+                  if (distance < 0) {
+                    clearInterval(x);
+                    document.getElementById("timer").innerHTML = "EXPIRED";
+                  }
+                  }, 1000);
+                </script>			
+                </font></b></td></tr>
 				</tbody></table>
 			<br><hr></td></tr>
 	

@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-12-12 | [`Modular Mining Systems`](https://google.com/search?q=Modular+Mining+Systems) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2022-12-12 | [`BRYCON Construction`](https://google.com/search?q=BRYCON+Construction) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2022-12-12 | [`*****a*** law`](https://google.com/search?q=%2A%2A%2A%2A%2Aa%2A%2A%2A+law) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2022-12-12 | [`veolus.com`](https://google.com/search?q=veolus.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-12-12 | [`tdtu.edu.vn`](https://google.com/search?q=tdtu.edu.vn) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-12-12 | [`sentecgroup.com`](https://google.com/search?q=sentecgroup.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2022-11-24 | [`Modular Mining`](https://google.com/search?q=Modular+Mining) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2022-11-24 | [`Centura College`](https://google.com/search?q=Centura+College) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2022-11-24 | [`Versah`](https://google.com/search?q=Versah) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2022-11-24 | [`Gazelle International Ltd`](https://google.com/search?q=Gazelle+International+Ltd) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2022-11-24 | [`Boon Tool Co`](https://google.com/search?q=Boon+Tool+Co) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2022-11-24 | [`Rentz Management`](https://google.com/search?q=Rentz+Management) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
