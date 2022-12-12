@@ -4,6 +4,16 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-12-12 | [`veolus.com`](https://google.com/search?q=veolus.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2022-12-12 | [`tdtu.edu.vn`](https://google.com/search?q=tdtu.edu.vn) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2022-12-12 | [`sentecgroup.com`](https://google.com/search?q=sentecgroup.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2022-12-12 | [`rkfoodland.com`](https://google.com/search?q=rkfoodland.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2022-12-12 | [`luxeprint.com.tw`](https://google.com/search?q=luxeprint.com.tw) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2022-12-12 | [`k-toko.com`](https://google.com/search?q=k-toko.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2022-12-12 | [`jieh.vn`](https://google.com/search?q=jieh.vn) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2022-12-12 | [`financierareyes.com.mx`](https://google.com/search?q=financierareyes.com.mx) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2022-12-12 | [`dof.ca.gov`](https://google.com/search?q=dof.ca.gov) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2022-12-12 | [`amazing-global.com`](https://google.com/search?q=amazing-global.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-12-12 | [`2networkit`](https://google.com/search?q=2networkit) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
 | 2022-12-12 | [`Una Seguros`](https://google.com/search?q=Una+Seguros) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2022-12-11 | [`Antwerpen`](https://google.com/search?q=Antwerpen) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -194,13 +204,3 @@ _last `200` posts_
 | 2022-11-24 | [`Gazelle International Ltd`](https://google.com/search?q=Gazelle+International+Ltd) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2022-11-24 | [`Boon Tool Co`](https://google.com/search?q=Boon+Tool+Co) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2022-11-24 | [`Rentz Management`](https://google.com/search?q=Rentz+Management) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2022-11-24 | [`Harry Rosen`](https://google.com/search?q=Harry+Rosen) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2022-11-24 | [`Ta Chen Stainless Pipe Co., Ltd`](https://google.com/search?q=Ta+Chen+Stainless+Pipe+Co.%2C+Ltd) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2022-11-24 | [`https://www.labusinessjournal.com`](https://google.com/search?q=https%3A%2F%2Fwww.labusinessjournal.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
-| 2022-11-24 | [`Cincinnati State`](https://google.com/search?q=Cincinnati+State) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
-| 2022-11-24 | [`Pmc-group`](https://google.com/search?q=Pmc-group) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
-| 2022-11-24 | [`Astra Daihatsu Motor (ID)`](https://google.com/search?q=Astra+Daihatsu+Motor+%28ID%29) | [daixin](https://ransomwatch.telemetry.ltd/#/profiles?id=daixin) |
-| 2022-11-23 | [`Norman Public Schools`](https://google.com/search?q=Norman+Public+Schools) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
-| 2022-11-23 | [`Aeronautics company Canada / UTC Aerospace Systems, Bombardier aerospace, NASA partners`](https://google.com/search?q=Aeronautics+company+Canada+%2F+UTC+Aerospace+Systems%2C+Bombardier+aerospace%2C+NASA+partners) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
-| 2022-11-23 | [`SOUTH-STAFFS-WATER.CO.UK FILES PART12 - 10.80.74.231\ PUBLISHED`](https://google.com/search?q=SOUTH-STAFFS-WATER.CO.UK+FILES+PART12+-+10.80.74.231%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-11-23 | [`LOESCHGROUP.DE FILES PART5 - 192.168.101.34\DATEN\Media\ PUBLISHED`](https://google.com/search?q=LOESCHGROUP.DE+FILES+PART5+-+192.168.101.34%5CDATEN%5CMedia%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
