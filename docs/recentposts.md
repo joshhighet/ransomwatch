@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-12-13 | [`Schnee Berger`](https://google.com/search?q=Schnee+Berger) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
+| 2022-12-13 | [`V3 Companies`](https://google.com/search?q=V3+Companies) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-12-13 | [`VFS`](https://google.com/search?q=VFS) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2022-12-13 | [`Cetrogar`](https://google.com/search?q=Cetrogar) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2022-12-12 | [`Modular Mining Systems`](https://google.com/search?q=Modular+Mining+Systems) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2022-11-25 | [`Essent company - Leaked`](https://google.com/search?q=Essent+company+-+Leaked) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
 | 2022-11-25 | [`ITM`](https://google.com/search?q=ITM) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2022-11-25 | [`Guilford College`](https://google.com/search?q=Guilford+College) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
-| 2022-11-24 | [`Myton School`](https://google.com/search?q=Myton+School) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2022-11-24 | [`Modular Mining`](https://google.com/search?q=Modular+Mining) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
