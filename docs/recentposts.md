@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-12-13 | [`Batesville Products`](https://google.com/search?q=Batesville+Products) | [karakurt](https://ransomwatch.telemetry.ltd/#/profiles?id=karakurt) |
+| 2022-12-13 | [`ITONCLOUD - LEAKED`](https://google.com/search?q=ITONCLOUD+-+LEAKED) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
 | 2022-12-13 | [`Pella`](https://google.com/search?q=Pella) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2022-12-13 | [`http://www.pinnaclecommunications.com`](https://google.com/search?q=http%3A%2F%2Fwww.pinnaclecommunications.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
 | 2022-12-13 | [`PARIC CORPORATION`](https://google.com/search?q=PARIC+CORPORATION) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2022-11-27 | [`Altec Engineering LLC`](https://google.com/search?q=Altec+Engineering+LLC) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2022-11-27 | [`Block Buildings LLC`](https://google.com/search?q=Block+Buildings+LLC) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2022-11-27 | [`Badger Truck Refrigeration, Inc`](https://google.com/search?q=Badger+Truck+Refrigeration%2C+Inc) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2022-11-27 | [`GLEN DIMPLEX GROUP UNITS WERE HACKED (DEFOND, DEFONDTECH AND OTHER). MORE THAN 1TB DATA WA`](https://google.com/search?q=GLEN+DIMPLEX+GROUP+UNITS+WERE+HACKED+%28DEFOND%2C+DEFONDTECH+AND+OTHER%29.+MORE+THAN+1TB+DATA+WA) | [lv](https://ransomwatch.telemetry.ltd/#/profiles?id=lv) |
-| 2022-11-26 | [`https://www.friedmanlawoffices.com/`](https://google.com/search?q=https%3A%2F%2Fwww.friedmanlawoffices.com%2F) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
