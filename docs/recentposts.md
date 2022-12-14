@@ -4,6 +4,10 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-12-14 | [`Austria Presse Agentur`](https://google.com/search?q=Austria+Presse+Agentur) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2022-12-14 | [`Skoda Praha`](https://google.com/search?q=Skoda+Praha) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2022-12-14 | [`MME Group`](https://google.com/search?q=MME+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2022-12-14 | [`Ban Leong Technologies Ltd`](https://google.com/search?q=Ban+Leong+Technologies+Ltd) | [mallox](https://ransomwatch.telemetry.ltd/#/profiles?id=mallox) |
 | 2022-12-13 | [`Batesville Products`](https://google.com/search?q=Batesville+Products) | [karakurt](https://ransomwatch.telemetry.ltd/#/profiles?id=karakurt) |
 | 2022-12-13 | [`ITONCLOUD - LEAKED`](https://google.com/search?q=ITONCLOUD+-+LEAKED) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
 | 2022-12-13 | [`Pella`](https://google.com/search?q=Pella) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
@@ -200,7 +204,3 @@ _last `200` posts_
 | 2022-11-27 | [`STGi`](https://google.com/search?q=STGi) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
 | 2022-11-27 | [`VANOSS Public School`](https://google.com/search?q=VANOSS+Public+School) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2022-11-27 | [`Power Plant Services LLC`](https://google.com/search?q=Power+Plant+Services+LLC) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2022-11-27 | [`Samrin Services Pvt Ltd`](https://google.com/search?q=Samrin+Services+Pvt+Ltd) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2022-11-27 | [`Altec Engineering LLC`](https://google.com/search?q=Altec+Engineering+LLC) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2022-11-27 | [`Block Buildings LLC`](https://google.com/search?q=Block+Buildings+LLC) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2022-11-27 | [`Badger Truck Refrigeration, Inc`](https://google.com/search?q=Badger+Truck+Refrigeration%2C+Inc) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
