@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-12-14 | [`Mark-Taylor`](https://google.com/search?q=Mark-Taylor) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
+| 2022-12-14 | [`Expand Group`](https://google.com/search?q=Expand+Group) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
 | 2022-12-14 | [`TEIJIN AUTOMOTIVE TECHNOLOGIES`](https://google.com/search?q=TEIJIN+AUTOMOTIVE+TECHNOLOGIES) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-12-14 | [`Austria Presse Agentur`](https://google.com/search?q=Austria+Presse+Agentur) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2022-12-14 | [`Skoda Praha`](https://google.com/search?q=Skoda+Praha) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2022-11-27 | [`LOESCHGROUP.DE FILES PART6 - 192.168.101.34\DATEN\Media\ PUBLISHED`](https://google.com/search?q=LOESCHGROUP.DE+FILES+PART6+-+192.168.101.34%5CDATEN%5CMedia%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-11-27 | [`ORDEREXPRESS.COM.MX FILES PART7 - 10.10.1.33\C$\Users\emmanuel.herrera\Documents\Imágenes\`](https://google.com/search?q=ORDEREXPRESS.COM.MX+FILES+PART7+-+10.10.1.33%5CC%24%5CUsers%5Cemmanuel.herrera%5CDocuments%5CIm%C3%A1genes%5C) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-11-27 | [`MARCELSOLUTION.COM FILES PART8 - 192.168.12.120\E$\DATA\ PUBLISHED`](https://google.com/search?q=MARCELSOLUTION.COM+FILES+PART8+-+192.168.12.120%5CE%24%5CDATA%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-11-27 | [`STGi`](https://google.com/search?q=STGi) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
-| 2022-11-27 | [`VANOSS Public School`](https://google.com/search?q=VANOSS+Public+School) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
