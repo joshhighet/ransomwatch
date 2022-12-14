@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-12-14 | [`TEIJIN AUTOMOTIVE TECHNOLOGIES`](https://google.com/search?q=TEIJIN+AUTOMOTIVE+TECHNOLOGIES) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-12-14 | [`Austria Presse Agentur`](https://google.com/search?q=Austria+Presse+Agentur) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2022-12-14 | [`Skoda Praha`](https://google.com/search?q=Skoda+Praha) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2022-12-14 | [`MME Group`](https://google.com/search?q=MME+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-11-27 | [`MARCELSOLUTION.COM FILES PART8 - 192.168.12.120\E$\DATA\ PUBLISHED`](https://google.com/search?q=MARCELSOLUTION.COM+FILES+PART8+-+192.168.12.120%5CE%24%5CDATA%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-11-27 | [`STGi`](https://google.com/search?q=STGi) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
 | 2022-11-27 | [`VANOSS Public School`](https://google.com/search?q=VANOSS+Public+School) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2022-11-27 | [`Power Plant Services LLC`](https://google.com/search?q=Power+Plant+Services+LLC) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
