@@ -314,6 +314,16 @@
                 "updated": "2022-12-14 06:06:33.244137",
                 "lastscrape": "2022-12-14 06:06:33.244120",
                 "enabled": true
+            },
+            {
+                "fqdn": "avosjon4pfh3y7ew3jdwz6ofw7lljcxlbk7hcxxmnxlh5kvf2akcqjad.onion",
+                "title": null,
+                "version": 3,
+                "slug": "http://avosjon4pfh3y7ew3jdwz6ofw7lljcxlbk7hcxxmnxlh5kvf2akcqjad.onion",
+                "available": false,
+                "updated": null,
+                "lastscrape": "2021-05-01 00:00:00.000000",
+                "enabled": true
             }
         ],
         "profile": [
