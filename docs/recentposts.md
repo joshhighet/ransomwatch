@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-12-15 | [`Universidade Catolica Portuguesa`](https://google.com/search?q=Universidade+Catolica+Portuguesa) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2022-12-15 | [`https://www.leohamel.com`](https://google.com/search?q=https%3A%2F%2Fwww.leohamel.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
 | 2022-12-15 | [`Hci Systems Inc`](https://google.com/search?q=Hci+Systems+Inc) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2022-12-15 | [`Eureka Casino Resort`](https://google.com/search?q=Eureka+Casino+Resort) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-11-30 | [`Shenzhen INVT Electric Co.,Ltd`](https://google.com/search?q=Shenzhen+INVT+Electric+Co.%2CLtd) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-11-29 | [`Plascar Participacoes Industriais`](https://google.com/search?q=Plascar+Participacoes+Industriais) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2022-11-29 | [`colonialgeneral.com`](https://google.com/search?q=colonialgeneral.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-11-29 | [`Stibbs & Co`](https://google.com/search?q=Stibbs+%26+Co) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
