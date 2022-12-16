@@ -4,6 +4,12 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-12-16 | [`Bevolution Group`](https://google.com/search?q=Bevolution+Group) | [karakurt](https://ransomwatch.telemetry.ltd/#/profiles?id=karakurt) |
+| 2022-12-16 | [`TLC`](https://google.com/search?q=TLC) | [karakurt](https://ransomwatch.telemetry.ltd/#/profiles?id=karakurt) |
+| 2022-12-16 | [`Publicare`](https://google.com/search?q=Publicare) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
+| 2022-12-16 | [`SOFTEQ.COM FILES PART2 - dev-service-cc PUBLISHED`](https://google.com/search?q=SOFTEQ.COM+FILES+PART2+-+dev-service-cc+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2022-12-16 | [`LOESCHGROUP.DE FILES PART9 - 192.168.101.34\DATEN\Media\ PUBLISHED`](https://google.com/search?q=LOESCHGROUP.DE+FILES+PART9+-+192.168.101.34%5CDATEN%5CMedia%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2022-12-16 | [`ORDEREXPRESS.COM.MX FILES PART10 - 10.10.1.33\C$\Users\emmanuel.herrera\ PUBLISHED`](https://google.com/search?q=ORDEREXPRESS.COM.MX+FILES+PART10+-+10.10.1.33%5CC%24%5CUsers%5Cemmanuel.herrera%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-12-16 | [`http://molcy.com`](https://google.com/search?q=http%3A%2F%2Fmolcy.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
 | 2022-12-16 | [`Arsat`](https://google.com/search?q=Arsat) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2022-12-16 | [`JMicron`](https://google.com/search?q=JMicron) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -198,9 +204,3 @@ _last `200` posts_
 | 2022-12-02 | [`hildinganders.com`](https://google.com/search?q=hildinganders.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-12-02 | [`ckfinc.com`](https://google.com/search?q=ckfinc.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-12-02 | [`adamjeeinsurance.com`](https://google.com/search?q=adamjeeinsurance.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-12-02 | [`8x8.com`](https://google.com/search?q=8x8.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-12-01 | [`Maple Leaf Foods`](https://google.com/search?q=Maple+Leaf+Foods) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2022-12-01 | [`Landaumedia`](https://google.com/search?q=Landaumedia) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
-| 2022-12-01 | [`Generator-power`](https://google.com/search?q=Generator-power) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
-| 2022-12-01 | [`Boss-inc`](https://google.com/search?q=Boss-inc) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
-| 2022-12-01 | [`Holler-Classic`](https://google.com/search?q=Holler-Classic) | [lorenz](https://ransomwatch.telemetry.ltd/#/profiles?id=lorenz) |
