@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-12-16 | [`Arsat`](https://google.com/search?q=Arsat) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2022-12-16 | [`JMicron`](https://google.com/search?q=JMicron) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2022-12-16 | [`Gage Brothers`](https://google.com/search?q=Gage+Brothers) | [karakurt](https://ransomwatch.telemetry.ltd/#/profiles?id=karakurt) |
 | 2022-12-15 | [`Universidade Catolica Portuguesa`](https://google.com/search?q=Universidade+Catolica+Portuguesa) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2022-12-15 | [`https://www.leohamel.com`](https://google.com/search?q=https%3A%2F%2Fwww.leohamel.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2022-12-01 | [`Boss-inc`](https://google.com/search?q=Boss-inc) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
 | 2022-12-01 | [`Holler-Classic`](https://google.com/search?q=Holler-Classic) | [lorenz](https://ransomwatch.telemetry.ltd/#/profiles?id=lorenz) |
 | 2022-11-30 | [`Patton`](https://google.com/search?q=Patton) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
-| 2022-11-30 | [`Shenzhen INVT Electric Co.,Ltd`](https://google.com/search?q=Shenzhen+INVT+Electric+Co.%2CLtd) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2022-11-29 | [`Plascar Participacoes Industriais`](https://google.com/search?q=Plascar+Participacoes+Industriais) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
