@@ -4,6 +4,10 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-12-18 | [`OPUS IT Services`](https://google.com/search?q=OPUS+IT+Services) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2022-12-18 | [`H-Hotels`](https://google.com/search?q=H-Hotels) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2022-12-18 | [`C???e????? ?????????????`](https://google.com/search?q=C%3F%3F%3Fe%3F%3F%3F%3F%3F+%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2022-12-18 | [`Creta Farm`](https://google.com/search?q=Creta+Farm) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2022-12-18 | [`https://www.conform.it`](https://google.com/search?q=https%3A%2F%2Fwww.conform.it) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
 | 2022-12-18 | [`S??????????`](https://google.com/search?q=S%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2022-12-17 | [`Australian Real Estate Group Pty Ltd`](https://google.com/search?q=Australian+Real+Estate+Group+Pty+Ltd) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
@@ -200,7 +204,3 @@ _last `200` posts_
 | 2022-12-04 | [`MARCELSOLUTION.COM FILES PART9 - 192.168.12.120\E$\DATA\ PUBLISHED`](https://google.com/search?q=MARCELSOLUTION.COM+FILES+PART9+-+192.168.12.120%5CE%24%5CDATA%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-12-03 | [`https://allseasonmovers.com`](https://google.com/search?q=https%3A%2F%2Fallseasonmovers.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
 | 2022-12-02 | [`http://www.pgtinnovations.com`](https://google.com/search?q=http%3A%2F%2Fwww.pgtinnovations.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
-| 2022-12-02 | [`http://www.yoursummit.com`](https://google.com/search?q=http%3A%2F%2Fwww.yoursummit.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
-| 2022-12-02 | [`thorntontomasetti.com`](https://google.com/search?q=thorntontomasetti.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-12-02 | [`st-group.com`](https://google.com/search?q=st-group.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-12-02 | [`smithsinterconnect.com`](https://google.com/search?q=smithsinterconnect.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
