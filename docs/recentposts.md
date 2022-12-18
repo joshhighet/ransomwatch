@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-12-18 | [`S??????????`](https://google.com/search?q=S%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2022-12-17 | [`Australian Real Estate Group Pty Ltd`](https://google.com/search?q=Australian+Real+Estate+Group+Pty+Ltd) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2022-12-17 | [`University Institute of Technology of Paris`](https://google.com/search?q=University+Institute+of+Technology+of+Paris) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2022-12-16 | [`Bevolution Group`](https://google.com/search?q=Bevolution+Group) | [karakurt](https://ransomwatch.telemetry.ltd/#/profiles?id=karakurt) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-12-02 | [`st-group.com`](https://google.com/search?q=st-group.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-12-02 | [`smithsinterconnect.com`](https://google.com/search?q=smithsinterconnect.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-12-02 | [`menziesaviation.com`](https://google.com/search?q=menziesaviation.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-12-02 | [`hildinganders.com`](https://google.com/search?q=hildinganders.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
