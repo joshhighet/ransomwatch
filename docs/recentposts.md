@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-12-19 | [`senateshj.com`](https://google.com/search?q=senateshj.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2022-12-19 | [`mercuryit.co.nz`](https://google.com/search?q=mercuryit.co.nz) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2022-12-19 | [`accuro.co.nz`](https://google.com/search?q=accuro.co.nz) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-12-18 | [`OPUS IT Services`](https://google.com/search?q=OPUS+IT+Services) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2022-12-18 | [`H-Hotels`](https://google.com/search?q=H-Hotels) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2022-12-18 | [`C???e????? ?????????????`](https://google.com/search?q=C%3F%3F%3Fe%3F%3F%3F%3F%3F+%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2022-12-04 | [`abilways.com`](https://google.com/search?q=abilways.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-12-04 | [`LOESCHGROUP.DE FILES PART7 - 192.168.101.34\DATEN\Media\ PUBLISHED`](https://google.com/search?q=LOESCHGROUP.DE+FILES+PART7+-+192.168.101.34%5CDATEN%5CMedia%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-12-04 | [`ORDEREXPRESS.COM.MX FILES PART8 - 10.10.1.33\C$\Users\emmanuel.herrera\Documents\Imágenes\`](https://google.com/search?q=ORDEREXPRESS.COM.MX+FILES+PART8+-+10.10.1.33%5CC%24%5CUsers%5Cemmanuel.herrera%5CDocuments%5CIm%C3%A1genes%5C) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-12-04 | [`MARCELSOLUTION.COM FILES PART9 - 192.168.12.120\E$\DATA\ PUBLISHED`](https://google.com/search?q=MARCELSOLUTION.COM+FILES+PART9+-+192.168.12.120%5CE%24%5CDATA%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-12-03 | [`https://allseasonmovers.com`](https://google.com/search?q=https%3A%2F%2Fallseasonmovers.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
-| 2022-12-02 | [`http://www.pgtinnovations.com`](https://google.com/search?q=http%3A%2F%2Fwww.pgtinnovations.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
