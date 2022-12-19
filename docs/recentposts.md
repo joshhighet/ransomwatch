@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-12-19 | [`stmc.edu.hk`](https://google.com/search?q=stmc.edu.hk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2022-12-19 | [`rgvfirm.com`](https://google.com/search?q=rgvfirm.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-12-19 | [`polyflor.co.nz`](https://google.com/search?q=polyflor.co.nz) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-12-19 | [`catalyst-group.co.nz`](https://google.com/search?q=catalyst-group.co.nz) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-12-19 | [`businesscentral.org.nz`](https://google.com/search?q=businesscentral.org.nz) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2022-12-04 | [`Grupo NGN`](https://google.com/search?q=Grupo+NGN) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-12-04 | [`Jubilant`](https://google.com/search?q=Jubilant) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-12-04 | [`pro office Büro + Wohnkultur GmbH`](https://google.com/search?q=pro+office+B%C3%BCro+%2B+Wohnkultur+GmbH) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2022-12-04 | [`Philippine Economic Zone Authority (PEZA) peza.gov.ph`](https://google.com/search?q=Philippine+Economic+Zone+Authority+%28PEZA%29+peza.gov.ph) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2022-12-04 | [`Cappagh Contractors Construction (London) Ltd`](https://google.com/search?q=Cappagh+Contractors+Construction+%28London%29+Ltd) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
