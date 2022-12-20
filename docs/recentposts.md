@@ -4,6 +4,10 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-12-20 | [`Innovative Education Management`](https://google.com/search?q=Innovative+Education+Management) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
+| 2022-12-20 | [`Dixons Allerton Academy`](https://google.com/search?q=Dixons+Allerton+Academy) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
+| 2022-12-20 | [`City Of Huntsville, Texas`](https://google.com/search?q=City+Of+Huntsville%2C+Texas) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
+| 2022-12-20 | [`North Idaho College`](https://google.com/search?q=North+Idaho+College) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
 | 2022-12-20 | [`Sae-a`](https://google.com/search?q=Sae-a) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
 | 2022-12-20 | [`teknowsource.in`](https://google.com/search?q=teknowsource.in) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-12-20 | [`Xavier University of Louisiana`](https://google.com/search?q=Xavier+University+of+Louisiana) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
@@ -200,7 +204,3 @@ _last `200` posts_
 | 2022-12-05 | [`Glutz`](https://google.com/search?q=Glutz) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2022-12-05 | [`Bonn Nutrients Pvt`](https://google.com/search?q=Bonn+Nutrients+Pvt) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2022-12-05 | [` Restaurant`](https://google.com/search?q=+Restaurant) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2022-12-05 | [`Ability Commerce`](https://google.com/search?q=Ability+Commerce) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2022-12-05 | [`CROWN TECHNOLOGY Ltd`](https://google.com/search?q=CROWN+TECHNOLOGY+Ltd) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2022-12-05 | [`IM Group`](https://google.com/search?q=IM+Group) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2022-12-05 | [` School`](https://google.com/search?q=+School) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
