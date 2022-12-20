@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-12-20 | [`Sae-a`](https://google.com/search?q=Sae-a) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
 | 2022-12-20 | [`teknowsource.in`](https://google.com/search?q=teknowsource.in) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-12-20 | [`Xavier University of Louisiana`](https://google.com/search?q=Xavier+University+of+Louisiana) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2022-12-20 | [`JAKKS Pacific Inc`](https://google.com/search?q=JAKKS+Pacific+Inc) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-12-05 | [`CROWN TECHNOLOGY Ltd`](https://google.com/search?q=CROWN+TECHNOLOGY+Ltd) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2022-12-05 | [`IM Group`](https://google.com/search?q=IM+Group) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2022-12-05 | [` School`](https://google.com/search?q=+School) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2022-12-05 | [`AV Solutions`](https://google.com/search?q=AV+Solutions) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
