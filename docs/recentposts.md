@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-12-21 | [`The Gucciardo Law Firm`](https://google.com/search?q=The+Gucciardo+Law+Firm) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2022-12-21 | [`Berlina Tbk`](https://google.com/search?q=Berlina+Tbk) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2022-12-21 | [`Alvaria`](https://google.com/search?q=Alvaria) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
 | 2022-12-21 | [`M*****`](https://google.com/search?q=M%2A%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2022-12-21 | [`M*******l***`](https://google.com/search?q=M%2A%2A%2A%2A%2A%2A%2Al%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2022-12-21 | [`http://www.atlascommodities.com`](https://google.com/search?q=http%3A%2F%2Fwww.atlascommodities.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2022-12-06 | [`Feu Vert`](https://google.com/search?q=Feu+Vert) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2022-12-06 | [`PANOLAM`](https://google.com/search?q=PANOLAM) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2022-12-06 | [`myersontooth.com`](https://google.com/search?q=myersontooth.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-12-06 | [`g4s.com`](https://google.com/search?q=g4s.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-12-06 | [`amundson.co.nz`](https://google.com/search?q=amundson.co.nz) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-12-06 | [`INTERSPORT France`](https://google.com/search?q=INTERSPORT+France) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
