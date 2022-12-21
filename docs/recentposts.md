@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-12-21 | [`Goodwill industries`](https://google.com/search?q=Goodwill+industries) | [karakurt](https://ransomwatch.telemetry.ltd/#/profiles?id=karakurt) |
 | 2022-12-21 | [`Interface`](https://google.com/search?q=Interface) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
 | 2022-12-20 | [`LIBERTY PULTRUSIONS`](https://google.com/search?q=LIBERTY+PULTRUSIONS) | [karakurt](https://ransomwatch.telemetry.ltd/#/profiles?id=karakurt) |
 | 2022-12-20 | [`https://www.zehnders.com`](https://google.com/search?q=https%3A%2F%2Fwww.zehnders.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-12-06 | [`Elias Motsoaledi Local Municiapality`](https://google.com/search?q=Elias+Motsoaledi+Local+Municiapality) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-12-06 | [`Novak Law Offices`](https://google.com/search?q=Novak+Law+Offices) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-12-06 | [`NCI CABLING INC`](https://google.com/search?q=NCI+CABLING+INC) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2022-12-05 | [`BRYCON Construction`](https://google.com/search?q=BRYCON+Construction) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
