@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-12-22 | [`Every one of you been a good customer this year`](https://google.com/search?q=Every+one+of+you+been+a+good+customer+this+year) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2022-12-22 | [`maxionwheels.com`](https://google.com/search?q=maxionwheels.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-12-22 | [`SOFTEQ.COM FILES PART3 - srv-uLibrary PUBLISHED`](https://google.com/search?q=SOFTEQ.COM+FILES+PART3+-+srv-uLibrary+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-12-22 | [`LOESCHGROUP.DE FILES PART10 - 192.168.101.34\DATEN\Media\12_Kataloge\00_vor 2022\ PUBLISHE`](https://google.com/search?q=LOESCHGROUP.DE+FILES+PART10+-+192.168.101.34%5CDATEN%5CMedia%5C12_Kataloge%5C00_vor+2022%5C+PUBLISHE) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-12-09 | [`AHT Wisconsin Windows`](https://google.com/search?q=AHT+Wisconsin+Windows) | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
 | 2022-12-08 | [`New Partners`](https://google.com/search?q=New+Partners) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2022-12-08 | [`LOESCHGROUP.DE FILES PART8 - 192.168.101.34\DATEN\Media\ PUBLISHED`](https://google.com/search?q=LOESCHGROUP.DE+FILES+PART8+-+192.168.101.34%5CDATEN%5CMedia%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-12-08 | [`ORDEREXPRESS.COM.MX FILES PART9 - 10.10.1.33\C$\Users\emmanuel.herrera\Documents\Imágenes\`](https://google.com/search?q=ORDEREXPRESS.COM.MX+FILES+PART9+-+10.10.1.33%5CC%24%5CUsers%5Cemmanuel.herrera%5CDocuments%5CIm%C3%A1genes%5C) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
