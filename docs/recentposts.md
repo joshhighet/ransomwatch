@@ -4,6 +4,10 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-12-22 | [`thedonovancompany.com`](https://google.com/search?q=thedonovancompany.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2022-12-22 | [`Strem Chemicals`](https://google.com/search?q=Strem+Chemicals) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
+| 2022-12-22 | [`Bregman Berbert Schwartz & Gilday`](https://google.com/search?q=Bregman+Berbert+Schwartz+%26+Gilday) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
+| 2022-12-22 | [`Protecmedia`](https://google.com/search?q=Protecmedia) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-12-22 | [`Every one of you been a good customer this year`](https://google.com/search?q=Every+one+of+you+been+a+good+customer+this+year) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2022-12-22 | [`maxionwheels.com`](https://google.com/search?q=maxionwheels.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-12-22 | [`SOFTEQ.COM FILES PART3 - srv-uLibrary PUBLISHED`](https://google.com/search?q=SOFTEQ.COM+FILES+PART3+-+srv-uLibrary+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
@@ -200,7 +204,3 @@ _last `200` posts_
 | 2022-12-09 | [`Radical Sportscars`](https://google.com/search?q=Radical+Sportscars) | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
 | 2022-12-09 | [`Orotex`](https://google.com/search?q=Orotex) | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
 | 2022-12-09 | [`Acquarius Trust Group`](https://google.com/search?q=Acquarius+Trust+Group) | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
-| 2022-12-09 | [`Pilenpak`](https://google.com/search?q=Pilenpak) | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
-| 2022-12-09 | [`AHT Wisconsin Windows`](https://google.com/search?q=AHT+Wisconsin+Windows) | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
-| 2022-12-08 | [`New Partners`](https://google.com/search?q=New+Partners) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
-| 2022-12-08 | [`LOESCHGROUP.DE FILES PART8 - 192.168.101.34\DATEN\Media\ PUBLISHED`](https://google.com/search?q=LOESCHGROUP.DE+FILES+PART8+-+192.168.101.34%5CDATEN%5CMedia%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
