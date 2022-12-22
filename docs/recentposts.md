@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-12-22 | [`SOFTEQ.COM FILES PART3 - srv-uLibrary PUBLISHED`](https://google.com/search?q=SOFTEQ.COM+FILES+PART3+-+srv-uLibrary+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2022-12-22 | [`LOESCHGROUP.DE FILES PART10 - 192.168.101.34\DATEN\Media\12_Kataloge\00_vor 2022\ PUBLISHE`](https://google.com/search?q=LOESCHGROUP.DE+FILES+PART10+-+192.168.101.34%5CDATEN%5CMedia%5C12_Kataloge%5C00_vor+2022%5C+PUBLISHE) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2022-12-22 | [`ORDEREXPRESS.COM.MX FILES PART11 - 10.10.1.97 PUBLISHED`](https://google.com/search?q=ORDEREXPRESS.COM.MX+FILES+PART11+-+10.10.1.97+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-12-22 | [`MHMR Authority Of Brazos Valley`](https://google.com/search?q=MHMR+Authority+Of+Brazos+Valley) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
 | 2022-12-22 | [`Cervecería Regional`](https://google.com/search?q=Cervecer%C3%ADa+Regional) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2022-12-22 | [`F???????, ???, D????????, T???????, S?????????????`](https://google.com/search?q=F%3F%3F%3F%3F%3F%3F%3F%2C+%3F%3F%3F%2C+D%3F%3F%3F%3F%3F%3F%3F%3F%2C+T%3F%3F%3F%3F%3F%3F%3F%2C+S%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2022-12-08 | [`LOESCHGROUP.DE FILES PART8 - 192.168.101.34\DATEN\Media\ PUBLISHED`](https://google.com/search?q=LOESCHGROUP.DE+FILES+PART8+-+192.168.101.34%5CDATEN%5CMedia%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-12-08 | [`ORDEREXPRESS.COM.MX FILES PART9 - 10.10.1.33\C$\Users\emmanuel.herrera\Documents\Imágenes\`](https://google.com/search?q=ORDEREXPRESS.COM.MX+FILES+PART9+-+10.10.1.33%5CC%24%5CUsers%5Cemmanuel.herrera%5CDocuments%5CIm%C3%A1genes%5C) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-12-08 | [`Warren County Community College`](https://google.com/search?q=Warren+County+Community+College) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2022-12-07 | [`Albina Asphalt`](https://google.com/search?q=Albina+Asphalt) | [lorenz](https://ransomwatch.telemetry.ltd/#/profiles?id=lorenz) |
-| 2022-12-07 | [`https://afasd.net`](https://google.com/search?q=https%3A%2F%2Fafasd.net) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
-| 2022-12-07 | [`Requena`](https://google.com/search?q=Requena) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
