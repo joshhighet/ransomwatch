@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-12-23 | [`Myofficeplace Inc.`](https://google.com/search?q=Myofficeplace+Inc.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2022-12-23 | [`SEMITEC Corporation`](https://google.com/search?q=SEMITEC+Corporation) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2022-12-23 | [`*****`](https://google.com/search?q=%2A%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2022-12-23 | [`Realstar Holdings Partnership`](https://google.com/search?q=Realstar+Holdings+Partnership) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2022-12-23 | [`https://www.aegea.com.br`](https://google.com/search?q=https%3A%2F%2Fwww.aegea.com.br) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
 | 2022-12-23 | [`https://www.rech.com.br`](https://google.com/search?q=https%3A%2F%2Fwww.rech.com.br) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2022-12-09 | [`ARRI`](https://google.com/search?q=ARRI) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2022-12-09 | [`A.R. Thomson Group`](https://google.com/search?q=A.R.+Thomson+Group) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2022-12-09 | [`Cleveland Brothers`](https://google.com/search?q=Cleveland+Brothers) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2022-12-09 | [`AIRCOMECHANICAL`](https://google.com/search?q=AIRCOMECHANICAL) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2022-12-09 | [`Panolam Surface Systems`](https://google.com/search?q=Panolam+Surface+Systems) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2022-12-09 | [`SEACAST`](https://google.com/search?q=SEACAST) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
