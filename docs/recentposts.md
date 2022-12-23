@@ -4,6 +4,10 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-12-23 | [`https://www.aegea.com.br`](https://google.com/search?q=https%3A%2F%2Fwww.aegea.com.br) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
+| 2022-12-23 | [`https://www.rech.com.br`](https://google.com/search?q=https%3A%2F%2Fwww.rech.com.br) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
+| 2022-12-23 | [`excentiahumanservices.org`](https://google.com/search?q=excentiahumanservices.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2022-12-23 | [`bavelloni.com`](https://google.com/search?q=bavelloni.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-12-22 | [`thedonovancompany.com`](https://google.com/search?q=thedonovancompany.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-12-22 | [`Strem Chemicals`](https://google.com/search?q=Strem+Chemicals) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2022-12-22 | [`Bregman Berbert Schwartz & Gilday`](https://google.com/search?q=Bregman+Berbert+Schwartz+%26+Gilday) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -200,7 +204,3 @@ _last `200` posts_
 | 2022-12-09 | [`Panolam Surface Systems`](https://google.com/search?q=Panolam+Surface+Systems) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2022-12-09 | [`SEACAST`](https://google.com/search?q=SEACAST) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2022-12-09 | [`nworksllc`](https://google.com/search?q=nworksllc) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2022-12-09 | [`ChemiFlex`](https://google.com/search?q=ChemiFlex) | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
-| 2022-12-09 | [`Radical Sportscars`](https://google.com/search?q=Radical+Sportscars) | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
-| 2022-12-09 | [`Orotex`](https://google.com/search?q=Orotex) | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
-| 2022-12-09 | [`Acquarius Trust Group`](https://google.com/search?q=Acquarius+Trust+Group) | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
