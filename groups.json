@@ -3943,5 +3943,25 @@
             }
         ],
         "profile": []
+    },
+    {
+        "name": "unsafeleak",
+        "captcha": false,
+        "parser": true,
+        "javascript_render": true,
+        "meta": null,
+        "locations": [
+            {
+                "fqdn": "unsafeipw6wbkzzmj7yqp7bz6j7ivzynggmwxsm6u2wwfmfqrxqrrhyd.onion",
+                "title": "Home | UnSafeBlog",
+                "version": 3,
+                "slug": "http://unsafeipw6wbkzzmj7yqp7bz6j7ivzynggmwxsm6u2wwfmfqrxqrrhyd.onion",
+                "available": true,
+                "updated": "2022-12-26 19:07:20.230638",
+                "lastscrape": "2022-12-26 19:07:20.230616",
+                "enabled": true
+            }
+        ],
+        "profile": []
     }
 ]

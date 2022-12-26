@@ -926,3 +926,14 @@ def karakurt():
         errlog('karakurt: ' + 'parsing fail')
     for post in posts:
         appender(post, 'karakurt')
+
+def unsafeleak():
+    stdlog('parser: ' + 'unsafeleak')
+    parser = '''
+    egrep -o "<h4>([A-Za-z0-9 ,\'.-])+</h4>" source/unsafeleak-*.html | cut -d '>' -f 2 | cut -d '<' -f 1
+    '''
+    posts = runshellcmd(parser)
+    if len(posts) == 1:
+        errlog('unsafeleak: ' + 'parsing fail')
+    for post in posts:
+        appender(post, 'unsafeleak')
