@@ -4,6 +4,13 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-12-26 | [`G.R. Sponaugle`](https://google.com/search?q=G.R.+Sponaugle) | [unsafeleak](https://ransomwatch.telemetry.ltd/#/profiles?id=unsafeleak) |
+| 2022-12-26 | [`Wings Etc`](https://google.com/search?q=Wings+Etc) | [unsafeleak](https://ransomwatch.telemetry.ltd/#/profiles?id=unsafeleak) |
+| 2022-12-26 | [`Dooly County School System`](https://google.com/search?q=Dooly+County+School+System) | [unsafeleak](https://ransomwatch.telemetry.ltd/#/profiles?id=unsafeleak) |
+| 2022-12-26 | [`Whatcom County Library System`](https://google.com/search?q=Whatcom+County+Library+System) | [unsafeleak](https://ransomwatch.telemetry.ltd/#/profiles?id=unsafeleak) |
+| 2022-12-26 | [`The Chedi Muscat`](https://google.com/search?q=The+Chedi+Muscat) | [unsafeleak](https://ransomwatch.telemetry.ltd/#/profiles?id=unsafeleak) |
+| 2022-12-26 | [`Barakat Travel Co`](https://google.com/search?q=Barakat+Travel+Co) | [unsafeleak](https://ransomwatch.telemetry.ltd/#/profiles?id=unsafeleak) |
+| 2022-12-26 | [`Ucar`](https://google.com/search?q=Ucar) | [unsafeleak](https://ransomwatch.telemetry.ltd/#/profiles?id=unsafeleak) |
 | 2022-12-26 | [`STRESSER ASSOCIATES CPA`](https://google.com/search?q=STRESSER+ASSOCIATES+CPA) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-12-25 | [`https://www.atlatec.com`](https://google.com/search?q=https%3A%2F%2Fwww.atlatec.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
 | 2022-12-24 | [`Republic of Vanuatu`](https://google.com/search?q=Republic+of+Vanuatu) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
@@ -197,10 +204,3 @@ _last `200` posts_
 | 2022-12-10 | [`koda.com.tw`](https://google.com/search?q=koda.com.tw) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-12-10 | [`biotipo.com.br`](https://google.com/search?q=biotipo.com.br) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-12-10 | [`Aeroproductsco`](https://google.com/search?q=Aeroproductsco) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2022-12-10 | [`oltax.com`](https://google.com/search?q=oltax.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-12-09 | [`rhotelja.com`](https://google.com/search?q=rhotelja.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-12-09 | [`hawanasalalah.com`](https://google.com/search?q=hawanasalalah.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-12-09 | [`SOFTEQ.COM FILES PART1 - dev-gitlab-runner PUBLISHED`](https://google.com/search?q=SOFTEQ.COM+FILES+PART1+-+dev-gitlab-runner+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-12-09 | [`Maney - Gordon - Zeller, P.A.`](https://google.com/search?q=Maney+-+Gordon+-+Zeller%2C+P.A.) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2022-12-09 | [`Atcore`](https://google.com/search?q=Atcore) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2022-12-09 | [`Dingbro Ltd`](https://google.com/search?q=Dingbro+Ltd) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
