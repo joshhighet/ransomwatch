@@ -4,6 +4,11 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-12-27 | [`Empresas Públicas de Medellín`](https://google.com/search?q=Empresas+P%C3%BAblicas+de+Medell%C3%ADn) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
+| 2022-12-27 | [`FARMS.COM`](https://google.com/search?q=FARMS.COM) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
+| 2022-12-27 | [`CR&R`](https://google.com/search?q=CR%26R) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
+| 2022-12-27 | [`Meyer & Meyer Holding SE & Co. KG`](https://google.com/search?q=Meyer+%26+Meyer+Holding+SE+%26+Co.+KG) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
+| 2022-12-27 | [`SSI Schäfer Shop`](https://google.com/search?q=SSI+Sch%C3%A4fer+Shop) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-12-27 | [`FURETANK,SIRIUS SHIPPING,VAS,DONSONET`](https://google.com/search?q=FURETANK%2CSIRIUS+SHIPPING%2CVAS%2CDONSONET) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2022-12-26 | [`https://www.robinsonpharma.com`](https://google.com/search?q=https%3A%2F%2Fwww.robinsonpharma.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
 | 2022-12-26 | [`https://www.fantasyspringsresort.com`](https://google.com/search?q=https%3A%2F%2Fwww.fantasyspringsresort.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
@@ -199,8 +204,3 @@ _last `200` posts_
 | 2022-12-11 | [`nissin.com.br Disclose the compressed package password`](https://google.com/search?q=nissin.com.br+Disclose+the+compressed+package+password) | [dataleak](https://ransomwatch.telemetry.ltd/#/profiles?id=dataleak) |
 | 2022-12-11 | [`rkw-group.com Disclose the compressed package password`](https://google.com/search?q=rkw-group.com+Disclose+the+compressed+package+password) | [dataleak](https://ransomwatch.telemetry.ltd/#/profiles?id=dataleak) |
 | 2022-12-11 | [`ni*usa.com`](https://google.com/search?q=ni%2Ausa.com) | [dataleak](https://ransomwatch.telemetry.ltd/#/profiles?id=dataleak) |
-| 2022-12-11 | [`wiesauplast.de`](https://google.com/search?q=wiesauplast.de) | [dataleak](https://ransomwatch.telemetry.ltd/#/profiles?id=dataleak) |
-| 2022-12-11 | [`grantweber.com`](https://google.com/search?q=grantweber.com) | [dataleak](https://ransomwatch.telemetry.ltd/#/profiles?id=dataleak) |
-| 2022-12-11 | [`The Beacon Insurance Company Limited`](https://google.com/search?q=The+Beacon+Insurance+Company+Limited) | [dataleak](https://ransomwatch.telemetry.ltd/#/profiles?id=dataleak) |
-| 2022-12-10 | [`KNOX College`](https://google.com/search?q=KNOX+College) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
-| 2022-12-10 | [`dothousehealth.org`](https://google.com/search?q=dothousehealth.org) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
