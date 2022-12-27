@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-12-27 | [`pu.edu.lb`](https://google.com/search?q=pu.edu.lb) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
 | 2022-12-27 | [`Empresas Públicas de Medellín`](https://google.com/search?q=Empresas+P%C3%BAblicas+de+Medell%C3%ADn) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-12-27 | [`FARMS.COM`](https://google.com/search?q=FARMS.COM) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-12-27 | [`CR&R`](https://google.com/search?q=CR%26R) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-12-11 | [`???????`](https://google.com/search?q=%3F%3F%3F%3F%3F%3F%3F) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2022-12-11 | [`nissin.com.br Disclose the compressed package password`](https://google.com/search?q=nissin.com.br+Disclose+the+compressed+package+password) | [dataleak](https://ransomwatch.telemetry.ltd/#/profiles?id=dataleak) |
 | 2022-12-11 | [`rkw-group.com Disclose the compressed package password`](https://google.com/search?q=rkw-group.com+Disclose+the+compressed+package+password) | [dataleak](https://ransomwatch.telemetry.ltd/#/profiles?id=dataleak) |
-| 2022-12-11 | [`ni*usa.com`](https://google.com/search?q=ni%2Ausa.com) | [dataleak](https://ransomwatch.telemetry.ltd/#/profiles?id=dataleak) |
