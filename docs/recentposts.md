@@ -4,6 +4,12 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-12-28 | [`Centro Turistico Giovanile`](https://google.com/search?q=Centro+Turistico+Giovanile) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
+| 2022-12-28 | [`ET GLOBAL`](https://google.com/search?q=ET+GLOBAL) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
+| 2022-12-28 | [`Square Yards`](https://google.com/search?q=Square+Yards) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
+| 2022-12-28 | [`TCL Chinese Theatres`](https://google.com/search?q=TCL+Chinese+Theatres) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
+| 2022-12-28 | [`Trubee, Collins &amp; Co`](https://google.com/search?q=Trubee%2C+Collins+%26amp%3B+Co) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
+| 2022-12-28 | [`Einatec`](https://google.com/search?q=Einatec) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
 | 2022-12-27 | [`http://www.buildersmutual.com`](https://google.com/search?q=http%3A%2F%2Fwww.buildersmutual.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
 | 2022-12-27 | [`http://www.intrado.com`](https://google.com/search?q=http%3A%2F%2Fwww.intrado.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
 | 2022-12-27 | [`https://www.inforlandia.com`](https://google.com/search?q=https%3A%2F%2Fwww.inforlandia.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
@@ -198,9 +204,3 @@ _last `200` posts_
 | 2022-12-11 | [`Centrisys cnp`](https://google.com/search?q=Centrisys+cnp) | [karakurt](https://ransomwatch.telemetry.ltd/#/profiles?id=karakurt) |
 | 2022-12-11 | [`PVFCCo`](https://google.com/search?q=PVFCCo) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2022-12-11 | [`Leadtek`](https://google.com/search?q=Leadtek) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2022-12-11 | [`Ministry of Transport and Public Works`](https://google.com/search?q=Ministry+of+Transport+and+Public+Works) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2022-12-11 | [`Itsgroup`](https://google.com/search?q=Itsgroup) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2022-12-11 | [`Origin Property Company Limited`](https://google.com/search?q=Origin+Property+Company+Limited) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2022-12-11 | [`Conseil departemental - Alpes-Maritimes`](https://google.com/search?q=Conseil+departemental+-+Alpes-Maritimes) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2022-12-11 | [`Wrota Mazowsza`](https://google.com/search?q=Wrota+Mazowsza) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2022-12-11 | [`UJV Rez`](https://google.com/search?q=UJV+Rez) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
