@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-12-29 | [`portodelisboa.pt`](https://google.com/search?q=portodelisboa.pt) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-12-28 | [`JAKKS Pacific, Inc.`](https://google.com/search?q=JAKKS+Pacific%2C+Inc.) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-12-28 | [`SUMITOMO BAKELITE USA`](https://google.com/search?q=SUMITOMO+BAKELITE+USA) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-12-28 | [`http://www.emoneyfinance.com.au`](https://google.com/search?q=http%3A%2F%2Fwww.emoneyfinance.com.au) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-12-11 | [`Legend Holdings`](https://google.com/search?q=Legend+Holdings) | [karakurt](https://ransomwatch.telemetry.ltd/#/profiles?id=karakurt) |
 | 2022-12-11 | [`PTSC`](https://google.com/search?q=PTSC) | [karakurt](https://ransomwatch.telemetry.ltd/#/profiles?id=karakurt) |
 | 2022-12-11 | [`Roxboro`](https://google.com/search?q=Roxboro) | [karakurt](https://ransomwatch.telemetry.ltd/#/profiles?id=karakurt) |
-| 2022-12-11 | [`Stratus`](https://google.com/search?q=Stratus) | [karakurt](https://ransomwatch.telemetry.ltd/#/profiles?id=karakurt) |
