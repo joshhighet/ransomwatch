@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-12-29 | [`CPTM`](https://google.com/search?q=CPTM) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
 | 2022-12-29 | [`Restaurant`](https://google.com/search?q=Restaurant) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2022-12-29 | [`St. Rose Hospital`](https://google.com/search?q=St.+Rose+Hospital) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2022-12-29 | [`MITCON Consultancy and Engineering Services`](https://google.com/search?q=MITCON+Consultancy+and+Engineering+Services) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-12-11 | [`Deerberg`](https://google.com/search?q=Deerberg) | [karakurt](https://ransomwatch.telemetry.ltd/#/profiles?id=karakurt) |
 | 2022-12-11 | [`Trantor`](https://google.com/search?q=Trantor) | [karakurt](https://ransomwatch.telemetry.ltd/#/profiles?id=karakurt) |
 | 2022-12-11 | [`R1 Group`](https://google.com/search?q=R1+Group) | [karakurt](https://ransomwatch.telemetry.ltd/#/profiles?id=karakurt) |
-| 2022-12-11 | [`Club Asteria Belek`](https://google.com/search?q=Club+Asteria+Belek) | [karakurt](https://ransomwatch.telemetry.ltd/#/profiles?id=karakurt) |
