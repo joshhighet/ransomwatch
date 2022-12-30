@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-12-30 | [`Camst Group`](https://google.com/search?q=Camst+Group) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
 | 2022-12-29 | [`http://www.iowapbs.org`](https://google.com/search?q=http%3A%2F%2Fwww.iowapbs.org) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
 | 2022-12-29 | [`https://www.wwfc.ca`](https://google.com/search?q=https%3A%2F%2Fwww.wwfc.ca) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
 | 2022-12-29 | [`CPTM`](https://google.com/search?q=CPTM) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-12-11 | [`Schrader-Pacific International`](https://google.com/search?q=Schrader-Pacific+International) | [karakurt](https://ransomwatch.telemetry.ltd/#/profiles?id=karakurt) |
 | 2022-12-11 | [`Regulatory Authority for Telecommunications and Posts (ARTP)`](https://google.com/search?q=Regulatory+Authority+for+Telecommunications+and+Posts+%28ARTP%29) | [karakurt](https://ransomwatch.telemetry.ltd/#/profiles?id=karakurt) |
 | 2022-12-11 | [`Vercity`](https://google.com/search?q=Vercity) | [karakurt](https://ransomwatch.telemetry.ltd/#/profiles?id=karakurt) |
-| 2022-12-11 | [`Deerberg`](https://google.com/search?q=Deerberg) | [karakurt](https://ransomwatch.telemetry.ltd/#/profiles?id=karakurt) |
