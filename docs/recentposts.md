@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-12-31 | [`Centro Médico Virgen De La Caridad`](https://google.com/search?q=Centro+M%C3%A9dico+Virgen+De+La+Caridad) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
 | 2022-12-31 | [`sickkids.ca`](https://google.com/search?q=sickkids.ca) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-12-31 | [`http://www.qut.edu.au`](https://google.com/search?q=http%3A%2F%2Fwww.qut.edu.au) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
 | 2022-12-31 | [`hacla.org`](https://google.com/search?q=hacla.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-12-11 | [`Özel GözAkademi Hastanesi`](https://google.com/search?q=%C3%96zel+G%C3%B6zAkademi+Hastanesi) | [karakurt](https://ransomwatch.telemetry.ltd/#/profiles?id=karakurt) |
 | 2022-12-11 | [`Medilife Hastanesi`](https://google.com/search?q=Medilife+Hastanesi) | [karakurt](https://ransomwatch.telemetry.ltd/#/profiles?id=karakurt) |
 | 2022-12-11 | [`ipb Baggenstos Montagen`](https://google.com/search?q=ipb+Baggenstos+Montagen) | [karakurt](https://ransomwatch.telemetry.ltd/#/profiles?id=karakurt) |
-| 2022-12-11 | [`The Summit`](https://google.com/search?q=The+Summit) | [karakurt](https://ransomwatch.telemetry.ltd/#/profiles?id=karakurt) |
