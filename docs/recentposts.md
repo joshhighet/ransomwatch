@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-01-01 | [`CDER`](https://google.com/search?q=CDER) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-01-01 | [`eds-automotive.de`](https://google.com/search?q=eds-automotive.de) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-12-31 | [`Centro Médico Virgen De La Caridad`](https://google.com/search?q=Centro+M%C3%A9dico+Virgen+De+La+Caridad) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
 | 2022-12-31 | [`sickkids.ca`](https://google.com/search?q=sickkids.ca) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-12-11 | [`Davenport Community School`](https://google.com/search?q=Davenport+Community+School) | [karakurt](https://ransomwatch.telemetry.ltd/#/profiles?id=karakurt) |
 | 2022-12-11 | [`Qualified Staffing`](https://google.com/search?q=Qualified+Staffing) | [karakurt](https://ransomwatch.telemetry.ltd/#/profiles?id=karakurt) |
 | 2022-12-11 | [`Özel GözAkademi Hastanesi`](https://google.com/search?q=%C3%96zel+G%C3%B6zAkademi+Hastanesi) | [karakurt](https://ransomwatch.telemetry.ltd/#/profiles?id=karakurt) |
-| 2022-12-11 | [`Medilife Hastanesi`](https://google.com/search?q=Medilife+Hastanesi) | [karakurt](https://ransomwatch.telemetry.ltd/#/profiles?id=karakurt) |
