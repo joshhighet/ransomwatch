@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-01-03 | [`Sirius Shipping`](https://google.com/search?q=Sirius+Shipping) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-01-03 | [`SUNY Polytechnic Institute`](https://google.com/search?q=SUNY+Polytechnic+Institute) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-01-03 | [`Furetank`](https://google.com/search?q=Furetank) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-01-03 | [`Dental One`](https://google.com/search?q=Dental+One) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-01-02 | [`Stratacache`](https://google.com/search?q=Stratacache) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2022-12-11 | [`APSM Systems`](https://google.com/search?q=APSM+Systems) | [karakurt](https://ransomwatch.telemetry.ltd/#/profiles?id=karakurt) |
 | 2022-12-11 | [`Latitude 37`](https://google.com/search?q=Latitude+37) | [karakurt](https://ransomwatch.telemetry.ltd/#/profiles?id=karakurt) |
 | 2022-12-11 | [`South Jersey Glass &amp; Doors`](https://google.com/search?q=South+Jersey+Glass+%26amp%3B+Doors) | [karakurt](https://ransomwatch.telemetry.ltd/#/profiles?id=karakurt) |
-| 2022-12-11 | [`APECQ`](https://google.com/search?q=APECQ) | [karakurt](https://ransomwatch.telemetry.ltd/#/profiles?id=karakurt) |
-| 2022-12-11 | [`Bergamo Metal`](https://google.com/search?q=Bergamo+Metal) | [karakurt](https://ransomwatch.telemetry.ltd/#/profiles?id=karakurt) |
