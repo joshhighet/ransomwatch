@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-01-05 | [`Nexon Asia Pacific`](https://google.com/search?q=Nexon+Asia+Pacific) | [nokoyawa](https://ransomwatch.telemetry.ltd/#/profiles?id=nokoyawa) |
+| 2023-01-05 | [`http://www.dsbj.com/`](https://google.com/search?q=http%3A%2F%2Fwww.dsbj.com%2F) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
 | 2023-01-04 | [`CAPMC`](https://google.com/search?q=CAPMC) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
 | 2023-01-03 | [`Tarntank Ship Management`](https://google.com/search?q=Tarntank+Ship+Management) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-01-03 | [`Aeronautics company Canada - UTC Aerospace Systems, Bombardier, NASA partners`](https://google.com/search?q=Aeronautics+company+Canada+-+UTC+Aerospace+Systems%2C+Bombardier%2C+NASA+partners) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2022-12-11 | [`William A. Kibbe &amp; Associates`](https://google.com/search?q=William+A.+Kibbe+%26amp%3B+Associates) | [karakurt](https://ransomwatch.telemetry.ltd/#/profiles?id=karakurt) |
 | 2022-12-11 | [`Infinitum`](https://google.com/search?q=Infinitum) | [karakurt](https://ransomwatch.telemetry.ltd/#/profiles?id=karakurt) |
 | 2022-12-11 | [`Hiersun Jewelry Co Ltd`](https://google.com/search?q=Hiersun+Jewelry+Co+Ltd) | [karakurt](https://ransomwatch.telemetry.ltd/#/profiles?id=karakurt) |
-| 2022-12-11 | [`Energy Transfer Durafin Tubes`](https://google.com/search?q=Energy+Transfer+Durafin+Tubes) | [karakurt](https://ransomwatch.telemetry.ltd/#/profiles?id=karakurt) |
-| 2022-12-11 | [`KINSHOFER GmbH`](https://google.com/search?q=KINSHOFER+GmbH) | [karakurt](https://ransomwatch.telemetry.ltd/#/profiles?id=karakurt) |
