@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-01-05 | [`Ellison Technologies`](https://google.com/search?q=Ellison+Technologies) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
+| 2023-01-05 | [`Hayward`](https://google.com/search?q=Hayward) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
+| 2023-01-05 | [`Kansas City Homes`](https://google.com/search?q=Kansas+City+Homes) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
 | 2023-01-05 | [`Nexon Asia Pacific`](https://google.com/search?q=Nexon+Asia+Pacific) | [nokoyawa](https://ransomwatch.telemetry.ltd/#/profiles?id=nokoyawa) |
 | 2023-01-05 | [`http://www.dsbj.com/`](https://google.com/search?q=http%3A%2F%2Fwww.dsbj.com%2F) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
 | 2023-01-04 | [`CAPMC`](https://google.com/search?q=CAPMC) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2022-12-11 | [`B****** *b*`](https://google.com/search?q=B%2A%2A%2A%2A%2A%2A+%2Ab%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2022-12-11 | [`REC Silicon`](https://google.com/search?q=REC+Silicon) | [ransomexx](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomexx) |
 | 2022-12-11 | [`Municipalidad de belen`](https://google.com/search?q=Municipalidad+de+belen) | [karakurt](https://ransomwatch.telemetry.ltd/#/profiles?id=karakurt) |
-| 2022-12-11 | [`William A. Kibbe &amp; Associates`](https://google.com/search?q=William+A.+Kibbe+%26amp%3B+Associates) | [karakurt](https://ransomwatch.telemetry.ltd/#/profiles?id=karakurt) |
-| 2022-12-11 | [`Infinitum`](https://google.com/search?q=Infinitum) | [karakurt](https://ransomwatch.telemetry.ltd/#/profiles?id=karakurt) |
-| 2022-12-11 | [`Hiersun Jewelry Co Ltd`](https://google.com/search?q=Hiersun+Jewelry+Co+Ltd) | [karakurt](https://ransomwatch.telemetry.ltd/#/profiles?id=karakurt) |
