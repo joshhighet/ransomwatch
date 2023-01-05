@@ -111,25 +111,6 @@ def indexpage():
             line = '| [' + group['name'] + '](https://ransomwatch.telemetry.ltd/#/profiles?id=' + group['name'] + ') | ' + title + ' | ' + statusemoji + ' | ' + lastseen + ' | ' + host['fqdn'] + ' |'
             writeline(index_sheet, line)
 
-def sidebar():
-    '''
-    create a sidebar markdown report
-    '''
-    stdlog('generating sidebar')
-    sidebar = 'docs/_sidebar.md'
-    # delete contents of file
-    with open(sidebar, 'w', encoding='utf-8') as f:
-        f.close()
-    writeline(sidebar, '- [home](README.md)')
-    writeline(sidebar, '- [group index](INDEX.md)')
-    writeline(sidebar, '- [recent posts](recentposts.md)')
-    writeline(sidebar, '- [stats & graphs](stats.md)')
-    writeline(sidebar, '- [group profiles](profiles.md)')
-    writeline(sidebar, '- [viz: jdl-84/ransomwatchviewer](https://jdl-84.github.io/RansomWatchViewer/)')
-    writeline(sidebar, '- [viz: privtools/ransomposts](https://privtools.github.io/ransomposts/)')
-    writeline(sidebar, '- [alt: ransomlook/ransomlook](https://www.ransomlook.io)')
-    stdlog('sidebar generated')
-
 def statspage():
     '''
     create a stats page in markdown containing the matplotlib graphs
@@ -262,7 +243,6 @@ def main():
     stdlog('generating doco')
     mainpage()
     indexpage()
-    sidebar()
     recentpage()
     statspage()
     profilepage()
