@@ -20,7 +20,7 @@
 
 - [ransomware.live](https://www.ransomware.live)
 
-## copies
+## mirrors & alternative derivatives 
 
 - [ransomlook.io](https://www.ransomlook.io)
 - [ransomfind.io](https://ransomfind.io)
