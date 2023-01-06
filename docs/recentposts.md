@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-01-06 | [`Sub-drill Supply`](https://google.com/search?q=Sub-drill+Supply) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
+| 2023-01-06 | [`PROQUINAL Spradling Group`](https://google.com/search?q=PROQUINAL+Spradling+Group) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
+| 2023-01-06 | [`LetMeRepair`](https://google.com/search?q=LetMeRepair) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2023-01-06 | [`Consulate Health Care`](https://google.com/search?q=Consulate+Health+Care) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
 | 2023-01-05 | [`Ellison Technologies`](https://google.com/search?q=Ellison+Technologies) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
 | 2023-01-05 | [`Hayward`](https://google.com/search?q=Hayward) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2022-12-11 | [`****** ******* School`](https://google.com/search?q=%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A+School) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2022-12-11 | [`*** Technologies`](https://google.com/search?q=%2A%2A%2A+Technologies) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2022-12-11 | [`**i* **s****`](https://google.com/search?q=%2A%2Ai%2A+%2A%2As%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2022-12-11 | [`**a***** H****** ******r****`](https://google.com/search?q=%2A%2Aa%2A%2A%2A%2A%2A+H%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2Ar%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2022-12-11 | [`B****** *b*`](https://google.com/search?q=B%2A%2A%2A%2A%2A%2A+%2Ab%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2022-12-11 | [`REC Silicon`](https://google.com/search?q=REC+Silicon) | [ransomexx](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomexx) |
