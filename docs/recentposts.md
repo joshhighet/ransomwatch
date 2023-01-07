@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-01-07 | [`Swift Academies`](https://google.com/search?q=Swift+Academies) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
+| 2023-01-07 | [`Duty Free Philippines`](https://google.com/search?q=Duty+Free+Philippines) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2023-01-07 | [`takamiya.co`](https://google.com/search?q=takamiya.co) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-01-07 | [`juarez.gob.mx`](https://google.com/search?q=juarez.gob.mx) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-01-07 | [`100x100banco.com`](https://google.com/search?q=100x100banco.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2022-12-12 | [`jieh.vn`](https://google.com/search?q=jieh.vn) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-12-12 | [`financierareyes.com.mx`](https://google.com/search?q=financierareyes.com.mx) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-12-12 | [`dof.ca.gov`](https://google.com/search?q=dof.ca.gov) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-12-12 | [`amazing-global.com`](https://google.com/search?q=amazing-global.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-12-12 | [`2networkit`](https://google.com/search?q=2networkit) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
