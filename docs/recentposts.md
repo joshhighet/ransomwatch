@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-01-07 | [`Buffco Production, Inc.`](https://google.com/search?q=Buffco+Production%2C+Inc.) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
+| 2023-01-07 | [`Grupo Estrategas EMM`](https://google.com/search?q=Grupo+Estrategas+EMM) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
+| 2023-01-07 | [`Pendulum Associates public website of data leak`](https://google.com/search?q=Pendulum+Associates+public+website+of+data+leak) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-01-06 | [`Park View`](https://google.com/search?q=Park+View) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2023-01-06 | [`City Lit`](https://google.com/search?q=City+Lit) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2023-01-06 | [`Bay Area Rapid Transit`](https://google.com/search?q=Bay+Area+Rapid+Transit) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2022-12-12 | [`Una Seguros`](https://google.com/search?q=Una+Seguros) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2022-12-11 | [`Antwerpen`](https://google.com/search?q=Antwerpen) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2022-12-11 | [`Rudman`](https://google.com/search?q=Rudman) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2022-12-11 | [`Spa`](https://google.com/search?q=Spa) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2022-12-11 | [`Meisenkothen`](https://google.com/search?q=Meisenkothen) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2022-12-11 | [`Company, LLC`](https://google.com/search?q=Company%2C+LLC) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
