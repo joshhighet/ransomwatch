@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-01-08 | [`SOFTEQ.COM FILES PART5 - git_softeq PUBLISHED`](https://google.com/search?q=SOFTEQ.COM+FILES+PART5+-+git_softeq+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-01-08 | [`LOESCHGROUP.DE FILES PART12 - 192.168.101.34\DATEN\Media\12_Kataloge\00_vor 2022\ PUBLISHE`](https://google.com/search?q=LOESCHGROUP.DE+FILES+PART12+-+192.168.101.34%5CDATEN%5CMedia%5C12_Kataloge%5C00_vor+2022%5C+PUBLISHE) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-01-08 | [`ORDEREXPRESS.COM.MX FILES PART13 - 10.10.2.246\ PUBLISHED`](https://google.com/search?q=ORDEREXPRESS.COM.MX+FILES+PART13+-+10.10.2.246%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-01-08 | [`millennia.pro`](https://google.com/search?q=millennia.pro) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-01-07 | [`Fruttagel`](https://google.com/search?q=Fruttagel) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-01-07 | [`Swift Academies`](https://google.com/search?q=Swift+Academies) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2022-12-12 | [`tdtu.edu.vn`](https://google.com/search?q=tdtu.edu.vn) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-12-12 | [`sentecgroup.com`](https://google.com/search?q=sentecgroup.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-12-12 | [`rkfoodland.com`](https://google.com/search?q=rkfoodland.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-12-12 | [`luxeprint.com.tw`](https://google.com/search?q=luxeprint.com.tw) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-12-12 | [`k-toko.com`](https://google.com/search?q=k-toko.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-12-12 | [`jieh.vn`](https://google.com/search?q=jieh.vn) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
