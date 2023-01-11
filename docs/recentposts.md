@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-01-11 | [`G.W. Becker`](https://google.com/search?q=G.W.+Becker) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
 | 2023-01-11 | [`D???? P??????s`](https://google.com/search?q=D%3F%3F%3F%3F+P%3F%3F%3F%3F%3F%3Fs) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-01-11 | [`A????? ????k`](https://google.com/search?q=A%3F%3F%3F%3F%3F+%3F%3F%3F%3Fk) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-01-11 | [`circlevillecourt.com`](https://google.com/search?q=circlevillecourt.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-12-14 | [`Ban Leong Technologies Ltd`](https://google.com/search?q=Ban+Leong+Technologies+Ltd) | [mallox](https://ransomwatch.telemetry.ltd/#/profiles?id=mallox) |
 | 2022-12-13 | [`Batesville Products`](https://google.com/search?q=Batesville+Products) | [karakurt](https://ransomwatch.telemetry.ltd/#/profiles?id=karakurt) |
 | 2022-12-13 | [`ITONCLOUD - LEAKED`](https://google.com/search?q=ITONCLOUD+-+LEAKED) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
-| 2022-12-13 | [`Pella`](https://google.com/search?q=Pella) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
