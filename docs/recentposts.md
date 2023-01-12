@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-01-12 | [`muellergartenbau.ch`](https://google.com/search?q=muellergartenbau.ch) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-01-12 | [`lloyddowson.co.uk`](https://google.com/search?q=lloyddowson.co.uk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-01-12 | [`Physician Partners of America`](https://google.com/search?q=Physician+Partners+of+America) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
 | 2023-01-12 | [`IMI Hydronic Engineering`](https://google.com/search?q=IMI+Hydronic+Engineering) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2023-01-11 | [`G.W. Becker`](https://google.com/search?q=G.W.+Becker) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2022-12-14 | [`TEIJIN AUTOMOTIVE TECHNOLOGIES`](https://google.com/search?q=TEIJIN+AUTOMOTIVE+TECHNOLOGIES) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-12-14 | [`Austria Presse Agentur`](https://google.com/search?q=Austria+Presse+Agentur) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2022-12-14 | [`Skoda Praha`](https://google.com/search?q=Skoda+Praha) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2022-12-14 | [`MME Group`](https://google.com/search?q=MME+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2022-12-14 | [`Ban Leong Technologies Ltd`](https://google.com/search?q=Ban+Leong+Technologies+Ltd) | [mallox](https://ransomwatch.telemetry.ltd/#/profiles?id=mallox) |
