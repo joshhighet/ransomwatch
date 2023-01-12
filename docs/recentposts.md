@@ -4,6 +4,10 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-01-12 | [`versteden.com`](https://google.com/search?q=versteden.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-01-12 | [`russellfinex.com`](https://google.com/search?q=russellfinex.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-01-12 | [`nuxe.com`](https://google.com/search?q=nuxe.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-01-12 | [`lidestrifoodanddrink.com`](https://google.com/search?q=lidestrifoodanddrink.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-01-12 | [`muellergartenbau.ch`](https://google.com/search?q=muellergartenbau.ch) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-01-12 | [`lloyddowson.co.uk`](https://google.com/search?q=lloyddowson.co.uk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-01-12 | [`Physician Partners of America`](https://google.com/search?q=Physician+Partners+of+America) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
@@ -200,7 +204,3 @@ _last `200` posts_
 | 2022-12-15 | [`mcft.com`](https://google.com/search?q=mcft.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-12-15 | [`Bailey Cavalieri LLC`](https://google.com/search?q=Bailey+Cavalieri+LLC) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-12-14 | [`Mark-Taylor`](https://google.com/search?q=Mark-Taylor) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
-| 2022-12-14 | [`Expand Group`](https://google.com/search?q=Expand+Group) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
-| 2022-12-14 | [`TEIJIN AUTOMOTIVE TECHNOLOGIES`](https://google.com/search?q=TEIJIN+AUTOMOTIVE+TECHNOLOGIES) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2022-12-14 | [`Austria Presse Agentur`](https://google.com/search?q=Austria+Presse+Agentur) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2022-12-14 | [`Skoda Praha`](https://google.com/search?q=Skoda+Praha) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
