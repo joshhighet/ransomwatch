@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-01-13 | [`fujikura-electronics.co.th`](https://google.com/search?q=fujikura-electronics.co.th) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-01-13 | [`Trans Maldivian Airways`](https://google.com/search?q=Trans+Maldivian+Airways) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2023-01-13 | [`Liebra Permana`](https://google.com/search?q=Liebra+Permana) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-01-13 | [`TIME TECHNOPLAST LIMITED`](https://google.com/search?q=TIME+TECHNOPLAST+LIMITED) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-12-15 | [`https://www.leohamel.com`](https://google.com/search?q=https%3A%2F%2Fwww.leohamel.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
 | 2022-12-15 | [`Hci Systems Inc`](https://google.com/search?q=Hci+Systems+Inc) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2022-12-15 | [`Eureka Casino Resort`](https://google.com/search?q=Eureka+Casino+Resort) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2022-12-15 | [`Emilio Sanchez American School`](https://google.com/search?q=Emilio+Sanchez+American+School) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
