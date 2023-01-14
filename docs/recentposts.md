@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-01-14 | [`http://www.hills-motors.co.uk`](https://google.com/search?q=http%3A%2F%2Fwww.hills-motors.co.uk) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
+| 2023-01-14 | [`https://www.samuelsseafood.com`](https://google.com/search?q=https%3A%2F%2Fwww.samuelsseafood.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
+| 2023-01-14 | [`Central Texas College`](https://google.com/search?q=Central+Texas+College) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2023-01-14 | [`K2 Sports`](https://google.com/search?q=K2+Sports) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
 | 2023-01-13 | [`SOFTEQ.COM FILES PART6 - Projects\ PUBLISHED`](https://google.com/search?q=SOFTEQ.COM+FILES+PART6+-+Projects%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-01-13 | [`LOESCHGROUP.DE FILES PART13 - 192.168.101.34\DATEN\Media\Img\ PUBLISHED`](https://google.com/search?q=LOESCHGROUP.DE+FILES+PART13+-+192.168.101.34%5CDATEN%5CMedia%5CImg%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2022-12-16 | [`LOESCHGROUP.DE FILES PART9 - 192.168.101.34\DATEN\Media\ PUBLISHED`](https://google.com/search?q=LOESCHGROUP.DE+FILES+PART9+-+192.168.101.34%5CDATEN%5CMedia%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-12-16 | [`ORDEREXPRESS.COM.MX FILES PART10 - 10.10.1.33\C$\Users\emmanuel.herrera\ PUBLISHED`](https://google.com/search?q=ORDEREXPRESS.COM.MX+FILES+PART10+-+10.10.1.33%5CC%24%5CUsers%5Cemmanuel.herrera%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-12-16 | [`http://molcy.com`](https://google.com/search?q=http%3A%2F%2Fmolcy.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
-| 2022-12-16 | [`Arsat`](https://google.com/search?q=Arsat) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2022-12-16 | [`JMicron`](https://google.com/search?q=JMicron) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2022-12-16 | [`Gage Brothers`](https://google.com/search?q=Gage+Brothers) | [karakurt](https://ransomwatch.telemetry.ltd/#/profiles?id=karakurt) |
