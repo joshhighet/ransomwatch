@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-01-16 | [`Yayla Enerji Uretim Turizm ve Insaat Ticaret`](https://google.com/search?q=Yayla+Enerji+Uretim+Turizm+ve+Insaat+Ticaret) | [mallox](https://ransomwatch.telemetry.ltd/#/profiles?id=mallox) |
+| 2023-01-16 | [`fulfilmentmatters.co.uk`](https://google.com/search?q=fulfilmentmatters.co.uk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-01-16 | [`Arnold Clark`](https://google.com/search?q=Arnold+Clark) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-01-15 | [`DAYTON PROGRESS`](https://google.com/search?q=DAYTON+PROGRESS) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-01-15 | [`El Seif Development`](https://google.com/search?q=El+Seif+Development) | [mallox](https://ransomwatch.telemetry.ltd/#/profiles?id=mallox) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2022-12-18 | [`https://www.conform.it`](https://google.com/search?q=https%3A%2F%2Fwww.conform.it) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
 | 2022-12-18 | [`S??????????`](https://google.com/search?q=S%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2022-12-17 | [`Australian Real Estate Group Pty Ltd`](https://google.com/search?q=Australian+Real+Estate+Group+Pty+Ltd) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2022-12-17 | [`University Institute of Technology of Paris`](https://google.com/search?q=University+Institute+of+Technology+of+Paris) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
-| 2022-12-16 | [`Bevolution Group`](https://google.com/search?q=Bevolution+Group) | [karakurt](https://ransomwatch.telemetry.ltd/#/profiles?id=karakurt) |
