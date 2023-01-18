@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-01-18 | [`https://www.kazcolaw.com`](https://google.com/search?q=https%3A%2F%2Fwww.kazcolaw.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
 | 2023-01-17 | [`http://www.livingstonintl.com`](https://google.com/search?q=http%3A%2F%2Fwww.livingstonintl.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
 | 2023-01-17 | [`NYCBAR.ORG FILES PART1 - 10.50.3.44 PUBLISHED`](https://google.com/search?q=NYCBAR.ORG+FILES+PART1+-+10.50.3.44+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-01-17 | [`http://www.carinya.nsw.edu.au`](https://google.com/search?q=http%3A%2F%2Fwww.carinya.nsw.edu.au) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-12-19 | [`Monte Cristalina S.A.`](https://google.com/search?q=Monte+Cristalina+S.A.) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-12-19 | [`stmc.edu.hk`](https://google.com/search?q=stmc.edu.hk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-12-19 | [`rgvfirm.com`](https://google.com/search?q=rgvfirm.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-12-19 | [`polyflor.co.nz`](https://google.com/search?q=polyflor.co.nz) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
