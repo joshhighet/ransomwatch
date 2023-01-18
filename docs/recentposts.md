@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-01-18 | [`duomed.com`](https://google.com/search?q=duomed.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-01-18 | [`Alhambra-Eidos`](https://google.com/search?q=Alhambra-Eidos) | [mallox](https://ransomwatch.telemetry.ltd/#/profiles?id=mallox) |
 | 2023-01-18 | [`https://www.kazcolaw.com`](https://google.com/search?q=https%3A%2F%2Fwww.kazcolaw.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
 | 2023-01-17 | [`http://www.livingstonintl.com`](https://google.com/search?q=http%3A%2F%2Fwww.livingstonintl.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-12-19 | [`jka.co.uk`](https://google.com/search?q=jka.co.uk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-12-19 | [`agriobtentions.com`](https://google.com/search?q=agriobtentions.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-12-19 | [`Monte Cristalina S.A.`](https://google.com/search?q=Monte+Cristalina+S.A.) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-12-19 | [`stmc.edu.hk`](https://google.com/search?q=stmc.edu.hk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
