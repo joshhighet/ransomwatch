@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-01-19 | [`NextGen`](https://google.com/search?q=NextGen) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
+| 2023-01-19 | [`Fresh Del Monte`](https://google.com/search?q=Fresh+Del+Monte) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
+| 2023-01-19 | [`Pharmacare`](https://google.com/search?q=Pharmacare) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-01-18 | [`tvk.nl`](https://google.com/search?q=tvk.nl) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-01-18 | [`duomed.com`](https://google.com/search?q=duomed.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-01-18 | [`Alhambra-Eidos`](https://google.com/search?q=Alhambra-Eidos) | [mallox](https://ransomwatch.telemetry.ltd/#/profiles?id=mallox) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2022-12-19 | [`Keralty`](https://google.com/search?q=Keralty) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2022-12-19 | [`https://www.mark-taylor.com`](https://google.com/search?q=https%3A%2F%2Fwww.mark-taylor.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
 | 2022-12-19 | [`womgroup.com`](https://google.com/search?q=womgroup.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-12-19 | [`mayflowerdentalgroup.com`](https://google.com/search?q=mayflowerdentalgroup.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-12-19 | [`jka.co.uk`](https://google.com/search?q=jka.co.uk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-12-19 | [`agriobtentions.com`](https://google.com/search?q=agriobtentions.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
