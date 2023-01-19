@@ -2,9 +2,9 @@
 ## summary
 _january 19th, 2023_
 
-currently tracking `131` groups across `240` relays & mirrors - _`93` currently online_
+currently tracking `131` groups across `240` relays & mirrors - _`91` currently online_
 
-⏲ there have been `7` posts within the `last 24 hours`
+⏲ there have been `6` posts within the `last 24 hours`
 
 🦈 there have been `103` posts within the `month of january`
 
