@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-01-20 | [`Monmouth College`](https://google.com/search?q=Monmouth+College) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2023-01-19 | [`NextGen`](https://google.com/search?q=NextGen) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-01-19 | [`Fresh Del Monte`](https://google.com/search?q=Fresh+Del+Monte) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-01-19 | [`Pharmacare`](https://google.com/search?q=Pharmacare) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-12-20 | [`Stolle Machinery`](https://google.com/search?q=Stolle+Machinery) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
 | 2022-12-19 | [`Keralty`](https://google.com/search?q=Keralty) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2022-12-19 | [`https://www.mark-taylor.com`](https://google.com/search?q=https%3A%2F%2Fwww.mark-taylor.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
-| 2022-12-19 | [`womgroup.com`](https://google.com/search?q=womgroup.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
