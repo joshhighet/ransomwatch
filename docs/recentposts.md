@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-01-20 | [`SOFTEQ.COM FILES PART7 - Projects\ PUBLISHED`](https://google.com/search?q=SOFTEQ.COM+FILES+PART7+-+Projects%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-01-20 | [`LOESCHGROUP.DE FILES PART14 - 192.168.101.34\DATEN\Media\Img\ PUBLISHED`](https://google.com/search?q=LOESCHGROUP.DE+FILES+PART14+-+192.168.101.34%5CDATEN%5CMedia%5CImg%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-01-20 | [`ORDEREXPRESS.COM.MX FILES PART15 - 10.10.2.246\CCOECUMPLIMIENTO\ PUBLISHED`](https://google.com/search?q=ORDEREXPRESS.COM.MX+FILES+PART15+-+10.10.2.246%5CCCOECUMPLIMIENTO%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-01-20 | [`Guardian Analytics (US)`](https://google.com/search?q=Guardian+Analytics+%28US%29) | [daixin](https://ransomwatch.telemetry.ltd/#/profiles?id=daixin) |
 | 2023-01-20 | [`flatironssolutions.com`](https://google.com/search?q=flatironssolutions.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-01-20 | [`Monmouth College`](https://google.com/search?q=Monmouth+College) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2022-12-20 | [`North Idaho College`](https://google.com/search?q=North+Idaho+College) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
 | 2022-12-20 | [`Sae-a`](https://google.com/search?q=Sae-a) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
 | 2022-12-20 | [`teknowsource.in`](https://google.com/search?q=teknowsource.in) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-12-20 | [`Xavier University of Louisiana`](https://google.com/search?q=Xavier+University+of+Louisiana) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
-| 2022-12-20 | [`JAKKS Pacific Inc`](https://google.com/search?q=JAKKS+Pacific+Inc) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
-| 2022-12-20 | [`Stolle Machinery`](https://google.com/search?q=Stolle+Machinery) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
