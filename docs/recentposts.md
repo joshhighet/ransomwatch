@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-01-21 | [`payroll2u.com`](https://google.com/search?q=payroll2u.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-01-21 | [`https://www.pillar.ca`](https://google.com/search?q=https%3A%2F%2Fwww.pillar.ca) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
 | 2023-01-21 | [`HRL Technology Group`](https://google.com/search?q=HRL+Technology+Group) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-01-21 | [`N****`](https://google.com/search?q=N%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-12-22 | [`Protecmedia`](https://google.com/search?q=Protecmedia) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-12-22 | [`Every one of you been a good customer this year`](https://google.com/search?q=Every+one+of+you+been+a+good+customer+this+year) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2022-12-22 | [`maxionwheels.com`](https://google.com/search?q=maxionwheels.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-12-22 | [`SOFTEQ.COM FILES PART3 - srv-uLibrary PUBLISHED`](https://google.com/search?q=SOFTEQ.COM+FILES+PART3+-+srv-uLibrary+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
