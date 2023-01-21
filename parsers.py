@@ -937,3 +937,14 @@ def unsafeleak():
         errlog('unsafeleak: ' + 'parsing fail')
     for post in posts:
         appender(post, 'unsafeleak')
+
+def freecivilian():
+    stdlog('parser: ' + 'freecivilian')
+    parser = '''
+    grep "class=\\"a_href\\">" source/freecivilian-*.html |  sed 's/<[^>]*>//g; s/^[ \t]*//; s/[ \t]*$//; s/+ //;'
+    '''
+    posts = runshellcmd(parser)
+    if len(posts) == 1:
+        errlog('freecivilian: ' + 'parsing fail')
+    for post in posts:
+        appender(post, 'freecivilian')
