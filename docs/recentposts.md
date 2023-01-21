@@ -4,6 +4,25 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-01-21 | [`mfa.gov.ua`](https://google.com/search?q=mfa.gov.ua) | [freecivilian](https://ransomwatch.telemetry.ltd/#/profiles?id=freecivilian) |
+| 2023-01-21 | [`minagro.gov.ua`](https://google.com/search?q=minagro.gov.ua) | [freecivilian](https://ransomwatch.telemetry.ltd/#/profiles?id=freecivilian) |
+| 2023-01-21 | [`mon.gov.ua`](https://google.com/search?q=mon.gov.ua) | [freecivilian](https://ransomwatch.telemetry.ltd/#/profiles?id=freecivilian) |
+| 2023-01-21 | [`kmu.gov.ua`](https://google.com/search?q=kmu.gov.ua) | [freecivilian](https://ransomwatch.telemetry.ltd/#/profiles?id=freecivilian) |
+| 2023-01-21 | [`gkh.in.ua`](https://google.com/search?q=gkh.in.ua) | [freecivilian](https://ransomwatch.telemetry.ltd/#/profiles?id=freecivilian) |
+| 2023-01-21 | [`bdr.mvs.gov.ua`](https://google.com/search?q=bdr.mvs.gov.ua) | [freecivilian](https://ransomwatch.telemetry.ltd/#/profiles?id=freecivilian) |
+| 2023-01-21 | [`kyivcity.com`](https://google.com/search?q=kyivcity.com) | [freecivilian](https://ransomwatch.telemetry.ltd/#/profiles?id=freecivilian) |
+| 2023-01-21 | [`motorsich.com`](https://google.com/search?q=motorsich.com) | [freecivilian](https://ransomwatch.telemetry.ltd/#/profiles?id=freecivilian) |
+| 2023-01-21 | [`mtsbu.ua - OVER 3 TB`](https://google.com/search?q=mtsbu.ua+-+OVER+3+TB) | [freecivilian](https://ransomwatch.telemetry.ltd/#/profiles?id=freecivilian) |
+| 2023-01-21 | [`health.mia - 96.7 GB`](https://google.com/search?q=health.mia+-+96.7+GB) | [freecivilian](https://ransomwatch.telemetry.ltd/#/profiles?id=freecivilian) |
+| 2023-01-21 | [`minregion.gov.ua - 904 GB`](https://google.com/search?q=minregion.gov.ua+-+904+GB) | [freecivilian](https://ransomwatch.telemetry.ltd/#/profiles?id=freecivilian) |
+| 2023-01-21 | [`wanted.mvs.gov.ua - 3.29 GB`](https://google.com/search?q=wanted.mvs.gov.ua+-+3.29+GB) | [freecivilian](https://ransomwatch.telemetry.ltd/#/profiles?id=freecivilian) |
+| 2023-01-21 | [`e-driver.hsc.gov.ua - 431 GB SOLD`](https://google.com/search?q=e-driver.hsc.gov.ua+-+431+GB+SOLD) | [freecivilian](https://ransomwatch.telemetry.ltd/#/profiles?id=freecivilian) |
+| 2023-01-21 | [`diia.gov.ua - 765 GB *NEW*`](https://google.com/search?q=diia.gov.ua+-+765+GB+%2ANEW%2A) | [freecivilian](https://ransomwatch.telemetry.ltd/#/profiles?id=freecivilian) |
+| 2023-01-21 | [`https://cadmet.com/`](https://google.com/search?q=https%3A%2F%2Fcadmet.com%2F) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
+| 2023-01-21 | [`Jeppesen`](https://google.com/search?q=Jeppesen) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2023-01-21 | [`The Exchange Bank`](https://google.com/search?q=The+Exchange+Bank) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2023-01-21 | [`Sterling`](https://google.com/search?q=Sterling) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2023-01-21 | [`NatureWorks`](https://google.com/search?q=NatureWorks) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2023-01-20 | [`SOFTEQ.COM FILES PART7 - Projects\ PUBLISHED`](https://google.com/search?q=SOFTEQ.COM+FILES+PART7+-+Projects%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-01-20 | [`LOESCHGROUP.DE FILES PART14 - 192.168.101.34\DATEN\Media\Img\ PUBLISHED`](https://google.com/search?q=LOESCHGROUP.DE+FILES+PART14+-+192.168.101.34%5CDATEN%5CMedia%5CImg%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-01-20 | [`ORDEREXPRESS.COM.MX FILES PART15 - 10.10.2.246\CCOECUMPLIMIENTO\ PUBLISHED`](https://google.com/search?q=ORDEREXPRESS.COM.MX+FILES+PART15+-+10.10.2.246%5CCCOECUMPLIMIENTO%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
@@ -185,22 +204,3 @@ _last `200` posts_
 | 2022-12-22 | [`ORDEREXPRESS.COM.MX FILES PART11 - 10.10.1.97 PUBLISHED`](https://google.com/search?q=ORDEREXPRESS.COM.MX+FILES+PART11+-+10.10.1.97+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-12-22 | [`MHMR Authority Of Brazos Valley`](https://google.com/search?q=MHMR+Authority+Of+Brazos+Valley) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
 | 2022-12-22 | [`Cervecería Regional`](https://google.com/search?q=Cervecer%C3%ADa+Regional) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2022-12-22 | [`F???????, ???, D????????, T???????, S?????????????`](https://google.com/search?q=F%3F%3F%3F%3F%3F%3F%3F%2C+%3F%3F%3F%2C+D%3F%3F%3F%3F%3F%3F%3F%3F%2C+T%3F%3F%3F%3F%3F%3F%3F%2C+S%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2022-12-21 | [`The Gucciardo Law Firm`](https://google.com/search?q=The+Gucciardo+Law+Firm) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2022-12-21 | [`Berlina Tbk`](https://google.com/search?q=Berlina+Tbk) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2022-12-21 | [`Alvaria`](https://google.com/search?q=Alvaria) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
-| 2022-12-21 | [`M*****`](https://google.com/search?q=M%2A%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2022-12-21 | [`M*******l***`](https://google.com/search?q=M%2A%2A%2A%2A%2A%2A%2Al%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2022-12-21 | [`http://www.atlascommodities.com`](https://google.com/search?q=http%3A%2F%2Fwww.atlascommodities.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
-| 2022-12-21 | [`Goodwill industries`](https://google.com/search?q=Goodwill+industries) | [karakurt](https://ransomwatch.telemetry.ltd/#/profiles?id=karakurt) |
-| 2022-12-21 | [`Interface`](https://google.com/search?q=Interface) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
-| 2022-12-20 | [`LIBERTY PULTRUSIONS`](https://google.com/search?q=LIBERTY+PULTRUSIONS) | [karakurt](https://ransomwatch.telemetry.ltd/#/profiles?id=karakurt) |
-| 2022-12-20 | [`https://www.zehnders.com`](https://google.com/search?q=https%3A%2F%2Fwww.zehnders.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
-| 2022-12-20 | [`Serena Hotels - Leaked`](https://google.com/search?q=Serena+Hotels+-+Leaked) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
-| 2022-12-20 | [`Wrapex Industrial - Leaked`](https://google.com/search?q=Wrapex+Industrial+-+Leaked) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
-| 2022-12-20 | [`Innovative Education Management`](https://google.com/search?q=Innovative+Education+Management) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
-| 2022-12-20 | [`Dixons Allerton Academy`](https://google.com/search?q=Dixons+Allerton+Academy) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
-| 2022-12-20 | [`City Of Huntsville, Texas`](https://google.com/search?q=City+Of+Huntsville%2C+Texas) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
-| 2022-12-20 | [`North Idaho College`](https://google.com/search?q=North+Idaho+College) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
-| 2022-12-20 | [`Sae-a`](https://google.com/search?q=Sae-a) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
-| 2022-12-20 | [`teknowsource.in`](https://google.com/search?q=teknowsource.in) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
