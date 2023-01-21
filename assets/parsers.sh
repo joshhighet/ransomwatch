@@ -50,6 +50,9 @@ while read -r line; do
     if [ -z "${results}" ]; then
         echo "${line}"
         brokecount=$((brokecount+1))
+        shell64=`echo "${line}" | base64`
+        echo "debug64: ${shell64}"
+        echo
     fi
 done <<< "$shell_parsers"
 
