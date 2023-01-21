@@ -2570,7 +2570,7 @@
         "captcha": false,
         "parser": true,
         "javascript_render": false,
-        "meta": null,
+        "meta": "not a ransomware group",
         "locations": [
             {
                 "fqdn": "gcbejm2rcjftouqbxuhimj5oroouqcuxb2my4raxqa7efkz5bd5464id.onion",
