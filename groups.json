@@ -2,7 +2,7 @@
     {
         "name": "marketo",
         "captcha": false,
-        "parser": true,
+        "parser": false,
         "javascript_render": false,
         "meta": "marketplace - not a ransomware group, previous clearnet marketo.cloud",
         "locations": [
@@ -1937,7 +1937,7 @@
     {
         "name": "sabbath",
         "captcha": false,
-        "parser": true,
+        "parser": false,
         "javascript_render": false,
         "meta": null,
         "locations": [
@@ -2702,7 +2702,7 @@
     {
         "name": "kelvinsecurity",
         "captcha": false,
-        "parser": true,
+        "parser": false,
         "javascript_render": false,
         "meta": "not a ransomware group",
         "locations": [

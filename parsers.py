@@ -408,17 +408,6 @@ def groove():
     for post in posts:
         appender(post, 'groove')
 
-def bonacigroup():
-    stdlog('parser: ' + 'bonacigroup')
-    parser = '''
-    grep 'h5' source/bonacigroup-*.html --no-filename | cut -d '>' -f 3 | cut -d '<' -f 1
-    '''
-    posts = runshellcmd(parser)
-    if len(posts) == 1:
-        errlog('bonacigroup: ' + 'parsing fail')
-    for post in posts:
-        appender(post, 'bonacigroup')
-
 def karma():
     stdlog('parser: ' + 'karma')
     parser = '''
@@ -489,17 +478,6 @@ def lv():
     for post in posts:
         appender(post, 'lv')
 
-def five4bb47h():
-    stdlog('parser: ' + 'sabbath')
-    parser = '''
-    %s "aria-label.*?>" source/sabbath-*.html | cut -d '"' -f 2 | sed -e '/Search button/d' -e '/Off Canvas Menu/d' -e '/Close drawer/d' -e '/Close search modal/d' -e '/Header Menu/d' | tr "..." ' ' | grep "\S" | cat
-    ''' % (fancygrep)
-    posts = runshellcmd(parser)
-    if len(posts) == 1:
-        errlog('sabbath: ' + 'parsing fail')
-    for post in posts:
-        appender(post, 'sabbath')
-
 def midas():
     stdlog('parser: ' + 'midas')
     parser = '''
@@ -521,17 +499,6 @@ def snatch():
         errlog('snatch: ' + 'parsing fail')
     for post in posts:
         appender(post, 'snatch')
-
-def marketo():
-    stdlog('parser: ' + 'marketo')
-    parser = '''
-    grep '<a href="/lot' source/marketo-*.html | sed -e 's/^ *//g' -e '/Show more/d' -e 's/<strong>//g' | cut -d '>' -f 2 | cut -d '<' -f 1 | sed -e '/^$/d'
-    '''
-    posts = runshellcmd(parser)
-    if len(posts) == 1:
-        errlog('marketo: ' + 'parsing fail')
-    for post in posts:
-        appender(post, 'marketo')
 
 def rook():
     stdlog('parser: ' + 'rook')
@@ -635,17 +602,6 @@ def leaktheanalyst():
         errlog('leaktheanalyst: ' + 'parsing fail')
     for post in posts:
         appender(post, 'leaktheanalyst')
-
-def kelvinsecurity():
-    stdlog('parser: ' + 'kelvinsecurity')
-    parser = '''
-    egrep -o '<span style="font-size:20px;">([[:alnum:]]| |\.)+</span>' source/kelvinsecurity-*.html | cut -d '>' -f 2 | cut -d '<' -f 1
-    '''
-    posts = runshellcmd(parser)
-    if len(posts) == 1:
-        errlog('kelvinsecurity: ' + 'parsing fail')
-    for post in posts:
-        appender(post, 'kelvinsecurity')
 
 def blackbasta():
     stdlog('parser: ' + 'blackbasta')

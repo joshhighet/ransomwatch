@@ -221,7 +221,6 @@ if args.mode == 'markdown':
 
 if args.mode == 'parse':
     parsers.suncrypt()
-    parsers.bonacigroup()
     parsers.blackbyte()
     parsers.spook()
     parsers.karma()
@@ -253,10 +252,8 @@ if args.mode == 'parse':
     parsers.quantum()
     parsers.atomsilo()
     parsers.lv()
-    parsers.five4bb47h()
     parsers.snatch()
     parsers.midas()
-    parsers.marketo()
     parsers.rook()
     parsers.cryp70n1c0d3()
     parsers.hiveleak()
@@ -267,7 +264,6 @@ if args.mode == 'parse':
     parsers.pandora()
     parsers.stormous()
     parsers.leaktheanalyst()
-    parsers.kelvinsecurity()
     parsers.blackbasta()
     parsers.onyx()
     parsers.mindware()
