@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-01-21 | [`HRL Technology Group`](https://google.com/search?q=HRL+Technology+Group) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2023-01-21 | [`N****`](https://google.com/search?q=N%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2023-01-21 | [`A`](https://google.com/search?q=A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-01-21 | [`mfa.gov.ua`](https://google.com/search?q=mfa.gov.ua) | [freecivilian](https://ransomwatch.telemetry.ltd/#/profiles?id=freecivilian) |
 | 2023-01-21 | [`minagro.gov.ua`](https://google.com/search?q=minagro.gov.ua) | [freecivilian](https://ransomwatch.telemetry.ltd/#/profiles?id=freecivilian) |
 | 2023-01-21 | [`mon.gov.ua`](https://google.com/search?q=mon.gov.ua) | [freecivilian](https://ransomwatch.telemetry.ltd/#/profiles?id=freecivilian) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2022-12-22 | [`maxionwheels.com`](https://google.com/search?q=maxionwheels.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-12-22 | [`SOFTEQ.COM FILES PART3 - srv-uLibrary PUBLISHED`](https://google.com/search?q=SOFTEQ.COM+FILES+PART3+-+srv-uLibrary+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-12-22 | [`LOESCHGROUP.DE FILES PART10 - 192.168.101.34\DATEN\Media\12_Kataloge\00_vor 2022\ PUBLISHE`](https://google.com/search?q=LOESCHGROUP.DE+FILES+PART10+-+192.168.101.34%5CDATEN%5CMedia%5C12_Kataloge%5C00_vor+2022%5C+PUBLISHE) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-12-22 | [`ORDEREXPRESS.COM.MX FILES PART11 - 10.10.1.97 PUBLISHED`](https://google.com/search?q=ORDEREXPRESS.COM.MX+FILES+PART11+-+10.10.1.97+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-12-22 | [`MHMR Authority Of Brazos Valley`](https://google.com/search?q=MHMR+Authority+Of+Brazos+Valley) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
-| 2022-12-22 | [`Cervecería Regional`](https://google.com/search?q=Cervecer%C3%ADa+Regional) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
