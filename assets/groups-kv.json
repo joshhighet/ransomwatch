@@ -11,14 +11,14 @@
       "https://t.me/marketo_leaks",
       "https://t.me/marketocloud"
     ],
-    "fqdn": "marketojbwagqnwx.onion",
     "title": null,
     "version": 2,
     "slug": "http://marketojbwagqnwx.onion",
     "available": false,
     "updated": "2021-09-08 00:01:21.604365",
     "lastscrape": "2021-05-01 00:00:00.000000",
-    "enabled": false
+    "enabled": false,
+    "host": "marketojbwagqnwx.onion"
   },
   {
     "name": "marketo",
@@ -32,14 +32,14 @@
       "https://t.me/marketo_leaks",
       "https://t.me/marketocloud"
     ],
-    "fqdn": "g5sbltooh2okkcb2.onion",
     "title": null,
     "version": 2,
     "slug": "http://g5sbltooh2okkcb2.onion",
     "available": false,
     "updated": null,
     "lastscrape": "2021-05-01 00:00:00.000000",
-    "enabled": false
+    "enabled": false,
+    "host": "g5sbltooh2okkcb2.onion"
   },
   {
     "name": "marketo",
@@ -53,14 +53,14 @@
       "https://t.me/marketo_leaks",
       "https://t.me/marketocloud"
     ],
-    "fqdn": "fvki3hj7uxuirxpeop6chgqoczanmebutznt2mkzy6waov6w456vjuid.onion",
     "title": "404 Not Found",
     "version": 3,
     "slug": "http://fvki3hj7uxuirxpeop6chgqoczanmebutznt2mkzy6waov6w456vjuid.onion",
     "available": false,
     "updated": "2021-10-04 08:05:02.379137",
     "lastscrape": "2021-10-04 08:05:02.379121",
-    "enabled": false
+    "enabled": false,
+    "host": "fvki3hj7uxuirxpeop6chgqoczanmebutznt2mkzy6waov6w456vjuid.onion"
   },
   {
     "name": "marketo",
@@ -74,14 +74,14 @@
       "https://t.me/marketo_leaks",
       "https://t.me/marketocloud"
     ],
-    "fqdn": "jvdamsif53dqjycuozlaye2s47p7xij4x6hzwzwhzrqmv36gkyzohhqd.onion",
     "title": "502 Bad Gateway",
     "version": 3,
     "slug": "http://jvdamsif53dqjycuozlaye2s47p7xij4x6hzwzwhzrqmv36gkyzohhqd.onion",
     "available": false,
     "updated": "2022-03-14 05:12:43.980524",
     "lastscrape": "2022-03-14 05:12:43.980505",
-    "enabled": false
+    "enabled": false,
+    "host": "jvdamsif53dqjycuozlaye2s47p7xij4x6hzwzwhzrqmv36gkyzohhqd.onion"
   },
   {
     "name": "synack",
@@ -92,14 +92,14 @@
     "profile": [
       "https://www.zdnet.com/article/synack-ransomware-group-releases-decryption-keys-as-they-rebrand-to-el-cometa"
     ],
-    "fqdn": "xqkz2rmrqkeqf6sjbrb47jfwnqxcd4o2zvaxxzrpbh2piknms37rw2ad.onion",
     "title": "end of game",
     "version": 3,
     "slug": "http://xqkz2rmrqkeqf6sjbrb47jfwnqxcd4o2zvaxxzrpbh2piknms37rw2ad.onion/",
     "available": false,
     "updated": "2021-09-08 00:03:21.496917",
     "lastscrape": "2021-08-18 00:02:29.699387",
-    "enabled": false
+    "enabled": false,
+    "host": "xqkz2rmrqkeqf6sjbrb47jfwnqxcd4o2zvaxxzrpbh2piknms37rw2ad.onion"
   },
   {
     "name": "suncrypt",
@@ -112,14 +112,14 @@
       "https://www.intezer.com/blog/malware-analysis/when-viruses-mutate-did-suncrypt-ransomware-evolve-from-qnapcrypt",
       "https://medium.com/s2wblog/case-analysis-of-suncrypt-ransomware-negotiation-and-bitcoin-transaction-43a2194ac0bc"
     ],
-    "fqdn": "x2miyuiwpib2imjr5ykyjngdu7v6vprkkhjltrk4qafymtawey4qzwid.onion",
     "title": "News",
     "version": 3,
     "slug": "http://x2miyuiwpib2imjr5ykyjngdu7v6vprkkhjltrk4qafymtawey4qzwid.onion/",
     "available": false,
     "updated": "2022-12-11 02:30:58.172815",
     "lastscrape": "2022-12-11 02:30:58.172802",
-    "enabled": false
+    "enabled": false,
+    "host": "x2miyuiwpib2imjr5ykyjngdu7v6vprkkhjltrk4qafymtawey4qzwid.onion"
   },
   {
     "name": "suncrypt",
@@ -132,14 +132,14 @@
       "https://www.intezer.com/blog/malware-analysis/when-viruses-mutate-did-suncrypt-ransomware-evolve-from-qnapcrypt",
       "https://medium.com/s2wblog/case-analysis-of-suncrypt-ransomware-negotiation-and-bitcoin-transaction-43a2194ac0bc"
     ],
-    "fqdn": "nbzzb6sa6xuura2z.onion",
     "title": null,
     "version": 2,
     "slug": "http://nbzzb6sa6xuura2z.onion",
     "available": false,
     "updated": "2021-09-08 00:03:26.377871",
     "lastscrape": "2021-05-01 00:00:00.000000",
-    "enabled": false
+    "enabled": false,
+    "host": "nbzzb6sa6xuura2z.onion"
   },
   {
     "name": "lv",
@@ -151,14 +151,14 @@
       "https://www.secureworks.com/research/lv-ransomware",
       "https://securityaffairs.co/wordpress/119306/malware/lv-ransomware-repurposed-revil-binary.html"
     ],
-    "fqdn": "rbvuetuneohce3ouxjlbxtimyyxokb4btncxjbo44fbgxqy7tskinwad.onion",
     "title": null,
     "version": 3,
     "slug": "http://rbvuetuneohce3ouxjlbxtimyyxokb4btncxjbo44fbgxqy7tskinwad.onion/api/posts/1",
     "available": false,
     "updated": "2022-12-10 18:10:34.549092",
     "lastscrape": "2022-12-10 18:10:34.549077",
-    "enabled": false
+    "enabled": false,
+    "host": "rbvuetuneohce3ouxjlbxtimyyxokb4btncxjbo44fbgxqy7tskinwad.onion"
   },
   {
     "name": "lv",
@@ -170,14 +170,14 @@
       "https://www.secureworks.com/research/lv-ransomware",
       "https://securityaffairs.co/wordpress/119306/malware/lv-ransomware-repurposed-revil-binary.html"
     ],
-    "fqdn": "4qbxi3i2oqmyzxsjg4fwe4aly3xkped52gq5orp6efpkeskvchqe27id.onion",
     "title": "Start-maximized.com",
     "version": 3,
     "slug": "http://4qbxi3i2oqmyzxsjg4fwe4aly3xkped52gq5orp6efpkeskvchqe27id.onion/",
     "available": false,
     "updated": "2021-12-02 13:09:34.120089",
     "lastscrape": "2021-12-02 13:09:34.120074",
-    "enabled": false
+    "enabled": false,
+    "host": "4qbxi3i2oqmyzxsjg4fwe4aly3xkped52gq5orp6efpkeskvchqe27id.onion"
   },
   {
     "name": "lorenz",
@@ -189,14 +189,14 @@
       "https://www.zdnet.com/article/lorenz-ransomware-attack-victims-can-now-retrieve-their-files-for-free-with-this-decryption-tool",
       "https://www.cybertalk.org/the-worst-outcomes-lorenz-ransomware-a-new-double-extortion-strategy"
     ],
-    "fqdn": "lorenzmlwpzgxq736jzseuterytjueszsvznuibanxomlpkyxk6ksoyd.onion",
     "title": "Lorenz",
     "version": 3,
     "slug": "http://lorenzmlwpzgxq736jzseuterytjueszsvznuibanxomlpkyxk6ksoyd.onion/",
     "available": true,
     "updated": "2023-01-23 04:05:27.329626",
     "lastscrape": "2023-01-23 04:05:27.329611",
-    "enabled": true
+    "enabled": true,
+    "host": "lorenzmlwpzgxq736jzseuterytjueszsvznuibanxomlpkyxk6ksoyd.onion"
   },
   {
     "name": "lockbit2",
@@ -209,14 +209,14 @@
       "https://www.trendmicro.com/en_us/research/21/h/lockbit-resurfaces-with-version-2-0-ransomware-detections-in-chi.html",
       "https://www.cyber.gov.au/acsc/view-all-content/advisories/2021-006-acsc-ransomware-profile-lockbit-20"
     ],
-    "fqdn": "zqaflhty5hyziovsxgqvj2mrz5e5rs6oqxzb54zolccfnvtn5w2johad.onion",
     "title": "LOCKFILE",
     "version": 3,
     "slug": "http://zqaflhty5hyziovsxgqvj2mrz5e5rs6oqxzb54zolccfnvtn5w2johad.onion",
     "available": false,
     "updated": "2021-11-21 19:05:47.855300",
     "lastscrape": "2021-11-21 19:05:47.855283",
-    "enabled": true
+    "enabled": true,
+    "host": "zqaflhty5hyziovsxgqvj2mrz5e5rs6oqxzb54zolccfnvtn5w2johad.onion"
   },
   {
     "name": "lockbit2",
@@ -229,14 +229,14 @@
       "https://www.trendmicro.com/en_us/research/21/h/lockbit-resurfaces-with-version-2-0-ransomware-detections-in-chi.html",
       "https://www.cyber.gov.au/acsc/view-all-content/advisories/2021-006-acsc-ransomware-profile-lockbit-20"
     ],
-    "fqdn": "yq43odyrmzqvyezdindg2tokgogf3pn6bcdtvgczpz5a74tdxjbtk2yd.onion",
     "title": "LockBit BLOG",
     "version": 3,
     "slug": "http://yq43odyrmzqvyezdindg2tokgogf3pn6bcdtvgczpz5a74tdxjbtk2yd.onion",
     "available": false,
     "updated": "2022-06-17 16:10:31.959577",
     "lastscrape": "2022-06-17 16:10:31.959558",
-    "enabled": false
+    "enabled": false,
+    "host": "yq43odyrmzqvyezdindg2tokgogf3pn6bcdtvgczpz5a74tdxjbtk2yd.onion"
   },
   {
     "name": "lockbit2",
@@ -249,14 +249,14 @@
       "https://www.trendmicro.com/en_us/research/21/h/lockbit-resurfaces-with-version-2-0-ransomware-detections-in-chi.html",
       "https://www.cyber.gov.au/acsc/view-all-content/advisories/2021-006-acsc-ransomware-profile-lockbit-20"
     ],
-    "fqdn": "oyarbnujct53bizjguvolxou3rmuda2vr72osyexngbdkhqebwrzsnad.onion",
     "title": "LockBit BLOG",
     "version": 3,
     "slug": "http://oyarbnujct53bizjguvolxou3rmuda2vr72osyexngbdkhqebwrzsnad.onion",
     "available": false,
     "updated": "2022-06-17 16:10:49.901832",
     "lastscrape": "2022-06-17 16:10:49.901813",
-    "enabled": false
+    "enabled": false,
+    "host": "oyarbnujct53bizjguvolxou3rmuda2vr72osyexngbdkhqebwrzsnad.onion"
   },
   {
     "name": "lockbit2",
@@ -269,14 +269,14 @@
       "https://www.trendmicro.com/en_us/research/21/h/lockbit-resurfaces-with-version-2-0-ransomware-detections-in-chi.html",
       "https://www.cyber.gov.au/acsc/view-all-content/advisories/2021-006-acsc-ransomware-profile-lockbit-20"
     ],
-    "fqdn": "lockbitaptstzf3er2lz6ku3xuifafq2yh5lmiqj5ncur6rtlmkteiqd.onion",
     "title": "LockBit BLOG",
     "version": 3,
     "slug": "http://lockbitaptstzf3er2lz6ku3xuifafq2yh5lmiqj5ncur6rtlmkteiqd.onion",
     "available": false,
     "updated": "2022-06-17 16:11:05.604998",
     "lastscrape": "2022-06-17 16:11:05.604979",
-    "enabled": false
+    "enabled": false,
+    "host": "lockbitaptstzf3er2lz6ku3xuifafq2yh5lmiqj5ncur6rtlmkteiqd.onion"
   },
   {
     "name": "lockbit2",
@@ -289,14 +289,14 @@
       "https://www.trendmicro.com/en_us/research/21/h/lockbit-resurfaces-with-version-2-0-ransomware-detections-in-chi.html",
       "https://www.cyber.gov.au/acsc/view-all-content/advisories/2021-006-acsc-ransomware-profile-lockbit-20"
     ],
-    "fqdn": "lockbitaptq7ephv2oigdncfhtwhpqgwmqojnxqdyhprxxfpcllqdxad.onion",
     "title": "LockBit BLOG",
     "version": 3,
     "slug": "http://lockbitaptq7ephv2oigdncfhtwhpqgwmqojnxqdyhprxxfpcllqdxad.onion",
     "available": false,
     "updated": "2022-06-17 16:11:23.690568",
     "lastscrape": "2022-06-17 16:11:23.690546",
-    "enabled": false
+    "enabled": false,
+    "host": "lockbitaptq7ephv2oigdncfhtwhpqgwmqojnxqdyhprxxfpcllqdxad.onion"
   },
   {
     "name": "hiveleak",
@@ -309,14 +309,14 @@
       "https://www.healthcareitnews.com/news/fbi-issues-alert-about-hive-ransomware",
       "https://blogs.blackberry.com/en/2021/07/threat-thursday-hive-ransomware"
     ],
-    "fqdn": "hiveleakdbtnp76ulyhi52eag6c6tyc3xw7ez7iqy6wc34gd2nekazyd.onion",
     "title": "Hive",
     "version": 3,
     "slug": "http://hiveleakdbtnp76ulyhi52eag6c6tyc3xw7ez7iqy6wc34gd2nekazyd.onion/",
     "available": false,
     "updated": "2023-01-23 02:27:37.823311",
     "lastscrape": "2023-01-23 02:27:37.823297",
-    "enabled": true
+    "enabled": true,
+    "host": "hiveleakdbtnp76ulyhi52eag6c6tyc3xw7ez7iqy6wc34gd2nekazyd.onion"
   },
   {
     "name": "hiveleak",
@@ -329,14 +329,14 @@
       "https://www.healthcareitnews.com/news/fbi-issues-alert-about-hive-ransomware",
       "https://blogs.blackberry.com/en/2021/07/threat-thursday-hive-ransomware"
     ],
-    "fqdn": "hivecust6vhekztbqgdnkks64ucehqacge3dij3gyrrpdp57zoq3ooqd.onion",
     "title": "Hive",
     "version": 3,
     "slug": "http://hivecust6vhekztbqgdnkks64ucehqacge3dij3gyrrpdp57zoq3ooqd.onion",
     "available": true,
     "updated": "2023-01-23 04:07:44.324854",
     "lastscrape": "2023-01-23 04:07:44.324840",
-    "enabled": true
+    "enabled": true,
+    "host": "hivecust6vhekztbqgdnkks64ucehqacge3dij3gyrrpdp57zoq3ooqd.onion"
   },
   {
     "name": "hiveleak",
@@ -349,14 +349,14 @@
       "https://www.healthcareitnews.com/news/fbi-issues-alert-about-hive-ransomware",
       "https://blogs.blackberry.com/en/2021/07/threat-thursday-hive-ransomware"
     ],
-    "fqdn": "hiveapi4nyabjdfz2hxdsr7otrcv6zq6m4rk5i2w7j64lrtny4b7vjad.onion",
     "title": null,
     "version": 3,
     "slug": "http://hiveapi4nyabjdfz2hxdsr7otrcv6zq6m4rk5i2w7j64lrtny4b7vjad.onion/v1/companies/disclosed",
     "available": true,
     "updated": "2023-01-23 04:07:52.628129",
     "lastscrape": "2023-01-23 04:07:52.628115",
-    "enabled": true
+    "enabled": true,
+    "host": "hiveapi4nyabjdfz2hxdsr7otrcv6zq6m4rk5i2w7j64lrtny4b7vjad.onion"
   },
   {
     "name": "arvinclub",
@@ -369,14 +369,14 @@
       "https://sosintel.co.uk/a-special-investigation-exposing-a-ransomware-groups-clear-web-ip-and-their-duplicate-identities/",
       "D6164C90642CD93D9D3F353511B4BDBD1428309C90CDE13D3D7088AA5BE3010A52E485834E84"
     ],
-    "fqdn": "3kp6j22pz3zkv76yutctosa6djpj4yib2icvdqxucdaxxedumhqicpad.onion",
     "title": "Arvin Club \u2013 \u0622\u0632\u0627\u062f\u06cc \u0628\u0631\u0627\u06cc \u0627\u062a\u0635\u0627\u0644",
     "version": 3,
     "slug": "http://3kp6j22pz3zkv76yutctosa6djpj4yib2icvdqxucdaxxedumhqicpad.onion/",
     "available": false,
     "updated": "2022-08-01 20:10:19.375136",
     "lastscrape": "2022-08-01 20:10:19.375118",
-    "enabled": true
+    "enabled": true,
+    "host": "3kp6j22pz3zkv76yutctosa6djpj4yib2icvdqxucdaxxedumhqicpad.onion"
   },
   {
     "name": "avoslocker",
@@ -390,14 +390,14 @@
       "previous parser: c2VkIC1uIC1lICdzL14uKmFyaWEtaGlkZGVuPSJ0cnVlIj48XC9pPiAvL3AnIHNvdXJjZS9hdm9zbG9ja2VyLSouaHRtbCB8IGN1dCAtZCAiPCIgLWYx",
       "previous parser: ZWdyZXAgLW8gJ3RpdGxlPSIoW1s6YWxudW06XV18IHxcLikrIicgc291cmNlL2F2b3Nsb2NrZXItKi5odG1sIHwgY3V0IC1kICciJyAtZjI="
     ],
-    "fqdn": "avosqxh72b5ia23dl5fgwcpndkctuzqvh2iefk5imp3pi5gfhel5klad.onion",
     "title": "AvosLocker Access Queue",
     "version": 3,
     "slug": "http://avosqxh72b5ia23dl5fgwcpndkctuzqvh2iefk5imp3pi5gfhel5klad.onion/",
     "available": true,
     "updated": "2023-01-23 04:08:24.934942",
     "lastscrape": "2023-01-23 04:08:24.934928",
-    "enabled": true
+    "enabled": true,
+    "host": "avosqxh72b5ia23dl5fgwcpndkctuzqvh2iefk5imp3pi5gfhel5klad.onion"
   },
   {
     "name": "avoslocker",
@@ -411,14 +411,14 @@
       "previous parser: c2VkIC1uIC1lICdzL14uKmFyaWEtaGlkZGVuPSJ0cnVlIj48XC9pPiAvL3AnIHNvdXJjZS9hdm9zbG9ja2VyLSouaHRtbCB8IGN1dCAtZCAiPCIgLWYx",
       "previous parser: ZWdyZXAgLW8gJ3RpdGxlPSIoW1s6YWxudW06XV18IHxcLikrIicgc291cmNlL2F2b3Nsb2NrZXItKi5odG1sIHwgY3V0IC1kICciJyAtZjI="
     ],
-    "fqdn": "avosjon4pfh3y7ew3jdwz6ofw7lljcxlbk7hcxxmnxlh5kvf2akcqjad.onion",
     "title": "AvosLocker",
     "version": 3,
     "slug": "http://avosjon4pfh3y7ew3jdwz6ofw7lljcxlbk7hcxxmnxlh5kvf2akcqjad.onion",
     "available": true,
     "updated": "2023-01-23 04:08:30.610651",
     "lastscrape": "2023-01-23 04:08:30.610638",
-    "enabled": true
+    "enabled": true,
+    "host": "avosjon4pfh3y7ew3jdwz6ofw7lljcxlbk7hcxxmnxlh5kvf2akcqjad.onion"
   },
   {
     "name": "grief",
@@ -430,14 +430,14 @@
       "https://heimdalsecurity.com/blog/doppelpaymer-gets-a-rebranding",
       "https://www.bleepingcomputer.com/news/security/nra-no-comment-on-russian-ransomware-gang-attack-claims/"
     ],
-    "fqdn": "griefcameifmv4hfr3auozmovz5yi6m3h3dwbuqw7baomfxoxz4qteid.onion",
     "title": "Grief list",
     "version": 3,
     "slug": "http://griefcameifmv4hfr3auozmovz5yi6m3h3dwbuqw7baomfxoxz4qteid.onion/",
     "available": false,
     "updated": "2022-05-02 11:11:21.970097",
     "lastscrape": "2022-05-02 11:11:21.970076",
-    "enabled": false
+    "enabled": false,
+    "host": "griefcameifmv4hfr3auozmovz5yi6m3h3dwbuqw7baomfxoxz4qteid.onion"
   },
   {
     "name": "avaddon",
@@ -449,14 +449,14 @@
       "https://www.acronis.com/en-us/articles/avaddon-ransomware",
       "https://www.cyber.gov.au/sites/default/files/2021-05/2021-003%20Ongoing%20campaign%20using%20Avaddon%20Ransomware%20-%2020210508.pdf"
     ],
-    "fqdn": "avaddongun7rngel.onion",
     "title": null,
     "version": 2,
     "slug": "http://avaddongun7rngel.onion",
     "available": false,
     "updated": "2021-09-08 00:04:04.125800",
     "lastscrape": "2021-05-01 00:00:00.000000",
-    "enabled": false
+    "enabled": false,
+    "host": "avaddongun7rngel.onion"
   },
   {
     "name": "vicesociety",
@@ -469,14 +469,14 @@
       "ViceSociety@onionmail.org",
       "https://blog.talosintelligence.com/2021/08/vice-society-ransomware-printnightmare.html"
     ],
-    "fqdn": "4hzyuotli6maqa4u.onion",
     "title": null,
     "version": 2,
     "slug": "http://4hzyuotli6maqa4u.onion",
     "available": false,
     "updated": "2021-09-08 00:04:04.126984",
     "lastscrape": "2021-05-01 00:00:00.000000",
-    "enabled": false
+    "enabled": false,
+    "host": "4hzyuotli6maqa4u.onion"
   },
   {
     "name": "vicesociety",
@@ -489,14 +489,14 @@
       "ViceSociety@onionmail.org",
       "https://blog.talosintelligence.com/2021/08/vice-society-ransomware-printnightmare.html"
     ],
-    "fqdn": "vsociethok6sbprvevl4dlwbqrzyhxcxaqpvcqt5belwvsuxaxsutyad.onion",
     "title": "Vice Society - Official Site",
     "version": 3,
     "slug": "http://vsociethok6sbprvevl4dlwbqrzyhxcxaqpvcqt5belwvsuxaxsutyad.onion",
     "available": true,
     "updated": "2023-01-23 04:09:01.541214",
     "lastscrape": "2023-01-23 04:09:01.541200",
-    "enabled": true
+    "enabled": true,
+    "host": "vsociethok6sbprvevl4dlwbqrzyhxcxaqpvcqt5belwvsuxaxsutyad.onion"
   },
   {
     "name": "vicesociety",
@@ -509,14 +509,14 @@
       "ViceSociety@onionmail.org",
       "https://blog.talosintelligence.com/2021/08/vice-society-ransomware-printnightmare.html"
     ],
-    "fqdn": "ecdmr42a34qovoph557zotkfvth4fsz56twvwgiylstjup4r5bpc4oad.onion",
     "title": "there is nothing...",
     "version": 3,
     "slug": "http://ecdmr42a34qovoph557zotkfvth4fsz56twvwgiylstjup4r5bpc4oad.onion",
     "available": false,
     "updated": "2022-09-21 16:14:40.026879",
     "lastscrape": "2022-09-21 16:14:40.026861",
-    "enabled": true
+    "enabled": true,
+    "host": "ecdmr42a34qovoph557zotkfvth4fsz56twvwgiylstjup4r5bpc4oad.onion"
   },
   {
     "name": "vicesociety",
@@ -529,14 +529,14 @@
       "ViceSociety@onionmail.org",
       "https://blog.talosintelligence.com/2021/08/vice-society-ransomware-printnightmare.html"
     ],
-    "fqdn": "wmp2rvrkecyx72i3x7ejhyd3yr6fn5uqo7wfus7cz7qnwr6uzhcbrwad.onion",
     "title": "Vice Society - Official Site",
     "version": 3,
     "slug": "http://wmp2rvrkecyx72i3x7ejhyd3yr6fn5uqo7wfus7cz7qnwr6uzhcbrwad.onion/partners.html",
     "available": true,
     "updated": "2023-01-23 04:10:22.795069",
     "lastscrape": "2023-01-23 04:10:22.795053",
-    "enabled": true
+    "enabled": true,
+    "host": "wmp2rvrkecyx72i3x7ejhyd3yr6fn5uqo7wfus7cz7qnwr6uzhcbrwad.onion"
   },
   {
     "name": "vicesociety",
@@ -549,14 +549,14 @@
       "ViceSociety@onionmail.org",
       "https://blog.talosintelligence.com/2021/08/vice-society-ransomware-printnightmare.html"
     ],
-    "fqdn": "ssq4zimieeanazkzc5ld4v5hdibi2nzwzdibfh5n5w4pw5mcik76lzyd.onion",
     "title": "Vice Society - Official Site",
     "version": 3,
     "slug": "http://ssq4zimieeanazkzc5ld4v5hdibi2nzwzdibfh5n5w4pw5mcik76lzyd.onion/partners.html",
     "available": true,
     "updated": "2023-01-23 04:10:53.441902",
     "lastscrape": "2023-01-23 04:10:53.441887",
-    "enabled": true
+    "enabled": true,
+    "host": "ssq4zimieeanazkzc5ld4v5hdibi2nzwzdibfh5n5w4pw5mcik76lzyd.onion"
   },
   {
     "name": "vicesociety",
@@ -569,14 +569,14 @@
       "ViceSociety@onionmail.org",
       "https://blog.talosintelligence.com/2021/08/vice-society-ransomware-printnightmare.html"
     ],
-    "fqdn": "ml3mjpuhnmse4kjij7ggupenw34755y4uj7t742qf7jg5impt5ulhkid.onion",
     "title": "Vice Society - Official Site",
     "version": 3,
     "slug": "http://ml3mjpuhnmse4kjij7ggupenw34755y4uj7t742qf7jg5impt5ulhkid.onion/partners.html",
     "available": true,
     "updated": "2023-01-23 04:11:27.227252",
     "lastscrape": "2023-01-23 04:11:27.227236",
-    "enabled": true
+    "enabled": true,
+    "host": "ml3mjpuhnmse4kjij7ggupenw34755y4uj7t742qf7jg5impt5ulhkid.onion"
   },
   {
     "name": "xinglocker",
@@ -588,14 +588,14 @@
       "https://www.izoologic.com/2021/06/19/xing-locker-team-ransomgroup-is-on-a-roll-they-recently-hit-sharafi-group-investments",
       "https://itsecuritywire.com/quick-bytes/xinglocker-spreading-worm-using-mountlocker"
     ],
-    "fqdn": "xingnewj6m4qytljhfwemngm7r7rogrindbq7wrfeepejgxc3bwci7qd.onion",
     "title": "\u661fTeam News",
     "version": 3,
     "slug": "http://xingnewj6m4qytljhfwemngm7r7rogrindbq7wrfeepejgxc3bwci7qd.onion/",
     "available": false,
     "updated": "2022-01-24 06:12:24.946416",
     "lastscrape": "2022-01-24 06:12:24.946393",
-    "enabled": false
+    "enabled": false,
+    "host": "xingnewj6m4qytljhfwemngm7r7rogrindbq7wrfeepejgxc3bwci7qd.onion"
   },
   {
     "name": "darkside",
@@ -608,14 +608,14 @@
       "https://www.varonis.com/blog/darkside-ransomware",
       "https://github.com/advanced-threat-research/DarkSide-Config-Extract"
     ],
-    "fqdn": "darksidc3iux462n6yunevoag52ntvwp6wulaz3zirkmh4cnz6hhj7id.onion",
     "title": null,
     "version": 3,
     "slug": "http://darksidc3iux462n6yunevoag52ntvwp6wulaz3zirkmh4cnz6hhj7id.onion",
     "available": false,
     "updated": "2021-09-08 00:04:15.574928",
     "lastscrape": "2021-05-01 00:00:00.000000",
-    "enabled": false
+    "enabled": false,
+    "host": "darksidc3iux462n6yunevoag52ntvwp6wulaz3zirkmh4cnz6hhj7id.onion"
   },
   {
     "name": "ragnarlocker",
@@ -627,14 +627,14 @@
       "https://news.sophos.com/en-us/2020/05/21/ragnar-locker-ransomware-deploys-virtual-machine-to-dodge-security",
       "https://www.bleepingcomputer.com/news/security/ransomware-gang-threatens-to-leak-data-if-victim-contacts-fbi-police"
     ],
-    "fqdn": "rgleak7op734elep.onion",
     "title": null,
     "version": 2,
     "slug": "http://rgleak7op734elep.onion",
     "available": false,
     "updated": "2021-09-08 00:04:15.576142",
     "lastscrape": "2021-05-01 00:00:00.000000",
-    "enabled": false
+    "enabled": false,
+    "host": "rgleak7op734elep.onion"
   },
   {
     "name": "ragnarlocker",
@@ -646,14 +646,14 @@
       "https://news.sophos.com/en-us/2020/05/21/ragnar-locker-ransomware-deploys-virtual-machine-to-dodge-security",
       "https://www.bleepingcomputer.com/news/security/ransomware-gang-threatens-to-leak-data-if-victim-contacts-fbi-police"
     ],
-    "fqdn": "rgleaktxuey67yrgspmhvtnrqtgogur35lwdrup4d3igtbm3pupc4lyd.onion",
     "title": "Home Page of Ragnar_Locker Leaks site",
     "version": 3,
     "slug": "http://rgleaktxuey67yrgspmhvtnrqtgogur35lwdrup4d3igtbm3pupc4lyd.onion/",
     "available": true,
     "updated": "2023-01-23 04:11:48.315604",
     "lastscrape": "2023-01-23 04:11:48.315590",
-    "enabled": true
+    "enabled": true,
+    "host": "rgleaktxuey67yrgspmhvtnrqtgogur35lwdrup4d3igtbm3pupc4lyd.onion"
   },
   {
     "name": "ragnarlocker",
@@ -665,14 +665,14 @@
       "https://news.sophos.com/en-us/2020/05/21/ragnar-locker-ransomware-deploys-virtual-machine-to-dodge-security",
       "https://www.bleepingcomputer.com/news/security/ransomware-gang-threatens-to-leak-data-if-victim-contacts-fbi-police"
     ],
-    "fqdn": "p6o7m73ujalhgkiv.onion",
     "title": null,
     "version": 2,
     "slug": "http://p6o7m73ujalhgkiv.onion",
     "available": false,
     "updated": "2021-09-08 00:04:19.843356",
     "lastscrape": "2021-05-01 00:00:00.000000",
-    "enabled": false
+    "enabled": false,
+    "host": "p6o7m73ujalhgkiv.onion"
   },
   {
     "name": "clop",
@@ -684,14 +684,14 @@
       "https://blog.malwarebytes.com/malwarebytes-news/2021/02/clop-targets-execs-ransomware-tactics-get-another-new-twist",
       "https://unit42.paloaltonetworks.com/clop-ransomware"
     ],
-    "fqdn": "ekbgzchl6x2ias37.onion",
     "title": null,
     "version": 2,
     "slug": "http://ekbgzchl6x2ias37.onion",
     "available": false,
     "updated": "2021-09-08 00:04:19.844737",
     "lastscrape": "2021-05-01 00:00:00.000000",
-    "enabled": false
+    "enabled": false,
+    "host": "ekbgzchl6x2ias37.onion"
   },
   {
     "name": "clop",
@@ -703,14 +703,14 @@
       "https://blog.malwarebytes.com/malwarebytes-news/2021/02/clop-targets-execs-ransomware-tactics-get-another-new-twist",
       "https://unit42.paloaltonetworks.com/clop-ransomware"
     ],
-    "fqdn": "santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad.onion",
     "title": "HOME | CL0P^_- LEAKS",
     "version": 3,
     "slug": "http://santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad.onion/",
     "available": false,
     "updated": "2023-01-22 22:13:06.831807",
     "lastscrape": "2023-01-22 22:13:06.831791",
-    "enabled": true
+    "enabled": true,
+    "host": "santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad.onion"
   },
   {
     "name": "netwalker",
@@ -723,14 +723,14 @@
       "https://www.cybereason.com/blog/cybereason-vs.-netwalker-ransomware",
       "https://www.ncsc.org/trends/monthly-trends-articles/2020/netwalker-ransomware"
     ],
-    "fqdn": "rnfdsgm6wb6j6su5txkekw4u4y47kp2eatvu7d6xhyn5cs4lt4pdrqqd.onion",
     "title": null,
     "version": 3,
     "slug": "http://rnfdsgm6wb6j6su5txkekw4u4y47kp2eatvu7d6xhyn5cs4lt4pdrqqd.onion",
     "available": false,
     "updated": "2021-09-08 00:04:40.746600",
     "lastscrape": "2021-05-01 00:00:00.000000",
-    "enabled": false
+    "enabled": false,
+    "host": "rnfdsgm6wb6j6su5txkekw4u4y47kp2eatvu7d6xhyn5cs4lt4pdrqqd.onion"
   },
   {
     "name": "doppelpaymer",
@@ -742,14 +742,14 @@
       "https://aithority.com/security/doppelpaymer-ransomware-attack-sinks-a-global-motor-companys-20-million",
       "https://www.zscaler.com/blogs/security-research/doppelpaymer-continues-cause-grief-through-rebranding"
     ],
-    "fqdn": "hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion",
     "title": "Start-maximized.com",
     "version": 3,
     "slug": "http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/",
     "available": false,
     "updated": "2021-09-23 10:08:25.218006",
     "lastscrape": "2021-09-23 10:08:25.217991",
-    "enabled": false
+    "enabled": false,
+    "host": "hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion"
   },
   {
     "name": "revil",
@@ -762,14 +762,14 @@
       "https://www.macrumors.com/2021/04/26/revil-delists-stolen-apple-schematics-threat",
       "https://www.theverge.com/2021/7/22/22589643/ransomware-kaseya-vsa-decryptor-revil"
     ],
-    "fqdn": "dnpscnbaix6nkwvystl3yxglz7nteicqrou3t75tpcc5532cztc46qyd.onion",
     "title": "404 Not Found",
     "version": 3,
     "slug": "http://dnpscnbaix6nkwvystl3yxglz7nteicqrou3t75tpcc5532cztc46qyd.onion/",
     "available": false,
     "updated": "2022-08-19 12:16:46.599622",
     "lastscrape": "2022-08-19 12:16:46.599604",
-    "enabled": true
+    "enabled": true,
+    "host": "dnpscnbaix6nkwvystl3yxglz7nteicqrou3t75tpcc5532cztc46qyd.onion"
   },
   {
     "name": "revil",
@@ -782,14 +782,14 @@
       "https://www.macrumors.com/2021/04/26/revil-delists-stolen-apple-schematics-threat",
       "https://www.theverge.com/2021/7/22/22589643/ransomware-kaseya-vsa-decryptor-revil"
     ],
-    "fqdn": "aplebzu47wgazapdqks6vrcv6zcnjppkbxbr6wketf56nf6aq2nmyoyd.onion",
     "title": "404 Not Found",
     "version": 3,
     "slug": "http://aplebzu47wgazapdqks6vrcv6zcnjppkbxbr6wketf56nf6aq2nmyoyd.onion/",
     "available": false,
     "updated": "2022-08-19 12:17:40.270818",
     "lastscrape": "2022-08-19 12:17:40.270801",
-    "enabled": true
+    "enabled": true,
+    "host": "aplebzu47wgazapdqks6vrcv6zcnjppkbxbr6wketf56nf6aq2nmyoyd.onion"
   },
   {
     "name": "revil",
@@ -802,14 +802,14 @@
       "https://www.macrumors.com/2021/04/26/revil-delists-stolen-apple-schematics-threat",
       "https://www.theverge.com/2021/7/22/22589643/ransomware-kaseya-vsa-decryptor-revil"
     ],
-    "fqdn": "blogxxu75w63ujqarv476otld7cyjkq4yoswzt4ijadkjwvg3vrvd5yd.onion",
     "title": "Blog",
     "version": 3,
     "slug": "http://blogxxu75w63ujqarv476otld7cyjkq4yoswzt4ijadkjwvg3vrvd5yd.onion/",
     "available": false,
     "updated": "2023-01-06 16:18:09.124691",
     "lastscrape": "2023-01-06 16:18:09.124676",
-    "enabled": true
+    "enabled": true,
+    "host": "blogxxu75w63ujqarv476otld7cyjkq4yoswzt4ijadkjwvg3vrvd5yd.onion"
   },
   {
     "name": "everest",
@@ -820,14 +820,14 @@
     "profile": [
       "https://www.reuters.com/article/us-usa-products-colonial-pipeline-ransom/more-ransomware-websites-disappear-in-aftermath-of-colonial-pipeline-hack-idUSKCN2CX0KT"
     ],
-    "fqdn": "ransomocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexfook2j7esad.onion",
     "title": "Everest Ransomware Group",
     "version": 3,
     "slug": "http://ransomocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexfook2j7esad.onion/",
     "available": true,
     "updated": "2023-01-23 04:15:19.341857",
     "lastscrape": "2023-01-23 04:15:19.341843",
-    "enabled": true
+    "enabled": true,
+    "host": "ransomocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexfook2j7esad.onion"
   },
   {
     "name": "ragnarok",
@@ -841,14 +841,14 @@
       "https://www.sababasecurity.com/cheese-shortage-in-dutch-supermarkets-after-a-ransomware-attack",
       "previous parser: Z3JlcCAndmFyIHBvc3RfbGlua3MgPScgc291cmNlL3JhZ25hcm9rLSouaHRtbCAtLW5vLWZpbGVuYW1lIHwgY3V0IC1kICc9JyAtZiAyIHwgc2VkICdzL14gKi8vZycgfCBzZWQgLWUgJ3MvLiQvLycgLWUgJ3MvLiQvLycgIC1lICdzLy4kLy8nIHwgIGpxIC1yICcuW10udGl0bGUn"
     ],
-    "fqdn": "wobpitin77vdsdiswr43duntv6eqw4rvphedutpaxycjdie6gg3binad.onion",
     "title": null,
     "version": 3,
     "slug": "http://wobpitin77vdsdiswr43duntv6eqw4rvphedutpaxycjdie6gg3binad.onion",
     "available": false,
     "updated": "2021-09-08 00:06:02.821448",
     "lastscrape": "2021-05-01 00:00:00.000000",
-    "enabled": false
+    "enabled": false,
+    "host": "wobpitin77vdsdiswr43duntv6eqw4rvphedutpaxycjdie6gg3binad.onion"
   },
   {
     "name": "ragnarok",
@@ -862,14 +862,14 @@
       "https://www.sababasecurity.com/cheese-shortage-in-dutch-supermarkets-after-a-ransomware-attack",
       "previous parser: Z3JlcCAndmFyIHBvc3RfbGlua3MgPScgc291cmNlL3JhZ25hcm9rLSouaHRtbCAtLW5vLWZpbGVuYW1lIHwgY3V0IC1kICc9JyAtZiAyIHwgc2VkICdzL14gKi8vZycgfCBzZWQgLWUgJ3MvLiQvLycgLWUgJ3MvLiQvLycgIC1lICdzLy4kLy8nIHwgIGpxIC1yICcuW10udGl0bGUn"
     ],
-    "fqdn": "sushlnty2j7qdzy64qnvyb6ajkwg7resd3p6agc2widnawodtcedgjid.onion",
     "title": "Decrypt Site",
     "version": 3,
     "slug": "http://sushlnty2j7qdzy64qnvyb6ajkwg7resd3p6agc2widnawodtcedgjid.onion/",
     "available": false,
     "updated": "2021-09-08 00:06:09.477754",
     "lastscrape": "2021-08-27 00:03:27.017295",
-    "enabled": false
+    "enabled": false,
+    "host": "sushlnty2j7qdzy64qnvyb6ajkwg7resd3p6agc2widnawodtcedgjid.onion"
   },
   {
     "name": "conti",
@@ -881,14 +881,14 @@
       "https://threatpost.com/affiliate-leaks-conti-ransomware-playbook/168442",
       "https://unit42.paloaltonetworks.com/conti-ransomware-gang"
     ],
-    "fqdn": "continewsnv5otx5kaoje7krkto2qbu3gtqef22mnr7eaxw3y6ncz3ad.onion",
     "title": "CONTI.News",
     "version": 3,
     "slug": "http://continewsnv5otx5kaoje7krkto2qbu3gtqef22mnr7eaxw3y6ncz3ad.onion/",
     "available": false,
     "updated": "2022-06-22 06:25:03.781337",
     "lastscrape": "2022-06-22 06:25:03.781324",
-    "enabled": false
+    "enabled": false,
+    "host": "continewsnv5otx5kaoje7krkto2qbu3gtqef22mnr7eaxw3y6ncz3ad.onion"
   },
   {
     "name": "conti",
@@ -900,14 +900,14 @@
       "https://threatpost.com/affiliate-leaks-conti-ransomware-playbook/168442",
       "https://unit42.paloaltonetworks.com/conti-ransomware-gang"
     ],
-    "fqdn": "continews.click",
     "title": null,
     "version": 0,
     "slug": "http://continews.click",
     "available": false,
     "updated": "2022-12-11 04:22:46.908559",
     "lastscrape": "2022-12-11 04:22:46.908546",
-    "enabled": false
+    "enabled": false,
+    "host": "continews.click"
   },
   {
     "name": "conti",
@@ -919,14 +919,14 @@
       "https://threatpost.com/affiliate-leaks-conti-ransomware-playbook/168442",
       "https://unit42.paloaltonetworks.com/conti-ransomware-gang"
     ],
-    "fqdn": "continews.bz",
     "title": "Error Response Page",
     "version": 0,
     "slug": "http://continews.bz",
     "available": false,
     "updated": "2022-11-24 20:21:12.065124",
     "lastscrape": "2022-11-24 20:21:12.065104",
-    "enabled": false
+    "enabled": false,
+    "host": "continews.bz"
   },
   {
     "name": "pysa",
@@ -938,14 +938,14 @@
       "https://www.ic3.gov/Media/News/2021/210316.pdf",
       "https://blog.malwarebytes.com/threat-spotlight/2021/03/pysa-the-ransomware-attacking-schools"
     ],
-    "fqdn": "pysa2bitc5ldeyfak4seeruqymqs4sj5wt5qkcq7aoyg4h2acqieywad.onion",
     "title": "Pysa's Partners",
     "version": 3,
     "slug": "http://pysa2bitc5ldeyfak4seeruqymqs4sj5wt5qkcq7aoyg4h2acqieywad.onion/partners.html",
     "available": false,
     "updated": "2022-02-22 10:11:40.537498",
     "lastscrape": "2022-02-22 10:11:40.537484",
-    "enabled": false
+    "enabled": false,
+    "host": "pysa2bitc5ldeyfak4seeruqymqs4sj5wt5qkcq7aoyg4h2acqieywad.onion"
   },
   {
     "name": "nefilim",
@@ -957,14 +957,14 @@
       "https://www.zdnet.com/article/a-deep-dive-into-nefilim-a-double-extortion-ransomware-group",
       "https://www.trendmicro.com/en_nz/research/21/f/nefilim-modern-ransomware-attack-story.html"
     ],
-    "fqdn": "hxt254aygrsziejn.onion",
     "title": null,
     "version": 2,
     "slug": "http://hxt254aygrsziejn.onion",
     "available": false,
     "updated": "2021-09-08 00:06:25.221769",
     "lastscrape": "2021-05-01 00:00:00.000000",
-    "enabled": false
+    "enabled": false,
+    "host": "hxt254aygrsziejn.onion"
   },
   {
     "name": "maze",
@@ -976,14 +976,14 @@
       "https://techcrunch.com/2020/11/02/maze-ransomware-group-shutting-down",
       "https://www.fireeye.com/blog/threat-research/2020/05/tactics-techniques-procedures-associated-with-maze-ransomware-incidents.html"
     ],
-    "fqdn": "xfr3txoorcyy7tikjgj5dk3rvo3vsrpyaxnclyohkbfp3h277ap4tiad.onion",
     "title": null,
     "version": 3,
     "slug": "http://xfr3txoorcyy7tikjgj5dk3rvo3vsrpyaxnclyohkbfp3h277ap4tiad.onion",
     "available": false,
     "updated": "2021-09-08 00:06:32.504536",
     "lastscrape": "2021-05-01 00:00:00.000000",
-    "enabled": false
+    "enabled": false,
+    "host": "xfr3txoorcyy7tikjgj5dk3rvo3vsrpyaxnclyohkbfp3h277ap4tiad.onion"
   },
   {
     "name": "mount-locker",
@@ -995,14 +995,14 @@
       "https://www.bleepingcomputer.com/news/security/mount-locker-ransomware-joins-the-multi-million-dollar-ransom-game",
       "https://www.securitymagazine.com/articles/94954-sophos-identifies-connection-between-mount-locker-and-astro-locker-team-ransomware"
     ],
-    "fqdn": "mountnewsokhwilx.onion",
     "title": null,
     "version": 2,
     "slug": "http://mountnewsokhwilx.onion",
     "available": false,
     "updated": "2021-09-08 00:06:32.505748",
     "lastscrape": "2021-05-01 00:00:00.000000",
-    "enabled": false
+    "enabled": false,
+    "host": "mountnewsokhwilx.onion"
   },
   {
     "name": "babuk",
@@ -1015,14 +1015,14 @@
       "https://www.bleepingcomputer.com/news/security/babuk-ransomwares-full-source-code-leaked-on-hacker-forum",
       "https://blog.cyberint.com/babuk-locker"
     ],
-    "fqdn": "nq4zyac4ukl4tykmidbzgdlvaboqeqsemkp4t35bzvjeve6zm2lqcjid.onion",
     "title": "Babuk - Leaks site",
     "version": 3,
     "slug": "http://nq4zyac4ukl4tykmidbzgdlvaboqeqsemkp4t35bzvjeve6zm2lqcjid.onion/",
     "available": true,
     "updated": "2023-01-23 04:15:27.964634",
     "lastscrape": "2023-01-23 04:15:27.964621",
-    "enabled": true
+    "enabled": true,
+    "host": "nq4zyac4ukl4tykmidbzgdlvaboqeqsemkp4t35bzvjeve6zm2lqcjid.onion"
   },
   {
     "name": "ransomexx",
@@ -1035,14 +1035,14 @@
       "https://www.cybereason.com/blog/cybereason-vs.-ransomexx-ransomware",
       "https://www.infosecurity-magazine.com/news/aerospace-giant-embraer-hit"
     ],
-    "fqdn": "rnsm777cdsjrsdlbs4v5qoeppu3px6sb2igmh53jzrx7ipcrbjz5b2ad.onion",
     "title": "ransomexx2",
     "version": 3,
     "slug": "http://rnsm777cdsjrsdlbs4v5qoeppu3px6sb2igmh53jzrx7ipcrbjz5b2ad.onion/",
     "available": true,
     "updated": "2023-01-23 04:15:33.126467",
     "lastscrape": "2023-01-23 04:15:33.126452",
-    "enabled": true
+    "enabled": true,
+    "host": "rnsm777cdsjrsdlbs4v5qoeppu3px6sb2igmh53jzrx7ipcrbjz5b2ad.onion"
   },
   {
     "name": "cuba",
@@ -1055,14 +1055,14 @@
       "https://digital.nhs.uk/cyber-alerts/2021/cc-3855",
       "https://www.ic3.gov/Media/News/2021/211203-2.pdf"
     ],
-    "fqdn": "cuba4mp6ximo2zlo.onion",
     "title": null,
     "version": 2,
     "slug": "http://cuba4mp6ximo2zlo.onion",
     "available": false,
     "updated": "2021-09-08 00:06:45.725369",
     "lastscrape": "2021-05-01 00:00:00.000000",
-    "enabled": false
+    "enabled": false,
+    "host": "cuba4mp6ximo2zlo.onion"
   },
   {
     "name": "cuba",
@@ -1075,14 +1075,14 @@
       "https://digital.nhs.uk/cyber-alerts/2021/cc-3855",
       "https://www.ic3.gov/Media/News/2021/211203-2.pdf"
     ],
-    "fqdn": "cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion",
     "title": "Cuba",
     "version": 3,
     "slug": "http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion",
     "available": true,
     "updated": "2023-01-23 04:16:26.003039",
     "lastscrape": "2023-01-23 04:16:26.003025",
-    "enabled": true
+    "enabled": true,
+    "host": "cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion"
   },
   {
     "name": "pay2key",
@@ -1096,14 +1096,14 @@
       "https://keybase.io/pay2key",
       "pay2key@tuta.io"
     ],
-    "fqdn": "pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion",
     "title": "Pay2Key Leak Directory!",
     "version": 3,
     "slug": "http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/",
     "available": false,
     "updated": "2022-03-15 21:12:35.541118",
     "lastscrape": "2022-03-15 21:12:35.541101",
-    "enabled": false
+    "enabled": false,
+    "host": "pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion"
   },
   {
     "name": "aztroteam",
@@ -1112,14 +1112,14 @@
     "javascript_render": false,
     "meta": null,
     "profile": [],
-    "fqdn": "anewset3pcya3xvk73hj7yunuamutxxsm5sohkdi32blhmql55tvgqad.onion",
     "title": null,
     "version": 3,
     "slug": "http://anewset3pcya3xvk73hj7yunuamutxxsm5sohkdi32blhmql55tvgqad.onion",
     "available": false,
     "updated": "2021-09-08 00:06:56.203474",
     "lastscrape": "2021-05-01 00:00:00.000000",
-    "enabled": false
+    "enabled": false,
+    "host": "anewset3pcya3xvk73hj7yunuamutxxsm5sohkdi32blhmql55tvgqad.onion"
   },
   {
     "name": "lockdata",
@@ -1131,14 +1131,14 @@
       "https://www.telekom.com/en/blog/group/article/lockdata-auction-631300",
       "https://twitter.com/darktracer_int/status/1418318232885153792"
     ],
-    "fqdn": "wm6mbuzipviusuc42kcggzkdpbhuv45sn7olyamy6mcqqked3waslbqd.onion",
     "title": "LockData Auction",
     "version": 3,
     "slug": "http://wm6mbuzipviusuc42kcggzkdpbhuv45sn7olyamy6mcqqked3waslbqd.onion/",
     "available": false,
     "updated": "2022-04-09 16:16:17.344917",
     "lastscrape": "2022-04-09 16:16:17.344901",
-    "enabled": false
+    "enabled": false,
+    "host": "wm6mbuzipviusuc42kcggzkdpbhuv45sn7olyamy6mcqqked3waslbqd.onion"
   },
   {
     "name": "blacktor",
@@ -1147,14 +1147,14 @@
     "javascript_render": false,
     "meta": null,
     "profile": [],
-    "fqdn": "bl4cktorpms2gybrcyt52aakcxt6yn37byb65uama5cimhifcscnqkid.onion",
     "title": "Bl@ckt0r | Bug Hunter and Data Breacher Group",
     "version": 3,
     "slug": "http://bl@ckt0r:bl@ckt0r@bl4cktorpms2gybrcyt52aakcxt6yn37byb65uama5cimhifcscnqkid.onion/0x00/data-breach.html",
     "available": true,
     "updated": "2023-01-23 04:16:35.695420",
     "lastscrape": "2023-01-23 04:16:35.695408",
-    "enabled": true
+    "enabled": true,
+    "host": "bl4cktorpms2gybrcyt52aakcxt6yn37byb65uama5cimhifcscnqkid.onion"
   },
   {
     "name": "haron",
@@ -1166,14 +1166,14 @@
       "https://therecord.media/new-haron-ransomware-gang-emerges-borrowing-from-avaddon-and-thanos",
       "https://threatpost.com/ransomware-gangs-haron-blackmatter/168212"
     ],
-    "fqdn": "ft4zr2jzlqoyob7yg4fcpwyt37hox3ajajqnfkdvbfrkjioyunmqnpad.onion",
     "title": "Clients page",
     "version": 3,
     "slug": "http://ft4zr2jzlqoyob7yg4fcpwyt37hox3ajajqnfkdvbfrkjioyunmqnpad.onion/login.php",
     "available": false,
     "updated": "2022-01-31 20:17:10.700056",
     "lastscrape": "2022-01-31 20:17:10.700036",
-    "enabled": false
+    "enabled": false,
+    "host": "ft4zr2jzlqoyob7yg4fcpwyt37hox3ajajqnfkdvbfrkjioyunmqnpad.onion"
   },
   {
     "name": "darkleakmarket",
@@ -1182,14 +1182,14 @@
     "javascript_render": false,
     "meta": "marketplace - not a ransomware group, reputation questionable",
     "profile": [],
-    "fqdn": "54rdhzjzc4ids4u4wata4zr4ywfon5wpz2ml4q3avelgadpvmdal2vqd.onion",
     "title": "Dark Leak Market",
     "version": 3,
     "slug": "http://54rdhzjzc4ids4u4wata4zr4ywfon5wpz2ml4q3avelgadpvmdal2vqd.onion/",
     "available": false,
     "updated": "2021-10-07 16:14:26.072845",
     "lastscrape": "2021-10-07 16:14:26.072823",
-    "enabled": true
+    "enabled": true,
+    "host": "54rdhzjzc4ids4u4wata4zr4ywfon5wpz2ml4q3avelgadpvmdal2vqd.onion"
   },
   {
     "name": "darkleakmarket",
@@ -1198,14 +1198,14 @@
     "javascript_render": false,
     "meta": "marketplace - not a ransomware group, reputation questionable",
     "profile": [],
-    "fqdn": "aby6efzmp7jzbwgidgqc6ghxi2vwpo6d7eaood5xuoxutrfofsmzcjqd.onion",
     "title": "fresh CC Fullz CVV autoShop Buy Fullz Online \u2013 Ful",
     "version": 3,
     "slug": "http://aby6efzmp7jzbwgidgqc6ghxi2vwpo6d7eaood5xuoxutrfofsmzcjqd.onion",
     "available": false,
     "updated": "2023-01-20 10:21:08.228420",
     "lastscrape": "2023-01-20 10:21:08.228408",
-    "enabled": true
+    "enabled": true,
+    "host": "aby6efzmp7jzbwgidgqc6ghxi2vwpo6d7eaood5xuoxutrfofsmzcjqd.onion"
   },
   {
     "name": "darkleakmarket",
@@ -1214,14 +1214,14 @@
     "javascript_render": false,
     "meta": "marketplace - not a ransomware group, reputation questionable",
     "profile": [],
-    "fqdn": "darklmmmfuonklpy6s3tmvk5mrcdi7iapaw6eka45esmoryiiuug6aid.onion",
     "title": "Dark Leak Market",
     "version": 3,
     "slug": "http://darklmmmfuonklpy6s3tmvk5mrcdi7iapaw6eka45esmoryiiuug6aid.onion",
     "available": false,
     "updated": "2023-01-23 02:38:04.147375",
     "lastscrape": "2023-01-23 02:38:04.147361",
-    "enabled": true
+    "enabled": true,
+    "host": "darklmmmfuonklpy6s3tmvk5mrcdi7iapaw6eka45esmoryiiuug6aid.onion"
   },
   {
     "name": "darkleakmarket",
@@ -1230,14 +1230,14 @@
     "javascript_render": false,
     "meta": "marketplace - not a ransomware group, reputation questionable",
     "profile": [],
-    "fqdn": "darkleakyqmv62eweqwy4dnhaijg4m4dkburo73pzuqfdumcntqdokyd.onion",
     "title": "Dark Leak Market",
     "version": 3,
     "slug": "http://darkleakyqmv62eweqwy4dnhaijg4m4dkburo73pzuqfdumcntqdokyd.onion",
     "available": true,
     "updated": "2023-01-23 04:17:43.850181",
     "lastscrape": "2023-01-23 04:17:43.850166",
-    "enabled": true
+    "enabled": true,
+    "host": "darkleakyqmv62eweqwy4dnhaijg4m4dkburo73pzuqfdumcntqdokyd.onion"
   },
   {
     "name": "prometheus",
@@ -1249,14 +1249,14 @@
       "https://therecord.media/decryptor-released-for-prometheus-ransomware-victims",
       "https://unit42.paloaltonetworks.com/prometheus-ransomwar"
     ],
-    "fqdn": "promethw27cbrcot.onion",
     "title": null,
     "version": 2,
     "slug": "http://promethw27cbrcot.onion/blog/",
     "available": false,
     "updated": "2021-09-08 00:07:17.934621",
     "lastscrape": "2021-05-01 00:00:00.000000",
-    "enabled": false
+    "enabled": false,
+    "host": "promethw27cbrcot.onion"
   },
   {
     "name": "blackmatter",
@@ -1268,14 +1268,14 @@
       "https://www.tripwire.com/state-of-security/featured/blackmatter-pose-new-ransomware-threat",
       "https://venturebeat.com/2021/08/23/sophoslabs-research-shows-blackmatter-ransomware-is-closely-acquainted-with-darkside"
     ],
-    "fqdn": "blackmax7su6mbwtcyo3xwtpfxpm356jjqrs34y4crcytpw7mifuedyd.onion",
     "title": "BlackMatter",
     "version": 3,
     "slug": "http://blackmax7su6mbwtcyo3xwtpfxpm356jjqrs34y4crcytpw7mifuedyd.onion/",
     "available": false,
     "updated": "2021-11-04 21:45:29.471113",
     "lastscrape": "2021-11-04 21:45:29.471099",
-    "enabled": true
+    "enabled": true,
+    "host": "blackmax7su6mbwtcyo3xwtpfxpm356jjqrs34y4crcytpw7mifuedyd.onion"
   },
   {
     "name": "payloadbin",
@@ -1286,14 +1286,14 @@
     "profile": [
       "https://cyberintelmag.com/malware-viruses/payloadbin-ransomware-attributed-to-evil-corp"
     ],
-    "fqdn": "vbmisqjshn4yblehk2vbnil53tlqklxsdaztgphcilto3vdj4geao5qd.onion",
     "title": "Payload.bin",
     "version": 3,
     "slug": "http://vbmisqjshn4yblehk2vbnil53tlqklxsdaztgphcilto3vdj4geao5qd.onion/",
     "available": false,
     "updated": "2022-08-27 08:26:04.980738",
     "lastscrape": "2022-08-27 08:26:04.980723",
-    "enabled": true
+    "enabled": true,
+    "host": "vbmisqjshn4yblehk2vbnil53tlqklxsdaztgphcilto3vdj4geao5qd.onion"
   },
   {
     "name": "groove",
@@ -1305,14 +1305,14 @@
       "https://intel471.com/blog/groove-gang-ransomware-babuk-revil-blackmatter",
       "https://www.mcafee.com/blogs/enterprise/mcafee-enterprise-atr/how-groove-gang-is-shaking-up-the-ransomware-as-a-service-market-to-empower-affiliates"
     ],
-    "fqdn": "ws3dh6av66sjbxxkjpw5ao3wqzmtejnkzheswm4dz5rrwvular7xvkqd.onion",
     "title": "\u0423\u0442\u0435\u0447\u043a\u0438 | Groove",
     "version": 3,
     "slug": "http://ws3dh6av66sjbxxkjpw5ao3wqzmtejnkzheswm4dz5rrwvular7xvkqd.onion/",
     "available": false,
     "updated": "2021-10-30 10:50:04.915354",
     "lastscrape": "2021-10-30 10:50:04.915343",
-    "enabled": true
+    "enabled": true,
+    "host": "ws3dh6av66sjbxxkjpw5ao3wqzmtejnkzheswm4dz5rrwvular7xvkqd.onion"
   },
   {
     "name": "ako",
@@ -1325,14 +1325,14 @@
       "https://www.bleepingcomputer.com/news/security/ako-ransomware-another-day-another-infection-attacking-businesses/",
       "https://malwiki.org/index.php?title=Ako"
     ],
-    "fqdn": "kwvhrdibgmmpkhkidrby4mccwqpds5za6uo2thcw5gz75qncv7rbhyad.onion",
     "title": null,
     "version": 3,
     "slug": "http://kwvhrdibgmmpkhkidrby4mccwqpds5za6uo2thcw5gz75qncv7rbhyad.onion",
     "available": false,
     "updated": null,
     "lastscrape": "2021-05-01 00:00:00.000000",
-    "enabled": true
+    "enabled": true,
+    "host": "kwvhrdibgmmpkhkidrby4mccwqpds5za6uo2thcw5gz75qncv7rbhyad.onion"
   },
   {
     "name": "atomsilo",
@@ -1345,14 +1345,14 @@
       "https://www.zscaler.com/blogs/security-research/atomsilo-ransomware-enters-league-double-extortion",
       "https://twitter.com/vinopaljiri/status/1449550289204391940"
     ],
-    "fqdn": "mhdehvkomeabau7gsetnsrhkfign4jgnx3wajth5yb5h6kvzbd72wlqd.onion",
     "title": "AtomSilo",
     "version": 3,
     "slug": "http://mhdehvkomeabau7gsetnsrhkfign4jgnx3wajth5yb5h6kvzbd72wlqd.onion",
     "available": false,
     "updated": "2021-12-17 05:02:38.125479",
     "lastscrape": "2021-12-17 05:02:38.125384",
-    "enabled": false
+    "enabled": false,
+    "host": "mhdehvkomeabau7gsetnsrhkfign4jgnx3wajth5yb5h6kvzbd72wlqd.onion"
   },
   {
     "name": "atomsilo",
@@ -1365,14 +1365,14 @@
       "https://www.zscaler.com/blogs/security-research/atomsilo-ransomware-enters-league-double-extortion",
       "https://twitter.com/vinopaljiri/status/1449550289204391940"
     ],
-    "fqdn": "l5cjga2ksw6rxumu5l4xxn3cmahhi2irkbwg3amx6ajroyfmfgpfllid.onion",
     "title": "AtomSilo",
     "version": 3,
     "slug": "http://l5cjga2ksw6rxumu5l4xxn3cmahhi2irkbwg3amx6ajroyfmfgpfllid.onion/list.html",
     "available": false,
     "updated": "2022-01-25 06:15:22.944304",
     "lastscrape": "2022-01-25 06:15:22.944284",
-    "enabled": false
+    "enabled": false,
+    "host": "l5cjga2ksw6rxumu5l4xxn3cmahhi2irkbwg3amx6ajroyfmfgpfllid.onion"
   },
   {
     "name": "avos",
@@ -1381,14 +1381,14 @@
     "javascript_render": false,
     "meta": null,
     "profile": [],
-    "fqdn": "avos2fuj6olp6x36.onion",
     "title": null,
     "version": 2,
     "slug": "http://avos2fuj6olp6x36.onion",
     "available": false,
     "updated": null,
     "lastscrape": "2021-05-01 00:00:00.000000",
-    "enabled": false
+    "enabled": false,
+    "host": "avos2fuj6olp6x36.onion"
   },
   {
     "name": "blackbyte",
@@ -1404,14 +1404,14 @@
       "https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/blackbyte-ransomware-pt-2-code-obfuscation-analysis/",
       "https://www.techtarget.com/searchsecurity/news/252510334/BlackByte-ransomware-attacks-exploiting-ProxyShell-flaws"
     ],
-    "fqdn": "6iaj3efye3q62xjgfxyegrufhewxew7yt4scxjd45tlfafyja6q4ctqd.onion",
     "title": null,
     "version": 3,
     "slug": "http://6iaj3efye3q62xjgfxyegrufhewxew7yt4scxjd45tlfafyja6q4ctqd.onion",
     "available": false,
     "updated": null,
     "lastscrape": "2021-05-01 00:00:00.000000",
-    "enabled": false
+    "enabled": false,
+    "host": "6iaj3efye3q62xjgfxyegrufhewxew7yt4scxjd45tlfafyja6q4ctqd.onion"
   },
   {
     "name": "blackbyte",
@@ -1427,14 +1427,14 @@
       "https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/blackbyte-ransomware-pt-2-code-obfuscation-analysis/",
       "https://www.techtarget.com/searchsecurity/news/252510334/BlackByte-ransomware-attacks-exploiting-ProxyShell-flaws"
     ],
-    "fqdn": "f5uzduboq4fa2xkjloprmctk7ve3dm46ff7aniis66cbekakvksxgeqd.onion",
     "title": "BlackByte BLOG",
     "version": 3,
     "slug": "http://f5uzduboq4fa2xkjloprmctk7ve3dm46ff7aniis66cbekakvksxgeqd.onion",
     "available": false,
     "updated": "2021-12-30 09:14:25.683888",
     "lastscrape": "2021-12-30 09:14:25.683872",
-    "enabled": false
+    "enabled": false,
+    "host": "f5uzduboq4fa2xkjloprmctk7ve3dm46ff7aniis66cbekakvksxgeqd.onion"
   },
   {
     "name": "blackbyte",
@@ -1450,14 +1450,14 @@
       "https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/blackbyte-ransomware-pt-2-code-obfuscation-analysis/",
       "https://www.techtarget.com/searchsecurity/news/252510334/BlackByte-ransomware-attacks-exploiting-ProxyShell-flaws"
     ],
-    "fqdn": "dlyo7r3n4qy5fzv4645nddjwarj7wjdd6wzckomcyc7akskkxp4glcad.onion",
     "title": "BlackByte BLOG",
     "version": 3,
     "slug": "http://dlyo7r3n4qy5fzv4645nddjwarj7wjdd6wzckomcyc7akskkxp4glcad.onion/",
     "available": false,
     "updated": "2022-03-28 11:17:47.827370",
     "lastscrape": "2022-03-28 11:17:47.827356",
-    "enabled": false
+    "enabled": false,
+    "host": "dlyo7r3n4qy5fzv4645nddjwarj7wjdd6wzckomcyc7akskkxp4glcad.onion"
   },
   {
     "name": "blackbyte",
@@ -1473,14 +1473,14 @@
       "https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/blackbyte-ransomware-pt-2-code-obfuscation-analysis/",
       "https://www.techtarget.com/searchsecurity/news/252510334/BlackByte-ransomware-attacks-exploiting-ProxyShell-flaws"
     ],
-    "fqdn": "fl3xpz5bmgzxy4fmebhgsbycgnz24uosp3u4g33oiln627qq3gyw37ad.onion",
     "title": "BlackByte BLOG",
     "version": 3,
     "slug": "http://fl3xpz5bmgzxy4fmebhgsbycgnz24uosp3u4g33oiln627qq3gyw37ad.onion",
     "available": false,
     "updated": "2022-04-24 20:21:03.639800",
     "lastscrape": "2022-04-24 20:21:03.639787",
-    "enabled": false
+    "enabled": false,
+    "host": "fl3xpz5bmgzxy4fmebhgsbycgnz24uosp3u4g33oiln627qq3gyw37ad.onion"
   },
   {
     "name": "blackbyte",
@@ -1496,14 +1496,14 @@
       "https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/blackbyte-ransomware-pt-2-code-obfuscation-analysis/",
       "https://www.techtarget.com/searchsecurity/news/252510334/BlackByte-ransomware-attacks-exploiting-ProxyShell-flaws"
     ],
-    "fqdn": "ce6roic2ykdjunyzazsxmjpz5wsar4pflpoqzntyww5c2eskcp7dq4yd.onion",
     "title": "BlackByte BLOG",
     "version": 3,
     "slug": "http://ce6roic2ykdjunyzazsxmjpz5wsar4pflpoqzntyww5c2eskcp7dq4yd.onion/",
     "available": false,
     "updated": "2022-07-12 20:09:43.526492",
     "lastscrape": "2022-07-12 20:09:43.526477",
-    "enabled": true
+    "enabled": true,
+    "host": "ce6roic2ykdjunyzazsxmjpz5wsar4pflpoqzntyww5c2eskcp7dq4yd.onion"
   },
   {
     "name": "blackbyte",
@@ -1519,14 +1519,14 @@
       "https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/blackbyte-ransomware-pt-2-code-obfuscation-analysis/",
       "https://www.techtarget.com/searchsecurity/news/252510334/BlackByte-ransomware-attacks-exploiting-ProxyShell-flaws"
     ],
-    "fqdn": "jbeg2dct2zhku6c2vwnpxtm2psnjo2xnqvvpoiiwr5hxnc6wrp3uhnad.onion",
     "title": "BB Auction",
     "version": 3,
     "slug": "http://jbeg2dct2zhku6c2vwnpxtm2psnjo2xnqvvpoiiwr5hxnc6wrp3uhnad.onion",
     "available": true,
     "updated": "2023-01-23 04:19:27.798167",
     "lastscrape": "2023-01-23 04:19:27.798151",
-    "enabled": true
+    "enabled": true,
+    "host": "jbeg2dct2zhku6c2vwnpxtm2psnjo2xnqvvpoiiwr5hxnc6wrp3uhnad.onion"
   },
   {
     "name": "lolnek",
@@ -1535,14 +1535,14 @@
     "javascript_render": false,
     "meta": null,
     "profile": [],
-    "fqdn": "mmeeiix2ejdwkmseycljetmpiwebdvgjts75c63camjofn2cjdoulzqd.onion",
     "title": null,
     "version": 3,
     "slug": "http://mmeeiix2ejdwkmseycljetmpiwebdvgjts75c63camjofn2cjdoulzqd.onion",
     "available": false,
     "updated": "2022-08-27 10:25:31.297561",
     "lastscrape": "2022-08-27 10:25:31.297546",
-    "enabled": true
+    "enabled": true,
+    "host": "mmeeiix2ejdwkmseycljetmpiwebdvgjts75c63camjofn2cjdoulzqd.onion"
   },
   {
     "name": "lolnek",
@@ -1551,14 +1551,14 @@
     "javascript_render": false,
     "meta": null,
     "profile": [],
-    "fqdn": "obzuqvr5424kkc4unbq2p2i67ny3zngce3tbdr37nicjqesgqcgomfqd.onion",
     "title": null,
     "version": 3,
     "slug": "http://obzuqvr5424kkc4unbq2p2i67ny3zngce3tbdr37nicjqesgqcgomfqd.onion",
     "available": true,
     "updated": "2023-01-23 04:20:02.939433",
     "lastscrape": "2023-01-23 04:20:02.939419",
-    "enabled": true
+    "enabled": true,
+    "host": "obzuqvr5424kkc4unbq2p2i67ny3zngce3tbdr37nicjqesgqcgomfqd.onion"
   },
   {
     "name": "lolnek",
@@ -1567,14 +1567,14 @@
     "javascript_render": false,
     "meta": null,
     "profile": [],
-    "fqdn": "nclen75pwlgebpxpsqhlcnxsmdvpyrr7ogz36ehhatfmkvakeyden6ad.onion",
     "title": null,
     "version": 3,
     "slug": "http://nclen75pwlgebpxpsqhlcnxsmdvpyrr7ogz36ehhatfmkvakeyden6ad.onion",
     "available": false,
     "updated": "2022-10-01 05:18:09.037047",
     "lastscrape": "2022-10-01 05:18:09.037032",
-    "enabled": true
+    "enabled": true,
+    "host": "nclen75pwlgebpxpsqhlcnxsmdvpyrr7ogz36ehhatfmkvakeyden6ad.onion"
   },
   {
     "name": "blackshadow",
@@ -1585,14 +1585,14 @@
     "profile": [
       "previous parser: ZWdyZXAgLW8gJ19zZWxmIj4oW1s6YWxudW06XV18IHxcLikrPC9hPicgIHNvdXJjZS9ibGFja3NoYWRvdy1ibGFja3NoYWRvdy5odG1sIHwgY3V0IC1kICc+JyAtZiAyIHwgY3V0IC1kICc8JyAtZiAxIHwgc2VkIC1lICcvRG9uYXRlL2QnIC1lICcvSG9tZS9kJyAtZSAnL0NvbnRhY3QgVVMvZCcgLWUgJy9UZWxlZ3JhbSBjaGFubmVsL2QnIHwgc29ydCAtdQ=="
     ],
-    "fqdn": "544corkfh5hwhtn4.onion",
     "title": null,
     "version": 2,
     "slug": "http://544corkfh5hwhtn4.onion",
     "available": false,
     "updated": null,
     "lastscrape": "2021-05-01 00:00:00.000000",
-    "enabled": false
+    "enabled": false,
+    "host": "544corkfh5hwhtn4.onion"
   },
   {
     "name": "bonacigroup",
@@ -1601,14 +1601,14 @@
     "javascript_render": false,
     "meta": "claim to donate 80% of earnings to charity",
     "profile": [],
-    "fqdn": "bonacifryrxr4siz6ptvokuihdzmjzpveruklxumflz5thmkgauty2qd.onion",
     "title": "502 Bad Gateway",
     "version": 3,
     "slug": "http://bonacifryrxr4siz6ptvokuihdzmjzpveruklxumflz5thmkgauty2qd.onion",
     "available": false,
     "updated": "2021-12-28 14:14:45.463150",
     "lastscrape": "2021-12-28 14:14:45.463128",
-    "enabled": false
+    "enabled": false,
+    "host": "bonacifryrxr4siz6ptvokuihdzmjzpveruklxumflz5thmkgauty2qd.onion"
   },
   {
     "name": "crylock",
@@ -1617,14 +1617,14 @@
     "javascript_render": false,
     "meta": null,
     "profile": [],
-    "fqdn": "d57uremugxjrafyg.onion",
     "title": null,
     "version": 2,
     "slug": "http://d57uremugxjrafyg.onion",
     "available": false,
     "updated": null,
     "lastscrape": "2021-05-01 00:00:00.000000",
-    "enabled": false
+    "enabled": false,
+    "host": "d57uremugxjrafyg.onion"
   },
   {
     "name": "ech0raix",
@@ -1636,14 +1636,14 @@
       "https://www.anomali.com/blog/the-ech0raix-ransomware",
       "https://www.bleepingcomputer.com/news/security/qnap-nas-devices-hit-in-surge-of-ech0raix-ransomware-attacks/"
     ],
-    "fqdn": "veqlxhq7ub5qze3qy56zx2cig2e6tzsgxdspkubwbayqije6oatma6id.onion",
     "title": null,
     "version": 3,
     "slug": "http://veqlxhq7ub5qze3qy56zx2cig2e6tzsgxdspkubwbayqije6oatma6id.onion",
     "available": false,
     "updated": "2023-01-23 02:40:00.150915",
     "lastscrape": "2023-01-23 02:40:00.150903",
-    "enabled": true
+    "enabled": true,
+    "host": "veqlxhq7ub5qze3qy56zx2cig2e6tzsgxdspkubwbayqije6oatma6id.onion"
   },
   {
     "name": "ep918",
@@ -1652,14 +1652,14 @@
     "javascript_render": false,
     "meta": null,
     "profile": [],
-    "fqdn": "dg5fyig37abmivryrxlordrczn6d6r5wzcfe2msuo5mbbu2exnu46fid.onion",
     "title": null,
     "version": 3,
     "slug": "http://dg5fyig37abmivryrxlordrczn6d6r5wzcfe2msuo5mbbu2exnu46fid.onion",
     "available": false,
     "updated": null,
     "lastscrape": "2021-05-01 00:00:00.000000",
-    "enabled": false
+    "enabled": false,
+    "host": "dg5fyig37abmivryrxlordrczn6d6r5wzcfe2msuo5mbbu2exnu46fid.onion"
   },
   {
     "name": "exorcist",
@@ -1670,14 +1670,14 @@
     "profile": [
       "https://medium.com/@velasco.l.n/exorcist-ransomware-from-triaging-to-deep-dive-5b7da4263d81"
     ],
-    "fqdn": "7iulpt5i6whht6zo2r52f7vptxtjxs3vfcdxxazllikrtqpupn4epnqd.onion",
     "title": null,
     "version": 3,
     "slug": "http://7iulpt5i6whht6zo2r52f7vptxtjxs3vfcdxxazllikrtqpupn4epnqd.onion",
     "available": false,
     "updated": null,
     "lastscrape": "2021-05-01 00:00:00.000000",
-    "enabled": false
+    "enabled": false,
+    "host": "7iulpt5i6whht6zo2r52f7vptxtjxs3vfcdxxazllikrtqpupn4epnqd.onion"
   },
   {
     "name": "hades",
@@ -1686,14 +1686,14 @@
     "javascript_render": false,
     "meta": null,
     "profile": [],
-    "fqdn": "ixltdyumdlthrtgx.onion",
     "title": null,
     "version": 2,
     "slug": "http://ixltdyumdlthrtgx.onion",
     "available": false,
     "updated": null,
     "lastscrape": "2021-05-01 00:00:00.000000",
-    "enabled": false
+    "enabled": false,
+    "host": "ixltdyumdlthrtgx.onion"
   },
   {
     "name": "hellokitty",
@@ -1707,14 +1707,14 @@
       "https://research.nccgroup.com/2021/06/15/handy-guide-to-a-new-fivehands-ransomware-variant/",
       "https://www.mandiant.com/resources/unc2447-sombrat-and-fivehands-ransomware-sophisticated-financial-threat"
     ],
-    "fqdn": "3r6n77mpe737w4sbxxxrpc5phbluv6xhtdl5ujpnlvmck5tc7blq2rqd.onion",
     "title": "News",
     "version": 3,
     "slug": "http://3r6n77mpe737w4sbxxxrpc5phbluv6xhtdl5ujpnlvmck5tc7blq2rqd.onion",
     "available": false,
     "updated": "2021-10-02 15:17:11.282691",
     "lastscrape": "2021-10-02 15:17:11.282676",
-    "enabled": false
+    "enabled": false,
+    "host": "3r6n77mpe737w4sbxxxrpc5phbluv6xhtdl5ujpnlvmck5tc7blq2rqd.onion"
   },
   {
     "name": "hotarus",
@@ -1725,14 +1725,14 @@
     "profile": [
       "https://www.bleepingcomputer.com/news/security/ransomware-gang-hacks-ecuadors-largest-private-bank-ministry-of-finance/"
     ],
-    "fqdn": "r6d636w47ncnaukrpvlhmtdbvbeltc6enfcuuow3jclpmyga7cz374qd.onion",
     "title": "Hotarus Corp",
     "version": 3,
     "slug": "http://r6d636w47ncnaukrpvlhmtdbvbeltc6enfcuuow3jclpmyga7cz374qd.onion",
     "available": false,
     "updated": "2021-10-22 04:52:30.438438",
     "lastscrape": "2021-10-22 04:52:30.438426",
-    "enabled": false
+    "enabled": false,
+    "host": "r6d636w47ncnaukrpvlhmtdbvbeltc6enfcuuow3jclpmyga7cz374qd.onion"
   },
   {
     "name": "karma",
@@ -1747,14 +1747,14 @@
       "https://blog.cyble.com/2021/08/24/a-deep-dive-analysis-of-karma-ransomware/",
       "https://securityaffairs.co/wordpress/123568/malware/karma-ransomware-nemty-similarities.html"
     ],
-    "fqdn": "3nvzqyo6l4wkrzumzu5aod7zbosq4ipgf7ifgj3hsvbcr5vcasordvqd.onion",
     "title": "Karma Leaks",
     "version": 3,
     "slug": "http://3nvzqyo6l4wkrzumzu5aod7zbosq4ipgf7ifgj3hsvbcr5vcasordvqd.onion",
     "available": false,
     "updated": "2021-11-05 02:09:55.300967",
     "lastscrape": "2021-11-05 02:09:55.300950",
-    "enabled": false
+    "enabled": false,
+    "host": "3nvzqyo6l4wkrzumzu5aod7zbosq4ipgf7ifgj3hsvbcr5vcasordvqd.onion"
   },
   {
     "name": "lockbit",
@@ -1763,14 +1763,14 @@
     "javascript_render": false,
     "meta": null,
     "profile": [],
-    "fqdn": "lockbitkodidilol.onion",
     "title": null,
     "version": 2,
     "slug": "http://lockbitkodidilol.onion",
     "available": false,
     "updated": null,
     "lastscrape": "2021-05-01 00:00:00.000000",
-    "enabled": false
+    "enabled": false,
+    "host": "lockbitkodidilol.onion"
   },
   {
     "name": "mbc",
@@ -1781,14 +1781,14 @@
     "profile": [
       "https://www.thenationalnews.com/business/2021/08/21/mbc-ransomware-group-claims-responsibility-for-cyber-attack-on-irans-railway-network/"
     ],
-    "fqdn": "xembshruusobgbvxg4tcjs3jpdnks6xrr6nbokfxadcnlc53yxir22ad.onion",
     "title": null,
     "version": 3,
     "slug": "http://xembshruusobgbvxg4tcjs3jpdnks6xrr6nbokfxadcnlc53yxir22ad.onion",
     "available": false,
     "updated": null,
     "lastscrape": "2021-05-01 00:00:00.000000",
-    "enabled": false
+    "enabled": false,
+    "host": "xembshruusobgbvxg4tcjs3jpdnks6xrr6nbokfxadcnlc53yxir22ad.onion"
   },
   {
     "name": "mydecryptor",
@@ -1797,14 +1797,14 @@
     "javascript_render": false,
     "meta": null,
     "profile": [],
-    "fqdn": "5s4ixqul2enwxrqv.onion",
     "title": null,
     "version": 2,
     "slug": "http://58b87e60649ccc808ac8mstiejnj.5s4ixqul2enwxrqv.onion",
     "available": false,
     "updated": null,
     "lastscrape": "2021-05-01 00:00:00.000000",
-    "enabled": false
+    "enabled": false,
+    "host": "5s4ixqul2enwxrqv.onion"
   },
   {
     "name": "n3tworm",
@@ -1816,14 +1816,14 @@
       "https://www.bleepingcomputer.com/news/security/n3tw0rm-ransomware-emerges-in-wave-of-cyberattacks-in-israel/",
       "https://www.haaretz.com/israel-news/tech-news/.premium-iranian-hackers-hit-h-m-israel-amid-new-wave-of-cyberattacks-1.9766404"
     ],
-    "fqdn": "n3twormruynhn3oetmxvasum2miix2jgg56xskdoyihra4wthvlgyeyd.onion",
     "title": null,
     "version": 3,
     "slug": "http://n3twormruynhn3oetmxvasum2miix2jgg56xskdoyihra4wthvlgyeyd.onion",
     "available": false,
     "updated": null,
     "lastscrape": "2021-05-01 00:00:00.000000",
-    "enabled": false
+    "enabled": false,
+    "host": "n3twormruynhn3oetmxvasum2miix2jgg56xskdoyihra4wthvlgyeyd.onion"
   },
   {
     "name": "nemty",
@@ -1838,14 +1838,14 @@
       "https://www.acronis.com/en-eu/blog/posts/threat-analysis-nemty-ransomware-and-fake-paypal-site/",
       "https://www.infoblox.com/wp-content/uploads/threat-intelligence-report-nemty-ransomware-loves-you.pdf"
     ],
-    "fqdn": "zjoxyw5mkacojk5ptn2iprkivg5clow72mjkyk5ttubzxprjjnwapkad.onion",
     "title": null,
     "version": 3,
     "slug": "http://zjoxyw5mkacojk5ptn2iprkivg5clow72mjkyk5ttubzxprjjnwapkad.onion",
     "available": false,
     "updated": null,
     "lastscrape": "2021-05-01 00:00:00.000000",
-    "enabled": false
+    "enabled": false,
+    "host": "zjoxyw5mkacojk5ptn2iprkivg5clow72mjkyk5ttubzxprjjnwapkad.onion"
   },
   {
     "name": "onepercent",
@@ -1857,14 +1857,14 @@
       "https://www.ic3.gov/Media/News/2021/210823.pdf",
       "https://www.csoonline.com/article/3630635/onepercent-ransomware-group-hits-companies-via-iceid-banking-trojan.html"
     ],
-    "fqdn": "5mvifa3xq5m7sou3xzaajfz7h6eserp5fnkwotohns5pgbb5oxty3zad.onion",
     "title": null,
     "version": 3,
     "slug": "http://5mvifa3xq5m7sou3xzaajfz7h6eserp5fnkwotohns5pgbb5oxty3zad.onion",
     "available": false,
     "updated": null,
     "lastscrape": "2021-05-01 00:00:00.000000",
-    "enabled": false
+    "enabled": false,
+    "host": "5mvifa3xq5m7sou3xzaajfz7h6eserp5fnkwotohns5pgbb5oxty3zad.onion"
   },
   {
     "name": "prolock",
@@ -1879,14 +1879,14 @@
       "https://www.bleepingcomputer.com/news/security/fbi-warns-of-prolock-ransomware-decryptor-not-working-properly/",
       "https://iacc.memberclicks.net/assets/docs/COVID19/FBI%20-%20FLASH%20TLP%20Green%20-%20Indicators%20of%20Compromise%20Associated%20with%20ProLock....pdf"
     ],
-    "fqdn": "msaoyrayohnp32tcgwcanhjouetb5k54aekgnwg7dcvtgtecpumrxpqd.onion",
     "title": null,
     "version": 3,
     "slug": "http://msaoyrayohnp32tcgwcanhjouetb5k54aekgnwg7dcvtgtecpumrxpqd.onion",
     "available": false,
     "updated": null,
     "lastscrape": "2021-05-01 00:00:00.000000",
-    "enabled": false
+    "enabled": false,
+    "host": "msaoyrayohnp32tcgwcanhjouetb5k54aekgnwg7dcvtgtecpumrxpqd.onion"
   },
   {
     "name": "qlocker",
@@ -1899,14 +1899,14 @@
       "https://www.qnap.com/static/landing/2021/qlocker/response/da-dk/",
       "https://www.bleepingcomputer.com/news/security/qlocker-ransomware-shuts-down-after-extorting-hundreds-of-qnap-users/"
     ],
-    "fqdn": "gvka2m4qt5fod2fltkjmdk4gxh5oxemhpgmnmtjptms6fkgfzdd62tad.onion",
     "title": null,
     "version": 3,
     "slug": "http://gvka2m4qt5fod2fltkjmdk4gxh5oxemhpgmnmtjptms6fkgfzdd62tad.onion",
     "available": false,
     "updated": "2022-11-08 04:40:53.794050",
     "lastscrape": "2022-11-08 04:40:53.794039",
-    "enabled": true
+    "enabled": true,
+    "host": "gvka2m4qt5fod2fltkjmdk4gxh5oxemhpgmnmtjptms6fkgfzdd62tad.onion"
   },
   {
     "name": "ranzy",
@@ -1920,14 +1920,14 @@
       "https://www.sentinelone.com/labs/ranzy-ransomware-better-encryption-among-new-features-of-thunderx-derivative/",
       "https://www.ic3.gov/Media/News/2021/211026.pdf"
     ],
-    "fqdn": "37rckgo66iydpvgpwve7b2el5q2zhjw4tv4lmyewufnpx4lhkekxkoqd.onion",
     "title": null,
     "version": 3,
     "slug": "http://37rckgo66iydpvgpwve7b2el5q2zhjw4tv4lmyewufnpx4lhkekxkoqd.onion",
     "available": false,
     "updated": null,
     "lastscrape": "2021-05-01 00:00:00.000000",
-    "enabled": false
+    "enabled": false,
+    "host": "37rckgo66iydpvgpwve7b2el5q2zhjw4tv4lmyewufnpx4lhkekxkoqd.onion"
   },
   {
     "name": "vfokx",
@@ -1936,14 +1936,14 @@
     "javascript_render": false,
     "meta": null,
     "profile": [],
-    "fqdn": "vfokxcdzjbpehgit223vzdzwte47l3zcqtafj34qrr26htjo4uf3obid.onion",
     "title": null,
     "version": 3,
     "slug": "http://vfokxcdzjbpehgit223vzdzwte47l3zcqtafj34qrr26htjo4uf3obid.onion",
     "available": false,
     "updated": null,
     "lastscrape": "2021-05-01 00:00:00.000000",
-    "enabled": false
+    "enabled": false,
+    "host": "vfokxcdzjbpehgit223vzdzwte47l3zcqtafj34qrr26htjo4uf3obid.onion"
   },
   {
     "name": "vfokx",
@@ -1952,14 +1952,14 @@
     "javascript_render": false,
     "meta": null,
     "profile": [],
-    "fqdn": "746pbrxl7acvrlhzshosye3b3udk4plurpxt2pp27pojfhkkaooqiiqd.onion",
     "title": null,
     "version": 3,
     "slug": "http://746pbrxl7acvrlhzshosye3b3udk4plurpxt2pp27pojfhkkaooqiiqd.onion",
     "available": false,
     "updated": null,
     "lastscrape": "2021-05-01 00:00:00.000000",
-    "enabled": false
+    "enabled": false,
+    "host": "746pbrxl7acvrlhzshosye3b3udk4plurpxt2pp27pojfhkkaooqiiqd.onion"
   },
   {
     "name": "xinof",
@@ -1971,14 +1971,14 @@
       "https://www.bleepingcomputer.com/news/security/fonix-ransomware-shuts-down-and-releases-master-decryption-key/",
       "https://www.sentinelone.com/labs/the-fonix-raas-new-low-key-threat-with-unnecessary-complexities/"
     ],
-    "fqdn": "wj3b2wtj7u2bzup75tzhnso56bin6bnvsxcbwbfcuvzpc4vcixbywlid.onion",
     "title": null,
     "version": 3,
     "slug": "http://wj3b2wtj7u2bzup75tzhnso56bin6bnvsxcbwbfcuvzpc4vcixbywlid.onion",
     "available": false,
     "updated": null,
     "lastscrape": "2021-05-01 00:00:00.000000",
-    "enabled": false
+    "enabled": false,
+    "host": "wj3b2wtj7u2bzup75tzhnso56bin6bnvsxcbwbfcuvzpc4vcixbywlid.onion"
   },
   {
     "name": "spook",
@@ -1987,14 +1987,14 @@
     "javascript_render": false,
     "meta": null,
     "profile": [],
-    "fqdn": "spookuhvfyxzph54ikjfwf2mwmxt572krpom7reyayrmxbkizbvkpaid.onion",
     "title": "Spook",
     "version": 3,
     "slug": "http://spookuhvfyxzph54ikjfwf2mwmxt572krpom7reyayrmxbkizbvkpaid.onion/blog/",
     "available": false,
     "updated": "2021-10-26 02:30:31.814279",
     "lastscrape": "2021-10-26 02:30:31.814261",
-    "enabled": false
+    "enabled": false,
+    "host": "spookuhvfyxzph54ikjfwf2mwmxt572krpom7reyayrmxbkizbvkpaid.onion"
   },
   {
     "name": "RAMP",
@@ -2007,14 +2007,14 @@
       "https://www.toolbox.com/tech/security/news/russian-darknet-forum-ramp-reemerges-with-chinese-speaking-hackers-at-the-wheel/",
       "https://www.linkedin.com/pulse/am-i-new-admin-cybercrime-forum-ramp-ayesha-prakash"
     ],
-    "fqdn": "wavbeudogz6byhnardd2lkp2jafims3j7tj6k6qnywchn2csngvtffqd.onion",
     "title": null,
     "version": 3,
     "slug": "http://wavbeudogz6byhnardd2lkp2jafims3j7tj6k6qnywchn2csngvtffqd.onion",
     "available": false,
     "updated": "2021-05-01 00:00:00.000000",
     "lastscrape": "2021-05-01 00:00:00.000000",
-    "enabled": false
+    "enabled": false,
+    "host": "wavbeudogz6byhnardd2lkp2jafims3j7tj6k6qnywchn2csngvtffqd.onion"
   },
   {
     "name": "RAMP",
@@ -2027,14 +2027,14 @@
       "https://www.toolbox.com/tech/security/news/russian-darknet-forum-ramp-reemerges-with-chinese-speaking-hackers-at-the-wheel/",
       "https://www.linkedin.com/pulse/am-i-new-admin-cybercrime-forum-ramp-ayesha-prakash"
     ],
-    "fqdn": "rampjcdlqvgkoz5oywutpo6ggl7g6tvddysustfl6qzhr5osr24xxqqd.onion",
     "title": "Log in | RAMP",
     "version": 3,
     "slug": "http://rampjcdlqvgkoz5oywutpo6ggl7g6tvddysustfl6qzhr5osr24xxqqd.onion",
     "available": true,
     "updated": "2023-01-23 04:21:20.527170",
     "lastscrape": "2023-01-23 04:21:20.527158",
-    "enabled": true
+    "enabled": true,
+    "host": "rampjcdlqvgkoz5oywutpo6ggl7g6tvddysustfl6qzhr5osr24xxqqd.onion"
   },
   {
     "name": "RAMP",
@@ -2047,14 +2047,14 @@
       "https://www.toolbox.com/tech/security/news/russian-darknet-forum-ramp-reemerges-with-chinese-speaking-hackers-at-the-wheel/",
       "https://www.linkedin.com/pulse/am-i-new-admin-cybercrime-forum-ramp-ayesha-prakash"
     ],
-    "fqdn": "ramp4u5iz4xx75vmt6nk5xfrs5mrmtokzszqxhhkjqlk7pbwykaz7zid.onion",
     "title": null,
     "version": 3,
     "slug": "http://ramp4u5iz4xx75vmt6nk5xfrs5mrmtokzszqxhhkjqlk7pbwykaz7zid.onion",
     "available": false,
     "updated": null,
     "lastscrape": "2021-05-01 00:00:00.000000",
-    "enabled": false
+    "enabled": false,
+    "host": "ramp4u5iz4xx75vmt6nk5xfrs5mrmtokzszqxhhkjqlk7pbwykaz7zid.onion"
   },
   {
     "name": "sabbath",
@@ -2065,14 +2065,14 @@
     "profile": [
       "https://www.mandiant.com/resources/sabbath-ransomware-affiliate"
     ],
-    "fqdn": "54bb47h5qu4k7l4d7v5ix3i6ak6elysn3net4by4ihmvrhu7cvbskoqd.onion",
     "title": "BLOG",
     "version": 3,
     "slug": "http://54bb47h5qu4k7l4d7v5ix3i6ak6elysn3net4by4ihmvrhu7cvbskoqd.onion/blog",
     "available": false,
     "updated": "2021-11-13 03:45:10.144430",
     "lastscrape": "2021-11-13 03:45:10.144411",
-    "enabled": false
+    "enabled": false,
+    "host": "54bb47h5qu4k7l4d7v5ix3i6ak6elysn3net4by4ihmvrhu7cvbskoqd.onion"
   },
   {
     "name": "sabbath",
@@ -2083,14 +2083,14 @@
     "profile": [
       "https://www.mandiant.com/resources/sabbath-ransomware-affiliate"
     ],
-    "fqdn": "54bb47h.blog",
     "title": null,
     "version": 0,
     "slug": "http://54bb47h.blog",
     "available": false,
     "updated": "2022-04-13 03:32:39.807348",
     "lastscrape": "2022-04-13 03:32:39.807334",
-    "enabled": false
+    "enabled": false,
+    "host": "54bb47h.blog"
   },
   {
     "name": "quantum",
@@ -2099,14 +2099,14 @@
     "javascript_render": false,
     "meta": null,
     "profile": [],
-    "fqdn": "quantum445bh3gzuyilxdzs5xdepf3b7lkcupswvkryf3n7hgzpxebid.onion",
     "title": "Quantum Blog",
     "version": 3,
     "slug": "http://quantum445bh3gzuyilxdzs5xdepf3b7lkcupswvkryf3n7hgzpxebid.onion/",
     "available": true,
     "updated": "2023-01-23 04:21:29.594752",
     "lastscrape": "2023-01-23 04:21:29.594737",
-    "enabled": true
+    "enabled": true,
+    "host": "quantum445bh3gzuyilxdzs5xdepf3b7lkcupswvkryf3n7hgzpxebid.onion"
   },
   {
     "name": "quantum",
@@ -2115,14 +2115,14 @@
     "javascript_render": false,
     "meta": null,
     "profile": [],
-    "fqdn": "22rnyep2aa2exx3fdm26p4onwjfmhciodb55v5l3w4iny7e5bxpg3yad.onion",
     "title": "Secure Chat",
     "version": 3,
     "slug": "http://22rnyep2aa2exx3fdm26p4onwjfmhciodb55v5l3w4iny7e5bxpg3yad.onion/",
     "available": false,
     "updated": "2022-08-29 08:26:24.323677",
     "lastscrape": "2022-08-29 08:26:24.323662",
-    "enabled": true
+    "enabled": true,
+    "host": "22rnyep2aa2exx3fdm26p4onwjfmhciodb55v5l3w4iny7e5bxpg3yad.onion"
   },
   {
     "name": "medusa",
@@ -2131,14 +2131,14 @@
     "javascript_render": false,
     "meta": null,
     "profile": [],
-    "fqdn": "qd7pcafncosqfqu3ha6fcx4h6sr7tzwagzpcdcnytiw3b6varaeqv5yd.onion",
     "title": null,
     "version": 3,
     "slug": "https://qd7pcafncosqfqu3ha6fcx4h6sr7tzwagzpcdcnytiw3b6varaeqv5yd.onion",
     "available": false,
     "updated": null,
     "lastscrape": "2021-05-01 00:00:00.000000",
-    "enabled": false
+    "enabled": false,
+    "host": "qd7pcafncosqfqu3ha6fcx4h6sr7tzwagzpcdcnytiw3b6varaeqv5yd.onion"
   },
   {
     "name": "medusa",
@@ -2147,14 +2147,14 @@
     "javascript_render": false,
     "meta": null,
     "profile": [],
-    "fqdn": "z6wkgghtoawog5noty5nxulmmt2zs7c3yvwr22v4czbffdoly2kl4uad.onion",
     "title": "502 Bad Gateway",
     "version": 3,
     "slug": "http://z6wkgghtoawog5noty5nxulmmt2zs7c3yvwr22v4czbffdoly2kl4uad.onion",
     "available": true,
     "updated": "2023-01-23 04:21:51.936422",
     "lastscrape": "2023-01-23 04:21:51.936410",
-    "enabled": true
+    "enabled": true,
+    "host": "z6wkgghtoawog5noty5nxulmmt2zs7c3yvwr22v4czbffdoly2kl4uad.onion"
   },
   {
     "name": "snatch",
@@ -2168,14 +2168,14 @@
       "https://news.sophos.com/en-us/2019/12/09/snatch-ransomware-reboots-pcs-into-safe-mode-to-bypass-protection/",
       "https://thedfirreport.com/2020/06/21/snatch-ransomware/"
     ],
-    "fqdn": "hl66646wtlp2naoqnhattngigjp5palgqmbwixepcjyq5i534acgqyad.onion",
     "title": "News",
     "version": 3,
     "slug": "http://hl66646wtlp2naoqnhattngigjp5palgqmbwixepcjyq5i534acgqyad.onion",
     "available": true,
     "updated": "2023-01-23 04:22:11.714918",
     "lastscrape": "2023-01-23 04:22:11.714904",
-    "enabled": true
+    "enabled": true,
+    "host": "hl66646wtlp2naoqnhattngigjp5palgqmbwixepcjyq5i534acgqyad.onion"
   },
   {
     "name": "snatch",
@@ -2189,14 +2189,14 @@
       "https://news.sophos.com/en-us/2019/12/09/snatch-ransomware-reboots-pcs-into-safe-mode-to-bypass-protection/",
       "https://thedfirreport.com/2020/06/21/snatch-ransomware/"
     ],
-    "fqdn": "snatch.press",
     "title": "News",
     "version": 0,
     "slug": "http://snatch.press",
     "available": false,
     "updated": "2022-12-13 06:20:17.094553",
     "lastscrape": "2022-12-13 06:20:17.094536",
-    "enabled": true
+    "enabled": true,
+    "host": "snatch.press"
   },
   {
     "name": "midas",
@@ -2205,14 +2205,14 @@
     "javascript_render": false,
     "meta": null,
     "profile": [],
-    "fqdn": "midasbkic5eyfox4dhnijkzc7v7e4hpmsb2qgux7diqbpna4up4rtdad.onion",
     "title": "Info",
     "version": 3,
     "slug": "http://midasbkic5eyfox4dhnijkzc7v7e4hpmsb2qgux7diqbpna4up4rtdad.onion/blog.php",
     "available": false,
     "updated": "2022-04-15 00:21:18.326838",
     "lastscrape": "2022-04-15 00:21:18.326820",
-    "enabled": false
+    "enabled": false,
+    "host": "midasbkic5eyfox4dhnijkzc7v7e4hpmsb2qgux7diqbpna4up4rtdad.onion"
   },
   {
     "name": "entropy",
@@ -2221,14 +2221,14 @@
     "javascript_render": false,
     "meta": "captcha prevents indexing",
     "profile": [],
-    "fqdn": "leaksv7sroztl377bbohzl42i3ddlfsxopcb6355zc7olzigedm5agad.onion",
     "title": "Entropy hall of fall",
     "version": 3,
     "slug": "http://leaksv7sroztl377bbohzl42i3ddlfsxopcb6355zc7olzigedm5agad.onion/posts",
     "available": false,
     "updated": "2022-02-27 08:16:28.769236",
     "lastscrape": "2022-02-27 08:16:28.769221",
-    "enabled": false
+    "enabled": false,
+    "host": "leaksv7sroztl377bbohzl42i3ddlfsxopcb6355zc7olzigedm5agad.onion"
   },
   {
     "name": "robinhood",
@@ -2241,14 +2241,14 @@
       "https://blog.malwarebytes.com/threat-spotlight/2020/02/threat-spotlight-robbinhood-ransomware-takes-the-drivers-seat/",
       "previous parser: Z3JlcCAnPGgyIGNsYXNzPSJ0aXRsZSInIHNvdXJjZS9yb2Jpbmhvb2QtKi5odG1sIC0tbm8tZmlsZW5hbWUgfCBjdXQgLWQgJz4nIC1mIDMgfCBjdXQgLWQgJzwnIC1mIDE="
     ],
-    "fqdn": "robinhoodleaks.tumblr.com",
     "title": "Not found.",
     "version": 0,
     "slug": "https://robinhoodleaks.tumblr.com",
     "available": false,
     "updated": "2022-12-11 04:36:25.155677",
     "lastscrape": "2022-12-11 04:36:25.155665",
-    "enabled": false
+    "enabled": false,
+    "host": "robinhoodleaks.tumblr.com"
   },
   {
     "name": "mosesstaff",
@@ -2263,14 +2263,14 @@
       "https://www.zdnet.com/article/mosesstaff-attackers-deploy-ransomware-on-your-systems-no-payment-no-decryption-possible/",
       "https://research.checkpoint.com/2021/mosesstaff-targeting-israeli-companies/"
     ],
-    "fqdn": "mosesstaffm7hptp.onion",
     "title": null,
     "version": 2,
     "slug": "http://mosesstaffm7hptp.onion",
     "available": false,
     "updated": null,
     "lastscrape": "2021-05-01 00:00:00.000000",
-    "enabled": false
+    "enabled": false,
+    "host": "mosesstaffm7hptp.onion"
   },
   {
     "name": "mosesstaff",
@@ -2285,14 +2285,14 @@
       "https://www.zdnet.com/article/mosesstaff-attackers-deploy-ransomware-on-your-systems-no-payment-no-decryption-possible/",
       "https://research.checkpoint.com/2021/mosesstaff-targeting-israeli-companies/"
     ],
-    "fqdn": "moses-staff.se",
     "title": "Activities \u2013 Moses Staff",
     "version": 0,
     "slug": "https://moses-staff.se/activities/",
     "available": true,
     "updated": "2023-01-23 04:22:29.469807",
     "lastscrape": "2023-01-23 04:22:29.469792",
-    "enabled": true
+    "enabled": true,
+    "host": "moses-staff.se"
   },
   {
     "name": "cooming",
@@ -2301,14 +2301,14 @@
     "javascript_render": false,
     "meta": "previous clearnet domain coomingproject.com",
     "profile": [],
-    "fqdn": "z6mikrtphid5fmn52nbcbg25tj57sowlm3oc25g563yvsfmygkcxqbyd.onion",
     "title": "CoomingProject announcement",
     "version": 3,
     "slug": "http://z6mikrtphid5fmn52nbcbg25tj57sowlm3oc25g563yvsfmygkcxqbyd.onion",
     "available": false,
     "updated": "2022-02-04 23:26:54.456975",
     "lastscrape": "2022-02-04 23:26:54.456960",
-    "enabled": false
+    "enabled": false,
+    "host": "z6mikrtphid5fmn52nbcbg25tj57sowlm3oc25g563yvsfmygkcxqbyd.onion"
   },
   {
     "name": "cooming",
@@ -2317,14 +2317,14 @@
     "javascript_render": false,
     "meta": "previous clearnet domain coomingproject.com",
     "profile": [],
-    "fqdn": "teo7aj5mfgzxyeme.onion",
     "title": null,
     "version": 2,
     "slug": "http://teo7aj5mfgzxyeme.onion",
     "available": false,
     "updated": null,
     "lastscrape": "2021-05-01 00:00:00.000000",
-    "enabled": false
+    "enabled": false,
+    "host": "teo7aj5mfgzxyeme.onion"
   },
   {
     "name": "aGl0bGVyCg",
@@ -2333,14 +2333,14 @@
     "javascript_render": false,
     "meta": null,
     "profile": [],
-    "fqdn": "hitleransomware.cf",
     "title": "Error Response Page",
     "version": 0,
     "slug": "http://hitleransomware.cf",
     "available": false,
     "updated": "2022-11-24 08:34:48.941969",
     "lastscrape": "2022-11-24 08:34:48.941955",
-    "enabled": false
+    "enabled": false,
+    "host": "hitleransomware.cf"
   },
   {
     "name": "rook",
@@ -2352,14 +2352,14 @@
       "https://www.sentinelone.com/labs/new-rook-ransomware-feeds-off-the-code-of-babuk/",
       "https://www.bleepingcomputer.com/news/security/rook-ransomware-is-yet-another-spawn-of-the-leaked-babuk-code/"
     ],
-    "fqdn": "gamol6n6p2p4c3ad7gxmx3ur7wwdwlywebo2azv3vv5qlmjmole2zbyd.onion",
     "title": "We Are Rook!!!",
     "version": 3,
     "slug": "http://gamol6n6p2p4c3ad7gxmx3ur7wwdwlywebo2azv3vv5qlmjmole2zbyd.onion",
     "available": false,
     "updated": "2022-01-26 15:24:16.586837",
     "lastscrape": "2022-01-26 15:24:16.586824",
-    "enabled": false
+    "enabled": false,
+    "host": "gamol6n6p2p4c3ad7gxmx3ur7wwdwlywebo2azv3vv5qlmjmole2zbyd.onion"
   },
   {
     "name": "unknown",
@@ -2368,14 +2368,14 @@
     "javascript_render": false,
     "meta": "nodes or hosts with no current attribution or identification",
     "profile": [],
-    "fqdn": "tdoe2fiiamwkiadhx2a4dfq56ztlqhzl2vckgwmjtoanfaya4kqvvvyd.onion",
     "title": null,
     "version": 3,
     "slug": "http://tdoe2fiiamwkiadhx2a4dfq56ztlqhzl2vckgwmjtoanfaya4kqvvvyd.onion",
     "available": false,
     "updated": null,
     "lastscrape": "2021-05-01 00:00:00.000000",
-    "enabled": false
+    "enabled": false,
+    "host": "tdoe2fiiamwkiadhx2a4dfq56ztlqhzl2vckgwmjtoanfaya4kqvvvyd.onion"
   },
   {
     "name": "unknown",
@@ -2384,14 +2384,14 @@
     "javascript_render": false,
     "meta": "nodes or hosts with no current attribution or identification",
     "profile": [],
-    "fqdn": "darktorhvabc652txfc575oendhykqcllb7bh7jhhsjduocdlyzdbmqd.onion",
     "title": null,
     "version": 3,
     "slug": "http://darktorhvabc652txfc575oendhykqcllb7bh7jhhsjduocdlyzdbmqd.onion",
     "available": false,
     "updated": null,
     "lastscrape": "2021-05-01 00:00:00.000000",
-    "enabled": false
+    "enabled": false,
+    "host": "darktorhvabc652txfc575oendhykqcllb7bh7jhhsjduocdlyzdbmqd.onion"
   },
   {
     "name": "rransom",
@@ -2400,14 +2400,14 @@
     "javascript_render": false,
     "meta": null,
     "profile": [],
-    "fqdn": "t2tqvp4pctcr7vxhgz5yd5x4ino5tw7jzs3whbntxirhp32djhi7q3id.onion",
     "title": null,
     "version": 3,
     "slug": "http://t2tqvp4pctcr7vxhgz5yd5x4ino5tw7jzs3whbntxirhp32djhi7q3id.onion",
     "available": true,
     "updated": "2023-01-23 04:22:37.803947",
     "lastscrape": "2023-01-23 04:22:37.803933",
-    "enabled": true
+    "enabled": true,
+    "host": "t2tqvp4pctcr7vxhgz5yd5x4ino5tw7jzs3whbntxirhp32djhi7q3id.onion"
   },
   {
     "name": "babyduck",
@@ -2418,14 +2418,14 @@
     "profile": [
       "https://twitter.com/PolarToffee/status/1445873002801889280?s=20"
     ],
-    "fqdn": "babydovegkmhbontykziyq7qivwzy33mu4ukqefe4mqpiiwd3wibnjqd.onion",
     "title": null,
     "version": 3,
     "slug": "http://babydovegkmhbontykziyq7qivwzy33mu4ukqefe4mqpiiwd3wibnjqd.onion",
     "available": false,
     "updated": null,
     "lastscrape": "2021-05-01 00:00:00.000000",
-    "enabled": false
+    "enabled": false,
+    "host": "babydovegkmhbontykziyq7qivwzy33mu4ukqefe4mqpiiwd3wibnjqd.onion"
   },
   {
     "name": "alphv",
@@ -2439,14 +2439,14 @@
       "https://securityaffairs.co/wordpress/126022/cyber-crime/inetum-hit-by-blackcat-ransomware.html",
       "https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/noberus-blackcat-alphv-rust-ransomware"
     ],
-    "fqdn": "alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad.onion",
     "title": "\u00a0",
     "version": 3,
     "slug": "http://alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad.onion/api/blog/all/0/6",
     "available": false,
     "updated": "2023-01-22 14:21:39.116167",
     "lastscrape": "2023-01-22 14:21:39.116153",
-    "enabled": true
+    "enabled": true,
+    "host": "alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad.onion"
   },
   {
     "name": "alphv",
@@ -2460,14 +2460,14 @@
       "https://securityaffairs.co/wordpress/126022/cyber-crime/inetum-hit-by-blackcat-ransomware.html",
       "https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/noberus-blackcat-alphv-rust-ransomware"
     ],
-    "fqdn": "2cuqgeerjdba2rhdiviezodpu3lc4qz2sjf4qin6f7std2evleqlzjid.onion",
     "title": null,
     "version": 3,
     "slug": "http://2cuqgeerjdba2rhdiviezodpu3lc4qz2sjf4qin6f7std2evleqlzjid.onion",
     "available": false,
     "updated": null,
     "lastscrape": "2021-05-01 00:00:00.000000",
-    "enabled": false
+    "enabled": false,
+    "host": "2cuqgeerjdba2rhdiviezodpu3lc4qz2sjf4qin6f7std2evleqlzjid.onion"
   },
   {
     "name": "alphv",
@@ -2481,14 +2481,14 @@
       "https://securityaffairs.co/wordpress/126022/cyber-crime/inetum-hit-by-blackcat-ransomware.html",
       "https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/noberus-blackcat-alphv-rust-ransomware"
     ],
-    "fqdn": "vqifktlreqpudvulhbzmc5gocbeawl67uvs2pttswemdorbnhaddohyd.onion",
     "title": "\u00a0",
     "version": 3,
     "slug": "http://vqifktlreqpudvulhbzmc5gocbeawl67uvs2pttswemdorbnhaddohyd.onion/search",
     "available": false,
     "updated": "2023-01-23 02:42:06.883386",
     "lastscrape": "2023-01-23 02:42:06.883373",
-    "enabled": true
+    "enabled": true,
+    "host": "vqifktlreqpudvulhbzmc5gocbeawl67uvs2pttswemdorbnhaddohyd.onion"
   },
   {
     "name": "cryp70n1c0d3",
@@ -2497,14 +2497,14 @@
     "javascript_render": false,
     "meta": "not a ransomware group, also ref 7k4y[...]7eid.onion/documents.html",
     "profile": [],
-    "fqdn": "7k4yyskpz3rxq5nyokf6ztbpywzbjtdfanweup3skctcxopmt7tq7eid.onion",
     "title": "|*| CRYP70N1C0D3 Team |*|",
     "version": 3,
     "slug": "http://7k4yyskpz3rxq5nyokf6ztbpywzbjtdfanweup3skctcxopmt7tq7eid.onion/databases.html",
     "available": false,
     "updated": "2023-01-21 04:28:49.859557",
     "lastscrape": "2023-01-21 04:28:49.859534",
-    "enabled": true
+    "enabled": true,
+    "host": "7k4yyskpz3rxq5nyokf6ztbpywzbjtdfanweup3skctcxopmt7tq7eid.onion"
   },
   {
     "name": "dread",
@@ -2513,14 +2513,14 @@
     "javascript_render": false,
     "meta": "marketplace - not a ransomware group",
     "profile": [],
-    "fqdn": "dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion",
     "title": "Dread Network Status",
     "version": 3,
     "slug": "http://dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion",
     "available": true,
     "updated": "2023-01-23 04:23:28.488491",
     "lastscrape": "2023-01-23 04:23:28.488476",
-    "enabled": true
+    "enabled": true,
+    "host": "dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion"
   },
   {
     "name": "againstthewest",
@@ -2529,14 +2529,14 @@
     "javascript_render": false,
     "meta": "closed forum, access sold from https://sellix.io/atwforums",
     "profile": [],
-    "fqdn": "giphvoitymatg4cv7bxqh5dz6sn6bfscywoat4qtslztkomf5lavrayd.onion",
     "title": "Threat Actors | Onion Forums  - Internal Error",
     "version": 3,
     "slug": "http://giphvoitymatg4cv7bxqh5dz6sn6bfscywoat4qtslztkomf5lavrayd.onion",
     "available": true,
     "updated": "2023-01-23 04:23:34.968457",
     "lastscrape": "2023-01-23 04:23:34.968443",
-    "enabled": true
+    "enabled": true,
+    "host": "giphvoitymatg4cv7bxqh5dz6sn6bfscywoat4qtslztkomf5lavrayd.onion"
   },
   {
     "name": "holyghost",
@@ -2545,14 +2545,14 @@
     "javascript_render": false,
     "meta": null,
     "profile": [],
-    "fqdn": "matmq3z3hiovia3voe2tix2x54sghc3tszj74xgdy4tqtypoycszqzqd.onion",
     "title": "HolyGhost",
     "version": 3,
     "slug": "http://matmq3z3hiovia3voe2tix2x54sghc3tszj74xgdy4tqtypoycszqzqd.onion",
     "available": false,
     "updated": "2022-04-22 17:36:43.267006",
     "lastscrape": "2022-04-22 17:36:43.266991",
-    "enabled": false
+    "enabled": false,
+    "host": "matmq3z3hiovia3voe2tix2x54sghc3tszj74xgdy4tqtypoycszqzqd.onion"
   },
   {
     "name": "nightsky",
@@ -2564,14 +2564,14 @@
       "https://t.me/arvin_club/5081",
       "https://twitter.com/malwrhunterteam/status/1477381209147723788?s=20"
     ],
-    "fqdn": "gg5ryfgogainisskdvh4y373ap3b2mxafcibeh2lvq5x7fx76ygcosad.onion",
     "title": "Night Sky",
     "version": 3,
     "slug": "http://gg5ryfgogainisskdvh4y373ap3b2mxafcibeh2lvq5x7fx76ygcosad.onion",
     "available": false,
     "updated": "2022-01-25 05:22:25.823033",
     "lastscrape": "2022-01-25 05:22:25.823021",
-    "enabled": false
+    "enabled": false,
+    "host": "gg5ryfgogainisskdvh4y373ap3b2mxafcibeh2lvq5x7fx76ygcosad.onion"
   },
   {
     "name": "ransomcartel",
@@ -2583,14 +2583,14 @@
       "https://t.me/arvin_club/5075",
       "https://twitter.com/i/web/status/1476488238521065476"
     ],
-    "fqdn": "u67aylig7i6l657wxmp274eoilaowhp3boljowa6bli63rxyzfzsbtyd.onion",
     "title": "Ransomware - Control Panel",
     "version": 3,
     "slug": "http://u67aylig7i6l657wxmp274eoilaowhp3boljowa6bli63rxyzfzsbtyd.onion",
     "available": false,
     "updated": "2022-03-03 18:21:44.305019",
     "lastscrape": "2022-03-03 18:21:44.305006",
-    "enabled": false
+    "enabled": false,
+    "host": "u67aylig7i6l657wxmp274eoilaowhp3boljowa6bli63rxyzfzsbtyd.onion"
   },
   {
     "name": "ransomcartel",
@@ -2602,14 +2602,14 @@
       "https://t.me/arvin_club/5075",
       "https://twitter.com/i/web/status/1476488238521065476"
     ],
-    "fqdn": "cartelirsn5l54ehcbalyyqtfb3j7be2rpvf6ujayaf5qqmg3vlwiayd.onion",
     "title": null,
     "version": 3,
     "slug": "http://cartelirsn5l54ehcbalyyqtfb3j7be2rpvf6ujayaf5qqmg3vlwiayd.onion",
     "available": false,
     "updated": null,
     "lastscrape": "2021-05-01 00:00:00.000000",
-    "enabled": false
+    "enabled": false,
+    "host": "cartelirsn5l54ehcbalyyqtfb3j7be2rpvf6ujayaf5qqmg3vlwiayd.onion"
   },
   {
     "name": "ransomcartel",
@@ -2621,14 +2621,14 @@
       "https://t.me/arvin_club/5075",
       "https://twitter.com/i/web/status/1476488238521065476"
     ],
-    "fqdn": "cartelraqonekult2cxbzzz2ukiff7v6cav3w373uuhenybgqulxm5id.onion",
     "title": "Ransom Cartel",
     "version": 3,
     "slug": "http://cartelraqonekult2cxbzzz2ukiff7v6cav3w373uuhenybgqulxm5id.onion/company/auth",
     "available": false,
     "updated": "2023-01-19 18:27:40.170188",
     "lastscrape": "2023-01-19 18:27:40.170172",
-    "enabled": true
+    "enabled": true,
+    "host": "cartelraqonekult2cxbzzz2ukiff7v6cav3w373uuhenybgqulxm5id.onion"
   },
   {
     "name": "adminlocker",
@@ -2639,14 +2639,14 @@
     "profile": [
       "http://t.me/dotADMINbot"
     ],
-    "fqdn": "adminavf4cikzbv6mbbp7ujpwhygnn2t3egiz2pswldj32krrml42wyd.onion",
     "title": "Admin Locker",
     "version": 3,
     "slug": "http://adminavf4cikzbv6mbbp7ujpwhygnn2t3egiz2pswldj32krrml42wyd.onion",
     "available": false,
     "updated": "2022-05-20 03:49:03.507418",
     "lastscrape": "2022-05-20 03:49:03.507403",
-    "enabled": false
+    "enabled": false,
+    "host": "adminavf4cikzbv6mbbp7ujpwhygnn2t3egiz2pswldj32krrml42wyd.onion"
   },
   {
     "name": "sugar",
@@ -2659,14 +2659,14 @@
       "https://medium.com/walmartglobaltech/sugar-ransomware-a-new-raas-a5d94d58d9fb",
       "https://www.bleepingcomputer.com/news/security/a-look-at-the-new-sugar-ransomware-demanding-low-ransoms/"
     ],
-    "fqdn": "chat5sqrnzqewampznybomgn4hf2m53tybkarxk4sfaktwt7oqpkcvyd.onion",
     "title": null,
     "version": 3,
     "slug": "http://chat5sqrnzqewampznybomgn4hf2m53tybkarxk4sfaktwt7oqpkcvyd.onion/gate.php",
     "available": false,
     "updated": "2022-12-19 08:23:20.545407",
     "lastscrape": "2022-12-19 08:23:20.545396",
-    "enabled": true
+    "enabled": true,
+    "host": "chat5sqrnzqewampznybomgn4hf2m53tybkarxk4sfaktwt7oqpkcvyd.onion"
   },
   {
     "name": "zeon",
@@ -2677,14 +2677,14 @@
     "profile": [
       "https://id-ransomware.blogspot.com/2022/02/"
     ],
-    "fqdn": "zeonrefpbompx6rwdqa5hxgtp2cxgfmoymlli3azoanisze33pp3x3yd.onion",
     "title": "ZEON.Recovery - Enter the key",
     "version": 3,
     "slug": "http://zeonrefpbompx6rwdqa5hxgtp2cxgfmoymlli3azoanisze33pp3x3yd.onion/chat",
     "available": true,
     "updated": "2023-01-23 04:24:21.349961",
     "lastscrape": "2023-01-23 04:24:21.349926",
-    "enabled": true
+    "enabled": true,
+    "host": "zeonrefpbompx6rwdqa5hxgtp2cxgfmoymlli3azoanisze33pp3x3yd.onion"
   },
   {
     "name": "freecivilian",
@@ -2693,14 +2693,14 @@
     "javascript_render": false,
     "meta": "not a ransomware group",
     "profile": [],
-    "fqdn": "gcbejm2rcjftouqbxuhimj5oroouqcuxb2my4raxqa7efkz5bd5464id.onion",
     "title": "Free Civilian",
     "version": 3,
     "slug": "http://gcbejm2rcjftouqbxuhimj5oroouqcuxb2my4raxqa7efkz5bd5464id.onion",
     "available": true,
     "updated": "2023-01-23 04:24:37.942886",
     "lastscrape": "2023-01-23 04:24:37.942873",
-    "enabled": true
+    "enabled": true,
+    "host": "gcbejm2rcjftouqbxuhimj5oroouqcuxb2my4raxqa7efkz5bd5464id.onion"
   },
   {
     "name": "pandora",
@@ -2711,14 +2711,14 @@
     "profile": [
       "contact@pandoraxyz.xyz"
     ],
-    "fqdn": "vbfqeh5nugm6r2u2qvghsdxm3fotf5wbxb5ltv6vw77vus5frdpuaiid.onion",
     "title": "Pandora Data Leak",
     "version": 3,
     "slug": "http://vbfqeh5nugm6r2u2qvghsdxm3fotf5wbxb5ltv6vw77vus5frdpuaiid.onion",
     "available": false,
     "updated": "2022-05-03 11:24:22.895487",
     "lastscrape": "2022-05-03 11:24:22.895473",
-    "enabled": false
+    "enabled": false,
+    "host": "vbfqeh5nugm6r2u2qvghsdxm3fotf5wbxb5ltv6vw77vus5frdpuaiid.onion"
   },
   {
     "name": "pandora",
@@ -2729,14 +2729,14 @@
     "profile": [
       "contact@pandoraxyz.xyz"
     ],
-    "fqdn": "pandoraxyz.xyz",
     "title": null,
     "version": 0,
     "slug": "http://pandoraxyz.xyz",
     "available": false,
     "updated": null,
     "lastscrape": "2021-05-01 00:00:00.000000",
-    "enabled": false
+    "enabled": false,
+    "host": "pandoraxyz.xyz"
   },
   {
     "name": "stormous",
@@ -2747,14 +2747,14 @@
     "profile": [
       "stormouss21@dnmx.org"
     ],
-    "fqdn": "3slz4povugieoi3tw7sblxoowxhbzxeju427cffsst5fo2tizepwatid.onion",
     "title": "Database Shop",
     "version": 3,
     "slug": "http://3slz4povugieoi3tw7sblxoowxhbzxeju427cffsst5fo2tizepwatid.onion/datashop.html",
     "available": false,
     "updated": "2022-05-09 22:27:33.062746",
     "lastscrape": "2022-05-09 22:27:33.062729",
-    "enabled": false
+    "enabled": false,
+    "host": "3slz4povugieoi3tw7sblxoowxhbzxeju427cffsst5fo2tizepwatid.onion"
   },
   {
     "name": "leaktheanalyst",
@@ -2763,14 +2763,14 @@
     "javascript_render": false,
     "meta": "not a ransomware group",
     "profile": [],
-    "fqdn": "leaktheanalyst.fireeye62c3da3fnosymmmcqcty7rl7cjucpbkzaz275a4qs5fgkzhad.onion",
     "title": "#LeakTheAnalyst",
     "version": 3,
     "slug": "http://leaktheanalyst.fireeye62c3da3fnosymmmcqcty7rl7cjucpbkzaz275a4qs5fgkzhad.onion/",
     "available": false,
     "updated": "2022-08-05 10:37:16.160568",
     "lastscrape": "2022-08-05 10:37:16.160554",
-    "enabled": false
+    "enabled": false,
+    "host": "leaktheanalyst.fireeye62c3da3fnosymmmcqcty7rl7cjucpbkzaz275a4qs5fgkzhad.onion"
   },
   {
     "name": "ranion",
@@ -2779,14 +2779,14 @@
     "javascript_render": false,
     "meta": null,
     "profile": [],
-    "fqdn": "ranionv3j2o7wrn3um6de33eccbchhg32mkgnnoi72enkpp7jc25h3ad.onion",
     "title": null,
     "version": 3,
     "slug": "http://ranionv3j2o7wrn3um6de33eccbchhg32mkgnnoi72enkpp7jc25h3ad.onion",
     "available": true,
     "updated": "2023-01-23 04:24:51.117452",
     "lastscrape": "2023-01-23 04:24:51.117440",
-    "enabled": true
+    "enabled": true,
+    "host": "ranionv3j2o7wrn3um6de33eccbchhg32mkgnnoi72enkpp7jc25h3ad.onion"
   },
   {
     "name": "x001xs",
@@ -2795,14 +2795,14 @@
     "javascript_render": false,
     "meta": null,
     "profile": [],
-    "fqdn": "nalr2uqsave7y2r235am5jsfiklfjh5h4jc5nztu3rzvmhklwt5j6kid.onion",
     "title": "BITCARDS - Prepaid cards",
     "version": 3,
     "slug": "http://nalr2uqsave7y2r235am5jsfiklfjh5h4jc5nztu3rzvmhklwt5j6kid.onion",
     "available": false,
     "updated": "2022-12-11 04:41:30.820296",
     "lastscrape": "2022-12-11 04:41:30.820284",
-    "enabled": false
+    "enabled": false,
+    "host": "nalr2uqsave7y2r235am5jsfiklfjh5h4jc5nztu3rzvmhklwt5j6kid.onion"
   },
   {
     "name": "kelvinsecurity",
@@ -2813,14 +2813,14 @@
     "profile": [
       "https://twitter.com/Ksecureteamlab"
     ],
-    "fqdn": "kelvinsecteamcyber.wixsite.com",
     "title": null,
     "version": 0,
     "slug": "https://kelvinsecteamcyber.wixsite.com/my-site/items",
     "available": false,
     "updated": "2022-12-11 04:41:32.050974",
     "lastscrape": "2022-12-11 04:41:32.050962",
-    "enabled": false
+    "enabled": false,
+    "host": "kelvinsecteamcyber.wixsite.com"
   },
   {
     "name": "blackbasta",
@@ -2829,14 +2829,14 @@
     "javascript_render": true,
     "meta": null,
     "profile": [],
-    "fqdn": "stniiomyjliimcgkvdszvgen3eaaoz55hreqqx6o77yvmpwt7gklffqd.onion",
     "title": "Black Basta Blog",
     "version": 3,
     "slug": "https://stniiomyjliimcgkvdszvgen3eaaoz55hreqqx6o77yvmpwt7gklffqd.onion/",
     "available": false,
     "updated": "2022-12-19 00:31:23.249230",
     "lastscrape": "2022-12-19 00:31:23.249213",
-    "enabled": true
+    "enabled": true,
+    "host": "stniiomyjliimcgkvdszvgen3eaaoz55hreqqx6o77yvmpwt7gklffqd.onion"
   },
   {
     "name": "blackbasta",
@@ -2845,14 +2845,14 @@
     "javascript_render": true,
     "meta": null,
     "profile": [],
-    "fqdn": "aazsbsgya565vlu2c6bzy6yfiebkcbtvvcytvolt33s77xypi7nypxyd.onion",
     "title": "Chat Black Basta",
     "version": 3,
     "slug": "https://aazsbsgya565vlu2c6bzy6yfiebkcbtvvcytvolt33s77xypi7nypxyd.onion/",
     "available": true,
     "updated": "2023-01-23 04:25:37.635701",
     "lastscrape": "2023-01-23 04:25:37.635687",
-    "enabled": true
+    "enabled": true,
+    "host": "aazsbsgya565vlu2c6bzy6yfiebkcbtvvcytvolt33s77xypi7nypxyd.onion"
   },
   {
     "name": "onyx",
@@ -2863,14 +2863,14 @@
     "profile": [
       "vsop@onionmail.org"
     ],
-    "fqdn": "mrdxtxy6vqeqbmb4rvbvueh2kukb3e3mhu3wdothqn7242gztxyzycid.onion",
     "title": "VSOP NEWS",
     "version": 3,
     "slug": "http://mrdxtxy6vqeqbmb4rvbvueh2kukb3e3mhu3wdothqn7242gztxyzycid.onion",
     "available": false,
     "updated": "2023-01-02 04:27:07.751479",
     "lastscrape": "2023-01-02 04:27:07.751467",
-    "enabled": true
+    "enabled": true,
+    "host": "mrdxtxy6vqeqbmb4rvbvueh2kukb3e3mhu3wdothqn7242gztxyzycid.onion"
   },
   {
     "name": "mindware",
@@ -2879,14 +2879,14 @@
     "javascript_render": false,
     "meta": null,
     "profile": [],
-    "fqdn": "dfpc7yvle5kxmgg6sbcp5ytggy3oeob676bjgwcwhyr2pwcrmbvoilqd.onion",
     "title": "DataLeakBlog",
     "version": 3,
     "slug": "https://dfpc7yvle5kxmgg6sbcp5ytggy3oeob676bjgwcwhyr2pwcrmbvoilqd.onion/",
     "available": false,
     "updated": "2022-08-16 10:33:38.900675",
     "lastscrape": "2022-08-16 10:33:38.900659",
-    "enabled": true
+    "enabled": true,
+    "host": "dfpc7yvle5kxmgg6sbcp5ytggy3oeob676bjgwcwhyr2pwcrmbvoilqd.onion"
   },
   {
     "name": "ransomhouse",
@@ -2897,14 +2897,14 @@
     "profile": [
       "https://t.me/ransom_house"
     ],
-    "fqdn": "xw7au5pnwtl6lozbsudkmyd32n6gnqdngitjdppybudan3x3pjgpmpid.onion",
     "title": "\u00a9RansomHouse",
     "version": 3,
     "slug": "http://xw7au5pnwtl6lozbsudkmyd32n6gnqdngitjdppybudan3x3pjgpmpid.onion/",
     "available": false,
     "updated": "2022-10-01 20:57:54.519450",
     "lastscrape": "2022-10-01 20:57:54.519431",
-    "enabled": true
+    "enabled": true,
+    "host": "xw7au5pnwtl6lozbsudkmyd32n6gnqdngitjdppybudan3x3pjgpmpid.onion"
   },
   {
     "name": "ransomhouse",
@@ -2915,14 +2915,14 @@
     "profile": [
       "https://t.me/ransom_house"
     ],
-    "fqdn": "zohlm7ahjwegcedoz7lrdrti7bvpofymcayotp744qhx6gjmxbuo2yid.onion",
     "title": null,
     "version": 3,
     "slug": "http://zohlm7ahjwegcedoz7lrdrti7bvpofymcayotp744qhx6gjmxbuo2yid.onion/a",
     "available": false,
     "updated": "2023-01-23 02:45:24.012105",
     "lastscrape": "2023-01-23 02:45:24.012092",
-    "enabled": true
+    "enabled": true,
+    "host": "zohlm7ahjwegcedoz7lrdrti7bvpofymcayotp744qhx6gjmxbuo2yid.onion"
   },
   {
     "name": "cheers",
@@ -2931,14 +2931,14 @@
     "javascript_render": false,
     "meta": null,
     "profile": [],
-    "fqdn": "rwiajgajdr4kzlnrj5zwebbukpcbrjhupjmk6gufxv6tg7myx34iocad.onion",
     "title": "Cheers!",
     "version": 3,
     "slug": "http://rwiajgajdr4kzlnrj5zwebbukpcbrjhupjmk6gufxv6tg7myx34iocad.onion",
     "available": false,
     "updated": "2022-09-20 05:18:11.903755",
     "lastscrape": "2022-09-20 05:18:11.903741",
-    "enabled": true
+    "enabled": true,
+    "host": "rwiajgajdr4kzlnrj5zwebbukpcbrjhupjmk6gufxv6tg7myx34iocad.onion"
   },
   {
     "name": "cheers",
@@ -2947,14 +2947,14 @@
     "javascript_render": false,
     "meta": null,
     "profile": [],
-    "fqdn": "crkfkmrh4qzbddfrl2axnkvjp5tgwx73d7lq4oycsfxc7pfgbfhtfiid.onion",
     "title": "sembmarine",
     "version": 3,
     "slug": "http://crkfkmrh4qzbddfrl2axnkvjp5tgwx73d7lq4oycsfxc7pfgbfhtfiid.onion/",
     "available": false,
     "updated": "2022-09-20 05:18:17.023692",
     "lastscrape": "2022-09-20 05:18:17.023676",
-    "enabled": true
+    "enabled": true,
+    "host": "crkfkmrh4qzbddfrl2axnkvjp5tgwx73d7lq4oycsfxc7pfgbfhtfiid.onion"
   },
   {
     "name": "darkangels",
@@ -2963,14 +2963,14 @@
     "javascript_render": false,
     "meta": "accessing over HTTP returns open dir 29/5/22, 89.38.225.166",
     "profile": [],
-    "fqdn": "wemo2ysyeq6km2nqhcrz63dkdhez3j25yw2nvn7xba2z4h7v7gyrfgid.onion",
     "title": "Home",
     "version": 3,
     "slug": "https://wemo2ysyeq6km2nqhcrz63dkdhez3j25yw2nvn7xba2z4h7v7gyrfgid.onion",
     "available": false,
     "updated": "2022-07-18 23:41:57.286530",
     "lastscrape": "2022-07-18 23:41:57.286517",
-    "enabled": true
+    "enabled": true,
+    "host": "wemo2ysyeq6km2nqhcrz63dkdhez3j25yw2nvn7xba2z4h7v7gyrfgid.onion"
   },
   {
     "name": "lockbit3",
@@ -2979,14 +2979,14 @@
     "javascript_render": true,
     "meta": null,
     "profile": [],
-    "fqdn": "lockbitapt2d73krlbewgv27tquljgxr33xbwwsp6rkyieto7u4ncead.onion",
     "title": null,
     "version": 3,
     "slug": "http://lockbitapt2d73krlbewgv27tquljgxr33xbwwsp6rkyieto7u4ncead.onion",
     "available": true,
     "updated": "2023-01-23 04:27:47.951205",
     "lastscrape": "2023-01-23 04:27:47.951193",
-    "enabled": true
+    "enabled": true,
+    "host": "lockbitapt2d73krlbewgv27tquljgxr33xbwwsp6rkyieto7u4ncead.onion"
   },
   {
     "name": "lockbit3",
@@ -2995,14 +2995,14 @@
     "javascript_render": true,
     "meta": null,
     "profile": [],
-    "fqdn": "lockbitapt2yfbt7lchxejug47kmqvqqxvvjpqkmevv4l3azl3gy6pyd.onion",
     "title": "LockBit BLOG",
     "version": 3,
     "slug": "http://lockbitapt2yfbt7lchxejug47kmqvqqxvvjpqkmevv4l3azl3gy6pyd.onion",
     "available": true,
     "updated": "2023-01-23 04:30:40.313365",
     "lastscrape": "2023-01-23 04:30:40.313349",
-    "enabled": true
+    "enabled": true,
+    "host": "lockbitapt2yfbt7lchxejug47kmqvqqxvvjpqkmevv4l3azl3gy6pyd.onion"
   },
   {
     "name": "lockbit3",
@@ -3011,14 +3011,14 @@
     "javascript_render": true,
     "meta": null,
     "profile": [],
-    "fqdn": "lockbitapt34kvrip6xojylohhxrwsvpzdffgs5z4pbbsywnzsbdguqd.onion",
     "title": null,
     "version": 3,
     "slug": "http://lockbitapt34kvrip6xojylohhxrwsvpzdffgs5z4pbbsywnzsbdguqd.onion",
     "available": true,
     "updated": "2023-01-23 04:30:55.564394",
     "lastscrape": "2023-01-23 04:30:55.564382",
-    "enabled": true
+    "enabled": true,
+    "host": "lockbitapt34kvrip6xojylohhxrwsvpzdffgs5z4pbbsywnzsbdguqd.onion"
   },
   {
     "name": "lockbit3",
@@ -3027,14 +3027,14 @@
     "javascript_render": true,
     "meta": null,
     "profile": [],
-    "fqdn": "lockbitapt5x4zkjbcqmz6frdhecqqgadevyiwqxukksspnlidyvd7qd.onion",
     "title": null,
     "version": 3,
     "slug": "http://lockbitapt5x4zkjbcqmz6frdhecqqgadevyiwqxukksspnlidyvd7qd.onion",
     "available": true,
     "updated": "2023-01-23 04:31:13.807958",
     "lastscrape": "2023-01-23 04:31:13.807946",
-    "enabled": true
+    "enabled": true,
+    "host": "lockbitapt5x4zkjbcqmz6frdhecqqgadevyiwqxukksspnlidyvd7qd.onion"
   },
   {
     "name": "lockbit3",
@@ -3043,14 +3043,14 @@
     "javascript_render": true,
     "meta": null,
     "profile": [],
-    "fqdn": "lockbitapt6vx57t3eeqjofwgcglmutr3a35nygvokja5uuccip4ykyd.onion",
     "title": "LockBit BLOG",
     "version": 3,
     "slug": "http://lockbitapt6vx57t3eeqjofwgcglmutr3a35nygvokja5uuccip4ykyd.onion",
     "available": true,
     "updated": "2023-01-23 04:31:32.140881",
     "lastscrape": "2023-01-23 04:31:32.140863",
-    "enabled": true
+    "enabled": true,
+    "host": "lockbitapt6vx57t3eeqjofwgcglmutr3a35nygvokja5uuccip4ykyd.onion"
   },
   {
     "name": "lockbit3",
@@ -3059,14 +3059,14 @@
     "javascript_render": true,
     "meta": null,
     "profile": [],
-    "fqdn": "lockbitapt72iw55njgnqpymggskg5yp75ry7rirtdg4m7i42artsbqd.onion",
     "title": null,
     "version": 3,
     "slug": "http://lockbitapt72iw55njgnqpymggskg5yp75ry7rirtdg4m7i42artsbqd.onion",
     "available": true,
     "updated": "2023-01-23 04:32:19.859257",
     "lastscrape": "2023-01-23 04:32:19.859243",
-    "enabled": true
+    "enabled": true,
+    "host": "lockbitapt72iw55njgnqpymggskg5yp75ry7rirtdg4m7i42artsbqd.onion"
   },
   {
     "name": "lockbit3",
@@ -3075,14 +3075,14 @@
     "javascript_render": true,
     "meta": null,
     "profile": [],
-    "fqdn": "lockbitaptawjl6udhpd323uehekiyatj6ftcxmkwe5sezs4fqgpjpid.onion",
     "title": null,
     "version": 3,
     "slug": "http://lockbitaptawjl6udhpd323uehekiyatj6ftcxmkwe5sezs4fqgpjpid.onion",
     "available": true,
     "updated": "2023-01-23 04:32:46.205460",
     "lastscrape": "2023-01-23 04:32:46.205447",
-    "enabled": true
+    "enabled": true,
+    "host": "lockbitaptawjl6udhpd323uehekiyatj6ftcxmkwe5sezs4fqgpjpid.onion"
   },
   {
     "name": "lockbit3",
@@ -3091,14 +3091,14 @@
     "javascript_render": true,
     "meta": null,
     "profile": [],
-    "fqdn": "lockbitaptbdiajqtplcrigzgdjprwugkkut63nbvy2d5r4w2agyekqd.onion",
     "title": null,
     "version": 3,
     "slug": "http://lockbitaptbdiajqtplcrigzgdjprwugkkut63nbvy2d5r4w2agyekqd.onion",
     "available": true,
     "updated": "2023-01-23 04:33:12.617499",
     "lastscrape": "2023-01-23 04:33:12.617486",
-    "enabled": true
+    "enabled": true,
+    "host": "lockbitaptbdiajqtplcrigzgdjprwugkkut63nbvy2d5r4w2agyekqd.onion"
   },
   {
     "name": "lockbit3",
@@ -3107,14 +3107,14 @@
     "javascript_render": true,
     "meta": null,
     "profile": [],
-    "fqdn": "lockbitaptc2iq4atewz2ise62q63wfktyrl4qtwuk5qax262kgtzjqd.onion",
     "title": null,
     "version": 3,
     "slug": "http://lockbitaptc2iq4atewz2ise62q63wfktyrl4qtwuk5qax262kgtzjqd.onion",
     "available": false,
     "updated": "2023-01-23 02:51:03.539716",
     "lastscrape": "2023-01-23 02:51:03.539703",
-    "enabled": true
+    "enabled": true,
+    "host": "lockbitaptc2iq4atewz2ise62q63wfktyrl4qtwuk5qax262kgtzjqd.onion"
   },
   {
     "name": "lockbit3",
@@ -3123,14 +3123,14 @@
     "javascript_render": true,
     "meta": null,
     "profile": [],
-    "fqdn": "lockbitapt72iw55njgnqpymggskg5yp75ry7rirtdg4m7i42artsbqd.onion",
     "title": null,
     "version": 3,
     "slug": "http://lockbitapt72iw55njgnqpymggskg5yp75ry7rirtdg4m7i42artsbqd.onion",
     "available": true,
     "updated": "2023-01-23 04:33:48.750509",
     "lastscrape": "2023-01-23 04:33:48.750495",
-    "enabled": true
+    "enabled": true,
+    "host": "lockbitapt72iw55njgnqpymggskg5yp75ry7rirtdg4m7i42artsbqd.onion"
   },
   {
     "name": "lockbit3",
@@ -3139,14 +3139,14 @@
     "javascript_render": true,
     "meta": null,
     "profile": [],
-    "fqdn": "lockbitsupa7e3b4pkn4mgkgojrl5iqgx24clbzc4xm7i6jeetsia3qd.onion",
     "title": null,
     "version": 3,
     "slug": "http://lockbitsupa7e3b4pkn4mgkgojrl5iqgx24clbzc4xm7i6jeetsia3qd.onion",
     "available": true,
     "updated": "2023-01-23 04:34:15.066613",
     "lastscrape": "2023-01-23 04:34:15.066599",
-    "enabled": true
+    "enabled": true,
+    "host": "lockbitsupa7e3b4pkn4mgkgojrl5iqgx24clbzc4xm7i6jeetsia3qd.onion"
   },
   {
     "name": "lockbit3",
@@ -3155,14 +3155,14 @@
     "javascript_render": true,
     "meta": null,
     "profile": [],
-    "fqdn": "lockbitsupdwon76nzykzblcplixwts4n4zoecugz2bxabtapqvmzqqd.onion",
     "title": null,
     "version": 3,
     "slug": "http://lockbitsupdwon76nzykzblcplixwts4n4zoecugz2bxabtapqvmzqqd.onion",
     "available": true,
     "updated": "2023-01-23 04:34:41.082591",
     "lastscrape": "2023-01-23 04:34:41.082577",
-    "enabled": true
+    "enabled": true,
+    "host": "lockbitsupdwon76nzykzblcplixwts4n4zoecugz2bxabtapqvmzqqd.onion"
   },
   {
     "name": "lockbit3",
@@ -3171,14 +3171,14 @@
     "javascript_render": true,
     "meta": null,
     "profile": [],
-    "fqdn": "lockbitsupn2h6be2cnqpvncyhj4rgmnwn44633hnzzmtxdvjoqlp7yd.onion",
     "title": "LockBit Anti-DDoS",
     "version": 3,
     "slug": "http://lockbitsupn2h6be2cnqpvncyhj4rgmnwn44633hnzzmtxdvjoqlp7yd.onion",
     "available": true,
     "updated": "2023-01-23 04:35:13.999122",
     "lastscrape": "2023-01-23 04:35:13.999108",
-    "enabled": true
+    "enabled": true,
+    "host": "lockbitsupn2h6be2cnqpvncyhj4rgmnwn44633hnzzmtxdvjoqlp7yd.onion"
   },
   {
     "name": "lockbit3",
@@ -3187,14 +3187,14 @@
     "javascript_render": true,
     "meta": null,
     "profile": [],
-    "fqdn": "lockbitsupo7vv5vcl3jxpsdviopwvasljqcstym6efhh6oze7c6xjad.onion",
     "title": "LockBit Anti-DDoS",
     "version": 3,
     "slug": "http://lockbitsupo7vv5vcl3jxpsdviopwvasljqcstym6efhh6oze7c6xjad.onion",
     "available": true,
     "updated": "2023-01-23 04:35:42.105801",
     "lastscrape": "2023-01-23 04:35:42.105788",
-    "enabled": true
+    "enabled": true,
+    "host": "lockbitsupo7vv5vcl3jxpsdviopwvasljqcstym6efhh6oze7c6xjad.onion"
   },
   {
     "name": "lockbit3",
@@ -3203,14 +3203,14 @@
     "javascript_render": true,
     "meta": null,
     "profile": [],
-    "fqdn": "lockbitsupqfyacidr6upt6nhhyipujvaablubuevxj6xy3frthvr3yd.onion",
     "title": "LockBit Anti-DDoS",
     "version": 3,
     "slug": "http://lockbitsupqfyacidr6upt6nhhyipujvaablubuevxj6xy3frthvr3yd.onion",
     "available": true,
     "updated": "2023-01-23 04:36:07.987709",
     "lastscrape": "2023-01-23 04:36:07.987695",
-    "enabled": true
+    "enabled": true,
+    "host": "lockbitsupqfyacidr6upt6nhhyipujvaablubuevxj6xy3frthvr3yd.onion"
   },
   {
     "name": "lockbit3",
@@ -3219,14 +3219,14 @@
     "javascript_render": true,
     "meta": null,
     "profile": [],
-    "fqdn": "lockbitsupt7nr3fa6e7xyb73lk6bw6rcneqhoyblniiabj4uwvzapqd.onion",
     "title": null,
     "version": 3,
     "slug": "http://lockbitsupt7nr3fa6e7xyb73lk6bw6rcneqhoyblniiabj4uwvzapqd.onion",
     "available": true,
     "updated": "2023-01-23 04:36:24.323286",
     "lastscrape": "2023-01-23 04:36:24.323273",
-    "enabled": true
+    "enabled": true,
+    "host": "lockbitsupt7nr3fa6e7xyb73lk6bw6rcneqhoyblniiabj4uwvzapqd.onion"
   },
   {
     "name": "lockbit3",
@@ -3235,14 +3235,14 @@
     "javascript_render": true,
     "meta": null,
     "profile": [],
-    "fqdn": "lockbitsupuhswh4izvoucoxsbnotkmgq6durg7kficg6u33zfvq3oyd.onion",
     "title": "LockBit LOGIN",
     "version": 3,
     "slug": "http://lockbitsupuhswh4izvoucoxsbnotkmgq6durg7kficg6u33zfvq3oyd.onion/form",
     "available": true,
     "updated": "2023-01-23 04:36:41.266617",
     "lastscrape": "2023-01-23 04:36:41.266604",
-    "enabled": true
+    "enabled": true,
+    "host": "lockbitsupuhswh4izvoucoxsbnotkmgq6durg7kficg6u33zfvq3oyd.onion"
   },
   {
     "name": "lockbit3",
@@ -3251,14 +3251,14 @@
     "javascript_render": true,
     "meta": null,
     "profile": [],
-    "fqdn": "lockbitsupxcjntihbmat4rrh7ktowips2qzywh6zer5r3xafhviyhqd.onion",
     "title": "LockBit LOGIN",
     "version": 3,
     "slug": "http://lockbitsupxcjntihbmat4rrh7ktowips2qzywh6zer5r3xafhviyhqd.onion/form",
     "available": true,
     "updated": "2023-01-23 04:36:54.930914",
     "lastscrape": "2023-01-23 04:36:54.930900",
-    "enabled": true
+    "enabled": true,
+    "host": "lockbitsupxcjntihbmat4rrh7ktowips2qzywh6zer5r3xafhviyhqd.onion"
   },
   {
     "name": "lockbit3",
@@ -3267,14 +3267,14 @@
     "javascript_render": true,
     "meta": null,
     "profile": [],
-    "fqdn": "lockbitsupq3g62dni2f36snrdb4n5qzqvovbtkt5xffw3draxk6gwqd.onion",
     "title": null,
     "version": 3,
     "slug": "http://lockbitsupq3g62dni2f36snrdb4n5qzqvovbtkt5xffw3draxk6gwqd.onion/form",
     "available": true,
     "updated": "2023-01-23 04:37:33.889531",
     "lastscrape": "2023-01-23 04:37:33.889516",
-    "enabled": true
+    "enabled": true,
+    "host": "lockbitsupq3g62dni2f36snrdb4n5qzqvovbtkt5xffw3draxk6gwqd.onion"
   },
   {
     "name": "lockbit3",
@@ -3283,14 +3283,14 @@
     "javascript_render": true,
     "meta": null,
     "profile": [],
-    "fqdn": "lockbitfile2tcudkcqqt2ve6btssyvqwlizbpv5vz337lslmhff2uad.onion",
     "title": "LockBit File Share",
     "version": 3,
     "slug": "http://lockbitfile2tcudkcqqt2ve6btssyvqwlizbpv5vz337lslmhff2uad.onion/",
     "available": true,
     "updated": "2023-01-23 04:38:02.026842",
     "lastscrape": "2023-01-23 04:38:02.026829",
-    "enabled": true
+    "enabled": true,
+    "host": "lockbitfile2tcudkcqqt2ve6btssyvqwlizbpv5vz337lslmhff2uad.onion"
   },
   {
     "name": "lockbit3",
@@ -3299,14 +3299,14 @@
     "javascript_render": true,
     "meta": null,
     "profile": [],
-    "fqdn": "lockbitnotexk2vnf2q2zwjefsl3hjsnk4u74vq4chxrqpjclfydk4ad.onion",
     "title": "LockBit Private Note",
     "version": 3,
     "slug": "http://lockbitnotexk2vnf2q2zwjefsl3hjsnk4u74vq4chxrqpjclfydk4ad.onion/",
     "available": true,
     "updated": "2023-01-23 04:38:33.353849",
     "lastscrape": "2023-01-23 04:38:33.353835",
-    "enabled": true
+    "enabled": true,
+    "host": "lockbitnotexk2vnf2q2zwjefsl3hjsnk4u74vq4chxrqpjclfydk4ad.onion"
   },
   {
     "name": "bluesky",
@@ -3315,14 +3315,14 @@
     "javascript_render": false,
     "meta": null,
     "profile": [],
-    "fqdn": "ccpyeuptrlatb2piua4ukhnhi7lrxgerrcrj4p2b5uhbzqm2xgdjaqid.onion",
     "title": "BlueSky DECRYPTOR",
     "version": 3,
     "slug": "http://ccpyeuptrlatb2piua4ukhnhi7lrxgerrcrj4p2b5uhbzqm2xgdjaqid.onion",
     "available": true,
     "updated": "2023-01-23 04:38:53.182528",
     "lastscrape": "2023-01-23 04:38:53.182516",
-    "enabled": true
+    "enabled": true,
+    "host": "ccpyeuptrlatb2piua4ukhnhi7lrxgerrcrj4p2b5uhbzqm2xgdjaqid.onion"
   },
   {
     "name": "solidbit",
@@ -3331,14 +3331,14 @@
     "javascript_render": false,
     "meta": null,
     "profile": [],
-    "fqdn": "solidb2jco63vbhx4sfimnqmwhtdjk4jbbgq7a24cmzzkfse4rduxgid.onion",
     "title": "SOLIDBIT LOGIN",
     "version": 3,
     "slug": "http://solidb2jco63vbhx4sfimnqmwhtdjk4jbbgq7a24cmzzkfse4rduxgid.onion/login",
     "available": false,
     "updated": "2022-08-27 10:46:42.853896",
     "lastscrape": "2022-08-27 10:46:42.853880",
-    "enabled": true
+    "enabled": true,
+    "host": "solidb2jco63vbhx4sfimnqmwhtdjk4jbbgq7a24cmzzkfse4rduxgid.onion"
   },
   {
     "name": "yanluowang",
@@ -3347,14 +3347,14 @@
     "javascript_render": false,
     "meta": null,
     "profile": [],
-    "fqdn": "jukswsxbh3jsxuddvidrjdvwuohtsy4kxg2axbppiyclomt2qciyfoad.onion",
     "title": "Yanluowang",
     "version": 3,
     "slug": "http://jukswsxbh3jsxuddvidrjdvwuohtsy4kxg2axbppiyclomt2qciyfoad.onion",
     "available": false,
     "updated": "2022-11-01 16:42:08.390443",
     "lastscrape": "2022-11-01 16:42:08.390431",
-    "enabled": true
+    "enabled": true,
+    "host": "jukswsxbh3jsxuddvidrjdvwuohtsy4kxg2axbppiyclomt2qciyfoad.onion"
   },
   {
     "name": "nokoyawa",
@@ -3363,14 +3363,14 @@
     "javascript_render": false,
     "meta": null,
     "profile": [],
-    "fqdn": "lirncvjfmdhv6samxvvlohfqx7jklfxoxj7xn3fh7qeabs3taemdsdqd.onion",
     "title": "NOKOYAWA Leaks",
     "version": 3,
     "slug": "http://lirncvjfmdhv6samxvvlohfqx7jklfxoxj7xn3fh7qeabs3taemdsdqd.onion/",
     "available": false,
     "updated": "2022-07-11 22:26:00.512463",
     "lastscrape": "2022-07-11 22:26:00.512452",
-    "enabled": true
+    "enabled": true,
+    "host": "lirncvjfmdhv6samxvvlohfqx7jklfxoxj7xn3fh7qeabs3taemdsdqd.onion"
   },
   {
     "name": "nokoyawa",
@@ -3379,14 +3379,14 @@
     "javascript_render": false,
     "meta": null,
     "profile": [],
-    "fqdn": "6yofnrq7evqrtz3tzi3dkbrdovtywd35lx3iqbc5dyh367nrdh4jgfyd.onion",
     "title": "NOKOYAWA Leaks",
     "version": 3,
     "slug": "http://6yofnrq7evqrtz3tzi3dkbrdovtywd35lx3iqbc5dyh367nrdh4jgfyd.onion",
     "available": true,
     "updated": "2023-01-23 04:40:10.530105",
     "lastscrape": "2023-01-23 04:40:10.530092",
-    "enabled": true
+    "enabled": true,
+    "host": "6yofnrq7evqrtz3tzi3dkbrdovtywd35lx3iqbc5dyh367nrdh4jgfyd.onion"
   },
   {
     "name": "karakurt",
@@ -3395,14 +3395,14 @@
     "javascript_render": true,
     "meta": null,
     "profile": [],
-    "fqdn": "omx5iqrdbsoitf3q4xexrqw5r5tfw7vp3vl3li3lfo7saabxazshnead.onion",
     "title": "Chat",
     "version": 3,
     "slug": "https://omx5iqrdbsoitf3q4xexrqw5r5tfw7vp3vl3li3lfo7saabxazshnead.onion",
     "available": true,
     "updated": "2023-01-23 04:40:28.775970",
     "lastscrape": "2023-01-23 04:40:28.775959",
-    "enabled": true
+    "enabled": true,
+    "host": "omx5iqrdbsoitf3q4xexrqw5r5tfw7vp3vl3li3lfo7saabxazshnead.onion"
   },
   {
     "name": "karakurt",
@@ -3411,14 +3411,14 @@
     "javascript_render": true,
     "meta": null,
     "profile": [],
-    "fqdn": "3f7nxkjway3d223j27lyad7v5cgmyaifesycvmwq7i7cbs23lb6llryd.onion",
     "title": "Magazine",
     "version": 3,
     "slug": "https://3f7nxkjway3d223j27lyad7v5cgmyaifesycvmwq7i7cbs23lb6llryd.onion",
     "available": true,
     "updated": "2023-01-23 04:40:48.764453",
     "lastscrape": "2023-01-23 04:40:48.764440",
-    "enabled": true
+    "enabled": true,
+    "host": "3f7nxkjway3d223j27lyad7v5cgmyaifesycvmwq7i7cbs23lb6llryd.onion"
   },
   {
     "name": "karakurt",
@@ -3427,14 +3427,14 @@
     "javascript_render": true,
     "meta": null,
     "profile": [],
-    "fqdn": "karaleaks.com",
     "title": null,
     "version": 0,
     "slug": "https://karaleaks.com",
     "available": false,
     "updated": null,
     "lastscrape": "2021-05-01 00:00:00.000000",
-    "enabled": false
+    "enabled": false,
+    "host": "karaleaks.com"
   },
   {
     "name": "redalert",
@@ -3445,14 +3445,14 @@
     "profile": [
       "https://www.bleepingcomputer.com/news/security/new-redalert-ransomware-targets-windows-linux-vmware-esxi-servers/"
     ],
-    "fqdn": "blog2hkbm6gogpv2b3uytzi3bj5d5zmc4asbybumjkhuqhas355janyd.onion",
     "title": "Board of shame",
     "version": 3,
     "slug": "http://blog2hkbm6gogpv2b3uytzi3bj5d5zmc4asbybumjkhuqhas355janyd.onion",
     "available": false,
     "updated": "2022-12-08 09:01:43.063375",
     "lastscrape": "2022-12-08 09:01:43.063362",
-    "enabled": true
+    "enabled": true,
+    "host": "blog2hkbm6gogpv2b3uytzi3bj5d5zmc4asbybumjkhuqhas355janyd.onion"
   },
   {
     "name": "bianlian",
@@ -3464,14 +3464,14 @@
       "A4B3B0845DA242A64BF17E0DB4278EDF85855739667D3E2AE8B89D5439015F07E81D12D767FC",
       "SWikipedia@mail2tor.com"
     ],
-    "fqdn": "bianlianlbc5an4kgnay3opdemgcryg2kpfcbgczopmm3dnbz3uaunad.onion",
     "title": "Companies - BianLian",
     "version": 3,
     "slug": "http://bianlianlbc5an4kgnay3opdemgcryg2kpfcbgczopmm3dnbz3uaunad.onion/companies/",
     "available": false,
     "updated": "2023-01-23 02:58:43.613106",
     "lastscrape": "2023-01-23 02:58:43.613094",
-    "enabled": true
+    "enabled": true,
+    "host": "bianlianlbc5an4kgnay3opdemgcryg2kpfcbgczopmm3dnbz3uaunad.onion"
   },
   {
     "name": "0mega",
@@ -3480,14 +3480,14 @@
     "javascript_render": false,
     "meta": null,
     "profile": [],
-    "fqdn": "omegalock5zxwbhswbisc42o2q2i54vdulyvtqqbudqousisjgc7j7yd.onion",
     "title": "0mega | Blog",
     "version": 3,
     "slug": "http://omegalock5zxwbhswbisc42o2q2i54vdulyvtqqbudqousisjgc7j7yd.onion",
     "available": true,
     "updated": "2023-01-23 04:42:40.688719",
     "lastscrape": "2023-01-23 04:42:40.688705",
-    "enabled": true
+    "enabled": true,
+    "host": "omegalock5zxwbhswbisc42o2q2i54vdulyvtqqbudqousisjgc7j7yd.onion"
   },
   {
     "name": "0mega",
@@ -3496,14 +3496,14 @@
     "javascript_render": false,
     "meta": null,
     "profile": [],
-    "fqdn": "0mega.cc",
     "title": "0mega | Blog",
     "version": 0,
     "slug": "http://0mega.cc",
     "available": true,
     "updated": "2023-01-23 04:42:45.611339",
     "lastscrape": "2023-01-23 04:42:45.611324",
-    "enabled": true
+    "enabled": true,
+    "host": "0mega.cc"
   },
   {
     "name": "lilith",
@@ -3514,14 +3514,14 @@
     "profile": [
       "BAC01607F29EC417FB4106AEAB5BDF79CD948F9120C8D889E8785ADFDCE88C00F08429E092EC"
     ],
-    "fqdn": "yeuajcizwytgmrntijhxphs6wn5txp2prs6rpndafbsapek3zd4ubcid.onion",
     "title": "Lilith",
     "version": 3,
     "slug": "http://yeuajcizwytgmrntijhxphs6wn5txp2prs6rpndafbsapek3zd4ubcid.onion",
     "available": false,
     "updated": "2022-08-09 14:56:54.209189",
     "lastscrape": "2022-08-09 14:56:54.209173",
-    "enabled": true
+    "enabled": true,
+    "host": "yeuajcizwytgmrntijhxphs6wn5txp2prs6rpndafbsapek3zd4ubcid.onion"
   },
   {
     "name": "lockbit3_fs",
@@ -3530,14 +3530,14 @@
     "javascript_render": false,
     "meta": null,
     "profile": [],
-    "fqdn": "lockbit7z2jwcskxpbokpemdxmltipntwlkmidcll2qirbu7ykg46eyd.onion",
     "title": "LockBit - Leaked",
     "version": 3,
     "slug": "http://lockbit7z2jwcskxpbokpemdxmltipntwlkmidcll2qirbu7ykg46eyd.onion",
     "available": true,
     "updated": "2023-01-23 04:43:13.059592",
     "lastscrape": "2023-01-23 04:43:13.059577",
-    "enabled": true
+    "enabled": true,
+    "host": "lockbit7z2jwcskxpbokpemdxmltipntwlkmidcll2qirbu7ykg46eyd.onion"
   },
   {
     "name": "lockbit3_fs",
@@ -3546,14 +3546,14 @@
     "javascript_render": false,
     "meta": null,
     "profile": [],
-    "fqdn": "lockbit7z2mmiz3ryxafn5kapbvbbiywsxwovasfkgf5dqqp5kxlajad.onion",
     "title": "LockBit - Leaked",
     "version": 3,
     "slug": "http://lockbit7z2mmiz3ryxafn5kapbvbbiywsxwovasfkgf5dqqp5kxlajad.onion",
     "available": true,
     "updated": "2023-01-23 04:43:18.246009",
     "lastscrape": "2023-01-23 04:43:18.245993",
-    "enabled": true
+    "enabled": true,
+    "host": "lockbit7z2mmiz3ryxafn5kapbvbbiywsxwovasfkgf5dqqp5kxlajad.onion"
   },
   {
     "name": "lockbit3_fs",
@@ -3562,14 +3562,14 @@
     "javascript_render": false,
     "meta": null,
     "profile": [],
-    "fqdn": "lockbit7z2og4jlsmdy7dzty3g42eu3gh2sx2b6ywtvhrjtss7li4fyd.onion",
     "title": "LockBit - Leaked",
     "version": 3,
     "slug": "http://lockbit7z2og4jlsmdy7dzty3g42eu3gh2sx2b6ywtvhrjtss7li4fyd.onion",
     "available": true,
     "updated": "2023-01-23 04:43:23.147955",
     "lastscrape": "2023-01-23 04:43:23.147941",
-    "enabled": true
+    "enabled": true,
+    "host": "lockbit7z2og4jlsmdy7dzty3g42eu3gh2sx2b6ywtvhrjtss7li4fyd.onion"
   },
   {
     "name": "lockbit3_fs",
@@ -3578,14 +3578,14 @@
     "javascript_render": false,
     "meta": null,
     "profile": [],
-    "fqdn": "lockbit7z355oalq4hiy5p7de64l6rsqutwlvydqje56uvevcc57r6qd.onion",
     "title": "LockBit - Leaked",
     "version": 3,
     "slug": "http://lockbit7z355oalq4hiy5p7de64l6rsqutwlvydqje56uvevcc57r6qd.onion",
     "available": true,
     "updated": "2023-01-23 04:43:26.892648",
     "lastscrape": "2023-01-23 04:43:26.892634",
-    "enabled": true
+    "enabled": true,
+    "host": "lockbit7z355oalq4hiy5p7de64l6rsqutwlvydqje56uvevcc57r6qd.onion"
   },
   {
     "name": "lockbit3_fs",
@@ -3594,14 +3594,14 @@
     "javascript_render": false,
     "meta": null,
     "profile": [],
-    "fqdn": "lockbit7z36ynytxwjzuoao46ck7b3753gpedary3qvuizn3iczhe4id.onion",
     "title": "LockBit - Leaked",
     "version": 3,
     "slug": "http://lockbit7z36ynytxwjzuoao46ck7b3753gpedary3qvuizn3iczhe4id.onion",
     "available": true,
     "updated": "2023-01-23 04:43:38.708153",
     "lastscrape": "2023-01-23 04:43:38.708138",
-    "enabled": true
+    "enabled": true,
+    "host": "lockbit7z36ynytxwjzuoao46ck7b3753gpedary3qvuizn3iczhe4id.onion"
   },
   {
     "name": "lockbit3_fs",
@@ -3610,14 +3610,14 @@
     "javascript_render": false,
     "meta": null,
     "profile": [],
-    "fqdn": "lockbit7z37ntefjdbjextn6tmdkry4j546ejnru5cejeguitiopvhad.onion",
     "title": "LockBit - Leaked",
     "version": 3,
     "slug": "http://lockbit7z37ntefjdbjextn6tmdkry4j546ejnru5cejeguitiopvhad.onion",
     "available": true,
     "updated": "2023-01-23 04:43:45.350160",
     "lastscrape": "2023-01-23 04:43:45.350144",
-    "enabled": true
+    "enabled": true,
+    "host": "lockbit7z37ntefjdbjextn6tmdkry4j546ejnru5cejeguitiopvhad.onion"
   },
   {
     "name": "lockbit3_fs",
@@ -3626,14 +3626,14 @@
     "javascript_render": false,
     "meta": null,
     "profile": [],
-    "fqdn": "lockbit7z3azdoxdpqxzliszutufbc2fldagztdu47xyucp25p4xtqad.onion",
     "title": "LockBit - Leaked",
     "version": 3,
     "slug": "http://lockbit7z3azdoxdpqxzliszutufbc2fldagztdu47xyucp25p4xtqad.onion",
     "available": true,
     "updated": "2023-01-23 04:43:54.411544",
     "lastscrape": "2023-01-23 04:43:54.411530",
-    "enabled": true
+    "enabled": true,
+    "host": "lockbit7z3azdoxdpqxzliszutufbc2fldagztdu47xyucp25p4xtqad.onion"
   },
   {
     "name": "lockbit3_fs",
@@ -3642,14 +3642,14 @@
     "javascript_render": false,
     "meta": null,
     "profile": [],
-    "fqdn": "lockbit7z3ddvg5vuez2vznt73ljqgwx5tnuqaa2ye7lns742yiv2zyd.onion",
     "title": "LockBit - Leaked",
     "version": 3,
     "slug": "http://lockbit7z3ddvg5vuez2vznt73ljqgwx5tnuqaa2ye7lns742yiv2zyd.onion",
     "available": true,
     "updated": "2023-01-23 04:43:59.315395",
     "lastscrape": "2023-01-23 04:43:59.315381",
-    "enabled": true
+    "enabled": true,
+    "host": "lockbit7z3ddvg5vuez2vznt73ljqgwx5tnuqaa2ye7lns742yiv2zyd.onion"
   },
   {
     "name": "lockbit3_fs",
@@ -3658,14 +3658,14 @@
     "javascript_render": false,
     "meta": null,
     "profile": [],
-    "fqdn": "lockbit7z3hv7ev5knxbrhsvv2mmu2rddwqizdz4vwfvxt5izrq6zqqd.onion",
     "title": "LockBit - Leaked",
     "version": 3,
     "slug": "http://lockbit7z3hv7ev5knxbrhsvv2mmu2rddwqizdz4vwfvxt5izrq6zqqd.onion",
     "available": true,
     "updated": "2023-01-23 04:44:05.555286",
     "lastscrape": "2023-01-23 04:44:05.555271",
-    "enabled": true
+    "enabled": true,
+    "host": "lockbit7z3hv7ev5knxbrhsvv2mmu2rddwqizdz4vwfvxt5izrq6zqqd.onion"
   },
   {
     "name": "lockbit3_fs",
@@ -3674,14 +3674,14 @@
     "javascript_render": false,
     "meta": null,
     "profile": [],
-    "fqdn": "lockbit7z3ujnkhxwahhjduh5me2updvzxewhhc5qvk2snxezoi5drad.onion",
     "title": "LockBit - Leaked",
     "version": 3,
     "slug": "http://lockbit7z3ujnkhxwahhjduh5me2updvzxewhhc5qvk2snxezoi5drad.onion",
     "available": true,
     "updated": "2023-01-23 04:44:11.872028",
     "lastscrape": "2023-01-23 04:44:11.872014",
-    "enabled": true
+    "enabled": true,
+    "host": "lockbit7z3ujnkhxwahhjduh5me2updvzxewhhc5qvk2snxezoi5drad.onion"
   },
   {
     "name": "lockbit3_fs",
@@ -3690,14 +3690,14 @@
     "javascript_render": false,
     "meta": null,
     "profile": [],
-    "fqdn": "lockbit7z4bsm63m3dagp5xglyacr4z4bwytkvkkwtn6enmuo5fi5iyd.onion",
     "title": "LockBit - Leaked",
     "version": 3,
     "slug": "http://lockbit7z4bsm63m3dagp5xglyacr4z4bwytkvkkwtn6enmuo5fi5iyd.onion",
     "available": true,
     "updated": "2023-01-23 04:44:25.638773",
     "lastscrape": "2023-01-23 04:44:25.638758",
-    "enabled": true
+    "enabled": true,
+    "host": "lockbit7z4bsm63m3dagp5xglyacr4z4bwytkvkkwtn6enmuo5fi5iyd.onion"
   },
   {
     "name": "lockbit3_fs",
@@ -3706,14 +3706,14 @@
     "javascript_render": false,
     "meta": null,
     "profile": [],
-    "fqdn": "lockbit7z4cgxvictidwfxpuiov4scdw34nxotmbdjyxpkvkg34mykyd.onion",
     "title": "LockBit - Leaked",
     "version": 3,
     "slug": "http://lockbit7z4cgxvictidwfxpuiov4scdw34nxotmbdjyxpkvkg34mykyd.onion",
     "available": true,
     "updated": "2023-01-23 04:44:35.899363",
     "lastscrape": "2023-01-23 04:44:35.899348",
-    "enabled": true
+    "enabled": true,
+    "host": "lockbit7z4cgxvictidwfxpuiov4scdw34nxotmbdjyxpkvkg34mykyd.onion"
   },
   {
     "name": "lockbit3_fs",
@@ -3722,14 +3722,14 @@
     "javascript_render": false,
     "meta": null,
     "profile": [],
-    "fqdn": "lockbit7z4k5zer5fbqi2vdq5sx2vuggatwyqvoodrkhubxftyrvncid.onion",
     "title": "LockBit - Leaked",
     "version": 3,
     "slug": "http://lockbit7z4k5zer5fbqi2vdq5sx2vuggatwyqvoodrkhubxftyrvncid.onion",
     "available": false,
     "updated": "2023-01-23 03:01:53.160026",
     "lastscrape": "2023-01-23 03:01:53.160012",
-    "enabled": true
+    "enabled": true,
+    "host": "lockbit7z4k5zer5fbqi2vdq5sx2vuggatwyqvoodrkhubxftyrvncid.onion"
   },
   {
     "name": "lockbit3_fs",
@@ -3738,14 +3738,14 @@
     "javascript_render": false,
     "meta": null,
     "profile": [],
-    "fqdn": "lockbit7z4ndl6thsct34yd47jrzdkpnfg3acfvpacuccb45pnars2ad.onion",
     "title": "LockBit - Leaked",
     "version": 3,
     "slug": "http://lockbit7z4ndl6thsct34yd47jrzdkpnfg3acfvpacuccb45pnars2ad.onion",
     "available": true,
     "updated": "2023-01-23 04:45:04.402620",
     "lastscrape": "2023-01-23 04:45:04.402604",
-    "enabled": true
+    "enabled": true,
+    "host": "lockbit7z4ndl6thsct34yd47jrzdkpnfg3acfvpacuccb45pnars2ad.onion"
   },
   {
     "name": "lockbit3_fs",
@@ -3754,14 +3754,14 @@
     "javascript_render": false,
     "meta": null,
     "profile": [],
-    "fqdn": "lockbit7z55tuwaflw2c7torcryobdvhkcgvivhflyndyvcrexafssad.onion",
     "title": "LockBit - Leaked",
     "version": 3,
     "slug": "http://lockbit7z55tuwaflw2c7torcryobdvhkcgvivhflyndyvcrexafssad.onion",
     "available": true,
     "updated": "2023-01-23 04:45:20.788658",
     "lastscrape": "2023-01-23 04:45:20.788643",
-    "enabled": true
+    "enabled": true,
+    "host": "lockbit7z55tuwaflw2c7torcryobdvhkcgvivhflyndyvcrexafssad.onion"
   },
   {
     "name": "lockbit3_fs",
@@ -3770,14 +3770,14 @@
     "javascript_render": false,
     "meta": null,
     "profile": [],
-    "fqdn": "lockbit7z57mkicfkuq44j6yrpu5finwvjllczkkp2uvdedsdonjztyd.onion",
     "title": "LockBit - Leaked",
     "version": 3,
     "slug": "http://lockbit7z57mkicfkuq44j6yrpu5finwvjllczkkp2uvdedsdonjztyd.onion",
     "available": true,
     "updated": "2023-01-23 04:45:29.846265",
     "lastscrape": "2023-01-23 04:45:29.846248",
-    "enabled": true
+    "enabled": true,
+    "host": "lockbit7z57mkicfkuq44j6yrpu5finwvjllczkkp2uvdedsdonjztyd.onion"
   },
   {
     "name": "lockbit3_fs",
@@ -3786,14 +3786,14 @@
     "javascript_render": false,
     "meta": null,
     "profile": [],
-    "fqdn": "lockbit7z5ehshj6gzpetw5kso3onts6ty7wrnneya5u4aj3vzkeoaqd.onion",
     "title": "LockBit - Leaked",
     "version": 3,
     "slug": "http://lockbit7z5ehshj6gzpetw5kso3onts6ty7wrnneya5u4aj3vzkeoaqd.onion",
     "available": false,
     "updated": "2023-01-23 03:02:37.503583",
     "lastscrape": "2023-01-23 03:02:37.503570",
-    "enabled": true
+    "enabled": true,
+    "host": "lockbit7z5ehshj6gzpetw5kso3onts6ty7wrnneya5u4aj3vzkeoaqd.onion"
   },
   {
     "name": "lockbit3_fs",
@@ -3802,14 +3802,14 @@
     "javascript_render": false,
     "meta": null,
     "profile": [],
-    "fqdn": "lockbit7z5hwf6ywfuzipoa42tjlmal3x5suuccngsamsgklww2xgyqd.onion",
     "title": "LockBit - Leaked",
     "version": 3,
     "slug": "http://lockbit7z5hwf6ywfuzipoa42tjlmal3x5suuccngsamsgklww2xgyqd.onion",
     "available": true,
     "updated": "2023-01-23 04:45:55.411440",
     "lastscrape": "2023-01-23 04:45:55.411426",
-    "enabled": true
+    "enabled": true,
+    "host": "lockbit7z5hwf6ywfuzipoa42tjlmal3x5suuccngsamsgklww2xgyqd.onion"
   },
   {
     "name": "lockbit3_fs",
@@ -3818,14 +3818,14 @@
     "javascript_render": false,
     "meta": null,
     "profile": [],
-    "fqdn": "lockbit7z5ltrhzv46lsg447o3cx2637dloc3qt4ugd3gr2xdkkkeayd.onion",
     "title": "LockBit - Leaked",
     "version": 3,
     "slug": "http://lockbit7z5ltrhzv46lsg447o3cx2637dloc3qt4ugd3gr2xdkkkeayd.onion",
     "available": true,
     "updated": "2023-01-23 04:46:07.000541",
     "lastscrape": "2023-01-23 04:46:07.000526",
-    "enabled": true
+    "enabled": true,
+    "host": "lockbit7z5ltrhzv46lsg447o3cx2637dloc3qt4ugd3gr2xdkkkeayd.onion"
   },
   {
     "name": "lockbit3_fs",
@@ -3834,14 +3834,14 @@
     "javascript_render": false,
     "meta": null,
     "profile": [],
-    "fqdn": "lockbit7z6choojah4ipvdpzzfzxxchjbecnmtn4povk6ifdvx2dpnid.onion",
     "title": "LockBit - Leaked",
     "version": 3,
     "slug": "http://lockbit7z6choojah4ipvdpzzfzxxchjbecnmtn4povk6ifdvx2dpnid.onion",
     "available": true,
     "updated": "2023-01-23 04:46:14.764023",
     "lastscrape": "2023-01-23 04:46:14.764010",
-    "enabled": true
+    "enabled": true,
+    "host": "lockbit7z6choojah4ipvdpzzfzxxchjbecnmtn4povk6ifdvx2dpnid.onion"
   },
   {
     "name": "lockbit3_fs",
@@ -3850,14 +3850,14 @@
     "javascript_render": false,
     "meta": null,
     "profile": [],
-    "fqdn": "lockbit7z6dqziutocr43onmvpth32njp4abfocfauk2belljjpobxyd.onion",
     "title": "LockBit - Leaked",
     "version": 3,
     "slug": "http://lockbit7z6dqziutocr43onmvpth32njp4abfocfauk2belljjpobxyd.onion",
     "available": true,
     "updated": "2023-01-23 04:46:30.320573",
     "lastscrape": "2023-01-23 04:46:30.320556",
-    "enabled": true
+    "enabled": true,
+    "host": "lockbit7z6dqziutocr43onmvpth32njp4abfocfauk2belljjpobxyd.onion"
   },
   {
     "name": "lockbit3_fs",
@@ -3866,14 +3866,14 @@
     "javascript_render": false,
     "meta": null,
     "profile": [],
-    "fqdn": "lockbit7z6f3gu6rjvrysn5gjbsqj3hk3bvsg64ns6pjldqr2xhvhsyd.onion",
     "title": "LockBit - Leaked",
     "version": 3,
     "slug": "http://lockbit7z6f3gu6rjvrysn5gjbsqj3hk3bvsg64ns6pjldqr2xhvhsyd.onion",
     "available": true,
     "updated": "2023-01-23 04:46:35.719959",
     "lastscrape": "2023-01-23 04:46:35.719944",
-    "enabled": true
+    "enabled": true,
+    "host": "lockbit7z6f3gu6rjvrysn5gjbsqj3hk3bvsg64ns6pjldqr2xhvhsyd.onion"
   },
   {
     "name": "lockbit3_fs",
@@ -3882,14 +3882,14 @@
     "javascript_render": false,
     "meta": null,
     "profile": [],
-    "fqdn": "lockbit7z6qinyhhmibvycu5kwmcvgrbpvtztkvvmdce5zwtucaeyrqd.onion",
     "title": "LockBit - Leaked",
     "version": 3,
     "slug": "http://lockbit7z6qinyhhmibvycu5kwmcvgrbpvtztkvvmdce5zwtucaeyrqd.onion",
     "available": true,
     "updated": "2023-01-23 04:46:42.422229",
     "lastscrape": "2023-01-23 04:46:42.422213",
-    "enabled": true
+    "enabled": true,
+    "host": "lockbit7z6qinyhhmibvycu5kwmcvgrbpvtztkvvmdce5zwtucaeyrqd.onion"
   },
   {
     "name": "lockbit3_fs",
@@ -3898,14 +3898,14 @@
     "javascript_render": false,
     "meta": null,
     "profile": [],
-    "fqdn": "lockbit7z6rzyojiye437jp744d4uwtff7aq7df7gh2jvwqtv525c4yd.onion",
     "title": "LockBit - Leaked",
     "version": 3,
     "slug": "http://lockbit7z6rzyojiye437jp744d4uwtff7aq7df7gh2jvwqtv525c4yd.onion",
     "available": true,
     "updated": "2023-01-23 04:46:53.030122",
     "lastscrape": "2023-01-23 04:46:53.030107",
-    "enabled": true
+    "enabled": true,
+    "host": "lockbit7z6rzyojiye437jp744d4uwtff7aq7df7gh2jvwqtv525c4yd.onion"
   },
   {
     "name": "daixin",
@@ -3914,14 +3914,14 @@
     "javascript_render": false,
     "meta": null,
     "profile": [],
-    "fqdn": "232fwh5cea3ub6qguz3pynijxfzl2uj3c73nbrayipf3gq25vtq2r4qd.onion",
     "title": null,
     "version": 3,
     "slug": "http://232fwh5cea3ub6qguz3pynijxfzl2uj3c73nbrayipf3gq25vtq2r4qd.onion",
     "available": false,
     "updated": "2022-11-10 21:25:37.234952",
     "lastscrape": "2022-11-10 21:25:37.234939",
-    "enabled": true
+    "enabled": true,
+    "host": "232fwh5cea3ub6qguz3pynijxfzl2uj3c73nbrayipf3gq25vtq2r4qd.onion"
   },
   {
     "name": "daixin",
@@ -3930,14 +3930,14 @@
     "javascript_render": false,
     "meta": null,
     "profile": [],
-    "fqdn": "7ukmkdtyxdkdivtjad57klqnd3kdsmq6tp45rrsxqnu76zzv3jvitlqd.onion",
     "title": "Data Leak",
     "version": 3,
     "slug": "http://7ukmkdtyxdkdivtjad57klqnd3kdsmq6tp45rrsxqnu76zzv3jvitlqd.onion",
     "available": true,
     "updated": "2023-01-23 04:47:14.233693",
     "lastscrape": "2023-01-23 04:47:14.233678",
-    "enabled": true
+    "enabled": true,
+    "host": "7ukmkdtyxdkdivtjad57klqnd3kdsmq6tp45rrsxqnu76zzv3jvitlqd.onion"
   },
   {
     "name": "icefire",
@@ -3946,14 +3946,14 @@
     "javascript_render": false,
     "meta": null,
     "profile": [],
-    "fqdn": "kf6x3mjeqljqxjznaw65jixin7dpcunfxbbakwuitizytcpzn4iy5bad.onion",
     "title": "Leakage List",
     "version": 3,
     "slug": "http://kf6x3mjeqljqxjznaw65jixin7dpcunfxbbakwuitizytcpzn4iy5bad.onion/board/leak_list/",
     "available": false,
     "updated": "2022-08-24 13:04:21.218136",
     "lastscrape": "2022-08-24 13:04:21.218125",
-    "enabled": true
+    "enabled": true,
+    "host": "kf6x3mjeqljqxjznaw65jixin7dpcunfxbbakwuitizytcpzn4iy5bad.onion"
   },
   {
     "name": "donutleaks",
@@ -3962,14 +3962,14 @@
     "javascript_render": false,
     "meta": null,
     "profile": [],
-    "fqdn": "qkbbaxiuqqcqb5nox4np4qjcniy2q6m7yeluvj7n5i5dn7pgpcwxwfid.onion",
     "title": "502 Bad Gateway",
     "version": 3,
     "slug": "https://qkbbaxiuqqcqb5nox4np4qjcniy2q6m7yeluvj7n5i5dn7pgpcwxwfid.onion",
     "available": false,
     "updated": "2022-10-27 21:34:31.860526",
     "lastscrape": "2022-10-27 21:34:31.860510",
-    "enabled": true
+    "enabled": true,
+    "host": "qkbbaxiuqqcqb5nox4np4qjcniy2q6m7yeluvj7n5i5dn7pgpcwxwfid.onion"
   },
   {
     "name": "donutleaks",
@@ -3978,14 +3978,14 @@
     "javascript_render": false,
     "meta": null,
     "profile": [],
-    "fqdn": "sbc2zv2qnz5vubwtx3aobfpkeao6l4igjegm3xx7tk5suqhjkp5jxtqd.onion",
     "title": "D0N#T__::LEAKS::",
     "version": 3,
     "slug": "https://sbc2zv2qnz5vubwtx3aobfpkeao6l4igjegm3xx7tk5suqhjkp5jxtqd.onion",
     "available": false,
     "updated": "2022-10-27 21:34:41.310520",
     "lastscrape": "2022-10-27 21:34:41.310504",
-    "enabled": true
+    "enabled": true,
+    "host": "sbc2zv2qnz5vubwtx3aobfpkeao6l4igjegm3xx7tk5suqhjkp5jxtqd.onion"
   },
   {
     "name": "donutleaks",
@@ -3994,14 +3994,14 @@
     "javascript_render": false,
     "meta": null,
     "profile": [],
-    "fqdn": "doq32rjiuomfghm5a4lyf3lwwakt2774tkv4ppsos6ueo5mhx7662gid.onion",
     "title": "_d0nut.::Files_",
     "version": 3,
     "slug": "https://doq32rjiuomfghm5a4lyf3lwwakt2774tkv4ppsos6ueo5mhx7662gid.onion",
     "available": false,
     "updated": "2022-10-26 01:53:59.040070",
     "lastscrape": "2022-10-26 01:53:59.040044",
-    "enabled": true
+    "enabled": true,
+    "host": "doq32rjiuomfghm5a4lyf3lwwakt2774tkv4ppsos6ueo5mhx7662gid.onion"
   },
   {
     "name": "qilin",
@@ -4010,14 +4010,14 @@
     "javascript_render": true,
     "meta": null,
     "profile": [],
-    "fqdn": "ozsxj4hwxub7gio347ac7tyqqozvfioty37skqilzo2oqfs4cw2mgtyd.onion",
     "title": "Qilin",
     "version": 3,
     "slug": "http://ozsxj4hwxub7gio347ac7tyqqozvfioty37skqilzo2oqfs4cw2mgtyd.onion",
     "available": true,
     "updated": "2023-01-23 04:48:36.189603",
     "lastscrape": "2023-01-23 04:48:36.189591",
-    "enabled": true
+    "enabled": true,
+    "host": "ozsxj4hwxub7gio347ac7tyqqozvfioty37skqilzo2oqfs4cw2mgtyd.onion"
   },
   {
     "name": "qilin",
@@ -4026,14 +4026,14 @@
     "javascript_render": true,
     "meta": null,
     "profile": [],
-    "fqdn": "kbsqoivihgdmwczmxkbovk7ss2dcynitwhhfu5yw725dboqo5kthfaad.onion",
     "title": "Qilin blog",
     "version": 3,
     "slug": "http://kbsqoivihgdmwczmxkbovk7ss2dcynitwhhfu5yw725dboqo5kthfaad.onion",
     "available": true,
     "updated": "2023-01-23 04:49:07.042197",
     "lastscrape": "2023-01-23 04:49:07.042182",
-    "enabled": true
+    "enabled": true,
+    "host": "kbsqoivihgdmwczmxkbovk7ss2dcynitwhhfu5yw725dboqo5kthfaad.onion"
   },
   {
     "name": "diavol",
@@ -4042,14 +4042,14 @@
     "javascript_render": false,
     "meta": null,
     "profile": [],
-    "fqdn": "7ypnbv3snejqmgce4kbewwvym4cm5j6lkzf2hra2hyhtsvwjaxwipkyd.onion",
     "title": "Chat",
     "version": 3,
     "slug": "https://7ypnbv3snejqmgce4kbewwvym4cm5j6lkzf2hra2hyhtsvwjaxwipkyd.onion",
     "available": false,
     "updated": "2022-10-31 16:50:19.073974",
     "lastscrape": "2022-10-31 16:50:19.073961",
-    "enabled": true
+    "enabled": true,
+    "host": "7ypnbv3snejqmgce4kbewwvym4cm5j6lkzf2hra2hyhtsvwjaxwipkyd.onion"
   },
   {
     "name": "monti",
@@ -4058,14 +4058,14 @@
     "javascript_render": false,
     "meta": null,
     "profile": [],
-    "fqdn": "4s4lnfeujzo67fy2jebz2dxskez2gsqj2jeb35m75ktufxensdicqxad.onion",
     "title": "404 Not Found",
     "version": 3,
     "slug": "http://4s4lnfeujzo67fy2jebz2dxskez2gsqj2jeb35m75ktufxensdicqxad.onion/",
     "available": false,
     "updated": "2022-10-10 19:34:41.368874",
     "lastscrape": "2022-10-10 19:34:41.368860",
-    "enabled": true
+    "enabled": true,
+    "host": "4s4lnfeujzo67fy2jebz2dxskez2gsqj2jeb35m75ktufxensdicqxad.onion"
   },
   {
     "name": "monti",
@@ -4074,14 +4074,14 @@
     "javascript_render": false,
     "meta": null,
     "profile": [],
-    "fqdn": "mblogci3rudehaagbryjznltdp33ojwzkq6hn2pckvjq33rycmzczpid.onion",
     "title": "MONTI - Leaks site",
     "version": 3,
     "slug": "http://mblogci3rudehaagbryjznltdp33ojwzkq6hn2pckvjq33rycmzczpid.onion",
     "available": true,
     "updated": "2023-01-23 04:49:50.346889",
     "lastscrape": "2023-01-23 04:49:50.346876",
-    "enabled": true
+    "enabled": true,
+    "host": "mblogci3rudehaagbryjznltdp33ojwzkq6hn2pckvjq33rycmzczpid.onion"
   },
   {
     "name": "sparta",
@@ -4092,14 +4092,14 @@
     "profile": [
       "spartaprogroup@strong.pm"
     ],
-    "fqdn": "zj2ex44e2b2xi43m2txk4uwi3l55aglsarre7repw7rkfwpj54j46iqd.onion",
     "title": "Blog",
     "version": 3,
     "slug": "http://zj2ex44e2b2xi43m2txk4uwi3l55aglsarre7repw7rkfwpj54j46iqd.onion/",
     "available": false,
     "updated": "2022-10-01 15:37:30.691182",
     "lastscrape": "2022-10-01 15:37:30.691168",
-    "enabled": true
+    "enabled": true,
+    "host": "zj2ex44e2b2xi43m2txk4uwi3l55aglsarre7repw7rkfwpj54j46iqd.onion"
   },
   {
     "name": "chilelocker",
@@ -4108,14 +4108,14 @@
     "javascript_render": false,
     "meta": null,
     "profile": [],
-    "fqdn": "z6vidveub2ypo3d3x7omsmcxqwxkkmvn5y3paoufyd2tt4bfbkg33kid.onion",
     "title": "Login",
     "version": 3,
     "slug": "http://z6vidveub2ypo3d3x7omsmcxqwxkkmvn5y3paoufyd2tt4bfbkg33kid.onion",
     "available": true,
     "updated": "2023-01-23 04:50:19.202336",
     "lastscrape": "2023-01-23 04:50:19.202323",
-    "enabled": true
+    "enabled": true,
+    "host": "z6vidveub2ypo3d3x7omsmcxqwxkkmvn5y3paoufyd2tt4bfbkg33kid.onion"
   },
   {
     "name": "dagonlocker",
@@ -4124,14 +4124,14 @@
     "javascript_render": false,
     "meta": null,
     "profile": [],
-    "fqdn": "dgnh6p5uq234zry7qx7bh73hj5ht3jqisgfet6s7j7uyas5i46xfdkyd.onion",
     "title": "The Chat",
     "version": 3,
     "slug": "http://dgnh6p5uq234zry7qx7bh73hj5ht3jqisgfet6s7j7uyas5i46xfdkyd.onion",
     "available": false,
     "updated": "2022-11-10 19:06:45.161735",
     "lastscrape": "2022-11-10 19:06:45.161721",
-    "enabled": true
+    "enabled": true,
+    "host": "dgnh6p5uq234zry7qx7bh73hj5ht3jqisgfet6s7j7uyas5i46xfdkyd.onion"
   },
   {
     "name": "royal",
@@ -4140,14 +4140,14 @@
     "javascript_render": false,
     "meta": null,
     "profile": [],
-    "fqdn": "royal2xthig3ou5hd7zsliqagy6yygk2cdelaxtni2fyad6dpmpxedid.onion",
     "title": "Royal",
     "version": 3,
     "slug": "http://royal2xthig3ou5hd7zsliqagy6yygk2cdelaxtni2fyad6dpmpxedid.onion",
     "available": true,
     "updated": "2023-01-23 04:50:44.987252",
     "lastscrape": "2023-01-23 04:50:44.987239",
-    "enabled": true
+    "enabled": true,
+    "host": "royal2xthig3ou5hd7zsliqagy6yygk2cdelaxtni2fyad6dpmpxedid.onion"
   },
   {
     "name": "royal",
@@ -4156,14 +4156,14 @@
     "javascript_render": false,
     "meta": null,
     "profile": [],
-    "fqdn": "royal4ezp7xrbakkus3oofjw6gszrohpodmdnfbe5e4w3og5sm7vb3qd.onion",
     "title": null,
     "version": 3,
     "slug": "http://royal4ezp7xrbakkus3oofjw6gszrohpodmdnfbe5e4w3og5sm7vb3qd.onion/api/posts/list",
     "available": true,
     "updated": "2023-01-23 04:50:50.045629",
     "lastscrape": "2023-01-23 04:50:50.045614",
-    "enabled": true
+    "enabled": true,
+    "host": "royal4ezp7xrbakkus3oofjw6gszrohpodmdnfbe5e4w3og5sm7vb3qd.onion"
   },
   {
     "name": "shaoleaks",
@@ -4172,14 +4172,14 @@
     "javascript_render": false,
     "meta": null,
     "profile": [],
-    "fqdn": "crptd5sv5bdz6hovrbkac6mnp3rt7zij62njsqwh5a6ldd3asxdd22qd.onion",
     "title": "Shao leaks team",
     "version": 3,
     "slug": "http://crptd5sv5bdz6hovrbkac6mnp3rt7zij62njsqwh5a6ldd3asxdd22qd.onion",
     "available": false,
     "updated": "2022-11-01 16:51:57.041168",
     "lastscrape": "2022-11-01 16:51:57.041156",
-    "enabled": true
+    "enabled": true,
+    "host": "crptd5sv5bdz6hovrbkac6mnp3rt7zij62njsqwh5a6ldd3asxdd22qd.onion"
   },
   {
     "name": "mallox",
@@ -4188,14 +4188,14 @@
     "javascript_render": true,
     "meta": "wtyafjyhwqrg[...].onion/post?get_listBlog",
     "profile": [],
-    "fqdn": "wtyafjyhwqrgo4a45wdvvwhen3cx4euie73qvlhkhvlrexljoyuklaad.onion",
     "title": "Mallox | Blog",
     "version": 3,
     "slug": "http://wtyafjyhwqrgo4a45wdvvwhen3cx4euie73qvlhkhvlrexljoyuklaad.onion",
     "available": true,
     "updated": "2023-01-23 04:52:31.712148",
     "lastscrape": "2023-01-23 04:52:31.712136",
-    "enabled": true
+    "enabled": true,
+    "host": "wtyafjyhwqrgo4a45wdvvwhen3cx4euie73qvlhkhvlrexljoyuklaad.onion"
   },
   {
     "name": "projectrelic",
@@ -4204,14 +4204,14 @@
     "javascript_render": false,
     "meta": null,
     "profile": [],
-    "fqdn": "relic5zqwemjnu4veilml6prgyedj6phs7de3udhicuq53z37klxm6qd.onion",
     "title": "Project Relic. Dumps, leaks, news, announcements",
     "version": 3,
     "slug": "http://relic5zqwemjnu4veilml6prgyedj6phs7de3udhicuq53z37klxm6qd.onion",
     "available": false,
     "updated": "2023-01-23 03:12:49.881966",
     "lastscrape": "2023-01-23 03:12:49.881955",
-    "enabled": true
+    "enabled": true,
+    "host": "relic5zqwemjnu4veilml6prgyedj6phs7de3udhicuq53z37klxm6qd.onion"
   },
   {
     "name": "play",
@@ -4220,14 +4220,14 @@
     "javascript_render": false,
     "meta": null,
     "profile": [],
-    "fqdn": "k7kg3jqxang3wh7hnmaiokchk7qoebupfgoik6rha6mjpzwupwtj25yd.onion",
     "title": "PLAY NEWS",
     "version": 3,
     "slug": "http://k7kg3jqxang3wh7hnmaiokchk7qoebupfgoik6rha6mjpzwupwtj25yd.onion/",
     "available": true,
     "updated": "2023-01-23 04:53:15.534102",
     "lastscrape": "2023-01-23 04:53:15.534089",
-    "enabled": true
+    "enabled": true,
+    "host": "k7kg3jqxang3wh7hnmaiokchk7qoebupfgoik6rha6mjpzwupwtj25yd.onion"
   },
   {
     "name": "play",
@@ -4236,14 +4236,14 @@
     "javascript_render": false,
     "meta": null,
     "profile": [],
-    "fqdn": "mbrlkbtq5jonaqkurjwmxftytyn2ethqvbxfu4rgjbkkknndqwae6byd.onion",
     "title": "PLAY NEWS",
     "version": 3,
     "slug": "http://mbrlkbtq5jonaqkurjwmxftytyn2ethqvbxfu4rgjbkkknndqwae6byd.onion/",
     "available": true,
     "updated": "2023-01-23 04:53:25.665111",
     "lastscrape": "2023-01-23 04:53:25.665097",
-    "enabled": true
+    "enabled": true,
+    "host": "mbrlkbtq5jonaqkurjwmxftytyn2ethqvbxfu4rgjbkkknndqwae6byd.onion"
   },
   {
     "name": "dataleak",
@@ -4252,14 +4252,14 @@
     "javascript_render": false,
     "meta": null,
     "profile": [],
-    "fqdn": "woqjumaahi662ka26jzxyx7fznbp4kg3bsjar4b52tqkxgm2pylcjlad.onion",
     "title": "DataLeak",
     "version": 3,
     "slug": "http://woqjumaahi662ka26jzxyx7fznbp4kg3bsjar4b52tqkxgm2pylcjlad.onion",
     "available": true,
     "updated": "2023-01-23 04:53:35.077420",
     "lastscrape": "2023-01-23 04:53:35.077408",
-    "enabled": true
+    "enabled": true,
+    "host": "woqjumaahi662ka26jzxyx7fznbp4kg3bsjar4b52tqkxgm2pylcjlad.onion"
   },
   {
     "name": "unsafeleak",
@@ -4268,13 +4268,13 @@
     "javascript_render": true,
     "meta": null,
     "profile": [],
-    "fqdn": "unsafeipw6wbkzzmj7yqp7bz6j7ivzynggmwxsm6u2wwfmfqrxqrrhyd.onion",
     "title": "Home | UnSafeBlog",
     "version": 3,
     "slug": "http://unsafeipw6wbkzzmj7yqp7bz6j7ivzynggmwxsm6u2wwfmfqrxqrrhyd.onion",
     "available": true,
     "updated": "2023-01-23 04:53:57.862437",
     "lastscrape": "2023-01-23 04:53:57.862424",
-    "enabled": true
+    "enabled": true,
+    "host": "unsafeipw6wbkzzmj7yqp7bz6j7ivzynggmwxsm6u2wwfmfqrxqrrhyd.onion"
   }
 ]

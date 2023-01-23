@@ -13,6 +13,7 @@ for group in groups:
         event.pop('locations')
         event.update(loc)
         eventdict.append(event)
+        event['host'] = event.pop('fqdn')
 
 with open('assets/groups-kv.json', 'w') as f:
     json.dump(eventdict, indent=2, fp=f)
