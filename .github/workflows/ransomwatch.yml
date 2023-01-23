@@ -40,6 +40,9 @@ jobs:
       - name: generate markdown & graphs for docsify
         run: |
           python3 ransomwatch.py markdown
+      - name: generate kv groups for analytics
+        run: |
+          python3 assets/groups-kv.py
       - name: save changes
         # git config --global user.email "joshhighet@users.noreply.github.com"
         # git config --global user.name "josh"
