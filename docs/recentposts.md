@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-01-24 | [`IFPA`](https://google.com/search?q=IFPA) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-01-23 | [`A?????L S?????????? ????`](https://google.com/search?q=A%3F%3F%3F%3F%3FL+S%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F+%3F%3F%3F%3F) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-01-23 | [`CloudCall &amp;`](https://google.com/search?q=CloudCall+%26amp%3B) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2023-01-22 | [`miguelmechanical.com`](https://google.com/search?q=miguelmechanical.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-12-23 | [`excentiahumanservices.org`](https://google.com/search?q=excentiahumanservices.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-12-23 | [`bavelloni.com`](https://google.com/search?q=bavelloni.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-12-22 | [`thedonovancompany.com`](https://google.com/search?q=thedonovancompany.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-12-22 | [`Strem Chemicals`](https://google.com/search?q=Strem+Chemicals) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
