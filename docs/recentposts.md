@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-01-27 | [`Bristol Community College`](https://google.com/search?q=Bristol+Community+College) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2023-01-26 | [`********* ******** ***** ***`](https://google.com/search?q=%2A%2A%2A%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A+%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-01-26 | [`*******`](https://google.com/search?q=%2A%2A%2A%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-01-26 | [`http://www.ioccompany.com`](https://google.com/search?q=http%3A%2F%2Fwww.ioccompany.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-12-26 | [`Wings Etc`](https://google.com/search?q=Wings+Etc) | [unsafeleak](https://ransomwatch.telemetry.ltd/#/profiles?id=unsafeleak) |
 | 2022-12-26 | [`Dooly County School System`](https://google.com/search?q=Dooly+County+School+System) | [unsafeleak](https://ransomwatch.telemetry.ltd/#/profiles?id=unsafeleak) |
 | 2022-12-26 | [`Whatcom County Library System`](https://google.com/search?q=Whatcom+County+Library+System) | [unsafeleak](https://ransomwatch.telemetry.ltd/#/profiles?id=unsafeleak) |
-| 2022-12-26 | [`The Chedi Muscat`](https://google.com/search?q=The+Chedi+Muscat) | [unsafeleak](https://ransomwatch.telemetry.ltd/#/profiles?id=unsafeleak) |
