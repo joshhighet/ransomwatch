@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-01-28 | [`Helicar`](https://google.com/search?q=Helicar) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-01-28 | [`Westmont Hospitality Group`](https://google.com/search?q=Westmont+Hospitality+Group) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-01-28 | [`EGR`](https://google.com/search?q=EGR) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2023-01-27 | [`Ultrabulk`](https://google.com/search?q=Ultrabulk) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-01-27 | [`sdfsdf.dfg`](https://google.com/search?q=sdfsdf.dfg) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2022-12-27 | [`SSI Schäfer Shop`](https://google.com/search?q=SSI+Sch%C3%A4fer+Shop) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-12-27 | [`FURETANK,SIRIUS SHIPPING,VAS,DONSONET`](https://google.com/search?q=FURETANK%2CSIRIUS+SHIPPING%2CVAS%2CDONSONET) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2022-12-26 | [`https://www.robinsonpharma.com`](https://google.com/search?q=https%3A%2F%2Fwww.robinsonpharma.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
-| 2022-12-26 | [`https://www.fantasyspringsresort.com`](https://google.com/search?q=https%3A%2F%2Fwww.fantasyspringsresort.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
-| 2022-12-26 | [`G.R. Sponaugle`](https://google.com/search?q=G.R.+Sponaugle) | [unsafeleak](https://ransomwatch.telemetry.ltd/#/profiles?id=unsafeleak) |
