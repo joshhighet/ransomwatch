@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-01-28 | [`ylresin.com`](https://google.com/search?q=ylresin.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-01-28 | [`Portnoff Law Associates`](https://google.com/search?q=Portnoff+Law+Associates) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-01-28 | [`SOFTEQ.COM FILES PART8 - Projects\ PUBLISHED`](https://google.com/search?q=SOFTEQ.COM+FILES+PART8+-+Projects%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-01-28 | [`LOESCHGROUP.DE FILES PART15 - 192.168.101.34\DATEN\Media\Img\ PUBLISHED`](https://google.com/search?q=LOESCHGROUP.DE+FILES+PART15+-+192.168.101.34%5CDATEN%5CMedia%5CImg%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-12-27 | [`https://www.helma.de/`](https://google.com/search?q=https%3A%2F%2Fwww.helma.de%2F) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
 | 2022-12-27 | [`https://www.grupoibiapina.com.br`](https://google.com/search?q=https%3A%2F%2Fwww.grupoibiapina.com.br) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
 | 2022-12-27 | [`pu.edu.lb`](https://google.com/search?q=pu.edu.lb) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
-| 2022-12-27 | [`Empresas Públicas de Medellín`](https://google.com/search?q=Empresas+P%C3%BAblicas+de+Medell%C3%ADn) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
