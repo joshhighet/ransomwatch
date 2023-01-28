@@ -4,6 +4,12 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-01-28 | [`Portnoff Law Associates`](https://google.com/search?q=Portnoff+Law+Associates) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
+| 2023-01-28 | [`SOFTEQ.COM FILES PART8 - Projects\ PUBLISHED`](https://google.com/search?q=SOFTEQ.COM+FILES+PART8+-+Projects%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-01-28 | [`LOESCHGROUP.DE FILES PART15 - 192.168.101.34\DATEN\Media\Img\ PUBLISHED`](https://google.com/search?q=LOESCHGROUP.DE+FILES+PART15+-+192.168.101.34%5CDATEN%5CMedia%5CImg%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-01-28 | [`ORDEREXPRESS.COM.MX FILES PART16 - 10.10.1.99\C$\Users\Pablo.Pineda\ PUBLISHED`](https://google.com/search?q=ORDEREXPRESS.COM.MX+FILES+PART16+-+10.10.1.99%5CC%24%5CUsers%5CPablo.Pineda%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-01-28 | [`NYCBAR.ORG FILES PART2 - 10.50.0.168, 10.50.0.197, 10.50.0.207, 10.50.0.209, 10.50.0.212, `](https://google.com/search?q=NYCBAR.ORG+FILES+PART2+-+10.50.0.168%2C+10.50.0.197%2C+10.50.0.207%2C+10.50.0.209%2C+10.50.0.212%2C+) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-01-28 | [`UNISALLE.EDU.CO FILES PART1 - 172.20.0.52, 172.20.0.50 PUBLISHED`](https://google.com/search?q=UNISALLE.EDU.CO+FILES+PART1+-+172.20.0.52%2C+172.20.0.50+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-01-28 | [`Helicar`](https://google.com/search?q=Helicar) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-01-28 | [`Westmont Hospitality Group`](https://google.com/search?q=Westmont+Hospitality+Group) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-01-28 | [`EGR`](https://google.com/search?q=EGR) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
@@ -198,9 +204,3 @@ _last `200` posts_
 | 2022-12-27 | [`https://www.grupoibiapina.com.br`](https://google.com/search?q=https%3A%2F%2Fwww.grupoibiapina.com.br) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
 | 2022-12-27 | [`pu.edu.lb`](https://google.com/search?q=pu.edu.lb) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
 | 2022-12-27 | [`Empresas Públicas de Medellín`](https://google.com/search?q=Empresas+P%C3%BAblicas+de+Medell%C3%ADn) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2022-12-27 | [`FARMS.COM`](https://google.com/search?q=FARMS.COM) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2022-12-27 | [`CR&R`](https://google.com/search?q=CR%26R) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2022-12-27 | [`Meyer & Meyer Holding SE & Co. KG`](https://google.com/search?q=Meyer+%26+Meyer+Holding+SE+%26+Co.+KG) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2022-12-27 | [`SSI Schäfer Shop`](https://google.com/search?q=SSI+Sch%C3%A4fer+Shop) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2022-12-27 | [`FURETANK,SIRIUS SHIPPING,VAS,DONSONET`](https://google.com/search?q=FURETANK%2CSIRIUS+SHIPPING%2CVAS%2CDONSONET) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2022-12-26 | [`https://www.robinsonpharma.com`](https://google.com/search?q=https%3A%2F%2Fwww.robinsonpharma.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
