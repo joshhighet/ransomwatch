@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-01-29 | [`NPTC Group of Colleges`](https://google.com/search?q=NPTC+Group+of+Colleges) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2023-01-29 | [`azliver.com`](https://google.com/search?q=azliver.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-01-28 | [`Seguros Equinoccial`](https://google.com/search?q=Seguros+Equinoccial) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2023-01-28 | [`ylresin.com`](https://google.com/search?q=ylresin.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-12-27 | [`http://www.buildersmutual.com`](https://google.com/search?q=http%3A%2F%2Fwww.buildersmutual.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
 | 2022-12-27 | [`http://www.intrado.com`](https://google.com/search?q=http%3A%2F%2Fwww.intrado.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
 | 2022-12-27 | [`https://www.inforlandia.com`](https://google.com/search?q=https%3A%2F%2Fwww.inforlandia.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
-| 2022-12-27 | [`https://www.helma.de/`](https://google.com/search?q=https%3A%2F%2Fwww.helma.de%2F) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
