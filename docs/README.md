@@ -1,10 +1,10 @@
 
 ## summary
-_january 28th, 2023_
+_january 29th, 2023_
 
-currently tracking `131` groups across `240` relays & mirrors - _`78` currently online_
+currently tracking `131` groups across `240` relays & mirrors - _`85` currently online_
 
-⏲ there have been `11` posts within the `last 24 hours`
+⏲ there have been `10` posts within the `last 24 hours`
 
 🦈 there have been `167` posts within the `month of january`
 
