@@ -4,6 +4,17 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-01-30 | [`thermal.com`](https://google.com/search?q=thermal.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-01-30 | [`luacesasesores.es`](https://google.com/search?q=luacesasesores.es) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-01-30 | [`kvie.org`](https://google.com/search?q=kvie.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-01-30 | [`juvaskin.com`](https://google.com/search?q=juvaskin.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-01-30 | [`itsservicios.com.mx`](https://google.com/search?q=itsservicios.com.mx) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-01-30 | [`fritsche.eu.com`](https://google.com/search?q=fritsche.eu.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-01-30 | [`dsavocats.com`](https://google.com/search?q=dsavocats.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-01-30 | [`cplindustries.co.uk`](https://google.com/search?q=cplindustries.co.uk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-01-30 | [`cm-vimioso.pt`](https://google.com/search?q=cm-vimioso.pt) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-01-30 | [`bulldoggroupinc.com`](https://google.com/search?q=bulldoggroupinc.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-01-30 | [`airalbania.com.al`](https://google.com/search?q=airalbania.com.al) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-01-29 | [`NPTC Group of Colleges`](https://google.com/search?q=NPTC+Group+of+Colleges) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2023-01-29 | [`azliver.com`](https://google.com/search?q=azliver.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-01-28 | [`Seguros Equinoccial`](https://google.com/search?q=Seguros+Equinoccial) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
@@ -193,14 +204,3 @@ _last `200` posts_
 | 2022-12-29 | [`portodelisboa.pt`](https://google.com/search?q=portodelisboa.pt) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-12-28 | [`JAKKS Pacific, Inc.`](https://google.com/search?q=JAKKS+Pacific%2C+Inc.) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-12-28 | [`SUMITOMO BAKELITE USA`](https://google.com/search?q=SUMITOMO+BAKELITE+USA) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2022-12-28 | [`http://www.emoneyfinance.com.au`](https://google.com/search?q=http%3A%2F%2Fwww.emoneyfinance.com.au) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
-| 2022-12-28 | [`Hundred thousands of personal data, leak preview`](https://google.com/search?q=Hundred+thousands+of+personal+data%2C+leak+preview) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
-| 2022-12-28 | [`Centro Turistico Giovanile`](https://google.com/search?q=Centro+Turistico+Giovanile) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
-| 2022-12-28 | [`ET GLOBAL`](https://google.com/search?q=ET+GLOBAL) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
-| 2022-12-28 | [`Square Yards`](https://google.com/search?q=Square+Yards) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
-| 2022-12-28 | [`TCL Chinese Theatres`](https://google.com/search?q=TCL+Chinese+Theatres) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
-| 2022-12-28 | [`Trubee, Collins &amp; Co`](https://google.com/search?q=Trubee%2C+Collins+%26amp%3B+Co) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
-| 2022-12-28 | [`Einatec`](https://google.com/search?q=Einatec) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
-| 2022-12-27 | [`http://www.buildersmutual.com`](https://google.com/search?q=http%3A%2F%2Fwww.buildersmutual.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
-| 2022-12-27 | [`http://www.intrado.com`](https://google.com/search?q=http%3A%2F%2Fwww.intrado.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
-| 2022-12-27 | [`https://www.inforlandia.com`](https://google.com/search?q=https%3A%2F%2Fwww.inforlandia.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
