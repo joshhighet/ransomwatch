@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-01-31 | [`Okanagan College`](https://google.com/search?q=Okanagan+College) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2023-01-30 | [`http://comune.torredelgreco.na.it`](https://google.com/search?q=http%3A%2F%2Fcomune.torredelgreco.na.it) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
 | 2023-01-30 | [`Scheppersinstituut Wetteren`](https://google.com/search?q=Scheppersinstituut+Wetteren) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2023-01-30 | [`fujikura.co.jp`](https://google.com/search?q=fujikura.co.jp) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-12-29 | [`St. Rose Hospital`](https://google.com/search?q=St.+Rose+Hospital) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2022-12-29 | [`MITCON Consultancy and Engineering Services`](https://google.com/search?q=MITCON+Consultancy+and+Engineering+Services) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2022-12-29 | [`*********** E*****`](https://google.com/search?q=%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A+E%2A%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2022-12-29 | [`SOFTEQ.COM FILES PART4 - dev-uDSMS-CMA PUBLISHED`](https://google.com/search?q=SOFTEQ.COM+FILES+PART4+-+dev-uDSMS-CMA+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
