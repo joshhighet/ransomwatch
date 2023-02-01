@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-02-01 | [`https://www.tkelevator.com`](https://google.com/search?q=https%3A%2F%2Fwww.tkelevator.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
+| 2023-02-01 | [`Guildford County School`](https://google.com/search?q=Guildford+County+School) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2023-01-31 | [`TechInsights`](https://google.com/search?q=TechInsights) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2023-01-31 | [`Societa Italiana Brevetti SpA`](https://google.com/search?q=Societa+Italiana+Brevetti+SpA) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2023-01-31 | [`tcels.or.th`](https://google.com/search?q=tcels.or.th) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2022-12-31 | [`hacla.org`](https://google.com/search?q=hacla.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-12-30 | [`http://www.agostini.com`](https://google.com/search?q=http%3A%2F%2Fwww.agostini.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
 | 2022-12-30 | [`presco.com`](https://google.com/search?q=presco.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-12-30 | [`Camst Group`](https://google.com/search?q=Camst+Group) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
-| 2022-12-29 | [`http://www.iowapbs.org`](https://google.com/search?q=http%3A%2F%2Fwww.iowapbs.org) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
