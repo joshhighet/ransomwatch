@@ -4,6 +4,13 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-02-02 | [`transportsn.com`](https://google.com/search?q=transportsn.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-02-02 | [`seelllc.com`](https://google.com/search?q=seelllc.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-02-02 | [`plasmasurgical.com`](https://google.com/search?q=plasmasurgical.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-02-02 | [`nlsmichigan.org`](https://google.com/search?q=nlsmichigan.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-02-02 | [`byte.gr`](https://google.com/search?q=byte.gr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-02-02 | [`biosonicsinc.com`](https://google.com/search?q=biosonicsinc.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-02-02 | [`avantetextil.com.mx`](https://google.com/search?q=avantetextil.com.mx) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-02-02 | [`McEwan Fraser Legal`](https://google.com/search?q=McEwan+Fraser+Legal) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-02-02 | [`https://us.messer-cutting.com/`](https://google.com/search?q=https%3A%2F%2Fus.messer-cutting.com%2F) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
 | 2023-02-02 | [`iongroup.com`](https://google.com/search?q=iongroup.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -197,10 +204,3 @@ _last `200` posts_
 | 2023-01-04 | [`CAPMC`](https://google.com/search?q=CAPMC) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
 | 2023-01-03 | [`Tarntank Ship Management`](https://google.com/search?q=Tarntank+Ship+Management) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-01-03 | [`Aeronautics company Canada - UTC Aerospace Systems, Bombardier, NASA partners`](https://google.com/search?q=Aeronautics+company+Canada+-+UTC+Aerospace+Systems%2C+Bombardier%2C+NASA+partners) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
-| 2023-01-03 | [`Sirius Shipping`](https://google.com/search?q=Sirius+Shipping) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-01-03 | [`SUNY Polytechnic Institute`](https://google.com/search?q=SUNY+Polytechnic+Institute) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-01-03 | [`Furetank`](https://google.com/search?q=Furetank) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-01-03 | [`Dental One`](https://google.com/search?q=Dental+One) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-01-02 | [`Stratacache`](https://google.com/search?q=Stratacache) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-01-02 | [`S???`](https://google.com/search?q=S%3F%3F%3F) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-01-01 | [`CDER`](https://google.com/search?q=CDER) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
