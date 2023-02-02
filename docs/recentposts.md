@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-02-02 | [`pharmagestao.com.br`](https://google.com/search?q=pharmagestao.com.br) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-02-01 | [`N** ******`](https://google.com/search?q=N%2A%2A+%2A%2A%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-02-01 | [`https://www.tkelevator.com`](https://google.com/search?q=https%3A%2F%2Fwww.tkelevator.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
 | 2023-02-01 | [`Guildford County School`](https://google.com/search?q=Guildford+County+School) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-12-31 | [`sickkids.ca`](https://google.com/search?q=sickkids.ca) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2022-12-31 | [`http://www.qut.edu.au`](https://google.com/search?q=http%3A%2F%2Fwww.qut.edu.au) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
 | 2022-12-31 | [`hacla.org`](https://google.com/search?q=hacla.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2022-12-30 | [`http://www.agostini.com`](https://google.com/search?q=http%3A%2F%2Fwww.agostini.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
