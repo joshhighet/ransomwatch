@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-02-02 | [`McEwan Fraser Legal`](https://google.com/search?q=McEwan+Fraser+Legal) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-02-02 | [`https://us.messer-cutting.com/`](https://google.com/search?q=https%3A%2F%2Fus.messer-cutting.com%2F) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
 | 2023-02-02 | [`iongroup.com`](https://google.com/search?q=iongroup.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-02-02 | [`https://www.casaley.com.mx/`](https://google.com/search?q=https%3A%2F%2Fwww.casaley.com.mx%2F) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-01-02 | [`Stratacache`](https://google.com/search?q=Stratacache) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-01-02 | [`S???`](https://google.com/search?q=S%3F%3F%3F) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-01-01 | [`CDER`](https://google.com/search?q=CDER) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-01-01 | [`eds-automotive.de`](https://google.com/search?q=eds-automotive.de) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
