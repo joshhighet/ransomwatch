@@ -4,6 +4,14 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-02-03 | [`tonoli.com`](https://google.com/search?q=tonoli.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-02-03 | [`scandia.ro`](https://google.com/search?q=scandia.ro) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-02-03 | [`sakrgroup.net`](https://google.com/search?q=sakrgroup.net) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-02-03 | [`kostika.co.il`](https://google.com/search?q=kostika.co.il) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-02-03 | [`guardiananalytics.com`](https://google.com/search?q=guardiananalytics.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-02-03 | [`fabricatedpipe.com`](https://google.com/search?q=fabricatedpipe.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-02-03 | [`crystalcreamery.com`](https://google.com/search?q=crystalcreamery.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-02-03 | [`bethrivkah.edu`](https://google.com/search?q=bethrivkah.edu) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-02-02 | [`transportsn.com`](https://google.com/search?q=transportsn.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-02-02 | [`seelllc.com`](https://google.com/search?q=seelllc.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-02-02 | [`plasmasurgical.com`](https://google.com/search?q=plasmasurgical.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -196,11 +204,3 @@ _last `200` posts_
 | 2023-01-06 | [`PROQUINAL Spradling Group`](https://google.com/search?q=PROQUINAL+Spradling+Group) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2023-01-06 | [`LetMeRepair`](https://google.com/search?q=LetMeRepair) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2023-01-06 | [`Consulate Health Care`](https://google.com/search?q=Consulate+Health+Care) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
-| 2023-01-05 | [`Ellison Technologies`](https://google.com/search?q=Ellison+Technologies) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
-| 2023-01-05 | [`Hayward`](https://google.com/search?q=Hayward) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
-| 2023-01-05 | [`Kansas City Homes`](https://google.com/search?q=Kansas+City+Homes) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
-| 2023-01-05 | [`Nexon Asia Pacific`](https://google.com/search?q=Nexon+Asia+Pacific) | [nokoyawa](https://ransomwatch.telemetry.ltd/#/profiles?id=nokoyawa) |
-| 2023-01-05 | [`http://www.dsbj.com/`](https://google.com/search?q=http%3A%2F%2Fwww.dsbj.com%2F) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
-| 2023-01-04 | [`CAPMC`](https://google.com/search?q=CAPMC) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
-| 2023-01-03 | [`Tarntank Ship Management`](https://google.com/search?q=Tarntank+Ship+Management) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-01-03 | [`Aeronautics company Canada - UTC Aerospace Systems, Bombardier, NASA partners`](https://google.com/search?q=Aeronautics+company+Canada+-+UTC+Aerospace+Systems%2C+Bombardier%2C+NASA+partners) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
