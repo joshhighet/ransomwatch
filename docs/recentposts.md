@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-02-03 | [`virtuosgames.com`](https://google.com/search?q=virtuosgames.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-02-03 | [`urmgroup.com.au`](https://google.com/search?q=urmgroup.com.au) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-02-03 | [`Point Dedicated Services`](https://google.com/search?q=Point+Dedicated+Services) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-02-03 | [`redfordpd.com`](https://google.com/search?q=redfordpd.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-02-03 | [`jjdentistry.com`](https://google.com/search?q=jjdentistry.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-01-06 | [`City Lit`](https://google.com/search?q=City+Lit) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2023-01-06 | [`Bay Area Rapid Transit`](https://google.com/search?q=Bay+Area+Rapid+Transit) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2023-01-06 | [`https://lekhabo.nl`](https://google.com/search?q=https%3A%2F%2Flekhabo.nl) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
-| 2023-01-06 | [`http://bevolutiongroup.com`](https://google.com/search?q=http%3A%2F%2Fbevolutiongroup.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
-| 2023-01-06 | [`Sub-drill Supply`](https://google.com/search?q=Sub-drill+Supply) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
