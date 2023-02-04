@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-02-04 | [`nexuspoint.com`](https://google.com/search?q=nexuspoint.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-02-04 | [`SOFTEQ.COM FILES PART9 - Projects\ PUBLISHED`](https://google.com/search?q=SOFTEQ.COM+FILES+PART9+-+Projects%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-02-04 | [`LOESCHGROUP.DE FILES PART16 - 192.168.101.34\DATEN\Media\PIM\ PUBLISHED`](https://google.com/search?q=LOESCHGROUP.DE+FILES+PART16+-+192.168.101.34%5CDATEN%5CMedia%5CPIM%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-02-04 | [`ORDEREXPRESS.COM.MX FILES PART17 - 10.10.1.99\C$\Users\Pablo.Pineda\ PUBLISHED`](https://google.com/search?q=ORDEREXPRESS.COM.MX+FILES+PART17+-+10.10.1.99%5CC%24%5CUsers%5CPablo.Pineda%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-01-07 | [`juarez.gob.mx`](https://google.com/search?q=juarez.gob.mx) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-01-07 | [`100x100banco.com`](https://google.com/search?q=100x100banco.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-01-07 | [`Buffco Production, Inc.`](https://google.com/search?q=Buffco+Production%2C+Inc.) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-01-07 | [`Grupo Estrategas EMM`](https://google.com/search?q=Grupo+Estrategas+EMM) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
