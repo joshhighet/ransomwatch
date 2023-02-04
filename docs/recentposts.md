@@ -4,6 +4,11 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-02-04 | [`SOFTEQ.COM FILES PART9 - Projects\ PUBLISHED`](https://google.com/search?q=SOFTEQ.COM+FILES+PART9+-+Projects%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-02-04 | [`LOESCHGROUP.DE FILES PART16 - 192.168.101.34\DATEN\Media\PIM\ PUBLISHED`](https://google.com/search?q=LOESCHGROUP.DE+FILES+PART16+-+192.168.101.34%5CDATEN%5CMedia%5CPIM%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-02-04 | [`ORDEREXPRESS.COM.MX FILES PART17 - 10.10.1.99\C$\Users\Pablo.Pineda\ PUBLISHED`](https://google.com/search?q=ORDEREXPRESS.COM.MX+FILES+PART17+-+10.10.1.99%5CC%24%5CUsers%5CPablo.Pineda%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-02-04 | [`NYCBAR.ORG FILES PART3 - 10.50.0.62, 10.50.0.70, 10.50.0.79, 10.50.0.85, 10.50.0.91, 10.50`](https://google.com/search?q=NYCBAR.ORG+FILES+PART3+-+10.50.0.62%2C+10.50.0.70%2C+10.50.0.79%2C+10.50.0.85%2C+10.50.0.91%2C+10.50) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-02-04 | [`UNISALLE.EDU.CO FILES FILES PART2 - 172.19.5.30, 172.19.5.53, 172.19.6.59, 172.19.14.25, 1`](https://google.com/search?q=UNISALLE.EDU.CO+FILES+FILES+PART2+-+172.19.5.30%2C+172.19.5.53%2C+172.19.6.59%2C+172.19.14.25%2C+1) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-02-03 | [`virtuosgames.com`](https://google.com/search?q=virtuosgames.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-02-03 | [`urmgroup.com.au`](https://google.com/search?q=urmgroup.com.au) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-02-03 | [`Point Dedicated Services`](https://google.com/search?q=Point+Dedicated+Services) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -199,8 +204,3 @@ _last `200` posts_
 | 2023-01-07 | [`100x100banco.com`](https://google.com/search?q=100x100banco.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-01-07 | [`Buffco Production, Inc.`](https://google.com/search?q=Buffco+Production%2C+Inc.) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-01-07 | [`Grupo Estrategas EMM`](https://google.com/search?q=Grupo+Estrategas+EMM) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-01-07 | [`Pendulum Associates public website of data leak`](https://google.com/search?q=Pendulum+Associates+public+website+of+data+leak) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-01-06 | [`Park View`](https://google.com/search?q=Park+View) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
-| 2023-01-06 | [`City Lit`](https://google.com/search?q=City+Lit) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
-| 2023-01-06 | [`Bay Area Rapid Transit`](https://google.com/search?q=Bay+Area+Rapid+Transit) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
-| 2023-01-06 | [`https://lekhabo.nl`](https://google.com/search?q=https%3A%2F%2Flekhabo.nl) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
