@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-02-05 | [`bplawyers.co.id`](https://google.com/search?q=bplawyers.co.id) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-02-05 | [`Finaport`](https://google.com/search?q=Finaport) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-02-04 | [`Five Guys Enterprises, LLC`](https://google.com/search?q=Five+Guys+Enterprises%2C+LLC) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-02-04 | [`nexuspoint.com`](https://google.com/search?q=nexuspoint.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-02-04 | [`SOFTEQ.COM FILES PART9 - Projects\ PUBLISHED`](https://google.com/search?q=SOFTEQ.COM+FILES+PART9+-+Projects%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-01-07 | [`Swift Academies`](https://google.com/search?q=Swift+Academies) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2023-01-07 | [`Duty Free Philippines`](https://google.com/search?q=Duty+Free+Philippines) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2023-01-07 | [`takamiya.co`](https://google.com/search?q=takamiya.co) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-01-07 | [`juarez.gob.mx`](https://google.com/search?q=juarez.gob.mx) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-01-07 | [`100x100banco.com`](https://google.com/search?q=100x100banco.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
