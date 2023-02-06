@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-02-06 | [`https://www.ics-nett.com/`](https://google.com/search?q=https%3A%2F%2Fwww.ics-nett.com%2F) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
+| 2023-02-06 | [`El-Mohandes`](https://google.com/search?q=El-Mohandes) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-02-05 | [`qsi-q3.de`](https://google.com/search?q=qsi-q3.de) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-02-05 | [`bplawyers.co.id`](https://google.com/search?q=bplawyers.co.id) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-02-05 | [`Finaport`](https://google.com/search?q=Finaport) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-01-08 | [`ORDEREXPRESS.COM.MX FILES PART13 - 10.10.2.246\ PUBLISHED`](https://google.com/search?q=ORDEREXPRESS.COM.MX+FILES+PART13+-+10.10.2.246%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-01-08 | [`millennia.pro`](https://google.com/search?q=millennia.pro) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-01-07 | [`Fruttagel`](https://google.com/search?q=Fruttagel) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-01-07 | [`Swift Academies`](https://google.com/search?q=Swift+Academies) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
-| 2023-01-07 | [`Duty Free Philippines`](https://google.com/search?q=Duty+Free+Philippines) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
