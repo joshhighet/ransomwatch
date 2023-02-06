@@ -4,6 +4,17 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-02-06 | [`*r***** ********** ******** ***********`](https://google.com/search?q=%2Ar%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2023-02-06 | [`A***`](https://google.com/search?q=A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2023-02-06 | [`A*********`](https://google.com/search?q=A%2A%2A%2A%2A%2A%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2023-02-06 | [`wcinet.com`](https://google.com/search?q=wcinet.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-02-06 | [`prlabs.com`](https://google.com/search?q=prlabs.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-02-06 | [`nicklaus.com`](https://google.com/search?q=nicklaus.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-02-06 | [`medellin.gov.co`](https://google.com/search?q=medellin.gov.co) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-02-06 | [`jams.edu.jo`](https://google.com/search?q=jams.edu.jo) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-02-06 | [`hkri.com`](https://google.com/search?q=hkri.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-02-06 | [`etbrick.com`](https://google.com/search?q=etbrick.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-02-06 | [`crispinvalve.com`](https://google.com/search?q=crispinvalve.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-02-06 | [`https://www.ics-nett.com/`](https://google.com/search?q=https%3A%2F%2Fwww.ics-nett.com%2F) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
 | 2023-02-06 | [`El-Mohandes`](https://google.com/search?q=El-Mohandes) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-02-05 | [`qsi-q3.de`](https://google.com/search?q=qsi-q3.de) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -193,14 +204,3 @@ _last `200` posts_
 | 2023-01-10 | [`Thor Specialties, Inc.`](https://google.com/search?q=Thor+Specialties%2C+Inc.) | [lorenz](https://ransomwatch.telemetry.ltd/#/profiles?id=lorenz) |
 | 2023-01-10 | [`Shelco`](https://google.com/search?q=Shelco) | [lorenz](https://ransomwatch.telemetry.ltd/#/profiles?id=lorenz) |
 | 2023-01-10 | [`Chestertons Inc.`](https://google.com/search?q=Chestertons+Inc.) | [lorenz](https://ransomwatch.telemetry.ltd/#/profiles?id=lorenz) |
-| 2023-01-10 | [`datair.com`](https://google.com/search?q=datair.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-01-10 | [`Fire Rescue Victoria`](https://google.com/search?q=Fire+Rescue+Victoria) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
-| 2023-01-09 | [`Aviacode`](https://google.com/search?q=Aviacode) | [0mega](https://ransomwatch.telemetry.ltd/#/profiles?id=0mega) |
-| 2023-01-09 | [`River City Science Academy`](https://google.com/search?q=River+City+Science+Academy) | [karakurt](https://ransomwatch.telemetry.ltd/#/profiles?id=karakurt) |
-| 2023-01-09 | [`Koo Wee Rup Secondary College`](https://google.com/search?q=Koo+Wee+Rup+Secondary+College) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-01-08 | [`asianrecorp.com`](https://google.com/search?q=asianrecorp.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-01-08 | [`SOFTEQ.COM FILES PART5 - git_softeq PUBLISHED`](https://google.com/search?q=SOFTEQ.COM+FILES+PART5+-+git_softeq+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-01-08 | [`LOESCHGROUP.DE FILES PART12 - 192.168.101.34\DATEN\Media\12_Kataloge\00_vor 2022\ PUBLISHE`](https://google.com/search?q=LOESCHGROUP.DE+FILES+PART12+-+192.168.101.34%5CDATEN%5CMedia%5C12_Kataloge%5C00_vor+2022%5C+PUBLISHE) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-01-08 | [`ORDEREXPRESS.COM.MX FILES PART13 - 10.10.2.246\ PUBLISHED`](https://google.com/search?q=ORDEREXPRESS.COM.MX+FILES+PART13+-+10.10.2.246%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-01-08 | [`millennia.pro`](https://google.com/search?q=millennia.pro) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-01-07 | [`Fruttagel`](https://google.com/search?q=Fruttagel) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
