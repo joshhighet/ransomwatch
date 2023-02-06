@@ -1,7 +1,52 @@
-<html>
-<head><title>502 Bad Gateway</title></head>
-<body bgcolor="white">
-<center><h1>502 Bad Gateway</h1></center>
-<hr><center>nginx</center>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="/static/icons/favicon.ico" type="image/x-icon">
+    <script src="/static/js/jquery-3.5.1.js"></script>
+    <script src="/static/js/crypto-js.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="/static/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="/static/css/bootstrap-icons.css">
+    <link rel="stylesheet" type=text/css href="/static/css/css.css" />
+    <script type="text/javascript" src="/static/js/XbnMhsSuj.js"></script>
+    <title>ZEON.Recovery - Enter the key</title>
+</head>
+
+    <script>
+        function showMessage(text){
+            $('#message_text').text(text)
+            if($('#popup_z').is(":visible")){
+                $('#popup-message').fadeIn(300).delay(500).fadeOut(300)
+                $('#popup_z').delay(600).fadeOut(400)
+            } else {
+                $('#popup_z').fadeIn(300).delay(600).fadeOut(300)
+                $('#popup-message').fadeIn(300).delay(500).fadeOut(300)
+            }
+        }
+    </script>
+
+<body class="bg sign_body">
+    <main id="content" class="container sign_class">
+        <div class="container-fluid dash protect_container">
+            <div class="protectd dash_content">
+                <div id="id_1" class="chat_form_cl" action="">
+                    <div class="form_inp form_chat_textarea">
+                        <input class="key_inp" id='key' type="key" maxlength="80" placeholder="KEY" autocomplete="off">
+                    </div>
+                    <input type="button" onclick="create_chat()" value="Send" class="btn snd_inp send_inp">
+                </div>
+            </div>
+        </div>
+    </main>
 </body>
+
+<div class="b-popup" id="popup_z" style="display: none;">
+    <div class="popup" id="popup-message" style="top: 10%;">
+        <div class="pop_field">
+            <p id="message_text">Some Text</p>
+        </div>
+    </div>
+</div>
+
 </html>
