@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-02-08 | [`http://www.trendsetterengineering.com`](https://google.com/search?q=http%3A%2F%2Fwww.trendsetterengineering.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
 | 2023-02-08 | [`transports-feuillet.fr`](https://google.com/search?q=transports-feuillet.fr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-02-07 | [`Penn Power Group`](https://google.com/search?q=Penn+Power+Group) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
 | 2023-02-07 | [`cantinatollo.it`](https://google.com/search?q=cantinatollo.it) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-01-12 | [`nuxe.com`](https://google.com/search?q=nuxe.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-01-12 | [`lidestrifoodanddrink.com`](https://google.com/search?q=lidestrifoodanddrink.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-01-12 | [`muellergartenbau.ch`](https://google.com/search?q=muellergartenbau.ch) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-01-12 | [`lloyddowson.co.uk`](https://google.com/search?q=lloyddowson.co.uk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
