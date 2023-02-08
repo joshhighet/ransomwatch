@@ -4,6 +4,12 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-02-08 | [`Cave Beblenheim`](https://google.com/search?q=Cave+Beblenheim) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-02-08 | [`ACS`](https://google.com/search?q=ACS) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-02-08 | [`A10`](https://google.com/search?q=A10) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-02-08 | [`Menken Orlando`](https://google.com/search?q=Menken+Orlando) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
+| 2023-02-08 | [`JReynolds`](https://google.com/search?q=JReynolds) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
+| 2023-02-08 | [`Kerber, Eck & Braeckel LLP`](https://google.com/search?q=Kerber%2C+Eck+%26+Braeckel+LLP) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-02-08 | [`http://www.trendsetterengineering.com`](https://google.com/search?q=http%3A%2F%2Fwww.trendsetterengineering.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
 | 2023-02-08 | [`transports-feuillet.fr`](https://google.com/search?q=transports-feuillet.fr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-02-07 | [`Penn Power Group`](https://google.com/search?q=Penn+Power+Group) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
@@ -198,9 +204,3 @@ _last `200` posts_
 | 2023-01-13 | [`Air Comm Corporation`](https://google.com/search?q=Air+Comm+Corporation) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-01-12 | [`http://www.lvcdlaw.com`](https://google.com/search?q=http%3A%2F%2Fwww.lvcdlaw.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
 | 2023-01-12 | [`http://www.tasupply.com`](https://google.com/search?q=http%3A%2F%2Fwww.tasupply.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
-| 2023-01-12 | [`http://www.ruhrpumpen.com`](https://google.com/search?q=http%3A%2F%2Fwww.ruhrpumpen.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
-| 2023-01-12 | [`versteden.com`](https://google.com/search?q=versteden.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-01-12 | [`russellfinex.com`](https://google.com/search?q=russellfinex.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-01-12 | [`nuxe.com`](https://google.com/search?q=nuxe.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-01-12 | [`lidestrifoodanddrink.com`](https://google.com/search?q=lidestrifoodanddrink.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-01-12 | [`muellergartenbau.ch`](https://google.com/search?q=muellergartenbau.ch) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
