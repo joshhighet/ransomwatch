@@ -4,6 +4,17 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-02-11 | [`I*****`](https://google.com/search?q=I%2A%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2023-02-11 | [`Danielski Farms Inc.`](https://google.com/search?q=Danielski+Farms+Inc.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2023-02-11 | [`Advance2000`](https://google.com/search?q=Advance2000) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2023-02-11 | [`ANXA`](https://google.com/search?q=ANXA) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2023-02-11 | [`Thompson Safety`](https://google.com/search?q=Thompson+Safety) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2023-02-11 | [`HAK Grazbachgasse`](https://google.com/search?q=HAK+Grazbachgasse) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2023-02-11 | [`SOFTEQ.COM FILES PART10 - Projects\ PUBLISHED`](https://google.com/search?q=SOFTEQ.COM+FILES+PART10+-+Projects%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-02-11 | [`LOESCHGROUP.DE FILES PART17 - 192.168.101.34\DATEN\Media\PIM\ PUBLISHED`](https://google.com/search?q=LOESCHGROUP.DE+FILES+PART17+-+192.168.101.34%5CDATEN%5CMedia%5CPIM%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-02-11 | [`ORDEREXPRESS.COM.MX FILES PART18 - 10.100.2.224 PUBLISHED`](https://google.com/search?q=ORDEREXPRESS.COM.MX+FILES+PART18+-+10.100.2.224+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-02-11 | [`NYCBAR.ORG FILES PART4 - 10.50.0.16\H$\SECURE-D\ PUBLISHED`](https://google.com/search?q=NYCBAR.ORG+FILES+PART4+-+10.50.0.16%5CH%24%5CSECURE-D%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-02-11 | [`UNISALLE.EDU.CO FILES PART3 - 172.19.3.20, 172.19.5.25, 172.19.5.42, 172.19.5.106, 172.19.`](https://google.com/search?q=UNISALLE.EDU.CO+FILES+PART3+-+172.19.3.20%2C+172.19.5.25%2C+172.19.5.42%2C+172.19.5.106%2C+172.19.) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-02-10 | [`http://www.tusd1.org`](https://google.com/search?q=http%3A%2F%2Fwww.tusd1.org) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
 | 2023-02-10 | [`Jeffries Morris`](https://google.com/search?q=Jeffries+Morris) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2023-02-09 | [`M???????? S??`](https://google.com/search?q=M%3F%3F%3F%3F%3F%3F%3F%3F+S%3F%3F) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -193,14 +204,3 @@ _last `200` posts_
 | 2023-01-15 | [`DAYTON PROGRESS`](https://google.com/search?q=DAYTON+PROGRESS) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-01-15 | [`El Seif Development`](https://google.com/search?q=El+Seif+Development) | [mallox](https://ransomwatch.telemetry.ltd/#/profiles?id=mallox) |
 | 2023-01-14 | [`matrixschools.edu.my`](https://google.com/search?q=matrixschools.edu.my) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-01-14 | [`Holovis`](https://google.com/search?q=Holovis) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
-| 2023-01-14 | [`TIMco`](https://google.com/search?q=TIMco) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
-| 2023-01-14 | [`http://www.hills-motors.co.uk`](https://google.com/search?q=http%3A%2F%2Fwww.hills-motors.co.uk) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
-| 2023-01-14 | [`https://www.samuelsseafood.com`](https://google.com/search?q=https%3A%2F%2Fwww.samuelsseafood.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
-| 2023-01-14 | [`Central Texas College`](https://google.com/search?q=Central+Texas+College) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
-| 2023-01-14 | [`K2 Sports`](https://google.com/search?q=K2+Sports) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
-| 2023-01-13 | [`SOFTEQ.COM FILES PART6 - Projects\ PUBLISHED`](https://google.com/search?q=SOFTEQ.COM+FILES+PART6+-+Projects%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-01-13 | [`LOESCHGROUP.DE FILES PART13 - 192.168.101.34\DATEN\Media\Img\ PUBLISHED`](https://google.com/search?q=LOESCHGROUP.DE+FILES+PART13+-+192.168.101.34%5CDATEN%5CMedia%5CImg%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-01-13 | [`ORDEREXPRESS.COM.MX FILES FILES PART14 - 10.10.2.246\CCOECUMPLIMIENTO\ PUBLISHED`](https://google.com/search?q=ORDEREXPRESS.COM.MX+FILES+FILES+PART14+-+10.10.2.246%5CCCOECUMPLIMIENTO%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-01-13 | [`fujikura-electronics.co.th`](https://google.com/search?q=fujikura-electronics.co.th) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-01-13 | [`Trans Maldivian Airways`](https://google.com/search?q=Trans+Maldivian+Airways) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
