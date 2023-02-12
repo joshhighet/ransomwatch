@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-02-12 | [`mrkpc.com`](https://google.com/search?q=mrkpc.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-02-12 | [`covermeinsurance.com`](https://google.com/search?q=covermeinsurance.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-02-12 | [`maysecc.com`](https://google.com/search?q=maysecc.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-02-12 | [`interpaving.com`](https://google.com/search?q=interpaving.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-02-12 | [`B&G Foods (CA, US)`](https://google.com/search?q=B%26G+Foods+%28CA%2C+US%29) | [daixin](https://ransomwatch.telemetry.ltd/#/profiles?id=daixin) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-01-16 | [`atcuae.ae`](https://google.com/search?q=atcuae.ae) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-01-16 | [`ak.com.sa`](https://google.com/search?q=ak.com.sa) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-01-16 | [`University of Duisburg-Essen`](https://google.com/search?q=University+of+Duisburg-Essen) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
-| 2023-01-16 | [`Yayla Enerji Uretim Turizm ve Insaat Ticaret`](https://google.com/search?q=Yayla+Enerji+Uretim+Turizm+ve+Insaat+Ticaret) | [mallox](https://ransomwatch.telemetry.ltd/#/profiles?id=mallox) |
-| 2023-01-16 | [`fulfilmentmatters.co.uk`](https://google.com/search?q=fulfilmentmatters.co.uk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
