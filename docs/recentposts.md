@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-02-12 | [`B&G Foods (CA, US)`](https://google.com/search?q=B%26G+Foods+%28CA%2C+US%29) | [daixin](https://ransomwatch.telemetry.ltd/#/profiles?id=daixin) |
+| 2023-02-12 | [`Aviacode (GeBBS)`](https://google.com/search?q=Aviacode+%28GeBBS%29) | [0mega](https://ransomwatch.telemetry.ltd/#/profiles?id=0mega) |
 | 2023-02-11 | [`I*****`](https://google.com/search?q=I%2A%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-02-11 | [`Danielski Farms Inc.`](https://google.com/search?q=Danielski+Farms+Inc.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-02-11 | [`Advance2000`](https://google.com/search?q=Advance2000) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-01-16 | [`fulfilmentmatters.co.uk`](https://google.com/search?q=fulfilmentmatters.co.uk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-01-16 | [`Arnold Clark`](https://google.com/search?q=Arnold+Clark) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-01-15 | [`DAYTON PROGRESS`](https://google.com/search?q=DAYTON+PROGRESS) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-01-15 | [`El Seif Development`](https://google.com/search?q=El+Seif+Development) | [mallox](https://ransomwatch.telemetry.ltd/#/profiles?id=mallox) |
-| 2023-01-14 | [`matrixschools.edu.my`](https://google.com/search?q=matrixschools.edu.my) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
