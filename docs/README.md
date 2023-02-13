@@ -2,13 +2,13 @@
 ## summary
 _february 13th, 2023_
 
-currently tracking `131` groups across `240` relays & mirrors - _`92` currently online_
+currently tracking `131` groups across `240` relays & mirrors - _`86` currently online_
 
-⏲ there have been `13` posts within the `last 24 hours`
+⏲ there have been `11` posts within the `last 24 hours`
 
 🦈 there have been `99` posts within the `month of february`
 
-🪐 there have been `735` posts within the `last 90 days`
+🪐 there have been `734` posts within the `last 90 days`
 
 🏚 there have been `291` posts within the `year of 2023`
 
