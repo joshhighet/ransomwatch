@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-02-13 | [`mdstrucking.com`](https://google.com/search?q=mdstrucking.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-02-13 | [`laganscg.com`](https://google.com/search?q=laganscg.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-02-13 | [`greekpeak.net`](https://google.com/search?q=greekpeak.net) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-02-12 | [`wilsonart.co.th`](https://google.com/search?q=wilsonart.co.th) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-02-12 | [`ppinvestors.com`](https://google.com/search?q=ppinvestors.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-02-12 | [`olsenlawgroup.com`](https://google.com/search?q=olsenlawgroup.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2023-01-18 | [`https://www.kazcolaw.com`](https://google.com/search?q=https%3A%2F%2Fwww.kazcolaw.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
 | 2023-01-17 | [`http://www.livingstonintl.com`](https://google.com/search?q=http%3A%2F%2Fwww.livingstonintl.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
 | 2023-01-17 | [`NYCBAR.ORG FILES PART1 - 10.50.3.44 PUBLISHED`](https://google.com/search?q=NYCBAR.ORG+FILES+PART1+-+10.50.3.44+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-01-17 | [`http://www.carinya.nsw.edu.au`](https://google.com/search?q=http%3A%2F%2Fwww.carinya.nsw.edu.au) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
-| 2023-01-16 | [`R C Stevens Construction`](https://google.com/search?q=R+C+Stevens+Construction) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
-| 2023-01-16 | [`https://www.autodelta.pt/`](https://google.com/search?q=https%3A%2F%2Fwww.autodelta.pt%2F) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
