@@ -4,6 +4,14 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-02-13 | [`http://www.reventics.com`](https://google.com/search?q=http%3A%2F%2Fwww.reventics.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
+| 2023-02-13 | [`vanderkaay.com`](https://google.com/search?q=vanderkaay.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-02-13 | [`tucsoneyecare.com`](https://google.com/search?q=tucsoneyecare.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-02-13 | [`nonson.com.vn`](https://google.com/search?q=nonson.com.vn) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-02-13 | [`mangalagroup.com`](https://google.com/search?q=mangalagroup.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-02-13 | [`hidalgocounty.us`](https://google.com/search?q=hidalgocounty.us) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-02-13 | [`dana-group.com`](https://google.com/search?q=dana-group.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-02-13 | [`chempartner.com`](https://google.com/search?q=chempartner.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-02-13 | [`mdstrucking.com`](https://google.com/search?q=mdstrucking.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-02-13 | [`laganscg.com`](https://google.com/search?q=laganscg.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-02-13 | [`greekpeak.net`](https://google.com/search?q=greekpeak.net) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -196,11 +204,3 @@ _last `200` posts_
 | 2023-01-20 | [`flatironssolutions.com`](https://google.com/search?q=flatironssolutions.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-01-20 | [`Monmouth College`](https://google.com/search?q=Monmouth+College) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2023-01-19 | [`NextGen`](https://google.com/search?q=NextGen) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-01-19 | [`Fresh Del Monte`](https://google.com/search?q=Fresh+Del+Monte) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-01-19 | [`Pharmacare`](https://google.com/search?q=Pharmacare) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-01-18 | [`tvk.nl`](https://google.com/search?q=tvk.nl) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-01-18 | [`duomed.com`](https://google.com/search?q=duomed.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-01-18 | [`Alhambra-Eidos`](https://google.com/search?q=Alhambra-Eidos) | [mallox](https://ransomwatch.telemetry.ltd/#/profiles?id=mallox) |
-| 2023-01-18 | [`https://www.kazcolaw.com`](https://google.com/search?q=https%3A%2F%2Fwww.kazcolaw.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
-| 2023-01-17 | [`http://www.livingstonintl.com`](https://google.com/search?q=http%3A%2F%2Fwww.livingstonintl.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
-| 2023-01-17 | [`NYCBAR.ORG FILES PART1 - 10.50.3.44 PUBLISHED`](https://google.com/search?q=NYCBAR.ORG+FILES+PART1+-+10.50.3.44+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
