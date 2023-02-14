@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-02-14 | [`http://www.alexandercityal.gov`](https://google.com/search?q=http%3A%2F%2Fwww.alexandercityal.gov) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
+| 2023-02-14 | [`https://www.delallo.com`](https://google.com/search?q=https%3A%2F%2Fwww.delallo.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
 | 2023-02-14 | [`cefcostores.com`](https://google.com/search?q=cefcostores.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-02-14 | [`albanesi.com.ar`](https://google.com/search?q=albanesi.com.ar) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-02-14 | [`srf.com`](https://google.com/search?q=srf.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-01-21 | [`https://cadmet.com/`](https://google.com/search?q=https%3A%2F%2Fcadmet.com%2F) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
 | 2023-01-21 | [`Jeppesen`](https://google.com/search?q=Jeppesen) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2023-01-21 | [`The Exchange Bank`](https://google.com/search?q=The+Exchange+Bank) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2023-01-21 | [`Sterling`](https://google.com/search?q=Sterling) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2023-01-21 | [`NatureWorks`](https://google.com/search?q=NatureWorks) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
