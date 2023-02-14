@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-02-14 | [`albanesi.com.ar`](https://google.com/search?q=albanesi.com.ar) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-02-14 | [`srf.com`](https://google.com/search?q=srf.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-02-14 | [`Hospital Service SpA`](https://google.com/search?q=Hospital+Service+SpA) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2023-02-14 | [`Vitas`](https://google.com/search?q=Vitas) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-01-21 | [`Sterling`](https://google.com/search?q=Sterling) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2023-01-21 | [`NatureWorks`](https://google.com/search?q=NatureWorks) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2023-01-20 | [`SOFTEQ.COM FILES PART7 - Projects\ PUBLISHED`](https://google.com/search?q=SOFTEQ.COM+FILES+PART7+-+Projects%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-01-20 | [`LOESCHGROUP.DE FILES PART14 - 192.168.101.34\DATEN\Media\Img\ PUBLISHED`](https://google.com/search?q=LOESCHGROUP.DE+FILES+PART14+-+192.168.101.34%5CDATEN%5CMedia%5CImg%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
