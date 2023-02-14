@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-02-14 | [`Microgame SpA`](https://google.com/search?q=Microgame+SpA) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-02-14 | [`Energie Pool Schweiz`](https://google.com/search?q=Energie+Pool+Schweiz) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-02-14 | [`http://www.alexandercityal.gov`](https://google.com/search?q=http%3A%2F%2Fwww.alexandercityal.gov) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
 | 2023-02-14 | [`https://www.delallo.com`](https://google.com/search?q=https%3A%2F%2Fwww.delallo.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
 | 2023-02-14 | [`cefcostores.com`](https://google.com/search?q=cefcostores.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-01-21 | [`e-driver.hsc.gov.ua - 431 GB SOLD`](https://google.com/search?q=e-driver.hsc.gov.ua+-+431+GB+SOLD) | [freecivilian](https://ransomwatch.telemetry.ltd/#/profiles?id=freecivilian) |
 | 2023-01-21 | [`diia.gov.ua - 765 GB *NEW*`](https://google.com/search?q=diia.gov.ua+-+765+GB+%2ANEW%2A) | [freecivilian](https://ransomwatch.telemetry.ltd/#/profiles?id=freecivilian) |
 | 2023-01-21 | [`https://cadmet.com/`](https://google.com/search?q=https%3A%2F%2Fcadmet.com%2F) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
-| 2023-01-21 | [`Jeppesen`](https://google.com/search?q=Jeppesen) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2023-01-21 | [`The Exchange Bank`](https://google.com/search?q=The+Exchange+Bank) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
