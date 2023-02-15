@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-02-15 | [`Leal Group`](https://google.com/search?q=Leal+Group) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-02-15 | [`gruppobeltrame.com`](https://google.com/search?q=gruppobeltrame.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-02-14 | [`Microgame SpA`](https://google.com/search?q=Microgame+SpA) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-02-14 | [`Energie Pool Schweiz`](https://google.com/search?q=Energie+Pool+Schweiz) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-01-21 | [`minregion.gov.ua - 904 GB`](https://google.com/search?q=minregion.gov.ua+-+904+GB) | [freecivilian](https://ransomwatch.telemetry.ltd/#/profiles?id=freecivilian) |
 | 2023-01-21 | [`wanted.mvs.gov.ua - 3.29 GB`](https://google.com/search?q=wanted.mvs.gov.ua+-+3.29+GB) | [freecivilian](https://ransomwatch.telemetry.ltd/#/profiles?id=freecivilian) |
 | 2023-01-21 | [`e-driver.hsc.gov.ua - 431 GB SOLD`](https://google.com/search?q=e-driver.hsc.gov.ua+-+431+GB+SOLD) | [freecivilian](https://ransomwatch.telemetry.ltd/#/profiles?id=freecivilian) |
-| 2023-01-21 | [`diia.gov.ua - 765 GB *NEW*`](https://google.com/search?q=diia.gov.ua+-+765+GB+%2ANEW%2A) | [freecivilian](https://ransomwatch.telemetry.ltd/#/profiles?id=freecivilian) |
