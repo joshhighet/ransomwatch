@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-02-16 | [`ziapueblo.org`](https://google.com/search?q=ziapueblo.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-02-16 | [`vitrox.com`](https://google.com/search?q=vitrox.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-02-16 | [`royallepage.ca`](https://google.com/search?q=royallepage.ca) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-02-16 | [`http://www.evansonline.com`](https://google.com/search?q=http%3A%2F%2Fwww.evansonline.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
 | 2023-02-16 | [`coreautomation.com`](https://google.com/search?q=coreautomation.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-02-16 | [`Hydrofit Alliance Ltd`](https://google.com/search?q=Hydrofit+Alliance+Ltd) | [mallox](https://ransomwatch.telemetry.ltd/#/profiles?id=mallox) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2023-01-21 | [`payroll2u.com`](https://google.com/search?q=payroll2u.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-01-21 | [`https://www.pillar.ca`](https://google.com/search?q=https%3A%2F%2Fwww.pillar.ca) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
 | 2023-01-21 | [`HRL Technology Group`](https://google.com/search?q=HRL+Technology+Group) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2023-01-21 | [`N****`](https://google.com/search?q=N%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2023-01-21 | [`A`](https://google.com/search?q=A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2023-01-21 | [`mfa.gov.ua`](https://google.com/search?q=mfa.gov.ua) | [freecivilian](https://ransomwatch.telemetry.ltd/#/profiles?id=freecivilian) |
