@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-02-16 | [`Mecaro Co., Ltd`](https://google.com/search?q=Mecaro+Co.%2C+Ltd) | [mallox](https://ransomwatch.telemetry.ltd/#/profiles?id=mallox) |
+| 2023-02-16 | [`trudi.it`](https://google.com/search?q=trudi.it) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-02-16 | [`blackandwhitecabs.com.au`](https://google.com/search?q=blackandwhitecabs.com.au) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-02-15 | [`vipar.com`](https://google.com/search?q=vipar.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-02-15 | [`semsinc.net`](https://google.com/search?q=semsinc.net) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-02-15 | [`richardsind.com`](https://google.com/search?q=richardsind.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2023-01-21 | [`mon.gov.ua`](https://google.com/search?q=mon.gov.ua) | [freecivilian](https://ransomwatch.telemetry.ltd/#/profiles?id=freecivilian) |
 | 2023-01-21 | [`kmu.gov.ua`](https://google.com/search?q=kmu.gov.ua) | [freecivilian](https://ransomwatch.telemetry.ltd/#/profiles?id=freecivilian) |
 | 2023-01-21 | [`gkh.in.ua`](https://google.com/search?q=gkh.in.ua) | [freecivilian](https://ransomwatch.telemetry.ltd/#/profiles?id=freecivilian) |
-| 2023-01-21 | [`bdr.mvs.gov.ua`](https://google.com/search?q=bdr.mvs.gov.ua) | [freecivilian](https://ransomwatch.telemetry.ltd/#/profiles?id=freecivilian) |
-| 2023-01-21 | [`kyivcity.com`](https://google.com/search?q=kyivcity.com) | [freecivilian](https://ransomwatch.telemetry.ltd/#/profiles?id=freecivilian) |
-| 2023-01-21 | [`motorsich.com`](https://google.com/search?q=motorsich.com) | [freecivilian](https://ransomwatch.telemetry.ltd/#/profiles?id=freecivilian) |
