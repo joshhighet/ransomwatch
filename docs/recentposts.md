@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-02-16 | [`Hydrofit Alliance Ltd`](https://google.com/search?q=Hydrofit+Alliance+Ltd) | [mallox](https://ransomwatch.telemetry.ltd/#/profiles?id=mallox) |
+| 2023-02-16 | [`Gallier Orléans`](https://google.com/search?q=Gallier+Orl%C3%A9ans) | [mallox](https://ransomwatch.telemetry.ltd/#/profiles?id=mallox) |
 | 2023-02-16 | [`Mecaro Co., Ltd`](https://google.com/search?q=Mecaro+Co.%2C+Ltd) | [mallox](https://ransomwatch.telemetry.ltd/#/profiles?id=mallox) |
 | 2023-02-16 | [`trudi.it`](https://google.com/search?q=trudi.it) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-02-16 | [`blackandwhitecabs.com.au`](https://google.com/search?q=blackandwhitecabs.com.au) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-01-21 | [`mfa.gov.ua`](https://google.com/search?q=mfa.gov.ua) | [freecivilian](https://ransomwatch.telemetry.ltd/#/profiles?id=freecivilian) |
 | 2023-01-21 | [`minagro.gov.ua`](https://google.com/search?q=minagro.gov.ua) | [freecivilian](https://ransomwatch.telemetry.ltd/#/profiles?id=freecivilian) |
 | 2023-01-21 | [`mon.gov.ua`](https://google.com/search?q=mon.gov.ua) | [freecivilian](https://ransomwatch.telemetry.ltd/#/profiles?id=freecivilian) |
-| 2023-01-21 | [`kmu.gov.ua`](https://google.com/search?q=kmu.gov.ua) | [freecivilian](https://ransomwatch.telemetry.ltd/#/profiles?id=freecivilian) |
-| 2023-01-21 | [`gkh.in.ua`](https://google.com/search?q=gkh.in.ua) | [freecivilian](https://ransomwatch.telemetry.ltd/#/profiles?id=freecivilian) |
