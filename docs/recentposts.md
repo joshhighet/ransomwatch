@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-02-18 | [`championfp.com`](https://google.com/search?q=championfp.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-02-18 | [`sandycove.org`](https://google.com/search?q=sandycove.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-02-18 | [`primorossi.com.br`](https://google.com/search?q=primorossi.com.br) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-02-18 | [`isosteo.fr`](https://google.com/search?q=isosteo.fr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-01-28 | [`Westmont Hospitality Group`](https://google.com/search?q=Westmont+Hospitality+Group) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-01-28 | [`EGR`](https://google.com/search?q=EGR) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2023-01-27 | [`Ultrabulk`](https://google.com/search?q=Ultrabulk) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-01-27 | [`sdfsdf.dfg`](https://google.com/search?q=sdfsdf.dfg) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
