@@ -4,6 +4,16 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-02-18 | [`sandycove.org`](https://google.com/search?q=sandycove.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-02-18 | [`primorossi.com.br`](https://google.com/search?q=primorossi.com.br) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-02-18 | [`isosteo.fr`](https://google.com/search?q=isosteo.fr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-02-18 | [`inowai.com`](https://google.com/search?q=inowai.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-02-18 | [`diavaz.com`](https://google.com/search?q=diavaz.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-02-18 | [`aguasdoporto.pt`](https://google.com/search?q=aguasdoporto.pt) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-02-18 | [`SOFTEQ.COM FILES PART11 - VMdisk\ PUBLISHED`](https://google.com/search?q=SOFTEQ.COM+FILES+PART11+-+VMdisk%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-02-18 | [`LOESCHGROUP.DE FILES PART18 - 192.168.101.34\DATEN\Media\ PUBLISHED`](https://google.com/search?q=LOESCHGROUP.DE+FILES+PART18+-+192.168.101.34%5CDATEN%5CMedia%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-02-18 | [`NYCBAR.ORG FILES PART5 - 10.50.0.16\H$\SECURE-D\ PUBLISHED`](https://google.com/search?q=NYCBAR.ORG+FILES+PART5+-+10.50.0.16%5CH%24%5CSECURE-D%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-02-18 | [`UNISALLE.EDU.CO FILES PART4 - 172.19.2.37, 172.19.2.62, 172.19.2.65, 172.19.2.86, 172.19.2`](https://google.com/search?q=UNISALLE.EDU.CO+FILES+PART4+-+172.19.2.37%2C+172.19.2.62%2C+172.19.2.65%2C+172.19.2.86%2C+172.19.2) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-02-18 | [`piercetransit.org`](https://google.com/search?q=piercetransit.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-02-18 | [`innophaseinc.com`](https://google.com/search?q=innophaseinc.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-02-18 | [`hotdesk.me`](https://google.com/search?q=hotdesk.me) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -194,13 +204,3 @@ _last `200` posts_
 | 2023-01-28 | [`EGR`](https://google.com/search?q=EGR) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2023-01-27 | [`Ultrabulk`](https://google.com/search?q=Ultrabulk) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-01-27 | [`sdfsdf.dfg`](https://google.com/search?q=sdfsdf.dfg) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-01-27 | [`Bristol Community College`](https://google.com/search?q=Bristol+Community+College) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
-| 2023-01-26 | [`********* ******** ***** ***`](https://google.com/search?q=%2A%2A%2A%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A+%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2023-01-26 | [`*******`](https://google.com/search?q=%2A%2A%2A%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2023-01-26 | [`http://www.ioccompany.com`](https://google.com/search?q=http%3A%2F%2Fwww.ioccompany.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
-| 2023-01-26 | [`https://www.servicemasterclr.com`](https://google.com/search?q=https%3A%2F%2Fwww.servicemasterclr.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
-| 2023-01-26 | [`https://www.traviscountytx.gov`](https://google.com/search?q=https%3A%2F%2Fwww.traviscountytx.gov) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
-| 2023-01-26 | [`CHARLES P VONDERHAAR CPA WAS HACKED. MORE TNAH 50GB SENSETIVE DATA LEAKED.CHARLES P VONDER`](https://google.com/search?q=CHARLES+P+VONDERHAAR+CPA+WAS+HACKED.+MORE+TNAH+50GB+SENSETIVE+DATA+LEAKED.CHARLES+P+VONDER) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-01-26 | [`SOLAR INDUSTRIES INDIA WAS HACKED. MORE THAN 2TB SECRET MILITARY DATA LEAKED`](https://google.com/search?q=SOLAR+INDUSTRIES+INDIA+WAS+HACKED.+MORE+THAN+2TB+SECRET+MILITARY+DATA+LEAKED) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-01-26 | [`ADMIRAL Sportwetten`](https://google.com/search?q=ADMIRAL+Sportwetten) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-01-25 | [`Navnit Group`](https://google.com/search?q=Navnit+Group) | [mallox](https://ransomwatch.telemetry.ltd/#/profiles?id=mallox) |
