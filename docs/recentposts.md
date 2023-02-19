@@ -4,6 +4,12 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-02-19 | [`servicesfinanciersjdf.com`](https://google.com/search?q=servicesfinanciersjdf.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-02-19 | [`laremo.de`](https://google.com/search?q=laremo.de) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-02-19 | [`jetboxcargo.com`](https://google.com/search?q=jetboxcargo.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-02-19 | [`elliotthomes.com`](https://google.com/search?q=elliotthomes.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-02-19 | [`anthonymartin.be`](https://google.com/search?q=anthonymartin.be) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-02-19 | [`BakerMechanicalInc.com`](https://google.com/search?q=BakerMechanicalInc.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-02-18 | [`AMADA WELD TECH`](https://google.com/search?q=AMADA+WELD+TECH) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-02-18 | [`Hengmei Optoelectronics Co.,Ltd.`](https://google.com/search?q=Hengmei+Optoelectronics+Co.%2CLtd.) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-02-18 | [`Cansew`](https://google.com/search?q=Cansew) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -198,9 +204,3 @@ _last `200` posts_
 | 2023-01-29 | [`NPTC Group of Colleges`](https://google.com/search?q=NPTC+Group+of+Colleges) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2023-01-29 | [`azliver.com`](https://google.com/search?q=azliver.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-01-28 | [`Seguros Equinoccial`](https://google.com/search?q=Seguros+Equinoccial) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
-| 2023-01-28 | [`ylresin.com`](https://google.com/search?q=ylresin.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-01-28 | [`Portnoff Law Associates`](https://google.com/search?q=Portnoff+Law+Associates) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-01-28 | [`SOFTEQ.COM FILES PART8 - Projects\ PUBLISHED`](https://google.com/search?q=SOFTEQ.COM+FILES+PART8+-+Projects%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-01-28 | [`LOESCHGROUP.DE FILES PART15 - 192.168.101.34\DATEN\Media\Img\ PUBLISHED`](https://google.com/search?q=LOESCHGROUP.DE+FILES+PART15+-+192.168.101.34%5CDATEN%5CMedia%5CImg%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-01-28 | [`ORDEREXPRESS.COM.MX FILES PART16 - 10.10.1.99\C$\Users\Pablo.Pineda\ PUBLISHED`](https://google.com/search?q=ORDEREXPRESS.COM.MX+FILES+PART16+-+10.10.1.99%5CC%24%5CUsers%5CPablo.Pineda%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-01-28 | [`NYCBAR.ORG FILES PART2 - 10.50.0.168, 10.50.0.197, 10.50.0.207, 10.50.0.209, 10.50.0.212, `](https://google.com/search?q=NYCBAR.ORG+FILES+PART2+-+10.50.0.168%2C+10.50.0.197%2C+10.50.0.207%2C+10.50.0.209%2C+10.50.0.212%2C+) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
