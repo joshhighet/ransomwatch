@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-02-21 | [`I???o e???t???`](https://google.com/search?q=I%3F%3F%3Fo+e%3F%3F%3Ft%3F%3F%3F) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-02-21 | [`Hopsteiner`](https://google.com/search?q=Hopsteiner) | [lorenz](https://ransomwatch.telemetry.ltd/#/profiles?id=lorenz) |
 | 2023-02-20 | [`https://www.ancora.com.br`](https://google.com/search?q=https%3A%2F%2Fwww.ancora.com.br) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
 | 2023-02-20 | [`https://www.unisco.com`](https://google.com/search?q=https%3A%2F%2Fwww.unisco.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
 | 2023-02-20 | [`https://https://gigatron.rs/`](https://google.com/search?q=https%3A%2F%2Fhttps%3A%2F%2Fgigatron.rs%2F) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-01-30 | [`itsservicios.com.mx`](https://google.com/search?q=itsservicios.com.mx) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-01-30 | [`fritsche.eu.com`](https://google.com/search?q=fritsche.eu.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-01-30 | [`dsavocats.com`](https://google.com/search?q=dsavocats.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-01-30 | [`cplindustries.co.uk`](https://google.com/search?q=cplindustries.co.uk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-01-30 | [`cm-vimioso.pt`](https://google.com/search?q=cm-vimioso.pt) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
