@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-02-22 | [`siqueiracastro.com.br`](https://google.com/search?q=siqueiracastro.com.br) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-02-22 | [`nougat-carlier.be`](https://google.com/search?q=nougat-carlier.be) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-02-22 | [`fosterfarms.com`](https://google.com/search?q=fosterfarms.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-02-22 | [`skylinetrisource.com`](https://google.com/search?q=skylinetrisource.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-02-22 | [`Markas`](https://google.com/search?q=Markas) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-02-22 | [`Summit Brands`](https://google.com/search?q=Summit+Brands) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2023-01-31 | [`Societa Italiana Brevetti SpA`](https://google.com/search?q=Societa+Italiana+Brevetti+SpA) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2023-01-31 | [`tcels.or.th`](https://google.com/search?q=tcels.or.th) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-01-31 | [`parkavedoors.com`](https://google.com/search?q=parkavedoors.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-01-31 | [`geraardsbergen.be`](https://google.com/search?q=geraardsbergen.be) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-01-31 | [`2cara.fr`](https://google.com/search?q=2cara.fr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-01-31 | [`Okanagan College`](https://google.com/search?q=Okanagan+College) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
