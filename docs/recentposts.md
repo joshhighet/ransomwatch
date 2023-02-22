@@ -4,6 +4,12 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-02-22 | [`skylinetrisource.com`](https://google.com/search?q=skylinetrisource.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-02-22 | [`Markas`](https://google.com/search?q=Markas) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
+| 2023-02-22 | [`Summit Brands`](https://google.com/search?q=Summit+Brands) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
+| 2023-02-22 | [`FUTURE BUILDINGS WAS HACKED. MORE THAN 150GB SENSETIVE DATA LEAKED`](https://google.com/search?q=FUTURE+BUILDINGS+WAS+HACKED.+MORE+THAN+150GB+SENSETIVE+DATA+LEAKED) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
+| 2023-02-22 | [`City of Lakewood`](https://google.com/search?q=City+of+Lakewood) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
+| 2023-02-22 | [`EncinoEnergy`](https://google.com/search?q=EncinoEnergy) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-02-21 | [`vuu.edu`](https://google.com/search?q=vuu.edu) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-02-21 | [`treves-group.com`](https://google.com/search?q=treves-group.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-02-21 | [`kboattorneys.com`](https://google.com/search?q=kboattorneys.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -198,9 +204,3 @@ _last `200` posts_
 | 2023-01-31 | [`geraardsbergen.be`](https://google.com/search?q=geraardsbergen.be) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-01-31 | [`2cara.fr`](https://google.com/search?q=2cara.fr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-01-31 | [`Okanagan College`](https://google.com/search?q=Okanagan+College) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
-| 2023-01-30 | [`http://comune.torredelgreco.na.it`](https://google.com/search?q=http%3A%2F%2Fcomune.torredelgreco.na.it) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
-| 2023-01-30 | [`Scheppersinstituut Wetteren`](https://google.com/search?q=Scheppersinstituut+Wetteren) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
-| 2023-01-30 | [`fujikura.co.jp`](https://google.com/search?q=fujikura.co.jp) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-01-30 | [`wealthwise.com.au`](https://google.com/search?q=wealthwise.com.au) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-01-30 | [`perenitysoftware.com`](https://google.com/search?q=perenitysoftware.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-01-30 | [`thermal.com`](https://google.com/search?q=thermal.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
