@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-02-23 | [`https://stoneandsons.com`](https://google.com/search?q=https%3A%2F%2Fstoneandsons.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
+| 2023-02-23 | [`Empresa Distribuidora de Electricidad del Este, Revenue $633.6M`](https://google.com/search?q=Empresa+Distribuidora+de+Electricidad+del+Este%2C+Revenue+%24633.6M) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-02-23 | [`Bond It`](https://google.com/search?q=Bond+It) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2023-02-23 | [`AESCULAPIUS Farmaceutici`](https://google.com/search?q=AESCULAPIUS+Farmaceutici) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2023-02-22 | [`Kendall Hunt Publishing`](https://google.com/search?q=Kendall+Hunt+Publishing) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-02-02 | [`iongroup.com`](https://google.com/search?q=iongroup.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-02-02 | [`https://www.casaley.com.mx/`](https://google.com/search?q=https%3A%2F%2Fwww.casaley.com.mx%2F) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
 | 2023-02-02 | [`SOTO Consulting Engineers`](https://google.com/search?q=SOTO+Consulting+Engineers) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-02-02 | [`pharmagestao.com.br`](https://google.com/search?q=pharmagestao.com.br) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-02-01 | [`N** ******`](https://google.com/search?q=N%2A%2A+%2A%2A%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
