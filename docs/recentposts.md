@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-02-24 | [`The Keen Group`](https://google.com/search?q=The+Keen+Group) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-02-23 | [`Glovers Solicitors LLP`](https://google.com/search?q=Glovers+Solicitors+LLP) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-02-23 | [`"FICCI"`](https://google.com/search?q=%22FICCI%22) | [mallox](https://ransomwatch.telemetry.ltd/#/profiles?id=mallox) |
 | 2023-02-23 | [`https://stoneandsons.com`](https://google.com/search?q=https%3A%2F%2Fstoneandsons.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-02-02 | [`avantetextil.com.mx`](https://google.com/search?q=avantetextil.com.mx) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-02-02 | [`McEwan Fraser Legal`](https://google.com/search?q=McEwan+Fraser+Legal) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-02-02 | [`https://us.messer-cutting.com/`](https://google.com/search?q=https%3A%2F%2Fus.messer-cutting.com%2F) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
-| 2023-02-02 | [`iongroup.com`](https://google.com/search?q=iongroup.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
