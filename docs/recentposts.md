@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-02-25 | [`Smarter Capital`](https://google.com/search?q=Smarter+Capital) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-02-24 | [`ispace.com`](https://google.com/search?q=ispace.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-02-24 | [`InPro electric`](https://google.com/search?q=InPro+electric) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-02-24 | [`https://www.shcm.es`](https://google.com/search?q=https%3A%2F%2Fwww.shcm.es) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-02-02 | [`seelllc.com`](https://google.com/search?q=seelllc.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-02-02 | [`plasmasurgical.com`](https://google.com/search?q=plasmasurgical.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-02-02 | [`nlsmichigan.org`](https://google.com/search?q=nlsmichigan.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-02-02 | [`byte.gr`](https://google.com/search?q=byte.gr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
