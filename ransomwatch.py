@@ -291,6 +291,8 @@ if args.mode == 'parse':
     parsers.karakurt()
     parsers.unsafeleak()
     parsers.freecivilian()
+    parsers.vendetta()
+    parsers.ransomblog_noname()
     stdlog('ransomwatch: ' + 'parse run complete')
 
 if args.mode == 'list':

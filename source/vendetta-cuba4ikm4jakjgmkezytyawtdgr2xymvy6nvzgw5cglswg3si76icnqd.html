@@ -1,0 +1,125 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible"
+          content="ie=edge">
+    <title>Vendetta</title>
+    <link rel="stylesheet"
+          href="/theme/vr/css/style.css">
+    <link rel="stylesheet"
+          href="/theme/vr/css/animate.css">
+</head>
+<body><main>
+    <div class="container">
+        <div class="bg_right wow fadeInUp" data-wow-delay="0.2s">
+            <div class="img"></div>
+            <div class="glitch"></div>
+        </div>
+        <div class="bg_left wow rotateIn">
+            <img src="/theme/vr/img/main_bg_left.png"
+                 alt="">
+        </div>
+        <div class="radius_shadow wow fadeIn" data-wow-delay="0.2s"></div>
+        <div class="logo wow fadeInUp" data-wow-delay="0.4s">
+            <img src="/theme/vr/img/logo.png"
+                 alt="">
+        </div>
+        <div class="posts wow fadeInUp" data-wow-delay="0.6s">
+
+
+            <div class="post">
+                <img src="/content.images/highwealth.com.tw.png"
+                     alt="" class="post-img">
+                <div>
+                    <p class="text">
+In the best location, build the best house, the best homeMore than 30 years ago, we started our business in Kaohsiung. After laying the foundation, we developed all the way north and expanded to Tainan, Taichung, Hsinchu, Taipei, New...
+                    </p>
+                </div>
+                <a href="/company/Highwealth"
+                   class="btn btn-post">Read more</a>
+            </div>
+
+            <div class="post">
+                <img src="/content.images/albouyassociesconsult.png"
+                     alt="" class="post-img">
+                <div>
+                    <p class="text">
+Nos originesCr&eacute;&eacute;e en 1946, l&#039;entreprise a durant les trois premi&egrave;res d&eacute;cennies, d&eacute;velopp&eacute; sa notori&eacute;t&eacute; dans le secteur de la coop&eacute;ration agricole sur le plan...
+                    </p>
+                </div>
+                <a href="/company/albouyassociesconsult"
+                   class="btn btn-post">Read more</a>
+            </div>
+
+
+
+<div id="container_free">
+</div>
+<div id="page_free_btn">
+<input type="hidden" name="page_free" value="1" id="page_free">
+			             <br><br>   <button
+                   class="page-list-download" onclick="load_free()" style="border:0px;">Load more</button>
+				   <br>
+				   <br>
+</div>
+<script>
+function load_free() {
+var x = document.getElementById("page_free").value;
+document.getElementById("page_free").value = Number(x)+1;
+
+
+  const xhttp = new XMLHttpRequest();
+  xhttp.onload = function() {
+	  
+	  if(this.responseText=="nomore"){
+		      document.getElementById("page_free_btn").innerHTML = "";
+		  
+	  }else{
+	  
+    document.getElementById("container_free").innerHTML += this.responseText;
+	  }
+  }
+  xhttp.open("GET", "/ajax/page_free/"+x);
+  xhttp.send();
+}
+</script>
+
+
+
+
+
+
+
+
+        </div>
+    </div>
+</main>
+
+
+<script src="/theme/vr/js/wow.min.js"></script>
+<script>
+
+document.addEventListener('DOMContentLoaded', function () {
+document.getElementById("page_free").value = 1;
+}, false);
+    var wow = new WOW(
+        {
+            boxClass:     'wow',      // animated element css class (default is wow)
+            animateClass: 'animated', // animation css class (default is animated)
+            offset:       0,          // distance to the element when triggering the animation (default is 0)
+            mobile:       true,       // trigger animations on mobile devices (default is true)
+            live:         true,       // act on asynchronously loaded content (default is true)
+            callback:     function(box) {
+                // the callback is fired every time an animation is started
+                // the argument that is passed in is the DOM node being animated
+            },
+            scrollContainer: null // optional scroll container selector, otherwise use window
+        }
+    );
+    wow.init();
+</script>
+</body>
+</html>

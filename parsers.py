@@ -818,10 +818,21 @@ def projectrelic():
     for post in posts:
         appender(post, 'projectrelic')
 
+def ransomblog_noname():
+    stdlog('parser: ' + 'ransomblog_noname')
+    parser = '''
+    grep --no-filename '<h2 class="entry-title default-max-width">' source/ransomblog_noname-*.html | cut -d '>' -f 3 | cut -d '<' -f 1
+    '''
+    posts = runshellcmd(parser)
+    if len(posts) == 1:
+        errlog('ransomblog_noname: ' + 'parsing fail')
+    for post in posts:
+        appender(post, 'ransomblog_noname')
+        
 def medusa():
     stdlog('parser: ' + 'medusa')
     parser = '''
-    grep --no-filename '<h2 class="entry-title default-max-width">' source/medusa-*.html | cut -d '>' -f 3 | cut -d '<' -f 1
+    grep "<h3 class=\\"card-title\\"" source/medusa-*.html | cut -d ">" -f2 |  cut -d '<' -f1
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
@@ -897,11 +908,23 @@ def unsafeleak():
 
 def freecivilian():
     stdlog('parser: ' + 'freecivilian')
+    # grep "class=\\"a_href\\">" source/freecivilian-*.html |  sed 's/<[^>]*>//g; s/^[ \t]*//; s/[ \t]*$//; s/+ //;'
     parser = '''
-    grep "class=\\"a_href\\">" source/freecivilian-*.html |  sed 's/<[^>]*>//g; s/^[ \t]*//; s/[ \t]*$//; s/+ //;'
+    grep '<a class="a_href">' source/freecivilian-*.html | cut -d '>' -f 2 | cut -d '<' -f 1
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
         errlog('freecivilian: ' + 'parsing fail')
     for post in posts:
         appender(post, 'freecivilian')
+
+def vendetta():
+    stdlog('parser: ' + 'vendetta')
+    parser = '''
+    grep --no-filename '<a href="/company/' source/vendetta-*.html | cut -d '/' -f 3 | cut -d '"' -f 1 | sort --uniq | grep -v company
+    '''
+    posts = runshellcmd(parser)
+    if len(posts) == 1:
+        errlog('vendetta: ' + 'parsing fail')
+    for post in posts:
+        appender(post, 'vendetta')

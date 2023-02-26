@@ -2000,7 +2000,7 @@
         "name": "medusa",
         "captcha": false,
         "parser": true,
-        "javascript_render": false,
+        "javascript_render": true,
         "meta": null,
         "locations": [
             {
@@ -2014,13 +2014,13 @@
                 "enabled": false
             },
             {
-                "fqdn": "z6wkgghtoawog5noty5nxulmmt2zs7c3yvwr22v4czbffdoly2kl4uad.onion",
-                "title": "Ransomware blog – We will not give ourselves a nam",
+                "fqdn": "medusaxko7jxtrojdkxo66j7ck4q5tgktf7uqsqyfry4ebnxlcbkccyd.onion",
+                "title": null,
                 "version": 3,
-                "slug": "http://z6wkgghtoawog5noty5nxulmmt2zs7c3yvwr22v4czbffdoly2kl4uad.onion",
-                "available": true,
-                "updated": "2023-02-26 18:23:59.570946",
-                "lastscrape": "2023-02-26 18:23:59.570932",
+                "slug": "http://medusaxko7jxtrojdkxo66j7ck4q5tgktf7uqsqyfry4ebnxlcbkccyd.onion",
+                "available": false,
+                "updated": null,
+                "lastscrape": "2021-05-01 00:00:00.000000",
                 "enabled": true
             }
         ],
@@ -2746,6 +2746,16 @@
                 "available": true,
                 "updated": "2023-02-26 18:27:04.988919",
                 "lastscrape": "2023-02-26 18:27:04.988904",
+                "enabled": true
+            },
+            {
+                "fqdn": "bastad5huzwkepdixedg2gekg7jk22ato24zyllp6lnjx7wdtyctgvyd.onion",
+                "title": null,
+                "version": 3,
+                "slug": "https://bastad5huzwkepdixedg2gekg7jk22ato24zyllp6lnjx7wdtyctgvyd.onion/",
+                "available": false,
+                "updated": null,
+                "lastscrape": "2021-05-01 00:00:00.000000",
                 "enabled": true
             }
         ],
@@ -3618,6 +3628,16 @@
                 "updated": "2022-08-24 13:04:21.218136",
                 "lastscrape": "2022-08-24 13:04:21.218125",
                 "enabled": true
+            },
+            {
+                "fqdn": "7kstc545azxeahkduxmefgwqkrrhq3mzohkzqvrv7aekob7z3iwkqvyd.onion",
+                "title": null,
+                "version": 3,
+                "slug": "http://7kstc545azxeahkduxmefgwqkrrhq3mzohkzqvrv7aekob7z3iwkqvyd.onion/board/victim_list/",
+                "available": false,
+                "updated": null,
+                "lastscrape": "2021-05-01 00:00:00.000000",
+                "enabled": true
             }
         ],
         "profile": []
@@ -3959,6 +3979,126 @@
                 "available": true,
                 "updated": "2023-02-26 18:54:18.829518",
                 "lastscrape": "2023-02-26 18:54:18.829504",
+                "enabled": true
+            }
+        ],
+        "profile": []
+    },
+    {
+        "name": "nevada",
+        "captcha": false,
+        "parser": false,
+        "javascript_render": true,
+        "meta": null,
+        "locations": [
+            {
+                "fqdn": "nevcorps5cvivjf6i2gm4uia7cxng5ploqny2rgrinctazjlnqr2yiyd.onion",
+                "title": null,
+                "version": 3,
+                "slug": "http://nevcorps5cvivjf6i2gm4uia7cxng5ploqny2rgrinctazjlnqr2yiyd.onion",
+                "available": false,
+                "updated": null,
+                "lastscrape": "2021-05-01 00:00:00.000000",
+                "enabled": true
+            },
+            {
+                "fqdn": "nevbackvzwfu5yu3gszap77bg66koadds6eln37gxdhdk4jdsbkayrid.onion",
+                "title": null,
+                "version": 3,
+                "slug": "http://nevbackvzwfu5yu3gszap77bg66koadds6eln37gxdhdk4jdsbkayrid.onion",
+                "available": false,
+                "updated": null,
+                "lastscrape": "2021-05-01 00:00:00.000000",
+                "enabled": true
+            },
+            {
+                "fqdn": "nevaffcwswjosddmw55qhn4u4secw42wlppzvf26k5onrlxjevm6avad.onion",
+                "title": null,
+                "version": 3,
+                "slug": "http://nevaffcwswjosddmw55qhn4u4secw42wlppzvf26k5onrlxjevm6avad.onion",
+                "available": false,
+                "updated": null,
+                "lastscrape": "2021-05-01 00:00:00.000000",
+                "enabled": true
+            }
+        ],
+        "profile": []
+    },
+    {
+        "name": "vendetta",
+        "captcha": false,
+        "parser": true,
+        "javascript_render": false,
+        "meta": null,
+        "locations": [
+            {
+                "fqdn": "test.cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion",
+                "title": null,
+                "version": 3,
+                "slug": "http://test.cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion",
+                "available": false,
+                "updated": null,
+                "lastscrape": "2021-05-01 00:00:00.000000",
+                "enabled": true
+            }
+        ],
+        "profile": []
+    },
+    {
+        "name": "0xFFF",
+        "captcha": false,
+        "parser": false,
+        "javascript_render": false,
+        "meta": null,
+        "locations": [
+            {
+                "fqdn": "contiuevxdgdhn3zl2kubpajtfgqq4ssj2ipv6ujw7fwhggev3rk6hqd.onion",
+                "title": null,
+                "version": 3,
+                "slug": "http://contiuevxdgdhn3zl2kubpajtfgqq4ssj2ipv6ujw7fwhggev3rk6hqd.onion",
+                "available": false,
+                "updated": null,
+                "lastscrape": "2021-05-01 00:00:00.000000",
+                "enabled": true
+            }
+        ],
+        "profile": []
+    },
+    {
+        "name": "ransomblog_noname",
+        "captcha": false,
+        "parser": false,
+        "javascript_render": false,
+        "meta": null,
+        "locations": [
+            {
+                "fqdn": "z6wkgghtoawog5noty5nxulmmt2zs7c3yvwr22v4czbffdoly2kl4uad.onion",
+                "title": null,
+                "version": 3,
+                "slug": "http://z6wkgghtoawog5noty5nxulmmt2zs7c3yvwr22v4czbffdoly2kl4uad.onion",
+                "available": false,
+                "updated": null,
+                "lastscrape": "2021-05-01 00:00:00.000000",
+                "enabled": true
+            }
+        ],
+        "profile": []
+    },
+    {
+        "name": "darkbit01",
+        "captcha": false,
+        "parser": false,
+        "javascript_render": false,
+        "meta": null,
+        "locations": [
+            {
+                "fqdn": "iw6v2p3cruy7tqfup3yl4dgt4pfibfa3ai4zgnu5df2q3hus3lm7c7ad.onion",
+                "title": null,
+                "version": 3,
+                "slug": "http://iw6v2p3cruy7tqfup3yl4dgt4pfibfa3ai4zgnu5df2q3hus3lm7c7ad.onion/support",
+                "available": false,
+                "updated": null,
+                "lastscrape": "2021-05-01 00:00:00.000000",
                 "enabled": true
             }
         ],

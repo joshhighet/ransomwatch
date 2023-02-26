@@ -14,14 +14,14 @@ jobs:
       - name: checkout the repo
         uses: actions/checkout@v2
       - name: authenticate to gh container registry 
-        uses: docker/login-action@v1.10.0
+        uses: docker/login-action@v2
         with:
           registry: ghcr.io
           username: ${{ github.repository_owner }}
           password: ${{ secrets.GITHUB_TOKEN }}
 
       - name: build & push image
-        uses: docker/build-push-action@v2.6.1
+        uses: docker/build-push-action@v2
         with:
           push: true 
           tags: ghcr.io/${{ github.repository }}:latest
