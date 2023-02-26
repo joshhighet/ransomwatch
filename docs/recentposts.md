@@ -4,6 +4,22 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-02-27 | [`Eureka Casino Resort`](https://google.com/search?q=Eureka+Casino+Resort) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
+| 2023-02-27 | [`Diethelm Keller Aviation Pte Ltd `](https://google.com/search?q=Diethelm+Keller+Aviation+Pte+Ltd+) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
+| 2023-02-27 | [`Tonga Communications`](https://google.com/search?q=Tonga+Communications) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
+| 2023-02-27 | [`Bank of Africa`](https://google.com/search?q=Bank+of+Africa) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
+| 2023-02-27 | [`PetroChina Indonesia`](https://google.com/search?q=PetroChina+Indonesia) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
+| 2023-02-27 | [`Foamtec International`](https://google.com/search?q=Foamtec+International) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
+| 2023-02-27 | [`AP Emissions Technologies`](https://google.com/search?q=AP+Emissions+Technologies) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
+| 2023-02-27 | [`International Center of Photography`](https://google.com/search?q=International+Center+of+Photography) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
+| 2023-02-27 | [`RAYAB Consulting Engineers`](https://google.com/search?q=RAYAB+Consulting+Engineers) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
+| 2023-02-27 | [`Moose, Martin, Haynes &amp; Lundy`](https://google.com/search?q=Moose%2C+Martin%2C+Haynes+%26amp%3B+Lundy) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
+| 2023-02-27 | [`albouyassociesconsult`](https://google.com/search?q=albouyassociesconsult) | [vendetta](https://ransomwatch.telemetry.ltd/#/profiles?id=vendetta) |
+| 2023-02-27 | [`Highwealth`](https://google.com/search?q=Highwealth) | [vendetta](https://ransomwatch.telemetry.ltd/#/profiles?id=vendetta) |
+| 2023-02-26 | [`SOFTEQ.COM FILES PART12 - VMdisk\ PUBLISHED`](https://google.com/search?q=SOFTEQ.COM+FILES+PART12+-+VMdisk%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-02-26 | [`LOESCHGROUP.DE FILES PART19 - 192.168.101.35\D$\Alt\ PUBLISHED`](https://google.com/search?q=LOESCHGROUP.DE+FILES+PART19+-+192.168.101.35%5CD%24%5CAlt%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-02-26 | [`NYCBAR.ORG FILES PART6 - 10.50.0.16\H$\SECURE-D\ PUBLISHED`](https://google.com/search?q=NYCBAR.ORG+FILES+PART6+-+10.50.0.16%5CH%24%5CSECURE-D%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-02-26 | [`UNISALLE.EDU.CO FILES PART5 - 172.17.3.117, 172.17.3.129, 172.17.3.176, 172.18.5.195, 172.`](https://google.com/search?q=UNISALLE.EDU.CO+FILES+PART5+-+172.17.3.117%2C+172.17.3.129%2C+172.17.3.176%2C+172.18.5.195%2C+172.) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-02-26 | [`Engineering Services`](https://google.com/search?q=Engineering+Services) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-02-26 | [`G Electronics`](https://google.com/search?q=G+Electronics) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-02-26 | [`A**** ********* ********* and *****`](https://google.com/search?q=A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A%2A%2A+and+%2A%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
@@ -188,19 +204,3 @@ _last `200` posts_
 | 2023-02-04 | [`Five Guys Enterprises, LLC`](https://google.com/search?q=Five+Guys+Enterprises%2C+LLC) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-02-04 | [`nexuspoint.com`](https://google.com/search?q=nexuspoint.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-02-04 | [`SOFTEQ.COM FILES PART9 - Projects\ PUBLISHED`](https://google.com/search?q=SOFTEQ.COM+FILES+PART9+-+Projects%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-02-04 | [`LOESCHGROUP.DE FILES PART16 - 192.168.101.34\DATEN\Media\PIM\ PUBLISHED`](https://google.com/search?q=LOESCHGROUP.DE+FILES+PART16+-+192.168.101.34%5CDATEN%5CMedia%5CPIM%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-02-04 | [`ORDEREXPRESS.COM.MX FILES PART17 - 10.10.1.99\C$\Users\Pablo.Pineda\ PUBLISHED`](https://google.com/search?q=ORDEREXPRESS.COM.MX+FILES+PART17+-+10.10.1.99%5CC%24%5CUsers%5CPablo.Pineda%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-02-04 | [`NYCBAR.ORG FILES PART3 - 10.50.0.62, 10.50.0.70, 10.50.0.79, 10.50.0.85, 10.50.0.91, 10.50`](https://google.com/search?q=NYCBAR.ORG+FILES+PART3+-+10.50.0.62%2C+10.50.0.70%2C+10.50.0.79%2C+10.50.0.85%2C+10.50.0.91%2C+10.50) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-02-04 | [`UNISALLE.EDU.CO FILES FILES PART2 - 172.19.5.30, 172.19.5.53, 172.19.6.59, 172.19.14.25, 1`](https://google.com/search?q=UNISALLE.EDU.CO+FILES+FILES+PART2+-+172.19.5.30%2C+172.19.5.53%2C+172.19.6.59%2C+172.19.14.25%2C+1) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-02-03 | [`virtuosgames.com`](https://google.com/search?q=virtuosgames.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-02-03 | [`urmgroup.com.au`](https://google.com/search?q=urmgroup.com.au) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-02-03 | [`Point Dedicated Services`](https://google.com/search?q=Point+Dedicated+Services) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-02-03 | [`redfordpd.com`](https://google.com/search?q=redfordpd.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-02-03 | [`jjdentistry.com`](https://google.com/search?q=jjdentistry.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-02-03 | [`tonoli.com`](https://google.com/search?q=tonoli.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-02-03 | [`scandia.ro`](https://google.com/search?q=scandia.ro) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-02-03 | [`sakrgroup.net`](https://google.com/search?q=sakrgroup.net) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-02-03 | [`kostika.co.il`](https://google.com/search?q=kostika.co.il) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-02-03 | [`guardiananalytics.com`](https://google.com/search?q=guardiananalytics.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-02-03 | [`fabricatedpipe.com`](https://google.com/search?q=fabricatedpipe.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-02-03 | [`crystalcreamery.com`](https://google.com/search?q=crystalcreamery.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
