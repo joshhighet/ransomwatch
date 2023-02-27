@@ -4,6 +4,14 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-02-27 | [`Chowtaifook`](https://google.com/search?q=Chowtaifook) | [vendetta](https://ransomwatch.telemetry.ltd/#/profiles?id=vendetta) |
+| 2023-02-27 | [`wsisd.com`](https://google.com/search?q=wsisd.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-02-27 | [`wcso.us`](https://google.com/search?q=wcso.us) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-02-27 | [`pcproductsinter.com`](https://google.com/search?q=pcproductsinter.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-02-27 | [`moci.gov.kw`](https://google.com/search?q=moci.gov.kw) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-02-27 | [`cotteeparker.com.au`](https://google.com/search?q=cotteeparker.com.au) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-02-27 | [`carveraero.com`](https://google.com/search?q=carveraero.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-02-27 | [`bocca-sacs.com`](https://google.com/search?q=bocca-sacs.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-02-27 | [`Eureka Casino Resort`](https://google.com/search?q=Eureka+Casino+Resort) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-02-27 | [`Diethelm Keller Aviation Pte Ltd `](https://google.com/search?q=Diethelm+Keller+Aviation+Pte+Ltd+) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-02-27 | [`Tonga Communications`](https://google.com/search?q=Tonga+Communications) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
@@ -196,11 +204,3 @@ _last `200` posts_
 | 2023-02-06 | [`hkri.com`](https://google.com/search?q=hkri.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-02-06 | [`etbrick.com`](https://google.com/search?q=etbrick.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-02-06 | [`crispinvalve.com`](https://google.com/search?q=crispinvalve.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-02-06 | [`https://www.ics-nett.com/`](https://google.com/search?q=https%3A%2F%2Fwww.ics-nett.com%2F) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
-| 2023-02-06 | [`El-Mohandes`](https://google.com/search?q=El-Mohandes) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-02-05 | [`qsi-q3.de`](https://google.com/search?q=qsi-q3.de) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-02-05 | [`bplawyers.co.id`](https://google.com/search?q=bplawyers.co.id) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-02-05 | [`Finaport`](https://google.com/search?q=Finaport) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-02-04 | [`Five Guys Enterprises, LLC`](https://google.com/search?q=Five+Guys+Enterprises%2C+LLC) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-02-04 | [`nexuspoint.com`](https://google.com/search?q=nexuspoint.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-02-04 | [`SOFTEQ.COM FILES PART9 - Projects\ PUBLISHED`](https://google.com/search?q=SOFTEQ.COM+FILES+PART9+-+Projects%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
