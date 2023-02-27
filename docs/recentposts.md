@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-02-27 | [`Ingenico`](https://google.com/search?q=Ingenico) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
+| 2023-02-27 | [`MSX International`](https://google.com/search?q=MSX+International) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
 | 2023-02-27 | [`rosenbauer.com`](https://google.com/search?q=rosenbauer.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-02-27 | [`hyosung.jp`](https://google.com/search?q=hyosung.jp) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-02-27 | [`Chowtaifook`](https://google.com/search?q=Chowtaifook) | [vendetta](https://ransomwatch.telemetry.ltd/#/profiles?id=vendetta) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-02-06 | [`prlabs.com`](https://google.com/search?q=prlabs.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-02-06 | [`nicklaus.com`](https://google.com/search?q=nicklaus.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-02-06 | [`medellin.gov.co`](https://google.com/search?q=medellin.gov.co) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-02-06 | [`jams.edu.jo`](https://google.com/search?q=jams.edu.jo) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-02-06 | [`hkri.com`](https://google.com/search?q=hkri.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
