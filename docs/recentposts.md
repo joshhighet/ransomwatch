@@ -4,6 +4,10 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-02-28 | [`wmich.edu`](https://google.com/search?q=wmich.edu) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-02-28 | [`globalcommunities.org`](https://google.com/search?q=globalcommunities.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-02-28 | [`georgeleslie.co.uk`](https://google.com/search?q=georgeleslie.co.uk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-02-28 | [`cobcreditunion.com`](https://google.com/search?q=cobcreditunion.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-02-28 | [`lsa-international.com`](https://google.com/search?q=lsa-international.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-02-28 | [`INDIKA ENERGY GLOBAL`](https://google.com/search?q=INDIKA+ENERGY+GLOBAL) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-02-28 | [`Coole Bevis Solicitors`](https://google.com/search?q=Coole+Bevis+Solicitors) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -200,7 +204,3 @@ _last `200` posts_
 | 2023-02-06 | [`?C?`](https://google.com/search?q=%3FC%3F) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-02-06 | [`AmerisourceBergen/Censora - MWI Animal Health`](https://google.com/search?q=AmerisourceBergen%2FCensora+-+MWI+Animal+Health) | [lorenz](https://ransomwatch.telemetry.ltd/#/profiles?id=lorenz) |
 | 2023-02-06 | [`Woodmeister Master Builders, Inc.`](https://google.com/search?q=Woodmeister+Master+Builders%2C+Inc.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2023-02-06 | [`teleapps.com`](https://google.com/search?q=teleapps.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-02-06 | [`*r***** ********** ******** ***********`](https://google.com/search?q=%2Ar%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2023-02-06 | [`A***`](https://google.com/search?q=A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2023-02-06 | [`A*********`](https://google.com/search?q=A%2A%2A%2A%2A%2A%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
