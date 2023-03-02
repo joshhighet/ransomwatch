@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-03-02 | [`Bettuzzi And Partners`](https://google.com/search?q=Bettuzzi+And+Partners) | [ransomexx](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomexx) |
 | 2023-03-02 | [`ascentengrs.com`](https://google.com/search?q=ascentengrs.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-03-02 | [`O???a??`](https://google.com/search?q=O%3F%3F%3Fa%3F%3F) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-03-01 | [`The Metropolitan Opera`](https://google.com/search?q=The+Metropolitan+Opera) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-02-11 | [`ORDEREXPRESS.COM.MX FILES PART18 - 10.100.2.224 PUBLISHED`](https://google.com/search?q=ORDEREXPRESS.COM.MX+FILES+PART18+-+10.100.2.224+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-02-11 | [`NYCBAR.ORG FILES PART4 - 10.50.0.16\H$\SECURE-D\ PUBLISHED`](https://google.com/search?q=NYCBAR.ORG+FILES+PART4+-+10.50.0.16%5CH%24%5CSECURE-D%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-02-11 | [`UNISALLE.EDU.CO FILES PART3 - 172.19.3.20, 172.19.5.25, 172.19.5.42, 172.19.5.106, 172.19.`](https://google.com/search?q=UNISALLE.EDU.CO+FILES+PART3+-+172.19.3.20%2C+172.19.5.25%2C+172.19.5.42%2C+172.19.5.106%2C+172.19.) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-02-10 | [`http://www.tusd1.org`](https://google.com/search?q=http%3A%2F%2Fwww.tusd1.org) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
