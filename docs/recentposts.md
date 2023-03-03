@@ -4,6 +4,14 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-03-03 | [`Waynesboro`](https://google.com/search?q=Waynesboro) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2023-03-03 | [`Arizona Reproductive Medicine Specialists`](https://google.com/search?q=Arizona+Reproductive+Medicine+Specialists) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2023-03-03 | [`ACCSC`](https://google.com/search?q=ACCSC) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2023-03-03 | [`Surtronics`](https://google.com/search?q=Surtronics) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2023-03-03 | [`Zerbe Retirement Community`](https://google.com/search?q=Zerbe+Retirement+Community) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2023-03-03 | [`PLP Architecture`](https://google.com/search?q=PLP+Architecture) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2023-03-03 | [`M**** M************`](https://google.com/search?q=M%2A%2A%2A%2A+M%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2023-03-03 | [`Parques Reunidos`](https://google.com/search?q=Parques+Reunidos) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-03-03 | [`Oakland`](https://google.com/search?q=Oakland) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-03-02 | [`http://FIMM.FR`](https://google.com/search?q=http%3A%2F%2FFIMM.FR) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
 | 2023-03-02 | [`Traffic Ticket Office`](https://google.com/search?q=Traffic+Ticket+Office) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -196,11 +204,3 @@ _last `200` posts_
 | 2023-02-12 | [`interpaving.com`](https://google.com/search?q=interpaving.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-02-12 | [`B&G Foods (CA, US)`](https://google.com/search?q=B%26G+Foods+%28CA%2C+US%29) | [daixin](https://ransomwatch.telemetry.ltd/#/profiles?id=daixin) |
 | 2023-02-12 | [`Aviacode (GeBBS)`](https://google.com/search?q=Aviacode+%28GeBBS%29) | [0mega](https://ransomwatch.telemetry.ltd/#/profiles?id=0mega) |
-| 2023-02-11 | [`I*****`](https://google.com/search?q=I%2A%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2023-02-11 | [`Danielski Farms Inc.`](https://google.com/search?q=Danielski+Farms+Inc.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2023-02-11 | [`Advance2000`](https://google.com/search?q=Advance2000) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2023-02-11 | [`ANXA`](https://google.com/search?q=ANXA) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2023-02-11 | [`Thompson Safety`](https://google.com/search?q=Thompson+Safety) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2023-02-11 | [`HAK Grazbachgasse`](https://google.com/search?q=HAK+Grazbachgasse) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2023-02-11 | [`SOFTEQ.COM FILES PART10 - Projects\ PUBLISHED`](https://google.com/search?q=SOFTEQ.COM+FILES+PART10+-+Projects%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-02-11 | [`LOESCHGROUP.DE FILES PART17 - 192.168.101.34\DATEN\Media\PIM\ PUBLISHED`](https://google.com/search?q=LOESCHGROUP.DE+FILES+PART17+-+192.168.101.34%5CDATEN%5CMedia%5CPIM%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
