@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-03-05 | [`AddWeb Solution Pvt`](https://google.com/search?q=AddWeb+Solution+Pvt) | [mallox](https://ransomwatch.telemetry.ltd/#/profiles?id=mallox) |
 | 2023-03-05 | [`S**** **********`](https://google.com/search?q=S%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-03-05 | [`S********* *****`](https://google.com/search?q=S%2A%2A%2A%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-03-05 | [`P* ***** **** L****** ***`](https://google.com/search?q=P%2A+%2A%2A%2A%2A%2A+%2A%2A%2A%2A+L%2A%2A%2A%2A%2A%2A+%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-02-13 | [`mangalagroup.com`](https://google.com/search?q=mangalagroup.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-02-13 | [`hidalgocounty.us`](https://google.com/search?q=hidalgocounty.us) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-02-13 | [`dana-group.com`](https://google.com/search?q=dana-group.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-02-13 | [`chempartner.com`](https://google.com/search?q=chempartner.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
