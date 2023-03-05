@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-03-05 | [`HAW Hamburg`](https://google.com/search?q=HAW+Hamburg) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2023-03-05 | [`SOFTEQ.COM FILES PART13 - VMdisk\ PUBLISHED`](https://google.com/search?q=SOFTEQ.COM+FILES+PART13+-+VMdisk%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-03-05 | [`LOESCHGROUP.DE FILES PART20 - 192.168.101.35\D$\Alt\ PUBLISHED`](https://google.com/search?q=LOESCHGROUP.DE+FILES+PART20+-+192.168.101.35%5CD%24%5CAlt%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-03-05 | [`NYCBAR.ORG FILES PART7 - 10.50.0.16\H$\SECURE-D\ PUBLISHED`](https://google.com/search?q=NYCBAR.ORG+FILES+PART7+-+10.50.0.16%5CH%24%5CSECURE-D%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-02-13 | [`cassaragionieri.it`](https://google.com/search?q=cassaragionieri.it) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-02-13 | [`http://www.reventics.com`](https://google.com/search?q=http%3A%2F%2Fwww.reventics.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
 | 2023-02-13 | [`vanderkaay.com`](https://google.com/search?q=vanderkaay.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-02-13 | [`tucsoneyecare.com`](https://google.com/search?q=tucsoneyecare.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
