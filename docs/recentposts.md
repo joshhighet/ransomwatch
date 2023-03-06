@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-03-06 | [`https://www.krinos.com`](https://google.com/search?q=https%3A%2F%2Fwww.krinos.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
+| 2023-03-06 | [`https://www.e-wilhelm-gmbh.de`](https://google.com/search?q=https%3A%2F%2Fwww.e-wilhelm-gmbh.de) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
+| 2023-03-06 | [`https://www.protektor.co.uk`](https://google.com/search?q=https%3A%2F%2Fwww.protektor.co.uk) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
 | 2023-03-06 | [`Circa Jewels`](https://google.com/search?q=Circa+Jewels) | [mallox](https://ransomwatch.telemetry.ltd/#/profiles?id=mallox) |
 | 2023-03-06 | [`The Institute of Space Technology`](https://google.com/search?q=The+Institute+of+Space+Technology) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-03-06 | [`Kventa Kft`](https://google.com/search?q=Kventa+Kft) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2023-02-14 | [`http://www.alexandercityal.gov`](https://google.com/search?q=http%3A%2F%2Fwww.alexandercityal.gov) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
 | 2023-02-14 | [`https://www.delallo.com`](https://google.com/search?q=https%3A%2F%2Fwww.delallo.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
 | 2023-02-14 | [`cefcostores.com`](https://google.com/search?q=cefcostores.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-02-14 | [`albanesi.com.ar`](https://google.com/search?q=albanesi.com.ar) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-02-14 | [`srf.com`](https://google.com/search?q=srf.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-02-14 | [`Hospital Service SpA`](https://google.com/search?q=Hospital+Service+SpA) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
