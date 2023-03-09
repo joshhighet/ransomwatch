@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-03-09 | [`https://www.wellingtonpower.com`](https://google.com/search?q=https%3A%2F%2Fwww.wellingtonpower.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
 | 2023-03-09 | [`http://www.walkerscm.com`](https://google.com/search?q=http%3A%2F%2Fwww.walkerscm.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
 | 2023-03-09 | [`http://www.brauerei-schimpf.de`](https://google.com/search?q=http%3A%2F%2Fwww.brauerei-schimpf.de) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
 | 2023-03-09 | [`https://thomastonmills.com`](https://google.com/search?q=https%3A%2F%2Fthomastonmills.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-02-15 | [`semsinc.net`](https://google.com/search?q=semsinc.net) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-02-15 | [`richardsind.com`](https://google.com/search?q=richardsind.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-02-15 | [`nationallocums.co.uk`](https://google.com/search?q=nationallocums.co.uk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-02-15 | [`montibello.com`](https://google.com/search?q=montibello.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
