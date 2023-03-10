@@ -4,6 +4,17 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-03-10 | [`https://kmwp.de`](https://google.com/search?q=https%3A%2F%2Fkmwp.de) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
+| 2023-03-10 | [`wunan.org.au`](https://google.com/search?q=wunan.org.au) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-03-10 | [`southamericantours.com`](https://google.com/search?q=southamericantours.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-03-10 | [`schauenburg.com`](https://google.com/search?q=schauenburg.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-03-10 | [`kisp.com`](https://google.com/search?q=kisp.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-03-10 | [`heidelbergbread.com`](https://google.com/search?q=heidelbergbread.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-03-10 | [`alpes-sante-travail.org`](https://google.com/search?q=alpes-sante-travail.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-03-10 | [`SOFTEQ.COM FILES PART14 - VMdisk\ PUBLISHED`](https://google.com/search?q=SOFTEQ.COM+FILES+PART14+-+VMdisk%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-03-10 | [`LOESCHGROUP.DE FILES PART21 - 192.168.101.35\D$\Alt\Abteilungen\ PUBLISHED`](https://google.com/search?q=LOESCHGROUP.DE+FILES+PART21+-+192.168.101.35%5CD%24%5CAlt%5CAbteilungen%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-03-10 | [`NYCBAR.ORG FILES PART8 - 10.50.3.10\H$\Secure\ PUBLISHED`](https://google.com/search?q=NYCBAR.ORG+FILES+PART8+-+10.50.3.10%5CH%24%5CSecure%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-03-10 | [`UNISALLE.EDU.CO FILES PART7 - 172.19.2.13 PUBLISHED`](https://google.com/search?q=UNISALLE.EDU.CO+FILES+PART7+-+172.19.2.13+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-03-10 | [`https://www.epaenlinea.com`](https://google.com/search?q=https%3A%2F%2Fwww.epaenlinea.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
 | 2023-03-10 | [`https://www.highway-equipment.com`](https://google.com/search?q=https%3A%2F%2Fwww.highway-equipment.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
 | 2023-03-10 | [`https://www.richardsanders.co.uk`](https://google.com/search?q=https%3A%2F%2Fwww.richardsanders.co.uk) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
@@ -193,14 +204,3 @@ _last `200` posts_
 | 2023-02-18 | [`hotdesk.me`](https://google.com/search?q=hotdesk.me) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-02-17 | [`alliedtools.com`](https://google.com/search?q=alliedtools.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-02-17 | [`Lawadami`](https://google.com/search?q=Lawadami) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2023-02-17 | [`NewYorker`](https://google.com/search?q=NewYorker) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2023-02-17 | [`NESG`](https://google.com/search?q=NESG) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2023-02-17 | [`Fibertec`](https://google.com/search?q=Fibertec) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2023-02-17 | [`Suburban Laboratories`](https://google.com/search?q=Suburban+Laboratories) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2023-02-17 | [`fikes.com`](https://google.com/search?q=fikes.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-02-17 | [`cordfinancial.com`](https://google.com/search?q=cordfinancial.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-02-17 | [`newbridge.org`](https://google.com/search?q=newbridge.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-02-17 | [`vissan.com.vn`](https://google.com/search?q=vissan.com.vn) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-02-17 | [`myerspower.com`](https://google.com/search?q=myerspower.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-02-16 | [`ziapueblo.org`](https://google.com/search?q=ziapueblo.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-02-16 | [`vitrox.com`](https://google.com/search?q=vitrox.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
