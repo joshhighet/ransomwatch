@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-03-10 | [`Garbarino SAICeI`](https://google.com/search?q=Garbarino+SAICeI) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
+| 2023-03-10 | [`pmsoffice.de`](https://google.com/search?q=pmsoffice.de) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-03-09 | [`National Business Furniture`](https://google.com/search?q=National+Business+Furniture) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-03-09 | [`https://www.wellingtonpower.com`](https://google.com/search?q=https%3A%2F%2Fwww.wellingtonpower.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
 | 2023-03-09 | [`http://www.walkerscm.com`](https://google.com/search?q=http%3A%2F%2Fwww.walkerscm.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-02-16 | [`trudi.it`](https://google.com/search?q=trudi.it) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-02-16 | [`blackandwhitecabs.com.au`](https://google.com/search?q=blackandwhitecabs.com.au) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-02-15 | [`vipar.com`](https://google.com/search?q=vipar.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-02-15 | [`semsinc.net`](https://google.com/search?q=semsinc.net) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-02-15 | [`richardsind.com`](https://google.com/search?q=richardsind.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
