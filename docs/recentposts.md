@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-03-11 | [`Delaware Life Insurance Company`](https://google.com/search?q=Delaware+Life+Insurance+Company) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2023-03-10 | [`Real Pro`](https://google.com/search?q=Real+Pro) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-03-10 | [`Leemock`](https://google.com/search?q=Leemock) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-03-10 | [`The M. K. Morse`](https://google.com/search?q=The+M.+K.+Morse) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-02-18 | [`isosteo.fr`](https://google.com/search?q=isosteo.fr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-02-18 | [`inowai.com`](https://google.com/search?q=inowai.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-02-18 | [`diavaz.com`](https://google.com/search?q=diavaz.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-02-18 | [`aguasdoporto.pt`](https://google.com/search?q=aguasdoporto.pt) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
