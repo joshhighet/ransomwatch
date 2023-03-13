@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-03-13 | [`Mason Manufacturing`](https://google.com/search?q=Mason+Manufacturing) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2023-03-13 | [`Data Pro Accounting Software, Inc`](https://google.com/search?q=Data+Pro+Accounting+Software%2C+Inc) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-03-13 | [`Bishop Luffa School`](https://google.com/search?q=Bishop+Luffa+School) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-03-11 | [`wyckoffcomfort.com`](https://google.com/search?q=wyckoffcomfort.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-03-11 | [`schradercamargo.com`](https://google.com/search?q=schradercamargo.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-02-20 | [`https://https://gigatron.rs/`](https://google.com/search?q=https%3A%2F%2Fhttps%3A%2F%2Fgigatron.rs%2F) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2023-02-20 | [`http://www.dallas.k12.or.us`](https://google.com/search?q=http%3A%2F%2Fwww.dallas.k12.or.us) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
 | 2023-02-20 | [`carlocksystems.com`](https://google.com/search?q=carlocksystems.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-02-19 | [`servicesfinanciersjdf.com`](https://google.com/search?q=servicesfinanciersjdf.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-02-19 | [`laremo.de`](https://google.com/search?q=laremo.de) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
