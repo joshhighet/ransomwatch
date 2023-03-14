@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-03-14 | [`kaycan.com`](https://google.com/search?q=kaycan.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-03-14 | [`essendant.com`](https://google.com/search?q=essendant.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-03-14 | [`Faraday Technology`](https://google.com/search?q=Faraday+Technology) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2023-03-14 | [`fiege.com`](https://google.com/search?q=fiege.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-03-14 | [`dmos.com`](https://google.com/search?q=dmos.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-02-22 | [`BULOG`](https://google.com/search?q=BULOG) | [ransomexx](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomexx) |
 | 2023-02-22 | [`siqueiracastro.com.br`](https://google.com/search?q=siqueiracastro.com.br) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-02-22 | [`nougat-carlier.be`](https://google.com/search?q=nougat-carlier.be) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-02-22 | [`fosterfarms.com`](https://google.com/search?q=fosterfarms.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-02-22 | [`skylinetrisource.com`](https://google.com/search?q=skylinetrisource.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
