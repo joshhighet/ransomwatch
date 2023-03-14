@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-03-14 | [`fiege.com`](https://google.com/search?q=fiege.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-03-14 | [`dmos.com`](https://google.com/search?q=dmos.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-03-14 | [`Manning Building Supplies`](https://google.com/search?q=Manning+Building+Supplies) | [lorenz](https://ransomwatch.telemetry.ltd/#/profiles?id=lorenz) |
 | 2023-03-14 | [`Tarolli`](https://google.com/search?q=Tarolli) | [lorenz](https://ransomwatch.telemetry.ltd/#/profiles?id=lorenz) |
 | 2023-03-14 | [`LLPGroup`](https://google.com/search?q=LLPGroup) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-02-22 | [`fosterfarms.com`](https://google.com/search?q=fosterfarms.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-02-22 | [`skylinetrisource.com`](https://google.com/search?q=skylinetrisource.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-02-22 | [`Markas`](https://google.com/search?q=Markas) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-02-22 | [`Summit Brands`](https://google.com/search?q=Summit+Brands) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-02-22 | [`FUTURE BUILDINGS WAS HACKED. MORE THAN 150GB SENSETIVE DATA LEAKED`](https://google.com/search?q=FUTURE+BUILDINGS+WAS+HACKED.+MORE+THAN+150GB+SENSETIVE+DATA+LEAKED) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
