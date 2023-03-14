@@ -4,6 +4,11 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-03-14 | [`Dancenter`](https://google.com/search?q=Dancenter) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
+| 2023-03-14 | [`Optieng`](https://google.com/search?q=Optieng) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
+| 2023-03-14 | [`Lehigh Valley Health Network 2`](https://google.com/search?q=Lehigh+Valley+Health+Network+2) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
+| 2023-03-14 | [`Guardian Capital`](https://google.com/search?q=Guardian+Capital) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
+| 2023-03-14 | [`Ring: Security Systems`](https://google.com/search?q=Ring%3A+Security+Systems) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-03-14 | [`workplace.org`](https://google.com/search?q=workplace.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-03-13 | [`sabena-engineering.com`](https://google.com/search?q=sabena-engineering.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-03-13 | [`St. Kitts & Nevis`](https://google.com/search?q=St.+Kitts+%26+Nevis) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
@@ -199,8 +204,3 @@ _last `200` posts_
 | 2023-02-22 | [`City of Lakewood`](https://google.com/search?q=City+of+Lakewood) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-02-22 | [`EncinoEnergy`](https://google.com/search?q=EncinoEnergy) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-02-21 | [`vuu.edu`](https://google.com/search?q=vuu.edu) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-02-21 | [`treves-group.com`](https://google.com/search?q=treves-group.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-02-21 | [`kboattorneys.com`](https://google.com/search?q=kboattorneys.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-02-21 | [`beacontech.net`](https://google.com/search?q=beacontech.net) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-02-21 | [`lyonhealy.com`](https://google.com/search?q=lyonhealy.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-02-21 | [`lasegunda.com.ar`](https://google.com/search?q=lasegunda.com.ar) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
