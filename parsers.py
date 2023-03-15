@@ -11,7 +11,7 @@ from datetime import datetime
 
 from sharedutils import openjson
 from sharedutils import runshellcmd
-from sharedutils import todiscord, totwitter, toteams
+from sharedutils import todiscord, toteams
 from sharedutils import stdlog, dbglog, errlog, honk
 
 # on macOS we use 'grep -oE' over 'grep -oP'
@@ -72,8 +72,6 @@ def appender(post_title, group_name):
             todiscord(newpost['post_title'], newpost['group_name'], os.environ.get('DISCORD_WEBHOOK'))
         if os.environ.get('DISCORD_WEBHOOK_2') is not None:
             todiscord(newpost['post_title'], newpost['group_name'], os.environ.get('DISCORD_WEBHOOK_2'))
-        if os.environ.get('TWITTER_ACCESS_TOKEN') is not None:
-            totwitter(newpost['post_title'], newpost['group_name'])
         #if os.environ.get('MS_TEAMS_WEBHOOK') is not None:
         #    toteams(newpost['post_title'], newpost['group_name'])
 
