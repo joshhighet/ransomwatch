@@ -17,6 +17,8 @@ _last `200` posts_
 | 2023-03-16 | [`Petmate`](https://google.com/search?q=Petmate) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2023-03-16 | [`Wagner CAT`](https://google.com/search?q=Wagner+CAT) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
 | 2023-03-16 | [`Falcon Holdings`](https://google.com/search?q=Falcon+Holdings) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
+| 2023-03-16 | [`regaltax.us`](https://google.com/search?q=regaltax.us) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-03-16 | [`Norman S. Wright Climatec`](https://google.com/search?q=Norman+S.+Wright+Climatec) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2023-03-16 | [`Etex Communications`](https://google.com/search?q=Etex+Communications) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
 | 2023-03-15 | [`http://www.libertylines.com`](https://google.com/search?q=http%3A%2F%2Fwww.libertylines.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
 | 2023-03-15 | [`Cambridge College`](https://google.com/search?q=Cambridge+College) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-02-26 | [`G Electronics`](https://google.com/search?q=G+Electronics) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-02-26 | [`A**** ********* ********* and *****`](https://google.com/search?q=A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A%2A%2A+and+%2A%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-02-26 | [`D***`](https://google.com/search?q=D%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2023-02-26 | [`thinkwelty.com`](https://google.com/search?q=thinkwelty.com) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-02-25 | [`Smarter Capital`](https://google.com/search?q=Smarter+Capital) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
