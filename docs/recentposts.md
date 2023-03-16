@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-03-16 | [`ONEX.COM FILES FILES PART1 - onex.goanywhere.cloud PUBLISHED`](https://google.com/search?q=ONEX.COM+FILES+FILES+PART1+-+onex.goanywhere.cloud+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-03-16 | [`RUBRIK.COM FILES PART1 - 52.36.201.221 PUBLISHED`](https://google.com/search?q=RUBRIK.COM+FILES+PART1+-+52.36.201.221+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-03-16 | [`HATCHBANK.COM FILES PART1 - database, GoDrive PUBLISHED`](https://google.com/search?q=HATCHBANK.COM+FILES+PART1+-+database%2C+GoDrive+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-03-16 | [`ktcs.com.my`](https://google.com/search?q=ktcs.com.my) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-03-16 | [`XL Specialized Trailers`](https://google.com/search?q=XL+Specialized+Trailers) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2023-03-16 | [`Vornado`](https://google.com/search?q=Vornado) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2023-02-27 | [`AP Emissions Technologies`](https://google.com/search?q=AP+Emissions+Technologies) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-02-27 | [`International Center of Photography`](https://google.com/search?q=International+Center+of+Photography) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-02-27 | [`RAYAB Consulting Engineers`](https://google.com/search?q=RAYAB+Consulting+Engineers) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
-| 2023-02-27 | [`Moose, Martin, Haynes &amp; Lundy`](https://google.com/search?q=Moose%2C+Martin%2C+Haynes+%26amp%3B+Lundy) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
-| 2023-02-27 | [`albouyassociesconsult`](https://google.com/search?q=albouyassociesconsult) | [vendetta](https://ransomwatch.telemetry.ltd/#/profiles?id=vendetta) |
-| 2023-02-27 | [`Highwealth`](https://google.com/search?q=Highwealth) | [vendetta](https://ransomwatch.telemetry.ltd/#/profiles?id=vendetta) |
