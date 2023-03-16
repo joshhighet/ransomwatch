@@ -606,8 +606,9 @@ def blackbasta():
     stdlog('parser: ' + 'blackbasta')
     # egrep -o 'fqd.onion/\?id=([[:alnum:]]| |\.)+"' source/blackbasta-*.html | cut -d = -f 2 | cut -d '"' -f 1 | sed -e 's/^ *//g' -e 's/[[:space:]]*$//'
     # grep '.onion/?id=' source/blackbasta-st*.html | cut -d '>' -f 52 | cut -d '<' -f 1 | sed -e 's/\&amp/\&/g' -e 's/\&;/\&/g'
+    # grep '.onion/?id=' source/blackbasta-st*.html | cut -d '>' -f 52 | cut -d '=' -f 5 | cut -d '"' -f 1 | sed -e 's/^ *//g' -e '/^$/d' -e 's/[[:space:]]*$//'
     parser = '''
-    grep '.onion/?id=' source/blackbasta-st*.html | cut -d '>' -f 52 | cut -d '=' -f 5 | cut -d '"' -f 1 | sed -e 's/^ *//g' -e '/^$/d' -e 's/[[:space:]]*$//'
+    cat source/blackbasta-*.html | grep -Eo '\?id=[^"]+' | awk -F'=' '{print $2}' | sed -e 's/\&amp;/\&/g'
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
