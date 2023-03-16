@@ -44,7 +44,7 @@ curl -sL ransomwhat.telemetry.ltd/groups | jq
 
 ## technicals
 
-the [torproxy](https://github.com/joshhighet/gotham) from my [**gotham** registry](https://github.com/joshhighet/joshhighet/pkgs/container/gotham%2Ftorproxy) is introduced into the github actions workflow as a [service container](https://docs.github.com/en/actions/guides/about-service-containers) to allow onion routing within  [ransomwatch.yml](https://github.com/joshhighet/ransomwatch/blob/main/.github/workflows/ransomwatch.yml)
+[joshhighet/torsocc](https://github.com/joshhighet/torsocc) is introduced into the github actions workflow as a [service container](https://docs.github.com/en/actions/guides/about-service-containers) to allow onion routing within  [ransomwatch.yml](https://github.com/joshhighet/ransomwatch/blob/main/.github/workflows/ransomwatch.yml)
 
 where possible [psf/requests](https://github.com/psf/requests) is used to fetch source html. if a javascript engine is required to render the dom [mozilla/geckodriver](https://github.com/mozilla/geckodriver) and [seleniumhq/selenium](https://github.com/SeleniumHQ/selenium) are invoked.
 
@@ -75,7 +75,7 @@ _a [beautifulsoup](https://code.launchpad.net/~leonardr/beautifulsoup/bs4) scrip
 _fetching sites requires a local tor circuit on tcp://9050 - establish one with;_
 
 ```shell
-docker run -p9050:9050 ghcr.io/joshhighet/gotham/torproxy:latest
+docker run -p9050:9050 ghcr.io/joshhighet/torsocc:latest
 ```
 
 ### group management
