@@ -17,6 +17,7 @@ _last `200` posts_
 | 2023-03-16 | [`Petmate`](https://google.com/search?q=Petmate) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2023-03-16 | [`Wagner CAT`](https://google.com/search?q=Wagner+CAT) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
 | 2023-03-16 | [`Falcon Holdings`](https://google.com/search?q=Falcon+Holdings) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
+| 2023-03-16 | [`******* A********* *********** *******`](https://google.com/search?q=%2A%2A%2A%2A%2A%2A%2A+A%2A%2A%2A%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-03-16 | [`waldogeneral.com`](https://google.com/search?q=waldogeneral.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-03-16 | [`radium.com.tw`](https://google.com/search?q=radium.com.tw) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-03-16 | [`meatel.com`](https://google.com/search?q=meatel.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-02-27 | [`albouyassociesconsult`](https://google.com/search?q=albouyassociesconsult) | [vendetta](https://ransomwatch.telemetry.ltd/#/profiles?id=vendetta) |
 | 2023-02-27 | [`Highwealth`](https://google.com/search?q=Highwealth) | [vendetta](https://ransomwatch.telemetry.ltd/#/profiles?id=vendetta) |
 | 2023-02-26 | [`SOFTEQ.COM FILES PART12 - VMdisk\ PUBLISHED`](https://google.com/search?q=SOFTEQ.COM+FILES+PART12+-+VMdisk%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-02-26 | [`LOESCHGROUP.DE FILES PART19 - 192.168.101.35\D$\Alt\ PUBLISHED`](https://google.com/search?q=LOESCHGROUP.DE+FILES+PART19+-+192.168.101.35%5CD%24%5CAlt%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
