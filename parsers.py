@@ -832,7 +832,7 @@ def ransomblog_noname():
 def medusa():
     stdlog('parser: ' + 'medusa')
     parser = '''
-    grep "<h3 class=\\"card-title\\"" source/medusa-*.html | cut -d ">" -f2 |  cut -d '<' -f1
+    cat source/medusa-medusaxko7*.html | jq -r '.list[].company_name' || true
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
