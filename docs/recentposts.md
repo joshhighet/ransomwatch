@@ -17,6 +17,12 @@ _last `200` posts_
 | 2023-03-16 | [`Petmate`](https://google.com/search?q=Petmate) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2023-03-16 | [`Wagner CAT`](https://google.com/search?q=Wagner+CAT) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
 | 2023-03-16 | [`Falcon Holdings`](https://google.com/search?q=Falcon+Holdings) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
+| 2023-03-16 | [`waldogeneral.com`](https://google.com/search?q=waldogeneral.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-03-16 | [`radium.com.tw`](https://google.com/search?q=radium.com.tw) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-03-16 | [`meatel.com`](https://google.com/search?q=meatel.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-03-16 | [`mandirisekuritas.co.id`](https://google.com/search?q=mandirisekuritas.co.id) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-03-16 | [`buehnen.de`](https://google.com/search?q=buehnen.de) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-03-16 | [`Ecolog International`](https://google.com/search?q=Ecolog+International) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2023-03-16 | [`regaltax.us`](https://google.com/search?q=regaltax.us) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-03-16 | [`Norman S. Wright Climatec`](https://google.com/search?q=Norman+S.+Wright+Climatec) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2023-03-16 | [`Etex Communications`](https://google.com/search?q=Etex+Communications) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
@@ -198,9 +204,3 @@ _last `200` posts_
 | 2023-02-27 | [`Highwealth`](https://google.com/search?q=Highwealth) | [vendetta](https://ransomwatch.telemetry.ltd/#/profiles?id=vendetta) |
 | 2023-02-26 | [`SOFTEQ.COM FILES PART12 - VMdisk\ PUBLISHED`](https://google.com/search?q=SOFTEQ.COM+FILES+PART12+-+VMdisk%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-02-26 | [`LOESCHGROUP.DE FILES PART19 - 192.168.101.35\D$\Alt\ PUBLISHED`](https://google.com/search?q=LOESCHGROUP.DE+FILES+PART19+-+192.168.101.35%5CD%24%5CAlt%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-02-26 | [`NYCBAR.ORG FILES PART6 - 10.50.0.16\H$\SECURE-D\ PUBLISHED`](https://google.com/search?q=NYCBAR.ORG+FILES+PART6+-+10.50.0.16%5CH%24%5CSECURE-D%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-02-26 | [`UNISALLE.EDU.CO FILES PART5 - 172.17.3.117, 172.17.3.129, 172.17.3.176, 172.18.5.195, 172.`](https://google.com/search?q=UNISALLE.EDU.CO+FILES+PART5+-+172.17.3.117%2C+172.17.3.129%2C+172.17.3.176%2C+172.18.5.195%2C+172.) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-02-26 | [`Engineering Services`](https://google.com/search?q=Engineering+Services) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2023-02-26 | [`G Electronics`](https://google.com/search?q=G+Electronics) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2023-02-26 | [`A**** ********* ********* and *****`](https://google.com/search?q=A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A%2A%2A+and+%2A%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2023-02-26 | [`D***`](https://google.com/search?q=D%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
