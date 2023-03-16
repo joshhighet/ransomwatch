@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-03-16 | [`ktcs.com.my`](https://google.com/search?q=ktcs.com.my) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-03-16 | [`XL Specialized Trailers`](https://google.com/search?q=XL+Specialized+Trailers) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2023-03-16 | [`Vornado`](https://google.com/search?q=Vornado) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2023-03-16 | [`MARSHALL`](https://google.com/search?q=MARSHALL) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-02-27 | [`Moose, Martin, Haynes &amp; Lundy`](https://google.com/search?q=Moose%2C+Martin%2C+Haynes+%26amp%3B+Lundy) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-02-27 | [`albouyassociesconsult`](https://google.com/search?q=albouyassociesconsult) | [vendetta](https://ransomwatch.telemetry.ltd/#/profiles?id=vendetta) |
 | 2023-02-27 | [`Highwealth`](https://google.com/search?q=Highwealth) | [vendetta](https://ransomwatch.telemetry.ltd/#/profiles?id=vendetta) |
-| 2023-02-26 | [`SOFTEQ.COM FILES PART12 - VMdisk\ PUBLISHED`](https://google.com/search?q=SOFTEQ.COM+FILES+PART12+-+VMdisk%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
