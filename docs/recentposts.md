@@ -4,6 +4,20 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-03-16 | [`XL Specialized Trailers`](https://google.com/search?q=XL+Specialized+Trailers) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2023-03-16 | [`Vornado`](https://google.com/search?q=Vornado) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2023-03-16 | [`MARSHALL`](https://google.com/search?q=MARSHALL) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2023-03-16 | [`ACEA Energia`](https://google.com/search?q=ACEA+Energia) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2023-03-16 | [`Rudman Winchell`](https://google.com/search?q=Rudman+Winchell) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2023-03-16 | [`Hall Booth Smith`](https://google.com/search?q=Hall+Booth+Smith) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2023-03-16 | [`Maklersoftware`](https://google.com/search?q=Maklersoftware) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2023-03-16 | [`Friedman & Feiger`](https://google.com/search?q=Friedman+%26+Feiger) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2023-03-16 | [`DONOTCOPYLINK1`](https://google.com/search?q=DONOTCOPYLINK1) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2023-03-16 | [`KITTLES_2`](https://google.com/search?q=KITTLES_2) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2023-03-16 | [`Petmate`](https://google.com/search?q=Petmate) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2023-03-16 | [`Wagner CAT`](https://google.com/search?q=Wagner+CAT) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
+| 2023-03-16 | [`Falcon Holdings`](https://google.com/search?q=Falcon+Holdings) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
+| 2023-03-16 | [`Etex Communications`](https://google.com/search?q=Etex+Communications) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
 | 2023-03-15 | [`http://www.libertylines.com`](https://google.com/search?q=http%3A%2F%2Fwww.libertylines.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
 | 2023-03-15 | [`Cambridge College`](https://google.com/search?q=Cambridge+College) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2023-03-15 | [`NRG Innovations DataBase Leak`](https://google.com/search?q=NRG+Innovations+DataBase+Leak) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
@@ -190,17 +204,3 @@ _last `200` posts_
 | 2023-02-26 | [`D***`](https://google.com/search?q=D%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-02-26 | [`thinkwelty.com`](https://google.com/search?q=thinkwelty.com) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-02-25 | [`Smarter Capital`](https://google.com/search?q=Smarter+Capital) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-02-24 | [`ispace.com`](https://google.com/search?q=ispace.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-02-24 | [`InPro electric`](https://google.com/search?q=InPro+electric) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-02-24 | [`https://www.shcm.es`](https://google.com/search?q=https%3A%2F%2Fwww.shcm.es) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
-| 2023-02-24 | [`delawarelife.com`](https://google.com/search?q=delawarelife.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-02-24 | [`The Keen Group`](https://google.com/search?q=The+Keen+Group) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-02-23 | [`Glovers Solicitors LLP`](https://google.com/search?q=Glovers+Solicitors+LLP) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-02-23 | [`"FICCI"`](https://google.com/search?q=%22FICCI%22) | [mallox](https://ransomwatch.telemetry.ltd/#/profiles?id=mallox) |
-| 2023-02-23 | [`https://stoneandsons.com`](https://google.com/search?q=https%3A%2F%2Fstoneandsons.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
-| 2023-02-23 | [`Empresa Distribuidora de Electricidad del Este, Revenue $633.6M`](https://google.com/search?q=Empresa+Distribuidora+de+Electricidad+del+Este%2C+Revenue+%24633.6M) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-02-23 | [`Bond It`](https://google.com/search?q=Bond+It) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
-| 2023-02-23 | [`AESCULAPIUS Farmaceutici`](https://google.com/search?q=AESCULAPIUS+Farmaceutici) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
-| 2023-02-22 | [`Kendall Hunt Publishing`](https://google.com/search?q=Kendall+Hunt+Publishing) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-02-22 | [`AASP claim there was no data leakage!`](https://google.com/search?q=AASP+claim+there+was+no+data+leakage%21) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
-| 2023-02-22 | [`PRESTIGE MAINTENANCE USA WAS HACKED`](https://google.com/search?q=PRESTIGE+MAINTENANCE+USA+WAS+HACKED) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
