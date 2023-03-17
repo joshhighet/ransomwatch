@@ -4,6 +4,11 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-03-17 | [`https://www.aaaenergy.com`](https://google.com/search?q=https%3A%2F%2Fwww.aaaenergy.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
+| 2023-03-17 | [`https://www.dgm-industrie.fr`](https://google.com/search?q=https%3A%2F%2Fwww.dgm-industrie.fr) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
+| 2023-03-17 | [`WALSHALBERT`](https://google.com/search?q=WALSHALBERT) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
+| 2023-03-17 | [`npauctions.com (copart.com)`](https://google.com/search?q=npauctions.com+%28copart.com%29) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
+| 2023-03-17 | [`Muzzo Group`](https://google.com/search?q=Muzzo+Group) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-03-17 | [`r-pac.com`](https://google.com/search?q=r-pac.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-03-17 | [`perfectplacement.co.uk`](https://google.com/search?q=perfectplacement.co.uk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-03-17 | [`gdz.com`](https://google.com/search?q=gdz.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -199,8 +204,3 @@ _last `200` posts_
 | 2023-02-27 | [`carveraero.com`](https://google.com/search?q=carveraero.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-02-27 | [`bocca-sacs.com`](https://google.com/search?q=bocca-sacs.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-02-27 | [`Eureka Casino Resort`](https://google.com/search?q=Eureka+Casino+Resort) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
-| 2023-02-27 | [`Diethelm Keller Aviation Pte Ltd `](https://google.com/search?q=Diethelm+Keller+Aviation+Pte+Ltd+) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
-| 2023-02-27 | [`Tonga Communications`](https://google.com/search?q=Tonga+Communications) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
-| 2023-02-27 | [`Bank of Africa`](https://google.com/search?q=Bank+of+Africa) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
-| 2023-02-27 | [`PetroChina Indonesia`](https://google.com/search?q=PetroChina+Indonesia) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
-| 2023-02-27 | [`Foamtec International`](https://google.com/search?q=Foamtec+International) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
