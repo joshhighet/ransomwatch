@@ -4,6 +4,13 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-03-17 | [`Stanley Steemer`](https://google.com/search?q=Stanley+Steemer) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-03-17 | [`A&T group of companies`](https://google.com/search?q=A%26T+group+of+companies) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-03-17 | [`Berga Recycling`](https://google.com/search?q=Berga+Recycling) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-03-17 | [`Pine Tree Commercial Realty`](https://google.com/search?q=Pine+Tree+Commercial+Realty) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-03-17 | [`Norman Shutters`](https://google.com/search?q=Norman+Shutters) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-03-17 | [`TaxAssist Accountants`](https://google.com/search?q=TaxAssist+Accountants) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-03-17 | [`draftPros`](https://google.com/search?q=draftPros) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-03-17 | [`https://www.aaaenergy.com`](https://google.com/search?q=https%3A%2F%2Fwww.aaaenergy.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
 | 2023-03-17 | [`https://www.dgm-industrie.fr`](https://google.com/search?q=https%3A%2F%2Fwww.dgm-industrie.fr) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
 | 2023-03-17 | [`WALSHALBERT`](https://google.com/search?q=WALSHALBERT) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -197,10 +204,3 @@ _last `200` posts_
 | 2023-02-27 | [`hyosung.jp`](https://google.com/search?q=hyosung.jp) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-02-27 | [`Chowtaifook`](https://google.com/search?q=Chowtaifook) | [vendetta](https://ransomwatch.telemetry.ltd/#/profiles?id=vendetta) |
 | 2023-02-27 | [`wsisd.com`](https://google.com/search?q=wsisd.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-02-27 | [`wcso.us`](https://google.com/search?q=wcso.us) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-02-27 | [`pcproductsinter.com`](https://google.com/search?q=pcproductsinter.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-02-27 | [`moci.gov.kw`](https://google.com/search?q=moci.gov.kw) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-02-27 | [`cotteeparker.com.au`](https://google.com/search?q=cotteeparker.com.au) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-02-27 | [`carveraero.com`](https://google.com/search?q=carveraero.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-02-27 | [`bocca-sacs.com`](https://google.com/search?q=bocca-sacs.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-02-27 | [`Eureka Casino Resort`](https://google.com/search?q=Eureka+Casino+Resort) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
