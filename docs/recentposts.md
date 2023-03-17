@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-03-17 | [`boothtransport.com`](https://google.com/search?q=boothtransport.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-03-17 | [`ONEX.COM FILES PART1 - onex.goanywhere.cloud PUBLISHED`](https://google.com/search?q=ONEX.COM+FILES+PART1+-+onex.goanywhere.cloud+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-03-17 | [`RUBRIK.COM FULL FILES PUBLISHED`](https://google.com/search?q=RUBRIK.COM+FULL+FILES+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-03-17 | [`Stanley Steemer`](https://google.com/search?q=Stanley+Steemer) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-03-17 | [`A&T group of companies`](https://google.com/search?q=A%26T+group+of+companies) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-03-17 | [`Berga Recycling`](https://google.com/search?q=Berga+Recycling) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2023-02-27 | [`Ingenico`](https://google.com/search?q=Ingenico) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
 | 2023-02-27 | [`MSX International`](https://google.com/search?q=MSX+International) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
 | 2023-02-27 | [`rosenbauer.com`](https://google.com/search?q=rosenbauer.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-02-27 | [`hyosung.jp`](https://google.com/search?q=hyosung.jp) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-02-27 | [`Chowtaifook`](https://google.com/search?q=Chowtaifook) | [vendetta](https://ransomwatch.telemetry.ltd/#/profiles?id=vendetta) |
-| 2023-02-27 | [`wsisd.com`](https://google.com/search?q=wsisd.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
