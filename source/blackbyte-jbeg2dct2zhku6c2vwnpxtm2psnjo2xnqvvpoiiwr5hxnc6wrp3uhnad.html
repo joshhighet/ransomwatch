@@ -8,11 +8,11 @@
     <title>BB Auction</title>
     <link href="/dist/font-awesome.min.css" rel="stylesheet">
     <link href="/dist/css/bootstrap.css" rel="stylesheet">
-    <link href="/blog.css?v=1679091027" rel="stylesheet">
+    <link href="/blog.css?v=1679098877" rel="stylesheet">
     <script src="/assets/js/jquery-2.1.3.min.js"></script>
     <script src="/assets/js/vendor/popper.min.js"></script>
     <script src="/dist/js/bootstrap.min.js"></script>
-    <script src="/script.js?v=1679091027"></script>
+    <script src="/script.js?v=1679098877"></script>
     <script src="/dist/js/jquery.twbsPagination.min.js"></script>
     <script src="/dist/js/jquery.copy-to-clipboard.js"></script>
 </head>
@@ -52,17 +52,13 @@
         </div>
     </header>
 
-    <div id="bg_popups">
-        <div id="popups">
-            <h1 class="popups-name">NEW SALE</h1>
-            <p class="popups-bname">Hello Everyone!!!
-                <br>We want to announce that from now on, there will be some changes on how every Company getting published.
-                as a proof, will be included File Tree inside every download link of each Company as well as some screenshots and some data.
-                <br>
-                <br>If you are a Buyer or Competitor You don't have to ask us anymore what we have, you can download the data and find the file tree.</p>
-            <a class="closes" href="#" title="Close" onclick="document.getElementById('bg_popups').style.display='none'; return false;">X</a>
-        </div>
-    </div>
+<!--    <div id="bg_popups">-->
+<!--        <div id="popups">-->
+<!--            <h1 class="popups-name"></h1>-->
+<!--            <p class="popups-bname"></p>-->
+<!--            <a class="closes" href="#" title="Close" onclick="document.getElementById('bg_popups').style.display='none'; return false;">X</a>-->
+<!--        </div>-->
+<!--    </div>-->
 
     <div class="row cont1" style="display: none">
 
@@ -2666,12 +2662,12 @@ As Key High-tech Enterprise of State Torch Plan, we have world class factory wit
 
 
 
-    var delay_popup = 3000;
-    $(function(){
-        setTimeout(function () {
-            document.getElementById('bg_popups').style.display='block'
-        }, delay_popup);
-
+    // var delay_popup = 3000;
+    // $(function(){
+    //     setTimeout(function () {
+    //         document.getElementById('bg_popups').style.display='block'
+    //     }, delay_popup);
+    // });
         $("#copier").on('click', function () {
             CopyToClipboard("BlackByteSupp0rt@onionmail.org",'body');
             var element = $(this);
@@ -2681,7 +2677,7 @@ As Key High-tech Enterprise of State Torch Plan, we have world class factory wit
                 element.html(old_text);
             }, 1000);
         })
-    });
+
 
     var  vis_page = 3;
     var  totalPages = 4;
