@@ -160,6 +160,8 @@ _last `200` posts_
 | 2023-03-18 | [`PLANATOL.DE`](https://google.com/search?q=PLANATOL.DE) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-03-18 | [`TWL.DE`](https://google.com/search?q=TWL.DE) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-03-18 | [`INRIX.COM`](https://google.com/search?q=INRIX.COM) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-03-18 | [`Collins Electrical`](https://google.com/search?q=Collins+Electrical) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
+| 2023-03-18 | [`James Group`](https://google.com/search?q=James+Group) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-03-17 | [`UnitedLex`](https://google.com/search?q=UnitedLex) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2023-03-17 | [`boothtransport.com`](https://google.com/search?q=boothtransport.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-03-17 | [`ONEX.COM FILES PART1 - onex.goanywhere.cloud PUBLISHED`](https://google.com/search?q=ONEX.COM+FILES+PART1+-+onex.goanywhere.cloud+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-03-16 | [`meatel.com`](https://google.com/search?q=meatel.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-03-16 | [`mandirisekuritas.co.id`](https://google.com/search?q=mandirisekuritas.co.id) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-03-16 | [`buehnen.de`](https://google.com/search?q=buehnen.de) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-03-16 | [`Ecolog International`](https://google.com/search?q=Ecolog+International) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
-| 2023-03-16 | [`regaltax.us`](https://google.com/search?q=regaltax.us) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
