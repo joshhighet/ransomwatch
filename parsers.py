@@ -216,8 +216,9 @@ def ragnarlocker():
 
 def clop():
     stdlog('parser: ' + 'clop')
+    # grep 'PUBLISHED' source/clop-*.html --no-filename | sed -e s/"<strong>"// -e s/"<\/strong>"// -e s/"<\/p>"// -e s/"<p>"// -e s/"<br>"// -e s/"<strong>"// -e s/"<\/strong>"// -e 's/^ *//g' -e 's/[[:space:]]*$//'
     parser = '''
-    grep 'PUBLISHED' source/clop-*.html --no-filename | sed -e s/"<strong>"// -e s/"<\/strong>"// -e s/"<\/p>"// -e s/"<p>"// -e s/"<br>"// -e s/"<strong>"// -e s/"<\/strong>"// -e 's/^ *//g' -e 's/[[:space:]]*$//'
+    grep 'g-menu-item-title' source/clop-*.html --no-filename | sed -e s/'<span class="g-menu-item-title">'// -e s/"<\/span>"// -e 's/^ *//g' -e 's/[[:space:]]*$//' -e 's/^ARCHIVE[[:digit:]]$//' -e s/'^HOW TO DOWNLOAD?$'// -e 's/^ARCHIVE$//' -e 's/^HOME$//' -e '/^$/d'
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
