@@ -13,7 +13,6 @@ def plot_posts_by_group():
     posts = openjson('posts.json')
     group_counts = gcount(posts)
     group_counts = sorted(group_counts.items(), key=lambda x: x[1], reverse=True)
-    group_counts = [x for x in group_counts if x[0] != 'clop']
     groups = [x[0] for x in group_counts]
     counts = [x[1] for x in group_counts]
     plt.bar(groups, counts, color="#000000")
@@ -34,7 +33,6 @@ def plot_posts_by_group_past_7_days():
     posts = [post for post in posts if post['discovered'] >= seven_days_ago.strftime('%Y-%m-%d')]
     group_counts = gcount(posts)
     group_counts = sorted(group_counts.items(), key=lambda x: x[1], reverse=True)
-    group_counts = [x for x in group_counts if x[0] != 'clop']
     groups = [x[0] for x in group_counts]
     counts = [x[1] for x in group_counts]
     plt.bar(groups, counts, color="#000000")
@@ -86,7 +84,6 @@ def pie_posts_by_group():
     posts = openjson('posts.json')
     group_counts = gcount(posts)
     group_counts = sorted(group_counts.items(), key=lambda x: x[1], reverse=True)
-    group_counts = [x for x in group_counts if x[0] != 'clop']
     groups = [x[0] for x in group_counts]
     counts = [x[1] for x in group_counts]
     # ignoring the top 10 groups, merge the rest into "other"
