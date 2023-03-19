@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-03-19 | [`MONDIAL`](https://google.com/search?q=MONDIAL) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2023-03-19 | [`jaureguy.com.ar`](https://google.com/search?q=jaureguy.com.ar) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-03-19 | [`Avila Real Estate`](https://google.com/search?q=Avila+Real+Estate) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2023-03-19 | [`Sunward Pharmaceutical (Sunward)`](https://google.com/search?q=Sunward+Pharmaceutical+%28Sunward%29) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-03-06 | [`https://www.e-wilhelm-gmbh.de`](https://google.com/search?q=https%3A%2F%2Fwww.e-wilhelm-gmbh.de) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
 | 2023-03-06 | [`https://www.protektor.co.uk`](https://google.com/search?q=https%3A%2F%2Fwww.protektor.co.uk) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
 | 2023-03-06 | [`Circa Jewels`](https://google.com/search?q=Circa+Jewels) | [mallox](https://ransomwatch.telemetry.ltd/#/profiles?id=mallox) |
-| 2023-03-06 | [`The Institute of Space Technology`](https://google.com/search?q=The+Institute+of+Space+Technology) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
