@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-03-19 | [`jaureguy.com.ar`](https://google.com/search?q=jaureguy.com.ar) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-03-19 | [`Avila Real Estate`](https://google.com/search?q=Avila+Real+Estate) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2023-03-19 | [`Sunward Pharmaceutical (Sunward)`](https://google.com/search?q=Sunward+Pharmaceutical+%28Sunward%29) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-03-19 | [`stavinvest.cz`](https://google.com/search?q=stavinvest.cz) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-03-19 | [`id-logistics.com`](https://google.com/search?q=id-logistics.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-03-19 | [`hitzler-ingenieure.de`](https://google.com/search?q=hitzler-ingenieure.de) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2023-03-06 | [`https://www.protektor.co.uk`](https://google.com/search?q=https%3A%2F%2Fwww.protektor.co.uk) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
 | 2023-03-06 | [`Circa Jewels`](https://google.com/search?q=Circa+Jewels) | [mallox](https://ransomwatch.telemetry.ltd/#/profiles?id=mallox) |
 | 2023-03-06 | [`The Institute of Space Technology`](https://google.com/search?q=The+Institute+of+Space+Technology) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
-| 2023-03-06 | [`Kventa Kft`](https://google.com/search?q=Kventa+Kft) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
-| 2023-03-06 | [`Lehigh Valley Health Network`](https://google.com/search?q=Lehigh+Valley+Health+Network) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-03-06 | [`Los Altos Foods`](https://google.com/search?q=Los+Altos+Foods) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
