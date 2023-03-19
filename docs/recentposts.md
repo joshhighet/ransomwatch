@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-03-19 | [`stavinvest.cz`](https://google.com/search?q=stavinvest.cz) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-03-19 | [`id-logistics.com`](https://google.com/search?q=id-logistics.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-03-19 | [`hitzler-ingenieure.de`](https://google.com/search?q=hitzler-ingenieure.de) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-03-19 | [`bbsautomation.com`](https://google.com/search?q=bbsautomation.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-03-19 | [`American Institute for Healthcare Quality`](https://google.com/search?q=American+Institute+for+Healthcare+Quality) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2023-03-19 | [`Donut Leaks`](https://google.com/search?q=Donut+Leaks) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2023-03-06 | [`Kventa Kft`](https://google.com/search?q=Kventa+Kft) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2023-03-06 | [`Lehigh Valley Health Network`](https://google.com/search?q=Lehigh+Valley+Health+Network) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-03-06 | [`Los Altos Foods`](https://google.com/search?q=Los+Altos+Foods) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-03-05 | [`HAW Hamburg`](https://google.com/search?q=HAW+Hamburg) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
-| 2023-03-05 | [`AddWeb Solution Pvt`](https://google.com/search?q=AddWeb+Solution+Pvt) | [mallox](https://ransomwatch.telemetry.ltd/#/profiles?id=mallox) |
-| 2023-03-05 | [`S**** **********`](https://google.com/search?q=S%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
