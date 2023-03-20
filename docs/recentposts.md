@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-03-20 | [`SAKSFIFTHAVENUE.COM`](https://google.com/search?q=SAKSFIFTHAVENUE.COM) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-03-20 | [`telepizza.com`](https://google.com/search?q=telepizza.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-03-20 | [`Kelly Group`](https://google.com/search?q=Kelly+Group) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
 | 2023-03-20 | [`National Board of Osteopathic Medical Examiners`](https://google.com/search?q=National+Board+of+Osteopathic+Medical+Examiners) | [karakurt](https://ransomwatch.telemetry.ltd/#/profiles?id=karakurt) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-03-08 | [`http://www.workplace.org`](https://google.com/search?q=http%3A%2F%2Fwww.workplace.org) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
 | 2023-03-07 | [`Regional Transportation Authority`](https://google.com/search?q=Regional+Transportation+Authority) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2023-03-07 | [`Minneapolis Public Schools`](https://google.com/search?q=Minneapolis+Public+Schools) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
-| 2023-03-06 | [`https://www.krinos.com`](https://google.com/search?q=https%3A%2F%2Fwww.krinos.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
