@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-03-21 | [`cabinet-paillet.fr`](https://google.com/search?q=cabinet-paillet.fr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-03-21 | [`http://www.motoman.com`](https://google.com/search?q=http%3A%2F%2Fwww.motoman.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
 | 2023-03-21 | [`mangiainc.com`](https://google.com/search?q=mangiainc.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-03-21 | [`SUPPLYCORE2`](https://google.com/search?q=SUPPLYCORE2) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-03-10 | [`kisp.com`](https://google.com/search?q=kisp.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-03-10 | [`heidelbergbread.com`](https://google.com/search?q=heidelbergbread.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-03-10 | [`alpes-sante-travail.org`](https://google.com/search?q=alpes-sante-travail.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-03-10 | [`https://www.epaenlinea.com`](https://google.com/search?q=https%3A%2F%2Fwww.epaenlinea.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
