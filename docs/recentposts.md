@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-03-21 | [`SUPPLYCORE2`](https://google.com/search?q=SUPPLYCORE2) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2023-03-21 | [`transports-douaud.com`](https://google.com/search?q=transports-douaud.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-03-21 | [`the3rivers.net`](https://google.com/search?q=the3rivers.net) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-03-21 | [`stolt-nielsen.com`](https://google.com/search?q=stolt-nielsen.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-03-10 | [`https://www.epaenlinea.com`](https://google.com/search?q=https%3A%2F%2Fwww.epaenlinea.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
 | 2023-03-10 | [`https://www.highway-equipment.com`](https://google.com/search?q=https%3A%2F%2Fwww.highway-equipment.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
 | 2023-03-10 | [`https://www.richardsanders.co.uk`](https://google.com/search?q=https%3A%2F%2Fwww.richardsanders.co.uk) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
-| 2023-03-10 | [`https://www.alcuilux.lu`](https://google.com/search?q=https%3A%2F%2Fwww.alcuilux.lu) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
