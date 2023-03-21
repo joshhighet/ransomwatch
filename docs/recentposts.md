@@ -4,6 +4,16 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-03-21 | [`transports-douaud.com`](https://google.com/search?q=transports-douaud.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-03-21 | [`the3rivers.net`](https://google.com/search?q=the3rivers.net) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-03-21 | [`stolt-nielsen.com`](https://google.com/search?q=stolt-nielsen.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-03-21 | [`roslevauto.dk`](https://google.com/search?q=roslevauto.dk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-03-21 | [`ksrsac.karnataka.gov.in`](https://google.com/search?q=ksrsac.karnataka.gov.in) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-03-21 | [`jenparking.com`](https://google.com/search?q=jenparking.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-03-21 | [`gproulxinc.com`](https://google.com/search?q=gproulxinc.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-03-21 | [`cityofallenpark.org`](https://google.com/search?q=cityofallenpark.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-03-21 | [`bakermech.com`](https://google.com/search?q=bakermech.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-03-21 | [`Zeus Energy S.A.C`](https://google.com/search?q=Zeus+Energy+S.A.C) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-03-21 | [`Atlas Security`](https://google.com/search?q=Atlas+Security) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-03-21 | [`oaklandca.gov`](https://google.com/search?q=oaklandca.gov) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-03-21 | [`co.ottawa.oh.us`](https://google.com/search?q=co.ottawa.oh.us) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -194,13 +204,3 @@ _last `200` posts_
 | 2023-03-10 | [`https://www.highway-equipment.com`](https://google.com/search?q=https%3A%2F%2Fwww.highway-equipment.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
 | 2023-03-10 | [`https://www.richardsanders.co.uk`](https://google.com/search?q=https%3A%2F%2Fwww.richardsanders.co.uk) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
 | 2023-03-10 | [`https://www.alcuilux.lu`](https://google.com/search?q=https%3A%2F%2Fwww.alcuilux.lu) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
-| 2023-03-10 | [`https://www.jacksondean.com`](https://google.com/search?q=https%3A%2F%2Fwww.jacksondean.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
-| 2023-03-10 | [`https://www.hardmfg.com`](https://google.com/search?q=https%3A%2F%2Fwww.hardmfg.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
-| 2023-03-10 | [`https://www.materialogic.com`](https://google.com/search?q=https%3A%2F%2Fwww.materialogic.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
-| 2023-03-10 | [`https://www.littlemountaincare.org`](https://google.com/search?q=https%3A%2F%2Fwww.littlemountaincare.org) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
-| 2023-03-10 | [`sagardoy.com`](https://google.com/search?q=sagardoy.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-03-10 | [`Garbarino SAICeI`](https://google.com/search?q=Garbarino+SAICeI) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
-| 2023-03-10 | [`pmsoffice.de`](https://google.com/search?q=pmsoffice.de) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-03-09 | [`National Business Furniture`](https://google.com/search?q=National+Business+Furniture) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
-| 2023-03-09 | [`https://www.wellingtonpower.com`](https://google.com/search?q=https%3A%2F%2Fwww.wellingtonpower.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
-| 2023-03-09 | [`http://www.walkerscm.com`](https://google.com/search?q=http%3A%2F%2Fwww.walkerscm.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
