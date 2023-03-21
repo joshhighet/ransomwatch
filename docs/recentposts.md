@@ -4,6 +4,10 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-03-21 | [`Atlas Security`](https://google.com/search?q=Atlas+Security) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
+| 2023-03-21 | [`oaklandca.gov`](https://google.com/search?q=oaklandca.gov) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-03-21 | [`co.ottawa.oh.us`](https://google.com/search?q=co.ottawa.oh.us) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-03-21 | [`alyasrafoods.com`](https://google.com/search?q=alyasrafoods.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-03-20 | [`Indonesia Power`](https://google.com/search?q=Indonesia+Power) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2023-03-20 | [`emotorsdirect.ca`](https://google.com/search?q=emotorsdirect.ca) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-03-20 | [`SAKSFIFTHAVENUE.COM`](https://google.com/search?q=SAKSFIFTHAVENUE.COM) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
@@ -200,7 +204,3 @@ _last `200` posts_
 | 2023-03-09 | [`National Business Furniture`](https://google.com/search?q=National+Business+Furniture) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-03-09 | [`https://www.wellingtonpower.com`](https://google.com/search?q=https%3A%2F%2Fwww.wellingtonpower.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
 | 2023-03-09 | [`http://www.walkerscm.com`](https://google.com/search?q=http%3A%2F%2Fwww.walkerscm.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
-| 2023-03-09 | [`http://www.brauerei-schimpf.de`](https://google.com/search?q=http%3A%2F%2Fwww.brauerei-schimpf.de) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
-| 2023-03-09 | [`https://thomastonmills.com`](https://google.com/search?q=https%3A%2F%2Fthomastonmills.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
-| 2023-03-09 | [`audio-technica.com`](https://google.com/search?q=audio-technica.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-03-08 | [`http://www.workplace.org`](https://google.com/search?q=http%3A%2F%2Fwww.workplace.org) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
