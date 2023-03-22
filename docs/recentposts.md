@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-03-22 | [`Rock Insurance Brokers`](https://google.com/search?q=Rock+Insurance+Brokers) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2023-03-22 | [`US District Court`](https://google.com/search?q=US+District+Court) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2023-03-22 | [`Troutman Pepper`](https://google.com/search?q=Troutman+Pepper) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2023-03-22 | [`Advance America`](https://google.com/search?q=Advance+America) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-03-10 | [`techhard.ae`](https://google.com/search?q=techhard.ae) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-03-10 | [`micos.com`](https://google.com/search?q=micos.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-03-10 | [`drilmaco.com`](https://google.com/search?q=drilmaco.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-03-10 | [`https://kmwp.de`](https://google.com/search?q=https%3A%2F%2Fkmwp.de) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
