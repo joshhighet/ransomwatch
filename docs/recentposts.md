@@ -4,6 +4,10 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-03-22 | [`LASOLTEL.FR`](https://google.com/search?q=LASOLTEL.FR) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-03-22 | [`PG.COM`](https://google.com/search?q=PG.COM) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-03-22 | [`CROSSVILLEINC.COM`](https://google.com/search?q=CROSSVILLEINC.COM) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-03-22 | [`LESLIESPOOL.COM`](https://google.com/search?q=LESLIESPOOL.COM) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-03-22 | [`Rock Insurance Brokers`](https://google.com/search?q=Rock+Insurance+Brokers) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2023-03-22 | [`US District Court`](https://google.com/search?q=US+District+Court) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2023-03-22 | [`Troutman Pepper`](https://google.com/search?q=Troutman+Pepper) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
@@ -200,7 +204,3 @@ _last `200` posts_
 | 2023-03-10 | [`The M. K. Morse`](https://google.com/search?q=The+M.+K.+Morse) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-03-10 | [`Secure Wrap`](https://google.com/search?q=Secure+Wrap) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-03-10 | [`Russell Finex`](https://google.com/search?q=Russell+Finex) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-03-10 | [`eprinsa.es`](https://google.com/search?q=eprinsa.es) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-03-10 | [`techhard.ae`](https://google.com/search?q=techhard.ae) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-03-10 | [`micos.com`](https://google.com/search?q=micos.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-03-10 | [`drilmaco.com`](https://google.com/search?q=drilmaco.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
