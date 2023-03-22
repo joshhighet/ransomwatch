@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-03-22 | [`Troutman Pepper`](https://google.com/search?q=Troutman+Pepper) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2023-03-22 | [`Advance America`](https://google.com/search?q=Advance+America) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2023-03-22 | [`DAYSUP`](https://google.com/search?q=DAYSUP) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2023-03-22 | [`Design CATAPULT`](https://google.com/search?q=Design+CATAPULT) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2023-03-22 | [`Kress`](https://google.com/search?q=Kress) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-03-21 | [`cabinet-paillet.fr`](https://google.com/search?q=cabinet-paillet.fr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2023-03-10 | [`drilmaco.com`](https://google.com/search?q=drilmaco.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-03-10 | [`https://kmwp.de`](https://google.com/search?q=https%3A%2F%2Fkmwp.de) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
 | 2023-03-10 | [`wunan.org.au`](https://google.com/search?q=wunan.org.au) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-03-10 | [`southamericantours.com`](https://google.com/search?q=southamericantours.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-03-10 | [`schauenburg.com`](https://google.com/search?q=schauenburg.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-03-10 | [`kisp.com`](https://google.com/search?q=kisp.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
