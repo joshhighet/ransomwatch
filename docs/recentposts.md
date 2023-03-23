@@ -4,6 +4,10 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-03-23 | [`Comune Taggia`](https://google.com/search?q=Comune+Taggia) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
+| 2023-03-23 | [`Kanawha Scales`](https://google.com/search?q=Kanawha+Scales) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2023-03-23 | [`Vincent Lighting Systems`](https://google.com/search?q=Vincent+Lighting+Systems) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2023-03-23 | [`Autoridad de Acueductos Y Alcantarillados`](https://google.com/search?q=Autoridad+de+Acueductos+Y+Alcantarillados) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2023-03-23 | [`Weickert Industries`](https://google.com/search?q=Weickert+Industries) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2023-03-23 | [`PHOENIX.TECH`](https://google.com/search?q=PHOENIX.TECH) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-03-23 | [`SODALESSOLUTIONS.COM`](https://google.com/search?q=SODALESSOLUTIONS.COM) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
@@ -200,7 +204,3 @@ _last `200` posts_
 | 2023-03-16 | [`Norman S. Wright Climatec`](https://google.com/search?q=Norman+S.+Wright+Climatec) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2023-03-16 | [`Etex Communications`](https://google.com/search?q=Etex+Communications) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
 | 2023-03-15 | [`http://www.libertylines.com`](https://google.com/search?q=http%3A%2F%2Fwww.libertylines.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
-| 2023-03-15 | [`Cambridge College`](https://google.com/search?q=Cambridge+College) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
-| 2023-03-15 | [`NRG Innovations DataBase Leak`](https://google.com/search?q=NRG+Innovations+DataBase+Leak) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
-| 2023-03-14 | [`kaycan.com`](https://google.com/search?q=kaycan.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-03-14 | [`essendant.com`](https://google.com/search?q=essendant.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
