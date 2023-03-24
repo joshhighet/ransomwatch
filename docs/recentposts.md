@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-03-24 | [`Cospec Srl`](https://google.com/search?q=Cospec+Srl) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2023-03-24 | [`BISSELL.COM`](https://google.com/search?q=BISSELL.COM) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-03-24 | [`EMERALDX.COM`](https://google.com/search?q=EMERALDX.COM) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-03-24 | [`CAJASANRAFAEL.COM.MX`](https://google.com/search?q=CAJASANRAFAEL.COM.MX) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-03-17 | [`Berga Recycling`](https://google.com/search?q=Berga+Recycling) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-03-17 | [`Pine Tree Commercial Realty`](https://google.com/search?q=Pine+Tree+Commercial+Realty) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-03-17 | [`Norman Shutters`](https://google.com/search?q=Norman+Shutters) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-03-17 | [`TaxAssist Accountants`](https://google.com/search?q=TaxAssist+Accountants) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
