@@ -4,6 +4,15 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-03-24 | [`BISSELL.COM`](https://google.com/search?q=BISSELL.COM) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-03-24 | [`EMERALDX.COM`](https://google.com/search?q=EMERALDX.COM) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-03-24 | [`CAJASANRAFAEL.COM.MX`](https://google.com/search?q=CAJASANRAFAEL.COM.MX) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-03-24 | [`TAS.GOV.AU`](https://google.com/search?q=TAS.GOV.AU) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-03-24 | [`ENERJISAURETIM.COM`](https://google.com/search?q=ENERJISAURETIM.COM) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-03-24 | [`INTELLICARE.COM.PH`](https://google.com/search?q=INTELLICARE.COM.PH) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-03-24 | [`CRESCENTHOTELS.COM`](https://google.com/search?q=CRESCENTHOTELS.COM) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-03-24 | [`COLMAC.COM`](https://google.com/search?q=COLMAC.COM) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-03-24 | [`INVESTORCOM.COM`](https://google.com/search?q=INVESTORCOM.COM) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-03-24 | [`lclattorneys.com`](https://google.com/search?q=lclattorneys.com) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-03-24 | [`wbactc`](https://google.com/search?q=wbactc) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-03-24 | [`Sun Global Media Usa Ltd`](https://google.com/search?q=Sun+Global+Media+Usa+Ltd) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -195,12 +204,3 @@ _last `200` posts_
 | 2023-03-17 | [`Pine Tree Commercial Realty`](https://google.com/search?q=Pine+Tree+Commercial+Realty) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-03-17 | [`Norman Shutters`](https://google.com/search?q=Norman+Shutters) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-03-17 | [`TaxAssist Accountants`](https://google.com/search?q=TaxAssist+Accountants) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-03-17 | [`draftPros`](https://google.com/search?q=draftPros) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-03-17 | [`https://www.aaaenergy.com`](https://google.com/search?q=https%3A%2F%2Fwww.aaaenergy.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
-| 2023-03-17 | [`https://www.dgm-industrie.fr`](https://google.com/search?q=https%3A%2F%2Fwww.dgm-industrie.fr) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
-| 2023-03-17 | [`WALSHALBERT`](https://google.com/search?q=WALSHALBERT) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-03-17 | [`npauctions.com (copart.com)`](https://google.com/search?q=npauctions.com+%28copart.com%29) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-03-17 | [`Muzzo Group`](https://google.com/search?q=Muzzo+Group) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-03-17 | [`r-pac.com`](https://google.com/search?q=r-pac.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-03-17 | [`perfectplacement.co.uk`](https://google.com/search?q=perfectplacement.co.uk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-03-17 | [`gdz.com`](https://google.com/search?q=gdz.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
