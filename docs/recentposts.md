@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-03-24 | [`lclattorneys.com`](https://google.com/search?q=lclattorneys.com) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
+| 2023-03-24 | [`wbactc`](https://google.com/search?q=wbactc) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
+| 2023-03-24 | [`Sun Global Media Usa Ltd`](https://google.com/search?q=Sun+Global+Media+Usa+Ltd) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-03-24 | [`"CCAA"`](https://google.com/search?q=%22CCAA%22) | [mallox](https://ransomwatch.telemetry.ltd/#/profiles?id=mallox) |
 | 2023-03-24 | [`IMAGINE360.COM`](https://google.com/search?q=IMAGINE360.COM) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-03-24 | [`securens.in`](https://google.com/search?q=securens.in) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2023-03-17 | [`r-pac.com`](https://google.com/search?q=r-pac.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-03-17 | [`perfectplacement.co.uk`](https://google.com/search?q=perfectplacement.co.uk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-03-17 | [`gdz.com`](https://google.com/search?q=gdz.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-03-16 | [`RUBRIK.COM`](https://google.com/search?q=RUBRIK.COM) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-03-16 | [`HATCHBANK.COM`](https://google.com/search?q=HATCHBANK.COM) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-03-16 | [`ktcs.com.my`](https://google.com/search?q=ktcs.com.my) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
