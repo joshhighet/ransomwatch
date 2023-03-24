@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-03-24 | [`"CCAA"`](https://google.com/search?q=%22CCAA%22) | [mallox](https://ransomwatch.telemetry.ltd/#/profiles?id=mallox) |
+| 2023-03-24 | [`IMAGINE360.COM`](https://google.com/search?q=IMAGINE360.COM) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-03-24 | [`securens.in`](https://google.com/search?q=securens.in) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-03-24 | [`Teklas`](https://google.com/search?q=Teklas) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-03-24 | [`Sun Pharmaceutical Industries Ltd.`](https://google.com/search?q=Sun+Pharmaceutical+Industries+Ltd.) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-03-16 | [`RUBRIK.COM`](https://google.com/search?q=RUBRIK.COM) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-03-16 | [`HATCHBANK.COM`](https://google.com/search?q=HATCHBANK.COM) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-03-16 | [`ktcs.com.my`](https://google.com/search?q=ktcs.com.my) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-03-16 | [`XL Specialized Trailers`](https://google.com/search?q=XL+Specialized+Trailers) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2023-03-16 | [`Vornado`](https://google.com/search?q=Vornado) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
