@@ -4,6 +4,12 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-03-24 | [`bianchiindustry.com`](https://google.com/search?q=bianchiindustry.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-03-24 | [`THECYPRINUS.COM`](https://google.com/search?q=THECYPRINUS.COM) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-03-24 | [`SPI.CO.ZA`](https://google.com/search?q=SPI.CO.ZA) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-03-24 | [`DETECH.COM.TR`](https://google.com/search?q=DETECH.COM.TR) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-03-24 | [`GRUPOFLORAPLANT.COM`](https://google.com/search?q=GRUPOFLORAPLANT.COM) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-03-24 | [`ALTO.US`](https://google.com/search?q=ALTO.US) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-03-24 | [`Gujarat Mineral`](https://google.com/search?q=Gujarat+Mineral) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-03-24 | [`GOA.GOV.IN`](https://google.com/search?q=GOA.GOV.IN) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-03-24 | [`INTERTERMINALS.COM`](https://google.com/search?q=INTERTERMINALS.COM) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
@@ -198,9 +204,3 @@ _last `200` posts_
 | 2023-03-16 | [`MARSHALL`](https://google.com/search?q=MARSHALL) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2023-03-16 | [`ACEA Energia`](https://google.com/search?q=ACEA+Energia) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2023-03-16 | [`Rudman Winchell`](https://google.com/search?q=Rudman+Winchell) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2023-03-16 | [`Hall Booth Smith`](https://google.com/search?q=Hall+Booth+Smith) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2023-03-16 | [`Maklersoftware`](https://google.com/search?q=Maklersoftware) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2023-03-16 | [`Friedman & Feiger`](https://google.com/search?q=Friedman+%26+Feiger) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2023-03-16 | [`DONOTCOPYLINK1`](https://google.com/search?q=DONOTCOPYLINK1) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2023-03-16 | [`KITTLES_2`](https://google.com/search?q=KITTLES_2) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2023-03-16 | [`Petmate`](https://google.com/search?q=Petmate) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
