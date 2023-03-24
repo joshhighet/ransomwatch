@@ -4,6 +4,19 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-03-24 | [`Gujarat Mineral`](https://google.com/search?q=Gujarat+Mineral) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
+| 2023-03-24 | [`GOA.GOV.IN`](https://google.com/search?q=GOA.GOV.IN) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-03-24 | [`INTERTERMINALS.COM`](https://google.com/search?q=INTERTERMINALS.COM) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-03-24 | [`GLOBALFARM.COM.AR`](https://google.com/search?q=GLOBALFARM.COM.AR) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-03-24 | [`ATOS.NET`](https://google.com/search?q=ATOS.NET) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-03-24 | [`TGW.COM`](https://google.com/search?q=TGW.COM) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-03-24 | [`DERK.CL`](https://google.com/search?q=DERK.CL) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-03-24 | [`REDBOXVOICE.COM`](https://google.com/search?q=REDBOXVOICE.COM) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-03-24 | [`PROGRESSION.COM`](https://google.com/search?q=PROGRESSION.COM) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-03-24 | [`UNIMELB.EDU.AU`](https://google.com/search?q=UNIMELB.EDU.AU) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-03-24 | [`CROWNRESORT.COM.AU`](https://google.com/search?q=CROWNRESORT.COM.AU) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-03-24 | [`BRIDGEWAY.COM.PH`](https://google.com/search?q=BRIDGEWAY.COM.PH) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-03-24 | [`TLG.COM`](https://google.com/search?q=TLG.COM) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-03-23 | [`Comune Taggia`](https://google.com/search?q=Comune+Taggia) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2023-03-23 | [`Kanawha Scales`](https://google.com/search?q=Kanawha+Scales) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2023-03-23 | [`Vincent Lighting Systems`](https://google.com/search?q=Vincent+Lighting+Systems) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
@@ -191,16 +204,3 @@ _last `200` posts_
 | 2023-03-16 | [`DONOTCOPYLINK1`](https://google.com/search?q=DONOTCOPYLINK1) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2023-03-16 | [`KITTLES_2`](https://google.com/search?q=KITTLES_2) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2023-03-16 | [`Petmate`](https://google.com/search?q=Petmate) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2023-03-16 | [`Wagner CAT`](https://google.com/search?q=Wagner+CAT) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
-| 2023-03-16 | [`Falcon Holdings`](https://google.com/search?q=Falcon+Holdings) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
-| 2023-03-16 | [`******* A********* *********** *******`](https://google.com/search?q=%2A%2A%2A%2A%2A%2A%2A+A%2A%2A%2A%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2023-03-16 | [`waldogeneral.com`](https://google.com/search?q=waldogeneral.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-03-16 | [`radium.com.tw`](https://google.com/search?q=radium.com.tw) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-03-16 | [`meatel.com`](https://google.com/search?q=meatel.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-03-16 | [`mandirisekuritas.co.id`](https://google.com/search?q=mandirisekuritas.co.id) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-03-16 | [`buehnen.de`](https://google.com/search?q=buehnen.de) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-03-16 | [`Ecolog International`](https://google.com/search?q=Ecolog+International) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
-| 2023-03-16 | [`regaltax.us`](https://google.com/search?q=regaltax.us) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-03-16 | [`Norman S. Wright Climatec`](https://google.com/search?q=Norman+S.+Wright+Climatec) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2023-03-16 | [`Etex Communications`](https://google.com/search?q=Etex+Communications) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
-| 2023-03-15 | [`http://www.libertylines.com`](https://google.com/search?q=http%3A%2F%2Fwww.libertylines.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
