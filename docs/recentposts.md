@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-03-25 | [`jubileeinsurance.com`](https://google.com/search?q=jubileeinsurance.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-03-25 | [`giga.com.vc`](https://google.com/search?q=giga.com.vc) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-03-25 | [`slipstreaminc.org`](https://google.com/search?q=slipstreaminc.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-03-25 | [`precisionit.co.in`](https://google.com/search?q=precisionit.co.in) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-03-25 | [`demechindia.com`](https://google.com/search?q=demechindia.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-03-18 | [`NETZSCH.COM`](https://google.com/search?q=NETZSCH.COM) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-03-18 | [`PROMINENT.COM`](https://google.com/search?q=PROMINENT.COM) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-03-18 | [`PLANATOL.DE`](https://google.com/search?q=PLANATOL.DE) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-03-18 | [`TWL.DE`](https://google.com/search?q=TWL.DE) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-03-18 | [`INRIX.COM`](https://google.com/search?q=INRIX.COM) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
