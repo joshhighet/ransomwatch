@@ -4,6 +4,12 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-03-25 | [`largest provider of orthopedic care`](https://google.com/search?q=largest+provider+of+orthopedic+care) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
+| 2023-03-25 | [`hosemanufacturing.com`](https://google.com/search?q=hosemanufacturing.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
+| 2023-03-25 | [`igadiltd.com`](https://google.com/search?q=igadiltd.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
+| 2023-03-25 | [`jones-hamilton.com`](https://google.com/search?q=jones-hamilton.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
+| 2023-03-25 | [`stonehillcontracting.com`](https://google.com/search?q=stonehillcontracting.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
+| 2023-03-25 | [`siebold.com`](https://google.com/search?q=siebold.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
 | 2023-03-24 | [`Cospec Srl`](https://google.com/search?q=Cospec+Srl) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2023-03-24 | [`BISSELL.COM`](https://google.com/search?q=BISSELL.COM) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-03-24 | [`EMERALDX.COM`](https://google.com/search?q=EMERALDX.COM) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
@@ -198,9 +204,3 @@ _last `200` posts_
 | 2023-03-18 | [`Collins Electrical`](https://google.com/search?q=Collins+Electrical) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-03-18 | [`James Group`](https://google.com/search?q=James+Group) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-03-17 | [`UnitedLex`](https://google.com/search?q=UnitedLex) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
-| 2023-03-17 | [`boothtransport.com`](https://google.com/search?q=boothtransport.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-03-17 | [`Stanley Steemer`](https://google.com/search?q=Stanley+Steemer) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-03-17 | [`A&T group of companies`](https://google.com/search?q=A%26T+group+of+companies) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-03-17 | [`Berga Recycling`](https://google.com/search?q=Berga+Recycling) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-03-17 | [`Pine Tree Commercial Realty`](https://google.com/search?q=Pine+Tree+Commercial+Realty) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-03-17 | [`Norman Shutters`](https://google.com/search?q=Norman+Shutters) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
