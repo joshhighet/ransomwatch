@@ -929,3 +929,14 @@ def vendetta():
         errlog('vendetta: ' + 'parsing fail')
     for post in posts:
         appender(post, 'vendetta')
+
+def abyss():
+    stdlog('parser: ' + 'abyss')
+    parser = '''
+    grep "'title'" source/abyss-*.html | cut -d "'" -f 4
+    '''
+    posts = runshellcmd(parser)
+    if len(posts) == 1:
+        errlog('abyss: ' + 'parsing fail')
+    for post in posts:
+        appender(post, 'abyss')

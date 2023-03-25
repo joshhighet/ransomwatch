@@ -293,6 +293,7 @@ if args.mode == 'parse':
     parsers.freecivilian()
     parsers.vendetta()
     parsers.ransomblog_noname()
+    parsers.abyss()
     stdlog('ransomwatch: ' + 'parse run complete')
 
 if args.mode == 'list':
