@@ -4,6 +4,15 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-03-26 | [`Lightcast`](https://google.com/search?q=Lightcast) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-03-26 | [`Optica`](https://google.com/search?q=Optica) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-03-26 | [`James, McElroy and Diehl`](https://google.com/search?q=James%2C+McElroy+and+Diehl) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-03-26 | [`Lysander Associates`](https://google.com/search?q=Lysander+Associates) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-03-26 | [`TAC`](https://google.com/search?q=TAC) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-03-26 | [`Guyana Goldfields`](https://google.com/search?q=Guyana+Goldfields) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-03-26 | [`Picou Builders Supply`](https://google.com/search?q=Picou+Builders+Supply) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-03-26 | [`Kk Mehta Cpa Associates`](https://google.com/search?q=Kk+Mehta+Cpa+Associates) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-03-26 | [`Pizza 73`](https://google.com/search?q=Pizza+73) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-03-26 | [`Rob Levine & Associates Lawyers`](https://google.com/search?q=Rob+Levine+%26+Associates+Lawyers) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-03-25 | [`jubileeinsurance.com`](https://google.com/search?q=jubileeinsurance.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-03-25 | [`giga.com.vc`](https://google.com/search?q=giga.com.vc) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -195,12 +204,3 @@ _last `200` posts_
 | 2023-03-18 | [`EXECUPHARM.COM`](https://google.com/search?q=EXECUPHARM.COM) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-03-18 | [`CGG.COM`](https://google.com/search?q=CGG.COM) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-03-18 | [`PENTAIR.COM`](https://google.com/search?q=PENTAIR.COM) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-03-18 | [`FUGRO.COM`](https://google.com/search?q=FUGRO.COM) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-03-18 | [`EAGLE.ORG`](https://google.com/search?q=EAGLE.ORG) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-03-18 | [`THE7STARS.CO.UK`](https://google.com/search?q=THE7STARS.CO.UK) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-03-18 | [`AMEY.CO.UK`](https://google.com/search?q=AMEY.CO.UK) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-03-18 | [`NOVABIOMEDICAL.COM`](https://google.com/search?q=NOVABIOMEDICAL.COM) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-03-18 | [`ALLSTATEPETERBILT.COM`](https://google.com/search?q=ALLSTATEPETERBILT.COM) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-03-18 | [`PRETTL.COM`](https://google.com/search?q=PRETTL.COM) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-03-18 | [`NETZSCH.COM`](https://google.com/search?q=NETZSCH.COM) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-03-18 | [`PROMINENT.COM`](https://google.com/search?q=PROMINENT.COM) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
