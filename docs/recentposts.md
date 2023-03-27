@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-03-27 | [`tecnosysitalia.eu`](https://google.com/search?q=tecnosysitalia.eu) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-03-27 | [`All4Labels`](https://google.com/search?q=All4Labels) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-03-27 | [`Tanbridge House School`](https://google.com/search?q=Tanbridge+House+School) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2023-03-27 | [`lqtbg.com.cn`](https://google.com/search?q=lqtbg.com.cn) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-03-27 | [`islandinsurance.ca`](https://google.com/search?q=islandinsurance.ca) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-03-18 | [`CGMLLC.NET`](https://google.com/search?q=CGMLLC.NET) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-03-18 | [`MUSCHERT-GIERSE.DE`](https://google.com/search?q=MUSCHERT-GIERSE.DE) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-03-18 | [`KSSARCHITECTS.COM`](https://google.com/search?q=KSSARCHITECTS.COM) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-03-18 | [`COLORADO.EDU`](https://google.com/search?q=COLORADO.EDU) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-03-18 | [`JONESDAY.COM`](https://google.com/search?q=JONESDAY.COM) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
