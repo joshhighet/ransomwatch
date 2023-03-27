@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-03-27 | [`mcna.net`](https://google.com/search?q=mcna.net) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-03-26 | [`Lightcast`](https://google.com/search?q=Lightcast) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-03-26 | [`Optica`](https://google.com/search?q=Optica) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-03-26 | [`James, McElroy and Diehl`](https://google.com/search?q=James%2C+McElroy+and+Diehl) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-03-18 | [`INDIABULLS.COM`](https://google.com/search?q=INDIABULLS.COM) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-03-18 | [`EXECUPHARM.COM`](https://google.com/search?q=EXECUPHARM.COM) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-03-18 | [`CGG.COM`](https://google.com/search?q=CGG.COM) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-03-18 | [`PENTAIR.COM`](https://google.com/search?q=PENTAIR.COM) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
