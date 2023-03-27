@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-03-27 | [`lqtbg.com.cn`](https://google.com/search?q=lqtbg.com.cn) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-03-27 | [`islandinsurance.ca`](https://google.com/search?q=islandinsurance.ca) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-03-27 | [`bienvilleortho.com`](https://google.com/search?q=bienvilleortho.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
 | 2023-03-27 | [`ulmacarretillas.com`](https://google.com/search?q=ulmacarretillas.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-03-27 | [`County Materials Corporation`](https://google.com/search?q=County+Materials+Corporation) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-03-18 | [`COLORADO.EDU`](https://google.com/search?q=COLORADO.EDU) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-03-18 | [`JONESDAY.COM`](https://google.com/search?q=JONESDAY.COM) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-03-18 | [`SINGTEL.COM`](https://google.com/search?q=SINGTEL.COM) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-03-18 | [`SYMRISE.COM`](https://google.com/search?q=SYMRISE.COM) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-03-18 | [`ELANDRETAIL.COM`](https://google.com/search?q=ELANDRETAIL.COM) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
