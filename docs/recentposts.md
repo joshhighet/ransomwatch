@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-03-28 | [`swiftatlanta.com`](https://google.com/search?q=swiftatlanta.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-03-28 | [`piramal.com`](https://google.com/search?q=piramal.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-03-28 | [`City of Modesto, CA`](https://google.com/search?q=City+of+Modesto%2C+CA) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
 | 2023-03-27 | [`tecnosysitalia.eu`](https://google.com/search?q=tecnosysitalia.eu) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-03-18 | [`HOUSELOAN.COM`](https://google.com/search?q=HOUSELOAN.COM) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-03-18 | [`ALIVIAHEALTH.COM`](https://google.com/search?q=ALIVIAHEALTH.COM) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-03-18 | [`GROUPAMANA.COM`](https://google.com/search?q=GROUPAMANA.COM) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-03-18 | [`CGMLLC.NET`](https://google.com/search?q=CGMLLC.NET) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
