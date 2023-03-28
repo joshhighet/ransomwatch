@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-03-28 | [`BMW France`](https://google.com/search?q=BMW+France) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-03-28 | [`Oscar Software`](https://google.com/search?q=Oscar+Software) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-03-28 | [`Jablite`](https://google.com/search?q=Jablite) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-03-28 | [`AV Industries`](https://google.com/search?q=AV+Industries) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2023-03-28 | [`PCCARX2`](https://google.com/search?q=PCCARX2) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2023-03-28 | [`MICROFINANCE INSTITUTION`](https://google.com/search?q=MICROFINANCE+INSTITUTION) | [karakurt](https://ransomwatch.telemetry.ltd/#/profiles?id=karakurt) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2023-03-18 | [`NEWEUROPEANOFFSHORE.COM`](https://google.com/search?q=NEWEUROPEANOFFSHORE.COM) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-03-18 | [`MEDEXHCO.COM`](https://google.com/search?q=MEDEXHCO.COM) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-03-18 | [`INVESTQUEBEC.COM`](https://google.com/search?q=INVESTQUEBEC.COM) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-03-18 | [`RIOTINTO.COM`](https://google.com/search?q=RIOTINTO.COM) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-03-18 | [`ITXCOMPANIES.COM`](https://google.com/search?q=ITXCOMPANIES.COM) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-03-18 | [`HOMEWOODHEALTH.COM`](https://google.com/search?q=HOMEWOODHEALTH.COM) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
