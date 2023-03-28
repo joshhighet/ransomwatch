@@ -4,6 +4,11 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-03-28 | [`MICROFINANCE INSTITUTION`](https://google.com/search?q=MICROFINANCE+INSTITUTION) | [karakurt](https://ransomwatch.telemetry.ltd/#/profiles?id=karakurt) |
+| 2023-03-28 | [`Rimex`](https://google.com/search?q=Rimex) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2023-03-28 | [`Skyway Endodontics`](https://google.com/search?q=Skyway+Endodontics) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2023-03-28 | [`Victoria Park`](https://google.com/search?q=Victoria+Park) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2023-03-28 | [`C****** ********`](https://google.com/search?q=C%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-03-28 | [`grupcovesa.com`](https://google.com/search?q=grupcovesa.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-03-28 | [`swiftatlanta.com`](https://google.com/search?q=swiftatlanta.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-03-28 | [`piramal.com`](https://google.com/search?q=piramal.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -199,8 +204,3 @@ _last `200` posts_
 | 2023-03-18 | [`HOMEWOODHEALTH.COM`](https://google.com/search?q=HOMEWOODHEALTH.COM) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-03-18 | [`GUINNESSPARTNERSHIP.COM`](https://google.com/search?q=GUINNESSPARTNERSHIP.COM) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-03-18 | [`ALLIEDBENEFIT.COM`](https://google.com/search?q=ALLIEDBENEFIT.COM) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-03-18 | [`USWELLNESS.COM`](https://google.com/search?q=USWELLNESS.COM) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-03-18 | [`AXISBANK.COM`](https://google.com/search?q=AXISBANK.COM) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-03-18 | [`MEDMINDER.COM`](https://google.com/search?q=MEDMINDER.COM) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-03-18 | [`HOUSELOAN.COM`](https://google.com/search?q=HOUSELOAN.COM) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-03-18 | [`ALIVIAHEALTH.COM`](https://google.com/search?q=ALIVIAHEALTH.COM) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
