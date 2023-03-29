@@ -583,8 +583,9 @@ def stormous():
     stdlog('parser: ' + 'stormous')
     # grep '<p> <h3> <font color="' source/stormous-*.html | grep '</h3>' | cut -d '>' -f 4 | cut -d '<' -f 1 | sed -e 's/^ *//g' -e 's/[[:space:]]*$//'
     # grep '<h3>' source/stormous-*.html | sed -e 's/^ *//g' -e 's/[[:space:]]*$//' | grep "^<h3> <font" | cut -d '>' -f 3 | cut -d '<' -f 1 | sed 's/[[:space:]]*$//'
+    # awk '/<h3>/{getline; print}' source/stormous-*.html | sed -e 's/^ *//g' -e 's/[[:space:]]*$//'
     parser = '''
-    awk '/<h3>/{getline; print}' source/stormous-*.html | sed -e 's/^ *//g' -e 's/[[:space:]]*$//'
+    grep 'class="h1"' source/stormous-h3*.html | cut -d '>' -f 4 | cut -d '<' -f 1 | sort --uniq | sed -e '/^Percentage/d' -e '/^Payment/d' -e '/^Click here/d'
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:

@@ -2622,7 +2622,7 @@
         "captcha": false,
         "parser": true,
         "javascript_render": false,
-        "meta": null,
+        "meta": "also h3re...bdyd.onion/shop.html",
         "locations": [
             {
                 "fqdn": "3slz4povugieoi3tw7sblxoowxhbzxeju427cffsst5fo2tizepwatid.onion",
@@ -2633,6 +2633,16 @@
                 "updated": "2022-05-09 22:27:33.062746",
                 "lastscrape": "2022-05-09 22:27:33.062729",
                 "enabled": false
+            },
+            {
+                "fqdn": "h3reihqb2y7woqdary2g3bmk3apgtxuyhx4j2ftovbhe3l5svev7bdyd.onion",
+                "title": null,
+                "version": 3,
+                "slug": "http://h3reihqb2y7woqdary2g3bmk3apgtxuyhx4j2ftovbhe3l5svev7bdyd.onion/stm.html",
+                "available": false,
+                "updated": null,
+                "lastscrape": "2021-05-01 00:00:00.000000",
+                "enabled": true
             }
         ],
         "profile": [
