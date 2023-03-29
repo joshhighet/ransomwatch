@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-03-29 | [`Hit Promotional Products (US)`](https://google.com/search?q=Hit+Promotional+Products+%28US%29) | [daixin](https://ransomwatch.telemetry.ltd/#/profiles?id=daixin) |
 | 2023-03-29 | [`Temporary Leak Page #0013995NTa`](https://google.com/search?q=Temporary+Leak+Page+%230013995NTa) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
 | 2023-03-29 | [`hammondlumber.com`](https://google.com/search?q=hammondlumber.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-03-29 | [`Public Appeal to the CANTALK management`](https://google.com/search?q=Public+Appeal+to+the+CANTALK+management) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-03-18 | [`FABREGA MOLINO (fmm.com.pa)`](https://google.com/search?q=FABREGA+MOLINO+%28fmm.com.pa%29) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-03-18 | [`https://www.sutton-jacobs.com`](https://google.com/search?q=https%3A%2F%2Fwww.sutton-jacobs.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
 | 2023-03-18 | [`ONEX.COM`](https://google.com/search?q=ONEX.COM) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-03-18 | [`JAYMART.CO.TH`](https://google.com/search?q=JAYMART.CO.TH) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
