@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-03-29 | [`psenergy.com`](https://google.com/search?q=psenergy.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-03-29 | [`FINANCE INSTITUTION AUCTION`](https://google.com/search?q=FINANCE+INSTITUTION+AUCTION) | [karakurt](https://ransomwatch.telemetry.ltd/#/profiles?id=karakurt) |
 | 2023-03-29 | [`nts.go.kr`](https://google.com/search?q=nts.go.kr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-03-29 | [`F********** *********-************`](https://google.com/search?q=F%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A%2A%2A-%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-03-18 | [`SERVICESTREAM.COM.AU`](https://google.com/search?q=SERVICESTREAM.COM.AU) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-03-18 | [`WORLDMARKET.COM`](https://google.com/search?q=WORLDMARKET.COM) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-03-18 | [`WILDFIRE-DEFENSE.COM`](https://google.com/search?q=WILDFIRE-DEFENSE.COM) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-03-18 | [`SWEEPINGCORP.COM`](https://google.com/search?q=SWEEPINGCORP.COM) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
