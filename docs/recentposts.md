@@ -4,6 +4,11 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-03-29 | [`http://www.wymondhamcollege.org`](https://google.com/search?q=http%3A%2F%2Fwww.wymondhamcollege.org) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
+| 2023-03-29 | [`http://www.helmholtz.de`](https://google.com/search?q=http%3A%2F%2Fwww.helmholtz.de) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
+| 2023-03-29 | [`http://savannahtech.edu`](https://google.com/search?q=http%3A%2F%2Fsavannahtech.edu) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
+| 2023-03-29 | [`http://www.ultra-met.com`](https://google.com/search?q=http%3A%2F%2Fwww.ultra-met.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
+| 2023-03-29 | [`http://mersgooldwill.com`](https://google.com/search?q=http%3A%2F%2Fmersgooldwill.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
 | 2023-03-28 | [`BMW France`](https://google.com/search?q=BMW+France) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-03-28 | [`Oscar Software`](https://google.com/search?q=Oscar+Software) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-03-28 | [`Jablite`](https://google.com/search?q=Jablite) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -199,8 +204,3 @@ _last `200` posts_
 | 2023-03-18 | [`HELLOBRIGHTLINE.COM`](https://google.com/search?q=HELLOBRIGHTLINE.COM) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-03-18 | [`HITACHIENERGY.COM`](https://google.com/search?q=HITACHIENERGY.COM) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-03-18 | [`SAE.ORG`](https://google.com/search?q=SAE.ORG) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-03-18 | [`AVIDXCHANGE.COM`](https://google.com/search?q=AVIDXCHANGE.COM) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-03-18 | [`GALDERMA.COM`](https://google.com/search?q=GALDERMA.COM) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-03-18 | [`NEWEUROPEANOFFSHORE.COM`](https://google.com/search?q=NEWEUROPEANOFFSHORE.COM) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-03-18 | [`MEDEXHCO.COM`](https://google.com/search?q=MEDEXHCO.COM) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-03-18 | [`INVESTQUEBEC.COM`](https://google.com/search?q=INVESTQUEBEC.COM) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
