@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-03-29 | [`hammondlumber.com`](https://google.com/search?q=hammondlumber.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-03-29 | [`Public Appeal to the CANTALK management`](https://google.com/search?q=Public+Appeal+to+the+CANTALK+management) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
 | 2023-03-29 | [`psenergy.com`](https://google.com/search?q=psenergy.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-03-29 | [`FINANCE INSTITUTION AUCTION`](https://google.com/search?q=FINANCE+INSTITUTION+AUCTION) | [karakurt](https://ransomwatch.telemetry.ltd/#/profiles?id=karakurt) |
 | 2023-03-29 | [`nts.go.kr`](https://google.com/search?q=nts.go.kr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-03-18 | [`ONEX.COM`](https://google.com/search?q=ONEX.COM) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-03-18 | [`JAYMART.CO.TH`](https://google.com/search?q=JAYMART.CO.TH) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-03-18 | [`SERVICESTREAM.COM.AU`](https://google.com/search?q=SERVICESTREAM.COM.AU) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-03-18 | [`WORLDMARKET.COM`](https://google.com/search?q=WORLDMARKET.COM) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-03-18 | [`WILDFIRE-DEFENSE.COM`](https://google.com/search?q=WILDFIRE-DEFENSE.COM) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
