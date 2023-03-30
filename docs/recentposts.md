@@ -21,6 +21,7 @@ _last `200` posts_
 | 2023-03-30 | [`CESCE`](https://google.com/search?q=CESCE) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
 | 2023-03-30 | [`ARROWAL`](https://google.com/search?q=ARROWAL) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
 | 2023-03-30 | [`ALKF+`](https://google.com/search?q=ALKF%2B) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
+| 2023-03-30 | [`Hospital Clinic de Barcelona`](https://google.com/search?q=Hospital+Clinic+de+Barcelona) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2023-03-29 | [`HOW TO BUY DATA?`](https://google.com/search?q=HOW+TO+BUY+DATA%3F) | [ransomblog_noname](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomblog_noname) |
 | 2023-03-29 | [`Hit Promotional Products (US)`](https://google.com/search?q=Hit+Promotional+Products+%28US%29) | [daixin](https://ransomwatch.telemetry.ltd/#/profiles?id=daixin) |
 | 2023-03-29 | [`Temporary Leak Page #0013995NTa`](https://google.com/search?q=Temporary+Leak+Page+%230013995NTa) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-03-20 | [`SAKSFIFTHAVENUE.COM`](https://google.com/search?q=SAKSFIFTHAVENUE.COM) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-03-20 | [`telepizza.com`](https://google.com/search?q=telepizza.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-03-20 | [`Kelly Group`](https://google.com/search?q=Kelly+Group) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
-| 2023-03-20 | [`National Board of Osteopathic Medical Examiners`](https://google.com/search?q=National+Board+of+Osteopathic+Medical+Examiners) | [karakurt](https://ransomwatch.telemetry.ltd/#/profiles?id=karakurt) |
