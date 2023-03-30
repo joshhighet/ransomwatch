@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-03-30 | [`groupe-seche.com`](https://google.com/search?q=groupe-seche.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-03-30 | [`MULTIPLAN.COM`](https://google.com/search?q=MULTIPLAN.COM) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-03-30 | [`Hawaii self storage`](https://google.com/search?q=Hawaii+self+storage) | [moneymessage](https://ransomwatch.telemetry.ltd/#/profiles?id=moneymessage) |
 | 2023-03-30 | [`Biman airlines`](https://google.com/search?q=Biman+airlines) | [moneymessage](https://ransomwatch.telemetry.ltd/#/profiles?id=moneymessage) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-03-21 | [`bakermech.com`](https://google.com/search?q=bakermech.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-03-21 | [`Zeus Energy S.A.C`](https://google.com/search?q=Zeus+Energy+S.A.C) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-03-21 | [`Atlas Security`](https://google.com/search?q=Atlas+Security) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
-| 2023-03-21 | [`oaklandca.gov`](https://google.com/search?q=oaklandca.gov) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
