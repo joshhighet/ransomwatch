@@ -294,6 +294,7 @@ if args.mode == 'parse':
     parsers.vendetta()
     parsers.ransomblog_noname()
     parsers.abyss()
+    parsers.moneymessage()
     stdlog('ransomwatch: ' + 'parse run complete')
 
 if args.mode == 'list':

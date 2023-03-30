@@ -4133,5 +4133,25 @@
             }
         ],
         "profile": []
+    },
+    {
+        "name": "moneymessage",
+        "captcha": false,
+        "parser": true,
+        "javascript_render": false,
+        "meta": null,
+        "locations": [
+            {
+                "fqdn": "blogvl7tjyjvsfthobttze52w36wwiz34hrfcmorgvdzb6hikucb7aqd.onion",
+                "title": null,
+                "version": 3,
+                "slug": "http://blogvl7tjyjvsfthobttze52w36wwiz34hrfcmorgvdzb6hikucb7aqd.onion/news.php?contentId=1",
+                "available": true,
+                "updated": "2023-03-30 20:02:28.403520",
+                "lastscrape": "2023-03-30 20:02:28.403502",
+                "enabled": true
+            }
+        ],
+        "profile": []
     }
 ]

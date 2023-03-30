@@ -941,3 +941,14 @@ def abyss():
         errlog('abyss: ' + 'parsing fail')
     for post in posts:
         appender(post, 'abyss')
+
+def moneymessage():
+    stdlog('parser: ' + 'moneymessage')
+    parser = '''
+    cat source/moneymessage-*.html | jq '.name' -r || true
+    '''
+    posts = runshellcmd(parser)
+    if len(posts) == 1:
+        errlog('moneymessage: ' + 'parsing fail')
+    for post in posts:
+        appender(post, 'moneymessage')
