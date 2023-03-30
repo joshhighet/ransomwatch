@@ -21,6 +21,9 @@ _last `200` posts_
 | 2023-03-30 | [`CESCE`](https://google.com/search?q=CESCE) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
 | 2023-03-30 | [`ARROWAL`](https://google.com/search?q=ARROWAL) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
 | 2023-03-30 | [`ALKF+`](https://google.com/search?q=ALKF%2B) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
+| 2023-03-30 | [`7x7oralsurgery.com`](https://google.com/search?q=7x7oralsurgery.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
+| 2023-03-30 | [`tharworx.com`](https://google.com/search?q=tharworx.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-03-30 | [`WESSEX`](https://google.com/search?q=WESSEX) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-03-30 | [`Hospital Clinic de Barcelona`](https://google.com/search?q=Hospital+Clinic+de+Barcelona) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2023-03-29 | [`HOW TO BUY DATA?`](https://google.com/search?q=HOW+TO+BUY+DATA%3F) | [ransomblog_noname](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomblog_noname) |
 | 2023-03-29 | [`Hit Promotional Products (US)`](https://google.com/search?q=Hit+Promotional+Products+%28US%29) | [daixin](https://ransomwatch.telemetry.ltd/#/profiles?id=daixin) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2023-03-21 | [`alyasrafoods.com`](https://google.com/search?q=alyasrafoods.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-03-20 | [`Indonesia Power`](https://google.com/search?q=Indonesia+Power) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2023-03-20 | [`emotorsdirect.ca`](https://google.com/search?q=emotorsdirect.ca) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-03-20 | [`SAKSFIFTHAVENUE.COM`](https://google.com/search?q=SAKSFIFTHAVENUE.COM) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-03-20 | [`telepizza.com`](https://google.com/search?q=telepizza.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-03-20 | [`Kelly Group`](https://google.com/search?q=Kelly+Group) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
