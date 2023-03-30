@@ -4,6 +4,23 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-03-30 | [`turvatehnika`](https://google.com/search?q=turvatehnika) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
+| 2023-03-30 | [`la providence`](https://google.com/search?q=la+providence) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
+| 2023-03-30 | [`berjayaClubs`](https://google.com/search?q=berjayaClubs) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
+| 2023-03-30 | [`SOCOMEC`](https://google.com/search?q=SOCOMEC) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
+| 2023-03-30 | [`OKSGROUP`](https://google.com/search?q=OKSGROUP) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
+| 2023-03-30 | [`NOVELIS`](https://google.com/search?q=NOVELIS) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
+| 2023-03-30 | [`LINX`](https://google.com/search?q=LINX) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
+| 2023-03-30 | [`KONICA`](https://google.com/search?q=KONICA) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
+| 2023-03-30 | [`IRCO`](https://google.com/search?q=IRCO) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
+| 2023-03-30 | [`FURUNO`](https://google.com/search?q=FURUNO) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
+| 2023-03-30 | [`FICHTNER`](https://google.com/search?q=FICHTNER) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
+| 2023-03-30 | [`DGCX`](https://google.com/search?q=DGCX) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
+| 2023-03-30 | [`DAVINCI`](https://google.com/search?q=DAVINCI) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
+| 2023-03-30 | [`CONFIDO`](https://google.com/search?q=CONFIDO) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
+| 2023-03-30 | [`CESCE`](https://google.com/search?q=CESCE) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
+| 2023-03-30 | [`ARROWAL`](https://google.com/search?q=ARROWAL) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
+| 2023-03-30 | [`ALKF+`](https://google.com/search?q=ALKF%2B) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
 | 2023-03-29 | [`HOW TO BUY DATA?`](https://google.com/search?q=HOW+TO+BUY+DATA%3F) | [ransomblog_noname](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomblog_noname) |
 | 2023-03-29 | [`Hit Promotional Products (US)`](https://google.com/search?q=Hit+Promotional+Products+%28US%29) | [daixin](https://ransomwatch.telemetry.ltd/#/profiles?id=daixin) |
 | 2023-03-29 | [`Temporary Leak Page #0013995NTa`](https://google.com/search?q=Temporary+Leak+Page+%230013995NTa) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
@@ -187,20 +204,3 @@ _last `200` posts_
 | 2023-03-20 | [`telepizza.com`](https://google.com/search?q=telepizza.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-03-20 | [`Kelly Group`](https://google.com/search?q=Kelly+Group) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
 | 2023-03-20 | [`National Board of Osteopathic Medical Examiners`](https://google.com/search?q=National+Board+of+Osteopathic+Medical+Examiners) | [karakurt](https://ransomwatch.telemetry.ltd/#/profiles?id=karakurt) |
-| 2023-03-19 | [`MONDIAL`](https://google.com/search?q=MONDIAL) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2023-03-19 | [`jaureguy.com.ar`](https://google.com/search?q=jaureguy.com.ar) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-03-19 | [`Avila Real Estate`](https://google.com/search?q=Avila+Real+Estate) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2023-03-19 | [`Sunward Pharmaceutical (Sunward)`](https://google.com/search?q=Sunward+Pharmaceutical+%28Sunward%29) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-03-19 | [`stavinvest.cz`](https://google.com/search?q=stavinvest.cz) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-03-19 | [`id-logistics.com`](https://google.com/search?q=id-logistics.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-03-19 | [`hitzler-ingenieure.de`](https://google.com/search?q=hitzler-ingenieure.de) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-03-19 | [`bbsautomation.com`](https://google.com/search?q=bbsautomation.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-03-19 | [`American Institute for Healthcare Quality`](https://google.com/search?q=American+Institute+for+Healthcare+Quality) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
-| 2023-03-19 | [`Donut Leaks`](https://google.com/search?q=Donut+Leaks) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
-| 2023-03-19 | [`spoormaker.co.za`](https://google.com/search?q=spoormaker.co.za) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-03-19 | [`Nor-Cal Beverage`](https://google.com/search?q=Nor-Cal+Beverage) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2023-03-19 | [`ADMIN_2`](https://google.com/search?q=ADMIN_2) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2023-03-19 | [`National Institute of Ocean Technology`](https://google.com/search?q=National+Institute+of+Ocean+Technology) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
-| 2023-03-19 | [`Law Firm Vazquez Nava Consultores y Abogados, S.C`](https://google.com/search?q=Law+Firm+Vazquez+Nava+Consultores+y+Abogados%2C+S.C) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
-| 2023-03-18 | [`FABREGA MOLINO (fmm.com.pa)`](https://google.com/search?q=FABREGA+MOLINO+%28fmm.com.pa%29) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-03-18 | [`https://www.sutton-jacobs.com`](https://google.com/search?q=https%3A%2F%2Fwww.sutton-jacobs.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
