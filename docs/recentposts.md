@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-03-30 | [`Hawaii self storage`](https://google.com/search?q=Hawaii+self+storage) | [moneymessage](https://ransomwatch.telemetry.ltd/#/profiles?id=moneymessage) |
+| 2023-03-30 | [`Biman airlines`](https://google.com/search?q=Biman+airlines) | [moneymessage](https://ransomwatch.telemetry.ltd/#/profiles?id=moneymessage) |
 | 2023-03-30 | [`turvatehnika`](https://google.com/search?q=turvatehnika) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
 | 2023-03-30 | [`la providence`](https://google.com/search?q=la+providence) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
 | 2023-03-30 | [`berjayaClubs`](https://google.com/search?q=berjayaClubs) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-03-21 | [`oaklandca.gov`](https://google.com/search?q=oaklandca.gov) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-03-21 | [`co.ottawa.oh.us`](https://google.com/search?q=co.ottawa.oh.us) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-03-21 | [`alyasrafoods.com`](https://google.com/search?q=alyasrafoods.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-03-20 | [`Indonesia Power`](https://google.com/search?q=Indonesia+Power) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
-| 2023-03-20 | [`emotorsdirect.ca`](https://google.com/search?q=emotorsdirect.ca) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
