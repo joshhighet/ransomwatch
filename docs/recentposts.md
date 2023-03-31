@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-03-31 | [`http://armstrongwatson.co.uk`](https://google.com/search?q=http%3A%2F%2Farmstrongwatson.co.uk) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
+| 2023-03-31 | [`1.com`](https://google.com/search?q=1.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-03-31 | [`Lewis &amp; Clark College`](https://google.com/search?q=Lewis+%26amp%3B+Clark+College) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2023-03-31 | [`hacla.org [part 2]`](https://google.com/search?q=hacla.org+%5Bpart+2%5D) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-03-31 | [`matrixtelecoms`](https://google.com/search?q=matrixtelecoms) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-03-21 | [`transports-douaud.com`](https://google.com/search?q=transports-douaud.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-03-21 | [`the3rivers.net`](https://google.com/search?q=the3rivers.net) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-03-21 | [`stolt-nielsen.com`](https://google.com/search?q=stolt-nielsen.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-03-21 | [`roslevauto.dk`](https://google.com/search?q=roslevauto.dk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-03-21 | [`ksrsac.karnataka.gov.in`](https://google.com/search?q=ksrsac.karnataka.gov.in) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
