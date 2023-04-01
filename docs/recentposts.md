@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-04-01 | [`TRUSSWAY`](https://google.com/search?q=TRUSSWAY) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-04-01 | [`http://www.vendinggroup.com`](https://google.com/search?q=http%3A%2F%2Fwww.vendinggroup.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
 | 2023-04-01 | [`http://www.benningnet.com`](https://google.com/search?q=http%3A%2F%2Fwww.benningnet.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
 | 2023-04-01 | [`ativy.com`](https://google.com/search?q=ativy.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-03-22 | [`Design CATAPULT`](https://google.com/search?q=Design+CATAPULT) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2023-03-22 | [`Kress`](https://google.com/search?q=Kress) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-03-21 | [`cabinet-paillet.fr`](https://google.com/search?q=cabinet-paillet.fr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-03-21 | [`http://www.motoman.com`](https://google.com/search?q=http%3A%2F%2Fwww.motoman.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
