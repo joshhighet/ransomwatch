@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-04-02 | [`Arandell Corp`](https://google.com/search?q=Arandell+Corp) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-04-01 | [`Lpa-group.com`](https://google.com/search?q=Lpa-group.com) | [moneymessage](https://ransomwatch.telemetry.ltd/#/profiles?id=moneymessage) |
 | 2023-04-01 | [`Ruekert & Mielke`](https://google.com/search?q=Ruekert+%26+Mielke) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-04-01 | [`p-and-r.com`](https://google.com/search?q=p-and-r.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-03-22 | [`US District Court`](https://google.com/search?q=US+District+Court) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2023-03-22 | [`Troutman Pepper`](https://google.com/search?q=Troutman+Pepper) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2023-03-22 | [`Advance America`](https://google.com/search?q=Advance+America) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2023-03-22 | [`DAYSUP`](https://google.com/search?q=DAYSUP) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
