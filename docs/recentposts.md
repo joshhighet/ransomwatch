@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-04-02 | [`Mutual de Seguros de Chile`](https://google.com/search?q=Mutual+de+Seguros+de+Chile) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-04-02 | [`Goldenbear.com & mjhallandcompany.com`](https://google.com/search?q=Goldenbear.com+%26+mjhallandcompany.com) | [moneymessage](https://ransomwatch.telemetry.ltd/#/profiles?id=moneymessage) |
 | 2023-04-02 | [`Gaston College`](https://google.com/search?q=Gaston+College) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
 | 2023-04-02 | [`LASOTEL.FR`](https://google.com/search?q=LASOTEL.FR) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-03-22 | [`PG.COM`](https://google.com/search?q=PG.COM) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-03-22 | [`CROSSVILLEINC.COM`](https://google.com/search?q=CROSSVILLEINC.COM) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-03-22 | [`LESLIESPOOL.COM`](https://google.com/search?q=LESLIESPOOL.COM) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-03-22 | [`Rock Insurance Brokers`](https://google.com/search?q=Rock+Insurance+Brokers) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
