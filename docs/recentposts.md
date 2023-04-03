@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-04-03 | [`vernegroup.com`](https://google.com/search?q=vernegroup.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-04-03 | [`thened.com`](https://google.com/search?q=thened.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-04-03 | [`errebielle.it`](https://google.com/search?q=errebielle.it) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-04-03 | [`TWHOUSE`](https://google.com/search?q=TWHOUSE) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
 | 2023-04-03 | [`TREENOVUM`](https://google.com/search?q=TREENOVUM) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-03-23 | [`HORMELFOODS.COM`](https://google.com/search?q=HORMELFOODS.COM) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-03-23 | [`THECROSBYGROUP.COM`](https://google.com/search?q=THECROSBYGROUP.COM) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-03-23 | [`MUNICHRE.COM`](https://google.com/search?q=MUNICHRE.COM) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-03-23 | [`GRUPOVANTI.COM`](https://google.com/search?q=GRUPOVANTI.COM) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-03-23 | [`VOLARIS.COM`](https://google.com/search?q=VOLARIS.COM) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
