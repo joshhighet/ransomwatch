@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-04-03 | [`GOCORPTECH`](https://google.com/search?q=GOCORPTECH) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2023-04-03 | [`PFGUSA_2`](https://google.com/search?q=PFGUSA_2) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2023-04-03 | [`SHIVELYBROS_2`](https://google.com/search?q=SHIVELYBROS_2) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2023-04-03 | [`http://corizonhealth.com`](https://google.com/search?q=http%3A%2F%2Fcorizonhealth.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
 | 2023-04-03 | [`http://sunstar.com`](https://google.com/search?q=http%3A%2F%2Fsunstar.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
 | 2023-04-03 | [`http://5design.net`](https://google.com/search?q=http%3A%2F%2F5design.net) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2023-03-23 | [`GDI.COM`](https://google.com/search?q=GDI.COM) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-03-23 | [`ZOSKINHEALTH.COM`](https://google.com/search?q=ZOSKINHEALTH.COM) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-03-23 | [`HRTRANSIT.ORG`](https://google.com/search?q=HRTRANSIT.ORG) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-03-23 | [`PLURALSIGHT.COM`](https://google.com/search?q=PLURALSIGHT.COM) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-03-23 | [`PPF.CO.UK`](https://google.com/search?q=PPF.CO.UK) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-03-23 | [`ppf.co.uk`](https://google.com/search?q=ppf.co.uk) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
