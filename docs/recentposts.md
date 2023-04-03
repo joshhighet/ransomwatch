@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-04-03 | [`Sonda`](https://google.com/search?q=Sonda) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
+| 2023-04-03 | [`revvaviation.com`](https://google.com/search?q=revvaviation.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-04-03 | [`GOCORPTECH`](https://google.com/search?q=GOCORPTECH) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2023-04-03 | [`PFGUSA_2`](https://google.com/search?q=PFGUSA_2) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2023-04-03 | [`SHIVELYBROS_2`](https://google.com/search?q=SHIVELYBROS_2) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-03-23 | [`CINEPLEX.COM`](https://google.com/search?q=CINEPLEX.COM) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-03-23 | [`AMERIJET.COM`](https://google.com/search?q=AMERIJET.COM) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-03-23 | [`GDI.COM`](https://google.com/search?q=GDI.COM) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-03-23 | [`ZOSKINHEALTH.COM`](https://google.com/search?q=ZOSKINHEALTH.COM) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-03-23 | [`HRTRANSIT.ORG`](https://google.com/search?q=HRTRANSIT.ORG) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
