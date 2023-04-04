@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-04-04 | [`garrottbros.com`](https://google.com/search?q=garrottbros.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-04-04 | [`DUKANEDOM`](https://google.com/search?q=DUKANEDOM) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2023-04-04 | [`HUSKY1`](https://google.com/search?q=HUSKY1) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2023-04-03 | [`Guess who!`](https://google.com/search?q=Guess+who%21) | [moneymessage](https://ransomwatch.telemetry.ltd/#/profiles?id=moneymessage) |
 | 2023-04-03 | [`vernegroup.com`](https://google.com/search?q=vernegroup.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-04-03 | [`thened.com`](https://google.com/search?q=thened.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2023-03-23 | [`VERRAMOBILITY.COM`](https://google.com/search?q=VERRAMOBILITY.COM) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-03-23 | [`BUNZL.COM`](https://google.com/search?q=BUNZL.COM) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-03-23 | [`FIRST-CENTRAL.COM`](https://google.com/search?q=FIRST-CENTRAL.COM) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-03-23 | [`ALIVIAHELTH.COM`](https://google.com/search?q=ALIVIAHELTH.COM) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-03-23 | [`HORMELFOODS.COM`](https://google.com/search?q=HORMELFOODS.COM) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-03-23 | [`THECROSBYGROUP.COM`](https://google.com/search?q=THECROSBYGROUP.COM) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
