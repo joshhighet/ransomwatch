@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-04-04 | [`omscomponents.it`](https://google.com/search?q=omscomponents.it) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-04-04 | [`Dalumi Group`](https://google.com/search?q=Dalumi+Group) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-04-04 | [`Electronic SYSTEMS S.p.A.`](https://google.com/search?q=Electronic+SYSTEMS+S.p.A.) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-04-04 | [`garrottbros.com`](https://google.com/search?q=garrottbros.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-03-23 | [`ORCAAUDIT.COM`](https://google.com/search?q=ORCAAUDIT.COM) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-03-23 | [`CHEMILAB.COM.CO`](https://google.com/search?q=CHEMILAB.COM.CO) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-03-23 | [`PAYBOXAPP.COM`](https://google.com/search?q=PAYBOXAPP.COM) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-03-23 | [`VERRAMOBILITY.COM`](https://google.com/search?q=VERRAMOBILITY.COM) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
