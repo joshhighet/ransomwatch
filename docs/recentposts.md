@@ -4,6 +4,14 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-04-05 | [`turncommerce.com`](https://google.com/search?q=turncommerce.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-04-05 | [`tf-amd.com.my`](https://google.com/search?q=tf-amd.com.my) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-04-05 | [`tf-amd.com`](https://google.com/search?q=tf-amd.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-04-05 | [`Tarolli, Sundheim, Covell & Tummino LLP`](https://google.com/search?q=Tarolli%2C+Sundheim%2C+Covell+%26+Tummino+LLP) | [lorenz](https://ransomwatch.telemetry.ltd/#/profiles?id=lorenz) |
+| 2023-04-05 | [`Joy Cone Co, Joy Baking group, BoDeans Baking, Altesa`](https://google.com/search?q=Joy+Cone+Co%2C+Joy+Baking+group%2C+BoDeans+Baking%2C+Altesa) | [lorenz](https://ransomwatch.telemetry.ltd/#/profiles?id=lorenz) |
+| 2023-04-05 | [`NGS Super`](https://google.com/search?q=NGS+Super) | [lorenz](https://ransomwatch.telemetry.ltd/#/profiles?id=lorenz) |
+| 2023-04-05 | [`Intrasect Technologies`](https://google.com/search?q=Intrasect+Technologies) | [lorenz](https://ransomwatch.telemetry.ltd/#/profiles?id=lorenz) |
+| 2023-04-05 | [`Moore Engineering`](https://google.com/search?q=Moore+Engineering) | [lorenz](https://ransomwatch.telemetry.ltd/#/profiles?id=lorenz) |
 | 2023-04-05 | [`The Sage Next`](https://google.com/search?q=The+Sage+Next) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-04-05 | [`olympia.org`](https://google.com/search?q=olympia.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-04-04 | [`tvh.com`](https://google.com/search?q=tvh.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -196,11 +204,3 @@ _last `200` posts_
 | 2023-03-23 | [`PHOENIX.TECH`](https://google.com/search?q=PHOENIX.TECH) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-03-23 | [`SODALESSOLUTIONS.COM`](https://google.com/search?q=SODALESSOLUTIONS.COM) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-03-23 | [`NATIONSBENEFITS.COM`](https://google.com/search?q=NATIONSBENEFITS.COM) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-03-23 | [`SHOLASTIC.COM`](https://google.com/search?q=SHOLASTIC.COM) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-03-23 | [`VUMACAM.CO.ZA`](https://google.com/search?q=VUMACAM.CO.ZA) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-03-23 | [`CLOUDMED.COM`](https://google.com/search?q=CLOUDMED.COM) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-03-23 | [`DPWORLD.COM`](https://google.com/search?q=DPWORLD.COM) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-03-23 | [`SOLPAC.CO.JP`](https://google.com/search?q=SOLPAC.CO.JP) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-03-23 | [`VIRGIN.COM`](https://google.com/search?q=VIRGIN.COM) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-03-23 | [`LEGACY-TECHNOLOGIES.DE`](https://google.com/search?q=LEGACY-TECHNOLOGIES.DE) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-03-23 | [`OSHCO.COM`](https://google.com/search?q=OSHCO.COM) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
