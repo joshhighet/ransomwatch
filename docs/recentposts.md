@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-04-05 | [`olympia.org`](https://google.com/search?q=olympia.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-04-04 | [`tvh.com`](https://google.com/search?q=tvh.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-04-04 | [`masrl.com`](https://google.com/search?q=masrl.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-04-04 | [`omscomponents.it`](https://google.com/search?q=omscomponents.it) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-03-23 | [`LEGACY-TECHNOLOGIES.DE`](https://google.com/search?q=LEGACY-TECHNOLOGIES.DE) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-03-23 | [`OSHCO.COM`](https://google.com/search?q=OSHCO.COM) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-03-23 | [`GRAY.TV`](https://google.com/search?q=GRAY.TV) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-03-23 | [`ORCAAUDIT.COM`](https://google.com/search?q=ORCAAUDIT.COM) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
