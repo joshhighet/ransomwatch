@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-04-06 | [`HIGHLANDHOMES`](https://google.com/search?q=HIGHLANDHOMES) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-04-06 | [`Open University of Cyprus`](https://google.com/search?q=Open+University+of+Cyprus) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-04-06 | [`quilts,inc`](https://google.com/search?q=quilts%2Cinc) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-04-05 | [`nautic.com`](https://google.com/search?q=nautic.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-03-24 | [`PROGRESSION.COM`](https://google.com/search?q=PROGRESSION.COM) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-03-24 | [`UNIMELB.EDU.AU`](https://google.com/search?q=UNIMELB.EDU.AU) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-03-24 | [`CROWNRESORT.COM.AU`](https://google.com/search?q=CROWNRESORT.COM.AU) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-03-24 | [`BRIDGEWAY.COM.PH`](https://google.com/search?q=BRIDGEWAY.COM.PH) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
