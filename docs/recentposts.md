@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-04-06 | [`quilts,inc`](https://google.com/search?q=quilts%2Cinc) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-04-05 | [`nautic.com`](https://google.com/search?q=nautic.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-04-05 | [`Micro Star International`](https://google.com/search?q=Micro+Star+International) | [moneymessage](https://ransomwatch.telemetry.ltd/#/profiles?id=moneymessage) |
 | 2023-04-05 | [`PALM HILLS DEVELOPMENT`](https://google.com/search?q=PALM+HILLS+DEVELOPMENT) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-03-24 | [`CROWNRESORT.COM.AU`](https://google.com/search?q=CROWNRESORT.COM.AU) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-03-24 | [`BRIDGEWAY.COM.PH`](https://google.com/search?q=BRIDGEWAY.COM.PH) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-03-24 | [`TLG.COM`](https://google.com/search?q=TLG.COM) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-03-23 | [`Comune Taggia`](https://google.com/search?q=Comune+Taggia) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
