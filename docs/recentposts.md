@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-04-07 | [`123.com`](https://google.com/search?q=123.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-04-07 | [`baughmanco.com`](https://google.com/search?q=baughmanco.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-04-07 | [`HEICO`](https://google.com/search?q=HEICO) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2023-04-07 | [`b&h pattern.inc`](https://google.com/search?q=b%26h+pattern.inc) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-03-24 | [`Sun Pharmaceutical Industries Ltd.`](https://google.com/search?q=Sun+Pharmaceutical+Industries+Ltd.) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-03-24 | [`bianchiindustry.com`](https://google.com/search?q=bianchiindustry.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-03-24 | [`THECYPRINUS.COM`](https://google.com/search?q=THECYPRINUS.COM) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-03-24 | [`SPI.CO.ZA`](https://google.com/search?q=SPI.CO.ZA) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
