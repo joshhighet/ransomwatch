@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-04-07 | [`Atlantic International University`](https://google.com/search?q=Atlantic+International+University) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-04-07 | [`http://www.beghelliusa.com`](https://google.com/search?q=http%3A%2F%2Fwww.beghelliusa.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
 | 2023-04-07 | [`http://www.kretek.com`](https://google.com/search?q=http%3A%2F%2Fwww.kretek.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
 | 2023-04-06 | [`Americana Restaurants`](https://google.com/search?q=Americana+Restaurants) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-03-24 | [`GRUPOFLORAPLANT.COM`](https://google.com/search?q=GRUPOFLORAPLANT.COM) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-03-24 | [`ALTO.US`](https://google.com/search?q=ALTO.US) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-03-24 | [`Gujarat Mineral`](https://google.com/search?q=Gujarat+Mineral) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
-| 2023-03-24 | [`GOA.GOV.IN`](https://google.com/search?q=GOA.GOV.IN) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
