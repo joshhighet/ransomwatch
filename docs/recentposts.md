@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-04-07 | [`sxi.com.ph`](https://google.com/search?q=sxi.com.ph) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-04-07 | [`coremain`](https://google.com/search?q=coremain) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
+| 2023-04-07 | [`SIVSA`](https://google.com/search?q=SIVSA) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-04-07 | [`123.com`](https://google.com/search?q=123.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-04-07 | [`baughmanco.com`](https://google.com/search?q=baughmanco.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-04-07 | [`HEICO`](https://google.com/search?q=HEICO) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2023-03-24 | [`IMAGINE360.COM`](https://google.com/search?q=IMAGINE360.COM) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-03-24 | [`securens.in`](https://google.com/search?q=securens.in) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-03-24 | [`Teklas`](https://google.com/search?q=Teklas) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-03-24 | [`Sun Pharmaceutical Industries Ltd.`](https://google.com/search?q=Sun+Pharmaceutical+Industries+Ltd.) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-03-24 | [`bianchiindustry.com`](https://google.com/search?q=bianchiindustry.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-03-24 | [`THECYPRINUS.COM`](https://google.com/search?q=THECYPRINUS.COM) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
