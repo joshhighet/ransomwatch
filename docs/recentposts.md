@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-04-08 | [`baysideinteriors.com`](https://google.com/search?q=baysideinteriors.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-04-08 | [`DCI-ENGINEERS_2`](https://google.com/search?q=DCI-ENGINEERS_2) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2023-04-08 | [`The Zalkin Law Firm P.C.`](https://google.com/search?q=The+Zalkin+Law+Firm+P.C.) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-04-08 | [`Pharmerica.com & BrightSpring Health Services`](https://google.com/search?q=Pharmerica.com+%26+BrightSpring+Health+Services) | [moneymessage](https://ransomwatch.telemetry.ltd/#/profiles?id=moneymessage) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-03-24 | [`lclattorneys.com`](https://google.com/search?q=lclattorneys.com) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-03-24 | [`wbactc`](https://google.com/search?q=wbactc) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-03-24 | [`Sun Global Media Usa Ltd`](https://google.com/search?q=Sun+Global+Media+Usa+Ltd) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-03-24 | [`"CCAA"`](https://google.com/search?q=%22CCAA%22) | [mallox](https://ransomwatch.telemetry.ltd/#/profiles?id=mallox) |
