@@ -4,6 +4,11 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-04-09 | [`Palo Alto County Sheriff`](https://google.com/search?q=Palo+Alto+County+Sheriff) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-04-09 | [`PKF Antares`](https://google.com/search?q=PKF+Antares) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-04-09 | [`Legion Aero`](https://google.com/search?q=Legion+Aero) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-04-09 | [`Vleeswarenfabriek Jac Michiels`](https://google.com/search?q=Vleeswarenfabriek+Jac+Michiels) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-04-09 | [`Schirm`](https://google.com/search?q=Schirm) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-04-08 | [`baysideinteriors.com`](https://google.com/search?q=baysideinteriors.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-04-08 | [`DCI-ENGINEERS_2`](https://google.com/search?q=DCI-ENGINEERS_2) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2023-04-08 | [`The Zalkin Law Firm P.C.`](https://google.com/search?q=The+Zalkin+Law+Firm+P.C.) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -199,8 +204,3 @@ _last `200` posts_
 | 2023-03-24 | [`ENERJISAURETIM.COM`](https://google.com/search?q=ENERJISAURETIM.COM) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-03-24 | [`INTELLICARE.COM.PH`](https://google.com/search?q=INTELLICARE.COM.PH) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-03-24 | [`CRESCENTHOTELS.COM`](https://google.com/search?q=CRESCENTHOTELS.COM) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-03-24 | [`COLMAC.COM`](https://google.com/search?q=COLMAC.COM) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-03-24 | [`INVESTORCOM.COM`](https://google.com/search?q=INVESTORCOM.COM) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-03-24 | [`lclattorneys.com`](https://google.com/search?q=lclattorneys.com) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-03-24 | [`wbactc`](https://google.com/search?q=wbactc) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-03-24 | [`Sun Global Media Usa Ltd`](https://google.com/search?q=Sun+Global+Media+Usa+Ltd) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
