@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-04-09 | [`Crown Grinding & Machining`](https://google.com/search?q=Crown+Grinding+%26+Machining) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
+| 2023-04-09 | [`Cementos Bio-Bio`](https://google.com/search?q=Cementos+Bio-Bio) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
+| 2023-04-09 | [`City of Collegedale`](https://google.com/search?q=City+of+Collegedale) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
 | 2023-04-09 | [`Palo Alto County Sheriff`](https://google.com/search?q=Palo+Alto+County+Sheriff) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-04-09 | [`PKF Antares`](https://google.com/search?q=PKF+Antares) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-04-09 | [`Legion Aero`](https://google.com/search?q=Legion+Aero) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2023-03-24 | [`EMERALDX.COM`](https://google.com/search?q=EMERALDX.COM) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-03-24 | [`CAJASANRAFAEL.COM.MX`](https://google.com/search?q=CAJASANRAFAEL.COM.MX) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-03-24 | [`TAS.GOV.AU`](https://google.com/search?q=TAS.GOV.AU) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-03-24 | [`ENERJISAURETIM.COM`](https://google.com/search?q=ENERJISAURETIM.COM) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-03-24 | [`INTELLICARE.COM.PH`](https://google.com/search?q=INTELLICARE.COM.PH) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-03-24 | [`CRESCENTHOTELS.COM`](https://google.com/search?q=CRESCENTHOTELS.COM) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
