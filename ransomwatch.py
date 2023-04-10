@@ -295,6 +295,7 @@ if args.mode == 'parse':
     parsers.ransomblog_noname()
     parsers.abyss()
     parsers.moneymessage()
+    parsers.dunghill_leak()
     stdlog('ransomwatch: ' + 'parse run complete')
 
 if args.mode == 'list':

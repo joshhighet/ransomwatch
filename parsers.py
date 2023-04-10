@@ -952,3 +952,14 @@ def moneymessage():
         errlog('moneymessage: ' + 'parsing fail')
     for post in posts:
         appender(post, 'moneymessage')
+
+def dunghill_leak():
+    stdlog('parser: ' + 'dunghill_leak')
+    parser = '''
+    grep '<div class="block-heading pt-4 mt-5">' source/dunghill_leak-*.html -A 1 | grep -v '<div class="block-heading pt-4 mt-5">' | sed -e 's/^ *//g' -e 's/[[:space:]]*$//'
+    '''
+    posts = runshellcmd(parser)
+    if len(posts) == 1:
+        errlog('dunghill_leak: ' + 'parsing fail')
+    for post in posts:
+        appender(post, 'dunghill_leak')
