@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-04-10 | [`http://www.tomduffy.com`](https://google.com/search?q=http%3A%2F%2Fwww.tomduffy.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
+| 2023-04-10 | [`http://www.alvaria.com`](https://google.com/search?q=http%3A%2F%2Fwww.alvaria.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
+| 2023-04-10 | [`http://www.bigassfans.com`](https://google.com/search?q=http%3A%2F%2Fwww.bigassfans.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
 | 2023-04-10 | [`mundocuervo.com`](https://google.com/search?q=mundocuervo.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-04-10 | [`aek.mk`](https://google.com/search?q=aek.mk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-04-10 | [`Scantibodies Laboratory, Inc.`](https://google.com/search?q=Scantibodies+Laboratory%2C+Inc.) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2023-03-25 | [`hosemanufacturing.com`](https://google.com/search?q=hosemanufacturing.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
 | 2023-03-25 | [`igadiltd.com`](https://google.com/search?q=igadiltd.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
 | 2023-03-25 | [`jones-hamilton.com`](https://google.com/search?q=jones-hamilton.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
-| 2023-03-25 | [`stonehillcontracting.com`](https://google.com/search?q=stonehillcontracting.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
-| 2023-03-25 | [`siebold.com`](https://google.com/search?q=siebold.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
-| 2023-03-24 | [`Cospec Srl`](https://google.com/search?q=Cospec+Srl) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
