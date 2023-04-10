@@ -4,6 +4,10 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-04-10 | [`bsw-architects.com`](https://google.com/search?q=bsw-architects.com) | [ransomblog_noname](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomblog_noname) |
+| 2023-04-10 | [`http://www.stanleyelectricus.com`](https://google.com/search?q=http%3A%2F%2Fwww.stanleyelectricus.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
+| 2023-04-10 | [`Co. and Nobiskrug Yachts GmbH`](https://google.com/search?q=Co.+and+Nobiskrug+Yachts+GmbH) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2023-04-10 | [`Harvard Energy`](https://google.com/search?q=Harvard+Energy) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-04-10 | [`http://www.naturespath.com`](https://google.com/search?q=http%3A%2F%2Fwww.naturespath.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
 | 2023-04-10 | [`gregoire.fr`](https://google.com/search?q=gregoire.fr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-04-10 | [`fiamma.com.my`](https://google.com/search?q=fiamma.com.my) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -200,7 +204,3 @@ _last `200` posts_
 | 2023-03-26 | [`Guyana Goldfields`](https://google.com/search?q=Guyana+Goldfields) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-03-26 | [`Picou Builders Supply`](https://google.com/search?q=Picou+Builders+Supply) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-03-26 | [`Kk Mehta Cpa Associates`](https://google.com/search?q=Kk+Mehta+Cpa+Associates) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-03-26 | [`Pizza 73`](https://google.com/search?q=Pizza+73) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-03-26 | [`Rob Levine & Associates Lawyers`](https://google.com/search?q=Rob+Levine+%26+Associates+Lawyers) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-03-25 | [`jubileeinsurance.com`](https://google.com/search?q=jubileeinsurance.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-03-25 | [`giga.com.vc`](https://google.com/search?q=giga.com.vc) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
