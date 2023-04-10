@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-04-10 | [`mundocuervo.com`](https://google.com/search?q=mundocuervo.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-04-10 | [`aek.mk`](https://google.com/search?q=aek.mk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-04-10 | [`Scantibodies Laboratory, Inc.`](https://google.com/search?q=Scantibodies+Laboratory%2C+Inc.) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-04-09 | [`Creation Baumann`](https://google.com/search?q=Creation+Baumann) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
 | 2023-04-09 | [`Crown Grinding & Machining`](https://google.com/search?q=Crown+Grinding+%26+Machining) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-03-25 | [`stonehillcontracting.com`](https://google.com/search?q=stonehillcontracting.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
 | 2023-03-25 | [`siebold.com`](https://google.com/search?q=siebold.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
 | 2023-03-24 | [`Cospec Srl`](https://google.com/search?q=Cospec+Srl) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
-| 2023-03-24 | [`BISSELL.COM`](https://google.com/search?q=BISSELL.COM) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-03-24 | [`EMERALDX.COM`](https://google.com/search?q=EMERALDX.COM) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
