@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-04-10 | [`Scantibodies Laboratory, Inc.`](https://google.com/search?q=Scantibodies+Laboratory%2C+Inc.) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-04-09 | [`Creation Baumann`](https://google.com/search?q=Creation+Baumann) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
 | 2023-04-09 | [`Crown Grinding & Machining`](https://google.com/search?q=Crown+Grinding+%26+Machining) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
 | 2023-04-09 | [`Cementos Bio-Bio`](https://google.com/search?q=Cementos+Bio-Bio) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-03-24 | [`Cospec Srl`](https://google.com/search?q=Cospec+Srl) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2023-03-24 | [`BISSELL.COM`](https://google.com/search?q=BISSELL.COM) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-03-24 | [`EMERALDX.COM`](https://google.com/search?q=EMERALDX.COM) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-03-24 | [`CAJASANRAFAEL.COM.MX`](https://google.com/search?q=CAJASANRAFAEL.COM.MX) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
