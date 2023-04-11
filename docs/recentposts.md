@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-04-11 | [`PESA Bydgoszcz`](https://google.com/search?q=PESA+Bydgoszcz) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-04-11 | [`servex-us.com`](https://google.com/search?q=servex-us.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-04-11 | [`robovic.com`](https://google.com/search?q=robovic.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-04-11 | [`medmark.eg`](https://google.com/search?q=medmark.eg) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-03-27 | [`tecnosysitalia.eu`](https://google.com/search?q=tecnosysitalia.eu) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-03-27 | [`All4Labels`](https://google.com/search?q=All4Labels) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-03-27 | [`Tanbridge House School`](https://google.com/search?q=Tanbridge+House+School) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
-| 2023-03-27 | [`lqtbg.com.cn`](https://google.com/search?q=lqtbg.com.cn) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
