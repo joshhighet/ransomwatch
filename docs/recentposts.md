@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-04-11 | [`arcc.org`](https://google.com/search?q=arcc.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-04-11 | [`Smith Industries`](https://google.com/search?q=Smith+Industries) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-04-10 | [`Incredible Technologies`](https://google.com/search?q=Incredible+Technologies) | [dunghill_leak](https://ransomwatch.telemetry.ltd/#/profiles?id=dunghill_leak) |
 | 2023-04-10 | [`bsw-architects.com`](https://google.com/search?q=bsw-architects.com) | [ransomblog_noname](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomblog_noname) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-03-26 | [`James, McElroy and Diehl`](https://google.com/search?q=James%2C+McElroy+and+Diehl) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-03-26 | [`Lysander Associates`](https://google.com/search?q=Lysander+Associates) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-03-26 | [`TAC`](https://google.com/search?q=TAC) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-03-26 | [`Guyana Goldfields`](https://google.com/search?q=Guyana+Goldfields) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
