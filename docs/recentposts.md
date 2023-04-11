@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-04-11 | [`*************`](https://google.com/search?q=%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2023-04-11 | [`Flensburger Schiffbau Gesellschaft mbH and Co. and Nobiskrug Yachts GmbH`](https://google.com/search?q=Flensburger+Schiffbau+Gesellschaft+mbH+and+Co.+and+Nobiskrug+Yachts+GmbH) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2023-04-11 | [`manfil.com.br`](https://google.com/search?q=manfil.com.br) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-04-11 | [`valleywomenshealth`](https://google.com/search?q=valleywomenshealth) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-04-11 | [`arcc.org`](https://google.com/search?q=arcc.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-04-11 | [`Smith Industries`](https://google.com/search?q=Smith+Industries) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2023-03-27 | [`ita-moulding-process.com`](https://google.com/search?q=ita-moulding-process.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-03-27 | [`mcna.net`](https://google.com/search?q=mcna.net) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-03-26 | [`Lightcast`](https://google.com/search?q=Lightcast) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-03-26 | [`Optica`](https://google.com/search?q=Optica) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-03-26 | [`James, McElroy and Diehl`](https://google.com/search?q=James%2C+McElroy+and+Diehl) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-03-26 | [`Lysander Associates`](https://google.com/search?q=Lysander+Associates) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
