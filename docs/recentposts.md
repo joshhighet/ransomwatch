@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-04-12 | [`Petaluma Health Center`](https://google.com/search?q=Petaluma+Health+Center) | [karakurt](https://ransomwatch.telemetry.ltd/#/profiles?id=karakurt) |
+| 2023-04-12 | [`http://einhaus-gruppe.de`](https://google.com/search?q=http%3A%2F%2Feinhaus-gruppe.de) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
 | 2023-04-12 | [`Medicalodges, Inc`](https://google.com/search?q=Medicalodges%2C+Inc) | [karakurt](https://ransomwatch.telemetry.ltd/#/profiles?id=karakurt) |
 | 2023-04-12 | [`DAVIDSBROWN_2`](https://google.com/search?q=DAVIDSBROWN_2) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2023-04-11 | [`PESA Bydgoszcz`](https://google.com/search?q=PESA+Bydgoszcz) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-03-28 | [`grupcovesa.com`](https://google.com/search?q=grupcovesa.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-03-28 | [`swiftatlanta.com`](https://google.com/search?q=swiftatlanta.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-03-28 | [`piramal.com`](https://google.com/search?q=piramal.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-03-28 | [`City of Modesto, CA`](https://google.com/search?q=City+of+Modesto%2C+CA) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
-| 2023-03-27 | [`tecnosysitalia.eu`](https://google.com/search?q=tecnosysitalia.eu) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
