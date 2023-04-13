@@ -4,6 +4,10 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-04-13 | [`fosfa.cz`](https://google.com/search?q=fosfa.cz) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-04-13 | [`darktrace.com`](https://google.com/search?q=darktrace.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-04-13 | [`bcncruiseport.com`](https://google.com/search?q=bcncruiseport.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-04-13 | [`apro.cl`](https://google.com/search?q=apro.cl) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-04-13 | [`teleferico.com`](https://google.com/search?q=teleferico.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-04-12 | [`https://https://www.sippex.com`](https://google.com/search?q=https%3A%2F%2Fhttps%3A%2F%2Fwww.sippex.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2023-04-12 | [`CH Media`](https://google.com/search?q=CH+Media) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -200,7 +204,3 @@ _last `200` posts_
 | 2023-03-28 | [`AV Industries`](https://google.com/search?q=AV+Industries) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2023-03-28 | [`PCCARX2`](https://google.com/search?q=PCCARX2) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2023-03-28 | [`MICROFINANCE INSTITUTION`](https://google.com/search?q=MICROFINANCE+INSTITUTION) | [karakurt](https://ransomwatch.telemetry.ltd/#/profiles?id=karakurt) |
-| 2023-03-28 | [`Rimex`](https://google.com/search?q=Rimex) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2023-03-28 | [`Skyway Endodontics`](https://google.com/search?q=Skyway+Endodontics) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2023-03-28 | [`Victoria Park`](https://google.com/search?q=Victoria+Park) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2023-03-28 | [`C****** ********`](https://google.com/search?q=C%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
