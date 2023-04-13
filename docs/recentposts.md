@@ -4,6 +4,15 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-04-13 | [`Levales Solicitors LLP`](https://google.com/search?q=Levales+Solicitors+LLP) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2023-04-13 | [`Aerowind`](https://google.com/search?q=Aerowind) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2023-04-13 | [`Capstan Atlantic`](https://google.com/search?q=Capstan+Atlantic) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2023-04-13 | [`Faps`](https://google.com/search?q=Faps) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2023-04-13 | [`Southeastern University`](https://google.com/search?q=Southeastern+University) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2023-04-13 | [`Tennessee State University`](https://google.com/search?q=Tennessee+State+University) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2023-04-13 | [`Encompass Technologies`](https://google.com/search?q=Encompass+Technologies) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2023-04-13 | [`IDEXX`](https://google.com/search?q=IDEXX) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2023-04-13 | [`Retina and Vitreous of Texas`](https://google.com/search?q=Retina+and+Vitreous+of+Texas) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-04-13 | [`fosfa.cz`](https://google.com/search?q=fosfa.cz) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-04-13 | [`darktrace.com`](https://google.com/search?q=darktrace.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-04-13 | [`bcncruiseport.com`](https://google.com/search?q=bcncruiseport.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -195,12 +204,3 @@ _last `200` posts_
 | 2023-03-29 | [`T***** ******** **********`](https://google.com/search?q=T%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-03-29 | [`http://www.wymondhamcollege.org`](https://google.com/search?q=http%3A%2F%2Fwww.wymondhamcollege.org) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
 | 2023-03-29 | [`http://www.helmholtz.de`](https://google.com/search?q=http%3A%2F%2Fwww.helmholtz.de) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
-| 2023-03-29 | [`http://savannahtech.edu`](https://google.com/search?q=http%3A%2F%2Fsavannahtech.edu) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
-| 2023-03-29 | [`http://www.ultra-met.com`](https://google.com/search?q=http%3A%2F%2Fwww.ultra-met.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
-| 2023-03-29 | [`http://mersgooldwill.com`](https://google.com/search?q=http%3A%2F%2Fmersgooldwill.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
-| 2023-03-28 | [`BMW France`](https://google.com/search?q=BMW+France) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-03-28 | [`Oscar Software`](https://google.com/search?q=Oscar+Software) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-03-28 | [`Jablite`](https://google.com/search?q=Jablite) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-03-28 | [`AV Industries`](https://google.com/search?q=AV+Industries) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
-| 2023-03-28 | [`PCCARX2`](https://google.com/search?q=PCCARX2) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2023-03-28 | [`MICROFINANCE INSTITUTION`](https://google.com/search?q=MICROFINANCE+INSTITUTION) | [karakurt](https://ransomwatch.telemetry.ltd/#/profiles?id=karakurt) |
