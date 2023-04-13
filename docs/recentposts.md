@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-04-13 | [`Yucatan`](https://google.com/search?q=Yucatan) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
+| 2023-04-13 | [`SAFHOLLAND`](https://google.com/search?q=SAFHOLLAND) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-04-13 | [`Levales Solicitors LLP`](https://google.com/search?q=Levales+Solicitors+LLP) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-04-13 | [`Aerowind`](https://google.com/search?q=Aerowind) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-04-13 | [`Capstan Atlantic`](https://google.com/search?q=Capstan+Atlantic) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-03-29 | [`A*******`](https://google.com/search?q=A%2A%2A%2A%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-03-29 | [`F***** ******* **************`](https://google.com/search?q=F%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-03-29 | [`T***** ******** **********`](https://google.com/search?q=T%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2023-03-29 | [`http://www.wymondhamcollege.org`](https://google.com/search?q=http%3A%2F%2Fwww.wymondhamcollege.org) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
-| 2023-03-29 | [`http://www.helmholtz.de`](https://google.com/search?q=http%3A%2F%2Fwww.helmholtz.de) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
