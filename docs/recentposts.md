@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-04-13 | [`teleferico.com`](https://google.com/search?q=teleferico.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-04-12 | [`https://https://www.sippex.com`](https://google.com/search?q=https%3A%2F%2Fhttps%3A%2F%2Fwww.sippex.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2023-04-12 | [`CH Media`](https://google.com/search?q=CH+Media) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-04-12 | [`Petaluma Health Center`](https://google.com/search?q=Petaluma+Health+Center) | [karakurt](https://ransomwatch.telemetry.ltd/#/profiles?id=karakurt) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-03-28 | [`Skyway Endodontics`](https://google.com/search?q=Skyway+Endodontics) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-03-28 | [`Victoria Park`](https://google.com/search?q=Victoria+Park) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-03-28 | [`C****** ********`](https://google.com/search?q=C%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2023-03-28 | [`grupcovesa.com`](https://google.com/search?q=grupcovesa.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
