@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-04-14 | [`osg.co.jp`](https://google.com/search?q=osg.co.jp) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-04-14 | [`ktbs.com`](https://google.com/search?q=ktbs.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-04-14 | [`knvb.nl`](https://google.com/search?q=knvb.nl) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-04-13 | [`Invenergy`](https://google.com/search?q=Invenergy) | [unsafeleak](https://ransomwatch.telemetry.ltd/#/profiles?id=unsafeleak) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-03-29 | [`Temporary Leak Page #0013995NTa`](https://google.com/search?q=Temporary+Leak+Page+%230013995NTa) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
 | 2023-03-29 | [`hammondlumber.com`](https://google.com/search?q=hammondlumber.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-03-29 | [`Public Appeal to the CANTALK management`](https://google.com/search?q=Public+Appeal+to+the+CANTALK+management) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
-| 2023-03-29 | [`psenergy.com`](https://google.com/search?q=psenergy.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
