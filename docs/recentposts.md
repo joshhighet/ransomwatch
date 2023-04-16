@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-04-16 | [`http://www.talonoutdoor.com`](https://google.com/search?q=http%3A%2F%2Fwww.talonoutdoor.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
+| 2023-04-16 | [`http://dataram.com`](https://google.com/search?q=http%3A%2F%2Fdataram.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
 | 2023-04-15 | [`CommScope`](https://google.com/search?q=CommScope) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2023-04-15 | [`Leadway Assurance Company Limited`](https://google.com/search?q=Leadway+Assurance+Company+Limited) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-04-15 | [`Esperanza Viva Jóvenes de México`](https://google.com/search?q=Esperanza+Viva+J%C3%B3venes+de+M%C3%A9xico) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-03-30 | [`CESCE`](https://google.com/search?q=CESCE) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
 | 2023-03-30 | [`ARROWAL`](https://google.com/search?q=ARROWAL) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
 | 2023-03-30 | [`ALKF+`](https://google.com/search?q=ALKF%2B) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
-| 2023-03-30 | [`7x7oralsurgery.com`](https://google.com/search?q=7x7oralsurgery.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
-| 2023-03-30 | [`tharworx.com`](https://google.com/search?q=tharworx.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
