@@ -47,3 +47,6 @@ jobs:
           git config user.email 41898282+github-actions[bot]@users.noreply.github.com
           git commit --all --message "𝚌𝚛𝚘𝚗𝚋𝚘𝚝" || echo "no changes to commit"
           git push
+      - name: ping c2 beep bop
+        run: |
+          curl -sSf "https://betteruptime.com/api/v1/heartbeat/${{ secrets.HEARTBEAT_SECRET }}"
