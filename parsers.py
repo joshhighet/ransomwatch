@@ -963,3 +963,25 @@ def dunghill_leak():
         errlog('dunghill_leak: ' + 'parsing fail')
     for post in posts:
         appender(post, 'dunghill_leak')
+
+def trigona():
+    stdlog('parser: ' + 'trigona')
+    parser = '''
+    awk -vRS='</a><a class="auction-item-info__external"' '{gsub(/.*<div class="auction-item-info__title"> <a href="[^"]*" title="">|<\/a>.*/,""); print}' source/trigona-*.html | grep -v href | sed 's/^[[:space:]]*//;s/[[:space:]]*$//'
+    '''
+    posts = runshellcmd(parser)
+    if len(posts) == 1:
+        errlog('trigona: ' + 'parsing fail')
+    for post in posts:
+        appender(post, 'trigona')
+
+def crosslock():
+    stdlog('parser: ' + 'crosslock')
+    parser = '''
+    grep '<div class="post-date">' source/crosslock-*.html --no-filename | grep -o 'a href.*' | cut -d'>' -f2 | sed 's/<\/a//'
+    '''
+    posts = runshellcmd(parser)
+    if len(posts) == 1:
+        errlog('crosslock: ' + 'parsing fail')
+    for post in posts:
+        appender(post, 'crosslock')

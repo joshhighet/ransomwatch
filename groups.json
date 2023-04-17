@@ -4213,5 +4213,65 @@
             }
         ],
         "profile": []
+    },
+    {
+        "name": "cryptnet",
+        "captcha": false,
+        "parser": false,
+        "javascript_render": false,
+        "meta": null,
+        "locations": [
+            {
+                "fqdn": "cryptr3fmuv4di5uiczofjuypopr63x2gltlsvhur2ump4ebru2xd3yd.onion",
+                "title": "CryptNet RECOVERY",
+                "version": 3,
+                "slug": "http://cryptr3fmuv4di5uiczofjuypopr63x2gltlsvhur2ump4ebru2xd3yd.onion/login",
+                "available": true,
+                "updated": "2023-04-18 09:46:47.111873",
+                "lastscrape": "2023-04-18 09:46:47.111852",
+                "enabled": true
+            }
+        ],
+        "profile": []
+    },
+    {
+        "name": "crosslock",
+        "captcha": false,
+        "parser": true,
+        "javascript_render": false,
+        "meta": null,
+        "locations": [
+            {
+                "fqdn": "crosslock5cwfljbw4v37zuzq4talxxhyavjm2lufmjwgbpfjdsh56yd.onion",
+                "title": "Cross Lock - Data leak",
+                "version": 3,
+                "slug": "http://crosslock5cwfljbw4v37zuzq4talxxhyavjm2lufmjwgbpfjdsh56yd.onion",
+                "available": true,
+                "updated": "2023-04-18 09:46:48.652520",
+                "lastscrape": "2023-04-18 09:46:48.652508",
+                "enabled": true
+            }
+        ],
+        "profile": []
+    },
+    {
+        "name": "trigona",
+        "captcha": false,
+        "parser": true,
+        "javascript_render": false,
+        "meta": null,
+        "locations": [
+            {
+                "fqdn": "6n5tfadusp4sarzuxntz34q4ohspiaya2mc6aw6uhlusfqfsdomavyyd.onion",
+                "title": "Blog",
+                "version": 3,
+                "slug": "http://6n5tfadusp4sarzuxntz34q4ohspiaya2mc6aw6uhlusfqfsdomavyyd.onion/",
+                "available": true,
+                "updated": "2023-04-18 09:46:51.094282",
+                "lastscrape": "2023-04-18 09:46:51.094266",
+                "enabled": true
+            }
+        ],
+        "profile": []
     }
 ]
