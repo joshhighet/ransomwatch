@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CryptNet RECOVERY</title>
+    <link rel="stylesheet" href="http://cryptr3fmuv4di5uiczofjuypopr63x2gltlsvhur2ump4ebru2xd3yd.onion/assets/login/flaticon.css">
+    <link rel="stylesheet" href="http://cryptr3fmuv4di5uiczofjuypopr63x2gltlsvhur2ump4ebru2xd3yd.onion/assets/login/main.css">
+    <link rel="stylesheet" href="http://cryptr3fmuv4di5uiczofjuypopr63x2gltlsvhur2ump4ebru2xd3yd.onion/assets/login/otp.css">
+    <link rel="icon" type="image/x-icon" href="http://cryptr3fmuv4di5uiczofjuypopr63x2gltlsvhur2ump4ebru2xd3yd.onion/assets/fav.ico">
+    <style>
+        body{
+            background-color: #4f5152;
+        }
+        .logoName{
+
+            color: #fff;
+
+        }
+        .loginBox{
+            background-color: #000;
+        }
+        ::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+            color: #fff;
+            opacity: 1; /* Firefox */
+        }
+    </style>
+</head>
+<body>
+
+<div class="ega-otp-layout ega-otp-layout2">
+    <div class="ega-otp-layout-wrap d-flex justify-content-center align-items-center">
+        <div class="ega-otp-form2-content text-center loginBox">
+            <h1 class="otp-verification-type logoName"><span >CryptNet Recovery</span></h1>
+            <br>
+            <form class="otp-screen" action="/login" method="post">
+                <input type="hidden" name="_token" value="7k6pVnky2rvlrPxPDGLSbeBAUupvXg1HmecbLWJY">
+                <label for="telid">Decryption ID</label>
+                <input id="telid" placeholder="Your decryption id" name="login_key" style="margin-bottom: 25px" required>
+                <div class="captcha">
+                    <span><img src="http://cryptr3fmuv4di5uiczofjuypopr63x2gltlsvhur2ump4ebru2xd3yd.onion/captcha/default?9TWgGTbA" ></span>
+                    <button type="button" class="btn btn-danger" class="reload" id="reload">
+                        &#x21bb;
+                    </button>
+                </div>
+                <div class="form-group mb-4" >
+                    <input id="captcha" type="text" class="form-control" placeholder="Enter Captcha" name="captcha" required>
+                </div>
+
+
+                <button class="otp-submit-btn" type="submit">Next</button>
+                
+
+            </form>
+            <div class="otp-bottom">
+
+            </div>
+        </div>
+    </div>
+</div>
+<script src="http://cryptr3fmuv4di5uiczofjuypopr63x2gltlsvhur2ump4ebru2xd3yd.onion/assets/js/jquery-3.6.0.min.js"></script>
+<script type="text/javascript">
+
+    $('#reload').click(function () {
+        $.ajax({
+            type: 'GET',
+            url: 'reload-captcha',
+            success: function (data) {
+                $(".captcha span").html(data.captcha);
+            }
+        });
+    });
+</script>
+</body></html>
