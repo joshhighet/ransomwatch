@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-04-17 | [`SPARTAN Light Metal Products Inc`](https://google.com/search?q=SPARTAN+Light+Metal+Products+Inc) | [unsafeleak](https://ransomwatch.telemetry.ltd/#/profiles?id=unsafeleak) |
 | 2023-04-17 | [`brl.fr`](https://google.com/search?q=brl.fr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-04-17 | [`alpine4u.com`](https://google.com/search?q=alpine4u.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-04-17 | [`Uniondale School District`](https://google.com/search?q=Uniondale+School+District) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-03-30 | [`IRCO`](https://google.com/search?q=IRCO) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
 | 2023-03-30 | [`FURUNO`](https://google.com/search?q=FURUNO) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
 | 2023-03-30 | [`FICHTNER`](https://google.com/search?q=FICHTNER) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
-| 2023-03-30 | [`DGCX`](https://google.com/search?q=DGCX) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
