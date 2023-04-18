@@ -10,6 +10,7 @@ _last `200` posts_
 | 2023-04-18 | [`Office Notarial de Baillargues`](https://google.com/search?q=Office+Notarial+de+Baillargues) | [trigona](https://ransomwatch.telemetry.ltd/#/profiles?id=trigona) |
 | 2023-04-18 | [`Albany Clinic`](https://google.com/search?q=Albany+Clinic) | [trigona](https://ransomwatch.telemetry.ltd/#/profiles?id=trigona) |
 | 2023-04-18 | [`McKinney Trailers`](https://google.com/search?q=McKinney+Trailers) | [trigona](https://ransomwatch.telemetry.ltd/#/profiles?id=trigona) |
+| 2023-04-18 | [`thesoftwareconsultinggroup.com`](https://google.com/search?q=thesoftwareconsultinggroup.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-04-17 | [`Pharm-Pacc Corporation`](https://google.com/search?q=Pharm-Pacc+Corporation) | [karakurt](https://ransomwatch.telemetry.ltd/#/profiles?id=karakurt) |
 | 2023-04-17 | [`pinelandschool.org`](https://google.com/search?q=pinelandschool.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-04-17 | [`joriszorg.nl`](https://google.com/search?q=joriszorg.nl) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-03-30 | [`Hawaii self storage`](https://google.com/search?q=Hawaii+self+storage) | [moneymessage](https://ransomwatch.telemetry.ltd/#/profiles?id=moneymessage) |
 | 2023-03-30 | [`Biman airlines`](https://google.com/search?q=Biman+airlines) | [moneymessage](https://ransomwatch.telemetry.ltd/#/profiles?id=moneymessage) |
 | 2023-03-30 | [`theus-industries.fr`](https://google.com/search?q=theus-industries.fr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-03-30 | [`turvatehnika`](https://google.com/search?q=turvatehnika) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
