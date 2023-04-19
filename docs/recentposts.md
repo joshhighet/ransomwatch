@@ -4,6 +4,32 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-04-19 | [`***** ***** M****** ****`](https://google.com/search?q=%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A+M%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2023-04-19 | [`A******* ******* ********`](https://google.com/search?q=A%2A%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2023-04-19 | [`B****** ***** *****`](https://google.com/search?q=B%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2023-04-19 | [`C***** ************ *******`](https://google.com/search?q=C%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2023-04-19 | [`C******* **N***`](https://google.com/search?q=C%2A%2A%2A%2A%2A%2A%2A+%2A%2AN%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2023-04-19 | [`D*** ***** S***** ********`](https://google.com/search?q=D%2A%2A%2A+%2A%2A%2A%2A%2A+S%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2023-04-19 | [`E****** ***********`](https://google.com/search?q=E%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2023-04-19 | [`E*******`](https://google.com/search?q=E%2A%2A%2A%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2023-04-19 | [`G********* ****** ****`](https://google.com/search?q=G%2A%2A%2A%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2023-04-19 | [`H***** *****`](https://google.com/search?q=H%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2023-04-19 | [`I*** *****Y *******`](https://google.com/search?q=I%2A%2A%2A+%2A%2A%2A%2A%2AY+%2A%2A%2A%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2023-04-19 | [`L****** H*********`](https://google.com/search?q=L%2A%2A%2A%2A%2A%2A+H%2A%2A%2A%2A%2A%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2023-04-19 | [`L********`](https://google.com/search?q=L%2A%2A%2A%2A%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2023-04-19 | [`M**** ****`](https://google.com/search?q=M%2A%2A%2A%2A+%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2023-04-19 | [`M***** *****-*******`](https://google.com/search?q=M%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A-%2A%2A%2A%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2023-04-19 | [`P****** ******`](https://google.com/search?q=P%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2023-04-19 | [`S****** ********** ******** M****** ********** Inc.`](https://google.com/search?q=S%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A%2A+M%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A+Inc.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2023-04-19 | [`V******* ****** ** ************`](https://google.com/search?q=V%2A%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A+%2A%2A+%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2023-04-19 | [`sommer.eu`](https://google.com/search?q=sommer.eu) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-04-19 | [`jaco.com`](https://google.com/search?q=jaco.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-04-19 | [`gizavc.com`](https://google.com/search?q=gizavc.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-04-19 | [`garrotbros.com`](https://google.com/search?q=garrotbros.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-04-19 | [`bancodevenezuela.com`](https://google.com/search?q=bancodevenezuela.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-04-19 | [`SPOONER`](https://google.com/search?q=SPOONER) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2023-04-19 | [`DOREL`](https://google.com/search?q=DOREL) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2023-04-19 | [`2_BPCDOMAIN`](https://google.com/search?q=2_BPCDOMAIN) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2023-04-19 | [`sbhc.us`](https://google.com/search?q=sbhc.us) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-04-19 | [`7G Distributing`](https://google.com/search?q=7G+Distributing) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-04-18 | [`Bang IT Solutions`](https://google.com/search?q=Bang+IT+Solutions) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -178,29 +204,3 @@ _last `200` posts_
 | 2023-04-03 | [`Price: 0.17 BTC `](https://google.com/search?q=Price%3A+0.17+BTC+) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
 | 2023-04-03 | [`OCEAN`](https://google.com/search?q=OCEAN) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
 | 2023-04-03 | [`METALWORK`](https://google.com/search?q=METALWORK) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
-| 2023-04-03 | [`ARCHI+`](https://google.com/search?q=ARCHI%2B) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
-| 2023-04-03 | [`midamericanglass.com`](https://google.com/search?q=midamericanglass.com) | [moneymessage](https://ransomwatch.telemetry.ltd/#/profiles?id=moneymessage) |
-| 2023-04-03 | [`Sonda`](https://google.com/search?q=Sonda) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
-| 2023-04-03 | [`revvaviation.com`](https://google.com/search?q=revvaviation.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-04-03 | [`GOCORPTECH`](https://google.com/search?q=GOCORPTECH) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2023-04-03 | [`PFGUSA_2`](https://google.com/search?q=PFGUSA_2) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2023-04-03 | [`SHIVELYBROS_2`](https://google.com/search?q=SHIVELYBROS_2) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2023-04-03 | [`http://corizonhealth.com`](https://google.com/search?q=http%3A%2F%2Fcorizonhealth.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
-| 2023-04-03 | [`http://sunstar.com`](https://google.com/search?q=http%3A%2F%2Fsunstar.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
-| 2023-04-03 | [`http://5design.net`](https://google.com/search?q=http%3A%2F%2F5design.net) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
-| 2023-04-03 | [`http://www.teijincarbon.com`](https://google.com/search?q=http%3A%2F%2Fwww.teijincarbon.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
-| 2023-04-03 | [`http://stevesilver.com`](https://google.com/search?q=http%3A%2F%2Fstevesilver.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
-| 2023-04-03 | [`Aero Engine Solution INC`](https://google.com/search?q=Aero+Engine+Solution+INC) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
-| 2023-04-02 | [`Mutual de Seguros de Chile`](https://google.com/search?q=Mutual+de+Seguros+de+Chile) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-04-02 | [`Goldenbear.com & mjhallandcompany.com`](https://google.com/search?q=Goldenbear.com+%26+mjhallandcompany.com) | [moneymessage](https://ransomwatch.telemetry.ltd/#/profiles?id=moneymessage) |
-| 2023-04-02 | [`Gaston College`](https://google.com/search?q=Gaston+College) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
-| 2023-04-02 | [`LASOTEL.FR`](https://google.com/search?q=LASOTEL.FR) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-04-02 | [`Arandell Corp`](https://google.com/search?q=Arandell+Corp) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
-| 2023-04-01 | [`Lpa-group.com`](https://google.com/search?q=Lpa-group.com) | [moneymessage](https://ransomwatch.telemetry.ltd/#/profiles?id=moneymessage) |
-| 2023-04-01 | [`Ruekert & Mielke`](https://google.com/search?q=Ruekert+%26+Mielke) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-04-01 | [`p-and-r.com`](https://google.com/search?q=p-and-r.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-04-01 | [`TRUSSWAY`](https://google.com/search?q=TRUSSWAY) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-04-01 | [`http://www.vendinggroup.com`](https://google.com/search?q=http%3A%2F%2Fwww.vendinggroup.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
-| 2023-04-01 | [`http://www.benningnet.com`](https://google.com/search?q=http%3A%2F%2Fwww.benningnet.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
-| 2023-04-01 | [`ativy.com`](https://google.com/search?q=ativy.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-03-31 | [`etkinllc.com`](https://google.com/search?q=etkinllc.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
