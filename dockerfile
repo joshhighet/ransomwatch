@@ -12,8 +12,8 @@ RUN apt-get upgrade -yy
 RUN apt install -yy \
     g++ gcc libxml2-dev \
     libxslt-dev libffi-dev \
-    make curl jq firefox-esr \
-    chromium
+    make curl jq firefox-esr
+#   chromium
 
 RUN curl -L `curl -sL https://api.github.com/repos/mozilla/geckodriver/releases/latest | jq -r '.assets[].browser_download_url' | grep 'linux64.tar.gz$'` | tar -xz
 RUN chmod +x geckodriver
