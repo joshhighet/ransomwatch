@@ -12,9 +12,7 @@ from selenium.common.exceptions import WebDriverException
 
 from sharedutils import checktcp
 from sharedutils import randomagent
-
 from sharedutils import sockshost, socksport
-
 from sharedutils import stdlog, dbglog, errlog, honk
 
 requests.packages.urllib3.disable_warnings()
@@ -52,16 +50,13 @@ def main(webpage):
         driver.get(webpage)
         # set the number of seconds to wait before working with the DOM
         sleeptz = 5
-        if 'lockbitapt2yfbt7' in webpage:
-            stdlog('geckodriver: ' + 'lockbbit special: extra loadtime wait - 35s')
-            time.sleep(35)
-            #driver.implicitly_wait(20)
+        # if 'fqdn' in webpage:
+            # driver.add_cookie({"name": "ddosproteck", "value": "lol"})
+            # driver.find_element_by_css_selector('button').click()
+            # time.sleep(35)
+            # driver.implicitly_wait(20)
         stdlog('geckodriver: ' + 'waiting ' + str(sleeptz) + ' seconds to render elements')
         time.sleep(sleeptz)
-        #if 'lockbitapt' in webpage:
-        #    stdlog('geckodriver: ' + 'special detected, waiting for captcha')
-        #    driver.add_cookie({"name": "ddosproteck", "value": "lol"})
-        #    driver.find_element_by_css_selector('button').click()
         '''
         get html from dom after js processing and page rendering complete
         '''
