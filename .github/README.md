@@ -29,7 +29,11 @@ please use the [_issue template_](https://github.com/joshhighet/ransomwatch/issu
 
 <h4 align="center">⚠️</h4>
 
-_content within `ransomwatch.telemetry.ltd`, `posts.json`, `groups.json` alongside the `docs/` & `source/` directories is dynamically generated based on hosting choices of real-world threat actors in near-real-time. <br><br> whilst sanitisation efforts have been taken, by viewing or accessing ransomwatch you acknowledge you are doing so at your own risk_
+_content within `ransomwatch.telemetry.ltd`, `posts.json`, `groups.json` alongside the `docs/` & `source/` directories is dynamically generated based on hosting choices of real-world threat actors in near-real-time._
+
+_whilst sanitisation efforts have been taken, by viewing or accessing ransomwatch you acknowledge you are doing so at your own risk_
+
+##### if you leverage ransomwatch in commercial platforms, please consider becoming a [sponsor](https://github.com/sponsors/joshhighet) 💞
 
 ---
 
@@ -55,7 +59,7 @@ the frontend is ultimatley markdown, generated with [markdown.py](https://github
 
 graphs or visualisations are generated with [plotting.py](https://github.com/joshhighet/ransomwatch/blob/main/plotting.py) with the help of [matplotlib/matplotlib](https://github.com/matplotlib/matplotlib)
 
-_post indexing is done with a mix of `grep`, `awk` and `sed` within [parsers.py](https://github.com/joshhighet/ransomwatch/blob/main/parsers.py) - it's brittle and like any  ̴̭́H̶̤̓T̸̙̅M̶͇̾L̷͑ͅ ̴̙̏p̸̡͆a̷̛̦r̵̬̿s̴̙͛ĩ̴̺n̸̔͜g̸̘̈, has a limited lifetime._
+post indexing is done with a mix of `grep`, `awk` and `sed` within [parsers.py](https://github.com/joshhighet/ransomwatch/blob/main/parsers.py) - it's brittle and like any  ̴̭́H̶̤̓T̸̙̅M̶͇̾L̷͑ͅ ̴̙̏p̸̡͆a̷̛̦r̵̬̿s̴̙͛ĩ̴̺n̸̔͜g̸̘̈, has a limited lifetime.
 
 ## tools
 
