@@ -4,6 +4,13 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-04-21 | [`Wynn-Reeth`](https://google.com/search?q=Wynn-Reeth) | [karakurt](https://ransomwatch.telemetry.ltd/#/profiles?id=karakurt) |
+| 2023-04-21 | [`Sasa.com - Malaysian most unsecured retailer was hacked and leaked a huge amount of confid`](https://google.com/search?q=Sasa.com+-+Malaysian+most+unsecured+retailer+was+hacked+and+leaked+a+huge+amount+of+confid) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
+| 2023-04-21 | [`Lisa Logística was hacked. A great amount of critical information has been stolen.`](https://google.com/search?q=Lisa+Log%C3%ADstica+was+hacked.+A+great+amount+of+critical+information+has+been+stolen.) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
+| 2023-04-21 | [`JK Residential Services was hacked. A lot of personal data was stolen.`](https://google.com/search?q=JK+Residential+Services+was+hacked.+A+lot+of+personal+data+was+stolen.) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
+| 2023-04-21 | [`CA de Seguros La Occidental was hacked. A huge amount of confidential data was stolen.`](https://google.com/search?q=CA+de+Seguros+La+Occidental+was+hacked.+A+huge+amount+of+confidential+data+was+stolen.) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
+| 2023-04-21 | [`Banco Comercial do Huambo was hacked. Africa's most insecure bank has leaked a huge amount`](https://google.com/search?q=Banco+Comercial+do+Huambo+was+hacked.+Africa%27s+most+insecure+bank+has+leaked+a+huge+amount) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
+| 2023-04-21 | [`Eastern Cape Gambling Board was hacked. The most dangerous gambling company for cooperatio`](https://google.com/search?q=Eastern+Cape+Gambling+Board+was+hacked.+The+most+dangerous+gambling+company+for+cooperatio) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-04-21 | [`soshin.co.jp`](https://google.com/search?q=soshin.co.jp) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-04-21 | [`soapro.ao`](https://google.com/search?q=soapro.ao) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-04-21 | [`pkffinconta.ro`](https://google.com/search?q=pkffinconta.ro) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -197,10 +204,3 @@ _last `200` posts_
 | 2023-04-05 | [`The Sage Next`](https://google.com/search?q=The+Sage+Next) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-04-05 | [`olympia.org`](https://google.com/search?q=olympia.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-04-04 | [`tvh.com`](https://google.com/search?q=tvh.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-04-04 | [`masrl.com`](https://google.com/search?q=masrl.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-04-04 | [`omscomponents.it`](https://google.com/search?q=omscomponents.it) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-04-04 | [`Dalumi Group`](https://google.com/search?q=Dalumi+Group) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-04-04 | [`Electronic SYSTEMS S.p.A.`](https://google.com/search?q=Electronic+SYSTEMS+S.p.A.) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-04-04 | [`garrottbros.com`](https://google.com/search?q=garrottbros.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-04-04 | [`DUKANEDOM`](https://google.com/search?q=DUKANEDOM) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2023-04-04 | [`HUSKY1`](https://google.com/search?q=HUSKY1) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
