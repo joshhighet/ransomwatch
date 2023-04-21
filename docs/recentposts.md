@@ -4,6 +4,13 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-04-21 | [`VOPAK WAS HACKED. A LOT OF CRITICAL CONFIDENTIAL INFORMATION WAS STOLEN.`](https://google.com/search?q=VOPAK+WAS+HACKED.+A+LOT+OF+CRITICAL+CONFIDENTIAL+INFORMATION+WAS+STOLEN.) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
+| 2023-04-21 | [`Classic Stripes Pvt and Astarc Group was hacked. A huge amount of confidential data has be`](https://google.com/search?q=Classic+Stripes+Pvt+and+Astarc+Group+was+hacked.+A+huge+amount+of+confidential+data+has+be) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
+| 2023-04-21 | [`Global Polymers was haked. A massive amount of confidential information was stolen.`](https://google.com/search?q=Global+Polymers+was+haked.+A+massive+amount+of+confidential+information+was+stolen.) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
+| 2023-04-21 | [`NAIVAS WAS HACKED. A LARGE AMOUNT OF CONFIDENTIAL DATA HAS BEEN STOLEN.`](https://google.com/search?q=NAIVAS+WAS+HACKED.+A+LARGE+AMOUNT+OF+CONFIDENTIAL+DATA+HAS+BEEN+STOLEN.) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
+| 2023-04-21 | [`Groupe ACTIVA was hacked. The most unreliable insurance company in the world has once agai`](https://google.com/search?q=Groupe+ACTIVA+was+hacked.+The+most+unreliable+insurance+company+in+the+world+has+once+agai) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
+| 2023-04-21 | [`Slade Shipping - The most insecure shipping company in the U.S. has leaked a huge amount o`](https://google.com/search?q=Slade+Shipping+-+The+most+insecure+shipping+company+in+the+U.S.+has+leaked+a+huge+amount+o) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
+| 2023-04-21 | [`AUT-TECH-GROUP.COM`](https://google.com/search?q=AUT-TECH-GROUP.COM) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-04-21 | [`Wynn-Reeth`](https://google.com/search?q=Wynn-Reeth) | [karakurt](https://ransomwatch.telemetry.ltd/#/profiles?id=karakurt) |
 | 2023-04-21 | [`Sasa.com - Malaysian most unsecured retailer was hacked and leaked a huge amount of confid`](https://google.com/search?q=Sasa.com+-+Malaysian+most+unsecured+retailer+was+hacked+and+leaked+a+huge+amount+of+confid) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-04-21 | [`Lisa Logística was hacked. A great amount of critical information has been stolen.`](https://google.com/search?q=Lisa+Log%C3%ADstica+was+hacked.+A+great+amount+of+critical+information+has+been+stolen.) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -197,10 +204,3 @@ _last `200` posts_
 | 2023-04-05 | [`tf-amd.com.my`](https://google.com/search?q=tf-amd.com.my) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-04-05 | [`tf-amd.com`](https://google.com/search?q=tf-amd.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-04-05 | [`Tarolli, Sundheim, Covell & Tummino LLP`](https://google.com/search?q=Tarolli%2C+Sundheim%2C+Covell+%26+Tummino+LLP) | [lorenz](https://ransomwatch.telemetry.ltd/#/profiles?id=lorenz) |
-| 2023-04-05 | [`Joy Cone Co, Joy Baking group, BoDeans Baking, Altesa`](https://google.com/search?q=Joy+Cone+Co%2C+Joy+Baking+group%2C+BoDeans+Baking%2C+Altesa) | [lorenz](https://ransomwatch.telemetry.ltd/#/profiles?id=lorenz) |
-| 2023-04-05 | [`NGS Super`](https://google.com/search?q=NGS+Super) | [lorenz](https://ransomwatch.telemetry.ltd/#/profiles?id=lorenz) |
-| 2023-04-05 | [`Intrasect Technologies`](https://google.com/search?q=Intrasect+Technologies) | [lorenz](https://ransomwatch.telemetry.ltd/#/profiles?id=lorenz) |
-| 2023-04-05 | [`Moore Engineering`](https://google.com/search?q=Moore+Engineering) | [lorenz](https://ransomwatch.telemetry.ltd/#/profiles?id=lorenz) |
-| 2023-04-05 | [`The Sage Next`](https://google.com/search?q=The+Sage+Next) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-04-05 | [`olympia.org`](https://google.com/search?q=olympia.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-04-04 | [`tvh.com`](https://google.com/search?q=tvh.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
