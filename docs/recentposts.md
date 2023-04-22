@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-04-22 | [`Groupe Gambetta`](https://google.com/search?q=Groupe+Gambetta) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-04-22 | [`UECC`](https://google.com/search?q=UECC) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-04-22 | [`stuertz.com`](https://google.com/search?q=stuertz.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-04-22 | [`Neptune Lines`](https://google.com/search?q=Neptune+Lines) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2023-04-22 | [`YPG2`](https://google.com/search?q=YPG2) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-04-05 | [`nautic.com`](https://google.com/search?q=nautic.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-04-05 | [`Micro Star International`](https://google.com/search?q=Micro+Star+International) | [moneymessage](https://ransomwatch.telemetry.ltd/#/profiles?id=moneymessage) |
 | 2023-04-05 | [`PALM HILLS DEVELOPMENT`](https://google.com/search?q=PALM+HILLS+DEVELOPMENT) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-04-05 | [`nestseekers.com`](https://google.com/search?q=nestseekers.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-04-05 | [`Hull Property Group`](https://google.com/search?q=Hull+Property+Group) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
