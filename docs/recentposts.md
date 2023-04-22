@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-04-22 | [`stuertz.com`](https://google.com/search?q=stuertz.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-04-22 | [`Neptune Lines`](https://google.com/search?q=Neptune+Lines) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2023-04-22 | [`YPG2`](https://google.com/search?q=YPG2) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2023-04-21 | [`http://www.gks-hydraulik.com`](https://google.com/search?q=http%3A%2F%2Fwww.gks-hydraulik.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
 | 2023-04-21 | [`Saville Row  - Grupo GTD was hacked. A huge amount of personal information was stolen.`](https://google.com/search?q=Saville+Row++-+Grupo+GTD+was+hacked.+A+huge+amount+of+personal+information+was+stolen.) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-04-05 | [`PALM HILLS DEVELOPMENT`](https://google.com/search?q=PALM+HILLS+DEVELOPMENT) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-04-05 | [`nestseekers.com`](https://google.com/search?q=nestseekers.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-04-05 | [`Hull Property Group`](https://google.com/search?q=Hull+Property+Group) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-04-05 | [`UnitedLex`](https://google.com/search?q=UnitedLex) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-04-05 | [`Noteboom - The Law Firm`](https://google.com/search?q=Noteboom+-+The+Law+Firm) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
