@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-04-22 | [`YPG2`](https://google.com/search?q=YPG2) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2023-04-21 | [`http://www.gks-hydraulik.com`](https://google.com/search?q=http%3A%2F%2Fwww.gks-hydraulik.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
 | 2023-04-21 | [`Saville Row  - Grupo GTD was hacked. A huge amount of personal information was stolen.`](https://google.com/search?q=Saville+Row++-+Grupo+GTD+was+hacked.+A+huge+amount+of+personal+information+was+stolen.) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-04-21 | [`Daregal was hacked. The most insecure retail company allowed a huge amount of confidential`](https://google.com/search?q=Daregal+was+hacked.+The+most+insecure+retail+company+allowed+a+huge+amount+of+confidential) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-04-05 | [`Hull Property Group`](https://google.com/search?q=Hull+Property+Group) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-04-05 | [`UnitedLex`](https://google.com/search?q=UnitedLex) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-04-05 | [`Noteboom - The Law Firm`](https://google.com/search?q=Noteboom+-+The+Law+Firm) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-04-05 | [`turncommerce.com`](https://google.com/search?q=turncommerce.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
