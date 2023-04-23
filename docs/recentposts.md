@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-04-23 | [`floraalpina.ch`](https://google.com/search?q=floraalpina.ch) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-04-22 | [`Easy Automation`](https://google.com/search?q=Easy+Automation) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
 | 2023-04-22 | [`Groupe Gambetta`](https://google.com/search?q=Groupe+Gambetta) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-04-22 | [`UECC`](https://google.com/search?q=UECC) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-04-06 | [`Open University of Cyprus`](https://google.com/search?q=Open+University+of+Cyprus) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-04-06 | [`quilts,inc`](https://google.com/search?q=quilts%2Cinc) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-04-05 | [`nautic.com`](https://google.com/search?q=nautic.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-04-05 | [`Micro Star International`](https://google.com/search?q=Micro+Star+International) | [moneymessage](https://ransomwatch.telemetry.ltd/#/profiles?id=moneymessage) |
