@@ -2,9 +2,9 @@
 ## summary
 _april 24th, 2023_
 
-currently tracking `144` groups across `259` relays & mirrors - _`104` currently online_
+currently tracking `144` groups across `259` relays & mirrors - _`102` currently online_
 
-⏲ there have been `24` posts within the `last 24 hours`
+⏲ there have been `19` posts within the `last 24 hours`
 
 🦈 there have been `283` posts within the `month of april`
 
