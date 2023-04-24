@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-04-24 | [`gruponutresa.com`](https://google.com/search?q=gruponutresa.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-04-24 | [`goforcloud.com`](https://google.com/search?q=goforcloud.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-04-24 | [`Lifeline Vascular Access`](https://google.com/search?q=Lifeline+Vascular+Access) | [karakurt](https://ransomwatch.telemetry.ltd/#/profiles?id=karakurt) |
 | 2023-04-24 | [`nagase.co.jp`](https://google.com/search?q=nagase.co.jp) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-04-24 | [`abro.se`](https://google.com/search?q=abro.se) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-04-09 | [`Legion Aero`](https://google.com/search?q=Legion+Aero) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-04-09 | [`Vleeswarenfabriek Jac Michiels`](https://google.com/search?q=Vleeswarenfabriek+Jac+Michiels) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-04-09 | [`Schirm`](https://google.com/search?q=Schirm) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-04-08 | [`baysideinteriors.com`](https://google.com/search?q=baysideinteriors.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-04-08 | [`DCI-ENGINEERS_2`](https://google.com/search?q=DCI-ENGINEERS_2) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
