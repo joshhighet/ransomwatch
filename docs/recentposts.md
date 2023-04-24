@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-04-24 | [`midipapierspeints.fr`](https://google.com/search?q=midipapierspeints.fr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-04-24 | [`baffetmateriaux.fr`](https://google.com/search?q=baffetmateriaux.fr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-04-24 | [`Bentham &amp; Holroyd Ltd`](https://google.com/search?q=Bentham+%26amp%3B+Holroyd+Ltd) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-04-24 | [`yateemgroup.com`](https://google.com/search?q=yateemgroup.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-04-24 | [`tiger.jp`](https://google.com/search?q=tiger.jp) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-04-07 | [`sxi.com.ph`](https://google.com/search?q=sxi.com.ph) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-04-07 | [`coremain`](https://google.com/search?q=coremain) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-04-07 | [`SIVSA`](https://google.com/search?q=SIVSA) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-04-07 | [`123.com`](https://google.com/search?q=123.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-04-07 | [`baughmanco.com`](https://google.com/search?q=baughmanco.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
