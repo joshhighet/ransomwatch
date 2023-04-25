@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-04-25 | [`vcclawservices.com`](https://google.com/search?q=vcclawservices.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-04-25 | [`summerweine.at`](https://google.com/search?q=summerweine.at) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-04-25 | [`ewwanfried.de`](https://google.com/search?q=ewwanfried.de) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-04-25 | [`Bilstein GmbH`](https://google.com/search?q=Bilstein+GmbH) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-04-25 | [`Falcon Express Transportation, Inc.`](https://google.com/search?q=Falcon+Express+Transportation%2C+Inc.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-04-25 | [`General Plug and Manufacturing`](https://google.com/search?q=General+Plug+and+Manufacturing) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2023-04-10 | [`agp.ph`](https://google.com/search?q=agp.ph) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-04-10 | [`http://www.tomduffy.com`](https://google.com/search?q=http%3A%2F%2Fwww.tomduffy.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
 | 2023-04-10 | [`http://www.alvaria.com`](https://google.com/search?q=http%3A%2F%2Fwww.alvaria.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
-| 2023-04-10 | [`http://www.bigassfans.com`](https://google.com/search?q=http%3A%2F%2Fwww.bigassfans.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
-| 2023-04-10 | [`mundocuervo.com`](https://google.com/search?q=mundocuervo.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-04-10 | [`aek.mk`](https://google.com/search?q=aek.mk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
