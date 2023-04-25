@@ -997,3 +997,14 @@ def akira():
         errlog('akira: ' + 'parsing fail')
     for post in posts:
         appender(post, 'akira')
+
+def cryptnet():
+    stdlog('parser: ' + 'cryptnet')
+    parser = '''
+    grep '<h3 class="blog-subject">' source/cryptnet-blog*.html | cut -d '>' -f 2 | cut -d '<' -f 1 | sed -e 's/^ *//g' -e 's/[[:space:]]*$//'
+    '''
+    posts = runshellcmd(parser)
+    if len(posts) == 1:
+        errlog('cryptnet: ' + 'parsing fail')
+    for post in posts:
+        appender(post, 'cryptnet')

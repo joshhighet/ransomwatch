@@ -4187,7 +4187,7 @@
     {
         "name": "akira",
         "captcha": false,
-        "parser": false,
+        "parser": true,
         "javascript_render": false,
         "meta": null,
         "locations": [
@@ -4227,7 +4227,7 @@
     {
         "name": "cryptnet",
         "captcha": false,
-        "parser": false,
+        "parser": true,
         "javascript_render": false,
         "meta": null,
         "locations": [
@@ -4239,6 +4239,16 @@
                 "available": true,
                 "updated": "2023-04-25 20:29:20.496444",
                 "lastscrape": "2023-04-25 20:29:20.496429",
+                "enabled": true
+            },
+            {
+                "fqdn": "blog6zw62uijolee7e6aqqnqaszs3ckr5iphzdzsazgrpvtqtjwqryid.onion",
+                "title": null,
+                "version": 3,
+                "slug": "http://blog6zw62uijolee7e6aqqnqaszs3ckr5iphzdzsazgrpvtqtjwqryid.onion/",
+                "available": false,
+                "updated": null,
+                "lastscrape": "2021-05-01 00:00:00.000000",
                 "enabled": true
             }
         ],

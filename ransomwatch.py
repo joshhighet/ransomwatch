@@ -299,6 +299,7 @@ if args.mode == 'parse':
     parsers.trigona()
     parsers.crosslock()
     parsers.akira()
+    parsers.cryptnet()
     stdlog('ransomwatch: ' + 'parse run complete')
 
 if args.mode == 'list':
