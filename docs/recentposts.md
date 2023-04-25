@@ -4,6 +4,16 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-04-26 | [`www.urbanimport.com`](https://google.com/search?q=www.urbanimport.com) | [cryptnet](https://ransomwatch.telemetry.ltd/#/profiles?id=cryptnet) |
+| 2023-04-26 | [`www.exporthub.com`](https://google.com/search?q=www.exporthub.com) | [cryptnet](https://ransomwatch.telemetry.ltd/#/profiles?id=cryptnet) |
+| 2023-04-26 | [`Alliance Sports Group (THE PIONEER OF  BLOG)`](https://google.com/search?q=Alliance+Sports+Group+%28THE+PIONEER+OF++BLOG%29) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
+| 2023-04-26 | [`Settlement Music School`](https://google.com/search?q=Settlement+Music+School) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
+| 2023-04-26 | [`Schottenstein Property Group Inc`](https://google.com/search?q=Schottenstein+Property+Group+Inc) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
+| 2023-04-26 | [`Thompson Builders`](https://google.com/search?q=Thompson+Builders) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
+| 2023-04-26 | [`Rockbridge Capital`](https://google.com/search?q=Rockbridge+Capital) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
+| 2023-04-25 | [`Transformative Healthcare`](https://google.com/search?q=Transformative+Healthcare) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
+| 2023-04-25 | [`Agensi Kaunseling dan Pengurusan Kredit`](https://google.com/search?q=Agensi+Kaunseling+dan+Pengurusan+Kredit) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
+| 2023-04-25 | [`BERNINA International AG`](https://google.com/search?q=BERNINA+International+AG) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-04-25 | [`CANTALK, Canadian translation services - Leak`](https://google.com/search?q=CANTALK%2C+Canadian+translation+services+-+Leak) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
 | 2023-04-25 | [`sunnydesigns.com`](https://google.com/search?q=sunnydesigns.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-04-25 | [`ptow.com`](https://google.com/search?q=ptow.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -194,13 +204,3 @@ _last `200` posts_
 | 2023-04-11 | [`comacchio.com`](https://google.com/search?q=comacchio.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-04-11 | [`uhloans.com`](https://google.com/search?q=uhloans.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-04-11 | [`cezam.net`](https://google.com/search?q=cezam.net) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-04-11 | [`*************`](https://google.com/search?q=%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2023-04-11 | [`Flensburger Schiffbau Gesellschaft mbH and Co. and Nobiskrug Yachts GmbH`](https://google.com/search?q=Flensburger+Schiffbau+Gesellschaft+mbH+and+Co.+and+Nobiskrug+Yachts+GmbH) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2023-04-11 | [`manfil.com.br`](https://google.com/search?q=manfil.com.br) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-04-11 | [`valleywomenshealth`](https://google.com/search?q=valleywomenshealth) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-04-11 | [`arcc.org`](https://google.com/search?q=arcc.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-04-11 | [`Smith Industries`](https://google.com/search?q=Smith+Industries) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2023-04-10 | [`Incredible Technologies`](https://google.com/search?q=Incredible+Technologies) | [dunghill_leak](https://ransomwatch.telemetry.ltd/#/profiles?id=dunghill_leak) |
-| 2023-04-10 | [`bsw-architects.com`](https://google.com/search?q=bsw-architects.com) | [ransomblog_noname](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomblog_noname) |
-| 2023-04-10 | [`http://www.stanleyelectricus.com`](https://google.com/search?q=http%3A%2F%2Fwww.stanleyelectricus.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
-| 2023-04-10 | [`Co. and Nobiskrug Yachts GmbH`](https://google.com/search?q=Co.+and+Nobiskrug+Yachts+GmbH) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
