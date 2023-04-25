@@ -4,6 +4,13 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-04-25 | [`Bilstein GmbH`](https://google.com/search?q=Bilstein+GmbH) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2023-04-25 | [`Falcon Express Transportation, Inc.`](https://google.com/search?q=Falcon+Express+Transportation%2C+Inc.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2023-04-25 | [`General Plug and Manufacturing`](https://google.com/search?q=General+Plug+and+Manufacturing) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2023-04-25 | [`GROUPE ETIC`](https://google.com/search?q=GROUPE+ETIC) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2023-04-25 | [`XPress Cargo`](https://google.com/search?q=XPress+Cargo) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2023-04-25 | [`A***** *** * ******* S*******`](https://google.com/search?q=A%2A%2A%2A%2A%2A+%2A%2A%2A+%2A+%2A%2A%2A%2A%2A%2A%2A+S%2A%2A%2A%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2023-04-25 | [`keystonesmiles.org`](https://google.com/search?q=keystonesmiles.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-04-25 | [`Magnolia Care Center`](https://google.com/search?q=Magnolia+Care+Center) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-04-25 | [`ultimateimageprinting.com`](https://google.com/search?q=ultimateimageprinting.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-04-25 | [`http://www.encompassgroup.com`](https://google.com/search?q=http%3A%2F%2Fwww.encompassgroup.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
@@ -197,10 +204,3 @@ _last `200` posts_
 | 2023-04-10 | [`http://www.bigassfans.com`](https://google.com/search?q=http%3A%2F%2Fwww.bigassfans.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
 | 2023-04-10 | [`mundocuervo.com`](https://google.com/search?q=mundocuervo.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-04-10 | [`aek.mk`](https://google.com/search?q=aek.mk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-04-10 | [`Scantibodies Laboratory, Inc.`](https://google.com/search?q=Scantibodies+Laboratory%2C+Inc.) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
-| 2023-04-09 | [`Creation Baumann`](https://google.com/search?q=Creation+Baumann) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
-| 2023-04-09 | [`Crown Grinding & Machining`](https://google.com/search?q=Crown+Grinding+%26+Machining) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
-| 2023-04-09 | [`Cementos Bio-Bio`](https://google.com/search?q=Cementos+Bio-Bio) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
-| 2023-04-09 | [`City of Collegedale`](https://google.com/search?q=City+of+Collegedale) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
-| 2023-04-09 | [`Palo Alto County Sheriff`](https://google.com/search?q=Palo+Alto+County+Sheriff) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-04-09 | [`PKF Antares`](https://google.com/search?q=PKF+Antares) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
