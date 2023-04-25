@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-04-25 | [`CANTALK, Canadian translation services - Leak`](https://google.com/search?q=CANTALK%2C+Canadian+translation+services+-+Leak) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
 | 2023-04-25 | [`sunnydesigns.com`](https://google.com/search?q=sunnydesigns.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-04-25 | [`ptow.com`](https://google.com/search?q=ptow.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-04-25 | [`peachtree-medical.com`](https://google.com/search?q=peachtree-medical.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-04-10 | [`bsw-architects.com`](https://google.com/search?q=bsw-architects.com) | [ransomblog_noname](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomblog_noname) |
 | 2023-04-10 | [`http://www.stanleyelectricus.com`](https://google.com/search?q=http%3A%2F%2Fwww.stanleyelectricus.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
 | 2023-04-10 | [`Co. and Nobiskrug Yachts GmbH`](https://google.com/search?q=Co.+and+Nobiskrug+Yachts+GmbH) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2023-04-10 | [`Harvard Energy`](https://google.com/search?q=Harvard+Energy) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
