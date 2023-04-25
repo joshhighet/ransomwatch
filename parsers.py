@@ -985,3 +985,15 @@ def crosslock():
         errlog('crosslock: ' + 'parsing fail')
     for post in posts:
         appender(post, 'crosslock')
+
+def akira():
+    stdlog('parser: ' + 'akira')
+    # gsub used as title fields contain newlines
+    parser = '''
+    jq -j '.[] | .title |= gsub("\n"; " ") | .title, "\n"' source/akira-*.html | sed -e 's/^ *//g' -e 's/[[:space:]]*$//'
+    '''
+    posts = runshellcmd(parser)
+    if len(posts) == 1:
+        errlog('akira: ' + 'parsing fail')
+    for post in posts:
+        appender(post, 'akira')

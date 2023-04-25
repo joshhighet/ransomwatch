@@ -298,6 +298,7 @@ if args.mode == 'parse':
     parsers.dunghill_leak()
     parsers.trigona()
     parsers.crosslock()
+    parsers.akira()
     stdlog('ransomwatch: ' + 'parse run complete')
 
 if args.mode == 'list':
