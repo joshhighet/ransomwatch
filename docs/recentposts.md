@@ -11,6 +11,7 @@ _last `200` posts_
 | 2023-04-26 | [`Schottenstein Property Group Inc`](https://google.com/search?q=Schottenstein+Property+Group+Inc) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-04-26 | [`Thompson Builders`](https://google.com/search?q=Thompson+Builders) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-04-26 | [`Rockbridge Capital`](https://google.com/search?q=Rockbridge+Capital) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
+| 2023-04-26 | [`Agensi Kaunseling dan Pengurusan Kredit (Credit Consulting and Management Agency of Malays`](https://google.com/search?q=Agensi+Kaunseling+dan+Pengurusan+Kredit+%28Credit+Consulting+and+Management+Agency+of+Malays) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-04-25 | [`Transformative Healthcare`](https://google.com/search?q=Transformative+Healthcare) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-04-25 | [`Agensi Kaunseling dan Pengurusan Kredit`](https://google.com/search?q=Agensi+Kaunseling+dan+Pengurusan+Kredit) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-04-25 | [`BERNINA International AG`](https://google.com/search?q=BERNINA+International+AG) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-04-11 | [`conseildelentente.org`](https://google.com/search?q=conseildelentente.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-04-11 | [`comacchio.com`](https://google.com/search?q=comacchio.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-04-11 | [`uhloans.com`](https://google.com/search?q=uhloans.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-04-11 | [`cezam.net`](https://google.com/search?q=cezam.net) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
