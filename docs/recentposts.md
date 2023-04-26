@@ -4,6 +4,15 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-04-26 | [`4LEAF, Inc`](https://google.com/search?q=4LEAF%2C+Inc) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
+| 2023-04-26 | [`Pak-Rite, Ltd.`](https://google.com/search?q=Pak-Rite%2C+Ltd.) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
+| 2023-04-26 | [`silbon.es`](https://google.com/search?q=silbon.es) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-04-26 | [`fsdc.org.hk`](https://google.com/search?q=fsdc.org.hk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-04-26 | [`cdcbmestihl.com`](https://google.com/search?q=cdcbmestihl.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-04-26 | [`bg2i.fr`](https://google.com/search?q=bg2i.fr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-04-26 | [`OMT Officine Meccaniche Torino S.p.A.`](https://google.com/search?q=OMT+Officine+Meccaniche+Torino+S.p.A.) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
+| 2023-04-26 | [`Tranztec Solutions`](https://google.com/search?q=Tranztec+Solutions) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
+| 2023-04-26 | [`HOT NEWS`](https://google.com/search?q=HOT+NEWS) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2023-04-26 | [`Fundação Carlos Chagas`](https://google.com/search?q=Funda%C3%A7%C3%A3o+Carlos+Chagas) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-04-26 | [`MultiCareInc pt.2`](https://google.com/search?q=MultiCareInc+pt.2) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2023-04-26 | [`Family Day Care Services`](https://google.com/search?q=Family+Day+Care+Services) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
@@ -195,12 +204,3 @@ _last `200` posts_
 | 2023-04-13 | [`apro.cl`](https://google.com/search?q=apro.cl) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-04-13 | [`teleferico.com`](https://google.com/search?q=teleferico.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-04-12 | [`https://https://www.sippex.com`](https://google.com/search?q=https%3A%2F%2Fhttps%3A%2F%2Fwww.sippex.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
-| 2023-04-12 | [`CH Media`](https://google.com/search?q=CH+Media) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-04-12 | [`Petaluma Health Center`](https://google.com/search?q=Petaluma+Health+Center) | [karakurt](https://ransomwatch.telemetry.ltd/#/profiles?id=karakurt) |
-| 2023-04-12 | [`http://einhaus-gruppe.de`](https://google.com/search?q=http%3A%2F%2Feinhaus-gruppe.de) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
-| 2023-04-12 | [`Medicalodges, Inc`](https://google.com/search?q=Medicalodges%2C+Inc) | [karakurt](https://ransomwatch.telemetry.ltd/#/profiles?id=karakurt) |
-| 2023-04-12 | [`DAVIDSBROWN_2`](https://google.com/search?q=DAVIDSBROWN_2) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2023-04-11 | [`PESA Bydgoszcz`](https://google.com/search?q=PESA+Bydgoszcz) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-04-11 | [`servex-us.com`](https://google.com/search?q=servex-us.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-04-11 | [`robovic.com`](https://google.com/search?q=robovic.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-04-11 | [`medmark.eg`](https://google.com/search?q=medmark.eg) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
