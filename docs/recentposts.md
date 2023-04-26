@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-04-26 | [`accesscontrolsecurity.com`](https://google.com/search?q=accesscontrolsecurity.com) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
+| 2023-04-26 | [`e-Hazard or ArcWear (press release)`](https://google.com/search?q=e-Hazard+or+ArcWear+%28press+release%29) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-04-26 | [`4LEAF, Inc`](https://google.com/search?q=4LEAF%2C+Inc) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-04-26 | [`Pak-Rite, Ltd.`](https://google.com/search?q=Pak-Rite%2C+Ltd.) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-04-26 | [`silbon.es`](https://google.com/search?q=silbon.es) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-04-13 | [`darktrace.com`](https://google.com/search?q=darktrace.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-04-13 | [`bcncruiseport.com`](https://google.com/search?q=bcncruiseport.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-04-13 | [`apro.cl`](https://google.com/search?q=apro.cl) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-04-13 | [`teleferico.com`](https://google.com/search?q=teleferico.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-04-12 | [`https://https://www.sippex.com`](https://google.com/search?q=https%3A%2F%2Fhttps%3A%2F%2Fwww.sippex.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
