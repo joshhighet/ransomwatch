@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-04-26 | [`Bevan Group`](https://google.com/search?q=Bevan+Group) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
+| 2023-04-26 | [`GT Group`](https://google.com/search?q=GT+Group) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2023-04-26 | [`www.urbanimport.com`](https://google.com/search?q=www.urbanimport.com) | [cryptnet](https://ransomwatch.telemetry.ltd/#/profiles?id=cryptnet) |
 | 2023-04-26 | [`www.exporthub.com`](https://google.com/search?q=www.exporthub.com) | [cryptnet](https://ransomwatch.telemetry.ltd/#/profiles?id=cryptnet) |
 | 2023-04-26 | [`Alliance Sports Group (THE PIONEER OF  BLOG)`](https://google.com/search?q=Alliance+Sports+Group+%28THE+PIONEER+OF++BLOG%29) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-04-11 | [`irda.com.my`](https://google.com/search?q=irda.com.my) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-04-11 | [`grouplease.co.th`](https://google.com/search?q=grouplease.co.th) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-04-11 | [`conseildelentente.org`](https://google.com/search?q=conseildelentente.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-04-11 | [`comacchio.com`](https://google.com/search?q=comacchio.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-04-11 | [`uhloans.com`](https://google.com/search?q=uhloans.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
