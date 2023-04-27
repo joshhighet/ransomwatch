@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-04-27 | [`MasterCorp`](https://google.com/search?q=MasterCorp) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2023-04-27 | [`CoachComm`](https://google.com/search?q=CoachComm) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2023-04-27 | [`NA_2`](https://google.com/search?q=NA_2) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2023-04-27 | [`multimedica.it`](https://google.com/search?q=multimedica.it) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-04-13 | [`Tennessee State University`](https://google.com/search?q=Tennessee+State+University) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-04-13 | [`Encompass Technologies`](https://google.com/search?q=Encompass+Technologies) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-04-13 | [`IDEXX`](https://google.com/search?q=IDEXX) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2023-04-13 | [`Retina and Vitreous of Texas`](https://google.com/search?q=Retina+and+Vitreous+of+Texas) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
