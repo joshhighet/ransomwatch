@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-04-28 | [`hwlebsworth`](https://google.com/search?q=hwlebsworth) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-04-27 | [`e-Hazard.com and ArcWear.com (with data)`](https://google.com/search?q=e-Hazard.com+and+ArcWear.com+%28with+data%29) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-04-27 | [`Smith & Sharp`](https://google.com/search?q=Smith+%26+Sharp) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-04-27 | [`La Red Health Center`](https://google.com/search?q=La+Red+Health+Center) | [karakurt](https://ransomwatch.telemetry.ltd/#/profiles?id=karakurt) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-04-13 | [`Aerowind`](https://google.com/search?q=Aerowind) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-04-13 | [`Capstan Atlantic`](https://google.com/search?q=Capstan+Atlantic) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-04-13 | [`Faps`](https://google.com/search?q=Faps) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2023-04-13 | [`Southeastern University`](https://google.com/search?q=Southeastern+University) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
