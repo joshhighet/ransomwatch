@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-04-28 | [`TAMMAC`](https://google.com/search?q=TAMMAC) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2023-04-28 | [`BLUME_2`](https://google.com/search?q=BLUME_2) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2023-04-28 | [`AUTOCAM-MEDICAL_2`](https://google.com/search?q=AUTOCAM-MEDICAL_2) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2023-04-28 | [`ANTON-PAAR_2`](https://google.com/search?q=ANTON-PAAR_2) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2023-04-28 | [`GC-EMPLOYMENT.COM`](https://google.com/search?q=GC-EMPLOYMENT.COM) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-04-28 | [`hwlebsworth`](https://google.com/search?q=hwlebsworth) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2023-04-13 | [`sanden.com.ph`](https://google.com/search?q=sanden.com.ph) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-04-13 | [`piszcz.pl`](https://google.com/search?q=piszcz.pl) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-04-13 | [`Yucatan`](https://google.com/search?q=Yucatan) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-04-13 | [`SAFHOLLAND`](https://google.com/search?q=SAFHOLLAND) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-04-13 | [`Levales Solicitors LLP`](https://google.com/search?q=Levales+Solicitors+LLP) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2023-04-13 | [`Aerowind`](https://google.com/search?q=Aerowind) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
