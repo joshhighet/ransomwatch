@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-04-29 | [`logicalsolutions.bc.ca`](https://google.com/search?q=logicalsolutions.bc.ca) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-04-29 | [`Colvill Banks Ltd`](https://google.com/search?q=Colvill+Banks+Ltd) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2023-04-29 | [`Our Sunday Visitor`](https://google.com/search?q=Our+Sunday+Visitor) | [karakurt](https://ransomwatch.telemetry.ltd/#/profiles?id=karakurt) |
 | 2023-04-29 | [`ourrelentlesschurch.com`](https://google.com/search?q=ourrelentlesschurch.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-04-29 | [`conver-pack.com`](https://google.com/search?q=conver-pack.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-04-15 | [`Esperanza Viva Jóvenes de México`](https://google.com/search?q=Esperanza+Viva+J%C3%B3venes+de+M%C3%A9xico) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
 | 2023-04-15 | [`Gulliver International`](https://google.com/search?q=Gulliver+International) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
 | 2023-04-15 | [`Saobacdau Technologies Group`](https://google.com/search?q=Saobacdau+Technologies+Group) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
-| 2023-04-15 | [`Aloha Enteprise [NCR]`](https://google.com/search?q=Aloha+Enteprise+%5BNCR%5D) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-04-15 | [`Allimand, France`](https://google.com/search?q=Allimand%2C+France) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
