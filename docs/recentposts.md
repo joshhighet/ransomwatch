@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-04-30 | [`https://https://www.siix.co.jp`](https://google.com/search?q=https%3A%2F%2Fhttps%3A%2F%2Fwww.siix.co.jp) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
+| 2023-04-30 | [`CMC Group`](https://google.com/search?q=CMC+Group) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2023-04-29 | [`KMC Savills`](https://google.com/search?q=KMC+Savills) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-04-29 | [`Sherman Consulting Services`](https://google.com/search?q=Sherman+Consulting+Services) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-04-29 | [`logicalsolutions.bc.ca`](https://google.com/search?q=logicalsolutions.bc.ca) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-04-16 | [`http://www.talonoutdoor.com`](https://google.com/search?q=http%3A%2F%2Fwww.talonoutdoor.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
 | 2023-04-16 | [`http://dataram.com`](https://google.com/search?q=http%3A%2F%2Fdataram.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
 | 2023-04-15 | [`CommScope`](https://google.com/search?q=CommScope) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
-| 2023-04-15 | [`Leadway Assurance Company Limited`](https://google.com/search?q=Leadway+Assurance+Company+Limited) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-04-15 | [`Esperanza Viva Jóvenes de México`](https://google.com/search?q=Esperanza+Viva+J%C3%B3venes+de+M%C3%A9xico) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
