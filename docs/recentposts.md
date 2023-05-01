@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-05-01 | [`Manufacturing`](https://google.com/search?q=Manufacturing) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2023-05-01 | [`*.A. ********* and *******, ***.`](https://google.com/search?q=%2A.A.+%2A%2A%2A%2A%2A%2A%2A%2A%2A+and+%2A%2A%2A%2A%2A%2A%2A%2C+%2A%2A%2A.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-05-01 | [`Fee, Smith & Sharp`](https://google.com/search?q=Fee%2C+Smith+%26+Sharp) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-05-01 | [`BridgeValley Community & Technical`](https://google.com/search?q=BridgeValley+Community+%26+Technical) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-05-01 | [`http://www.edisonlearning.com`](https://google.com/search?q=http%3A%2F%2Fwww.edisonlearning.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-04-17 | [`SPARTAN Light Metal Products Inc`](https://google.com/search?q=SPARTAN+Light+Metal+Products+Inc) | [unsafeleak](https://ransomwatch.telemetry.ltd/#/profiles?id=unsafeleak) |
 | 2023-04-17 | [`brl.fr`](https://google.com/search?q=brl.fr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-04-17 | [`alpine4u.com`](https://google.com/search?q=alpine4u.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-04-17 | [`Uniondale School District`](https://google.com/search?q=Uniondale+School+District) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
-| 2023-04-17 | [`http://www.swansongroup.biz`](https://google.com/search?q=http%3A%2F%2Fwww.swansongroup.biz) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
