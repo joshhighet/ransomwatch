@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-05-02 | [`http://www.gfcmsu.edu`](https://google.com/search?q=http%3A%2F%2Fwww.gfcmsu.edu) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
+| 2023-05-02 | [`http://www.montana.edu`](https://google.com/search?q=http%3A%2F%2Fwww.montana.edu) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
+| 2023-05-02 | [`Tony Clark Consulting`](https://google.com/search?q=Tony+Clark+Consulting) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-05-01 | [`Manufacturing`](https://google.com/search?q=Manufacturing) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-05-01 | [`*.A. ********* and *******, ***.`](https://google.com/search?q=%2A.A.+%2A%2A%2A%2A%2A%2A%2A%2A%2A+and+%2A%2A%2A%2A%2A%2A%2A%2C+%2A%2A%2A.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-05-01 | [`Fee, Smith & Sharp`](https://google.com/search?q=Fee%2C+Smith+%26+Sharp) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2023-04-17 | [`pinelandschool.org`](https://google.com/search?q=pinelandschool.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-04-17 | [`joriszorg.nl`](https://google.com/search?q=joriszorg.nl) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-04-17 | [`hkiff.org.hk`](https://google.com/search?q=hkiff.org.hk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-04-17 | [`SPARTAN Light Metal Products Inc`](https://google.com/search?q=SPARTAN+Light+Metal+Products+Inc) | [unsafeleak](https://ransomwatch.telemetry.ltd/#/profiles?id=unsafeleak) |
-| 2023-04-17 | [`brl.fr`](https://google.com/search?q=brl.fr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-04-17 | [`alpine4u.com`](https://google.com/search?q=alpine4u.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
