@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-05-02 | [`Lincoln Wood Products`](https://google.com/search?q=Lincoln+Wood+Products) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2023-05-02 | [`Alto Calore Servizi S.p.A.`](https://google.com/search?q=Alto+Calore+Servizi+S.p.A.) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-05-02 | [`Polat Yol Yap`](https://google.com/search?q=Polat+Yol+Yap) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-05-02 | [`ambit.co - finvest.ambit.co Private Banking`](https://google.com/search?q=ambit.co+-+finvest.ambit.co+Private+Banking) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-04-18 | [`McKinney Trailers`](https://google.com/search?q=McKinney+Trailers) | [trigona](https://ransomwatch.telemetry.ltd/#/profiles?id=trigona) |
 | 2023-04-18 | [`pandol.com`](https://google.com/search?q=pandol.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
 | 2023-04-18 | [`Lakeland Community College`](https://google.com/search?q=Lakeland+Community+College) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
-| 2023-04-18 | [`Western Intelligence or Western Digital: The Fine Line Between Selling Drives and Espionag`](https://google.com/search?q=Western+Intelligence+or+Western+Digital%3A+The+Fine+Line+Between+Selling+Drives+and+Espionag) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
