@@ -4,6 +4,11 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-05-02 | [`hasenauer-anlagenbau.at`](https://google.com/search?q=hasenauer-anlagenbau.at) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-05-02 | [`cloud51.com`](https://google.com/search?q=cloud51.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-05-02 | [`baycrestpartners.com`](https://google.com/search?q=baycrestpartners.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-05-02 | [`AvidXchange`](https://google.com/search?q=AvidXchange) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
+| 2023-05-02 | [`MYSIMPLYGREEN.COM`](https://google.com/search?q=MYSIMPLYGREEN.COM) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-05-02 | [`American Foam & Packaging`](https://google.com/search?q=American+Foam+%26+Packaging) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-05-02 | [`Lincoln Wood Products`](https://google.com/search?q=Lincoln+Wood+Products) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2023-05-02 | [`Alto Calore Servizi S.p.A.`](https://google.com/search?q=Alto+Calore+Servizi+S.p.A.) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
@@ -199,8 +204,3 @@ _last `200` posts_
 | 2023-04-18 | [`MEADE`](https://google.com/search?q=MEADE) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2023-04-18 | [`validcertificadora.com.br`](https://google.com/search?q=validcertificadora.com.br) | [crosslock](https://ransomwatch.telemetry.ltd/#/profiles?id=crosslock) |
 | 2023-04-18 | [`Amouage`](https://google.com/search?q=Amouage) | [trigona](https://ransomwatch.telemetry.ltd/#/profiles?id=trigona) |
-| 2023-04-18 | [`Winter Park Construction`](https://google.com/search?q=Winter+Park+Construction) | [trigona](https://ransomwatch.telemetry.ltd/#/profiles?id=trigona) |
-| 2023-04-18 | [`Office Notarial de Baillargues`](https://google.com/search?q=Office+Notarial+de+Baillargues) | [trigona](https://ransomwatch.telemetry.ltd/#/profiles?id=trigona) |
-| 2023-04-18 | [`Albany Clinic`](https://google.com/search?q=Albany+Clinic) | [trigona](https://ransomwatch.telemetry.ltd/#/profiles?id=trigona) |
-| 2023-04-18 | [`McKinney Trailers`](https://google.com/search?q=McKinney+Trailers) | [trigona](https://ransomwatch.telemetry.ltd/#/profiles?id=trigona) |
-| 2023-04-18 | [`pandol.com`](https://google.com/search?q=pandol.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
