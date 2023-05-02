@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-05-02 | [`Brighton Hill Community School`](https://google.com/search?q=Brighton+Hill+Community+School) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
+| 2023-05-02 | [`EirMed Devices, part of TRELLEBORG`](https://google.com/search?q=EirMed+Devices%2C+part+of+TRELLEBORG) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-05-02 | [`http://www.gfcmsu.edu`](https://google.com/search?q=http%3A%2F%2Fwww.gfcmsu.edu) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
 | 2023-05-02 | [`http://www.montana.edu`](https://google.com/search?q=http%3A%2F%2Fwww.montana.edu) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
 | 2023-05-02 | [`Tony Clark Consulting`](https://google.com/search?q=Tony+Clark+Consulting) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-04-18 | [`thesoftwareconsultinggroup.com`](https://google.com/search?q=thesoftwareconsultinggroup.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-04-17 | [`Pharm-Pacc Corporation`](https://google.com/search?q=Pharm-Pacc+Corporation) | [karakurt](https://ransomwatch.telemetry.ltd/#/profiles?id=karakurt) |
 | 2023-04-17 | [`pinelandschool.org`](https://google.com/search?q=pinelandschool.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-04-17 | [`joriszorg.nl`](https://google.com/search?q=joriszorg.nl) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-04-17 | [`hkiff.org.hk`](https://google.com/search?q=hkiff.org.hk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
