@@ -4,6 +4,15 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-05-03 | [`SIVSA, Coremain`](https://google.com/search?q=SIVSA%2C+Coremain) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-05-03 | [`Nova Group`](https://google.com/search?q=Nova+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-05-03 | [`City of Lowell`](https://google.com/search?q=City+of+Lowell) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-05-03 | [`DGC`](https://google.com/search?q=DGC) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-05-03 | [`Libra Virtua`](https://google.com/search?q=Libra+Virtua) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-05-03 | [`Commune de Saxon`](https://google.com/search?q=Commune+de+Saxon) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-05-03 | [`Negma Business Solutions`](https://google.com/search?q=Negma+Business+Solutions) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-05-03 | [`Vocalcom`](https://google.com/search?q=Vocalcom) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-05-03 | [`https://https://www.groppernejat.com/`](https://google.com/search?q=https%3A%2F%2Fhttps%3A%2F%2Fwww.groppernejat.com%2F) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2023-05-03 | [`Woonkracht10`](https://google.com/search?q=Woonkracht10) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-05-03 | [`Carrington Group`](https://google.com/search?q=Carrington+Group) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2023-05-03 | [`ASL 1 - Avezzano Sulmona L'Aquila`](https://google.com/search?q=ASL+1+-+Avezzano+Sulmona+L%27Aquila) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
@@ -195,12 +204,3 @@ _last `200` posts_
 | 2023-04-19 | [`S****** ********** ******** M****** ********** Inc.`](https://google.com/search?q=S%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A%2A+M%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A+Inc.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-04-19 | [`V******* ****** ** ************`](https://google.com/search?q=V%2A%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A+%2A%2A+%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-04-19 | [`sommer.eu`](https://google.com/search?q=sommer.eu) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-04-19 | [`jaco.com`](https://google.com/search?q=jaco.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-04-19 | [`gizavc.com`](https://google.com/search?q=gizavc.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-04-19 | [`garrotbros.com`](https://google.com/search?q=garrotbros.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-04-19 | [`bancodevenezuela.com`](https://google.com/search?q=bancodevenezuela.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-04-19 | [`SPOONER`](https://google.com/search?q=SPOONER) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2023-04-19 | [`DOREL`](https://google.com/search?q=DOREL) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2023-04-19 | [`2_BPCDOMAIN`](https://google.com/search?q=2_BPCDOMAIN) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2023-04-19 | [`sbhc.us`](https://google.com/search?q=sbhc.us) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-04-19 | [`7G Distributing`](https://google.com/search?q=7G+Distributing) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
