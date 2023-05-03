@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-05-03 | [`Lawrence Family Development Charter School`](https://google.com/search?q=Lawrence+Family+Development+Charter+School) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
 | 2023-05-02 | [`hasenauer-anlagenbau.at`](https://google.com/search?q=hasenauer-anlagenbau.at) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-05-02 | [`cloud51.com`](https://google.com/search?q=cloud51.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-05-02 | [`baycrestpartners.com`](https://google.com/search?q=baycrestpartners.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-04-18 | [`Ozarks Community Hospital`](https://google.com/search?q=Ozarks+Community+Hospital) | [karakurt](https://ransomwatch.telemetry.ltd/#/profiles?id=karakurt) |
 | 2023-04-18 | [`MEADE`](https://google.com/search?q=MEADE) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2023-04-18 | [`validcertificadora.com.br`](https://google.com/search?q=validcertificadora.com.br) | [crosslock](https://ransomwatch.telemetry.ltd/#/profiles?id=crosslock) |
-| 2023-04-18 | [`Amouage`](https://google.com/search?q=Amouage) | [trigona](https://ransomwatch.telemetry.ltd/#/profiles?id=trigona) |
