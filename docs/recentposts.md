@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-05-04 | [`The Crown Princess Mary Cancer Centre`](https://google.com/search?q=The+Crown+Princess+Mary+Cancer+Centre) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
+| 2023-05-04 | [`IDTECHPRODUCTS.COM`](https://google.com/search?q=IDTECHPRODUCTS.COM) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-05-04 | [`http://www.midwesttruck.com`](https://google.com/search?q=http%3A%2F%2Fwww.midwesttruck.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
 | 2023-05-03 | [`SIVSA, Coremain`](https://google.com/search?q=SIVSA%2C+Coremain) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-05-03 | [`Nova Group`](https://google.com/search?q=Nova+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-04-19 | [`M**** ****`](https://google.com/search?q=M%2A%2A%2A%2A+%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-04-19 | [`M***** *****-*******`](https://google.com/search?q=M%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A-%2A%2A%2A%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-04-19 | [`P****** ******`](https://google.com/search?q=P%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2023-04-19 | [`S****** ********** ******** M****** ********** Inc.`](https://google.com/search?q=S%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A%2A+M%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A+Inc.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2023-04-19 | [`V******* ****** ** ************`](https://google.com/search?q=V%2A%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A+%2A%2A+%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
