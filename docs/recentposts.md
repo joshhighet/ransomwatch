@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-05-04 | [`Forest Ridge`](https://google.com/search?q=Forest+Ridge) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2023-05-04 | [`Gihealthcare`](https://google.com/search?q=Gihealthcare) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
 | 2023-05-04 | [`The Crown Princess Mary Cancer Centre`](https://google.com/search?q=The+Crown+Princess+Mary+Cancer+Centre) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-05-04 | [`IDTECHPRODUCTS.COM`](https://google.com/search?q=IDTECHPRODUCTS.COM) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-04-19 | [`L****** H*********`](https://google.com/search?q=L%2A%2A%2A%2A%2A%2A+H%2A%2A%2A%2A%2A%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-04-19 | [`L********`](https://google.com/search?q=L%2A%2A%2A%2A%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-04-19 | [`M**** ****`](https://google.com/search?q=M%2A%2A%2A%2A+%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2023-04-19 | [`M***** *****-*******`](https://google.com/search?q=M%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A-%2A%2A%2A%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
