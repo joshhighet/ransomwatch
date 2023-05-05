@@ -4,6 +4,12 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-05-05 | [`B** ******* *********`](https://google.com/search?q=B%2A%2A+%2A%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2023-05-05 | [`C******* **********`](https://google.com/search?q=C%2A%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2023-05-05 | [`M*********** ******* ******`](https://google.com/search?q=M%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2023-05-05 | [`N******** ********`](https://google.com/search?q=N%2A%2A%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2023-05-05 | [`Coteccons Group was hacked. One of the most insecure construction companies in Asia has le`](https://google.com/search?q=Coteccons+Group+was+hacked.+One+of+the+most+insecure+construction+companies+in+Asia+has+le) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
+| 2023-05-05 | [`KKDI.CO.ID including companies AICC, JBI, TJFI (part of the kddi.com holding company, whos`](https://google.com/search?q=KKDI.CO.ID+including+companies+AICC%2C+JBI%2C+TJFI+%28part+of+the+kddi.com+holding+company%2C+whos) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-05-05 | [`The Perry Law Firm`](https://google.com/search?q=The+Perry+Law+Firm) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-05-05 | [`The Lab Consulting`](https://google.com/search?q=The+Lab+Consulting) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-05-05 | [`R**** ******`](https://google.com/search?q=R%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
@@ -198,9 +204,3 @@ _last `200` posts_
 | 2023-04-21 | [`soshin.co.jp`](https://google.com/search?q=soshin.co.jp) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-04-21 | [`soapro.ao`](https://google.com/search?q=soapro.ao) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-04-21 | [`pkffinconta.ro`](https://google.com/search?q=pkffinconta.ro) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-04-21 | [`ibp.com.br`](https://google.com/search?q=ibp.com.br) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-04-21 | [`tubosreunidosgroup.com`](https://google.com/search?q=tubosreunidosgroup.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-04-19 | [`intuview.com`](https://google.com/search?q=intuview.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-04-19 | [`US District Court IL / On sale`](https://google.com/search?q=US+District+Court+IL+%2F+On+sale) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
-| 2023-04-19 | [`Insurance Agency Marketing Services`](https://google.com/search?q=Insurance+Agency+Marketing+Services) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-04-19 | [`US District Court / On sale`](https://google.com/search?q=US+District+Court+%2F+On+sale) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
