@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-05-06 | [`ASL 1 - Avezzano Sulmona L'Aquila *UPDATE*`](https://google.com/search?q=ASL+1+-+Avezzano+Sulmona+L%27Aquila+%2AUPDATE%2A) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2023-05-05 | [`Sonda (Duplicate with update)`](https://google.com/search?q=Sonda+%28Duplicate+with+update%29) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-05-05 | [`Axure Software Solutions - a company with an extremely low level of protection was hacked.`](https://google.com/search?q=Axure+Software+Solutions+-+a+company+with+an+extremely+low+level+of+protection+was+hacked.) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-05-05 | [`Grupo Cativa was hacked. Huge amounts of critical information have been stolen.`](https://google.com/search?q=Grupo+Cativa+was+hacked.+Huge+amounts+of+critical+information+have+been+stolen.) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-04-21 | [`JK Residential Services was hacked. A lot of personal data was stolen.`](https://google.com/search?q=JK+Residential+Services+was+hacked.+A+lot+of+personal+data+was+stolen.) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-04-21 | [`CA de Seguros La Occidental was hacked. A huge amount of confidential data was stolen.`](https://google.com/search?q=CA+de+Seguros+La+Occidental+was+hacked.+A+huge+amount+of+confidential+data+was+stolen.) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-04-21 | [`Banco Comercial do Huambo was hacked. Africa's most insecure bank has leaked a huge amount`](https://google.com/search?q=Banco+Comercial+do+Huambo+was+hacked.+Africa%27s+most+insecure+bank+has+leaked+a+huge+amount) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-04-21 | [`Eastern Cape Gambling Board was hacked. The most dangerous gambling company for cooperatio`](https://google.com/search?q=Eastern+Cape+Gambling+Board+was+hacked.+The+most+dangerous+gambling+company+for+cooperatio) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
