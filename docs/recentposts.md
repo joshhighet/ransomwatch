@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-05-07 | [`namibmills.com`](https://google.com/search?q=namibmills.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-05-07 | [`marshallconstruction.co.uk`](https://google.com/search?q=marshallconstruction.co.uk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-05-07 | [`Eagle Eye Produce`](https://google.com/search?q=Eagle+Eye+Produce) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-05-06 | [`ASL 1 - Avezzano Sulmona L'Aquila *UPDATE*`](https://google.com/search?q=ASL+1+-+Avezzano+Sulmona+L%27Aquila+%2AUPDATE%2A) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-04-21 | [`Wynn-Reeth`](https://google.com/search?q=Wynn-Reeth) | [karakurt](https://ransomwatch.telemetry.ltd/#/profiles?id=karakurt) |
 | 2023-04-21 | [`Sasa.com - Malaysian most unsecured retailer was hacked and leaked a huge amount of confid`](https://google.com/search?q=Sasa.com+-+Malaysian+most+unsecured+retailer+was+hacked+and+leaked+a+huge+amount+of+confid) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-04-21 | [`Lisa Logística was hacked. A great amount of critical information has been stolen.`](https://google.com/search?q=Lisa+Log%C3%ADstica+was+hacked.+A+great+amount+of+critical+information+has+been+stolen.) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-04-21 | [`JK Residential Services was hacked. A lot of personal data was stolen.`](https://google.com/search?q=JK+Residential+Services+was+hacked.+A+lot+of+personal+data+was+stolen.) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
