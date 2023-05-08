@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-05-08 | [`brett-robinson.com`](https://google.com/search?q=brett-robinson.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
+| 2023-05-08 | [`avidxchange.com`](https://google.com/search?q=avidxchange.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
 | 2023-05-08 | [`unity.edu`](https://google.com/search?q=unity.edu) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-05-08 | [`stmarys.net`](https://google.com/search?q=stmarys.net) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-05-08 | [`lssny.org`](https://google.com/search?q=lssny.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-04-21 | [`VOPAK WAS HACKED. A LOT OF CRITICAL CONFIDENTIAL INFORMATION WAS STOLEN.`](https://google.com/search?q=VOPAK+WAS+HACKED.+A+LOT+OF+CRITICAL+CONFIDENTIAL+INFORMATION+WAS+STOLEN.) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-04-21 | [`Classic Stripes Pvt and Astarc Group was hacked. A huge amount of confidential data has be`](https://google.com/search?q=Classic+Stripes+Pvt+and+Astarc+Group+was+hacked.+A+huge+amount+of+confidential+data+has+be) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-04-21 | [`Global Polymers was haked. A massive amount of confidential information was stolen.`](https://google.com/search?q=Global+Polymers+was+haked.+A+massive+amount+of+confidential+information+was+stolen.) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-04-21 | [`NAIVAS WAS HACKED. A LARGE AMOUNT OF CONFIDENTIAL DATA HAS BEEN STOLEN.`](https://google.com/search?q=NAIVAS+WAS+HACKED.+A+LARGE+AMOUNT+OF+CONFIDENTIAL+DATA+HAS+BEEN+STOLEN.) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-04-21 | [`Groupe ACTIVA was hacked. The most unreliable insurance company in the world has once agai`](https://google.com/search?q=Groupe+ACTIVA+was+hacked.+The+most+unreliable+insurance+company+in+the+world+has+once+agai) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
