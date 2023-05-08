@@ -1,6 +1,6 @@
 
 ## summary
-_may 7th, 2023_
+_may 8th, 2023_
 
 currently tracking `144` groups across `260` relays & mirrors - _`106` currently online_
 
@@ -8,7 +8,7 @@ currently tracking `144` groups across `260` relays & mirrors - _`106` currently
 
 🦈 there have been `74` posts within the `month of may`
 
-🪐 there have been `1098` posts within the `last 90 days`
+🪐 there have been `1096` posts within the `last 90 days`
 
 🏚 there have been `1327` posts within the `year of 2023`
 
