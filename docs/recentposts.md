@@ -4,6 +4,10 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-05-08 | [`unity.edu`](https://google.com/search?q=unity.edu) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-05-08 | [`stmarys.net`](https://google.com/search?q=stmarys.net) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-05-08 | [`lssny.org`](https://google.com/search?q=lssny.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-05-08 | [`astate.edu`](https://google.com/search?q=astate.edu) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-05-08 | [`First Community Credit Union`](https://google.com/search?q=First+Community+Credit+Union) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-05-07 | [`namibmills.com`](https://google.com/search?q=namibmills.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-05-07 | [`marshallconstruction.co.uk`](https://google.com/search?q=marshallconstruction.co.uk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -200,7 +204,3 @@ _last `200` posts_
 | 2023-04-21 | [`Global Polymers was haked. A massive amount of confidential information was stolen.`](https://google.com/search?q=Global+Polymers+was+haked.+A+massive+amount+of+confidential+information+was+stolen.) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-04-21 | [`NAIVAS WAS HACKED. A LARGE AMOUNT OF CONFIDENTIAL DATA HAS BEEN STOLEN.`](https://google.com/search?q=NAIVAS+WAS+HACKED.+A+LARGE+AMOUNT+OF+CONFIDENTIAL+DATA+HAS+BEEN+STOLEN.) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-04-21 | [`Groupe ACTIVA was hacked. The most unreliable insurance company in the world has once agai`](https://google.com/search?q=Groupe+ACTIVA+was+hacked.+The+most+unreliable+insurance+company+in+the+world+has+once+agai) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-04-21 | [`Slade Shipping - The most insecure shipping company in the U.S. has leaked a huge amount o`](https://google.com/search?q=Slade+Shipping+-+The+most+insecure+shipping+company+in+the+U.S.+has+leaked+a+huge+amount+o) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-04-21 | [`AUT-TECH-GROUP.COM`](https://google.com/search?q=AUT-TECH-GROUP.COM) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-04-21 | [`Wynn-Reeth`](https://google.com/search?q=Wynn-Reeth) | [karakurt](https://ransomwatch.telemetry.ltd/#/profiles?id=karakurt) |
-| 2023-04-21 | [`Sasa.com - Malaysian most unsecured retailer was hacked and leaked a huge amount of confid`](https://google.com/search?q=Sasa.com+-+Malaysian+most+unsecured+retailer+was+hacked+and+leaked+a+huge+amount+of+confid) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
