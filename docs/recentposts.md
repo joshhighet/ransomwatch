@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-05-09 | [`mbwswim.com`](https://google.com/search?q=mbwswim.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-05-09 | [`Fresh Insurance IT Services`](https://google.com/search?q=Fresh+Insurance+IT+Services) | [trigona](https://ransomwatch.telemetry.ltd/#/profiles?id=trigona) |
 | 2023-05-09 | [`Altstadt Hoffman Plumbing`](https://google.com/search?q=Altstadt+Hoffman+Plumbing) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-05-09 | [`Bedford Lodge Hotel`](https://google.com/search?q=Bedford+Lodge+Hotel) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-04-24 | [`kse.org.kw`](https://google.com/search?q=kse.org.kw) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-04-24 | [`gpglobal.com`](https://google.com/search?q=gpglobal.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-04-24 | [`esinsa.com`](https://google.com/search?q=esinsa.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-04-24 | [`bigc.co.th`](https://google.com/search?q=bigc.co.th) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
