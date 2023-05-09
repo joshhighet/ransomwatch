@@ -4,6 +4,26 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-05-09 | [`Fresh Insurance IT Services`](https://google.com/search?q=Fresh+Insurance+IT+Services) | [trigona](https://ransomwatch.telemetry.ltd/#/profiles?id=trigona) |
+| 2023-05-09 | [`Altstadt Hoffman Plumbing`](https://google.com/search?q=Altstadt+Hoffman+Plumbing) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2023-05-09 | [`Bedford Lodge Hotel`](https://google.com/search?q=Bedford+Lodge+Hotel) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2023-05-09 | [`CADOpt Technologies`](https://google.com/search?q=CADOpt+Technologies) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2023-05-09 | [`Commerce Pundit`](https://google.com/search?q=Commerce+Pundit) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2023-05-09 | [`Deer Lakes School District`](https://google.com/search?q=Deer+Lakes+School+District) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2023-05-09 | [`Department of Education of the Canton of Basel-Stadt`](https://google.com/search?q=Department+of+Education+of+the+Canton+of+Basel-Stadt) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2023-05-09 | [`Entelect`](https://google.com/search?q=Entelect) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2023-05-09 | [`Greenslade Taylor Hunt`](https://google.com/search?q=Greenslade+Taylor+Hunt) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2023-05-09 | [`Humana`](https://google.com/search?q=Humana) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2023-05-09 | [`IDEM Safety Switches`](https://google.com/search?q=IDEM+Safety+Switches) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2023-05-09 | [`Lifenet`](https://google.com/search?q=Lifenet) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2023-05-09 | [`Logisuite`](https://google.com/search?q=Logisuite) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2023-05-09 | [`Manoir Saint-Sauveur`](https://google.com/search?q=Manoir+Saint-Sauveur) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2023-05-09 | [`Mercy Home`](https://google.com/search?q=Mercy+Home) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2023-05-09 | [`Synergy Hematology Oncology Medical Associates Inc.`](https://google.com/search?q=Synergy+Hematology+Oncology+Medical+Associates+Inc.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2023-05-09 | [`The Pilgrim School`](https://google.com/search?q=The+Pilgrim+School) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2023-05-09 | [`interfides.de`](https://google.com/search?q=interfides.de) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-05-09 | [`hk-finance.pl`](https://google.com/search?q=hk-finance.pl) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-05-09 | [`cbelaw.com`](https://google.com/search?q=cbelaw.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-05-09 | [`KLC Network Services`](https://google.com/search?q=KLC+Network+Services) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-05-08 | [`ASL 1 - Avezzano Sulmona L'Aquila *first 10gb upload*`](https://google.com/search?q=ASL+1+-+Avezzano+Sulmona+L%27Aquila+%2Afirst+10gb+upload%2A) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2023-05-08 | [`{UPD} Control & Automation technology - LUX Automation`](https://google.com/search?q=%7BUPD%7D+Control+%26+Automation+technology+-+LUX+Automation) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
@@ -184,23 +204,3 @@ _last `200` posts_
 | 2023-04-24 | [`gpglobal.com`](https://google.com/search?q=gpglobal.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-04-24 | [`esinsa.com`](https://google.com/search?q=esinsa.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-04-24 | [`bigc.co.th`](https://google.com/search?q=bigc.co.th) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-04-24 | [`apolloscientific.co.uk`](https://google.com/search?q=apolloscientific.co.uk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-04-24 | [`fullertonindia.com`](https://google.com/search?q=fullertonindia.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-04-24 | [`http://www.ldisd.net`](https://google.com/search?q=http%3A%2F%2Fwww.ldisd.net) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
-| 2023-04-24 | [`http://www.mwcomponents.com`](https://google.com/search?q=http%3A%2F%2Fwww.mwcomponents.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
-| 2023-04-24 | [`http://clarkehosp.org`](https://google.com/search?q=http%3A%2F%2Fclarkehosp.org) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
-| 2023-04-23 | [`WestcoastSmile Dental Studio`](https://google.com/search?q=WestcoastSmile+Dental+Studio) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
-| 2023-04-23 | [`norton.com.ar`](https://google.com/search?q=norton.com.ar) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-04-23 | [`MKU`](https://google.com/search?q=MKU) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-04-23 | [`ECCI`](https://google.com/search?q=ECCI) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-04-23 | [`NETISGROUP HAS BEEN HACKED !!!`](https://google.com/search?q=NETISGROUP+HAS+BEEN+HACKED+%21%21%21) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-04-23 | [`floraalpina.ch`](https://google.com/search?q=floraalpina.ch) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-04-22 | [`Easy Automation`](https://google.com/search?q=Easy+Automation) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
-| 2023-04-22 | [`Groupe Gambetta`](https://google.com/search?q=Groupe+Gambetta) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-04-22 | [`UECC`](https://google.com/search?q=UECC) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-04-22 | [`stuertz.com`](https://google.com/search?q=stuertz.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-04-22 | [`Neptune Lines`](https://google.com/search?q=Neptune+Lines) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
-| 2023-04-22 | [`YPG2`](https://google.com/search?q=YPG2) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2023-04-21 | [`http://www.gks-hydraulik.com`](https://google.com/search?q=http%3A%2F%2Fwww.gks-hydraulik.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
-| 2023-04-21 | [`Saville Row  - Grupo GTD was hacked. A huge amount of personal information was stolen.`](https://google.com/search?q=Saville+Row++-+Grupo+GTD+was+hacked.+A+huge+amount+of+personal+information+was+stolen.) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-04-21 | [`Daregal was hacked. The most insecure retail company allowed a huge amount of confidential`](https://google.com/search?q=Daregal+was+hacked.+The+most+insecure+retail+company+allowed+a+huge+amount+of+confidential) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
