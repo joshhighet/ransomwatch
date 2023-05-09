@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-05-09 | [`KLC Network Services`](https://google.com/search?q=KLC+Network+Services) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-05-08 | [`ASL 1 - Avezzano Sulmona L'Aquila *first 10gb upload*`](https://google.com/search?q=ASL+1+-+Avezzano+Sulmona+L%27Aquila+%2Afirst+10gb+upload%2A) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2023-05-08 | [`{UPD} Control & Automation technology - LUX Automation`](https://google.com/search?q=%7BUPD%7D+Control+%26+Automation+technology+-+LUX+Automation) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2023-05-08 | [`brett-robinson.com`](https://google.com/search?q=brett-robinson.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-04-21 | [`http://www.gks-hydraulik.com`](https://google.com/search?q=http%3A%2F%2Fwww.gks-hydraulik.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
 | 2023-04-21 | [`Saville Row  - Grupo GTD was hacked. A huge amount of personal information was stolen.`](https://google.com/search?q=Saville+Row++-+Grupo+GTD+was+hacked.+A+huge+amount+of+personal+information+was+stolen.) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-04-21 | [`Daregal was hacked. The most insecure retail company allowed a huge amount of confidential`](https://google.com/search?q=Daregal+was+hacked.+The+most+insecure+retail+company+allowed+a+huge+amount+of+confidential) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-04-21 | [`VOPAK WAS HACKED. A LOT OF CRITICAL CONFIDENTIAL INFORMATION WAS STOLEN.`](https://google.com/search?q=VOPAK+WAS+HACKED.+A+LOT+OF+CRITICAL+CONFIDENTIAL+INFORMATION+WAS+STOLEN.) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
