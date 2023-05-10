@@ -408,18 +408,13 @@ def todiscord(post_title, group, hook_uri):
     post_title = post_title.replace('\\', '\\\\').replace('"', '\\"')
     discord_data = '''
     {
-    "content": "`%s`",
-    "embeds": [
-        {
-        "color": null,
-        "author": {
-            "name": "%s",
-            "url": "https://ransomwatch.telemetry.ltd/#/profiles?id=%s",
-            "icon_url": "https://avatars.githubusercontent.com/u/10137"
-        }
-        }
-    ]
-    }''' % (post_title, group, group)
+        "content": "[**%s**](https://ransomwatch.telemetry.ltd/#/profiles?id=%s) posted `%s`",
+        "embeds": null,
+        "username": "ransomwatch",
+        "avatar_url": "https://github.com/joshhighet/ransomwatch/blob/main/docs/apple-touch-icon.png?raw=true",
+        "attachments": [],
+        "flags": 4100
+    }''' % (group, group, post_title)
     discord_json = json.loads(discord_data)
     stdlog('sharedutils: ' + 'sending to discord webhook')
     dscheaders = {
