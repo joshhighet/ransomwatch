@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-05-10 | [`Alliance Sports Group (THE PIONEER OF  AKIRA BLOG)`](https://google.com/search?q=Alliance+Sports+Group+%28THE+PIONEER+OF++AKIRA+BLOG%29) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
+| 2023-05-10 | [`BridgeValley Community & Technical Col lege`](https://google.com/search?q=BridgeValley+Community+%26+Technical+Col+lege) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
+| 2023-05-10 | [`Vdi`](https://google.com/search?q=Vdi) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
 | 2023-05-10 | [`Constellation Software Inc 2`](https://google.com/search?q=Constellation+Software+Inc+2) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-05-10 | [`gocontec.com`](https://google.com/search?q=gocontec.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-05-10 | [`Cooperativa de Ahorro y Crédito Ahorrocoop Ltda`](https://google.com/search?q=Cooperativa+de+Ahorro+y+Cr%C3%A9dito+Ahorrocoop+Ltda) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2023-04-24 | [`TransMedics`](https://google.com/search?q=TransMedics) | [karakurt](https://ransomwatch.telemetry.ltd/#/profiles?id=karakurt) |
 | 2023-04-24 | [`Winona Powder Coating`](https://google.com/search?q=Winona+Powder+Coating) | [karakurt](https://ransomwatch.telemetry.ltd/#/profiles?id=karakurt) |
 | 2023-04-24 | [`midipapierspeints.fr`](https://google.com/search?q=midipapierspeints.fr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-04-24 | [`baffetmateriaux.fr`](https://google.com/search?q=baffetmateriaux.fr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-04-24 | [`Bentham &amp; Holroyd Ltd`](https://google.com/search?q=Bentham+%26amp%3B+Holroyd+Ltd) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
-| 2023-04-24 | [`yateemgroup.com`](https://google.com/search?q=yateemgroup.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
