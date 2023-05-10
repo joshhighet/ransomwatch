@@ -1008,3 +1008,14 @@ def cryptnet():
         errlog('cryptnet: ' + 'parsing fail')
     for post in posts:
         appender(post, 'cryptnet')
+
+def ragroup():
+    stdlog('parser: ' + 'ragroup')
+    parser = '''
+    grep --no-filename '<a href="/posts/' source/ragroup-*.html | cut -d '/' -f 3 | cut -d '"' -f 1
+    '''
+    posts = runshellcmd(parser)
+    if len(posts) == 1:
+        errlog('ragroup: ' + 'parsing fail')
+    for post in posts:
+        appender(post, 'ragroup')

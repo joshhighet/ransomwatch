@@ -300,6 +300,7 @@ if args.mode == 'parse':
     parsers.crosslock()
     parsers.akira()
     parsers.cryptnet()
+    parsers.ragroup()
     stdlog('ransomwatch: ' + 'parse run complete')
 
 if args.mode == 'list':
