@@ -4,6 +4,13 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-05-11 | [`Gregory Poole Equipm ent Company`](https://google.com/search?q=Gregory+Poole+Equipm+ent+Company) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
+| 2023-05-11 | [`CSD Network Services Ltd`](https://google.com/search?q=CSD+Network+Services+Ltd) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
+| 2023-05-11 | [`wuppermann.com`](https://google.com/search?q=wuppermann.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-05-11 | [`vuteq.mx`](https://google.com/search?q=vuteq.mx) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-05-11 | [`viseg.com`](https://google.com/search?q=viseg.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-05-11 | [`tec-mex.com.mx`](https://google.com/search?q=tec-mex.com.mx) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-05-11 | [`metronottevigilanza.it`](https://google.com/search?q=metronottevigilanza.it) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-05-11 | [`Unique Imaging`](https://google.com/search?q=Unique+Imaging) | [trigona](https://ransomwatch.telemetry.ltd/#/profiles?id=trigona) |
 | 2023-05-11 | [`ASL 1 - Avezzano Sulmona L'Aquila *UPD 05-11*`](https://google.com/search?q=ASL+1+-+Avezzano+Sulmona+L%27Aquila+%2AUPD+05-11%2A) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2023-05-11 | [`Axiom Professional Solutions`](https://google.com/search?q=Axiom+Professional+Solutions) | [trigona](https://ransomwatch.telemetry.ltd/#/profiles?id=trigona) |
@@ -197,10 +204,3 @@ _last `200` posts_
 | 2023-04-25 | [`Agensi Kaunseling dan Pengurusan Kredit`](https://google.com/search?q=Agensi+Kaunseling+dan+Pengurusan+Kredit) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-04-25 | [`BERNINA International AG`](https://google.com/search?q=BERNINA+International+AG) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-04-25 | [`CANTALK, Canadian translation services - Leak`](https://google.com/search?q=CANTALK%2C+Canadian+translation+services+-+Leak) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
-| 2023-04-25 | [`sunnydesigns.com`](https://google.com/search?q=sunnydesigns.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-04-25 | [`ptow.com`](https://google.com/search?q=ptow.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-04-25 | [`peachtree-medical.com`](https://google.com/search?q=peachtree-medical.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-04-25 | [`lhh.com.my`](https://google.com/search?q=lhh.com.my) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-04-25 | [`imanor.gov.ma`](https://google.com/search?q=imanor.gov.ma) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-04-25 | [`fabeckarchitectes.lu`](https://google.com/search?q=fabeckarchitectes.lu) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-04-25 | [`ddmontaza.hr`](https://google.com/search?q=ddmontaza.hr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
