@@ -413,7 +413,7 @@ def todiscord(post_title, group, hook_uri):
         "username": "ransomwatch",
         "avatar_url": "https://github.com/joshhighet/ransomwatch/blob/main/docs/apple-touch-icon.png?raw=true",
         "attachments": [],
-        "flags": 4100
+        "flags": 4
     }''' % (group, group, post_title)
     discord_json = json.loads(discord_data)
     stdlog('sharedutils: ' + 'sending to discord webhook')
