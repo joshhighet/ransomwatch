@@ -4,6 +4,15 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-05-11 | [`Ipleiria Student Bra nch`](https://google.com/search?q=Ipleiria+Student+Bra+nch) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
+| 2023-05-11 | [`*******, ***.`](https://google.com/search?q=%2A%2A%2A%2A%2A%2A%2A%2C+%2A%2A%2A.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2023-05-11 | [`Vascular Center of Intervention`](https://google.com/search?q=Vascular+Center+of+Intervention) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2023-05-11 | [`A****** ********* **o*****`](https://google.com/search?q=A%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A%2A%2A+%2A%2Ao%2A%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2023-05-11 | [`Allergy Services`](https://google.com/search?q=Allergy+Services) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2023-05-11 | [`BandR Eckel's Transport`](https://google.com/search?q=BandR+Eckel%27s+Transport) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2023-05-11 | [`DA Alexander Company INC`](https://google.com/search?q=DA+Alexander+Company+INC) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2023-05-11 | [`Hermes Medical Solutions`](https://google.com/search?q=Hermes+Medical+Solutions) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2023-05-11 | [`North Shore Medical Labs`](https://google.com/search?q=North+Shore+Medical+Labs) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-05-11 | [`Gregory Poole Equipm ent Company`](https://google.com/search?q=Gregory+Poole+Equipm+ent+Company) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-05-11 | [`CSD Network Services Ltd`](https://google.com/search?q=CSD+Network+Services+Ltd) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2023-05-11 | [`wuppermann.com`](https://google.com/search?q=wuppermann.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -195,12 +204,3 @@ _last `200` posts_
 | 2023-04-26 | [`www.urbanimport.com`](https://google.com/search?q=www.urbanimport.com) | [cryptnet](https://ransomwatch.telemetry.ltd/#/profiles?id=cryptnet) |
 | 2023-04-26 | [`www.exporthub.com`](https://google.com/search?q=www.exporthub.com) | [cryptnet](https://ransomwatch.telemetry.ltd/#/profiles?id=cryptnet) |
 | 2023-04-26 | [`Alliance Sports Group (THE PIONEER OF  BLOG)`](https://google.com/search?q=Alliance+Sports+Group+%28THE+PIONEER+OF++BLOG%29) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2023-04-26 | [`Settlement Music School`](https://google.com/search?q=Settlement+Music+School) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2023-04-26 | [`Schottenstein Property Group Inc`](https://google.com/search?q=Schottenstein+Property+Group+Inc) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2023-04-26 | [`Thompson Builders`](https://google.com/search?q=Thompson+Builders) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2023-04-26 | [`Rockbridge Capital`](https://google.com/search?q=Rockbridge+Capital) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2023-04-26 | [`Agensi Kaunseling dan Pengurusan Kredit (Credit Consulting and Management Agency of Malays`](https://google.com/search?q=Agensi+Kaunseling+dan+Pengurusan+Kredit+%28Credit+Consulting+and+Management+Agency+of+Malays) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-04-25 | [`Transformative Healthcare`](https://google.com/search?q=Transformative+Healthcare) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-04-25 | [`Agensi Kaunseling dan Pengurusan Kredit`](https://google.com/search?q=Agensi+Kaunseling+dan+Pengurusan+Kredit) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-04-25 | [`BERNINA International AG`](https://google.com/search?q=BERNINA+International+AG) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-04-25 | [`CANTALK, Canadian translation services - Leak`](https://google.com/search?q=CANTALK%2C+Canadian+translation+services+-+Leak) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
