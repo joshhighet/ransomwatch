@@ -1,20 +1,20 @@
 
 ## summary
-_may 10th, 2023_
+_may 11th, 2023_
 
-currently tracking `144` groups across `260` relays & mirrors - _`108` currently online_
+currently tracking `145` groups across `261` relays & mirrors - _`108` currently online_
 
-⏲ there have been `22` posts within the `last 24 hours`
+⏲ there have been `26` posts within the `last 24 hours`
 
-🦈 there have been `128` posts within the `month of may`
+🦈 there have been `132` posts within the `month of may`
 
-🪐 there have been `1134` posts within the `last 90 days`
+🪐 there have been `1138` posts within the `last 90 days`
 
-🏚 there have been `1381` posts within the `year of 2023`
+🏚 there have been `1385` posts within the `year of 2023`
 
-🦕 there have been `6072` posts `since the dawn of ransomwatch`
+🦕 there have been `6076` posts `since the dawn of ransomwatch`
 
-there are `75` custom parsers indexing posts
+there are `76` custom parsers indexing posts
 
 _`20` sites using v2 onion services are no longer indexed - [support.torproject.org](https://support.torproject.org/onionservices/v2-deprecation/)_
 
