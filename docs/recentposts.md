@@ -4,6 +4,15 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-05-12 | [`</html>`](https://google.com/search?q=%3C%2Fhtml%3E) | [trigona](https://ransomwatch.telemetry.ltd/#/profiles?id=trigona) |
+| 2023-05-12 | [`</body>`](https://google.com/search?q=%3C%2Fbody%3E) | [trigona](https://ransomwatch.telemetry.ltd/#/profiles?id=trigona) |
+| 2023-05-12 | [`<hr><center>nginx/1.14.2</center>`](https://google.com/search?q=%3Chr%3E%3Ccenter%3Enginx%2F1.14.2%3C%2Fcenter%3E) | [trigona](https://ransomwatch.telemetry.ltd/#/profiles?id=trigona) |
+| 2023-05-12 | [`<center><h1>502 Bad Gateway</h1></center>`](https://google.com/search?q=%3Ccenter%3E%3Ch1%3E502+Bad+Gateway%3C%2Fh1%3E%3C%2Fcenter%3E) | [trigona](https://ransomwatch.telemetry.ltd/#/profiles?id=trigona) |
+| 2023-05-12 | [`<body bgcolor="white">`](https://google.com/search?q=%3Cbody+bgcolor%3D%22white%22%3E) | [trigona](https://ransomwatch.telemetry.ltd/#/profiles?id=trigona) |
+| 2023-05-12 | [`<head><title>502 Bad Gateway</title></head>`](https://google.com/search?q=%3Chead%3E%3Ctitle%3E502+Bad+Gateway%3C%2Ftitle%3E%3C%2Fhead%3E) | [trigona](https://ransomwatch.telemetry.ltd/#/profiles?id=trigona) |
+| 2023-05-12 | [`<html>`](https://google.com/search?q=%3Chtml%3E) | [trigona](https://ransomwatch.telemetry.ltd/#/profiles?id=trigona) |
+| 2023-05-12 | [`weberweber.at`](https://google.com/search?q=weberweber.at) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-05-12 | [`prolinerrescue.com`](https://google.com/search?q=prolinerrescue.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-05-12 | [`Libyana was hacked. A company with an enormous amount of vulnerabilities has allowed its c`](https://google.com/search?q=Libyana+was+hacked.+A+company+with+an+enormous+amount+of+vulnerabilities+has+allowed+its+c) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-05-12 | [`pwlawfirm.com`](https://google.com/search?q=pwlawfirm.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
 | 2023-05-11 | [`DATALAN`](https://google.com/search?q=DATALAN) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
@@ -195,12 +204,3 @@ _last `200` posts_
 | 2023-04-26 | [`Pak-Rite, Ltd.`](https://google.com/search?q=Pak-Rite%2C+Ltd.) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-04-26 | [`silbon.es`](https://google.com/search?q=silbon.es) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-04-26 | [`fsdc.org.hk`](https://google.com/search?q=fsdc.org.hk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-04-26 | [`cdcbmestihl.com`](https://google.com/search?q=cdcbmestihl.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-04-26 | [`bg2i.fr`](https://google.com/search?q=bg2i.fr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-04-26 | [`OMT Officine Meccaniche Torino S.p.A.`](https://google.com/search?q=OMT+Officine+Meccaniche+Torino+S.p.A.) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
-| 2023-04-26 | [`Tranztec Solutions`](https://google.com/search?q=Tranztec+Solutions) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
-| 2023-04-26 | [`HOT NEWS`](https://google.com/search?q=HOT+NEWS) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
-| 2023-04-26 | [`Fundação Carlos Chagas`](https://google.com/search?q=Funda%C3%A7%C3%A3o+Carlos+Chagas) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-04-26 | [`MultiCareInc pt.2`](https://google.com/search?q=MultiCareInc+pt.2) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
-| 2023-04-26 | [`Family Day Care Services`](https://google.com/search?q=Family+Day+Care+Services) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2023-04-26 | [`Bevan Group`](https://google.com/search?q=Bevan+Group) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |

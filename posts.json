@@ -30488,5 +30488,50 @@
         "post_title": "Libyana was hacked. A company with an enormous amount of vulnerabilities has allowed its c",
         "group_name": "alphv",
         "discovered": "2023-05-12 08:35:44.331254"
+    },
+    {
+        "post_title": "prolinerrescue.com",
+        "group_name": "lockbit3",
+        "discovered": "2023-05-12 10:32:20.736127"
+    },
+    {
+        "post_title": "weberweber.at",
+        "group_name": "lockbit3",
+        "discovered": "2023-05-12 10:32:22.655174"
+    },
+    {
+        "post_title": "<html>",
+        "group_name": "trigona",
+        "discovered": "2023-05-12 10:32:26.442846"
+    },
+    {
+        "post_title": "<head><title>502 Bad Gateway</title></head>",
+        "group_name": "trigona",
+        "discovered": "2023-05-12 10:32:27.155577"
+    },
+    {
+        "post_title": "<body bgcolor=\"white\">",
+        "group_name": "trigona",
+        "discovered": "2023-05-12 10:32:28.084309"
+    },
+    {
+        "post_title": "<center><h1>502 Bad Gateway</h1></center>",
+        "group_name": "trigona",
+        "discovered": "2023-05-12 10:32:28.808383"
+    },
+    {
+        "post_title": "<hr><center>nginx/1.14.2</center>",
+        "group_name": "trigona",
+        "discovered": "2023-05-12 10:32:29.632496"
+    },
+    {
+        "post_title": "</body>",
+        "group_name": "trigona",
+        "discovered": "2023-05-12 10:32:30.857253"
+    },
+    {
+        "post_title": "</html>",
+        "group_name": "trigona",
+        "discovered": "2023-05-12 10:32:31.472010"
     }
 ]
