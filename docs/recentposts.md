@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-05-12 | [`Libyana was hacked. A company with an enormous amount of vulnerabilities has allowed its c`](https://google.com/search?q=Libyana+was+hacked.+A+company+with+an+enormous+amount+of+vulnerabilities+has+allowed+its+c) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-05-12 | [`pwlawfirm.com`](https://google.com/search?q=pwlawfirm.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
 | 2023-05-11 | [`DATALAN`](https://google.com/search?q=DATALAN) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2023-05-11 | [`ResultsCX - The result of many unknown breaches?`](https://google.com/search?q=ResultsCX+-+The+result+of+many+unknown+breaches%3F) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-04-26 | [`MultiCareInc pt.2`](https://google.com/search?q=MultiCareInc+pt.2) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2023-04-26 | [`Family Day Care Services`](https://google.com/search?q=Family+Day+Care+Services) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-04-26 | [`Bevan Group`](https://google.com/search?q=Bevan+Group) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
-| 2023-04-26 | [`GT Group`](https://google.com/search?q=GT+Group) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
