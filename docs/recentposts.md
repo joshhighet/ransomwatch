@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-05-12 | [`Aspen Dental Management Inc.`](https://google.com/search?q=Aspen+Dental+Management+Inc.) | [moneymessage](https://ransomwatch.telemetry.ltd/#/profiles?id=moneymessage) |
+| 2023-05-12 | [`Wallick Communities`](https://google.com/search?q=Wallick+Communities) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
+| 2023-05-12 | [`bankbsi.co.id`](https://google.com/search?q=bankbsi.co.id) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-05-12 | [`Peachtree Orthopedics`](https://google.com/search?q=Peachtree+Orthopedics) | [karakurt](https://ransomwatch.telemetry.ltd/#/profiles?id=karakurt) |
 | 2023-05-12 | [`Schottenstein Proper ty Group`](https://google.com/search?q=Schottenstein+Proper+ty+Group) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-05-12 | [`Sterling Solutions`](https://google.com/search?q=Sterling+Solutions) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2023-04-27 | [`NA_2`](https://google.com/search?q=NA_2) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2023-04-27 | [`multimedica.it`](https://google.com/search?q=multimedica.it) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-04-26 | [`US District Court / Law company`](https://google.com/search?q=US+District+Court+%2F+Law+company) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
-| 2023-04-26 | [`accesscontrolsecurity.com`](https://google.com/search?q=accesscontrolsecurity.com) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-04-26 | [`e-Hazard or ArcWear (press release)`](https://google.com/search?q=e-Hazard+or+ArcWear+%28press+release%29) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-04-26 | [`4LEAF, Inc`](https://google.com/search?q=4LEAF%2C+Inc) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
