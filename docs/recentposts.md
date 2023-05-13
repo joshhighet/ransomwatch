@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-05-13 | [`AKRON Mquinas Agrcolas`](https://google.com/search?q=AKRON+Mquinas+Agrcolas) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-05-13 | [`ASL 1 - Avezzano Sulmona L'Aquila *UPD 05-13*`](https://google.com/search?q=ASL+1+-+Avezzano+Sulmona+L%27Aquila+%2AUPD+05-13%2A) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2023-05-12 | [`Aspen Dental Management Inc.`](https://google.com/search?q=Aspen+Dental+Management+Inc.) | [moneymessage](https://ransomwatch.telemetry.ltd/#/profiles?id=moneymessage) |
 | 2023-05-12 | [`Wallick Communities`](https://google.com/search?q=Wallick+Communities) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-04-27 | [`MasterCorp`](https://google.com/search?q=MasterCorp) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2023-04-27 | [`CoachComm`](https://google.com/search?q=CoachComm) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2023-04-27 | [`NA_2`](https://google.com/search?q=NA_2) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2023-04-27 | [`multimedica.it`](https://google.com/search?q=multimedica.it) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
