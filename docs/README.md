@@ -1,10 +1,10 @@
 
 ## summary
-_may 13th, 2023_
+_may 14th, 2023_
 
-currently tracking `145` groups across `261` relays & mirrors - _`101` currently online_
+currently tracking `145` groups across `261` relays & mirrors - _`104` currently online_
 
-⏲ there have been `4` posts within the `last 24 hours`
+⏲ there have been `3` posts within the `last 24 hours`
 
 🦈 there have been `174` posts within the `month of may`
 
