@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-05-14 | [`troteclaser.com`](https://google.com/search?q=troteclaser.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-05-14 | [`tool-temp.net`](https://google.com/search?q=tool-temp.net) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-05-14 | [`pikenursery.com`](https://google.com/search?q=pikenursery.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-05-13 | [`TTCCPA`](https://google.com/search?q=TTCCPA) | [trigona](https://ransomwatch.telemetry.ltd/#/profiles?id=trigona) |
 | 2023-05-13 | [`HostAfrica`](https://google.com/search?q=HostAfrica) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-05-13 | [`AKRON Mquinas Agrcolas`](https://google.com/search?q=AKRON+Mquinas+Agrcolas) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -14,13 +17,6 @@ _last `200` posts_
 | 2023-05-12 | [`Peachtree Orthopedics`](https://google.com/search?q=Peachtree+Orthopedics) | [karakurt](https://ransomwatch.telemetry.ltd/#/profiles?id=karakurt) |
 | 2023-05-12 | [`Schottenstein Proper ty Group`](https://google.com/search?q=Schottenstein+Proper+ty+Group) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-05-12 | [`Sterling Solutions`](https://google.com/search?q=Sterling+Solutions) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
-| 2023-05-12 | [`</html>`](https://google.com/search?q=%3C%2Fhtml%3E) | [trigona](https://ransomwatch.telemetry.ltd/#/profiles?id=trigona) |
-| 2023-05-12 | [`</body>`](https://google.com/search?q=%3C%2Fbody%3E) | [trigona](https://ransomwatch.telemetry.ltd/#/profiles?id=trigona) |
-| 2023-05-12 | [`<hr><center>nginx/1.14.2</center>`](https://google.com/search?q=%3Chr%3E%3Ccenter%3Enginx%2F1.14.2%3C%2Fcenter%3E) | [trigona](https://ransomwatch.telemetry.ltd/#/profiles?id=trigona) |
-| 2023-05-12 | [`<center><h1>502 Bad Gateway</h1></center>`](https://google.com/search?q=%3Ccenter%3E%3Ch1%3E502+Bad+Gateway%3C%2Fh1%3E%3C%2Fcenter%3E) | [trigona](https://ransomwatch.telemetry.ltd/#/profiles?id=trigona) |
-| 2023-05-12 | [`<body bgcolor="white">`](https://google.com/search?q=%3Cbody+bgcolor%3D%22white%22%3E) | [trigona](https://ransomwatch.telemetry.ltd/#/profiles?id=trigona) |
-| 2023-05-12 | [`<head><title>502 Bad Gateway</title></head>`](https://google.com/search?q=%3Chead%3E%3Ctitle%3E502+Bad+Gateway%3C%2Ftitle%3E%3C%2Fhead%3E) | [trigona](https://ransomwatch.telemetry.ltd/#/profiles?id=trigona) |
-| 2023-05-12 | [`<html>`](https://google.com/search?q=%3Chtml%3E) | [trigona](https://ransomwatch.telemetry.ltd/#/profiles?id=trigona) |
 | 2023-05-12 | [`weberweber.at`](https://google.com/search?q=weberweber.at) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-05-12 | [`prolinerrescue.com`](https://google.com/search?q=prolinerrescue.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-05-12 | [`Libyana was hacked. A company with an enormous amount of vulnerabilities has allowed its c`](https://google.com/search?q=Libyana+was+hacked.+A+company+with+an+enormous+amount+of+vulnerabilities+has+allowed+its+c) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -204,3 +200,7 @@ _last `200` posts_
 | 2023-04-27 | [`Smith & Sharp`](https://google.com/search?q=Smith+%26+Sharp) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-04-27 | [`La Red Health Center`](https://google.com/search?q=La+Red+Health+Center) | [karakurt](https://ransomwatch.telemetry.ltd/#/profiles?id=karakurt) |
 | 2023-04-27 | [`MasterCorp`](https://google.com/search?q=MasterCorp) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2023-04-27 | [`CoachComm`](https://google.com/search?q=CoachComm) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2023-04-27 | [`NA_2`](https://google.com/search?q=NA_2) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2023-04-27 | [`multimedica.it`](https://google.com/search?q=multimedica.it) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-04-26 | [`US District Court / Law company`](https://google.com/search?q=US+District+Court+%2F+Law+company) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
