@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-05-15 | [` wsots.net`](https://google.com/search?q=+wsots.net) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
+| 2023-05-15 | [`BAMSI`](https://google.com/search?q=BAMSI) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
+| 2023-05-15 | [`PCS Wireless`](https://google.com/search?q=PCS+Wireless) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-05-15 | [`Accudo Investments LTD`](https://google.com/search?q=Accudo+Investments+LTD) | [trigona](https://ransomwatch.telemetry.ltd/#/profiles?id=trigona) |
 | 2023-05-15 | [`http://www.parkerdrilling.comwww.parkerwellbore.com`](https://google.com/search?q=http%3A%2F%2Fwww.parkerdrilling.comwww.parkerwellbore.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
 | 2023-05-15 | [`norcorp.com`](https://google.com/search?q=norcorp.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2023-04-28 | [`H***** ******* S*******`](https://google.com/search?q=H%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A+S%2A%2A%2A%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-04-28 | [`P********* ******* *e****`](https://google.com/search?q=P%2A%2A%2A%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A+%2Ae%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-04-28 | [`TAMMAC`](https://google.com/search?q=TAMMAC) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2023-04-28 | [`BLUME_2`](https://google.com/search?q=BLUME_2) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2023-04-28 | [`AUTOCAM-MEDICAL_2`](https://google.com/search?q=AUTOCAM-MEDICAL_2) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2023-04-28 | [`ANTON-PAAR_2`](https://google.com/search?q=ANTON-PAAR_2) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
