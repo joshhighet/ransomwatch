@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-05-17 | [`AVIAREPS_COM_2222`](https://google.com/search?q=AVIAREPS_COM_2222) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2023-05-17 | [`Aneka Tambang`](https://google.com/search?q=Aneka+Tambang) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2023-05-17 | [`Group DIS leak 1/2`](https://google.com/search?q=Group+DIS+leak+1%2F2) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-05-17 | [`Magic-Aire`](https://google.com/search?q=Magic-Aire) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
 | 2023-05-17 | [`plastictecnic.com`](https://google.com/search?q=plastictecnic.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-05-01 | [`http://www.edisonlearning.com`](https://google.com/search?q=http%3A%2F%2Fwww.edisonlearning.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
 | 2023-05-01 | [`100X and ALL Clients`](https://google.com/search?q=100X+and+ALL+Clients) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2023-04-30 | [`https://https://www.siix.co.jp`](https://google.com/search?q=https%3A%2F%2Fhttps%3A%2F%2Fwww.siix.co.jp) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
-| 2023-04-30 | [`CMC Group`](https://google.com/search?q=CMC+Group) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
-| 2023-04-29 | [`KMC Savills`](https://google.com/search?q=KMC+Savills) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
