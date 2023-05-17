@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-05-17 | [`Group DIS leak 1/2`](https://google.com/search?q=Group+DIS+leak+1%2F2) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
+| 2023-05-17 | [`Magic-Aire`](https://google.com/search?q=Magic-Aire) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
 | 2023-05-17 | [`plastictecnic.com`](https://google.com/search?q=plastictecnic.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-05-17 | [`PM Medical Billing was hacking. A company with multiple vulnerabilities in its network all`](https://google.com/search?q=PM+Medical+Billing+was+hacking.+A+company+with+multiple+vulnerabilities+in+its+network+all) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-05-17 | [`Electrostim Medical Services`](https://google.com/search?q=Electrostim+Medical+Services) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-04-30 | [`https://https://www.siix.co.jp`](https://google.com/search?q=https%3A%2F%2Fhttps%3A%2F%2Fwww.siix.co.jp) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2023-04-30 | [`CMC Group`](https://google.com/search?q=CMC+Group) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2023-04-29 | [`KMC Savills`](https://google.com/search?q=KMC+Savills) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-04-29 | [`Sherman Consulting Services`](https://google.com/search?q=Sherman+Consulting+Services) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-04-29 | [`logicalsolutions.bc.ca`](https://google.com/search?q=logicalsolutions.bc.ca) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
