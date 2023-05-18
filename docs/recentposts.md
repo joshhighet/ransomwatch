@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-05-18 | [`antea.es`](https://google.com/search?q=antea.es) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-05-18 | [`Autlan Metallorum, Mexican Miner Leak`](https://google.com/search?q=Autlan+Metallorum%2C+Mexican+Miner+Leak) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
 | 2023-05-18 | [`shoreregional.org`](https://google.com/search?q=shoreregional.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-05-18 | [`metalnet.nl`](https://google.com/search?q=metalnet.nl) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-05-02 | [`Alto Calore Servizi S.p.A.`](https://google.com/search?q=Alto+Calore+Servizi+S.p.A.) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-05-02 | [`Polat Yol Yap`](https://google.com/search?q=Polat+Yol+Yap) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-05-02 | [`ambit.co - finvest.ambit.co Private Banking`](https://google.com/search?q=ambit.co+-+finvest.ambit.co+Private+Banking) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-05-02 | [`Brighton Hill Community School`](https://google.com/search?q=Brighton+Hill+Community+School) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
