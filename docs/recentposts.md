@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-05-18 | [`http://www.nashua.edu`](https://google.com/search?q=http%3A%2F%2Fwww.nashua.edu) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
+| 2023-05-18 | [`E4NET`](https://google.com/search?q=E4NET) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-05-18 | [`Lolaico Impianti`](https://google.com/search?q=Lolaico+Impianti) | [trigona](https://ransomwatch.telemetry.ltd/#/profiles?id=trigona) |
 | 2023-05-18 | [`*a***** *****`](https://google.com/search?q=%2Aa%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-05-18 | [`ENSA - Seguros de Angola`](https://google.com/search?q=ENSA+-+Seguros+de+Angola) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-05-02 | [`http://www.gfcmsu.edu`](https://google.com/search?q=http%3A%2F%2Fwww.gfcmsu.edu) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
 | 2023-05-02 | [`http://www.montana.edu`](https://google.com/search?q=http%3A%2F%2Fwww.montana.edu) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
 | 2023-05-02 | [`Tony Clark Consulting`](https://google.com/search?q=Tony+Clark+Consulting) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-05-01 | [`Manufacturing`](https://google.com/search?q=Manufacturing) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2023-05-01 | [`*.A. ********* and *******, ***.`](https://google.com/search?q=%2A.A.+%2A%2A%2A%2A%2A%2A%2A%2A%2A+and+%2A%2A%2A%2A%2A%2A%2A%2C+%2A%2A%2A.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
