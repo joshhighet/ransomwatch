@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-05-18 | [`Lolaico Impianti`](https://google.com/search?q=Lolaico+Impianti) | [trigona](https://ransomwatch.telemetry.ltd/#/profiles?id=trigona) |
 | 2023-05-18 | [`*a***** *****`](https://google.com/search?q=%2Aa%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-05-18 | [`ENSA - Seguros de Angola`](https://google.com/search?q=ENSA+-+Seguros+de+Angola) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-05-18 | [`Z*** ******** ******s`](https://google.com/search?q=Z%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2As) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-05-02 | [`Tony Clark Consulting`](https://google.com/search?q=Tony+Clark+Consulting) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-05-01 | [`Manufacturing`](https://google.com/search?q=Manufacturing) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-05-01 | [`*.A. ********* and *******, ***.`](https://google.com/search?q=%2A.A.+%2A%2A%2A%2A%2A%2A%2A%2A%2A+and+%2A%2A%2A%2A%2A%2A%2A%2C+%2A%2A%2A.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2023-05-01 | [`Fee, Smith & Sharp`](https://google.com/search?q=Fee%2C+Smith+%26+Sharp) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
