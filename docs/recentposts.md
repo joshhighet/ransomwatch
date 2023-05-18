@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-05-18 | [`*a***** *****`](https://google.com/search?q=%2Aa%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2023-05-18 | [`ENSA - Seguros de Angola`](https://google.com/search?q=ENSA+-+Seguros+de+Angola) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2023-05-18 | [`Z*** ******** ******s`](https://google.com/search?q=Z%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2As) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-05-18 | [`TaslyUS`](https://google.com/search?q=TaslyUS) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-05-17 | [`AVIAREPS_COM_2222`](https://google.com/search?q=AVIAREPS_COM_2222) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2023-05-17 | [`Aneka Tambang`](https://google.com/search?q=Aneka+Tambang) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2023-05-01 | [`Manufacturing`](https://google.com/search?q=Manufacturing) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-05-01 | [`*.A. ********* and *******, ***.`](https://google.com/search?q=%2A.A.+%2A%2A%2A%2A%2A%2A%2A%2A%2A+and+%2A%2A%2A%2A%2A%2A%2A%2C+%2A%2A%2A.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-05-01 | [`Fee, Smith & Sharp`](https://google.com/search?q=Fee%2C+Smith+%26+Sharp) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2023-05-01 | [`BridgeValley Community & Technical`](https://google.com/search?q=BridgeValley+Community+%26+Technical) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2023-05-01 | [`http://www.edisonlearning.com`](https://google.com/search?q=http%3A%2F%2Fwww.edisonlearning.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
-| 2023-05-01 | [`100X and ALL Clients`](https://google.com/search?q=100X+and+ALL+Clients) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
