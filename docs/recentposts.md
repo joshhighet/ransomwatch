@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-05-19 | [`It Works Global`](https://google.com/search?q=It+Works+Global) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-05-18 | [`antea.es`](https://google.com/search?q=antea.es) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-05-18 | [`Autlan Metallorum, Mexican Miner Leak`](https://google.com/search?q=Autlan+Metallorum%2C+Mexican+Miner+Leak) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
 | 2023-05-18 | [`shoreregional.org`](https://google.com/search?q=shoreregional.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-05-02 | [`Lincoln Wood Products`](https://google.com/search?q=Lincoln+Wood+Products) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2023-05-02 | [`Alto Calore Servizi S.p.A.`](https://google.com/search?q=Alto+Calore+Servizi+S.p.A.) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-05-02 | [`Polat Yol Yap`](https://google.com/search?q=Polat+Yol+Yap) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
-| 2023-05-02 | [`ambit.co - finvest.ambit.co Private Banking`](https://google.com/search?q=ambit.co+-+finvest.ambit.co+Private+Banking) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
