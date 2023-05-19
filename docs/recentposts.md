@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-05-19 | [`Al Tamimi Law Firm`](https://google.com/search?q=Al+Tamimi+Law+Firm) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
+| 2023-05-19 | [`https://https://www.maier-sanitaer.de`](https://google.com/search?q=https%3A%2F%2Fhttps%3A%2F%2Fwww.maier-sanitaer.de) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2023-05-19 | [`Advantage Resourcing`](https://google.com/search?q=Advantage+Resourcing) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-05-19 | [`Rolser`](https://google.com/search?q=Rolser) | [trigona](https://ransomwatch.telemetry.ltd/#/profiles?id=trigona) |
 | 2023-05-19 | [`http://www.dallascityhall.com`](https://google.com/search?q=http%3A%2F%2Fwww.dallascityhall.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-05-03 | [`Lawrence Family Development Charter School`](https://google.com/search?q=Lawrence+Family+Development+Charter+School) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
 | 2023-05-02 | [`hasenauer-anlagenbau.at`](https://google.com/search?q=hasenauer-anlagenbau.at) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-05-02 | [`cloud51.com`](https://google.com/search?q=cloud51.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-05-02 | [`baycrestpartners.com`](https://google.com/search?q=baycrestpartners.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-05-02 | [`AvidXchange`](https://google.com/search?q=AvidXchange) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
