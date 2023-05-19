@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-05-19 | [`Advantage Resourcing`](https://google.com/search?q=Advantage+Resourcing) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-05-19 | [`Rolser`](https://google.com/search?q=Rolser) | [trigona](https://ransomwatch.telemetry.ltd/#/profiles?id=trigona) |
 | 2023-05-19 | [`http://www.dallascityhall.com`](https://google.com/search?q=http%3A%2F%2Fwww.dallascityhall.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
 | 2023-05-19 | [`https://https://hmsosa.com`](https://google.com/search?q=https%3A%2F%2Fhttps%3A%2F%2Fhmsosa.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-05-02 | [`cloud51.com`](https://google.com/search?q=cloud51.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-05-02 | [`baycrestpartners.com`](https://google.com/search?q=baycrestpartners.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-05-02 | [`AvidXchange`](https://google.com/search?q=AvidXchange) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
-| 2023-05-02 | [`MYSIMPLYGREEN.COM`](https://google.com/search?q=MYSIMPLYGREEN.COM) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
