@@ -4,6 +4,10 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-05-19 | [`Rolser`](https://google.com/search?q=Rolser) | [trigona](https://ransomwatch.telemetry.ltd/#/profiles?id=trigona) |
+| 2023-05-19 | [`http://www.dallascityhall.com`](https://google.com/search?q=http%3A%2F%2Fwww.dallascityhall.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
+| 2023-05-19 | [`https://https://hmsosa.com`](https://google.com/search?q=https%3A%2F%2Fhttps%3A%2F%2Fhmsosa.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
+| 2023-05-19 | [`csagh.org`](https://google.com/search?q=csagh.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-05-19 | [`It Works Global`](https://google.com/search?q=It+Works+Global) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-05-18 | [`antea.es`](https://google.com/search?q=antea.es) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-05-18 | [`Autlan Metallorum, Mexican Miner Leak`](https://google.com/search?q=Autlan+Metallorum%2C+Mexican+Miner+Leak) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
@@ -200,7 +204,3 @@ _last `200` posts_
 | 2023-05-02 | [`baycrestpartners.com`](https://google.com/search?q=baycrestpartners.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-05-02 | [`AvidXchange`](https://google.com/search?q=AvidXchange) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2023-05-02 | [`MYSIMPLYGREEN.COM`](https://google.com/search?q=MYSIMPLYGREEN.COM) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-05-02 | [`American Foam & Packaging`](https://google.com/search?q=American+Foam+%26+Packaging) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-05-02 | [`Lincoln Wood Products`](https://google.com/search?q=Lincoln+Wood+Products) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2023-05-02 | [`Alto Calore Servizi S.p.A.`](https://google.com/search?q=Alto+Calore+Servizi+S.p.A.) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
-| 2023-05-02 | [`Polat Yol Yap`](https://google.com/search?q=Polat+Yol+Yap) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
