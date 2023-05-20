@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-05-20 | [`ASIA_2`](https://google.com/search?q=ASIA_2) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2023-05-19 | [`https://https://www.ktlaw.co.nz/`](https://google.com/search?q=https%3A%2F%2Fhttps%3A%2F%2Fwww.ktlaw.co.nz%2F) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2023-05-19 | [`Al Tamimi Law Firm`](https://google.com/search?q=Al+Tamimi+Law+Firm) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-05-19 | [`https://https://www.maier-sanitaer.de`](https://google.com/search?q=https%3A%2F%2Fhttps%3A%2F%2Fwww.maier-sanitaer.de) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-05-03 | [`Aeco was hacked. A lot of confidential customer data was stolen.`](https://google.com/search?q=Aeco+was+hacked.+A+lot+of+confidential+customer+data+was+stolen.) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-05-03 | [`cydsa.com`](https://google.com/search?q=cydsa.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-05-03 | [`Lawrence Family Development Charter School`](https://google.com/search?q=Lawrence+Family+Development+Charter+School) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
-| 2023-05-02 | [`hasenauer-anlagenbau.at`](https://google.com/search?q=hasenauer-anlagenbau.at) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
