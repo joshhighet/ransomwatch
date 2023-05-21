@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-05-21 | [`diasporacs.org`](https://google.com/search?q=diasporacs.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-05-21 | [`abe-brands.de`](https://google.com/search?q=abe-brands.de) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-05-21 | [`FajarPaper was hacked. The most dangerous company to cooperate with in Indonesia may pose `](https://google.com/search?q=FajarPaper+was+hacked.+The+most+dangerous+company+to+cooperate+with+in+Indonesia+may+pose+) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-05-21 | [`Reach Cooling Group was hacked. A company whose cooperation is dangerous to your business `](https://google.com/search?q=Reach+Cooling+Group+was+hacked.+A+company+whose+cooperation+is+dangerous+to+your+business+) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-05-03 | [`Control & Automation technology - LUX Automation`](https://google.com/search?q=Control+%26+Automation+technology+-+LUX+Automation) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2023-05-03 | [`triaflex.at`](https://google.com/search?q=triaflex.at) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-05-03 | [`http://www.southernwv.edu`](https://google.com/search?q=http%3A%2F%2Fwww.southernwv.edu) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
-| 2023-05-03 | [`The McGregor`](https://google.com/search?q=The+McGregor) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
