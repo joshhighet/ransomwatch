@@ -4,6 +4,12 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-05-22 | [`Comoli Ferrari`](https://google.com/search?q=Comoli+Ferrari) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
+| 2023-05-22 | [`Canadian Nurses Association`](https://google.com/search?q=Canadian+Nurses+Association) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
+| 2023-05-22 | [`FRESCA`](https://google.com/search?q=FRESCA) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
+| 2023-05-22 | [`MSSNY`](https://google.com/search?q=MSSNY) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
+| 2023-05-22 | [`LiveAction`](https://google.com/search?q=LiveAction) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
+| 2023-05-22 | [`Asia Vital Components`](https://google.com/search?q=Asia+Vital+Components) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
 | 2023-05-21 | [`diasporacs.org`](https://google.com/search?q=diasporacs.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-05-21 | [`abe-brands.de`](https://google.com/search?q=abe-brands.de) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-05-21 | [`FajarPaper was hacked. The most dangerous company to cooperate with in Indonesia may pose `](https://google.com/search?q=FajarPaper+was+hacked.+The+most+dangerous+company+to+cooperate+with+in+Indonesia+may+pose+) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -198,9 +204,3 @@ _last `200` posts_
 | 2023-05-03 | [`Negma Business Solutions`](https://google.com/search?q=Negma+Business+Solutions) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-05-03 | [`Vocalcom`](https://google.com/search?q=Vocalcom) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-05-03 | [`https://https://www.groppernejat.com/`](https://google.com/search?q=https%3A%2F%2Fhttps%3A%2F%2Fwww.groppernejat.com%2F) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
-| 2023-05-03 | [`Woonkracht10`](https://google.com/search?q=Woonkracht10) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-05-03 | [`Carrington Group`](https://google.com/search?q=Carrington+Group) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2023-05-03 | [`ASL 1 - Avezzano Sulmona L'Aquila`](https://google.com/search?q=ASL+1+-+Avezzano+Sulmona+L%27Aquila) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
-| 2023-05-03 | [`Control & Automation technology - LUX Automation`](https://google.com/search?q=Control+%26+Automation+technology+-+LUX+Automation) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
-| 2023-05-03 | [`triaflex.at`](https://google.com/search?q=triaflex.at) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-05-03 | [`http://www.southernwv.edu`](https://google.com/search?q=http%3A%2F%2Fwww.southernwv.edu) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
