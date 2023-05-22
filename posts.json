@@ -30903,5 +30903,15 @@
         "post_title": "Confidential and High Sensitive Data",
         "group_name": "alphv",
         "discovered": "2023-05-22 08:32:35.863475"
+    },
+    {
+        "post_title": "SIGMA",
+        "group_name": "medusa",
+        "discovered": "2023-05-22 10:30:18.256752"
+    },
+    {
+        "post_title": "Loreto Normanhurst",
+        "group_name": "medusa",
+        "discovered": "2023-05-22 10:30:19.039922"
     }
 ]
