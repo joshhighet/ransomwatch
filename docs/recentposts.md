@@ -4,6 +4,11 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-05-22 | [`vdbassocies.fr`](https://google.com/search?q=vdbassocies.fr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-05-22 | [`softland.cl`](https://google.com/search?q=softland.cl) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-05-22 | [`siren-japan.com`](https://google.com/search?q=siren-japan.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-05-22 | [`rapidmoldsolutions.com`](https://google.com/search?q=rapidmoldsolutions.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-05-22 | [`hadefpartners.com`](https://google.com/search?q=hadefpartners.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-05-22 | [`Comoli Ferrari`](https://google.com/search?q=Comoli+Ferrari) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
 | 2023-05-22 | [`Canadian Nurses Association`](https://google.com/search?q=Canadian+Nurses+Association) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
 | 2023-05-22 | [`FRESCA`](https://google.com/search?q=FRESCA) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
@@ -199,8 +204,3 @@ _last `200` posts_
 | 2023-05-03 | [`Nova Group`](https://google.com/search?q=Nova+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-05-03 | [`City of Lowell`](https://google.com/search?q=City+of+Lowell) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-05-03 | [`DGC`](https://google.com/search?q=DGC) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-05-03 | [`Libra Virtua`](https://google.com/search?q=Libra+Virtua) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-05-03 | [`Commune de Saxon`](https://google.com/search?q=Commune+de+Saxon) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-05-03 | [`Negma Business Solutions`](https://google.com/search?q=Negma+Business+Solutions) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-05-03 | [`Vocalcom`](https://google.com/search?q=Vocalcom) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-05-03 | [`https://https://www.groppernejat.com/`](https://google.com/search?q=https%3A%2F%2Fhttps%3A%2F%2Fwww.groppernejat.com%2F) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
