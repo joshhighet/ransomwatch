@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-05-22 | [`Confidential and High Sensitive Data`](https://google.com/search?q=Confidential+and+High+Sensitive+Data) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-05-22 | [`vdbassocies.fr`](https://google.com/search?q=vdbassocies.fr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-05-22 | [`softland.cl`](https://google.com/search?q=softland.cl) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-05-22 | [`siren-japan.com`](https://google.com/search?q=siren-japan.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-05-03 | [`SIVSA, Coremain`](https://google.com/search?q=SIVSA%2C+Coremain) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-05-03 | [`Nova Group`](https://google.com/search?q=Nova+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-05-03 | [`City of Lowell`](https://google.com/search?q=City+of+Lowell) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-05-03 | [`DGC`](https://google.com/search?q=DGC) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
