@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-05-22 | [`http://westside-health.org`](https://google.com/search?q=http%3A%2F%2Fwestside-health.org) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
+| 2023-05-22 | [`rmc-canada.com`](https://google.com/search?q=rmc-canada.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-05-22 | [`Harmony Gold`](https://google.com/search?q=Harmony+Gold) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-05-22 | [`http://www.utahyamas.com`](https://google.com/search?q=http%3A%2F%2Fwww.utahyamas.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
 | 2023-05-22 | [`http://morrishospital.org`](https://google.com/search?q=http%3A%2F%2Fmorrishospital.org) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-05-04 | [`Willamette Falls`](https://google.com/search?q=Willamette+Falls) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-05-04 | [`Garcia Hamilton & Associates`](https://google.com/search?q=Garcia+Hamilton+%26+Associates) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-05-04 | [`layherna.com`](https://google.com/search?q=layherna.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-05-04 | [`Forest Ridge`](https://google.com/search?q=Forest+Ridge) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2023-05-04 | [`Gihealthcare`](https://google.com/search?q=Gihealthcare) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
