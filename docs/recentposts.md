@@ -4,6 +4,12 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-05-23 | [`Black Cat Networks`](https://google.com/search?q=Black+Cat+Networks) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-05-23 | [`Paragon Software Lanka`](https://google.com/search?q=Paragon+Software+Lanka) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-05-23 | [`Mayberry Investments`](https://google.com/search?q=Mayberry+Investments) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-05-23 | [`Grupo Corporacion Control`](https://google.com/search?q=Grupo+Corporacion+Control) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-05-23 | [`Studioline Photography`](https://google.com/search?q=Studioline+Photography) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-05-23 | [`Chattanooga State Community College`](https://google.com/search?q=Chattanooga+State+Community+College) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
 | 2023-05-22 | [`Royal Centre`](https://google.com/search?q=Royal+Centre) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-05-22 | [`Poly`](https://google.com/search?q=Poly) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-05-22 | [`Optimus Steel`](https://google.com/search?q=Optimus+Steel) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -198,9 +204,3 @@ _last `200` posts_
 | 2023-05-05 | [`B** ******* *********`](https://google.com/search?q=B%2A%2A+%2A%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-05-05 | [`C******* **********`](https://google.com/search?q=C%2A%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-05-05 | [`M*********** ******* ******`](https://google.com/search?q=M%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2023-05-05 | [`N******** ********`](https://google.com/search?q=N%2A%2A%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2023-05-05 | [`Coteccons Group was hacked. One of the most insecure construction companies in Asia has le`](https://google.com/search?q=Coteccons+Group+was+hacked.+One+of+the+most+insecure+construction+companies+in+Asia+has+le) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-05-05 | [`KKDI.CO.ID including companies AICC, JBI, TJFI (part of the kddi.com holding company, whos`](https://google.com/search?q=KKDI.CO.ID+including+companies+AICC%2C+JBI%2C+TJFI+%28part+of+the+kddi.com+holding+company%2C+whos) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-05-05 | [`The Perry Law Firm`](https://google.com/search?q=The+Perry+Law+Firm) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2023-05-05 | [`The Lab Consulting`](https://google.com/search?q=The+Lab+Consulting) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2023-05-05 | [`R**** ******`](https://google.com/search?q=R%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
