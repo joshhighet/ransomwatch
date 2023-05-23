@@ -106,6 +106,12 @@ _last `200` posts_
 | 2023-05-23 | [`Melco`](https://google.com/search?q=Melco) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
 | 2023-05-23 | [`ocean`](https://google.com/search?q=ocean) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
 | 2023-05-23 | [`marehotels`](https://google.com/search?q=marehotels) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
+| 2023-05-23 | [`Amaszonas S.A. `](https://google.com/search?q=Amaszonas+S.A.+) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
+| 2023-05-23 | [`Leland Campbell LLP law firm`](https://google.com/search?q=Leland+Campbell+LLP+law+firm) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
+| 2023-05-23 | [`http://www.co.coos.or.us`](https://google.com/search?q=http%3A%2F%2Fwww.co.coos.or.us) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
+| 2023-05-23 | [`H*****`](https://google.com/search?q=H%2A%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2023-05-23 | [`Rusan Pharma`](https://google.com/search?q=Rusan+Pharma) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2023-05-23 | [`sunray.com.sg`](https://google.com/search?q=sunray.com.sg) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-05-23 | [`Chattanooga Heart Institute`](https://google.com/search?q=Chattanooga+Heart+Institute) | [karakurt](https://ransomwatch.telemetry.ltd/#/profiles?id=karakurt) |
 | 2023-05-23 | [`http://www.dotcomdist.com`](https://google.com/search?q=http%3A%2F%2Fwww.dotcomdist.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
 | 2023-05-23 | [`surfsidefoods.com`](https://google.com/search?q=surfsidefoods.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -198,9 +204,3 @@ _last `200` posts_
 | 2023-05-16 | [`airtac.com`](https://google.com/search?q=airtac.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-05-16 | [`chinadailyhk.com`](https://google.com/search?q=chinadailyhk.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-05-16 | [`IXPERTA`](https://google.com/search?q=IXPERTA) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
-| 2023-05-15 | [` www.l3harris.com`](https://google.com/search?q=+www.l3harris.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
-| 2023-05-15 | [` wsots.net`](https://google.com/search?q=+wsots.net) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
-| 2023-05-15 | [`BAMSI`](https://google.com/search?q=BAMSI) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
-| 2023-05-15 | [`PCS Wireless`](https://google.com/search?q=PCS+Wireless) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-05-15 | [`Accudo Investments LTD`](https://google.com/search?q=Accudo+Investments+LTD) | [trigona](https://ransomwatch.telemetry.ltd/#/profiles?id=trigona) |
-| 2023-05-15 | [`http://www.parkerdrilling.comwww.parkerwellbore.com`](https://google.com/search?q=http%3A%2F%2Fwww.parkerdrilling.comwww.parkerwellbore.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
