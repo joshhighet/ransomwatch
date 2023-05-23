@@ -584,8 +584,9 @@ def stormous():
     # grep '<p> <h3> <font color="' source/stormous-*.html | grep '</h3>' | cut -d '>' -f 4 | cut -d '<' -f 1 | sed -e 's/^ *//g' -e 's/[[:space:]]*$//'
     # grep '<h3>' source/stormous-*.html | sed -e 's/^ *//g' -e 's/[[:space:]]*$//' | grep "^<h3> <font" | cut -d '>' -f 3 | cut -d '<' -f 1 | sed 's/[[:space:]]*$//'
     # awk '/<h3>/{getline; print}' source/stormous-*.html | sed -e 's/^ *//g' -e 's/[[:space:]]*$//'
+    # grep 'class="h1"' source/stormous-h3*.html | cut -d '>' -f 4 | cut -d '<' -f 1 | sort --uniq | sed -e '/^Percentage/d' -e '/^Payment/d' -e '/^Click here/d'
     parser = '''
-    grep 'class="h1"' source/stormous-h3*.html | cut -d '>' -f 4 | cut -d '<' -f 1 | sort --uniq | sed -e '/^Percentage/d' -e '/^Payment/d' -e '/^Click here/d'
+    grep --no-filename ' <a href="">  <h3>' source/stormous-*.html | cut -d '>' -f 3 | cut -d '<' -f 1
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
@@ -968,8 +969,9 @@ def dunghill_leak():
 def trigona():
     stdlog('parser: ' + 'trigona')
     # awk -vRS='</a><a class="auction-item-info__external"' '{gsub(/.*<div class="auction-item-info__title"> <a href="[^"]*" title="">|<\/a>.*/,""); print}' source/trigona-*.html | grep -v href | sed 's/^[[:space:]]*//;s/[[:space:]]*$//'
+    # grep -o -E '<a href="/leak/[0-9]+" title="">[^<]*' source/trigona-*.html | sed -E 's/<a href="\/leak\/[0-9]+" title="">//'
     parser = '''
-    grep -o -E '<a href="/leak/[0-9]+" title="">[^<]*' source/trigona-*.html | sed -E 's/<a href="\/leak\/[0-9]+" title="">//'
+    grep -o '<a [^>]*title="[^"]*"' source/trigona-*.html | grep 'path=' | cut -d '=' -f 3 | cut -d '"' -f 1
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
