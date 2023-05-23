@@ -304,6 +304,7 @@ if args.mode == 'parse':
     parsers.eightbase()
     parsers.malas()
     parsers.blacksuit()
+    parsers.rancoz()
     stdlog('ransomwatch: ' + 'parse run complete')
 
 if args.mode == 'list':

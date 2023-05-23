@@ -4393,5 +4393,25 @@
             }
         ],
         "profile": []
+    },
+    {
+        "name": "rancoz",
+        "captcha": false,
+        "parser": true,
+        "javascript_render": false,
+        "meta": null,
+        "locations": [
+            {
+                "fqdn": "ze677xuzard4lx4iul2yzf5ks4gqqzoulgj5u4n5n4bbbsxjbfr7eayd.onion",
+                "title": "Rancoz | Blog",
+                "version": 3,
+                "slug": "http://ze677xuzard4lx4iul2yzf5ks4gqqzoulgj5u4n5n4bbbsxjbfr7eayd.onion",
+                "available": true,
+                "updated": "2023-05-23 18:52:17.407370",
+                "lastscrape": "2023-05-23 18:52:17.407358",
+                "enabled": true
+            }
+        ],
+        "profile": []
     }
 ]

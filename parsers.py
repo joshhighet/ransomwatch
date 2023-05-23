@@ -1054,3 +1054,14 @@ def blacksuit():
         errlog('blacksuit: ' + 'parsing fail')
     for post in posts:  
         appender(post, 'blacksuit')
+
+def rancoz():
+    stdlog('parser: ' + 'rancoz')
+    parser = '''
+    grep -C 1 "<tr class='trow'>" source/rancoz-*.html | grep '<td>' | cut -d '>' -f 2 | cut -d '<' -f 1
+    '''
+    posts = runshellcmd(parser)
+    if len(posts) == 1:
+        errlog('rancoz: ' + 'parsing fail')
+    for post in posts:
+        appender(post, 'rancoz')
