@@ -130,7 +130,7 @@ def socksfetcher(url):
             errlog('sharedutils: ' + 'socks response error - ' + str(ae))
             return None
     except requests.exceptions.Timeout:
-        errlog('geckodriver: ' + 'socks request timed out!')
+        errlog('sharedutils: ' + 'socks request timed out!')
         return None
     except requests.exceptions.ConnectionError as rec:
         # catch SOCKSHTTPConnectionPool Host unreachable
