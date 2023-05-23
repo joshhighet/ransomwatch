@@ -844,8 +844,9 @@ def medusa():
 
 def nokoyawa():
     stdlog('parser: ' + 'nokoyawa')
+    # awk '/<h1/{getline; print}' source/nokoyawa-*.html | sed -e 's/^ *//g' -e 's/[[:space:]]*$//'
     parser = '''
-    awk '/<h1/{getline; print}' source/nokoyawa-*.html | sed -e 's/^ *//g' -e 's/[[:space:]]*$//'
+    jq -r '.payload[].title' source/nokoyawa-noko65rm*.html | sed 's/%20/ /g'
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:

@@ -3190,7 +3190,7 @@
                 "available": false,
                 "updated": "2022-07-11 22:26:00.512463",
                 "lastscrape": "2022-07-11 22:26:00.512452",
-                "enabled": true
+                "enabled": false
             },
             {
                 "fqdn": "6yofnrq7evqrtz3tzi3dkbrdovtywd35lx3iqbc5dyh367nrdh4jgfyd.onion",
@@ -3200,6 +3200,26 @@
                 "available": false,
                 "updated": "2023-01-25 18:45:04.724897",
                 "lastscrape": "2023-01-25 18:45:04.724882",
+                "enabled": false
+            },
+            {
+                "fqdn": "nokoleakb76znymx443veg4n6fytx6spck6pc7nkr4dvfuygpub6jsid.onion",
+                "title": "Wall of Shame",
+                "version": 3,
+                "slug": "http://nokoleakb76znymx443veg4n6fytx6spck6pc7nkr4dvfuygpub6jsid.onion",
+                "available": true,
+                "updated": "2023-05-23 18:29:05.160225",
+                "lastscrape": "2023-05-23 18:29:05.160207",
+                "enabled": true
+            },
+            {
+                "fqdn": "noko65rmtaiqyt2cw2h4jrxe3u56t2k7ov3nd22hoji4c5vnfib2i4yd.onion",
+                "title": null,
+                "version": 3,
+                "slug": "http://noko65rmtaiqyt2cw2h4jrxe3u56t2k7ov3nd22hoji4c5vnfib2i4yd.onion/api/leaks/get",
+                "available": true,
+                "updated": "2023-05-23 18:29:12.993131",
+                "lastscrape": "2023-05-23 18:29:12.993121",
                 "enabled": true
             }
         ],
