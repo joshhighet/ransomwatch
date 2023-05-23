@@ -106,6 +106,10 @@ _last `200` posts_
 | 2023-05-23 | [`Melco`](https://google.com/search?q=Melco) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
 | 2023-05-23 | [`ocean`](https://google.com/search?q=ocean) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
 | 2023-05-23 | [`marehotels`](https://google.com/search?q=marehotels) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
+| 2023-05-23 | [`Chattanooga Heart Institute`](https://google.com/search?q=Chattanooga+Heart+Institute) | [karakurt](https://ransomwatch.telemetry.ltd/#/profiles?id=karakurt) |
+| 2023-05-23 | [`http://www.dotcomdist.com`](https://google.com/search?q=http%3A%2F%2Fwww.dotcomdist.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
+| 2023-05-23 | [`surfsidefoods.com`](https://google.com/search?q=surfsidefoods.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-05-23 | [`spectre.dk`](https://google.com/search?q=spectre.dk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-05-23 | [`RIC Electronics (ricelectronics.com)`](https://google.com/search?q=RIC+Electronics+%28ricelectronics.com%29) | [rancoz](https://ransomwatch.telemetry.ltd/#/profiles?id=rancoz) |
 | 2023-05-23 | [`TrueLogic (truelogiccompany.com)`](https://google.com/search?q=TrueLogic+%28truelogiccompany.com%29) | [rancoz](https://ransomwatch.telemetry.ltd/#/profiles?id=rancoz) |
 | 2023-05-23 | [`https://www.stant.com`](https://google.com/search?q=https%3A%2F%2Fwww.stant.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
@@ -200,7 +204,3 @@ _last `200` posts_
 | 2023-05-15 | [`PCS Wireless`](https://google.com/search?q=PCS+Wireless) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-05-15 | [`Accudo Investments LTD`](https://google.com/search?q=Accudo+Investments+LTD) | [trigona](https://ransomwatch.telemetry.ltd/#/profiles?id=trigona) |
 | 2023-05-15 | [`http://www.parkerdrilling.comwww.parkerwellbore.com`](https://google.com/search?q=http%3A%2F%2Fwww.parkerdrilling.comwww.parkerwellbore.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
-| 2023-05-15 | [`norcorp.com`](https://google.com/search?q=norcorp.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-05-15 | [`Group DIS (Direct Info Services)`](https://google.com/search?q=Group+DIS+%28Direct+Info+Services%29) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-05-15 | [`QUORUMIS`](https://google.com/search?q=QUORUMIS) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-05-15 | [`York County School of Technology`](https://google.com/search?q=York+County+School+of+Technology) | [karakurt](https://ransomwatch.telemetry.ltd/#/profiles?id=karakurt) |
