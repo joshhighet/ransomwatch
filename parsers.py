@@ -1032,3 +1032,14 @@ def eightbase():
         errlog('8base: ' + 'parsing fail')
     for post in posts:
         appender(post, '8base')
+
+def malas():
+    stdlog('parser: ' + 'malas')
+    parser = '''
+    grep '<a class="link" href=' source/malas-*.html  --no-filename | cut -d '>' -f2
+    '''
+    posts = runshellcmd(parser)
+    if len(posts) == 1:
+        errlog('malas: ' + 'parsing fail')
+    for post in posts:
+        appender(post, 'malas')

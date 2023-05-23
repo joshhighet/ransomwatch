@@ -4353,5 +4353,25 @@
             }
         ],
         "profile": []
+    },
+    {
+        "name": "malas",
+        "captcha": false,
+        "parser": true,
+        "javascript_render": false,
+        "meta": null,
+        "locations": [
+            {
+                "fqdn": "malas2urovbyyavjzaezkt5ohljvyd5lt7vv7mnsgbf2y4bwlh72doqd.onion",
+                "title": "Posts | Somos malas... podemos ser peores",
+                "version": 3,
+                "slug": "http://malas2urovbyyavjzaezkt5ohljvyd5lt7vv7mnsgbf2y4bwlh72doqd.onion/posts/",
+                "available": true,
+                "updated": "2023-05-23 18:37:36.580119",
+                "lastscrape": "2023-05-23 18:37:36.580103",
+                "enabled": true
+            }
+        ],
+        "profile": []
     }
 ]
