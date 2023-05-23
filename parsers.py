@@ -1020,3 +1020,14 @@ def ragroup():
         errlog('ragroup: ' + 'parsing fail')
     for post in posts:
         appender(post, 'ragroup')
+
+def eightbase():
+    stdlog('parser: ' + '8base')
+    parser = '''
+    awk '/class="stretched-link">/{getline; print}' source/8base-*.html | sed -e 's/^[ \t]*//'
+    '''
+    posts = runshellcmd(parser)
+    if len(posts) == 1:
+        errlog('8base: ' + 'parsing fail')
+    for post in posts:
+        appender(post, '8base')

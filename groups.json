@@ -4313,5 +4313,25 @@
             }
         ],
         "profile": []
+    },
+    {
+        "name": "8base",
+        "captcha": false,
+        "parser": true,
+        "javascript_render": false,
+        "meta": null,
+        "locations": [
+            {
+                "fqdn": "basemmnnqwxevlymli5bs36o5ynti55xojzvn246spahniugwkff2pad.onion",
+                "title": "Home",
+                "version": 3,
+                "slug": "http://basemmnnqwxevlymli5bs36o5ynti55xojzvn246spahniugwkff2pad.onion",
+                "available": true,
+                "updated": "2023-05-23 18:01:55.998267",
+                "lastscrape": "2023-05-23 18:01:55.998242",
+                "enabled": true
+            }
+        ],
+        "profile": []
     }
 ]

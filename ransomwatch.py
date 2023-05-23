@@ -301,6 +301,7 @@ if args.mode == 'parse':
     parsers.akira()
     parsers.cryptnet()
     parsers.ragroup()
+    parsers.eightbase()
     stdlog('ransomwatch: ' + 'parse run complete')
 
 if args.mode == 'list':
