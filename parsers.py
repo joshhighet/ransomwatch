@@ -1043,3 +1043,14 @@ def malas():
         errlog('malas: ' + 'parsing fail')
     for post in posts:
         appender(post, 'malas')
+
+def blacksuit():
+    stdlog('parser: ' + 'blacksuit')
+    parser = '''
+    sed -n 's/.*<a href="?id=[^>]*>\([^<]*\)<.*/\1/p' source/blacksuit-*.html || true
+    '''
+    posts = runshellcmd(parser)
+    if len(posts) == 1:
+        errlog('blacksuit: ' + 'parsing fail')
+    for post in posts:  
+        appender(post, 'blacksuit')
