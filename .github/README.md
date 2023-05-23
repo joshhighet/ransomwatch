@@ -113,6 +113,13 @@ options:
   --append APPEND       add onionsite fqdn to existing record
 ```
 
+newly indexed posts can be sent to discord by providing a `DISCORD_WEBHOOK` var when running `parse`.
+
+```shell
+DISCORD_WEBHOOK=https://discord.com/api/webhooks/xxxxx/xxx ./ransomwatch.py parse
+```
+<img width="381" src="https://github.com/joshhighet/ransomwatch/assets/17993143/53226d1e-475b-4e80-8af5-727c153e6b4c">
+
 ## datamap
 
 ```mermaid
