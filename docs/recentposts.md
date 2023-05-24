@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-05-24 | [`M******* *****`](https://google.com/search?q=M%2A%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2023-05-24 | [`roha.com`](https://google.com/search?q=roha.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-05-24 | [`interstateplastics.com`](https://google.com/search?q=interstateplastics.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-05-24 | [`Voxx Electronics - company, which has a huge number of vulnerabilities was hacked. A large`](https://google.com/search?q=Voxx+Electronics+-+company%2C+which+has+a+huge+number+of+vulnerabilities+was+hacked.+A+large) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-05-23 | [`P1 Technical Services`](https://google.com/search?q=P1+Technical+Services) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-05-16 | [`ance.org.mx`](https://google.com/search?q=ance.org.mx) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-05-16 | [`SOWITEC`](https://google.com/search?q=SOWITEC) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-05-16 | [`ORION`](https://google.com/search?q=ORION) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-05-16 | [`Feit Electric`](https://google.com/search?q=Feit+Electric) | [trigona](https://ransomwatch.telemetry.ltd/#/profiles?id=trigona) |
-| 2023-05-16 | [`airtac.com`](https://google.com/search?q=airtac.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
