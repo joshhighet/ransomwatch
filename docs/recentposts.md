@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-05-25 | [`globalinfovision.com`](https://google.com/search?q=globalinfovision.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-05-24 | [`The Middleton Group`](https://google.com/search?q=The+Middleton+Group) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-05-24 | [`Trabzonspor Football Club`](https://google.com/search?q=Trabzonspor+Football+Club) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-05-24 | [`M******* *****`](https://google.com/search?q=M%2A%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-05-17 | [`PM Medical Billing was hacking. A company with multiple vulnerabilities in its network all`](https://google.com/search?q=PM+Medical+Billing+was+hacking.+A+company+with+multiple+vulnerabilities+in+its+network+all) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-05-17 | [`Electrostim Medical Services`](https://google.com/search?q=Electrostim+Medical+Services) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-05-16 | [`wings.travel`](https://google.com/search?q=wings.travel) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-05-16 | [`ance.org.mx`](https://google.com/search?q=ance.org.mx) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
