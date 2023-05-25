@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-05-25 | [`sfponline.org`](https://google.com/search?q=sfponline.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-05-25 | [`pneusbelislecarrieres.com`](https://google.com/search?q=pneusbelislecarrieres.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-05-25 | [`affinityhealthservices.net`](https://google.com/search?q=affinityhealthservices.net) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-05-25 | [`Leidos`](https://google.com/search?q=Leidos) | [trigona](https://ransomwatch.telemetry.ltd/#/profiles?id=trigona) |
 | 2023-05-25 | [`globalinfovision.com`](https://google.com/search?q=globalinfovision.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-05-24 | [`The Middleton Group`](https://google.com/search?q=The+Middleton+Group) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2023-05-17 | [`Aneka Tambang`](https://google.com/search?q=Aneka+Tambang) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2023-05-17 | [`Group DIS leak 1/2`](https://google.com/search?q=Group+DIS+leak+1%2F2) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-05-17 | [`Magic-Aire`](https://google.com/search?q=Magic-Aire) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
-| 2023-05-17 | [`plastictecnic.com`](https://google.com/search?q=plastictecnic.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-05-17 | [`PM Medical Billing was hacking. A company with multiple vulnerabilities in its network all`](https://google.com/search?q=PM+Medical+Billing+was+hacking.+A+company+with+multiple+vulnerabilities+in+its+network+all) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-05-17 | [`Electrostim Medical Services`](https://google.com/search?q=Electrostim+Medical+Services) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
