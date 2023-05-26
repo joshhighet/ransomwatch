@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-05-26 | [`new-target-5`](https://google.com/search?q=new-target-5) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
 | 2023-05-26 | [`Good Oil Company`](https://google.com/search?q=Good+Oil+Company) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-05-26 | [`watersaversinc.com`](https://google.com/search?q=watersaversinc.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-05-26 | [`floodlaw.com`](https://google.com/search?q=floodlaw.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-05-21 | [`Reach Cooling Group was hacked. A company whose cooperation is dangerous to your business `](https://google.com/search?q=Reach+Cooling+Group+was+hacked.+A+company+whose+cooperation+is+dangerous+to+your+business+) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-05-21 | [`ebdlab.com`](https://google.com/search?q=ebdlab.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-05-20 | [`ASIA_2`](https://google.com/search?q=ASIA_2) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2023-05-19 | [`https://https://www.ktlaw.co.nz/`](https://google.com/search?q=https%3A%2F%2Fhttps%3A%2F%2Fwww.ktlaw.co.nz%2F) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
