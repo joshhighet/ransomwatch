@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-05-26 | [`kyocera-avx.com`](https://google.com/search?q=kyocera-avx.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-05-26 | [`fams.net`](https://google.com/search?q=fams.net) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-05-25 | [`City of Augusta`](https://google.com/search?q=City+of+Augusta) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
 | 2023-05-25 | [`Norton Healthcare`](https://google.com/search?q=Norton+Healthcare) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-05-25 | [`sfponline.org`](https://google.com/search?q=sfponline.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-05-18 | [`ENSA - Seguros de Angola`](https://google.com/search?q=ENSA+-+Seguros+de+Angola) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-05-18 | [`Z*** ******** ******s`](https://google.com/search?q=Z%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2As) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-05-18 | [`TaslyUS`](https://google.com/search?q=TaslyUS) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-05-17 | [`AVIAREPS_COM_2222`](https://google.com/search?q=AVIAREPS_COM_2222) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2023-05-17 | [`Aneka Tambang`](https://google.com/search?q=Aneka+Tambang) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
