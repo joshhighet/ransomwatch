@@ -4,6 +4,12 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-05-26 | [`Good Oil Company`](https://google.com/search?q=Good+Oil+Company) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2023-05-26 | [`watersaversinc.com`](https://google.com/search?q=watersaversinc.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-05-26 | [`floodlaw.com`](https://google.com/search?q=floodlaw.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-05-26 | [`fiduagraria.gov.co`](https://google.com/search?q=fiduagraria.gov.co) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-05-26 | [`arnoldoilco.com`](https://google.com/search?q=arnoldoilco.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-05-26 | [`aimtron.com`](https://google.com/search?q=aimtron.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-05-26 | [`Marshall Construction Ltd`](https://google.com/search?q=Marshall+Construction+Ltd) | [trigona](https://ransomwatch.telemetry.ltd/#/profiles?id=trigona) |
 | 2023-05-26 | [`http://www.colrich.com`](https://google.com/search?q=http%3A%2F%2Fwww.colrich.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
 | 2023-05-26 | [`http://www.haworthtompkins.com`](https://google.com/search?q=http%3A%2F%2Fwww.haworthtompkins.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
@@ -198,9 +204,3 @@ _last `200` posts_
 | 2023-05-21 | [`ebdlab.com`](https://google.com/search?q=ebdlab.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-05-20 | [`ASIA_2`](https://google.com/search?q=ASIA_2) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2023-05-19 | [`https://https://www.ktlaw.co.nz/`](https://google.com/search?q=https%3A%2F%2Fhttps%3A%2F%2Fwww.ktlaw.co.nz%2F) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
-| 2023-05-19 | [`Al Tamimi Law Firm`](https://google.com/search?q=Al+Tamimi+Law+Firm) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
-| 2023-05-19 | [`https://https://www.maier-sanitaer.de`](https://google.com/search?q=https%3A%2F%2Fhttps%3A%2F%2Fwww.maier-sanitaer.de) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
-| 2023-05-19 | [`Advantage Resourcing`](https://google.com/search?q=Advantage+Resourcing) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2023-05-19 | [`Rolser`](https://google.com/search?q=Rolser) | [trigona](https://ransomwatch.telemetry.ltd/#/profiles?id=trigona) |
-| 2023-05-19 | [`http://www.dallascityhall.com`](https://google.com/search?q=http%3A%2F%2Fwww.dallascityhall.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
-| 2023-05-19 | [`https://https://hmsosa.com`](https://google.com/search?q=https%3A%2F%2Fhttps%3A%2F%2Fhmsosa.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
