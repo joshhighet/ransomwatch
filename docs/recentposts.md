@@ -4,6 +4,17 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-05-26 | [`Marshall Construction Ltd`](https://google.com/search?q=Marshall+Construction+Ltd) | [trigona](https://ransomwatch.telemetry.ltd/#/profiles?id=trigona) |
+| 2023-05-26 | [`http://www.colrich.com`](https://google.com/search?q=http%3A%2F%2Fwww.colrich.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
+| 2023-05-26 | [`http://www.haworthtompkins.com`](https://google.com/search?q=http%3A%2F%2Fwww.haworthtompkins.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
+| 2023-05-26 | [`http://www.co-pack.co.uk`](https://google.com/search?q=http%3A%2F%2Fwww.co-pack.co.uk) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
+| 2023-05-26 | [`http://www.sovitrat.fr`](https://google.com/search?q=http%3A%2F%2Fwww.sovitrat.fr) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
+| 2023-05-26 | [`http://www.bmprecision.com`](https://google.com/search?q=http%3A%2F%2Fwww.bmprecision.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
+| 2023-05-26 | [`http://www.directviz.com`](https://google.com/search?q=http%3A%2F%2Fwww.directviz.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
+| 2023-05-26 | [`http://www.thebestconnection.co.uk`](https://google.com/search?q=http%3A%2F%2Fwww.thebestconnection.co.uk) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
+| 2023-05-26 | [`http://www.mitutoyo.ch`](https://google.com/search?q=http%3A%2F%2Fwww.mitutoyo.ch) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
+| 2023-05-26 | [`http://www.afgholdings.com`](https://google.com/search?q=http%3A%2F%2Fwww.afgholdings.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
+| 2023-05-26 | [`http://www.volt.com`](https://google.com/search?q=http%3A%2F%2Fwww.volt.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
 | 2023-05-26 | [`wiannoclub.com`](https://google.com/search?q=wiannoclub.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-05-26 | [`Procurri`](https://google.com/search?q=Procurri) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-05-26 | [`wenntownsend`](https://google.com/search?q=wenntownsend) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -193,14 +204,3 @@ _last `200` posts_
 | 2023-05-19 | [`Rolser`](https://google.com/search?q=Rolser) | [trigona](https://ransomwatch.telemetry.ltd/#/profiles?id=trigona) |
 | 2023-05-19 | [`http://www.dallascityhall.com`](https://google.com/search?q=http%3A%2F%2Fwww.dallascityhall.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
 | 2023-05-19 | [`https://https://hmsosa.com`](https://google.com/search?q=https%3A%2F%2Fhttps%3A%2F%2Fhmsosa.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
-| 2023-05-19 | [`csagh.org`](https://google.com/search?q=csagh.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-05-19 | [`It Works Global`](https://google.com/search?q=It+Works+Global) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-05-18 | [`antea.es`](https://google.com/search?q=antea.es) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-05-18 | [`Autlan Metallorum, Mexican Miner Leak`](https://google.com/search?q=Autlan+Metallorum%2C+Mexican+Miner+Leak) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
-| 2023-05-18 | [`shoreregional.org`](https://google.com/search?q=shoreregional.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-05-18 | [`metalnet.nl`](https://google.com/search?q=metalnet.nl) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-05-18 | [`enovationcontrols.com`](https://google.com/search?q=enovationcontrols.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-05-18 | [`http://www.nashua.edu`](https://google.com/search?q=http%3A%2F%2Fwww.nashua.edu) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
-| 2023-05-18 | [`E4NET`](https://google.com/search?q=E4NET) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-05-18 | [`Lolaico Impianti`](https://google.com/search?q=Lolaico+Impianti) | [trigona](https://ransomwatch.telemetry.ltd/#/profiles?id=trigona) |
-| 2023-05-18 | [`*a***** *****`](https://google.com/search?q=%2Aa%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
