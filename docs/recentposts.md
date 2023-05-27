@@ -4,6 +4,10 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-05-27 | [`******MD`](https://google.com/search?q=%2A%2A%2A%2A%2A%2AMD) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2023-05-27 | [`**G Inc.`](https://google.com/search?q=%2A%2AG+Inc.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2023-05-27 | [`*a*** I*********`](https://google.com/search?q=%2Aa%2A%2A%2A+I%2A%2A%2A%2A%2A%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2023-05-27 | [`H****** **e*** V******* **i** Project`](https://google.com/search?q=H%2A%2A%2A%2A%2A%2A+%2A%2Ae%2A%2A%2A+V%2A%2A%2A%2A%2A%2A%2A+%2A%2Ai%2A%2A+Project) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-05-27 | [`Fiduagraria`](https://google.com/search?q=Fiduagraria) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-05-27 | [`ah-a`](https://google.com/search?q=ah-a) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-05-26 | [`Servizi Omnia`](https://google.com/search?q=Servizi+Omnia) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
@@ -200,7 +204,3 @@ _last `200` posts_
 | 2023-05-22 | [`FRESCA`](https://google.com/search?q=FRESCA) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
 | 2023-05-22 | [`MSSNY`](https://google.com/search?q=MSSNY) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
 | 2023-05-22 | [`LiveAction`](https://google.com/search?q=LiveAction) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
-| 2023-05-22 | [`Asia Vital Components`](https://google.com/search?q=Asia+Vital+Components) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
-| 2023-05-21 | [`diasporacs.org`](https://google.com/search?q=diasporacs.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-05-21 | [`abe-brands.de`](https://google.com/search?q=abe-brands.de) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-05-21 | [`FajarPaper was hacked. The most dangerous company to cooperate with in Indonesia may pose `](https://google.com/search?q=FajarPaper+was+hacked.+The+most+dangerous+company+to+cooperate+with+in+Indonesia+may+pose+) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
