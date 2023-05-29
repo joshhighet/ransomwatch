@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-05-29 | [`Computer Information Concepts Inc`](https://google.com/search?q=Computer+Information+Concepts+Inc) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
+| 2023-05-29 | [`Brokers Trust Insura nce Group`](https://google.com/search?q=Brokers+Trust+Insura+nce+Group) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
+| 2023-05-29 | [`retailmerchantservices.co.uk`](https://google.com/search?q=retailmerchantservices.co.uk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-05-29 | [`Fersten Worldwide`](https://google.com/search?q=Fersten+Worldwide) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-05-29 | [`C********* ***************`](https://google.com/search?q=C%2A%2A%2A%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-05-29 | [`Earlens Corporation`](https://google.com/search?q=Earlens+Corporation) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2023-05-22 | [`http://morrishospital.org`](https://google.com/search?q=http%3A%2F%2Fmorrishospital.org) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
 | 2023-05-22 | [`http://www.trinityexploration.com`](https://google.com/search?q=http%3A%2F%2Fwww.trinityexploration.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
 | 2023-05-22 | [`Loreto Normanhurst`](https://google.com/search?q=Loreto+Normanhurst) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
-| 2023-05-22 | [`SIGMA`](https://google.com/search?q=SIGMA) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
-| 2023-05-22 | [`Confidential and High Sensitive Data`](https://google.com/search?q=Confidential+and+High+Sensitive+Data) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-05-22 | [`vdbassocies.fr`](https://google.com/search?q=vdbassocies.fr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
