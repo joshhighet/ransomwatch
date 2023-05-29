@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-05-29 | [`BilgeAdam Software`](https://google.com/search?q=BilgeAdam+Software) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-05-28 | [`grantierra.com`](https://google.com/search?q=grantierra.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-05-28 | [`voyageursdumonde.fr`](https://google.com/search?q=voyageursdumonde.fr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-05-28 | [`Australian Universal Crane Leak`](https://google.com/search?q=Australian+Universal+Crane+Leak) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-05-22 | [`rapidmoldsolutions.com`](https://google.com/search?q=rapidmoldsolutions.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-05-22 | [`hadefpartners.com`](https://google.com/search?q=hadefpartners.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-05-22 | [`Comoli Ferrari`](https://google.com/search?q=Comoli+Ferrari) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
-| 2023-05-22 | [`Canadian Nurses Association`](https://google.com/search?q=Canadian+Nurses+Association) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
