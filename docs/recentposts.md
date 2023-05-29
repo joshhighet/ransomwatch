@@ -4,6 +4,10 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-05-29 | [`Fersten Worldwide`](https://google.com/search?q=Fersten+Worldwide) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
+| 2023-05-29 | [`C********* ***************`](https://google.com/search?q=C%2A%2A%2A%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2023-05-29 | [`Earlens Corporation`](https://google.com/search?q=Earlens+Corporation) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2023-05-29 | [`Neutronic Stamping`](https://google.com/search?q=Neutronic+Stamping) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-05-29 | [`Roadies`](https://google.com/search?q=Roadies) | [nokoyawa](https://ransomwatch.telemetry.ltd/#/profiles?id=nokoyawa) |
 | 2023-05-29 | [`BilgeAdam Software`](https://google.com/search?q=BilgeAdam+Software) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-05-28 | [`grantierra.com`](https://google.com/search?q=grantierra.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -200,7 +204,3 @@ _last `200` posts_
 | 2023-05-22 | [`SIGMA`](https://google.com/search?q=SIGMA) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-05-22 | [`Confidential and High Sensitive Data`](https://google.com/search?q=Confidential+and+High+Sensitive+Data) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-05-22 | [`vdbassocies.fr`](https://google.com/search?q=vdbassocies.fr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-05-22 | [`softland.cl`](https://google.com/search?q=softland.cl) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-05-22 | [`siren-japan.com`](https://google.com/search?q=siren-japan.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-05-22 | [`rapidmoldsolutions.com`](https://google.com/search?q=rapidmoldsolutions.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-05-22 | [`hadefpartners.com`](https://google.com/search?q=hadefpartners.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
