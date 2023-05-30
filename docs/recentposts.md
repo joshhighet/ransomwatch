@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-05-30 | [`casepoint.com`](https://google.com/search?q=casepoint.com) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-05-30 | [`eastern-media-international-corporation`](https://google.com/search?q=eastern-media-international-corporation) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
 | 2023-05-29 | [`Soroc`](https://google.com/search?q=Soroc) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-05-29 | [`Adsboll`](https://google.com/search?q=Adsboll) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-05-22 | [`H****** ****`](https://google.com/search?q=H%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-05-22 | [`Zoni Language Centers`](https://google.com/search?q=Zoni+Language+Centers) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-05-22 | [`http://westside-health.org`](https://google.com/search?q=http%3A%2F%2Fwestside-health.org) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
-| 2023-05-22 | [`rmc-canada.com`](https://google.com/search?q=rmc-canada.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
