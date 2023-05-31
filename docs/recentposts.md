@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-05-31 | [`buckprop.com`](https://google.com/search?q=buckprop.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-05-31 | [`Sur La Table`](https://google.com/search?q=Sur+La+Table) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2023-05-30 | [`nycollege.edu`](https://google.com/search?q=nycollege.edu) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-05-30 | [`fixscr.com`](https://google.com/search?q=fixscr.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-05-23 | [`Chattanooga State Community College`](https://google.com/search?q=Chattanooga+State+Community+College) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
 | 2023-05-22 | [`Royal Centre`](https://google.com/search?q=Royal+Centre) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-05-22 | [`Poly`](https://google.com/search?q=Poly) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-05-22 | [`Optimus Steel`](https://google.com/search?q=Optimus+Steel) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
