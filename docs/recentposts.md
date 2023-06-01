@@ -4,6 +4,15 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-06-01 | [`R Eckel's Transport`](https://google.com/search?q=R+Eckel%27s+Transport) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2023-06-01 | [`****y *o***** Companies Group`](https://google.com/search?q=%2A%2A%2A%2Ay+%2Ao%2A%2A%2A%2A%2A+Companies+Group) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2023-06-01 | [`Aarti Industries Ltd.`](https://google.com/search?q=Aarti+Industries+Ltd.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2023-06-01 | [`EDG, Inc`](https://google.com/search?q=EDG%2C+Inc) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2023-06-01 | [`Chadwick, Washington, Moriarty, Elmore and Bunn`](https://google.com/search?q=Chadwick%2C+Washington%2C+Moriarty%2C+Elmore+and+Bunn) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2023-06-01 | [`Handok Inc.`](https://google.com/search?q=Handok+Inc.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2023-06-01 | [`Laebon Homes`](https://google.com/search?q=Laebon+Homes) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2023-06-01 | [`TY Inc`](https://google.com/search?q=TY+Inc) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2023-06-01 | [`fsd.se`](https://google.com/search?q=fsd.se) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-06-01 | [`Middlesex County Pub lic Schools`](https://google.com/search?q=Middlesex+County+Pub+lic+Schools) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-06-01 | [`Brinkmann & Niemeijer Motoren`](https://google.com/search?q=Brinkmann+%26+Niemeijer+Motoren) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-06-01 | [`Pacific Union College`](https://google.com/search?q=Pacific+Union+College) | [trigona](https://ransomwatch.telemetry.ltd/#/profiles?id=trigona) |
@@ -195,12 +204,3 @@ _last `200` posts_
 | 2023-05-23 | [`spectre.dk`](https://google.com/search?q=spectre.dk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-05-23 | [`RIC Electronics (ricelectronics.com)`](https://google.com/search?q=RIC+Electronics+%28ricelectronics.com%29) | [rancoz](https://ransomwatch.telemetry.ltd/#/profiles?id=rancoz) |
 | 2023-05-23 | [`TrueLogic (truelogiccompany.com)`](https://google.com/search?q=TrueLogic+%28truelogiccompany.com%29) | [rancoz](https://ransomwatch.telemetry.ltd/#/profiles?id=rancoz) |
-| 2023-05-23 | [`https://www.stant.com`](https://google.com/search?q=https%3A%2F%2Fwww.stant.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
-| 2023-05-23 | [`Harita Group`](https://google.com/search?q=Harita+Group) | [malas](https://ransomwatch.telemetry.ltd/#/profiles?id=malas) |
-| 2023-05-23 | [`Fort Rolins Collection Agency`](https://google.com/search?q=Fort+Rolins+Collection+Agency) | [malas](https://ransomwatch.telemetry.ltd/#/profiles?id=malas) |
-| 2023-05-23 | [`CompaÃ±Ã­a Agricola San Felipe`](https://google.com/search?q=Compa%C3%83%C2%B1%C3%83%C2%ADa+Agricola+San+Felipe) | [malas](https://ransomwatch.telemetry.ltd/#/profiles?id=malas) |
-| 2023-05-23 | [`Defaulters`](https://google.com/search?q=Defaulters) | [malas](https://ransomwatch.telemetry.ltd/#/profiles?id=malas) |
-| 2023-05-23 | [`Inquirer`](https://google.com/search?q=Inquirer) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
-| 2023-05-23 | [`Black Cat Networks`](https://google.com/search?q=Black+Cat+Networks) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-05-23 | [`Paragon Software Lanka`](https://google.com/search?q=Paragon+Software+Lanka) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-05-23 | [`Mayberry Investments`](https://google.com/search?q=Mayberry+Investments) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
