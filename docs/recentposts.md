@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-06-02 | [`NORANET - CZ`](https://google.com/search?q=NORANET+-+CZ) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-06-02 | [`Shows & Artists`](https://google.com/search?q=Shows+%26+Artists) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-06-01 | [`R Eckel's Transport`](https://google.com/search?q=R+Eckel%27s+Transport) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-06-01 | [`****y *o***** Companies Group`](https://google.com/search?q=%2A%2A%2A%2Ay+%2Ao%2A%2A%2A%2A%2A+Companies+Group) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-06-01 | [`Aarti Industries Ltd.`](https://google.com/search?q=Aarti+Industries+Ltd.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-05-23 | [`http://www.dotcomdist.com`](https://google.com/search?q=http%3A%2F%2Fwww.dotcomdist.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
 | 2023-05-23 | [`surfsidefoods.com`](https://google.com/search?q=surfsidefoods.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-05-23 | [`spectre.dk`](https://google.com/search?q=spectre.dk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-05-23 | [`RIC Electronics (ricelectronics.com)`](https://google.com/search?q=RIC+Electronics+%28ricelectronics.com%29) | [rancoz](https://ransomwatch.telemetry.ltd/#/profiles?id=rancoz) |
-| 2023-05-23 | [`TrueLogic (truelogiccompany.com)`](https://google.com/search?q=TrueLogic+%28truelogiccompany.com%29) | [rancoz](https://ransomwatch.telemetry.ltd/#/profiles?id=rancoz) |
