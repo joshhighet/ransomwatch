@@ -2,7 +2,7 @@
 ## summary
 _june 2nd, 2023_
 
-currently tracking `149` groups across `267` relays & mirrors - _`104` currently online_
+currently tracking `149` groups across `267` relays & mirrors - _`101` currently online_
 
 ⏲ there have been `22` posts within the `last 24 hours`
 
