@@ -4,6 +4,13 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-06-02 | [`Fortress Paper`](https://google.com/search?q=Fortress+Paper) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-06-02 | [`Unico Data,INSYS Industriesysteme,PathA Suisse,PB Swiss Tools,Boess Gruppe`](https://google.com/search?q=Unico+Data%2CINSYS+Industriesysteme%2CPathA+Suisse%2CPB+Swiss+Tools%2CBoess+Gruppe) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-06-02 | [`Alberta Newsprint`](https://google.com/search?q=Alberta+Newsprint) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-06-02 | [`CS Cargo Group`](https://google.com/search?q=CS+Cargo+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-06-02 | [`BMD Systemhaus`](https://google.com/search?q=BMD+Systemhaus) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-06-02 | [`Buffalo Niagara Association`](https://google.com/search?q=Buffalo+Niagara+Association) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-06-02 | [`Abeko`](https://google.com/search?q=Abeko) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-06-02 | [`NORANET - CZ`](https://google.com/search?q=NORANET+-+CZ) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-06-02 | [`Shows & Artists`](https://google.com/search?q=Shows+%26+Artists) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-06-01 | [`R Eckel's Transport`](https://google.com/search?q=R+Eckel%27s+Transport) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
@@ -197,10 +204,3 @@ _last `200` posts_
 | 2023-05-23 | [`Amaszonas S.A. `](https://google.com/search?q=Amaszonas+S.A.+) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-05-23 | [`Leland Campbell LLP law firm`](https://google.com/search?q=Leland+Campbell+LLP+law+firm) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-05-23 | [`http://www.co.coos.or.us`](https://google.com/search?q=http%3A%2F%2Fwww.co.coos.or.us) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
-| 2023-05-23 | [`H*****`](https://google.com/search?q=H%2A%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2023-05-23 | [`Rusan Pharma`](https://google.com/search?q=Rusan+Pharma) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2023-05-23 | [`sunray.com.sg`](https://google.com/search?q=sunray.com.sg) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-05-23 | [`Chattanooga Heart Institute`](https://google.com/search?q=Chattanooga+Heart+Institute) | [karakurt](https://ransomwatch.telemetry.ltd/#/profiles?id=karakurt) |
-| 2023-05-23 | [`http://www.dotcomdist.com`](https://google.com/search?q=http%3A%2F%2Fwww.dotcomdist.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
-| 2023-05-23 | [`surfsidefoods.com`](https://google.com/search?q=surfsidefoods.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-05-23 | [`spectre.dk`](https://google.com/search?q=spectre.dk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
