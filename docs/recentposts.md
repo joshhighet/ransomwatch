@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-06-02 | [`shakeys.com`](https://google.com/search?q=shakeys.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-06-02 | [`packageconcepts.com`](https://google.com/search?q=packageconcepts.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-06-02 | [`harwoodlloyd.com`](https://google.com/search?q=harwoodlloyd.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-06-02 | [`LETAPE JEUNES`](https://google.com/search?q=LETAPE+JEUNES) | [ransomblog_noname](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomblog_noname) |
 | 2023-06-02 | [`JPW Industries (jpwindustries.com) - Baileigh Industrial (baileigh.com) - With SpaceX Data`](https://google.com/search?q=JPW+Industries+%28jpwindustries.com%29+-+Baileigh+Industrial+%28baileigh.com%29+-+With+SpaceX+Data) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-06-02 | [`ykk.com`](https://google.com/search?q=ykk.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2023-05-23 | [`Ingersoll Rand`](https://google.com/search?q=Ingersoll+Rand) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
 | 2023-05-23 | [`Arrowall`](https://google.com/search?q=Arrowall) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
 | 2023-05-23 | [`OKS`](https://google.com/search?q=OKS) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
-| 2023-05-23 | [`Matrix`](https://google.com/search?q=Matrix) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
-| 2023-05-23 | [`Melco`](https://google.com/search?q=Melco) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
-| 2023-05-23 | [`ocean`](https://google.com/search?q=ocean) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
