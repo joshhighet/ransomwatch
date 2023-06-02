@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-06-02 | [`ykk.com`](https://google.com/search?q=ykk.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-06-02 | [`Globalcaja`](https://google.com/search?q=Globalcaja) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-06-02 | [`Fortress Paper`](https://google.com/search?q=Fortress+Paper) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-06-02 | [`Unico Data,INSYS Industriesysteme,PathA Suisse,PB Swiss Tools,Boess Gruppe`](https://google.com/search?q=Unico+Data%2CINSYS+Industriesysteme%2CPathA+Suisse%2CPB+Swiss+Tools%2CBoess+Gruppe) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-05-23 | [`ocean`](https://google.com/search?q=ocean) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
 | 2023-05-23 | [`marehotels`](https://google.com/search?q=marehotels) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
 | 2023-05-23 | [`Amaszonas S.A. `](https://google.com/search?q=Amaszonas+S.A.+) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
-| 2023-05-23 | [`Leland Campbell LLP law firm`](https://google.com/search?q=Leland+Campbell+LLP+law+firm) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
