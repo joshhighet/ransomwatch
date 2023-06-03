@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-06-03 | [`Share`](https://google.com/search?q=Share) | [mallox](https://ransomwatch.telemetry.ltd/#/profiles?id=mallox) |
 | 2023-06-03 | [`FICCI`](https://google.com/search?q=FICCI) | [mallox](https://ransomwatch.telemetry.ltd/#/profiles?id=mallox) |
 | 2023-06-03 | [`CCAA`](https://google.com/search?q=CCAA) | [mallox](https://ransomwatch.telemetry.ltd/#/profiles?id=mallox) |
 | 2023-06-03 | [`Young Homes, Inc`](https://google.com/search?q=Young+Homes%2C+Inc) | [mallox](https://ransomwatch.telemetry.ltd/#/profiles?id=mallox) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-05-23 | [`Global Remote Services`](https://google.com/search?q=Global+Remote+Services) | [nokoyawa](https://ransomwatch.telemetry.ltd/#/profiles?id=nokoyawa) |
 | 2023-05-23 | [`Liveaction inc.`](https://google.com/search?q=Liveaction+inc.) | [nokoyawa](https://ransomwatch.telemetry.ltd/#/profiles?id=nokoyawa) |
 | 2023-05-23 | [`berjaya`](https://google.com/search?q=berjaya) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
-| 2023-05-23 | [`Novelis`](https://google.com/search?q=Novelis) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
