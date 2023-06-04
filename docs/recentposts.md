@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-06-04 | [`Share and Harris`](https://google.com/search?q=Share+and+Harris) | [mallox](https://ransomwatch.telemetry.ltd/#/profiles?id=mallox) |
 | 2023-06-03 | [`Tension Corporation`](https://google.com/search?q=Tension+Corporation) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-06-03 | [`Share`](https://google.com/search?q=Share) | [mallox](https://ransomwatch.telemetry.ltd/#/profiles?id=mallox) |
 | 2023-06-03 | [`FICCI`](https://google.com/search?q=FICCI) | [mallox](https://ransomwatch.telemetry.ltd/#/profiles?id=mallox) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-05-23 | [`Miami University`](https://google.com/search?q=Miami+University) | [nokoyawa](https://ransomwatch.telemetry.ltd/#/profiles?id=nokoyawa) |
 | 2023-05-23 | [`Medical University of the Americas`](https://google.com/search?q=Medical+University+of+the+Americas) | [nokoyawa](https://ransomwatch.telemetry.ltd/#/profiles?id=nokoyawa) |
 | 2023-05-23 | [`Global Remote Services`](https://google.com/search?q=Global+Remote+Services) | [nokoyawa](https://ransomwatch.telemetry.ltd/#/profiles?id=nokoyawa) |
-| 2023-05-23 | [`Liveaction inc.`](https://google.com/search?q=Liveaction+inc.) | [nokoyawa](https://ransomwatch.telemetry.ltd/#/profiles?id=nokoyawa) |
