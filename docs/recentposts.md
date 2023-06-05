@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-06-05 | [`Malt Products`](https://google.com/search?q=Malt+Products) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
+| 2023-06-05 | [`Beacon ABA Services`](https://google.com/search?q=Beacon+ABA+Services) | [karakurt](https://ransomwatch.telemetry.ltd/#/profiles?id=karakurt) |
+| 2023-06-05 | [`etships.com`](https://google.com/search?q=etships.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-06-05 | [`ELITechGroup`](https://google.com/search?q=ELITechGroup) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
 | 2023-06-05 | [`Mount Desert Island Hospital`](https://google.com/search?q=Mount+Desert+Island+Hospital) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
 | 2023-06-05 | [`The Briars Group`](https://google.com/search?q=The+Briars+Group) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2023-05-23 | [`Stockmann Natursteine %26 Fliesen`](https://google.com/search?q=Stockmann+Natursteine+%2526+Fliesen) | [nokoyawa](https://ransomwatch.telemetry.ltd/#/profiles?id=nokoyawa) |
 | 2023-05-23 | [`Snodland C of E Primary School`](https://google.com/search?q=Snodland+C+of+E+Primary+School) | [nokoyawa](https://ransomwatch.telemetry.ltd/#/profiles?id=nokoyawa) |
 | 2023-05-23 | [`Sabin`](https://google.com/search?q=Sabin) | [nokoyawa](https://ransomwatch.telemetry.ltd/#/profiles?id=nokoyawa) |
-| 2023-05-23 | [`Canadian Nurses Association`](https://google.com/search?q=Canadian+Nurses+Association) | [nokoyawa](https://ransomwatch.telemetry.ltd/#/profiles?id=nokoyawa) |
-| 2023-05-23 | [`Rural Workforce Agency`](https://google.com/search?q=Rural+Workforce+Agency) | [nokoyawa](https://ransomwatch.telemetry.ltd/#/profiles?id=nokoyawa) |
-| 2023-05-23 | [`Fresca`](https://google.com/search?q=Fresca) | [nokoyawa](https://ransomwatch.telemetry.ltd/#/profiles?id=nokoyawa) |
