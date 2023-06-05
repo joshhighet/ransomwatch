@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-06-05 | [`Farmacias Los Hidalgos `](https://google.com/search?q=Farmacias+Los+Hidalgos+) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
+| 2023-06-05 | [`Concremat constructions`](https://google.com/search?q=Concremat+constructions) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-06-05 | [`BOBSTNT`](https://google.com/search?q=BOBSTNT) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2023-06-05 | [`Robison Engineering`](https://google.com/search?q=Robison+Engineering) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-06-05 | [`D&K Group, Inc`](https://google.com/search?q=D%26K+Group%2C+Inc) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-05-23 | [`City of Modesto`](https://google.com/search?q=City+of+Modesto) | [nokoyawa](https://ransomwatch.telemetry.ltd/#/profiles?id=nokoyawa) |
 | 2023-05-23 | [`Pueblo Mechanical %26 Controls`](https://google.com/search?q=Pueblo+Mechanical+%2526+Controls) | [nokoyawa](https://ransomwatch.telemetry.ltd/#/profiles?id=nokoyawa) |
 | 2023-05-23 | [`comcom-sgc`](https://google.com/search?q=comcom-sgc) | [nokoyawa](https://ransomwatch.telemetry.ltd/#/profiles?id=nokoyawa) |
-| 2023-05-23 | [`Guardian Fine Art Services`](https://google.com/search?q=Guardian+Fine+Art+Services) | [nokoyawa](https://ransomwatch.telemetry.ltd/#/profiles?id=nokoyawa) |
-| 2023-05-23 | [`Accurate Auto Insurance`](https://google.com/search?q=Accurate+Auto+Insurance) | [nokoyawa](https://ransomwatch.telemetry.ltd/#/profiles?id=nokoyawa) |
