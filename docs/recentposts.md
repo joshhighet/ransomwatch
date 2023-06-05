@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-06-05 | [`BOBSTNT`](https://google.com/search?q=BOBSTNT) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2023-06-05 | [`Robison Engineering`](https://google.com/search?q=Robison+Engineering) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
+| 2023-06-05 | [`D&K Group, Inc`](https://google.com/search?q=D%26K+Group%2C+Inc) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-06-05 | [`Malt Products`](https://google.com/search?q=Malt+Products) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-06-05 | [`Beacon ABA Services`](https://google.com/search?q=Beacon+ABA+Services) | [karakurt](https://ransomwatch.telemetry.ltd/#/profiles?id=karakurt) |
 | 2023-06-05 | [`etships.com`](https://google.com/search?q=etships.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2023-05-23 | [`comcom-sgc`](https://google.com/search?q=comcom-sgc) | [nokoyawa](https://ransomwatch.telemetry.ltd/#/profiles?id=nokoyawa) |
 | 2023-05-23 | [`Guardian Fine Art Services`](https://google.com/search?q=Guardian+Fine+Art+Services) | [nokoyawa](https://ransomwatch.telemetry.ltd/#/profiles?id=nokoyawa) |
 | 2023-05-23 | [`Accurate Auto Insurance`](https://google.com/search?q=Accurate+Auto+Insurance) | [nokoyawa](https://ransomwatch.telemetry.ltd/#/profiles?id=nokoyawa) |
-| 2023-05-23 | [`Stockmann Natursteine %26 Fliesen`](https://google.com/search?q=Stockmann+Natursteine+%2526+Fliesen) | [nokoyawa](https://ransomwatch.telemetry.ltd/#/profiles?id=nokoyawa) |
-| 2023-05-23 | [`Snodland C of E Primary School`](https://google.com/search?q=Snodland+C+of+E+Primary+School) | [nokoyawa](https://ransomwatch.telemetry.ltd/#/profiles?id=nokoyawa) |
-| 2023-05-23 | [`Sabin`](https://google.com/search?q=Sabin) | [nokoyawa](https://ransomwatch.telemetry.ltd/#/profiles?id=nokoyawa) |
