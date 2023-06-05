@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-06-05 | [`adstradata.com`](https://google.com/search?q=adstradata.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-06-05 | [`Farmacias Los Hidalgos `](https://google.com/search?q=Farmacias+Los+Hidalgos+) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-06-05 | [`Concremat constructions`](https://google.com/search?q=Concremat+constructions) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-06-05 | [`BOBSTNT`](https://google.com/search?q=BOBSTNT) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-05-23 | [`Gaston College`](https://google.com/search?q=Gaston+College) | [nokoyawa](https://ransomwatch.telemetry.ltd/#/profiles?id=nokoyawa) |
 | 2023-05-23 | [`City of Modesto`](https://google.com/search?q=City+of+Modesto) | [nokoyawa](https://ransomwatch.telemetry.ltd/#/profiles?id=nokoyawa) |
 | 2023-05-23 | [`Pueblo Mechanical %26 Controls`](https://google.com/search?q=Pueblo+Mechanical+%2526+Controls) | [nokoyawa](https://ransomwatch.telemetry.ltd/#/profiles?id=nokoyawa) |
-| 2023-05-23 | [`comcom-sgc`](https://google.com/search?q=comcom-sgc) | [nokoyawa](https://ransomwatch.telemetry.ltd/#/profiles?id=nokoyawa) |
