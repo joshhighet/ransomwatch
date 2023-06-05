@@ -4,6 +4,10 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-06-05 | [`ELITechGroup`](https://google.com/search?q=ELITechGroup) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
+| 2023-06-05 | [`Mount Desert Island Hospital`](https://google.com/search?q=Mount+Desert+Island+Hospital) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
+| 2023-06-05 | [`The Briars Group`](https://google.com/search?q=The+Briars+Group) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
+| 2023-06-05 | [`Avant Grup`](https://google.com/search?q=Avant+Grup) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
 | 2023-06-04 | [`https://https://ascentia.us`](https://google.com/search?q=https%3A%2F%2Fhttps%3A%2F%2Fascentia.us) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2023-06-04 | [`Nerim`](https://google.com/search?q=Nerim) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2023-06-04 | [`uhsp.edu`](https://google.com/search?q=uhsp.edu) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -200,7 +204,3 @@ _last `200` posts_
 | 2023-05-23 | [`Canadian Nurses Association`](https://google.com/search?q=Canadian+Nurses+Association) | [nokoyawa](https://ransomwatch.telemetry.ltd/#/profiles?id=nokoyawa) |
 | 2023-05-23 | [`Rural Workforce Agency`](https://google.com/search?q=Rural+Workforce+Agency) | [nokoyawa](https://ransomwatch.telemetry.ltd/#/profiles?id=nokoyawa) |
 | 2023-05-23 | [`Fresca`](https://google.com/search?q=Fresca) | [nokoyawa](https://ransomwatch.telemetry.ltd/#/profiles?id=nokoyawa) |
-| 2023-05-23 | [`Canopy Children's Solutions`](https://google.com/search?q=Canopy+Children%27s+Solutions) | [nokoyawa](https://ransomwatch.telemetry.ltd/#/profiles?id=nokoyawa) |
-| 2023-05-23 | [`Wyoming County Community Health System`](https://google.com/search?q=Wyoming+County+Community+Health+System) | [nokoyawa](https://ransomwatch.telemetry.ltd/#/profiles?id=nokoyawa) |
-| 2023-05-23 | [`ePerformax`](https://google.com/search?q=ePerformax) | [nokoyawa](https://ransomwatch.telemetry.ltd/#/profiles?id=nokoyawa) |
-| 2023-05-23 | [`Hyundai Motors Etats-Unis`](https://google.com/search?q=Hyundai+Motors+Etats-Unis) | [nokoyawa](https://ransomwatch.telemetry.ltd/#/profiles?id=nokoyawa) |
