@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-06-06 | [`fredfeet.com`](https://google.com/search?q=fredfeet.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-06-06 | [`Asakura Robinson`](https://google.com/search?q=Asakura+Robinson) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-06-06 | [`WTI - Western Telema tic`](https://google.com/search?q=WTI+-+Western+Telema+tic) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-06-06 | [`trois-i.com`](https://google.com/search?q=trois-i.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-05-23 | [`HELPHONE`](https://google.com/search?q=HELPHONE) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-05-23 | [`Thayer Academy`](https://google.com/search?q=Thayer+Academy) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-05-23 | [`Midway Ford`](https://google.com/search?q=Midway+Ford) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-05-23 | [`Lake Cable`](https://google.com/search?q=Lake+Cable) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
