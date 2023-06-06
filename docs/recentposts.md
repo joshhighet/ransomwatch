@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-06-06 | [`saragroup.in`](https://google.com/search?q=saragroup.in) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-06-06 | [`bintangindokaryagemilang.co.id`](https://google.com/search?q=bintangindokaryagemilang.co.id) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-06-06 | [`wjtowell.com`](https://google.com/search?q=wjtowell.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-06-06 | [`villemandeure.fr`](https://google.com/search?q=villemandeure.fr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-06-06 | [`tmd.go.th`](https://google.com/search?q=tmd.go.th) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-05-23 | [`M Metzler &amp;amp; Associates`](https://google.com/search?q=M+Metzler+%26amp%3Bamp%3B+Associates) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-05-23 | [`General de Alimentos Nisa C.A. (GENICA)`](https://google.com/search?q=General+de+Alimentos+Nisa+C.A.+%28GENICA%29) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-05-23 | [`Ellard-Willson Engineering Ltd`](https://google.com/search?q=Ellard-Willson+Engineering+Ltd) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-05-23 | [`CONTASS`](https://google.com/search?q=CONTASS) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-05-23 | [`Artconta - Contabilidade e. Assistência Fiscal`](https://google.com/search?q=Artconta+-+Contabilidade+e.+Assist%C3%AAncia+Fiscal) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
