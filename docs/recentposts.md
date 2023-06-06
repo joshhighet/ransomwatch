@@ -4,6 +4,16 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-06-06 | [`wjtowell.com`](https://google.com/search?q=wjtowell.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-06-06 | [`villemandeure.fr`](https://google.com/search?q=villemandeure.fr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-06-06 | [`tmd.go.th`](https://google.com/search?q=tmd.go.th) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-06-06 | [`stimgroup.it`](https://google.com/search?q=stimgroup.it) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-06-06 | [`jeloin.se`](https://google.com/search?q=jeloin.se) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-06-06 | [`jacquart.fr`](https://google.com/search?q=jacquart.fr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-06-06 | [`iprac.com`](https://google.com/search?q=iprac.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-06-06 | [`icae.net`](https://google.com/search?q=icae.net) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-06-06 | [`crosscity.com.au`](https://google.com/search?q=crosscity.com.au) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-06-06 | [`borwafs.co.za`](https://google.com/search?q=borwafs.co.za) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-06-06 | [`Bibliotheek Gouda`](https://google.com/search?q=Bibliotheek+Gouda) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-06-06 | [`Stylish Fabric (stylishfabric.com)`](https://google.com/search?q=Stylish+Fabric+%28stylishfabric.com%29) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-06-05 | [`North West Paving Ltd`](https://google.com/search?q=North+West+Paving+Ltd) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -194,13 +204,3 @@ _last `200` posts_
 | 2023-05-23 | [`Ellard-Willson Engineering Ltd`](https://google.com/search?q=Ellard-Willson+Engineering+Ltd) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-05-23 | [`CONTASS`](https://google.com/search?q=CONTASS) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-05-23 | [`Artconta - Contabilidade e. Assistência Fiscal`](https://google.com/search?q=Artconta+-+Contabilidade+e.+Assist%C3%AAncia+Fiscal) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-05-23 | [`Csc Baixo Sul Assessoria e Consultoria Empresarial e Contabil LTDA`](https://google.com/search?q=Csc+Baixo+Sul+Assessoria+e+Consultoria+Empresarial+e+Contabil+LTDA) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-05-23 | [`Just us lawyers`](https://google.com/search?q=Just+us+lawyers) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-05-23 | [`Asbestos-Inspections-Solution-Management`](https://google.com/search?q=Asbestos-Inspections-Solution-Management) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-05-23 | [`SiComputer is a leader in the Italian information technology.`](https://google.com/search?q=SiComputer+is+a+leader+in+the+Italian+information+technology.) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-05-23 | [`Malkasian Accountancy`](https://google.com/search?q=Malkasian+Accountancy) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-05-23 | [`APIQROO`](https://google.com/search?q=APIQROO) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-05-23 | [`Technology and Telecommunications Consultants Inc`](https://google.com/search?q=Technology+and+Telecommunications+Consultants+Inc) | [trigona](https://ransomwatch.telemetry.ltd/#/profiles?id=trigona) |
-| 2023-05-23 | [`CONEX`](https://google.com/search?q=CONEX) | [nokoyawa](https://ransomwatch.telemetry.ltd/#/profiles?id=nokoyawa) |
-| 2023-05-23 | [`Miescor`](https://google.com/search?q=Miescor) | [nokoyawa](https://ransomwatch.telemetry.ltd/#/profiles?id=nokoyawa) |
-| 2023-05-23 | [`MSX International`](https://google.com/search?q=MSX+International) | [nokoyawa](https://ransomwatch.telemetry.ltd/#/profiles?id=nokoyawa) |
