@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-06-06 | [`Stylish Fabric (stylishfabric.com)`](https://google.com/search?q=Stylish+Fabric+%28stylishfabric.com%29) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-06-05 | [`North West Paving Ltd`](https://google.com/search?q=North+West+Paving+Ltd) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-06-05 | [`adstradata.com`](https://google.com/search?q=adstradata.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-06-05 | [`Farmacias Los Hidalgos `](https://google.com/search?q=Farmacias+Los+Hidalgos+) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-05-23 | [`Miescor`](https://google.com/search?q=Miescor) | [nokoyawa](https://ransomwatch.telemetry.ltd/#/profiles?id=nokoyawa) |
 | 2023-05-23 | [`MSX International`](https://google.com/search?q=MSX+International) | [nokoyawa](https://ransomwatch.telemetry.ltd/#/profiles?id=nokoyawa) |
 | 2023-05-23 | [`Gaston College`](https://google.com/search?q=Gaston+College) | [nokoyawa](https://ransomwatch.telemetry.ltd/#/profiles?id=nokoyawa) |
-| 2023-05-23 | [`City of Modesto`](https://google.com/search?q=City+of+Modesto) | [nokoyawa](https://ransomwatch.telemetry.ltd/#/profiles?id=nokoyawa) |
