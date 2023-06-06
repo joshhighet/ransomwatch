@@ -4,6 +4,15 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-06-06 | [`screenline.co.za`](https://google.com/search?q=screenline.co.za) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-06-06 | [`progen.com.br`](https://google.com/search?q=progen.com.br) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-06-06 | [`pittsburg.k12.ca.us`](https://google.com/search?q=pittsburg.k12.ca.us) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-06-06 | [`pentechsolution.com.my`](https://google.com/search?q=pentechsolution.com.my) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-06-06 | [`payday.com.pa`](https://google.com/search?q=payday.com.pa) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-06-06 | [`mariohernandez.com.co`](https://google.com/search?q=mariohernandez.com.co) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-06-06 | [`dalvikurbyggd.is`](https://google.com/search?q=dalvikurbyggd.is) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-06-06 | [`birdair.com`](https://google.com/search?q=birdair.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-06-06 | [`PONDCO`](https://google.com/search?q=PONDCO) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-06-06 | [`Public Health Management Corporation`](https://google.com/search?q=Public+Health+Management+Corporation) | [trigona](https://ransomwatch.telemetry.ltd/#/profiles?id=trigona) |
 | 2023-06-06 | [`fredfeet.com`](https://google.com/search?q=fredfeet.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-06-06 | [`Asakura Robinson`](https://google.com/search?q=Asakura+Robinson) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
@@ -195,12 +204,3 @@ _last `200` posts_
 | 2023-05-23 | [`China Export &amp;amp; Credit Insurance Corporation`](https://google.com/search?q=China+Export+%26amp%3Bamp%3B+Credit+Insurance+Corporation) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-05-23 | [`Print Globe`](https://google.com/search?q=Print+Globe) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-05-23 | [`Neighborhood Progress Fund`](https://google.com/search?q=Neighborhood+Progress+Fund) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-05-23 | [`La Canastería`](https://google.com/search?q=La+Canaster%C3%ADa) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-05-23 | [`Richard W. Fuller CPA`](https://google.com/search?q=Richard+W.+Fuller+CPA) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-05-23 | [`MRO SUPPORT, INC`](https://google.com/search?q=MRO+SUPPORT%2C+INC) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-05-23 | [`IMASA`](https://google.com/search?q=IMASA) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-05-23 | [`Immobilienmakler in Oldenburg`](https://google.com/search?q=Immobilienmakler+in+Oldenburg) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-05-23 | [`COMPAGNIE REGIONALE D&#039;ALIMENTS (COREAL)`](https://google.com/search?q=COMPAGNIE+REGIONALE+D%26%23039%3BALIMENTS+%28COREAL%29) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-05-23 | [`Veal and Prasad`](https://google.com/search?q=Veal+and+Prasad) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-05-23 | [`HELPHONE`](https://google.com/search?q=HELPHONE) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-05-23 | [`Thayer Academy`](https://google.com/search?q=Thayer+Academy) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
