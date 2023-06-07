@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-06-07 | [`newarka.edu`](https://google.com/search?q=newarka.edu) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-06-06 | [`screenline.co.za`](https://google.com/search?q=screenline.co.za) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-06-06 | [`progen.com.br`](https://google.com/search?q=progen.com.br) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-06-06 | [`pittsburg.k12.ca.us`](https://google.com/search?q=pittsburg.k12.ca.us) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-05-23 | [`Conklin Benham`](https://google.com/search?q=Conklin+Benham) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-05-23 | [`China Export &amp;amp; Credit Insurance Corporation`](https://google.com/search?q=China+Export+%26amp%3Bamp%3B+Credit+Insurance+Corporation) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-05-23 | [`Print Globe`](https://google.com/search?q=Print+Globe) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-05-23 | [`Neighborhood Progress Fund`](https://google.com/search?q=Neighborhood+Progress+Fund) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
