@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-06-07 | [`Tour Partner Group `](https://google.com/search?q=Tour+Partner+Group+) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-06-07 | [`Harbro`](https://google.com/search?q=Harbro) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-06-07 | [`https://https://awmga.com/`](https://google.com/search?q=https%3A%2F%2Fhttps%3A%2F%2Fawmga.com%2F) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2023-06-07 | [`worldlearning.org`](https://google.com/search?q=worldlearning.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-05-23 | [`NORTCON`](https://google.com/search?q=NORTCON) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-05-23 | [`Redwood Lab Services`](https://google.com/search?q=Redwood+Lab+Services) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-05-23 | [`ER of Dallas`](https://google.com/search?q=ER+of+Dallas) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-05-23 | [`SMYRNAPEDIATRICS`](https://google.com/search?q=SMYRNAPEDIATRICS) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
