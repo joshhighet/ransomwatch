@@ -4,6 +4,10 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-06-08 | [`A******* ***** ******`](https://google.com/search?q=A%2A%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2023-06-08 | [`*** ******** ***** ** **u** *e********`](https://google.com/search?q=%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A+%2A%2A+%2A%2Au%2A%2A+%2Ae%2A%2A%2A%2A%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2023-06-08 | [`Aeliusmd Medical Systems`](https://google.com/search?q=Aeliusmd+Medical+Systems) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2023-06-08 | [`M*** ****`](https://google.com/search?q=M%2A%2A%2A+%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-06-08 | [`https://https://claritywatertech.com`](https://google.com/search?q=https%3A%2F%2Fhttps%3A%2F%2Fclaritywatertech.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2023-06-08 | [`cortinawatch.com`](https://google.com/search?q=cortinawatch.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-06-08 | [`CASEPOINT pt.2`](https://google.com/search?q=CASEPOINT+pt.2) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -200,7 +204,3 @@ _last `200` posts_
 | 2023-05-23 | [`Lerch Bates`](https://google.com/search?q=Lerch+Bates) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-05-23 | [`Clear Start Accountants`](https://google.com/search?q=Clear+Start+Accountants) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-05-23 | [`CST Medicina do Trabalho`](https://google.com/search?q=CST+Medicina+do+Trabalho) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-05-23 | [`Semba`](https://google.com/search?q=Semba) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-05-23 | [`Direct Cleaning Services`](https://google.com/search?q=Direct+Cleaning+Services) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-05-23 | [`Bronzino Engineering`](https://google.com/search?q=Bronzino+Engineering) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-05-23 | [`Grupo Rimet`](https://google.com/search?q=Grupo+Rimet) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
