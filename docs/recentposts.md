@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-06-08 | [`knipmeijerenblok.nl`](https://google.com/search?q=knipmeijerenblok.nl) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-06-07 | [`ROADSAFETRAFFIC_2`](https://google.com/search?q=ROADSAFETRAFFIC_2) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2023-06-07 | [`Tour Partner Group `](https://google.com/search?q=Tour+Partner+Group+) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-06-07 | [`Harbro`](https://google.com/search?q=Harbro) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-05-23 | [`Taylor Made Hose`](https://google.com/search?q=Taylor+Made+Hose) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-05-23 | [`Formax Credit UK`](https://google.com/search?q=Formax+Credit+UK) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-05-23 | [`NORTCON`](https://google.com/search?q=NORTCON) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-05-23 | [`Redwood Lab Services`](https://google.com/search?q=Redwood+Lab+Services) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
