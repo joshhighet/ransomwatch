@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-06-09 | [`ACI Advanced Chemica l Industries`](https://google.com/search?q=ACI+Advanced+Chemica+l+Industries) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
+| 2023-06-09 | [`Ellis Patents`](https://google.com/search?q=Ellis+Patents) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
+| 2023-06-09 | [`Columbus Regional Healthcare System (US)`](https://google.com/search?q=Columbus+Regional+Healthcare+System+%28US%29) | [daixin](https://ransomwatch.telemetry.ltd/#/profiles?id=daixin) |
 | 2023-06-09 | [`The Adams County Com munication Center or ADCOM911`](https://google.com/search?q=The+Adams+County+Com+munication+Center+or+ADCOM911) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-06-09 | [`http://www.penncrest.org`](https://google.com/search?q=http%3A%2F%2Fwww.penncrest.org) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
 | 2023-06-09 | [`https://https://delbonohotels.com`](https://google.com/search?q=https%3A%2F%2Fhttps%3A%2F%2Fdelbonohotels.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2023-05-23 | [`Intermountain`](https://google.com/search?q=Intermountain) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-05-23 | [`Grupo 2MGA`](https://google.com/search?q=Grupo+2MGA) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-05-23 | [`Brandao`](https://google.com/search?q=Brandao) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-05-23 | [`DBT Druckluft`](https://google.com/search?q=DBT+Druckluft) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-05-23 | [`Constantino Contabilidade E Comunicacao`](https://google.com/search?q=Constantino+Contabilidade+E+Comunicacao) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-05-23 | [`FrameOne`](https://google.com/search?q=FrameOne) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
