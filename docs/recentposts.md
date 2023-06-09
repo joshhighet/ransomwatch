@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-06-09 | [`Kramer Enterprises`](https://google.com/search?q=Kramer+Enterprises) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-06-08 | [`A******* ***** ******`](https://google.com/search?q=A%2A%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-06-08 | [`*** ******** ***** ** **u** *e********`](https://google.com/search?q=%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A+%2A%2A+%2A%2Au%2A%2A+%2Ae%2A%2A%2A%2A%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-06-08 | [`Aeliusmd Medical Systems`](https://google.com/search?q=Aeliusmd+Medical+Systems) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-05-23 | [`Watex Solutions`](https://google.com/search?q=Watex+Solutions) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-05-23 | [`Lerch Bates`](https://google.com/search?q=Lerch+Bates) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-05-23 | [`Clear Start Accountants`](https://google.com/search?q=Clear+Start+Accountants) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-05-23 | [`CST Medicina do Trabalho`](https://google.com/search?q=CST+Medicina+do+Trabalho) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
