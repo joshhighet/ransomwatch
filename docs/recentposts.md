@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-06-09 | [`Caruso`](https://google.com/search?q=Caruso) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
+| 2023-06-09 | [`wsisd.net`](https://google.com/search?q=wsisd.net) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-06-09 | [`gruppomercurio.com`](https://google.com/search?q=gruppomercurio.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-06-09 | [`ACI Advanced Chemica l Industries`](https://google.com/search?q=ACI+Advanced+Chemica+l+Industries) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-06-09 | [`Ellis Patents`](https://google.com/search?q=Ellis+Patents) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-06-09 | [`Columbus Regional Healthcare System (US)`](https://google.com/search?q=Columbus+Regional+Healthcare+System+%28US%29) | [daixin](https://ransomwatch.telemetry.ltd/#/profiles?id=daixin) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2023-05-23 | [`Moore Global`](https://google.com/search?q=Moore+Global) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-05-23 | [`Shipmate`](https://google.com/search?q=Shipmate) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-05-23 | [`SOVAC`](https://google.com/search?q=SOVAC) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-05-23 | [`Intermountain`](https://google.com/search?q=Intermountain) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-05-23 | [`Grupo 2MGA`](https://google.com/search?q=Grupo+2MGA) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-05-23 | [`Brandao`](https://google.com/search?q=Brandao) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
