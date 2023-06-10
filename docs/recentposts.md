@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-06-10 | [`FIIG`](https://google.com/search?q=FIIG) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-06-10 | [`Coca-Cola FEMSA`](https://google.com/search?q=Coca-Cola+FEMSA) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-06-09 | [`Silicon Valley Mechanical`](https://google.com/search?q=Silicon+Valley+Mechanical) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-06-09 | [`TAG Aviation`](https://google.com/search?q=TAG+Aviation) | [unsafeleak](https://ransomwatch.telemetry.ltd/#/profiles?id=unsafeleak) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-05-23 | [`Butler and Gatz CPAs, LLC`](https://google.com/search?q=Butler+and+Gatz+CPAs%2C+LLC) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-05-23 | [`LebensWohnArt`](https://google.com/search?q=LebensWohnArt) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-05-23 | [`Irmler Rechtsanwälte`](https://google.com/search?q=Irmler+Rechtsanw%C3%A4lte) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-05-23 | [`Innormax LLC`](https://google.com/search?q=Innormax+LLC) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
