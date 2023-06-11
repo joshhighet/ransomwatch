@@ -4,6 +4,14 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-06-11 | [`CEMAF PARTICIPACOES E ADMINISTRACAO DE BENS LTDA`](https://google.com/search?q=CEMAF+PARTICIPACOES+E+ADMINISTRACAO+DE+BENS+LTDA) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2023-06-11 | [`Defesa da Classe Trabalhadora (Declatra)`](https://google.com/search?q=Defesa+da+Classe+Trabalhadora+%28Declatra%29) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2023-06-11 | [`LUZBOA S.A`](https://google.com/search?q=LUZBOA+S.A) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2023-06-11 | [`TECHCERT`](https://google.com/search?q=TECHCERT) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2023-06-11 | [`PREMIER HOSPITAL DIA`](https://google.com/search?q=PREMIER+HOSPITAL+DIA) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2023-06-11 | [`CLONARTE`](https://google.com/search?q=CLONARTE) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2023-06-11 | [`SINTTEL`](https://google.com/search?q=SINTTEL) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2023-06-11 | [`http://www.tachi-s.com`](https://google.com/search?q=http%3A%2F%2Fwww.tachi-s.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
 | 2023-06-11 | [`RJP MEDICAL LTDA`](https://google.com/search?q=RJP+MEDICAL+LTDA) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-06-11 | [`Ampla Divisórias`](https://google.com/search?q=Ampla+Divis%C3%B3rias) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-06-11 | [`GAE Construction`](https://google.com/search?q=GAE+Construction) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
@@ -196,11 +204,3 @@ _last `200` posts_
 | 2023-05-24 | [`M******* *****`](https://google.com/search?q=M%2A%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-05-24 | [`roha.com`](https://google.com/search?q=roha.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-05-24 | [`interstateplastics.com`](https://google.com/search?q=interstateplastics.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-05-24 | [`Voxx Electronics - company, which has a huge number of vulnerabilities was hacked. A large`](https://google.com/search?q=Voxx+Electronics+-+company%2C+which+has+a+huge+number+of+vulnerabilities+was+hacked.+A+large) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-05-23 | [`P1 Technical Services`](https://google.com/search?q=P1+Technical+Services) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-05-23 | [`GIOTTO - COMÉRCIO DE VESTUÁRIO, UNIPESSOAL, LDA`](https://google.com/search?q=GIOTTO+-+COM%C3%89RCIO+DE+VESTU%C3%81RIO%2C+UNIPESSOAL%2C+LDA) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-05-23 | [`ESSPEE`](https://google.com/search?q=ESSPEE) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-05-23 | [`MTS Office`](https://google.com/search?q=MTS+Office) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-05-23 | [`Concept Fasteners`](https://google.com/search?q=Concept+Fasteners) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-05-23 | [`Meklas Group`](https://google.com/search?q=Meklas+Group) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-05-23 | [`AS Netz`](https://google.com/search?q=AS+Netz) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
