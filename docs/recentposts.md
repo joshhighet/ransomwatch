@@ -4,6 +4,10 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-06-11 | [`RJP MEDICAL LTDA`](https://google.com/search?q=RJP+MEDICAL+LTDA) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2023-06-11 | [`Ampla Divisórias`](https://google.com/search?q=Ampla+Divis%C3%B3rias) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2023-06-11 | [`GAE Construction`](https://google.com/search?q=GAE+Construction) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
+| 2023-06-11 | [`Comisión Nacional de Valores`](https://google.com/search?q=Comisi%C3%B3n+Nacional+de+Valores) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-06-10 | [`FIIG`](https://google.com/search?q=FIIG) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-06-10 | [`Coca-Cola FEMSA`](https://google.com/search?q=Coca-Cola+FEMSA) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-06-09 | [`Silicon Valley Mechanical`](https://google.com/search?q=Silicon+Valley+Mechanical) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -200,7 +204,3 @@ _last `200` posts_
 | 2023-05-23 | [`Concept Fasteners`](https://google.com/search?q=Concept+Fasteners) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-05-23 | [`Meklas Group`](https://google.com/search?q=Meklas+Group) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-05-23 | [`AS Netz`](https://google.com/search?q=AS+Netz) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-05-23 | [`THE HARCOURTS FOUNDATION (AUSTRALIA) PTY LTD`](https://google.com/search?q=THE+HARCOURTS+FOUNDATION+%28AUSTRALIA%29+PTY+LTD) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-05-23 | [`Butler and Gatz CPAs, LLC`](https://google.com/search?q=Butler+and+Gatz+CPAs%2C+LLC) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-05-23 | [`LebensWohnArt`](https://google.com/search?q=LebensWohnArt) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-05-23 | [`Irmler Rechtsanwälte`](https://google.com/search?q=Irmler+Rechtsanw%C3%A4lte) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
