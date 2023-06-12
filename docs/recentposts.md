@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-06-12 | [`HILLAEROSYSTEMS`](https://google.com/search?q=HILLAEROSYSTEMS) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2023-06-12 | [`REGAL`](https://google.com/search?q=REGAL) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2023-06-12 | [`Amaszonas S.A.`](https://google.com/search?q=Amaszonas+S.A.) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-06-12 | [`https://marjam.com/`](https://google.com/search?q=https%3A%2F%2Fmarjam.com%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2023-06-12 | [`Transprensa`](https://google.com/search?q=Transprensa) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-05-25 | [`sfponline.org`](https://google.com/search?q=sfponline.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-05-25 | [`pneusbelislecarrieres.com`](https://google.com/search?q=pneusbelislecarrieres.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-05-25 | [`affinityhealthservices.net`](https://google.com/search?q=affinityhealthservices.net) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-05-25 | [`Leidos`](https://google.com/search?q=Leidos) | [trigona](https://ransomwatch.telemetry.ltd/#/profiles?id=trigona) |
-| 2023-05-25 | [`globalinfovision.com`](https://google.com/search?q=globalinfovision.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
