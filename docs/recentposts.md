@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-06-12 | [`Automatic Systems - is a company with extremely low security of its network and products w`](https://google.com/search?q=Automatic+Systems+-+is+a+company+with+extremely+low+security+of+its+network+and+products+w) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-06-12 | [`pneusbeaucerons.com`](https://google.com/search?q=pneusbeaucerons.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-06-12 | [`ai-thermal.com`](https://google.com/search?q=ai-thermal.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-06-12 | [`Global Remote Services`](https://google.com/search?q=Global+Remote+Services) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-05-26 | [`kyocera-avx.com`](https://google.com/search?q=kyocera-avx.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-05-26 | [`fams.net`](https://google.com/search?q=fams.net) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-05-25 | [`City of Augusta`](https://google.com/search?q=City+of+Augusta) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
-| 2023-05-25 | [`Norton Healthcare`](https://google.com/search?q=Norton+Healthcare) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
