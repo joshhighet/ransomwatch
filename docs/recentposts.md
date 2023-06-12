@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-06-12 | [`pneusbeaucerons.com`](https://google.com/search?q=pneusbeaucerons.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-06-12 | [`ai-thermal.com`](https://google.com/search?q=ai-thermal.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-06-12 | [`Global Remote Services`](https://google.com/search?q=Global+Remote+Services) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
 | 2023-06-12 | [`HILLAEROSYSTEMS`](https://google.com/search?q=HILLAEROSYSTEMS) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2023-06-12 | [`REGAL`](https://google.com/search?q=REGAL) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-05-26 | [`fams.net`](https://google.com/search?q=fams.net) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-05-25 | [`City of Augusta`](https://google.com/search?q=City+of+Augusta) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
 | 2023-05-25 | [`Norton Healthcare`](https://google.com/search?q=Norton+Healthcare) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-05-25 | [`sfponline.org`](https://google.com/search?q=sfponline.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-05-25 | [`pneusbelislecarrieres.com`](https://google.com/search?q=pneusbelislecarrieres.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
