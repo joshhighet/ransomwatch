@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-06-13 | [`rammutual.com`](https://google.com/search?q=rammutual.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-06-13 | [`gslelectric.com`](https://google.com/search?q=gslelectric.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-06-13 | [`eriematerials.com`](https://google.com/search?q=eriematerials.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-06-13 | [`Sonangol`](https://google.com/search?q=Sonangol) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-06-13 | [`t-s-c.eu`](https://google.com/search?q=t-s-c.eu) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-06-12 | [`Automatic Systems - is a company with extremely low security of its network and products w`](https://google.com/search?q=Automatic+Systems+-+is+a+company+with+extremely+low+security+of+its+network+and+products+w) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2023-05-26 | [`http://www.afgholdings.com`](https://google.com/search?q=http%3A%2F%2Fwww.afgholdings.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
 | 2023-05-26 | [`http://www.volt.com`](https://google.com/search?q=http%3A%2F%2Fwww.volt.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
 | 2023-05-26 | [`wiannoclub.com`](https://google.com/search?q=wiannoclub.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-05-26 | [`Procurri`](https://google.com/search?q=Procurri) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-05-26 | [`wenntownsend`](https://google.com/search?q=wenntownsend) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-05-26 | [`kyocera-avx.com`](https://google.com/search?q=kyocera-avx.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
