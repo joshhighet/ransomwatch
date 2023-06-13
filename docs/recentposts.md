@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-06-13 | [`Jeff Wyler Automotive Family, Inc.`](https://google.com/search?q=Jeff+Wyler+Automotive+Family%2C+Inc.) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2023-06-13 | [`K********* ******* ***`](https://google.com/search?q=K%2A%2A%2A%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A+%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2023-06-13 | [`*i**r** *e***l****`](https://google.com/search?q=%2Ai%2A%2Ar%2A%2A+%2Ae%2A%2A%2Al%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-06-13 | [`rammutual.com`](https://google.com/search?q=rammutual.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-06-13 | [`gslelectric.com`](https://google.com/search?q=gslelectric.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-06-13 | [`eriematerials.com`](https://google.com/search?q=eriematerials.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2023-05-26 | [`http://www.directviz.com`](https://google.com/search?q=http%3A%2F%2Fwww.directviz.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
 | 2023-05-26 | [`http://www.thebestconnection.co.uk`](https://google.com/search?q=http%3A%2F%2Fwww.thebestconnection.co.uk) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
 | 2023-05-26 | [`http://www.mitutoyo.ch`](https://google.com/search?q=http%3A%2F%2Fwww.mitutoyo.ch) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
-| 2023-05-26 | [`http://www.afgholdings.com`](https://google.com/search?q=http%3A%2F%2Fwww.afgholdings.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
-| 2023-05-26 | [`http://www.volt.com`](https://google.com/search?q=http%3A%2F%2Fwww.volt.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
-| 2023-05-26 | [`wiannoclub.com`](https://google.com/search?q=wiannoclub.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
