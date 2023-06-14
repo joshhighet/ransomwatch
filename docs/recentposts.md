@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-06-14 | [`prioritydispatch.net`](https://google.com/search?q=prioritydispatch.net) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-06-14 | [`Hemenway Financial Services`](https://google.com/search?q=Hemenway+Financial+Services) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
 | 2023-06-14 | [`MCNA Dental`](https://google.com/search?q=MCNA+Dental) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
 | 2023-06-14 | [`TF AMD Microelectronics`](https://google.com/search?q=TF+AMD+Microelectronics) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-05-26 | [`fiduagraria.gov.co`](https://google.com/search?q=fiduagraria.gov.co) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-05-26 | [`arnoldoilco.com`](https://google.com/search?q=arnoldoilco.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-05-26 | [`aimtron.com`](https://google.com/search?q=aimtron.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-05-26 | [`Marshall Construction Ltd`](https://google.com/search?q=Marshall+Construction+Ltd) | [trigona](https://ransomwatch.telemetry.ltd/#/profiles?id=trigona) |
