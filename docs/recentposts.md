@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-06-14 | [`granules.com`](https://google.com/search?q=granules.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-06-14 | [`http://venturelogistics.com`](https://google.com/search?q=http%3A%2F%2Fventurelogistics.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2023-06-14 | [`primeretailservices.com`](https://google.com/search?q=primeretailservices.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-06-14 | [`prioritydispatch.net`](https://google.com/search?q=prioritydispatch.net) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-05-26 | [`Good Oil Company`](https://google.com/search?q=Good+Oil+Company) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-05-26 | [`watersaversinc.com`](https://google.com/search?q=watersaversinc.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-05-26 | [`floodlaw.com`](https://google.com/search?q=floodlaw.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-05-26 | [`fiduagraria.gov.co`](https://google.com/search?q=fiduagraria.gov.co) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
