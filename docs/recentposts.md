@@ -4,6 +4,10 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-06-14 | [`Fiege Sp. z o.o.`](https://google.com/search?q=Fiege+Sp.+z+o.o.) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
+| 2023-06-14 | [`NEBRASKALAND`](https://google.com/search?q=NEBRASKALAND) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
+| 2023-06-14 | [`The Texwipe`](https://google.com/search?q=The+Texwipe) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
+| 2023-06-14 | [`YAMAHA CORPORATION OF AMERICA`](https://google.com/search?q=YAMAHA+CORPORATION+OF+AMERICA) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
 | 2023-06-14 | [`Air Comfort (aircomfort.ac)`](https://google.com/search?q=Air+Comfort+%28aircomfort.ac%29) | [rancoz](https://ransomwatch.telemetry.ltd/#/profiles?id=rancoz) |
 | 2023-06-14 | [`https://https://www.iecm.co.th`](https://google.com/search?q=https%3A%2F%2Fhttps%3A%2F%2Fwww.iecm.co.th) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2023-06-14 | [`Jalux Americas, Inc.`](https://google.com/search?q=Jalux+Americas%2C+Inc.) | [ransomblog_noname](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomblog_noname) |
@@ -200,7 +204,3 @@ _last `200` posts_
 | 2023-05-28 | [`grantierra.com`](https://google.com/search?q=grantierra.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-05-28 | [`voyageursdumonde.fr`](https://google.com/search?q=voyageursdumonde.fr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-05-28 | [`Australian Universal Crane Leak`](https://google.com/search?q=Australian+Universal+Crane+Leak) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
-| 2023-05-27 | [`******MD`](https://google.com/search?q=%2A%2A%2A%2A%2A%2AMD) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2023-05-27 | [`**G Inc.`](https://google.com/search?q=%2A%2AG+Inc.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2023-05-27 | [`*a*** I*********`](https://google.com/search?q=%2Aa%2A%2A%2A+I%2A%2A%2A%2A%2A%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2023-05-27 | [`H****** **e*** V******* **i** Project`](https://google.com/search?q=H%2A%2A%2A%2A%2A%2A+%2A%2Ae%2A%2A%2A+V%2A%2A%2A%2A%2A%2A%2A+%2A%2Ai%2A%2A+Project) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
