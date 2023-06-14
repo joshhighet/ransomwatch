@@ -4,6 +4,12 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-06-14 | [`Hemenway Financial Services`](https://google.com/search?q=Hemenway+Financial+Services) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
+| 2023-06-14 | [`MCNA Dental`](https://google.com/search?q=MCNA+Dental) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
+| 2023-06-14 | [`TF AMD Microelectronics`](https://google.com/search?q=TF+AMD+Microelectronics) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
+| 2023-06-14 | [`Tetrosyl Group`](https://google.com/search?q=Tetrosyl+Group) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
+| 2023-06-14 | [`James Briggs Limited`](https://google.com/search?q=James+Briggs+Limited) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
+| 2023-06-14 | [`Bunker Hill Community College`](https://google.com/search?q=Bunker+Hill+Community+College) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
 | 2023-06-13 | [`Bogleboo`](https://google.com/search?q=Bogleboo) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2023-06-13 | [`Fullerton India`](https://google.com/search?q=Fullerton+India) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
 | 2023-06-13 | [`Jeff Wyler Automotive Family, Inc.`](https://google.com/search?q=Jeff+Wyler+Automotive+Family%2C+Inc.) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
@@ -198,9 +204,3 @@ _last `200` posts_
 | 2023-05-26 | [`arnoldoilco.com`](https://google.com/search?q=arnoldoilco.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-05-26 | [`aimtron.com`](https://google.com/search?q=aimtron.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-05-26 | [`Marshall Construction Ltd`](https://google.com/search?q=Marshall+Construction+Ltd) | [trigona](https://ransomwatch.telemetry.ltd/#/profiles?id=trigona) |
-| 2023-05-26 | [`http://www.colrich.com`](https://google.com/search?q=http%3A%2F%2Fwww.colrich.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
-| 2023-05-26 | [`http://www.haworthtompkins.com`](https://google.com/search?q=http%3A%2F%2Fwww.haworthtompkins.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
-| 2023-05-26 | [`http://www.co-pack.co.uk`](https://google.com/search?q=http%3A%2F%2Fwww.co-pack.co.uk) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
-| 2023-05-26 | [`http://www.sovitrat.fr`](https://google.com/search?q=http%3A%2F%2Fwww.sovitrat.fr) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
-| 2023-05-26 | [`http://www.bmprecision.com`](https://google.com/search?q=http%3A%2F%2Fwww.bmprecision.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
-| 2023-05-26 | [`http://www.directviz.com`](https://google.com/search?q=http%3A%2F%2Fwww.directviz.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
