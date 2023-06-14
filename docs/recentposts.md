@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-06-14 | [`http://venturelogistics.com`](https://google.com/search?q=http%3A%2F%2Fventurelogistics.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
+| 2023-06-14 | [`primeretailservices.com`](https://google.com/search?q=primeretailservices.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-06-14 | [`prioritydispatch.net`](https://google.com/search?q=prioritydispatch.net) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-06-14 | [`Hemenway Financial Services`](https://google.com/search?q=Hemenway+Financial+Services) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
 | 2023-06-14 | [`MCNA Dental`](https://google.com/search?q=MCNA+Dental) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-05-26 | [`watersaversinc.com`](https://google.com/search?q=watersaversinc.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-05-26 | [`floodlaw.com`](https://google.com/search?q=floodlaw.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-05-26 | [`fiduagraria.gov.co`](https://google.com/search?q=fiduagraria.gov.co) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-05-26 | [`arnoldoilco.com`](https://google.com/search?q=arnoldoilco.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-05-26 | [`aimtron.com`](https://google.com/search?q=aimtron.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
