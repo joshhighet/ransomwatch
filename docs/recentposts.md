@@ -4,6 +4,13 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-06-15 | [`DANIEL C. HARRIS, O.D`](https://google.com/search?q=DANIEL+C.+HARRIS%2C+O.D) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2023-06-15 | [`Hornbill`](https://google.com/search?q=Hornbill) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2023-06-15 | [`Stone Fox Ventures`](https://google.com/search?q=Stone+Fox+Ventures) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2023-06-15 | [`Ligas Gerais Industria E Comercio`](https://google.com/search?q=Ligas+Gerais+Industria+E+Comercio) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2023-06-15 | [`Studio Legale Ranchino`](https://google.com/search?q=Studio+Legale+Ranchino) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2023-06-15 | [`San Luis Obispo County Office of Education`](https://google.com/search?q=San+Luis+Obispo+County+Office+of+Education) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2023-06-15 | [`Law Offices of Sergio J. Siderman`](https://google.com/search?q=Law+Offices+of+Sergio+J.+Siderman) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-06-15 | [`https://asz-gmbh.de`](https://google.com/search?q=https%3A%2F%2Fasz-gmbh.de) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2023-06-15 | [`Alpha Data`](https://google.com/search?q=Alpha+Data) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-06-15 | [`Plott Corporation`](https://google.com/search?q=Plott+Corporation) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -197,10 +204,3 @@ _last `200` posts_
 | 2023-05-30 | [`eastern-media-international-corporation`](https://google.com/search?q=eastern-media-international-corporation) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
 | 2023-05-29 | [`Soroc`](https://google.com/search?q=Soroc) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-05-29 | [`Adsboll`](https://google.com/search?q=Adsboll) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
-| 2023-05-29 | [`BCATTORNEY`](https://google.com/search?q=BCATTORNEY) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-05-29 | [`aquidneckclub.com`](https://google.com/search?q=aquidneckclub.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-05-29 | [`Computer Information Concepts Inc`](https://google.com/search?q=Computer+Information+Concepts+Inc) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2023-05-29 | [`Brokers Trust Insura nce Group`](https://google.com/search?q=Brokers+Trust+Insura+nce+Group) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2023-05-29 | [`retailmerchantservices.co.uk`](https://google.com/search?q=retailmerchantservices.co.uk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-05-29 | [`Fersten Worldwide`](https://google.com/search?q=Fersten+Worldwide) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2023-05-29 | [`C********* ***************`](https://google.com/search?q=C%2A%2A%2A%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
