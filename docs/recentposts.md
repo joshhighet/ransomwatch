@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-06-15 | [`Law Society of South Africa`](https://google.com/search?q=Law+Society+of+South+Africa) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-06-14 | [`Fiege Sp. z o.o.`](https://google.com/search?q=Fiege+Sp.+z+o.o.) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
 | 2023-06-14 | [`NEBRASKALAND`](https://google.com/search?q=NEBRASKALAND) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
 | 2023-06-14 | [`The Texwipe`](https://google.com/search?q=The+Texwipe) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-05-29 | [`BilgeAdam Software`](https://google.com/search?q=BilgeAdam+Software) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-05-28 | [`grantierra.com`](https://google.com/search?q=grantierra.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-05-28 | [`voyageursdumonde.fr`](https://google.com/search?q=voyageursdumonde.fr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-05-28 | [`Australian Universal Crane Leak`](https://google.com/search?q=Australian+Universal+Crane+Leak) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
