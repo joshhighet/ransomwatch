@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-06-15 | [`https://asz-gmbh.de`](https://google.com/search?q=https%3A%2F%2Fasz-gmbh.de) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
+| 2023-06-15 | [`Alpha Data`](https://google.com/search?q=Alpha+Data) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
+| 2023-06-15 | [`Plott Corporation`](https://google.com/search?q=Plott+Corporation) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-06-15 | [`Salem Community Schools`](https://google.com/search?q=Salem+Community+Schools) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-06-15 | [`ste-usa.com`](https://google.com/search?q=ste-usa.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-06-15 | [`flybtr.com`](https://google.com/search?q=flybtr.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2023-05-29 | [`retailmerchantservices.co.uk`](https://google.com/search?q=retailmerchantservices.co.uk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-05-29 | [`Fersten Worldwide`](https://google.com/search?q=Fersten+Worldwide) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-05-29 | [`C********* ***************`](https://google.com/search?q=C%2A%2A%2A%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2023-05-29 | [`Earlens Corporation`](https://google.com/search?q=Earlens+Corporation) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2023-05-29 | [`Neutronic Stamping`](https://google.com/search?q=Neutronic+Stamping) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2023-05-29 | [`Roadies`](https://google.com/search?q=Roadies) | [nokoyawa](https://ransomwatch.telemetry.ltd/#/profiles?id=nokoyawa) |
