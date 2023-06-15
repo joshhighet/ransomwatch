@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-06-15 | [`Salem Community Schools`](https://google.com/search?q=Salem+Community+Schools) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
+| 2023-06-15 | [`ste-usa.com`](https://google.com/search?q=ste-usa.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-06-15 | [`flybtr.com`](https://google.com/search?q=flybtr.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-06-15 | [`Law Society of South Africa`](https://google.com/search?q=Law+Society+of+South+Africa) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-06-14 | [`Fiege Sp. z o.o.`](https://google.com/search?q=Fiege+Sp.+z+o.o.) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
 | 2023-06-14 | [`NEBRASKALAND`](https://google.com/search?q=NEBRASKALAND) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2023-05-29 | [`Earlens Corporation`](https://google.com/search?q=Earlens+Corporation) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-05-29 | [`Neutronic Stamping`](https://google.com/search?q=Neutronic+Stamping) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-05-29 | [`Roadies`](https://google.com/search?q=Roadies) | [nokoyawa](https://ransomwatch.telemetry.ltd/#/profiles?id=nokoyawa) |
-| 2023-05-29 | [`BilgeAdam Software`](https://google.com/search?q=BilgeAdam+Software) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
-| 2023-05-28 | [`grantierra.com`](https://google.com/search?q=grantierra.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-05-28 | [`voyageursdumonde.fr`](https://google.com/search?q=voyageursdumonde.fr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
