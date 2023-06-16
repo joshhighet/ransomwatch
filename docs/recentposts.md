@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-06-16 | [`Kisco Senior Living`](https://google.com/search?q=Kisco+Senior+Living) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
+| 2023-06-16 | [`Multistack`](https://google.com/search?q=Multistack) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
 | 2023-06-15 | [`Roberto Verino Difusion`](https://google.com/search?q=Roberto+Verino+Difusion) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2023-06-15 | [`Prada Gayoso`](https://google.com/search?q=Prada+Gayoso) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2023-06-15 | [`Badan Operasi Bersama Pt Bumi Siak Pusako Pertamina Hulu`](https://google.com/search?q=Badan+Operasi+Bersama+Pt+Bumi+Siak+Pusako+Pertamina+Hulu) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-06-01 | [`****y *o***** Companies Group`](https://google.com/search?q=%2A%2A%2A%2Ay+%2Ao%2A%2A%2A%2A%2A+Companies+Group) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-06-01 | [`Aarti Industries Ltd.`](https://google.com/search?q=Aarti+Industries+Ltd.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-06-01 | [`EDG, Inc`](https://google.com/search?q=EDG%2C+Inc) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2023-06-01 | [`Chadwick, Washington, Moriarty, Elmore and Bunn`](https://google.com/search?q=Chadwick%2C+Washington%2C+Moriarty%2C+Elmore+and+Bunn) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2023-06-01 | [`Handok Inc.`](https://google.com/search?q=Handok+Inc.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
