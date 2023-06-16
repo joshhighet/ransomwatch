@@ -2,9 +2,9 @@
 ## summary
 _june 16th, 2023_
 
-currently tracking `149` groups across `267` relays & mirrors - _`103` currently online_
+currently tracking `149` groups across `267` relays & mirrors - _`104` currently online_
 
-⏲ there have been `32` posts within the `last 24 hours`
+⏲ there have been `25` posts within the `last 24 hours`
 
 🦈 there have been `209` posts within the `month of june`
 
