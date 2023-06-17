@@ -4413,5 +4413,25 @@
             }
         ],
         "profile": []
+    },
+    {
+        "name": "darkrace",
+        "captcha": false,
+        "parser": true,
+        "javascript_render": false,
+        "meta": null,
+        "locations": [
+            {
+                "fqdn": "wkrlpub5k52rjigwxfm6m7ogid55kamgc5azxlq7zjgaopv33tgx2sqd.onion",
+                "title": "Darkrace blog",
+                "version": 3,
+                "slug": "http://wkrlpub5k52rjigwxfm6m7ogid55kamgc5azxlq7zjgaopv33tgx2sqd.onion",
+                "available": true,
+                "updated": "2023-06-17 13:28:21.077514",
+                "lastscrape": "2023-06-17 13:28:21.077492",
+                "enabled": true
+            }
+        ],
+        "profile": []
     }
 ]

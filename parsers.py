@@ -1066,3 +1066,14 @@ def rancoz():
         errlog('rancoz: ' + 'parsing fail')
     for post in posts:
         appender(post, 'rancoz')
+
+def darkrace():
+    stdlog('parser: ' + 'darkrace')
+    parser = '''
+    egrep -o '<a class="post-title-link" href="/[^"]+">[^<]+' source/darkrace-* | cut -d'>' -f 2 | cut -d '<' -f 1
+    '''
+    posts = runshellcmd(parser)
+    if len(posts) == 1:
+        errlog('darkrace: ' + 'parsing fail')
+    for post in posts:
+        appender(post, 'darkrace')
