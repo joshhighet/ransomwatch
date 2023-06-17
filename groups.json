@@ -4485,5 +4485,35 @@
             }
         ],
         "profile": []
+    },
+    {
+        "name": "noescape",
+        "captcha": false,
+        "parser": false,
+        "javascript_render": true,
+        "meta": null,
+        "locations": [
+            {
+                "fqdn": "noescaperjh3gg6oy7rck57fiefyuzmj7kmvojxgvlmwd5pdzizrb7ad.onion",
+                "title": "Welcome",
+                "version": 3,
+                "slug": "http://noescaperjh3gg6oy7rck57fiefyuzmj7kmvojxgvlmwd5pdzizrb7ad.onion",
+                "available": true,
+                "updated": "2023-06-17 13:57:09.935620",
+                "lastscrape": "2023-06-17 13:57:09.935602",
+                "enabled": true
+            },
+            {
+                "fqdn": "noescapemsqxvizdxyl7f7rmg5cdjwp33pg2wpmiaaibilb4btwzttad.onion",
+                "title": "NoEscape",
+                "version": 3,
+                "slug": "http://noescapemsqxvizdxyl7f7rmg5cdjwp33pg2wpmiaaibilb4btwzttad.onion/newcomers",
+                "available": true,
+                "updated": "2023-06-17 13:57:34.930439",
+                "lastscrape": "2023-06-17 13:57:34.930420",
+                "enabled": true
+            }
+        ],
+        "profile": []
     }
 ]
