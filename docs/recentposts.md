@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-06-17 | [`target-8`](https://google.com/search?q=target-8) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
 | 2023-06-16 | [`cangas.gal`](https://google.com/search?q=cangas.gal) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-06-16 | [`Kisco Senior Living`](https://google.com/search?q=Kisco+Senior+Living) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
 | 2023-06-16 | [`Multistack`](https://google.com/search?q=Multistack) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-06-02 | [`Shows & Artists`](https://google.com/search?q=Shows+%26+Artists) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-06-01 | [`R Eckel's Transport`](https://google.com/search?q=R+Eckel%27s+Transport) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-06-01 | [`****y *o***** Companies Group`](https://google.com/search?q=%2A%2A%2A%2Ay+%2Ao%2A%2A%2A%2A%2A+Companies+Group) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2023-06-01 | [`Aarti Industries Ltd.`](https://google.com/search?q=Aarti+Industries+Ltd.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
