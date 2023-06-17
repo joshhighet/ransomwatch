@@ -4433,5 +4433,27 @@
             }
         ],
         "profile": []
+    },
+    {
+        "name": "shadow",
+        "captcha": false,
+        "parser": false,
+        "javascript_render": false,
+        "meta": null,
+        "locations": [
+            {
+                "fqdn": "lc65fb3wrvox6xlyn4hklwjcojau55diqxxylqs4qsfng23ftzijnxad.onion",
+                "title": "Shadow",
+                "version": 3,
+                "slug": "http://lc65fb3wrvox6xlyn4hklwjcojau55diqxxylqs4qsfng23ftzijnxad.onion",
+                "available": true,
+                "updated": "2023-06-17 13:34:12.485844",
+                "lastscrape": "2023-06-17 13:34:12.485827",
+                "enabled": true
+            }
+        ],
+        "profile": [
+            "https://github.com/threatlabz/ransomware_notes/blob/main/shadow/%5Brand%5D.README.txt"
+        ]
     }
 ]
