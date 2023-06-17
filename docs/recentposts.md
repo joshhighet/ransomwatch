@@ -4,6 +4,21 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-06-17 | [`Haemokinesis`](https://google.com/search?q=Haemokinesis) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
+| 2023-06-17 | [`Amstutz Produkte`](https://google.com/search?q=Amstutz+Produkte) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
+| 2023-06-17 | [`The Thomas Hardye School`](https://google.com/search?q=The+Thomas+Hardye+School) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
+| 2023-06-17 | [`Collectivite Territoriale de Martinique`](https://google.com/search?q=Collectivite+Territoriale+de+Martinique) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
+| 2023-06-17 | [`Ejercito de Chile`](https://google.com/search?q=Ejercito+de+Chile) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
+| 2023-06-17 | [`Koper Automatisering`](https://google.com/search?q=Koper+Automatisering) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
+| 2023-06-17 | [`ERT`](https://google.com/search?q=ERT) | [darkrace](https://ransomwatch.telemetry.ltd/#/profiles?id=darkrace) |
+| 2023-06-17 | [`CONATECO`](https://google.com/search?q=CONATECO) | [darkrace](https://ransomwatch.telemetry.ltd/#/profiles?id=darkrace) |
+| 2023-06-17 | [`PESSI`](https://google.com/search?q=PESSI) | [darkrace](https://ransomwatch.telemetry.ltd/#/profiles?id=darkrace) |
+| 2023-06-17 | [`PLURISERVICE`](https://google.com/search?q=PLURISERVICE) | [darkrace](https://ransomwatch.telemetry.ltd/#/profiles?id=darkrace) |
+| 2023-06-17 | [`hep global GmbH`](https://google.com/search?q=hep+global+GmbH) | [darkrace](https://ransomwatch.telemetry.ltd/#/profiles?id=darkrace) |
+| 2023-06-17 | [`rzepeckimroczkowski`](https://google.com/search?q=rzepeckimroczkowski) | [darkrace](https://ransomwatch.telemetry.ltd/#/profiles?id=darkrace) |
+| 2023-06-17 | [`PICPLUS.COM`](https://google.com/search?q=PICPLUS.COM) | [darkrace](https://ransomwatch.telemetry.ltd/#/profiles?id=darkrace) |
+| 2023-06-17 | [`vaud-promotion`](https://google.com/search?q=vaud-promotion) | [darkrace](https://ransomwatch.telemetry.ltd/#/profiles?id=darkrace) |
+| 2023-06-17 | [`marstrand.se`](https://google.com/search?q=marstrand.se) | [darkrace](https://ransomwatch.telemetry.ltd/#/profiles?id=darkrace) |
 | 2023-06-17 | [`target-8`](https://google.com/search?q=target-8) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
 | 2023-06-16 | [`cangas.gal`](https://google.com/search?q=cangas.gal) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-06-16 | [`Kisco Senior Living`](https://google.com/search?q=Kisco+Senior+Living) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
@@ -12,25 +27,11 @@ _last `200` posts_
 | 2023-06-15 | [`Prada Gayoso`](https://google.com/search?q=Prada+Gayoso) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2023-06-15 | [`Badan Operasi Bersama Pt Bumi Siak Pusako Pertamina Hulu`](https://google.com/search?q=Badan+Operasi+Bersama+Pt+Bumi+Siak+Pusako+Pertamina+Hulu) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-06-15 | [`emtelco.com.co`](https://google.com/search?q=emtelco.com.co) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
-| 2023-06-15 | [`https://gigatron.rs/`](https://google.com/search?q=https%3A%2F%2Fgigatron.rs%2F) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2023-06-15 | [`https://fsmsolicitors.co.uk/`](https://google.com/search?q=https%3A%2F%2Ffsmsolicitors.co.uk%2F) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2023-06-15 | [`https://www.attentzorgenbehandeling.nl/`](https://google.com/search?q=https%3A%2F%2Fwww.attentzorgenbehandeling.nl%2F) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2023-06-15 | [`https://www.sippex.com`](https://google.com/search?q=https%3A%2F%2Fwww.sippex.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
-| 2023-06-15 | [`https://www.siix.co.jp`](https://google.com/search?q=https%3A%2F%2Fwww.siix.co.jp) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
-| 2023-06-15 | [`https://www.groppernejat.com/`](https://google.com/search?q=https%3A%2F%2Fwww.groppernejat.com%2F) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
-| 2023-06-15 | [`https://eyedocsottawa.com`](https://google.com/search?q=https%3A%2F%2Feyedocsottawa.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
-| 2023-06-15 | [`https://hmsosa.com`](https://google.com/search?q=https%3A%2F%2Fhmsosa.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
-| 2023-06-15 | [`https://www.maier-sanitaer.de`](https://google.com/search?q=https%3A%2F%2Fwww.maier-sanitaer.de) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
-| 2023-06-15 | [`https://www.ktlaw.co.nz/`](https://google.com/search?q=https%3A%2F%2Fwww.ktlaw.co.nz%2F) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
-| 2023-06-15 | [`https://smdea09.fr/`](https://google.com/search?q=https%3A%2F%2Fsmdea09.fr%2F) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
-| 2023-06-15 | [`https://oppida.com/`](https://google.com/search?q=https%3A%2F%2Foppida.com%2F) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
-| 2023-06-15 | [`https://conleywirick.com`](https://google.com/search?q=https%3A%2F%2Fconleywirick.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
-| 2023-06-15 | [`https://ascentia.us`](https://google.com/search?q=https%3A%2F%2Fascentia.us) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
-| 2023-06-15 | [`https://awmga.com/`](https://google.com/search?q=https%3A%2F%2Fawmga.com%2F) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
-| 2023-06-15 | [`https://claritywatertech.com`](https://google.com/search?q=https%3A%2F%2Fclaritywatertech.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2023-06-15 | [`asz-gmbh.de`](https://google.com/search?q=asz-gmbh.de) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2023-06-15 | [`https://delbonohotels.com`](https://google.com/search?q=https%3A%2F%2Fdelbonohotels.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
-| 2023-06-15 | [`https://www.iecm.co.th`](https://google.com/search?q=https%3A%2F%2Fwww.iecm.co.th) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2023-06-15 | [`DANIEL C. HARRIS, O.D`](https://google.com/search?q=DANIEL+C.+HARRIS%2C+O.D) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-06-15 | [`Hornbill`](https://google.com/search?q=Hornbill) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-06-15 | [`Stone Fox Ventures`](https://google.com/search?q=Stone+Fox+Ventures) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
@@ -50,7 +51,7 @@ _last `200` posts_
 | 2023-06-14 | [`The Texwipe`](https://google.com/search?q=The+Texwipe) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
 | 2023-06-14 | [`YAMAHA CORPORATION OF AMERICA`](https://google.com/search?q=YAMAHA+CORPORATION+OF+AMERICA) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
 | 2023-06-14 | [`Air Comfort (aircomfort.ac)`](https://google.com/search?q=Air+Comfort+%28aircomfort.ac%29) | [rancoz](https://ransomwatch.telemetry.ltd/#/profiles?id=rancoz) |
-| 2023-06-14 | [`https://https://www.iecm.co.th`](https://google.com/search?q=https%3A%2F%2Fhttps%3A%2F%2Fwww.iecm.co.th) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
+| 2023-06-14 | [`https://www.iecm.co.th`](https://google.com/search?q=https%3A%2F%2Fwww.iecm.co.th) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2023-06-14 | [`Jalux Americas, Inc.`](https://google.com/search?q=Jalux+Americas%2C+Inc.) | [ransomblog_noname](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomblog_noname) |
 | 2023-06-14 | [`arborsct.com`](https://google.com/search?q=arborsct.com) | [ransomblog_noname](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomblog_noname) |
 | 2023-06-14 | [`Wison Engineering`](https://google.com/search?q=Wison+Engineering) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
@@ -80,8 +81,8 @@ _last `200` posts_
 | 2023-06-12 | [`pneusbeaucerons.com`](https://google.com/search?q=pneusbeaucerons.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-06-12 | [`ai-thermal.com`](https://google.com/search?q=ai-thermal.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-06-12 | [`Global Remote Services`](https://google.com/search?q=Global+Remote+Services) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
-| 2023-06-12 | [`HILLAEROSYSTEMS`](https://google.com/search?q=HILLAEROSYSTEMS) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2023-06-12 | [`REGAL`](https://google.com/search?q=REGAL) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2023-06-12 | [`www.hillaerosystems.com`](https://google.com/search?q=www.hillaerosystems.com) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2023-06-12 | [`www.regallogistics.com`](https://google.com/search?q=www.regallogistics.com) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2023-06-12 | [`Amaszonas S.A.`](https://google.com/search?q=Amaszonas+S.A.) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-06-12 | [`https://marjam.com/`](https://google.com/search?q=https%3A%2F%2Fmarjam.com%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2023-06-12 | [`Transprensa`](https://google.com/search?q=Transprensa) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
@@ -111,20 +112,19 @@ _last `200` posts_
 | 2023-06-09 | [`Columbus Regional Healthcare System (US)`](https://google.com/search?q=Columbus+Regional+Healthcare+System+%28US%29) | [daixin](https://ransomwatch.telemetry.ltd/#/profiles?id=daixin) |
 | 2023-06-09 | [`The Adams County Com munication Center or ADCOM911`](https://google.com/search?q=The+Adams+County+Com+munication+Center+or+ADCOM911) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-06-09 | [`http://www.penncrest.org`](https://google.com/search?q=http%3A%2F%2Fwww.penncrest.org) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
-| 2023-06-09 | [`https://https://delbonohotels.com`](https://google.com/search?q=https%3A%2F%2Fhttps%3A%2F%2Fdelbonohotels.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2023-06-09 | [`Kramer Enterprises`](https://google.com/search?q=Kramer+Enterprises) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-06-08 | [`A******* ***** ******`](https://google.com/search?q=A%2A%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-06-08 | [`*** ******** ***** ** **u** *e********`](https://google.com/search?q=%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A+%2A%2A+%2A%2Au%2A%2A+%2Ae%2A%2A%2A%2A%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-06-08 | [`Aeliusmd Medical Systems`](https://google.com/search?q=Aeliusmd+Medical+Systems) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-06-08 | [`M*** ****`](https://google.com/search?q=M%2A%2A%2A+%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2023-06-08 | [`https://https://claritywatertech.com`](https://google.com/search?q=https%3A%2F%2Fhttps%3A%2F%2Fclaritywatertech.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
+| 2023-06-08 | [`https://claritywatertech.com`](https://google.com/search?q=https%3A%2F%2Fclaritywatertech.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2023-06-08 | [`cortinawatch.com`](https://google.com/search?q=cortinawatch.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-06-08 | [`CASEPOINT pt.2`](https://google.com/search?q=CASEPOINT+pt.2) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-06-08 | [`knipmeijerenblok.nl`](https://google.com/search?q=knipmeijerenblok.nl) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-06-07 | [`ROADSAFETRAFFIC_2`](https://google.com/search?q=ROADSAFETRAFFIC_2) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2023-06-07 | [`www.roadsafetraffic.com`](https://google.com/search?q=www.roadsafetraffic.com) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2023-06-07 | [`Tour Partner Group `](https://google.com/search?q=Tour+Partner+Group+) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-06-07 | [`Harbro`](https://google.com/search?q=Harbro) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2023-06-07 | [`https://https://awmga.com/`](https://google.com/search?q=https%3A%2F%2Fhttps%3A%2F%2Fawmga.com%2F) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
+| 2023-06-07 | [`https://awmga.com/`](https://google.com/search?q=https%3A%2F%2Fawmga.com%2F) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2023-06-07 | [`worldlearning.org`](https://google.com/search?q=worldlearning.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-06-07 | [`newhorizonsmedical.org`](https://google.com/search?q=newhorizonsmedical.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-06-07 | [`aluminumsandcastingsfoundry.com`](https://google.com/search?q=aluminumsandcastingsfoundry.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -174,10 +174,10 @@ _last `200` posts_
 | 2023-06-05 | [`Mount Desert Island Hospital`](https://google.com/search?q=Mount+Desert+Island+Hospital) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
 | 2023-06-05 | [`The Briars Group`](https://google.com/search?q=The+Briars+Group) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
 | 2023-06-05 | [`Avant Grup`](https://google.com/search?q=Avant+Grup) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
-| 2023-06-04 | [`https://https://ascentia.us`](https://google.com/search?q=https%3A%2F%2Fhttps%3A%2F%2Fascentia.us) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
+| 2023-06-04 | [`https://ascentia.us`](https://google.com/search?q=https%3A%2F%2Fascentia.us) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2023-06-04 | [`Nerim`](https://google.com/search?q=Nerim) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2023-06-04 | [`uhsp.edu`](https://google.com/search?q=uhsp.edu) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-06-04 | [`https://https://conleywirick.com`](https://google.com/search?q=https%3A%2F%2Fhttps%3A%2F%2Fconleywirick.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
+| 2023-06-04 | [`https://conleywirick.com`](https://google.com/search?q=https%3A%2F%2Fconleywirick.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2023-06-04 | [`Share and Harris`](https://google.com/search?q=Share+and+Harris) | [mallox](https://ransomwatch.telemetry.ltd/#/profiles?id=mallox) |
 | 2023-06-03 | [`Tension Corporation`](https://google.com/search?q=Tension+Corporation) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-06-03 | [`Share`](https://google.com/search?q=Share) | [mallox](https://ransomwatch.telemetry.ltd/#/profiles?id=mallox) |
