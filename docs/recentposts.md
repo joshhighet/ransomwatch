@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-06-18 | [`Tyconz`](https://google.com/search?q=Tyconz) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2023-06-17 | [`tdm.com.pe`](https://google.com/search?q=tdm.com.pe) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-06-17 | [`The Reddit Files`](https://google.com/search?q=The+Reddit+Files) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-06-17 | [`Creative Liquid Coatings`](https://google.com/search?q=Creative+Liquid+Coatings) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-06-02 | [`Alberta Newsprint`](https://google.com/search?q=Alberta+Newsprint) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-06-02 | [`CS Cargo Group`](https://google.com/search?q=CS+Cargo+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-06-02 | [`BMD Systemhaus`](https://google.com/search?q=BMD+Systemhaus) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-06-02 | [`Buffalo Niagara Association`](https://google.com/search?q=Buffalo+Niagara+Association) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
