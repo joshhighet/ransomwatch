@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-06-18 | [`EDER`](https://google.com/search?q=EDER) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2023-06-18 | [`Bangkok Industrial Gas Co., Ltd. (BIG)`](https://google.com/search?q=Bangkok+Industrial+Gas+Co.%2C+Ltd.+%28BIG%29) | [mallox](https://ransomwatch.telemetry.ltd/#/profiles?id=mallox) |
 | 2023-06-18 | [`The Dufresne Group - DSG - ASHLEY HOMESTORES`](https://google.com/search?q=The+Dufresne+Group+-+DSG+-+ASHLEY+HOMESTORES) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-06-18 | [`Tyconz`](https://google.com/search?q=Tyconz) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-06-02 | [`Globalcaja`](https://google.com/search?q=Globalcaja) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-06-02 | [`Fortress Paper`](https://google.com/search?q=Fortress+Paper) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-06-02 | [`Unico Data,INSYS Industriesysteme,PathA Suisse,PB Swiss Tools,Boess Gruppe`](https://google.com/search?q=Unico+Data%2CINSYS+Industriesysteme%2CPathA+Suisse%2CPB+Swiss+Tools%2CBoess+Gruppe) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-06-02 | [`Alberta Newsprint`](https://google.com/search?q=Alberta+Newsprint) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
