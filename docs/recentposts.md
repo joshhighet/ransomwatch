@@ -4,6 +4,10 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-06-19 | [`PrintGlobe, Inc.`](https://google.com/search?q=PrintGlobe%2C+Inc.) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2023-06-19 | [`BLUESAGE`](https://google.com/search?q=BLUESAGE) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2023-06-19 | [`printmarksolution.com`](https://google.com/search?q=printmarksolution.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
+| 2023-06-19 | [`Ascendum Machinery`](https://google.com/search?q=Ascendum+Machinery) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-06-19 | [`FHR Electric`](https://google.com/search?q=FHR+Electric) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-06-19 | [`Northeastern State University`](https://google.com/search?q=Northeastern+State+University) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2023-06-19 | [`Futura Agronegócios`](https://google.com/search?q=Futura+Agroneg%C3%B3cios) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
@@ -200,7 +204,3 @@ _last `200` posts_
 | 2023-06-03 | [`Young Homes, Inc`](https://google.com/search?q=Young+Homes%2C+Inc) | [mallox](https://ransomwatch.telemetry.ltd/#/profiles?id=mallox) |
 | 2023-06-03 | [`ServiceKing & CrashChampions`](https://google.com/search?q=ServiceKing+%26+CrashChampions) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-06-03 | [`SsangYong Motor`](https://google.com/search?q=SsangYong+Motor) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
-| 2023-06-02 | [`shakeys.com`](https://google.com/search?q=shakeys.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-06-02 | [`packageconcepts.com`](https://google.com/search?q=packageconcepts.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-06-02 | [`harwoodlloyd.com`](https://google.com/search?q=harwoodlloyd.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-06-02 | [`LETAPE JEUNES`](https://google.com/search?q=LETAPE+JEUNES) | [ransomblog_noname](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomblog_noname) |
