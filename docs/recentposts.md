@@ -4,6 +4,10 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-06-19 | [`Onsupport Corporation`](https://google.com/search?q=Onsupport+Corporation) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2023-06-19 | [`Texas Hotel and Lodging Association`](https://google.com/search?q=Texas+Hotel+and+Lodging+Association) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2023-06-19 | [`TARLE LAW, P.C.`](https://google.com/search?q=TARLE+LAW%2C+P.C.) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2023-06-19 | [`tilg.at`](https://google.com/search?q=tilg.at) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-06-19 | [`PrintGlobe, Inc.`](https://google.com/search?q=PrintGlobe%2C+Inc.) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-06-19 | [`BLUESAGE`](https://google.com/search?q=BLUESAGE) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-06-19 | [`printmarksolution.com`](https://google.com/search?q=printmarksolution.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
@@ -200,7 +204,3 @@ _last `200` posts_
 | 2023-06-03 | [`Tension Corporation`](https://google.com/search?q=Tension+Corporation) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-06-03 | [`Share`](https://google.com/search?q=Share) | [mallox](https://ransomwatch.telemetry.ltd/#/profiles?id=mallox) |
 | 2023-06-03 | [`FICCI`](https://google.com/search?q=FICCI) | [mallox](https://ransomwatch.telemetry.ltd/#/profiles?id=mallox) |
-| 2023-06-03 | [`CCAA`](https://google.com/search?q=CCAA) | [mallox](https://ransomwatch.telemetry.ltd/#/profiles?id=mallox) |
-| 2023-06-03 | [`Young Homes, Inc`](https://google.com/search?q=Young+Homes%2C+Inc) | [mallox](https://ransomwatch.telemetry.ltd/#/profiles?id=mallox) |
-| 2023-06-03 | [`ServiceKing & CrashChampions`](https://google.com/search?q=ServiceKing+%26+CrashChampions) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-06-03 | [`SsangYong Motor`](https://google.com/search?q=SsangYong+Motor) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
