@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-06-19 | [`FHR Electric`](https://google.com/search?q=FHR+Electric) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-06-19 | [`Northeastern State University`](https://google.com/search?q=Northeastern+State+University) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2023-06-19 | [`Futura Agronegócios`](https://google.com/search?q=Futura+Agroneg%C3%B3cios) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-06-19 | [`LOONGSON`](https://google.com/search?q=LOONGSON) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-06-02 | [`packageconcepts.com`](https://google.com/search?q=packageconcepts.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-06-02 | [`harwoodlloyd.com`](https://google.com/search?q=harwoodlloyd.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-06-02 | [`LETAPE JEUNES`](https://google.com/search?q=LETAPE+JEUNES) | [ransomblog_noname](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomblog_noname) |
-| 2023-06-02 | [`JPW Industries (jpwindustries.com) - Baileigh Industrial (baileigh.com) - With SpaceX Data`](https://google.com/search?q=JPW+Industries+%28jpwindustries.com%29+-+Baileigh+Industrial+%28baileigh.com%29+-+With+SpaceX+Data) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
