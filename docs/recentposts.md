@@ -4,6 +4,10 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-06-19 | [`Northeastern State University`](https://google.com/search?q=Northeastern+State+University) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
+| 2023-06-19 | [`Futura Agronegócios`](https://google.com/search?q=Futura+Agroneg%C3%B3cios) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2023-06-19 | [`LOONGSON`](https://google.com/search?q=LOONGSON) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2023-06-19 | [`PORTBLUE`](https://google.com/search?q=PORTBLUE) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-06-18 | [`EDER`](https://google.com/search?q=EDER) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2023-06-18 | [`Bangkok Industrial Gas Co., Ltd. (BIG)`](https://google.com/search?q=Bangkok+Industrial+Gas+Co.%2C+Ltd.+%28BIG%29) | [mallox](https://ransomwatch.telemetry.ltd/#/profiles?id=mallox) |
 | 2023-06-18 | [`The Dufresne Group - DSG - ASHLEY HOMESTORES`](https://google.com/search?q=The+Dufresne+Group+-+DSG+-+ASHLEY+HOMESTORES) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -200,7 +204,3 @@ _last `200` posts_
 | 2023-06-02 | [`harwoodlloyd.com`](https://google.com/search?q=harwoodlloyd.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-06-02 | [`LETAPE JEUNES`](https://google.com/search?q=LETAPE+JEUNES) | [ransomblog_noname](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomblog_noname) |
 | 2023-06-02 | [`JPW Industries (jpwindustries.com) - Baileigh Industrial (baileigh.com) - With SpaceX Data`](https://google.com/search?q=JPW+Industries+%28jpwindustries.com%29+-+Baileigh+Industrial+%28baileigh.com%29+-+With+SpaceX+Data) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-06-02 | [`ykk.com`](https://google.com/search?q=ykk.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-06-02 | [`Globalcaja`](https://google.com/search?q=Globalcaja) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-06-02 | [`Fortress Paper`](https://google.com/search?q=Fortress+Paper) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-06-02 | [`Unico Data,INSYS Industriesysteme,PathA Suisse,PB Swiss Tools,Boess Gruppe`](https://google.com/search?q=Unico+Data%2CINSYS+Industriesysteme%2CPathA+Suisse%2CPB+Swiss+Tools%2CBoess+Gruppe) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
