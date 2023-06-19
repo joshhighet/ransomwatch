@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-06-19 | [`absolutecal.co.uk`](https://google.com/search?q=absolutecal.co.uk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-06-19 | [`Onsupport Corporation`](https://google.com/search?q=Onsupport+Corporation) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-06-19 | [`Texas Hotel and Lodging Association`](https://google.com/search?q=Texas+Hotel+and+Lodging+Association) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-06-19 | [`TARLE LAW, P.C.`](https://google.com/search?q=TARLE+LAW%2C+P.C.) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-06-04 | [`Share and Harris`](https://google.com/search?q=Share+and+Harris) | [mallox](https://ransomwatch.telemetry.ltd/#/profiles?id=mallox) |
 | 2023-06-03 | [`Tension Corporation`](https://google.com/search?q=Tension+Corporation) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-06-03 | [`Share`](https://google.com/search?q=Share) | [mallox](https://ransomwatch.telemetry.ltd/#/profiles?id=mallox) |
-| 2023-06-03 | [`FICCI`](https://google.com/search?q=FICCI) | [mallox](https://ransomwatch.telemetry.ltd/#/profiles?id=mallox) |
