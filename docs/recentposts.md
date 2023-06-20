@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-06-20 | [`SAPROS`](https://google.com/search?q=SAPROS) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2023-06-20 | [`Praxis Energy Agents`](https://google.com/search?q=Praxis+Energy+Agents) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-06-20 | [`www.morsemoving.com`](https://google.com/search?q=www.morsemoving.com) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2023-06-20 | [`Strait & Lamp Group`](https://google.com/search?q=Strait+%26+Lamp+Group) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-06-05 | [`Malt Products`](https://google.com/search?q=Malt+Products) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-06-05 | [`Beacon ABA Services`](https://google.com/search?q=Beacon+ABA+Services) | [karakurt](https://ransomwatch.telemetry.ltd/#/profiles?id=karakurt) |
 | 2023-06-05 | [`etships.com`](https://google.com/search?q=etships.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-06-05 | [`ELITechGroup`](https://google.com/search?q=ELITechGroup) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
