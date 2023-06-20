@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-06-20 | [`MICA ENVIRONNEMENT`](https://google.com/search?q=MICA+ENVIRONNEMENT) | [mallox](https://ransomwatch.telemetry.ltd/#/profiles?id=mallox) |
+| 2023-06-20 | [`SSV Architects`](https://google.com/search?q=SSV+Architects) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
+| 2023-06-20 | [`COEX`](https://google.com/search?q=COEX) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-06-20 | [`SAPROS`](https://google.com/search?q=SAPROS) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2023-06-20 | [`Praxis Energy Agents`](https://google.com/search?q=Praxis+Energy+Agents) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-06-20 | [`www.morsemoving.com`](https://google.com/search?q=www.morsemoving.com) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2023-06-05 | [`BOBSTNT`](https://google.com/search?q=BOBSTNT) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2023-06-05 | [`Robison Engineering`](https://google.com/search?q=Robison+Engineering) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-06-05 | [`D&K Group, Inc`](https://google.com/search?q=D%26K+Group%2C+Inc) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-06-05 | [`Malt Products`](https://google.com/search?q=Malt+Products) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2023-06-05 | [`Beacon ABA Services`](https://google.com/search?q=Beacon+ABA+Services) | [karakurt](https://ransomwatch.telemetry.ltd/#/profiles?id=karakurt) |
-| 2023-06-05 | [`etships.com`](https://google.com/search?q=etships.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
