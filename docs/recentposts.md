@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-06-20 | [`valleyoaks.org`](https://google.com/search?q=valleyoaks.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-06-20 | [`cornu.ch`](https://google.com/search?q=cornu.ch) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-06-20 | [`bbrook.org`](https://google.com/search?q=bbrook.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-06-20 | [`The Akin Law LLC`](https://google.com/search?q=The+Akin+Law+LLC) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-06-20 | [`MAXIMUM PRIME ALIMENTOS EIRELI`](https://google.com/search?q=MAXIMUM+PRIME+ALIMENTOS+EIRELI) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-06-20 | [`Telcoset`](https://google.com/search?q=Telcoset) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2023-06-05 | [`Mount Desert Island Hospital`](https://google.com/search?q=Mount+Desert+Island+Hospital) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
 | 2023-06-05 | [`The Briars Group`](https://google.com/search?q=The+Briars+Group) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
 | 2023-06-05 | [`Avant Grup`](https://google.com/search?q=Avant+Grup) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
-| 2023-06-04 | [`https://ascentia.us`](https://google.com/search?q=https%3A%2F%2Fascentia.us) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
-| 2023-06-04 | [`Nerim`](https://google.com/search?q=Nerim) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
-| 2023-06-04 | [`uhsp.edu`](https://google.com/search?q=uhsp.edu) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
