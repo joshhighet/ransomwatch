@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-06-20 | [`www.morsemoving.com`](https://google.com/search?q=www.morsemoving.com) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2023-06-20 | [`Strait & Lamp Group`](https://google.com/search?q=Strait+%26+Lamp+Group) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-06-20 | [`valleyoaks.org`](https://google.com/search?q=valleyoaks.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-06-20 | [`cornu.ch`](https://google.com/search?q=cornu.ch) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-06-20 | [`bbrook.org`](https://google.com/search?q=bbrook.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-06-05 | [`etships.com`](https://google.com/search?q=etships.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-06-05 | [`ELITechGroup`](https://google.com/search?q=ELITechGroup) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
 | 2023-06-05 | [`Mount Desert Island Hospital`](https://google.com/search?q=Mount+Desert+Island+Hospital) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
-| 2023-06-05 | [`The Briars Group`](https://google.com/search?q=The+Briars+Group) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
-| 2023-06-05 | [`Avant Grup`](https://google.com/search?q=Avant+Grup) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
