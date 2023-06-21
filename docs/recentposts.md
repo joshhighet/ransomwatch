@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-06-21 | [`Medical University of the Americas`](https://google.com/search?q=Medical+University+of+the+Americas) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
 | 2023-06-20 | [`MICA ENVIRONNEMENT`](https://google.com/search?q=MICA+ENVIRONNEMENT) | [mallox](https://ransomwatch.telemetry.ltd/#/profiles?id=mallox) |
 | 2023-06-20 | [`SSV Architects`](https://google.com/search?q=SSV+Architects) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2023-06-20 | [`COEX`](https://google.com/search?q=COEX) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-06-05 | [`Concremat constructions`](https://google.com/search?q=Concremat+constructions) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-06-05 | [`BOBSTNT`](https://google.com/search?q=BOBSTNT) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2023-06-05 | [`Robison Engineering`](https://google.com/search?q=Robison+Engineering) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-06-05 | [`D&K Group, Inc`](https://google.com/search?q=D%26K+Group%2C+Inc) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
