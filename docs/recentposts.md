@@ -4,6 +4,16 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-06-21 | [`Eastside Union School District`](https://google.com/search?q=Eastside+Union+School+District) | [karakurt](https://ransomwatch.telemetry.ltd/#/profiles?id=karakurt) |
+| 2023-06-21 | [`OMNIPOL`](https://google.com/search?q=OMNIPOL) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-06-21 | [`Hi-tec, Batra Group`](https://google.com/search?q=Hi-tec%2C+Batra+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-06-21 | [`Barentz North America`](https://google.com/search?q=Barentz+North+America) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-06-21 | [`PWI Engineering`](https://google.com/search?q=PWI+Engineering) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-06-21 | [`Federation Francaise de Rugby`](https://google.com/search?q=Federation+Francaise+de+Rugby) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-06-21 | [`Luís Simoes`](https://google.com/search?q=Lu%C3%ADs+Simoes) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-06-21 | [`Allpro Consulting Group`](https://google.com/search?q=Allpro+Consulting+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-06-21 | [`Lorclon`](https://google.com/search?q=Lorclon) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-06-21 | [`Wolfs Block Management Limited`](https://google.com/search?q=Wolfs+Block+Management+Limited) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-06-21 | [`deepnoid`](https://google.com/search?q=deepnoid) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
 | 2023-06-21 | [`target-9`](https://google.com/search?q=target-9) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
 | 2023-06-21 | [`BGFIBank Group`](https://google.com/search?q=BGFIBank+Group) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
@@ -194,13 +204,3 @@ _last `200` posts_
 | 2023-06-06 | [`nosm.ca`](https://google.com/search?q=nosm.ca) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-06-06 | [`saragroup.in`](https://google.com/search?q=saragroup.in) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-06-06 | [`bintangindokaryagemilang.co.id`](https://google.com/search?q=bintangindokaryagemilang.co.id) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-06-06 | [`wjtowell.com`](https://google.com/search?q=wjtowell.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-06-06 | [`villemandeure.fr`](https://google.com/search?q=villemandeure.fr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-06-06 | [`tmd.go.th`](https://google.com/search?q=tmd.go.th) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-06-06 | [`stimgroup.it`](https://google.com/search?q=stimgroup.it) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-06-06 | [`jeloin.se`](https://google.com/search?q=jeloin.se) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-06-06 | [`jacquart.fr`](https://google.com/search?q=jacquart.fr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-06-06 | [`iprac.com`](https://google.com/search?q=iprac.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-06-06 | [`icae.net`](https://google.com/search?q=icae.net) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-06-06 | [`crosscity.com.au`](https://google.com/search?q=crosscity.com.au) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-06-06 | [`borwafs.co.za`](https://google.com/search?q=borwafs.co.za) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
