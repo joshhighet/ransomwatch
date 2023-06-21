@@ -4,6 +4,12 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-06-21 | [`Yokohama-oht (atgtir e)`](https://google.com/search?q=Yokohama-oht+%28atgtir+e%29) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
+| 2023-06-21 | [`Habasit`](https://google.com/search?q=Habasit) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
+| 2023-06-21 | [`Café Soluble`](https://google.com/search?q=Caf%C3%A9+Soluble) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
+| 2023-06-21 | [`Peter Mark`](https://google.com/search?q=Peter+Mark) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-06-21 | [`Dancie Perugini Ware Public Relations`](https://google.com/search?q=Dancie+Perugini+Ware+Public+Relations) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-06-21 | [`Summit Hut`](https://google.com/search?q=Summit+Hut) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-06-21 | [`Eastside Union School District`](https://google.com/search?q=Eastside+Union+School+District) | [karakurt](https://ransomwatch.telemetry.ltd/#/profiles?id=karakurt) |
 | 2023-06-21 | [`OMNIPOL`](https://google.com/search?q=OMNIPOL) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-06-21 | [`Hi-tec, Batra Group`](https://google.com/search?q=Hi-tec%2C+Batra+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -198,9 +204,3 @@ _last `200` posts_
 | 2023-06-06 | [`PONDCO`](https://google.com/search?q=PONDCO) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-06-06 | [`Public Health Management Corporation`](https://google.com/search?q=Public+Health+Management+Corporation) | [trigona](https://ransomwatch.telemetry.ltd/#/profiles?id=trigona) |
 | 2023-06-06 | [`fredfeet.com`](https://google.com/search?q=fredfeet.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-06-06 | [`Asakura Robinson`](https://google.com/search?q=Asakura+Robinson) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2023-06-06 | [`WTI - Western Telema tic`](https://google.com/search?q=WTI+-+Western+Telema+tic) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2023-06-06 | [`trois-i.com`](https://google.com/search?q=trois-i.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-06-06 | [`nosm.ca`](https://google.com/search?q=nosm.ca) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-06-06 | [`saragroup.in`](https://google.com/search?q=saragroup.in) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-06-06 | [`bintangindokaryagemilang.co.id`](https://google.com/search?q=bintangindokaryagemilang.co.id) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
