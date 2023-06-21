@@ -4,6 +4,10 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-06-21 | [`CYBERFREIGHT SYSTEMS MARITIMES INC.`](https://google.com/search?q=CYBERFREIGHT+SYSTEMS+MARITIMES+INC.) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2023-06-21 | [`Kansas Joint & Spine Specialists`](https://google.com/search?q=Kansas+Joint+%26+Spine+Specialists) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
+| 2023-06-21 | [`Main Street Title and Settlement Services LLC`](https://google.com/search?q=Main+Street+Title+and+Settlement+Services+LLC) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
+| 2023-06-21 | [`Craig & Associates, LLC`](https://google.com/search?q=Craig+%26+Associates%2C+LLC) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-06-21 | [`Yokohama-oht (atgtir e)`](https://google.com/search?q=Yokohama-oht+%28atgtir+e%29) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-06-21 | [`Habasit`](https://google.com/search?q=Habasit) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-06-21 | [`Café Soluble`](https://google.com/search?q=Caf%C3%A9+Soluble) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
@@ -200,7 +204,3 @@ _last `200` posts_
 | 2023-06-06 | [`payday.com.pa`](https://google.com/search?q=payday.com.pa) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-06-06 | [`mariohernandez.com.co`](https://google.com/search?q=mariohernandez.com.co) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-06-06 | [`dalvikurbyggd.is`](https://google.com/search?q=dalvikurbyggd.is) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-06-06 | [`birdair.com`](https://google.com/search?q=birdair.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-06-06 | [`PONDCO`](https://google.com/search?q=PONDCO) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-06-06 | [`Public Health Management Corporation`](https://google.com/search?q=Public+Health+Management+Corporation) | [trigona](https://ransomwatch.telemetry.ltd/#/profiles?id=trigona) |
-| 2023-06-06 | [`fredfeet.com`](https://google.com/search?q=fredfeet.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
