@@ -4,6 +4,12 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-06-21 | [`deepnoid`](https://google.com/search?q=deepnoid) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
+| 2023-06-21 | [`target-9`](https://google.com/search?q=target-9) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
+| 2023-06-21 | [`BGFIBank Group`](https://google.com/search?q=BGFIBank+Group) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2023-06-21 | [`T***** ***** *********t** *.*.`](https://google.com/search?q=T%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A%2A%2At%2A%2A+%2A.%2A.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2023-06-21 | [`The Sullivan Group of Court Reporters`](https://google.com/search?q=The+Sullivan+Group+of+Court+Reporters) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2023-06-21 | [`EDG`](https://google.com/search?q=EDG) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-06-21 | [`SITARA`](https://google.com/search?q=SITARA) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-06-21 | [`Beverly Hills Plastic Surgery`](https://google.com/search?q=Beverly+Hills+Plastic+Surgery) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-06-21 | [`Medical University of the Americas`](https://google.com/search?q=Medical+University+of+the+Americas) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
@@ -198,9 +204,3 @@ _last `200` posts_
 | 2023-06-06 | [`icae.net`](https://google.com/search?q=icae.net) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-06-06 | [`crosscity.com.au`](https://google.com/search?q=crosscity.com.au) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-06-06 | [`borwafs.co.za`](https://google.com/search?q=borwafs.co.za) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-06-06 | [`Bibliotheek Gouda`](https://google.com/search?q=Bibliotheek+Gouda) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-06-06 | [`Stylish Fabric (stylishfabric.com)`](https://google.com/search?q=Stylish+Fabric+%28stylishfabric.com%29) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-06-05 | [`North West Paving Ltd`](https://google.com/search?q=North+West+Paving+Ltd) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-06-05 | [`adstradata.com`](https://google.com/search?q=adstradata.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-06-05 | [`Farmacias Los Hidalgos `](https://google.com/search?q=Farmacias+Los+Hidalgos+) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
-| 2023-06-05 | [`Concremat constructions`](https://google.com/search?q=Concremat+constructions) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
