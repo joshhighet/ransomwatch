@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-06-22 | [`DBSA hit by ransomwa re attack.`](https://google.com/search?q=DBSA+hit+by+ransomwa+re+attack.) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
+| 2023-06-22 | [`National Institutional Facilitation Technologies (Pvt.) Limited`](https://google.com/search?q=National+Institutional+Facilitation+Technologies+%28Pvt.%29+Limited) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-06-22 | [`GC&E`](https://google.com/search?q=GC%26E) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-06-22 | [`Refractron`](https://google.com/search?q=Refractron) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-06-22 | [`londonandcapital`](https://google.com/search?q=londonandcapital) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-06-07 | [`realcomp.com`](https://google.com/search?q=realcomp.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-06-07 | [`newarka.edu`](https://google.com/search?q=newarka.edu) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-06-06 | [`screenline.co.za`](https://google.com/search?q=screenline.co.za) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-06-06 | [`progen.com.br`](https://google.com/search?q=progen.com.br) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-06-06 | [`pittsburg.k12.ca.us`](https://google.com/search?q=pittsburg.k12.ca.us) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
