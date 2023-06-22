@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-06-22 | [`londonandcapital`](https://google.com/search?q=londonandcapital) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-06-21 | [`Avannubo`](https://google.com/search?q=Avannubo) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2023-06-21 | [`CYBERFREIGHT SYSTEMS MARITIMES INC.`](https://google.com/search?q=CYBERFREIGHT+SYSTEMS+MARITIMES+INC.) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-06-21 | [`Kansas Joint & Spine Specialists`](https://google.com/search?q=Kansas+Joint+%26+Spine+Specialists) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-06-06 | [`pittsburg.k12.ca.us`](https://google.com/search?q=pittsburg.k12.ca.us) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-06-06 | [`pentechsolution.com.my`](https://google.com/search?q=pentechsolution.com.my) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-06-06 | [`payday.com.pa`](https://google.com/search?q=payday.com.pa) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-06-06 | [`mariohernandez.com.co`](https://google.com/search?q=mariohernandez.com.co) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
