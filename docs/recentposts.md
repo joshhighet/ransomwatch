@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-06-23 | [`Galveston College`](https://google.com/search?q=Galveston+College) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
+| 2023-06-23 | [`The Akron-Summit Cou nty Public Library`](https://google.com/search?q=The+Akron-Summit+Cou+nty+Public+Library) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
+| 2023-06-23 | [`Perpetual Group`](https://google.com/search?q=Perpetual+Group) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-06-23 | [`https://www.ultimatepail.com`](https://google.com/search?q=https%3A%2F%2Fwww.ultimatepail.com) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2023-06-22 | [`Hill International`](https://google.com/search?q=Hill+International) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-06-22 | [`medexs.com`](https://google.com/search?q=medexs.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2023-06-07 | [`Harbro`](https://google.com/search?q=Harbro) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-06-07 | [`https://awmga.com/`](https://google.com/search?q=https%3A%2F%2Fawmga.com%2F) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2023-06-07 | [`worldlearning.org`](https://google.com/search?q=worldlearning.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-06-07 | [`newhorizonsmedical.org`](https://google.com/search?q=newhorizonsmedical.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-06-07 | [`aluminumsandcastingsfoundry.com`](https://google.com/search?q=aluminumsandcastingsfoundry.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-06-07 | [`billhurst.com`](https://google.com/search?q=billhurst.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
