@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-06-24 | [`Jacobs Farm`](https://google.com/search?q=Jacobs+Farm) | [ransomexx](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomexx) |
 | 2023-06-24 | [`Tlantic`](https://google.com/search?q=Tlantic) | [mallox](https://ransomwatch.telemetry.ltd/#/profiles?id=mallox) |
 | 2023-06-24 | [`Hausamman company`](https://google.com/search?q=Hausamman+company) | [ransomblog_noname](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomblog_noname) |
 | 2023-06-24 | [`SELL DATA(qtox)`](https://google.com/search?q=SELL+DATA%28qtox%29) | [ransomblog_noname](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomblog_noname) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-06-08 | [`M*** ****`](https://google.com/search?q=M%2A%2A%2A+%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-06-08 | [`https://claritywatertech.com`](https://google.com/search?q=https%3A%2F%2Fclaritywatertech.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2023-06-08 | [`cortinawatch.com`](https://google.com/search?q=cortinawatch.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-06-08 | [`CASEPOINT pt.2`](https://google.com/search?q=CASEPOINT+pt.2) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
