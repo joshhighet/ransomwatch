@@ -4,6 +4,12 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-06-26 | [`www.cjhire.co.uk`](https://google.com/search?q=www.cjhire.co.uk) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
+| 2023-06-26 | [`www.pfcfulfills.com`](https://google.com/search?q=www.pfcfulfills.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
+| 2023-06-26 | [`www.creditteam.eu`](https://google.com/search?q=www.creditteam.eu) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
+| 2023-06-26 | [`JOB-SA BETON J.O.B SA`](https://google.com/search?q=JOB-SA+BETON+J.O.B+SA) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2023-06-26 | [`CLEAR MEDI HEALTHCARE`](https://google.com/search?q=CLEAR+MEDI+HEALTHCARE) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2023-06-26 | [`Lysander Shipping`](https://google.com/search?q=Lysander+Shipping) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-06-26 | [`LEGALILAVORO`](https://google.com/search?q=LEGALILAVORO) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-06-26 | [`PNEUMAX`](https://google.com/search?q=PNEUMAX) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-06-25 | [`Farmacias Los Hidalgos`](https://google.com/search?q=Farmacias+Los+Hidalgos) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
@@ -198,9 +204,3 @@ _last `200` posts_
 | 2023-06-09 | [`wsisd.net`](https://google.com/search?q=wsisd.net) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-06-09 | [`gruppomercurio.com`](https://google.com/search?q=gruppomercurio.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-06-09 | [`ACI Advanced Chemica l Industries`](https://google.com/search?q=ACI+Advanced+Chemica+l+Industries) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2023-06-09 | [`Ellis Patents`](https://google.com/search?q=Ellis+Patents) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2023-06-09 | [`Columbus Regional Healthcare System (US)`](https://google.com/search?q=Columbus+Regional+Healthcare+System+%28US%29) | [daixin](https://ransomwatch.telemetry.ltd/#/profiles?id=daixin) |
-| 2023-06-09 | [`The Adams County Com munication Center or ADCOM911`](https://google.com/search?q=The+Adams+County+Com+munication+Center+or+ADCOM911) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2023-06-09 | [`http://www.penncrest.org`](https://google.com/search?q=http%3A%2F%2Fwww.penncrest.org) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
-| 2023-06-09 | [`Kramer Enterprises`](https://google.com/search?q=Kramer+Enterprises) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
-| 2023-06-08 | [`A******* ***** ******`](https://google.com/search?q=A%2A%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
