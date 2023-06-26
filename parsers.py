@@ -1088,3 +1088,14 @@ def rhysida():
         errlog('rhysida: ' + 'parsing fail')
     for post in posts:
         appender(post, 'rhysida')
+        
+def noescape():
+    stdlog('parser: ' + 'noescape')
+    parser = '''
+    grep -oe "target=\\"_blank\\">[^<]*" source/noescape*wzttad.html | cut -d'>' -f2
+    '''
+    posts = runshellcmd(parser)
+    if len(posts) == 1:
+        errlog('noescape: ' + 'parsing fail')
+    for post in posts:
+        appender(post, 'noescape')

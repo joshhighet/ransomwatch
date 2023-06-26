@@ -4489,7 +4489,7 @@
     {
         "name": "noescape",
         "captcha": false,
-        "parser": false,
+        "parser": true,
         "javascript_render": true,
         "meta": null,
         "locations": [
