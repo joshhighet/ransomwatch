@@ -7,6 +7,10 @@ _last `200` posts_
 | 2023-06-26 | [`www.cjhire.co.uk`](https://google.com/search?q=www.cjhire.co.uk) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-06-26 | [`www.pfcfulfills.com`](https://google.com/search?q=www.pfcfulfills.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-06-26 | [`www.creditteam.eu`](https://google.com/search?q=www.creditteam.eu) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
+| 2023-06-26 | [`Fassi Gru S.p.A.`](https://google.com/search?q=Fassi+Gru+S.p.A.) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
+| 2023-06-26 | [`London Capital Group (LCG)`](https://google.com/search?q=London+Capital+Group+%28LCG%29) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
+| 2023-06-26 | [`Reeds Spring School District`](https://google.com/search?q=Reeds+Spring+School+District) | [karakurt](https://ransomwatch.telemetry.ltd/#/profiles?id=karakurt) |
+| 2023-06-26 | [`Looking for new partners`](https://google.com/search?q=Looking+for+new+partners) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2023-06-26 | [`a`](https://google.com/search?q=a) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-06-26 | [`JOB-SA BETON J.O.B SA`](https://google.com/search?q=JOB-SA+BETON+J.O.B+SA) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-06-26 | [`CLEAR MEDI HEALTHCARE`](https://google.com/search?q=CLEAR+MEDI+HEALTHCARE) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
@@ -200,7 +204,3 @@ _last `200` posts_
 | 2023-06-10 | [`FIIG`](https://google.com/search?q=FIIG) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-06-10 | [`Coca-Cola FEMSA`](https://google.com/search?q=Coca-Cola+FEMSA) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-06-09 | [`Silicon Valley Mechanical`](https://google.com/search?q=Silicon+Valley+Mechanical) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-06-09 | [`TAG Aviation`](https://google.com/search?q=TAG+Aviation) | [unsafeleak](https://ransomwatch.telemetry.ltd/#/profiles?id=unsafeleak) |
-| 2023-06-09 | [`Caruso`](https://google.com/search?q=Caruso) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2023-06-09 | [`wsisd.net`](https://google.com/search?q=wsisd.net) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-06-09 | [`gruppomercurio.com`](https://google.com/search?q=gruppomercurio.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
