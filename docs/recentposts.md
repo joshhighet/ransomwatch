@@ -7,6 +7,8 @@ _last `200` posts_
 | 2023-06-26 | [`www.cjhire.co.uk`](https://google.com/search?q=www.cjhire.co.uk) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-06-26 | [`www.pfcfulfills.com`](https://google.com/search?q=www.pfcfulfills.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-06-26 | [`www.creditteam.eu`](https://google.com/search?q=www.creditteam.eu) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
+| 2023-06-26 | [`Knights of Old Group`](https://google.com/search?q=Knights+of+Old+Group) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
+| 2023-06-26 | [`Chariton Valley`](https://google.com/search?q=Chariton+Valley) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-06-26 | [`Fassi Gru S.p.A.`](https://google.com/search?q=Fassi+Gru+S.p.A.) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2023-06-26 | [`London Capital Group (LCG)`](https://google.com/search?q=London+Capital+Group+%28LCG%29) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-06-26 | [`Reeds Spring School District`](https://google.com/search?q=Reeds+Spring+School+District) | [karakurt](https://ransomwatch.telemetry.ltd/#/profiles?id=karakurt) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-06-11 | [`GAE Construction`](https://google.com/search?q=GAE+Construction) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-06-11 | [`Comisión Nacional de Valores`](https://google.com/search?q=Comisi%C3%B3n+Nacional+de+Valores) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-06-10 | [`FIIG`](https://google.com/search?q=FIIG) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-06-10 | [`Coca-Cola FEMSA`](https://google.com/search?q=Coca-Cola+FEMSA) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-06-09 | [`Silicon Valley Mechanical`](https://google.com/search?q=Silicon+Valley+Mechanical) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
