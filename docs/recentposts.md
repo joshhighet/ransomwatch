@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-06-26 | [`LEGALILAVORO`](https://google.com/search?q=LEGALILAVORO) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2023-06-26 | [`PNEUMAX`](https://google.com/search?q=PNEUMAX) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-06-25 | [`Farmacias Los Hidalgos`](https://google.com/search?q=Farmacias+Los+Hidalgos) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-06-25 | [`Real Estate Systems Integrator`](https://google.com/search?q=Real+Estate+Systems+Integrator) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-06-25 | [`Universitas Matthiae Belii association`](https://google.com/search?q=Universitas+Matthiae+Belii+association) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-06-09 | [`http://www.penncrest.org`](https://google.com/search?q=http%3A%2F%2Fwww.penncrest.org) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
 | 2023-06-09 | [`Kramer Enterprises`](https://google.com/search?q=Kramer+Enterprises) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-06-08 | [`A******* ***** ******`](https://google.com/search?q=A%2A%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2023-06-08 | [`*** ******** ***** ** **u** *e********`](https://google.com/search?q=%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A+%2A%2A+%2A%2Au%2A%2A+%2Ae%2A%2A%2A%2A%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2023-06-08 | [`Aeliusmd Medical Systems`](https://google.com/search?q=Aeliusmd+Medical+Systems) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
