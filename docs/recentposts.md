@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-06-27 | [`COMPASS INFRASTRUCTURE GROUP`](https://google.com/search?q=COMPASS+INFRASTRUCTURE+GROUP) | [mallox](https://ransomwatch.telemetry.ltd/#/profiles?id=mallox) |
 | 2023-06-27 | [`Hochschule Kaiserslautern`](https://google.com/search?q=Hochschule+Kaiserslautern) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2023-06-26 | [`Greenfiber`](https://google.com/search?q=Greenfiber) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-06-26 | [`www.cjhire.co.uk`](https://google.com/search?q=www.cjhire.co.uk) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-06-11 | [`http://www.tachi-s.com`](https://google.com/search?q=http%3A%2F%2Fwww.tachi-s.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
 | 2023-06-11 | [`RJP MEDICAL LTDA`](https://google.com/search?q=RJP+MEDICAL+LTDA) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-06-11 | [`Ampla Divisórias`](https://google.com/search?q=Ampla+Divis%C3%B3rias) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-06-11 | [`GAE Construction`](https://google.com/search?q=GAE+Construction) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
