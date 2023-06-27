@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-06-27 | [`Hochschule Kaiserslautern`](https://google.com/search?q=Hochschule+Kaiserslautern) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2023-06-26 | [`Greenfiber`](https://google.com/search?q=Greenfiber) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-06-26 | [`www.cjhire.co.uk`](https://google.com/search?q=www.cjhire.co.uk) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-06-26 | [`www.pfcfulfills.com`](https://google.com/search?q=www.pfcfulfills.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-06-11 | [`RJP MEDICAL LTDA`](https://google.com/search?q=RJP+MEDICAL+LTDA) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-06-11 | [`Ampla Divisórias`](https://google.com/search?q=Ampla+Divis%C3%B3rias) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-06-11 | [`GAE Construction`](https://google.com/search?q=GAE+Construction) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
-| 2023-06-11 | [`Comisión Nacional de Valores`](https://google.com/search?q=Comisi%C3%B3n+Nacional+de+Valores) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
