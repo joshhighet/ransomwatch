@@ -4,6 +4,14 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-06-28 | [`JBCC Corp`](https://google.com/search?q=JBCC+Corp) | [mallox](https://ransomwatch.telemetry.ltd/#/profiles?id=mallox) |
+| 2023-06-28 | [`Arab Shipbuilding and Repair Yard`](https://google.com/search?q=Arab+Shipbuilding+and+Repair+Yard) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2023-06-28 | [`Misr Life Insurance`](https://google.com/search?q=Misr+Life+Insurance) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2023-06-28 | [`N** ********* **********`](https://google.com/search?q=N%2A%2A+%2A%2A%2A%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2023-06-28 | [`Piramal Group`](https://google.com/search?q=Piramal+Group) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2023-06-28 | [`www.graphtecinc.com`](https://google.com/search?q=www.graphtecinc.com) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2023-06-28 | [`https://modernind.com`](https://google.com/search?q=https%3A%2F%2Fmodernind.com) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2023-06-28 | [`https://www.giambelli.it`](https://google.com/search?q=https%3A%2F%2Fwww.giambelli.it) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2023-06-28 | [`Texas Heat Treating`](https://google.com/search?q=Texas+Heat+Treating) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-06-28 | [`Intoximeters`](https://google.com/search?q=Intoximeters) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-06-28 | [`Algotech`](https://google.com/search?q=Algotech) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -196,11 +204,3 @@ _last `200` posts_
 | 2023-06-12 | [`www.hillaerosystems.com`](https://google.com/search?q=www.hillaerosystems.com) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2023-06-12 | [`www.regallogistics.com`](https://google.com/search?q=www.regallogistics.com) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2023-06-12 | [`Amaszonas S.A.`](https://google.com/search?q=Amaszonas+S.A.) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
-| 2023-06-12 | [`https://marjam.com/`](https://google.com/search?q=https%3A%2F%2Fmarjam.com%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
-| 2023-06-12 | [`Transprensa`](https://google.com/search?q=Transprensa) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-06-12 | [`Krack Zapaterías`](https://google.com/search?q=Krack+Zapater%C3%ADas) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-06-12 | [`Ueno Periodontics`](https://google.com/search?q=Ueno+Periodontics) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-06-11 | [`CEMAF PARTICIPACOES E ADMINISTRACAO DE BENS LTDA`](https://google.com/search?q=CEMAF+PARTICIPACOES+E+ADMINISTRACAO+DE+BENS+LTDA) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-06-11 | [`Defesa da Classe Trabalhadora (Declatra)`](https://google.com/search?q=Defesa+da+Classe+Trabalhadora+%28Declatra%29) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-06-11 | [`LUZBOA S.A`](https://google.com/search?q=LUZBOA+S.A) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-06-11 | [`TECHCERT`](https://google.com/search?q=TECHCERT) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
