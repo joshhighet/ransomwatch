@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-06-28 | [`ibafrance.fr`](https://google.com/search?q=ibafrance.fr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-06-28 | [`CentroMed`](https://google.com/search?q=CentroMed) | [karakurt](https://ransomwatch.telemetry.ltd/#/profiles?id=karakurt) |
 | 2023-06-28 | [`Wilcom`](https://google.com/search?q=Wilcom) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-06-28 | [`Stoughton Trailers`](https://google.com/search?q=Stoughton+Trailers) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-06-13 | [`rammutual.com`](https://google.com/search?q=rammutual.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-06-13 | [`gslelectric.com`](https://google.com/search?q=gslelectric.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-06-13 | [`eriematerials.com`](https://google.com/search?q=eriematerials.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-06-13 | [`Sonangol`](https://google.com/search?q=Sonangol) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
