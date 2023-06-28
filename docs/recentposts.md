@@ -4,6 +4,10 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-06-28 | [`PORTERROOFING`](https://google.com/search?q=PORTERROOFING) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2023-06-28 | [`CON-STRUCT`](https://google.com/search?q=CON-STRUCT) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2023-06-28 | [`thaire`](https://google.com/search?q=thaire) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
+| 2023-06-28 | [`Coachella Valley Collection Service`](https://google.com/search?q=Coachella+Valley+Collection+Service) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-06-28 | [`JBCC Corp`](https://google.com/search?q=JBCC+Corp) | [mallox](https://ransomwatch.telemetry.ltd/#/profiles?id=mallox) |
 | 2023-06-28 | [`Arab Shipbuilding and Repair Yard`](https://google.com/search?q=Arab+Shipbuilding+and+Repair+Yard) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-06-28 | [`Misr Life Insurance`](https://google.com/search?q=Misr+Life+Insurance) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
@@ -200,7 +204,3 @@ _last `200` posts_
 | 2023-06-12 | [`Automatic Systems - is a company with extremely low security of its network and products w`](https://google.com/search?q=Automatic+Systems+-+is+a+company+with+extremely+low+security+of+its+network+and+products+w) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-06-12 | [`pneusbeaucerons.com`](https://google.com/search?q=pneusbeaucerons.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-06-12 | [`ai-thermal.com`](https://google.com/search?q=ai-thermal.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-06-12 | [`Global Remote Services`](https://google.com/search?q=Global+Remote+Services) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
-| 2023-06-12 | [`www.hillaerosystems.com`](https://google.com/search?q=www.hillaerosystems.com) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2023-06-12 | [`www.regallogistics.com`](https://google.com/search?q=www.regallogistics.com) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2023-06-12 | [`Amaszonas S.A.`](https://google.com/search?q=Amaszonas+S.A.) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
