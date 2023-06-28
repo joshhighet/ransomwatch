@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-06-28 | [`Wilcom`](https://google.com/search?q=Wilcom) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
+| 2023-06-28 | [`Stoughton Trailers`](https://google.com/search?q=Stoughton+Trailers) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
+| 2023-06-28 | [`Pan Pacific Hotels Group`](https://google.com/search?q=Pan+Pacific+Hotels+Group) | [karakurt](https://ransomwatch.telemetry.ltd/#/profiles?id=karakurt) |
 | 2023-06-28 | [`PORTERROOFING`](https://google.com/search?q=PORTERROOFING) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-06-28 | [`CON-STRUCT`](https://google.com/search?q=CON-STRUCT) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-06-28 | [`thaire`](https://google.com/search?q=thaire) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2023-06-13 | [`eriematerials.com`](https://google.com/search?q=eriematerials.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-06-13 | [`Sonangol`](https://google.com/search?q=Sonangol) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-06-13 | [`t-s-c.eu`](https://google.com/search?q=t-s-c.eu) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-06-12 | [`Automatic Systems - is a company with extremely low security of its network and products w`](https://google.com/search?q=Automatic+Systems+-+is+a+company+with+extremely+low+security+of+its+network+and+products+w) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-06-12 | [`pneusbeaucerons.com`](https://google.com/search?q=pneusbeaucerons.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-06-12 | [`ai-thermal.com`](https://google.com/search?q=ai-thermal.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
