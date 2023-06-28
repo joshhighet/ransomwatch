@@ -4,6 +4,10 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-06-28 | [`Texas Heat Treating`](https://google.com/search?q=Texas+Heat+Treating) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-06-28 | [`Intoximeters`](https://google.com/search?q=Intoximeters) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-06-28 | [`Algotech`](https://google.com/search?q=Algotech) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-06-28 | [`Cambridge Group of Clubs`](https://google.com/search?q=Cambridge+Group+of+Clubs) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-06-27 | [`iMatica`](https://google.com/search?q=iMatica) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2023-06-27 | [`ITW Food Equipment Group`](https://google.com/search?q=ITW+Food+Equipment+Group) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-06-27 | [`COMPASS INFRASTRUCTURE GROUP`](https://google.com/search?q=COMPASS+INFRASTRUCTURE+GROUP) | [mallox](https://ransomwatch.telemetry.ltd/#/profiles?id=mallox) |
@@ -200,7 +204,3 @@ _last `200` posts_
 | 2023-06-11 | [`Defesa da Classe Trabalhadora (Declatra)`](https://google.com/search?q=Defesa+da+Classe+Trabalhadora+%28Declatra%29) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-06-11 | [`LUZBOA S.A`](https://google.com/search?q=LUZBOA+S.A) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-06-11 | [`TECHCERT`](https://google.com/search?q=TECHCERT) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-06-11 | [`PREMIER HOSPITAL DIA`](https://google.com/search?q=PREMIER+HOSPITAL+DIA) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-06-11 | [`CLONARTE`](https://google.com/search?q=CLONARTE) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-06-11 | [`SINTTEL`](https://google.com/search?q=SINTTEL) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-06-11 | [`http://www.tachi-s.com`](https://google.com/search?q=http%3A%2F%2Fwww.tachi-s.com) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
