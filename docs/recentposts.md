@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-06-29 | [`LCG company (URGENT! )`](https://google.com/search?q=LCG+company+%28URGENT%21+%29) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
+| 2023-06-29 | [`Nycon`](https://google.com/search?q=Nycon) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-06-29 | [`Hospitality Staffing Solutions`](https://google.com/search?q=Hospitality+Staffing+Solutions) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-06-28 | [`Alberta Newsprint`](https://google.com/search?q=Alberta+Newsprint) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2023-06-28 | [`ISPE Connecting Pharmaceutical Knowledge`](https://google.com/search?q=ISPE+Connecting+Pharmaceutical+Knowledge) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-06-13 | [`Bogleboo`](https://google.com/search?q=Bogleboo) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2023-06-13 | [`Fullerton India`](https://google.com/search?q=Fullerton+India) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
 | 2023-06-13 | [`Jeff Wyler Automotive Family, Inc.`](https://google.com/search?q=Jeff+Wyler+Automotive+Family%2C+Inc.) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-06-13 | [`K********* ******* ***`](https://google.com/search?q=K%2A%2A%2A%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A+%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2023-06-13 | [`*i**r** *e***l****`](https://google.com/search?q=%2Ai%2A%2Ar%2A%2A+%2Ae%2A%2A%2Al%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
