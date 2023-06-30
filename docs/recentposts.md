@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-06-30 | [`barts health nhs trust`](https://google.com/search?q=barts+health+nhs+trust) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-06-29 | [`tsmc.com`](https://google.com/search?q=tsmc.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-06-29 | [`amepl.com.au`](https://google.com/search?q=amepl.com.au) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-06-29 | [`Enfield Grammar School`](https://google.com/search?q=Enfield+Grammar+School) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-06-14 | [`TF AMD Microelectronics`](https://google.com/search?q=TF+AMD+Microelectronics) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
 | 2023-06-14 | [`Tetrosyl Group`](https://google.com/search?q=Tetrosyl+Group) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
 | 2023-06-14 | [`James Briggs Limited`](https://google.com/search?q=James+Briggs+Limited) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
-| 2023-06-14 | [`Bunker Hill Community College`](https://google.com/search?q=Bunker+Hill+Community+College) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
