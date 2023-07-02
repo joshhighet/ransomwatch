@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-07-02 | [`blowtherm.it`](https://google.com/search?q=blowtherm.it) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-07-02 | [`Ucamco Belgium`](https://google.com/search?q=Ucamco+Belgium) | [ransomblog_noname](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomblog_noname) |
 | 2023-07-01 | [`Ashley HomeStore`](https://google.com/search?q=Ashley+HomeStore) | [mallox](https://ransomwatch.telemetry.ltd/#/profiles?id=mallox) |
 | 2023-07-01 | [`DVA - DVision Architecture`](https://google.com/search?q=DVA+-+DVision+Architecture) | [ransomexx](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomexx) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-06-14 | [`New Horizons Medical`](https://google.com/search?q=New+Horizons+Medical) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-06-14 | [`granules.com`](https://google.com/search?q=granules.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-06-14 | [`http://venturelogistics.com`](https://google.com/search?q=http%3A%2F%2Fventurelogistics.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
-| 2023-06-14 | [`primeretailservices.com`](https://google.com/search?q=primeretailservices.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
