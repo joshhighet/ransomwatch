@@ -4,7 +4,7 @@
         <title>Qilin blog</title>
     <link rel="icon" type="image/x-icon" href="/images/favicon.ico">
     <meta name="csrf-param" content="_csrf-blog">
-<meta name="csrf-token" content="A09WveyU9fVXyUiK9Qd8oAJnsf9jWb3jTdhUKkCOoG1hf2fv3OC_jxuxCbizSU7GNRP9qDEL2Yc5u2xELdfDFQ==">
+<meta name="csrf-token" content="EkiccKbaCz31fv25pO7LP7pWw_mOrVPPOAUThxtegXxxAa1FkrtTRIEbnOaRqKZLihe7o-zdHqEVcGPjUTzeCw==">
 
 <link href="/assets/c8efe592/css/bootstrap.css" rel="stylesheet">
 <link href="/css/site.css" rel="stylesheet">
@@ -13,23 +13,24 @@
 <body>
 <div class="bg3"></div>
 
-<header>
-    <div class="container">
-        <div class="d-flex justify-content-between align-items-center">
-            <div class="header_logo">
-                <img src="/images/logo2.png" class="header_logo--image">
+<div class="container-wrapper">
+    <header>
+        <div class="container">
+            <div class="d-flex justify-content-between align-items-center">
+                <div class="header_logo">
+                    <img src="/images/logo2.png" class="header_logo--image">
+                </div>
+
+                                    <div class="">
+                        <a href="#" data-toggle="modal" data-target="#login_modal" class="btn btn-lg btn-login">Log In</a>
+                    </div>
+                
+
             </div>
 
-                            <div class="">
-                    <a href="#" data-toggle="modal" data-target="#login_modal" class="btn btn-lg btn-login">Log In</a>
-                </div>
-            
-
         </div>
-
-    </div>
-</header>
-<div class="container">
+    </header>
+    <div class="container">
         <div class="row justify-content-sm-center">
     <div class="col-lg-8">
         <div class="d-flex justify-content-end">
@@ -1218,17 +1219,9 @@ Client's data             ...        </div>
     </div>
 
 </div>
-    <div class="footer">
-        <div class="row justify-content-center align-items-center">
-            <div class="col-lg-8">
-                <hr>
-                <p>jabber: QilinPublic@exploit.im</p>
-            </div>
-        </div>
     </div>
-</div>
 
-
+    
 <div id="registration_modal" class="fade modal" role="dialog" tabindex="-1" aria-hidden="true" aria-labelledby="registration_modal-label">
 <div class="modal-dialog modal-dialog-centered modal-md" role="document">
 <div class="modal-content">
@@ -1239,7 +1232,7 @@ Client's data             ...        </div>
 <div class="modal-body">
 
 <form id="reg-form" action="/site/signup" method="post">
-<input type="hidden" name="_csrf-blog" value="A09WveyU9fVXyUiK9Qd8oAJnsf9jWb3jTdhUKkCOoG1hf2fv3OC_jxuxCbizSU7GNRP9qDEL2Yc5u2xELdfDFQ==">    <div class="row">
+<input type="hidden" name="_csrf-blog" value="EkiccKbaCz31fv25pO7LP7pWw_mOrVPPOAUThxtegXxxAa1FkrtTRIEbnOaRqKZLihe7o-zdHqEVcGPjUTzeCw==">    <div class="row">
         <div class="col-sm-6">
             <div class="form-group field-signupform-login required">
 <label for="signupform-login">Login</label>
@@ -1273,7 +1266,7 @@ Client's data             ...        </div>
         <div class="col-12">
             <div class="form-group clearfix field-signupform-verifycode">
 <label for="signupform-verifycode">Verify Code</label>
-<img id="signupform-verifycode-image" src="/site/captcha?v=64a1507db9e0e6.54368895" alt=""> <input type="text" id="signupform-verifycode" class="form-control" name="SignupForm[verifyCode]">
+<img id="signupform-verifycode-image" src="/site/captcha?v=64a16ccc97b9d6.35437264" alt=""> <input type="text" id="signupform-verifycode" class="form-control" name="SignupForm[verifyCode]">
 
 <div class="invalid-feedback"></div>
 </div>        </div>
@@ -1295,7 +1288,7 @@ Client's data             ...        </div>
 
 </div>
 </div>
-</div>
+</div>    
 <div id="login_modal" class="fade modal" role="dialog" tabindex="-1" aria-hidden="true" aria-labelledby="login_modal-label">
 <div class="modal-dialog modal-dialog-centered modal-md" role="document">
 <div class="modal-content">
@@ -1306,7 +1299,7 @@ Client's data             ...        </div>
 <div class="modal-body">
 
 <form id="login-form" action="/site/signup" method="post">
-<input type="hidden" name="_csrf-blog" value="A09WveyU9fVXyUiK9Qd8oAJnsf9jWb3jTdhUKkCOoG1hf2fv3OC_jxuxCbizSU7GNRP9qDEL2Yc5u2xELdfDFQ==">    <div class="row">
+<input type="hidden" name="_csrf-blog" value="EkiccKbaCz31fv25pO7LP7pWw_mOrVPPOAUThxtegXxxAa1FkrtTRIEbnOaRqKZLihe7o-zdHqEVcGPjUTzeCw==">    <div class="row">
         <div class="col-sm-12">
             <div class="form-group field-loginform-login required">
 <label for="loginform-login">Login</label>
@@ -1343,7 +1336,16 @@ Client's data             ...        </div>
 
 </div>
 </div>
-</div><script src="/assets/8f747d97/jquery.js"></script>
+</div></div>
+<div class="footer">
+    <div class="row justify-content-center align-items-center">
+        <div class="col-8">
+            <hr>
+            <p>jabber: QilinPublic@exploit.im</p>
+        </div>
+    </div>
+</div>
+<script src="/assets/8f747d97/jquery.js"></script>
 <script src="/assets/47e0fb2a/yii.js"></script>
 <script src="/js/fancybox.umd.js"></script>
 <script src="/js/my.js"></script>
@@ -1353,7 +1355,7 @@ Client's data             ...        </div>
 <script src="/assets/c8efe592/js/bootstrap.bundle.js"></script>
 <script>jQuery(function ($) {
 jQuery('#signupform-verifycode-image').yiiCaptcha({"refreshUrl":"\/site\/captcha?refresh=1","hashKey":"yiiCaptcha\/site\/captcha"});
-jQuery('#reg-form').yiiActiveForm([{"id":"signupform-login","name":"login","container":".field-signupform-login","input":"#signupform-login","error":".invalid-feedback","validate":function (attribute, value, messages, deferred, $form) {value = yii.validation.trim($form, attribute, {"skipOnArray":true,"skipOnEmpty":false,"chars":false}, value);yii.validation.required(value, messages, {"message":"Login cannot be blank."});yii.validation.string(value, messages, {"message":"Login must be a string.","min":6,"tooShort":"Login should contain at least 6 characters.","max":254,"tooLong":"Login should contain at most 254 characters.","skipOnEmpty":1});}},{"id":"signupform-username","name":"username","container":".field-signupform-username","input":"#signupform-username","error":".invalid-feedback","validate":function (attribute, value, messages, deferred, $form) {value = yii.validation.trim($form, attribute, {"skipOnArray":true,"skipOnEmpty":false,"chars":false}, value);yii.validation.required(value, messages, {"message":"Username cannot be blank."});yii.validation.string(value, messages, {"message":"Username must be a string.","min":6,"tooShort":"Username should contain at least 6 characters.","max":254,"tooLong":"Username should contain at most 254 characters.","skipOnEmpty":1});}},{"id":"signupform-password","name":"password","container":".field-signupform-password","input":"#signupform-password","error":".invalid-feedback","validate":function (attribute, value, messages, deferred, $form) {value = yii.validation.trim($form, attribute, {"skipOnArray":true,"skipOnEmpty":false,"chars":false}, value);yii.validation.required(value, messages, {"message":"Password cannot be blank."});yii.validation.string(value, messages, {"message":"Password must be a string.","min":6,"tooShort":"Password should contain at least 6 characters.","max":254,"tooLong":"Password should contain at most 254 characters.","skipOnEmpty":1});}},{"id":"signupform-confirm_password","name":"confirm_password","container":".field-signupform-confirm_password","input":"#signupform-confirm_password","error":".invalid-feedback","validate":function (attribute, value, messages, deferred, $form) {value = yii.validation.trim($form, attribute, {"skipOnArray":true,"skipOnEmpty":false,"chars":false}, value);yii.validation.required(value, messages, {"message":"Confirm Password cannot be blank."});yii.validation.compare(value, messages, {"operator":"==","type":"string","compareAttribute":"signupform-password","compareAttributeName":"SignupForm[password]","skipOnEmpty":1,"message":"Confirm Password must be equal to \u0022Password\u0022."}, $form);}},{"id":"signupform-verifycode","name":"verifyCode","container":".field-signupform-verifycode","input":"#signupform-verifycode","error":".invalid-feedback","validate":function (attribute, value, messages, deferred, $form) {yii.validation.captcha(value, messages, {"hash":75020,"hashKey":"yiiCaptcha\/site\/captcha","caseSensitive":false,"message":"The verification code is incorrect."});}}], {"errorSummary":".alert.alert-danger","errorCssClass":"is-invalid","successCssClass":"is-valid","validationStateOn":"input"});
+jQuery('#reg-form').yiiActiveForm([{"id":"signupform-login","name":"login","container":".field-signupform-login","input":"#signupform-login","error":".invalid-feedback","validate":function (attribute, value, messages, deferred, $form) {value = yii.validation.trim($form, attribute, {"skipOnArray":true,"skipOnEmpty":false,"chars":false}, value);yii.validation.required(value, messages, {"message":"Login cannot be blank."});yii.validation.string(value, messages, {"message":"Login must be a string.","min":6,"tooShort":"Login should contain at least 6 characters.","max":254,"tooLong":"Login should contain at most 254 characters.","skipOnEmpty":1});}},{"id":"signupform-username","name":"username","container":".field-signupform-username","input":"#signupform-username","error":".invalid-feedback","validate":function (attribute, value, messages, deferred, $form) {value = yii.validation.trim($form, attribute, {"skipOnArray":true,"skipOnEmpty":false,"chars":false}, value);yii.validation.required(value, messages, {"message":"Username cannot be blank."});yii.validation.string(value, messages, {"message":"Username must be a string.","min":6,"tooShort":"Username should contain at least 6 characters.","max":254,"tooLong":"Username should contain at most 254 characters.","skipOnEmpty":1});}},{"id":"signupform-password","name":"password","container":".field-signupform-password","input":"#signupform-password","error":".invalid-feedback","validate":function (attribute, value, messages, deferred, $form) {value = yii.validation.trim($form, attribute, {"skipOnArray":true,"skipOnEmpty":false,"chars":false}, value);yii.validation.required(value, messages, {"message":"Password cannot be blank."});yii.validation.string(value, messages, {"message":"Password must be a string.","min":6,"tooShort":"Password should contain at least 6 characters.","max":254,"tooLong":"Password should contain at most 254 characters.","skipOnEmpty":1});}},{"id":"signupform-confirm_password","name":"confirm_password","container":".field-signupform-confirm_password","input":"#signupform-confirm_password","error":".invalid-feedback","validate":function (attribute, value, messages, deferred, $form) {value = yii.validation.trim($form, attribute, {"skipOnArray":true,"skipOnEmpty":false,"chars":false}, value);yii.validation.required(value, messages, {"message":"Confirm Password cannot be blank."});yii.validation.compare(value, messages, {"operator":"==","type":"string","compareAttribute":"signupform-password","compareAttributeName":"SignupForm[password]","skipOnEmpty":1,"message":"Confirm Password must be equal to \u0022Password\u0022."}, $form);}},{"id":"signupform-verifycode","name":"verifyCode","container":".field-signupform-verifycode","input":"#signupform-verifycode","error":".invalid-feedback","validate":function (attribute, value, messages, deferred, $form) {yii.validation.captcha(value, messages, {"hash":193635,"hashKey":"yiiCaptcha\/site\/captcha","caseSensitive":false,"message":"The verification code is incorrect."});}}], {"errorSummary":".alert.alert-danger","errorCssClass":"is-invalid","successCssClass":"is-valid","validationStateOn":"input"});
 jQuery('#registration_modal').modal({"show":false});
     $(document).ready(function (){
         $('body').on('click', '.js-registration',function (e){
