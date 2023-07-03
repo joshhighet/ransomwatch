@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-07-03 | [`Jefferson County Health Center`](https://google.com/search?q=Jefferson+County+Health+Center) | [karakurt](https://ransomwatch.telemetry.ltd/#/profiles?id=karakurt) |
+| 2023-07-03 | [`**** I******** *********`](https://google.com/search?q=%2A%2A%2A%2A+I%2A%2A%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-07-03 | [`snjb.net`](https://google.com/search?q=snjb.net) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-07-03 | [`oneexchangecorp.com`](https://google.com/search?q=oneexchangecorp.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-07-03 | [`Townsquare Media Inc`](https://google.com/search?q=Townsquare+Media+Inc) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-06-14 | [`NEBRASKALAND`](https://google.com/search?q=NEBRASKALAND) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
 | 2023-06-14 | [`The Texwipe`](https://google.com/search?q=The+Texwipe) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
 | 2023-06-14 | [`YAMAHA CORPORATION OF AMERICA`](https://google.com/search?q=YAMAHA+CORPORATION+OF+AMERICA) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
-| 2023-06-14 | [`Air Comfort (aircomfort.ac)`](https://google.com/search?q=Air+Comfort+%28aircomfort.ac%29) | [rancoz](https://ransomwatch.telemetry.ltd/#/profiles?id=rancoz) |
-| 2023-06-14 | [`https://www.iecm.co.th`](https://google.com/search?q=https%3A%2F%2Fwww.iecm.co.th) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
