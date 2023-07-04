@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-07-04 | [`Hoosier Equipment company`](https://google.com/search?q=Hoosier+Equipment+company) | [ransomblog_noname](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomblog_noname) |
 | 2023-07-04 | [`Tour Partner Group`](https://google.com/search?q=Tour+Partner+Group) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-07-04 | [`Yunus Emre Institute Turkey`](https://google.com/search?q=Yunus+Emre+Institute+Turkey) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-07-04 | [`Polanglo`](https://google.com/search?q=Polanglo) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-06-15 | [`Salem Community Schools`](https://google.com/search?q=Salem+Community+Schools) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-06-15 | [`ste-usa.com`](https://google.com/search?q=ste-usa.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-06-15 | [`flybtr.com`](https://google.com/search?q=flybtr.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-06-15 | [`Law Society of South Africa`](https://google.com/search?q=Law+Society+of+South+Africa) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
