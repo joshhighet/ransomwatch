@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-07-05 | [`Portugal Scotturb Data Leaked`](https://google.com/search?q=Portugal+Scotturb+Data+Leaked) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
 | 2023-07-05 | [`Murphy`](https://google.com/search?q=Murphy) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-07-05 | [`guestgroup.com.au`](https://google.com/search?q=guestgroup.com.au) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-07-05 | [`recamlaser.com`](https://google.com/search?q=recamlaser.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-06-15 | [`Studio Legale Ranchino`](https://google.com/search?q=Studio+Legale+Ranchino) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-06-15 | [`San Luis Obispo County Office of Education`](https://google.com/search?q=San+Luis+Obispo+County+Office+of+Education) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-06-15 | [`Law Offices of Sergio J. Siderman`](https://google.com/search?q=Law+Offices+of+Sergio+J.+Siderman) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-06-15 | [`https://asz-gmbh.de`](https://google.com/search?q=https%3A%2F%2Fasz-gmbh.de) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
