@@ -4,6 +4,12 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-07-06 | [`NST Attorneys at Law`](https://google.com/search?q=NST+Attorneys+at+Law) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-07-06 | [`Uniquify`](https://google.com/search?q=Uniquify) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-07-06 | [`Geneva Software`](https://google.com/search?q=Geneva+Software) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-07-06 | [`MUJI Europe Holdings Limited`](https://google.com/search?q=MUJI+Europe+Holdings+Limited) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-07-06 | [`Betty Lous`](https://google.com/search?q=Betty+Lous) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-07-06 | [`Capacity LLC`](https://google.com/search?q=Capacity+LLC) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-07-06 | [`Wesco Equipment`](https://google.com/search?q=Wesco+Equipment) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-07-06 | [`Safety Network`](https://google.com/search?q=Safety+Network) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-07-06 | [`Carvin Software`](https://google.com/search?q=Carvin+Software) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
@@ -198,9 +204,3 @@ _last `200` posts_
 | 2023-06-17 | [`hep global GmbH`](https://google.com/search?q=hep+global+GmbH) | [darkrace](https://ransomwatch.telemetry.ltd/#/profiles?id=darkrace) |
 | 2023-06-17 | [`rzepeckimroczkowski`](https://google.com/search?q=rzepeckimroczkowski) | [darkrace](https://ransomwatch.telemetry.ltd/#/profiles?id=darkrace) |
 | 2023-06-17 | [`PICPLUS.COM`](https://google.com/search?q=PICPLUS.COM) | [darkrace](https://ransomwatch.telemetry.ltd/#/profiles?id=darkrace) |
-| 2023-06-17 | [`vaud-promotion`](https://google.com/search?q=vaud-promotion) | [darkrace](https://ransomwatch.telemetry.ltd/#/profiles?id=darkrace) |
-| 2023-06-17 | [`marstrand.se`](https://google.com/search?q=marstrand.se) | [darkrace](https://ransomwatch.telemetry.ltd/#/profiles?id=darkrace) |
-| 2023-06-17 | [`target-8`](https://google.com/search?q=target-8) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
-| 2023-06-16 | [`cangas.gal`](https://google.com/search?q=cangas.gal) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-06-16 | [`Kisco Senior Living`](https://google.com/search?q=Kisco+Senior+Living) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
-| 2023-06-16 | [`Multistack`](https://google.com/search?q=Multistack) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
