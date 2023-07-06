@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-07-06 | [`KIRWIN FRYDAY MEDCALF Lawyers LLP`](https://google.com/search?q=KIRWIN+FRYDAY+MEDCALF+Lawyers+LLP) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2023-07-06 | [`https://asicamericas.com/`](https://google.com/search?q=https%3A%2F%2Fasicamericas.com%2F) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2023-07-05 | [`http://zootampa.org`](https://google.com/search?q=http%3A%2F%2Fzootampa.org) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2023-07-05 | [`Avalign Technologies`](https://google.com/search?q=Avalign+Technologies) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
 | 2023-07-05 | [`Portugal Scotturb Data Leaked`](https://google.com/search?q=Portugal+Scotturb+Data+Leaked) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-06-15 | [`DANIEL C. HARRIS, O.D`](https://google.com/search?q=DANIEL+C.+HARRIS%2C+O.D) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-06-15 | [`Hornbill`](https://google.com/search?q=Hornbill) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-06-15 | [`Stone Fox Ventures`](https://google.com/search?q=Stone+Fox+Ventures) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-06-15 | [`Ligas Gerais Industria E Comercio`](https://google.com/search?q=Ligas+Gerais+Industria+E+Comercio) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-06-15 | [`Studio Legale Ranchino`](https://google.com/search?q=Studio+Legale+Ranchino) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
