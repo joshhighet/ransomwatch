@@ -4,6 +4,11 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-07-06 | [`siegfried.com.mx`](https://google.com/search?q=siegfried.com.mx) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-07-06 | [`gacegypt.net`](https://google.com/search?q=gacegypt.net) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-07-06 | [`cls-group.com`](https://google.com/search?q=cls-group.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-07-06 | [`chasc.org`](https://google.com/search?q=chasc.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-07-06 | [`betalandservices.com`](https://google.com/search?q=betalandservices.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-07-06 | [`Pinnergy`](https://google.com/search?q=Pinnergy) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-07-06 | [`Bangladesh Krishi Bank`](https://google.com/search?q=Bangladesh+Krishi+Bank) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-07-06 | [`KIRWIN FRYDAY MEDCALF Lawyers LLP`](https://google.com/search?q=KIRWIN+FRYDAY+MEDCALF+Lawyers+LLP) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
@@ -199,8 +204,3 @@ _last `200` posts_
 | 2023-06-15 | [`Badan Operasi Bersama Pt Bumi Siak Pusako Pertamina Hulu`](https://google.com/search?q=Badan+Operasi+Bersama+Pt+Bumi+Siak+Pusako+Pertamina+Hulu) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-06-15 | [`emtelco.com.co`](https://google.com/search?q=emtelco.com.co) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2023-06-15 | [`https://fsmsolicitors.co.uk/`](https://google.com/search?q=https%3A%2F%2Ffsmsolicitors.co.uk%2F) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
-| 2023-06-15 | [`https://www.attentzorgenbehandeling.nl/`](https://google.com/search?q=https%3A%2F%2Fwww.attentzorgenbehandeling.nl%2F) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
-| 2023-06-15 | [`https://www.sippex.com`](https://google.com/search?q=https%3A%2F%2Fwww.sippex.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
-| 2023-06-15 | [`asz-gmbh.de`](https://google.com/search?q=asz-gmbh.de) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
-| 2023-06-15 | [`https://delbonohotels.com`](https://google.com/search?q=https%3A%2F%2Fdelbonohotels.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
-| 2023-06-15 | [`DANIEL C. HARRIS, O.D`](https://google.com/search?q=DANIEL+C.+HARRIS%2C+O.D) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
