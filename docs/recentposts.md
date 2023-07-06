@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-07-06 | [`Carvin Software`](https://google.com/search?q=Carvin+Software) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2023-07-06 | [`Ella Insurance Brokerage`](https://google.com/search?q=Ella+Insurance+Brokerage) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2023-07-06 | [`A** **************`](https://google.com/search?q=A%2A%2A+%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-07-06 | [`siegfried.com.mx`](https://google.com/search?q=siegfried.com.mx) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-07-06 | [`gacegypt.net`](https://google.com/search?q=gacegypt.net) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-07-06 | [`cls-group.com`](https://google.com/search?q=cls-group.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2023-06-16 | [`Multistack`](https://google.com/search?q=Multistack) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
 | 2023-06-15 | [`Roberto Verino Difusion`](https://google.com/search?q=Roberto+Verino+Difusion) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2023-06-15 | [`Prada Gayoso`](https://google.com/search?q=Prada+Gayoso) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
-| 2023-06-15 | [`Badan Operasi Bersama Pt Bumi Siak Pusako Pertamina Hulu`](https://google.com/search?q=Badan+Operasi+Bersama+Pt+Bumi+Siak+Pusako+Pertamina+Hulu) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-06-15 | [`emtelco.com.co`](https://google.com/search?q=emtelco.com.co) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
-| 2023-06-15 | [`https://fsmsolicitors.co.uk/`](https://google.com/search?q=https%3A%2F%2Ffsmsolicitors.co.uk%2F) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
