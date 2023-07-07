@@ -4,6 +4,10 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-07-07 | [`Lazer Tow`](https://google.com/search?q=Lazer+Tow) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-07-07 | [`Star Island Resort`](https://google.com/search?q=Star+Island+Resort) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-07-07 | [`Indiana Dimension`](https://google.com/search?q=Indiana+Dimension) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-07-07 | [`Lawer SpA`](https://google.com/search?q=Lawer+SpA) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-07-06 | [`NST Attorneys at Law`](https://google.com/search?q=NST+Attorneys+at+Law) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-07-06 | [`Uniquify`](https://google.com/search?q=Uniquify) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-07-06 | [`Geneva Software`](https://google.com/search?q=Geneva+Software) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -200,7 +204,3 @@ _last `200` posts_
 | 2023-06-17 | [`ERT`](https://google.com/search?q=ERT) | [darkrace](https://ransomwatch.telemetry.ltd/#/profiles?id=darkrace) |
 | 2023-06-17 | [`CONATECO`](https://google.com/search?q=CONATECO) | [darkrace](https://ransomwatch.telemetry.ltd/#/profiles?id=darkrace) |
 | 2023-06-17 | [`PESSI`](https://google.com/search?q=PESSI) | [darkrace](https://ransomwatch.telemetry.ltd/#/profiles?id=darkrace) |
-| 2023-06-17 | [`PLURISERVICE`](https://google.com/search?q=PLURISERVICE) | [darkrace](https://ransomwatch.telemetry.ltd/#/profiles?id=darkrace) |
-| 2023-06-17 | [`hep global GmbH`](https://google.com/search?q=hep+global+GmbH) | [darkrace](https://ransomwatch.telemetry.ltd/#/profiles?id=darkrace) |
-| 2023-06-17 | [`rzepeckimroczkowski`](https://google.com/search?q=rzepeckimroczkowski) | [darkrace](https://ransomwatch.telemetry.ltd/#/profiles?id=darkrace) |
-| 2023-06-17 | [`PICPLUS.COM`](https://google.com/search?q=PICPLUS.COM) | [darkrace](https://ransomwatch.telemetry.ltd/#/profiles?id=darkrace) |
