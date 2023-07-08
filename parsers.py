@@ -1099,3 +1099,14 @@ def noescape():
         errlog('noescape: ' + 'parsing fail')
     for post in posts:
         appender(post, 'noescape')
+
+def cyclops():
+    stdlog('parser: ' + 'cyclops')
+    parser = '''
+    grep '<h2 class="mb-1"' source/cyclops-*.html | cut -d '>' -f2 | cut -d '<' -f1
+    '''
+    posts = runshellcmd(parser)
+    if len(posts) == 1:
+        errlog('cyclops: ' + 'parsing fail')
+    for post in posts:
+        appender(post, 'cyclops')
