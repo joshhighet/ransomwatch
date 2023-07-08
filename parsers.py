@@ -1091,8 +1091,9 @@ def rhysida():
         
 def noescape():
     stdlog('parser: ' + 'noescape')
+    # grep -oe "target=\\"_blank\\">[^<]*" source/noescape*wzttad.html | cut -d'>' -f2
     parser = '''
-    grep -oe "target=\\"_blank\\">[^<]*" source/noescape*wzttad.html | cut -d'>' -f2
+    grep -o '<a[^>]*title="[^"]*"[^>]*>' source/noescape-*wzttad.html | sed -e 's/<a[^>]*title="//' -e 's/".*//' | awk -F'"' '{print $1}' | awk -F'"' '!/Twitter/{print $1}'
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
