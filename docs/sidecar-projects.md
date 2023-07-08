@@ -6,11 +6,12 @@
 ## aggregators
 - [vxunderground/ThreatIntelligenceDiscordBot](https://github.com/vxunderground/ThreatIntelligenceDiscordBot) _an aggregated CTI bot used with Discord, monitoring a number of mediums and blogs, ransomwatch data included_
 - [jjsantanna/aggregator:](https://github.com/jjsantanna/aggregator_crawlers_lists_ransomware_groups_leaksites)_a Jupyter Notebook which merges and collates various ransomwatch-style platforms into a single view_
+- [uforia/MatterBot](https://github.com/uforia/MatterBot) _a bot framework to aggregate intelligence feeds within Mattermost_
 
 ## citations
 
 - [ENISA - Threat Landscape for Ransomware Attacks 2022](https://www.enisa.europa.eu/publications/enisa-threat-landscape-for-ransomware-attacks)
-
+- [BCSC - A deep dive on Cl0p](https://www.zibersegurtasun.eus/sites/default/files/2023-03/BCSC-Malware-Clop_V1-TLPClear_0.pdf)
 ## blogs & resources
 
 - [th3protocol.com:](https://www.th3protocol.com/2022/ChatGPT-LeakSite-Analysis) _using ChatGPT to visualize ransomware leak site data_
