@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-07-08 | [`ewewwe`](https://google.com/search?q=ewewwe) | [mallox](https://ransomwatch.telemetry.ltd/#/profiles?id=mallox) |
 | 2023-07-07 | [`Industrial Heat Transfer (iht-inc.com)`](https://google.com/search?q=Industrial+Heat+Transfer+%28iht-inc.com%29) | [rancoz](https://ransomwatch.telemetry.ltd/#/profiles?id=rancoz) |
 | 2023-07-07 | [`Lane Valente Industries`](https://google.com/search?q=Lane+Valente+Industries) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-07-07 | [`New Century Advisors, LLC`](https://google.com/search?q=New+Century+Advisors%2C+LLC) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-06-17 | [`Amstutz Produkte`](https://google.com/search?q=Amstutz+Produkte) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2023-06-17 | [`The Thomas Hardye School`](https://google.com/search?q=The+Thomas+Hardye+School) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2023-06-17 | [`Collectivite Territoriale de Martinique`](https://google.com/search?q=Collectivite+Territoriale+de+Martinique) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2023-06-17 | [`Ejercito de Chile`](https://google.com/search?q=Ejercito+de+Chile) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
