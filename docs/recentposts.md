@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-07-09 | [`Garuda Indonesia`](https://google.com/search?q=Garuda+Indonesia) | [mallox](https://ransomwatch.telemetry.ltd/#/profiles?id=mallox) |
+| 2023-07-09 | [`roys.co.uk`](https://google.com/search?q=roys.co.uk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-07-09 | [`Bunn`](https://google.com/search?q=Bunn) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-07-09 | [`Evergreen Seamless Pipes and Tubes`](https://google.com/search?q=Evergreen+Seamless+Pipes+and+Tubes) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-07-09 | [`M****** *****`](https://google.com/search?q=M%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-06-19 | [`TARLE LAW, P.C.`](https://google.com/search?q=TARLE+LAW%2C+P.C.) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-06-19 | [`tilg.at`](https://google.com/search?q=tilg.at) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-06-19 | [`PrintGlobe, Inc.`](https://google.com/search?q=PrintGlobe%2C+Inc.) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-06-19 | [`BLUESAGE`](https://google.com/search?q=BLUESAGE) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-06-19 | [`printmarksolution.com`](https://google.com/search?q=printmarksolution.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
