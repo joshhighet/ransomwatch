@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-07-09 | [`Cabra Consulting Ltd`](https://google.com/search?q=Cabra+Consulting+Ltd) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-07-09 | [`Guatemala Military Intelligence Directorate`](https://google.com/search?q=Guatemala+Military+Intelligence+Directorate) | [cyclops](https://ransomwatch.telemetry.ltd/#/profiles?id=cyclops) |
 | 2023-07-09 | [`ALTARGRUP`](https://google.com/search?q=ALTARGRUP) | [cyclops](https://ransomwatch.telemetry.ltd/#/profiles?id=cyclops) |
 | 2023-07-09 | [`Atherfield Medical Service`](https://google.com/search?q=Atherfield+Medical+Service) | [cyclops](https://ransomwatch.telemetry.ltd/#/profiles?id=cyclops) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-06-19 | [`Ascendum Machinery`](https://google.com/search?q=Ascendum+Machinery) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-06-19 | [`FHR Electric`](https://google.com/search?q=FHR+Electric) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-06-19 | [`Northeastern State University`](https://google.com/search?q=Northeastern+State+University) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2023-06-19 | [`Futura Agronegócios`](https://google.com/search?q=Futura+Agroneg%C3%B3cios) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
