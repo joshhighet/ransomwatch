@@ -4,6 +4,20 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-07-09 | [`Guatemala Military Intelligence Directorate`](https://google.com/search?q=Guatemala+Military+Intelligence+Directorate) | [cyclops](https://ransomwatch.telemetry.ltd/#/profiles?id=cyclops) |
+| 2023-07-09 | [`ALTARGRUP`](https://google.com/search?q=ALTARGRUP) | [cyclops](https://ransomwatch.telemetry.ltd/#/profiles?id=cyclops) |
+| 2023-07-09 | [`Atherfield Medical Service`](https://google.com/search?q=Atherfield+Medical+Service) | [cyclops](https://ransomwatch.telemetry.ltd/#/profiles?id=cyclops) |
+| 2023-07-09 | [`www.doesburg-comp.nl`](https://google.com/search?q=www.doesburg-comp.nl) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
+| 2023-07-09 | [`www.castec.com`](https://google.com/search?q=www.castec.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
+| 2023-07-09 | [`www.chrn.be`](https://google.com/search?q=www.chrn.be) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
+| 2023-07-09 | [`JANUS Research Group`](https://google.com/search?q=JANUS+Research+Group) | [donutleaks](https://ransomwatch.telemetry.ltd/#/profiles?id=donutleaks) |
+| 2023-07-09 | [`Garden Hotel NARITA`](https://google.com/search?q=Garden+Hotel+NARITA) | [donutleaks](https://ransomwatch.telemetry.ltd/#/profiles?id=donutleaks) |
+| 2023-07-09 | [`Montgomery General Hospital`](https://google.com/search?q=Montgomery+General+Hospital) | [donutleaks](https://ransomwatch.telemetry.ltd/#/profiles?id=donutleaks) |
+| 2023-07-09 | [`Nabtesco Motion Control`](https://google.com/search?q=Nabtesco+Motion+Control) | [donutleaks](https://ransomwatch.telemetry.ltd/#/profiles?id=donutleaks) |
+| 2023-07-09 | [`UnitedLex.com`](https://google.com/search?q=UnitedLex.com) | [donutleaks](https://ransomwatch.telemetry.ltd/#/profiles?id=donutleaks) |
+| 2023-07-09 | [`The Travel Network Group`](https://google.com/search?q=The+Travel+Network+Group) | [donutleaks](https://ransomwatch.telemetry.ltd/#/profiles?id=donutleaks) |
+| 2023-07-09 | [`Jacklyn Dawson Solicitors`](https://google.com/search?q=Jacklyn+Dawson+Solicitors) | [donutleaks](https://ransomwatch.telemetry.ltd/#/profiles?id=donutleaks) |
+| 2023-07-09 | [`Peroni Pompe`](https://google.com/search?q=Peroni+Pompe) | [donutleaks](https://ransomwatch.telemetry.ltd/#/profiles?id=donutleaks) |
 | 2023-07-08 | [`Tracker de Colombia SAS`](https://google.com/search?q=Tracker+de+Colombia+SAS) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-07-08 | [`ewewwe`](https://google.com/search?q=ewewwe) | [mallox](https://ransomwatch.telemetry.ltd/#/profiles?id=mallox) |
 | 2023-07-07 | [`Industrial Heat Transfer (iht-inc.com)`](https://google.com/search?q=Industrial+Heat+Transfer+%28iht-inc.com%29) | [rancoz](https://ransomwatch.telemetry.ltd/#/profiles?id=rancoz) |
@@ -190,17 +204,3 @@ _last `200` posts_
 | 2023-06-19 | [`FHR Electric`](https://google.com/search?q=FHR+Electric) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-06-19 | [`Northeastern State University`](https://google.com/search?q=Northeastern+State+University) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2023-06-19 | [`Futura Agronegócios`](https://google.com/search?q=Futura+Agroneg%C3%B3cios) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-06-19 | [`LOONGSON`](https://google.com/search?q=LOONGSON) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-06-19 | [`PORTBLUE`](https://google.com/search?q=PORTBLUE) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-06-18 | [`EDER`](https://google.com/search?q=EDER) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2023-06-18 | [`Bangkok Industrial Gas Co., Ltd. (BIG)`](https://google.com/search?q=Bangkok+Industrial+Gas+Co.%2C+Ltd.+%28BIG%29) | [mallox](https://ransomwatch.telemetry.ltd/#/profiles?id=mallox) |
-| 2023-06-18 | [`The Dufresne Group - DSG - ASHLEY HOMESTORES`](https://google.com/search?q=The+Dufresne+Group+-+DSG+-+ASHLEY+HOMESTORES) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-06-18 | [`Tyconz`](https://google.com/search?q=Tyconz) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2023-06-17 | [`tdm.com.pe`](https://google.com/search?q=tdm.com.pe) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-06-17 | [`The Reddit Files`](https://google.com/search?q=The+Reddit+Files) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-06-17 | [`Creative Liquid Coatings`](https://google.com/search?q=Creative+Liquid+Coatings) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-06-17 | [`Bauer Built`](https://google.com/search?q=Bauer+Built) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-06-17 | [`Ziegelwerk Eder`](https://google.com/search?q=Ziegelwerk+Eder) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2023-06-17 | [`Haemokinesis`](https://google.com/search?q=Haemokinesis) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2023-06-17 | [`Amstutz Produkte`](https://google.com/search?q=Amstutz+Produkte) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2023-06-17 | [`The Thomas Hardye School`](https://google.com/search?q=The+Thomas+Hardye+School) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
