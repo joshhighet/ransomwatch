@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-07-10 | [`leeindustries.com`](https://google.com/search?q=leeindustries.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-07-10 | [`BM GROUP POLYTEC S.p.A.`](https://google.com/search?q=BM+GROUP+POLYTEC+S.p.A.) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2023-07-09 | [`Garuda Indonesia`](https://google.com/search?q=Garuda+Indonesia) | [mallox](https://ransomwatch.telemetry.ltd/#/profiles?id=mallox) |
 | 2023-07-09 | [`roys.co.uk`](https://google.com/search?q=roys.co.uk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-06-19 | [`Onsupport Corporation`](https://google.com/search?q=Onsupport+Corporation) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-06-19 | [`Texas Hotel and Lodging Association`](https://google.com/search?q=Texas+Hotel+and+Lodging+Association) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-06-19 | [`TARLE LAW, P.C.`](https://google.com/search?q=TARLE+LAW%2C+P.C.) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-06-19 | [`tilg.at`](https://google.com/search?q=tilg.at) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
