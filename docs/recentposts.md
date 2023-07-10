@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-07-10 | [`Hamre Schumann Muell er & Larson HSML`](https://google.com/search?q=Hamre+Schumann+Muell+er+%26+Larson+HSML) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-07-10 | [`Green Diamond`](https://google.com/search?q=Green+Diamond) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-07-10 | [`Belize Electricity Limited - Leaked`](https://google.com/search?q=Belize+Electricity+Limited+-+Leaked) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
 | 2023-07-10 | [`Paris High School`](https://google.com/search?q=Paris+High+School) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-06-20 | [`bbrook.org`](https://google.com/search?q=bbrook.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-06-20 | [`The Akin Law LLC`](https://google.com/search?q=The+Akin+Law+LLC) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-06-20 | [`MAXIMUM PRIME ALIMENTOS EIRELI`](https://google.com/search?q=MAXIMUM+PRIME+ALIMENTOS+EIRELI) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-06-20 | [`Telcoset`](https://google.com/search?q=Telcoset) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
