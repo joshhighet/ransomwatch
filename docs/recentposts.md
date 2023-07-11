@@ -4,6 +4,14 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-07-11 | [`Pesquera Diamante S.A.`](https://google.com/search?q=Pesquera+Diamante+S.A.) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2023-07-11 | [`Weitkamp · Hirsch and Kollegen Steuerberatungsgesellschaft mbH`](https://google.com/search?q=Weitkamp+%C2%B7+Hirsch+and+Kollegen+Steuerberatungsgesellschaft+mbH) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2023-07-11 | [`Kansas medical center LLC`](https://google.com/search?q=Kansas+medical+center+LLC) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2023-07-11 | [`Danbury Public Schools`](https://google.com/search?q=Danbury+Public+Schools) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2023-07-11 | [`Advanced Fiberglass Industries`](https://google.com/search?q=Advanced+Fiberglass+Industries) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2023-07-11 | [`Citelis Mobility`](https://google.com/search?q=Citelis+Mobility) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2023-07-11 | [`Motor Components, LLC`](https://google.com/search?q=Motor+Components%2C+LLC) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2023-07-11 | [`gis4.addison-il`](https://google.com/search?q=gis4.addison-il) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
 | 2023-07-10 | [`Customer Elation - Business Information`](https://google.com/search?q=Customer+Elation+-+Business+Information) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2023-07-10 | [`Hamre Schumann Muell er & Larson HSML`](https://google.com/search?q=Hamre+Schumann+Muell+er+%26+Larson+HSML) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-07-10 | [`Green Diamond`](https://google.com/search?q=Green+Diamond) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
@@ -196,11 +204,3 @@ _last `200` posts_
 | 2023-06-20 | [`MICA ENVIRONNEMENT`](https://google.com/search?q=MICA+ENVIRONNEMENT) | [mallox](https://ransomwatch.telemetry.ltd/#/profiles?id=mallox) |
 | 2023-06-20 | [`SSV Architects`](https://google.com/search?q=SSV+Architects) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2023-06-20 | [`COEX`](https://google.com/search?q=COEX) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-06-20 | [`SAPROS`](https://google.com/search?q=SAPROS) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2023-06-20 | [`Praxis Energy Agents`](https://google.com/search?q=Praxis+Energy+Agents) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
-| 2023-06-20 | [`www.morsemoving.com`](https://google.com/search?q=www.morsemoving.com) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2023-06-20 | [`Strait & Lamp Group`](https://google.com/search?q=Strait+%26+Lamp+Group) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-06-20 | [`valleyoaks.org`](https://google.com/search?q=valleyoaks.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-06-20 | [`cornu.ch`](https://google.com/search?q=cornu.ch) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-06-20 | [`bbrook.org`](https://google.com/search?q=bbrook.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-06-20 | [`The Akin Law LLC`](https://google.com/search?q=The+Akin+Law+LLC) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
