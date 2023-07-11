@@ -4,7 +4,7 @@
         <title>Qilin blog</title>
     <link rel="icon" type="image/x-icon" href="/images/favicon.ico">
     <meta name="csrf-param" content="_csrf-blog">
-<meta name="csrf-token" content="O52m2G-5u7tuJaBaRKtxXkCUxOy9gYAeFGUOX6przPJd5_W1C9Di9jR8lncg4BoQJdGAh_C1ym5HU2QOnT2Yvw==">
+<meta name="csrf-token" content="QVqXDbxL40pTJ0HgOfCsBQ9mgrLlRi2Wzld03tl1poc7Lu8_3hGiJzhzJ4xsveRiQl_x4IZxZuWvDRG5txbL8g==">
 
 <link href="/assets/c8efe592/css/bootstrap.css" rel="stylesheet">
 <link href="/css/site.css" rel="stylesheet">
@@ -13,6 +13,122 @@
 <body>
 <div class="bg3"></div>
 
+
+<div id="registration_modal" class="fade modal" role="dialog" tabindex="-1" aria-hidden="true" aria-labelledby="registration_modal-label">
+<div class="modal-dialog modal-dialog-centered modal-md" role="document">
+<div class="modal-content">
+<div class="modal-header">
+<h5 id="registration_modal-label" class="modal-title">Registration</h5>
+<button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">×</span></button>
+</div>
+<div class="modal-body">
+
+<form id="reg-form" action="/site/signup" method="post">
+<input type="hidden" name="_csrf-blog" value="QVqXDbxL40pTJ0HgOfCsBQ9mgrLlRi2Wzld03tl1poc7Lu8_3hGiJzhzJ4xsveRiQl_x4IZxZuWvDRG5txbL8g==">    <div class="row">
+        <div class="col-sm-6">
+            <div class="form-group field-signupform-login required">
+<label for="signupform-login">Login</label>
+<input type="text" id="signupform-login" class="form-control" name="SignupForm[login]" aria-required="true">
+
+<div class="invalid-feedback"></div>
+</div>        </div>
+        <div class="col-sm-6">
+            <div class="form-group field-signupform-username required">
+<label for="signupform-username">Username</label>
+<input type="text" id="signupform-username" class="form-control" name="SignupForm[username]" aria-required="true">
+
+<div class="invalid-feedback"></div>
+</div>        </div>
+    </div>
+    <div class="row">
+        <div class="col-sm-6">
+            <div class="form-group field-signupform-password required">
+<label for="signupform-password">Password</label>
+<input type="password" id="signupform-password" class="form-control" name="SignupForm[password]" aria-required="true">
+
+<div class="invalid-feedback"></div>
+</div>        </div>
+        <div class="col-sm-6">
+            <div class="form-group field-signupform-confirm_password required">
+<label for="signupform-confirm_password">Confirm Password</label>
+<input type="password" id="signupform-confirm_password" class="form-control" name="SignupForm[confirm_password]" aria-required="true">
+
+<div class="invalid-feedback"></div>
+</div>        </div>
+        <div class="col-12">
+            <div class="form-group clearfix field-signupform-verifycode">
+<label for="signupform-verifycode">Verify Code</label>
+<img id="signupform-verifycode-image" src="/site/captcha?v=64ad66c838e8e4.65724492" alt=""> <input type="text" id="signupform-verifycode" class="form-control" name="SignupForm[verifyCode]">
+
+<div class="invalid-feedback"></div>
+</div>        </div>
+        <div class="col-12">
+            <div class="form-group d-flex align-items-center justify-content-between">
+                <div>
+                    <input type="hidden" name="reg-button" value="y">
+                    <button type="submit" class="btn btn-danger js-registration" style="width:200px;">Sign up</button>                </div>
+                <div>
+                    <a href="#" class="item_box-info__link" data-dismiss="modal" data-toggle="modal" data-target="#login_modal">Login</a>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+</form>
+</div>
+
+</div>
+</div>
+</div>
+<div id="login_modal" class="fade modal" role="dialog" tabindex="-1" aria-hidden="true" aria-labelledby="login_modal-label">
+<div class="modal-dialog modal-dialog-centered modal-md" role="document">
+<div class="modal-content">
+<div class="modal-header">
+<h5 id="login_modal-label" class="modal-title">Login</h5>
+<button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">×</span></button>
+</div>
+<div class="modal-body">
+
+<form id="login-form" action="/site/signup" method="post">
+<input type="hidden" name="_csrf-blog" value="QVqXDbxL40pTJ0HgOfCsBQ9mgrLlRi2Wzld03tl1poc7Lu8_3hGiJzhzJ4xsveRiQl_x4IZxZuWvDRG5txbL8g==">    <div class="row">
+        <div class="col-sm-12">
+            <div class="form-group field-loginform-login required">
+<label for="loginform-login">Login</label>
+<input type="text" id="loginform-login" class="form-control" name="LoginForm[login]" aria-required="true">
+
+<div class="invalid-feedback"></div>
+</div>        </div>
+        <div class="col-sm-12">
+            <div class="form-group field-loginform-password required">
+<label for="loginform-password">Password</label>
+<input type="password" id="loginform-password" class="form-control" name="LoginForm[password]" aria-required="true">
+
+<div class="invalid-feedback"></div>
+</div>        </div>
+    </div>
+    <div class="row">
+        <div class="col-12">
+            <div class="form-group d-flex justify-content-between align-items-center">
+                <div class="text-right">
+
+                    <input type="hidden" name="reg-button" value="y">
+                    <button type="submit" class="btn btn-danger js-login" style="width:200px;">Login</button>                </div>
+                <div>
+                    <a href="#" class="item_box-info__link" data-dismiss="modal" data-toggle="modal" data-target="#registration_modal">Sign up</a>
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+
+</form>
+</div>
+
+</div>
+</div>
+</div>
 <div class="container-wrapper">
     <header>
         <div class="container">
@@ -1177,123 +1293,7 @@ Let's add some data taken from them. So that people understand who they are work
 
 </div>
     </div>
-
-    
-<div id="registration_modal" class="fade modal" role="dialog" tabindex="-1" aria-hidden="true" aria-labelledby="registration_modal-label">
-<div class="modal-dialog modal-dialog-centered modal-md" role="document">
-<div class="modal-content">
-<div class="modal-header">
-<h5 id="registration_modal-label" class="modal-title">Registration</h5>
-<button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">×</span></button>
 </div>
-<div class="modal-body">
-
-<form id="reg-form" action="/site/signup" method="post">
-<input type="hidden" name="_csrf-blog" value="O52m2G-5u7tuJaBaRKtxXkCUxOy9gYAeFGUOX6przPJd5_W1C9Di9jR8lncg4BoQJdGAh_C1ym5HU2QOnT2Yvw==">    <div class="row">
-        <div class="col-sm-6">
-            <div class="form-group field-signupform-login required">
-<label for="signupform-login">Login</label>
-<input type="text" id="signupform-login" class="form-control" name="SignupForm[login]" aria-required="true">
-
-<div class="invalid-feedback"></div>
-</div>        </div>
-        <div class="col-sm-6">
-            <div class="form-group field-signupform-username required">
-<label for="signupform-username">Username</label>
-<input type="text" id="signupform-username" class="form-control" name="SignupForm[username]" aria-required="true">
-
-<div class="invalid-feedback"></div>
-</div>        </div>
-    </div>
-    <div class="row">
-        <div class="col-sm-6">
-            <div class="form-group field-signupform-password required">
-<label for="signupform-password">Password</label>
-<input type="password" id="signupform-password" class="form-control" name="SignupForm[password]" aria-required="true">
-
-<div class="invalid-feedback"></div>
-</div>        </div>
-        <div class="col-sm-6">
-            <div class="form-group field-signupform-confirm_password required">
-<label for="signupform-confirm_password">Confirm Password</label>
-<input type="password" id="signupform-confirm_password" class="form-control" name="SignupForm[confirm_password]" aria-required="true">
-
-<div class="invalid-feedback"></div>
-</div>        </div>
-        <div class="col-12">
-            <div class="form-group clearfix field-signupform-verifycode">
-<label for="signupform-verifycode">Verify Code</label>
-<img id="signupform-verifycode-image" src="/site/captcha?v=64ad4be0a20394.19692282" alt=""> <input type="text" id="signupform-verifycode" class="form-control" name="SignupForm[verifyCode]">
-
-<div class="invalid-feedback"></div>
-</div>        </div>
-        <div class="col-12">
-            <div class="form-group d-flex align-items-center justify-content-between">
-                <div>
-                    <input type="hidden" name="reg-button" value="y">
-                    <button type="submit" class="btn btn-danger js-registration" style="width:200px;">Sign up</button>                </div>
-                <div>
-                    <a href="#" class="item_box-info__link" data-dismiss="modal" data-toggle="modal" data-target="#login_modal">Login</a>
-                </div>
-            </div>
-
-        </div>
-    </div>
-
-</form>
-</div>
-
-</div>
-</div>
-</div>    
-<div id="login_modal" class="fade modal" role="dialog" tabindex="-1" aria-hidden="true" aria-labelledby="login_modal-label">
-<div class="modal-dialog modal-dialog-centered modal-md" role="document">
-<div class="modal-content">
-<div class="modal-header">
-<h5 id="login_modal-label" class="modal-title">Login</h5>
-<button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">×</span></button>
-</div>
-<div class="modal-body">
-
-<form id="login-form" action="/site/signup" method="post">
-<input type="hidden" name="_csrf-blog" value="O52m2G-5u7tuJaBaRKtxXkCUxOy9gYAeFGUOX6przPJd5_W1C9Di9jR8lncg4BoQJdGAh_C1ym5HU2QOnT2Yvw==">    <div class="row">
-        <div class="col-sm-12">
-            <div class="form-group field-loginform-login required">
-<label for="loginform-login">Login</label>
-<input type="text" id="loginform-login" class="form-control" name="LoginForm[login]" aria-required="true">
-
-<div class="invalid-feedback"></div>
-</div>        </div>
-        <div class="col-sm-12">
-            <div class="form-group field-loginform-password required">
-<label for="loginform-password">Password</label>
-<input type="password" id="loginform-password" class="form-control" name="LoginForm[password]" aria-required="true">
-
-<div class="invalid-feedback"></div>
-</div>        </div>
-    </div>
-    <div class="row">
-        <div class="col-12">
-            <div class="form-group d-flex justify-content-between align-items-center">
-                <div class="text-right">
-
-                    <input type="hidden" name="reg-button" value="y">
-                    <button type="submit" class="btn btn-danger js-login" style="width:200px;">Login</button>                </div>
-                <div>
-                    <a href="#" class="item_box-info__link" data-dismiss="modal" data-toggle="modal" data-target="#registration_modal">Sign up</a>
-                </div>
-
-            </div>
-        </div>
-    </div>
-
-
-</form>
-</div>
-
-</div>
-</div>
-</div></div>
 <div class="footer">
     <div class="row justify-content-center align-items-center">
         <div class="col-8">
@@ -1312,7 +1312,7 @@ Let's add some data taken from them. So that people understand who they are work
 <script src="/assets/c8efe592/js/bootstrap.bundle.js"></script>
 <script>jQuery(function ($) {
 jQuery('#signupform-verifycode-image').yiiCaptcha({"refreshUrl":"\/site\/captcha?refresh=1","hashKey":"yiiCaptcha\/site\/captcha"});
-jQuery('#reg-form').yiiActiveForm([{"id":"signupform-login","name":"login","container":".field-signupform-login","input":"#signupform-login","error":".invalid-feedback","validate":function (attribute, value, messages, deferred, $form) {value = yii.validation.trim($form, attribute, {"skipOnArray":true,"skipOnEmpty":false,"chars":false}, value);yii.validation.required(value, messages, {"message":"Login cannot be blank."});yii.validation.string(value, messages, {"message":"Login must be a string.","min":6,"tooShort":"Login should contain at least 6 characters.","max":254,"tooLong":"Login should contain at most 254 characters.","skipOnEmpty":1});}},{"id":"signupform-username","name":"username","container":".field-signupform-username","input":"#signupform-username","error":".invalid-feedback","validate":function (attribute, value, messages, deferred, $form) {value = yii.validation.trim($form, attribute, {"skipOnArray":true,"skipOnEmpty":false,"chars":false}, value);yii.validation.required(value, messages, {"message":"Username cannot be blank."});yii.validation.string(value, messages, {"message":"Username must be a string.","min":6,"tooShort":"Username should contain at least 6 characters.","max":254,"tooLong":"Username should contain at most 254 characters.","skipOnEmpty":1});}},{"id":"signupform-password","name":"password","container":".field-signupform-password","input":"#signupform-password","error":".invalid-feedback","validate":function (attribute, value, messages, deferred, $form) {value = yii.validation.trim($form, attribute, {"skipOnArray":true,"skipOnEmpty":false,"chars":false}, value);yii.validation.required(value, messages, {"message":"Password cannot be blank."});yii.validation.string(value, messages, {"message":"Password must be a string.","min":6,"tooShort":"Password should contain at least 6 characters.","max":254,"tooLong":"Password should contain at most 254 characters.","skipOnEmpty":1});}},{"id":"signupform-confirm_password","name":"confirm_password","container":".field-signupform-confirm_password","input":"#signupform-confirm_password","error":".invalid-feedback","validate":function (attribute, value, messages, deferred, $form) {value = yii.validation.trim($form, attribute, {"skipOnArray":true,"skipOnEmpty":false,"chars":false}, value);yii.validation.required(value, messages, {"message":"Confirm Password cannot be blank."});yii.validation.compare(value, messages, {"operator":"==","type":"string","compareAttribute":"signupform-password","compareAttributeName":"SignupForm[password]","skipOnEmpty":1,"message":"Confirm Password must be equal to \u0022Password\u0022."}, $form);}},{"id":"signupform-verifycode","name":"verifyCode","container":".field-signupform-verifycode","input":"#signupform-verifycode","error":".invalid-feedback","validate":function (attribute, value, messages, deferred, $form) {yii.validation.captcha(value, messages, {"hash":294636,"hashKey":"yiiCaptcha\/site\/captcha","caseSensitive":false,"message":"The verification code is incorrect."});}}], {"errorSummary":".alert.alert-danger","errorCssClass":"is-invalid","successCssClass":"is-valid","validationStateOn":"input"});
+jQuery('#reg-form').yiiActiveForm([{"id":"signupform-login","name":"login","container":".field-signupform-login","input":"#signupform-login","error":".invalid-feedback","validate":function (attribute, value, messages, deferred, $form) {value = yii.validation.trim($form, attribute, {"skipOnArray":true,"skipOnEmpty":false,"chars":false}, value);yii.validation.required(value, messages, {"message":"Login cannot be blank."});yii.validation.string(value, messages, {"message":"Login must be a string.","min":6,"tooShort":"Login should contain at least 6 characters.","max":254,"tooLong":"Login should contain at most 254 characters.","skipOnEmpty":1});}},{"id":"signupform-username","name":"username","container":".field-signupform-username","input":"#signupform-username","error":".invalid-feedback","validate":function (attribute, value, messages, deferred, $form) {value = yii.validation.trim($form, attribute, {"skipOnArray":true,"skipOnEmpty":false,"chars":false}, value);yii.validation.required(value, messages, {"message":"Username cannot be blank."});yii.validation.string(value, messages, {"message":"Username must be a string.","min":6,"tooShort":"Username should contain at least 6 characters.","max":254,"tooLong":"Username should contain at most 254 characters.","skipOnEmpty":1});}},{"id":"signupform-password","name":"password","container":".field-signupform-password","input":"#signupform-password","error":".invalid-feedback","validate":function (attribute, value, messages, deferred, $form) {value = yii.validation.trim($form, attribute, {"skipOnArray":true,"skipOnEmpty":false,"chars":false}, value);yii.validation.required(value, messages, {"message":"Password cannot be blank."});yii.validation.string(value, messages, {"message":"Password must be a string.","min":6,"tooShort":"Password should contain at least 6 characters.","max":254,"tooLong":"Password should contain at most 254 characters.","skipOnEmpty":1});}},{"id":"signupform-confirm_password","name":"confirm_password","container":".field-signupform-confirm_password","input":"#signupform-confirm_password","error":".invalid-feedback","validate":function (attribute, value, messages, deferred, $form) {value = yii.validation.trim($form, attribute, {"skipOnArray":true,"skipOnEmpty":false,"chars":false}, value);yii.validation.required(value, messages, {"message":"Confirm Password cannot be blank."});yii.validation.compare(value, messages, {"operator":"==","type":"string","compareAttribute":"signupform-password","compareAttributeName":"SignupForm[password]","skipOnEmpty":1,"message":"Confirm Password must be equal to \u0022Password\u0022."}, $form);}},{"id":"signupform-verifycode","name":"verifyCode","container":".field-signupform-verifycode","input":"#signupform-verifycode","error":".invalid-feedback","validate":function (attribute, value, messages, deferred, $form) {yii.validation.captcha(value, messages, {"hash":407406,"hashKey":"yiiCaptcha\/site\/captcha","caseSensitive":false,"message":"The verification code is incorrect."});}}], {"errorSummary":".alert.alert-danger","errorCssClass":"is-invalid","successCssClass":"is-valid","validationStateOn":"input"});
 jQuery('#registration_modal').modal({"show":false});
     $(document).ready(function (){
         $('body').on('click', '.js-registration',function (e){
