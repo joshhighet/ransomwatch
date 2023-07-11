@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-07-11 | [`www.protactics.com.co`](https://google.com/search?q=www.protactics.com.co) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-07-11 | [`Murfreesboro Medical Clinic`](https://google.com/search?q=Murfreesboro+Medical+Clinic) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-07-11 | [`mamboafricaadventure`](https://google.com/search?q=mamboafricaadventure) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
 | 2023-07-11 | [`Nipun Consultancy `](https://google.com/search?q=Nipun+Consultancy+) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-06-21 | [`BGFIBank Group`](https://google.com/search?q=BGFIBank+Group) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-06-21 | [`T***** ***** *********t** *.*.`](https://google.com/search?q=T%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A%2A%2At%2A%2A+%2A.%2A.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-06-21 | [`The Sullivan Group of Court Reporters`](https://google.com/search?q=The+Sullivan+Group+of+Court+Reporters) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2023-06-21 | [`EDG`](https://google.com/search?q=EDG) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
