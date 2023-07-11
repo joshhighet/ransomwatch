@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-07-11 | [`Murfreesboro Medical Clinic`](https://google.com/search?q=Murfreesboro+Medical+Clinic) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2023-07-11 | [`mamboafricaadventure`](https://google.com/search?q=mamboafricaadventure) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
+| 2023-07-11 | [`Nipun Consultancy `](https://google.com/search?q=Nipun+Consultancy+) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
 | 2023-07-11 | [`A123 Systems`](https://google.com/search?q=A123+Systems) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-07-11 | [`microport.com`](https://google.com/search?q=microport.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2023-07-11 | [`panoramaeyecare.com`](https://google.com/search?q=panoramaeyecare.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2023-06-21 | [`T***** ***** *********t** *.*.`](https://google.com/search?q=T%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A%2A%2At%2A%2A+%2A.%2A.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-06-21 | [`The Sullivan Group of Court Reporters`](https://google.com/search?q=The+Sullivan+Group+of+Court+Reporters) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-06-21 | [`EDG`](https://google.com/search?q=EDG) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-06-21 | [`SITARA`](https://google.com/search?q=SITARA) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-06-21 | [`Beverly Hills Plastic Surgery`](https://google.com/search?q=Beverly+Hills+Plastic+Surgery) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-06-21 | [`Medical University of the Americas`](https://google.com/search?q=Medical+University+of+the+Americas) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
