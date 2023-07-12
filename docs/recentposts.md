@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-07-12 | [`affinityhealthservices.ne`](https://google.com/search?q=affinityhealthservices.ne) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-07-12 | [`Tubes`](https://google.com/search?q=Tubes) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-07-12 | [`ATS Infrastructure`](https://google.com/search?q=ATS+Infrastructure) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-07-12 | [`Henock Construction`](https://google.com/search?q=Henock+Construction) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-06-21 | [`Peter Mark`](https://google.com/search?q=Peter+Mark) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-06-21 | [`Dancie Perugini Ware Public Relations`](https://google.com/search?q=Dancie+Perugini+Ware+Public+Relations) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-06-21 | [`Summit Hut`](https://google.com/search?q=Summit+Hut) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-06-21 | [`Eastside Union School District`](https://google.com/search?q=Eastside+Union+School+District) | [karakurt](https://ransomwatch.telemetry.ltd/#/profiles?id=karakurt) |
