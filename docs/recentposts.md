@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-07-12 | [`Schmidt Salzman & Mo ran, Ltd`](https://google.com/search?q=Schmidt+Salzman+%26+Mo+ran%2C+Ltd) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
+| 2023-07-12 | [`Wright Moore DeHart Dupuis & Hutchinson`](https://google.com/search?q=Wright+Moore+DeHart+Dupuis+%26+Hutchinson) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-07-12 | [`www.bettersystem.co.th`](https://google.com/search?q=www.bettersystem.co.th) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2023-07-11 | [`www.protactics.com.co`](https://google.com/search?q=www.protactics.com.co) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-07-11 | [`Murfreesboro Medical Clinic`](https://google.com/search?q=Murfreesboro+Medical+Clinic) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-06-21 | [`Wolfs Block Management Limited`](https://google.com/search?q=Wolfs+Block+Management+Limited) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-06-21 | [`deepnoid`](https://google.com/search?q=deepnoid) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
 | 2023-06-21 | [`target-9`](https://google.com/search?q=target-9) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
-| 2023-06-21 | [`BGFIBank Group`](https://google.com/search?q=BGFIBank+Group) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2023-06-21 | [`T***** ***** *********t** *.*.`](https://google.com/search?q=T%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A%2A%2At%2A%2A+%2A.%2A.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
