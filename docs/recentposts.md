@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-07-12 | [`innodisgroup.com`](https://google.com/search?q=innodisgroup.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-07-12 | [`Divgi-TTS was hacked. Due to the extreme low level of security, a huge amount of confident`](https://google.com/search?q=Divgi-TTS+was+hacked.+Due+to+the+extreme+low+level+of+security%2C+a+huge+amount+of+confident) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-07-12 | [`Eastin Hotel Makkasan Bangkok was hacked. Customers' financial and personal information ha`](https://google.com/search?q=Eastin+Hotel+Makkasan+Bangkok+was+hacked.+Customers%27+financial+and+personal+information+ha) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-07-12 | [`Algeiba.com has a critical level of security on its network. Customer and partner data is `](https://google.com/search?q=Algeiba.com+has+a+critical+level+of+security+on+its+network.+Customer+and+partner+data+is+) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-06-21 | [`Barentz North America`](https://google.com/search?q=Barentz+North+America) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-06-21 | [`PWI Engineering`](https://google.com/search?q=PWI+Engineering) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-06-21 | [`Federation Francaise de Rugby`](https://google.com/search?q=Federation+Francaise+de+Rugby) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-06-21 | [`Luís Simoes`](https://google.com/search?q=Lu%C3%ADs+Simoes) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
