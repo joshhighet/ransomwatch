@@ -4,6 +4,11 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-07-12 | [`Divgi-TTS was hacked. Due to the extreme low level of security, a huge amount of confident`](https://google.com/search?q=Divgi-TTS+was+hacked.+Due+to+the+extreme+low+level+of+security%2C+a+huge+amount+of+confident) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
+| 2023-07-12 | [`Eastin Hotel Makkasan Bangkok was hacked. Customers' financial and personal information ha`](https://google.com/search?q=Eastin+Hotel+Makkasan+Bangkok+was+hacked.+Customers%27+financial+and+personal+information+ha) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
+| 2023-07-12 | [`Algeiba.com has a critical level of security on its network. Customer and partner data is `](https://google.com/search?q=Algeiba.com+has+a+critical+level+of+security+on+its+network.+Customer+and+partner+data+is+) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
+| 2023-07-12 | [`Amber Court 2020 was hacking. A lot of customers' personal information was stolen.`](https://google.com/search?q=Amber+Court+2020+was+hacking.+A+lot+of+customers%27+personal+information+was+stolen.) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
+| 2023-07-12 | [`Maruchan Inc`](https://google.com/search?q=Maruchan+Inc) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-07-12 | [`Schmidt Salzman & Mo ran, Ltd`](https://google.com/search?q=Schmidt+Salzman+%26+Mo+ran%2C+Ltd) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-07-12 | [`Wright Moore DeHart Dupuis & Hutchinson`](https://google.com/search?q=Wright+Moore+DeHart+Dupuis+%26+Hutchinson) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-07-12 | [`www.bettersystem.co.th`](https://google.com/search?q=www.bettersystem.co.th) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
@@ -199,8 +204,3 @@ _last `200` posts_
 | 2023-06-21 | [`PWI Engineering`](https://google.com/search?q=PWI+Engineering) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-06-21 | [`Federation Francaise de Rugby`](https://google.com/search?q=Federation+Francaise+de+Rugby) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-06-21 | [`Luís Simoes`](https://google.com/search?q=Lu%C3%ADs+Simoes) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-06-21 | [`Allpro Consulting Group`](https://google.com/search?q=Allpro+Consulting+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-06-21 | [`Lorclon`](https://google.com/search?q=Lorclon) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-06-21 | [`Wolfs Block Management Limited`](https://google.com/search?q=Wolfs+Block+Management+Limited) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-06-21 | [`deepnoid`](https://google.com/search?q=deepnoid) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
-| 2023-06-21 | [`target-9`](https://google.com/search?q=target-9) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
