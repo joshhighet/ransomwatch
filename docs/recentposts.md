@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-07-13 | [`Blackjewel L.L.C.`](https://google.com/search?q=Blackjewel+L.L.C.) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-07-13 | [`Telepizza`](https://google.com/search?q=Telepizza) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-07-13 | [`The Traffic Tech`](https://google.com/search?q=The+Traffic+Tech) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-07-13 | [`Quikcard Solutions Inc.`](https://google.com/search?q=Quikcard+Solutions+Inc.) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-06-22 | [`GC&E`](https://google.com/search?q=GC%26E) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-06-22 | [`Refractron`](https://google.com/search?q=Refractron) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-06-22 | [`londonandcapital`](https://google.com/search?q=londonandcapital) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-06-21 | [`Avannubo`](https://google.com/search?q=Avannubo) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
