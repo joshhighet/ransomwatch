@@ -4,6 +4,16 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-07-13 | [`Telepizza`](https://google.com/search?q=Telepizza) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2023-07-13 | [`The Traffic Tech`](https://google.com/search?q=The+Traffic+Tech) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2023-07-13 | [`Quikcard Solutions Inc.`](https://google.com/search?q=Quikcard+Solutions+Inc.) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2023-07-13 | [`Jadranka Group`](https://google.com/search?q=Jadranka+Group) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2023-07-13 | [`Dental One Craigieburn`](https://google.com/search?q=Dental+One+Craigieburn) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2023-07-13 | [`ANL Packaging`](https://google.com/search?q=ANL+Packaging) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2023-07-13 | [`BTU`](https://google.com/search?q=BTU) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2023-07-13 | [`Ministerio de Cultura de la Republica de Cuba " STORMOUS + GhostSec "`](https://google.com/search?q=Ministerio+de+Cultura+de+la+Republica+de+Cuba+%22+STORMOUS+%2B+GhostSec+%22) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
+| 2023-07-13 | [`Ministry of Foreign Trade " STORMOUS + GhostSec "`](https://google.com/search?q=Ministry+of+Foreign+Trade+%22+STORMOUS+%2B+GhostSec+%22) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
+| 2023-07-13 | [`Ministry of Energy and Mines (Cuba) " STORMOUS + GhostSec "`](https://google.com/search?q=Ministry+of+Energy+and+Mines+%28Cuba%29+%22+STORMOUS+%2B+GhostSec+%22) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
 | 2023-07-12 | [`affinityhealthservices.ne`](https://google.com/search?q=affinityhealthservices.ne) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-07-12 | [`Tubes`](https://google.com/search?q=Tubes) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-07-12 | [`ATS Infrastructure`](https://google.com/search?q=ATS+Infrastructure) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
@@ -194,13 +204,3 @@ _last `200` posts_
 | 2023-06-22 | [`Refractron`](https://google.com/search?q=Refractron) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-06-22 | [`londonandcapital`](https://google.com/search?q=londonandcapital) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-06-21 | [`Avannubo`](https://google.com/search?q=Avannubo) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2023-06-21 | [`CYBERFREIGHT SYSTEMS MARITIMES INC.`](https://google.com/search?q=CYBERFREIGHT+SYSTEMS+MARITIMES+INC.) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-06-21 | [`Kansas Joint & Spine Specialists`](https://google.com/search?q=Kansas+Joint+%26+Spine+Specialists) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-06-21 | [`Main Street Title and Settlement Services LLC`](https://google.com/search?q=Main+Street+Title+and+Settlement+Services+LLC) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-06-21 | [`Craig & Associates, LLC`](https://google.com/search?q=Craig+%26+Associates%2C+LLC) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-06-21 | [`Yokohama-oht (atgtir e)`](https://google.com/search?q=Yokohama-oht+%28atgtir+e%29) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2023-06-21 | [`Habasit`](https://google.com/search?q=Habasit) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2023-06-21 | [`Café Soluble`](https://google.com/search?q=Caf%C3%A9+Soluble) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2023-06-21 | [`Peter Mark`](https://google.com/search?q=Peter+Mark) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-06-21 | [`Dancie Perugini Ware Public Relations`](https://google.com/search?q=Dancie+Perugini+Ware+Public+Relations) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-06-21 | [`Summit Hut`](https://google.com/search?q=Summit+Hut) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
