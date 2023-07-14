@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-07-14 | [`CPA Advisors Group`](https://google.com/search?q=CPA+Advisors+Group) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-07-14 | [`Info Salons`](https://google.com/search?q=Info+Salons) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-07-14 | [`Kenya Bureau Of Standards`](https://google.com/search?q=Kenya+Bureau+Of+Standards) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2023-07-14 | [`Snatch News`](https://google.com/search?q=Snatch+News) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-06-23 | [`https://www.ultimatepail.com`](https://google.com/search?q=https%3A%2F%2Fwww.ultimatepail.com) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2023-06-22 | [`Hill International`](https://google.com/search?q=Hill+International) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-06-22 | [`medexs.com`](https://google.com/search?q=medexs.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
-| 2023-06-22 | [`DBSA hit by ransomwa re attack.`](https://google.com/search?q=DBSA+hit+by+ransomwa+re+attack.) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
