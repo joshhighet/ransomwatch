@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-07-14 | [`Ministry of Energy and Mines (Cuba) " STORMOUS +  GhostSec "`](https://google.com/search?q=Ministry+of+Energy+and+Mines+%28Cuba%29+%22+STORMOUS+%2B++GhostSec+%22) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
+| 2023-07-14 | [`Chin Hin Group`](https://google.com/search?q=Chin+Hin+Group) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-07-14 | [`Superloop ISP`](https://google.com/search?q=Superloop+ISP) | [cyclops](https://ransomwatch.telemetry.ltd/#/profiles?id=cyclops) |
 | 2023-07-14 | [`www.jordanairmotive.com`](https://google.com/search?q=www.jordanairmotive.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-07-14 | [`www.bsdc.ac.uk`](https://google.com/search?q=www.bsdc.ac.uk) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-06-23 | [`**** H****`](https://google.com/search?q=%2A%2A%2A%2A+H%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-06-23 | [`*i***** *****`](https://google.com/search?q=%2Ai%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-06-23 | [`American Crane Rental`](https://google.com/search?q=American+Crane+Rental) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2023-06-23 | [`Galveston College`](https://google.com/search?q=Galveston+College) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2023-06-23 | [`The Akron-Summit Cou nty Public Library`](https://google.com/search?q=The+Akron-Summit+Cou+nty+Public+Library) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
