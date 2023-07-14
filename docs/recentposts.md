@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-07-14 | [`Kenya Bureau Of Standards`](https://google.com/search?q=Kenya+Bureau+Of+Standards) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
+| 2023-07-14 | [`Snatch News`](https://google.com/search?q=Snatch+News) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
 | 2023-07-13 | [`Gerber Childrenswear LLC`](https://google.com/search?q=Gerber+Childrenswear+LLC) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-07-13 | [`Blackjewel L.L.C.`](https://google.com/search?q=Blackjewel+L.L.C.) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-07-13 | [`Telepizza`](https://google.com/search?q=Telepizza) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-06-22 | [`medexs.com`](https://google.com/search?q=medexs.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2023-06-22 | [`DBSA hit by ransomwa re attack.`](https://google.com/search?q=DBSA+hit+by+ransomwa+re+attack.) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-06-22 | [`National Institutional Facilitation Technologies (Pvt.) Limited`](https://google.com/search?q=National+Institutional+Facilitation+Technologies+%28Pvt.%29+Limited) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-06-22 | [`GC&E`](https://google.com/search?q=GC%26E) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2023-06-22 | [`Refractron`](https://google.com/search?q=Refractron) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
