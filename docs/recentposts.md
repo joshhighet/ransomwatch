@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-07-14 | [`Superloop ISP`](https://google.com/search?q=Superloop+ISP) | [cyclops](https://ransomwatch.telemetry.ltd/#/profiles?id=cyclops) |
 | 2023-07-14 | [`www.jordanairmotive.com`](https://google.com/search?q=www.jordanairmotive.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-07-14 | [`www.bsdc.ac.uk`](https://google.com/search?q=www.bsdc.ac.uk) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-07-14 | [`eyedoc.com.na`](https://google.com/search?q=eyedoc.com.na) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-06-23 | [`American Crane Rental`](https://google.com/search?q=American+Crane+Rental) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-06-23 | [`Galveston College`](https://google.com/search?q=Galveston+College) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-06-23 | [`The Akron-Summit Cou nty Public Library`](https://google.com/search?q=The+Akron-Summit+Cou+nty+Public+Library) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2023-06-23 | [`Perpetual Group`](https://google.com/search?q=Perpetual+Group) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
