@@ -4,6 +4,13 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-07-15 | [`province.namur.be`](https://google.com/search?q=province.namur.be) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-07-15 | [`konrad-mr.de`](https://google.com/search?q=konrad-mr.de) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-07-15 | [`hgc.com.hk`](https://google.com/search?q=hgc.com.hk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-07-15 | [`greatlakesmbpm.com`](https://google.com/search?q=greatlakesmbpm.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-07-15 | [`energym.co.il`](https://google.com/search?q=energym.co.il) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-07-15 | [`jasperpictures`](https://google.com/search?q=jasperpictures) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
+| 2023-07-15 | [`Highland Health Systems`](https://google.com/search?q=Highland+Health+Systems) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-07-14 | [`Ministry of Energy and Mines (Cuba) " STORMOUS +  GhostSec "`](https://google.com/search?q=Ministry+of+Energy+and+Mines+%28Cuba%29+%22+STORMOUS+%2B++GhostSec+%22) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
 | 2023-07-14 | [`Chin Hin Group`](https://google.com/search?q=Chin+Hin+Group) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-07-14 | [`Superloop ISP`](https://google.com/search?q=Superloop+ISP) | [cyclops](https://ransomwatch.telemetry.ltd/#/profiles?id=cyclops) |
@@ -197,10 +204,3 @@ _last `200` posts_
 | 2023-06-25 | [`Farmacias Los Hidalgos`](https://google.com/search?q=Farmacias+Los+Hidalgos) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-06-25 | [`Real Estate Systems Integrator`](https://google.com/search?q=Real+Estate+Systems+Integrator) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-06-25 | [`Universitas Matthiae Belii association`](https://google.com/search?q=Universitas+Matthiae+Belii+association) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
-| 2023-06-24 | [`Jacobs Farm`](https://google.com/search?q=Jacobs+Farm) | [ransomexx](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomexx) |
-| 2023-06-24 | [`Tlantic`](https://google.com/search?q=Tlantic) | [mallox](https://ransomwatch.telemetry.ltd/#/profiles?id=mallox) |
-| 2023-06-24 | [`Hausamman company`](https://google.com/search?q=Hausamman+company) | [ransomblog_noname](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomblog_noname) |
-| 2023-06-24 | [`SELL DATA(qtox)`](https://google.com/search?q=SELL+DATA%28qtox%29) | [ransomblog_noname](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomblog_noname) |
-| 2023-06-23 | [`**** H****`](https://google.com/search?q=%2A%2A%2A%2A+H%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2023-06-23 | [`*i***** *****`](https://google.com/search?q=%2Ai%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2023-06-23 | [`American Crane Rental`](https://google.com/search?q=American+Crane+Rental) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
