@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-07-15 | [`magnumphotos.com`](https://google.com/search?q=magnumphotos.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-07-15 | [`equmedia.es`](https://google.com/search?q=equmedia.es) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-07-15 | [`co.langlade.wi.us`](https://google.com/search?q=co.langlade.wi.us) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-07-15 | [`province.namur.be`](https://google.com/search?q=province.namur.be) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-07-15 | [`konrad-mr.de`](https://google.com/search?q=konrad-mr.de) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-07-15 | [`hgc.com.hk`](https://google.com/search?q=hgc.com.hk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2023-06-26 | [`Lysander Shipping`](https://google.com/search?q=Lysander+Shipping) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-06-26 | [`LEGALILAVORO`](https://google.com/search?q=LEGALILAVORO) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-06-26 | [`PNEUMAX`](https://google.com/search?q=PNEUMAX) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-06-25 | [`Farmacias Los Hidalgos`](https://google.com/search?q=Farmacias+Los+Hidalgos) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
-| 2023-06-25 | [`Real Estate Systems Integrator`](https://google.com/search?q=Real+Estate+Systems+Integrator) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
-| 2023-06-25 | [`Universitas Matthiae Belii association`](https://google.com/search?q=Universitas+Matthiae+Belii+association) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
