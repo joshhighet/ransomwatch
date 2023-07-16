@@ -25,3 +25,4 @@
 
 - [ransomlook.io](https://www.ransomlook.io)
 - [ransomfind.io](https://ransomfind.io)
+- [@ransomwatch@infosec.exchange](https://infosec.exchange/@ransomwatch) _a mastodon bot that shares the recent posts_
