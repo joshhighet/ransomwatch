@@ -7,7 +7,7 @@
 - [vxunderground/ThreatIntelligenceDiscordBot](https://github.com/vxunderground/ThreatIntelligenceDiscordBot) _an aggregated CTI bot used with Discord, monitoring a number of mediums and blogs, ransomwatch data included_
 - [jjsantanna/aggregator:](https://github.com/jjsantanna/aggregator_crawlers_lists_ransomware_groups_leaksites)_a Jupyter Notebook which merges and collates various ransomwatch-style platforms into a single view_
 - [uforia/MatterBot](https://github.com/uforia/MatterBot) _a bot framework to aggregate intelligence feeds within Mattermost_
-
+- [@ransomwatch@infosec.exchange](https://infosec.exchange/@ransomwatch) _a mastodon bot that shares the recent posts_
 ## citations
 
 - [ENISA - Threat Landscape for Ransomware Attacks 2022](https://www.enisa.europa.eu/publications/enisa-threat-landscape-for-ransomware-attacks)
@@ -25,4 +25,3 @@
 
 - [ransomlook.io](https://www.ransomlook.io)
 - [ransomfind.io](https://ransomfind.io)
-- [@ransomwatch@infosec.exchange](https://infosec.exchange/@ransomwatch) _a mastodon bot that shares the recent posts_
