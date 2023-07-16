@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-07-16 | [`Baumschlager Hutter Partners - Business Information`](https://google.com/search?q=Baumschlager+Hutter+Partners+-+Business+Information) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-07-16 | [`www.arb.ch`](https://google.com/search?q=www.arb.ch) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
 | 2023-07-15 | [`magnumphotos.com`](https://google.com/search?q=magnumphotos.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-07-15 | [`equmedia.es`](https://google.com/search?q=equmedia.es) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-06-26 | [`JOB-SA BETON J.O.B SA`](https://google.com/search?q=JOB-SA+BETON+J.O.B+SA) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-06-26 | [`CLEAR MEDI HEALTHCARE`](https://google.com/search?q=CLEAR+MEDI+HEALTHCARE) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-06-26 | [`Lysander Shipping`](https://google.com/search?q=Lysander+Shipping) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-06-26 | [`LEGALILAVORO`](https://google.com/search?q=LEGALILAVORO) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
