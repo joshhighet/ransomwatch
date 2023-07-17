@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-07-17 | [`Citta Nuova`](https://google.com/search?q=Citta+Nuova) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
+| 2023-07-17 | [`Venture Drilling Supply`](https://google.com/search?q=Venture+Drilling+Supply) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-07-17 | [`Hiberus Tecnología`](https://google.com/search?q=Hiberus+Tecnolog%C3%ADa) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-07-17 | [`Bitimen exchange`](https://google.com/search?q=Bitimen+exchange) | [arvinclub](https://ransomwatch.telemetry.ltd/#/profiles?id=arvinclub) |
 | 2023-07-16 | [`test.com`](https://google.com/search?q=test.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-06-26 | [`Knights of Old Group`](https://google.com/search?q=Knights+of+Old+Group) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-06-26 | [`Chariton Valley`](https://google.com/search?q=Chariton+Valley) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-06-26 | [`Fassi Gru S.p.A.`](https://google.com/search?q=Fassi+Gru+S.p.A.) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2023-06-26 | [`London Capital Group (LCG)`](https://google.com/search?q=London+Capital+Group+%28LCG%29) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2023-06-26 | [`Reeds Spring School District`](https://google.com/search?q=Reeds+Spring+School+District) | [karakurt](https://ransomwatch.telemetry.ltd/#/profiles?id=karakurt) |
