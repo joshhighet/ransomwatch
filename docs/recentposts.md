@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-07-17 | [`www.tractrad.com`](https://google.com/search?q=www.tractrad.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
 | 2023-07-17 | [`Citta Nuova`](https://google.com/search?q=Citta+Nuova) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2023-07-17 | [`Venture Drilling Supply`](https://google.com/search?q=Venture+Drilling+Supply) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-07-17 | [`Hiberus Tecnología`](https://google.com/search?q=Hiberus+Tecnolog%C3%ADa) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-06-26 | [`www.creditteam.eu`](https://google.com/search?q=www.creditteam.eu) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-06-26 | [`Knights of Old Group`](https://google.com/search?q=Knights+of+Old+Group) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-06-26 | [`Chariton Valley`](https://google.com/search?q=Chariton+Valley) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2023-06-26 | [`Fassi Gru S.p.A.`](https://google.com/search?q=Fassi+Gru+S.p.A.) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
