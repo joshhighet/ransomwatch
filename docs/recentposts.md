@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-07-18 | [`DTD Express `](https://google.com/search?q=DTD+Express+) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
+| 2023-07-18 | [`The Estée Lauder Companies`](https://google.com/search?q=The+Est%C3%A9e+Lauder+Companies) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-07-18 | [`KUITS`](https://google.com/search?q=KUITS) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-07-18 | [`www.acomen.fr`](https://google.com/search?q=www.acomen.fr) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-07-18 | [`Tampa general hospital`](https://google.com/search?q=Tampa+general+hospital) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-06-28 | [`Stoughton Trailers`](https://google.com/search?q=Stoughton+Trailers) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-06-28 | [`Pan Pacific Hotels Group`](https://google.com/search?q=Pan+Pacific+Hotels+Group) | [karakurt](https://ransomwatch.telemetry.ltd/#/profiles?id=karakurt) |
 | 2023-06-28 | [`PORTERROOFING`](https://google.com/search?q=PORTERROOFING) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-06-28 | [`CON-STRUCT`](https://google.com/search?q=CON-STRUCT) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-06-28 | [`thaire`](https://google.com/search?q=thaire) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
