@@ -4,6 +4,10 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-07-18 | [`www.brockhouse.co.uk`](https://google.com/search?q=www.brockhouse.co.uk) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
+| 2023-07-18 | [`ope.com.na`](https://google.com/search?q=ope.com.na) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-07-18 | [`flexity.com`](https://google.com/search?q=flexity.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-07-18 | [`dixiesfed.com`](https://google.com/search?q=dixiesfed.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-07-18 | [`academia21.com`](https://google.com/search?q=academia21.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-07-18 | [`CashCall, Inc.`](https://google.com/search?q=CashCall%2C+Inc.) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-07-18 | [`Seasia Infotech`](https://google.com/search?q=Seasia+Infotech) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
@@ -200,7 +204,3 @@ _last `200` posts_
 | 2023-06-28 | [`https://modernind.com`](https://google.com/search?q=https%3A%2F%2Fmodernind.com) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2023-06-28 | [`https://www.giambelli.it`](https://google.com/search?q=https%3A%2F%2Fwww.giambelli.it) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2023-06-28 | [`Texas Heat Treating`](https://google.com/search?q=Texas+Heat+Treating) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-06-28 | [`Intoximeters`](https://google.com/search?q=Intoximeters) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-06-28 | [`Algotech`](https://google.com/search?q=Algotech) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-06-28 | [`Cambridge Group of Clubs`](https://google.com/search?q=Cambridge+Group+of+Clubs) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-06-27 | [`iMatica`](https://google.com/search?q=iMatica) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
