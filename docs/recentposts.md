@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-07-18 | [`academia21.com`](https://google.com/search?q=academia21.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-07-18 | [`CashCall, Inc.`](https://google.com/search?q=CashCall%2C+Inc.) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-07-18 | [`Seasia Infotech`](https://google.com/search?q=Seasia+Infotech) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
 | 2023-07-18 | [`Ningbo Joyson Electronic Corp.`](https://google.com/search?q=Ningbo+Joyson+Electronic+Corp.) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-06-28 | [`Algotech`](https://google.com/search?q=Algotech) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-06-28 | [`Cambridge Group of Clubs`](https://google.com/search?q=Cambridge+Group+of+Clubs) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-06-27 | [`iMatica`](https://google.com/search?q=iMatica) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2023-06-27 | [`ITW Food Equipment Group`](https://google.com/search?q=ITW+Food+Equipment+Group) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
