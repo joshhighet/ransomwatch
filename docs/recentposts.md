@@ -4,6 +4,13 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-07-18 | [`www.girardini.it`](https://google.com/search?q=www.girardini.it) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
+| 2023-07-18 | [`Health Springs Medical Center `](https://google.com/search?q=Health+Springs+Medical+Center+) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
+| 2023-07-18 | [`Nini Collection Ltd  (Nini&#039;s Jewels)`](https://google.com/search?q=Nini+Collection+Ltd++%28Nini%26%23039%3Bs+Jewels%29) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
+| 2023-07-18 | [`suninsurance.com.fj`](https://google.com/search?q=suninsurance.com.fj) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-07-18 | [`lfcaire.org`](https://google.com/search?q=lfcaire.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-07-18 | [`cotrelec.com`](https://google.com/search?q=cotrelec.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-07-18 | [`berg-life.com`](https://google.com/search?q=berg-life.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-07-18 | [`www.brockhouse.co.uk`](https://google.com/search?q=www.brockhouse.co.uk) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
 | 2023-07-18 | [`ope.com.na`](https://google.com/search?q=ope.com.na) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-07-18 | [`flexity.com`](https://google.com/search?q=flexity.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -197,10 +204,3 @@ _last `200` posts_
 | 2023-06-28 | [`Coachella Valley Collection Service`](https://google.com/search?q=Coachella+Valley+Collection+Service) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-06-28 | [`JBCC Corp`](https://google.com/search?q=JBCC+Corp) | [mallox](https://ransomwatch.telemetry.ltd/#/profiles?id=mallox) |
 | 2023-06-28 | [`Arab Shipbuilding and Repair Yard`](https://google.com/search?q=Arab+Shipbuilding+and+Repair+Yard) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2023-06-28 | [`Misr Life Insurance`](https://google.com/search?q=Misr+Life+Insurance) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2023-06-28 | [`N** ********* **********`](https://google.com/search?q=N%2A%2A+%2A%2A%2A%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2023-06-28 | [`Piramal Group`](https://google.com/search?q=Piramal+Group) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2023-06-28 | [`www.graphtecinc.com`](https://google.com/search?q=www.graphtecinc.com) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2023-06-28 | [`https://modernind.com`](https://google.com/search?q=https%3A%2F%2Fmodernind.com) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2023-06-28 | [`https://www.giambelli.it`](https://google.com/search?q=https%3A%2F%2Fwww.giambelli.it) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2023-06-28 | [`Texas Heat Treating`](https://google.com/search?q=Texas+Heat+Treating) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
