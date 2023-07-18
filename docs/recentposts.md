@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-07-18 | [`KUITS`](https://google.com/search?q=KUITS) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-07-18 | [`www.acomen.fr`](https://google.com/search?q=www.acomen.fr) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-07-18 | [`Tampa general hospital`](https://google.com/search?q=Tampa+general+hospital) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
 | 2023-07-18 | [`www.girardini.it`](https://google.com/search?q=www.girardini.it) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-06-28 | [`PORTERROOFING`](https://google.com/search?q=PORTERROOFING) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-06-28 | [`CON-STRUCT`](https://google.com/search?q=CON-STRUCT) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-06-28 | [`thaire`](https://google.com/search?q=thaire) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
-| 2023-06-28 | [`Coachella Valley Collection Service`](https://google.com/search?q=Coachella+Valley+Collection+Service) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
