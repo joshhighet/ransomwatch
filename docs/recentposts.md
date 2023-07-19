@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-07-19 | [`R***** ********** *******`](https://google.com/search?q=R%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2023-07-19 | [`Undisclosed Aerospace Company`](https://google.com/search?q=Undisclosed+Aerospace+Company) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2023-07-19 | [`obeidpartners.com`](https://google.com/search?q=obeidpartners.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-07-19 | [`EA SMITH`](https://google.com/search?q=EA+SMITH) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-07-19 | [`VOG`](https://google.com/search?q=VOG) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-07-18 | [`DTD Express `](https://google.com/search?q=DTD+Express+) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2023-06-28 | [`Alberta Newsprint`](https://google.com/search?q=Alberta+Newsprint) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2023-06-28 | [`ISPE Connecting Pharmaceutical Knowledge`](https://google.com/search?q=ISPE+Connecting+Pharmaceutical+Knowledge) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-06-28 | [`ibafrance.fr`](https://google.com/search?q=ibafrance.fr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-06-28 | [`CentroMed`](https://google.com/search?q=CentroMed) | [karakurt](https://ransomwatch.telemetry.ltd/#/profiles?id=karakurt) |
-| 2023-06-28 | [`Wilcom`](https://google.com/search?q=Wilcom) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2023-06-28 | [`Stoughton Trailers`](https://google.com/search?q=Stoughton+Trailers) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
