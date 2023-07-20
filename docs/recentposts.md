@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-07-20 | [`www.coriniumcarpets.co.uk`](https://google.com/search?q=www.coriniumcarpets.co.uk) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
+| 2023-07-20 | [`Bright Future Electr ic, LLC`](https://google.com/search?q=Bright+Future+Electr+ic%2C+LLC) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-07-20 | [`Tampa General Hospital`](https://google.com/search?q=Tampa+General+Hospital) | [nokoyawa](https://ransomwatch.telemetry.ltd/#/profiles?id=nokoyawa) |
 | 2023-07-20 | [`CANAROPA Inc`](https://google.com/search?q=CANAROPA+Inc) | [nokoyawa](https://ransomwatch.telemetry.ltd/#/profiles?id=nokoyawa) |
 | 2023-07-20 | [`Campbell Killin Brittan & Ray LLC`](https://google.com/search?q=Campbell+Killin+Brittan+%26+Ray+LLC) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-07-03 | [`Townsquare Media Inc`](https://google.com/search?q=Townsquare+Media+Inc) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-07-03 | [`Duncan Disability Law`](https://google.com/search?q=Duncan+Disability+Law) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-07-03 | [`Mutuelle LMP`](https://google.com/search?q=Mutuelle+LMP) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
-| 2023-07-03 | [`Luna Hotels &amp; Resorts `](https://google.com/search?q=Luna+Hotels+%26amp%3B+Resorts+) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
-| 2023-07-03 | [`Brett Martin`](https://google.com/search?q=Brett+Martin) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
