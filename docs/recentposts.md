@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-07-20 | [`Entegra`](https://google.com/search?q=Entegra) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-07-20 | [`cityserve-mech.co.uk`](https://google.com/search?q=cityserve-mech.co.uk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-07-20 | [`Hightway Care`](https://google.com/search?q=Hightway+Care) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-07-20 | [`Magnolia Steel`](https://google.com/search?q=Magnolia+Steel) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-07-02 | [`blowtherm.it`](https://google.com/search?q=blowtherm.it) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-07-02 | [`Ucamco Belgium`](https://google.com/search?q=Ucamco+Belgium) | [ransomblog_noname](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomblog_noname) |
 | 2023-07-01 | [`Ashley HomeStore`](https://google.com/search?q=Ashley+HomeStore) | [mallox](https://ransomwatch.telemetry.ltd/#/profiles?id=mallox) |
-| 2023-07-01 | [`DVA - DVision Architecture`](https://google.com/search?q=DVA+-+DVision+Architecture) | [ransomexx](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomexx) |
