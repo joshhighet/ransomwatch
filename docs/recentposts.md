@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-07-20 | [`Tampa General Hospital`](https://google.com/search?q=Tampa+General+Hospital) | [nokoyawa](https://ransomwatch.telemetry.ltd/#/profiles?id=nokoyawa) |
+| 2023-07-20 | [`CANAROPA Inc`](https://google.com/search?q=CANAROPA+Inc) | [nokoyawa](https://ransomwatch.telemetry.ltd/#/profiles?id=nokoyawa) |
+| 2023-07-20 | [`Campbell Killin Brittan & Ray LLC`](https://google.com/search?q=Campbell+Killin+Brittan+%26+Ray+LLC) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-07-20 | [`Entegra`](https://google.com/search?q=Entegra) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-07-20 | [`cityserve-mech.co.uk`](https://google.com/search?q=cityserve-mech.co.uk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-07-20 | [`Hightway Care`](https://google.com/search?q=Hightway+Care) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2023-07-03 | [`Mutuelle LMP`](https://google.com/search?q=Mutuelle+LMP) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-07-03 | [`Luna Hotels &amp; Resorts `](https://google.com/search?q=Luna+Hotels+%26amp%3B+Resorts+) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-07-03 | [`Brett Martin`](https://google.com/search?q=Brett+Martin) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
-| 2023-07-02 | [`blowtherm.it`](https://google.com/search?q=blowtherm.it) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-07-02 | [`Ucamco Belgium`](https://google.com/search?q=Ucamco+Belgium) | [ransomblog_noname](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomblog_noname) |
-| 2023-07-01 | [`Ashley HomeStore`](https://google.com/search?q=Ashley+HomeStore) | [mallox](https://ransomwatch.telemetry.ltd/#/profiles?id=mallox) |
