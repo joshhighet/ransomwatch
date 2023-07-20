@@ -4545,5 +4545,25 @@
             }
         ],
         "profile": []
+    },
+    {
+        "name": "cactus",
+        "captcha": false,
+        "parser": true,
+        "javascript_render": false,
+        "meta": null,
+        "locations": [
+            {
+                "fqdn": "cactusbloguuodvqjmnzlwetjlpj6aggc6iocwhuupb47laukux7ckid.onion",
+                "title": null,
+                "version": 3,
+                "slug": "https://cactusbloguuodvqjmnzlwetjlpj6aggc6iocwhuupb47laukux7ckid.onion",
+                "available": true,
+                "updated": "2023-07-21 10:10:42.059164",
+                "lastscrape": "2023-07-21 10:10:42.058885",
+                "enabled": true
+            }
+        ],
+        "profile": []
     }
 ]

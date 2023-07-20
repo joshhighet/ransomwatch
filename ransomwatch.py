@@ -309,6 +309,7 @@ if args.mode == 'parse':
     parsers.rhysida()
     parsers.noescape()
     parsers.cyclops()
+    parsers.cactus()
     stdlog('ransomwatch: ' + 'parse run complete')
 
 if args.mode == 'list':

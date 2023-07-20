@@ -1112,3 +1112,14 @@ def cyclops():
         errlog('cyclops: ' + 'parsing fail')
     for post in posts:
         appender(post, 'cyclops')
+
+def cactus():
+    stdlog('parser: ' + 'cactus')
+    parser = '''
+    %s '<a .*? href=".*?/posts/.*?".*?</h2></a>' source/cactus-*.html | %s '<h2.*?>(.*?)</h2>' | cut -d'>' -f2 | cut -d'<' -f1
+    ''' % (fancygrep, fancygrep)
+    posts = runshellcmd(parser)
+    if len(posts) == 1:
+        errlog('cactus: ' + 'parsing fail')
+    for post in posts:
+        appender(post, 'cactus')
