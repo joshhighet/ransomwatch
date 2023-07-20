@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-07-20 | [`cityserve-mech.co.uk`](https://google.com/search?q=cityserve-mech.co.uk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-07-20 | [`Hightway Care`](https://google.com/search?q=Hightway+Care) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-07-20 | [`Magnolia Steel`](https://google.com/search?q=Magnolia+Steel) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-07-20 | [`New Braunfels Cardiology`](https://google.com/search?q=New+Braunfels+Cardiology) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-07-02 | [`Ucamco Belgium`](https://google.com/search?q=Ucamco+Belgium) | [ransomblog_noname](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomblog_noname) |
 | 2023-07-01 | [`Ashley HomeStore`](https://google.com/search?q=Ashley+HomeStore) | [mallox](https://ransomwatch.telemetry.ltd/#/profiles?id=mallox) |
 | 2023-07-01 | [`DVA - DVision Architecture`](https://google.com/search?q=DVA+-+DVision+Architecture) | [ransomexx](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomexx) |
-| 2023-07-01 | [`**l***** C***********`](https://google.com/search?q=%2A%2Al%2A%2A%2A%2A%2A+C%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
