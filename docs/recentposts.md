@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-07-21 | [`plbint.com`](https://google.com/search?q=plbint.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
 | 2023-07-21 | [`Artemide`](https://google.com/search?q=Artemide) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2023-07-21 | [`Reyes Automotive Group`](https://google.com/search?q=Reyes+Automotive+Group) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2023-07-21 | [`Rotomail Italia SpA`](https://google.com/search?q=Rotomail+Italia+SpA) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-07-06 | [`KIRWIN FRYDAY MEDCALF Lawyers LLP`](https://google.com/search?q=KIRWIN+FRYDAY+MEDCALF+Lawyers+LLP) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-07-06 | [`https://asicamericas.com/`](https://google.com/search?q=https%3A%2F%2Fasicamericas.com%2F) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2023-07-05 | [`http://zootampa.org`](https://google.com/search?q=http%3A%2F%2Fzootampa.org) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
-| 2023-07-05 | [`Avalign Technologies`](https://google.com/search?q=Avalign+Technologies) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
