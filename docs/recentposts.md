@@ -4,7 +4,25 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-07-21 | [`Artemide`](https://google.com/search?q=Artemide) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
+| 2023-07-21 | [`Reyes Automotive Group`](https://google.com/search?q=Reyes+Automotive+Group) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
+| 2023-07-21 | [`Rotomail Italia SpA`](https://google.com/search?q=Rotomail+Italia+SpA) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
+| 2023-07-21 | [`Phoenix Taxis`](https://google.com/search?q=Phoenix+Taxis) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
+| 2023-07-21 | [`Wasserstrom`](https://google.com/search?q=Wasserstrom) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
+| 2023-07-21 | [`Americold`](https://google.com/search?q=Americold) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2023-07-20 | [`www.coriniumcarpets.co.uk`](https://google.com/search?q=www.coriniumcarpets.co.uk) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
+| 2023-07-20 | [`Novobit`](https://google.com/search?q=Novobit) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
+| 2023-07-20 | [`Michigan Production Machining`](https://google.com/search?q=Michigan+Production+Machining) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
+| 2023-07-20 | [`Italkraft`](https://google.com/search?q=Italkraft) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
+| 2023-07-20 | [`Imagination`](https://google.com/search?q=Imagination) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
+| 2023-07-20 | [`Hawa Sliding Solutions`](https://google.com/search?q=Hawa+Sliding+Solutions) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
+| 2023-07-20 | [`CWS`](https://google.com/search?q=CWS) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
+| 2023-07-20 | [`ScanSource`](https://google.com/search?q=ScanSource) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
+| 2023-07-20 | [`Confartigianato Federimpresa FC`](https://google.com/search?q=Confartigianato+Federimpresa+FC) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
+| 2023-07-20 | [`Biocair International`](https://google.com/search?q=Biocair+International) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
+| 2023-07-20 | [`American Meteorological Society`](https://google.com/search?q=American+Meteorological+Society) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
+| 2023-07-20 | [`Agoravita`](https://google.com/search?q=Agoravita) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
+| 2023-07-20 | [`Alberto Couto Alves`](https://google.com/search?q=Alberto+Couto+Alves) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2023-07-20 | [`Bright Future Electr ic, LLC`](https://google.com/search?q=Bright+Future+Electr+ic%2C+LLC) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-07-20 | [`Tampa General Hospital`](https://google.com/search?q=Tampa+General+Hospital) | [nokoyawa](https://ransomwatch.telemetry.ltd/#/profiles?id=nokoyawa) |
 | 2023-07-20 | [`CANAROPA Inc`](https://google.com/search?q=CANAROPA+Inc) | [nokoyawa](https://ransomwatch.telemetry.ltd/#/profiles?id=nokoyawa) |
@@ -186,21 +204,3 @@ _last `200` posts_
 | 2023-07-06 | [`https://asicamericas.com/`](https://google.com/search?q=https%3A%2F%2Fasicamericas.com%2F) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2023-07-05 | [`http://zootampa.org`](https://google.com/search?q=http%3A%2F%2Fzootampa.org) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2023-07-05 | [`Avalign Technologies`](https://google.com/search?q=Avalign+Technologies) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
-| 2023-07-05 | [`Portugal Scotturb Data Leaked`](https://google.com/search?q=Portugal+Scotturb+Data+Leaked) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
-| 2023-07-05 | [`Murphy`](https://google.com/search?q=Murphy) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2023-07-05 | [`guestgroup.com.au`](https://google.com/search?q=guestgroup.com.au) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-07-05 | [`recamlaser.com`](https://google.com/search?q=recamlaser.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-07-05 | [`mitr.com`](https://google.com/search?q=mitr.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-07-05 | [`eurosupport.com`](https://google.com/search?q=eurosupport.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-07-04 | [`Hoosier Equipment company`](https://google.com/search?q=Hoosier+Equipment+company) | [ransomblog_noname](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomblog_noname) |
-| 2023-07-04 | [`Tour Partner Group`](https://google.com/search?q=Tour+Partner+Group) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
-| 2023-07-04 | [`Yunus Emre Institute Turkey`](https://google.com/search?q=Yunus+Emre+Institute+Turkey) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
-| 2023-07-04 | [`Polanglo`](https://google.com/search?q=Polanglo) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-07-03 | [`TSMC.com`](https://google.com/search?q=TSMC.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-07-03 | [`Jefferson County Health Center`](https://google.com/search?q=Jefferson+County+Health+Center) | [karakurt](https://ransomwatch.telemetry.ltd/#/profiles?id=karakurt) |
-| 2023-07-03 | [`**** I******** *********`](https://google.com/search?q=%2A%2A%2A%2A+I%2A%2A%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2023-07-03 | [`snjb.net`](https://google.com/search?q=snjb.net) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-07-03 | [`oneexchangecorp.com`](https://google.com/search?q=oneexchangecorp.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-07-03 | [`Townsquare Media Inc`](https://google.com/search?q=Townsquare+Media+Inc) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-07-03 | [`Duncan Disability Law`](https://google.com/search?q=Duncan+Disability+Law) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-07-03 | [`Mutuelle LMP`](https://google.com/search?q=Mutuelle+LMP) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
