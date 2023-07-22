@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-07-22 | [`Siden & Associates Press Release`](https://google.com/search?q=Siden+%26+Associates+Press+Release) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
+| 2023-07-22 | [`Hungarian Investment Promotion Agency Press Release`](https://google.com/search?q=Hungarian+Investment+Promotion+Agency+Press+Release) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2023-07-22 | [`Samson Electric`](https://google.com/search?q=Samson+Electric) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-07-21 | [`Caterham High School`](https://google.com/search?q=Caterham+High+School) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2023-07-21 | [`Azimut.it`](https://google.com/search?q=Azimut.it) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-07-06 | [`A** **************`](https://google.com/search?q=A%2A%2A+%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-07-06 | [`siegfried.com.mx`](https://google.com/search?q=siegfried.com.mx) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-07-06 | [`gacegypt.net`](https://google.com/search?q=gacegypt.net) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-07-06 | [`cls-group.com`](https://google.com/search?q=cls-group.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-07-06 | [`chasc.org`](https://google.com/search?q=chasc.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
