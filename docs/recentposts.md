@@ -4,6 +4,10 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-07-24 | [`https://www.zoominfo.com/c/it-luggage-ltd/356677571`](https://google.com/search?q=https%3A%2F%2Fwww.zoominfo.com%2Fc%2Fit-luggage-ltd%2F356677571) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
+| 2023-07-24 | [`John Mulder Heating & Air Conditioning`](https://google.com/search?q=John+Mulder+Heating+%26+Air+Conditioning) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-07-24 | [`Scharco Elektronik`](https://google.com/search?q=Scharco+Elektronik) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-07-24 | [`Primoteq`](https://google.com/search?q=Primoteq) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-07-24 | [`SBM`](https://google.com/search?q=SBM) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-07-24 | [`Grupo MH`](https://google.com/search?q=Grupo+MH) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-07-24 | [`FERRE BARNIEDO`](https://google.com/search?q=FERRE+BARNIEDO) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -200,7 +204,3 @@ _last `200` posts_
 | 2023-07-09 | [`JANUS Research Group`](https://google.com/search?q=JANUS+Research+Group) | [donutleaks](https://ransomwatch.telemetry.ltd/#/profiles?id=donutleaks) |
 | 2023-07-09 | [`Garden Hotel NARITA`](https://google.com/search?q=Garden+Hotel+NARITA) | [donutleaks](https://ransomwatch.telemetry.ltd/#/profiles?id=donutleaks) |
 | 2023-07-09 | [`Montgomery General Hospital`](https://google.com/search?q=Montgomery+General+Hospital) | [donutleaks](https://ransomwatch.telemetry.ltd/#/profiles?id=donutleaks) |
-| 2023-07-09 | [`Nabtesco Motion Control`](https://google.com/search?q=Nabtesco+Motion+Control) | [donutleaks](https://ransomwatch.telemetry.ltd/#/profiles?id=donutleaks) |
-| 2023-07-09 | [`UnitedLex.com`](https://google.com/search?q=UnitedLex.com) | [donutleaks](https://ransomwatch.telemetry.ltd/#/profiles?id=donutleaks) |
-| 2023-07-09 | [`The Travel Network Group`](https://google.com/search?q=The+Travel+Network+Group) | [donutleaks](https://ransomwatch.telemetry.ltd/#/profiles?id=donutleaks) |
-| 2023-07-09 | [`Jacklyn Dawson Solicitors`](https://google.com/search?q=Jacklyn+Dawson+Solicitors) | [donutleaks](https://ransomwatch.telemetry.ltd/#/profiles?id=donutleaks) |
