@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-07-24 | [`Charles & Colvard Lt d.`](https://google.com/search?q=Charles+%26+Colvard+Lt+d.) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
+| 2023-07-24 | [`El Milagro`](https://google.com/search?q=El+Milagro) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
+| 2023-07-24 | [`dynamite`](https://google.com/search?q=dynamite) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
 | 2023-07-24 | [`ICT-College`](https://google.com/search?q=ICT-College) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2023-07-24 | [`IRIS Informatique`](https://google.com/search?q=IRIS+Informatique) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2023-07-24 | [`EJM Engineered Systems`](https://google.com/search?q=EJM+Engineered+Systems) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2023-07-08 | [`Tracker de Colombia SAS`](https://google.com/search?q=Tracker+de+Colombia+SAS) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-07-08 | [`ewewwe`](https://google.com/search?q=ewewwe) | [mallox](https://ransomwatch.telemetry.ltd/#/profiles?id=mallox) |
 | 2023-07-07 | [`Industrial Heat Transfer (iht-inc.com)`](https://google.com/search?q=Industrial+Heat+Transfer+%28iht-inc.com%29) | [rancoz](https://ransomwatch.telemetry.ltd/#/profiles?id=rancoz) |
-| 2023-07-07 | [`Lane Valente Industries`](https://google.com/search?q=Lane+Valente+Industries) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-07-07 | [`New Century Advisors, LLC`](https://google.com/search?q=New+Century+Advisors%2C+LLC) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-07-07 | [`ROBERT L BAYLESS PRODUCER LLC`](https://google.com/search?q=ROBERT+L+BAYLESS+PRODUCER+LLC) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
