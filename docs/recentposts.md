@@ -4,6 +4,10 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-07-24 | [`SBM`](https://google.com/search?q=SBM) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
+| 2023-07-24 | [`Grupo MH`](https://google.com/search?q=Grupo+MH) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-07-24 | [`FERRE BARNIEDO`](https://google.com/search?q=FERRE+BARNIEDO) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-07-24 | [`https://www.bionpharma.com`](https://google.com/search?q=https%3A%2F%2Fwww.bionpharma.com) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2023-07-24 | [`Charles & Colvard Lt d.`](https://google.com/search?q=Charles+%26+Colvard+Lt+d.) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-07-24 | [`El Milagro`](https://google.com/search?q=El+Milagro) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-07-24 | [`dynamite`](https://google.com/search?q=dynamite) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
@@ -200,7 +204,3 @@ _last `200` posts_
 | 2023-07-09 | [`UnitedLex.com`](https://google.com/search?q=UnitedLex.com) | [donutleaks](https://ransomwatch.telemetry.ltd/#/profiles?id=donutleaks) |
 | 2023-07-09 | [`The Travel Network Group`](https://google.com/search?q=The+Travel+Network+Group) | [donutleaks](https://ransomwatch.telemetry.ltd/#/profiles?id=donutleaks) |
 | 2023-07-09 | [`Jacklyn Dawson Solicitors`](https://google.com/search?q=Jacklyn+Dawson+Solicitors) | [donutleaks](https://ransomwatch.telemetry.ltd/#/profiles?id=donutleaks) |
-| 2023-07-09 | [`Peroni Pompe`](https://google.com/search?q=Peroni+Pompe) | [donutleaks](https://ransomwatch.telemetry.ltd/#/profiles?id=donutleaks) |
-| 2023-07-08 | [`Tracker de Colombia SAS`](https://google.com/search?q=Tracker+de+Colombia+SAS) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
-| 2023-07-08 | [`ewewwe`](https://google.com/search?q=ewewwe) | [mallox](https://ransomwatch.telemetry.ltd/#/profiles?id=mallox) |
-| 2023-07-07 | [`Industrial Heat Transfer (iht-inc.com)`](https://google.com/search?q=Industrial+Heat+Transfer+%28iht-inc.com%29) | [rancoz](https://ransomwatch.telemetry.ltd/#/profiles?id=rancoz) |
