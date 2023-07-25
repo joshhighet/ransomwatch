@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-07-25 | [`Becht Engineering`](https://google.com/search?q=Becht+Engineering) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-07-25 | [`The Sinbad Club`](https://google.com/search?q=The+Sinbad+Club) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-07-25 | [`ridgeviewindustries.com`](https://google.com/search?q=ridgeviewindustries.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-07-25 | [`Republic.bz`](https://google.com/search?q=Republic.bz) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-07-09 | [`ALTARGRUP`](https://google.com/search?q=ALTARGRUP) | [cyclops](https://ransomwatch.telemetry.ltd/#/profiles?id=cyclops) |
 | 2023-07-09 | [`Atherfield Medical Service`](https://google.com/search?q=Atherfield+Medical+Service) | [cyclops](https://ransomwatch.telemetry.ltd/#/profiles?id=cyclops) |
 | 2023-07-09 | [`www.doesburg-comp.nl`](https://google.com/search?q=www.doesburg-comp.nl) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
-| 2023-07-09 | [`www.castec.com`](https://google.com/search?q=www.castec.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
