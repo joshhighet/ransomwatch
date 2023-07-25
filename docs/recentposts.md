@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-07-25 | [`de----int`](https://google.com/search?q=de----int) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
 | 2023-07-25 | [`Spectra Industrial`](https://google.com/search?q=Spectra+Industrial) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-07-25 | [`Miranda Brokerage`](https://google.com/search?q=Miranda+Brokerage) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-07-25 | [`Institut Mensalus S.L.`](https://google.com/search?q=Institut+Mensalus+S.L.) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-07-10 | [`Hollywood Forever`](https://google.com/search?q=Hollywood+Forever) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2023-07-10 | [`Ayuntamiento de Arganda City Council`](https://google.com/search?q=Ayuntamiento+de+Arganda+City+Council) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2023-07-10 | [`leeindustries.com`](https://google.com/search?q=leeindustries.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-07-10 | [`BM GROUP POLYTEC S.p.A.`](https://google.com/search?q=BM+GROUP+POLYTEC+S.p.A.) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
