@@ -4,6 +4,14 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-07-25 | [`Spectra Industrial`](https://google.com/search?q=Spectra+Industrial) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2023-07-25 | [`Miranda Brokerage`](https://google.com/search?q=Miranda+Brokerage) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2023-07-25 | [`Institut Mensalus S.L.`](https://google.com/search?q=Institut+Mensalus+S.L.) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2023-07-25 | [`Kersey &amp;amp; Co`](https://google.com/search?q=Kersey+%26amp%3Bamp%3B+Co) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2023-07-25 | [`FANSIPAN CONSTRUCTION CONSULTANTS CO.,LTD`](https://google.com/search?q=FANSIPAN+CONSTRUCTION+CONSULTANTS+CO.%2CLTD) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2023-07-25 | [`DV8 Technology Group`](https://google.com/search?q=DV8+Technology+Group) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2023-07-25 | [`CROWD`](https://google.com/search?q=CROWD) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2023-07-25 | [`BoomData - Data &amp;amp; Analytics Consultancy`](https://google.com/search?q=BoomData+-+Data+%26amp%3Bamp%3B+Analytics+Consultancy) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-07-25 | [`rampi.com`](https://google.com/search?q=rampi.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-07-25 | [`bsb-steuerberatung.de`](https://google.com/search?q=bsb-steuerberatung.de) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2023-07-25 | [`Becht Engineering`](https://google.com/search?q=Becht+Engineering) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
@@ -196,11 +204,3 @@ _last `200` posts_
 | 2023-07-10 | [`Ayuntamiento de Arganda City Council`](https://google.com/search?q=Ayuntamiento+de+Arganda+City+Council) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2023-07-10 | [`leeindustries.com`](https://google.com/search?q=leeindustries.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-07-10 | [`BM GROUP POLYTEC S.p.A.`](https://google.com/search?q=BM+GROUP+POLYTEC+S.p.A.) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2023-07-09 | [`Garuda Indonesia`](https://google.com/search?q=Garuda+Indonesia) | [mallox](https://ransomwatch.telemetry.ltd/#/profiles?id=mallox) |
-| 2023-07-09 | [`roys.co.uk`](https://google.com/search?q=roys.co.uk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-07-09 | [`Bunn`](https://google.com/search?q=Bunn) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2023-07-09 | [`Evergreen Seamless Pipes and Tubes`](https://google.com/search?q=Evergreen+Seamless+Pipes+and+Tubes) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2023-07-09 | [`M****** *****`](https://google.com/search?q=M%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2023-07-09 | [`Cabra Consulting Ltd`](https://google.com/search?q=Cabra+Consulting+Ltd) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-07-09 | [`Guatemala Military Intelligence Directorate`](https://google.com/search?q=Guatemala+Military+Intelligence+Directorate) | [cyclops](https://ransomwatch.telemetry.ltd/#/profiles?id=cyclops) |
-| 2023-07-09 | [`ALTARGRUP`](https://google.com/search?q=ALTARGRUP) | [cyclops](https://ransomwatch.telemetry.ltd/#/profiles?id=cyclops) |
