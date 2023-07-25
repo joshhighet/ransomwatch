@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-07-25 | [`rampi.com`](https://google.com/search?q=rampi.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
+| 2023-07-25 | [`bsb-steuerberatung.de`](https://google.com/search?q=bsb-steuerberatung.de) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2023-07-25 | [`Becht Engineering`](https://google.com/search?q=Becht+Engineering) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-07-25 | [`The Sinbad Club`](https://google.com/search?q=The+Sinbad+Club) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-07-25 | [`ridgeviewindustries.com`](https://google.com/search?q=ridgeviewindustries.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-07-09 | [`Cabra Consulting Ltd`](https://google.com/search?q=Cabra+Consulting+Ltd) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-07-09 | [`Guatemala Military Intelligence Directorate`](https://google.com/search?q=Guatemala+Military+Intelligence+Directorate) | [cyclops](https://ransomwatch.telemetry.ltd/#/profiles?id=cyclops) |
 | 2023-07-09 | [`ALTARGRUP`](https://google.com/search?q=ALTARGRUP) | [cyclops](https://ransomwatch.telemetry.ltd/#/profiles?id=cyclops) |
-| 2023-07-09 | [`Atherfield Medical Service`](https://google.com/search?q=Atherfield+Medical+Service) | [cyclops](https://ransomwatch.telemetry.ltd/#/profiles?id=cyclops) |
-| 2023-07-09 | [`www.doesburg-comp.nl`](https://google.com/search?q=www.doesburg-comp.nl) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
