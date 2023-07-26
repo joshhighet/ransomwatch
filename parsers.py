@@ -949,7 +949,7 @@ def abyss():
 def moneymessage():
     stdlog('parser: ' + 'moneymessage')
     parser = '''
-    cat source/moneymessage-*.html | jq '.name' -r || true
+    cat source/moneymessage-*.html | jq -r 'map(select(.data.name != null) | .data.name) | join(" ")' || true
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
@@ -960,7 +960,7 @@ def moneymessage():
 def dunghill_leak():
     stdlog('parser: ' + 'dunghill_leak')
     parser = '''
-    grep '<div class="block-heading pt-4 mt-5">' source/dunghill_leak-*.html -A 1 | grep -v '<div class="block-heading pt-4 mt-5">' | sed -e 's/^ *//g' -e 's/[[:space:]]*$//'
+    grep -C 1 '<div class="ibody_title">' source/dunghill_leak-*.html | grep -v '</div>' | grep -v '<div class="ibody_title">' | grep -v '\-\-' | sed -e 's/^ *//g' -e 's/[[:space:]]*$//'
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
