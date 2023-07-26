@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-07-26 | [`Kersey  CO`](https://google.com/search?q=Kersey++CO) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-07-26 | [`The Big Life group`](https://google.com/search?q=The+Big+Life+group) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2023-07-26 | [`BoomData -Data and Analytics Consultancy`](https://google.com/search?q=BoomData+-Data+and+Analytics+Consultancy) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-07-26 | [`Sysco Corporation`](https://google.com/search?q=Sysco+Corporation) | [dunghill_leak](https://ransomwatch.telemetry.ltd/#/profiles?id=dunghill_leak) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-07-11 | [`Motor Components, LLC`](https://google.com/search?q=Motor+Components%2C+LLC) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-07-11 | [`gis4.addison-il`](https://google.com/search?q=gis4.addison-il) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
 | 2023-07-10 | [`Customer Elation - Business Information`](https://google.com/search?q=Customer+Elation+-+Business+Information) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
-| 2023-07-10 | [`Hamre Schumann Muell er & Larson HSML`](https://google.com/search?q=Hamre+Schumann+Muell+er+%26+Larson+HSML) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
