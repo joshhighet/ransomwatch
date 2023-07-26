@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-07-26 | [`Azimut - Time of publication!`](https://google.com/search?q=Azimut+-+Time+of+publication%21) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-07-26 | [`important information（Knight）`](https://google.com/search?q=important+information%EF%BC%88Knight%EF%BC%89) | [cyclops](https://ransomwatch.telemetry.ltd/#/profiles?id=cyclops) |
 | 2023-07-26 | [`Globacom Limited`](https://google.com/search?q=Globacom+Limited) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-07-26 | [`CF Assicurazioni`](https://google.com/search?q=CF+Assicurazioni) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-07-11 | [`A123 Systems`](https://google.com/search?q=A123+Systems) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-07-11 | [`microport.com`](https://google.com/search?q=microport.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2023-07-11 | [`panoramaeyecare.com`](https://google.com/search?q=panoramaeyecare.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-07-11 | [`Pesquera Diamante S.A.`](https://google.com/search?q=Pesquera+Diamante+S.A.) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
