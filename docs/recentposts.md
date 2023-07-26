@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-07-26 | [`Globacom Limited`](https://google.com/search?q=Globacom+Limited) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
+| 2023-07-26 | [`CF Assicurazioni`](https://google.com/search?q=CF+Assicurazioni) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-07-26 | [`www.ville-chevilly-larue.fr`](https://google.com/search?q=www.ville-chevilly-larue.fr) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-07-26 | [`www.beijer.es`](https://google.com/search?q=www.beijer.es) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-07-26 | [`www.addison-electronique.com`](https://google.com/search?q=www.addison-electronique.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-07-11 | [`panoramaeyecare.com`](https://google.com/search?q=panoramaeyecare.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-07-11 | [`Pesquera Diamante S.A.`](https://google.com/search?q=Pesquera+Diamante+S.A.) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-07-11 | [`Weitkamp · Hirsch and Kollegen Steuerberatungsgesellschaft mbH`](https://google.com/search?q=Weitkamp+%C2%B7+Hirsch+and+Kollegen+Steuerberatungsgesellschaft+mbH) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-07-11 | [`Kansas medical center LLC`](https://google.com/search?q=Kansas+medical+center+LLC) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-07-11 | [`Danbury Public Schools`](https://google.com/search?q=Danbury+Public+Schools) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
