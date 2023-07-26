@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-07-26 | [`Lumberton Independent School District`](https://google.com/search?q=Lumberton+Independent+School+District) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
+| 2023-07-26 | [`Kovair Software`](https://google.com/search?q=Kovair+Software) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2023-07-26 | [`Kersey  CO`](https://google.com/search?q=Kersey++CO) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-07-26 | [`The Big Life group`](https://google.com/search?q=The+Big+Life+group) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2023-07-26 | [`BoomData -Data and Analytics Consultancy`](https://google.com/search?q=BoomData+-Data+and+Analytics+Consultancy) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-07-11 | [`Advanced Fiberglass Industries`](https://google.com/search?q=Advanced+Fiberglass+Industries) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-07-11 | [`Citelis Mobility`](https://google.com/search?q=Citelis+Mobility) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-07-11 | [`Motor Components, LLC`](https://google.com/search?q=Motor+Components%2C+LLC) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-07-11 | [`gis4.addison-il`](https://google.com/search?q=gis4.addison-il) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
-| 2023-07-10 | [`Customer Elation - Business Information`](https://google.com/search?q=Customer+Elation+-+Business+Information) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
