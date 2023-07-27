@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-07-27 | [`Offutt Nord`](https://google.com/search?q=Offutt+Nord) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-07-27 | [`West Cargo`](https://google.com/search?q=West+Cargo) | [mallox](https://ransomwatch.telemetry.ltd/#/profiles?id=mallox) |
 | 2023-07-27 | [`scmh.org.tw`](https://google.com/search?q=scmh.org.tw) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-07-26 | [`Azimut - Time of publication!`](https://google.com/search?q=Azimut+-+Time+of+publication%21) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-07-11 | [`Murfreesboro Medical Clinic`](https://google.com/search?q=Murfreesboro+Medical+Clinic) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-07-11 | [`mamboafricaadventure`](https://google.com/search?q=mamboafricaadventure) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
 | 2023-07-11 | [`Nipun Consultancy `](https://google.com/search?q=Nipun+Consultancy+) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
-| 2023-07-11 | [`A123 Systems`](https://google.com/search?q=A123+Systems) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
