@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-07-28 | [`Regional Family Medicine`](https://google.com/search?q=Regional+Family+Medicine) | [karakurt](https://ransomwatch.telemetry.ltd/#/profiles?id=karakurt) |
 | 2023-07-28 | [`Rouzbeh Educational Complex`](https://google.com/search?q=Rouzbeh+Educational+Complex) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2023-07-28 | [`McAlester Regional Health Center`](https://google.com/search?q=McAlester+Regional+Health+Center) | [karakurt](https://ransomwatch.telemetry.ltd/#/profiles?id=karakurt) |
 | 2023-07-27 | [`Protected: INSULCANA CONTRACTING LTD`](https://google.com/search?q=Protected%3A+INSULCANA+CONTRACTING+LTD) | [ransomblog_noname](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomblog_noname) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-07-12 | [`Amber Court 2020 was hacking. A lot of customers' personal information was stolen.`](https://google.com/search?q=Amber+Court+2020+was+hacking.+A+lot+of+customers%27+personal+information+was+stolen.) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-07-12 | [`Maruchan Inc`](https://google.com/search?q=Maruchan+Inc) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-07-12 | [`Schmidt Salzman & Mo ran, Ltd`](https://google.com/search?q=Schmidt+Salzman+%26+Mo+ran%2C+Ltd) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2023-07-12 | [`Wright Moore DeHart Dupuis & Hutchinson`](https://google.com/search?q=Wright+Moore+DeHart+Dupuis+%26+Hutchinson) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
