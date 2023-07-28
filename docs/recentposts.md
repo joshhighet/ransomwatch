@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-07-28 | [`Chu De Rennes`](https://google.com/search?q=Chu+De+Rennes) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2023-07-28 | [`CMC Marine`](https://google.com/search?q=CMC+Marine) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2023-07-28 | [`Dekko Window Systems`](https://google.com/search?q=Dekko+Window+Systems) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-07-28 | [`Regional Family Medicine`](https://google.com/search?q=Regional+Family+Medicine) | [karakurt](https://ransomwatch.telemetry.ltd/#/profiles?id=karakurt) |
 | 2023-07-28 | [`Rouzbeh Educational Complex`](https://google.com/search?q=Rouzbeh+Educational+Complex) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2023-07-28 | [`McAlester Regional Health Center`](https://google.com/search?q=McAlester+Regional+Health+Center) | [karakurt](https://ransomwatch.telemetry.ltd/#/profiles?id=karakurt) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2023-07-12 | [`Divgi-TTS was hacked. Due to the extreme low level of security, a huge amount of confident`](https://google.com/search?q=Divgi-TTS+was+hacked.+Due+to+the+extreme+low+level+of+security%2C+a+huge+amount+of+confident) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-07-12 | [`Eastin Hotel Makkasan Bangkok was hacked. Customers' financial and personal information ha`](https://google.com/search?q=Eastin+Hotel+Makkasan+Bangkok+was+hacked.+Customers%27+financial+and+personal+information+ha) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-07-12 | [`Algeiba.com has a critical level of security on its network. Customer and partner data is `](https://google.com/search?q=Algeiba.com+has+a+critical+level+of+security+on+its+network.+Customer+and+partner+data+is+) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-07-12 | [`Amber Court 2020 was hacking. A lot of customers' personal information was stolen.`](https://google.com/search?q=Amber+Court+2020+was+hacking.+A+lot+of+customers%27+personal+information+was+stolen.) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-07-12 | [`Maruchan Inc`](https://google.com/search?q=Maruchan+Inc) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-07-12 | [`Schmidt Salzman & Mo ran, Ltd`](https://google.com/search?q=Schmidt+Salzman+%26+Mo+ran%2C+Ltd) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
