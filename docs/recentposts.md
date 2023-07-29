@@ -4,6 +4,11 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-07-29 | [`Muncy Homes`](https://google.com/search?q=Muncy+Homes) | [nokoyawa](https://ransomwatch.telemetry.ltd/#/profiles?id=nokoyawa) |
+| 2023-07-29 | [`AT%26S`](https://google.com/search?q=AT%2526S) | [nokoyawa](https://ransomwatch.telemetry.ltd/#/profiles?id=nokoyawa) |
+| 2023-07-29 | [`Village Church of Barrington`](https://google.com/search?q=Village+Church+of+Barrington) | [nokoyawa](https://ransomwatch.telemetry.ltd/#/profiles?id=nokoyawa) |
+| 2023-07-29 | [`Modern Eyez`](https://google.com/search?q=Modern+Eyez) | [nokoyawa](https://ransomwatch.telemetry.ltd/#/profiles?id=nokoyawa) |
+| 2023-07-29 | [`One Health Solutions`](https://google.com/search?q=One+Health+Solutions) | [nokoyawa](https://ransomwatch.telemetry.ltd/#/profiles?id=nokoyawa) |
 | 2023-07-29 | [`N** ******* ******`](https://google.com/search?q=N%2A%2A+%2A%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-07-29 | [`Axity`](https://google.com/search?q=Axity) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2023-07-29 | [`Alinabal`](https://google.com/search?q=Alinabal) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
@@ -199,8 +204,3 @@ _last `200` posts_
 | 2023-07-13 | [`Ministerio de Cultura de la Republica de Cuba " STORMOUS + GhostSec "`](https://google.com/search?q=Ministerio+de+Cultura+de+la+Republica+de+Cuba+%22+STORMOUS+%2B+GhostSec+%22) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
 | 2023-07-13 | [`Ministry of Foreign Trade " STORMOUS + GhostSec "`](https://google.com/search?q=Ministry+of+Foreign+Trade+%22+STORMOUS+%2B+GhostSec+%22) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
 | 2023-07-13 | [`Ministry of Energy and Mines (Cuba) " STORMOUS + GhostSec "`](https://google.com/search?q=Ministry+of+Energy+and+Mines+%28Cuba%29+%22+STORMOUS+%2B+GhostSec+%22) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
-| 2023-07-12 | [`affinityhealthservices.ne`](https://google.com/search?q=affinityhealthservices.ne) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-07-12 | [`Tubes`](https://google.com/search?q=Tubes) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2023-07-12 | [`ATS Infrastructure`](https://google.com/search?q=ATS+Infrastructure) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2023-07-12 | [`Henock Construction`](https://google.com/search?q=Henock+Construction) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2023-07-12 | [`Lyon and Healy`](https://google.com/search?q=Lyon+and+Healy) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
