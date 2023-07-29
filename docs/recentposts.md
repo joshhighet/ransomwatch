@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-07-29 | [`Alinabal`](https://google.com/search?q=Alinabal) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
 | 2023-07-28 | [`ESMOD`](https://google.com/search?q=ESMOD) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2023-07-28 | [`Frost & Sullivan`](https://google.com/search?q=Frost+%26+Sullivan) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-07-28 | [`Chu De Rennes`](https://google.com/search?q=Chu+De+Rennes) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-07-12 | [`Lyon and Healy`](https://google.com/search?q=Lyon+and+Healy) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-07-12 | [`Mission Parks`](https://google.com/search?q=Mission+Parks) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-07-12 | [`innodisgroup.com`](https://google.com/search?q=innodisgroup.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
-| 2023-07-12 | [`Divgi-TTS was hacked. Due to the extreme low level of security, a huge amount of confident`](https://google.com/search?q=Divgi-TTS+was+hacked.+Due+to+the+extreme+low+level+of+security%2C+a+huge+amount+of+confident) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
