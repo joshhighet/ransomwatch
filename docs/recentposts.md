@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-07-30 | [`bluelinea`](https://google.com/search?q=bluelinea) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
+| 2023-07-30 | [`decimal-point-analytics-pvt`](https://google.com/search?q=decimal-point-analytics-pvt) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
 | 2023-07-29 | [`Muncy Homes`](https://google.com/search?q=Muncy+Homes) | [nokoyawa](https://ransomwatch.telemetry.ltd/#/profiles?id=nokoyawa) |
 | 2023-07-29 | [`AT%26S`](https://google.com/search?q=AT%2526S) | [nokoyawa](https://ransomwatch.telemetry.ltd/#/profiles?id=nokoyawa) |
 | 2023-07-29 | [`Village Church of Barrington`](https://google.com/search?q=Village+Church+of+Barrington) | [nokoyawa](https://ransomwatch.telemetry.ltd/#/profiles?id=nokoyawa) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-07-13 | [`ANL Packaging`](https://google.com/search?q=ANL+Packaging) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-07-13 | [`BTU`](https://google.com/search?q=BTU) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-07-13 | [`Ministerio de Cultura de la Republica de Cuba " STORMOUS + GhostSec "`](https://google.com/search?q=Ministerio+de+Cultura+de+la+Republica+de+Cuba+%22+STORMOUS+%2B+GhostSec+%22) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
-| 2023-07-13 | [`Ministry of Foreign Trade " STORMOUS + GhostSec "`](https://google.com/search?q=Ministry+of+Foreign+Trade+%22+STORMOUS+%2B+GhostSec+%22) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
-| 2023-07-13 | [`Ministry of Energy and Mines (Cuba) " STORMOUS + GhostSec "`](https://google.com/search?q=Ministry+of+Energy+and+Mines+%28Cuba%29+%22+STORMOUS+%2B+GhostSec+%22) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
