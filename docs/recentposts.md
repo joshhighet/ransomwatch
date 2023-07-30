@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-07-30 | [`Hungarian Investment Promotion Agency`](https://google.com/search?q=Hungarian+Investment+Promotion+Agency) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2023-07-30 | [`bluelinea`](https://google.com/search?q=bluelinea) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
 | 2023-07-30 | [`decimal-point-analytics-pvt`](https://google.com/search?q=decimal-point-analytics-pvt) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
 | 2023-07-29 | [`Muncy Homes`](https://google.com/search?q=Muncy+Homes) | [nokoyawa](https://ransomwatch.telemetry.ltd/#/profiles?id=nokoyawa) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-07-13 | [`Dental One Craigieburn`](https://google.com/search?q=Dental+One+Craigieburn) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-07-13 | [`ANL Packaging`](https://google.com/search?q=ANL+Packaging) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-07-13 | [`BTU`](https://google.com/search?q=BTU) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-07-13 | [`Ministerio de Cultura de la Republica de Cuba " STORMOUS + GhostSec "`](https://google.com/search?q=Ministerio+de+Cultura+de+la+Republica+de+Cuba+%22+STORMOUS+%2B+GhostSec+%22) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
