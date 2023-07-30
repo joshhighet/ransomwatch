@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-07-30 | [`Contec Systems`](https://google.com/search?q=Contec+Systems) | [mallox](https://ransomwatch.telemetry.ltd/#/profiles?id=mallox) |
 | 2023-07-30 | [`twv-staderland.de`](https://google.com/search?q=twv-staderland.de) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-07-30 | [`Hungarian Investment Promotion Agency`](https://google.com/search?q=Hungarian+Investment+Promotion+Agency) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2023-07-30 | [`bluelinea`](https://google.com/search?q=bluelinea) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-07-13 | [`Quikcard Solutions Inc.`](https://google.com/search?q=Quikcard+Solutions+Inc.) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-07-13 | [`Jadranka Group`](https://google.com/search?q=Jadranka+Group) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-07-13 | [`Dental One Craigieburn`](https://google.com/search?q=Dental+One+Craigieburn) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-07-13 | [`ANL Packaging`](https://google.com/search?q=ANL+Packaging) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
