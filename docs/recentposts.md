@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-07-31 | [`paretophone.com`](https://google.com/search?q=paretophone.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-07-31 | [`obrelli.it`](https://google.com/search?q=obrelli.it) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-07-31 | [`nbcc.org`](https://google.com/search?q=nbcc.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-07-31 | [`Great Opportunity to monetize your corporate access`](https://google.com/search?q=Great+Opportunity+to+monetize+your+corporate+access) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2023-07-31 | [`Announcement: Batesville Tool & Die, Inc will be leaked in 3 Days`](https://google.com/search?q=Announcement%3A+Batesville+Tool+%26+Die%2C+Inc+will+be+leaked+in+3+Days) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
 | 2023-07-31 | [`www.garac.com`](https://google.com/search?q=www.garac.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2023-07-15 | [`Highland Health Systems`](https://google.com/search?q=Highland+Health+Systems) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-07-14 | [`Ministry of Energy and Mines (Cuba) " STORMOUS +  GhostSec "`](https://google.com/search?q=Ministry+of+Energy+and+Mines+%28Cuba%29+%22+STORMOUS+%2B++GhostSec+%22) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
 | 2023-07-14 | [`Chin Hin Group`](https://google.com/search?q=Chin+Hin+Group) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-07-14 | [`Superloop ISP`](https://google.com/search?q=Superloop+ISP) | [cyclops](https://ransomwatch.telemetry.ltd/#/profiles?id=cyclops) |
-| 2023-07-14 | [`www.jordanairmotive.com`](https://google.com/search?q=www.jordanairmotive.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
-| 2023-07-14 | [`www.bsdc.ac.uk`](https://google.com/search?q=www.bsdc.ac.uk) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
