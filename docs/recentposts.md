@@ -4,6 +4,10 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-07-31 | [`TELNET Redes Inteligentes S.A.`](https://google.com/search?q=TELNET+Redes+Inteligentes+S.A.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2023-07-31 | [`Retail Information Systems`](https://google.com/search?q=Retail+Information+Systems) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2023-07-31 | [`westoaksschool.co.uk`](https://google.com/search?q=westoaksschool.co.uk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-07-31 | [`llombart.de`](https://google.com/search?q=llombart.de) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-07-31 | [`Ace Micromatic Group`](https://google.com/search?q=Ace+Micromatic+Group) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-07-31 | [`St Landry Parish School Board `](https://google.com/search?q=St+Landry+Parish+School+Board+) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-07-30 | [`Contec Systems`](https://google.com/search?q=Contec+Systems) | [mallox](https://ransomwatch.telemetry.ltd/#/profiles?id=mallox) |
@@ -200,7 +204,3 @@ _last `200` posts_
 | 2023-07-14 | [`Kenya Bureau Of Standards`](https://google.com/search?q=Kenya+Bureau+Of+Standards) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2023-07-14 | [`Snatch News`](https://google.com/search?q=Snatch+News) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
 | 2023-07-13 | [`Gerber Childrenswear LLC`](https://google.com/search?q=Gerber+Childrenswear+LLC) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2023-07-13 | [`Blackjewel L.L.C.`](https://google.com/search?q=Blackjewel+L.L.C.) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-07-13 | [`Telepizza`](https://google.com/search?q=Telepizza) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-07-13 | [`The Traffic Tech`](https://google.com/search?q=The+Traffic+Tech) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-07-13 | [`Quikcard Solutions Inc.`](https://google.com/search?q=Quikcard+Solutions+Inc.) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
