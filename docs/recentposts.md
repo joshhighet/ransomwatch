@@ -4,6 +4,10 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-07-31 | [`www.garac.com`](https://google.com/search?q=www.garac.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
+| 2023-07-31 | [`fushimitsu.com`](https://google.com/search?q=fushimitsu.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
+| 2023-07-31 | [`txmplant.co.uk`](https://google.com/search?q=txmplant.co.uk) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
+| 2023-07-31 | [`hydrex.co.uk`](https://google.com/search?q=hydrex.co.uk) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
 | 2023-07-31 | [`TELNET Redes Inteligentes S.A.`](https://google.com/search?q=TELNET+Redes+Inteligentes+S.A.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-07-31 | [`Retail Information Systems`](https://google.com/search?q=Retail+Information+Systems) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-07-31 | [`westoaksschool.co.uk`](https://google.com/search?q=westoaksschool.co.uk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -200,7 +204,3 @@ _last `200` posts_
 | 2023-07-14 | [`www.bsdc.ac.uk`](https://google.com/search?q=www.bsdc.ac.uk) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-07-14 | [`eyedoc.com.na`](https://google.com/search?q=eyedoc.com.na) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-07-14 | [`CPA Advisors Group`](https://google.com/search?q=CPA+Advisors+Group) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-07-14 | [`Info Salons`](https://google.com/search?q=Info+Salons) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-07-14 | [`Kenya Bureau Of Standards`](https://google.com/search?q=Kenya+Bureau+Of+Standards) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2023-07-14 | [`Snatch News`](https://google.com/search?q=Snatch+News) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
-| 2023-07-13 | [`Gerber Childrenswear LLC`](https://google.com/search?q=Gerber+Childrenswear+LLC) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
