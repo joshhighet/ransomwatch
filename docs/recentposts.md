@@ -4,6 +4,14 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-08-01 | [`Garage Living, The Dispenser USA`](https://google.com/search?q=Garage+Living%2C+The+Dispenser+USA) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-08-01 | [`Aapd`](https://google.com/search?q=Aapd) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-08-01 | [`Birch, Horton, Bittner & Cherot`](https://google.com/search?q=Birch%2C+Horton%2C+Bittner+%26+Cherot) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-08-01 | [`DAL-TECH Engineering`](https://google.com/search?q=DAL-TECH+Engineering) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-08-01 | [`Coral Resort`](https://google.com/search?q=Coral+Resort) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-08-01 | [`Professionnel France`](https://google.com/search?q=Professionnel+France) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-08-01 | [`ACTIVA Group`](https://google.com/search?q=ACTIVA+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-08-01 | [`Aquatlantis`](https://google.com/search?q=Aquatlantis) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-08-01 | [`Kogetsu`](https://google.com/search?q=Kogetsu) | [mallox](https://ransomwatch.telemetry.ltd/#/profiles?id=mallox) |
 | 2023-08-01 | [`Parathon by JDA eHea lth Systems`](https://google.com/search?q=Parathon+by+JDA+eHea+lth+Systems) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-08-01 | [`KIMCO Staffing Service`](https://google.com/search?q=KIMCO+Staffing+Service) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -196,11 +204,3 @@ _last `200` posts_
 | 2023-07-17 | [`Citta Nuova`](https://google.com/search?q=Citta+Nuova) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2023-07-17 | [`Venture Drilling Supply`](https://google.com/search?q=Venture+Drilling+Supply) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-07-17 | [`Hiberus Tecnología`](https://google.com/search?q=Hiberus+Tecnolog%C3%ADa) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2023-07-17 | [`Bitimen exchange`](https://google.com/search?q=Bitimen+exchange) | [arvinclub](https://ransomwatch.telemetry.ltd/#/profiles?id=arvinclub) |
-| 2023-07-16 | [`test.com`](https://google.com/search?q=test.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-07-16 | [`selmi.com.br`](https://google.com/search?q=selmi.com.br) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-07-16 | [`www.stri.se`](https://google.com/search?q=www.stri.se) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
-| 2023-07-16 | [`Baumschlager Hutter Partners - Business Information`](https://google.com/search?q=Baumschlager+Hutter+Partners+-+Business+Information) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-07-16 | [`www.arb.ch`](https://google.com/search?q=www.arb.ch) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
-| 2023-07-15 | [`magnumphotos.com`](https://google.com/search?q=magnumphotos.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-07-15 | [`equmedia.es`](https://google.com/search?q=equmedia.es) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
