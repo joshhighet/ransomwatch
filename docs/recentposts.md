@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-08-01 | [`MBS Equipment TTI`](https://google.com/search?q=MBS+Equipment+TTI) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2023-08-01 | [`Pea River Electric Cooperative`](https://google.com/search?q=Pea+River+Electric+Cooperative) | [nokoyawa](https://ransomwatch.telemetry.ltd/#/profiles?id=nokoyawa) |
 | 2023-08-01 | [`gerb.bg`](https://google.com/search?q=gerb.bg) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-08-01 | [`Jacklett Construction LLC`](https://google.com/search?q=Jacklett+Construction+LLC) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-08-01 | [`University of the West of Scotland`](https://google.com/search?q=University+of+the+West+of+Scotland) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-07-15 | [`co.langlade.wi.us`](https://google.com/search?q=co.langlade.wi.us) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-07-15 | [`province.namur.be`](https://google.com/search?q=province.namur.be) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-07-15 | [`konrad-mr.de`](https://google.com/search?q=konrad-mr.de) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-07-15 | [`hgc.com.hk`](https://google.com/search?q=hgc.com.hk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-07-15 | [`greatlakesmbpm.com`](https://google.com/search?q=greatlakesmbpm.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
