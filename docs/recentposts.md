@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-08-01 | [`Parathon by JDA eHea lth Systems`](https://google.com/search?q=Parathon+by+JDA+eHea+lth+Systems) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
+| 2023-08-01 | [`KIMCO Staffing Service`](https://google.com/search?q=KIMCO+Staffing+Service) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-08-01 | [`MBS Equipment TTI`](https://google.com/search?q=MBS+Equipment+TTI) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-08-01 | [`Pea River Electric Cooperative`](https://google.com/search?q=Pea+River+Electric+Cooperative) | [nokoyawa](https://ransomwatch.telemetry.ltd/#/profiles?id=nokoyawa) |
 | 2023-08-01 | [`gerb.bg`](https://google.com/search?q=gerb.bg) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-07-15 | [`magnumphotos.com`](https://google.com/search?q=magnumphotos.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-07-15 | [`equmedia.es`](https://google.com/search?q=equmedia.es) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-07-15 | [`co.langlade.wi.us`](https://google.com/search?q=co.langlade.wi.us) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-07-15 | [`province.namur.be`](https://google.com/search?q=province.namur.be) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-07-15 | [`konrad-mr.de`](https://google.com/search?q=konrad-mr.de) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
