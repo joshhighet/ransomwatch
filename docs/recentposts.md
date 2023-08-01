@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-08-01 | [`Jacklett Construction LLC`](https://google.com/search?q=Jacklett+Construction+LLC) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-08-01 | [`University of the West of Scotland`](https://google.com/search?q=University+of+the+West+of+Scotland) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2023-08-01 | [`persingerlaw.com`](https://google.com/search?q=persingerlaw.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-08-01 | [`newtonit.co.uk`](https://google.com/search?q=newtonit.co.uk) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-07-15 | [`hgc.com.hk`](https://google.com/search?q=hgc.com.hk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-07-15 | [`greatlakesmbpm.com`](https://google.com/search?q=greatlakesmbpm.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-07-15 | [`energym.co.il`](https://google.com/search?q=energym.co.il) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-07-15 | [`jasperpictures`](https://google.com/search?q=jasperpictures) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
