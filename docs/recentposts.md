@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-08-02 | [`www.gruposca.com`](https://google.com/search?q=www.gruposca.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-08-02 | [`TGRWA`](https://google.com/search?q=TGRWA) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-08-02 | [`Guido`](https://google.com/search?q=Guido) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-08-02 | [`COSI`](https://google.com/search?q=COSI) | [karakurt](https://ransomwatch.telemetry.ltd/#/profiles?id=karakurt) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-07-18 | [`Seasia Infotech`](https://google.com/search?q=Seasia+Infotech) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
 | 2023-07-18 | [`Ningbo Joyson Electronic Corp.`](https://google.com/search?q=Ningbo+Joyson+Electronic+Corp.) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
 | 2023-07-18 | [`Wasserstrom`](https://google.com/search?q=Wasserstrom) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
-| 2023-07-17 | [`Protected: Hidden name`](https://google.com/search?q=Protected%3A+Hidden+name) | [ransomblog_noname](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomblog_noname) |
