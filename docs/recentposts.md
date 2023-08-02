@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-08-02 | [`TGRWA`](https://google.com/search?q=TGRWA) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
+| 2023-08-02 | [`Guido`](https://google.com/search?q=Guido) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-08-02 | [`COSI`](https://google.com/search?q=COSI) | [karakurt](https://ransomwatch.telemetry.ltd/#/profiles?id=karakurt) |
 | 2023-08-02 | [`Bickel & Brewer - Press Release`](https://google.com/search?q=Bickel+%26+Brewer+-+Press+Release) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2023-08-02 | [`University of Salerno`](https://google.com/search?q=University+of+Salerno) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-07-18 | [`Ningbo Joyson Electronic Corp.`](https://google.com/search?q=Ningbo+Joyson+Electronic+Corp.) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
 | 2023-07-18 | [`Wasserstrom`](https://google.com/search?q=Wasserstrom) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
 | 2023-07-17 | [`Protected: Hidden name`](https://google.com/search?q=Protected%3A+Hidden+name) | [ransomblog_noname](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomblog_noname) |
-| 2023-07-17 | [`johnreilly.co.uk`](https://google.com/search?q=johnreilly.co.uk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-07-17 | [`hopetech.com`](https://google.com/search?q=hopetech.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
