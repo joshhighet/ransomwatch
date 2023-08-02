@@ -11,3 +11,426 @@
 <body>
 <div class="wrapper">
     
+<div id="UUID" class="mainModal">
+    <div class="modalUUID">
+        <a href="" title="Close" class="close">X</a>
+        <h2>ENTER UUID</h2>
+        <p>
+            To contact us, you must enter your personal UUID in the field below and press ENTER.
+            After logging in, you will receive detailed information about your company.
+        </p>
+        <form action="" method="post">
+            <input
+                    class="uuid-input"
+                    name="uuid"
+                    type="text"
+                    minlength="20"
+                    required
+                    placeholder="XXXX-XXXX-XXXX-XXXX"
+            />
+            <input type="hidden" name="uuid_redirect">
+            <input type="submit" value="ENTER" />
+        </form>
+        <p class="gotofb">
+            If you do not have UUID, please contact via the
+            <a href="#feedback">feedback</a> form
+        </p>
+    </div>
+</div>
+<div id="feedback" class="mainModal">
+    <div class="modalFeedback">
+        <a href="#close" title="Закрыть" class="close">X</a>
+        <h2>Feedback</h2>
+        <p>
+            If you are the owner of the company you can leave your contact details and you will be provided with a UUID to enter the chat. If you are a media outlet, leave your contacts and we will contact you very soon.
+        </p>
+        <form action="" method="post">
+            <input
+                    name="feedback-name"
+                    required
+                    autocomplete="on"
+                    id="1"
+                    type="text"
+                    placeholder="Your name"
+            />
+            <input
+                    id="2"
+                    required
+                    name="feedback-contacts"
+                    autocomplete="on"
+                    type="email"
+                    placeholder="Your email"
+            />
+            <textarea
+                    name="feedback-message"
+                    required
+                    id="3"
+                    cols="30"
+                    rows="4"
+                    minlength="20"
+                    placeholder="Your message"
+            ></textarea>
+            <img src="data:image/jpeg;base64,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" alt="Enable images to see captcha" width="200" height="60"/>
+            <input
+                    name="captcha"
+                    required
+                    id="captcha"
+                    type="text"
+                    placeholder="Complete captcha"
+            />
+            <input type="hidden" name="gc_value" value="$2y$10$HyJwdHA6hmfzj8nmeL/IWuqRGOxDlhXTlEtCW0zBG85EiBNoCpie2">
+            <input type="hidden" name="feedback_form">
+            <input type="submit" value="SEND" />
+        </form>
+    </div>
+</div>
+<div id="public_notice" class="mainModal">
+    <div class="modalNotice">
+        <a href="" title="Close" class="close">X</a>
+        <h2>Public notice</h2>
+        <p>
+            — I ain't fucking buying that.
+        </p>
+		<p>
+            — That's handy because I ain't fucking selling it. It's a fact.
+        </p>
+		<p>
+            by Guy Ritchie
+        </p>
+        <br>
+        <p>
+            1. Snatch is a leakage data base open for public use.
+        </p>
+        <p>
+            2. Snatch does not assume any responsibility for the information and the methods of its acquisition.
+        </p>
+        <p>
+            3. Snatch is ready to cooperate with any groups and companies that provide exclusive information for its further publication. The information source should in that case refuse to carry any responsibility for this information.
+        </p>
+        <p>
+            4. Snatch is ready to publish information of any content and confidential level ignoring all the possible consequences.
+        </p>
+        <p>
+            5. All responsibility for the publications lies upon the persons who made the information leakage possible from the sources they have been entrusted with.
+        </p>
+        <p>
+            6. Snatch publishes personal data and contacts of the personalities who are responsible for  data leakage and made it possible.
+        </p>
+        <p>
+            7. All the information and data published on our resource is of public use and can be shared with similar resources – but the right of the first publication always belongs to the Snatch team.
+        </p>
+        <p>
+            8. Snatch is open to the collaboration with any media to make data leakage situations shared and visible to wide range of people.
+        </p>
+        <p>
+            9. Snatch is always open for a dialogue with the owners of the data and is willing to solve the situation. One can always contact us within the confidential chat room or with the help of feedback form.
+        </p>
+        <p>
+            10. All negotiations are possible only with the means of our chat platform and are kept absolutely confidential.
+        </p>
+        <p>
+            11. Snatch does not assume any responsibility for the data publication consequences and confidential data usage. All the responsibility lies upon those who made the data leakage possible.
+        </p>
+    </div>
+</div>
+<header>
+    <div class="container">
+        <div class="row">
+            <div class="header-content">
+                <div class="header-start">
+                    <a href="#UUID">
+                        <span>Enter UUID</span>
+                    </a>
+                    <a href="#feedback">
+                        <span>Feedback</span>
+                    </a>
+                    <a href="#public_notice">
+                        <span>Public notice</span>
+                    </a>
+                </div>
+                <div class="header-end">
+                    <div class="header-socials">
+                        <a href="https://t.me/snatch_info">
+                            <img src="../assets/images/telegram.svg" alt="telegram" />
+                        </a>
+                    </div>
+                    <div class="header-buttons">
+                        <button class="b_tor" onclick="window.location.href='http://hl66646wtlp2naoqnhattngigjp5palgqmbwixepcjyq5i534acgqyad.onion/';">TOR</button>
+                        <button class="b_web" onclick="window.location.href='https://snatchnews.top/';">WEB</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>    <main>
+        <div class="container">
+            <div class="row">
+                <div class="sub-header">
+                    <div class="sh-start">
+                        <a href="index.php"><img src="./assets/images/logo.png" alt="Logo" /></a>
+                    </div>
+                    <div class="sh-midle">
+                        <nav class="sh-midle-nav">
+                            <ul>
+                                <li class="sh-m-l"><a href="index.php?filter=new">New company</a></li><li class="sh-m-l"><a href="index.php?filter=full">Full data</a></li><li class="sh-m-l"><a href="index.php?filter=archive">Archive</a></li>                            </ul>
+                        </nav>
+                    </div>
+                    <div class="sh-end">
+                        <form class="news-search" method="post">
+                            <input
+                                    class="news-search_input"
+                                    type="text"
+                                    placeholder="Search for company..."
+                                    name="search"
+                            />
+                            <button class="news-search_button" type="submit">
+                                <img src="./assets/images/n-search.svg" alt="" />
+                            </button>
+                        </form>
+                    </div>
+                </div>
+                <div id="information_block">
+                    <div class="two-col-grid">
+                        <div class="grid-item">
+                            <div id='info_block'><p><p><strong> Attention!</strong><br></p>
+<ul><strong>All negotiations are conducted in the chat of our service.</strong></ul>
+<ul><strong>All other attempts to negotiate on our behalf, with the exception of initial calls to companies, are fraudulent. </strong></ul>
+<ul><strong>If you pay fraudsters, we do not accept any responsibility for their actions and will not comply with the terms of the contracts concluded by you.</p></div>                        </div>
+                        <div class="grid-item">
+                            <div id="info_block">
+                                <p></p>
+                                <p>Your presence at this page means that we obtain your sensitive information and in case of your silence and refuse to bear responsibility all this data will be published no matter how important and confidential it is. </p>
+                             
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="m-main-content"><div class="m-c-main">
+<div class="ann-block"><div class="a-b-head"><div class="a-b-h-typedata">New</div><div class="a-b-h-time">Jul 29, 2023 12:58 AM</div><div class="a-b-h-views-count d-flex"><img src="./assets/images/views-count.svg" alt="" /><p class="a-b-h-v-c-views">8636</p></div></div><div class="a-b-name"><div class="a-b-n-name">Alinabal</div></div><div class="a-b-text">Alinabal is a broadly diversified manufacturer with history reaching as far back as 1913 when it supplied laminated materials for the Model T Ford.
+Today, through its four distinct business units, Alinabal is a leading manufacturer of a diverse span of products from precision stampings and</div><div class="a-b-bottom"><div class="a-b-b-tags"></div><div class="a-b-b-readmore"><a href="#" class="a-b-b-r-link"><button class="a-b-b-r-l-button" onclick="window.location='news.php?id=9d0d0022-dd50-4b66-bc21-6be235da4d12'"><p class="a-b-b-r-l-b-text">Read more</p><img class="a-b-b-r-l-b-img" src="./assets/images/readmore-arrow.svg" alt="arrow"/></button></a></div></div></div><div class="ann-block"><div class="a-b-head"><div class="a-b-h-typedata">Full Data</div><div class="a-b-h-time">Jul 29, 2023 12:57 AM</div><div class="a-b-h-views-count d-flex"><img src="./assets/images/views-count.svg" alt="" /><p class="a-b-h-v-c-views">121275</p></div></div><div class="a-b-name"><div class="a-b-n-name">Lawrence Family Development Charter School</div></div><div class="a-b-text">More information in our telegram channel t.me/snatch_info
+
+Persons responsible for data leakage:
+Karl Patricia:Founder
+(978) 689-9863 ext. 123;
+Easton Christine:Secondary School Coordinator
+(978) 738-0609 ext. 233;
+Hildt David:Director
+(978) 738-0609 ext. 258;
+Heithaus Paul:Director, Program Development
+(978) 224-8808 ext. 120;
+Schumann Tony:Technology Coordinator
+(978) 738-0609 ext. 229      
+tschumann@lfdef.org;
+Monegro Dilson:IT Help Desk</div><div class="a-b-bottom"><div class="a-b-b-tags"></div><div class="a-b-b-readmore"><a href="#" class="a-b-b-r-link"><button class="a-b-b-r-l-button" onclick="window.location='news.php?id=91532173-f5b9-4028-823c-392267307b71'"><p class="a-b-b-r-l-b-text">Read more</p><img class="a-b-b-r-l-b-img" src="./assets/images/readmore-arrow.svg" alt="arrow"/></button></a></div></div></div><div class="ann-block"><div class="a-b-head"><div class="a-b-h-typedata">Full Data</div><div class="a-b-h-time">Jul 29, 2023 12:57 AM</div><div class="a-b-h-views-count d-flex"><img src="./assets/images/views-count.svg" alt="" /><p class="a-b-h-v-c-views">91101</p></div></div><div class="a-b-name"><div class="a-b-n-name">Asia Vital Components</div><span class="a-b-n-tag">Data Added: 227 GB</span></div><div class="a-b-text">More information in our telegram channel t.me/snatch_info
+Persons responsible for data leakage:
+Wang Aliyah:Director
++886 2 2299 6930#7904 aliyah_wang@avc.com.tw;
+Lien Anderson:Group President, System Business
++86 769 8694 4888 ext. 65818 anderson@avc.co;
+Chen Zephyr:Director
++86 755 3366 8888 ext. 63594 zephyr_chen@avc.co;
+Teng Jimmy:System InformationTechnology Division
++86 151 1253 3328 jimmy_teng@avc.co;
+Dong Luda:Director
++86 755 3366 8888 ext.</div><div class="a-b-bottom"><div class="a-b-b-tags"></div><div class="a-b-b-readmore"><a href="#" class="a-b-b-r-link"><button class="a-b-b-r-l-button" onclick="window.location='news.php?id=6449a482-bdb3-4312-bd35-7e66da024ca3'"><p class="a-b-b-r-l-b-text">Read more</p><img class="a-b-b-r-l-b-img" src="./assets/images/readmore-arrow.svg" alt="arrow"/></button></a></div></div></div><div class="ann-block"><div class="a-b-head"><div class="a-b-h-typedata">Full Data</div><div class="a-b-h-time">Jul 21, 2023 12:39 AM</div><div class="a-b-h-views-count d-flex"><img src="./assets/images/views-count.svg" alt="" /><p class="a-b-h-v-c-views">99864</p></div></div><div class="a-b-name"><div class="a-b-n-name">IXPERTA</div><span class="a-b-n-tag">Data added: 300 GB</span></div><div class="a-b-text">More information in our telegram channel https://t.me/snatch_info
+
+Persons responsible for data leakage:
+Jawad Abouchaib:Chef d&#039;Ã©quipe
+https://www.linkedin.com/in/jawad-abouchaib-301ab0110;
+Yilei Huang:Network and Information Security Supervisor
+yilei.huang@version1.com
+https://www.linkedin.com/in/yilei-huang-3bba0183;
+Guo Jimmy.Guo:Vice President
+jimmy.guo@joyson.cn
+https://www.linkedin.com/in/guo-jimmy-guo-617b2360
+http://www.facebook.com/people/_/1548407580;
+Tangke Ouyang:Vice President
+tangke.ouyang@cicc.com.cn
+https://www.linkedin.com/in/tangke-owen-ouyang-44044b4a
+https://facebook.com/tangke.ouyang;
+Wilson He:Global Human Resource  Director
+supercow@comcast.net
+wilson.he@timken.com,wilson.he@fuyaogroup.com,jwilson@cummins.com
+312-593-1230
+812-377-5000
+812-377-3334
+812-377-3613
+https://www.linkedin.com/in/wilson-he-0977a78
+http://www.facebook.com/WilsonHe1992;
+Ranee Tao:Chief Financial Officer
+ranee@joyson.cn
+ranee.tao@gmail.com
+rt.sgtsus@gmail.com
+sleepingbeauty1008@gmail.com
+rtao@uk.ey.com
+206-883-6294
+425-551-6001
+512-854-2926
+425-551-6009
+512-296-0998
+510-314-3598
+786-234-8747
+321-863-4768
+https://www.linkedin.com/in/raneetao
+http://www.facebook.com/ranee.tao;
+Bin Xu:Vice President
+xubin_tj@hotmail.com
+bin.xu@faurecia.com
+https://www.linkedin.com/in/bin-xu-808437a;
+Chengbo Yu:Global Deputy IT Director
+https://www.linkedin.com/in/chengbo-yu-bb5b1969;
+Kai Yu:Board Director, Board Secretary
+yk68976556@hotmail.com
+kai.yu@joyson.cn
+https://www.linkedin.com/in/kai-yu-75590534;
+Cyr Kakou:Responsable senior
+cyrkakou@yahoo.fr
+cyr@ixperta-ims.com,cyr.kakou@ixperta-ims.com,ckakou@ixperta-ims.com,kakou@ixperta-ims.com,cyrkakou@ixperta-ims.com,cyrk@ixperta-ims.com
+https://www.linkedin.com/in/cyrkakou;
+Bably Anselme:Directeur général adjoint
+bablyg@yahoo.fr
+bably@ixperta-ims.com,banselme@ixperta-ims.com,bably.anselme@ixperta-ims.com,bablyanselme@ixperta-ims.com,bablya@ixperta-ims.com,anselme@ixperta-ims.com
+https://www.linkedin.com/in/bricebably;
+Dagmar</div><div class="a-b-bottom"><div class="a-b-b-tags"></div><div class="a-b-b-readmore"><a href="#" class="a-b-b-r-link"><button class="a-b-b-r-l-button" onclick="window.location='news.php?id=64f6eaa1-f473-496f-b880-4c5392b73db8'"><p class="a-b-b-r-l-b-text">Read more</p><img class="a-b-b-r-l-b-img" src="./assets/images/readmore-arrow.svg" alt="arrow"/></button></a></div></div></div><div class="ann-block"><div class="a-b-head"><div class="a-b-h-typedata">Full Data</div><div class="a-b-h-time">Jul 20, 2023 02:02 AM</div><div class="a-b-h-views-count d-flex"><img src="./assets/images/views-count.svg" alt="" /><p class="a-b-h-v-c-views">100666</p></div></div><div class="a-b-name"><div class="a-b-n-name">LiveAction</div><span class="a-b-n-tag">Data Added: 280 GB</span></div><div class="a-b-text">More information in our telegram channel https://t.me/snatch_info
+
+Persons responsible for data leakage:
+Stephen Stuut:Executive
++1 408-217-6501, +1 650-276-4561
+sstuut@liveaction.com, stephenstuut@liveaction.com;
+Randy Caldejon:Executive
+rcaldejon@liveaction.com;
+Francine Geist:Executive
++1 973-907-7373
++1 203-674-9562
+fgeist@liveaction.com;
+Peter Tyrrell:Executive
++1 617-513-2713
++1 408-217-6501
+ptyrrell@liveaction.com;
+Joe O&#039;Connor:VP
+joconnor@liveaction.com;
+Chantelle Dembowski:VP
++1 571-765-5263
+cdembowski@liveaction.com;
+Jonathan Remington:Director, VP
++1 973-981-3623
+jremington@liveaction.com;
+Fielder Hiss:VP
++1 408-217-6501
+fhiss@liveaction.com;
+Annukka Piironen:VP
++1 408-217-6501
+apiironen@liveaction.com;
+Ryan Gehl:VP
++1 202-342-0883, +1 402-699-0414
++1 408-217-6501
+rgehl@liveaction.com;
+Vishwas Puttasubbappa:VP
++1 919-607-2734
++1 408-217-6501
+vputtasubbappa@liveaction.com;
+Steven Goodison:Director
++1 831-359-8871
+sgoodison@liveaction.com;
+Rosie Cordero:Manager, Director
++1</div><div class="a-b-bottom"><div class="a-b-b-tags"></div><div class="a-b-b-readmore"><a href="#" class="a-b-b-r-link"><button class="a-b-b-r-l-button" onclick="window.location='news.php?id=8987e9e0-a14a-4d2e-bef3-fd883b5bec7d'"><p class="a-b-b-r-l-b-text">Read more</p><img class="a-b-b-r-l-b-img" src="./assets/images/readmore-arrow.svg" alt="arrow"/></button></a></div></div></div><div class="ann-block"><div class="a-b-head"><div class="a-b-h-time">Jul 18, 2023 05:04 PM</div><div class="a-b-h-views-count d-flex"><img src="./assets/images/views-count.svg" alt="" /><p class="a-b-h-v-c-views">30962</p></div></div><div class="a-b-name"><div class="a-b-n-name">Tampa general hospital</div><span class="a-b-n-tag">4 TB</span></div><div class="a-b-text">Tampa General Hospital is a private not-for-profit hospital and one of the most comprehensive medical facilities in West Central Florida serving a dozen counties with a population in excess of 4 million. As one of the largest hospitals in Florida, Tampa General is licensed for</div><div class="a-b-bottom"><div class="a-b-b-tags"></div><div class="a-b-b-readmore"><a href="#" class="a-b-b-r-link"><button class="a-b-b-r-l-button" onclick="window.location='news.php?id=d2ee6a3d-016c-4781-b67a-4b6bf7d4c0a3'"><p class="a-b-b-r-l-b-text">Read more</p><img class="a-b-b-r-l-b-img" src="./assets/images/readmore-arrow.svg" alt="arrow"/></button></a></div></div></div><div class="ann-block"><div class="a-b-head"><div class="a-b-h-time">Jul 18, 2023 02:29 AM</div><div class="a-b-h-views-count d-flex"><img src="./assets/images/views-count.svg" alt="" /><p class="a-b-h-v-c-views">31961</p></div></div><div class="a-b-name"><div class="a-b-n-name">Wasserstrom</div></div><div class="a-b-text">The Wasserstrom Company, which began as a local, family-run business, has steadily grown to become one of the largest restaurant suppliers and distributors of foodservice products. With more than a century of experience and a team of over 1200 dedicated associates, Wasserstrom remains a family-owned</div><div class="a-b-bottom"><div class="a-b-b-tags"></div><div class="a-b-b-readmore"><a href="#" class="a-b-b-r-link"><button class="a-b-b-r-l-button" onclick="window.location='news.php?id=ab8a53c6-7575-421f-9d16-7376b5998432'"><p class="a-b-b-r-l-b-text">Read more</p><img class="a-b-b-r-l-b-img" src="./assets/images/readmore-arrow.svg" alt="arrow"/></button></a></div></div></div><div class="ann-block"><div class="a-b-head"><div class="a-b-h-time">Jul 18, 2023 02:29 AM</div><div class="a-b-h-views-count d-flex"><img src="./assets/images/views-count.svg" alt="" /><p class="a-b-h-v-c-views">32090</p></div></div><div class="a-b-name"><div class="a-b-n-name">Ningbo Joyson Electronic Corp.</div><span class="a-b-n-tag">20 TB</span></div><div class="a-b-text">Ningbo Joyson Electronic Corp. is one of the best automotive suppliers for the world&#039;s leading automobile manufacturers, owned the Automotive Safety BU, Automotive Electronics BU, and Joyson Intelligent Automotive Research Institute, Joyson New Energy Research Institute, etc. It is committed to the R&amp;D and manufacture</div><div class="a-b-bottom"><div class="a-b-b-tags"></div><div class="a-b-b-readmore"><a href="#" class="a-b-b-r-link"><button class="a-b-b-r-l-button" onclick="window.location='news.php?id=b1be1d06-e8f6-4c05-81f4-4ab82d921b80'"><p class="a-b-b-r-l-b-text">Read more</p><img class="a-b-b-r-l-b-img" src="./assets/images/readmore-arrow.svg" alt="arrow"/></button></a></div></div></div><div class="ann-block"><div class="a-b-head"><div class="a-b-h-typedata">Archive</div><div class="a-b-h-time">Jul 18, 2023 02:29 AM</div><div class="a-b-h-views-count d-flex"><img src="./assets/images/views-count.svg" alt="" /><p class="a-b-h-v-c-views">328185</p></div></div><div class="a-b-name"><div class="a-b-n-name">Lootah Group</div></div><div class="a-b-text">More information in our telegram channel t.me/snatch_info
+
+Persons responsible for data leakage:
+Mohamed Ibrahim: Project Manager
++971 4 284 4555 ibrahim@iaslootahfm.com;
+Rufino DIana: Senior Estimator
++971 56 583 1885 rufino@iaslootahfm.com;
+Sudheer G.: Treasury In- Charge
++971 4 285 8223 sudheer@lootahgroup.com;
+Albaz Ahmed: Project Engineer
++971 4 284 4555 a.albaz@iaslootahfm.com;
+Khan Imran: Store Keeper( Civil )
++971</div><div class="a-b-bottom"><div class="a-b-b-tags"></div><div class="a-b-b-readmore"><a href="#" class="a-b-b-r-link"><button class="a-b-b-r-l-button" onclick="window.location='news.php?id=9ba38919-a593-4ee9-81e8-7bf9a53fa054'"><p class="a-b-b-r-l-b-text">Read more</p><img class="a-b-b-r-l-b-img" src="./assets/images/readmore-arrow.svg" alt="arrow"/></button></a></div></div></div><div class="ann-block"><div class="a-b-head"><div class="a-b-h-typedata">Archive</div><div class="a-b-h-time">Jul 18, 2023 02:28 AM</div><div class="a-b-h-views-count d-flex"><img src="./assets/images/views-count.svg" alt="" /><p class="a-b-h-v-c-views">189788</p></div></div><div class="a-b-name"><div class="a-b-n-name">QRS Healthcare Solutions</div><span class="a-b-n-tag">Data Added: 140 MB</span></div><div class="a-b-text">More information in our telegram channel t.me/snatch_info
+
+Persons responsible for data leakage:
+David Rhyne:Executive
++1 865-335-5405
++1 865-405-8547
++1 865-588-3188 ext. 3004
+david.rhyne@qrshs.com
+drhyne@qrshs.com;
+Dickerson James: Marketing and Business Development QRS Inc
+(865) 588-3188 ext. 3015 james@qrshs.com;
+Hamilton Wendy: Team Leader and Implementation Specialist for PM and EHR Software
+(865) 584-9674 whamilton@qrshs.com;
+Rhyne David: Chief Financial Officer
+(865)</div><div class="a-b-bottom"><div class="a-b-b-tags"></div><div class="a-b-b-readmore"><a href="#" class="a-b-b-r-link"><button class="a-b-b-r-l-button" onclick="window.location='news.php?id=fd4b4c58-8816-437c-be93-b3fa1ede5586'"><p class="a-b-b-r-l-b-text">Read more</p><img class="a-b-b-r-l-b-img" src="./assets/images/readmore-arrow.svg" alt="arrow"/></button></a></div></div></div></div>
+<div class="m-c-aside">
+    <div class="m-c-aside-1">
+        <h2 class="aside-head">New Company</h2>
+        <div class="aside-card"><a href="news.php?id=9d0d0022-dd50-4b66-bc21-6be235da4d12"><div class="aside-card-content"><h3 class="a-c-c-h3">Alinabal</h3><h4 class="a-c-c-h4">Alinabal is a broadly diversified manufacturer with history reaching as far...</h4></div></a></div>    </div>
+    <div class="m-c-aside-2">
+        <h2 class="aside-head">Full Data</h2>
+        <div class="aside-card"><a href="news.php?id=91532173-f5b9-4028-823c-392267307b71"><div class="aside-card-content"><h3 class="a-c-c-h3">Lawrence Family Development Charter School</h3><h4 class="a-c-c-h4">More information in our telegram channel t.me/snatch_info
+
+Persons responsible for data leakage:
+Karl...</h4></div></a></div><div class="aside-card"><a href="news.php?id=6449a482-bdb3-4312-bd35-7e66da024ca3"><div class="aside-card-content"><h3 class="a-c-c-h3">Asia Vital Components</h3><h4 class="a-c-c-h4">More information in our telegram channel t.me/snatch_info
+Persons responsible for data leakage:
+Wang...</h4></div></a></div><div class="aside-card"><a href="news.php?id=64f6eaa1-f473-496f-b880-4c5392b73db8"><div class="aside-card-content"><h3 class="a-c-c-h3">IXPERTA</h3><h4 class="a-c-c-h4">More information in our telegram channel https://t.me/snatch_info
+
+Persons responsible for data leakage:
+Jawad...</h4></div></a></div><div class="aside-card"><a href="news.php?id=8987e9e0-a14a-4d2e-bef3-fd883b5bec7d"><div class="aside-card-content"><h3 class="a-c-c-h3">LiveAction</h3><h4 class="a-c-c-h4">More information in our telegram channel https://t.me/snatch_info
+
+Persons responsible for data leakage:
+Stephen...</h4></div></a></div><div class="aside-card"><a href="news.php?id=bd06450a-2b81-4896-a4df-ef8f96cc70b7"><div class="aside-card-content"><h3 class="a-c-c-h3">Trubee, Collins &amp; Co</h3><h4 class="a-c-c-h4">Persons responsible for data leakage:
+Vossler Thomas:Vice President
+tvossler@trubeecollins.com;
+Greno Elizabeth:Registered Investment Advisor
+(716) 849-1494
+egreno@trubeecollins.com;
+Bowen...</h4></div></a></div>    </div>
+</div></div><div class="main-nav">
+    <div class="main-nav-nav">
+        <a class="m-n-n-link link-unactive"><p class="m-n-n-l-text">Previous page</p></a>        <div class="main-nav-numbers">
+        <a class="m-n-n-number">1</a><a class="m-n-n-number" href="index.php?page=2">2</a><a class="m-n-n-number" href="index.php?page=3">3</a><a class="m-n-n-number" href="index.php?page=4">4</a>        </div>
+        <a class="m-n-n-link" href="index.php?page=2"><p class="m-n-n-l-text">Next page</p></a>    </div>
+</div>            </div>
+        </div>
+    </main>
+    <footer>
+        <div class="container">
+            <div class="row">
+                <div class="header-content">
+                    <div class="header-start">
+                        <a href="#UUID">
+                            <span>Enter UUID</span>
+                        </a>
+                        <a href="#feedback">
+                            <span>Feedback</span>
+                        </a>
+                    </div>
+                    <div class="header-end">
+                        <div class="header-socials">
+                            <a href="https://t.me/snatch_info">
+                                <img src="./assets/images/telegram.svg" alt="telegram" />
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+</div>
+<script>
+    $("body").on("input", ".uuid-input", function () {
+        this.value = this.value.toUpperCase();
+    });
+</script>
+<script>
+    let banner_div = document.getElementById("banner_place");
+    if ((window.location.pathname !== "/index.php" && window.location.pathname !== "/") || window.location.search !== "") {
+        banner_div.style.display = "none";
+    } else {
+        if (banner_div.innerText !== "")
+        {
+            document.getElementsByClassName("m-main-content")[0].style.marginTop = "3rem"
+        }
+    }
+</script>
+</body>
+</html>
