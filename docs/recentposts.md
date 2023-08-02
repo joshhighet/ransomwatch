@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-08-02 | [`unicorpusa.com`](https://google.com/search?q=unicorpusa.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-08-01 | [`Garage Living, The Dispenser USA`](https://google.com/search?q=Garage+Living%2C+The+Dispenser+USA) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-08-01 | [`Aapd`](https://google.com/search?q=Aapd) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-08-01 | [`Birch, Horton, Bittner & Cherot`](https://google.com/search?q=Birch%2C+Horton%2C+Bittner+%26+Cherot) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-07-17 | [`www.tractrad.com`](https://google.com/search?q=www.tractrad.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
 | 2023-07-17 | [`Citta Nuova`](https://google.com/search?q=Citta+Nuova) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2023-07-17 | [`Venture Drilling Supply`](https://google.com/search?q=Venture+Drilling+Supply) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-07-17 | [`Hiberus Tecnología`](https://google.com/search?q=Hiberus+Tecnolog%C3%ADa) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
