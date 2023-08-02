@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-08-02 | [`University of Salerno`](https://google.com/search?q=University+of+Salerno) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
+| 2023-08-02 | [`ohiohistory.org`](https://google.com/search?q=ohiohistory.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-08-02 | [`unicorpusa.com`](https://google.com/search?q=unicorpusa.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-08-01 | [`Garage Living, The Dispenser USA`](https://google.com/search?q=Garage+Living%2C+The+Dispenser+USA) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-08-01 | [`Aapd`](https://google.com/search?q=Aapd) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-07-17 | [`hopetech.com`](https://google.com/search?q=hopetech.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-07-17 | [`Cavanaugh, Biggs & Lemon P.A., Attorneys at Law`](https://google.com/search?q=Cavanaugh%2C+Biggs+%26+Lemon+P.A.%2C+Attorneys+at+Law) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-07-17 | [`www.tractrad.com`](https://google.com/search?q=www.tractrad.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
-| 2023-07-17 | [`Citta Nuova`](https://google.com/search?q=Citta+Nuova) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2023-07-17 | [`Venture Drilling Supply`](https://google.com/search?q=Venture+Drilling+Supply) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
