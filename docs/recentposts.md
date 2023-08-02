@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-08-02 | [`Helen F. Dalton Lawyers`](https://google.com/search?q=Helen+F.+Dalton+Lawyers) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-08-02 | [`www.gruposca.com`](https://google.com/search?q=www.gruposca.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-08-02 | [`TGRWA`](https://google.com/search?q=TGRWA) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-08-02 | [`Guido`](https://google.com/search?q=Guido) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-07-18 | [`CashCall, Inc.`](https://google.com/search?q=CashCall%2C+Inc.) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-07-18 | [`Seasia Infotech`](https://google.com/search?q=Seasia+Infotech) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
 | 2023-07-18 | [`Ningbo Joyson Electronic Corp.`](https://google.com/search?q=Ningbo+Joyson+Electronic+Corp.) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
-| 2023-07-18 | [`Wasserstrom`](https://google.com/search?q=Wasserstrom) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
