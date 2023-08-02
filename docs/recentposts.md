@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-08-02 | [`COSI`](https://google.com/search?q=COSI) | [karakurt](https://ransomwatch.telemetry.ltd/#/profiles?id=karakurt) |
+| 2023-08-02 | [`Bickel & Brewer - Press Release`](https://google.com/search?q=Bickel+%26+Brewer+-+Press+Release) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2023-08-02 | [`University of Salerno`](https://google.com/search?q=University+of+Salerno) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2023-08-02 | [`ohiohistory.org`](https://google.com/search?q=ohiohistory.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-08-02 | [`unicorpusa.com`](https://google.com/search?q=unicorpusa.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-07-17 | [`Protected: Hidden name`](https://google.com/search?q=Protected%3A+Hidden+name) | [ransomblog_noname](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomblog_noname) |
 | 2023-07-17 | [`johnreilly.co.uk`](https://google.com/search?q=johnreilly.co.uk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-07-17 | [`hopetech.com`](https://google.com/search?q=hopetech.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-07-17 | [`Cavanaugh, Biggs & Lemon P.A., Attorneys at Law`](https://google.com/search?q=Cavanaugh%2C+Biggs+%26+Lemon+P.A.%2C+Attorneys+at+Law) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-07-17 | [`www.tractrad.com`](https://google.com/search?q=www.tractrad.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
