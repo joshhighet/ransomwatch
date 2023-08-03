@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-08-03 | [`Datawatch Systems`](https://google.com/search?q=Datawatch+Systems) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
+| 2023-08-03 | [`admsc.com`](https://google.com/search?q=admsc.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-08-03 | [`RevZero, Inc`](https://google.com/search?q=RevZero%2C+Inc) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-08-03 | [`Rossman Realty Group, inc.`](https://google.com/search?q=Rossman+Realty+Group%2C+inc.) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-08-03 | [`riggsabney`](https://google.com/search?q=riggsabney) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-07-18 | [`suninsurance.com.fj`](https://google.com/search?q=suninsurance.com.fj) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-07-18 | [`lfcaire.org`](https://google.com/search?q=lfcaire.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-07-18 | [`cotrelec.com`](https://google.com/search?q=cotrelec.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-07-18 | [`berg-life.com`](https://google.com/search?q=berg-life.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-07-18 | [`www.brockhouse.co.uk`](https://google.com/search?q=www.brockhouse.co.uk) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
