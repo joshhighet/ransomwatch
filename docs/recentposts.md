@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-08-03 | [`Roman Catholic Diocese of Albany`](https://google.com/search?q=Roman+Catholic+Diocese+of+Albany) | [nokoyawa](https://ransomwatch.telemetry.ltd/#/profiles?id=nokoyawa) |
+| 2023-08-03 | [`pointpleasant.k12.nj.us`](https://google.com/search?q=pointpleasant.k12.nj.us) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-08-03 | [`Venture General Agen cy`](https://google.com/search?q=Venture+General+Agen+cy) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-08-03 | [`INSULCANA CONTRACTING LTD`](https://google.com/search?q=INSULCANA+CONTRACTING+LTD) | [ransomblog_noname](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomblog_noname) |
 | 2023-08-03 | [`L** **** ****`](https://google.com/search?q=L%2A%2A+%2A%2A%2A%2A+%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-07-18 | [`www.acomen.fr`](https://google.com/search?q=www.acomen.fr) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-07-18 | [`Tampa general hospital`](https://google.com/search?q=Tampa+general+hospital) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
 | 2023-07-18 | [`www.girardini.it`](https://google.com/search?q=www.girardini.it) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
-| 2023-07-18 | [`Health Springs Medical Center `](https://google.com/search?q=Health+Springs+Medical+Center+) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
-| 2023-07-18 | [`Nini Collection Ltd  (Nini&#039;s Jewels)`](https://google.com/search?q=Nini+Collection+Ltd++%28Nini%26%23039%3Bs+Jewels%29) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
