@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-08-03 | [`INSULCANA CONTRACTING LTD`](https://google.com/search?q=INSULCANA+CONTRACTING+LTD) | [ransomblog_noname](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomblog_noname) |
+| 2023-08-03 | [`L** **** ****`](https://google.com/search?q=L%2A%2A+%2A%2A%2A%2A+%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-08-03 | [`Datawatch Systems`](https://google.com/search?q=Datawatch+Systems) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-08-03 | [`admsc.com`](https://google.com/search?q=admsc.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-08-03 | [`RevZero, Inc`](https://google.com/search?q=RevZero%2C+Inc) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-07-18 | [`Health Springs Medical Center `](https://google.com/search?q=Health+Springs+Medical+Center+) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-07-18 | [`Nini Collection Ltd  (Nini&#039;s Jewels)`](https://google.com/search?q=Nini+Collection+Ltd++%28Nini%26%23039%3Bs+Jewels%29) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-07-18 | [`suninsurance.com.fj`](https://google.com/search?q=suninsurance.com.fj) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-07-18 | [`lfcaire.org`](https://google.com/search?q=lfcaire.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-07-18 | [`cotrelec.com`](https://google.com/search?q=cotrelec.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
