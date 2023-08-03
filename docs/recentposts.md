@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-08-03 | [`H********** ********* ***`](https://google.com/search?q=H%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A%2A%2A+%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2023-08-03 | [`Spokane Spinal Sports Care Clinic`](https://google.com/search?q=Spokane+Spinal+Sports+Care+Clinic) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-08-03 | [`Roman Catholic Diocese of Albany`](https://google.com/search?q=Roman+Catholic+Diocese+of+Albany) | [nokoyawa](https://ransomwatch.telemetry.ltd/#/profiles?id=nokoyawa) |
 | 2023-08-03 | [`pointpleasant.k12.nj.us`](https://google.com/search?q=pointpleasant.k12.nj.us) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-08-03 | [`Venture General Agen cy`](https://google.com/search?q=Venture+General+Agen+cy) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-07-18 | [`The Estée Lauder Companies`](https://google.com/search?q=The+Est%C3%A9e+Lauder+Companies) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-07-18 | [`KUITS`](https://google.com/search?q=KUITS) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-07-18 | [`www.acomen.fr`](https://google.com/search?q=www.acomen.fr) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
-| 2023-07-18 | [`Tampa general hospital`](https://google.com/search?q=Tampa+general+hospital) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
-| 2023-07-18 | [`www.girardini.it`](https://google.com/search?q=www.girardini.it) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
