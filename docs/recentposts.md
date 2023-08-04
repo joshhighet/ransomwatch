@@ -4,6 +4,13 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-08-04 | [`tetco.com`](https://google.com/search?q=tetco.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-08-04 | [`scottevest.com`](https://google.com/search?q=scottevest.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-08-04 | [`mipe.com`](https://google.com/search?q=mipe.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-08-04 | [`iqcontrols.com`](https://google.com/search?q=iqcontrols.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-08-04 | [`atser.com`](https://google.com/search?q=atser.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-08-04 | [`armortex.com`](https://google.com/search?q=armortex.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-08-04 | [`Galicia en Goles`](https://google.com/search?q=Galicia+en+Goles) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-08-04 | [`p`](https://google.com/search?q=p) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
 | 2023-08-04 | [`z`](https://google.com/search?q=z) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
 | 2023-08-04 | [`Koury Engineering`](https://google.com/search?q=Koury+Engineering) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
@@ -197,10 +204,3 @@ _last `200` posts_
 | 2023-07-20 | [`Hightway Care`](https://google.com/search?q=Hightway+Care) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-07-20 | [`Magnolia Steel`](https://google.com/search?q=Magnolia+Steel) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-07-20 | [`New Braunfels Cardiology`](https://google.com/search?q=New+Braunfels+Cardiology) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2023-07-19 | [`Anesco Ltd`](https://google.com/search?q=Anesco+Ltd) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-07-19 | [`Kensington Publishing`](https://google.com/search?q=Kensington+Publishing) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-07-19 | [`Fernmoor Homes`](https://google.com/search?q=Fernmoor+Homes) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-07-19 | [`ECS Technology Group`](https://google.com/search?q=ECS+Technology+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-07-19 | [`Woodbine Hospitality`](https://google.com/search?q=Woodbine+Hospitality) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-07-19 | [`Cumberland Pharmaceuticals Inc.`](https://google.com/search?q=Cumberland+Pharmaceuticals+Inc.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2023-07-19 | [`Sea Force IX`](https://google.com/search?q=Sea+Force+IX) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
