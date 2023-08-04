@@ -4,6 +4,10 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-08-04 | [`Koury Engineering`](https://google.com/search?q=Koury+Engineering) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
+| 2023-08-04 | [`Pharmatech Repblica Dominicana was hacked. All sensitive company and customer information `](https://google.com/search?q=Pharmatech+Repblica+Dominicana+was+hacked.+All+sensitive+company+and+customer+information+) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
+| 2023-08-04 | [`Grupo Garza Ponce was hacked! Due to a massive company vulnerability, more than 2 TB of se`](https://google.com/search?q=Grupo+Garza+Ponce+was+hacked%21+Due+to+a+massive+company+vulnerability%2C+more+than+2+TB+of+se) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
+| 2023-08-04 | [`SBS Construction`](https://google.com/search?q=SBS+Construction) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-08-04 | [`ESKA Erich Schweizer`](https://google.com/search?q=ESKA+Erich+Schweizer) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2023-08-04 | [`Studio Domaine LLC`](https://google.com/search?q=Studio+Domaine+LLC) | [nokoyawa](https://ransomwatch.telemetry.ltd/#/profiles?id=nokoyawa) |
 | 2023-08-04 | [`THECHANGE`](https://google.com/search?q=THECHANGE) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -200,7 +204,3 @@ _last `200` posts_
 | 2023-07-19 | [`Sea Force IX`](https://google.com/search?q=Sea+Force+IX) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-07-19 | [`Centennial Management`](https://google.com/search?q=Centennial+Management) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-07-19 | [`http://www.braintreema.gov`](https://google.com/search?q=http%3A%2F%2Fwww.braintreema.gov) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
-| 2023-07-19 | [`R***** ********** *******`](https://google.com/search?q=R%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2023-07-19 | [`Undisclosed Aerospace Company`](https://google.com/search?q=Undisclosed+Aerospace+Company) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2023-07-19 | [`obeidpartners.com`](https://google.com/search?q=obeidpartners.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-07-19 | [`EA SMITH`](https://google.com/search?q=EA+SMITH) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
