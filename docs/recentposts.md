@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-08-04 | [`Studio Domaine LLC`](https://google.com/search?q=Studio+Domaine+LLC) | [nokoyawa](https://ransomwatch.telemetry.ltd/#/profiles?id=nokoyawa) |
 | 2023-08-04 | [`THECHANGE`](https://google.com/search?q=THECHANGE) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-08-04 | [`Ofimedic`](https://google.com/search?q=Ofimedic) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-08-04 | [`Abatti Companies - Press Release`](https://google.com/search?q=Abatti+Companies+-+Press+Release) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-07-19 | [`obeidpartners.com`](https://google.com/search?q=obeidpartners.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-07-19 | [`EA SMITH`](https://google.com/search?q=EA+SMITH) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-07-19 | [`VOG`](https://google.com/search?q=VOG) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-07-18 | [`DTD Express `](https://google.com/search?q=DTD+Express+) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
