@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-08-04 | [`p`](https://google.com/search?q=p) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
+| 2023-08-04 | [`z`](https://google.com/search?q=z) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
 | 2023-08-04 | [`Koury Engineering`](https://google.com/search?q=Koury+Engineering) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-08-04 | [`Pharmatech Repblica Dominicana was hacked. All sensitive company and customer information `](https://google.com/search?q=Pharmatech+Repblica+Dominicana+was+hacked.+All+sensitive+company+and+customer+information+) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-08-04 | [`Grupo Garza Ponce was hacked! Due to a massive company vulnerability, more than 2 TB of se`](https://google.com/search?q=Grupo+Garza+Ponce+was+hacked%21+Due+to+a+massive+company+vulnerability%2C+more+than+2+TB+of+se) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-07-19 | [`Woodbine Hospitality`](https://google.com/search?q=Woodbine+Hospitality) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-07-19 | [`Cumberland Pharmaceuticals Inc.`](https://google.com/search?q=Cumberland+Pharmaceuticals+Inc.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-07-19 | [`Sea Force IX`](https://google.com/search?q=Sea+Force+IX) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-07-19 | [`Centennial Management`](https://google.com/search?q=Centennial+Management) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-07-19 | [`http://www.braintreema.gov`](https://google.com/search?q=http%3A%2F%2Fwww.braintreema.gov) | [royal](https://ransomwatch.telemetry.ltd/#/profiles?id=royal) |
