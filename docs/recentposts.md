@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-08-05 | [`haynesintl.com`](https://google.com/search?q=haynesintl.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-08-05 | [`Kovair Software Data Leak`](https://google.com/search?q=Kovair+Software+Data+Leak) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2023-08-05 | [`Henlaw`](https://google.com/search?q=Henlaw) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-08-04 | [`tetco.com`](https://google.com/search?q=tetco.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-07-20 | [`Campbell Killin Brittan & Ray LLC`](https://google.com/search?q=Campbell+Killin+Brittan+%26+Ray+LLC) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-07-20 | [`Entegra`](https://google.com/search?q=Entegra) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-07-20 | [`cityserve-mech.co.uk`](https://google.com/search?q=cityserve-mech.co.uk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-07-20 | [`Hightway Care`](https://google.com/search?q=Hightway+Care) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
