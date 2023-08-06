@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-08-06 | [`Oregon Sports Medicine`](https://google.com/search?q=Oregon+Sports+Medicine) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2023-08-06 | [`premierbpo.com`](https://google.com/search?q=premierbpo.com) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-08-06 | [`SatCom Marketing`](https://google.com/search?q=SatCom+Marketing) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-08-05 | [`Rayden Solicitors`](https://google.com/search?q=Rayden+Solicitors) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-08-05 | [`haynesintl.com`](https://google.com/search?q=haynesintl.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-07-20 | [`Alberto Couto Alves`](https://google.com/search?q=Alberto+Couto+Alves) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2023-07-20 | [`Bright Future Electr ic, LLC`](https://google.com/search?q=Bright+Future+Electr+ic%2C+LLC) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-07-20 | [`Tampa General Hospital`](https://google.com/search?q=Tampa+General+Hospital) | [nokoyawa](https://ransomwatch.telemetry.ltd/#/profiles?id=nokoyawa) |
-| 2023-07-20 | [`CANAROPA Inc`](https://google.com/search?q=CANAROPA+Inc) | [nokoyawa](https://ransomwatch.telemetry.ltd/#/profiles?id=nokoyawa) |
-| 2023-07-20 | [`Campbell Killin Brittan & Ray LLC`](https://google.com/search?q=Campbell+Killin+Brittan+%26+Ray+LLC) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
