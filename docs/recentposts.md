@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-08-07 | [`G***** *******`](https://google.com/search?q=G%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2023-08-07 | [`T********`](https://google.com/search?q=T%2A%2A%2A%2A%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-08-07 | [`Räddningstjänsten Vä stra Blekinge`](https://google.com/search?q=R%C3%A4ddningstj%C3%A4nsten+V%C3%A4+stra+Blekinge) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-08-07 | [`www.kreacta.com`](https://google.com/search?q=www.kreacta.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-08-07 | [`Papel Prensa SA`](https://google.com/search?q=Papel+Prensa+SA) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-07-20 | [`Michigan Production Machining`](https://google.com/search?q=Michigan+Production+Machining) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2023-07-20 | [`Italkraft`](https://google.com/search?q=Italkraft) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2023-07-20 | [`Imagination`](https://google.com/search?q=Imagination) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2023-07-20 | [`Hawa Sliding Solutions`](https://google.com/search?q=Hawa+Sliding+Solutions) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2023-07-20 | [`CWS`](https://google.com/search?q=CWS) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
