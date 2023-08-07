@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-08-07 | [`www.avertronics.com`](https://google.com/search?q=www.avertronics.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
+| 2023-08-07 | [`rvpl.lt`](https://google.com/search?q=rvpl.lt) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-08-07 | [`varian.com`](https://google.com/search?q=varian.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-08-06 | [`Delaney Browne Recruitment`](https://google.com/search?q=Delaney+Browne+Recruitment) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-08-06 | [`IBL`](https://google.com/search?q=IBL) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-07-20 | [`ScanSource`](https://google.com/search?q=ScanSource) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2023-07-20 | [`Confartigianato Federimpresa FC`](https://google.com/search?q=Confartigianato+Federimpresa+FC) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2023-07-20 | [`Biocair International`](https://google.com/search?q=Biocair+International) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2023-07-20 | [`American Meteorological Society`](https://google.com/search?q=American+Meteorological+Society) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2023-07-20 | [`Agoravita`](https://google.com/search?q=Agoravita) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
