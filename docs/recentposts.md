@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-08-07 | [`www.kreacta.com`](https://google.com/search?q=www.kreacta.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
+| 2023-08-07 | [`Papel Prensa SA`](https://google.com/search?q=Papel+Prensa+SA) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-08-07 | [`www.avertronics.com`](https://google.com/search?q=www.avertronics.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-08-07 | [`rvpl.lt`](https://google.com/search?q=rvpl.lt) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-08-07 | [`varian.com`](https://google.com/search?q=varian.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-07-20 | [`Hawa Sliding Solutions`](https://google.com/search?q=Hawa+Sliding+Solutions) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2023-07-20 | [`CWS`](https://google.com/search?q=CWS) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2023-07-20 | [`ScanSource`](https://google.com/search?q=ScanSource) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2023-07-20 | [`Confartigianato Federimpresa FC`](https://google.com/search?q=Confartigianato+Federimpresa+FC) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2023-07-20 | [`Biocair International`](https://google.com/search?q=Biocair+International) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
