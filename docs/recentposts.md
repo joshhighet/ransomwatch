@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-08-08 | [`Batesville didn't react on appeal and allows Full Leak`](https://google.com/search?q=Batesville+didn%27t+react+on+appeal+and+allows+Full+Leak) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
 | 2023-08-08 | [`ZESA Holdings`](https://google.com/search?q=ZESA+Holdings) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2023-08-08 | [`Magic Micro Computers`](https://google.com/search?q=Magic+Micro+Computers) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-08-08 | [`Emerson School District`](https://google.com/search?q=Emerson+School+District) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-07-21 | [`Rotomail Italia SpA`](https://google.com/search?q=Rotomail+Italia+SpA) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2023-07-21 | [`Phoenix Taxis`](https://google.com/search?q=Phoenix+Taxis) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2023-07-21 | [`Wasserstrom`](https://google.com/search?q=Wasserstrom) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2023-07-21 | [`Americold`](https://google.com/search?q=Americold) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
