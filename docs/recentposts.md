@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-08-09 | [`etisaleg.com`](https://google.com/search?q=etisaleg.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-08-09 | [`chula.ac.th`](https://google.com/search?q=chula.ac.th) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-08-09 | [`2plan.com`](https://google.com/search?q=2plan.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-08-09 | [`independenceia.org`](https://google.com/search?q=independenceia.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-08-09 | [`www.finitia.net`](https://google.com/search?q=www.finitia.net) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
 | 2023-08-09 | [`unitycouncil.org`](https://google.com/search?q=unitycouncil.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2023-07-21 | [`Yamaha Canada Music  Ltd`](https://google.com/search?q=Yamaha+Canada+Music++Ltd) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-07-21 | [`CORDELL`](https://google.com/search?q=CORDELL) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-07-21 | [`Hirsch Bedner Associates`](https://google.com/search?q=Hirsch+Bedner+Associates) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-07-21 | [`plbint.com`](https://google.com/search?q=plbint.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
-| 2023-07-21 | [`Artemide`](https://google.com/search?q=Artemide) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2023-07-21 | [`Reyes Automotive Group`](https://google.com/search?q=Reyes+Automotive+Group) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
