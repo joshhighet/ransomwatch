@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-08-09 | [`independenceia.org`](https://google.com/search?q=independenceia.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-08-09 | [`www.finitia.net`](https://google.com/search?q=www.finitia.net) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
 | 2023-08-09 | [`unitycouncil.org`](https://google.com/search?q=unitycouncil.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-08-08 | [`Batesville didn't react on appeal and allows Full Leak`](https://google.com/search?q=Batesville+didn%27t+react+on+appeal+and+allows+Full+Leak) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-07-21 | [`plbint.com`](https://google.com/search?q=plbint.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
 | 2023-07-21 | [`Artemide`](https://google.com/search?q=Artemide) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2023-07-21 | [`Reyes Automotive Group`](https://google.com/search?q=Reyes+Automotive+Group) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2023-07-21 | [`Rotomail Italia SpA`](https://google.com/search?q=Rotomail+Italia+SpA) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
