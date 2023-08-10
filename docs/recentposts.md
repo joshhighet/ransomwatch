@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-08-10 | [`The Belt Railway Com pany of Chicago`](https://google.com/search?q=The+Belt+Railway+Com+pany+of+Chicago) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-08-10 | [`Boson`](https://google.com/search?q=Boson) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-08-10 | [`Optimum Technology`](https://google.com/search?q=Optimum+Technology) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-08-10 | [`United Tractors`](https://google.com/search?q=United+Tractors) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-07-23 | [`Franklins european bathrooms`](https://google.com/search?q=Franklins+european+bathrooms) | [mallox](https://ransomwatch.telemetry.ltd/#/profiles?id=mallox) |
 | 2023-07-23 | [`Stephen F. Austin State University`](https://google.com/search?q=Stephen+F.+Austin+State+University) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2023-07-23 | [`Exbon Development, Inc`](https://google.com/search?q=Exbon+Development%2C+Inc) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-07-23 | [`Jackson Township Police Department and Administration.`](https://google.com/search?q=Jackson+Township+Police+Department+and+Administration.) | [donutleaks](https://ransomwatch.telemetry.ltd/#/profiles?id=donutleaks) |
