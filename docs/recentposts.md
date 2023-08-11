@@ -28,6 +28,7 @@ _last `200` posts_
 | 2023-08-11 | [`putnam.com`](https://google.com/search?q=putnam.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-08-11 | [`durr.com`](https://google.com/search?q=durr.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-08-11 | [`cegedim.com`](https://google.com/search?q=cegedim.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-11 | [`zain.com`](https://google.com/search?q=zain.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-08-11 | [`Top Light`](https://google.com/search?q=Top+Light) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-08-11 | [`Algorry Zappia & Associates`](https://google.com/search?q=Algorry+Zappia+%26+Associates) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-08-11 | [`EAI`](https://google.com/search?q=EAI) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-07-25 | [`Kersey &amp;amp; Co`](https://google.com/search?q=Kersey+%26amp%3Bamp%3B+Co) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-07-25 | [`FANSIPAN CONSTRUCTION CONSULTANTS CO.,LTD`](https://google.com/search?q=FANSIPAN+CONSTRUCTION+CONSULTANTS+CO.%2CLTD) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-07-25 | [`DV8 Technology Group`](https://google.com/search?q=DV8+Technology+Group) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-07-25 | [`CROWD`](https://google.com/search?q=CROWD) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
