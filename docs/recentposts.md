@@ -4,6 +4,33 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-08-11 | [`Thermenhotel Stoiser`](https://google.com/search?q=Thermenhotel+Stoiser) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
+| 2023-08-11 | [`Important Updates`](https://google.com/search?q=Important+Updates) | [knight](https://ransomwatch.telemetry.ltd/#/profiles?id=knight) |
+| 2023-08-11 | [`paycom.com`](https://google.com/search?q=paycom.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-11 | [`ey.com`](https://google.com/search?q=ey.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-11 | [`www.pwc.com`](https://google.com/search?q=www.pwc.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-11 | [`1stsource.com`](https://google.com/search?q=1stsource.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-11 | [`caresource.com`](https://google.com/search?q=caresource.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-11 | [`paycor.com`](https://google.com/search?q=paycor.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-11 | [`klgates.com`](https://google.com/search?q=klgates.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-11 | [`uhcsr.com`](https://google.com/search?q=uhcsr.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-11 | [`aon.com`](https://google.com/search?q=aon.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-11 | [`zurich.com.br`](https://google.com/search?q=zurich.com.br) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-11 | [`landal.com`](https://google.com/search?q=landal.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-11 | [`heidelberg.com`](https://google.com/search?q=heidelberg.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-11 | [`navaxx.lu`](https://google.com/search?q=navaxx.lu) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-11 | [`delawarelife.com`](https://google.com/search?q=delawarelife.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-11 | [`enzo.com`](https://google.com/search?q=enzo.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-11 | [`stiwa.com`](https://google.com/search?q=stiwa.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-11 | [`andesaservices.com`](https://google.com/search?q=andesaservices.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-11 | [`citynational.com`](https://google.com/search?q=citynational.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-11 | [`ironbow.com`](https://google.com/search?q=ironbow.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-11 | [`putnam.com`](https://google.com/search?q=putnam.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-11 | [`durr.com`](https://google.com/search?q=durr.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-11 | [`cegedim.com`](https://google.com/search?q=cegedim.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-11 | [`Top Light`](https://google.com/search?q=Top+Light) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-08-11 | [`Algorry Zappia & Associates`](https://google.com/search?q=Algorry+Zappia+%26+Associates) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-08-11 | [`EAI`](https://google.com/search?q=EAI) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-08-10 | [`The Belt Railway Com pany of Chicago`](https://google.com/search?q=The+Belt+Railway+Com+pany+of+Chicago) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-08-10 | [`Boson`](https://google.com/search?q=Boson) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-08-10 | [`Optimum Technology`](https://google.com/search?q=Optimum+Technology) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
@@ -154,7 +181,7 @@ _last `200` posts_
 | 2023-07-27 | [`West Cargo`](https://google.com/search?q=West+Cargo) | [mallox](https://ransomwatch.telemetry.ltd/#/profiles?id=mallox) |
 | 2023-07-27 | [`scmh.org.tw`](https://google.com/search?q=scmh.org.tw) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-07-26 | [`Azimut - Time of publication!`](https://google.com/search?q=Azimut+-+Time+of+publication%21) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-07-26 | [`important information（Knight）`](https://google.com/search?q=important+information%EF%BC%88Knight%EF%BC%89) | [cyclops](https://ransomwatch.telemetry.ltd/#/profiles?id=cyclops) |
+| 2023-07-26 | [`important information（Knight）`](https://google.com/search?q=important+information%EF%BC%88Knight%EF%BC%89) | [knight](https://ransomwatch.telemetry.ltd/#/profiles?id=knight) |
 | 2023-07-26 | [`Globacom Limited`](https://google.com/search?q=Globacom+Limited) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-07-26 | [`CF Assicurazioni`](https://google.com/search?q=CF+Assicurazioni) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-07-26 | [`www.ville-chevilly-larue.fr`](https://google.com/search?q=www.ville-chevilly-larue.fr) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
@@ -177,30 +204,3 @@ _last `200` posts_
 | 2023-07-25 | [`FANSIPAN CONSTRUCTION CONSULTANTS CO.,LTD`](https://google.com/search?q=FANSIPAN+CONSTRUCTION+CONSULTANTS+CO.%2CLTD) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-07-25 | [`DV8 Technology Group`](https://google.com/search?q=DV8+Technology+Group) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-07-25 | [`CROWD`](https://google.com/search?q=CROWD) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-07-25 | [`BoomData - Data &amp;amp; Analytics Consultancy`](https://google.com/search?q=BoomData+-+Data+%26amp%3Bamp%3B+Analytics+Consultancy) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-07-25 | [`rampi.com`](https://google.com/search?q=rampi.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
-| 2023-07-25 | [`bsb-steuerberatung.de`](https://google.com/search?q=bsb-steuerberatung.de) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2023-07-25 | [`Becht Engineering`](https://google.com/search?q=Becht+Engineering) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2023-07-25 | [`The Sinbad Club`](https://google.com/search?q=The+Sinbad+Club) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
-| 2023-07-25 | [`ridgeviewindustries.com`](https://google.com/search?q=ridgeviewindustries.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-07-25 | [`Republic.bz`](https://google.com/search?q=Republic.bz) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-07-25 | [`NEBRASKALAND`](https://google.com/search?q=NEBRASKALAND) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-07-24 | [`https://www.zoominfo.com/c/it-luggage-ltd/356677571`](https://google.com/search?q=https%3A%2F%2Fwww.zoominfo.com%2Fc%2Fit-luggage-ltd%2F356677571) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
-| 2023-07-24 | [`John Mulder Heating & Air Conditioning`](https://google.com/search?q=John+Mulder+Heating+%26+Air+Conditioning) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-07-24 | [`Scharco Elektronik`](https://google.com/search?q=Scharco+Elektronik) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-07-24 | [`Primoteq`](https://google.com/search?q=Primoteq) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-07-24 | [`SBM`](https://google.com/search?q=SBM) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2023-07-24 | [`Grupo MH`](https://google.com/search?q=Grupo+MH) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-07-24 | [`FERRE BARNIEDO`](https://google.com/search?q=FERRE+BARNIEDO) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-07-24 | [`https://www.bionpharma.com`](https://google.com/search?q=https%3A%2F%2Fwww.bionpharma.com) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2023-07-24 | [`Charles & Colvard Lt d.`](https://google.com/search?q=Charles+%26+Colvard+Lt+d.) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2023-07-24 | [`El Milagro`](https://google.com/search?q=El+Milagro) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2023-07-24 | [`dynamite`](https://google.com/search?q=dynamite) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
-| 2023-07-24 | [`ICT-College`](https://google.com/search?q=ICT-College) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2023-07-24 | [`IRIS Informatique`](https://google.com/search?q=IRIS+Informatique) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2023-07-24 | [`EJM Engineered Systems`](https://google.com/search?q=EJM+Engineered+Systems) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-07-24 | [`ebpsupply.com`](https://google.com/search?q=ebpsupply.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-07-24 | [`bl----ea`](https://google.com/search?q=bl----ea) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
-| 2023-07-23 | [`Franklins european bathrooms`](https://google.com/search?q=Franklins+european+bathrooms) | [mallox](https://ransomwatch.telemetry.ltd/#/profiles?id=mallox) |
-| 2023-07-23 | [`Stephen F. Austin State University`](https://google.com/search?q=Stephen+F.+Austin+State+University) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2023-07-23 | [`Exbon Development, Inc`](https://google.com/search?q=Exbon+Development%2C+Inc) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
