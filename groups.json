@@ -579,6 +579,16 @@
                 "updated": "2023-08-10 22:07:04.233818",
                 "lastscrape": "2023-08-10 22:07:04.233806",
                 "enabled": true
+            },
+            {
+                "fqdn": "toznnag5o3ambca56s2yacteu7q7x2avrfherzmz4nmujrjuib4iusad.",
+                "title": null,
+                "version": 3,
+                "slug": "http://toznnag5o3ambca56s2yacteu7q7x2avrfherzmz4nmujrjuib4iusad.onion",
+                "available": false,
+                "updated": null,
+                "lastscrape": "2021-05-01 00:00:00.000000",
+                "enabled": true
             }
         ],
         "profile": [
@@ -4527,26 +4537,6 @@
         "profile": []
     },
     {
-        "name": "cyclops",
-        "captcha": false,
-        "parser": true,
-        "javascript_render": false,
-        "meta": null,
-        "locations": [
-            {
-                "fqdn": "nt3rrzq5hcyznvdkpslvqbbc2jqecqrinhi5jtwoae2x7psqtcb6dcad.onion",
-                "title": "Blog | Knight",
-                "version": 3,
-                "slug": "http://nt3rrzq5hcyznvdkpslvqbbc2jqecqrinhi5jtwoae2x7psqtcb6dcad.onion",
-                "available": true,
-                "updated": "2023-08-10 22:30:07.998394",
-                "lastscrape": "2023-08-10 22:30:07.998382",
-                "enabled": true
-            }
-        ],
-        "profile": []
-    },
-    {
         "name": "cactus",
         "captcha": false,
         "parser": true,
@@ -4561,6 +4551,56 @@
                 "available": true,
                 "updated": "2023-08-10 22:30:12.938813",
                 "lastscrape": "2023-08-10 22:30:12.938802",
+                "enabled": true
+            }
+        ],
+        "profile": []
+    },
+    {
+        "name": "knight",
+        "captcha": false,
+        "parser": true,
+        "javascript_render": false,
+        "meta": null,
+        "locations": [
+            {
+                "fqdn": "knight3xppu263m7g4ag3xlit2qxpryjwueobh7vjdc3zrscqlfu3pqd.onion",
+                "title": null,
+                "version": 3,
+                "slug": "http://knight3xppu263m7g4ag3xlit2qxpryjwueobh7vjdc3zrscqlfu3pqd.onion/blogs/search.json",
+                "available": true,
+                "updated": "2023-08-11 12:22:33.512109",
+                "lastscrape": "2023-08-11 12:22:33.511860",
+                "enabled": true
+            },
+            {
+                "fqdn": "nt3rrzq5hcyznvdkpslvqbbc2jqecqrinhi5jtwoae2x7psqtcb6dcad.onion",
+                "title": null,
+                "version": 3,
+                "slug": "http://nt3rrzq5hcyznvdkpslvqbbc2jqecqrinhi5jtwoae2x7psqtcb6dcad.onion",
+                "available": false,
+                "updated": null,
+                "lastscrape": "2021-05-01 00:00:00.000000",
+                "enabled": true
+            }
+        ],
+        "profile": []
+    },
+    {
+        "name": "incransom",
+        "captcha": false,
+        "parser": true,
+        "javascript_render": false,
+        "meta": null,
+        "locations": [
+            {
+                "fqdn": "incbackrlasjesgpfu5brktfjknbqoahe2hhmqfhasc5fb56mtukn4yd.onion",
+                "title": null,
+                "version": 3,
+                "slug": "http://incbackrlasjesgpfu5brktfjknbqoahe2hhmqfhasc5fb56mtukn4yd.onion/api/blog/get-leaks",
+                "available": true,
+                "updated": "2023-08-11 12:25:48.112659",
+                "lastscrape": "2023-08-11 12:25:48.112644",
                 "enabled": true
             }
         ],

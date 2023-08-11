@@ -218,8 +218,9 @@ def ragnarlocker():
 def clop():
     stdlog('parser: ' + 'clop')
     # grep 'PUBLISHED' source/clop-*.html --no-filename | sed -e s/"<strong>"// -e s/"<\/strong>"// -e s/"<\/p>"// -e s/"<p>"// -e s/"<br>"// -e s/"<strong>"// -e s/"<\/strong>"// -e 's/^ *//g' -e 's/[[:space:]]*$//'
+    # grep 'g-menu-item-title' source/clop-*.html --no-filename | sed -e s/'<span class="g-menu-item-title">'// -e s/"<\/span>"// -e 's/^ *//g' -e 's/[[:space:]]*$//' -e 's/^ARCHIVE[[:digit:]]$//' -e s/'^HOW TO DOWNLOAD?$'// -e 's/^ARCHIVE$//' -e 's/^HOME$//' -e '/^$/d'
     parser = '''
-    grep 'g-menu-item-title' source/clop-*.html --no-filename | sed -e s/'<span class="g-menu-item-title">'// -e s/"<\/span>"// -e 's/^ *//g' -e 's/[[:space:]]*$//' -e 's/^ARCHIVE[[:digit:]]$//' -e s/'^HOW TO DOWNLOAD?$'// -e 's/^ARCHIVE$//' -e 's/^HOME$//' -e '/^$/d'
+    grep '<td><a href="' source/clop-*.html | cut -d '>' -f 3 | cut -d '<' -f 1
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
@@ -560,8 +561,9 @@ def nightsky():
 
 def vicesociety():
     stdlog('parser: ' + 'vicesociety')
+    # grep '<tr><td valign="top"><br><font size="4" color="#FFFFFF"><b>' source/vicesociety-*.html --no-filename | cut -d '>' -f 6 | cut -d '<' -f 1 | sed -e '/ato District Health Boa/d' -e 's/^ *//g' -e 's/[[:space:]]*$//' | sort --uniq
     parser = '''
-    grep '<tr><td valign="top"><br><font size="4" color="#FFFFFF"><b>' source/vicesociety-*.html --no-filename | cut -d '>' -f 6 | cut -d '<' -f 1 | sed -e '/ato District Health Boa/d' -e 's/^ *//g' -e 's/[[:space:]]*$//' | sort --uniq
+    grep '<tr><td valign="top"><br><font color="#FFFFFF" size="4">' source/vicesociety-*.html --no-filename | cut -d '>' -f 6 | cut -d '<' -f 1 | sed -e '/ato District Health Boa/d' -e 's/^ *//g' -e 's/[[:space:]]*$//' | sort --uniq
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
@@ -1102,17 +1104,6 @@ def noescape():
     for post in posts:
         appender(post, 'noescape')
 
-def cyclops():
-    stdlog('parser: ' + 'cyclops')
-    parser = '''
-    grep '<h2 class="mb-1"' source/cyclops-*.html | cut -d '>' -f2 | cut -d '<' -f1
-    '''
-    posts = runshellcmd(parser)
-    if len(posts) == 1:
-        errlog('cyclops: ' + 'parsing fail')
-    for post in posts:
-        appender(post, 'cyclops')
-
 def cactus():
     stdlog('parser: ' + 'cactus')
     parser = '''
@@ -1123,3 +1114,25 @@ def cactus():
         errlog('cactus: ' + 'parsing fail')
     for post in posts:
         appender(post, 'cactus')
+
+def knight():
+    stdlog('parser: ' + 'knight')
+    parser = '''
+    jq -r '.pages[].name' source/knight-*.html || true
+    '''
+    posts = runshellcmd(parser)
+    if len(posts) == 1:
+        errlog('knight: ' + 'parsing fail')
+    for post in posts:
+        appender(post, 'knight')
+
+def incransom():
+    stdlog('parser: ' + 'incransom')
+    parser = '''
+    jq -r '.payload[].title' source/incransom-*.html | sed -e 's/%20/ /' || true
+    '''
+    posts = runshellcmd(parser)
+    if len(posts) == 1:
+        errlog('incransom: ' + 'parsing fail')
+    for post in posts:
+        appender(post, 'incransom')

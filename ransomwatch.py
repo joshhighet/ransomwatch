@@ -308,8 +308,9 @@ if args.mode == 'parse':
     parsers.darkrace()
     parsers.rhysida()
     parsers.noescape()
-    parsers.cyclops()
     parsers.cactus()
+    parsers.knight()
+    parsers.incransom()
     stdlog('ransomwatch: ' + 'parse run complete')
 
 if args.mode == 'list':
