@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-08-12 | [`Armortex`](https://google.com/search?q=Armortex) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2023-08-12 | [`**a******`](https://google.com/search?q=%2A%2Aa%2A%2A%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-08-12 | [`arganoInterRel`](https://google.com/search?q=arganoInterRel) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-08-11 | [`Rite Technology`](https://google.com/search?q=Rite+Technology) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-08-11 | [`Thermenhotel Stoiser`](https://google.com/search?q=Thermenhotel+Stoiser) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-07-25 | [`de----int`](https://google.com/search?q=de----int) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
 | 2023-07-25 | [`Spectra Industrial`](https://google.com/search?q=Spectra+Industrial) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-07-25 | [`Miranda Brokerage`](https://google.com/search?q=Miranda+Brokerage) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-07-25 | [`Institut Mensalus S.L.`](https://google.com/search?q=Institut+Mensalus+S.L.) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-07-25 | [`Kersey &amp;amp; Co`](https://google.com/search?q=Kersey+%26amp%3Bamp%3B+Co) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
