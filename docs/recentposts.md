@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-08-12 | [`arganoInterRel`](https://google.com/search?q=arganoInterRel) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-08-11 | [`Rite Technology`](https://google.com/search?q=Rite+Technology) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-08-11 | [`Thermenhotel Stoiser`](https://google.com/search?q=Thermenhotel+Stoiser) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2023-08-11 | [`Important Updates`](https://google.com/search?q=Important+Updates) | [knight](https://ransomwatch.telemetry.ltd/#/profiles?id=knight) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-07-25 | [`Miranda Brokerage`](https://google.com/search?q=Miranda+Brokerage) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-07-25 | [`Institut Mensalus S.L.`](https://google.com/search?q=Institut+Mensalus+S.L.) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-07-25 | [`Kersey &amp;amp; Co`](https://google.com/search?q=Kersey+%26amp%3Bamp%3B+Co) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-07-25 | [`FANSIPAN CONSTRUCTION CONSULTANTS CO.,LTD`](https://google.com/search?q=FANSIPAN+CONSTRUCTION+CONSULTANTS+CO.%2CLTD) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
