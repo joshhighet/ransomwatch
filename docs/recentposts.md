@@ -4,6 +4,10 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-08-13 | [`zaun.co.uk`](https://google.com/search?q=zaun.co.uk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-08-13 | [`roxcel.com.tr`](https://google.com/search?q=roxcel.com.tr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-08-13 | [`meaf.com`](https://google.com/search?q=meaf.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-08-13 | [`difccourts.ae`](https://google.com/search?q=difccourts.ae) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-08-12 | [`Armortex`](https://google.com/search?q=Armortex) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-08-12 | [`**a******`](https://google.com/search?q=%2A%2Aa%2A%2A%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-08-12 | [`arganoInterRel`](https://google.com/search?q=arganoInterRel) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -200,7 +204,3 @@ _last `200` posts_
 | 2023-07-26 | [`Sysco Corporation`](https://google.com/search?q=Sysco+Corporation) | [dunghill_leak](https://ransomwatch.telemetry.ltd/#/profiles?id=dunghill_leak) |
 | 2023-07-26 | [`Gentex Corporation`](https://google.com/search?q=Gentex+Corporation) | [dunghill_leak](https://ransomwatch.telemetry.ltd/#/profiles?id=dunghill_leak) |
 | 2023-07-26 | [`ANDRADE GUTIERREZ & ZAGOPE`](https://google.com/search?q=ANDRADE+GUTIERREZ+%26+ZAGOPE) | [dunghill_leak](https://ransomwatch.telemetry.ltd/#/profiles?id=dunghill_leak) |
-| 2023-07-26 | [`Propper International`](https://google.com/search?q=Propper+International) | [moneymessage](https://ransomwatch.telemetry.ltd/#/profiles?id=moneymessage) |
-| 2023-07-25 | [`de----int`](https://google.com/search?q=de----int) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
-| 2023-07-25 | [`Spectra Industrial`](https://google.com/search?q=Spectra+Industrial) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-07-25 | [`Miranda Brokerage`](https://google.com/search?q=Miranda+Brokerage) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
