@@ -4,6 +4,11 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-08-13 | [`stmarysschool.co.za`](https://google.com/search?q=stmarysschool.co.za) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-08-13 | [`siampremier.co.th`](https://google.com/search?q=siampremier.co.th) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-08-13 | [`rappenglitz.de`](https://google.com/search?q=rappenglitz.de) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-08-13 | [`majan.com`](https://google.com/search?q=majan.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-08-13 | [`luterkort.se`](https://google.com/search?q=luterkort.se) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-08-13 | [`zaun.co.uk`](https://google.com/search?q=zaun.co.uk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-08-13 | [`roxcel.com.tr`](https://google.com/search?q=roxcel.com.tr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-08-13 | [`meaf.com`](https://google.com/search?q=meaf.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -199,8 +204,3 @@ _last `200` posts_
 | 2023-07-26 | [`Lumberton Independent School District`](https://google.com/search?q=Lumberton+Independent+School+District) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2023-07-26 | [`Kovair Software`](https://google.com/search?q=Kovair+Software) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2023-07-26 | [`Kersey  CO`](https://google.com/search?q=Kersey++CO) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-07-26 | [`The Big Life group`](https://google.com/search?q=The+Big+Life+group) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2023-07-26 | [`BoomData -Data and Analytics Consultancy`](https://google.com/search?q=BoomData+-Data+and+Analytics+Consultancy) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-07-26 | [`Sysco Corporation`](https://google.com/search?q=Sysco+Corporation) | [dunghill_leak](https://ransomwatch.telemetry.ltd/#/profiles?id=dunghill_leak) |
-| 2023-07-26 | [`Gentex Corporation`](https://google.com/search?q=Gentex+Corporation) | [dunghill_leak](https://ransomwatch.telemetry.ltd/#/profiles?id=dunghill_leak) |
-| 2023-07-26 | [`ANDRADE GUTIERREZ & ZAGOPE`](https://google.com/search?q=ANDRADE+GUTIERREZ+%26+ZAGOPE) | [dunghill_leak](https://ransomwatch.telemetry.ltd/#/profiles?id=dunghill_leak) |
