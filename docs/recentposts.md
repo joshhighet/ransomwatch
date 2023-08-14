@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-08-14 | [`CB Energy Australlia`](https://google.com/search?q=CB+Energy+Australlia) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
+| 2023-08-14 | [`Borets (Levare.com) `](https://google.com/search?q=Borets+%28Levare.com%29+) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-08-13 | [`stmarysschool.co.za`](https://google.com/search?q=stmarysschool.co.za) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-08-13 | [`siampremier.co.th`](https://google.com/search?q=siampremier.co.th) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-08-13 | [`rappenglitz.de`](https://google.com/search?q=rappenglitz.de) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-07-26 | [`www.beijer.es`](https://google.com/search?q=www.beijer.es) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-07-26 | [`www.addison-electronique.com`](https://google.com/search?q=www.addison-electronique.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-07-26 | [`Lumberton Independent School District`](https://google.com/search?q=Lumberton+Independent+School+District) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2023-07-26 | [`Kovair Software`](https://google.com/search?q=Kovair+Software) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
-| 2023-07-26 | [`Kersey  CO`](https://google.com/search?q=Kersey++CO) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
