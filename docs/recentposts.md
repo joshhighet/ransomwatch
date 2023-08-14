@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-08-14 | [`qbcqatar.com.qa`](https://google.com/search?q=qbcqatar.com.qa) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-08-14 | [`www.johnllowery.com`](https://google.com/search?q=www.johnllowery.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-08-14 | [`www.brak.de`](https://google.com/search?q=www.brak.de) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-08-14 | [`leecorpinc.com`](https://google.com/search?q=leecorpinc.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-07-27 | [`West Cargo`](https://google.com/search?q=West+Cargo) | [mallox](https://ransomwatch.telemetry.ltd/#/profiles?id=mallox) |
 | 2023-07-27 | [`scmh.org.tw`](https://google.com/search?q=scmh.org.tw) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-07-26 | [`Azimut - Time of publication!`](https://google.com/search?q=Azimut+-+Time+of+publication%21) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-07-26 | [`important information（Knight）`](https://google.com/search?q=important+information%EF%BC%88Knight%EF%BC%89) | [knight](https://ransomwatch.telemetry.ltd/#/profiles?id=knight) |
