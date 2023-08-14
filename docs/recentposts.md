@@ -4,6 +4,15 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-08-14 | [`Freeport-McMoran - NYSE: FCX`](https://google.com/search?q=Freeport-McMoran+-+NYSE%3A+FCX) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
+| 2023-08-14 | [`nortonlifelock.com`](https://google.com/search?q=nortonlifelock.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-14 | [`stockmanbank.com`](https://google.com/search?q=stockmanbank.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-14 | [`baesman.com`](https://google.com/search?q=baesman.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-14 | [`siemens-energy.com`](https://google.com/search?q=siemens-energy.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-14 | [`ucla.edu`](https://google.com/search?q=ucla.edu) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-14 | [`trellisware.com`](https://google.com/search?q=trellisware.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-14 | [`encorecapital.com`](https://google.com/search?q=encorecapital.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-14 | [`cadencebank.com`](https://google.com/search?q=cadencebank.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-08-14 | [`qbcqatar.com.qa`](https://google.com/search?q=qbcqatar.com.qa) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-08-14 | [`www.johnllowery.com`](https://google.com/search?q=www.johnllowery.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-08-14 | [`www.brak.de`](https://google.com/search?q=www.brak.de) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
@@ -195,12 +204,3 @@ _last `200` posts_
 | 2023-07-28 | [`CMC Marine`](https://google.com/search?q=CMC+Marine) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-07-28 | [`Dekko Window Systems`](https://google.com/search?q=Dekko+Window+Systems) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-07-28 | [`Regional Family Medicine`](https://google.com/search?q=Regional+Family+Medicine) | [karakurt](https://ransomwatch.telemetry.ltd/#/profiles?id=karakurt) |
-| 2023-07-28 | [`Rouzbeh Educational Complex`](https://google.com/search?q=Rouzbeh+Educational+Complex) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2023-07-28 | [`McAlester Regional Health Center`](https://google.com/search?q=McAlester+Regional+Health+Center) | [karakurt](https://ransomwatch.telemetry.ltd/#/profiles?id=karakurt) |
-| 2023-07-27 | [`Protected: INSULCANA CONTRACTING LTD`](https://google.com/search?q=Protected%3A+INSULCANA+CONTRACTING+LTD) | [ransomblog_noname](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomblog_noname) |
-| 2023-07-27 | [`Handi Quilter`](https://google.com/search?q=Handi+Quilter) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2023-07-27 | [`Morehead State Unive rsity (MSU)`](https://google.com/search?q=Morehead+State+Unive+rsity+%28MSU%29) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2023-07-27 | [`Offutt Nord`](https://google.com/search?q=Offutt+Nord) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2023-07-27 | [`West Cargo`](https://google.com/search?q=West+Cargo) | [mallox](https://ransomwatch.telemetry.ltd/#/profiles?id=mallox) |
-| 2023-07-27 | [`scmh.org.tw`](https://google.com/search?q=scmh.org.tw) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-07-26 | [`Azimut - Time of publication!`](https://google.com/search?q=Azimut+-+Time+of+publication%21) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
