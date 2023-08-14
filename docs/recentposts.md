@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-08-14 | [`Saint Xavier University`](https://google.com/search?q=Saint+Xavier+University) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-08-14 | [`Agriloja.pt`](https://google.com/search?q=Agriloja.pt) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2023-08-14 | [`CB Energy Australlia`](https://google.com/search?q=CB+Energy+Australlia) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-08-14 | [`Borets (Levare.com) `](https://google.com/search?q=Borets+%28Levare.com%29+) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-07-26 | [`CF Assicurazioni`](https://google.com/search?q=CF+Assicurazioni) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-07-26 | [`www.ville-chevilly-larue.fr`](https://google.com/search?q=www.ville-chevilly-larue.fr) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-07-26 | [`www.beijer.es`](https://google.com/search?q=www.beijer.es) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
-| 2023-07-26 | [`www.addison-electronique.com`](https://google.com/search?q=www.addison-electronique.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
