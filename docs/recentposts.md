@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-08-14 | [`www.johnllowery.com`](https://google.com/search?q=www.johnllowery.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
+| 2023-08-14 | [`www.brak.de`](https://google.com/search?q=www.brak.de) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
+| 2023-08-14 | [`leecorpinc.com`](https://google.com/search?q=leecorpinc.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-08-14 | [`econsult.com`](https://google.com/search?q=econsult.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-08-14 | [`Saint Xavier University`](https://google.com/search?q=Saint+Xavier+University) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-08-14 | [`Agriloja.pt`](https://google.com/search?q=Agriloja.pt) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2023-07-27 | [`scmh.org.tw`](https://google.com/search?q=scmh.org.tw) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-07-26 | [`Azimut - Time of publication!`](https://google.com/search?q=Azimut+-+Time+of+publication%21) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-07-26 | [`important information（Knight）`](https://google.com/search?q=important+information%EF%BC%88Knight%EF%BC%89) | [knight](https://ransomwatch.telemetry.ltd/#/profiles?id=knight) |
-| 2023-07-26 | [`Globacom Limited`](https://google.com/search?q=Globacom+Limited) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-07-26 | [`CF Assicurazioni`](https://google.com/search?q=CF+Assicurazioni) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-07-26 | [`www.ville-chevilly-larue.fr`](https://google.com/search?q=www.ville-chevilly-larue.fr) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
