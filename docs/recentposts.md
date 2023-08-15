@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-08-15 | [`www.verdeil.ch`](https://google.com/search?q=www.verdeil.ch) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
+| 2023-08-15 | [`jhillburn.com`](https://google.com/search?q=jhillburn.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-08-14 | [`Freeport-McMoran - NYSE: FCX`](https://google.com/search?q=Freeport-McMoran+-+NYSE%3A+FCX) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-08-14 | [`nortonlifelock.com`](https://google.com/search?q=nortonlifelock.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-08-14 | [`stockmanbank.com`](https://google.com/search?q=stockmanbank.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-07-28 | [`Frost & Sullivan`](https://google.com/search?q=Frost+%26+Sullivan) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-07-28 | [`Chu De Rennes`](https://google.com/search?q=Chu+De+Rennes) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-07-28 | [`CMC Marine`](https://google.com/search?q=CMC+Marine) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2023-07-28 | [`Dekko Window Systems`](https://google.com/search?q=Dekko+Window+Systems) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2023-07-28 | [`Regional Family Medicine`](https://google.com/search?q=Regional+Family+Medicine) | [karakurt](https://ransomwatch.telemetry.ltd/#/profiles?id=karakurt) |
