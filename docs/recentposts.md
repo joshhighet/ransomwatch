@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-08-15 | [`DTD Express`](https://google.com/search?q=DTD+Express) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
+| 2023-08-15 | [`Postel SpA`](https://google.com/search?q=Postel+SpA) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-08-15 | [`ABA Research - Business Information 2`](https://google.com/search?q=ABA+Research+-+Business+Information+2) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-08-15 | [`Keystone Insurance Services`](https://google.com/search?q=Keystone+Insurance+Services) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-08-15 | [`ANS`](https://google.com/search?q=ANS) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-07-29 | [`Modern Eyez`](https://google.com/search?q=Modern+Eyez) | [nokoyawa](https://ransomwatch.telemetry.ltd/#/profiles?id=nokoyawa) |
 | 2023-07-29 | [`One Health Solutions`](https://google.com/search?q=One+Health+Solutions) | [nokoyawa](https://ransomwatch.telemetry.ltd/#/profiles?id=nokoyawa) |
 | 2023-07-29 | [`N** ******* ******`](https://google.com/search?q=N%2A%2A+%2A%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2023-07-29 | [`Axity`](https://google.com/search?q=Axity) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2023-07-29 | [`Alinabal`](https://google.com/search?q=Alinabal) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
