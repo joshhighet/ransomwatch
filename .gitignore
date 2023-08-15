@@ -8,3 +8,4 @@ __pycache__
 source/screenshots/*.png
 source/linkanalysis/*.json
 assets/tmp/**
+docs/screenshots/**.png

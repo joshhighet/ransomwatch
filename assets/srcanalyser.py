@@ -2,15 +2,32 @@
 # -*- coding: utf-8 -*-
 import os
 import json
+import logging
 from bs4 import BeautifulSoup
-from sharedutils import stdlog, dbglog, errlog, honk
+
+# Set up logging
+logging.basicConfig(level=logging.INFO, format='%(levelname)s: %(message)s')
 
 if not os.path.exists('source/linkanalysis'):
     os.makedirs('source/linkanalysis')
 
+def display_output(infosheet, file_name):
+    print("\nprocessing file:", file_name)
+    print("="*40)
+    for key, value in infosheet.items():
+        if value:
+            print("\n", key.upper())
+            print("-"*30)
+            if isinstance(value, list):
+                for item in value:
+                    print(item)
+            else:
+                print(value)
+    print("\n" + "="*40 + "\n")
+
 for file in os.listdir('source'):
     if file.endswith('.html'):
-        stdlog('processing file: ' + file)
+        logging.info('processing file: ' + file)
         with open('source/' + file, 'r', encoding='utf-8') as f:
             fqdn = file.split('-')[1].strip('.html')
             infosheet = {
@@ -55,6 +72,7 @@ for file in os.listdir('source'):
             infosheet['phnumbers'] = list(set(phnum))
             infosheet['unhandled'] = list(set(unhandled))
             infosheet['source'] = 'ransomwatch/source/' + file
+            display_output(infosheet, file)
             with open('source/linkanalysis/' + fqdn + '.json', 'w', encoding='utf-8') as f:
                 json.dump(infosheet, f, indent=4)
-            stdlog('created findings file: ' + 'source/linkanalysis/' + fqdn + '.json')
+            logging.info('created findings file: ' + 'source/linkanalysis/' + fqdn + '.json')
