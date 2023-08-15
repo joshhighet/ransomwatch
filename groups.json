@@ -4602,6 +4602,16 @@
                 "updated": "2023-08-15 04:40:02.189587",
                 "lastscrape": "2023-08-15 04:40:02.189574",
                 "enabled": true
+            },
+            {
+                "fqdn": "incblog7vmuq7rktic73r4ha4j757m3ptym37tyvifzp2roedyyzzxid.onion",
+                "title": "INC Ransom",
+                "version": 3,
+                "slug": "http://incblog7vmuq7rktic73r4ha4j757m3ptym37tyvifzp2roedyyzzxid.onion",
+                "available": true,
+                "updated": "2023-08-15 16:49:25.274130",
+                "lastscrape": "2023-08-15 16:49:25.274115",
+                "enabled": true
             }
         ],
         "profile": []
