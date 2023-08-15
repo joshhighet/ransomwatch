@@ -4,6 +4,13 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-08-15 | [`netscout.com`](https://google.com/search?q=netscout.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-15 | [`energytransfer.com`](https://google.com/search?q=energytransfer.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-15 | [`l8solutions.co.uk`](https://google.com/search?q=l8solutions.co.uk) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-15 | [`autozone.com`](https://google.com/search?q=autozone.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-15 | [`crowe.com`](https://google.com/search?q=crowe.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-15 | [`westat.com`](https://google.com/search?q=westat.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-15 | [`visionware.ca`](https://google.com/search?q=visionware.ca) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-08-15 | [`www.ftria.co.jp`](https://google.com/search?q=www.ftria.co.jp) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-08-15 | [`www.cognizant.com`](https://google.com/search?q=www.cognizant.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-08-15 | [`Recaro`](https://google.com/search?q=Recaro) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -197,10 +204,3 @@ _last `200` posts_
 | 2023-07-31 | [`Ace Micromatic Group`](https://google.com/search?q=Ace+Micromatic+Group) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-07-31 | [`St Landry Parish School Board `](https://google.com/search?q=St+Landry+Parish+School+Board+) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-07-30 | [`Contec Systems`](https://google.com/search?q=Contec+Systems) | [mallox](https://ransomwatch.telemetry.ltd/#/profiles?id=mallox) |
-| 2023-07-30 | [`twv-staderland.de`](https://google.com/search?q=twv-staderland.de) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-07-30 | [`Hungarian Investment Promotion Agency`](https://google.com/search?q=Hungarian+Investment+Promotion+Agency) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
-| 2023-07-30 | [`bluelinea`](https://google.com/search?q=bluelinea) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
-| 2023-07-30 | [`decimal-point-analytics-pvt`](https://google.com/search?q=decimal-point-analytics-pvt) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
-| 2023-07-29 | [`Muncy Homes`](https://google.com/search?q=Muncy+Homes) | [nokoyawa](https://ransomwatch.telemetry.ltd/#/profiles?id=nokoyawa) |
-| 2023-07-29 | [`AT%26S`](https://google.com/search?q=AT%2526S) | [nokoyawa](https://ransomwatch.telemetry.ltd/#/profiles?id=nokoyawa) |
-| 2023-07-29 | [`Village Church of Barrington`](https://google.com/search?q=Village+Church+of+Barrington) | [nokoyawa](https://ransomwatch.telemetry.ltd/#/profiles?id=nokoyawa) |
