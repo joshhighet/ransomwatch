@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-08-15 | [`www.ftria.co.jp`](https://google.com/search?q=www.ftria.co.jp) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
+| 2023-08-15 | [`www.cognizant.com`](https://google.com/search?q=www.cognizant.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-08-15 | [`Recaro`](https://google.com/search?q=Recaro) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-08-15 | [`DTD Express`](https://google.com/search?q=DTD+Express) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-08-15 | [`Postel SpA`](https://google.com/search?q=Postel+SpA) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-07-29 | [`Muncy Homes`](https://google.com/search?q=Muncy+Homes) | [nokoyawa](https://ransomwatch.telemetry.ltd/#/profiles?id=nokoyawa) |
 | 2023-07-29 | [`AT%26S`](https://google.com/search?q=AT%2526S) | [nokoyawa](https://ransomwatch.telemetry.ltd/#/profiles?id=nokoyawa) |
 | 2023-07-29 | [`Village Church of Barrington`](https://google.com/search?q=Village+Church+of+Barrington) | [nokoyawa](https://ransomwatch.telemetry.ltd/#/profiles?id=nokoyawa) |
-| 2023-07-29 | [`Modern Eyez`](https://google.com/search?q=Modern+Eyez) | [nokoyawa](https://ransomwatch.telemetry.ltd/#/profiles?id=nokoyawa) |
-| 2023-07-29 | [`One Health Solutions`](https://google.com/search?q=One+Health+Solutions) | [nokoyawa](https://ransomwatch.telemetry.ltd/#/profiles?id=nokoyawa) |
