@@ -256,7 +256,6 @@ if args.mode == 'parse':
     parsers.midas()
     parsers.rook()
     parsers.cryp70n1c0d3()
-    parsers.hiveleak()
     parsers.mosesstaff()
     parsers.alphv()
     parsers.nightsky()
