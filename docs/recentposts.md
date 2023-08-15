@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-08-15 | [`Keystone Insurance Services`](https://google.com/search?q=Keystone+Insurance+Services) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2023-08-15 | [`ANS`](https://google.com/search?q=ANS) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2023-08-15 | [`Aspect Structural Engineers`](https://google.com/search?q=Aspect+Structural+Engineers) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-08-15 | [`www.verdeil.ch`](https://google.com/search?q=www.verdeil.ch) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-08-15 | [`jhillburn.com`](https://google.com/search?q=jhillburn.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-08-14 | [`Freeport-McMoran - NYSE: FCX`](https://google.com/search?q=Freeport-McMoran+-+NYSE%3A+FCX) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2023-07-29 | [`Axity`](https://google.com/search?q=Axity) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2023-07-29 | [`Alinabal`](https://google.com/search?q=Alinabal) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
 | 2023-07-28 | [`ESMOD`](https://google.com/search?q=ESMOD) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2023-07-28 | [`Frost & Sullivan`](https://google.com/search?q=Frost+%26+Sullivan) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2023-07-28 | [`Chu De Rennes`](https://google.com/search?q=Chu+De+Rennes) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2023-07-28 | [`CMC Marine`](https://google.com/search?q=CMC+Marine) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
