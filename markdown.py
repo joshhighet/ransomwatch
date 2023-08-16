@@ -228,7 +228,8 @@ def profilepage():
         writeline(profilepage, '| post | date |')
         writeline(profilepage, '|---|---|')
         posts = openjson('posts.json')
-        for post in posts:
+        posts_sorted = sorted(posts, key=lambda x: x['discovered'], reverse=True)
+        for post in posts_sorted:
             if post['group_name'] == group['name']:
                 date = post['discovered'].split(' ')[0]
                 date = date.split('-')
