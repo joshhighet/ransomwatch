@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-08-16 | [`Cequint`](https://google.com/search?q=Cequint) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-08-16 | [`Tally Energy Service s`](https://google.com/search?q=Tally+Energy+Service+s) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-08-16 | [`radissonhotelsamericas.com`](https://google.com/search?q=radissonhotelsamericas.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-08-16 | [`* *i***`](https://google.com/search?q=%2A+%2Ai%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-07-31 | [`Great Opportunity to monetize your corporate access`](https://google.com/search?q=Great+Opportunity+to+monetize+your+corporate+access) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2023-07-31 | [`Announcement: Batesville Tool & Die, Inc will be leaked in 3 Days`](https://google.com/search?q=Announcement%3A+Batesville+Tool+%26+Die%2C+Inc+will+be+leaked+in+3+Days) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
 | 2023-07-31 | [`www.garac.com`](https://google.com/search?q=www.garac.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
-| 2023-07-31 | [`fushimitsu.com`](https://google.com/search?q=fushimitsu.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
