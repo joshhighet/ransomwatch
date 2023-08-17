@@ -4,6 +4,13 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-08-17 | [`mybps.us`](https://google.com/search?q=mybps.us) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-08-17 | [`kriegerklatt.com`](https://google.com/search?q=kriegerklatt.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-08-17 | [`www.alliancesolutionsgrp.com`](https://google.com/search?q=www.alliancesolutionsgrp.com) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2023-08-17 | [`www.deutsche-leasing.com`](https://google.com/search?q=www.deutsche-leasing.com) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2023-08-17 | [`www.venauto.nl`](https://google.com/search?q=www.venauto.nl) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2023-08-17 | [`https://www.synquestlabs.com`](https://google.com/search?q=https%3A%2F%2Fwww.synquestlabs.com) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2023-08-17 | [`www.twintowerstrading.com`](https://google.com/search?q=www.twintowerstrading.com) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2023-08-17 | [`Camino Nuevo Charter Academy`](https://google.com/search?q=Camino+Nuevo+Charter+Academy) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-08-17 | [`Smart-swgcrc.org`](https://google.com/search?q=Smart-swgcrc.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-08-17 | [`SFJAZZ.ORG`](https://google.com/search?q=SFJAZZ.ORG) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -197,10 +204,3 @@ _last `200` posts_
 | 2023-08-02 | [`unicorpusa.com`](https://google.com/search?q=unicorpusa.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-08-01 | [`Garage Living, The Dispenser USA`](https://google.com/search?q=Garage+Living%2C+The+Dispenser+USA) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-08-01 | [`Aapd`](https://google.com/search?q=Aapd) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-08-01 | [`Birch, Horton, Bittner & Cherot`](https://google.com/search?q=Birch%2C+Horton%2C+Bittner+%26+Cherot) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-08-01 | [`DAL-TECH Engineering`](https://google.com/search?q=DAL-TECH+Engineering) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-08-01 | [`Coral Resort`](https://google.com/search?q=Coral+Resort) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-08-01 | [`Professionnel France`](https://google.com/search?q=Professionnel+France) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-08-01 | [`ACTIVA Group`](https://google.com/search?q=ACTIVA+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-08-01 | [`Aquatlantis`](https://google.com/search?q=Aquatlantis) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-08-01 | [`Kogetsu`](https://google.com/search?q=Kogetsu) | [mallox](https://ransomwatch.telemetry.ltd/#/profiles?id=mallox) |
