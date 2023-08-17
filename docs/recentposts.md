@@ -4,6 +4,11 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-08-17 | [`RIMSS`](https://google.com/search?q=RIMSS) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
+| 2023-08-17 | [`emerson.com`](https://google.com/search?q=emerson.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-17 | [`ricohacumen.com`](https://google.com/search?q=ricohacumen.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-17 | [`vrm.de`](https://google.com/search?q=vrm.de) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-17 | [`umassmed.edu`](https://google.com/search?q=umassmed.edu) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-08-17 | [`mybps.us`](https://google.com/search?q=mybps.us) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-08-17 | [`kriegerklatt.com`](https://google.com/search?q=kriegerklatt.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-08-17 | [`www.alliancesolutionsgrp.com`](https://google.com/search?q=www.alliancesolutionsgrp.com) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
@@ -199,8 +204,3 @@ _last `200` posts_
 | 2023-08-02 | [`Guido`](https://google.com/search?q=Guido) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-08-02 | [`COSI`](https://google.com/search?q=COSI) | [karakurt](https://ransomwatch.telemetry.ltd/#/profiles?id=karakurt) |
 | 2023-08-02 | [`Bickel & Brewer - Press Release`](https://google.com/search?q=Bickel+%26+Brewer+-+Press+Release) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
-| 2023-08-02 | [`University of Salerno`](https://google.com/search?q=University+of+Salerno) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2023-08-02 | [`ohiohistory.org`](https://google.com/search?q=ohiohistory.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-08-02 | [`unicorpusa.com`](https://google.com/search?q=unicorpusa.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-08-01 | [`Garage Living, The Dispenser USA`](https://google.com/search?q=Garage+Living%2C+The+Dispenser+USA) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-08-01 | [`Aapd`](https://google.com/search?q=Aapd) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
