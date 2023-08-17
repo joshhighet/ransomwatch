@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-08-17 | [`The Clifton Public S chools`](https://google.com/search?q=The+Clifton+Public+S+chools) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-08-17 | [`https://dillonsupply.com`](https://google.com/search?q=https%3A%2F%2Fdillonsupply.com) | [metaencryptor](https://ransomwatch.telemetry.ltd/#/profiles?id=metaencryptor) |
 | 2023-08-17 | [`https://www.epicure.com`](https://google.com/search?q=https%3A%2F%2Fwww.epicure.com) | [metaencryptor](https://ransomwatch.telemetry.ltd/#/profiles?id=metaencryptor) |
 | 2023-08-17 | [`http://www.coswell.biz`](https://google.com/search?q=http%3A%2F%2Fwww.coswell.biz) | [metaencryptor](https://ransomwatch.telemetry.ltd/#/profiles?id=metaencryptor) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-08-01 | [`Parathon by JDA eHea lth Systems`](https://google.com/search?q=Parathon+by+JDA+eHea+lth+Systems) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-08-01 | [`KIMCO Staffing Service`](https://google.com/search?q=KIMCO+Staffing+Service) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-08-01 | [`MBS Equipment TTI`](https://google.com/search?q=MBS+Equipment+TTI) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-08-01 | [`Pea River Electric Cooperative`](https://google.com/search?q=Pea+River+Electric+Cooperative) | [nokoyawa](https://ransomwatch.telemetry.ltd/#/profiles?id=nokoyawa) |
