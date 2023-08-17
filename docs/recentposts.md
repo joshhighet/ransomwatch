@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-08-17 | [`Camino Nuevo Charter Academy`](https://google.com/search?q=Camino+Nuevo+Charter+Academy) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
+| 2023-08-17 | [`Smart-swgcrc.org`](https://google.com/search?q=Smart-swgcrc.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-08-17 | [`SFJAZZ.ORG`](https://google.com/search?q=SFJAZZ.ORG) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-08-17 | [`The Clifton Public S chools`](https://google.com/search?q=The+Clifton+Public+S+chools) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-08-17 | [`https://dillonsupply.com`](https://google.com/search?q=https%3A%2F%2Fdillonsupply.com) | [metaencryptor](https://ransomwatch.telemetry.ltd/#/profiles?id=metaencryptor) |
 | 2023-08-17 | [`https://www.epicure.com`](https://google.com/search?q=https%3A%2F%2Fwww.epicure.com) | [metaencryptor](https://ransomwatch.telemetry.ltd/#/profiles?id=metaencryptor) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2023-08-01 | [`ACTIVA Group`](https://google.com/search?q=ACTIVA+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-08-01 | [`Aquatlantis`](https://google.com/search?q=Aquatlantis) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-08-01 | [`Kogetsu`](https://google.com/search?q=Kogetsu) | [mallox](https://ransomwatch.telemetry.ltd/#/profiles?id=mallox) |
-| 2023-08-01 | [`Parathon by JDA eHea lth Systems`](https://google.com/search?q=Parathon+by+JDA+eHea+lth+Systems) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2023-08-01 | [`KIMCO Staffing Service`](https://google.com/search?q=KIMCO+Staffing+Service) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-08-01 | [`MBS Equipment TTI`](https://google.com/search?q=MBS+Equipment+TTI) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
