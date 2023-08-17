@@ -4615,5 +4615,25 @@
             }
         ],
         "profile": []
+    },
+    {
+        "name": "metaencryptor",
+        "captcha": false,
+        "parser": true,
+        "javascript_render": false,
+        "meta": null,
+        "locations": [
+            {
+                "fqdn": "metacrptmytukkj7ajwjovdpjqzd7esg5v3sg344uzhigagpezcqlpyd.onion",
+                "title": "Metaencryptor::Home",
+                "version": 3,
+                "slug": "http://metacrptmytukkj7ajwjovdpjqzd7esg5v3sg344uzhigagpezcqlpyd.onion/#!",
+                "available": true,
+                "updated": "2023-08-17 13:46:30.955741",
+                "lastscrape": "2023-08-17 13:46:30.955718",
+                "enabled": true
+            }
+        ],
+        "profile": []
     }
 ]

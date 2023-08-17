@@ -1134,3 +1134,14 @@ def incransom():
         errlog('incransom: ' + 'parsing fail')
     for post in posts:
         appender(post, 'incransom')
+
+def metaencryptor():
+    stdlog('parser: ' + 'metaencryptor')
+    parser = '''
+    grep '<a class="btn btn-secondary btn-sm" href="' source/metaencryptor-*.html | cut -d '>' -f 18 | grep btn-sm | cut -d '"' -f 4
+    '''
+    posts = runshellcmd(parser)
+    if len(posts) == 1:
+        errlog('metaencryptor: ' + 'parsing fail')
+    for post in posts:
+        appender(post, 'metaencryptor')

@@ -310,6 +310,7 @@ if args.mode == 'parse':
     parsers.cactus()
     parsers.knight()
     parsers.incransom()
+    parsers.metaencryptor()
     stdlog('ransomwatch: ' + 'parse run complete')
 
 if args.mode == 'list':
