@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-08-18 | [`www.auda.org.au`](https://google.com/search?q=www.auda.org.au) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-08-17 | [`www.contact121.com.au`](https://google.com/search?q=www.contact121.com.au) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-08-17 | [`umchealth.com`](https://google.com/search?q=umchealth.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-08-17 | [`Agriloja.pt demo-leak`](https://google.com/search?q=Agriloja.pt+demo-leak) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-08-03 | [`constructioncrd.com`](https://google.com/search?q=constructioncrd.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-08-03 | [`bestmotel.de`](https://google.com/search?q=bestmotel.de) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-08-02 | [`Helen F. Dalton Lawyers`](https://google.com/search?q=Helen+F.+Dalton+Lawyers) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-08-02 | [`www.gruposca.com`](https://google.com/search?q=www.gruposca.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
