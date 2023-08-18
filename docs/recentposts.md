@@ -4,6 +4,23 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-08-18 | [`BTC Power`](https://google.com/search?q=BTC+Power) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-08-18 | [`Stanford Transportation Inc`](https://google.com/search?q=Stanford+Transportation+Inc) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-08-18 | [`Bolton Group`](https://google.com/search?q=Bolton+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-08-18 | [`Legends Limousine`](https://google.com/search?q=Legends+Limousine) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-08-18 | [`Oneonline`](https://google.com/search?q=Oneonline) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-08-18 | [`tomtom.com`](https://google.com/search?q=tomtom.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-18 | [`agilysys.com`](https://google.com/search?q=agilysys.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-18 | [`honeywell.com`](https://google.com/search?q=honeywell.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-18 | [`tgidirect`](https://google.com/search?q=tgidirect) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-18 | [`aspentech.com`](https://google.com/search?q=aspentech.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-18 | [`shutterfly.com`](https://google.com/search?q=shutterfly.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-18 | [`schnabel-eng.com`](https://google.com/search?q=schnabel-eng.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-18 | [`bankers-bank.com`](https://google.com/search?q=bankers-bank.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-18 | [`oekk.ch`](https://google.com/search?q=oekk.ch) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-18 | [`cuanswers.com`](https://google.com/search?q=cuanswers.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-18 | [`brault.us`](https://google.com/search?q=brault.us) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-18 | [`genericon.at`](https://google.com/search?q=genericon.at) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-08-18 | [`tedpella.com`](https://google.com/search?q=tedpella.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-08-18 | [`mitchcointernational.com`](https://google.com/search?q=mitchcointernational.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-08-18 | [`www.auda.org.au`](https://google.com/search?q=www.auda.org.au) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
@@ -187,20 +204,3 @@ _last `200` posts_
 | 2023-08-04 | [`ESKA Erich Schweizer`](https://google.com/search?q=ESKA+Erich+Schweizer) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2023-08-04 | [`Studio Domaine LLC`](https://google.com/search?q=Studio+Domaine+LLC) | [nokoyawa](https://ransomwatch.telemetry.ltd/#/profiles?id=nokoyawa) |
 | 2023-08-04 | [`THECHANGE`](https://google.com/search?q=THECHANGE) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-08-04 | [`Ofimedic`](https://google.com/search?q=Ofimedic) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-08-04 | [`Abatti Companies - Press Release`](https://google.com/search?q=Abatti+Companies+-+Press+Release) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
-| 2023-08-03 | [`H********** ********* ***`](https://google.com/search?q=H%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A%2A%2A+%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2023-08-03 | [`Spokane Spinal Sports Care Clinic`](https://google.com/search?q=Spokane+Spinal+Sports+Care+Clinic) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2023-08-03 | [`Roman Catholic Diocese of Albany`](https://google.com/search?q=Roman+Catholic+Diocese+of+Albany) | [nokoyawa](https://ransomwatch.telemetry.ltd/#/profiles?id=nokoyawa) |
-| 2023-08-03 | [`pointpleasant.k12.nj.us`](https://google.com/search?q=pointpleasant.k12.nj.us) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-08-03 | [`Venture General Agen cy`](https://google.com/search?q=Venture+General+Agen+cy) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2023-08-03 | [`INSULCANA CONTRACTING LTD`](https://google.com/search?q=INSULCANA+CONTRACTING+LTD) | [ransomblog_noname](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomblog_noname) |
-| 2023-08-03 | [`L** **** ****`](https://google.com/search?q=L%2A%2A+%2A%2A%2A%2A+%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2023-08-03 | [`Datawatch Systems`](https://google.com/search?q=Datawatch+Systems) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2023-08-03 | [`admsc.com`](https://google.com/search?q=admsc.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-08-03 | [`RevZero, Inc`](https://google.com/search?q=RevZero%2C+Inc) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-08-03 | [`Rossman Realty Group, inc.`](https://google.com/search?q=Rossman+Realty+Group%2C+inc.) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-08-03 | [`riggsabney`](https://google.com/search?q=riggsabney) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-08-03 | [`Tempur Sealy International`](https://google.com/search?q=Tempur+Sealy+International) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-08-03 | [`fec-corp.com`](https://google.com/search?q=fec-corp.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-08-03 | [`constructioncrd.com`](https://google.com/search?q=constructioncrd.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
