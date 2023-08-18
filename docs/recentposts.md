@@ -4,6 +4,16 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-08-18 | [`ABS Auto Auctions`](https://google.com/search?q=ABS+Auto+Auctions) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-08-18 | [`DSA Law Pty Ltd`](https://google.com/search?q=DSA+Law+Pty+Ltd) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-08-18 | [`Miami Management`](https://google.com/search?q=Miami+Management) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-08-18 | [`powerfi.org`](https://google.com/search?q=powerfi.org) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-18 | [`eastwestbank.com`](https://google.com/search?q=eastwestbank.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-18 | [`pragroup.no`](https://google.com/search?q=pragroup.no) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-18 | [`marti.com`](https://google.com/search?q=marti.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-18 | [`umpquabank.com`](https://google.com/search?q=umpquabank.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-18 | [`umsystem.edu`](https://google.com/search?q=umsystem.edu) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-18 | [`aplusfcu.org`](https://google.com/search?q=aplusfcu.org) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-08-18 | [`BTC Power`](https://google.com/search?q=BTC+Power) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-08-18 | [`Stanford Transportation Inc`](https://google.com/search?q=Stanford+Transportation+Inc) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-08-18 | [`Bolton Group`](https://google.com/search?q=Bolton+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -194,13 +204,3 @@ _last `200` posts_
 | 2023-08-04 | [`iqcontrols.com`](https://google.com/search?q=iqcontrols.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-08-04 | [`atser.com`](https://google.com/search?q=atser.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-08-04 | [`armortex.com`](https://google.com/search?q=armortex.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-08-04 | [`Galicia en Goles`](https://google.com/search?q=Galicia+en+Goles) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-08-04 | [`p`](https://google.com/search?q=p) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
-| 2023-08-04 | [`z`](https://google.com/search?q=z) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
-| 2023-08-04 | [`Koury Engineering`](https://google.com/search?q=Koury+Engineering) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2023-08-04 | [`Pharmatech Repblica Dominicana was hacked. All sensitive company and customer information `](https://google.com/search?q=Pharmatech+Repblica+Dominicana+was+hacked.+All+sensitive+company+and+customer+information+) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-08-04 | [`Grupo Garza Ponce was hacked! Due to a massive company vulnerability, more than 2 TB of se`](https://google.com/search?q=Grupo+Garza+Ponce+was+hacked%21+Due+to+a+massive+company+vulnerability%2C+more+than+2+TB+of+se) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-08-04 | [`SBS Construction`](https://google.com/search?q=SBS+Construction) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-08-04 | [`ESKA Erich Schweizer`](https://google.com/search?q=ESKA+Erich+Schweizer) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2023-08-04 | [`Studio Domaine LLC`](https://google.com/search?q=Studio+Domaine+LLC) | [nokoyawa](https://ransomwatch.telemetry.ltd/#/profiles?id=nokoyawa) |
-| 2023-08-04 | [`THECHANGE`](https://google.com/search?q=THECHANGE) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
