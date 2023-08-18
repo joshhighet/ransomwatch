@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-08-18 | [`tedpella.com`](https://google.com/search?q=tedpella.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-08-18 | [`mitchcointernational.com`](https://google.com/search?q=mitchcointernational.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-08-18 | [`www.auda.org.au`](https://google.com/search?q=www.auda.org.au) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-08-17 | [`www.contact121.com.au`](https://google.com/search?q=www.contact121.com.au) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-08-17 | [`umchealth.com`](https://google.com/search?q=umchealth.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-08-03 | [`Tempur Sealy International`](https://google.com/search?q=Tempur+Sealy+International) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-08-03 | [`fec-corp.com`](https://google.com/search?q=fec-corp.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-08-03 | [`constructioncrd.com`](https://google.com/search?q=constructioncrd.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-08-03 | [`bestmotel.de`](https://google.com/search?q=bestmotel.de) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-08-02 | [`Helen F. Dalton Lawyers`](https://google.com/search?q=Helen+F.+Dalton+Lawyers) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
