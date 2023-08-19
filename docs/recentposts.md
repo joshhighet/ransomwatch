@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-08-19 | [`s3groupltd.com`](https://google.com/search?q=s3groupltd.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-08-19 | [`phitoformulas.com.br`](https://google.com/search?q=phitoformulas.com.br) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-08-19 | [`macuspana.gob.mx`](https://google.com/search?q=macuspana.gob.mx) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-08-19 | [`National Institute of Social Services for Retirees and Pensioners`](https://google.com/search?q=National+Institute+of+Social+Services+for+Retirees+and+Pensioners) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-08-07 | [`www.avertronics.com`](https://google.com/search?q=www.avertronics.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-08-07 | [`rvpl.lt`](https://google.com/search?q=rvpl.lt) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-08-07 | [`varian.com`](https://google.com/search?q=varian.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-08-06 | [`Delaney Browne Recruitment`](https://google.com/search?q=Delaney+Browne+Recruitment) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
