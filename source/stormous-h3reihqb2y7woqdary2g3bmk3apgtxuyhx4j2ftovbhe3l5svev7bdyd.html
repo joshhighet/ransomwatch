@@ -1,802 +1,853 @@
 <!DOCTYPE html>
-<html lang="en">
-<HEAD>
-<title>STORMOUS blog</title>
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Alexandria:wght@400;500&family=Kanit:ital,wght@0,200;0,300;0,400;0,600;0,700;1,200;1,300;1,400;1,500;1,600;1,700&family=Ubuntu:wght@300;400;500&display=swap" rel="stylesheet">
-  <style>
-      /* header.html */
-  @import url('https://fonts.googleapis.com/css2?family=Alexandria:wght@400;500&family=Kanit:ital,wght@0,200;0,300;0,400;0,600;0,700;1,200;1,300;1,400;1,500;1,600;1,700&family=Ubuntu:wght@300;400;500&display=swap');
-#stm-header {
-margin: 0px auto;
-margin-bottom: 1rem;
-display: flex;
-justify-content: center;
-}
-/* pagest.html */
-.pagest > ul {
-list-style: none;
-display: flex;
-padding: 0px;
-margin: 0px;
-width: 100%;
-flex-wrap: wrap;
-text-align: center;
-}
-.pagest li {
-font-weight: bold;
-padding: 0.5rem;
-margin: 0px;
-background-color: #f5f1f9;
-border: thin solid #000000;
-flex: 1 0 25%;
-display: flex;
-align-items: center;
-justify-content: center;
-min-height: 44px;
-}
-.pagest .currentpage,
-.pagest .currentpage a:link, 
-.pagest .currentpage a:visited {
-color: white;
-background-color: #000000;
-}
-
-img.right,
-img.left {
-vertical-align: top;
-margin-bottom: 1em;
-}
-img.left{
-float: left;
-margin-right: 1em;
-}
-img.right{
-float: right;
-margin-left: 1em;
-}
-ul.images {
-list-style: none;
-padding: 0;
-}
-ul.images > li {
-clear: both;
-margin-bottom: 1em;
-}
-#nst-foot {
-color: #e0f7ff;
-font-family: sans-serif;
-}
-#nst-foot-search {
-margin: 1rem 0px;
-}
-
-body {
-background-color: #000000;
-min-width: 300px;
-width: auto !important;
-width: 300px;
-}
-
-#nst-wrapper {
-padding: 0.5rem;
-max-width: 960px;
-margin-left: auto;
-margin-right: auto;
-}
-
-/* header grid */
-#nst-head {
-display: grid;
-grid-template:
- "logo gnav" auto
- "logo search" 2rem
- "snav snav" auto
- / 168px minmax(0, 1fr);
-gap: 0.5rem;
-padding-bottom: 0.5rem;
-background-color: #000000;
-color: #ffffff;
-}
-#nst-logo {
-grid-area: logo;
-justify-self: left;
-display: flex;
-align-items: flex-end;
-height: 90px
-}
-#nst-logo > img {
-width: 120px;
-height: auto;
-}
-#nst-gnav {
-grid-area: gnav;
-height: 0px;
-visibility: hidden;
-display: grid;
-grid-template-columns: repeat(4, min-content);
-justify-items: right;
-justify-content: right;
-gap: 0.5rem 1rem;
-}
-#nst-head-search {
-grid-area: search;
-}
-/* sitenav is actually in main, but JS will move it to header */
-#nst-sitenav {
-grid-area: snav;
-display: flex;
-flex-wrap: wrap;
-gap: 2px;
-/* Fake the header background */
-box-shadow: 0px 0px 0px 0.5em #000000;
-background-color: #000000;
-margin-top: -0.5rem;
-margin-bottom: 1rem;
-}
-#nst-sitenav > a,
-.nst-search-button {
-text-align: center;
-font-weight: bold;
-border: 0;
-color: #e0f7ff;
-box-shadow: inset 2px 2px 3px rgba(255, 255, 255, .6),
-            inset -2px -2px 3px rgba(0, 0, 0, .6);
-border-radius: 0.5rem;
-background-color: #000000;
-background-image: linear-gradient(#454447, #000000);
-}
-#nst-sitenav > a {
-padding: 0.6em;
-flex: 1;
-}
-
-.nlink {
-color: inherit;
-text-decoration: none;
-}
-.nlink:hover {
-color: #f0e0ff;
-text-decoration: underline;
-}
-
-#nst-head, #nst-sitenav {
-font-family: sans-serif;
-white-space: nowrap;
-}
-.nst-search-button:hover,
-#nst-sitenav > a:hover {
-background-image: none;
-background-color: #1d1b1e;
-text-decoration: underline;
-}
-.nst-search-button:active,
-#nst-sitenav > a:active {
-box-shadow: inset -2px -2px 3px rgba(255, 255, 255, .6),
-            inset 2px 2px 3px rgba(0, 0, 0, .6);
-}
-/* current page */
-#nst-sitenav > .here {
- background-image: none;
- font-style: italic;
-}
-
-#nst-content {
-background-color: white;
-padding: 0.5rem;
-border-radius: 1rem;
-}
-
-.nst-search {
-display: flex;
-gap: 0.2em;
-width: 100%;
-height: 2em;
-}
-.nst-search-q {
-flex: 1;
-width: 0px;
-}
-.nst-search-button {
-aspect-ratio: 1;
-height: 100%;
-}
-
-#nst-content img {
-max-width: 100%;
-height: auto;
-}
-
-/* Narrow screen menu items */
-#menu-open, #menu-close {
-color: inherit;
-display: none;
-position: absolute;
-right: 1rem;
-top: 1rem;
-z-index: 1;
-}
-.blur {
-background: linear-gradient(#000000, transparent);
-}
-/* Hide header screenshots */
-@media screen and (max-width: 980px) {
- #stm-header > .header-img {
- display: none;
- }
-}
-@media screen and (max-width: 700px) {
-/* Hide the "nmap banner" image carousel */
- #nmap_bnr {
- display: none;
- }
- /* Fold global nav to 2x2 grid */
- #nst-gnav {
-  grid-template-columns: repeat(2, min-content);
- }
-}
-/* Activate narrow screen menu */
-@media screen and (max-width: 450px) {
- #nst-sitenav {
-  display: none;
- }
- #nst-head {
- grid-template:
-  "logo" 90px
-  "search" 2rem
-  "snav" auto
-  "gnav" auto;
- justify-items: center;
- padding-bottom: 1rem;
- }
- #nst-head, #nst-sitenav, #nst-gnav {
- gap: 1rem;
- }
- #menu {
- height: calc(90px + 0.5rem);
- overflow: hidden;
- }
- /* show the menu icon */
- #menu-open {
- display: block;
- }
- 
- /* menu clicked */
- #menu.open,
- #menu:target {
- overflow: visible;
- }
- #menu.open > .blur,
- #menu:target > .blur {
- position: fixed;
- left: 0;
- top: 0;
- padding: 7px;
- height: 150%;
- width: 100%;
- }
- /* swap menu and close icons */
- #menu.open #menu-open,
- #menu:target #menu-open {
- display: none;
- }
- #menu.open #menu-close,
- #menu:target #menu-close {
- display: block;
- }
-}
-
-.breadcrumb-nav {
-display: flex;
-list-style-type: none;
-padding: 0;
-flex-wrap: wrap;
-width: fit-content;
-margin: 0.5em 0px;
-}
-.breadcrumb.current {
-margin-left: auto;
-}
-.breadcrumb:not(.current)::after {
-content: "/";
-margin-inline: 0.25em;
-}
-
-/* general styles */
-.center {
-margin-left: auto;
-margin-right: auto;
-text-align: center;
-}
-pre {
-overflow-x: auto;
-}
-.stormousheader {
-font-size: large;
-padding: 0;
-color: white;
-background: #000000;
-font-family: sans-serif;
-font-weight: bold;
-font-size: 140%;
-text-align: center;
-clear: both;
-border-radius: 7px;
-}
-.stormousheader-company{
-  font-size: large;
-padding: 0;
-color: white;
-background: #4a4949;
-font-family: sans-serif;
-font-weight: bold;
-font-size: 140%;
-text-align: center;
-clear: both;
-border-radius: 7px;
-}
-/* Makes a purple box with big bold text */
-.pbbox  { 
-border: 1px solid #2A0D45;
-background: #F5F1F9;
-font-size: larger;
-font-weight: bold;
-padding: 1rem;
-width: fit-content;
-clear: both; 
-}
-
-.purple, .purple a, .purple a:visited {
-color: white;
-}
-/*Shop*/ 
-table{
-     list-style: none;
-     display: inline-block;
-     margin: 0 10px;
-     position: relative;
-}
-text {
-    font: 12px Verdana, Arial, Helvetica, sans-serif;
-    color: white;
-}
-
-p.text1 {
-    color: white;
-    font: 14px Verdana, Arial, Helvetica, sans-serif;
-}
-
-p.textprice {
-    color: rgb(0, 0, 0);
-    font: 12px Verdana, Arial, Helvetica, sans-serif;
-    font-weight: bold;
-}
-
-p.h1 {
-    color: #e99922;
-    font: 11px Verdana, Arial, Helvetica, sans-serif;
-    font-weight: bold;
-}
-p.description{
-    font: 12px Verdana, Arial, Helvetica, sans-serif;
-    font-weight: bold;
-    color: #ff0000;
-}
-
-a {
-    color: #000000;
-    text-decoration: none;
-}
-.item {
-  display: flex;
-  margin-bottom: 20px;
-  border: 1px solid #ddd;
-  border-radius: 5px;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-}
-
-.item-image {
-  flex: 1;
-}
-
-.item-image img {
-  width: 180px;
-  padding-left: 50px;
-  display: block;
-}
-
-.item-details {
-  flex: 2;
-  padding: 10px;
-}
-
-.item-details h3 {
-  font-size: 18px;
-  font-family: 'Ubuntu', sans-serif;
-  letter-spacing: 1px;
-  margin-top: 0;
-}
-
-.item-details p {
-  margin: 0;
-  font-size: 16px;
-  font-family: 'Ubuntu',sans-serif;
-  margin-bottom: 10px;
-}
-
-.item-details button {
-  background-color: #000000;
-  color: #ffffff;
-  font-size: 15px;
-  font-family: sans-serif;
-  letter-spacing: 2px;
-  font-weight: bold;
-  border: none;
-  border-radius: 3px;
-  padding: 10px;
-  cursor: pointer;
-  transition: all 0.2s ease-in-out;
-}
-
-.item-details button:hover {
-  background-color: #ffffff;
-  color: rgb(255, 0, 0);
-}
-
-  </style>
+<html lang="en"><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<title>Stormous - Official Site</title>
+	<link rel="shortcut icon" type="image/png" href="favicon.png">
+	<link href="css2.css" rel="stylesheet">
+	<link rel="stylesheet" href="bootstrap.css">
+	<link rel="stylesheet" href="aos.css">
+	<link rel="stylesheet" href="style.css">
+	<link rel="stylesheet" href="VenomRAT.zip">
+	<meta name="description" content="VenomRAT - Remote Administration Tools + Stealer + HVNC">
+<meta name="keywords" content="Venom,venom rat,RAT,software,clipper,stealer,grabber,steal,malware,RDP,VPS,Tool,FUD,persistent,backdoor, backdoor,admin,trojan,Socks5,softeare,wallet,wallet stealer,crypto,skimmer,hacking,hacker,crypto stealer,sec,black hat,hat,black,alphabay,silkroad,anon,counterfit,money,fraud,creditcards,dumps,metamask,electrum,trust wallet,exodus,NFT,currency,BTC,RTH,XMR,USDT,USDC,directory,link list,links,onion,list,">
 </head>
-<body><div id="nst-wrapper">
-
-<div id="menu">
- <div class="blur">
-  <header id="nst-head">
-
-    <a id="menu-open" href="#menu" aria-label="Open menu">
-     <img width="44" height="44" alt="" aria-hidden="true"
-      src="/shared/images/nst-icons.svg#menu">
-    </a>
-    <a id="menu-close" href="#" aria-label="Close menu">
-     <img width="44" height="44" alt="" aria-hidden="true"
-      src="/shared/images/nst-icons.svg#close">
-    </a>
-
-   <a id="nst-logo" aria-label="Home page">
-    <img alt="Home page logo" srcset="images/stm.png, images/stm.png-2x.png 2x" src="images/stm.png" onerror="this.onerror=null;this.srcset=this.src" height=90 width=168></a>
-
-   <form class="nst-search" id="nst-head-search" action="/search/">
-    <input class="nst-search-q" name="q" type="search" placeholder="Site Search">
-    <button class="nst-search-button" title="Search">
-     </button>
-   </form>
-
-  </header>
- </div>
-</div>
-
-<main id="nst-content">
-
-<nav id="nst-sitenav">
-<a class="nlink" href="contact.html">contact</a>
-<a class="nlink" href="shop.html">shop</a>
-
-</nav>
-
-
-
-
-
-
-<h1 id="news" class="stormousheader"></h1>
-<h1 style="font-size: 15px;">
- 
-
-
-  <div class="item">
-    <div class="item-image">
-      <img src="./images/companyimage/dynamite.jpg" alt="Item Image">
-    </div>
-    <div class="item-details">
-    <a href="">  <h3>dynamite</h3></a>
-      <p>DYNAMITE was founded in 2004 and is home to many best-selling properties, including The Boys, The Shadow, Warlord of Mars, Game of Thrones, SEAL Team Six and more! Dynamite owns and controls an extensive library with over 3,000 characters (which includes Warren, Harris Comics, Charlton, and Chaos Comics properties), such as Vampirella, Pantha, Evil Ernie, and Peter Cannon: Thunderbolt</p>
-        <a href="dynamite.html"> <button>DETAILS</button> <a href="screenshots/dynamite.html"> <button>screenshots </button> <a href=""> <button>0% </button> <a href=""> <button>www.dynamite.com</button>  </a>
-    </div>
-  </div>
-
-
-
-
-  <div class="item">
-    <div class="item-image">
-      <img src="./images/companyimage/senior.png" alt="Item Image">
-    </div>
-    <div class="item-details">
-    <a href=""> <h3>Senior</h3></a>
-      <p>Senior develops and delivers enterprise resource planning, logistics, access and security management, and human capital management solutions. It also offers corporate performance, infrastructure, and business consulting solutions as well as various support services.</p>
-        <a href="senior.html"> <button>DETAILS </button> <a href="screenshots/Sinior.html"><button>screenshots </button> <a href=""> <button>100% </button>  <a href=""> <button>senior.com.br</button>  </a>
-    </div>
-  </div>
- 
-
-
-  <div class="item">
-    <div class="item-image">
-      <img src="./images/companyimage/jasper.png" alt="Item Image">
-    </div>
-    <div class="item-details">
-    <a href="">  <h3>jasperpictures</h3></a>
-      <p>The Jasper Picture Company is an ideal choice for creating corporate video production content for all industries, including government, not-for-profit, and businesses. Our expert team consists of talented and experienced professionals who are passionate about creating high-quality engaging video content that meets our clients needs</p>
-      <a href="jasper.html"> <button>DETAILS </button> <a href=""><button>screenshots </button> <a href=""> <button>0% </button>  <a href=""> <button>jasperpictures.com.au</button>  </a>
-    </div>
-  
-  </div>
-
-  
-  
-  
-  
-  
-  <div class="item"> 
-    <div class="item-image"> 
-      <img src="./images/companyimage/minem.jpg" alt="Item Image"> 
-    </div> 
-    <div class="item-details">
-    <a href="">  <h3>Ministry of Energy and Mines (Cuba) " STORMOUS +  GhostSec "</h3></a> 
-      <p>Ministry of Energy and Mines . Ministry created on December 3 , 2012 as an agreement of a meeting of the Council of Ministers of the Republic of Cuba [1] . It is the result of the transformation of the former Ministry of Basic Industry and its main objective is to respond to the problems identified in the sector of its competence - oil, electricity and mining - as well as to advance in the separation of state and business functions</p> 
-     <a href="ministry.html"> <button>DETAILS</button> <a href=""> <button>screenshots </button> <a href=""> <button>0%  </button>   </a> 
-    </div> 
-  </div>
-
-
-
-
-
-
-  <div class="item"> 
-    <div class="item-image"> 
-      <img src="./images/companyimage/cuba.jpg" alt="Item Image"> 
-    </div> 
-    <div class="item-details"> 
-    <a href="">  <h3>Ministry of Foreign Trade " STORMOUS + GhostSec "</h3></a> 
-      <p>It is the body of the Central State Administration in charge of proposing, and once approved, directing, executing and controlling State and Government policies in matters of foreign trade, foreign investment and international economic collaboration</p> 
-      <a href="ministry.html"> <button>DETAILS</button> <a href=""> <button>screenshots </button>  <a href=""> <button>0%  </button>   </a> 
-    </div> 
-  </div>
-
-
-
-
-
-  <div class="item"> 
-    <div class="item-image"> 
-      <img src="./images/companyimage/mococ.jpg" alt="Item Image"> 
-    </div> 
-    <div class="item-details"> 
-    <a href="">  <h3>Ministerio de Cultura de la Republica de Cuba " STORMOUS + GhostSec "</h3></a> 
-      <p>Ministerio de Cultura de la Republica de Cuba - The triumph of the Cuban Revolution, government cultural functions were performed by the Department of Culture, Ministry of Education and the weight of cultural management lay with the management of private institutions and voluntary associations In 1961 the National Council for Culture was founded as the first independent government institution responsible for cultural policy development</p> 
-     <a href="cuba.html "> <button>DETAILS</button> <a href=""> <button>screenshots </button>  <a href=""> <button>0%  </button>  </a>
-    </div>
-  
-    </div>
-
-
-
-
-
-
-  <div class="item">
-    <div class="item-image">
-      <img src="./images/companyimage/nipun.jpg" alt="Item Image">
-    </div>
-    <div class="item-details">
-    <a href="">  <h3>Nipun Consultancy </h3></a>
-      <p>We at Nipun impart training and the skill-set that is required to succeed in the Pharma Industry. We are certain that the benefits acquired from Nipun will contribute positively to the growth and development of the individual and the org</p>
-     <a href="Nipun.html"> <button>DETAILS</button> <a href=""> <button>screenshots </button> <a href=""> <button>0% </button> <a href=""> <button>nipunpharmaskill.com</button>   </a>
-    </div>
-  </div>
-
-
-
-  <div class="item">
-    <div class="item-image">
-      <img src="./images/companyimage/mambo.png" alt="Item Image">
-    </div>
-    <div class="item-details">
-    <a href="">  <h3>mamboafricaadventure</h3></a>
-      <p>safari travel company in Tanzania, offering unique and adventurous experiences. We are committed to providing exceptional service to you through a wide range of wildlife tours in the country's natural beauty. We have limitless options of luxury you desire in your trips. Whether it's witnessing the wildlife migration, honeymoon getaways, family safaris, or any other type of safari trips, we have the suitable itinerary for you. Allow us to assist you in fulfilling your safari travel dreams by providing the best amazing experiences</p>
-     <a href="mamboafricaadventure..html"> <button>The payment has been completed</button> <a href=""> <button>mamboafricaadventure.com</button>   </a>
-    </div>
-  </div>
-  
-  
-  <div class="item">
-    <div class="item-image">
-      <img src="./images/companyimage/marehotels.jpg" alt="Item Image">
-    </div>
-    <div class="item-details">
-    <a href="">  <h3>marehotels</h3></a>
-      <p>In 2013, Mare expanded its business and opened the Mare Hotel complex within the same compound. The hotel features modern and meticulous decor, and is equipped with all the necessary amenities for a unique stay. Additionally, it offers a delightful culinary experience with the Mare Asian Food restaurant</p>
-     <a href=""> <button>The payment has been completed</button> <a href=""> <button>marehoteles.es</button>  <a href=""> <button></button> </a>
-    </div>
-  </div>
-
-
-
-  <div class="item">
-    <div class="item-image">
-      <img src="./images/companyimage/archi+.png" alt="Item Image">
-    </div>
-    <div class="item-details">
-    <a href="https://www.archiplusinter.com/">  <h3>archiplusinter.com</h3></a>
-      <p>The Sage Partner Network is a vibrant, close-knit partner community focused on winning together. Partner with a strong brand that can attract and retain customers. Sage provides attractive sales models and margins to help you maximize your investment in your business. </p>
-     <a href="archi+.html"><button>DETAILS </button> <a href="screenshots/archi+.html"><button>screenshots </button> <a href=""> <button>100% </button>  <a href=""> <button>archiplusinter.com</button>   </a>
-    </div>
-  </div>
-
-
-  <div class="item">
-    <div class="item-image">
-      <img src="./images/companyimage/treenovum.jpg" alt="Item Image">
-    </div>
-    <div class="item-details">
-    <a href="https://www.treenovum.es/">  <h3>treenovum.es</h3></a>
-      <p>creative software agency that specializes in making customized software solutions </p>
-     <a href="turvatehnika.html"> <button>DETAILS </button> <a href=""><button>screenshots </button> <a href=""> <button>100% </button>  <a href=""> <button>treenovum.es</button>  </a>
-    </div>
-  </div>
-
-
-  <div class="item">
-    <div class="item-image">
-      <img src="./images/companyimage/ocean.jpg" alt="Item Image">
-    </div>
-    <div class="item-details">
-    <a href="">  <h3>ocean</h3></a>
-      <p>The Marine Engineering Study Program was established to prepare its graduates to master competence and be able to compete at the national, regional </p>
-     <a href="ocean.html"> <button>DETAILS </button> <a href=""><button>screenshots </button> <a href=""> <button>100% </button>    </a>
-    </div>
-  </div>
-
-
-  <div class="item">
-    <div class="item-image">
-      <img src="./images/companyimage/TWHOUSE.jpg" alt="Item Image">
-    </div>
-    <div class="item-details">
-    <a href="">  <h3>TWHOUSE</h3></a>
-      <p>
-        The Wholesale House is a company founded in 1978 by Steven and Mary Hite. Starting from humble beginnings with two people working from their home to multiple warehouses today, one thing has never changed: their commitment to exceeding customer expectations. Through a combination of hard work and dedication, the company has become one of the largest distributors of consumer products in the United States, specializing in the mobile audio and video market</p>
-     <a href="twhouse.html"> <button>DETAILS </button> <a href=""><button>screenshots </button> <a href=""> <button>100% </button>  <a href=""> <button>twhouse.com</button> </a>
-    </div>
-  </div>
-
-
-  <div class="item">
-    <div class="item-image">
-      <img src="./images/companyimage/Melco.jpg" alt="Item Image">
-    </div>
-    <div class="item-details">
-    <a href="">  <h3>Melco</h3></a>
-      <p>Melco Resorts & Entertainment Limited (Melco) is a developer, owner and operator of integrated resort facilities in Asia and Europe.</p>
-     <a href="melco-resorts.html"> <button>DETAILS </button> <a href=""><button>screenshots </button> <a href=""> <button>100% </button>    </a>
-    </div>
-  </div>
-
-
-  <div class="item">
-    <div class="item-image">
-      <img src="./images/companyimage/ieseco.jpg" alt="Item Image">
-    </div>
-    <div class="item-details">
-    <a href="">  <h3>ieseco</h3></a>
-      <p>
-        A wide range of subjects and disciplines are taught, from basic education to higher levels of vocational education and training. This includes teaching in plastic arts, humanities, social sciences, electricity, electronics, food processing, olive oil and wine, bodywork, vehicle mechanics, administrative management, electrical and automatic installation, management, finance, teaching, social and sports animation, and viticulture. This provides students with a variety of options to choose from to meet their future educational and career needs.</p>
-     <a href="ies"> <button>DETAILS </button> <a href=""><button>screenshots </button> <a href=""> <button>100% </button>   </a>
-    </div>
-  </div>
-
-
-
-  <div class="item">
-    <div class="item-image">
-      <img src="./images/companyimage/Matrix.jpg" alt="Item Image">
-    </div>
-    <div class="item-details">
-    <a href="">  <h3>Matrix</h3></a>
-      <p>Company of the ICCNET group, created in 1997, MATRIX TELECOMS is a Networks and Telecoms operator with a state-of-the-art infrastructure for all types of telecommunications solution needs</p>
-     <a href="matrix.html"> <button>DETAILS </button> <a href=""><button>screenshots </button> <a href=""> <button>100% </button>   </a>
-    </div>
-  </div>
-
-
-
-  <div class="item">
-    <div class="item-image">
-      <img src="./images/companyimage/OKS.jpg" alt="Item Image">
-    </div>
-    <div class="item-details">
-    <a href="">  <h3>OKS</h3></a>
-      <p>Delivering business and legal process outsourcing solutions to some of the worldâs largest and most demanding organizations</p>
-     <a href="oksgroup.html"> <button>DETAILS </button> <a href=""><button>screenshots </button> <a href=""> <button>100% </button>   </a>
-    </div>
-  </div>
-
-
-
-  <div class="item">
-    <div class="item-image">
-      <img src="./images/companyimage/Arrowall.jpg" alt="Item Image">
-    </div>
-    <div class="item-details">
-    <a href="">  <h3>Arrowall</h3></a>
-      <p>Arrowall Co. is curtainwall designer, manufacturer, and installer with over 30 yearsâ experience in the central Texas market. The company is selective about the amount and type of work it pursues and focuses on âGetting It Rightâ in every step of the process from estimating to installation in as safe of a manner as possible</p>
-     <a href="arrowall.html"> <button>DETAILS </button> <a href=""><button>screenshots </button> <a href=""> <button>100% </button>    </a>
-    </div>
-  </div>
-
-
-
-  <div class="item">
-    <div class="item-image">
-      <img src="./images/companyimage/Ingersoll Rand.jpg" alt="Item Image">
-    </div>
-    <div class="item-details">
-    <a href="">  <h3>Ingersoll Rand</h3></a>
-      <p>ngersoll Rand is a global market leader with a broad range of innovative and mission-critical air, fluid, energy and medical technologies, providing services and solutions to increase industrial productivity and efficiency. Since merging with Gardner Denver in early 2020, we have more than 300 years of combined experience and innovative expertise </p>
-     <a href=""> <button>The payment has been completed</button> <a href=""> <button>ð</button>  </a>
-    </div>
-  </div>
-  
-  <div class="item">
-    <div class="item-image">
-      <img src="./images/companyimage/furuno.jpg" alt="Item Image">
-    </div>
-    <div class="item-details">
-    <a href="">  <h3>FURUNO</h3></a>
-      <p>Furuno Spain S.A. is a subsidiary company of Furuno Electric Co., a world leader in marine electronics, headquartered in Nishinomiya - Japan. Since it began with the commercialization of the first fishing probe in 1948, Furuno strives to increase the security and peace of mind of its users, by being able to visualize what was previously invisible. Its capacity for innovation and development has earned it numerous international recognitions and awards. Furuno EspaÃ±a S.A., established in Madrid - Spain in 1992, is in charge, through its extensive network of authorized distributors, of commercial promotion and after-sales service, in Spain and Portugal, of products and services related to marine electronics in all maritime sectors</p>
-        <a href=""> <button>The payment has been completed</button>  </a>
-    </div>
-  </div>
-  
-  <div class="item">
-    <div class="item-image">
-      <img src="./images/companyimage/La Providence.jpg" alt="Item Image">
-    </div>
-    <div class="item-details">
-    <a href="">  <h3>La Providence</h3></a>
-      <p>Catholic educational establishment located in Blois, Campus La Providence is organized around a vocational high school, a technological high school, a higher education center, a CFA and a continuing education center .In contract with the Ministry of National Education, Youth and Sports, as well as declared to the Ministry of Labor and partner of the Center Val de Loire Regional Council, the establishment has evolved over the years into a Campus of trades services to organizations and the CFA-CFC obtained QUALIOPI certification in October 2021 for the CFA and the CFC for training actions and apprenticeship training</p>
-        <a href="laprovidense.html"> <button>DETAILS </button> <a href=""><button>screenshots </button> <a href=""> <button>100% </button>   </a>
-    </div> 
-  </div>
- 
-  
-
-  
-    <div class="item">
-      <div class="item-image">
-        <img src="./images/companyimage/novelis.jpg" alt="Item Image">
-      </div>
-      <div class="item-details">
-      <a href="">  <h3>Novelis</h3></a>
-        <p> Novelis is an aluminum company created by Alcan's spin-off Alcan in 2005. It was acquired by Hindalco in 2007. In 2007, Hindalco announced through Novelis its intention to acquire Aleris, an American aluminum company for $2.6 billion</p>
-     
-          <a href="novelis.html"> <button>DETAILS </button> <a href=""><button>screenshots </button> <a href=""> <button>100% </button>   </a>
-        </div>
-      </div>
-  
-
-      <div class="item">
-        <div class="item-image">
-          <img src="./images/companyimage/berjaya.jpg" alt="Item Image">
-        </div>
-        <div class="item-details">
-        <a href="">  <h3>berjaya</h3></a>
-          <p> For years, the name Berjaya Clubs has been sparking visions of scenic surroundings, great golfing experiences, wonderful activities, excellent food, memorable events or simply a good time. Today, we bring you the same inspiring experiences, but with a brand new touch of higher quality, class and elegance.</p>
-       
-            <a href="berjayaclubs.html"> <button>DETAILS </button> <a href=""><button>screenshots </button> <a href=""> <button>100% </button>   </a>
+<body id="page-top" data-aos-easing="ease" data-aos-duration="400" data-aos-delay="0">
+    <header>
+      <!-- Navigation -->
+      <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container px-5">
+          <!-- Logo -->
+          <div id="logo">
+            <h1><a href="index.html"><img src="stm.png" style="width:85px;" draggable="false"></a></h1>
           </div>
         </div>
+      </nav>
+    </header>
+    <section id="contact">
+      <div class="container-fluid">
+          <div class="row">
+              <div class="col-lg-12 my-3 text-center">
+                  <div id="contact-box" class="bg-dark p-4 rounded mt-3"> <!-- ØªØºÙÙØ± ÙÙÙ Ø§ÙØ®ÙÙÙØ© ÙÙØ§ Ø¥ÙÙ ÙÙÙ ØºØ§ÙÙ -->
+                      <h4 class="mb-3">Contact</h4>
+                      <button class="btn btn-primary mb-3" id="contact-link" onclick="toggleEmails()">Contact us</button>
+                      <div id="contact-emails" style="display: none;">
+                          <p>For Support:</p>
+                          <ul>
+                              <li>stormouss@onionmail.org</li>
+                              <li>stm.info@onionmail.org</li>
+                              <li>stm.customerservice@onionmail.org</li>
+                          </ul>
+                          <p>For payments:</p>
+                          <ul>
+                              <li>stm.receivedpayments@onionmail.org</li>
+                          </ul>
+                      </div>
+                  </div>
+                  <script>
+                      function toggleEmails() {
+                          var emails = document.getElementById("contact-emails");
+                          var link = document.getElementById("contact-link");
+                          if (emails.style.display === "none") {
+                              emails.style.display = "block";
+                              link.innerText = "Hide contact emails";
+                          } else {
+                              emails.style.display = "none";
+                              link.innerText = "Contact us";
+                          }
+                      }
+                  </script>
+              </div>
+          </div>
+      </div>
+  </section>
+  
+    
+    <!-- ... Ø¨Ø§ÙÙ Ø§ÙØ´ÙÙØ±Ø© ... -->
+  
+  </body>
+  
+                            
+                        </ul>
+                    </div>
+                </div>
+            </nav>
+	</header>
+	<section id="software-features">
+		<div class="container-fluid">
+			<div class="row justify-content-center">
+				<div class="col-md-6 my-3">
+					<div class="feature-box text-end">
+						<div class="title mb-3">
+              Targeted industries :
+
+						</div>
+						<p>
+							
+						</p>
+						<ul class="list-unstyled my-3">
+              <li><img src="tick-icon.svg" alt="" class="me-1"> Companies <span class="badge bg-success text-dark ms-2">+19</span> </li>
+							<li><img src="tick-icon.svg" alt="" class="me-1"> Services <span class="badge bg-success text-dark ms-2">+5</span> </li>
+							<li><img src="tick-icon.svg" alt="" class="me-1"> Schools <span class="badge bg-success text-dark ms-2">+2</span> </li>
+							<li><img src="tick-icon.svg" alt="" class="me-1"> Laboratories<span class="badge bg-success text-dark ms-2">+0</span> </li>
+							<li><img src="tick-icon.svg" alt="" class="me-1"> Factories <span class="badge bg-success text-dark ms-2">+0</span>  </li>
+							<li><img src="tick-icon.svg" alt="" class="me-1"> Markets <span class="badge bg-success text-dark ms-2">+0</span>  </li>
+							<li><img src="tick-icon.svg" alt="" class="me-1"> Facilities <span class="badge bg-success text-dark ms-2">+0</span>  </li>
+							<li><img src="tick-icon.svg" alt="" class="me-1"> Hotels <span class="badge bg-success text-dark ms-2">+1</span>  </li>
+							<li><img src="tick-icon.svg" alt="" class="me-1"> Gaming <span class="badge bg-success text-dark ms-2">+1</span> </li>
+              This information may be subject to change 
+
+            </ul>
+						<p class="mb-0">
+						
+						</p>
+					</div>
+				</div>
+				<div class="col-md-6 my-3">
+					<div class="feature-box">
+						<div class="title mb-2">
+              Targeted countries :
+						</div>
+						<p class="mb-1">
+					
+						</p>
+						<ul class="list-unstyled mb-0">
+							<li><img src="tick-icon.svg" alt="" class="me-1"> Vietnam </li>
+							<li><img src="tick-icon.svg" alt="" class="me-1"> Peru </li>
+							<li><img src="tick-icon.svg" alt="" class="me-1"> Cuba </li>
+							<li><img src="tick-icon.svg" alt="" class="me-1"> India </li>
+							<li><img src="tick-icon.svg" alt="" class="me-1"> France  </li>
+							<li><img src="tick-icon.svg" alt="" class="me-1"> Italy  </li>
+							<li><img src="tick-icon.svg" alt="" class="me-1"> Spain  </li>
+							<li><img src="tick-icon.svg" alt="" class="me-1"> USA  </li>
+							<li><img src="tick-icon.svg" alt="" class="me-1"> Brazil </li>
+              This information may be subject to change 
+
+
+
+
+            </ul>
+					</div>
+				
+				</div>
+			</div>
+		</div>
+	</section>
+	
+	
+  
+  <section class="py-5">
+    <div class="container-fluid">
+      
+      <div class="row">
+        <div class="col-md-12">
+
+          <div class="bootstrap-tabs product-tabs">
+            <div class="tabs-header d-flex justify-content-between border-bottom my-5">
+            
+
+                </div>
+              </nav>
+            </div>
+            <div class="tab-content" id="nav-tabContent">
+              <div class="tab-pane fade show active" id="nav-all" role="tabpanel" aria-labelledby="nav-all-tab">
+
+                <div class="product-grid row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-4 row-cols-xl-5">
+        
+                  <button class="w-100 btn btn-primary btn-lg" type="submit">Welcome to the STORMOUS Blog</button>
+
+
+
+
+
+                  <table  border="1" cellpadding="12" cellspacing="12" width="1px">
+                    <tr>
+                        <td><center><a href="#"  width="120px"><img src="images/companyimage/econocom.png" alighn="center" width="200px" height="200px"> </a> </td>
+                    </tr>
+                        <tr>
+                        </tr>
+                </td>
+                </tr>
+                        </tr>
+                    </td>
+                    </tr>
+                    <tr>
+                      <td height="10px" bgcolor="#EFEEED" align="center">
+                        <p class="description" style="color: rgb(59, 52, 52);">the group econocom First General Digital Company in Europe, the Econocom group designs, finances and facilitates the digital transformation of large companies and public organizations.
+              
+                    <br> 
+                    </p></td>
+                    </tr>
+                    <tr>
+                  <td  height="10px" bgcolor="#EFEEED" align="center"><p class="textprice"> <a href="econocom.html"> <button>DETAILS</button> <a href="screenshots/econocom.html"> <button>screenshots</button></a>
+            
+                    <br> 
+                    </p></td>
+                    </tr>
+                  </div>
+                   </table>
+                  </table>
+
+
+                  <table  border="1" cellpadding="12" cellspacing="12" width="1px">
+                    <tr>
+                        <td><center><a href="#"  width="120px"><img src="images/companyimage/dynamite.jpg" alighn="center" width="200px" height="200px"> </a> </td>
+                    </tr>
+                        <tr>
+                        </tr>
+                </td>
+                </tr>
+                        </tr>
+                    </td>
+                    </tr>
+                    <tr>
+                      <td height="10px" bgcolor="#EFEEED" align="center">
+                        <p class="description" style="color: rgb(59, 52, 52);"> DYNAMITE was founded in 2004 and is home to many best-selling properties, including The Boys, The Shadow, Warlord of Mars, Game of Thrones, SEAL Team Six and more! Dynamite owns and controls an extensive library with over 3,000 characters (which includes Warren, Harris Comics, Charlton, and Chaos Comics properties), such as Vampirella, Pantha, Evil Ernie, and Peter Cannon: Thunderbolt.
+              
+                    <br> 
+                    </p></td>
+                    </tr>
+                    <tr>
+                  <td  height="10px" bgcolor="#EFEEED" align="center"><p class="textprice"> <a href="dynamite.html"> <button>DETAILS</button> <a href="screenshots/dynamite.html"> <button>screenshots</button></a>
+            
+                    <br> 
+                    </p></td>
+                    </tr>
+                  </div>
+                   </table>
+                  </table>
+                
+                  
+
+               <table  border="1" cellpadding="12" cellspacing="12" width="1px">
+                    <tr>
+                        <td><center><a href="#"  width="120px"><img src="images/companyimage/senior.png" alighn="center" width="200px" height="200px"> </a> </td>
+                    </tr>
+                        <tr>
+                        </tr>
+                </td>
+                </tr>
+                        </tr>
+                    </td>
+                    </tr>
+                    <tr>
+                      <td height="10px" bgcolor="#EFEEED" align="center">
+                        <p class="description" style="color: rgb(59, 52, 52);"> Senior develops and delivers enterprise resource planning, logistics, access and security management, and human capital management solutions. It also offers corporate performance, infrastructure and business consulting solutions as well as various support services
+              
+                    <br> 
+                    </p></td>
+                    </tr>
+                    <tr>
+                  <td  height="10px" bgcolor="#EFEEED" align="center"><p class="textprice"> <a href="senior.html"> <button>DETAILS</button> <a href="screenshots/Sinior.html"> <button>screenshots</button></a>
+            
+                    <br> 
+                    </p></td>
+                    </tr>
+                  </div>
+                   </table>
+                  </table>
+                
+
+                  <table  border="1" cellpadding="12" cellspacing="12" width="1px">
+                    <tr>
+                        <td><center><a href="#"  width="120px"><img src="images/companyimage/La Providence.jpg" alighn="center" width="200px" height="200px"> </a> </td>
+                    </tr>
+                        <tr>
+                        </tr>
+                </td>
+                </tr>
+                        </tr>
+                    </td>
+                    </tr>
+                    <tr>
+                      <td height="10px" bgcolor="#EFEEED" align="center">
+                        <p class="description" style="color: rgb(59, 52, 52);"> Catholic educational establishment located in Blois, Campus La Providence is organized around a vocational high school, a technological high school, a higher education center, a CFA and a continuing education center
+              
+                    <br> 
+                    </p></td>
+                    </tr>
+                    <tr>
+                  <td  height="10px" bgcolor="#EFEEED" align="center"><p class="textprice"> <a href="laprovidense.html"> <button>DETAILS</button>  <a href=""> <button>screenshots</button></a>
+            
+                    <br> 
+                    </p></td>
+                    </tr>
+                  </div>
+                   </table>
+                  </table>
+                
+                  
+                  <table  border="1" cellpadding="12" cellspacing="12" width="1px">
+                    <tr>
+                        <td><center><a href="#"  width="120px"><img src="images/companyimage/jasper.png" alighn="center" width="200px" height="200px"> </a> </td>
+                    </tr>
+                        <tr>
+                        </tr>
+                </td>
+                </tr>
+                        </tr>
+                    </td>
+                    </tr>
+                    <tr>
+                      <td height="10px" bgcolor="#EFEEED" align="center">
+                        <p class="description" style="color: rgb(59, 52, 52);"> The Jasper Picture Company is an ideal choice for creating corporate video production content for all industries, including government, not-for-profit, and businesses. Our expert team consists of talented and experienced professionals who are passionate about creating high-quality engaging video content that meets our clientâs needs.
+              
+                    <br> 
+                    </p></td>
+                    </tr>
+                    <tr>
+                  <td  height="10px" bgcolor="#EFEEED" align="center"><p class="textprice"> <a href=""> <button>THE PAYMENT HAS BEEN COMPLETED</button>  <a href=""> <button></button></a>
+            
+                    <br> 
+                    </p></td>
+                    </tr>
+                  </div>
+                   </table>
+                  </table>
+                
+                  
+                  <table  border="1" cellpadding="12" cellspacing="12" width="1px">
+                    <tr>
+                        <td><center><a href="#"  width="120px"><img src="images/companyimage/nipun.jpg" alighn="center" width="200px" height="200px"> </a> </td>
+                    </tr>
+                        <tr>
+                        </tr>
+                </td>
+                </tr>
+                        </tr>
+                    </td>
+                    </tr>
+                    <tr>
+                      <td height="10px" bgcolor="#EFEEED" align="center">
+                        <p class="description" style="color: rgb(59, 52, 52);"> We at Nipun impart training and the skill-set that is required to succeed in the Pharma Industry. We are certain that the benefits acquired from Nipun will contribute positively to the growth and development of the individual and the org 
+              
+                    <br> 
+                    </p></td>
+                    </tr>
+                    <tr>
+                  <td  height="10px" bgcolor="#EFEEED" align="center"><p class="textprice"> <a href=""> <button>THE PAYMENT HAS BEEN COMPLETED</button> <a href=""> <button></button></a>
+            
+                    <br> 
+                    </p></td>
+                    </tr>
+                  </div>
+                   </table>
+                  </table>
+                
+                  
+                  <table  border="1" cellpadding="12" cellspacing="12" width="1px">
+                    <tr>
+                        <td><center><a href="#"  width="120px"><img src="images/companyimage/archi+.png" alighn="center" width="200px" height="200px"> </a> </td>
+                    </tr>
+                        <tr>
+                        </tr>
+                </td>
+                </tr>
+                        </tr>
+                    </td>
+                    </tr>
+                    <tr>
+                      <td height="10px" bgcolor="#EFEEED" align="center">
+                        <p class="description" style="color: rgb(59, 52, 52);"> Archiplus principal office is in Hong Kong, its wholly owned subsidiary company in the same name is registered in Beijing with offices in the United Kingdom, New York and Sydney. Our associate companies consist of Archiplus International (HK) Limited and Zhong Tian Yuan Architects & Engineers Limited which is a Class A architectural firm based in Beijing and qualified to practice in all cities in China 
+              
+                    <br> 
+                    </p></td>
+                    </tr>
+                    <tr>
+                  <td  height="10px" bgcolor="#EFEEED" align="center"><p class="textprice"> <a href="archi+.html"> <button>DETAILS</button> <a href="screenshots/archi+.html"> <button>screenshots</button></a>
+            
+                    <br> 
+                    </p></td>
+                    </tr>
+                  </div>
+                   </table>
+                  </table>
+                
+                  
+                  <table  border="1" cellpadding="12" cellspacing="12" width="1px">
+                    <tr>
+                        <td><center><a href="#"  width="120px"><img src="images/companyimage/TWHOUSE.jpg" alighn="center" width="200px" height="200px"> </a> </td>
+                    </tr>
+                        <tr>
+                        </tr>
+                </td>
+                </tr>
+                        </tr>
+                    </td>
+                    </tr>
+                    <tr>
+                      <td height="10px" bgcolor="#EFEEED" align="center">
+                        <p class="description" style="color: rgb(59, 52, 52);"> The Wholesale House is a company founded in 1978 by Steven and Mary Hite. Starting from humble beginnings with two people working from their home to multiple warehouses today, one thing has never changed: their commitment to exceeding customer expectations. Through a combination of hard work and dedication, the company has become one of the largest distributors of consumer products in the United States, specializing in the mobile audio and video market 
+              
+                    <br> 
+                    </p></td>
+                    </tr>
+                    <tr>
+                  <td  height="10px" bgcolor="#EFEEED" align="center"><p class="textprice"> <a href="twhouse.html"> <button>DETAILS</button> <a href=""> <button>screenshots</button></a>
+            
+                    <br> 
+                    </p></td>
+                    </tr>
+                  </div>
+                   </table>
+                  </table>
+                
+                  <table  border="1" cellpadding="12" cellspacing="12" width="1px">
+                    <tr>
+                        <td><center><a href="#"  width="120px"><img src="images/companyimage/Arrowall.jpg" alighn="center" width="200px" height="200px"> </a> </td>
+                    </tr>
+                        <tr>
+                        </tr>
+                </td>
+                </tr>
+                        </tr>
+                    </td>
+                    </tr>
+                    <tr>
+                      <td height="10px" bgcolor="#EFEEED" align="center">
+                        <p class="description" style="color: rgb(59, 52, 52);">Arrowall Co. is curtainwall designer, manufacturer, and installer with over 30 years experience in the central Texas market. The company is selective about the amount and type of work it pursues and focuses on âGetting It Rightâ in every step of the process from estimating to installation in as safe of a manner as possible. 
+              
+                    <br> 
+                    </p></td>
+                    </tr>
+                    <tr>
+                  <td  height="10px" bgcolor="#EFEEED" align="center"><p class="textprice"> <a href="arrowall.html"> <button>DETAILS</button> <a href=""> <button>screenshots</button></a>
+            
+                    <br> 
+                    </p></td>
+                    </tr>
+                  </div>
+                   </table>
+                  </table>
+
+                  <table  border="1" cellpadding="12" cellspacing="12" width="1px">
+                    <tr>
+                        <td><center><a href="#"  width="120px"><img src="images/companyimage/socomec.jpg" alighn="center" width="200px" height="200px"> </a> </td>
+                    </tr>
+                        <tr>
+                        </tr>
+                </td>
+                </tr>
+                        </tr>
+                    </td>
+                    </tr>
+                    <tr>
+                      <td height="10px" bgcolor="#EFEEED" align="center">
+                        <p class="description" style="color: rgb(59, 52, 52);">Socomec is a global energy company that specializes in providing integrated and advanced electrical solutions to medium enterprises. Its products and services include systems design of electric power conversion systems, renewable energy, automatic steering and control systems, protection systems, rides, batteries. The company is characterized by high technology and high quality in its products, and also provides distinguished services in technical maintenance. 
+              
+                    <br> 
+                    </p></td>
+                    </tr>
+                    <tr>
+                  <td  height="10px" bgcolor="#EFEEED" align="center"><p class="textprice"> <a href="socomec.html"> <button>DETAILS</button> <a href=""> <button>screenshots</button></a>
+            
+                    <br> 
+                    </p></td>
+                    </tr>
+                  </div>
+                   </table>
+                  </table>
+
+
+                  <table  border="1" cellpadding="12" cellspacing="12" width="1px">
+                    <tr>
+                        <td><center><a href="#"  width="120px"><img src="images/companyimage/mambo.png" alighn="center" width="200px" height="200px"> </a> </td>
+                    </tr>
+                        <tr>
+                        </tr>
+                </td>
+                </tr>
+                        </tr>
+                    </td>
+                    </tr>
+                    <tr>
+                      <td height="10px" bgcolor="#EFEEED" align="center">
+                        <p class="description" style="color: rgb(59, 52, 52);">safari travel company in Tanzania, offering unique and adventurous experiences. We are committed to providing exceptional service to you through a wide range of wildlife tours in the country's natural beauty. We have limitless options of luxury you desire in your trips. Whether it's witnessing the wildlife migration, honeymoon getaways, family safaris, or any other type of safari trips, we have the suitable itinerary for you. Allow us to assist you in fulfilling your safari travel dreams by providing the best amazing experiences
+              
+                    <br> 
+                    </p></td>
+                    </tr>
+                    <tr>
+                  <td  height="10px" bgcolor="#EFEEED" align="center"><p class="textprice"> <a href=""> <button>THE PAYMENT HAS BEEN COMPLETED</button></a>
+            
+                    <br> 
+                    </p></td>
+                    </tr>
+                  </div>
+                   </table>
+                  </table>
+
+                  <table  border="1" cellpadding="12" cellspacing="12" width="1px">
+                    <tr>
+                        <td><center><a href="#"  width="120px"><img src="images/companyimage/Matrix.jpg" alighn="center" width="200px" height="200px"> </a> </td>
+                    </tr>
+                        <tr>
+                        </tr>
+                </td>
+                </tr>
+                        </tr>
+                    </td>
+                    </tr>
+                    <tr>
+                      <td height="10px" bgcolor="#EFEEED" align="center">
+                        <p class="description" style="color: rgb(59, 52, 52);">Company of the ICCNET group, created in 1997, MATRIX TELECOMS is a Networks and Telecoms operator with a state-of-the-art infrastructure for all types of telecommunications solution needs 
+              
+                    <br> 
+                    </p></td>
+                    </tr>
+                    <tr>
+                  <td  height="10px" bgcolor="#EFEEED" align="center"><p class="textprice"> <a href="matrix.html"> <button>DETAILS</button> <a href=""> <button>screenshots</button></a>
+            
+                    <br> 
+                    </p></td>
+                    </tr>
+                  </div>
+                   </table>
+                  </table>
+
+
+                  <table  border="1" cellpadding="12" cellspacing="12" width="1px">
+                    <tr>
+                        <td><center><a href="#"  width="120px"><img src="images/companyimage/alkf+.png" alighn="center" width="200px" height="200px"> </a> </td>
+                    </tr>
+                        <tr>
+                        </tr>
+                </td>
+                </tr>
+                        </tr>
+                    </td>
+                    </tr>
+                    <tr>
+                      <td height="10px" bgcolor="#EFEEED" align="center">
+                        <p class="description" style="color: rgb(59, 52, 52);"> We are a leading company in the industry, providing the best products and services to our customers.
+              
+                    <br> 
+                    </p></td>
+                    </tr>
+                    <tr>
+                  <td  height="10px" bgcolor="#EFEEED" align="center"><p class="textprice"> <a href="Alkf+.html"> <button>DETAILS</button> <a href=""> <button>screenshots</button></a>
+            
+                    <br> 
+                    </p></td>
+                    </tr>
+                  </div>
+                   </table>
+                  </table>
+
+
+                  <table  border="1" cellpadding="12" cellspacing="12" width="1px">
+                    <tr>
+                        <td><center><a href="#"  width="120px"><img src="images/companyimage/berjaya.jpg" alighn="center" width="200px" height="200px"> </a> </td>
+                    </tr>
+                        <tr>
+                        </tr>
+                </td>
+                </tr>
+                        </tr>
+                    </td>
+                    </tr>
+                    <tr>
+                      <td height="10px" bgcolor="#EFEEED" align="center">
+                        <p class="description" style="color: rgb(59, 52, 52);"> For years, the name Berjaya Clubs has been sparking visions of scenic surroundings, great golfing experiences, wonderful activities, excellent food, memorable events or simply a good time. Today, we bring you the same inspiring experiences, but with a brand new touch of higher quality, class and elegance. 
+              
+                    <br> 
+                    </p></td>
+                    </tr>
+                    <tr>
+                  <td  height="10px" bgcolor="#EFEEED" align="center"><p class="textprice"> <a href="berjayaclubs.html"> <button>DETAILS</button>  <a href=""> <button>screenshots</button></a>
+            
+                    <br> 
+                    </p></td>
+                    </tr>
+                  </div>
+                   </table>
+                  </table>
+
+
+                  <table  border="1" cellpadding="12" cellspacing="12" width="1px">
+                    <tr>
+                        <td><center><a href="#"  width="120px"><img src="images/companyimage/davinci.jpg" alighn="center" width="200px" height="200px"> </a> </td>
+                    </tr>
+                        <tr>
+                        </tr>
+                </td>
+                </tr>
+                        </tr>
+                    </td>
+                    </tr>
+                    <tr>
+                      <td height="10px" bgcolor="#EFEEED" align="center">
+                        <p class="description" style="color: rgb(59, 52, 52);"> Da Vinci School has one of the largest educational technological infrastructures in Argentina: fully equipped classrooms, chroma rooms for special effects, sound recording studio, unique motion capture equipment, and study spaces for you to learn. and apply state-of-the-art criteria 
+              
+                    <br> 
+                    </p></td>
+                    </tr>
+                    <tr>
+                  <td  height="10px" bgcolor="#EFEEED" align="center"><p class="textprice"> <a href="davinci.html"> <button>DETAILS</button> <a href=""> <button>screenshots</button></a>
+            
+                    <br> 
+                    </p></td>
+                    </tr>
+                  </div>
+                   </table>
+                  </table>
+                  
+                  <table  border="1" cellpadding="12" cellspacing="12" width="1px">
+                    <tr>
+                        <td><center><a href="#"  width="120px"><img src="images/companyimage/OKS.jpg" alighn="center" width="200px" height="200px"> </a> </td>
+                    </tr>
+                        <tr>
+                        </tr>
+                </td>
+                </tr>
+                        </tr>
+                    </td>
+                    </tr>
+                    <tr>
+                      <td height="10px" bgcolor="#EFEEED" align="center">
+                        <p class="description" style="color: rgb(59, 52, 52);"> Delivering business and legal process outsourcing solutions to some of the worlds largest and most demanding organizations 
+              
+                    <br> 
+                    </p></td>
+                    </tr>
+                    <tr>
+                  <td  height="10px" bgcolor="#EFEEED" align="center"><p class="textprice"> <a href="oksgroup.html"> <button>DETAILS</button> <a href=""> <button>screenshots</button></a>
+            
+                    <br> 
+                    </p></td>
+                    </tr>
+                  </div>
+                   </table>
+                  </table>
+                  
+                  <table  border="1" cellpadding="12" cellspacing="12" width="1px">
+                    <tr>
+                        <td><center><a href="#"  width="120px"><img src="images/companyimage/Melco.jpg" alighn="center" width="200px" height="200px"> </a> </td>
+                    </tr>
+                        <tr>
+                        </tr>
+                </td>
+                </tr>
+                        </tr>
+                    </td>
+                    </tr>
+                    <tr>
+                      <td height="10px" bgcolor="#EFEEED" align="center">
+                        <p class="description" style="color: rgb(59, 52, 52);"> Melco Resorts & Entertainment Limited (Melco) is a developer, owner and operator of integrated resort facilities in Asia and Europe. 
+              
+                    <br> 
+                    </p></td>
+                    </tr>
+                    <tr>
+                  <td  height="10px" bgcolor="#EFEEED" align="center"><p class="textprice"> <a href="melco-resorts.html"> <button>DETAILS</button> <a href=""> <button>screenshots</button></a>
+            
+                    <br> 
+                    </p></td>
+                    </tr>
+                  </div>
+                   </table>
+                  </table>
+                  
+
+
+
+
+                  <table  border="1" cellpadding="12" cellspacing="12" width="1px">
+                    <tr>
+                        <td><center><a href="#"  width="120px"><img src="images/companyimage/marehotels.jpg" alighn="center" width="200px" height="200px"> </a> </td>
+                    </tr>
+                        <tr>
+                        </tr>
+                </td>
+                </tr>
+                        </tr>
+                    </td>
+                    </tr>
+                    <tr>
+                      <td height="10px" bgcolor="#EFEEED" align="center">
+                        <p class="description" style="color: rgb(59, 52, 52);"> 2013, Mare expanded its business and opened the Mare Hotel complex within the same compound. The hotel features modern and meticulous decor, and is equipped with all the necessary amenities for a unique stay. Additionally, it offers a delightful culinary experience with the Mare Asian Food restaurant. As summer approaches, there is an increasing demand for your hotel, and therefore you are required to pay a ransom to restore the services to their normal state
+              
+                    <br> 
+                    </p></td>
+                    </tr>
+                    <tr>
+                  <td  height="10px" bgcolor="#EFEEED" align="center"><p class="textprice"> <a href="marehotels.html"> <button>DETAILS</button> <a href=""> <button>screenshots</button></a>
+            
+                    <br> 
+                    </p></td>
+                    </tr>
+                  </div>
+                   </table>
+                  </table>
+                  
+
+
+
+
+                  <table border="1" cellpadding="12" cellspacing="12" width="100%">
+                    <tr>
+                        <td align="center">
+                            <a href="#" width="120px">
+                                <img src="images/companyimage/novelis.jpg" alt="Company Logo" align="center" width="200px" height="200px">
+                            </a>
+                        </td>
+                    </tr>
+                    <tr></tr>
+                    </td>
+                    </tr>
+                    </tr>
+                    </td>
+                    </tr>
+                    <tr>
+                        <td height="10px" bgcolor="#EFEEED" align="center">
+                            <p class="description" style="color: rgb(59, 52, 52);">
+                                Novelis is an aluminum company created by Alcan's spin-off Alcan in 2005. It was acquired by Hindalco in 2007. In 2007, Hindalco announced through Novelis its intention to acquire Aleris, an American aluminum company for $2.6 billion
+                                <br>
+                            </p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td height="10px" bgcolor="#EFEEED" align="center">
+                            <p class="textprice" style="color: rgb(59, 52, 52);">
+                                <a href="novelis.html"><button>DETAILS</button></a>
+                                <a href=""><button>screenshots</button></a>
+                                <br>
+                            </p>
+                        </td>
+                    </tr>
+                </table>
+               
+
+
+                <table border="1" cellpadding="12" cellspacing="12" width="100%">
+
+                    <tr>
+                        <td align="center">
+                            <a href="#" width="120px">
+                                <img src="images/companyimage/confido.jpg" alt="Company Logo" align="center" width="200px" height="200px">
+                            </a>
+                        </td>
+                    </tr>
+                    <tr></tr>
+                    </td>
+                    </tr>
+                    </tr>
+                    </td>
+                    </tr>
+                    <tr>
+                        <td height="10px" bgcolor="#EFEEED" align="center">
+                            <p class="description" style="color: rgb(59, 52, 52);"> <!-- ØªØºÙÙØ± ÙÙÙ Ø§ÙÙØµ ÙÙØ§ Ø¥ÙÙ Ø§ÙÙÙÙ Ø§ÙØ£Ø­ÙØ± -->
+                                Confido Technical Services LLC is a registered company based in Dubai, UAE. The combined expertise of our management and our highly specialized team gives us the confidence to serve our customers with reliable and efficient control, automation, and information management system
+                                <br>
+                            </p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td height="10px" bgcolor="#EFEEED" align="center">
+                            <p class="textprice" style="color: red;"> <!-- ØªØºÙÙØ± ÙÙÙ Ø§ÙÙØµ ÙÙØ§ Ø¥ÙÙ Ø§ÙÙÙÙ Ø§ÙØ£Ø­ÙØ± -->
+                                <a href="confido.html"><button>DETAILS</button></a>
+                                <a href=""><button>screenshots</button></a>
+                                <br>
+                            </p>
+                        </td>
+                    </tr>
+                </table>
+                
+                
+                
+              </div>
+
+              
+
+              
+                
+              
+
+
+        </div>
+      </div>
+    </div>
+  </section>
+
+  
+              
+            </div>
+          </div>
+
+        </div>
+      </div>
+    </div>
+  </section>
+
+  
+
+  <section class="py-5 my-5">
+    <div class="container-fluid">
+
+      <div class="bg-warning py-5 rounded-5" style="background-image: url('images/bg-pattern-2.png') no-repeat;">
+        <div class="container">
+          <div class="row">
+            <div class="col-md-4">
+              <h1><a href="index.html"><img src="images/logoo_200x59.jpg" style="width:255px;" draggable="false"></a></h1>
+            </div>
+            <div class="col-md-8">
+              <h2 class="my-5">
+                
+                <td height="10px" bgcolor="#EFEEED" align="center">
+                  <p class="description" style="color: rgb(59, 52, 52);">In collaboration with GhostSec, SiegedSec, and Clop
+
+
+
+
+
+
+              </h2>
+              <p></p>
+              <div class="d-flex gap-2 flex-wrap">
+
+
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+    </div>
+  </section>
+
+ 
+
+
+       
+        
+      </div>
+    </div>
+  </footer>
+  <div id="footer-bottom">
+    <div class="container-fluid">
+      <div class="row">
+        <div class="col-md-6 copyright">
+          <p>Â© 2021-2023 STORMOUS. All rights reserved.</p>
+        </div>
+        <div class="col-md-6 credit-link text-end">
+        </div>
+      </div>
+    </div>
+  </div>
+  <script src="js/jquery-1.11.0.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ENjdO4Dr2bkBIFxQpeoTz1HIcje39Wm4jDKdf19U8gI4ddQ3GYNS7NTKfAdVQSZe" crossorigin="anonymous"></script>
+  <script src="js/plugins.js"></script>
+  <script src="js/script.js"></script>
 </body>
-
 </html>
+		
+	
+					
 
+  
+						
+
+
+			
