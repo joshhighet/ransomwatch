@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-08-19 | [`National Institute of Social Services for Retirees and Pensioners`](https://google.com/search?q=National+Institute+of+Social+Services+for+Retirees+and+Pensioners) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2023-08-19 | [`Municipality of Ferrara`](https://google.com/search?q=Municipality+of+Ferrara) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2023-08-19 | [`Bitimen`](https://google.com/search?q=Bitimen) | [arvinclub](https://ransomwatch.telemetry.ltd/#/profiles?id=arvinclub) |
 | 2023-08-19 | [`AFTA Isfahan`](https://google.com/search?q=AFTA+Isfahan) | [arvinclub](https://ransomwatch.telemetry.ltd/#/profiles?id=arvinclub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-08-06 | [`Delaney Browne Recruitment`](https://google.com/search?q=Delaney+Browne+Recruitment) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-08-06 | [`IBL`](https://google.com/search?q=IBL) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-08-06 | [`Oregon Sports Medicine`](https://google.com/search?q=Oregon+Sports+Medicine) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-08-06 | [`premierbpo.com`](https://google.com/search?q=premierbpo.com) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
