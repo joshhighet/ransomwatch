@@ -152,8 +152,9 @@ def arvinclub():
     stdlog('parser: ' + 'arvinclub')
     # grep 'bookmark' source/arvinclub-*.html --no-filename | cut -d ">" -f3 | cut -d "<" -f1
     # grep 'rel="bookmark">' source/arvinclub-*.html -C 1 | grep '</a>' | sed 's/^[^[:alnum:]]*//' | cut -d '<' -f 1 | sed -e 's/^ *//g' -e 's/[[:space:]]*$//'
+    # grep '<h1 class="post-title">' source/arvinclub-*.html | cut -d '>' -f 2 | cut -d '<' -f 1
     parser = '''
-    grep '<h1 class="post-title">' source/arvinclub-*.html | cut -d '>' -f 2 | cut -d '<' -f 1
+    grep --no-filename  -C 1 '<p><strong>Name:</strong></p>' source/arvinclub-*.html  | grep 'class="highlight"' | cut -d '>' -f 6
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
