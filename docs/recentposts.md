@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-08-19 | [`Novi Pazar put ad`](https://google.com/search?q=Novi+Pazar+put+ad) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
+| 2023-08-19 | [`The International Civil Defense Organization`](https://google.com/search?q=The+International+Civil+Defense+Organization) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
+| 2023-08-19 | [`Sartrouville  France`](https://google.com/search?q=Sartrouville++France) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-08-19 | [`goldmedalbakery`](https://google.com/search?q=goldmedalbakery) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
 | 2023-08-19 | [`s3groupltd.com`](https://google.com/search?q=s3groupltd.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-08-19 | [`phitoformulas.com.br`](https://google.com/search?q=phitoformulas.com.br) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2023-08-07 | [`T********`](https://google.com/search?q=T%2A%2A%2A%2A%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-08-07 | [`Räddningstjänsten Vä stra Blekinge`](https://google.com/search?q=R%C3%A4ddningstj%C3%A4nsten+V%C3%A4+stra+Blekinge) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-08-07 | [`www.kreacta.com`](https://google.com/search?q=www.kreacta.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
-| 2023-08-07 | [`Papel Prensa SA`](https://google.com/search?q=Papel+Prensa+SA) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2023-08-07 | [`www.avertronics.com`](https://google.com/search?q=www.avertronics.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
-| 2023-08-07 | [`rvpl.lt`](https://google.com/search?q=rvpl.lt) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
