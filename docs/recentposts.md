@@ -4,6 +4,17 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-08-19 | [`Municipality of Ferrara`](https://google.com/search?q=Municipality+of+Ferrara) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
+| 2023-08-19 | [`Bitimen`](https://google.com/search?q=Bitimen) | [arvinclub](https://ransomwatch.telemetry.ltd/#/profiles?id=arvinclub) |
+| 2023-08-19 | [`AFTA Isfahan`](https://google.com/search?q=AFTA+Isfahan) | [arvinclub](https://ransomwatch.telemetry.ltd/#/profiles?id=arvinclub) |
+| 2023-08-19 | [`hamyari Shahrdari golestan`](https://google.com/search?q=hamyari+Shahrdari+golestan) | [arvinclub](https://ransomwatch.telemetry.ltd/#/profiles?id=arvinclub) |
+| 2023-08-19 | [`Haraz dairy `](https://google.com/search?q=Haraz+dairy+) | [arvinclub](https://ransomwatch.telemetry.ltd/#/profiles?id=arvinclub) |
+| 2023-08-19 | [`150k sib360 Database`](https://google.com/search?q=150k+sib360+Database) | [arvinclub](https://ransomwatch.telemetry.ltd/#/profiles?id=arvinclub) |
+| 2023-08-19 | [`Padena Factory`](https://google.com/search?q=Padena+Factory) | [arvinclub](https://ransomwatch.telemetry.ltd/#/profiles?id=arvinclub) |
+| 2023-08-19 | [`seaside-kish co`](https://google.com/search?q=seaside-kish+co) | [arvinclub](https://ransomwatch.telemetry.ltd/#/profiles?id=arvinclub) |
+| 2023-08-19 | [`Draje food industrial group`](https://google.com/search?q=Draje+food+industrial+group) | [arvinclub](https://ransomwatch.telemetry.ltd/#/profiles?id=arvinclub) |
+| 2023-08-19 | [`Parsian Bitumen`](https://google.com/search?q=Parsian+Bitumen) | [arvinclub](https://ransomwatch.telemetry.ltd/#/profiles?id=arvinclub) |
+| 2023-08-19 | [`Sabalan Azmayesh`](https://google.com/search?q=Sabalan+Azmayesh) | [arvinclub](https://ransomwatch.telemetry.ltd/#/profiles?id=arvinclub) |
 | 2023-08-18 | [`ABS Auto Auctions`](https://google.com/search?q=ABS+Auto+Auctions) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-08-18 | [`DSA Law Pty Ltd`](https://google.com/search?q=DSA+Law+Pty+Ltd) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-08-18 | [`Miami Management`](https://google.com/search?q=Miami+Management) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -193,14 +204,3 @@ _last `200` posts_
 | 2023-08-06 | [`IBL`](https://google.com/search?q=IBL) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-08-06 | [`Oregon Sports Medicine`](https://google.com/search?q=Oregon+Sports+Medicine) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-08-06 | [`premierbpo.com`](https://google.com/search?q=premierbpo.com) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-08-06 | [`SatCom Marketing`](https://google.com/search?q=SatCom+Marketing) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-08-05 | [`Rayden Solicitors`](https://google.com/search?q=Rayden+Solicitors) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-08-05 | [`haynesintl.com`](https://google.com/search?q=haynesintl.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-08-05 | [`Kovair Software Data Leak`](https://google.com/search?q=Kovair+Software+Data+Leak) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
-| 2023-08-05 | [`Henlaw`](https://google.com/search?q=Henlaw) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-08-04 | [`tetco.com`](https://google.com/search?q=tetco.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-08-04 | [`scottevest.com`](https://google.com/search?q=scottevest.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-08-04 | [`mipe.com`](https://google.com/search?q=mipe.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-08-04 | [`iqcontrols.com`](https://google.com/search?q=iqcontrols.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-08-04 | [`atser.com`](https://google.com/search?q=atser.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-08-04 | [`armortex.com`](https://google.com/search?q=armortex.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
