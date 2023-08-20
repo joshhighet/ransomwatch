@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-08-20 | [`hallbergengineering.com`](https://google.com/search?q=hallbergengineering.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-08-20 | [`equip-reuse.com`](https://google.com/search?q=equip-reuse.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-08-20 | [`cochraninc.com`](https://google.com/search?q=cochraninc.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-08-20 | [`cloudtopoffice.com`](https://google.com/search?q=cloudtopoffice.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-08-08 | [`Emerson School District`](https://google.com/search?q=Emerson+School+District) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-08-08 | [`CH informatica`](https://google.com/search?q=CH+informatica) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-08-07 | [`mercedes-benz.co.th`](https://google.com/search?q=mercedes-benz.co.th) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
-| 2023-08-07 | [`G***** *******`](https://google.com/search?q=G%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
