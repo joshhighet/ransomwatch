@@ -4,6 +4,13 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-08-20 | [`icsystem.com`](https://google.com/search?q=icsystem.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-20 | [`arburg.com`](https://google.com/search?q=arburg.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-20 | [`bostonglobe.com`](https://google.com/search?q=bostonglobe.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-20 | [`cncbinternational.com`](https://google.com/search?q=cncbinternational.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-20 | [`nuance.com`](https://google.com/search?q=nuance.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-20 | [`palig.com`](https://google.com/search?q=palig.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-20 | [`gesa.com`](https://google.com/search?q=gesa.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-08-20 | [`hallbergengineering.com`](https://google.com/search?q=hallbergengineering.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-08-20 | [`equip-reuse.com`](https://google.com/search?q=equip-reuse.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-08-20 | [`cochraninc.com`](https://google.com/search?q=cochraninc.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -197,10 +204,3 @@ _last `200` posts_
 | 2023-08-09 | [`2plan.com`](https://google.com/search?q=2plan.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-08-09 | [`independenceia.org`](https://google.com/search?q=independenceia.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-08-09 | [`www.finitia.net`](https://google.com/search?q=www.finitia.net) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
-| 2023-08-09 | [`unitycouncil.org`](https://google.com/search?q=unitycouncil.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-08-08 | [`Batesville didn't react on appeal and allows Full Leak`](https://google.com/search?q=Batesville+didn%27t+react+on+appeal+and+allows+Full+Leak) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
-| 2023-08-08 | [`ZESA Holdings`](https://google.com/search?q=ZESA+Holdings) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
-| 2023-08-08 | [`Magic Micro Computers`](https://google.com/search?q=Magic+Micro+Computers) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-08-08 | [`Emerson School District`](https://google.com/search?q=Emerson+School+District) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
-| 2023-08-08 | [`CH informatica`](https://google.com/search?q=CH+informatica) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-08-07 | [`mercedes-benz.co.th`](https://google.com/search?q=mercedes-benz.co.th) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
