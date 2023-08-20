@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-08-20 | [`equip-reuse.com`](https://google.com/search?q=equip-reuse.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-08-20 | [`cochraninc.com`](https://google.com/search?q=cochraninc.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-08-20 | [`cloudtopoffice.com`](https://google.com/search?q=cloudtopoffice.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-08-19 | [`Novi Pazar put ad`](https://google.com/search?q=Novi+Pazar+put+ad) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-08-19 | [`The International Civil Defense Organization`](https://google.com/search?q=The+International+Civil+Defense+Organization) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-08-19 | [`Sartrouville  France`](https://google.com/search?q=Sartrouville++France) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2023-08-08 | [`CH informatica`](https://google.com/search?q=CH+informatica) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-08-07 | [`mercedes-benz.co.th`](https://google.com/search?q=mercedes-benz.co.th) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2023-08-07 | [`G***** *******`](https://google.com/search?q=G%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2023-08-07 | [`T********`](https://google.com/search?q=T%2A%2A%2A%2A%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2023-08-07 | [`Räddningstjänsten Vä stra Blekinge`](https://google.com/search?q=R%C3%A4ddningstj%C3%A4nsten+V%C3%A4+stra+Blekinge) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2023-08-07 | [`www.kreacta.com`](https://google.com/search?q=www.kreacta.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
