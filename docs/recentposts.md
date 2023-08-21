@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-08-21 | [`Department of Defence South African (DARPA)`](https://google.com/search?q=Department+of+Defence+South+African+%28DARPA%29) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
 | 2023-08-21 | [`apdparcel.com.au`](https://google.com/search?q=apdparcel.com.au) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-08-21 | [`TRIUNE TECHNOFAB PRIVATE LIMITED WAS HACKED`](https://google.com/search?q=TRIUNE+TECHNOFAB+PRIVATE+LIMITED+WAS+HACKED) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-08-21 | [`scu.edu`](https://google.com/search?q=scu.edu) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-08-11 | [`Algorry Zappia & Associates`](https://google.com/search?q=Algorry+Zappia+%26+Associates) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-08-11 | [`EAI`](https://google.com/search?q=EAI) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-08-10 | [`The Belt Railway Com pany of Chicago`](https://google.com/search?q=The+Belt+Railway+Com+pany+of+Chicago) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2023-08-10 | [`Boson`](https://google.com/search?q=Boson) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
