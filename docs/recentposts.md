@@ -4,6 +4,11 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-08-21 | [`careservicesllc.com`](https://google.com/search?q=careservicesllc.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-21 | [`316fiduciaries.com`](https://google.com/search?q=316fiduciaries.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-21 | [`uga.edu`](https://google.com/search?q=uga.edu) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-21 | [`leggett.com`](https://google.com/search?q=leggett.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-21 | [`datasite.com`](https://google.com/search?q=datasite.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-08-21 | [`Davidoff Hutcher & Citron`](https://google.com/search?q=Davidoff+Hutcher+%26+Citron) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-08-21 | [`Seiko Group Corporation`](https://google.com/search?q=Seiko+Group+Corporation) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-08-20 | [`icsystem.com`](https://google.com/search?q=icsystem.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
@@ -199,8 +204,3 @@ _last `200` posts_
 | 2023-08-09 | [`fashions-uk.com`](https://google.com/search?q=fashions-uk.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-08-09 | [`el-cerrito.org`](https://google.com/search?q=el-cerrito.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-08-09 | [`csem.qc.ca`](https://google.com/search?q=csem.qc.ca) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-08-09 | [`cbcstjohns.co.za`](https://google.com/search?q=cbcstjohns.co.za) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-08-09 | [`asfcustomers.com`](https://google.com/search?q=asfcustomers.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-08-09 | [`etisaleg.com`](https://google.com/search?q=etisaleg.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-08-09 | [`chula.ac.th`](https://google.com/search?q=chula.ac.th) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-08-09 | [`2plan.com`](https://google.com/search?q=2plan.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |

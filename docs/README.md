@@ -2,17 +2,17 @@
 ## summary
 _august 21st, 2023_
 
-currently tracking `157` groups across `281` relays & mirrors - _`113` currently online_
+currently tracking `157` groups across `281` relays & mirrors - _`111` currently online_
 
-⏲ there have been `10` posts within the `last 24 hours`
+⏲ there have been `15` posts within the `last 24 hours`
 
-🦈 there have been `287` posts within the `month of august`
+🦈 there have been `292` posts within the `month of august`
 
-🪐 there have been `1159` posts within the `last 90 days`
+🪐 there have been `1164` posts within the `last 90 days`
 
-🏚 there have been `2681` posts within the `year of 2023`
+🏚 there have been `2686` posts within the `year of 2023`
 
-🦕 there have been `7372` posts `since the dawn of ransomwatch`
+🦕 there have been `7377` posts `since the dawn of ransomwatch`
 
 there are `87` custom parsers indexing posts
 
