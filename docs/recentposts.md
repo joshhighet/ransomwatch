@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-08-21 | [`Department of Defence South African`](https://google.com/search?q=Department+of+Defence+South+African) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
 | 2023-08-21 | [`careservicesllc.com`](https://google.com/search?q=careservicesllc.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-08-21 | [`316fiduciaries.com`](https://google.com/search?q=316fiduciaries.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-08-21 | [`uga.edu`](https://google.com/search?q=uga.edu) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-08-09 | [`janus-engineering.com`](https://google.com/search?q=janus-engineering.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-08-09 | [`fashions-uk.com`](https://google.com/search?q=fashions-uk.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-08-09 | [`el-cerrito.org`](https://google.com/search?q=el-cerrito.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-08-09 | [`csem.qc.ca`](https://google.com/search?q=csem.qc.ca) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
