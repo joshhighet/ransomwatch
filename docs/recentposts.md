@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-08-21 | [`Davidoff Hutcher & Citron`](https://google.com/search?q=Davidoff+Hutcher+%26+Citron) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-08-21 | [`Seiko Group Corporation`](https://google.com/search?q=Seiko+Group+Corporation) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-08-20 | [`icsystem.com`](https://google.com/search?q=icsystem.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-08-20 | [`arburg.com`](https://google.com/search?q=arburg.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-08-09 | [`etisaleg.com`](https://google.com/search?q=etisaleg.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-08-09 | [`chula.ac.th`](https://google.com/search?q=chula.ac.th) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-08-09 | [`2plan.com`](https://google.com/search?q=2plan.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-08-09 | [`independenceia.org`](https://google.com/search?q=independenceia.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
