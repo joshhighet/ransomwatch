@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-08-21 | [`www.fytisa.com`](https://google.com/search?q=www.fytisa.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
+| 2023-08-21 | [`www.softverk.co.kr`](https://google.com/search?q=www.softverk.co.kr) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
+| 2023-08-21 | [`www.influencecommunication.com`](https://google.com/search?q=www.influencecommunication.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-08-21 | [`Department of Defence South African (DARPA)`](https://google.com/search?q=Department+of+Defence+South+African+%28DARPA%29) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
 | 2023-08-21 | [`apdparcel.com.au`](https://google.com/search?q=apdparcel.com.au) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-08-21 | [`TRIUNE TECHNOFAB PRIVATE LIMITED WAS HACKED`](https://google.com/search?q=TRIUNE+TECHNOFAB+PRIVATE+LIMITED+WAS+HACKED) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2023-08-11 | [`cegedim.com`](https://google.com/search?q=cegedim.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-08-11 | [`zain.com`](https://google.com/search?q=zain.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-08-11 | [`Top Light`](https://google.com/search?q=Top+Light) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-08-11 | [`Algorry Zappia & Associates`](https://google.com/search?q=Algorry+Zappia+%26+Associates) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-08-11 | [`EAI`](https://google.com/search?q=EAI) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-08-10 | [`The Belt Railway Com pany of Chicago`](https://google.com/search?q=The+Belt+Railway+Com+pany+of+Chicago) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
