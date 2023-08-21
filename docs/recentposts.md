@@ -4,6 +4,16 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-08-21 | [`scu.edu`](https://google.com/search?q=scu.edu) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-21 | [`skillsoft.com`](https://google.com/search?q=skillsoft.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-21 | [`creelighting.com`](https://google.com/search?q=creelighting.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-21 | [`emsshi.com`](https://google.com/search?q=emsshi.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-21 | [`cbeservices.com`](https://google.com/search?q=cbeservices.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-21 | [`werum.com`](https://google.com/search?q=werum.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-21 | [`msamlin.com`](https://google.com/search?q=msamlin.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-21 | [`se.com`](https://google.com/search?q=se.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-21 | [`abbvie.com`](https://google.com/search?q=abbvie.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-21 | [`proskauer.com`](https://google.com/search?q=proskauer.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-08-21 | [`Department of Defence South African`](https://google.com/search?q=Department+of+Defence+South+African) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
 | 2023-08-21 | [`careservicesllc.com`](https://google.com/search?q=careservicesllc.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-08-21 | [`316fiduciaries.com`](https://google.com/search?q=316fiduciaries.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
@@ -194,13 +204,3 @@ _last `200` posts_
 | 2023-08-10 | [`Boson`](https://google.com/search?q=Boson) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-08-10 | [`Optimum Technology`](https://google.com/search?q=Optimum+Technology) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-08-10 | [`United Tractors`](https://google.com/search?q=United+Tractors) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2023-08-10 | [`Stockdale Podiatry`](https://google.com/search?q=Stockdale+Podiatry) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-08-10 | [`oneatlas.com`](https://google.com/search?q=oneatlas.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-08-09 | [`www.lysd.org`](https://google.com/search?q=www.lysd.org) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
-| 2023-08-09 | [`TIMECO`](https://google.com/search?q=TIMECO) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2023-08-09 | [`sekuro.com.tr`](https://google.com/search?q=sekuro.com.tr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-08-09 | [`ricks-motorcycles.com`](https://google.com/search?q=ricks-motorcycles.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-08-09 | [`octoso.de`](https://google.com/search?q=octoso.de) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-08-09 | [`janus-engineering.com`](https://google.com/search?q=janus-engineering.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-08-09 | [`fashions-uk.com`](https://google.com/search?q=fashions-uk.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-08-09 | [`el-cerrito.org`](https://google.com/search?q=el-cerrito.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
