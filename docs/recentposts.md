@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-08-22 | [`NE-BIC`](https://google.com/search?q=NE-BIC) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-08-22 | [`https://www.heidelbergmaterials.com`](https://google.com/search?q=https%3A%2F%2Fwww.heidelbergmaterials.com) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2023-08-21 | [`www.fytisa.com`](https://google.com/search?q=www.fytisa.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-08-21 | [`www.softverk.co.kr`](https://google.com/search?q=www.softverk.co.kr) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-08-11 | [`putnam.com`](https://google.com/search?q=putnam.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-08-11 | [`durr.com`](https://google.com/search?q=durr.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-08-11 | [`cegedim.com`](https://google.com/search?q=cegedim.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-08-11 | [`zain.com`](https://google.com/search?q=zain.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
