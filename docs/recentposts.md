@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-08-22 | [`A???? F??????????? Ltd`](https://google.com/search?q=A%3F%3F%3F%3F+F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F+Ltd) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-08-22 | [`stockwellharris.com`](https://google.com/search?q=stockwellharris.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-08-22 | [`Sirius Computer Solutions`](https://google.com/search?q=Sirius+Computer+Solutions) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-08-22 | [`Atlantic Federal Credit Union`](https://google.com/search?q=Atlantic+Federal+Credit+Union) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-08-22 | [`NE-BIC`](https://google.com/search?q=NE-BIC) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-08-11 | [`stiwa.com`](https://google.com/search?q=stiwa.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-08-11 | [`andesaservices.com`](https://google.com/search?q=andesaservices.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-08-11 | [`citynational.com`](https://google.com/search?q=citynational.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-08-11 | [`ironbow.com`](https://google.com/search?q=ironbow.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-08-11 | [`putnam.com`](https://google.com/search?q=putnam.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
