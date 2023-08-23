@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-08-23 | [`qintess.com`](https://google.com/search?q=qintess.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-08-23 | [`newsupri.com.br`](https://google.com/search?q=newsupri.com.br) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-08-23 | [`iledefrance-nature.fr`](https://google.com/search?q=iledefrance-nature.fr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-08-23 | [`IMS Computer Solutions`](https://google.com/search?q=IMS+Computer+Solutions) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-08-23 | [`clicksgroup.co.za`](https://google.com/search?q=clicksgroup.co.za) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-08-23 | [`hornbeckoffshore.com`](https://google.com/search?q=hornbeckoffshore.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2023-08-13 | [`meaf.com`](https://google.com/search?q=meaf.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-08-13 | [`difccourts.ae`](https://google.com/search?q=difccourts.ae) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-08-12 | [`Armortex`](https://google.com/search?q=Armortex) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2023-08-12 | [`**a******`](https://google.com/search?q=%2A%2Aa%2A%2A%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2023-08-12 | [`arganoInterRel`](https://google.com/search?q=arganoInterRel) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-08-11 | [`Rite Technology`](https://google.com/search?q=Rite+Technology) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
