@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-08-23 | [`decrolyamericano.edu.gt`](https://google.com/search?q=decrolyamericano.edu.gt) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-08-23 | [`mcnamaradrass.com`](https://google.com/search?q=mcnamaradrass.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-08-23 | [`kirkland.com`](https://google.com/search?q=kirkland.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-08-23 | [`kotaklife.com`](https://google.com/search?q=kotaklife.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-08-11 | [`1stsource.com`](https://google.com/search?q=1stsource.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-08-11 | [`caresource.com`](https://google.com/search?q=caresource.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-08-11 | [`paycor.com`](https://google.com/search?q=paycor.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-08-11 | [`klgates.com`](https://google.com/search?q=klgates.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
