@@ -4,6 +4,13 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-08-23 | [`clicksgroup.co.za`](https://google.com/search?q=clicksgroup.co.za) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-23 | [`hornbeckoffshore.com`](https://google.com/search?q=hornbeckoffshore.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-23 | [`fisglobal.com`](https://google.com/search?q=fisglobal.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-23 | [`digitalinsight.no`](https://google.com/search?q=digitalinsight.no) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-23 | [`cpiai.com`](https://google.com/search?q=cpiai.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-23 | [`enstargroup.com`](https://google.com/search?q=enstargroup.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-23 | [`sapiens.com`](https://google.com/search?q=sapiens.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-08-23 | [`decrolyamericano.edu.gt`](https://google.com/search?q=decrolyamericano.edu.gt) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-08-23 | [`mcnamaradrass.com`](https://google.com/search?q=mcnamaradrass.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-08-23 | [`kirkland.com`](https://google.com/search?q=kirkland.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
@@ -197,10 +204,3 @@ _last `200` posts_
 | 2023-08-12 | [`arganoInterRel`](https://google.com/search?q=arganoInterRel) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-08-11 | [`Rite Technology`](https://google.com/search?q=Rite+Technology) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-08-11 | [`Thermenhotel Stoiser`](https://google.com/search?q=Thermenhotel+Stoiser) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2023-08-11 | [`Important Updates`](https://google.com/search?q=Important+Updates) | [knight](https://ransomwatch.telemetry.ltd/#/profiles?id=knight) |
-| 2023-08-11 | [`paycom.com`](https://google.com/search?q=paycom.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-08-11 | [`ey.com`](https://google.com/search?q=ey.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-08-11 | [`www.pwc.com`](https://google.com/search?q=www.pwc.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-08-11 | [`1stsource.com`](https://google.com/search?q=1stsource.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-08-11 | [`caresource.com`](https://google.com/search?q=caresource.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-08-11 | [`paycor.com`](https://google.com/search?q=paycor.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
