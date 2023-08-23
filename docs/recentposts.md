@@ -4,6 +4,16 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-08-23 | [`mcnamaradrass.com`](https://google.com/search?q=mcnamaradrass.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-08-23 | [`kirkland.com`](https://google.com/search?q=kirkland.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-23 | [`kotaklife.com`](https://google.com/search?q=kotaklife.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-23 | [`starmountlife.com`](https://google.com/search?q=starmountlife.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-23 | [`jackson.com`](https://google.com/search?q=jackson.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-23 | [`tdecu.org`](https://google.com/search?q=tdecu.org) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-23 | [`unitedregional.org`](https://google.com/search?q=unitedregional.org) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-23 | [`kyburzdruck.ch`](https://google.com/search?q=kyburzdruck.ch) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-23 | [`ciena.com`](https://google.com/search?q=ciena.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-23 | [`norgren.com`](https://google.com/search?q=norgren.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-08-23 | [`sti company`](https://google.com/search?q=sti+company) | [arvinclub](https://ransomwatch.telemetry.ltd/#/profiles?id=arvinclub) |
 | 2023-08-22 | [`A???? F??????????? Ltd`](https://google.com/search?q=A%3F%3F%3F%3F+F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F+Ltd) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-08-22 | [`stockwellharris.com`](https://google.com/search?q=stockwellharris.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -194,13 +204,3 @@ _last `200` posts_
 | 2023-08-11 | [`caresource.com`](https://google.com/search?q=caresource.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-08-11 | [`paycor.com`](https://google.com/search?q=paycor.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-08-11 | [`klgates.com`](https://google.com/search?q=klgates.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-08-11 | [`uhcsr.com`](https://google.com/search?q=uhcsr.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-08-11 | [`aon.com`](https://google.com/search?q=aon.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-08-11 | [`zurich.com.br`](https://google.com/search?q=zurich.com.br) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-08-11 | [`landal.com`](https://google.com/search?q=landal.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-08-11 | [`heidelberg.com`](https://google.com/search?q=heidelberg.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-08-11 | [`navaxx.lu`](https://google.com/search?q=navaxx.lu) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-08-11 | [`delawarelife.com`](https://google.com/search?q=delawarelife.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-08-11 | [`enzo.com`](https://google.com/search?q=enzo.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-08-11 | [`stiwa.com`](https://google.com/search?q=stiwa.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-08-11 | [`andesaservices.com`](https://google.com/search?q=andesaservices.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
