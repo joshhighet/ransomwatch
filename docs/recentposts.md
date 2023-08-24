@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-08-24 | [`Edmonds School Distr ict`](https://google.com/search?q=Edmonds+School+Distr+ict) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
+| 2023-08-24 | [`Storm Tight Windows`](https://google.com/search?q=Storm+Tight+Windows) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-08-24 | [`Groupe Marchand Architecture & Design Inc`](https://google.com/search?q=Groupe+Marchand+Architecture+%26+Design+Inc) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-08-24 | [`Bahamas Medical and Surgical Supplies`](https://google.com/search?q=Bahamas+Medical+and+Surgical+Supplies) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-08-24 | [`Ontellus`](https://google.com/search?q=Ontellus) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-08-14 | [`www.brak.de`](https://google.com/search?q=www.brak.de) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-08-14 | [`leecorpinc.com`](https://google.com/search?q=leecorpinc.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-08-14 | [`econsult.com`](https://google.com/search?q=econsult.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-08-14 | [`Saint Xavier University`](https://google.com/search?q=Saint+Xavier+University) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-08-14 | [`Agriloja.pt`](https://google.com/search?q=Agriloja.pt) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
