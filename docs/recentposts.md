@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-08-24 | [`Groupe Marchand Architecture & Design Inc`](https://google.com/search?q=Groupe+Marchand+Architecture+%26+Design+Inc) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-08-24 | [`Bahamas Medical and Surgical Supplies`](https://google.com/search?q=Bahamas+Medical+and+Surgical+Supplies) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-08-24 | [`Ontellus`](https://google.com/search?q=Ontellus) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
 | 2023-08-24 | [`A**** ***** ***`](https://google.com/search?q=A%2A%2A%2A%2A+%2A%2A%2A%2A%2A+%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-08-14 | [`econsult.com`](https://google.com/search?q=econsult.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-08-14 | [`Saint Xavier University`](https://google.com/search?q=Saint+Xavier+University) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-08-14 | [`Agriloja.pt`](https://google.com/search?q=Agriloja.pt) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
-| 2023-08-14 | [`CB Energy Australlia`](https://google.com/search?q=CB+Energy+Australlia) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
