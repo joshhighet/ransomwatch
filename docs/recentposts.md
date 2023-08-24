@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-08-24 | [`A**** ***** ***`](https://google.com/search?q=A%2A%2A%2A%2A+%2A%2A%2A%2A%2A+%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2023-08-24 | [`C****** *******`](https://google.com/search?q=C%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2023-08-24 | [`Constellation Kidney Group`](https://google.com/search?q=Constellation+Kidney+Group) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-08-24 | [`Hoosick Falls Central School District`](https://google.com/search?q=Hoosick+Falls+Central+School+District) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-08-24 | [`Royal Oak Pet Clinic`](https://google.com/search?q=Royal+Oak+Pet+Clinic) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-08-24 | [`Mil-Ken Travel`](https://google.com/search?q=Mil-Ken+Travel) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2023-08-14 | [`CB Energy Australlia`](https://google.com/search?q=CB+Energy+Australlia) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-08-14 | [`Borets (Levare.com) `](https://google.com/search?q=Borets+%28Levare.com%29+) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-08-13 | [`stmarysschool.co.za`](https://google.com/search?q=stmarysschool.co.za) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-08-13 | [`siampremier.co.th`](https://google.com/search?q=siampremier.co.th) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-08-13 | [`rappenglitz.de`](https://google.com/search?q=rappenglitz.de) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-08-13 | [`majan.com`](https://google.com/search?q=majan.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
