@@ -4,6 +4,11 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-08-24 | [`Hoosick Falls Central School District`](https://google.com/search?q=Hoosick+Falls+Central+School+District) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2023-08-24 | [`Royal Oak Pet Clinic`](https://google.com/search?q=Royal+Oak+Pet+Clinic) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2023-08-24 | [`Mil-Ken Travel`](https://google.com/search?q=Mil-Ken+Travel) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2023-08-24 | [`Kevills Solicitors`](https://google.com/search?q=Kevills+Solicitors) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2023-08-24 | [`The Law Offices of Steven H. Heisler`](https://google.com/search?q=The+Law+Offices+of+Steven+H.+Heisler) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-08-24 | [`Bahamas Medical &amp;amp; Surgical Supplies`](https://google.com/search?q=Bahamas+Medical+%26amp%3Bamp%3B+Surgical+Supplies) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-08-23 | [`qintess.com`](https://google.com/search?q=qintess.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-08-23 | [`newsupri.com.br`](https://google.com/search?q=newsupri.com.br) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -199,8 +204,3 @@ _last `200` posts_
 | 2023-08-13 | [`siampremier.co.th`](https://google.com/search?q=siampremier.co.th) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-08-13 | [`rappenglitz.de`](https://google.com/search?q=rappenglitz.de) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-08-13 | [`majan.com`](https://google.com/search?q=majan.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-08-13 | [`luterkort.se`](https://google.com/search?q=luterkort.se) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-08-13 | [`zaun.co.uk`](https://google.com/search?q=zaun.co.uk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-08-13 | [`roxcel.com.tr`](https://google.com/search?q=roxcel.com.tr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-08-13 | [`meaf.com`](https://google.com/search?q=meaf.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-08-13 | [`difccourts.ae`](https://google.com/search?q=difccourts.ae) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
