@@ -4,6 +4,16 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-08-24 | [`merative.com`](https://google.com/search?q=merative.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-24 | [`quorumfcu.org`](https://google.com/search?q=quorumfcu.org) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-24 | [`transperfect.com`](https://google.com/search?q=transperfect.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-24 | [`neweratech.com`](https://google.com/search?q=neweratech.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-24 | [`bankwithunited.com`](https://google.com/search?q=bankwithunited.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-24 | [`wolterskluwer.com`](https://google.com/search?q=wolterskluwer.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-24 | [`delarue.com`](https://google.com/search?q=delarue.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-24 | [`uoflhealth.org`](https://google.com/search?q=uoflhealth.org) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-24 | [`kernagency.com`](https://google.com/search?q=kernagency.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-24 | [`fiscdp.com`](https://google.com/search?q=fiscdp.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-08-24 | [`Edmonds School Distr ict`](https://google.com/search?q=Edmonds+School+Distr+ict) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-08-24 | [`Storm Tight Windows`](https://google.com/search?q=Storm+Tight+Windows) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-08-24 | [`Groupe Marchand Architecture & Design Inc`](https://google.com/search?q=Groupe+Marchand+Architecture+%26+Design+Inc) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -194,13 +204,3 @@ _last `200` posts_
 | 2023-08-14 | [`nortonlifelock.com`](https://google.com/search?q=nortonlifelock.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-08-14 | [`stockmanbank.com`](https://google.com/search?q=stockmanbank.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-08-14 | [`baesman.com`](https://google.com/search?q=baesman.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-08-14 | [`siemens-energy.com`](https://google.com/search?q=siemens-energy.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-08-14 | [`ucla.edu`](https://google.com/search?q=ucla.edu) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-08-14 | [`trellisware.com`](https://google.com/search?q=trellisware.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-08-14 | [`encorecapital.com`](https://google.com/search?q=encorecapital.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-08-14 | [`cadencebank.com`](https://google.com/search?q=cadencebank.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-08-14 | [`qbcqatar.com.qa`](https://google.com/search?q=qbcqatar.com.qa) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-08-14 | [`www.johnllowery.com`](https://google.com/search?q=www.johnllowery.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
-| 2023-08-14 | [`www.brak.de`](https://google.com/search?q=www.brak.de) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
-| 2023-08-14 | [`leecorpinc.com`](https://google.com/search?q=leecorpinc.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-08-14 | [`econsult.com`](https://google.com/search?q=econsult.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
