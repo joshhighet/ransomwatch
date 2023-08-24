@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-08-24 | [`Bahamas Medical &amp;amp; Surgical Supplies`](https://google.com/search?q=Bahamas+Medical+%26amp%3Bamp%3B+Surgical+Supplies) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-08-23 | [`qintess.com`](https://google.com/search?q=qintess.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-08-23 | [`newsupri.com.br`](https://google.com/search?q=newsupri.com.br) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-08-23 | [`iledefrance-nature.fr`](https://google.com/search?q=iledefrance-nature.fr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-08-13 | [`roxcel.com.tr`](https://google.com/search?q=roxcel.com.tr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-08-13 | [`meaf.com`](https://google.com/search?q=meaf.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-08-13 | [`difccourts.ae`](https://google.com/search?q=difccourts.ae) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-08-12 | [`Armortex`](https://google.com/search?q=Armortex) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
