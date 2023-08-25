@@ -4,6 +4,16 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-08-25 | [`pioneerelectronics.com`](https://google.com/search?q=pioneerelectronics.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-25 | [`riteaid.com`](https://google.com/search?q=riteaid.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-25 | [`arvato.com`](https://google.com/search?q=arvato.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-25 | [`sccu.com`](https://google.com/search?q=sccu.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-25 | [`kaleaero.com`](https://google.com/search?q=kaleaero.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-25 | [`consolenergy.com`](https://google.com/search?q=consolenergy.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-25 | [`radiusgs.com`](https://google.com/search?q=radiusgs.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-25 | [`clearesult.com`](https://google.com/search?q=clearesult.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-25 | [`nasco.com`](https://google.com/search?q=nasco.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-25 | [`jackentertainment.com`](https://google.com/search?q=jackentertainment.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-08-25 | [`HFH Capital`](https://google.com/search?q=HFH+Capital) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-08-25 | [`SMS-SME was hacked. A huge amount of confidential information was stolen, information of c`](https://google.com/search?q=SMS-SME+was+hacked.+A+huge+amount+of+confidential+information+was+stolen%2C+information+of+c) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-08-25 | [`INSTITUTO NACIONAL DE ELECTRIFICACION`](https://google.com/search?q=INSTITUTO+NACIONAL+DE+ELECTRIFICACION) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
@@ -194,13 +204,3 @@ _last `200` posts_
 | 2023-08-15 | [`l8solutions.co.uk`](https://google.com/search?q=l8solutions.co.uk) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-08-15 | [`autozone.com`](https://google.com/search?q=autozone.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-08-15 | [`crowe.com`](https://google.com/search?q=crowe.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-08-15 | [`westat.com`](https://google.com/search?q=westat.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-08-15 | [`visionware.ca`](https://google.com/search?q=visionware.ca) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-08-15 | [`www.ftria.co.jp`](https://google.com/search?q=www.ftria.co.jp) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
-| 2023-08-15 | [`www.cognizant.com`](https://google.com/search?q=www.cognizant.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-08-15 | [`Recaro`](https://google.com/search?q=Recaro) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-08-15 | [`DTD Express`](https://google.com/search?q=DTD+Express) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
-| 2023-08-15 | [`Postel SpA`](https://google.com/search?q=Postel+SpA) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
-| 2023-08-15 | [`ABA Research - Business Information 2`](https://google.com/search?q=ABA+Research+-+Business+Information+2) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-08-15 | [`Keystone Insurance Services`](https://google.com/search?q=Keystone+Insurance+Services) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-08-15 | [`ANS`](https://google.com/search?q=ANS) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
