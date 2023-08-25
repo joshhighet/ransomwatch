@@ -4,6 +4,10 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-08-25 | [`Trimaran Capital Partners`](https://google.com/search?q=Trimaran+Capital+Partners) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
+| 2023-08-25 | [`bam.com.gt`](https://google.com/search?q=bam.com.gt) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-25 | [`sma.de`](https://google.com/search?q=sma.de) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-25 | [`jhu.edu`](https://google.com/search?q=jhu.edu) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-08-25 | [`SMS-SME refused to protect customer and business data`](https://google.com/search?q=SMS-SME+refused+to+protect+customer+and+business+data) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-08-25 | [`Demcointer (Tunisia)`](https://google.com/search?q=Demcointer+%28Tunisia%29) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-08-25 | [`EPF`](https://google.com/search?q=EPF) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -200,7 +204,3 @@ _last `200` posts_
 | 2023-08-16 | [`radissonhotelsamericas.com`](https://google.com/search?q=radissonhotelsamericas.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-08-16 | [`* *i***`](https://google.com/search?q=%2A+%2Ai%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-08-16 | [`CORDELLCORDELL`](https://google.com/search?q=CORDELLCORDELL) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-08-16 | [`Hemmink`](https://google.com/search?q=Hemmink) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2023-08-16 | [`Optimum Health Solutions`](https://google.com/search?q=Optimum+Health+Solutions) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2023-08-16 | [`Ramtha`](https://google.com/search?q=Ramtha) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2023-08-16 | [`ToyotaLift Northeast`](https://google.com/search?q=ToyotaLift+Northeast) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
