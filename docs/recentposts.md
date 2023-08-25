@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-08-25 | [`HFH Capital`](https://google.com/search?q=HFH+Capital) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-08-25 | [`SMS-SME was hacked. A huge amount of confidential information was stolen, information of c`](https://google.com/search?q=SMS-SME+was+hacked.+A+huge+amount+of+confidential+information+was+stolen%2C+information+of+c) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-08-25 | [`INSTITUTO NACIONAL DE ELECTRIFICACION`](https://google.com/search?q=INSTITUTO+NACIONAL+DE+ELECTRIFICACION) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-08-25 | [`FA Foundry`](https://google.com/search?q=FA+Foundry) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-08-15 | [`ABA Research - Business Information 2`](https://google.com/search?q=ABA+Research+-+Business+Information+2) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-08-15 | [`Keystone Insurance Services`](https://google.com/search?q=Keystone+Insurance+Services) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-08-15 | [`ANS`](https://google.com/search?q=ANS) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-08-15 | [`Aspect Structural Engineers`](https://google.com/search?q=Aspect+Structural+Engineers) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
