@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-08-25 | [`Alfagomma, Argus Fluidhandling Ltd`](https://google.com/search?q=Alfagomma%2C+Argus+Fluidhandling+Ltd) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-08-25 | [`Trimaran Capital Partners`](https://google.com/search?q=Trimaran+Capital+Partners) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-08-25 | [`bam.com.gt`](https://google.com/search?q=bam.com.gt) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-08-25 | [`sma.de`](https://google.com/search?q=sma.de) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-08-16 | [`Tally Energy Service s`](https://google.com/search?q=Tally+Energy+Service+s) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-08-16 | [`radissonhotelsamericas.com`](https://google.com/search?q=radissonhotelsamericas.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-08-16 | [`* *i***`](https://google.com/search?q=%2A+%2Ai%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2023-08-16 | [`CORDELLCORDELL`](https://google.com/search?q=CORDELLCORDELL) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
