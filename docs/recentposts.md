@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-08-25 | [`INSTITUTO NACIONAL DE ELECTRIFICACION`](https://google.com/search?q=INSTITUTO+NACIONAL+DE+ELECTRIFICACION) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2023-08-25 | [`FA Foundry`](https://google.com/search?q=FA+Foundry) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2023-08-25 | [`Sydenham Laboratories`](https://google.com/search?q=Sydenham+Laboratories) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-08-25 | [`www.fiocruz.br`](https://google.com/search?q=www.fiocruz.br) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-08-25 | [`senacrs.com.br`](https://google.com/search?q=senacrs.com.br) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-08-24 | [`merative.com`](https://google.com/search?q=merative.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2023-08-15 | [`ANS`](https://google.com/search?q=ANS) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-08-15 | [`Aspect Structural Engineers`](https://google.com/search?q=Aspect+Structural+Engineers) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-08-15 | [`www.verdeil.ch`](https://google.com/search?q=www.verdeil.ch) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
-| 2023-08-15 | [`jhillburn.com`](https://google.com/search?q=jhillburn.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-08-14 | [`Freeport-McMoran - NYSE: FCX`](https://google.com/search?q=Freeport-McMoran+-+NYSE%3A+FCX) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-08-14 | [`nortonlifelock.com`](https://google.com/search?q=nortonlifelock.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
