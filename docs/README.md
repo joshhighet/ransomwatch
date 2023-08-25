@@ -4,7 +4,7 @@ _august 25th, 2023_
 
 currently tracking `157` groups across `281` relays & mirrors - _`111` currently online_
 
-⏲ there have been `21` posts within the `last 24 hours`
+⏲ there have been `20` posts within the `last 24 hours`
 
 🦈 there have been `369` posts within the `month of august`
 
