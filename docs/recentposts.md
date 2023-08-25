@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-08-25 | [`SMS-SME refused to protect customer and business data`](https://google.com/search?q=SMS-SME+refused+to+protect+customer+and+business+data) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
+| 2023-08-25 | [`Demcointer (Tunisia)`](https://google.com/search?q=Demcointer+%28Tunisia%29) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
+| 2023-08-25 | [`EPF`](https://google.com/search?q=EPF) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-08-25 | [`LEN Italia`](https://google.com/search?q=LEN+Italia) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-08-25 | [`Durham Fasteners`](https://google.com/search?q=Durham+Fasteners) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-08-25 | [`Axis Elevators `](https://google.com/search?q=Axis+Elevators+) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2023-08-16 | [`Optimum Health Solutions`](https://google.com/search?q=Optimum+Health+Solutions) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2023-08-16 | [`Ramtha`](https://google.com/search?q=Ramtha) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2023-08-16 | [`ToyotaLift Northeast`](https://google.com/search?q=ToyotaLift+Northeast) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-08-16 | [`ONEATLAS.COM`](https://google.com/search?q=ONEATLAS.COM) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-08-15 | [`netscout.com`](https://google.com/search?q=netscout.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-08-15 | [`energytransfer.com`](https://google.com/search?q=energytransfer.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
