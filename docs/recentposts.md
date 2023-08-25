@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-08-25 | [`LEN Italia`](https://google.com/search?q=LEN+Italia) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
+| 2023-08-25 | [`Durham Fasteners`](https://google.com/search?q=Durham+Fasteners) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
+| 2023-08-25 | [`Axis Elevators `](https://google.com/search?q=Axis+Elevators+) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-08-25 | [`pioneerelectronics.com`](https://google.com/search?q=pioneerelectronics.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-08-25 | [`riteaid.com`](https://google.com/search?q=riteaid.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-08-25 | [`arvato.com`](https://google.com/search?q=arvato.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2023-08-16 | [`ONEATLAS.COM`](https://google.com/search?q=ONEATLAS.COM) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-08-15 | [`netscout.com`](https://google.com/search?q=netscout.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-08-15 | [`energytransfer.com`](https://google.com/search?q=energytransfer.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-08-15 | [`l8solutions.co.uk`](https://google.com/search?q=l8solutions.co.uk) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-08-15 | [`autozone.com`](https://google.com/search?q=autozone.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-08-15 | [`crowe.com`](https://google.com/search?q=crowe.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
