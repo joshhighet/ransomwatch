@@ -4,6 +4,10 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-08-26 | [`gipcl.com`](https://google.com/search?q=gipcl.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
+| 2023-08-26 | [`SKYROOT`](https://google.com/search?q=SKYROOT) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2023-08-26 | [`Varna Packaging`](https://google.com/search?q=Varna+Packaging) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2023-08-26 | [`KLM Laboratories Pvt. Ltd`](https://google.com/search?q=KLM+Laboratories+Pvt.+Ltd) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-08-25 | [`Alfagomma, Argus Fluidhandling Ltd`](https://google.com/search?q=Alfagomma%2C+Argus+Fluidhandling+Ltd) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-08-25 | [`Trimaran Capital Partners`](https://google.com/search?q=Trimaran+Capital+Partners) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-08-25 | [`bam.com.gt`](https://google.com/search?q=bam.com.gt) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
@@ -200,7 +204,3 @@ _last `200` posts_
 | 2023-08-17 | [`https://www.iconcreativestudio.com`](https://google.com/search?q=https%3A%2F%2Fwww.iconcreativestudio.com) | [metaencryptor](https://ransomwatch.telemetry.ltd/#/profiles?id=metaencryptor) |
 | 2023-08-17 | [`https://www.heilmann-ag.de`](https://google.com/search?q=https%3A%2F%2Fwww.heilmann-ag.de) | [metaencryptor](https://ransomwatch.telemetry.ltd/#/profiles?id=metaencryptor) |
 | 2023-08-17 | [`https://www.schwaelbchen-molkerei.de`](https://google.com/search?q=https%3A%2F%2Fwww.schwaelbchen-molkerei.de) | [metaencryptor](https://ransomwatch.telemetry.ltd/#/profiles?id=metaencryptor) |
-| 2023-08-16 | [`Cequint`](https://google.com/search?q=Cequint) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2023-08-16 | [`Tally Energy Service s`](https://google.com/search?q=Tally+Energy+Service+s) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2023-08-16 | [`radissonhotelsamericas.com`](https://google.com/search?q=radissonhotelsamericas.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-08-16 | [`* *i***`](https://google.com/search?q=%2A+%2Ai%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
