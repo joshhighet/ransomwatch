@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-08-26 | [`Fullerton India (SMFG India Credit)`](https://google.com/search?q=Fullerton+India+%28SMFG+India+Credit%29) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
 | 2023-08-26 | [`Community Council of South Central Texas`](https://google.com/search?q=Community+Council+of+South+Central+Texas) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-08-26 | [`fmfcu.org`](https://google.com/search?q=fmfcu.org) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-08-26 | [`jprmp.com`](https://google.com/search?q=jprmp.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-08-17 | [`The Clifton Public S chools`](https://google.com/search?q=The+Clifton+Public+S+chools) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-08-17 | [`https://dillonsupply.com`](https://google.com/search?q=https%3A%2F%2Fdillonsupply.com) | [metaencryptor](https://ransomwatch.telemetry.ltd/#/profiles?id=metaencryptor) |
 | 2023-08-17 | [`https://www.epicure.com`](https://google.com/search?q=https%3A%2F%2Fwww.epicure.com) | [metaencryptor](https://ransomwatch.telemetry.ltd/#/profiles?id=metaencryptor) |
-| 2023-08-17 | [`http://www.coswell.biz`](https://google.com/search?q=http%3A%2F%2Fwww.coswell.biz) | [metaencryptor](https://ransomwatch.telemetry.ltd/#/profiles?id=metaencryptor) |
