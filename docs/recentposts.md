@@ -4,6 +4,17 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-08-27 | [`Shanghai FRP Research Institute Co., Ltd.`](https://google.com/search?q=Shanghai+FRP+Research+Institute+Co.%2C+Ltd.) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2023-08-27 | [`amctheatres.com`](https://google.com/search?q=amctheatres.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-27 | [`slb.com`](https://google.com/search?q=slb.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-27 | [`motherson.com`](https://google.com/search?q=motherson.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-27 | [`discovery.com`](https://google.com/search?q=discovery.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-27 | [`rochester.edu`](https://google.com/search?q=rochester.edu) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-27 | [`yakult.com.ph`](https://google.com/search?q=yakult.com.ph) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-27 | [`ufcu.org`](https://google.com/search?q=ufcu.org) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-27 | [`voss.net`](https://google.com/search?q=voss.net) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-27 | [`jti.com`](https://google.com/search?q=jti.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-27 | [`gripa.org`](https://google.com/search?q=gripa.org) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-08-26 | [`Fullerton India (SMFG India Credit)`](https://google.com/search?q=Fullerton+India+%28SMFG+India+Credit%29) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
 | 2023-08-26 | [`Community Council of South Central Texas`](https://google.com/search?q=Community+Council+of+South+Central+Texas) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-08-26 | [`fmfcu.org`](https://google.com/search?q=fmfcu.org) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
@@ -193,14 +204,3 @@ _last `200` posts_
 | 2023-08-17 | [`umassmed.edu`](https://google.com/search?q=umassmed.edu) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-08-17 | [`mybps.us`](https://google.com/search?q=mybps.us) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-08-17 | [`kriegerklatt.com`](https://google.com/search?q=kriegerklatt.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-08-17 | [`www.alliancesolutionsgrp.com`](https://google.com/search?q=www.alliancesolutionsgrp.com) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2023-08-17 | [`www.deutsche-leasing.com`](https://google.com/search?q=www.deutsche-leasing.com) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2023-08-17 | [`www.venauto.nl`](https://google.com/search?q=www.venauto.nl) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2023-08-17 | [`https://www.synquestlabs.com`](https://google.com/search?q=https%3A%2F%2Fwww.synquestlabs.com) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2023-08-17 | [`www.twintowerstrading.com`](https://google.com/search?q=www.twintowerstrading.com) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2023-08-17 | [`Camino Nuevo Charter Academy`](https://google.com/search?q=Camino+Nuevo+Charter+Academy) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2023-08-17 | [`Smart-swgcrc.org`](https://google.com/search?q=Smart-swgcrc.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-08-17 | [`SFJAZZ.ORG`](https://google.com/search?q=SFJAZZ.ORG) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-08-17 | [`The Clifton Public S chools`](https://google.com/search?q=The+Clifton+Public+S+chools) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2023-08-17 | [`https://dillonsupply.com`](https://google.com/search?q=https%3A%2F%2Fdillonsupply.com) | [metaencryptor](https://ransomwatch.telemetry.ltd/#/profiles?id=metaencryptor) |
-| 2023-08-17 | [`https://www.epicure.com`](https://google.com/search?q=https%3A%2F%2Fwww.epicure.com) | [metaencryptor](https://ransomwatch.telemetry.ltd/#/profiles?id=metaencryptor) |
