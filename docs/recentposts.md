@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-08-27 | [`pwc.com`](https://google.com/search?q=pwc.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-27 | [`cognizant.com`](https://google.com/search?q=cognizant.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-27 | [`tgidirect.com`](https://google.com/search?q=tgidirect.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-08-27 | [`Shanghai FRP Research Institute Co., Ltd.`](https://google.com/search?q=Shanghai+FRP+Research+Institute+Co.%2C+Ltd.) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-08-27 | [`amctheatres.com`](https://google.com/search?q=amctheatres.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-08-27 | [`slb.com`](https://google.com/search?q=slb.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2023-08-17 | [`emerson.com`](https://google.com/search?q=emerson.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-08-17 | [`ricohacumen.com`](https://google.com/search?q=ricohacumen.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-08-17 | [`vrm.de`](https://google.com/search?q=vrm.de) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-08-17 | [`umassmed.edu`](https://google.com/search?q=umassmed.edu) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-08-17 | [`mybps.us`](https://google.com/search?q=mybps.us) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-08-17 | [`kriegerklatt.com`](https://google.com/search?q=kriegerklatt.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
