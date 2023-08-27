@@ -4,6 +4,15 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-08-27 | [`repsolsinopecuk.com`](https://google.com/search?q=repsolsinopecuk.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-27 | [`pinnacletpa.com`](https://google.com/search?q=pinnacletpa.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-27 | [`mycwt.com`](https://google.com/search?q=mycwt.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-27 | [`hess.com`](https://google.com/search?q=hess.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-27 | [`prgx.com`](https://google.com/search?q=prgx.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-27 | [`grace.com`](https://google.com/search?q=grace.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-27 | [`notablefrontier.com`](https://google.com/search?q=notablefrontier.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-27 | [`valmet.com`](https://google.com/search?q=valmet.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-27 | [`fmgl.com.au`](https://google.com/search?q=fmgl.com.au) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-08-27 | [`pwc.com`](https://google.com/search?q=pwc.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-08-27 | [`cognizant.com`](https://google.com/search?q=cognizant.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-08-27 | [`tgidirect.com`](https://google.com/search?q=tgidirect.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
@@ -195,12 +204,3 @@ _last `200` posts_
 | 2023-08-18 | [`genericon.at`](https://google.com/search?q=genericon.at) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-08-18 | [`tedpella.com`](https://google.com/search?q=tedpella.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-08-18 | [`mitchcointernational.com`](https://google.com/search?q=mitchcointernational.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-08-18 | [`www.auda.org.au`](https://google.com/search?q=www.auda.org.au) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
-| 2023-08-17 | [`www.contact121.com.au`](https://google.com/search?q=www.contact121.com.au) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
-| 2023-08-17 | [`umchealth.com`](https://google.com/search?q=umchealth.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-08-17 | [`Agriloja.pt demo-leak`](https://google.com/search?q=Agriloja.pt+demo-leak) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
-| 2023-08-17 | [`sgl.co.th`](https://google.com/search?q=sgl.co.th) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-08-17 | [`RIMSS`](https://google.com/search?q=RIMSS) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2023-08-17 | [`emerson.com`](https://google.com/search?q=emerson.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-08-17 | [`ricohacumen.com`](https://google.com/search?q=ricohacumen.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-08-17 | [`vrm.de`](https://google.com/search?q=vrm.de) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
