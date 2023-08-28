@@ -4,6 +4,16 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-08-28 | [`sierrawireless.com`](https://google.com/search?q=sierrawireless.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-28 | [`rci.com`](https://google.com/search?q=rci.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-28 | [`aa.com`](https://google.com/search?q=aa.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-28 | [`jonasfitness.com`](https://google.com/search?q=jonasfitness.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-28 | [`itt.com`](https://google.com/search?q=itt.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-28 | [`allegiantair.com`](https://google.com/search?q=allegiantair.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-28 | [`esteelauder.com`](https://google.com/search?q=esteelauder.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-28 | [`bluefin.com`](https://google.com/search?q=bluefin.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-28 | [`ventivtech.com`](https://google.com/search?q=ventivtech.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-28 | [`dma.us`](https://google.com/search?q=dma.us) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-08-28 | [`www.qigroup.com`](https://google.com/search?q=www.qigroup.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-08-28 | [`www.iinaba.com`](https://google.com/search?q=www.iinaba.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-08-28 | [`Arus-gmbh`](https://google.com/search?q=Arus-gmbh) | [cloak](https://ransomwatch.telemetry.ltd/#/profiles?id=cloak) |
@@ -194,13 +204,3 @@ _last `200` posts_
 | 2023-08-20 | [`cochraninc.com`](https://google.com/search?q=cochraninc.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-08-20 | [`cloudtopoffice.com`](https://google.com/search?q=cloudtopoffice.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-08-19 | [`Novi Pazar put ad`](https://google.com/search?q=Novi+Pazar+put+ad) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
-| 2023-08-19 | [`The International Civil Defense Organization`](https://google.com/search?q=The+International+Civil+Defense+Organization) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
-| 2023-08-19 | [`Sartrouville  France`](https://google.com/search?q=Sartrouville++France) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
-| 2023-08-19 | [`goldmedalbakery`](https://google.com/search?q=goldmedalbakery) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
-| 2023-08-19 | [`s3groupltd.com`](https://google.com/search?q=s3groupltd.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-08-19 | [`phitoformulas.com.br`](https://google.com/search?q=phitoformulas.com.br) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-08-19 | [`macuspana.gob.mx`](https://google.com/search?q=macuspana.gob.mx) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-08-19 | [`National Institute of Social Services for Retirees and Pensioners`](https://google.com/search?q=National+Institute+of+Social+Services+for+Retirees+and+Pensioners) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2023-08-19 | [`Municipality of Ferrara`](https://google.com/search?q=Municipality+of+Ferrara) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2023-08-19 | [`Bitimen`](https://google.com/search?q=Bitimen) | [arvinclub](https://ransomwatch.telemetry.ltd/#/profiles?id=arvinclub) |
-| 2023-08-19 | [`AFTA Isfahan`](https://google.com/search?q=AFTA+Isfahan) | [arvinclub](https://ransomwatch.telemetry.ltd/#/profiles?id=arvinclub) |
