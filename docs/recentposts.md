@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-08-28 | [`www.qigroup.com`](https://google.com/search?q=www.qigroup.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-08-28 | [`www.iinaba.com`](https://google.com/search?q=www.iinaba.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-08-28 | [`Arus-gmbh`](https://google.com/search?q=Arus-gmbh) | [cloak](https://ransomwatch.telemetry.ltd/#/profiles?id=cloak) |
 | 2023-08-28 | [`Sportlab-srl`](https://google.com/search?q=Sportlab-srl) | [cloak](https://ransomwatch.telemetry.ltd/#/profiles?id=cloak) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-08-19 | [`Municipality of Ferrara`](https://google.com/search?q=Municipality+of+Ferrara) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2023-08-19 | [`Bitimen`](https://google.com/search?q=Bitimen) | [arvinclub](https://ransomwatch.telemetry.ltd/#/profiles?id=arvinclub) |
 | 2023-08-19 | [`AFTA Isfahan`](https://google.com/search?q=AFTA+Isfahan) | [arvinclub](https://ransomwatch.telemetry.ltd/#/profiles?id=arvinclub) |
-| 2023-08-19 | [`hamyari Shahrdari golestan`](https://google.com/search?q=hamyari+Shahrdari+golestan) | [arvinclub](https://ransomwatch.telemetry.ltd/#/profiles?id=arvinclub) |
