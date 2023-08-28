@@ -311,6 +311,7 @@ if args.mode == 'parse':
     parsers.knight()
     parsers.incransom()
     parsers.metaencryptor()
+    parsers.cloak()
     stdlog('ransomwatch: ' + 'parse run complete')
 
 if args.mode == 'list':

@@ -4635,5 +4635,25 @@
             }
         ],
         "profile": []
+    },
+    {
+        "name": "cloak",
+        "captcha": false,
+        "parser": true,
+        "javascript_render": false,
+        "meta": null,
+        "locations": [
+            {
+                "fqdn": "cloak7jpvcb73rtx2ff7kaw2kholu7bdiivxpzbhlny4ybz75dpxckqd.onion",
+                "title": "Shame Board",
+                "version": 3,
+                "slug": "http://cloak7jpvcb73rtx2ff7kaw2kholu7bdiivxpzbhlny4ybz75dpxckqd.onion",
+                "available": true,
+                "updated": "2023-08-28 16:00:56.521330",
+                "lastscrape": "2023-08-28 16:00:56.521023",
+                "enabled": true
+            }
+        ],
+        "profile": []
     }
 ]

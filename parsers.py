@@ -1146,3 +1146,14 @@ def metaencryptor():
         errlog('metaencryptor: ' + 'parsing fail')
     for post in posts:
         appender(post, 'metaencryptor')
+
+def cloak():
+    stdlog('parser: ' + 'cloak')
+    parser = '''
+    grep '<h2 class="main__name">' source/cloak-*.html --no-filename | cut -d ">" -f2 | cut -d '<' -f 1
+    '''
+    posts = runshellcmd(parser)
+    if len(posts) == 1:
+        errlog('cloak: ' + 'parsing fail')
+    for post in posts:
+        appender(post, 'cloak')
