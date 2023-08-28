@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-08-28 | [`Pierce College`](https://google.com/search?q=Pierce+College) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2023-08-28 | [`sierrawireless.com`](https://google.com/search?q=sierrawireless.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-08-28 | [`rci.com`](https://google.com/search?q=rci.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-08-28 | [`aa.com`](https://google.com/search?q=aa.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-08-20 | [`equip-reuse.com`](https://google.com/search?q=equip-reuse.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-08-20 | [`cochraninc.com`](https://google.com/search?q=cochraninc.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-08-20 | [`cloudtopoffice.com`](https://google.com/search?q=cloudtopoffice.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-08-19 | [`Novi Pazar put ad`](https://google.com/search?q=Novi+Pazar+put+ad) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
