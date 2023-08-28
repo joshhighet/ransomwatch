@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-08-28 | [`purever.com`](https://google.com/search?q=purever.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-08-28 | [`jhilburn.com`](https://google.com/search?q=jhilburn.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-08-28 | [`grupomartex.com`](https://google.com/search?q=grupomartex.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-08-27 | [`repsolsinopecuk.com`](https://google.com/search?q=repsolsinopecuk.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-08-27 | [`pinnacletpa.com`](https://google.com/search?q=pinnacletpa.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-08-27 | [`mycwt.com`](https://google.com/search?q=mycwt.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2023-08-18 | [`oekk.ch`](https://google.com/search?q=oekk.ch) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-08-18 | [`cuanswers.com`](https://google.com/search?q=cuanswers.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-08-18 | [`brault.us`](https://google.com/search?q=brault.us) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-08-18 | [`genericon.at`](https://google.com/search?q=genericon.at) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-08-18 | [`tedpella.com`](https://google.com/search?q=tedpella.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-08-18 | [`mitchcointernational.com`](https://google.com/search?q=mitchcointernational.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
