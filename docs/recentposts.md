@@ -27,6 +27,7 @@ _last `200` posts_
 | 2023-08-28 | [`ALEZZELPOWER.com`](https://google.com/search?q=ALEZZELPOWER.com) | [cloak](https://ransomwatch.telemetry.ltd/#/profiles?id=cloak) |
 | 2023-08-28 | [`Notaires.fr`](https://google.com/search?q=Notaires.fr) | [cloak](https://ransomwatch.telemetry.ltd/#/profiles?id=cloak) |
 | 2023-08-28 | [`Sonabhy.bf`](https://google.com/search?q=Sonabhy.bf) | [cloak](https://ransomwatch.telemetry.ltd/#/profiles?id=cloak) |
+| 2023-08-28 | [`Jasper High School`](https://google.com/search?q=Jasper+High+School) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-08-28 | [`Voss Enterprises, Di vvies`](https://google.com/search?q=Voss+Enterprises%2C+Di+vvies) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-08-28 | [`Cutler-Smith`](https://google.com/search?q=Cutler-Smith) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-08-28 | [`Asian Network Pacific Home Care and Hospice`](https://google.com/search?q=Asian+Network+Pacific+Home+Care+and+Hospice) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-08-19 | [`AFTA Isfahan`](https://google.com/search?q=AFTA+Isfahan) | [arvinclub](https://ransomwatch.telemetry.ltd/#/profiles?id=arvinclub) |
 | 2023-08-19 | [`hamyari Shahrdari golestan`](https://google.com/search?q=hamyari+Shahrdari+golestan) | [arvinclub](https://ransomwatch.telemetry.ltd/#/profiles?id=arvinclub) |
 | 2023-08-19 | [`Haraz dairy `](https://google.com/search?q=Haraz+dairy+) | [arvinclub](https://ransomwatch.telemetry.ltd/#/profiles?id=arvinclub) |
-| 2023-08-19 | [`150k sib360 Database`](https://google.com/search?q=150k+sib360+Database) | [arvinclub](https://ransomwatch.telemetry.ltd/#/profiles?id=arvinclub) |
