@@ -27,6 +27,11 @@ _last `200` posts_
 | 2023-08-28 | [`ALEZZELPOWER.com`](https://google.com/search?q=ALEZZELPOWER.com) | [cloak](https://ransomwatch.telemetry.ltd/#/profiles?id=cloak) |
 | 2023-08-28 | [`Notaires.fr`](https://google.com/search?q=Notaires.fr) | [cloak](https://ransomwatch.telemetry.ltd/#/profiles?id=cloak) |
 | 2023-08-28 | [`Sonabhy.bf`](https://google.com/search?q=Sonabhy.bf) | [cloak](https://ransomwatch.telemetry.ltd/#/profiles?id=cloak) |
+| 2023-08-28 | [`Voss Enterprises, Di vvies`](https://google.com/search?q=Voss+Enterprises%2C+Di+vvies) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
+| 2023-08-28 | [`Cutler-Smith`](https://google.com/search?q=Cutler-Smith) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
+| 2023-08-28 | [`Asian Network Pacific Home Care and Hospice`](https://google.com/search?q=Asian+Network+Pacific+Home+Care+and+Hospice) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2023-08-28 | [`HealthIndia TPA Services Pvt Ltd`](https://google.com/search?q=HealthIndia+TPA+Services+Pvt+Ltd) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2023-08-28 | [`Superior Communications`](https://google.com/search?q=Superior+Communications) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-08-28 | [`Intertek`](https://google.com/search?q=Intertek) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-08-28 | [`Penny Publications`](https://google.com/search?q=Penny+Publications) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-08-28 | [`newtree.com.ar`](https://google.com/search?q=newtree.com.ar) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
@@ -199,8 +204,3 @@ _last `200` posts_
 | 2023-08-19 | [`hamyari Shahrdari golestan`](https://google.com/search?q=hamyari+Shahrdari+golestan) | [arvinclub](https://ransomwatch.telemetry.ltd/#/profiles?id=arvinclub) |
 | 2023-08-19 | [`Haraz dairy `](https://google.com/search?q=Haraz+dairy+) | [arvinclub](https://ransomwatch.telemetry.ltd/#/profiles?id=arvinclub) |
 | 2023-08-19 | [`150k sib360 Database`](https://google.com/search?q=150k+sib360+Database) | [arvinclub](https://ransomwatch.telemetry.ltd/#/profiles?id=arvinclub) |
-| 2023-08-19 | [`Padena Factory`](https://google.com/search?q=Padena+Factory) | [arvinclub](https://ransomwatch.telemetry.ltd/#/profiles?id=arvinclub) |
-| 2023-08-19 | [`seaside-kish co`](https://google.com/search?q=seaside-kish+co) | [arvinclub](https://ransomwatch.telemetry.ltd/#/profiles?id=arvinclub) |
-| 2023-08-19 | [`Draje food industrial group`](https://google.com/search?q=Draje+food+industrial+group) | [arvinclub](https://ransomwatch.telemetry.ltd/#/profiles?id=arvinclub) |
-| 2023-08-19 | [`Parsian Bitumen`](https://google.com/search?q=Parsian+Bitumen) | [arvinclub](https://ransomwatch.telemetry.ltd/#/profiles?id=arvinclub) |
-| 2023-08-19 | [`Sabalan Azmayesh`](https://google.com/search?q=Sabalan+Azmayesh) | [arvinclub](https://ransomwatch.telemetry.ltd/#/profiles?id=arvinclub) |
