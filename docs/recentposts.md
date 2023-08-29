@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-08-29 | [`esprigas.com`](https://google.com/search?q=esprigas.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-08-29 | [`Agriloja pt.3`](https://google.com/search?q=Agriloja+pt.3) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2023-08-29 | [`PT. Cahaya Benteng Mas`](https://google.com/search?q=PT.+Cahaya+Benteng+Mas) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-08-29 | [`compucom.com`](https://google.com/search?q=compucom.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-08-29 | [`cfins.com`](https://google.com/search?q=cfins.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-08-21 | [`skillsoft.com`](https://google.com/search?q=skillsoft.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-08-21 | [`creelighting.com`](https://google.com/search?q=creelighting.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-08-21 | [`emsshi.com`](https://google.com/search?q=emsshi.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-08-21 | [`cbeservices.com`](https://google.com/search?q=cbeservices.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-08-21 | [`werum.com`](https://google.com/search?q=werum.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
