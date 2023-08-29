@@ -4,6 +4,10 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-08-29 | [`alektum.com`](https://google.com/search?q=alektum.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-29 | [`hoermann-gruppe.com`](https://google.com/search?q=hoermann-gruppe.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-29 | [`hubbell.com`](https://google.com/search?q=hubbell.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-29 | [`kellyservices.com`](https://google.com/search?q=kellyservices.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-08-29 | [`Kendrion.com`](https://google.com/search?q=Kendrion.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-08-28 | [`Pierce College`](https://google.com/search?q=Pierce+College) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2023-08-28 | [`sierrawireless.com`](https://google.com/search?q=sierrawireless.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
@@ -200,7 +204,3 @@ _last `200` posts_
 | 2023-08-20 | [`cncbinternational.com`](https://google.com/search?q=cncbinternational.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-08-20 | [`nuance.com`](https://google.com/search?q=nuance.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-08-20 | [`palig.com`](https://google.com/search?q=palig.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-08-20 | [`gesa.com`](https://google.com/search?q=gesa.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-08-20 | [`hallbergengineering.com`](https://google.com/search?q=hallbergengineering.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-08-20 | [`equip-reuse.com`](https://google.com/search?q=equip-reuse.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-08-20 | [`cochraninc.com`](https://google.com/search?q=cochraninc.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
