@@ -4,6 +4,12 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-08-29 | [`PT. Cahaya Benteng Mas`](https://google.com/search?q=PT.+Cahaya+Benteng+Mas) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2023-08-29 | [`compucom.com`](https://google.com/search?q=compucom.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-29 | [`cfins.com`](https://google.com/search?q=cfins.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-29 | [`desmi.com`](https://google.com/search?q=desmi.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-29 | [`barrick.com`](https://google.com/search?q=barrick.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-29 | [`vitesco-technologies.com`](https://google.com/search?q=vitesco-technologies.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-08-29 | [`amerisave.com`](https://google.com/search?q=amerisave.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-08-29 | [`convergeone.com`](https://google.com/search?q=convergeone.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-08-29 | [`alogent.com`](https://google.com/search?q=alogent.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
@@ -198,9 +204,3 @@ _last `200` posts_
 | 2023-08-21 | [`emsshi.com`](https://google.com/search?q=emsshi.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-08-21 | [`cbeservices.com`](https://google.com/search?q=cbeservices.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-08-21 | [`werum.com`](https://google.com/search?q=werum.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-08-21 | [`msamlin.com`](https://google.com/search?q=msamlin.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-08-21 | [`se.com`](https://google.com/search?q=se.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-08-21 | [`abbvie.com`](https://google.com/search?q=abbvie.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-08-21 | [`proskauer.com`](https://google.com/search?q=proskauer.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-08-21 | [`Department of Defence South African`](https://google.com/search?q=Department+of+Defence+South+African) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
-| 2023-08-21 | [`careservicesllc.com`](https://google.com/search?q=careservicesllc.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
