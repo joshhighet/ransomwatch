@@ -4,6 +4,10 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-08-29 | [`uprepschool.org`](https://google.com/search?q=uprepschool.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-08-29 | [`sherwin-electric.com`](https://google.com/search?q=sherwin-electric.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-08-29 | [`jamaicainn.com`](https://google.com/search?q=jamaicainn.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-08-29 | [`beniculturali.it`](https://google.com/search?q=beniculturali.it) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-08-29 | [`wkclawfirm.com`](https://google.com/search?q=wkclawfirm.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-08-29 | [`ukseung.co.kr`](https://google.com/search?q=ukseung.co.kr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-08-29 | [`renaultinantwerpen.be`](https://google.com/search?q=renaultinantwerpen.be) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -200,7 +204,3 @@ _last `200` posts_
 | 2023-08-23 | [`tdecu.org`](https://google.com/search?q=tdecu.org) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-08-23 | [`unitedregional.org`](https://google.com/search?q=unitedregional.org) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-08-23 | [`kyburzdruck.ch`](https://google.com/search?q=kyburzdruck.ch) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-08-23 | [`ciena.com`](https://google.com/search?q=ciena.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-08-23 | [`norgren.com`](https://google.com/search?q=norgren.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-08-23 | [`sti company`](https://google.com/search?q=sti+company) | [arvinclub](https://ransomwatch.telemetry.ltd/#/profiles?id=arvinclub) |
-| 2023-08-22 | [`A???? F??????????? Ltd`](https://google.com/search?q=A%3F%3F%3F%3F+F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F+Ltd) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
