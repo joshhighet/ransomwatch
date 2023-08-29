@@ -4,6 +4,18 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-08-29 | [`amerisave.com`](https://google.com/search?q=amerisave.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-29 | [`convergeone.com`](https://google.com/search?q=convergeone.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-29 | [`alogent.com`](https://google.com/search?q=alogent.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-29 | [`softtech.nl`](https://google.com/search?q=softtech.nl) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-29 | [`infinigate.ch`](https://google.com/search?q=infinigate.ch) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-29 | [`quark.com`](https://google.com/search?q=quark.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-29 | [`aclara.com`](https://google.com/search?q=aclara.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-29 | [`cced.com.om`](https://google.com/search?q=cced.com.om) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-29 | [`saul.org.uk`](https://google.com/search?q=saul.org.uk) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-29 | [`dataengine.eu`](https://google.com/search?q=dataengine.eu) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-29 | [`kalepw.com`](https://google.com/search?q=kalepw.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-29 | [`macom.com`](https://google.com/search?q=macom.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-08-29 | [`alektum.com`](https://google.com/search?q=alektum.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-08-29 | [`hoermann-gruppe.com`](https://google.com/search?q=hoermann-gruppe.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-08-29 | [`hubbell.com`](https://google.com/search?q=hubbell.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
@@ -192,15 +204,3 @@ _last `200` posts_
 | 2023-08-21 | [`proskauer.com`](https://google.com/search?q=proskauer.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-08-21 | [`Department of Defence South African`](https://google.com/search?q=Department+of+Defence+South+African) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
 | 2023-08-21 | [`careservicesllc.com`](https://google.com/search?q=careservicesllc.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-08-21 | [`316fiduciaries.com`](https://google.com/search?q=316fiduciaries.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-08-21 | [`uga.edu`](https://google.com/search?q=uga.edu) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-08-21 | [`leggett.com`](https://google.com/search?q=leggett.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-08-21 | [`datasite.com`](https://google.com/search?q=datasite.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-08-21 | [`Davidoff Hutcher & Citron`](https://google.com/search?q=Davidoff+Hutcher+%26+Citron) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-08-21 | [`Seiko Group Corporation`](https://google.com/search?q=Seiko+Group+Corporation) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-08-20 | [`icsystem.com`](https://google.com/search?q=icsystem.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-08-20 | [`arburg.com`](https://google.com/search?q=arburg.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-08-20 | [`bostonglobe.com`](https://google.com/search?q=bostonglobe.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-08-20 | [`cncbinternational.com`](https://google.com/search?q=cncbinternational.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-08-20 | [`nuance.com`](https://google.com/search?q=nuance.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-08-20 | [`palig.com`](https://google.com/search?q=palig.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
