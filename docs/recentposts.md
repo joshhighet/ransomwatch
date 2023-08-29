@@ -4,6 +4,12 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-08-29 | [`wkclawfirm.com`](https://google.com/search?q=wkclawfirm.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-08-29 | [`ukseung.co.kr`](https://google.com/search?q=ukseung.co.kr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-08-29 | [`renaultinantwerpen.be`](https://google.com/search?q=renaultinantwerpen.be) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-08-29 | [`mergerecords.com`](https://google.com/search?q=mergerecords.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-08-29 | [`greenside-sch.org`](https://google.com/search?q=greenside-sch.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-08-29 | [`casa-andina.com`](https://google.com/search?q=casa-andina.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-08-29 | [`younghomes.com`](https://google.com/search?q=younghomes.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-08-29 | [`immoselekt.be`](https://google.com/search?q=immoselekt.be) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-08-29 | [`fimadev.fr`](https://google.com/search?q=fimadev.fr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -198,9 +204,3 @@ _last `200` posts_
 | 2023-08-23 | [`norgren.com`](https://google.com/search?q=norgren.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-08-23 | [`sti company`](https://google.com/search?q=sti+company) | [arvinclub](https://ransomwatch.telemetry.ltd/#/profiles?id=arvinclub) |
 | 2023-08-22 | [`A???? F??????????? Ltd`](https://google.com/search?q=A%3F%3F%3F%3F+F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F+Ltd) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-08-22 | [`stockwellharris.com`](https://google.com/search?q=stockwellharris.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-08-22 | [`Sirius Computer Solutions`](https://google.com/search?q=Sirius+Computer+Solutions) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-08-22 | [`Atlantic Federal Credit Union`](https://google.com/search?q=Atlantic+Federal+Credit+Union) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-08-22 | [`NE-BIC`](https://google.com/search?q=NE-BIC) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-08-22 | [`https://www.heidelbergmaterials.com`](https://google.com/search?q=https%3A%2F%2Fwww.heidelbergmaterials.com) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2023-08-21 | [`www.fytisa.com`](https://google.com/search?q=www.fytisa.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
