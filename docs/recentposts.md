@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-08-30 | [`Felling Trailers, Inc.`](https://google.com/search?q=Felling+Trailers%2C+Inc.) | [lorenz](https://ransomwatch.telemetry.ltd/#/profiles?id=lorenz) |
 | 2023-08-30 | [`www.pasqualebruni.com`](https://google.com/search?q=www.pasqualebruni.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-08-30 | [`PRIDE GLOBAL CONSULTING SL`](https://google.com/search?q=PRIDE+GLOBAL+CONSULTING+SL) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-08-30 | [`Petkus Brothers`](https://google.com/search?q=Petkus+Brothers) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-08-23 | [`IMS Computer Solutions`](https://google.com/search?q=IMS+Computer+Solutions) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-08-23 | [`clicksgroup.co.za`](https://google.com/search?q=clicksgroup.co.za) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-08-23 | [`hornbeckoffshore.com`](https://google.com/search?q=hornbeckoffshore.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-08-23 | [`fisglobal.com`](https://google.com/search?q=fisglobal.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
