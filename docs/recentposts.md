@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-08-30 | [`www.pasqualebruni.com`](https://google.com/search?q=www.pasqualebruni.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
+| 2023-08-30 | [`PRIDE GLOBAL CONSULTING SL`](https://google.com/search?q=PRIDE+GLOBAL+CONSULTING+SL) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2023-08-30 | [`Petkus Brothers`](https://google.com/search?q=Petkus+Brothers) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-08-30 | [`www.yxzg.net`](https://google.com/search?q=www.yxzg.net) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-08-29 | [`orau.org`](https://google.com/search?q=orau.org) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-08-29 | [`amf.se`](https://google.com/search?q=amf.se) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2023-08-23 | [`clicksgroup.co.za`](https://google.com/search?q=clicksgroup.co.za) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-08-23 | [`hornbeckoffshore.com`](https://google.com/search?q=hornbeckoffshore.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-08-23 | [`fisglobal.com`](https://google.com/search?q=fisglobal.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-08-23 | [`digitalinsight.no`](https://google.com/search?q=digitalinsight.no) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-08-23 | [`cpiai.com`](https://google.com/search?q=cpiai.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-08-23 | [`enstargroup.com`](https://google.com/search?q=enstargroup.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
