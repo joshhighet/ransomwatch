@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-08-30 | [`lamaisonmercier.com`](https://google.com/search?q=lamaisonmercier.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-08-30 | [`O'Brien Steel Servic e`](https://google.com/search?q=O%27Brien+Steel+Servic+e) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-08-30 | [`texline-global.com`](https://google.com/search?q=texline-global.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-08-30 | [`Renton School Distri ct`](https://google.com/search?q=Renton+School+Distri+ct) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-08-24 | [`Hoosick Falls Central School District`](https://google.com/search?q=Hoosick+Falls+Central+School+District) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-08-24 | [`Royal Oak Pet Clinic`](https://google.com/search?q=Royal+Oak+Pet+Clinic) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-08-24 | [`Mil-Ken Travel`](https://google.com/search?q=Mil-Ken+Travel) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-08-24 | [`Kevills Solicitors`](https://google.com/search?q=Kevills+Solicitors) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
