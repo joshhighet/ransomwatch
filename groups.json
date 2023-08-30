@@ -4638,7 +4638,7 @@
     },
     {
         "name": "cloak",
-        "captcha": false,
+        "captcha": true,
         "parser": true,
         "javascript_render": false,
         "meta": null,
