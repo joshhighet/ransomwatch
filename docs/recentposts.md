@@ -4,6 +4,30 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-08-30 | [`Zurvita(Unpay-Partially public)`](https://google.com/search?q=Zurvita%28Unpay-Partially+public%29) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
+| 2023-08-30 | [`P****X(Unpay)`](https://google.com/search?q=P%2A%2A%2A%2AX%28Unpay%29) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
+| 2023-08-30 | [`Y****e(Unpay)`](https://google.com/search?q=Y%2A%2A%2A%2Ae%28Unpay%29) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
+| 2023-08-30 | [`2****r(Unpay)`](https://google.com/search?q=2%2A%2A%2A%2Ar%28Unpay%29) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
+| 2023-08-30 | [`I****n(Unpay)`](https://google.com/search?q=I%2A%2A%2A%2An%28Unpay%29) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
+| 2023-08-30 | [`tavlit.co.il`](https://google.com/search?q=tavlit.co.il) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-08-30 | [`potenciamaquinaria.com`](https://google.com/search?q=potenciamaquinaria.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-08-30 | [`otltd.co.uk`](https://google.com/search?q=otltd.co.uk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-08-30 | [`optoflux.com`](https://google.com/search?q=optoflux.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-08-30 | [`nieul-sur-mer.fr`](https://google.com/search?q=nieul-sur-mer.fr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-08-30 | [`mariocoelho.com`](https://google.com/search?q=mariocoelho.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-08-30 | [`losh.com`](https://google.com/search?q=losh.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-08-30 | [`locaparc.fr`](https://google.com/search?q=locaparc.fr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-08-30 | [`inouemfg.com`](https://google.com/search?q=inouemfg.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-08-30 | [`guillerm-habitat.fr`](https://google.com/search?q=guillerm-habitat.fr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-08-30 | [`greensboro.edu`](https://google.com/search?q=greensboro.edu) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-08-30 | [`grebe-korbach.de`](https://google.com/search?q=grebe-korbach.de) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-08-30 | [`feuille-erable.fr`](https://google.com/search?q=feuille-erable.fr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-08-30 | [`emec.com.eg`](https://google.com/search?q=emec.com.eg) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-08-30 | [`dollinger-pierre.fr`](https://google.com/search?q=dollinger-pierre.fr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-08-30 | [`auto-pieces.fr`](https://google.com/search?q=auto-pieces.fr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-08-30 | [`annals.edu.sg`](https://google.com/search?q=annals.edu.sg) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-08-30 | [`alpepipesystems.com`](https://google.com/search?q=alpepipesystems.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-08-30 | [`acolea.org`](https://google.com/search?q=acolea.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-08-30 | [`lamaisonmercier.com`](https://google.com/search?q=lamaisonmercier.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-08-30 | [`O'Brien Steel Servic e`](https://google.com/search?q=O%27Brien+Steel+Servic+e) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-08-30 | [`texline-global.com`](https://google.com/search?q=texline-global.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -180,27 +204,3 @@ _last `200` posts_
 | 2023-08-25 | [`SMS-SME was hacked. A huge amount of confidential information was stolen, information of c`](https://google.com/search?q=SMS-SME+was+hacked.+A+huge+amount+of+confidential+information+was+stolen%2C+information+of+c) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-08-25 | [`INSTITUTO NACIONAL DE ELECTRIFICACION`](https://google.com/search?q=INSTITUTO+NACIONAL+DE+ELECTRIFICACION) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-08-25 | [`FA Foundry`](https://google.com/search?q=FA+Foundry) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-08-25 | [`Sydenham Laboratories`](https://google.com/search?q=Sydenham+Laboratories) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-08-25 | [`www.fiocruz.br`](https://google.com/search?q=www.fiocruz.br) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
-| 2023-08-25 | [`senacrs.com.br`](https://google.com/search?q=senacrs.com.br) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-08-24 | [`merative.com`](https://google.com/search?q=merative.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-08-24 | [`quorumfcu.org`](https://google.com/search?q=quorumfcu.org) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-08-24 | [`transperfect.com`](https://google.com/search?q=transperfect.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-08-24 | [`neweratech.com`](https://google.com/search?q=neweratech.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-08-24 | [`bankwithunited.com`](https://google.com/search?q=bankwithunited.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-08-24 | [`wolterskluwer.com`](https://google.com/search?q=wolterskluwer.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-08-24 | [`delarue.com`](https://google.com/search?q=delarue.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-08-24 | [`uoflhealth.org`](https://google.com/search?q=uoflhealth.org) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-08-24 | [`kernagency.com`](https://google.com/search?q=kernagency.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-08-24 | [`fiscdp.com`](https://google.com/search?q=fiscdp.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-08-24 | [`Edmonds School Distr ict`](https://google.com/search?q=Edmonds+School+Distr+ict) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2023-08-24 | [`Storm Tight Windows`](https://google.com/search?q=Storm+Tight+Windows) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-08-24 | [`Groupe Marchand Architecture & Design Inc`](https://google.com/search?q=Groupe+Marchand+Architecture+%26+Design+Inc) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-08-24 | [`Bahamas Medical and Surgical Supplies`](https://google.com/search?q=Bahamas+Medical+and+Surgical+Supplies) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-08-24 | [`Ontellus`](https://google.com/search?q=Ontellus) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
-| 2023-08-24 | [`A**** ***** ***`](https://google.com/search?q=A%2A%2A%2A%2A+%2A%2A%2A%2A%2A+%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2023-08-24 | [`C****** *******`](https://google.com/search?q=C%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2023-08-24 | [`Constellation Kidney Group`](https://google.com/search?q=Constellation+Kidney+Group) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2023-08-24 | [`Hoosick Falls Central School District`](https://google.com/search?q=Hoosick+Falls+Central+School+District) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-08-24 | [`Royal Oak Pet Clinic`](https://google.com/search?q=Royal+Oak+Pet+Clinic) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-08-24 | [`Mil-Ken Travel`](https://google.com/search?q=Mil-Ken+Travel) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
