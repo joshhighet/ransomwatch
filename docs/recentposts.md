@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-08-30 | [`www.yxzg.net`](https://google.com/search?q=www.yxzg.net) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-08-29 | [`orau.org`](https://google.com/search?q=orau.org) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-08-29 | [`amf.se`](https://google.com/search?q=amf.se) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-08-29 | [`encoreanywhere.com`](https://google.com/search?q=encoreanywhere.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-08-23 | [`digitalinsight.no`](https://google.com/search?q=digitalinsight.no) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-08-23 | [`cpiai.com`](https://google.com/search?q=cpiai.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-08-23 | [`enstargroup.com`](https://google.com/search?q=enstargroup.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-08-23 | [`sapiens.com`](https://google.com/search?q=sapiens.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
