@@ -50,11 +50,11 @@ def main(webpage):
         driver.get(webpage)
         # set the number of seconds to wait before working with the DOM
         sleeptz = 5
-        # if 'fqdn' in webpage:
+        if 'lockbitapt' in webpage:
+            time.sleep(7)
+            driver.implicitly_wait(3)
             # driver.add_cookie({"name": "ddosproteck", "value": "lol"})
             # driver.find_element_by_css_selector('button').click()
-            # time.sleep(35)
-            # driver.implicitly_wait(20)
         stdlog('geckodriver: ' + 'waiting ' + str(sleeptz) + ' seconds to render elements')
         time.sleep(sleeptz)
         '''
