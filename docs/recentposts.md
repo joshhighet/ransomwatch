@@ -4,6 +4,11 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-08-31 | [`millwgs.com`](https://google.com/search?q=millwgs.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-08-31 | [`biso.at`](https://google.com/search?q=biso.at) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-08-31 | [`Wilder & Co`](https://google.com/search?q=Wilder+%26+Co) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
+| 2023-08-31 | [`Alpizar Law Firm`](https://google.com/search?q=Alpizar+Law+Firm) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
+| 2023-08-31 | [`Eckell Sparks Attorneys at Law`](https://google.com/search?q=Eckell+Sparks+Attorneys+at+Law) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-08-31 | [`chuckecheese.com`](https://google.com/search?q=chuckecheese.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-08-31 | [`ttigroup.com`](https://google.com/search?q=ttigroup.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-08-31 | [`wsp.com`](https://google.com/search?q=wsp.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
@@ -199,8 +204,3 @@ _last `200` posts_
 | 2023-08-26 | [`KLM Laboratories Pvt. Ltd`](https://google.com/search?q=KLM+Laboratories+Pvt.+Ltd) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-08-25 | [`Alfagomma, Argus Fluidhandling Ltd`](https://google.com/search?q=Alfagomma%2C+Argus+Fluidhandling+Ltd) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-08-25 | [`Trimaran Capital Partners`](https://google.com/search?q=Trimaran+Capital+Partners) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-08-25 | [`bam.com.gt`](https://google.com/search?q=bam.com.gt) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-08-25 | [`sma.de`](https://google.com/search?q=sma.de) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-08-25 | [`jhu.edu`](https://google.com/search?q=jhu.edu) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-08-25 | [`SMS-SME refused to protect customer and business data`](https://google.com/search?q=SMS-SME+refused+to+protect+customer+and+business+data) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-08-25 | [`Demcointer (Tunisia)`](https://google.com/search?q=Demcointer+%28Tunisia%29) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
