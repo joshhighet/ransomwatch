@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-08-31 | [`chuckecheese.com`](https://google.com/search?q=chuckecheese.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-31 | [`ttigroup.com`](https://google.com/search?q=ttigroup.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-08-31 | [`wsp.com`](https://google.com/search?q=wsp.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-08-31 | [`siu.edu`](https://google.com/search?q=siu.edu) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-08-31 | [`deloitte.com`](https://google.com/search?q=deloitte.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-08-25 | [`jhu.edu`](https://google.com/search?q=jhu.edu) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-08-25 | [`SMS-SME refused to protect customer and business data`](https://google.com/search?q=SMS-SME+refused+to+protect+customer+and+business+data) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-08-25 | [`Demcointer (Tunisia)`](https://google.com/search?q=Demcointer+%28Tunisia%29) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-08-25 | [`EPF`](https://google.com/search?q=EPF) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-08-25 | [`LEN Italia`](https://google.com/search?q=LEN+Italia) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
