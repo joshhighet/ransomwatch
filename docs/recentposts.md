@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-08-31 | [`wsp.com`](https://google.com/search?q=wsp.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-31 | [`siu.edu`](https://google.com/search?q=siu.edu) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-31 | [`deloitte.com`](https://google.com/search?q=deloitte.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-08-31 | [`Fenn Termite and Pest Control`](https://google.com/search?q=Fenn+Termite+and+Pest+Control) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-08-31 | [`ddcos.com`](https://google.com/search?q=ddcos.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-08-31 | [`vitalitygroup.com`](https://google.com/search?q=vitalitygroup.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2023-08-25 | [`Demcointer (Tunisia)`](https://google.com/search?q=Demcointer+%28Tunisia%29) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-08-25 | [`EPF`](https://google.com/search?q=EPF) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-08-25 | [`LEN Italia`](https://google.com/search?q=LEN+Italia) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
-| 2023-08-25 | [`Durham Fasteners`](https://google.com/search?q=Durham+Fasteners) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
-| 2023-08-25 | [`Axis Elevators `](https://google.com/search?q=Axis+Elevators+) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
-| 2023-08-25 | [`pioneerelectronics.com`](https://google.com/search?q=pioneerelectronics.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
