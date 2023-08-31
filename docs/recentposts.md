@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-08-31 | [`skystar.it`](https://google.com/search?q=skystar.it) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-08-31 | [`zep.it`](https://google.com/search?q=zep.it) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-08-31 | [`toua.net`](https://google.com/search?q=toua.net) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-08-31 | [`rydershealth.com`](https://google.com/search?q=rydershealth.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-08-25 | [`clearesult.com`](https://google.com/search?q=clearesult.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-08-25 | [`nasco.com`](https://google.com/search?q=nasco.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-08-25 | [`jackentertainment.com`](https://google.com/search?q=jackentertainment.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-08-25 | [`HFH Capital`](https://google.com/search?q=HFH+Capital) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
