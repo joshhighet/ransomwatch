@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-08-31 | [`New York & Company`](https://google.com/search?q=New+York+%26+Company) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
+| 2023-08-31 | [`Children's Home of W yoming Conference`](https://google.com/search?q=Children%27s+Home+of+W+yoming+Conference) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
+| 2023-08-31 | [`Valley Mountain Regional Center`](https://google.com/search?q=Valley+Mountain+Regional+Center) | [karakurt](https://ransomwatch.telemetry.ltd/#/profiles?id=karakurt) |
 | 2023-08-31 | [`sbmoffshore.com`](https://google.com/search?q=sbmoffshore.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-08-31 | [`awaze.com`](https://google.com/search?q=awaze.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-08-31 | [`cap.org`](https://google.com/search?q=cap.org) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2023-08-27 | [`valmet.com`](https://google.com/search?q=valmet.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-08-27 | [`fmgl.com.au`](https://google.com/search?q=fmgl.com.au) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-08-27 | [`pwc.com`](https://google.com/search?q=pwc.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-08-27 | [`cognizant.com`](https://google.com/search?q=cognizant.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-08-27 | [`tgidirect.com`](https://google.com/search?q=tgidirect.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-08-27 | [`Shanghai FRP Research Institute Co., Ltd.`](https://google.com/search?q=Shanghai+FRP+Research+Institute+Co.%2C+Ltd.) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
