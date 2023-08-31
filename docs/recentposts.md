@@ -4,14 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
-| 2023-08-31 | [`bakermechanicalinc.com`](https://google.com/search?q=bakermechanicalinc.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-08-31 | [`yong mao environmental tech. co.,ltd`](https://google.com/search?q=yong+mao+environmental+tech.+co.%2Cltd) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-08-31 | [`smart-swgcrc.org`](https://google.com/search?q=smart-swgcrc.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-08-31 | [`sfjazz.org`](https://google.com/search?q=sfjazz.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-08-31 | [`nihonsakari co. , ltd`](https://google.com/search?q=nihonsakari+co.+%2C+ltd) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-08-31 | [`monte cristalina s.a.`](https://google.com/search?q=monte+cristalina+s.a.) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-08-31 | [`kendrion.com`](https://google.com/search?q=kendrion.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-08-31 | [`first bounty payout $50,000`](https://google.com/search?q=first+bounty+payout+%2450%2C000) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-08-31 | [`mayair.com.my`](https://google.com/search?q=mayair.com.my) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-08-31 | [`guyer.com.uy`](https://google.com/search?q=guyer.com.uy) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-08-31 | [`deschamps.fr`](https://google.com/search?q=deschamps.fr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-08-31 | [`abzarsara.com`](https://google.com/search?q=abzarsara.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-08-31 | [`bradyid.com`](https://google.com/search?q=bradyid.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-08-31 | [`mcw.edu`](https://google.com/search?q=mcw.edu) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
@@ -165,7 +160,7 @@ _last `200` posts_
 | 2023-08-29 | [`hoermann-gruppe.com`](https://google.com/search?q=hoermann-gruppe.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-08-29 | [`hubbell.com`](https://google.com/search?q=hubbell.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-08-29 | [`kellyservices.com`](https://google.com/search?q=kellyservices.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-08-29 | [`Kendrion.com`](https://google.com/search?q=Kendrion.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-08-29 | [`kendrion.com`](https://google.com/search?q=kendrion.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-08-28 | [`Pierce College`](https://google.com/search?q=Pierce+College) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2023-08-28 | [`sierrawireless.com`](https://google.com/search?q=sierrawireless.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-08-28 | [`rci.com`](https://google.com/search?q=rci.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
@@ -204,3 +199,8 @@ _last `200` posts_
 | 2023-08-28 | [`Sonabhy.bf`](https://google.com/search?q=Sonabhy.bf) | [cloak](https://ransomwatch.telemetry.ltd/#/profiles?id=cloak) |
 | 2023-08-28 | [`Jasper High School`](https://google.com/search?q=Jasper+High+School) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-08-28 | [`Voss Enterprises, Di vvies`](https://google.com/search?q=Voss+Enterprises%2C+Di+vvies) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
+| 2023-08-28 | [`Cutler-Smith`](https://google.com/search?q=Cutler-Smith) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
+| 2023-08-28 | [`Asian Network Pacific Home Care and Hospice`](https://google.com/search?q=Asian+Network+Pacific+Home+Care+and+Hospice) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2023-08-28 | [`HealthIndia TPA Services Pvt Ltd`](https://google.com/search?q=HealthIndia+TPA+Services+Pvt+Ltd) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2023-08-28 | [`Superior Communications`](https://google.com/search?q=Superior+Communications) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
+| 2023-08-28 | [`Intertek`](https://google.com/search?q=Intertek) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
