@@ -4,6 +4,15 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-08-31 | [`Fenn Termite and Pest Control`](https://google.com/search?q=Fenn+Termite+and+Pest+Control) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2023-08-31 | [`ddcos.com`](https://google.com/search?q=ddcos.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-31 | [`vitalitygroup.com`](https://google.com/search?q=vitalitygroup.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-31 | [`virginpulse.com`](https://google.com/search?q=virginpulse.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-31 | [`informatica.com`](https://google.com/search?q=informatica.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-31 | [`toyota-boshoku.be`](https://google.com/search?q=toyota-boshoku.be) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-31 | [`planethomelending.com`](https://google.com/search?q=planethomelending.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-31 | [`sleepcountry.ca`](https://google.com/search?q=sleepcountry.ca) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-31 | [`safilogroup.com`](https://google.com/search?q=safilogroup.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-08-31 | [`skystar.it`](https://google.com/search?q=skystar.it) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-08-31 | [`zep.it`](https://google.com/search?q=zep.it) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-08-31 | [`toua.net`](https://google.com/search?q=toua.net) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -195,12 +204,3 @@ _last `200` posts_
 | 2023-08-25 | [`Durham Fasteners`](https://google.com/search?q=Durham+Fasteners) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-08-25 | [`Axis Elevators `](https://google.com/search?q=Axis+Elevators+) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-08-25 | [`pioneerelectronics.com`](https://google.com/search?q=pioneerelectronics.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-08-25 | [`riteaid.com`](https://google.com/search?q=riteaid.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-08-25 | [`arvato.com`](https://google.com/search?q=arvato.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-08-25 | [`sccu.com`](https://google.com/search?q=sccu.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-08-25 | [`kaleaero.com`](https://google.com/search?q=kaleaero.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-08-25 | [`consolenergy.com`](https://google.com/search?q=consolenergy.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-08-25 | [`radiusgs.com`](https://google.com/search?q=radiusgs.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-08-25 | [`clearesult.com`](https://google.com/search?q=clearesult.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-08-25 | [`nasco.com`](https://google.com/search?q=nasco.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-08-25 | [`jackentertainment.com`](https://google.com/search?q=jackentertainment.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
