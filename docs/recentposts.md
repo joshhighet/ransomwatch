@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-08-31 | [`Rivers Casino`](https://google.com/search?q=Rivers+Casino) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-08-31 | [`Pifer's Auction%20%26%20Realty`](https://google.com/search?q=Pifer%27s+Auction%2520%2526%2520Realty) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2023-08-31 | [`Tisher Liner FC Law Australia`](https://google.com/search?q=Tisher+Liner+FC+Law+Australia) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-08-31 | [`millwgs.com`](https://google.com/search?q=millwgs.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-08-26 | [`gipcl.com`](https://google.com/search?q=gipcl.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-08-26 | [`SKYROOT`](https://google.com/search?q=SKYROOT) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-08-26 | [`Varna Packaging`](https://google.com/search?q=Varna+Packaging) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-08-26 | [`KLM Laboratories Pvt. Ltd`](https://google.com/search?q=KLM+Laboratories+Pvt.+Ltd) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
