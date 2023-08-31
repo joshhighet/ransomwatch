@@ -4,6 +4,18 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-08-31 | [`sbmoffshore.com`](https://google.com/search?q=sbmoffshore.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-31 | [`awaze.com`](https://google.com/search?q=awaze.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-31 | [`cap.org`](https://google.com/search?q=cap.org) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-31 | [`chevronfcu.org`](https://google.com/search?q=chevronfcu.org) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-31 | [`darlingconsulting.com`](https://google.com/search?q=darlingconsulting.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-31 | [`emsbilling.com`](https://google.com/search?q=emsbilling.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-31 | [`fanucamerica.com`](https://google.com/search?q=fanucamerica.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-31 | [`ferring.com`](https://google.com/search?q=ferring.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-31 | [`garrettmotion.com`](https://google.com/search?q=garrettmotion.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-31 | [`genesisenergy.com`](https://google.com/search?q=genesisenergy.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-31 | [`gensler.com`](https://google.com/search?q=gensler.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2023-08-31 | [`gnc.com`](https://google.com/search?q=gnc.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-08-31 | [`www.lasaterandmartin.com`](https://google.com/search?q=www.lasaterandmartin.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
 | 2023-08-31 | [`adaresec.com`](https://google.com/search?q=adaresec.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-08-31 | [`salelytics.com`](https://google.com/search?q=salelytics.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
@@ -192,15 +204,3 @@ _last `200` posts_
 | 2023-08-27 | [`cognizant.com`](https://google.com/search?q=cognizant.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-08-27 | [`tgidirect.com`](https://google.com/search?q=tgidirect.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-08-27 | [`Shanghai FRP Research Institute Co., Ltd.`](https://google.com/search?q=Shanghai+FRP+Research+Institute+Co.%2C+Ltd.) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-08-27 | [`amctheatres.com`](https://google.com/search?q=amctheatres.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-08-27 | [`slb.com`](https://google.com/search?q=slb.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-08-27 | [`motherson.com`](https://google.com/search?q=motherson.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-08-27 | [`discovery.com`](https://google.com/search?q=discovery.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-08-27 | [`rochester.edu`](https://google.com/search?q=rochester.edu) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-08-27 | [`yakult.com.ph`](https://google.com/search?q=yakult.com.ph) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-08-27 | [`ufcu.org`](https://google.com/search?q=ufcu.org) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-08-27 | [`voss.net`](https://google.com/search?q=voss.net) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-08-27 | [`jti.com`](https://google.com/search?q=jti.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-08-27 | [`gripa.org`](https://google.com/search?q=gripa.org) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-08-26 | [`Fullerton India (SMFG India Credit)`](https://google.com/search?q=Fullerton+India+%28SMFG+India+Credit%29) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
-| 2023-08-26 | [`Community Council of South Central Texas`](https://google.com/search?q=Community+Council+of+South+Central+Texas) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
