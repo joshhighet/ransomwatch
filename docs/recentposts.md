@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-08-31 | [`www.lasaterandmartin.com`](https://google.com/search?q=www.lasaterandmartin.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
 | 2023-08-31 | [`adaresec.com`](https://google.com/search?q=adaresec.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-08-31 | [`salelytics.com`](https://google.com/search?q=salelytics.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-08-31 | [`flutter.com`](https://google.com/search?q=flutter.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-08-27 | [`gripa.org`](https://google.com/search?q=gripa.org) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-08-26 | [`Fullerton India (SMFG India Credit)`](https://google.com/search?q=Fullerton+India+%28SMFG+India+Credit%29) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
 | 2023-08-26 | [`Community Council of South Central Texas`](https://google.com/search?q=Community+Council+of+South+Central+Texas) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-08-26 | [`fmfcu.org`](https://google.com/search?q=fmfcu.org) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
