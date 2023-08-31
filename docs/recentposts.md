@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-08-31 | [`bakermechanicalinc.com`](https://google.com/search?q=bakermechanicalinc.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-08-31 | [`yong mao environmental tech. co.,ltd`](https://google.com/search?q=yong+mao+environmental+tech.+co.%2Cltd) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-08-31 | [`smart-swgcrc.org`](https://google.com/search?q=smart-swgcrc.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-08-31 | [`sfjazz.org`](https://google.com/search?q=sfjazz.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-08-28 | [`Sonabhy.bf`](https://google.com/search?q=Sonabhy.bf) | [cloak](https://ransomwatch.telemetry.ltd/#/profiles?id=cloak) |
 | 2023-08-28 | [`Jasper High School`](https://google.com/search?q=Jasper+High+School) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-08-28 | [`Voss Enterprises, Di vvies`](https://google.com/search?q=Voss+Enterprises%2C+Di+vvies) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2023-08-28 | [`Cutler-Smith`](https://google.com/search?q=Cutler-Smith) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
