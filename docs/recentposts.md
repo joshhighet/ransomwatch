@@ -4,6 +4,10 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-09-01 | [`*** ******`](https://google.com/search?q=%2A%2A%2A+%2A%2A%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2023-09-01 | [`L******* C***** and P********`](https://google.com/search?q=L%2A%2A%2A%2A%2A%2A%2A+C%2A%2A%2A%2A%2A+and+P%2A%2A%2A%2A%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2023-09-01 | [`N**** **** *** and *c********`](https://google.com/search?q=N%2A%2A%2A%2A+%2A%2A%2A%2A+%2A%2A%2A+and+%2Ac%2A%2A%2A%2A%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2023-09-01 | [`Templeman Consulting Group Inc`](https://google.com/search?q=Templeman+Consulting+Group+Inc) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-09-01 | [`vyt`](https://google.com/search?q=vyt) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-09-01 | [`vodatech.com.tr`](https://google.com/search?q=vodatech.com.tr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-09-01 | [`F??????? ?????s`](https://google.com/search?q=F%3F%3F%3F%3F%3F%3F%3F+%3F%3F%3F%3F%3Fs) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -200,7 +204,3 @@ _last `200` posts_
 | 2023-08-28 | [`first-resources-ltd`](https://google.com/search?q=first-resources-ltd) | [cloak](https://ransomwatch.telemetry.ltd/#/profiles?id=cloak) |
 | 2023-08-28 | [`Sbs-Berlin`](https://google.com/search?q=Sbs-Berlin) | [cloak](https://ransomwatch.telemetry.ltd/#/profiles?id=cloak) |
 | 2023-08-28 | [`imtmro.com`](https://google.com/search?q=imtmro.com) | [cloak](https://ransomwatch.telemetry.ltd/#/profiles?id=cloak) |
-| 2023-08-28 | [`INCOBEC`](https://google.com/search?q=INCOBEC) | [cloak](https://ransomwatch.telemetry.ltd/#/profiles?id=cloak) |
-| 2023-08-28 | [`still95.it`](https://google.com/search?q=still95.it) | [cloak](https://ransomwatch.telemetry.ltd/#/profiles?id=cloak) |
-| 2023-08-28 | [`gsh-cargo.com`](https://google.com/search?q=gsh-cargo.com) | [cloak](https://ransomwatch.telemetry.ltd/#/profiles?id=cloak) |
-| 2023-08-28 | [`flamewarestudios.com`](https://google.com/search?q=flamewarestudios.com) | [cloak](https://ransomwatch.telemetry.ltd/#/profiles?id=cloak) |
