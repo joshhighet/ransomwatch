@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-09-01 | [`Piex Group(Unpay-Full public)`](https://google.com/search?q=Piex+Group%28Unpay-Full+public%29) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
+| 2023-09-01 | [`Yuxin Automobile Co.Ltd(è£ä¿¡æ±½è»)(Unpay)`](https://google.com/search?q=Yuxin+Automobile+Co.Ltd%28%C3%A8%C2%A3%C2%95%C3%A4%C2%BF%C2%A1%C3%A6%C2%B1%C2%BD%C3%A8%C2%BB%C2%8A%29%28Unpay%29) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
 | 2023-08-31 | [`chevalerias.com`](https://google.com/search?q=chevalerias.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-08-31 | [`mayair.com.my`](https://google.com/search?q=mayair.com.my) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-08-31 | [`guyer.com.uy`](https://google.com/search?q=guyer.com.uy) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-08-28 | [`Voss Enterprises, Di vvies`](https://google.com/search?q=Voss+Enterprises%2C+Di+vvies) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-08-28 | [`Cutler-Smith`](https://google.com/search?q=Cutler-Smith) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-08-28 | [`Asian Network Pacific Home Care and Hospice`](https://google.com/search?q=Asian+Network+Pacific+Home+Care+and+Hospice) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2023-08-28 | [`HealthIndia TPA Services Pvt Ltd`](https://google.com/search?q=HealthIndia+TPA+Services+Pvt+Ltd) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2023-08-28 | [`Superior Communications`](https://google.com/search?q=Superior+Communications) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
