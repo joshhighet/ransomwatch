@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-09-01 | [`konkconsulting.com`](https://google.com/search?q=konkconsulting.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-09-01 | [`hamilton-techservices.com`](https://google.com/search?q=hamilton-techservices.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-09-01 | [`aquinas.qld.edu.au`](https://google.com/search?q=aquinas.qld.edu.au) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-09-01 | [`Prince George's County Public Schools`](https://google.com/search?q=Prince+George%27s+County+Public+Schools) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2023-09-01 | [`Piex Group(Unpay-Full public)`](https://google.com/search?q=Piex+Group%28Unpay-Full+public%29) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
 | 2023-09-01 | [`Yuxin Automobile Co.Ltd(è£ä¿¡æ±½è»)(Unpay)`](https://google.com/search?q=Yuxin+Automobile+Co.Ltd%28%C3%A8%C2%A3%C2%95%C3%A4%C2%BF%C2%A1%C3%A6%C2%B1%C2%BD%C3%A8%C2%BB%C2%8A%29%28Unpay%29) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2023-08-28 | [`ALEZZELPOWER.com`](https://google.com/search?q=ALEZZELPOWER.com) | [cloak](https://ransomwatch.telemetry.ltd/#/profiles?id=cloak) |
 | 2023-08-28 | [`Notaires.fr`](https://google.com/search?q=Notaires.fr) | [cloak](https://ransomwatch.telemetry.ltd/#/profiles?id=cloak) |
 | 2023-08-28 | [`Sonabhy.bf`](https://google.com/search?q=Sonabhy.bf) | [cloak](https://ransomwatch.telemetry.ltd/#/profiles?id=cloak) |
-| 2023-08-28 | [`Jasper High School`](https://google.com/search?q=Jasper+High+School) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2023-08-28 | [`Voss Enterprises, Di vvies`](https://google.com/search?q=Voss+Enterprises%2C+Di+vvies) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2023-08-28 | [`Cutler-Smith`](https://google.com/search?q=Cutler-Smith) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
