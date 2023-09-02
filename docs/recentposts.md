@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-09-02 | [`DOIT - Canadian IT company allowed leak of its own clients.`](https://google.com/search?q=DOIT+-+Canadian+IT+company+allowed+leak+of+its+own+clients.) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
 | 2023-09-02 | [`SKF.com`](https://google.com/search?q=SKF.com) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2023-09-02 | [`Powersportsmarketing.com`](https://google.com/search?q=Powersportsmarketing.com) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2023-09-02 | [`Statefarm.com`](https://google.com/search?q=Statefarm.com) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-08-28 | [`lusis-avocats.com`](https://google.com/search?q=lusis-avocats.com) | [cloak](https://ransomwatch.telemetry.ltd/#/profiles?id=cloak) |
 | 2023-08-28 | [`werk33.com`](https://google.com/search?q=werk33.com) | [cloak](https://ransomwatch.telemetry.ltd/#/profiles?id=cloak) |
 | 2023-08-28 | [`GRIDINSTALLERS.com`](https://google.com/search?q=GRIDINSTALLERS.com) | [cloak](https://ransomwatch.telemetry.ltd/#/profiles?id=cloak) |
-| 2023-08-28 | [`surapon.com`](https://google.com/search?q=surapon.com) | [cloak](https://ransomwatch.telemetry.ltd/#/profiles?id=cloak) |
