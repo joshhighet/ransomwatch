@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-09-02 | [`glprop.com`](https://google.com/search?q=glprop.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-09-02 | [`Barry Plant Real Estate Australia`](https://google.com/search?q=Barry+Plant+Real+Estate+Australia) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
+| 2023-09-02 | [`Strata Plan Australia`](https://google.com/search?q=Strata+Plan+Australia) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-09-02 | [`ramlowstein.com`](https://google.com/search?q=ramlowstein.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-09-02 | [`seasonsdarlingharbour.com.au`](https://google.com/search?q=seasonsdarlingharbour.com.au) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-09-02 | [`nerolac.com`](https://google.com/search?q=nerolac.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2023-08-28 | [`jonasfitness.com`](https://google.com/search?q=jonasfitness.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-08-28 | [`itt.com`](https://google.com/search?q=itt.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-08-28 | [`allegiantair.com`](https://google.com/search?q=allegiantair.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-08-28 | [`esteelauder.com`](https://google.com/search?q=esteelauder.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-08-28 | [`bluefin.com`](https://google.com/search?q=bluefin.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-08-28 | [`ventivtech.com`](https://google.com/search?q=ventivtech.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
