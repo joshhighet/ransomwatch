@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-09-02 | [`www.rslog.com`](https://google.com/search?q=www.rslog.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-09-02 | [`www.gmflaw.com`](https://google.com/search?q=www.gmflaw.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-09-01 | [`cciamp.com`](https://google.com/search?q=cciamp.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-09-01 | [`*** ******`](https://google.com/search?q=%2A%2A%2A+%2A%2A%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-08-28 | [`ihopmexico.com`](https://google.com/search?q=ihopmexico.com) | [cloak](https://ransomwatch.telemetry.ltd/#/profiles?id=cloak) |
 | 2023-08-28 | [`Nicer technology`](https://google.com/search?q=Nicer+technology) | [cloak](https://ransomwatch.telemetry.ltd/#/profiles?id=cloak) |
 | 2023-08-28 | [`binhamoodah.ae`](https://google.com/search?q=binhamoodah.ae) | [cloak](https://ransomwatch.telemetry.ltd/#/profiles?id=cloak) |
-| 2023-08-28 | [`first-resources-ltd`](https://google.com/search?q=first-resources-ltd) | [cloak](https://ransomwatch.telemetry.ltd/#/profiles?id=cloak) |
