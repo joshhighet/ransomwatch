@@ -4,6 +4,10 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-09-02 | [`SKF.com`](https://google.com/search?q=SKF.com) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
+| 2023-09-02 | [`Powersportsmarketing.com`](https://google.com/search?q=Powersportsmarketing.com) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
+| 2023-09-02 | [`Statefarm.com`](https://google.com/search?q=Statefarm.com) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
+| 2023-09-02 | [`Aban Tether & OK exchange`](https://google.com/search?q=Aban+Tether+%26+OK+exchange) | [arvinclub](https://ransomwatch.telemetry.ltd/#/profiles?id=arvinclub) |
 | 2023-09-02 | [`Taylor University`](https://google.com/search?q=Taylor+University) | [moneymessage](https://ransomwatch.telemetry.ltd/#/profiles?id=moneymessage) |
 | 2023-09-02 | [`cc-gorgesardeche.fr`](https://google.com/search?q=cc-gorgesardeche.fr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-09-02 | [`www.rslog.com`](https://google.com/search?q=www.rslog.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
@@ -200,7 +204,3 @@ _last `200` posts_
 | 2023-08-28 | [`werk33.com`](https://google.com/search?q=werk33.com) | [cloak](https://ransomwatch.telemetry.ltd/#/profiles?id=cloak) |
 | 2023-08-28 | [`GRIDINSTALLERS.com`](https://google.com/search?q=GRIDINSTALLERS.com) | [cloak](https://ransomwatch.telemetry.ltd/#/profiles?id=cloak) |
 | 2023-08-28 | [`surapon.com`](https://google.com/search?q=surapon.com) | [cloak](https://ransomwatch.telemetry.ltd/#/profiles?id=cloak) |
-| 2023-08-28 | [`mps-24.com`](https://google.com/search?q=mps-24.com) | [cloak](https://ransomwatch.telemetry.ltd/#/profiles?id=cloak) |
-| 2023-08-28 | [`gruppomoba.com`](https://google.com/search?q=gruppomoba.com) | [cloak](https://ransomwatch.telemetry.ltd/#/profiles?id=cloak) |
-| 2023-08-28 | [`stshcpa.com.tw`](https://google.com/search?q=stshcpa.com.tw) | [cloak](https://ransomwatch.telemetry.ltd/#/profiles?id=cloak) |
-| 2023-08-28 | [`ihopmexico.com`](https://google.com/search?q=ihopmexico.com) | [cloak](https://ransomwatch.telemetry.ltd/#/profiles?id=cloak) |
