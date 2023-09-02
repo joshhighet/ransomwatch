@@ -4,6 +4,12 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-09-02 | [`seasonsdarlingharbour.com.au`](https://google.com/search?q=seasonsdarlingharbour.com.au) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-09-02 | [`nerolac.com`](https://google.com/search?q=nerolac.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-09-02 | [`neolife.com`](https://google.com/search?q=neolife.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-09-02 | [`gh2.com`](https://google.com/search?q=gh2.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-09-02 | [`eljayoil.com`](https://google.com/search?q=eljayoil.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-09-02 | [`designlink.us`](https://google.com/search?q=designlink.us) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-09-02 | [`sterncoengineers.com`](https://google.com/search?q=sterncoengineers.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-09-02 | [`attorneydanwinder.com`](https://google.com/search?q=attorneydanwinder.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-09-02 | [`DOIT - Canadian IT company allowed leak of its own clients.`](https://google.com/search?q=DOIT+-+Canadian+IT+company+allowed+leak+of+its+own+clients.) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
@@ -198,9 +204,3 @@ _last `200` posts_
 | 2023-08-28 | [`bluefin.com`](https://google.com/search?q=bluefin.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-08-28 | [`ventivtech.com`](https://google.com/search?q=ventivtech.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-08-28 | [`dma.us`](https://google.com/search?q=dma.us) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-08-28 | [`www.qigroup.com`](https://google.com/search?q=www.qigroup.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
-| 2023-08-28 | [`www.iinaba.com`](https://google.com/search?q=www.iinaba.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
-| 2023-08-28 | [`Arus-gmbh`](https://google.com/search?q=Arus-gmbh) | [cloak](https://ransomwatch.telemetry.ltd/#/profiles?id=cloak) |
-| 2023-08-28 | [`Sportlab-srl`](https://google.com/search?q=Sportlab-srl) | [cloak](https://ransomwatch.telemetry.ltd/#/profiles?id=cloak) |
-| 2023-08-28 | [`BONI-PASSAU.DE`](https://google.com/search?q=BONI-PASSAU.DE) | [cloak](https://ransomwatch.telemetry.ltd/#/profiles?id=cloak) |
-| 2023-08-28 | [`lusis-avocats.com`](https://google.com/search?q=lusis-avocats.com) | [cloak](https://ransomwatch.telemetry.ltd/#/profiles?id=cloak) |
