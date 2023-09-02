@@ -1,6 +1,6 @@
 
 ## summary
-_september 1st, 2023_
+_september 2nd, 2023_
 
 currently tracking `158` groups across `282` relays & mirrors - _`114` currently online_
 
