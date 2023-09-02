@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-09-02 | [`Taylor University`](https://google.com/search?q=Taylor+University) | [moneymessage](https://ransomwatch.telemetry.ltd/#/profiles?id=moneymessage) |
 | 2023-09-02 | [`cc-gorgesardeche.fr`](https://google.com/search?q=cc-gorgesardeche.fr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-09-02 | [`www.rslog.com`](https://google.com/search?q=www.rslog.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-09-02 | [`www.gmflaw.com`](https://google.com/search?q=www.gmflaw.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-08-28 | [`gruppomoba.com`](https://google.com/search?q=gruppomoba.com) | [cloak](https://ransomwatch.telemetry.ltd/#/profiles?id=cloak) |
 | 2023-08-28 | [`stshcpa.com.tw`](https://google.com/search?q=stshcpa.com.tw) | [cloak](https://ransomwatch.telemetry.ltd/#/profiles?id=cloak) |
 | 2023-08-28 | [`ihopmexico.com`](https://google.com/search?q=ihopmexico.com) | [cloak](https://ransomwatch.telemetry.ltd/#/profiles?id=cloak) |
-| 2023-08-28 | [`Nicer technology`](https://google.com/search?q=Nicer+technology) | [cloak](https://ransomwatch.telemetry.ltd/#/profiles?id=cloak) |
