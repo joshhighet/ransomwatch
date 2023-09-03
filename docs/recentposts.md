@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-09-03 | [`DDB Unlimited (ddbunlimited.com)`](https://google.com/search?q=DDB+Unlimited+%28ddbunlimited.com%29) | [rancoz](https://ransomwatch.telemetry.ltd/#/profiles?id=rancoz) |
+| 2023-09-03 | [`Rick Ramos Law (rickramoslaw.com)`](https://google.com/search?q=Rick+Ramos+Law+%28rickramoslaw.com%29) | [rancoz](https://ransomwatch.telemetry.ltd/#/profiles?id=rancoz) |
 | 2023-09-03 | [`Aiphone`](https://google.com/search?q=Aiphone) | [moneymessage](https://ransomwatch.telemetry.ltd/#/profiles?id=moneymessage) |
 | 2023-09-03 | [`Newton Media A.S.`](https://google.com/search?q=Newton+Media+A.S.) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-09-03 | [`Prospect Medical Holdings`](https://google.com/search?q=Prospect+Medical+Holdings) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-08-29 | [`hubbell.com`](https://google.com/search?q=hubbell.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-08-29 | [`kellyservices.com`](https://google.com/search?q=kellyservices.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-08-29 | [`kendrion.com`](https://google.com/search?q=kendrion.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-08-28 | [`Pierce College`](https://google.com/search?q=Pierce+College) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2023-08-28 | [`sierrawireless.com`](https://google.com/search?q=sierrawireless.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
