@@ -4,6 +4,11 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-09-04 | [`senior`](https://google.com/search?q=senior) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
+| 2023-09-04 | [`econocom`](https://google.com/search?q=econocom) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
+| 2023-09-04 | [`vivtok`](https://google.com/search?q=vivtok) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
+| 2023-09-03 | [`marianoshoes.com`](https://google.com/search?q=marianoshoes.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-09-03 | [`gosslaw.com`](https://google.com/search?q=gosslaw.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-09-03 | [`Arkopharma`](https://google.com/search?q=Arkopharma) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2023-09-03 | [`DDB Unlimited (ddbunlimited.com)`](https://google.com/search?q=DDB+Unlimited+%28ddbunlimited.com%29) | [rancoz](https://ransomwatch.telemetry.ltd/#/profiles?id=rancoz) |
 | 2023-09-03 | [`Rick Ramos Law (rickramoslaw.com)`](https://google.com/search?q=Rick+Ramos+Law+%28rickramoslaw.com%29) | [rancoz](https://ransomwatch.telemetry.ltd/#/profiles?id=rancoz) |
@@ -199,8 +204,3 @@ _last `200` posts_
 | 2023-08-29 | [`saul.org.uk`](https://google.com/search?q=saul.org.uk) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-08-29 | [`dataengine.eu`](https://google.com/search?q=dataengine.eu) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-08-29 | [`kalepw.com`](https://google.com/search?q=kalepw.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-08-29 | [`macom.com`](https://google.com/search?q=macom.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-08-29 | [`alektum.com`](https://google.com/search?q=alektum.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-08-29 | [`hoermann-gruppe.com`](https://google.com/search?q=hoermann-gruppe.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-08-29 | [`hubbell.com`](https://google.com/search?q=hubbell.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-08-29 | [`kellyservices.com`](https://google.com/search?q=kellyservices.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
