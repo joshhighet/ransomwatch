@@ -7,6 +7,7 @@ _last `200` posts_
 | 2023-09-04 | [`senior`](https://google.com/search?q=senior) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
 | 2023-09-04 | [`econocom`](https://google.com/search?q=econocom) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
 | 2023-09-04 | [`vivtok`](https://google.com/search?q=vivtok) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
+| 2023-09-03 | [`Knight Barry Title`](https://google.com/search?q=Knight+Barry+Title) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
 | 2023-09-03 | [`marianoshoes.com`](https://google.com/search?q=marianoshoes.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-09-03 | [`gosslaw.com`](https://google.com/search?q=gosslaw.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-09-03 | [`Arkopharma`](https://google.com/search?q=Arkopharma) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-08-29 | [`cced.com.om`](https://google.com/search?q=cced.com.om) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-08-29 | [`saul.org.uk`](https://google.com/search?q=saul.org.uk) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-08-29 | [`dataengine.eu`](https://google.com/search?q=dataengine.eu) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-08-29 | [`kalepw.com`](https://google.com/search?q=kalepw.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
