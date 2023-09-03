@@ -587,8 +587,11 @@ def stormous():
     # grep '<h3>' source/stormous-*.html | sed -e 's/^ *//g' -e 's/[[:space:]]*$//' | grep "^<h3> <font" | cut -d '>' -f 3 | cut -d '<' -f 1 | sed 's/[[:space:]]*$//'
     # awk '/<h3>/{getline; print}' source/stormous-*.html | sed -e 's/^ *//g' -e 's/[[:space:]]*$//'
     # grep 'class="h1"' source/stormous-h3*.html | cut -d '>' -f 4 | cut -d '<' -f 1 | sort --uniq | sed -e '/^Percentage/d' -e '/^Payment/d' -e '/^Click here/d'
+    # grep --no-filename ' <a href="">  <h3>' source/stormous-*.html | cut -d '>' -f 3 | cut -d '<' -f 1
+    ###
+    # descripotion [current] : grep --no-filename '<p class="description" style="color: rgb(59, 52, 52);"> ' source/stormous-*.html | cut -d '>' -f 2 | sed -e 's/\.[^.]*$//' -e 's/^ *//'
     parser = '''
-    grep --no-filename ' <a href="">  <h3>' source/stormous-*.html | cut -d '>' -f 3 | cut -d '<' -f 1
+    grep --no-filename '<td><center><a href="#"  width="120px"><img src="' source/stormous-*.html | cut -d '"' -f 6 | cut -d '/' -f 3 | sed 's/\.[^.]*$//' | grep -v '^$'
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
