@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-09-03 | [`Arkopharma`](https://google.com/search?q=Arkopharma) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2023-09-03 | [`DDB Unlimited (ddbunlimited.com)`](https://google.com/search?q=DDB+Unlimited+%28ddbunlimited.com%29) | [rancoz](https://ransomwatch.telemetry.ltd/#/profiles?id=rancoz) |
 | 2023-09-03 | [`Rick Ramos Law (rickramoslaw.com)`](https://google.com/search?q=Rick+Ramos+Law+%28rickramoslaw.com%29) | [rancoz](https://ransomwatch.telemetry.ltd/#/profiles?id=rancoz) |
 | 2023-09-03 | [`Aiphone`](https://google.com/search?q=Aiphone) | [moneymessage](https://ransomwatch.telemetry.ltd/#/profiles?id=moneymessage) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-08-29 | [`hoermann-gruppe.com`](https://google.com/search?q=hoermann-gruppe.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-08-29 | [`hubbell.com`](https://google.com/search?q=hubbell.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-08-29 | [`kellyservices.com`](https://google.com/search?q=kellyservices.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-08-29 | [`kendrion.com`](https://google.com/search?q=kendrion.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
