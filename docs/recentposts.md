@@ -7,6 +7,8 @@ _last `200` posts_
 | 2023-09-04 | [`senior`](https://google.com/search?q=senior) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
 | 2023-09-04 | [`econocom`](https://google.com/search?q=econocom) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
 | 2023-09-04 | [`vivtok`](https://google.com/search?q=vivtok) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
+| 2023-09-04 | [`Betton France`](https://google.com/search?q=Betton+France) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
+| 2023-09-04 | [`Jules B`](https://google.com/search?q=Jules+B) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-09-04 | [`VVandA`](https://google.com/search?q=VVandA) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-09-04 | [`VV&amp;amp;A`](https://google.com/search?q=VV%26amp%3Bamp%3BA) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-09-04 | [`Prodegest Assessors`](https://google.com/search?q=Prodegest+Assessors) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-08-29 | [`alogent.com`](https://google.com/search?q=alogent.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-08-29 | [`softtech.nl`](https://google.com/search?q=softtech.nl) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-08-29 | [`infinigate.ch`](https://google.com/search?q=infinigate.ch) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-08-29 | [`quark.com`](https://google.com/search?q=quark.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-08-29 | [`aclara.com`](https://google.com/search?q=aclara.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
