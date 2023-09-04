@@ -4,6 +4,12 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-09-04 | [`Zurvita (Unpay-Full public)`](https://google.com/search?q=Zurvita+%28Unpay-Full+public%29) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
+| 2023-09-04 | [`Piex Group (Unpay-Full public)`](https://google.com/search?q=Piex+Group+%28Unpay-Full+public%29) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
+| 2023-09-04 | [`Yuxin Automobile Co.Ltd (è£ä¿¡æ±½è») (Unpay-Full public)`](https://google.com/search?q=Yuxin+Automobile+Co.Ltd+%28%C3%A8%C2%A3%C2%95%C3%A4%C2%BF%C2%A1%C3%A6%C2%B1%C2%BD%C3%A8%C2%BB%C2%8A%29+%28Unpay-Full+public%29) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
+| 2023-09-04 | [`I****n (Unpay)`](https://google.com/search?q=I%2A%2A%2A%2An+%28Unpay%29) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
+| 2023-09-04 | [`24****r (Unpay)`](https://google.com/search?q=24%2A%2A%2A%2Ar+%28Unpay%29) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
+| 2023-09-04 | [`He****rk (Unpay)`](https://google.com/search?q=He%2A%2A%2A%2Ark+%28Unpay%29) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
 | 2023-09-04 | [`www.mulkaycardiology.com`](https://google.com/search?q=www.mulkaycardiology.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-09-04 | [`hbme.com`](https://google.com/search?q=hbme.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-09-04 | [`northwave.it`](https://google.com/search?q=northwave.it) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
@@ -198,9 +204,3 @@ _last `200` posts_
 | 2023-08-29 | [`Forsyth County, GA`](https://google.com/search?q=Forsyth+County%2C+GA) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-08-29 | [`Green Diamond Resour ce`](https://google.com/search?q=Green+Diamond+Resour+ce) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-08-29 | [`esprigas.com`](https://google.com/search?q=esprigas.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-08-29 | [`Agriloja pt.3`](https://google.com/search?q=Agriloja+pt.3) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
-| 2023-08-29 | [`PT. Cahaya Benteng Mas`](https://google.com/search?q=PT.+Cahaya+Benteng+Mas) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-08-29 | [`compucom.com`](https://google.com/search?q=compucom.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-08-29 | [`cfins.com`](https://google.com/search?q=cfins.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-08-29 | [`desmi.com`](https://google.com/search?q=desmi.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-08-29 | [`barrick.com`](https://google.com/search?q=barrick.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
