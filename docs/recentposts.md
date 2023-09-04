@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-09-04 | [`Balcan`](https://google.com/search?q=Balcan) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
+| 2023-09-04 | [`Barco Uniforms`](https://google.com/search?q=Barco+Uniforms) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2023-09-04 | [`cdwg.com`](https://google.com/search?q=cdwg.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-09-04 | [`senior`](https://google.com/search?q=senior) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
 | 2023-09-04 | [`econocom`](https://google.com/search?q=econocom) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-08-29 | [`vitesco-technologies.com`](https://google.com/search?q=vitesco-technologies.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-08-29 | [`amerisave.com`](https://google.com/search?q=amerisave.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-08-29 | [`convergeone.com`](https://google.com/search?q=convergeone.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-08-29 | [`alogent.com`](https://google.com/search?q=alogent.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-08-29 | [`softtech.nl`](https://google.com/search?q=softtech.nl) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
