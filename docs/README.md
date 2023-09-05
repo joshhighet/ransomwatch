@@ -2,9 +2,9 @@
 ## summary
 _september 5th, 2023_
 
-currently tracking `158` groups across `283` relays & mirrors - _`117` currently online_
+currently tracking `158` groups across `283` relays & mirrors - _`115` currently online_
 
-⏲ there have been `34` posts within the `last 24 hours`
+⏲ there have been `25` posts within the `last 24 hours`
 
 🦈 there have been `91` posts within the `month of september`
 
