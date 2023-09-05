@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-09-05 | [`spmblaw.com`](https://google.com/search?q=spmblaw.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-09-05 | [`https://www.wpc.com/`](https://google.com/search?q=https%3A%2F%2Fwww.wpc.com%2F) | [trigona](https://ransomwatch.telemetry.ltd/#/profiles?id=trigona) |
 | 2023-09-05 | [`www.ttccpa.com`](https://google.com/search?q=www.ttccpa.com) | [trigona](https://ransomwatch.telemetry.ltd/#/profiles?id=trigona) |
 | 2023-09-05 | [`https://uniqueimaging.com/`](https://google.com/search?q=https%3A%2F%2Funiqueimaging.com%2F) | [trigona](https://ransomwatch.telemetry.ltd/#/profiles?id=trigona) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-08-29 | [`wkclawfirm.com`](https://google.com/search?q=wkclawfirm.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-08-29 | [`ukseung.co.kr`](https://google.com/search?q=ukseung.co.kr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-08-29 | [`renaultinantwerpen.be`](https://google.com/search?q=renaultinantwerpen.be) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-08-29 | [`mergerecords.com`](https://google.com/search?q=mergerecords.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
