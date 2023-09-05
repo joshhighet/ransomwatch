@@ -4,6 +4,12 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-09-05 | [`Precisely, Winshuttle`](https://google.com/search?q=Precisely%2C+Winshuttle) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-09-05 | [`Kikkerland Design`](https://google.com/search?q=Kikkerland+Design) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-09-05 | [`Markentrainer Werbeagentur`](https://google.com/search?q=Markentrainer+Werbeagentur) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-09-05 | [`Master Interiors`](https://google.com/search?q=Master+Interiors) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-09-05 | [`Bordelon Marine`](https://google.com/search?q=Bordelon+Marine) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-09-05 | [`Majestic Spice`](https://google.com/search?q=Majestic+Spice) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-09-05 | [`www.infinityconstruction.com`](https://google.com/search?q=www.infinityconstruction.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-09-05 | [`Promotrans`](https://google.com/search?q=Promotrans) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2023-09-05 | [`Seymours`](https://google.com/search?q=Seymours) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
@@ -198,9 +204,3 @@ _last `200` posts_
 | 2023-08-30 | [`Felling Trailers, Inc.`](https://google.com/search?q=Felling+Trailers%2C+Inc.) | [lorenz](https://ransomwatch.telemetry.ltd/#/profiles?id=lorenz) |
 | 2023-08-30 | [`www.pasqualebruni.com`](https://google.com/search?q=www.pasqualebruni.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-08-30 | [`PRIDE GLOBAL CONSULTING SL`](https://google.com/search?q=PRIDE+GLOBAL+CONSULTING+SL) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-08-30 | [`Petkus Brothers`](https://google.com/search?q=Petkus+Brothers) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-08-30 | [`www.yxzg.net`](https://google.com/search?q=www.yxzg.net) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
-| 2023-08-29 | [`orau.org`](https://google.com/search?q=orau.org) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-08-29 | [`amf.se`](https://google.com/search?q=amf.se) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-08-29 | [`encoreanywhere.com`](https://google.com/search?q=encoreanywhere.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-08-29 | [`pro2col.com`](https://google.com/search?q=pro2col.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
