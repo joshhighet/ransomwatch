@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-09-05 | [`godbeylaw.com`](https://google.com/search?q=godbeylaw.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-09-04 | [`Firmdale Hotels`](https://google.com/search?q=Firmdale+Hotels) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-09-04 | [`Zurvita (Unpay-Full public)`](https://google.com/search?q=Zurvita+%28Unpay-Full+public%29) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
 | 2023-09-04 | [`Piex Group (Unpay-Full public)`](https://google.com/search?q=Piex+Group+%28Unpay-Full+public%29) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-08-29 | [`cloverbrook.com`](https://google.com/search?q=cloverbrook.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-08-29 | [`carolfoxassociates.com`](https://google.com/search?q=carolfoxassociates.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-08-29 | [`Forsyth County, GA`](https://google.com/search?q=Forsyth+County%2C+GA) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-08-29 | [`Green Diamond Resour ce`](https://google.com/search?q=Green+Diamond+Resour+ce) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
