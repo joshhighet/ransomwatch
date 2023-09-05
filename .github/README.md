@@ -151,6 +151,39 @@ erDiagram
         datetime discovered "timestamp of discovery"
     }
 ```
+
+## accesing data with cURL and JQ 
+
+##### print last 10 claims by group `lockbit3`
+
+```shell
+curl -sL ransomwhat.telemetry.ltd/posts \
+| jq -r '.[] | select(.group_name == "lockbit3") | .post_title' \
+| tail -n 10
+```
+
+##### print all online URL's
+
+```shell
+curl -sL ransomwhat.telemetry.ltd/groups \
+| jq -r '.[] | .locations[] | select(.available == true) | .slug'
+```
+
+##### print group data for "lockbit3"
+
+```shell
+curl -sL ransomwhat.telemetry.ltd/groups \
+| jq -r '.[] | select(.name == "lockbit3")'
+```
+
+##### print the last 50 claims
+
+```shell
+curl -sL ransomwhat.telemetry.ltd/posts \
+| jq -r '.[] | [.group_name, .post_title] | @tsv' \
+| sed 's/ /_/g' | column -t | tail -n 10
+```
+
 ---
 
 _ransomwatch is [licensed](https://github.com/joshhighet/ransomwatch/blob/main/LICENSE) under [unlicense.org](https://unlicense.org)_
