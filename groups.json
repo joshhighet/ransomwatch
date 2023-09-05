@@ -2836,7 +2836,7 @@
     {
         "name": "ransomhouse",
         "captcha": false,
-        "parser": false,
+        "parser": true,
         "javascript_render": false,
         "meta": null,
         "locations": [
@@ -3248,7 +3248,7 @@
     {
         "name": "karakurt",
         "captcha": false,
-        "parser": false,
+        "parser": true,
         "javascript_render": true,
         "meta": null,
         "locations": [
@@ -3635,7 +3635,7 @@
     {
         "name": "daixin",
         "captcha": false,
-        "parser": false,
+        "parser": true,
         "javascript_render": false,
         "meta": null,
         "locations": [
