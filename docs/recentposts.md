@@ -4,6 +4,16 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-09-05 | [`https://www.wpc.com/`](https://google.com/search?q=https%3A%2F%2Fwww.wpc.com%2F) | [trigona](https://ransomwatch.telemetry.ltd/#/profiles?id=trigona) |
+| 2023-09-05 | [`www.ttccpa.com`](https://google.com/search?q=www.ttccpa.com) | [trigona](https://ransomwatch.telemetry.ltd/#/profiles?id=trigona) |
+| 2023-09-05 | [`https://uniqueimaging.com/`](https://google.com/search?q=https%3A%2F%2Funiqueimaging.com%2F) | [trigona](https://ransomwatch.telemetry.ltd/#/profiles?id=trigona) |
+| 2023-09-05 | [`https://axiomprofessional.com`](https://google.com/search?q=https%3A%2F%2Faxiomprofessional.com) | [trigona](https://ransomwatch.telemetry.ltd/#/profiles?id=trigona) |
+| 2023-09-05 | [`https://leidos.com`](https://google.com/search?q=https%3A%2F%2Fleidos.com) | [trigona](https://ransomwatch.telemetry.ltd/#/profiles?id=trigona) |
+| 2023-09-05 | [`https://www.flamingoholland.com`](https://google.com/search?q=https%3A%2F%2Fwww.flamingoholland.com) | [trigona](https://ransomwatch.telemetry.ltd/#/profiles?id=trigona) |
+| 2023-09-05 | [`https://www.ariacarepartners.com/`](https://google.com/search?q=https%3A%2F%2Fwww.ariacarepartners.com%2F) | [trigona](https://ransomwatch.telemetry.ltd/#/profiles?id=trigona) |
+| 2023-09-05 | [`https://cedarhd.com/`](https://google.com/search?q=https%3A%2F%2Fcedarhd.com%2F) | [trigona](https://ransomwatch.telemetry.ltd/#/profiles?id=trigona) |
+| 2023-09-05 | [`https://unimed.coop.br/`](https://google.com/search?q=https%3A%2F%2Funimed.coop.br%2F) | [trigona](https://ransomwatch.telemetry.ltd/#/profiles?id=trigona) |
+| 2023-09-05 | [`https://www.cyberport.hk/`](https://google.com/search?q=https%3A%2F%2Fwww.cyberport.hk%2F) | [trigona](https://ransomwatch.telemetry.ltd/#/profiles?id=trigona) |
 | 2023-09-05 | [`godbeylaw.com`](https://google.com/search?q=godbeylaw.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-09-04 | [`Firmdale Hotels`](https://google.com/search?q=Firmdale+Hotels) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-09-04 | [`Zurvita (Unpay-Full public)`](https://google.com/search?q=Zurvita+%28Unpay-Full+public%29) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
@@ -194,13 +204,3 @@ _last `200` posts_
 | 2023-08-29 | [`ukseung.co.kr`](https://google.com/search?q=ukseung.co.kr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-08-29 | [`renaultinantwerpen.be`](https://google.com/search?q=renaultinantwerpen.be) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-08-29 | [`mergerecords.com`](https://google.com/search?q=mergerecords.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-08-29 | [`greenside-sch.org`](https://google.com/search?q=greenside-sch.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-08-29 | [`casa-andina.com`](https://google.com/search?q=casa-andina.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-08-29 | [`younghomes.com`](https://google.com/search?q=younghomes.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-08-29 | [`immoselekt.be`](https://google.com/search?q=immoselekt.be) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-08-29 | [`fimadev.fr`](https://google.com/search?q=fimadev.fr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-08-29 | [`distribuidoradavidsa.com`](https://google.com/search?q=distribuidoradavidsa.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-08-29 | [`cm.gov.nc.tr`](https://google.com/search?q=cm.gov.nc.tr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-08-29 | [`cloverbrook.com`](https://google.com/search?q=cloverbrook.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-08-29 | [`carolfoxassociates.com`](https://google.com/search?q=carolfoxassociates.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-08-29 | [`Forsyth County, GA`](https://google.com/search?q=Forsyth+County%2C+GA) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
