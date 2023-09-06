@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-09-06 | [`Solano-Napa Pet Emergency Clinic`](https://google.com/search?q=Solano-Napa+Pet+Emergency+Clinic) | [knight](https://ransomwatch.telemetry.ltd/#/profiles?id=knight) |
 | 2023-09-06 | [`Sabre Corporation`](https://google.com/search?q=Sabre+Corporation) | [dunghill_leak](https://ransomwatch.telemetry.ltd/#/profiles?id=dunghill_leak) |
 | 2023-09-06 | [`Energy One`](https://google.com/search?q=Energy+One) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-09-06 | [`FRESH TASTE PRODUCE USA AND ASSOCIATES INC.`](https://google.com/search?q=FRESH+TASTE+PRODUCE+USA+AND+ASSOCIATES+INC.) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-08-30 | [`Brooklyn Premier Orthopedics`](https://google.com/search?q=Brooklyn+Premier+Orthopedics) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-08-30 | [`lhvisionclinic.com`](https://google.com/search?q=lhvisionclinic.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-08-30 | [`Borets (Levare.com)`](https://google.com/search?q=Borets+%28Levare.com%29) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
-| 2023-08-30 | [`Aranui Cruises`](https://google.com/search?q=Aranui+Cruises) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
