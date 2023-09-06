@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-09-06 | [`Smead`](https://google.com/search?q=Smead) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
 | 2023-09-06 | [`I Keating%20Furniture%20World`](https://google.com/search?q=I+Keating%2520Furniture%2520World) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2023-09-06 | [`It4 Solutions%20Robras`](https://google.com/search?q=It4+Solutions%2520Robras) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2023-09-06 | [`Israel Medical Center - leaked`](https://google.com/search?q=Israel+Medical+Center+-+leaked) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-08-30 | [`acolea.org`](https://google.com/search?q=acolea.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-08-30 | [`lamaisonmercier.com`](https://google.com/search?q=lamaisonmercier.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-08-30 | [`O'Brien Steel Servic e`](https://google.com/search?q=O%27Brien+Steel+Servic+e) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2023-08-30 | [`texline-global.com`](https://google.com/search?q=texline-global.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
