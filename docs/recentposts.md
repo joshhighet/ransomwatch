@@ -4,6 +4,13 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-09-06 | [`qsoftnet.com`](https://google.com/search?q=qsoftnet.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-09-06 | [`protosign.it`](https://google.com/search?q=protosign.it) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-09-06 | [`onyx-fire.com`](https://google.com/search?q=onyx-fire.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-09-06 | [`nobleweb.com`](https://google.com/search?q=nobleweb.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-09-06 | [`meroso.be`](https://google.com/search?q=meroso.be) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-09-06 | [`gormanusa.com`](https://google.com/search?q=gormanusa.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-09-06 | [`concrejato.com.br`](https://google.com/search?q=concrejato.com.br) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-09-06 | [`Smead`](https://google.com/search?q=Smead) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
 | 2023-09-06 | [`I Keating%20Furniture%20World`](https://google.com/search?q=I+Keating%2520Furniture%2520World) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2023-09-06 | [`It4 Solutions%20Robras`](https://google.com/search?q=It4+Solutions%2520Robras) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -197,10 +204,3 @@ _last `200` posts_
 | 2023-08-30 | [`grebe-korbach.de`](https://google.com/search?q=grebe-korbach.de) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-08-30 | [`feuille-erable.fr`](https://google.com/search?q=feuille-erable.fr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-08-30 | [`emec.com.eg`](https://google.com/search?q=emec.com.eg) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-08-30 | [`dollinger-pierre.fr`](https://google.com/search?q=dollinger-pierre.fr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-08-30 | [`auto-pieces.fr`](https://google.com/search?q=auto-pieces.fr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-08-30 | [`annals.edu.sg`](https://google.com/search?q=annals.edu.sg) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-08-30 | [`alpepipesystems.com`](https://google.com/search?q=alpepipesystems.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-08-30 | [`acolea.org`](https://google.com/search?q=acolea.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-08-30 | [`lamaisonmercier.com`](https://google.com/search?q=lamaisonmercier.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-08-30 | [`O'Brien Steel Servic e`](https://google.com/search?q=O%27Brien+Steel+Servic+e) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
