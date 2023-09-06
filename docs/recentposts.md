@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-09-06 | [`FRESH TASTE PRODUCE USA AND ASSOCIATES INC.`](https://google.com/search?q=FRESH+TASTE+PRODUCE+USA+AND+ASSOCIATES+INC.) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-09-06 | [`Chula Vista Electric (CVE)`](https://google.com/search?q=Chula+Vista+Electric+%28CVE%29) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-09-05 | [`Precisely, Winshuttle`](https://google.com/search?q=Precisely%2C+Winshuttle) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-09-05 | [`Kikkerland Design`](https://google.com/search?q=Kikkerland+Design) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-08-30 | [`Aranui Cruises`](https://google.com/search?q=Aranui+Cruises) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-08-30 | [`Skynet`](https://google.com/search?q=Skynet) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-08-30 | [`Felling Trailers, Inc.`](https://google.com/search?q=Felling+Trailers%2C+Inc.) | [lorenz](https://ransomwatch.telemetry.ltd/#/profiles?id=lorenz) |
-| 2023-08-30 | [`www.pasqualebruni.com`](https://google.com/search?q=www.pasqualebruni.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
