@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-09-07 | [`www.omniatel.it`](https://google.com/search?q=www.omniatel.it) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-09-07 | [`Conselho Superior da Justiça do Trabalho`](https://google.com/search?q=Conselho+Superior+da+Justi%C3%A7a+do+Trabalho) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-09-07 | [`K***** **** ***********`](https://google.com/search?q=K%2A%2A%2A%2A%2A+%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-09-07 | [`Trimaran Capital Partners`](https://google.com/search?q=Trimaran+Capital+Partners) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-08-30 | [`optoflux.com`](https://google.com/search?q=optoflux.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-08-30 | [`nieul-sur-mer.fr`](https://google.com/search?q=nieul-sur-mer.fr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-08-30 | [`mariocoelho.com`](https://google.com/search?q=mariocoelho.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-08-30 | [`losh.com`](https://google.com/search?q=losh.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
