@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-09-07 | [`Trimaran Capital Partners`](https://google.com/search?q=Trimaran+Capital+Partners) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2023-09-07 | [`TORMAX USA`](https://google.com/search?q=TORMAX+USA) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2023-09-07 | [`West Craft Manufacturing`](https://google.com/search?q=West+Craft+Manufacturing) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2023-09-07 | [`Specialised Management Services`](https://google.com/search?q=Specialised+Management+Services) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-08-30 | [`losh.com`](https://google.com/search?q=losh.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-08-30 | [`locaparc.fr`](https://google.com/search?q=locaparc.fr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-08-30 | [`inouemfg.com`](https://google.com/search?q=inouemfg.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-08-30 | [`guillerm-habitat.fr`](https://google.com/search?q=guillerm-habitat.fr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
