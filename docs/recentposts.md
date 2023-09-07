@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-09-07 | [`24/7 Express Logistics (Unpay)`](https://google.com/search?q=24%2F7+Express+Logistics+%28Unpay%29) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
+| 2023-09-07 | [`pvc-ms`](https://google.com/search?q=pvc-ms) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
+| 2023-09-07 | [`FOCUS Business Solutions`](https://google.com/search?q=FOCUS+Business+Solutions) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
 | 2023-09-07 | [`www.omniatel.it`](https://google.com/search?q=www.omniatel.it) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-09-07 | [`Conselho Superior da Justiça do Trabalho`](https://google.com/search?q=Conselho+Superior+da+Justi%C3%A7a+do+Trabalho) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-09-07 | [`K***** **** ***********`](https://google.com/search?q=K%2A%2A%2A%2A%2A+%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2023-08-30 | [`tavlit.co.il`](https://google.com/search?q=tavlit.co.il) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-08-30 | [`potenciamaquinaria.com`](https://google.com/search?q=potenciamaquinaria.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-08-30 | [`otltd.co.uk`](https://google.com/search?q=otltd.co.uk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-08-30 | [`optoflux.com`](https://google.com/search?q=optoflux.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-08-30 | [`nieul-sur-mer.fr`](https://google.com/search?q=nieul-sur-mer.fr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-08-30 | [`mariocoelho.com`](https://google.com/search?q=mariocoelho.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
