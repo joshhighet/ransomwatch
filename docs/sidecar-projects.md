@@ -3,6 +3,11 @@
 - [jdl-84/ransomwatchviewer:](https://jdl-84.github.io/RansomWatchViewer/) _an alternate post visualiser, retro style_
 - [AyoobAli/ransomwatch-cli:](https://github.com/AyoobAli/ransomwatch-cli) _a CLI to browse and query ransomwatch data_
 
+## educational
+
+- [ransomwatch & Jupyter Notebooks](https://kc7cyber.com/learning-module/keeping-up-to-date-with-ransomware-leak-sites/) _- a learning module by KC7_
+- [keyword matching posts for monitoring/alerting](https://www.youtube.com/watch?v=cVDGmKxbKnI) _- youtube, Sh1katagana1_
+
 ## aggregators
 - [vxunderground/ThreatIntelligenceDiscordBot](https://github.com/vxunderground/ThreatIntelligenceDiscordBot) _an aggregated CTI bot used with Discord, monitoring a number of mediums and blogs, ransomwatch data included_
 - [jjsantanna/aggregator:](https://github.com/jjsantanna/aggregator_crawlers_lists_ransomware_groups_leaksites)_a Jupyter Notebook which merges and collates various ransomwatch-style platforms into a single view_
