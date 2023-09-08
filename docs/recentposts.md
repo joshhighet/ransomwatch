@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-09-08 | [`notairedoicesco.be`](https://google.com/search?q=notairedoicesco.be) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
+| 2023-09-08 | [`wacoal-america.com`](https://google.com/search?q=wacoal-america.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2023-09-07 | [`Chambersburg Area School District`](https://google.com/search?q=Chambersburg+Area+School+District) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
 | 2023-09-07 | [`24/7 Express Logistics (Unpay)`](https://google.com/search?q=24%2F7+Express+Logistics+%28Unpay%29) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
 | 2023-09-07 | [`pvc-ms`](https://google.com/search?q=pvc-ms) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-08-30 | [`Y****e(Unpay)`](https://google.com/search?q=Y%2A%2A%2A%2Ae%28Unpay%29) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
 | 2023-08-30 | [`2****r(Unpay)`](https://google.com/search?q=2%2A%2A%2A%2Ar%28Unpay%29) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
 | 2023-08-30 | [`I****n(Unpay)`](https://google.com/search?q=I%2A%2A%2A%2An%28Unpay%29) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
-| 2023-08-30 | [`tavlit.co.il`](https://google.com/search?q=tavlit.co.il) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-08-30 | [`potenciamaquinaria.com`](https://google.com/search?q=potenciamaquinaria.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
