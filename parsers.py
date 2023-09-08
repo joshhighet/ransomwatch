@@ -1162,3 +1162,14 @@ def cloak():
         errlog('cloak: ' + 'parsing fail')
     for post in posts:
         appender(post, 'cloak')
+
+def ransomedvc():
+    stdlog('parser: ' + 'ransomedvc')
+    parser = '''
+    grep -A 1 '<div class="card">' source/ransomedvc-f6amq3izz*.html | grep '<b><u>' | cut -d '>' -f 3 | cut -d '<' -f 1 | sed -e 's/^ *//g' -e 's/[[:space:]]*$//'
+    '''
+    posts = runshellcmd(parser)
+    if len(posts) == 1:
+        errlog('ransomedvc: ' + 'parsing fail')
+    for post in posts:
+        appender(post, 'ransomedvc')

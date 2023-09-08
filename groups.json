@@ -4665,5 +4665,41 @@
             }
         ],
         "profile": []
+    },
+    {
+        "name": "ransomedvc",
+        "captcha": false,
+        "parser": true,
+        "javascript_render": false,
+        "meta": null,
+        "locations": [
+            {
+                "fqdn": "f6amq3izzsgtna4vw24rpyhy3ofwazlgex2zqdssavevvkklmtudxjad.onion",
+                "title": null,
+                "version": 3,
+                "slug": "http://f6amq3izzsgtna4vw24rpyhy3ofwazlgex2zqdssavevvkklmtudxjad.onion",
+                "available": true,
+                "updated": "2023-09-08 22:05:25.720678",
+                "lastscrape": "2023-09-08 22:05:25.720382",
+                "enabled": true
+            },
+            {
+                "fqdn": "ransomed.vc",
+                "title": null,
+                "version": 0,
+                "slug": "https://ransomed.vc",
+                "available": false,
+                "updated": null,
+                "lastscrape": "2021-05-01 00:00:00.000000",
+                "enabled": true
+            }
+        ],
+        "profile": [
+            "@RansomedVC on x.com",
+            "admin@ransomed.vc",
+            "192D52C7C18F3D2693ED2453E64C53EC0CCF0255AB2291F019B65BA84442B313C410DE132E59",
+            "admin@ransomed.vc",
+            "GodGreatSave@cocaine.ninja"
+        ]
     }
 ]
