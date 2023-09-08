@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-09-08 | [`airelec.bg`](https://google.com/search?q=airelec.bg) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
+| 2023-09-08 | [`pilini.bg`](https://google.com/search?q=pilini.bg) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
+| 2023-09-08 | [`kasida.bg`](https://google.com/search?q=kasida.bg) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
 | 2023-09-08 | [`www.northriverco.com`](https://google.com/search?q=www.northriverco.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
 | 2023-09-08 | [`Low Keng Huat`](https://google.com/search?q=Low+Keng+Huat) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2023-09-08 | [`TransUnion`](https://google.com/search?q=TransUnion) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2023-08-31 | [`salelytics.com`](https://google.com/search?q=salelytics.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-08-31 | [`flutter.com`](https://google.com/search?q=flutter.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-08-31 | [`deltadental.com`](https://google.com/search?q=deltadental.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-08-31 | [`enterprisebanking.com`](https://google.com/search?q=enterprisebanking.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-08-31 | [`mechanicsbank.com`](https://google.com/search?q=mechanicsbank.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-08-31 | [`tricoproducts.com`](https://google.com/search?q=tricoproducts.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
