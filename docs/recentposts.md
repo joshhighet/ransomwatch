@@ -26,6 +26,7 @@ _last `200` posts_
 | 2023-09-08 | [`nucleus.live`](https://google.com/search?q=nucleus.live) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
 | 2023-09-08 | [`wantager.com`](https://google.com/search?q=wantager.com) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
 | 2023-09-08 | [`Linktera`](https://google.com/search?q=Linktera) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
+| 2023-09-08 | [`Geo Tek`](https://google.com/search?q=Geo+Tek) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2023-09-08 | [`hanwha.com`](https://google.com/search?q=hanwha.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-09-08 | [`atWork Office Furniture`](https://google.com/search?q=atWork+Office+Furniture) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2023-09-08 | [`BRiC Partnership`](https://google.com/search?q=BRiC+Partnership) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-08-31 | [`Rivers Casino`](https://google.com/search?q=Rivers+Casino) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-08-31 | [`Pifer's Auction%20%26%20Realty`](https://google.com/search?q=Pifer%27s+Auction%2520%2526%2520Realty) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2023-08-31 | [`Tisher Liner FC Law Australia`](https://google.com/search?q=Tisher+Liner+FC+Law+Australia) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-08-31 | [`millwgs.com`](https://google.com/search?q=millwgs.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
