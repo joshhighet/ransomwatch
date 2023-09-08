@@ -4,6 +4,32 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-09-08 | [`TransUnion`](https://google.com/search?q=TransUnion) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
+| 2023-09-08 | [`Jhooker`](https://google.com/search?q=Jhooker) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
+| 2023-09-08 | [`I&G Brokers`](https://google.com/search?q=I%26G+Brokers) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
+| 2023-09-08 | [`Optimity.co.uk`](https://google.com/search?q=Optimity.co.uk) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
+| 2023-09-08 | [`StateFarm`](https://google.com/search?q=StateFarm) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
+| 2023-09-08 | [`S&P`](https://google.com/search?q=S%26P) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
+| 2023-09-08 | [`MetroClub.org`](https://google.com/search?q=MetroClub.org) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
+| 2023-09-08 | [`Powersports Marketing`](https://google.com/search?q=Powersports+Marketing) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
+| 2023-09-08 | [`Hawaii Health System`](https://google.com/search?q=Hawaii+Health+System) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
+| 2023-09-08 | [`phms.com.au`](https://google.com/search?q=phms.com.au) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
+| 2023-09-08 | [`paynesvilleareainsurance.com`](https://google.com/search?q=paynesvilleareainsurance.com) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
+| 2023-09-08 | [`SKF.com`](https://google.com/search?q=SKF.com) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
+| 2023-09-08 | [`Swipe.bg`](https://google.com/search?q=Swipe.bg) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
+| 2023-09-08 | [`Balmit Bulgaria`](https://google.com/search?q=Balmit+Bulgaria) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
+| 2023-09-08 | [`easydentalcare.us`](https://google.com/search?q=easydentalcare.us) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
+| 2023-09-08 | [`quantinuum.com`](https://google.com/search?q=quantinuum.com) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
+| 2023-09-08 | [`laasr.eu`](https://google.com/search?q=laasr.eu) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
+| 2023-09-08 | [`medcenter-tambov.ru`](https://google.com/search?q=medcenter-tambov.ru) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
+| 2023-09-08 | [`makflix.eu`](https://google.com/search?q=makflix.eu) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
+| 2023-09-08 | [`nucleus.live`](https://google.com/search?q=nucleus.live) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
+| 2023-09-08 | [`wantager.com`](https://google.com/search?q=wantager.com) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
+| 2023-09-08 | [`Linktera`](https://google.com/search?q=Linktera) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
+| 2023-09-08 | [`atWork Office Furniture`](https://google.com/search?q=atWork+Office+Furniture) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
+| 2023-09-08 | [`BRiC Partnership`](https://google.com/search?q=BRiC+Partnership) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
+| 2023-09-08 | [`Custom Powder Systems`](https://google.com/search?q=Custom+Powder+Systems) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
+| 2023-09-08 | [`JSS Almonds`](https://google.com/search?q=JSS+Almonds) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2023-09-08 | [`notairedoicesco.be`](https://google.com/search?q=notairedoicesco.be) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2023-09-08 | [`wacoal-america.com`](https://google.com/search?q=wacoal-america.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2023-09-07 | [`Chambersburg Area School District`](https://google.com/search?q=Chambersburg+Area+School+District) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
@@ -178,29 +204,3 @@ _last `200` posts_
 | 2023-08-31 | [`Tisher Liner FC Law Australia`](https://google.com/search?q=Tisher+Liner+FC+Law+Australia) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-08-31 | [`millwgs.com`](https://google.com/search?q=millwgs.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-08-31 | [`biso.at`](https://google.com/search?q=biso.at) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-08-31 | [`Wilder & Co`](https://google.com/search?q=Wilder+%26+Co) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-08-31 | [`Alpizar Law Firm`](https://google.com/search?q=Alpizar+Law+Firm) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-08-31 | [`Eckell Sparks Attorneys at Law`](https://google.com/search?q=Eckell+Sparks+Attorneys+at+Law) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-08-31 | [`chuckecheese.com`](https://google.com/search?q=chuckecheese.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-08-31 | [`ttigroup.com`](https://google.com/search?q=ttigroup.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-08-31 | [`wsp.com`](https://google.com/search?q=wsp.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-08-31 | [`siu.edu`](https://google.com/search?q=siu.edu) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-08-31 | [`deloitte.com`](https://google.com/search?q=deloitte.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-08-31 | [`Fenn Termite and Pest Control`](https://google.com/search?q=Fenn+Termite+and+Pest+Control) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-08-31 | [`ddcos.com`](https://google.com/search?q=ddcos.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-08-31 | [`vitalitygroup.com`](https://google.com/search?q=vitalitygroup.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-08-31 | [`virginpulse.com`](https://google.com/search?q=virginpulse.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-08-31 | [`informatica.com`](https://google.com/search?q=informatica.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-08-31 | [`toyota-boshoku.be`](https://google.com/search?q=toyota-boshoku.be) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-08-31 | [`planethomelending.com`](https://google.com/search?q=planethomelending.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-08-31 | [`sleepcountry.ca`](https://google.com/search?q=sleepcountry.ca) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-08-31 | [`safilogroup.com`](https://google.com/search?q=safilogroup.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-08-31 | [`skystar.it`](https://google.com/search?q=skystar.it) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-08-31 | [`zep.it`](https://google.com/search?q=zep.it) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-08-31 | [`toua.net`](https://google.com/search?q=toua.net) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-08-31 | [`rydershealth.com`](https://google.com/search?q=rydershealth.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-08-30 | [`Zurvita(Unpay-Partially public)`](https://google.com/search?q=Zurvita%28Unpay-Partially+public%29) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
-| 2023-08-30 | [`P****X(Unpay)`](https://google.com/search?q=P%2A%2A%2A%2AX%28Unpay%29) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
-| 2023-08-30 | [`Y****e(Unpay)`](https://google.com/search?q=Y%2A%2A%2A%2Ae%28Unpay%29) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
-| 2023-08-30 | [`2****r(Unpay)`](https://google.com/search?q=2%2A%2A%2A%2Ar%28Unpay%29) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
-| 2023-08-30 | [`I****n(Unpay)`](https://google.com/search?q=I%2A%2A%2A%2An%28Unpay%29) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
