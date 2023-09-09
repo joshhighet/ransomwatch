@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-09-09 | [`moreschi.it`](https://google.com/search?q=moreschi.it) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
+| 2023-09-09 | [`olx.com`](https://google.com/search?q=olx.com) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
+| 2023-09-09 | [`Shkolo.bg`](https://google.com/search?q=Shkolo.bg) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
 | 2023-09-09 | [`proxy-sale.com`](https://google.com/search?q=proxy-sale.com) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
 | 2023-09-08 | [`airelec.bg`](https://google.com/search?q=airelec.bg) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
 | 2023-09-08 | [`pilini.bg`](https://google.com/search?q=pilini.bg) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2023-08-31 | [`gensler.com`](https://google.com/search?q=gensler.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-08-31 | [`gnc.com`](https://google.com/search?q=gnc.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-08-31 | [`www.lasaterandmartin.com`](https://google.com/search?q=www.lasaterandmartin.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
-| 2023-08-31 | [`adaresec.com`](https://google.com/search?q=adaresec.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-08-31 | [`salelytics.com`](https://google.com/search?q=salelytics.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-08-31 | [`flutter.com`](https://google.com/search?q=flutter.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
