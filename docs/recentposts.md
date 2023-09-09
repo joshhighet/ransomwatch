@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-09-09 | [`proxy-sale.com`](https://google.com/search?q=proxy-sale.com) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
 | 2023-09-08 | [`airelec.bg`](https://google.com/search?q=airelec.bg) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
 | 2023-09-08 | [`pilini.bg`](https://google.com/search?q=pilini.bg) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
 | 2023-09-08 | [`kasida.bg`](https://google.com/search?q=kasida.bg) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-08-31 | [`adaresec.com`](https://google.com/search?q=adaresec.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-08-31 | [`salelytics.com`](https://google.com/search?q=salelytics.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-08-31 | [`flutter.com`](https://google.com/search?q=flutter.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-08-31 | [`deltadental.com`](https://google.com/search?q=deltadental.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
