@@ -4512,6 +4512,16 @@
                 "updated": "2023-09-10 20:24:20.984560",
                 "lastscrape": "2023-09-10 20:24:20.984542",
                 "enabled": true
+            },
+            {
+                "fqdn": "rhysidafc6lm7qa2mkiukbezh7zuth3i4wof4mh2audkymscjm6yegad.onion",
+                "title": null,
+                "version": 3,
+                "slug": "http://rhysidafc6lm7qa2mkiukbezh7zuth3i4wof4mh2audkymscjm6yegad.onion/archive.php?last&auction",
+                "available": false,
+                "updated": null,
+                "lastscrape": "2021-05-01 00:00:00.000000",
+                "enabled": true
             }
         ],
         "profile": []
