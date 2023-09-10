@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-09-11 | [`IT-Center Syd`](https://google.com/search?q=IT-Center+Syd) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
+| 2023-09-11 | [`Singing River Health System`](https://google.com/search?q=Singing+River+Health+System) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
+| 2023-09-11 | [`Core Desktop`](https://google.com/search?q=Core+Desktop) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2023-09-10 | [`New Venture Escrow`](https://google.com/search?q=New+Venture+Escrow) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-09-10 | [`BOZOVICH TIMBER PRODUCTS INC`](https://google.com/search?q=BOZOVICH+TIMBER+PRODUCTS+INC) | [mallox](https://ransomwatch.telemetry.ltd/#/profiles?id=mallox) |
 | 2023-09-10 | [`njsba.com`](https://google.com/search?q=njsba.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2023-08-31 | [`chevronfcu.org`](https://google.com/search?q=chevronfcu.org) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-08-31 | [`darlingconsulting.com`](https://google.com/search?q=darlingconsulting.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-08-31 | [`emsbilling.com`](https://google.com/search?q=emsbilling.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-08-31 | [`fanucamerica.com`](https://google.com/search?q=fanucamerica.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-08-31 | [`ferring.com`](https://google.com/search?q=ferring.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-08-31 | [`garrettmotion.com`](https://google.com/search?q=garrettmotion.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
