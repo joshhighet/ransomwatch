@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-09-10 | [`njsba.com`](https://google.com/search?q=njsba.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
 | 2023-09-09 | [`Kirby Risk`](https://google.com/search?q=Kirby+Risk) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
 | 2023-09-09 | [`moreschi.it`](https://google.com/search?q=moreschi.it) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
 | 2023-09-09 | [`olx.com`](https://google.com/search?q=olx.com) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-08-31 | [`garrettmotion.com`](https://google.com/search?q=garrettmotion.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-08-31 | [`genesisenergy.com`](https://google.com/search?q=genesisenergy.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-08-31 | [`gensler.com`](https://google.com/search?q=gensler.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-08-31 | [`gnc.com`](https://google.com/search?q=gnc.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
