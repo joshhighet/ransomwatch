@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-09-11 | [`KUITS Solicitors`](https://google.com/search?q=KUITS+Solicitors) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-09-11 | [`Wave Hill`](https://google.com/search?q=Wave+Hill) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-09-11 | [`Steripharma `](https://google.com/search?q=Steripharma+) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-09-11 | [`IT-Center Syd`](https://google.com/search?q=IT-Center+Syd) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-08-31 | [`Children's Home of W yoming Conference`](https://google.com/search?q=Children%27s+Home+of+W+yoming+Conference) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-08-31 | [`Valley Mountain Regional Center`](https://google.com/search?q=Valley+Mountain+Regional+Center) | [karakurt](https://ransomwatch.telemetry.ltd/#/profiles?id=karakurt) |
 | 2023-08-31 | [`sbmoffshore.com`](https://google.com/search?q=sbmoffshore.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-08-31 | [`awaze.com`](https://google.com/search?q=awaze.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
