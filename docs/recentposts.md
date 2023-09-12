@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-09-12 | [`SAC Finance`](https://google.com/search?q=SAC+Finance) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2023-09-12 | [`Abbeyfield`](https://google.com/search?q=Abbeyfield) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2023-09-12 | [`Morgan Smith Industries LLC`](https://google.com/search?q=Morgan+Smith+Industries+LLC) | [knight](https://ransomwatch.telemetry.ltd/#/profiles?id=knight) |
 | 2023-09-12 | [`Decarie Motors Inc`](https://google.com/search?q=Decarie+Motors+Inc) | [knight](https://ransomwatch.telemetry.ltd/#/profiles?id=knight) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-09-01 | [`cciamp.com`](https://google.com/search?q=cciamp.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-09-01 | [`*** ******`](https://google.com/search?q=%2A%2A%2A+%2A%2A%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-09-01 | [`L******* C***** and P********`](https://google.com/search?q=L%2A%2A%2A%2A%2A%2A%2A+C%2A%2A%2A%2A%2A+and+P%2A%2A%2A%2A%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2023-09-01 | [`N**** **** *** and *c********`](https://google.com/search?q=N%2A%2A%2A%2A+%2A%2A%2A%2A+%2A%2A%2A+and+%2Ac%2A%2A%2A%2A%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
