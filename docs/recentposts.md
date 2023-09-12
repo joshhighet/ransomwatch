@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-09-12 | [`BF&S Civil Engineers`](https://google.com/search?q=BF%26S+Civil+Engineers) | [lorenz](https://ransomwatch.telemetry.ltd/#/profiles?id=lorenz) |
+| 2023-09-12 | [`Dee Sign`](https://google.com/search?q=Dee+Sign) | [lorenz](https://ransomwatch.telemetry.ltd/#/profiles?id=lorenz) |
 | 2023-09-12 | [`Credifiel was hacked and a lot of personal customer and financial information was stolen`](https://google.com/search?q=Credifiel+was+hacked+and+a+lot+of+personal+customer+and+financial+information+was+stolen) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-09-12 | [`Derrimon Trading was hacked. Critical data of the company and its customers was stolen`](https://google.com/search?q=Derrimon+Trading+was+hacked.+Critical+data+of+the+company+and+its+customers+was+stolen) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-09-11 | [`Alps Alpine`](https://google.com/search?q=Alps+Alpine) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-09-01 | [`F??????? ?????s`](https://google.com/search?q=F%3F%3F%3F%3F%3F%3F%3F+%3F%3F%3F%3F%3Fs) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-09-01 | [`konkconsulting.com`](https://google.com/search?q=konkconsulting.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-09-01 | [`hamilton-techservices.com`](https://google.com/search?q=hamilton-techservices.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-09-01 | [`aquinas.qld.edu.au`](https://google.com/search?q=aquinas.qld.edu.au) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-09-01 | [`Prince George's County Public Schools`](https://google.com/search?q=Prince+George%27s+County+Public+Schools) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
