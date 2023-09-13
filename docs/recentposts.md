@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-09-13 | [`Benefit Management INC`](https://google.com/search?q=Benefit+Management+INC) | [knight](https://ransomwatch.telemetry.ltd/#/profiles?id=knight) |
 | 2023-09-13 | [`Tanachira Group`](https://google.com/search?q=Tanachira+Group) | [knight](https://ransomwatch.telemetry.ltd/#/profiles?id=knight) |
 | 2023-09-13 | [`Dpc & S`](https://google.com/search?q=Dpc+%26+S) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-09-13 | [`Carpet One`](https://google.com/search?q=Carpet+One) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-09-02 | [`Statefarm.com`](https://google.com/search?q=Statefarm.com) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2023-09-02 | [`Aban Tether & OK exchange`](https://google.com/search?q=Aban+Tether+%26+OK+exchange) | [arvinclub](https://ransomwatch.telemetry.ltd/#/profiles?id=arvinclub) |
 | 2023-09-02 | [`Taylor University`](https://google.com/search?q=Taylor+University) | [moneymessage](https://ransomwatch.telemetry.ltd/#/profiles?id=moneymessage) |
-| 2023-09-02 | [`cc-gorgesardeche.fr`](https://google.com/search?q=cc-gorgesardeche.fr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
