@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-09-13 | [`clearcreek.org`](https://google.com/search?q=clearcreek.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-09-13 | [`enpos`](https://google.com/search?q=enpos) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
 | 2023-09-13 | [`http://fscjamaica.org`](https://google.com/search?q=http%3A%2F%2Ffscjamaica.org) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2023-09-13 | [`Benefit Management INC`](https://google.com/search?q=Benefit+Management+INC) | [knight](https://ransomwatch.telemetry.ltd/#/profiles?id=knight) |
 | 2023-09-13 | [`Tanachira Group`](https://google.com/search?q=Tanachira+Group) | [knight](https://ransomwatch.telemetry.ltd/#/profiles?id=knight) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-09-02 | [`DOIT - Canadian IT company allowed leak of its own clients.`](https://google.com/search?q=DOIT+-+Canadian+IT+company+allowed+leak+of+its+own+clients.) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
 | 2023-09-02 | [`SKF.com`](https://google.com/search?q=SKF.com) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2023-09-02 | [`Powersportsmarketing.com`](https://google.com/search?q=Powersportsmarketing.com) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
-| 2023-09-02 | [`Statefarm.com`](https://google.com/search?q=Statefarm.com) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
-| 2023-09-02 | [`Aban Tether & OK exchange`](https://google.com/search?q=Aban+Tether+%26+OK+exchange) | [arvinclub](https://ransomwatch.telemetry.ltd/#/profiles?id=arvinclub) |
