@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-09-14 | [`American Steel & Alu minum`](https://google.com/search?q=American+Steel+%26+Alu+minum) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-09-14 | [`Ja Quith Press Release`](https://google.com/search?q=Ja+Quith+Press+Release) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2023-09-14 | [`East Baking Press Release`](https://google.com/search?q=East+Baking+Press+Release) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2023-09-14 | [`carthagehospital.com`](https://google.com/search?q=carthagehospital.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-09-02 | [`neolife.com`](https://google.com/search?q=neolife.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-09-02 | [`gh2.com`](https://google.com/search?q=gh2.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-09-02 | [`eljayoil.com`](https://google.com/search?q=eljayoil.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-09-02 | [`designlink.us`](https://google.com/search?q=designlink.us) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
