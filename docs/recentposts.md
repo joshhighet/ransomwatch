@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-09-14 | [`carthagehospital.com`](https://google.com/search?q=carthagehospital.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-09-14 | [`www.fondation-vincent-de-paul.org`](https://google.com/search?q=www.fondation-vincent-de-paul.org) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-09-14 | [`educal.mx`](https://google.com/search?q=educal.mx) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-09-13 | [`clearcreek.org`](https://google.com/search?q=clearcreek.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-09-02 | [`designlink.us`](https://google.com/search?q=designlink.us) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-09-02 | [`sterncoengineers.com`](https://google.com/search?q=sterncoengineers.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-09-02 | [`attorneydanwinder.com`](https://google.com/search?q=attorneydanwinder.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-09-02 | [`DOIT - Canadian IT company allowed leak of its own clients.`](https://google.com/search?q=DOIT+-+Canadian+IT+company+allowed+leak+of+its+own+clients.) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
