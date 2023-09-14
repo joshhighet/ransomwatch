@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-09-14 | [`Ja Quith Press Release`](https://google.com/search?q=Ja+Quith+Press+Release) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
+| 2023-09-14 | [`East Baking Press Release`](https://google.com/search?q=East+Baking+Press+Release) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2023-09-14 | [`carthagehospital.com`](https://google.com/search?q=carthagehospital.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-09-14 | [`www.fondation-vincent-de-paul.org`](https://google.com/search?q=www.fondation-vincent-de-paul.org) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-09-14 | [`educal.mx`](https://google.com/search?q=educal.mx) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-09-02 | [`gh2.com`](https://google.com/search?q=gh2.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-09-02 | [`eljayoil.com`](https://google.com/search?q=eljayoil.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-09-02 | [`designlink.us`](https://google.com/search?q=designlink.us) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-09-02 | [`sterncoengineers.com`](https://google.com/search?q=sterncoengineers.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-09-02 | [`attorneydanwinder.com`](https://google.com/search?q=attorneydanwinder.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
