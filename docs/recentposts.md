@@ -4,6 +4,26 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-09-15 | [`P1 Technical Services`](https://google.com/search?q=P1+Technical+Services) | [cryptbb](https://ransomwatch.telemetry.ltd/#/profiles?id=cryptbb) |
+| 2023-09-15 | [`CON-STRUCT`](https://google.com/search?q=CON-STRUCT) | [cryptbb](https://ransomwatch.telemetry.ltd/#/profiles?id=cryptbb) |
+| 2023-09-15 | [`Polanglo`](https://google.com/search?q=Polanglo) | [cryptbb](https://ransomwatch.telemetry.ltd/#/profiles?id=cryptbb) |
+| 2023-09-15 | [`Jeff Wyler Automotive Family, Inc.`](https://google.com/search?q=Jeff+Wyler+Automotive+Family%2C+Inc.) | [cryptbb](https://ransomwatch.telemetry.ltd/#/profiles?id=cryptbb) |
+| 2023-09-15 | [`KIRWIN FRYDAY MEDCALF Lawyers LLP`](https://google.com/search?q=KIRWIN+FRYDAY+MEDCALF+Lawyers+LLP) | [cryptbb](https://ransomwatch.telemetry.ltd/#/profiles?id=cryptbb) |
+| 2023-09-15 | [`Danbury Public Schools`](https://google.com/search?q=Danbury+Public+Schools) | [cryptbb](https://ransomwatch.telemetry.ltd/#/profiles?id=cryptbb) |
+| 2023-09-15 | [`Aspect Structural Engineers`](https://google.com/search?q=Aspect+Structural+Engineers) | [cryptbb](https://ransomwatch.telemetry.ltd/#/profiles?id=cryptbb) |
+| 2023-09-15 | [`ToyotaLift Northeast`](https://google.com/search?q=ToyotaLift+Northeast) | [cryptbb](https://ransomwatch.telemetry.ltd/#/profiles?id=cryptbb) |
+| 2023-09-15 | [`wdgroup.com.my`](https://google.com/search?q=wdgroup.com.my) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
+| 2023-09-15 | [`pvbfabs.com`](https://google.com/search?q=pvbfabs.com) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
+| 2023-09-15 | [`intechims.com`](https://google.com/search?q=intechims.com) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
+| 2023-09-15 | [`zero-pointorganics.com`](https://google.com/search?q=zero-pointorganics.com) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
+| 2023-09-15 | [`visitingphysiciansnetwork.com`](https://google.com/search?q=visitingphysiciansnetwork.com) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
+| 2023-09-15 | [`clearwaterlandscape.com`](https://google.com/search?q=clearwaterlandscape.com) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
+| 2023-09-15 | [`http://www.harmonicteam.com`](https://google.com/search?q=http%3A%2F%2Fwww.harmonicteam.com) | [ciphbit](https://ransomwatch.telemetry.ltd/#/profiles?id=ciphbit) |
+| 2023-09-15 | [`http://www.imperadorlogistics.com`](https://google.com/search?q=http%3A%2F%2Fwww.imperadorlogistics.com) | [ciphbit](https://ransomwatch.telemetry.ltd/#/profiles?id=ciphbit) |
+| 2023-09-15 | [`http://www.waterfordretirement.com`](https://google.com/search?q=http%3A%2F%2Fwww.waterfordretirement.com) | [ciphbit](https://ransomwatch.telemetry.ltd/#/profiles?id=ciphbit) |
+| 2023-09-15 | [`http://www.shelleyengineering.co.uk`](https://google.com/search?q=http%3A%2F%2Fwww.shelleyengineering.co.uk) | [ciphbit](https://ransomwatch.telemetry.ltd/#/profiles?id=ciphbit) |
+| 2023-09-15 | [`http://www.rsv-centrale.be`](https://google.com/search?q=http%3A%2F%2Fwww.rsv-centrale.be) | [ciphbit](https://ransomwatch.telemetry.ltd/#/profiles?id=ciphbit) |
+| 2023-09-15 | [`http://soprovise.fr`](https://google.com/search?q=http%3A%2F%2Fsoprovise.fr) | [ciphbit](https://ransomwatch.telemetry.ltd/#/profiles?id=ciphbit) |
 | 2023-09-15 | [`https://steelforce.eu/`](https://google.com/search?q=https%3A%2F%2Fsteelforce.eu%2F) | [trigona](https://ransomwatch.telemetry.ltd/#/profiles?id=trigona) |
 | 2023-09-14 | [`Statement on MGM Resorts International: Setting the record straight`](https://google.com/search?q=Statement+on+MGM+Resorts+International%3A+Setting+the+record+straight) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-09-14 | [`etsi.uy`](https://google.com/search?q=etsi.uy) | [knight](https://ransomwatch.telemetry.ltd/#/profiles?id=knight) |
@@ -184,23 +204,3 @@ _last `200` posts_
 | 2023-09-04 | [`vivtok`](https://google.com/search?q=vivtok) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
 | 2023-09-04 | [`Betton France`](https://google.com/search?q=Betton+France) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-09-04 | [`Jules B`](https://google.com/search?q=Jules+B) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
-| 2023-09-04 | [`VVandA`](https://google.com/search?q=VVandA) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-09-04 | [`VV&amp;amp;A`](https://google.com/search?q=VV%26amp%3Bamp%3BA) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-09-04 | [`Prodegest Assessors`](https://google.com/search?q=Prodegest+Assessors) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-09-03 | [`Knight Barry Title`](https://google.com/search?q=Knight+Barry+Title) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
-| 2023-09-03 | [`marianoshoes.com`](https://google.com/search?q=marianoshoes.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-09-03 | [`gosslaw.com`](https://google.com/search?q=gosslaw.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-09-03 | [`Arkopharma`](https://google.com/search?q=Arkopharma) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2023-09-03 | [`DDB Unlimited (ddbunlimited.com)`](https://google.com/search?q=DDB+Unlimited+%28ddbunlimited.com%29) | [rancoz](https://ransomwatch.telemetry.ltd/#/profiles?id=rancoz) |
-| 2023-09-03 | [`Rick Ramos Law (rickramoslaw.com)`](https://google.com/search?q=Rick+Ramos+Law+%28rickramoslaw.com%29) | [rancoz](https://ransomwatch.telemetry.ltd/#/profiles?id=rancoz) |
-| 2023-09-03 | [`Aiphone`](https://google.com/search?q=Aiphone) | [moneymessage](https://ransomwatch.telemetry.ltd/#/profiles?id=moneymessage) |
-| 2023-09-03 | [`Newton Media A.S.`](https://google.com/search?q=Newton+Media+A.S.) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-09-03 | [`Prospect Medical Holdings`](https://google.com/search?q=Prospect+Medical+Holdings) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2023-09-03 | [`Lawsonlundell`](https://google.com/search?q=Lawsonlundell) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-09-02 | [`TissuPath Australia`](https://google.com/search?q=TissuPath+Australia) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-09-02 | [`glprop.com`](https://google.com/search?q=glprop.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-09-02 | [`Barry Plant Real Estate Australia`](https://google.com/search?q=Barry+Plant+Real+Estate+Australia) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-09-02 | [`Strata Plan Australia`](https://google.com/search?q=Strata+Plan+Australia) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-09-02 | [`ramlowstein.com`](https://google.com/search?q=ramlowstein.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-09-02 | [`seasonsdarlingharbour.com.au`](https://google.com/search?q=seasonsdarlingharbour.com.au) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-09-02 | [`nerolac.com`](https://google.com/search?q=nerolac.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
