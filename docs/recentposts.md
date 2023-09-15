@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-09-15 | [`gov.la`](https://google.com/search?q=gov.la) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
 | 2023-09-15 | [`Updates: Israel "MYMC"`](https://google.com/search?q=Updates%3A+Israel+%22MYMC%22) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
 | 2023-09-15 | [`pelicanwoodcliff.com`](https://google.com/search?q=pelicanwoodcliff.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-09-15 | [`hillsboroughschools.org`](https://google.com/search?q=hillsboroughschools.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-09-04 | [`Balcan`](https://google.com/search?q=Balcan) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2023-09-04 | [`Barco Uniforms`](https://google.com/search?q=Barco+Uniforms) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2023-09-04 | [`cdwg.com`](https://google.com/search?q=cdwg.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-09-04 | [`senior`](https://google.com/search?q=senior) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
