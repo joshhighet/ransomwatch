@@ -1184,3 +1184,14 @@ def ciphbit():
         errlog('ciphbit: ' + 'parsing fail')
     for post in posts:
         appender(post, 'ciphbit')
+
+def threeam():
+    stdlog('parser: ' + 'threeam')
+    parser = '''
+    grep -A 1 '<div class="post-title-block">' source/threeam-*.html | grep '<div>' | cut -d '>' -f 2 | cut -d '<' -f 1
+    '''
+    posts = runshellcmd(parser)
+    if len(posts) == 1:
+        errlog('threeam: ' + 'parsing fail')
+    for post in posts:
+        appender(post, 'threeam')
