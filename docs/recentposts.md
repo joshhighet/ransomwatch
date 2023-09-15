@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-09-15 | [`hollandspecial`](https://google.com/search?q=hollandspecial) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-09-15 | [`P1 Technical Services`](https://google.com/search?q=P1+Technical+Services) | [cryptbb](https://ransomwatch.telemetry.ltd/#/profiles?id=cryptbb) |
 | 2023-09-15 | [`CON-STRUCT`](https://google.com/search?q=CON-STRUCT) | [cryptbb](https://ransomwatch.telemetry.ltd/#/profiles?id=cryptbb) |
 | 2023-09-15 | [`Polanglo`](https://google.com/search?q=Polanglo) | [cryptbb](https://ransomwatch.telemetry.ltd/#/profiles?id=cryptbb) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-09-04 | [`econocom`](https://google.com/search?q=econocom) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
 | 2023-09-04 | [`vivtok`](https://google.com/search?q=vivtok) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
 | 2023-09-04 | [`Betton France`](https://google.com/search?q=Betton+France) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
-| 2023-09-04 | [`Jules B`](https://google.com/search?q=Jules+B) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
