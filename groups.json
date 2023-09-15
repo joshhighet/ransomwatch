@@ -4762,5 +4762,25 @@
         "profile": [
             "threeam@onionmail.org"
         ]
+    },
+    {
+        "name": "cryptbb",
+        "captcha": false,
+        "parser": true,
+        "javascript_render": false,
+        "meta": null,
+        "locations": [
+            {
+                "fqdn": "crypuglupv3bsqnbt5ruu5lgwrwoaojscwhuoccbmbzmcidft5kiccqd.onion",
+                "title": "Home",
+                "version": 3,
+                "slug": "http://crypuglupv3bsqnbt5ruu5lgwrwoaojscwhuoccbmbzmcidft5kiccqd.onion",
+                "available": true,
+                "updated": "2023-09-15 14:47:09.318581",
+                "lastscrape": "2023-09-15 14:47:09.318561",
+                "enabled": true
+            }
+        ],
+        "profile": []
     }
 ]

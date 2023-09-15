@@ -1195,3 +1195,14 @@ def threeam():
         errlog('threeam: ' + 'parsing fail')
     for post in posts:
         appender(post, 'threeam')
+
+def cryptbb():
+    stdlog('parser: ' + 'cryptbb')
+    parser = '''
+    grep -A 1 'class="stretched-link">' source/cryptbb-*.html | grep -v '<a href="' | grep -v '\-\-' | sed -e '/^[[:space:]]*$/d' -e 's/^ *//g'
+    '''
+    posts = runshellcmd(parser)
+    if len(posts) == 1:
+        errlog('cryptbb: ' + 'parsing fail')
+    for post in posts:
+        appender(post, 'cryptbb')
