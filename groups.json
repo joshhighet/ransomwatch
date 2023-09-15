@@ -4720,5 +4720,25 @@
             "192D52C7C18F3D2693ED2453E64C53EC0CCF0255AB2291F019B65BA84442B313C410DE132E59",
             "GodGreatSave @ cocaine.ninja"
         ]
+    },
+    {
+        "name": "ciphbit",
+        "captcha": false,
+        "parser": true,
+        "javascript_render": false,
+        "meta": null,
+        "locations": [
+            {
+                "fqdn": "ciphbitqyg26jor7eeo6xieyq7reouctefrompp6ogvhqjba7uo4xdid.onion",
+                "title": null,
+                "version": 3,
+                "slug": "http://ciphbitqyg26jor7eeo6xieyq7reouctefrompp6ogvhqjba7uo4xdid.onion",
+                "available": false,
+                "updated": null,
+                "lastscrape": "2021-05-01 00:00:00.000000",
+                "enabled": true
+            }
+        ],
+        "profile": []
     }
 ]

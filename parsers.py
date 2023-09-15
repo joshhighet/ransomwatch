@@ -1173,3 +1173,14 @@ def ransomedvc():
         errlog('ransomedvc: ' + 'parsing fail')
     for post in posts:
         appender(post, 'ransomedvc')
+
+def ciphbit():
+    stdlog('parser: ' + 'ciphbit')
+    parser = '''
+    grep '<h2><a class="title"' source/ciphbit-*.html | cut -d '"' -f 4
+    '''
+    posts = runshellcmd(parser)
+    if len(posts) == 1:
+        errlog('ciphbit: ' + 'parsing fail')
+    for post in posts:
+        appender(post, 'ciphbit')
