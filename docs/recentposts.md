@@ -4,6 +4,28 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-09-16 | [`tuvsud.com`](https://google.com/search?q=tuvsud.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-09-16 | [`tlip2.com`](https://google.com/search?q=tlip2.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-09-16 | [`syntech.com.sg`](https://google.com/search?q=syntech.com.sg) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-09-16 | [`scottpartners.com`](https://google.com/search?q=scottpartners.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-09-16 | [`piramidal.com.br`](https://google.com/search?q=piramidal.com.br) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-09-16 | [`perfectlaw.com`](https://google.com/search?q=perfectlaw.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-09-16 | [`neolaser.es`](https://google.com/search?q=neolaser.es) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-09-16 | [`motsaot.co.il`](https://google.com/search?q=motsaot.co.il) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-09-16 | [`milbermakris.com`](https://google.com/search?q=milbermakris.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-09-16 | [`michalovich.co.il`](https://google.com/search?q=michalovich.co.il) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-09-16 | [`mehmetceylanyapi.com.tr`](https://google.com/search?q=mehmetceylanyapi.com.tr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-09-16 | [`ipsenlogistics.com`](https://google.com/search?q=ipsenlogistics.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-09-16 | [`gsaenz.com.mx`](https://google.com/search?q=gsaenz.com.mx) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-09-16 | [`glat.zapweb.co.il`](https://google.com/search?q=glat.zapweb.co.il) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-09-16 | [`faithfamilyacademy.org`](https://google.com/search?q=faithfamilyacademy.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-09-16 | [`energyinsight.co.za`](https://google.com/search?q=energyinsight.co.za) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-09-16 | [`dasholding.ae`](https://google.com/search?q=dasholding.ae) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-09-16 | [`commercialfluidpower.com`](https://google.com/search?q=commercialfluidpower.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-09-16 | [`blackjewel l.l.c.`](https://google.com/search?q=blackjewel+l.l.c.) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-09-16 | [`beamconstruction.com`](https://google.com/search?q=beamconstruction.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-09-16 | [`antioch.edu`](https://google.com/search?q=antioch.edu) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-09-16 | [`aeroportlleida.cat`](https://google.com/search?q=aeroportlleida.cat) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-09-16 | [`Financial Decisions`](https://google.com/search?q=Financial+Decisions) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-09-15 | [`gov.la`](https://google.com/search?q=gov.la) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
 | 2023-09-15 | [`Updates: Israel "MYMC"`](https://google.com/search?q=Updates%3A+Israel+%22MYMC%22) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
@@ -182,25 +204,3 @@ _last `200` posts_
 | 2023-09-05 | [`Hornsyld Købmandsgaard`](https://google.com/search?q=Hornsyld+K%C3%B8bmandsgaard) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2023-09-05 | [`spmblaw.com`](https://google.com/search?q=spmblaw.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-09-05 | [`https://www.wpc.com/`](https://google.com/search?q=https%3A%2F%2Fwww.wpc.com%2F) | [trigona](https://ransomwatch.telemetry.ltd/#/profiles?id=trigona) |
-| 2023-09-05 | [`www.ttccpa.com`](https://google.com/search?q=www.ttccpa.com) | [trigona](https://ransomwatch.telemetry.ltd/#/profiles?id=trigona) |
-| 2023-09-05 | [`https://uniqueimaging.com/`](https://google.com/search?q=https%3A%2F%2Funiqueimaging.com%2F) | [trigona](https://ransomwatch.telemetry.ltd/#/profiles?id=trigona) |
-| 2023-09-05 | [`https://axiomprofessional.com`](https://google.com/search?q=https%3A%2F%2Faxiomprofessional.com) | [trigona](https://ransomwatch.telemetry.ltd/#/profiles?id=trigona) |
-| 2023-09-05 | [`https://leidos.com`](https://google.com/search?q=https%3A%2F%2Fleidos.com) | [trigona](https://ransomwatch.telemetry.ltd/#/profiles?id=trigona) |
-| 2023-09-05 | [`https://www.flamingoholland.com`](https://google.com/search?q=https%3A%2F%2Fwww.flamingoholland.com) | [trigona](https://ransomwatch.telemetry.ltd/#/profiles?id=trigona) |
-| 2023-09-05 | [`https://www.ariacarepartners.com/`](https://google.com/search?q=https%3A%2F%2Fwww.ariacarepartners.com%2F) | [trigona](https://ransomwatch.telemetry.ltd/#/profiles?id=trigona) |
-| 2023-09-05 | [`https://cedarhd.com/`](https://google.com/search?q=https%3A%2F%2Fcedarhd.com%2F) | [trigona](https://ransomwatch.telemetry.ltd/#/profiles?id=trigona) |
-| 2023-09-05 | [`https://unimed.coop.br/`](https://google.com/search?q=https%3A%2F%2Funimed.coop.br%2F) | [trigona](https://ransomwatch.telemetry.ltd/#/profiles?id=trigona) |
-| 2023-09-05 | [`https://www.cyberport.hk/`](https://google.com/search?q=https%3A%2F%2Fwww.cyberport.hk%2F) | [trigona](https://ransomwatch.telemetry.ltd/#/profiles?id=trigona) |
-| 2023-09-05 | [`godbeylaw.com`](https://google.com/search?q=godbeylaw.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-09-04 | [`Firmdale Hotels`](https://google.com/search?q=Firmdale+Hotels) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-09-04 | [`Zurvita (Unpay-Full public)`](https://google.com/search?q=Zurvita+%28Unpay-Full+public%29) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
-| 2023-09-04 | [`Piex Group (Unpay-Full public)`](https://google.com/search?q=Piex+Group+%28Unpay-Full+public%29) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
-| 2023-09-04 | [`Yuxin Automobile Co.Ltd (è£ä¿¡æ±½è») (Unpay-Full public)`](https://google.com/search?q=Yuxin+Automobile+Co.Ltd+%28%C3%A8%C2%A3%C2%95%C3%A4%C2%BF%C2%A1%C3%A6%C2%B1%C2%BD%C3%A8%C2%BB%C2%8A%29+%28Unpay-Full+public%29) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
-| 2023-09-04 | [`I****n (Unpay)`](https://google.com/search?q=I%2A%2A%2A%2An+%28Unpay%29) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
-| 2023-09-04 | [`24****r (Unpay)`](https://google.com/search?q=24%2A%2A%2A%2Ar+%28Unpay%29) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
-| 2023-09-04 | [`He****rk (Unpay)`](https://google.com/search?q=He%2A%2A%2A%2Ark+%28Unpay%29) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
-| 2023-09-04 | [`www.mulkaycardiology.com`](https://google.com/search?q=www.mulkaycardiology.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
-| 2023-09-04 | [`hbme.com`](https://google.com/search?q=hbme.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
-| 2023-09-04 | [`northwave.it`](https://google.com/search?q=northwave.it) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
-| 2023-09-04 | [`Balcan`](https://google.com/search?q=Balcan) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2023-09-04 | [`Barco Uniforms`](https://google.com/search?q=Barco+Uniforms) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
