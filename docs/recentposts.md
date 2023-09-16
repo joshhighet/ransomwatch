@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-09-16 | [`http://www.soprovise.fr`](https://google.com/search?q=http%3A%2F%2Fwww.soprovise.fr) | [ciphbit](https://ransomwatch.telemetry.ltd/#/profiles?id=ciphbit) |
+| 2023-09-16 | [`http://www.marston-domsel.com`](https://google.com/search?q=http%3A%2F%2Fwww.marston-domsel.com) | [ciphbit](https://ransomwatch.telemetry.ltd/#/profiles?id=ciphbit) |
 | 2023-09-16 | [`tuvsud.com`](https://google.com/search?q=tuvsud.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-09-16 | [`tlip2.com`](https://google.com/search?q=tlip2.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-09-16 | [`syntech.com.sg`](https://google.com/search?q=syntech.com.sg) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-09-05 | [`Barsco`](https://google.com/search?q=Barsco) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2023-09-05 | [`Foroni SPA`](https://google.com/search?q=Foroni+SPA) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2023-09-05 | [`Hornsyld Købmandsgaard`](https://google.com/search?q=Hornsyld+K%C3%B8bmandsgaard) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2023-09-05 | [`spmblaw.com`](https://google.com/search?q=spmblaw.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-09-05 | [`https://www.wpc.com/`](https://google.com/search?q=https%3A%2F%2Fwww.wpc.com%2F) | [trigona](https://ransomwatch.telemetry.ltd/#/profiles?id=trigona) |
