@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-09-18 | [`https://www.grupoboreal.com.ar`](https://google.com/search?q=https%3A%2F%2Fwww.grupoboreal.com.ar) | [trigona](https://ransomwatch.telemetry.ltd/#/profiles?id=trigona) |
 | 2023-09-18 | [`Dustin J Will LCC / Dustin J Will Sole MBR`](https://google.com/search?q=Dustin+J+Will+LCC+%2F+Dustin+J+Will+Sole+MBR) | [knight](https://ransomwatch.telemetry.ltd/#/profiles?id=knight) |
 | 2023-09-18 | [`Lopez & Associates Inc`](https://google.com/search?q=Lopez+%26+Associates+Inc) | [knight](https://ransomwatch.telemetry.ltd/#/profiles?id=knight) |
 | 2023-09-18 | [`Auckland Transport`](https://google.com/search?q=Auckland+Transport) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-09-05 | [`Bordelon Marine`](https://google.com/search?q=Bordelon+Marine) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-09-05 | [`Majestic Spice`](https://google.com/search?q=Majestic+Spice) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-09-05 | [`www.infinityconstruction.com`](https://google.com/search?q=www.infinityconstruction.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
-| 2023-09-05 | [`Promotrans`](https://google.com/search?q=Promotrans) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
