@@ -4,6 +4,10 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-09-18 | [`CEFCO`](https://google.com/search?q=CEFCO) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
+| 2023-09-18 | [`ZILLI`](https://google.com/search?q=ZILLI) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
+| 2023-09-18 | [`Florida Department of Veterans&#039; Affairs`](https://google.com/search?q=Florida+Department+of+Veterans%26%23039%3B+Affairs) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
+| 2023-09-18 | [`CITIZEN company LEAKED`](https://google.com/search?q=CITIZEN+company+LEAKED) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
 | 2023-09-18 | [`Elemetal`](https://google.com/search?q=Elemetal) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2023-09-18 | [`First Line`](https://google.com/search?q=First+Line) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-09-18 | [`Rea Magnet Wire`](https://google.com/search?q=Rea+Magnet+Wire) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -200,7 +204,3 @@ _last `200` posts_
 | 2023-09-06 | [`gormanusa.com`](https://google.com/search?q=gormanusa.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-09-06 | [`concrejato.com.br`](https://google.com/search?q=concrejato.com.br) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-09-06 | [`Smead`](https://google.com/search?q=Smead) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
-| 2023-09-06 | [`I Keating%20Furniture%20World`](https://google.com/search?q=I+Keating%2520Furniture%2520World) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2023-09-06 | [`It4 Solutions%20Robras`](https://google.com/search?q=It4+Solutions%2520Robras) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2023-09-06 | [`Israel Medical Center - leaked`](https://google.com/search?q=Israel+Medical+Center+-+leaked) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
-| 2023-09-06 | [`Ayass BioScience`](https://google.com/search?q=Ayass+BioScience) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
