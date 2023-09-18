@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-09-18 | [`Araújo e Policastro Advogados`](https://google.com/search?q=Ara%C3%BAjo+e+Policastro+Advogados) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-09-17 | [`Announcement: Retail House going to be LEAKED`](https://google.com/search?q=Announcement%3A+Retail+House+going+to+be+LEAKED) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
 | 2023-09-17 | [`Delta Group`](https://google.com/search?q=Delta+Group) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-09-16 | [`http://www.transterra.nl`](https://google.com/search?q=http%3A%2F%2Fwww.transterra.nl) | [ciphbit](https://ransomwatch.telemetry.ltd/#/profiles?id=ciphbit) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-09-05 | [`Maxxd Trailers`](https://google.com/search?q=Maxxd+Trailers) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2023-09-05 | [`MINEMAN Systems`](https://google.com/search?q=MINEMAN+Systems) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2023-09-05 | [`Marfrig Global Foods`](https://google.com/search?q=Marfrig+Global+Foods) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2023-09-05 | [`Lagarde Meregnani`](https://google.com/search?q=Lagarde+Meregnani) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
