@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-09-18 | [`Glovis America`](https://google.com/search?q=Glovis+America) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-09-18 | [`************`](https://google.com/search?q=%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2023-09-18 | [`Fuji Seal Internatio nal (US branch)`](https://google.com/search?q=Fuji+Seal+Internatio+nal+%28US+branch%29) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-09-18 | [`Hoteles Xcaret`](https://google.com/search?q=Hoteles+Xcaret) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-09-06 | [`Chula Vista Electric (CVE)`](https://google.com/search?q=Chula+Vista+Electric+%28CVE%29) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-09-05 | [`Precisely, Winshuttle`](https://google.com/search?q=Precisely%2C+Winshuttle) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-09-05 | [`Kikkerland Design`](https://google.com/search?q=Kikkerland+Design) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-09-05 | [`Markentrainer Werbeagentur`](https://google.com/search?q=Markentrainer+Werbeagentur) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
