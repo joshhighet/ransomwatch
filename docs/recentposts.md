@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-09-18 | [`cucs.org`](https://google.com/search?q=cucs.org) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
+| 2023-09-18 | [`www.kool-air-inc.com`](https://google.com/search?q=www.kool-air-inc.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
+| 2023-09-18 | [`www.ikp.at`](https://google.com/search?q=www.ikp.at) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-09-18 | [`Araújo e Policastro Advogados`](https://google.com/search?q=Ara%C3%BAjo+e+Policastro+Advogados) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-09-17 | [`Announcement: Retail House going to be LEAKED`](https://google.com/search?q=Announcement%3A+Retail+House+going+to+be+LEAKED) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
 | 2023-09-17 | [`Delta Group`](https://google.com/search?q=Delta+Group) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2023-09-05 | [`Seymours`](https://google.com/search?q=Seymours) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2023-09-05 | [`Brooklyn Premier Orthopedics FULL LEAK!`](https://google.com/search?q=Brooklyn+Premier+Orthopedics+FULL+LEAK%21) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-09-05 | [`Barry Plant LEAK!`](https://google.com/search?q=Barry+Plant+LEAK%21) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-09-05 | [`Maxxd Trailers`](https://google.com/search?q=Maxxd+Trailers) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2023-09-05 | [`MINEMAN Systems`](https://google.com/search?q=MINEMAN+Systems) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2023-09-05 | [`Marfrig Global Foods`](https://google.com/search?q=Marfrig+Global+Foods) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
