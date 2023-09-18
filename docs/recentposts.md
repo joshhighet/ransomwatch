@@ -4,6 +4,13 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-09-18 | [`Elemetal`](https://google.com/search?q=Elemetal) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
+| 2023-09-18 | [`First Line`](https://google.com/search?q=First+Line) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-09-18 | [`Rea Magnet Wire`](https://google.com/search?q=Rea+Magnet+Wire) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-09-18 | [`RTA`](https://google.com/search?q=RTA) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-09-18 | [`TSC`](https://google.com/search?q=TSC) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-09-18 | [`PASCHAL - Werk G Maier`](https://google.com/search?q=PASCHAL+-+Werk+G+Maier) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-09-18 | [`Vucke`](https://google.com/search?q=Vucke) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-09-18 | [`Glovis America`](https://google.com/search?q=Glovis+America) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-09-18 | [`************`](https://google.com/search?q=%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2023-09-18 | [`Fuji Seal Internatio nal (US branch)`](https://google.com/search?q=Fuji+Seal+Internatio+nal+%28US+branch%29) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
@@ -197,10 +204,3 @@ _last `200` posts_
 | 2023-09-06 | [`It4 Solutions%20Robras`](https://google.com/search?q=It4+Solutions%2520Robras) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2023-09-06 | [`Israel Medical Center - leaked`](https://google.com/search?q=Israel+Medical+Center+-+leaked) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
 | 2023-09-06 | [`Ayass BioScience`](https://google.com/search?q=Ayass+BioScience) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-09-06 | [`Solano-Napa Pet Emergency Clinic`](https://google.com/search?q=Solano-Napa+Pet+Emergency+Clinic) | [knight](https://ransomwatch.telemetry.ltd/#/profiles?id=knight) |
-| 2023-09-06 | [`Sabre Corporation`](https://google.com/search?q=Sabre+Corporation) | [dunghill_leak](https://ransomwatch.telemetry.ltd/#/profiles?id=dunghill_leak) |
-| 2023-09-06 | [`Energy One`](https://google.com/search?q=Energy+One) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2023-09-06 | [`FRESH TASTE PRODUCE USA AND ASSOCIATES INC.`](https://google.com/search?q=FRESH+TASTE+PRODUCE+USA+AND+ASSOCIATES+INC.) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-09-06 | [`Chula Vista Electric (CVE)`](https://google.com/search?q=Chula+Vista+Electric+%28CVE%29) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-09-05 | [`Precisely, Winshuttle`](https://google.com/search?q=Precisely%2C+Winshuttle) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-09-05 | [`Kikkerland Design`](https://google.com/search?q=Kikkerland+Design) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
