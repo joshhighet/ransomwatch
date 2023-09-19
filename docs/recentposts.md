@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-09-19 | [`Gossler, Gobert &amp; Wolters Group.`](https://google.com/search?q=Gossler%2C+Gobert+%26amp%3B+Wolters+Group.) | [donutleaks](https://ransomwatch.telemetry.ltd/#/profiles?id=donutleaks) |
+| 2023-09-19 | [`Agilitas IT Solutions Limited`](https://google.com/search?q=Agilitas+IT+Solutions+Limited) | [donutleaks](https://ransomwatch.telemetry.ltd/#/profiles?id=donutleaks) |
 | 2023-09-19 | [`Peacock Bros`](https://google.com/search?q=Peacock+Bros) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2023-09-19 | [`Hacketts printing services`](https://google.com/search?q=Hacketts+printing+services) | [knight](https://ransomwatch.telemetry.ltd/#/profiles?id=knight) |
 | 2023-09-18 | [`CEFCO`](https://google.com/search?q=CEFCO) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-09-06 | [`protosign.it`](https://google.com/search?q=protosign.it) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-09-06 | [`onyx-fire.com`](https://google.com/search?q=onyx-fire.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-09-06 | [`nobleweb.com`](https://google.com/search?q=nobleweb.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-09-06 | [`meroso.be`](https://google.com/search?q=meroso.be) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-09-06 | [`gormanusa.com`](https://google.com/search?q=gormanusa.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
