@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-09-19 | [`University Obrany - Press Release`](https://google.com/search?q=University+Obrany+-+Press+Release) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
+| 2023-09-19 | [`fersan.com.tr`](https://google.com/search?q=fersan.com.tr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-09-19 | [`Announcement: Groupe Fructa Partner will be leaked soon`](https://google.com/search?q=Announcement%3A+Groupe+Fructa+Partner+will+be+leaked+soon) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
 | 2023-09-19 | [`American University of Antigua`](https://google.com/search?q=American+University+of+Antigua) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-09-19 | [`Gossler, Gobert &amp; Wolters Group.`](https://google.com/search?q=Gossler%2C+Gobert+%26amp%3B+Wolters+Group.) | [donutleaks](https://ransomwatch.telemetry.ltd/#/profiles?id=donutleaks) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-09-07 | [`West Craft Manufacturing`](https://google.com/search?q=West+Craft+Manufacturing) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2023-09-07 | [`Specialised Management Services`](https://google.com/search?q=Specialised+Management+Services) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2023-09-06 | [`ragasa.com.mx`](https://google.com/search?q=ragasa.com.mx) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-09-06 | [`qsoftnet.com`](https://google.com/search?q=qsoftnet.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-09-06 | [`protosign.it`](https://google.com/search?q=protosign.it) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
