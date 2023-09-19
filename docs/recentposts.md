@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-09-19 | [`Hacketts printing services`](https://google.com/search?q=Hacketts+printing+services) | [knight](https://ransomwatch.telemetry.ltd/#/profiles?id=knight) |
 | 2023-09-18 | [`CEFCO`](https://google.com/search?q=CEFCO) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
 | 2023-09-18 | [`ZILLI`](https://google.com/search?q=ZILLI) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
 | 2023-09-18 | [`Florida Department of Veterans&#039; Affairs`](https://google.com/search?q=Florida+Department+of+Veterans%26%23039%3B+Affairs) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-09-06 | [`meroso.be`](https://google.com/search?q=meroso.be) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-09-06 | [`gormanusa.com`](https://google.com/search?q=gormanusa.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-09-06 | [`concrejato.com.br`](https://google.com/search?q=concrejato.com.br) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-09-06 | [`Smead`](https://google.com/search?q=Smead) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
