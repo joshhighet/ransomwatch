@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-09-20 | [`ENTRUST Solutions%20Group`](https://google.com/search?q=ENTRUST+Solutions%2520Group) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
+| 2023-09-20 | [`Bacon Universal`](https://google.com/search?q=Bacon+Universal) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
+| 2023-09-20 | [`Spuncast`](https://google.com/search?q=Spuncast) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2023-09-20 | [`www.kuengbern.ch`](https://google.com/search?q=www.kuengbern.ch) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-09-20 | [`payrollselectservices.com`](https://google.com/search?q=payrollselectservices.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-09-20 | [`https://www.portesa.es/en`](https://google.com/search?q=https%3A%2F%2Fwww.portesa.es%2Fen) | [trigona](https://ransomwatch.telemetry.ltd/#/profiles?id=trigona) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2023-09-07 | [`pvc-ms`](https://google.com/search?q=pvc-ms) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
 | 2023-09-07 | [`FOCUS Business Solutions`](https://google.com/search?q=FOCUS+Business+Solutions) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
 | 2023-09-07 | [`www.omniatel.it`](https://google.com/search?q=www.omniatel.it) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
-| 2023-09-07 | [`Conselho Superior da Justiça do Trabalho`](https://google.com/search?q=Conselho+Superior+da+Justi%C3%A7a+do+Trabalho) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-09-07 | [`K***** **** ***********`](https://google.com/search?q=K%2A%2A%2A%2A%2A+%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2023-09-07 | [`Trimaran Capital Partners`](https://google.com/search?q=Trimaran+Capital+Partners) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
