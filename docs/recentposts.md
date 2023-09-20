@@ -4,6 +4,12 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-09-20 | [`Axis Elevators`](https://google.com/search?q=Axis+Elevators) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
+| 2023-09-20 | [`Chait`](https://google.com/search?q=Chait) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
+| 2023-09-20 | [`Gulf American Lines`](https://google.com/search?q=Gulf+American+Lines) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
+| 2023-09-20 | [`constantinecannon.com`](https://google.com/search?q=constantinecannon.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-09-20 | [`compass-inc.com`](https://google.com/search?q=compass-inc.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-09-20 | [`bauscherhepp.com`](https://google.com/search?q=bauscherhepp.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-09-20 | [`Federal Labor%20Relations%20Authority`](https://google.com/search?q=Federal+Labor%2520Relations%2520Authority) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2023-09-20 | [`Leoch Battery`](https://google.com/search?q=Leoch+Battery) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2023-09-20 | [`hwwealth.com`](https://google.com/search?q=hwwealth.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -198,9 +204,3 @@ _last `200` posts_
 | 2023-09-08 | [`hanwha.com`](https://google.com/search?q=hanwha.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-09-08 | [`atWork Office Furniture`](https://google.com/search?q=atWork+Office+Furniture) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2023-09-08 | [`BRiC Partnership`](https://google.com/search?q=BRiC+Partnership) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2023-09-08 | [`Custom Powder Systems`](https://google.com/search?q=Custom+Powder+Systems) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2023-09-08 | [`JSS Almonds`](https://google.com/search?q=JSS+Almonds) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2023-09-08 | [`notairedoicesco.be`](https://google.com/search?q=notairedoicesco.be) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
-| 2023-09-08 | [`wacoal-america.com`](https://google.com/search?q=wacoal-america.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
-| 2023-09-07 | [`Chambersburg Area School District`](https://google.com/search?q=Chambersburg+Area+School+District) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
-| 2023-09-07 | [`24/7 Express Logistics (Unpay)`](https://google.com/search?q=24%2F7+Express+Logistics+%28Unpay%29) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
