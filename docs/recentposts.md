@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-09-20 | [`payrollselectservices.com`](https://google.com/search?q=payrollselectservices.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-09-20 | [`https://www.portesa.es/en`](https://google.com/search?q=https%3A%2F%2Fwww.portesa.es%2Fen) | [trigona](https://ransomwatch.telemetry.ltd/#/profiles?id=trigona) |
 | 2023-09-20 | [`Al Ashram Contracting`](https://google.com/search?q=Al+Ashram+Contracting) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-09-19 | [`University Obrany - Press Release`](https://google.com/search?q=University+Obrany+-+Press+Release) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-09-07 | [`K***** **** ***********`](https://google.com/search?q=K%2A%2A%2A%2A%2A+%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-09-07 | [`Trimaran Capital Partners`](https://google.com/search?q=Trimaran+Capital+Partners) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2023-09-07 | [`TORMAX USA`](https://google.com/search?q=TORMAX+USA) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2023-09-07 | [`West Craft Manufacturing`](https://google.com/search?q=West+Craft+Manufacturing) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
