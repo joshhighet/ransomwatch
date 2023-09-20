@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-09-20 | [`Federal Labor%20Relations%20Authority`](https://google.com/search?q=Federal+Labor%2520Relations%2520Authority) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
+| 2023-09-20 | [`Leoch Battery`](https://google.com/search?q=Leoch+Battery) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
+| 2023-09-20 | [`hwwealth.com`](https://google.com/search?q=hwwealth.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-09-20 | [`ENTRUST Solutions%20Group`](https://google.com/search?q=ENTRUST+Solutions%2520Group) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2023-09-20 | [`Bacon Universal`](https://google.com/search?q=Bacon+Universal) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2023-09-20 | [`Spuncast`](https://google.com/search?q=Spuncast) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2023-09-08 | [`wacoal-america.com`](https://google.com/search?q=wacoal-america.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2023-09-07 | [`Chambersburg Area School District`](https://google.com/search?q=Chambersburg+Area+School+District) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
 | 2023-09-07 | [`24/7 Express Logistics (Unpay)`](https://google.com/search?q=24%2F7+Express+Logistics+%28Unpay%29) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
-| 2023-09-07 | [`pvc-ms`](https://google.com/search?q=pvc-ms) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
-| 2023-09-07 | [`FOCUS Business Solutions`](https://google.com/search?q=FOCUS+Business+Solutions) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
-| 2023-09-07 | [`www.omniatel.it`](https://google.com/search?q=www.omniatel.it) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
