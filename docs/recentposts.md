@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-09-21 | [`Hawkins Delafield Wood`](https://google.com/search?q=Hawkins+Delafield+Wood) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
+| 2023-09-21 | [`NOVEXCO`](https://google.com/search?q=NOVEXCO) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-09-21 | [`Radley and Co`](https://google.com/search?q=Radley+and+Co) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2023-09-20 | [`messner.com`](https://google.com/search?q=messner.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-09-20 | [`Axis Elevators`](https://google.com/search?q=Axis+Elevators) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-09-08 | [`sd69.org`](https://google.com/search?q=sd69.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-09-08 | [`monaco-technologies.com`](https://google.com/search?q=monaco-technologies.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-09-08 | [`UNIVERSAL REALTY GROUP`](https://google.com/search?q=UNIVERSAL+REALTY+GROUP) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-09-08 | [`Geo Tek`](https://google.com/search?q=Geo+Tek) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2023-09-08 | [`hanwha.com`](https://google.com/search?q=hanwha.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
