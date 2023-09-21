@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-09-21 | [`Cosal is a company that distributes personal and confidential data of its customers and re`](https://google.com/search?q=Cosal+is+a+company+that+distributes+personal+and+confidential+data+of+its+customers+and+re) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
+| 2023-09-21 | [`ende.co.ao is a company you can test corporate network hack on and have 100% hacking succe`](https://google.com/search?q=ende.co.ao+is+a+company+you+can+test+corporate+network+hack+on+and+have+100%25+hacking+succe) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-09-21 | [`Unique Engineering is the most collaborative and dangerous construction company in Asia`](https://google.com/search?q=Unique+Engineering+is+the+most+collaborative+and+dangerous+construction+company+in+Asia) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-09-21 | [`Arail`](https://google.com/search?q=Arail) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-09-21 | [`Announcement: Stratesys solutions going to be leaked`](https://google.com/search?q=Announcement%3A+Stratesys+solutions+going+to+be+leaked) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-09-08 | [`SKF.com`](https://google.com/search?q=SKF.com) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
 | 2023-09-08 | [`Swipe.bg`](https://google.com/search?q=Swipe.bg) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
 | 2023-09-08 | [`Balmit Bulgaria`](https://google.com/search?q=Balmit+Bulgaria) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
-| 2023-09-08 | [`easydentalcare.us`](https://google.com/search?q=easydentalcare.us) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
-| 2023-09-08 | [`quantinuum.com`](https://google.com/search?q=quantinuum.com) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
