@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-09-21 | [`Announcement: Stratesys solutions going to b`](https://google.com/search?q=Announcement%3A+Stratesys+solutions+going+to+b) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
 | 2023-09-21 | [`C****** ***** ***m**********`](https://google.com/search?q=C%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A+%2A%2A%2Am%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-09-21 | [`Road Safety`](https://google.com/search?q=Road+Safety) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-09-21 | [`Smartfren Telecom`](https://google.com/search?q=Smartfren+Telecom) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-09-08 | [`laasr.eu`](https://google.com/search?q=laasr.eu) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
 | 2023-09-08 | [`medcenter-tambov.ru`](https://google.com/search?q=medcenter-tambov.ru) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
 | 2023-09-08 | [`makflix.eu`](https://google.com/search?q=makflix.eu) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
-| 2023-09-08 | [`nucleus.live`](https://google.com/search?q=nucleus.live) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
