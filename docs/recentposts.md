@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-09-22 | [`Announcement: Skatax Accounting company going to be leaked`](https://google.com/search?q=Announcement%3A+Skatax+Accounting+company+going+to+be+leaked) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
 | 2023-09-22 | [`pelmorex.com`](https://google.com/search?q=pelmorex.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-09-22 | [`Carlo Ditta`](https://google.com/search?q=Carlo+Ditta) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-09-22 | [`Yusen Logistics`](https://google.com/search?q=Yusen+Logistics) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-09-08 | [`airelec.bg`](https://google.com/search?q=airelec.bg) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
 | 2023-09-08 | [`pilini.bg`](https://google.com/search?q=pilini.bg) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
 | 2023-09-08 | [`kasida.bg`](https://google.com/search?q=kasida.bg) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
-| 2023-09-08 | [`www.northriverco.com`](https://google.com/search?q=www.northriverco.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
