@@ -3,16 +3,14 @@
 - [jdl-84/ransomwatchviewer:](https://jdl-84.github.io/RansomWatchViewer/) _an alternate post visualiser, retro style_
 - [AyoobAli/ransomwatch-cli:](https://github.com/AyoobAli/ransomwatch-cli) _a CLI to browse and query ransomwatch data_
 
-## educational
-
-- [ransomwatch & Jupyter Notebooks](https://kc7cyber.com/learning-module/keeping-up-to-date-with-ransomware-leak-sites/) _- a learning module by KC7_
-- [keyword matching posts for monitoring/alerting](https://www.youtube.com/watch?v=cVDGmKxbKnI) _- youtube, Sh1katagana1_
-
 ## aggregators
 - [vxunderground/ThreatIntelligenceDiscordBot](https://github.com/vxunderground/ThreatIntelligenceDiscordBot) _an aggregated CTI bot used with Discord, monitoring a number of mediums and blogs, ransomwatch data included_
 - [jjsantanna/aggregator:](https://github.com/jjsantanna/aggregator_crawlers_lists_ransomware_groups_leaksites)_a Jupyter Notebook which merges and collates various ransomwatch-style platforms into a single view_
-- [uforia/MatterBot](https://github.com/uforia/MatterBot) _a bot framework to aggregate intelligence feeds within Mattermost_
-- [@ransomwatch@infosec.exchange](https://infosec.exchange/@ransomwatch) _a mastodon bot that shares the recent posts_
+
+## chatbots
+- [uforia/MatterBot](https://github.com/uforia/MatterBot) _a Mattermost bot for ransomwatch_
+- [@ransomwatch@infosec.exchange](https://infosec.exchange/@ransomwatch) _a Mastodon bot for ransomwatch_
+- [0xGrizzly/slackRansomwareFeed](https://github.com/0xGrizzly/slackRansomwareFeed) _a Slack bot for ransomwatch_
 ## citations
 
 - [ENISA - Threat Landscape for Ransomware Attacks 2022](https://www.enisa.europa.eu/publications/enisa-threat-landscape-for-ransomware-attacks)
@@ -21,6 +19,8 @@
 
 - [th3protocol.com:](https://www.th3protocol.com/2022/ChatGPT-LeakSite-Analysis) _using ChatGPT to visualize ransomware leak site data_
 - [OhShINT/ohshint.gitbook.io:](https://ohshint.gitbook.io/oh-shint-its-a-blog/) _an excellently curated repository OSINT resources, ransomwatch included_
+- [ransomwatch & Jupyter Notebooks](https://kc7cyber.com/learning-module/keeping-up-to-date-with-ransomware-leak-sites/) _- a learning module by KC7_
+- [keyword matching posts for monitoring/alerting](https://www.youtube.com/watch?v=cVDGmKxbKnI) _- youtube, Sh1katagana1_
 
 ## contributing forks
 
