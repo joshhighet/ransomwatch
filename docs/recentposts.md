@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-09-22 | [`Yusen Logistics`](https://google.com/search?q=Yusen+Logistics) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
+| 2023-09-22 | [`Retail House - Full Leak`](https://google.com/search?q=Retail+House+-+Full+Leak) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
 | 2023-09-22 | [`Hospice of Huntington`](https://google.com/search?q=Hospice+of+Huntington) | [karakurt](https://ransomwatch.telemetry.ltd/#/profiles?id=karakurt) |
 | 2023-09-22 | [`haciendazorita.com`](https://google.com/search?q=haciendazorita.com) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
 | 2023-09-22 | [`fi-tech.com`](https://google.com/search?q=fi-tech.com) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-09-08 | [`www.northriverco.com`](https://google.com/search?q=www.northriverco.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
 | 2023-09-08 | [`Low Keng Huat`](https://google.com/search?q=Low+Keng+Huat) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2023-09-08 | [`TransUnion`](https://google.com/search?q=TransUnion) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
-| 2023-09-08 | [`Jhooker`](https://google.com/search?q=Jhooker) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
-| 2023-09-08 | [`I&G Brokers`](https://google.com/search?q=I%26G+Brokers) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
