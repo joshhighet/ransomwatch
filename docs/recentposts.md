@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-09-22 | [`TAOGLAS`](https://google.com/search?q=TAOGLAS) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-09-21 | [`Auckland University of Technology`](https://google.com/search?q=Auckland+University+of+Technology) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2023-09-21 | [`Mole Valley Farmers`](https://google.com/search?q=Mole+Valley+Farmers) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-09-21 | [`ruko.de`](https://google.com/search?q=ruko.de) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-09-08 | [`Powersports Marketing`](https://google.com/search?q=Powersports+Marketing) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
 | 2023-09-08 | [`Hawaii Health System`](https://google.com/search?q=Hawaii+Health+System) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
 | 2023-09-08 | [`phms.com.au`](https://google.com/search?q=phms.com.au) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
-| 2023-09-08 | [`paynesvilleareainsurance.com`](https://google.com/search?q=paynesvilleareainsurance.com) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
