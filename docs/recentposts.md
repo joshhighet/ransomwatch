@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-09-22 | [`haciendazorita.com`](https://google.com/search?q=haciendazorita.com) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
+| 2023-09-22 | [`fi-tech.com`](https://google.com/search?q=fi-tech.com) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
+| 2023-09-22 | [`Yakima Valley Radiology`](https://google.com/search?q=Yakima+Valley+Radiology) | [karakurt](https://ransomwatch.telemetry.ltd/#/profiles?id=karakurt) |
 | 2023-09-22 | [`neuraxpharm.com`](https://google.com/search?q=neuraxpharm.com) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
 | 2023-09-22 | [`Holon Institute of Technology`](https://google.com/search?q=Holon+Institute+of+Technology) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2023-09-22 | [`PainCare`](https://google.com/search?q=PainCare) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2023-09-08 | [`Jhooker`](https://google.com/search?q=Jhooker) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
 | 2023-09-08 | [`I&G Brokers`](https://google.com/search?q=I%26G+Brokers) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
 | 2023-09-08 | [`Optimity.co.uk`](https://google.com/search?q=Optimity.co.uk) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
-| 2023-09-08 | [`StateFarm`](https://google.com/search?q=StateFarm) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
-| 2023-09-08 | [`S&P`](https://google.com/search?q=S%26P) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
-| 2023-09-08 | [`MetroClub.org`](https://google.com/search?q=MetroClub.org) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
