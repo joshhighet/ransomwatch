@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-09-22 | [`Agilitas IT%20Solutions%20Limited`](https://google.com/search?q=Agilitas+IT%2520Solutions%2520Limited) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2023-09-22 | [`CLX Logistics`](https://google.com/search?q=CLX+Logistics) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-09-22 | [`Pik Rite`](https://google.com/search?q=Pik+Rite) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-09-22 | [`Progressive Leasing ( 40 million Customers PII Data )`](https://google.com/search?q=Progressive+Leasing+%28+40+million+Customers+PII+Data+%29) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-09-10 | [`njsba.com`](https://google.com/search?q=njsba.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
 | 2023-09-09 | [`Kirby Risk`](https://google.com/search?q=Kirby+Risk) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
 | 2023-09-09 | [`moreschi.it`](https://google.com/search?q=moreschi.it) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
-| 2023-09-09 | [`olx.com`](https://google.com/search?q=olx.com) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
