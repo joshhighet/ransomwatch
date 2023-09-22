@@ -11,10 +11,12 @@
 - [uforia/MatterBot](https://github.com/uforia/MatterBot) _a Mattermost bot for ransomwatch_
 - [@ransomwatch@infosec.exchange](https://infosec.exchange/@ransomwatch) _a Mastodon bot for ransomwatch_
 - [0xGrizzly/slackRansomwareFeed](https://github.com/0xGrizzly/slackRansomwareFeed) _a Slack bot for ransomwatch_
+
 ## citations
 
 - [ENISA - Threat Landscape for Ransomware Attacks 2022](https://www.enisa.europa.eu/publications/enisa-threat-landscape-for-ransomware-attacks)
 - [BCSC - A deep dive on Cl0p](https://www.zibersegurtasun.eus/sites/default/files/2023-03/BCSC-Malware-Clop_V1-TLPClear_0.pdf)
+
 ## blogs & resources
 
 - [th3protocol.com:](https://www.th3protocol.com/2022/ChatGPT-LeakSite-Analysis) _using ChatGPT to visualize ransomware leak site data_
