@@ -11,3 +11,81 @@
 <body>
 <div class="wrapper">
     
+<div id="UUID" class="mainModal">
+    <div class="modalUUID">
+        <a href="" title="Close" class="close">X</a>
+        <h2>ENTER UUID</h2>
+        <p>
+            To contact us, you must enter your personal UUID in the field below and press ENTER.
+            After logging in, you will receive detailed information about your company.
+        </p>
+        <form action="" method="post">
+            <input
+                    class="uuid-input"
+                    name="uuid"
+                    type="text"
+                    minlength="20"
+                    required
+                    placeholder="XXXX-XXXX-XXXX-XXXX"
+            />
+            <input type="hidden" name="uuid_redirect">
+            <input type="submit" value="ENTER" />
+        </form>
+        <p class="gotofb">
+            If you do not have UUID, please contact via the
+            <a href="#feedback">feedback</a> form
+        </p>
+    </div>
+</div>
+<div id="feedback" class="mainModal">
+    <div class="modalFeedback">
+        <a href="#close" title="Закрыть" class="close">X</a>
+        <h2>Feedback</h2>
+        <p>
+            If you are the owner of the company you can leave your contact details and you will be provided with a UUID to enter the chat. If you are a media outlet, leave your contacts and we will contact you very soon.
+        </p>
+        <form action="" method="post">
+            <input
+                    name="feedback-name"
+                    required
+                    autocomplete="on"
+                    id="1"
+                    type="text"
+                    placeholder="Your name"
+            />
+            <input
+                    id="2"
+                    required
+                    name="feedback-contacts"
+                    autocomplete="on"
+                    type="email"
+                    placeholder="Your email"
+            />
+            <textarea
+                    name="feedback-message"
+                    required
+                    id="3"
+                    cols="30"
+                    rows="4"
+                    minlength="20"
+                    placeholder="Your message"
+            ></textarea>
+            <img src="data:image/jpeg;base64,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" alt="Enable images to see captcha" width="200" height="60"/>
+            <input
+                    name="captcha"
+                    required
+                    id="captcha"
+                    type="text"
+                    placeholder="Complete captcha"
+            />
+            <input type="hidden" name="gc_value" value="$2y$10$fLJ5SnccWvJD7eiElfI40uZhJyjjs18o0xBhukJfDu/1XgNGeCery">
+            <input type="hidden" name="feedback_form">
+            <input type="submit" value="SEND" />
+        </form>
+    </div>
+</div>
+<div id="public_notice" class="mainModal">
+    <div class="modalNotice">
+        <a href="" title="Close" class="close">X</a>
+        
+        
