@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-09-23 | [`FabricATE Engineering`](https://google.com/search?q=FabricATE+Engineering) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2023-09-23 | [`The Envelope Works Ltd`](https://google.com/search?q=The+Envelope+Works+Ltd) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-09-23 | [`Ort Harmelin College of Engineering`](https://google.com/search?q=Ort+Harmelin+College+of+Engineering) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2023-09-22 | [`precisionpractice.com`](https://google.com/search?q=precisionpractice.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-09-22 | [`marshallindtech.com`](https://google.com/search?q=marshallindtech.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-09-11 | [`Core Desktop`](https://google.com/search?q=Core+Desktop) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2023-09-11 | [`co.grant.mn.us`](https://google.com/search?q=co.grant.mn.us) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-09-11 | [`Ford Covesa`](https://google.com/search?q=Ford+Covesa) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-09-10 | [`New Venture Escrow`](https://google.com/search?q=New+Venture+Escrow) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2023-09-10 | [`BOZOVICH TIMBER PRODUCTS INC`](https://google.com/search?q=BOZOVICH+TIMBER+PRODUCTS+INC) | [mallox](https://ransomwatch.telemetry.ltd/#/profiles?id=mallox) |
