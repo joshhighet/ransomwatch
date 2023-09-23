@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-09-23 | [`Ort Harmelin College of Engineering`](https://google.com/search?q=Ort+Harmelin+College+of+Engineering) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2023-09-22 | [`precisionpractice.com`](https://google.com/search?q=precisionpractice.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-09-22 | [`marshallindtech.com`](https://google.com/search?q=marshallindtech.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-09-22 | [`Agilitas IT%20Solutions%20Limited`](https://google.com/search?q=Agilitas+IT%2520Solutions%2520Limited) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-09-11 | [`Ford Covesa`](https://google.com/search?q=Ford+Covesa) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-09-10 | [`New Venture Escrow`](https://google.com/search?q=New+Venture+Escrow) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-09-10 | [`BOZOVICH TIMBER PRODUCTS INC`](https://google.com/search?q=BOZOVICH+TIMBER+PRODUCTS+INC) | [mallox](https://ransomwatch.telemetry.ltd/#/profiles?id=mallox) |
-| 2023-09-10 | [`njsba.com`](https://google.com/search?q=njsba.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
