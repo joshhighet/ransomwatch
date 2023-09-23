@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-09-23 | [`arelion.com`](https://google.com/search?q=arelion.com) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
 | 2023-09-23 | [`Clarion is the most dangerous electronics to use that can cause you to be hacked`](https://google.com/search?q=Clarion+is+the+most+dangerous+electronics+to+use+that+can+cause+you+to+be+hacked) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-09-23 | [`interep`](https://google.com/search?q=interep) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
 | 2023-09-23 | [`bpr-properties.com`](https://google.com/search?q=bpr-properties.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-09-11 | [`Levine Bagade Han`](https://google.com/search?q=Levine+Bagade+Han) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2023-09-11 | [`cfsigroup.ca`](https://google.com/search?q=cfsigroup.ca) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-09-11 | [`KUITS Solicitors`](https://google.com/search?q=KUITS+Solicitors) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-09-11 | [`Wave Hill`](https://google.com/search?q=Wave+Hill) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
