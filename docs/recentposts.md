@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-09-23 | [`Franktronics, Inc`](https://google.com/search?q=Franktronics%2C+Inc) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
+| 2023-09-23 | [`Philippine Health Insurance `](https://google.com/search?q=Philippine+Health+Insurance+) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
+| 2023-09-23 | [`F Hinds`](https://google.com/search?q=F+Hinds) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-09-23 | [`FabricATE Engineering`](https://google.com/search?q=FabricATE+Engineering) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-09-23 | [`The Envelope Works Ltd`](https://google.com/search?q=The+Envelope+Works+Ltd) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-09-23 | [`Ort Harmelin College of Engineering`](https://google.com/search?q=Ort+Harmelin+College+of+Engineering) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2023-09-11 | [`Steripharma `](https://google.com/search?q=Steripharma+) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-09-11 | [`IT-Center Syd`](https://google.com/search?q=IT-Center+Syd) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2023-09-11 | [`Singing River Health System`](https://google.com/search?q=Singing+River+Health+System) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2023-09-11 | [`Core Desktop`](https://google.com/search?q=Core+Desktop) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2023-09-11 | [`co.grant.mn.us`](https://google.com/search?q=co.grant.mn.us) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-09-11 | [`Ford Covesa`](https://google.com/search?q=Ford+Covesa) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
