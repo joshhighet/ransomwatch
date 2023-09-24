@@ -4,6 +4,16 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-09-24 | [`mango.bg`](https://google.com/search?q=mango.bg) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
+| 2023-09-24 | [`ebag.bg`](https://google.com/search?q=ebag.bg) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
+| 2023-09-24 | [`popolo.bg`](https://google.com/search?q=popolo.bg) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
+| 2023-09-24 | [`andrews.bg`](https://google.com/search?q=andrews.bg) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
+| 2023-09-24 | [`ardes.bg`](https://google.com/search?q=ardes.bg) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
+| 2023-09-24 | [`myshoes.bg`](https://google.com/search?q=myshoes.bg) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
+| 2023-09-24 | [`ecco.bg`](https://google.com/search?q=ecco.bg) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
+| 2023-09-24 | [`districtshoes.bg`](https://google.com/search?q=districtshoes.bg) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
+| 2023-09-24 | [`footshop.bg`](https://google.com/search?q=footshop.bg) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
+| 2023-09-24 | [`Punto.bg`](https://google.com/search?q=Punto.bg) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
 | 2023-09-23 | [`arelion.com`](https://google.com/search?q=arelion.com) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
 | 2023-09-23 | [`Clarion is the most dangerous electronics to use that can cause you to be hacked`](https://google.com/search?q=Clarion+is+the+most+dangerous+electronics+to+use+that+can+cause+you+to+be+hacked) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-09-23 | [`interep`](https://google.com/search?q=interep) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
@@ -194,13 +204,3 @@ _last `200` posts_
 | 2023-09-11 | [`Cmranallolaw.com`](https://google.com/search?q=Cmranallolaw.com) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2023-09-11 | [`Unimarketing`](https://google.com/search?q=Unimarketing) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2023-09-11 | [`Wardlaw Claims Service`](https://google.com/search?q=Wardlaw+Claims+Service) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2023-09-11 | [`Hospice`](https://google.com/search?q=Hospice) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2023-09-11 | [`**** **e ******e* ***e*********`](https://google.com/search?q=%2A%2A%2A%2A+%2A%2Ae+%2A%2A%2A%2A%2A%2Ae%2A+%2A%2A%2Ae%2A%2A%2A%2A%2A%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2023-09-11 | [`*e**** and Co. Ltd.`](https://google.com/search?q=%2Ae%2A%2A%2A%2A+and+Co.+Ltd.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2023-09-11 | [`I************ *********l Ltd.`](https://google.com/search?q=I%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A%2A%2Al+Ltd.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2023-09-11 | [`Leekes`](https://google.com/search?q=Leekes) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2023-09-11 | [`My Insurance Broker`](https://google.com/search?q=My+Insurance+Broker) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2023-09-11 | [`weew`](https://google.com/search?q=weew) | [mallox](https://ransomwatch.telemetry.ltd/#/profiles?id=mallox) |
-| 2023-09-11 | [`Levine Bagade Han`](https://google.com/search?q=Levine+Bagade+Han) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2023-09-11 | [`cfsigroup.ca`](https://google.com/search?q=cfsigroup.ca) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-09-11 | [`KUITS Solicitors`](https://google.com/search?q=KUITS+Solicitors) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
