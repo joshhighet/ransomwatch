@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-09-24 | [`SONY.COM`](https://google.com/search?q=SONY.COM) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
+| 2023-09-24 | [`altmanplants.com`](https://google.com/search?q=altmanplants.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-09-24 | [`www.leekes.co.uk`](https://google.com/search?q=www.leekes.co.uk) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-09-24 | [`bnm.bg`](https://google.com/search?q=bnm.bg) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
 | 2023-09-24 | [`epson`](https://google.com/search?q=epson) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-09-11 | [`ijc.org`](https://google.com/search?q=ijc.org) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-09-11 | [`24/7 Express Logistics (Unpay-Start Leaking)`](https://google.com/search?q=24%2F7+Express+Logistics+%28Unpay-Start+Leaking%29) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
 | 2023-09-11 | [`deeroaks.com`](https://google.com/search?q=deeroaks.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-09-11 | [`www.adsage.com`](https://google.com/search?q=www.adsage.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
-| 2023-09-11 | [`www.altmanndental.de`](https://google.com/search?q=www.altmanndental.de) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
