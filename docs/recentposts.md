@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-09-25 | [`J.T. Cullen Co., Inc.`](https://google.com/search?q=J.T.+Cullen+Co.%2C+Inc.) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2023-09-25 | [`Springer Eubank`](https://google.com/search?q=Springer+Eubank) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-09-24 | [`MNGI Digestive Health2`](https://google.com/search?q=MNGI+Digestive+Health2) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-09-24 | [`SONY.COM`](https://google.com/search?q=SONY.COM) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
 | 2023-09-24 | [`altmanplants.com`](https://google.com/search?q=altmanplants.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-09-12 | [`Derrimon Trading was hacked. Critical data of the company and its customers was stolen`](https://google.com/search?q=Derrimon+Trading+was+hacked.+Critical+data+of+the+company+and+its+customers+was+stolen) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-09-11 | [`Alps Alpine`](https://google.com/search?q=Alps+Alpine) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
 | 2023-09-11 | [`cortel.com`](https://google.com/search?q=cortel.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
-| 2023-09-11 | [`ijc.org`](https://google.com/search?q=ijc.org) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
-| 2023-09-11 | [`24/7 Express Logistics (Unpay-Start Leaking)`](https://google.com/search?q=24%2F7+Express+Logistics+%28Unpay-Start+Leaking%29) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
