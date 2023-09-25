@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-09-25 | [`zzcoldstores.com`](https://google.com/search?q=zzcoldstores.com) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
+| 2023-09-25 | [`ZZColdstores`](https://google.com/search?q=ZZColdstores) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-09-25 | [`NTT Docomo - Japan 1st Mobile Operator`](https://google.com/search?q=NTT+Docomo+-+Japan+1st+Mobile+Operator) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
 | 2023-09-25 | [`Nusmiles Hospital`](https://google.com/search?q=Nusmiles+Hospital) | [knight](https://ransomwatch.telemetry.ltd/#/profiles?id=knight) |
 | 2023-09-25 | [`Stratesys Full data leak`](https://google.com/search?q=Stratesys+Full+data+leak) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-09-12 | [`Morgan Smith Industries LLC`](https://google.com/search?q=Morgan+Smith+Industries+LLC) | [knight](https://ransomwatch.telemetry.ltd/#/profiles?id=knight) |
 | 2023-09-12 | [`Decarie Motors Inc`](https://google.com/search?q=Decarie+Motors+Inc) | [knight](https://ransomwatch.telemetry.ltd/#/profiles?id=knight) |
 | 2023-09-12 | [`SEIKO GROUP CORPORATION`](https://google.com/search?q=SEIKO+GROUP+CORPORATION) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-09-12 | [`M-Extend / MANIP`](https://google.com/search?q=M-Extend+%2F+MANIP) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-09-12 | [`sinloc.com`](https://google.com/search?q=sinloc.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
