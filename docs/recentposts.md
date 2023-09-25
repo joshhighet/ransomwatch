@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-09-25 | [`Ministry Of Finance (Kuwait)`](https://google.com/search?q=Ministry+Of+Finance+%28Kuwait%29) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
+| 2023-09-25 | [`Praxis Arndt und Langer`](https://google.com/search?q=Praxis+Arndt+und+Langer) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-09-25 | [`PRETZEL-STOUFFER`](https://google.com/search?q=PRETZEL-STOUFFER) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-09-25 | [`J.T. Cullen Co., Inc.`](https://google.com/search?q=J.T.+Cullen+Co.%2C+Inc.) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-09-25 | [`Springer Eubank`](https://google.com/search?q=Springer+Eubank) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-09-12 | [`BF&S Civil Engineers`](https://google.com/search?q=BF%26S+Civil+Engineers) | [lorenz](https://ransomwatch.telemetry.ltd/#/profiles?id=lorenz) |
 | 2023-09-12 | [`Dee Sign`](https://google.com/search?q=Dee+Sign) | [lorenz](https://ransomwatch.telemetry.ltd/#/profiles?id=lorenz) |
 | 2023-09-12 | [`Credifiel was hacked and a lot of personal customer and financial information was stolen`](https://google.com/search?q=Credifiel+was+hacked+and+a+lot+of+personal+customer+and+financial+information+was+stolen) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-09-12 | [`Derrimon Trading was hacked. Critical data of the company and its customers was stolen`](https://google.com/search?q=Derrimon+Trading+was+hacked.+Critical+data+of+the+company+and+its+customers+was+stolen) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-09-11 | [`Alps Alpine`](https://google.com/search?q=Alps+Alpine) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
