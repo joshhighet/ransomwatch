@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-09-25 | [`Nusmiles Hospital`](https://google.com/search?q=Nusmiles+Hospital) | [knight](https://ransomwatch.telemetry.ltd/#/profiles?id=knight) |
 | 2023-09-25 | [`Stratesys Full data leak`](https://google.com/search?q=Stratesys+Full+data+leak) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
 | 2023-09-25 | [`Ministry Of Finance (Kuwait)`](https://google.com/search?q=Ministry+Of+Finance+%28Kuwait%29) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2023-09-25 | [`Praxis Arndt und Langer`](https://google.com/search?q=Praxis+Arndt+und+Langer) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-09-12 | [`M-Extend / MANIP`](https://google.com/search?q=M-Extend+%2F+MANIP) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-09-12 | [`sinloc.com`](https://google.com/search?q=sinloc.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-09-12 | [`BF&S Civil Engineers`](https://google.com/search?q=BF%26S+Civil+Engineers) | [lorenz](https://ransomwatch.telemetry.ltd/#/profiles?id=lorenz) |
-| 2023-09-12 | [`Dee Sign`](https://google.com/search?q=Dee+Sign) | [lorenz](https://ransomwatch.telemetry.ltd/#/profiles?id=lorenz) |
