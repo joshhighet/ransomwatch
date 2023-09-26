@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-09-26 | [`www.scara.fr`](https://google.com/search?q=www.scara.fr) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
+| 2023-09-26 | [`CannonDesign`](https://google.com/search?q=CannonDesign) | [dunghill_leak](https://ransomwatch.telemetry.ltd/#/profiles?id=dunghill_leak) |
 | 2023-09-26 | [`Robins & Morton`](https://google.com/search?q=Robins+%26+Morton) | [dunghill_leak](https://ransomwatch.telemetry.ltd/#/profiles?id=dunghill_leak) |
 | 2023-09-26 | [`siameseasset.co.th`](https://google.com/search?q=siameseasset.co.th) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2023-09-26 | [`Arazoza Brothers`](https://google.com/search?q=Arazoza+Brothers) | [losttrust](https://ransomwatch.telemetry.ltd/#/profiles?id=losttrust) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-09-18 | [`https://www.grupoboreal.com.ar`](https://google.com/search?q=https%3A%2F%2Fwww.grupoboreal.com.ar) | [trigona](https://ransomwatch.telemetry.ltd/#/profiles?id=trigona) |
 | 2023-09-18 | [`Dustin J Will LCC / Dustin J Will Sole MBR`](https://google.com/search?q=Dustin+J+Will+LCC+%2F+Dustin+J+Will+Sole+MBR) | [knight](https://ransomwatch.telemetry.ltd/#/profiles?id=knight) |
 | 2023-09-18 | [`Lopez & Associates Inc`](https://google.com/search?q=Lopez+%26+Associates+Inc) | [knight](https://ransomwatch.telemetry.ltd/#/profiles?id=knight) |
-| 2023-09-18 | [`Auckland Transport`](https://google.com/search?q=Auckland+Transport) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
-| 2023-09-18 | [`cucs.org`](https://google.com/search?q=cucs.org) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
