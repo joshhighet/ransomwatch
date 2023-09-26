@@ -4,6 +4,14 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-09-26 | [`C***** - *`](https://google.com/search?q=C%2A%2A%2A%2A%2A+-+%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2023-09-26 | [`Kramer Tree Specialists, Inc`](https://google.com/search?q=Kramer+Tree+Specialists%2C+Inc) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2023-09-26 | [`N****** O***********`](https://google.com/search?q=N%2A%2A%2A%2A%2A%2A+O%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2023-09-26 | [`P******* U**********`](https://google.com/search?q=P%2A%2A%2A%2A%2A%2A%2A+U%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2023-09-26 | [`T****** H********** G****`](https://google.com/search?q=T%2A%2A%2A%2A%2A%2A+H%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A+G%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2023-09-26 | [`W***** C***** A******** D******* D*****`](https://google.com/search?q=W%2A%2A%2A%2A%2A+C%2A%2A%2A%2A%2A+A%2A%2A%2A%2A%2A%2A%2A%2A+D%2A%2A%2A%2A%2A%2A%2A+D%2A%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2023-09-26 | [`Lutheran Church and Preschool`](https://google.com/search?q=Lutheran+Church+and+Preschool) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2023-09-26 | [`Saint Mark Catholic Church`](https://google.com/search?q=Saint+Mark+Catholic+Church) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-09-26 | [`WEBBER RESTAURANT GROUP`](https://google.com/search?q=WEBBER+RESTAURANT+GROUP) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-09-26 | [`Pond Security`](https://google.com/search?q=Pond+Security) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-09-26 | [`SUD TRADING COMPANY`](https://google.com/search?q=SUD+TRADING+COMPANY) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
@@ -196,11 +204,3 @@ _last `200` posts_
 | 2023-09-14 | [`www.fondation-vincent-de-paul.org`](https://google.com/search?q=www.fondation-vincent-de-paul.org) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-09-14 | [`educal.mx`](https://google.com/search?q=educal.mx) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-09-13 | [`clearcreek.org`](https://google.com/search?q=clearcreek.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-09-13 | [`enpos`](https://google.com/search?q=enpos) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
-| 2023-09-13 | [`http://fscjamaica.org`](https://google.com/search?q=http%3A%2F%2Ffscjamaica.org) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
-| 2023-09-13 | [`Benefit Management INC`](https://google.com/search?q=Benefit+Management+INC) | [knight](https://ransomwatch.telemetry.ltd/#/profiles?id=knight) |
-| 2023-09-13 | [`Tanachira Group`](https://google.com/search?q=Tanachira+Group) | [knight](https://ransomwatch.telemetry.ltd/#/profiles?id=knight) |
-| 2023-09-13 | [`Dpc & S`](https://google.com/search?q=Dpc+%26+S) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-09-13 | [`Carpet One`](https://google.com/search?q=Carpet+One) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-09-13 | [`Markentrainer Werbeagentur, Elwema Automotive`](https://google.com/search?q=Markentrainer+Werbeagentur%2C+Elwema+Automotive) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-09-12 | [`Accuride`](https://google.com/search?q=Accuride) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
