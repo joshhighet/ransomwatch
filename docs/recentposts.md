@@ -4,6 +4,61 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-09-26 | [`Arazoza Brothers`](https://google.com/search?q=Arazoza+Brothers) | [losttrust](https://ransomwatch.telemetry.ltd/#/profiles?id=losttrust) |
+| 2023-09-26 | [`Popovici Niu Stoica &amp; Asociaii`](https://google.com/search?q=Popovici+Niu+Stoica+%26amp%3B+Asociaii) | [losttrust](https://ransomwatch.telemetry.ltd/#/profiles?id=losttrust) |
+| 2023-09-26 | [`Procab`](https://google.com/search?q=Procab) | [losttrust](https://ransomwatch.telemetry.ltd/#/profiles?id=losttrust) |
+| 2023-09-26 | [`Hoosier Uplands Economic Development`](https://google.com/search?q=Hoosier+Uplands+Economic+Development) | [losttrust](https://ransomwatch.telemetry.ltd/#/profiles?id=losttrust) |
+| 2023-09-26 | [`Oasys Technologies`](https://google.com/search?q=Oasys+Technologies) | [losttrust](https://ransomwatch.telemetry.ltd/#/profiles?id=losttrust) |
+| 2023-09-26 | [`Merced City School District`](https://google.com/search?q=Merced+City+School+District) | [losttrust](https://ransomwatch.telemetry.ltd/#/profiles?id=losttrust) |
+| 2023-09-26 | [`Morgan School District`](https://google.com/search?q=Morgan+School+District) | [losttrust](https://ransomwatch.telemetry.ltd/#/profiles?id=losttrust) |
+| 2023-09-26 | [`Ferguson Wellman`](https://google.com/search?q=Ferguson+Wellman) | [losttrust](https://ransomwatch.telemetry.ltd/#/profiles?id=losttrust) |
+| 2023-09-26 | [`TORMAX`](https://google.com/search?q=TORMAX) | [losttrust](https://ransomwatch.telemetry.ltd/#/profiles?id=losttrust) |
+| 2023-09-26 | [`Brown and Streza`](https://google.com/search?q=Brown+and+Streza) | [losttrust](https://ransomwatch.telemetry.ltd/#/profiles?id=losttrust) |
+| 2023-09-26 | [`Bit`](https://google.com/search?q=Bit) | [losttrust](https://ransomwatch.telemetry.ltd/#/profiles?id=losttrust) |
+| 2023-09-26 | [`Glassline`](https://google.com/search?q=Glassline) | [losttrust](https://ransomwatch.telemetry.ltd/#/profiles?id=losttrust) |
+| 2023-09-26 | [`SydganCorp`](https://google.com/search?q=SydganCorp) | [losttrust](https://ransomwatch.telemetry.ltd/#/profiles?id=losttrust) |
+| 2023-09-26 | [`Alexander City, Alabama`](https://google.com/search?q=Alexander+City%2C+Alabama) | [losttrust](https://ransomwatch.telemetry.ltd/#/profiles?id=losttrust) |
+| 2023-09-26 | [`SPEC Engineering`](https://google.com/search?q=SPEC+Engineering) | [losttrust](https://ransomwatch.telemetry.ltd/#/profiles?id=losttrust) |
+| 2023-09-26 | [`Jersey College`](https://google.com/search?q=Jersey+College) | [losttrust](https://ransomwatch.telemetry.ltd/#/profiles?id=losttrust) |
+| 2023-09-26 | [`JSM Group`](https://google.com/search?q=JSM+Group) | [losttrust](https://ransomwatch.telemetry.ltd/#/profiles?id=losttrust) |
+| 2023-09-26 | [`Key Construction`](https://google.com/search?q=Key+Construction) | [losttrust](https://ransomwatch.telemetry.ltd/#/profiles?id=losttrust) |
+| 2023-09-26 | [`Leiblein &amp; Kollegen Steuerberatungsgesellschaft`](https://google.com/search?q=Leiblein+%26amp%3B+Kollegen+Steuerberatungsgesellschaft) | [losttrust](https://ransomwatch.telemetry.ltd/#/profiles?id=losttrust) |
+| 2023-09-26 | [`Liberty Lines`](https://google.com/search?q=Liberty+Lines) | [losttrust](https://ransomwatch.telemetry.ltd/#/profiles?id=losttrust) |
+| 2023-09-26 | [`LoopLoc`](https://google.com/search?q=LoopLoc) | [losttrust](https://ransomwatch.telemetry.ltd/#/profiles?id=losttrust) |
+| 2023-09-26 | [`Reload SPA`](https://google.com/search?q=Reload+SPA) | [losttrust](https://ransomwatch.telemetry.ltd/#/profiles?id=losttrust) |
+| 2023-09-26 | [`Ananda Temple`](https://google.com/search?q=Ananda+Temple) | [losttrust](https://ransomwatch.telemetry.ltd/#/profiles?id=losttrust) |
+| 2023-09-26 | [`Omniatel`](https://google.com/search?q=Omniatel) | [losttrust](https://ransomwatch.telemetry.ltd/#/profiles?id=losttrust) |
+| 2023-09-26 | [`Paradise Custom Kitchens`](https://google.com/search?q=Paradise+Custom+Kitchens) | [losttrust](https://ransomwatch.telemetry.ltd/#/profiles?id=losttrust) |
+| 2023-09-26 | [`Specialty Process Equipment`](https://google.com/search?q=Specialty+Process+Equipment) | [losttrust](https://ransomwatch.telemetry.ltd/#/profiles?id=losttrust) |
+| 2023-09-26 | [`The WorkPlace`](https://google.com/search?q=The+WorkPlace) | [losttrust](https://ransomwatch.telemetry.ltd/#/profiles?id=losttrust) |
+| 2023-09-26 | [`Professional Moving Company - Mackie Group`](https://google.com/search?q=Professional+Moving+Company+-+Mackie+Group) | [losttrust](https://ransomwatch.telemetry.ltd/#/profiles?id=losttrust) |
+| 2023-09-26 | [`Mexican Government`](https://google.com/search?q=Mexican+Government) | [losttrust](https://ransomwatch.telemetry.ltd/#/profiles?id=losttrust) |
+| 2023-09-26 | [`Central Trenching`](https://google.com/search?q=Central+Trenching) | [losttrust](https://ransomwatch.telemetry.ltd/#/profiles?id=losttrust) |
+| 2023-09-26 | [`Immanuel Christian School`](https://google.com/search?q=Immanuel+Christian+School) | [losttrust](https://ransomwatch.telemetry.ltd/#/profiles?id=losttrust) |
+| 2023-09-26 | [`Cullum Services`](https://google.com/search?q=Cullum+Services) | [losttrust](https://ransomwatch.telemetry.ltd/#/profiles?id=losttrust) |
+| 2023-09-26 | [`Gold Coin Restaurant`](https://google.com/search?q=Gold+Coin+Restaurant) | [losttrust](https://ransomwatch.telemetry.ltd/#/profiles?id=losttrust) |
+| 2023-09-26 | [`Marlboro Township Public School`](https://google.com/search?q=Marlboro+Township+Public+School) | [losttrust](https://ransomwatch.telemetry.ltd/#/profiles?id=losttrust) |
+| 2023-09-26 | [`Carmocal`](https://google.com/search?q=Carmocal) | [losttrust](https://ransomwatch.telemetry.ltd/#/profiles?id=losttrust) |
+| 2023-09-26 | [`Johnson Boiler Works`](https://google.com/search?q=Johnson+Boiler+Works) | [losttrust](https://ransomwatch.telemetry.ltd/#/profiles?id=losttrust) |
+| 2023-09-26 | [`EnCom Polymers`](https://google.com/search?q=EnCom+Polymers) | [losttrust](https://ransomwatch.telemetry.ltd/#/profiles?id=losttrust) |
+| 2023-09-26 | [`Ambrosini Holding`](https://google.com/search?q=Ambrosini+Holding) | [losttrust](https://ransomwatch.telemetry.ltd/#/profiles?id=losttrust) |
+| 2023-09-26 | [`Colors Dress`](https://google.com/search?q=Colors+Dress) | [losttrust](https://ransomwatch.telemetry.ltd/#/profiles?id=losttrust) |
+| 2023-09-26 | [`THEATER LEAGUE INC`](https://google.com/search?q=THEATER+LEAGUE+INC) | [losttrust](https://ransomwatch.telemetry.ltd/#/profiles?id=losttrust) |
+| 2023-09-26 | [`GI Medical Services`](https://google.com/search?q=GI+Medical+Services) | [losttrust](https://ransomwatch.telemetry.ltd/#/profiles?id=losttrust) |
+| 2023-09-26 | [`Gordon Law Firm`](https://google.com/search?q=Gordon+Law+Firm) | [losttrust](https://ransomwatch.telemetry.ltd/#/profiles?id=losttrust) |
+| 2023-09-26 | [`Contraband Control Specialists`](https://google.com/search?q=Contraband+Control+Specialists) | [losttrust](https://ransomwatch.telemetry.ltd/#/profiles?id=losttrust) |
+| 2023-09-26 | [`I&amp;Y Senior Care`](https://google.com/search?q=I%26amp%3BY+Senior+Care) | [losttrust](https://ransomwatch.telemetry.ltd/#/profiles?id=losttrust) |
+| 2023-09-26 | [`EWBizservice`](https://google.com/search?q=EWBizservice) | [losttrust](https://ransomwatch.telemetry.ltd/#/profiles?id=losttrust) |
+| 2023-09-26 | [`Center Township Trustee`](https://google.com/search?q=Center+Township+Trustee) | [losttrust](https://ransomwatch.telemetry.ltd/#/profiles?id=losttrust) |
+| 2023-09-26 | [`Garlick &amp; Markison`](https://google.com/search?q=Garlick+%26amp%3B+Markison) | [losttrust](https://ransomwatch.telemetry.ltd/#/profiles?id=losttrust) |
+| 2023-09-26 | [`Double V Construction`](https://google.com/search?q=Double+V+Construction) | [losttrust](https://ransomwatch.telemetry.ltd/#/profiles?id=losttrust) |
+| 2023-09-26 | [`Swann's Furniture &amp; Design`](https://google.com/search?q=Swann%27s+Furniture+%26amp%3B+Design) | [losttrust](https://ransomwatch.telemetry.ltd/#/profiles?id=losttrust) |
+| 2023-09-26 | [`Gateseven Media Group`](https://google.com/search?q=Gateseven+Media+Group) | [losttrust](https://ransomwatch.telemetry.ltd/#/profiles?id=losttrust) |
+| 2023-09-26 | [`Asia Vegetable`](https://google.com/search?q=Asia+Vegetable) | [losttrust](https://ransomwatch.telemetry.ltd/#/profiles?id=losttrust) |
+| 2023-09-26 | [`Carnelutti Law Firm`](https://google.com/search?q=Carnelutti+Law+Firm) | [losttrust](https://ransomwatch.telemetry.ltd/#/profiles?id=losttrust) |
+| 2023-09-26 | [`Foundation Professionals of Florida`](https://google.com/search?q=Foundation+Professionals+of+Florida) | [losttrust](https://ransomwatch.telemetry.ltd/#/profiles?id=losttrust) |
+| 2023-09-26 | [`Roper & Vertafore`](https://google.com/search?q=Roper+%26+Vertafore) | [dunghill_leak](https://ransomwatch.telemetry.ltd/#/profiles?id=dunghill_leak) |
+| 2023-09-26 | [`Go-Ahead Group`](https://google.com/search?q=Go-Ahead+Group) | [dunghill_leak](https://ransomwatch.telemetry.ltd/#/profiles?id=dunghill_leak) |
 | 2023-09-26 | [`GCserv.com`](https://google.com/search?q=GCserv.com) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-09-26 | [`Orthum Bau`](https://google.com/search?q=Orthum+Bau) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2023-09-26 | [`Astro Lighting`](https://google.com/search?q=Astro+Lighting) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
@@ -149,58 +204,3 @@ _last `200` posts_
 | 2023-09-18 | [`cucs.org`](https://google.com/search?q=cucs.org) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-09-18 | [`www.kool-air-inc.com`](https://google.com/search?q=www.kool-air-inc.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-09-18 | [`www.ikp.at`](https://google.com/search?q=www.ikp.at) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
-| 2023-09-18 | [`Araújo e Policastro Advogados`](https://google.com/search?q=Ara%C3%BAjo+e+Policastro+Advogados) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-09-17 | [`Announcement: Retail House going to be LEAKED`](https://google.com/search?q=Announcement%3A+Retail+House+going+to+be+LEAKED) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
-| 2023-09-17 | [`Delta Group`](https://google.com/search?q=Delta+Group) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-09-16 | [`http://www.transterra.nl`](https://google.com/search?q=http%3A%2F%2Fwww.transterra.nl) | [ciphbit](https://ransomwatch.telemetry.ltd/#/profiles?id=ciphbit) |
-| 2023-09-16 | [`http://www.soprovise.fr`](https://google.com/search?q=http%3A%2F%2Fwww.soprovise.fr) | [ciphbit](https://ransomwatch.telemetry.ltd/#/profiles?id=ciphbit) |
-| 2023-09-16 | [`http://www.marston-domsel.com`](https://google.com/search?q=http%3A%2F%2Fwww.marston-domsel.com) | [ciphbit](https://ransomwatch.telemetry.ltd/#/profiles?id=ciphbit) |
-| 2023-09-16 | [`tuvsud.com`](https://google.com/search?q=tuvsud.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-09-16 | [`tlip2.com`](https://google.com/search?q=tlip2.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-09-16 | [`syntech.com.sg`](https://google.com/search?q=syntech.com.sg) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-09-16 | [`scottpartners.com`](https://google.com/search?q=scottpartners.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-09-16 | [`piramidal.com.br`](https://google.com/search?q=piramidal.com.br) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-09-16 | [`perfectlaw.com`](https://google.com/search?q=perfectlaw.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-09-16 | [`neolaser.es`](https://google.com/search?q=neolaser.es) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-09-16 | [`motsaot.co.il`](https://google.com/search?q=motsaot.co.il) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-09-16 | [`milbermakris.com`](https://google.com/search?q=milbermakris.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-09-16 | [`michalovich.co.il`](https://google.com/search?q=michalovich.co.il) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-09-16 | [`mehmetceylanyapi.com.tr`](https://google.com/search?q=mehmetceylanyapi.com.tr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-09-16 | [`ipsenlogistics.com`](https://google.com/search?q=ipsenlogistics.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-09-16 | [`gsaenz.com.mx`](https://google.com/search?q=gsaenz.com.mx) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-09-16 | [`glat.zapweb.co.il`](https://google.com/search?q=glat.zapweb.co.il) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-09-16 | [`faithfamilyacademy.org`](https://google.com/search?q=faithfamilyacademy.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-09-16 | [`energyinsight.co.za`](https://google.com/search?q=energyinsight.co.za) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-09-16 | [`dasholding.ae`](https://google.com/search?q=dasholding.ae) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-09-16 | [`commercialfluidpower.com`](https://google.com/search?q=commercialfluidpower.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-09-16 | [`blackjewel l.l.c.`](https://google.com/search?q=blackjewel+l.l.c.) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-09-16 | [`beamconstruction.com`](https://google.com/search?q=beamconstruction.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-09-16 | [`antioch.edu`](https://google.com/search?q=antioch.edu) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-09-16 | [`aeroportlleida.cat`](https://google.com/search?q=aeroportlleida.cat) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-09-16 | [`Financial Decisions`](https://google.com/search?q=Financial+Decisions) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-09-15 | [`gov.la`](https://google.com/search?q=gov.la) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
-| 2023-09-15 | [`Updates: Israel "MYMC"`](https://google.com/search?q=Updates%3A+Israel+%22MYMC%22) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
-| 2023-09-15 | [`pelicanwoodcliff.com`](https://google.com/search?q=pelicanwoodcliff.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-09-15 | [`hillsboroughschools.org`](https://google.com/search?q=hillsboroughschools.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-09-15 | [`hollandspecial`](https://google.com/search?q=hollandspecial) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-09-15 | [`P1 Technical Services`](https://google.com/search?q=P1+Technical+Services) | [cryptbb](https://ransomwatch.telemetry.ltd/#/profiles?id=cryptbb) |
-| 2023-09-15 | [`CON-STRUCT`](https://google.com/search?q=CON-STRUCT) | [cryptbb](https://ransomwatch.telemetry.ltd/#/profiles?id=cryptbb) |
-| 2023-09-15 | [`Polanglo`](https://google.com/search?q=Polanglo) | [cryptbb](https://ransomwatch.telemetry.ltd/#/profiles?id=cryptbb) |
-| 2023-09-15 | [`Jeff Wyler Automotive Family, Inc.`](https://google.com/search?q=Jeff+Wyler+Automotive+Family%2C+Inc.) | [cryptbb](https://ransomwatch.telemetry.ltd/#/profiles?id=cryptbb) |
-| 2023-09-15 | [`KIRWIN FRYDAY MEDCALF Lawyers LLP`](https://google.com/search?q=KIRWIN+FRYDAY+MEDCALF+Lawyers+LLP) | [cryptbb](https://ransomwatch.telemetry.ltd/#/profiles?id=cryptbb) |
-| 2023-09-15 | [`Danbury Public Schools`](https://google.com/search?q=Danbury+Public+Schools) | [cryptbb](https://ransomwatch.telemetry.ltd/#/profiles?id=cryptbb) |
-| 2023-09-15 | [`Aspect Structural Engineers`](https://google.com/search?q=Aspect+Structural+Engineers) | [cryptbb](https://ransomwatch.telemetry.ltd/#/profiles?id=cryptbb) |
-| 2023-09-15 | [`ToyotaLift Northeast`](https://google.com/search?q=ToyotaLift+Northeast) | [cryptbb](https://ransomwatch.telemetry.ltd/#/profiles?id=cryptbb) |
-| 2023-09-15 | [`wdgroup.com.my`](https://google.com/search?q=wdgroup.com.my) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
-| 2023-09-15 | [`pvbfabs.com`](https://google.com/search?q=pvbfabs.com) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
-| 2023-09-15 | [`intechims.com`](https://google.com/search?q=intechims.com) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
-| 2023-09-15 | [`zero-pointorganics.com`](https://google.com/search?q=zero-pointorganics.com) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
-| 2023-09-15 | [`visitingphysiciansnetwork.com`](https://google.com/search?q=visitingphysiciansnetwork.com) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
-| 2023-09-15 | [`clearwaterlandscape.com`](https://google.com/search?q=clearwaterlandscape.com) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
-| 2023-09-15 | [`http://www.harmonicteam.com`](https://google.com/search?q=http%3A%2F%2Fwww.harmonicteam.com) | [ciphbit](https://ransomwatch.telemetry.ltd/#/profiles?id=ciphbit) |
-| 2023-09-15 | [`http://www.imperadorlogistics.com`](https://google.com/search?q=http%3A%2F%2Fwww.imperadorlogistics.com) | [ciphbit](https://ransomwatch.telemetry.ltd/#/profiles?id=ciphbit) |
-| 2023-09-15 | [`http://www.waterfordretirement.com`](https://google.com/search?q=http%3A%2F%2Fwww.waterfordretirement.com) | [ciphbit](https://ransomwatch.telemetry.ltd/#/profiles?id=ciphbit) |
-| 2023-09-15 | [`http://www.shelleyengineering.co.uk`](https://google.com/search?q=http%3A%2F%2Fwww.shelleyengineering.co.uk) | [ciphbit](https://ransomwatch.telemetry.ltd/#/profiles?id=ciphbit) |
-| 2023-09-15 | [`http://www.rsv-centrale.be`](https://google.com/search?q=http%3A%2F%2Fwww.rsv-centrale.be) | [ciphbit](https://ransomwatch.telemetry.ltd/#/profiles?id=ciphbit) |
-| 2023-09-15 | [`http://soprovise.fr`](https://google.com/search?q=http%3A%2F%2Fsoprovise.fr) | [ciphbit](https://ransomwatch.telemetry.ltd/#/profiles?id=ciphbit) |
-| 2023-09-15 | [`https://steelforce.eu/`](https://google.com/search?q=https%3A%2F%2Fsteelforce.eu%2F) | [trigona](https://ransomwatch.telemetry.ltd/#/profiles?id=trigona) |
