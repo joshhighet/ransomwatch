@@ -1206,3 +1206,14 @@ def cryptbb():
         errlog('cryptbb: ' + 'parsing fail')
     for post in posts:
         appender(post, 'cryptbb')
+
+def losttrust():
+    stdlog('parser: ' + 'losttrust')
+    parser = '''
+    grep -o '<div class="card-header">[^<]*</div>' source/losttrust-*.html  | sed -e 's/<[^>]*>//g'
+    '''
+    posts = runshellcmd(parser)
+    if len(posts) == 1:
+        errlog('losttrust: ' + 'parsing fail')
+    for post in posts:
+        appender(post, 'losttrust')

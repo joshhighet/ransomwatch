@@ -4782,5 +4782,27 @@
             }
         ],
         "profile": []
+    },
+    {
+        "name": "losttrust",
+        "captcha": false,
+        "parser": true,
+        "javascript_render": false,
+        "meta": null,
+        "locations": [
+            {
+                "fqdn": "hscr6cjzhgoybibuzn2xud7u4crehuoo4ykw3swut7m7irde74hdfzyd.onion",
+                "title": "LostTrust home",
+                "version": 3,
+                "slug": "http://hscr6cjzhgoybibuzn2xud7u4crehuoo4ykw3swut7m7irde74hdfzyd.onion",
+                "available": true,
+                "updated": "2023-09-27 08:25:26.454302",
+                "lastscrape": "2023-09-27 08:25:26.454275",
+                "enabled": true
+            }
+        ],
+        "profile": [
+            "https://www.bleepingcomputer.com/forums/t/786045/ransomware-hit-vmware/"
+        ]
     }
 ]
