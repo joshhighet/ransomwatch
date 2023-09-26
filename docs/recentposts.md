@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-09-26 | [`SUD TRADING COMPANY`](https://google.com/search?q=SUD+TRADING+COMPANY) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-09-26 | [`www.waterloomedia.com`](https://google.com/search?q=www.waterloomedia.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-09-26 | [`powerhousenow.com`](https://google.com/search?q=powerhousenow.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-09-25 | [`zzcoldstores.com`](https://google.com/search?q=zzcoldstores.com) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-09-12 | [`Accuride`](https://google.com/search?q=Accuride) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-09-12 | [`SAC Finance`](https://google.com/search?q=SAC+Finance) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2023-09-12 | [`Abbeyfield`](https://google.com/search?q=Abbeyfield) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2023-09-12 | [`Morgan Smith Industries LLC`](https://google.com/search?q=Morgan+Smith+Industries+LLC) | [knight](https://ransomwatch.telemetry.ltd/#/profiles?id=knight) |
