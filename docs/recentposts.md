@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-09-26 | [`WEBBER RESTAURANT GROUP`](https://google.com/search?q=WEBBER+RESTAURANT+GROUP) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2023-09-26 | [`Pond Security`](https://google.com/search?q=Pond+Security) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-09-26 | [`SUD TRADING COMPANY`](https://google.com/search?q=SUD+TRADING+COMPANY) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-09-26 | [`www.waterloomedia.com`](https://google.com/search?q=www.waterloomedia.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-09-26 | [`powerhousenow.com`](https://google.com/search?q=powerhousenow.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-09-13 | [`Carpet One`](https://google.com/search?q=Carpet+One) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-09-13 | [`Markentrainer Werbeagentur, Elwema Automotive`](https://google.com/search?q=Markentrainer+Werbeagentur%2C+Elwema+Automotive) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-09-12 | [`Accuride`](https://google.com/search?q=Accuride) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2023-09-12 | [`SAC Finance`](https://google.com/search?q=SAC+Finance) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
-| 2023-09-12 | [`Abbeyfield`](https://google.com/search?q=Abbeyfield) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
