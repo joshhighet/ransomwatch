@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-09-26 | [`Orthum Bau`](https://google.com/search?q=Orthum+Bau) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
+| 2023-09-26 | [`Astro Lighting`](https://google.com/search?q=Astro+Lighting) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
+| 2023-09-26 | [`Ropertech.com & Vertafore.com`](https://google.com/search?q=Ropertech.com+%26+Vertafore.com) | [dunghill_leak](https://ransomwatch.telemetry.ltd/#/profiles?id=dunghill_leak) |
 | 2023-09-26 | [`BestPack Packaging`](https://google.com/search?q=BestPack+Packaging) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-09-26 | [`Woody Anderson Ford`](https://google.com/search?q=Woody+Anderson+Ford) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-09-26 | [`Nordic Security Services`](https://google.com/search?q=Nordic+Security+Services) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2023-09-15 | [`http://soprovise.fr`](https://google.com/search?q=http%3A%2F%2Fsoprovise.fr) | [ciphbit](https://ransomwatch.telemetry.ltd/#/profiles?id=ciphbit) |
 | 2023-09-15 | [`https://steelforce.eu/`](https://google.com/search?q=https%3A%2F%2Fsteelforce.eu%2F) | [trigona](https://ransomwatch.telemetry.ltd/#/profiles?id=trigona) |
 | 2023-09-14 | [`Statement on MGM Resorts International: Setting the record straight`](https://google.com/search?q=Statement+on+MGM+Resorts+International%3A+Setting+the+record+straight) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-09-14 | [`etsi.uy`](https://google.com/search?q=etsi.uy) | [knight](https://ransomwatch.telemetry.ltd/#/profiles?id=knight) |
-| 2023-09-14 | [`American Steel & Alu minum`](https://google.com/search?q=American+Steel+%26+Alu+minum) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2023-09-14 | [`Ja Quith Press Release`](https://google.com/search?q=Ja+Quith+Press+Release) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
