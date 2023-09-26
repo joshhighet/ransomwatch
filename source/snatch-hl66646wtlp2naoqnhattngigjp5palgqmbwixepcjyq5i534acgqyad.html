@@ -11,3 +11,250 @@
 <body>
 <div class="wrapper">
     
+<div id="UUID" class="mainModal">
+    <div class="modalUUID">
+        <a href="" title="Close" class="close">X</a>
+        <h2>ENTER UUID</h2>
+        <p>
+            To contact us, you must enter your personal UUID in the field below and press ENTER.
+            After logging in, you will receive detailed information about your company.
+        </p>
+        <form action="" method="post">
+            <input
+                    class="uuid-input"
+                    name="uuid"
+                    type="text"
+                    minlength="20"
+                    required
+                    placeholder="XXXX-XXXX-XXXX-XXXX"
+            />
+            <input type="hidden" name="uuid_redirect">
+            <input type="submit" value="ENTER" />
+        </form>
+        <p class="gotofb">
+            If you do not have UUID, please contact via the
+            <a href="#feedback">feedback</a> form
+        </p>
+    </div>
+</div>
+<div id="feedback" class="mainModal">
+    <div class="modalFeedback">
+        <a href="#close" title="Закрыть" class="close">X</a>
+        <h2>Feedback</h2>
+        <p>
+            If you are the owner of the company you can leave your contact details and you will be provided with a UUID to enter the chat. If you are a media outlet, leave your contacts and we will contact you very soon.
+        </p>
+        <form action="" method="post">
+            <input
+                    name="feedback-name"
+                    required
+                    autocomplete="on"
+                    id="1"
+                    type="text"
+                    placeholder="Your name"
+            />
+            <input
+                    id="2"
+                    required
+                    name="feedback-contacts"
+                    autocomplete="on"
+                    type="email"
+                    placeholder="Your email"
+            />
+            <textarea
+                    name="feedback-message"
+                    required
+                    id="3"
+                    cols="30"
+                    rows="4"
+                    minlength="20"
+                    placeholder="Your message"
+            ></textarea>
+            <img src="data:image/jpeg;base64,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" alt="Enable images to see captcha" width="200" height="60"/>
+            <input
+                    name="captcha"
+                    required
+                    id="captcha"
+                    type="text"
+                    placeholder="Complete captcha"
+            />
+            <input type="hidden" name="gc_value" value="$2y$10$Y/.2sqMDJ0fMm6dBuEPmcOvoVsxKrZ2f.dgJ3UTdygqtTLcdRVwgG">
+            <input type="hidden" name="feedback_form">
+            <input type="submit" value="SEND" />
+        </form>
+    </div>
+</div>
+<div id="public_notice" class="mainModal">
+    <div class="modalNotice">
+        <a href="" title="Close" class="close">X</a>
+        
+        <h2>Public notice</h2>
+        <p>
+            — I ain't fucking buying that.
+        </p>
+		<p>
+            — That's handy because I ain't fucking selling it. It's a fact.
+        </p>
+		<p>
+            by Guy Ritchie
+        </p>
+        <br>
+        <p>
+            1. Snatch is a leakage data base open for public use.
+        </p>
+        <p>
+            2. Snatch does not assume any responsibility for the information and the methods of its acquisition.
+        </p>
+        <p>
+            3. Snatch is ready to cooperate with any groups and companies that provide exclusive information for its further publication. The information source should in that case refuse to carry any responsibility for this information.
+        </p>
+        <p>
+            4. Snatch is ready to publish information of any content and confidential level ignoring all the possible consequences.
+        </p>
+        <p>
+            5. All responsibility for the publications lies upon the persons who made the information leakage possible from the sources they have been entrusted with.
+        </p>
+        <p>
+            6. Snatch publishes personal data and contacts of the personalities who are responsible for  data leakage and made it possible.
+        </p>
+        <p>
+            7. All the information and data published on our resource is of public use and can be shared with similar resources – but the right of the first publication always belongs to the Snatch team.
+        </p>
+        <p>
+            8. Snatch is open to the collaboration with any media to make data leakage situations shared and visible to wide range of people.
+        </p>
+        <p>
+            9. Snatch is always open for a dialogue with the owners of the data and is willing to solve the situation. One can always contact us within the confidential chat room or with the help of feedback form.
+        </p>
+        <p>
+            10. All negotiations are possible only with the means of our chat platform and are kept absolutely confidential.
+        </p>
+        <p>
+            11. Snatch does not assume any responsibility for the data publication consequences and confidential data usage. All the responsibility lies upon those who made the data leakage possible.
+        </p>    </div>
+</div>
+<header>
+    <div class="container">
+        <div class="row">
+            <div class="header-content">
+                <div class="header-start">
+                    <a href="#UUID">
+                        <span>Enter UUID</span>
+                    </a>
+                    <a href="#feedback">
+                        <span>Feedback</span>
+                    </a>
+                    <a href="#public_notice">
+                        <span>Public notice</span>
+                    </a>
+                </div>
+                <div class="header-end">
+                    <div class="header-socials">
+                        <a href="https://t.me/snatch_team">
+                            <img src="../assets/images/telegram.svg" alt="telegram" />
+                        </a>
+                    </div>
+                    <div class="header-buttons">
+                        <button class="b_tor" onclick="window.location.href='http://hl66646wtlp2naoqnhattngigjp5palgqmbwixepcjyq5i534acgqyad.onion/';">TOR</button>
+                        <button class="b_web" onclick="window.location.href='https://snatchnews.top/';">WEB</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>    <main>
+        <div class="container">
+            <div class="row">
+                <div class="sub-header">
+                    <div class="sh-start">
+                        <a href="index.php"><img src="./assets/images/logo.png" alt="Logo" /></a>
+                    </div>
+                    <div class="sh-midle">
+                        <nav class="sh-midle-nav">
+                            <ul>
+                                <li class="sh-m-l"><a href="index.php?filter=new">New company</a></li><li class="sh-m-l"><a href="index.php?filter=full">Full data</a></li><li class="sh-m-l"><a href="index.php?filter=archive">Archive</a></li>                            </ul>
+                        </nav>
+                    </div>
+                    <div class="sh-end">
+                        <form class="news-search" method="post">
+                            <input
+                                    class="news-search_input"
+                                    type="text"
+                                    placeholder="Search for company..."
+                                    name="search"
+                            />
+                            <button class="news-search_button" type="submit">
+                                <img src="./assets/images/n-search.svg" alt="" />
+                            </button>
+                        </form>
+                    </div>
+                </div>
+                <div id="information_block">
+                    <div class="two-col-grid">
+                        <div class="grid-item">
+                            <div id='info_block'><p><p><strong>Insurance companies, attention please!</strong></p><p></p><ul><li>In case you see your client in this list, please contact us. You will get a full access gaining report of the company. This will will totally convince you that the poor judgment of the IT department leads to an insured event. Since many companies have turned attacks on them into a profitable insurance business, we are starting to publish reports on breaches in the security systems of those who are mentioned at our blog.</li></ul></p></div>                        </div>
+                        <div class="grid-item">
+                            <div id="info_block">
+                                <p>Your presence at this page means that we obtain your sensitive information and in case of your silence and refuse to bear responsibility all this data will be published no matter how important and confidential it is.</p>                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="m-main-content"><div class="m-c-main">
+<div class="ann-block"><div class="a-b-head"><div class="a-b-h-typedata">New</div><div class="a-b-h-time">Sep 25, 2023 01:04 AM</div><div class="a-b-h-views-count d-flex"><img src="./assets/images/views-count.svg" alt="" /><p class="a-b-h-v-c-views">125484</p></div></div><div class="a-b-name"><div class="a-b-n-name">SsangYong Motor</div><span class="a-b-n-tag">Data Added: 544 GB</span></div><div class="a-b-text"><p>KG Mobility The KG Mobility Corporation, abbreviated as KGM, is a South Korea-based automobile manufacturer. It traces its origins back to a manufacturer established in 1954. The company was named SsangYong Motor Company in 1988, following its acquisition by the chaebol SsangYong Group in 1986.</p></div><div class="a-b-bottom"><div class="a-b-b-tags"></div><div class="a-b-b-readmore"><a href="#" class="a-b-b-r-link"><button class="a-b-b-r-l-button" onclick="window.location='news.php?id=ef9355e4-8328-4fb7-b1a9-5dcaa949f22c'"><p class="a-b-b-r-l-b-text">Read more</p><img class="a-b-b-r-l-b-img" src="./assets/images/readmore-arrow.svg" alt="arrow"/></button></a></div></div></div><div class="ann-block"><div class="a-b-head"><div class="a-b-h-typedata">New</div><div class="a-b-h-time">Sep 25, 2023 01:10 AM</div><div class="a-b-h-views-count d-flex"><img src="./assets/images/views-count.svg" alt="" /><p class="a-b-h-v-c-views">87061</p></div></div><div class="a-b-name"><div class="a-b-n-name">Alinabal</div><span class="a-b-n-tag">Data Added: 8.7 GB</span></div><div class="a-b-text"><p>Alinabal is a broadly diversified manufacturer with history reaching as far back as 1913 when it supplied laminated materials for the Model T Ford. Today, through its four distinct business units, Alinabal is a leading manufacturer of a diverse span of products from precision stampings</div><div class="a-b-bottom"><div class="a-b-b-tags"></div><div class="a-b-b-readmore"><a href="#" class="a-b-b-r-link"><button class="a-b-b-r-l-button" onclick="window.location='news.php?id=9d0d0022-dd50-4b66-bc21-6be235da4d12'"><p class="a-b-b-r-l-b-text">Read more</p><img class="a-b-b-r-l-b-img" src="./assets/images/readmore-arrow.svg" alt="arrow"/></button></a></div></div></div><div class="ann-block"><div class="a-b-head"><div class="a-b-h-time">Sep 19, 2023 01:03 AM</div><div class="a-b-h-views-count d-flex"><img src="./assets/images/views-count.svg" alt="" /><p class="a-b-h-v-c-views">16694</p></div></div><div class="a-b-name"><div class="a-b-n-name">Florida Department of Veterans&#039; Affairs</div></div><div class="a-b-text"><p>Watching over and advocating for our state’s veterans and their families are the more than 1,100 men and women of the Florida Department of Veterans’ Affairs.</p><p>Florida has earned a reputation as the most veteran-friendly state in the nation. Our state’s veterans bring more than $18.4</div><div class="a-b-bottom"><div class="a-b-b-tags"></div><div class="a-b-b-readmore"><a href="#" class="a-b-b-r-link"><button class="a-b-b-r-l-button" onclick="window.location='news.php?id=51521fd2-0c44-49f1-a32e-8d15d58f42ba'"><p class="a-b-b-r-l-b-text">Read more</p><img class="a-b-b-r-l-b-img" src="./assets/images/readmore-arrow.svg" alt="arrow"/></button></a></div></div></div><div class="ann-block"><div class="a-b-head"><div class="a-b-h-typedata">Full Data</div><div class="a-b-h-time">Sep 1, 2023 05:17 AM</div><div class="a-b-h-views-count d-flex"><img src="./assets/images/views-count.svg" alt="" /><p class="a-b-h-v-c-views">95708</p></div></div><div class="a-b-name"><div class="a-b-n-name">Department of Defence South African (DARPA)</div><span class="a-b-n-tag">1.6 TB + Proof Pack</span></div><div class="a-b-text"><p>More information in our telegram channel <a href="https://t.me/snatch_info" target="_blank">https://t.me/snatch_info</a> Persons responsible for data leakage:</p><p>President - Matamela Cyril Ramaphosa</p><p>27718355117</p><p>+27 84 500 0664</p><p>ramaphosa@icon.co.za</p><p>ramaphosa@iburst.co.za</p><p>cramaphosa@shanduka.co.za</p><p>cramaphosa@icloud.com;</p><p>Col. P.S. Greebe (Paul)</p><p>0833154389 greebe@iafrica.com;</p><p>Col. H.J. Baird</p><p>0827449139 jacques_baird@yahoo.com;</p><p>Col K.J. Dirkse</p><p>0718949004 tumidirkse@gmail.com;</p><p>Col T.E. Theron</p><p>0823817584&nbsp;tait@armscor.co.za;</p><p>Col E. Meyer</p><p>0798066534 EttienneM@armscor.co.za;</p><p>Col B.M. Tshangase</p><p>0833201408;</p><p>Col T.P. Seokamo (Prince)</p><p>0823244439 tpseokamo@armscor.co.za;</p><p>Col G. Ferreira (Gerrie)</p><p>0834112426</div><div class="a-b-bottom"><div class="a-b-b-tags"></div><div class="a-b-b-readmore"><a href="#" class="a-b-b-r-link"><button class="a-b-b-r-l-button" onclick="window.location='news.php?id=a32bc62b-2e52-4f6b-8471-530f630adff4'"><p class="a-b-b-r-l-b-text">Read more</p><img class="a-b-b-r-l-b-img" src="./assets/images/readmore-arrow.svg" alt="arrow"/></button></a></div></div></div><div class="ann-block"><div class="a-b-head"><div class="a-b-h-typedata">Full Data</div><div class="a-b-h-time">Aug 30, 2023 01:46 AM</div><div class="a-b-h-views-count d-flex"><img src="./assets/images/views-count.svg" alt="" /><p class="a-b-h-v-c-views">141945</p></div></div><div class="a-b-name"><div class="a-b-n-name">The Briars Group</div></div><div class="a-b-text"><p><strong>More information in our telegram channel </strong><a href="https://t.me/snatch_info" target="_blank">https://t.me/snatch_info</a></p><p><strong>Persons responsible for data leakage:</strong></p><p>Kate Jolly:CEO</p><p>kate.jolly@briarsgroup.com;</p><p>Gemma Bignell:CFO, Director, Director, Operations, Financial Officer</p><p>gemma.bignell@briarsgroup.com;</p><p>Andrew Brierley:Chairman</p><p>andrew.brierley@briarsgroup.com;</p><p>Emma Lisauskas:Director, Director, Operations</p><p>emma.lisauskas@briarsgroup.com;</p><p>Wayne Hamilton:Manager, Manager, Business Development</p><p>wayne.hamilton@briarsgroup.com;</p><p>James Durance:Manager, Manager, Accounting</p><p>james.durance@briarsgroup.com;</p><p>Tracy Adaway:Payroll Manager</p><p>tracy.adaway@briarsgroup.com;</p><p>Richard Bryan:Accountant</p><p>richard.bryan@briarsgroup.com;</p><p>Juliet Sharples:Account Manager, Commercial Account Manager</p><p>juliet.sharples@briarsgroup.com;</p><p>Henry Cruikshank:Assistant, Assistant, Marketing, Marketing Assistant</p><p>henry.cruikshank@briarsgroup.com;</p><p>Tristan Hassan:Business</div><div class="a-b-bottom"><div class="a-b-b-tags"></div><div class="a-b-b-readmore"><a href="#" class="a-b-b-r-link"><button class="a-b-b-r-l-button" onclick="window.location='news.php?id=3b3af0b0-f4ed-4b47-b98f-a5edb5770621'"><p class="a-b-b-r-l-b-text">Read more</p><img class="a-b-b-r-l-b-img" src="./assets/images/readmore-arrow.svg" alt="arrow"/></button></a></div></div></div><div class="ann-block"><div class="a-b-head"><div class="a-b-h-typedata">Full Data</div><div class="a-b-h-time">Aug 30, 2023 01:47 AM</div><div class="a-b-h-views-count d-flex"><img src="./assets/images/views-count.svg" alt="" /><p class="a-b-h-v-c-views">229571</p></div></div><div class="a-b-name"><div class="a-b-n-name">Lawrence Family Development Charter School</div><span class="a-b-n-tag">Active Directory</span></div><div class="a-b-text"><p>More information in our telegram channel <a href="https://t.me/snatch_info" target="_blank">https://t.me/snatch_info</a> Persons responsible for data leakage: Karl Patricia:Founder (978) 689-9863 ext. 123; Easton Christine:Secondary School Coordinator (978) 738-0609 ext. 233; Hildt David:Director (978) 738-0609 ext. 258; Heithaus Paul:Director, Program Development (978) 224-8808 ext. 120; Schumann Tony:Technology Coordinator</div><div class="a-b-bottom"><div class="a-b-b-tags"></div><div class="a-b-b-readmore"><a href="#" class="a-b-b-r-link"><button class="a-b-b-r-l-button" onclick="window.location='news.php?id=91532173-f5b9-4028-823c-392267307b71'"><p class="a-b-b-r-l-b-text">Read more</p><img class="a-b-b-r-l-b-img" src="./assets/images/readmore-arrow.svg" alt="arrow"/></button></a></div></div></div><div class="ann-block"><div class="a-b-head"><div class="a-b-h-typedata">Full Data</div><div class="a-b-h-time">Aug 30, 2023 01:48 AM</div><div class="a-b-h-views-count d-flex"><img src="./assets/images/views-count.svg" alt="" /><p class="a-b-h-v-c-views">131517</p></div></div><div class="a-b-name"><div class="a-b-n-name">Fullerton India (SMFG India Credit)</div><span class="a-b-n-tag">430 GB</span></div><div class="a-b-text"><p>More information in our telegram channel <a href="https://t.me/snatch_info" target="_blank">https://t.me/snatch_info</a> Persons responsible for data leakage:</p><p>Pankaj Malik:Executive</p><p>pankaj.malik@fullertonindia.com;</p><p>Nitin Nimbalkar:Executive</p><p>nitin.nimbalkar@fullertonindia.com;</p><p>Manvinder Singh:VP</p><p>manvinder.singh@fullertonindia.com;</p><p>Tarun Raina:VP</p><p>tarun.raina@fullertonindia.com;</p><p>Maithreyi Srikanth:VP</p><p>maithreyi.srikanth@fullertonindia.com;</p><p>Shailesh Chandak:Manager, VP</p><p>shailesh.chandak@fullertonindia.com;</p><p>Kasturi Chodankar:Manager, VP</p><p>kasturi.chodankar@fullertonindia.com;</p><p>Pratik Thakkar:VP</p><p>pratik.thakkar@tatacapital.com</p><p>pratik.thakkar@fullertonindia.com;</p><p>Sukanta Dawn:VP</p><p>sukanta.dawn@fullertonindia.com;</p><p>Kartik Bhati:VP</p><p>kartik.bhati@fullertonindia.com;</p><p>Stephen Williams:VP</p><p>stephen.williams@fullertonindia.com;</p><p>Pankaj Jain:VP</p><p>pankaj.jain@fullertonindia.com;</p><p>Abhijeet Shintre:Manager, VP</p><p>abhijeet.shintre@fullertonindia.com;</p><p>Amol Bhalerao:VP</p><p>amol.bhalerao@fullertonindia.com;</p><p>Sunderraman Subramanian:Director, VP</p><p>sunderraman.subramanian@fullertonindia.com;</p><p>Sonal Satyendra:Non-Management, VP</p><p>sonal.satyendra@fullertonindia.com;</p><p>Abhijit Dey:VP</p><p>abhijit.dey@fullertonindia.com;</p><p>Suman Deb:Manager, Director</p><p>suman.deb@fullertonindia.com;</p><p>Sagar Sankhe:Non-Management, Manager</p><p>sagar.sankhe@fullertonindia.com;</p><p>Nikhil Makwana:Non-Management, Manager</p><p>nikhil.makwana@bajajfinserv.in</p><p>nikhil.makwana@fullertonindia.com;</p><p>Kapil Mishra:Manager</p><p>kapil.mishra@fullertonindia.com;</p><p>Bhushan Manapure:Non-Management, Manager</p><p>bhushan.manapure@religarefinvest.com</p><p>bhushan.manapure@fullertonindia.com;</p><p>Anshul</div><div class="a-b-bottom"><div class="a-b-b-tags"></div><div class="a-b-b-readmore"><a href="#" class="a-b-b-r-link"><button class="a-b-b-r-l-button" onclick="window.location='news.php?id=e2509fd5-9d6c-4150-9856-b8b68396d4c1'"><p class="a-b-b-r-l-b-text">Read more</p><img class="a-b-b-r-l-b-img" src="./assets/images/readmore-arrow.svg" alt="arrow"/></button></a></div></div></div><div class="ann-block"><div class="a-b-head"><div class="a-b-h-typedata">Full Data</div><div class="a-b-h-time">Aug 31, 2023 10:00 PM</div><div class="a-b-h-views-count d-flex"><img src="./assets/images/views-count.svg" alt="" /><p class="a-b-h-v-c-views">143676</p></div></div><div class="a-b-name"><div class="a-b-n-name">Comoli Ferrari</div></div><div class="a-b-text"><p>More information in our telegram channel <a href="https://t.me/snatch_info" target="_blank">https://t.me/snatch_info</a> Persons responsible for data leakage:</p><p>Marco Tagliaferri:HR Director</p><p>marco.tagliaferri@comoliferrari.it</p><p>marco.tagliaferri@mundipharma.co.uk</p><p>+393311481905</p><p>https://www.linkedin.com/in/marcotagliaferri</p><p>https://www.facebook.com/Merk93;</p><p>Raffaele Veneruso:Commercial Director</p><p>raffaele.veneruso@comoliferrari.it</p><p>vivi2007@alice.it</p><p>r.veneruso@ivmchemicals.com</p><p>+393288950085</p><p>https://www.linkedin.com/in/raffaele-veneruso-75a78b19</p><p>https://www.facebook.com/people/_/100009227383838;</p><p>Paolo Ferrari:Amministratore Delegato</p><p>paolo.ferrari@comoliferrari.it</p><p>https://www.linkedin.com/in/paolo-ferrari-24774946</p><p>https://www.facebook.com/lexpositivo.lutor;</p><p>Fabrizio Alcaini: Buyer</p><p>fabrizio.alcaini@comoliferrari.it</p><p>https://www.linkedin.com/in/fabrizio-alcaini-602838ab;</p><p>Carlo Scutari: Direttore Acquisti presso Comoli, Ferrari e C. S.p.a.</p><p>carlo.scutari@comoliferrari.it</p><p>c.scutari@mcelettrici.com</p><p>https://www.linkedin.com/in/carlo-scutari-b0189940;</p><p>Margherita Ferrari: Direttore Comunicazione</p><p>margherita.ferrari@comoliferrari.it</p><p>mferrari@comoliferrari.it</p><p>https://twitter.com/marghetitta</p><p>https://www.linkedin.com/in/margherita-ferrari-comoli-ferrari;</p><p>Stefano Sangalli: Supply Chain Director</p><p>stefano.sangalli@comoliferrari.it</p><p>stefano.sangalli@cevalogistics.com</p><p>+393358302945</p><p>https://facebook.com/100006078018218</p><p>https://www.linkedin.com/in/stefano-sangalli-84053b4;</p><p>Daniela Spiranelli: HR Manager</p><p>daniela.spiranelli@gimatrans.it</p><p>https://www.linkedin.com/in/daniela-spiranelli-a4810365</p><p>+393492398397</p><p>daniela.spiranelli@hotmail.it</p><p>daniela.spiranelli@gmail.com;</p><p>Roberto Ziruddu:Dirigente</p><p>roberto.ziruddu@fcagroup.com</p><p>https://www.linkedin.com/in/roberto-ziruddu-666293aa;</p><p>Gianluca Ramazza:Referente vendite</p><p>gianluca.ramazza@fcagroup.com</p><p>https://www.linkedin.com/in/gianluca-ramazza-607593148;</p><p>Federica Cristina:</div><div class="a-b-bottom"><div class="a-b-b-tags"></div><div class="a-b-b-readmore"><a href="#" class="a-b-b-r-link"><button class="a-b-b-r-l-button" onclick="window.location='news.php?id=11a88512-3ce8-48bd-8d56-452ef63aa4a0'"><p class="a-b-b-r-l-b-text">Read more</p><img class="a-b-b-r-l-b-img" src="./assets/images/readmore-arrow.svg" alt="arrow"/></button></a></div></div></div><div class="ann-block"><div class="a-b-head"><div class="a-b-h-typedata">Full Data</div><div class="a-b-h-time">Sep 4, 2023 12:38 AM</div><div class="a-b-h-views-count d-flex"><img src="./assets/images/views-count.svg" alt="" /><p class="a-b-h-v-c-views">207403</p></div></div><div class="a-b-name"><div class="a-b-n-name">Canadian Nurses Association</div></div><div class="a-b-text"><p>More information in our telegram channel <a href="https://t.me/snatch_info" target="_blank">https://t.me/snatch_info</a> Persons responsible for data leakage:</p><p>Villeneuve Michael J.: Chief Executive Officer Executive</p><p>mvilleneuve@cna-aiic.ca;</p><p>Atkins Gary: Manager, Information Technology &amp; Services&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p><p>gatkins@cna-aiic.ca;</p><p>Dewar&nbsp;Donna: Chief Operating Officer Operations Executive</p><p>(613) 237-2159 ext. 316&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p><p>ddewar@cna-aiic.ca;</p><p>Fortier&nbsp;Misty: Director, Credentialing Centre &amp; Nursing Policy&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p><p>(613) 237-2133 ext. 233&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p><p>mfortier@cna-aiic.ca;</p><p>Saleh Lubna Abo:</div><div class="a-b-bottom"><div class="a-b-b-tags"></div><div class="a-b-b-readmore"><a href="#" class="a-b-b-r-link"><button class="a-b-b-r-l-button" onclick="window.location='news.php?id=ce62a6ec-bc71-45d8-978b-4991b0c3def4'"><p class="a-b-b-r-l-b-text">Read more</p><img class="a-b-b-r-l-b-img" src="./assets/images/readmore-arrow.svg" alt="arrow"/></button></a></div></div></div><div class="ann-block"><div class="a-b-head"><div class="a-b-h-typedata">Full Data</div><div class="a-b-h-time">Aug 24, 2023 01:46 AM</div><div class="a-b-h-views-count d-flex"><img src="./assets/images/views-count.svg" alt="" /><p class="a-b-h-v-c-views">214406</p></div></div><div class="a-b-name"><div class="a-b-n-name">IXPERTA</div><span class="a-b-n-tag">Data added: 300 GB + Active Directory</span></div><div class="a-b-text"><p>More information in our telegram channel <a href="https://t.me/snatch_info" target="_blank">https://t.me/snatch_info</a> Persons responsible for data leakage: Jawad Abouchaib:Chef d&#039;Ã©quipe https://www.linkedin.com/in/jawad-abouchaib-301ab0110; Yilei Huang:Network and Information Security Supervisor yilei.huang@version1.com https://www.linkedin.com/in/yilei-huang-3bba0183; Guo Jimmy.Guo:Vice President jimmy.guo@joyson.cn https://www.linkedin.com/in/guo-jimmy-guo-617b2360 http://www.facebook.com/people/_/1548407580; Tangke Ouyang:Vice President tangke.ouyang@cicc.com.cn https://www.linkedin.com/in/tangke-owen-ouyang-44044b4a https://facebook.com/tangke.ouyang; Wilson He:Global Human Resource Director supercow@comcast.net wilson.he@timken.com,wilson.he@fuyaogroup.com,jwilson@cummins.com</div><div class="a-b-bottom"><div class="a-b-b-tags"></div><div class="a-b-b-readmore"><a href="#" class="a-b-b-r-link"><button class="a-b-b-r-l-button" onclick="window.location='news.php?id=64f6eaa1-f473-496f-b880-4c5392b73db8'"><p class="a-b-b-r-l-b-text">Read more</p><img class="a-b-b-r-l-b-img" src="./assets/images/readmore-arrow.svg" alt="arrow"/></button></a></div></div></div></div>
+<div class="m-c-aside">
+    <div class="m-c-aside-1">
+        <h2 class="aside-head">New Company</h2>
+        <div class="aside-card"><a href="news.php?id=9d0d0022-dd50-4b66-bc21-6be235da4d12"><div class="aside-card-content"><h3 class="a-c-c-h3">Alinabal</h3><h4 class="a-c-c-h4"><p>Alinabal is a broadly diversified manufacturer with history reaching as far...</h4></div></a></div><div class="aside-card"><a href="news.php?id=ef9355e4-8328-4fb7-b1a9-5dcaa949f22c"><div class="aside-card-content"><h3 class="a-c-c-h3">SsangYong Motor</h3><h4 class="a-c-c-h4"><p>KG Mobility The KG Mobility Corporation, abbreviated as KGM, is a...</h4></div></a></div><div class="aside-card"><a href="news.php?id=8fb5d35c-c705-4556-819f-0d3c7a787b7e"><div class="aside-card-content"><h3 class="a-c-c-h3">CEFCO</h3><h4 class="a-c-c-h4">We have been in the fuel business a long time –...</h4></div></a></div><div class="aside-card"><a href="news.php?id=4f9fb02a-5810-47b9-b82d-c286ece872f4"><div class="aside-card-content"><h3 class="a-c-c-h3">ZILLI</h3><h4 class="a-c-c-h4"><p>ZILLI works with ultra-fine calfskin suede and glazed lambskin, but also...</h4></div></a></div>    </div>
+    <div class="m-c-aside-2">
+        <h2 class="aside-head">Full Data</h2>
+        <div class="aside-card"><a href="news.php?id=e2942dda-de18-4279-bb5c-7e5b4dc7cd0b"><div class="aside-card-content"><h3 class="a-c-c-h3">Ingenico</h3><h4 class="a-c-c-h4"><p>More information in our telegram channel <a href="https://t.me/snatch_team" target="_blank"><strong>https://t.me/snatch_team</strong></a> Persons responsible...</h4></div></a></div><div class="aside-card"><a href="news.php?id=27ace3f6-b5fe-46df-aeaa-211f004b197a"><div class="aside-card-content"><h3 class="a-c-c-h3">Americana Restaurants</h3><h4 class="a-c-c-h4"><p>More information in our telegram channel <a href="https://t.me/snatch_team" target="_blank"><strong>https://t.me/snatch_team</strong></a> Persons responsible...</h4></div></a></div><div class="aside-card"><a href="news.php?id=e2b6777e-0b05-42a4-a5d3-a3b3ae842ccc"><div class="aside-card-content"><h3 class="a-c-c-h3">Telcoset</h3><h4 class="a-c-c-h4"><p>More information in our telegram channel</p><p><a href="https://t.me/snatch_team" target="_blank"><strong>https://t.me/snatch_team</strong></a></p><p>Persons responsible for data...</h4></div></a></div><div class="aside-card"><a href="news.php?id=ce62a6ec-bc71-45d8-978b-4991b0c3def4"><div class="aside-card-content"><h3 class="a-c-c-h3">Canadian Nurses Association</h3><h4 class="a-c-c-h4"><p>More information in our telegram channel <a href="https://t.me/snatch_info" target="_blank">https://t.me/snatch_info</a> Persons responsible...</h4></div></a></div><div class="aside-card"><a href="news.php?id=a32bc62b-2e52-4f6b-8471-530f630adff4"><div class="aside-card-content"><h3 class="a-c-c-h3">Department of Defence South African (DARPA)</h3><h4 class="a-c-c-h4"><p>More information in our telegram channel <a href="https://t.me/snatch_info" target="_blank">https://t.me/snatch_info</a> Persons responsible...</h4></div></a></div>    </div>
+</div></div><div class="main-nav">
+    <div class="main-nav-nav">
+        <a class="m-n-n-link link-unactive"><p class="m-n-n-l-text">Previous page</p></a>        <div class="main-nav-numbers">
+        <a class="m-n-n-number">1</a><a class="m-n-n-number" href="index.php?page=2">2</a><a class="m-n-n-number" href="index.php?page=3">3</a><a class="m-n-n-number" href="index.php?page=4">4</a>        </div>
+        <a class="m-n-n-link" href="index.php?page=2"><p class="m-n-n-l-text">Next page</p></a>    </div>
+</div>            </div>
+        </div>
+    </main>
+    <footer>
+        <div class="container">
+            <div class="row">
+                <div class="header-content">
+                    <div class="header-start">
+                        <a href="#UUID">
+                            <span>Enter UUID</span>
+                        </a>
+                        <a href="#feedback">
+                            <span>Feedback</span>
+                        </a>
+                    </div>
+                    <div class="header-end">
+                        <div class="header-socials">
+                            <a href="https://t.me/snatch_team">
+                                <img src="./assets/images/telegram.svg" alt="telegram" />
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+</div>
+<script>
+    $("body").on("input", ".uuid-input", function () {
+        this.value = this.value.toUpperCase();
+    });
+</script>
+<script>
+    let banner_div = document.getElementById("banner_place");
+    if ((window.location.pathname !== "/index.php" && window.location.pathname !== "/") || window.location.search !== "") {
+        banner_div.style.display = "none";
+    } else {
+        if (banner_div.innerText !== "")
+        {
+            document.getElementsByClassName("m-main-content")[0].style.marginTop = "3rem"
+        }
+    }
+</script>
+</body>
+</html>
