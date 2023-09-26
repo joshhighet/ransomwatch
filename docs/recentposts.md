@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-09-26 | [`GCserv.com`](https://google.com/search?q=GCserv.com) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-09-26 | [`Orthum Bau`](https://google.com/search?q=Orthum+Bau) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2023-09-26 | [`Astro Lighting`](https://google.com/search?q=Astro+Lighting) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2023-09-26 | [`Ropertech.com & Vertafore.com`](https://google.com/search?q=Ropertech.com+%26+Vertafore.com) | [dunghill_leak](https://ransomwatch.telemetry.ltd/#/profiles?id=dunghill_leak) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-09-15 | [`http://www.rsv-centrale.be`](https://google.com/search?q=http%3A%2F%2Fwww.rsv-centrale.be) | [ciphbit](https://ransomwatch.telemetry.ltd/#/profiles?id=ciphbit) |
 | 2023-09-15 | [`http://soprovise.fr`](https://google.com/search?q=http%3A%2F%2Fsoprovise.fr) | [ciphbit](https://ransomwatch.telemetry.ltd/#/profiles?id=ciphbit) |
 | 2023-09-15 | [`https://steelforce.eu/`](https://google.com/search?q=https%3A%2F%2Fsteelforce.eu%2F) | [trigona](https://ransomwatch.telemetry.ltd/#/profiles?id=trigona) |
-| 2023-09-14 | [`Statement on MGM Resorts International: Setting the record straight`](https://google.com/search?q=Statement+on+MGM+Resorts+International%3A+Setting+the+record+straight) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
