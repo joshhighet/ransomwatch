@@ -4,6 +4,10 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-09-26 | [`BestPack Packaging`](https://google.com/search?q=BestPack+Packaging) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
+| 2023-09-26 | [`Woody Anderson Ford`](https://google.com/search?q=Woody+Anderson+Ford) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
+| 2023-09-26 | [`Nordic Security Services`](https://google.com/search?q=Nordic+Security+Services) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
+| 2023-09-26 | [`Prestige Care`](https://google.com/search?q=Prestige+Care) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-09-26 | [`Istituto Prosperius`](https://google.com/search?q=Istituto+Prosperius) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2023-09-26 | [`C***** - *`](https://google.com/search?q=C%2A%2A%2A%2A%2A+-+%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-09-26 | [`Kramer Tree Specialists, Inc`](https://google.com/search?q=Kramer+Tree+Specialists%2C+Inc) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
@@ -200,7 +204,3 @@ _last `200` posts_
 | 2023-09-14 | [`etsi.uy`](https://google.com/search?q=etsi.uy) | [knight](https://ransomwatch.telemetry.ltd/#/profiles?id=knight) |
 | 2023-09-14 | [`American Steel & Alu minum`](https://google.com/search?q=American+Steel+%26+Alu+minum) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-09-14 | [`Ja Quith Press Release`](https://google.com/search?q=Ja+Quith+Press+Release) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
-| 2023-09-14 | [`East Baking Press Release`](https://google.com/search?q=East+Baking+Press+Release) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
-| 2023-09-14 | [`carthagehospital.com`](https://google.com/search?q=carthagehospital.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-09-14 | [`www.fondation-vincent-de-paul.org`](https://google.com/search?q=www.fondation-vincent-de-paul.org) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
-| 2023-09-14 | [`educal.mx`](https://google.com/search?q=educal.mx) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
