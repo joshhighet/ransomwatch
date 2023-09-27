@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-09-27 | [`Muenz-Engineered Sales`](https://google.com/search?q=Muenz-Engineered+Sales) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-09-27 | [`Acoustic Center `](https://google.com/search?q=Acoustic+Center+) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-09-27 | [`LANDSTAR POWER ONTARIO INC`](https://google.com/search?q=LANDSTAR+POWER+ONTARIO+INC) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-09-26 | [`www.scara.fr`](https://google.com/search?q=www.scara.fr) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-09-18 | [`Fuji Seal Internatio nal (US branch)`](https://google.com/search?q=Fuji+Seal+Internatio+nal+%28US+branch%29) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-09-18 | [`Hoteles Xcaret`](https://google.com/search?q=Hoteles+Xcaret) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
 | 2023-09-18 | [`Agriloja.pt Full Leak`](https://google.com/search?q=Agriloja.pt+Full+Leak) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
-| 2023-09-18 | [`https://www.grupoboreal.com.ar`](https://google.com/search?q=https%3A%2F%2Fwww.grupoboreal.com.ar) | [trigona](https://ransomwatch.telemetry.ltd/#/profiles?id=trigona) |
