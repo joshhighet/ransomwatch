@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-09-27 | [`Civic San Diego`](https://google.com/search?q=Civic+San+Diego) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-09-27 | [`UTC Overseas`](https://google.com/search?q=UTC+Overseas) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2023-09-27 | [`Unitex Textile Rental Services`](https://google.com/search?q=Unitex+Textile+Rental+Services) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2023-09-27 | [`The Polish American Association`](https://google.com/search?q=The+Polish+American+Association) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-09-18 | [`PASCHAL - Werk G Maier`](https://google.com/search?q=PASCHAL+-+Werk+G+Maier) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-09-18 | [`Vucke`](https://google.com/search?q=Vucke) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-09-18 | [`Glovis America`](https://google.com/search?q=Glovis+America) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2023-09-18 | [`************`](https://google.com/search?q=%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
