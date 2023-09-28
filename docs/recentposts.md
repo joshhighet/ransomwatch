@@ -4,6 +4,13 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-09-28 | [`Jacobson`](https://google.com/search?q=Jacobson) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-09-28 | [`Robuck Homes`](https://google.com/search?q=Robuck+Homes) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-09-28 | [`Webb Landscape`](https://google.com/search?q=Webb+Landscape) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-09-28 | [`Amanzi Marble & Granite`](https://google.com/search?q=Amanzi+Marble+%26+Granite) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-09-28 | [`BAMO`](https://google.com/search?q=BAMO) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-09-28 | [`Van Eck Transport`](https://google.com/search?q=Van+Eck+Transport) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-09-28 | [`Terralogic`](https://google.com/search?q=Terralogic) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-09-28 | [`Kessler Collins`](https://google.com/search?q=Kessler+Collins) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-09-28 | [`Plumbase`](https://google.com/search?q=Plumbase) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-09-28 | [`Wexas`](https://google.com/search?q=Wexas) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -197,10 +204,3 @@ _last `200` posts_
 | 2023-09-20 | [`Al Ashram Contracting`](https://google.com/search?q=Al+Ashram+Contracting) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-09-19 | [`University Obrany - Press Release`](https://google.com/search?q=University+Obrany+-+Press+Release) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2023-09-19 | [`fersan.com.tr`](https://google.com/search?q=fersan.com.tr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-09-19 | [`Announcement: Groupe Fructa Partner will be leaked soon`](https://google.com/search?q=Announcement%3A+Groupe+Fructa+Partner+will+be+leaked+soon) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
-| 2023-09-19 | [`American University of Antigua`](https://google.com/search?q=American+University+of+Antigua) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-09-19 | [`Gossler, Gobert &amp; Wolters Group.`](https://google.com/search?q=Gossler%2C+Gobert+%26amp%3B+Wolters+Group.) | [donutleaks](https://ransomwatch.telemetry.ltd/#/profiles?id=donutleaks) |
-| 2023-09-19 | [`Agilitas IT Solutions Limited`](https://google.com/search?q=Agilitas+IT+Solutions+Limited) | [donutleaks](https://ransomwatch.telemetry.ltd/#/profiles?id=donutleaks) |
-| 2023-09-19 | [`Peacock Bros`](https://google.com/search?q=Peacock+Bros) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2023-09-19 | [`Hacketts printing services`](https://google.com/search?q=Hacketts+printing+services) | [knight](https://ransomwatch.telemetry.ltd/#/profiles?id=knight) |
-| 2023-09-18 | [`CEFCO`](https://google.com/search?q=CEFCO) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
