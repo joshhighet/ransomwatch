@@ -4,6 +4,12 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-09-28 | [`Kessler Collins`](https://google.com/search?q=Kessler+Collins) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-09-28 | [`Plumbase`](https://google.com/search?q=Plumbase) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-09-28 | [`Wexas`](https://google.com/search?q=Wexas) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-09-28 | [`rexgroup.co.uk`](https://google.com/search?q=rexgroup.co.uk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-09-28 | [`fdf.org.uk`](https://google.com/search?q=fdf.org.uk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-09-28 | [`ezpaybuildings.net`](https://google.com/search?q=ezpaybuildings.net) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-09-28 | [`Jacobsen Construction`](https://google.com/search?q=Jacobsen+Construction) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2023-09-28 | [`simmonsequip.com`](https://google.com/search?q=simmonsequip.com) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
 | 2023-09-28 | [`Hochschule Furtwangen University`](https://google.com/search?q=Hochschule+Furtwangen+University) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -198,9 +204,3 @@ _last `200` posts_
 | 2023-09-19 | [`Peacock Bros`](https://google.com/search?q=Peacock+Bros) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2023-09-19 | [`Hacketts printing services`](https://google.com/search?q=Hacketts+printing+services) | [knight](https://ransomwatch.telemetry.ltd/#/profiles?id=knight) |
 | 2023-09-18 | [`CEFCO`](https://google.com/search?q=CEFCO) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
-| 2023-09-18 | [`ZILLI`](https://google.com/search?q=ZILLI) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
-| 2023-09-18 | [`Florida Department of Veterans&#039; Affairs`](https://google.com/search?q=Florida+Department+of+Veterans%26%23039%3B+Affairs) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
-| 2023-09-18 | [`CITIZEN company LEAKED`](https://google.com/search?q=CITIZEN+company+LEAKED) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
-| 2023-09-18 | [`Elemetal`](https://google.com/search?q=Elemetal) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2023-09-18 | [`First Line`](https://google.com/search?q=First+Line) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-09-18 | [`Rea Magnet Wire`](https://google.com/search?q=Rea+Magnet+Wire) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
