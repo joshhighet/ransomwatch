@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-09-29 | [`palaciodosleiloes.com.br`](https://google.com/search?q=palaciodosleiloes.com.br) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-09-29 | [`solveindustrial.com`](https://google.com/search?q=solveindustrial.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-09-29 | [`Garn Mason Orthodontics was hacked. All insurance and personal data of customers was stole`](https://google.com/search?q=Garn+Mason+Orthodontics+was+hacked.+All+insurance+and+personal+data+of+customers+was+stole) | [knight](https://ransomwatch.telemetry.ltd/#/profiles?id=knight) |
 | 2023-09-29 | [`Andalusia Group`](https://google.com/search?q=Andalusia+Group) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-09-20 | [`Federal Labor%20Relations%20Authority`](https://google.com/search?q=Federal+Labor%2520Relations%2520Authority) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2023-09-20 | [`Leoch Battery`](https://google.com/search?q=Leoch+Battery) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2023-09-20 | [`hwwealth.com`](https://google.com/search?q=hwwealth.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-09-20 | [`ENTRUST Solutions%20Group`](https://google.com/search?q=ENTRUST+Solutions%2520Group) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
