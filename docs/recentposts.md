@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-09-29 | [`Andalusia Group`](https://google.com/search?q=Andalusia+Group) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-09-29 | [`Vertical Development`](https://google.com/search?q=Vertical+Development) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-09-29 | [`MNGI Digestive Health`](https://google.com/search?q=MNGI+Digestive+Health) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-09-29 | [`C.F. Service and Supply`](https://google.com/search?q=C.F.+Service+and+Supply) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-09-20 | [`ENTRUST Solutions%20Group`](https://google.com/search?q=ENTRUST+Solutions%2520Group) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2023-09-20 | [`Bacon Universal`](https://google.com/search?q=Bacon+Universal) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2023-09-20 | [`Spuncast`](https://google.com/search?q=Spuncast) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2023-09-20 | [`www.kuengbern.ch`](https://google.com/search?q=www.kuengbern.ch) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
