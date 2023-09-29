@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-09-29 | [`C.F. Service and Supply`](https://google.com/search?q=C.F.+Service+and+Supply) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2023-09-29 | [`Kona Equity`](https://google.com/search?q=Kona+Equity) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-09-28 | [`!!!WARNING!!!`](https://google.com/search?q=%21%21%21WARNING%21%21%21) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-09-28 | [`Jacobson`](https://google.com/search?q=Jacobson) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-09-28 | [`Robuck Homes`](https://google.com/search?q=Robuck+Homes) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-09-20 | [`www.kuengbern.ch`](https://google.com/search?q=www.kuengbern.ch) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-09-20 | [`payrollselectservices.com`](https://google.com/search?q=payrollselectservices.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-09-20 | [`https://www.portesa.es/en`](https://google.com/search?q=https%3A%2F%2Fwww.portesa.es%2Fen) | [trigona](https://ransomwatch.telemetry.ltd/#/profiles?id=trigona) |
-| 2023-09-20 | [`Al Ashram Contracting`](https://google.com/search?q=Al+Ashram+Contracting) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-09-19 | [`University Obrany - Press Release`](https://google.com/search?q=University+Obrany+-+Press+Release) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
