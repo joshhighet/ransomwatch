@@ -64,7 +64,7 @@ curl -s https://www.breachsense.com/ransomware-gangs/ \
 | grep -vE '^[a-z2-7]{16}\.onion$' \
 | sort | uniq > tmp/breachsense.txt
 
-ransomwatch_allfqdn=$(curl -sL "https://ransomwhat.telemetry.ltd/groups")
+ransomwatch_allfqdn=$(curl -sL "https://ransomwhat.telemetry.ltd/groups" | jq '.[].locations[].fqdn' -r)
 
 is_excluded() {
     local address="$1"
