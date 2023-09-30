@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-09-30 | [`Network Pacific Real Estate - Leak`](https://google.com/search?q=Network+Pacific+Real+Estate+-+Leak) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
+| 2023-09-30 | [`Astre - Leaked`](https://google.com/search?q=Astre+-+Leaked) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
 | 2023-09-30 | [`Motel One`](https://google.com/search?q=Motel+One) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-09-30 | [`INC RANSOMWARE...`](https://google.com/search?q=INC+RANSOMWARE...) | [donutleaks](https://ransomwatch.telemetry.ltd/#/profiles?id=donutleaks) |
 | 2023-09-30 | [`MNGI Digestive Health (TIME IS UP)`](https://google.com/search?q=MNGI+Digestive+Health+%28TIME+IS+UP%29) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-09-20 | [`Axis Elevators`](https://google.com/search?q=Axis+Elevators) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-09-20 | [`Chait`](https://google.com/search?q=Chait) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-09-20 | [`Gulf American Lines`](https://google.com/search?q=Gulf+American+Lines) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
-| 2023-09-20 | [`constantinecannon.com`](https://google.com/search?q=constantinecannon.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-09-20 | [`compass-inc.com`](https://google.com/search?q=compass-inc.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
