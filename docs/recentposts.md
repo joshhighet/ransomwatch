@@ -4,6 +4,13 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-10-01 | [`thermae.nl`](https://google.com/search?q=thermae.nl) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-10-01 | [`tayloredservices.com`](https://google.com/search?q=tayloredservices.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-10-01 | [`raeburns.co.uk`](https://google.com/search?q=raeburns.co.uk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-10-01 | [`laspesainfamiglia.coop`](https://google.com/search?q=laspesainfamiglia.coop) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-10-01 | [`fcps1.org`](https://google.com/search?q=fcps1.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-10-01 | [`erga.com`](https://google.com/search?q=erga.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-10-01 | [`ckgroup.com.tw`](https://google.com/search?q=ckgroup.com.tw) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-10-01 | [`Rainbow Travel Service - Press Release`](https://google.com/search?q=Rainbow+Travel+Service+-+Press+Release) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2023-10-01 | [`Cascade Family Dental - Press Release`](https://google.com/search?q=Cascade+Family+Dental+-+Press+Release) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2023-10-01 | [`Shirin Travel Agency`](https://google.com/search?q=Shirin+Travel+Agency) | [arvinclub](https://ransomwatch.telemetry.ltd/#/profiles?id=arvinclub) |
@@ -197,10 +204,3 @@ _last `200` posts_
 | 2023-09-21 | [`Arail`](https://google.com/search?q=Arail) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-09-21 | [`Announcement: Stratesys solutions going to be leaked`](https://google.com/search?q=Announcement%3A+Stratesys+solutions+going+to+be+leaked) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
 | 2023-09-21 | [`Announcement: Stratesys solutions going to b`](https://google.com/search?q=Announcement%3A+Stratesys+solutions+going+to+b) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
-| 2023-09-21 | [`C****** ***** ***m**********`](https://google.com/search?q=C%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A+%2A%2A%2Am%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2023-09-21 | [`Road Safety`](https://google.com/search?q=Road+Safety) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2023-09-21 | [`Smartfren Telecom`](https://google.com/search?q=Smartfren+Telecom) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2023-09-21 | [`A** ******`](https://google.com/search?q=A%2A%2A+%2A%2A%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2023-09-21 | [`DM Civil`](https://google.com/search?q=DM+Civil) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2023-09-21 | [`Hawkins Delafield Wood`](https://google.com/search?q=Hawkins+Delafield+Wood) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
-| 2023-09-21 | [`NOVEXCO`](https://google.com/search?q=NOVEXCO) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
