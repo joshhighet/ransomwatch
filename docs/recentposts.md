@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-10-01 | [`Arga Medicali`](https://google.com/search?q=Arga+Medicali) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-09-30 | [`Network Pacific Real Estate - Leak`](https://google.com/search?q=Network+Pacific+Real+Estate+-+Leak) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
 | 2023-09-30 | [`Astre - Leaked`](https://google.com/search?q=Astre+-+Leaked) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
 | 2023-09-30 | [`Motel One`](https://google.com/search?q=Motel+One) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-09-20 | [`messner.com`](https://google.com/search?q=messner.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-09-20 | [`Axis Elevators`](https://google.com/search?q=Axis+Elevators) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-09-20 | [`Chait`](https://google.com/search?q=Chait) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
-| 2023-09-20 | [`Gulf American Lines`](https://google.com/search?q=Gulf+American+Lines) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
