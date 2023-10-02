@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-10-02 | [`Federal University of Mato Grosso do Sul`](https://google.com/search?q=Federal+University+of+Mato+Grosso+do+Sul) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2023-10-01 | [`thermae.nl`](https://google.com/search?q=thermae.nl) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-10-01 | [`tayloredservices.com`](https://google.com/search?q=tayloredservices.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-10-01 | [`raeburns.co.uk`](https://google.com/search?q=raeburns.co.uk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-09-21 | [`Unique Engineering is the most collaborative and dangerous construction company in Asia`](https://google.com/search?q=Unique+Engineering+is+the+most+collaborative+and+dangerous+construction+company+in+Asia) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-09-21 | [`Arail`](https://google.com/search?q=Arail) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-09-21 | [`Announcement: Stratesys solutions going to be leaked`](https://google.com/search?q=Announcement%3A+Stratesys+solutions+going+to+be+leaked) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
-| 2023-09-21 | [`Announcement: Stratesys solutions going to b`](https://google.com/search?q=Announcement%3A+Stratesys+solutions+going+to+b) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
