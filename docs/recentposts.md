@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-10-02 | [`Confidential files`](https://google.com/search?q=Confidential+files) | [ransomblog_noname](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomblog_noname) |
+| 2023-10-02 | [`Pain Care`](https://google.com/search?q=Pain+Care) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-10-02 | [`******g`](https://google.com/search?q=%2A%2A%2A%2A%2A%2Ag) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-10-02 | [`Pasouk biological company `](https://google.com/search?q=Pasouk+biological+company+) | [arvinclub](https://ransomwatch.telemetry.ltd/#/profiles?id=arvinclub) |
 | 2023-10-02 | [`Steripharma`](https://google.com/search?q=Steripharma) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-09-22 | [`Holon Institute of Technology`](https://google.com/search?q=Holon+Institute+of+Technology) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2023-09-22 | [`PainCare`](https://google.com/search?q=PainCare) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-09-22 | [`TAOGLAS`](https://google.com/search?q=TAOGLAS) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-09-21 | [`Auckland University of Technology`](https://google.com/search?q=Auckland+University+of+Technology) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
-| 2023-09-21 | [`Mole Valley Farmers`](https://google.com/search?q=Mole+Valley+Farmers) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
