@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-10-02 | [`Kirkholm Maskiningeniører`](https://google.com/search?q=Kirkholm+Maskiningeni%C3%B8rer) | [mallox](https://ransomwatch.telemetry.ltd/#/profiles?id=mallox) |
 | 2023-10-02 | [`Federal University of Mato Grosso do Sul`](https://google.com/search?q=Federal+University+of+Mato+Grosso+do+Sul) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2023-10-01 | [`thermae.nl`](https://google.com/search?q=thermae.nl) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-10-01 | [`tayloredservices.com`](https://google.com/search?q=tayloredservices.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-09-21 | [`ende.co.ao is a company you can test corporate network hack on and have 100% hacking succe`](https://google.com/search?q=ende.co.ao+is+a+company+you+can+test+corporate+network+hack+on+and+have+100%25+hacking+succe) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-09-21 | [`Unique Engineering is the most collaborative and dangerous construction company in Asia`](https://google.com/search?q=Unique+Engineering+is+the+most+collaborative+and+dangerous+construction+company+in+Asia) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-09-21 | [`Arail`](https://google.com/search?q=Arail) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-09-21 | [`Announcement: Stratesys solutions going to be leaked`](https://google.com/search?q=Announcement%3A+Stratesys+solutions+going+to+be+leaked) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
