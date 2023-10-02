@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-10-02 | [`******g`](https://google.com/search?q=%2A%2A%2A%2A%2A%2Ag) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2023-10-02 | [`Pasouk biological company `](https://google.com/search?q=Pasouk+biological+company+) | [arvinclub](https://ransomwatch.telemetry.ltd/#/profiles?id=arvinclub) |
 | 2023-10-02 | [`Steripharma`](https://google.com/search?q=Steripharma) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-10-02 | [`Windak`](https://google.com/search?q=Windak) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-10-02 | [`Karam Chand Thapar &amp; Bros Coal Sales`](https://google.com/search?q=Karam+Chand+Thapar+%26amp%3B+Bros+Coal+Sales) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-09-22 | [`TAOGLAS`](https://google.com/search?q=TAOGLAS) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-09-21 | [`Auckland University of Technology`](https://google.com/search?q=Auckland+University+of+Technology) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2023-09-21 | [`Mole Valley Farmers`](https://google.com/search?q=Mole+Valley+Farmers) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-09-21 | [`ruko.de`](https://google.com/search?q=ruko.de) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-09-21 | [`Cosal is a company that distributes personal and confidential data of its customers and re`](https://google.com/search?q=Cosal+is+a+company+that+distributes+personal+and+confidential+data+of+its+customers+and+re) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
