@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-10-03 | [`University of Defence - Part 1`](https://google.com/search?q=University+of+Defence+-+Part+1) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2023-10-03 | [`Maxco Supply`](https://google.com/search?q=Maxco+Supply) | [moneymessage](https://ransomwatch.telemetry.ltd/#/profiles?id=moneymessage) |
 | 2023-10-03 | [`Somagic`](https://google.com/search?q=Somagic) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-10-03 | [`The One Group`](https://google.com/search?q=The+One+Group) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-09-22 | [`Agilitas IT%20Solutions%20Limited`](https://google.com/search?q=Agilitas+IT%2520Solutions%2520Limited) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2023-09-22 | [`CLX Logistics`](https://google.com/search?q=CLX+Logistics) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-09-22 | [`Pik Rite`](https://google.com/search?q=Pik+Rite) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-09-22 | [`Progressive Leasing ( 40 million Customers PII Data )`](https://google.com/search?q=Progressive+Leasing+%28+40+million+Customers+PII+Data+%29) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
