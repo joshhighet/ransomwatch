@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-10-03 | [`colsan.edu.mx`](https://google.com/search?q=colsan.edu.mx) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
+| 2023-10-03 | [`www.sefag.hu`](https://google.com/search?q=www.sefag.hu) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
+| 2023-10-03 | [`bellsonica.co.jp`](https://google.com/search?q=bellsonica.co.jp) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-10-02 | [`RAT.`](https://google.com/search?q=RAT.) | [donutleaks](https://ransomwatch.telemetry.ltd/#/profiles?id=donutleaks) |
 | 2023-10-02 | [`AllCare Pharmacy`](https://google.com/search?q=AllCare+Pharmacy) | [lorenz](https://ransomwatch.telemetry.ltd/#/profiles?id=lorenz) |
 | 2023-10-02 | [`Confidential files`](https://google.com/search?q=Confidential+files) | [ransomblog_noname](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomblog_noname) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2023-09-22 | [`Hospice of Huntington`](https://google.com/search?q=Hospice+of+Huntington) | [karakurt](https://ransomwatch.telemetry.ltd/#/profiles?id=karakurt) |
 | 2023-09-22 | [`haciendazorita.com`](https://google.com/search?q=haciendazorita.com) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
 | 2023-09-22 | [`fi-tech.com`](https://google.com/search?q=fi-tech.com) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
-| 2023-09-22 | [`Yakima Valley Radiology`](https://google.com/search?q=Yakima+Valley+Radiology) | [karakurt](https://ransomwatch.telemetry.ltd/#/profiles?id=karakurt) |
-| 2023-09-22 | [`neuraxpharm.com`](https://google.com/search?q=neuraxpharm.com) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
-| 2023-09-22 | [`Holon Institute of Technology`](https://google.com/search?q=Holon+Institute+of+Technology) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
