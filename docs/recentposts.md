@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-10-03 | [`aicsacorp.com`](https://google.com/search?q=aicsacorp.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-10-03 | [`co.rock.wi.us`](https://google.com/search?q=co.rock.wi.us) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
 | 2023-10-03 | [`GDL Logística Integrada S.A`](https://google.com/search?q=GDL+Log%C3%ADstica+Integrada+S.A) | [knight](https://ransomwatch.telemetry.ltd/#/profiles?id=knight) |
 | 2023-10-03 | [`Sabian Inc`](https://google.com/search?q=Sabian+Inc) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-10-03 | [`Ted Pella Inc.`](https://google.com/search?q=Ted+Pella+Inc.) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-09-22 | [`Announcement: COMECA Group going to be Leaked`](https://google.com/search?q=Announcement%3A+COMECA+Group+going+to+be+Leaked) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
 | 2023-09-22 | [`Announcement: Skatax Accounting company going to be leaked`](https://google.com/search?q=Announcement%3A+Skatax+Accounting+company+going+to+be+leaked) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
 | 2023-09-22 | [`pelmorex.com`](https://google.com/search?q=pelmorex.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-09-22 | [`Carlo Ditta`](https://google.com/search?q=Carlo+Ditta) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-09-22 | [`Yusen Logistics`](https://google.com/search?q=Yusen+Logistics) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
