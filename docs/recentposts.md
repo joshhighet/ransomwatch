@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-10-03 | [`Maxco Supply`](https://google.com/search?q=Maxco+Supply) | [moneymessage](https://ransomwatch.telemetry.ltd/#/profiles?id=moneymessage) |
 | 2023-10-03 | [`Somagic`](https://google.com/search?q=Somagic) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-10-03 | [`The One Group`](https://google.com/search?q=The+One+Group) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-10-03 | [`Groupe Fructa Partner - Leaked`](https://google.com/search?q=Groupe+Fructa+Partner+-+Leaked) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-09-22 | [`CLX Logistics`](https://google.com/search?q=CLX+Logistics) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-09-22 | [`Pik Rite`](https://google.com/search?q=Pik+Rite) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-09-22 | [`Progressive Leasing ( 40 million Customers PII Data )`](https://google.com/search?q=Progressive+Leasing+%28+40+million+Customers+PII+Data+%29) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-09-22 | [`SAGAM Groupe - a company with dozens of vulnerabilities in its network has been hacked and`](https://google.com/search?q=SAGAM+Groupe+-+a+company+with+dozens+of+vulnerabilities+in+its+network+has+been+hacked+and) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
