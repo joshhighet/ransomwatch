@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-10-03 | [`GDL Logística Integrada S.A`](https://google.com/search?q=GDL+Log%C3%ADstica+Integrada+S.A) | [knight](https://ransomwatch.telemetry.ltd/#/profiles?id=knight) |
 | 2023-10-03 | [`Sabian Inc`](https://google.com/search?q=Sabian+Inc) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-10-03 | [`Ted Pella Inc.`](https://google.com/search?q=Ted+Pella+Inc.) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-10-03 | [`Measuresoft`](https://google.com/search?q=Measuresoft) | [mallox](https://ransomwatch.telemetry.ltd/#/profiles?id=mallox) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-09-22 | [`pelmorex.com`](https://google.com/search?q=pelmorex.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-09-22 | [`Carlo Ditta`](https://google.com/search?q=Carlo+Ditta) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-09-22 | [`Yusen Logistics`](https://google.com/search?q=Yusen+Logistics) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-09-22 | [`Retail House - Full Leak`](https://google.com/search?q=Retail+House+-+Full+Leak) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
