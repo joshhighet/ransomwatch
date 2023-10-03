@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-10-03 | [`Sabian Inc`](https://google.com/search?q=Sabian+Inc) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2023-10-03 | [`Ted Pella Inc.`](https://google.com/search?q=Ted+Pella+Inc.) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-10-03 | [`Measuresoft`](https://google.com/search?q=Measuresoft) | [mallox](https://ransomwatch.telemetry.ltd/#/profiles?id=mallox) |
 | 2023-10-03 | [`colsan.edu.mx`](https://google.com/search?q=colsan.edu.mx) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-10-03 | [`www.sefag.hu`](https://google.com/search?q=www.sefag.hu) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-09-22 | [`Carlo Ditta`](https://google.com/search?q=Carlo+Ditta) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-09-22 | [`Yusen Logistics`](https://google.com/search?q=Yusen+Logistics) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-09-22 | [`Retail House - Full Leak`](https://google.com/search?q=Retail+House+-+Full+Leak) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
-| 2023-09-22 | [`Hospice of Huntington`](https://google.com/search?q=Hospice+of+Huntington) | [karakurt](https://ransomwatch.telemetry.ltd/#/profiles?id=karakurt) |
-| 2023-09-22 | [`haciendazorita.com`](https://google.com/search?q=haciendazorita.com) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
