@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-10-04 | [`suncoast-chc.org`](https://google.com/search?q=suncoast-chc.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-10-04 | [`ditronics.com`](https://google.com/search?q=ditronics.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2023-10-04 | [`Meridian Cooperative`](https://google.com/search?q=Meridian+Cooperative) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
 | 2023-10-04 | [`Roof Management`](https://google.com/search?q=Roof+Management) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-09-24 | [`footshop.bg`](https://google.com/search?q=footshop.bg) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
 | 2023-09-24 | [`Punto.bg`](https://google.com/search?q=Punto.bg) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
 | 2023-09-23 | [`arelion.com`](https://google.com/search?q=arelion.com) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
-| 2023-09-23 | [`Clarion is the most dangerous electronics to use that can cause you to be hacked`](https://google.com/search?q=Clarion+is+the+most+dangerous+electronics+to+use+that+can+cause+you+to+be+hacked) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
