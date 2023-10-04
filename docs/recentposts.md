@@ -4,6 +4,12 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-10-04 | [`Roof Management`](https://google.com/search?q=Roof+Management) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-10-04 | [`Security Instrument`](https://google.com/search?q=Security+Instrument) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-10-04 | [`Filtration Control`](https://google.com/search?q=Filtration+Control) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-10-04 | [`Cinepolis USA`](https://google.com/search?q=Cinepolis+USA) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-10-04 | [`CHARMANT Group`](https://google.com/search?q=CHARMANT+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-10-04 | [`Stavanger Municipality`](https://google.com/search?q=Stavanger+Municipality) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-10-04 | [`McLaren Health Care Corporation`](https://google.com/search?q=McLaren+Health+Care+Corporation) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-10-04 | [`Gruskin Group`](https://google.com/search?q=Gruskin+Group) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-10-04 | [`LEAKED! Motel One`](https://google.com/search?q=LEAKED%21+Motel+One) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -198,9 +204,3 @@ _last `200` posts_
 | 2023-09-23 | [`Clarion is the most dangerous electronics to use that can cause you to be hacked`](https://google.com/search?q=Clarion+is+the+most+dangerous+electronics+to+use+that+can+cause+you+to+be+hacked) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-09-23 | [`interep`](https://google.com/search?q=interep) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
 | 2023-09-23 | [`bpr-properties.com`](https://google.com/search?q=bpr-properties.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
-| 2023-09-23 | [`Franktronics, Inc`](https://google.com/search?q=Franktronics%2C+Inc) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
-| 2023-09-23 | [`Philippine Health Insurance `](https://google.com/search?q=Philippine+Health+Insurance+) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
-| 2023-09-23 | [`F Hinds`](https://google.com/search?q=F+Hinds) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2023-09-23 | [`FabricATE Engineering`](https://google.com/search?q=FabricATE+Engineering) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-09-23 | [`The Envelope Works Ltd`](https://google.com/search?q=The+Envelope+Works+Ltd) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-09-23 | [`Ort Harmelin College of Engineering`](https://google.com/search?q=Ort+Harmelin+College+of+Engineering) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
