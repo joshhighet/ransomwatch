@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-10-04 | [`McLaren Health Care Corporation`](https://google.com/search?q=McLaren+Health+Care+Corporation) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-10-04 | [`Gruskin Group`](https://google.com/search?q=Gruskin+Group) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-10-04 | [`LEAKED! Motel One`](https://google.com/search?q=LEAKED%21+Motel+One) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-10-04 | [`US Liner Company & American Made LLC`](https://google.com/search?q=US+Liner+Company+%26+American+Made+LLC) | [0mega](https://ransomwatch.telemetry.ltd/#/profiles?id=0mega) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-09-23 | [`FabricATE Engineering`](https://google.com/search?q=FabricATE+Engineering) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-09-23 | [`The Envelope Works Ltd`](https://google.com/search?q=The+Envelope+Works+Ltd) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-09-23 | [`Ort Harmelin College of Engineering`](https://google.com/search?q=Ort+Harmelin+College+of+Engineering) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2023-09-22 | [`precisionpractice.com`](https://google.com/search?q=precisionpractice.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
