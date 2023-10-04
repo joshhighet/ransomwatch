@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-10-04 | [`ditronics.com`](https://google.com/search?q=ditronics.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
+| 2023-10-04 | [`Meridian Cooperative`](https://google.com/search?q=Meridian+Cooperative) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
 | 2023-10-04 | [`Roof Management`](https://google.com/search?q=Roof+Management) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-10-04 | [`Security Instrument`](https://google.com/search?q=Security+Instrument) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-10-04 | [`Filtration Control`](https://google.com/search?q=Filtration+Control) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-09-24 | [`Punto.bg`](https://google.com/search?q=Punto.bg) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
 | 2023-09-23 | [`arelion.com`](https://google.com/search?q=arelion.com) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
 | 2023-09-23 | [`Clarion is the most dangerous electronics to use that can cause you to be hacked`](https://google.com/search?q=Clarion+is+the+most+dangerous+electronics+to+use+that+can+cause+you+to+be+hacked) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-09-23 | [`interep`](https://google.com/search?q=interep) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
-| 2023-09-23 | [`bpr-properties.com`](https://google.com/search?q=bpr-properties.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
