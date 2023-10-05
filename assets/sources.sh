@@ -3,6 +3,10 @@
 # freshonifyfe4rmuh6qwpsexfhdrww7wnt5qmkoertwxmcuvm4woo4ad.onion
 # onionwsoiu53xre32jwve7euacadvhprq2jytfttb55hrbo3execodad.onion
 
+if [ ! -d tmp ]; then
+    mkdir tmp
+fi
+
 master_list=$(curl -sL ransomwhat.telemetry.ltd/groups | jq '.[].locations[].fqdn' -r)
 
 curl -s https://telemetr.io/en/channels/1232665535-dbforall/posts \
