@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-10-05 | [`sirva.com`](https://google.com/search?q=sirva.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-10-05 | [`RICOR Global Limited`](https://google.com/search?q=RICOR+Global+Limited) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2023-10-05 | [`Cornerstone Projects Group`](https://google.com/search?q=Cornerstone+Projects+Group) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2023-10-05 | [`Learning Partnership West - Leaked`](https://google.com/search?q=Learning+Partnership+West+-+Leaked) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-09-24 | [`epson`](https://google.com/search?q=epson) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
 | 2023-09-24 | [`Phil-Data Business Systems was hacked. A lot of critical data was stolen. We've gained acc`](https://google.com/search?q=Phil-Data+Business+Systems+was+hacked.+A+lot+of+critical+data+was+stolen.+We%27ve+gained+acc) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-09-24 | [`mango.bg`](https://google.com/search?q=mango.bg) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
-| 2023-09-24 | [`ebag.bg`](https://google.com/search?q=ebag.bg) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
