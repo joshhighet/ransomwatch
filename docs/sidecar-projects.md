@@ -32,3 +32,4 @@
 
 - [ransomlook.io](https://www.ransomlook.io)
 - [ransomfind.io](https://ransomfind.io)
+- [provectio/go-ransomwatch](https://github.com/provectio/go-ransomwatch)
