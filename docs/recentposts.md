@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-10-05 | [`UPDATED: INC RANSOMWARE...`](https://google.com/search?q=UPDATED%3A+INC+RANSOMWARE...) | [donutleaks](https://ransomwatch.telemetry.ltd/#/profiles?id=donutleaks) |
 | 2023-10-05 | [`www.breastpumps.com`](https://google.com/search?q=www.breastpumps.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-10-04 | [`suncoast-chc.org`](https://google.com/search?q=suncoast-chc.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-10-04 | [`ditronics.com`](https://google.com/search?q=ditronics.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-09-24 | [`ecco.bg`](https://google.com/search?q=ecco.bg) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
 | 2023-09-24 | [`districtshoes.bg`](https://google.com/search?q=districtshoes.bg) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
 | 2023-09-24 | [`footshop.bg`](https://google.com/search?q=footshop.bg) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
-| 2023-09-24 | [`Punto.bg`](https://google.com/search?q=Punto.bg) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
