@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-10-06 | [`For UNOB`](https://google.com/search?q=For+UNOB) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2023-10-06 | [`(SALE) District Of Columbia Elections 600k lines VOTERS DATA`](https://google.com/search?q=%28SALE%29+District+Of+Columbia+Elections+600k+lines+VOTERS+DATA) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
 | 2023-10-06 | [`Agència Catalana de Notícies (ACN)`](https://google.com/search?q=Ag%C3%A8ncia+Catalana+de+Not%C3%ADcies+%28ACN%29) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-10-06 | [`tatatelebusiness.com`](https://google.com/search?q=tatatelebusiness.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-09-25 | [`Nusmiles Hospital`](https://google.com/search?q=Nusmiles+Hospital) | [knight](https://ransomwatch.telemetry.ltd/#/profiles?id=knight) |
 | 2023-09-25 | [`Stratesys Full data leak`](https://google.com/search?q=Stratesys+Full+data+leak) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
 | 2023-09-25 | [`Ministry Of Finance (Kuwait)`](https://google.com/search?q=Ministry+Of+Finance+%28Kuwait%29) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2023-09-25 | [`Praxis Arndt und Langer`](https://google.com/search?q=Praxis+Arndt+und+Langer) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
