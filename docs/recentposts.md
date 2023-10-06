@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-10-06 | [`(SALE) District Of Columbia Elections 600k lines VOTERS DATA`](https://google.com/search?q=%28SALE%29+District+Of+Columbia+Elections+600k+lines+VOTERS+DATA) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
+| 2023-10-06 | [`Camara Municipal de Gondomar`](https://google.com/search?q=Camara+Municipal+de+Gondomar) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2023-10-05 | [`sirva.com`](https://google.com/search?q=sirva.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-10-05 | [`RICOR Global Limited`](https://google.com/search?q=RICOR+Global+Limited) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2023-10-05 | [`Cornerstone Projects Group`](https://google.com/search?q=Cornerstone+Projects+Group) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
@@ -188,7 +190,7 @@ _last `200` posts_
 | 2023-09-26 | [`powerhousenow.com`](https://google.com/search?q=powerhousenow.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-09-25 | [`zzcoldstores.com`](https://google.com/search?q=zzcoldstores.com) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-09-25 | [`ZZColdstores`](https://google.com/search?q=ZZColdstores) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-09-25 | [`NTT Docomo - Japan 1st Mobile Operator`](https://google.com/search?q=NTT+Docomo+-+Japan+1st+Mobile+Operator) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
+| 2023-09-25 | [`NTT Docomo`](https://google.com/search?q=NTT+Docomo) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
 | 2023-09-25 | [`Nusmiles Hospital`](https://google.com/search?q=Nusmiles+Hospital) | [knight](https://ransomwatch.telemetry.ltd/#/profiles?id=knight) |
 | 2023-09-25 | [`Stratesys Full data leak`](https://google.com/search?q=Stratesys+Full+data+leak) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
 | 2023-09-25 | [`Ministry Of Finance (Kuwait)`](https://google.com/search?q=Ministry+Of+Finance+%28Kuwait%29) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
@@ -197,10 +199,8 @@ _last `200` posts_
 | 2023-09-25 | [`J.T. Cullen Co., Inc.`](https://google.com/search?q=J.T.+Cullen+Co.%2C+Inc.) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-09-25 | [`Springer Eubank`](https://google.com/search?q=Springer+Eubank) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-09-24 | [`MNGI Digestive Health2`](https://google.com/search?q=MNGI+Digestive+Health2) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-09-24 | [`SONY.COM`](https://google.com/search?q=SONY.COM) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
+| 2023-09-24 | [`SONY.com`](https://google.com/search?q=SONY.com) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
 | 2023-09-24 | [`altmanplants.com`](https://google.com/search?q=altmanplants.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-09-24 | [`www.leekes.co.uk`](https://google.com/search?q=www.leekes.co.uk) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
-| 2023-09-24 | [`bnm.bg`](https://google.com/search?q=bnm.bg) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
+| 2023-09-24 | [`BNM.bg`](https://google.com/search?q=BNM.bg) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
 | 2023-09-24 | [`epson`](https://google.com/search?q=epson) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
-| 2023-09-24 | [`Phil-Data Business Systems was hacked. A lot of critical data was stolen. We've gained acc`](https://google.com/search?q=Phil-Data+Business+Systems+was+hacked.+A+lot+of+critical+data+was+stolen.+We%27ve+gained+acc) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-09-24 | [`mango.bg`](https://google.com/search?q=mango.bg) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
