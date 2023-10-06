@@ -5,6 +5,13 @@ _last `200` posts_
 | date | title | group |
 |---|---|---|
 | 2023-10-06 | [`(SALE) District Of Columbia Elections 600k lines VOTERS DATA`](https://google.com/search?q=%28SALE%29+District+Of+Columbia+Elections+600k+lines+VOTERS+DATA) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
+| 2023-10-06 | [`tatatelebusiness.com`](https://google.com/search?q=tatatelebusiness.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-10-06 | [`sinedieadvisor.com`](https://google.com/search?q=sinedieadvisor.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-10-06 | [`picosoft.biz`](https://google.com/search?q=picosoft.biz) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-10-06 | [`litung.com.tw`](https://google.com/search?q=litung.com.tw) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-10-06 | [`eemotors.com`](https://google.com/search?q=eemotors.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-10-06 | [`cote-expert-equipements.com`](https://google.com/search?q=cote-expert-equipements.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-10-06 | [`bm.co.th`](https://google.com/search?q=bm.co.th) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-10-06 | [`www.grangermedical.com`](https://google.com/search?q=www.grangermedical.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-10-06 | [`Camara Municipal de Gondomar`](https://google.com/search?q=Camara+Municipal+de+Gondomar) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2023-10-05 | [`sirva.com`](https://google.com/search?q=sirva.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -197,10 +204,3 @@ _last `200` posts_
 | 2023-09-25 | [`Ministry Of Finance (Kuwait)`](https://google.com/search?q=Ministry+Of+Finance+%28Kuwait%29) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2023-09-25 | [`Praxis Arndt und Langer`](https://google.com/search?q=Praxis+Arndt+und+Langer) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-09-25 | [`PRETZEL-STOUFFER`](https://google.com/search?q=PRETZEL-STOUFFER) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-09-25 | [`J.T. Cullen Co., Inc.`](https://google.com/search?q=J.T.+Cullen+Co.%2C+Inc.) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-09-25 | [`Springer Eubank`](https://google.com/search?q=Springer+Eubank) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-09-24 | [`MNGI Digestive Health2`](https://google.com/search?q=MNGI+Digestive+Health2) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-09-24 | [`SONY.com`](https://google.com/search?q=SONY.com) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
-| 2023-09-24 | [`altmanplants.com`](https://google.com/search?q=altmanplants.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-09-24 | [`www.leekes.co.uk`](https://google.com/search?q=www.leekes.co.uk) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
-| 2023-09-24 | [`BNM.bg`](https://google.com/search?q=BNM.bg) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
