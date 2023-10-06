@@ -5,6 +5,7 @@ _last `200` posts_
 | date | title | group |
 |---|---|---|
 | 2023-10-06 | [`(SALE) District Of Columbia Elections 600k lines VOTERS DATA`](https://google.com/search?q=%28SALE%29+District+Of+Columbia+Elections+600k+lines+VOTERS+DATA) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
+| 2023-10-06 | [`www.grangermedical.com`](https://google.com/search?q=www.grangermedical.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-10-06 | [`Camara Municipal de Gondomar`](https://google.com/search?q=Camara+Municipal+de+Gondomar) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2023-10-05 | [`sirva.com`](https://google.com/search?q=sirva.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-10-05 | [`RICOR Global Limited`](https://google.com/search?q=RICOR+Global+Limited) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-09-24 | [`altmanplants.com`](https://google.com/search?q=altmanplants.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-09-24 | [`www.leekes.co.uk`](https://google.com/search?q=www.leekes.co.uk) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-09-24 | [`BNM.bg`](https://google.com/search?q=BNM.bg) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
-| 2023-09-24 | [`epson`](https://google.com/search?q=epson) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
