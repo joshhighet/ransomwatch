@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-10-07 | [`University Obrany - Part 2 (Tiny Leak)`](https://google.com/search?q=University+Obrany+-+Part+2+%28Tiny+Leak%29) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2023-10-07 | [`The Hurley Group`](https://google.com/search?q=The+Hurley+Group) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2023-10-07 | [`Healix`](https://google.com/search?q=Healix) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-10-07 | [`Partnership With Breachforums`](https://google.com/search?q=Partnership+With+Breachforums) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-09-26 | [`Pond Security`](https://google.com/search?q=Pond+Security) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-09-26 | [`SUD TRADING COMPANY`](https://google.com/search?q=SUD+TRADING+COMPANY) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-09-26 | [`www.waterloomedia.com`](https://google.com/search?q=www.waterloomedia.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
-| 2023-09-26 | [`powerhousenow.com`](https://google.com/search?q=powerhousenow.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
