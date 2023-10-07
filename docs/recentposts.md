@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-10-07 | [`Healix`](https://google.com/search?q=Healix) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-10-07 | [`Partnership With Breachforums`](https://google.com/search?q=Partnership+With+Breachforums) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
 | 2023-10-07 | [`DallBogg Breach`](https://google.com/search?q=DallBogg+Breach) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
 | 2023-10-06 | [`sogebank.com`](https://google.com/search?q=sogebank.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-09-26 | [`www.waterloomedia.com`](https://google.com/search?q=www.waterloomedia.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-09-26 | [`powerhousenow.com`](https://google.com/search?q=powerhousenow.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-09-25 | [`zzcoldstores.com`](https://google.com/search?q=zzcoldstores.com) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-09-25 | [`ZZColdstores`](https://google.com/search?q=ZZColdstores) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
