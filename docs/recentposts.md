@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-10-08 | [`novoingresso.com.br`](https://google.com/search?q=novoingresso.com.br) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
+| 2023-10-08 | [`webpag.com.br`](https://google.com/search?q=webpag.com.br) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
+| 2023-10-08 | [`rodoviariaonline.com.br`](https://google.com/search?q=rodoviariaonline.com.br) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
 | 2023-10-08 | [`IKM`](https://google.com/search?q=IKM) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-10-08 | [`Petersen Johnson`](https://google.com/search?q=Petersen+Johnson) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-10-07 | [`University Obrany - Part 2 (Tiny Leak)`](https://google.com/search?q=University+Obrany+-+Part+2+%28Tiny+Leak%29) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2023-09-26 | [`T****** H********** G****`](https://google.com/search?q=T%2A%2A%2A%2A%2A%2A+H%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A+G%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-09-26 | [`W***** C***** A******** D******* D*****`](https://google.com/search?q=W%2A%2A%2A%2A%2A+C%2A%2A%2A%2A%2A+A%2A%2A%2A%2A%2A%2A%2A%2A+D%2A%2A%2A%2A%2A%2A%2A+D%2A%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-09-26 | [`Lutheran Church and Preschool`](https://google.com/search?q=Lutheran+Church+and+Preschool) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2023-09-26 | [`Saint Mark Catholic Church`](https://google.com/search?q=Saint+Mark+Catholic+Church) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2023-09-26 | [`WEBBER RESTAURANT GROUP`](https://google.com/search?q=WEBBER+RESTAURANT+GROUP) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-09-26 | [`Pond Security`](https://google.com/search?q=Pond+Security) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
