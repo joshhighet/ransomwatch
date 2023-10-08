@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-10-08 | [`Islamic Azad University of Shiraz`](https://google.com/search?q=Islamic+Azad+University+of+Shiraz) | [arvinclub](https://ransomwatch.telemetry.ltd/#/profiles?id=arvinclub) |
 | 2023-10-08 | [`urc-automation.com`](https://google.com/search?q=urc-automation.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-10-08 | [`Metroclub.org`](https://google.com/search?q=Metroclub.org) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
 | 2023-10-08 | [`I&#038;G Brokers`](https://google.com/search?q=I%26%23038%3BG+Brokers) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-09-26 | [`Ropertech.com & Vertafore.com`](https://google.com/search?q=Ropertech.com+%26+Vertafore.com) | [dunghill_leak](https://ransomwatch.telemetry.ltd/#/profiles?id=dunghill_leak) |
 | 2023-09-26 | [`BestPack Packaging`](https://google.com/search?q=BestPack+Packaging) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-09-26 | [`Woody Anderson Ford`](https://google.com/search?q=Woody+Anderson+Ford) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-09-26 | [`Nordic Security Services`](https://google.com/search?q=Nordic+Security+Services) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
