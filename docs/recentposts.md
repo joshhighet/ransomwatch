@@ -4,6 +4,14 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-10-08 | [`Metroclub.org`](https://google.com/search?q=Metroclub.org) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
+| 2023-10-08 | [`I&#038;G Brokers`](https://google.com/search?q=I%26%23038%3BG+Brokers) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
+| 2023-10-08 | [`Optimity UK`](https://google.com/search?q=Optimity+UK) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
+| 2023-10-08 | [`Baumit Bulgaria`](https://google.com/search?q=Baumit+Bulgaria) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
+| 2023-10-08 | [`Kasida.bg Database Leaked, Download`](https://google.com/search?q=Kasida.bg+Database+Leaked%2C+Download) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
+| 2023-10-08 | [`I&#038;G Brokers Database, Download Now`](https://google.com/search?q=I%26%23038%3BG+Brokers+Database%2C+Download+Now) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
+| 2023-10-08 | [`pilini.bg Database, Download Now!`](https://google.com/search?q=pilini.bg+Database%2C+Download+Now%21) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
+| 2023-10-08 | [`iLife.bg`](https://google.com/search?q=iLife.bg) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
 | 2023-10-08 | [`novoingresso.com.br`](https://google.com/search?q=novoingresso.com.br) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
 | 2023-10-08 | [`webpag.com.br`](https://google.com/search?q=webpag.com.br) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
 | 2023-10-08 | [`rodoviariaonline.com.br`](https://google.com/search?q=rodoviariaonline.com.br) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
@@ -196,11 +204,3 @@ _last `200` posts_
 | 2023-09-26 | [`Woody Anderson Ford`](https://google.com/search?q=Woody+Anderson+Ford) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-09-26 | [`Nordic Security Services`](https://google.com/search?q=Nordic+Security+Services) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-09-26 | [`Prestige Care`](https://google.com/search?q=Prestige+Care) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-09-26 | [`Istituto Prosperius`](https://google.com/search?q=Istituto+Prosperius) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2023-09-26 | [`C***** - *`](https://google.com/search?q=C%2A%2A%2A%2A%2A+-+%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2023-09-26 | [`Kramer Tree Specialists, Inc`](https://google.com/search?q=Kramer+Tree+Specialists%2C+Inc) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2023-09-26 | [`N****** O***********`](https://google.com/search?q=N%2A%2A%2A%2A%2A%2A+O%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2023-09-26 | [`P******* U**********`](https://google.com/search?q=P%2A%2A%2A%2A%2A%2A%2A+U%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2023-09-26 | [`T****** H********** G****`](https://google.com/search?q=T%2A%2A%2A%2A%2A%2A+H%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A+G%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2023-09-26 | [`W***** C***** A******** D******* D*****`](https://google.com/search?q=W%2A%2A%2A%2A%2A+C%2A%2A%2A%2A%2A+A%2A%2A%2A%2A%2A%2A%2A%2A+D%2A%2A%2A%2A%2A%2A%2A+D%2A%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2023-09-26 | [`Lutheran Church and Preschool`](https://google.com/search?q=Lutheran+Church+and+Preschool) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
