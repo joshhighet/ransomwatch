@@ -4,6 +4,13 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-10-09 | [`www.fruchtverarbeitung.de`](https://google.com/search?q=www.fruchtverarbeitung.de) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
+| 2023-10-09 | [`Saltire Energy`](https://google.com/search?q=Saltire+Energy) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-10-09 | [`Starr Finley`](https://google.com/search?q=Starr+Finley) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-10-09 | [`WCM Europe`](https://google.com/search?q=WCM+Europe) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-10-09 | [`NachtExpress Austria GmbH`](https://google.com/search?q=NachtExpress+Austria+GmbH) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-10-09 | [`Centek industries`](https://google.com/search?q=Centek+industries) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-10-09 | [`Hughes Gill Cochrane Tinetti`](https://google.com/search?q=Hughes+Gill+Cochrane+Tinetti) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-10-09 | [`www.penfieldfire.org`](https://google.com/search?q=www.penfieldfire.org) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-10-09 | [`M??? T??????`](https://google.com/search?q=M%3F%3F%3F+T%3F%3F%3F%3F%3F%3F) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-10-09 | [`centredusablon.com`](https://google.com/search?q=centredusablon.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
@@ -197,10 +204,3 @@ _last `200` posts_
 | 2023-09-26 | [`Gold Coin Restaurant`](https://google.com/search?q=Gold+Coin+Restaurant) | [losttrust](https://ransomwatch.telemetry.ltd/#/profiles?id=losttrust) |
 | 2023-09-26 | [`Marlboro Township Public School`](https://google.com/search?q=Marlboro+Township+Public+School) | [losttrust](https://ransomwatch.telemetry.ltd/#/profiles?id=losttrust) |
 | 2023-09-26 | [`Carmocal`](https://google.com/search?q=Carmocal) | [losttrust](https://ransomwatch.telemetry.ltd/#/profiles?id=losttrust) |
-| 2023-09-26 | [`Johnson Boiler Works`](https://google.com/search?q=Johnson+Boiler+Works) | [losttrust](https://ransomwatch.telemetry.ltd/#/profiles?id=losttrust) |
-| 2023-09-26 | [`EnCom Polymers`](https://google.com/search?q=EnCom+Polymers) | [losttrust](https://ransomwatch.telemetry.ltd/#/profiles?id=losttrust) |
-| 2023-09-26 | [`Ambrosini Holding`](https://google.com/search?q=Ambrosini+Holding) | [losttrust](https://ransomwatch.telemetry.ltd/#/profiles?id=losttrust) |
-| 2023-09-26 | [`Colors Dress`](https://google.com/search?q=Colors+Dress) | [losttrust](https://ransomwatch.telemetry.ltd/#/profiles?id=losttrust) |
-| 2023-09-26 | [`THEATER LEAGUE INC`](https://google.com/search?q=THEATER+LEAGUE+INC) | [losttrust](https://ransomwatch.telemetry.ltd/#/profiles?id=losttrust) |
-| 2023-09-26 | [`GI Medical Services`](https://google.com/search?q=GI+Medical+Services) | [losttrust](https://ransomwatch.telemetry.ltd/#/profiles?id=losttrust) |
-| 2023-09-26 | [`Gordon Law Firm`](https://google.com/search?q=Gordon+Law+Firm) | [losttrust](https://ransomwatch.telemetry.ltd/#/profiles?id=losttrust) |
