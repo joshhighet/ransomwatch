@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-10-09 | [`www.geacam.es`](https://google.com/search?q=www.geacam.es) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
+| 2023-10-09 | [`Wyndemere Senior Care, LLC`](https://google.com/search?q=Wyndemere+Senior+Care%2C+LLC) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-10-09 | [`First Judicial Circuit - Florida Court`](https://google.com/search?q=First+Judicial+Circuit+-+Florida+Court) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-10-09 | [`starplast.ft`](https://google.com/search?q=starplast.ft) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-10-09 | [`atlantatech.edu`](https://google.com/search?q=atlantatech.edu) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-09-26 | [`Contraband Control Specialists`](https://google.com/search?q=Contraband+Control+Specialists) | [losttrust](https://ransomwatch.telemetry.ltd/#/profiles?id=losttrust) |
 | 2023-09-26 | [`I&amp;Y Senior Care`](https://google.com/search?q=I%26amp%3BY+Senior+Care) | [losttrust](https://ransomwatch.telemetry.ltd/#/profiles?id=losttrust) |
 | 2023-09-26 | [`EWBizservice`](https://google.com/search?q=EWBizservice) | [losttrust](https://ransomwatch.telemetry.ltd/#/profiles?id=losttrust) |
-| 2023-09-26 | [`Center Township Trustee`](https://google.com/search?q=Center+Township+Trustee) | [losttrust](https://ransomwatch.telemetry.ltd/#/profiles?id=losttrust) |
-| 2023-09-26 | [`Garlick &amp; Markison`](https://google.com/search?q=Garlick+%26amp%3B+Markison) | [losttrust](https://ransomwatch.telemetry.ltd/#/profiles?id=losttrust) |
