@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-10-09 | [`Southern Arkansas University`](https://google.com/search?q=Southern+Arkansas+University) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2023-10-08 | [`securicon.co.za`](https://google.com/search?q=securicon.co.za) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-10-08 | [`Guhring was hacked. Thousands of confidential files stolen.`](https://google.com/search?q=Guhring+was+hacked.+Thousands+of+confidential+files+stolen.) | [knight](https://ransomwatch.telemetry.ltd/#/profiles?id=knight) |
 | 2023-10-08 | [`Islamic Azad University of Shiraz`](https://google.com/search?q=Islamic+Azad+University+of+Shiraz) | [arvinclub](https://ransomwatch.telemetry.ltd/#/profiles?id=arvinclub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-09-26 | [`GCserv.com`](https://google.com/search?q=GCserv.com) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-09-26 | [`Orthum Bau`](https://google.com/search?q=Orthum+Bau) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2023-09-26 | [`Astro Lighting`](https://google.com/search?q=Astro+Lighting) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2023-09-26 | [`Ropertech.com & Vertafore.com`](https://google.com/search?q=Ropertech.com+%26+Vertafore.com) | [dunghill_leak](https://ransomwatch.telemetry.ltd/#/profiles?id=dunghill_leak) |
