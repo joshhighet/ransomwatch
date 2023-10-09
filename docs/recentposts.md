@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-10-09 | [`starplast.ft`](https://google.com/search?q=starplast.ft) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-10-09 | [`atlantatech.edu`](https://google.com/search?q=atlantatech.edu) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-10-09 | [`Superline - Press Release`](https://google.com/search?q=Superline+-+Press+Release) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2023-10-09 | [`vsmpo-tirus.com`](https://google.com/search?q=vsmpo-tirus.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-10-09 | [`wtpartnership.asia`](https://google.com/search?q=wtpartnership.asia) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-09-26 | [`Center Township Trustee`](https://google.com/search?q=Center+Township+Trustee) | [losttrust](https://ransomwatch.telemetry.ltd/#/profiles?id=losttrust) |
 | 2023-09-26 | [`Garlick &amp; Markison`](https://google.com/search?q=Garlick+%26amp%3B+Markison) | [losttrust](https://ransomwatch.telemetry.ltd/#/profiles?id=losttrust) |
 | 2023-09-26 | [`Double V Construction`](https://google.com/search?q=Double+V+Construction) | [losttrust](https://ransomwatch.telemetry.ltd/#/profiles?id=losttrust) |
-| 2023-09-26 | [`Swann's Furniture &amp; Design`](https://google.com/search?q=Swann%27s+Furniture+%26amp%3B+Design) | [losttrust](https://ransomwatch.telemetry.ltd/#/profiles?id=losttrust) |
-| 2023-09-26 | [`Gateseven Media Group`](https://google.com/search?q=Gateseven+Media+Group) | [losttrust](https://ransomwatch.telemetry.ltd/#/profiles?id=losttrust) |
