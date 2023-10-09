@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-10-09 | [`First Judicial Circuit - Florida Court`](https://google.com/search?q=First+Judicial+Circuit+-+Florida+Court) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-10-09 | [`starplast.ft`](https://google.com/search?q=starplast.ft) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-10-09 | [`atlantatech.edu`](https://google.com/search?q=atlantatech.edu) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-10-09 | [`Superline - Press Release`](https://google.com/search?q=Superline+-+Press+Release) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-09-26 | [`EWBizservice`](https://google.com/search?q=EWBizservice) | [losttrust](https://ransomwatch.telemetry.ltd/#/profiles?id=losttrust) |
 | 2023-09-26 | [`Center Township Trustee`](https://google.com/search?q=Center+Township+Trustee) | [losttrust](https://ransomwatch.telemetry.ltd/#/profiles?id=losttrust) |
 | 2023-09-26 | [`Garlick &amp; Markison`](https://google.com/search?q=Garlick+%26amp%3B+Markison) | [losttrust](https://ransomwatch.telemetry.ltd/#/profiles?id=losttrust) |
-| 2023-09-26 | [`Double V Construction`](https://google.com/search?q=Double+V+Construction) | [losttrust](https://ransomwatch.telemetry.ltd/#/profiles?id=losttrust) |
