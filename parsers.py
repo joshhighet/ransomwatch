@@ -493,7 +493,7 @@ def midas():
 def snatch():
     stdlog('parser: ' + 'snatch')
     parser = '''
-    %s "a-b-n-name.*?</div>" source/snatch-*.html | cut -d '>' -f 2 | cut -d '<' -f 1
+    %s "a-b-n-name.*?</div>" source/snatch-*.html | cut -d '>' -f 2 | cut -d '<' -f 1 | sort | uniq
     ''' % (fancygrep)
     posts = runshellcmd(parser)
     if len(posts) == 1:
