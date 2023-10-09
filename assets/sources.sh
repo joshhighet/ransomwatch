@@ -68,6 +68,21 @@ curl -s https://www.breachsense.com/ransomware-gangs/ \
 | grep -vE '^[a-z2-7]{16}\.onion$' \
 | sort | uniq > tmp/breachsense.txt
 
+curl -s https://telegra.ph/Ransomware-averyware-09-15 \
+| grep -oE '[^\"]*\.onion[^\"]*' \
+| sed -e 's/<\/p><p> <\/p><p>/\n/g' -e 's/<\/p><p>/\n/g' -e 's/<\/p><\/article>$//g' \
+| grep '\.onion' \
+| grep -E '[a-z2-7]{56}\.onion' \
+| sed -e 's/^ *//g' -e 's/[[:space:]]*$//' \
+| grep -Eo '[^/]+\.onion' \
+| grep -v 'strong>' \
+| grep -v 'XSS' \
+| sort | uniq > tmp/telegraph-averyware.txt
+
+curl -s https://godnotaba.ru \
+| grep -oE '[a-z2-7]{56}\.onion' \
+| sort | uniq > tmp/godnotabaru.txt
+
 ransomwatch_allfqdn=$(curl -sL "https://ransomwhat.telemetry.ltd/groups" | jq '.[].locations[].fqdn' -r)
 
 is_excluded() {
