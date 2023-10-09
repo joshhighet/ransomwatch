@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-10-09 | [`enerjet.com.pe`](https://google.com/search?q=enerjet.com.pe) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-10-09 | [`BrData Tecnologia`](https://google.com/search?q=BrData+Tecnologia) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-10-09 | [`Southern Arkansas University`](https://google.com/search?q=Southern+Arkansas+University) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2023-10-08 | [`securicon.co.za`](https://google.com/search?q=securicon.co.za) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-09-26 | [`Roper & Vertafore`](https://google.com/search?q=Roper+%26+Vertafore) | [dunghill_leak](https://ransomwatch.telemetry.ltd/#/profiles?id=dunghill_leak) |
 | 2023-09-26 | [`Go-Ahead Group`](https://google.com/search?q=Go-Ahead+Group) | [dunghill_leak](https://ransomwatch.telemetry.ltd/#/profiles?id=dunghill_leak) |
 | 2023-09-26 | [`GCserv.com`](https://google.com/search?q=GCserv.com) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-09-26 | [`Orthum Bau`](https://google.com/search?q=Orthum+Bau) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |

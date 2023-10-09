@@ -371,27 +371,11 @@
 
 <script>
 
-    $('.counter_include').each(function (el) {
-        $(this).load('count/' + $(this).data('id') + '.txt');
-    });
-
-    const currentDate = new Date();
-    const monthNames = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'];
-    const monthIndex = currentDate.getMonth();
-    const monthName = monthNames[monthIndex];
-    const day = currentDate.getDate();
-    const year = currentDate.getFullYear();
-    let hours = currentDate.getHours();
-    const minutes = currentDate.getMinutes();
-    const ampm = hours >= 12 ? 'p.m.' : 'a.m.';
-    hours = hours % 12;
-    hours = hours ? hours : 12;
-
-    const formattedDate = `${monthName} ${day}, ${year}, ${hours}:${minutes} ${ampm}`;
-//    document.querySelector('.cur_date_block').innerHTML = formattedDate;
-
-
-
+	$('.counter_views .counter_include').each(function(){
+		console.log('Load views count: ' + $(this).data('id') + '-view');
+		$(this).load('counter.php?file=' + $(this).data('id') + '-view');
+	});
+	
 </script>
 
 </body>
