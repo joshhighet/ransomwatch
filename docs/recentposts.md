@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-10-10 | [`effigest.fr`](https://google.com/search?q=effigest.fr) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
+| 2023-10-10 | [`Alliance Virgil Roberts Leadership Academy`](https://google.com/search?q=Alliance+Virgil+Roberts+Leadership+Academy) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
 | 2023-10-10 | [`National Health Mission. Department of Health & Family Welfare, Govt. of U.P`](https://google.com/search?q=National+Health+Mission.+Department+of+Health+%26+Family+Welfare%2C+Govt.+of+U.P) | [knight](https://ransomwatch.telemetry.ltd/#/profiles?id=knight) |
 | 2023-10-10 | [`foremostgroups.com`](https://google.com/search?q=foremostgroups.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-10-10 | [`mountstmarys`](https://google.com/search?q=mountstmarys) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-09-26 | [`Omniatel`](https://google.com/search?q=Omniatel) | [losttrust](https://ransomwatch.telemetry.ltd/#/profiles?id=losttrust) |
 | 2023-09-26 | [`Paradise Custom Kitchens`](https://google.com/search?q=Paradise+Custom+Kitchens) | [losttrust](https://ransomwatch.telemetry.ltd/#/profiles?id=losttrust) |
 | 2023-09-26 | [`Specialty Process Equipment`](https://google.com/search?q=Specialty+Process+Equipment) | [losttrust](https://ransomwatch.telemetry.ltd/#/profiles?id=losttrust) |
-| 2023-09-26 | [`The WorkPlace`](https://google.com/search?q=The+WorkPlace) | [losttrust](https://ransomwatch.telemetry.ltd/#/profiles?id=losttrust) |
-| 2023-09-26 | [`Professional Moving Company - Mackie Group`](https://google.com/search?q=Professional+Moving+Company+-+Mackie+Group) | [losttrust](https://ransomwatch.telemetry.ltd/#/profiles?id=losttrust) |
