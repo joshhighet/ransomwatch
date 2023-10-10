@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-10-10 | [`mountstmarys`](https://google.com/search?q=mountstmarys) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
 | 2023-10-10 | [`ExdionInsurance`](https://google.com/search?q=ExdionInsurance) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-10-10 | [`National Health Mission. Department of Heath & Family Welfare, Govt. of U.P`](https://google.com/search?q=National+Health+Mission.+Department+of+Heath+%26+Family+Welfare%2C+Govt.+of+U.P) | [knight](https://ransomwatch.telemetry.ltd/#/profiles?id=knight) |
 | 2023-10-10 | [`Van Oirschot`](https://google.com/search?q=Van+Oirschot) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-09-26 | [`Professional Moving Company - Mackie Group`](https://google.com/search?q=Professional+Moving+Company+-+Mackie+Group) | [losttrust](https://ransomwatch.telemetry.ltd/#/profiles?id=losttrust) |
 | 2023-09-26 | [`Mexican Government`](https://google.com/search?q=Mexican+Government) | [losttrust](https://ransomwatch.telemetry.ltd/#/profiles?id=losttrust) |
 | 2023-09-26 | [`Central Trenching`](https://google.com/search?q=Central+Trenching) | [losttrust](https://ransomwatch.telemetry.ltd/#/profiles?id=losttrust) |
-| 2023-09-26 | [`Immanuel Christian School`](https://google.com/search?q=Immanuel+Christian+School) | [losttrust](https://ransomwatch.telemetry.ltd/#/profiles?id=losttrust) |
