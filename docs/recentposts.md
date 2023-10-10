@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-10-10 | [`National Health Mission. Department of Heath & Family Welfare, Govt. of U.P`](https://google.com/search?q=National+Health+Mission.+Department+of+Heath+%26+Family+Welfare%2C+Govt.+of+U.P) | [knight](https://ransomwatch.telemetry.ltd/#/profiles?id=knight) |
 | 2023-10-10 | [`Van Oirschot`](https://google.com/search?q=Van+Oirschot) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2023-10-10 | [`www.opl.it`](https://google.com/search?q=www.opl.it) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-10-09 | [`www.fruchtverarbeitung.de`](https://google.com/search?q=www.fruchtverarbeitung.de) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-09-26 | [`Central Trenching`](https://google.com/search?q=Central+Trenching) | [losttrust](https://ransomwatch.telemetry.ltd/#/profiles?id=losttrust) |
 | 2023-09-26 | [`Immanuel Christian School`](https://google.com/search?q=Immanuel+Christian+School) | [losttrust](https://ransomwatch.telemetry.ltd/#/profiles?id=losttrust) |
 | 2023-09-26 | [`Cullum Services`](https://google.com/search?q=Cullum+Services) | [losttrust](https://ransomwatch.telemetry.ltd/#/profiles?id=losttrust) |
-| 2023-09-26 | [`Gold Coin Restaurant`](https://google.com/search?q=Gold+Coin+Restaurant) | [losttrust](https://ransomwatch.telemetry.ltd/#/profiles?id=losttrust) |
