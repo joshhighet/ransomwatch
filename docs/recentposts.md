@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-10-11 | [`ldlcasvel.com`](https://google.com/search?q=ldlcasvel.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
+| 2023-10-11 | [`Scotbeef Ltd. - Leaks`](https://google.com/search?q=Scotbeef+Ltd.+-+Leaks) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
 | 2023-10-11 | [`instantaccess-co.com`](https://google.com/search?q=instantaccess-co.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-10-11 | [`Eicon Controle Inteligentes`](https://google.com/search?q=Eicon+Controle+Inteligentes) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
 | 2023-10-11 | [`</a>`](https://google.com/search?q=%3C%2Fa%3E) | [dunghill_leak](https://ransomwatch.telemetry.ltd/#/profiles?id=dunghill_leak) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-09-26 | [`Morgan School District`](https://google.com/search?q=Morgan+School+District) | [losttrust](https://ransomwatch.telemetry.ltd/#/profiles?id=losttrust) |
 | 2023-09-26 | [`Ferguson Wellman`](https://google.com/search?q=Ferguson+Wellman) | [losttrust](https://ransomwatch.telemetry.ltd/#/profiles?id=losttrust) |
 | 2023-09-26 | [`TORMAX`](https://google.com/search?q=TORMAX) | [losttrust](https://ransomwatch.telemetry.ltd/#/profiles?id=losttrust) |
-| 2023-09-26 | [`Brown and Streza`](https://google.com/search?q=Brown+and+Streza) | [losttrust](https://ransomwatch.telemetry.ltd/#/profiles?id=losttrust) |
-| 2023-09-26 | [`Bit`](https://google.com/search?q=Bit) | [losttrust](https://ransomwatch.telemetry.ltd/#/profiles?id=losttrust) |
