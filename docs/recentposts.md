@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-10-11 | [`Village Building%20Co.`](https://google.com/search?q=Village+Building%2520Co.) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2023-10-11 | [`www.stantonwilliams.com`](https://google.com/search?q=www.stantonwilliams.com) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2023-10-11 | [`www.edwardian.com`](https://google.com/search?q=www.edwardian.com) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2023-10-11 | [`hugohaeffner.com`](https://google.com/search?q=hugohaeffner.com) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-09-26 | [`SydganCorp`](https://google.com/search?q=SydganCorp) | [losttrust](https://ransomwatch.telemetry.ltd/#/profiles?id=losttrust) |
 | 2023-09-26 | [`Alexander City, Alabama`](https://google.com/search?q=Alexander+City%2C+Alabama) | [losttrust](https://ransomwatch.telemetry.ltd/#/profiles?id=losttrust) |
 | 2023-09-26 | [`SPEC Engineering`](https://google.com/search?q=SPEC+Engineering) | [losttrust](https://ransomwatch.telemetry.ltd/#/profiles?id=losttrust) |
-| 2023-09-26 | [`Jersey College`](https://google.com/search?q=Jersey+College) | [losttrust](https://ransomwatch.telemetry.ltd/#/profiles?id=losttrust) |
