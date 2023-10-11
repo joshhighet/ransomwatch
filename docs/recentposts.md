@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-10-11 | [`</a>`](https://google.com/search?q=%3C%2Fa%3E) | [dunghill_leak](https://ransomwatch.telemetry.ltd/#/profiles?id=dunghill_leak) |
+| 2023-10-11 | [`Mid-America Real Estate Group`](https://google.com/search?q=Mid-America+Real+Estate+Group) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-10-11 | [`Village Building%20Co.`](https://google.com/search?q=Village+Building%2520Co.) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2023-10-11 | [`www.stantonwilliams.com`](https://google.com/search?q=www.stantonwilliams.com) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2023-10-11 | [`www.edwardian.com`](https://google.com/search?q=www.edwardian.com) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-09-26 | [`Bit`](https://google.com/search?q=Bit) | [losttrust](https://ransomwatch.telemetry.ltd/#/profiles?id=losttrust) |
 | 2023-09-26 | [`Glassline`](https://google.com/search?q=Glassline) | [losttrust](https://ransomwatch.telemetry.ltd/#/profiles?id=losttrust) |
 | 2023-09-26 | [`SydganCorp`](https://google.com/search?q=SydganCorp) | [losttrust](https://ransomwatch.telemetry.ltd/#/profiles?id=losttrust) |
-| 2023-09-26 | [`Alexander City, Alabama`](https://google.com/search?q=Alexander+City%2C+Alabama) | [losttrust](https://ransomwatch.telemetry.ltd/#/profiles?id=losttrust) |
-| 2023-09-26 | [`SPEC Engineering`](https://google.com/search?q=SPEC+Engineering) | [losttrust](https://ransomwatch.telemetry.ltd/#/profiles?id=losttrust) |
