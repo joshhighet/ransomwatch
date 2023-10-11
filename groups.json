@@ -3191,6 +3191,16 @@
                 "updated": "2023-10-11 01:39:34.152482",
                 "lastscrape": "2023-10-11 01:39:34.152468",
                 "enabled": true
+            },
+            {
+                "fqdn": "lockbitsup4yezcd5enk5unncx3zcy7kw6wllyqmiyhvanjj352jayid.onion",
+                "title": null,
+                "version": 3,
+                "slug": "http://lockbitsup4yezcd5enk5unncx3zcy7kw6wllyqmiyhvanjj352jayid.onion",
+                "available": false,
+                "updated": null,
+                "lastscrape": "2021-05-01 00:00:00.000000",
+                "enabled": true
             }
         ],
         "profile": []
