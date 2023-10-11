@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-10-11 | [`Instron`](https://google.com/search?q=Instron) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2023-10-11 | [`Air Canada`](https://google.com/search?q=Air+Canada) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2023-10-11 | [`Pelindo`](https://google.com/search?q=Pelindo) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-10-11 | [`Sobieski`](https://google.com/search?q=Sobieski) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2023-10-11 | [`We monetize your corporate access`](https://google.com/search?q=We+monetize+your+corporate+access) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2023-10-10 | [`Metro Transit`](https://google.com/search?q=Metro+Transit) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2023-09-26 | [`Key Construction`](https://google.com/search?q=Key+Construction) | [losttrust](https://ransomwatch.telemetry.ltd/#/profiles?id=losttrust) |
 | 2023-09-26 | [`Leiblein &amp; Kollegen Steuerberatungsgesellschaft`](https://google.com/search?q=Leiblein+%26amp%3B+Kollegen+Steuerberatungsgesellschaft) | [losttrust](https://ransomwatch.telemetry.ltd/#/profiles?id=losttrust) |
 | 2023-09-26 | [`Liberty Lines`](https://google.com/search?q=Liberty+Lines) | [losttrust](https://ransomwatch.telemetry.ltd/#/profiles?id=losttrust) |
-| 2023-09-26 | [`LoopLoc`](https://google.com/search?q=LoopLoc) | [losttrust](https://ransomwatch.telemetry.ltd/#/profiles?id=losttrust) |
-| 2023-09-26 | [`Reload SPA`](https://google.com/search?q=Reload+SPA) | [losttrust](https://ransomwatch.telemetry.ltd/#/profiles?id=losttrust) |
-| 2023-09-26 | [`Ananda Temple`](https://google.com/search?q=Ananda+Temple) | [losttrust](https://ransomwatch.telemetry.ltd/#/profiles?id=losttrust) |
