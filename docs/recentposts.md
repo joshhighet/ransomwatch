@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-10-11 | [`www.stantonwilliams.com`](https://google.com/search?q=www.stantonwilliams.com) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2023-10-11 | [`www.edwardian.com`](https://google.com/search?q=www.edwardian.com) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2023-10-11 | [`hugohaeffner.com`](https://google.com/search?q=hugohaeffner.com) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2023-10-11 | [`Catarineau & Givens P.A.`](https://google.com/search?q=Catarineau+%26+Givens+P.A.) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-10-11 | [`Instron`](https://google.com/search?q=Instron) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-10-11 | [`Air Canada`](https://google.com/search?q=Air+Canada) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2023-09-26 | [`Alexander City, Alabama`](https://google.com/search?q=Alexander+City%2C+Alabama) | [losttrust](https://ransomwatch.telemetry.ltd/#/profiles?id=losttrust) |
 | 2023-09-26 | [`SPEC Engineering`](https://google.com/search?q=SPEC+Engineering) | [losttrust](https://ransomwatch.telemetry.ltd/#/profiles?id=losttrust) |
 | 2023-09-26 | [`Jersey College`](https://google.com/search?q=Jersey+College) | [losttrust](https://ransomwatch.telemetry.ltd/#/profiles?id=losttrust) |
-| 2023-09-26 | [`JSM Group`](https://google.com/search?q=JSM+Group) | [losttrust](https://ransomwatch.telemetry.ltd/#/profiles?id=losttrust) |
-| 2023-09-26 | [`Key Construction`](https://google.com/search?q=Key+Construction) | [losttrust](https://ransomwatch.telemetry.ltd/#/profiles?id=losttrust) |
-| 2023-09-26 | [`Leiblein &amp; Kollegen Steuerberatungsgesellschaft`](https://google.com/search?q=Leiblein+%26amp%3B+Kollegen+Steuerberatungsgesellschaft) | [losttrust](https://ransomwatch.telemetry.ltd/#/profiles?id=losttrust) |
