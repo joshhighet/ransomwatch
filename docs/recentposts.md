@@ -4,6 +4,11 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-10-12 | [`Acoustic Center`](https://google.com/search?q=Acoustic+Center) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
+| 2023-10-12 | [`Neodata`](https://google.com/search?q=Neodata) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
+| 2023-10-12 | [`Evasión `](https://google.com/search?q=Evasi%C3%B3n+) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
+| 2023-10-12 | [`SIMTA `](https://google.com/search?q=SIMTA+) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
+| 2023-10-12 | [`ZOUARY &amp; Associés `](https://google.com/search?q=ZOUARY+%26amp%3B+Associ%C3%A9s+) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-10-12 | [`Instron and ITW Inc`](https://google.com/search?q=Instron+and+ITW+Inc) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-10-12 | [`Comtek Advanced Structures, a Latecoere Company`](https://google.com/search?q=Comtek+Advanced+Structures%2C+a+Latecoere+Company) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-10-12 | [`KTUA Landscape Architecture and Planning`](https://google.com/search?q=KTUA+Landscape+Architecture+and+Planning) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
@@ -199,8 +204,3 @@ _last `200` posts_
 | 2023-09-26 | [`CannonDesign`](https://google.com/search?q=CannonDesign) | [dunghill_leak](https://ransomwatch.telemetry.ltd/#/profiles?id=dunghill_leak) |
 | 2023-09-26 | [`Robins & Morton`](https://google.com/search?q=Robins+%26+Morton) | [dunghill_leak](https://ransomwatch.telemetry.ltd/#/profiles?id=dunghill_leak) |
 | 2023-09-26 | [`siameseasset.co.th`](https://google.com/search?q=siameseasset.co.th) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
-| 2023-09-26 | [`Arazoza Brothers`](https://google.com/search?q=Arazoza+Brothers) | [losttrust](https://ransomwatch.telemetry.ltd/#/profiles?id=losttrust) |
-| 2023-09-26 | [`Popovici Niu Stoica &amp; Asociaii`](https://google.com/search?q=Popovici+Niu+Stoica+%26amp%3B+Asociaii) | [losttrust](https://ransomwatch.telemetry.ltd/#/profiles?id=losttrust) |
-| 2023-09-26 | [`Procab`](https://google.com/search?q=Procab) | [losttrust](https://ransomwatch.telemetry.ltd/#/profiles?id=losttrust) |
-| 2023-09-26 | [`Hoosier Uplands Economic Development`](https://google.com/search?q=Hoosier+Uplands+Economic+Development) | [losttrust](https://ransomwatch.telemetry.ltd/#/profiles?id=losttrust) |
-| 2023-09-26 | [`Oasys Technologies`](https://google.com/search?q=Oasys+Technologies) | [losttrust](https://ransomwatch.telemetry.ltd/#/profiles?id=losttrust) |
