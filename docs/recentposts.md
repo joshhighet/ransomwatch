@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-10-12 | [`Fuck Palestine! We buy your access!!`](https://google.com/search?q=Fuck+Palestine%21+We+buy+your+access%21%21) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
+| 2023-10-12 | [`Vicon industries%20inc.`](https://google.com/search?q=Vicon+industries%2520inc.) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2023-10-12 | [`www.seattlehousing.org`](https://google.com/search?q=www.seattlehousing.org) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-10-12 | [`https://www.fpz.de/`](https://google.com/search?q=https%3A%2F%2Fwww.fpz.de%2F) | [trigona](https://ransomwatch.telemetry.ltd/#/profiles?id=trigona) |
 | 2023-10-12 | [`Tri-Way Manufacturing Technologies`](https://google.com/search?q=Tri-Way+Manufacturing+Technologies) | [moneymessage](https://ransomwatch.telemetry.ltd/#/profiles?id=moneymessage) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-09-27 | [`The Polish American Association`](https://google.com/search?q=The+Polish+American+Association) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-09-27 | [`Muenz-Engineered Sales`](https://google.com/search?q=Muenz-Engineered+Sales) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-09-27 | [`Acoustic Center `](https://google.com/search?q=Acoustic+Center+) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
-| 2023-09-27 | [`LANDSTAR POWER ONTARIO INC`](https://google.com/search?q=LANDSTAR+POWER+ONTARIO+INC) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
-| 2023-09-26 | [`www.scara.fr`](https://google.com/search?q=www.scara.fr) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
