@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-10-12 | [`https://www.fpz.de/`](https://google.com/search?q=https%3A%2F%2Fwww.fpz.de%2F) | [trigona](https://ransomwatch.telemetry.ltd/#/profiles?id=trigona) |
 | 2023-10-12 | [`Tri-Way Manufacturing Technologies`](https://google.com/search?q=Tri-Way+Manufacturing+Technologies) | [moneymessage](https://ransomwatch.telemetry.ltd/#/profiles?id=moneymessage) |
 | 2023-10-12 | [`Acoustic Center`](https://google.com/search?q=Acoustic+Center) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-10-12 | [`Neodata`](https://google.com/search?q=Neodata) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-09-27 | [`LANDSTAR POWER ONTARIO INC`](https://google.com/search?q=LANDSTAR+POWER+ONTARIO+INC) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-09-26 | [`www.scara.fr`](https://google.com/search?q=www.scara.fr) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-09-26 | [`CannonDesign`](https://google.com/search?q=CannonDesign) | [dunghill_leak](https://ransomwatch.telemetry.ltd/#/profiles?id=dunghill_leak) |
-| 2023-09-26 | [`Robins & Morton`](https://google.com/search?q=Robins+%26+Morton) | [dunghill_leak](https://ransomwatch.telemetry.ltd/#/profiles?id=dunghill_leak) |
