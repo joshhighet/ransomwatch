@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-10-12 | [`Comtek Advanced Structures, a Latecoere Company`](https://google.com/search?q=Comtek+Advanced+Structures%2C+a+Latecoere+Company) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2023-10-12 | [`KTUA Landscape Architecture and Planning`](https://google.com/search?q=KTUA+Landscape+Architecture+and+Planning) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-10-11 | [`Institut Technologique FCBA`](https://google.com/search?q=Institut+Technologique+FCBA) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-10-11 | [`ldlcasvel.com`](https://google.com/search?q=ldlcasvel.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-10-11 | [`Scotbeef Ltd. - Leaks`](https://google.com/search?q=Scotbeef+Ltd.+-+Leaks) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-09-26 | [`Hoosier Uplands Economic Development`](https://google.com/search?q=Hoosier+Uplands+Economic+Development) | [losttrust](https://ransomwatch.telemetry.ltd/#/profiles?id=losttrust) |
 | 2023-09-26 | [`Oasys Technologies`](https://google.com/search?q=Oasys+Technologies) | [losttrust](https://ransomwatch.telemetry.ltd/#/profiles?id=losttrust) |
 | 2023-09-26 | [`Merced City School District`](https://google.com/search?q=Merced+City+School+District) | [losttrust](https://ransomwatch.telemetry.ltd/#/profiles?id=losttrust) |
-| 2023-09-26 | [`Morgan School District`](https://google.com/search?q=Morgan+School+District) | [losttrust](https://ransomwatch.telemetry.ltd/#/profiles?id=losttrust) |
-| 2023-09-26 | [`Ferguson Wellman`](https://google.com/search?q=Ferguson+Wellman) | [losttrust](https://ransomwatch.telemetry.ltd/#/profiles?id=losttrust) |
