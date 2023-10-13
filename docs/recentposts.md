@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-10-13 | [`ttps://www.alconex.com/`](https://google.com/search?q=ttps%3A%2F%2Fwww.alconex.com%2F) | [trigona](https://ransomwatch.telemetry.ltd/#/profiles?id=trigona) |
+| 2023-10-13 | [`Morrison Community Hospital`](https://google.com/search?q=Morrison+Community+Hospital) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-10-13 | [`Hospital Italiano de Buenos Aires`](https://google.com/search?q=Hospital+Italiano+de+Buenos+Aires) | [knight](https://ransomwatch.telemetry.ltd/#/profiles?id=knight) |
 | 2023-10-13 | [`http://www.multidev.com`](https://google.com/search?q=http%3A%2F%2Fwww.multidev.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2023-10-13 | [`AKBASOGLU HOLDING Trans KA`](https://google.com/search?q=AKBASOGLU+HOLDING+Trans+KA) | [knight](https://ransomwatch.telemetry.ltd/#/profiles?id=knight) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-09-28 | [`Hochschule Furtwangen University`](https://google.com/search?q=Hochschule+Furtwangen+University) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-09-28 | [`www.kentie.nl`](https://google.com/search?q=www.kentie.nl) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-09-28 | [`Notel`](https://google.com/search?q=Notel) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-09-27 | [`Civic San Diego`](https://google.com/search?q=Civic+San+Diego) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2023-09-27 | [`UTC Overseas`](https://google.com/search?q=UTC+Overseas) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
