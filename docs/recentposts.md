@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-10-13 | [`Colonial Pipeline Company`](https://google.com/search?q=Colonial+Pipeline+Company) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
+| 2023-10-13 | [`Catholic Charities`](https://google.com/search?q=Catholic+Charities) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2023-10-13 | [`koreapetroleum.com`](https://google.com/search?q=koreapetroleum.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-10-13 | [`Cleveland City%20Schools`](https://google.com/search?q=Cleveland+City%2520Schools) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2023-10-13 | [`ttps://www.alconex.com/`](https://google.com/search?q=ttps%3A%2F%2Fwww.alconex.com%2F) | [trigona](https://ransomwatch.telemetry.ltd/#/profiles?id=trigona) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-09-28 | [`fdf.org.uk`](https://google.com/search?q=fdf.org.uk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-09-28 | [`ezpaybuildings.net`](https://google.com/search?q=ezpaybuildings.net) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-09-28 | [`Jacobsen Construction`](https://google.com/search?q=Jacobsen+Construction) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2023-09-28 | [`simmonsequip.com`](https://google.com/search?q=simmonsequip.com) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
-| 2023-09-28 | [`Hochschule Furtwangen University`](https://google.com/search?q=Hochschule+Furtwangen+University) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
