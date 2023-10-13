@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-10-13 | [`Hospital Italiano de Buenos Aires`](https://google.com/search?q=Hospital+Italiano+de+Buenos+Aires) | [knight](https://ransomwatch.telemetry.ltd/#/profiles?id=knight) |
+| 2023-10-13 | [`http://www.multidev.com`](https://google.com/search?q=http%3A%2F%2Fwww.multidev.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2023-10-13 | [`AKBASOGLU HOLDING Trans KA`](https://google.com/search?q=AKBASOGLU+HOLDING+Trans+KA) | [knight](https://ransomwatch.telemetry.ltd/#/profiles?id=knight) |
 | 2023-10-12 | [`NEW TWITTER`](https://google.com/search?q=NEW+TWITTER) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
 | 2023-10-12 | [`Fuck Palestine! We buy your access!!`](https://google.com/search?q=Fuck+Palestine%21+We+buy+your+access%21%21) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-09-28 | [`Notel`](https://google.com/search?q=Notel) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-09-27 | [`Civic San Diego`](https://google.com/search?q=Civic+San+Diego) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-09-27 | [`UTC Overseas`](https://google.com/search?q=UTC+Overseas) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2023-09-27 | [`Unitex Textile Rental Services`](https://google.com/search?q=Unitex+Textile+Rental+Services) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2023-09-27 | [`The Polish American Association`](https://google.com/search?q=The+Polish+American+Association) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
