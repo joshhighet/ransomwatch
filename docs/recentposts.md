@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-10-14 | [`The Law Offices of Julian Lewis Sanders & Associates`](https://google.com/search?q=The+Law+Offices+of+Julian+Lewis+Sanders+%26+Associates) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-10-14 | [`Jahesh Innovation`](https://google.com/search?q=Jahesh+Innovation) | [arvinclub](https://ransomwatch.telemetry.ltd/#/profiles?id=arvinclub) |
 | 2023-10-14 | [`Accenture Breach Evidence &amp; Debunking Rob Lee&#8217;s Lies`](https://google.com/search?q=Accenture+Breach+Evidence+%26amp%3B+Debunking+Rob+Lee%26%238217%3Bs+Lies) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
 | 2023-10-14 | [`Northwest Eye Care Professionals`](https://google.com/search?q=Northwest+Eye+Care+Professionals) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-09-28 | [`Van Eck Transport`](https://google.com/search?q=Van+Eck+Transport) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-09-28 | [`Terralogic`](https://google.com/search?q=Terralogic) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-09-28 | [`Kessler Collins`](https://google.com/search?q=Kessler+Collins) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-09-28 | [`Plumbase`](https://google.com/search?q=Plumbase) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
