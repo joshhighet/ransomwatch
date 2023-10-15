@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-10-15 | [`Islamic Azad University Electronic Campus`](https://google.com/search?q=Islamic+Azad+University+Electronic+Campus) | [arvinclub](https://ransomwatch.telemetry.ltd/#/profiles?id=arvinclub) |
 | 2023-10-15 | [`RE : Clarification`](https://google.com/search?q=RE+%3A+Clarification) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
 | 2023-10-15 | [`webpag.com.br database leaked`](https://google.com/search?q=webpag.com.br+database+leaked) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
 | 2023-10-15 | [`QSI INC - Credit Cards & Transaction Processing`](https://google.com/search?q=QSI+INC+-+Credit+Cards+%26+Transaction+Processing) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-09-28 | [`Jacobson`](https://google.com/search?q=Jacobson) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-09-28 | [`Robuck Homes`](https://google.com/search?q=Robuck+Homes) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-09-28 | [`Webb Landscape`](https://google.com/search?q=Webb+Landscape) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-09-28 | [`Amanzi Marble & Granite`](https://google.com/search?q=Amanzi+Marble+%26+Granite) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
