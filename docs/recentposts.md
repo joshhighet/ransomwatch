@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-10-15 | [`Cogal Industry`](https://google.com/search?q=Cogal+Industry) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
 | 2023-10-15 | [`Rob Lee Evidence : Sneak Peek`](https://google.com/search?q=Rob+Lee+Evidence+%3A+Sneak+Peek) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
 | 2023-10-15 | [`Islamic Azad University Electronic Campus`](https://google.com/search?q=Islamic+Azad+University+Electronic+Campus) | [arvinclub](https://ransomwatch.telemetry.ltd/#/profiles?id=arvinclub) |
 | 2023-10-15 | [`RE : Clarification`](https://google.com/search?q=RE+%3A+Clarification) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-09-29 | [`Kona Equity`](https://google.com/search?q=Kona+Equity) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-09-28 | [`!!!WARNING!!!`](https://google.com/search?q=%21%21%21WARNING%21%21%21) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-09-28 | [`Jacobson`](https://google.com/search?q=Jacobson) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-09-28 | [`Robuck Homes`](https://google.com/search?q=Robuck+Homes) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
