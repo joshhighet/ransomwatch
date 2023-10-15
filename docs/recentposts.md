@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-10-15 | [`QSI INC - Credit Cards & Transaction Processing`](https://google.com/search?q=QSI+INC+-+Credit+Cards+%26+Transaction+Processing) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-10-14 | [`DUHOCAAU`](https://google.com/search?q=DUHOCAAU) | [mallox](https://ransomwatch.telemetry.ltd/#/profiles?id=mallox) |
 | 2023-10-14 | [`The Law Offices of Julian Lewis Sanders & Associates`](https://google.com/search?q=The+Law+Offices+of+Julian+Lewis+Sanders+%26+Associates) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-10-14 | [`Jahesh Innovation`](https://google.com/search?q=Jahesh+Innovation) | [arvinclub](https://ransomwatch.telemetry.ltd/#/profiles?id=arvinclub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-09-28 | [`Amanzi Marble & Granite`](https://google.com/search?q=Amanzi+Marble+%26+Granite) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-09-28 | [`BAMO`](https://google.com/search?q=BAMO) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-09-28 | [`Van Eck Transport`](https://google.com/search?q=Van+Eck+Transport) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-09-28 | [`Terralogic`](https://google.com/search?q=Terralogic) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
