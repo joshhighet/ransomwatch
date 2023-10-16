@@ -4,6 +4,11 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-10-16 | [`ATI Traduction`](https://google.com/search?q=ATI+Traduction) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
+| 2023-10-16 | [`EDB `](https://google.com/search?q=EDB+) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
+| 2023-10-16 | [`Global Product Sales`](https://google.com/search?q=Global+Product+Sales) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
+| 2023-10-16 | [`Symposia Organizzazione Congressi S.R.L`](https://google.com/search?q=Symposia+Organizzazione+Congressi+S.R.L) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
+| 2023-10-16 | [`sdproducts.co.uk`](https://google.com/search?q=sdproducts.co.uk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-10-16 | [`Ransomedvc Pentest Services!`](https://google.com/search?q=Ransomedvc+Pentest+Services%21) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
 | 2023-10-16 | [`Believe Productions`](https://google.com/search?q=Believe+Productions) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-10-16 | [`mthollynissan.com`](https://google.com/search?q=mthollynissan.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
@@ -199,8 +204,3 @@ _last `200` posts_
 | 2023-09-30 | [`INC RANSOMWARE...`](https://google.com/search?q=INC+RANSOMWARE...) | [donutleaks](https://ransomwatch.telemetry.ltd/#/profiles?id=donutleaks) |
 | 2023-09-30 | [`MNGI Digestive Health (TIME IS UP)`](https://google.com/search?q=MNGI+Digestive+Health+%28TIME+IS+UP%29) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-09-29 | [`mclaren health care`](https://google.com/search?q=mclaren+health+care) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-09-29 | [`palaciodosleiloes.com.br`](https://google.com/search?q=palaciodosleiloes.com.br) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-09-29 | [`solveindustrial.com`](https://google.com/search?q=solveindustrial.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-09-29 | [`Garn Mason Orthodontics was hacked. All insurance and personal data of customers was stole`](https://google.com/search?q=Garn+Mason+Orthodontics+was+hacked.+All+insurance+and+personal+data+of+customers+was+stole) | [knight](https://ransomwatch.telemetry.ltd/#/profiles?id=knight) |
-| 2023-09-29 | [`Andalusia Group`](https://google.com/search?q=Andalusia+Group) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-09-29 | [`Vertical Development`](https://google.com/search?q=Vertical+Development) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
