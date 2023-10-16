@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-10-16 | [`SCS SpA`](https://google.com/search?q=SCS+SpA) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
+| 2023-10-16 | [`OmniVision Technologies`](https://google.com/search?q=OmniVision+Technologies) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2023-10-16 | [`ATI Traduction`](https://google.com/search?q=ATI+Traduction) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-10-16 | [`EDB `](https://google.com/search?q=EDB+) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-10-16 | [`Global Product Sales`](https://google.com/search?q=Global+Product+Sales) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-09-30 | [`Astre - Leaked`](https://google.com/search?q=Astre+-+Leaked) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
 | 2023-09-30 | [`Motel One`](https://google.com/search?q=Motel+One) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-09-30 | [`INC RANSOMWARE...`](https://google.com/search?q=INC+RANSOMWARE...) | [donutleaks](https://ransomwatch.telemetry.ltd/#/profiles?id=donutleaks) |
-| 2023-09-30 | [`MNGI Digestive Health (TIME IS UP)`](https://google.com/search?q=MNGI+Digestive+Health+%28TIME+IS+UP%29) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-09-29 | [`mclaren health care`](https://google.com/search?q=mclaren+health+care) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
