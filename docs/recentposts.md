@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-10-17 | [`www.piemmeonline.it`](https://google.com/search?q=www.piemmeonline.it) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2023-10-17 | [`Greenpoint`](https://google.com/search?q=Greenpoint) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2023-10-17 | [`www.gasmart.mx`](https://google.com/search?q=www.gasmart.mx) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-10-16 | [`cpstate.org`](https://google.com/search?q=cpstate.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-10-01 | [`Shirin Travel Agency`](https://google.com/search?q=Shirin+Travel+Agency) | [arvinclub](https://ransomwatch.telemetry.ltd/#/profiles?id=arvinclub) |
 | 2023-10-01 | [`https://questinc.com/`](https://google.com/search?q=https%3A%2F%2Fquestinc.com%2F) | [trigona](https://ransomwatch.telemetry.ltd/#/profiles?id=trigona) |
 | 2023-10-01 | [`Arga Medicali`](https://google.com/search?q=Arga+Medicali) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-09-30 | [`Network Pacific Real Estate - Leak`](https://google.com/search?q=Network+Pacific+Real+Estate+-+Leak) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
