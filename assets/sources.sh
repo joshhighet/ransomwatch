@@ -13,51 +13,51 @@ curl -s https://telemetr.io/en/channels/1232665535-dbforall/posts \
 | awk 'BEGIN{RS=" "}{if($0 ~ /http[s]?:\/\/[a-zA-Z0-9]*\.onion/){print $0}}' \
 | grep -o '[a-zA-Z0-9]*\.onion' \
 | grep -vE '^[a-z2-7]{16}\.onion$' \
-| sort | uniq > tmp/telemetr.txt
+| sort | uniq > assets/tmp/telemetr.txt
 
 curl -s 'https://docs.google.com/spreadsheets/d/1cH4KCZJvggoHPAbk0u08Wu1vSo9ygx47QfhKD-W0TQ0/gviz/tq?tqx=out:csv' \
 | cut -d ',' -f 3 \
 | grep '^"http' \
 | sed -e 's/^"http[s]*:\/\///' -e 's/".*//' -e 's/\/.*//' \
 | grep -vE '^[a-z2-7]{16}\.onion$' \
-| sort | uniq > tmp/gdocs.txt
+| sort | uniq > assets/tmp/gdocs.txt
 
 curl -s https://www.ransomlook.io/api/export/0 \
 | jq -r '.[] | .locations[].fqdn' \
-| sort | uniq > tmp/ransomlook.txt
+| sort | uniq > assets/tmp/ransomlook.txt
 
 curl -s https://api.ransomware.live/groups \
 | jq -r '.[].locations[].fqdn' \
-| sort | uniq > tmp/ransomwarelive.txt
+| sort | uniq > assets/tmp/ransomwarelive.txt
 
 curl -s https://raw.githubusercontent.com/fastfire/deepdarkCTI/main/ransomware_gang.md \
 | grep -Eo 'https?://[A-Za-z0-9.-]+' \
 | grep -Eo '([A-Za-z0-9.-]+\.[A-Za-z]{2,})' \
 | grep -vE '^[a-z2-7]{16}\.onion$' \
-| sort | uniq > tmp/ddcti-ransomware_gang.txt
+| sort | uniq > assets/tmp/ddcti-ransomware_gang.txt
 
 curl -s https://raw.githubusercontent.com/fastfire/deepdarkCTI/main/maas.md \
 | grep -Eo 'http[s]?://[^)]+' \
 | sed 's~^http[s]*://~~' \
 | grep -vE '^[a-z2-7]{16}\.onion$' \
-| sort | uniq > tmp/ddcti-maas.txt
+| sort | uniq > assets/tmp/ddcti-maas.txt
 
 curl -s https://raw.githubusercontent.com/fastfire/deepdarkCTI/main/markets.md \
 | awk -F'|' '$2 ~ /http/ {split($2, a, "/"); gsub(/\)/,"",a[3]); print a[3]}' \
 | grep -vE '^[a-z2-7]{16}\.onion$' \
-| sort | uniq > tmp/ddcti-markets.txt
+| sort | uniq > assets/tmp/ddcti-markets.txt
 
 curl -s https://raw.githubusercontent.com/fastfire/deepdarkCTI/main/markets.md \
 | awk -F'[()]' '{print $2}' \
 | sed -n 's/^http[s]*:\/\/\([^/]*\).*$/\1/p' \
 | grep -vE '^[a-z2-7]{16}\.onion$' \
-| sort | uniq > tmp/ddcti-markets.txt
+| sort | uniq > assets/tmp/ddcti-markets.txt
 
 curl -s https://raw.githubusercontent.com/fastfire/deepdarkCTI/main/forum.md \
 | grep -Eo 'http[s]?://[^)]+' \
 | awk -F/ '{print $3}' \
 | grep -vE '^[a-z2-7]{16}\.onion$' \
-| sort | uniq > tmp/ddcti-forum.txt
+| sort | uniq > assets/tmp/ddcti-forum.txt
 
 curl -s https://www.breachsense.com/ransomware-gangs/ \
 | grep '<td style=text-align:center><a' \
@@ -66,7 +66,7 @@ curl -s https://www.breachsense.com/ransomware-gangs/ \
 | sed 's/^"//' \
 | awk -F/ '{print $3}' \
 | grep -vE '^[a-z2-7]{16}\.onion$' \
-| sort | uniq > tmp/breachsense.txt
+| sort | uniq > assets/tmp/breachsense.txt
 
 curl -s https://telegra.ph/Ransomware-averyware-09-15 \
 | grep -oE '[^\"]*\.onion[^\"]*' \
@@ -77,17 +77,17 @@ curl -s https://telegra.ph/Ransomware-averyware-09-15 \
 | grep -Eo '[^/]+\.onion' \
 | grep -v 'strong>' \
 | grep -v 'XSS' \
-| sort | uniq > tmp/telegraph-averyware.txt
+| sort | uniq > assets/tmp/telegraph-averyware.txt
 
 curl -s https://godnotaba.ru \
 | grep -oE '[a-z2-7]{56}\.onion' \
-| sort | uniq > tmp/godnotabaru.txt
+| sort | uniq > assets/tmp/godnotabaru.txt
 
 ransomwatch_allfqdn=$(curl -sL "https://ransomwhat.telemetry.ltd/groups" | jq '.[].locations[].fqdn' -r)
 
 is_excluded() {
     local address="$1"
-    if grep -Fxq "$address" "sources.exclusions"; then
+    if grep -Fxq "$address" "assets/sources.exclusions"; then
         return 0 # is excluded
     else
         return 1 # not excluded
@@ -101,11 +101,11 @@ check_host_in_rw() {
         return
     fi
     if ! echo "$ransomwatch_allfqdn" | grep -q "$address"; then
-        echo "$address not found in ransomwatch collection: tmp/$current_file"
+        echo "$address not found in ransomwatch collection: assets/tmp/$current_file"
     fi
 }
 
-for file in tmp/*; do
+for file in assets/tmp/*; do
     if [ -f "$file" ]; then
         current_file="$(basename "$file")"
         while read -r host; do
