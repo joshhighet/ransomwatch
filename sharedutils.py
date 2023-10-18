@@ -139,6 +139,9 @@ def socksfetcher(url):
             return None
         errlog('sharedutils: ' + 'socks request connection error - ' + str(rec))
         return None
+    except requests.exceptions.TooManyRedirects as ret:
+        errlog('sharedutils: ' + 'socks request too many redirects - ' + str(ret))
+        return None
 
 def siteschema(location):
     '''
