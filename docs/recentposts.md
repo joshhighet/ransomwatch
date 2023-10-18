@@ -4,6 +4,13 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-10-18 | [`ITW Inc`](https://google.com/search?q=ITW+Inc) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2023-10-18 | [`U***** S*** S******* Inc`](https://google.com/search?q=U%2A%2A%2A%2A%2A+S%2A%2A%2A+S%2A%2A%2A%2A%2A%2A%2A+Inc) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2023-10-18 | [`** P*************s, Inc`](https://google.com/search?q=%2A%2A+P%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2As%2C+Inc) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2023-10-18 | [`Gilbreath`](https://google.com/search?q=Gilbreath) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2023-10-18 | [`Company, P.C`](https://google.com/search?q=Company%2C+P.C) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2023-10-18 | [`International Biomedical Ltd`](https://google.com/search?q=International+Biomedical+Ltd) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2023-10-18 | [`Jebsen and Co. Ltd.`](https://google.com/search?q=Jebsen+and+Co.+Ltd.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-10-18 | [`kbs-accountants.nl`](https://google.com/search?q=kbs-accountants.nl) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-10-17 | [`Rotorcraft Leasing Company`](https://google.com/search?q=Rotorcraft+Leasing+Company) | [0mega](https://ransomwatch.telemetry.ltd/#/profiles?id=0mega) |
 | 2023-10-17 | [`Catarineau & Givens P.A. FULL LEAK!`](https://google.com/search?q=Catarineau+%26+Givens+P.A.+FULL+LEAK%21) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -197,10 +204,3 @@ _last `200` posts_
 | 2023-10-02 | [`Karam Chand Thapar &amp; Bros Coal Sales`](https://google.com/search?q=Karam+Chand+Thapar+%26amp%3B+Bros+Coal+Sales) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-10-02 | [`Kirkholm Maskiningeniører`](https://google.com/search?q=Kirkholm+Maskiningeni%C3%B8rer) | [mallox](https://ransomwatch.telemetry.ltd/#/profiles?id=mallox) |
 | 2023-10-02 | [`Federal University of Mato Grosso do Sul`](https://google.com/search?q=Federal+University+of+Mato+Grosso+do+Sul) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2023-10-01 | [`thermae.nl`](https://google.com/search?q=thermae.nl) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-10-01 | [`tayloredservices.com`](https://google.com/search?q=tayloredservices.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-10-01 | [`raeburns.co.uk`](https://google.com/search?q=raeburns.co.uk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-10-01 | [`laspesainfamiglia.coop`](https://google.com/search?q=laspesainfamiglia.coop) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-10-01 | [`fcps1.org`](https://google.com/search?q=fcps1.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-10-01 | [`erga.com`](https://google.com/search?q=erga.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-10-01 | [`ckgroup.com.tw`](https://google.com/search?q=ckgroup.com.tw) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
