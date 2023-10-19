@@ -70,7 +70,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 	<style type="text/css" id="custom-theme-colors" >
         :root {
             --gbl-primary-color: #ffd800 ;
-            --gbl-secondary-color: #32B9A5 ;
+            --gbl-secondary-color: #000000 ;
             --gbl-primary-font: Poppins, Serif ;
             --gbl-secondary-font: Open Sans, Sans Serif ;
             --logo-width: 90 ;
@@ -82,11 +82,11 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
             --woo-bar-bg-color: #ffd800 ;
             --menu-text-color: #e8e8e8 ;  
             --menu-bg-color: #000000 ;  
-            --text-color: #0c0c0c ;
+            --text-color: #63b500 ;
             --topbar-bg-color: #f8f9fa ;
             --topbar-text-color: #000 ;
             --e-global-color-primary: #ffd800 ;
-            --gbl-background-color:#ffffff ;
+            --gbl-background-color:#000000 ;
             --gbl-body-font-size:1em ;
             --gbl-footer-num-of-colums:4 ;
             
@@ -105,7 +105,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
         body.custom-background-image .site, 
         body.custom-background-color .site,
         .mobile-navigation {
-            background-color: #ffffff;
+            background-color: #000000;
         }
 
         .site-footer {
@@ -128,33 +128,45 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 				clip: rect(1px, 1px, 1px, 1px);
 				}
 					</style>
-		<link rel="icon" href="http://aby6efzmp7jzbwgidgqc6ghxi2vwpo6d7eaood5xuoxutrfofsmzcjqd.onion/wp-content/uploads/2021/05/cropped-kisspng-anonymous-logo-anonymity-anonymous-5ac1b1fa848100.3915377815226434505428-1-32x32.png" sizes="32x32" />
+		<style id="custom-background-css">
+body.custom-background { background-color: #000000; }
+</style>
+	<link rel="icon" href="http://aby6efzmp7jzbwgidgqc6ghxi2vwpo6d7eaood5xuoxutrfofsmzcjqd.onion/wp-content/uploads/2021/05/cropped-kisspng-anonymous-logo-anonymity-anonymous-5ac1b1fa848100.3915377815226434505428-1-32x32.png" sizes="32x32" />
 <link rel="icon" href="http://aby6efzmp7jzbwgidgqc6ghxi2vwpo6d7eaood5xuoxutrfofsmzcjqd.onion/wp-content/uploads/2021/05/cropped-kisspng-anonymous-logo-anonymity-anonymous-5ac1b1fa848100.3915377815226434505428-1-192x192.png" sizes="192x192" />
 <link rel="apple-touch-icon" href="http://aby6efzmp7jzbwgidgqc6ghxi2vwpo6d7eaood5xuoxutrfofsmzcjqd.onion/wp-content/uploads/2021/05/cropped-kisspng-anonymous-logo-anonymity-anonymous-5ac1b1fa848100.3915377815226434505428-1-180x180.png" />
 <meta name="msapplication-TileImage" content="http://aby6efzmp7jzbwgidgqc6ghxi2vwpo6d7eaood5xuoxutrfofsmzcjqd.onion/wp-content/uploads/2021/05/cropped-kisspng-anonymous-logo-anonymity-anonymous-5ac1b1fa848100.3915377815226434505428-1-270x270.png" />
-<style id="kirki-inline-styles"></style></head>
+		<style id="wp-custom-css">
+			:root {
+	--gbl-primary-color: #63b500;
+	--gbl-secondary-color: #000000;
+	--gbl-primary-font: Poppins, Serif;
+	--gbl-secondary-font: Open Sans, Sans Serif;
+	--logo-width: 90;
+	--header-text-color: #blank;
+	--footer-color: #000;
+	--footer-text-color: #eee;
+	--content-width: 1280px;
+	--woo-bar-color: #000000;
+	--woo-bar-bg-color: #63b500;
+	--menu-text-color: #e8e8e8;
+	--menu-bg-color: #000000;
+	--text-color: #63b500;
+	--topbar-bg-color: #f8f9fa;
+	--topbar-text-color: #000;
+	--e-global-color-primary: #000;
+	--gbl-background-color: #000000;
+	--gbl-body-font-size: 1em;
+	--gbl-footer-num-of-colums: 4;
+}		</style>
+		<style id="kirki-inline-styles"></style></head>
 
-<body class="home archive post-type-archive post-type-archive-product theme-best-shop woocommerce-shop woocommerce woocommerce-page woocommerce-no-js hfeed layout-grid hide-woo-search-cat disable-sticky-menu full-width" itemscope itemtype="https://schema.org/WebPage">
+<body class="home archive post-type-archive post-type-archive-product custom-background theme-best-shop woocommerce-shop woocommerce woocommerce-page woocommerce-no-js hfeed layout-grid custom-background-color hide-woo-search-cat disable-sticky-menu full-width" itemscope itemtype="https://schema.org/WebPage">
 		<div id="page" class="site">
 			<a class="skip-link screen-reader-text" href="#primary">Skip to content</a>
 		    
 		<header id="masthead" class="site-header style-one 
          header-no-border  hide-menu-cart "
         itemscope itemtype="https://schema.org/WPHeader">
-            
-                        
-            <div class="top-bar-menu">
-                <div class="container">
-                    
-                    <div class="left-menu">                        
-                                          
-                    </div>
-                    
-                    <div class="right-menu">
-                                        </div>
-                    
-                </div>
-            </div>
             
              
                          
@@ -1614,3 +1626,8 @@ var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax
 
 </body>
 </html>
+<!--
+Performance optimized by Redis Object Cache. Learn more: https://wprediscache.com
+
+Retrieved 16560 objects (3 MB) from Redis using PhpRedis (v5.3.7).
+-->
