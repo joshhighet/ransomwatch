@@ -4,6 +4,13 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-10-19 | [`QuadraNet Enterprise s`](https://google.com/search?q=QuadraNet+Enterprise+s) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
+| 2023-10-19 | [`Visionary Integratio n Professionals`](https://google.com/search?q=Visionary+Integratio+n+Professionals) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
+| 2023-10-19 | [`Inventum Øst`](https://google.com/search?q=Inventum+%C3%98st) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
+| 2023-10-19 | [`thecsi.com`](https://google.com/search?q=thecsi.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-10-19 | [`salaw.com`](https://google.com/search?q=salaw.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-10-19 | [`nirolaw.com`](https://google.com/search?q=nirolaw.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-10-19 | [`frs-fnrs.be`](https://google.com/search?q=frs-fnrs.be) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-10-19 | [`smart-union.org`](https://google.com/search?q=smart-union.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-10-19 | [`Innovattel LLC`](https://google.com/search?q=Innovattel+LLC) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-10-19 | [`CADRE`](https://google.com/search?q=CADRE) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -197,10 +204,3 @@ _last `200` posts_
 | 2023-10-03 | [`colsan.edu.mx`](https://google.com/search?q=colsan.edu.mx) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-10-03 | [`www.sefag.hu`](https://google.com/search?q=www.sefag.hu) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-10-03 | [`bellsonica.co.jp`](https://google.com/search?q=bellsonica.co.jp) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
-| 2023-10-02 | [`RAT.`](https://google.com/search?q=RAT.) | [donutleaks](https://ransomwatch.telemetry.ltd/#/profiles?id=donutleaks) |
-| 2023-10-02 | [`AllCare Pharmacy`](https://google.com/search?q=AllCare+Pharmacy) | [lorenz](https://ransomwatch.telemetry.ltd/#/profiles?id=lorenz) |
-| 2023-10-02 | [`Confidential files`](https://google.com/search?q=Confidential+files) | [ransomblog_noname](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomblog_noname) |
-| 2023-10-02 | [`Pain Care`](https://google.com/search?q=Pain+Care) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-10-02 | [`******g`](https://google.com/search?q=%2A%2A%2A%2A%2A%2Ag) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2023-10-02 | [`Pasouk biological company `](https://google.com/search?q=Pasouk+biological+company+) | [arvinclub](https://ransomwatch.telemetry.ltd/#/profiles?id=arvinclub) |
-| 2023-10-02 | [`Steripharma`](https://google.com/search?q=Steripharma) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
