@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-10-19 | [`CADRE`](https://google.com/search?q=CADRE) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-10-18 | [`fdf.org`](https://google.com/search?q=fdf.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-10-18 | [`ITW Inc`](https://google.com/search?q=ITW+Inc) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-10-18 | [`U***** S*** S******* Inc`](https://google.com/search?q=U%2A%2A%2A%2A%2A+S%2A%2A%2A+S%2A%2A%2A%2A%2A%2A%2A+Inc) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-10-02 | [`Steripharma`](https://google.com/search?q=Steripharma) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-10-02 | [`Windak`](https://google.com/search?q=Windak) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-10-02 | [`Karam Chand Thapar &amp; Bros Coal Sales`](https://google.com/search?q=Karam+Chand+Thapar+%26amp%3B+Bros+Coal+Sales) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
-| 2023-10-02 | [`Kirkholm Maskiningeniører`](https://google.com/search?q=Kirkholm+Maskiningeni%C3%B8rer) | [mallox](https://ransomwatch.telemetry.ltd/#/profiles?id=mallox) |
