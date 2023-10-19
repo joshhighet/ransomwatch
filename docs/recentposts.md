@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-10-19 | [`smart-union.org`](https://google.com/search?q=smart-union.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-10-19 | [`Innovattel LLC`](https://google.com/search?q=Innovattel+LLC) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-10-19 | [`CADRE`](https://google.com/search?q=CADRE) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-10-18 | [`fdf.org`](https://google.com/search?q=fdf.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-10-02 | [`******g`](https://google.com/search?q=%2A%2A%2A%2A%2A%2Ag) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-10-02 | [`Pasouk biological company `](https://google.com/search?q=Pasouk+biological+company+) | [arvinclub](https://ransomwatch.telemetry.ltd/#/profiles?id=arvinclub) |
 | 2023-10-02 | [`Steripharma`](https://google.com/search?q=Steripharma) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
-| 2023-10-02 | [`Windak`](https://google.com/search?q=Windak) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
