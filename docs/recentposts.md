@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-10-19 | [`http://www.gov.br`](https://google.com/search?q=http%3A%2F%2Fwww.gov.br) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2023-10-19 | [`Associated Wholesale Grocers`](https://google.com/search?q=Associated+Wholesale+Grocers) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-10-19 | [`QuadraNet Enterprise s`](https://google.com/search?q=QuadraNet+Enterprise+s) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-10-19 | [`Visionary Integratio n Professionals`](https://google.com/search?q=Visionary+Integratio+n+Professionals) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-10-03 | [`Ted Pella Inc.`](https://google.com/search?q=Ted+Pella+Inc.) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-10-03 | [`Measuresoft`](https://google.com/search?q=Measuresoft) | [mallox](https://ransomwatch.telemetry.ltd/#/profiles?id=mallox) |
 | 2023-10-03 | [`colsan.edu.mx`](https://google.com/search?q=colsan.edu.mx) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
-| 2023-10-03 | [`www.sefag.hu`](https://google.com/search?q=www.sefag.hu) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
