@@ -230,7 +230,7 @@ if args.mode == 'parse':
     parsers.arvinclub()
     parsers.avaddon()
     parsers.xinglocker()
-    parsers.ragnarlocker()
+    #parsers.ragnarlocker()
     parsers.clop()
     parsers.revil()
     parsers.everest()
