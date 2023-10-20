@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-10-20 | [`Southland Integrated Services`](https://google.com/search?q=Southland+Integrated+Services) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
+| 2023-10-20 | [`kvc constructors inc`](https://google.com/search?q=kvc+constructors+inc) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-10-19 | [`Superline - Full Leak`](https://google.com/search?q=Superline+-+Full+Leak) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2023-10-19 | [`http://www.gov.br`](https://google.com/search?q=http%3A%2F%2Fwww.gov.br) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2023-10-19 | [`Associated Wholesale Grocers`](https://google.com/search?q=Associated+Wholesale+Grocers) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-10-03 | [`co.rock.wi.us`](https://google.com/search?q=co.rock.wi.us) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
 | 2023-10-03 | [`GDL Logística Integrada S.A`](https://google.com/search?q=GDL+Log%C3%ADstica+Integrada+S.A) | [knight](https://ransomwatch.telemetry.ltd/#/profiles?id=knight) |
 | 2023-10-03 | [`Sabian Inc`](https://google.com/search?q=Sabian+Inc) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-10-03 | [`Ted Pella Inc.`](https://google.com/search?q=Ted+Pella+Inc.) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-10-03 | [`Measuresoft`](https://google.com/search?q=Measuresoft) | [mallox](https://ransomwatch.telemetry.ltd/#/profiles?id=mallox) |
