@@ -4,6 +4,13 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-10-20 | [`Williamson Foodservice`](https://google.com/search?q=Williamson+Foodservice) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-10-20 | [`Epaccsys`](https://google.com/search?q=Epaccsys) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-10-20 | [`Tru-val Electric`](https://google.com/search?q=Tru-val+Electric) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-10-20 | [`Bridgeport Fittings`](https://google.com/search?q=Bridgeport+Fittings) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-10-20 | [`Kobi Karp Architecture and Interior Design`](https://google.com/search?q=Kobi+Karp+Architecture+and+Interior+Design) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-10-20 | [`RADISE`](https://google.com/search?q=RADISE) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-10-20 | [`Polar Tech Industries`](https://google.com/search?q=Polar+Tech+Industries) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-10-20 | [`arietishealth.com`](https://google.com/search?q=arietishealth.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-10-20 | [`Ipswich Bay Glass`](https://google.com/search?q=Ipswich+Bay+Glass) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-10-20 | [`Hygieneering`](https://google.com/search?q=Hygieneering) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -197,10 +204,3 @@ _last `200` posts_
 | 2023-10-04 | [`ditronics.com`](https://google.com/search?q=ditronics.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2023-10-04 | [`Meridian Cooperative`](https://google.com/search?q=Meridian+Cooperative) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
 | 2023-10-04 | [`Roof Management`](https://google.com/search?q=Roof+Management) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-10-04 | [`Security Instrument`](https://google.com/search?q=Security+Instrument) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-10-04 | [`Filtration Control`](https://google.com/search?q=Filtration+Control) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-10-04 | [`Cinepolis USA`](https://google.com/search?q=Cinepolis+USA) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-10-04 | [`CHARMANT Group`](https://google.com/search?q=CHARMANT+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-10-04 | [`Stavanger Municipality`](https://google.com/search?q=Stavanger+Municipality) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-10-04 | [`McLaren Health Care Corporation`](https://google.com/search?q=McLaren+Health+Care+Corporation) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-10-04 | [`Gruskin Group`](https://google.com/search?q=Gruskin+Group) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
