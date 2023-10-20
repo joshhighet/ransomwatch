@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-10-20 | [`Protector Fire Servi ces`](https://google.com/search?q=Protector+Fire+Servi+ces) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
+| 2023-10-20 | [`Royal College of Phy sicians and Surgeons of Glasgow`](https://google.com/search?q=Royal+College+of+Phy+sicians+and+Surgeons+of+Glasgow) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-10-20 | [`Southland Integrated Services`](https://google.com/search?q=Southland+Integrated+Services) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-10-20 | [`kvc constructors inc`](https://google.com/search?q=kvc+constructors+inc) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-10-19 | [`Superline - Full Leak`](https://google.com/search?q=Superline+-+Full+Leak) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-10-03 | [`Groupe Fructa Partner - Leaked`](https://google.com/search?q=Groupe+Fructa+Partner+-+Leaked) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
 | 2023-10-03 | [`aicsacorp.com`](https://google.com/search?q=aicsacorp.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-10-03 | [`co.rock.wi.us`](https://google.com/search?q=co.rock.wi.us) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
-| 2023-10-03 | [`GDL Logística Integrada S.A`](https://google.com/search?q=GDL+Log%C3%ADstica+Integrada+S.A) | [knight](https://ransomwatch.telemetry.ltd/#/profiles?id=knight) |
-| 2023-10-03 | [`Sabian Inc`](https://google.com/search?q=Sabian+Inc) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
