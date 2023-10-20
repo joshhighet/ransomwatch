@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-10-20 | [`arietishealth.com`](https://google.com/search?q=arietishealth.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-10-20 | [`Ipswich Bay Glass`](https://google.com/search?q=Ipswich+Bay+Glass) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-10-20 | [`Hygieneering`](https://google.com/search?q=Hygieneering) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-10-20 | [`The Fountain Group`](https://google.com/search?q=The+Fountain+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-10-04 | [`Stavanger Municipality`](https://google.com/search?q=Stavanger+Municipality) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-10-04 | [`McLaren Health Care Corporation`](https://google.com/search?q=McLaren+Health+Care+Corporation) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-10-04 | [`Gruskin Group`](https://google.com/search?q=Gruskin+Group) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2023-10-04 | [`LEAKED! Motel One`](https://google.com/search?q=LEAKED%21+Motel+One) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
