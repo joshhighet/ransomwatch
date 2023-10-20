@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-10-20 | [`charleystaxi.com`](https://google.com/search?q=charleystaxi.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-10-20 | [`We Hire Pentesters(5BTC Payout)`](https://google.com/search?q=We+Hire+Pentesters%285BTC+Payout%29) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
 | 2023-10-20 | [`degrootgroep.nl`](https://google.com/search?q=degrootgroep.nl) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-10-20 | [`Protector Fire Servi ces`](https://google.com/search?q=Protector+Fire+Servi+ces) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-10-03 | [`Maxco Supply`](https://google.com/search?q=Maxco+Supply) | [moneymessage](https://ransomwatch.telemetry.ltd/#/profiles?id=moneymessage) |
 | 2023-10-03 | [`Somagic`](https://google.com/search?q=Somagic) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-10-03 | [`The One Group`](https://google.com/search?q=The+One+Group) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-10-03 | [`Groupe Fructa Partner - Leaked`](https://google.com/search?q=Groupe+Fructa+Partner+-+Leaked) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
