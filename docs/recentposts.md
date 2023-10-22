@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-10-22 | [`Ransomedvc Launches A forum`](https://google.com/search?q=Ransomedvc+Launches+A+forum) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
 | 2023-10-22 | [`Edwards Business Systems`](https://google.com/search?q=Edwards+Business+Systems) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-10-22 | [`Brunton Shaw`](https://google.com/search?q=Brunton+Shaw) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-10-22 | [`JC Roman Construction`](https://google.com/search?q=JC+Roman+Construction) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-10-05 | [`RICOR Global Limited`](https://google.com/search?q=RICOR+Global+Limited) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2023-10-05 | [`Cornerstone Projects Group`](https://google.com/search?q=Cornerstone+Projects+Group) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2023-10-05 | [`Learning Partnership West - Leaked`](https://google.com/search?q=Learning+Partnership+West+-+Leaked) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
-| 2023-10-05 | [`Terwilliger Land Sur vey Engineers`](https://google.com/search?q=Terwilliger+Land+Sur+vey+Engineers) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
