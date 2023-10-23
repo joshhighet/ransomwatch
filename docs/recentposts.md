@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-10-23 | [`University of Defence - Full Leak`](https://google.com/search?q=University+of+Defence+-+Full+Leak) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
+| 2023-10-23 | [`3-D Engineering`](https://google.com/search?q=3-D+Engineering) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-10-23 | [`www.centredusablon.ca`](https://google.com/search?q=www.centredusablon.ca) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-10-23 | [`www.koreapetroleum.com`](https://google.com/search?q=www.koreapetroleum.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-10-23 | [`www.kbs-accountants.nl`](https://google.com/search?q=www.kbs-accountants.nl) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-10-07 | [`Partnership With Breachforums`](https://google.com/search?q=Partnership+With+Breachforums) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
 | 2023-10-07 | [`DallBogg Breach`](https://google.com/search?q=DallBogg+Breach) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
 | 2023-10-06 | [`sogebank.com`](https://google.com/search?q=sogebank.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-10-06 | [`International Presence Ltd - Leaked`](https://google.com/search?q=International+Presence+Ltd+-+Leaked) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
-| 2023-10-06 | [`For UNOB`](https://google.com/search?q=For+UNOB) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
