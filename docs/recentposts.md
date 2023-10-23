@@ -4,6 +4,13 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-10-23 | [`www.centredusablon.ca`](https://google.com/search?q=www.centredusablon.ca) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
+| 2023-10-23 | [`www.koreapetroleum.com`](https://google.com/search?q=www.koreapetroleum.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
+| 2023-10-23 | [`www.kbs-accountants.nl`](https://google.com/search?q=www.kbs-accountants.nl) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
+| 2023-10-23 | [`www.misterminit.eu`](https://google.com/search?q=www.misterminit.eu) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
+| 2023-10-23 | [`www.ucb.edu.pr`](https://google.com/search?q=www.ucb.edu.pr) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
+| 2023-10-23 | [`www.bmw-ducati.com`](https://google.com/search?q=www.bmw-ducati.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
+| 2023-10-23 | [`www.icschool-uae.com`](https://google.com/search?q=www.icschool-uae.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-10-23 | [`ZOUARY &amp; Associés`](https://google.com/search?q=ZOUARY+%26amp%3B+Associ%C3%A9s) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-10-23 | [`Safpro`](https://google.com/search?q=Safpro) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-10-23 | [`EHPAD`](https://google.com/search?q=EHPAD) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
@@ -197,10 +204,3 @@ _last `200` posts_
 | 2023-10-06 | [`sogebank.com`](https://google.com/search?q=sogebank.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-10-06 | [`International Presence Ltd - Leaked`](https://google.com/search?q=International+Presence+Ltd+-+Leaked) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
 | 2023-10-06 | [`For UNOB`](https://google.com/search?q=For+UNOB) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
-| 2023-10-06 | [`(SALE) District Of Columbia Elections 600k lines VOTERS DATA`](https://google.com/search?q=%28SALE%29+District+Of+Columbia+Elections+600k+lines+VOTERS+DATA) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
-| 2023-10-06 | [`Agència Catalana de Notícies (ACN)`](https://google.com/search?q=Ag%C3%A8ncia+Catalana+de+Not%C3%ADcies+%28ACN%29) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
-| 2023-10-06 | [`tatatelebusiness.com`](https://google.com/search?q=tatatelebusiness.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-10-06 | [`sinedieadvisor.com`](https://google.com/search?q=sinedieadvisor.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-10-06 | [`picosoft.biz`](https://google.com/search?q=picosoft.biz) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-10-06 | [`litung.com.tw`](https://google.com/search?q=litung.com.tw) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-10-06 | [`eemotors.com`](https://google.com/search?q=eemotors.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
