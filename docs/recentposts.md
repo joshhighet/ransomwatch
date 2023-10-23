@@ -4,6 +4,11 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-10-23 | [`ZOUARY &amp; Associés`](https://google.com/search?q=ZOUARY+%26amp%3B+Associ%C3%A9s) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
+| 2023-10-23 | [`Safpro`](https://google.com/search?q=Safpro) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
+| 2023-10-23 | [`EHPAD`](https://google.com/search?q=EHPAD) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
+| 2023-10-23 | [`Beaver Lake Cree Nation`](https://google.com/search?q=Beaver+Lake+Cree+Nation) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
+| 2023-10-23 | [`Native Counselling Services of Alberta`](https://google.com/search?q=Native+Counselling+Services+of+Alberta) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-10-23 | [`Ada-Borup-West School`](https://google.com/search?q=Ada-Borup-West+School) | [ransomblog_noname](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomblog_noname) |
 | 2023-10-23 | [`mamu.be`](https://google.com/search?q=mamu.be) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-10-23 | [`harlingentx.gov`](https://google.com/search?q=harlingentx.gov) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -199,8 +204,3 @@ _last `200` posts_
 | 2023-10-06 | [`picosoft.biz`](https://google.com/search?q=picosoft.biz) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-10-06 | [`litung.com.tw`](https://google.com/search?q=litung.com.tw) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-10-06 | [`eemotors.com`](https://google.com/search?q=eemotors.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-10-06 | [`cote-expert-equipements.com`](https://google.com/search?q=cote-expert-equipements.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-10-06 | [`bm.co.th`](https://google.com/search?q=bm.co.th) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-10-06 | [`www.grangermedical.com`](https://google.com/search?q=www.grangermedical.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
-| 2023-10-06 | [`Camara Municipal de Gondomar`](https://google.com/search?q=Camara+Municipal+de+Gondomar) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2023-10-05 | [`sirva.com`](https://google.com/search?q=sirva.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
