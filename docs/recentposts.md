@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-10-24 | [`SURTECO North America`](https://google.com/search?q=SURTECO+North+America) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2023-10-24 | [`3-D Engineering/ 3-D Precision Machine`](https://google.com/search?q=3-D+Engineering%2F+3-D+Precision+Machine) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-10-23 | [`www.portage.k12.in.us`](https://google.com/search?q=www.portage.k12.in.us) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-10-23 | [`Newconcepttech`](https://google.com/search?q=Newconcepttech) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
 | 2023-10-23 | [`University of Defence - Full Leak`](https://google.com/search?q=University+of+Defence+-+Full+Leak) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-10-08 | [`Petersen Johnson`](https://google.com/search?q=Petersen+Johnson) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-10-07 | [`University Obrany - Part 2 (Tiny Leak)`](https://google.com/search?q=University+Obrany+-+Part+2+%28Tiny+Leak%29) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2023-10-07 | [`The Hurley Group`](https://google.com/search?q=The+Hurley+Group) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2023-10-07 | [`Healix`](https://google.com/search?q=Healix) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2023-10-07 | [`Partnership With Breachforums`](https://google.com/search?q=Partnership+With+Breachforums) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
