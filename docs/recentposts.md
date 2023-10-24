@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-10-24 | [`www.floristssupply.com`](https://google.com/search?q=www.floristssupply.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
+| 2023-10-24 | [`victorvilleca.gov`](https://google.com/search?q=victorvilleca.gov) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-10-24 | [`CMC Group`](https://google.com/search?q=CMC+Group) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-10-24 | [`City of Pittsburg`](https://google.com/search?q=City+of+Pittsburg) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-10-24 | [`EDUARDO G. BARROSO`](https://google.com/search?q=EDUARDO+G.+BARROSO) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-10-08 | [`I&#038;G Brokers Database, Download Now`](https://google.com/search?q=I%26%23038%3BG+Brokers+Database%2C+Download+Now) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
 | 2023-10-08 | [`pilini.bg Database, Download Now!`](https://google.com/search?q=pilini.bg+Database%2C+Download+Now%21) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
 | 2023-10-08 | [`iLife.bg`](https://google.com/search?q=iLife.bg) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
-| 2023-10-08 | [`novoingresso.com.br`](https://google.com/search?q=novoingresso.com.br) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
-| 2023-10-08 | [`webpag.com.br`](https://google.com/search?q=webpag.com.br) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
