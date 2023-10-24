@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-10-24 | [`EDUARDO G. BARROSO`](https://google.com/search?q=EDUARDO+G.+BARROSO) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-10-24 | [`hgmonline.com`](https://google.com/search?q=hgmonline.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-10-24 | [`grupocobra.com`](https://google.com/search?q=grupocobra.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-10-24 | [`SURTECO North America`](https://google.com/search?q=SURTECO+North+America) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-10-08 | [`webpag.com.br`](https://google.com/search?q=webpag.com.br) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
 | 2023-10-08 | [`rodoviariaonline.com.br`](https://google.com/search?q=rodoviariaonline.com.br) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
 | 2023-10-08 | [`IKM`](https://google.com/search?q=IKM) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-10-08 | [`Petersen Johnson`](https://google.com/search?q=Petersen+Johnson) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
