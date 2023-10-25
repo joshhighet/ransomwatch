@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-10-25 | [`cvcheart.com`](https://google.com/search?q=cvcheart.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2023-10-25 | [`Carter Transport Claims`](https://google.com/search?q=Carter+Transport+Claims) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-10-25 | [`AVA Limited`](https://google.com/search?q=AVA+Limited) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-10-25 | [`Pine River Pre-Pack, Inc`](https://google.com/search?q=Pine+River+Pre-Pack%2C+Inc) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-10-09 | [`i-Can Advisory Group inc`](https://google.com/search?q=i-Can+Advisory+Group+inc) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-10-09 | [`enerjet.com.pe`](https://google.com/search?q=enerjet.com.pe) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-10-09 | [`BrData Tecnologia`](https://google.com/search?q=BrData+Tecnologia) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-10-09 | [`Southern Arkansas University`](https://google.com/search?q=Southern+Arkansas+University) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
