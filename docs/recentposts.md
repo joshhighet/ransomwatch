@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-10-26 | [`Versatile Card Technology Private Limited`](https://google.com/search?q=Versatile+Card+Technology+Private+Limited) | [mallox](https://ransomwatch.telemetry.ltd/#/profiles?id=mallox) |
 | 2023-10-25 | [`www.fortive.com`](https://google.com/search?q=www.fortive.com) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2023-10-25 | [`M&amp;n Management`](https://google.com/search?q=M%26amp%3Bn+Management) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
 | 2023-10-25 | [`Ancillae-Assumpta Academy`](https://google.com/search?q=Ancillae-Assumpta+Academy) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-10-09 | [`atlantatech.edu`](https://google.com/search?q=atlantatech.edu) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-10-09 | [`Superline - Press Release`](https://google.com/search?q=Superline+-+Press+Release) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2023-10-09 | [`vsmpo-tirus.com`](https://google.com/search?q=vsmpo-tirus.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-10-09 | [`wtpartnership.asia`](https://google.com/search?q=wtpartnership.asia) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
