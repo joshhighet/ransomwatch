@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-10-26 | [`maniland.co.uk`](https://google.com/search?q=maniland.co.uk) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
+| 2023-10-26 | [`Laiho Group`](https://google.com/search?q=Laiho+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-10-26 | [`caminorealcs.org`](https://google.com/search?q=caminorealcs.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-10-26 | [`doverchem.com`](https://google.com/search?q=doverchem.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-10-26 | [`claimtek.com`](https://google.com/search?q=claimtek.com) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-10-09 | [`www.penfieldfire.org`](https://google.com/search?q=www.penfieldfire.org) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-10-09 | [`M??? T??????`](https://google.com/search?q=M%3F%3F%3F+T%3F%3F%3F%3F%3F%3F) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-10-09 | [`centredusablon.com`](https://google.com/search?q=centredusablon.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
-| 2023-10-09 | [`www.geacam.es`](https://google.com/search?q=www.geacam.es) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
-| 2023-10-09 | [`Wyndemere Senior Care, LLC`](https://google.com/search?q=Wyndemere+Senior+Care%2C+LLC) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
