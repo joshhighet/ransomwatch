@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-10-26 | [`doverchem.com`](https://google.com/search?q=doverchem.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-10-26 | [`claimtek.com`](https://google.com/search?q=claimtek.com) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
 | 2023-10-26 | [`apexga.bank`](https://google.com/search?q=apexga.bank) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
 | 2023-10-26 | [`sgworld.com`](https://google.com/search?q=sgworld.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-10-09 | [`www.geacam.es`](https://google.com/search?q=www.geacam.es) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-10-09 | [`Wyndemere Senior Care, LLC`](https://google.com/search?q=Wyndemere+Senior+Care%2C+LLC) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-10-09 | [`First Judicial Circuit - Florida Court`](https://google.com/search?q=First+Judicial+Circuit+-+Florida+Court) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-10-09 | [`starplast.ft`](https://google.com/search?q=starplast.ft) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
