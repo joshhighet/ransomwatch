@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-10-27 | [`www.volex.com`](https://google.com/search?q=www.volex.com) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2023-10-27 | [`Wilson Lewis`](https://google.com/search?q=Wilson+Lewis) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-10-27 | [`ZINSER GmbH`](https://google.com/search?q=ZINSER+GmbH) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-10-27 | [`CBS`](https://google.com/search?q=CBS) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-10-09 | [`WCM Europe`](https://google.com/search?q=WCM+Europe) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-10-09 | [`NachtExpress Austria GmbH`](https://google.com/search?q=NachtExpress+Austria+GmbH) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-10-09 | [`Centek industries`](https://google.com/search?q=Centek+industries) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-10-09 | [`Hughes Gill Cochrane Tinetti`](https://google.com/search?q=Hughes+Gill+Cochrane+Tinetti) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
