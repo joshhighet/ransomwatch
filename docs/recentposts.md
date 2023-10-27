@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-10-27 | [`Stanford University`](https://google.com/search?q=Stanford+University) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-10-27 | [`WWW.VOLEX.COM`](https://google.com/search?q=WWW.VOLEX.COM) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2023-10-27 | [`www.volex.com`](https://google.com/search?q=www.volex.com) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2023-10-27 | [`Wilson Lewis`](https://google.com/search?q=Wilson+Lewis) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-10-09 | [`Saltire Energy`](https://google.com/search?q=Saltire+Energy) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-10-09 | [`Starr Finley`](https://google.com/search?q=Starr+Finley) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-10-09 | [`WCM Europe`](https://google.com/search?q=WCM+Europe) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-10-09 | [`NachtExpress Austria GmbH`](https://google.com/search?q=NachtExpress+Austria+GmbH) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
