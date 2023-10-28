@@ -4,6 +4,18 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-10-28 | [`Dallas County`](https://google.com/search?q=Dallas+County) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-10-28 | [`Alpha Mortgage`](https://google.com/search?q=Alpha+Mortgage) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-10-28 | [`Encompass Elements`](https://google.com/search?q=Encompass+Elements) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-10-28 | [`CK Associates`](https://google.com/search?q=CK+Associates) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-10-28 | [`Yingling Aviation`](https://google.com/search?q=Yingling+Aviation) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-10-28 | [`Sam Tell Companies`](https://google.com/search?q=Sam+Tell+Companies) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-10-28 | [`Waterstone Faucets`](https://google.com/search?q=Waterstone+Faucets) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-10-28 | [`Bush Refrigeration`](https://google.com/search?q=Bush+Refrigeration) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-10-28 | [`Drug Emporium`](https://google.com/search?q=Drug+Emporium) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-10-28 | [`Online Development`](https://google.com/search?q=Online+Development) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-10-28 | [`KDI Office Technology`](https://google.com/search?q=KDI+Office+Technology) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-10-28 | [`Het Veer`](https://google.com/search?q=Het+Veer) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-10-28 | [`TNT Plastic Molding`](https://google.com/search?q=TNT+Plastic+Molding) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-10-28 | [`IBACOS`](https://google.com/search?q=IBACOS) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-10-28 | [`Morrison Community Hospital FULL HUGE LEAK + BONUS`](https://google.com/search?q=Morrison+Community+Hospital+FULL+HUGE+LEAK+%2B+BONUS) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -192,15 +204,3 @@ _last `200` posts_
 | 2023-10-11 | [`www.stantonwilliams.com`](https://google.com/search?q=www.stantonwilliams.com) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2023-10-11 | [`www.edwardian.com`](https://google.com/search?q=www.edwardian.com) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2023-10-11 | [`hugohaeffner.com`](https://google.com/search?q=hugohaeffner.com) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2023-10-11 | [`Catarineau & Givens P.A.`](https://google.com/search?q=Catarineau+%26+Givens+P.A.) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-10-11 | [`Instron`](https://google.com/search?q=Instron) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2023-10-11 | [`Air Canada`](https://google.com/search?q=Air+Canada) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2023-10-11 | [`Pelindo`](https://google.com/search?q=Pelindo) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2023-10-11 | [`Sobieski`](https://google.com/search?q=Sobieski) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2023-10-11 | [`We monetize your corporate access`](https://google.com/search?q=We+monetize+your+corporate+access) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
-| 2023-10-10 | [`Metro Transit`](https://google.com/search?q=Metro+Transit) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-10-10 | [`effigest.fr`](https://google.com/search?q=effigest.fr) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
-| 2023-10-10 | [`Alliance Virgil Roberts Leadership Academy`](https://google.com/search?q=Alliance+Virgil+Roberts+Leadership+Academy) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
-| 2023-10-10 | [`National Health Mission. Department of Health & Family Welfare, Govt. of U.P`](https://google.com/search?q=National+Health+Mission.+Department+of+Health+%26+Family+Welfare%2C+Govt.+of+U.P) | [knight](https://ransomwatch.telemetry.ltd/#/profiles?id=knight) |
-| 2023-10-10 | [`foremostgroups.com`](https://google.com/search?q=foremostgroups.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-10-10 | [`mountstmarys`](https://google.com/search?q=mountstmarys) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
