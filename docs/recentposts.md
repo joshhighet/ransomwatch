@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-10-28 | [`TNT Plastic Molding`](https://google.com/search?q=TNT+Plastic+Molding) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-10-28 | [`IBACOS`](https://google.com/search?q=IBACOS) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-10-28 | [`Morrison Community Hospital FULL HUGE LEAK + BONUS`](https://google.com/search?q=Morrison+Community+Hospital+FULL+HUGE+LEAK+%2B+BONUS) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-10-27 | [`Alam Flora%20Sdn%20Bhd`](https://google.com/search?q=Alam+Flora%2520Sdn%2520Bhd) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-10-10 | [`National Health Mission. Department of Health & Family Welfare, Govt. of U.P`](https://google.com/search?q=National+Health+Mission.+Department+of+Health+%26+Family+Welfare%2C+Govt.+of+U.P) | [knight](https://ransomwatch.telemetry.ltd/#/profiles?id=knight) |
 | 2023-10-10 | [`foremostgroups.com`](https://google.com/search?q=foremostgroups.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-10-10 | [`mountstmarys`](https://google.com/search?q=mountstmarys) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
-| 2023-10-10 | [`ExdionInsurance`](https://google.com/search?q=ExdionInsurance) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
