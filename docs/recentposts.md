@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-10-29 | [`WACOSA`](https://google.com/search?q=WACOSA) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-10-28 | [`Dallas County`](https://google.com/search?q=Dallas+County) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-10-28 | [`Alpha Mortgage`](https://google.com/search?q=Alpha+Mortgage) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-10-28 | [`Encompass Elements`](https://google.com/search?q=Encompass+Elements) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-10-11 | [`Village Building%20Co.`](https://google.com/search?q=Village+Building%2520Co.) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2023-10-11 | [`www.stantonwilliams.com`](https://google.com/search?q=www.stantonwilliams.com) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2023-10-11 | [`www.edwardian.com`](https://google.com/search?q=www.edwardian.com) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2023-10-11 | [`hugohaeffner.com`](https://google.com/search?q=hugohaeffner.com) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
