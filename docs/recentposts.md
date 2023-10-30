@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-10-30 | [`topcharoen.co.th`](https://google.com/search?q=topcharoen.co.th) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-10-30 | [`mottamaholdings.com`](https://google.com/search?q=mottamaholdings.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-10-30 | [`RANSOMEDVC is for sale`](https://google.com/search?q=RANSOMEDVC+is+for+sale) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
 | 2023-10-30 | [`Jockey Club`](https://google.com/search?q=Jockey+Club) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-10-29 | [`Global Export%20Marketing%20Co.%20Ltd.`](https://google.com/search?q=Global+Export%2520Marketing%2520Co.%2520Ltd.) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-10-11 | [`Scotbeef Ltd. - Leaks`](https://google.com/search?q=Scotbeef+Ltd.+-+Leaks) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
 | 2023-10-11 | [`instantaccess-co.com`](https://google.com/search?q=instantaccess-co.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-10-11 | [`Eicon Controle Inteligentes`](https://google.com/search?q=Eicon+Controle+Inteligentes) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
-| 2023-10-11 | [`</a>`](https://google.com/search?q=%3C%2Fa%3E) | [dunghill_leak](https://ransomwatch.telemetry.ltd/#/profiles?id=dunghill_leak) |
-| 2023-10-11 | [`Mid-America Real Estate Group`](https://google.com/search?q=Mid-America+Real+Estate+Group) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
