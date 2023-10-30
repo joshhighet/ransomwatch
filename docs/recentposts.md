@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-10-30 | [`RANSOMEDVC is for sale`](https://google.com/search?q=RANSOMEDVC+is+for+sale) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
+| 2023-10-30 | [`Jockey Club`](https://google.com/search?q=Jockey+Club) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-10-29 | [`Global Export%20Marketing%20Co.%20Ltd.`](https://google.com/search?q=Global+Export%2520Marketing%2520Co.%2520Ltd.) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2023-10-29 | [`WACOSA`](https://google.com/search?q=WACOSA) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-10-28 | [`Dallas County`](https://google.com/search?q=Dallas+County) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-10-11 | [`Eicon Controle Inteligentes`](https://google.com/search?q=Eicon+Controle+Inteligentes) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
 | 2023-10-11 | [`</a>`](https://google.com/search?q=%3C%2Fa%3E) | [dunghill_leak](https://ransomwatch.telemetry.ltd/#/profiles?id=dunghill_leak) |
 | 2023-10-11 | [`Mid-America Real Estate Group`](https://google.com/search?q=Mid-America+Real+Estate+Group) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-10-11 | [`Village Building%20Co.`](https://google.com/search?q=Village+Building%2520Co.) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2023-10-11 | [`www.stantonwilliams.com`](https://google.com/search?q=www.stantonwilliams.com) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
