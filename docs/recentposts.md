@@ -4,6 +4,10 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-10-30 | [`Freeman Johnson`](https://google.com/search?q=Freeman+Johnson) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
+| 2023-10-30 | [`groupemontclair.com`](https://google.com/search?q=groupemontclair.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-10-30 | [`frontlineequipment.com.au`](https://google.com/search?q=frontlineequipment.com.au) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-10-30 | [`ecabusinessenergy.com`](https://google.com/search?q=ecabusinessenergy.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-10-30 | [`topcharoen.co.th`](https://google.com/search?q=topcharoen.co.th) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-10-30 | [`mottamaholdings.com`](https://google.com/search?q=mottamaholdings.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-10-30 | [`RANSOMEDVC is for sale`](https://google.com/search?q=RANSOMEDVC+is+for+sale) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
@@ -200,7 +204,3 @@ _last `200` posts_
 | 2023-10-12 | [`Comtek Advanced Structures, a Latecoere Company`](https://google.com/search?q=Comtek+Advanced+Structures%2C+a+Latecoere+Company) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-10-12 | [`KTUA Landscape Architecture and Planning`](https://google.com/search?q=KTUA+Landscape+Architecture+and+Planning) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-10-11 | [`Institut Technologique FCBA`](https://google.com/search?q=Institut+Technologique+FCBA) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-10-11 | [`ldlcasvel.com`](https://google.com/search?q=ldlcasvel.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
-| 2023-10-11 | [`Scotbeef Ltd. - Leaks`](https://google.com/search?q=Scotbeef+Ltd.+-+Leaks) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
-| 2023-10-11 | [`instantaccess-co.com`](https://google.com/search?q=instantaccess-co.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
-| 2023-10-11 | [`Eicon Controle Inteligentes`](https://google.com/search?q=Eicon+Controle+Inteligentes) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
