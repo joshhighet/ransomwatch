@@ -4,6 +4,13 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-10-31 | [`www.dynametal.com`](https://google.com/search?q=www.dynametal.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
+| 2023-10-31 | [`www.spolzino.com`](https://google.com/search?q=www.spolzino.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
+| 2023-10-31 | [`www.prclinical.com`](https://google.com/search?q=www.prclinical.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
+| 2023-10-31 | [`www.mckeagandco.com`](https://google.com/search?q=www.mckeagandco.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
+| 2023-10-31 | [`www.strumet.pl`](https://google.com/search?q=www.strumet.pl) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
+| 2023-10-31 | [`straphaels.org.uk`](https://google.com/search?q=straphaels.org.uk) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
+| 2023-10-31 | [`Kingsport Times-News`](https://google.com/search?q=Kingsport+Times-News) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-10-30 | [`Brodart`](https://google.com/search?q=Brodart) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-10-30 | [`aiq.com.mx`](https://google.com/search?q=aiq.com.mx) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-10-30 | [`aces-int.com`](https://google.com/search?q=aces-int.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -197,10 +204,3 @@ _last `200` posts_
 | 2023-10-12 | [`Vicon industries%20inc.`](https://google.com/search?q=Vicon+industries%2520inc.) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2023-10-12 | [`www.seattlehousing.org`](https://google.com/search?q=www.seattlehousing.org) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-10-12 | [`https://www.fpz.de/`](https://google.com/search?q=https%3A%2F%2Fwww.fpz.de%2F) | [trigona](https://ransomwatch.telemetry.ltd/#/profiles?id=trigona) |
-| 2023-10-12 | [`Tri-Way Manufacturing Technologies`](https://google.com/search?q=Tri-Way+Manufacturing+Technologies) | [moneymessage](https://ransomwatch.telemetry.ltd/#/profiles?id=moneymessage) |
-| 2023-10-12 | [`Acoustic Center`](https://google.com/search?q=Acoustic+Center) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
-| 2023-10-12 | [`Neodata`](https://google.com/search?q=Neodata) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
-| 2023-10-12 | [`Evasión `](https://google.com/search?q=Evasi%C3%B3n+) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
-| 2023-10-12 | [`SIMTA `](https://google.com/search?q=SIMTA+) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
-| 2023-10-12 | [`ZOUARY &amp; Associés `](https://google.com/search?q=ZOUARY+%26amp%3B+Associ%C3%A9s+) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
-| 2023-10-12 | [`Instron and ITW Inc`](https://google.com/search?q=Instron+and+ITW+Inc) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
