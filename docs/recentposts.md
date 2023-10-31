@@ -4,6 +4,13 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-10-31 | [`Auswide Services`](https://google.com/search?q=Auswide+Services) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2023-10-31 | [`B*****`](https://google.com/search?q=B%2A%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2023-10-31 | [`Prasan Enterprises`](https://google.com/search?q=Prasan+Enterprises) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2023-10-31 | [`utec.com.sa`](https://google.com/search?q=utec.com.sa) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-10-31 | [`riohondo.edu`](https://google.com/search?q=riohondo.edu) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-10-31 | [`bildco.ae`](https://google.com/search?q=bildco.ae) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-10-31 | [`ageroute.sn`](https://google.com/search?q=ageroute.sn) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-10-31 | [`smartuigroup.com.au`](https://google.com/search?q=smartuigroup.com.au) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-10-31 | [`Mount Carmel Care Center`](https://google.com/search?q=Mount+Carmel+Care+Center) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-10-31 | [`twosaints.org.uk`](https://google.com/search?q=twosaints.org.uk) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
@@ -197,10 +204,3 @@ _last `200` posts_
 | 2023-10-13 | [`Colonial Pipeline Company`](https://google.com/search?q=Colonial+Pipeline+Company) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
 | 2023-10-13 | [`Catholic Charities`](https://google.com/search?q=Catholic+Charities) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2023-10-13 | [`koreapetroleum.com`](https://google.com/search?q=koreapetroleum.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
-| 2023-10-13 | [`Cleveland City%20Schools`](https://google.com/search?q=Cleveland+City%2520Schools) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2023-10-13 | [`ttps://www.alconex.com/`](https://google.com/search?q=ttps%3A%2F%2Fwww.alconex.com%2F) | [trigona](https://ransomwatch.telemetry.ltd/#/profiles?id=trigona) |
-| 2023-10-13 | [`Morrison Community Hospital`](https://google.com/search?q=Morrison+Community+Hospital) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-10-13 | [`Hospital Italiano de Buenos Aires`](https://google.com/search?q=Hospital+Italiano+de+Buenos+Aires) | [knight](https://ransomwatch.telemetry.ltd/#/profiles?id=knight) |
-| 2023-10-13 | [`http://www.multidev.com`](https://google.com/search?q=http%3A%2F%2Fwww.multidev.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
-| 2023-10-13 | [`AKBASOGLU HOLDING Trans KA`](https://google.com/search?q=AKBASOGLU+HOLDING+Trans+KA) | [knight](https://ransomwatch.telemetry.ltd/#/profiles?id=knight) |
-| 2023-10-12 | [`NEW TWITTER`](https://google.com/search?q=NEW+TWITTER) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
