@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-10-31 | [`Mount Carmel Care Center`](https://google.com/search?q=Mount+Carmel+Care+Center) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-10-31 | [`twosaints.org.uk`](https://google.com/search?q=twosaints.org.uk) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-10-31 | [`Romulo Law Offices`](https://google.com/search?q=Romulo+Law+Offices) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-10-31 | [`www.dynametal.com`](https://google.com/search?q=www.dynametal.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-10-13 | [`AKBASOGLU HOLDING Trans KA`](https://google.com/search?q=AKBASOGLU+HOLDING+Trans+KA) | [knight](https://ransomwatch.telemetry.ltd/#/profiles?id=knight) |
 | 2023-10-12 | [`NEW TWITTER`](https://google.com/search?q=NEW+TWITTER) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
 | 2023-10-12 | [`Fuck Palestine! We buy your access!!`](https://google.com/search?q=Fuck+Palestine%21+We+buy+your+access%21%21) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
-| 2023-10-12 | [`Vicon industries%20inc.`](https://google.com/search?q=Vicon+industries%2520inc.) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
