@@ -1104,8 +1104,9 @@ def cactus():
 
 def knight():
     stdlog('parser: ' + 'knight')
+    # jq -r '.pages[].name' source/knight-knight3xppu*.html || true
     parser = '''
-    jq -r '.pages[].name' source/knight-knight3xppu*.html || true
+    jq -r '.posts[].title' source/knight-knight3*.html || true
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
