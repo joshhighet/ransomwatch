@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-11-01 | [`https://tanatexchemicals.com`](https://google.com/search?q=https%3A%2F%2Ftanatexchemicals.com) | [metaencryptor](https://ransomwatch.telemetry.ltd/#/profiles?id=metaencryptor) |
 | 2023-11-01 | [`Faieta Motorcompany IT`](https://google.com/search?q=Faieta+Motorcompany+IT) | [knight](https://ransomwatch.telemetry.ltd/#/profiles?id=knight) |
 | 2023-11-01 | [`Mario de Cecco - Workwear & Corporate Wear IT`](https://google.com/search?q=Mario+de+Cecco+-+Workwear+%26+Corporate+Wear+IT) | [knight](https://ransomwatch.telemetry.ltd/#/profiles?id=knight) |
 | 2023-11-01 | [`Kinesis Film Srl`](https://google.com/search?q=Kinesis+Film+Srl) | [knight](https://ransomwatch.telemetry.ltd/#/profiles?id=knight) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-10-16 | [`OmniVision Technologies`](https://google.com/search?q=OmniVision+Technologies) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2023-10-16 | [`ATI Traduction`](https://google.com/search?q=ATI+Traduction) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-10-16 | [`EDB `](https://google.com/search?q=EDB+) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
-| 2023-10-16 | [`Global Product Sales`](https://google.com/search?q=Global+Product+Sales) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
