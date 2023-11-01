@@ -20,7 +20,7 @@ def plot_posts_by_group():
     plt.xlabel('group name')
     plt.xticks(rotation=90)
     plt.ylabel('# of posts')
-    plt.savefig('docs/graphs/postsbygroup.png',dpi=300, bbox_inches="tight", pad_inches=0.1, frameon=False, transparent=True)
+    plt.savefig('docs/graphs/postsbygroup.png',dpi=300, bbox_inches="tight", pad_inches=0.1, transparent=True)
     plt.clf()
     plt.cla()
 
@@ -40,7 +40,7 @@ def plot_posts_by_group_past_7_days():
     plt.xlabel('group name')
     plt.xticks(rotation=90)
     plt.ylabel('# of posts')
-    plt.savefig('docs/graphs/postsbygroup7days.png',dpi=300, bbox_inches="tight", pad_inches=0.1, frameon=False, transparent=True)
+    plt.savefig('docs/graphs/postsbygroup7days.png',dpi=300, bbox_inches="tight", pad_inches=0.1, transparent=True)
     plt.clf()
     plt.cla()
 
@@ -73,7 +73,7 @@ def trend_posts_per_day():
     plt.xlabel('date')
     plt.xticks(rotation=90)
     plt.ylabel('# of posts')
-    plt.savefig('docs/graphs/postsbyday.png',dpi=300, bbox_inches="tight", pad_inches=0.1, frameon=False, transparent=True)
+    plt.savefig('docs/graphs/postsbyday.png',dpi=300, bbox_inches="tight", pad_inches=0.1, transparent=True)
     plt.clf()
     plt.cla()
 
@@ -98,6 +98,6 @@ def pie_posts_by_group():
     plt.legend(loc='lower center', bbox_to_anchor=(0.5, -0.2), ncol=3)
     plt.text(0.5, 0.5, 'total : ' + str(sum(counts)), horizontalalignment='center', verticalalignment='center', transform=plt.gcf().transFigure)
     plt.title('posts by group')
-    plt.savefig('docs/graphs/grouppie.png',dpi=300, bbox_inches="tight", pad_inches=0.1, frameon=False, transparent=True)
+    plt.savefig('docs/graphs/grouppie.png',dpi=300, bbox_inches="tight", pad_inches=0.1, transparent=True)
     plt.clf()
     plt.cla()
