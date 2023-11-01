@@ -98,7 +98,7 @@ def metafetch(url):
     '''
     try:
         stdlog('sharedutils: ' + 'meta prefetch request to ' + str(url))
-        request = requests.head(url, proxies=oproxies, headers=headers(), timeout=15)
+        request = requests.head(url, proxies=oproxies, headers=headers(), timeout=20)
         statcode = request.status_code
         try:
             response = request.headers['server']
@@ -120,7 +120,7 @@ def socksfetcher(url):
     try:
         stdlog('sharedutils: ' + 'starting socks request to ' + str(url))
         start_time = time.time()
-        request = requests.get(url, proxies=oproxies, headers=headers(), timeout=15, verify=False)
+        request = requests.get(url, proxies=oproxies, headers=headers(), timeout=20, verify=False)
         end_time = time.time()
         elapsed_time = end_time - start_time
         stdlog('sharedutils: ' + f'socks request to {url} completed in {elapsed_time:.2f} seconds')

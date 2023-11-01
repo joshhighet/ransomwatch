@@ -1,5 +1,9 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
+'''
+loads the dom and fetches html source after javascript rendering w/ firefox, geckodriver & selenium
+use sharedutils.py:socksfetcher for faster results if no post-processing required
+'''
 import time
 import requests
 from selenium import webdriver
