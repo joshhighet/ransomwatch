@@ -1,9 +1,5 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-'''
-loads the dom and fetches html source after javascript rendering w/ firefox, geckodriver & selenium
-use sharedutils.py:socksfetcher for faster results if no post-processing required
-'''
 import time
 import requests
 from selenium import webdriver
@@ -18,16 +14,12 @@ from sharedutils import stdlog, dbglog, errlog, honk
 requests.packages.urllib3.disable_warnings()
 
 def main(webpage):
-    '''
-    main function to fetch webpages with javascript rendering supporting onion routing
-    '''
     stdlog('geckodriver: ' + 'starting to fetch ' + webpage)
     dbglog('geckodriver: ' + 'configuring options, user agent & cert preacceptance')
     options = Options()
-    options.headless = True
-    options.set_preference('dom.max_script_run_time', 15)
+    options.add_argument("-headless") 
+    options.set_preference('dom.max_script_run_time', 20)
     options.accept_untrusted_certs = True
-    options.set_preference('network.http.timeout', 15000)
     options.set_preference("general.useragent.override", randomagent())
     if '.onion' in webpage:
         stdlog('geckodriver: ' + 'appears we are dealing with an onionsite')
@@ -46,13 +38,22 @@ def main(webpage):
     try:
         stdlog('geckodriver: ' + 'starting webdriver')
         driver = webdriver.Firefox(options=options)
+        driver.set_page_load_timeout(20)
         stdlog('geckodriver: ' + 'fetching webpage')
         start_time = time.time()
-        driver.get(webpage)
-        # set the number of seconds to wait before working with the DOM
-        end_time = time.time()
-        elapsed_time = end_time - start_time
-        stdlog('geckodriver: ' + f'fetching {webpage} took {elapsed_time:.2f} seconds')
+        try:
+            driver.get(webpage)
+        except WebDriverException as e:
+            if 'about:neterror?e=dnsNotFound' in str(e):
+                errlog('geckodriver: ' + 'socks request unable to route to host, check hsdir resolution status!')
+            elif 'about:neterror?e=netTimeout' in str(e):
+                errlog('geckodriver: ' + 'socks request timed out!')
+            elif "Navigation timed out after" in str(e):
+                errlog('geckodriver: ' + 'pageload timeout reached!')
+            else:
+                errlog('geckodriver: ' + 'unknown error during page load: ' + str(e))
+            driver.quit()
+            return None
         sleeptz = 5
         if 'lockbitapt' in webpage:
             time.sleep(7)
@@ -65,22 +66,15 @@ def main(webpage):
         get html from dom after js processing and page rendering complete
         '''
         source = driver.execute_script("return document.getElementsByTagName('html')[0].innerHTML")
-        stdlog('geckodriver: ' + 'fetched')
+        end_time = time.time()
+        elapsed_time = end_time - start_time
+        stdlog('geckodriver: ' + f'action {webpage} took {elapsed_time:.2f} seconds')
     except WebDriverException as e:
-        # if e contains neterror?e=dnsNotFound, then we are dealing with an onion site failing hsdir
-        if 'about:neterror?e=dnsNotFound' in str(e):
-            errlog('geckodriver: ' + 'socks request unable to route to host, check hsdir resolution status!')
-        elif 'about:neterror?e=netTimeout' in str(e):
-            errlog('geckodriver: ' + 'socks request timed out!')
-        else:
-            errlog('geckodriver: ' + 'error: ' + str(e))
-        try:
+        errlog('geckodriver: ' + 'error: ' + str(e))
+        driver.quit()
+        return None
+    finally:
+        if driver:
             driver.quit()
             stdlog('geckodriver: ' + 'webdriver quit')
-        except UnboundLocalError:
-            pass
-        return None
-    if driver:
-        driver.quit()
-        stdlog('geckodriver: ' + 'webdriver quit')
     return source

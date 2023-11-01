@@ -16,7 +16,7 @@ def screenshot(browser, webpage, fqdn):
     try:
         context = browser.new_context(ignore_https_errors=True)
         page = context.new_page()
-        page.goto(webpage, wait_until='load', timeout=120000)
+        page.goto(webpage, wait_until='load', timeout=15000)
         page.bring_to_front()
         page.wait_for_timeout(15000)
         page.mouse.move(x=500, y=400)
