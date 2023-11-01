@@ -4,6 +4,11 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-11-01 | [`www.vinovalie.com`](https://google.com/search?q=www.vinovalie.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
+| 2023-11-01 | [`Traxall France`](https://google.com/search?q=Traxall+France) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2023-11-01 | [`Armstrong Consultants`](https://google.com/search?q=Armstrong+Consultants) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2023-11-01 | [`JAI A/S`](https://google.com/search?q=JAI+A%2FS) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2023-11-01 | [`Schöler Fördertechnik AG`](https://google.com/search?q=Sch%C3%B6ler+F%C3%B6rdertechnik+AG) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-11-01 | [`Advarra Inc.(PFIZER,GILEAD ETC AFFECTED)`](https://google.com/search?q=Advarra+Inc.%28PFIZER%2CGILEAD+ETC+AFFECTED%29) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-11-01 | [`Advarra Inc.`](https://google.com/search?q=Advarra+Inc.) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-10-31 | [`Universal Sewing%20Supply`](https://google.com/search?q=Universal+Sewing%2520Supply) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -199,8 +204,3 @@ _last `200` posts_
 | 2023-10-15 | [`RE : Clarification`](https://google.com/search?q=RE+%3A+Clarification) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
 | 2023-10-15 | [`webpag.com.br database leaked`](https://google.com/search?q=webpag.com.br+database+leaked) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
 | 2023-10-15 | [`QSI INC - Credit Cards & Transaction Processing`](https://google.com/search?q=QSI+INC+-+Credit+Cards+%26+Transaction+Processing) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-10-14 | [`DUHOCAAU`](https://google.com/search?q=DUHOCAAU) | [mallox](https://ransomwatch.telemetry.ltd/#/profiles?id=mallox) |
-| 2023-10-14 | [`The Law Offices of Julian Lewis Sanders & Associates`](https://google.com/search?q=The+Law+Offices+of+Julian+Lewis+Sanders+%26+Associates) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-10-14 | [`Jahesh Innovation`](https://google.com/search?q=Jahesh+Innovation) | [arvinclub](https://ransomwatch.telemetry.ltd/#/profiles?id=arvinclub) |
-| 2023-10-14 | [`Accenture Breach Evidence &amp; Debunking Rob Lee&#8217;s Lies`](https://google.com/search?q=Accenture+Breach+Evidence+%26amp%3B+Debunking+Rob+Lee%26%238217%3Bs+Lies) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
-| 2023-10-14 | [`Northwest Eye Care Professionals`](https://google.com/search?q=Northwest+Eye+Care+Professionals) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
