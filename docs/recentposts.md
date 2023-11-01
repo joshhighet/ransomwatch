@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-11-01 | [`EDB`](https://google.com/search?q=EDB) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
+| 2023-11-01 | [`Software Systems `](https://google.com/search?q=Software+Systems+) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-11-01 | [`US Claims Solutions`](https://google.com/search?q=US+Claims+Solutions) | [knight](https://ransomwatch.telemetry.ltd/#/profiles?id=knight) |
 | 2023-11-01 | [`Benefit Management`](https://google.com/search?q=Benefit+Management) | [knight](https://ransomwatch.telemetry.ltd/#/profiles?id=knight) |
 | 2023-11-01 | [`summithealth.com`](https://google.com/search?q=summithealth.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-10-17 | [`www.piemmeonline.it`](https://google.com/search?q=www.piemmeonline.it) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2023-10-17 | [`Greenpoint`](https://google.com/search?q=Greenpoint) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2023-10-17 | [`www.gasmart.mx`](https://google.com/search?q=www.gasmart.mx) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
-| 2023-10-16 | [`cpstate.org`](https://google.com/search?q=cpstate.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-10-16 | [`SCS SpA`](https://google.com/search?q=SCS+SpA) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
