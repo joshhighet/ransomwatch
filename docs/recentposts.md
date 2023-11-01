@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-11-01 | [`US Claims Solutions`](https://google.com/search?q=US+Claims+Solutions) | [knight](https://ransomwatch.telemetry.ltd/#/profiles?id=knight) |
+| 2023-11-01 | [`Benefit Management`](https://google.com/search?q=Benefit+Management) | [knight](https://ransomwatch.telemetry.ltd/#/profiles?id=knight) |
+| 2023-11-01 | [`summithealth.com`](https://google.com/search?q=summithealth.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-01 | [`https://tanatexchemicals.com`](https://google.com/search?q=https%3A%2F%2Ftanatexchemicals.com) | [metaencryptor](https://ransomwatch.telemetry.ltd/#/profiles?id=metaencryptor) |
 | 2023-11-01 | [`Faieta Motorcompany IT`](https://google.com/search?q=Faieta+Motorcompany+IT) | [knight](https://ransomwatch.telemetry.ltd/#/profiles?id=knight) |
 | 2023-11-01 | [`Mario de Cecco - Workwear & Corporate Wear IT`](https://google.com/search?q=Mario+de+Cecco+-+Workwear+%26+Corporate+Wear+IT) | [knight](https://ransomwatch.telemetry.ltd/#/profiles?id=knight) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2023-10-17 | [`www.gasmart.mx`](https://google.com/search?q=www.gasmart.mx) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-10-16 | [`cpstate.org`](https://google.com/search?q=cpstate.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-10-16 | [`SCS SpA`](https://google.com/search?q=SCS+SpA) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2023-10-16 | [`OmniVision Technologies`](https://google.com/search?q=OmniVision+Technologies) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2023-10-16 | [`ATI Traduction`](https://google.com/search?q=ATI+Traduction) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
-| 2023-10-16 | [`EDB `](https://google.com/search?q=EDB+) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
