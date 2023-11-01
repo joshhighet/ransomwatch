@@ -195,24 +195,6 @@ def xinglocker():
         errlog('xinglocker: ' + 'parsing fail')
     for post in posts:
         appender(post, 'xinglocker')
-    
-def ragnarlocker():
-    stdlog('parser: ' + 'ragnarlocker')
-    json_parser = '''
-    grep 'var post_links' source/ragnarlocker-*.html --no-filename | sed -e s/"        var post_links = "// -e "s/ ;//"
-    '''
-    posts = runshellcmd(json_parser)
-    post_json = json.loads(posts[0])
-    with open('source/ragnarlocker.json', 'w', encoding='utf-8') as f:
-        json.dump(post_json, f, indent=4)
-        f.close()
-    if len(post_json) == 1:
-        errlog('ragnarlocker: ' + 'parsing fail')
-    for post in post_json:
-        try:
-            appender(post['title'], 'ragnarlocker')
-        except TypeError:
-            errlog('ragnarlocker: ' + 'parsing fail')
 
 def clop():
     stdlog('parser: ' + 'clop')
