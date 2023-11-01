@@ -4,6 +4,19 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-11-01 | [`Faieta Motorcompany IT`](https://google.com/search?q=Faieta+Motorcompany+IT) | [knight](https://ransomwatch.telemetry.ltd/#/profiles?id=knight) |
+| 2023-11-01 | [`Mario de Cecco - Workwear & Corporate Wear IT`](https://google.com/search?q=Mario+de+Cecco+-+Workwear+%26+Corporate+Wear+IT) | [knight](https://ransomwatch.telemetry.ltd/#/profiles?id=knight) |
+| 2023-11-01 | [`Kinesis Film Srl`](https://google.com/search?q=Kinesis+Film+Srl) | [knight](https://ransomwatch.telemetry.ltd/#/profiles?id=knight) |
+| 2023-11-01 | [`BMW Munique Motors`](https://google.com/search?q=BMW+Munique+Motors) | [knight](https://ransomwatch.telemetry.ltd/#/profiles?id=knight) |
+| 2023-11-01 | [`Intellipop Fiber Internet`](https://google.com/search?q=Intellipop+Fiber+Internet) | [knight](https://ransomwatch.telemetry.ltd/#/profiles?id=knight) |
+| 2023-11-01 | [`il Centro`](https://google.com/search?q=il+Centro) | [knight](https://ransomwatch.telemetry.ltd/#/profiles?id=knight) |
+| 2023-11-01 | [`Emmea Srl`](https://google.com/search?q=Emmea+Srl) | [knight](https://ransomwatch.telemetry.ltd/#/profiles?id=knight) |
+| 2023-11-01 | [`Michels Markisen GmbH`](https://google.com/search?q=Michels+Markisen+GmbH) | [knight](https://ransomwatch.telemetry.ltd/#/profiles?id=knight) |
+| 2023-11-01 | [`Pontifica Universidad Católica de Chile`](https://google.com/search?q=Pontifica+Universidad+Cat%C3%B3lica+de+Chile) | [knight](https://ransomwatch.telemetry.ltd/#/profiles?id=knight) |
+| 2023-11-01 | [`Veneto Transportes`](https://google.com/search?q=Veneto+Transportes) | [knight](https://ransomwatch.telemetry.ltd/#/profiles?id=knight) |
+| 2023-11-01 | [`www.gannons.co.uk`](https://google.com/search?q=www.gannons.co.uk) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2023-11-01 | [`www.gsp.com.br`](https://google.com/search?q=www.gsp.com.br) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2023-11-01 | [`Town of Lowa`](https://google.com/search?q=Town+of+Lowa) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-11-01 | [`www.vinovalie.com`](https://google.com/search?q=www.vinovalie.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-11-01 | [`Traxall France`](https://google.com/search?q=Traxall+France) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-11-01 | [`Armstrong Consultants`](https://google.com/search?q=Armstrong+Consultants) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
@@ -191,16 +204,3 @@ _last `200` posts_
 | 2023-10-16 | [`ATI Traduction`](https://google.com/search?q=ATI+Traduction) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-10-16 | [`EDB `](https://google.com/search?q=EDB+) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-10-16 | [`Global Product Sales`](https://google.com/search?q=Global+Product+Sales) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
-| 2023-10-16 | [`Symposia Organizzazione Congressi S.R.L`](https://google.com/search?q=Symposia+Organizzazione+Congressi+S.R.L) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
-| 2023-10-16 | [`sdproducts.co.uk`](https://google.com/search?q=sdproducts.co.uk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-10-16 | [`Ransomedvc Pentest Services!`](https://google.com/search?q=Ransomedvc+Pentest+Services%21) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
-| 2023-10-16 | [`Believe Productions`](https://google.com/search?q=Believe+Productions) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
-| 2023-10-16 | [`mthollynissan.com`](https://google.com/search?q=mthollynissan.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
-| 2023-10-16 | [`Boise Rescue Mission Ministries`](https://google.com/search?q=Boise+Rescue+Mission+Ministries) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-10-16 | [`www.ampersand.tv`](https://google.com/search?q=www.ampersand.tv) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2023-10-15 | [`Cogal Industry`](https://google.com/search?q=Cogal+Industry) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
-| 2023-10-15 | [`Rob Lee Evidence : Sneak Peek`](https://google.com/search?q=Rob+Lee+Evidence+%3A+Sneak+Peek) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
-| 2023-10-15 | [`Islamic Azad University Electronic Campus`](https://google.com/search?q=Islamic+Azad+University+Electronic+Campus) | [arvinclub](https://ransomwatch.telemetry.ltd/#/profiles?id=arvinclub) |
-| 2023-10-15 | [`RE : Clarification`](https://google.com/search?q=RE+%3A+Clarification) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
-| 2023-10-15 | [`webpag.com.br database leaked`](https://google.com/search?q=webpag.com.br+database+leaked) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
-| 2023-10-15 | [`QSI INC - Credit Cards & Transaction Processing`](https://google.com/search?q=QSI+INC+-+Credit+Cards+%26+Transaction+Processing) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
