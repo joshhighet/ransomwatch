@@ -6,6 +6,7 @@ collection of shared modules used throughout ransomwatch
 import os
 import sys
 import json
+import time
 import socket
 import codecs
 import random
@@ -97,7 +98,7 @@ def metafetch(url):
     '''
     try:
         stdlog('sharedutils: ' + 'meta prefetch request to ' + str(url))
-        request = requests.head(url, proxies=oproxies, headers=headers(), timeout=20)
+        request = requests.head(url, proxies=oproxies, headers=headers(), timeout=15)
         statcode = request.status_code
         try:
             response = request.headers['server']
@@ -118,7 +119,11 @@ def socksfetcher(url):
     '''
     try:
         stdlog('sharedutils: ' + 'starting socks request to ' + str(url))
-        request = requests.get(url, proxies=oproxies, headers=headers(), timeout=20, verify=False)
+        start_time = time.time()
+        request = requests.get(url, proxies=oproxies, headers=headers(), timeout=15, verify=False)
+        end_time = time.time()
+        elapsed_time = end_time - start_time
+        stdlog('sharedutils: ' + f'socks request to {url} completed in {elapsed_time:.2f} seconds')
         dbglog(
             'sharedutils: ' + 'socks request - recieved statuscode - ' \
                 + str(request.status_code)

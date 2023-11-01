@@ -27,7 +27,7 @@ def main(webpage):
     options.headless = True
     options.set_preference('dom.max_script_run_time', 15)
     options.accept_untrusted_certs = True
-    options.set_preference('network.http.timeout', 20000)
+    options.set_preference('network.http.timeout', 15000)
     options.set_preference("general.useragent.override", randomagent())
     if '.onion' in webpage:
         stdlog('geckodriver: ' + 'appears we are dealing with an onionsite')
@@ -47,8 +47,12 @@ def main(webpage):
         stdlog('geckodriver: ' + 'starting webdriver')
         driver = webdriver.Firefox(options=options)
         stdlog('geckodriver: ' + 'fetching webpage')
+        start_time = time.time()
         driver.get(webpage)
         # set the number of seconds to wait before working with the DOM
+        end_time = time.time()
+        elapsed_time = end_time - start_time
+        stdlog('geckodriver: ' + f'fetching {webpage} took {elapsed_time:.2f} seconds')
         sleeptz = 5
         if 'lockbitapt' in webpage:
             time.sleep(7)
