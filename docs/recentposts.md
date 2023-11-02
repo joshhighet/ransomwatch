@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-11-02 | [`psmicorp.com`](https://google.com/search?q=psmicorp.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-11-02 | [`www.imancorp.es`](https://google.com/search?q=www.imancorp.es) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2023-11-02 | [`AF Supply`](https://google.com/search?q=AF+Supply) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-11-02 | [`GO! Handelsschool Aalst`](https://google.com/search?q=GO%21+Handelsschool+Aalst) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2023-11-02 | [`Groupe Faubourg`](https://google.com/search?q=Groupe+Faubourg) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-11-02 | [`www.rnwooler.co.uk`](https://google.com/search?q=www.rnwooler.co.uk) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2023-10-19 | [`nirolaw.com`](https://google.com/search?q=nirolaw.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-10-19 | [`frs-fnrs.be`](https://google.com/search?q=frs-fnrs.be) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-10-19 | [`smart-union.org`](https://google.com/search?q=smart-union.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-10-19 | [`Innovattel LLC`](https://google.com/search?q=Innovattel+LLC) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-10-19 | [`CADRE`](https://google.com/search?q=CADRE) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-10-18 | [`fdf.org`](https://google.com/search?q=fdf.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
