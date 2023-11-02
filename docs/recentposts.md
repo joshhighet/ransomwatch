@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-11-02 | [`Groupe Faubourg`](https://google.com/search?q=Groupe+Faubourg) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-11-02 | [`www.rnwooler.co.uk`](https://google.com/search?q=www.rnwooler.co.uk) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-11-02 | [`HAL Allergy`](https://google.com/search?q=HAL+Allergy) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-11-02 | [`schwob.swiss`](https://google.com/search?q=schwob.swiss) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-10-19 | [`CADRE`](https://google.com/search?q=CADRE) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-10-18 | [`fdf.org`](https://google.com/search?q=fdf.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-10-18 | [`ITW Inc`](https://google.com/search?q=ITW+Inc) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2023-10-18 | [`U***** S*** S******* Inc`](https://google.com/search?q=U%2A%2A%2A%2A%2A+S%2A%2A%2A+S%2A%2A%2A%2A%2A%2A%2A+Inc) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
