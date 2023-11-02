@@ -4,6 +4,13 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-11-02 | [`Bry-Air`](https://google.com/search?q=Bry-Air) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-11-02 | [`JDRM Engineering`](https://google.com/search?q=JDRM+Engineering) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-11-02 | [`Craft-Maid`](https://google.com/search?q=Craft-Maid) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-11-02 | [`Hilyards`](https://google.com/search?q=Hilyards) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-11-02 | [`North Dakota Grain Inspection Services`](https://google.com/search?q=North+Dakota+Grain+Inspection+Services) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-11-02 | [`Gsp Components`](https://google.com/search?q=Gsp+Components) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-11-02 | [`Ricardo`](https://google.com/search?q=Ricardo) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-11-02 | [`shimano.com`](https://google.com/search?q=shimano.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-02 | [`bindagroup.com`](https://google.com/search?q=bindagroup.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-02 | [`lafase.cl`](https://google.com/search?q=lafase.cl) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -197,10 +204,3 @@ _last `200` posts_
 | 2023-10-20 | [`Royal College of Phy sicians and Surgeons of Glasgow`](https://google.com/search?q=Royal+College+of+Phy+sicians+and+Surgeons+of+Glasgow) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-10-20 | [`Southland Integrated Services`](https://google.com/search?q=Southland+Integrated+Services) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-10-20 | [`kvc constructors inc`](https://google.com/search?q=kvc+constructors+inc) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-10-19 | [`Superline - Full Leak`](https://google.com/search?q=Superline+-+Full+Leak) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
-| 2023-10-19 | [`http://www.gov.br`](https://google.com/search?q=http%3A%2F%2Fwww.gov.br) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
-| 2023-10-19 | [`Associated Wholesale Grocers`](https://google.com/search?q=Associated+Wholesale+Grocers) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-10-19 | [`QuadraNet Enterprise s`](https://google.com/search?q=QuadraNet+Enterprise+s) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2023-10-19 | [`Visionary Integratio n Professionals`](https://google.com/search?q=Visionary+Integratio+n+Professionals) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2023-10-19 | [`Inventum Øst`](https://google.com/search?q=Inventum+%C3%98st) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2023-10-19 | [`thecsi.com`](https://google.com/search?q=thecsi.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
