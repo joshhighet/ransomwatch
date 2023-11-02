@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-11-02 | [`Bluewater Health (CA) and others`](https://google.com/search?q=Bluewater+Health+%28CA%29+and+others) | [daixin](https://ransomwatch.telemetry.ltd/#/profiles?id=daixin) |
 | 2023-11-01 | [`http://hacap.org`](https://google.com/search?q=http%3A%2F%2Fhacap.org) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2023-11-01 | [`vitaresearch.com`](https://google.com/search?q=vitaresearch.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-01 | [`steelofcarolina.com`](https://google.com/search?q=steelofcarolina.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-10-18 | [`Jebsen and Co. Ltd.`](https://google.com/search?q=Jebsen+and+Co.+Ltd.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-10-18 | [`kbs-accountants.nl`](https://google.com/search?q=kbs-accountants.nl) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-10-17 | [`Rotorcraft Leasing Company`](https://google.com/search?q=Rotorcraft+Leasing+Company) | [0mega](https://ransomwatch.telemetry.ltd/#/profiles?id=0mega) |
-| 2023-10-17 | [`Catarineau & Givens P.A. FULL LEAK!`](https://google.com/search?q=Catarineau+%26+Givens+P.A.+FULL+LEAK%21) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
