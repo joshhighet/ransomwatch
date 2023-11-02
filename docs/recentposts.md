@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-11-02 | [`schwob.swiss`](https://google.com/search?q=schwob.swiss) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-11-02 | [`raumberg-gumpenstein.at`](https://google.com/search?q=raumberg-gumpenstein.at) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-02 | [`kitprofs.com`](https://google.com/search?q=kitprofs.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-02 | [`imprex.es`](https://google.com/search?q=imprex.es) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-10-18 | [`U***** S*** S******* Inc`](https://google.com/search?q=U%2A%2A%2A%2A%2A+S%2A%2A%2A+S%2A%2A%2A%2A%2A%2A%2A+Inc) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-10-18 | [`** P*************s, Inc`](https://google.com/search?q=%2A%2A+P%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2As%2C+Inc) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-10-18 | [`Gilbreath`](https://google.com/search?q=Gilbreath) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2023-10-18 | [`Company, P.C`](https://google.com/search?q=Company%2C+P.C) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
