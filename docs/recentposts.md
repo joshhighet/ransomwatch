@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-11-03 | [`www.laborforce.com`](https://google.com/search?q=www.laborforce.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-11-03 | [`www.agiledisplaysolutions.com`](https://google.com/search?q=www.agiledisplaysolutions.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-11-03 | [`Warning to Advarra & Gadi!`](https://google.com/search?q=Warning+to+Advarra+%26+Gadi%21) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-11-02 | [`Bry-Air`](https://google.com/search?q=Bry-Air) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-10-20 | [`We Hire Pentesters(5BTC Payout)`](https://google.com/search?q=We+Hire+Pentesters%285BTC+Payout%29) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
 | 2023-10-20 | [`degrootgroep.nl`](https://google.com/search?q=degrootgroep.nl) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-10-20 | [`Protector Fire Servi ces`](https://google.com/search?q=Protector+Fire+Servi+ces) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2023-10-20 | [`Royal College of Phy sicians and Surgeons of Glasgow`](https://google.com/search?q=Royal+College+of+Phy+sicians+and+Surgeons+of+Glasgow) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
