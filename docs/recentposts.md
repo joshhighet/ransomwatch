@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-11-03 | [`http://www.apers13.com`](https://google.com/search?q=http%3A%2F%2Fwww.apers13.com) | [ciphbit](https://ransomwatch.telemetry.ltd/#/profiles?id=ciphbit) |
+| 2023-11-03 | [`GeoPoint Surveying`](https://google.com/search?q=GeoPoint+Surveying) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-11-03 | [`Livability`](https://google.com/search?q=Livability) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2023-11-03 | [`unimed.coop.br`](https://google.com/search?q=unimed.coop.br) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-03 | [`translink.se`](https://google.com/search?q=translink.se) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-10-20 | [`Polar Tech Industries`](https://google.com/search?q=Polar+Tech+Industries) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-10-20 | [`arietishealth.com`](https://google.com/search?q=arietishealth.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-10-20 | [`Ipswich Bay Glass`](https://google.com/search?q=Ipswich+Bay+Glass) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-10-20 | [`Hygieneering`](https://google.com/search?q=Hygieneering) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-10-20 | [`The Fountain Group`](https://google.com/search?q=The+Fountain+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
