@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-11-03 | [`jewell.edu`](https://google.com/search?q=jewell.edu) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-03 | [`microtrain.net`](https://google.com/search?q=microtrain.net) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-03 | [`www.laborforce.com`](https://google.com/search?q=www.laborforce.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-11-03 | [`www.agiledisplaysolutions.com`](https://google.com/search?q=www.agiledisplaysolutions.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-10-20 | [`uaes.com`](https://google.com/search?q=uaes.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-10-20 | [`charleystaxi.com`](https://google.com/search?q=charleystaxi.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-10-20 | [`We Hire Pentesters(5BTC Payout)`](https://google.com/search?q=We+Hire+Pentesters%285BTC+Payout%29) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
-| 2023-10-20 | [`degrootgroep.nl`](https://google.com/search?q=degrootgroep.nl) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
