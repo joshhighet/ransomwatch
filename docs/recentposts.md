@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-11-04 | [`tks.co.th`](https://google.com/search?q=tks.co.th) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-11-04 | [`infosysbpm.com`](https://google.com/search?q=infosysbpm.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-03 | [`http://www.apers13.com`](https://google.com/search?q=http%3A%2F%2Fwww.apers13.com) | [ciphbit](https://ransomwatch.telemetry.ltd/#/profiles?id=ciphbit) |
 | 2023-11-03 | [`GeoPoint Surveying`](https://google.com/search?q=GeoPoint+Surveying) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-11-03 | [`Livability`](https://google.com/search?q=Livability) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-10-20 | [`Kobi Karp Architecture and Interior Design`](https://google.com/search?q=Kobi+Karp+Architecture+and+Interior+Design) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-10-20 | [`RADISE`](https://google.com/search?q=RADISE) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-10-20 | [`Polar Tech Industries`](https://google.com/search?q=Polar+Tech+Industries) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-10-20 | [`arietishealth.com`](https://google.com/search?q=arietishealth.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2023-10-20 | [`Ipswich Bay Glass`](https://google.com/search?q=Ipswich+Bay+Glass) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
