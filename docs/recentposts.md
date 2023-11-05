@@ -4,6 +4,22 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-11-05 | [`szutest.cz`](https://google.com/search?q=szutest.cz) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-11-05 | [`studio483.com`](https://google.com/search?q=studio483.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-11-05 | [`springeroil.com`](https://google.com/search?q=springeroil.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-11-05 | [`sansasecurity.com`](https://google.com/search?q=sansasecurity.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-11-05 | [`ospedalecoq.it`](https://google.com/search?q=ospedalecoq.it) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-11-05 | [`nfcc.gov.my`](https://google.com/search?q=nfcc.gov.my) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-11-05 | [`nckb.com`](https://google.com/search?q=nckb.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-11-05 | [`mat-antriebstechnik.de`](https://google.com/search?q=mat-antriebstechnik.de) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-11-05 | [`letillet.btprms.com`](https://google.com/search?q=letillet.btprms.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-11-05 | [`global-value-web.com`](https://google.com/search?q=global-value-web.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-11-05 | [`emiliacentrale.it`](https://google.com/search?q=emiliacentrale.it) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-11-05 | [`egco.com`](https://google.com/search?q=egco.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-11-05 | [`brlogistics.net`](https://google.com/search?q=brlogistics.net) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-11-05 | [`bresselouhannaiseintercom.fr`](https://google.com/search?q=bresselouhannaiseintercom.fr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-11-05 | [`benya.capital`](https://google.com/search?q=benya.capital) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-11-05 | [`aseankorea.org`](https://google.com/search?q=aseankorea.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-04 | [`tks.co.th`](https://google.com/search?q=tks.co.th) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-04 | [`infosysbpm.com`](https://google.com/search?q=infosysbpm.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-03 | [`http://www.apers13.com`](https://google.com/search?q=http%3A%2F%2Fwww.apers13.com) | [ciphbit](https://ransomwatch.telemetry.ltd/#/profiles?id=ciphbit) |
@@ -188,19 +204,3 @@ _last `200` posts_
 | 2023-10-23 | [`mamu.be`](https://google.com/search?q=mamu.be) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-10-23 | [`harlingentx.gov`](https://google.com/search?q=harlingentx.gov) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-10-22 | [`Ransomedvc Launches A forum`](https://google.com/search?q=Ransomedvc+Launches+A+forum) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
-| 2023-10-22 | [`Edwards Business Systems`](https://google.com/search?q=Edwards+Business+Systems) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-10-22 | [`Brunton Shaw`](https://google.com/search?q=Brunton+Shaw) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-10-22 | [`JC Roman Construction`](https://google.com/search?q=JC+Roman+Construction) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-10-22 | [`APS - Automotive Parts Solutions`](https://google.com/search?q=APS+-+Automotive+Parts+Solutions) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-10-21 | [`chs.ca`](https://google.com/search?q=chs.ca) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-10-21 | [`Foursquare Healthcare`](https://google.com/search?q=Foursquare+Healthcare) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
-| 2023-10-21 | [`www.strongtie.com`](https://google.com/search?q=www.strongtie.com) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2023-10-21 | [`Sidockgroup.`](https://google.com/search?q=Sidockgroup.) | [donutleaks](https://ransomwatch.telemetry.ltd/#/profiles?id=donutleaks) |
-| 2023-10-21 | [`The Law Offices of Julian Lewis Sanders & Associates FULL LEAK!`](https://google.com/search?q=The+Law+Offices+of+Julian+Lewis+Sanders+%26+Associates+FULL+LEAK%21) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-10-20 | [`Williamson Foodservice`](https://google.com/search?q=Williamson+Foodservice) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-10-20 | [`Epaccsys`](https://google.com/search?q=Epaccsys) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-10-20 | [`Tru-val Electric`](https://google.com/search?q=Tru-val+Electric) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-10-20 | [`Bridgeport Fittings`](https://google.com/search?q=Bridgeport+Fittings) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-10-20 | [`Kobi Karp Architecture and Interior Design`](https://google.com/search?q=Kobi+Karp+Architecture+and+Interior+Design) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-10-20 | [`RADISE`](https://google.com/search?q=RADISE) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-10-20 | [`Polar Tech Industries`](https://google.com/search?q=Polar+Tech+Industries) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
