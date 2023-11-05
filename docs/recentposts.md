@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-11-05 | [`SMH Group`](https://google.com/search?q=SMH+Group) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2023-11-05 | [`Assurius.be`](https://google.com/search?q=Assurius.be) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2023-11-05 | [`unique-relations.at`](https://google.com/search?q=unique-relations.at) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2023-11-05 | [`szutest.cz`](https://google.com/search?q=szutest.cz) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-10-23 | [`Beaver Lake Cree Nation`](https://google.com/search?q=Beaver+Lake+Cree+Nation) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-10-23 | [`Native Counselling Services of Alberta`](https://google.com/search?q=Native+Counselling+Services+of+Alberta) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-10-23 | [`Ada-Borup-West School`](https://google.com/search?q=Ada-Borup-West+School) | [ransomblog_noname](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomblog_noname) |
-| 2023-10-23 | [`mamu.be`](https://google.com/search?q=mamu.be) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
