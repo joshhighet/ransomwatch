@@ -23,7 +23,7 @@
             <noscript><h1 style="color:red;">Please turn JavaScript on and reload the page.</h1></noscript>
             <h1>Checking your browser...</h1>
             <p>This process is automatic. Your browser will redirect to your requested content shortly.</p>
-            <p id="message">Please<span style="font-weight:700;color:red;"> wait</span> <span id="count">5</span>
+            <p id="message">Please<span style="font-weight:700;color:red;"> wait</span> <span id="count">8</span>
                 seconds</p>
         </div>
     </div>
@@ -38,13 +38,13 @@
             const hashArray = Array.from(new Uint8Array(hashBuffer));
             const hashHex = hashArray.map(byte => byte.toString(16).padStart(2, '0')).join('');
             if (hashHex.slice(0, criteria.length) === criteria) {
-                document.cookie = "_c75f66cea553f7bd3d2f9297ba141a39=" + i.toString();
+                document.cookie = "_3a97456d437fbd39c4b9b7ecddeb7297=" + i.toString();
                 break
             }
             i++;
         }
     }
-    calculate("dac9391b82e106be44840fbcfe5203b8dda35e61158e5c98d45dd50fe01c047544741ffc9f0f29645b39bfe8958dc0c9dc5c908a32c2519d182ba2fdadcdeae3", "8838bf157c66fc29a3d838a4e01d2cf5");
+    calculate("65aa9ceaee06e3754b2ae5d4945cf3a1810a4e0270b8cad01e71e9c80974ba76432dc284813e9642c7e64a0e0cedfcc9238b15b86cdabe91578a620c0d4cd491", "641a5b6cf806f01f4a645f2edc6bede9");
 </script>
 <script type="text/javascript">
     let countdown = document.getElementById('count');
