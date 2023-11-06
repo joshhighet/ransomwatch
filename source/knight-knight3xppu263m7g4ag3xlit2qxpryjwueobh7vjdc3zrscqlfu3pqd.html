@@ -3,18 +3,20 @@
 <head>
     <meta charset="UTF-8">
     <title>Please wait...</title>
-    <style>.container {
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        height: 100vh;
-    }
-    .content {
-        width: 100%
-    }
-    .text {
-        text-align: center;
-    }</style>
+    <style>
+        .container {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+        .content {
+            width: 100%
+        }
+        .text {
+            text-align: center;
+        }
+    </style>
 </head>
 <body>
 <div class="container">
@@ -23,8 +25,7 @@
             <noscript><h1 style="color:red;">Please turn JavaScript on and reload the page.</h1></noscript>
             <h1>Checking your browser...</h1>
             <p>This process is automatic. Your browser will redirect to your requested content shortly.</p>
-            <p id="message">Please<span style="font-weight:700;color:red;"> wait</span> <span id="count">8</span>
-                seconds</p>
+            <p id="message">Please<span style="font-weight:700;color:red;"> wait</span> <span id="count">8</span> seconds</p>
         </div>
     </div>
 </div>
@@ -38,19 +39,19 @@
             const hashArray = Array.from(new Uint8Array(hashBuffer));
             const hashHex = hashArray.map(byte => byte.toString(16).padStart(2, '0')).join('');
             if (hashHex.slice(0, criteria.length) === criteria) {
-                document.cookie = "_3a97456d437fbd39c4b9b7ecddeb7297=" + i.toString();
+                document.cookie = "_n=" + i.toString();
                 break
             }
             i++;
         }
     }
-    calculate("65aa9ceaee06e3754b2ae5d4945cf3a1810a4e0270b8cad01e71e9c80974ba76432dc284813e9642c7e64a0e0cedfcc9238b15b86cdabe91578a620c0d4cd491", "641a5b6cf806f01f4a645f2edc6bede9");
+    calculate("0c6890b5e189f0c986b82607868051c9098d6acdb3e4eb54d8504fee915f70a979849296bcd36415c6280d59d4f1f6c652375061e1f4d8bbeec33908c83855cd", "0e8617132353f88ec223f96a98f433f9a41c2dd78e3975ba5199e679cfcdc72b");
 </script>
 <script type="text/javascript">
-    let countdown = document.getElementById('count');
-    let message = document.getElementById('message');
+    const countdown = document.getElementById('count');
+    const message = document.getElementById('message');
     let counter = 8;
-    let intervalID
+    let intervalID;
     intervalID = setInterval(function () {
         counter--
         if (counter < 1) {
