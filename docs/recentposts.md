@@ -4,6 +4,11 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-11-06 | [`GEOCOM`](https://google.com/search?q=GEOCOM) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
+| 2023-11-06 | [`MultiMasters`](https://google.com/search?q=MultiMasters) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
+| 2023-11-06 | [`UTI Group`](https://google.com/search?q=UTI+Group) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
+| 2023-11-06 | [`howlandlaw.net`](https://google.com/search?q=howlandlaw.net) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-11-06 | [`concretevalue.com`](https://google.com/search?q=concretevalue.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-06 | [`Comfloresta`](https://google.com/search?q=Comfloresta) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-11-06 | [`Currax Pharmaceuticals`](https://google.com/search?q=Currax+Pharmaceuticals) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-11-05 | [`Advarra leak`](https://google.com/search?q=Advarra+leak) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -199,8 +204,3 @@ _last `200` posts_
 | 2023-10-24 | [`SURTECO North America`](https://google.com/search?q=SURTECO+North+America) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-10-24 | [`3-D Engineering/ 3-D Precision Machine`](https://google.com/search?q=3-D+Engineering%2F+3-D+Precision+Machine) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-10-23 | [`www.portage.k12.in.us`](https://google.com/search?q=www.portage.k12.in.us) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-10-23 | [`Newconcepttech`](https://google.com/search?q=Newconcepttech) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
-| 2023-10-23 | [`University of Defence - Full Leak`](https://google.com/search?q=University+of+Defence+-+Full+Leak) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
-| 2023-10-23 | [`3-D Engineering`](https://google.com/search?q=3-D+Engineering) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-10-23 | [`www.centredusablon.ca`](https://google.com/search?q=www.centredusablon.ca) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
-| 2023-10-23 | [`www.koreapetroleum.com`](https://google.com/search?q=www.koreapetroleum.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
