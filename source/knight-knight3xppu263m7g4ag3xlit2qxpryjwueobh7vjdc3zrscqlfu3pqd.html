@@ -38,13 +38,13 @@
             const hashArray = Array.from(new Uint8Array(hashBuffer));
             const hashHex = hashArray.map(byte => byte.toString(16).padStart(2, '0')).join('');
             if (hashHex.slice(0, criteria.length) === criteria) {
-                document.cookie = "_70dff759a91698d290eb84b3f259f7cd=" + i.toString();
+                document.cookie = "_56cb859eba1287ea9fde4e0b78db9b2e=" + i.toString();
                 break
             }
             i++;
         }
     }
-    calculate("4affcee43a9e07815b2c6c76b4e4c96a210c007e55fd9cda287839a69b62e4a1ac72aaeb4ec0277c12757ebc7a7877b3fa88bd075ae1782274ca14251e88b2bc", "6b2f39197c804f9210f8d4e87a612f48");
+    calculate("d09a3c965cf5de2356dd95f7dd4a77c64567ae8c3e6000f7ee3afd33cd769f9770bd6c67eee16dad2c7e0e1f0cad5c33b565c95553463e478d28fcef7fd8369c", "39d806dcdc00233ab395d8ceed6defb0");
 </script>
 <script type="text/javascript">
     let countdown = document.getElementById('count');
