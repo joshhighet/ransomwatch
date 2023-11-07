@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-11-07 | [`Japan Aviation Electronics Industry, Ltd.`](https://google.com/search?q=Japan+Aviation+Electronics+Industry%2C+Ltd.) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-11-06 | [`EFU Life%20Assurance`](https://google.com/search?q=EFU+Life%2520Assurance) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2023-11-06 | [`good-lawyer.com`](https://google.com/search?q=good-lawyer.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-06 | [`kbrlaw.com`](https://google.com/search?q=kbrlaw.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-10-24 | [`victorvilleca.gov`](https://google.com/search?q=victorvilleca.gov) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-10-24 | [`CMC Group`](https://google.com/search?q=CMC+Group) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-10-24 | [`City of Pittsburg`](https://google.com/search?q=City+of+Pittsburg) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-10-24 | [`EDUARDO G. BARROSO`](https://google.com/search?q=EDUARDO+G.+BARROSO) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
