@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-11-07 | [`Truck Bodies & Equipment International`](https://google.com/search?q=Truck+Bodies+%26+Equipment+International) | [lorenz](https://ransomwatch.telemetry.ltd/#/profiles?id=lorenz) |
 | 2023-11-07 | [`www.nicecloud.nl`](https://google.com/search?q=www.nicecloud.nl) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2023-11-07 | [`www.cozwolle.nl`](https://google.com/search?q=www.cozwolle.nl) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2023-11-07 | [`Certified Mortgage Planners`](https://google.com/search?q=Certified+Mortgage+Planners) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-10-25 | [`Broad River Retail/Ashley Store`](https://google.com/search?q=Broad+River+Retail%2FAshley+Store) | [lorenz](https://ransomwatch.telemetry.ltd/#/profiles?id=lorenz) |
 | 2023-10-25 | [`cvcheart.com`](https://google.com/search?q=cvcheart.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2023-10-25 | [`Carter Transport Claims`](https://google.com/search?q=Carter+Transport+Claims) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-10-25 | [`AVA Limited`](https://google.com/search?q=AVA+Limited) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
