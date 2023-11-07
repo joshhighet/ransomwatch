@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-11-07 | [`ccdrc.pt`](https://google.com/search?q=ccdrc.pt) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-11-07 | [`prime-art`](https://google.com/search?q=prime-art) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
+| 2023-11-07 | [`panaya`](https://google.com/search?q=panaya) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
 | 2023-11-07 | [`Yuxin Automobile Co.Ltd (Unpay-Full public)`](https://google.com/search?q=Yuxin+Automobile+Co.Ltd+%28Unpay-Full+public%29) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
 | 2023-11-07 | [`Aceromex (Unpay-Start Leaking)`](https://google.com/search?q=Aceromex+%28Unpay-Start+Leaking%29) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
 | 2023-11-07 | [`Japan Aviation Electronics Industry, Ltd.`](https://google.com/search?q=Japan+Aviation+Electronics+Industry%2C+Ltd.) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2023-10-24 | [`linkmicrotek.com`](https://google.com/search?q=linkmicrotek.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-10-24 | [`excon.cl`](https://google.com/search?q=excon.cl) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-10-24 | [`camico.com`](https://google.com/search?q=camico.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-10-24 | [`ambic.co.uk`](https://google.com/search?q=ambic.co.uk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-10-24 | [`www.floristssupply.com`](https://google.com/search?q=www.floristssupply.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
-| 2023-10-24 | [`victorvilleca.gov`](https://google.com/search?q=victorvilleca.gov) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
