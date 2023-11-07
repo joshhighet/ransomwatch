@@ -4,6 +4,10 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-11-07 | [`BITZER`](https://google.com/search?q=BITZER) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
+| 2023-11-07 | [`BioPower Sustainable Energy Corporation`](https://google.com/search?q=BioPower+Sustainable+Energy+Corporation) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
+| 2023-11-07 | [`www.tt-engineering.nl`](https://google.com/search?q=www.tt-engineering.nl) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2023-11-07 | [`www.triflex.nl`](https://google.com/search?q=www.triflex.nl) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2023-11-07 | [`Hopewell Area School District`](https://google.com/search?q=Hopewell+Area+School+District) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-11-07 | [`ccdrc.pt`](https://google.com/search?q=ccdrc.pt) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-07 | [`prime-art`](https://google.com/search?q=prime-art) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
@@ -200,7 +204,3 @@ _last `200` posts_
 | 2023-10-25 | [`Harmann Studios Inc`](https://google.com/search?q=Harmann+Studios+Inc) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-10-25 | [`LBA`](https://google.com/search?q=LBA) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-10-24 | [`martinsonservices.com`](https://google.com/search?q=martinsonservices.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-10-24 | [`fern-plastics.co.uk`](https://google.com/search?q=fern-plastics.co.uk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-10-24 | [`mgbwlaw.com`](https://google.com/search?q=mgbwlaw.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-10-24 | [`linkmicrotek.com`](https://google.com/search?q=linkmicrotek.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-10-24 | [`excon.cl`](https://google.com/search?q=excon.cl) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
