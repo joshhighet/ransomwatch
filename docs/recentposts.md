@@ -4,6 +4,10 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-11-07 | [`www.nicecloud.nl`](https://google.com/search?q=www.nicecloud.nl) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2023-11-07 | [`www.cozwolle.nl`](https://google.com/search?q=www.cozwolle.nl) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2023-11-07 | [`Certified Mortgage Planners`](https://google.com/search?q=Certified+Mortgage+Planners) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
+| 2023-11-07 | [`Access to the large database of a US Medical organization`](https://google.com/search?q=Access+to+the+large+database+of+a+US+Medical+organization) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2023-11-07 | [`BITZER`](https://google.com/search?q=BITZER) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-11-07 | [`BioPower Sustainable Energy Corporation`](https://google.com/search?q=BioPower+Sustainable+Energy+Corporation) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-11-07 | [`www.tt-engineering.nl`](https://google.com/search?q=www.tt-engineering.nl) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
@@ -200,7 +204,3 @@ _last `200` posts_
 | 2023-10-25 | [`cvcheart.com`](https://google.com/search?q=cvcheart.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2023-10-25 | [`Carter Transport Claims`](https://google.com/search?q=Carter+Transport+Claims) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-10-25 | [`AVA Limited`](https://google.com/search?q=AVA+Limited) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-10-25 | [`Pine River Pre-Pack, Inc`](https://google.com/search?q=Pine+River+Pre-Pack%2C+Inc) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-10-25 | [`Harmann Studios Inc`](https://google.com/search?q=Harmann+Studios+Inc) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-10-25 | [`LBA`](https://google.com/search?q=LBA) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-10-24 | [`martinsonservices.com`](https://google.com/search?q=martinsonservices.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
