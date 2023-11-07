@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-11-07 | [`Hopewell Area School District`](https://google.com/search?q=Hopewell+Area+School+District) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-11-07 | [`ccdrc.pt`](https://google.com/search?q=ccdrc.pt) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-07 | [`prime-art`](https://google.com/search?q=prime-art) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
 | 2023-11-07 | [`panaya`](https://google.com/search?q=panaya) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-10-24 | [`mgbwlaw.com`](https://google.com/search?q=mgbwlaw.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-10-24 | [`linkmicrotek.com`](https://google.com/search?q=linkmicrotek.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-10-24 | [`excon.cl`](https://google.com/search?q=excon.cl) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-10-24 | [`camico.com`](https://google.com/search?q=camico.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
