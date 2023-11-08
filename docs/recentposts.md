@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-11-08 | [`www.orionlibrary.org`](https://google.com/search?q=www.orionlibrary.org) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
+| 2023-11-08 | [`Michael Garron Hospi tal`](https://google.com/search?q=Michael+Garron+Hospi+tal) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
+| 2023-11-08 | [`sheehyware.com`](https://google.com/search?q=sheehyware.com) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-11-08 | [`foley.k12.mn.us`](https://google.com/search?q=foley.k12.mn.us) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-08 | [`www.avianor.com`](https://google.com/search?q=www.avianor.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-11-08 | [`oefederal.org`](https://google.com/search?q=oefederal.org) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2023-10-26 | [`Laiho Group`](https://google.com/search?q=Laiho+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-10-26 | [`caminorealcs.org`](https://google.com/search?q=caminorealcs.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-10-26 | [`doverchem.com`](https://google.com/search?q=doverchem.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-10-26 | [`claimtek.com`](https://google.com/search?q=claimtek.com) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
-| 2023-10-26 | [`apexga.bank`](https://google.com/search?q=apexga.bank) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
-| 2023-10-26 | [`sgworld.com`](https://google.com/search?q=sgworld.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
