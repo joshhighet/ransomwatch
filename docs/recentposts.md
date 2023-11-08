@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-11-08 | [`fawry.com`](https://google.com/search?q=fawry.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-11-08 | [`amberhillgroup.com`](https://google.com/search?q=amberhillgroup.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-08 | [`www.califanocarrelli.it`](https://google.com/search?q=www.califanocarrelli.it) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2023-11-08 | [`www.orionlibrary.org`](https://google.com/search?q=www.orionlibrary.org) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-11-08 | [`Michael Garron Hospi tal`](https://google.com/search?q=Michael+Garron+Hospi+tal) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-10-27 | [`ZINSER GmbH`](https://google.com/search?q=ZINSER+GmbH) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-10-27 | [`CBS`](https://google.com/search?q=CBS) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-10-26 | [`maniland.co.uk`](https://google.com/search?q=maniland.co.uk) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
-| 2023-10-26 | [`Laiho Group`](https://google.com/search?q=Laiho+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-10-26 | [`caminorealcs.org`](https://google.com/search?q=caminorealcs.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
