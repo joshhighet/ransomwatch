@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-11-08 | [`www.avianor.com`](https://google.com/search?q=www.avianor.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-11-08 | [`oefederal.org`](https://google.com/search?q=oefederal.org) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-11-08 | [`gitiusa.com`](https://google.com/search?q=gitiusa.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-08 | [`http://www.neodomos.fr`](https://google.com/search?q=http%3A%2F%2Fwww.neodomos.fr) | [ciphbit](https://ransomwatch.telemetry.ltd/#/profiles?id=ciphbit) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-10-26 | [`apexga.bank`](https://google.com/search?q=apexga.bank) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
 | 2023-10-26 | [`sgworld.com`](https://google.com/search?q=sgworld.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2023-10-26 | [`Versatile Card Technology Private Limited`](https://google.com/search?q=Versatile+Card+Technology+Private+Limited) | [mallox](https://ransomwatch.telemetry.ltd/#/profiles?id=mallox) |
-| 2023-10-25 | [`www.fortive.com`](https://google.com/search?q=www.fortive.com) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
