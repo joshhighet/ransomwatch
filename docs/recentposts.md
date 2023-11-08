@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-11-08 | [`http://www.neodomos.fr`](https://google.com/search?q=http%3A%2F%2Fwww.neodomos.fr) | [ciphbit](https://ransomwatch.telemetry.ltd/#/profiles?id=ciphbit) |
+| 2023-11-08 | [`allenovery.com`](https://google.com/search?q=allenovery.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-11-08 | [`Bakrie Group & Bakrie Sumatera Plantations`](https://google.com/search?q=Bakrie+Group+%26+Bakrie+Sumatera+Plantations) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-11-07 | [`Indah Water Konsortium`](https://google.com/search?q=Indah+Water+Konsortium) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2023-11-07 | [`Truck Bodies & Equipment International`](https://google.com/search?q=Truck+Bodies+%26+Equipment+International) | [lorenz](https://ransomwatch.telemetry.ltd/#/profiles?id=lorenz) |
 | 2023-11-07 | [`www.nicecloud.nl`](https://google.com/search?q=www.nicecloud.nl) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2023-10-25 | [`www.fortive.com`](https://google.com/search?q=www.fortive.com) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2023-10-25 | [`M&amp;n Management`](https://google.com/search?q=M%26amp%3Bn+Management) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
 | 2023-10-25 | [`Ancillae-Assumpta Academy`](https://google.com/search?q=Ancillae-Assumpta+Academy) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
-| 2023-10-25 | [`Direct Mail%20Corporation`](https://google.com/search?q=Direct+Mail%2520Corporation) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2023-10-25 | [`Broad River Retail/Ashley Store`](https://google.com/search?q=Broad+River+Retail%2FAshley+Store) | [lorenz](https://ransomwatch.telemetry.ltd/#/profiles?id=lorenz) |
-| 2023-10-25 | [`cvcheart.com`](https://google.com/search?q=cvcheart.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
