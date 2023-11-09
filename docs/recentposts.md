@@ -4,6 +4,16 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-11-09 | [`JS Hovnanian & Sons`](https://google.com/search?q=JS+Hovnanian+%26+Sons) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-11-09 | [`Identification Products`](https://google.com/search?q=Identification+Products) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-11-09 | [`M.R. Williams`](https://google.com/search?q=M.R.+Williams) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-11-09 | [`DESIGNA Verkehrsleittechnik`](https://google.com/search?q=DESIGNA+Verkehrsleittechnik) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-11-09 | [`The Supply Room Companies & Citron WorkSpaces`](https://google.com/search?q=The+Supply+Room+Companies+%26+Citron+WorkSpaces) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-11-09 | [`Ackerman-Estvold`](https://google.com/search?q=Ackerman-Estvold) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-11-09 | [`Meindl`](https://google.com/search?q=Meindl) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-11-09 | [`Conditioned Air`](https://google.com/search?q=Conditioned+Air) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-11-09 | [`Inclinator`](https://google.com/search?q=Inclinator) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-11-09 | [`Crown Supply Co`](https://google.com/search?q=Crown+Supply+Co) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-11-08 | [`fawry.com`](https://google.com/search?q=fawry.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-08 | [`amberhillgroup.com`](https://google.com/search?q=amberhillgroup.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-08 | [`www.califanocarrelli.it`](https://google.com/search?q=www.califanocarrelli.it) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
@@ -194,13 +204,3 @@ _last `200` posts_
 | 2023-10-28 | [`Morrison Community Hospital FULL HUGE LEAK + BONUS`](https://google.com/search?q=Morrison+Community+Hospital+FULL+HUGE+LEAK+%2B+BONUS) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-10-27 | [`Alam Flora%20Sdn%20Bhd`](https://google.com/search?q=Alam+Flora%2520Sdn%2520Bhd) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2023-10-27 | [`boeing.com`](https://google.com/search?q=boeing.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-10-27 | [`Telecommunications Services of Trinidad and Tobago (tstt.co.tt)`](https://google.com/search?q=Telecommunications+Services+of+Trinidad+and+Tobago+%28tstt.co.tt%29) | [ransomexx](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomexx) |
-| 2023-10-27 | [`Mutual Underwriters`](https://google.com/search?q=Mutual+Underwriters) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-10-27 | [`tilden-coil.com`](https://google.com/search?q=tilden-coil.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-10-27 | [`Stanford University`](https://google.com/search?q=Stanford+University) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2023-10-27 | [`WWW.VOLEX.COM`](https://google.com/search?q=WWW.VOLEX.COM) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2023-10-27 | [`www.volex.com`](https://google.com/search?q=www.volex.com) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2023-10-27 | [`Wilson Lewis`](https://google.com/search?q=Wilson+Lewis) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-10-27 | [`ZINSER GmbH`](https://google.com/search?q=ZINSER+GmbH) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-10-27 | [`CBS`](https://google.com/search?q=CBS) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-10-26 | [`maniland.co.uk`](https://google.com/search?q=maniland.co.uk) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
