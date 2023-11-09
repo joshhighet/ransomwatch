@@ -4,6 +4,10 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-11-09 | [`City Furniture Hire`](https://google.com/search?q=City+Furniture+Hire) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
+| 2023-11-09 | [`Autocommerce`](https://google.com/search?q=Autocommerce) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
+| 2023-11-09 | [`SALUS Controls`](https://google.com/search?q=SALUS+Controls) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
+| 2023-11-09 | [`gotocfr.com`](https://google.com/search?q=gotocfr.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-09 | [`Simons Petroleum/Max um Petroleum/Pilot T homas Logistics`](https://google.com/search?q=Simons+Petroleum%2FMax+um+Petroleum%2FPilot+T+homas+Logistics) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-11-09 | [`ggarabia.com`](https://google.com/search?q=ggarabia.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-09 | [`Koh Brothers`](https://google.com/search?q=Koh+Brothers) | [lorenz](https://ransomwatch.telemetry.ltd/#/profiles?id=lorenz) |
@@ -200,7 +204,3 @@ _last `200` posts_
 | 2023-10-28 | [`Sam Tell Companies`](https://google.com/search?q=Sam+Tell+Companies) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-10-28 | [`Waterstone Faucets`](https://google.com/search?q=Waterstone+Faucets) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-10-28 | [`Bush Refrigeration`](https://google.com/search?q=Bush+Refrigeration) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-10-28 | [`Drug Emporium`](https://google.com/search?q=Drug+Emporium) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-10-28 | [`Online Development`](https://google.com/search?q=Online+Development) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-10-28 | [`KDI Office Technology`](https://google.com/search?q=KDI+Office+Technology) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-10-28 | [`Het Veer`](https://google.com/search?q=Het+Veer) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
