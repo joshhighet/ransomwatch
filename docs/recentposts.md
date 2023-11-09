@@ -4,6 +4,10 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-11-09 | [`Simons Petroleum/Max um Petroleum/Pilot T homas Logistics`](https://google.com/search?q=Simons+Petroleum%2FMax+um+Petroleum%2FPilot+T+homas+Logistics) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
+| 2023-11-09 | [`ggarabia.com`](https://google.com/search?q=ggarabia.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-11-09 | [`Koh Brothers`](https://google.com/search?q=Koh+Brothers) | [lorenz](https://ransomwatch.telemetry.ltd/#/profiles?id=lorenz) |
+| 2023-11-09 | [`Cogdell Memorial Hospital`](https://google.com/search?q=Cogdell+Memorial+Hospital) | [lorenz](https://ransomwatch.telemetry.ltd/#/profiles?id=lorenz) |
 | 2023-11-09 | [`www.jeffcoat.us`](https://google.com/search?q=www.jeffcoat.us) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-11-09 | [`JS Hovnanian & Sons`](https://google.com/search?q=JS+Hovnanian+%26+Sons) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-11-09 | [`Identification Products`](https://google.com/search?q=Identification+Products) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -200,7 +204,3 @@ _last `200` posts_
 | 2023-10-28 | [`Online Development`](https://google.com/search?q=Online+Development) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-10-28 | [`KDI Office Technology`](https://google.com/search?q=KDI+Office+Technology) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-10-28 | [`Het Veer`](https://google.com/search?q=Het+Veer) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-10-28 | [`TNT Plastic Molding`](https://google.com/search?q=TNT+Plastic+Molding) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2023-10-28 | [`IBACOS`](https://google.com/search?q=IBACOS) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-10-28 | [`Morrison Community Hospital FULL HUGE LEAK + BONUS`](https://google.com/search?q=Morrison+Community+Hospital+FULL+HUGE+LEAK+%2B+BONUS) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-10-27 | [`Alam Flora%20Sdn%20Bhd`](https://google.com/search?q=Alam+Flora%2520Sdn%2520Bhd) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
