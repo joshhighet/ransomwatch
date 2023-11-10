@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-11-10 | [`Azienda Ospedaliera Universitaria Integrata di Verona`](https://google.com/search?q=Azienda+Ospedaliera+Universitaria+Integrata+di+Verona) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
+| 2023-11-10 | [`aei.cc`](https://google.com/search?q=aei.cc) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-09 | [`www.actionsantetravail.fr`](https://google.com/search?q=www.actionsantetravail.fr) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-11-09 | [`Sinotech Group Taiwan`](https://google.com/search?q=Sinotech+Group+Taiwan) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-11-09 | [`www.ezifloor.com.au`](https://google.com/search?q=www.ezifloor.com.au) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-10-30 | [`Jockey Club`](https://google.com/search?q=Jockey+Club) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-10-29 | [`Global Export%20Marketing%20Co.%20Ltd.`](https://google.com/search?q=Global+Export%2520Marketing%2520Co.%2520Ltd.) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2023-10-29 | [`WACOSA`](https://google.com/search?q=WACOSA) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-10-28 | [`Dallas County`](https://google.com/search?q=Dallas+County) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-10-28 | [`Alpha Mortgage`](https://google.com/search?q=Alpha+Mortgage) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
