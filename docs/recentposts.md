@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-11-11 | [`Dragos Inc.`](https://google.com/search?q=Dragos+Inc.) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-11-10 | [`floortex.com`](https://google.com/search?q=floortex.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-10 | [`Mariposa Landscapes, Inc`](https://google.com/search?q=Mariposa+Landscapes%2C+Inc) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-11-10 | [`morningstarco.com`](https://google.com/search?q=morningstarco.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-10-30 | [`ecabusinessenergy.com`](https://google.com/search?q=ecabusinessenergy.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-10-30 | [`topcharoen.co.th`](https://google.com/search?q=topcharoen.co.th) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-10-30 | [`mottamaholdings.com`](https://google.com/search?q=mottamaholdings.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-10-30 | [`RANSOMEDVC is for sale`](https://google.com/search?q=RANSOMEDVC+is+for+sale) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
