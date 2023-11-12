@@ -4,6 +4,11 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-11-12 | [`wombleco.com`](https://google.com/search?q=wombleco.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-11-12 | [`thewalkerschool.org`](https://google.com/search?q=thewalkerschool.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-11-12 | [`modafabrics.com`](https://google.com/search?q=modafabrics.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-11-12 | [`hotelemc2.com`](https://google.com/search?q=hotelemc2.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-11-12 | [`digitaldruck-esser.de`](https://google.com/search?q=digitaldruck-esser.de) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-12 | [`cityofclarksville.com`](https://google.com/search?q=cityofclarksville.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-12 | [`carsonteam.com`](https://google.com/search?q=carsonteam.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-12 | [`plati.it`](https://google.com/search?q=plati.it) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -199,8 +204,3 @@ _last `200` posts_
 | 2023-10-31 | [`Prasan Enterprises`](https://google.com/search?q=Prasan+Enterprises) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-10-31 | [`utec.com.sa`](https://google.com/search?q=utec.com.sa) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-10-31 | [`riohondo.edu`](https://google.com/search?q=riohondo.edu) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-10-31 | [`bildco.ae`](https://google.com/search?q=bildco.ae) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-10-31 | [`ageroute.sn`](https://google.com/search?q=ageroute.sn) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-10-31 | [`smartuigroup.com.au`](https://google.com/search?q=smartuigroup.com.au) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-10-31 | [`Mount Carmel Care Center`](https://google.com/search?q=Mount+Carmel+Care+Center) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
-| 2023-10-31 | [`twosaints.org.uk`](https://google.com/search?q=twosaints.org.uk) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
