@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-11-12 | [`Pricesmart`](https://google.com/search?q=Pricesmart) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-11-11 | [`roth-werkzeugbau.de`](https://google.com/search?q=roth-werkzeugbau.de) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-11 | [`heinrichseegers.de`](https://google.com/search?q=heinrichseegers.de) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-11 | [`vital.co.za`](https://google.com/search?q=vital.co.za) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-10-31 | [`www.dynametal.com`](https://google.com/search?q=www.dynametal.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-10-31 | [`www.spolzino.com`](https://google.com/search?q=www.spolzino.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-10-31 | [`www.prclinical.com`](https://google.com/search?q=www.prclinical.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
-| 2023-10-31 | [`www.mckeagandco.com`](https://google.com/search?q=www.mckeagandco.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
