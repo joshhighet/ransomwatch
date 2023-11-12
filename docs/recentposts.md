@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-11-12 | [`plati.it`](https://google.com/search?q=plati.it) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-11-12 | [`hotel-ampere-paris.com`](https://google.com/search?q=hotel-ampere-paris.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-12 | [`Pricesmart`](https://google.com/search?q=Pricesmart) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-11-11 | [`roth-werkzeugbau.de`](https://google.com/search?q=roth-werkzeugbau.de) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-11 | [`heinrichseegers.de`](https://google.com/search?q=heinrichseegers.de) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-10-31 | [`twosaints.org.uk`](https://google.com/search?q=twosaints.org.uk) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-10-31 | [`Romulo Law Offices`](https://google.com/search?q=Romulo+Law+Offices) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-10-31 | [`www.dynametal.com`](https://google.com/search?q=www.dynametal.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
-| 2023-10-31 | [`www.spolzino.com`](https://google.com/search?q=www.spolzino.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
-| 2023-10-31 | [`www.prclinical.com`](https://google.com/search?q=www.prclinical.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
