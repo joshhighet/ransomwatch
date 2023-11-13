@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-11-13 | [`tarltonandson.com`](https://google.com/search?q=tarltonandson.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-11-13 | [`ASM GLOBAL`](https://google.com/search?q=ASM+GLOBAL) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-11-13 | [`St. Lucie County Tax Collector’s`](https://google.com/search?q=St.+Lucie+County+Tax+Collector%E2%80%99s) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-11-13 | [`portadelaidefc`](https://google.com/search?q=portadelaidefc) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
 | 2023-11-13 | [`Moneris Solutions`](https://google.com/search?q=Moneris+Solutions) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-11-01 | [`www.vinovalie.com`](https://google.com/search?q=www.vinovalie.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-11-01 | [`Traxall France`](https://google.com/search?q=Traxall+France) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-11-01 | [`Armstrong Consultants`](https://google.com/search?q=Armstrong+Consultants) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-11-01 | [`JAI A/S`](https://google.com/search?q=JAI+A%2FS) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-11-01 | [`Schöler Fördertechnik AG`](https://google.com/search?q=Sch%C3%B6ler+F%C3%B6rdertechnik+AG) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
