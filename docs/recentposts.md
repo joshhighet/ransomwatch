@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-11-13 | [`www.putzelelectric.com`](https://google.com/search?q=www.putzelelectric.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-11-13 | [`www.mprlift.se`](https://google.com/search?q=www.mprlift.se) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-11-12 | [`aegean.gr`](https://google.com/search?q=aegean.gr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-12 | [`wombleco.com`](https://google.com/search?q=wombleco.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-10-31 | [`Patriotisk Selskab`](https://google.com/search?q=Patriotisk+Selskab) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-10-31 | [`Auswide Services`](https://google.com/search?q=Auswide+Services) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-10-31 | [`B*****`](https://google.com/search?q=B%2A%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2023-10-31 | [`Prasan Enterprises`](https://google.com/search?q=Prasan+Enterprises) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
