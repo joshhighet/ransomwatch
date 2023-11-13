@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-11-13 | [`muellersystems.com`](https://google.com/search?q=muellersystems.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-11-13 | [`msim.de`](https://google.com/search?q=msim.de) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-13 | [`www.putzelelectric.com`](https://google.com/search?q=www.putzelelectric.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-11-13 | [`www.mprlift.se`](https://google.com/search?q=www.mprlift.se) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-11-12 | [`aegean.gr`](https://google.com/search?q=aegean.gr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-10-31 | [`Universal Sewing%20Supply`](https://google.com/search?q=Universal+Sewing%2520Supply) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2023-10-31 | [`G??P???? S????y???`](https://google.com/search?q=G%3F%3FP%3F%3F%3F%3F+S%3F%3F%3F%3Fy%3F%3F%3F) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-10-31 | [`Patriotisk Selskab`](https://google.com/search?q=Patriotisk+Selskab) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2023-10-31 | [`Auswide Services`](https://google.com/search?q=Auswide+Services) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2023-10-31 | [`B*****`](https://google.com/search?q=B%2A%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
