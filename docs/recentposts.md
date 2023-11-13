@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-11-13 | [`Moneris Solutions`](https://google.com/search?q=Moneris+Solutions) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
+| 2023-11-13 | [`United Site Services`](https://google.com/search?q=United+Site+Services) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2023-11-13 | [`NSEIT LIMITED`](https://google.com/search?q=NSEIT+LIMITED) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-11-13 | [`muellersystems.com`](https://google.com/search?q=muellersystems.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-13 | [`msim.de`](https://google.com/search?q=msim.de) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-13 | [`www.putzelelectric.com`](https://google.com/search?q=www.putzelelectric.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2023-11-01 | [`Schöler Fördertechnik AG`](https://google.com/search?q=Sch%C3%B6ler+F%C3%B6rdertechnik+AG) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-11-01 | [`Advarra Inc.(PFIZER,GILEAD ETC AFFECTED)`](https://google.com/search?q=Advarra+Inc.%28PFIZER%2CGILEAD+ETC+AFFECTED%29) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-11-01 | [`Advarra Inc.`](https://google.com/search?q=Advarra+Inc.) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-10-31 | [`Universal Sewing%20Supply`](https://google.com/search?q=Universal+Sewing%2520Supply) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2023-10-31 | [`G??P???? S????y???`](https://google.com/search?q=G%3F%3FP%3F%3F%3F%3F+S%3F%3F%3F%3Fy%3F%3F%3F) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-10-31 | [`Patriotisk Selskab`](https://google.com/search?q=Patriotisk+Selskab) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
