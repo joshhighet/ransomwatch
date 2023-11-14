@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-11-14 | [`www.maytec.de`](https://google.com/search?q=www.maytec.de) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2023-11-14 | [`Gnome Landscapes`](https://google.com/search?q=Gnome+Landscapes) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-11-14 | [`www.agromatic.de`](https://google.com/search?q=www.agromatic.de) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2023-11-14 | [`www.cmcsheetmetal.com`](https://google.com/search?q=www.cmcsheetmetal.com) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2023-11-14 | [`www.rekord.de`](https://google.com/search?q=www.rekord.de) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-11-01 | [`summithealth.com`](https://google.com/search?q=summithealth.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-01 | [`https://tanatexchemicals.com`](https://google.com/search?q=https%3A%2F%2Ftanatexchemicals.com) | [metaencryptor](https://ransomwatch.telemetry.ltd/#/profiles?id=metaencryptor) |
 | 2023-11-01 | [`Faieta Motorcompany IT`](https://google.com/search?q=Faieta+Motorcompany+IT) | [knight](https://ransomwatch.telemetry.ltd/#/profiles?id=knight) |
-| 2023-11-01 | [`Mario de Cecco - Workwear & Corporate Wear IT`](https://google.com/search?q=Mario+de+Cecco+-+Workwear+%26+Corporate+Wear+IT) | [knight](https://ransomwatch.telemetry.ltd/#/profiles?id=knight) |
-| 2023-11-01 | [`Kinesis Film Srl`](https://google.com/search?q=Kinesis+Film+Srl) | [knight](https://ransomwatch.telemetry.ltd/#/profiles?id=knight) |
