@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-11-14 | [`Naftor and Grupa Pern (Naftoport/ SIARKOPOL/ SARMATIA/ NAFTOSERWIS) is the most dangerous `](https://google.com/search?q=Naftor+and+Grupa+Pern+%28Naftoport%2F+SIARKOPOL%2F+SARMATIA%2F+NAFTOSERWIS%29+is+the+most+dangerous+) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
+| 2023-11-14 | [`4set.es`](https://google.com/search?q=4set.es) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-11-14 | [`diagnostechs`](https://google.com/search?q=diagnostechs) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
 | 2023-11-14 | [`Execuzen`](https://google.com/search?q=Execuzen) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-11-14 | [`www.landercountynv.org`](https://google.com/search?q=www.landercountynv.org) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-11-01 | [`il Centro`](https://google.com/search?q=il+Centro) | [knight](https://ransomwatch.telemetry.ltd/#/profiles?id=knight) |
 | 2023-11-01 | [`Emmea Srl`](https://google.com/search?q=Emmea+Srl) | [knight](https://ransomwatch.telemetry.ltd/#/profiles?id=knight) |
 | 2023-11-01 | [`Michels Markisen GmbH`](https://google.com/search?q=Michels+Markisen+GmbH) | [knight](https://ransomwatch.telemetry.ltd/#/profiles?id=knight) |
-| 2023-11-01 | [`Pontifica Universidad Católica de Chile`](https://google.com/search?q=Pontifica+Universidad+Cat%C3%B3lica+de+Chile) | [knight](https://ransomwatch.telemetry.ltd/#/profiles?id=knight) |
-| 2023-11-01 | [`Veneto Transportes`](https://google.com/search?q=Veneto+Transportes) | [knight](https://ransomwatch.telemetry.ltd/#/profiles?id=knight) |
