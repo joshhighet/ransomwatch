@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-11-14 | [`Execuzen`](https://google.com/search?q=Execuzen) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-11-14 | [`www.landercountynv.org`](https://google.com/search?q=www.landercountynv.org) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-11-14 | [`www.sosbonedocs.com`](https://google.com/search?q=www.sosbonedocs.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-11-14 | [`www.carespring.com`](https://google.com/search?q=www.carespring.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-11-01 | [`Pontifica Universidad Católica de Chile`](https://google.com/search?q=Pontifica+Universidad+Cat%C3%B3lica+de+Chile) | [knight](https://ransomwatch.telemetry.ltd/#/profiles?id=knight) |
 | 2023-11-01 | [`Veneto Transportes`](https://google.com/search?q=Veneto+Transportes) | [knight](https://ransomwatch.telemetry.ltd/#/profiles?id=knight) |
 | 2023-11-01 | [`www.gannons.co.uk`](https://google.com/search?q=www.gannons.co.uk) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2023-11-01 | [`www.gsp.com.br`](https://google.com/search?q=www.gsp.com.br) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
