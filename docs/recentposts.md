@@ -4,6 +4,11 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-11-14 | [`www.agromatic.de`](https://google.com/search?q=www.agromatic.de) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2023-11-14 | [`www.cmcsheetmetal.com`](https://google.com/search?q=www.cmcsheetmetal.com) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2023-11-14 | [`www.rekord.de`](https://google.com/search?q=www.rekord.de) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2023-11-14 | [`www.boulangerieauger.com`](https://google.com/search?q=www.boulangerieauger.com) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2023-11-14 | [`SheelaFoam`](https://google.com/search?q=SheelaFoam) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-11-14 | [`Naftor and Grupa Pern (Naftoport/ SIARKOPOL/ SARMATIA/ NAFTOSERWIS) is the most dangerous `](https://google.com/search?q=Naftor+and+Grupa+Pern+%28Naftoport%2F+SIARKOPOL%2F+SARMATIA%2F+NAFTOSERWIS%29+is+the+most+dangerous+) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-11-14 | [`4set.es`](https://google.com/search?q=4set.es) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-11-14 | [`diagnostechs`](https://google.com/search?q=diagnostechs) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
@@ -199,8 +204,3 @@ _last `200` posts_
 | 2023-11-01 | [`Faieta Motorcompany IT`](https://google.com/search?q=Faieta+Motorcompany+IT) | [knight](https://ransomwatch.telemetry.ltd/#/profiles?id=knight) |
 | 2023-11-01 | [`Mario de Cecco - Workwear & Corporate Wear IT`](https://google.com/search?q=Mario+de+Cecco+-+Workwear+%26+Corporate+Wear+IT) | [knight](https://ransomwatch.telemetry.ltd/#/profiles?id=knight) |
 | 2023-11-01 | [`Kinesis Film Srl`](https://google.com/search?q=Kinesis+Film+Srl) | [knight](https://ransomwatch.telemetry.ltd/#/profiles?id=knight) |
-| 2023-11-01 | [`BMW Munique Motors`](https://google.com/search?q=BMW+Munique+Motors) | [knight](https://ransomwatch.telemetry.ltd/#/profiles?id=knight) |
-| 2023-11-01 | [`Intellipop Fiber Internet`](https://google.com/search?q=Intellipop+Fiber+Internet) | [knight](https://ransomwatch.telemetry.ltd/#/profiles?id=knight) |
-| 2023-11-01 | [`il Centro`](https://google.com/search?q=il+Centro) | [knight](https://ransomwatch.telemetry.ltd/#/profiles?id=knight) |
-| 2023-11-01 | [`Emmea Srl`](https://google.com/search?q=Emmea+Srl) | [knight](https://ransomwatch.telemetry.ltd/#/profiles?id=knight) |
-| 2023-11-01 | [`Michels Markisen GmbH`](https://google.com/search?q=Michels+Markisen+GmbH) | [knight](https://ransomwatch.telemetry.ltd/#/profiles?id=knight) |
