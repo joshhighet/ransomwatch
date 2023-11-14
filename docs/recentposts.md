@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-11-14 | [`www.carespring.com`](https://google.com/search?q=www.carespring.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-11-14 | [`Warren General Hospital`](https://google.com/search?q=Warren+General+Hospital) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2023-11-13 | [`tarltonandson.com`](https://google.com/search?q=tarltonandson.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-13 | [`ASM GLOBAL`](https://google.com/search?q=ASM+GLOBAL) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-11-01 | [`www.gsp.com.br`](https://google.com/search?q=www.gsp.com.br) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2023-11-01 | [`Town of Lowa`](https://google.com/search?q=Town+of+Lowa) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-11-01 | [`www.vinovalie.com`](https://google.com/search?q=www.vinovalie.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
-| 2023-11-01 | [`Traxall France`](https://google.com/search?q=Traxall+France) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
