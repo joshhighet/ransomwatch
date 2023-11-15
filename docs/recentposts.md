@@ -4,6 +4,19 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-11-15 | [`PIKE Technologies`](https://google.com/search?q=PIKE+Technologies) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-11-15 | [`Proforma Albrecht`](https://google.com/search?q=Proforma+Albrecht) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-11-15 | [`Fgs`](https://google.com/search?q=Fgs) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-11-15 | [`Trademark Property`](https://google.com/search?q=Trademark+Property) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-11-15 | [`Nomot`](https://google.com/search?q=Nomot) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-11-15 | [`Global Technologies Racing Ltd`](https://google.com/search?q=Global+Technologies+Racing+Ltd) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-11-15 | [`Thompson Candy`](https://google.com/search?q=Thompson+Candy) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-11-15 | [`Road Scholar Transport`](https://google.com/search?q=Road+Scholar+Transport) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-11-15 | [`KaDeWe`](https://google.com/search?q=KaDeWe) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-11-15 | [`Wyatt Detention Center`](https://google.com/search?q=Wyatt+Detention+Center) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-11-15 | [`Guntert & Zimmerman`](https://google.com/search?q=Guntert+%26+Zimmerman) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-11-15 | [`ConSpare`](https://google.com/search?q=ConSpare) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-11-15 | [`Premise Health`](https://google.com/search?q=Premise+Health) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-11-14 | [`www.maytec.de`](https://google.com/search?q=www.maytec.de) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2023-11-14 | [`Gnome Landscapes`](https://google.com/search?q=Gnome+Landscapes) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-11-14 | [`www.agromatic.de`](https://google.com/search?q=www.agromatic.de) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
@@ -191,16 +204,3 @@ _last `200` posts_
 | 2023-11-02 | [`kitprofs.com`](https://google.com/search?q=kitprofs.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-02 | [`imprex.es`](https://google.com/search?q=imprex.es) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-02 | [`degregoris.com`](https://google.com/search?q=degregoris.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-11-02 | [`Bluewater Health (CA) and others`](https://google.com/search?q=Bluewater+Health+%28CA%29+and+others) | [daixin](https://ransomwatch.telemetry.ltd/#/profiles?id=daixin) |
-| 2023-11-01 | [`http://hacap.org`](https://google.com/search?q=http%3A%2F%2Fhacap.org) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
-| 2023-11-01 | [`vitaresearch.com`](https://google.com/search?q=vitaresearch.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-11-01 | [`steelofcarolina.com`](https://google.com/search?q=steelofcarolina.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-11-01 | [`sanmiguel.iph`](https://google.com/search?q=sanmiguel.iph) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-11-01 | [`Detroit Symphony Orchestra`](https://google.com/search?q=Detroit+Symphony+Orchestra) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
-| 2023-11-01 | [`EDB`](https://google.com/search?q=EDB) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
-| 2023-11-01 | [`Software Systems `](https://google.com/search?q=Software+Systems+) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
-| 2023-11-01 | [`US Claims Solutions`](https://google.com/search?q=US+Claims+Solutions) | [knight](https://ransomwatch.telemetry.ltd/#/profiles?id=knight) |
-| 2023-11-01 | [`Benefit Management`](https://google.com/search?q=Benefit+Management) | [knight](https://ransomwatch.telemetry.ltd/#/profiles?id=knight) |
-| 2023-11-01 | [`summithealth.com`](https://google.com/search?q=summithealth.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-11-01 | [`https://tanatexchemicals.com`](https://google.com/search?q=https%3A%2F%2Ftanatexchemicals.com) | [metaencryptor](https://ransomwatch.telemetry.ltd/#/profiles?id=metaencryptor) |
-| 2023-11-01 | [`Faieta Motorcompany IT`](https://google.com/search?q=Faieta+Motorcompany+IT) | [knight](https://ransomwatch.telemetry.ltd/#/profiles?id=knight) |
