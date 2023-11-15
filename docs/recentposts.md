@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-11-15 | [`owensgroup.uk`](https://google.com/search?q=owensgroup.uk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-11-15 | [`MeridianLink fails to file with the SEC..so we do it for them + 24 hours to pay`](https://google.com/search?q=MeridianLink+fails+to+file+with+the+SEC..so+we+do+it+for+them+%2B+24+hours+to+pay) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-11-15 | [`chicagotrading.com`](https://google.com/search?q=chicagotrading.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-15 | [`adyne.com`](https://google.com/search?q=adyne.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-15 | [`Yamaha Motor%20Philippines%2CInc.`](https://google.com/search?q=Yamaha+Motor%2520Philippines%252CInc.) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-11-02 | [`shimano.com`](https://google.com/search?q=shimano.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-02 | [`bindagroup.com`](https://google.com/search?q=bindagroup.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-02 | [`lafase.cl`](https://google.com/search?q=lafase.cl) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-11-02 | [`Contact Cottrell and McCullough`](https://google.com/search?q=Contact+Cottrell+and+McCullough) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-11-02 | [`psmicorp.com`](https://google.com/search?q=psmicorp.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
