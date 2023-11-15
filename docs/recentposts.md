@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-11-15 | [`Cardinal MetalWorks`](https://google.com/search?q=Cardinal+MetalWorks) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
+| 2023-11-15 | [`ADH Health Products Inc`](https://google.com/search?q=ADH+Health+Products+Inc) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
+| 2023-11-15 | [`EOS`](https://google.com/search?q=EOS) | [lorenz](https://ransomwatch.telemetry.ltd/#/profiles?id=lorenz) |
 | 2023-11-15 | [`kwhfreeze.fi`](https://google.com/search?q=kwhfreeze.fi) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-15 | [`MeridianLink`](https://google.com/search?q=MeridianLink) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-11-15 | [`PIKE Technologies`](https://google.com/search?q=PIKE+Technologies) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2023-11-02 | [`Groupe Faubourg`](https://google.com/search?q=Groupe+Faubourg) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-11-02 | [`www.rnwooler.co.uk`](https://google.com/search?q=www.rnwooler.co.uk) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-11-02 | [`HAL Allergy`](https://google.com/search?q=HAL+Allergy) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-11-02 | [`schwob.swiss`](https://google.com/search?q=schwob.swiss) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
-| 2023-11-02 | [`raumberg-gumpenstein.at`](https://google.com/search?q=raumberg-gumpenstein.at) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-11-02 | [`kitprofs.com`](https://google.com/search?q=kitprofs.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
