@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-11-15 | [`kwhfreeze.fi`](https://google.com/search?q=kwhfreeze.fi) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-15 | [`MeridianLink`](https://google.com/search?q=MeridianLink) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-11-15 | [`PIKE Technologies`](https://google.com/search?q=PIKE+Technologies) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-11-15 | [`Proforma Albrecht`](https://google.com/search?q=Proforma+Albrecht) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-11-02 | [`schwob.swiss`](https://google.com/search?q=schwob.swiss) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-11-02 | [`raumberg-gumpenstein.at`](https://google.com/search?q=raumberg-gumpenstein.at) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-02 | [`kitprofs.com`](https://google.com/search?q=kitprofs.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-11-02 | [`imprex.es`](https://google.com/search?q=imprex.es) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
