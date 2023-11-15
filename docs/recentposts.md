@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-11-15 | [`chicagotrading.com`](https://google.com/search?q=chicagotrading.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-11-15 | [`adyne.com`](https://google.com/search?q=adyne.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-15 | [`Yamaha Motor%20Philippines%2CInc.`](https://google.com/search?q=Yamaha+Motor%2520Philippines%252CInc.) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2023-11-15 | [`Decatur Independent%20School%20District`](https://google.com/search?q=Decatur+Independent%2520School%2520District) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2023-11-15 | [`Guardian Alarm`](https://google.com/search?q=Guardian+Alarm) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-11-02 | [`lafase.cl`](https://google.com/search?q=lafase.cl) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-02 | [`Contact Cottrell and McCullough`](https://google.com/search?q=Contact+Cottrell+and+McCullough) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-11-02 | [`psmicorp.com`](https://google.com/search?q=psmicorp.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-11-02 | [`www.imancorp.es`](https://google.com/search?q=www.imancorp.es) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2023-11-02 | [`AF Supply`](https://google.com/search?q=AF+Supply) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
