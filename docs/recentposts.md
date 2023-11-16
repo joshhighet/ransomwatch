@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-11-16 | [`goodhopeholdings.com`](https://google.com/search?q=goodhopeholdings.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-11-16 | [`Admilla ELAP`](https://google.com/search?q=Admilla+ELAP) | [ransomexx](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomexx) |
 | 2023-11-16 | [`Toyota Financial`](https://google.com/search?q=Toyota+Financial) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-11-15 | [`owensgroup.uk`](https://google.com/search?q=owensgroup.uk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-15 | [`MeridianLink fails to file with the SEC..so we do it for them + 24 hours to pay`](https://google.com/search?q=MeridianLink+fails+to+file+with+the+SEC..so+we+do+it+for+them+%2B+24+hours+to+pay) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-11-02 | [`North Dakota Grain Inspection Services`](https://google.com/search?q=North+Dakota+Grain+Inspection+Services) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-11-02 | [`Gsp Components`](https://google.com/search?q=Gsp+Components) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-11-02 | [`Ricardo`](https://google.com/search?q=Ricardo) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-11-02 | [`shimano.com`](https://google.com/search?q=shimano.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-11-02 | [`bindagroup.com`](https://google.com/search?q=bindagroup.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
