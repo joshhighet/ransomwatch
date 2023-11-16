@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-11-16 | [`thewalkerschool`](https://google.com/search?q=thewalkerschool) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
+| 2023-11-16 | [`FEAM Maintenance`](https://google.com/search?q=FEAM+Maintenance) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-11-16 | [`epsteinlawcorp.com`](https://google.com/search?q=epsteinlawcorp.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2023-11-16 | [`goodhopeholdings.com`](https://google.com/search?q=goodhopeholdings.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-16 | [`Admilla ELAP`](https://google.com/search?q=Admilla+ELAP) | [ransomexx](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomexx) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-11-02 | [`JDRM Engineering`](https://google.com/search?q=JDRM+Engineering) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-11-02 | [`Craft-Maid`](https://google.com/search?q=Craft-Maid) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-11-02 | [`Hilyards`](https://google.com/search?q=Hilyards) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-11-02 | [`North Dakota Grain Inspection Services`](https://google.com/search?q=North+Dakota+Grain+Inspection+Services) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-11-02 | [`Gsp Components`](https://google.com/search?q=Gsp+Components) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
