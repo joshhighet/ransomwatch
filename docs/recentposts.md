@@ -4,6 +4,11 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-11-16 | [`24/7 Express Logistics (Unpay-Full public)`](https://google.com/search?q=24%2F7+Express+Logistics+%28Unpay-Full+public%29) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
+| 2023-11-16 | [`Aceromex (Unpay-Full public)`](https://google.com/search?q=Aceromex+%28Unpay-Full+public%29) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
+| 2023-11-16 | [`Chung Hwa Chemical Industrial Works (Unpay-Full public)`](https://google.com/search?q=Chung+Hwa+Chemical+Industrial+Works+%28Unpay-Full+public%29) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
+| 2023-11-16 | [`SUMMIT VETERINARY PHARMACEUTICALS LIMITED (Unpay)`](https://google.com/search?q=SUMMIT+VETERINARY+PHARMACEUTICALS+LIMITED+%28Unpay%29) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
+| 2023-11-16 | [`Informist Media (Unpay)`](https://google.com/search?q=Informist+Media+%28Unpay%29) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
 | 2023-11-16 | [`planethomelending.com`](https://google.com/search?q=planethomelending.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-16 | [`communitydentalme.org`](https://google.com/search?q=communitydentalme.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-16 | [`thewalkerschool`](https://google.com/search?q=thewalkerschool) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -199,8 +204,3 @@ _last `200` posts_
 | 2023-11-03 | [`abhmfg.com`](https://google.com/search?q=abhmfg.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-03 | [`jewell.edu`](https://google.com/search?q=jewell.edu) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-03 | [`microtrain.net`](https://google.com/search?q=microtrain.net) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-11-03 | [`www.laborforce.com`](https://google.com/search?q=www.laborforce.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
-| 2023-11-03 | [`www.agiledisplaysolutions.com`](https://google.com/search?q=www.agiledisplaysolutions.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
-| 2023-11-03 | [`Warning to Advarra & Gadi!`](https://google.com/search?q=Warning+to+Advarra+%26+Gadi%21) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-11-02 | [`Bry-Air`](https://google.com/search?q=Bry-Air) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-11-02 | [`JDRM Engineering`](https://google.com/search?q=JDRM+Engineering) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
