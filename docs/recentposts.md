@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-11-16 | [`krblaw.com`](https://google.com/search?q=krblaw.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-11-16 | [`hsksgreenhalgh.co.uk`](https://google.com/search?q=hsksgreenhalgh.co.uk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-16 | [`24/7 Express Logistics (Unpay-Full public)`](https://google.com/search?q=24%2F7+Express+Logistics+%28Unpay-Full+public%29) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
 | 2023-11-16 | [`Aceromex (Unpay-Full public)`](https://google.com/search?q=Aceromex+%28Unpay-Full+public%29) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
 | 2023-11-16 | [`Chung Hwa Chemical Industrial Works (Unpay-Full public)`](https://google.com/search?q=Chung+Hwa+Chemical+Industrial+Works+%28Unpay-Full+public%29) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-11-03 | [`translink.se`](https://google.com/search?q=translink.se) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-03 | [`tasl.co.th`](https://google.com/search?q=tasl.co.th) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-03 | [`abhmfg.com`](https://google.com/search?q=abhmfg.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-11-03 | [`jewell.edu`](https://google.com/search?q=jewell.edu) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-11-03 | [`microtrain.net`](https://google.com/search?q=microtrain.net) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
