@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-11-17 | [`WellLife Network%20Inc.`](https://google.com/search?q=WellLife+Network%2520Inc.) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
+| 2023-11-17 | [`ATC SA`](https://google.com/search?q=ATC+SA) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-11-17 | [`http://www.selecteducationgroup.com`](https://google.com/search?q=http%3A%2F%2Fwww.selecteducationgroup.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2023-11-17 | [`villanuevadelaserena.es`](https://google.com/search?q=villanuevadelaserena.es) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-17 | [`Consilium staffing%20llc`](https://google.com/search?q=Consilium+staffing%2520llc) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-11-04 | [`infosysbpm.com`](https://google.com/search?q=infosysbpm.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-03 | [`http://www.apers13.com`](https://google.com/search?q=http%3A%2F%2Fwww.apers13.com) | [ciphbit](https://ransomwatch.telemetry.ltd/#/profiles?id=ciphbit) |
 | 2023-11-03 | [`GeoPoint Surveying`](https://google.com/search?q=GeoPoint+Surveying) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-11-03 | [`Livability`](https://google.com/search?q=Livability) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2023-11-03 | [`unimed.coop.br`](https://google.com/search?q=unimed.coop.br) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
