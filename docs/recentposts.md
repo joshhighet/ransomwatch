@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-11-17 | [`http://www.selecteducationgroup.com`](https://google.com/search?q=http%3A%2F%2Fwww.selecteducationgroup.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2023-11-17 | [`villanuevadelaserena.es`](https://google.com/search?q=villanuevadelaserena.es) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-17 | [`Consilium staffing%20llc`](https://google.com/search?q=Consilium+staffing%2520llc) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2023-11-16 | [`krblaw.com`](https://google.com/search?q=krblaw.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-11-03 | [`GeoPoint Surveying`](https://google.com/search?q=GeoPoint+Surveying) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-11-03 | [`Livability`](https://google.com/search?q=Livability) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2023-11-03 | [`unimed.coop.br`](https://google.com/search?q=unimed.coop.br) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-11-03 | [`translink.se`](https://google.com/search?q=translink.se) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
