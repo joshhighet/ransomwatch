@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-11-17 | [`CENTRE D&#039;AUTO P.R.N. SALABERRY IN`](https://google.com/search?q=CENTRE+D%26%23039%3BAUTO+P.R.N.+SALABERRY+IN) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
+| 2023-11-17 | [`McCray &amp; Withrow `](https://google.com/search?q=McCray+%26amp%3B+Withrow+) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
+| 2023-11-17 | [`ajcfood.com`](https://google.com/search?q=ajcfood.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-17 | [`www.kwikind.com`](https://google.com/search?q=www.kwikind.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-11-17 | [`Metro MPLS`](https://google.com/search?q=Metro+MPLS) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-11-17 | [`haesungds.com`](https://google.com/search?q=haesungds.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2023-11-05 | [`egco.com`](https://google.com/search?q=egco.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-05 | [`brlogistics.net`](https://google.com/search?q=brlogistics.net) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-05 | [`bresselouhannaiseintercom.fr`](https://google.com/search?q=bresselouhannaiseintercom.fr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-11-05 | [`benya.capital`](https://google.com/search?q=benya.capital) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-11-05 | [`aseankorea.org`](https://google.com/search?q=aseankorea.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-11-04 | [`tks.co.th`](https://google.com/search?q=tks.co.th) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
