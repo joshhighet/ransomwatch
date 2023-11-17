@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-11-17 | [`www.kwikind.com`](https://google.com/search?q=www.kwikind.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
+| 2023-11-17 | [`Metro MPLS`](https://google.com/search?q=Metro+MPLS) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
+| 2023-11-17 | [`haesungds.com`](https://google.com/search?q=haesungds.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2023-11-17 | [`WellLife Network%20Inc.`](https://google.com/search?q=WellLife+Network%2520Inc.) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2023-11-17 | [`ATC SA`](https://google.com/search?q=ATC+SA) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-11-17 | [`http://www.selecteducationgroup.com`](https://google.com/search?q=http%3A%2F%2Fwww.selecteducationgroup.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2023-11-05 | [`benya.capital`](https://google.com/search?q=benya.capital) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-05 | [`aseankorea.org`](https://google.com/search?q=aseankorea.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-04 | [`tks.co.th`](https://google.com/search?q=tks.co.th) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-11-04 | [`infosysbpm.com`](https://google.com/search?q=infosysbpm.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-11-03 | [`http://www.apers13.com`](https://google.com/search?q=http%3A%2F%2Fwww.apers13.com) | [ciphbit](https://ransomwatch.telemetry.ltd/#/profiles?id=ciphbit) |
-| 2023-11-03 | [`GeoPoint Surveying`](https://google.com/search?q=GeoPoint+Surveying) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
