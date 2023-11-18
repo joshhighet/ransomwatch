@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-11-18 | [`generalrefrig.com`](https://google.com/search?q=generalrefrig.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-18 | [`pruitthealth.com`](https://google.com/search?q=pruitthealth.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-11-17 | [`CENTRE D&#039;AUTO P.R.N. SALABERRY IN`](https://google.com/search?q=CENTRE+D%26%23039%3BAUTO+P.R.N.+SALABERRY+IN) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-11-17 | [`McCray &amp; Withrow `](https://google.com/search?q=McCray+%26amp%3B+Withrow+) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-11-05 | [`global-value-web.com`](https://google.com/search?q=global-value-web.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-05 | [`emiliacentrale.it`](https://google.com/search?q=emiliacentrale.it) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-05 | [`egco.com`](https://google.com/search?q=egco.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-11-05 | [`brlogistics.net`](https://google.com/search?q=brlogistics.net) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
