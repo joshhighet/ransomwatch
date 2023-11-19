@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-11-19 | [`The DMC`](https://google.com/search?q=The+DMC) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-11-18 | [`nealbrothers.co.uk`](https://google.com/search?q=nealbrothers.co.uk) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
 | 2023-11-18 | [`generalrefrig.com`](https://google.com/search?q=generalrefrig.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-18 | [`pruitthealth.com`](https://google.com/search?q=pruitthealth.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-11-05 | [`mat-antriebstechnik.de`](https://google.com/search?q=mat-antriebstechnik.de) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-05 | [`letillet.btprms.com`](https://google.com/search?q=letillet.btprms.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-05 | [`global-value-web.com`](https://google.com/search?q=global-value-web.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-11-05 | [`emiliacentrale.it`](https://google.com/search?q=emiliacentrale.it) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
