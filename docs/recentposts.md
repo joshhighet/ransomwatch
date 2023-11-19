@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-11-19 | [`Tackle West`](https://google.com/search?q=Tackle+West) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
+| 2023-11-19 | [`U.L. COLEMAN COMPANIES`](https://google.com/search?q=U.L.+COLEMAN+COMPANIES) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-11-19 | [`Autonomous Flight - @autonomousfly`](https://google.com/search?q=Autonomous+Flight+-+%40autonomousfly) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-11-19 | [`Al****ia (Unpay)`](https://google.com/search?q=Al%2A%2A%2A%2Aia+%28Unpay%29) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
 | 2023-11-19 | [`The DMC`](https://google.com/search?q=The+DMC) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-11-05 | [`sansasecurity.com`](https://google.com/search?q=sansasecurity.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-05 | [`ospedalecoq.it`](https://google.com/search?q=ospedalecoq.it) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-05 | [`nfcc.gov.my`](https://google.com/search?q=nfcc.gov.my) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-11-05 | [`nckb.com`](https://google.com/search?q=nckb.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-11-05 | [`mat-antriebstechnik.de`](https://google.com/search?q=mat-antriebstechnik.de) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
