@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-11-20 | [`British Library`](https://google.com/search?q=British+Library) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2023-11-19 | [`Tackle West`](https://google.com/search?q=Tackle+West) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-11-19 | [`U.L. COLEMAN COMPANIES`](https://google.com/search?q=U.L.+COLEMAN+COMPANIES) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-11-19 | [`Autonomous Flight - @autonomousfly`](https://google.com/search?q=Autonomous+Flight+-+%40autonomousfly) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-11-05 | [`springeroil.com`](https://google.com/search?q=springeroil.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-05 | [`sansasecurity.com`](https://google.com/search?q=sansasecurity.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-05 | [`ospedalecoq.it`](https://google.com/search?q=ospedalecoq.it) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-11-05 | [`nfcc.gov.my`](https://google.com/search?q=nfcc.gov.my) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
