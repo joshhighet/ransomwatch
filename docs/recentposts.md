@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-11-20 | [`brownintegratedlogistics.com`](https://google.com/search?q=brownintegratedlogistics.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-11-20 | [`www.etude-villa.fr`](https://google.com/search?q=www.etude-villa.fr) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2023-11-20 | [`UPDATE! FEAM Maintenance`](https://google.com/search?q=UPDATE%21+FEAM+Maintenance) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-11-20 | [`British Library`](https://google.com/search?q=British+Library) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2023-11-19 | [`Tackle West`](https://google.com/search?q=Tackle+West) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-11-19 | [`U.L. COLEMAN COMPANIES`](https://google.com/search?q=U.L.+COLEMAN+COMPANIES) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2023-11-05 | [`unique-relations.at`](https://google.com/search?q=unique-relations.at) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2023-11-05 | [`szutest.cz`](https://google.com/search?q=szutest.cz) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-05 | [`studio483.com`](https://google.com/search?q=studio483.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-11-05 | [`springeroil.com`](https://google.com/search?q=springeroil.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-11-05 | [`sansasecurity.com`](https://google.com/search?q=sansasecurity.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-11-05 | [`ospedalecoq.it`](https://google.com/search?q=ospedalecoq.it) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
