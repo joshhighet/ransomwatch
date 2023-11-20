@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-11-20 | [`sabre.co.uk`](https://google.com/search?q=sabre.co.uk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-11-20 | [`nybravestfcu.org`](https://google.com/search?q=nybravestfcu.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-11-20 | [`Hampton Newport News CSB`](https://google.com/search?q=Hampton+Newport+News+CSB) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-11-20 | [`onyourmark.org`](https://google.com/search?q=onyourmark.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-20 | [`brownintegratedlogistics.com`](https://google.com/search?q=brownintegratedlogistics.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-20 | [`www.etude-villa.fr`](https://google.com/search?q=www.etude-villa.fr) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2023-11-05 | [`Corsica-Ferries`](https://google.com/search?q=Corsica-Ferries) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-11-05 | [`lathamcenters.org`](https://google.com/search?q=lathamcenters.org) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
 | 2023-11-05 | [`SMH Group`](https://google.com/search?q=SMH+Group) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2023-11-05 | [`Assurius.be`](https://google.com/search?q=Assurius.be) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
-| 2023-11-05 | [`unique-relations.at`](https://google.com/search?q=unique-relations.at) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
-| 2023-11-05 | [`szutest.cz`](https://google.com/search?q=szutest.cz) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
