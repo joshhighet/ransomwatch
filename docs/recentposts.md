@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-11-21 | [`Verhelst`](https://google.com/search?q=Verhelst) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
+| 2023-11-21 | [`Petersen Health Care`](https://google.com/search?q=Petersen+Health+Care) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
+| 2023-11-21 | [`Paul Stuart`](https://google.com/search?q=Paul+Stuart) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2023-11-21 | [`qautomotive.com.au`](https://google.com/search?q=qautomotive.com.au) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-21 | [`phihydraulics.com`](https://google.com/search?q=phihydraulics.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-21 | [`martinique.no`](https://google.com/search?q=martinique.no) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2023-11-06 | [`Mount St. Mary's Seminary`](https://google.com/search?q=Mount+St.+Mary%27s+Seminary) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2023-11-06 | [`GEOCOM`](https://google.com/search?q=GEOCOM) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2023-11-06 | [`MultiMasters`](https://google.com/search?q=MultiMasters) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2023-11-06 | [`UTI Group`](https://google.com/search?q=UTI+Group) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2023-11-06 | [`howlandlaw.net`](https://google.com/search?q=howlandlaw.net) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-11-06 | [`concretevalue.com`](https://google.com/search?q=concretevalue.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
