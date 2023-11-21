@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-11-21 | [`qautomotive.com.au`](https://google.com/search?q=qautomotive.com.au) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-11-21 | [`phihydraulics.com`](https://google.com/search?q=phihydraulics.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-11-21 | [`martinique.no`](https://google.com/search?q=martinique.no) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-21 | [`St Edmund's College & Prep School`](https://google.com/search?q=St+Edmund%27s+College+%26+Prep+School) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2023-11-21 | [`*** ****e**`](https://google.com/search?q=%2A%2A%2A+%2A%2A%2A%2Ae%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-11-21 | [`Bolidt`](https://google.com/search?q=Bolidt) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2023-11-06 | [`UTI Group`](https://google.com/search?q=UTI+Group) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2023-11-06 | [`howlandlaw.net`](https://google.com/search?q=howlandlaw.net) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-06 | [`concretevalue.com`](https://google.com/search?q=concretevalue.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-11-06 | [`Comfloresta`](https://google.com/search?q=Comfloresta) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-11-06 | [`Currax Pharmaceuticals`](https://google.com/search?q=Currax+Pharmaceuticals) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-11-05 | [`Advarra leak`](https://google.com/search?q=Advarra+leak) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
