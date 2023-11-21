@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-11-21 | [`helifrusa.com`](https://google.com/search?q=helifrusa.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-21 | [`www.enware.com.au`](https://google.com/search?q=www.enware.com.au) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-11-21 | [`rcmoore.com`](https://google.com/search?q=rcmoore.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-11-20 | [`sabre.co.uk`](https://google.com/search?q=sabre.co.uk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-11-05 | [`Zon Beachside`](https://google.com/search?q=Zon+Beachside) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-11-05 | [`Canadian Psychological Association`](https://google.com/search?q=Canadian+Psychological+Association) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-11-05 | [`penanshin`](https://google.com/search?q=penanshin) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-11-05 | [`Corsica-Ferries`](https://google.com/search?q=Corsica-Ferries) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
