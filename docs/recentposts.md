@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-11-23 | [`officinaverdedesign.it`](https://google.com/search?q=officinaverdedesign.it) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-23 | [`B%2BP Ger%C3%BCstbau%20GmbH`](https://google.com/search?q=B%252BP+Ger%25C3%25BCstbau%2520GmbH) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2023-11-23 | [`DM Civil%20Co.`](https://google.com/search?q=DM+Civil%2520Co.) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2023-11-23 | [`Ingo Money%20Inc`](https://google.com/search?q=Ingo+Money%2520Inc) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-11-08 | [`Bakrie Group & Bakrie Sumatera Plantations`](https://google.com/search?q=Bakrie+Group+%26+Bakrie+Sumatera+Plantations) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-11-07 | [`Indah Water Konsortium`](https://google.com/search?q=Indah+Water+Konsortium) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2023-11-07 | [`Truck Bodies & Equipment International`](https://google.com/search?q=Truck+Bodies+%26+Equipment+International) | [lorenz](https://ransomwatch.telemetry.ltd/#/profiles?id=lorenz) |
-| 2023-11-07 | [`www.nicecloud.nl`](https://google.com/search?q=www.nicecloud.nl) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
