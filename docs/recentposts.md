@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-11-24 | [`talentum.com.co`](https://google.com/search?q=talentum.com.co) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
+| 2023-11-24 | [`Energy China`](https://google.com/search?q=Energy+China) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2023-11-24 | [`ribolia.com`](https://google.com/search?q=ribolia.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-24 | [`preidlhof.it`](https://google.com/search?q=preidlhof.it) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-24 | [`nrtw.org`](https://google.com/search?q=nrtw.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-11-08 | [`amberhillgroup.com`](https://google.com/search?q=amberhillgroup.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-08 | [`www.califanocarrelli.it`](https://google.com/search?q=www.califanocarrelli.it) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2023-11-08 | [`www.orionlibrary.org`](https://google.com/search?q=www.orionlibrary.org) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
-| 2023-11-08 | [`Michael Garron Hospi tal`](https://google.com/search?q=Michael+Garron+Hospi+tal) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2023-11-08 | [`sheehyware.com`](https://google.com/search?q=sheehyware.com) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
