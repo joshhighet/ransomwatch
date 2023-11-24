@@ -4,6 +4,10 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-11-24 | [`ribolia.com`](https://google.com/search?q=ribolia.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-11-24 | [`preidlhof.it`](https://google.com/search?q=preidlhof.it) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-11-24 | [`nrtw.org`](https://google.com/search?q=nrtw.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-11-24 | [`LCA Consultores`](https://google.com/search?q=LCA+Consultores) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-11-24 | [`TJM PRODUCTS PTY. LTD`](https://google.com/search?q=TJM+PRODUCTS+PTY.+LTD) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-11-24 | [`Spectrum Solutions LLC`](https://google.com/search?q=Spectrum+Solutions+LLC) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-11-23 | [`des-ae.com`](https://google.com/search?q=des-ae.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -200,7 +204,3 @@ _last `200` posts_
 | 2023-11-08 | [`www.orionlibrary.org`](https://google.com/search?q=www.orionlibrary.org) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-11-08 | [`Michael Garron Hospi tal`](https://google.com/search?q=Michael+Garron+Hospi+tal) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-11-08 | [`sheehyware.com`](https://google.com/search?q=sheehyware.com) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-11-08 | [`foley.k12.mn.us`](https://google.com/search?q=foley.k12.mn.us) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-11-08 | [`www.avianor.com`](https://google.com/search?q=www.avianor.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
-| 2023-11-08 | [`oefederal.org`](https://google.com/search?q=oefederal.org) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
-| 2023-11-08 | [`gitiusa.com`](https://google.com/search?q=gitiusa.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
