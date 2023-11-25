@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-11-25 | [`kenso.com.my`](https://google.com/search?q=kenso.com.my) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-25 | [`Hampton Newport News CSB (Last chance)`](https://google.com/search?q=Hampton+Newport+News+CSB+%28Last+chance%29) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-11-24 | [`talentum.com.co`](https://google.com/search?q=talentum.com.co) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-11-24 | [`Energy China`](https://google.com/search?q=Energy+China) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-11-09 | [`Crown Supply Co`](https://google.com/search?q=Crown+Supply+Co) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-11-08 | [`fawry.com`](https://google.com/search?q=fawry.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-08 | [`amberhillgroup.com`](https://google.com/search?q=amberhillgroup.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-11-08 | [`www.califanocarrelli.it`](https://google.com/search?q=www.califanocarrelli.it) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
