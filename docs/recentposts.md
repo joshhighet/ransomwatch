@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-11-26 | [`AlJaber Engineering`](https://google.com/search?q=AlJaber+Engineering) | [ransomexx](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomexx) |
 | 2023-11-26 | [`ALAB laboratoria (Unpay)`](https://google.com/search?q=ALAB+laboratoria+%28Unpay%29) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
 | 2023-11-25 | [`kenso.com.my`](https://google.com/search?q=kenso.com.my) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-25 | [`Hampton Newport News CSB (Last chance)`](https://google.com/search?q=Hampton+Newport+News+CSB+%28Last+chance%29) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-11-09 | [`Conditioned Air`](https://google.com/search?q=Conditioned+Air) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-11-09 | [`Inclinator`](https://google.com/search?q=Inclinator) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-11-09 | [`Crown Supply Co`](https://google.com/search?q=Crown+Supply+Co) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-11-08 | [`fawry.com`](https://google.com/search?q=fawry.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
