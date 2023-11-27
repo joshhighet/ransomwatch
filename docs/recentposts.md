@@ -4,6 +4,10 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-11-27 | [`carrellblanton.com`](https://google.com/search?q=carrellblanton.com) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
+| 2023-11-27 | [`Legacy Mail Manageme nt`](https://google.com/search?q=Legacy+Mail+Manageme+nt) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
+| 2023-11-27 | [`Co. Ltd.`](https://google.com/search?q=Co.+Ltd.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2023-11-27 | [`Plastic Molding Technology Inc.`](https://google.com/search?q=Plastic+Molding+Technology+Inc.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-11-27 | [`http://www.hhoh.org`](https://google.com/search?q=http%3A%2F%2Fwww.hhoh.org) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2023-11-27 | [`http://newriver.edu`](https://google.com/search?q=http%3A%2F%2Fnewriver.edu) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2023-11-27 | [`sillslegal`](https://google.com/search?q=sillslegal) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -200,7 +204,3 @@ _last `200` posts_
 | 2023-11-09 | [`JS Hovnanian & Sons`](https://google.com/search?q=JS+Hovnanian+%26+Sons) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-11-09 | [`Identification Products`](https://google.com/search?q=Identification+Products) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-11-09 | [`M.R. Williams`](https://google.com/search?q=M.R.+Williams) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-11-09 | [`DESIGNA Verkehrsleittechnik`](https://google.com/search?q=DESIGNA+Verkehrsleittechnik) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-11-09 | [`The Supply Room Companies & Citron WorkSpaces`](https://google.com/search?q=The+Supply+Room+Companies+%26+Citron+WorkSpaces) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-11-09 | [`Ackerman-Estvold`](https://google.com/search?q=Ackerman-Estvold) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-11-09 | [`Meindl`](https://google.com/search?q=Meindl) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
