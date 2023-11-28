@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-11-28 | [`North Texas Municipal Water District (US)`](https://google.com/search?q=North+Texas+Municipal+Water+District+%28US%29) | [daixin](https://ransomwatch.telemetry.ltd/#/profiles?id=daixin) |
+| 2023-11-28 | [`First Financial Security`](https://google.com/search?q=First+Financial+Security) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2023-11-27 | [`NC Central University`](https://google.com/search?q=NC+Central+University) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2023-11-27 | [`Bangkok University`](https://google.com/search?q=Bangkok+University) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2023-11-27 | [`Imt - Press Release`](https://google.com/search?q=Imt+-+Press+Release) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-11-09 | [`City Furniture Hire`](https://google.com/search?q=City+Furniture+Hire) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-11-09 | [`Autocommerce`](https://google.com/search?q=Autocommerce) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-11-09 | [`SALUS Controls`](https://google.com/search?q=SALUS+Controls) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2023-11-09 | [`gotocfr.com`](https://google.com/search?q=gotocfr.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-11-09 | [`Simons Petroleum/Max um Petroleum/Pilot T homas Logistics`](https://google.com/search?q=Simons+Petroleum%2FMax+um+Petroleum%2FPilot+T+homas+Logistics) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
