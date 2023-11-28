@@ -4,6 +4,15 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-11-28 | [`Byfod`](https://google.com/search?q=Byfod) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-11-28 | [`Retailer Web Services`](https://google.com/search?q=Retailer+Web+Services) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-11-28 | [`Sparex`](https://google.com/search?q=Sparex) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-11-28 | [`Continental Shipping Line`](https://google.com/search?q=Continental+Shipping+Line) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-11-28 | [`MooreCo`](https://google.com/search?q=MooreCo) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-11-28 | [`AMERICAN INSULATED GLASS`](https://google.com/search?q=AMERICAN+INSULATED+GLASS) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-11-28 | [`Elston-nationwide`](https://google.com/search?q=Elston-nationwide) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-11-28 | [`Thillens`](https://google.com/search?q=Thillens) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-11-28 | [`SinglePoint Outsourcing`](https://google.com/search?q=SinglePoint+Outsourcing) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-11-28 | [`https://www.sprintersports.com`](https://google.com/search?q=https%3A%2F%2Fwww.sprintersports.com) | [metaencryptor](https://ransomwatch.telemetry.ltd/#/profiles?id=metaencryptor) |
 | 2023-11-28 | [`FYIdoctors`](https://google.com/search?q=FYIdoctors) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2023-11-28 | [`Axiom Construction &amp; Consulting`](https://google.com/search?q=Axiom+Construction+%26amp%3B+Consulting) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
@@ -195,12 +204,3 @@ _last `200` posts_
 | 2023-11-11 | [`shawneemilling.com`](https://google.com/search?q=shawneemilling.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
 | 2023-11-11 | [`estes-express.com`](https://google.com/search?q=estes-express.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-11 | [`motordepot.co.uk`](https://google.com/search?q=motordepot.co.uk) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
-| 2023-11-11 | [`Dragos Inc.`](https://google.com/search?q=Dragos+Inc.) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-11-10 | [`floortex.com`](https://google.com/search?q=floortex.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-11-10 | [`Mariposa Landscapes, Inc`](https://google.com/search?q=Mariposa+Landscapes%2C+Inc) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-11-10 | [`morningstarco.com`](https://google.com/search?q=morningstarco.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-11-10 | [`Azienda Ospedaliera Universitaria Integrata di Verona`](https://google.com/search?q=Azienda+Ospedaliera+Universitaria+Integrata+di+Verona) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2023-11-10 | [`aei.cc`](https://google.com/search?q=aei.cc) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-11-09 | [`www.actionsantetravail.fr`](https://google.com/search?q=www.actionsantetravail.fr) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
-| 2023-11-09 | [`Sinotech Group Taiwan`](https://google.com/search?q=Sinotech+Group+Taiwan) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-11-09 | [`www.ezifloor.com.au`](https://google.com/search?q=www.ezifloor.com.au) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
