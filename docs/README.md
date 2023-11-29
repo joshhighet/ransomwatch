@@ -2,17 +2,17 @@
 ## summary
 _november 29th, 2023_
 
-currently tracking `163` groups across `299` relays & mirrors - _`97` currently online_
+currently tracking `163` groups across `299` relays & mirrors - _`89` currently online_
 
-⏲ there have been `29` posts within the `last 24 hours`
+⏲ there have been `21` posts within the `last 24 hours`
 
-🦈 there have been `390` posts within the `month of november`
+🦈 there have been `391` posts within the `month of november`
 
-🪐 there have been `1304` posts within the `last 90 days`
+🪐 there have been `1294` posts within the `last 90 days`
 
-🏚 there have been `4312` posts within the `year of 2023`
+🏚 there have been `4313` posts within the `year of 2023`
 
-🦕 there have been `9002` posts `since the dawn of ransomwatch`
+🦕 there have been `9003` posts `since the dawn of ransomwatch`
 
 there are `96` custom parsers indexing posts
 
