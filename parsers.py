@@ -1018,7 +1018,7 @@ def ragroup():
 def eightbase():
     stdlog('parser: ' + '8base')
     parser = '''
-    awk '/class="stretched-link">/{getline; print}' source/8base-*.html | sed -e 's/^[ \t]*//'
+    awk '/class="stretched-link">/{getline; print}' source/8base-*.html | sed -e 's/^[ \t]*//' | sort | uniq
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:

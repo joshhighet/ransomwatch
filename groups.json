@@ -4480,6 +4480,16 @@
                 "updated": "2023-11-03 14:35:45.042885",
                 "lastscrape": "2023-11-03 14:35:45.042873",
                 "enabled": true
+            },
+            {
+                "fqdn": "xb6q2aggycmlcrjtbjendcnnwpmmwbosqaugxsqb4nx6cmod3emy7sad.onion",
+                "title": null,
+                "version": 3,
+                "slug": "http://xb6q2aggycmlcrjtbjendcnnwpmmwbosqaugxsqb4nx6cmod3emy7sad.onion",
+                "available": false,
+                "updated": null,
+                "lastscrape": "2021-05-01 00:00:00.000000",
+                "enabled": true
             }
         ],
         "profile": []
