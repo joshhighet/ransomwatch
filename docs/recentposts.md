@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-11-30 | [`pcli.com`](https://google.com/search?q=pcli.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-11-30 | [`ontariopork.on.ca`](https://google.com/search?q=ontariopork.on.ca) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-29 | [`Chetu `](https://google.com/search?q=Chetu+) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-11-29 | [`Protected: Name is hidden`](https://google.com/search?q=Protected%3A+Name+is+hidden) | [ransomblog_noname](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomblog_noname) |
 | 2023-11-29 | [`***s****** ***t*** *e****** ***`](https://google.com/search?q=%2A%2A%2As%2A%2A%2A%2A%2A%2A+%2A%2A%2At%2A%2A%2A+%2Ae%2A%2A%2A%2A%2A%2A+%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-11-13 | [`muellersystems.com`](https://google.com/search?q=muellersystems.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-13 | [`msim.de`](https://google.com/search?q=msim.de) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-13 | [`www.putzelelectric.com`](https://google.com/search?q=www.putzelelectric.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
-| 2023-11-13 | [`www.mprlift.se`](https://google.com/search?q=www.mprlift.se) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
-| 2023-11-12 | [`aegean.gr`](https://google.com/search?q=aegean.gr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
