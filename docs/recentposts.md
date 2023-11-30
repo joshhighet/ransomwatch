@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-11-30 | [`hnncsb.org`](https://google.com/search?q=hnncsb.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-30 | [`Giti`](https://google.com/search?q=Giti) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2023-11-30 | [`WemaBank`](https://google.com/search?q=WemaBank) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2023-11-30 | [`Es Saadi`](https://google.com/search?q=Es+Saadi) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-11-16 | [`FEAM Maintenance`](https://google.com/search?q=FEAM+Maintenance) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-11-16 | [`epsteinlawcorp.com`](https://google.com/search?q=epsteinlawcorp.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2023-11-16 | [`goodhopeholdings.com`](https://google.com/search?q=goodhopeholdings.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-11-16 | [`Admilla ELAP`](https://google.com/search?q=Admilla+ELAP) | [ransomexx](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomexx) |
