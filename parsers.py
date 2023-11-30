@@ -1213,3 +1213,14 @@ def hunters():
         errlog('hunters: ' + 'parsing fail')
     for post in posts:
         appender(post, 'hunters')
+
+def meow():
+    stdlog('parser: ' + 'meow')
+    parser = '''
+    jq -r '.data[].title' source/meow-*.html || true
+    '''
+    posts = runshellcmd(parser)
+    if len(posts) == 1:
+        errlog('meow: ' + 'parsing fail')
+    for post in posts:
+        appender(post, 'meow')
