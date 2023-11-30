@@ -4711,7 +4711,7 @@
         "captcha": false,
         "parser": true,
         "javascript_render": false,
-        "meta": null,
+        "meta": "intense javascript challenge, fetching will often fail even with 60s grace added timeout",
         "locations": [
             {
                 "fqdn": "knight3xppu263m7g4ag3xlit2qxpryjwueobh7vjdc3zrscqlfu3pqd.onion",
