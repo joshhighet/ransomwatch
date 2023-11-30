@@ -64,6 +64,9 @@ def main(webpage):
             driver.implicitly_wait(3)
             # driver.add_cookie({"name": "ddosproteck", "value": "lol"})
             # driver.find_element_by_css_selector('button').click()
+        if 'snatchteam' or 'hl66646wtlp2n' in webpage:
+            time.sleep(7)
+            driver.implicitly_wait(3)
         stdlog('geckodriver: ' + 'waiting ' + str(sleeptz) + ' seconds to render elements')
         time.sleep(sleeptz)
         '''

@@ -2060,7 +2060,7 @@
         "name": "snatch",
         "captcha": false,
         "parser": true,
-        "javascript_render": false,
+        "javascript_render": true,
         "meta": null,
         "locations": [
             {
@@ -2088,9 +2088,9 @@
                 "title": "401 Unauthorized",
                 "version": 0,
                 "slug": "http://dwhyj2.top",
-                "available": true,
-                "updated": "2023-11-30 06:14:24.879908",
-                "lastscrape": "2023-11-30 06:14:24.879895",
+                "available": false,
+                "updated": "2023-11-30 22:11:53.078310",
+                "lastscrape": "2023-11-30 22:11:53.078300",
                 "enabled": true
             },
             {
@@ -2099,8 +2099,8 @@
                 "version": 0,
                 "slug": "https://filesnatchcloud.top",
                 "available": true,
-                "updated": "2023-11-30 06:14:26.740306",
-                "lastscrape": "2023-11-30 06:14:26.740293",
+                "updated": "2023-11-30 22:16:43.750487",
+                "lastscrape": "2023-11-30 22:16:43.750476",
                 "enabled": true
             },
             {
@@ -2109,8 +2109,8 @@
                 "version": 0,
                 "slug": "http://sn76920193ch.top",
                 "available": true,
-                "updated": "2023-11-30 06:14:27.635105",
-                "lastscrape": "2023-11-30 06:14:27.635090",
+                "updated": "2023-11-30 22:16:58.467316",
+                "lastscrape": "2023-11-30 22:16:58.467305",
                 "enabled": true
             },
             {
@@ -2119,8 +2119,8 @@
                 "version": 0,
                 "slug": "https://snatchnews.top",
                 "available": true,
-                "updated": "2023-11-30 06:14:28.917263",
-                "lastscrape": "2023-11-30 06:14:28.917249",
+                "updated": "2023-11-30 22:17:13.220500",
+                "lastscrape": "2023-11-30 22:17:13.220491",
                 "enabled": true
             },
             {
@@ -2128,9 +2128,19 @@
                 "title": "401 Unauthorized",
                 "version": 0,
                 "slug": "http://sntech2ch.top",
+                "available": false,
+                "updated": "2023-11-30 22:12:12.409102",
+                "lastscrape": "2023-11-30 22:12:12.409081",
+                "enabled": true
+            },
+            {
+                "fqdn": "snatchteam.cc",
+                "title": "News",
+                "version": 0,
+                "slug": "https://snatchteam.cc",
                 "available": true,
-                "updated": "2023-11-30 06:14:29.942141",
-                "lastscrape": "2023-11-30 06:14:29.942119",
+                "updated": "2023-11-30 22:17:45.436921",
+                "lastscrape": "2023-11-30 22:17:45.436911",
                 "enabled": true
             }
         ],
