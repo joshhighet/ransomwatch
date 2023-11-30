@@ -3,7 +3,8 @@ import json
 import requests
 
 if os.path.exists('groups.json'):
-    groups = json.load(open('groups.json'))
+    with open('groups.json', 'r') as f:
+        groups = json.load(f)
 else:
     groups = requests.get('https://ransomwhat.telemetry.ltd/groups').json()
 eventdict = []

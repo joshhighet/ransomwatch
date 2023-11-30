@@ -67,6 +67,7 @@ def main(webpage):
             driver.quit()
             stdlog('chromium: ' + 'webdriver quit')
         except UnboundLocalError:
+            errlog('chromium: ' + 'webdriver not started, cannot quit!')
             pass
         return None
     if driver:
