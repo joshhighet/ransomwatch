@@ -7,6 +7,8 @@ _last `200` posts_
 | 2023-11-30 | [`Giti`](https://google.com/search?q=Giti) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2023-11-30 | [`WemaBank`](https://google.com/search?q=WemaBank) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2023-11-30 | [`Es Saadi`](https://google.com/search?q=Es+Saadi) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
+| 2023-11-30 | [`Bauwerk Boen Group`](https://google.com/search?q=Bauwerk+Boen+Group) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
+| 2023-11-30 | [`Rudolf GmbH & Rudolf Venture Chemicals Inc - Press Release`](https://google.com/search?q=Rudolf+GmbH+%26+Rudolf+Venture+Chemicals+Inc+-+Press+Release) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2023-11-30 | [`A**** *********** Inc`](https://google.com/search?q=A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A+Inc) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-11-30 | [`www.andersonandjones.com`](https://google.com/search?q=www.andersonandjones.com) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2023-11-30 | [`Zenithpharma`](https://google.com/search?q=Zenithpharma) | [meow](https://ransomwatch.telemetry.ltd/#/profiles?id=meow) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-11-16 | [`epsteinlawcorp.com`](https://google.com/search?q=epsteinlawcorp.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2023-11-16 | [`goodhopeholdings.com`](https://google.com/search?q=goodhopeholdings.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-16 | [`Admilla ELAP`](https://google.com/search?q=Admilla+ELAP) | [ransomexx](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomexx) |
-| 2023-11-16 | [`Toyota Financial`](https://google.com/search?q=Toyota+Financial) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
-| 2023-11-15 | [`owensgroup.uk`](https://google.com/search?q=owensgroup.uk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
