@@ -1202,3 +1202,14 @@ def losttrust():
         errlog('losttrust: ' + 'parsing fail')
     for post in posts:
         appender(post, 'losttrust')
+
+def hunters():
+    stdlog('parser: ' + 'hunters')
+    parser = '''
+    jq -r '.[].title' source/hunters-*.html || true
+    '''
+    posts = runshellcmd(parser)
+    if len(posts) == 1:
+        errlog('hunters: ' + 'parsing fail')
+    for post in posts:
+        appender(post, 'hunters')

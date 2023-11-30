@@ -316,6 +316,7 @@ if args.mode == 'parse':
     parsers.threeam()
     parsers.cryptbb()
     parsers.losttrust()
+    parsers.hunters()
     stdlog('ransomwatch: ' + 'parse run complete')
 
 if args.mode == 'list':
