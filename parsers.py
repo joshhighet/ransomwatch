@@ -733,7 +733,7 @@ def icefire():
 def donutleaks():
     stdlog('parser: ' + 'donutleaks')
     parser = '''
-    grep '<h2 class="post-title">' source/donutleaks-*.html --no-filename | cut -d '>' -f 3 | cut -d '<' -f 1
+    grep '<h2 class="post-title">' source/donutleaks-*.html --no-filename | cut -d '>' -f 3 | cut -d '<' -f 1 | sed -e 's/\&amp;/\&/g'
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:

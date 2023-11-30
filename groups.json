@@ -3776,7 +3776,7 @@
         "name": "donutleaks",
         "captcha": false,
         "parser": true,
-        "javascript_render": false,
+        "javascript_render": true,
         "meta": "builder location - 3t4rdgrd5n6twobig5pyjqhf6qzocwau6wv644nrssinlyuf34g3zoqd.onion",
         "locations": [
             {
