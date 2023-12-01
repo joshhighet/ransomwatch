@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-12-01 | [`Hello Jacobs from RVC`](https://google.com/search?q=Hello+Jacobs+from+RVC) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
+| 2023-12-01 | [`Hello Cristina from Law Offices of John E Hill`](https://google.com/search?q=Hello+Cristina+from+Law+Offices+of+John+E+Hill) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2023-12-01 | [`Iptor`](https://google.com/search?q=Iptor) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-12-01 | [`elsewedyelectric.com`](https://google.com/search?q=elsewedyelectric.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-01 | [`Kellett %26%20Bartholow%20PLLC`](https://google.com/search?q=Kellett+%2526%2520Bartholow%2520PLLC) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-11-16 | [`krblaw.com`](https://google.com/search?q=krblaw.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-16 | [`hsksgreenhalgh.co.uk`](https://google.com/search?q=hsksgreenhalgh.co.uk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-16 | [`24/7 Express Logistics (Unpay-Full public)`](https://google.com/search?q=24%2F7+Express+Logistics+%28Unpay-Full+public%29) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
-| 2023-11-16 | [`Aceromex (Unpay-Full public)`](https://google.com/search?q=Aceromex+%28Unpay-Full+public%29) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
-| 2023-11-16 | [`Chung Hwa Chemical Industrial Works (Unpay-Full public)`](https://google.com/search?q=Chung+Hwa+Chemical+Industrial+Works+%28Unpay-Full+public%29) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
