@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-12-01 | [`www.grupoprides.com`](https://google.com/search?q=www.grupoprides.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-12-01 | [`HTC Global Services`](https://google.com/search?q=HTC+Global+Services) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-11-30 | [`hnncsb.org`](https://google.com/search?q=hnncsb.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-30 | [`Giti`](https://google.com/search?q=Giti) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-11-16 | [`communitydentalme.org`](https://google.com/search?q=communitydentalme.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-16 | [`thewalkerschool`](https://google.com/search?q=thewalkerschool) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-11-16 | [`FEAM Maintenance`](https://google.com/search?q=FEAM+Maintenance) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-11-16 | [`epsteinlawcorp.com`](https://google.com/search?q=epsteinlawcorp.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
