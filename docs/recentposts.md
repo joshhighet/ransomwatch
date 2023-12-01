@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-12-01 | [`Kellett %26%20Bartholow%20PLLC`](https://google.com/search?q=Kellett+%2526%2520Bartholow%2520PLLC) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
+| 2023-12-01 | [`http://centroedilemilano.com`](https://google.com/search?q=http%3A%2F%2Fcentroedilemilano.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2023-12-01 | [`Agamatrix`](https://google.com/search?q=Agamatrix) | [meow](https://ransomwatch.telemetry.ltd/#/profiles?id=meow) |
 | 2023-12-01 | [`Dörr Group`](https://google.com/search?q=D%C3%B6rr+Group) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-12-01 | [`www.grupoprides.com`](https://google.com/search?q=www.grupoprides.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-11-16 | [`Chung Hwa Chemical Industrial Works (Unpay-Full public)`](https://google.com/search?q=Chung+Hwa+Chemical+Industrial+Works+%28Unpay-Full+public%29) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
 | 2023-11-16 | [`SUMMIT VETERINARY PHARMACEUTICALS LIMITED (Unpay)`](https://google.com/search?q=SUMMIT+VETERINARY+PHARMACEUTICALS+LIMITED+%28Unpay%29) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
 | 2023-11-16 | [`Informist Media (Unpay)`](https://google.com/search?q=Informist+Media+%28Unpay%29) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
-| 2023-11-16 | [`planethomelending.com`](https://google.com/search?q=planethomelending.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-11-16 | [`communitydentalme.org`](https://google.com/search?q=communitydentalme.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
