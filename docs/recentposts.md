@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-12-01 | [`Agamatrix`](https://google.com/search?q=Agamatrix) | [meow](https://ransomwatch.telemetry.ltd/#/profiles?id=meow) |
+| 2023-12-01 | [`Dörr Group`](https://google.com/search?q=D%C3%B6rr+Group) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-12-01 | [`www.grupoprides.com`](https://google.com/search?q=www.grupoprides.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-12-01 | [`HTC Global Services`](https://google.com/search?q=HTC+Global+Services) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-11-30 | [`hnncsb.org`](https://google.com/search?q=hnncsb.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-11-16 | [`Informist Media (Unpay)`](https://google.com/search?q=Informist+Media+%28Unpay%29) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
 | 2023-11-16 | [`planethomelending.com`](https://google.com/search?q=planethomelending.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-16 | [`communitydentalme.org`](https://google.com/search?q=communitydentalme.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-11-16 | [`thewalkerschool`](https://google.com/search?q=thewalkerschool) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-11-16 | [`FEAM Maintenance`](https://google.com/search?q=FEAM+Maintenance) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
