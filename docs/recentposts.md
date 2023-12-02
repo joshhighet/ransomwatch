@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-12-02 | [`royaleinternational.com`](https://google.com/search?q=royaleinternational.com) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-12-02 | [`www.inseinc.com`](https://google.com/search?q=www.inseinc.com) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2023-12-02 | [`IRC Engineering`](https://google.com/search?q=IRC+Engineering) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-12-01 | [`Jerry Pate Energy (hack from Saltmarsh Financial Advisors)`](https://google.com/search?q=Jerry+Pate+Energy+%28hack+from+Saltmarsh+Financial+Advisors%29) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-11-17 | [`ATC SA`](https://google.com/search?q=ATC+SA) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-11-17 | [`http://www.selecteducationgroup.com`](https://google.com/search?q=http%3A%2F%2Fwww.selecteducationgroup.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2023-11-17 | [`villanuevadelaserena.es`](https://google.com/search?q=villanuevadelaserena.es) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-11-17 | [`Consilium staffing%20llc`](https://google.com/search?q=Consilium+staffing%2520llc) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
