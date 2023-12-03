@@ -1,14 +1,14 @@
 
 ## summary
-_december 2nd, 2023_
+_december 3rd, 2023_
 
-currently tracking `166` groups across `308` relays & mirrors - _`103` currently online_
+currently tracking `166` groups across `308` relays & mirrors - _`115` currently online_
 
 ⏲ there have been `5` posts within the `last 24 hours`
 
 🦈 there have been `16` posts within the `month of december`
 
-🪐 there have been `1316` posts within the `last 90 days`
+🪐 there have been `1315` posts within the `last 90 days`
 
 🏚 there have been `4385` posts within the `year of 2023`
 
