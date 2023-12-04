@@ -823,8 +823,9 @@ def ransomblog_noname():
         
 def medusa():
     stdlog('parser: ' + 'medusa')
+    # cat source/medusa-medusaxko7*.html | jq -r '.list[].company_name' || true
     parser = '''
-    cat source/medusa-medusaxko7*.html | jq -r '.list[].company_name' || true
+    cat source/medusa-medusaxko7*.html | jq -r '.list[].company_name' | perl -MHTML::Entities -ne 'print decode_entities($_)' || true
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
