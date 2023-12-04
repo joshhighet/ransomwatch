@@ -177,7 +177,7 @@ def hiveleak():
 def avaddon():
     stdlog('parser: ' + 'avaddon')
     parser = '''
-    grep 'h6' source/avaddon-*.html --no-filename | cut -d ">" -f3 | sed -e s/'<\/a'//
+    grep 'h6' source/avaddon-*.html --no-filename | cut -d ">" -f3 | sed -e s/'<\/a'// -e 's/&amp;/\&/g'
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
@@ -188,7 +188,7 @@ def avaddon():
 def xinglocker():
     stdlog('parser: ' + 'xinglocker')
     parser = '''
-    grep "h3" -A1 source/xinglocker-*.html --no-filename | grep -v h3 | awk -v n=4 'NR%n==1' | sed -e 's/^[ \t]*//' -e 's/^ *//g' -e 's/[[:space:]]*$//'
+    grep "h3" -A1 source/xinglocker-*.html --no-filename | grep -v h3 | awk -v n=4 'NR%n==1' | sed -e 's/^[ \t]*//' -e 's/^ *//g' -e 's/[[:space:]]*$//' -e 's/&amp;/\&/g'
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
@@ -280,7 +280,7 @@ def babuk():
 def ransomexx():
     stdlog('parser: ' + 'ransomexx')
     parser = '''
-    grep 'card-title' source/ransomexx-*.html --no-filename | cut -d '>' -f2 | sed -e s/'<\/h5'// -e 's/^ *//g' -e 's/[[:space:]]*$//'
+    grep 'card-title' source/ransomexx-*.html --no-filename | cut -d '>' -f2 | sed -e s/'<\/h5'// -e 's/^ *//g' -e 's/[[:space:]]*$//' -e 's/&amp;/\&/g'
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
@@ -315,7 +315,7 @@ def pay2key():
 def azroteam():
     stdlog('parser: ' + 'azroteam')
     parser = '''
-    grep "h3" -A1 source/aztroteam-*.html --no-filename | grep -v h3 | awk -v n=4 'NR%n==1' | sed -e 's/^[ \t]*//'
+    grep "h3" -A1 source/aztroteam-*.html --no-filename | grep -v h3 | awk -v n=4 'NR%n==1' | sed -e 's/^[ \t]*//' -e 's/&amp;/\&/g'
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
@@ -430,7 +430,7 @@ def spook():
 def quantum():
     stdlog('parser: ' + 'quantum')
     parser = '''
-    awk '/h2/{getline; print}' source/quantum-*.html | sed -e 's/^ *//g' -e '/<\/a>/d'
+    awk '/h2/{getline; print}' source/quantum-*.html | sed -e 's/^ *//g' -e '/<\/a>/d' -e 's/&amp;/\&/g'
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
@@ -464,7 +464,7 @@ def lv():
 def midas():
     stdlog('parser: ' + 'midas')
     parser = '''
-    grep "/h3" source/midas-*.html --no-filename | sed -e 's/<\/h3>//' -e 's/^ *//g' -e '/^$/d' -e 's/^ *//g' -e 's/[[:space:]]*$//' -e '/^$/d'
+    grep "/h3" source/midas-*.html --no-filename | sed -e 's/<\/h3>//' -e 's/^ *//g' -e '/^$/d' -e 's/^ *//g' -e 's/[[:space:]]*$//' -e '/^$/d' -e 's/&amp;/\&/g'
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
@@ -475,7 +475,7 @@ def midas():
 def snatch():
     stdlog('parser: ' + 'snatch')
     parser = '''
-    %s "a-b-n-name.*?</div>" source/snatch-*.html | cut -d '>' -f 2 | cut -d '<' -f 1 | sort | uniq
+    %s "a-b-n-name.*?</div>" source/snatch-*.html | cut -d '>' -f 2 | cut -d '<' -f 1 | sort | uniq | sed 's/&amp;/\&/g'
     ''' % (fancygrep)
     posts = runshellcmd(parser)
     if len(posts) == 1:
@@ -544,7 +544,7 @@ def vicesociety():
     stdlog('parser: ' + 'vicesociety')
     # grep '<tr><td valign="top"><br><font size="4" color="#FFFFFF"><b>' source/vicesociety-*.html --no-filename | cut -d '>' -f 6 | cut -d '<' -f 1 | sed -e '/ato District Health Boa/d' -e 's/^ *//g' -e 's/[[:space:]]*$//' | sort --uniq
     parser = '''
-    grep '<tr><td valign="top"><br><font color="#FFFFFF" size="4">' source/vicesociety-*.html --no-filename | cut -d '>' -f 6 | cut -d '<' -f 1 | sed -e '/ato District Health Boa/d' -e 's/^ *//g' -e 's/[[:space:]]*$//' | sort --uniq
+    grep '<tr><td valign="top"><br><font color="#FFFFFF" size="4">' source/vicesociety-*.html --no-filename | cut -d '>' -f 6 | cut -d '<' -f 1 | sed -e '/ato District Health Boa/d' -e 's/^ *//g' -e 's/[[:space:]]*$//' -e 's/&amp;/\&/g' | sort --uniq
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
@@ -555,7 +555,7 @@ def vicesociety():
 def pandora():
     stdlog('parser: ' + 'pandora')
     parser = '''
-    grep '<span class="post-title gt-c-content-color-first">' source/pandora-*.html | cut -d '>' -f 2 | cut -d '<' -f 1
+    grep '<span class="post-title gt-c-content-color-first">' source/pandora-*.html | cut -d '>' -f 2 | cut -d '<' -f 1 | sed 's/&amp;/\&/g'
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
@@ -1019,8 +1019,9 @@ def ragroup():
 
 def eightbase():
     stdlog('parser: ' + '8base')
+    # awk '/class="stretched-link">/{getline; print}' source/8base-*.html | sed -e 's/^[ \t]*//' | sort | uniq
     parser = '''
-    awk '/class="stretched-link">/{getline; print}' source/8base-*.html | sed -e 's/^[ \t]*//' | sort | uniq
+    awk '/class="stretched-link">/{getline; print}' source/8base-*.html | sed -e 's/^[ \t]*//' | perl -MHTML::Entities -ne 'print decode_entities(decode_entities($_))' | sort | uniq
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
@@ -1198,7 +1199,7 @@ def cryptbb():
 def losttrust():
     stdlog('parser: ' + 'losttrust')
     parser = '''
-    grep -o '<div class="card-header">[^<]*</div>' source/losttrust-*.html  | sed -e 's/<[^>]*>//g'
+    grep -o '<div class="card-header">[^<]*</div>' source/losttrust-*.html  | sed -e 's/<[^>]*>//g' -e 's/&amp;/\&/g'
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
