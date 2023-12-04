@@ -1117,8 +1117,9 @@ def knight():
 
 def incransom():
     stdlog('parser: ' + 'incransom')
+    # jq -r '.payload[].title' source/incransom-incback*.html | sed -e 's/%20/ /' || true
     parser = '''
-    jq -r '.payload[].title' source/incransom-incback*.html | sed -e 's/%20/ /' || true
+    jq -r '.payload[].title' source/incransom-incback*.html | perl -MURI::Escape -ne 'print uri_unescape($_)' | sort | uniq || true
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
