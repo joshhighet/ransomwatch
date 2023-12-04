@@ -177,7 +177,7 @@ def hiveleak():
 def avaddon():
     stdlog('parser: ' + 'avaddon')
     parser = '''
-    grep 'h6' source/avaddon-*.html --no-filename | cut -d ">" -f3 | sed -e s/'<\/a'// -e 's/&amp;/\&/g'
+    grep 'h6' source/avaddon-*.html --no-filename | cut -d ">" -f3 | sed -e s/'<\/a'// -e 's/&amp;/\&/g' | perl -MHTML::Entities -ne 'print decode_entities($_)'
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
@@ -247,7 +247,7 @@ def pysa():
 def nefilim():
     stdlog('parser: ' + 'nefilim')
     parser = '''
-    grep 'h2' source/nefilim-*.html --no-filename | cut -d '>' -f3 | sed -e s/'<\/a'//
+    grep 'h2' source/nefilim-*.html --no-filename | cut -d '>' -f3 | sed -e s/'<\/a'// | perl -MHTML::Entities -ne 'print decode_entities($_)'
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
@@ -371,7 +371,7 @@ def blackmatter():
 def payloadbin():
     stdlog('parser: ' + 'payloadbin')
     parser = '''
-    grep '<h4 class="h4' source/payloadbin-*.html --no-filename | cut -d '>' -f3 | cut -d '<' -f 1
+    grep '<h4 class="h4' source/payloadbin-*.html --no-filename | cut -d '>' -f3 | cut -d '<' -f 1 | perl -MHTML::Entities -ne 'print decode_entities($_)'
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
@@ -430,7 +430,7 @@ def spook():
 def quantum():
     stdlog('parser: ' + 'quantum')
     parser = '''
-    awk '/h2/{getline; print}' source/quantum-*.html | sed -e 's/^ *//g' -e '/<\/a>/d' -e 's/&amp;/\&/g'
+    awk '/h2/{getline; print}' source/quantum-*.html | sed -e 's/^ *//g' -e '/<\/a>/d' -e 's/&amp;/\&/g' | perl -MHTML::Entities -ne 'print decode_entities($_)'
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
@@ -666,7 +666,7 @@ def lockbit3():
 def yanluowang():
     stdlog('parser: ' + 'yanluowang')
     parser = '''
-    grep '<a href="/posts' source/yanluowang-*.html | cut -d '>' -f 2 | cut -d '<' -f 1 | sed -e 's/^ *//g' -e 's/[[:space:]]*$//'
+    grep '<a href="/posts' source/yanluowang-*.html | cut -d '>' -f 2 | cut -d '<' -f 1 | sed -e 's/^ *//g' -e 's/[[:space:]]*$//' | perl -MHTML::Entities -ne 'print decode_entities($_)'
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
@@ -1210,7 +1210,7 @@ def losttrust():
 def hunters():
     stdlog('parser: ' + 'hunters')
     parser = '''
-    jq -r '.[].title' source/hunters-*.html || true
+    jq -r '.[].title' source/hunters-hunters55rdx*.html || true
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
@@ -1221,7 +1221,7 @@ def hunters():
 def meow():
     stdlog('parser: ' + 'meow')
     parser = '''
-    jq -r '.data[].title' source/meow-*.html || true
+    jq -r '.data[].title' source/meow-totos*.html || true
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
