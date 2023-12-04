@@ -4,6 +4,10 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-12-04 | [`www.greatlakestech.net`](https://google.com/search?q=www.greatlakestech.net) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
+| 2023-12-04 | [`www.cmsc.com`](https://google.com/search?q=www.cmsc.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
+| 2023-12-04 | [`Tipalti`](https://google.com/search?q=Tipalti) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
+| 2023-12-04 | [`Full access to the school network USA`](https://google.com/search?q=Full+access+to+the+school+network+USA) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2023-12-04 | [`ychlccsc.edu.hk`](https://google.com/search?q=ychlccsc.edu.hk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-04 | [`Getrix`](https://google.com/search?q=Getrix) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-12-04 | [`Midea Carrier`](https://google.com/search?q=Midea+Carrier) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
@@ -200,7 +204,3 @@ _last `200` posts_
 | 2023-11-20 | [`British Library`](https://google.com/search?q=British+Library) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2023-11-19 | [`Tackle West`](https://google.com/search?q=Tackle+West) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-11-19 | [`U.L. COLEMAN COMPANIES`](https://google.com/search?q=U.L.+COLEMAN+COMPANIES) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-11-19 | [`Autonomous Flight - @autonomousfly`](https://google.com/search?q=Autonomous+Flight+-+%40autonomousfly) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-11-19 | [`Al****ia (Unpay)`](https://google.com/search?q=Al%2A%2A%2A%2Aia+%28Unpay%29) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
-| 2023-11-19 | [`The DMC`](https://google.com/search?q=The+DMC) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-11-18 | [`nealbrothers.co.uk`](https://google.com/search?q=nealbrothers.co.uk) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
