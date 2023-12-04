@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-12-04 | [`www.ufresources.com`](https://google.com/search?q=www.ufresources.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
+| 2023-12-04 | [`nida.com`](https://google.com/search?q=nida.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-12-03 | [`Bern Hotels & Resort s`](https://google.com/search?q=Bern+Hotels+%26+Resort+s) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-12-03 | [`mirle.com.tw`](https://google.com/search?q=mirle.com.tw) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-03 | [`Tipalti claimed as a victim - but we'll extort Roblox and Twitch, two of their affected cl`](https://google.com/search?q=Tipalti+claimed+as+a+victim+-+but+we%27ll+extort+Roblox+and+Twitch%2C+two+of+their+affected+cl) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-11-18 | [`pruitthealth.com`](https://google.com/search?q=pruitthealth.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-11-17 | [`CENTRE D&#039;AUTO P.R.N. SALABERRY IN`](https://google.com/search?q=CENTRE+D%26%23039%3BAUTO+P.R.N.+SALABERRY+IN) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-11-17 | [`McCray &amp; Withrow `](https://google.com/search?q=McCray+%26amp%3B+Withrow+) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
-| 2023-11-17 | [`ajcfood.com`](https://google.com/search?q=ajcfood.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-11-17 | [`www.kwikind.com`](https://google.com/search?q=www.kwikind.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
