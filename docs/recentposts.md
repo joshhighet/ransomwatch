@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-12-04 | [`Getrix`](https://google.com/search?q=Getrix) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
+| 2023-12-04 | [`Midea Carrier`](https://google.com/search?q=Midea+Carrier) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-12-04 | [`Evnhcmc`](https://google.com/search?q=Evnhcmc) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-12-04 | [`www.ufresources.com`](https://google.com/search?q=www.ufresources.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-12-04 | [`nida.com`](https://google.com/search?q=nida.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-11-19 | [`The DMC`](https://google.com/search?q=The+DMC) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-11-18 | [`nealbrothers.co.uk`](https://google.com/search?q=nealbrothers.co.uk) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
 | 2023-11-18 | [`generalrefrig.com`](https://google.com/search?q=generalrefrig.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-11-18 | [`pruitthealth.com`](https://google.com/search?q=pruitthealth.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
-| 2023-11-17 | [`CENTRE D&#039;AUTO P.R.N. SALABERRY IN`](https://google.com/search?q=CENTRE+D%26%23039%3BAUTO+P.R.N.+SALABERRY+IN) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
