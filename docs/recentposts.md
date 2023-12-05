@@ -22,6 +22,7 @@ _last `200` posts_
 | 2023-12-05 | [`UK Stratton Primary School`](https://google.com/search?q=UK+Stratton+Primary+School) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2023-12-05 | [`THK Co., Ltd.`](https://google.com/search?q=THK+Co.%2C+Ltd.) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2023-12-05 | [`Medjet`](https://google.com/search?q=Medjet) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
+| 2023-12-05 | [`CLATSKANIEPUD`](https://google.com/search?q=CLATSKANIEPUD) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-12-05 | [`Akumin`](https://google.com/search?q=Akumin) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-12-05 | [`restargp.com`](https://google.com/search?q=restargp.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-05 | [`concertus.co.uk`](https://google.com/search?q=concertus.co.uk) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-11-22 | [`ds-granit.fr`](https://google.com/search?q=ds-granit.fr) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
 | 2023-11-22 | [`[DATA] Bakrie Group & Bakrie Sumatera Plantations`](https://google.com/search?q=%5BDATA%5D+Bakrie+Group+%26+Bakrie+Sumatera+Plantations) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-11-21 | [`floydskerenlaw.com`](https://google.com/search?q=floydskerenlaw.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-11-21 | [`bnpmedia.com`](https://google.com/search?q=bnpmedia.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
