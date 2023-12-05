@@ -62,12 +62,12 @@ def checkgeckodriver():
     '''
     check if geckodriver is in the system $PATH
     '''
-    stdlog('sharedutils: ' + 'checking if geckodriver is in $PATH')
+    dbglog('sharedutils: ' + 'checking if geckodriver is in $PATH')
     cmd = 'geckodriver --version'
     try:
         output = runshellcmd(cmd)
         if 'geckodriver' in output[0]:
-            stdlog('sharedutils: ' + 'geckodriver is in $PATH')
+            dbglog('sharedutils: ' + 'geckodriver is in $PATH')
             return True
         errlog('sharedutils: ' + 'geckodriver is not in $PATH')
         return False
@@ -220,7 +220,7 @@ def gcount(posts):
 
 def hasprotocol(slug):
     '''
-    checks if a url begins with http - cheap protocol check before we attampt to fetch a page
+    checks if a url begins with http - cheap protocol check before we attempt to fetch a page
     '''
     return bool(slug.startswith('http'))
 
@@ -281,14 +281,14 @@ def checktcp(host, port):
     '''
     checks if a tcp port is open - used to check if a socks proxy is available
     '''
-    stdlog('sharedutils: ' + 'attempting socket connection')
+    dbglog('sharedutils: ' + 'attempting socket connection')
     sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
     result = sock.connect_ex((str(host), int(port)))
     sock.close()
     if result == 0:
-        stdlog('sharedutils: ' + 'socket - successful connection')
+        dbglog('sharedutils: ' + 'socket connected to ' + str(host) + ':' + str(port))
         return True
-    stdlog('sharedutils: ' + 'socket - failed connection')
+    stdlog('sharedutils: ' + 'socket failed connection to ' + str(host) + ':' + str(port))
     return False
 
 def postcount():
@@ -318,14 +318,6 @@ def hostcount():
             host_count += 1
     return host_count
 
-def headlesscount():
-    groups = openjson('groups.json')
-    js_count = 0
-    for group in groups:
-        if group['javascript_render'] is True:
-            js_count += 1
-    return js_count
-
 def onlinecount():
     groups = openjson('groups.json')
     online_count = 0
@@ -334,24 +326,6 @@ def onlinecount():
             if host['available'] is True:
                 online_count += 1
     return online_count
-
-def version2count():
-    groups = openjson('groups.json')
-    version2_count = 0
-    for group in groups:
-        for host in group['locations']:
-            if host['version'] == 2:
-                version2_count += 1
-    return version2_count
-
-def version3count():
-    groups = openjson('groups.json')
-    version3_count = 0
-    for group in groups:
-        for host in group['locations']:
-            if host['version'] == 3:
-                version3_count += 1
-    return version3_count
 
 def monthlypostcount():
     '''
@@ -397,15 +371,6 @@ def postslast24h():
         if datetime_object > datetime.now() - timedelta(hours=24):
             post_count += 1
     return post_count
-
-def countcaptchahosts():
-    '''returns a count on the number of groups that have captchas'''
-    groups = openjson('groups.json')
-    captcha_count = 0
-    for group in groups:
-        if group['captcha'] is True:
-            captcha_count += 1
-    return captcha_count
 
 def todiscord(post_title, group, hook_uri):
     '''
