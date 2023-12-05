@@ -105,8 +105,8 @@ _parsing : `enabled`_
 | `Consumers Supply Distributing LLC` | 05/02/2022 |
 | `Bohlin Cywinski Jackson` | 03/12/2021 |
 | `Read more` | 30/11/2021 |
-| `Hospitality Furnishings &amp; Design Inc.` | 19/11/2021 |
-| `Herman &amp; Kittle Properties Inc.` | 19/11/2021 |
+| `Hospitality Furnishings & Design Inc.` | 19/11/2021 |
+| `Herman & Kittle Properties Inc.` | 19/11/2021 |
 | `Outdoor Venture Corporation (OVC)` | 05/11/2021 |
 | `Tri-signal Intergration` | 09/09/2021 |
 | `Glen Dimplex Home Appliances` | 09/09/2021 |
@@ -210,7 +210,7 @@ _`rfi location woe2suafeg6ehxivgvvn4nh6ectbdhdqgc4vzph27mmyn7rjf2c52jid.onion/in
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| Lorenz | True | 3 | 22:03 04/12/2023 | `lorenzmlwpzgxq736jzseuterytjueszsvznuibanxomlpkyxk6ksoyd.onion` |
+| Lorenz | True | 3 | 00:10 05/12/2023 | `lorenzmlwpzgxq736jzseuterytjueszsvznuibanxomlpkyxk6ksoyd.onion` |
 
 | post | date |
 |---|---|
@@ -1482,7 +1482,7 @@ _`aka hive`_
 | `Tite - Live Belgique` | 25/02/2022 |
 | `Shanghai Huizhong Automotive Manufacturing Co., Ltd.` | 25/02/2022 |
 | `Supernus Pharmaceuticals, NASDAQ: SUPN` | 25/02/2022 |
-| `Drake &amp; Scull International PJSC` | 25/02/2022 |
+| `Drake & Scull International PJSC` | 25/02/2022 |
 | `Institute For Systems And Robotics (Isr-Lisboa` | 25/02/2022 |
 | `Centre D'Odontologia Integrada Miret-Puig` | 25/02/2022 |
 | `Hyundai Samho Heavy Industries Co.,Ltd. (South Korea)` | 25/02/2022 |
@@ -1636,7 +1636,7 @@ _`captcha prevents indexing`_
 | `Unified Technologies` | 25/09/2021 |
 | `Amphenol Canada` | 25/09/2021 |
 | `Pacific City Bank` | 04/09/2021 |
-| `Moorfields NHS UK &amp; Dubai` | 01/09/2021 |
+| `Moorfields NHS UK & Dubai` | 01/09/2021 |
 | `Potter Concrete` | 01/09/2021 |
 | `Master Chemical` | 29/08/2021 |
 | `Artas Holding / Artas Insaat` | 28/08/2021 |
@@ -1702,7 +1702,7 @@ _parsing : `enabled`_
 | `NetVigour Inc` | 09/09/2021 |
 | `Intensive Care On-Line Network , Inc` | 09/09/2021 |
 | `Payzant Building Products Ltd` | 09/09/2021 |
-| `International Longshore &amp; Warehouse Union` | 09/09/2021 |
+| `International Longshore & Warehouse Union` | 09/09/2021 |
 | `Marolles-en-Brie` | 09/09/2021 |
 | `Finalyse` | 09/09/2021 |
 | `BIOREP TECHNOLOGIES, INC.` | 09/09/2021 |
@@ -1734,12 +1734,12 @@ _parsing : `enabled`_
 | `Doré Law Group P.C` | 09/09/2021 |
 | `Omni Manufacturing, Inc.` | 09/09/2021 |
 | `FUTURIMPLANTS` | 09/09/2021 |
-| `ANLEC R&amp;D` | 09/09/2021 |
+| `ANLEC R&D` | 09/09/2021 |
 | `La compagnie du SAV` | 09/09/2021 |
 | `SISCONT` | 09/09/2021 |
 | `AlohaABA` | 09/09/2021 |
 | `Zhuhai Languan Electronic Technology Co., Ltd` | 09/09/2021 |
-| `Schneider &amp; Branch` | 09/09/2021 |
+| `Schneider & Branch` | 09/09/2021 |
 | `Mikro Trading` | 09/09/2021 |
 | `Basque Center for Applied Mathematics-BCAM` | 09/09/2021 |
 | `Targetcom` | 09/09/2021 |
@@ -1767,7 +1767,7 @@ _parsing : `enabled`_
 | `Dicon Fiberoptics Inc` | 09/09/2021 |
 | `BIANCHI VENDING` | 09/09/2021 |
 | `Exedy Corporation` | 09/09/2021 |
-| `Active Business &amp; Technology` | 09/09/2021 |
+| `Active Business & Technology` | 09/09/2021 |
 | `MSPharma` | 09/09/2021 |
 | `Hames Homes LLC` | 09/09/2021 |
 | `Greatwide Truckload` | 09/09/2021 |
@@ -1780,7 +1780,7 @@ _parsing : `enabled`_
 | `OLOMOUC` | 09/09/2021 |
 | `MUNICIPIO DE QUATRO BARRAS` | 09/09/2021 |
 | `Newcomb Secondary College` | 09/09/2021 |
-| `COMUNE DI VILLAFRANCA D&#039;ASTI` | 09/09/2021 |
+| `COMUNE DI VILLAFRANCA D'ASTI` | 09/09/2021 |
 | `CNE` | 09/09/2021 |
 | `Farrells` | 09/09/2021 |
 | `SC TECHNOSEAL SERVICES SRL` | 09/09/2021 |
@@ -1790,19 +1790,19 @@ _parsing : `enabled`_
 | `LG Vina Chemical` | 09/09/2021 |
 | `Schepisi Communications` | 09/09/2021 |
 | `EUROMAIS - PEÇAS E PNEUS, LDA` | 09/09/2021 |
-| `SPINE &amp; DISC` | 09/09/2021 |
+| `SPINE & DISC` | 09/09/2021 |
 | `Cocal` | 09/09/2021 |
 | `Glasbau Wiedemann GmbH` | 09/09/2021 |
 | `Cinov Federation` | 09/09/2021 |
 | `TAIWAN SURFACE MOUNTING TECHNOLOGY CORP.` | 09/09/2021 |
 | `Coindu` | 09/09/2021 |
 | `ULTRACEUTICALS PTY LIMITED` | 09/09/2021 |
-| `DOCTUM PHARMACEUTICAL Κ. T. YIOKARIS &amp; CO S.A.` | 09/09/2021 |
+| `DOCTUM PHARMACEUTICAL Κ. T. YIOKARIS & CO S.A.` | 09/09/2021 |
 | `MEGAPOLIS HOLDINGS (OVERSEAS) LIMITED` | 09/09/2021 |
 | `NIJMAN / ZEETANK International Transport Sp. z o. o.` | 09/09/2021 |
 | `ACER FINANCE` | 09/09/2021 |
 | `PT Angkasa Pura I` | 09/09/2021 |
-| `Henry Oil &amp; Gas` | 09/09/2021 |
+| `Henry Oil & Gas` | 09/09/2021 |
 | `SL Corporation` | 09/09/2021 |
 | `Letton Percival` | 09/09/2021 |
 | `Vistex` | 09/09/2021 |
@@ -1810,7 +1810,7 @@ _parsing : `enabled`_
 | `AXA Group` | 09/09/2021 |
 | `RINGSPANN GmbH` | 09/09/2021 |
 | `Solvere LLC` | 09/09/2021 |
-| `PKMK law&amp;finance s.r.o` | 09/09/2021 |
+| `PKMK law&finance s.r.o` | 09/09/2021 |
 | `360 InStore` | 09/09/2021 |
 | `Maryan beachwear group GmbH` | 09/09/2021 |
 | `JetSJ` | 09/09/2021 |
@@ -1820,8 +1820,8 @@ _parsing : `enabled`_
 | `FEBANCOLOMBIA` | 09/09/2021 |
 | `Ballas Capital Limited` | 09/09/2021 |
 | `Servilex Advocaten` | 09/09/2021 |
-| `Johann Kupp GmbH &amp; Co. KG` | 09/09/2021 |
-| `Carlos Federspiel &amp; Co SA` | 09/09/2021 |
+| `Johann Kupp GmbH & Co. KG` | 09/09/2021 |
+| `Carlos Federspiel & Co SA` | 09/09/2021 |
 | `Buckeye International Inc` | 09/09/2021 |
 | `LE VOLCAN` | 09/09/2021 |
 | `Syndex` | 09/09/2021 |
@@ -1846,7 +1846,7 @@ _`ecdmr42axxx.onion - fileserver`_
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
 | none | False | 2 | 00:00 01/05/2021 | `4hzyuotli6maqa4u.onion` |
-| Vice Society - Official Site | True | 3 | 22:04 04/12/2023 | `vsociethok6sbprvevl4dlwbqrzyhxcxaqpvcqt5belwvsuxaxsutyad.onion` |
+| Vice Society - Official Site | True | 3 | 00:11 05/12/2023 | `vsociethok6sbprvevl4dlwbqrzyhxcxaqpvcqt5belwvsuxaxsutyad.onion` |
 | there is nothing... | False | 3 | 16:14 21/09/2022 | `ecdmr42a34qovoph557zotkfvth4fsz56twvwgiylstjup4r5bpc4oad.onion` |
 | Vice Society - Official Site | False | 3 | 04:08 12/11/2023 | `wmp2rvrkecyx72i3x7ejhyd3yr6fn5uqo7wfus7cz7qnwr6uzhcbrwad.onion` |
 | Vice Society - Official Site | False | 3 | 00:25 13/11/2023 | `ssq4zimieeanazkzc5ld4v5hdibi2nzwzdibfh5n5w4pw5mcik76lzyd.onion` |
@@ -1866,7 +1866,7 @@ _`ecdmr42axxx.onion - fileserver`_
 | `Neptune Lines` | 22/04/2023 |
 | `Lakeland Community College` | 18/04/2023 |
 | `CommScope` | 15/04/2023 |
-| `Lewis &amp; Clark College` | 31/03/2023 |
+| `Lewis & Clark College` | 31/03/2023 |
 | `Autoridad de Acueductos Y Alcantarillados` | 23/03/2023 |
 | `Ecolog International` | 16/03/2023 |
 | `Berkeley County Schools` | 11/03/2023 |
@@ -1884,7 +1884,7 @@ _`ecdmr42axxx.onion - fileserver`_
 | `Seguros Equinoccial` | 28/01/2023 |
 | `EGR` | 28/01/2023 |
 | `Bristol Community College` | 27/01/2023 |
-| `CloudCall &amp;` | 23/01/2023 |
+| `CloudCall &` | 23/01/2023 |
 | `Monmouth College` | 20/01/2023 |
 | `University of Duisburg-Essen` | 16/01/2023 |
 | `TIMco` | 14/01/2023 |
@@ -1912,7 +1912,7 @@ _`ecdmr42axxx.onion - fileserver`_
 | `Baysgarth School` | 14/11/2022 |
 | `Kreisverwaltung Rhein-Pfalz-Kreis` | 10/11/2022 |
 | `Hartnell College` | 09/11/2022 |
-| `CR&amp;R Environmental Services` | 06/11/2022 |
+| `CR&R Environmental Services` | 06/11/2022 |
 | `YMCA of Metropolitan Washington` | 01/11/2022 |
 | `Unidad Medica Angloamericana` | 01/11/2022 |
 | `Rooks Heath School` | 01/11/2022 |
@@ -2016,12 +2016,12 @@ _`ecdmr42axxx.onion - fileserver`_
 | `ROC Mondriaan` | 06/01/2022 |
 | `United Health Centers` | 06/01/2022 |
 | `KESSEL AG` | 06/01/2022 |
-| `Karl Bachl GmbH &amp; Co.KG` | 06/01/2022 |
+| `Karl Bachl GmbH & Co.KG` | 06/01/2022 |
 | `SRH Holding` | 06/01/2022 |
 | `Manhasset Union Free School District` | 06/01/2022 |
 | `Lufkin Independent School District` | 06/01/2022 |
 | `City of Witten` | 06/01/2022 |
-| `Holy Family RC &amp; CE College` | 06/01/2022 |
+| `Holy Family RC & CE College` | 06/01/2022 |
 | `Hawthorn The Community Pub Co.` | 06/01/2022 |
 | `Pontificia Universidad Javeriana` | 06/01/2022 |
 | `DFL` | 06/01/2022 |
@@ -2049,7 +2049,7 @@ _`xing use a custom mountlocker exe`_
 | `Tilia GmbH. TILIA GROUP` | 08/10/2021 |
 | `J.Irwin Company` | 17/08/2021 |
 | `DiaSorin` | 08/07/2021 |
-| `Greenwood Fabricating &amp; Plating` | 03/06/2021 |
+| `Greenwood Fabricating & Plating` | 03/06/2021 |
 | `AQUALUNG` | 02/06/2021 |
 | `Positive Promotions, Inc.` | 02/06/2021 |
 | `Sharafi Group Investments` | 27/05/2021 |
@@ -2095,9 +2095,9 @@ _parsing : `enabled`_
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
 | none | False | 2 | 00:00 01/05/2021 | `rgleak7op734elep.onion` |
-| none | True | 3 | 22:05 04/12/2023 | `rgleaktxuey67yrgspmhvtnrqtgogur35lwdrup4d3igtbm3pupc4lyd.onion` |
+| none | True | 3 | 00:12 05/12/2023 | `rgleaktxuey67yrgspmhvtnrqtgogur35lwdrup4d3igtbm3pupc4lyd.onion` |
 | none | False | 2 | 00:00 01/05/2021 | `p6o7m73ujalhgkiv.onion` |
-| none | True | 3 | 22:05 04/12/2023 | `ragnarnwvli32xnmwudsvhbl7klzmofxeylyhcqfc5ifx5mbybq3ekqd.onion` |
+| none | True | 3 | 00:13 05/12/2023 | `ragnarnwvli32xnmwudsvhbl7klzmofxeylyhcqfc5ifx5mbybq3ekqd.onion` |
 
 | post | date |
 |---|---|
@@ -2238,8 +2238,8 @@ _parsing : `enabled`_
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
 | none | False | 2 | 00:00 01/05/2021 | `ekbgzchl6x2ias37.onion` |
-| Access Queue | True | 3 | 22:05 04/12/2023 | `santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad.onion` |
-| TORRENT - CL0P^_- LEAKS | True | 3 | 22:05 04/12/2023 | `toznnag5o3ambca56s2yacteu7q7x2avrfherzmz4nmujrjuib4iusad.onion` |
+| Access Queue | True | 3 | 00:13 05/12/2023 | `santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad.onion` |
+| TORRENT - CL0P^_- LEAKS | True | 3 | 00:13 05/12/2023 | `toznnag5o3ambca56s2yacteu7q7x2avrfherzmz4nmujrjuib4iusad.onion` |
 
 | post | date |
 |---|---|
@@ -2799,11 +2799,11 @@ _parsing : `enabled`_
 | `Spiezle Architectural Group Inc.` | 16/09/2021 |
 | `ohiograting.com` | 11/09/2021 |
 | `Apex America` | 09/09/2021 |
-| `Allen, Dyer, Doppelt, &amp; Gilchrist, P.A.` | 09/09/2021 |
+| `Allen, Dyer, Doppelt, & Gilchrist, P.A.` | 09/09/2021 |
 | `Betenbough Homes` | 09/09/2021 |
 | `CEC Vibration Products` | 09/09/2021 |
 | `ENPOL LLC` | 09/09/2021 |
-| `Iaffaldano, Shaw &amp; Young LLP` | 09/09/2021 |
+| `Iaffaldano, Shaw & Young LLP` | 09/09/2021 |
 | `angstrom automotive group` | 09/09/2021 |
 | `Agile Property Holdings` | 09/09/2021 |
 | `Möbelstadt Sommerlad` | 09/09/2021 |
@@ -2827,7 +2827,7 @@ _parsing : `enabled`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| Everest Ransomware Group | True | 3 | 22:06 04/12/2023 | `ransomocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexfook2j7esad.onion` |
+| Everest Ransomware Group | True | 3 | 00:13 05/12/2023 | `ransomocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexfook2j7esad.onion` |
 
 | post | date |
 |---|---|
@@ -2858,7 +2858,7 @@ _parsing : `enabled`_
 | `Aeronautics company Canada / UTC Aerospace Systems, Bombardier aerospace partners` | 21/11/2022 |
 | `Aeronautics company Canada / Production of parts for aircraft engines` | 16/11/2022 |
 | `Aeronautics company Canada` | 11/11/2022 |
-| `AT&#038;T` | 28/10/2022 |
+| `AT&T` | 28/10/2022 |
 | `Stages Pediatric Care DataBase on Sale` | 27/10/2022 |
 | `Rundle Eye Care DataBase Leak` | 25/10/2022 |
 | `Stages Pediatric Care New 250 personal records` | 21/10/2022 |
@@ -2916,17 +2916,17 @@ _parsing : `enabled`_
 | `IDFC FIRST Bank` | 07/03/2022 |
 | `Ledcor` | 07/03/2022 |
 | `BEAUTYWEST, INC.` | 07/03/2022 |
-| `Gershon Biegeleisen &#038; Co` | 07/03/2022 |
-| `Backus, Meyer &#038; Branch, LLP` | 07/03/2022 |
-| `Greenberg &#038; Stein New York City Personal Injury Lawyers` | 07/03/2022 |
-| `Law Offices of Brandon Sua &#038; Associates` | 07/03/2022 |
+| `Gershon Biegeleisen & Co` | 07/03/2022 |
+| `Backus, Meyer & Branch, LLP` | 07/03/2022 |
+| `Greenberg & Stein New York City Personal Injury Lawyers` | 07/03/2022 |
+| `Law Offices of Brandon Sua & Associates` | 07/03/2022 |
 | `Campbell Sales and Service, Inc` | 07/03/2022 |
 | `Federal land inc.` | 07/03/2022 |
 | `Centro Hospitalar de Setúbal` | 07/03/2022 |
 | `Signum` | 20/02/2022 |
 | `Various accesses on sale` | 19/02/2022 |
-| `Weir &amp; Partners LLP` | 09/02/2022 |
-| `Florida lawyer&#8217;s data leaked` | 27/01/2022 |
+| `Weir & Partners LLP` | 09/02/2022 |
+| `Florida lawyer's data leaked` | 27/01/2022 |
 | `Gardenworks` | 21/01/2022 |
 | `AFG Canada` | 19/01/2022 |
 | `Partnership` | 16/01/2022 |
@@ -2961,7 +2961,7 @@ _parsing : `enabled`_
 | `XEFI / Part 2` | 09/09/2021 |
 | `Сompilation of lawyers France` | 09/09/2021 |
 | `AIC STEEL` | 09/09/2021 |
-| `Weir &amp; Partners LLP / Part 2` | 09/09/2021 |
+| `Weir & Partners LLP / Part 2` | 09/09/2021 |
 | `InfraBuild` | 09/09/2021 |
 | `Tampa Tank INC` | 09/09/2021 |
 | `Alispharm` | 09/09/2021 |
@@ -3041,7 +3041,7 @@ _`livechat host contirecj4hbzmyzuydyzrvm2c65blmvhoj2cvf25zqj2dwrrqcq5oad.onion`_
 | `Centris` | 18/04/2022 |
 | `Nordex SE` | 18/04/2022 |
 | `Ministerio de Hacienda - República de Costa Rica` | 17/04/2022 |
-| `Tucker Door &amp; Trim` | 17/04/2022 |
+| `Tucker Door & Trim` | 17/04/2022 |
 | `[IMPORTANT ANNOUNCEMENT!]` | 15/04/2022 |
 | `CJ Pony Parts` | 15/04/2022 |
 | `Big Horn Plastering of Colorado, Inc.` | 14/04/2022 |
@@ -3215,7 +3215,7 @@ _`livechat host contirecj4hbzmyzuydyzrvm2c65blmvhoj2cvf25zqj2dwrrqcq5oad.onion`_
 | `DKS  Deutsch Kerrigan LLP` | 22/11/2021 |
 | `Not Yet Kameraden!` | 19/11/2021 |
 | `HELSA Group International` | 19/11/2021 |
-| `Area Energy &amp; Electric` | 18/11/2021 |
+| `Area Energy & Electric` | 18/11/2021 |
 | `FTI Group` | 18/11/2021 |
 | `General RV Center` | 17/11/2021 |
 | `JAFTEX Corporation` | 16/11/2021 |
@@ -3681,7 +3681,7 @@ _parsing : `enabled`_
 
 | post | date |
 |---|---|
-| `Atlanta Allergy &#038; Asthma. Part 1.` | 09/09/2021 |
+| `Atlanta Allergy & Asthma. Part 1.` | 09/09/2021 |
 | `Grimmway Farms. Part 1.` | 09/09/2021 |
 | `Elliott Group / Cascade Engineering / Unitex Textile Rental Services. Teaser.` | 09/09/2021 |
 | `Seven Seas. Part 1.` | 09/09/2021 |
@@ -3734,7 +3734,7 @@ _parsing : `enabled`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| Babuk - Leaks site | True | 3 | 22:06 04/12/2023 | `nq4zyac4ukl4tykmidbzgdlvaboqeqsemkp4t35bzvjeve6zm2lqcjid.onion` |
+| Babuk - Leaks site | True | 3 | 00:13 05/12/2023 | `nq4zyac4ukl4tykmidbzgdlvaboqeqsemkp4t35bzvjeve6zm2lqcjid.onion` |
 
 | post | date |
 |---|---|
@@ -3757,7 +3757,7 @@ _parsing : `enabled`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| ransomexx2 | True | 3 | 22:06 04/12/2023 | `rnsm777cdsjrsdlbs4v5qoeppu3px6sb2igmh53jzrx7ipcrbjz5b2ad.onion` |
+| ransomexx2 | True | 3 | 00:13 05/12/2023 | `rnsm777cdsjrsdlbs4v5qoeppu3px6sb2igmh53jzrx7ipcrbjz5b2ad.onion` |
 
 | post | date |
 |---|---|
@@ -3770,7 +3770,7 @@ _parsing : `enabled`_
 | `BULOG` | 22/02/2023 |
 | `REC Silicon` | 11/12/2022 |
 | `Unimed Belem` | 18/10/2022 |
-| `Consorci Sanitari Integral &amp; Geseme` | 11/10/2022 |
+| `Consorci Sanitari Integral & Geseme` | 11/10/2022 |
 | `Ferrari` | 02/10/2022 |
 | `Bombardier Recreational Products (BRP) - SOURCE CODES` | 01/10/2022 |
 | `Fundo Nacional de Desenvolvimento da Educação` | 03/09/2022 |
@@ -3799,13 +3799,13 @@ _parsing : `enabled`_
 | `Ajuntament de Castelló` | 09/09/2021 |
 | `Nobiskrug` | 09/09/2021 |
 | `Samvardhana Motherson Peguform` | 09/09/2021 |
-| `Wallace &amp; Carey` | 09/09/2021 |
+| `Wallace & Carey` | 09/09/2021 |
 | `STEMCOR` | 09/09/2021 |
 | `Universal Assistance S.A.` | 09/09/2021 |
 | `WT Microelectronics` | 09/09/2021 |
 | `Walsin` | 09/09/2021 |
 | `Corporación Nacional de Telecomunicación` | 09/09/2021 |
-| `Liberty Group &amp; ForHousing` | 09/09/2021 |
+| `Liberty Group & ForHousing` | 09/09/2021 |
 | `Ermenegildo Zegna Holding` | 09/09/2021 |
 | `Gigabyte Technology` | 09/09/2021 |
 | `American Megatrends International` | 09/09/2021 |
@@ -3825,7 +3825,7 @@ _parsing : `enabled`_
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
 | none | False | 2 | 00:00 01/05/2021 | `cuba4mp6ximo2zlo.onion` |
-| Cuba | False | 3 | 20:06 04/12/2023 | `cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion` |
+| Cuba | True | 3 | 00:14 05/12/2023 | `cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion` |
 
 | post | date |
 |---|---|
@@ -4130,14 +4130,14 @@ _`support host supp24maprinktc7uizgfyqhisx7lkszb6ogh6lwdzpac23w3mh4tvyd.onion`_
 | `Eisvogel Hubert Bernegger GmbH` | 20/09/2021 |
 | `Pulmuone Co., Ltd.` | 18/09/2021 |
 | `Modern Testing Services` | 17/09/2021 |
-| `northwoods &amp; spectrumfurniture` | 17/09/2021 |
+| `northwoods & spectrumfurniture` | 17/09/2021 |
 | `EQUITY TRANSPORTATION` | 15/09/2021 |
 | `River City Construction` | 11/09/2021 |
 | `hhcp.com` | 09/09/2021 |
 | `Network Telecom / Enreach` | 09/09/2021 |
 | `Pine Labs Pvt` | 09/09/2021 |
 | `Kaydon Corporation (SKF Group Brand)` | 09/09/2021 |
-| `tastefulselections &amp; WFG` | 09/09/2021 |
+| `tastefulselections & WFG` | 09/09/2021 |
 | `Middleton Reutlinger` | 09/09/2021 |
 | `g-able.com` | 09/09/2021 |
 | `Diamond Schmitt` | 09/09/2021 |
@@ -4176,7 +4176,7 @@ _parsing : `enabled`_
 | `conferenceusa.com` | 09/09/2021 |
 | `sklarwilton.com` | 09/09/2021 |
 | `nsuship.co.jp` | 09/09/2021 |
-| `iRely LLC&#039;s Grand Failure` | 09/09/2021 |
+| `iRely LLC's Grand Failure` | 09/09/2021 |
 | `CD Project data` | 09/09/2021 |
 | `Victrongroup.com` | 09/09/2021 |
 | `Uptownbakers.com` | 09/09/2021 |
@@ -4431,7 +4431,7 @@ _parsing : `disabled`_
 | none | False | 3 | 10:25 27/08/2022 | `mmeeiix2ejdwkmseycljetmpiwebdvgjts75c63camjofn2cjdoulzqd.onion` |
 | none | False | 3 | 04:16 11/05/2023 | `obzuqvr5424kkc4unbq2p2i67ny3zngce3tbdr37nicjqesgqcgomfqd.onion` |
 | none | False | 3 | 05:18 01/10/2022 | `nclen75pwlgebpxpsqhlcnxsmdvpyrr7ogz36ehhatfmkvakeyden6ad.onion` |
-| 404 Not Found | True | 3 | 22:07 04/12/2023 | `mmcbkgua72og66w4jz3qcxkkhefax754pg6iknmtfujvkt2j65ffraad.onion` |
+| 404 Not Found | True | 3 | 00:15 05/12/2023 | `mmcbkgua72og66w4jz3qcxkkhefax754pg6iknmtfujvkt2j65ffraad.onion` |
 
 | post | date |
 |---|---|
@@ -4469,7 +4469,7 @@ _`claim to donate 80% of earnings to charity`_
 | post | date |
 |---|---|
 | `Marshall Investigative Group Part 1/3 1000 Client` | 06/12/2021 |
-| `Ward Arcuri Foley &amp; Dwyer  Law Firm` | 04/10/2021 |
+| `Ward Arcuri Foley & Dwyer  Law Firm` | 04/10/2021 |
 | `Charles Crown Financial Ltd` | 04/10/2021 |
 
 ## crylock
@@ -4797,7 +4797,7 @@ _parsing : `enabled`_
 | `Ferretti International` | 11/10/2021 |
 | `CABINET FONT GUILLOT` | 10/10/2021 |
 | `Sbc Studio` | 10/10/2021 |
-| `Audras &#038; Delaunois` | 09/10/2021 |
+| `Audras & Delaunois` | 09/10/2021 |
 | `TV FUEGO` | 09/10/2021 |
 | `Kurier` | 09/10/2021 |
 | `Kern Glass and Aluminum Company` | 08/10/2021 |
@@ -4811,13 +4811,13 @@ _parsing : `enabled`_
 | `GLOBAL PROTEIN` | 04/10/2021 |
 | `Van Dijk De Jongh Notarissen` | 04/10/2021 |
 | `TOA ELECTRIC INDUSTRIAL CO., LTD.` | 04/10/2021 |
-| `I&#8217;M CORPORATION(SUZHOU)CO.,LTD` | 04/10/2021 |
+| `I'M CORPORATION(SUZHOU)CO.,LTD` | 04/10/2021 |
 | `ORLANDO IMPORT-EXPORT 2001 SRL` | 04/10/2021 |
 | `VIASHOPPING` | 04/10/2021 |
 | `Pierce Property Management, Inc.` | 04/10/2021 |
 | `ASISMED S.A.` | 04/10/2021 |
 | `Transports Verlhac et Fils` | 04/10/2021 |
-| `Verhoff Machine &#038; Welding` | 04/10/2021 |
+| `Verhoff Machine & Welding` | 04/10/2021 |
 
 ## RAMP
 
@@ -4832,7 +4832,7 @@ _parsing : `disabled`_
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
 | none | False | 3 | 00:00 01/05/2021 | `wavbeudogz6byhnardd2lkp2jafims3j7tj6k6qnywchn2csngvtffqd.onion` |
-| Log in - RAMP | True | 3 | 22:07 04/12/2023 | `rampjcdlqvgkoz5oywutpo6ggl7g6tvddysustfl6qzhr5osr24xxqqd.onion` |
+| Log in - RAMP | True | 3 | 00:15 05/12/2023 | `rampjcdlqvgkoz5oywutpo6ggl7g6tvddysustfl6qzhr5osr24xxqqd.onion` |
 | none | False | 3 | 00:00 01/05/2021 | `ramp4u5iz4xx75vmt6nk5xfrs5mrmtokzszqxhhkjqlk7pbwykaz7zid.onion` |
 
 | post | date |
@@ -4851,7 +4851,6 @@ _parsing : `disabled`_
 
 | post | date |
 |---|---|
-| `aria-label=Google>` | 28/02/2022 |
 | `JALEEL TRADERS LLC` | 15/01/2022 |
 | `ASL Napoli 3 Sud Network Seized` | 14/01/2022 |
 | `Protected: PRIVATE POST  ITALY` | 12/01/2022 |
@@ -4875,7 +4874,7 @@ _parsing : `enabled`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| Quantum Blog | True | 3 | 22:07 04/12/2023 | `quantum445bh3gzuyilxdzs5xdepf3b7lkcupswvkryf3n7hgzpxebid.onion` |
+| Quantum Blog | True | 3 | 00:15 05/12/2023 | `quantum445bh3gzuyilxdzs5xdepf3b7lkcupswvkryf3n7hgzpxebid.onion` |
 | Secure Chat | False | 3 | 08:26 29/08/2022 | `22rnyep2aa2exx3fdm26p4onwjfmhciodb55v5l3w4iny7e5bxpg3yad.onion` |
 
 | post | date |
@@ -4893,12 +4892,12 @@ _parsing : `enabled`_
 | `Rosenblatt Securities` | 18/10/2022 |
 | `Instituto Agrario Dominicano` | 02/09/2022 |
 | `Moscone Center` | 01/09/2022 |
-| `Moskowitz, Mandell &amp; Salim, P.A.` | 23/08/2022 |
-| `Shaw &amp; Slavsky` | 19/08/2022 |
+| `Moskowitz, Mandell & Salim, P.A.` | 23/08/2022 |
+| `Shaw & Slavsky` | 19/08/2022 |
 | `Freyr Solutions` | 08/08/2022 |
 | `Liftow LTD` | 04/08/2022 |
 | `BEESENSE` | 04/08/2022 |
-| `Delon Hampton &amp; Associates, Chartered` | 19/07/2022 |
+| `Delon Hampton & Associates, Chartered` | 19/07/2022 |
 | `Autohaus` | 19/07/2022 |
 | `Broshuis  Driving innovation` | 18/07/2022 |
 | `ZEUS Scientific` | 14/07/2022 |
@@ -4910,12 +4909,12 @@ _parsing : `enabled`_
 | `YMCA` | 14/06/2022 |
 | `M. Green and Company LLP` | 14/06/2022 |
 | `Medlab Pathology` | 14/06/2022 |
-| `Florida Department of Veterans&#39; Affairs` | 27/05/2022 |
+| `Florida Department of Veterans' Affairs` | 27/05/2022 |
 | `Active Communications International` | 23/05/2022 |
 | `Transsion Holdings` | 23/05/2022 |
 | `Eurocept` | 23/05/2022 |
 | `Tex-Isle Supply` | 17/05/2022 |
-| `Hirsch Watch Straps &amp; Accessories` | 17/05/2022 |
+| `Hirsch Watch Straps & Accessories` | 17/05/2022 |
 | `InnPower` | 17/05/2022 |
 | `Valley Rentals` | 29/04/2022 |
 | `Hufcor` | 29/04/2022 |
@@ -4929,22 +4928,21 @@ _parsing : `enabled`_
 | `Camden City School District` | 20/04/2022 |
 | `JetStar` | 12/04/2022 |
 | `Hi Tech HoneyComb` | 12/04/2022 |
-| `Service Employees&#39; International Union` | 12/04/2022 |
+| `Service Employees' International Union` | 12/04/2022 |
 | `Broadleaf` | 11/04/2022 |
 | `Wolfe Industrial` | 11/04/2022 |
 | `InfoTek Consulting Services` | 28/02/2022 |
 | `Jazeera Airways` | 09/02/2022 |
 | `Altoona Area School District` | 02/02/2022 |
-| `Lewis &amp; Clark College` | 13/01/2022 |
+| `Lewis & Clark College` | 13/01/2022 |
 | `Chattanooga Chamber of Commerce` | 31/12/2021 |
 | `Biotique` | 23/12/2021 |
 | `Sodiba` | 23/12/2021 |
 | `PRIDE Community Services` | 09/12/2021 |
 | `Zepter` | 09/12/2021 |
-| `Digital Workplace Services &amp; Solutions` | 09/12/2021 |
+| `Digital Workplace Services & Solutions` | 09/12/2021 |
 | `The Jewelry Exchange is the Nations #1 Diamond Store.` | 09/12/2021 |
 | `UABL S.A.` | 30/11/2021 |
-| `</a>` | 22/11/2021 |
 | `TILIA GROUP` | 04/11/2021 |
 | `PVR Ltd.` | 04/11/2021 |
 | `Maple Lodge Farms` | 09/09/2021 |
@@ -4956,19 +4954,19 @@ _parsing : `enabled`_
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
 | none | False | 3 | 00:00 01/05/2021 | `qd7pcafncosqfqu3ha6fcx4h6sr7tzwagzpcdcnytiw3b6varaeqv5yd.onion` |
-| none | True | 3 | 22:07 04/12/2023 | `medusaxko7jxtrojdkxo66j7ck4q5tgktf7uqsqyfry4ebnxlcbkccyd.onion` |
+| none | True | 3 | 00:15 05/12/2023 | `medusaxko7jxtrojdkxo66j7ck4q5tgktf7uqsqyfry4ebnxlcbkccyd.onion` |
 
 | post | date |
 |---|---|
 | `Chetu ` | 29/11/2023 |
 | `Great Valley School District ` | 29/11/2023 |
 | `Community Hospital` | 22/11/2023 |
-| `CENTRE D&#039;AUTO P.R.N. SALABERRY IN` | 17/11/2023 |
-| `McCray &amp; Withrow ` | 17/11/2023 |
+| `CENTRE D'AUTO P.R.N. SALABERRY IN` | 17/11/2023 |
+| `McCray & Withrow ` | 17/11/2023 |
 | `Toyota Financial` | 16/11/2023 |
 | `Moneris Solutions` | 13/11/2023 |
 | `Hopewell Area School District` | 07/11/2023 |
-| `Weidmann &amp; Associates` | 05/11/2023 |
+| `Weidmann & Associates` | 05/11/2023 |
 | `Unimed Blumenau` | 05/11/2023 |
 | `Leaguers` | 05/11/2023 |
 | `Zon Beachside` | 05/11/2023 |
@@ -4977,7 +4975,7 @@ _parsing : `enabled`_
 | `Software Systems ` | 01/11/2023 |
 | `Mount Carmel Care Center` | 31/10/2023 |
 | `Jockey Club` | 30/10/2023 |
-| `ZOUARY &amp; Associés` | 23/10/2023 |
+| `ZOUARY & Associés` | 23/10/2023 |
 | `Safpro` | 23/10/2023 |
 | `EHPAD` | 23/10/2023 |
 | `Beaver Lake Cree Nation` | 23/10/2023 |
@@ -4991,12 +4989,12 @@ _parsing : `enabled`_
 | `Neodata` | 12/10/2023 |
 | `Evasión ` | 12/10/2023 |
 | `SIMTA ` | 12/10/2023 |
-| `ZOUARY &amp; Associés ` | 12/10/2023 |
+| `ZOUARY & Associés ` | 12/10/2023 |
 | `Agència Catalana de Notícies (ACN)` | 06/10/2023 |
 | `Somagic` | 03/10/2023 |
 | `Steripharma` | 02/10/2023 |
 | `Windak` | 02/10/2023 |
-| `Karam Chand Thapar &amp; Bros Coal Sales` | 02/10/2023 |
+| `Karam Chand Thapar & Bros Coal Sales` | 02/10/2023 |
 | `Acoustic Center ` | 27/09/2023 |
 | `LANDSTAR POWER ONTARIO INC` | 27/09/2023 |
 | `Franktronics, Inc` | 23/09/2023 |
@@ -5030,12 +5028,12 @@ _parsing : `enabled`_
 | `Cafe Britt` | 23/07/2023 |
 | `DTD Express ` | 18/07/2023 |
 | `Health Springs Medical Center ` | 18/07/2023 |
-| `Nini Collection Ltd  (Nini&#039;s Jewels)` | 18/07/2023 |
+| `Nini Collection Ltd (Nini's Jewels)` | 18/07/2023 |
 | `Tracker de Colombia SAS` | 08/07/2023 |
 | `Tour Partner Group` | 04/07/2023 |
 | `Yunus Emre Institute Turkey` | 04/07/2023 |
 | `Mutuelle LMP` | 03/07/2023 |
-| `Luna Hotels &amp; Resorts ` | 03/07/2023 |
+| `Luna Hotels & Resorts ` | 03/07/2023 |
 | `Farmacias Los Hidalgos` | 25/06/2023 |
 | `Real Estate Systems Integrator` | 25/06/2023 |
 | `Universitas Matthiae Belii association` | 25/06/2023 |
@@ -5067,7 +5065,7 @@ _parsing : `enabled`_
 | `Polat Yol Yap` | 02/05/2023 |
 | `Bevan Group` | 26/04/2023 |
 | `Magnolia Care Center` | 25/04/2023 |
-| `Bentham &amp; Holroyd Ltd` | 24/04/2023 |
+| `Bentham & Holroyd Ltd` | 24/04/2023 |
 | `WestcoastSmile Dental Studio` | 23/04/2023 |
 | `Uniondale School District` | 17/04/2023 |
 | `Allimand, France` | 15/04/2023 |
@@ -5097,7 +5095,7 @@ _parsing : `enabled`_
 | `AP Emissions Technologies` | 27/02/2023 |
 | `International Center of Photography` | 27/02/2023 |
 | `RAYAB Consulting Engineers` | 27/02/2023 |
-| `Moose, Martin, Haynes &amp; Lundy` | 27/02/2023 |
+| `Moose, Martin, Haynes & Lundy` | 27/02/2023 |
 
 ## snatch
 
@@ -5118,11 +5116,11 @@ _parsing : `enabled`_
 | News | False | 3 | 06:12 02/11/2023 | `hl66646wtlp2naoqnhattngigjp5palgqmbwixepcjyq5i534acgqyad.onion` |
 | News | False | 0 | 06:20 13/12/2022 | `snatch.press` |
 | 401 Unauthorized | False | 0 | 22:11 30/11/2023 | `dwhyj2.top` |
-| Website filesnatchcloud.top is ready. The content  | True | 0 | 22:08 04/12/2023 | `filesnatchcloud.top` |
-| 403 Forbidden | True | 0 | 22:08 04/12/2023 | `sn76920193ch.top` |
-| Just a moment... | True | 0 | 22:08 04/12/2023 | `snatchnews.top` |
+| Website filesnatchcloud.top is ready. The content  | True | 0 | 00:16 05/12/2023 | `filesnatchcloud.top` |
+| 403 Forbidden | True | 0 | 00:16 05/12/2023 | `sn76920193ch.top` |
+| Just a moment... | True | 0 | 00:17 05/12/2023 | `snatchnews.top` |
 | 401 Unauthorized | False | 0 | 22:12 30/11/2023 | `sntech2ch.top` |
-| News | True | 0 | 22:09 04/12/2023 | `snatchteam.cc` |
+| News | True | 0 | 00:17 05/12/2023 | `snatchteam.cc` |
 
 | post | date |
 |---|---|
@@ -5133,18 +5131,18 @@ _parsing : `enabled`_
 | `Maldives Ports Limited` | 30/11/2023 |
 | `Kologik` | 30/11/2023 |
 | `Jerry Pate Energy` | 30/11/2023 |
-| `Hunt Guillot &amp; Associates` | 30/11/2023 |
+| `Hunt Guillot & Associates` | 30/11/2023 |
 | `Florida Department of Veterans' Affairs` | 30/11/2023 |
 | `ALVImedica` | 30/11/2023 |
 | `Detroit Symphony Orchestra` | 01/11/2023 |
-| `M&amp;n Management` | 25/10/2023 |
+| `M&n Management` | 25/10/2023 |
 | `Ancillae-Assumpta Academy` | 25/10/2023 |
 | `Cogal Industry` | 15/10/2023 |
 | `Intech` | 13/10/2023 |
 | `Alliance Virgil Roberts Leadership Academy` | 10/10/2023 |
 | `CEFCO` | 18/09/2023 |
 | `ZILLI` | 18/09/2023 |
-| `Florida Department of Veterans&#039; Affairs` | 18/09/2023 |
+| `Florida Department of Veterans' Affairs` | 18/09/2023 |
 | `Knight Barry Title` | 03/09/2023 |
 | `Fullerton India (SMFG India Credit)` | 26/08/2023 |
 | `Department of Defence South African (DARPA)` | 21/08/2023 |
@@ -5190,7 +5188,7 @@ _parsing : `enabled`_
 | `ET GLOBAL` | 28/12/2022 |
 | `Square Yards` | 28/12/2022 |
 | `TCL Chinese Theatres` | 28/12/2022 |
-| `Trubee, Collins &amp; Co` | 28/12/2022 |
+| `Trubee, Collins & Co` | 28/12/2022 |
 | `Einatec` | 28/12/2022 |
 | `STGi` | 27/11/2022 |
 | `McGRATH` | 20/11/2022 |
@@ -5213,7 +5211,7 @@ _parsing : `enabled`_
 | `Xtera` | 08/03/2022 |
 | `Warren Resources` | 08/03/2022 |
 | `Private company #2` | 03/03/2022 |
-| `McDonald&#039;s` | 25/02/2022 |
+| `McDonald's` | 25/02/2022 |
 | `CIELD` | 19/02/2022 |
 | `PFEIFER Drako` | 19/02/2022 |
 | `PetroVietnam` | 09/02/2022 |
@@ -5248,7 +5246,7 @@ _parsing : `enabled`_
 | `Ishida` | 29/11/2021 |
 | `Arbitech` | 29/11/2021 |
 | `Daylesford Organic` | 29/11/2021 |
-| `Bock, Hatch, Lewis &amp; Oppenheim, LLC` | 29/11/2021 |
+| `Bock, Hatch, Lewis & Oppenheim, LLC` | 29/11/2021 |
 | `Landmark Builders` | 29/11/2021 |
 | `Match MG` | 29/11/2021 |
 | `Cadence Aerospace` | 29/11/2021 |
@@ -5290,7 +5288,7 @@ _parsing : `enabled`_
 | `Bouquet Mulligan DeMaio` | 29/11/2021 |
 | `IDSFULFILLMENT` | 29/11/2021 |
 | `RWL GmbH` | 29/11/2021 |
-| `EISENBERG HEFLER &amp; LEVY LLP` | 29/11/2021 |
+| `EISENBERG HEFLER & LEVY LLP` | 29/11/2021 |
 | `HAMTACO` | 29/11/2021 |
 | `CABINET CAZANAVE` | 29/11/2021 |
 | `Raisetech` | 29/11/2021 |
@@ -5362,7 +5360,7 @@ _`not a ransomware group`_
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
 | none | False | 2 | 00:00 01/05/2021 | `mosesstaffm7hptp.onion` |
-| Page not found – Moses Staff | True | 0 | 22:09 04/12/2023 | `moses-staff.se` |
+| Page not found – Moses Staff | True | 0 | 00:17 05/12/2023 | `moses-staff.se` |
 
 | post | date |
 |---|---|
@@ -5486,9 +5484,9 @@ _`aka blackcat - fileserver `ihoqnxnvdwybrv6kiteiesjc3ic6du6axtv3arouxr6ddswrxa2
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| none | True | 3 | 22:09 04/12/2023 | `alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad.onion` |
+| none | True | 3 | 00:18 05/12/2023 | `alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad.onion` |
 | none | False | 3 | 00:00 01/05/2021 | `2cuqgeerjdba2rhdiviezodpu3lc4qz2sjf4qin6f7std2evleqlzjid.onion` |
-|   | True | 3 | 22:10 04/12/2023 | `vqifktlreqpudvulhbzmc5gocbeawl67uvs2pttswemdorbnhaddohyd.onion` |
+|   | True | 3 | 00:18 05/12/2023 | `vqifktlreqpudvulhbzmc5gocbeawl67uvs2pttswemdorbnhaddohyd.onion` |
 
 | post | date |
 |---|---|
@@ -6178,7 +6176,7 @@ _`not a ransomware group, also ref 7k4y[...]7eid.onion/documents.html`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| -*- CRYP70N1C0D3 Team -*- | True | 3 | 22:10 04/12/2023 | `7k4yyskpz3rxq5nyokf6ztbpywzbjtdfanweup3skctcxopmt7tq7eid.onion` |
+| -*- CRYP70N1C0D3 Team -*- | True | 3 | 00:18 05/12/2023 | `7k4yyskpz3rxq5nyokf6ztbpywzbjtdfanweup3skctcxopmt7tq7eid.onion` |
 
 | post | date |
 |---|---|
@@ -6352,7 +6350,7 @@ _parsing : `enabled`_
 |---|---|
 | `Hearst` | 30/03/2022 |
 | `United Cumberland` | 30/03/2022 |
-| `Jaffe Raitt Heuer &amp; Weiss, P.C.` | 17/03/2022 |
+| `Jaffe Raitt Heuer & Weiss, P.C.` | 17/03/2022 |
 | `GlobalWafers Japan` | 17/03/2022 |
 | `Rosewd` | 17/03/2022 |
 
@@ -6483,7 +6481,7 @@ _parsing : `disabled`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| none | True | 3 | 22:10 04/12/2023 | `ranionv3j2o7wrn3um6de33eccbchhg32mkgnnoi72enkpp7jc25h3ad.onion` |
+| none | True | 3 | 00:18 05/12/2023 | `ranionv3j2o7wrn3um6de33eccbchhg32mkgnnoi72enkpp7jc25h3ad.onion` |
 
 | post | date |
 |---|---|
@@ -6548,9 +6546,9 @@ _parsing : `enabled`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| Black Basta Blog | True | 3 | 22:10 04/12/2023 | `stniiomyjliimcgkvdszvgen3eaaoz55hreqqx6o77yvmpwt7gklffqd.onion` |
+| Black Basta Blog | True | 3 | 00:18 05/12/2023 | `stniiomyjliimcgkvdszvgen3eaaoz55hreqqx6o77yvmpwt7gklffqd.onion` |
 | Chat Black Basta | False | 3 | 13:09 17/09/2023 | `aazsbsgya565vlu2c6bzy6yfiebkcbtvvcytvolt33s77xypi7nypxyd.onion` |
-| Chat Black Basta | True | 3 | 22:11 04/12/2023 | `bastad5huzwkepdixedg2gekg7jk22ato24zyllp6lnjx7wdtyctgvyd.onion` |
+| Chat Black Basta | True | 3 | 00:19 05/12/2023 | `bastad5huzwkepdixedg2gekg7jk22ato24zyllp6lnjx7wdtyctgvyd.onion` |
 
 | post | date |
 |---|---|
@@ -6891,7 +6889,7 @@ _parsing : `enabled`_
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
 | ©RansomHouse | False | 3 | 20:57 01/10/2022 | `xw7au5pnwtl6lozbsudkmyd32n6gnqdngitjdppybudan3x3pjgpmpid.onion` |
-| none | True | 3 | 22:11 04/12/2023 | `zohlm7ahjwegcedoz7lrdrti7bvpofymcayotp744qhx6gjmxbuo2yid.onion` |
+| none | True | 3 | 00:19 05/12/2023 | `zohlm7ahjwegcedoz7lrdrti7bvpofymcayotp744qhx6gjmxbuo2yid.onion` |
 
 | post | date |
 |---|---|
@@ -7005,28 +7003,28 @@ _parsing : `enabled`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| LockBit BLOG | True | 3 | 22:12 04/12/2023 | `lockbitapt2d73krlbewgv27tquljgxr33xbwwsp6rkyieto7u4ncead.onion` |
-| LockBit BLOG | True | 3 | 22:12 04/12/2023 | `lockbitapt2yfbt7lchxejug47kmqvqqxvvjpqkmevv4l3azl3gy6pyd.onion` |
-| LockBit BLOG | True | 3 | 22:13 04/12/2023 | `lockbitapt34kvrip6xojylohhxrwsvpzdffgs5z4pbbsywnzsbdguqd.onion` |
-| LockBit BLOG | True | 3 | 22:13 04/12/2023 | `lockbitapt5x4zkjbcqmz6frdhecqqgadevyiwqxukksspnlidyvd7qd.onion` |
-| LockBit BLOG | True | 3 | 22:14 04/12/2023 | `lockbitapt6vx57t3eeqjofwgcglmutr3a35nygvokja5uuccip4ykyd.onion` |
-| LockBit BLOG | True | 3 | 22:14 04/12/2023 | `lockbitapt72iw55njgnqpymggskg5yp75ry7rirtdg4m7i42artsbqd.onion` |
-| LockBit BLOG | True | 3 | 22:15 04/12/2023 | `lockbitaptawjl6udhpd323uehekiyatj6ftcxmkwe5sezs4fqgpjpid.onion` |
-| LockBit BLOG | True | 3 | 22:15 04/12/2023 | `lockbitaptbdiajqtplcrigzgdjprwugkkut63nbvy2d5r4w2agyekqd.onion` |
-| LockBit BLOG | True | 3 | 22:16 04/12/2023 | `lockbitaptc2iq4atewz2ise62q63wfktyrl4qtwuk5qax262kgtzjqd.onion` |
-| LockBit BLOG | True | 3 | 22:16 04/12/2023 | `lockbitapt72iw55njgnqpymggskg5yp75ry7rirtdg4m7i42artsbqd.onion` |
-| LockBit LOGIN | True | 3 | 22:16 04/12/2023 | `lockbitsupa7e3b4pkn4mgkgojrl5iqgx24clbzc4xm7i6jeetsia3qd.onion` |
-| LockBit LOGIN | True | 3 | 22:17 04/12/2023 | `lockbitsupdwon76nzykzblcplixwts4n4zoecugz2bxabtapqvmzqqd.onion` |
-| LockBit Anti-DDoS | True | 3 | 22:17 04/12/2023 | `lockbitsupn2h6be2cnqpvncyhj4rgmnwn44633hnzzmtxdvjoqlp7yd.onion` |
-| LockBit LOGIN | True | 3 | 22:18 04/12/2023 | `lockbitsupo7vv5vcl3jxpsdviopwvasljqcstym6efhh6oze7c6xjad.onion` |
-| LockBit LOGIN | True | 3 | 22:18 04/12/2023 | `lockbitsupqfyacidr6upt6nhhyipujvaablubuevxj6xy3frthvr3yd.onion` |
-| none | True | 3 | 22:18 04/12/2023 | `lockbitsupt7nr3fa6e7xyb73lk6bw6rcneqhoyblniiabj4uwvzapqd.onion` |
-| LockBit LOGIN | True | 3 | 22:19 04/12/2023 | `lockbitsupuhswh4izvoucoxsbnotkmgq6durg7kficg6u33zfvq3oyd.onion` |
-| LockBit LOGIN | True | 3 | 22:19 04/12/2023 | `lockbitsupxcjntihbmat4rrh7ktowips2qzywh6zer5r3xafhviyhqd.onion` |
-| LockBit LOGIN | True | 3 | 22:19 04/12/2023 | `lockbitsupq3g62dni2f36snrdb4n5qzqvovbtkt5xffw3draxk6gwqd.onion` |
-| LockBit File Share | True | 3 | 22:20 04/12/2023 | `lockbitfile2tcudkcqqt2ve6btssyvqwlizbpv5vz337lslmhff2uad.onion` |
-| LockBit Private Note | True | 3 | 22:20 04/12/2023 | `lockbitnotexk2vnf2q2zwjefsl3hjsnk4u74vq4chxrqpjclfydk4ad.onion` |
-| LockBit LOGIN | True | 3 | 22:21 04/12/2023 | `lockbitsup4yezcd5enk5unncx3zcy7kw6wllyqmiyhvanjj352jayid.onion` |
+| LockBit BLOG | True | 3 | 00:20 05/12/2023 | `lockbitapt2d73krlbewgv27tquljgxr33xbwwsp6rkyieto7u4ncead.onion` |
+| LockBit BLOG | True | 3 | 00:20 05/12/2023 | `lockbitapt2yfbt7lchxejug47kmqvqqxvvjpqkmevv4l3azl3gy6pyd.onion` |
+| LockBit BLOG | True | 3 | 00:21 05/12/2023 | `lockbitapt34kvrip6xojylohhxrwsvpzdffgs5z4pbbsywnzsbdguqd.onion` |
+| LockBit BLOG | True | 3 | 00:21 05/12/2023 | `lockbitapt5x4zkjbcqmz6frdhecqqgadevyiwqxukksspnlidyvd7qd.onion` |
+| LockBit BLOG | True | 3 | 00:22 05/12/2023 | `lockbitapt6vx57t3eeqjofwgcglmutr3a35nygvokja5uuccip4ykyd.onion` |
+| LockBit BLOG | True | 3 | 00:22 05/12/2023 | `lockbitapt72iw55njgnqpymggskg5yp75ry7rirtdg4m7i42artsbqd.onion` |
+| LockBit BLOG | True | 3 | 00:22 05/12/2023 | `lockbitaptawjl6udhpd323uehekiyatj6ftcxmkwe5sezs4fqgpjpid.onion` |
+| LockBit BLOG | True | 3 | 00:23 05/12/2023 | `lockbitaptbdiajqtplcrigzgdjprwugkkut63nbvy2d5r4w2agyekqd.onion` |
+| LockBit BLOG | True | 3 | 00:23 05/12/2023 | `lockbitaptc2iq4atewz2ise62q63wfktyrl4qtwuk5qax262kgtzjqd.onion` |
+| LockBit BLOG | True | 3 | 00:24 05/12/2023 | `lockbitapt72iw55njgnqpymggskg5yp75ry7rirtdg4m7i42artsbqd.onion` |
+| LockBit LOGIN | True | 3 | 00:24 05/12/2023 | `lockbitsupa7e3b4pkn4mgkgojrl5iqgx24clbzc4xm7i6jeetsia3qd.onion` |
+| LockBit LOGIN | True | 3 | 00:24 05/12/2023 | `lockbitsupdwon76nzykzblcplixwts4n4zoecugz2bxabtapqvmzqqd.onion` |
+| LockBit LOGIN | True | 3 | 00:25 05/12/2023 | `lockbitsupn2h6be2cnqpvncyhj4rgmnwn44633hnzzmtxdvjoqlp7yd.onion` |
+| LockBit LOGIN | True | 3 | 00:25 05/12/2023 | `lockbitsupo7vv5vcl3jxpsdviopwvasljqcstym6efhh6oze7c6xjad.onion` |
+| LockBit LOGIN | True | 3 | 00:26 05/12/2023 | `lockbitsupqfyacidr6upt6nhhyipujvaablubuevxj6xy3frthvr3yd.onion` |
+| LockBit LOGIN | True | 3 | 00:26 05/12/2023 | `lockbitsupt7nr3fa6e7xyb73lk6bw6rcneqhoyblniiabj4uwvzapqd.onion` |
+| LockBit LOGIN | True | 3 | 00:26 05/12/2023 | `lockbitsupuhswh4izvoucoxsbnotkmgq6durg7kficg6u33zfvq3oyd.onion` |
+| LockBit LOGIN | True | 3 | 00:27 05/12/2023 | `lockbitsupxcjntihbmat4rrh7ktowips2qzywh6zer5r3xafhviyhqd.onion` |
+| LockBit LOGIN | True | 3 | 00:27 05/12/2023 | `lockbitsupq3g62dni2f36snrdb4n5qzqvovbtkt5xffw3draxk6gwqd.onion` |
+| LockBit File Share | True | 3 | 00:28 05/12/2023 | `lockbitfile2tcudkcqqt2ve6btssyvqwlizbpv5vz337lslmhff2uad.onion` |
+| LockBit Private Note | True | 3 | 00:28 05/12/2023 | `lockbitnotexk2vnf2q2zwjefsl3hjsnk4u74vq4chxrqpjclfydk4ad.onion` |
+| LockBit LOGIN | True | 3 | 00:28 05/12/2023 | `lockbitsup4yezcd5enk5unncx3zcy7kw6wllyqmiyhvanjj352jayid.onion` |
 
 | post | date |
 |---|---|
@@ -8429,7 +8427,7 @@ _parsing : `enabled`_
 | `Greetings to havi.com and tmsw.com` | 02/07/2022 |
 | `Big data dump from various organizations` | 02/07/2022 |
 | `Walmart was encrypted` | 02/07/2022 |
-| `Cincinnati bell didn&rsquo;t pay the ransom` | 02/07/2022 |
+| `Cincinnati bell didn’t pay the ransom` | 02/07/2022 |
 
 ## nokoyawa
 
@@ -8489,8 +8487,8 @@ _parsing : `enabled`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| Chat | True | 3 | 22:22 04/12/2023 | `omx5iqrdbsoitf3q4xexrqw5r5tfw7vp3vl3li3lfo7saabxazshnead.onion` |
-| Magazine | True | 3 | 22:22 04/12/2023 | `3f7nxkjway3d223j27lyad7v5cgmyaifesycvmwq7i7cbs23lb6llryd.onion` |
+| Chat | False | 3 | 22:22 04/12/2023 | `omx5iqrdbsoitf3q4xexrqw5r5tfw7vp3vl3li3lfo7saabxazshnead.onion` |
+| Magazine | True | 3 | 00:30 05/12/2023 | `3f7nxkjway3d223j27lyad7v5cgmyaifesycvmwq7i7cbs23lb6llryd.onion` |
 | none | False | 0 | 00:00 01/05/2021 | `karaleaks.com` |
 
 | post | date |
@@ -8533,14 +8531,14 @@ _parsing : `enabled`_
 | `Gage Brothers` | 16/12/2022 |
 | `Batesville Products` | 13/12/2022 |
 | `Municipalidad de belen` | 11/12/2022 |
-| `William A. Kibbe &amp; Associates` | 11/12/2022 |
+| `William A. Kibbe & Associates` | 11/12/2022 |
 | `Infinitum` | 11/12/2022 |
 | `Hiersun Jewelry Co Ltd` | 11/12/2022 |
 | `Energy Transfer Durafin Tubes` | 11/12/2022 |
 | `KINSHOFER GmbH` | 11/12/2022 |
 | `APSM Systems` | 11/12/2022 |
 | `Latitude 37` | 11/12/2022 |
-| `South Jersey Glass &amp; Doors` | 11/12/2022 |
+| `South Jersey Glass & Doors` | 11/12/2022 |
 | `APECQ` | 11/12/2022 |
 | `Bergamo Metal` | 11/12/2022 |
 | `Metroclean` | 11/12/2022 |
@@ -8603,7 +8601,7 @@ _parsing : `enabled`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| Companies - BianLian | True | 3 | 22:23 04/12/2023 | `bianlianlbc5an4kgnay3opdemgcryg2kpfcbgczopmm3dnbz3uaunad.onion` |
+| Companies - BianLian | True | 3 | 00:30 05/12/2023 | `bianlianlbc5an4kgnay3opdemgcryg2kpfcbgczopmm3dnbz3uaunad.onion` |
 
 | post | date |
 |---|---|
@@ -8980,8 +8978,8 @@ _parsing : `enabled`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| 0mega - Blog | True | 3 | 22:23 04/12/2023 | `omegalock5zxwbhswbisc42o2q2i54vdulyvtqqbudqousisjgc7j7yd.onion` |
-| 0mega - Blog | True | 0 | 22:23 04/12/2023 | `0mega.cc` |
+| 0mega - Blog | True | 3 | 00:30 05/12/2023 | `omegalock5zxwbhswbisc42o2q2i54vdulyvtqqbudqousisjgc7j7yd.onion` |
+| 0mega - Blog | True | 0 | 00:30 05/12/2023 | `0mega.cc` |
 
 | post | date |
 |---|---|
@@ -9011,30 +9009,30 @@ _parsing : `disabled`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| LockBit - Leaked | True | 3 | 22:23 04/12/2023 | `lockbit7z2jwcskxpbokpemdxmltipntwlkmidcll2qirbu7ykg46eyd.onion` |
-| LockBit - Leaked | True | 3 | 22:23 04/12/2023 | `lockbit7z2mmiz3ryxafn5kapbvbbiywsxwovasfkgf5dqqp5kxlajad.onion` |
-| LockBit - Leaked | True | 3 | 22:23 04/12/2023 | `lockbit7z2og4jlsmdy7dzty3g42eu3gh2sx2b6ywtvhrjtss7li4fyd.onion` |
-| LockBit - Leaked | True | 3 | 22:23 04/12/2023 | `lockbit7z355oalq4hiy5p7de64l6rsqutwlvydqje56uvevcc57r6qd.onion` |
-| LockBit - Leaked | True | 3 | 22:23 04/12/2023 | `lockbit7z36ynytxwjzuoao46ck7b3753gpedary3qvuizn3iczhe4id.onion` |
-| LockBit - Leaked | True | 3 | 22:24 04/12/2023 | `lockbit7z37ntefjdbjextn6tmdkry4j546ejnru5cejeguitiopvhad.onion` |
-| LockBit - Leaked | True | 3 | 22:24 04/12/2023 | `lockbit7z3azdoxdpqxzliszutufbc2fldagztdu47xyucp25p4xtqad.onion` |
-| LockBit - Leaked | True | 3 | 22:24 04/12/2023 | `lockbit7z3ddvg5vuez2vznt73ljqgwx5tnuqaa2ye7lns742yiv2zyd.onion` |
-| LockBit - Leaked | True | 3 | 22:24 04/12/2023 | `lockbit7z3hv7ev5knxbrhsvv2mmu2rddwqizdz4vwfvxt5izrq6zqqd.onion` |
-| LockBit - Leaked | True | 3 | 22:24 04/12/2023 | `lockbit7z3ujnkhxwahhjduh5me2updvzxewhhc5qvk2snxezoi5drad.onion` |
-| LockBit - Leaked | True | 3 | 22:24 04/12/2023 | `lockbit7z4bsm63m3dagp5xglyacr4z4bwytkvkkwtn6enmuo5fi5iyd.onion` |
-| LockBit - Leaked | True | 3 | 22:24 04/12/2023 | `lockbit7z4cgxvictidwfxpuiov4scdw34nxotmbdjyxpkvkg34mykyd.onion` |
-| LockBit - Leaked | True | 3 | 22:24 04/12/2023 | `lockbit7z4k5zer5fbqi2vdq5sx2vuggatwyqvoodrkhubxftyrvncid.onion` |
-| LockBit - Leaked | True | 3 | 22:24 04/12/2023 | `lockbit7z4ndl6thsct34yd47jrzdkpnfg3acfvpacuccb45pnars2ad.onion` |
-| LockBit - Leaked | True | 3 | 22:24 04/12/2023 | `lockbit7z55tuwaflw2c7torcryobdvhkcgvivhflyndyvcrexafssad.onion` |
-| LockBit - Leaked | True | 3 | 22:24 04/12/2023 | `lockbit7z57mkicfkuq44j6yrpu5finwvjllczkkp2uvdedsdonjztyd.onion` |
-| LockBit - Leaked | True | 3 | 22:25 04/12/2023 | `lockbit7z5ehshj6gzpetw5kso3onts6ty7wrnneya5u4aj3vzkeoaqd.onion` |
-| LockBit - Leaked | True | 3 | 22:25 04/12/2023 | `lockbit7z5hwf6ywfuzipoa42tjlmal3x5suuccngsamsgklww2xgyqd.onion` |
-| LockBit - Leaked | True | 3 | 22:25 04/12/2023 | `lockbit7z5ltrhzv46lsg447o3cx2637dloc3qt4ugd3gr2xdkkkeayd.onion` |
-| LockBit - Leaked | True | 3 | 22:25 04/12/2023 | `lockbit7z6choojah4ipvdpzzfzxxchjbecnmtn4povk6ifdvx2dpnid.onion` |
-| LockBit - Leaked | True | 3 | 22:25 04/12/2023 | `lockbit7z6dqziutocr43onmvpth32njp4abfocfauk2belljjpobxyd.onion` |
-| LockBit - Leaked | True | 3 | 22:25 04/12/2023 | `lockbit7z6f3gu6rjvrysn5gjbsqj3hk3bvsg64ns6pjldqr2xhvhsyd.onion` |
-| LockBit - Leaked | True | 3 | 22:25 04/12/2023 | `lockbit7z6qinyhhmibvycu5kwmcvgrbpvtztkvvmdce5zwtucaeyrqd.onion` |
-| LockBit - Leaked | True | 3 | 22:25 04/12/2023 | `lockbit7z6rzyojiye437jp744d4uwtff7aq7df7gh2jvwqtv525c4yd.onion` |
+| LockBit - Leaked | True | 3 | 00:30 05/12/2023 | `lockbit7z2jwcskxpbokpemdxmltipntwlkmidcll2qirbu7ykg46eyd.onion` |
+| LockBit - Leaked | True | 3 | 00:31 05/12/2023 | `lockbit7z2mmiz3ryxafn5kapbvbbiywsxwovasfkgf5dqqp5kxlajad.onion` |
+| LockBit - Leaked | True | 3 | 00:31 05/12/2023 | `lockbit7z2og4jlsmdy7dzty3g42eu3gh2sx2b6ywtvhrjtss7li4fyd.onion` |
+| LockBit - Leaked | True | 3 | 00:31 05/12/2023 | `lockbit7z355oalq4hiy5p7de64l6rsqutwlvydqje56uvevcc57r6qd.onion` |
+| LockBit - Leaked | True | 3 | 00:31 05/12/2023 | `lockbit7z36ynytxwjzuoao46ck7b3753gpedary3qvuizn3iczhe4id.onion` |
+| LockBit - Leaked | True | 3 | 00:31 05/12/2023 | `lockbit7z37ntefjdbjextn6tmdkry4j546ejnru5cejeguitiopvhad.onion` |
+| LockBit - Leaked | True | 3 | 00:31 05/12/2023 | `lockbit7z3azdoxdpqxzliszutufbc2fldagztdu47xyucp25p4xtqad.onion` |
+| LockBit - Leaked | True | 3 | 00:31 05/12/2023 | `lockbit7z3ddvg5vuez2vznt73ljqgwx5tnuqaa2ye7lns742yiv2zyd.onion` |
+| LockBit - Leaked | True | 3 | 00:31 05/12/2023 | `lockbit7z3hv7ev5knxbrhsvv2mmu2rddwqizdz4vwfvxt5izrq6zqqd.onion` |
+| LockBit - Leaked | True | 3 | 00:31 05/12/2023 | `lockbit7z3ujnkhxwahhjduh5me2updvzxewhhc5qvk2snxezoi5drad.onion` |
+| LockBit - Leaked | True | 3 | 00:31 05/12/2023 | `lockbit7z4bsm63m3dagp5xglyacr4z4bwytkvkkwtn6enmuo5fi5iyd.onion` |
+| LockBit - Leaked | True | 3 | 00:31 05/12/2023 | `lockbit7z4cgxvictidwfxpuiov4scdw34nxotmbdjyxpkvkg34mykyd.onion` |
+| LockBit - Leaked | True | 3 | 00:32 05/12/2023 | `lockbit7z4k5zer5fbqi2vdq5sx2vuggatwyqvoodrkhubxftyrvncid.onion` |
+| LockBit - Leaked | True | 3 | 00:32 05/12/2023 | `lockbit7z4ndl6thsct34yd47jrzdkpnfg3acfvpacuccb45pnars2ad.onion` |
+| LockBit - Leaked | True | 3 | 00:32 05/12/2023 | `lockbit7z55tuwaflw2c7torcryobdvhkcgvivhflyndyvcrexafssad.onion` |
+| LockBit - Leaked | True | 3 | 00:32 05/12/2023 | `lockbit7z57mkicfkuq44j6yrpu5finwvjllczkkp2uvdedsdonjztyd.onion` |
+| LockBit - Leaked | True | 3 | 00:32 05/12/2023 | `lockbit7z5ehshj6gzpetw5kso3onts6ty7wrnneya5u4aj3vzkeoaqd.onion` |
+| LockBit - Leaked | True | 3 | 00:32 05/12/2023 | `lockbit7z5hwf6ywfuzipoa42tjlmal3x5suuccngsamsgklww2xgyqd.onion` |
+| LockBit - Leaked | True | 3 | 00:32 05/12/2023 | `lockbit7z5ltrhzv46lsg447o3cx2637dloc3qt4ugd3gr2xdkkkeayd.onion` |
+| LockBit - Leaked | True | 3 | 00:32 05/12/2023 | `lockbit7z6choojah4ipvdpzzfzxxchjbecnmtn4povk6ifdvx2dpnid.onion` |
+| LockBit - Leaked | True | 3 | 00:32 05/12/2023 | `lockbit7z6dqziutocr43onmvpth32njp4abfocfauk2belljjpobxyd.onion` |
+| LockBit - Leaked | True | 3 | 00:32 05/12/2023 | `lockbit7z6f3gu6rjvrysn5gjbsqj3hk3bvsg64ns6pjldqr2xhvhsyd.onion` |
+| LockBit - Leaked | True | 3 | 00:32 05/12/2023 | `lockbit7z6qinyhhmibvycu5kwmcvgrbpvtztkvvmdce5zwtucaeyrqd.onion` |
+| LockBit - Leaked | True | 3 | 00:32 05/12/2023 | `lockbit7z6rzyojiye437jp744d4uwtff7aq7df7gh2jvwqtv525c4yd.onion` |
 
 | post | date |
 |---|---|
@@ -9046,7 +9044,7 @@ _parsing : `enabled`_
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
 | none | False | 3 | 21:25 10/11/2022 | `232fwh5cea3ub6qguz3pynijxfzl2uj3c73nbrayipf3gq25vtq2r4qd.onion` |
-| Data Leak | False | 3 | 20:24 04/12/2023 | `7ukmkdtyxdkdivtjad57klqnd3kdsmq6tp45rrsxqnu76zzv3jvitlqd.onion` |
+| Data Leak | True | 3 | 00:33 05/12/2023 | `7ukmkdtyxdkdivtjad57klqnd3kdsmq6tp45rrsxqnu76zzv3jvitlqd.onion` |
 
 | post | date |
 |---|---|
@@ -9097,9 +9095,9 @@ _`builder location - 3t4rdgrd5n6twobig5pyjqhf6qzocwau6wv644nrssinlyuf34g3zoqd.on
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
 | 502 Bad Gateway | False | 3 | 21:34 27/10/2022 | `qkbbaxiuqqcqb5nox4np4qjcniy2q6m7yeluvj7n5i5dn7pgpcwxwfid.onion` |
-| none | True | 3 | 22:26 04/12/2023 | `sbc2zv2qnz5vubwtx3aobfpkeao6l4igjegm3xx7tk5suqhjkp5jxtqd.onion` |
+| none | True | 3 | 00:33 05/12/2023 | `sbc2zv2qnz5vubwtx3aobfpkeao6l4igjegm3xx7tk5suqhjkp5jxtqd.onion` |
 | _d0nut.::Files_ | False | 3 | 01:53 26/10/2022 | `doq32rjiuomfghm5a4lyf3lwwakt2774tkv4ppsos6ueo5mhx7662gid.onion` |
-| 404 Not Found | True | 3 | 22:27 04/12/2023 | `dk4mkfzqai6ure62oukzgtypedmwlfq57yj2fube7j5wsoi6tuia7nyd.onion` |
+| 404 Not Found | True | 3 | 00:34 05/12/2023 | `dk4mkfzqai6ure62oukzgtypedmwlfq57yj2fube7j5wsoi6tuia7nyd.onion` |
 
 | post | date |
 |---|---|
@@ -9111,7 +9109,7 @@ _`builder location - 3t4rdgrd5n6twobig5pyjqhf6qzocwau6wv644nrssinlyuf34g3zoqd.on
 | `UPDATED: INC RANSOMWARE...` | 05/10/2023 |
 | `RAT.` | 02/10/2023 |
 | `INC RANSOMWARE...` | 30/09/2023 |
-| `Gossler, Gobert &amp; Wolters Group.` | 19/09/2023 |
+| `Gossler, Gobert & Wolters Group.` | 19/09/2023 |
 | `Agilitas IT Solutions Limited` | 19/09/2023 |
 | `Jackson Township Police Department and Administration.` | 23/07/2023 |
 | `JANUS Research Group` | 09/07/2023 |
@@ -9217,7 +9215,7 @@ _parsing : `enabled`_
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
 | 404 Not Found | False | 3 | 19:34 10/10/2022 | `4s4lnfeujzo67fy2jebz2dxskez2gsqj2jeb35m75ktufxensdicqxad.onion` |
-| MONTI - Leaks site | True | 3 | 22:27 04/12/2023 | `mblogci3rudehaagbryjznltdp33ojwzkq6hn2pckvjq33rycmzczpid.onion` |
+| MONTI - Leaks site | True | 3 | 00:34 05/12/2023 | `mblogci3rudehaagbryjznltdp33ojwzkq6hn2pckvjq33rycmzczpid.onion` |
 
 | post | date |
 |---|---|
@@ -9545,7 +9543,7 @@ _`wtyafjyhwqrg[...].onion/post?get_listBlog`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-|  Mallox - Data Leaks | True | 3 | 22:28 04/12/2023 | `wtyafjyhwqrgo4a45wdvvwhen3cx4euie73qvlhkhvlrexljoyuklaad.onion` |
+|  Mallox - Data Leaks | True | 3 | 00:35 05/12/2023 | `wtyafjyhwqrgo4a45wdvvwhen3cx4euie73qvlhkhvlrexljoyuklaad.onion` |
 
 | post | date |
 |---|---|
@@ -9615,8 +9613,8 @@ _parsing : `enabled`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| PLAY NEWS | True | 3 | 22:28 04/12/2023 | `k7kg3jqxang3wh7hnmaiokchk7qoebupfgoik6rha6mjpzwupwtj25yd.onion` |
-| PLAY NEWS | True | 3 | 22:28 04/12/2023 | `mbrlkbtq5jonaqkurjwmxftytyn2ethqvbxfu4rgjbkkknndqwae6byd.onion` |
+| PLAY NEWS | True | 3 | 00:35 05/12/2023 | `k7kg3jqxang3wh7hnmaiokchk7qoebupfgoik6rha6mjpzwupwtj25yd.onion` |
+| PLAY NEWS | True | 3 | 00:35 05/12/2023 | `mbrlkbtq5jonaqkurjwmxftytyn2ethqvbxfu4rgjbkkknndqwae6byd.onion` |
 
 | post | date |
 |---|---|
@@ -9987,7 +9985,7 @@ _parsing : `enabled`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| Vendetta | True | 3 | 22:28 04/12/2023 | `test.cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion` |
+| Vendetta | True | 3 | 00:35 05/12/2023 | `test.cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion` |
 
 | post | date |
 |---|---|
@@ -10003,7 +10001,7 @@ _`login page, no posts`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| U-bomb | True | 3 | 22:28 04/12/2023 | `contiuevxdgdhn3zl2kubpajtfgqq4ssj2ipv6ujw7fwhggev3rk6hqd.onion` |
+| U-bomb | True | 3 | 00:35 05/12/2023 | `contiuevxdgdhn3zl2kubpajtfgqq4ssj2ipv6ujw7fwhggev3rk6hqd.onion` |
 
 | post | date |
 |---|---|
@@ -10014,8 +10012,8 @@ _parsing : `enabled`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| Ransomware blog – We will not give ourselves a nam | True | 3 | 22:29 04/12/2023 | `z6wkgghtoawog5noty5nxulmmt2zs7c3yvwr22v4czbffdoly2kl4uad.onion` |
-| Ransomware blog – We will not give ourselves a nam | False | 3 | 20:27 04/12/2023 | `z6wkgghzdliugvwinrp46m7i4xpmovjyygoitpicx7x2iqtihn7noxid.onion` |
+| Ransomware blog – We will not give ourselves a nam | True | 3 | 00:35 05/12/2023 | `z6wkgghtoawog5noty5nxulmmt2zs7c3yvwr22v4czbffdoly2kl4uad.onion` |
+| Ransomware blog – We will not give ourselves a nam | True | 3 | 00:36 05/12/2023 | `z6wkgghzdliugvwinrp46m7i4xpmovjyygoitpicx7x2iqtihn7noxid.onion` |
 
 | post | date |
 |---|---|
@@ -10074,7 +10072,7 @@ _parsing : `enabled`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| none | True | 3 | 22:29 04/12/2023 | `3ev4metjirohtdpshsqlkrqcmxq6zu3d7obrdhglpy5jpbr7whmlfgqd.onion` |
+| none | True | 3 | 00:36 05/12/2023 | `3ev4metjirohtdpshsqlkrqcmxq6zu3d7obrdhglpy5jpbr7whmlfgqd.onion` |
 
 | post | date |
 |---|---|
@@ -10113,7 +10111,7 @@ _parsing : `enabled`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| none | True | 3 | 22:29 04/12/2023 | `blogvl7tjyjvsfthobttze52w36wwiz34hrfcmorgvdzb6hikucb7aqd.onion` |
+| none | True | 3 | 00:36 05/12/2023 | `blogvl7tjyjvsfthobttze52w36wwiz34hrfcmorgvdzb6hikucb7aqd.onion` |
 
 | post | date |
 |---|---|
@@ -10138,11 +10136,10 @@ _parsing : `enabled`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| Dunghill Leak - Details | True | 3 | 22:29 04/12/2023 | `p66slxmtum2ox4jpayco6ai3qfehd5urgrs4oximjzklxcol264driqd.onion` |
+| Dunghill Leak - Details | True | 3 | 00:36 05/12/2023 | `p66slxmtum2ox4jpayco6ai3qfehd5urgrs4oximjzklxcol264driqd.onion` |
 
 | post | date |
 |---|---|
-| `</a>` | 11/10/2023 |
 | `CannonDesign` | 26/09/2023 |
 | `Robins & Morton` | 26/09/2023 |
 | `Roper & Vertafore` | 26/09/2023 |
@@ -10160,8 +10157,8 @@ _parsing : `enabled`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| none | True | 3 | 22:29 04/12/2023 | `akiral2iz6a7qgd3ayp3l6yub7xx2uep76idk3u2kollpj5z3z636bad.onion` |
-| / | True | 3 | 22:30 04/12/2023 | `akiralkzxzq2dsrzsrvbr2xgbbu2wgsmxryd4csgfameg52n7efvr2id.onion` |
+| none | True | 3 | 00:36 05/12/2023 | `akiral2iz6a7qgd3ayp3l6yub7xx2uep76idk3u2kollpj5z3z636bad.onion` |
+| / | True | 3 | 00:36 05/12/2023 | `akiralkzxzq2dsrzsrvbr2xgbbu2wgsmxryd4csgfameg52n7efvr2id.onion` |
 
 | post | date |
 |---|---|
@@ -10374,7 +10371,7 @@ _parsing : `enabled`_
 | Blog | False | 3 | 10:34 26/06/2023 | `6n5tfadusp4sarzuxntz34q4ohspiaya2mc6aw6uhlusfqfsdomavyyd.onion` |
 | 404 Not Found | False | 3 | 07:34 18/10/2023 | `trigonax2zb3fw34rbaap4cqep76zofxs53zakrdgcxzq6xzt24l5lqd.onion` |
 | Trigona is Gone | False | 3 | 07:34 18/10/2023 | `3x55o3u2b7cjs54eifja5m3ottxntlubhjzt6k6htp5nrocjmsxxh7ad.onion` |
-| Sign up | True | 3 | 22:31 04/12/2023 | `znuzuy4hkjacew5y2q7mo63hufhzzjtsr2bkjetxqjibk4ctfl7jghyd.onion` |
+| Sign up | True | 3 | 00:38 05/12/2023 | `znuzuy4hkjacew5y2q7mo63hufhzzjtsr2bkjetxqjibk4ctfl7jghyd.onion` |
 
 | post | date |
 |---|---|
@@ -10407,7 +10404,7 @@ _parsing : `enabled`_
 | `Unique Imaging` | 11/05/2023 |
 | `Axiom Professional Solutions` | 11/05/2023 |
 | `https://freshinsuranceitservices.co.uk` | 09/05/2023 |
-| `Treadwell, Tamplin &amp; Company, Certified Public Accountants, Madison, GA` | 04/05/2023 |
+| `Treadwell, Tamplin & Company, Certified Public Accountants, Madison, GA` | 04/05/2023 |
 | `https://www.amouage.com` | 18/04/2023 |
 | `Winter Park Construction` | 18/04/2023 |
 | `https://www.onb-france.com/` | 18/04/2023 |
@@ -10420,7 +10417,7 @@ _parsing : `enabled`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| RA World | True | 3 | 22:31 04/12/2023 | `pa32ymaeu62yo5th5mraikgw5fcvznnsiiwti42carjliarodltmqcqd.onion` |
+| RA World | True | 3 | 00:38 05/12/2023 | `pa32ymaeu62yo5th5mraikgw5fcvznnsiiwti42carjliarodltmqcqd.onion` |
 | 502 Bad Gateway | False | 3 | 07:19 25/08/2023 | `hkpomcx622gnqp2qhenv4ceyrhwvld3zwogr4mnkdeudq2txf55keoad.onion` |
 
 | post | date |
@@ -10473,7 +10470,7 @@ _parsing : `enabled`_
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
 | Home | False | 3 | 14:35 03/11/2023 | `basemmnnqwxevlymli5bs36o5ynti55xojzvn246spahniugwkff2pad.onion` |
-| Home | True | 3 | 22:31 04/12/2023 | `xb6q2aggycmlcrjtbjendcnnwpmmwbosqaugxsqb4nx6cmod3emy7sad.onion` |
+| Home | False | 3 | 22:31 04/12/2023 | `xb6q2aggycmlcrjtbjendcnnwpmmwbosqaugxsqb4nx6cmod3emy7sad.onion` |
 
 | post | date |
 |---|---|
@@ -10544,7 +10541,7 @@ _parsing : `enabled`_
 | `FRESH TASTE PRODUCE USA AND ASSOCIATES INC.` | 06/09/2023 |
 | `Chula Vista Electric (CVE)` | 06/09/2023 |
 | `VVandA` | 04/09/2023 |
-| `VV&amp;amp;A` | 04/09/2023 |
+| `VV&A` | 04/09/2023 |
 | `Prodegest Assessors` | 04/09/2023 |
 | `Fenn Termite and Pest Control` | 31/08/2023 |
 | `PRIDE GLOBAL CONSULTING SL` | 30/08/2023 |
@@ -10565,7 +10562,7 @@ _parsing : `enabled`_
 | `Mil-Ken Travel` | 24/08/2023 |
 | `Kevills Solicitors` | 24/08/2023 |
 | `The Law Offices of Steven H. Heisler` | 24/08/2023 |
-| `Bahamas Medical &amp;amp; Surgical Supplies` | 24/08/2023 |
+| `Bahamas Medical & Surgical Supplies` | 24/08/2023 |
 | `ToyotaLift Northeast` | 16/08/2023 |
 | `Keystone Insurance Services` | 15/08/2023 |
 | `ANS` | 15/08/2023 |
@@ -10584,15 +10581,15 @@ _parsing : `enabled`_
 | `Spectra Industrial` | 25/07/2023 |
 | `Miranda Brokerage` | 25/07/2023 |
 | `Institut Mensalus S.L.` | 25/07/2023 |
-| `Kersey &amp;amp; Co` | 25/07/2023 |
+| `Kersey & Co` | 25/07/2023 |
 | `FANSIPAN CONSTRUCTION CONSULTANTS CO.,LTD` | 25/07/2023 |
 | `DV8 Technology Group` | 25/07/2023 |
 | `CROWD` | 25/07/2023 |
-| `BoomData  Data &amp;amp; Analytics Consultancy` | 25/07/2023 |
+| `BoomData  Data & Analytics Consultancy` | 25/07/2023 |
 | `EJM Engineered Systems` | 24/07/2023 |
 | `Exbon Development, Inc` | 23/07/2023 |
 | `Chan and Associates` | 23/07/2023 |
-| `Chan &amp;amp; Associates` | 22/07/2023 |
+| `Chan & Associates` | 22/07/2023 |
 | `Anesco Ltd` | 19/07/2023 |
 | `CashCall, Inc.` | 18/07/2023 |
 | `Venture Drilling Supply` | 17/07/2023 |
@@ -10698,7 +10695,7 @@ _parsing : `enabled`_
 | `Ayers Mechanical Group` | 23/05/2023 |
 | `FORMA ESPACOS IMOBILIARIOS LTDA` | 23/05/2023 |
 | `Conklin Benham` | 23/05/2023 |
-| `China Export &amp;amp; Credit Insurance Corporation` | 23/05/2023 |
+| `China Export & Credit Insurance Corporation` | 23/05/2023 |
 | `Print Globe` | 23/05/2023 |
 | `Neighborhood Progress Fund` | 23/05/2023 |
 | `La Canastería` | 23/05/2023 |
@@ -10706,14 +10703,14 @@ _parsing : `enabled`_
 | `MRO SUPPORT, INC` | 23/05/2023 |
 | `IMASA` | 23/05/2023 |
 | `Immobilienmakler in Oldenburg` | 23/05/2023 |
-| `COMPAGNIE REGIONALE D&#039;ALIMENTS (COREAL)` | 23/05/2023 |
+| `COMPAGNIE REGIONALE D'ALIMENTS (COREAL)` | 23/05/2023 |
 | `Veal and Prasad` | 23/05/2023 |
 | `HELPHONE` | 23/05/2023 |
 | `Thayer Academy` | 23/05/2023 |
 | `Midway Ford` | 23/05/2023 |
 | `Lake Cable` | 23/05/2023 |
 | `Zenex` | 23/05/2023 |
-| `M Metzler &amp;amp; Associates` | 23/05/2023 |
+| `M Metzler & Associates` | 23/05/2023 |
 | `General de Alimentos Nisa C.A. (GENICA)` | 23/05/2023 |
 | `Ellard-Willson Engineering Ltd` | 23/05/2023 |
 | `CONTASS` | 23/05/2023 |
@@ -10731,7 +10728,7 @@ _parsing : `enabled`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| Posts - Somos malas... podemos ser peores | True | 3 | 22:32 04/12/2023 | `malas2urovbyyavjzaezkt5ohljvyd5lt7vv7mnsgbf2y4bwlh72doqd.onion` |
+| Posts - Somos malas... podemos ser peores | True | 3 | 00:38 05/12/2023 | `malas2urovbyyavjzaezkt5ohljvyd5lt7vv7mnsgbf2y4bwlh72doqd.onion` |
 
 | post | date |
 |---|---|
@@ -10746,10 +10743,12 @@ _parsing : `enabled`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| Black Suit | True | 3 | 22:32 04/12/2023 | `weg7sdx54bevnvulapqu6bpzwztryeflq3s23tegbmnhkbpqz637f2yd.onion` |
+| Black Suit | True | 3 | 00:38 05/12/2023 | `weg7sdx54bevnvulapqu6bpzwztryeflq3s23tegbmnhkbpqz637f2yd.onion` |
 
 | post | date |
 |---|---|
+| `http://fps.com` | 05/12/2023 |
+| `http://www.henry.k12.ga.us` | 05/12/2023 |
 | `http://centroedilemilano.com` | 01/12/2023 |
 | `http://www.depauw.edu` | 30/11/2023 |
 | `http://www.hhoh.org` | 27/11/2023 |
@@ -10823,8 +10822,8 @@ _parsing : `enabled`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| none | True | 3 | 22:32 04/12/2023 | `rhysidafohrhyy2aszi7bm32tnjat5xri65fopcxkdfxhi4tidsg7cad.onion` |
-| none | True | 3 | 22:32 04/12/2023 | `rhysidafc6lm7qa2mkiukbezh7zuth3i4wof4mh2audkymscjm6yegad.onion` |
+| none | False | 3 | 22:32 04/12/2023 | `rhysidafohrhyy2aszi7bm32tnjat5xri65fopcxkdfxhi4tidsg7cad.onion` |
+| none | True | 3 | 00:39 05/12/2023 | `rhysidafc6lm7qa2mkiukbezh7zuth3i4wof4mh2audkymscjm6yegad.onion` |
 
 | post | date |
 |---|---|
@@ -10904,8 +10903,8 @@ _parsing : `enabled`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| NoEscape | True | 3 | 22:32 04/12/2023 | `noescaperjh3gg6oy7rck57fiefyuzmj7kmvojxgvlmwd5pdzizrb7ad.onion` |
-| NoEscape | True | 3 | 22:33 04/12/2023 | `noescapemsqxvizdxyl7f7rmg5cdjwp33pg2wpmiaaibilb4btwzttad.onion` |
+| NoEscape | True | 3 | 00:39 05/12/2023 | `noescaperjh3gg6oy7rck57fiefyuzmj7kmvojxgvlmwd5pdzizrb7ad.onion` |
+| NoEscape | True | 3 | 00:40 05/12/2023 | `noescapemsqxvizdxyl7f7rmg5cdjwp33pg2wpmiaaibilb4btwzttad.onion` |
 
 | post | date |
 |---|---|
@@ -11039,12 +11038,12 @@ _parsing : `enabled`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| none | True | 3 | 22:33 04/12/2023 | `cactusbloguuodvqjmnzlwetjlpj6aggc6iocwhuupb47laukux7ckid.onion` |
+| none | True | 3 | 00:40 05/12/2023 | `cactusbloguuodvqjmnzlwetjlpj6aggc6iocwhuupb47laukux7ckid.onion` |
 
 | post | date |
 |---|---|
 | `FYIdoctors` | 28/11/2023 |
-| `Axiom Construction &amp; Consulting` | 28/11/2023 |
+| `Axiom Construction & Consulting` | 28/11/2023 |
 | `Medi-Market` | 28/11/2023 |
 | `Odalys Vacances` | 28/11/2023 |
 | `Verhelst` | 21/11/2023 |
@@ -11118,7 +11117,7 @@ _`intense javascript challenge, fetching will often fail even with 60s grace add
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| Please wait... | True | 3 | 22:33 04/12/2023 | `knight3xppu263m7g4ag3xlit2qxpryjwueobh7vjdc3zrscqlfu3pqd.onion` |
+| Please wait... | True | 3 | 00:40 05/12/2023 | `knight3xppu263m7g4ag3xlit2qxpryjwueobh7vjdc3zrscqlfu3pqd.onion` |
 | Blog - Knight | False | 3 | 15:29 13/10/2023 | `nt3rrzq5hcyznvdkpslvqbbc2jqecqrinhi5jtwoae2x7psqtcb6dcad.onion` |
 
 | post | date |
@@ -11167,49 +11166,51 @@ _parsing : `enabled`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| none | True | 3 | 22:33 04/12/2023 | `incbackrlasjesgpfu5brktfjknbqoahe2hhmqfhasc5fb56mtukn4yd.onion` |
-| INC Ransom | True | 3 | 22:33 04/12/2023 | `incblog7vmuq7rktic73r4ha4j757m3ptym37tyvifzp2roedyyzzxid.onion` |
+| none | True | 3 | 00:40 05/12/2023 | `incbackrlasjesgpfu5brktfjknbqoahe2hhmqfhasc5fb56mtukn4yd.onion` |
+| INC Ransom | True | 3 | 00:40 05/12/2023 | `incblog7vmuq7rktic73r4ha4j757m3ptym37tyvifzp2roedyyzzxid.onion` |
+| none | True | 0 | 00:40 05/12/2023 | `incbackend.top` |
+| INC Ransom | True | 0 | 00:40 05/12/2023 | `incapt.blog` |
 
 | post | date |
 |---|---|
-| `Kellett %26%20Bartholow%20PLLC` | 01/12/2023 |
-| `B%2BP Ger%C3%BCstbau%20GmbH` | 23/11/2023 |
-| `DM Civil%20Co.` | 23/11/2023 |
-| `Ingo Money%20Inc` | 23/11/2023 |
+| `Kellett & Bartholow PLLC` | 01/12/2023 |
+| `B+P Gerüstbau GmbH` | 23/11/2023 |
+| `DM Civil Co.` | 23/11/2023 |
+| `Ingo Money Inc` | 23/11/2023 |
 | `Nicole Miller` | 23/11/2023 |
-| `Pro Metals%20LLC` | 23/11/2023 |
-| `Springfield Area%20Chamber%20of%20Commerce` | 23/11/2023 |
-| `Trylon TSF%20Inc.` | 23/11/2023 |
-| `WellLife Network%20Inc.` | 17/11/2023 |
-| `Consilium staffing%20llc` | 17/11/2023 |
-| `Yamaha Motor%20Philippines%2CInc.` | 15/11/2023 |
-| `Decatur Independent%20School%20District` | 15/11/2023 |
+| `Pro Metals LLC` | 23/11/2023 |
+| `Springfield Area Chamber of Commerce` | 23/11/2023 |
+| `Trylon TSF Inc.` | 23/11/2023 |
+| `WellLife Network Inc.` | 17/11/2023 |
+| `Consilium staffing llc` | 17/11/2023 |
+| `Yamaha Motor Philippines,Inc.` | 15/11/2023 |
+| `Decatur Independent School District` | 15/11/2023 |
 | `Guardian Alarm` | 15/11/2023 |
 | `SCOLARI Srl` | 15/11/2023 |
-| `EFU Life%20Assurance` | 06/11/2023 |
+| `EFU Life Assurance` | 06/11/2023 |
 | `Livability` | 03/11/2023 |
-| `Universal Sewing%20Supply` | 31/10/2023 |
-| `Global Export%20Marketing%20Co.%20Ltd.` | 29/10/2023 |
-| `Alam Flora%20Sdn%20Bhd` | 27/10/2023 |
-| `Direct Mail%20Corporation` | 25/10/2023 |
+| `Universal Sewing Supply` | 31/10/2023 |
+| `Global Export Marketing Co. Ltd.` | 29/10/2023 |
+| `Alam Flora Sdn Bhd` | 27/10/2023 |
+| `Direct Mail Corporation` | 25/10/2023 |
 | `Greenpoint` | 17/10/2023 |
 | `Catholic Charities` | 13/10/2023 |
-| `Cleveland City%20Schools` | 13/10/2023 |
-| `Vicon industries%20inc.` | 12/10/2023 |
-| `Village Building%20Co.` | 11/10/2023 |
+| `Cleveland City Schools` | 13/10/2023 |
+| `Vicon industries inc.` | 12/10/2023 |
+| `Village Building Co.` | 11/10/2023 |
 | `Sobieski` | 11/10/2023 |
 | `Jacobsen Construction` | 28/09/2023 |
-| `Agilitas IT%20Solutions%20Limited` | 22/09/2023 |
-| `Federal Labor%20Relations%20Authority` | 20/09/2023 |
+| `Agilitas IT Solutions Limited` | 22/09/2023 |
+| `Federal Labor Relations Authority` | 20/09/2023 |
 | `Leoch Battery` | 20/09/2023 |
-| `ENTRUST Solutions%20Group` | 20/09/2023 |
+| `ENTRUST Solutions Group` | 20/09/2023 |
 | `Elemetal` | 18/09/2023 |
 | `************` | 18/09/2023 |
 | `Abbeyfield` | 12/09/2023 |
-| `I Keating%20Furniture%20World` | 06/09/2023 |
-| `It4 Solutions%20Robras` | 06/09/2023 |
+| `I Keating Furniture World` | 06/09/2023 |
+| `It4 Solutions Robras` | 06/09/2023 |
 | `Arkopharma` | 03/09/2023 |
-| `Pifer's Auction%20%26%20Realty` | 31/08/2023 |
+| `Pifer's Auction & Realty` | 31/08/2023 |
 | `Hemmink` | 16/08/2023 |
 | `Thermenhotel Stoiser` | 11/08/2023 |
 
@@ -11219,7 +11220,7 @@ _parsing : `enabled`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| Metaencryptor::Home | True | 3 | 22:33 04/12/2023 | `metacrptmytukkj7ajwjovdpjqzd7esg5v3sg344uzhigagpezcqlpyd.onion` |
+| Metaencryptor::Home | True | 3 | 00:40 05/12/2023 | `metacrptmytukkj7ajwjovdpjqzd7esg5v3sg344uzhigagpezcqlpyd.onion` |
 
 | post | date |
 |---|---|
@@ -11245,7 +11246,7 @@ _parsing : `enabled`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| Cloak | True | 3 | 22:34 04/12/2023 | `cloak7jpvcb73rtx2ff7kaw2kholu7bdiivxpzbhlny4ybz75dpxckqd.onion` |
+| Cloak | True | 3 | 00:41 05/12/2023 | `cloak7jpvcb73rtx2ff7kaw2kholu7bdiivxpzbhlny4ybz75dpxckqd.onion` |
 
 | post | date |
 |---|---|
@@ -11287,8 +11288,8 @@ _parsing : `enabled`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| none | True | 3 | 22:34 04/12/2023 | `f6amq3izzsgtna4vw24rpyhy3ofwazlgex2zqdssavevvkklmtudxjad.onion` |
-| none | True | 0 | 22:34 04/12/2023 | `ransomed.vc` |
+| none | True | 3 | 00:41 05/12/2023 | `f6amq3izzsgtna4vw24rpyhy3ofwazlgex2zqdssavevvkklmtudxjad.onion` |
+| none | True | 0 | 00:41 05/12/2023 | `ransomed.vc` |
 
 | post | date |
 |---|---|
@@ -11299,16 +11300,16 @@ _parsing : `enabled`_
 | `Rob Lee Evidence : Sneak Peek` | 15/10/2023 |
 | `RE : Clarification` | 15/10/2023 |
 | `webpag.com.br database leaked` | 15/10/2023 |
-| `Accenture Breach Evidence &amp; Debunking Rob Lee&#8217;s Lies` | 14/10/2023 |
+| `Accenture Breach Evidence & Debunking Rob Lee’s Lies` | 14/10/2023 |
 | `Colonial Pipeline Company` | 13/10/2023 |
 | `NEW TWITTER` | 12/10/2023 |
 | `Fuck Palestine! We buy your access!!` | 12/10/2023 |
 | `Metroclub.org` | 08/10/2023 |
-| `I&#038;G Brokers` | 08/10/2023 |
+| `I&G Brokers` | 08/10/2023 |
 | `Optimity UK` | 08/10/2023 |
 | `Baumit Bulgaria` | 08/10/2023 |
 | `Kasida.bg Database Leaked, Download` | 08/10/2023 |
-| `I&#038;G Brokers Database, Download Now` | 08/10/2023 |
+| `I&G Brokers Database, Download Now` | 08/10/2023 |
 | `pilini.bg Database, Download Now!` | 08/10/2023 |
 | `iLife.bg` | 08/10/2023 |
 | `novoingresso.com.br` | 08/10/2023 |
@@ -11368,7 +11369,7 @@ _parsing : `enabled`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| CiphBit | True | 3 | 22:34 04/12/2023 | `ciphbitqyg26jor7eeo6xieyq7reouctefrompp6ogvhqjba7uo4xdid.onion` |
+| CiphBit | True | 3 | 00:41 05/12/2023 | `ciphbitqyg26jor7eeo6xieyq7reouctefrompp6ogvhqjba7uo4xdid.onion` |
 
 | post | date |
 |---|---|
@@ -11392,7 +11393,7 @@ _parsing : `enabled`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| ThreeAM Blog | True | 3 | 22:34 04/12/2023 | `threeamkelxicjsaf2czjyz2lc4q3ngqkxhhlexyfcp2o6raw4rphyad.onion` |
+| ThreeAM Blog | True | 3 | 00:41 05/12/2023 | `threeamkelxicjsaf2czjyz2lc4q3ngqkxhhlexyfcp2o6raw4rphyad.onion` |
 
 | post | date |
 |---|---|
@@ -11444,7 +11445,7 @@ _parsing : `enabled`_
 | post | date |
 |---|---|
 | `Arazoza Brothers` | 26/09/2023 |
-| `Popovici Niu Stoica &amp; Asociaii` | 26/09/2023 |
+| `Popovici Niu Stoica & Asociaii` | 26/09/2023 |
 | `Procab` | 26/09/2023 |
 | `Hoosier Uplands Economic Development` | 26/09/2023 |
 | `Oasys Technologies` | 26/09/2023 |
@@ -11461,7 +11462,7 @@ _parsing : `enabled`_
 | `Jersey College` | 26/09/2023 |
 | `JSM Group` | 26/09/2023 |
 | `Key Construction` | 26/09/2023 |
-| `Leiblein &amp; Kollegen Steuerberatungsgesellschaft` | 26/09/2023 |
+| `Leiblein & Kollegen Steuerberatungsgesellschaft` | 26/09/2023 |
 | `Liberty Lines` | 26/09/2023 |
 | `LoopLoc` | 26/09/2023 |
 | `Reload SPA` | 26/09/2023 |
@@ -11486,12 +11487,12 @@ _parsing : `enabled`_
 | `GI Medical Services` | 26/09/2023 |
 | `Gordon Law Firm` | 26/09/2023 |
 | `Contraband Control Specialists` | 26/09/2023 |
-| `I&amp;Y Senior Care` | 26/09/2023 |
+| `I&Y Senior Care` | 26/09/2023 |
 | `EWBizservice` | 26/09/2023 |
 | `Center Township Trustee` | 26/09/2023 |
-| `Garlick &amp; Markison` | 26/09/2023 |
+| `Garlick & Markison` | 26/09/2023 |
 | `Double V Construction` | 26/09/2023 |
-| `Swann's Furniture &amp; Design` | 26/09/2023 |
+| `Swann's Furniture & Design` | 26/09/2023 |
 | `Gateseven Media Group` | 26/09/2023 |
 | `Asia Vegetable` | 26/09/2023 |
 | `Carnelutti Law Firm` | 26/09/2023 |
@@ -11503,11 +11504,29 @@ _parsing : `enabled`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| none | False | 3 | 20:32 04/12/2023 | `hunters55rdxciehoqzwv7vgyv6nt37tbwax2reroyzxhou7my5ejyid.onion` |
-| Loading... | True | 3 | 22:35 04/12/2023 | `hunters33mmcwww7ek7q5ndahul6nmzmrsumfs6aenicbqon6mxfiqyd.onion` |
+| none | True | 3 | 00:41 05/12/2023 | `hunters55rdxciehoqzwv7vgyv6nt37tbwax2reroyzxhou7my5ejyid.onion` |
+| Loading... | True | 3 | 00:41 05/12/2023 | `hunters33mmcwww7ek7q5ndahul6nmzmrsumfs6aenicbqon6mxfiqyd.onion` |
 
 | post | date |
 |---|---|
+| `IDESA group, S.A. De C.V.` | 05/12/2023 |
+| `Austal USA` | 05/12/2023 |
+| `Builders Hardware and Hollow Metal, Inc.` | 05/12/2023 |
+| `Deegenbergklinik` | 05/12/2023 |
+| `InstantWhip` | 05/12/2023 |
+| `Dr. Jaime Schwartz MD, FACS` | 05/12/2023 |
+| `Bartec Top Holding GmbH` | 05/12/2023 |
+| `Homeland Inc.` | 05/12/2023 |
+| `TCI Co., Ltd.` | 05/12/2023 |
+| `Crystal Lake Health Center` | 05/12/2023 |
+| `Garr Silpe, P.C.` | 05/12/2023 |
+| `DrilMaco` | 05/12/2023 |
+| `United Africa Group Ltd.` | 05/12/2023 |
+| `Owens Group` | 05/12/2023 |
+| `Lincoln Office` | 05/12/2023 |
+| `UK Stratton Primary School` | 05/12/2023 |
+| `THK Co., Ltd.` | 05/12/2023 |
+| `Medjet` | 05/12/2023 |
 | `Giti` | 30/11/2023 |
 | `WemaBank` | 30/11/2023 |
 | `Es Saadi` | 30/11/2023 |
@@ -11518,8 +11537,8 @@ _parsing : `enabled`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| none | True | 3 | 22:35 04/12/2023 | `totos7fquprkecvcsl2jwy72v32glgkp2ejeqlnx5ynnxvbebgnletqd.onion` |
-| MEOW | True | 3 | 22:35 04/12/2023 | `meow6xanhzfci2gbkn3lmbqq7xjjufskkdfocqdngt3ltvzgqpsg5mid.onion` |
+| none | True | 3 | 00:41 05/12/2023 | `totos7fquprkecvcsl2jwy72v32glgkp2ejeqlnx5ynnxvbebgnletqd.onion` |
+| MEOW | True | 3 | 00:41 05/12/2023 | `meow6xanhzfci2gbkn3lmbqq7xjjufskkdfocqdngt3ltvzgqpsg5mid.onion` |
 
 | post | date |
 |---|---|
@@ -11537,7 +11556,7 @@ _parsing : `disabled`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| Live Support | True | 3 | 22:35 04/12/2023 | `krjv3wondknwdrlvzp6ktqcqkrlvpme2xjt3fu7ojqpaqgl3sm33bdqd.onion` |
+| Live Support | True | 3 | 00:41 05/12/2023 | `krjv3wondknwdrlvzp6ktqcqkrlvpme2xjt3fu7ojqpaqgl3sm33bdqd.onion` |
 
 | post | date |
 |---|---|
