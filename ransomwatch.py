@@ -6,18 +6,13 @@ ransomwatch
 does what it says on the tin
 '''
 import os
+import sys
 import json
 import argparse
 from datetime import datetime
 
-# local imports
-
 import parsers
 import geckodrive
-#########################################################
-# ref https://github.com/joshhighet/ransomwatch/issues/22
-# import chromium as geckodrive
-#########################################################
 from markdown import main as markdown
 
 from sharedutils import striptld
@@ -31,8 +26,9 @@ from sharedutils import checkgeckodriver
 from sharedutils import sockshost, socksport
 from sharedutils import stdlog, dbglog, errlog, honk
 
-print(
-    '''
+if len(sys.argv) == 1:
+    print(
+        '''
        _______________                        |*\_/*|________
       |  ___________  |                      ||_/-\_|______  |
       | |           | |                      | |           | |
@@ -45,28 +41,23 @@ print(
        / ********** \                          / ********** \ 
      /  ************  \     ransomwhat?      /  ************  \ 
     --------------------                    --------------------
-    '''
-)
+        '''
+    )
 
 parser = argparse.ArgumentParser(description='👀 🦅 ransomwatch')
 parser.add_argument("--name", help='provider name')
-parser.add_argument("--location", help='onionsite fqdn')
-parser.add_argument("--append", help='add onionsite fqdn to existing record')
+parser.add_argument("--location", help='target web location (full URI)')
 parser.add_argument(
     "mode",
     help='operation to execute',
-    choices=['add', 'append', 'scrape', 'parse', 'list', 'markdown', 'check']
+    choices=['add', 'scrape', 'parse', 'markdown']
     )
 args = parser.parse_args()
 
-if args.mode == ('add' or 'append') and (args.name is None or args.location is None):
+if args.mode == ('add') and (args.name is None or args.location is None):
     parser.error("operation requires --name and --location")
 
-if args.mode == 'check' and args.location is None:
-    parser.error("operation requires --location")
-
 if args.location:
-    # if args.location ends in .onion
     if args.location.endswith('.onion'):
         siteinfo = getonionversion(args.location)
         if siteinfo[0] is None:
@@ -91,17 +82,6 @@ def creategroup(name, location):
         'profile': list()
     }
     return insertdata
-
-# check if a given location exists in groups.json
-if args.mode == 'check':
-    groups = openjson("groups.json")
-    for group in groups:
-        for location in group['locations']:
-            if location['fqdn'] == args.location:
-                print('ransomwatch: ' + 'location ' + args.location + ' is in groups.json')
-                exit()
-    print('ransomwatch: ' + 'location ' + args.location + ' is not in groups.json')
-    exit()
 
 def checkexisting(provider):
     '''
@@ -192,18 +172,10 @@ def appender(name, location):
     else:
         honk('cannot append to non-existing provider')
 
-def lister():
-    '''
-    basic function to list out groups & addresses to term
-    '''
-    groups = openjson("groups.json")
-    for group in groups:
-        for host in group['locations']:
-            print(group['name'] + ' - ' + host['slug'])
-
 if args.mode == 'scrape':
+    stdlog('ransomwatch: ' + 'starting scrape job on all active group locations')
     if not checktcp(sockshost, socksport):
-        honk("socks proxy not available and required for scraping!")
+        honk("socks proxy unavailable and required to fetch onionsites!")
     if checkgeckodriver() is False:
         honk('ransomwatch: ' + 'geckodriver not found in $PATH and required for scraping')
     scraper()
@@ -211,9 +183,6 @@ if args.mode == 'scrape':
 
 if args.mode == 'add':
     adder(args.name, args.location)
-
-if args.mode == 'append':
-    appender(args.name, args.location)
 
 if args.mode == 'markdown':
     markdown()
@@ -319,6 +288,3 @@ if args.mode == 'parse':
     parsers.hunters()
     parsers.meow()
     stdlog('ransomwatch: ' + 'parse run complete')
-
-if args.mode == 'list':
-    lister()
