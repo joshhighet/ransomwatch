@@ -33,7 +33,7 @@ def main(webpage):
     if '.onion' in webpage:
         stdlog('chromium: ' + 'appears we are dealing with an onionsite')
         if not checktcp(sockshost, socksport):
-            honk('chromium: ' + 'socks proxy not available and required for onionsites!')
+            honk('chromium: ' + 'socks proxy unavailable and required to fetch onionsites!')
         else:
             stdlog(
                 'chromium: ' + 'assumed torsocks proxy found - tcp://' \
@@ -68,7 +68,6 @@ def main(webpage):
             stdlog('chromium: ' + 'webdriver quit')
         except UnboundLocalError:
             errlog('chromium: ' + 'webdriver not started, cannot quit!')
-            pass
         return None
     if driver:
         driver.quit()

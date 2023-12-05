@@ -28,7 +28,7 @@ def main(webpage):
     if '.onion' in webpage:
         stdlog('geckodriver: ' + 'appears we are dealing with an onionsite')
         if not checktcp(sockshost, socksport):
-            honk('geckodriver: ' + 'socks proxy not available and required for onionsites!')
+            honk('geckodriver: ' + 'socks proxy unavailable and required to fetch onionsites!')
         else:
             stdlog(
                 'geckodriver: ' + 'assumed torsocks proxy found - tcp://' \
