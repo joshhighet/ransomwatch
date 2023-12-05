@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-12-05 | [`ussignandmill.com`](https://google.com/search?q=ussignandmill.com) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
+| 2023-12-05 | [`skalar.com`](https://google.com/search?q=skalar.com) | [ransomblog_noname](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomblog_noname) |
 | 2023-12-05 | [`Rudolf-Venture Chemical Inc - Part 1`](https://google.com/search?q=Rudolf-Venture+Chemical+Inc+-+Part+1) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2023-12-05 | [`IDESA group, S.A. De C.V.`](https://google.com/search?q=IDESA+group%2C+S.A.+De+C.V.) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2023-12-05 | [`Austal USA`](https://google.com/search?q=Austal+USA) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-11-22 | [`therobisongroup.com`](https://google.com/search?q=therobisongroup.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-22 | [`merz-elektro.de`](https://google.com/search?q=merz-elektro.de) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-22 | [`art-eco.it`](https://google.com/search?q=art-eco.it) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-11-22 | [`ds-granit.fr`](https://google.com/search?q=ds-granit.fr) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
-| 2023-11-22 | [`[DATA] Bakrie Group & Bakrie Sumatera Plantations`](https://google.com/search?q=%5BDATA%5D+Bakrie+Group+%26+Bakrie+Sumatera+Plantations) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
