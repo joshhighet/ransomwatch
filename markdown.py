@@ -14,12 +14,9 @@ from sharedutils import postssince
 from sharedutils import parsercount
 from sharedutils import onlinecount
 from sharedutils import postslast24h
-from sharedutils import version2count
 from sharedutils import poststhisyear
 from sharedutils import currentmonthstr
 from sharedutils import monthlypostcount
-#from sharedutils import headlesscount
-#from sharedutils import countcaptchahosts
 from sharedutils import stdlog, dbglog, errlog, honk
 from plotting import trend_posts_per_day, plot_posts_by_group, pie_posts_by_group, plot_posts_by_group_past_7_days
 
@@ -50,6 +47,15 @@ def groupreport():
     stdlog('group report generated with %d groups' % len(sorted_group_counts))
     return sorted_group_counts
 
+def howoldami():
+    now = dt.now()
+    created = dt(2021, 9, 9)
+    delta = now - created
+    years = delta.days // 365
+    months = (delta.days % 365) // 30
+    days = (delta.days % 365) % 30
+    return f'{years} years, {months} months and {days} days'
+
 def mainpage():
     '''
     main markdown report generator - used with github pages
@@ -62,7 +68,7 @@ def mainpage():
     writeline(uptime_sheet, '## summary')
     writeline(uptime_sheet, '_' + friendly_tz + '_')
     writeline(uptime_sheet, '')
-    writeline(uptime_sheet, 'currently tracking `' + str(groupcount()) + '` groups across `' + str(hostcount()) + '` relays & mirrors - _`' + str(onlinecount()) + '` currently online_')
+    writeline(uptime_sheet, 'ransomwatch is currently crawling `' + str(hostcount()) + '` sites belonging to `' + str(groupcount()) + '` unique groups')
     writeline(uptime_sheet, '')
     writeline(uptime_sheet, '⏲ there have been `' + str(postslast24h()) + '` posts within the `last 24 hours`')
     writeline(uptime_sheet, '')
@@ -72,15 +78,14 @@ def mainpage():
     writeline(uptime_sheet, '')
     writeline(uptime_sheet, '🏚 there have been `' + str(poststhisyear()) + '` posts within the `year of ' + str(dt.now().year) + '`')
     writeline(uptime_sheet, '')
-    writeline(uptime_sheet, '🦕 there have been `' + str(postcount()) + '` posts `since the dawn of ransomwatch`')
+    writeline(uptime_sheet, '_⚙️ there are currently `' + str(onlinecount()) + '` online hosts & `' + str(parsercount()) + '` custom parsers._')
     writeline(uptime_sheet, '')
-    writeline(uptime_sheet, 'there are `' + str(parsercount()) + '` custom parsers indexing posts')
-    #writeline(uptime_sheet, 'there are `' + str(parsercount()) + '` active parsers, `' + str(headlesscount()) + '` of which using headless browsers - _`' + str(countcaptchahosts()) + '` groups have recently introduced captchas_')
+    writeline(uptime_sheet, '🦕 ransomwatch has been running for `' + howoldami() + '` and indexed `' + str(postcount()) + '` posts')
     writeline(uptime_sheet, '')
-    writeline(uptime_sheet, '_`' + str(version2count()) + '` sites using v2 onion services are no longer indexed - [support.torproject.org](https://support.torproject.org/onionservices/v2-deprecation/)_')
+    writeline(uptime_sheet, '_all data ' + ' [(groups)](http://ransomwhat.telemetry.ltd/groups) and [(posts)](http://ransomwhat.telemetry.ltd/posts) is available in JSON (updated hourly)_')
     writeline(uptime_sheet, '')
-    writeline(uptime_sheet, '> see the project [README](https://github.com/joshhighet/ransomwatch#ransomwatch--) for backend technicals')
-
+    writeline(uptime_sheet, "> ransomwatch is fully [open source](https://github.com/joshhighet/ransomwatch#ransomwatch--). please consider [sponsoring](https://github.com/sponsors/joshhighet) if you find it useful!")
+    
 def indexpage():
     index_sheet = 'docs/INDEX.md'
     with open(index_sheet, 'w', encoding='utf-8') as f:
@@ -92,9 +97,9 @@ def indexpage():
     writeline(index_sheet, header)
     writeline(index_sheet, '|---|---|---|---|---|')
     for group in groups:
-        stdlog('generating group report for ' + group['name'])
+        dbglog('generating group report for ' + group['name'])
         for host in group['locations']:
-            stdlog('generating host report for ' + host['fqdn'])
+            dbglog('generating host report for ' + host['fqdn'])
             if host['available'] is True:
                 #statusemoji = '⬆️ 🟢'
                 statusemoji = '🟢'
@@ -237,7 +242,7 @@ def profilepage():
                 line = '| ' + '`' + post['post_title'].replace('|', '') + '`' + ' | ' + date + ' |'
                 writeline(profilepage, line)
         writeline(profilepage, '')
-        stdlog('profile page for ' + group['name'] + ' generated')
+        dbglog('profile page for ' + group['name'] + ' generated')
     stdlog('profile page generation complete')
 
 def main():
