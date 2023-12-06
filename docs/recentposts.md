@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-12-06 | [`syrtech.com`](https://google.com/search?q=syrtech.com) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
 | 2023-12-06 | [`ACCU Reference Medical Lab`](https://google.com/search?q=ACCU+Reference+Medical+Lab) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-12-06 | [`Sagent`](https://google.com/search?q=Sagent) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-12-06 | [`polyclinique-cotentin.com`](https://google.com/search?q=polyclinique-cotentin.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-11-23 | [`officinaverdedesign.it`](https://google.com/search?q=officinaverdedesign.it) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-23 | [`B+P Gerüstbau GmbH`](https://google.com/search?q=B%2BP+Ger%C3%BCstbau+GmbH) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2023-11-23 | [`DM Civil Co.`](https://google.com/search?q=DM+Civil+Co.) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2023-11-23 | [`Ingo Money Inc`](https://google.com/search?q=Ingo+Money+Inc) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
