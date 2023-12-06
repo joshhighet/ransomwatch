@@ -4,6 +4,10 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-12-06 | [`astley.`](https://google.com/search?q=astley.) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2023-12-06 | [`SMG Confrere`](https://google.com/search?q=SMG+Confrere) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2023-12-06 | [`Lischkoff and Pitts, P.C.`](https://google.com/search?q=Lischkoff+and+Pitts%2C+P.C.) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2023-12-06 | [`Calgary TELUS Convention Centre`](https://google.com/search?q=Calgary+TELUS+Convention+Centre) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-12-05 | [`Henry Schein Inc - Henry's " LOST SHINE "`](https://google.com/search?q=Henry+Schein+Inc+-+Henry%27s+%22+LOST+SHINE+%22) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-12-05 | [`TraCS Florida FSU`](https://google.com/search?q=TraCS+Florida+FSU) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-12-05 | [`laprensani.com`](https://google.com/search?q=laprensani.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -200,7 +204,3 @@ _last `200` posts_
 | 2023-11-23 | [`Springfield Area Chamber of Commerce`](https://google.com/search?q=Springfield+Area+Chamber+of+Commerce) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2023-11-23 | [`Trylon TSF Inc.`](https://google.com/search?q=Trylon+TSF+Inc.) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2023-11-23 | [`Fidelity National Financial`](https://google.com/search?q=Fidelity+National+Financial) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-11-22 | [`McHale Landscape Design`](https://google.com/search?q=McHale+Landscape+Design) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-11-22 | [`IQ Supply Solutions`](https://google.com/search?q=IQ+Supply+Solutions) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2023-11-22 | [`Alspec`](https://google.com/search?q=Alspec) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2023-11-22 | [`Custom Engineering & Fabrication, Inc.`](https://google.com/search?q=Custom+Engineering+%26+Fabrication%2C+Inc.) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
