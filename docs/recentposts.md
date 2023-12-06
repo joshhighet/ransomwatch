@@ -4,6 +4,11 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-12-06 | [`ACCU Reference Medical Lab`](https://google.com/search?q=ACCU+Reference+Medical+Lab) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
+| 2023-12-06 | [`Sagent`](https://google.com/search?q=Sagent) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
+| 2023-12-06 | [`polyclinique-cotentin.com`](https://google.com/search?q=polyclinique-cotentin.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-12-06 | [`labelians.fr`](https://google.com/search?q=labelians.fr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-12-06 | [`fpz.com`](https://google.com/search?q=fpz.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-06 | [`astley.`](https://google.com/search?q=astley.) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-12-06 | [`SMG Confrere`](https://google.com/search?q=SMG+Confrere) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-12-06 | [`Lischkoff and Pitts, P.C.`](https://google.com/search?q=Lischkoff+and+Pitts%2C+P.C.) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
@@ -199,8 +204,3 @@ _last `200` posts_
 | 2023-11-23 | [`B+P Gerüstbau GmbH`](https://google.com/search?q=B%2BP+Ger%C3%BCstbau+GmbH) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2023-11-23 | [`DM Civil Co.`](https://google.com/search?q=DM+Civil+Co.) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2023-11-23 | [`Ingo Money Inc`](https://google.com/search?q=Ingo+Money+Inc) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2023-11-23 | [`Nicole Miller`](https://google.com/search?q=Nicole+Miller) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2023-11-23 | [`Pro Metals LLC`](https://google.com/search?q=Pro+Metals+LLC) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2023-11-23 | [`Springfield Area Chamber of Commerce`](https://google.com/search?q=Springfield+Area+Chamber+of+Commerce) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2023-11-23 | [`Trylon TSF Inc.`](https://google.com/search?q=Trylon+TSF+Inc.) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2023-11-23 | [`Fidelity National Financial`](https://google.com/search?q=Fidelity+National+Financial) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
