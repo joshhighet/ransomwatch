@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-12-07 | [`Visan`](https://google.com/search?q=Visan) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-12-06 | [`Tryax Realty Management - Press Release`](https://google.com/search?q=Tryax+Realty+Management+-+Press+Release) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2023-12-06 | [`Campbell County Schools `](https://google.com/search?q=Campbell+County+Schools+) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-12-06 | [`Deutsche Energie-Agentur`](https://google.com/search?q=Deutsche+Energie-Agentur) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-11-24 | [`nrtw.org`](https://google.com/search?q=nrtw.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-24 | [`LCA Consultores`](https://google.com/search?q=LCA+Consultores) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-11-24 | [`TJM PRODUCTS PTY. LTD`](https://google.com/search?q=TJM+PRODUCTS+PTY.+LTD) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-11-24 | [`Spectrum Solutions LLC`](https://google.com/search?q=Spectrum+Solutions+LLC) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
