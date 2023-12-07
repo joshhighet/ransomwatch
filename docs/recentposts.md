@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-12-07 | [`AG Consulting Engineering`](https://google.com/search?q=AG+Consulting+Engineering) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-12-07 | [`Greater Richmond Transit`](https://google.com/search?q=Greater+Richmond+Transit) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-12-07 | [`Kuriyama of America`](https://google.com/search?q=Kuriyama+of+America) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-12-07 | [`AMCO Proteins`](https://google.com/search?q=AMCO+Proteins) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-12-07 | [`SML Group`](https://google.com/search?q=SML+Group) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-12-07 | [`Tri-city Medical Center`](https://google.com/search?q=Tri-city+Medical+Center) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2023-11-27 | [`Vertex Resource Group`](https://google.com/search?q=Vertex+Resource+Group) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-11-27 | [`Fischione Instruments Inc.`](https://google.com/search?q=Fischione+Instruments+Inc.) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-11-27 | [`carrellblanton.com`](https://google.com/search?q=carrellblanton.com) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
-| 2023-11-27 | [`Legacy Mail Manageme nt`](https://google.com/search?q=Legacy+Mail+Manageme+nt) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2023-11-27 | [`Co. Ltd.`](https://google.com/search?q=Co.+Ltd.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2023-11-27 | [`Plastic Molding Technology Inc.`](https://google.com/search?q=Plastic+Molding+Technology+Inc.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
