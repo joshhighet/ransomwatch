@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-12-07 | [`CIE Automotive`](https://google.com/search?q=CIE+Automotive) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
+| 2023-12-07 | [`National Nail Corp`](https://google.com/search?q=National+Nail+Corp) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2023-12-07 | [`directradiology.com`](https://google.com/search?q=directradiology.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-07 | [`citizenswv.com`](https://google.com/search?q=citizenswv.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-07 | [`signiflow.com`](https://google.com/search?q=signiflow.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-11-26 | [`AlJaber Engineering`](https://google.com/search?q=AlJaber+Engineering) | [ransomexx](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomexx) |
 | 2023-11-26 | [`ALAB laboratoria (Unpay)`](https://google.com/search?q=ALAB+laboratoria+%28Unpay%29) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
 | 2023-11-25 | [`kenso.com.my`](https://google.com/search?q=kenso.com.my) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-11-25 | [`Hampton Newport News CSB (Last chance)`](https://google.com/search?q=Hampton+Newport+News+CSB+%28Last+chance%29) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-11-24 | [`talentum.com.co`](https://google.com/search?q=talentum.com.co) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
