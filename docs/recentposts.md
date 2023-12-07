@@ -4,6 +4,10 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-12-07 | [`Tri-city Medical Center`](https://google.com/search?q=Tri-city+Medical+Center) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
+| 2023-12-07 | [`Tasteful Selections`](https://google.com/search?q=Tasteful+Selections) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
+| 2023-12-07 | [`www.warepet.com`](https://google.com/search?q=www.warepet.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
+| 2023-12-07 | [`neurocnv.com`](https://google.com/search?q=neurocnv.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2023-12-07 | [`CIE Automotive`](https://google.com/search?q=CIE+Automotive) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2023-12-07 | [`National Nail Corp`](https://google.com/search?q=National+Nail+Corp) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2023-12-07 | [`directradiology.com`](https://google.com/search?q=directradiology.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -200,7 +204,3 @@ _last `200` posts_
 | 2023-11-27 | [`Plastic Molding Technology Inc.`](https://google.com/search?q=Plastic+Molding+Technology+Inc.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-11-27 | [`http://www.hhoh.org`](https://google.com/search?q=http%3A%2F%2Fwww.hhoh.org) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2023-11-27 | [`http://newriver.edu`](https://google.com/search?q=http%3A%2F%2Fnewriver.edu) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
-| 2023-11-27 | [`sillslegal`](https://google.com/search?q=sillslegal) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-11-26 | [`AlJaber Engineering`](https://google.com/search?q=AlJaber+Engineering) | [ransomexx](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomexx) |
-| 2023-11-26 | [`ALAB laboratoria (Unpay)`](https://google.com/search?q=ALAB+laboratoria+%28Unpay%29) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
-| 2023-11-25 | [`kenso.com.my`](https://google.com/search?q=kenso.com.my) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
