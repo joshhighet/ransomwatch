@@ -4,6 +4,17 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-12-07 | [`Silvent North America`](https://google.com/search?q=Silvent+North+America) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-12-07 | [`GreenWaste Recovery`](https://google.com/search?q=GreenWaste+Recovery) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-12-07 | [`Burton Wire & Cable`](https://google.com/search?q=Burton+Wire+%26+Cable) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-12-07 | [`Capespan`](https://google.com/search?q=Capespan) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-12-07 | [`Becker Furniture World`](https://google.com/search?q=Becker+Furniture+World) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-12-07 | [`Payne Hicks Beach`](https://google.com/search?q=Payne+Hicks+Beach) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-12-07 | [`Vitro Plus`](https://google.com/search?q=Vitro+Plus) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-12-07 | [`GVM`](https://google.com/search?q=GVM) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-12-07 | [`Planbox`](https://google.com/search?q=Planbox) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-12-07 | [`omegapainclinic.com`](https://google.com/search?q=omegapainclinic.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-12-07 | [`bluewaterstt.com`](https://google.com/search?q=bluewaterstt.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-07 | [`AG Consulting Engineering`](https://google.com/search?q=AG+Consulting+Engineering) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-12-07 | [`Greater Richmond Transit`](https://google.com/search?q=Greater+Richmond+Transit) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-12-07 | [`Kuriyama of America`](https://google.com/search?q=Kuriyama+of+America) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -193,14 +204,3 @@ _last `200` posts_
 | 2023-11-28 | [`Axiom Construction & Consulting`](https://google.com/search?q=Axiom+Construction+%26+Consulting) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2023-11-28 | [`Medi-Market`](https://google.com/search?q=Medi-Market) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2023-11-28 | [`Odalys Vacances`](https://google.com/search?q=Odalys+Vacances) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2023-11-28 | [`yanfeng.com`](https://google.com/search?q=yanfeng.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
-| 2023-11-28 | [`North Texas Municipal Water District (US)`](https://google.com/search?q=North+Texas+Municipal+Water+District+%28US%29) | [daixin](https://ransomwatch.telemetry.ltd/#/profiles?id=daixin) |
-| 2023-11-28 | [`First Financial Security`](https://google.com/search?q=First+Financial+Security) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
-| 2023-11-27 | [`NC Central University`](https://google.com/search?q=NC+Central+University) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2023-11-27 | [`Bangkok University`](https://google.com/search?q=Bangkok+University) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2023-11-27 | [`Imt - Press Release`](https://google.com/search?q=Imt+-+Press+Release) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
-| 2023-11-27 | [`Law Offices of John E Hill - Press Release`](https://google.com/search?q=Law+Offices+of+John+E+Hill+-+Press+Release) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
-| 2023-11-27 | [`stsaviationgroup.com`](https://google.com/search?q=stsaviationgroup.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-11-27 | [`Vertex Resource Group`](https://google.com/search?q=Vertex+Resource+Group) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-11-27 | [`Fischione Instruments Inc.`](https://google.com/search?q=Fischione+Instruments+Inc.) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-11-27 | [`carrellblanton.com`](https://google.com/search?q=carrellblanton.com) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
