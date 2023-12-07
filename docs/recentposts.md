@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-12-07 | [`usherbrooke.ca`](https://google.com/search?q=usherbrooke.ca) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-07 | [`hopto.com`](https://google.com/search?q=hopto.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-07 | [`Visan`](https://google.com/search?q=Visan) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-12-06 | [`Tryax Realty Management - Press Release`](https://google.com/search?q=Tryax+Realty+Management+-+Press+Release) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-11-24 | [`ribolia.com`](https://google.com/search?q=ribolia.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-24 | [`preidlhof.it`](https://google.com/search?q=preidlhof.it) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-24 | [`nrtw.org`](https://google.com/search?q=nrtw.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-11-24 | [`LCA Consultores`](https://google.com/search?q=LCA+Consultores) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
