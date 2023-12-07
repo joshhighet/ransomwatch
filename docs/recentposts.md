@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-12-07 | [`California Innovations`](https://google.com/search?q=California+Innovations) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-12-07 | [`Precision Technologies Group Ltd`](https://google.com/search?q=Precision+Technologies+Group+Ltd) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2023-12-07 | [`denave.com`](https://google.com/search?q=denave.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-07 | [`Silvent North America`](https://google.com/search?q=Silvent+North+America) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-11-28 | [`SinglePoint Outsourcing`](https://google.com/search?q=SinglePoint+Outsourcing) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-11-28 | [`https://www.sprintersports.com`](https://google.com/search?q=https%3A%2F%2Fwww.sprintersports.com) | [metaencryptor](https://ransomwatch.telemetry.ltd/#/profiles?id=metaencryptor) |
 | 2023-11-28 | [`FYIdoctors`](https://google.com/search?q=FYIdoctors) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2023-11-28 | [`Axiom Construction & Consulting`](https://google.com/search?q=Axiom+Construction+%26+Consulting) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
