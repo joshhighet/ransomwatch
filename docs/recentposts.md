@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-12-08 | [`HMW - Press Release`](https://google.com/search?q=HMW+-+Press+Release) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2023-12-08 | [`http://www.golfzon.com`](https://google.com/search?q=http%3A%2F%2Fwww.golfzon.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2023-12-08 | [`aw-lawyers.com`](https://google.com/search?q=aw-lawyers.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-08 | [`midlandindustries.com`](https://google.com/search?q=midlandindustries.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-11-28 | [`Sparex`](https://google.com/search?q=Sparex) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-11-28 | [`Continental Shipping Line`](https://google.com/search?q=Continental+Shipping+Line) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-11-28 | [`MooreCo`](https://google.com/search?q=MooreCo) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-11-28 | [`AMERICAN INSULATED GLASS`](https://google.com/search?q=AMERICAN+INSULATED+GLASS) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
