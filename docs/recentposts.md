@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-12-08 | [`midlandindustries.com`](https://google.com/search?q=midlandindustries.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-08 | [`Travian Games`](https://google.com/search?q=Travian+Games) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2023-12-08 | [`Tcman`](https://google.com/search?q=Tcman) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2023-12-07 | [`California Innovations`](https://google.com/search?q=California+Innovations) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-11-28 | [`AMERICAN INSULATED GLASS`](https://google.com/search?q=AMERICAN+INSULATED+GLASS) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-11-28 | [`Elston-nationwide`](https://google.com/search?q=Elston-nationwide) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-11-28 | [`Thillens`](https://google.com/search?q=Thillens) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-11-28 | [`SinglePoint Outsourcing`](https://google.com/search?q=SinglePoint+Outsourcing) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
