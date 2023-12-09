@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-12-09 | [`Graphic Solutions Group Inc (US)`](https://google.com/search?q=Graphic+Solutions+Group+Inc+%28US%29) | [daixin](https://ransomwatch.telemetry.ltd/#/profiles?id=daixin) |
 | 2023-12-08 | [`livanova.com`](https://google.com/search?q=livanova.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-08 | [`HMW - Press Release`](https://google.com/search?q=HMW+-+Press+Release) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2023-12-08 | [`http://www.golfzon.com`](https://google.com/search?q=http%3A%2F%2Fwww.golfzon.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-11-28 | [`Byfod`](https://google.com/search?q=Byfod) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-11-28 | [`Retailer Web Services`](https://google.com/search?q=Retailer+Web+Services) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-11-28 | [`Sparex`](https://google.com/search?q=Sparex) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-11-28 | [`Continental Shipping Line`](https://google.com/search?q=Continental+Shipping+Line) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
