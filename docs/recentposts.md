@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-12-11 | [`Bayer Heritage Federal Credit Union`](https://google.com/search?q=Bayer+Heritage+Federal+Credit+Union) | [lorenz](https://ransomwatch.telemetry.ltd/#/profiles?id=lorenz) |
 | 2023-12-11 | [`Goiasa`](https://google.com/search?q=Goiasa) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-12-11 | [`Hinsdale School District `](https://google.com/search?q=Hinsdale+School+District+) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-12-11 | [`Covenant Care`](https://google.com/search?q=Covenant+Care) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-11-29 | [`Lydall, Inc.`](https://google.com/search?q=Lydall%2C+Inc.) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-11-29 | [`Protected: skalar.com`](https://google.com/search?q=Protected%3A+skalar.com) | [ransomblog_noname](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomblog_noname) |
 | 2023-11-29 | [`Servicio Móvil`](https://google.com/search?q=Servicio+M%C3%B3vil) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2023-11-29 | [`Teleflora`](https://google.com/search?q=Teleflora) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
