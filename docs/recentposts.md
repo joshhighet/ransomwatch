@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-12-11 | [`Azienda USL di Modena`](https://google.com/search?q=Azienda+USL+di+Modena) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
+| 2023-12-11 | [`r-ab.de`](https://google.com/search?q=r-ab.de) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-12-11 | [`ipp-sa.com`](https://google.com/search?q=ipp-sa.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-11 | [`igt.nl`](https://google.com/search?q=igt.nl) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-11 | [`Bayer Heritage Federal Credit Union`](https://google.com/search?q=Bayer+Heritage+Federal+Credit+Union) | [lorenz](https://ransomwatch.telemetry.ltd/#/profiles?id=lorenz) |
 | 2023-12-11 | [`Goiasa`](https://google.com/search?q=Goiasa) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2023-11-29 | [`***s****** ***t*** *e****** ***`](https://google.com/search?q=%2A%2A%2As%2A%2A%2A%2A%2A%2A+%2A%2A%2At%2A%2A%2A+%2Ae%2A%2A%2A%2A%2A%2A+%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-11-29 | [`**o** ******l*****`](https://google.com/search?q=%2A%2Ao%2A%2A+%2A%2A%2A%2A%2A%2Al%2A%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-11-29 | [`AQIPA`](https://google.com/search?q=AQIPA) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-11-29 | [`Alpura`](https://google.com/search?q=Alpura) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2023-11-29 | [`Lydall, Inc.`](https://google.com/search?q=Lydall%2C+Inc.) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2023-11-29 | [`Protected: skalar.com`](https://google.com/search?q=Protected%3A+skalar.com) | [ransomblog_noname](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomblog_noname) |
