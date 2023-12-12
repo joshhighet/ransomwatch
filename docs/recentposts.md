@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-12-12 | [`King Aerospace, Inc.`](https://google.com/search?q=King+Aerospace%2C+Inc.) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
+| 2023-12-12 | [`GlobalSpec`](https://google.com/search?q=GlobalSpec) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-12-12 | [`dena.de`](https://google.com/search?q=dena.de) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-12 | [`SmartWave Technologi es`](https://google.com/search?q=SmartWave+Technologi+es) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-12-12 | [`woodruffenterprises.com`](https://google.com/search?q=woodruffenterprises.com) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-11-30 | [`Parsons Investments`](https://google.com/search?q=Parsons+Investments) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-11-30 | [`MODERNGRAB, S.A.`](https://google.com/search?q=MODERNGRAB%2C+S.A.) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-11-30 | [`Leezer Agency`](https://google.com/search?q=Leezer+Agency) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-11-30 | [`Lanificio Luigi Colombo S.p.A.`](https://google.com/search?q=Lanificio+Luigi+Colombo+S.p.A.) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-11-30 | [`La Contabile Spa`](https://google.com/search?q=La+Contabile+Spa) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
