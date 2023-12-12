@@ -287,4 +287,5 @@ if args.mode == 'parse':
     parsers.losttrust()
     parsers.hunters()
     parsers.meow()
+    parsers.siegedsec()
     stdlog('ransomwatch: ' + 'parse run complete')
