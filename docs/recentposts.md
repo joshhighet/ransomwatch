@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-12-12 | [`Mitrani Caballero Oj am & Ruiz Moreno - A bogados`](https://google.com/search?q=Mitrani+Caballero+Oj+am+%26+Ruiz+Moreno+-+A+bogados) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-12-12 | [`The Teaching Company , LLC`](https://google.com/search?q=The+Teaching+Company+%2C+LLC) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-12-12 | [`Memorial Sloan Kettering Cancer Center`](https://google.com/search?q=Memorial+Sloan+Kettering+Cancer+Center) | [meow](https://ransomwatch.telemetry.ltd/#/profiles?id=meow) |
 | 2023-12-12 | [`tradewindscorp-insbrok.com`](https://google.com/search?q=tradewindscorp-insbrok.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-11-30 | [`Incisive Media`](https://google.com/search?q=Incisive+Media) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-11-30 | [`Imperiali AG`](https://google.com/search?q=Imperiali+AG) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-11-30 | [`Honey Birdette`](https://google.com/search?q=Honey+Birdette) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-11-30 | [`Hills Legal Group Ltd`](https://google.com/search?q=Hills+Legal+Group+Ltd) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
