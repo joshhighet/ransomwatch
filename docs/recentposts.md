@@ -4,6 +4,10 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-12-12 | [`tradewindscorp-insbrok.com`](https://google.com/search?q=tradewindscorp-insbrok.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-12-12 | [`petrotec.com.qa`](https://google.com/search?q=petrotec.com.qa) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-12-12 | [`kitahirosima.jp`](https://google.com/search?q=kitahirosima.jp) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-12-12 | [`airtechthelong.com.vn`](https://google.com/search?q=airtechthelong.com.vn) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-12 | [`OpTransRights - 2`](https://google.com/search?q=OpTransRights+-+2) | [siegedsec](https://ransomwatch.telemetry.ltd/#/profiles?id=siegedsec) |
 | 2023-12-12 | [`Telerad`](https://google.com/search?q=Telerad) | [siegedsec](https://ransomwatch.telemetry.ltd/#/profiles?id=siegedsec) |
 | 2023-12-12 | [`Technical University of Mombasa`](https://google.com/search?q=Technical+University+of+Mombasa) | [siegedsec](https://ransomwatch.telemetry.ltd/#/profiles?id=siegedsec) |
@@ -200,7 +204,3 @@ _last `200` posts_
 | 2023-11-30 | [`Hills Legal Group Ltd`](https://google.com/search?q=Hills+Legal+Group+Ltd) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-11-30 | [`Groupe Apex-Isast`](https://google.com/search?q=Groupe+Apex-Isast) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-11-30 | [`Gallagher Tire, Inc.`](https://google.com/search?q=Gallagher+Tire%2C+Inc.) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-11-30 | [`GOLDMUND`](https://google.com/search?q=GOLDMUND) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-11-30 | [`Fortiss LLC`](https://google.com/search?q=Fortiss+LLC) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-11-30 | [`DMC Luxembourg`](https://google.com/search?q=DMC+Luxembourg) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-11-30 | [`Cold Car Spa`](https://google.com/search?q=Cold+Car+Spa) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
