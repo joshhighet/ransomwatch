@@ -1,0 +1,409 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>SiegedSec | Leak Blog</title>
+	<link href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" rel="stylesheet">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+	<style>
+		body {
+            background-color: #F5F5F5; /* Light Grey */
+            color: #000000; /* Black */
+            font-family: 'Roboto', sans-serif;
+            transition: background-color 0.5s, color 0.5s; /* Smooth transition */
+        }
+
+        .dark-theme {
+            background-color: #000000; /* Black */
+            color: #FFFFFF; /* White */
+        }
+
+        .dark-theme h1, .dark-theme .button {
+            color: #FFFFFF; /* White */
+        }
+
+        .header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 20px;
+            background-color: #FFFFFF; /* White */
+            border-radius: 10px;
+            box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+            margin: 20px;
+            height: 50px;
+            transition: background-color 0.5s; /* Smooth transition */
+        }
+
+.dark-theme .header {
+    background-color: #4A4A4A; /* Grey */
+}
+
+#searchBar {
+    background-color: #FFFFFF; /* White */
+    color: #000000; /* Black */
+    transition: background-color 0.5s, color 0.5s; /* Smooth transition */
+}
+
+.dark-theme #searchBar {
+    background-color: #4A4A4A; /* Grey */
+    color: #FFFFFF; /* White */
+}
+
+        h4 {
+                    font-size: 27px;
+                    color: #000000; /* Black */
+                }
+                .header img {
+                    position: relative;
+                    right: 20px;
+                    top: 7px;
+                }
+                .header h4 {
+                    position: relative;
+                    right: 70px;
+                }
+                .header img {
+                    width: 130px;
+                }
+                .header input {
+                    padding: 10px;
+                    border-radius: 5px;
+                    border: 1px solid #000000; /* Black */
+                }
+                .button {
+                    background-color: transparent;
+                    border: none;
+                    color: #000000; /* Black */
+                    text-decoration: none;
+                    margin-right: 20px;
+                }
+                .button:hover {
+                    color: #808080; /* Grey */
+                }
+                .footer {
+                    text-align: center;
+                    font-size: 15px;
+                    color: #808080; /* Grey */
+                }
+#DataTable {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+    font-size: 0.9em;
+    min-width: 400px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+    transition: background-color 0.5s; /* Smooth transition */
+}
+
+#DataTable th,
+#DataTable td {
+    padding: 12px 15px;
+    transition: background-color 0.5s, color 0.5s; /* Smooth transition */
+}
+
+#DataTable th {
+    background-color: #000000; /* Black */
+    color: #FFFFFF; /* White */
+    text-align: left;
+}
+
+.dark-theme #DataTable th {
+    background-color: #4A4A4A; /* Grey */
+    color: #FFFFFF; /* White */
+}
+
+#DataTable tr {
+    border-bottom: thin solid #808080; /* Grey */
+}
+
+#DataTable tr:nth-of-type(even) {
+    background-color: #D3D3D3; /* Light Grey */
+}
+
+.dark-theme #DataTable tr:nth-of-type(even) {
+    background-color: #2D2D2D; /* Dark Grey */
+}
+
+#DataTable tr:last-of-type {
+    border-bottom-style:hidden;
+}
+
+#DataTable {
+    position: absolute;
+    left: 30px;
+    top: 130px;
+    width: 80%;
+    max-width: 800px;
+    min-width: 1300px;
+    padding: 20px;
+    background-color: #FFFFFF; /* White */
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+}
+
+.dark-theme #DataTable {
+    background-color: #2D2D2D; /* Dark Grey */
+}
+
+#DataTable th {
+    font-size: 22px;
+}
+
+#DataTable td {
+    font-size: 18px;
+    color: #000000; /* Black */
+}
+
+.dark-theme #DataTable td {
+    color: #FFFFFF; /* White */
+}
+
+                .footer {
+                    text-align: center;
+                    font-size: 15px;
+                    color: #808080; /* Grey */
+                    position: relative;
+                    left: 0;
+                    bottom: 0;
+                    width: 100%;
+                }
+                #theme-toggle {
+                    background-color: transparent;
+                    border: none;
+                    color: #000000; /* Black */
+                    cursor: pointer;
+                    font-size: 20px;
+                    margin-left: 30px; /* Increased spacing */
+                }
+                .dark-theme #theme-toggle {
+                    color: #FFFFFF; /* White */
+                }
+		#title {
+    		color: #000000; /* Black */
+		}
+
+		.dark-theme #title {
+    		color: #FFFFFF; /* White */
+				}
+	</style>
+</head>
+<body>
+
+<div class="header">
+	<a href="index.html" style="text-decoration: none;">
+		<h1 id="title">SiegedSec</h1>
+		<p id="subtitle" class="nav-subtitle"></p> <!-- Add this line -->
+	</a>
+	<div style="display:flex; align-items:center;">
+		<a href='about_us.html' class='button' style="font-size: 20px; margin-right: 30px;">ABOUT US</a>
+		<input type="text" id="searchBar" onkeyup="searchFunction()" placeholder="" style="width: 120px; height: 25px;">
+		<span style="margin-left:10px;">SEARCH</span>
+		<button id="theme-toggle" class="btn btn-light">
+			<i class="fas fa-moon"></i>
+		</button>
+	</div>
+</div>
+
+<script>
+	$(document).ready(function(){
+        const body = $('body');
+        const toggleButton = $('#theme-toggle');
+
+        // Load the theme from localStorage
+        const theme = localStorage.getItem('theme');
+        if (theme) {
+            body.addClass(theme);
+            if (body.hasClass('dark-theme')) {
+                toggleButton.html('<i class="fas fa-sun"></i>');
+            } else {
+                toggleButton.html('<i class="fas fa-moon"></i>');
+            }
+        }
+
+        toggleButton.click(function(){
+            body.toggleClass('dark-theme');
+            if (body.hasClass('dark-theme')) {
+                toggleButton.html('<i class="fas fa-sun"></i>');
+                localStorage.setItem('theme', 'dark-theme');
+            } else {
+                toggleButton.html('<i class="fas fa-moon"></i>');
+                localStorage.setItem('theme', '');
+            }
+        });
+    });
+</script>
+
+</body>
+</html>
+
+<table id="DataTable">
+	<tr>
+		<th>Company Name</th>
+		<th>Leaked</th>
+		<th>Tags</th>
+		<th>Total Data Size</th>
+		<th>Last Updated</th>
+		<th>Downloads</th>
+	</tr>
+	<!-- Add your rows here -->
+	<tr>
+		<td>Grupo Televisa</td>
+		<td>100%</td>
+		<td>mass media, entertainment, media corporation</td>
+		<td>6 GB</td>
+		<td>2023-12-09</td>
+		<td><a href="post/1.html">Open</a></td>
+	</tr>
+	<tr>
+		<td>NATO Leak - 1</td>
+		<td>100%</td>
+		<td>intergovernmental, military alliance</td>
+		<td>845 MB</td>
+		<td>2023-12-09</td>
+		<td><a href="post/2.html">Open</a></td>
+	</tr>
+	<tr>
+		<td>NATO Leak - 2</td>
+		<td>100%</td>
+		<td>intergovernmental, military alliance</td>
+		<td>7.31 GB</td>
+		<td>2023-12-09</td>
+		<td><a href="post/3.html">Open</a></td>
+	</tr>
+	<tr>
+		<td>Faroe Islands</td>
+		<td>100%</td>
+		<td>tourism, travel guides, accommodation</td>
+		<td>30 GB</td>
+		<td>2023-12-09</td>
+		<td><a href="post/4.html">Open</a></td>
+	</tr>
+	<tr>
+		<td>Atlassian</td>
+		<td>100%</td>
+		<td>software developers, project managers, it service management</td>
+		<td>N/A</td>
+		<td>2023-12-09</td>
+		<td><a href="post/5.html">Open</a></td>
+	</tr>
+	<tr>
+		<td>Operation Jane</td>
+		<td>N/A</td>
+		<td>industrial control systems, government</td>
+		<td>N/A</td>
+		<td>2023-12-09</td>
+		<td><a href="post/6.html">Open</a></td>
+	</tr>
+	<tr>
+		<td>GNSS, BACNet & ModBus</td>
+		<td>N/A</td>
+		<td>navigation satellite system, building automation and control systems, communication protocol</td>
+		<td>N/A</td>
+		<td>2023-12-09</td>
+		<td><a href="post/7.html">Open</a></td>
+	</tr>
+	<tr>
+		<td>Bezeq</td>
+		<td>100%</td>
+		<td>telecommunications, fixed-line, mobile telephony</td>
+		<td>N/A</td>
+		<td>2023-12-09</td>
+		<td><a href="post/8.html">Open</a></td>
+	</tr>
+	<tr>
+		<td>Cellcom</td>
+		<td>100%</td>
+		<td>telecommunications</td>
+		<td>N/A</td>
+		<td>2023-12-09</td>
+		<td><a href="post/9.html">Open</a></td>
+	</tr>
+	<tr>
+		<td>Operation Israel - 1</td>
+		<td>100%</td>
+		<td>government sector, supermarket chain, airline</td>
+		<td>1.26 GB</td>
+		<td>2023-12-09</td>
+		<td><a href="post/10.html">Open</a></td>
+	</tr>
+	<tr>
+		<td>Idaho National Laboratory</td>
+		<td>100%</td>
+		<td>nuclear research, nuclear power, power plant</td>
+		<td>N/A</td>
+		<td>2023-12-09</td>
+		<td><a href="post/11.html">Open</a></td>
+	</tr>
+	<tr>
+		<td>Colombian National Registry</td>
+		<td>100%</td>
+		<td>corrective measures, police</td>
+		<td>N/A</td>
+		<td>2023-12-09</td>
+		<td><a href="https://mega.nz/file/EaVy3YpQ#TTg2oE2UMFpnjelQJDoEkdQ4xFYzyawS2N7fvBDhUT4"target="_blank">Open</a></td>
+	</tr>
+	<tr>
+		<td>Deqing County</td>
+		<td>100%</td>
+		<td>chinese citizens</td>
+		<td>N/A</td>
+		<td>2023-12-09</td>
+		<td><a href="https://mega.nz/file/Jf9R1BTb#GX56k53GJwjk3vxZIK-L5D3IhX4PvySG_HhrujJCnPA"target="_blank">Open</a></td>
+	</tr>
+	<tr>
+		<td>Staples</td>
+		<td>100%</td>
+		<td>retail</td>
+		<td>121 MB</td>
+		<td>2023-12-09</td>
+		<td><a href="https://mega.nz/file/QW9FgLRb#9afc2EFDDbcMg3lvZhwgig_OHEIY8-PrLpJM3e7ECBw"target="_blank">Open</a></td>
+	</tr>
+	<tr>
+		<td>Portland Government & United states government</td>
+		<td>100%</td>
+		<td>governmental</td>
+		<td>538 MB</td>
+		<td>2023-12-09</td>
+		<td><a href="https://mega.nz/file/VSUVTIxC#hIWzxvrmVNN9QndzQ8NxPm_abAAHvFHCZFIbwYgUTic"target="_blank">Open</a></td>
+	</tr>
+	<tr>
+		<td>National Office for centralized procurement</td>
+		<td>100%</td>
+		<td>romanian government</td>
+		<td>N/A</td>
+		<td>2023-12-09</td>
+		<td><a href="https://mega.nz/file/xKlzwL4a#NQqG_WS0O7TTSMpYeQJKMZ-NHXHS1s_fw_DmOXIDneI"target="_blank">Open</a></td>
+	</tr>
+	<tr>
+		<td>Technical University of Mombasa</td>
+		<td>100%</td>
+		<td>kenyan education</td>
+		<td>N/A</td>
+		<td>2023-12-09</td>
+		<td><a href="https://mega.nz/file/QP0lkQzB#iMLTtnk-_WdhG8z8vQk8QbcKdrRfjXHZ4G0KpPqQ0K0"target="_blank">Open</a></td>
+	</tr>
+	<tr>
+		<td>Telerad</td>
+		<td>100%</td>
+		<td>healthcare</td>
+		<td>4.47 GB</td>
+		<td>2023-12-09</td>
+		<td><a href="https://mega.nz/file/tT9lyaBS#kQg8X6CSj8YwyYWeq6gA2tVaPxsKxpv76nAYoY_Wgns"target="_blank">Open</a></td>
+	</tr>
+	<tr>
+		<td>OpTransRights - 2</td>
+		<td>100%</td>
+		<td>healthcare</td>
+		<td>659 MB</td>
+		<td>2023-12-09</td>
+		<td><a href="https://mega.nz/file/EDswEKxJ#dBSeWTUe5P9uhbJOqgUPEcpiCw4qKiMJTxCxtidNfbs"target="_blank">Open</a></td>
+	</tr>
+
+
+</table>
+
+<script src='assets/js/search.js'></script>
+
+</body>
+</html>
