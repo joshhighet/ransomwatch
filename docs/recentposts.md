@@ -4,6 +4,15 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-12-13 | [`William Jackson Food Group`](https://google.com/search?q=William+Jackson+Food+Group) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2023-12-13 | [`VAC-U-MAX`](https://google.com/search?q=VAC-U-MAX) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2023-12-13 | [`Tim Davies Landscaping`](https://google.com/search?q=Tim+Davies+Landscaping) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2023-12-13 | [`Soethoudt metaalbewerking b.v.`](https://google.com/search?q=Soethoudt+metaalbewerking+b.v.) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2023-12-13 | [`SBK Real Estate`](https://google.com/search?q=SBK+Real+Estate) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2023-12-13 | [`REUS MOBILITAT I SERVEIS`](https://google.com/search?q=REUS+MOBILITAT+I+SERVEIS) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2023-12-13 | [`Hawkins Sales`](https://google.com/search?q=Hawkins+Sales) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2023-12-13 | [`Groupe PROMOBE`](https://google.com/search?q=Groupe+PROMOBE) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2023-12-13 | [`CACG`](https://google.com/search?q=CACG) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-12-12 | [`King Aerospace, Inc.`](https://google.com/search?q=King+Aerospace%2C+Inc.) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2023-12-12 | [`GlobalSpec`](https://google.com/search?q=GlobalSpec) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-12-12 | [`dena.de`](https://google.com/search?q=dena.de) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -195,12 +204,3 @@ _last `200` posts_
 | 2023-11-30 | [`Equaldex`](https://google.com/search?q=Equaldex) | [meow](https://ransomwatch.telemetry.ltd/#/profiles?id=meow) |
 | 2023-11-30 | [`Vanderbilt University Medical Center`](https://google.com/search?q=Vanderbilt+University+Medical+Center) | [meow](https://ransomwatch.telemetry.ltd/#/profiles?id=meow) |
 | 2023-11-30 | [`Standard Filter`](https://google.com/search?q=Standard+Filter) | [meow](https://ransomwatch.telemetry.ltd/#/profiles?id=meow) |
-| 2023-11-30 | [`Katsky Korins`](https://google.com/search?q=Katsky+Korins) | [meow](https://ransomwatch.telemetry.ltd/#/profiles?id=meow) |
-| 2023-11-30 | [`http://www.depauw.edu`](https://google.com/search?q=http%3A%2F%2Fwww.depauw.edu) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
-| 2023-11-30 | [`Yale Appliance`](https://google.com/search?q=Yale+Appliance) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-11-30 | [`Wild Republic`](https://google.com/search?q=Wild+Republic) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-11-30 | [`Storey Trucking Company, Inc.`](https://google.com/search?q=Storey+Trucking+Company%2C+Inc.) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-11-30 | [`Scheidt GmbH`](https://google.com/search?q=Scheidt+GmbH) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-11-30 | [`Parsons Investments`](https://google.com/search?q=Parsons+Investments) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-11-30 | [`MODERNGRAB, S.A.`](https://google.com/search?q=MODERNGRAB%2C+S.A.) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-11-30 | [`Leezer Agency`](https://google.com/search?q=Leezer+Agency) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
