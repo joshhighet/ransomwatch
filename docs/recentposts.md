@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-12-13 | [`dawsongroup.co.uk`](https://google.com/search?q=dawsongroup.co.uk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-13 | [`ccadm.org`](https://google.com/search?q=ccadm.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-13 | [`altezze.com.mx`](https://google.com/search?q=altezze.com.mx) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-13 | [`Advantage Group International`](https://google.com/search?q=Advantage+Group+International) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-11-30 | [`Giti`](https://google.com/search?q=Giti) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2023-11-30 | [`WemaBank`](https://google.com/search?q=WemaBank) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2023-11-30 | [`Es Saadi`](https://google.com/search?q=Es+Saadi) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2023-11-30 | [`Bauwerk Boen Group`](https://google.com/search?q=Bauwerk+Boen+Group) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
