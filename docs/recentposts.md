@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-12-13 | [`cms.law`](https://google.com/search?q=cms.law) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-13 | [`William Jackson Food Group`](https://google.com/search?q=William+Jackson+Food+Group) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-12-13 | [`VAC-U-MAX`](https://google.com/search?q=VAC-U-MAX) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-12-13 | [`Tim Davies Landscaping`](https://google.com/search?q=Tim+Davies+Landscaping) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-11-30 | [`Back Roads`](https://google.com/search?q=Back+Roads) | [meow](https://ransomwatch.telemetry.ltd/#/profiles?id=meow) |
 | 2023-11-30 | [`Equaldex`](https://google.com/search?q=Equaldex) | [meow](https://ransomwatch.telemetry.ltd/#/profiles?id=meow) |
 | 2023-11-30 | [`Vanderbilt University Medical Center`](https://google.com/search?q=Vanderbilt+University+Medical+Center) | [meow](https://ransomwatch.telemetry.ltd/#/profiles?id=meow) |
-| 2023-11-30 | [`Standard Filter`](https://google.com/search?q=Standard+Filter) | [meow](https://ransomwatch.telemetry.ltd/#/profiles?id=meow) |
