@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-12-13 | [`altezze.com.mx`](https://google.com/search?q=altezze.com.mx) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-12-13 | [`Advantage Group International`](https://google.com/search?q=Advantage+Group+International) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-12-13 | [`Dameron Hospital`](https://google.com/search?q=Dameron+Hospital) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2023-12-13 | [`www.thirdstreetbrewhouse.com`](https://google.com/search?q=www.thirdstreetbrewhouse.com) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2023-12-13 | [`Tulane University`](https://google.com/search?q=Tulane+University) | [meow](https://ransomwatch.telemetry.ltd/#/profiles?id=meow) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-11-30 | [`Es Saadi`](https://google.com/search?q=Es+Saadi) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2023-11-30 | [`Bauwerk Boen Group`](https://google.com/search?q=Bauwerk+Boen+Group) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-11-30 | [`Rudolf GmbH & Rudolf Venture Chemicals Inc - Press Release`](https://google.com/search?q=Rudolf+GmbH+%26+Rudolf+Venture+Chemicals+Inc+-+Press+Release) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
-| 2023-11-30 | [`A**** *********** Inc`](https://google.com/search?q=A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A+Inc) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2023-11-30 | [`www.andersonandjones.com`](https://google.com/search?q=www.andersonandjones.com) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
