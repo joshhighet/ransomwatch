@@ -1,13 +1,12 @@
 ## extensions
+- [x.com/ransomwarenews](https://twitter.com/ransomwarenews) _an X/Twitter bot for ransomwatch data by vxunderground_
 - [privtools/ransomposts:](https://privtools.github.io/ransomposts/) _an alternate post visualiser with multi-format exporting_
 - [jdl-84/ransomwatchviewer:](https://jdl-84.github.io/RansomWatchViewer/) _an alternate post visualiser, retro style_
 - [AyoobAli/ransomwatch-cli:](https://github.com/AyoobAli/ransomwatch-cli) _a CLI to browse and query ransomwatch data_
 - [D4ftR0ck/ransomwatchrss](https://github.com/D4ftR0ck/ransomwatchrss) _an RSS feed generator for ransomwatch data_
 - [qepting91/RansomwareDataCollector](https://github.com/qepting91/RansomwareDataCollector) _store ransomwatch claims in CockroachDB_
-- [x.com/ransomwarenews](https://twitter.com/ransomwarenews) _an X/Twitter bot for ransomwatch data by vxunderground_
-
-## aggregators
-- [jjsantanna/aggregator:](https://github.com/jjsantanna/aggregator_crawlers_lists_ransomware_groups_leaksites)_a Jupyter Notebook which merges and collates various ransomwatch-style platforms into a single view_
+- [qepting91/streamlitransomware](https://github.com/qepting91/streamlitransomware) _A streamlit frontend for ransomwatch data visualisations_
+- [jjsantanna/aggregator:](https://github.com/jjsantanna/aggregator_crawlers_lists_ransomware_groups_leaksites)_a Jupyter Notebook to unify threat claims from various sources_
 
 ## chatbots
 - [uforia/MatterBot](https://github.com/uforia/MatterBot) _a Mattermost bot for ransomwatch_
@@ -33,7 +32,6 @@
 - [ransomwatch & Jupyter Notebooks](https://kc7cyber.com/learning-module/keeping-up-to-date-with-ransomware-leak-sites/) _- a learning module by KC7_
 - [keyword matching posts for monitoring/alerting](https://www.youtube.com/watch?v=cVDGmKxbKnI) _- youtube, Sh1katagana1_
 - [PWNDEFEND - Cyber Threat Intelligence Resources](https://www.pwndefend.com/2023/02/26/cyber-threat-intelligence-resources/)
-- [https://github.com/qepting91/streamlitransomware](https://github.com/qepting91/streamlitransomware) _A streamlit frontend for ransomwatch data visualisations_
 
 ## contributing forks
 
