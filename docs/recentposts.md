@@ -4,6 +4,14 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-12-14 | [`Chaney, Couch, Callaway, Carter and Associates Family Dentistry`](https://google.com/search?q=Chaney%2C+Couch%2C+Callaway%2C+Carter+and+Associates+Family+Dentistry) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2023-12-14 | [`Commonwealth Capital`](https://google.com/search?q=Commonwealth+Capital) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2023-12-14 | [`Greenbox Loans Inc.`](https://google.com/search?q=Greenbox+Loans+Inc.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2023-12-14 | [`spiritleatherworks.com`](https://google.com/search?q=spiritleatherworks.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-12-14 | [`rpassoc.com`](https://google.com/search?q=rpassoc.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-12-14 | [`goldwind.com`](https://google.com/search?q=goldwind.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-12-14 | [`converzemedia.com`](https://google.com/search?q=converzemedia.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-12-14 | [`bemes.com`](https://google.com/search?q=bemes.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-14 | [`Hyman Hayes Associat es`](https://google.com/search?q=Hyman+Hayes+Associat+es) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-12-14 | [`mcs360.com`](https://google.com/search?q=mcs360.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-14 | [`www.medi-market.be\$164M\Belgium\95gb\1%Disclosed`](https://google.com/search?q=www.medi-market.be%5C%24164M%5CBelgium%5C95gb%5C1%25Disclosed) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
@@ -196,11 +204,3 @@ _last `200` posts_
 | 2023-12-03 | [`Tipalti claimed as a victim - but we'll extort Roblox, one of their affected clients, indi`](https://google.com/search?q=Tipalti+claimed+as+a+victim+-+but+we%27ll+extort+Roblox%2C+one+of+their+affected+clients%2C+indi) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-12-02 | [`bboed.org`](https://google.com/search?q=bboed.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-02 | [`Lisa Mayer CA, Professional Corporation`](https://google.com/search?q=Lisa+Mayer+CA%2C+Professional+Corporation) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-12-02 | [`royaleinternational.com`](https://google.com/search?q=royaleinternational.com) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-12-02 | [`www.inseinc.com`](https://google.com/search?q=www.inseinc.com) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2023-12-02 | [`IRC Engineering`](https://google.com/search?q=IRC+Engineering) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-12-01 | [`Jerry Pate Energy (hack from Saltmarsh Financial Advisors)`](https://google.com/search?q=Jerry+Pate+Energy+%28hack+from+Saltmarsh+Financial+Advisors%29) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
-| 2023-12-01 | [`Hello Jacobs from RVC`](https://google.com/search?q=Hello+Jacobs+from+RVC) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
-| 2023-12-01 | [`Hello Cristina from Law Offices of John E Hill`](https://google.com/search?q=Hello+Cristina+from+Law+Offices+of+John+E+Hill) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
-| 2023-12-01 | [`Iptor`](https://google.com/search?q=Iptor) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2023-12-01 | [`elsewedyelectric.com`](https://google.com/search?q=elsewedyelectric.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
