@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-12-14 | [`mcs360.com`](https://google.com/search?q=mcs360.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-14 | [`www.medi-market.be\$164M\Belgium\95gb\1%Disclosed`](https://google.com/search?q=www.medi-market.be%5C%24164M%5CBelgium%5C95gb%5C1%25Disclosed) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2023-12-14 | [`www.odalys-vacances.com\$151.1M\France\548gb\1%Disclosed`](https://google.com/search?q=www.odalys-vacances.com%5C%24151.1M%5CFrance%5C548gb%5C1%25Disclosed) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2023-12-14 | [`www.cieautomotive.com\$3.6B\Spain\2.6tb\1%Disclosed`](https://google.com/search?q=www.cieautomotive.com%5C%243.6B%5CSpain%5C2.6tb%5C1%25Disclosed) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-12-01 | [`Iptor`](https://google.com/search?q=Iptor) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-12-01 | [`elsewedyelectric.com`](https://google.com/search?q=elsewedyelectric.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-01 | [`Kellett & Bartholow PLLC`](https://google.com/search?q=Kellett+%26+Bartholow+PLLC) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2023-12-01 | [`http://centroedilemilano.com`](https://google.com/search?q=http%3A%2F%2Fcentroedilemilano.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
