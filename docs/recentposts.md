@@ -4,6 +4,12 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-12-14 | [`www.medi-market.be\$164M\Belgium\95gb\1%Disclosed`](https://google.com/search?q=www.medi-market.be%5C%24164M%5CBelgium%5C95gb%5C1%25Disclosed) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
+| 2023-12-14 | [`www.odalys-vacances.com\$151.1M\France\548gb\1%Disclosed`](https://google.com/search?q=www.odalys-vacances.com%5C%24151.1M%5CFrance%5C548gb%5C1%25Disclosed) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
+| 2023-12-14 | [`www.cieautomotive.com\$3.6B\Spain\2.6tb\1%Disclosed`](https://google.com/search?q=www.cieautomotive.com%5C%243.6B%5CSpain%5C2.6tb%5C1%25Disclosed) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
+| 2023-12-14 | [`www.nationalnail.com\$678.9M\USA\195gb\1%Disclosed`](https://google.com/search?q=www.nationalnail.com%5C%24678.9M%5CUSA%5C195gb%5C1%25Disclosed) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
+| 2023-12-14 | [`www.isc.dk\$60.1M\Denmark\130gb\1%Disclosed`](https://google.com/search?q=www.isc.dk%5C%2460.1M%5CDenmark%5C130gb%5C1%25Disclosed) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
+| 2023-12-14 | [`www.dillarddoor.com\$8.5M\USA\87gb\1%Disclosed`](https://google.com/search?q=www.dillarddoor.com%5C%248.5M%5CUSA%5C87gb%5C1%25Disclosed) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2023-12-14 | [`grandrapidswomenshealth.com`](https://google.com/search?q=grandrapidswomenshealth.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-13 | [`austen-it.com`](https://google.com/search?q=austen-it.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-13 | [`dawsongroup.co.uk`](https://google.com/search?q=dawsongroup.co.uk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -198,9 +204,3 @@ _last `200` posts_
 | 2023-12-01 | [`elsewedyelectric.com`](https://google.com/search?q=elsewedyelectric.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-01 | [`Kellett & Bartholow PLLC`](https://google.com/search?q=Kellett+%26+Bartholow+PLLC) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2023-12-01 | [`http://centroedilemilano.com`](https://google.com/search?q=http%3A%2F%2Fcentroedilemilano.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
-| 2023-12-01 | [`Agamatrix`](https://google.com/search?q=Agamatrix) | [meow](https://ransomwatch.telemetry.ltd/#/profiles?id=meow) |
-| 2023-12-01 | [`Dörr Group`](https://google.com/search?q=D%C3%B6rr+Group) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-12-01 | [`www.grupoprides.com`](https://google.com/search?q=www.grupoprides.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
-| 2023-12-01 | [`HTC Global Services`](https://google.com/search?q=HTC+Global+Services) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-11-30 | [`hnncsb.org`](https://google.com/search?q=hnncsb.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-11-30 | [`Giti`](https://google.com/search?q=Giti) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
