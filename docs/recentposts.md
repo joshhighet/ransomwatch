@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-12-15 | [`Fred Hutchinson Cancer Research Center`](https://google.com/search?q=Fred+Hutchinson+Cancer+Research+Center) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2023-12-14 | [`Chaney, Couch, Callaway, Carter and Associates Family Dentistry`](https://google.com/search?q=Chaney%2C+Couch%2C+Callaway%2C+Carter+and+Associates+Family+Dentistry) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-12-14 | [`Commonwealth Capital`](https://google.com/search?q=Commonwealth+Capital) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-12-14 | [`Greenbox Loans Inc.`](https://google.com/search?q=Greenbox+Loans+Inc.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-12-03 | [`Tipalti claimed as a victim - but we'll extort Roblox and Twitch, two of their affected cl`](https://google.com/search?q=Tipalti+claimed+as+a+victim+-+but+we%27ll+extort+Roblox+and+Twitch%2C+two+of+their+affected+cl) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-12-03 | [`Tipalti claimed as a victim - but we'll extort Roblox, one of their affected clients, indi`](https://google.com/search?q=Tipalti+claimed+as+a+victim+-+but+we%27ll+extort+Roblox%2C+one+of+their+affected+clients%2C+indi) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-12-02 | [`bboed.org`](https://google.com/search?q=bboed.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-12-02 | [`Lisa Mayer CA, Professional Corporation`](https://google.com/search?q=Lisa+Mayer+CA%2C+Professional+Corporation) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
