@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-12-16 | [`New York School of Interior Design`](https://google.com/search?q=New+York+School+of+Interior+Design) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
+| 2023-12-16 | [`CTS.CO.UK\$13.5 M\UK\945gb\1%DISCLOSED`](https://google.com/search?q=CTS.CO.UK%5C%2413.5+M%5CUK%5C945gb%5C1%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2023-12-16 | [`Insidesource`](https://google.com/search?q=Insidesource) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-12-15 | [`hebeler.com`](https://google.com/search?q=hebeler.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-15 | [`Nexiga`](https://google.com/search?q=Nexiga) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-12-04 | [`Evnhcmc`](https://google.com/search?q=Evnhcmc) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-12-04 | [`www.ufresources.com`](https://google.com/search?q=www.ufresources.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-12-04 | [`nida.com`](https://google.com/search?q=nida.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
-| 2023-12-03 | [`Bern Hotels & Resort s`](https://google.com/search?q=Bern+Hotels+%26+Resort+s) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2023-12-03 | [`mirle.com.tw`](https://google.com/search?q=mirle.com.tw) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
