@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-12-17 | [`rodo.co.uk`](https://google.com/search?q=rodo.co.uk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-16 | [`E & J Gallo Winery`](https://google.com/search?q=E+%26+J+Gallo+Winery) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-12-16 | [`cts.co.uk\$13.5 M\UK\945gb\&lt;1%DISCLOSED`](https://google.com/search?q=cts.co.uk%5C%2413.5+M%5CUK%5C945gb%5C%26lt%3B1%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2023-12-16 | [`CTS.CO.UK\$13.5 M\UK\945gb\&lt;1%DISCLOSED`](https://google.com/search?q=CTS.CO.UK%5C%2413.5+M%5CUK%5C945gb%5C%26lt%3B1%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-12-04 | [`Full access to the school network USA`](https://google.com/search?q=Full+access+to+the+school+network+USA) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2023-12-04 | [`ychlccsc.edu.hk`](https://google.com/search?q=ychlccsc.edu.hk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-04 | [`Getrix`](https://google.com/search?q=Getrix) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2023-12-04 | [`Midea Carrier`](https://google.com/search?q=Midea+Carrier) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
