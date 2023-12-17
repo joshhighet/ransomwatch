@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-12-17 | [`Spaulding Clinical`](https://google.com/search?q=Spaulding+Clinical) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
+| 2023-12-17 | [`Kraft Foods`](https://google.com/search?q=Kraft+Foods) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
 | 2023-12-17 | [`Chetu`](https://google.com/search?q=Chetu) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-12-17 | [`ATCO Products Inc`](https://google.com/search?q=ATCO+Products+Inc) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-12-17 | [`Biomatrix LLC`](https://google.com/search?q=Biomatrix+LLC) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-12-05 | [`http://fps.com`](https://google.com/search?q=http%3A%2F%2Ffps.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2023-12-05 | [`http://www.henry.k12.ga.us`](https://google.com/search?q=http%3A%2F%2Fwww.henry.k12.ga.us) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2023-12-04 | [`www.greatlakestech.net`](https://google.com/search?q=www.greatlakestech.net) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
-| 2023-12-04 | [`www.cmsc.com`](https://google.com/search?q=www.cmsc.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
-| 2023-12-04 | [`Tipalti`](https://google.com/search?q=Tipalti) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
