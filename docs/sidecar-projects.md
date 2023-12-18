@@ -1,4 +1,5 @@
 ## extensions
+
 - [x.com/ransomwarenews](https://twitter.com/ransomwarenews) _an X/Twitter bot for ransomwatch data by vxunderground_
 - [privtools/ransomposts:](https://privtools.github.io/ransomposts/) _an alternate post visualiser with multi-format exporting_
 - [jdl-84/ransomwatchviewer:](https://jdl-84.github.io/RansomWatchViewer/) _an alternate post visualiser, retro style_
@@ -9,6 +10,7 @@
 - [jjsantanna/aggregator:](https://github.com/jjsantanna/aggregator_crawlers_lists_ransomware_groups_leaksites)_a Jupyter Notebook to unify threat claims from various sources_
 
 ## chatbots
+
 - [uforia/MatterBot](https://github.com/uforia/MatterBot) _a Mattermost bot for ransomwatch_
 - [@ransomwatch@infosec.exchange](https://infosec.exchange/@ransomwatch) _a Mastodon bot for ransomwatch_
 - [0xGrizzly/slackRansomwareFeed](https://github.com/0xGrizzly/slackRansomwareFeed) _a Slack bot for ransomwatch_
@@ -24,6 +26,7 @@
 - [Atos Group - Avaddon Ransomware Analysis](https://atos.net/en/lp/securitydive/avaddon-ransomware-analysis)
 - [Alon Gal - An Avoidable Breach — FBI Hacker Leaks Sensitive Airbus Data](https://underthebreach.medium.com/an-avoidable-breach-fbi-hacker-leaks-sensitive-airbus-data-7cebd3b1de7a)
 - [Simone Kraus - Why LockBit is more successful than other ransomware groups](https://medium.com/@simone.kraus/why-lockbit-is-more-successful-than-other-ransomware-groups-40976e088618)
+- [Basque Cybersecurity Agency - CL0P Ransomware](https://www.ciberseguridad.eus/sites/default/files/2023-03/BCSC-Malware-Clop_V1-TLPClear.pdf)
 
 ## blogs & resources
 
