@@ -4,6 +4,11 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-12-18 | [`Waldners`](https://google.com/search?q=Waldners) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-12-18 | [`Succes Schoonmaak`](https://google.com/search?q=Succes+Schoonmaak) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-12-18 | [`DYWIDAG-Systems & American Transportation`](https://google.com/search?q=DYWIDAG-Systems+%26+American+Transportation) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-12-18 | [`C?????z????`](https://google.com/search?q=C%3F%3F%3F%3F%3Fz%3F%3F%3F%3F) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-12-18 | [`parat-technology.com`](https://google.com/search?q=parat-technology.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-18 | [`The CM Paula`](https://google.com/search?q=The+CM+Paula) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-12-18 | [`Viking Therapeutics reported to the SEC following a breach`](https://google.com/search?q=Viking+Therapeutics+reported+to+the+SEC+following+a+breach) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-12-18 | [`lajollagroup.com\$35.2M\USA\283gb\&lt;1%DISCLOSED`](https://google.com/search?q=lajollagroup.com%5C%2435.2M%5CUSA%5C283gb%5C%26lt%3B1%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
@@ -199,8 +204,3 @@ _last `200` posts_
 | 2023-12-06 | [`SMG Confrere`](https://google.com/search?q=SMG+Confrere) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-12-06 | [`Lischkoff and Pitts, P.C.`](https://google.com/search?q=Lischkoff+and+Pitts%2C+P.C.) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-12-06 | [`Calgary TELUS Convention Centre`](https://google.com/search?q=Calgary+TELUS+Convention+Centre) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-12-05 | [`Henry Schein Inc - Henry's " LOST SHINE "`](https://google.com/search?q=Henry+Schein+Inc+-+Henry%27s+%22+LOST+SHINE+%22) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-12-05 | [`TraCS Florida FSU`](https://google.com/search?q=TraCS+Florida+FSU) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-12-05 | [`laprensani.com`](https://google.com/search?q=laprensani.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-12-05 | [`aldoshoes.com`](https://google.com/search?q=aldoshoes.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-12-05 | [`mapc.org`](https://google.com/search?q=mapc.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
