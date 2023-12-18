@@ -4,6 +4,23 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-12-18 | [`https://www.hotrmhmr.org`](https://google.com/search?q=https%3A%2F%2Fwww.hotrmhmr.org) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
+| 2023-12-18 | [`https://www.pctel.com`](https://google.com/search?q=https%3A%2F%2Fwww.pctel.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
+| 2023-12-18 | [`https://aglweldingsupply.com`](https://google.com/search?q=https%3A%2F%2Faglweldingsupply.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
+| 2023-12-18 | [`https://grayhill.com`](https://google.com/search?q=https%3A%2F%2Fgrayhill.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
+| 2023-12-18 | [`https://leedarson.com`](https://google.com/search?q=https%3A%2F%2Fleedarson.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
+| 2023-12-18 | [`https://coca-cola.com.sg`](https://google.com/search?q=https%3A%2F%2Fcoca-cola.com.sg) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
+| 2023-12-18 | [`https://shorts.uk.com`](https://google.com/search?q=https%3A%2F%2Fshorts.uk.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
+| 2023-12-18 | [`https://worldemblem.com`](https://google.com/search?q=https%3A%2F%2Fworldemblem.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
+| 2023-12-18 | [`https://gbuahn.org`](https://google.com/search?q=https%3A%2F%2Fgbuahn.org) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
+| 2023-12-18 | [`https://baden.ch`](https://google.com/search?q=https%3A%2F%2Fbaden.ch) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
+| 2023-12-18 | [`https://dafiti.com.ar`](https://google.com/search?q=https%3A%2F%2Fdafiti.com.ar) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
+| 2023-12-18 | [`https://lunaconcorp.com`](https://google.com/search?q=https%3A%2F%2Flunaconcorp.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
+| 2023-12-18 | [`https://tglt.com`](https://google.com/search?q=https%3A%2F%2Ftglt.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
+| 2023-12-18 | [`https://sevenseasgroup.com`](https://google.com/search?q=https%3A%2F%2Fsevenseasgroup.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
+| 2023-12-18 | [`https://decina.com.au`](https://google.com/search?q=https%3A%2F%2Fdecina.com.au) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
+| 2023-12-18 | [`https://cooper.co.uk`](https://google.com/search?q=https%3A%2F%2Fcooper.co.uk) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
+| 2023-12-18 | [`https://gcbhs.com`](https://google.com/search?q=https%3A%2F%2Fgcbhs.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
 | 2023-12-17 | [`Spaulding Clinical`](https://google.com/search?q=Spaulding+Clinical) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
 | 2023-12-17 | [`Kraft Foods`](https://google.com/search?q=Kraft+Foods) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
 | 2023-12-17 | [`Chetu`](https://google.com/search?q=Chetu) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
@@ -187,20 +204,3 @@ _last `200` posts_
 | 2023-12-05 | [`Homeland Inc.`](https://google.com/search?q=Homeland+Inc.) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2023-12-05 | [`TCI Co., Ltd.`](https://google.com/search?q=TCI+Co.%2C+Ltd.) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2023-12-05 | [`Crystal Lake Health Center`](https://google.com/search?q=Crystal+Lake+Health+Center) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2023-12-05 | [`Garr Silpe, P.C.`](https://google.com/search?q=Garr+Silpe%2C+P.C.) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2023-12-05 | [`DrilMaco`](https://google.com/search?q=DrilMaco) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2023-12-05 | [`United Africa Group Ltd.`](https://google.com/search?q=United+Africa+Group+Ltd.) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2023-12-05 | [`Owens Group`](https://google.com/search?q=Owens+Group) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2023-12-05 | [`Lincoln Office`](https://google.com/search?q=Lincoln+Office) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2023-12-05 | [`UK Stratton Primary School`](https://google.com/search?q=UK+Stratton+Primary+School) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2023-12-05 | [`THK Co., Ltd.`](https://google.com/search?q=THK+Co.%2C+Ltd.) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2023-12-05 | [`Medjet`](https://google.com/search?q=Medjet) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2023-12-05 | [`CLATSKANIEPUD`](https://google.com/search?q=CLATSKANIEPUD) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-12-05 | [`Akumin`](https://google.com/search?q=Akumin) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2023-12-05 | [`restargp.com`](https://google.com/search?q=restargp.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-12-05 | [`concertus.co.uk`](https://google.com/search?q=concertus.co.uk) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
-| 2023-12-05 | [`Bowden Barlow Law PA`](https://google.com/search?q=Bowden+Barlow+Law+PA) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
-| 2023-12-05 | [`Rosens Diversified Inc `](https://google.com/search?q=Rosens+Diversified+Inc+) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
-| 2023-12-05 | [`http://fps.com`](https://google.com/search?q=http%3A%2F%2Ffps.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
-| 2023-12-05 | [`http://www.henry.k12.ga.us`](https://google.com/search?q=http%3A%2F%2Fwww.henry.k12.ga.us) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
-| 2023-12-04 | [`www.greatlakestech.net`](https://google.com/search?q=www.greatlakestech.net) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
