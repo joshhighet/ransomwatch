@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-12-18 | [`lajollagroup.com\$35.2M\USA\283gb\&lt;1%DISCLOSED`](https://google.com/search?q=lajollagroup.com%5C%2435.2M%5CUSA%5C283gb%5C%26lt%3B1%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2023-12-18 | [`odalys-vacances.com\$151.1M\France\548gb\100%DISCLOSED`](https://google.com/search?q=odalys-vacances.com%5C%24151.1M%5CFrance%5C548gb%5C100%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2023-12-18 | [`Electrical Connections`](https://google.com/search?q=Electrical+Connections) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-12-18 | [`odalys-vacances.com\$151.1M\France\548gb\&lt;1%DISCLOSED`](https://google.com/search?q=odalys-vacances.com%5C%24151.1M%5CFrance%5C548gb%5C%26lt%3B1%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-12-05 | [`mapc.org`](https://google.com/search?q=mapc.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-05 | [`ussignandmill.com`](https://google.com/search?q=ussignandmill.com) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
 | 2023-12-05 | [`skalar.com`](https://google.com/search?q=skalar.com) | [ransomblog_noname](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomblog_noname) |
-| 2023-12-05 | [`Rudolf-Venture Chemical Inc - Part 1`](https://google.com/search?q=Rudolf-Venture+Chemical+Inc+-+Part+1) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
