@@ -1239,3 +1239,15 @@ def siegedsec():
         errlog('siegedsec: ' + 'parsing fail')
     for post in posts:
         appender(post, 'siegedsec')
+
+def dragonforce():
+    stdlog('parser: ' + 'dragonforce')
+    parser = '''
+    grep -o 'href="https://[^"]*' source/dragonforce-*.html | sed 's/href="//'
+    '''
+    posts = runshellcmd(parser)
+    if len(posts) == 1:
+        errlog('dragonforce: ' + 'parsing fail')
+    for post in posts:
+        appender(post, 'dragonforce')
+  
