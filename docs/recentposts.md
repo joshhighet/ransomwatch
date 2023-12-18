@@ -4,6 +4,14 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-12-18 | [`odalys-vacances.com\$151.1M\France\548gb\&lt;1%DISCLOSED`](https://google.com/search?q=odalys-vacances.com%5C%24151.1M%5CFrance%5C548gb%5C%26lt%3B1%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
+| 2023-12-18 | [`cieautomotive.com\$3.6B\Spain\2.6tb\&lt;1%DISCLOSED`](https://google.com/search?q=cieautomotive.com%5C%243.6B%5CSpain%5C2.6tb%5C%26lt%3B1%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
+| 2023-12-18 | [`nationalnail.com\$678.9M\USA\195gb\&lt;1%DISCLOSED`](https://google.com/search?q=nationalnail.com%5C%24678.9M%5CUSA%5C195gb%5C%26lt%3B1%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
+| 2023-12-18 | [`isc.dk\$60.1M\Denmark\130gb\&lt;1%DISCLOSED`](https://google.com/search?q=isc.dk%5C%2460.1M%5CDenmark%5C130gb%5C%26lt%3B1%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
+| 2023-12-18 | [`dillarddoor.com\$8.5M\USA\87gb\&lt;1%DISCLOSED`](https://google.com/search?q=dillarddoor.com%5C%248.5M%5CUSA%5C87gb%5C%26lt%3B1%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
+| 2023-12-18 | [`www.navitaspet.com`](https://google.com/search?q=www.navitaspet.com) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2023-12-18 | [`www.vyera.com`](https://google.com/search?q=www.vyera.com) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2023-12-18 | [`www.hallidays.co.uk`](https://google.com/search?q=www.hallidays.co.uk) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2023-12-18 | [`https://www.hotrmhmr.org`](https://google.com/search?q=https%3A%2F%2Fwww.hotrmhmr.org) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
 | 2023-12-18 | [`https://www.pctel.com`](https://google.com/search?q=https%3A%2F%2Fwww.pctel.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
 | 2023-12-18 | [`https://aglweldingsupply.com`](https://google.com/search?q=https%3A%2F%2Faglweldingsupply.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
@@ -196,11 +204,3 @@ _last `200` posts_
 | 2023-12-05 | [`Rudolf-Venture Chemical Inc - Part 1`](https://google.com/search?q=Rudolf-Venture+Chemical+Inc+-+Part+1) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2023-12-05 | [`IDESA group, S.A. De C.V.`](https://google.com/search?q=IDESA+group%2C+S.A.+De+C.V.) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2023-12-05 | [`Austal USA`](https://google.com/search?q=Austal+USA) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2023-12-05 | [`Builders Hardware and Hollow Metal, Inc.`](https://google.com/search?q=Builders+Hardware+and+Hollow+Metal%2C+Inc.) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2023-12-05 | [`Deegenbergklinik`](https://google.com/search?q=Deegenbergklinik) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2023-12-05 | [`InstantWhip`](https://google.com/search?q=InstantWhip) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2023-12-05 | [`Dr. Jaime Schwartz MD, FACS`](https://google.com/search?q=Dr.+Jaime+Schwartz+MD%2C+FACS) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2023-12-05 | [`Bartec Top Holding GmbH`](https://google.com/search?q=Bartec+Top+Holding+GmbH) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2023-12-05 | [`Homeland Inc.`](https://google.com/search?q=Homeland+Inc.) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2023-12-05 | [`TCI Co., Ltd.`](https://google.com/search?q=TCI+Co.%2C+Ltd.) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2023-12-05 | [`Crystal Lake Health Center`](https://google.com/search?q=Crystal+Lake+Health+Center) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
