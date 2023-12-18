@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-12-18 | [`Richard Harris Personal Injury Law Firm`](https://google.com/search?q=Richard+Harris+Personal+Injury+Law+Firm) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-12-18 | [`Schoepe Display`](https://google.com/search?q=Schoepe+Display) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-12-18 | [`Waldners`](https://google.com/search?q=Waldners) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-12-18 | [`Succes Schoonmaak`](https://google.com/search?q=Succes+Schoonmaak) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-12-18 | [`DYWIDAG-Systems & American Transportation`](https://google.com/search?q=DYWIDAG-Systems+%26+American+Transportation) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-12-06 | [`fpz.com`](https://google.com/search?q=fpz.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-06 | [`astley.`](https://google.com/search?q=astley.) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-12-06 | [`SMG Confrere`](https://google.com/search?q=SMG+Confrere) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-12-06 | [`Lischkoff and Pitts, P.C.`](https://google.com/search?q=Lischkoff+and+Pitts%2C+P.C.) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-12-06 | [`Calgary TELUS Convention Centre`](https://google.com/search?q=Calgary+TELUS+Convention+Centre) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
