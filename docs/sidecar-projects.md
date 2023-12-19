@@ -27,14 +27,19 @@
 - [Alon Gal - An Avoidable Breach — FBI Hacker Leaks Sensitive Airbus Data](https://underthebreach.medium.com/an-avoidable-breach-fbi-hacker-leaks-sensitive-airbus-data-7cebd3b1de7a)
 - [Simone Kraus - Why LockBit is more successful than other ransomware groups](https://medium.com/@simone.kraus/why-lockbit-is-more-successful-than-other-ransomware-groups-40976e088618)
 - [Basque Cybersecurity Agency - CL0P Ransomware](https://www.ciberseguridad.eus/sites/default/files/2023-03/BCSC-Malware-Clop_V1-TLPClear.pdf)
+- [GIJN - Working With Hackers: Where — and How — Journalists Should Use These Sources](https://gijn.org/stories/best-practices-investigating-hacked-data/)
+- [SentinelOne Labs - IceFire Ransomware Returns Targeting Linux Enterprise Networks](https://www.sentinelone.com/labs/icefire-ransomware-returns-now-targeting-linux-enterprise-networks/)
 
 ## blogs & resources
 
+- [SANS - Ransomware: Every internet-connected network is at risk. Be prepared!](https://www.sans.org/blog/ransomware-every-internet-connected-network-is-at-risk/)
 - [th3protocol.com:](https://www.th3protocol.com/2022/ChatGPT-LeakSite-Analysis) _using ChatGPT to visualize ransomware leak site data_
 - [OhShINT/ohshint.gitbook.io:](https://ohshint.gitbook.io/oh-shint-its-a-blog/) _an excellently curated repository OSINT resources, ransomwatch included_
 - [ransomwatch & Jupyter Notebooks](https://kc7cyber.com/learning-module/keeping-up-to-date-with-ransomware-leak-sites/) _- a learning module by KC7_
 - [keyword matching posts for monitoring/alerting](https://www.youtube.com/watch?v=cVDGmKxbKnI) _- youtube, Sh1katagana1_
 - [PWNDEFEND - Cyber Threat Intelligence Resources](https://www.pwndefend.com/2023/02/26/cyber-threat-intelligence-resources/)
+- [Luca Mercatanti - Cyber Threat Intelligence on the Dark Web](https://luca-mercatanti.com/cyber-threat-intelligence-sul-dark-web/)
+- [SOS Ransomwre: France November 2023 Ransomware Overview](https://sosransomware.com/ransomware/rapport-de-novembre-2023-panorama-des-attaques-ransomware-en-france/)
 
 ## contributing forks
 
