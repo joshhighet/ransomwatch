@@ -521,7 +521,7 @@ def alphv():
     # egrep -o 'class="mat-h2">([[:alnum:]]| |\.)+</h2>' source/alphv-*.html | cut -d '>' -f 2 | cut -d '<' -f 1
     # grep -o 'class="mat-h2">[^<>]*<\/h2>' source/alphv-*.html | cut -d '>' -f 2 | cut -d '<' -f 1 | sed -e 's/^ *//g' -e 's/[[:space:]]*$//' -e '/No articles here yet, check back later./d'
     parser = '''
-    jq -r '.items[].title' source/alphv-alphvmmm27*.html | sed -e 's/^ *//g' -e 's/[[:space:]]*$//'
+    jq -r '.items[].title' source/alphv-alphvuzxyxv6yl*.html | sed -e 's/^ *//g' -e 's/[[:space:]]*$//' || true
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
