@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-12-19 | [`Viking Therapeutics`](https://google.com/search?q=Viking+Therapeutics) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-12-19 | [`mtsd-vt.org`](https://google.com/search?q=mtsd-vt.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-19 | [`Air Sino-Euro Associates Travel Pte. Ltd`](https://google.com/search?q=Air+Sino-Euro+Associates+Travel+Pte.+Ltd) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-12-19 | [`chuzefitness.com`](https://google.com/search?q=chuzefitness.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-12-06 | [`Aqualectra Holdings`](https://google.com/search?q=Aqualectra+Holdings) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-12-06 | [`Compass Group Italia`](https://google.com/search?q=Compass+Group+Italia) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-12-06 | [`Acero Engineering`](https://google.com/search?q=Acero+Engineering) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2023-12-06 | [`syrtech.com`](https://google.com/search?q=syrtech.com) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
