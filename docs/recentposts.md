@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-12-20 | [`Bladen County Public Library`](https://google.com/search?q=Bladen+County+Public+Library) | [meow](https://ransomwatch.telemetry.ltd/#/profiles?id=meow) |
+| 2023-12-20 | [`Great Valley School District`](https://google.com/search?q=Great+Valley+School+District) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-12-20 | [`https://yakult.com.au`](https://google.com/search?q=https%3A%2F%2Fyakult.com.au) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
 | 2023-12-20 | [`smudlers.com`](https://google.com/search?q=smudlers.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-20 | [`Unite Here`](https://google.com/search?q=Unite+Here) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-12-07 | [`Silvent North America`](https://google.com/search?q=Silvent+North+America) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-12-07 | [`GreenWaste Recovery`](https://google.com/search?q=GreenWaste+Recovery) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-12-07 | [`Burton Wire & Cable`](https://google.com/search?q=Burton+Wire+%26+Cable) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-12-07 | [`Capespan`](https://google.com/search?q=Capespan) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-12-07 | [`Becker Furniture World`](https://google.com/search?q=Becker+Furniture+World) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
