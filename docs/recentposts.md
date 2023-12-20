@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-12-20 | [`hunterbuildings.com\$130.4M\USA\166gb\&lt;1%DISCLOSED`](https://google.com/search?q=hunterbuildings.com%5C%24130.4M%5CUSA%5C166gb%5C%26lt%3B1%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
+| 2023-12-20 | [`larlyn.com\$256.8M\Canada\54gb\&lt;1%DISCLOSED`](https://google.com/search?q=larlyn.com%5C%24256.8M%5CCanada%5C54gb%5C%26lt%3B1%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
+| 2023-12-20 | [`wkw-group.com\$707M\Germany\575gb\&lt;1%DISCLOSED`](https://google.com/search?q=wkw-group.com%5C%24707M%5CGermany%5C575gb%5C%26lt%3B1%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2023-12-20 | [`dobsystems.com`](https://google.com/search?q=dobsystems.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-20 | [`des-igngroup.com`](https://google.com/search?q=des-igngroup.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-20 | [`Navigation Financial Group`](https://google.com/search?q=Navigation+Financial+Group) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2023-12-07 | [`AMCO Proteins`](https://google.com/search?q=AMCO+Proteins) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-12-07 | [`SML Group`](https://google.com/search?q=SML+Group) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-12-07 | [`Tri-city Medical Center`](https://google.com/search?q=Tri-city+Medical+Center) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2023-12-07 | [`Tasteful Selections`](https://google.com/search?q=Tasteful+Selections) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2023-12-07 | [`www.warepet.com`](https://google.com/search?q=www.warepet.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
-| 2023-12-07 | [`neurocnv.com`](https://google.com/search?q=neurocnv.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
