@@ -4,6 +4,13 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-12-20 | [`socadis`](https://google.com/search?q=socadis) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2023-12-20 | [`The International School of Management`](https://google.com/search?q=The+International+School+of+Management) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2023-12-20 | [`LCGB`](https://google.com/search?q=LCGB) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2023-12-20 | [`Horizon Pool & Spa`](https://google.com/search?q=Horizon+Pool+%26+Spa) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2023-12-20 | [`Employ Milwaukee`](https://google.com/search?q=Employ+Milwaukee) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2023-12-20 | [`Davis Cedillo & Mendoza Inc`](https://google.com/search?q=Davis+Cedillo+%26+Mendoza+Inc) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2023-12-20 | [`CETEC Ingénierie`](https://google.com/search?q=CETEC+Ing%C3%A9nierie) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-12-20 | [`WELBRO Building Corporation`](https://google.com/search?q=WELBRO+Building+Corporation) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-12-19 | [`RCSB PDB`](https://google.com/search?q=RCSB+PDB) | [meow](https://ransomwatch.telemetry.ltd/#/profiles?id=meow) |
 | 2023-12-19 | [`Viking Therapeutics`](https://google.com/search?q=Viking+Therapeutics) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -197,10 +204,3 @@ _last `200` posts_
 | 2023-12-07 | [`citizenswv.com`](https://google.com/search?q=citizenswv.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-07 | [`signiflow.com`](https://google.com/search?q=signiflow.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-07 | [`bpce.com`](https://google.com/search?q=bpce.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-12-07 | [`usherbrooke.ca`](https://google.com/search?q=usherbrooke.ca) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-12-07 | [`hopto.com`](https://google.com/search?q=hopto.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-12-07 | [`Visan`](https://google.com/search?q=Visan) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-12-06 | [`Tryax Realty Management - Press Release`](https://google.com/search?q=Tryax+Realty+Management+-+Press+Release) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
-| 2023-12-06 | [`Campbell County Schools `](https://google.com/search?q=Campbell+County+Schools+) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
-| 2023-12-06 | [`Deutsche Energie-Agentur`](https://google.com/search?q=Deutsche+Energie-Agentur) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-12-06 | [`Aqualectra Holdings`](https://google.com/search?q=Aqualectra+Holdings) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
