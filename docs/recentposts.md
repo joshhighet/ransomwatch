@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-12-20 | [`WELBRO Building Corporation`](https://google.com/search?q=WELBRO+Building+Corporation) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-12-19 | [`RCSB PDB`](https://google.com/search?q=RCSB+PDB) | [meow](https://ransomwatch.telemetry.ltd/#/profiles?id=meow) |
 | 2023-12-19 | [`Viking Therapeutics`](https://google.com/search?q=Viking+Therapeutics) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-12-19 | [`mtsd-vt.org`](https://google.com/search?q=mtsd-vt.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-12-06 | [`Campbell County Schools `](https://google.com/search?q=Campbell+County+Schools+) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-12-06 | [`Deutsche Energie-Agentur`](https://google.com/search?q=Deutsche+Energie-Agentur) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-12-06 | [`Aqualectra Holdings`](https://google.com/search?q=Aqualectra+Holdings) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2023-12-06 | [`Compass Group Italia`](https://google.com/search?q=Compass+Group+Italia) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
