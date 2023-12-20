@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-12-20 | [`udhaiyamdhall.com`](https://google.com/search?q=udhaiyamdhall.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-20 | [`Prospect Medica`](https://google.com/search?q=Prospect+Medica) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2023-12-20 | [`cieautomotive.com\$3.6B\Spain\2.6tb\100%DISCLOSED`](https://google.com/search?q=cieautomotive.com%5C%243.6B%5CSpain%5C2.6tb%5C100%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2023-12-20 | [`socadis`](https://google.com/search?q=socadis) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-12-07 | [`CIE Automotive`](https://google.com/search?q=CIE+Automotive) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2023-12-07 | [`National Nail Corp`](https://google.com/search?q=National+Nail+Corp) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2023-12-07 | [`directradiology.com`](https://google.com/search?q=directradiology.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-12-07 | [`citizenswv.com`](https://google.com/search?q=citizenswv.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
