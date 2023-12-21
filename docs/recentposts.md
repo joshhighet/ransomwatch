@@ -4,6 +4,21 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-12-21 | [`emprint.com`](https://google.com/search?q=emprint.com) | [werewolves](https://ransomwatch.telemetry.ltd/#/profiles?id=werewolves) |
+| 2023-12-21 | [`lapostemobile.fr`](https://google.com/search?q=lapostemobile.fr) | [werewolves](https://ransomwatch.telemetry.ltd/#/profiles?id=werewolves) |
+| 2023-12-21 | [`acac.com`](https://google.com/search?q=acac.com) | [werewolves](https://ransomwatch.telemetry.ltd/#/profiles?id=werewolves) |
+| 2023-12-21 | [`krasnoyarsk.amaks`](https://google.com/search?q=krasnoyarsk.amaks) | [werewolves](https://ransomwatch.telemetry.ltd/#/profiles?id=werewolves) |
+| 2023-12-21 | [`avrora24.ru`](https://google.com/search?q=avrora24.ru) | [werewolves](https://ransomwatch.telemetry.ltd/#/profiles?id=werewolves) |
+| 2023-12-21 | [`habarovsk.amaks`](https://google.com/search?q=habarovsk.amaks) | [werewolves](https://ransomwatch.telemetry.ltd/#/profiles?id=werewolves) |
+| 2023-12-21 | [`maritimebank.com`](https://google.com/search?q=maritimebank.com) | [werewolves](https://ransomwatch.telemetry.ltd/#/profiles?id=werewolves) |
+| 2023-12-21 | [`croc.ru`](https://google.com/search?q=croc.ru) | [werewolves](https://ransomwatch.telemetry.ltd/#/profiles?id=werewolves) |
+| 2023-12-21 | [`carmoney.ru`](https://google.com/search?q=carmoney.ru) | [werewolves](https://ransomwatch.telemetry.ltd/#/profiles?id=werewolves) |
+| 2023-12-21 | [`roomhotel-sochi.ru`](https://google.com/search?q=roomhotel-sochi.ru) | [werewolves](https://ransomwatch.telemetry.ltd/#/profiles?id=werewolves) |
+| 2023-12-21 | [`atol.ru`](https://google.com/search?q=atol.ru) | [werewolves](https://ransomwatch.telemetry.ltd/#/profiles?id=werewolves) |
+| 2023-12-21 | [`gaztranscom.ru`](https://google.com/search?q=gaztranscom.ru) | [werewolves](https://ransomwatch.telemetry.ltd/#/profiles?id=werewolves) |
+| 2023-12-21 | [`kailos.ru`](https://google.com/search?q=kailos.ru) | [werewolves](https://ransomwatch.telemetry.ltd/#/profiles?id=werewolves) |
+| 2023-12-21 | [`promproektspb.ru`](https://google.com/search?q=promproektspb.ru) | [werewolves](https://ransomwatch.telemetry.ltd/#/profiles?id=werewolves) |
+| 2023-12-21 | [`auditexpertnn.ru`](https://google.com/search?q=auditexpertnn.ru) | [werewolves](https://ransomwatch.telemetry.ltd/#/profiles?id=werewolves) |
 | 2023-12-21 | [`https://aceaircargo.com`](https://google.com/search?q=https%3A%2F%2Faceaircargo.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
 | 2023-12-21 | [`https://kineticlease.com`](https://google.com/search?q=https%3A%2F%2Fkineticlease.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
 | 2023-12-21 | [`Jon Richard`](https://google.com/search?q=Jon+Richard) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -189,18 +204,3 @@ _last `200` posts_
 | 2023-12-11 | [`Independent Recovery Resources, Inc.`](https://google.com/search?q=Independent+Recovery+Resources%2C+Inc.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-12-11 | [`zailaboratory.com`](https://google.com/search?q=zailaboratory.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-11 | [`ISC Consulting Engineers`](https://google.com/search?q=ISC+Consulting+Engineers) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2023-12-11 | [`McCray & Withrow`](https://google.com/search?q=McCray+%26+Withrow) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
-| 2023-12-11 | [`The Glendale Unified School District`](https://google.com/search?q=The+Glendale+Unified+School+District) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
-| 2023-12-10 | [`pronatindustries.com`](https://google.com/search?q=pronatindustries.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-12-10 | [`policia.gob.pe`](https://google.com/search?q=policia.gob.pe) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-12-10 | [`Holding Slovenske elektarne`](https://google.com/search?q=Holding+Slovenske+elektarne) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2023-12-10 | [`Hse`](https://google.com/search?q=Hse) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2023-12-09 | [`Qatar Racing and Equestrian Club`](https://google.com/search?q=Qatar+Racing+and+Equestrian+Club) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2023-12-09 | [`Graphic Solutions Group Inc (US)`](https://google.com/search?q=Graphic+Solutions+Group+Inc+%28US%29) | [daixin](https://ransomwatch.telemetry.ltd/#/profiles?id=daixin) |
-| 2023-12-08 | [`livanova.com`](https://google.com/search?q=livanova.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-12-08 | [`HMW - Press Release`](https://google.com/search?q=HMW+-+Press+Release) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
-| 2023-12-08 | [`http://www.golfzon.com`](https://google.com/search?q=http%3A%2F%2Fwww.golfzon.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
-| 2023-12-08 | [`aw-lawyers.com`](https://google.com/search?q=aw-lawyers.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-12-08 | [`midlandindustries.com`](https://google.com/search?q=midlandindustries.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-12-08 | [`Travian Games`](https://google.com/search?q=Travian+Games) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2023-12-08 | [`Tcman`](https://google.com/search?q=Tcman) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
