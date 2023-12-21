@@ -4,6 +4,10 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-12-21 | [`Jon Richard`](https://google.com/search?q=Jon+Richard) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-12-21 | [`Concept Data`](https://google.com/search?q=Concept+Data) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-12-21 | [`Packaging Solutions`](https://google.com/search?q=Packaging+Solutions) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2023-12-21 | [`Owen Quilty Professional`](https://google.com/search?q=Owen+Quilty+Professional) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-12-20 | [`Bladen County Public Library`](https://google.com/search?q=Bladen+County+Public+Library) | [meow](https://ransomwatch.telemetry.ltd/#/profiles?id=meow) |
 | 2023-12-20 | [`Great Valley School District`](https://google.com/search?q=Great+Valley+School+District) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-12-20 | [`https://yakult.com.au`](https://google.com/search?q=https%3A%2F%2Fyakult.com.au) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
@@ -200,7 +204,3 @@ _last `200` posts_
 | 2023-12-08 | [`Tcman`](https://google.com/search?q=Tcman) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2023-12-07 | [`California Innovations`](https://google.com/search?q=California+Innovations) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-12-07 | [`Precision Technologies Group Ltd`](https://google.com/search?q=Precision+Technologies+Group+Ltd) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2023-12-07 | [`denave.com`](https://google.com/search?q=denave.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-12-07 | [`Silvent North America`](https://google.com/search?q=Silvent+North+America) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-12-07 | [`GreenWaste Recovery`](https://google.com/search?q=GreenWaste+Recovery) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-12-07 | [`Burton Wire & Cable`](https://google.com/search?q=Burton+Wire+%26+Cable) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
