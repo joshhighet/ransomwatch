@@ -289,4 +289,5 @@ if args.mode == 'parse':
     parsers.meow()
     parsers.siegedsec()
     parsers.dragonforce()
+    parsers.werewolves()
     stdlog('ransomwatch: ' + 'parse run complete')

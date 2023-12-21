@@ -1251,3 +1251,13 @@ def dragonforce():
     for post in posts:
         appender(post, 'dragonforce')
   
+def werewolves():
+    stdlog('parser: ' + 'werewolves')
+    parser = '''
+    grep '<!-- </a> -->' source/werewolves-*.html | cut -d '<' -f 1 | sed -e 's/^ *//g' -e 's/[[:space:]]*$//'
+    '''
+    posts = runshellcmd(parser)
+    if len(posts) == 1:
+        errlog('werewolves: ' + 'parsing fail')
+    for post in posts:
+        appender(post, 'werewolves')

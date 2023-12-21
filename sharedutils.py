@@ -120,7 +120,10 @@ def socksfetcher(url):
     try:
         stdlog('sharedutils: ' + 'starting socks request to ' + str(url))
         start_time = time.time()
-        request = requests.get(url, proxies=oproxies, headers=headers(), timeout=20, verify=False)
+        timeout_s=20
+        if url == 'https://werewolves.pro/ru/':
+            timeout_s=30
+        request = requests.get(url, proxies=oproxies, headers=headers(), timeout=timeout_s, verify=False)
         end_time = time.time()
         elapsed_time = end_time - start_time
         stdlog('sharedutils: ' + f'socks request to {url} completed in {elapsed_time:.2f} seconds')
