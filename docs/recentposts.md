@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-12-22 | [`Nissan Australia`](https://google.com/search?q=Nissan+Australia) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-12-22 | [`xeinadin.com`](https://google.com/search?q=xeinadin.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-22 | [`igs-inc.com`](https://google.com/search?q=igs-inc.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-22 | [`sterlinghomes.com.au`](https://google.com/search?q=sterlinghomes.com.au) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-12-11 | [`ipp-sa.com`](https://google.com/search?q=ipp-sa.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-11 | [`igt.nl`](https://google.com/search?q=igt.nl) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-11 | [`Bayer Heritage Federal Credit Union`](https://google.com/search?q=Bayer+Heritage+Federal+Credit+Union) | [lorenz](https://ransomwatch.telemetry.ltd/#/profiles?id=lorenz) |
-| 2023-12-11 | [`Goiasa`](https://google.com/search?q=Goiasa) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
