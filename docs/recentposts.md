@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-12-22 | [`igs-inc.com`](https://google.com/search?q=igs-inc.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-22 | [`sterlinghomes.com.au`](https://google.com/search?q=sterlinghomes.com.au) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-22 | [`goldenc.com`](https://google.com/search?q=goldenc.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-22 | [`fager-mcgee.com`](https://google.com/search?q=fager-mcgee.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-12-11 | [`Bayer Heritage Federal Credit Union`](https://google.com/search?q=Bayer+Heritage+Federal+Credit+Union) | [lorenz](https://ransomwatch.telemetry.ltd/#/profiles?id=lorenz) |
 | 2023-12-11 | [`Goiasa`](https://google.com/search?q=Goiasa) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-12-11 | [`Hinsdale School District `](https://google.com/search?q=Hinsdale+School+District+) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
-| 2023-12-11 | [`Covenant Care`](https://google.com/search?q=Covenant+Care) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
