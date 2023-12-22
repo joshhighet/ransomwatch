@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-12-22 | [`esepac.com`](https://google.com/search?q=esepac.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-12-22 | [`denford.co.uk`](https://google.com/search?q=denford.co.uk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-21 | [`emprint.com`](https://google.com/search?q=emprint.com) | [werewolves](https://ransomwatch.telemetry.ltd/#/profiles?id=werewolves) |
 | 2023-12-21 | [`lapostemobile.fr`](https://google.com/search?q=lapostemobile.fr) | [werewolves](https://ransomwatch.telemetry.ltd/#/profiles?id=werewolves) |
 | 2023-12-21 | [`acac.com`](https://google.com/search?q=acac.com) | [werewolves](https://ransomwatch.telemetry.ltd/#/profiles?id=werewolves) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-12-11 | [`MSD Information tech nology`](https://google.com/search?q=MSD+Information+tech+nology) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-12-11 | [`Studio MF`](https://google.com/search?q=Studio+MF) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-12-11 | [`Independent Recovery Resources, Inc.`](https://google.com/search?q=Independent+Recovery+Resources%2C+Inc.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2023-12-11 | [`zailaboratory.com`](https://google.com/search?q=zailaboratory.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-12-11 | [`ISC Consulting Engineers`](https://google.com/search?q=ISC+Consulting+Engineers) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
