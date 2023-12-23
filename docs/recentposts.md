@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-12-23 | [`zurcherodioraven.com`](https://google.com/search?q=zurcherodioraven.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-23 | [`quakerwindows.com\$271.6M\USA\233gb\&lt;1%DISCLOSED`](https://google.com/search?q=quakerwindows.com%5C%24271.6M%5CUSA%5C233gb%5C%26lt%3B1%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2023-12-23 | [`PriceSmart (Update)`](https://google.com/search?q=PriceSmart+%28Update%29) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-12-23 | [`castores.com.mx`](https://google.com/search?q=castores.com.mx) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-12-12 | [`Brown's Bay Packing Company`](https://google.com/search?q=Brown%27s+Bay+Packing+Company) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-12-12 | [`APVL ingénierie`](https://google.com/search?q=APVL+ing%C3%A9nierie) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-12-12 | [`Grupo Jose Alves`](https://google.com/search?q=Grupo+Jose+Alves) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2023-12-12 | [`Insomniac Games`](https://google.com/search?q=Insomniac+Games) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
