@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-12-24 | [`bkf-fleuren.de`](https://google.com/search?q=bkf-fleuren.de) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-23 | [`avescorent.ch`](https://google.com/search?q=avescorent.ch) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-23 | [`Associates Family Dentistry`](https://google.com/search?q=Associates+Family+Dentistry) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-12-23 | [`Bay Orthopedic and Rehabilitation Supply`](https://google.com/search?q=Bay+Orthopedic+and+Rehabilitation+Supply) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-12-12 | [`Faroe Islands`](https://google.com/search?q=Faroe+Islands) | [siegedsec](https://ransomwatch.telemetry.ltd/#/profiles?id=siegedsec) |
 | 2023-12-12 | [`NATO Leak - 2`](https://google.com/search?q=NATO+Leak+-+2) | [siegedsec](https://ransomwatch.telemetry.ltd/#/profiles?id=siegedsec) |
 | 2023-12-12 | [`NATO Leak - 1`](https://google.com/search?q=NATO+Leak+-+1) | [siegedsec](https://ransomwatch.telemetry.ltd/#/profiles?id=siegedsec) |
-| 2023-12-12 | [`Grupo Televisa`](https://google.com/search?q=Grupo+Televisa) | [siegedsec](https://ransomwatch.telemetry.ltd/#/profiles?id=siegedsec) |
