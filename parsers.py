@@ -1261,3 +1261,14 @@ def werewolves():
         errlog('werewolves: ' + 'parsing fail')
     for post in posts:
         appender(post, 'werewolves')
+
+def malekteam():
+    stdlog('parser: ' + 'malekteam')
+    parser = '''
+    grep --no-filename '<div class="timeline_date-text"><span class="text-danger">' source/malekteam-*.html | cut -d '>' -f 4 | cut -d '<' -f 1 |  sed -e 's/^ *//g' -e 's/[[:space:]]*$//' | sort | uniq
+    '''
+    posts = runshellcmd(parser)
+    if len(posts) == 1:
+        errlog('malekteam: ' + 'parsing fail')
+    for post in posts:
+        appender(post, 'malekteam')
