@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-12-24 | [`Prefeitura Municipal de Itabira`](https://google.com/search?q=Prefeitura+Municipal+de+Itabira) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-12-24 | [`gav.co.il`](https://google.com/search?q=gav.co.il) | [malekteam](https://ransomwatch.telemetry.ltd/#/profiles?id=malekteam) |
 | 2023-12-24 | [`dorimedia`](https://google.com/search?q=dorimedia) | [malekteam](https://ransomwatch.telemetry.ltd/#/profiles?id=malekteam) |
 | 2023-12-24 | [`ZIV Hospital`](https://google.com/search?q=ZIV+Hospital) | [malekteam](https://ransomwatch.telemetry.ltd/#/profiles?id=malekteam) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-12-12 | [`Colombian National Registry`](https://google.com/search?q=Colombian+National+Registry) | [siegedsec](https://ransomwatch.telemetry.ltd/#/profiles?id=siegedsec) |
 | 2023-12-12 | [`Idaho National Laboratory`](https://google.com/search?q=Idaho+National+Laboratory) | [siegedsec](https://ransomwatch.telemetry.ltd/#/profiles?id=siegedsec) |
 | 2023-12-12 | [`Operation Israel - 1`](https://google.com/search?q=Operation+Israel+-+1) | [siegedsec](https://ransomwatch.telemetry.ltd/#/profiles?id=siegedsec) |
-| 2023-12-12 | [`Cellcom`](https://google.com/search?q=Cellcom) | [siegedsec](https://ransomwatch.telemetry.ltd/#/profiles?id=siegedsec) |
