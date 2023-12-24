@@ -1154,8 +1154,9 @@ def cloak():
 def ransomedvc():
     stdlog('parser: ' + 'ransomedvc')
     # grep -A 1 '<div class="card">' source/ransomedvc-f6amq3izz*.html | grep '<b><u>' | cut -d '>' -f 3 | cut -d '<' -f 1 | sed -e 's/^ *//g' -e 's/[[:space:]]*$//'
+    # grep 'class="alignwide wp-block-post-title' source/ransomedvc-f6amq3*ad.html | cut -d '>' -f 4 | cut -d '<' -f 1
     parser = '''
-    grep 'class="alignwide wp-block-post-title' source/ransomedvc-f6amq3*ad.html | cut -d '>' -f 4 | cut -d '<' -f 1
+    grep --no-filename -A 1 '<div class="card">' source/ransomedvc-*.html | grep '#ff5353' | cut -d '>' -f 3 | cut -d '<' -f 1 | sort | uniq
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
