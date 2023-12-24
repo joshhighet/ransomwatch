@@ -1254,7 +1254,7 @@ def dragonforce():
 def werewolves():
     stdlog('parser: ' + 'werewolves')
     parser = '''
-    grep '<!-- </a> -->' source/werewolves-*.html | cut -d '<' -f 1 | sed -e 's/^ *//g' -e 's/[[:space:]]*$//'
+    grep --no-filename '<!-- </a> -->' source/werewolves-*.html | cut -d '<' -f 1 | sed -e 's/^ *//g' -e 's/[[:space:]]*$//' | sort | uniq
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
