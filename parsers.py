@@ -573,7 +573,7 @@ def stormous():
     ###
     # descripotion [current] : grep --no-filename '<p class="description" style="color: rgb(59, 52, 52);"> ' source/stormous-*.html | cut -d '>' -f 2 | sed -e 's/\.[^.]*$//' -e 's/^ *//'
     parser = '''
-    grep --no-filename '<td><center><a href="#"  width="120px"><img src="' source/stormous-*.html | cut -d '"' -f 6 | cut -d '/' -f 3 | sed 's/\.[^.]*$//' | grep -v '^$'
+    grep --no-filename '<td><center><a href="#"  width="120px"><img src="' source/stormous-*.html | cut -d '"' -f 6 | cut -d '/' -f 3 | sed 's/\.[^.]*$//' | grep -v '^$' && grep '<td><a href="' source/stormous-ransekgbpi*.html | cut -d '"' -f 2 | sort | uniq
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
