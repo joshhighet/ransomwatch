@@ -4,6 +4,13 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-12-24 | [`gav.co.il`](https://google.com/search?q=gav.co.il) | [malekteam](https://ransomwatch.telemetry.ltd/#/profiles?id=malekteam) |
+| 2023-12-24 | [`dorimedia`](https://google.com/search?q=dorimedia) | [malekteam](https://ransomwatch.telemetry.ltd/#/profiles?id=malekteam) |
+| 2023-12-24 | [`ZIV Hospital`](https://google.com/search?q=ZIV+Hospital) | [malekteam](https://ransomwatch.telemetry.ltd/#/profiles?id=malekteam) |
+| 2023-12-24 | [`Ono Academic College`](https://google.com/search?q=Ono+Academic+College) | [malekteam](https://ransomwatch.telemetry.ltd/#/profiles?id=malekteam) |
+| 2023-12-24 | [`IDF SMS system`](https://google.com/search?q=IDF+SMS+system) | [malekteam](https://ransomwatch.telemetry.ltd/#/profiles?id=malekteam) |
+| 2023-12-24 | [`Colonial Pipeline`](https://google.com/search?q=Colonial+Pipeline) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
+| 2023-12-24 | [`zonesoft.pt`](https://google.com/search?q=zonesoft.pt) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
 | 2023-12-24 | [`bkf-fleuren.de`](https://google.com/search?q=bkf-fleuren.de) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-23 | [`avescorent.ch`](https://google.com/search?q=avescorent.ch) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-23 | [`Associates Family Dentistry`](https://google.com/search?q=Associates+Family+Dentistry) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
@@ -197,10 +204,3 @@ _last `200` posts_
 | 2023-12-12 | [`Idaho National Laboratory`](https://google.com/search?q=Idaho+National+Laboratory) | [siegedsec](https://ransomwatch.telemetry.ltd/#/profiles?id=siegedsec) |
 | 2023-12-12 | [`Operation Israel - 1`](https://google.com/search?q=Operation+Israel+-+1) | [siegedsec](https://ransomwatch.telemetry.ltd/#/profiles?id=siegedsec) |
 | 2023-12-12 | [`Cellcom`](https://google.com/search?q=Cellcom) | [siegedsec](https://ransomwatch.telemetry.ltd/#/profiles?id=siegedsec) |
-| 2023-12-12 | [`Bezeq`](https://google.com/search?q=Bezeq) | [siegedsec](https://ransomwatch.telemetry.ltd/#/profiles?id=siegedsec) |
-| 2023-12-12 | [`GNSS, BACNet & ModBus`](https://google.com/search?q=GNSS%2C+BACNet+%26+ModBus) | [siegedsec](https://ransomwatch.telemetry.ltd/#/profiles?id=siegedsec) |
-| 2023-12-12 | [`Operation Jane`](https://google.com/search?q=Operation+Jane) | [siegedsec](https://ransomwatch.telemetry.ltd/#/profiles?id=siegedsec) |
-| 2023-12-12 | [`Atlassian`](https://google.com/search?q=Atlassian) | [siegedsec](https://ransomwatch.telemetry.ltd/#/profiles?id=siegedsec) |
-| 2023-12-12 | [`Faroe Islands`](https://google.com/search?q=Faroe+Islands) | [siegedsec](https://ransomwatch.telemetry.ltd/#/profiles?id=siegedsec) |
-| 2023-12-12 | [`NATO Leak - 2`](https://google.com/search?q=NATO+Leak+-+2) | [siegedsec](https://ransomwatch.telemetry.ltd/#/profiles?id=siegedsec) |
-| 2023-12-12 | [`NATO Leak - 1`](https://google.com/search?q=NATO+Leak+-+1) | [siegedsec](https://ransomwatch.telemetry.ltd/#/profiles?id=siegedsec) |
