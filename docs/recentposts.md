@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-12-25 | [`walkro.eu`](https://google.com/search?q=walkro.eu) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-12-25 | [`hendelsinc.com`](https://google.com/search?q=hendelsinc.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-12-25 | [`co.pickens.sc.us`](https://google.com/search?q=co.pickens.sc.us) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-25 | [`zrvp.ro`](https://google.com/search?q=zrvp.ro) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-25 | [`tecnifibre.com`](https://google.com/search?q=tecnifibre.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-25 | [`coastalplainsctr.org`](https://google.com/search?q=coastalplainsctr.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2023-12-12 | [`airtechthelong.com.vn`](https://google.com/search?q=airtechthelong.com.vn) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-12 | [`OpTransRights - 2`](https://google.com/search?q=OpTransRights+-+2) | [siegedsec](https://ransomwatch.telemetry.ltd/#/profiles?id=siegedsec) |
 | 2023-12-12 | [`Telerad`](https://google.com/search?q=Telerad) | [siegedsec](https://ransomwatch.telemetry.ltd/#/profiles?id=siegedsec) |
-| 2023-12-12 | [`Technical University of Mombasa`](https://google.com/search?q=Technical+University+of+Mombasa) | [siegedsec](https://ransomwatch.telemetry.ltd/#/profiles?id=siegedsec) |
-| 2023-12-12 | [`National Office for centralized procurement`](https://google.com/search?q=National+Office+for+centralized+procurement) | [siegedsec](https://ransomwatch.telemetry.ltd/#/profiles?id=siegedsec) |
-| 2023-12-12 | [`Portland Government & United states government`](https://google.com/search?q=Portland+Government+%26+United+states+government) | [siegedsec](https://ransomwatch.telemetry.ltd/#/profiles?id=siegedsec) |
