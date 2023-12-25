@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-12-25 | [`Horizon Pool and Spa`](https://google.com/search?q=Horizon+Pool+and+Spa) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2023-12-25 | [`Davis Cedillo and Mendoza Inc`](https://google.com/search?q=Davis+Cedillo+and+Mendoza+Inc) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-12-24 | [`Prefeitura Municipal de Itabira`](https://google.com/search?q=Prefeitura+Municipal+de+Itabira) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-12-24 | [`gav.co.il`](https://google.com/search?q=gav.co.il) | [malekteam](https://ransomwatch.telemetry.ltd/#/profiles?id=malekteam) |
 | 2023-12-24 | [`dorimedia`](https://google.com/search?q=dorimedia) | [malekteam](https://ransomwatch.telemetry.ltd/#/profiles?id=malekteam) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-12-12 | [`Staples`](https://google.com/search?q=Staples) | [siegedsec](https://ransomwatch.telemetry.ltd/#/profiles?id=siegedsec) |
 | 2023-12-12 | [`Deqing County`](https://google.com/search?q=Deqing+County) | [siegedsec](https://ransomwatch.telemetry.ltd/#/profiles?id=siegedsec) |
 | 2023-12-12 | [`Colombian National Registry`](https://google.com/search?q=Colombian+National+Registry) | [siegedsec](https://ransomwatch.telemetry.ltd/#/profiles?id=siegedsec) |
-| 2023-12-12 | [`Idaho National Laboratory`](https://google.com/search?q=Idaho+National+Laboratory) | [siegedsec](https://ransomwatch.telemetry.ltd/#/profiles?id=siegedsec) |
-| 2023-12-12 | [`Operation Israel - 1`](https://google.com/search?q=Operation+Israel+-+1) | [siegedsec](https://ransomwatch.telemetry.ltd/#/profiles?id=siegedsec) |
