@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-12-25 | [`zrvp.ro`](https://google.com/search?q=zrvp.ro) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-12-25 | [`tecnifibre.com`](https://google.com/search?q=tecnifibre.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-12-25 | [`coastalplainsctr.org`](https://google.com/search?q=coastalplainsctr.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-25 | [`Horizon Pool and Spa`](https://google.com/search?q=Horizon+Pool+and+Spa) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-12-25 | [`Davis Cedillo and Mendoza Inc`](https://google.com/search?q=Davis+Cedillo+and+Mendoza+Inc) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-12-24 | [`Prefeitura Municipal de Itabira`](https://google.com/search?q=Prefeitura+Municipal+de+Itabira) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2023-12-12 | [`Technical University of Mombasa`](https://google.com/search?q=Technical+University+of+Mombasa) | [siegedsec](https://ransomwatch.telemetry.ltd/#/profiles?id=siegedsec) |
 | 2023-12-12 | [`National Office for centralized procurement`](https://google.com/search?q=National+Office+for+centralized+procurement) | [siegedsec](https://ransomwatch.telemetry.ltd/#/profiles?id=siegedsec) |
 | 2023-12-12 | [`Portland Government & United states government`](https://google.com/search?q=Portland+Government+%26+United+states+government) | [siegedsec](https://ransomwatch.telemetry.ltd/#/profiles?id=siegedsec) |
-| 2023-12-12 | [`Staples`](https://google.com/search?q=Staples) | [siegedsec](https://ransomwatch.telemetry.ltd/#/profiles?id=siegedsec) |
-| 2023-12-12 | [`Deqing County`](https://google.com/search?q=Deqing+County) | [siegedsec](https://ransomwatch.telemetry.ltd/#/profiles?id=siegedsec) |
-| 2023-12-12 | [`Colombian National Registry`](https://google.com/search?q=Colombian+National+Registry) | [siegedsec](https://ransomwatch.telemetry.ltd/#/profiles?id=siegedsec) |
