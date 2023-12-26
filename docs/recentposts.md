@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-12-26 | [`Abdali Hospital`](https://google.com/search?q=Abdali+Hospital) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
+| 2023-12-26 | [`Tshwane University of Technology`](https://google.com/search?q=Tshwane+University+of+Technology) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2023-12-25 | [`http://www.blaineschools.org`](https://google.com/search?q=http%3A%2F%2Fwww.blaineschools.org) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2023-12-25 | [`cts.co.uk\$13.5 M\UK\945gb\100%DISCLOSED`](https://google.com/search?q=cts.co.uk%5C%2413.5+M%5CUK%5C945gb%5C100%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2023-12-25 | [`International Electr onic Machines Corp`](https://google.com/search?q=International+Electr+onic+Machines+Corp) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-12-12 | [`The Teaching Company , LLC`](https://google.com/search?q=The+Teaching+Company+%2C+LLC) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-12-12 | [`Memorial Sloan Kettering Cancer Center`](https://google.com/search?q=Memorial+Sloan+Kettering+Cancer+Center) | [meow](https://ransomwatch.telemetry.ltd/#/profiles?id=meow) |
 | 2023-12-12 | [`tradewindscorp-insbrok.com`](https://google.com/search?q=tradewindscorp-insbrok.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-12-12 | [`petrotec.com.qa`](https://google.com/search?q=petrotec.com.qa) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-12-12 | [`kitahirosima.jp`](https://google.com/search?q=kitahirosima.jp) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
