@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-12-26 | [`richmont.edu`](https://google.com/search?q=richmont.edu) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-12-26 | [`coaxis.com`](https://google.com/search?q=coaxis.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-26 | [`smbw.com.au`](https://google.com/search?q=smbw.com.au) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-26 | [`Regarding FM`](https://google.com/search?q=Regarding+FM) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
 | 2023-12-26 | [`Abdali Hospital`](https://google.com/search?q=Abdali+Hospital) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-12-12 | [`SmartWave Technologi es`](https://google.com/search?q=SmartWave+Technologi+es) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-12-12 | [`woodruffenterprises.com`](https://google.com/search?q=woodruffenterprises.com) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
 | 2023-12-12 | [`shareharris.com`](https://google.com/search?q=shareharris.com) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
-| 2023-12-12 | [`Mitrani Caballero Oj am & Ruiz Moreno - A bogados`](https://google.com/search?q=Mitrani+Caballero+Oj+am+%26+Ruiz+Moreno+-+A+bogados) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2023-12-12 | [`The Teaching Company , LLC`](https://google.com/search?q=The+Teaching+Company+%2C+LLC) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
