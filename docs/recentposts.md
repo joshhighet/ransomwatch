@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-12-26 | [`smbw.com.au`](https://google.com/search?q=smbw.com.au) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-26 | [`Regarding FM`](https://google.com/search?q=Regarding+FM) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
 | 2023-12-26 | [`Abdali Hospital`](https://google.com/search?q=Abdali+Hospital) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2023-12-26 | [`Tshwane University of Technology`](https://google.com/search?q=Tshwane+University+of+Technology) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-12-12 | [`shareharris.com`](https://google.com/search?q=shareharris.com) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
 | 2023-12-12 | [`Mitrani Caballero Oj am & Ruiz Moreno - A bogados`](https://google.com/search?q=Mitrani+Caballero+Oj+am+%26+Ruiz+Moreno+-+A+bogados) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-12-12 | [`The Teaching Company , LLC`](https://google.com/search?q=The+Teaching+Company+%2C+LLC) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2023-12-12 | [`Memorial Sloan Kettering Cancer Center`](https://google.com/search?q=Memorial+Sloan+Kettering+Cancer+Center) | [meow](https://ransomwatch.telemetry.ltd/#/profiles?id=meow) |
