@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-12-27 | [`Ultra Intelligence & Communications`](https://google.com/search?q=Ultra+Intelligence+%26+Communications) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-12-26 | [`richmont.edu`](https://google.com/search?q=richmont.edu) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-26 | [`coaxis.com`](https://google.com/search?q=coaxis.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-26 | [`smbw.com.au`](https://google.com/search?q=smbw.com.au) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-12-12 | [`dena.de`](https://google.com/search?q=dena.de) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-12 | [`SmartWave Technologi es`](https://google.com/search?q=SmartWave+Technologi+es) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-12-12 | [`woodruffenterprises.com`](https://google.com/search?q=woodruffenterprises.com) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
-| 2023-12-12 | [`shareharris.com`](https://google.com/search?q=shareharris.com) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
