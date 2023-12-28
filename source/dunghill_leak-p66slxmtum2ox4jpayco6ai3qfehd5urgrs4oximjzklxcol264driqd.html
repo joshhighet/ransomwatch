@@ -82,12 +82,13 @@
 		<div class="news-container">
             <div class="elem_ibody">
                 <h3>Updates</h3>
-                <ul>					
+                <ul>
+<li><b>28.12.2023</b><br> The <b>first</b> part of the <b>CannonDesign</b> data lot was added as magnet link and torrent file</li>				
+<li><b>28.12.2023</b><br> The <b>first</b> part of the <b>Go-Ahead Group</b> data lot was added as magnet link and torrent file</li>				
 <li><b>22.12.2023</b><br> The advanced proofs of the <b>Vertafore</b> data was added. Previously the main data was sold on the darknet</li>				
 <li><b>03.12.2023</b><br> The <b>fifth</b> part of the <b>Supply Technology's</b> data lot was added as magnet link and torrent file</li>
 <li><b>29.11.2023</b><br> The <b>four</b> parts of <b>Supply Technology's</b> data were published as magnet links and torrent files</li>
-<li><b>07.11.2023</b><br> The new <b>Supply Technology LLC</b> data lot has been published as a proof file</li>
-<li><b>25.10.2023</b><br> The <b>fourth</b> part of the <b>SABRE</b> data lot was added as magnet link and torrent file</li>
+
                 </ul>
             </div>
 		</div>
@@ -115,7 +116,7 @@
                 <div class="ibody_footer">
                     <div class="ibody_ft_left">
                         <p><b>Date:</b> 26.09.2023</p>
-                        <p><b>Status:</b> Will be available soon</p>
+                        <p><b>Status:</b> Partially published</p>
                         <div class="counter_views"><b>Views:</b> <div class="counter_include" data-id="lot9">&nbsp;</div></div>
                     </div>
                     <div class="ibody_ft_right">
@@ -182,7 +183,7 @@
                 <div class="ibody_footer">
                     <div class="ibody_ft_left">
                         <p><b>Date:</b> 26.09.2023</p>
-                        <p><b>Status:</b> Will be available soon</p>
+                        <p><b>Status:</b> Partially published</p>
                         <div class="counter_views"><b>Views:</b> <div class="counter_include" data-id="lot7">&nbsp;</div></div>
                     </div>
                     <div class="ibody_ft_right">
@@ -409,6 +410,7 @@
     </div>
 </footer>
 <script src="js/jquery-3.6.1.min.js"></script>
+<script src="js/jquery.cookie.js"></script>
 <script src="js/bootstrap.min.js"></script>
 <script src="js/slick.min.js"></script>
 <script src="js/slick-lightbox.js"></script>
@@ -418,7 +420,7 @@
 
 	$('.counter_views .counter_include').each(function(){
 		console.log('Load views count: ' + $(this).data('id') + '-view');
-		$(this).load('counter.php?file=' + $(this).data('id') + '-view');
+		$(this).load('counter.php?key=fa838299dc739&file=' + $(this).data('id') + '-view');
 	});
 	
 </script>
