@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-12-28 | [`Northland Mechanical Contractors`](https://google.com/search?q=Northland+Mechanical+Contractors) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-12-28 | [`gdi.com\$6.1B\Canada\700gb\&lt;1%DISCLOSED`](https://google.com/search?q=gdi.com%5C%246.1B%5CCanada%5C700gb%5C%26lt%3B1%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2023-12-28 | [`bachoco.com.mx\$4.4B\Mexico\130GB\&lt;1%DISCLOSED`](https://google.com/search?q=bachoco.com.mx%5C%244.4B%5CMexico%5C130GB%5C%26lt%3B1%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2023-12-28 | [`pbssystems.com\$71.5M\Canada\202GB\&lt;1%DISCLOSED`](https://google.com/search?q=pbssystems.com%5C%2471.5M%5CCanada%5C202GB%5C%26lt%3B1%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-12-13 | [`William Jackson Food Group`](https://google.com/search?q=William+Jackson+Food+Group) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-12-13 | [`VAC-U-MAX`](https://google.com/search?q=VAC-U-MAX) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-12-13 | [`Tim Davies Landscaping`](https://google.com/search?q=Tim+Davies+Landscaping) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-12-13 | [`Soethoudt metaalbewerking b.v.`](https://google.com/search?q=Soethoudt+metaalbewerking+b.v.) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
