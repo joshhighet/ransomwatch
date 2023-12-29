@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-12-29 | [`Erbilbil Bilgisayar (You have 72 hours)`](https://google.com/search?q=Erbilbil+Bilgisayar+%28You+have+72+hours%29) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-12-29 | [`Okada Manilla`](https://google.com/search?q=Okada+Manilla) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-12-29 | [`Banco Promerica de la República Dominicana`](https://google.com/search?q=Banco+Promerica+de+la+Rep%C3%BAblica+Dominicana) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2023-12-29 | [`krijnen.be`](https://google.com/search?q=krijnen.be) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-12-13 | [`austen-it.com`](https://google.com/search?q=austen-it.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-13 | [`dawsongroup.co.uk`](https://google.com/search?q=dawsongroup.co.uk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-13 | [`ccadm.org`](https://google.com/search?q=ccadm.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-12-13 | [`altezze.com.mx`](https://google.com/search?q=altezze.com.mx) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
