@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-01-01 | [`Aspiration Training`](https://google.com/search?q=Aspiration+Training) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2023-12-30 | [`M?????n C?????? & W?? & The ???? G????`](https://google.com/search?q=M%3F%3F%3F%3F%3Fn+C%3F%3F%3F%3F%3F%3F+%26+W%3F%3F+%26+The+%3F%3F%3F%3F+G%3F%3F%3F%3F) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-12-30 | [`Keyser Mason Ball`](https://google.com/search?q=Keyser+Mason+Ball) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-12-30 | [`Xerox Corp`](https://google.com/search?q=Xerox+Corp) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-12-14 | [`mcs360.com`](https://google.com/search?q=mcs360.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-14 | [`www.medi-market.be\$164M\Belgium\95gb\1%Disclosed`](https://google.com/search?q=www.medi-market.be%5C%24164M%5CBelgium%5C95gb%5C1%25Disclosed) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2023-12-14 | [`www.odalys-vacances.com\$151.1M\France\548gb\1%Disclosed`](https://google.com/search?q=www.odalys-vacances.com%5C%24151.1M%5CFrance%5C548gb%5C1%25Disclosed) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2023-12-14 | [`www.cieautomotive.com\$3.6B\Spain\2.6tb\1%Disclosed`](https://google.com/search?q=www.cieautomotive.com%5C%243.6B%5CSpain%5C2.6tb%5C1%25Disclosed) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
