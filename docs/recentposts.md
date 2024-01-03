@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-01-03 | [`http://kcsdschools.net`](https://google.com/search?q=http%3A%2F%2Fkcsdschools.net) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-01-02 | [`prinovagloba`](https://google.com/search?q=prinovagloba) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-01-02 | [`Madison Capital & WPM & The Time Group`](https://google.com/search?q=Madison+Capital+%26+WPM+%26+The+Time+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-01-02 | [`groupe-idea.com`](https://google.com/search?q=groupe-idea.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-12-14 | [`Greenbox Loans Inc.`](https://google.com/search?q=Greenbox+Loans+Inc.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-12-14 | [`spiritleatherworks.com`](https://google.com/search?q=spiritleatherworks.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-14 | [`rpassoc.com`](https://google.com/search?q=rpassoc.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-12-14 | [`goldwind.com`](https://google.com/search?q=goldwind.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
