@@ -598,8 +598,9 @@ def blackbasta():
     # grep '.onion/?id=' source/blackbasta-st*.html | cut -d '>' -f 52 | cut -d '<' -f 1 | sed -e 's/\&amp/\&/g' -e 's/\&;/\&/g'
     # grep '.onion/?id=' source/blackbasta-st*.html | cut -d '>' -f 52 | cut -d '=' -f 5 | cut -d '"' -f 1 | sed -e 's/^ *//g' -e '/^$/d' -e 's/[[:space:]]*$//'
     # cat source/blackbasta-*.html | grep -Eo '\?id=[^"]+' | awk -F'=' '{print $2}' | sed -e 's/\&amp;/\&/g'
+    # grep '<strong>SITE:</strong> <em>' source/blackbasta-*.html | cut -d '>' -f 5 | cut -d '<' -f 1
     parser = '''
-    grep '<strong>SITE:</strong> <em>' source/blackbasta-*.html | cut -d '>' -f 5 | cut -d '<' -f 1
+    grep '<p data-v-md-line="3"><em>' source/blackbasta-stnii*.html  | cut -d '>' -f 4 | cut -d '<' -f 1
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
