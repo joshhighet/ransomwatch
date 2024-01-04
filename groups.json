@@ -5091,7 +5091,7 @@
                 "fqdn": "z3wqggtxft7id3ibr7srivv5gjof5fwg76slewnzwwakjuf3nlhukdid.onion",
                 "title": "DragonForce | Blog",
                 "version": 3,
-                "slug": "http://z3wqggtxft7id3ibr7srivv5gjof5fwg76slewnzwwakjuf3nlhukdid.onion/blog",
+                "slug": "http://z3wqggtxft7id3ibr7srivv5gjof5fwg76slewnzwwakjuf3nlhukdid.onion/api/guest/blog/posts?archived=false",
                 "available": true,
                 "updated": "2024-01-04 09:36:44.818356",
                 "lastscrape": "2024-01-04 09:36:44.818341",

@@ -1244,8 +1244,9 @@ def siegedsec():
 
 def dragonforce():
     stdlog('parser: ' + 'dragonforce')
+    # grep -o 'href="https://[^"]*' source/dragonforce-*.html | sed 's/href="//'
     parser = '''
-    grep -o 'href="https://[^"]*' source/dragonforce-*.html | sed 's/href="//'
+    jq '.data.publications.[].site' -r source/dragonforce-*.html || true
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
