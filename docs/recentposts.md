@@ -4,6 +4,13 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-01-04 | [`Hotelplan`](https://google.com/search?q=Hotelplan) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2024-01-04 | [`Graebener® Bipolar Plate Technologies`](https://google.com/search?q=Graebener%C2%AE+Bipolar+Plate+Technologies) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2024-01-04 | [`Leonard’s Express`](https://google.com/search?q=Leonard%E2%80%99s+Express) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2024-01-04 | [`NALS Apartment Homes`](https://google.com/search?q=NALS+Apartment+Homes) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2024-01-04 | [`Kohl Wholesale`](https://google.com/search?q=Kohl+Wholesale) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2024-01-04 | [`Brintons`](https://google.com/search?q=Brintons) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2024-01-04 | [`Alexander Dennis`](https://google.com/search?q=Alexander+Dennis) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-01-03 | [`Bradford Health`](https://google.com/search?q=Bradford+Health) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-01-03 | [`http://kcsdschools.net`](https://google.com/search?q=http%3A%2F%2Fkcsdschools.net) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-01-02 | [`prinovagloba`](https://google.com/search?q=prinovagloba) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -36,7 +43,7 @@ _last `200` posts_
 | 2023-12-28 | [`pbssystems.com\$71.5M\Canada\202GB\&lt;1%DISCLOSED`](https://google.com/search?q=pbssystems.com%5C%2471.5M%5CCanada%5C202GB%5C%26lt%3B1%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2023-12-28 | [`CVR Associates`](https://google.com/search?q=CVR+Associates) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-12-28 | [`hoffmanestates.org`](https://google.com/search?q=hoffmanestates.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-12-27 | [`https://ohiolottery.com`](https://google.com/search?q=https%3A%2F%2Fohiolottery.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
+| 2023-12-27 | [`ohiolottery.com`](https://google.com/search?q=ohiolottery.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
 | 2023-12-27 | [`EPS.RS`](https://google.com/search?q=EPS.RS) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2023-12-27 | [`Aura Engineering, LLC`](https://google.com/search?q=Aura+Engineering%2C+LLC) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-12-27 | [`FIRST 5 Santa Clara County`](https://google.com/search?q=FIRST+5+Santa+Clara+County) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -102,15 +109,15 @@ _last `200` posts_
 | 2023-12-21 | [`kailos.ru`](https://google.com/search?q=kailos.ru) | [werewolves](https://ransomwatch.telemetry.ltd/#/profiles?id=werewolves) |
 | 2023-12-21 | [`promproektspb.ru`](https://google.com/search?q=promproektspb.ru) | [werewolves](https://ransomwatch.telemetry.ltd/#/profiles?id=werewolves) |
 | 2023-12-21 | [`auditexpertnn.ru`](https://google.com/search?q=auditexpertnn.ru) | [werewolves](https://ransomwatch.telemetry.ltd/#/profiles?id=werewolves) |
-| 2023-12-21 | [`https://aceaircargo.com`](https://google.com/search?q=https%3A%2F%2Faceaircargo.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
-| 2023-12-21 | [`https://kineticlease.com`](https://google.com/search?q=https%3A%2F%2Fkineticlease.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
+| 2023-12-21 | [`aceaircargo.com`](https://google.com/search?q=aceaircargo.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
+| 2023-12-21 | [`kineticlease.com`](https://google.com/search?q=kineticlease.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
 | 2023-12-21 | [`Jon Richard`](https://google.com/search?q=Jon+Richard) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-12-21 | [`Concept Data`](https://google.com/search?q=Concept+Data) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-12-21 | [`Packaging Solutions`](https://google.com/search?q=Packaging+Solutions) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-12-21 | [`Owen Quilty Professional`](https://google.com/search?q=Owen+Quilty+Professional) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-12-20 | [`Bladen County Public Library`](https://google.com/search?q=Bladen+County+Public+Library) | [meow](https://ransomwatch.telemetry.ltd/#/profiles?id=meow) |
 | 2023-12-20 | [`Great Valley School District`](https://google.com/search?q=Great+Valley+School+District) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
-| 2023-12-20 | [`https://yakult.com.au`](https://google.com/search?q=https%3A%2F%2Fyakult.com.au) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
+| 2023-12-20 | [`yakult.com.au`](https://google.com/search?q=yakult.com.au) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
 | 2023-12-20 | [`smudlers.com`](https://google.com/search?q=smudlers.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-20 | [`Unite Here`](https://google.com/search?q=Unite+Here) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2023-12-20 | [`dbmgroup.com\$43.6M\USA\110gb\&lt;1%DISCLOSED`](https://google.com/search?q=dbmgroup.com%5C%2443.6M%5CUSA%5C110gb%5C%26lt%3B1%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
@@ -166,25 +173,25 @@ _last `200` posts_
 | 2023-12-18 | [`isc.dk\$60.1M\Denmark\130gb\&lt;1%DISCLOSED`](https://google.com/search?q=isc.dk%5C%2460.1M%5CDenmark%5C130gb%5C%26lt%3B1%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2023-12-18 | [`dillarddoor.com\$8.5M\USA\87gb\&lt;1%DISCLOSED`](https://google.com/search?q=dillarddoor.com%5C%248.5M%5CUSA%5C87gb%5C%26lt%3B1%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2023-12-18 | [`www.navitaspet.com`](https://google.com/search?q=www.navitaspet.com) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2023-12-18 | [`www.vyera.com`](https://google.com/search?q=www.vyera.com) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2023-12-18 | [`www.hallidays.co.uk`](https://google.com/search?q=www.hallidays.co.uk) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2023-12-18 | [`https://www.hotrmhmr.org`](https://google.com/search?q=https%3A%2F%2Fwww.hotrmhmr.org) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
-| 2023-12-18 | [`https://www.pctel.com`](https://google.com/search?q=https%3A%2F%2Fwww.pctel.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
-| 2023-12-18 | [`https://aglweldingsupply.com`](https://google.com/search?q=https%3A%2F%2Faglweldingsupply.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
-| 2023-12-18 | [`https://grayhill.com`](https://google.com/search?q=https%3A%2F%2Fgrayhill.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
-| 2023-12-18 | [`https://leedarson.com`](https://google.com/search?q=https%3A%2F%2Fleedarson.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
-| 2023-12-18 | [`https://coca-cola.com.sg`](https://google.com/search?q=https%3A%2F%2Fcoca-cola.com.sg) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
-| 2023-12-18 | [`https://shorts.uk.com`](https://google.com/search?q=https%3A%2F%2Fshorts.uk.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
-| 2023-12-18 | [`https://worldemblem.com`](https://google.com/search?q=https%3A%2F%2Fworldemblem.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
-| 2023-12-18 | [`https://gbuahn.org`](https://google.com/search?q=https%3A%2F%2Fgbuahn.org) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
-| 2023-12-18 | [`https://baden.ch`](https://google.com/search?q=https%3A%2F%2Fbaden.ch) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
-| 2023-12-18 | [`https://dafiti.com.ar`](https://google.com/search?q=https%3A%2F%2Fdafiti.com.ar) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
-| 2023-12-18 | [`https://lunaconcorp.com`](https://google.com/search?q=https%3A%2F%2Flunaconcorp.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
-| 2023-12-18 | [`https://tglt.com`](https://google.com/search?q=https%3A%2F%2Ftglt.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
-| 2023-12-18 | [`https://sevenseasgroup.com`](https://google.com/search?q=https%3A%2F%2Fsevenseasgroup.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
-| 2023-12-18 | [`https://decina.com.au`](https://google.com/search?q=https%3A%2F%2Fdecina.com.au) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
-| 2023-12-18 | [`https://cooper.co.uk`](https://google.com/search?q=https%3A%2F%2Fcooper.co.uk) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
-| 2023-12-18 | [`https://gcbhs.com`](https://google.com/search?q=https%3A%2F%2Fgcbhs.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
+| 2023-12-18 | [`Vyera Pharmaceuticals`](https://google.com/search?q=Vyera+Pharmaceuticals) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2023-12-18 | [`Hallidays`](https://google.com/search?q=Hallidays) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2023-12-18 | [`www.hotrmhmr.org`](https://google.com/search?q=www.hotrmhmr.org) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
+| 2023-12-18 | [`www.pctel.com`](https://google.com/search?q=www.pctel.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
+| 2023-12-18 | [`aglweldingsupply.com`](https://google.com/search?q=aglweldingsupply.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
+| 2023-12-18 | [`grayhill.com`](https://google.com/search?q=grayhill.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
+| 2023-12-18 | [`leedarson.com`](https://google.com/search?q=leedarson.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
+| 2023-12-18 | [`coca-cola.com.sg`](https://google.com/search?q=coca-cola.com.sg) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
+| 2023-12-18 | [`shorts.uk.com`](https://google.com/search?q=shorts.uk.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
+| 2023-12-18 | [`worldemblem.com`](https://google.com/search?q=worldemblem.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
+| 2023-12-18 | [`gbuahn.org`](https://google.com/search?q=gbuahn.org) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
+| 2023-12-18 | [`baden.ch`](https://google.com/search?q=baden.ch) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
+| 2023-12-18 | [`dafiti.com.ar`](https://google.com/search?q=dafiti.com.ar) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
+| 2023-12-18 | [`lunaconcorp.com`](https://google.com/search?q=lunaconcorp.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
+| 2023-12-18 | [`tglt.com`](https://google.com/search?q=tglt.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
+| 2023-12-18 | [`sevenseasgroup.com`](https://google.com/search?q=sevenseasgroup.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
+| 2023-12-18 | [`decina.com.au`](https://google.com/search?q=decina.com.au) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
+| 2023-12-18 | [`cooper.co.uk`](https://google.com/search?q=cooper.co.uk) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
+| 2023-12-18 | [`gcbhs.com`](https://google.com/search?q=gcbhs.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
 | 2023-12-17 | [`Spaulding Clinical`](https://google.com/search?q=Spaulding+Clinical) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
 | 2023-12-17 | [`Kraft Foods`](https://google.com/search?q=Kraft+Foods) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
 | 2023-12-17 | [`Chetu`](https://google.com/search?q=Chetu) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
@@ -197,10 +204,3 @@ _last `200` posts_
 | 2023-12-16 | [`New York School of Interior Design`](https://google.com/search?q=New+York+School+of+Interior+Design) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2023-12-16 | [`CTS.CO.UK\$13.5 M\UK\945gb\1%DISCLOSED`](https://google.com/search?q=CTS.CO.UK%5C%2413.5+M%5CUK%5C945gb%5C1%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2023-12-16 | [`Insidesource`](https://google.com/search?q=Insidesource) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-12-15 | [`hebeler.com`](https://google.com/search?q=hebeler.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-12-15 | [`Nexiga`](https://google.com/search?q=Nexiga) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2023-12-15 | [`Fred Hutchinson Cancer Research Center`](https://google.com/search?q=Fred+Hutchinson+Cancer+Research+Center) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2023-12-14 | [`Chaney, Couch, Callaway, Carter and Associates Family Dentistry`](https://google.com/search?q=Chaney%2C+Couch%2C+Callaway%2C+Carter+and+Associates+Family+Dentistry) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2023-12-14 | [`Commonwealth Capital`](https://google.com/search?q=Commonwealth+Capital) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2023-12-14 | [`Greenbox Loans Inc.`](https://google.com/search?q=Greenbox+Loans+Inc.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2023-12-14 | [`spiritleatherworks.com`](https://google.com/search?q=spiritleatherworks.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
