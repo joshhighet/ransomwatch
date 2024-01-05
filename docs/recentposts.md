@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-01-05 | [`ips-securex.com`](https://google.com/search?q=ips-securex.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-01-04 | [`Project M.O.R.E.`](https://google.com/search?q=Project+M.O.R.E.) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-01-04 | [`Thermosash Commercial Ltd`](https://google.com/search?q=Thermosash+Commercial+Ltd) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-01-04 | [`Gunning & LaFazia, Inc.`](https://google.com/search?q=Gunning+%26+LaFazia%2C+Inc.) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-12-17 | [`Biomatrix LLC`](https://google.com/search?q=Biomatrix+LLC) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-12-17 | [`rodo.co.uk`](https://google.com/search?q=rodo.co.uk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-16 | [`E & J Gallo Winery`](https://google.com/search?q=E+%26+J+Gallo+Winery) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-12-16 | [`cts.co.uk\$13.5 M\UK\945gb\&lt;1%DISCLOSED`](https://google.com/search?q=cts.co.uk%5C%2413.5+M%5CUK%5C945gb%5C%26lt%3B1%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
