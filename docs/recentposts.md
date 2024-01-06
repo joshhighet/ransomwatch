@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-01-06 | [`The Lutheran World Federation`](https://google.com/search?q=The+Lutheran+World+Federation) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2024-01-05 | [`Proax Technologies LTD`](https://google.com/search?q=Proax+Technologies+LTD) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-01-05 | [`Somerset Logistics`](https://google.com/search?q=Somerset+Logistics) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-01-05 | [`ips-securex.com`](https://google.com/search?q=ips-securex.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-12-17 | [`Kraft Foods`](https://google.com/search?q=Kraft+Foods) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
 | 2023-12-17 | [`Chetu`](https://google.com/search?q=Chetu) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-12-17 | [`ATCO Products Inc`](https://google.com/search?q=ATCO+Products+Inc) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
-| 2023-12-17 | [`Biomatrix LLC`](https://google.com/search?q=Biomatrix+LLC) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
