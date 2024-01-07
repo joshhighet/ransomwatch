@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-01-07 | [`capitalhealth.org`](https://google.com/search?q=capitalhealth.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-01-06 | [`Rehabilitation Supply`](https://google.com/search?q=Rehabilitation+Supply) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-01-06 | [`Televerde`](https://google.com/search?q=Televerde) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-01-06 | [`The Lutheran World Federation`](https://google.com/search?q=The+Lutheran+World+Federation) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-12-18 | [`cooper.co.uk`](https://google.com/search?q=cooper.co.uk) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
 | 2023-12-18 | [`gcbhs.com`](https://google.com/search?q=gcbhs.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
 | 2023-12-17 | [`Spaulding Clinical`](https://google.com/search?q=Spaulding+Clinical) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
-| 2023-12-17 | [`Kraft Foods`](https://google.com/search?q=Kraft+Foods) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
