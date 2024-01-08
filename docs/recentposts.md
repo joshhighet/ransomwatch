@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-01-08 | [`Heller Industries`](https://google.com/search?q=Heller+Industries) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
+| 2024-01-08 | [`Van Buren Public Sch ools`](https://google.com/search?q=Van+Buren+Public+Sch+ools) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-01-08 | [`CellNetix Pathology & Laboratories, LLC`](https://google.com/search?q=CellNetix+Pathology+%26+Laboratories%2C+LLC) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2024-01-08 | [`morganpilate.com`](https://google.com/search?q=morganpilate.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-01-08 | [`mciwv.com`](https://google.com/search?q=mciwv.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-12-18 | [`dafiti.com.ar`](https://google.com/search?q=dafiti.com.ar) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
 | 2023-12-18 | [`lunaconcorp.com`](https://google.com/search?q=lunaconcorp.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
 | 2023-12-18 | [`tglt.com`](https://google.com/search?q=tglt.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
-| 2023-12-18 | [`sevenseasgroup.com`](https://google.com/search?q=sevenseasgroup.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
-| 2023-12-18 | [`decina.com.au`](https://google.com/search?q=decina.com.au) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
