@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-01-08 | [`Erbilbil Bilgisayar`](https://google.com/search?q=Erbilbil+Bilgisayar) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2024-01-08 | [`Heller Industries`](https://google.com/search?q=Heller+Industries) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-01-08 | [`Van Buren Public Sch ools`](https://google.com/search?q=Van+Buren+Public+Sch+ools) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-01-08 | [`CellNetix Pathology & Laboratories, LLC`](https://google.com/search?q=CellNetix+Pathology+%26+Laboratories%2C+LLC) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-12-18 | [`baden.ch`](https://google.com/search?q=baden.ch) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
 | 2023-12-18 | [`dafiti.com.ar`](https://google.com/search?q=dafiti.com.ar) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
 | 2023-12-18 | [`lunaconcorp.com`](https://google.com/search?q=lunaconcorp.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
-| 2023-12-18 | [`tglt.com`](https://google.com/search?q=tglt.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
