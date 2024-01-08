@@ -377,37 +377,29 @@ def postslast24h():
 
 def todiscord(post_title, group, hook_uri):
     '''
-    sends a post to a discord webhook defined as an envar
+    sends a post to a slack webhook
     '''
-    dbglog('sharedutils: ' + 'sending to discord webhook')
-    # avoid json decode errors by escaping the title if contains \ or "
-    post_title = post_title.replace('\\', '\\\\').replace('"', '\\"')
-    discord_data = '''
-    {
-        "content": "[**%s**](https://ransomwatch.telemetry.ltd/#/profiles?id=%s) posted `%s`",
-        "embeds": null,
+    post_link = f"https://ransomwatch.telemetry.ltd/#/profiles?id={group}"
+    slack_data = {
+        "text": f"{group} posted `{post_title}`",
         "username": "ransomwatch",
-        "avatar_url": "https://github.com/joshhighet/ransomwatch/blob/main/docs/apple-touch-icon.png?raw=true",
-        "attachments": [],
-        "flags": 4
-    }''' % (group, group, post_title)
-    discord_json = json.loads(discord_data)
-    stdlog('sharedutils: ' + 'sending to discord webhook')
-    dscheaders = {
+        "icon_url": "https://github.com/joshhighet/ransomwatch/blob/main/docs/apple-touch-icon.png?raw=true",
+    }
+    slack_headers = {
         'Content-Type': 'application/json',
         'Accept': 'application/json'
     }
     try:
-        hookpost = requests.post(hook_uri, json=discord_json, headers=dscheaders)
+        response = requests.post(hook_uri, json=slack_data, headers=slack_headers)
+        if response.status_code == 200:
+            return True
+        else:
+            honk('sharedutils: ' + 'recieved slack webhook error resonse ' + str(response.status_code) + ' with text ' + str(response.text))
+            return False
     except requests.exceptions.RequestException as e:
-        honk('sharedutils: ' + 'error sending to discord webhook: ' + str(e))
-    if hookpost.status_code == 204:
-        return True
-    if hookpost.status_code == 429:
-        errlog('sharedutils: ' + 'discord webhook rate limit exceeded')
-    else:
-        honk('sharedutils: ' + 'recieved discord webhook error resonse ' + str(hookpost.status_code) + ' with text ' + str(hookpost.text))
-    return False
+        honk('sharedutils: ' + 'error sending to slack webhook: ' + str(e))
+        return False
+
 
 def toteams(post_title, group):
     '''
