@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-01-09 | [`http://delcoautomation.com`](https://google.com/search?q=http%3A%2F%2Fdelcoautomation.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-01-09 | [`Viridi`](https://google.com/search?q=Viridi) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-01-09 | [`Ito Pallpack Gruppen`](https://google.com/search?q=Ito+Pallpack+Gruppen) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-01-09 | [`Syndicat Général des Vignerons de la Champagne`](https://google.com/search?q=Syndicat+G%C3%A9n%C3%A9ral+des+Vignerons+de+la+Champagne) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-12-18 | [`grayhill.com`](https://google.com/search?q=grayhill.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
 | 2023-12-18 | [`leedarson.com`](https://google.com/search?q=leedarson.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
 | 2023-12-18 | [`coca-cola.com.sg`](https://google.com/search?q=coca-cola.com.sg) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
-| 2023-12-18 | [`shorts.uk.com`](https://google.com/search?q=shorts.uk.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
