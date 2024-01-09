@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-01-09 | [`Syndicat Général des Vignerons de la Champagne`](https://google.com/search?q=Syndicat+G%C3%A9n%C3%A9ral+des+Vignerons+de+la+Champagne) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2024-01-09 | [`Axfast AB`](https://google.com/search?q=Axfast+AB) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2024-01-09 | [`www.halleonard.com.au`](https://google.com/search?q=www.halleonard.com.au) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-01-08 | [`Erbilbil Bilgisayar`](https://google.com/search?q=Erbilbil+Bilgisayar) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2024-01-08 | [`Heller Industries`](https://google.com/search?q=Heller+Industries) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-12-18 | [`shorts.uk.com`](https://google.com/search?q=shorts.uk.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
 | 2023-12-18 | [`worldemblem.com`](https://google.com/search?q=worldemblem.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
 | 2023-12-18 | [`gbuahn.org`](https://google.com/search?q=gbuahn.org) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
-| 2023-12-18 | [`baden.ch`](https://google.com/search?q=baden.ch) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
-| 2023-12-18 | [`dafiti.com.ar`](https://google.com/search?q=dafiti.com.ar) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
