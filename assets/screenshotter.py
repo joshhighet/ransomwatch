@@ -51,6 +51,9 @@ def main():
     with sync_playwright() as play:
         browser = setup_browser(play)
         if args.stdin:
+            if sys.stdin.isatty():
+                print('no urls passed')
+                return
             for line in sys.stdin:
                 url = line.strip()
                 if url:
