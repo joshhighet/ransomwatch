@@ -26,8 +26,8 @@ curl -sL ransomwhat.telemetry.ltd/groups \
 ```shell
 curl -sL ransomwhat.telemetry.ltd/groups \
 | jq -r '.[].locations[] | select(.enabled == false) | .slug' \
-| awk 'length >= 62' | head -n 2 | xargs -I {} -P 10 \
-curl --max-time 20 --socks5-hostname telemetry.dark:9050 -o /dev/null \
+| awk 'length >= 62' | xargs -I {} -P 10 \
+curl --max-time 20 --socks5-hostname multisocks.dark:9050 -o /dev/null \
 --silent --head --write-out '%{url_effective}: %{http_code}\n' {}
 ```
 
