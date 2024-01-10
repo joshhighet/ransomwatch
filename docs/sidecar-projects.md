@@ -7,7 +7,9 @@
 - [D4ftR0ck/ransomwatchrss](https://github.com/D4ftR0ck/ransomwatchrss) _an RSS feed generator for ransomwatch data_
 - [qepting91/RansomwareDataCollector](https://github.com/qepting91/RansomwareDataCollector) _store ransomwatch claims in CockroachDB_
 - [qepting91/streamlitransomware](https://github.com/qepting91/streamlitransomware) _A streamlit frontend for ransomwatch data visualisations_
-- [jjsantanna/aggregator:](https://github.com/jjsantanna/aggregator_crawlers_lists_ransomware_groups_leaksites)_a Jupyter Notebook to unify threat claims from various sources_
+- [jjsantanna/aggregator](https://github.com/jjsantanna/aggregator_crawlers_lists_ransomware_groups_leaksites)_a Jupyter Notebook to unify threat claims from various sources_
+- [0x446172696F/RansomStats](https://github.com/0x446172696F/RansomStats) _a simple page to shows stats for current day, week, month and year_
+- [bulutone/RisikoDetektiv](https://github.com/bulutone/RisikoDetektiv) _a Telegram channel created to track and inform users about cybersecurity threats._
 
 ## chatbots
 
@@ -27,8 +29,12 @@
 - [Alon Gal - An Avoidable Breach — FBI Hacker Leaks Sensitive Airbus Data](https://underthebreach.medium.com/an-avoidable-breach-fbi-hacker-leaks-sensitive-airbus-data-7cebd3b1de7a)
 - [Simone Kraus - Why LockBit is more successful than other ransomware groups](https://medium.com/@simone.kraus/why-lockbit-is-more-successful-than-other-ransomware-groups-40976e088618)
 - [Basque Cybersecurity Agency - CL0P Ransomware](https://www.ciberseguridad.eus/sites/default/files/2023-03/BCSC-Malware-Clop_V1-TLPClear.pdf)
-- [GIJN - Working With Hackers: Where — and How — Journalists Should Use These Sources](https://gijn.org/stories/best-practices-investigating-hacked-data/)
+- [Global Investigative Journalism Network - Tips for Working With Hackers](https://gijn.org/stories/best-practices-investigating-hacked-data/)
 - [SentinelOne Labs - IceFire Ransomware Returns Targeting Linux Enterprise Networks](https://www.sentinelone.com/labs/icefire-ransomware-returns-now-targeting-linux-enterprise-networks/)
+- [FIRST CTI Conference - Threat Quantification & Prioritization 101](https://www.first.org/resources/papers/Berlin2023/Threat-Quantification-Prioritization-Kraus-Small.pdf)
+- [BCSC - Nevada/Nokoyawa Ransomware](https://www.ciberseguridad.eus/sites/default/files/2023-06/BCSC-Malware-Nevada-Nokoyawa-TLPClear_V3.pdf)
+- [Matrice Digitale - RagnarLocker Dark Web Ransomware Portal Closed](https://www.matricedigitale.it/notizie/portale-del-dark-web-ransomware-ragnarlocker-chiuso/)
+- [Markus Hiebaum - Incident Response, What to do if the ransomware has struck?](https://www.linkedin.com/pulse/incident-response-tun-wenn-die-ransomware-hat-markus-hiebaum/)
 
 ## blogs & resources
 
@@ -40,6 +46,9 @@
 - [PWNDEFEND - Cyber Threat Intelligence Resources](https://www.pwndefend.com/2023/02/26/cyber-threat-intelligence-resources/)
 - [Luca Mercatanti - Cyber Threat Intelligence on the Dark Web](https://luca-mercatanti.com/cyber-threat-intelligence-sul-dark-web/)
 - [SOS Ransomwre: France November 2023 Ransomware Overview](https://sosransomware.com/ransomware/rapport-de-novembre-2023-panorama-des-attaques-ransomware-en-france/)
+- [hakin9 - Where Do Ransomware Gangs Reside in the Dark Web?](https://hakin9.org/where-do-ransomware-gangs-reside-in-the-dark-web/)
+- [Le Deco Deur - Ransomwatch, the site to follow ransomware cyberattacks](https://www.ledecodeur.ch/2024/01/02/ransomwatch-le-site-pour-suivre-en-direct-les-cyberattaques-par-ransomware/)
+- [OSINT Dojo - Resources](https://www.osintdojo.com/resources/)
 
 ## contributing forks
 
