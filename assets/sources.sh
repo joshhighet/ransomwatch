@@ -63,7 +63,7 @@ curl -s https://www.breachsense.com/ransomware-gangs/ \
 | grep '<td style=text-align:center><a' \
 | cut -d '=' -f 3 \
 | cut -d '>' -f 1 \
-| sed 's/^"//' \
+| sed -e 's/ rel$//' -e 's/^"//' \
 | awk -F/ '{print $3}' \
 | grep -vE '^[a-z2-7]{16}\.onion$' \
 | sort | uniq > assets/tmp/breachsense.txt
