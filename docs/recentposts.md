@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-01-10 | [`twt.co.za`](https://google.com/search?q=twt.co.za) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2024-01-10 | [`tiautoinvestments.co.za`](https://google.com/search?q=tiautoinvestments.co.za) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-01-10 | [`corinthcoke.com`](https://google.com/search?q=corinthcoke.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-01-10 | [`hartalega.com.my`](https://google.com/search?q=hartalega.com.my) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-01-10 | [`agnesb.eu`](https://google.com/search?q=agnesb.eu) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-12-18 | [`Vyera Pharmaceuticals`](https://google.com/search?q=Vyera+Pharmaceuticals) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2023-12-18 | [`Hallidays`](https://google.com/search?q=Hallidays) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2023-12-18 | [`www.hotrmhmr.org`](https://google.com/search?q=www.hotrmhmr.org) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
-| 2023-12-18 | [`www.pctel.com`](https://google.com/search?q=www.pctel.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
-| 2023-12-18 | [`aglweldingsupply.com`](https://google.com/search?q=aglweldingsupply.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
