@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-01-11 | [`automotionshade.com`](https://google.com/search?q=automotionshade.com) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
+| 2024-01-11 | [`R Robertson Insurance Brokers`](https://google.com/search?q=R+Robertson+Insurance+Brokers) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2024-01-11 | [`Triella`](https://google.com/search?q=Triella) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2024-01-11 | [`Ursel Phillips Fellows Hopkinson`](https://google.com/search?q=Ursel+Phillips+Fellows+Hopkinson) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2024-01-11 | [`SHIBLEY RIGHTON`](https://google.com/search?q=SHIBLEY+RIGHTON) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-12-18 | [`Electrical Connections`](https://google.com/search?q=Electrical+Connections) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-12-18 | [`odalys-vacances.com\$151.1M\France\548gb\&lt;1%DISCLOSED`](https://google.com/search?q=odalys-vacances.com%5C%24151.1M%5CFrance%5C548gb%5C%26lt%3B1%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2023-12-18 | [`cieautomotive.com\$3.6B\Spain\2.6tb\&lt;1%DISCLOSED`](https://google.com/search?q=cieautomotive.com%5C%243.6B%5CSpain%5C2.6tb%5C%26lt%3B1%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2023-12-18 | [`nationalnail.com\$678.9M\USA\195gb\&lt;1%DISCLOSED`](https://google.com/search?q=nationalnail.com%5C%24678.9M%5CUSA%5C195gb%5C%26lt%3B1%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2023-12-18 | [`isc.dk\$60.1M\Denmark\130gb\&lt;1%DISCLOSED`](https://google.com/search?q=isc.dk%5C%2460.1M%5CDenmark%5C130gb%5C%26lt%3B1%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
