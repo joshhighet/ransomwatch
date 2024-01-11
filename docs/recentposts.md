@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-01-11 | [`Unitex`](https://google.com/search?q=Unitex) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
+| 2024-01-11 | [`Elliott Group`](https://google.com/search?q=Elliott+Group) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
+| 2024-01-11 | [`Charm Sciences`](https://google.com/search?q=Charm+Sciences) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
 | 2024-01-11 | [`Blackburn College`](https://google.com/search?q=Blackburn+College) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-01-11 | [`Vincentz Network`](https://google.com/search?q=Vincentz+Network) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-01-11 | [`Limburg`](https://google.com/search?q=Limburg) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2023-12-18 | [`Succes Schoonmaak`](https://google.com/search?q=Succes+Schoonmaak) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-12-18 | [`DYWIDAG-Systems & American Transportation`](https://google.com/search?q=DYWIDAG-Systems+%26+American+Transportation) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-12-18 | [`C?????z????`](https://google.com/search?q=C%3F%3F%3F%3F%3Fz%3F%3F%3F%3F) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-12-18 | [`parat-technology.com`](https://google.com/search?q=parat-technology.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-12-18 | [`The CM Paula`](https://google.com/search?q=The+CM+Paula) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-12-18 | [`Viking Therapeutics reported to the SEC following a breach`](https://google.com/search?q=Viking+Therapeutics+reported+to+the+SEC+following+a+breach) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
