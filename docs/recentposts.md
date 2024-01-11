@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-01-11 | [`Limburg`](https://google.com/search?q=Limburg) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
+| 2024-01-11 | [`Water For People`](https://google.com/search?q=Water+For+People) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
+| 2024-01-11 | [`pactchangeslives.com`](https://google.com/search?q=pactchangeslives.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-01-11 | [`automotionshade.com`](https://google.com/search?q=automotionshade.com) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2024-01-11 | [`R Robertson Insurance Brokers`](https://google.com/search?q=R+Robertson+Insurance+Brokers) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2024-01-11 | [`Triella`](https://google.com/search?q=Triella) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2023-12-18 | [`Viking Therapeutics reported to the SEC following a breach`](https://google.com/search?q=Viking+Therapeutics+reported+to+the+SEC+following+a+breach) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-12-18 | [`lajollagroup.com\$35.2M\USA\283gb\&lt;1%DISCLOSED`](https://google.com/search?q=lajollagroup.com%5C%2435.2M%5CUSA%5C283gb%5C%26lt%3B1%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2023-12-18 | [`odalys-vacances.com\$151.1M\France\548gb\100%DISCLOSED`](https://google.com/search?q=odalys-vacances.com%5C%24151.1M%5CFrance%5C548gb%5C100%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2023-12-18 | [`Electrical Connections`](https://google.com/search?q=Electrical+Connections) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2023-12-18 | [`odalys-vacances.com\$151.1M\France\548gb\&lt;1%DISCLOSED`](https://google.com/search?q=odalys-vacances.com%5C%24151.1M%5CFrance%5C548gb%5C%26lt%3B1%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2023-12-18 | [`cieautomotive.com\$3.6B\Spain\2.6tb\&lt;1%DISCLOSED`](https://google.com/search?q=cieautomotive.com%5C%243.6B%5CSpain%5C2.6tb%5C%26lt%3B1%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
