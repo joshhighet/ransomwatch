@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-01-11 | [`Triella`](https://google.com/search?q=Triella) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
+| 2024-01-11 | [`Ursel Phillips Fellows Hopkinson`](https://google.com/search?q=Ursel+Phillips+Fellows+Hopkinson) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
+| 2024-01-11 | [`SHIBLEY RIGHTON`](https://google.com/search?q=SHIBLEY+RIGHTON) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2024-01-10 | [`https://www.molnar-bischof.de/`](https://google.com/search?q=https%3A%2F%2Fwww.molnar-bischof.de%2F) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-01-10 | [`Group Bogart`](https://google.com/search?q=Group+Bogart) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2024-01-10 | [`twt.co.za`](https://google.com/search?q=twt.co.za) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2023-12-18 | [`cieautomotive.com\$3.6B\Spain\2.6tb\&lt;1%DISCLOSED`](https://google.com/search?q=cieautomotive.com%5C%243.6B%5CSpain%5C2.6tb%5C%26lt%3B1%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2023-12-18 | [`nationalnail.com\$678.9M\USA\195gb\&lt;1%DISCLOSED`](https://google.com/search?q=nationalnail.com%5C%24678.9M%5CUSA%5C195gb%5C%26lt%3B1%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2023-12-18 | [`isc.dk\$60.1M\Denmark\130gb\&lt;1%DISCLOSED`](https://google.com/search?q=isc.dk%5C%2460.1M%5CDenmark%5C130gb%5C%26lt%3B1%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2023-12-18 | [`dillarddoor.com\$8.5M\USA\87gb\&lt;1%DISCLOSED`](https://google.com/search?q=dillarddoor.com%5C%248.5M%5CUSA%5C87gb%5C%26lt%3B1%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2023-12-18 | [`www.navitaspet.com`](https://google.com/search?q=www.navitaspet.com) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2023-12-18 | [`Vyera Pharmaceuticals`](https://google.com/search?q=Vyera+Pharmaceuticals) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
