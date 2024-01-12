@@ -4,6 +4,12 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-01-12 | [`acutis.com\$62.2M\USA\137GB\&lt;1%DISCLOSED`](https://google.com/search?q=acutis.com%5C%2462.2M%5CUSA%5C137GB%5C%26lt%3B1%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
+| 2024-01-12 | [`dtsolutions.net\$31.1M\USA\34gb\&lt;1%DISCLOSED`](https://google.com/search?q=dtsolutions.net%5C%2431.1M%5CUSA%5C34gb%5C%26lt%3B1%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
+| 2024-01-12 | [`intercityinvestments.com\$31.1M\USA\10gb\&lt;1%DISCLOSED`](https://google.com/search?q=intercityinvestments.com%5C%2431.1M%5CUSA%5C10gb%5C%26lt%3B1%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
+| 2024-01-12 | [`hi-cone.com\$27M\USA\650GB\&lt;1%DISCLOSED`](https://google.com/search?q=hi-cone.com%5C%2427M%5CUSA%5C650GB%5C%26lt%3B1%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
+| 2024-01-12 | [`Alliedwoundcare`](https://google.com/search?q=Alliedwoundcare) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
+| 2024-01-12 | [`Primeimaging`](https://google.com/search?q=Primeimaging) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2024-01-11 | [`Unitex`](https://google.com/search?q=Unitex) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
 | 2024-01-11 | [`Elliott Group`](https://google.com/search?q=Elliott+Group) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
 | 2024-01-11 | [`Charm Sciences`](https://google.com/search?q=Charm+Sciences) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
@@ -198,9 +204,3 @@ _last `200` posts_
 | 2023-12-19 | [`isc.dk\$60.1M\Denmark\130gb\100%DISCLOSED`](https://google.com/search?q=isc.dk%5C%2460.1M%5CDenmark%5C130gb%5C100%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2023-12-19 | [`Kauno Technologijos Universitetas`](https://google.com/search?q=Kauno+Technologijos+Universitetas) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2023-12-19 | [`Blackstone Valley Community Health Care`](https://google.com/search?q=Blackstone+Valley+Community+Health+Care) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2023-12-18 | [`Richard Harris Personal Injury Law Firm`](https://google.com/search?q=Richard+Harris+Personal+Injury+Law+Firm) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-12-18 | [`Schoepe Display`](https://google.com/search?q=Schoepe+Display) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-12-18 | [`Waldners`](https://google.com/search?q=Waldners) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-12-18 | [`Succes Schoonmaak`](https://google.com/search?q=Succes+Schoonmaak) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-12-18 | [`DYWIDAG-Systems & American Transportation`](https://google.com/search?q=DYWIDAG-Systems+%26+American+Transportation) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-12-18 | [`C?????z????`](https://google.com/search?q=C%3F%3F%3F%3F%3Fz%3F%3F%3F%3F) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
