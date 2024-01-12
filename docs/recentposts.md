@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-01-12 | [`Washington School For The Deaf`](https://google.com/search?q=Washington+School+For+The+Deaf) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2024-01-12 | [`Sems and Specials Incorporated`](https://google.com/search?q=Sems+and+Specials+Incorporated) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2024-01-12 | [`International Trade Brokers and Forwarders`](https://google.com/search?q=International+Trade+Brokers+and+Forwarders) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2024-01-12 | [`Former S.p.A.`](https://google.com/search?q=Former+S.p.A.) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-12-19 | [`RCSB PDB`](https://google.com/search?q=RCSB+PDB) | [meow](https://ransomwatch.telemetry.ltd/#/profiles?id=meow) |
 | 2023-12-19 | [`Viking Therapeutics`](https://google.com/search?q=Viking+Therapeutics) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-12-19 | [`mtsd-vt.org`](https://google.com/search?q=mtsd-vt.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-12-19 | [`Air Sino-Euro Associates Travel Pte. Ltd`](https://google.com/search?q=Air+Sino-Euro+Associates+Travel+Pte.+Ltd) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
