@@ -4,6 +4,11 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-01-12 | [`Sems and Specials Incorporated`](https://google.com/search?q=Sems+and+Specials+Incorporated) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2024-01-12 | [`International Trade Brokers and Forwarders`](https://google.com/search?q=International+Trade+Brokers+and+Forwarders) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2024-01-12 | [`Former S.p.A.`](https://google.com/search?q=Former+S.p.A.) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2024-01-12 | [`BALLAY MENUISERIES`](https://google.com/search?q=BALLAY+MENUISERIES) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2024-01-12 | [`Anderson King Energy Consultants, LLC`](https://google.com/search?q=Anderson+King+Energy+Consultants%2C+LLC) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2024-01-12 | [`acutis.com\$62.2M\USA\137GB\&lt;1%DISCLOSED`](https://google.com/search?q=acutis.com%5C%2462.2M%5CUSA%5C137GB%5C%26lt%3B1%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-01-12 | [`dtsolutions.net\$31.1M\USA\34gb\&lt;1%DISCLOSED`](https://google.com/search?q=dtsolutions.net%5C%2431.1M%5CUSA%5C34gb%5C%26lt%3B1%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-01-12 | [`intercityinvestments.com\$31.1M\USA\10gb\&lt;1%DISCLOSED`](https://google.com/search?q=intercityinvestments.com%5C%2431.1M%5CUSA%5C10gb%5C%26lt%3B1%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
@@ -199,8 +204,3 @@ _last `200` posts_
 | 2023-12-19 | [`Viking Therapeutics`](https://google.com/search?q=Viking+Therapeutics) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-12-19 | [`mtsd-vt.org`](https://google.com/search?q=mtsd-vt.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-19 | [`Air Sino-Euro Associates Travel Pte. Ltd`](https://google.com/search?q=Air+Sino-Euro+Associates+Travel+Pte.+Ltd) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2023-12-19 | [`chuzefitness.com`](https://google.com/search?q=chuzefitness.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-12-19 | [`nationalnail.com\$678.9M\USA\195gb\100%DISCLOSED`](https://google.com/search?q=nationalnail.com%5C%24678.9M%5CUSA%5C195gb%5C100%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2023-12-19 | [`isc.dk\$60.1M\Denmark\130gb\100%DISCLOSED`](https://google.com/search?q=isc.dk%5C%2460.1M%5CDenmark%5C130gb%5C100%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2023-12-19 | [`Kauno Technologijos Universitetas`](https://google.com/search?q=Kauno+Technologijos+Universitetas) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2023-12-19 | [`Blackstone Valley Community Health Care`](https://google.com/search?q=Blackstone+Valley+Community+Health+Care) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
