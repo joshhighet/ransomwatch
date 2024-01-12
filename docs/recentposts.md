@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-01-12 | [`Builcore`](https://google.com/search?q=Builcore) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2024-01-12 | [`thecsi.com`](https://google.com/search?q=thecsi.com) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
 | 2024-01-12 | [`pharrusa.com`](https://google.com/search?q=pharrusa.com) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
 | 2024-01-12 | [`olea.com`](https://google.com/search?q=olea.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-12-20 | [`Horizon Pool & Spa`](https://google.com/search?q=Horizon+Pool+%26+Spa) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-12-20 | [`Employ Milwaukee`](https://google.com/search?q=Employ+Milwaukee) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-12-20 | [`Davis Cedillo & Mendoza Inc`](https://google.com/search?q=Davis+Cedillo+%26+Mendoza+Inc) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-12-20 | [`CETEC Ingénierie`](https://google.com/search?q=CETEC+Ing%C3%A9nierie) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
