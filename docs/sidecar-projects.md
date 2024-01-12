@@ -35,6 +35,7 @@
 - [BCSC - Nevada/Nokoyawa Ransomware](https://www.ciberseguridad.eus/sites/default/files/2023-06/BCSC-Malware-Nevada-Nokoyawa-TLPClear_V3.pdf)
 - [Matrice Digitale - RagnarLocker Dark Web Ransomware Portal Closed](https://www.matricedigitale.it/notizie/portale-del-dark-web-ransomware-ragnarlocker-chiuso/)
 - [Markus Hiebaum - Incident Response, What to do if the ransomware has struck?](https://www.linkedin.com/pulse/incident-response-tun-wenn-die-ransomware-hat-markus-hiebaum/)
+- [Tidal Cyber: LockBit Tools & TTPs](https://www.tidalcyber.com/blog/community-content-release-lockbit-tools-and-ttps)
 
 ## blogs & resources
 
