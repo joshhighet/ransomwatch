@@ -1275,3 +1275,14 @@ def malekteam():
         errlog('malekteam: ' + 'parsing fail')
     for post in posts:
         appender(post, 'malekteam')
+
+def ransomwatch():
+    stdlog('parser: ' + 'ransomwatch')
+    parser = '''
+    cat source/ransomwatch.html
+    '''
+    posts = runshellcmd(parser)
+    if len(posts) == 1:
+        errlog('ransomwatch: ' + 'parsing fail')
+    for post in posts:
+        appender(post, 'ransomwatch')
