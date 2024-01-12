@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-01-12 | [`arrowinternational.com`](https://google.com/search?q=arrowinternational.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-01-12 | [`www.hotelcontinental.no`](https://google.com/search?q=www.hotelcontinental.no) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-01-12 | [`Builcore`](https://google.com/search?q=Builcore) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2024-01-12 | [`thecsi.com`](https://google.com/search?q=thecsi.com) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-12-20 | [`The International School of Management`](https://google.com/search?q=The+International+School+of+Management) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-12-20 | [`LCGB`](https://google.com/search?q=LCGB) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-12-20 | [`Horizon Pool & Spa`](https://google.com/search?q=Horizon+Pool+%26+Spa) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-12-20 | [`Employ Milwaukee`](https://google.com/search?q=Employ+Milwaukee) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
