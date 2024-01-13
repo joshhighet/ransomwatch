@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-01-13 | [`Lee Spring`](https://google.com/search?q=Lee+Spring) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2024-01-13 | [`tridon.com.au\$34M\Australia\175GB\100%DISCLOSED`](https://google.com/search?q=tridon.com.au%5C%2434M%5CAustralia%5C175GB%5C100%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-01-12 | [`arrowinternational.com`](https://google.com/search?q=arrowinternational.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-01-12 | [`www.hotelcontinental.no`](https://google.com/search?q=www.hotelcontinental.no) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-12-20 | [`cieautomotive.com\$3.6B\Spain\2.6tb\100%DISCLOSED`](https://google.com/search?q=cieautomotive.com%5C%243.6B%5CSpain%5C2.6tb%5C100%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2023-12-20 | [`socadis`](https://google.com/search?q=socadis) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-12-20 | [`The International School of Management`](https://google.com/search?q=The+International+School+of+Management) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-12-20 | [`LCGB`](https://google.com/search?q=LCGB) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
