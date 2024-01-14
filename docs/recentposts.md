@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-01-14 | [`coop.se\$6.5B\Sweden\257GB\100%DISCLOSED`](https://google.com/search?q=coop.se%5C%246.5B%5CSweden%5C257GB%5C100%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
+| 2024-01-14 | [`amenitek.com`](https://google.com/search?q=amenitek.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-01-13 | [`turascandinavia.com`](https://google.com/search?q=turascandinavia.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-01-13 | [`Lee Spring`](https://google.com/search?q=Lee+Spring) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2024-01-13 | [`tridon.com.au\$34M\Australia\175GB\100%DISCLOSED`](https://google.com/search?q=tridon.com.au%5C%2434M%5CAustralia%5C175GB%5C100%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-12-20 | [`Navigation Financial Group`](https://google.com/search?q=Navigation+Financial+Group) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-12-20 | [`udhaiyamdhall.com`](https://google.com/search?q=udhaiyamdhall.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-20 | [`Prospect Medica`](https://google.com/search?q=Prospect+Medica) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2023-12-20 | [`cieautomotive.com\$3.6B\Spain\2.6tb\100%DISCLOSED`](https://google.com/search?q=cieautomotive.com%5C%243.6B%5CSpain%5C2.6tb%5C100%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2023-12-20 | [`socadis`](https://google.com/search?q=socadis) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
