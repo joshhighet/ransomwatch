@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-01-14 | [`vasexperts.ru`](https://google.com/search?q=vasexperts.ru) | [werewolves](https://ransomwatch.telemetry.ltd/#/profiles?id=werewolves) |
+| 2024-01-14 | [`solveindustrial.com`](https://google.com/search?q=solveindustrial.com) | [werewolves](https://ransomwatch.telemetry.ltd/#/profiles?id=werewolves) |
+| 2024-01-14 | [`forabank.ru`](https://google.com/search?q=forabank.ru) | [werewolves](https://ransomwatch.telemetry.ltd/#/profiles?id=werewolves) |
 | 2024-01-14 | [`coop.se\$6.5B\Sweden\257GB\100%DISCLOSED`](https://google.com/search?q=coop.se%5C%246.5B%5CSweden%5C257GB%5C100%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-01-14 | [`amenitek.com`](https://google.com/search?q=amenitek.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-01-13 | [`turascandinavia.com`](https://google.com/search?q=turascandinavia.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2023-12-20 | [`wkw-group.com\$707M\Germany\575gb\&lt;1%DISCLOSED`](https://google.com/search?q=wkw-group.com%5C%24707M%5CGermany%5C575gb%5C%26lt%3B1%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2023-12-20 | [`dobsystems.com`](https://google.com/search?q=dobsystems.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-20 | [`des-igngroup.com`](https://google.com/search?q=des-igngroup.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-12-20 | [`Navigation Financial Group`](https://google.com/search?q=Navigation+Financial+Group) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-12-20 | [`udhaiyamdhall.com`](https://google.com/search?q=udhaiyamdhall.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-12-20 | [`Prospect Medica`](https://google.com/search?q=Prospect+Medica) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
