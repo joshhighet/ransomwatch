@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-01-15 | [`Ausa`](https://google.com/search?q=Ausa) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-01-14 | [`vasexperts.ru`](https://google.com/search?q=vasexperts.ru) | [werewolves](https://ransomwatch.telemetry.ltd/#/profiles?id=werewolves) |
 | 2024-01-14 | [`solveindustrial.com`](https://google.com/search?q=solveindustrial.com) | [werewolves](https://ransomwatch.telemetry.ltd/#/profiles?id=werewolves) |
 | 2024-01-14 | [`forabank.ru`](https://google.com/search?q=forabank.ru) | [werewolves](https://ransomwatch.telemetry.ltd/#/profiles?id=werewolves) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-12-20 | [`larlyn.com\$256.8M\Canada\54gb\&lt;1%DISCLOSED`](https://google.com/search?q=larlyn.com%5C%24256.8M%5CCanada%5C54gb%5C%26lt%3B1%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2023-12-20 | [`wkw-group.com\$707M\Germany\575gb\&lt;1%DISCLOSED`](https://google.com/search?q=wkw-group.com%5C%24707M%5CGermany%5C575gb%5C%26lt%3B1%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2023-12-20 | [`dobsystems.com`](https://google.com/search?q=dobsystems.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-12-20 | [`des-igngroup.com`](https://google.com/search?q=des-igngroup.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
