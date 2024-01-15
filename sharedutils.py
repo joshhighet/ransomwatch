@@ -17,6 +17,8 @@ import subprocess
 import tldextract
 import lxml.html
 import requests
+from requests_oauthlib import OAuth1
+import tweepy
 
 sockshost = '127.0.0.1'
 socksport = 9050
@@ -459,3 +461,22 @@ def toteams(post_title, group):
         honk('sharedutils: ' + 'recieved microsoft teams webhook error resonse ' + str(hookpost.status_code) + ' with text ' + str(hookpost.text))
     return False
     
+def totweet(post_title, group):
+    stdlog('sharedutils: ' + 'posting to x')
+    try:
+        client = tweepy.Client(
+            consumer_key=os.environ.get('X_CONSUMER_KEY'),
+            consumer_secret=os.environ.get('X_CONSUMER_SECRET'),
+            access_token=os.environ.get('X_ACCESS_TOKEN'),
+            access_token_secret=os.environ.get('X_ACCESS_TOKEN_SECRET')
+            )
+        status = group + ' just posted ' + post_title
+        client.create_tweet(text=status)
+    except TypeError as te:
+        errlog('x unsatisfied: ' + str(te))
+    except tweepy.errors.TooManyRequests as tmr:
+        errlog('x rate limit exceeded: ' + str(tmr))
+    except tweepy.errors.TweepError as te:
+        errlog('x tweepy error: ' + str(te))
+    except Exception as e:
+        errlog('x unhandled error: ' + str(e))
