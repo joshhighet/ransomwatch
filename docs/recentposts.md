@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-01-15 | [`vasudhapharma.com`](https://google.com/search?q=vasudhapharma.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2024-01-15 | [`hosted-it.co.uk`](https://google.com/search?q=hosted-it.co.uk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-01-15 | [`Republic Shipping Consolidators, Inc`](https://google.com/search?q=Republic+Shipping+Consolidators%2C+Inc) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-01-15 | [`Northeast Spine and Sports Medicine's`](https://google.com/search?q=Northeast+Spine+and+Sports+Medicine%27s) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-01-15 | [`Ausa`](https://google.com/search?q=Ausa) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-12-20 | [`HALLIDAYS GROUP LIMITED (Unpay)`](https://google.com/search?q=HALLIDAYS+GROUP+LIMITED+%28Unpay%29) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
 | 2023-12-20 | [`Die Unfallkasse ThÃ¼ringen (Unpay)`](https://google.com/search?q=Die+Unfallkasse+Th%C3%83%C2%BCringen+%28Unpay%29) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
 | 2023-12-20 | [`NIDEC GPM GmbH (Unpay)`](https://google.com/search?q=NIDEC+GPM+GmbH+%28Unpay%29) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
-| 2023-12-20 | [`hunterbuildings.com\$130.4M\USA\166gb\&lt;1%DISCLOSED`](https://google.com/search?q=hunterbuildings.com%5C%24130.4M%5CUSA%5C166gb%5C%26lt%3B1%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2023-12-20 | [`larlyn.com\$256.8M\Canada\54gb\&lt;1%DISCLOSED`](https://google.com/search?q=larlyn.com%5C%24256.8M%5CCanada%5C54gb%5C%26lt%3B1%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
