@@ -463,12 +463,16 @@ def toteams(post_title, group):
     
 def totweet(post_title, group):
     stdlog('sharedutils: ' + 'posting to x')
+    X_CONSUMER_KEY = str(os.environ.get('X_CONSUMER_KEY'))
+    X_CONSUMER_SECRET = str(os.environ.get('X_CONSUMER_SECRET'))
+    X_ACCESS_TOKEN = str(os.environ.get('X_ACCESS_TOKEN'))
+    X_ACCESS_TOKEN_SECRET = str(os.environ.get('X_ACCESS_TOKEN_SECRET'))
     try:
         client = tweepy.Client(
-            consumer_key=os.environ.get('X_CONSUMER_KEY'),
-            consumer_secret=os.environ.get('X_CONSUMER_SECRET'),
-            access_token=os.environ.get('X_ACCESS_TOKEN'),
-            access_token_secret=os.environ.get('X_ACCESS_TOKEN_SECRET')
+            consumer_key=X_CONSUMER_KEY,
+            consumer_secret=X_CONSUMER_SECRET,
+            access_token=X_ACCESS_TOKEN,
+            access_token_secret=X_ACCESS_TOKEN_SECRET
             )
         status = group + ' just posted ' + post_title
         client.create_tweet(text=status)
@@ -476,7 +480,5 @@ def totweet(post_title, group):
         errlog('x unsatisfied: ' + str(te))
     except tweepy.errors.TooManyRequests as tmr:
         errlog('x rate limit exceeded: ' + str(tmr))
-    except tweepy.errors.TweepError as te:
-        errlog('x tweepy error: ' + str(te))
     except Exception as e:
         errlog('x unhandled error: ' + str(e))
