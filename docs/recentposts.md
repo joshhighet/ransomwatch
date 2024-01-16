@@ -4,6 +4,10 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-01-16 | [`TGS Transportation`](https://google.com/search?q=TGS+Transportation) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
+| 2024-01-16 | [`Premium Guard`](https://google.com/search?q=Premium+Guard) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
+| 2024-01-16 | [`Bestway Sales`](https://google.com/search?q=Bestway+Sales) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
+| 2024-01-16 | [`www.fjohara.com`](https://google.com/search?q=www.fjohara.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-01-16 | [`Donear Industries`](https://google.com/search?q=Donear+Industries) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-01-15 | [`maisonsdelavenir.com`](https://google.com/search?q=maisonsdelavenir.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-01-15 | [`Beit Handesai`](https://google.com/search?q=Beit+Handesai) | [malekteam](https://ransomwatch.telemetry.ltd/#/profiles?id=malekteam) |
@@ -200,7 +204,3 @@ _last `200` posts_
 | 2023-12-20 | [`smudlers.com`](https://google.com/search?q=smudlers.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-20 | [`Unite Here`](https://google.com/search?q=Unite+Here) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2023-12-20 | [`dbmgroup.com\$43.6M\USA\110gb\&lt;1%DISCLOSED`](https://google.com/search?q=dbmgroup.com%5C%2443.6M%5CUSA%5C110gb%5C%26lt%3B1%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2023-12-20 | [`SUMMIT VETERINARY PHARMACEUTICALS LIMITED (Unpay-Full public)`](https://google.com/search?q=SUMMIT+VETERINARY+PHARMACEUTICALS+LIMITED+%28Unpay-Full+public%29) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
-| 2023-12-20 | [`Informist Media (Unpay-Full public)`](https://google.com/search?q=Informist+Media+%28Unpay-Full+public%29) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
-| 2023-12-20 | [`ALAB laboratoria (Unpay-Full public)`](https://google.com/search?q=ALAB+laboratoria+%28Unpay-Full+public%29) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
-| 2023-12-20 | [`Di Martino Group (Unpay-Full public)`](https://google.com/search?q=Di+Martino+Group+%28Unpay-Full+public%29) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
