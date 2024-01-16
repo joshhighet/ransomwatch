@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-01-16 | [`Donear Industries`](https://google.com/search?q=Donear+Industries) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-01-15 | [`maisonsdelavenir.com`](https://google.com/search?q=maisonsdelavenir.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-01-15 | [`Beit Handesai`](https://google.com/search?q=Beit+Handesai) | [malekteam](https://ransomwatch.telemetry.ltd/#/profiles?id=malekteam) |
 | 2024-01-15 | [`shinwajpn.co.jp`](https://google.com/search?q=shinwajpn.co.jp) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-12-20 | [`Informist Media (Unpay-Full public)`](https://google.com/search?q=Informist+Media+%28Unpay-Full+public%29) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
 | 2023-12-20 | [`ALAB laboratoria (Unpay-Full public)`](https://google.com/search?q=ALAB+laboratoria+%28Unpay-Full+public%29) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
 | 2023-12-20 | [`Di Martino Group (Unpay-Full public)`](https://google.com/search?q=Di+Martino+Group+%28Unpay-Full+public%29) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
-| 2023-12-20 | [`Rockford Gastroenterology Associates (Unpay)`](https://google.com/search?q=Rockford+Gastroenterology+Associates+%28Unpay%29) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
