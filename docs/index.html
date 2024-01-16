@@ -24,46 +24,9 @@
     .cover-main blockquote {
         color: #5e5e5e;
     }
-    .feedback-popup {
-        display: none;
-        position: fixed;
-        bottom: 0;
-        right: 15px;
-        border: 1px solid #ccc;
-        background-color: #f9f9f9;
-        z-index: 100;
-        padding: 15px;
-        box-shadow: 0 5px 15px rgba(0,0,0,0.2);
-        width: 300px;
-    }
-    .feedback-popup .close {
-        color: #aaaaaa;
-        float: right;
-        font-size: 28px;
-        font-weight: bold;
-    }
-    .feedback-popup .close:hover,
-    .feedback-popup .close:focus {
-        color: #000;
-        text-decoration: none;
-        cursor: pointer;
-    }
-    .feedback-content a {
-        color: #EF3A38;
-        text-decoration: underline;
-        padding: 0 2px;
-    }
 </style>
 </head>
 <body>
-<div id="feedbackPopup" class="feedback-popup">
-    <div class="feedback-content">
-        <span class="close">&times;</span>
-        <p>psst - something new is coming soon…</p>
-        <p>have your say and help me shape the next release by filling out this short form ❤️</p>
-        <p><a href="https://v2.telemetry.ltd">https://v2.telemetry.ltd</a></p>
-    </div>
-</div>
   <div id="app"></div>
   <script>
     window.$docsify = {      
@@ -89,24 +52,5 @@
   </script>
   <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/docsify.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
-  <script>
-      function showFeedbackPopup() {
-          var popup = document.getElementById('feedbackPopup');
-          if (!popup) return;
-          popup.style.display = 'block';
-          var close = document.getElementsByClassName('close')[0];
-          if (close) {
-              close.onclick = function() {
-                  popup.style.display = 'none';
-              };
-          }
-          window.onclick = function(event) {
-              if (event.target == popup) {
-                  popup.style.display = 'none';
-              }
-          };
-      }
-      setTimeout(showFeedbackPopup, 5000);
-  </script>
 </body>
 </html>
