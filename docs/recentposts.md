@@ -5,6 +5,10 @@ _last `200` posts_
 | date | title | group |
 |---|---|---|
 | 2024-01-17 | [`geologics.com`](https://google.com/search?q=geologics.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
+| 2024-01-17 | [`Washtech`](https://google.com/search?q=Washtech) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2024-01-17 | [`Sunfab Hydraulics AB`](https://google.com/search?q=Sunfab+Hydraulics+AB) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2024-01-17 | [`SIVAM Coatings S.p.A.`](https://google.com/search?q=SIVAM+Coatings+S.p.A.) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2024-01-17 | [`Nexus Telecom Switzerland AG`](https://google.com/search?q=Nexus+Telecom+Switzerland+AG) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2024-01-16 | [`millgate.co.uk`](https://google.com/search?q=millgate.co.uk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-01-16 | [`Becker Logistics`](https://google.com/search?q=Becker+Logistics) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-01-16 | [`TGS Transportation`](https://google.com/search?q=TGS+Transportation) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
@@ -200,7 +204,3 @@ _last `200` posts_
 | 2023-12-21 | [`Jon Richard`](https://google.com/search?q=Jon+Richard) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-12-21 | [`Concept Data`](https://google.com/search?q=Concept+Data) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-12-21 | [`Packaging Solutions`](https://google.com/search?q=Packaging+Solutions) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-12-21 | [`Owen Quilty Professional`](https://google.com/search?q=Owen+Quilty+Professional) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-12-20 | [`Bladen County Public Library`](https://google.com/search?q=Bladen+County+Public+Library) | [meow](https://ransomwatch.telemetry.ltd/#/profiles?id=meow) |
-| 2023-12-20 | [`Great Valley School District`](https://google.com/search?q=Great+Valley+School+District) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
-| 2023-12-20 | [`yakult.com.au`](https://google.com/search?q=yakult.com.au) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
