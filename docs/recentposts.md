@@ -4,6 +4,14 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-01-18 | [`monaco-technologies.com`](https://google.com/search?q=monaco-technologies.com) | [ransomblog_noname2](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomblog_noname2) |
+| 2024-01-18 | [`nobleweb.com`](https://google.com/search?q=nobleweb.com) | [ransomblog_noname2](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomblog_noname2) |
+| 2024-01-18 | [`selmi.com.br`](https://google.com/search?q=selmi.com.br) | [ransomblog_noname2](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomblog_noname2) |
+| 2024-01-18 | [`onyx-fire.com`](https://google.com/search?q=onyx-fire.com) | [ransomblog_noname2](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomblog_noname2) |
+| 2024-01-18 | [`aercap.com`](https://google.com/search?q=aercap.com) | [slug](https://ransomwatch.telemetry.ltd/#/profiles?id=slug) |
+| 2024-01-18 | [`JspPharma data`](https://google.com/search?q=JspPharma+data) | [insane](https://ransomwatch.telemetry.ltd/#/profiles?id=insane) |
+| 2024-01-18 | [`Flash-Motors Last Warning`](https://google.com/search?q=Flash-Motors+Last+Warning) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
+| 2024-01-18 | [`Waldner's`](https://google.com/search?q=Waldner%27s) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-01-17 | [`DENHAM the Jeanmaker`](https://google.com/search?q=DENHAM+the+Jeanmaker) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-01-17 | [`Rosens Diversified Inc`](https://google.com/search?q=Rosens+Diversified+Inc) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2024-01-17 | [`Stone, Avant & Daniels`](https://google.com/search?q=Stone%2C+Avant+%26+Daniels) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
@@ -48,6 +56,7 @@ _last `200` posts_
 | 2024-01-12 | [`Former S.p.A.`](https://google.com/search?q=Former+S.p.A.) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2024-01-12 | [`BALLAY MENUISERIES`](https://google.com/search?q=BALLAY+MENUISERIES) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2024-01-12 | [`Anderson King Energy Consultants, LLC`](https://google.com/search?q=Anderson+King+Energy+Consultants%2C+LLC) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2024-01-12 | [`something new is coming soon. have your say: https://v2.telemetry.ltd`](https://google.com/search?q=something+new+is+coming+soon.+have+your+say%3A+https%3A%2F%2Fv2.telemetry.ltd) | [ransomwatch](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomwatch) |
 | 2024-01-12 | [`acutis.com\$62.2M\USA\137GB\&lt;1%DISCLOSED`](https://google.com/search?q=acutis.com%5C%2462.2M%5CUSA%5C137GB%5C%26lt%3B1%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-01-12 | [`dtsolutions.net\$31.1M\USA\34gb\&lt;1%DISCLOSED`](https://google.com/search?q=dtsolutions.net%5C%2431.1M%5CUSA%5C34gb%5C%26lt%3B1%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-01-12 | [`intercityinvestments.com\$31.1M\USA\10gb\&lt;1%DISCLOSED`](https://google.com/search?q=intercityinvestments.com%5C%2431.1M%5CUSA%5C10gb%5C%26lt%3B1%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
@@ -195,12 +204,3 @@ _last `200` posts_
 | 2023-12-21 | [`habarovsk.amaks`](https://google.com/search?q=habarovsk.amaks) | [werewolves](https://ransomwatch.telemetry.ltd/#/profiles?id=werewolves) |
 | 2023-12-21 | [`maritimebank.com`](https://google.com/search?q=maritimebank.com) | [werewolves](https://ransomwatch.telemetry.ltd/#/profiles?id=werewolves) |
 | 2023-12-21 | [`croc.ru`](https://google.com/search?q=croc.ru) | [werewolves](https://ransomwatch.telemetry.ltd/#/profiles?id=werewolves) |
-| 2023-12-21 | [`carmoney.ru`](https://google.com/search?q=carmoney.ru) | [werewolves](https://ransomwatch.telemetry.ltd/#/profiles?id=werewolves) |
-| 2023-12-21 | [`roomhotel-sochi.ru`](https://google.com/search?q=roomhotel-sochi.ru) | [werewolves](https://ransomwatch.telemetry.ltd/#/profiles?id=werewolves) |
-| 2023-12-21 | [`atol.ru`](https://google.com/search?q=atol.ru) | [werewolves](https://ransomwatch.telemetry.ltd/#/profiles?id=werewolves) |
-| 2023-12-21 | [`gaztranscom.ru`](https://google.com/search?q=gaztranscom.ru) | [werewolves](https://ransomwatch.telemetry.ltd/#/profiles?id=werewolves) |
-| 2023-12-21 | [`kailos.ru`](https://google.com/search?q=kailos.ru) | [werewolves](https://ransomwatch.telemetry.ltd/#/profiles?id=werewolves) |
-| 2023-12-21 | [`promproektspb.ru`](https://google.com/search?q=promproektspb.ru) | [werewolves](https://ransomwatch.telemetry.ltd/#/profiles?id=werewolves) |
-| 2023-12-21 | [`auditexpertnn.ru`](https://google.com/search?q=auditexpertnn.ru) | [werewolves](https://ransomwatch.telemetry.ltd/#/profiles?id=werewolves) |
-| 2023-12-21 | [`aceaircargo.com`](https://google.com/search?q=aceaircargo.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
-| 2023-12-21 | [`kineticlease.com`](https://google.com/search?q=kineticlease.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
