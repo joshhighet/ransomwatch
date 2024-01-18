@@ -474,7 +474,7 @@ def totweet(post_title, group):
             access_token=X_ACCESS_TOKEN,
             access_token_secret=X_ACCESS_TOKEN_SECRET
             )
-        timestamp = datetime.now().strftime('%Y-%m-%d %H:%M:%S.%f')
+        timestamp = datetime.now().strftime('%H:%M %d/%m/%y')
         status = f"Group: {group}\nApprox. Time: {timestamp}\nTitle: {post_title}"
         client.create_tweet(text=status)
     except TypeError as te:
