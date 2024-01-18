@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-01-18 | [`jaffeandasher.com`](https://google.com/search?q=jaffeandasher.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-01-18 | [`Gallup McKinley County Schools`](https://google.com/search?q=Gallup+McKinley+County+Schools) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-01-18 | [`monaco-technologies.com`](https://google.com/search?q=monaco-technologies.com) | [ransomblog_noname2](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomblog_noname2) |
 | 2024-01-18 | [`nobleweb.com`](https://google.com/search?q=nobleweb.com) | [ransomblog_noname2](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomblog_noname2) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-12-21 | [`krasnoyarsk.amaks`](https://google.com/search?q=krasnoyarsk.amaks) | [werewolves](https://ransomwatch.telemetry.ltd/#/profiles?id=werewolves) |
 | 2023-12-21 | [`avrora24.ru`](https://google.com/search?q=avrora24.ru) | [werewolves](https://ransomwatch.telemetry.ltd/#/profiles?id=werewolves) |
 | 2023-12-21 | [`habarovsk.amaks`](https://google.com/search?q=habarovsk.amaks) | [werewolves](https://ransomwatch.telemetry.ltd/#/profiles?id=werewolves) |
-| 2023-12-21 | [`maritimebank.com`](https://google.com/search?q=maritimebank.com) | [werewolves](https://ransomwatch.telemetry.ltd/#/profiles?id=werewolves) |
