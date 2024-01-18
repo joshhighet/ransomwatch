@@ -291,5 +291,7 @@ if args.mode == 'parse':
     parsers.dragonforce()
     parsers.werewolves()
     parsers.malekteam()
-    parsers.ransomwatch()
+    parsers.insane()
+    parsers.slug()
+    parsers.ransomblog_noname2()
     stdlog('ransomwatch: ' + 'parse run complete')

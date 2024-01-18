@@ -872,9 +872,10 @@ def monti():
 
 def play():
     stdlog('parser: ' + 'play')
+    # %s --no-filename '(?<=\\"\\").*?(?=div)' source/play-*.html | tr -d '<>' | tr -d \\'
     parser = '''
-    %s --no-filename '(?<=\\"\\").*?(?=div)' source/play-*.html | tr -d '<>' | tr -d \\'
-    ''' % (fancygrep)
+    cat source/play-*.html | tr '>' '\n' | grep -A 1 'onclick="viewtopic' | grep -v 'click to open' | grep -v '\-\-' | cut -d '<' -f 1 | sort -u
+    '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
         errlog('play: ' + 'parsing fail')
@@ -1158,8 +1159,9 @@ def ransomedvc():
     stdlog('parser: ' + 'ransomedvc')
     # grep -A 1 '<div class="card">' source/ransomedvc-f6amq3izz*.html | grep '<b><u>' | cut -d '>' -f 3 | cut -d '<' -f 1 | sed -e 's/^ *//g' -e 's/[[:space:]]*$//'
     # grep 'class="alignwide wp-block-post-title' source/ransomedvc-f6amq3*ad.html | cut -d '>' -f 4 | cut -d '<' -f 1
+    # grep --no-filename -A 1 '<div class="card">' source/ransomedvc-*.html | grep '#ff5353' | cut -d '>' -f 3 | cut -d '<' -f 1 | sort | uniq
     parser = '''
-    grep --no-filename -A 1 '<div class="card">' source/ransomedvc-*.html | grep '#ff5353' | cut -d '>' -f 3 | cut -d '<' -f 1 | sort | uniq
+    grep --no-filename '<b><u>' source/ransomedvc-*.html | cut -d '>' -f 3 | cut -d '<' -f 1 | sort -u
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
@@ -1277,14 +1279,36 @@ def malekteam():
         errlog('malekteam: ' + 'parsing fail')
     for post in posts:
         appender(post, 'malekteam')
-
-def ransomwatch():
-    stdlog('parser: ' + 'ransomwatch')
+        
+def insane():
+    stdlog('parser: ' + 'insane')
     parser = '''
-    cat source/ransomwatch.html
+    grep --no-filename 'class="button button2"' source/insane-*.html | cut -d '>' -f 5 | cut -d '<' -f 1 | sort | uniq | grep -Ev 'A black man|Going Insane Ransomware Main page|Cat'
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
-        errlog('ransomwatch: ' + 'parsing fail')
+        errlog('insane: ' + 'parsing fail')
     for post in posts:
-        appender(post, 'ransomwatch')
+        appender(post, 'insane')
+
+def slug():
+    stdlog('parser: ' + 'slug')
+    parser = '''
+    grep ' <title type="html">' source/slug-*.html | cut -d '[' -f 3 | cut -d ']' -f 1
+    '''
+    posts = runshellcmd(parser)
+    if len(posts) == 1:
+        errlog('slug: ' + 'parsing fail')
+    for post in posts:
+        appender(post, 'slug')
+        
+def ransomblog_noname2():
+    stdlog('parser: ' + 'ransomblog_noname2')
+    parser = '''
+    cat source/ransomblog_noname2-*.html | tr '>' '\n' | grep -A 2 'target="_self" rel="bookmark noopener noreferrer"' | grep -Ev '.onion/wp/|\[NEGOTIATED\]</a|</h4|\-\-' | cut -d '<' -f 1
+    '''
+    posts = runshellcmd(parser)
+    if len(posts) == 1:
+        errlog('ransomblog_noname2: ' + 'parsing fail')
+    for post in posts:
+        appender(post, 'ransomblog_noname2')

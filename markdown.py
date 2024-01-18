@@ -146,8 +146,6 @@ def recentposts(top):
     # create a list of the last X posts
     recentposts = []
     for post in sorted_posts:
-        if post['group_name'] == 'ransomwatch':
-            continue
         recentposts.append(post)
         if len(recentposts) == top:
             break

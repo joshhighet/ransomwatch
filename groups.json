@@ -5116,19 +5116,11 @@
                 "updated": "2024-01-18 05:41:59.268985",
                 "lastscrape": "2024-01-18 05:41:59.268974",
                 "enabled": true
-            },
-            {
-                "fqdn": "weerwolven.biz",
-                "title": "Just a moment...",
-                "version": 0,
-                "slug": "https://weerwolven.biz/en",
-                "available": true,
-                "updated": "2024-01-18 05:42:00.377406",
-                "lastscrape": "2024-01-18 05:42:00.377394",
-                "enabled": true
             }
         ],
-        "profile": []
+        "profile": [
+            "20350A8BB9B1C79DA0D6DF7FC384F824839D406F6181FD338019CC74261F42D65903E199FEE501"
+        ]
     },
     {
         "name": "malekteam",
@@ -5155,6 +5147,89 @@
                 "available": true,
                 "updated": "2024-01-18 05:42:01.886411",
                 "lastscrape": "2024-01-18 05:42:01.886400",
+                "enabled": true
+            }
+        ],
+        "profile": []
+    },
+    {
+        "name": "insane",
+        "captcha": false,
+        "parser": true,
+        "javascript_render": false,
+        "meta": null,
+        "locations": [
+            {
+                "fqdn": "nv5lbsrr4rxmewzmpe25nnalowe4ga7ki6yfvit3wlpu7dfc36pyh4ad.onion",
+                "title": "Inane Right",
+                "version": 3,
+                "slug": "http://nv5lbsrr4rxmewzmpe25nnalowe4ga7ki6yfvit3wlpu7dfc36pyh4ad.onion/Insane.html",
+                "available": true,
+                "updated": "2024-01-18 18:24:42.803550",
+                "lastscrape": "2024-01-18 18:24:42.803532",
+                "enabled": true
+            },
+            {
+                "fqdn": "r2ad4ayrgpf7og673lhrw5oqyvqg4em2fpialk7l7gxkasvqkqow4qad.onion",
+                "title": "Inane Right",
+                "version": 3,
+                "slug": "http://r2ad4ayrgpf7og673lhrw5oqyvqg4em2fpialk7l7gxkasvqkqow4qad.onion/Insane.html",
+                "available": true,
+                "updated": "2024-01-18 18:24:48.173695",
+                "lastscrape": "2024-01-18 18:24:48.173676",
+                "enabled": true
+            },
+            {
+                "fqdn": "gfksiwpsqudibondm6o2ipxymaonehq3l26qpgqr3nh4jvcyayvogcid.onion",
+                "title": "Inane Right",
+                "version": 3,
+                "slug": "http://gfksiwpsqudibondm6o2ipxymaonehq3l26qpgqr3nh4jvcyayvogcid.onion/Insane.html",
+                "available": true,
+                "updated": "2024-01-18 18:24:54.495561",
+                "lastscrape": "2024-01-18 18:24:54.495509",
+                "enabled": true
+            }
+        ],
+        "profile": []
+    },
+    {
+        "name": "ransomblog_noname2",
+        "captcha": false,
+        "parser": false,
+        "javascript_render": false,
+        "meta": null,
+        "locations": [
+            {
+                "fqdn": "noname2j6zkgnt7ftxsjju5tfd3s45s4i3egq5bqtl72kgum4ldc6qyd.onion",
+                "title": "NO-NAME Blog  Since 2020 – 2023",
+                "version": 3,
+                "slug": "http://noname2j6zkgnt7ftxsjju5tfd3s45s4i3egq5bqtl72kgum4ldc6qyd.onion",
+                "available": true,
+                "updated": "2024-01-18 18:25:03.867078",
+                "lastscrape": "2024-01-18 18:25:03.867050",
+                "enabled": true
+            }
+        ],
+        "profile": [
+            "nonamehack2023 @ gmail.com",
+            "F1D0F45DBC3F4CA784D5D0D0DD8ADCD31AB5645BE00293FE6302CD0381F6527AC647A61CB08D"
+        ]
+    },
+    {
+        "name": "slug",
+        "captcha": false,
+        "parser": true,
+        "javascript_render": false,
+        "meta": null,
+        "locations": [
+            {
+                "fqdn": "3ytm3d25hfzvbylkxiwyqmpvzys5of7l4pbosm7ol7czlkplgukjq6yd.onion",
+                "title": "slug",
+                "version": 3,
+                "slug": "http://3ytm3d25hfzvbylkxiwyqmpvzys5of7l4pbosm7ol7czlkplgukjq6yd.onion/atom.xml",
+                "available": true,
+                "updated": "2024-01-18 18:17:47.311428",
+                "lastscrape": "2024-01-18 18:17:47.311401",
                 "enabled": true
             }
         ],
