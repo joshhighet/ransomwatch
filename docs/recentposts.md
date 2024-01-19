@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-01-19 | [`TPG Architecture`](https://google.com/search?q=TPG+Architecture) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-01-19 | [`GROWTH by NCRC`](https://google.com/search?q=GROWTH+by+NCRC) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2024-01-19 | [`LT Business Dynamics`](https://google.com/search?q=LT+Business+Dynamics) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-01-19 | [`Hydratek`](https://google.com/search?q=Hydratek) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-01-19 | [`Hamilton-Madison Hou se`](https://google.com/search?q=Hamilton-Madison+Hou+se) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-01-19 | [`shenandoahtx.us`](https://google.com/search?q=shenandoahtx.us) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2023-12-22 | [`ciasc.mx`](https://google.com/search?q=ciasc.mx) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-22 | [`www.whafh.com`](https://google.com/search?q=www.whafh.com) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2023-12-22 | [`Nissan Australia`](https://google.com/search?q=Nissan+Australia) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2023-12-22 | [`xeinadin.com`](https://google.com/search?q=xeinadin.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-12-22 | [`igs-inc.com`](https://google.com/search?q=igs-inc.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-12-22 | [`sterlinghomes.com.au`](https://google.com/search?q=sterlinghomes.com.au) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
