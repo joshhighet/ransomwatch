@@ -4,6 +4,10 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-01-19 | [`Hamilton-Madison Hou se`](https://google.com/search?q=Hamilton-Madison+Hou+se) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
+| 2024-01-19 | [`shenandoahtx.us`](https://google.com/search?q=shenandoahtx.us) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2024-01-19 | [`evit.edu`](https://google.com/search?q=evit.edu) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2024-01-19 | [`cmmt.com.tw`](https://google.com/search?q=cmmt.com.tw) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-01-19 | [`Alupar Investimento SA`](https://google.com/search?q=Alupar+Investimento+SA) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-01-19 | [`foxsemicon.com`](https://google.com/search?q=foxsemicon.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-01-19 | [`Malongo France`](https://google.com/search?q=Malongo+France) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
@@ -200,7 +204,3 @@ _last `200` posts_
 | 2023-12-22 | [`igs-inc.com`](https://google.com/search?q=igs-inc.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-22 | [`sterlinghomes.com.au`](https://google.com/search?q=sterlinghomes.com.au) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-22 | [`goldenc.com`](https://google.com/search?q=goldenc.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-12-22 | [`fager-mcgee.com`](https://google.com/search?q=fager-mcgee.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-12-22 | [`esepac.com`](https://google.com/search?q=esepac.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-12-22 | [`denford.co.uk`](https://google.com/search?q=denford.co.uk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-12-21 | [`emprint.com`](https://google.com/search?q=emprint.com) | [werewolves](https://ransomwatch.telemetry.ltd/#/profiles?id=werewolves) |
