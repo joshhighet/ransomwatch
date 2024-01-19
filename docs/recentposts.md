@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-01-19 | [`foxsemicon.com`](https://google.com/search?q=foxsemicon.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-01-19 | [`Malongo France`](https://google.com/search?q=Malongo+France) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2024-01-18 | [`http://www.gocruisers.org`](https://google.com/search?q=http%3A%2F%2Fwww.gocruisers.org) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-01-18 | [`digipwr.com`](https://google.com/search?q=digipwr.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-12-22 | [`denford.co.uk`](https://google.com/search?q=denford.co.uk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-21 | [`emprint.com`](https://google.com/search?q=emprint.com) | [werewolves](https://ransomwatch.telemetry.ltd/#/profiles?id=werewolves) |
 | 2023-12-21 | [`lapostemobile.fr`](https://google.com/search?q=lapostemobile.fr) | [werewolves](https://ransomwatch.telemetry.ltd/#/profiles?id=werewolves) |
-| 2023-12-21 | [`acac.com`](https://google.com/search?q=acac.com) | [werewolves](https://ransomwatch.telemetry.ltd/#/profiles?id=werewolves) |
