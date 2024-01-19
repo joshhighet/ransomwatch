@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-01-19 | [`Sykes Consulting, Inc.`](https://google.com/search?q=Sykes+Consulting%2C+Inc.) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
+| 2024-01-19 | [`dywidag.com`](https://google.com/search?q=dywidag.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-01-19 | [`intercityinvestments.com\$31.1M\USA\10gb\100%DISCLOSED`](https://google.com/search?q=intercityinvestments.com%5C%2431.1M%5CUSA%5C10gb%5C100%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-01-19 | [`jdbchina.com`](https://google.com/search?q=jdbchina.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-01-19 | [`TPG Architecture`](https://google.com/search?q=TPG+Architecture) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-12-23 | [`PriceSmart (Update)`](https://google.com/search?q=PriceSmart+%28Update%29) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-12-23 | [`castores.com.mx`](https://google.com/search?q=castores.com.mx) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-22 | [`VF Corporation`](https://google.com/search?q=VF+Corporation) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-12-22 | [`csmsa.com.ar`](https://google.com/search?q=csmsa.com.ar) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-12-22 | [`ciasc.mx`](https://google.com/search?q=ciasc.mx) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
