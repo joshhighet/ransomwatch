@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-01-19 | [`Anna Jaques Hospital`](https://google.com/search?q=Anna+Jaques+Hospital) | [moneymessage](https://ransomwatch.telemetry.ltd/#/profiles?id=moneymessage) |
+| 2024-01-19 | [`seiu1000.org`](https://google.com/search?q=seiu1000.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2024-01-19 | [`pratt.edu`](https://google.com/search?q=pratt.edu) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-01-19 | [`Sykes Consulting, Inc.`](https://google.com/search?q=Sykes+Consulting%2C+Inc.) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2024-01-19 | [`dywidag.com`](https://google.com/search?q=dywidag.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-01-19 | [`intercityinvestments.com\$31.1M\USA\10gb\100%DISCLOSED`](https://google.com/search?q=intercityinvestments.com%5C%2431.1M%5CUSA%5C10gb%5C100%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2023-12-23 | [`Bay Orthopedic and Rehabilitation Supply`](https://google.com/search?q=Bay+Orthopedic+and+Rehabilitation+Supply) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-12-23 | [`zurcherodioraven.com`](https://google.com/search?q=zurcherodioraven.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-23 | [`quakerwindows.com\$271.6M\USA\233gb\&lt;1%DISCLOSED`](https://google.com/search?q=quakerwindows.com%5C%24271.6M%5CUSA%5C233gb%5C%26lt%3B1%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2023-12-23 | [`PriceSmart (Update)`](https://google.com/search?q=PriceSmart+%28Update%29) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-12-23 | [`castores.com.mx`](https://google.com/search?q=castores.com.mx) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-12-22 | [`VF Corporation`](https://google.com/search?q=VF+Corporation) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
