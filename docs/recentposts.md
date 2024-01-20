@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-01-20 | [`wendy.mx`](https://google.com/search?q=wendy.mx) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2024-01-20 | [`swiftair.com`](https://google.com/search?q=swiftair.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-01-20 | [`Busse & Busee, PC Attorneys at Law`](https://google.com/search?q=Busse+%26+Busee%2C+PC+Attorneys+at+Law) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2024-01-19 | [`www.projects-world.com`](https://google.com/search?q=www.projects-world.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-01-19 | [`Anna Jaques Hospital`](https://google.com/search?q=Anna+Jaques+Hospital) | [moneymessage](https://ransomwatch.telemetry.ltd/#/profiles?id=moneymessage) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-12-24 | [`zonesoft.pt`](https://google.com/search?q=zonesoft.pt) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
 | 2023-12-24 | [`bkf-fleuren.de`](https://google.com/search?q=bkf-fleuren.de) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-23 | [`avescorent.ch`](https://google.com/search?q=avescorent.ch) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-12-23 | [`Associates Family Dentistry`](https://google.com/search?q=Associates+Family+Dentistry) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2023-12-23 | [`Bay Orthopedic and Rehabilitation Supply`](https://google.com/search?q=Bay+Orthopedic+and+Rehabilitation+Supply) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
