@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-01-21 | [`subway.com`](https://google.com/search?q=subway.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-01-21 | [`marxan.es`](https://google.com/search?q=marxan.es) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-01-21 | [`home-waremmien.be`](https://google.com/search?q=home-waremmien.be) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-01-21 | [`tvjahnrheine.de`](https://google.com/search?q=tvjahnrheine.de) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-12-24 | [`dorimedia`](https://google.com/search?q=dorimedia) | [malekteam](https://ransomwatch.telemetry.ltd/#/profiles?id=malekteam) |
 | 2023-12-24 | [`ZIV Hospital`](https://google.com/search?q=ZIV+Hospital) | [malekteam](https://ransomwatch.telemetry.ltd/#/profiles?id=malekteam) |
 | 2023-12-24 | [`Ono Academic College`](https://google.com/search?q=Ono+Academic+College) | [malekteam](https://ransomwatch.telemetry.ltd/#/profiles?id=malekteam) |
-| 2023-12-24 | [`IDF SMS system`](https://google.com/search?q=IDF+SMS+system) | [malekteam](https://ransomwatch.telemetry.ltd/#/profiles?id=malekteam) |
