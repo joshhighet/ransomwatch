@@ -4,6 +4,14 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-01-21 | [`wittmann.at`](https://google.com/search?q=wittmann.at) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2024-01-21 | [`umi-tiles.com`](https://google.com/search?q=umi-tiles.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2024-01-21 | [`synnex-grp.com`](https://google.com/search?q=synnex-grp.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2024-01-21 | [`qtc-energy.com`](https://google.com/search?q=qtc-energy.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2024-01-21 | [`hughessupplyco.com`](https://google.com/search?q=hughessupplyco.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2024-01-21 | [`gattoplaters.com`](https://google.com/search?q=gattoplaters.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2024-01-21 | [`duconind.com`](https://google.com/search?q=duconind.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2024-01-21 | [`cct.or.th`](https://google.com/search?q=cct.or.th) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-01-21 | [`stjohnrochester.org`](https://google.com/search?q=stjohnrochester.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-01-21 | [`North Star Tax And Accounting`](https://google.com/search?q=North+Star+Tax+And+Accounting) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-01-21 | [`KC Pharmaceuticals`](https://google.com/search?q=KC+Pharmaceuticals) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
@@ -196,11 +204,3 @@ _last `200` posts_
 | 2023-12-26 | [`Tshwane University of Technology`](https://google.com/search?q=Tshwane+University+of+Technology) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2023-12-25 | [`http://www.blaineschools.org`](https://google.com/search?q=http%3A%2F%2Fwww.blaineschools.org) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2023-12-25 | [`cts.co.uk\$13.5 M\UK\945gb\100%DISCLOSED`](https://google.com/search?q=cts.co.uk%5C%2413.5+M%5CUK%5C945gb%5C100%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2023-12-25 | [`International Electr onic Machines Corp`](https://google.com/search?q=International+Electr+onic+Machines+Corp) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2023-12-25 | [`walkro.eu`](https://google.com/search?q=walkro.eu) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-12-25 | [`hendelsinc.com`](https://google.com/search?q=hendelsinc.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-12-25 | [`co.pickens.sc.us`](https://google.com/search?q=co.pickens.sc.us) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-12-25 | [`zrvp.ro`](https://google.com/search?q=zrvp.ro) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-12-25 | [`tecnifibre.com`](https://google.com/search?q=tecnifibre.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-12-25 | [`coastalplainsctr.org`](https://google.com/search?q=coastalplainsctr.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-12-25 | [`Horizon Pool and Spa`](https://google.com/search?q=Horizon+Pool+and+Spa) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
