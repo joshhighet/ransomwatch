@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-01-21 | [`North Star Tax And Accounting`](https://google.com/search?q=North+Star+Tax+And+Accounting) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2024-01-21 | [`KC Pharmaceuticals`](https://google.com/search?q=KC+Pharmaceuticals) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2024-01-21 | [`Martinaire Aviation`](https://google.com/search?q=Martinaire+Aviation) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-01-21 | [`jasman.com.mx`](https://google.com/search?q=jasman.com.mx) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-01-21 | [`bmc-cpa.com`](https://google.com/search?q=bmc-cpa.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-01-21 | [`subway.com`](https://google.com/search?q=subway.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2023-12-25 | [`coastalplainsctr.org`](https://google.com/search?q=coastalplainsctr.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-25 | [`Horizon Pool and Spa`](https://google.com/search?q=Horizon+Pool+and+Spa) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-12-25 | [`Davis Cedillo and Mendoza Inc`](https://google.com/search?q=Davis+Cedillo+and+Mendoza+Inc) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-12-24 | [`Prefeitura Municipal de Itabira`](https://google.com/search?q=Prefeitura+Municipal+de+Itabira) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-12-24 | [`gav.co.il`](https://google.com/search?q=gav.co.il) | [malekteam](https://ransomwatch.telemetry.ltd/#/profiles?id=malekteam) |
-| 2023-12-24 | [`dorimedia`](https://google.com/search?q=dorimedia) | [malekteam](https://ransomwatch.telemetry.ltd/#/profiles?id=malekteam) |
