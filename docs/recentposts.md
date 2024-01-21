@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-01-21 | [`marxan.es`](https://google.com/search?q=marxan.es) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2024-01-21 | [`home-waremmien.be`](https://google.com/search?q=home-waremmien.be) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-01-21 | [`tvjahnrheine.de`](https://google.com/search?q=tvjahnrheine.de) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-01-20 | [`Worthen Industries [You have three days]`](https://google.com/search?q=Worthen+Industries+%5BYou+have+three+days%5D) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2024-01-20 | [`wendy.mx`](https://google.com/search?q=wendy.mx) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-12-24 | [`ZIV Hospital`](https://google.com/search?q=ZIV+Hospital) | [malekteam](https://ransomwatch.telemetry.ltd/#/profiles?id=malekteam) |
 | 2023-12-24 | [`Ono Academic College`](https://google.com/search?q=Ono+Academic+College) | [malekteam](https://ransomwatch.telemetry.ltd/#/profiles?id=malekteam) |
 | 2023-12-24 | [`IDF SMS system`](https://google.com/search?q=IDF+SMS+system) | [malekteam](https://ransomwatch.telemetry.ltd/#/profiles?id=malekteam) |
-| 2023-12-24 | [`Colonial Pipeline`](https://google.com/search?q=Colonial+Pipeline) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
-| 2023-12-24 | [`zonesoft.pt`](https://google.com/search?q=zonesoft.pt) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
