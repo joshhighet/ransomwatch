@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-01-22 | [`bellgroup.co.uk\$103.6M\UK\9GB\100%DISCLOSED`](https://google.com/search?q=bellgroup.co.uk%5C%24103.6M%5CUK%5C9GB%5C100%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
+| 2024-01-22 | [`HOE Pharmaceuticals Sdn Bhd`](https://google.com/search?q=HOE+Pharmaceuticals+Sdn+Bhd) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2024-01-22 | [`ANS COMPUTER [72hrs]`](https://google.com/search?q=ANS+COMPUTER+%5B72hrs%5D) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2024-01-22 | [`Double Eagle Development`](https://google.com/search?q=Double+Eagle+Development) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-01-22 | [`Asahi Glass`](https://google.com/search?q=Asahi+Glass) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-12-27 | [`ohiolottery.com`](https://google.com/search?q=ohiolottery.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
 | 2023-12-27 | [`EPS.RS`](https://google.com/search?q=EPS.RS) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2023-12-27 | [`Aura Engineering, LLC`](https://google.com/search?q=Aura+Engineering%2C+LLC) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-12-27 | [`FIRST 5 Santa Clara County`](https://google.com/search?q=FIRST+5+Santa+Clara+County) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-12-27 | [`Lake of the Woods County`](https://google.com/search?q=Lake+of+the+Woods+County) | [meow](https://ransomwatch.telemetry.ltd/#/profiles?id=meow) |
