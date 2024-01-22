@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-01-22 | [`ANS COMPUTER [72hrs]`](https://google.com/search?q=ANS+COMPUTER+%5B72hrs%5D) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2024-01-22 | [`Double Eagle Development`](https://google.com/search?q=Double+Eagle+Development) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-01-22 | [`Asahi Glass`](https://google.com/search?q=Asahi+Glass) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-01-22 | [`davidsbridal.com`](https://google.com/search?q=davidsbridal.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-12-27 | [`Aura Engineering, LLC`](https://google.com/search?q=Aura+Engineering%2C+LLC) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-12-27 | [`FIRST 5 Santa Clara County`](https://google.com/search?q=FIRST+5+Santa+Clara+County) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-12-27 | [`Lake of the Woods County`](https://google.com/search?q=Lake+of+the+Woods+County) | [meow](https://ransomwatch.telemetry.ltd/#/profiles?id=meow) |
-| 2023-12-27 | [`Ultra Intelligence & Communications`](https://google.com/search?q=Ultra+Intelligence+%26+Communications) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
