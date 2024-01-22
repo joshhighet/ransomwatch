@@ -4,6 +4,10 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-01-22 | [`Waldner's`](https://google.com/search?q=Waldner%27s) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
+| 2024-01-22 | [`Pozzi Italy`](https://google.com/search?q=Pozzi+Italy) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
+| 2024-01-22 | [`The Gainsborough Bath `](https://google.com/search?q=The+Gainsborough+Bath+) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
+| 2024-01-22 | [`Richmond Fellowship Scotland`](https://google.com/search?q=Richmond+Fellowship+Scotland) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2024-01-21 | [`wittmann.at`](https://google.com/search?q=wittmann.at) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-01-21 | [`umi-tiles.com`](https://google.com/search?q=umi-tiles.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-01-21 | [`synnex-grp.com`](https://google.com/search?q=synnex-grp.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -200,7 +204,3 @@ _last `200` posts_
 | 2023-12-26 | [`coaxis.com`](https://google.com/search?q=coaxis.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-26 | [`smbw.com.au`](https://google.com/search?q=smbw.com.au) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-26 | [`Regarding FM`](https://google.com/search?q=Regarding+FM) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
-| 2023-12-26 | [`Abdali Hospital`](https://google.com/search?q=Abdali+Hospital) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2023-12-26 | [`Tshwane University of Technology`](https://google.com/search?q=Tshwane+University+of+Technology) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2023-12-25 | [`http://www.blaineschools.org`](https://google.com/search?q=http%3A%2F%2Fwww.blaineschools.org) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
-| 2023-12-25 | [`cts.co.uk\$13.5 M\UK\945gb\100%DISCLOSED`](https://google.com/search?q=cts.co.uk%5C%2413.5+M%5CUK%5C945gb%5C100%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
