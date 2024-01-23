@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-01-23 | [`Total Air Solutions`](https://google.com/search?q=Total+Air+Solutions) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2024-01-23 | [`R.C. Moore Trucking`](https://google.com/search?q=R.C.+Moore+Trucking) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-01-23 | [`Herrs (You have 72 hours)`](https://google.com/search?q=Herrs+%28You+have+72+hours%29) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2024-01-23 | [`ENVEA`](https://google.com/search?q=ENVEA) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-12-28 | [`Wesgar Inc.`](https://google.com/search?q=Wesgar+Inc.) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-12-28 | [`dbmgroup.com\$43.6M\USA\110gb\100%DISCLOSED`](https://google.com/search?q=dbmgroup.com%5C%2443.6M%5CUSA%5C110gb%5C100%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2023-12-28 | [`Northland Mechanical Contractors`](https://google.com/search?q=Northland+Mechanical+Contractors) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2023-12-28 | [`gdi.com\$6.1B\Canada\700gb\&lt;1%DISCLOSED`](https://google.com/search?q=gdi.com%5C%246.1B%5CCanada%5C700gb%5C%26lt%3B1%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
