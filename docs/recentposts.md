@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-01-23 | [`ENVEA`](https://google.com/search?q=ENVEA) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-01-23 | [`Double Eagle Energy Holdings IV`](https://google.com/search?q=Double+Eagle+Energy+Holdings+IV) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-01-23 | [`Smith Capital - Press Release`](https://google.com/search?q=Smith+Capital+-+Press+Release) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2024-01-23 | [`ARPEGE`](https://google.com/search?q=ARPEGE) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-12-28 | [`gdi.com\$6.1B\Canada\700gb\&lt;1%DISCLOSED`](https://google.com/search?q=gdi.com%5C%246.1B%5CCanada%5C700gb%5C%26lt%3B1%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2023-12-28 | [`bachoco.com.mx\$4.4B\Mexico\130GB\&lt;1%DISCLOSED`](https://google.com/search?q=bachoco.com.mx%5C%244.4B%5CMexico%5C130GB%5C%26lt%3B1%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2023-12-28 | [`pbssystems.com\$71.5M\Canada\202GB\&lt;1%DISCLOSED`](https://google.com/search?q=pbssystems.com%5C%2471.5M%5CCanada%5C202GB%5C%26lt%3B1%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2023-12-28 | [`CVR Associates`](https://google.com/search?q=CVR+Associates) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
