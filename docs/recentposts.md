@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-01-23 | [`synergyfinancialgrp.com`](https://google.com/search?q=synergyfinancialgrp.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
+| 2024-01-23 | [`micrometals.com`](https://google.com/search?q=micrometals.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
 | 2024-01-23 | [`sierrafrontgroup.com`](https://google.com/search?q=sierrafrontgroup.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-01-23 | [`lyonshipyard.com`](https://google.com/search?q=lyonshipyard.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-01-23 | [`Cryopak`](https://google.com/search?q=Cryopak) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-12-30 | [`M?????n C?????? & W?? & The ???? G????`](https://google.com/search?q=M%3F%3F%3F%3F%3Fn+C%3F%3F%3F%3F%3F%3F+%26+W%3F%3F+%26+The+%3F%3F%3F%3F+G%3F%3F%3F%3F) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-12-30 | [`Keyser Mason Ball`](https://google.com/search?q=Keyser+Mason+Ball) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-12-30 | [`Xerox Corp`](https://google.com/search?q=Xerox+Corp) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2023-12-30 | [`Kenya Airways`](https://google.com/search?q=Kenya+Airways) | [ransomexx](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomexx) |
-| 2023-12-30 | [`Clearwinds`](https://google.com/search?q=Clearwinds) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
