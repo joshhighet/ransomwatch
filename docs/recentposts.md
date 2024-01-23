@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-01-23 | [`Smith Capital - Press Release`](https://google.com/search?q=Smith+Capital+-+Press+Release) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2024-01-23 | [`ARPEGE`](https://google.com/search?q=ARPEGE) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2024-01-23 | [`C and F Packing Company Inc.`](https://google.com/search?q=C+and+F+Packing+Company+Inc.) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2024-01-22 | [`bellgroup.co.uk\$103.6M\UK\9GB\100%DISCLOSED`](https://google.com/search?q=bellgroup.co.uk%5C%24103.6M%5CUK%5C9GB%5C100%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-12-28 | [`pbssystems.com\$71.5M\Canada\202GB\&lt;1%DISCLOSED`](https://google.com/search?q=pbssystems.com%5C%2471.5M%5CCanada%5C202GB%5C%26lt%3B1%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2023-12-28 | [`CVR Associates`](https://google.com/search?q=CVR+Associates) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-12-28 | [`hoffmanestates.org`](https://google.com/search?q=hoffmanestates.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-12-27 | [`ohiolottery.com`](https://google.com/search?q=ohiolottery.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
