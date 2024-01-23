@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-01-23 | [`sierrafrontgroup.com`](https://google.com/search?q=sierrafrontgroup.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2024-01-23 | [`lyonshipyard.com`](https://google.com/search?q=lyonshipyard.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-01-23 | [`Cryopak`](https://google.com/search?q=Cryopak) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-01-23 | [`Fairmont Federal Credit Union`](https://google.com/search?q=Fairmont+Federal+Credit+Union) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-01-23 | [`Wilhoit Properties`](https://google.com/search?q=Wilhoit+Properties) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2023-12-30 | [`Xerox Corp`](https://google.com/search?q=Xerox+Corp) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2023-12-30 | [`Kenya Airways`](https://google.com/search?q=Kenya+Airways) | [ransomexx](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomexx) |
 | 2023-12-30 | [`Clearwinds`](https://google.com/search?q=Clearwinds) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-12-30 | [`contimade.cz`](https://google.com/search?q=contimade.cz) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-12-30 | [`eagersautomotive.com.au`](https://google.com/search?q=eagersautomotive.com.au) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
