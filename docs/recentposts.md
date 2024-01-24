@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-01-24 | [`FULL LEAK! Busse & Busee, PC Attorneys at Law`](https://google.com/search?q=FULL+LEAK%21+Busse+%26+Busee%2C+PC+Attorneys+at+Law) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
+| 2024-01-24 | [`MBC Law Professional Corporation`](https://google.com/search?q=MBC+Law+Professional+Corporation) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2024-01-24 | [`Winona Pattern & Mold`](https://google.com/search?q=Winona+Pattern+%26+Mold) | [meow](https://ransomwatch.telemetry.ltd/#/profiles?id=meow) |
 | 2024-01-24 | [`Hinsdale School District`](https://google.com/search?q=Hinsdale+School+District) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2024-01-24 | [`Signature Performance Insurance`](https://google.com/search?q=Signature+Performance+Insurance) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-01-04 | [`Brintons`](https://google.com/search?q=Brintons) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-01-04 | [`Alexander Dennis`](https://google.com/search?q=Alexander+Dennis) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-01-03 | [`Bradford Health`](https://google.com/search?q=Bradford+Health) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2024-01-03 | [`http://kcsdschools.net`](https://google.com/search?q=http%3A%2F%2Fkcsdschools.net) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
-| 2024-01-02 | [`prinovagloba`](https://google.com/search?q=prinovagloba) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
