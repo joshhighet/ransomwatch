@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-01-24 | [`Hawbaker Engineering`](https://google.com/search?q=Hawbaker+Engineering) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2024-01-24 | [`Charles Trent`](https://google.com/search?q=Charles+Trent) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-01-24 | [`Innovative Automation`](https://google.com/search?q=Innovative+Automation) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-01-24 | [`Tamdown`](https://google.com/search?q=Tamdown) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-01-04 | [`Gunning & LaFazia, Inc.`](https://google.com/search?q=Gunning+%26+LaFazia%2C+Inc.) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-01-04 | [`Diablo Valley Oncology and Hematology Medical Group - Press Release`](https://google.com/search?q=Diablo+Valley+Oncology+and+Hematology+Medical+Group+-+Press+Release) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2024-01-04 | [`Hotelplan`](https://google.com/search?q=Hotelplan) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2024-01-04 | [`Graebener® Bipolar Plate Technologies`](https://google.com/search?q=Graebener%C2%AE+Bipolar+Plate+Technologies) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
