@@ -4,6 +4,12 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-01-24 | [`Nbbl`](https://google.com/search?q=Nbbl) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2024-01-24 | [`Midwest Service Center`](https://google.com/search?q=Midwest+Service+Center) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2024-01-24 | [`La Ligue`](https://google.com/search?q=La+Ligue) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2024-01-24 | [`Groupe Sweetco`](https://google.com/search?q=Groupe+Sweetco) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2024-01-24 | [`Glimstedt`](https://google.com/search?q=Glimstedt) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2024-01-24 | [`Bikesportz Imports`](https://google.com/search?q=Bikesportz+Imports) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2024-01-23 | [`synergyfinancialgrp.com`](https://google.com/search?q=synergyfinancialgrp.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
 | 2024-01-23 | [`micrometals.com`](https://google.com/search?q=micrometals.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
 | 2024-01-23 | [`sierrafrontgroup.com`](https://google.com/search?q=sierrafrontgroup.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -198,9 +204,3 @@ _last `200` posts_
 | 2024-01-02 | [`Madison Capital & WPM & The Time Group`](https://google.com/search?q=Madison+Capital+%26+WPM+%26+The+Time+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-01-02 | [`groupe-idea.com`](https://google.com/search?q=groupe-idea.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-01-02 | [`SAED International`](https://google.com/search?q=SAED+International) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2024-01-02 | [`groupesa`](https://google.com/search?q=groupesa) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-01-02 | [`http://www.mpmmedicalsupply.com`](https://google.com/search?q=http%3A%2F%2Fwww.mpmmedicalsupply.com) | [ciphbit](https://ransomwatch.telemetry.ltd/#/profiles?id=ciphbit) |
-| 2024-01-01 | [`Aspiration Training`](https://google.com/search?q=Aspiration+Training) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2023-12-30 | [`M?????n C?????? & W?? & The ???? G????`](https://google.com/search?q=M%3F%3F%3F%3F%3Fn+C%3F%3F%3F%3F%3F%3F+%26+W%3F%3F+%26+The+%3F%3F%3F%3F+G%3F%3F%3F%3F) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-12-30 | [`Keyser Mason Ball`](https://google.com/search?q=Keyser+Mason+Ball) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-12-30 | [`Xerox Corp`](https://google.com/search?q=Xerox+Corp) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
