@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-01-24 | [`Tamdown`](https://google.com/search?q=Tamdown) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
+| 2024-01-24 | [`Thorite Group`](https://google.com/search?q=Thorite+Group) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-01-24 | [`icn-artem.com`](https://google.com/search?q=icn-artem.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-01-24 | [`Dirig Sheet Metal`](https://google.com/search?q=Dirig+Sheet+Metal) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-01-24 | [`FULL LEAK! Busse & Busee, PC Attorneys at Law`](https://google.com/search?q=FULL+LEAK%21+Busse+%26+Busee%2C+PC+Attorneys+at+Law) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-01-04 | [`Graebener® Bipolar Plate Technologies`](https://google.com/search?q=Graebener%C2%AE+Bipolar+Plate+Technologies) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-01-04 | [`Leonard’s Express`](https://google.com/search?q=Leonard%E2%80%99s+Express) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-01-04 | [`NALS Apartment Homes`](https://google.com/search?q=NALS+Apartment+Homes) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2024-01-04 | [`Kohl Wholesale`](https://google.com/search?q=Kohl+Wholesale) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2024-01-04 | [`Brintons`](https://google.com/search?q=Brintons) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
