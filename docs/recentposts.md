@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-01-24 | [`Winona Pattern & Mold`](https://google.com/search?q=Winona+Pattern+%26+Mold) | [meow](https://ransomwatch.telemetry.ltd/#/profiles?id=meow) |
+| 2024-01-24 | [`Hinsdale School District`](https://google.com/search?q=Hinsdale+School+District) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
+| 2024-01-24 | [`Signature Performance Insurance`](https://google.com/search?q=Signature+Performance+Insurance) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2024-01-24 | [`Nbbl`](https://google.com/search?q=Nbbl) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2024-01-24 | [`Midwest Service Center`](https://google.com/search?q=Midwest+Service+Center) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2024-01-24 | [`La Ligue`](https://google.com/search?q=La+Ligue) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2024-01-03 | [`Bradford Health`](https://google.com/search?q=Bradford+Health) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-01-03 | [`http://kcsdschools.net`](https://google.com/search?q=http%3A%2F%2Fkcsdschools.net) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-01-02 | [`prinovagloba`](https://google.com/search?q=prinovagloba) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-01-02 | [`Madison Capital & WPM & The Time Group`](https://google.com/search?q=Madison+Capital+%26+WPM+%26+The+Time+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-01-02 | [`groupe-idea.com`](https://google.com/search?q=groupe-idea.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-01-02 | [`SAED International`](https://google.com/search?q=SAED+International) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
