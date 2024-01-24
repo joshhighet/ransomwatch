@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-01-24 | [`icn-artem.com`](https://google.com/search?q=icn-artem.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-01-24 | [`Dirig Sheet Metal`](https://google.com/search?q=Dirig+Sheet+Metal) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-01-24 | [`FULL LEAK! Busse & Busee, PC Attorneys at Law`](https://google.com/search?q=FULL+LEAK%21+Busse+%26+Busee%2C+PC+Attorneys+at+Law) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2024-01-24 | [`MBC Law Professional Corporation`](https://google.com/search?q=MBC+Law+Professional+Corporation) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-01-04 | [`NALS Apartment Homes`](https://google.com/search?q=NALS+Apartment+Homes) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-01-04 | [`Kohl Wholesale`](https://google.com/search?q=Kohl+Wholesale) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-01-04 | [`Brintons`](https://google.com/search?q=Brintons) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2024-01-04 | [`Alexander Dennis`](https://google.com/search?q=Alexander+Dennis) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
