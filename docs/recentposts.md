@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-01-24 | [`NOVA Business Law Group`](https://google.com/search?q=NOVA+Business+Law+Group) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2024-01-24 | [`The Wiser Financial Group`](https://google.com/search?q=The+Wiser+Financial+Group) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-01-24 | [`Hawbaker Engineering`](https://google.com/search?q=Hawbaker+Engineering) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2024-01-24 | [`Charles Trent`](https://google.com/search?q=Charles+Trent) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-01-24 | [`Innovative Automation`](https://google.com/search?q=Innovative+Automation) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-01-04 | [`Project M.O.R.E.`](https://google.com/search?q=Project+M.O.R.E.) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-01-04 | [`Thermosash Commercial Ltd`](https://google.com/search?q=Thermosash+Commercial+Ltd) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-01-04 | [`Gunning & LaFazia, Inc.`](https://google.com/search?q=Gunning+%26+LaFazia%2C+Inc.) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2024-01-04 | [`Diablo Valley Oncology and Hematology Medical Group - Press Release`](https://google.com/search?q=Diablo+Valley+Oncology+and+Hematology+Medical+Group+-+Press+Release) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
-| 2024-01-04 | [`Hotelplan`](https://google.com/search?q=Hotelplan) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
