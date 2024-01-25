@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-01-25 | [`Toronto Zoo`](https://google.com/search?q=Toronto+Zoo) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-01-24 | [`NOVA Business Law Group`](https://google.com/search?q=NOVA+Business+Law+Group) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-01-24 | [`The Wiser Financial Group`](https://google.com/search?q=The+Wiser+Financial+Group) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-01-24 | [`Hawbaker Engineering`](https://google.com/search?q=Hawbaker+Engineering) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-01-05 | [`ips-securex.com`](https://google.com/search?q=ips-securex.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-01-04 | [`Project M.O.R.E.`](https://google.com/search?q=Project+M.O.R.E.) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-01-04 | [`Thermosash Commercial Ltd`](https://google.com/search?q=Thermosash+Commercial+Ltd) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2024-01-04 | [`Gunning & LaFazia, Inc.`](https://google.com/search?q=Gunning+%26+LaFazia%2C+Inc.) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
