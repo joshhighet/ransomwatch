@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-01-25 | [`CloudFire Italy`](https://google.com/search?q=CloudFire+Italy) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
+| 2024-01-25 | [`Four Hands LLC`](https://google.com/search?q=Four+Hands+LLC) | [0mega](https://ransomwatch.telemetry.ltd/#/profiles?id=0mega) |
 | 2024-01-25 | [`“Insurance Marketing”`](https://google.com/search?q=%E2%80%9CInsurance+Marketing%E2%80%9D) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-01-25 | [`ANI Networks`](https://google.com/search?q=ANI+Networks) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-01-25 | [`caravanclub.co.uk`](https://google.com/search?q=caravanclub.co.uk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-01-06 | [`Rehabilitation Supply`](https://google.com/search?q=Rehabilitation+Supply) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-01-06 | [`Televerde`](https://google.com/search?q=Televerde) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-01-06 | [`The Lutheran World Federation`](https://google.com/search?q=The+Lutheran+World+Federation) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2024-01-05 | [`Proax Technologies LTD`](https://google.com/search?q=Proax+Technologies+LTD) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2024-01-05 | [`Somerset Logistics`](https://google.com/search?q=Somerset+Logistics) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
