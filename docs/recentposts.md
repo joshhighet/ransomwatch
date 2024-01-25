@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-01-25 | [`“Insurance Marketing”`](https://google.com/search?q=%E2%80%9CInsurance+Marketing%E2%80%9D) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-01-25 | [`ANI Networks`](https://google.com/search?q=ANI+Networks) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-01-25 | [`caravanclub.co.uk`](https://google.com/search?q=caravanclub.co.uk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-01-25 | [`Toronto Zoo`](https://google.com/search?q=Toronto+Zoo) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-01-06 | [`The Lutheran World Federation`](https://google.com/search?q=The+Lutheran+World+Federation) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2024-01-05 | [`Proax Technologies LTD`](https://google.com/search?q=Proax+Technologies+LTD) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-01-05 | [`Somerset Logistics`](https://google.com/search?q=Somerset+Logistics) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2024-01-05 | [`ips-securex.com`](https://google.com/search?q=ips-securex.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
