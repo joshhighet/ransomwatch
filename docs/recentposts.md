@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-01-26 | [`Brazilian Business P ark`](https://google.com/search?q=Brazilian+Business+P+ark) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
+| 2024-01-26 | [`Sipi Corporation`](https://google.com/search?q=Sipi+Corporation) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-01-26 | [`Valley TeleCom Group`](https://google.com/search?q=Valley+TeleCom+Group) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-01-26 | [`securinux.net`](https://google.com/search?q=securinux.net) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-01-26 | [`jaygroup.com\$62.2M\USA\270GB\&lt;1%DISCLOSED`](https://google.com/search?q=jaygroup.com%5C%2462.2M%5CUSA%5C270GB%5C%26lt%3B1%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-01-09 | [`Axfast AB`](https://google.com/search?q=Axfast+AB) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2024-01-09 | [`www.halleonard.com.au`](https://google.com/search?q=www.halleonard.com.au) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-01-08 | [`Erbilbil Bilgisayar`](https://google.com/search?q=Erbilbil+Bilgisayar) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2024-01-08 | [`Heller Industries`](https://google.com/search?q=Heller+Industries) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2024-01-08 | [`Van Buren Public Sch ools`](https://google.com/search?q=Van+Buren+Public+Sch+ools) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
