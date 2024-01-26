@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-01-26 | [`jaygroup.com\$62.2M\USA\270GB\&lt;1%DISCLOSED`](https://google.com/search?q=jaygroup.com%5C%2462.2M%5CUSA%5C270GB%5C%26lt%3B1%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-01-26 | [`Draneas Huglin Dooley LLC`](https://google.com/search?q=Draneas+Huglin+Dooley+LLC) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2024-01-25 | [`Lush`](https://google.com/search?q=Lush) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-01-25 | [`OrthoNY, Orthopedic Care`](https://google.com/search?q=OrthoNY%2C+Orthopedic+Care) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-01-08 | [`Van Buren Public Sch ools`](https://google.com/search?q=Van+Buren+Public+Sch+ools) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-01-08 | [`CellNetix Pathology & Laboratories, LLC`](https://google.com/search?q=CellNetix+Pathology+%26+Laboratories%2C+LLC) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2024-01-08 | [`morganpilate.com`](https://google.com/search?q=morganpilate.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-01-08 | [`mciwv.com`](https://google.com/search?q=mciwv.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
