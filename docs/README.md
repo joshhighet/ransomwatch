@@ -4,7 +4,7 @@ _january 27th, 2024_
 
 ransomwatch is currently crawling `323` sites belonging to `173` unique groups
 
-⏲ there have been `6` posts within the `last 24 hours`
+⏲ there have been `5` posts within the `last 24 hours`
 
 🦈 there have been `238` posts within the `month of january`
 
