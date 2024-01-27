@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-01-27 | [`vidalung.ai`](https://google.com/search?q=vidalung.ai) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
 | 2024-01-26 | [`Kansas City Area Transportation Authority`](https://google.com/search?q=Kansas+City+Area+Transportation+Authority) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2024-01-26 | [`ehsd.org`](https://google.com/search?q=ehsd.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-01-26 | [`Brazilian Business P ark`](https://google.com/search?q=Brazilian+Business+P+ark) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-01-09 | [`Viridi`](https://google.com/search?q=Viridi) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-01-09 | [`Ito Pallpack Gruppen`](https://google.com/search?q=Ito+Pallpack+Gruppen) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-01-09 | [`Syndicat Général des Vignerons de la Champagne`](https://google.com/search?q=Syndicat+G%C3%A9n%C3%A9ral+des+Vignerons+de+la+Champagne) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2024-01-09 | [`Axfast AB`](https://google.com/search?q=Axfast+AB) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
