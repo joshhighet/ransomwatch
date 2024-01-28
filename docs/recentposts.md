@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-01-28 | [`Cislo and Thomas LLP`](https://google.com/search?q=Cislo+and+Thomas+LLP) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2024-01-28 | [`Image Craft`](https://google.com/search?q=Image+Craft) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2024-01-28 | [`Shoma group`](https://google.com/search?q=Shoma+group) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-01-27 | [`oogp.com\$11.4M\USA\63GB\&lt;1%DISCLOSED`](https://google.com/search?q=oogp.com%5C%2411.4M%5CUSA%5C63GB%5C%26lt%3B1%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-01-27 | [`wannagocloud.com`](https://google.com/search?q=wannagocloud.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-01-27 | [`neafidi.it`](https://google.com/search?q=neafidi.it) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2024-01-10 | [`twt.co.za`](https://google.com/search?q=twt.co.za) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-01-10 | [`tiautoinvestments.co.za`](https://google.com/search?q=tiautoinvestments.co.za) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-01-10 | [`corinthcoke.com`](https://google.com/search?q=corinthcoke.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
-| 2024-01-10 | [`hartalega.com.my`](https://google.com/search?q=hartalega.com.my) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-01-10 | [`agnesb.eu`](https://google.com/search?q=agnesb.eu) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-01-09 | [`http://delcoautomation.com`](https://google.com/search?q=http%3A%2F%2Fdelcoautomation.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
