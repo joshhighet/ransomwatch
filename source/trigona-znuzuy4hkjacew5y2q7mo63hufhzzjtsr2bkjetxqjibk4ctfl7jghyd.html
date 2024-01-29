@@ -1,4 +1,6 @@
-<head>
+<!DOCTYPE html>
+<html class="no-js" lang="en">
+    <head>
         <meta charset="utf-8">
         <meta http-equiv="x-ua-compatible" content="ie=edge">
         <title>Sign up</title>
@@ -7,14 +9,14 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta content="telephone=no" name="format-detection">
         <meta name="HandheldFriendly" content="true">
-        <link href="static/css/main.min.css?ver=35309954127296" rel="stylesheet" type="text/css">
-        <link rel="icon" type="image/x-icon" href="static/images/general/favicon.png?ver=35309954127296">
+        <link href="static/css/main.min.css?ver=17609109776094" rel="stylesheet" type="text/css">
+        <link rel="icon" type="image/x-icon" href="static/images/general/favicon.png?ver=17609109776094">
         <script>
             let url = "http://znuzuy4hkjacew5y2q7mo63hufhzzjtsr2bkjetxqjibk4ctfl7jghyd.onion"        </script>
-        <script src="src/libraries/bn.js?ver=35309954127296"></script>
-        <script src="src/libraries/crypto-js.js?ver=35309954127296"></script>
-        <script src="src/libraries/spark-md5.js?ver=35309954127296"></script>
-        <script src="src/script/index.js?ver=35309954127296"></script>
+        <script src="src/libraries/bn.js?ver=17609109776094"></script>
+        <script src="src/libraries/crypto-js.js?ver=17609109776094"></script>
+        <script src="src/libraries/spark-md5.js?ver=17609109776094"></script>
+        <script src="src/script/index.js?ver=17609109776094"></script>
     </head>
 
     <body>
@@ -41,9 +43,9 @@
                                     <use xlink:href="./images/svg-symbols.svg#user"></use>
                                 </svg>
                             </div>
-                            <textarea class="form-field__input _textarea" name="crt" rows="5" placeholder="Registration certificate"></textarea>
+                            <textarea class="form-field__input _textarea" name="crt" rows="5" placeholder="Registration certificate" disabled></textarea>
                         </div>
-                        <button class="form__submit" name="next" type="submit" data-step="1">Next</button>
+                        <button class="form__submit" name="next" type="submit" data-step="1"  disabled>Next</button>
                         <a class="form__restore" href="restore" title="">Restore password</a>
                     </div>
                     <div class="form__step _hidden">
@@ -53,7 +55,7 @@
                                     <use xlink:href="./images/svg-symbols.svg#user"></use>
                                 </svg>
                             </div>
-                            <input class="form-field__input" type="text" value="" name="username" placeholder="Username" maxlength="16">
+                            <input class="form-field__input" type="text" value="" name="username" placeholder="Username" maxlength="16" disabled>
                         </div>
                         <div class="form-field">
                             <div class="form-field__icon">
@@ -62,7 +64,7 @@
                                 </svg>
 
                             </div>
-                            <input class="form-field__input" type="password" name="password" value="" placeholder="Password" maxlength="16">
+                            <input class="form-field__input" type="password" name="password" value="" placeholder="Password" maxlength="16" disabled>
                         </div>
                         <div class="form-field">
                             <div class="form-field__icon">
@@ -71,11 +73,11 @@
                                 </svg>
 
                             </div>
-                            <input class="form-field__input" type="password" name="repeat" value="" placeholder="Repeat password" maxlength="16">
+                            <input class="form-field__input" type="password" name="repeat" value="" placeholder="Repeat password" maxlength="16" disabled>
                         </div>
                         <div class="form__group">
-                            <button class="form__submit _back" name="back" type="submit" data-step="0">Back</button>
-                            <button class="form__submit" type="submit" name="submit">Sign up</button>
+                            <button class="form__submit _back" name="back" type="submit" data-step="0" disabled>Back</button>
+                            <button class="form__submit" type="submit" name="submit" disabled>Sign up</button>
                         </div>
                     </div>
                 </form>
@@ -97,4 +99,4 @@
         </div>
     </div>
 </div>
-<script src="./src/script/signup.js?ver=35309954127296"></script></body>
+<script src="./src/script/signup.js?ver=17609109776094"></script>

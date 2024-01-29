@@ -4,6 +4,14 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-01-29 | [`https://www.samuel.co.id/`](https://google.com/search?q=https%3A%2F%2Fwww.samuel.co.id%2F) | [trigona](https://ransomwatch.telemetry.ltd/#/profiles?id=trigona) |
+| 2024-01-29 | [`https://www.pfmgreen.com/`](https://google.com/search?q=https%3A%2F%2Fwww.pfmgreen.com%2F) | [trigona](https://ransomwatch.telemetry.ltd/#/profiles?id=trigona) |
+| 2024-01-29 | [`https://www.fertilitynorth.com.au/`](https://google.com/search?q=https%3A%2F%2Fwww.fertilitynorth.com.au%2F) | [trigona](https://ransomwatch.telemetry.ltd/#/profiles?id=trigona) |
+| 2024-01-29 | [`https://www.vision-plast.com/`](https://google.com/search?q=https%3A%2F%2Fwww.vision-plast.com%2F) | [trigona](https://ransomwatch.telemetry.ltd/#/profiles?id=trigona) |
+| 2024-01-29 | [`https://www.jflommainc.com/`](https://google.com/search?q=https%3A%2F%2Fwww.jflommainc.com%2F) | [trigona](https://ransomwatch.telemetry.ltd/#/profiles?id=trigona) |
+| 2024-01-29 | [`grimme.dk`](https://google.com/search?q=grimme.dk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2024-01-29 | [`ese.com`](https://google.com/search?q=ese.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2024-01-29 | [`crowe.com.za`](https://google.com/search?q=crowe.com.za) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-01-29 | [`l`](https://google.com/search?q=l) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-01-29 | [`Safe Plating`](https://google.com/search?q=Safe+Plating) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-01-29 | [`Castilleja School`](https://google.com/search?q=Castilleja+School) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
@@ -196,11 +204,3 @@ _last `200` posts_
 | 2024-01-12 | [`acutis.com\$62.2M\USA\137GB\&lt;1%DISCLOSED`](https://google.com/search?q=acutis.com%5C%2462.2M%5CUSA%5C137GB%5C%26lt%3B1%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-01-12 | [`dtsolutions.net\$31.1M\USA\34gb\&lt;1%DISCLOSED`](https://google.com/search?q=dtsolutions.net%5C%2431.1M%5CUSA%5C34gb%5C%26lt%3B1%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-01-12 | [`intercityinvestments.com\$31.1M\USA\10gb\&lt;1%DISCLOSED`](https://google.com/search?q=intercityinvestments.com%5C%2431.1M%5CUSA%5C10gb%5C%26lt%3B1%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2024-01-12 | [`hi-cone.com\$27M\USA\650GB\&lt;1%DISCLOSED`](https://google.com/search?q=hi-cone.com%5C%2427M%5CUSA%5C650GB%5C%26lt%3B1%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2024-01-12 | [`Alliedwoundcare`](https://google.com/search?q=Alliedwoundcare) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
-| 2024-01-12 | [`Primeimaging`](https://google.com/search?q=Primeimaging) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
-| 2024-01-11 | [`Unitex`](https://google.com/search?q=Unitex) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
-| 2024-01-11 | [`Elliott Group`](https://google.com/search?q=Elliott+Group) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
-| 2024-01-11 | [`Charm Sciences`](https://google.com/search?q=Charm+Sciences) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
-| 2024-01-11 | [`Blackburn College`](https://google.com/search?q=Blackburn+College) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2024-01-11 | [`Vincentz Network`](https://google.com/search?q=Vincentz+Network) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
