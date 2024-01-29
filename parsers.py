@@ -966,8 +966,9 @@ def trigona():
     # awk -vRS='</a><a class="auction-item-info__external"' '{gsub(/.*<div class="auction-item-info__title"> <a href="[^"]*" title="">|<\/a>.*/,""); print}' source/trigona-*.html | grep -v href | sed 's/^[[:space:]]*//;s/[[:space:]]*$//'
     # grep -o -E '<a href="/leak/[0-9]+" title="">[^<]*' source/trigona-*.html | sed -E 's/<a href="\/leak\/[0-9]+" title="">//'
     # grep -o '<a [^>]*title="[^"]*"' source/trigona-*.html | grep 'path=' | cut -d '=' -f 3 | cut -d '"' -f 1
+    # jq -r '.data.leaks[].external_link' source/trigona-trigonax2*.html || true
     parser = '''
-    jq -r '.data.leaks[].external_link' source/trigona-trigonax2*.html || true
+    jq -r '.data.leaks[].external_link' source/trigona-krs*.html || true
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:

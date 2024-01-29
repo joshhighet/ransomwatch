@@ -4448,7 +4448,7 @@
         "name": "trigona",
         "captcha": false,
         "parser": true,
-        "javascript_render": true,
+        "javascript_render": false,
         "meta": null,
         "locations": [
             {
@@ -4489,6 +4489,16 @@
                 "available": false,
                 "updated": "2024-01-29 17:38:32.434614",
                 "lastscrape": "2024-01-29 17:38:32.434602",
+                "enabled": true
+            },
+            {
+                "fqdn": "krsbhaxbki6jr4zvwblvkaqzjkircj7cxf46qt3na5o5sj2hpikbupqd.onion",
+                "title": null,
+                "version": 3,
+                "slug": "http://krsbhaxbki6jr4zvwblvkaqzjkircj7cxf46qt3na5o5sj2hpikbupqd.onion/api?page=1",
+                "available": true,
+                "updated": "2024-01-30 08:50:11.611555",
+                "lastscrape": "2024-01-30 08:50:11.611545",
                 "enabled": true
             }
         ],
