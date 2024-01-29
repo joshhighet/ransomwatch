@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-01-29 | [`dtsolutions.net\$31.1M\USA\34gb\100%DISCLOSED`](https://google.com/search?q=dtsolutions.net%5C%2431.1M%5CUSA%5C34gb%5C100%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-01-29 | [` neafidi.it`](https://google.com/search?q=+neafidi.it) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-01-29 | [`www.mordfin.com`](https://google.com/search?q=www.mordfin.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-01-28 | [`Cislo and Thomas LLP`](https://google.com/search?q=Cislo+and+Thomas+LLP) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-01-11 | [`SHIBLEY RIGHTON`](https://google.com/search?q=SHIBLEY+RIGHTON) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2024-01-10 | [`https://www.molnar-bischof.de/`](https://google.com/search?q=https%3A%2F%2Fwww.molnar-bischof.de%2F) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-01-10 | [`Group Bogart`](https://google.com/search?q=Group+Bogart) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2024-01-10 | [`twt.co.za`](https://google.com/search?q=twt.co.za) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
