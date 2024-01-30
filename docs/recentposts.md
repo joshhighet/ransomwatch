@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-01-30 | [`MA Engineering`](https://google.com/search?q=MA+Engineering) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2024-01-30 | [`TECHNICA - HACKED AND MORE THEN 300 GB DATA LEAKED!`](https://google.com/search?q=TECHNICA+-+HACKED+AND+MORE+THEN+300+GB+DATA+LEAKED%21) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2024-01-29 | [`https://www.samuel.co.id/`](https://google.com/search?q=https%3A%2F%2Fwww.samuel.co.id%2F) | [trigona](https://ransomwatch.telemetry.ltd/#/profiles?id=trigona) |
 | 2024-01-29 | [`https://www.pfmgreen.com/`](https://google.com/search?q=https%3A%2F%2Fwww.pfmgreen.com%2F) | [trigona](https://ransomwatch.telemetry.ltd/#/profiles?id=trigona) |
 | 2024-01-29 | [`https://www.fertilitynorth.com.au/`](https://google.com/search?q=https%3A%2F%2Fwww.fertilitynorth.com.au%2F) | [trigona](https://ransomwatch.telemetry.ltd/#/profiles?id=trigona) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-01-12 | [`Anderson King Energy Consultants, LLC`](https://google.com/search?q=Anderson+King+Energy+Consultants%2C+LLC) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2024-01-12 | [`something new is coming soon. have your say: https://v2.telemetry.ltd`](https://google.com/search?q=something+new+is+coming+soon.+have+your+say%3A+https%3A%2F%2Fv2.telemetry.ltd) | [ransomwatch](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomwatch) |
 | 2024-01-12 | [`acutis.com\$62.2M\USA\137GB\&lt;1%DISCLOSED`](https://google.com/search?q=acutis.com%5C%2462.2M%5CUSA%5C137GB%5C%26lt%3B1%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2024-01-12 | [`dtsolutions.net\$31.1M\USA\34gb\&lt;1%DISCLOSED`](https://google.com/search?q=dtsolutions.net%5C%2431.1M%5CUSA%5C34gb%5C%26lt%3B1%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2024-01-12 | [`intercityinvestments.com\$31.1M\USA\10gb\&lt;1%DISCLOSED`](https://google.com/search?q=intercityinvestments.com%5C%2431.1M%5CUSA%5C10gb%5C%26lt%3B1%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
