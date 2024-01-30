@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-01-30 | [`https://www.ausa.com/`](https://google.com/search?q=https%3A%2F%2Fwww.ausa.com%2F) | [trigona](https://ransomwatch.telemetry.ltd/#/profiles?id=trigona) |
 | 2024-01-30 | [`hi-cone.com\$27M\USA\650GB\100%DISCLOSED`](https://google.com/search?q=hi-cone.com%5C%2427M%5CUSA%5C650GB%5C100%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-01-30 | [`clackamas.edu`](https://google.com/search?q=clackamas.edu) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-01-30 | [`MA Engineering`](https://google.com/search?q=MA+Engineering) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-01-12 | [`International Trade Brokers and Forwarders`](https://google.com/search?q=International+Trade+Brokers+and+Forwarders) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2024-01-12 | [`Former S.p.A.`](https://google.com/search?q=Former+S.p.A.) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2024-01-12 | [`BALLAY MENUISERIES`](https://google.com/search?q=BALLAY+MENUISERIES) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2024-01-12 | [`Anderson King Energy Consultants, LLC`](https://google.com/search?q=Anderson+King+Energy+Consultants%2C+LLC) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
