@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-01-30 | [`https://www.genesismotors.com.au/`](https://google.com/search?q=https%3A%2F%2Fwww.genesismotors.com.au%2F) | [trigona](https://ransomwatch.telemetry.ltd/#/profiles?id=trigona) |
+| 2024-01-30 | [`https://www.cmgdrainage.com/`](https://google.com/search?q=https%3A%2F%2Fwww.cmgdrainage.com%2F) | [trigona](https://ransomwatch.telemetry.ltd/#/profiles?id=trigona) |
+| 2024-01-30 | [`https://www.dahercontracting.net/`](https://google.com/search?q=https%3A%2F%2Fwww.dahercontracting.net%2F) | [trigona](https://ransomwatch.telemetry.ltd/#/profiles?id=trigona) |
 | 2024-01-30 | [`https://www.ausa.com/`](https://google.com/search?q=https%3A%2F%2Fwww.ausa.com%2F) | [trigona](https://ransomwatch.telemetry.ltd/#/profiles?id=trigona) |
 | 2024-01-30 | [`hi-cone.com\$27M\USA\650GB\100%DISCLOSED`](https://google.com/search?q=hi-cone.com%5C%2427M%5CUSA%5C650GB%5C100%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-01-30 | [`clackamas.edu`](https://google.com/search?q=clackamas.edu) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2024-01-12 | [`asburyauto.com\$15.4B\USA\62GB\&lt;1%DISCLOSED`](https://google.com/search?q=asburyauto.com%5C%2415.4B%5CUSA%5C62GB%5C%26lt%3B1%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-01-12 | [`Washington School For The Deaf`](https://google.com/search?q=Washington+School+For+The+Deaf) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2024-01-12 | [`Sems and Specials Incorporated`](https://google.com/search?q=Sems+and+Specials+Incorporated) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2024-01-12 | [`International Trade Brokers and Forwarders`](https://google.com/search?q=International+Trade+Brokers+and+Forwarders) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2024-01-12 | [`Former S.p.A.`](https://google.com/search?q=Former+S.p.A.) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2024-01-12 | [`BALLAY MENUISERIES`](https://google.com/search?q=BALLAY+MENUISERIES) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
