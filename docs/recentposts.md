@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-01-31 | [`Galaxy Fireworks, Inc`](https://google.com/search?q=Galaxy+Fireworks%2C+Inc) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
+| 2024-01-31 | [`SportsMEDIA Technology`](https://google.com/search?q=SportsMEDIA+Technology) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
+| 2024-01-31 | [`LeClair Group`](https://google.com/search?q=LeClair+Group) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2024-01-31 | [`Sefin`](https://google.com/search?q=Sefin) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-01-31 | [`http://www.northhill.org`](https://google.com/search?q=http%3A%2F%2Fwww.northhill.org) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-01-31 | [`sahchicago.org`](https://google.com/search?q=sahchicago.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2024-01-15 | [`Ausa`](https://google.com/search?q=Ausa) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-01-14 | [`vasexperts.ru`](https://google.com/search?q=vasexperts.ru) | [werewolves](https://ransomwatch.telemetry.ltd/#/profiles?id=werewolves) |
 | 2024-01-14 | [`solveindustrial.com`](https://google.com/search?q=solveindustrial.com) | [werewolves](https://ransomwatch.telemetry.ltd/#/profiles?id=werewolves) |
-| 2024-01-14 | [`forabank.ru`](https://google.com/search?q=forabank.ru) | [werewolves](https://ransomwatch.telemetry.ltd/#/profiles?id=werewolves) |
-| 2024-01-14 | [`coop.se\$6.5B\Sweden\257GB\100%DISCLOSED`](https://google.com/search?q=coop.se%5C%246.5B%5CSweden%5C257GB%5C100%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2024-01-14 | [`amenitek.com`](https://google.com/search?q=amenitek.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
