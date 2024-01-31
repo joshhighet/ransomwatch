@@ -4,6 +4,14 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-01-31 | [`VVD Elettrotecnica Srl`](https://google.com/search?q=VVD+Elettrotecnica+Srl) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2024-01-31 | [`Séquano`](https://google.com/search?q=S%C3%A9quano) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2024-01-31 | [`Meag Va-system AB`](https://google.com/search?q=Meag+Va-system+AB) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2024-01-31 | [`Geographe`](https://google.com/search?q=Geographe) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2024-01-31 | [`Elliott Wave International`](https://google.com/search?q=Elliott+Wave+International) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2024-01-31 | [`Diamond Technical Services, Inc.`](https://google.com/search?q=Diamond+Technical+Services%2C+Inc.) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2024-01-31 | [`Basin Trucking and Oilfield Services LLC`](https://google.com/search?q=Basin+Trucking+and+Oilfield+Services+LLC) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2024-01-31 | [`Able One a Quadbridge Company`](https://google.com/search?q=Able+One+a+Quadbridge+Company) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2024-01-30 | [`https://www.genesismotors.com.au/`](https://google.com/search?q=https%3A%2F%2Fwww.genesismotors.com.au%2F) | [trigona](https://ransomwatch.telemetry.ltd/#/profiles?id=trigona) |
 | 2024-01-30 | [`https://www.cmgdrainage.com/`](https://google.com/search?q=https%3A%2F%2Fwww.cmgdrainage.com%2F) | [trigona](https://ransomwatch.telemetry.ltd/#/profiles?id=trigona) |
 | 2024-01-30 | [`https://www.dahercontracting.net/`](https://google.com/search?q=https%3A%2F%2Fwww.dahercontracting.net%2F) | [trigona](https://ransomwatch.telemetry.ltd/#/profiles?id=trigona) |
@@ -196,11 +204,3 @@ _last `200` posts_
 | 2024-01-13 | [`Lee Spring`](https://google.com/search?q=Lee+Spring) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2024-01-13 | [`tridon.com.au\$34M\Australia\175GB\100%DISCLOSED`](https://google.com/search?q=tridon.com.au%5C%2434M%5CAustralia%5C175GB%5C100%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-01-12 | [`arrowinternational.com`](https://google.com/search?q=arrowinternational.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-01-12 | [`www.hotelcontinental.no`](https://google.com/search?q=www.hotelcontinental.no) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
-| 2024-01-12 | [`Builcore`](https://google.com/search?q=Builcore) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2024-01-12 | [`thecsi.com`](https://google.com/search?q=thecsi.com) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
-| 2024-01-12 | [`pharrusa.com`](https://google.com/search?q=pharrusa.com) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
-| 2024-01-12 | [`olea.com`](https://google.com/search?q=olea.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-01-12 | [`asburyauto.com\$15.4B\USA\62GB\&lt;1%DISCLOSED`](https://google.com/search?q=asburyauto.com%5C%2415.4B%5CUSA%5C62GB%5C%26lt%3B1%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2024-01-12 | [`Washington School For The Deaf`](https://google.com/search?q=Washington+School+For+The+Deaf) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2024-01-12 | [`Sems and Specials Incorporated`](https://google.com/search?q=Sems+and+Specials+Incorporated) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
