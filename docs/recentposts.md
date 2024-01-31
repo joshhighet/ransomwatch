@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-01-31 | [`sahchicago.org`](https://google.com/search?q=sahchicago.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2024-01-31 | [`mrm.com.mx`](https://google.com/search?q=mrm.com.mx) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-01-31 | [`VVD Elettrotecnica Srl`](https://google.com/search?q=VVD+Elettrotecnica+Srl) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2024-01-31 | [`Séquano`](https://google.com/search?q=S%C3%A9quano) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2024-01-31 | [`Meag Va-system AB`](https://google.com/search?q=Meag+Va-system+AB) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-01-14 | [`amenitek.com`](https://google.com/search?q=amenitek.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-01-13 | [`turascandinavia.com`](https://google.com/search?q=turascandinavia.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-01-13 | [`Lee Spring`](https://google.com/search?q=Lee+Spring) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2024-01-13 | [`tridon.com.au\$34M\Australia\175GB\100%DISCLOSED`](https://google.com/search?q=tridon.com.au%5C%2434M%5CAustralia%5C175GB%5C100%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2024-01-12 | [`arrowinternational.com`](https://google.com/search?q=arrowinternational.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
