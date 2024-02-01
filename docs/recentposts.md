@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-02-01 | [`gatesshields.com`](https://google.com/search?q=gatesshields.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-01 | [`stemcor.com`](https://google.com/search?q=stemcor.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-01 | [`manchesterfertility.com`](https://google.com/search?q=manchesterfertility.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-01 | [`Borah Goldstein Alts chuler Nahins & Goid el`](https://google.com/search?q=Borah+Goldstein+Alts+chuler+Nahins+%26+Goid+el) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-01-17 | [`Nexus Telecom Switzerland AG`](https://google.com/search?q=Nexus+Telecom+Switzerland+AG) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2024-01-16 | [`millgate.co.uk`](https://google.com/search?q=millgate.co.uk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-01-16 | [`Becker Logistics`](https://google.com/search?q=Becker+Logistics) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2024-01-16 | [`TGS Transportation`](https://google.com/search?q=TGS+Transportation) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
