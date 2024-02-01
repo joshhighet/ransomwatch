@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-02-01 | [`CNPC Peru S.A.`](https://google.com/search?q=CNPC+Peru+S.A.) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2024-02-01 | [`Primeimaging database for sale`](https://google.com/search?q=Primeimaging+database+for+sale) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2024-01-31 | [`mnorch.org`](https://google.com/search?q=mnorch.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-01-31 | [`derrama.org.pe`](https://google.com/search?q=derrama.org.pe) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-01-15 | [`Beit Handesai`](https://google.com/search?q=Beit+Handesai) | [malekteam](https://ransomwatch.telemetry.ltd/#/profiles?id=malekteam) |
 | 2024-01-15 | [`shinwajpn.co.jp`](https://google.com/search?q=shinwajpn.co.jp) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-01-15 | [`vasudhapharma.com`](https://google.com/search?q=vasudhapharma.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-01-15 | [`hosted-it.co.uk`](https://google.com/search?q=hosted-it.co.uk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
