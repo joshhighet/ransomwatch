@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-02-01 | [`Penetration Testing Service`](https://google.com/search?q=Penetration+Testing+Service) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
+| 2024-02-01 | [`OSINT Service`](https://google.com/search?q=OSINT+Service) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
+| 2024-02-01 | [`Data Broking Service`](https://google.com/search?q=Data+Broking+Service) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
 | 2024-02-01 | [`gatesshields.com`](https://google.com/search?q=gatesshields.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-01 | [`stemcor.com`](https://google.com/search?q=stemcor.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-01 | [`manchesterfertility.com`](https://google.com/search?q=manchesterfertility.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2024-01-17 | [`Washtech`](https://google.com/search?q=Washtech) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2024-01-17 | [`Sunfab Hydraulics AB`](https://google.com/search?q=Sunfab+Hydraulics+AB) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2024-01-17 | [`SIVAM Coatings S.p.A.`](https://google.com/search?q=SIVAM+Coatings+S.p.A.) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2024-01-17 | [`Nexus Telecom Switzerland AG`](https://google.com/search?q=Nexus+Telecom+Switzerland+AG) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2024-01-16 | [`millgate.co.uk`](https://google.com/search?q=millgate.co.uk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-01-16 | [`Becker Logistics`](https://google.com/search?q=Becker+Logistics) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
