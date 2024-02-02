@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-02-02 | [`Innovex Downhole Solutions`](https://google.com/search?q=Innovex+Downhole+Solutions) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-02-02 | [`dms-imaging`](https://google.com/search?q=dms-imaging) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
 | 2024-02-01 | [`Penetration Testing Service`](https://google.com/search?q=Penetration+Testing+Service) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
 | 2024-02-01 | [`OSINT Service`](https://google.com/search?q=OSINT+Service) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
 | 2024-02-01 | [`Data Broking Service`](https://google.com/search?q=Data+Broking+Service) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-01-17 | [`Stone, Avant & Daniels`](https://google.com/search?q=Stone%2C+Avant+%26+Daniels) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2024-01-17 | [`geologics.com`](https://google.com/search?q=geologics.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
 | 2024-01-17 | [`Washtech`](https://google.com/search?q=Washtech) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2024-01-17 | [`Sunfab Hydraulics AB`](https://google.com/search?q=Sunfab+Hydraulics+AB) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2024-01-17 | [`SIVAM Coatings S.p.A.`](https://google.com/search?q=SIVAM+Coatings+S.p.A.) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
