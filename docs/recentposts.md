@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-02-02 | [`Digitel Venezuela`](https://google.com/search?q=Digitel+Venezuela) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2024-02-02 | [`Thomas LLP`](https://google.com/search?q=Thomas+LLP) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-02-02 | [`Chaney, Couch, Callaway, Carter and Associates Family Dentistry.`](https://google.com/search?q=Chaney%2C+Couch%2C+Callaway%2C+Carter+and+Associates+Family+Dentistry.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-02-02 | [`manitou-group.com`](https://google.com/search?q=manitou-group.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-01-18 | [`onyx-fire.com`](https://google.com/search?q=onyx-fire.com) | [ransomblog_noname2](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomblog_noname2) |
 | 2024-01-18 | [`aercap.com`](https://google.com/search?q=aercap.com) | [slug](https://ransomwatch.telemetry.ltd/#/profiles?id=slug) |
 | 2024-01-18 | [`JspPharma data`](https://google.com/search?q=JspPharma+data) | [insane](https://ransomwatch.telemetry.ltd/#/profiles?id=insane) |
-| 2024-01-18 | [`Flash-Motors Last Warning`](https://google.com/search?q=Flash-Motors+Last+Warning) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
