@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-02-02 | [`lexcaribbean.com`](https://google.com/search?q=lexcaribbean.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-02 | [`Law Office of Michael H Joseph`](https://google.com/search?q=Law+Office+of+Michael+H+Joseph) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-02-02 | [`Tandem`](https://google.com/search?q=Tandem) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-02-02 | [`Innovex Downhole Solutions`](https://google.com/search?q=Innovex+Downhole+Solutions) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-01-18 | [`Waldner's`](https://google.com/search?q=Waldner%27s) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-01-17 | [`DENHAM the Jeanmaker`](https://google.com/search?q=DENHAM+the+Jeanmaker) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-01-17 | [`Rosens Diversified Inc`](https://google.com/search?q=Rosens+Diversified+Inc) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
-| 2024-01-17 | [`Stone, Avant & Daniels`](https://google.com/search?q=Stone%2C+Avant+%26+Daniels) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
