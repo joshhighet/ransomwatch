@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-02-02 | [`Thomas LLP`](https://google.com/search?q=Thomas+LLP) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2024-02-02 | [`Chaney, Couch, Callaway, Carter and Associates Family Dentistry.`](https://google.com/search?q=Chaney%2C+Couch%2C+Callaway%2C+Carter+and+Associates+Family+Dentistry.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2024-02-02 | [`manitou-group.com`](https://google.com/search?q=manitou-group.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-02 | [`lexcaribbean.com`](https://google.com/search?q=lexcaribbean.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-02 | [`Law Office of Michael H Joseph`](https://google.com/search?q=Law+Office+of+Michael+H+Joseph) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-02-02 | [`Tandem`](https://google.com/search?q=Tandem) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2024-01-18 | [`aercap.com`](https://google.com/search?q=aercap.com) | [slug](https://ransomwatch.telemetry.ltd/#/profiles?id=slug) |
 | 2024-01-18 | [`JspPharma data`](https://google.com/search?q=JspPharma+data) | [insane](https://ransomwatch.telemetry.ltd/#/profiles?id=insane) |
 | 2024-01-18 | [`Flash-Motors Last Warning`](https://google.com/search?q=Flash-Motors+Last+Warning) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
-| 2024-01-18 | [`Waldner's`](https://google.com/search?q=Waldner%27s) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-01-17 | [`DENHAM the Jeanmaker`](https://google.com/search?q=DENHAM+the+Jeanmaker) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2024-01-17 | [`Rosens Diversified Inc`](https://google.com/search?q=Rosens+Diversified+Inc) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
