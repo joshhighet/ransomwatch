@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-02-03 | [`Associates Family Dentistry.`](https://google.com/search?q=Associates+Family+Dentistry.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-02-03 | [`pbwtulsa.com`](https://google.com/search?q=pbwtulsa.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-02 | [`Digitel Venezuela`](https://google.com/search?q=Digitel+Venezuela) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2024-02-02 | [`Thomas LLP`](https://google.com/search?q=Thomas+LLP) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-01-18 | [`nobleweb.com`](https://google.com/search?q=nobleweb.com) | [ransomblog_noname2](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomblog_noname2) |
 | 2024-01-18 | [`selmi.com.br`](https://google.com/search?q=selmi.com.br) | [ransomblog_noname2](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomblog_noname2) |
 | 2024-01-18 | [`onyx-fire.com`](https://google.com/search?q=onyx-fire.com) | [ransomblog_noname2](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomblog_noname2) |
-| 2024-01-18 | [`aercap.com`](https://google.com/search?q=aercap.com) | [slug](https://ransomwatch.telemetry.ltd/#/profiles?id=slug) |
