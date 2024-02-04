@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-02-04 | [`Cole, Cole, Easley and Sciba`](https://google.com/search?q=Cole%2C+Cole%2C+Easley+and+Sciba) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2024-02-04 | [`cxm.com`](https://google.com/search?q=cxm.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-03 | [`Associates Family Dentistry.`](https://google.com/search?q=Associates+Family+Dentistry.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-02-03 | [`pbwtulsa.com`](https://google.com/search?q=pbwtulsa.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-02 | [`Digitel Venezuela`](https://google.com/search?q=Digitel+Venezuela) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-01-18 | [`Gallup McKinley County Schools`](https://google.com/search?q=Gallup+McKinley+County+Schools) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-01-18 | [`monaco-technologies.com`](https://google.com/search?q=monaco-technologies.com) | [ransomblog_noname2](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomblog_noname2) |
 | 2024-01-18 | [`nobleweb.com`](https://google.com/search?q=nobleweb.com) | [ransomblog_noname2](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomblog_noname2) |
-| 2024-01-18 | [`selmi.com.br`](https://google.com/search?q=selmi.com.br) | [ransomblog_noname2](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomblog_noname2) |
-| 2024-01-18 | [`onyx-fire.com`](https://google.com/search?q=onyx-fire.com) | [ransomblog_noname2](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomblog_noname2) |
