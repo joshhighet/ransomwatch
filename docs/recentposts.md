@@ -4,6 +4,18 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-02-05 | [`Virgin Islands Lottery`](https://google.com/search?q=Virgin+Islands+Lottery) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-02-05 | [`Ready Mixed Concrete`](https://google.com/search?q=Ready+Mixed+Concrete) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-02-05 | [`Premier Facility Management`](https://google.com/search?q=Premier+Facility+Management) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-02-05 | [`Perry-McCall Construction`](https://google.com/search?q=Perry-McCall+Construction) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-02-05 | [`Northeastern Sheet Metal`](https://google.com/search?q=Northeastern+Sheet+Metal) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-02-05 | [`McMillan Pazdan Smith`](https://google.com/search?q=McMillan+Pazdan+Smith) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-02-05 | [`Mason Construction`](https://google.com/search?q=Mason+Construction) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-02-05 | [`Leaders Staffing`](https://google.com/search?q=Leaders+Staffing) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-02-05 | [`Hannon Transport`](https://google.com/search?q=Hannon+Transport) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-02-05 | [`Greenwich Leisure`](https://google.com/search?q=Greenwich+Leisure) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-02-05 | [`Douglas County Libraries`](https://google.com/search?q=Douglas+County+Libraries) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-02-05 | [`Albert Bartlett`](https://google.com/search?q=Albert+Bartlett) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-02-05 | [`Asecos`](https://google.com/search?q=Asecos) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-02-05 | [`www.commonwealthsign.com`](https://google.com/search?q=www.commonwealthsign.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-02-05 | [`themisbourne.co.uk`](https://google.com/search?q=themisbourne.co.uk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -192,15 +204,3 @@ _last `200` posts_
 | 2024-01-21 | [`bmc-cpa.com`](https://google.com/search?q=bmc-cpa.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-01-21 | [`subway.com`](https://google.com/search?q=subway.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-01-21 | [`marxan.es`](https://google.com/search?q=marxan.es) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-01-21 | [`home-waremmien.be`](https://google.com/search?q=home-waremmien.be) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-01-21 | [`tvjahnrheine.de`](https://google.com/search?q=tvjahnrheine.de) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-01-20 | [`Worthen Industries [You have three days]`](https://google.com/search?q=Worthen+Industries+%5BYou+have+three+days%5D) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2024-01-20 | [`wendy.mx`](https://google.com/search?q=wendy.mx) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-01-20 | [`swiftair.com`](https://google.com/search?q=swiftair.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-01-20 | [`Busse & Busee, PC Attorneys at Law`](https://google.com/search?q=Busse+%26+Busee%2C+PC+Attorneys+at+Law) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2024-01-19 | [`www.projects-world.com`](https://google.com/search?q=www.projects-world.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
-| 2024-01-19 | [`Anna Jaques Hospital`](https://google.com/search?q=Anna+Jaques+Hospital) | [moneymessage](https://ransomwatch.telemetry.ltd/#/profiles?id=moneymessage) |
-| 2024-01-19 | [`seiu1000.org`](https://google.com/search?q=seiu1000.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-01-19 | [`pratt.edu`](https://google.com/search?q=pratt.edu) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-01-19 | [`Sykes Consulting, Inc.`](https://google.com/search?q=Sykes+Consulting%2C+Inc.) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2024-01-19 | [`dywidag.com`](https://google.com/search?q=dywidag.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
