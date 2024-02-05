@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-02-05 | [`GRTC Transit System`](https://google.com/search?q=GRTC+Transit+System) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-02-05 | [`ultraflexx.com`](https://google.com/search?q=ultraflexx.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-05 | [`tgestiona.br`](https://google.com/search?q=tgestiona.br) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-05 | [`semesco.com`](https://google.com/search?q=semesco.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-01-19 | [`shenandoahtx.us`](https://google.com/search?q=shenandoahtx.us) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-01-19 | [`evit.edu`](https://google.com/search?q=evit.edu) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-01-19 | [`cmmt.com.tw`](https://google.com/search?q=cmmt.com.tw) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-01-19 | [`Alupar Investimento SA`](https://google.com/search?q=Alupar+Investimento+SA) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
