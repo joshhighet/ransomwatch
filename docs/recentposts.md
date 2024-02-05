@@ -4,6 +4,10 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-02-05 | [`prima.com`](https://google.com/search?q=prima.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2024-02-05 | [`portline.pt`](https://google.com/search?q=portline.pt) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2024-02-05 | [`philogen.com`](https://google.com/search?q=philogen.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2024-02-05 | [`logtainer.com`](https://google.com/search?q=logtainer.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-05 | [`DOD contractors you are welcome in our chat.`](https://google.com/search?q=DOD+contractors+you+are+welcome+in+our+chat.) | [donutleaks](https://ransomwatch.telemetry.ltd/#/profiles?id=donutleaks) |
 | 2024-02-04 | [`Cole, Cole, Easley and Sciba`](https://google.com/search?q=Cole%2C+Cole%2C+Easley+and+Sciba) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-02-04 | [`cxm.com`](https://google.com/search?q=cxm.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -200,7 +204,3 @@ _last `200` posts_
 | 2024-01-19 | [`foxsemicon.com`](https://google.com/search?q=foxsemicon.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-01-19 | [`Malongo France`](https://google.com/search?q=Malongo+France) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2024-01-18 | [`http://www.gocruisers.org`](https://google.com/search?q=http%3A%2F%2Fwww.gocruisers.org) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
-| 2024-01-18 | [`digipwr.com`](https://google.com/search?q=digipwr.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-01-18 | [`jaffeandasher.com`](https://google.com/search?q=jaffeandasher.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-01-18 | [`Gallup McKinley County Schools`](https://google.com/search?q=Gallup+McKinley+County+Schools) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2024-01-18 | [`monaco-technologies.com`](https://google.com/search?q=monaco-technologies.com) | [ransomblog_noname2](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomblog_noname2) |
