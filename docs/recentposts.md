@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-02-05 | [`Asecos`](https://google.com/search?q=Asecos) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-02-05 | [`www.commonwealthsign.com`](https://google.com/search?q=www.commonwealthsign.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-02-05 | [`themisbourne.co.uk`](https://google.com/search?q=themisbourne.co.uk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-05 | [`Vail-Summit Orthopaedics & Neurosurgery (VSON)`](https://google.com/search?q=Vail-Summit+Orthopaedics+%26+Neurosurgery+%28VSON%29) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-01-19 | [`pratt.edu`](https://google.com/search?q=pratt.edu) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-01-19 | [`Sykes Consulting, Inc.`](https://google.com/search?q=Sykes+Consulting%2C+Inc.) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2024-01-19 | [`dywidag.com`](https://google.com/search?q=dywidag.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-01-19 | [`intercityinvestments.com\$31.1M\USA\10gb\100%DISCLOSED`](https://google.com/search?q=intercityinvestments.com%5C%2431.1M%5CUSA%5C10gb%5C100%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
