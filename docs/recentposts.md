@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-02-06 | [`spbglobal.com\$81.4M\Spain\706GB\&lt;1%DISCLOSED`](https://google.com/search?q=spbglobal.com%5C%2481.4M%5CSpain%5C706GB%5C%26lt%3B1%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-02-05 | [`Virgin Islands Lottery`](https://google.com/search?q=Virgin+Islands+Lottery) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-02-05 | [`Ready Mixed Concrete`](https://google.com/search?q=Ready+Mixed+Concrete) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-02-05 | [`Premier Facility Management`](https://google.com/search?q=Premier+Facility+Management) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-01-21 | [`jasman.com.mx`](https://google.com/search?q=jasman.com.mx) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-01-21 | [`bmc-cpa.com`](https://google.com/search?q=bmc-cpa.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-01-21 | [`subway.com`](https://google.com/search?q=subway.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-01-21 | [`marxan.es`](https://google.com/search?q=marxan.es) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
