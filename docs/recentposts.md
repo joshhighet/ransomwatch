@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-02-06 | [`AVer Information`](https://google.com/search?q=AVer+Information) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
+| 2024-02-06 | [`Celeste`](https://google.com/search?q=Celeste) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-02-06 | [`Sciba`](https://google.com/search?q=Sciba) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-02-06 | [`B Electric Inc`](https://google.com/search?q=B+Electric+Inc) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-02-06 | [`Hbl Cpas, P.C.`](https://google.com/search?q=Hbl+Cpas%2C+P.C.) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-01-21 | [`gattoplaters.com`](https://google.com/search?q=gattoplaters.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-01-21 | [`duconind.com`](https://google.com/search?q=duconind.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-01-21 | [`cct.or.th`](https://google.com/search?q=cct.or.th) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-01-21 | [`stjohnrochester.org`](https://google.com/search?q=stjohnrochester.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-01-21 | [`North Star Tax And Accounting`](https://google.com/search?q=North+Star+Tax+And+Accounting) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
