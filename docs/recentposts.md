@@ -4,6 +4,20 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-02-07 | [`YRW Limited - Chartered Accountants`](https://google.com/search?q=YRW+Limited+-+Chartered+Accountants) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2024-02-07 | [`Worthen Industries`](https://google.com/search?q=Worthen+Industries) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2024-02-07 | [`Therme Laa Hotel and Silent Spa`](https://google.com/search?q=Therme+Laa+Hotel+and+Silent+Spa) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2024-02-07 | [`Tetrosyl Group Limited`](https://google.com/search?q=Tetrosyl+Group+Limited) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2024-02-07 | [`Precision Tune Auto Care`](https://google.com/search?q=Precision+Tune+Auto+Care) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2024-02-07 | [`PWS - The Laundry Company`](https://google.com/search?q=PWS+-+The+Laundry+Company) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2024-02-07 | [`PJ Green Inc`](https://google.com/search?q=PJ+Green+Inc) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2024-02-07 | [`Karl Rieker GmbH and Co. KG`](https://google.com/search?q=Karl+Rieker+GmbH+and+Co.+KG) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2024-02-07 | [`Harinck`](https://google.com/search?q=Harinck) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2024-02-07 | [`CERALP`](https://google.com/search?q=CERALP) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2024-02-07 | [`Anderco PTE LTD`](https://google.com/search?q=Anderco+PTE+LTD) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2024-02-07 | [`vimarequipment.com`](https://google.com/search?q=vimarequipment.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2024-02-07 | [`axsbolivia.com`](https://google.com/search?q=axsbolivia.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2024-02-07 | [`Shipleys LLP`](https://google.com/search?q=Shipleys+LLP) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2024-02-06 | [`deltron.com`](https://google.com/search?q=deltron.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
 | 2024-02-06 | [`AVer Information`](https://google.com/search?q=AVer+Information) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-02-06 | [`Celeste`](https://google.com/search?q=Celeste) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
@@ -190,17 +204,3 @@ _last `200` posts_
 | 2024-01-22 | [`HOE Pharmaceuticals Sdn Bhd`](https://google.com/search?q=HOE+Pharmaceuticals+Sdn+Bhd) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2024-01-22 | [`ANS COMPUTER [72hrs]`](https://google.com/search?q=ANS+COMPUTER+%5B72hrs%5D) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2024-01-22 | [`Double Eagle Development`](https://google.com/search?q=Double+Eagle+Development) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2024-01-22 | [`Asahi Glass`](https://google.com/search?q=Asahi+Glass) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2024-01-22 | [`davidsbridal.com`](https://google.com/search?q=davidsbridal.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-01-22 | [`deknudtframes.be`](https://google.com/search?q=deknudtframes.be) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
-| 2024-01-22 | [`Waldner's`](https://google.com/search?q=Waldner%27s) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
-| 2024-01-22 | [`Pozzi Italy`](https://google.com/search?q=Pozzi+Italy) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
-| 2024-01-22 | [`The Gainsborough Bath `](https://google.com/search?q=The+Gainsborough+Bath+) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
-| 2024-01-22 | [`Richmond Fellowship Scotland`](https://google.com/search?q=Richmond+Fellowship+Scotland) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
-| 2024-01-21 | [`wittmann.at`](https://google.com/search?q=wittmann.at) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-01-21 | [`umi-tiles.com`](https://google.com/search?q=umi-tiles.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-01-21 | [`synnex-grp.com`](https://google.com/search?q=synnex-grp.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-01-21 | [`qtc-energy.com`](https://google.com/search?q=qtc-energy.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-01-21 | [`hughessupplyco.com`](https://google.com/search?q=hughessupplyco.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-01-21 | [`gattoplaters.com`](https://google.com/search?q=gattoplaters.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-01-21 | [`duconind.com`](https://google.com/search?q=duconind.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
