@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-02-07 | [`http://swbindinglaminating.com`](https://google.com/search?q=http%3A%2F%2Fswbindinglaminating.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
+| 2024-02-07 | [`TeraGo`](https://google.com/search?q=TeraGo) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-02-07 | [`transaxle.com`](https://google.com/search?q=transaxle.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
 | 2024-02-07 | [`YRW Limited - Chartered Accountants`](https://google.com/search?q=YRW+Limited+-+Chartered+Accountants) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2024-02-07 | [`Worthen Industries`](https://google.com/search?q=Worthen+Industries) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-01-23 | [`ARPEGE`](https://google.com/search?q=ARPEGE) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2024-01-23 | [`C and F Packing Company Inc.`](https://google.com/search?q=C+and+F+Packing+Company+Inc.) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2024-01-22 | [`bellgroup.co.uk\$103.6M\UK\9GB\100%DISCLOSED`](https://google.com/search?q=bellgroup.co.uk%5C%24103.6M%5CUK%5C9GB%5C100%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2024-01-22 | [`HOE Pharmaceuticals Sdn Bhd`](https://google.com/search?q=HOE+Pharmaceuticals+Sdn+Bhd) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
-| 2024-01-22 | [`ANS COMPUTER [72hrs]`](https://google.com/search?q=ANS+COMPUTER+%5B72hrs%5D) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
