@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-02-08 | [`Distecna`](https://google.com/search?q=Distecna) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-02-07 | [`http://www.wmc-i.com`](https://google.com/search?q=http%3A%2F%2Fwww.wmc-i.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-02-07 | [`http://swbindinglaminating.com`](https://google.com/search?q=http%3A%2F%2Fswbindinglaminating.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-02-07 | [`TeraGo`](https://google.com/search?q=TeraGo) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-01-23 | [`Double Eagle Energy Holdings IV`](https://google.com/search?q=Double+Eagle+Energy+Holdings+IV) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-01-23 | [`Smith Capital - Press Release`](https://google.com/search?q=Smith+Capital+-+Press+Release) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2024-01-23 | [`ARPEGE`](https://google.com/search?q=ARPEGE) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2024-01-23 | [`C and F Packing Company Inc.`](https://google.com/search?q=C+and+F+Packing+Company+Inc.) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
