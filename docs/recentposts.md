@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-02-08 | [`Ducont`](https://google.com/search?q=Ducont) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
+| 2024-02-08 | [`Jewish Home Lifecare`](https://google.com/search?q=Jewish+Home+Lifecare) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2024-02-08 | [`perkinsmfg.com`](https://google.com/search?q=perkinsmfg.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-08 | [`originalfootwear.com`](https://google.com/search?q=originalfootwear.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-08 | [`Distecna`](https://google.com/search?q=Distecna) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-01-23 | [`Total Air Solutions`](https://google.com/search?q=Total+Air+Solutions) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2024-01-23 | [`R.C. Moore Trucking`](https://google.com/search?q=R.C.+Moore+Trucking) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-01-23 | [`Herrs (You have 72 hours)`](https://google.com/search?q=Herrs+%28You+have+72+hours%29) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2024-01-23 | [`ENVEA`](https://google.com/search?q=ENVEA) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2024-01-23 | [`Double Eagle Energy Holdings IV`](https://google.com/search?q=Double+Eagle+Energy+Holdings+IV) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
