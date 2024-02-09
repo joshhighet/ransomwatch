@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-02-09 | [`seymourct.org`](https://google.com/search?q=seymourct.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2024-02-09 | [`moneyadvicetrust.org`](https://google.com/search?q=moneyadvicetrust.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2024-02-09 | [`bsaarchitects.com`](https://google.com/search?q=bsaarchitects.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-09 | [`posen.com`](https://google.com/search?q=posen.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
 | 2024-02-09 | [`macqueeneq.com`](https://google.com/search?q=macqueeneq.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-09 | [`parksite.com\$452.7M\USA\170GB\&lt;1%DISCLOSED`](https://google.com/search?q=parksite.com%5C%24452.7M%5CUSA%5C170GB%5C%26lt%3B1%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2024-01-23 | [`Milestone Environmen tal Contracting`](https://google.com/search?q=Milestone+Environmen+tal+Contracting) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-01-23 | [`KTBS Law LLP`](https://google.com/search?q=KTBS+Law+LLP) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-01-23 | [`Société Dupont Restauration`](https://google.com/search?q=Soci%C3%A9t%C3%A9+Dupont+Restauration) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2024-01-23 | [`Kivi Bros`](https://google.com/search?q=Kivi+Bros) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2024-01-23 | [`High Arctic`](https://google.com/search?q=High+Arctic) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2024-01-23 | [`CINFAB`](https://google.com/search?q=CINFAB) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
