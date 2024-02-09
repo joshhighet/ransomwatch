@@ -4,6 +4,12 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-02-09 | [`jaygroup.com\$62.2M\USA\270GB\100%DISCLOSED`](https://google.com/search?q=jaygroup.com%5C%2462.2M%5CUSA%5C270GB%5C100%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
+| 2024-02-09 | [`oogp.com\$11.4M\USA\63GB\100%DISCLOSED`](https://google.com/search?q=oogp.com%5C%2411.4M%5CUSA%5C63GB%5C100%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
+| 2024-02-09 | [`soken-ce.co.jp`](https://google.com/search?q=soken-ce.co.jp) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2024-02-09 | [`maximumresearch.com`](https://google.com/search?q=maximumresearch.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2024-02-09 | [`indoramaventures.com`](https://google.com/search?q=indoramaventures.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2024-02-09 | [`cdtmedicus.pl`](https://google.com/search?q=cdtmedicus.pl) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-09 | [`verdimed.es`](https://google.com/search?q=verdimed.es) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-09 | [`grupomoraval.com`](https://google.com/search?q=grupomoraval.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-09 | [`Willis Lease Finance Corporation`](https://google.com/search?q=Willis+Lease+Finance+Corporation) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
@@ -198,9 +204,3 @@ _last `200` posts_
 | 2024-01-24 | [`Groupe Sweetco`](https://google.com/search?q=Groupe+Sweetco) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2024-01-24 | [`Glimstedt`](https://google.com/search?q=Glimstedt) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2024-01-24 | [`Bikesportz Imports`](https://google.com/search?q=Bikesportz+Imports) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2024-01-23 | [`synergyfinancialgrp.com`](https://google.com/search?q=synergyfinancialgrp.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
-| 2024-01-23 | [`micrometals.com`](https://google.com/search?q=micrometals.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
-| 2024-01-23 | [`sierrafrontgroup.com`](https://google.com/search?q=sierrafrontgroup.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-01-23 | [`lyonshipyard.com`](https://google.com/search?q=lyonshipyard.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-01-23 | [`Cryopak`](https://google.com/search?q=Cryopak) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2024-01-23 | [`Fairmont Federal Credit Union`](https://google.com/search?q=Fairmont+Federal+Credit+Union) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
