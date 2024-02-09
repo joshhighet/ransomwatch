@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-02-09 | [`galbusera.it`](https://google.com/search?q=galbusera.it) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-08 | [`water.cc`](https://google.com/search?q=water.cc) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-08 | [`Ducont`](https://google.com/search?q=Ducont) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-02-08 | [`Jewish Home Lifecare`](https://google.com/search?q=Jewish+Home+Lifecare) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-01-23 | [`United Industries`](https://google.com/search?q=United+Industries) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-01-23 | [`STEMCOR`](https://google.com/search?q=STEMCOR) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-01-23 | [`Total Air Solutions`](https://google.com/search?q=Total+Air+Solutions) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2024-01-23 | [`R.C. Moore Trucking`](https://google.com/search?q=R.C.+Moore+Trucking) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
