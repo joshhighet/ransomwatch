@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-02-09 | [`macqueeneq.com`](https://google.com/search?q=macqueeneq.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-09 | [`parksite.com\$452.7M\USA\170GB\&lt;1%DISCLOSED`](https://google.com/search?q=parksite.com%5C%24452.7M%5CUSA%5C170GB%5C%26lt%3B1%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-02-09 | [`galbusera.it`](https://google.com/search?q=galbusera.it) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-08 | [`water.cc`](https://google.com/search?q=water.cc) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-01-23 | [`High Arctic`](https://google.com/search?q=High+Arctic) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-01-23 | [`CINFAB`](https://google.com/search?q=CINFAB) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-01-23 | [`United Industries`](https://google.com/search?q=United+Industries) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2024-01-23 | [`STEMCOR`](https://google.com/search?q=STEMCOR) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
