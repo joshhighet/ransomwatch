@@ -4,6 +4,11 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-02-09 | [`CTSI`](https://google.com/search?q=CTSI) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2024-02-09 | [`J.P. Original`](https://google.com/search?q=J.P.+Original) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2024-02-09 | [`TechNet Kronoberg AB`](https://google.com/search?q=TechNet+Kronoberg+AB) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2024-02-09 | [`magi-erp.com`](https://google.com/search?q=magi-erp.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2024-02-09 | [`Grace Lutheran Foundation`](https://google.com/search?q=Grace+Lutheran+Foundation) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2024-02-09 | [`Capozzi Adler, P.C.`](https://google.com/search?q=Capozzi+Adler%2C+P.C.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-02-09 | [`Drost Kivlahan McMahon and O'Connor LLC`](https://google.com/search?q=Drost+Kivlahan+McMahon+and+O%27Connor+LLC) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-02-09 | [`alfiras.com`](https://google.com/search?q=alfiras.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -199,8 +204,3 @@ _last `200` posts_
 | 2024-01-24 | [`FULL LEAK! Busse & Busee, PC Attorneys at Law`](https://google.com/search?q=FULL+LEAK%21+Busse+%26+Busee%2C+PC+Attorneys+at+Law) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2024-01-24 | [`MBC Law Professional Corporation`](https://google.com/search?q=MBC+Law+Professional+Corporation) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2024-01-24 | [`Winona Pattern & Mold`](https://google.com/search?q=Winona+Pattern+%26+Mold) | [meow](https://ransomwatch.telemetry.ltd/#/profiles?id=meow) |
-| 2024-01-24 | [`Hinsdale School District`](https://google.com/search?q=Hinsdale+School+District) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
-| 2024-01-24 | [`Signature Performance Insurance`](https://google.com/search?q=Signature+Performance+Insurance) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
-| 2024-01-24 | [`Nbbl`](https://google.com/search?q=Nbbl) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2024-01-24 | [`Midwest Service Center`](https://google.com/search?q=Midwest+Service+Center) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2024-01-24 | [`La Ligue`](https://google.com/search?q=La+Ligue) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
