@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-02-10 | [`www.wannagocloud.com`](https://google.com/search?q=www.wannagocloud.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
+| 2024-02-10 | [`zivilgeometer.at`](https://google.com/search?q=zivilgeometer.at) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-02-09 | [`CTSI`](https://google.com/search?q=CTSI) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-02-09 | [`J.P. Original`](https://google.com/search?q=J.P.+Original) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-02-09 | [`TechNet Kronoberg AB`](https://google.com/search?q=TechNet+Kronoberg+AB) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-01-24 | [`icn-artem.com`](https://google.com/search?q=icn-artem.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-01-24 | [`Dirig Sheet Metal`](https://google.com/search?q=Dirig+Sheet+Metal) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-01-24 | [`FULL LEAK! Busse & Busee, PC Attorneys at Law`](https://google.com/search?q=FULL+LEAK%21+Busse+%26+Busee%2C+PC+Attorneys+at+Law) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2024-01-24 | [`MBC Law Professional Corporation`](https://google.com/search?q=MBC+Law+Professional+Corporation) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2024-01-24 | [`Winona Pattern & Mold`](https://google.com/search?q=Winona+Pattern+%26+Mold) | [meow](https://ransomwatch.telemetry.ltd/#/profiles?id=meow) |
