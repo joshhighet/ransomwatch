@@ -4,6 +4,16 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-02-10 | [`Village of Skokie`](https://google.com/search?q=Village+of+Skokie) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
+| 2024-02-10 | [`Lancaster County Sheriff's Office`](https://google.com/search?q=Lancaster+County+Sheriff%27s+Office) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
+| 2024-02-10 | [`Nastech`](https://google.com/search?q=Nastech) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
+| 2024-02-10 | [`Benchmark Management Group`](https://google.com/search?q=Benchmark+Management+Group) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
+| 2024-02-10 | [`SOPEM Tunisie`](https://google.com/search?q=SOPEM+Tunisie) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
+| 2024-02-10 | [`Impact Energy Services`](https://google.com/search?q=Impact+Energy+Services) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
+| 2024-02-10 | [`Groupe Goyette`](https://google.com/search?q=Groupe+Goyette) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
+| 2024-02-10 | [`Dalmahoy Hotel & Country Club`](https://google.com/search?q=Dalmahoy+Hotel+%26+Country+Club) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
+| 2024-02-10 | [`Carespring Health Care`](https://google.com/search?q=Carespring+Health+Care) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
+| 2024-02-10 | [`Avianor Aircraft`](https://google.com/search?q=Avianor+Aircraft) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-02-10 | [`mranet.org`](https://google.com/search?q=mranet.org) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
 | 2024-02-10 | [`aisg-online.com`](https://google.com/search?q=aisg-online.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-10 | [`maddockhenson`](https://google.com/search?q=maddockhenson) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -194,13 +204,3 @@ _last `200` posts_
 | 2024-01-25 | [`Brightstar Care`](https://google.com/search?q=Brightstar+Care) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2024-01-25 | [`CloudFire Italy`](https://google.com/search?q=CloudFire+Italy) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2024-01-25 | [`Four Hands LLC`](https://google.com/search?q=Four+Hands+LLC) | [0mega](https://ransomwatch.telemetry.ltd/#/profiles?id=0mega) |
-| 2024-01-25 | [`“Insurance Marketing”`](https://google.com/search?q=%E2%80%9CInsurance+Marketing%E2%80%9D) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2024-01-25 | [`ANI Networks`](https://google.com/search?q=ANI+Networks) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2024-01-25 | [`caravanclub.co.uk`](https://google.com/search?q=caravanclub.co.uk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-01-25 | [`Toronto Zoo`](https://google.com/search?q=Toronto+Zoo) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2024-01-24 | [`NOVA Business Law Group`](https://google.com/search?q=NOVA+Business+Law+Group) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2024-01-24 | [`The Wiser Financial Group`](https://google.com/search?q=The+Wiser+Financial+Group) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2024-01-24 | [`Hawbaker Engineering`](https://google.com/search?q=Hawbaker+Engineering) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
-| 2024-01-24 | [`Charles Trent`](https://google.com/search?q=Charles+Trent) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2024-01-24 | [`Innovative Automation`](https://google.com/search?q=Innovative+Automation) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2024-01-24 | [`Tamdown`](https://google.com/search?q=Tamdown) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
