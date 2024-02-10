@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-02-10 | [`aisg-online.com`](https://google.com/search?q=aisg-online.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2024-02-10 | [`maddockhenson`](https://google.com/search?q=maddockhenson) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2024-02-10 | [`Pacific American Fish Company Inc.`](https://google.com/search?q=Pacific+American+Fish+Company+Inc.) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2024-02-10 | [`www.wannagocloud.com`](https://google.com/search?q=www.wannagocloud.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-02-10 | [`zivilgeometer.at`](https://google.com/search?q=zivilgeometer.at) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-01-24 | [`Innovative Automation`](https://google.com/search?q=Innovative+Automation) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-01-24 | [`Tamdown`](https://google.com/search?q=Tamdown) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-01-24 | [`Thorite Group`](https://google.com/search?q=Thorite+Group) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2024-01-24 | [`icn-artem.com`](https://google.com/search?q=icn-artem.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-01-24 | [`Dirig Sheet Metal`](https://google.com/search?q=Dirig+Sheet+Metal) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
