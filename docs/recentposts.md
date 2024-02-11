@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-02-11 | [`lacolline-skincare.com`](https://google.com/search?q=lacolline-skincare.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-10 | [`www.umtownship.org`](https://google.com/search?q=www.umtownship.org) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-02-10 | [`Village of Skokie`](https://google.com/search?q=Village+of+Skokie) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-02-10 | [`Lancaster County Sheriff's Office`](https://google.com/search?q=Lancaster+County+Sheriff%27s+Office) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-01-25 | [`Lush`](https://google.com/search?q=Lush) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-01-25 | [`OrthoNY, Orthopedic Care`](https://google.com/search?q=OrthoNY%2C+Orthopedic+Care) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2024-01-25 | [`Brightstar Care`](https://google.com/search?q=Brightstar+Care) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2024-01-25 | [`CloudFire Italy`](https://google.com/search?q=CloudFire+Italy) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
