@@ -4,6 +4,17 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-02-12 | [`Disaronno International`](https://google.com/search?q=Disaronno+International) | [meow](https://ransomwatch.telemetry.ltd/#/profiles?id=meow) |
+| 2024-02-12 | [`Allmetal Inc.`](https://google.com/search?q=Allmetal+Inc.) | [meow](https://ransomwatch.telemetry.ltd/#/profiles?id=meow) |
+| 2024-02-12 | [`Freedom Munitions`](https://google.com/search?q=Freedom+Munitions) | [meow](https://ransomwatch.telemetry.ltd/#/profiles?id=meow) |
+| 2024-02-12 | [`vhprimary.com`](https://google.com/search?q=vhprimary.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2024-02-12 | [`sealco-leb.com`](https://google.com/search?q=sealco-leb.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2024-02-12 | [`paltertonprimary.co.uk`](https://google.com/search?q=paltertonprimary.co.uk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2024-02-12 | [`lyon.co.uk`](https://google.com/search?q=lyon.co.uk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2024-02-12 | [`isspol.gov`](https://google.com/search?q=isspol.gov) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2024-02-12 | [`envie.org`](https://google.com/search?q=envie.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2024-02-12 | [`dienerprecisionpumps.com`](https://google.com/search?q=dienerprecisionpumps.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2024-02-12 | [`camarotto.it`](https://google.com/search?q=camarotto.it) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-12 | [`robs.org`](https://google.com/search?q=robs.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-12 | [`parkhomeassist.co.uk`](https://google.com/search?q=parkhomeassist.co.uk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-12 | [`jacksonvillebeach.org`](https://google.com/search?q=jacksonvillebeach.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -193,14 +204,3 @@ _last `200` posts_
 | 2024-01-29 | [`Benjamin Plumbing Inc`](https://google.com/search?q=Benjamin+Plumbing+Inc) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2024-01-29 | [`North American University`](https://google.com/search?q=North+American+University) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2024-01-29 | [`dtsolutions.net\$31.1M\USA\34gb\100%DISCLOSED`](https://google.com/search?q=dtsolutions.net%5C%2431.1M%5CUSA%5C34gb%5C100%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2024-01-29 | [` neafidi.it`](https://google.com/search?q=+neafidi.it) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
-| 2024-01-29 | [`www.mordfin.com`](https://google.com/search?q=www.mordfin.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
-| 2024-01-28 | [`Cislo and Thomas LLP`](https://google.com/search?q=Cislo+and+Thomas+LLP) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2024-01-28 | [`Image Craft`](https://google.com/search?q=Image+Craft) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2024-01-28 | [`Shoma group`](https://google.com/search?q=Shoma+group) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2024-01-27 | [`oogp.com\$11.4M\USA\63GB\&lt;1%DISCLOSED`](https://google.com/search?q=oogp.com%5C%2411.4M%5CUSA%5C63GB%5C%26lt%3B1%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2024-01-27 | [`wannagocloud.com`](https://google.com/search?q=wannagocloud.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
-| 2024-01-27 | [`neafidi.it`](https://google.com/search?q=neafidi.it) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
-| 2024-01-27 | [`vidalung.ai`](https://google.com/search?q=vidalung.ai) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
-| 2024-01-26 | [`Kansas City Area Transportation Authority`](https://google.com/search?q=Kansas+City+Area+Transportation+Authority) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
-| 2024-01-26 | [`ehsd.org`](https://google.com/search?q=ehsd.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
