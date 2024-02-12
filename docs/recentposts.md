@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-02-12 | [`SERCIDE`](https://google.com/search?q=SERCIDE) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2024-02-12 | [`Modern Kitchens `](https://google.com/search?q=Modern+Kitchens+) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2024-02-12 | [`Lower Valley Energy, Inc.`](https://google.com/search?q=Lower+Valley+Energy%2C+Inc.) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2024-02-12 | [`germaintoiture.fr`](https://google.com/search?q=germaintoiture.fr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-01-29 | [`grimme.dk`](https://google.com/search?q=grimme.dk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-01-29 | [`ese.com`](https://google.com/search?q=ese.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-01-29 | [`crowe.com.za`](https://google.com/search?q=crowe.com.za) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-01-29 | [`l`](https://google.com/search?q=l) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
