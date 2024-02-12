@@ -4,6 +4,12 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-02-12 | [`Arlington Perinatal Associates`](https://google.com/search?q=Arlington+Perinatal+Associates) | [meow](https://ransomwatch.telemetry.ltd/#/profiles?id=meow) |
+| 2024-02-12 | [`textiles.org.tw`](https://google.com/search?q=textiles.org.tw) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2024-02-12 | [`silverairways.com`](https://google.com/search?q=silverairways.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2024-02-12 | [`plexustelerad.com`](https://google.com/search?q=plexustelerad.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2024-02-12 | [`fidcornelis.be`](https://google.com/search?q=fidcornelis.be) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2024-02-12 | [`cabc.com.ar`](https://google.com/search?q=cabc.com.ar) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-12 | [`Disaronno International`](https://google.com/search?q=Disaronno+International) | [meow](https://ransomwatch.telemetry.ltd/#/profiles?id=meow) |
 | 2024-02-12 | [`Allmetal Inc.`](https://google.com/search?q=Allmetal+Inc.) | [meow](https://ransomwatch.telemetry.ltd/#/profiles?id=meow) |
 | 2024-02-12 | [`Freedom Munitions`](https://google.com/search?q=Freedom+Munitions) | [meow](https://ransomwatch.telemetry.ltd/#/profiles?id=meow) |
@@ -198,9 +204,3 @@ _last `200` posts_
 | 2024-01-29 | [`Castilleja School`](https://google.com/search?q=Castilleja+School) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-01-29 | [`Dutton Brock`](https://google.com/search?q=Dutton+Brock) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2024-01-29 | [`Get Away Today`](https://google.com/search?q=Get+Away+Today) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2024-01-29 | [`Waterford Country School Inc`](https://google.com/search?q=Waterford+Country+School+Inc) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2024-01-29 | [`CORBETT EXTERMINATING Inc`](https://google.com/search?q=CORBETT+EXTERMINATING+Inc) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2024-01-29 | [`Black Butte Coal Co`](https://google.com/search?q=Black+Butte+Coal+Co) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2024-01-29 | [`Benjamin Plumbing Inc`](https://google.com/search?q=Benjamin+Plumbing+Inc) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2024-01-29 | [`North American University`](https://google.com/search?q=North+American+University) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2024-01-29 | [`dtsolutions.net\$31.1M\USA\34gb\100%DISCLOSED`](https://google.com/search?q=dtsolutions.net%5C%2431.1M%5CUSA%5C34gb%5C100%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
