@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-02-12 | [`garonproducts.com`](https://google.com/search?q=garonproducts.com) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
+| 2024-02-12 | [`http://antunovich.com`](https://google.com/search?q=http%3A%2F%2Fantunovich.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
+| 2024-02-12 | [`tecasrl.it`](https://google.com/search?q=tecasrl.it) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-12 | [`Rush Energy Services Inc [You have 48 hours]`](https://google.com/search?q=Rush+Energy+Services+Inc+%5BYou+have+48+hours%5D) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2024-02-12 | [`SERCIDE`](https://google.com/search?q=SERCIDE) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2024-02-12 | [`Modern Kitchens `](https://google.com/search?q=Modern+Kitchens+) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2024-01-29 | [`https://www.pfmgreen.com/`](https://google.com/search?q=https%3A%2F%2Fwww.pfmgreen.com%2F) | [trigona](https://ransomwatch.telemetry.ltd/#/profiles?id=trigona) |
 | 2024-01-29 | [`https://www.fertilitynorth.com.au/`](https://google.com/search?q=https%3A%2F%2Fwww.fertilitynorth.com.au%2F) | [trigona](https://ransomwatch.telemetry.ltd/#/profiles?id=trigona) |
 | 2024-01-29 | [`https://www.vision-plast.com/`](https://google.com/search?q=https%3A%2F%2Fwww.vision-plast.com%2F) | [trigona](https://ransomwatch.telemetry.ltd/#/profiles?id=trigona) |
-| 2024-01-29 | [`https://www.jflommainc.com/`](https://google.com/search?q=https%3A%2F%2Fwww.jflommainc.com%2F) | [trigona](https://ransomwatch.telemetry.ltd/#/profiles?id=trigona) |
-| 2024-01-29 | [`grimme.dk`](https://google.com/search?q=grimme.dk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-01-29 | [`ese.com`](https://google.com/search?q=ese.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
