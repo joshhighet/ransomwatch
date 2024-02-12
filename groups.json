@@ -5244,5 +5244,47 @@
             }
         ],
         "profile": []
+    },
+    {
+        "name": "ransomhub",
+        "captcha": false,
+        "parser": true,
+        "javascript_render": true,
+        "meta": null,
+        "locations": [
+            {
+                "fqdn": "ransomxifxwc5eteopdobynonjctkxxvap77yqifu2emfbecgbqdw6qd.onion",
+                "title": "Index",
+                "version": 3,
+                "slug": "http://ransomxifxwc5eteopdobynonjctkxxvap77yqifu2emfbecgbqdw6qd.onion",
+                "available": true,
+                "updated": "2024-02-13 12:09:12.305020",
+                "lastscrape": "2024-02-13 12:09:12.305011",
+                "enabled": true
+            }
+        ],
+        "profile": [
+            "4D598799696AD5399FABF7D40C4D1BE9F05D74CFB311047D7391AC0BF64BED47B56EEE66A528"
+        ]
+    },
+    {
+        "name": "alphalocker",
+        "captcha": false,
+        "parser": true,
+        "javascript_render": false,
+        "meta": null,
+        "locations": [
+            {
+                "fqdn": "mydatae2d63il5oaxxangwnid5loq2qmtsol2ozr6vtb7yfm5ypzo6id.onion",
+                "title": "--",
+                "version": 3,
+                "slug": "http://mydatae2d63il5oaxxangwnid5loq2qmtsol2ozr6vtb7yfm5ypzo6id.onion",
+                "available": true,
+                "updated": "2024-02-13 12:09:14.294661",
+                "lastscrape": "2024-02-13 12:09:14.294636",
+                "enabled": true
+            }
+        ],
+        "profile": []
     }
 ]

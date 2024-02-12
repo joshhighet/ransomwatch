@@ -294,4 +294,6 @@ if args.mode == 'parse':
     parsers.insane()
     parsers.slug()
     parsers.ransomblog_noname2()
+    parsers.alphalocker()
+    parsers.ransomhub()
     stdlog('ransomwatch: ' + 'parse run complete')

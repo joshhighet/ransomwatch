@@ -1313,3 +1313,25 @@ def ransomblog_noname2():
         errlog('ransomblog_noname2: ' + 'parsing fail')
     for post in posts:
         appender(post, 'ransomblog_noname2')
+
+def alphalocker():
+    stdlog('parser: ' + 'alphalocker')
+    parser = '''
+    grep '^\s*<a href="blog_1-9">' source/alphalocker-*.html | cut -d '>' -f 2 | cut -d '<' -f 1
+    '''
+    posts = runshellcmd(parser)
+    if len(posts) == 1:
+        errlog('alphalocker: ' + 'parsing fail')
+    for post in posts:
+        appender(post, 'alphalocker')
+
+def ransomhub():
+    stdlog('parser: ' + 'ransomhub')
+    parser = '''
+    grep '<h5 class="card-title">' source/ransomhub-*.html | cut -d '>' -f 3 | cut -d '<' -f 1 | perl -MHTML::Entities -ne 'print decode_entities($_)'
+    '''
+    posts = runshellcmd(parser)
+    if len(posts) == 1:
+        errlog('ransomhub: ' + 'parsing fail')
+    for post in posts:
+        appender(post, 'ransomhub')
