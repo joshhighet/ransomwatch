@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-02-12 | [`germaintoiture.fr`](https://google.com/search?q=germaintoiture.fr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-12 | [`Kreyenhop & Kluge`](https://google.com/search?q=Kreyenhop+%26+Kluge) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-02-12 | [`Arlington Perinatal Associates`](https://google.com/search?q=Arlington+Perinatal+Associates) | [meow](https://ransomwatch.telemetry.ltd/#/profiles?id=meow) |
 | 2024-02-12 | [`textiles.org.tw`](https://google.com/search?q=textiles.org.tw) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-01-29 | [`l`](https://google.com/search?q=l) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-01-29 | [`Safe Plating`](https://google.com/search?q=Safe+Plating) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-01-29 | [`Castilleja School`](https://google.com/search?q=Castilleja+School) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2024-01-29 | [`Dutton Brock`](https://google.com/search?q=Dutton+Brock) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
