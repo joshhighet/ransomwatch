@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-02-13 | [`SOPEM`](https://google.com/search?q=SOPEM) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
+| 2024-02-13 | [`Satse`](https://google.com/search?q=Satse) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-02-13 | [`Sanok Rubber Company Spólka Akcyjna`](https://google.com/search?q=Sanok+Rubber+Company+Sp%C3%B3lka+Akcyjna) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-02-13 | [`YKP LTDA<www.ykp.com.br >`](https://google.com/search?q=YKP+LTDA%3Cwww.ykp.com.br+%3E) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-02-13 | [`elandenergy.com         Eland Energy`](https://google.com/search?q=elandenergy.com+++++++++Eland+Energy) | [alphalocker](https://ransomwatch.telemetry.ltd/#/profiles?id=alphalocker) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-01-30 | [`hi-cone.com\$27M\USA\650GB\100%DISCLOSED`](https://google.com/search?q=hi-cone.com%5C%2427M%5CUSA%5C650GB%5C100%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-01-30 | [`clackamas.edu`](https://google.com/search?q=clackamas.edu) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-01-30 | [`MA Engineering`](https://google.com/search?q=MA+Engineering) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2024-01-30 | [`TECHNICA - HACKED AND MORE THEN 300 GB DATA LEAKED!`](https://google.com/search?q=TECHNICA+-+HACKED+AND+MORE+THEN+300+GB+DATA+LEAKED%21) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2024-01-29 | [`https://www.samuel.co.id/`](https://google.com/search?q=https%3A%2F%2Fwww.samuel.co.id%2F) | [trigona](https://ransomwatch.telemetry.ltd/#/profiles?id=trigona) |
