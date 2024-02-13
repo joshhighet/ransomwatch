@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-02-13 | [`YKP LTDA<www.ykp.com.br >`](https://google.com/search?q=YKP+LTDA%3Cwww.ykp.com.br+%3E) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-02-13 | [`elandenergy.com         Eland Energy`](https://google.com/search?q=elandenergy.com+++++++++Eland+Energy) | [alphalocker](https://ransomwatch.telemetry.ltd/#/profiles?id=alphalocker) |
 | 2024-02-12 | [`garonproducts.com`](https://google.com/search?q=garonproducts.com) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
 | 2024-02-12 | [`http://antunovich.com`](https://google.com/search?q=http%3A%2F%2Fantunovich.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-02-12 | [`tecasrl.it`](https://google.com/search?q=tecasrl.it) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-01-30 | [`TECHNICA - HACKED AND MORE THEN 300 GB DATA LEAKED!`](https://google.com/search?q=TECHNICA+-+HACKED+AND+MORE+THEN+300+GB+DATA+LEAKED%21) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2024-01-29 | [`https://www.samuel.co.id/`](https://google.com/search?q=https%3A%2F%2Fwww.samuel.co.id%2F) | [trigona](https://ransomwatch.telemetry.ltd/#/profiles?id=trigona) |
 | 2024-01-29 | [`https://www.pfmgreen.com/`](https://google.com/search?q=https%3A%2F%2Fwww.pfmgreen.com%2F) | [trigona](https://ransomwatch.telemetry.ltd/#/profiles?id=trigona) |
-| 2024-01-29 | [`https://www.fertilitynorth.com.au/`](https://google.com/search?q=https%3A%2F%2Fwww.fertilitynorth.com.au%2F) | [trigona](https://ransomwatch.telemetry.ltd/#/profiles?id=trigona) |
-| 2024-01-29 | [`https://www.vision-plast.com/`](https://google.com/search?q=https%3A%2F%2Fwww.vision-plast.com%2F) | [trigona](https://ransomwatch.telemetry.ltd/#/profiles?id=trigona) |
