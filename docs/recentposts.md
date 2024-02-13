@@ -4,6 +4,13 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-02-13 | [`Barber Emerson`](https://google.com/search?q=Barber+Emerson) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2024-02-13 | [`Constantia FFP`](https://google.com/search?q=Constantia+FFP) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2024-02-13 | [`Patrizia Pepe`](https://google.com/search?q=Patrizia+Pepe) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2024-02-13 | [`BTL`](https://google.com/search?q=BTL) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2024-02-13 | [`Global Rescue`](https://google.com/search?q=Global+Rescue) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2024-02-13 | [`Sanford, Pierson, Thone &amp; Strean`](https://google.com/search?q=Sanford%2C+Pierson%2C+Thone+%26amp%3B+Strean) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2024-02-13 | [`Leonard’s Syrups`](https://google.com/search?q=Leonard%E2%80%99s+Syrups) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-02-13 | [`motilaloswal.com`](https://google.com/search?q=motilaloswal.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-13 | [`rajawali.com`](https://google.com/search?q=rajawali.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-13 | [`Communication Federal Credit Union`](https://google.com/search?q=Communication+Federal+Credit+Union) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
@@ -197,10 +204,3 @@ _last `200` posts_
 | 2024-01-31 | [`Galaxy Fireworks, Inc`](https://google.com/search?q=Galaxy+Fireworks%2C+Inc) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2024-01-31 | [`SportsMEDIA Technology`](https://google.com/search?q=SportsMEDIA+Technology) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2024-01-31 | [`LeClair Group`](https://google.com/search?q=LeClair+Group) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2024-01-31 | [`Sefin`](https://google.com/search?q=Sefin) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2024-01-31 | [`http://www.northhill.org`](https://google.com/search?q=http%3A%2F%2Fwww.northhill.org) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
-| 2024-01-31 | [`sahchicago.org`](https://google.com/search?q=sahchicago.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-01-31 | [`mrm.com.mx`](https://google.com/search?q=mrm.com.mx) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-01-31 | [`VVD Elettrotecnica Srl`](https://google.com/search?q=VVD+Elettrotecnica+Srl) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2024-01-31 | [`Séquano`](https://google.com/search?q=S%C3%A9quano) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2024-01-31 | [`Meag Va-system AB`](https://google.com/search?q=Meag+Va-system+AB) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
