@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-02-13 | [`motilaloswal.com`](https://google.com/search?q=motilaloswal.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-13 | [`rajawali.com`](https://google.com/search?q=rajawali.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-13 | [`Communication Federal Credit Union`](https://google.com/search?q=Communication+Federal+Credit+Union) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-02-13 | [`universalservicesms.com`](https://google.com/search?q=universalservicesms.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-01-31 | [`VVD Elettrotecnica Srl`](https://google.com/search?q=VVD+Elettrotecnica+Srl) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2024-01-31 | [`Séquano`](https://google.com/search?q=S%C3%A9quano) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2024-01-31 | [`Meag Va-system AB`](https://google.com/search?q=Meag+Va-system+AB) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2024-01-31 | [`Geographe`](https://google.com/search?q=Geographe) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
