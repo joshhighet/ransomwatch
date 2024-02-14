@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-02-14 | [`vanwingerden.com`](https://google.com/search?q=vanwingerden.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
 | 2024-02-14 | [`kabat.pl`](https://google.com/search?q=kabat.pl) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-14 | [`Sindicato de Enfermería (SATSE)`](https://google.com/search?q=Sindicato+de+Enfermer%C3%ADa+%28SATSE%29) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-02-14 | [`wsnelson.com`](https://google.com/search?q=wsnelson.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-02-01 | [`Borah Goldstein Alts chuler Nahins & Goid el`](https://google.com/search?q=Borah+Goldstein+Alts+chuler+Nahins+%26+Goid+el) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-02-01 | [`etsolutions.com.mx`](https://google.com/search?q=etsolutions.com.mx) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
 | 2024-02-01 | [`taloninternational.com`](https://google.com/search?q=taloninternational.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-02-01 | [`bandcllp.com`](https://google.com/search?q=bandcllp.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
