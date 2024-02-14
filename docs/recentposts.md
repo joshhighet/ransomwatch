@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-02-14 | [`wsnelson.com`](https://google.com/search?q=wsnelson.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-14 | [`fultoncountyga.gov`](https://google.com/search?q=fultoncountyga.gov) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-14 | [`UNIFER`](https://google.com/search?q=UNIFER) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2024-02-14 | [`Institutional Casework, Inc`](https://google.com/search?q=Institutional+Casework%2C+Inc) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-02-01 | [`bandcllp.com`](https://google.com/search?q=bandcllp.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-01 | [`Southwark Council`](https://google.com/search?q=Southwark+Council) | [meow](https://ransomwatch.telemetry.ltd/#/profiles?id=meow) |
 | 2024-02-01 | [`Robert D. Clements Jr Law Group, LLLP`](https://google.com/search?q=Robert+D.+Clements+Jr+Law+Group%2C+LLLP) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2024-02-01 | [`CNPC Peru S.A.`](https://google.com/search?q=CNPC+Peru+S.A.) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
