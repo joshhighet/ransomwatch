@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-02-15 | [`ASA Electronics [2.7 TB]`](https://google.com/search?q=ASA+Electronics+%5B2.7+TB%5D) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2024-02-14 | [`studiogalbusera.com`](https://google.com/search?q=studiogalbusera.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-14 | [`Nekoosa School Distr ict`](https://google.com/search?q=Nekoosa+School+Distr+ict) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-02-14 | [`https://www.americamovil.com/`](https://google.com/search?q=https%3A%2F%2Fwww.americamovil.com%2F) | [trigona](https://ransomwatch.telemetry.ltd/#/profiles?id=trigona) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-02-01 | [`OSINT Service`](https://google.com/search?q=OSINT+Service) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
 | 2024-02-01 | [`Data Broking Service`](https://google.com/search?q=Data+Broking+Service) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
 | 2024-02-01 | [`gatesshields.com`](https://google.com/search?q=gatesshields.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-02-01 | [`stemcor.com`](https://google.com/search?q=stemcor.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
