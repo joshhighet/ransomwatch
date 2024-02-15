@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-02-15 | [`Asam`](https://google.com/search?q=Asam) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-02-15 | [`Advantage Orthopedic and Sports Medicine Clinic`](https://google.com/search?q=Advantage+Orthopedic+and+Sports+Medicine+Clinic) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-02-15 | [`kaleedscpa.com`](https://google.com/search?q=kaleedscpa.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-02-15 | [`conseguros.com.gt`](https://google.com/search?q=conseguros.com.gt) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-02-03 | [`Associates Family Dentistry.`](https://google.com/search?q=Associates+Family+Dentistry.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-02-03 | [`pbwtulsa.com`](https://google.com/search?q=pbwtulsa.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-02 | [`Digitel Venezuela`](https://google.com/search?q=Digitel+Venezuela) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
-| 2024-02-02 | [`Thomas LLP`](https://google.com/search?q=Thomas+LLP) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
