@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-02-15 | [`Pierce`](https://google.com/search?q=Pierce) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-02-15 | [`von Hagen`](https://google.com/search?q=von+Hagen) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-02-15 | [`SilverLining`](https://google.com/search?q=SilverLining) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-02-15 | [`Onclusive`](https://google.com/search?q=Onclusive) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-02-05 | [`GRTC Transit System`](https://google.com/search?q=GRTC+Transit+System) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-02-05 | [`ultraflexx.com`](https://google.com/search?q=ultraflexx.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-05 | [`tgestiona.br`](https://google.com/search?q=tgestiona.br) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-02-05 | [`semesco.com`](https://google.com/search?q=semesco.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
