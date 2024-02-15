@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-02-15 | [`kaleedscpa.com`](https://google.com/search?q=kaleedscpa.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
+| 2024-02-15 | [`conseguros.com.gt`](https://google.com/search?q=conseguros.com.gt) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
+| 2024-02-15 | [`Rush Energy Services Inc [Time's up]`](https://google.com/search?q=Rush+Energy+Services+Inc+%5BTime%27s+up%5D) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2024-02-15 | [`ASP Basilicata`](https://google.com/search?q=ASP+Basilicata) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2024-02-15 | [`pradiergranulats.fr`](https://google.com/search?q=pradiergranulats.fr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-15 | [`sitrack.com`](https://google.com/search?q=sitrack.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2024-02-02 | [`Digitel Venezuela`](https://google.com/search?q=Digitel+Venezuela) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2024-02-02 | [`Thomas LLP`](https://google.com/search?q=Thomas+LLP) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-02-02 | [`Chaney, Couch, Callaway, Carter and Associates Family Dentistry.`](https://google.com/search?q=Chaney%2C+Couch%2C+Callaway%2C+Carter+and+Associates+Family+Dentistry.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2024-02-02 | [`manitou-group.com`](https://google.com/search?q=manitou-group.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-02-02 | [`lexcaribbean.com`](https://google.com/search?q=lexcaribbean.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-02-02 | [`Law Office of Michael H Joseph`](https://google.com/search?q=Law+Office+of+Michael+H+Joseph) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
