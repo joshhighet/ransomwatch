@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-02-16 | [`Ribe-Groupe`](https://google.com/search?q=Ribe-Groupe) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
+| 2024-02-16 | [`theclosingagent.com`](https://google.com/search?q=theclosingagent.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-16 | [`Griffin Dewatering`](https://google.com/search?q=Griffin+Dewatering) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-02-16 | [`St. Johns River Water Management District`](https://google.com/search?q=St.+Johns+River+Water+Management+District) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-02-15 | [`Pierce`](https://google.com/search?q=Pierce) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-02-05 | [`davis-french-associates.co.uk`](https://google.com/search?q=davis-french-associates.co.uk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-05 | [`VCS Observation`](https://google.com/search?q=VCS+Observation) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-02-05 | [`noe.wifi.at`](https://google.com/search?q=noe.wifi.at) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-02-05 | [`ksa-architecture.com`](https://google.com/search?q=ksa-architecture.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-02-05 | [`GRTC Transit System`](https://google.com/search?q=GRTC+Transit+System) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
