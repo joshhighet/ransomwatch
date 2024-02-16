@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-02-16 | [`Prudential Financial`](https://google.com/search?q=Prudential+Financial) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
+| 2024-02-16 | [`LoanDepot`](https://google.com/search?q=LoanDepot) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2024-02-16 | [`The Chas. E. Phipps`](https://google.com/search?q=The+Chas.+E.+Phipps) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2024-02-16 | [`Réseau Ribé`](https://google.com/search?q=R%C3%A9seau+Rib%C3%A9) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-02-16 | [`BRAM Auto Group`](https://google.com/search?q=BRAM+Auto+Group) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-02-05 | [`Hannon Transport`](https://google.com/search?q=Hannon+Transport) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-02-05 | [`Greenwich Leisure`](https://google.com/search?q=Greenwich+Leisure) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-02-05 | [`Douglas County Libraries`](https://google.com/search?q=Douglas+County+Libraries) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-02-05 | [`Albert Bartlett`](https://google.com/search?q=Albert+Bartlett) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-02-05 | [`Asecos`](https://google.com/search?q=Asecos) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
