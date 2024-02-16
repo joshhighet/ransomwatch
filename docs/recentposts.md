@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-02-16 | [`tormetal.cl`](https://google.com/search?q=tormetal.cl) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2024-02-16 | [`spaldingssd.com`](https://google.com/search?q=spaldingssd.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-16 | [`Concello de Teo`](https://google.com/search?q=Concello+de+Teo) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-02-16 | [`Ribe-Groupe`](https://google.com/search?q=Ribe-Groupe) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-02-16 | [`theclosingagent.com`](https://google.com/search?q=theclosingagent.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-02-05 | [`Vail-Summit Orthopaedics & Neurosurgery (VSON)`](https://google.com/search?q=Vail-Summit+Orthopaedics+%26+Neurosurgery+%28VSON%29) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2024-02-05 | [`http://tobaccofreekids.org`](https://google.com/search?q=http%3A%2F%2Ftobaccofreekids.org) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-02-05 | [`hutchpaving.com`](https://google.com/search?q=hutchpaving.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-02-05 | [`davis-french-associates.co.uk`](https://google.com/search?q=davis-french-associates.co.uk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-02-05 | [`VCS Observation`](https://google.com/search?q=VCS+Observation) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
