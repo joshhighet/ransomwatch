@@ -4,6 +4,14 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-02-17 | [`ACS`](https://google.com/search?q=ACS) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
+| 2024-02-17 | [`Greater Napanee`](https://google.com/search?q=Greater+Napanee) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
+| 2024-02-17 | [`Tiete Automobile`](https://google.com/search?q=Tiete+Automobile) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
+| 2024-02-17 | [`Voice Technologies`](https://google.com/search?q=Voice+Technologies) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
+| 2024-02-17 | [`Aftrp`](https://google.com/search?q=Aftrp) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
+| 2024-02-17 | [`Chicago Zoological Society`](https://google.com/search?q=Chicago+Zoological+Society) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
+| 2024-02-17 | [`BS&B Safety Systems L.L.C`](https://google.com/search?q=BS%26B+Safety+Systems+L.L.C) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
+| 2024-02-17 | [`Wapiti Energy`](https://google.com/search?q=Wapiti+Energy) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-02-17 | [`PSI`](https://google.com/search?q=PSI) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-02-17 | [`CP Communications`](https://google.com/search?q=CP+Communications) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-02-16 | [`Prudential Financial`](https://google.com/search?q=Prudential+Financial) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -196,11 +204,3 @@ _last `200` posts_
 | 2024-02-06 | [`gocco.com\$937.9M\Spain\136GB\&lt;1%DISCLOSED`](https://google.com/search?q=gocco.com%5C%24937.9M%5CSpain%5C136GB%5C%26lt%3B1%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-02-06 | [`spbglobal.com\$81.4M\Spain\706GB\&lt;1%DISCLOSED`](https://google.com/search?q=spbglobal.com%5C%2481.4M%5CSpain%5C706GB%5C%26lt%3B1%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-02-05 | [`Virgin Islands Lottery`](https://google.com/search?q=Virgin+Islands+Lottery) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-02-05 | [`Ready Mixed Concrete`](https://google.com/search?q=Ready+Mixed+Concrete) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-02-05 | [`Premier Facility Management`](https://google.com/search?q=Premier+Facility+Management) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-02-05 | [`Perry-McCall Construction`](https://google.com/search?q=Perry-McCall+Construction) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-02-05 | [`Northeastern Sheet Metal`](https://google.com/search?q=Northeastern+Sheet+Metal) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-02-05 | [`McMillan Pazdan Smith`](https://google.com/search?q=McMillan+Pazdan+Smith) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-02-05 | [`Mason Construction`](https://google.com/search?q=Mason+Construction) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-02-05 | [`Leaders Staffing`](https://google.com/search?q=Leaders+Staffing) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-02-05 | [`Hannon Transport`](https://google.com/search?q=Hannon+Transport) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
