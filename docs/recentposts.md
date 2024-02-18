@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-02-18 | [`carlfischer.com`](https://google.com/search?q=carlfischer.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-18 | [`Bimbo Bakeries`](https://google.com/search?q=Bimbo+Bakeries) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2024-02-18 | [`bucher-strauss.ch`](https://google.com/search?q=bucher-strauss.ch) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-18 | [`VSP Dental`](https://google.com/search?q=VSP+Dental) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-02-06 | [`Sciba`](https://google.com/search?q=Sciba) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-02-06 | [`B Electric Inc`](https://google.com/search?q=B+Electric+Inc) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-02-06 | [`Hbl Cpas, P.C.`](https://google.com/search?q=Hbl+Cpas%2C+P.C.) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
-| 2024-02-06 | [`ArpuPlus`](https://google.com/search?q=ArpuPlus) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
