@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-02-18 | [`bucher-strauss.ch`](https://google.com/search?q=bucher-strauss.ch) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-18 | [`VSP Dental`](https://google.com/search?q=VSP+Dental) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2024-02-17 | [`ACS`](https://google.com/search?q=ACS) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-02-17 | [`Greater Napanee`](https://google.com/search?q=Greater+Napanee) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-02-06 | [`Hbl Cpas, P.C.`](https://google.com/search?q=Hbl+Cpas%2C+P.C.) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2024-02-06 | [`ArpuPlus`](https://google.com/search?q=ArpuPlus) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2024-02-06 | [`gocco.com\$937.9M\Spain\136GB\&lt;1%DISCLOSED`](https://google.com/search?q=gocco.com%5C%24937.9M%5CSpain%5C136GB%5C%26lt%3B1%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2024-02-06 | [`spbglobal.com\$81.4M\Spain\706GB\&lt;1%DISCLOSED`](https://google.com/search?q=spbglobal.com%5C%2481.4M%5CSpain%5C706GB%5C%26lt%3B1%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
