@@ -1348,3 +1348,14 @@ def ransomhub():
         errlog('ransomhub: ' + 'parsing fail')
     for post in posts:
         appender(post, 'ransomhub')
+
+def mogilevich():
+    stdlog('parser: ' + 'mogilevich')
+    parser = '''
+    grep '<h3>' source/mogilevich-*.html -A 1 | grep 'style="color: white;' | cut -d '"' -f 2
+    '''
+    posts = runshellcmd(parser)
+    if len(posts) == 1:
+        errlog('mogilevich: ' + 'parsing fail')
+    for post in posts:
+        appender(post, 'mogilevich')

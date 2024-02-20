@@ -5286,5 +5286,57 @@
             }
         ],
         "profile": []
+    },
+    {
+        "name": "mogilevich",
+        "captcha": false,
+        "parser": true,
+        "javascript_render": false,
+        "meta": null,
+        "locations": [
+            {
+                "fqdn": "dkgn45pinr7nwvdaehemcrpgcjqf4fooit3c4gjw6dhzrp443ctvnoad.onion",
+                "title": "Mogilevich | Blog | Leaks",
+                "version": 3,
+                "slug": "http://dkgn45pinr7nwvdaehemcrpgcjqf4fooit3c4gjw6dhzrp443ctvnoad.onion/leaks.html",
+                "available": true,
+                "updated": "2024-02-21 10:33:59.784410",
+                "lastscrape": "2024-02-21 10:33:59.784403",
+                "enabled": true
+            }
+        ],
+        "profile": [
+            "https://t.me/MogilevichRansom"
+        ]
+    },
+    {
+        "name": "trisec_cyberoutlaw",
+        "captcha": false,
+        "parser": false,
+        "javascript_render": false,
+        "meta": null,
+        "locations": [
+            {
+                "fqdn": "pkk4gbz7lsbgeja6s6iwsan2ce364sqioici65swwt65uhicke65uyid.onion",
+                "title": null,
+                "version": 3,
+                "slug": "http://pkk4gbz7lsbgeja6s6iwsan2ce364sqioici65swwt65uhicke65uyid.onion",
+                "available": false,
+                "updated": null,
+                "lastscrape": "2021-05-01 00:00:00.000000",
+                "enabled": true
+            },
+            {
+                "fqdn": "orfc3joknhrzscdbuxajypgrvlcawtuagbj7f44ugbosuvavg3dc3zid.onion",
+                "title": null,
+                "version": 3,
+                "slug": "http://orfc3joknhrzscdbuxajypgrvlcawtuagbj7f44ugbosuvavg3dc3zid.onion",
+                "available": false,
+                "updated": null,
+                "lastscrape": "2021-05-01 00:00:00.000000",
+                "enabled": true
+            }
+        ],
+        "profile": []
     }
 ]
