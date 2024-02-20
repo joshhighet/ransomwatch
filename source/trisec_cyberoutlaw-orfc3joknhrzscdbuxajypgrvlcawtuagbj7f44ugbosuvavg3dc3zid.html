@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Trisec - cyberoutlaw</title>
+<style>
+    body {
+        background-color: #0e0e0e;
+        color: #ff0000;
+        font-family: 'Courier New', Courier, monospace;
+        margin: 0;
+        padding: 0;
+    }
+    .container {
+        max-width: 800px;
+        margin: 50px auto;
+        padding: 20px;
+        border: 3px solid #ff0000;
+        background-color: #0e0e0e;
+        box-shadow: 0px 0px 20px 0px rgba(255,0,0,0.5);
+    }
+    h1 {
+        text-align: center;
+        font-size: 50px;
+        letter-spacing: 5px;
+        text-transform: uppercase;
+        color: #ff0000;
+        text-shadow: 0 0 5px #ff0000, 0 0 10px #ff0000, 0 0 20px #ff0000;
+    }
+    p {
+        font-size: 20px;
+        line-height: 1.6;
+        text-align: justify;
+    }
+    .mysterious-image {
+        display: block;
+        margin: 20px auto;
+        max-width: 100%;
+        filter: grayscale(100%);
+    }
+    .btn {
+        display: inline-block;
+        padding: 10px 20px;
+        background-color: #ff0000;
+        color: #fff;
+        text-decoration: none;
+        font-size: 20px;
+        margin-top: 20px;
+        border: 2px solid #fff;
+        border-radius: 5px;
+        transition: all 0.3s ease;
+        text-shadow: 0 0 5px #ff0000;
+    }
+    .btn:hover {
+        background-color: #111;
+        color: #ff0000;
+        border-color: #ff0000;
+        transform: scale(1.1);
+    }
+    .glow {
+        animation: glow 1.5s ease-in-out infinite alternate;
+    }
+    @keyframes glow {
+        from {
+            text-shadow: 0 0 5px #ff0000, 0 0 10px #ff0000, 0 0 15px #ff0000;
+        }
+        to {
+            text-shadow: 0 0 10px #ff0000, 0 0 15px #ff0000, 0 0 20px #ff0000;
+        }
+    }
+    .small-btn {
+        display: inline-block;
+        padding: 5px 10px;
+        background-color: #800000;
+        color: #fff;
+        text-decoration: none;
+        font-size: 16px;
+        margin-top: 10px;
+        border: 2px solid #fff;
+        border-radius: 3px;
+        transition: all 0.3s ease;
+    }
+    .small-btn:hover {
+        background-color: #600000;
+        border-color: #ff0000;
+    }
+</style>
+</head>
+<body>
+
+<div class="container">
+    <h1>Trisec - cyberoutlaw</h1>
+      <p>We are a cybercrime group that engages in a diverse range of activities, including both state-sponsored and financially motivated attacks.</p>
+    <img class="mysterious-image" src="apt.png" alt="tsv">
+    <p>We have been working on Operation Pied Piper of Hamelin for months now. #infecttheworld</p>
+    <p>Infinity-CyberB!tch-Default</p>
+    <p class="message">Can you find the secret <a href="message.html">message</a> hehe.</p>
+    <a href="hamelin.html" class="btn">Operation Pied Piper of Hamelin</a>
+<a href="victim.html" class="small-btn glow">Victim list</a>
+</div>
+
+</body>
+</html>

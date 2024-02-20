@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-02-21 | [`compressionleasing.com`](https://google.com/search?q=compressionleasing.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
+| 2024-02-21 | [`westward360.com`](https://google.com/search?q=westward360.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
+| 2024-02-20 | [`https://www.infinitiusa.com`](https://google.com/search?q=https%3A%2F%2Fwww.infinitiusa.com) | [mogilevich](https://ransomwatch.telemetry.ltd/#/profiles?id=mogilevich) |
 | 2024-02-20 | [`River Delta Unified School District`](https://google.com/search?q=River+Delta+Unified+School+District) | [meow](https://ransomwatch.telemetry.ltd/#/profiles?id=meow) |
 | 2024-02-20 | [`Raocala`](https://google.com/search?q=Raocala) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2024-02-20 | [`advancedprosolutions.com\$5M\USA\54GB\&lt;1%DISCLOSED`](https://google.com/search?q=advancedprosolutions.com%5C%245M%5CUSA%5C54GB%5C%26lt%3B1%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2024-02-10 | [`mranet.org`](https://google.com/search?q=mranet.org) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
 | 2024-02-10 | [`aisg-online.com`](https://google.com/search?q=aisg-online.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-10 | [`maddockhenson`](https://google.com/search?q=maddockhenson) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2024-02-10 | [`Pacific American Fish Company Inc.`](https://google.com/search?q=Pacific+American+Fish+Company+Inc.) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2024-02-10 | [`www.wannagocloud.com`](https://google.com/search?q=www.wannagocloud.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
-| 2024-02-10 | [`zivilgeometer.at`](https://google.com/search?q=zivilgeometer.at) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
