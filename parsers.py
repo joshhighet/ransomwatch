@@ -657,13 +657,26 @@ def cheers():
 
 def lockbit3():
     stdlog('parser: ' + 'lockbit3')
+    # grep '<div class="post-title">' source/lockbit3-*.html -C 1 --no-filename | grep '</div>' | cut -d '<' -f 1 | sed -e 's/^ *//g' -e 's/[[:space:]]*$//' | sort --uniq | tr '[:upper:]' '[:lower:]'
     parser = '''
-    grep '<div class="post-title">' source/lockbit3-*.html -C 1 --no-filename | grep '</div>' | cut -d '<' -f 1 | sed -e 's/^ *//g' -e 's/[[:space:]]*$//' | sort --uniq | tr '[:upper:]' '[:lower:]'
+    grep --no-filename '<div class="post-title">' source/lockbit3-*.html | cut -d '>' -f 2 | cut -d '<' -f 1 | sed -e 's/^ *//g' -e 's/[[:space:]]*$//'
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
         errlog('lockbit3: ' + 'parsing fail')
     for post in posts:
+        appender(post, 'lockbit3')
+        
+def lockbit3fs():
+    stdlog('parser: ' + 'lockbit3fs')
+    parser = '''
+    grep --no-filename '<tr><td class="link">' source/lockbit3_fs-*.html | cut -d '"' -f 6
+    '''
+    posts = runshellcmd(parser)
+    if len(posts) == 1:
+        errlog('lockbit3fs: ' + 'parsing fail')
+    for post in posts:
+        # note: appends rec as lb3 (excludes fs)
         appender(post, 'lockbit3')
 
 def yanluowang():
