@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-02-20 | [`advancedprosolutions.com\$5M\USA\54GB\&lt;1%DISCLOSED`](https://google.com/search?q=advancedprosolutions.com%5C%245M%5CUSA%5C54GB%5C%26lt%3B1%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-02-20 | [`Finlay Screening & Crushing Systems`](https://google.com/search?q=Finlay+Screening+%26+Crushing+Systems) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-02-20 | [`Closure`](https://google.com/search?q=Closure) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-20 | [`Lockbit Crypto`](https://google.com/search?q=Lockbit+Crypto) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-02-10 | [`zivilgeometer.at`](https://google.com/search?q=zivilgeometer.at) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-02-09 | [`CTSI`](https://google.com/search?q=CTSI) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-02-09 | [`J.P. Original`](https://google.com/search?q=J.P.+Original) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2024-02-09 | [`TechNet Kronoberg AB`](https://google.com/search?q=TechNet+Kronoberg+AB) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
