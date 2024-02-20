@@ -4,6 +4,29 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-02-20 | [`Finlay Screening & Crushing Systems`](https://google.com/search?q=Finlay+Screening+%26+Crushing+Systems) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
+| 2024-02-20 | [`Closure`](https://google.com/search?q=Closure) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2024-02-20 | [`Lockbit Crypto`](https://google.com/search?q=Lockbit+Crypto) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2024-02-20 | [`Secureworks`](https://google.com/search?q=Secureworks) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2024-02-20 | [`Lockbit's new encryptor`](https://google.com/search?q=Lockbit%27s+new+encryptor) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2024-02-20 | [`Account Closures`](https://google.com/search?q=Account+Closures) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2024-02-20 | [`Affiliate Leaks`](https://google.com/search?q=Affiliate+Leaks) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2024-02-20 | [`Prodaft`](https://google.com/search?q=Prodaft) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2024-02-20 | [`Lockbit's Hackers exposed`](https://google.com/search?q=Lockbit%27s+Hackers+exposed) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2024-02-20 | [`Affiliate infrastructure down`](https://google.com/search?q=Affiliate+infrastructure+down) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2024-02-20 | [`StealBit down!`](https://google.com/search?q=StealBit+down%21) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2024-02-20 | [`Cyber Choices`](https://google.com/search?q=Cyber+Choices) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2024-02-20 | [`Report Cyber Attacks!`](https://google.com/search?q=Report+Cyber+Attacks%21) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2024-02-20 | [`Activity in Ukraine`](https://google.com/search?q=Activity+in+Ukraine) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2024-02-20 | [`Arrest in Poland`](https://google.com/search?q=Arrest+in+Poland) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2024-02-20 | [`Sanctions`](https://google.com/search?q=Sanctions) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2024-02-20 | [`US Indictments`](https://google.com/search?q=US+Indictments) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2024-02-20 | [`Recovery Tool`](https://google.com/search?q=Recovery+Tool) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2024-02-20 | [`Lockbit Decryption Keys`](https://google.com/search?q=Lockbit+Decryption+Keys) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2024-02-20 | [`Who is LockbitSupp?`](https://google.com/search?q=Who+is+LockbitSupp%3F) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2024-02-20 | [`Lockbitsupp`](https://google.com/search?q=Lockbitsupp) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2024-02-20 | [`LB Backend Leaks`](https://google.com/search?q=LB+Backend+Leaks) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2024-02-20 | [`Press Releases`](https://google.com/search?q=Press+Releases) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-19 | [`http://haesungds.com`](https://google.com/search?q=http%3A%2F%2Fhaesungds.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-02-19 | [`http://yanfeng.com`](https://google.com/search?q=http%3A%2F%2Fyanfeng.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-02-19 | [`http://www.warepet.com`](https://google.com/search?q=http%3A%2F%2Fwww.warepet.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
@@ -181,26 +204,3 @@ _last `200` posts_
 | 2024-02-09 | [`CTSI`](https://google.com/search?q=CTSI) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-02-09 | [`J.P. Original`](https://google.com/search?q=J.P.+Original) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-02-09 | [`TechNet Kronoberg AB`](https://google.com/search?q=TechNet+Kronoberg+AB) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2024-02-09 | [`magi-erp.com`](https://google.com/search?q=magi-erp.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-02-09 | [`Grace Lutheran Foundation`](https://google.com/search?q=Grace+Lutheran+Foundation) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2024-02-09 | [`Capozzi Adler, P.C.`](https://google.com/search?q=Capozzi+Adler%2C+P.C.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2024-02-09 | [`Drost Kivlahan McMahon and O'Connor LLC`](https://google.com/search?q=Drost+Kivlahan+McMahon+and+O%27Connor+LLC) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2024-02-09 | [`alfiras.com`](https://google.com/search?q=alfiras.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-02-09 | [`jaygroup.com\$62.2M\USA\270GB\100%DISCLOSED`](https://google.com/search?q=jaygroup.com%5C%2462.2M%5CUSA%5C270GB%5C100%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2024-02-09 | [`oogp.com\$11.4M\USA\63GB\100%DISCLOSED`](https://google.com/search?q=oogp.com%5C%2411.4M%5CUSA%5C63GB%5C100%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2024-02-09 | [`soken-ce.co.jp`](https://google.com/search?q=soken-ce.co.jp) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-02-09 | [`maximumresearch.com`](https://google.com/search?q=maximumresearch.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-02-09 | [`indoramaventures.com`](https://google.com/search?q=indoramaventures.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-02-09 | [`cdtmedicus.pl`](https://google.com/search?q=cdtmedicus.pl) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-02-09 | [`verdimed.es`](https://google.com/search?q=verdimed.es) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-02-09 | [`grupomoraval.com`](https://google.com/search?q=grupomoraval.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-02-09 | [`Willis Lease Finance Corporation`](https://google.com/search?q=Willis+Lease+Finance+Corporation) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2024-02-09 | [`northseayachtsupport.nl`](https://google.com/search?q=northseayachtsupport.nl) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-02-09 | [`seymourct.org`](https://google.com/search?q=seymourct.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-02-09 | [`moneyadvicetrust.org`](https://google.com/search?q=moneyadvicetrust.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-02-09 | [`bsaarchitects.com`](https://google.com/search?q=bsaarchitects.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-02-09 | [`posen.com`](https://google.com/search?q=posen.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
-| 2024-02-09 | [`macqueeneq.com`](https://google.com/search?q=macqueeneq.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-02-09 | [`parksite.com\$452.7M\USA\170GB\&lt;1%DISCLOSED`](https://google.com/search?q=parksite.com%5C%24452.7M%5CUSA%5C170GB%5C%26lt%3B1%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2024-02-09 | [`galbusera.it`](https://google.com/search?q=galbusera.it) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-02-08 | [`water.cc`](https://google.com/search?q=water.cc) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
