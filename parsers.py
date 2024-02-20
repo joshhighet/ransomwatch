@@ -130,7 +130,7 @@ def lockbit2():
     stdlog('parser: ' + 'lockbit2')
     # egrep -h -A1 'class="post-title"' source/lockbit2-* | grep -v 'class="post-title"' | grep -v '\--' | cut -d'<' -f1 | tr -d ' '
     parser = '''
-    awk -v lines=2 '/post-title-block/ {for(i=lines;i;--i)getline; print $0 }' source/lockbit2-*.html | cut -d '<' -f1 | sed -e 's/^ *//g' -e 's/[[:space:]]*$//' | sort | uniq
+    awk -v lines=2 '/post-title-block/ {for(i=lines;i;--i)getline; print $0 }' source/lockbit2-*.html | cut -d '<' -f1 | sed -e 's/^ *//g' -e 's/[[:space:]]*$//' | sort | uniq | grep -v "\.\.\.$"
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
@@ -669,15 +669,15 @@ def lockbit3():
         
 def lockbit3fs():
     stdlog('parser: ' + 'lockbit3fs')
+    # a rather crude parser that tries to exclude based on existing indexed posts on leaksites to catch others
     parser = '''
-    grep --no-filename '<tr><td class="link">' source/lockbit3_fs-*.html | cut -d '"' -f 6
+    grep --no-filename '<tr><td class="link">' source/lockbit3_fs-*.html | cut -d '"' -f 6 | sort | uniq | grep -viFx "$(jq -r '.[] | select(.group_name == "lockbit2" or .group_name == "lockbit3") | .post_title | ascii_downcase' posts.json)"
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
-        errlog('lockbit3fs: ' + 'parsing fail')
+        errlog('lockbit3_fs: ' + 'parsing fail')
     for post in posts:
-        # note: appends rec as lb3 (excludes fs)
-        appender(post, 'lockbit3')
+        appender(post, 'lockbit3_fs')
 
 def yanluowang():
     stdlog('parser: ' + 'yanluowang')

@@ -296,5 +296,5 @@ if args.mode == 'parse':
     parsers.ransomblog_noname2()
     parsers.alphalocker()
     parsers.ransomhub()
-    #parsers.lockbit3fs()
+    parsers.lockbit3fs()
     stdlog('ransomwatch: ' + 'parse run complete')

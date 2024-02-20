@@ -3497,7 +3497,7 @@
         "captcha": false,
         "parser": false,
         "javascript_render": false,
-        "meta": null,
+        "meta": "fs=fileserver",
         "locations": [
             {
                 "fqdn": "lockbit7z2jwcskxpbokpemdxmltipntwlkmidcll2qirbu7ykg46eyd.onion",
