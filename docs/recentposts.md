@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-02-21 | [`[EN]`](https://google.com/search?q=%5BEN%5D) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-02-21 | [`compressionleasing.com`](https://google.com/search?q=compressionleasing.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
 | 2024-02-21 | [`westward360.com`](https://google.com/search?q=westward360.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
 | 2024-02-21 | [`doneff.com`](https://google.com/search?q=doneff.com) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-02-10 | [`Impact Energy Services`](https://google.com/search?q=Impact+Energy+Services) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-02-10 | [`Groupe Goyette`](https://google.com/search?q=Groupe+Goyette) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-02-10 | [`Dalmahoy Hotel & Country Club`](https://google.com/search?q=Dalmahoy+Hotel+%26+Country+Club) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2024-02-10 | [`Carespring Health Care`](https://google.com/search?q=Carespring+Health+Care) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
