@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-02-21 | [`HRTec Inc`](https://google.com/search?q=HRTec+Inc) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2024-02-21 | [`Marchassociates`](https://google.com/search?q=Marchassociates) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-02-21 | [`Austen Consultants`](https://google.com/search?q=Austen+Consultants) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2024-02-21 | [`[EN]`](https://google.com/search?q=%5BEN%5D) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-02-21 | [`compressionleasing.com`](https://google.com/search?q=compressionleasing.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-02-10 | [`Nastech`](https://google.com/search?q=Nastech) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-02-10 | [`Benchmark Management Group`](https://google.com/search?q=Benchmark+Management+Group) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-02-10 | [`SOPEM Tunisie`](https://google.com/search?q=SOPEM+Tunisie) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2024-02-10 | [`Impact Energy Services`](https://google.com/search?q=Impact+Energy+Services) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2024-02-10 | [`Groupe Goyette`](https://google.com/search?q=Groupe+Goyette) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
