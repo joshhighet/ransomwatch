@@ -6,6 +6,9 @@ _last `200` posts_
 |---|---|---|
 | 2024-02-21 | [`compressionleasing.com`](https://google.com/search?q=compressionleasing.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
 | 2024-02-21 | [`westward360.com`](https://google.com/search?q=westward360.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
+| 2024-02-21 | [`Helical Technology`](https://google.com/search?q=Helical+Technology) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2024-02-21 | [`Axel Johnson`](https://google.com/search?q=Axel+Johnson) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2024-02-21 | [`Acies Srl`](https://google.com/search?q=Acies+Srl) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2024-02-20 | [`https://www.infinitiusa.com`](https://google.com/search?q=https%3A%2F%2Fwww.infinitiusa.com) | [mogilevich](https://ransomwatch.telemetry.ltd/#/profiles?id=mogilevich) |
 | 2024-02-20 | [`River Delta Unified School District`](https://google.com/search?q=River+Delta+Unified+School+District) | [meow](https://ransomwatch.telemetry.ltd/#/profiles?id=meow) |
 | 2024-02-20 | [`Raocala`](https://google.com/search?q=Raocala) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2024-02-10 | [`Dalmahoy Hotel & Country Club`](https://google.com/search?q=Dalmahoy+Hotel+%26+Country+Club) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-02-10 | [`Carespring Health Care`](https://google.com/search?q=Carespring+Health+Care) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-02-10 | [`Avianor Aircraft`](https://google.com/search?q=Avianor+Aircraft) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2024-02-10 | [`mranet.org`](https://google.com/search?q=mranet.org) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
-| 2024-02-10 | [`aisg-online.com`](https://google.com/search?q=aisg-online.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-02-10 | [`maddockhenson`](https://google.com/search?q=maddockhenson) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
