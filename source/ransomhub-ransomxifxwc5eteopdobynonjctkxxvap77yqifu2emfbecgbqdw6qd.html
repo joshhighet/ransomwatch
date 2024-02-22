@@ -33,11 +33,11 @@
             
             <div class="timeline-item">
               <div class="card bg-base text-white border-0">
-                <div class="card-header py-2 bg-main countdown-date rounded-0 border-0">2024-02-25 12:00:00</div>
+                <div class="card-header py-2 bg-main countdown-date rounded-0 border-0">81 hours, 13 minutes and 15 seconds</div>
                 <div class="card-body">
                   <h5 class="card-title"><a href="/2ace45b0-3899-46a7-af7c-564b0745782b/">YKP LTDA&lt;www.ykp.com.br &gt;</a></h5>
                   <p class="card-text">
-                    Visits: 4094<br>Data Size: 150GB<br>Published: False<br>
+                    Visits: 4113<br>Data Size: 150GB<br>Published: False<br>
                   </p>
                 </div>
               </div>
@@ -52,4 +52,24 @@
         Google <a href="https://www.google.com/search?q=ransomhub%20ransomware" target="_blank">@ransomhub</a>
       </div>
     </div>
-    <script src="/static/js/countdown.min.js"></script></body>
+    <script src="/static/js/countdown.min.js"></script>
+    <script>
+      const countdownEls = document.querySelectorAll('.countdown-date');
+        countdownEls.forEach(function (el) {
+          if (el.innerHTML) {
+            const parsedDate = Date.parse(el.innerHTML);
+            if (parsedDate !== 0) {
+              countdown(
+                new Date(el.innerHTML),
+                function (ts) {
+                  el.innerHTML = ts.toString();
+                },
+                countdown.HOURS | countdown.MINUTES | countdown.SECONDS
+              );
+            }
+          }
+        });
+    </script>
+  
+
+</body>
