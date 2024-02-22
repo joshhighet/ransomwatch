@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-02-22 | [`Quik Pawn Shop`](https://google.com/search?q=Quik+Pawn+Shop) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-02-22 | [`mtmrobotics.com`](https://google.com/search?q=mtmrobotics.com) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
 | 2024-02-22 | [`abcor.com.au`](https://google.com/search?q=abcor.com.au) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
 | 2024-02-22 | [`PEER Consultants`](https://google.com/search?q=PEER+Consultants) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-02-12 | [`isspol.gov`](https://google.com/search?q=isspol.gov) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-12 | [`envie.org`](https://google.com/search?q=envie.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-12 | [`dienerprecisionpumps.com`](https://google.com/search?q=dienerprecisionpumps.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-02-12 | [`camarotto.it`](https://google.com/search?q=camarotto.it) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
