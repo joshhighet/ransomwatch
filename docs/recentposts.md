@@ -4,6 +4,12 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-02-22 | [`New York Law Firm with a National Presence`](https://google.com/search?q=New+York+Law+Firm+with+a+National+Presence) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2024-02-22 | [`Climatech Inc`](https://google.com/search?q=Climatech+Inc) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2024-02-22 | [`US Merchants`](https://google.com/search?q=US+Merchants) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2024-02-22 | [`Birchall Foodservice`](https://google.com/search?q=Birchall+Foodservice) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2024-02-22 | [`Dilweg`](https://google.com/search?q=Dilweg) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2024-02-22 | [`ZircoDATA`](https://google.com/search?q=ZircoDATA) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-02-22 | [`Worthen Industries [We're giving you one last chance to save your business]`](https://google.com/search?q=Worthen+Industries+%5BWe%27re+giving+you+one+last+chance+to+save+your+business%5D) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2024-02-21 | [`FR arrest warrants`](https://google.com/search?q=FR+arrest+warrants) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-21 | [`KHSS (You have 3 days)`](https://google.com/search?q=KHSS+%28You+have+3+days%29) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -198,9 +204,3 @@ _last `200` posts_
 | 2024-02-12 | [`parkhomeassist.co.uk`](https://google.com/search?q=parkhomeassist.co.uk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-12 | [`jacksonvillebeach.org`](https://google.com/search?q=jacksonvillebeach.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-12 | [`grotonschools.org`](https://google.com/search?q=grotonschools.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-02-12 | [`The Gainsborough Bath`](https://google.com/search?q=The+Gainsborough+Bath) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
-| 2024-02-12 | [`Kadac Australia`](https://google.com/search?q=Kadac+Australia) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
-| 2024-02-11 | [`LILI'S BROWNIES`](https://google.com/search?q=LILI%27S+BROWNIES) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2024-02-11 | [`Amoskeag Network Consulting Group LLC`](https://google.com/search?q=Amoskeag+Network+Consulting+Group+LLC) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
-| 2024-02-11 | [`O'Connor LLC`](https://google.com/search?q=O%27Connor+LLC) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2024-02-11 | [`lacolline-skincare.com`](https://google.com/search?q=lacolline-skincare.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
