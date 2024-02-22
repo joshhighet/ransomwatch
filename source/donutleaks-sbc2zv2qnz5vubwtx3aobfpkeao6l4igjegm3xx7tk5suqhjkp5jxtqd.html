@@ -137,7 +137,7 @@
                 <div class="box blog-box">
 			<h1 class="blog-name"></h1>
 		</div>
-		<div class="blog-cover cover">
+		<div class="blog-cover cover" style="transform: translate3d(0px, 0px, 0px);">
 			<img srcset="/content/images/size/w320/2023/11/d1.webp 320w,
               /content/images/size/w640/2023/11/d1.webp 640w,
               /content/images/size/w960/2023/11/d1.webp 960w,
@@ -340,4 +340,65 @@
 
 	</section>
 
-	<script type="text/javascript" src="/assets/js/script.js?v=0df020f26e"></script></body>
+	<script type="text/javascript" src="/assets/js/script.js?v=0df020f26e"></script>
+
+	
+
+	<script>
+window.onload = function () {
+    let portal = document.getElementById("ghost-portal-root");
+    const interval = setInterval(() => {
+        let frame = portal.querySelector('[title="portal-popup"]');
+        if (frame !== null) {
+            const styleElement = document.createElement("style");
+            styleElement.innerHTML = `.gh-portal-powered { display: none; }`;
+            frame.contentDocument.head.appendChild(styleElement);
+        } else {
+            frame = null
+        }
+    }, 300)
+}
+</script>
+
+<style>
+.search-wrapper {
+visibility:hidden;
+}
+
+.site-footer {
+visibility:hidden;
+}
+
+.copyright,
+.footer-social {
+visibility:hidden;
+}
+
+.copyright {
+visibility:hidden;
+}
+
+.copyright a {
+visibility:hidden;
+}
+
+.footer-social {
+visibility:hidden;
+}
+
+.footer-social-item {
+visibility:hidden;
+}
+
+.footer-nav .nav-list {
+visibility:hidden;
+}
+
+.footer-nav .menu-item {
+visibility:hidden;
+}
+</style>
+
+
+
+</body>
