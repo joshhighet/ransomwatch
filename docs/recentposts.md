@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-02-23 | [`ANDFLA SRL`](https://google.com/search?q=ANDFLA+SRL) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2024-02-23 | [`C and J Industries, Inc.`](https://google.com/search?q=C+and+J+Industries%2C+Inc.) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2024-02-22 | [`W???h?`](https://google.com/search?q=W%3F%3F%3Fh%3F) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-02-22 | [`http://unique-relations.at`](https://google.com/search?q=http%3A%2F%2Funique-relations.at) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-02-12 | [`vhprimary.com`](https://google.com/search?q=vhprimary.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-12 | [`sealco-leb.com`](https://google.com/search?q=sealco-leb.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-12 | [`paltertonprimary.co.uk`](https://google.com/search?q=paltertonprimary.co.uk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-02-12 | [`lyon.co.uk`](https://google.com/search?q=lyon.co.uk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
