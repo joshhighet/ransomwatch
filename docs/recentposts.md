@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-02-23 | [`H*********** *********y **********`](https://google.com/search?q=H%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A%2A%2Ay+%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-02-23 | [`APEX - apexspedition.de`](https://google.com/search?q=APEX+-+apexspedition.de) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2024-02-23 | [`ANDFLA SRL`](https://google.com/search?q=ANDFLA+SRL) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2024-02-23 | [`C and J Industries, Inc.`](https://google.com/search?q=C+and+J+Industries%2C+Inc.) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-02-12 | [`Allmetal Inc.`](https://google.com/search?q=Allmetal+Inc.) | [meow](https://ransomwatch.telemetry.ltd/#/profiles?id=meow) |
 | 2024-02-12 | [`Freedom Munitions`](https://google.com/search?q=Freedom+Munitions) | [meow](https://ransomwatch.telemetry.ltd/#/profiles?id=meow) |
 | 2024-02-12 | [`vhprimary.com`](https://google.com/search?q=vhprimary.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-02-12 | [`sealco-leb.com`](https://google.com/search?q=sealco-leb.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
