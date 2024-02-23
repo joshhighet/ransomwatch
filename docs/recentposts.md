@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-02-23 | [`IJM Corporation`](https://google.com/search?q=IJM+Corporation) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
+| 2024-02-23 | [`Family Health center`](https://google.com/search?q=Family+Health+center) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2024-02-23 | [`remkes.nl\$31.4M\Netherlands\190GB\&lt;1%DISCLOSED`](https://google.com/search?q=remkes.nl%5C%2431.4M%5CNetherlands%5C190GB%5C%26lt%3B1%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-02-23 | [`Rapid Granulator`](https://google.com/search?q=Rapid+Granulator) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2024-02-23 | [`Acorn`](https://google.com/search?q=Acorn) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-02-12 | [`textiles.org.tw`](https://google.com/search?q=textiles.org.tw) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-12 | [`silverairways.com`](https://google.com/search?q=silverairways.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-12 | [`plexustelerad.com`](https://google.com/search?q=plexustelerad.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-02-12 | [`fidcornelis.be`](https://google.com/search?q=fidcornelis.be) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-02-12 | [`cabc.com.ar`](https://google.com/search?q=cabc.com.ar) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
