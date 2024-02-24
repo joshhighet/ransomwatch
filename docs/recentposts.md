@@ -5,6 +5,7 @@ _last `200` posts_
 | date | title | group |
 |---|---|---|
 | 2024-02-25 | [`BM Catalysts    bmcatalysts.co.uk`](https://google.com/search?q=BM+Catalysts++++bmcatalysts.co.uk) | [alphalocker](https://ransomwatch.telemetry.ltd/#/profiles?id=alphalocker) |
+| 2024-02-24 | [`Wangkanai Group`](https://google.com/search?q=Wangkanai+Group) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2024-02-24 | [`nationaldentex.com`](https://google.com/search?q=nationaldentex.com) | [lockbit3new](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3new) |
 | 2024-02-24 | [`magierp.com`](https://google.com/search?q=magierp.com) | [lockbit3new](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3new) |
 | 2024-02-24 | [`fultoncountyga.gov`](https://google.com/search?q=fultoncountyga.gov) | [lockbit3new](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3new) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-02-13 | [`SOPEM`](https://google.com/search?q=SOPEM) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-02-13 | [`Satse`](https://google.com/search?q=Satse) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-02-13 | [`Sanok Rubber Company Spólka Akcyjna`](https://google.com/search?q=Sanok+Rubber+Company+Sp%C3%B3lka+Akcyjna) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2024-02-13 | [`YKP LTDA<www.ykp.com.br >`](https://google.com/search?q=YKP+LTDA%3Cwww.ykp.com.br+%3E) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
