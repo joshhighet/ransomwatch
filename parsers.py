@@ -1330,7 +1330,7 @@ def ransomblog_noname2():
 def alphalocker():
     stdlog('parser: ' + 'alphalocker')
     parser = '''
-    grep '^\s*<a href="blog_1-9">' source/alphalocker-*.html | cut -d '>' -f 2 | cut -d '<' -f 1
+    grep '<a href="blog_1-11"' source/alphalocker-*.html | cut -d '>' -f 2 | cut -d '<' -f 1 | grep -v Read
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
