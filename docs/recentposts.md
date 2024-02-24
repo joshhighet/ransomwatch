@@ -4,6 +4,14 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-02-25 | [`BM Catalysts    bmcatalysts.co.uk`](https://google.com/search?q=BM+Catalysts++++bmcatalysts.co.uk) | [alphalocker](https://ransomwatch.telemetry.ltd/#/profiles?id=alphalocker) |
+| 2024-02-24 | [`nationaldentex.com`](https://google.com/search?q=nationaldentex.com) | [lockbit3new](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3new) |
+| 2024-02-24 | [`magierp.com`](https://google.com/search?q=magierp.com) | [lockbit3new](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3new) |
+| 2024-02-24 | [`fultoncountyga.gov`](https://google.com/search?q=fultoncountyga.gov) | [lockbit3new](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3new) |
+| 2024-02-24 | [`fbi.gov`](https://google.com/search?q=fbi.gov) | [lockbit3new](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3new) |
+| 2024-02-24 | [`equilend.com`](https://google.com/search?q=equilend.com) | [lockbit3new](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3new) |
+| 2024-02-24 | [`crbgroup.com`](https://google.com/search?q=crbgroup.com) | [lockbit3new](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3new) |
+| 2024-02-24 | [`fbi.gov`](https://google.com/search?q=fbi.gov) | [lockbit3_fs](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3_fs) |
 | 2024-02-24 | [`http://gcherrera.com`](https://google.com/search?q=http%3A%2F%2Fgcherrera.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-02-24 | [`http://kinematica.ch`](https://google.com/search?q=http%3A%2F%2Fkinematica.ch) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-02-24 | [`Spine West`](https://google.com/search?q=Spine+West) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
@@ -196,11 +204,3 @@ _last `200` posts_
 | 2024-02-13 | [`Satse`](https://google.com/search?q=Satse) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-02-13 | [`Sanok Rubber Company Spólka Akcyjna`](https://google.com/search?q=Sanok+Rubber+Company+Sp%C3%B3lka+Akcyjna) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-02-13 | [`YKP LTDA<www.ykp.com.br >`](https://google.com/search?q=YKP+LTDA%3Cwww.ykp.com.br+%3E) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-02-13 | [`elandenergy.com         Eland Energy`](https://google.com/search?q=elandenergy.com+++++++++Eland+Energy) | [alphalocker](https://ransomwatch.telemetry.ltd/#/profiles?id=alphalocker) |
-| 2024-02-12 | [`garonproducts.com`](https://google.com/search?q=garonproducts.com) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
-| 2024-02-12 | [`http://antunovich.com`](https://google.com/search?q=http%3A%2F%2Fantunovich.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
-| 2024-02-12 | [`tecasrl.it`](https://google.com/search?q=tecasrl.it) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-02-12 | [`Rush Energy Services Inc [You have 48 hours]`](https://google.com/search?q=Rush+Energy+Services+Inc+%5BYou+have+48+hours%5D) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2024-02-12 | [`SERCIDE`](https://google.com/search?q=SERCIDE) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2024-02-12 | [`Modern Kitchens `](https://google.com/search?q=Modern+Kitchens+) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
-| 2024-02-12 | [`Lower Valley Energy, Inc.`](https://google.com/search?q=Lower+Valley+Energy%2C+Inc.) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
