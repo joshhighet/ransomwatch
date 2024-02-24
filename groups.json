@@ -3443,11 +3443,22 @@
                 "updated": "2024-02-24 23:25:53.329264",
                 "lastscrape": "2024-02-24 23:25:53.329253",
                 "enabled": true
+            },
+            {
+                "fqdn": "bianlivemqbawcco4cx4a672k2fip3guyxudzurfqvdszafam3ofqgqd.onion",
+                "title": "Companies - BianLian",
+                "version": 3,
+                "slug": "http://bianlivemqbawcco4cx4a672k2fip3guyxudzurfqvdszafam3ofqgqd.onion/companies/",
+                "available": true,
+                "updated": "2024-02-25 12:52:19.434117",
+                "lastscrape": "2024-02-25 12:52:19.434109",
+                "enabled": true
             }
         ],
         "profile": [
             "A4B3B0845DA242A64BF17E0DB4278EDF85855739667D3E2AE8B89D5439015F07E81D12D767FC",
-            "SWikipedia@mail2tor.com"
+            "SWikipedia@mail2tor.com",
+            "deepmind@onionmail.org"
         ]
     },
     {
