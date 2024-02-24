@@ -2752,7 +2752,7 @@
                 "available": false,
                 "updated": "2023-09-30 22:08:06.869555",
                 "lastscrape": "2023-09-30 22:08:06.869539",
-                "enabled": true
+                "enabled": false
             },
             {
                 "fqdn": "ransekgbpijp56bflufgxptwn5hej2rztx423v6sim2zrzz7xetnr2qd.onion",
@@ -2762,6 +2762,16 @@
                 "available": false,
                 "updated": "2023-12-27 02:19:40.183937",
                 "lastscrape": "2023-12-27 02:19:40.183925",
+                "enabled": false
+            },
+            {
+                "fqdn": "pdcizqzjitsgfcgqeyhuee5u6uki6zy5slzioinlhx6xjnsw25irdgqd.onion",
+                "title": "StormouS.X BLOG | Official blog",
+                "version": 3,
+                "slug": "http://pdcizqzjitsgfcgqeyhuee5u6uki6zy5slzioinlhx6xjnsw25irdgqd.onion",
+                "available": true,
+                "updated": "2024-02-25 12:32:56.874640",
+                "lastscrape": "2024-02-25 12:32:56.874625",
                 "enabled": true
             }
         ],
