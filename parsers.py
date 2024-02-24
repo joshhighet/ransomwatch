@@ -1359,3 +1359,14 @@ def mogilevich():
         errlog('mogilevich: ' + 'parsing fail')
     for post in posts:
         appender(post, 'mogilevich')
+
+def lockbit3new():
+    stdlog('parser: ' + 'lockbit3new')
+    parser = '''
+    grep '<div class="post-title">' source/lockbit3_new-*.html -C 1 --no-filename | grep '</div>' | cut -d '<' -f 1 | sed -e 's/^ *//g' -e 's/[[:space:]]*$//' | sort --uniq | tr '[:upper:]' '[:lower:]'
+    '''
+    posts = runshellcmd(parser)
+    if len(posts) == 1:
+        errlog('lockbit3new: ' + 'parsing fail')
+    for post in posts:
+        appender(post, 'lockbit3new')
