@@ -1,49 +1,9 @@
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title></title>
-  <style>
-
-    body {
-      background: url("splash.jpg") no-repeat center center fixed;
-      background-size: contain;
-
-      margin: 0 0;
-      padding: 0 0;
-      height: 100%;
-      min-height: 100%;
-    }
-    h1 {
-      color: white;
-      font-size: 3em;
-      z-index: 100;
-    }
-  </style>
-</head>
-
-<body onload="onload()">
-
-
-<h1 style="position: absolute; left: 25%; top: 50%" id="counter">WAIT</h1>
-
-<script>
-  function onload() {
-    var counter = 7;
-    setInterval(function () {
-      if (counter == 0) {
-        document.getElementById("counter").innerText = "WAIT";
-        location.href = "page2.html"
-        counter -= 1;
-      } else if (counter > 0) {
-        counter -= 1;
-
-        document.getElementById("counter").innerText = counter;
-      }
-    }, 1000);
-  }
-
-</script>
-
-
+<title>403 Forbidden</title>
+</head><body>
+<h1>Forbidden</h1>
+<p>You don't have permission to access this resource.</p>
+<hr>
+<address>Apache/2.4.57 (Debian) Server at lockbitapt2d73krlbewgv27tquljgxr33xbwwsp6rkyieto7u4ncead.onion Port 80</address>
 
 </body>
