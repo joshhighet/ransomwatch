@@ -5,6 +5,14 @@ _last `200` posts_
 | date | title | group |
 |---|---|---|
 | 2024-02-25 | [`BM Catalysts    bmcatalysts.co.uk`](https://google.com/search?q=BM+Catalysts++++bmcatalysts.co.uk) | [alphalocker](https://ransomwatch.telemetry.ltd/#/profiles?id=alphalocker) |
+| 2024-02-25 | [`Dobrowski Stafford and Pierce`](https://google.com/search?q=Dobrowski+Stafford+and+Pierce) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2024-02-25 | [`Roncelli Plastics`](https://google.com/search?q=Roncelli+Plastics) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2024-02-25 | [`www.Abelsantosyasoc.com.ar`](https://google.com/search?q=www.Abelsantosyasoc.com.ar) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
+| 2024-02-25 | [`www.calcomp.co.th`](https://google.com/search?q=www.calcomp.co.th) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
+| 2024-02-25 | [`www.delia.pl`](https://google.com/search?q=www.delia.pl) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
+| 2024-02-25 | [`www.kai.id`](https://google.com/search?q=www.kai.id) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
+| 2024-02-25 | [`www.pcmarket.uz`](https://google.com/search?q=www.pcmarket.uz) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
+| 2024-02-25 | [`www.bombaygrills.com`](https://google.com/search?q=www.bombaygrills.com) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
 | 2024-02-24 | [`Wangkanai Group`](https://google.com/search?q=Wangkanai+Group) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2024-02-24 | [`nationaldentex.com`](https://google.com/search?q=nationaldentex.com) | [lockbit3new](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3new) |
 | 2024-02-24 | [`magierp.com`](https://google.com/search?q=magierp.com) | [lockbit3new](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3new) |
@@ -196,11 +204,3 @@ _last `200` posts_
 | 2024-02-13 | [`doprastav.sk`](https://google.com/search?q=doprastav.sk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-13 | [`The Source`](https://google.com/search?q=The+Source) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2024-02-13 | [`ArcisGolf`](https://google.com/search?q=ArcisGolf) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2024-02-13 | [`Trans-Northern Pipelines`](https://google.com/search?q=Trans-Northern+Pipelines) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2024-02-13 | [`Herrs`](https://google.com/search?q=Herrs) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2024-02-13 | [`Procopio`](https://google.com/search?q=Procopio) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2024-02-13 | [`New Indy Containerboard`](https://google.com/search?q=New+Indy+Containerboard) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2024-02-13 | [`auruminstitute.org`](https://google.com/search?q=auruminstitute.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-02-13 | [`SOPEM`](https://google.com/search?q=SOPEM) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2024-02-13 | [`Satse`](https://google.com/search?q=Satse) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2024-02-13 | [`Sanok Rubber Company Spólka Akcyjna`](https://google.com/search?q=Sanok+Rubber+Company+Sp%C3%B3lka+Akcyjna) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
