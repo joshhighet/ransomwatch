@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-02-25 | [`gatesshields.com`](https://google.com/search?q=gatesshields.com) | [lockbit3new](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3new) |
 | 2024-02-25 | [`stsaviationgroup.com`](https://google.com/search?q=stsaviationgroup.com) | [lockbit3new](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3new) |
 | 2024-02-25 | [`stemcor.com`](https://google.com/search?q=stemcor.com) | [lockbit3new](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3new) |
 | 2024-02-25 | [`mcs360.com`](https://google.com/search?q=mcs360.com) | [lockbit3new](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3new) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-02-13 | [`Constantia FFP`](https://google.com/search?q=Constantia+FFP) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-02-13 | [`Patrizia Pepe`](https://google.com/search?q=Patrizia+Pepe) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-02-13 | [`BTL`](https://google.com/search?q=BTL) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2024-02-13 | [`Global Rescue`](https://google.com/search?q=Global+Rescue) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
