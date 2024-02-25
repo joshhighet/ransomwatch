@@ -10,6 +10,7 @@
 - [jjsantanna/aggregator](https://github.com/jjsantanna/aggregator_crawlers_lists_ransomware_groups_leaksites)_a Jupyter Notebook to unify threat claims from various sources_
 - [0x446172696F/RansomStats](https://github.com/0x446172696F/RansomStats) _a simple page to shows stats for current day, week, month and year_
 - [bulutone/RisikoDetektiv](https://github.com/bulutone/RisikoDetektiv) _a Telegram channel created to track and inform users about cybersecurity threats._
+- [jkerai1/RansomWatchToMDEIoC](https://github.com/jkerai1/RansomWatchToMDEIoC) _parse Rrnsomwatch results in python and create MDE IOC lists as you search_
 
 ## chatbots
 
@@ -36,6 +37,8 @@
 - [Matrice Digitale - RagnarLocker Dark Web Ransomware Portal Closed](https://www.matricedigitale.it/notizie/portale-del-dark-web-ransomware-ragnarlocker-chiuso/)
 - [Markus Hiebaum - Incident Response, What to do if the ransomware has struck?](https://www.linkedin.com/pulse/incident-response-tun-wenn-die-ransomware-hat-markus-hiebaum/)
 - [Tidal Cyber: LockBit Tools & TTPs](https://www.tidalcyber.com/blog/community-content-release-lockbit-tools-and-ttps)
+- [Aashiq Ramachandran - The Ransomware Trash Can - Mining Data From The Dark Web](https://www.linkedin.com/pulse/ransomware-trash-can-mining-data-from-dark-web-aashiq-ramachandran-3tlac/)
+- [SIDE Attack Logic: What is Targeted Threat Intelligence](https://www.nsideattacklogic.de/was-ist-targeted-threat-intelligence-tti/)
 
 ## blogs & resources
 
@@ -50,6 +53,7 @@
 - [hakin9 - Where Do Ransomware Gangs Reside in the Dark Web?](https://hakin9.org/where-do-ransomware-gangs-reside-in-the-dark-web/)
 - [Le Deco Deur - Ransomwatch, the site to follow ransomware cyberattacks](https://www.ledecodeur.ch/2024/01/02/ransomwatch-le-site-pour-suivre-en-direct-les-cyberattaques-par-ransomware/)
 - [OSINT Dojo - Resources](https://www.osintdojo.com/resources/)
+- [Chista | Open Threat Intelligence Framework](https://github.com/ChistaDev/Chista)
 
 ## contributing forks
 
