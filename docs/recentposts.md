@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-02-25 | [`AL SHEFA FARM<https://al-shefafarm.ro>`](https://google.com/search?q=AL+SHEFA+FARM%3Chttps%3A%2F%2Fal-shefafarm.ro%3E) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-02-25 | [`http://www.potogoldcoffee.com`](https://google.com/search?q=http%3A%2F%2Fwww.potogoldcoffee.com) | [ciphbit](https://ransomwatch.telemetry.ltd/#/profiles?id=ciphbit) |
 | 2024-02-25 | [`dunaway.com`](https://google.com/search?q=dunaway.com) | [lockbit3new](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3new) |
 | 2024-02-25 | [`BM Catalysts    bmcatalysts.co.uk`](https://google.com/search?q=BM+Catalysts++++bmcatalysts.co.uk) | [alphalocker](https://ransomwatch.telemetry.ltd/#/profiles?id=alphalocker) |
 | 2024-02-25 | [`Dobrowski Stafford and Pierce`](https://google.com/search?q=Dobrowski+Stafford+and+Pierce) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-02-13 | [`rajawali.com`](https://google.com/search?q=rajawali.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-13 | [`Communication Federal Credit Union`](https://google.com/search?q=Communication+Federal+Credit+Union) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-02-13 | [`universalservicesms.com`](https://google.com/search?q=universalservicesms.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-02-13 | [`doprastav.sk`](https://google.com/search?q=doprastav.sk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-02-13 | [`The Source`](https://google.com/search?q=The+Source) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
