@@ -1,67 +1,23 @@
 <head>
-    <meta charset="utf-8">
+    <title>Ransomhub</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Index</title>
-    <link rel="stylesheet" href="/static/css/terminal.min.css">
-    <link rel="stylesheet" href="/static/css/animate.min.css">
-    <link rel="stylesheet" href="/static/css/app.css">
-    <link rel="stylesheet" href="/static/css/themes.css">
-  </head>
-  <body class="terminal">
-    <div class="container">
-      <div class="terminal-nav">
-        <header class="terminal-logo">
-          <div class="logo terminal-prompt">
-            <a href="/" class="no-style site-name">ransomhub</a>:~#
-          </div>
-        </header>
-        <nav class="terminal-menu">
-          <ul>
-            <li><a href="/" typeof="ListItem">index/</a></li>
-            <li><a href="/about/" typeof="ListItem">about/</a></li>
-            <li><a href="/contact/" typeof="ListItem">contact/</a></li>
-          </ul>
-        </nav>
-      </div>
-    </div>
+</head>
+<body>
+<noscript>You have JavaScript disabled, please turn JavaScript on and reload the page.</noscript>
+<p>Redirecting to site in <span class="countdown">0</span> seconds</p>
+<script>
+    let countDown = 8;
+    setInterval(function () {
+        if (countDown > -1) {
+            document.querySelector(".countdown").textContent = countDown;
+            countDown--;
+        }
+    }, 1000);
 
-    <div class="container">
-      <main class="posts">
-        <h1>Posts</h1>
-        <div class="container-timeline">
-          <div class="timeline d-flex flex-column">
-            
-            <div class="timeline-item">
-              <div class="card bg-base text-white border-0">
-                <div class="card-header py-2 bg-main countdown-date rounded-0 border-0">2024-03-31 12:00:00</div>
-                <div class="card-body">
-                  <h5 class="card-title"><a href="/f31c7fcf-3319-4a90-889e-e9d4b57c2297/">AL SHEFA FARM</a></h5>
-                  <p class="card-text">
-                    Visits: 23<br>Data Size: 150GB<br>Published: False<br>
-                  </p>
-                </div>
-              </div>
-            </div>
-            
-            <div class="timeline-item">
-              <div class="card bg-base text-white border-0">
-                <div class="card-header py-2 bg-main countdown-date rounded-0 border-0">2024-02-25 12:00:00</div>
-                <div class="card-body">
-                  <h5 class="card-title"><a href="/2ace45b0-3899-46a7-af7c-564b0745782b/">YKP LTDA&lt;www.ykp.com.br &gt;</a></h5>
-                  <p class="card-text">
-                    Visits: 4895<br>Data Size: 150GB<br>Published: False<br>
-                  </p>
-                </div>
-              </div>
-            </div>
-            
-          </div>
-        </div>
-      </main>
+    setTimeout(function () {
+        location.reload();
+    }, 8000);
+</script>
 
-      <div class="footer">
-        Twitter <a href="https://www.x.com/search?q=ransomhub%20ransomware&amp;src=typeahead_click" target="_blank">ransomhub</a> |
-        Google <a href="https://www.google.com/search?q=ransomhub%20ransomware" target="_blank">@ransomhub</a>
-      </div>
-    </div>
-    <script src="/static/js/countdown.min.js"></script></body>
+
+</body>
