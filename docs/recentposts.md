@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-02-25 | [`dunaway.com`](https://google.com/search?q=dunaway.com) | [lockbit3new](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3new) |
 | 2024-02-25 | [`BM Catalysts    bmcatalysts.co.uk`](https://google.com/search?q=BM+Catalysts++++bmcatalysts.co.uk) | [alphalocker](https://ransomwatch.telemetry.ltd/#/profiles?id=alphalocker) |
 | 2024-02-25 | [`Dobrowski Stafford and Pierce`](https://google.com/search?q=Dobrowski+Stafford+and+Pierce) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-02-25 | [`Roncelli Plastics`](https://google.com/search?q=Roncelli+Plastics) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-02-13 | [`universalservicesms.com`](https://google.com/search?q=universalservicesms.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-13 | [`doprastav.sk`](https://google.com/search?q=doprastav.sk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-13 | [`The Source`](https://google.com/search?q=The+Source) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2024-02-13 | [`ArcisGolf`](https://google.com/search?q=ArcisGolf) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
