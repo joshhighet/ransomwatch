@@ -4,6 +4,12 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-02-25 | [`stsaviationgroup.com`](https://google.com/search?q=stsaviationgroup.com) | [lockbit3new](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3new) |
+| 2024-02-25 | [`stemcor.com`](https://google.com/search?q=stemcor.com) | [lockbit3new](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3new) |
+| 2024-02-25 | [`mcs360.com`](https://google.com/search?q=mcs360.com) | [lockbit3new](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3new) |
+| 2024-02-25 | [`igs-inc.com`](https://google.com/search?q=igs-inc.com) | [lockbit3new](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3new) |
+| 2024-02-25 | [`groupe-idea.com`](https://google.com/search?q=groupe-idea.com) | [lockbit3new](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3new) |
+| 2024-02-25 | [`apeagers.com.au`](https://google.com/search?q=apeagers.com.au) | [lockbit3new](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3new) |
 | 2024-02-25 | [`AL SHEFA FARM<https://al-shefafarm.ro>`](https://google.com/search?q=AL+SHEFA+FARM%3Chttps%3A%2F%2Fal-shefafarm.ro%3E) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-02-25 | [`http://www.potogoldcoffee.com`](https://google.com/search?q=http%3A%2F%2Fwww.potogoldcoffee.com) | [ciphbit](https://ransomwatch.telemetry.ltd/#/profiles?id=ciphbit) |
 | 2024-02-25 | [`dunaway.com`](https://google.com/search?q=dunaway.com) | [lockbit3new](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3new) |
@@ -198,9 +204,3 @@ _last `200` posts_
 | 2024-02-13 | [`Patrizia Pepe`](https://google.com/search?q=Patrizia+Pepe) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-02-13 | [`BTL`](https://google.com/search?q=BTL) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-02-13 | [`Global Rescue`](https://google.com/search?q=Global+Rescue) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2024-02-13 | [`Sanford, Pierson, Thone &amp; Strean`](https://google.com/search?q=Sanford%2C+Pierson%2C+Thone+%26amp%3B+Strean) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2024-02-13 | [`Leonard’s Syrups`](https://google.com/search?q=Leonard%E2%80%99s+Syrups) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2024-02-13 | [`motilaloswal.com`](https://google.com/search?q=motilaloswal.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-02-13 | [`rajawali.com`](https://google.com/search?q=rajawali.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-02-13 | [`Communication Federal Credit Union`](https://google.com/search?q=Communication+Federal+Credit+Union) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2024-02-13 | [`universalservicesms.com`](https://google.com/search?q=universalservicesms.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
