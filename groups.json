@@ -2825,6 +2825,16 @@
                 "updated": "2024-02-24 23:13:06.213613",
                 "lastscrape": "2024-02-24 23:13:06.213600",
                 "enabled": true
+            },
+            {
+                "fqdn": "ssg3qvvuilseciagm4nixjqu3rsiheny5lifjnwt6o5ann64iocy64ad.onion",
+                "title": null,
+                "version": 3,
+                "slug": "http://ssg3qvvuilseciagm4nixjqu3rsiheny5lifjnwt6o5ann64iocy64ad.onion",
+                "available": false,
+                "updated": null,
+                "lastscrape": "2021-05-01 00:00:00.000000",
+                "enabled": true
             }
         ],
         "profile": []
