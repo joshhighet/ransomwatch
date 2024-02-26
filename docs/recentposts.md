@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-02-26 | [`Angeles Medical Centers`](https://google.com/search?q=Angeles+Medical+Centers) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2024-02-26 | [`https://www.bazaarvoice.com`](https://google.com/search?q=https%3A%2F%2Fwww.bazaarvoice.com) | [mogilevich](https://ransomwatch.telemetry.ltd/#/profiles?id=mogilevich) |
 | 2024-02-26 | [`Bjuvs kommun`](https://google.com/search?q=Bjuvs+kommun) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-02-26 | [`silganhodlings.com`](https://google.com/search?q=silganhodlings.com) | [lockbit3new](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3new) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-02-14 | [`kabat.pl`](https://google.com/search?q=kabat.pl) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-14 | [`Sindicato de Enfermería (SATSE)`](https://google.com/search?q=Sindicato+de+Enfermer%C3%ADa+%28SATSE%29) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-02-14 | [`wsnelson.com`](https://google.com/search?q=wsnelson.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-02-14 | [`fultoncountyga.gov`](https://google.com/search?q=fultoncountyga.gov) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
