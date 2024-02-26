@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-02-26 | [`prattindustries.com`](https://google.com/search?q=prattindustries.com) | [lockbit3new](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3new) |
 | 2024-02-26 | [`AL SHEFA FARM<www.al-shefafarm.ro>`](https://google.com/search?q=AL+SHEFA+FARM%3Cwww.al-shefafarm.ro%3E) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-02-26 | [`Headwater Companies LLC<www.headwaterco.com>`](https://google.com/search?q=Headwater+Companies+LLC%3Cwww.headwaterco.com%3E) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-02-26 | [`GCA Nederland`](https://google.com/search?q=GCA+Nederland) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-02-14 | [`Nekoosa School Distr ict`](https://google.com/search?q=Nekoosa+School+Distr+ict) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-02-14 | [`https://www.americamovil.com/`](https://google.com/search?q=https%3A%2F%2Fwww.americamovil.com%2F) | [trigona](https://ransomwatch.telemetry.ltd/#/profiles?id=trigona) |
 | 2024-02-14 | [`https://www.falco.com/, http://www.falcoprc.com/, http://support.falcomex.com/, http://www`](https://google.com/search?q=https%3A%2F%2Fwww.falco.com%2F%2C+http%3A%2F%2Fwww.falcoprc.com%2F%2C+http%3A%2F%2Fsupport.falcomex.com%2F%2C+http%3A%2F%2Fwww) | [trigona](https://ransomwatch.telemetry.ltd/#/profiles?id=trigona) |
-| 2024-02-14 | [`vanwingerden.com`](https://google.com/search?q=vanwingerden.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
