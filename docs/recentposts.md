@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-02-26 | [`silganholdings.com`](https://google.com/search?q=silganholdings.com) | [lockbit3new](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3new) |
+| 2024-02-26 | [`ernesthealth.com`](https://google.com/search?q=ernesthealth.com) | [lockbit3new](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3new) |
 | 2024-02-25 | [`gatesshields.com`](https://google.com/search?q=gatesshields.com) | [lockbit3new](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3new) |
 | 2024-02-25 | [`stsaviationgroup.com`](https://google.com/search?q=stsaviationgroup.com) | [lockbit3new](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3new) |
 | 2024-02-25 | [`stemcor.com`](https://google.com/search?q=stemcor.com) | [lockbit3new](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3new) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-02-14 | [`adioscancer.com`](https://google.com/search?q=adioscancer.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-13 | [`Barber Emerson`](https://google.com/search?q=Barber+Emerson) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-02-13 | [`Constantia FFP`](https://google.com/search?q=Constantia+FFP) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2024-02-13 | [`Patrizia Pepe`](https://google.com/search?q=Patrizia+Pepe) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2024-02-13 | [`BTL`](https://google.com/search?q=BTL) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
