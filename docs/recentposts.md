@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-02-27 | [`Hardeman County Community Health Center`](https://google.com/search?q=Hardeman+County+Community+Health+Center) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2024-02-27 | [`WEL Partners`](https://google.com/search?q=WEL+Partners) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2024-02-26 | [`Ironrock`](https://google.com/search?q=Ironrock) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2024-02-26 | [`Penn Cinema `](https://google.com/search?q=Penn+Cinema+) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-02-15 | [`champion.com.co`](https://google.com/search?q=champion.com.co) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-15 | [`centralepaysanne.lu`](https://google.com/search?q=centralepaysanne.lu) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-15 | [`ASA Electronics [2.7 TB]`](https://google.com/search?q=ASA+Electronics+%5B2.7+TB%5D) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2024-02-14 | [`studiogalbusera.com`](https://google.com/search?q=studiogalbusera.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
