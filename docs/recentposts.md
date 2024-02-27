@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-02-27 | [`npgandour.com`](https://google.com/search?q=npgandour.com) | [lockbit3new](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3new) |
 | 2024-02-27 | [`https://dfa.ie/`](https://google.com/search?q=https%3A%2F%2Fdfa.ie%2F) | [mogilevich](https://ransomwatch.telemetry.ltd/#/profiles?id=mogilevich) |
 | 2024-02-27 | [`https://www.epicgames.com/`](https://google.com/search?q=https%3A%2F%2Fwww.epicgames.com%2F) | [mogilevich](https://ransomwatch.telemetry.ltd/#/profiles?id=mogilevich) |
 | 2024-02-27 | [`Electro Marteix`](https://google.com/search?q=Electro+Marteix) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-02-15 | [`Rush Energy Services Inc [Time's up]`](https://google.com/search?q=Rush+Energy+Services+Inc+%5BTime%27s+up%5D) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2024-02-15 | [`ASP Basilicata`](https://google.com/search?q=ASP+Basilicata) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2024-02-15 | [`pradiergranulats.fr`](https://google.com/search?q=pradiergranulats.fr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-02-15 | [`sitrack.com`](https://google.com/search?q=sitrack.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
