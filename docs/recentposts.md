@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-02-27 | [`WEL Partners`](https://google.com/search?q=WEL+Partners) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2024-02-26 | [`Ironrock`](https://google.com/search?q=Ironrock) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2024-02-26 | [`Penn Cinema `](https://google.com/search?q=Penn+Cinema+) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2024-02-26 | [`prattindustries.com`](https://google.com/search?q=prattindustries.com) | [lockbit3new](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3new) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-02-15 | [`centralepaysanne.lu`](https://google.com/search?q=centralepaysanne.lu) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-15 | [`ASA Electronics [2.7 TB]`](https://google.com/search?q=ASA+Electronics+%5B2.7+TB%5D) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2024-02-14 | [`studiogalbusera.com`](https://google.com/search?q=studiogalbusera.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-02-14 | [`Nekoosa School Distr ict`](https://google.com/search?q=Nekoosa+School+Distr+ict) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
