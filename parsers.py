@@ -1371,3 +1371,14 @@ def lockbit3new():
         errlog('lockbit3new: ' + 'parsing fail')
     for post in posts:
         appender(post, 'lockbit3new')
+
+def blackout():
+    stdlog('parser: ' + 'blackout')
+    parser = '''
+    grep -oE '<a[^>]*class="[^"]*link-offset-2 link-underline link-underline-opacity-0 text-white[^"]*"[^>]*>[^<]+</a>' source/blackout-*.html | sed -E 's/.*>([^<]+)<\/a>/\\1/'
+    '''
+    posts = runshellcmd(parser)
+    if len(posts) == 1:
+        errlog('blackout: ' + 'parsing fail')
+    for post in posts:
+        appender(post, 'blackout')

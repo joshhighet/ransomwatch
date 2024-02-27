@@ -5469,5 +5469,25 @@
             }
         ],
         "profile": []
+    },
+    {
+        "name": "blackout",
+        "captcha": false,
+        "parser": false,
+        "javascript_render": true,
+        "meta": null,
+        "locations": [
+            {
+                "fqdn": "black3gnkizshuynieigw6ejgpblb53mpasftzd6pydqpmq2vn2xf6yd.onion",
+                "title": "Blackout Blog",
+                "version": 3,
+                "slug": "http://black3gnkizshuynieigw6ejgpblb53mpasftzd6pydqpmq2vn2xf6yd.onion",
+                "available": true,
+                "updated": "2024-02-28 07:54:49.590097",
+                "lastscrape": "2024-02-28 07:54:49.590088",
+                "enabled": true
+            }
+        ],
+        "profile": []
     }
 ]
