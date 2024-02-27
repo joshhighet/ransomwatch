@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-02-27 | [`https://dfa.ie/`](https://google.com/search?q=https%3A%2F%2Fdfa.ie%2F) | [mogilevich](https://ransomwatch.telemetry.ltd/#/profiles?id=mogilevich) |
+| 2024-02-27 | [`https://www.epicgames.com/`](https://google.com/search?q=https%3A%2F%2Fwww.epicgames.com%2F) | [mogilevich](https://ransomwatch.telemetry.ltd/#/profiles?id=mogilevich) |
 | 2024-02-27 | [`Electro Marteix`](https://google.com/search?q=Electro+Marteix) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2024-02-27 | [`moore-tibbits.co.uk`](https://google.com/search?q=moore-tibbits.co.uk) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
 | 2024-02-27 | [`Ann & Robert H. Lurie Children's Hospital of Chicago`](https://google.com/search?q=Ann+%26+Robert+H.+Lurie+Children%27s+Hospital+of+Chicago) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-02-15 | [`ASP Basilicata`](https://google.com/search?q=ASP+Basilicata) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2024-02-15 | [`pradiergranulats.fr`](https://google.com/search?q=pradiergranulats.fr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-15 | [`sitrack.com`](https://google.com/search?q=sitrack.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-02-15 | [`hatsinteriors.com`](https://google.com/search?q=hatsinteriors.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-02-15 | [`coreengg.com`](https://google.com/search?q=coreengg.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
