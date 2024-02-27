@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-02-27 | [`ch-armentieres.fr`](https://google.com/search?q=ch-armentieres.fr) | [blackout](https://ransomwatch.telemetry.ltd/#/profiles?id=blackout) |
+| 2024-02-27 | [`metal7.com`](https://google.com/search?q=metal7.com) | [blackout](https://ransomwatch.telemetry.ltd/#/profiles?id=blackout) |
 | 2024-02-27 | [`npgandour.com`](https://google.com/search?q=npgandour.com) | [lockbit3new](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3new) |
 | 2024-02-27 | [`https://dfa.ie/`](https://google.com/search?q=https%3A%2F%2Fdfa.ie%2F) | [mogilevich](https://ransomwatch.telemetry.ltd/#/profiles?id=mogilevich) |
 | 2024-02-27 | [`https://www.epicgames.com/`](https://google.com/search?q=https%3A%2F%2Fwww.epicgames.com%2F) | [mogilevich](https://ransomwatch.telemetry.ltd/#/profiles?id=mogilevich) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-02-15 | [`kaleedscpa.com`](https://google.com/search?q=kaleedscpa.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-02-15 | [`conseguros.com.gt`](https://google.com/search?q=conseguros.com.gt) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-02-15 | [`Rush Energy Services Inc [Time's up]`](https://google.com/search?q=Rush+Energy+Services+Inc+%5BTime%27s+up%5D) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2024-02-15 | [`ASP Basilicata`](https://google.com/search?q=ASP+Basilicata) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2024-02-15 | [`pradiergranulats.fr`](https://google.com/search?q=pradiergranulats.fr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
