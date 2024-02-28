@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-02-28 | [`https://www.dinamicoil.com/`](https://google.com/search?q=https%3A%2F%2Fwww.dinamicoil.com%2F) | [trigona](https://ransomwatch.telemetry.ltd/#/profiles?id=trigona) |
+| 2024-02-28 | [`HAL Allergy`](https://google.com/search?q=HAL+Allergy) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2024-02-28 | [`https://www.hotelavenidapalace.pt/, https://hostalalemana.com/, https://engine.witbooking.`](https://google.com/search?q=https%3A%2F%2Fwww.hotelavenidapalace.pt%2F%2C+https%3A%2F%2Fhostalalemana.com%2F%2C+https%3A%2F%2Fengine.witbooking.) | [trigona](https://ransomwatch.telemetry.ltd/#/profiles?id=trigona) |
 | 2024-02-28 | [`easternshipbuilding.com`](https://google.com/search?q=easternshipbuilding.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-28 | [`http://www.piperroofing.com`](https://google.com/search?q=http%3A%2F%2Fwww.piperroofing.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-02-16 | [`tormetal.cl`](https://google.com/search?q=tormetal.cl) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-16 | [`spaldingssd.com`](https://google.com/search?q=spaldingssd.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-16 | [`Concello de Teo`](https://google.com/search?q=Concello+de+Teo) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2024-02-16 | [`Ribe-Groupe`](https://google.com/search?q=Ribe-Groupe) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2024-02-16 | [`theclosingagent.com`](https://google.com/search?q=theclosingagent.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
