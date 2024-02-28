@@ -298,6 +298,5 @@ if args.mode == 'parse':
     parsers.ransomhub()
     parsers.lockbit3fs()
     parsers.mogilevich()
-    parsers.lockbit3new()
     parsers.blackout()
     stdlog('ransomwatch: ' + 'parse run complete')

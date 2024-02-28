@@ -659,8 +659,9 @@ def cheers():
 def lockbit3():
     stdlog('parser: ' + 'lockbit3')
     # grep '<div class="post-title">' source/lockbit3-*.html -C 1 --no-filename | grep '</div>' | cut -d '<' -f 1 | sed -e 's/^ *//g' -e 's/[[:space:]]*$//' | sort --uniq | tr '[:upper:]' '[:lower:]'
+    # grep --no-filename '<div class="post-title">' source/lockbit3-*.html | cut -d '>' -f 2 | cut -d '<' -f 1 | sed -e 's/^ *//g' -e 's/[[:space:]]*$//'
     parser = '''
-    grep --no-filename '<div class="post-title">' source/lockbit3-*.html | cut -d '>' -f 2 | cut -d '<' -f 1 | sed -e 's/^ *//g' -e 's/[[:space:]]*$//'
+    grep '<div class="post-title">' source/lockbit3-*.html -C 1 --no-filename | grep '</div>' | cut -d '<' -f 1 | sed -e 's/^ *//g' -e 's/[[:space:]]*$//' | sort --uniq | tr '[:upper:]' '[:lower:]'
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
@@ -1360,17 +1361,6 @@ def mogilevich():
         errlog('mogilevich: ' + 'parsing fail')
     for post in posts:
         appender(post, 'mogilevich')
-
-def lockbit3new():
-    stdlog('parser: ' + 'lockbit3new')
-    parser = '''
-    grep '<div class="post-title">' source/lockbit3_new-*.html -C 1 --no-filename | grep '</div>' | cut -d '<' -f 1 | sed -e 's/^ *//g' -e 's/[[:space:]]*$//' | sort --uniq | tr '[:upper:]' '[:lower:]'
-    '''
-    posts = runshellcmd(parser)
-    if len(posts) == 1:
-        errlog('lockbit3new: ' + 'parsing fail')
-    for post in posts:
-        appender(post, 'lockbit3new')
 
 def blackout():
     stdlog('parser: ' + 'blackout')
