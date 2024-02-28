@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-02-28 | [`abtexelgroup.com\$222.6M\Netherlands\1TB\&lt;1%DISCLOSED`](https://google.com/search?q=abtexelgroup.com%5C%24222.6M%5CNetherlands%5C1TB%5C%26lt%3B1%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-02-28 | [`Orange Public School District`](https://google.com/search?q=Orange+Public+School+District) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2024-02-28 | [`Saudia MRO`](https://google.com/search?q=Saudia+MRO) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2024-02-28 | [`RWF Frömelt`](https://google.com/search?q=RWF+Fr%C3%B6melt) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-02-15 | [`MeerServices`](https://google.com/search?q=MeerServices) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-02-15 | [`Mechanical Reps`](https://google.com/search?q=Mechanical+Reps) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-02-15 | [`LD Davis`](https://google.com/search?q=LD+Davis) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-02-15 | [`HR Ewell & Hy-tec`](https://google.com/search?q=HR+Ewell+%26+Hy-tec) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
