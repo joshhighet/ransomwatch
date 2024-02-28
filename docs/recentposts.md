@@ -4,6 +4,10 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-02-28 | [`Saudia MRO`](https://google.com/search?q=Saudia+MRO) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2024-02-28 | [`RWF Frömelt`](https://google.com/search?q=RWF+Fr%C3%B6melt) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2024-02-28 | [`ROYAL INSIGNIA`](https://google.com/search?q=ROYAL+INSIGNIA) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2024-02-28 | [`Bertani Trasporti Spa`](https://google.com/search?q=Bertani+Trasporti+Spa) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2024-02-27 | [`verbraucherzentrale hessen`](https://google.com/search?q=verbraucherzentrale+hessen) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2024-02-27 | [`JS International`](https://google.com/search?q=JS+International) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2024-02-27 | [`ch-armentieres.fr`](https://google.com/search?q=ch-armentieres.fr) | [blackout](https://ransomwatch.telemetry.ltd/#/profiles?id=blackout) |
@@ -200,7 +204,3 @@ _last `200` posts_
 | 2024-02-15 | [`LD Davis`](https://google.com/search?q=LD+Davis) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-02-15 | [`HR Ewell & Hy-tec`](https://google.com/search?q=HR+Ewell+%26+Hy-tec) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-02-15 | [`DuBose Strapping`](https://google.com/search?q=DuBose+Strapping) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-02-15 | [`Schuster Trucking Company`](https://google.com/search?q=Schuster+Trucking+Company) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2024-02-15 | [`Asam`](https://google.com/search?q=Asam) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2024-02-15 | [`Advantage Orthopedic and Sports Medicine Clinic`](https://google.com/search?q=Advantage+Orthopedic+and+Sports+Medicine+Clinic) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2024-02-15 | [`kaleedscpa.com`](https://google.com/search?q=kaleedscpa.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
