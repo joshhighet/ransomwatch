@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-02-29 | [`Essential Labs`](https://google.com/search?q=Essential+Labs) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2024-02-29 | [`http://etairoshealth.com`](https://google.com/search?q=http%3A%2F%2Fetairoshealth.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-02-28 | [`https://www.dinamicoil.com/`](https://google.com/search?q=https%3A%2F%2Fwww.dinamicoil.com%2F) | [trigona](https://ransomwatch.telemetry.ltd/#/profiles?id=trigona) |
 | 2024-02-28 | [`HAL Allergy`](https://google.com/search?q=HAL+Allergy) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-02-16 | [`etisalat.ae`](https://google.com/search?q=etisalat.ae) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-16 | [`Pacifica`](https://google.com/search?q=Pacifica) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-02-16 | [`tormetal.cl`](https://google.com/search?q=tormetal.cl) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-02-16 | [`spaldingssd.com`](https://google.com/search?q=spaldingssd.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
