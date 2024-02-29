@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-02-29 | [`gapsolutions.com.au`](https://google.com/search?q=gapsolutions.com.au) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-29 | [`Essential Labs`](https://google.com/search?q=Essential+Labs) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2024-02-29 | [`http://etairoshealth.com`](https://google.com/search?q=http%3A%2F%2Fetairoshealth.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-02-28 | [`https://www.dinamicoil.com/`](https://google.com/search?q=https%3A%2F%2Fwww.dinamicoil.com%2F) | [trigona](https://ransomwatch.telemetry.ltd/#/profiles?id=trigona) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-02-16 | [`BRAM Auto Group`](https://google.com/search?q=BRAM+Auto+Group) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-02-16 | [`etisalat.ae`](https://google.com/search?q=etisalat.ae) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-16 | [`Pacifica`](https://google.com/search?q=Pacifica) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2024-02-16 | [`tormetal.cl`](https://google.com/search?q=tormetal.cl) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
