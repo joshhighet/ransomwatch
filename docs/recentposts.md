@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-02-29 | [`Benthanh Group<benthanhgroup.com>`](https://google.com/search?q=Benthanh+Group%3Cbenthanhgroup.com%3E) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-02-29 | [`Indianapolis Law Firm`](https://google.com/search?q=Indianapolis+Law+Firm) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-02-29 | [`Scullion Law:`](https://google.com/search?q=Scullion+Law%3A) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-02-29 | [`Franz Carl Weber`](https://google.com/search?q=Franz+Carl+Weber) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-02-17 | [`BS&B Safety Systems L.L.C`](https://google.com/search?q=BS%26B+Safety+Systems+L.L.C) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-02-17 | [`Wapiti Energy`](https://google.com/search?q=Wapiti+Energy) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-02-17 | [`PSI`](https://google.com/search?q=PSI) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2024-02-17 | [`CP Communications`](https://google.com/search?q=CP+Communications) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
