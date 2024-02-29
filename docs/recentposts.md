@@ -4,6 +4,11 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-02-29 | [`Indianapolis Law Firm`](https://google.com/search?q=Indianapolis+Law+Firm) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2024-02-29 | [`Scullion Law:`](https://google.com/search?q=Scullion+Law%3A) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2024-02-29 | [`Franz Carl Weber`](https://google.com/search?q=Franz+Carl+Weber) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2024-02-29 | [`Haas Inc.`](https://google.com/search?q=Haas+Inc.) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2024-02-29 | [`Alan Ritchey, Inc. (ARI)`](https://google.com/search?q=Alan+Ritchey%2C+Inc.+%28ARI%29) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-02-29 | [`Benthanh Group`](https://google.com/search?q=Benthanh+Group) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-02-29 | [`sunharbormanor.com`](https://google.com/search?q=sunharbormanor.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
 | 2024-02-29 | [`gapsolutions.com.au`](https://google.com/search?q=gapsolutions.com.au) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -199,8 +204,3 @@ _last `200` posts_
 | 2024-02-17 | [`Wapiti Energy`](https://google.com/search?q=Wapiti+Energy) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-02-17 | [`PSI`](https://google.com/search?q=PSI) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-02-17 | [`CP Communications`](https://google.com/search?q=CP+Communications) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2024-02-16 | [`Prudential Financial`](https://google.com/search?q=Prudential+Financial) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2024-02-16 | [`LoanDepot`](https://google.com/search?q=LoanDepot) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2024-02-16 | [`The Chas. E. Phipps`](https://google.com/search?q=The+Chas.+E.+Phipps) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
-| 2024-02-16 | [`Réseau Ribé`](https://google.com/search?q=R%C3%A9seau+Rib%C3%A9) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2024-02-16 | [`BRAM Auto Group`](https://google.com/search?q=BRAM+Auto+Group) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
