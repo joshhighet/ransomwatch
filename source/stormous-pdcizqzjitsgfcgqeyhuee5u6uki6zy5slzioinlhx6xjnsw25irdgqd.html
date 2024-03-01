@@ -601,23 +601,15 @@
 					
 					
 										
-							<tr>
-								<tr style="background-color: rgb(151, 247, 175);">
-
-								<td class="table-plus">
+					<tr>
+						<tr style="background-color: rgb(151, 247, 175);">
+							<td class="table-plus">
 								<div class="name-avatar d-flex align-items-center">
 									<div class="avatar mr-2 flex-shrink-0">
-										<img
-											src="vendors/images/companyimage/CCET_logo_header.png"
-											class="border-radius-100 shadow"
-											width="40"
-											height="40"
-											alt=""
-										/>
+										<img src="vendors/images/companyimage/CCET_logo_header.png" class="border-radius-100 shadow" width="40" height="40" alt="">
 									</div>
 									<div class="txt">
-										<div class="weight-600">calcomp
-										</div>
+										<div class="weight-600">calcomp</div>
 									</div>
 								</div>
 							</td>
@@ -632,29 +624,26 @@
 							</td>
 							<td>
 								<div class="table-actions">
-									<a href="https://gofile.io/d/MWC6DS" data-color="#265ed7"
-									 class="border-radius-100 shadow" style="width: 40px; height: 40px; background-color: #ffffff; text-align: center; line-height: 40px; font-size: small;">
-										100%
+									<a href="https://gofile.io/d/MWC6DS" data-color="#265ed7" class="border-radius-100 shadow" style="width: 40px; height: 40px; background-color: #ffffff; text-align: center; line-height: 40px; font-size: small;">100%</a>
 								</div>
 							</td>
 						</tr>
-						
 						<script>
-							var targetDate6 = new Date('February 18 2024').getTime();
-						
+							var targetDate6 = new Date('February 18, 2024').getTime();
+							
 							var timerDisplay6 = document.getElementById('timer6');
-						
+							
 							var timerInterval6 = setInterval(function() {
 								var now6 = new Date().getTime();
 								var distance6 = targetDate6 - now6;
-						
+								
 								var days6 = Math.floor(distance6 / (1000 * 60 * 60 * 24));
 								var hours6 = Math.floor((distance6 % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
 								var minutes6 = Math.floor((distance6 % (1000 * 60 * 60)) / (1000 * 60));
 								var seconds6 = Math.floor((distance6 % (1000 * 60)) / 1000);
-						
+								
 								timerDisplay6.innerHTML = days6 + "d " + hours6 + "h " + minutes6 + "m " + seconds6 + "s ";
-						
+								
 								if (distance6 < 0) {
 									clearInterval(timerInterval6);
 									timerDisplay6.innerHTML = "FINISHED";
