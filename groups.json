@@ -4742,6 +4742,16 @@
                 "available": false,
                 "updated": "2024-02-22 01:53:45.391662",
                 "lastscrape": "2024-02-22 01:53:45.391649",
+                "enabled": false
+            },
+            {
+                "fqdn": "incapt.su",
+                "title": null,
+                "version": 0,
+                "slug": "http://incapt.su",
+                "available": false,
+                "updated": null,
+                "lastscrape": "2021-05-01 00:00:00.000000",
                 "enabled": true
             }
         ],
