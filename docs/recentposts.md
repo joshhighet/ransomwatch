@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-03-01 | [`https://www.dji.com/`](https://google.com/search?q=https%3A%2F%2Fwww.dji.com%2F) | [mogilevich](https://ransomwatch.telemetry.ltd/#/profiles?id=mogilevich) |
+| 2024-03-01 | [`https://kick.com/`](https://google.com/search?q=https%3A%2F%2Fkick.com%2F) | [mogilevich](https://ransomwatch.telemetry.ltd/#/profiles?id=mogilevich) |
+| 2024-03-01 | [`https://shein.com/`](https://google.com/search?q=https%3A%2F%2Fshein.com%2F) | [mogilevich](https://ransomwatch.telemetry.ltd/#/profiles?id=mogilevich) |
 | 2024-03-01 | [`Kumagai Gumi Group`](https://google.com/search?q=Kumagai+Gumi+Group) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2024-02-29 | [`Gilmore & Associates`](https://google.com/search?q=Gilmore+%26+Associates) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-02-29 | [`Allan Berger & Associates`](https://google.com/search?q=Allan+Berger+%26+Associates) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2024-02-17 | [`ACS`](https://google.com/search?q=ACS) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-02-17 | [`Greater Napanee`](https://google.com/search?q=Greater+Napanee) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-02-17 | [`Tiete Automobile`](https://google.com/search?q=Tiete+Automobile) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2024-02-17 | [`Voice Technologies`](https://google.com/search?q=Voice+Technologies) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2024-02-17 | [`Aftrp`](https://google.com/search?q=Aftrp) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2024-02-17 | [`Chicago Zoological Society`](https://google.com/search?q=Chicago+Zoological+Society) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
