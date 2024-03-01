@@ -4,6 +4,15 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-03-01 | [`Winona Pattern & Mold`](https://google.com/search?q=Winona+Pattern+%26+Mold) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-03-01 | [`Stack Infrastructure`](https://google.com/search?q=Stack+Infrastructure) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-03-01 | [`New Bedford Welding Supply`](https://google.com/search?q=New+Bedford+Welding+Supply) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-03-01 | [`Marketon`](https://google.com/search?q=Marketon) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-03-01 | [`Kool-air`](https://google.com/search?q=Kool-air) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-03-01 | [`Influence Communication`](https://google.com/search?q=Influence+Communication) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-03-01 | [`FBi Construction`](https://google.com/search?q=FBi+Construction) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-03-01 | [`Compact Mould`](https://google.com/search?q=Compact+Mould) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-03-01 | [`Coastal Car`](https://google.com/search?q=Coastal+Car) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-03-01 | [`Shooting House <www.shootinghouse.com.br>`](https://google.com/search?q=Shooting+House+%3Cwww.shootinghouse.com.br%3E) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-03-01 | [`http://www.gilmorelv.com`](https://google.com/search?q=http%3A%2F%2Fwww.gilmorelv.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-03-01 | [`Gansevoort Hotel Gro up`](https://google.com/search?q=Gansevoort+Hotel+Gro+up) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
@@ -195,12 +204,3 @@ _last `200` posts_
 | 2024-02-19 | [`soco.be`](https://google.com/search?q=soco.be) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-19 | [`Sports Medicine Clinic`](https://google.com/search?q=Sports+Medicine+Clinic) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-02-19 | [`BandB Electric Inc`](https://google.com/search?q=BandB+Electric+Inc) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2024-02-19 | [`se.com\$$33.5B\France\1.5TB\&lt;1%DISCLOSED`](https://google.com/search?q=se.com%5C%24%2433.5B%5CFrance%5C1.5TB%5C%26lt%3B1%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2024-02-19 | [`First Professional Services`](https://google.com/search?q=First+Professional+Services) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2024-02-19 | [`spbglobal.com\$81.4M\Spain\706GB\100%DISCLOSED`](https://google.com/search?q=spbglobal.com%5C%2481.4M%5CSpain%5C706GB%5C100%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2024-02-19 | [`gocco.com\$937.9M\Spain\136GB\100%DISCLOSED`](https://google.com/search?q=gocco.com%5C%24937.9M%5CSpain%5C136GB%5C100%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2024-02-19 | [`parksite.com\$452.7M\USA\170GB\100%DISCLOSED`](https://google.com/search?q=parksite.com%5C%24452.7M%5CUSA%5C170GB%5C100%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2024-02-18 | [`aeromechinc.com`](https://google.com/search?q=aeromechinc.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-02-18 | [`carlfischer.com`](https://google.com/search?q=carlfischer.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-02-18 | [`Bimbo Bakeries`](https://google.com/search?q=Bimbo+Bakeries) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
-| 2024-02-18 | [`bucher-strauss.ch`](https://google.com/search?q=bucher-strauss.ch) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
