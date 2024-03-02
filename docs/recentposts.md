@@ -4,6 +4,12 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-03-02 | [`unitednotions.com`](https://google.com/search?q=unitednotions.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2024-03-02 | [`starkpower.de`](https://google.com/search?q=starkpower.de) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2024-03-02 | [`schuett-grundei.de`](https://google.com/search?q=schuett-grundei.de) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2024-03-02 | [`roehr-stolberg.de`](https://google.com/search?q=roehr-stolberg.de) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2024-03-02 | [`esser-ps.de`](https://google.com/search?q=esser-ps.de) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2024-03-02 | [`aerospace.com`](https://google.com/search?q=aerospace.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-03-02 | [`Petrus Resources Ltd.`](https://google.com/search?q=Petrus+Resources+Ltd.) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2024-03-02 | [`SBM & Co [You have 48 hours. Check your e-mail]`](https://google.com/search?q=SBM+%26+Co+%5BYou+have+48+hours.+Check+your+e-mail%5D) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2024-03-01 | [`Red River Title`](https://google.com/search?q=Red+River+Title) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -198,9 +204,3 @@ _last `200` posts_
 | 2024-02-19 | [`http://www.projects-world.com`](https://google.com/search?q=http%3A%2F%2Fwww.projects-world.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-02-19 | [`http:// neafidi.it`](https://google.com/search?q=http%3A%2F%2F+neafidi.it) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-02-19 | [`http://www.mordfin.com`](https://google.com/search?q=http%3A%2F%2Fwww.mordfin.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
-| 2024-02-19 | [`http://www.wannagocloud.com`](https://google.com/search?q=http%3A%2F%2Fwww.wannagocloud.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
-| 2024-02-19 | [`http://www.commonwealthsign.com`](https://google.com/search?q=http%3A%2F%2Fwww.commonwealthsign.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
-| 2024-02-19 | [`http://zivilgeometer.at`](https://google.com/search?q=http%3A%2F%2Fzivilgeometer.at) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
-| 2024-02-19 | [`http://giraudpereetfils.com/`](https://google.com/search?q=http%3A%2F%2Fgiraudpereetfils.com%2F) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
-| 2024-02-19 | [`http://kaleedscpa.com`](https://google.com/search?q=http%3A%2F%2Fkaleedscpa.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
-| 2024-02-19 | [`http://conseguros.com.gt`](https://google.com/search?q=http%3A%2F%2Fconseguros.com.gt) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
