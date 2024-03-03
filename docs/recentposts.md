@@ -11,6 +11,8 @@ _last `200` posts_
 | 2024-03-03 | [`artissimodesigns.com`](https://google.com/search?q=artissimodesigns.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
 | 2024-03-03 | [`crystalwindows.com`](https://google.com/search?q=crystalwindows.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
 | 2024-03-03 | [`wardtlc.com`](https://google.com/search?q=wardtlc.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
+| 2024-03-03 | [`valoremreply.com`](https://google.com/search?q=valoremreply.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2024-03-03 | [`jovani.com`](https://google.com/search?q=jovani.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-03-03 | [`ipmaltamira`](https://google.com/search?q=ipmaltamira) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2024-03-03 | [`earnesthealth.com`](https://google.com/search?q=earnesthealth.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-03-03 | [`Ewig Usa`](https://google.com/search?q=Ewig+Usa) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-02-20 | [`Who is LockbitSupp?`](https://google.com/search?q=Who+is+LockbitSupp%3F) | [lockbit3_cronos](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3_cronos) |
 | 2024-02-20 | [`Lockbitsupp`](https://google.com/search?q=Lockbitsupp) | [lockbit3_cronos](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3_cronos) |
 | 2024-02-20 | [`LB Backend Leaks`](https://google.com/search?q=LB+Backend+Leaks) | [lockbit3_cronos](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3_cronos) |
-| 2024-02-20 | [`Press Releases`](https://google.com/search?q=Press+Releases) | [lockbit3_cronos](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3_cronos) |
-| 2024-02-19 | [`http://haesungds.com`](https://google.com/search?q=http%3A%2F%2Fhaesungds.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
