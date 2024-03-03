@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-03-03 | [`stockdevelopment.com`](https://google.com/search?q=stockdevelopment.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-03-02 | [`smuldes.com`](https://google.com/search?q=smuldes.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-03-02 | [`unitednotions.com`](https://google.com/search?q=unitednotions.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-03-02 | [`starkpower.de`](https://google.com/search?q=starkpower.de) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-02-19 | [`http://www.roosens.com`](https://google.com/search?q=http%3A%2F%2Fwww.roosens.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-02-19 | [`http://www.umtownship.org`](https://google.com/search?q=http%3A%2F%2Fwww.umtownship.org) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-02-19 | [`http://www.projects-world.com`](https://google.com/search?q=http%3A%2F%2Fwww.projects-world.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
-| 2024-02-19 | [`http:// neafidi.it`](https://google.com/search?q=http%3A%2F%2F+neafidi.it) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
