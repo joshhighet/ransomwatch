@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-03-04 | [`www.dismogas.com`](https://google.com/search?q=www.dismogas.com) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
+| 2024-03-04 | [`www.everplast.com.br`](https://google.com/search?q=www.everplast.com.br) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
 | 2024-03-04 | [`America Chung Nam or ACN`](https://google.com/search?q=America+Chung+Nam+or+ACN) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-03-04 | [`AL SHEFA FARM<www.al-shefafarm.ro>(SOLD)`](https://google.com/search?q=AL+SHEFA+FARM%3Cwww.al-shefafarm.ro%3E%28SOLD%29) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-03-04 | [`Martin's, Inc.`](https://google.com/search?q=Martin%27s%2C+Inc.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-02-20 | [`Activity in Ukraine`](https://google.com/search?q=Activity+in+Ukraine) | [lockbit3_cronos](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3_cronos) |
 | 2024-02-20 | [`Arrest in Poland`](https://google.com/search?q=Arrest+in+Poland) | [lockbit3_cronos](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3_cronos) |
 | 2024-02-20 | [`Sanctions`](https://google.com/search?q=Sanctions) | [lockbit3_cronos](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3_cronos) |
-| 2024-02-20 | [`US Indictments`](https://google.com/search?q=US+Indictments) | [lockbit3_cronos](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3_cronos) |
-| 2024-02-20 | [`Recovery Tool`](https://google.com/search?q=Recovery+Tool) | [lockbit3_cronos](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3_cronos) |
