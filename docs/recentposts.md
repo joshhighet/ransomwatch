@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-03-04 | [`AL SHEFA FARM<www.al-shefafarm.ro>(SOLD)`](https://google.com/search?q=AL+SHEFA+FARM%3Cwww.al-shefafarm.ro%3E%28SOLD%29) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-03-04 | [`Martin's, Inc.`](https://google.com/search?q=Martin%27s%2C+Inc.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-03-04 | [`highfashion.com.hk`](https://google.com/search?q=highfashion.com.hk) | [mallox](https://ransomwatch.telemetry.ltd/#/profiles?id=mallox) |
 | 2024-03-03 | [`Modern Kitchens`](https://google.com/search?q=Modern+Kitchens) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2024-03-03 | [`Stoney Creek Furniture`](https://google.com/search?q=Stoney+Creek+Furniture) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-02-20 | [`US Indictments`](https://google.com/search?q=US+Indictments) | [lockbit3_cronos](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3_cronos) |
 | 2024-02-20 | [`Recovery Tool`](https://google.com/search?q=Recovery+Tool) | [lockbit3_cronos](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3_cronos) |
 | 2024-02-20 | [`Lockbit Decryption Keys`](https://google.com/search?q=Lockbit+Decryption+Keys) | [lockbit3_cronos](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3_cronos) |
-| 2024-02-20 | [`Who is LockbitSupp?`](https://google.com/search?q=Who+is+LockbitSupp%3F) | [lockbit3_cronos](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3_cronos) |
-| 2024-02-20 | [`Lockbitsupp`](https://google.com/search?q=Lockbitsupp) | [lockbit3_cronos](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3_cronos) |
