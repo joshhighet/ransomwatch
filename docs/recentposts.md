@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-03-04 | [`highfashion.com.hk`](https://google.com/search?q=highfashion.com.hk) | [mallox](https://ransomwatch.telemetry.ltd/#/profiles?id=mallox) |
 | 2024-03-03 | [`Modern Kitchens`](https://google.com/search?q=Modern+Kitchens) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2024-03-03 | [`Stoney Creek Furniture`](https://google.com/search?q=Stoney+Creek+Furniture) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2024-03-03 | [`www.faison.com`](https://google.com/search?q=www.faison.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-02-20 | [`Lockbit Decryption Keys`](https://google.com/search?q=Lockbit+Decryption+Keys) | [lockbit3_cronos](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3_cronos) |
 | 2024-02-20 | [`Who is LockbitSupp?`](https://google.com/search?q=Who+is+LockbitSupp%3F) | [lockbit3_cronos](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3_cronos) |
 | 2024-02-20 | [`Lockbitsupp`](https://google.com/search?q=Lockbitsupp) | [lockbit3_cronos](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3_cronos) |
-| 2024-02-20 | [`LB Backend Leaks`](https://google.com/search?q=LB+Backend+Leaks) | [lockbit3_cronos](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3_cronos) |
