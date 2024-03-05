@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-03-05 | [`http://www.hotelcontinental.no`](https://google.com/search?q=http%3A%2F%2Fwww.hotelcontinental.no) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
+| 2024-03-05 | [`http://iemsc.com`](https://google.com/search?q=http%3A%2F%2Fiemsc.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
+| 2024-03-05 | [`http://www.hawita.de`](https://google.com/search?q=http%3A%2F%2Fwww.hawita.de) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-03-05 | [`www.tox.chat`](https://google.com/search?q=www.tox.chat) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
 | 2024-03-05 | [`central.k12.or.us`](https://google.com/search?q=central.k12.or.us) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-03-05 | [`DiVal Safety Equipment, Inc.`](https://google.com/search?q=DiVal+Safety+Equipment%2C+Inc.) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2024-02-20 | [`Account Closures`](https://google.com/search?q=Account+Closures) | [lockbit3_cronos](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3_cronos) |
 | 2024-02-20 | [`Affiliate Leaks`](https://google.com/search?q=Affiliate+Leaks) | [lockbit3_cronos](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3_cronos) |
 | 2024-02-20 | [`Prodaft`](https://google.com/search?q=Prodaft) | [lockbit3_cronos](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3_cronos) |
-| 2024-02-20 | [`Lockbit's Hackers exposed`](https://google.com/search?q=Lockbit%27s+Hackers+exposed) | [lockbit3_cronos](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3_cronos) |
-| 2024-02-20 | [`Affiliate infrastructure down`](https://google.com/search?q=Affiliate+infrastructure+down) | [lockbit3_cronos](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3_cronos) |
-| 2024-02-20 | [`StealBit down!`](https://google.com/search?q=StealBit+down%21) | [lockbit3_cronos](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3_cronos) |
