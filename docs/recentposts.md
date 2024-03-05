@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-03-05 | [`DiVal Safety Equipment, Inc.`](https://google.com/search?q=DiVal+Safety+Equipment%2C+Inc.) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-03-05 | [`Future Generations Foundation`](https://google.com/search?q=Future+Generations+Foundation) | [meow](https://ransomwatch.telemetry.ltd/#/profiles?id=meow) |
 | 2024-03-04 | [`se.com\$$33.5B\France\1.5TB\&lt;1%DISCLOSED\DATA SALE`](https://google.com/search?q=se.com%5C%24%2433.5B%5CFrance%5C1.5TB%5C%26lt%3B1%25DISCLOSED%5CDATA+SALE) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-03-04 | [`www.dismogas.com`](https://google.com/search?q=www.dismogas.com) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-02-20 | [`StealBit down!`](https://google.com/search?q=StealBit+down%21) | [lockbit3_cronos](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3_cronos) |
 | 2024-02-20 | [`Cyber Choices`](https://google.com/search?q=Cyber+Choices) | [lockbit3_cronos](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3_cronos) |
 | 2024-02-20 | [`Report Cyber Attacks!`](https://google.com/search?q=Report+Cyber+Attacks%21) | [lockbit3_cronos](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3_cronos) |
-| 2024-02-20 | [`Activity in Ukraine`](https://google.com/search?q=Activity+in+Ukraine) | [lockbit3_cronos](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3_cronos) |
