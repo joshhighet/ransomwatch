@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-03-05 | [`www.airbogo.com`](https://google.com/search?q=www.airbogo.com) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
 | 2024-03-05 | [`sunwave.com.cn`](https://google.com/search?q=sunwave.com.cn) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-03-05 | [`http://www.hotelcontinental.no`](https://google.com/search?q=http%3A%2F%2Fwww.hotelcontinental.no) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-03-05 | [`http://iemsc.com`](https://google.com/search?q=http%3A%2F%2Fiemsc.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-02-20 | [`Secureworks`](https://google.com/search?q=Secureworks) | [lockbit3_cronos](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3_cronos) |
 | 2024-02-20 | [`Lockbit's new encryptor`](https://google.com/search?q=Lockbit%27s+new+encryptor) | [lockbit3_cronos](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3_cronos) |
 | 2024-02-20 | [`Account Closures`](https://google.com/search?q=Account+Closures) | [lockbit3_cronos](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3_cronos) |
-| 2024-02-20 | [`Affiliate Leaks`](https://google.com/search?q=Affiliate+Leaks) | [lockbit3_cronos](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3_cronos) |
