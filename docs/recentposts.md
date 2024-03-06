@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-03-06 | [`Telecentro`](https://google.com/search?q=Telecentro) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-03-06 | [`Steiner (Austrian fu rniture makers)`](https://google.com/search?q=Steiner+%28Austrian+fu+rniture+makers%29) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-03-06 | [`Medical Billing Spec ialists`](https://google.com/search?q=Medical+Billing+Spec+ialists) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-03-06 | [`Biomedical Research Institute`](https://google.com/search?q=Biomedical+Research+Institute) | [meow](https://ransomwatch.telemetry.ltd/#/profiles?id=meow) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-02-21 | [`Axel Johnson`](https://google.com/search?q=Axel+Johnson) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2024-02-21 | [`Acies Srl`](https://google.com/search?q=Acies+Srl) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2024-02-20 | [`https://www.infinitiusa.com`](https://google.com/search?q=https%3A%2F%2Fwww.infinitiusa.com) | [mogilevich](https://ransomwatch.telemetry.ltd/#/profiles?id=mogilevich) |
-| 2024-02-20 | [`River Delta Unified School District`](https://google.com/search?q=River+Delta+Unified+School+District) | [meow](https://ransomwatch.telemetry.ltd/#/profiles?id=meow) |
