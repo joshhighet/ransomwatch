@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-03-06 | [`www.viadirectamarketing.com`](https://google.com/search?q=www.viadirectamarketing.com) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
 | 2024-03-06 | [`Liquid Environmental Solutions`](https://google.com/search?q=Liquid+Environmental+Solutions) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2024-03-06 | [`Infosoft`](https://google.com/search?q=Infosoft) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-03-06 | [`Telecentro`](https://google.com/search?q=Telecentro) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-02-21 | [`westward360.com`](https://google.com/search?q=westward360.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
 | 2024-02-21 | [`doneff.com`](https://google.com/search?q=doneff.com) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
 | 2024-02-21 | [`Helical Technology`](https://google.com/search?q=Helical+Technology) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2024-02-21 | [`Axel Johnson`](https://google.com/search?q=Axel+Johnson) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
