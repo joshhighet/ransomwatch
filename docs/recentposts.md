@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-03-06 | [`MainVest`](https://google.com/search?q=MainVest) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-03-06 | [`C?????????? A???????e T???????????`](https://google.com/search?q=C%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F+A%3F%3F%3F%3F%3F%3F%3Fe+T%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-03-06 | [`www.loghmanpharma.com`](https://google.com/search?q=www.loghmanpharma.com) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
 | 2024-03-06 | [`www.viadirectamarketing.com`](https://google.com/search?q=www.viadirectamarketing.com) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
 | 2024-03-06 | [`Liquid Environmental Solutions`](https://google.com/search?q=Liquid+Environmental+Solutions) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2024-03-06 | [`Infosoft`](https://google.com/search?q=Infosoft) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2024-02-21 | [`Austen Consultants`](https://google.com/search?q=Austen+Consultants) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2024-02-21 | [`[EN]`](https://google.com/search?q=%5BEN%5D) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-02-21 | [`compressionleasing.com`](https://google.com/search?q=compressionleasing.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
-| 2024-02-21 | [`westward360.com`](https://google.com/search?q=westward360.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
-| 2024-02-21 | [`doneff.com`](https://google.com/search?q=doneff.com) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
-| 2024-02-21 | [`Helical Technology`](https://google.com/search?q=Helical+Technology) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
