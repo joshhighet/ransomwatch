@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-03-06 | [`http://brightwires.com.sa`](https://google.com/search?q=http%3A%2F%2Fbrightwires.com.sa) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-03-06 | [`hilka.co.uk`](https://google.com/search?q=hilka.co.uk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-03-06 | [`MainVest`](https://google.com/search?q=MainVest) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-03-06 | [`C?????????? A???????e T???????????`](https://google.com/search?q=C%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F+A%3F%3F%3F%3F%3F%3F%3Fe+T%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-02-21 | [`HRTec Inc`](https://google.com/search?q=HRTec+Inc) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-02-21 | [`Marchassociates`](https://google.com/search?q=Marchassociates) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-02-21 | [`Austen Consultants`](https://google.com/search?q=Austen+Consultants) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2024-02-21 | [`[EN]`](https://google.com/search?q=%5BEN%5D) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
