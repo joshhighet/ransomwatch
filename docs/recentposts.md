@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-03-06 | [`K???o???`](https://google.com/search?q=K%3F%3F%3Fo%3F%3F%3F) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-03-06 | [`Mediplast AB`](https://google.com/search?q=Mediplast+AB) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2024-03-06 | [`Kudulis Reisinger Price`](https://google.com/search?q=Kudulis+Reisinger+Price) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2024-03-06 | [`Global Zone`](https://google.com/search?q=Global+Zone) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-02-20 | [`Raocala`](https://google.com/search?q=Raocala) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2024-02-20 | [`advancedprosolutions.com\$5M\USA\54GB\&lt;1%DISCLOSED`](https://google.com/search?q=advancedprosolutions.com%5C%245M%5CUSA%5C54GB%5C%26lt%3B1%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-02-20 | [`Finlay Screening & Crushing Systems`](https://google.com/search?q=Finlay+Screening+%26+Crushing+Systems) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2024-02-20 | [`Closure`](https://google.com/search?q=Closure) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
