@@ -16,6 +16,7 @@ _last `200` posts_
 | 2024-03-07 | [`JVCKENWOOD `](https://google.com/search?q=JVCKENWOOD+) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2024-03-07 | [`American Renal Associates `](https://google.com/search?q=American+Renal+Associates+) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2024-03-07 | [`US #1364 Federal Credit Union`](https://google.com/search?q=US+%231364+Federal+Credit+Union) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
+| 2024-03-07 | [`www.duvel.com`](https://google.com/search?q=www.duvel.com) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
 | 2024-03-06 | [`http://brightwires.com.sa`](https://google.com/search?q=http%3A%2F%2Fbrightwires.com.sa) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-03-06 | [`hilka.co.uk`](https://google.com/search?q=hilka.co.uk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-03-06 | [`MainVest`](https://google.com/search?q=MainVest) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-02-22 | [`Hardeman County Community Health Center`](https://google.com/search?q=Hardeman+County+Community+Health+Center) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2024-02-22 | [`New York Law Firm with a National Presence`](https://google.com/search?q=New+York+Law+Firm+with+a+National+Presence) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-02-22 | [`Climatech Inc`](https://google.com/search?q=Climatech+Inc) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2024-02-22 | [`US Merchants`](https://google.com/search?q=US+Merchants) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
