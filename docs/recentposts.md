@@ -4,6 +4,18 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-03-07 | [`vsexshop.ru`](https://google.com/search?q=vsexshop.ru) | [werewolves](https://ransomwatch.telemetry.ltd/#/profiles?id=werewolves) |
+| 2024-03-07 | [`davidsbridal.com`](https://google.com/search?q=davidsbridal.com) | [werewolves](https://ransomwatch.telemetry.ltd/#/profiles?id=werewolves) |
+| 2024-03-07 | [`Centennial Law Group LLP`](https://google.com/search?q=Centennial+Law+Group+LLP) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
+| 2024-03-07 | [`Eastern Rio Blanco Metropolitan`](https://google.com/search?q=Eastern+Rio+Blanco+Metropolitan) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
+| 2024-03-07 | [`Chris Argiropoulos Professional`](https://google.com/search?q=Chris+Argiropoulos+Professional) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
+| 2024-03-07 | [`Paul Davis Restoration`](https://google.com/search?q=Paul+Davis+Restoration) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
+| 2024-03-07 | [`Veeco`](https://google.com/search?q=Veeco) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
+| 2024-03-07 | [`Haivision MCS`](https://google.com/search?q=Haivision+MCS) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
+| 2024-03-07 | [`Tocci Building Corporation`](https://google.com/search?q=Tocci+Building+Corporation) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
+| 2024-03-07 | [`JVCKENWOOD `](https://google.com/search?q=JVCKENWOOD+) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
+| 2024-03-07 | [`American Renal Associates `](https://google.com/search?q=American+Renal+Associates+) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
+| 2024-03-07 | [`US #1364 Federal Credit Union`](https://google.com/search?q=US+%231364+Federal+Credit+Union) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2024-03-06 | [`http://brightwires.com.sa`](https://google.com/search?q=http%3A%2F%2Fbrightwires.com.sa) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-03-06 | [`hilka.co.uk`](https://google.com/search?q=hilka.co.uk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-03-06 | [`MainVest`](https://google.com/search?q=MainVest) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -192,15 +204,3 @@ _last `200` posts_
 | 2024-02-22 | [`New York Law Firm with a National Presence`](https://google.com/search?q=New+York+Law+Firm+with+a+National+Presence) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-02-22 | [`Climatech Inc`](https://google.com/search?q=Climatech+Inc) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-02-22 | [`US Merchants`](https://google.com/search?q=US+Merchants) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2024-02-22 | [`Birchall Foodservice`](https://google.com/search?q=Birchall+Foodservice) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2024-02-22 | [`Dilweg`](https://google.com/search?q=Dilweg) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2024-02-22 | [`ZircoDATA`](https://google.com/search?q=ZircoDATA) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2024-02-22 | [`Worthen Industries [We're giving you one last chance to save your business]`](https://google.com/search?q=Worthen+Industries+%5BWe%27re+giving+you+one+last+chance+to+save+your+business%5D) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2024-02-21 | [`FR arrest warrants`](https://google.com/search?q=FR+arrest+warrants) | [lockbit3_cronos](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3_cronos) |
-| 2024-02-21 | [`KHSS (You have 3 days)`](https://google.com/search?q=KHSS+%28You+have+3+days%29) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2024-02-21 | [`Lancaster`](https://google.com/search?q=Lancaster) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2024-02-21 | [`Desarrollo De Tecnol ogia y Sistemas Ltda`](https://google.com/search?q=Desarrollo+De+Tecnol+ogia+y+Sistemas+Ltda) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2024-02-21 | [`Rewards for Reporting`](https://google.com/search?q=Rewards+for+Reporting) | [lockbit3_cronos](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3_cronos) |
-| 2024-02-21 | [`HRTec Inc`](https://google.com/search?q=HRTec+Inc) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2024-02-21 | [`Marchassociates`](https://google.com/search?q=Marchassociates) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2024-02-21 | [`Austen Consultants`](https://google.com/search?q=Austen+Consultants) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
