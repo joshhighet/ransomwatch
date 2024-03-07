@@ -1251,17 +1251,6 @@ def meow():
     for post in posts:
         appender(post, 'meow')
 
-def siegedsec():
-    stdlog('parser: ' + 'siegedsec')
-    parser = '''
-    grep '<tr>' -C 1 source/siegedsec-*.html | grep '<td>' | cut -d '>' -f 2 | cut -d '<' -f 1
-    '''
-    posts = runshellcmd(parser)
-    if len(posts) == 1:
-        errlog('siegedsec: ' + 'parsing fail')
-    for post in posts:
-        appender(post, 'siegedsec')
-
 def dragonforce():
     stdlog('parser: ' + 'dragonforce')
     # grep -o 'href="https://[^"]*' source/dragonforce-*.html | sed 's/href="//'

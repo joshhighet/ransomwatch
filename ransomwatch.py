@@ -287,7 +287,6 @@ if args.mode == 'parse':
     parsers.losttrust()
     parsers.hunters()
     parsers.meow()
-    parsers.siegedsec()
     parsers.dragonforce()
     parsers.werewolves()
     parsers.malekteam()
