@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-03-07 | [`Palmer Construction Co., Inc`](https://google.com/search?q=Palmer+Construction+Co.%2C+Inc) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-03-07 | [`vsexshop.ru`](https://google.com/search?q=vsexshop.ru) | [werewolves](https://ransomwatch.telemetry.ltd/#/profiles?id=werewolves) |
 | 2024-03-07 | [`davidsbridal.com`](https://google.com/search?q=davidsbridal.com) | [werewolves](https://ransomwatch.telemetry.ltd/#/profiles?id=werewolves) |
 | 2024-03-07 | [`https://www.dinamicoil.com/ #DinamicOil #TRIgona`](https://google.com/search?q=https%3A%2F%2Fwww.dinamicoil.com%2F+%23DinamicOil+%23TRIgona) | [trigona](https://ransomwatch.telemetry.ltd/#/profiles?id=trigona) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-02-22 | [`Quik Pawn Shop`](https://google.com/search?q=Quik+Pawn+Shop) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-02-22 | [`mtmrobotics.com`](https://google.com/search?q=mtmrobotics.com) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
 | 2024-02-22 | [`abcor.com.au`](https://google.com/search?q=abcor.com.au) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
-| 2024-02-22 | [`PEER Consultants`](https://google.com/search?q=PEER+Consultants) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
