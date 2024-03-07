@@ -5263,7 +5263,7 @@
                 "available": false,
                 "updated": "2024-03-03 16:32:06.662169",
                 "lastscrape": "2024-03-03 16:32:06.662159",
-                "enabled": true
+                "enabled": false
             }
         ],
         "profile": [
@@ -5303,7 +5303,7 @@
     {
         "name": "lockbit3_cronos",
         "captcha": false,
-        "parser": false,
+        "parser": true,
         "javascript_render": false,
         "meta": null,
         "locations": [
@@ -5515,7 +5515,7 @@
     {
         "name": "blackout",
         "captcha": false,
-        "parser": false,
+        "parser": true,
         "javascript_render": true,
         "meta": null,
         "locations": [
@@ -5527,6 +5527,26 @@
                 "available": true,
                 "updated": "2024-03-07 19:43:23.540646",
                 "lastscrape": "2024-03-07 19:43:23.540634",
+                "enabled": true
+            }
+        ],
+        "profile": []
+    },
+    {
+        "name": "donex",
+        "captcha": false,
+        "parser": true,
+        "javascript_render": false,
+        "meta": null,
+        "locations": [
+            {
+                "fqdn": "g3h3klsev3eiofxhykmtenmdpi67wzmaixredk5pjuttbx7okcfkftqd.onion",
+                "title": "Donex ransomeware leakage - ",
+                "version": 3,
+                "slug": "http://g3h3klsev3eiofxhykmtenmdpi67wzmaixredk5pjuttbx7okcfkftqd.onion",
+                "available": true,
+                "updated": "2024-03-08 09:18:37.627727",
+                "lastscrape": "2024-03-08 09:18:37.627715",
                 "enabled": true
             }
         ],

@@ -1361,3 +1361,14 @@ def blackout():
         errlog('blackout: ' + 'parsing fail')
     for post in posts:
         appender(post, 'blackout')
+
+def donex():
+    stdlog('parser: ' + 'donex')
+    parser = '''
+    grep '<a class="post-title"' source/donex-*.html | cut -d '>' -f 2 | cut -d '<' -f 1 | tr '[:upper:]' '[:lower:]' || true
+    '''
+    posts = runshellcmd(parser)
+    if len(posts) == 1:
+        errlog('donex: ' + 'parsing fail')
+    for post in posts:
+        appender(post, 'donex')
