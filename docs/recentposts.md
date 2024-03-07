@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-03-07 | [`rmhfranchise.com`](https://google.com/search?q=rmhfranchise.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-03-07 | [`vdhelm`](https://google.com/search?q=vdhelm) | [donex](https://ransomwatch.telemetry.ltd/#/profiles?id=donex) |
 | 2024-03-07 | [`pfleet`](https://google.com/search?q=pfleet) | [donex](https://ransomwatch.telemetry.ltd/#/profiles?id=donex) |
 | 2024-03-07 | [`elsapspa`](https://google.com/search?q=elsapspa) | [donex](https://ransomwatch.telemetry.ltd/#/profiles?id=donex) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-02-23 | [`H*********** *********y **********`](https://google.com/search?q=H%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A%2A%2Ay+%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-02-23 | [`APEX - apexspedition.de`](https://google.com/search?q=APEX+-+apexspedition.de) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2024-02-23 | [`ANDFLA SRL`](https://google.com/search?q=ANDFLA+SRL) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2024-02-23 | [`C and J Industries, Inc.`](https://google.com/search?q=C+and+J+Industries%2C+Inc.) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
