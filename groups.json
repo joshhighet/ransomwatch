@@ -5076,6 +5076,16 @@
                 "available": true,
                 "updated": "2024-03-07 01:55:38.395183",
                 "lastscrape": "2024-03-07 01:55:38.395169",
+                "enabled": false
+            },
+            {
+                "fqdn": "weerwolven.biz",
+                "title": null,
+                "version": 0,
+                "slug": "https://weerwolven.biz",
+                "available": false,
+                "updated": null,
+                "lastscrape": "2021-05-01 00:00:00.000000",
                 "enabled": true
             }
         ],
