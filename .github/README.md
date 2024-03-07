@@ -83,7 +83,16 @@ docker run -p9050:9050 ghcr.io/joshhighet/torsocc:latest
 ```
 
 ```shell
-➜  ransomwatch git:(main) ✗ ./ransomwatch.py --help
+usage: ransomwatch.py [-h] [--name NAME] [--location LOCATION] {add,scrape,parse,markdown}
+
+positional arguments:
+  {add,scrape,parse,markdown}
+                        operation to execute
+
+optional arguments:
+  -h, --help            show this help message and exit
+  --name NAME           provider name
+  --location LOCATION   target web location (full URI)
 
        _______________                        |*\_/*|________
       |  ___________  |                      ||_/-\_|______  |
@@ -95,24 +104,8 @@ docker run -p9050:9050 ghcr.io/joshhighet/torsocc:latest
       |_____|\_/|_____|                      |_______________|
         _|__|/ \|_|_.............💔.............._|________|_
        / ********** \                          / ********** \
-     /  ************  \     ransomwhat?      /  ************  \
+     /  ************  \   👀 🦅 ransomwatch  /  ************  \
     --------------------                    --------------------
-
-usage: ransomwatch.py [-h] [--name NAME] [--location LOCATION]
-                      [--append APPEND]
-                      {add,append,scrape,parse,list,markdown,check}
-
-👀 🦅 ransomwatch
-
-positional arguments:
-  {add,append,scrape,parse,list,markdown,check}
-                        operation to execute
-
-options:
-  -h, --help            show this help message and exit
-  --name NAME           provider name
-  --location LOCATION   onionsite fqdn
-  --append APPEND       add onionsite fqdn to existing record
 ```
 
 newly indexed posts can be sent to discord by providing a `DISCORD_WEBHOOK` var when running `parse`.
