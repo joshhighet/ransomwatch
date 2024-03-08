@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-03-08 | [`SIEA <siea.sk>`](https://google.com/search?q=SIEA+%3Csiea.sk%3E) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-03-08 | [`Hozzify <www.hozzify.co>`](https://google.com/search?q=Hozzify+%3Cwww.hozzify.co%3E) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-03-08 | [`http://www.enact-architecture.fr`](https://google.com/search?q=http%3A%2F%2Fwww.enact-architecture.fr) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-03-07 | [`rmhfranchise.com`](https://google.com/search?q=rmhfranchise.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-03-07 | [`vdhelm`](https://google.com/search?q=vdhelm) | [donex](https://ransomwatch.telemetry.ltd/#/profiles?id=donex) |
 | 2024-03-07 | [`pfleet`](https://google.com/search?q=pfleet) | [donex](https://ransomwatch.telemetry.ltd/#/profiles?id=donex) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2024-02-23 | [`Rapid Granulator`](https://google.com/search?q=Rapid+Granulator) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2024-02-23 | [`Acorn`](https://google.com/search?q=Acorn) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2024-02-23 | [`Pressco Technology`](https://google.com/search?q=Pressco+Technology) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
-| 2024-02-23 | [`H*********** *********y **********`](https://google.com/search?q=H%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A%2A%2Ay+%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2024-02-23 | [`APEX - apexspedition.de`](https://google.com/search?q=APEX+-+apexspedition.de) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
-| 2024-02-23 | [`ANDFLA SRL`](https://google.com/search?q=ANDFLA+SRL) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
