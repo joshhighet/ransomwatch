@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-03-09 | [`Continental Aerospace Technologies`](https://google.com/search?q=Continental+Aerospace+Technologies) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-03-08 | [`redwoodcoastrc.org`](https://google.com/search?q=redwoodcoastrc.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-03-08 | [`http://www.epowerrail.com`](https://google.com/search?q=http%3A%2F%2Fwww.epowerrail.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-03-08 | [`SIEA <siea.sk>`](https://google.com/search?q=SIEA+%3Csiea.sk%3E) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-02-23 | [`IJM Corporation`](https://google.com/search?q=IJM+Corporation) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-02-23 | [`Family Health center`](https://google.com/search?q=Family+Health+center) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2024-02-23 | [`remkes.nl\$31.4M\Netherlands\190GB\&lt;1%DISCLOSED`](https://google.com/search?q=remkes.nl%5C%2431.4M%5CNetherlands%5C190GB%5C%26lt%3B1%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2024-02-23 | [`Rapid Granulator`](https://google.com/search?q=Rapid+Granulator) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
