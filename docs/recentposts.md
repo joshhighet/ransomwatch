@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-03-09 | [`DVT <dvttechnologyltd.com>`](https://google.com/search?q=DVT+%3Cdvttechnologyltd.com%3E) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-03-09 | [`Rekamy <www.rekamy.com>`](https://google.com/search?q=Rekamy+%3Cwww.rekamy.com%3E) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-03-09 | [`Go4kora <go4kora.tv>`](https://google.com/search?q=Go4kora+%3Cgo4kora.tv%3E) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-03-09 | [`http://www.hug.de`](https://google.com/search?q=http%3A%2F%2Fwww.hug.de) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-03-09 | [`Lindsay Municipal Hospital`](https://google.com/search?q=Lindsay+Municipal+Hospital) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-03-09 | [`Fincasrevuelta`](https://google.com/search?q=Fincasrevuelta) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2024-02-24 | [`fbi.gov`](https://google.com/search?q=fbi.gov) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-24 | [`equilend.com`](https://google.com/search?q=equilend.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-24 | [`crbgroup.com`](https://google.com/search?q=crbgroup.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-02-24 | [`fbi.gov`](https://google.com/search?q=fbi.gov) | [lockbit3_fs](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3_fs) |
-| 2024-02-24 | [`http://gcherrera.com`](https://google.com/search?q=http%3A%2F%2Fgcherrera.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
-| 2024-02-24 | [`http://kinematica.ch`](https://google.com/search?q=http%3A%2F%2Fkinematica.ch) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
