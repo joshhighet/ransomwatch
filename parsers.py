@@ -1232,7 +1232,7 @@ def losttrust():
 def hunters():
     stdlog('parser: ' + 'hunters')
     parser = '''
-    jq -r '.[].title' source/hunters-hunters55rdx*.html || true
+    jq -r '.[].title' source/hunters-hunters55*.html | sort -u || true
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
