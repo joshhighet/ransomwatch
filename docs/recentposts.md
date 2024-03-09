@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-03-09 | [`https://ghcscw.com/`](https://google.com/search?q=https%3A%2F%2Fghcscw.com%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-03-09 | [`ACE Air Cargo`](https://google.com/search?q=ACE+Air+Cargo) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-03-09 | [`Watsonclinic.com`](https://google.com/search?q=Watsonclinic.com) | [donutleaks](https://ransomwatch.telemetry.ltd/#/profiles?id=donutleaks) |
 | 2024-03-09 | [`Continental Aerospace Technologies`](https://google.com/search?q=Continental+Aerospace+Technologies) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-02-24 | [`AL SHEFA FARM`](https://google.com/search?q=AL+SHEFA+FARM) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-02-24 | [`Worthen Industries [FULL DATA]`](https://google.com/search?q=Worthen+Industries+%5BFULL+DATA%5D) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2024-02-23 | [`Welch's`](https://google.com/search?q=Welch%27s) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-02-23 | [`IJM Corporation`](https://google.com/search?q=IJM+Corporation) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
