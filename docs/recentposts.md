@@ -4,6 +4,10 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-03-11 | [`SREE Hotels`](https://google.com/search?q=SREE+Hotels) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-03-11 | [`Q?? ??o??`](https://google.com/search?q=Q%3F%3F+%3F%3Fo%3F%3F) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-03-11 | [`Premier Technology`](https://google.com/search?q=Premier+Technology) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-03-11 | [`londonvisionclinic.com`](https://google.com/search?q=londonvisionclinic.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-03-11 | [`Computan <www.computan.com>`](https://google.com/search?q=Computan+%3Cwww.computan.com%3E) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-03-11 | [`plymouth.com\$137M\USA\1.83TB\&lt;1%DISCLOSED\DATA SALE`](https://google.com/search?q=plymouth.com%5C%24137M%5CUSA%5C1.83TB%5C%26lt%3B1%25DISCLOSED%5CDATA+SALE) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-03-11 | [`neigc.com`](https://google.com/search?q=neigc.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
@@ -200,7 +204,3 @@ _last `200` posts_
 | 2024-02-25 | [`BM Catalysts    bmcatalysts.co.uk`](https://google.com/search?q=BM+Catalysts++++bmcatalysts.co.uk) | [alphalocker](https://ransomwatch.telemetry.ltd/#/profiles?id=alphalocker) |
 | 2024-02-25 | [`Dobrowski Stafford and Pierce`](https://google.com/search?q=Dobrowski+Stafford+and+Pierce) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-02-25 | [`Roncelli Plastics`](https://google.com/search?q=Roncelli+Plastics) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2024-02-25 | [`www.Abelsantosyasoc.com.ar`](https://google.com/search?q=www.Abelsantosyasoc.com.ar) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
-| 2024-02-25 | [`www.calcomp.co.th`](https://google.com/search?q=www.calcomp.co.th) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
-| 2024-02-25 | [`www.delia.pl`](https://google.com/search?q=www.delia.pl) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
-| 2024-02-25 | [`www.kai.id`](https://google.com/search?q=www.kai.id) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
