@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-03-11 | [`QI Group`](https://google.com/search?q=QI+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-03-11 | [`Bridger Insurance`](https://google.com/search?q=Bridger+Insurance) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-03-11 | [`BiTec`](https://google.com/search?q=BiTec) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-03-11 | [`lec-london.uk`](https://google.com/search?q=lec-london.uk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-03-11 | [`SREE Hotels`](https://google.com/search?q=SREE+Hotels) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-03-11 | [`Q?? ??o??`](https://google.com/search?q=Q%3F%3F+%3F%3Fo%3F%3F) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2024-02-25 | [`apeagers.com.au`](https://google.com/search?q=apeagers.com.au) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-25 | [`AL SHEFA FARM<https://al-shefafarm.ro>`](https://google.com/search?q=AL+SHEFA+FARM%3Chttps%3A%2F%2Fal-shefafarm.ro%3E) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-02-25 | [`http://www.potogoldcoffee.com`](https://google.com/search?q=http%3A%2F%2Fwww.potogoldcoffee.com) | [ciphbit](https://ransomwatch.telemetry.ltd/#/profiles?id=ciphbit) |
-| 2024-02-25 | [`dunaway.com`](https://google.com/search?q=dunaway.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-02-25 | [`BM Catalysts    bmcatalysts.co.uk`](https://google.com/search?q=BM+Catalysts++++bmcatalysts.co.uk) | [alphalocker](https://ransomwatch.telemetry.ltd/#/profiles?id=alphalocker) |
-| 2024-02-25 | [`Dobrowski Stafford and Pierce`](https://google.com/search?q=Dobrowski+Stafford+and+Pierce) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
