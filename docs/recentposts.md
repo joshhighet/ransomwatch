@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-03-11 | [`NetVigour`](https://google.com/search?q=NetVigour) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-03-11 | [`cleshar.co.uk\$239.3M\UK\1TB\&lt;1%DISCLOSED\DATA SALE`](https://google.com/search?q=cleshar.co.uk%5C%24239.3M%5CUK%5C1TB%5C%26lt%3B1%25DISCLOSED%5CDATA+SALE) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-03-11 | [`ammega.com\$1.2B\Netherlands\3TB\&lt;1%DISCLOSED\DATA SALE`](https://google.com/search?q=ammega.com%5C%241.2B%5CNetherlands%5C3TB%5C%26lt%3B1%25DISCLOSED%5CDATA+SALE) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-03-11 | [`renypicot.es\$911.7M\Spain\350GB\&lt;1%\DATA SALE`](https://google.com/search?q=renypicot.es%5C%24911.7M%5CSpain%5C350GB%5C%26lt%3B1%25%5CDATA+SALE) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-02-25 | [`www.bombaygrills.com`](https://google.com/search?q=www.bombaygrills.com) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
 | 2024-02-24 | [`Wangkanai Group`](https://google.com/search?q=Wangkanai+Group) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2024-02-24 | [`nationaldentex.com`](https://google.com/search?q=nationaldentex.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-02-24 | [`magierp.com`](https://google.com/search?q=magierp.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
