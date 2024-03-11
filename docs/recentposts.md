@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-03-11 | [`Scadea Solutions <scadea.com>`](https://google.com/search?q=Scadea+Solutions+%3Cscadea.com%3E) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-03-09 | [`DVT <dvttechnologyltd.com>`](https://google.com/search?q=DVT+%3Cdvttechnologyltd.com%3E) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-03-09 | [`Rekamy <www.rekamy.com>`](https://google.com/search?q=Rekamy+%3Cwww.rekamy.com%3E) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-03-09 | [`Go4kora <go4kora.tv>`](https://google.com/search?q=Go4kora+%3Cgo4kora.tv%3E) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-02-24 | [`fultoncountyga.gov`](https://google.com/search?q=fultoncountyga.gov) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-24 | [`fbi.gov`](https://google.com/search?q=fbi.gov) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-24 | [`equilend.com`](https://google.com/search?q=equilend.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-02-24 | [`crbgroup.com`](https://google.com/search?q=crbgroup.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
