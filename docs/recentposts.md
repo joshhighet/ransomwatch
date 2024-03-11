@@ -4,6 +4,12 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-03-11 | [`White Oak Partners`](https://google.com/search?q=White+Oak+Partners) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-03-11 | [`Ruda Auto`](https://google.com/search?q=Ruda+Auto) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-03-11 | [`Image Pointe`](https://google.com/search?q=Image+Pointe) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-03-11 | [`Grassmid Transport`](https://google.com/search?q=Grassmid+Transport) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-03-11 | [`Fashion UK`](https://google.com/search?q=Fashion+UK) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-03-11 | [`Canada Revenue Agency`](https://google.com/search?q=Canada+Revenue+Agency) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-03-11 | [`QI Group`](https://google.com/search?q=QI+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-03-11 | [`Bridger Insurance`](https://google.com/search?q=Bridger+Insurance) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-03-11 | [`BiTec`](https://google.com/search?q=BiTec) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -198,9 +204,3 @@ _last `200` posts_
 | 2024-02-25 | [`gatesshields.com`](https://google.com/search?q=gatesshields.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-25 | [`stsaviationgroup.com`](https://google.com/search?q=stsaviationgroup.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-25 | [`stemcor.com`](https://google.com/search?q=stemcor.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-02-25 | [`mcs360.com`](https://google.com/search?q=mcs360.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-02-25 | [`igs-inc.com`](https://google.com/search?q=igs-inc.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-02-25 | [`groupe-idea.com`](https://google.com/search?q=groupe-idea.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-02-25 | [`apeagers.com.au`](https://google.com/search?q=apeagers.com.au) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-02-25 | [`AL SHEFA FARM<https://al-shefafarm.ro>`](https://google.com/search?q=AL+SHEFA+FARM%3Chttps%3A%2F%2Fal-shefafarm.ro%3E) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-02-25 | [`http://www.potogoldcoffee.com`](https://google.com/search?q=http%3A%2F%2Fwww.potogoldcoffee.com) | [ciphbit](https://ransomwatch.telemetry.ltd/#/profiles?id=ciphbit) |
