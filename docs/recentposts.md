@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-03-11 | [`Computan <www.computan.com>`](https://google.com/search?q=Computan+%3Cwww.computan.com%3E) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-03-11 | [`plymouth.com\$137M\USA\1.83TB\&lt;1%DISCLOSED\DATA SALE`](https://google.com/search?q=plymouth.com%5C%24137M%5CUSA%5C1.83TB%5C%26lt%3B1%25DISCLOSED%5CDATA+SALE) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-03-11 | [`neigc.com`](https://google.com/search?q=neigc.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
 | 2024-03-11 | [`gpaa.gov.za`](https://google.com/search?q=gpaa.gov.za) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-03-11 | [`NetVigour`](https://google.com/search?q=NetVigour) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-02-25 | [`www.calcomp.co.th`](https://google.com/search?q=www.calcomp.co.th) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
 | 2024-02-25 | [`www.delia.pl`](https://google.com/search?q=www.delia.pl) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
 | 2024-02-25 | [`www.kai.id`](https://google.com/search?q=www.kai.id) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
-| 2024-02-25 | [`www.pcmarket.uz`](https://google.com/search?q=www.pcmarket.uz) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
-| 2024-02-25 | [`www.bombaygrills.com`](https://google.com/search?q=www.bombaygrills.com) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
