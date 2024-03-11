@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-03-11 | [`cleshar.co.uk\$239.3M\UK\1TB\&lt;1%DISCLOSED\DATA SALE`](https://google.com/search?q=cleshar.co.uk%5C%24239.3M%5CUK%5C1TB%5C%26lt%3B1%25DISCLOSED%5CDATA+SALE) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
+| 2024-03-11 | [`ammega.com\$1.2B\Netherlands\3TB\&lt;1%DISCLOSED\DATA SALE`](https://google.com/search?q=ammega.com%5C%241.2B%5CNetherlands%5C3TB%5C%26lt%3B1%25DISCLOSED%5CDATA+SALE) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
+| 2024-03-11 | [`renypicot.es\$911.7M\Spain\350GB\&lt;1%\DATA SALE`](https://google.com/search?q=renypicot.es%5C%24911.7M%5CSpain%5C350GB%5C%26lt%3B1%25%5CDATA+SALE) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-03-11 | [`Scadea Solutions <scadea.com>`](https://google.com/search?q=Scadea+Solutions+%3Cscadea.com%3E) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-03-09 | [`DVT <dvttechnologyltd.com>`](https://google.com/search?q=DVT+%3Cdvttechnologyltd.com%3E) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-03-09 | [`Rekamy <www.rekamy.com>`](https://google.com/search?q=Rekamy+%3Cwww.rekamy.com%3E) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2024-02-24 | [`Wangkanai Group`](https://google.com/search?q=Wangkanai+Group) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2024-02-24 | [`nationaldentex.com`](https://google.com/search?q=nationaldentex.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-24 | [`magierp.com`](https://google.com/search?q=magierp.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-02-24 | [`fultoncountyga.gov`](https://google.com/search?q=fultoncountyga.gov) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-02-24 | [`fbi.gov`](https://google.com/search?q=fbi.gov) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-02-24 | [`equilend.com`](https://google.com/search?q=equilend.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
