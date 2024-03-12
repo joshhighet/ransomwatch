@@ -547,7 +547,7 @@
 
 
                           <script>
-								var targetDate15 = new Date('').getTime();
+								var targetDate15 = new Date('February 18 2024').getTime();
 								var timerDisplay15 = document.getElementById('timer15');
 								var timerInterval15 = setInterval(function() {
 									var now15 = new Date().getTime();
@@ -683,7 +683,7 @@
 								</td>
 							</tr>
 							<script>
-								var targetDate13 = new Date('February 18 2024').getTime();
+								var targetDate13 = new Date('February 19 2024').getTime();
 								var timerDisplay13 = document.getElementById('timer13');
 								var timerInterval13 = setInterval(function() {
 									var now13 = new Date().getTime();
@@ -763,77 +763,8 @@
 									}
 								}, 1000);
 							</script>
-							
-
-
-
-
-
-
-
-
-
-
-
-
 						
-						<tbody>						
-							<tr style="background-color: rgb(245, 152, 152);">
-						
-								<td class="table-plus">
-									<div class="name-avatar d-flex align-items-center">
-										<div class="avatar mr-2 flex-shrink-0">
-											<img src="vendors/images/companyimage/logohome.jpg"
-												 class="border-radius-100 shadow"
-												 width="40"
-												 height="40"
-												 alt=""
-											/>
-										</div>
-										<div class="txt">
-											<div class="weight-600">dismogas</div>
-										</div>
-									</div>
-								</td>
-								<td>Colombia</td>
-								<td>7 GB</td>
-								<td>www.dismogas.com</td>
-								<td>04/03/2024</td>
-								<td>
-									<div class="table-actions">
-										<div id="timer" style="color: rgb(226, 2, 2); font-size: small;"></div>
-									</div>
-								</td>
-								<td>
-									<div class="table-actions">
-										<a href="" data-color="#265ed7"
-										 class="border-radius-100 shadow" style="width: 40px; height: 40px; background-color: #ffffff; text-align: center; line-height: 40px; font-size: small;">
-											0%
-									</div>
-								</td>
-							</tr>
-						
-							<script>
-								var targetDate2 = new Date('March 11 2024').getTime();
-								var timerDisplay2 = document.getElementById('timer');
-								var timerInterval2 = setInterval(function() {
-									var now2 = new Date().getTime();
-									var distance2 = targetDate2 - now2;
-						
-									var days2 = Math.floor(distance2 / (1000 * 60 * 60 * 24));
-									var hours2 = Math.floor((distance2 % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
-									var minutes2 = Math.floor((distance2 % (1000 * 60 * 60)) / (1000 * 60));
-									var seconds2 = Math.floor((distance2 % (1000 * 60)) / 1000);
-						
-									timerDisplay2.innerHTML = days2 + "d " + hours2 + "h " + minutes2 + "m " + seconds2 + "s ";
-						
-									if (distance2 < 0) {
-										clearInterval(timerInterval2);
-										timerDisplay2.innerHTML = "FINISHED";
-									}
-								}, 1000);
-							</script>
-						</tbody>
+
 						
 						<tbody>						
 							<tr style="background-color: rgb(245, 152, 152);">
