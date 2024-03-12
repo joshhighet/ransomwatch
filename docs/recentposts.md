@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-03-12 | [`Sprimoglass`](https://google.com/search?q=Sprimoglass) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2024-03-12 | [`Federchimica`](https://google.com/search?q=Federchimica) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2024-03-12 | [`CHRG`](https://google.com/search?q=CHRG) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2024-03-11 | [`White Oak Partners`](https://google.com/search?q=White+Oak+Partners) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-03-11 | [`Ruda Auto`](https://google.com/search?q=Ruda+Auto) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-03-11 | [`Image Pointe`](https://google.com/search?q=Image+Pointe) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2024-02-26 | [`aeromechinc.com`](https://google.com/search?q=aeromechinc.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-26 | [`silganholdings.com`](https://google.com/search?q=silganholdings.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-26 | [`ernesthealth.com`](https://google.com/search?q=ernesthealth.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-02-25 | [`gatesshields.com`](https://google.com/search?q=gatesshields.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-02-25 | [`stsaviationgroup.com`](https://google.com/search?q=stsaviationgroup.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-02-25 | [`stemcor.com`](https://google.com/search?q=stemcor.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
