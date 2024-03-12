@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-03-12 | [`Duvel Moortgat Brewery`](https://google.com/search?q=Duvel+Moortgat+Brewery) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-03-12 | [`sunholdings.net`](https://google.com/search?q=sunholdings.net) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-03-12 | [`Sierra Lobo, Inc.`](https://google.com/search?q=Sierra+Lobo%2C+Inc.) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-03-12 | [`Contechs`](https://google.com/search?q=Contechs) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-02-27 | [`WEL Partners`](https://google.com/search?q=WEL+Partners) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2024-02-26 | [`Ironrock`](https://google.com/search?q=Ironrock) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2024-02-26 | [`Penn Cinema `](https://google.com/search?q=Penn+Cinema+) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
-| 2024-02-26 | [`prattindustries.com`](https://google.com/search?q=prattindustries.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
