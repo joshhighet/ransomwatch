@@ -1,1 +1,1228 @@
-<!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=Edge"><meta name="robots" content="noindex,nofollow"><meta name="viewport" content="width=device-width,initial-scale=1"><style>*{box-sizing:border-box;margin:0;padding:0}html{line-height:1.15;-webkit-text-size-adjust:100%;color:#313131}button,html{font-family:system-ui,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji}@media (prefers-color-scheme:dark){body{background-color:#222;color:#d9d9d9}body a{color:#fff}body a:hover{color:#ee730a;text-decoration:underline}body .lds-ring div{border-color:#999 transparent transparent}body .font-red{color:#b20f03}body .big-button,body .pow-button{background-color:#4693ff;color:#1d1d1d}body #challenge-success-text{background-image:url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSIgdmlld0JveD0iMCAwIDI2IDI2Ij48cGF0aCBmaWxsPSIjZDlkOWQ5IiBkPSJNMTMgMGExMyAxMyAwIDEgMCAwIDI2IDEzIDEzIDAgMCAwIDAtMjZtMCAyNGExMSAxMSAwIDEgMSAwLTIyIDExIDExIDAgMCAxIDAgMjIiLz48cGF0aCBmaWxsPSIjZDlkOWQ5IiBkPSJtMTAuOTU1IDE2LjA1NS0zLjk1LTQuMTI1LTEuNDQ1IDEuMzg1IDUuMzcgNS42MSA5LjQ5NS05LjYtMS40Mi0xLjQwNXoiLz48L3N2Zz4=)}body #challenge-error-text{background-image:url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSI+PHBhdGggZmlsbD0iI0IyMEYwMyIgZD0iTTE2IDNhMTMgMTMgMCAxIDAgMTMgMTNBMTMuMDE1IDEzLjAxNSAwIDAgMCAxNiAzbTAgMjRhMTEgMTEgMCAxIDEgMTEtMTEgMTEuMDEgMTEuMDEgMCAwIDEtMTEgMTEiLz48cGF0aCBmaWxsPSIjQjIwRjAzIiBkPSJNMTcuMDM4IDE4LjYxNUgxNC44N0wxNC41NjMgOS41aDIuNzgzem0tMS4wODQgMS40MjdxLjY2IDAgMS4wNTcuMzg4LjQwNy4zODkuNDA3Ljk5NCAwIC41OTYtLjQwNy45ODQtLjM5Ny4zOS0xLjA1Ny4zODktLjY1IDAtMS4wNTYtLjM4OS0uMzk4LS4zODktLjM5OC0uOTg0IDAtLjU5Ny4zOTgtLjk4NS40MDYtLjM5NyAxLjA1Ni0uMzk3Ii8+PC9zdmc+)}}body{display:flex;flex-direction:column;min-height:100vh}body.no-js .loading-spinner{visibility:hidden}body.no-js .challenge-running{display:none}body.dark{background-color:#222;color:#d9d9d9}body.dark a{color:#fff}body.dark a:hover{color:#ee730a;text-decoration:underline}body.dark .lds-ring div{border-color:#999 transparent transparent}body.dark .font-red{color:#b20f03}body.dark .big-button,body.dark .pow-button{background-color:#4693ff;color:#1d1d1d}body.dark #challenge-success-text{background-image:url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSIgdmlld0JveD0iMCAwIDI2IDI2Ij48cGF0aCBmaWxsPSIjZDlkOWQ5IiBkPSJNMTMgMGExMyAxMyAwIDEgMCAwIDI2IDEzIDEzIDAgMCAwIDAtMjZtMCAyNGExMSAxMSAwIDEgMSAwLTIyIDExIDExIDAgMCAxIDAgMjIiLz48cGF0aCBmaWxsPSIjZDlkOWQ5IiBkPSJtMTAuOTU1IDE2LjA1NS0zLjk1LTQuMTI1LTEuNDQ1IDEuMzg1IDUuMzcgNS42MSA5LjQ5NS05LjYtMS40Mi0xLjQwNXoiLz48L3N2Zz4=)}body.dark #challenge-error-text{background-image:url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSI+PHBhdGggZmlsbD0iI0IyMEYwMyIgZD0iTTE2IDNhMTMgMTMgMCAxIDAgMTMgMTNBMTMuMDE1IDEzLjAxNSAwIDAgMCAxNiAzbTAgMjRhMTEgMTEgMCAxIDEgMTEtMTEgMTEuMDEgMTEuMDEgMCAwIDEtMTEgMTEiLz48cGF0aCBmaWxsPSIjQjIwRjAzIiBkPSJNMTcuMDM4IDE4LjYxNUgxNC44N0wxNC41NjMgOS41aDIuNzgzem0tMS4wODQgMS40MjdxLjY2IDAgMS4wNTcuMzg4LjQwNy4zODkuNDA3Ljk5NCAwIC41OTYtLjQwNy45ODQtLjM5Ny4zOS0xLjA1Ny4zODktLjY1IDAtMS4wNTYtLjM4OS0uMzk4LS4zODktLjM5OC0uOTg0IDAtLjU5Ny4zOTgtLjk4NS40MDYtLjM5NyAxLjA1Ni0uMzk3Ii8+PC9zdmc+)}body.light{background-color:transparent;color:#313131}body.light a{color:#0051c3}body.light a:hover{color:#ee730a;text-decoration:underline}body.light .lds-ring div{border-color:#595959 transparent transparent}body.light .font-red{color:#fc574a}body.light .big-button,body.light .pow-button{background-color:#003681;border-color:#003681;color:#fff}body.light #challenge-success-text{background-image:url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSIgdmlld0JveD0iMCAwIDI2IDI2Ij48cGF0aCBmaWxsPSIjMzEzMTMxIiBkPSJNMTMgMGExMyAxMyAwIDEgMCAwIDI2IDEzIDEzIDAgMCAwIDAtMjZtMCAyNGExMSAxMSAwIDEgMSAwLTIyIDExIDExIDAgMCAxIDAgMjIiLz48cGF0aCBmaWxsPSIjMzEzMTMxIiBkPSJtMTAuOTU1IDE2LjA1NS0zLjk1LTQuMTI1LTEuNDQ1IDEuMzg1IDUuMzcgNS42MSA5LjQ5NS05LjYtMS40Mi0xLjQwNXoiLz48L3N2Zz4=)}body.light #challenge-error-text{background-image:url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSI+PHBhdGggZmlsbD0iI2ZjNTc0YSIgZD0iTTE2IDNhMTMgMTMgMCAxIDAgMTMgMTNBMTMuMDE1IDEzLjAxNSAwIDAgMCAxNiAzbTAgMjRhMTEgMTEgMCAxIDEgMTEtMTEgMTEuMDEgMTEuMDEgMCAwIDEtMTEgMTEiLz48cGF0aCBmaWxsPSIjZmM1NzRhIiBkPSJNMTcuMDM4IDE4LjYxNUgxNC44N0wxNC41NjMgOS41aDIuNzgzem0tMS4wODQgMS40MjdxLjY2IDAgMS4wNTcuMzg4LjQwNy4zODkuNDA3Ljk5NCAwIC41OTYtLjQwNy45ODQtLjM5Ny4zOS0xLjA1Ny4zODktLjY1IDAtMS4wNTYtLjM4OS0uMzk4LS4zODktLjM5OC0uOTg0IDAtLjU5Ny4zOTgtLjk4NS40MDYtLjM5NyAxLjA1Ni0uMzk3Ii8+PC9zdmc+)}a{background-color:transparent;color:#0051c3;text-decoration:none;transition:color .15s ease}a:hover{color:#ee730a;text-decoration:underline}.main-content{margin:8rem auto;max-width:60rem;width:100%}.heading-favicon{height:2rem;margin-right:.5rem;width:2rem}@media (width <= 720px){.main-content{margin-top:4rem}.heading-favicon{height:1.5rem;width:1.5rem}}.footer,.main-content{padding-left:1.5rem;padding-right:1.5rem}.main-wrapper{align-items:center;display:flex;flex:1;flex-direction:column}.font-red{color:#b20f03}.spacer{margin:2rem 0}.h1{font-size:2.5rem;font-weight:500;line-height:3.75rem}.h2{font-weight:500}.core-msg,.h2{font-size:1.5rem;line-height:2.25rem}.body-text,.core-msg{font-weight:400}.body-text{font-size:1rem;line-height:1.25rem}@media (width <= 720px){.h1{font-size:1.5rem;line-height:1.75rem}.h2{font-size:1.25rem}.core-msg,.h2{line-height:1.5rem}.core-msg{font-size:1rem}}#challenge-error-text{background-image:url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSI+PHBhdGggZmlsbD0iI2ZjNTc0YSIgZD0iTTE2IDNhMTMgMTMgMCAxIDAgMTMgMTNBMTMuMDE1IDEzLjAxNSAwIDAgMCAxNiAzbTAgMjRhMTEgMTEgMCAxIDEgMTEtMTEgMTEuMDEgMTEuMDEgMCAwIDEtMTEgMTEiLz48cGF0aCBmaWxsPSIjZmM1NzRhIiBkPSJNMTcuMDM4IDE4LjYxNUgxNC44N0wxNC41NjMgOS41aDIuNzgzem0tMS4wODQgMS40MjdxLjY2IDAgMS4wNTcuMzg4LjQwNy4zODkuNDA3Ljk5NCAwIC41OTYtLjQwNy45ODQtLjM5Ny4zOS0xLjA1Ny4zODktLjY1IDAtMS4wNTYtLjM4OS0uMzk4LS4zODktLjM5OC0uOTg0IDAtLjU5Ny4zOTgtLjk4NS40MDYtLjM5NyAxLjA1Ni0uMzk3Ii8+PC9zdmc+);padding-left:34px}#challenge-error-text,#challenge-success-text{background-repeat:no-repeat;background-size:contain}#challenge-success-text{background-image:url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSIgdmlld0JveD0iMCAwIDI2IDI2Ij48cGF0aCBmaWxsPSIjMzEzMTMxIiBkPSJNMTMgMGExMyAxMyAwIDEgMCAwIDI2IDEzIDEzIDAgMCAwIDAtMjZtMCAyNGExMSAxMSAwIDEgMSAwLTIyIDExIDExIDAgMCAxIDAgMjIiLz48cGF0aCBmaWxsPSIjMzEzMTMxIiBkPSJtMTAuOTU1IDE2LjA1NS0zLjk1LTQuMTI1LTEuNDQ1IDEuMzg1IDUuMzcgNS42MSA5LjQ5NS05LjYtMS40Mi0xLjQwNXoiLz48L3N2Zz4=);padding-left:42px}.text-center{text-align:center}.big-button{border:.063rem solid #0051c3;border-radius:.313rem;font-size:.875rem;line-height:1.313rem;padding:.375rem 1rem;transition-duration:.2s;transition-property:background-color,border-color,color;transition-timing-function:ease}.big-button:hover{cursor:pointer}.captcha-prompt:not(.hidden){display:flex}@media (width <= 720px){.captcha-prompt:not(.hidden){flex-wrap:wrap;justify-content:center}}.pow-button{background-color:#0051c3;color:#fff;margin:2rem 0}.pow-button:hover{background-color:#003681;border-color:#003681;color:#fff}.footer{font-size:.75rem;line-height:1.125rem;margin:0 auto;max-width:60rem;width:100%}.footer-inner{border-top:1px solid #d9d9d9;padding-bottom:1rem;padding-top:1rem}.clearfix:after{clear:both;content:"";display:table}.clearfix .column{float:left;padding-right:1.5rem;width:50%}.diagnostic-wrapper{margin-bottom:.5rem}.footer .ray-id{text-align:center}.footer .ray-id code{font-family:monaco,courier,monospace}.core-msg,.zone-name-title{overflow-wrap:break-word}@media (width <= 720px){.diagnostic-wrapper{display:flex;flex-wrap:wrap;justify-content:center}.clearfix:after{clear:none;content:none;display:initial;text-align:center}.column{padding-bottom:2rem}.clearfix .column{float:none;padding:0;width:auto;word-break:keep-all}.zone-name-title{margin-bottom:1rem}}.loading-spinner{height:76.391px}.lds-ring{display:inline-block;position:relative}.lds-ring,.lds-ring div{height:1.875rem;width:1.875rem}.lds-ring div{animation:lds-ring 1.2s cubic-bezier(.5,0,.5,1) infinite;border:.3rem solid transparent;border-radius:50%;border-top-color:#313131;box-sizing:border-box;display:block;position:absolute}.lds-ring div:first-child{animation-delay:-.45s}.lds-ring div:nth-child(2){animation-delay:-.3s}.lds-ring div:nth-child(3){animation-delay:-.15s}@keyframes lds-ring{0%{transform:rotate(0)}to{transform:rotate(1turn)}}@media screen and (-ms-high-contrast:active),screen and (-ms-high-contrast:none){.main-wrapper,body{display:block}}</style><meta http-equiv="refresh" content="375"></head><body class="no-js"><div class="main-wrapper" role="main"><div class="main-content"><noscript><div id="challenge-error-title"><div class="h2"><span id="challenge-error-text">Enable JavaScript and cookies to continue</span></div></div></noscript></div></div><script>(function(){window._cf_chl_opt={cvId: '3',cZone: "weerwolven.biz",cType: 'managed',cNounce: '31856',cRay: '86299235298d2bc0',cHash: 'b111df105d009c3',cUPMDTk: "\/?__cf_chl_tk=puLXixU2MO_t0yFEBnQZCcusc2AQgeSJpnK8cgBAzfU-1710139415-0.0.1.1-1450",cFPWv: 'b',cTTimeMs: '1000',cMTimeMs: '375000',cTplV: 5,cTplB: 'cf',cK: "visitor-time",fa: "\/?__cf_chl_f_tk=puLXixU2MO_t0yFEBnQZCcusc2AQgeSJpnK8cgBAzfU-1710139415-0.0.1.1-1450",md: "VTyvyzoKqred6tBpDpdERJE76cKrzk1kk4IaUPUdS20-1710139415-1.1.1.1-ERrTdB50m311O2bn_TiI88oeg9_pbFLwtgeuN9BheiOKV7JFVCovbJE5akHMDt7q0lDybpzhm5Vpg22qjgImoUKg1Y1w46MSFx.9QPfOl7ZXAfV1JT2MikwgvrnSKnXV5RWCLiWuYNeIEnBTRRxKmwPm_dz9sMd.pRmq2Q7c80O4UX3b9O4Dhwog4VtyJ2doWnx4IExWLL9Vw4Q5JHLkP52lA.tPD50rdUzhwKmKotfcVLCuqP61bwK80wztjGMhpkkywCNtrkC8jpBDXr0NGz7BJ.sGRaVNn5D_IQeCAduEq7Vf3RhXVZalj_.vCIgaOYZu_KL66sO.UFpL_2zijvYt0TSVZkOwQJM73s4wEnDlTXnTySxYTd6RiyBHum8ey5dbREG3svLdp2c5gl3wxcJPxQUkGoW.n81k5VGDI7.MzBe360B1EuPo0LI1U5NJsVBi2mFjEUJlN6om2tVKci7pJ6kTYMCt0p3vizgdB_9ugj_O_0GOrt_Z7cpuCwcY6gtuJZm.qKATQYey2O_XFbTYzuqb20WnMg8UZwJVxX2DLQOIPX629gFTXaT7Z5IjKKKAii6tMyFVjd8PIcp_MtTzInlkRVLkmoNrbvO1VX8_5v_vn3LXJmUZUNuVVu8_h4KWdqATYxnIKqSV_IoocuPSr7DHLq3xpJTZvKX4l21JYp_NZ011Sb02BTjJOlgIWlxwEgXdIoRXtRjfTsjWbPDpsxSjr4O2TkhqW6qGuHWYAZxcgrY96fDSEYDEVwQH8tz8YQYlXh_WuCmEGgXsRM51VbOcpg2x1AvdNDRmNFoYDx1TwjLPLlJo1tQbnujcLXyuw6mha6XM6ev04dUdV_wYD4oAtGB0Nc72AQudb42VtAW1XmggQ5uuSX9POkM4h316tQjlxr2eSXzwSTXJyQhwIxk4Trv3oQ6o4HMWVj8ZyLJNd_zi975cIifpTeWm8HFQoUtgPcAmd4wh.0nGDX_GVoSEOT43xiNGN7X9TYpKYVsI_KcnVTx5ZAhlun1WWTQ0ur4qldNLDVTOIzxXHask2KuQq3oiVz5pCnGsPBQClPguSHTiPeRnFD7CsLRD7YFqTI86.3llGrgHA7YwtwRYQQ6EQk2aOHYrTQtBuWFn3qWblDQRIDT6MIzHmxRz8nBRmw0bc3VwuSOFDbvP9h46f93BI9ib2W2qbzrNnfeFt.N7B9YQuoGOTTdIHULYITWwSAFXnje2pr1CUfiyZPKVWwK5HxqXnmrlZGtFX.M9.DnbaBt.kGggz0C25_nfSafdsz9IS1dBOWXhO4J0zzNoux3cPIhro3UyDvv63zZx.sd05.RSSYbkzsvNrBvKR.acprUFLcRKO1BQBC3RI3Rs3ohcC4jVjPkpLuEPV0U",mdrd: "kw..f1aJhHMY8HODA8rCRMKztFuJfW8J0bF7oQtJxv0-1710139415-1.1.1.1-knDr3I3UvZ5_r_JOAilkcOi9ZyfbSNej6rf8Ns6AZ78bsvtzjJ8Dy9zI9nX3el9vaP_BZj2B4GZUHup7rIY36NpB5_u6VacJgLpShuABUXapOrt6wSsCI3_waTEZJnndEFKb3_QF0WffpnFf1PJwvx7fTmFe0R540t_k.xgEJ0yORcDfQjyJOe_wDVTN1a.Bi.SyYQpyVLI5MHEbexMvN_Xap.ed1ebhY4RsSDrCA5r1W9VdLvJpGUD3P0yew2Xl_90MmTQWUBaVb0Z3IeDDD2R7o_1HSqZ3tUhTx2qY2fTy2aqsYEVIk9OZkx6S3Bmk536h7l2SwT2I9ycT6uWFCyUI0aogOUMmnR4u9.ZfIsCAuyrAG3Z1pz2scoMJGjjLT13v1f5ZbsqI8_HNujdiKAwFYmkMUTm7EQW2tTvwAiO_34tmEfYaZRgzB94SVoEJMB1XmNO0T6IxC0Z10R2_hFvqaWRQeF7ISnMu2qUBELKVeE.z3FyKsHan6UCE3Z.CUrtOj4vNT_H4EOEiuaD1z9VhbFi.Yb9h701KkFwnxm5sESLVt9R.g5WwHhW36BAM1MiT_x45BoaD6hsDsdNVoFuNYmXI.QFcsy8iHlaIMHk0G1PPWNT1ha8Fn.4wFidlTqh9e2EHgtB6LZJC4zuiteyTdLjWMap84BUY.bA7luA0Gfk8JVwuWY34zItVMXWtp.8Wss2vsCJf1M8yltu8ZnZj2c1ebHPdGSjGL8wQrF9B1peEF74EaXGaIQFzX8rDbWqK_1V.TayzdP8bSgv4SOew7q6rg8Uj0ZkrA2Fnb42S8z59xgjORiZIz_CfOCCdcWoQyFS.hZKbziiMlsahsCowNHIitBr70KVaArnLK3GTUrxpmPfOR452T6ieDpA9yFoVNYPRwjzM5e_214Lh8wdn9Uwm7no4pq1BNbKIV9_NHAsV53eRVOinjbuRlRaDUW2Y4zW5zC4CNj.UTEonOvwRdw276cttWtBxcpk7uE5FQ2ZWE0qSPR3qaH7eiKXwcXHxXzvYYmBUIUXMvILU3wsVAvu9zkH.Y1jop2dARi39_kbCvd94_u13tBrWd4uopUODqpFRvzIjBF5CTZQ_AExZ2vYj00C_9t7Suilj03PeUM0FAjrSPfVJV19uyXMJoEb6iTZMEeI6FYdmfL4zKkrnMVpAO_836wmI0U2bXtYBXh65ySI.q5NxlSFJTjFEVWVAayzoXfCDaXld9P69NpQJ0wSiGqcQVOgvGquYa7cO6n5lEMSpOUw_gdkRSHcVGTm69SCbmPpxwmdmZbKxliEb71Fg68grqO5I3.oFz1yc5uJggKk_qc.wSPUqkd_3Z7GeSnrJ47NR5DEhf188qXgoG6NKwFGIDVfsStpx1vjZ0Edm19IJC0cz1tZ8sipDdolFSNcK29O_ztxDlL5lZA4bb9yI8JK22gfnfrFeiQX7JECQLe5q.UCBIBWVlXqoa21dGrQCKIWVN2WHG9gnujrhCk89d7OYoz9rJYFt.90jKSKrUzn7uMLtbGPUUwMR1nRBOeG30k.IorGovI0wxXh.yeY2UXASOurms27nYe6gp6PgzcPCWJFw8syeRjVkIdXTDfOWAhcxpBMve_.kd4OgoTAzD7isr7TNCQ1wotcL0R4427UaIomnkdcKZxYo2eFebgpmTJs2uLJxHJhbXFdAtZOrMO.jVconAIm5Lvcotf3tkD7XGK.AANZz8RxGqYNXJR8MGf7Dc1kFfVRZPgDhlKmhdYKojqO.eirtNDMOx.uY4_15_iQGPBUOM3xsY2JlrRZ8IAXAO_mQaDb9oiWfMtboCg79izk649VNkM.s2gIsXgxLbDuP4Cq0pFEsxhQBkyGkaQWVHV5o3b1JobOvc9nqqJk062J.4CKlwsyQVA8Gtfh0iCXmAFIF5DlY4mc3VHMlI9w7jXQqdQd9_j11Vko1.HbwAmBukTvQFW1xiS7ZZAC7TaUNewoWReej01ZrjGz_RQb_8ao4.9suUg",cRq: {ru: 'aHR0cHM6Ly93ZWVyd29sdmVuLmJpei8=',ra: 'TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgcnY6MTA5LjApIEdlY2tvLzIwMTAwMTAxIEZpcmVmb3gvMTE1LjA=',rm: 'R0VU',d: 'SikkPuJCmhzgiacE8hiAnxRZAODi74nyZEqEmbZGZJxnsAffWGoVTq+15c4GJmgbNraGAPlcEI7yU8zXXY62MTSYIWnBGtNfhjK1r2ABJBjhMZErYyZwKkM+EGmmlX2IsNjo0SSVWdqJZrvCKRAFVVVnZOifjdU8hW66bOgu4H6xttTTCvmh2n6ezgnBKCoghAaFEsmhOiB8fhkp8mWwL3gR6tErqaXoORF8ysdJbKtW8BSv1rFmcF7aDnCe9Ag8dllQ2DjDO4/GXc0UkbGoA69BZ331SRQWSIU63iQlU5AFF9QnR0rPS9S+zomx3TK34CAChzz/B94uWmkBiCTP4oYEeeWUYJQjTFq/HlI8xLMRWvUO7IRYTv3BJ4X6OlB7iW7OP5APcuazQdxpHH4T7Rji1cl+8XnfZCUV81Zii9hziVS+THXby61FxUxCR0Wet1iQPcCPbIy+nSOiPM5WJOWc3EyW3I6fEfd4KNw9gdCdF3/TVqdVPijxXRdtML8C',t: 'MTcxMDEzOTQxNS44NzAwMDA=',cT: Math.floor(Date.now() / 1000),m: 'R7Lua1OuNEJs3zoavu+/JqSNKP4ZkOe91GBwNgcle78=',i1: 'LBkSGL9x67UPhUVemssdag==',i2: '2wrBXcz+MJuAdbYw75ifUA==',zh: 'VaSHJ6xPGTbK17cO03/+sB+xm8rmjFhGK0gRmwoDkGM=',uh: 'F9hh/WJ+If1OR5sBtUG1LouatAvTBpG/INkrtIlV4Jg=',hh: '/isAsr/WUJSCiKaytF4lv/7zankbWsoLYbwVGx/Y1jo=',}};var cpo = document.createElement('script');cpo.src = '/cdn-cgi/challenge-platform/h/b/orchestrate/chl_page/v1?ray=86299235298d2bc0';window._cf_chl_opt.cOgUHash = location.hash === '' && location.href.indexOf('#') !== -1 ? '#' : location.hash;window._cf_chl_opt.cOgUQuery = location.search === '' && location.href.slice(0, location.href.length - window._cf_chl_opt.cOgUHash.length).indexOf('?') !== -1 ? '?' : location.search;if (window.history && window.history.replaceState) {var ogU = location.pathname + window._cf_chl_opt.cOgUQuery + window._cf_chl_opt.cOgUHash;history.replaceState(null, null, "\/?__cf_chl_rt_tk=puLXixU2MO_t0yFEBnQZCcusc2AQgeSJpnK8cgBAzfU-1710139415-0.0.1.1-1450" + window._cf_chl_opt.cOgUHash);cpo.onload = function() {history.replaceState(null, null, ogU);}}document.getElementsByTagName('head')[0].appendChild(cpo);}());</script></body></html>
+<!DOCTYPE html>
+<html lang="ru-ru" dir="ltr">
+
+<head>
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="theme-color" content="#ffffff">
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Главная (ru)</title>
+	<link href="/ru/?format=feed&amp;type=rss" rel="alternate" type="application/rss+xml" title="RSS 2.0">
+	<link href="/ru/?format=feed&amp;type=atom" rel="alternate" type="application/atom+xml" title="Atom 1.0">
+	<link href="https://weerwolven.biz/ru/" rel="alternate" hreflang="ru-RU">
+	<link href="https://weerwolven.biz/en/" rel="alternate" hreflang="en-GB">
+	<link href="/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon">
+
+	<link href="/templates/werwolves/css/template.min.css?6afd1f5ccc0cdde7842793ab081c5a30" rel="stylesheet" />
+	<link href="/media/vendor/joomla-custom-elements/css/joomla-alert.min.css?0.2.0" rel="stylesheet" />
+	<link href="/components/com_jrealtimeanalytics/css/mainstyle.css?6afd1f5ccc0cdde7842793ab081c5a30" rel="stylesheet" />
+	<link href="/plugins/system/jce/css/content.css?badb4208be409b1335b815dde676300e" rel="stylesheet" />
+	<style>:root {
+		--hue: 214;
+		--template-bg-light: #f0f4fb;
+		--template-text-dark: #495057;
+		--template-text-light: #ffffff;
+		--template-link-color: #2a69b8;
+		--template-special-color: #001B4C;
+		
+	}</style>
+
+
+</head>
+
+<body class="site com_content wrapper-static view-category layout-blog no-task itemid-121">
+
+	<header class="header container-header full-width">
+		<div class="header__container container">
+			<div class="header__row">
+				
+				<a class="header__logo" href="/">
+					<img class="header__logo-img" src="/images/logo.gif" alt="WereWolves">
+										</a>
+							
+				<div class="header__nav navigation js-mobile-menu">
+		<ul class="navigation">
+<li class="navigation__item item-122"><a href="/ru/o-gruppe.html" >О группе</a></li><li class="navigation__item item-116"><a href="/ru/portfolio.html" >Портфолио</a></li><li class="navigation__item item-123"><a href="/ru/my-v-presse.html" >Мы в прессе</a></li><li class="navigation__item item-125"><a href="/ru/missiya.html" >Миссия</a></li><li class="navigation__item item-127"><a href="/ru/kontakty.html" >Контакты</a></li></ul>
+</div>
+<div class="header__offer">
+		
+
+    <p>«Попал в яму к волку —<br /> не пытайся его укусить<span class="wHYlTd z8gr9e">»</span></p>
+</div>
+<div class="header__lang-select">
+		    
+
+
+    
+        <select class="header__lang-select"  onchange="this.options[this.selectedIndex].value && (window.location = this.options[this.selectedIndex].value);">
+        
+                                    <option id="language_btn_110"   class="header__lang-option" selected value="/ru/">
+                                        RU 
+                </option>
+                                                <option id="language_btn_110"   class="header__lang-option" value="/en/">
+                    EN 
+                </option>
+                            <ul aria-labelledby="language_picker_des_110" class="lang-block dropdown-menu">
+
+                                                                <li class="lang-active">
+                    <a aria-current="true"  href="https://weerwolven.biz/ru/">
+                                                Русский (Россия)                    </a>
+                </li>
+                                                            <li>
+                    <a  href="/en/">
+                                                English (United Kingdom)                    </a>
+                </li>
+                            </ul>
+    </select>
+
+
+</div>
+
+
+				<div class="header__burger burger js-burger">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </div>
+				
+			</div>
+		</div>
+
+		
+			</header>
+
+	<main class="main">
+		<div class="main__container container">
+			<div class="main__row">
+				
+				
+				
+				
+				<div class="main__content">
+					
+					
+					<div id="system-message-container" aria-live="polite"></div>
+
+
+					<div class="com-content-category-blog blog" itemscope itemtype="https://schema.org/Blog">
+    
+        
+    
+    
+    
+    
+                                                            <div class="main__carts carts-section  masonry-4">
+                    <div class="carts-section__item cart-block cart-block--published-orange"
+                itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
+
+                <!-- cart-block--gray cart-block--published-gray -->
+                    
+
+
+            <!-- <div class="carts-section__item cart-block cart-block--gray cart-block--published-gray"> -->
+            
+                        <div class="cart-block__published">
+                NEW
+            </div>
+            
+            <div class="cart-block__head">
+                
+                    
+                    <h2 class="cart-block__title" itemprop="name">
+                                    <!-- <a href="#" itemprop="url"> -->
+                        vsexshop.ru                    <!-- </a> -->
+                            </h2>
+        
+        
+        
+            
+
+                <div class="cart-block__timer js-timer" data-time="2024-04-01T06:56:53" data-link="/ru/vsexshop-ru.html"></div>
+
+            </div>
+            <div class="cart-block__content">
+                <p>Компания VsexShop.Ru существует на рынке уже более 10 лет. За это время услугами нашего онлайн секс шопа воспользовались более 500 тысяч человек. Мы работаем для Вас: довольный клиент - это то, к чему мы стремимся!</p>
+<p>А у нас есть личные данные из базы очень не простых клиентов&nbsp; компании.<span style="background-color: #ffff00;">70000$</span></p>
+            </div>
+            <div class="cart-block__bottom">
+                <div class="cart-block__bottom-date">
+    
+    <time datetime="2024-03-04T03:57:43+00:00" itemprop="datePublished">
+        04 марта 2024    </time>
+
+</div>
+
+<div class="cart-block__bottom-views">
+    <span>
+        
+<!-- 
+    <meta itemprop="interactionCount" content="UserPageVisits:74"> -->
+    74
+    </span>
+    <img src="/images/eye 3.svg" alt="">
+</div>
+
+                <!-- <div class="cart-block__bottom-date">
+                                </div>
+                <div class="cart-block__bottom-views">
+                    <span>
+                    
+                                
+
+                        
+                                
+
+                    </span>
+                    <img src="/images/eye 3.svg" alt="">
+                </div> -->
+            </div>
+        <!-- </div> -->
+    
+    
+                    </div>
+                    <div class="carts-section__item cart-block cart-block--published-orange"
+                itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
+
+                <!-- cart-block--gray cart-block--published-gray -->
+                    
+
+
+            <!-- <div class="carts-section__item cart-block cart-block--gray cart-block--published-gray"> -->
+            
+                        <div class="cart-block__published">
+                NEW
+            </div>
+            
+            <div class="cart-block__head">
+                
+                    
+                    <h2 class="cart-block__title" itemprop="name">
+                                    <!-- <a href="#" itemprop="url"> -->
+                        davidsbridal.com                     <!-- </a> -->
+                            </h2>
+        
+        
+        
+            
+
+                <div class="cart-block__timer js-timer" data-time="2024-03-31T04:10:20" data-link="/ru/davidsbridal-com.html"></div>
+
+            </div>
+            <div class="cart-block__content">
+                <p>David's Bridal — известная американская сеть свадебных магазинов, известная своим широким ассортиментом свадебных платьев, платьев для подружек невесты и платьев для особых случаев. Основанная в 1950 году, компания выросла из единственного магазина во Флориде до обширной сети, насчитывающей более 300 магазинов в США, Канаде, Великобритании, а также франчайзинговых магазинов в Мексике.Выручка компании оценивается в $2,2 млрд.На текущий момент мы обладаем очень ценными и важными данными, охватывающими значительный объем личной и корпоративной информации.<span style="background-color: #ffff00;">850000$.</span></p>
+            </div>
+            <div class="cart-block__bottom">
+                <div class="cart-block__bottom-date">
+    
+    <time datetime="2024-02-14T01:13:04+00:00" itemprop="datePublished">
+        14 февраля 2024    </time>
+
+</div>
+
+<div class="cart-block__bottom-views">
+    <span>
+        
+<!-- 
+    <meta itemprop="interactionCount" content="UserPageVisits:589"> -->
+    589
+    </span>
+    <img src="/images/eye 3.svg" alt="">
+</div>
+
+                <!-- <div class="cart-block__bottom-date">
+                                </div>
+                <div class="cart-block__bottom-views">
+                    <span>
+                    
+                                
+
+                        
+                                
+
+                    </span>
+                    <img src="/images/eye 3.svg" alt="">
+                </div> -->
+            </div>
+        <!-- </div> -->
+    
+    
+                    </div>
+                    <div class="carts-section__item cart-block cart-block--published-orange"
+                itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
+
+                <!-- cart-block--gray cart-block--published-gray -->
+                    
+
+
+            <!-- <div class="carts-section__item cart-block cart-block--gray cart-block--published-gray"> -->
+            
+                        <div class="cart-block__published">
+                NEW
+            </div>
+            
+            <div class="cart-block__head">
+                
+                    
+                    <h2 class="cart-block__title" itemprop="name">
+                                    <!-- <a href="#" itemprop="url"> -->
+                        solveindustrial.com                    <!-- </a> -->
+                            </h2>
+        
+        
+        
+            
+
+                <div class="cart-block__timer js-timer" data-time="2023-12-22T23:14:48" data-link="/ru/solve.html"></div>
+
+            </div>
+            <div class="cart-block__content">
+                <p><span class="Y2IQFc" lang="en"></span></p>
+<p><span class="Y2IQFc" lang="en">Клиенты из самых разных отраслей обращаются к Solve Industrial Motion Group™ за подшипниками и компонентами передачи мощности, которые выдерживают даже самые тяжелые условия. У компании более 25 000 наименований позиций, а также собственный инженерный отдел, который может не только разрабатывать, но и производить компоненты в точном соответствии со спецификациями. Компания помогает OEM-производителям и конечным пользователям по всему миру двигаться вперед.</span></p>
+<p><span class="Y2IQFc" lang="en"></span></p>
+<p><span class="Y2IQFc" lang="en"></span></p>
+<p><span class="Y2IQFc" lang="en"></span></p>
+            </div>
+            <div class="cart-block__bottom">
+                <div class="cart-block__bottom-date">
+    
+    <time datetime="2023-12-22T23:15:06+00:00" itemprop="datePublished">
+        22 декабря 2023    </time>
+
+</div>
+
+<div class="cart-block__bottom-views">
+    <span>
+        
+<!-- 
+    <meta itemprop="interactionCount" content="UserPageVisits:3469"> -->
+    3469
+    </span>
+    <img src="/images/eye 3.svg" alt="">
+</div>
+
+                <!-- <div class="cart-block__bottom-date">
+                                </div>
+                <div class="cart-block__bottom-views">
+                    <span>
+                    
+                                
+
+                        
+                                
+
+                    </span>
+                    <img src="/images/eye 3.svg" alt="">
+                </div> -->
+            </div>
+        <!-- </div> -->
+    
+    
+                    </div>
+                    <div class="carts-section__item cart-block cart-block--published-orange"
+                itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
+
+                <!-- cart-block--gray cart-block--published-gray -->
+                    
+
+
+            <!-- <div class="carts-section__item cart-block cart-block--gray cart-block--published-gray"> -->
+            
+                        <div class="cart-block__published">
+                NEW
+            </div>
+            
+            <div class="cart-block__head">
+                
+                    
+                    <h2 class="cart-block__title" itemprop="name">
+                                    <!-- <a href="#" itemprop="url"> -->
+                        vasexperts.ru                    <!-- </a> -->
+                            </h2>
+        
+        
+        
+            
+
+                <div class="cart-block__timer js-timer" data-time="2024-03-21T22:36:36" data-link="/ru/vasexperts-ru.html"></div>
+
+            </div>
+            <div class="cart-block__content">
+                <p>Компания VAS Experts — разработчик программного обеспечения для контроля и анализа трафика. Компания присутствует на IT-рынке с 2013 года. За время ее существования было произведено более 1500 инсталляций в СНГ и за рубежом.За время работы у компании сформирован достаточно объемный репозитарий,содержащий как уникальные разработки компании,так и дистрибутивы,исходные коды программного обеспечения партнеров компании.Наша организация с пониманием относится к ценности подобных массивов данных,однако халатное отношение к хранению и обработке,привело к утечке.Критическая оценка скомпрометированных данных позволяет нам оценивать инцедент как фатальный для многих аспектов деятельности компании.Объем массива 250 тб.Стоимость не разглашения <span style="background-color: #ffff00;">640000$.</span></p>            </div>
+            <div class="cart-block__bottom">
+                <div class="cart-block__bottom-date">
+    
+    <time datetime="2023-12-17T19:36:47+00:00" itemprop="datePublished">
+        17 декабря 2023    </time>
+
+</div>
+
+<div class="cart-block__bottom-views">
+    <span>
+        
+<!-- 
+    <meta itemprop="interactionCount" content="UserPageVisits:2177"> -->
+    2177
+    </span>
+    <img src="/images/eye 3.svg" alt="">
+</div>
+
+                <!-- <div class="cart-block__bottom-date">
+                                </div>
+                <div class="cart-block__bottom-views">
+                    <span>
+                    
+                                
+
+                        
+                                
+
+                    </span>
+                    <img src="/images/eye 3.svg" alt="">
+                </div> -->
+            </div>
+        <!-- </div> -->
+    
+    
+                    </div>
+                    <div class="carts-section__item cart-block cart-block--published-orange"
+                itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
+
+                <!-- cart-block--gray cart-block--published-gray -->
+                    
+
+
+            <!-- <div class="carts-section__item cart-block cart-block--gray cart-block--published-gray"> -->
+            
+                        <div class="cart-block__published">
+                NEW
+            </div>
+            
+            <div class="cart-block__head">
+                
+                    
+                    <h2 class="cart-block__title" itemprop="name">
+                                    <!-- <a href="#" itemprop="url"> -->
+                        forabank.ru                    <!-- </a> -->
+                            </h2>
+        
+        
+        
+            
+
+                <div class="cart-block__timer js-timer" data-time="2024-03-21T03:42:57" data-link="/ru/forabank-ru.html"></div>
+
+            </div>
+            <div class="cart-block__content">
+                <p>АКБ «ФОРА-БАНК» (АО) зарегистрирован Банком России на рынке финансовых услуг 27 мая 1992 г. Входит в реестр системы обязательного страхования вкладов. Организация позиционируется как крупный универсальный финансовый институт. АКБ «ФОРА-БАНК» (АО) осуществляет расчетно-кассовое обслуживание и предоставляет широкий спектр услуг для физических и юридических лиц, проводит операции на валютном и фондовом рынках. АКБ «ФОРА-БАНК» (АО) является участником международных платежных систем VISA и MasterСard.Стоимость не публикации и удаления всей скомпрометрованной информации составляет <span style="background-color: #ffff00;">450000$.</span></p>            </div>
+            <div class="cart-block__bottom">
+                <div class="cart-block__bottom-date">
+    
+    <time datetime="2023-12-15T00:43:00+00:00" itemprop="datePublished">
+        15 декабря 2023    </time>
+
+</div>
+
+<div class="cart-block__bottom-views">
+    <span>
+        
+<!-- 
+    <meta itemprop="interactionCount" content="UserPageVisits:1748"> -->
+    1748
+    </span>
+    <img src="/images/eye 3.svg" alt="">
+</div>
+
+                <!-- <div class="cart-block__bottom-date">
+                                </div>
+                <div class="cart-block__bottom-views">
+                    <span>
+                    
+                                
+
+                        
+                                
+
+                    </span>
+                    <img src="/images/eye 3.svg" alt="">
+                </div> -->
+            </div>
+        <!-- </div> -->
+    
+    
+                    </div>
+                    <div class="carts-section__item cart-block cart-block--published-orange"
+                itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
+
+                <!-- cart-block--gray cart-block--published-gray -->
+                    
+
+
+            <!-- <div class="carts-section__item cart-block cart-block--gray cart-block--published-gray"> -->
+            
+            
+            <div class="cart-block__head">
+                
+                    
+                    <h2 class="cart-block__title" itemprop="name">
+                                    <!-- <a href="#" itemprop="url"> -->
+                        auditexpertnn.ru                    <!-- </a> -->
+                            </h2>
+        
+        
+        
+            
+
+                <div class="cart-block__timer js-timer" data-time="2023-12-29T12:13:48" data-link="/ru/auditexpertnn-ru.html"></div>
+
+            </div>
+            <div class="cart-block__content">
+                <p>Центр бухгалтерских услуг «АУДИТ-ЭКСПЕРТ» принимает желание заказчика работать эффективно как профессиональный ориентир.Оказывая бухгалтерские услуги удаленно в Нижнем Новгороде и Нижегородской области, специалисты компании «АУДИТ-ЭКСПЕРТ» работают в ваших интересах.Интересно,что базы данных клиентов,находящиеся на серверах компании абсолютно не защищены.Равно как ключи доступа к онлайн банкингам,например.Так или иначе-мы все опубликуем,почему бы клиентам компании не узнать с кем они имеют дело?</p>            </div>
+            <div class="cart-block__bottom">
+                <div class="cart-block__bottom-date">
+    
+    <time datetime="2023-12-14T09:13:59+00:00" itemprop="datePublished">
+        14 декабря 2023    </time>
+
+</div>
+
+<div class="cart-block__bottom-views">
+    <span>
+        
+<!-- 
+    <meta itemprop="interactionCount" content="UserPageVisits:2996"> -->
+    2996
+    </span>
+    <img src="/images/eye 3.svg" alt="">
+</div>
+
+                <!-- <div class="cart-block__bottom-date">
+                                </div>
+                <div class="cart-block__bottom-views">
+                    <span>
+                    
+                                
+
+                        
+                                
+
+                    </span>
+                    <img src="/images/eye 3.svg" alt="">
+                </div> -->
+            </div>
+        <!-- </div> -->
+    
+    
+                    </div>
+                    <div class="carts-section__item cart-block cart-block--published-orange"
+                itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
+
+                <!-- cart-block--gray cart-block--published-gray -->
+                    
+
+
+            <!-- <div class="carts-section__item cart-block cart-block--gray cart-block--published-gray"> -->
+            
+            
+            <div class="cart-block__head">
+                
+                    
+                    <h2 class="cart-block__title" itemprop="name">
+                                    <!-- <a href="#" itemprop="url"> -->
+                        roomhotel-sochi.ru                    <!-- </a> -->
+                            </h2>
+        
+        
+        
+            
+
+                <div class="cart-block__timer js-timer" data-time="2024-03-21T17:19:34" data-link="/ru/hotel.html"></div>
+
+            </div>
+            <div class="cart-block__content">
+                <p>Отель «RoomHotel» с видом</p>
+<p>на город удобно расположен</p>
+<p>в центре Сочи, рядом с Сочинским</p>
+<p>государственным цирком, Летним</p>
+<p>театром и Зимним театром.</p>
+<p>В пешей доступности популярные</p>
+<p>достопримечательности города.</p>
+<p>Расстояние до пляжа 500 м.</p>
+            </div>
+            <div class="cart-block__bottom">
+                <div class="cart-block__bottom-date">
+    
+    <time datetime="2023-12-08T10:13:54+00:00" itemprop="datePublished">
+        08 декабря 2023    </time>
+
+</div>
+
+<div class="cart-block__bottom-views">
+    <span>
+        
+<!-- 
+    <meta itemprop="interactionCount" content="UserPageVisits:1937"> -->
+    1937
+    </span>
+    <img src="/images/eye 3.svg" alt="">
+</div>
+
+                <!-- <div class="cart-block__bottom-date">
+                                </div>
+                <div class="cart-block__bottom-views">
+                    <span>
+                    
+                                
+
+                        
+                                
+
+                    </span>
+                    <img src="/images/eye 3.svg" alt="">
+                </div> -->
+            </div>
+        <!-- </div> -->
+    
+    
+                    </div>
+                    <div class="carts-section__item cart-block cart-block--published-orange"
+                itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
+
+                <!-- cart-block--gray cart-block--published-gray -->
+                    
+
+
+            <!-- <div class="carts-section__item cart-block cart-block--gray cart-block--published-gray"> -->
+            
+            
+            <div class="cart-block__head">
+                
+                    
+                    <h2 class="cart-block__title" itemprop="name">
+                                    <!-- <a href="#" itemprop="url"> -->
+                        carmoney.ru                    <!-- </a> -->
+                            </h2>
+        
+        
+        
+            
+
+                <div class="cart-block__timer js-timer" data-time="2024-03-21T07:18:31" data-link="/ru/carmoney-ru.html"></div>
+
+            </div>
+            <div class="cart-block__content">
+                <p>Общество с ограниченной ответственностью Микрофинансовая компания «КарМани».CarMoney - современный онлайн-сервис автозаймов.Выдает деньги под залог авто и спецтехники. При этом машина и ПТС остаются у клиента.Полный архив данных,60 террабайт будет опубликовано.</p>            </div>
+            <div class="cart-block__bottom">
+                <div class="cart-block__bottom-date">
+    
+    <time datetime="2023-12-08T04:18:42+00:00" itemprop="datePublished">
+        08 декабря 2023    </time>
+
+</div>
+
+<div class="cart-block__bottom-views">
+    <span>
+        
+<!-- 
+    <meta itemprop="interactionCount" content="UserPageVisits:2107"> -->
+    2107
+    </span>
+    <img src="/images/eye 3.svg" alt="">
+</div>
+
+                <!-- <div class="cart-block__bottom-date">
+                                </div>
+                <div class="cart-block__bottom-views">
+                    <span>
+                    
+                                
+
+                        
+                                
+
+                    </span>
+                    <img src="/images/eye 3.svg" alt="">
+                </div> -->
+            </div>
+        <!-- </div> -->
+    
+    
+                    </div>
+                    <div class="carts-section__item cart-block cart-block--published-orange"
+                itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
+
+                <!-- cart-block--gray cart-block--published-gray -->
+                    
+
+
+            <!-- <div class="carts-section__item cart-block cart-block--gray cart-block--published-gray"> -->
+            
+            
+            <div class="cart-block__head">
+                
+                    
+                    <h2 class="cart-block__title" itemprop="name">
+                                    <!-- <a href="#" itemprop="url"> -->
+                        avrora24.ru                    <!-- </a> -->
+                            </h2>
+        
+        
+        
+            
+
+                <div class="cart-block__timer js-timer" data-time="2024-03-21T17:19:34" data-link="/ru/anb-com-3.html"></div>
+
+            </div>
+            <div class="cart-block__content">
+                <p>755369 клиентов,поддерживаем высокий уровень качества услуг - согласно проведенным исследованиям, индекс удовлетворенности наших клиентов NPS на уровне!Имеем более 100 филиалов.10 лет на рынке.<span style="background-color: #ffff00; color: #000000;">130000$.</span></p>
+            </div>
+            <div class="cart-block__bottom">
+                <div class="cart-block__bottom-date">
+    
+    <time datetime="2023-12-05T10:13:54+00:00" itemprop="datePublished">
+        05 декабря 2023    </time>
+
+</div>
+
+<div class="cart-block__bottom-views">
+    <span>
+        
+<!-- 
+    <meta itemprop="interactionCount" content="UserPageVisits:1756"> -->
+    1756
+    </span>
+    <img src="/images/eye 3.svg" alt="">
+</div>
+
+                <!-- <div class="cart-block__bottom-date">
+                                </div>
+                <div class="cart-block__bottom-views">
+                    <span>
+                    
+                                
+
+                        
+                                
+
+                    </span>
+                    <img src="/images/eye 3.svg" alt="">
+                </div> -->
+            </div>
+        <!-- </div> -->
+    
+    
+                    </div>
+                    <div class="carts-section__item cart-block cart-block--published-orange"
+                itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
+
+                <!-- cart-block--gray cart-block--published-gray -->
+                    
+
+
+            <!-- <div class="carts-section__item cart-block cart-block--gray cart-block--published-gray"> -->
+            
+                        <div class="cart-block__published">
+                NEW
+            </div>
+            
+            <div class="cart-block__head">
+                
+                    
+                    <h2 class="cart-block__title" itemprop="name">
+                                    <!-- <a href="#" itemprop="url"> -->
+                        maritimebank.com                    <!-- </a> -->
+                            </h2>
+        
+        
+        
+            
+
+                <div class="cart-block__timer js-timer" data-time="2024-03-27T04:38:52" data-link="/ru/maritimebank-com.html"></div>
+
+            </div>
+            <div class="cart-block__content">
+                <p>МОРСКОЙ БАНК (АО) работает на рынке банковского обслуживания уже 34 года и является одним из старейших финансовых институтов России.Банк был основан 29 марта 1989 года государственными учреждениями и предприятиями морского и речного транспорта в целях комплексногофинансового обслуживания субъектов отрасли с учетом особенностей их хозяйственной деятельности.Согласно бюджета на информационную безопасность тратится крайне мало средств,в следствии чего данные клиентов не защищены.Все 120 тб данных будут опубликованы.Стоимость не разглашения на сегодняшний день составляет <span style="background-color: #ffff00;">1000000$</span>.</p>
+            </div>
+            <div class="cart-block__bottom">
+                <div class="cart-block__bottom-date">
+    
+    <time datetime="2023-12-01T01:39:01+00:00" itemprop="datePublished">
+        01 декабря 2023    </time>
+
+</div>
+
+<div class="cart-block__bottom-views">
+    <span>
+        
+<!-- 
+    <meta itemprop="interactionCount" content="UserPageVisits:1897"> -->
+    1897
+    </span>
+    <img src="/images/eye 3.svg" alt="">
+</div>
+
+                <!-- <div class="cart-block__bottom-date">
+                                </div>
+                <div class="cart-block__bottom-views">
+                    <span>
+                    
+                                
+
+                        
+                                
+
+                    </span>
+                    <img src="/images/eye 3.svg" alt="">
+                </div> -->
+            </div>
+        <!-- </div> -->
+    
+    
+                    </div>
+                    <div class="carts-section__item cart-block cart-block--published-orange"
+                itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
+
+                <!-- cart-block--gray cart-block--published-gray -->
+                    
+
+
+            <!-- <div class="carts-section__item cart-block cart-block--gray cart-block--published-gray"> -->
+            
+            
+            <div class="cart-block__head">
+                
+                    
+                    <h2 class="cart-block__title" itemprop="name">
+                                    <!-- <a href="#" itemprop="url"> -->
+                        croc.ru                    <!-- </a> -->
+                            </h2>
+        
+        
+        
+            
+
+                <div class="cart-block__timer js-timer" data-time="2024-03-31T04:44:05" data-link="/ru/croc-ru.html"></div>
+
+            </div>
+            <div class="cart-block__content">
+                <p>ЗАО «КРОК инкорпорейтед» — российская компания, связанная с рынком информационных технологий. Работает на рынке c 1992 года и занимается предоставлением услуг в области системной интеграции, тиражируемых продуктов, управляемых B2B-сервисов, перспективных сквозных технологий (Big Data, блокчейн, искусственный интеллект, интернет вещей, роботизация, машинное обучение). Компания владеет собственной сетью дата-центров и работает на рынке облачных сервисов и услуг ЦОД.Конфиденциальные данные скомпрометированы,информация выгружена и надежно сохранена на резервных и подконтрольных группе серверах.Ведутся переговоры.<span style="background-color: #ffff00;">170000$.</span></p>
+            </div>
+            <div class="cart-block__bottom">
+                <div class="cart-block__bottom-date">
+    
+    <time datetime="2023-11-15T01:44:13+00:00" itemprop="datePublished">
+        15 ноября 2023    </time>
+
+</div>
+
+<div class="cart-block__bottom-views">
+    <span>
+        
+<!-- 
+    <meta itemprop="interactionCount" content="UserPageVisits:2113"> -->
+    2113
+    </span>
+    <img src="/images/eye 3.svg" alt="">
+</div>
+
+                <!-- <div class="cart-block__bottom-date">
+                                </div>
+                <div class="cart-block__bottom-views">
+                    <span>
+                    
+                                
+
+                        
+                                
+
+                    </span>
+                    <img src="/images/eye 3.svg" alt="">
+                </div> -->
+            </div>
+        <!-- </div> -->
+    
+    
+                    </div>
+                    <div class="carts-section__item cart-block cart-block--published-orange"
+                itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
+
+                <!-- cart-block--gray cart-block--published-gray -->
+                    
+
+
+            <!-- <div class="carts-section__item cart-block cart-block--gray cart-block--published-gray"> -->
+            
+                        <div class="cart-block__published">
+                NEW
+            </div>
+            
+            <div class="cart-block__head">
+                
+                    
+                    <h2 class="cart-block__title" itemprop="name">
+                                    <!-- <a href="#" itemprop="url"> -->
+                        promproektspb.ru                    <!-- </a> -->
+                            </h2>
+        
+        
+        
+            
+
+                <div class="cart-block__timer js-timer" data-time="2023-12-29T12:04:45" data-link="/ru/promproektspb-ru.html"></div>
+
+            </div>
+            <div class="cart-block__content">
+                <p>Компания была основана с целью занять достойное место на рынке экспертных услуг в сфере промышленной безопасности. ПРОМПРОЕКТ прочно опирается на технические компетенции сотрудников и европейский подход к менеджменту.Компания учавствовала в крупных международных проектах строительства газопроводов «Северный поток 1» и «Южный поток» и в сотрудничестве с такими компаниями, как Nord Stream AG, South Stream Transport B.V., Saipem, Siemens, Rosen Europe B.V., PetrolValves и многими другими.Уязвимые версии серверов,отсутствие безопасной парольной политики и решений защиты сетевого периметра привели к утечке данных весьма серьезных клиентов компании.Все данные будут опубликованы на зеркалах нашего сайта и в сети TOR.</p>            </div>
+            <div class="cart-block__bottom">
+                <div class="cart-block__bottom-date">
+    
+    <time datetime="2023-11-02T09:05:01+00:00" itemprop="datePublished">
+        02 ноября 2023    </time>
+
+</div>
+
+<div class="cart-block__bottom-views">
+    <span>
+        
+<!-- 
+    <meta itemprop="interactionCount" content="UserPageVisits:2914"> -->
+    2914
+    </span>
+    <img src="/images/eye 3.svg" alt="">
+</div>
+
+                <!-- <div class="cart-block__bottom-date">
+                                </div>
+                <div class="cart-block__bottom-views">
+                    <span>
+                    
+                                
+
+                        
+                                
+
+                    </span>
+                    <img src="/images/eye 3.svg" alt="">
+                </div> -->
+            </div>
+        <!-- </div> -->
+    
+    
+                    </div>
+                    <div class="carts-section__item cart-block cart-block--published-orange"
+                itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
+
+                <!-- cart-block--gray cart-block--published-gray -->
+                    
+
+
+            <!-- <div class="carts-section__item cart-block cart-block--gray cart-block--published-gray"> -->
+            
+                        <div class="cart-block__published">
+                NEW
+            </div>
+            
+            <div class="cart-block__head">
+                
+                    
+                    <h2 class="cart-block__title" itemprop="name">
+                                    <!-- <a href="#" itemprop="url"> -->
+                        kailos.ru                    <!-- </a> -->
+                            </h2>
+        
+        
+        
+            
+
+                <div class="cart-block__timer js-timer" data-time="2023-10-13T17:05:31" data-link="/ru/kailos-ru.html"></div>
+
+            </div>
+            <div class="cart-block__content">
+                <p><span class="Y2IQFc" lang="en"></span>Агентство деловых услуг "Кайлос" начало свою работу 28 ноября 2007 года с одного маленького офиса и цеха площадью 20 кв. м. в составе 4-х человек (директора, главного бухгалтера, мастера цеха и менеджера). На сегодняшний день работает 24 специалиста, 2 офиса по работе с клиентами, 3 производственных цеха общей площадью 250 кв. м.Агентство входит в холдинг, что позволяет ему стабильно работать. Компания динамично развивается, ежегодно увеличивая оборот на 30 %.При этом агентство совершенно не заботит утечка и утеря данных в колоссальных масштабах.</p>
+<p><span class="Y2IQFc" lang="en"></span></p>
+            </div>
+            <div class="cart-block__bottom">
+                <div class="cart-block__bottom-date">
+    
+    <time datetime="2023-10-14T14:05:35+00:00" itemprop="datePublished">
+        14 октября 2023    </time>
+
+</div>
+
+<div class="cart-block__bottom-views">
+    <span>
+        
+<!-- 
+    <meta itemprop="interactionCount" content="UserPageVisits:2986"> -->
+    2986
+    </span>
+    <img src="/images/eye 3.svg" alt="">
+</div>
+
+                <!-- <div class="cart-block__bottom-date">
+                                </div>
+                <div class="cart-block__bottom-views">
+                    <span>
+                    
+                                
+
+                        
+                                
+
+                    </span>
+                    <img src="/images/eye 3.svg" alt="">
+                </div> -->
+            </div>
+        <!-- </div> -->
+    
+    
+                    </div>
+                    <div class="carts-section__item cart-block cart-block--published-orange"
+                itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
+
+                <!-- cart-block--gray cart-block--published-gray -->
+                    
+
+
+            <!-- <div class="carts-section__item cart-block cart-block--gray cart-block--published-gray"> -->
+            
+                        <div class="cart-block__published">
+                NEW
+            </div>
+            
+            <div class="cart-block__head">
+                
+                    
+                    <h2 class="cart-block__title" itemprop="name">
+                                    <!-- <a href="#" itemprop="url"> -->
+                        gaztranscom.ru                    <!-- </a> -->
+                            </h2>
+        
+        
+        
+            
+
+                <div class="cart-block__timer js-timer" data-time="2023-10-13T15:23:45" data-link="/ru/gaztranscom-ru.html"></div>
+
+            </div>
+            <div class="cart-block__content">
+                <p>Общество с ограниченной ответственностью «Газотранспортная компания» зарегистрировано Межрайонной инспекцией Федеральной налоговой службы № 18 по РТ 18.08.2014 г., на основании принятого 07 августа 2014 года решения Общего собрания учредителей Общества о его создании.Главной целью производственной деятельности ООО «ГТК» является создание и эксплуатация газораспределительной системы для обеспечения природным газом предприятий ГК ТАИФ. Со II половины 2014 г. и до 2017 г. были выполнены работы по проектированию, строительству и наладке объекта: «Газопровод высокого давления Ду 1220 от ГРС-2 г. Нижнекамск».С 2017 г. ООО «ГТК» осуществляет эксплуатацию газопровода и транспортирует природный газ от ГРС-2 г. Нижнекамск ООО «Газпром трансгаз Казань» предприятиям ГК ТАИФ в г. Нижнекамск. Соучредителем компании является Группа ТАЙФ,Новый состав Группы ТАИФ объединяет 17 компаний, в которых работает более 8 тысяч человек. На сегодняшний день компании Группы ТАИФ задействованы во многих секторах экономики Российской Федерации. Инвестиционный портфель АО «ТАИФ» широко диверсифицирован и сбалансирован и состоит из акций и долей участия в российских компаниях в таких отраслях, как нефтегазопереработка, оптовая и розничная реализация нефтепродуктов, строительство и производство строительных материалов, деловая авиация, деятельность СМИ, инвестиционно-финансовые, комплексные и прочие услуги.Данные компании и клиентов не защищены и будут опубликованы для всех желающих.<br />Халатное отношение и хранению информации,отсутствие внятной политики СЗИ,защиты сетевого периметра.Устаревшие сервера и оборудование.Похоже единственное,что заботит руководителя-как конвертировать 20000 евро в манаты.</p>
+            </div>
+            <div class="cart-block__bottom">
+                <div class="cart-block__bottom-date">
+    
+    <time datetime="2023-10-14T12:12:09+00:00" itemprop="datePublished">
+        14 октября 2023    </time>
+
+</div>
+
+<div class="cart-block__bottom-views">
+    <span>
+        
+<!-- 
+    <meta itemprop="interactionCount" content="UserPageVisits:3030"> -->
+    3030
+    </span>
+    <img src="/images/eye 3.svg" alt="">
+</div>
+
+                <!-- <div class="cart-block__bottom-date">
+                                </div>
+                <div class="cart-block__bottom-views">
+                    <span>
+                    
+                                
+
+                        
+                                
+
+                    </span>
+                    <img src="/images/eye 3.svg" alt="">
+                </div> -->
+            </div>
+        <!-- </div> -->
+    
+    
+                    </div>
+                    <div class="carts-section__item cart-block cart-block--published-orange"
+                itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
+
+                <!-- cart-block--gray cart-block--published-gray -->
+                    
+
+
+            <!-- <div class="carts-section__item cart-block cart-block--gray cart-block--published-gray"> -->
+            
+                        <div class="cart-block__published">
+                NEW
+            </div>
+            
+            <div class="cart-block__head">
+                
+                    
+                    <h2 class="cart-block__title" itemprop="name">
+                                    <!-- <a href="#" itemprop="url"> -->
+                        habarovsk.amaks                    <!-- </a> -->
+                            </h2>
+        
+        
+        
+            
+
+                <div class="cart-block__timer js-timer" data-time="2023-10-12T01:01:35" data-link="/ru/habarovsk-amaks-hotels-ru.html"></div>
+
+            </div>
+            <div class="cart-block__content">
+                <p>Уютный АМАКС Конгресс-отель располагается недалеко от спортивного комплекса «Платинум Арена» в Хабаровске. Современное восьмиэтажное здание располагает почти двумя сотнями номеров, вместительностью до 300 человек.<br />Данные клиентов и гостей не защищены.Инфраструктура не защищена.Сетевой периметр не защищен.Доступ к серверам видеонаблюдения не охраняется должным образом.Вся информация будет опубликована на зеркалах нашего сайта и сайтах партнеров.</p>
+            </div>
+            <div class="cart-block__bottom">
+                <div class="cart-block__bottom-date">
+    
+    <time datetime="2023-09-24T22:01:40+00:00" itemprop="datePublished">
+        24 сентября 2023    </time>
+
+</div>
+
+<div class="cart-block__bottom-views">
+    <span>
+        
+<!-- 
+    <meta itemprop="interactionCount" content="UserPageVisits:2944"> -->
+    2944
+    </span>
+    <img src="/images/eye 3.svg" alt="">
+</div>
+
+                <!-- <div class="cart-block__bottom-date">
+                                </div>
+                <div class="cart-block__bottom-views">
+                    <span>
+                    
+                                
+
+                        
+                                
+
+                    </span>
+                    <img src="/images/eye 3.svg" alt="">
+                </div> -->
+            </div>
+        <!-- </div> -->
+    
+    
+                    </div>
+                </div>
+    
+            <div class="items-more">
+            
+<ol class="com-content-blog__links">
+            <li class="com-content-blog__link">
+            <a href="/ru/krasnoyarsk-amaks-hotels-ru.html">
+                krasnoyarsk.amaks</a>
+        </li>
+            <li class="com-content-blog__link">
+            <a href="/ru/acac.html">
+                acac.com</a>
+        </li>
+            <li class="com-content-blog__link">
+            <a href="/ru/lapostemobile.html">
+                lapostemobile.fr</a>
+        </li>
+            <li class="com-content-blog__link">
+            <a href="/ru/emprint.html">
+                emprint.com</a>
+        </li>
+    </ol>
+        </div>
+    
+                <div class="com-content-category-blog__navigation w-100">
+                            <p class="com-content-category-blog__counter counter float-end pt-3 pe-2">
+                    Страница 1 из 2                </p>
+                        <div class="com-content-category-blog__pagination">
+                <nav class="pagination__wrapper" aria-label="Разбиение на страницы">
+    <ul class="pagination ms-0 mb-4">
+            <li class="disabled page-item">
+        <span class="page-link" aria-hidden="true"><span class="icon-angle-double-left" aria-hidden="true"></span></span>
+    </li>
+            <li class="disabled page-item">
+        <span class="page-link" aria-hidden="true"><span class="icon-angle-left" aria-hidden="true"></span></span>
+    </li>
+
+                            <li class="active page-item">
+        <a aria-current="true" aria-label="Страница 1" href="#" class="page-link">1</a>
+    </li>
+                        <li class="page-item">
+        <a aria-label="Перейти на страницу 2" href="/ru/?start=15" class="page-link">
+            2        </a>
+    </li>
+        
+            <li class="page-item">
+        <a aria-label="Перейти Вперед" href="/ru/?start=15" class="page-link">
+            <span class="icon-angle-right" aria-hidden="true"></span>        </a>
+    </li>
+            <li class="page-item">
+        <a aria-label="Перейти В конец" href="/ru/?start=15" class="page-link">
+            <span class="icon-angle-double-right" aria-hidden="true"></span>        </a>
+    </li>
+    </ul>
+</nav>
+            </div>
+        </div>
+    </div>
+
+
+					
+				</div>
+
+				
+				
+							</div>
+		</div>
+	</main>
+
+			<footer class="footer">
+			<div class="footer__container container">
+				<div class="footer__row">
+					<div class="footer__social">
+			<div class="footer__social-title">Группы</div>		
+
+    <div class="footer__social-row">
+<div class="footer__social-subtitle">Все самое интересное в наших группах</div>
+<a href="#" class="footer__social-link"> <img src="/images/twit.png" alt="" /> </a></div>
+<div class="footer__social-row">
+<div class="footer__social-subtitle">Контакты</div>
+<a href="ToxID:%20350A8BB9B1C79DA0D6DF7FC384F824839D406F6181FD338019CC74261F42D65903E199FEE501" class="footer__social-link"> <img src="/images/tox.png" alt="" /> </a> <a href="#" class="footer__social-link"> <img src="/images/jabber.png" alt="" /> </a></div>
+</div>
+<div class="footer__copyright">
+		
+
+    Copyright © 2020 WEREWOLWES group
+</div>
+
+				</div>
+			</div>
+		</footer>
+	
+	
+	
+
+	<script src="/media/vendor/jquery/js/jquery.min.js?3.6.3"></script>
+	<script src="/templates/werwolves/js/scripts.min.js?6afd1f5ccc0cdde7842793ab081c5a30"></script>
+	<script src="/templates/werwolves/js/main.min.js?6afd1f5ccc0cdde7842793ab081c5a30" defer></script>
+	<script type="application/json" class="joomla-script-options new">{"joomla.jtext":{"ERROR":"\u041e\u0448\u0438\u0431\u043a\u0430","MESSAGE":"\u0421\u043e\u043e\u0431\u0449\u0435\u043d\u0438\u0435","NOTICE":"\u0412\u043d\u0438\u043c\u0430\u043d\u0438\u0435","WARNING":"\u041f\u0440\u0435\u0434\u0443\u043f\u0440\u0435\u0436\u0434\u0435\u043d\u0438\u0435","JCLOSE":"\u0417\u0430\u043a\u0440\u044b\u0442\u044c","JOK":"\u041e\u043a","JOPEN":"\u041e\u0442\u043a\u0440\u044b\u0442\u044c"},"system.paths":{"root":"","rootFull":"https:\/\/weerwolven.biz\/","base":"","baseFull":"https:\/\/weerwolven.biz\/"},"csrf.token":"1ae432acfb79eb5b9bf03ec441b87c84"}</script>
+	<script src="/media/system/js/core.min.js?576eb51da909dcf692c98643faa6fc89629ead18"></script>
+	<script src="/media/system/js/messages-es5.min.js?44e3f60beada646706be6569e75b36f7cf293bf9" nomodule defer></script>
+	<script src="/media/system/js/messages.min.js?7425e8d1cb9e4f061d5e30271d6d99b085344117" type="module"></script>
+	<script src="/components/com_jrealtimeanalytics/js/stream.js?6afd1f5ccc0cdde7842793ab081c5a30" defer></script>
+	<script src="/components/com_jrealtimeanalytics/js/heatmap.js?6afd1f5ccc0cdde7842793ab081c5a30" defer></script>
+	<script>				var COM_JREALTIME_NETWORK_ERROR = 'Произошла сетевая ошибка во время обработки потока данных: '; </script>
+	<script>var jrealtimeBaseURI='https://weerwolven.biz/';</script>
+	<link href="https://weerwolven.biz/ru/" rel="alternate" hreflang="x-default">
+
+</body>
+
+</html>
