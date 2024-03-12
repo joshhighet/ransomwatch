@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-03-12 | [`Kaplan`](https://google.com/search?q=Kaplan) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-03-12 | [`Sprimoglass`](https://google.com/search?q=Sprimoglass) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2024-03-12 | [`Federchimica`](https://google.com/search?q=Federchimica) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2024-03-12 | [`CHRG`](https://google.com/search?q=CHRG) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-02-26 | [`advancedprosolutions.com\$5M\USA\54GB\100%DISCLOSED`](https://google.com/search?q=advancedprosolutions.com%5C%245M%5CUSA%5C54GB%5C100%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-02-26 | [`aeromechinc.com`](https://google.com/search?q=aeromechinc.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-26 | [`silganholdings.com`](https://google.com/search?q=silganholdings.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-02-26 | [`ernesthealth.com`](https://google.com/search?q=ernesthealth.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
