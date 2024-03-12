@@ -4,6 +4,11 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-03-12 | [`Active Concepts`](https://google.com/search?q=Active+Concepts) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2024-03-12 | [`GFAD`](https://google.com/search?q=GFAD) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2024-03-12 | [`Xcel Brands Inc`](https://google.com/search?q=Xcel+Brands+Inc) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2024-03-12 | [`Cpac Systems AB develops`](https://google.com/search?q=Cpac+Systems+AB+develops) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2024-03-12 | [`Duty Free Americas (DFA)`](https://google.com/search?q=Duty+Free+Americas+%28DFA%29) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-03-12 | [`Brooks Tropicals`](https://google.com/search?q=Brooks+Tropicals) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2024-03-12 | [`https://withallco.com/`](https://google.com/search?q=https%3A%2F%2Fwithallco.com%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-03-12 | [`https://www.walkersandford.co.uk`](https://google.com/search?q=https%3A%2F%2Fwww.walkersandford.co.uk) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
@@ -199,8 +204,3 @@ _last `200` posts_
 | 2024-02-26 | [`Angeles Medical Centers`](https://google.com/search?q=Angeles+Medical+Centers) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2024-02-26 | [`https://www.bazaarvoice.com`](https://google.com/search?q=https%3A%2F%2Fwww.bazaarvoice.com) | [mogilevich](https://ransomwatch.telemetry.ltd/#/profiles?id=mogilevich) |
 | 2024-02-26 | [`Bjuvs kommun`](https://google.com/search?q=Bjuvs+kommun) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2024-02-26 | [`silganhodlings.com`](https://google.com/search?q=silganhodlings.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-02-26 | [`Southwest Industrial Sales`](https://google.com/search?q=Southwest+Industrial+Sales) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
-| 2024-02-26 | [`The Professional Liability Fund `](https://google.com/search?q=The+Professional+Liability+Fund+) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
-| 2024-02-26 | [`Webber International University`](https://google.com/search?q=Webber+International+University) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
-| 2024-02-26 | [`S+C Partners`](https://google.com/search?q=S%2BC+Partners) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
