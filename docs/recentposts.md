@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-03-13 | [`geruestbau.com`](https://google.com/search?q=geruestbau.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-03-13 | [`http://judgerc.org`](https://google.com/search?q=http%3A%2F%2Fjudgerc.org) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-03-13 | [`Kovra <www.kovra.com.my>`](https://google.com/search?q=Kovra+%3Cwww.kovra.com.my%3E) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-03-13 | [`Forstinger Österreich GmbH`](https://google.com/search?q=Forstinger+%C3%96sterreich+GmbH) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-02-27 | [`npgandour.com`](https://google.com/search?q=npgandour.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-27 | [`https://dfa.ie/`](https://google.com/search?q=https%3A%2F%2Fdfa.ie%2F) | [mogilevich](https://ransomwatch.telemetry.ltd/#/profiles?id=mogilevich) |
 | 2024-02-27 | [`https://www.epicgames.com/`](https://google.com/search?q=https%3A%2F%2Fwww.epicgames.com%2F) | [mogilevich](https://ransomwatch.telemetry.ltd/#/profiles?id=mogilevich) |
-| 2024-02-27 | [`Electro Marteix`](https://google.com/search?q=Electro+Marteix) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
