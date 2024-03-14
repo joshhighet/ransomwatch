@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-03-14 | [`journeyfreight.com`](https://google.com/search?q=journeyfreight.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2024-03-14 | [`dhanisisd.net`](https://google.com/search?q=dhanisisd.net) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-03-14 | [`Ramdev Chemical Industries`](https://google.com/search?q=Ramdev+Chemical+Industries) | [mallox](https://ransomwatch.telemetry.ltd/#/profiles?id=mallox) |
 | 2024-03-14 | [`www.mioa.gov.mk`](https://google.com/search?q=www.mioa.gov.mk) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
 | 2024-03-14 | [`Keboda Technology Co., Ltd.`](https://google.com/search?q=Keboda+Technology+Co.%2C+Ltd.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-02-28 | [`Hypertension Nephrology Associates, P.C.`](https://google.com/search?q=Hypertension+Nephrology+Associates%2C+P.C.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-02-28 | [`Medall Healthcare Pvt Ltd.`](https://google.com/search?q=Medall+Healthcare+Pvt+Ltd.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-02-28 | [`vertdure.com`](https://google.com/search?q=vertdure.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-02-28 | [`sundbirsta.com`](https://google.com/search?q=sundbirsta.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-02-28 | [`abtexelgroup.com\$222.6M\Netherlands\1TB\&lt;1%DISCLOSED`](https://google.com/search?q=abtexelgroup.com%5C%24222.6M%5CNetherlands%5C1TB%5C%26lt%3B1%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
