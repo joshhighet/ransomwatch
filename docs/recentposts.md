@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-03-14 | [`se.com\$33.5B\France\1.5TB\100%DISCLOSED\`](https://google.com/search?q=se.com%5C%2433.5B%5CFrance%5C1.5TB%5C100%25DISCLOSED%5C) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
+| 2024-03-14 | [`moperry.com`](https://google.com/search?q=moperry.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2024-03-14 | [`www.lostlb.org`](https://google.com/search?q=www.lostlb.org) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
 | 2024-03-14 | [`voidinteractive.net you are welcome in our chat`](https://google.com/search?q=voidinteractive.net+you+are+welcome+in+our+chat) | [donutleaks](https://ransomwatch.telemetry.ltd/#/profiles?id=donutleaks) |
 | 2024-03-14 | [`journeyfreight.com`](https://google.com/search?q=journeyfreight.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-03-14 | [`dhanisisd.net`](https://google.com/search?q=dhanisisd.net) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2024-02-28 | [`http://www.piperroofing.com`](https://google.com/search?q=http%3A%2F%2Fwww.piperroofing.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-02-28 | [`https://www.pbi.gov.bd/`](https://google.com/search?q=https%3A%2F%2Fwww.pbi.gov.bd%2F) | [mogilevich](https://ransomwatch.telemetry.ltd/#/profiles?id=mogilevich) |
 | 2024-02-28 | [`Change Healthcare - Optum - UnitedHealth`](https://google.com/search?q=Change+Healthcare+-+Optum+-+UnitedHealth) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2024-02-28 | [`DTN Management Compa ny`](https://google.com/search?q=DTN+Management+Compa+ny) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2024-02-28 | [`Hypertension Nephrology Associates, P.C.`](https://google.com/search?q=Hypertension+Nephrology+Associates%2C+P.C.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2024-02-28 | [`Medall Healthcare Pvt Ltd.`](https://google.com/search?q=Medall+Healthcare+Pvt+Ltd.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |

@@ -274,7 +274,7 @@
 						<div class="card-box height-100-p widget-style3">
 							<div class="d-flex flex-wrap">
 								<div class="widget-data">
-									<div class="weight-700 font-24 text-dark">6+</div>
+									<div class="weight-700 font-24 text-dark">7+</div>
 									<div class="font-14 text-secondary weight-500">
 										Stormous.X/GhostLocker
 									</div>
@@ -310,7 +310,7 @@
 						<div class="card-box height-100-p widget-style3">
 							<div class="d-flex flex-wrap">
 								<div class="widget-data">
-									<div class="weight-700 font-24 text-dark">71+</div>
+									<div class="weight-700 font-24 text-dark">72+</div>
 									<div class="font-14 text-secondary weight-500">
 										Number of victims
 									</div>
@@ -359,8 +359,62 @@
 							</tr>
 						</thead>
 						
-					
-
+						<tbody>						
+							<tr style="background-color: rgb(245, 152, 152);">
+						
+								<td class="table-plus">
+									<div class="name-avatar d-flex align-items-center">
+										<div class="avatar mr-2 flex-shrink-0">
+											<img src="vendors/images/companyimage/lostlb.png"
+												 class="border-radius-100 shadow"
+												 width="40"
+												 height="40"
+												 alt=""
+											/>
+										</div>
+										<div class="txt">
+											<div class="weight-600">lostlb</div>
+										</div>
+									</div>
+								</td>
+								<td>Lebanon</td>
+								<td>?</td>
+								<td>www.lostlb.org</td>
+								<td>14/03/2024</td>
+								<td>
+									<div class="table-actions">
+										<div id="timer19" style="color: rgb(226, 2, 2); font-size: small;"></div>
+									</div>
+								</td>
+								<td>
+									<div class="table-actions">
+										<a href="" data-color="#265ed7"
+										 class="border-radius-100 shadow" style="width: 40px; height: 40px; background-color: #ffffff; text-align: center; line-height: 40px; font-size: small;">
+											0%
+									</div>
+								</td>
+							</tr>
+							<script>
+								var targetDate19 = new Date('March 18 2024').getTime();
+								var timerDisplay19 = document.getElementById('timer19');
+								var timerInterval19 = setInterval(function() {
+									var now19 = new Date().getTime();
+									var distance19 = targetDate19 - now19;
+							
+									var days19 = Math.floor(distance19 / (1000 * 60 * 60 * 24));
+									var hours19 = Math.floor((distance19 % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+									var minutes19 = Math.floor((distance19 % (1000 * 60 * 60)) / (1000 * 60));
+									var seconds19 = Math.floor((distance19 % (1000 * 60)) / 1000);
+							
+									timerDisplay19.innerHTML = days19 + "d " + hours19 + "h " + minutes19 + "m " + seconds19 + "s ";
+							
+									if (distance19 < 0) {
+										clearInterval(timerInterval19);
+										timerDisplay19.innerHTML = "FINISHED";
+									}
+								}, 1000);
+							</script>
+							
 
 
 						<tbody>						
