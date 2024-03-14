@@ -3191,6 +3191,106 @@
                 "updated": "2024-03-14 21:21:34.161635",
                 "lastscrape": "2024-03-14 21:21:34.161619",
                 "enabled": true
+            },
+            {
+                "fqdn": "lockbit7a2g6ve7etbcy6iyizjnuleffz4szgmxaawcbfauluavi5jqd.onion",
+                "title": null,
+                "version": 3,
+                "slug": "http://lockbit7a2g6ve7etbcy6iyizjnuleffz4szgmxaawcbfauluavi5jqd.onion/form",
+                "available": false,
+                "updated": null,
+                "lastscrape": "2021-05-01 00:00:00.000000",
+                "enabled": true
+            },
+            {
+                "fqdn": "lockbit75naln4yj44rg6ez6vjmdcrt7up4kxmmmuvilcg4ak3zihxid.onion",
+                "title": null,
+                "version": 3,
+                "slug": "http://lockbit75naln4yj44rg6ez6vjmdcrt7up4kxmmmuvilcg4ak3zihxid.onion/form",
+                "available": false,
+                "updated": null,
+                "lastscrape": "2021-05-01 00:00:00.000000",
+                "enabled": true
+            },
+            {
+                "fqdn": "lockbit74beza5z3e3so7qmjnvlgoemscp7wtp33xo7xv7f7xtlqbkqd.onion",
+                "title": null,
+                "version": 3,
+                "slug": "http://lockbit74beza5z3e3so7qmjnvlgoemscp7wtp33xo7xv7f7xtlqbkqd.onion/form",
+                "available": false,
+                "updated": null,
+                "lastscrape": "2021-05-01 00:00:00.000000",
+                "enabled": true
+            },
+            {
+                "fqdn": "lockbitcuo23q7qrymbk6dsp2sadltspjvjxgcyp4elbnbr6tcnwq7qd.onion",
+                "title": null,
+                "version": 3,
+                "slug": "http://lockbitcuo23q7qrymbk6dsp2sadltspjvjxgcyp4elbnbr6tcnwq7qd.onion/form",
+                "available": false,
+                "updated": null,
+                "lastscrape": "2021-05-01 00:00:00.000000",
+                "enabled": true
+            },
+            {
+                "fqdn": "lockbitb42tkml3ipianjbs6e33vhcshb7oxm2stubfvdzn3y2yqgbad.onion",
+                "title": null,
+                "version": 3,
+                "slug": "http://lockbitb42tkml3ipianjbs6e33vhcshb7oxm2stubfvdzn3y2yqgbad.onion/form",
+                "available": false,
+                "updated": null,
+                "lastscrape": "2021-05-01 00:00:00.000000",
+                "enabled": true
+            },
+            {
+                "fqdn": "lockbitaa46gwjck2xzmi2xops6x4x3aqn6ez7yntitero2k7ae6yoyd.onion",
+                "title": null,
+                "version": 3,
+                "slug": "http://lockbitaa46gwjck2xzmi2xops6x4x3aqn6ez7yntitero2k7ae6yoyd.onion/form",
+                "available": false,
+                "updated": null,
+                "lastscrape": "2021-05-01 00:00:00.000000",
+                "enabled": true
+            },
+            {
+                "fqdn": "lockbitqevb62vetmis3eylenxzxlh6x2n5doz5dclj4y5anvez6a5yd.onion",
+                "title": null,
+                "version": 3,
+                "slug": "http://lockbitqevb62vetmis3eylenxzxlh6x2n5doz5dclj4y5anvez6a5yd.onion/",
+                "available": false,
+                "updated": null,
+                "lastscrape": "2021-05-01 00:00:00.000000",
+                "enabled": true
+            },
+            {
+                "fqdn": "lockbitzwyngiwkepffhcwvc4qpgpu3lmn4kf4cu33sxmif7xzoilfyd.onion",
+                "title": null,
+                "version": 3,
+                "slug": "http://lockbitzwyngiwkepffhcwvc4qpgpu3lmn4kf4cu33sxmif7xzoilfyd.onion/",
+                "available": false,
+                "updated": null,
+                "lastscrape": "2021-05-01 00:00:00.000000",
+                "enabled": true
+            },
+            {
+                "fqdn": "lockbitwwgh7ybaxczt4fddrpthaweouq4bez2lim7ct2bqtkdlec4ad.onion",
+                "title": null,
+                "version": 3,
+                "slug": "http://lockbitwwgh7ybaxczt4fddrpthaweouq4bez2lim7ct2bqtkdlec4ad.onion/",
+                "available": false,
+                "updated": null,
+                "lastscrape": "2021-05-01 00:00:00.000000",
+                "enabled": true
+            },
+            {
+                "fqdn": "lockbitzka3u4xx4xbw2lo7mqwgqxign6iq4clatn66sfbred22qdiid.onion",
+                "title": null,
+                "version": 3,
+                "slug": "http://lockbitzka3u4xx4xbw2lo7mqwgqxign6iq4clatn66sfbred22qdiid.onion/form",
+                "available": false,
+                "updated": null,
+                "lastscrape": "2021-05-01 00:00:00.000000",
+                "enabled": true
             }
         ],
         "profile": []
