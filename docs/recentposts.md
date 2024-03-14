@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-03-14 | [`Ramdev Chemical Industries`](https://google.com/search?q=Ramdev+Chemical+Industries) | [mallox](https://ransomwatch.telemetry.ltd/#/profiles?id=mallox) |
+| 2024-03-14 | [`www.mioa.gov.mk`](https://google.com/search?q=www.mioa.gov.mk) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
 | 2024-03-14 | [`Keboda Technology Co., Ltd.`](https://google.com/search?q=Keboda+Technology+Co.%2C+Ltd.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-03-14 | [`iamdesign.com`](https://google.com/search?q=iamdesign.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
 | 2024-03-14 | [`yarco.com`](https://google.com/search?q=yarco.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-02-28 | [`vertdure.com`](https://google.com/search?q=vertdure.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-28 | [`sundbirsta.com`](https://google.com/search?q=sundbirsta.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-28 | [`abtexelgroup.com\$222.6M\Netherlands\1TB\&lt;1%DISCLOSED`](https://google.com/search?q=abtexelgroup.com%5C%24222.6M%5CNetherlands%5C1TB%5C%26lt%3B1%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2024-02-28 | [`Orange Public School District`](https://google.com/search?q=Orange+Public+School+District) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2024-02-28 | [`Saudia MRO`](https://google.com/search?q=Saudia+MRO) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
