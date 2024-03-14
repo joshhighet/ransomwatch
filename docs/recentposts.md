@@ -4,6 +4,10 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-03-14 | [`worthenind.com`](https://google.com/search?q=worthenind.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2024-03-14 | [`sbmandco.com`](https://google.com/search?q=sbmandco.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2024-03-14 | [`rushenergyservices.com`](https://google.com/search?q=rushenergyservices.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2024-03-14 | [`mckimcreed.com`](https://google.com/search?q=mckimcreed.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-03-14 | [`Cosmocolor`](https://google.com/search?q=Cosmocolor) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-03-14 | [`www.education.eeb-lost.org`](https://google.com/search?q=www.education.eeb-lost.org) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
 | 2024-03-14 | [`se.com\$33.5B\France\1.5TB\100%DISCLOSED\`](https://google.com/search?q=se.com%5C%2433.5B%5CFrance%5C1.5TB%5C100%25DISCLOSED%5C) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
@@ -200,7 +204,3 @@ _last `200` posts_
 | 2024-02-29 | [`Essential Labs`](https://google.com/search?q=Essential+Labs) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2024-02-29 | [`http://etairoshealth.com`](https://google.com/search?q=http%3A%2F%2Fetairoshealth.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-02-28 | [`https://www.dinamicoil.com/`](https://google.com/search?q=https%3A%2F%2Fwww.dinamicoil.com%2F) | [trigona](https://ransomwatch.telemetry.ltd/#/profiles?id=trigona) |
-| 2024-02-28 | [`HAL Allergy`](https://google.com/search?q=HAL+Allergy) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
-| 2024-02-28 | [`https://www.hotelavenidapalace.pt/, https://hostalalemana.com/, https://engine.witbooking.`](https://google.com/search?q=https%3A%2F%2Fwww.hotelavenidapalace.pt%2F%2C+https%3A%2F%2Fhostalalemana.com%2F%2C+https%3A%2F%2Fengine.witbooking.) | [trigona](https://ransomwatch.telemetry.ltd/#/profiles?id=trigona) |
-| 2024-02-28 | [`easternshipbuilding.com`](https://google.com/search?q=easternshipbuilding.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-02-28 | [`http://www.piperroofing.com`](https://google.com/search?q=http%3A%2F%2Fwww.piperroofing.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
