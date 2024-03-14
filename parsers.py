@@ -95,7 +95,7 @@ def synack():
 def everest():
     stdlog('parser: ' + 'everest')
     parser = '''
-    grep '<h2 class="entry-title' source/everest-*.html | cut -d '>' -f3 | cut -d '<' -f1
+    grep '<h2 class="entry-title' source/everest-*.html | cut -d '>' -f3 | cut -d '<' -f1 | sort | uniq
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
