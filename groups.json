@@ -3417,6 +3417,16 @@
                 "updated": "2024-03-14 21:23:55.380325",
                 "lastscrape": "2024-03-14 21:23:55.380310",
                 "enabled": true
+            },
+            {
+                "fqdn": "omegalo4jci44dj2ww6ioppevssjqj7kovfd3nn7oyq4byxbbqmf5cid.onion",
+                "title": null,
+                "version": 3,
+                "slug": "http://omegalo4jci44dj2ww6ioppevssjqj7kovfd3nn7oyq4byxbbqmf5cid.onion",
+                "available": false,
+                "updated": null,
+                "lastscrape": "2021-05-01 00:00:00.000000",
+                "enabled": true
             }
         ],
         "profile": []
