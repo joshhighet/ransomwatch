@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-03-14 | [`yarco.com`](https://google.com/search?q=yarco.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
 | 2024-03-14 | [`http://www.feldaglobal.com`](https://google.com/search?q=http%3A%2F%2Fwww.feldaglobal.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-03-14 | [`Encina Wastewater Authority`](https://google.com/search?q=Encina+Wastewater+Authority) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
 | 2024-03-13 | [`McKim & Creed <www.mckimcreed.com>`](https://google.com/search?q=McKim+%26+Creed+%3Cwww.mckimcreed.com%3E) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-02-28 | [`Saudia MRO`](https://google.com/search?q=Saudia+MRO) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2024-02-28 | [`RWF Frömelt`](https://google.com/search?q=RWF+Fr%C3%B6melt) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2024-02-28 | [`ROYAL INSIGNIA`](https://google.com/search?q=ROYAL+INSIGNIA) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2024-02-28 | [`Bertani Trasporti Spa`](https://google.com/search?q=Bertani+Trasporti+Spa) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
