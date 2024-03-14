@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-03-14 | [`Cosmocolor`](https://google.com/search?q=Cosmocolor) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
+| 2024-03-14 | [`www.education.eeb-lost.org`](https://google.com/search?q=www.education.eeb-lost.org) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
 | 2024-03-14 | [`se.com\$33.5B\France\1.5TB\100%DISCLOSED\`](https://google.com/search?q=se.com%5C%2433.5B%5CFrance%5C1.5TB%5C100%25DISCLOSED%5C) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-03-14 | [`moperry.com`](https://google.com/search?q=moperry.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-03-14 | [`www.lostlb.org`](https://google.com/search?q=www.lostlb.org) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-02-28 | [`https://www.hotelavenidapalace.pt/, https://hostalalemana.com/, https://engine.witbooking.`](https://google.com/search?q=https%3A%2F%2Fwww.hotelavenidapalace.pt%2F%2C+https%3A%2F%2Fhostalalemana.com%2F%2C+https%3A%2F%2Fengine.witbooking.) | [trigona](https://ransomwatch.telemetry.ltd/#/profiles?id=trigona) |
 | 2024-02-28 | [`easternshipbuilding.com`](https://google.com/search?q=easternshipbuilding.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-28 | [`http://www.piperroofing.com`](https://google.com/search?q=http%3A%2F%2Fwww.piperroofing.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
-| 2024-02-28 | [`https://www.pbi.gov.bd/`](https://google.com/search?q=https%3A%2F%2Fwww.pbi.gov.bd%2F) | [mogilevich](https://ransomwatch.telemetry.ltd/#/profiles?id=mogilevich) |
-| 2024-02-28 | [`Change Healthcare - Optum - UnitedHealth`](https://google.com/search?q=Change+Healthcare+-+Optum+-+UnitedHealth) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
