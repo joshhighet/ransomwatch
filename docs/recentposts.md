@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-03-15 | [`http://www.sspps.org`](https://google.com/search?q=http%3A%2F%2Fwww.sspps.org) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-03-15 | [`ATL Leasing`](https://google.com/search?q=ATL+Leasing) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-03-14 | [`worthenind.com`](https://google.com/search?q=worthenind.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-03-14 | [`sbmandco.com`](https://google.com/search?q=sbmandco.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-02-29 | [`sunharbormanor.com`](https://google.com/search?q=sunharbormanor.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
 | 2024-02-29 | [`gapsolutions.com.au`](https://google.com/search?q=gapsolutions.com.au) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-29 | [`Essential Labs`](https://google.com/search?q=Essential+Labs) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2024-02-29 | [`http://etairoshealth.com`](https://google.com/search?q=http%3A%2F%2Fetairoshealth.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
