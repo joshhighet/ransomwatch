@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-03-15 | [`oyaksgs.com.tr`](https://google.com/search?q=oyaksgs.com.tr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-03-15 | [`https://www.atmco.net/`](https://google.com/search?q=https%3A%2F%2Fwww.atmco.net%2F) | [trigona](https://ransomwatch.telemetry.ltd/#/profiles?id=trigona) |
 | 2024-03-15 | [`elezabypharmacy.com`](https://google.com/search?q=elezabypharmacy.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-03-15 | [`http://www.sspps.org`](https://google.com/search?q=http%3A%2F%2Fwww.sspps.org) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-02-29 | [`Haas Inc.`](https://google.com/search?q=Haas+Inc.) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-02-29 | [`Alan Ritchey, Inc. (ARI)`](https://google.com/search?q=Alan+Ritchey%2C+Inc.+%28ARI%29) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-02-29 | [`Benthanh Group`](https://google.com/search?q=Benthanh+Group) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-02-29 | [`sunharbormanor.com`](https://google.com/search?q=sunharbormanor.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
