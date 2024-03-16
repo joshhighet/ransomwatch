@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-03-16 | [`Consolidated Benefits Resources`](https://google.com/search?q=Consolidated+Benefits+Resources) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-03-16 | [`triella.com`](https://google.com/search?q=triella.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-03-16 | [`rrib.com`](https://google.com/search?q=rrib.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-03-16 | [`newmans-online.co.uk`](https://google.com/search?q=newmans-online.co.uk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-03-01 | [`http://www.gilmorelv.com`](https://google.com/search?q=http%3A%2F%2Fwww.gilmorelv.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-03-01 | [`Gansevoort Hotel Gro up`](https://google.com/search?q=Gansevoort+Hotel+Gro+up) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-03-01 | [`CoreData`](https://google.com/search?q=CoreData) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2024-03-01 | [`https://www.dji.com/`](https://google.com/search?q=https%3A%2F%2Fwww.dji.com%2F) | [mogilevich](https://ransomwatch.telemetry.ltd/#/profiles?id=mogilevich) |
