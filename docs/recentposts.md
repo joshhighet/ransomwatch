@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-03-16 | [`https://indoarsip.co.id/`](https://google.com/search?q=https%3A%2F%2Findoarsip.co.id%2F) | [trigona](https://ransomwatch.telemetry.ltd/#/profiles?id=trigona) |
+| 2024-03-16 | [`https://www.bwizer.com/pt/`](https://google.com/search?q=https%3A%2F%2Fwww.bwizer.com%2Fpt%2F) | [trigona](https://ransomwatch.telemetry.ltd/#/profiles?id=trigona) |
 | 2024-03-16 | [`https://www.topa.co.nz/`](https://google.com/search?q=https%3A%2F%2Fwww.topa.co.nz%2F) | [trigona](https://ransomwatch.telemetry.ltd/#/profiles?id=trigona) |
 | 2024-03-16 | [`Consolidated Benefits Resources`](https://google.com/search?q=Consolidated+Benefits+Resources) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-03-16 | [`triella.com`](https://google.com/search?q=triella.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-03-01 | [`Compact Mould`](https://google.com/search?q=Compact+Mould) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-03-01 | [`Coastal Car`](https://google.com/search?q=Coastal+Car) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-03-01 | [`Shooting House <www.shootinghouse.com.br>`](https://google.com/search?q=Shooting+House+%3Cwww.shootinghouse.com.br%3E) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-03-01 | [`http://www.gilmorelv.com`](https://google.com/search?q=http%3A%2F%2Fwww.gilmorelv.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
-| 2024-03-01 | [`Gansevoort Hotel Gro up`](https://google.com/search?q=Gansevoort+Hotel+Gro+up) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
