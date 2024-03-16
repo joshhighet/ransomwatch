@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-03-16 | [`Miki Travel`](https://google.com/search?q=Miki+Travel) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-03-16 | [`certifiedcollection.com`](https://google.com/search?q=certifiedcollection.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-03-16 | [`Acculabs Inc`](https://google.com/search?q=Acculabs+Inc) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2024-03-15 | [`oyaksgs.com.tr`](https://google.com/search?q=oyaksgs.com.tr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-02-29 | [`Indianapolis Law Firm`](https://google.com/search?q=Indianapolis+Law+Firm) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-02-29 | [`Scullion Law:`](https://google.com/search?q=Scullion+Law%3A) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-02-29 | [`Franz Carl Weber`](https://google.com/search?q=Franz+Carl+Weber) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2024-02-29 | [`Haas Inc.`](https://google.com/search?q=Haas+Inc.) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
