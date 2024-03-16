@@ -4,6 +4,15 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-03-16 | [`triella.com`](https://google.com/search?q=triella.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2024-03-16 | [`rrib.com`](https://google.com/search?q=rrib.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2024-03-16 | [`newmans-online.co.uk`](https://google.com/search?q=newmans-online.co.uk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2024-03-16 | [`hdstrading.com`](https://google.com/search?q=hdstrading.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2024-03-16 | [`duttonbrock.com`](https://google.com/search?q=duttonbrock.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2024-03-16 | [`colefabrics.com`](https://google.com/search?q=colefabrics.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2024-03-16 | [`bergmeister.eu`](https://google.com/search?q=bergmeister.eu) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2024-03-16 | [`automotionshade.com`](https://google.com/search?q=automotionshade.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2024-03-16 | [`agribank.com.na`](https://google.com/search?q=agribank.com.na) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-03-16 | [`Miki Travel`](https://google.com/search?q=Miki+Travel) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-03-16 | [`certifiedcollection.com`](https://google.com/search?q=certifiedcollection.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-03-16 | [`Acculabs Inc`](https://google.com/search?q=Acculabs+Inc) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -195,12 +204,3 @@ _last `200` posts_
 | 2024-03-01 | [`Gansevoort Hotel Gro up`](https://google.com/search?q=Gansevoort+Hotel+Gro+up) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-03-01 | [`CoreData`](https://google.com/search?q=CoreData) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-03-01 | [`https://www.dji.com/`](https://google.com/search?q=https%3A%2F%2Fwww.dji.com%2F) | [mogilevich](https://ransomwatch.telemetry.ltd/#/profiles?id=mogilevich) |
-| 2024-03-01 | [`https://kick.com/`](https://google.com/search?q=https%3A%2F%2Fkick.com%2F) | [mogilevich](https://ransomwatch.telemetry.ltd/#/profiles?id=mogilevich) |
-| 2024-03-01 | [`https://shein.com/`](https://google.com/search?q=https%3A%2F%2Fshein.com%2F) | [mogilevich](https://ransomwatch.telemetry.ltd/#/profiles?id=mogilevich) |
-| 2024-03-01 | [`Kumagai Gumi Group`](https://google.com/search?q=Kumagai+Gumi+Group) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2024-02-29 | [`Gilmore & Associates`](https://google.com/search?q=Gilmore+%26+Associates) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-02-29 | [`Allan Berger & Associates`](https://google.com/search?q=Allan+Berger+%26+Associates) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2024-02-29 | [`Benthanh Group<benthanhgroup.com>`](https://google.com/search?q=Benthanh+Group%3Cbenthanhgroup.com%3E) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-02-29 | [`Indianapolis Law Firm`](https://google.com/search?q=Indianapolis+Law+Firm) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2024-02-29 | [`Scullion Law:`](https://google.com/search?q=Scullion+Law%3A) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2024-02-29 | [`Franz Carl Weber`](https://google.com/search?q=Franz+Carl+Weber) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
