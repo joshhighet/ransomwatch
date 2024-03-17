@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-03-17 | [`Rafum Group`](https://google.com/search?q=Rafum+Group) | [mallox](https://ransomwatch.telemetry.ltd/#/profiles?id=mallox) |
 | 2024-03-16 | [`https://indoarsip.co.id/`](https://google.com/search?q=https%3A%2F%2Findoarsip.co.id%2F) | [trigona](https://ransomwatch.telemetry.ltd/#/profiles?id=trigona) |
 | 2024-03-16 | [`https://www.bwizer.com/pt/`](https://google.com/search?q=https%3A%2F%2Fwww.bwizer.com%2Fpt%2F) | [trigona](https://ransomwatch.telemetry.ltd/#/profiles?id=trigona) |
 | 2024-03-16 | [`https://www.topa.co.nz/`](https://google.com/search?q=https%3A%2F%2Fwww.topa.co.nz%2F) | [trigona](https://ransomwatch.telemetry.ltd/#/profiles?id=trigona) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-03-01 | [`FBi Construction`](https://google.com/search?q=FBi+Construction) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-03-01 | [`Compact Mould`](https://google.com/search?q=Compact+Mould) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-03-01 | [`Coastal Car`](https://google.com/search?q=Coastal+Car) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-03-01 | [`Shooting House <www.shootinghouse.com.br>`](https://google.com/search?q=Shooting+House+%3Cwww.shootinghouse.com.br%3E) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
