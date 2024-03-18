@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-03-18 | [`RSHP`](https://google.com/search?q=RSHP) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2024-03-18 | [`crinetics.com`](https://google.com/search?q=crinetics.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-03-17 | [`www.paginesi.it`](https://google.com/search?q=www.paginesi.it) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
 | 2024-03-17 | [`Rafum Group`](https://google.com/search?q=Rafum+Group) | [mallox](https://ransomwatch.telemetry.ltd/#/profiles?id=mallox) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-03-01 | [`Marketon`](https://google.com/search?q=Marketon) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-03-01 | [`Kool-air`](https://google.com/search?q=Kool-air) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-03-01 | [`Influence Communication`](https://google.com/search?q=Influence+Communication) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-03-01 | [`FBi Construction`](https://google.com/search?q=FBi+Construction) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
