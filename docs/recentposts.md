@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-03-18 | [`Schokinag`](https://google.com/search?q=Schokinag) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-03-18 | [`Sun Holdings`](https://google.com/search?q=Sun+Holdings) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-03-18 | [`grupatopex.com\$66.5M\Poland\638GB\&lt;1%`](https://google.com/search?q=grupatopex.com%5C%2466.5M%5CPoland%5C638GB%5C%26lt%3B1%25) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-03-18 | [`eclinicalsol.com\$24.5M\USA\3TB\&lt;1%`](https://google.com/search?q=eclinicalsol.com%5C%2424.5M%5CUSA%5C3TB%5C%26lt%3B1%25) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-03-01 | [`Hedlunds`](https://google.com/search?q=Hedlunds) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-03-01 | [`Winona Pattern & Mold`](https://google.com/search?q=Winona+Pattern+%26+Mold) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-03-01 | [`Stack Infrastructure`](https://google.com/search?q=Stack+Infrastructure) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-03-01 | [`New Bedford Welding Supply`](https://google.com/search?q=New+Bedford+Welding+Supply) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
