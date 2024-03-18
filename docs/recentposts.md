@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-03-18 | [`HSI`](https://google.com/search?q=HSI) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
+| 2024-03-18 | [`AGL`](https://google.com/search?q=AGL) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
+| 2024-03-18 | [`Dr. Leeman ENT`](https://google.com/search?q=Dr.+Leeman+ENT) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-03-18 | [`Schokinag`](https://google.com/search?q=Schokinag) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-03-18 | [`Sun Holdings`](https://google.com/search?q=Sun+Holdings) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-03-18 | [`grupatopex.com\$66.5M\Poland\638GB\&lt;1%`](https://google.com/search?q=grupatopex.com%5C%2466.5M%5CPoland%5C638GB%5C%26lt%3B1%25) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2024-03-02 | [`Petrus Resources Ltd.`](https://google.com/search?q=Petrus+Resources+Ltd.) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2024-03-02 | [`SBM & Co [You have 48 hours. Check your e-mail]`](https://google.com/search?q=SBM+%26+Co+%5BYou+have+48+hours.+Check+your+e-mail%5D) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2024-03-01 | [`Red River Title`](https://google.com/search?q=Red+River+Title) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-03-01 | [`Hedlunds`](https://google.com/search?q=Hedlunds) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-03-01 | [`Winona Pattern & Mold`](https://google.com/search?q=Winona+Pattern+%26+Mold) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-03-01 | [`Stack Infrastructure`](https://google.com/search?q=Stack+Infrastructure) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
