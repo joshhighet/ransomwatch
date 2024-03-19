@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-03-19 | [`Delta Pipeline`](https://google.com/search?q=Delta+Pipeline) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-03-19 | [`Haranas, LLP`](https://google.com/search?q=Haranas%2C+LLP) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-03-19 | [`PandB Capital Group`](https://google.com/search?q=PandB+Capital+Group) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-03-19 | [`http://t.me/+OVXlbwml5bE5YWQ0`](https://google.com/search?q=http%3A%2F%2Ft.me%2F%2BOVXlbwml5bE5YWQ0) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-03-02 | [`schuett-grundei.de`](https://google.com/search?q=schuett-grundei.de) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-03-02 | [`roehr-stolberg.de`](https://google.com/search?q=roehr-stolberg.de) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-03-02 | [`esser-ps.de`](https://google.com/search?q=esser-ps.de) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-03-02 | [`aerospace.com`](https://google.com/search?q=aerospace.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
