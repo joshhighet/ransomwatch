@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-03-19 | [`Sting AD`](https://google.com/search?q=Sting+AD) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
+| 2024-03-19 | [`Hallesche Kraftverkehrs & Speditions GmbH`](https://google.com/search?q=Hallesche+Kraftverkehrs+%26+Speditions+GmbH) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-03-19 | [`Therapeutic Health Services`](https://google.com/search?q=Therapeutic+Health+Services) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-03-19 | [`Panzeri Cattaneo`](https://google.com/search?q=Panzeri+Cattaneo) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-03-19 | [`Delta Pipeline`](https://google.com/search?q=Delta+Pipeline) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-03-03 | [`stockdevelopment.com`](https://google.com/search?q=stockdevelopment.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-03-02 | [`smuldes.com`](https://google.com/search?q=smuldes.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-03-02 | [`unitednotions.com`](https://google.com/search?q=unitednotions.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-03-02 | [`starkpower.de`](https://google.com/search?q=starkpower.de) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-03-02 | [`schuett-grundei.de`](https://google.com/search?q=schuett-grundei.de) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
