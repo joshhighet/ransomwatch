@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-03-20 | [`ÖSTENSSONS LIVS AB`](https://google.com/search?q=%C3%96STENSSONS+LIVS+AB) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2024-03-20 | [`Springfield Sign`](https://google.com/search?q=Springfield+Sign) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2024-03-20 | [`Filexis AG Treuhand und Immobilien`](https://google.com/search?q=Filexis+AG+Treuhand+und+Immobilien) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2024-03-20 | [`https://www.south-star.com.cn/`](https://google.com/search?q=https%3A%2F%2Fwww.south-star.com.cn%2F) | [trigona](https://ransomwatch.telemetry.ltd/#/profiles?id=trigona) |
 | 2024-03-19 | [`Sting AD`](https://google.com/search?q=Sting+AD) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-03-19 | [`Hallesche Kraftverkehrs & Speditions GmbH`](https://google.com/search?q=Hallesche+Kraftverkehrs+%26+Speditions+GmbH) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2024-03-03 | [`jovani.com`](https://google.com/search?q=jovani.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-03-03 | [`ipmaltamira`](https://google.com/search?q=ipmaltamira) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2024-03-03 | [`earnesthealth.com`](https://google.com/search?q=earnesthealth.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-03-03 | [`Ewig Usa`](https://google.com/search?q=Ewig+Usa) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2024-03-03 | [`stockdevelopment.com`](https://google.com/search?q=stockdevelopment.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-03-02 | [`smuldes.com`](https://google.com/search?q=smuldes.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
