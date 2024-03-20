@@ -4,6 +4,11 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-03-20 | [`http://t.me/c/2124313006/848`](https://google.com/search?q=http%3A%2F%2Ft.me%2Fc%2F2124313006%2F848) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
+| 2024-03-20 | [`http://t.me/c/2124313006/794`](https://google.com/search?q=http%3A%2F%2Ft.me%2Fc%2F2124313006%2F794) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
+| 2024-03-20 | [`http://t.me/c/2124313006/735`](https://google.com/search?q=http%3A%2F%2Ft.me%2Fc%2F2124313006%2F735) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
+| 2024-03-20 | [`http://t.me/c/2124313006/209`](https://google.com/search?q=http%3A%2F%2Ft.me%2Fc%2F2124313006%2F209) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
+| 2024-03-20 | [`http://t.me/c/2124313006/569`](https://google.com/search?q=http%3A%2F%2Ft.me%2Fc%2F2124313006%2F569) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-03-20 | [`ÖSTENSSONS LIVS AB`](https://google.com/search?q=%C3%96STENSSONS+LIVS+AB) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2024-03-20 | [`Springfield Sign`](https://google.com/search?q=Springfield+Sign) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2024-03-20 | [`Filexis AG Treuhand und Immobilien`](https://google.com/search?q=Filexis+AG+Treuhand+und+Immobilien) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
@@ -199,8 +204,3 @@ _last `200` posts_
 | 2024-03-03 | [`www.erwat.co.za`](https://google.com/search?q=www.erwat.co.za) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
 | 2024-03-03 | [`artissimodesigns.com`](https://google.com/search?q=artissimodesigns.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
 | 2024-03-03 | [`crystalwindows.com`](https://google.com/search?q=crystalwindows.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
-| 2024-03-03 | [`wardtlc.com`](https://google.com/search?q=wardtlc.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
-| 2024-03-03 | [`valoremreply.com`](https://google.com/search?q=valoremreply.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-03-03 | [`jovani.com`](https://google.com/search?q=jovani.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-03-03 | [`ipmaltamira`](https://google.com/search?q=ipmaltamira) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2024-03-03 | [`earnesthealth.com`](https://google.com/search?q=earnesthealth.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
