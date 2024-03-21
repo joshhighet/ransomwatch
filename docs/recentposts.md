@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-03-21 | [`Industrial de Alimentos EYL SA`](https://google.com/search?q=Industrial+de+Alimentos+EYL+SA) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-03-21 | [`tmbs.ch`](https://google.com/search?q=tmbs.ch) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-03-21 | [`pathologie-bochum.de`](https://google.com/search?q=pathologie-bochum.de) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-03-21 | [`northerncasket.com`](https://google.com/search?q=northerncasket.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-03-05 | [`central.k12.or.us`](https://google.com/search?q=central.k12.or.us) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-03-05 | [`DiVal Safety Equipment, Inc.`](https://google.com/search?q=DiVal+Safety+Equipment%2C+Inc.) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-03-05 | [`Future Generations Foundation`](https://google.com/search?q=Future+Generations+Foundation) | [meow](https://ransomwatch.telemetry.ltd/#/profiles?id=meow) |
-| 2024-03-04 | [`se.com\$$33.5B\France\1.5TB\&lt;1%DISCLOSED\DATA SALE`](https://google.com/search?q=se.com%5C%24%2433.5B%5CFrance%5C1.5TB%5C%26lt%3B1%25DISCLOSED%5CDATA+SALE) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
