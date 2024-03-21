@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-03-21 | [`renypicot.es\$911.7M\Spain\350GB\100%DISCLOSED\`](https://google.com/search?q=renypicot.es%5C%24911.7M%5CSpain%5C350GB%5C100%25DISCLOSED%5C) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-03-20 | [`MarineMax`](https://google.com/search?q=MarineMax) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2024-03-20 | [`www.jdcpl.us`](https://google.com/search?q=www.jdcpl.us) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
 | 2024-03-20 | [`PROJECTSW`](https://google.com/search?q=PROJECTSW) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-03-04 | [`America Chung Nam or ACN`](https://google.com/search?q=America+Chung+Nam+or+ACN) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-03-04 | [`AL SHEFA FARM<www.al-shefafarm.ro>(SOLD)`](https://google.com/search?q=AL+SHEFA+FARM%3Cwww.al-shefafarm.ro%3E%28SOLD%29) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-03-04 | [`Martin's, Inc.`](https://google.com/search?q=Martin%27s%2C+Inc.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2024-03-04 | [`highfashion.com.hk`](https://google.com/search?q=highfashion.com.hk) | [mallox](https://ransomwatch.telemetry.ltd/#/profiles?id=mallox) |
