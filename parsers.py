@@ -1374,3 +1374,14 @@ def donex():
         errlog('donex: ' + 'parsing fail')
     for post in posts:
         appender(post, 'donex')
+
+def killsecurity():
+    stdlog('parser: ' + 'killsecurity')
+    parser = '''
+    grep '<div class="post-title">' source/killsecurity-*.html | cut -d '>' -f 2 | cut -d '<' -f 1
+    '''
+    posts = runshellcmd(parser)
+    if len(posts) == 1:
+        errlog('killsecurity: ' + 'parsing fail')
+    for post in posts:
+        appender(post, 'killsecurity')

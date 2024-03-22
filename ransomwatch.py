@@ -299,4 +299,5 @@ if args.mode == 'parse':
     #parsers.mogilevich()
     parsers.blackout()
     parsers.donex()
+    parsers.killsecurity()
     stdlog('ransomwatch: ' + 'parse run complete')

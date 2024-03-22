@@ -5711,5 +5711,27 @@
             }
         ],
         "profile": []
+    },
+    {
+        "name": "killsecurity",
+        "captcha": false,
+        "parser": true,
+        "javascript_render": false,
+        "meta": null,
+        "locations": [
+            {
+                "fqdn": "kill432ltnkqvaqntbalnsgojqqs2wz4lhnamrqjg66tq6fuvcztilyd.onion",
+                "title": "KILL SECURITY",
+                "version": 3,
+                "slug": "http://kill432ltnkqvaqntbalnsgojqqs2wz4lhnamrqjg66tq6fuvcztilyd.onion",
+                "available": true,
+                "updated": "2024-03-22 13:10:31.849864",
+                "lastscrape": "2024-03-22 13:10:31.849843",
+                "enabled": true
+            }
+        ],
+        "profile": [
+            "https://t.me/k1llsec"
+        ]
     }
 ]
