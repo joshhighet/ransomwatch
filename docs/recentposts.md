@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-03-22 | [`newagesys.com\$24.1M\USA\319GB\&lt;1%`](https://google.com/search?q=newagesys.com%5C%2424.1M%5CUSA%5C319GB%5C%26lt%3B1%25) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
+| 2024-03-22 | [`kelson.on.ca\$61.8M\Canada\1.5TB\&lt;1%`](https://google.com/search?q=kelson.on.ca%5C%2461.8M%5CCanada%5C1.5TB%5C%26lt%3B1%25) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-03-22 | [`Power Generation  Engineering and Services Company (PGESCo) - pgesco.com`](https://google.com/search?q=Power+Generation++Engineering+and+Services+Company+%28PGESCo%29+-+pgesco.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-03-22 | [`Flynn`](https://google.com/search?q=Flynn) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-03-22 | [`cleshar.co.uk\$239.3M\UK\1TB\100%DISCLOSED\`](https://google.com/search?q=cleshar.co.uk%5C%24239.3M%5CUK%5C1TB%5C100%25DISCLOSED%5C) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-03-07 | [`Palmer Construction Co., Inc`](https://google.com/search?q=Palmer+Construction+Co.%2C+Inc) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-03-07 | [`vsexshop.ru`](https://google.com/search?q=vsexshop.ru) | [werewolves](https://ransomwatch.telemetry.ltd/#/profiles?id=werewolves) |
 | 2024-03-07 | [`davidsbridal.com`](https://google.com/search?q=davidsbridal.com) | [werewolves](https://ransomwatch.telemetry.ltd/#/profiles?id=werewolves) |
-| 2024-03-07 | [`https://www.dinamicoil.com/ #DinamicOil #TRIgona`](https://google.com/search?q=https%3A%2F%2Fwww.dinamicoil.com%2F+%23DinamicOil+%23TRIgona) | [trigona](https://ransomwatch.telemetry.ltd/#/profiles?id=trigona) |
-| 2024-03-07 | [`Centennial Law Group LLP`](https://google.com/search?q=Centennial+Law+Group+LLP) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
