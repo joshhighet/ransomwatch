@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-03-22 | [`ptsmi.co.id`](https://google.com/search?q=ptsmi.co.id) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
+| 2024-03-22 | [`Casa Santiveri`](https://google.com/search?q=Casa+Santiveri) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-03-22 | [`Bira 91`](https://google.com/search?q=Bira+91) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-03-22 | [`Chambers Construction Co.`](https://google.com/search?q=Chambers+Construction+Co.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-03-22 | [`newagesys.com\$24.1M\USA\319GB\&lt;1%`](https://google.com/search?q=newagesys.com%5C%2424.1M%5CUSA%5C319GB%5C%26lt%3B1%25) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-03-07 | [`pfleet`](https://google.com/search?q=pfleet) | [donex](https://ransomwatch.telemetry.ltd/#/profiles?id=donex) |
 | 2024-03-07 | [`elsapspa`](https://google.com/search?q=elsapspa) | [donex](https://ransomwatch.telemetry.ltd/#/profiles?id=donex) |
 | 2024-03-07 | [`chocotopia`](https://google.com/search?q=chocotopia) | [donex](https://ransomwatch.telemetry.ltd/#/profiles?id=donex) |
-| 2024-03-07 | [`mirel`](https://google.com/search?q=mirel) | [donex](https://ransomwatch.telemetry.ltd/#/profiles?id=donex) |
-| 2024-03-07 | [`Palmer Construction Co., Inc`](https://google.com/search?q=Palmer+Construction+Co.%2C+Inc) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
