@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-03-22 | [`Flynn`](https://google.com/search?q=Flynn) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-03-22 | [`cleshar.co.uk\$239.3M\UK\1TB\100%DISCLOSED\`](https://google.com/search?q=cleshar.co.uk%5C%24239.3M%5CUK%5C1TB%5C100%25DISCLOSED%5C) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-03-22 | [`politiaromana.ro`](https://google.com/search?q=politiaromana.ro) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-03-22 | [`rabitbd.com`](https://google.com/search?q=rabitbd.com) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-03-07 | [`https://www.dinamicoil.com/ #DinamicOil #TRIgona`](https://google.com/search?q=https%3A%2F%2Fwww.dinamicoil.com%2F+%23DinamicOil+%23TRIgona) | [trigona](https://ransomwatch.telemetry.ltd/#/profiles?id=trigona) |
 | 2024-03-07 | [`Centennial Law Group LLP`](https://google.com/search?q=Centennial+Law+Group+LLP) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2024-03-07 | [`Eastern Rio Blanco Metropolitan`](https://google.com/search?q=Eastern+Rio+Blanco+Metropolitan) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
-| 2024-03-07 | [`Chris Argiropoulos Professional`](https://google.com/search?q=Chris+Argiropoulos+Professional) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
