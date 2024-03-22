@@ -1029,8 +1029,9 @@ def cryptnet():
 def ragroup():
     stdlog('parser: ' + 'ragroup')
     # grep --no-filename '<a href="/posts/' source/ragroup-*.html | cut -d '/' -f 3 | cut -d '"' -f 1
+    # grep --no-filename '<div class="portfolio-content">' source/ragroup-*.html | cut -d '>' -f 3 | cut -d '<' -f 1
     parser = '''
-    grep --no-filename '<div class="portfolio-content">' source/ragroup-*.html | cut -d '>' -f 3 | cut -d '<' -f 1
+    grep --no-filename '<div class="portfolio-content">' source/ragroup-*.html | grep -v PUBLISHED | cut -d '>' -f 3 | cut -d '<' -f 1
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
