@@ -5382,6 +5382,16 @@
                 "updated": "2024-03-21 22:40:57.246562",
                 "lastscrape": "2024-03-21 22:40:57.246548",
                 "enabled": true
+            },
+            {
+                "fqdn": "ransomgxjnwmu5ceqwo2jrjssxpoicolmgismfpnslaixg3pgpe5qcad.onion",
+                "title": null,
+                "version": 3,
+                "slug": "http://ransomgxjnwmu5ceqwo2jrjssxpoicolmgismfpnslaixg3pgpe5qcad.onion",
+                "available": false,
+                "updated": null,
+                "lastscrape": "2021-05-01 00:00:00.000000",
+                "enabled": true
             }
         ],
         "profile": [
