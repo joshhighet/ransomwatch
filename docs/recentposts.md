@@ -4,6 +4,10 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-03-23 | [`St****nc`](https://google.com/search?q=St%2A%2A%2A%2Anc) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
+| 2024-03-23 | [`SchwarzGrantz`](https://google.com/search?q=SchwarzGrantz) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
+| 2024-03-23 | [`Title Management Inc`](https://google.com/search?q=Title+Management+Inc) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
+| 2024-03-23 | [`Pascoe International`](https://google.com/search?q=Pascoe+International) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
 | 2024-03-22 | [`ptsmi.co.id`](https://google.com/search?q=ptsmi.co.id) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-03-22 | [`Casa Santiveri`](https://google.com/search?q=Casa+Santiveri) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-03-22 | [`Bira 91`](https://google.com/search?q=Bira+91) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
@@ -200,7 +204,3 @@ _last `200` posts_
 | 2024-03-08 | [`Hozzify <www.hozzify.co>`](https://google.com/search?q=Hozzify+%3Cwww.hozzify.co%3E) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-03-08 | [`en-act-architecture`](https://google.com/search?q=en-act-architecture) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-03-07 | [`rmhfranchise.com`](https://google.com/search?q=rmhfranchise.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-03-07 | [`vdhelm`](https://google.com/search?q=vdhelm) | [donex](https://ransomwatch.telemetry.ltd/#/profiles?id=donex) |
-| 2024-03-07 | [`pfleet`](https://google.com/search?q=pfleet) | [donex](https://ransomwatch.telemetry.ltd/#/profiles?id=donex) |
-| 2024-03-07 | [`elsapspa`](https://google.com/search?q=elsapspa) | [donex](https://ransomwatch.telemetry.ltd/#/profiles?id=donex) |
-| 2024-03-07 | [`chocotopia`](https://google.com/search?q=chocotopia) | [donex](https://ransomwatch.telemetry.ltd/#/profiles?id=donex) |
