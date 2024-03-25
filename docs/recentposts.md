@@ -4,6 +4,49 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-03-26 | [`IntegrityInc.org   Integrity Inc`](https://google.com/search?q=IntegrityInc.org+++Integrity+Inc) | [alphalocker](https://ransomwatch.telemetry.ltd/#/profiles?id=alphalocker) |
+| 2024-03-26 | [`https://www.carri.com`](https://google.com/search?q=https%3A%2F%2Fwww.carri.com) | [alphalocker](https://ransomwatch.telemetry.ltd/#/profiles?id=alphalocker) |
+| 2024-03-26 | [`accolade-group.com + levelwear.com +Taiwan  microelectronics(CRM).`](https://google.com/search?q=accolade-group.com+%2B+levelwear.com+%2BTaiwan++microelectronics%28CRM%29.) | [alphalocker](https://ransomwatch.telemetry.ltd/#/profiles?id=alphalocker) |
+| 2024-03-26 | [`a24group.com  ambition24hours.co.za`](https://google.com/search?q=a24group.com++ambition24hours.co.za) | [alphalocker](https://ransomwatch.telemetry.ltd/#/profiles?id=alphalocker) |
+| 2024-03-26 | [`https://www.mikeferry.com`](https://google.com/search?q=https%3A%2F%2Fwww.mikeferry.com) | [alphalocker](https://ransomwatch.telemetry.ltd/#/profiles?id=alphalocker) |
+| 2024-03-26 | [`https://www.consorzioinnova.it`](https://google.com/search?q=https%3A%2F%2Fwww.consorzioinnova.it) | [alphalocker](https://ransomwatch.telemetry.ltd/#/profiles?id=alphalocker) |
+| 2024-03-26 | [`Forgepresion.com`](https://google.com/search?q=Forgepresion.com) | [cloak](https://ransomwatch.telemetry.ltd/#/profiles?id=cloak) |
+| 2024-03-26 | [`farwickgrote.de`](https://google.com/search?q=farwickgrote.de) | [cloak](https://ransomwatch.telemetry.ltd/#/profiles?id=cloak) |
+| 2024-03-26 | [`kvfcu.org`](https://google.com/search?q=kvfcu.org) | [cloak](https://ransomwatch.telemetry.ltd/#/profiles?id=cloak) |
+| 2024-03-26 | [`skncustoms.com`](https://google.com/search?q=skncustoms.com) | [cloak](https://ransomwatch.telemetry.ltd/#/profiles?id=cloak) |
+| 2024-03-26 | [`euro2000-spa.it`](https://google.com/search?q=euro2000-spa.it) | [cloak](https://ransomwatch.telemetry.ltd/#/profiles?id=cloak) |
+| 2024-03-26 | [`Thenewtrongroup.com`](https://google.com/search?q=Thenewtrongroup.com) | [cloak](https://ransomwatch.telemetry.ltd/#/profiles?id=cloak) |
+| 2024-03-26 | [`Bankofceylon.co.uk`](https://google.com/search?q=Bankofceylon.co.uk) | [cloak](https://ransomwatch.telemetry.ltd/#/profiles?id=cloak) |
+| 2024-03-26 | [`Maas911.com`](https://google.com/search?q=Maas911.com) | [cloak](https://ransomwatch.telemetry.ltd/#/profiles?id=cloak) |
+| 2024-03-26 | [`Ponoka.ca`](https://google.com/search?q=Ponoka.ca) | [cloak](https://ransomwatch.telemetry.ltd/#/profiles?id=cloak) |
+| 2024-03-26 | [`Vhs-vaterstetten.de`](https://google.com/search?q=Vhs-vaterstetten.de) | [cloak](https://ransomwatch.telemetry.ltd/#/profiles?id=cloak) |
+| 2024-03-26 | [`Gascontec.com`](https://google.com/search?q=Gascontec.com) | [cloak](https://ransomwatch.telemetry.ltd/#/profiles?id=cloak) |
+| 2024-03-26 | [`Equatorial Energia`](https://google.com/search?q=Equatorial+Energia) | [cloak](https://ransomwatch.telemetry.ltd/#/profiles?id=cloak) |
+| 2024-03-26 | [`we****.com`](https://google.com/search?q=we%2A%2A%2A%2A.com) | [cloak](https://ransomwatch.telemetry.ltd/#/profiles?id=cloak) |
+| 2024-03-26 | [`The************.org`](https://google.com/search?q=The%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A.org) | [cloak](https://ransomwatch.telemetry.ltd/#/profiles?id=cloak) |
+| 2024-03-26 | [`Sped**********.de`](https://google.com/search?q=Sped%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A.de) | [cloak](https://ransomwatch.telemetry.ltd/#/profiles?id=cloak) |
+| 2024-03-26 | [`Autorità di Sistema Portuale del Mar Tirreno Settentrionale It`](https://google.com/search?q=Autorit%C3%A0+di+Sistema+Portuale+del+Mar+Tirreno+Settentrionale+It) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
+| 2024-03-26 | [`Elior UK `](https://google.com/search?q=Elior+UK+) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
+| 2024-03-26 | [`Romark Laboratories `](https://google.com/search?q=Romark+Laboratories+) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
+| 2024-03-26 | [`Accipiter Capital Management, LLC `](https://google.com/search?q=Accipiter+Capital+Management%2C+LLC+) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
+| 2024-03-26 | [`Urban Strategies`](https://google.com/search?q=Urban+Strategies) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
+| 2024-03-26 | [`Kenneth Young Center`](https://google.com/search?q=Kenneth+Young+Center) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
+| 2024-03-26 | [`Suburban Surgical Care Specialists`](https://google.com/search?q=Suburban+Surgical+Care+Specialists) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
+| 2024-03-26 | [`Henry County, Illinois`](https://google.com/search?q=Henry+County%2C+Illinois) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
+| 2024-03-26 | [`Regina Dental Group`](https://google.com/search?q=Regina+Dental+Group) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
+| 2024-03-26 | [`Impac Mortgage Holdings`](https://google.com/search?q=Impac+Mortgage+Holdings) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
+| 2024-03-26 | [`www.greenlineva.com`](https://google.com/search?q=www.greenlineva.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
+| 2024-03-26 | [`tetonortho.com`](https://google.com/search?q=tetonortho.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
+| 2024-03-26 | [`www.dunbier.com`](https://google.com/search?q=www.dunbier.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
+| 2024-03-26 | [`Pantana CPA`](https://google.com/search?q=Pantana+CPA) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
+| 2024-03-26 | [`Law Offices of John V. Orrick, P.L.`](https://google.com/search?q=Law+Offices+of+John+V.+Orrick%2C+P.L.) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
+| 2024-03-26 | [`Ejército del Per`](https://google.com/search?q=Ej%C3%A9rcito+del+Per) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
+| 2024-03-26 | [`Badan Urusan Logistik`](https://google.com/search?q=Badan+Urusan+Logistik) | [ransomexx](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomexx) |
+| 2024-03-26 | [`Jacobs Farm / Del Cabo`](https://google.com/search?q=Jacobs+Farm+%2F+Del+Cabo) | [ransomexx](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomexx) |
+| 2024-03-26 | [`DVision Architecture`](https://google.com/search?q=DVision+Architecture) | [ransomexx](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomexx) |
+| 2024-03-26 | [`Telecommunications Services of Trinidad and Tobago`](https://google.com/search?q=Telecommunications+Services+of+Trinidad+and+Tobago) | [ransomexx](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomexx) |
+| 2024-03-26 | [`Ministry of Defense of Peru`](https://google.com/search?q=Ministry+of+Defense+of+Peru) | [ransomexx](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomexx) |
+| 2024-03-25 | [`wblight.com`](https://google.com/search?q=wblight.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-03-25 | [`CLARK Material Handling Company`](https://google.com/search?q=CLARK+Material+Handling+Company) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-03-25 | [`Burnham Wood Charter Schools`](https://google.com/search?q=Burnham+Wood+Charter+Schools) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-03-25 | [`Big Issue Group`](https://google.com/search?q=Big+Issue+Group) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
@@ -161,46 +204,3 @@ _last `200` posts_
 | 2024-03-12 | [`Links Unlimited`](https://google.com/search?q=Links+Unlimited) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-03-12 | [`Imperial Trading`](https://google.com/search?q=Imperial+Trading) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-03-12 | [`Active Concepts`](https://google.com/search?q=Active+Concepts) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2024-03-12 | [`GFAD`](https://google.com/search?q=GFAD) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2024-03-12 | [`Xcel Brands Inc`](https://google.com/search?q=Xcel+Brands+Inc) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2024-03-12 | [`Cpac Systems AB develops`](https://google.com/search?q=Cpac+Systems+AB+develops) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2024-03-12 | [`Duty Free Americas (DFA)`](https://google.com/search?q=Duty+Free+Americas+%28DFA%29) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2024-03-12 | [`Brooks Tropicals`](https://google.com/search?q=Brooks+Tropicals) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2024-03-12 | [`https://withallco.com/`](https://google.com/search?q=https%3A%2F%2Fwithallco.com%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
-| 2024-03-12 | [`https://www.walkersandford.co.uk`](https://google.com/search?q=https%3A%2F%2Fwww.walkersandford.co.uk) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
-| 2024-03-12 | [`Kaplan`](https://google.com/search?q=Kaplan) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2024-03-12 | [`Sprimoglass`](https://google.com/search?q=Sprimoglass) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2024-03-12 | [`Federchimica`](https://google.com/search?q=Federchimica) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2024-03-12 | [`CHRG`](https://google.com/search?q=CHRG) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2024-03-11 | [`White Oak Partners`](https://google.com/search?q=White+Oak+Partners) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-03-11 | [`Ruda Auto`](https://google.com/search?q=Ruda+Auto) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-03-11 | [`Image Pointe`](https://google.com/search?q=Image+Pointe) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-03-11 | [`Grassmid Transport`](https://google.com/search?q=Grassmid+Transport) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-03-11 | [`Fashion UK`](https://google.com/search?q=Fashion+UK) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-03-11 | [`Canada Revenue Agency`](https://google.com/search?q=Canada+Revenue+Agency) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-03-11 | [`QI Group`](https://google.com/search?q=QI+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-03-11 | [`Bridger Insurance`](https://google.com/search?q=Bridger+Insurance) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-03-11 | [`BiTec`](https://google.com/search?q=BiTec) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-03-11 | [`lec-london.uk`](https://google.com/search?q=lec-london.uk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-03-11 | [`SREE Hotels`](https://google.com/search?q=SREE+Hotels) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-03-11 | [`Q?? ??o??`](https://google.com/search?q=Q%3F%3F+%3F%3Fo%3F%3F) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-03-11 | [`Premier Technology`](https://google.com/search?q=Premier+Technology) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-03-11 | [`londonvisionclinic.com`](https://google.com/search?q=londonvisionclinic.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-03-11 | [`Computan <www.computan.com>`](https://google.com/search?q=Computan+%3Cwww.computan.com%3E) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-03-11 | [`plymouth.com\$137M\USA\1.83TB\&lt;1%DISCLOSED\DATA SALE`](https://google.com/search?q=plymouth.com%5C%24137M%5CUSA%5C1.83TB%5C%26lt%3B1%25DISCLOSED%5CDATA+SALE) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2024-03-11 | [`neigc.com`](https://google.com/search?q=neigc.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
-| 2024-03-11 | [`gpaa.gov.za`](https://google.com/search?q=gpaa.gov.za) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-03-11 | [`NetVigour`](https://google.com/search?q=NetVigour) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2024-03-11 | [`cleshar.co.uk\$239.3M\UK\1TB\&lt;1%DISCLOSED\DATA SALE`](https://google.com/search?q=cleshar.co.uk%5C%24239.3M%5CUK%5C1TB%5C%26lt%3B1%25DISCLOSED%5CDATA+SALE) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2024-03-11 | [`ammega.com\$1.2B\Netherlands\3TB\&lt;1%DISCLOSED\DATA SALE`](https://google.com/search?q=ammega.com%5C%241.2B%5CNetherlands%5C3TB%5C%26lt%3B1%25DISCLOSED%5CDATA+SALE) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2024-03-11 | [`renypicot.es\$911.7M\Spain\350GB\&lt;1%\DATA SALE`](https://google.com/search?q=renypicot.es%5C%24911.7M%5CSpain%5C350GB%5C%26lt%3B1%25%5CDATA+SALE) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2024-03-11 | [`Scadea Solutions <scadea.com>`](https://google.com/search?q=Scadea+Solutions+%3Cscadea.com%3E) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-03-09 | [`DVT <dvttechnologyltd.com>`](https://google.com/search?q=DVT+%3Cdvttechnologyltd.com%3E) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-03-09 | [`Rekamy <www.rekamy.com>`](https://google.com/search?q=Rekamy+%3Cwww.rekamy.com%3E) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-03-09 | [`Go4kora <go4kora.tv>`](https://google.com/search?q=Go4kora+%3Cgo4kora.tv%3E) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-03-09 | [`http://www.hug.de`](https://google.com/search?q=http%3A%2F%2Fwww.hug.de) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
-| 2024-03-09 | [`Lindsay Municipal Hospital`](https://google.com/search?q=Lindsay+Municipal+Hospital) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2024-03-09 | [`Fincasrevuelta`](https://google.com/search?q=Fincasrevuelta) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
-| 2024-03-09 | [`abtexelgroup.com\$222.6M\Netherlands\1TB\&lt;1%DISCLOSED\DATA SALE`](https://google.com/search?q=abtexelgroup.com%5C%24222.6M%5CNetherlands%5C1TB%5C%26lt%3B1%25DISCLOSED%5CDATA+SALE) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2024-03-09 | [`https://ghcscw.com/`](https://google.com/search?q=https%3A%2F%2Fghcscw.com%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
-| 2024-03-09 | [`ACE Air Cargo`](https://google.com/search?q=ACE+Air+Cargo) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
