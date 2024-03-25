@@ -281,8 +281,9 @@ def babuk():
     
 def ransomexx():
     stdlog('parser: ' + 'ransomexx')
+    # grep 'card-title' source/ransomexx-*.html --no-filename | cut -d '>' -f2 | sed -e s/'<\/h5'// -e 's/^ *//g' -e 's/[[:space:]]*$//' -e 's/&amp;/\&/g'
     parser = '''
-    grep 'card-title' source/ransomexx-*.html --no-filename | cut -d '>' -f2 | sed -e s/'<\/h5'// -e 's/^ *//g' -e 's/[[:space:]]*$//' -e 's/&amp;/\&/g'
+    grep '<h2 class="entry-title" itemprop="headline">' source/ransomexx-*.html | cut -d '>' -f 3 | cut -d '<' -f 1
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
@@ -1143,7 +1144,7 @@ def incransom():
     stdlog('parser: ' + 'incransom')
     # jq -r '.payload[].title' source/incransom-incback*.html | sed -e 's/%20/ /' || true
     parser = '''
-    jq -r '.payload[].title' source/incransom-incback*.html | perl -MURI::Escape -ne 'print uri_unescape($_)' | sort | uniq || true
+    jq -r '.payload[].title' source/incransom-incbackrlasjes*.html | perl -MURI::Escape -ne 'print uri_unescape($_)' | sort | uniq || true
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
@@ -1322,8 +1323,9 @@ def ransomblog_noname2():
 
 def alphalocker():
     stdlog('parser: ' + 'alphalocker')
+    # grep '<a href="blog_1-11"' source/alphalocker-*.html | cut -d '>' -f 2 | cut -d '<' -f 1 | grep -v Read || true
     parser = '''
-    grep '<a href="blog_1-11"' source/alphalocker-*.html | cut -d '>' -f 2 | cut -d '<' -f 1 | grep -v Read || true
+    grep '<div class="news_title" style="display:inline-block; width:100%;">' -C 2 source/alphalocker-mydatae2d*.html | grep '<a href="blog_1' | cut -d '>' -f 2 | cut -d '<' -f 1
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
