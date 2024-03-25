@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-03-25 | [`Vita IT`](https://google.com/search?q=Vita+IT) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
+| 2024-03-25 | [`European Centre for  Compensation`](https://google.com/search?q=European+Centre+for++Compensation) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-03-25 | [`Calida`](https://google.com/search?q=Calida) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-03-25 | [`Affiliated Dermatologists and Dermatologic Surgeons`](https://google.com/search?q=Affiliated+Dermatologists+and+Dermatologic+Surgeons) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-03-25 | [`kh.org`](https://google.com/search?q=kh.org) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-03-09 | [`Watsonclinic.com`](https://google.com/search?q=Watsonclinic.com) | [donutleaks](https://ransomwatch.telemetry.ltd/#/profiles?id=donutleaks) |
 | 2024-03-09 | [`Continental Aerospace Technologies`](https://google.com/search?q=Continental+Aerospace+Technologies) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-03-08 | [`redwoodcoastrc.org`](https://google.com/search?q=redwoodcoastrc.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-03-08 | [`http://www.epowerrail.com`](https://google.com/search?q=http%3A%2F%2Fwww.epowerrail.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
-| 2024-03-08 | [`SIEA <siea.sk>`](https://google.com/search?q=SIEA+%3Csiea.sk%3E) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
