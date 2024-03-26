@@ -46,6 +46,7 @@ _last `200` posts_
 | 2024-03-26 | [`DVision Architecture`](https://google.com/search?q=DVision+Architecture) | [ransomexx](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomexx) |
 | 2024-03-26 | [`Telecommunications Services of Trinidad and Tobago`](https://google.com/search?q=Telecommunications+Services+of+Trinidad+and+Tobago) | [ransomexx](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomexx) |
 | 2024-03-26 | [`Ministry of Defense of Peru`](https://google.com/search?q=Ministry+of+Defense+of+Peru) | [ransomexx](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomexx) |
+| 2024-03-26 | [`regencymedia.com.au`](https://google.com/search?q=regencymedia.com.au) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-03-25 | [`wblight.com`](https://google.com/search?q=wblight.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-03-25 | [`CLARK Material Handling Company`](https://google.com/search?q=CLARK+Material+Handling+Company) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-03-25 | [`Burnham Wood Charter Schools`](https://google.com/search?q=Burnham+Wood+Charter+Schools) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-03-12 | [`Creative Environments`](https://google.com/search?q=Creative+Environments) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-03-12 | [`Links Unlimited`](https://google.com/search?q=Links+Unlimited) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-03-12 | [`Imperial Trading`](https://google.com/search?q=Imperial+Trading) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2024-03-12 | [`Active Concepts`](https://google.com/search?q=Active+Concepts) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
