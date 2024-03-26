@@ -800,7 +800,7 @@ def mallox():
     stdlog('parser: ' + 'mallox')
     # grep 'class="card-title"' source/mallox-*.html | cut -d '>' -f 2 | cut -d '<' -f 1
     parser = '''
-    sed -n '/fs-3 fw-bold text-gray-900 mb-2/{n;s/^[[:space:]]*//;s/[[:space:]]*<\/div>.*$//p;}' source/mallox-*.html
+    sed -n '/fs-3 fw-bold text-gray-900 mb-2/{n;s/^[[:space:]]*//;s/[[:space:]]*<\/div>.*$//p;}' source/mallox-*.html | sort -u
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
