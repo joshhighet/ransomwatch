@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-03-26 | [`Tanis Brush`](https://google.com/search?q=Tanis+Brush) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-03-26 | [`Koi Design`](https://google.com/search?q=Koi+Design) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-03-26 | [`Crimsgroup`](https://google.com/search?q=Crimsgroup) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2024-03-26 | [`IntegrityInc.org   Integrity Inc`](https://google.com/search?q=IntegrityInc.org+++Integrity+Inc) | [alphalocker](https://ransomwatch.telemetry.ltd/#/profiles?id=alphalocker) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-03-12 | [`Duvel Moortgat Brewery`](https://google.com/search?q=Duvel+Moortgat+Brewery) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-03-12 | [`sunholdings.net`](https://google.com/search?q=sunholdings.net) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-03-12 | [`Sierra Lobo, Inc.`](https://google.com/search?q=Sierra+Lobo%2C+Inc.) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2024-03-12 | [`Contechs`](https://google.com/search?q=Contechs) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
