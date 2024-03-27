@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-03-27 | [`nampak.com`](https://google.com/search?q=nampak.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-03-26 | [`NHS Scotland`](https://google.com/search?q=NHS+Scotland) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2024-03-26 | [`El Debate`](https://google.com/search?q=El+Debate) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2024-03-26 | [`SummerFresh`](https://google.com/search?q=SummerFresh) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-03-13 | [`geruestbau.com`](https://google.com/search?q=geruestbau.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-03-13 | [`http://judgerc.org`](https://google.com/search?q=http%3A%2F%2Fjudgerc.org) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-03-13 | [`Kovra <www.kovra.com.my>`](https://google.com/search?q=Kovra+%3Cwww.kovra.com.my%3E) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-03-13 | [`Forstinger Österreich GmbH`](https://google.com/search?q=Forstinger+%C3%96sterreich+GmbH) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
