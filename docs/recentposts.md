@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-03-27 | [`lifelinedatacenters.com`](https://google.com/search?q=lifelinedatacenters.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2024-03-27 | [`dkpvlaw.com`](https://google.com/search?q=dkpvlaw.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2024-03-27 | [`countryvillahealthservices.com`](https://google.com/search?q=countryvillahealthservices.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-03-27 | [`lindquistinsurance.com`](https://google.com/search?q=lindquistinsurance.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
 | 2024-03-27 | [`pcscivilinc.com`](https://google.com/search?q=pcscivilinc.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-03-27 | [`krueth.de`](https://google.com/search?q=krueth.de) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2024-03-14 | [`Ramdev Chemical Industries`](https://google.com/search?q=Ramdev+Chemical+Industries) | [mallox](https://ransomwatch.telemetry.ltd/#/profiles?id=mallox) |
 | 2024-03-14 | [`www.mioa.gov.mk`](https://google.com/search?q=www.mioa.gov.mk) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
 | 2024-03-14 | [`Keboda Technology Co., Ltd.`](https://google.com/search?q=Keboda+Technology+Co.%2C+Ltd.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2024-03-14 | [`iamdesign.com`](https://google.com/search?q=iamdesign.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
-| 2024-03-14 | [`yarco.com`](https://google.com/search?q=yarco.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
-| 2024-03-14 | [`Felda Global Ventures Holdings Berhad`](https://google.com/search?q=Felda+Global+Ventures+Holdings+Berhad) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
