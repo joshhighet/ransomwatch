@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-03-27 | [`grupatopex.com\$66.5M\Poland\638GB\100%DISCLOSED\`](https://google.com/search?q=grupatopex.com%5C%2466.5M%5CPoland%5C638GB%5C100%25DISCLOSED%5C) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
+| 2024-03-27 | [`qosina.com\$37.9M\USA\375GB\100%DISCLOSED\`](https://google.com/search?q=qosina.com%5C%2437.9M%5CUSA%5C375GB%5C100%25DISCLOSED%5C) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
+| 2024-03-27 | [`Lambda Energy Resources`](https://google.com/search?q=Lambda+Energy+Resources) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-03-27 | [`lifelinedatacenters.com`](https://google.com/search?q=lifelinedatacenters.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-03-27 | [`dkpvlaw.com`](https://google.com/search?q=dkpvlaw.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-03-27 | [`countryvillahealthservices.com`](https://google.com/search?q=countryvillahealthservices.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2024-03-14 | [`voidinteractive.net you are welcome in our chat`](https://google.com/search?q=voidinteractive.net+you+are+welcome+in+our+chat) | [donutleaks](https://ransomwatch.telemetry.ltd/#/profiles?id=donutleaks) |
 | 2024-03-14 | [`journeyfreight.com`](https://google.com/search?q=journeyfreight.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-03-14 | [`dhanisisd.net`](https://google.com/search?q=dhanisisd.net) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-03-14 | [`Ramdev Chemical Industries`](https://google.com/search?q=Ramdev+Chemical+Industries) | [mallox](https://ransomwatch.telemetry.ltd/#/profiles?id=mallox) |
-| 2024-03-14 | [`www.mioa.gov.mk`](https://google.com/search?q=www.mioa.gov.mk) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
-| 2024-03-14 | [`Keboda Technology Co., Ltd.`](https://google.com/search?q=Keboda+Technology+Co.%2C+Ltd.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
