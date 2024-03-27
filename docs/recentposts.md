@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-03-27 | [`contenderboats.com\$51.8M\USA\65GB\&lt;1%`](https://google.com/search?q=contenderboats.com%5C%2451.8M%5CUSA%5C65GB%5C%26lt%3B1%25) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
+| 2024-03-27 | [`tmt-mc.jp`](https://google.com/search?q=tmt-mc.jp) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-03-27 | [`isophon glas GmbH`](https://google.com/search?q=isophon+glas+GmbH) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2024-03-27 | [`UNDP`](https://google.com/search?q=UNDP) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2024-03-27 | [`Lindos Group Of Companies`](https://google.com/search?q=Lindos+Group+Of+Companies) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-03-14 | [`Encina Wastewater Authority`](https://google.com/search?q=Encina+Wastewater+Authority) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
 | 2024-03-13 | [`McKim & Creed <www.mckimcreed.com>`](https://google.com/search?q=McKim+%26+Creed+%3Cwww.mckimcreed.com%3E) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-03-13 | [`SBM & Co <www.sbmandco.com>`](https://google.com/search?q=SBM+%26+Co+%3Cwww.sbmandco.com%3E) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-03-13 | [`remkes.nl\$31.4M\Netherlands\190GB\100%DISCLOSED`](https://google.com/search?q=remkes.nl%5C%2431.4M%5CNetherlands%5C190GB%5C100%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2024-03-13 | [`Summit Almonds`](https://google.com/search?q=Summit+Almonds) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
