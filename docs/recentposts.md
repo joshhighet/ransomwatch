@@ -4,6 +4,15 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-03-27 | [`Vili’s`](https://google.com/search?q=Vili%E2%80%99s) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2024-03-27 | [`P&amp;S Transportation`](https://google.com/search?q=P%26amp%3BS+Transportation) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2024-03-27 | [`FPD Company`](https://google.com/search?q=FPD+Company) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2024-03-27 | [`North American Signs`](https://google.com/search?q=North+American+Signs) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2024-03-27 | [`OTR’s`](https://google.com/search?q=OTR%E2%80%99s) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2024-03-27 | [`Prodrive`](https://google.com/search?q=Prodrive) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2024-03-27 | [`Dallas Gold &amp; Silver Exchange (DGSE)`](https://google.com/search?q=Dallas+Gold+%26amp%3B+Silver+Exchange+%28DGSE%29) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2024-03-27 | [`Bulwark Exterminating`](https://google.com/search?q=Bulwark+Exterminating) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2024-03-27 | [`Lagunitas Brewing Company`](https://google.com/search?q=Lagunitas+Brewing+Company) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-03-27 | [`Mermet`](https://google.com/search?q=Mermet) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-03-27 | [`West Monroe`](https://google.com/search?q=West+Monroe) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-03-27 | [`Weld Plus`](https://google.com/search?q=Weld+Plus) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -195,12 +204,3 @@ _last `200` posts_
 | 2024-03-16 | [`bergmeister.eu`](https://google.com/search?q=bergmeister.eu) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-03-16 | [`automotionshade.com`](https://google.com/search?q=automotionshade.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-03-16 | [`agribank.com.na`](https://google.com/search?q=agribank.com.na) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-03-16 | [`Miki Travel`](https://google.com/search?q=Miki+Travel) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2024-03-16 | [`certifiedcollection.com`](https://google.com/search?q=certifiedcollection.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-03-16 | [`Acculabs Inc`](https://google.com/search?q=Acculabs+Inc) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2024-03-15 | [`oyaksgs.com.tr`](https://google.com/search?q=oyaksgs.com.tr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-03-15 | [`https://www.atmco.net/`](https://google.com/search?q=https%3A%2F%2Fwww.atmco.net%2F) | [trigona](https://ransomwatch.telemetry.ltd/#/profiles?id=trigona) |
-| 2024-03-15 | [`elezabypharmacy.com`](https://google.com/search?q=elezabypharmacy.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-03-15 | [`http://www.sspps.org`](https://google.com/search?q=http%3A%2F%2Fwww.sspps.org) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
-| 2024-03-15 | [`ATL Leasing`](https://google.com/search?q=ATL+Leasing) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2024-03-14 | [`worthenind.com`](https://google.com/search?q=worthenind.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
