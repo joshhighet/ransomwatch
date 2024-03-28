@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-03-28 | [`Lakes Precision`](https://google.com/search?q=Lakes+Precision) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-03-28 | [`Santa Cruz Seaside`](https://google.com/search?q=Santa+Cruz+Seaside) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-03-28 | [`Neurobehavioral Medicine Consultants`](https://google.com/search?q=Neurobehavioral+Medicine+Consultants) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-03-28 | [`Florida Memorial University`](https://google.com/search?q=Florida+Memorial+University) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-03-18 | [`Schokinag`](https://google.com/search?q=Schokinag) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-03-18 | [`Sun Holdings`](https://google.com/search?q=Sun+Holdings) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-03-18 | [`grupatopex.com\$66.5M\Poland\638GB\&lt;1%`](https://google.com/search?q=grupatopex.com%5C%2466.5M%5CPoland%5C638GB%5C%26lt%3B1%25) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2024-03-18 | [`eclinicalsol.com\$24.5M\USA\3TB\&lt;1%`](https://google.com/search?q=eclinicalsol.com%5C%2424.5M%5CUSA%5C3TB%5C%26lt%3B1%25) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
