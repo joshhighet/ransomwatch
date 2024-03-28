@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-03-28 | [`Exela Technologies`](https://google.com/search?q=Exela+Technologies) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-03-28 | [`Reeves-Wiedeman`](https://google.com/search?q=Reeves-Wiedeman) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-03-28 | [`Primeimaging Data Leak`](https://google.com/search?q=Primeimaging+Data+Leak) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2024-03-27 | [`Otolaryngology Associates`](https://google.com/search?q=Otolaryngology+Associates) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-03-18 | [`RSHP`](https://google.com/search?q=RSHP) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2024-03-18 | [`crinetics.com`](https://google.com/search?q=crinetics.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-03-17 | [`www.paginesi.it`](https://google.com/search?q=www.paginesi.it) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
-| 2024-03-17 | [`Rafum Group`](https://google.com/search?q=Rafum+Group) | [mallox](https://ransomwatch.telemetry.ltd/#/profiles?id=mallox) |
