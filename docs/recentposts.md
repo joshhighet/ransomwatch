@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-03-29 | [`Tech-Quip Inc`](https://google.com/search?q=Tech-Quip+Inc) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
+| 2024-03-29 | [`PSEC Church`](https://google.com/search?q=PSEC+Church) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
+| 2024-03-29 | [`Lodan Electronics Inc`](https://google.com/search?q=Lodan+Electronics+Inc) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2024-03-28 | [`Avant IT Norway<www.avantit.no>`](https://google.com/search?q=Avant+IT+Norway%3Cwww.avantit.no%3E) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-03-28 | [`Lakes Precision`](https://google.com/search?q=Lakes+Precision) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-03-28 | [`Santa Cruz Seaside`](https://google.com/search?q=Santa+Cruz+Seaside) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2024-03-19 | [`PandB Capital Group`](https://google.com/search?q=PandB+Capital+Group) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-03-18 | [`HSI`](https://google.com/search?q=HSI) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-03-18 | [`AGL`](https://google.com/search?q=AGL) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2024-03-18 | [`Dr. Leeman ENT`](https://google.com/search?q=Dr.+Leeman+ENT) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2024-03-18 | [`Schokinag`](https://google.com/search?q=Schokinag) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-03-18 | [`Sun Holdings`](https://google.com/search?q=Sun+Holdings) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
