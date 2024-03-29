@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-03-29 | [`newagesys.com\$24.1M\USA\319GB\100%DISCLOSED`](https://google.com/search?q=newagesys.com%5C%2424.1M%5CUSA%5C319GB%5C100%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
+| 2024-03-29 | [`kelson.on.ca\$61.8M\Canada\1.5TB\100%DISCLOSED`](https://google.com/search?q=kelson.on.ca%5C%2461.8M%5CCanada%5C1.5TB%5C100%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
+| 2024-03-29 | [`contenderboats.com\$51.8M\USA\65GB\100%DISCLOSED`](https://google.com/search?q=contenderboats.com%5C%2451.8M%5CUSA%5C65GB%5C100%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-03-29 | [`Control Technology`](https://google.com/search?q=Control+Technology) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-03-29 | [`Graypen Ltd`](https://google.com/search?q=Graypen+Ltd) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2024-03-29 | [`Sysmex`](https://google.com/search?q=Sysmex) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2024-03-20 | [`https://www.south-star.com.cn/`](https://google.com/search?q=https%3A%2F%2Fwww.south-star.com.cn%2F) | [trigona](https://ransomwatch.telemetry.ltd/#/profiles?id=trigona) |
 | 2024-03-19 | [`Sting AD`](https://google.com/search?q=Sting+AD) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-03-19 | [`Hallesche Kraftverkehrs & Speditions GmbH`](https://google.com/search?q=Hallesche+Kraftverkehrs+%26+Speditions+GmbH) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2024-03-19 | [`Therapeutic Health Services`](https://google.com/search?q=Therapeutic+Health+Services) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2024-03-19 | [`Panzeri Cattaneo`](https://google.com/search?q=Panzeri+Cattaneo) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2024-03-19 | [`Delta Pipeline`](https://google.com/search?q=Delta+Pipeline) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
