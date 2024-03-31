@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-03-31 | [`lavelle.com`](https://google.com/search?q=lavelle.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-03-30 | [`https://www.claro.com/`](https://google.com/search?q=https%3A%2F%2Fwww.claro.com%2F) | [trigona](https://ransomwatch.telemetry.ltd/#/profiles?id=trigona) |
 | 2024-03-30 | [`Pavilion Construction LLC`](https://google.com/search?q=Pavilion+Construction+LLC) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-03-29 | [`W?????? ????????y`](https://google.com/search?q=W%3F%3F%3F%3F%3F%3F+%3F%3F%3F%3F%3F%3F%3F%3Fy) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-03-20 | [`Kolbe Striping`](https://google.com/search?q=Kolbe+Striping) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2024-03-20 | [`ÖSTENSSONS LIVS AB`](https://google.com/search?q=%C3%96STENSSONS+LIVS+AB) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2024-03-20 | [`Springfield Sign`](https://google.com/search?q=Springfield+Sign) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2024-03-20 | [`Filexis AG Treuhand und Immobilien`](https://google.com/search?q=Filexis+AG+Treuhand+und+Immobilien) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
