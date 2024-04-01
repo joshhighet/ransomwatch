@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-04-01 | [`aerodynamicinc.com\$22,6M\USA\1.1TB\&lt;1% DISCLOSED`](https://google.com/search?q=aerodynamicinc.com%5C%2422%2C6M%5CUSA%5C1.1TB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
+| 2024-04-01 | [`besttrans.com\$24.8M\USA\24GB\&lt;1% DISCLOSED`](https://google.com/search?q=besttrans.com%5C%2424.8M%5CUSA%5C24GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-04-01 | [`Xenwerx Initiatives, LLC`](https://google.com/search?q=Xenwerx+Initiatives%2C+LLC) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2024-04-01 | [`Sisu Healthcare`](https://google.com/search?q=Sisu+Healthcare) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2024-04-01 | [`Blueline Associates`](https://google.com/search?q=Blueline+Associates) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-03-20 | [`KALEEDS`](https://google.com/search?q=KALEEDS) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-03-20 | [`GRUPOCREATIVO`](https://google.com/search?q=GRUPOCREATIVO) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-03-20 | [`IGF`](https://google.com/search?q=IGF) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2024-03-20 | [`Logista Solutions`](https://google.com/search?q=Logista+Solutions) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2024-03-20 | [`Oceaneering`](https://google.com/search?q=Oceaneering) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
