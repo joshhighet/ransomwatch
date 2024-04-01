@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-04-01 | [`anwaltskanzlei-kaufbeuren.de`](https://google.com/search?q=anwaltskanzlei-kaufbeuren.de) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-04-01 | [`aerodynamicinc.com\$22,6M\USA\1.1TB\&lt;1% DISCLOSED`](https://google.com/search?q=aerodynamicinc.com%5C%2422%2C6M%5CUSA%5C1.1TB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-04-01 | [`besttrans.com\$24.8M\USA\24GB\&lt;1% DISCLOSED`](https://google.com/search?q=besttrans.com%5C%2424.8M%5CUSA%5C24GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-04-01 | [`Xenwerx Initiatives, LLC`](https://google.com/search?q=Xenwerx+Initiatives%2C+LLC) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-03-20 | [`giraud`](https://google.com/search?q=giraud) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-03-20 | [`KALEEDS`](https://google.com/search?q=KALEEDS) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-03-20 | [`GRUPOCREATIVO`](https://google.com/search?q=GRUPOCREATIVO) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
-| 2024-03-20 | [`IGF`](https://google.com/search?q=IGF) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
