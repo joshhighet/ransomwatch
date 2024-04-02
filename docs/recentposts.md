@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-04-02 | [`KICO GROUP`](https://google.com/search?q=KICO+GROUP) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
 | 2024-04-02 | [`GRUPOCREATIVO HERRERA`](https://google.com/search?q=GRUPOCREATIVO+HERRERA) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-04-02 | [`W.P.J. McCarthy and Company`](https://google.com/search?q=W.P.J.+McCarthy+and+Company) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-04-02 | [`Roberson &amp; Sons Insurance Services`](https://google.com/search?q=Roberson+%26amp%3B+Sons+Insurance+Services) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-03-22 | [`KI****UP`](https://google.com/search?q=KI%2A%2A%2A%2AUP) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
 | 2024-03-22 | [`Sc****tz`](https://google.com/search?q=Sc%2A%2A%2A%2Atz) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
 | 2024-03-21 | [`Industrial de Alimentos EYL SA`](https://google.com/search?q=Industrial+de+Alimentos+EYL+SA) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-03-21 | [`tmbs.ch`](https://google.com/search?q=tmbs.ch) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
