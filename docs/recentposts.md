@@ -4,6 +4,10 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-04-02 | [`GRUPOCREATIVO HERRERA`](https://google.com/search?q=GRUPOCREATIVO+HERRERA) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
+| 2024-04-02 | [`W.P.J. McCarthy and Company`](https://google.com/search?q=W.P.J.+McCarthy+and+Company) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
+| 2024-04-02 | [`Roberson &amp; Sons Insurance Services`](https://google.com/search?q=Roberson+%26amp%3B+Sons+Insurance+Services) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
+| 2024-04-02 | [`Fincasrevuelta Data Leak`](https://google.com/search?q=Fincasrevuelta+Data+Leak) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2024-04-02 | [`http://www.ppi-global.com`](https://google.com/search?q=http%3A%2F%2Fwww.ppi-global.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-04-02 | [`Crimsgroup Data Leak`](https://google.com/search?q=Crimsgroup+Data+Leak) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2024-04-02 | [`http://gaiaherbs.com`](https://google.com/search?q=http%3A%2F%2Fgaiaherbs.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
@@ -200,7 +204,3 @@ _last `200` posts_
 | 2024-03-22 | [`Sc****tz`](https://google.com/search?q=Sc%2A%2A%2A%2Atz) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
 | 2024-03-21 | [`Industrial de Alimentos EYL SA`](https://google.com/search?q=Industrial+de+Alimentos+EYL+SA) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-03-21 | [`tmbs.ch`](https://google.com/search?q=tmbs.ch) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-03-21 | [`pathologie-bochum.de`](https://google.com/search?q=pathologie-bochum.de) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-03-21 | [`northerncasket.com`](https://google.com/search?q=northerncasket.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-03-21 | [`La Pastina <www.lapastina.com>`](https://google.com/search?q=La+Pastina+%3Cwww.lapastina.com%3E) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-03-21 | [`www.berjayaclubs.com`](https://google.com/search?q=www.berjayaclubs.com) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
