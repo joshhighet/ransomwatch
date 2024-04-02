@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-04-02 | [`Boingo Graphics`](https://google.com/search?q=Boingo+Graphics) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-04-01 | [`http://www.pve-llc.com`](https://google.com/search?q=http%3A%2F%2Fwww.pve-llc.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-04-01 | [`PDQ Airspares`](https://google.com/search?q=PDQ+Airspares) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-04-01 | [`anwaltskanzlei-kaufbeuren.de`](https://google.com/search?q=anwaltskanzlei-kaufbeuren.de) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-03-20 | [`PROJECTSW`](https://google.com/search?q=PROJECTSW) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-03-20 | [`wannago.cloud`](https://google.com/search?q=wannago.cloud) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-03-20 | [`ZGEO`](https://google.com/search?q=ZGEO) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
-| 2024-03-20 | [`giraud`](https://google.com/search?q=giraud) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
