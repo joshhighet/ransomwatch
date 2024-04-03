@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-04-03 | [`http://ptai.com`](https://google.com/search?q=http%3A%2F%2Fptai.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-04-03 | [`Leicester City Council`](https://google.com/search?q=Leicester+City+Council) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2024-04-03 | [`Tamura Corporation`](https://google.com/search?q=Tamura+Corporation) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2024-04-03 | [`Samhwa Paint Ind. Ltd`](https://google.com/search?q=Samhwa+Paint+Ind.+Ltd) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-03-22 | [`SUMMIT VETERINARY PHARMACEUTICALS LIMITED`](https://google.com/search?q=SUMMIT+VETERINARY+PHARMACEUTICALS+LIMITED) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
 | 2024-03-22 | [`Informist Media`](https://google.com/search?q=Informist+Media) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
 | 2024-03-22 | [`ALAB laboratoria`](https://google.com/search?q=ALAB+laboratoria) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
-| 2024-03-22 | [`Di Martino Group`](https://google.com/search?q=Di+Martino+Group) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
