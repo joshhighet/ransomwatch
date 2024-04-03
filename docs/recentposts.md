@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-04-03 | [`West Idaho Orthopedics`](https://google.com/search?q=West+Idaho+Orthopedics) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
+| 2024-04-03 | [`Norman Urology Associates`](https://google.com/search?q=Norman+Urology+Associates) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2024-04-03 | [`http://ptai.com`](https://google.com/search?q=http%3A%2F%2Fptai.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-04-03 | [`Leicester City Council`](https://google.com/search?q=Leicester+City+Council) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2024-04-03 | [`Tamura Corporation`](https://google.com/search?q=Tamura+Corporation) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-03-22 | [`Aceromex`](https://google.com/search?q=Aceromex) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
 | 2024-03-22 | [`Chung Hwa Chemical Industrial Works`](https://google.com/search?q=Chung+Hwa+Chemical+Industrial+Works) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
 | 2024-03-22 | [`SUMMIT VETERINARY PHARMACEUTICALS LIMITED`](https://google.com/search?q=SUMMIT+VETERINARY+PHARMACEUTICALS+LIMITED) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
-| 2024-03-22 | [`Informist Media`](https://google.com/search?q=Informist+Media) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
-| 2024-03-22 | [`ALAB laboratoria`](https://google.com/search?q=ALAB+laboratoria) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
