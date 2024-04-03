@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-04-03 | [`Innomotive Systems Hainichen GmbH`](https://google.com/search?q=Innomotive+Systems+Hainichen+GmbH) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
 | 2024-04-03 | [`Seven Seas Technology`](https://google.com/search?q=Seven+Seas+Technology) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2024-04-02 | [`casajove.com`](https://google.com/search?q=casajove.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-04-02 | [`delhipolice.gov.in`](https://google.com/search?q=delhipolice.gov.in) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-03-22 | [`NIDEC GPM GmbH`](https://google.com/search?q=NIDEC+GPM+GmbH) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
 | 2024-03-22 | [`Wurzbacher`](https://google.com/search?q=Wurzbacher) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
 | 2024-03-22 | [`Ranzijn`](https://google.com/search?q=Ranzijn) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
-| 2024-03-22 | [`SHORTERM GROUP`](https://google.com/search?q=SHORTERM+GROUP) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
