@@ -4,6 +4,11 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-04-03 | [`Tamura Corporation`](https://google.com/search?q=Tamura+Corporation) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2024-04-03 | [`Samhwa Paint Ind. Ltd`](https://google.com/search?q=Samhwa+Paint+Ind.+Ltd) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2024-04-03 | [`Ringhoffer Verzahnungstechnik GmbH and Co. KG`](https://google.com/search?q=Ringhoffer+Verzahnungstechnik+GmbH+and+Co.+KG) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2024-04-03 | [`Pim`](https://google.com/search?q=Pim) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2024-04-03 | [`Apex Business Advisory`](https://google.com/search?q=Apex+Business+Advisory) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2024-04-03 | [`Innomotive Systems Hainichen GmbH`](https://google.com/search?q=Innomotive+Systems+Hainichen+GmbH) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
 | 2024-04-03 | [`Seven Seas Technology`](https://google.com/search?q=Seven+Seas+Technology) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2024-04-02 | [`casajove.com`](https://google.com/search?q=casajove.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -199,8 +204,3 @@ _last `200` posts_
 | 2024-03-22 | [`ALAB laboratoria`](https://google.com/search?q=ALAB+laboratoria) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
 | 2024-03-22 | [`Di Martino Group`](https://google.com/search?q=Di+Martino+Group) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
 | 2024-03-22 | [`Rockford Gastroenterology Associates`](https://google.com/search?q=Rockford+Gastroenterology+Associates) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
-| 2024-03-22 | [`HALLIDAYS GROUP LIMITED`](https://google.com/search?q=HALLIDAYS+GROUP+LIMITED) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
-| 2024-03-22 | [`Die Unfallkasse ThÃ¼ringen`](https://google.com/search?q=Die+Unfallkasse+Th%C3%83%C2%BCringen) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
-| 2024-03-22 | [`NIDEC GPM GmbH`](https://google.com/search?q=NIDEC+GPM+GmbH) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
-| 2024-03-22 | [`Wurzbacher`](https://google.com/search?q=Wurzbacher) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
-| 2024-03-22 | [`Ranzijn`](https://google.com/search?q=Ranzijn) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
