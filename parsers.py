@@ -1387,3 +1387,14 @@ def killsecurity():
         errlog('killsecurity: ' + 'parsing fail')
     for post in posts:
         appender(post, 'killsecurity')
+
+def redransomware():
+    stdlog('parser: ' + 'redransomware')
+    parser = '''
+    grep '<h4 class="card-header">' source/redransomware-*.html | cut -d '>' -f 2 | cut -d '<' -f 1
+    '''
+    posts = runshellcmd(parser)
+    if len(posts) == 1:
+        errlog('redransomware: ' + 'parsing fail')
+    for post in posts:
+        appender(post, 'redransomware')

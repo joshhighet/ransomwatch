@@ -5753,5 +5753,25 @@
         "profile": [
             "https://t.me/k1llsec"
         ]
+    },
+    {
+        "name": "redransomware",
+        "captcha": false,
+        "parser": true,
+        "javascript_render": true,
+        "meta": "skeptical legitimacy & origins with a janky website",
+        "locations": [
+            {
+                "fqdn": "33zo6hifw4usofzdnz74fm2zmhd3zsknog5jboqdgblcbwrmpcqzzbid.onion",
+                "title": null,
+                "version": 3,
+                "slug": "http://33zo6hifw4usofzdnz74fm2zmhd3zsknog5jboqdgblcbwrmpcqzzbid.onion",
+                "available": false,
+                "updated": null,
+                "lastscrape": "2021-05-01 00:00:00.000000",
+                "enabled": true
+            }
+        ],
+        "profile": []
     }
 ]
