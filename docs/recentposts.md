@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-04-04 | [`Constelacion Savings and Credit Society<www.constelacion.com.sv>`](https://google.com/search?q=Constelacion+Savings+and+Credit+Society%3Cwww.constelacion.com.sv%3E) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-04-04 | [`Guy's Floor Service`](https://google.com/search?q=Guy%27s+Floor+Service) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-04-04 | [`Everbrite`](https://google.com/search?q=Everbrite) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-04-04 | [`Constelacion Savings and Credit Society`](https://google.com/search?q=Constelacion+Savings+and+Credit+Society) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-04-04 | [`Radiant Canada`](https://google.com/search?q=Radiant+Canada) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-04-04 | [`Inspection Services`](https://google.com/search?q=Inspection+Services) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2024-03-22 | [`pbgbank.com`](https://google.com/search?q=pbgbank.com) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-03-22 | [`excellifecoaching.com`](https://google.com/search?q=excellifecoaching.com) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-03-22 | [`keralapolice.gov.in`](https://google.com/search?q=keralapolice.gov.in) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
-| 2024-03-22 | [`Bisco Industries`](https://google.com/search?q=Bisco+Industries) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
-| 2024-03-22 | [`Bluelinea`](https://google.com/search?q=Bluelinea) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
-| 2024-03-22 | [`Deepnoid`](https://google.com/search?q=Deepnoid) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
