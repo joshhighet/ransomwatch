@@ -4,6 +4,17 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-04-05 | [`http://commercedentistry.com`](https://google.com/search?q=http%3A%2F%2Fcommercedentistry.com) | [ciphbit](https://ransomwatch.telemetry.ltd/#/profiles?id=ciphbit) |
+| 2024-04-05 | [`US government (private data) +Rothschild&Rockefeller`](https://google.com/search?q=US+government+%28private+data%29+%2BRothschild%26Rockefeller) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
+| 2024-04-05 | [`Seven Seas Group`](https://google.com/search?q=Seven+Seas+Group) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
+| 2024-04-05 | [`Retirement Line`](https://google.com/search?q=Retirement+Line) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
+| 2024-04-05 | [`Miki Travel Limited`](https://google.com/search?q=Miki+Travel+Limited) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
+| 2024-04-05 | [`Malabar Gold & Diamonds`](https://google.com/search?q=Malabar+Gold+%26+Diamonds) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
+| 2024-04-05 | [`Hawbaker Engineering`](https://google.com/search?q=Hawbaker+Engineering) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
+| 2024-04-05 | [`HSPG & Associates`](https://google.com/search?q=HSPG+%26+Associates) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
+| 2024-04-05 | [`Dörr Group`](https://google.com/search?q=D%C3%B6rr+Group) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
+| 2024-04-05 | [`Butler, Lavanceau & Sober`](https://google.com/search?q=Butler%2C+Lavanceau+%26+Sober) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
+| 2024-04-05 | [`Banco Promerica`](https://google.com/search?q=Banco+Promerica) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
 | 2024-04-04 | [`Sit`](https://google.com/search?q=Sit) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-04-04 | [`Constelacion Savings and Credit Society<www.constelacion.com.sv>`](https://google.com/search?q=Constelacion+Savings+and+Credit+Society%3Cwww.constelacion.com.sv%3E) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-04-04 | [`Guy's Floor Service`](https://google.com/search?q=Guy%27s+Floor+Service) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -193,14 +204,3 @@ _last `200` posts_
 | 2024-03-23 | [`Pascoe International`](https://google.com/search?q=Pascoe+International) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
 | 2024-03-22 | [`ptsmi.co.id`](https://google.com/search?q=ptsmi.co.id) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-03-22 | [`Casa Santiveri`](https://google.com/search?q=Casa+Santiveri) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
-| 2024-03-22 | [`Bira 91`](https://google.com/search?q=Bira+91) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2024-03-22 | [`Chambers Construction Co.`](https://google.com/search?q=Chambers+Construction+Co.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2024-03-22 | [`newagesys.com\$24.1M\USA\319GB\&lt;1%`](https://google.com/search?q=newagesys.com%5C%2424.1M%5CUSA%5C319GB%5C%26lt%3B1%25) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2024-03-22 | [`kelson.on.ca\$61.8M\Canada\1.5TB\&lt;1%`](https://google.com/search?q=kelson.on.ca%5C%2461.8M%5CCanada%5C1.5TB%5C%26lt%3B1%25) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2024-03-22 | [`Power Generation  Engineering and Services Company (PGESCo) - pgesco.com`](https://google.com/search?q=Power+Generation++Engineering+and+Services+Company+%28PGESCo%29+-+pgesco.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-03-22 | [`Flynn`](https://google.com/search?q=Flynn) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2024-03-22 | [`cleshar.co.uk\$239.3M\UK\1TB\100%DISCLOSED\`](https://google.com/search?q=cleshar.co.uk%5C%24239.3M%5CUK%5C1TB%5C100%25DISCLOSED%5C) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2024-03-22 | [`politiaromana.ro`](https://google.com/search?q=politiaromana.ro) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
-| 2024-03-22 | [`rabitbd.com`](https://google.com/search?q=rabitbd.com) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
-| 2024-03-22 | [`pbgbank.com`](https://google.com/search?q=pbgbank.com) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
-| 2024-03-22 | [`excellifecoaching.com`](https://google.com/search?q=excellifecoaching.com) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
