@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-04-07 | [`Malaysian Industrial Development Finance`](https://google.com/search?q=Malaysian+Industrial+Development+Finance) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2024-04-07 | [`http://www.ellsworthcheese.com`](https://google.com/search?q=http%3A%2F%2Fwww.ellsworthcheese.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-04-07 | [`https://sip.be/`](https://google.com/search?q=https%3A%2F%2Fsip.be%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-04-06 | [`Carrozzeria Aretusa srl <aretusamilano.it>`](https://google.com/search?q=Carrozzeria+Aretusa+srl+%3Caretusamilano.it%3E) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-03-26 | [`Woodsboro ISD<www.wisd.net>`](https://google.com/search?q=Woodsboro+ISD%3Cwww.wisd.net%3E) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-03-26 | [`regencymedia.com.au`](https://google.com/search?q=regencymedia.com.au) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-03-25 | [`wblight.com`](https://google.com/search?q=wblight.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-03-25 | [`CLARK Material Handling Company`](https://google.com/search?q=CLARK+Material+Handling+Company) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
