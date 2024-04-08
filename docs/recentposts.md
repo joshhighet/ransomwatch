@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-04-08 | [`PHARMACY ETTORE FLORIO SNC - Online Pharmacy Italy <www.farmaciaflorio.com>`](https://google.com/search?q=PHARMACY+ETTORE+FLORIO+SNC+-+Online+Pharmacy+Italy+%3Cwww.farmaciaflorio.com%3E) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-04-08 | [`Z Development Services, LLC`](https://google.com/search?q=Z+Development+Services%2C+LLC) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2024-04-08 | [`Mahoney Foundry, Inc.`](https://google.com/search?q=Mahoney+Foundry%2C+Inc.) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2024-04-08 | [`Inno-soft Info Systems Pte Ltd`](https://google.com/search?q=Inno-soft+Info+Systems+Pte+Ltd) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-03-26 | [`Ejército del Per`](https://google.com/search?q=Ej%C3%A9rcito+del+Per) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2024-03-26 | [`Badan Urusan Logistik`](https://google.com/search?q=Badan+Urusan+Logistik) | [ransomexx](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomexx) |
 | 2024-03-26 | [`Jacobs Farm / Del Cabo`](https://google.com/search?q=Jacobs+Farm+%2F+Del+Cabo) | [ransomexx](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomexx) |
-| 2024-03-26 | [`DVision Architecture`](https://google.com/search?q=DVision+Architecture) | [ransomexx](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomexx) |
