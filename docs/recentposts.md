@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-04-09 | [`Consilux (Brazil)`](https://google.com/search?q=Consilux+%28Brazil%29) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-04-09 | [`http://jmheaford.com`](https://google.com/search?q=http%3A%2F%2Fjmheaford.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-04-09 | [`http://blaineschools.org`](https://google.com/search?q=http%3A%2F%2Fblaineschools.org) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-04-09 | [`Central Carolina Insurance Agency Inc.`](https://google.com/search?q=Central+Carolina+Insurance+Agency+Inc.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-03-26 | [`The************.org`](https://google.com/search?q=The%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A.org) | [cloak](https://ransomwatch.telemetry.ltd/#/profiles?id=cloak) |
 | 2024-03-26 | [`Sped**********.de`](https://google.com/search?q=Sped%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A.de) | [cloak](https://ransomwatch.telemetry.ltd/#/profiles?id=cloak) |
 | 2024-03-26 | [`Autorità di Sistema Portuale del Mar Tirreno Settentrionale It`](https://google.com/search?q=Autorit%C3%A0+di+Sistema+Portuale+del+Mar+Tirreno+Settentrionale+It) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
-| 2024-03-26 | [`Elior UK `](https://google.com/search?q=Elior+UK+) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
