@@ -4,6 +4,15 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-04-09 | [`PROCESS SOLUTIONS`](https://google.com/search?q=PROCESS+SOLUTIONS) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2024-04-09 | [`Numotion`](https://google.com/search?q=Numotion) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2024-04-09 | [`Siemens`](https://google.com/search?q=Siemens) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2024-04-09 | [`Sermo`](https://google.com/search?q=Sermo) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2024-04-09 | [`Schlesinger Law Offices, P.A.`](https://google.com/search?q=Schlesinger+Law+Offices%2C+P.A.) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2024-04-09 | [`Robar Enterprises, Inc.`](https://google.com/search?q=Robar+Enterprises%2C+Inc.) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2024-04-09 | [`Atlas Container Corporation`](https://google.com/search?q=Atlas+Container+Corporation) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2024-04-09 | [`Paterson &amp; Cooke`](https://google.com/search?q=Paterson+%26amp%3B+Cooke) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2024-04-09 | [`Arch-Con® Corporation`](https://google.com/search?q=Arch-Con%C2%AE+Corporation) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-04-09 | [`Consilux (Brazil)`](https://google.com/search?q=Consilux+%28Brazil%29) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-04-09 | [`http://jmheaford.com`](https://google.com/search?q=http%3A%2F%2Fjmheaford.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-04-09 | [`http://blaineschools.org`](https://google.com/search?q=http%3A%2F%2Fblaineschools.org) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
@@ -195,12 +204,3 @@ _last `200` posts_
 | 2024-03-26 | [`euro2000-spa.it`](https://google.com/search?q=euro2000-spa.it) | [cloak](https://ransomwatch.telemetry.ltd/#/profiles?id=cloak) |
 | 2024-03-26 | [`Thenewtrongroup.com`](https://google.com/search?q=Thenewtrongroup.com) | [cloak](https://ransomwatch.telemetry.ltd/#/profiles?id=cloak) |
 | 2024-03-26 | [`Bankofceylon.co.uk`](https://google.com/search?q=Bankofceylon.co.uk) | [cloak](https://ransomwatch.telemetry.ltd/#/profiles?id=cloak) |
-| 2024-03-26 | [`Maas911.com`](https://google.com/search?q=Maas911.com) | [cloak](https://ransomwatch.telemetry.ltd/#/profiles?id=cloak) |
-| 2024-03-26 | [`Ponoka.ca`](https://google.com/search?q=Ponoka.ca) | [cloak](https://ransomwatch.telemetry.ltd/#/profiles?id=cloak) |
-| 2024-03-26 | [`Vhs-vaterstetten.de`](https://google.com/search?q=Vhs-vaterstetten.de) | [cloak](https://ransomwatch.telemetry.ltd/#/profiles?id=cloak) |
-| 2024-03-26 | [`Gascontec.com`](https://google.com/search?q=Gascontec.com) | [cloak](https://ransomwatch.telemetry.ltd/#/profiles?id=cloak) |
-| 2024-03-26 | [`Equatorial Energia`](https://google.com/search?q=Equatorial+Energia) | [cloak](https://ransomwatch.telemetry.ltd/#/profiles?id=cloak) |
-| 2024-03-26 | [`we****.com`](https://google.com/search?q=we%2A%2A%2A%2A.com) | [cloak](https://ransomwatch.telemetry.ltd/#/profiles?id=cloak) |
-| 2024-03-26 | [`The************.org`](https://google.com/search?q=The%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A.org) | [cloak](https://ransomwatch.telemetry.ltd/#/profiles?id=cloak) |
-| 2024-03-26 | [`Sped**********.de`](https://google.com/search?q=Sped%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A.de) | [cloak](https://ransomwatch.telemetry.ltd/#/profiles?id=cloak) |
-| 2024-03-26 | [`Autorità di Sistema Portuale del Mar Tirreno Settentrionale It`](https://google.com/search?q=Autorit%C3%A0+di+Sistema+Portuale+del+Mar+Tirreno+Settentrionale+It) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
