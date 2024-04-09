@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-04-09 | [`http://www.macuz.it`](https://google.com/search?q=http%3A%2F%2Fwww.macuz.it) | [ciphbit](https://ransomwatch.telemetry.ltd/#/profiles?id=ciphbit) |
 | 2024-04-09 | [`Skyway Coach Lines and Shuttle Services   --   skywaycoach.ca`](https://google.com/search?q=Skyway+Coach+Lines+and+Shuttle+Services+++--+++skywaycoach.ca) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-04-08 | [`Paulmann Licht`](https://google.com/search?q=Paulmann+Licht) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-04-08 | [`REV Drill Sales & Re ntals`](https://google.com/search?q=REV+Drill+Sales+%26+Re+ntals) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-03-26 | [`www.greenlineva.com`](https://google.com/search?q=www.greenlineva.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
 | 2024-03-26 | [`tetonortho.com`](https://google.com/search?q=tetonortho.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
 | 2024-03-26 | [`www.dunbier.com`](https://google.com/search?q=www.dunbier.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
-| 2024-03-26 | [`Pantana CPA`](https://google.com/search?q=Pantana+CPA) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
