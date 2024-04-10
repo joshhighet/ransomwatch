@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-04-10 | [`Inszone Insurance Services`](https://google.com/search?q=Inszone+Insurance+Services) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-04-10 | [`speditionlangen.de`](https://google.com/search?q=speditionlangen.de) | [mallox](https://ransomwatch.telemetry.ltd/#/profiles?id=mallox) |
 | 2024-04-10 | [`Baca County Feedyard, Inc`](https://google.com/search?q=Baca+County+Feedyard%2C+Inc) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-04-10 | [`Robertson Cheatham Farmers`](https://google.com/search?q=Robertson+Cheatham+Farmers) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-03-26 | [`https://www.mikeferry.com`](https://google.com/search?q=https%3A%2F%2Fwww.mikeferry.com) | [alphalocker](https://ransomwatch.telemetry.ltd/#/profiles?id=alphalocker) |
 | 2024-03-26 | [`https://www.consorzioinnova.it`](https://google.com/search?q=https%3A%2F%2Fwww.consorzioinnova.it) | [alphalocker](https://ransomwatch.telemetry.ltd/#/profiles?id=alphalocker) |
 | 2024-03-26 | [`Forgepresion.com`](https://google.com/search?q=Forgepresion.com) | [cloak](https://ransomwatch.telemetry.ltd/#/profiles?id=cloak) |
-| 2024-03-26 | [`farwickgrote.de`](https://google.com/search?q=farwickgrote.de) | [cloak](https://ransomwatch.telemetry.ltd/#/profiles?id=cloak) |
