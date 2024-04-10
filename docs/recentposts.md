@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-04-10 | [`Baca County Feedyard, Inc`](https://google.com/search?q=Baca+County+Feedyard%2C+Inc) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-04-10 | [`Robertson Cheatham Farmers`](https://google.com/search?q=Robertson+Cheatham+Farmers) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
+| 2024-04-10 | [`Samart`](https://google.com/search?q=Samart) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-04-10 | [`specialoilfield.com`](https://google.com/search?q=specialoilfield.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-04-09 | [`PROCESS SOLUTIONS`](https://google.com/search?q=PROCESS+SOLUTIONS) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-04-09 | [`Numotion`](https://google.com/search?q=Numotion) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2024-03-26 | [`Forgepresion.com`](https://google.com/search?q=Forgepresion.com) | [cloak](https://ransomwatch.telemetry.ltd/#/profiles?id=cloak) |
 | 2024-03-26 | [`farwickgrote.de`](https://google.com/search?q=farwickgrote.de) | [cloak](https://ransomwatch.telemetry.ltd/#/profiles?id=cloak) |
 | 2024-03-26 | [`kvfcu.org`](https://google.com/search?q=kvfcu.org) | [cloak](https://ransomwatch.telemetry.ltd/#/profiles?id=cloak) |
-| 2024-03-26 | [`skncustoms.com`](https://google.com/search?q=skncustoms.com) | [cloak](https://ransomwatch.telemetry.ltd/#/profiles?id=cloak) |
-| 2024-03-26 | [`euro2000-spa.it`](https://google.com/search?q=euro2000-spa.it) | [cloak](https://ransomwatch.telemetry.ltd/#/profiles?id=cloak) |
-| 2024-03-26 | [`Thenewtrongroup.com`](https://google.com/search?q=Thenewtrongroup.com) | [cloak](https://ransomwatch.telemetry.ltd/#/profiles?id=cloak) |
