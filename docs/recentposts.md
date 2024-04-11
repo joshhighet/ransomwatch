@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-04-11 | [`Optima Manufacturing`](https://google.com/search?q=Optima+Manufacturing) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-04-11 | [`Gimex`](https://google.com/search?q=Gimex) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
 | 2024-04-11 | [`Victor Fauconnier`](https://google.com/search?q=Victor+Fauconnier) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
 | 2024-04-11 | [`Un****es`](https://google.com/search?q=Un%2A%2A%2A%2Aes) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-03-27 | [`isophon glas GmbH`](https://google.com/search?q=isophon+glas+GmbH) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2024-03-27 | [`UNDP`](https://google.com/search?q=UNDP) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2024-03-27 | [`Lindos Group Of Companies`](https://google.com/search?q=Lindos+Group+Of+Companies) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2024-03-27 | [`HC Querétaro`](https://google.com/search?q=HC+Quer%C3%A9taro) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
