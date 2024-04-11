@@ -5773,5 +5773,25 @@
             }
         ],
         "profile": []
+    },
+    {
+        "name": "darkvault",
+        "captcha": false,
+        "parser": false,
+        "javascript_render": false,
+        "meta": null,
+        "locations": [
+            {
+                "fqdn": "mdhby62yvvg6sd5jmx5gsyucs7ynb5j45lvvdh4dsymg43puitu7tfid.onion",
+                "title": "DarkVault BLOG",
+                "version": 3,
+                "slug": "http://mdhby62yvvg6sd5jmx5gsyucs7ynb5j45lvvdh4dsymg43puitu7tfid.onion",
+                "available": true,
+                "updated": "2024-04-11 12:02:44.533619",
+                "lastscrape": "2024-04-11 12:02:44.533608",
+                "enabled": true
+            }
+        ],
+        "profile": []
     }
 ]

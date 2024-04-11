@@ -46,6 +46,9 @@ while read -r line; do
     if [[ ${line} =~ %s ]]; then
         line=${line//%s/grep -oE}
     fi
+    if [[ ${line} =~ \\\\ ]]; then
+        line=${line//\\\\/\\}
+    fi
     results=`echo "${line}" | bash`
     if [ -z "${results}" ]; then
         echo "${line}"

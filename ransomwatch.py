@@ -301,4 +301,5 @@ if args.mode == 'parse':
     parsers.donex()
     parsers.killsecurity()
     parsers.redransomware()
+    parsers.darkvault()
     stdlog('ransomwatch: ' + 'parse run complete')

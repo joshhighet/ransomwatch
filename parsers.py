@@ -1258,7 +1258,7 @@ def dragonforce():
     stdlog('parser: ' + 'dragonforce')
     # grep -o 'href="https://[^"]*' source/dragonforce-*.html | sed 's/href="//'
     parser = '''
-    jq '.data.publications.[].site' -r source/dragonforce-*.html || true
+    cat source/dragonforce-z3wqggtxft*.html | jq ".data.publications.[].site" -r || true
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
@@ -1398,3 +1398,14 @@ def redransomware():
         errlog('redransomware: ' + 'parsing fail')
     for post in posts:
         appender(post, 'redransomware')
+
+def darkvault():
+    stdlog('parser: ' + 'darkvault')
+    parser = '''
+    cat source/darkvault-*.html | awk 'BEGIN{RS="<div class=\\"post-title\\">"; FS="</div>"} NR>1 {print $1}' || true
+    '''
+    posts = runshellcmd(parser)
+    if len(posts) == 1:
+        errlog('darkvault: ' + 'parsing fail')
+    for post in posts:
+        appender(post, 'darkvault')
