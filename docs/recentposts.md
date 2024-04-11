@@ -4,6 +4,17 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-04-11 | [`hawkremote2.com`](https://google.com/search?q=hawkremote2.com) | [darkvault](https://ransomwatch.telemetry.ltd/#/profiles?id=darkvault) |
+| 2024-04-11 | [`hawkremote.com`](https://google.com/search?q=hawkremote.com) | [darkvault](https://ransomwatch.telemetry.ltd/#/profiles?id=darkvault) |
+| 2024-04-11 | [`hirebus.com`](https://google.com/search?q=hirebus.com) | [darkvault](https://ransomwatch.telemetry.ltd/#/profiles?id=darkvault) |
+| 2024-04-11 | [`ezeldsolutions.com`](https://google.com/search?q=ezeldsolutions.com) | [darkvault](https://ransomwatch.telemetry.ltd/#/profiles?id=darkvault) |
+| 2024-04-11 | [`zanebenefits.com`](https://google.com/search?q=zanebenefits.com) | [darkvault](https://ransomwatch.telemetry.ltd/#/profiles?id=darkvault) |
+| 2024-04-11 | [`taskhound.com`](https://google.com/search?q=taskhound.com) | [darkvault](https://ransomwatch.telemetry.ltd/#/profiles?id=darkvault) |
+| 2024-04-11 | [`lankacom.net`](https://google.com/search?q=lankacom.net) | [darkvault](https://ransomwatch.telemetry.ltd/#/profiles?id=darkvault) |
+| 2024-04-11 | [`adachikan.com`](https://google.com/search?q=adachikan.com) | [darkvault](https://ransomwatch.telemetry.ltd/#/profiles?id=darkvault) |
+| 2024-04-11 | [`agribazaar.com`](https://google.com/search?q=agribazaar.com) | [darkvault](https://ransomwatch.telemetry.ltd/#/profiles?id=darkvault) |
+| 2024-04-11 | [`wexer.com`](https://google.com/search?q=wexer.com) | [darkvault](https://ransomwatch.telemetry.ltd/#/profiles?id=darkvault) |
+| 2024-04-11 | [`Oki Golf`](https://google.com/search?q=Oki+Golf) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2024-04-10 | [`F???s???? & ??????t`](https://google.com/search?q=F%3F%3F%3Fs%3F%3F%3F%3F+%26+%3F%3F%3F%3F%3F%3Ft) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-04-10 | [`Inszone Insurance Services`](https://google.com/search?q=Inszone+Insurance+Services) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-04-10 | [`speditionlangen.de`](https://google.com/search?q=speditionlangen.de) | [mallox](https://ransomwatch.telemetry.ltd/#/profiles?id=mallox) |
@@ -193,14 +204,3 @@ _last `200` posts_
 | 2024-03-26 | [`El Debate`](https://google.com/search?q=El+Debate) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2024-03-26 | [`SummerFresh`](https://google.com/search?q=SummerFresh) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-03-26 | [`polycab.com`](https://google.com/search?q=polycab.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-03-26 | [`Barrie and Community Family Health Team`](https://google.com/search?q=Barrie+and+Community+Family+Health+Team) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2024-03-26 | [`Lieberman LLP`](https://google.com/search?q=Lieberman+LLP) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2024-03-26 | [`Tanis Brush`](https://google.com/search?q=Tanis+Brush) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2024-03-26 | [`Koi Design`](https://google.com/search?q=Koi+Design) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2024-03-26 | [`Crimsgroup`](https://google.com/search?q=Crimsgroup) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
-| 2024-03-26 | [`IntegrityInc.org   Integrity Inc`](https://google.com/search?q=IntegrityInc.org+++Integrity+Inc) | [alphalocker](https://ransomwatch.telemetry.ltd/#/profiles?id=alphalocker) |
-| 2024-03-26 | [`https://www.carri.com`](https://google.com/search?q=https%3A%2F%2Fwww.carri.com) | [alphalocker](https://ransomwatch.telemetry.ltd/#/profiles?id=alphalocker) |
-| 2024-03-26 | [`accolade-group.com + levelwear.com +Taiwan  microelectronics(CRM).`](https://google.com/search?q=accolade-group.com+%2B+levelwear.com+%2BTaiwan++microelectronics%28CRM%29.) | [alphalocker](https://ransomwatch.telemetry.ltd/#/profiles?id=alphalocker) |
-| 2024-03-26 | [`a24group.com  ambition24hours.co.za`](https://google.com/search?q=a24group.com++ambition24hours.co.za) | [alphalocker](https://ransomwatch.telemetry.ltd/#/profiles?id=alphalocker) |
-| 2024-03-26 | [`https://www.mikeferry.com`](https://google.com/search?q=https%3A%2F%2Fwww.mikeferry.com) | [alphalocker](https://ransomwatch.telemetry.ltd/#/profiles?id=alphalocker) |
-| 2024-03-26 | [`https://www.consorzioinnova.it`](https://google.com/search?q=https%3A%2F%2Fwww.consorzioinnova.it) | [alphalocker](https://ransomwatch.telemetry.ltd/#/profiles?id=alphalocker) |
