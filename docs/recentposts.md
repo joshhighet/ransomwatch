@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-04-12 | [`Notions Marketing`](https://google.com/search?q=Notions+Marketing) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
+| 2024-04-12 | [`Jordano's Inc.`](https://google.com/search?q=Jordano%27s+Inc.) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
+| 2024-04-12 | [`Bojangles’ International`](https://google.com/search?q=Bojangles%E2%80%99+International) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-04-12 | [`H??????? C??????????`](https://google.com/search?q=H%3F%3F%3F%3F%3F%3F%3F+C%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-04-12 | [`Feldstein & Stewart`](https://google.com/search?q=Feldstein+%26+Stewart) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-04-12 | [`Agate Construction`](https://google.com/search?q=Agate+Construction) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2024-03-27 | [`West Monroe`](https://google.com/search?q=West+Monroe) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-03-27 | [`Weld Plus`](https://google.com/search?q=Weld+Plus) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-03-27 | [`Tbr Kowalczyk`](https://google.com/search?q=Tbr+Kowalczyk) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-03-27 | [`Quality Enclosures`](https://google.com/search?q=Quality+Enclosures) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-03-27 | [`Lawrence Semiconductor Research Laboratory`](https://google.com/search?q=Lawrence+Semiconductor+Research+Laboratory) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-03-27 | [`JM Thompson`](https://google.com/search?q=JM+Thompson) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
