@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-04-12 | [`oraclecms.com`](https://google.com/search?q=oraclecms.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-04-12 | [`thsp.co.uk`](https://google.com/search?q=thsp.co.uk) | [darkvault](https://ransomwatch.telemetry.ltd/#/profiles?id=darkvault) |
 | 2024-04-12 | [`tommyclub.co.uk`](https://google.com/search?q=tommyclub.co.uk) | [darkvault](https://ransomwatch.telemetry.ltd/#/profiles?id=darkvault) |
 | 2024-04-12 | [`Notions Marketing`](https://google.com/search?q=Notions+Marketing) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-03-27 | [`Bulwark Exterminating`](https://google.com/search?q=Bulwark+Exterminating) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-03-27 | [`Lagunitas Brewing Company`](https://google.com/search?q=Lagunitas+Brewing+Company) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-03-27 | [`Mermet`](https://google.com/search?q=Mermet) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2024-03-27 | [`West Monroe`](https://google.com/search?q=West+Monroe) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
