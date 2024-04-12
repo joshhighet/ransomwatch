@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-04-12 | [`Hernando County`](https://google.com/search?q=Hernando+County) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2024-04-12 | [`baheyabeauty.com`](https://google.com/search?q=baheyabeauty.com) | [darkvault](https://ransomwatch.telemetry.ltd/#/profiles?id=darkvault) |
 | 2024-04-12 | [`baheya.com`](https://google.com/search?q=baheya.com) | [darkvault](https://ransomwatch.telemetry.ltd/#/profiles?id=darkvault) |
 | 2024-04-11 | [`Henningson & Snoxell, Ltd.`](https://google.com/search?q=Henningson+%26+Snoxell%2C+Ltd.) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-03-27 | [`Alber Law Group`](https://google.com/search?q=Alber+Law+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-03-27 | [`grupatopex.com\$66.5M\Poland\638GB\100%DISCLOSED\`](https://google.com/search?q=grupatopex.com%5C%2466.5M%5CPoland%5C638GB%5C100%25DISCLOSED%5C) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-03-27 | [`qosina.com\$37.9M\USA\375GB\100%DISCLOSED\`](https://google.com/search?q=qosina.com%5C%2437.9M%5CUSA%5C375GB%5C100%25DISCLOSED%5C) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2024-03-27 | [`Lambda Energy Resources`](https://google.com/search?q=Lambda+Energy+Resources) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
