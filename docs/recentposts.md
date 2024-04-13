@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-04-13 | [`disb.dc.gov`](https://google.com/search?q=disb.dc.gov) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-04-13 | [`Toyota Brazil`](https://google.com/search?q=Toyota+Brazil) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-04-13 | [`NanoLumens`](https://google.com/search?q=NanoLumens) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-04-13 | [`Kablutronik SRL`](https://google.com/search?q=Kablutronik+SRL) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-03-27 | [`Vili’s`](https://google.com/search?q=Vili%E2%80%99s) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-03-27 | [`P&amp;S Transportation`](https://google.com/search?q=P%26amp%3BS+Transportation) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-03-27 | [`FPD Company`](https://google.com/search?q=FPD+Company) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2024-03-27 | [`North American Signs`](https://google.com/search?q=North+American+Signs) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
