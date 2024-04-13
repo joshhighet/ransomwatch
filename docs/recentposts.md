@@ -4,6 +4,12 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-04-13 | [`Toyota Brazil`](https://google.com/search?q=Toyota+Brazil) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
+| 2024-04-13 | [`NanoLumens`](https://google.com/search?q=NanoLumens) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
+| 2024-04-13 | [`Kablutronik SRL`](https://google.com/search?q=Kablutronik+SRL) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
+| 2024-04-13 | [`Integrated Control`](https://google.com/search?q=Integrated+Control) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
+| 2024-04-13 | [`Frederick Wildman and Sons`](https://google.com/search?q=Frederick+Wildman+and+Sons) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
+| 2024-04-13 | [`Caxton and CTP Publishers and Printers`](https://google.com/search?q=Caxton+and+CTP+Publishers+and+Printers) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-04-12 | [`oraclecms.com`](https://google.com/search?q=oraclecms.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-04-12 | [`thsp.co.uk`](https://google.com/search?q=thsp.co.uk) | [darkvault](https://ransomwatch.telemetry.ltd/#/profiles?id=darkvault) |
 | 2024-04-12 | [`tommyclub.co.uk`](https://google.com/search?q=tommyclub.co.uk) | [darkvault](https://ransomwatch.telemetry.ltd/#/profiles?id=darkvault) |
@@ -198,9 +204,3 @@ _last `200` posts_
 | 2024-03-27 | [`P&amp;S Transportation`](https://google.com/search?q=P%26amp%3BS+Transportation) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-03-27 | [`FPD Company`](https://google.com/search?q=FPD+Company) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-03-27 | [`North American Signs`](https://google.com/search?q=North+American+Signs) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2024-03-27 | [`OTR’s`](https://google.com/search?q=OTR%E2%80%99s) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2024-03-27 | [`Prodrive`](https://google.com/search?q=Prodrive) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2024-03-27 | [`Dallas Gold &amp; Silver Exchange (DGSE)`](https://google.com/search?q=Dallas+Gold+%26amp%3B+Silver+Exchange+%28DGSE%29) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2024-03-27 | [`Bulwark Exterminating`](https://google.com/search?q=Bulwark+Exterminating) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2024-03-27 | [`Lagunitas Brewing Company`](https://google.com/search?q=Lagunitas+Brewing+Company) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2024-03-27 | [`Mermet`](https://google.com/search?q=Mermet) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
