@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-04-14 | [`Omni Hotels & Resorts  (US)`](https://google.com/search?q=Omni+Hotels+%26+Resorts++%28US%29) | [daixin](https://ransomwatch.telemetry.ltd/#/profiles?id=daixin) |
 | 2024-04-13 | [`countryvillahealth.com`](https://google.com/search?q=countryvillahealth.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-04-13 | [`disb.dc.gov`](https://google.com/search?q=disb.dc.gov) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-04-13 | [`Toyota Brazil`](https://google.com/search?q=Toyota+Brazil) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-03-27 | [`PCT International Inc.`](https://google.com/search?q=PCT+International+Inc.) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-03-27 | [`Sports South`](https://google.com/search?q=Sports+South) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-03-27 | [`Vili’s`](https://google.com/search?q=Vili%E2%80%99s) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2024-03-27 | [`P&amp;S Transportation`](https://google.com/search?q=P%26amp%3BS+Transportation) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
