@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-04-15 | [`Chicony Electronics`](https://google.com/search?q=Chicony+Electronics) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
+| 2024-04-15 | [`Pulaski academy`](https://google.com/search?q=Pulaski+academy) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
+| 2024-04-15 | [`Druckman Law Group`](https://google.com/search?q=Druckman+Law+Group) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2024-04-15 | [`regulatormarine.com\$28.1M\USA\630GB\&lt;1% DISCLOSED`](https://google.com/search?q=regulatormarine.com%5C%2428.1M%5CUSA%5C630GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-04-15 | [`Change HealthCare - OPTUM Group - United HealthCare Group<Updated>`](https://google.com/search?q=Change+HealthCare+-+OPTUM+Group+-+United+HealthCare+Group%3CUpdated%3E) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-04-15 | [`bigtoe.yoga`](https://google.com/search?q=bigtoe.yoga) | [darkvault](https://ransomwatch.telemetry.ltd/#/profiles?id=darkvault) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2024-03-29 | [`kelson.on.ca\$61.8M\Canada\1.5TB\100%DISCLOSED`](https://google.com/search?q=kelson.on.ca%5C%2461.8M%5CCanada%5C1.5TB%5C100%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-03-29 | [`contenderboats.com\$51.8M\USA\65GB\100%DISCLOSED`](https://google.com/search?q=contenderboats.com%5C%2451.8M%5CUSA%5C65GB%5C100%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-03-29 | [`Control Technology`](https://google.com/search?q=Control+Technology) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2024-03-29 | [`Graypen Ltd`](https://google.com/search?q=Graypen+Ltd) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2024-03-29 | [`Sysmex`](https://google.com/search?q=Sysmex) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2024-03-29 | [`rameywine.com`](https://google.com/search?q=rameywine.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
