@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-04-15 | [`qint.com.br`](https://google.com/search?q=qint.com.br) | [darkvault](https://ransomwatch.telemetry.ltd/#/profiles?id=darkvault) |
 | 2024-04-14 | [`Jack Doheny Company`](https://google.com/search?q=Jack+Doheny+Company) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-04-14 | [`Omni Hotels & Resorts  (US)`](https://google.com/search?q=Omni+Hotels+%26+Resorts++%28US%29) | [daixin](https://ransomwatch.telemetry.ltd/#/profiles?id=daixin) |
 | 2024-04-13 | [`countryvillahealth.com`](https://google.com/search?q=countryvillahealth.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-03-27 | [`MJ Celco`](https://google.com/search?q=MJ+Celco) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-03-27 | [`KMB`](https://google.com/search?q=KMB) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-03-27 | [`PCT International Inc.`](https://google.com/search?q=PCT+International+Inc.) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2024-03-27 | [`Sports South`](https://google.com/search?q=Sports+South) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
