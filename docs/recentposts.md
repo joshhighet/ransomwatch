@@ -4,6 +4,10 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-04-15 | [`Wacks Law Group`](https://google.com/search?q=Wacks+Law+Group) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
+| 2024-04-15 | [`Madero `](https://google.com/search?q=Madero+) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
+| 2024-04-15 | [`maccarinelli.it`](https://google.com/search?q=maccarinelli.it) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
+| 2024-04-15 | [`easchangesystems`](https://google.com/search?q=easchangesystems) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-04-15 | [`ndpaper.com`](https://google.com/search?q=ndpaper.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-04-15 | [`qint.com.br`](https://google.com/search?q=qint.com.br) | [darkvault](https://ransomwatch.telemetry.ltd/#/profiles?id=darkvault) |
 | 2024-04-14 | [`Jack Doheny Company`](https://google.com/search?q=Jack+Doheny+Company) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
@@ -200,7 +204,3 @@ _last `200` posts_
 | 2024-03-27 | [`Pavilion Construction`](https://google.com/search?q=Pavilion+Construction) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-03-27 | [`Summer Fresh`](https://google.com/search?q=Summer+Fresh) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-03-27 | [`CAROLINA FOODS INC.`](https://google.com/search?q=CAROLINA+FOODS+INC.) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2024-03-27 | [`Amerlux`](https://google.com/search?q=Amerlux) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2024-03-27 | [`Organized Living`](https://google.com/search?q=Organized+Living) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2024-03-27 | [`MJ Celco`](https://google.com/search?q=MJ+Celco) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2024-03-27 | [`KMB`](https://google.com/search?q=KMB) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
