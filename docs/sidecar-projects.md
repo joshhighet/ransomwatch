@@ -39,14 +39,15 @@
 - [Tidal Cyber: LockBit Tools & TTPs](https://www.tidalcyber.com/blog/community-content-release-lockbit-tools-and-ttps)
 - [Aashiq Ramachandran - The Ransomware Trash Can - Mining Data From The Dark Web](https://www.linkedin.com/pulse/ransomware-trash-can-mining-data-from-dark-web-aashiq-ramachandran-3tlac/)
 - [SIDE Attack Logic: What is Targeted Threat Intelligence](https://www.nsideattacklogic.de/was-ist-targeted-threat-intelligence-tti/)
+- [Mathieu Han-Leveau - A legal study on financial investigations on data resulting from ransomware attacks](https://doi.org/10.5281/zenodo.10946299)
 
 ## blogs & resources
 
 - [SANS - Ransomware: Every internet-connected network is at risk. Be prepared!](https://www.sans.org/blog/ransomware-every-internet-connected-network-is-at-risk/)
-- [th3protocol.com:](https://www.th3protocol.com/2022/ChatGPT-LeakSite-Analysis) _using ChatGPT to visualize ransomware leak site data_
-- [OhShINT/ohshint.gitbook.io:](https://ohshint.gitbook.io/oh-shint-its-a-blog/) _an excellently curated repository OSINT resources, ransomwatch included_
-- [ransomwatch & Jupyter Notebooks](https://kc7cyber.com/learning-module/keeping-up-to-date-with-ransomware-leak-sites/) _- a learning module by KC7_
-- [keyword matching posts for monitoring/alerting](https://www.youtube.com/watch?v=cVDGmKxbKnI) _- youtube, Sh1katagana1_
+- [th3protocol.com - ChatGPT Leak Site Analysis](https://www.th3protocol.com/2022/ChatGPT-LeakSite-Analysis)
+- [OhShINT/ohshint.gitbook.io:](https://ohshint.gitbook.io/oh-shint-its-a-blog/)
+- [KC7 - ransomwatch & Jupyter Notebooks](https://kc7cyber.com/learning-module/keeping-up-to-date-with-ransomware-leak-sites/)
+- [Sh1katagana - Custom monitoring and alerting with Ransomwatch and Python](https://www.youtube.com/watch?v=cVDGmKxbKnI)
 - [PWNDEFEND - Cyber Threat Intelligence Resources](https://www.pwndefend.com/2023/02/26/cyber-threat-intelligence-resources/)
 - [Luca Mercatanti - Cyber Threat Intelligence on the Dark Web](https://luca-mercatanti.com/cyber-threat-intelligence-sul-dark-web/)
 - [SOS Ransomwre: France November 2023 Ransomware Overview](https://sosransomware.com/ransomware/rapport-de-novembre-2023-panorama-des-attaques-ransomware-en-france/)
@@ -54,6 +55,8 @@
 - [Le Deco Deur - Ransomwatch, the site to follow ransomware cyberattacks](https://www.ledecodeur.ch/2024/01/02/ransomwatch-le-site-pour-suivre-en-direct-les-cyberattaques-par-ransomware/)
 - [OSINT Dojo - Resources](https://www.osintdojo.com/resources/)
 - [Chista | Open Threat Intelligence Framework](https://github.com/ChistaDev/Chista)
+- [The DFRI Spot - Ransomware Leak Sites](https://www.thedfirspot.com/general-8-1)
+- [Astrosp - Awesome OSINT For Everything](https://github.com/Astrosp/Awesome-OSINT-For-Everything?tab=readme-ov-file)
 
 ## contributing forks
 
@@ -63,4 +66,6 @@
 
 - [ransomlook.io](https://www.ransomlook.io)
 - [ransomfind.io](https://ransomfind.io)
+- [cti.fyi](https://cti.fyi)
 - [provectio/go-ransomwatch](https://github.com/provectio/go-ransomwatch)
+- [aptgetdefence - Ransomware Monitor](https://www.aptgetdefence.com/monitor)
