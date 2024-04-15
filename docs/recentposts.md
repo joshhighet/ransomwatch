@@ -5,6 +5,18 @@ _last `200` posts_
 | date | title | group |
 |---|---|---|
 | 2024-04-15 | [`Change HealthCare - OPTUM Group - United HealthCare Group<Updated>`](https://google.com/search?q=Change+HealthCare+-+OPTUM+Group+-+United+HealthCare+Group%3CUpdated%3E) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-04-15 | [`http://www.biggscardosa.com`](https://google.com/search?q=http%3A%2F%2Fwww.biggscardosa.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
+| 2024-04-15 | [`https://www.postandcourier.com/`](https://google.com/search?q=https%3A%2F%2Fwww.postandcourier.com%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
+| 2024-04-15 | [`The Souza Agency Inc.`](https://google.com/search?q=The+Souza+Agency+Inc.) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2024-04-15 | [`SOA Architecture`](https://google.com/search?q=SOA+Architecture) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2024-04-15 | [`R.B. Woodcraft, Inc.`](https://google.com/search?q=R.B.+Woodcraft%2C+Inc.) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2024-04-15 | [`LYON TERMINAL`](https://google.com/search?q=LYON+TERMINAL) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2024-04-15 | [`LEMODOR`](https://google.com/search?q=LEMODOR) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2024-04-15 | [`GPI Corporate`](https://google.com/search?q=GPI+Corporate) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2024-04-15 | [`Council for Relationships`](https://google.com/search?q=Council+for+Relationships) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2024-04-15 | [`ASMFC: Atlantic States Marine Fisheries Commission`](https://google.com/search?q=ASMFC%3A+Atlantic+States+Marine+Fisheries+Commission) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2024-04-15 | [`Best Reward Federal  Credit Union`](https://google.com/search?q=Best+Reward+Federal++Credit+Union) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
+| 2024-04-15 | [`jeyesfluid.co.uk`](https://google.com/search?q=jeyesfluid.co.uk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-04-15 | [`compagniedephalsbourg.com`](https://google.com/search?q=compagniedephalsbourg.com) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
 | 2024-04-15 | [`Wacks Law Group`](https://google.com/search?q=Wacks+Law+Group) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-04-15 | [`Madero `](https://google.com/search?q=Madero+) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
@@ -192,15 +204,3 @@ _last `200` posts_
 | 2024-03-29 | [`rameywine.com`](https://google.com/search?q=rameywine.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
 | 2024-03-29 | [`Tech-Quip Inc`](https://google.com/search?q=Tech-Quip+Inc) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2024-03-29 | [`PSEC Church`](https://google.com/search?q=PSEC+Church) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2024-03-29 | [`Lodan Electronics Inc`](https://google.com/search?q=Lodan+Electronics+Inc) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2024-03-28 | [`Avant IT Norway<www.avantit.no>`](https://google.com/search?q=Avant+IT+Norway%3Cwww.avantit.no%3E) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-03-28 | [`Lakes Precision`](https://google.com/search?q=Lakes+Precision) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2024-03-28 | [`Santa Cruz Seaside`](https://google.com/search?q=Santa+Cruz+Seaside) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2024-03-28 | [`Neurobehavioral Medicine Consultants`](https://google.com/search?q=Neurobehavioral+Medicine+Consultants) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2024-03-28 | [`Florida Memorial University`](https://google.com/search?q=Florida+Memorial+University) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2024-03-28 | [`Exela Technologies`](https://google.com/search?q=Exela+Technologies) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2024-03-28 | [`Reeves-Wiedeman`](https://google.com/search?q=Reeves-Wiedeman) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2024-03-28 | [`Primeimaging Data Leak`](https://google.com/search?q=Primeimaging+Data+Leak) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
-| 2024-03-27 | [`Otolaryngology Associates`](https://google.com/search?q=Otolaryngology+Associates) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2024-03-27 | [`anovahealth.com`](https://google.com/search?q=anovahealth.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-03-27 | [`Pavilion Construction`](https://google.com/search?q=Pavilion+Construction) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
