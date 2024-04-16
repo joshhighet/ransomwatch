@@ -4,6 +4,10 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-04-16 | [`https://www.upc.com.tw`](https://google.com/search?q=https%3A%2F%2Fwww.upc.com.tw) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
+| 2024-04-16 | [`Wright Brothers Cons truction`](https://google.com/search?q=Wright+Brothers+Cons+truction) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
+| 2024-04-16 | [`Medequip Assistive T echnology`](https://google.com/search?q=Medequip+Assistive+T+echnology) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
+| 2024-04-16 | [`hbmolding.com`](https://google.com/search?q=hbmolding.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-04-16 | [`Studio LAMBDA`](https://google.com/search?q=Studio+LAMBDA) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-04-16 | [`City of St. Cloud, Florida`](https://google.com/search?q=City+of+St.+Cloud%2C+Florida) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-04-16 | [`aerodynamicinc.com\$22,6M\USA\1.1TB\100% DISCLOSED`](https://google.com/search?q=aerodynamicinc.com%5C%2422%2C6M%5CUSA%5C1.1TB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
@@ -200,7 +204,3 @@ _last `200` posts_
 | 2024-04-02 | [`http://www.ppi-global.com`](https://google.com/search?q=http%3A%2F%2Fwww.ppi-global.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-04-02 | [`Crimsgroup Data Leak`](https://google.com/search?q=Crimsgroup+Data+Leak) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2024-04-02 | [`http://gaiaherbs.com`](https://google.com/search?q=http%3A%2F%2Fgaiaherbs.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
-| 2024-04-02 | [`Sterling Plumbing Inc`](https://google.com/search?q=Sterling+Plumbing+Inc) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
-| 2024-04-02 | [`C&C Casa e ConstruÃ§Ã£o Ltda`](https://google.com/search?q=C%26C+Casa+e+Constru%C3%83%C2%A7%C3%83%C2%A3o+Ltda) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
-| 2024-04-02 | [`TUBEX Aluminium Tubes`](https://google.com/search?q=TUBEX+Aluminium+Tubes) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
-| 2024-04-02 | [`Boingo Graphics`](https://google.com/search?q=Boingo+Graphics) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
