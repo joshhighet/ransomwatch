@@ -4,6 +4,13 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-04-16 | [`Empresa de energía del Bajo Putumayo <eebpsa.com.co>`](https://google.com/search?q=Empresa+de+energ%C3%ADa+del+Bajo+Putumayo+%3Ceebpsa.com.co%3E) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-04-16 | [`[UPDATE] Robeson County Sheriff's Office <www.robesoncoso.org>`](https://google.com/search?q=%5BUPDATE%5D+Robeson+County+Sheriff%27s+Office+%3Cwww.robesoncoso.org%3E) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-04-16 | [`Change HealthCare - OPTUM Group - United HealthCare Group - FOR SALE`](https://google.com/search?q=Change+HealthCare+-+OPTUM+Group+-+United+HealthCare+Group+-+FOR+SALE) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-04-16 | [`Grupo Cuevas<grupocuevas.es>`](https://google.com/search?q=Grupo+Cuevas%3Cgrupocuevas.es%3E) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-04-16 | [`Len Dubois Trucking`](https://google.com/search?q=Len+Dubois+Trucking) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2024-04-16 | [`Pioneer Oil Company, Inc.`](https://google.com/search?q=Pioneer+Oil+Company%2C+Inc.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2024-04-16 | [`Lopesan Hotels`](https://google.com/search?q=Lopesan+Hotels) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2024-04-16 | [`https://www.upc.com.tw`](https://google.com/search?q=https%3A%2F%2Fwww.upc.com.tw) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-04-16 | [`Wright Brothers Cons truction`](https://google.com/search?q=Wright+Brothers+Cons+truction) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-04-16 | [`Medequip Assistive T echnology`](https://google.com/search?q=Medequip+Assistive+T+echnology) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
@@ -197,10 +204,3 @@ _last `200` posts_
 | 2024-04-02 | [`delhipolice.gov.in`](https://google.com/search?q=delhipolice.gov.in) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-04-02 | [`regencyfurniture.com\$369M\USA\300GB\&lt;1% DISCLOSED`](https://google.com/search?q=regencyfurniture.com%5C%24369M%5CUSA%5C300GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-04-02 | [`KICO GROUP`](https://google.com/search?q=KICO+GROUP) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
-| 2024-04-02 | [`GRUPOCREATIVO HERRERA`](https://google.com/search?q=GRUPOCREATIVO+HERRERA) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
-| 2024-04-02 | [`W.P.J. McCarthy and Company`](https://google.com/search?q=W.P.J.+McCarthy+and+Company) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
-| 2024-04-02 | [`Roberson &amp; Sons Insurance Services`](https://google.com/search?q=Roberson+%26amp%3B+Sons+Insurance+Services) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
-| 2024-04-02 | [`Fincasrevuelta Data Leak`](https://google.com/search?q=Fincasrevuelta+Data+Leak) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
-| 2024-04-02 | [`http://www.ppi-global.com`](https://google.com/search?q=http%3A%2F%2Fwww.ppi-global.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
-| 2024-04-02 | [`Crimsgroup Data Leak`](https://google.com/search?q=Crimsgroup+Data+Leak) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
-| 2024-04-02 | [`http://gaiaherbs.com`](https://google.com/search?q=http%3A%2F%2Fgaiaherbs.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
