@@ -4,6 +4,12 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-04-16 | [`City of St. Cloud, Florida`](https://google.com/search?q=City+of+St.+Cloud%2C+Florida) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
+| 2024-04-16 | [`aerodynamicinc.com\$22,6M\USA\1.1TB\100% DISCLOSED`](https://google.com/search?q=aerodynamicinc.com%5C%2422%2C6M%5CUSA%5C1.1TB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
+| 2024-04-16 | [`besttrans.com\$24.8M\USA\24GB\100% DISCLOSED`](https://google.com/search?q=besttrans.com%5C%2424.8M%5CUSA%5C24GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
+| 2024-04-16 | [`regencyfurniture.com\$369M\USA\300GB\100% DISCLOSED`](https://google.com/search?q=regencyfurniture.com%5C%24369M%5CUSA%5C300GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
+| 2024-04-16 | [`mcalvain.com\$199M\USA\175GB\100% DISCLOSED`](https://google.com/search?q=mcalvain.com%5C%24199M%5CUSA%5C175GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
+| 2024-04-16 | [`Lotz Trucking`](https://google.com/search?q=Lotz+Trucking) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-04-16 | [`St. Cloud Florida`](https://google.com/search?q=St.+Cloud+Florida) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-04-16 | [`UnivationTechnologies`](https://google.com/search?q=UnivationTechnologies) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
 | 2024-04-16 | [`Autoglass`](https://google.com/search?q=Autoglass) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
@@ -198,9 +204,3 @@ _last `200` posts_
 | 2024-04-02 | [`TUBEX Aluminium Tubes`](https://google.com/search?q=TUBEX+Aluminium+Tubes) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
 | 2024-04-02 | [`Boingo Graphics`](https://google.com/search?q=Boingo+Graphics) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-04-01 | [`http://www.pve-llc.com`](https://google.com/search?q=http%3A%2F%2Fwww.pve-llc.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
-| 2024-04-01 | [`PDQ Airspares`](https://google.com/search?q=PDQ+Airspares) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2024-04-01 | [`anwaltskanzlei-kaufbeuren.de`](https://google.com/search?q=anwaltskanzlei-kaufbeuren.de) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-04-01 | [`aerodynamicinc.com\$22,6M\USA\1.1TB\&lt;1% DISCLOSED`](https://google.com/search?q=aerodynamicinc.com%5C%2422%2C6M%5CUSA%5C1.1TB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2024-04-01 | [`besttrans.com\$24.8M\USA\24GB\&lt;1% DISCLOSED`](https://google.com/search?q=besttrans.com%5C%2424.8M%5CUSA%5C24GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2024-04-01 | [`Xenwerx Initiatives, LLC`](https://google.com/search?q=Xenwerx+Initiatives%2C+LLC) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2024-04-01 | [`Sisu Healthcare`](https://google.com/search?q=Sisu+Healthcare) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
