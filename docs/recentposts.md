@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-04-17 | [`Delano Joint Union High School District`](https://google.com/search?q=Delano+Joint+Union+High+School+District) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
+| 2024-04-17 | [`Serfilco, RP Adams,  Baron Blakeslee, Pac er, Service Filtrati on of Canada, Polyma r.`](https://google.com/search?q=Serfilco%2C+RP+Adams%2C++Baron+Blakeslee%2C+Pac+er%2C+Service+Filtrati+on+of+Canada%2C+Polyma+r.) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-04-17 | [`http://truenetcommunications.com`](https://google.com/search?q=http%3A%2F%2Ftruenetcommunications.com) | [ciphbit](https://ransomwatch.telemetry.ltd/#/profiles?id=ciphbit) |
 | 2024-04-17 | [`mcalvain.com\$199M\USA\1.2TB\100% DISCLOSED`](https://google.com/search?q=mcalvain.com%5C%24199M%5CUSA%5C1.2TB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-04-17 | [`drmarbys.com\$266.6M\USA\175GB\&lt;1% DISCLOSED`](https://google.com/search?q=drmarbys.com%5C%24266.6M%5CUSA%5C175GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-04-03 | [`Leicester City Council`](https://google.com/search?q=Leicester+City+Council) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2024-04-03 | [`Tamura Corporation`](https://google.com/search?q=Tamura+Corporation) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2024-04-03 | [`Samhwa Paint Ind. Ltd`](https://google.com/search?q=Samhwa+Paint+Ind.+Ltd) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2024-04-03 | [`Ringhoffer Verzahnungstechnik GmbH and Co. KG`](https://google.com/search?q=Ringhoffer+Verzahnungstechnik+GmbH+and+Co.+KG) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2024-04-03 | [`Pim`](https://google.com/search?q=Pim) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
