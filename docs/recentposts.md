@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-04-17 | [`http://www.dvelectronics.com`](https://google.com/search?q=http%3A%2F%2Fwww.dvelectronics.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-04-16 | [`Empresa de energía del Bajo Putumayo <eebpsa.com.co>`](https://google.com/search?q=Empresa+de+energ%C3%ADa+del+Bajo+Putumayo+%3Ceebpsa.com.co%3E) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-04-16 | [`[UPDATE] Robeson County Sheriff's Office <www.robesoncoso.org>`](https://google.com/search?q=%5BUPDATE%5D+Robeson+County+Sheriff%27s+Office+%3Cwww.robesoncoso.org%3E) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-04-16 | [`Change HealthCare - OPTUM Group - United HealthCare Group - FOR SALE`](https://google.com/search?q=Change+HealthCare+-+OPTUM+Group+-+United+HealthCare+Group+-+FOR+SALE) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-04-02 | [`casajove.com`](https://google.com/search?q=casajove.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-04-02 | [`delhipolice.gov.in`](https://google.com/search?q=delhipolice.gov.in) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-04-02 | [`regencyfurniture.com\$369M\USA\300GB\&lt;1% DISCLOSED`](https://google.com/search?q=regencyfurniture.com%5C%24369M%5CUSA%5C300GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2024-04-02 | [`KICO GROUP`](https://google.com/search?q=KICO+GROUP) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
