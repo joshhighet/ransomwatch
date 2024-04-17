@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-04-17 | [`Asteco`](https://google.com/search?q=Asteco) | [ransomexx](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomexx) |
 | 2024-04-17 | [`Delano Joint Union High School District`](https://google.com/search?q=Delano+Joint+Union+High+School+District) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2024-04-17 | [`Serfilco, RP Adams,  Baron Blakeslee, Pac er, Service Filtrati on of Canada, Polyma r.`](https://google.com/search?q=Serfilco%2C+RP+Adams%2C++Baron+Blakeslee%2C+Pac+er%2C+Service+Filtrati+on+of+Canada%2C+Polyma+r.) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-04-17 | [`http://truenetcommunications.com`](https://google.com/search?q=http%3A%2F%2Ftruenetcommunications.com) | [ciphbit](https://ransomwatch.telemetry.ltd/#/profiles?id=ciphbit) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-04-03 | [`http://ptai.com`](https://google.com/search?q=http%3A%2F%2Fptai.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-04-03 | [`Leicester City Council`](https://google.com/search?q=Leicester+City+Council) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2024-04-03 | [`Tamura Corporation`](https://google.com/search?q=Tamura+Corporation) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2024-04-03 | [`Samhwa Paint Ind. Ltd`](https://google.com/search?q=Samhwa+Paint+Ind.+Ltd) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
