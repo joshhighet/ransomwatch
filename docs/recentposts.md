@@ -4,6 +4,11 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-04-17 | [`http://truenetcommunications.com`](https://google.com/search?q=http%3A%2F%2Ftruenetcommunications.com) | [ciphbit](https://ransomwatch.telemetry.ltd/#/profiles?id=ciphbit) |
+| 2024-04-17 | [`mcalvain.com\$199M\USA\1.2TB\100% DISCLOSED`](https://google.com/search?q=mcalvain.com%5C%24199M%5CUSA%5C1.2TB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
+| 2024-04-17 | [`drmarbys.com\$266.6M\USA\175GB\&lt;1% DISCLOSED`](https://google.com/search?q=drmarbys.com%5C%24266.6M%5CUSA%5C175GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
+| 2024-04-17 | [`tristatetruckandequip.com`](https://google.com/search?q=tristatetruckandequip.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2024-04-17 | [`craigwire.com`](https://google.com/search?q=craigwire.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-04-17 | [`rehab.ie`](https://google.com/search?q=rehab.ie) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-04-17 | [`http://www.dvelectronics.com`](https://google.com/search?q=http%3A%2F%2Fwww.dvelectronics.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-04-16 | [`Empresa de energía del Bajo Putumayo <eebpsa.com.co>`](https://google.com/search?q=Empresa+de+energ%C3%ADa+del+Bajo+Putumayo+%3Ceebpsa.com.co%3E) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -199,8 +204,3 @@ _last `200` posts_
 | 2024-04-03 | [`Samhwa Paint Ind. Ltd`](https://google.com/search?q=Samhwa+Paint+Ind.+Ltd) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2024-04-03 | [`Ringhoffer Verzahnungstechnik GmbH and Co. KG`](https://google.com/search?q=Ringhoffer+Verzahnungstechnik+GmbH+and+Co.+KG) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2024-04-03 | [`Pim`](https://google.com/search?q=Pim) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2024-04-03 | [`Apex Business Advisory`](https://google.com/search?q=Apex+Business+Advisory) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2024-04-03 | [`Innomotive Systems Hainichen GmbH`](https://google.com/search?q=Innomotive+Systems+Hainichen+GmbH) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
-| 2024-04-03 | [`Seven Seas Technology`](https://google.com/search?q=Seven+Seas+Technology) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2024-04-02 | [`casajove.com`](https://google.com/search?q=casajove.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-04-02 | [`delhipolice.gov.in`](https://google.com/search?q=delhipolice.gov.in) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
