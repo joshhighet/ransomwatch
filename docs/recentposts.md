@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-04-18 | [`ht-hospitaltechnik.de`](https://google.com/search?q=ht-hospitaltechnik.de) | [blackout](https://ransomwatch.telemetry.ltd/#/profiles?id=blackout) |
+| 2024-04-18 | [`xdconnects.com\$50.5M\Netherlands\1TB\&lt;1% DISCLOSED`](https://google.com/search?q=xdconnects.com%5C%2450.5M%5CNetherlands%5C1TB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-04-18 | [`sagaciousresearch.com`](https://google.com/search?q=sagaciousresearch.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-04-18 | [`ablinc.com`](https://google.com/search?q=ablinc.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-04-18 | [`https://geodis.com`](https://google.com/search?q=https%3A%2F%2Fgeodis.com) | [alphalocker](https://ransomwatch.telemetry.ltd/#/profiles?id=alphalocker) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-04-03 | [`DataBank`](https://google.com/search?q=DataBank) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-04-03 | [`Citi Trends`](https://google.com/search?q=Citi+Trends) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-04-03 | [`Benetton Group`](https://google.com/search?q=Benetton+Group) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2024-04-03 | [`BeneCare Dental Insurance`](https://google.com/search?q=BeneCare+Dental+Insurance) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2024-04-03 | [`Beaver Run Resort`](https://google.com/search?q=Beaver+Run+Resort) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
