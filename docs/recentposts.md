@@ -4,6 +4,11 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-04-18 | [`Mercatino S.r.l.  https://www.mercatinousato.com/`](https://google.com/search?q=Mercatino+S.r.l.++https%3A%2F%2Fwww.mercatinousato.com%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-04-18 | [`Myers Automotive Gro up`](https://google.com/search?q=Myers+Automotive+Gro+up) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
+| 2024-04-18 | [`B Capital Group`](https://google.com/search?q=B+Capital+Group) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2024-04-18 | [`JE Owens and Company PA.`](https://google.com/search?q=JE+Owens+and+Company+PA.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2024-04-18 | [`Western Saw Inc.`](https://google.com/search?q=Western+Saw+Inc.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-04-18 | [`ht-hospitaltechnik.de`](https://google.com/search?q=ht-hospitaltechnik.de) | [blackout](https://ransomwatch.telemetry.ltd/#/profiles?id=blackout) |
 | 2024-04-18 | [`xdconnects.com\$50.5M\Netherlands\1TB\&lt;1% DISCLOSED`](https://google.com/search?q=xdconnects.com%5C%2450.5M%5CNetherlands%5C1TB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-04-18 | [`sagaciousresearch.com`](https://google.com/search?q=sagaciousresearch.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -199,8 +204,3 @@ _last `200` posts_
 | 2024-04-04 | [`Inspection Services`](https://google.com/search?q=Inspection+Services) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-04-04 | [`Remitano - Cryptocurrency Exchange`](https://google.com/search?q=Remitano+-+Cryptocurrency+Exchange) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2024-04-04 | [`mcalvain.com\$199M\USA\175GB\&lt;1% DISCLOSED`](https://google.com/search?q=mcalvain.com%5C%24199M%5CUSA%5C175GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2024-04-03 | [`Intersport`](https://google.com/search?q=Intersport) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2024-04-03 | [`Interface`](https://google.com/search?q=Interface) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2024-04-03 | [`DataBank`](https://google.com/search?q=DataBank) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2024-04-03 | [`Citi Trends`](https://google.com/search?q=Citi+Trends) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2024-04-03 | [`Benetton Group`](https://google.com/search?q=Benetton+Group) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
