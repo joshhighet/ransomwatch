@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-04-18 | [`dc.gov`](https://google.com/search?q=dc.gov) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-04-18 | [`Mercatino S.r.l.  https://www.mercatinousato.com/`](https://google.com/search?q=Mercatino+S.r.l.++https%3A%2F%2Fwww.mercatinousato.com%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-04-18 | [`Myers Automotive Gro up`](https://google.com/search?q=Myers+Automotive+Gro+up) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-04-18 | [`B Capital Group`](https://google.com/search?q=B+Capital+Group) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-04-04 | [`Radiant Canada`](https://google.com/search?q=Radiant+Canada) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-04-04 | [`Inspection Services`](https://google.com/search?q=Inspection+Services) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-04-04 | [`Remitano - Cryptocurrency Exchange`](https://google.com/search?q=Remitano+-+Cryptocurrency+Exchange) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2024-04-04 | [`mcalvain.com\$199M\USA\175GB\&lt;1% DISCLOSED`](https://google.com/search?q=mcalvain.com%5C%24199M%5CUSA%5C175GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
