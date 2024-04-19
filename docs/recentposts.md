@@ -4,6 +4,12 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-04-19 | [`Fluent Home General Information`](https://google.com/search?q=Fluent+Home+General+Information) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2024-04-19 | [`Macphie`](https://google.com/search?q=Macphie) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2024-04-19 | [`Cavotec`](https://google.com/search?q=Cavotec) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2024-04-19 | [`HYMER`](https://google.com/search?q=HYMER) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2024-04-19 | [`Hanwha`](https://google.com/search?q=Hanwha) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2024-04-19 | [`Columbia Pipe &amp; Supply Co.`](https://google.com/search?q=Columbia+Pipe+%26amp%3B+Supply+Co.) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-04-19 | [`call4health.com`](https://google.com/search?q=call4health.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-04-19 | [`Mid-South Health Systems`](https://google.com/search?q=Mid-South+Health+Systems) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-04-19 | [`sierraconstruction.ca`](https://google.com/search?q=sierraconstruction.ca) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -198,9 +204,3 @@ _last `200` posts_
 | 2024-04-05 | [`US government (private data) +Rothschild&Rockefeller`](https://google.com/search?q=US+government+%28private+data%29+%2BRothschild%26Rockefeller) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
 | 2024-04-05 | [`Seven Seas Group`](https://google.com/search?q=Seven+Seas+Group) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
 | 2024-04-05 | [`Retirement Line`](https://google.com/search?q=Retirement+Line) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
-| 2024-04-05 | [`Miki Travel Limited`](https://google.com/search?q=Miki+Travel+Limited) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
-| 2024-04-05 | [`Malabar Gold & Diamonds`](https://google.com/search?q=Malabar+Gold+%26+Diamonds) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
-| 2024-04-05 | [`Hawbaker Engineering`](https://google.com/search?q=Hawbaker+Engineering) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
-| 2024-04-05 | [`HSPG & Associates`](https://google.com/search?q=HSPG+%26+Associates) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
-| 2024-04-05 | [`Dörr Group`](https://google.com/search?q=D%C3%B6rr+Group) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
-| 2024-04-05 | [`Butler, Lavanceau & Sober`](https://google.com/search?q=Butler%2C+Lavanceau+%26+Sober) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
