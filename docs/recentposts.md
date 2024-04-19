@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-04-19 | [`call4health.com`](https://google.com/search?q=call4health.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-04-19 | [`Mid-South Health Systems`](https://google.com/search?q=Mid-South+Health+Systems) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-04-19 | [`sierraconstruction.ca`](https://google.com/search?q=sierraconstruction.ca) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-04-19 | [`SIS Automatisering`](https://google.com/search?q=SIS+Automatisering) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-04-05 | [`HSPG & Associates`](https://google.com/search?q=HSPG+%26+Associates) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
 | 2024-04-05 | [`Dörr Group`](https://google.com/search?q=D%C3%B6rr+Group) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
 | 2024-04-05 | [`Butler, Lavanceau & Sober`](https://google.com/search?q=Butler%2C+Lavanceau+%26+Sober) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
-| 2024-04-05 | [`Banco Promerica`](https://google.com/search?q=Banco+Promerica) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
