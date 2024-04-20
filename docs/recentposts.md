@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-04-20 | [`CYNC SOLUTIONS - The unexpected target.`](https://google.com/search?q=CYNC+SOLUTIONS+-+The+unexpected+target.) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-04-20 | [`kjf-augsburg.de`](https://google.com/search?q=kjf-augsburg.de) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-04-20 | [`eurosko.com`](https://google.com/search?q=eurosko.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-04-19 | [`Targus.com`](https://google.com/search?q=Targus.com) | [redransomware](https://ransomwatch.telemetry.ltd/#/profiles?id=redransomware) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-04-05 | [`truehomes.com`](https://google.com/search?q=truehomes.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-04-05 | [`emalon.co.il`](https://google.com/search?q=emalon.co.il) | [malekteam](https://ransomwatch.telemetry.ltd/#/profiles?id=malekteam) |
 | 2024-04-05 | [`Agencia Host <agenciahost.com>`](https://google.com/search?q=Agencia+Host+%3Cagenciahost.com%3E) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-04-05 | [`Doctorim`](https://google.com/search?q=Doctorim) | [malekteam](https://ransomwatch.telemetry.ltd/#/profiles?id=malekteam) |
