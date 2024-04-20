@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-04-20 | [`kjf-augsburg.de`](https://google.com/search?q=kjf-augsburg.de) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2024-04-20 | [`eurosko.com`](https://google.com/search?q=eurosko.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-04-19 | [`Targus.com`](https://google.com/search?q=Targus.com) | [redransomware](https://ransomwatch.telemetry.ltd/#/profiles?id=redransomware) |
 | 2024-04-19 | [`tascoplumbing.com`](https://google.com/search?q=tascoplumbing.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-04-19 | [`Fluent Home General Information`](https://google.com/search?q=Fluent+Home+General+Information) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-04-05 | [`emalon.co.il`](https://google.com/search?q=emalon.co.il) | [malekteam](https://ransomwatch.telemetry.ltd/#/profiles?id=malekteam) |
 | 2024-04-05 | [`Agencia Host <agenciahost.com>`](https://google.com/search?q=Agencia+Host+%3Cagenciahost.com%3E) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-04-05 | [`Doctorim`](https://google.com/search?q=Doctorim) | [malekteam](https://ransomwatch.telemetry.ltd/#/profiles?id=malekteam) |
-| 2024-04-05 | [`http://commercedentistry.com`](https://google.com/search?q=http%3A%2F%2Fcommercedentistry.com) | [ciphbit](https://ransomwatch.telemetry.ltd/#/profiles?id=ciphbit) |
-| 2024-04-05 | [`US government (private data) +Rothschild&Rockefeller`](https://google.com/search?q=US+government+%28private+data%29+%2BRothschild%26Rockefeller) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
