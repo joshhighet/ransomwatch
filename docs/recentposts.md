@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-04-20 | [`Continuing Healthcare Solutions`](https://google.com/search?q=Continuing+Healthcare+Solutions) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2024-04-20 | [`Lutheran Social Services of Indiana`](https://google.com/search?q=Lutheran+Social+Services+of+Indiana) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2024-04-20 | [`CYNC SOLUTIONS - The unexpected target.`](https://google.com/search?q=CYNC+SOLUTIONS+-+The+unexpected+target.) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-04-20 | [`kjf-augsburg.de`](https://google.com/search?q=kjf-augsburg.de) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-04-06 | [`http://www.termoplastic.it`](https://google.com/search?q=http%3A%2F%2Fwww.termoplastic.it) | [ciphbit](https://ransomwatch.telemetry.ltd/#/profiles?id=ciphbit) |
 | 2024-04-05 | [`Good Morning`](https://google.com/search?q=Good+Morning) | [donutleaks](https://ransomwatch.telemetry.ltd/#/profiles?id=donutleaks) |
 | 2024-04-05 | [`truehomes.com`](https://google.com/search?q=truehomes.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-04-05 | [`emalon.co.il`](https://google.com/search?q=emalon.co.il) | [malekteam](https://ransomwatch.telemetry.ltd/#/profiles?id=malekteam) |
