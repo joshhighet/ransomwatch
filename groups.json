@@ -5793,5 +5793,25 @@
             }
         ],
         "profile": []
+    },
+    {
+        "name": "hellogookie",
+        "captcha": false,
+        "parser": false,
+        "javascript_render": false,
+        "meta": null,
+        "locations": [
+            {
+                "fqdn": "gookie256cvccntvenyxrvn7ht73bs6ss3oj2ocfkjt5y6vq6gfi2tad.onion",
+                "title": "HelloGookie",
+                "version": 3,
+                "slug": "http://gookie256cvccntvenyxrvn7ht73bs6ss3oj2ocfkjt5y6vq6gfi2tad.onion",
+                "available": true,
+                "updated": "2024-04-21 19:19:59.630655",
+                "lastscrape": "2024-04-21 19:19:59.630646",
+                "enabled": true
+            }
+        ],
+        "profile": []
     }
 ]

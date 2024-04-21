@@ -1410,3 +1410,14 @@ def darkvault():
         errlog('darkvault: ' + 'parsing fail')
     for post in posts:
         appender(post, 'darkvault')
+
+def hellogookie():
+    stdlog('parser: ' + 'hellogookie')
+    parser = '''
+    awk '/<h5 class="card-title">/{getline; gsub(/^[[:space:]]+|[[:space:]]+$/, ""); print}' source/hellogookie-*.html || true
+    '''
+    posts = runshellcmd(parser)
+    if len(posts) == 1:
+        errlog('hellogookie: ' + 'parsing fail')
+    for post in posts:
+        appender(post, 'hellogookie')
