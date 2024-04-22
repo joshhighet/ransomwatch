@@ -4,6 +4,10 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-04-22 | [`Company PA.`](https://google.com/search?q=Company+PA.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2024-04-22 | [`D'amico and Pettinicchi, LLC`](https://google.com/search?q=D%27amico+and+Pettinicchi%2C+LLC) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2024-04-22 | [`Optometric Physicians of Middle Tennessee`](https://google.com/search?q=Optometric+Physicians+of+Middle+Tennessee) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2024-04-22 | [`Texas Retina Associates`](https://google.com/search?q=Texas+Retina+Associates) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-04-22 | [`saglobal.com\$243.7M\USA\41GB\100%DISCLOSED`](https://google.com/search?q=saglobal.com%5C%24243.7M%5CUSA%5C41GB%5C100%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-04-22 | [`concordegroup.ca\$150M\CANADA\2GB\100%DISCLOSED `](https://google.com/search?q=concordegroup.ca%5C%24150M%5CCANADA%5C2GB%5C100%25DISCLOSED+) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-04-22 | [`ebir.com\$5M\SPAIN\200MB\100%DISCLOSED`](https://google.com/search?q=ebir.com%5C%245M%5CSPAIN%5C200MB%5C100%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
@@ -200,7 +204,3 @@ _last `200` posts_
 | 2024-04-09 | [`Consilux (Brazil)`](https://google.com/search?q=Consilux+%28Brazil%29) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-04-09 | [`http://jmheaford.com`](https://google.com/search?q=http%3A%2F%2Fjmheaford.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-04-09 | [`http://blaineschools.org`](https://google.com/search?q=http%3A%2F%2Fblaineschools.org) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
-| 2024-04-09 | [`Central Carolina Insurance Agency Inc.`](https://google.com/search?q=Central+Carolina+Insurance+Agency+Inc.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2024-04-09 | [`Panacea Healthcare Services`](https://google.com/search?q=Panacea+Healthcare+Services) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2024-04-09 | [`T A Khoury`](https://google.com/search?q=T+A+Khoury) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2024-04-09 | [`http://www.eagle-hydraulic.com`](https://google.com/search?q=http%3A%2F%2Fwww.eagle-hydraulic.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
