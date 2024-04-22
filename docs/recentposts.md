@@ -4,6 +4,15 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-04-22 | [`saglobal.com\$243.7M\USA\41GB\100%DISCLOSED`](https://google.com/search?q=saglobal.com%5C%24243.7M%5CUSA%5C41GB%5C100%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
+| 2024-04-22 | [`concordegroup.ca\$150M\CANADA\2GB\100%DISCLOSED `](https://google.com/search?q=concordegroup.ca%5C%24150M%5CCANADA%5C2GB%5C100%25DISCLOSED+) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
+| 2024-04-22 | [`ebir.com\$5M\SPAIN\200MB\100%DISCLOSED`](https://google.com/search?q=ebir.com%5C%245M%5CSPAIN%5C200MB%5C100%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
+| 2024-04-22 | [`coastalcargogroup.com\$36.6M\USA\3GB\100%DISCLOSED`](https://google.com/search?q=coastalcargogroup.com%5C%2436.6M%5CUSA%5C3GB%5C100%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
+| 2024-04-22 | [`Wasserkraft Volk AG`](https://google.com/search?q=Wasserkraft+Volk+AG) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2024-04-22 | [`The Tech Interactive`](https://google.com/search?q=The+Tech+Interactive) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2024-04-22 | [`Speedy France`](https://google.com/search?q=Speedy+France) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2024-04-22 | [`FEB31st`](https://google.com/search?q=FEB31st) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2024-04-22 | [`Bieler + Lang GmbH`](https://google.com/search?q=Bieler+%2B+Lang+GmbH) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2024-04-22 | [`charlesparsons (Attack again)`](https://google.com/search?q=charlesparsons+%28Attack+again%29) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
 | 2024-04-22 | [`Ma****in`](https://google.com/search?q=Ma%2A%2A%2A%2Ain) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
 | 2024-04-22 | [`La****up`](https://google.com/search?q=La%2A%2A%2A%2Aup) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
@@ -195,12 +204,3 @@ _last `200` posts_
 | 2024-04-09 | [`Panacea Healthcare Services`](https://google.com/search?q=Panacea+Healthcare+Services) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-04-09 | [`T A Khoury`](https://google.com/search?q=T+A+Khoury) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-04-09 | [`http://www.eagle-hydraulic.com`](https://google.com/search?q=http%3A%2F%2Fwww.eagle-hydraulic.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
-| 2024-04-09 | [`http://multi-fill.com`](https://google.com/search?q=http%3A%2F%2Fmulti-fill.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
-| 2024-04-09 | [`http://www.brewerfire.com`](https://google.com/search?q=http%3A%2F%2Fwww.brewerfire.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
-| 2024-04-09 | [`http://olea.com`](https://google.com/search?q=http%3A%2F%2Folea.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
-| 2024-04-09 | [`http://www.hudson4supplies.com`](https://google.com/search?q=http%3A%2F%2Fwww.hudson4supplies.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
-| 2024-04-09 | [`http://homeocan.ca`](https://google.com/search?q=http%3A%2F%2Fhomeocan.ca) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
-| 2024-04-09 | [`http://www.macuz.it`](https://google.com/search?q=http%3A%2F%2Fwww.macuz.it) | [ciphbit](https://ransomwatch.telemetry.ltd/#/profiles?id=ciphbit) |
-| 2024-04-09 | [`Skyway Coach Lines and Shuttle Services   --   skywaycoach.ca`](https://google.com/search?q=Skyway+Coach+Lines+and+Shuttle+Services+++--+++skywaycoach.ca) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-04-08 | [`Paulmann Licht`](https://google.com/search?q=Paulmann+Licht) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2024-04-08 | [`REV Drill Sales & Re ntals`](https://google.com/search?q=REV+Drill+Sales+%26+Re+ntals) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
