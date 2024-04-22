@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-04-22 | [`charlesparsons (Attack again)`](https://google.com/search?q=charlesparsons+%28Attack+again%29) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
+| 2024-04-22 | [`Ma****in`](https://google.com/search?q=Ma%2A%2A%2A%2Ain) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
+| 2024-04-22 | [`La****up`](https://google.com/search?q=La%2A%2A%2A%2Aup) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
 | 2024-04-21 | [`Hey everyone! Some private keys here.`](https://google.com/search?q=Hey+everyone%21+Some+private+keys+here.) | [hellogookie](https://ransomwatch.telemetry.ltd/#/profiles?id=hellogookie) |
 | 2024-04-21 | [`Hey cisco!`](https://google.com/search?q=Hey+cisco%21) | [hellogookie](https://ransomwatch.telemetry.ltd/#/profiles?id=hellogookie) |
 | 2024-04-21 | [`CD Projekt!`](https://google.com/search?q=CD+Projekt%21) | [hellogookie](https://ransomwatch.telemetry.ltd/#/profiles?id=hellogookie) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2024-04-09 | [`Skyway Coach Lines and Shuttle Services   --   skywaycoach.ca`](https://google.com/search?q=Skyway+Coach+Lines+and+Shuttle+Services+++--+++skywaycoach.ca) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-04-08 | [`Paulmann Licht`](https://google.com/search?q=Paulmann+Licht) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-04-08 | [`REV Drill Sales & Re ntals`](https://google.com/search?q=REV+Drill+Sales+%26+Re+ntals) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2024-04-08 | [`PGF Technology Group`](https://google.com/search?q=PGF+Technology+Group) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2024-04-08 | [`PHARMACY ETTORE FLORIO SNC - Online Pharmacy Italy <www.farmaciaflorio.com>`](https://google.com/search?q=PHARMACY+ETTORE+FLORIO+SNC+-+Online+Pharmacy+Italy+%3Cwww.farmaciaflorio.com%3E) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-04-08 | [`Z Development Services, LLC`](https://google.com/search?q=Z+Development+Services%2C+LLC) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
