@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-04-24 | [`https://goftac.com/    firsttx.com  First Texas Alliance Corp   (FTAC)`](https://google.com/search?q=https%3A%2F%2Fgoftac.com%2F++++firsttx.com++First+Texas+Alliance+Corp+++%28FTAC%29) | [alphalocker](https://ransomwatch.telemetry.ltd/#/profiles?id=alphalocker) |
+| 2024-04-24 | [`Army Welfare Trust`](https://google.com/search?q=Army+Welfare+Trust) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2024-04-24 | [`CYNC SOLUTIONS - The unexpected target.<Updated>`](https://google.com/search?q=CYNC+SOLUTIONS+-+The+unexpected+target.%3CUpdated%3E) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-04-24 | [`Hirsh Industries`](https://google.com/search?q=Hirsh+Industries) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2024-04-23 | [`https://www.octapharmaplasma.com/`](https://google.com/search?q=https%3A%2F%2Fwww.octapharmaplasma.com%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-04-10 | [`Robertson Cheatham Farmers`](https://google.com/search?q=Robertson+Cheatham+Farmers) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-04-10 | [`Samart`](https://google.com/search?q=Samart) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-04-10 | [`specialoilfield.com`](https://google.com/search?q=specialoilfield.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-04-09 | [`PROCESS SOLUTIONS`](https://google.com/search?q=PROCESS+SOLUTIONS) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2024-04-09 | [`Numotion`](https://google.com/search?q=Numotion) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
