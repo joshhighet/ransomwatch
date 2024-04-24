@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-04-24 | [`Hirsh Industries`](https://google.com/search?q=Hirsh+Industries) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2024-04-23 | [`https://www.octapharmaplasma.com/`](https://google.com/search?q=https%3A%2F%2Fwww.octapharmaplasma.com%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-04-23 | [`xdconnects.com\$50.5M\Netherlands\1TB\100% DISCLOSED`](https://google.com/search?q=xdconnects.com%5C%2450.5M%5CNetherlands%5C1TB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-04-23 | [`Ministerio de Desarrollo Local`](https://google.com/search?q=Ministerio+de+Desarrollo+Local) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-04-09 | [`PROCESS SOLUTIONS`](https://google.com/search?q=PROCESS+SOLUTIONS) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-04-09 | [`Numotion`](https://google.com/search?q=Numotion) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-04-09 | [`Siemens`](https://google.com/search?q=Siemens) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2024-04-09 | [`Sermo`](https://google.com/search?q=Sermo) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
