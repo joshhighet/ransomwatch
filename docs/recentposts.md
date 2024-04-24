@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-04-24 | [`Central Power Systems and Services`](https://google.com/search?q=Central+Power+Systems+and+Services) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
+| 2024-04-24 | [`http://petercondakes.com`](https://google.com/search?q=http%3A%2F%2Fpetercondakes.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-04-24 | [`Mainwein`](https://google.com/search?q=Mainwein) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
 | 2024-04-24 | [`CORIENT <rhbco.com>`](https://google.com/search?q=CORIENT+%3Crhbco.com%3E) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-04-24 | [`EUROPEANPROF - Expertos en Seguridad y Altura - <europeanprof.es>`](https://google.com/search?q=EUROPEANPROF+-+Expertos+en+Seguridad+y+Altura+-+%3Ceuropeanprof.es%3E) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-04-11 | [`agribazaar.com`](https://google.com/search?q=agribazaar.com) | [darkvault](https://ransomwatch.telemetry.ltd/#/profiles?id=darkvault) |
 | 2024-04-11 | [`wexer.com`](https://google.com/search?q=wexer.com) | [darkvault](https://ransomwatch.telemetry.ltd/#/profiles?id=darkvault) |
 | 2024-04-11 | [`Oki Golf`](https://google.com/search?q=Oki+Golf) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2024-04-10 | [`F???s???? & ??????t`](https://google.com/search?q=F%3F%3F%3Fs%3F%3F%3F%3F+%26+%3F%3F%3F%3F%3F%3Ft) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-04-10 | [`Inszone Insurance Services`](https://google.com/search?q=Inszone+Insurance+Services) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
