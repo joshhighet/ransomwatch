@@ -4,6 +4,12 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-04-25 | [`www.rosalvoautomoveis.com.br`](https://google.com/search?q=www.rosalvoautomoveis.com.br) | [qiulong](https://ransomwatch.telemetry.ltd/#/profiles?id=qiulong) |
+| 2024-04-25 | [`www.drlincoln.com.br`](https://google.com/search?q=www.drlincoln.com.br) | [qiulong](https://ransomwatch.telemetry.ltd/#/profiles?id=qiulong) |
+| 2024-04-25 | [`draandrearechia.com.br`](https://google.com/search?q=draandrearechia.com.br) | [qiulong](https://ransomwatch.telemetry.ltd/#/profiles?id=qiulong) |
+| 2024-04-25 | [`www.drwilliansegalin.com.br`](https://google.com/search?q=www.drwilliansegalin.com.br) | [qiulong](https://ransomwatch.telemetry.ltd/#/profiles?id=qiulong) |
+| 2024-04-25 | [`hominemclinic.com.br`](https://google.com/search?q=hominemclinic.com.br) | [qiulong](https://ransomwatch.telemetry.ltd/#/profiles?id=qiulong) |
+| 2024-04-25 | [`www.trifecta.com`](https://google.com/search?q=www.trifecta.com) | [apt73](https://ransomwatch.telemetry.ltd/#/profiles?id=apt73) |
 | 2024-04-25 | [`bzrastreador.com.br`](https://google.com/search?q=bzrastreador.com.br) | [darkvault](https://ransomwatch.telemetry.ltd/#/profiles?id=darkvault) |
 | 2024-04-24 | [`Central Power Systems and Services`](https://google.com/search?q=Central+Power+Systems+and+Services) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-04-24 | [`http://petercondakes.com`](https://google.com/search?q=http%3A%2F%2Fpetercondakes.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
@@ -198,9 +204,3 @@ _last `200` posts_
 | 2024-04-11 | [`hawkremote.com`](https://google.com/search?q=hawkremote.com) | [darkvault](https://ransomwatch.telemetry.ltd/#/profiles?id=darkvault) |
 | 2024-04-11 | [`hirebus.com`](https://google.com/search?q=hirebus.com) | [darkvault](https://ransomwatch.telemetry.ltd/#/profiles?id=darkvault) |
 | 2024-04-11 | [`ezeldsolutions.com`](https://google.com/search?q=ezeldsolutions.com) | [darkvault](https://ransomwatch.telemetry.ltd/#/profiles?id=darkvault) |
-| 2024-04-11 | [`zanebenefits.com`](https://google.com/search?q=zanebenefits.com) | [darkvault](https://ransomwatch.telemetry.ltd/#/profiles?id=darkvault) |
-| 2024-04-11 | [`taskhound.com`](https://google.com/search?q=taskhound.com) | [darkvault](https://ransomwatch.telemetry.ltd/#/profiles?id=darkvault) |
-| 2024-04-11 | [`lankacom.net`](https://google.com/search?q=lankacom.net) | [darkvault](https://ransomwatch.telemetry.ltd/#/profiles?id=darkvault) |
-| 2024-04-11 | [`adachikan.com`](https://google.com/search?q=adachikan.com) | [darkvault](https://ransomwatch.telemetry.ltd/#/profiles?id=darkvault) |
-| 2024-04-11 | [`agribazaar.com`](https://google.com/search?q=agribazaar.com) | [darkvault](https://ransomwatch.telemetry.ltd/#/profiles?id=darkvault) |
-| 2024-04-11 | [`wexer.com`](https://google.com/search?q=wexer.com) | [darkvault](https://ransomwatch.telemetry.ltd/#/profiles?id=darkvault) |
