@@ -1421,3 +1421,14 @@ def hellogookie():
         errlog('hellogookie: ' + 'parsing fail')
     for post in posts:
         appender(post, 'hellogookie')
+
+def apt73():
+    stdlog('parser: ' + 'apt73')
+    parser = '''
+    grep "class='segment__text__off'" source/apt73-*.html | sed -n "s/.*<div class='segment__text__off'>\([^<]*\)<\/div.*/\\1/p"
+    '''
+    posts = runshellcmd(parser)
+    if len(posts) == 1:
+        errlog('apt73: ' + 'parsing fail')
+    for post in posts:
+        appender(post, 'apt73')

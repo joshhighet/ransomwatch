@@ -303,4 +303,5 @@ if args.mode == 'parse':
     parsers.redransomware()
     parsers.darkvault()
     parsers.hellogookie()
+    parsers.apt73()
     stdlog('ransomwatch: ' + 'parse run complete')
