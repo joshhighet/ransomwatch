@@ -1432,3 +1432,14 @@ def apt73():
         errlog('apt73: ' + 'parsing fail')
     for post in posts:
         appender(post, 'apt73')
+
+def qiulong():
+    stdlog('parser: ' + 'qiulong')
+    parser = '''
+    grep '<h1 class="entry-title">' source/qiulong-*.html | cut -d '>' -f 3 | cut -d '<' -f 1
+    '''
+    posts = runshellcmd(parser)
+    if len(posts) == 1:
+        errlog('qiulong: ' + 'parsing fail')
+    for post in posts:
+        appender(post, 'qiulong')
