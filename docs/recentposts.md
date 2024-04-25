@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-04-25 | [`bzrastreador.com.br`](https://google.com/search?q=bzrastreador.com.br) | [darkvault](https://ransomwatch.telemetry.ltd/#/profiles?id=darkvault) |
 | 2024-04-24 | [`Central Power Systems and Services`](https://google.com/search?q=Central+Power+Systems+and+Services) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-04-24 | [`http://petercondakes.com`](https://google.com/search?q=http%3A%2F%2Fpetercondakes.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-04-24 | [`Mainwein`](https://google.com/search?q=Mainwein) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-04-11 | [`adachikan.com`](https://google.com/search?q=adachikan.com) | [darkvault](https://ransomwatch.telemetry.ltd/#/profiles?id=darkvault) |
 | 2024-04-11 | [`agribazaar.com`](https://google.com/search?q=agribazaar.com) | [darkvault](https://ransomwatch.telemetry.ltd/#/profiles?id=darkvault) |
 | 2024-04-11 | [`wexer.com`](https://google.com/search?q=wexer.com) | [darkvault](https://ransomwatch.telemetry.ltd/#/profiles?id=darkvault) |
-| 2024-04-11 | [`Oki Golf`](https://google.com/search?q=Oki+Golf) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
