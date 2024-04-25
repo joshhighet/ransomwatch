@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-04-25 | [`CDSHotels`](https://google.com/search?q=CDSHotels) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
+| 2024-04-25 | [`Les Miroirs St-Antoine Inc`](https://google.com/search?q=Les+Miroirs+St-Antoine+Inc) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2024-04-25 | [`www.rosalvoautomoveis.com.br`](https://google.com/search?q=www.rosalvoautomoveis.com.br) | [qiulong](https://ransomwatch.telemetry.ltd/#/profiles?id=qiulong) |
 | 2024-04-25 | [`www.drlincoln.com.br`](https://google.com/search?q=www.drlincoln.com.br) | [qiulong](https://ransomwatch.telemetry.ltd/#/profiles?id=qiulong) |
 | 2024-04-25 | [`draandrearechia.com.br`](https://google.com/search?q=draandrearechia.com.br) | [qiulong](https://ransomwatch.telemetry.ltd/#/profiles?id=qiulong) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-04-11 | [`Se****bH`](https://google.com/search?q=Se%2A%2A%2A%2AbH) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
 | 2024-04-11 | [`hawkremote2.com`](https://google.com/search?q=hawkremote2.com) | [darkvault](https://ransomwatch.telemetry.ltd/#/profiles?id=darkvault) |
 | 2024-04-11 | [`hawkremote.com`](https://google.com/search?q=hawkremote.com) | [darkvault](https://ransomwatch.telemetry.ltd/#/profiles?id=darkvault) |
-| 2024-04-11 | [`hirebus.com`](https://google.com/search?q=hirebus.com) | [darkvault](https://ransomwatch.telemetry.ltd/#/profiles?id=darkvault) |
-| 2024-04-11 | [`ezeldsolutions.com`](https://google.com/search?q=ezeldsolutions.com) | [darkvault](https://ransomwatch.telemetry.ltd/#/profiles?id=darkvault) |
