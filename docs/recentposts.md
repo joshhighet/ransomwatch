@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-04-26 | [`Hong Kong College of Technology`](https://google.com/search?q=Hong+Kong+College+of+Technology) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2024-04-26 | [`Design Intoto <www.designintoto.com.au>`](https://google.com/search?q=Design+Intoto+%3Cwww.designintoto.com.au%3E) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-04-26 | [`Precision Time Systems <www.precisiontimesystems.com>`](https://google.com/search?q=Precision+Time+Systems+%3Cwww.precisiontimesystems.com%3E) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-04-26 | [`Jutebag <www.jutebag.co.uk>`](https://google.com/search?q=Jutebag+%3Cwww.jutebag.co.uk%3E) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-04-11 | [`Missouri Electric Co operatives`](https://google.com/search?q=Missouri+Electric+Co+operatives) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-04-11 | [`Optima Manufacturing`](https://google.com/search?q=Optima+Manufacturing) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-04-11 | [`Gimex`](https://google.com/search?q=Gimex) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
-| 2024-04-11 | [`Victor Fauconnier`](https://google.com/search?q=Victor+Fauconnier) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
