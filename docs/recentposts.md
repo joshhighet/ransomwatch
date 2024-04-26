@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-04-26 | [`Design Intoto <www.designintoto.com.au>`](https://google.com/search?q=Design+Intoto+%3Cwww.designintoto.com.au%3E) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-04-26 | [`Precision Time Systems <www.precisiontimesystems.com>`](https://google.com/search?q=Precision+Time+Systems+%3Cwww.precisiontimesystems.com%3E) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-04-26 | [`Jutebag <www.jutebag.co.uk>`](https://google.com/search?q=Jutebag+%3Cwww.jutebag.co.uk%3E) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-04-26 | [`Protected: HIDE NAME SELL DATA SOON`](https://google.com/search?q=Protected%3A+HIDE+NAME+SELL+DATA+SOON) | [ransomblog_noname](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomblog_noname) |
 | 2024-04-25 | [`atriline.by`](https://google.com/search?q=atriline.by) | [darkvault](https://ransomwatch.telemetry.ltd/#/profiles?id=darkvault) |
 | 2024-04-25 | [`CDSHotels`](https://google.com/search?q=CDSHotels) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2024-04-11 | [`Optima Manufacturing`](https://google.com/search?q=Optima+Manufacturing) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-04-11 | [`Gimex`](https://google.com/search?q=Gimex) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
 | 2024-04-11 | [`Victor Fauconnier`](https://google.com/search?q=Victor+Fauconnier) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
-| 2024-04-11 | [`Un****es`](https://google.com/search?q=Un%2A%2A%2A%2Aes) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
-| 2024-04-11 | [`Al****ch`](https://google.com/search?q=Al%2A%2A%2A%2Ach) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
-| 2024-04-11 | [`Se****bH`](https://google.com/search?q=Se%2A%2A%2A%2AbH) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
