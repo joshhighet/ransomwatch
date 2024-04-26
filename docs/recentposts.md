@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-04-26 | [`melting-mind.de`](https://google.com/search?q=melting-mind.de) | [apt73](https://ransomwatch.telemetry.ltd/#/profiles?id=apt73) |
+| 2024-04-26 | [`taylorlaw.net`](https://google.com/search?q=taylorlaw.net) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-04-26 | [`sandipuniversity.edu.in`](https://google.com/search?q=sandipuniversity.edu.in) | [darkvault](https://ransomwatch.telemetry.ltd/#/profiles?id=darkvault) |
 | 2024-04-26 | [`iddink.nl\$80.1M\NL\460GB\&lt;1%DISCLOSED`](https://google.com/search?q=iddink.nl%5C%2480.1M%5CNL%5C460GB%5C%26lt%3B1%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-04-26 | [`SSS Australia`](https://google.com/search?q=SSS+Australia) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-04-11 | [`Theatrixx Technologies`](https://google.com/search?q=Theatrixx+Technologies) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-04-11 | [`The MBTW Group`](https://google.com/search?q=The+MBTW+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-04-11 | [`New England Wooden Ware`](https://google.com/search?q=New+England+Wooden+Ware) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-04-11 | [`MoldTech`](https://google.com/search?q=MoldTech) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-04-11 | [`LS Networks`](https://google.com/search?q=LS+Networks) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
