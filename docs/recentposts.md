@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-04-27 | [`polaris-SOLUCIONES TECNOLÓGICAS PARA EMPRESAS   -- polaris.es`](https://google.com/search?q=polaris-SOLUCIONES+TECNOL%C3%93GICAS+PARA+EMPRESAS+++--+polaris.es) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-04-27 | [`hospitalescultural.com.br`](https://google.com/search?q=hospitalescultural.com.br) | [qiulong](https://ransomwatch.telemetry.ltd/#/profiles?id=qiulong) |
 | 2024-04-27 | [`Lawrence Group`](https://google.com/search?q=Lawrence+Group) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-04-26 | [`Yale Mortgage`](https://google.com/search?q=Yale+Mortgage) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-04-12 | [`H??????? C??????????`](https://google.com/search?q=H%3F%3F%3F%3F%3F%3F%3F+C%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-04-12 | [`Feldstein & Stewart`](https://google.com/search?q=Feldstein+%26+Stewart) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-04-12 | [`Agate Construction`](https://google.com/search?q=Agate+Construction) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-04-12 | [`Snchez-Betances Sifr e & Muñoz-Noya`](https://google.com/search?q=Snchez-Betances+Sifr+e+%26+Mu%C3%B1oz-Noya) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
