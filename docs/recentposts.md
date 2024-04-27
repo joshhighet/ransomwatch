@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-04-27 | [`http://htw.com.au`](https://google.com/search?q=http%3A%2F%2Fhtw.com.au) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-04-27 | [`Human Technology Inc.`](https://google.com/search?q=Human+Technology+Inc.) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2024-04-27 | [`sesenergy.org`](https://google.com/search?q=sesenergy.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-04-27 | [`polaris-SOLUCIONES TECNOLÓGICAS PARA EMPRESAS   -- polaris.es`](https://google.com/search?q=polaris-SOLUCIONES+TECNOL%C3%93GICAS+PARA+EMPRESAS+++--+polaris.es) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-04-12 | [`Notions Marketing`](https://google.com/search?q=Notions+Marketing) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-04-12 | [`Jordano's Inc.`](https://google.com/search?q=Jordano%27s+Inc.) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-04-12 | [`Bojangles’ International`](https://google.com/search?q=Bojangles%E2%80%99+International) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2024-04-12 | [`H??????? C??????????`](https://google.com/search?q=H%3F%3F%3F%3F%3F%3F%3F+C%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
