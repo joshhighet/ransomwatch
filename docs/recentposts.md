@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-04-27 | [`Lawrence Group`](https://google.com/search?q=Lawrence+Group) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-04-26 | [`Yale Mortgage`](https://google.com/search?q=Yale+Mortgage) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-04-26 | [`Toolmarts`](https://google.com/search?q=Toolmarts) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-04-26 | [`Precision Fluid Controls`](https://google.com/search?q=Precision+Fluid+Controls) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-04-12 | [`Agate Construction`](https://google.com/search?q=Agate+Construction) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-04-12 | [`Snchez-Betances Sifr e & Muñoz-Noya`](https://google.com/search?q=Snchez-Betances+Sifr+e+%26+Mu%C3%B1oz-Noya) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-04-12 | [`Robeson County Sheriff's Office <www.robesoncoso.org>`](https://google.com/search?q=Robeson+County+Sheriff%27s+Office+%3Cwww.robesoncoso.org%3E) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-04-12 | [`https://themcpgroup.com/`](https://google.com/search?q=https%3A%2F%2Fthemcpgroup.com%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
