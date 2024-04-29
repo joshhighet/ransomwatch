@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-04-29 | [`The Line Up, Inc`](https://google.com/search?q=The+Line+Up%2C+Inc) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2024-04-29 | [`Medizinische Grosshandlung GmbH`](https://google.com/search?q=Medizinische+Grosshandlung+GmbH) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2024-04-29 | [`Lumina Americas`](https://google.com/search?q=Lumina+Americas) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2024-04-28 | [`Magicolor`](https://google.com/search?q=Magicolor) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-04-27 | [`http://htw.com.au`](https://google.com/search?q=http%3A%2F%2Fhtw.com.au) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-04-27 | [`Human Technology Inc.`](https://google.com/search?q=Human+Technology+Inc.) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2024-04-13 | [`Caxton and CTP Publishers and Printers`](https://google.com/search?q=Caxton+and+CTP+Publishers+and+Printers) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-04-12 | [`oraclecms.com`](https://google.com/search?q=oraclecms.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-04-12 | [`thsp.co.uk`](https://google.com/search?q=thsp.co.uk) | [darkvault](https://ransomwatch.telemetry.ltd/#/profiles?id=darkvault) |
-| 2024-04-12 | [`tommyclub.co.uk`](https://google.com/search?q=tommyclub.co.uk) | [darkvault](https://ransomwatch.telemetry.ltd/#/profiles?id=darkvault) |
-| 2024-04-12 | [`Notions Marketing`](https://google.com/search?q=Notions+Marketing) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2024-04-12 | [`Jordano's Inc.`](https://google.com/search?q=Jordano%27s+Inc.) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
