@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-04-30 | [`ch-cannes.fr`](https://google.com/search?q=ch-cannes.fr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-04-29 | [`The Line Up, Inc`](https://google.com/search?q=The+Line+Up%2C+Inc) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2024-04-29 | [`Medizinische Grosshandlung GmbH`](https://google.com/search?q=Medizinische+Grosshandlung+GmbH) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2024-04-29 | [`Lumina Americas`](https://google.com/search?q=Lumina+Americas) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-04-13 | [`Frederick Wildman and Sons`](https://google.com/search?q=Frederick+Wildman+and+Sons) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-04-13 | [`Caxton and CTP Publishers and Printers`](https://google.com/search?q=Caxton+and+CTP+Publishers+and+Printers) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-04-12 | [`oraclecms.com`](https://google.com/search?q=oraclecms.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-04-12 | [`thsp.co.uk`](https://google.com/search?q=thsp.co.uk) | [darkvault](https://ransomwatch.telemetry.ltd/#/profiles?id=darkvault) |
