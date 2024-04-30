@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-04-30 | [`Mellitah Oil & Gas / Enigas Ly (Eni Electricity, Oil & Gas)`](https://google.com/search?q=Mellitah+Oil+%26+Gas+%2F+Enigas+Ly+%28Eni+Electricity%2C+Oil+%26+Gas%29) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-04-30 | [`Black Diamond Capital Management`](https://google.com/search?q=Black+Diamond+Capital+Management) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-04-30 | [`ch-cannes.fr`](https://google.com/search?q=ch-cannes.fr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-04-29 | [`The Line Up, Inc`](https://google.com/search?q=The+Line+Up%2C+Inc) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-04-13 | [`Kablutronik SRL`](https://google.com/search?q=Kablutronik+SRL) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-04-13 | [`Integrated Control`](https://google.com/search?q=Integrated+Control) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-04-13 | [`Frederick Wildman and Sons`](https://google.com/search?q=Frederick+Wildman+and+Sons) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2024-04-13 | [`Caxton and CTP Publishers and Printers`](https://google.com/search?q=Caxton+and+CTP+Publishers+and+Printers) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
