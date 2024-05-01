@@ -8,11 +8,11 @@ ransomwatch is currently crawling `375` sites belonging to `187` unique groups
 
 🦈 there have been `4` posts within the `month of may`
 
-🪐 there have been `1246` posts within the `last 90 days`
+🪐 there have been `1245` posts within the `last 90 days`
 
 🏚 there have been `1652` posts within the `year of 2024`
 
-_⚙️ there are currently `84` online hosts & `115` custom parsers._
+_⚙️ there are currently `83` online hosts & `115` custom parsers._
 
 🦕 ransomwatch has been running for `2 years, 7 months and 25 days` and indexed `11109` posts
 
