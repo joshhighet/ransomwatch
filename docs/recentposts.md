@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-05-01 | [`Studio Libeskind`](https://google.com/search?q=Studio+Libeskind) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-05-01 | [`UK government`](https://google.com/search?q=UK+government) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
 | 2024-05-01 | [`MORTON WILLIAMS Data Leak`](https://google.com/search?q=MORTON+WILLIAMS+Data+Leak) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2024-05-01 | [`Les Miroirs St-Antoine Inc Data Leak`](https://google.com/search?q=Les+Miroirs+St-Antoine+Inc+Data+Leak) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-04-15 | [`Wacks Law Group`](https://google.com/search?q=Wacks+Law+Group) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-04-15 | [`Madero `](https://google.com/search?q=Madero+) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-04-15 | [`maccarinelli.it`](https://google.com/search?q=maccarinelli.it) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
-| 2024-04-15 | [`easchangesystems`](https://google.com/search?q=easchangesystems) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
