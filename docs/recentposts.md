@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-05-02 | [`Imedi L`](https://google.com/search?q=Imedi+L) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-05-02 | [`SHAMASS.ORG`](https://google.com/search?q=SHAMASS.ORG) | [ransomblog_noname](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomblog_noname) |
 | 2024-05-02 | [`Canatal Industries`](https://google.com/search?q=Canatal+Industries) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-05-01 | [`Lopez Hnos`](https://google.com/search?q=Lopez+Hnos) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-04-15 | [`Supply Technologies LLC`](https://google.com/search?q=Supply+Technologies+LLC) | [dunghill_leak](https://ransomwatch.telemetry.ltd/#/profiles?id=dunghill_leak) |
 | 2024-04-15 | [`Array Networks`](https://google.com/search?q=Array+Networks) | [dunghill_leak](https://ransomwatch.telemetry.ltd/#/profiles?id=dunghill_leak) |
 | 2024-04-15 | [`Nexperia`](https://google.com/search?q=Nexperia) | [dunghill_leak](https://ransomwatch.telemetry.ltd/#/profiles?id=dunghill_leak) |
-| 2024-04-15 | [`Heritage Cooperative`](https://google.com/search?q=Heritage+Cooperative) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
