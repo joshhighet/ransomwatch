@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-05-02 | [`www.servicepower.com`](https://google.com/search?q=www.servicepower.com) | [apt73](https://ransomwatch.telemetry.ltd/#/profiles?id=apt73) |
+| 2024-05-02 | [`www.credio.eu`](https://google.com/search?q=www.credio.eu) | [apt73](https://ransomwatch.telemetry.ltd/#/profiles?id=apt73) |
+| 2024-05-02 | [`Calumet Civil Contractors, Inc.`](https://google.com/search?q=Calumet+Civil+Contractors%2C+Inc.) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2024-05-02 | [`Imedi L`](https://google.com/search?q=Imedi+L) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-05-02 | [`SHAMASS.ORG`](https://google.com/search?q=SHAMASS.ORG) | [ransomblog_noname](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomblog_noname) |
 | 2024-05-02 | [`Canatal Industries`](https://google.com/search?q=Canatal+Industries) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2024-04-16 | [`charlesparsons`](https://google.com/search?q=charlesparsons) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
 | 2024-04-16 | [`Po****sa`](https://google.com/search?q=Po%2A%2A%2A%2Asa) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
 | 2024-04-15 | [`Apollo Aerospace Components`](https://google.com/search?q=Apollo+Aerospace+Components) | [dunghill_leak](https://ransomwatch.telemetry.ltd/#/profiles?id=dunghill_leak) |
-| 2024-04-15 | [`Supply Technologies LLC`](https://google.com/search?q=Supply+Technologies+LLC) | [dunghill_leak](https://ransomwatch.telemetry.ltd/#/profiles?id=dunghill_leak) |
-| 2024-04-15 | [`Array Networks`](https://google.com/search?q=Array+Networks) | [dunghill_leak](https://ransomwatch.telemetry.ltd/#/profiles?id=dunghill_leak) |
-| 2024-04-15 | [`Nexperia`](https://google.com/search?q=Nexperia) | [dunghill_leak](https://ransomwatch.telemetry.ltd/#/profiles?id=dunghill_leak) |
