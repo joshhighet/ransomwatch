@@ -1443,3 +1443,14 @@ def qiulong():
         errlog('qiulong: ' + 'parsing fail')
     for post in posts:
         appender(post, 'qiulong')
+
+def embargo():
+    stdlog('parser: ' + 'embargo')
+    parser = '''
+    awk 'BEGIN{RS="<div class=\\"text-2xl font-bold\\">"; FS="</div>"} NR>1 {print $1}' source/embargo-embargobe*.html || true
+    '''
+    posts = runshellcmd(parser)
+    if len(posts) == 1:
+        errlog('embargo: ' + 'parsing fail')
+    for post in posts:
+        appender(post, 'embargo')
