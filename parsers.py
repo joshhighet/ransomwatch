@@ -1487,3 +1487,14 @@ def spacebears():
         errlog('spacebears: ' + 'parsing fail')
     for post in posts:
         appender(post, 'spacebears')
+
+def flocker():
+    stdlog('parser: ' + 'flocker')
+    parser = '''
+    grep '<h2 class="entry-title ast-blog-single-element"' source/flocker-flock*.html | cut -d '>' -f 3 | cut -d '<' -f 1
+    '''
+    posts = runshellcmd(parser)
+    if len(posts) == 1:
+        errlog('flocker: ' + 'parsing fail')
+    for post in posts:
+        appender(post, 'flocker')
