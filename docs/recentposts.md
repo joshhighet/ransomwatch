@@ -6,6 +6,8 @@ _last `200` posts_
 |---|---|---|
 | 2024-05-04 | [`firstmac.com.au`](https://google.com/search?q=firstmac.com.au) | [embargo](https://ransomwatch.telemetry.ltd/#/profiles?id=embargo) |
 | 2024-05-04 | [`mulfordconstruction.com`](https://google.com/search?q=mulfordconstruction.com) | [embargo](https://ransomwatch.telemetry.ltd/#/profiles?id=embargo) |
+| 2024-05-04 | [`The Islamic Emirat of Afghanistan National Environmental Protection Agency <nepa.gov.af/df`](https://google.com/search?q=The+Islamic+Emirat+of+Afghanistan+National+Environmental+Protection+Agency+%3Cnepa.gov.af%2Fdf) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-05-04 | [`Accounting Professionals LLC. Price, Breazeale &#038; Chastang`](https://google.com/search?q=Accounting+Professionals+LLC.+Price%2C+Breazeale+%26%23038%3B+Chastang) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2024-05-04 | [`Bitfinex`](https://google.com/search?q=Bitfinex) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
 | 2024-05-04 | [`SBC Global`](https://google.com/search?q=SBC+Global) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
 | 2024-05-04 | [`Rutgers University`](https://google.com/search?q=Rutgers+University) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-04-17 | [`http://www.dvelectronics.com`](https://google.com/search?q=http%3A%2F%2Fwww.dvelectronics.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-04-16 | [`Empresa de energía del Bajo Putumayo <eebpsa.com.co>`](https://google.com/search?q=Empresa+de+energ%C3%ADa+del+Bajo+Putumayo+%3Ceebpsa.com.co%3E) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-04-16 | [`[UPDATE] Robeson County Sheriff's Office <www.robesoncoso.org>`](https://google.com/search?q=%5BUPDATE%5D+Robeson+County+Sheriff%27s+Office+%3Cwww.robesoncoso.org%3E) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-04-16 | [`Change HealthCare - OPTUM Group - United HealthCare Group - FOR SALE`](https://google.com/search?q=Change+HealthCare+-+OPTUM+Group+-+United+HealthCare+Group+-+FOR+SALE) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-04-16 | [`Grupo Cuevas<grupocuevas.es>`](https://google.com/search?q=Grupo+Cuevas%3Cgrupocuevas.es%3E) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
