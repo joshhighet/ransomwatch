@@ -6,6 +6,18 @@ _last `200` posts_
 |---|---|---|
 | 2024-05-04 | [`firstmac.com.au`](https://google.com/search?q=firstmac.com.au) | [embargo](https://ransomwatch.telemetry.ltd/#/profiles?id=embargo) |
 | 2024-05-04 | [`mulfordconstruction.com`](https://google.com/search?q=mulfordconstruction.com) | [embargo](https://ransomwatch.telemetry.ltd/#/profiles?id=embargo) |
+| 2024-05-04 | [`bulldogbag.com`](https://google.com/search?q=bulldogbag.com) | [underground](https://ransomwatch.telemetry.ltd/#/profiles?id=underground) |
+| 2024-05-04 | [`frenckengroup.com`](https://google.com/search?q=frenckengroup.com) | [underground](https://ransomwatch.telemetry.ltd/#/profiles?id=underground) |
+| 2024-05-04 | [`synology.com`](https://google.com/search?q=synology.com) | [underground](https://ransomwatch.telemetry.ltd/#/profiles?id=underground) |
+| 2024-05-04 | [`tpa-group.sk`](https://google.com/search?q=tpa-group.sk) | [underground](https://ransomwatch.telemetry.ltd/#/profiles?id=underground) |
+| 2024-05-04 | [`Triathlon.group`](https://google.com/search?q=Triathlon.group) | [underground](https://ransomwatch.telemetry.ltd/#/profiles?id=underground) |
+| 2024-05-04 | [`awwg.com`](https://google.com/search?q=awwg.com) | [underground](https://ransomwatch.telemetry.ltd/#/profiles?id=underground) |
+| 2024-05-04 | [`kc.co.kr`](https://google.com/search?q=kc.co.kr) | [underground](https://ransomwatch.telemetry.ltd/#/profiles?id=underground) |
+| 2024-05-04 | [`Y. Hata &amp; Co., Ltd.`](https://google.com/search?q=Y.+Hata+%26amp%3B+Co.%2C+Ltd.) | [underground](https://ransomwatch.telemetry.ltd/#/profiles?id=underground) |
+| 2024-05-04 | [`Skender Construction`](https://google.com/search?q=Skender+Construction) | [underground](https://ransomwatch.telemetry.ltd/#/profiles?id=underground) |
+| 2024-05-04 | [`Creative Business Interiors`](https://google.com/search?q=Creative+Business+Interiors) | [underground](https://ransomwatch.telemetry.ltd/#/profiles?id=underground) |
+| 2024-05-04 | [`cochraneglobal.com`](https://google.com/search?q=cochraneglobal.com) | [underground](https://ransomwatch.telemetry.ltd/#/profiles?id=underground) |
+| 2024-05-04 | [`ikfhomefinance.com`](https://google.com/search?q=ikfhomefinance.com) | [darkvault](https://ransomwatch.telemetry.ltd/#/profiles?id=darkvault) |
 | 2024-05-04 | [`The Islamic Emirat of Afghanistan National Environmental Protection Agency <nepa.gov.af/df`](https://google.com/search?q=The+Islamic+Emirat+of+Afghanistan+National+Environmental+Protection+Agency+%3Cnepa.gov.af%2Fdf) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-05-04 | [`Accounting Professionals LLC. Price, Breazeale &#038; Chastang`](https://google.com/search?q=Accounting+Professionals+LLC.+Price%2C+Breazeale+%26%23038%3B+Chastang) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2024-05-04 | [`Bitfinex`](https://google.com/search?q=Bitfinex) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
@@ -192,15 +204,3 @@ _last `200` posts_
 | 2024-04-18 | [`FábricaInfo <fabricainfo.com>`](https://google.com/search?q=F%C3%A1bricaInfo+%3Cfabricainfo.com%3E) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-04-18 | [`Doyon`](https://google.com/search?q=Doyon) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-04-17 | [`Mercatino  https://www.mercatinousato.com/`](https://google.com/search?q=Mercatino++https%3A%2F%2Fwww.mercatinousato.com%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-04-17 | [`Asteco`](https://google.com/search?q=Asteco) | [ransomexx](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomexx) |
-| 2024-04-17 | [`Delano Joint Union High School District`](https://google.com/search?q=Delano+Joint+Union+High+School+District) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2024-04-17 | [`Serfilco, RP Adams,  Baron Blakeslee, Pac er, Service Filtrati on of Canada, Polyma r.`](https://google.com/search?q=Serfilco%2C+RP+Adams%2C++Baron+Blakeslee%2C+Pac+er%2C+Service+Filtrati+on+of+Canada%2C+Polyma+r.) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2024-04-17 | [`http://truenetcommunications.com`](https://google.com/search?q=http%3A%2F%2Ftruenetcommunications.com) | [ciphbit](https://ransomwatch.telemetry.ltd/#/profiles?id=ciphbit) |
-| 2024-04-17 | [`mcalvain.com\$199M\USA\1.2TB\100% DISCLOSED`](https://google.com/search?q=mcalvain.com%5C%24199M%5CUSA%5C1.2TB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2024-04-17 | [`drmarbys.com\$266.6M\USA\175GB\&lt;1% DISCLOSED`](https://google.com/search?q=drmarbys.com%5C%24266.6M%5CUSA%5C175GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2024-04-17 | [`tristatetruckandequip.com`](https://google.com/search?q=tristatetruckandequip.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-04-17 | [`craigwire.com`](https://google.com/search?q=craigwire.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-04-17 | [`rehab.ie`](https://google.com/search?q=rehab.ie) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-04-17 | [`http://www.dvelectronics.com`](https://google.com/search?q=http%3A%2F%2Fwww.dvelectronics.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
-| 2024-04-16 | [`Empresa de energía del Bajo Putumayo <eebpsa.com.co>`](https://google.com/search?q=Empresa+de+energ%C3%ADa+del+Bajo+Putumayo+%3Ceebpsa.com.co%3E) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-04-16 | [`[UPDATE] Robeson County Sheriff's Office <www.robesoncoso.org>`](https://google.com/search?q=%5BUPDATE%5D+Robeson+County+Sheriff%27s+Office+%3Cwww.robesoncoso.org%3E) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
