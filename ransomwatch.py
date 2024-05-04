@@ -307,4 +307,5 @@ if args.mode == 'parse':
     parsers.qiulong()
     parsers.embargo()
     parsers.dAn0n()
+    parsers.underground()
     stdlog('ransomwatch: ' + 'parse run complete')

@@ -1465,3 +1465,14 @@ def dAn0n():
         errlog('dAn0n: ' + 'parsing fail')
     for post in posts:
         appender(post, 'dAn0n')
+
+def underground():
+    stdlog('parser: ' + 'underground')
+    parser = '''
+    grep -A 1 '<span>Name: </span>' source/underground-*.html | grep '<p>' | cut -d '>' -f 2 | cut -d '<' -f 1
+    '''
+    posts = runshellcmd(parser)
+    if len(posts) == 1:
+        errlog('underground: ' + 'parsing fail')
+    for post in posts:
+        appender(post, 'underground')
