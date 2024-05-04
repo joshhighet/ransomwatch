@@ -4,6 +4,22 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-05-04 | [`firstmac.com.au`](https://google.com/search?q=firstmac.com.au) | [embargo](https://ransomwatch.telemetry.ltd/#/profiles?id=embargo) |
+| 2024-05-04 | [`mulfordconstruction.com`](https://google.com/search?q=mulfordconstruction.com) | [embargo](https://ransomwatch.telemetry.ltd/#/profiles?id=embargo) |
+| 2024-05-04 | [`Bitfinex`](https://google.com/search?q=Bitfinex) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
+| 2024-05-04 | [`SBC Global`](https://google.com/search?q=SBC+Global) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
+| 2024-05-04 | [`Rutgers University`](https://google.com/search?q=Rutgers+University) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
+| 2024-05-04 | [`Coinmoma`](https://google.com/search?q=Coinmoma) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
+| 2024-05-04 | [`CORTEX Chiropractic &amp; Clinical Neuroscience`](https://google.com/search?q=CORTEX+Chiropractic+%26amp%3B+Clinical+Neuroscience) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
+| 2024-05-04 | [`Mr Bean`](https://google.com/search?q=Mr+Bean) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
+| 2024-05-04 | [`SM EMBALLAGE`](https://google.com/search?q=SM+EMBALLAGE) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
+| 2024-05-04 | [`Surewerx USA`](https://google.com/search?q=Surewerx+USA) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
+| 2024-05-04 | [`Fifisystems`](https://google.com/search?q=Fifisystems) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
+| 2024-05-04 | [`Fliesenstudio am Rhein`](https://google.com/search?q=Fliesenstudio+am+Rhein) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
+| 2024-05-04 | [`Thinkadam`](https://google.com/search?q=Thinkadam) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
+| 2024-05-04 | [`RSH legal`](https://google.com/search?q=RSH+legal) | [dAn0n](https://ransomwatch.telemetry.ltd/#/profiles?id=dAn0n) |
+| 2024-05-04 | [`Erler &amp; Kalinowski`](https://google.com/search?q=Erler+%26amp%3B+Kalinowski) | [dAn0n](https://ransomwatch.telemetry.ltd/#/profiles?id=dAn0n) |
+| 2024-05-04 | [`O&#x27;Connell Mahon Architects`](https://google.com/search?q=O%26%23x27%3BConnell+Mahon+Architects) | [dAn0n](https://ransomwatch.telemetry.ltd/#/profiles?id=dAn0n) |
 | 2024-05-04 | [`Universidad Nacional Autónoma de México  <www.unam.mx>`](https://google.com/search?q=Universidad+Nacional+Aut%C3%B3noma+de+M%C3%A9xico++%3Cwww.unam.mx%3E) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-05-03 | [`Stainless Foundry & Engineering`](https://google.com/search?q=Stainless+Foundry+%26+Engineering) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-05-02 | [`Ayoub &#038; associates CPA Firm`](https://google.com/search?q=Ayoub+%26%23038%3B+associates+CPA+Firm) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
@@ -188,19 +204,3 @@ _last `200` posts_
 | 2024-04-16 | [`[UPDATE] Robeson County Sheriff's Office <www.robesoncoso.org>`](https://google.com/search?q=%5BUPDATE%5D+Robeson+County+Sheriff%27s+Office+%3Cwww.robesoncoso.org%3E) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-04-16 | [`Change HealthCare - OPTUM Group - United HealthCare Group - FOR SALE`](https://google.com/search?q=Change+HealthCare+-+OPTUM+Group+-+United+HealthCare+Group+-+FOR+SALE) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-04-16 | [`Grupo Cuevas<grupocuevas.es>`](https://google.com/search?q=Grupo+Cuevas%3Cgrupocuevas.es%3E) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-04-16 | [`Len Dubois Trucking`](https://google.com/search?q=Len+Dubois+Trucking) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2024-04-16 | [`Pioneer Oil Company, Inc.`](https://google.com/search?q=Pioneer+Oil+Company%2C+Inc.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2024-04-16 | [`Lopesan Hotels`](https://google.com/search?q=Lopesan+Hotels) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
-| 2024-04-16 | [`https://www.upc.com.tw`](https://google.com/search?q=https%3A%2F%2Fwww.upc.com.tw) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
-| 2024-04-16 | [`Wright Brothers Cons truction`](https://google.com/search?q=Wright+Brothers+Cons+truction) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2024-04-16 | [`Medequip Assistive T echnology`](https://google.com/search?q=Medequip+Assistive+T+echnology) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2024-04-16 | [`hbmolding.com`](https://google.com/search?q=hbmolding.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-04-16 | [`Studio LAMBDA`](https://google.com/search?q=Studio+LAMBDA) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2024-04-16 | [`City of St. Cloud, Florida`](https://google.com/search?q=City+of+St.+Cloud%2C+Florida) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2024-04-16 | [`aerodynamicinc.com\$22,6M\USA\1.1TB\100% DISCLOSED`](https://google.com/search?q=aerodynamicinc.com%5C%2422%2C6M%5CUSA%5C1.1TB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2024-04-16 | [`besttrans.com\$24.8M\USA\24GB\100% DISCLOSED`](https://google.com/search?q=besttrans.com%5C%2424.8M%5CUSA%5C24GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2024-04-16 | [`regencyfurniture.com\$369M\USA\300GB\100% DISCLOSED`](https://google.com/search?q=regencyfurniture.com%5C%24369M%5CUSA%5C300GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2024-04-16 | [`mcalvain.com\$199M\USA\175GB\100% DISCLOSED`](https://google.com/search?q=mcalvain.com%5C%24199M%5CUSA%5C175GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2024-04-16 | [`Lotz Trucking`](https://google.com/search?q=Lotz+Trucking) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2024-04-16 | [`St. Cloud Florida`](https://google.com/search?q=St.+Cloud+Florida) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2024-04-16 | [`UnivationTechnologies`](https://google.com/search?q=UnivationTechnologies) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
