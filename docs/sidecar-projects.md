@@ -40,6 +40,7 @@
 - [Aashiq Ramachandran - The Ransomware Trash Can - Mining Data From The Dark Web](https://www.linkedin.com/pulse/ransomware-trash-can-mining-data-from-dark-web-aashiq-ramachandran-3tlac/)
 - [SIDE Attack Logic: What is Targeted Threat Intelligence](https://www.nsideattacklogic.de/was-ist-targeted-threat-intelligence-tti/)
 - [Mathieu Han-Leveau - A legal study on financial investigations on data resulting from ransomware attacks](https://doi.org/10.5281/zenodo.10946299)
+- [APNIC Academy - An Introduction to Cyber Threat Hunting in DNS](https://academy.apnic.net/en/events?id=a0B2e000000cgNj)
 
 ## blogs & resources
 
