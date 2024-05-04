@@ -1476,3 +1476,14 @@ def underground():
         errlog('underground: ' + 'parsing fail')
     for post in posts:
         appender(post, 'underground')
+
+def spacebears():
+    stdlog('parser: ' + 'spacebears')
+    parser = '''
+    grep href source/spacebears-*.html | grep '.onion/companies/' | cut -d '>' -f 2 | cut -d '<' -f 1
+    '''
+    posts = runshellcmd(parser)
+    if len(posts) == 1:
+        errlog('spacebears: ' + 'parsing fail')
+    for post in posts:
+        appender(post, 'spacebears')
