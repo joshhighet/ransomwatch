@@ -1144,6 +1144,7 @@ def knight():
 def incransom():
     stdlog('parser: ' + 'incransom')
     # jq -r '.payload[].title' source/incransom-incback*.html | sed -e 's/%20/ /' || true
+    # jq -r '.payload.[].title' source/incransom-incbackrlasj*.html | perl -MHTML::Entities -ne 'print decode_entities($_)'| sed 's/%20/ /g'
     parser = '''
     jq -r '.payload[].title' source/incransom-incbackrlasjes*.html | perl -MURI::Escape -ne 'print uri_unescape($_)' | sort | uniq || true
     '''
