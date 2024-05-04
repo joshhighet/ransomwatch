@@ -306,4 +306,5 @@ if args.mode == 'parse':
     parsers.apt73()
     parsers.qiulong()
     parsers.embargo()
+    parsers.dAn0n()
     stdlog('ransomwatch: ' + 'parse run complete')

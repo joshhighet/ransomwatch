@@ -1144,7 +1144,6 @@ def knight():
 def incransom():
     stdlog('parser: ' + 'incransom')
     # jq -r '.payload[].title' source/incransom-incback*.html | sed -e 's/%20/ /' || true
-    # jq -r '.payload.[].title' source/incransom-incbackrlasj*.html | perl -MHTML::Entities -ne 'print decode_entities($_)'| sed 's/%20/ /g'
     parser = '''
     jq -r '.payload[].title' source/incransom-incbackrlasjes*.html | perl -MURI::Escape -ne 'print uri_unescape($_)' | sort | uniq || true
     '''
@@ -1455,3 +1454,14 @@ def embargo():
         errlog('embargo: ' + 'parsing fail')
     for post in posts:
         appender(post, 'embargo')
+
+def dAn0n():
+    stdlog('parser: ' + 'dAn0n')
+    parser = '''
+    grep '<h2 class="card-title">' source/dAn0n-2c7nd54guzi6xhjyqrj5kdkrq2ngm2u3e6oy4nfhn3wm3r54ul2utiqd.html | cut -d '>' -f 2 | cut -d '<' -f 1 | perl -MURI::Escape -ne 'print uri_unescape($_)' | perl -MURI::Escape -ne 'print uri_unescape($_)'
+    '''
+    posts = runshellcmd(parser)
+    if len(posts) == 1:
+        errlog('dAn0n: ' + 'parsing fail')
+    for post in posts:
+        appender(post, 'dAn0n')
