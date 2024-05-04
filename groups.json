@@ -5887,7 +5887,7 @@
     {
         "name": "C3RB3R",
         "captcha": false,
-        "parser": false,
+        "parser": true,
         "javascript_render": false,
         "meta": null,
         "locations": [
@@ -5907,7 +5907,7 @@
     {
         "name": "embargo",
         "captcha": true,
-        "parser": false,
+        "parser": true,
         "javascript_render": true,
         "meta": null,
         "locations": [
@@ -5927,7 +5927,7 @@
     {
         "name": "dAn0n",
         "captcha": false,
-        "parser": false,
+        "parser": true,
         "javascript_render": false,
         "meta": null,
         "locations": [
