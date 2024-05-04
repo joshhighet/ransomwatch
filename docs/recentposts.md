@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-05-04 | [`SBC Global, Bitfinex, Coinmom, and Rutgers University Part 2`](https://google.com/search?q=SBC+Global%2C+Bitfinex%2C+Coinmom%2C+and+Rutgers+University+Part+2) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
 | 2024-05-04 | [`firstmac.com.au`](https://google.com/search?q=firstmac.com.au) | [embargo](https://ransomwatch.telemetry.ltd/#/profiles?id=embargo) |
 | 2024-05-04 | [`mulfordconstruction.com`](https://google.com/search?q=mulfordconstruction.com) | [embargo](https://ransomwatch.telemetry.ltd/#/profiles?id=embargo) |
 | 2024-05-04 | [`bulldogbag.com`](https://google.com/search?q=bulldogbag.com) | [underground](https://ransomwatch.telemetry.ltd/#/profiles?id=underground) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-04-18 | [`https://geodis.com`](https://google.com/search?q=https%3A%2F%2Fgeodis.com) | [alphalocker](https://ransomwatch.telemetry.ltd/#/profiles?id=alphalocker) |
 | 2024-04-18 | [`FábricaInfo <fabricainfo.com>`](https://google.com/search?q=F%C3%A1bricaInfo+%3Cfabricainfo.com%3E) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-04-18 | [`Doyon`](https://google.com/search?q=Doyon) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2024-04-17 | [`Mercatino  https://www.mercatinousato.com/`](https://google.com/search?q=Mercatino++https%3A%2F%2Fwww.mercatinousato.com%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
