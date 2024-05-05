@@ -4,6 +4,15 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-05-05 | [`CMAC Transportation`](https://google.com/search?q=CMAC+Transportation) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2024-05-05 | [`IDS`](https://google.com/search?q=IDS) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2024-05-05 | [`swisspro`](https://google.com/search?q=swisspro) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2024-05-05 | [`Olson &amp; Co. Steel`](https://google.com/search?q=Olson+%26amp%3B+Co.+Steel) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2024-05-05 | [`Territorio Energia Ambiente S.P.A`](https://google.com/search?q=Territorio+Energia+Ambiente+S.P.A) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2024-05-05 | [`Ayesa`](https://google.com/search?q=Ayesa) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2024-05-05 | [`SYNLAB`](https://google.com/search?q=SYNLAB) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2024-05-05 | [`Active-PCB`](https://google.com/search?q=Active-PCB) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2024-05-05 | [`Gai`](https://google.com/search?q=Gai) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-05-04 | [`SBC Global, Bitfinex, Coinmom, and Rutgers University Part 2`](https://google.com/search?q=SBC+Global%2C+Bitfinex%2C+Coinmom%2C+and+Rutgers+University+Part+2) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
 | 2024-05-04 | [`firstmac.com.au`](https://google.com/search?q=firstmac.com.au) | [embargo](https://ransomwatch.telemetry.ltd/#/profiles?id=embargo) |
 | 2024-05-04 | [`mulfordconstruction.com`](https://google.com/search?q=mulfordconstruction.com) | [embargo](https://ransomwatch.telemetry.ltd/#/profiles?id=embargo) |
@@ -195,12 +204,3 @@ _last `200` posts_
 | 2024-04-18 | [`Mercatino S.r.l.  https://www.mercatinousato.com/`](https://google.com/search?q=Mercatino+S.r.l.++https%3A%2F%2Fwww.mercatinousato.com%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-04-18 | [`Myers Automotive Gro up`](https://google.com/search?q=Myers+Automotive+Gro+up) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-04-18 | [`B Capital Group`](https://google.com/search?q=B+Capital+Group) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2024-04-18 | [`JE Owens and Company PA.`](https://google.com/search?q=JE+Owens+and+Company+PA.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2024-04-18 | [`Western Saw Inc.`](https://google.com/search?q=Western+Saw+Inc.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2024-04-18 | [`ht-hospitaltechnik.de`](https://google.com/search?q=ht-hospitaltechnik.de) | [blackout](https://ransomwatch.telemetry.ltd/#/profiles?id=blackout) |
-| 2024-04-18 | [`xdconnects.com\$50.5M\Netherlands\1TB\&lt;1% DISCLOSED`](https://google.com/search?q=xdconnects.com%5C%2450.5M%5CNetherlands%5C1TB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2024-04-18 | [`sagaciousresearch.com`](https://google.com/search?q=sagaciousresearch.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-04-18 | [`ablinc.com`](https://google.com/search?q=ablinc.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-04-18 | [`https://geodis.com`](https://google.com/search?q=https%3A%2F%2Fgeodis.com) | [alphalocker](https://ransomwatch.telemetry.ltd/#/profiles?id=alphalocker) |
-| 2024-04-18 | [`FábricaInfo <fabricainfo.com>`](https://google.com/search?q=F%C3%A1bricaInfo+%3Cfabricainfo.com%3E) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-04-18 | [`Doyon`](https://google.com/search?q=Doyon) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
