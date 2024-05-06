@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-05-06 | [`eskarabajo.mx`](https://google.com/search?q=eskarabajo.mx) | [darkvault](https://ransomwatch.telemetry.ltd/#/profiles?id=darkvault) |
+| 2024-05-06 | [`http://vinoly.com`](https://google.com/search?q=http%3A%2F%2Fvinoly.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
+| 2024-05-06 | [`https://trctalent.com/`](https://google.com/search?q=https%3A%2F%2Ftrctalent.com%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-05-06 | [`http://www.nestoilgroup.com`](https://google.com/search?q=http%3A%2F%2Fwww.nestoilgroup.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-05-05 | [`Coinmama`](https://google.com/search?q=Coinmama) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
 | 2024-05-05 | [`SBC Global, Bitfinex, Coinmama, and Rutgers University Part 2`](https://google.com/search?q=SBC+Global%2C+Bitfinex%2C+Coinmama%2C+and+Rutgers+University+Part+2) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2024-04-19 | [`Pennsylvania Convention Center`](https://google.com/search?q=Pennsylvania+Convention+Center) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-04-19 | [`P??????? & ????`](https://google.com/search?q=P%3F%3F%3F%3F%3F%3F%3F+%26+%3F%3F%3F%3F) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-04-19 | [`JE Owens`](https://google.com/search?q=JE+Owens) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-04-19 | [`Engineered Automation of Maine`](https://google.com/search?q=Engineered+Automation+of+Maine) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-04-19 | [`Alltruck Bodies`](https://google.com/search?q=Alltruck+Bodies) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-04-18 | [`dc.gov`](https://google.com/search?q=dc.gov) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
