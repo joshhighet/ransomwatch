@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-05-07 | [`JFK Financial Inc.`](https://google.com/search?q=JFK+Financial+Inc.) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2024-05-07 | [`SBC Global, Bitfinex, Coinmama, and Rutgers University Part 2 Leak`](https://google.com/search?q=SBC+Global%2C+Bitfinex%2C+Coinmama%2C+and+Rutgers+University+Part+2+Leak) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
 | 2024-05-07 | [`yucatan.gob.mx`](https://google.com/search?q=yucatan.gob.mx) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-05-07 | [`ville-bouchemaine.fr`](https://google.com/search?q=ville-bouchemaine.fr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-04-23 | [`HARMAN - CYNC SOLUTIONS client`](https://google.com/search?q=HARMAN+-+CYNC+SOLUTIONS+client) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-04-22 | [`Company PA.`](https://google.com/search?q=Company+PA.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-04-22 | [`D'amico and Pettinicchi, LLC`](https://google.com/search?q=D%27amico+and+Pettinicchi%2C+LLC) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2024-04-22 | [`Optometric Physicians of Middle Tennessee`](https://google.com/search?q=Optometric+Physicians+of+Middle+Tennessee) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
