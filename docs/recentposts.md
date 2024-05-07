@@ -4,6 +4,11 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-05-07 | [`www.Seoulsemicon.com`](https://google.com/search?q=www.Seoulsemicon.com) | [metaencryptor](https://ransomwatch.telemetry.ltd/#/profiles?id=metaencryptor) |
+| 2024-05-07 | [`https://belzona.co.uk`](https://google.com/search?q=https%3A%2F%2Fbelzona.co.uk) | [metaencryptor](https://ransomwatch.telemetry.ltd/#/profiles?id=metaencryptor) |
+| 2024-05-07 | [`https://www.eurofleurs.de`](https://google.com/search?q=https%3A%2F%2Fwww.eurofleurs.de) | [metaencryptor](https://ransomwatch.telemetry.ltd/#/profiles?id=metaencryptor) |
+| 2024-05-07 | [`https://jetsonmarketing.com`](https://google.com/search?q=https%3A%2F%2Fjetsonmarketing.com) | [metaencryptor](https://ransomwatch.telemetry.ltd/#/profiles?id=metaencryptor) |
+| 2024-05-07 | [`https://www.vega-reederei.de`](https://google.com/search?q=https%3A%2F%2Fwww.vega-reederei.de) | [metaencryptor](https://ransomwatch.telemetry.ltd/#/profiles?id=metaencryptor) |
 | 2024-05-07 | [`Information Integration Experts`](https://google.com/search?q=Information+Integration+Experts) | [dAn0n](https://ransomwatch.telemetry.ltd/#/profiles?id=dAn0n) |
 | 2024-05-07 | [`woldae.com`](https://google.com/search?q=woldae.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
 | 2024-05-07 | [`JFK Financial Inc.`](https://google.com/search?q=JFK+Financial+Inc.) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -199,8 +204,3 @@ _last `200` posts_
 | 2024-04-23 | [`https://www.octapharmaplasma.com/`](https://google.com/search?q=https%3A%2F%2Fwww.octapharmaplasma.com%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-04-23 | [`xdconnects.com\$50.5M\Netherlands\1TB\100% DISCLOSED`](https://google.com/search?q=xdconnects.com%5C%2450.5M%5CNetherlands%5C1TB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-04-23 | [`Ministerio de Desarrollo Local`](https://google.com/search?q=Ministerio+de+Desarrollo+Local) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2024-04-23 | [`defi SOLUTIONS.`](https://google.com/search?q=defi+SOLUTIONS.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2024-04-23 | [`ghimli.com\$189.1M\Australia\88GB\100%DISCLOSED    `](https://google.com/search?q=ghimli.com%5C%24189.1M%5CAustralia%5C88GB%5C100%25DISCLOSED++++) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2024-04-23 | [`Bank Pembangunan Daerah Banten Tbk PT`](https://google.com/search?q=Bank+Pembangunan+Daerah+Banten+Tbk+PT) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
-| 2024-04-23 | [`rangam.com`](https://google.com/search?q=rangam.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
-| 2024-04-23 | [`HARMAN - CYNC SOLUTIONS client`](https://google.com/search?q=HARMAN+-+CYNC+SOLUTIONS+client) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
