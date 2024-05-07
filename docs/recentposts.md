@@ -4,6 +4,17 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-05-07 | [`aletech.com.br`](https://google.com/search?q=aletech.com.br) | [darkvault](https://ransomwatch.telemetry.ltd/#/profiles?id=darkvault) |
+| 2024-05-07 | [`http://youngconsulting.com`](https://google.com/search?q=http%3A%2F%2Fyoungconsulting.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
+| 2024-05-07 | [`Utica Mack`](https://google.com/search?q=Utica+Mack) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-05-07 | [`Somerville`](https://google.com/search?q=Somerville) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-05-07 | [`Sentry Data Management`](https://google.com/search?q=Sentry+Data+Management) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-05-07 | [`Mauritzon`](https://google.com/search?q=Mauritzon) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-05-07 | [`KC Scout`](https://google.com/search?q=KC+Scout) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-05-07 | [`High Performance Services`](https://google.com/search?q=High+Performance+Services) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-05-07 | [`Donco Air`](https://google.com/search?q=Donco+Air) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-05-07 | [`Central Florida Equipment`](https://google.com/search?q=Central+Florida+Equipment) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-05-07 | [`Affordable Payroll & Bookkeeping Services`](https://google.com/search?q=Affordable+Payroll+%26+Bookkeeping+Services) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-05-06 | [`Thaayakam LTD <thaayakam.co.uk>`](https://google.com/search?q=Thaayakam+LTD+%3Cthaayakam.co.uk%3E) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-05-06 | [`NRS Healthcare <www.nrshealthcare.com>`](https://google.com/search?q=NRS+Healthcare+%3Cwww.nrshealthcare.com%3E) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-05-06 | [`Pettinicchi, LLC`](https://google.com/search?q=Pettinicchi%2C+LLC) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
@@ -193,14 +204,3 @@ _last `200` posts_
 | 2024-04-20 | [`Lutheran Social Services of Indiana`](https://google.com/search?q=Lutheran+Social+Services+of+Indiana) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2024-04-20 | [`CYNC SOLUTIONS - The unexpected target.`](https://google.com/search?q=CYNC+SOLUTIONS+-+The+unexpected+target.) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-04-20 | [`kjf-augsburg.de`](https://google.com/search?q=kjf-augsburg.de) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-04-20 | [`eurosko.com`](https://google.com/search?q=eurosko.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-04-19 | [`Targus.com`](https://google.com/search?q=Targus.com) | [redransomware](https://ransomwatch.telemetry.ltd/#/profiles?id=redransomware) |
-| 2024-04-19 | [`tascoplumbing.com`](https://google.com/search?q=tascoplumbing.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-04-19 | [`Fluent Home General Information`](https://google.com/search?q=Fluent+Home+General+Information) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2024-04-19 | [`Macphie`](https://google.com/search?q=Macphie) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2024-04-19 | [`Cavotec`](https://google.com/search?q=Cavotec) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2024-04-19 | [`HYMER`](https://google.com/search?q=HYMER) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2024-04-19 | [`Hanwha`](https://google.com/search?q=Hanwha) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2024-04-19 | [`Columbia Pipe &amp; Supply Co.`](https://google.com/search?q=Columbia+Pipe+%26amp%3B+Supply+Co.) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2024-04-19 | [`call4health.com`](https://google.com/search?q=call4health.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-04-19 | [`Mid-South Health Systems`](https://google.com/search?q=Mid-South+Health+Systems) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
