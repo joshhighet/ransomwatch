@@ -4,6 +4,21 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-05-08 | [`wichita.gov`](https://google.com/search?q=wichita.gov) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2024-05-08 | [`uslinen.com`](https://google.com/search?q=uslinen.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2024-05-08 | [`tu-ilmenau.de`](https://google.com/search?q=tu-ilmenau.de) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2024-05-08 | [`thede-culpepper.com`](https://google.com/search?q=thede-culpepper.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2024-05-08 | [`srg-plc.com`](https://google.com/search?q=srg-plc.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2024-05-08 | [`southernspecialtysupply.com`](https://google.com/search?q=southernspecialtysupply.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2024-05-08 | [`skanlog.com`](https://google.com/search?q=skanlog.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2024-05-08 | [`rollingfields.com`](https://google.com/search?q=rollingfields.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2024-05-08 | [`lenmed.co.za`](https://google.com/search?q=lenmed.co.za) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2024-05-08 | [`kimmelcleaners.com`](https://google.com/search?q=kimmelcleaners.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2024-05-08 | [`gorrias-mercedes-benz.fr`](https://google.com/search?q=gorrias-mercedes-benz.fr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2024-05-08 | [`emainc.net`](https://google.com/search?q=emainc.net) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2024-05-08 | [`ctc-corp.net`](https://google.com/search?q=ctc-corp.net) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2024-05-08 | [`consultingradiologists.com`](https://google.com/search?q=consultingradiologists.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2024-05-08 | [`churchill-linen.com`](https://google.com/search?q=churchill-linen.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-05-07 | [`Noritsu America Corp.`](https://google.com/search?q=Noritsu+America+Corp.) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-05-07 | [`Hibser Yamauchi Architects`](https://google.com/search?q=Hibser+Yamauchi+Architects) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-05-07 | [`www.Seoulsemicon.com`](https://google.com/search?q=www.Seoulsemicon.com) | [metaencryptor](https://ransomwatch.telemetry.ltd/#/profiles?id=metaencryptor) |
@@ -189,18 +204,3 @@ _last `200` posts_
 | 2024-04-25 | [`www.drlincoln.com.br`](https://google.com/search?q=www.drlincoln.com.br) | [qiulong](https://ransomwatch.telemetry.ltd/#/profiles?id=qiulong) |
 | 2024-04-25 | [`draandrearechia.com.br`](https://google.com/search?q=draandrearechia.com.br) | [qiulong](https://ransomwatch.telemetry.ltd/#/profiles?id=qiulong) |
 | 2024-04-25 | [`www.drwilliansegalin.com.br`](https://google.com/search?q=www.drwilliansegalin.com.br) | [qiulong](https://ransomwatch.telemetry.ltd/#/profiles?id=qiulong) |
-| 2024-04-25 | [`hominemclinic.com.br`](https://google.com/search?q=hominemclinic.com.br) | [qiulong](https://ransomwatch.telemetry.ltd/#/profiles?id=qiulong) |
-| 2024-04-25 | [`www.trifecta.com`](https://google.com/search?q=www.trifecta.com) | [apt73](https://ransomwatch.telemetry.ltd/#/profiles?id=apt73) |
-| 2024-04-25 | [`bzrastreador.com.br`](https://google.com/search?q=bzrastreador.com.br) | [darkvault](https://ransomwatch.telemetry.ltd/#/profiles?id=darkvault) |
-| 2024-04-24 | [`Central Power Systems and Services`](https://google.com/search?q=Central+Power+Systems+and+Services) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2024-04-24 | [`http://petercondakes.com`](https://google.com/search?q=http%3A%2F%2Fpetercondakes.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
-| 2024-04-24 | [`Mainwein`](https://google.com/search?q=Mainwein) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
-| 2024-04-24 | [`CORIENT <rhbco.com>`](https://google.com/search?q=CORIENT+%3Crhbco.com%3E) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-04-24 | [`EUROPEANPROF - Expertos en Seguridad y Altura - <europeanprof.es>`](https://google.com/search?q=EUROPEANPROF+-+Expertos+en+Seguridad+y+Altura+-+%3Ceuropeanprof.es%3E) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-04-24 | [`[Published]Constelacion Savings and Credit Society<www.constelacion.com.sv>`](https://google.com/search?q=%5BPublished%5DConstelacion+Savings+and+Credit+Society%3Cwww.constelacion.com.sv%3E) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-04-24 | [`STERCH - INTERNATIONAL s.r.o.`](https://google.com/search?q=STERCH+-+INTERNATIONAL+s.r.o.) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
-| 2024-04-24 | [`https://goftac.com/    firsttx.com  First Texas Alliance Corp   (FTAC)`](https://google.com/search?q=https%3A%2F%2Fgoftac.com%2F++++firsttx.com++First+Texas+Alliance+Corp+++%28FTAC%29) | [alphalocker](https://ransomwatch.telemetry.ltd/#/profiles?id=alphalocker) |
-| 2024-04-24 | [`Army Welfare Trust`](https://google.com/search?q=Army+Welfare+Trust) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
-| 2024-04-24 | [`CYNC SOLUTIONS - The unexpected target.<Updated>`](https://google.com/search?q=CYNC+SOLUTIONS+-+The+unexpected+target.%3CUpdated%3E) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-04-24 | [`Hirsh Industries`](https://google.com/search?q=Hirsh+Industries) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
-| 2024-04-23 | [`https://www.octapharmaplasma.com/`](https://google.com/search?q=https%3A%2F%2Fwww.octapharmaplasma.com%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
