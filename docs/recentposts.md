@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-05-08 | [`Glenwood Management`](https://google.com/search?q=Glenwood+Management) | [dAn0n](https://ransomwatch.telemetry.ltd/#/profiles?id=dAn0n) |
+| 2024-05-08 | [`Northeast Orthopedics and Sports Medicine`](https://google.com/search?q=Northeast+Orthopedics+and+Sports+Medicine) | [dAn0n](https://ransomwatch.telemetry.ltd/#/profiles?id=dAn0n) |
+| 2024-05-08 | [`College Park Industries`](https://google.com/search?q=College+Park+Industries) | [dAn0n](https://ransomwatch.telemetry.ltd/#/profiles?id=dAn0n) |
 | 2024-05-08 | [`Trade-Mark Industrial`](https://google.com/search?q=Trade-Mark+Industrial) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-05-08 | [`Richelieu Foods`](https://google.com/search?q=Richelieu+Foods) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-05-08 | [`Electric Mirror Inc`](https://google.com/search?q=Electric+Mirror+Inc) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2024-04-26 | [`Rocky Mountain Sales`](https://google.com/search?q=Rocky+Mountain+Sales) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-04-26 | [`Hong Kong College of Technology`](https://google.com/search?q=Hong+Kong+College+of+Technology) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2024-04-26 | [`Design Intoto <www.designintoto.com.au>`](https://google.com/search?q=Design+Intoto+%3Cwww.designintoto.com.au%3E) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-04-26 | [`Precision Time Systems <www.precisiontimesystems.com>`](https://google.com/search?q=Precision+Time+Systems+%3Cwww.precisiontimesystems.com%3E) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-04-26 | [`Jutebag <www.jutebag.co.uk>`](https://google.com/search?q=Jutebag+%3Cwww.jutebag.co.uk%3E) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-04-26 | [`Protected: HIDE NAME SELL DATA SOON`](https://google.com/search?q=Protected%3A+HIDE+NAME+SELL+DATA+SOON) | [ransomblog_noname](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomblog_noname) |
