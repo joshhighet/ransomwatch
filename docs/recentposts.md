@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-05-10 | [`colonialsd.org`](https://google.com/search?q=colonialsd.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2024-05-10 | [`21stcenturyvitamins.com`](https://google.com/search?q=21stcenturyvitamins.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-05-10 | [`http://www.mcbdds.org`](https://google.com/search?q=http%3A%2F%2Fwww.mcbdds.org) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-05-10 | [`LiveHelpNow`](https://google.com/search?q=LiveHelpNow) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-05-10 | [`Crescent Point Energy`](https://google.com/search?q=Crescent+Point+Energy) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-05-04 | [`frenckengroup.com`](https://google.com/search?q=frenckengroup.com) | [underground](https://ransomwatch.telemetry.ltd/#/profiles?id=underground) |
 | 2024-05-04 | [`synology.com`](https://google.com/search?q=synology.com) | [underground](https://ransomwatch.telemetry.ltd/#/profiles?id=underground) |
 | 2024-05-04 | [`tpa-group.sk`](https://google.com/search?q=tpa-group.sk) | [underground](https://ransomwatch.telemetry.ltd/#/profiles?id=underground) |
-| 2024-05-04 | [`Triathlon.group`](https://google.com/search?q=Triathlon.group) | [underground](https://ransomwatch.telemetry.ltd/#/profiles?id=underground) |
-| 2024-05-04 | [`awwg.com`](https://google.com/search?q=awwg.com) | [underground](https://ransomwatch.telemetry.ltd/#/profiles?id=underground) |
