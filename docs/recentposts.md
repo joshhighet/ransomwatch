@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-05-10 | [`Reading Electric`](https://google.com/search?q=Reading+Electric) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-05-10 | [`Kuhn Rechtsanwlte GmbH`](https://google.com/search?q=Kuhn+Rechtsanwlte+GmbH) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2024-05-09 | [`wisconsinindustrialcoatings.com`](https://google.com/search?q=wisconsinindustrialcoatings.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-05-09 | [`vstar.in`](https://google.com/search?q=vstar.in) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-05-04 | [`cochraneglobal.com`](https://google.com/search?q=cochraneglobal.com) | [underground](https://ransomwatch.telemetry.ltd/#/profiles?id=underground) |
 | 2024-05-04 | [`ikfhomefinance.com`](https://google.com/search?q=ikfhomefinance.com) | [darkvault](https://ransomwatch.telemetry.ltd/#/profiles?id=darkvault) |
 | 2024-05-04 | [`The Islamic Emirat of Afghanistan National Environmental Protection Agency <nepa.gov.af/df`](https://google.com/search?q=The+Islamic+Emirat+of+Afghanistan+National+Environmental+Protection+Agency+%3Cnepa.gov.af%2Fdf) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-05-04 | [`Accounting Professionals LLC. Price, Breazeale &#038; Chastang`](https://google.com/search?q=Accounting+Professionals+LLC.+Price%2C+Breazeale+%26%23038%3B+Chastang) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
