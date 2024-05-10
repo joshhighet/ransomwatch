@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-05-10 | [`http://www.mcbdds.org`](https://google.com/search?q=http%3A%2F%2Fwww.mcbdds.org) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
+| 2024-05-10 | [`LiveHelpNow`](https://google.com/search?q=LiveHelpNow) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-05-10 | [`Crescent Point Energy`](https://google.com/search?q=Crescent+Point+Energy) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2024-05-10 | [`NK Parts Industries`](https://google.com/search?q=NK+Parts+Industries) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-05-10 | [`Haumiller Engineering`](https://google.com/search?q=Haumiller+Engineering) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-05-10 | [`Badger Tag & Label`](https://google.com/search?q=Badger+Tag+%26+Label) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2024-05-04 | [`tpa-group.sk`](https://google.com/search?q=tpa-group.sk) | [underground](https://ransomwatch.telemetry.ltd/#/profiles?id=underground) |
 | 2024-05-04 | [`Triathlon.group`](https://google.com/search?q=Triathlon.group) | [underground](https://ransomwatch.telemetry.ltd/#/profiles?id=underground) |
 | 2024-05-04 | [`awwg.com`](https://google.com/search?q=awwg.com) | [underground](https://ransomwatch.telemetry.ltd/#/profiles?id=underground) |
-| 2024-05-04 | [`kc.co.kr`](https://google.com/search?q=kc.co.kr) | [underground](https://ransomwatch.telemetry.ltd/#/profiles?id=underground) |
-| 2024-05-04 | [`Y. Hata &amp; Co., Ltd.`](https://google.com/search?q=Y.+Hata+%26amp%3B+Co.%2C+Ltd.) | [underground](https://ransomwatch.telemetry.ltd/#/profiles?id=underground) |
-| 2024-05-04 | [`Skender Construction`](https://google.com/search?q=Skender+Construction) | [underground](https://ransomwatch.telemetry.ltd/#/profiles?id=underground) |
