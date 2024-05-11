@@ -1,4 +1,275 @@
-<head></head><body><h1>503 Service Unavailable</h1>
-No server is available to handle this request.
+<head>
+    <title>News</title>
+    <meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<link rel="stylesheet" href="../assets/css/reset.css">
+<link rel="stylesheet" href="../assets/css/bootstrap-grid.min.css">
+<link rel="stylesheet" href="../assets/css/swiper-bundle.min.css">
+
+<link rel="stylesheet" href="../assets/css/style.css">
+
+<script src="../assets/js/jquery.min.js"></script>
+<script src="../assets/js/swiper-bundle.min.js"></script>
+<script src="../assets/js/app.js" defer=""></script>
+</head>
+<body>
+<div class="wrapper">
+    
+<div id="UUID" class="mainModal">
+    <div class="modalUUID">
+        <a href="" title="Close" class="close">X</a>
+        <h2>ENTER UUID</h2>
+        <p>
+            To contact us, you must enter your personal UUID in the field below and press ENTER.
+            After logging in, you will receive detailed information about your company.
+        </p>
+        <form action="" method="post">
+            <input class="uuid-input" name="uuid" type="text" minlength="20" required="" placeholder="XXXX-XXXX-XXXX-XXXX">
+            <input type="hidden" name="uuid_redirect">
+            <input type="submit" value="ENTER">
+        </form>
+        <p class="gotofb">
+            If you do not have UUID, please contact via the
+            <a href="#feedback">feedback</a> form
+        </p>
+    </div>
+</div>
+<div id="feedback" class="mainModal">
+    <div class="modalFeedback">
+        <a href="#close" title="Закрыть" class="close">X</a>
+        <h2>Feedback</h2>
+        <p>
+            If you are the owner of the company you can leave your contact details and you will be provided with a UUID to enter the chat. If you are a media outlet, leave your contacts and we will contact you very soon.
+        </p>
+        <form action="" method="post">
+            <input name="feedback-name" required="" autocomplete="on" id="1" type="text" placeholder="Your name">
+            <input id="2" required="" name="feedback-contacts" autocomplete="on" type="email" placeholder="Your email">
+            <textarea name="feedback-message" required="" id="3" cols="30" rows="4" minlength="20" placeholder="Your message"></textarea>
+            <img src="data:image/jpeg;base64,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" alt="Enable images to see captcha" width="200" height="60">
+            <input name="captcha" required="" id="captcha" type="text" placeholder="Complete captcha">
+            <input type="hidden" name="gc_value" value="$2y$10$CMS5mupyy6.4GXNiucdtR.PN4KCIQdZCaVm3hbU3Q2OODmRdIonqm">
+            <input type="hidden" name="feedback_form">
+            <input type="submit" value="SEND">
+        </form>
+    </div>
+</div>
+<div id="public_notice" class="mainModal">
+    <div class="modalNotice">
+        <a href="" title="Close" class="close">X</a>
+        
+        <h2>Public notice</h2>
+        <p>
+            — I ain't fucking buying that.
+        </p>
+		<p>
+            — That's handy because I ain't fucking selling it. It's a fact.
+        </p>
+		<p>
+            by Guy Ritchie
+        </p>
+        <br>
+        <p>
+            1. Snatch is a leakage data base open for public use.
+        </p>
+        <p>
+            2. Snatch does not assume any responsibility for the information and the methods of its acquisition.
+        </p>
+        <p>
+            3. Snatch is ready to cooperate with any groups and companies that provide exclusive information for its further publication. The information source should in that case refuse to carry any responsibility for this information.
+        </p>
+        <p>
+            4. Snatch is ready to publish information of any content and confidential level ignoring all the possible consequences.
+        </p>
+        <p>
+            5. All responsibility for the publications lies upon the persons who made the information leakage possible from the sources they have been entrusted with.
+        </p>
+        <p>
+            6. Snatch publishes personal data and contacts of the personalities who are responsible for  data leakage and made it possible.
+        </p>
+        <p>
+            7. All the information and data published on our resource is of public use and can be shared with similar resources – but the right of the first publication always belongs to the Snatch team.
+        </p>
+        <p>
+            8. Snatch is open to the collaboration with any media to make data leakage situations shared and visible to wide range of people.
+        </p>
+        <p>
+            9. Snatch is always open for a dialogue with the owners of the data and is willing to solve the situation. One can always contact us within the confidential chat room or with the help of feedback form.
+        </p>
+        <p>
+            10. All negotiations are possible only with the means of our chat platform and are kept absolutely confidential.
+        </p>
+        <p>
+            11. Snatch does not assume any responsibility for the data publication consequences and confidential data usage. All the responsibility lies upon those who made the data leakage possible.
+        </p>    </div>
+</div>
+
+<div id="press_release" class="mainModal">
+    <div class="modalRelease">
+        <a href="" title="Close" class="close">X</a>
+        
+        <h2>Press release</h2>
+
+        
+        
+
+        <!-- Slider main container -->
+        <div class="swiper swiper-initialized swiper-horizontal">
+        <!-- Additional required wrapper -->
+        <div class="swiper-wrapper" style="transition-duration: 0ms; transition-delay: 0ms;" id="swiper-wrapper-2bdaf32c43839b13" aria-live="polite">
+
+            <div class="swiper-slide" data-swiper-slide-index="0" role="group" aria-label="1 / 3"><h3>S.N.Atch Manifesto</h3>
+                    <p class="release-data">2024-01-26 06:24:00 PM</p>
+                    <p>Dear Ladies and Gentlemen. In connection with the current catastrophic situation in the field of cybersecurity in the United States and other countries, in order to accelerate changes in the attitude of the existing authorities to the ongoing leaks and huge data dumping into the public segment of the Internet, we have decided not to publish any more information according to the scheme - impersonal business and impersonal power.</p><p>Business and power are united and go hand in hand. And each leak has its own name and face, both from the side of the business that allowed it and from the side of the authorities covering this business. That's why from now on each of our publications will be accompanied by personal data of presidents (owners of companies) and personal data of representatives of authorities assigned to this region. If the authorities don't care about personal data of ordinary citizens, then they don't care about their own data leakage either. That's why from now on all publications will follow a new formula - the face of the company, the face of the representative of the authority covering the company. De jure, any government official has the same rights and freedoms as ordinary citizens, so if a company voluntarily leaks its customers' and partners' data to the network, the government official responsible for legislation in this area should also be leaked. We do not hope to change the world and the government's attitude to what is happening, but we want you to know the face of those responsible for your cyber genocide.</p>
+                    </div><div class="swiper-slide" data-swiper-slide-index="1" role="group" aria-label="2 / 3"><h3>S.N.Atch out of politics</h3>
+                    <p class="release-data">2023-10-11 11:00:00 PM</p>
+                    <p>Many of our subscribers ask how we feel about what is happening in the world. Why, unlike, for example, Killnet or pro-Ukrainian hacker groups, we do not make loud statements and do not indicate our position on what is happening in the world. Why there are no targets on our portal, that are attached to one or another side in the confrontation. The answer is simple. We believe that it is unacceptable to deprive a person of life. Life is a great gift, given not by man, but to man. And under no circumstances, under no excuses another person has a right to take away this gift. Never on our portals you will find neither Russian, nor Ukrainian, nor Israeli, nor Palestinian targets. And we will ban with no mercy those who try to post them. </p><p><br></p><p>We want to prevent an imminent catastrophe, the name of which is World War III. And this war will not be as you are used to seeing it - explosions, deaths, bombings. Half of it will be held in cyberspace, thanks to the connivance of those who sneer at network security. We have already described on the channel attacks on a couple of targets that could collapse if they had been blocked. And there are thousands of such targets, and with a well-planned and organized attack it is possible to plunge the entire critical infrastructure of a single country into deep chaos. And the damage including human lives from such an attack will be much higher and much scarier than from bombing! </p><p><br></p><p>That is why we are against the coming apocalypse and we are trying by all possible means to draw your attention, the attention of the entire world community to the existing problems. This is our position, this is our mission and we will always keep to the chosen path. So do not wait for loud statements as other groups do, blood and tears cannot be justified! The precept "thou shalt not murder" - has no footnotes or annotations!</p>
+                    </div><div class="swiper-slide" data-swiper-slide-index="2" role="group" aria-label="3 / 3"><h3>Security Notification Attachment</h3>
+                    <p class="release-data">2023-09-27 12:00:00 AM</p>
+                    <p>We&nbsp;have&nbsp;been&nbsp;very&nbsp;often&nbsp;written&nbsp;about&nbsp;in&nbsp;various&nbsp;media&nbsp;in&nbsp;recent&nbsp;times.&nbsp;</p><p>We&nbsp;look&nbsp;through&nbsp;these&nbsp;articles&nbsp;and&nbsp;unfortunately&nbsp;we&nbsp;see&nbsp;the&nbsp;same&nbsp;mistake&nbsp;</p><p>in&nbsp;them&nbsp;that&nbsp;the&nbsp;media&nbsp;repeat&nbsp;year&nbsp;after&nbsp;year,&nbsp;without&nbsp;bothering&nbsp;to&nbsp;check&nbsp;the</p><p>data&nbsp;and&nbsp;study&nbsp;the&nbsp;history&nbsp;of&nbsp;the&nbsp;project.&nbsp;So&nbsp;we&nbsp;decided&nbsp;to&nbsp;help&nbsp;them.</p><p><br></p><p>First&nbsp;of&nbsp;all&nbsp;we&nbsp;have&nbsp;nothing&nbsp;to&nbsp;do&nbsp;with&nbsp;the&nbsp;Snatch&nbsp;ransomware&nbsp;project&nbsp;that&nbsp;</p><p>appeared&nbsp;in&nbsp;2019&nbsp;and&nbsp;existed&nbsp;for&nbsp;about&nbsp;2&nbsp;years.&nbsp;</p><p>We&nbsp;are&nbsp;the&nbsp;Security&nbsp;Notification&nbsp;Attachment&nbsp;(SNAtch&nbsp;for&nbsp;short)&nbsp;Team,&nbsp;</p><p>a&nbsp;group&nbsp;specializing&nbsp;exclusively&nbsp;in&nbsp;leaked&nbsp;sensitive&nbsp;data.&nbsp;</p><p>We&nbsp;don't&nbsp;deal&nbsp;with&nbsp;locking&nbsp;companies&nbsp;or&nbsp;critical&nbsp;infrastructure,&nbsp;</p><p>we&nbsp;don't&nbsp;aim&nbsp;to&nbsp;stop&nbsp;a&nbsp;company&nbsp;from&nbsp;operating&nbsp;by&nbsp;attacking&nbsp;it&nbsp;with&nbsp;software&nbsp;</p><p>that&nbsp;blocks&nbsp;the&nbsp;control&nbsp;servers.&nbsp;</p><p>If&nbsp;journalists&nbsp;analyze&nbsp;our&nbsp;work&nbsp;carefully,&nbsp;</p><p>they&nbsp;will&nbsp;see&nbsp;that&nbsp;not&nbsp;a&nbsp;single&nbsp;client&nbsp;of&nbsp;ours&nbsp;has&nbsp;been&nbsp;attacked&nbsp;by&nbsp;a&nbsp;malware</p><p>that&nbsp;can&nbsp;be&nbsp;called&nbsp;Snatch.&nbsp;</p><p><br></p><p>Yes,&nbsp;many&nbsp;of&nbsp;them&nbsp;have&nbsp;been&nbsp;attacked&nbsp;by&nbsp;various&nbsp;ransomware,</p><p>as&nbsp;we&nbsp;are&nbsp;open&nbsp;for&nbsp;cooperation&nbsp;and&nbsp;often&nbsp;groups&nbsp;that&nbsp;work&nbsp;in&nbsp;this&nbsp;direction</p><p>give&nbsp;us&nbsp;unique&nbsp;confidential&nbsp;data&nbsp;that&nbsp;were&nbsp;leaked&nbsp;from&nbsp;the&nbsp;attacked&nbsp;companies.&nbsp;</p><p>But&nbsp;once&nbsp;again,&nbsp;the&nbsp;Snatch&nbsp;locker&nbsp;that&nbsp;we&nbsp;are&nbsp;compared&nbsp;to&nbsp;in&nbsp;the&nbsp;media&nbsp;has&nbsp;never&nbsp;been&nbsp;used.&nbsp;</p><p><br></p><p>We&nbsp;believe&nbsp;that&nbsp;in&nbsp;order&nbsp;to&nbsp;solve&nbsp;the&nbsp;issue&nbsp;of&nbsp;computer&nbsp;security&nbsp;of&nbsp;the&nbsp;attacked&nbsp;company</p><p>it&nbsp;is&nbsp;necessary&nbsp;not&nbsp;to&nbsp;pressure&nbsp;with&nbsp;threats&nbsp;to&nbsp;completely&nbsp;stop&nbsp;the&nbsp;functioning&nbsp;of&nbsp;the&nbsp;company,&nbsp;</p><p>but&nbsp;the&nbsp;make&nbsp;voluntary&nbsp;obligation&nbsp;of&nbsp;the&nbsp;managers&nbsp;of&nbsp;the&nbsp;company&nbsp;for:</p><p> -&nbsp;data&nbsp;leaks</p><p> -&nbsp;network&nbsp;architecture&nbsp;leaks&nbsp;</p><p> -&nbsp;leaks&nbsp;of&nbsp;personal&nbsp;data&nbsp;of&nbsp;the&nbsp;company's&nbsp;management</p><p><br></p><p>In&nbsp;addition&nbsp;to&nbsp;payment,&nbsp;it&nbsp;is&nbsp;important&nbsp;for&nbsp;us&nbsp;that&nbsp;the&nbsp;company's&nbsp;management&nbsp;realizes</p><p>its&nbsp;responsibility&nbsp;for&nbsp;its&nbsp;customers&nbsp;and&nbsp;re-equips&nbsp;the&nbsp;network&nbsp;perimeter&nbsp;on&nbsp;a&nbsp;full&nbsp;scale.&nbsp;</p><p>Otherwise&nbsp;these&nbsp;leaks&nbsp;will&nbsp;continue&nbsp;year&nbsp;after&nbsp;year.</p><p><br></p><p>So&nbsp;the&nbsp;main&nbsp;thing&nbsp;that&nbsp;we&nbsp;want&nbsp;to&nbsp;say&nbsp;and&nbsp;convey&nbsp;to&nbsp;you&nbsp;is&nbsp;that</p><p>the&nbsp;Security&nbsp;Notification&nbsp;Attachment&nbsp;Team&nbsp;(SNAtch&nbsp;for&nbsp;short)&nbsp;has&nbsp;nothing&nbsp;to&nbsp;do&nbsp;with&nbsp;the&nbsp;Snatch</p><p>ransomware&nbsp;project.&nbsp;We&nbsp;are&nbsp;always&nbsp;open&nbsp;for&nbsp;cooperation&nbsp;and&nbsp;communication&nbsp;and&nbsp;if&nbsp;you&nbsp;</p><p>have&nbsp;any&nbsp;questions&nbsp;we&nbsp;are&nbsp;ready&nbsp;to&nbsp;answer&nbsp;them&nbsp;here&nbsp;&nbsp;in&nbsp;our&nbsp;tg&nbsp;channel&nbsp;<a href="https://t.me/snatch_team" target="_blank">https://t.me/snatch_team</a></p>
+                    </div>
+        </div>
+
+        <!-- If we need pagination -->
+        <div class="swiper-pagination swiper-pagination-bullets swiper-pagination-horizontal"><span class="swiper-pagination-bullet swiper-pagination-bullet-active" aria-current="true"></span><span class="swiper-pagination-bullet"></span><span class="swiper-pagination-bullet"></span></div>
+
+        <!-- If we need scrollbar -->
+        <div class="swiper-scrollbar swiper-scrollbar-horizontal"><div class="swiper-scrollbar-drag"></div></div>
+        <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+
+        <div class="swiper-footer">
+            <!-- If we need navigation buttons -->
+            <div class="swiper-button-prev" tabindex="0" role="button" aria-label="Previous slide" aria-controls="swiper-wrapper-2bdaf32c43839b13"></div>
+            <div class="swiper-button-next" tabindex="0" role="button" aria-label="Next slide" aria-controls="swiper-wrapper-2bdaf32c43839b13"></div>
+        </div>
+        
+
+    </div>
+
+</div>
+
+
+<header>
+    <div class="container">
+        <div class="row">
+            <div class="header-content">
+                <div class="header-start">
+                    <a href="#UUID">
+                        <span>Enter UUID</span>
+                    </a>
+                    <a href="#feedback">
+                        <span>Feedback</span>
+                    </a>
+                    <a href="#public_notice">
+                        <span>Public notice</span>
+                    </a>
+                    <a href="#press_release">
+                        <span>Press release</span>
+                    </a>
+                </div>
+                <div class="header-end">
+                    <div class="header-socials">
+                        <a href="https://t.me/snatch_team">
+                            <img src="../assets/images/telegram.svg" alt="telegram">
+                        </a>
+                    </div>
+                    <div class="header-buttons">
+                        <button class="b_tor" onclick="window.location.href='http://hl66646wtlp2naoqnhattngigjp5palgqmbwixepcjyq5i534acgqyad.onion/';">TOR</button>
+                        <button class="b_web" onclick="window.location.href='https://snatchnews.top/';">WEB</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>    <main>
+        <div class="container">
+            <div class="row">
+                <div class="sub-header">
+                    <div class="sh-start">
+                        <a href="index.php"><img src="./assets/images/logo.png" alt="Logo"></a>
+                    </div>
+                    <div class="sh-midle">
+                        <nav class="sh-midle-nav">
+                            <ul>
+                                <li class="sh-m-l"><a href="index.php?filter=full">Full data</a></li><li class="sh-m-l"><a href="index.php?filter=archive">Archive</a></li>                            </ul>
+                        </nav>
+                    </div>
+                    <div class="sh-end">
+                        <form class="news-search" method="post">
+                            <input class="news-search_input" type="text" placeholder="Search for company..." name="search">
+                            <button class="news-search_button" type="submit">
+                                <img src="./assets/images/n-search.svg" alt="">
+                            </button>
+                        </form>
+                    </div>
+                </div>
+                <div id="information_block">
+                    <div class="two-col-grid">
+                        <div class="grid-item">
+                            <div id="info_block"><p></p><p>Attention! Check out our manifesto! <strong>S.N.Atch Manifesto</strong> posted in the Press Release menu. It fundamentally changes the approaches to the work of the project and the attitude to working with targets. <a href="https://snatchteam.cc/#press_release"><strong>https://snatchteam.cc/#press_release</strong></a></p><p></p></div>                        </div>
+                        <div class="grid-item">
+                            <div id="info_block">
+                                <p>Your presence at this page means that we obtain your sensitive information and in case of your silence and refuse to bear responsibility all this data will be published no matter how important and confidential it is.</p>                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="m-main-content"><div class="m-c-main">
+<div class="ann-block"><div class="a-b-head"><div class="a-b-h-time">May 5, 2024 04:38 PM</div><div class="a-b-h-views-count d-flex"><img src="./assets/images/views-count.svg" alt=""><p class="a-b-h-v-c-views">8423</p></div></div><div class="a-b-name"><div class="a-b-n-name">UK government</div><span class="a-b-n-tag">Private Data</span></div><div class="a-b-text">More information in our telegram channel <a href="https://t.me/snatch_team" target="_blank">https://t.me/snatch_team</a> <strong>Rishi Sunak, Prime Minister of the UK</strong><strong>Grant Shapps, Secretary of State for Defence</strong><strong>Jeremy Hunt, Chancellor of the Exchequer</strong><strong>Alexander Boris de Pfeffel Johnson, former Prime Minister of the UK</strong><strong>Richard Moore, the Chief of MI6, the UK Secret Intelligence Service</strong><strong>Felicity Oswald OBE, Interim Chief Executive Officer</strong><strong>Sir Mark Peter Rowley QPM, head of London police</strong></div><div class="a-b-bottom"><div class="a-b-b-tags"></div><div class="a-b-b-readmore"><a href="#" class="a-b-b-r-link"><button class="a-b-b-r-l-button" onclick="window.location='news.php?id=9a1a5567-128d-48b2-ac29-a31d6078c7fa'"><p class="a-b-b-r-l-b-text">Read more</p><img class="a-b-b-r-l-b-img" src="./assets/images/readmore-arrow.svg" alt="arrow"></button></a></div></div></div><div class="ann-block"><div class="a-b-head"><div class="a-b-h-typedata">Full Data</div><div class="a-b-h-time">May 5, 2024 04:37 PM</div><div class="a-b-h-views-count d-flex"><img src="./assets/images/views-count.svg" alt=""><p class="a-b-h-v-c-views">21562</p></div></div><div class="a-b-name"><div class="a-b-n-name">Miki Travel Limited</div></div><div class="a-b-text">More information in our telegram channel <a href="https://t.me/snatch_team" target="_blank"><strong>https://t.me/snatch_team</strong></a><strong> </strong>Persons responsible for data leakage:Sir Mark Peter Rowley QPM is a British senior police officer who has been the Commissioner of Police of the Metropolis since September 2022. WikipediaBorn: November 1964 (age 59 years)Books: The Sleep of ReasonOffice: Commissioner of Police of the Metropolis since 2022Previous office: Assistant Commissioner of Police of the London Metropolis (2011–2014)Education: St Catharine's CollegeNationality: British</div><div class="a-b-bottom"><div class="a-b-b-tags"></div><div class="a-b-b-readmore"><a href="#" class="a-b-b-r-link"><button class="a-b-b-r-l-button" onclick="window.location='news.php?id=63cbe846-ea89-42bd-aeed-9ab97937a22f'"><p class="a-b-b-r-l-b-text">Read more</p><img class="a-b-b-r-l-b-img" src="./assets/images/readmore-arrow.svg" alt="arrow"></button></a></div></div></div><div class="ann-block"><div class="a-b-head"><div class="a-b-h-typedata">Full Data</div><div class="a-b-h-time">Apr 28, 2024 08:11 AM</div><div class="a-b-h-views-count d-flex"><img src="./assets/images/views-count.svg" alt=""><p class="a-b-h-v-c-views">40892</p></div></div><div class="a-b-name"><div class="a-b-n-name">Canadian Psychological Association</div></div><div class="a-b-text">More information in our telegram channel <a href="https://t.me/snatch_team" target="_blank"><strong>https://t.me/snatch_team</strong></a>Persons responsible for data leakage:lenn Brimacombe : Director, Policy and Public Affairshttps://www.linkedin.com/in/glenn-brimacombe-802b545https://facebook.com/glenn.brimacombebrimacombe@acaho.orggbrimacombe@cpa.ca+16138663613;</div><div class="a-b-bottom"><div class="a-b-b-tags"></div><div class="a-b-b-readmore"><a href="#" class="a-b-b-r-link"><button class="a-b-b-r-l-button" onclick="window.location='news.php?id=1a6e2f97-9d6b-4b88-86e4-c16ac81abee1'"><p class="a-b-b-r-l-b-text">Read more</p><img class="a-b-b-r-l-b-img" src="./assets/images/readmore-arrow.svg" alt="arrow"></button></a></div></div></div><div class="ann-block"><div class="a-b-head"><div class="a-b-h-time">Apr 25, 2024 11:43 PM</div><div class="a-b-h-views-count d-flex"><img src="./assets/images/views-count.svg" alt=""><p class="a-b-h-v-c-views">12960</p></div></div><div class="a-b-name"><div class="a-b-n-name">The Royal Family of Great Britain</div><span class="a-b-n-tag">New</span></div><div class="a-b-text">More information in our telegram channel <a href="https://t.me/snatch_team" target="_blank"><strong>https://t.me/snatch_team</strong></a>Charles III, the KingCamilla, the QueenWilliam, Prince of WalesCatherine, the Princess of WalesPrince George of WalesPrincess Charlotte of WalesPrince Louis of WalesPrince Henry, Duke of SussexMeghan, Duchess of SussexPrince Archie of SussexPrincess Lilibet os SussexPrince Edward Duke of EdinburghSophie, Duchess of EdinburghLady Louise WindsorJames, Earl of WessexPrince Andrew, Duke of YorkPrincess EugenieJames BrooksbankPrincess BeatriceEdoardo Mapelli MozziAndrew PhillipsPrincess AnnaZara TindallMike TindallPrince Michael of Kent</div><div class="a-b-bottom"><div class="a-b-b-tags"></div><div class="a-b-b-readmore"><a href="#" class="a-b-b-r-link"><button class="a-b-b-r-l-button" onclick="window.location='news.php?id=e5b6cf15-27df-42ab-bb25-d3a98137dbbd'"><p class="a-b-b-r-l-b-text">Read more</p><img class="a-b-b-r-l-b-img" src="./assets/images/readmore-arrow.svg" alt="arrow"></button></a></div></div></div><div class="ann-block"><div class="a-b-head"><div class="a-b-h-typedata">Full Data</div><div class="a-b-h-time">Apr 15, 2024 12:18 AM</div><div class="a-b-h-views-count d-flex"><img src="./assets/images/views-count.svg" alt=""><p class="a-b-h-v-c-views">28089</p></div></div><div class="a-b-name"><div class="a-b-n-name">Butler, Lavanceau &amp; Sober</div><span class="a-b-n-tag">Full Data</span></div><div class="a-b-text">More information in our telegram channel <a href="https://t.me/snatch_team" target="_blank"><strong>https://t.me/snatch_team</strong></a>Persons responsible for data leakage:Phone: (202) 727-2643Address:&nbsp;1350 Penn Ave NW FL 5 washington district of columbiaDate of registration: 2022-04-01 23:08:17.Date of Birth: 1972-08-02Document number: No DocumentJob Title: Mayor of District of Columbia DC elected in 2015Name: Muriel Elizabeth BowserParent's Name: Joan Bowser Joe BowserCategory: PEPCountry: United StatesGender: FemaleDate of registration: 2022-04-02 11:04:06 AMBirthdate: 1972-08-02Document number: No DocumentJob Title: Mayor of District of Columbia elected in 2014Name: Muriel Elizabeth BowserName of parent: Joan Bowser Joe BowserChildren: Miranda Elizabeth BowserCategory: PEPCountry: United StatesGender: Female;https://twitter.com/MayorBowserhttps://www.linkedin.com/in/murielbowserEmail:&nbsp;mayor@dc.govNickname:&nbsp;mayor_bowserName:&nbsp;Mayor Muriel BowserInstagram:&nbsp;1656026539;Email:&nbsp;mayor@dc.govTelephone:&nbsp;2025766034Address:&nbsp;70 N St NEState:&nbsp;DCLongitude:&nbsp;-77.006692Website:&nbsp;http://www.dc.govLatitude:&nbsp;38.913019Postal code:&nbsp;20002Name:&nbsp;District of Columbia GovernmentFax:&nbsp;(202) 727-0092Region:&nbsp;WashingtonCountry:&nbsp;us;Email:&nbsp;mayor@dc.govTelephone:&nbsp;2027244973Address:&nbsp;1100 1st St NWState:&nbsp;DCLongitude:&nbsp;-77.012367Website:&nbsp;http://www.dc.gov/Latitude:&nbsp;38.903466Postal code:&nbsp;20001Name:&nbsp;District of Columbia GovernmentFax:&nbsp;(610) 542-3100Region:&nbsp;WashingtonCountry:&nbsp;us;+12025766034Region:&nbsp;WashingtonCountry:&nbsp;us;Email:&nbsp;muriel.bowser@dc.govState:&nbsp;District of ColumbiaCity:&nbsp;WashingtonTitle:&nbsp;Mayor's Office of Talent and AppointmentsName:&nbsp;Mayor BowserWorking position:&nbsp;mayor's office talent appointmentsWork start date:&nbsp;2015-01-01LinkedIn:&nbsp;http://www.linkedin.com/in/murielbowserID:&nbsp;54c18d067468691639d5831fCountry:&nbsp;United States;Nickname:EmmBee2012murielbowserMurielBowserAddress:US DC 511 Washington 20012IP:174.205.9.23268.33.240.182Password:victory4809Name:Bowser MurielMuriel Bowser;Colette Lavanceau:PartnerFacebookID:&nbsp;10208359194396725twitter - Nickname:&nbsp;Colette5384Weibo ID:&nbsp;1884384395;Maryland CPA License Number: 13557410-997-9299 Ext 112clavanceau@blcpa.comclavanceau@centuryalt.comclavanceau@blscpafirm.com+13017760053+13015381218+14109979299+14433369613+13017516950+13016043015https://www.linkedin.com/in/colette-lavanceau-cpa-b7a3957;Name:CLavanceau@BLScpafirm.comColette Lavanceaucolette lavanceauColette PountnayLavanceau ColettePountnay ColetteAddress:US MD 511 Laurel 2070710450 SHAKER DRbaltimore, maryland, united statesCOLUMBIAEncrypted password:$2a$08$F/g7swbKxFK5WQtwkGN6X.qgUwPNIcTQ5NnfwC9lRX6ON2D83v2Yu01INJFWd8bk01HlN1L1BsnJsB6392E3TrhrXWxy7ZJIIbK0youCEpyDzWKWHl7rov5CqLGOYmZvj4pHbGg.1u4xY0HPJKzL7DEtVTlE5a1124808760c1b94a5060b8e82fe8f9787e43c2computer jeansSTmpwpXr1VAOMNickname:102083591943967251aba7687ff3f407b1a3098446Colette5384webuser 747034337IP:100.36.67.7575.148.6.46Password:demo5384drmo5384+14103125597+14105813826+14109979299+14802123639https://www.linkedin.com/in/evan-sober-8602557;Name:evan soberEvan SoberSober EvanAddress:10450 Shaker Dr Ste 112 columbia south carolinabaltimore, maryland, united statesColumbiaIP:143.127.122.60144.89.47.48156.12.103.99207.226.174.14765.71.227.15769.13.69.9969.28.192.7175.148.6.41Nickname:esober1evansoberPassword:shakersoberevan;https://www.facebook.com/profile.php?id=10208359194396725Telephone:&nbsp;+14106276786Telephone:&nbsp;+14109979992State:&nbsp;MDCity:&nbsp;SevernCities:&nbsp;SevernLongitude:&nbsp;-76.67766</div><div class="a-b-bottom"><div class="a-b-b-tags"></div><div class="a-b-b-readmore"><a href="#" class="a-b-b-r-link"><button class="a-b-b-r-l-button" onclick="window.location='news.php?id=75b74f15-2216-44bb-b0f4-7622a111d31e'"><p class="a-b-b-r-l-b-text">Read more</p><img class="a-b-b-r-l-b-img" src="./assets/images/readmore-arrow.svg" alt="arrow"></button></a></div></div></div><div class="ann-block"><div class="a-b-head"><div class="a-b-h-typedata">Full Data</div><div class="a-b-h-time">Apr 5, 2024 01:47 AM</div><div class="a-b-h-views-count d-flex"><img src="./assets/images/views-count.svg" alt=""><p class="a-b-h-v-c-views">346721</p></div></div><div class="a-b-name"><div class="a-b-n-name">Daylesford Organic</div><span class="a-b-n-tag">Full Data</span></div><div class="a-b-text">Persons responsible for data leakage: +61 3 5348 3329 Richard Smith:Director richard.smith@daylesford.com; Michael Engler:Head Baker michael.engler@daylesford.com; Marek Sznober:General Manager, Manager marek.sznober@daylesford.com; Michael Weber:Director, Managing Director michael.weber@daylesford.com; Amy Devine:Director, Director, Creative amy.devine@daylesford.com; Ophelia Hohler:Director, Director, Marketing ophelia.hohler@daylesford.com; Tom Cowley:Head of IT tom.cowley@daylesford.com; Marek Sznober:General Manager, Manager marek.sznober@daylesford.com; Ricky Rijs:Controller, Financial Controller ricky.rijs@daylesford.com; Antony Ely:Chef, Executive Chef antony.ely@daylesford.com; Kellie Poole:Partner, Partner, Recruitment kellie.poole@daylesford.com; Ross Rochelle:Senior Chef, Senior Sous Chef ross.rochelle@daylesford.com; Francesca McKay:Chef francesca.mckay@daylesford.com; David James:Sales Professional david.james@daylesford.com; Freddie Packe:Director, Director, Operations freddie.packe@daylesford.com; John Hardwick:Director john.hardwick@daylesford.com; Andrew Dick:Chairperson andrew.dick@tec.com.au andrew@daylesfordmacedonlife.com.au +61 467 676 543; Amy Price CRM Manager amy.price@daylesford.com aprice@daylesford.com +44 7872 995079 +44 7725 229530 +44 1246 591211; Hayden Winch:Founder and Owner hayden@perenova.com,koren@perenova.com +61 417 054 493 +61 3 5442 7377 +61 7 3102 2855; Sam Pridmore:Co-Founder and Owner samp@discoverdaylesford.com +61412634430; Allan Wolfta:company director allan@lakehouse.com.au larissa@lakehouse.com.au +61 419 303 657 +61 418 580 263 +61 418 506 784; Antony Ely Executive Chef antonyely@hotmail.com antony.ely@daylesford.com antony@brakspear.co.uk +441491570200; Stellario Borgia:Recruitment Advisor for Bamford (Luxury Beauty and Wellness) stellario.borgia@daylesford.com +447537847876; Steve Wroe:CEO wroey@me.com wroe@daylesfordmacedonlife.com.au +6141957481; Amy Devine:Creative Director amy.devine@daylesford.com +447530747702; Ophelia Hohler:Director of Marketing and PR ophelia.hohler@daylesford.com opheliahohler@gmail.com +443301003515 +447867791879; Tom Cowley:Head of IT tomcowley@gmail.com tcowley@daylesford.com +2072594444 +44 7500 554405 +44 20 7201 8731; Michael Weber:Managing Director sirlointhechef@hotmail.com michael.weber@daylesford.com +401-486-8502 +617-218-7120 +954-441-2680</div><div class="a-b-bottom"><div class="a-b-b-tags"></div><div class="a-b-b-readmore"><a href="#" class="a-b-b-r-link"><button class="a-b-b-r-l-button" onclick="window.location='news.php?id=c866760a-ef8e-453a-8236-12addcbd206e'"><p class="a-b-b-r-l-b-text">Read more</p><img class="a-b-b-r-l-b-img" src="./assets/images/readmore-arrow.svg" alt="arrow"></button></a></div></div></div><div class="ann-block"><div class="a-b-head"><div class="a-b-h-typedata">Full Data</div><div class="a-b-h-time">Apr 2, 2024 12:03 AM</div><div class="a-b-h-views-count d-flex"><img src="./assets/images/views-count.svg" alt=""><p class="a-b-h-v-c-views">27510</p></div></div><div class="a-b-name"><div class="a-b-n-name">Retirement Line</div><span class="a-b-n-tag">Full Data</span></div><div class="a-b-text">More information in our telegram channel <a href="https://t.me/snatch_team" target="_blank"><strong>https://t.me/snatch_team</strong></a>Persons responsible for data leakage:Jeremy Richard Streynsham HuntJeremy Richard Streynsham Hunt is a British politician serving as Chancellor of the Exchequer since 2022. WikipediaBorn: November 1, 1966 (age 57 years), Kennington, London, United KingdomSpouse: Lucia Hunt (m. 2009);Email:jez_hunt@hotmail.comjhunt23@live.co.uk;Password:abc0748008Wolfsiren10b16db7a45a98b6bdc05dec9facef716c4ja34vr2kdbqpft564ehuntsman1jeremy2576;Encrypted password:d3d25e66a7fd5b072487ffc4a26ee13db7d4d613$2y$10$wAu0CXPYcp0pM2qBpAQ.r.O.HNCGoK0Mup80S.6hOXwsrZIctUdDG0AAF944C836A99511C5A7AB15A8D2734D80500DF6629A79456C098F46F85BF2438698CCD089E257ABD950B84C4178C768E65BF04C732B6BE6AC6C155D0C5ABF252ca00641a5759338f396b266ef2910757fbc1ed38a1a3483a1891178ee760f036b2983583013d48fc2fd9868140e6e8:163cdfda7d99182b2329e2d28761174025df5d3f7d95d356bdc9363ff5b0293136aa9cd2 ;XBLm#T=c]5[rGLr[{(oa1Mt?SyV+(Nickname:jez565Huntboi33Jeremy H.Jeremy HunterTelephone:447912759809Name:JEREMY HUNT;Street:&nbsp;150-152 King Street, Hammersmith, W6 0QU, London, London, United KingdomStreet:&nbsp;23 Red Lion Lane, GU9 7QN, Farnham, Surrey, United KingdomStreet:&nbsp;40 Brackenbury Road, W6 0BB, London, London, United KingdomStreet:&nbsp;First Floor Bedford House 69-79 Fulham High Street, SW6 3JW, London, London, United Kingdom;447789834034Hayley Tattersall:Human Resources Directorhayley.tattersall@retirementline.co.ukhttps://www.linkedin.com/in/hayley-tattersall-9a6112b6;Name:hayley tattersallHayley TattersallTattersall HayleyEmail:hayleyhelen@gmail.comhtattersall@outlook.comhtattersall@srk.comEncrypted Password:!e6fbf5b6c545de93c08a68ef3c2eb67628b6787d61265c477565ce6b175f6e3fAddress:leicester, city of leicester, united kingdomPassword:soulmate12soulmate123IP:196.2.126.175Birthdate:1988-04-11Telephone:44082681657527726875529Location:-26.20,28.04-29.12,26.2152.63,-1.13Nickname:HayleyHelen;Heather Coomber:Training and Sales Auditorheather.coomber@retirementline.co.ukhttps://www.linkedin.com/in/heather-coomber-ba980391;Name:Coomber Heatherheather coomberHeather CoomberEmail:heather.coomber@hotmail.co.uknuttytart534@gmail.comnuttytart534@hotmail.co.ukAddress:cambridgeshire, cambridgeshire, united kingdomNickname:HeatherCoomberHeatherCoomber1nuttytart534;George Gilbert:Annuity Specialistgeorge.gilbert@retirementline.co.ukggilbert@capify.co.ukhttps://www.linkedin.com/in/george-gilbert-a301b7123;Charlie Dee:Non Executive Directorcharliedee@retirementline.co.ukcharlie.dee@annuityline.co.ukhttps://www.linkedin.com/in/charlie-dee-2828546a;Email:ceedee22ed@yahoo.comicbme@live.co.uk;Encrypted Password:$2y$10$8x8/dbMmCHngr6/3o5.jUe8uVpuDjJ9/dIpiGEt37YrBVJEuia00q2B3AE8807941F3AE8A8D74DBD4E72DE493E6D9A129FCD1331E959A3740D3BE3B3B26806BC3CAC3B1C49FB3DEC2C7B28162288DEEE579AFCC879058AB88DEAF59:wgakrgDGdy706WCG6bmE6dWI8K5axCdIEpVCAdXQ6Bh0Pq65COk74PhstClRlDjK7b2e7e9c9c9b61d90a9764a80a2173827deedf8e6c980569267c93cb88175a3693c38e49ebae449aef88dee52b9716c3:648984429918ab5232d6d691ce25245f7dcd49b7c352475d8104ae59deeb18d93e62a7f2c98fa68a0c27935c8ea716ffbc50af93c17794e1b56d4d614b3bd3a81a5ad65d9afd24d118ac63f114f61c9cc89721bf21ff59cabe44368460007b51f5bbd8db66394ae99b41f82c7bbd45694a9cdee94a52e94e6cc86d207c1bf6540fd36617a0eea4592ae63dee2421c1d4aa2d966505832ae8afcdd460bd5049deef2d3302e6794484:+Lp^tgn#.0</div><div class="a-b-bottom"><div class="a-b-b-tags"></div><div class="a-b-b-readmore"><a href="#" class="a-b-b-r-link"><button class="a-b-b-r-l-button" onclick="window.location='news.php?id=a83b6ad6-ae66-43bb-9513-840fdad630b2'"><p class="a-b-b-r-l-b-text">Read more</p><img class="a-b-b-r-l-b-img" src="./assets/images/readmore-arrow.svg" alt="arrow"></button></a></div></div></div><div class="ann-block"><div class="a-b-head"><div class="a-b-h-time">Mar 19, 2024 12:14 AM</div><div class="a-b-h-views-count d-flex"><img src="./assets/images/views-count.svg" alt=""><p class="a-b-h-v-c-views">20879</p></div></div><div class="a-b-name"><div class="a-b-n-name">Dörr Group</div><span class="a-b-n-tag">New</span></div><div class="a-b-text">Dürfen wir uns vorstellen? Wir sind Evelyn und Rainer Dörr. Wir sind Spezialisten für Supersportwagen – aber eigentlich geht es uns vor allem um Sie und was Sie vorhaben. Motorsport? Touren? Tolle Menschen treffen? Benzingespräche führen? Experten sprechen? Wir hätten da einige Ideen. Ideen, die bei den Freunden der Dörr Group seit 10 Jahren für Herzrasen sorgen. Also: Willkommen bei der Dörr Group! Steigen Sie ein!</div><div class="a-b-bottom"><div class="a-b-b-tags"></div><div class="a-b-b-readmore"><a href="#" class="a-b-b-r-link"><button class="a-b-b-r-l-button" onclick="window.location='news.php?id=4751b41f-0b1e-4c8a-b485-1fedc90cfd26'"><p class="a-b-b-r-l-b-text">Read more</p><img class="a-b-b-r-l-b-img" src="./assets/images/readmore-arrow.svg" alt="arrow"></button></a></div></div></div><div class="ann-block"><div class="a-b-head"><div class="a-b-h-typedata">Full Data</div><div class="a-b-h-time">Mar 17, 2024 08:03 PM</div><div class="a-b-h-views-count d-flex"><img src="./assets/images/views-count.svg" alt=""><p class="a-b-h-v-c-views">34734</p></div></div><div class="a-b-name"><div class="a-b-n-name">Frencken</div><span class="a-b-n-tag">Full Data</span></div><div class="a-b-text">More information in our telegram channel <a href="https://t.me/snatch_team" target="_blank"><strong>https://t.me/snatch_team</strong></a> Persons responsible for data leakage:Head of City Council Of Penang Island&nbsp;Rajendran P. Anthony.DATO' Ir. RAJENDRAN A/L P. ANTHONY D.S.P.N., A.M.N., B.C.N., P.K.T., P.J.K.;Rajendran P. Anthony, a distinguished figure in the administration of Penang Island, has recently assumed the esteemed position of Mayor of Penang Island. Let's delve into his background and accomplishments:Phone No : 04-2592111Email : datukbandar@mbpp.gov.mydatukbandar@ymail.comdatukbandar@yahoo.combd398e8d5b741c03f0d5790071cb724f2b562502rohani99wpf7753;https://myspace.com/433393310https://myspace.com/150763484https://twitter.com/DatukBandar1;@mbpp.gov.myDennis Au was appointed as President of our Group on 5 May 2015 and as our Executive Director on 28 April 2016Email: dennis.au@thomsonreuters.comTitle: Lead Technical Specialist, Technical Services &amp; ConnectivityFull name: Dennis AuJob: technical technical services connectivityStart Date: 2016-12-01LinkedIn Profile: https://www.linkedin.com/in/dennis-au-57684b113Country: Singapore;Email: dennis.au@wetseal.comPhone: 19496993900State: CaliforniaPostal Code: 92610Title: Director of Information Technology OperationsName: Dennis AuJob: information technology operationsStart date: 2012-06-01LinkedIn profile: https://www.linkedin.com/in/dennis-au-57684b113Country: United States;Email: dennis.au@rightstart.comPhone: 18187077100State: CaliforniaCity: CalabasasZip Code: 91302Title: Director Information TechnologyName: Dennis AuJob: information technologyStart date: 2012-06-01LinkedIn profile: https://www.linkedin.com/in/dennis-au-57684b113Country: United States;Email: dennis.au@outlook.comLast activity: 2015-11-28 13:27:54 PMDate of registration: 2015-11-28 13:27:53 PMNick: DennisAuFull name: Dennis Au;Nickname:armarroassiendaDanteVanZanDdevil94Den19AuDennisAu;Password:1yourmom4c2d4c85d6e3f4d68e9260142d92601449260149260149926014199260141239937014a410629albridyltayarmarrodennis69minalenashvillebpoagentnevernummer1;Encrypted password:$2a$08$UELx5aXRRpuseZ4I8ifVmeec40KysttmgkjKhk6cQgEchAPha9G.O$2a$08$UojhoQfSfRN9Jc/pOz/8zeGr4hGKyFwepJE/uBAoN4M5.pfKgQ5He$2a$10$8l4pdHWYhwHHfeRHCb75HuF43y/6PHOxLxm1A1LqhEnAPLcHqHT3C$2a$10$8YtG2WHhPaLvhIqlEoLtfu699xtnHo9XovZ2yPBd/S2xd8omk9Fo.$2a$10$_t99OkkURFgzxSaJZYgOLFTRt0Qjx8r$2a$10$O7VK9AtDcrX67eIEY4F3NO2Gmd93xgitU1Nl/YD5Z5K5VFglX653a$2a$10$rFqPJSriZerRtDUQUAdDYuYkCeTpoMRRYrVvNdEi4S.9OxhujaVIG</div><div class="a-b-bottom"><div class="a-b-b-tags"></div><div class="a-b-b-readmore"><a href="#" class="a-b-b-r-link"><button class="a-b-b-r-l-button" onclick="window.location='news.php?id=f264ff9f-bb66-4e45-9e7d-727ba8216d17'"><p class="a-b-b-r-l-b-text">Read more</p><img class="a-b-b-r-l-b-img" src="./assets/images/readmore-arrow.svg" alt="arrow"></button></a></div></div></div><div class="ann-block"><div class="a-b-head"><div class="a-b-h-time">Mar 12, 2024 11:39 PM</div><div class="a-b-h-views-count d-flex"><img src="./assets/images/views-count.svg" alt=""><p class="a-b-h-v-c-views">24022</p></div></div><div class="a-b-name"><div class="a-b-n-name">Seven Seas Group</div><span class="a-b-n-tag">New</span></div><div class="a-b-text">Seven Seas is a global maritime services group that specializes in providing general ship supplies, stores, provisions, and leading technical maritime brands through its extensive global network. Over five decades, Seven Seas has strived to be a trusted partner to our customers. Founded in 1971, Seven Seas operates throughout the Asia Pacific, the Middle East and Africa, Europe, and the Americas, with a global network focused on delivering exceptional customer service that “Keeps you sailing”.</div><div class="a-b-bottom"><div class="a-b-b-tags"></div><div class="a-b-b-readmore"><a href="#" class="a-b-b-r-link"><button class="a-b-b-r-l-button" onclick="window.location='news.php?id=fada4fc3-e1af-44b8-bcfc-2ced6ca31dd9'"><p class="a-b-b-r-l-b-text">Read more</p><img class="a-b-b-r-l-b-img" src="./assets/images/readmore-arrow.svg" alt="arrow"></button></a></div></div></div></div>
+<div class="m-c-aside">
+
+                
+
+    
+    <div class="m-c-aside-2">
+        <h2 class="aside-head">Full Data</h2>
+        <div class="aside-card"><a href="news.php?id=63cbe846-ea89-42bd-aeed-9ab97937a22f"></a><div class="aside-card-content"><a href="news.php?id=63cbe846-ea89-42bd-aeed-9ab97937a22f"><h3 class="a-c-c-h3">Miki Travel Limited</h3></a><h4 class="a-c-c-h4"><a href="news.php?id=63cbe846-ea89-42bd-aeed-9ab97937a22f">More information in our telegram channel </a><a href="https://t.me/snatch_team" target="_blank"><strong>https://t.me/snatch_team</strong></a><strong> </strong>Persons responsible for data leakage:Sir Mark Peter Rowley QPM is a British senior police officer who has been the Commissioner of Police of the ...</h4></div></div><div class="aside-card"><a href="news.php?id=1a6e2f97-9d6b-4b88-86e4-c16ac81abee1"></a><div class="aside-card-content"><a href="news.php?id=1a6e2f97-9d6b-4b88-86e4-c16ac81abee1"><h3 class="a-c-c-h3">Canadian Psychological Association</h3></a><h4 class="a-c-c-h4"><a href="news.php?id=1a6e2f97-9d6b-4b88-86e4-c16ac81abee1">More information in our telegram channel </a><a href="https://t.me/snatch_team" target="_blank"><strong>https://t.me/snatch_team</strong></a>Persons responsible for data leakage:lenn Brimacombe : Director, Policy and Public Affairshttps://www.linkedin.com/in/glenn-brimacombe-802b545https://facebook.com/...</h4></div></div><div class="aside-card"><a href="news.php?id=75b74f15-2216-44bb-b0f4-7622a111d31e"></a><div class="aside-card-content"><a href="news.php?id=75b74f15-2216-44bb-b0f4-7622a111d31e"><h3 class="a-c-c-h3">Butler, Lavanceau &amp; Sober</h3></a><h4 class="a-c-c-h4"><a href="news.php?id=75b74f15-2216-44bb-b0f4-7622a111d31e">More information in our telegram channel </a><a href="https://t.me/snatch_team" target="_blank"><strong>https://t.me/snatch_team</strong></a>Persons responsible for data leakage:Phone: (202) 727-2643Address:&nbsp;1350 Penn Ave NW FL 5 washington district of columbiaDate of registration: 2022-04-01 23:08:17.D...</h4></div></div><div class="aside-card"><a href="news.php?id=c866760a-ef8e-453a-8236-12addcbd206e"><div class="aside-card-content"><h3 class="a-c-c-h3">Daylesford Organic</h3><h4 class="a-c-c-h4">Persons responsible for data leakage: +61 3 5348 3329 Richard Smith:Director richard.smith@daylesford.com; Michael Engler:Head Baker michael.engler@daylesford.com; Marek Sznober:General Manager, Manager marek.sznober@daylesford.com; Michael Weber:Director, Managing Director michael.weber@daylesford....</h4></div></a></div><div class="aside-card"><a href="news.php?id=a83b6ad6-ae66-43bb-9513-840fdad630b2"></a><div class="aside-card-content"><a href="news.php?id=a83b6ad6-ae66-43bb-9513-840fdad630b2"><h3 class="a-c-c-h3">Retirement Line</h3></a><h4 class="a-c-c-h4"><a href="news.php?id=a83b6ad6-ae66-43bb-9513-840fdad630b2">More information in our telegram channel </a><a href="https://t.me/snatch_team" target="_blank"><strong>https://t.me/snatch_team</strong></a>Persons responsible for data leakage:Jeremy Richard Streynsham HuntJeremy Richard Streynsham Hunt is a British politician serving as Chancellor of the Exchequer si...</h4></div></div>    </div>
+</div></div><div class="main-nav">
+    <div class="main-nav-nav">
+        <a class="m-n-n-link link-unactive"><p class="m-n-n-l-text">Previous page</p></a>        <div class="main-nav-numbers">
+        <a class="m-n-n-number">1</a><a class="m-n-n-number" href="index.php?page=2">2</a><a class="m-n-n-number" href="index.php?page=3">3</a><a class="m-n-n-number" href="index.php?page=4">4</a>        </div>
+        <a class="m-n-n-link" href="index.php?page=2"><p class="m-n-n-l-text">Next page</p></a>    </div>
+</div>            </div>
+        </div>
+    </main>
+    <footer>
+        <div class="container">
+            <div class="row">
+                <div class="header-content">
+                    <div class="header-start">
+                        <a href="#UUID">
+                            <span>Enter UUID</span>
+                        </a>
+                        <a href="#feedback">
+                            <span>Feedback</span>
+                        </a>
+                    </div>
+                    <div class="header-end">
+                        <div class="header-socials">
+                            <a href="https://t.me/snatch_team">
+                                <img src="./assets/images/telegram.svg" alt="telegram">
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+</div>
+<script>
+    $("body").on("input", ".uuid-input", function () {
+        this.value = this.value.toUpperCase();
+    });
+</script>
+<script>
+    let banner_div = document.getElementById("banner_place");
+    if ((window.location.pathname !== "/index.php" && window.location.pathname !== "/") || window.location.search !== "") {
+        banner_div.style.display = "none";
+    } else {
+        if (banner_div.innerText !== "")
+        {
+            document.getElementsByClassName("m-main-content")[0].style.marginTop = "3rem"
+        }
+    }
+</script>
+
 
 </body>
