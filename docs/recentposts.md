@@ -4,6 +4,22 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-05-11 | [`https://frankmiller.com/`](https://google.com/search?q=https%3A%2F%2Ffrankmiller.com%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
+| 2024-05-11 | [`Cembell Industries`](https://google.com/search?q=Cembell+Industries) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
+| 2024-05-11 | [`MCS`](https://google.com/search?q=MCS) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
+| 2024-05-11 | [`Beloinlaw`](https://google.com/search?q=Beloinlaw) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
+| 2024-05-11 | [`etateam.be`](https://google.com/search?q=etateam.be) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
+| 2024-05-11 | [`jean-nouvel`](https://google.com/search?q=jean-nouvel) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
+| 2024-05-11 | [`watergate`](https://google.com/search?q=watergate) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
+| 2024-05-11 | [`The law firm Dr. Fingerle Rechtsanwälte`](https://google.com/search?q=The+law+firm+Dr.+Fingerle+Rechtsanw%C3%A4lte) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
+| 2024-05-11 | [`Intuitae`](https://google.com/search?q=Intuitae) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
+| 2024-05-11 | [`Dr Charles A Evans`](https://google.com/search?q=Dr+Charles+A+Evans) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
+| 2024-05-11 | [`Tholen Building Technology Group`](https://google.com/search?q=Tholen+Building+Technology+Group) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
+| 2024-05-11 | [`The Weinstein Firm `](https://google.com/search?q=The+Weinstein+Firm+) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
+| 2024-05-11 | [`williamsrdm.com `](https://google.com/search?q=williamsrdm.com+) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
+| 2024-05-11 | [`inforius`](https://google.com/search?q=inforius) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
+| 2024-05-11 | [`Holstein Association USA`](https://google.com/search?q=Holstein+Association+USA) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
+| 2024-05-11 | [`Edlong`](https://google.com/search?q=Edlong) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-05-10 | [`colonialsd.org`](https://google.com/search?q=colonialsd.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-05-10 | [`21stcenturyvitamins.com`](https://google.com/search?q=21stcenturyvitamins.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-05-10 | [`http://www.mcbdds.org`](https://google.com/search?q=http%3A%2F%2Fwww.mcbdds.org) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
@@ -188,19 +204,3 @@ _last `200` posts_
 | 2024-05-06 | [`http://www.nestoilgroup.com`](https://google.com/search?q=http%3A%2F%2Fwww.nestoilgroup.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-05-05 | [`Coinmama`](https://google.com/search?q=Coinmama) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
 | 2024-05-05 | [`SBC Global, Bitfinex, Coinmama, and Rutgers University Part 2`](https://google.com/search?q=SBC+Global%2C+Bitfinex%2C+Coinmama%2C+and+Rutgers+University+Part+2) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
-| 2024-05-05 | [`CMAC Transportation`](https://google.com/search?q=CMAC+Transportation) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2024-05-05 | [`IDS`](https://google.com/search?q=IDS) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2024-05-05 | [`swisspro`](https://google.com/search?q=swisspro) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2024-05-05 | [`Olson &amp; Co. Steel`](https://google.com/search?q=Olson+%26amp%3B+Co.+Steel) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2024-05-05 | [`Territorio Energia Ambiente S.P.A`](https://google.com/search?q=Territorio+Energia+Ambiente+S.P.A) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2024-05-05 | [`Ayesa`](https://google.com/search?q=Ayesa) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2024-05-05 | [`SYNLAB`](https://google.com/search?q=SYNLAB) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2024-05-05 | [`Active-PCB`](https://google.com/search?q=Active-PCB) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2024-05-05 | [`Gai`](https://google.com/search?q=Gai) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2024-05-04 | [`SBC Global, Bitfinex, Coinmom, and Rutgers University Part 2`](https://google.com/search?q=SBC+Global%2C+Bitfinex%2C+Coinmom%2C+and+Rutgers+University+Part+2) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
-| 2024-05-04 | [`firstmac.com.au`](https://google.com/search?q=firstmac.com.au) | [embargo](https://ransomwatch.telemetry.ltd/#/profiles?id=embargo) |
-| 2024-05-04 | [`mulfordconstruction.com`](https://google.com/search?q=mulfordconstruction.com) | [embargo](https://ransomwatch.telemetry.ltd/#/profiles?id=embargo) |
-| 2024-05-04 | [`bulldogbag.com`](https://google.com/search?q=bulldogbag.com) | [underground](https://ransomwatch.telemetry.ltd/#/profiles?id=underground) |
-| 2024-05-04 | [`frenckengroup.com`](https://google.com/search?q=frenckengroup.com) | [underground](https://ransomwatch.telemetry.ltd/#/profiles?id=underground) |
-| 2024-05-04 | [`synology.com`](https://google.com/search?q=synology.com) | [underground](https://ransomwatch.telemetry.ltd/#/profiles?id=underground) |
-| 2024-05-04 | [`tpa-group.sk`](https://google.com/search?q=tpa-group.sk) | [underground](https://ransomwatch.telemetry.ltd/#/profiles?id=underground) |
