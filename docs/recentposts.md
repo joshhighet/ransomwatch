@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-05-11 | [`http://www.jacksongov.org`](https://google.com/search?q=http%3A%2F%2Fwww.jacksongov.org) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-05-11 | [`https://frankmiller.com/`](https://google.com/search?q=https%3A%2F%2Ffrankmiller.com%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-05-11 | [`Cembell Industries`](https://google.com/search?q=Cembell+Industries) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-05-11 | [`MCS`](https://google.com/search?q=MCS) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-05-06 | [`https://trctalent.com/`](https://google.com/search?q=https%3A%2F%2Ftrctalent.com%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-05-06 | [`http://www.nestoilgroup.com`](https://google.com/search?q=http%3A%2F%2Fwww.nestoilgroup.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-05-05 | [`Coinmama`](https://google.com/search?q=Coinmama) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
-| 2024-05-05 | [`SBC Global, Bitfinex, Coinmama, and Rutgers University Part 2`](https://google.com/search?q=SBC+Global%2C+Bitfinex%2C+Coinmama%2C+and+Rutgers+University+Part+2) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
