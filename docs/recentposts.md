@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-05-13 | [`concordegroup.ca\$150M\CANADA\2GB\100%DISCLOSED`](https://google.com/search?q=concordegroup.ca%5C%24150M%5CCANADA%5C2GB%5C100%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
+| 2024-05-13 | [`scanda.com.mx\$23.6M\MEXICO\387GB\&lt;1%DISCLOSED`](https://google.com/search?q=scanda.com.mx%5C%2423.6M%5CMEXICO%5C387GB%5C%26lt%3B1%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-05-12 | [`Hohenadel`](https://google.com/search?q=Hohenadel) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-05-12 | [`Romeo Pitaro Injury and Litigation Lawyers`](https://google.com/search?q=Romeo+Pitaro+Injury+and+Litigation+Lawyers) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-05-11 | [`NHS (press update)`](https://google.com/search?q=NHS+%28press+update%29) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-05-06 | [`Pettinicchi, LLC`](https://google.com/search?q=Pettinicchi%2C+LLC) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-05-06 | [`Nikolaus and Hohenadel`](https://google.com/search?q=Nikolaus+and+Hohenadel) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-05-06 | [`M2E Consulting Engin eers`](https://google.com/search?q=M2E+Consulting+Engin+eers) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2024-05-06 | [`eskarabajo.mx`](https://google.com/search?q=eskarabajo.mx) | [darkvault](https://ransomwatch.telemetry.ltd/#/profiles?id=darkvault) |
-| 2024-05-06 | [`http://vinoly.com`](https://google.com/search?q=http%3A%2F%2Fvinoly.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
