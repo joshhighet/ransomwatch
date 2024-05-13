@@ -4,6 +4,16 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-05-13 | [`Treasury of Cote d'Ivoire`](https://google.com/search?q=Treasury+of+Cote+d%27Ivoire) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
+| 2024-05-13 | [`acfin.cl\$25.1M\Chile\460GB\&lt;1%DISCLOSED`](https://google.com/search?q=acfin.cl%5C%2425.1M%5CChile%5C460GB%5C%26lt%3B1%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
+| 2024-05-13 | [`W.I.S. Sicherheit`](https://google.com/search?q=W.I.S.+Sicherheit) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2024-05-13 | [`Sigmund Espeland AS`](https://google.com/search?q=Sigmund+Espeland+AS) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2024-05-13 | [`Service public de Wallonie`](https://google.com/search?q=Service+public+de+Wallonie) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2024-05-13 | [`New Boston Dental Care`](https://google.com/search?q=New+Boston+Dental+Care) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2024-05-13 | [`Fic Expertise`](https://google.com/search?q=Fic+Expertise) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2024-05-13 | [`Cushman Contracting Corporation`](https://google.com/search?q=Cushman+Contracting+Corporation) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2024-05-13 | [`Costa Edutainment SpA`](https://google.com/search?q=Costa+Edutainment+SpA) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2024-05-13 | [`Brovedani Group`](https://google.com/search?q=Brovedani+Group) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2024-05-13 | [`concordegroup.ca\$150M\CANADA\2GB\100%DISCLOSED`](https://google.com/search?q=concordegroup.ca%5C%24150M%5CCANADA%5C2GB%5C100%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-05-13 | [`scanda.com.mx\$23.6M\MEXICO\387GB\&lt;1%DISCLOSED`](https://google.com/search?q=scanda.com.mx%5C%2423.6M%5CMEXICO%5C387GB%5C%26lt%3B1%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-05-12 | [`Hohenadel`](https://google.com/search?q=Hohenadel) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
@@ -194,13 +204,3 @@ _last `200` posts_
 | 2024-05-07 | [`Somerville`](https://google.com/search?q=Somerville) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-05-07 | [`Sentry Data Management`](https://google.com/search?q=Sentry+Data+Management) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-05-07 | [`Mauritzon`](https://google.com/search?q=Mauritzon) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-05-07 | [`KC Scout`](https://google.com/search?q=KC+Scout) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-05-07 | [`High Performance Services`](https://google.com/search?q=High+Performance+Services) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-05-07 | [`Donco Air`](https://google.com/search?q=Donco+Air) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-05-07 | [`Central Florida Equipment`](https://google.com/search?q=Central+Florida+Equipment) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-05-07 | [`Affordable Payroll & Bookkeeping Services`](https://google.com/search?q=Affordable+Payroll+%26+Bookkeeping+Services) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-05-06 | [`Thaayakam LTD <thaayakam.co.uk>`](https://google.com/search?q=Thaayakam+LTD+%3Cthaayakam.co.uk%3E) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-05-06 | [`NRS Healthcare <www.nrshealthcare.com>`](https://google.com/search?q=NRS+Healthcare+%3Cwww.nrshealthcare.com%3E) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-05-06 | [`Pettinicchi, LLC`](https://google.com/search?q=Pettinicchi%2C+LLC) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2024-05-06 | [`Nikolaus and Hohenadel`](https://google.com/search?q=Nikolaus+and+Hohenadel) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2024-05-06 | [`M2E Consulting Engin eers`](https://google.com/search?q=M2E+Consulting+Engin+eers) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
