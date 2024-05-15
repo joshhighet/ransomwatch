@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-05-15 | [`http://pierfoundry.com`](https://google.com/search?q=http%3A%2F%2Fpierfoundry.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
+| 2024-05-15 | [`Neovia`](https://google.com/search?q=Neovia) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
 | 2024-05-14 | [`Fiskars Group`](https://google.com/search?q=Fiskars+Group) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-05-14 | [`Bruno generators (It alian manufacturing)`](https://google.com/search?q=Bruno+generators+%28It+alian+manufacturing%29) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-05-14 | [`Allen Blasting and Coating`](https://google.com/search?q=Allen+Blasting+and+Coating) | [dAn0n](https://ransomwatch.telemetry.ltd/#/profiles?id=dAn0n) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-05-07 | [`cdev.gc.ca`](https://google.com/search?q=cdev.gc.ca) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-05-07 | [`carespring.com`](https://google.com/search?q=carespring.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-05-07 | [`arcus.pl`](https://google.com/search?q=arcus.pl) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-05-07 | [`aev-iledefrance.fr`](https://google.com/search?q=aev-iledefrance.fr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-05-07 | [`acsistemas.com`](https://google.com/search?q=acsistemas.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
