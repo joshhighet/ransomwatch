@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-05-15 | [`project sold`](https://google.com/search?q=project+sold) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2024-05-15 | [`Surrey Place Healthcare & Rehabilitation`](https://google.com/search?q=Surrey+Place+Healthcare+%26+Rehabilitation) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2024-05-15 | [`Litigation Lawyers`](https://google.com/search?q=Litigation+Lawyers) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-05-15 | [`Co, Chartered Accountants`](https://google.com/search?q=Co%2C+Chartered+Accountants) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-05-07 | [`geotechenv.com`](https://google.com/search?q=geotechenv.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-05-07 | [`gammarenax.ch`](https://google.com/search?q=gammarenax.ch) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-05-07 | [`eviivo.com`](https://google.com/search?q=eviivo.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-05-07 | [`epr-groupe.fr`](https://google.com/search?q=epr-groupe.fr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
