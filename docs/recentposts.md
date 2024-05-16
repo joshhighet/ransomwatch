@@ -4,6 +4,13 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-05-16 | [`Administração do Porto de São Francisco do Sul (APSFS)`](https://google.com/search?q=Administra%C3%A7%C3%A3o+do+Porto+de+S%C3%A3o+Francisco+do+Sul+%28APSFS%29) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-05-16 | [`500gb/www.confins.com.br/10kk/BR/Come to chat or we will attack you again.`](https://google.com/search?q=500gb%2Fwww.confins.com.br%2F10kk%2FBR%2FCome+to+chat+or+we+will+attack+you+again.) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-05-16 | [`eucatex.com.br`](https://google.com/search?q=eucatex.com.br) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-05-16 | [`Rocky Mountain Sales <www.rockymountainsales.com>`](https://google.com/search?q=Rocky+Mountain+Sales+%3Cwww.rockymountainsales.com%3E) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-05-16 | [`City of Neodesha<neodesha.org>`](https://google.com/search?q=City+of+Neodesha%3Cneodesha.org%3E) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-05-16 | [`Chuo System Service Co.,Ltd <chuoss.co.jp>`](https://google.com/search?q=Chuo+System+Service+Co.%2CLtd+%3Cchuoss.co.jp%3E) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-05-16 | [`East Shore Sound`](https://google.com/search?q=East+Shore+Sound) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-05-16 | [`thermalsolutionsllc.com`](https://google.com/search?q=thermalsolutionsllc.com) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
 | 2024-05-16 | [`escriba.com.br`](https://google.com/search?q=escriba.com.br) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
 | 2024-05-15 | [`project sold`](https://google.com/search?q=project+sold) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
@@ -197,10 +204,3 @@ _last `200` posts_
 | 2024-05-07 | [`parat-techology.com`](https://google.com/search?q=parat-techology.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-05-07 | [`oraclinical.com`](https://google.com/search?q=oraclinical.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-05-07 | [`netspectrum.ca`](https://google.com/search?q=netspectrum.ca) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-05-07 | [`kras.hr`](https://google.com/search?q=kras.hr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-05-07 | [`isee.biz`](https://google.com/search?q=isee.biz) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-05-07 | [`irc.be`](https://google.com/search?q=irc.be) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-05-07 | [`htcinc.com`](https://google.com/search?q=htcinc.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-05-07 | [`grand-indonesia.com`](https://google.com/search?q=grand-indonesia.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-05-07 | [`getcloudapp.com`](https://google.com/search?q=getcloudapp.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-05-07 | [`geotechenv.com`](https://google.com/search?q=geotechenv.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
