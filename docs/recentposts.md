@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-05-16 | [`OKUANT - okuant.com`](https://google.com/search?q=OKUANT+-+okuant.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-05-16 | [`Insurance Agency Marketing Services`](https://google.com/search?q=Insurance+Agency+Marketing+Services) | [moneymessage](https://ransomwatch.telemetry.ltd/#/profiles?id=moneymessage) |
 | 2024-05-16 | [`utc-silverstone.co.uk`](https://google.com/search?q=utc-silverstone.co.uk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-05-16 | [`twpunionschools.org`](https://google.com/search?q=twpunionschools.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-05-07 | [`https://jetsonmarketing.com`](https://google.com/search?q=https%3A%2F%2Fjetsonmarketing.com) | [metaencryptor](https://ransomwatch.telemetry.ltd/#/profiles?id=metaencryptor) |
 | 2024-05-07 | [`https://www.vega-reederei.de`](https://google.com/search?q=https%3A%2F%2Fwww.vega-reederei.de) | [metaencryptor](https://ransomwatch.telemetry.ltd/#/profiles?id=metaencryptor) |
 | 2024-05-07 | [`Information Integration Experts`](https://google.com/search?q=Information+Integration+Experts) | [dAn0n](https://ransomwatch.telemetry.ltd/#/profiles?id=dAn0n) |
-| 2024-05-07 | [`woldae.com`](https://google.com/search?q=woldae.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
