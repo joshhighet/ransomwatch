@@ -4,6 +4,21 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-05-16 | [`utc-silverstone.co.uk`](https://google.com/search?q=utc-silverstone.co.uk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2024-05-16 | [`twpunionschools.org`](https://google.com/search?q=twpunionschools.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2024-05-16 | [`oseranhahn.com`](https://google.com/search?q=oseranhahn.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2024-05-16 | [`morrisgroupint.com`](https://google.com/search?q=morrisgroupint.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2024-05-16 | [`keuka.edu`](https://google.com/search?q=keuka.edu) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2024-05-16 | [`kauffmanschool.org`](https://google.com/search?q=kauffmanschool.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2024-05-16 | [`jmjcorporation.com`](https://google.com/search?q=jmjcorporation.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2024-05-16 | [`hesperiausd.org`](https://google.com/search?q=hesperiausd.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2024-05-16 | [`epsd.org`](https://google.com/search?q=epsd.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2024-05-16 | [`ema-eda.com`](https://google.com/search?q=ema-eda.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2024-05-16 | [`district70.org`](https://google.com/search?q=district70.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2024-05-16 | [`daubertchemical.com`](https://google.com/search?q=daubertchemical.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2024-05-16 | [`countyins.com`](https://google.com/search?q=countyins.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2024-05-16 | [`allcare-med.com`](https://google.com/search?q=allcare-med.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2024-05-16 | [`acla.de`](https://google.com/search?q=acla.de) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-05-16 | [`Administração do Porto de São Francisco do Sul (APSFS)`](https://google.com/search?q=Administra%C3%A7%C3%A3o+do+Porto+de+S%C3%A3o+Francisco+do+Sul+%28APSFS%29) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-05-16 | [`500gb/www.confins.com.br/10kk/BR/Come to chat or we will attack you again.`](https://google.com/search?q=500gb%2Fwww.confins.com.br%2F10kk%2FBR%2FCome+to+chat+or+we+will+attack+you+again.) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-05-16 | [`eucatex.com.br`](https://google.com/search?q=eucatex.com.br) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -189,18 +204,3 @@ _last `200` posts_
 | 2024-05-07 | [`Information Integration Experts`](https://google.com/search?q=Information+Integration+Experts) | [dAn0n](https://ransomwatch.telemetry.ltd/#/profiles?id=dAn0n) |
 | 2024-05-07 | [`woldae.com`](https://google.com/search?q=woldae.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
 | 2024-05-07 | [`JFK Financial Inc.`](https://google.com/search?q=JFK+Financial+Inc.) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2024-05-07 | [`SBC Global, Bitfinex, Coinmama, and Rutgers University Part 2 Leak`](https://google.com/search?q=SBC+Global%2C+Bitfinex%2C+Coinmama%2C+and+Rutgers+University+Part+2+Leak) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
-| 2024-05-07 | [`yucatan.gob.mx`](https://google.com/search?q=yucatan.gob.mx) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-05-07 | [`ville-bouchemaine.fr`](https://google.com/search?q=ville-bouchemaine.fr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-05-07 | [`thebiglifegroup.com`](https://google.com/search?q=thebiglifegroup.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-05-07 | [`telekom.com`](https://google.com/search?q=telekom.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-05-07 | [`tdt.aero`](https://google.com/search?q=tdt.aero) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-05-07 | [`syntax-architektur.at`](https://google.com/search?q=syntax-architektur.at) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-05-07 | [`svenskakyrkan.se`](https://google.com/search?q=svenskakyrkan.se) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-05-07 | [`sunray.com`](https://google.com/search?q=sunray.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-05-07 | [`sonoco.com`](https://google.com/search?q=sonoco.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-05-07 | [`remagroup.com`](https://google.com/search?q=remagroup.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-05-07 | [`qstartlabs.com`](https://google.com/search?q=qstartlabs.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-05-07 | [`parat-techology.com`](https://google.com/search?q=parat-techology.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-05-07 | [`oraclinical.com`](https://google.com/search?q=oraclinical.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-05-07 | [`netspectrum.ca`](https://google.com/search?q=netspectrum.ca) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
