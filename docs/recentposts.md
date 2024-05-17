@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-05-17 | [`orga-soft.de`](https://google.com/search?q=orga-soft.de) | [embargo](https://ransomwatch.telemetry.ltd/#/profiles?id=embargo) |
 | 2024-05-17 | [`www.belcherpharma.com`](https://google.com/search?q=www.belcherpharma.com) | [underground](https://ransomwatch.telemetry.ltd/#/profiles?id=underground) |
 | 2024-05-17 | [`valleyjoist.com`](https://google.com/search?q=valleyjoist.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-05-17 | [`Houston Waste Solutions <www.houstonwastesolutions.com>`](https://google.com/search?q=Houston+Waste+Solutions+%3Cwww.houstonwastesolutions.com%3E) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-05-08 | [`lenmed.co.za`](https://google.com/search?q=lenmed.co.za) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-05-08 | [`kimmelcleaners.com`](https://google.com/search?q=kimmelcleaners.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-05-08 | [`gorrias-mercedes-benz.fr`](https://google.com/search?q=gorrias-mercedes-benz.fr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-05-08 | [`emainc.net`](https://google.com/search?q=emainc.net) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
