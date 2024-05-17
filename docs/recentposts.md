@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-05-17 | [`Formosa Plastics USA`](https://google.com/search?q=Formosa+Plastics+USA) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-05-16 | [`laxmicapital.com.np`](https://google.com/search?q=laxmicapital.com.np) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-05-16 | [`agranibank.org`](https://google.com/search?q=agranibank.org) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-05-16 | [`fulcrum.pro\$2.1M\US\57GB\&lt;1%DISCLOSED`](https://google.com/search?q=fulcrum.pro%5C%242.1M%5CUS%5C57GB%5C%26lt%3B1%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-05-07 | [`Hibser Yamauchi Architects`](https://google.com/search?q=Hibser+Yamauchi+Architects) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-05-07 | [`www.Seoulsemicon.com`](https://google.com/search?q=www.Seoulsemicon.com) | [metaencryptor](https://ransomwatch.telemetry.ltd/#/profiles?id=metaencryptor) |
 | 2024-05-07 | [`https://belzona.co.uk`](https://google.com/search?q=https%3A%2F%2Fbelzona.co.uk) | [metaencryptor](https://ransomwatch.telemetry.ltd/#/profiles?id=metaencryptor) |
-| 2024-05-07 | [`https://www.eurofleurs.de`](https://google.com/search?q=https%3A%2F%2Fwww.eurofleurs.de) | [metaencryptor](https://ransomwatch.telemetry.ltd/#/profiles?id=metaencryptor) |
