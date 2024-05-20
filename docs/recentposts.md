@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-05-20 | [`ghimli.com\$189.1M\Australia\88GB\100%DISCLOSED`](https://google.com/search?q=ghimli.com%5C%24189.1M%5CAustralia%5C88GB%5C100%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
+| 2024-05-20 | [`scanda.com.mx\$23.6M\MEXICO\387GB\100%DISCLOSED`](https://google.com/search?q=scanda.com.mx%5C%2423.6M%5CMEXICO%5C387GB%5C100%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
+| 2024-05-20 | [`schuettemetals.com\$28.9M\USA\280GB\&lt;1%DISCLOSED`](https://google.com/search?q=schuettemetals.com%5C%2428.9M%5CUSA%5C280GB%5C%26lt%3B1%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-05-20 | [`LEMKEN`](https://google.com/search?q=LEMKEN) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2024-05-20 | [`Embellir`](https://google.com/search?q=Embellir) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2024-05-20 | [`Crooker`](https://google.com/search?q=Crooker) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2024-05-08 | [`Electric Mirror Inc`](https://google.com/search?q=Electric+Mirror+Inc) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2024-05-08 | [`fortify.pro`](https://google.com/search?q=fortify.pro) | [apt73](https://ransomwatch.telemetry.ltd/#/profiles?id=apt73) |
 | 2024-05-08 | [`http://mewbornlaw.biz`](https://google.com/search?q=http%3A%2F%2Fmewbornlaw.biz) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
-| 2024-05-08 | [`Kamo Jou Trading <kamojou.co.za>`](https://google.com/search?q=Kamo+Jou+Trading+%3Ckamojou.co.za%3E) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-05-08 | [`lalengineering<www.lalengineering.com>`](https://google.com/search?q=lalengineering%3Cwww.lalengineering.com%3E) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-05-08 | [`wichita.gov`](https://google.com/search?q=wichita.gov) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
