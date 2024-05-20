@@ -4,6 +4,12 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-05-20 | [`Le Vian`](https://google.com/search?q=Le+Vian) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2024-05-20 | [`Provencher_Roy`](https://google.com/search?q=Provencher_Roy) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2024-05-20 | [`Lactanet`](https://google.com/search?q=Lactanet) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2024-05-20 | [`Grupo Cadarso`](https://google.com/search?q=Grupo+Cadarso) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2024-05-20 | [`Atlas Oil`](https://google.com/search?q=Atlas+Oil) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2024-05-20 | [`TruGreen`](https://google.com/search?q=TruGreen) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-05-20 | [`Marigin`](https://google.com/search?q=Marigin) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-05-20 | [`acfin.cl\$25.1M\Chile\460GB\100%DISCLOSED`](https://google.com/search?q=acfin.cl%5C%2425.1M%5CChile%5C460GB%5C100%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-05-20 | [`fulcrum.pro\$2.1M\US\57GB\100%DISCLOSED`](https://google.com/search?q=fulcrum.pro%5C%242.1M%5CUS%5C57GB%5C100%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
@@ -198,9 +204,3 @@ _last `200` posts_
 | 2024-05-09 | [`Dragon Tax and Management INC`](https://google.com/search?q=Dragon+Tax+and+Management+INC) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-05-09 | [`http://frankmiller.com`](https://google.com/search?q=http%3A%2F%2Ffrankmiller.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-05-09 | [`Protected: HIDE NAME`](https://google.com/search?q=Protected%3A+HIDE+NAME) | [ransomblog_noname](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomblog_noname) |
-| 2024-05-09 | [`Zuber Gardner CPAs`](https://google.com/search?q=Zuber+Gardner+CPAs) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
-| 2024-05-09 | [`Corr &#038; Corr`](https://google.com/search?q=Corr+%26%23038%3B+Corr) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
-| 2024-05-08 | [`Unimed Vales do Taquari e Rio Pardo`](https://google.com/search?q=Unimed+Vales+do+Taquari+e+Rio+Pardo) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2024-05-08 | [`Glenwood Management`](https://google.com/search?q=Glenwood+Management) | [dAn0n](https://ransomwatch.telemetry.ltd/#/profiles?id=dAn0n) |
-| 2024-05-08 | [`Northeast Orthopedics and Sports Medicine`](https://google.com/search?q=Northeast+Orthopedics+and+Sports+Medicine) | [dAn0n](https://ransomwatch.telemetry.ltd/#/profiles?id=dAn0n) |
-| 2024-05-08 | [`College Park Industries`](https://google.com/search?q=College+Park+Industries) | [dAn0n](https://ransomwatch.telemetry.ltd/#/profiles?id=dAn0n) |
