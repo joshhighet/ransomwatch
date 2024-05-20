@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-05-20 | [`LEMKEN`](https://google.com/search?q=LEMKEN) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2024-05-20 | [`Embellir`](https://google.com/search?q=Embellir) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2024-05-20 | [`Crooker`](https://google.com/search?q=Crooker) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2024-05-18 | [`Bluebonnet Nutrition`](https://google.com/search?q=Bluebonnet+Nutrition) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-05-18 | [`Center for Digestive Health`](https://google.com/search?q=Center+for+Digestive+Health) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-05-18 | [`Widdop & Co.`](https://google.com/search?q=Widdop+%26+Co.) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2024-05-08 | [`Kamo Jou Trading <kamojou.co.za>`](https://google.com/search?q=Kamo+Jou+Trading+%3Ckamojou.co.za%3E) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-05-08 | [`lalengineering<www.lalengineering.com>`](https://google.com/search?q=lalengineering%3Cwww.lalengineering.com%3E) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-05-08 | [`wichita.gov`](https://google.com/search?q=wichita.gov) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-05-08 | [`uslinen.com`](https://google.com/search?q=uslinen.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-05-08 | [`tu-ilmenau.de`](https://google.com/search?q=tu-ilmenau.de) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-05-08 | [`thede-culpepper.com`](https://google.com/search?q=thede-culpepper.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
