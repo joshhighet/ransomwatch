@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-05-21 | [`Matadero de Gijón - Biogas energy plant - mataderodegijon.es`](https://google.com/search?q=Matadero+de+Gij%C3%B3n+-+Biogas+energy+plant+-+mataderodegijon.es) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-05-21 | [`American Clinical Solutions(acslabtest.com)`](https://google.com/search?q=American+Clinical+Solutions%28acslabtest.com%29) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-05-21 | [`ORIUX: Experts in Mobility <www.oriux.com>`](https://google.com/search?q=ORIUX%3A+Experts+in+Mobility+%3Cwww.oriux.com%3E) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-05-20 | [`Le Vian`](https://google.com/search?q=Le+Vian) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-05-20 | [`Provencher_Roy`](https://google.com/search?q=Provencher_Roy) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-05-20 | [`Lactanet`](https://google.com/search?q=Lactanet) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2024-05-09 | [`alian.mx`](https://google.com/search?q=alian.mx) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-05-09 | [`agencavisystems.com`](https://google.com/search?q=agencavisystems.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-05-09 | [`acla-werke.com`](https://google.com/search?q=acla-werke.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-05-09 | [`Dragon Tax and Management INC`](https://google.com/search?q=Dragon+Tax+and+Management+INC) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2024-05-09 | [`http://frankmiller.com`](https://google.com/search?q=http%3A%2F%2Ffrankmiller.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
-| 2024-05-09 | [`Protected: HIDE NAME`](https://google.com/search?q=Protected%3A+HIDE+NAME) | [ransomblog_noname](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomblog_noname) |
