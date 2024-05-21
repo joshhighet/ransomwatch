@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-05-21 | [`Brittany Horne <brittanyhorne.com>`](https://google.com/search?q=Brittany+Horne+%3Cbrittanyhorne.com%3E) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-05-21 | [`ALO diamonds`](https://google.com/search?q=ALO+diamonds) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2024-05-21 | [`Matadero de Gijón - Biogas energy plant - mataderodegijon.es`](https://google.com/search?q=Matadero+de+Gij%C3%B3n+-+Biogas+energy+plant+-+mataderodegijon.es) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-05-21 | [`American Clinical Solutions(acslabtest.com)`](https://google.com/search?q=American+Clinical+Solutions%28acslabtest.com%29) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-05-21 | [`ORIUX: Experts in Mobility <www.oriux.com>`](https://google.com/search?q=ORIUX%3A+Experts+in+Mobility+%3Cwww.oriux.com%3E) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-05-09 | [`asafoot.com`](https://google.com/search?q=asafoot.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-05-09 | [`amsoft.cl`](https://google.com/search?q=amsoft.cl) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-05-09 | [`alian.mx`](https://google.com/search?q=alian.mx) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-05-09 | [`agencavisystems.com`](https://google.com/search?q=agencavisystems.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-05-09 | [`acla-werke.com`](https://google.com/search?q=acla-werke.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
