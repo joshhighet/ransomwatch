@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-05-22 | [`Royal Star & Garter`](https://google.com/search?q=Royal+Star+%26+Garter) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
+| 2024-05-22 | [`Advance Press`](https://google.com/search?q=Advance+Press) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2024-05-22 | [`IZOMAT Praha`](https://google.com/search?q=IZOMAT+Praha) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-05-22 | [`GRANVILLE FOOD CARE  LIMITED`](https://google.com/search?q=GRANVILLE+FOOD+CARE++LIMITED) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-05-22 | [`Cressex Community School`](https://google.com/search?q=Cressex+Community+School) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-05-09 | [`dsglobaltech.com`](https://google.com/search?q=dsglobaltech.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-05-09 | [`dpkv.cz`](https://google.com/search?q=dpkv.cz) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-05-09 | [`doxim.com`](https://google.com/search?q=doxim.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-05-09 | [`doublehorse.in`](https://google.com/search?q=doublehorse.in) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-05-09 | [`depenning.com`](https://google.com/search?q=depenning.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
