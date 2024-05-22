@@ -4,6 +4,11 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-05-22 | [`IZOMAT Praha`](https://google.com/search?q=IZOMAT+Praha) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
+| 2024-05-22 | [`GRANVILLE FOOD CARE  LIMITED`](https://google.com/search?q=GRANVILLE+FOOD+CARE++LIMITED) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
+| 2024-05-22 | [`Cressex Community School`](https://google.com/search?q=Cressex+Community+School) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
+| 2024-05-22 | [`Hedbergs`](https://google.com/search?q=Hedbergs) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
+| 2024-05-22 | [`J & N Stone`](https://google.com/search?q=J+%26+N+Stone) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2024-05-22 | [`Newman Ferrara`](https://google.com/search?q=Newman+Ferrara) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-05-22 | [`Visa Lighting`](https://google.com/search?q=Visa+Lighting) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-05-22 | [`Tri-state General Contractors`](https://google.com/search?q=Tri-state+General+Contractors) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -199,8 +204,3 @@ _last `200` posts_
 | 2024-05-09 | [`doxim.com`](https://google.com/search?q=doxim.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-05-09 | [`doublehorse.in`](https://google.com/search?q=doublehorse.in) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-05-09 | [`depenning.com`](https://google.com/search?q=depenning.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-05-09 | [`dagma.com.ar`](https://google.com/search?q=dagma.com.ar) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-05-09 | [`cultivarnet.com.br`](https://google.com/search?q=cultivarnet.com.br) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-05-09 | [`cttxpress.com`](https://google.com/search?q=cttxpress.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-05-09 | [`contest.omg`](https://google.com/search?q=contest.omg) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-05-09 | [`college-stemarie-elven.org`](https://google.com/search?q=college-stemarie-elven.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
