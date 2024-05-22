@@ -4,6 +4,18 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-05-22 | [`Visa Lighting`](https://google.com/search?q=Visa+Lighting) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-05-22 | [`Tri-state General Contractors`](https://google.com/search?q=Tri-state+General+Contractors) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-05-22 | [`The Louis G Freeman`](https://google.com/search?q=The+Louis+G+Freeman) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-05-22 | [`Starostwo Powiatowe w Świebodzinie`](https://google.com/search?q=Starostwo+Powiatowe+w+%C5%9Awiebodzinie) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-05-22 | [`Semicore Equipment`](https://google.com/search?q=Semicore+Equipment) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-05-22 | [`Ryder Scott Co.`](https://google.com/search?q=Ryder+Scott+Co.) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-05-22 | [`RDI-USA`](https://google.com/search?q=RDI-USA) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-05-22 | [`Levin Porter Associates`](https://google.com/search?q=Levin+Porter+Associates) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-05-22 | [`Experis Technology Group`](https://google.com/search?q=Experis+Technology+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-05-22 | [`Aspire Tax`](https://google.com/search?q=Aspire+Tax) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-05-22 | [`Ardenbrook`](https://google.com/search?q=Ardenbrook) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-05-22 | [`Anchorage Daily News`](https://google.com/search?q=Anchorage+Daily+News) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-05-21 | [`Brittany Horne <brittanyhorne.com>`](https://google.com/search?q=Brittany+Horne+%3Cbrittanyhorne.com%3E) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-05-21 | [`ALO diamonds`](https://google.com/search?q=ALO+diamonds) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2024-05-21 | [`Matadero de Gijón - Biogas energy plant - mataderodegijon.es`](https://google.com/search?q=Matadero+de+Gij%C3%B3n+-+Biogas+energy+plant+-+mataderodegijon.es) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -192,15 +204,3 @@ _last `200` posts_
 | 2024-05-09 | [`contest.omg`](https://google.com/search?q=contest.omg) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-05-09 | [`college-stemarie-elven.org`](https://google.com/search?q=college-stemarie-elven.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-05-09 | [`cloudminds.com`](https://google.com/search?q=cloudminds.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-05-09 | [`cinealbeniz.com`](https://google.com/search?q=cinealbeniz.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-05-09 | [`ccofva.com`](https://google.com/search?q=ccofva.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-05-09 | [`ccimp.com`](https://google.com/search?q=ccimp.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-05-09 | [`cargotrinidad.com`](https://google.com/search?q=cargotrinidad.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-05-09 | [`calvia.com`](https://google.com/search?q=calvia.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-05-09 | [`brockington.leics.sch.uk`](https://google.com/search?q=brockington.leics.sch.uk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-05-09 | [`brfibra.com`](https://google.com/search?q=brfibra.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-05-09 | [`binder.de`](https://google.com/search?q=binder.de) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-05-09 | [`auburnpikapp.org`](https://google.com/search?q=auburnpikapp.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-05-09 | [`asafoot.com`](https://google.com/search?q=asafoot.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-05-09 | [`amsoft.cl`](https://google.com/search?q=amsoft.cl) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-05-09 | [`alian.mx`](https://google.com/search?q=alian.mx) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
