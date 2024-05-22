@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-05-22 | [`Newman Ferrara`](https://google.com/search?q=Newman+Ferrara) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-05-22 | [`Visa Lighting`](https://google.com/search?q=Visa+Lighting) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-05-22 | [`Tri-state General Contractors`](https://google.com/search?q=Tri-state+General+Contractors) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-05-22 | [`The Louis G Freeman`](https://google.com/search?q=The+Louis+G+Freeman) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-05-09 | [`cttxpress.com`](https://google.com/search?q=cttxpress.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-05-09 | [`contest.omg`](https://google.com/search?q=contest.omg) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-05-09 | [`college-stemarie-elven.org`](https://google.com/search?q=college-stemarie-elven.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-05-09 | [`cloudminds.com`](https://google.com/search?q=cloudminds.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
