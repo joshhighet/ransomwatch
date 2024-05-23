@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-05-23 | [`ThrottleUp <throttleup.io>`](https://google.com/search?q=ThrottleUp+%3Cthrottleup.io%3E) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-05-23 | [`iseta.fr (institut des Sciences de l'Environnement et des Territoires d'Annecy)`](https://google.com/search?q=iseta.fr+%28institut+des+Sciences+de+l%27Environnement+et+des+Territoires+d%27Annecy%29) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-05-23 | [`MAH Machine`](https://google.com/search?q=MAH+Machine) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-05-23 | [`Critchfield and Johnston`](https://google.com/search?q=Critchfield+and+Johnston) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-05-23 | [`Nutec Group`](https://google.com/search?q=Nutec+Group) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-05-09 | [`garage-cretot.fr`](https://google.com/search?q=garage-cretot.fr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-05-09 | [`evw.k12.mn.us`](https://google.com/search?q=evw.k12.mn.us) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-05-09 | [`essinc.com`](https://google.com/search?q=essinc.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-05-09 | [`elements-ing.com`](https://google.com/search?q=elements-ing.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-05-09 | [`eif.org.na`](https://google.com/search?q=eif.org.na) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
