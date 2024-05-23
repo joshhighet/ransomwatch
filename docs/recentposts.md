@@ -4,6 +4,15 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-05-23 | [`Patriot Machine, Updated data leak.`](https://google.com/search?q=Patriot+Machine%2C+Updated+data+leak.) | [donutleaks](https://ransomwatch.telemetry.ltd/#/profiles?id=donutleaks) |
+| 2024-05-23 | [`unisi.it`](https://google.com/search?q=unisi.it) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2024-05-23 | [`schmittyandsons.com`](https://google.com/search?q=schmittyandsons.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2024-05-23 | [`ramfoam.com`](https://google.com/search?q=ramfoam.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2024-05-23 | [`qualityplumbingassociates.com`](https://google.com/search?q=qualityplumbingassociates.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2024-05-23 | [`pricemodern.com`](https://google.com/search?q=pricemodern.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2024-05-23 | [`londondrugs.com`](https://google.com/search?q=londondrugs.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2024-05-23 | [`equinoxinc.org`](https://google.com/search?q=equinoxinc.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2024-05-23 | [`carcajou.fr`](https://google.com/search?q=carcajou.fr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-05-23 | [`shamrocktradingcorp.com`](https://google.com/search?q=shamrocktradingcorp.com) | [embargo](https://ransomwatch.telemetry.ltd/#/profiles?id=embargo) |
 | 2024-05-23 | [`brightwayconsultants.co.uk`](https://google.com/search?q=brightwayconsultants.co.uk) | [apt73](https://ransomwatch.telemetry.ltd/#/profiles?id=apt73) |
 | 2024-05-23 | [`United Urology Group`](https://google.com/search?q=United+Urology+Group) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
@@ -195,12 +204,3 @@ _last `200` posts_
 | 2024-05-09 | [`itss.com.tr`](https://google.com/search?q=itss.com.tr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-05-09 | [`interfashion.it`](https://google.com/search?q=interfashion.it) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-05-09 | [`incegroup.com`](https://google.com/search?q=incegroup.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-05-09 | [`iitm.ac.in`](https://google.com/search?q=iitm.ac.in) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-05-09 | [`iaconnecticut.com`](https://google.com/search?q=iaconnecticut.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-05-09 | [`hpo.pe`](https://google.com/search?q=hpo.pe) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-05-09 | [`hotel-ostella.com`](https://google.com/search?q=hotel-ostella.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-05-09 | [`hetero.com`](https://google.com/search?q=hetero.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-05-09 | [`heartlandhealthcenter.org`](https://google.com/search?q=heartlandhealthcenter.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-05-09 | [`habeco.com.vn`](https://google.com/search?q=habeco.com.vn) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-05-09 | [`grupopm.com`](https://google.com/search?q=grupopm.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-05-09 | [`grc-c.co.il`](https://google.com/search?q=grc-c.co.il) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
