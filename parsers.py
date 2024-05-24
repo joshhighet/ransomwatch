@@ -1457,8 +1457,9 @@ def embargo():
 
 def dAn0n():
     stdlog('parser: ' + 'dAn0n')
+    # '<h2 class="card-title">'
     parser = '''
-    grep '<h2 class="card-title">' source/dAn0n-2c7nd54guzi6xhjyqrj5kdkrq2ngm2u3e6oy4nfhn3wm3r54ul2utiqd.html | cut -d '>' -f 2 | cut -d '<' -f 1 | perl -MURI::Escape -ne 'print uri_unescape($_)' | perl -MURI::Escape -ne 'print uri_unescape($_)'
+    grep '<h4 class="card-title">' source/dAn0n-2c7nd*.html | cut -d '>' -f 2 | cut -d '<' -f 1 | perl -MURI::Escape -ne 'print uri_unescape($_)' | perl -MURI::Escape -ne 'print uri_unescape($_)'
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
