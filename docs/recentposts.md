@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-05-24 | [`http://www.hiawathahomes.org`](https://google.com/search?q=http%3A%2F%2Fwww.hiawathahomes.org) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
+| 2024-05-24 | [`valleylandtitleco.com`](https://google.com/search?q=valleylandtitleco.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-05-23 | [`Patriot Machine, Updated data leak.`](https://google.com/search?q=Patriot+Machine%2C+Updated+data+leak.) | [donutleaks](https://ransomwatch.telemetry.ltd/#/profiles?id=donutleaks) |
 | 2024-05-23 | [`unisi.it`](https://google.com/search?q=unisi.it) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-05-23 | [`schmittyandsons.com`](https://google.com/search?q=schmittyandsons.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-05-09 | [`kowessex.co.uk`](https://google.com/search?q=kowessex.co.uk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-05-09 | [`kioti.com`](https://google.com/search?q=kioti.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-05-09 | [`itss.com.tr`](https://google.com/search?q=itss.com.tr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-05-09 | [`interfashion.it`](https://google.com/search?q=interfashion.it) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-05-09 | [`incegroup.com`](https://google.com/search?q=incegroup.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
