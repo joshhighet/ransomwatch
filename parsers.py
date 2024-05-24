@@ -1499,3 +1499,14 @@ def flocker():
         errlog('flocker: ' + 'parsing fail')
     for post in posts:
         appender(post, 'flocker')
+
+def arcusmedia():
+    stdlog('parser: ' + 'arcusmedia')
+    parser = '''
+    grep '<h2 class="entry-title mb-half-gutter last:mb-0">' source/arcusmedia-*.html | cut -d '>' -f 3 | cut -d '<' -f 1
+    '''
+    posts = runshellcmd(parser)
+    if len(posts) == 1:
+        errlog('arcusmedia: ' + 'parsing fail')
+    for post in posts:
+        appender(post, 'arcusmedia')

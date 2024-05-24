@@ -6017,7 +6017,7 @@
     {
         "name": "flocker",
         "captcha": false,
-        "parser": false,
+        "parser": true,
         "javascript_render": false,
         "meta": null,
         "locations": [
@@ -6029,6 +6029,26 @@
                 "available": true,
                 "updated": "2024-05-24 01:07:54.614185",
                 "lastscrape": "2024-05-24 01:07:54.614173",
+                "enabled": true
+            }
+        ],
+        "profile": []
+    },
+    {
+        "name": "arcusmedia",
+        "captcha": false,
+        "parser": true,
+        "javascript_render": false,
+        "meta": null,
+        "locations": [
+            {
+                "fqdn": "arcuufpr5xxbbkin4mlidt7itmr6znlppk63jbtkeguuhszmc5g7qdyd.onion",
+                "title": "Arcus Media",
+                "version": 3,
+                "slug": "http://arcuufpr5xxbbkin4mlidt7itmr6znlppk63jbtkeguuhszmc5g7qdyd.onion",
+                "available": true,
+                "updated": "2024-05-24 13:56:39.280541",
+                "lastscrape": "2024-05-24 13:56:39.280533",
                 "enabled": true
             }
         ],

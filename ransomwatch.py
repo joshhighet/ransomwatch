@@ -310,4 +310,5 @@ if args.mode == 'parse':
     parsers.underground()
     parsers.spacebears()
     parsers.flocker()
+    parsers.arcusmedia()
     stdlog('ransomwatch: ' + 'parse run complete')
