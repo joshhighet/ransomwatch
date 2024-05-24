@@ -19,6 +19,7 @@ _last `200` posts_
 | 2024-05-24 | [`The Blake Law Firm`](https://google.com/search?q=The+Blake+Law+Firm) | [dAn0n](https://ransomwatch.telemetry.ltd/#/profiles?id=dAn0n) |
 | 2024-05-24 | [`United Equitable Group`](https://google.com/search?q=United+Equitable+Group) | [dAn0n](https://ransomwatch.telemetry.ltd/#/profiles?id=dAn0n) |
 | 2024-05-24 | [`S&amp;F Concrete Contractors`](https://google.com/search?q=S%26amp%3BF+Concrete+Contractors) | [dAn0n](https://ransomwatch.telemetry.ltd/#/profiles?id=dAn0n) |
+| 2024-05-24 | [`schuettemetals.com\$28.9M\USA\280GB\100%DISCLOSED`](https://google.com/search?q=schuettemetals.com%5C%2428.9M%5CUSA%5C280GB%5C100%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-05-24 | [`http://www.colfax.k12.wi.us`](https://google.com/search?q=http%3A%2F%2Fwww.colfax.k12.wi.us) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-05-24 | [`http://www.dowellchem.cn/`](https://google.com/search?q=http%3A%2F%2Fwww.dowellchem.cn%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-05-24 | [`http://www.hiawathahomes.org`](https://google.com/search?q=http%3A%2F%2Fwww.hiawathahomes.org) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-05-09 | [`spu.ac.th`](https://google.com/search?q=spu.ac.th) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-05-09 | [`snk.sk`](https://google.com/search?q=snk.sk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-05-09 | [`snapethorpeprimary.co.uk`](https://google.com/search?q=snapethorpeprimary.co.uk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-05-09 | [`sislocar.com`](https://google.com/search?q=sislocar.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
