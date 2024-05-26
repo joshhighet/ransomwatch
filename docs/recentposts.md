@@ -4,6 +4,10 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-05-26 | [`Johnston`](https://google.com/search?q=Johnston) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2024-05-26 | [`National Publisher Services LLC`](https://google.com/search?q=National+Publisher+Services+LLC) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2024-05-26 | [`Payne and Jones`](https://google.com/search?q=Payne+and+Jones) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2024-05-26 | [`Wind Composite Services Group, LLC`](https://google.com/search?q=Wind+Composite+Services+Group%2C+LLC) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-05-26 | [`CNPC Sport`](https://google.com/search?q=CNPC+Sport) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2024-05-26 | [`Esc Pau Etudes-Conseils`](https://google.com/search?q=Esc+Pau+Etudes-Conseils) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2024-05-26 | [`Aéroport de Pau`](https://google.com/search?q=A%C3%A9roport+de+Pau) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
@@ -200,7 +204,3 @@ _last `200` posts_
 | 2024-05-09 | [`uniter.net`](https://google.com/search?q=uniter.net) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-05-09 | [`ultragasmexico.com`](https://google.com/search?q=ultragasmexico.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-05-09 | [`ufresources.com`](https://google.com/search?q=ufresources.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-05-09 | [`truehomesusa.com`](https://google.com/search?q=truehomesusa.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-05-09 | [`totto.com`](https://google.com/search?q=totto.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-05-09 | [`torrepacheco.es`](https://google.com/search?q=torrepacheco.es) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-05-09 | [`thaiagri.com`](https://google.com/search?q=thaiagri.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
