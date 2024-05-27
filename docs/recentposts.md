@@ -4,6 +4,13 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-05-27 | [`The Kelly Group`](https://google.com/search?q=The+Kelly+Group) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2024-05-27 | [`Shirasaki`](https://google.com/search?q=Shirasaki) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2024-05-27 | [`S L B TRANSIT INC`](https://google.com/search?q=S+L+B+TRANSIT+INC) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2024-05-27 | [`Osaka Motorcycle Business Cooperative`](https://google.com/search?q=Osaka+Motorcycle+Business+Cooperative) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2024-05-27 | [`Natsume Tax Accountant Corporation`](https://google.com/search?q=Natsume+Tax+Accountant+Corporation) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2024-05-27 | [`Matusima`](https://google.com/search?q=Matusima) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2024-05-27 | [`Architecture LEJEUNE GIOVANELLI`](https://google.com/search?q=Architecture+LEJEUNE+GIOVANELLI) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2024-05-27 | [`Hytera US Inc`](https://google.com/search?q=Hytera+US+Inc) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2024-05-27 | [`workscapes.com`](https://google.com/search?q=workscapes.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-05-27 | [`sysroad.com`](https://google.com/search?q=sysroad.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -197,10 +204,3 @@ _last `200` posts_
 | 2024-05-11 | [`inforius`](https://google.com/search?q=inforius) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-05-11 | [`Holstein Association USA`](https://google.com/search?q=Holstein+Association+USA) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-05-11 | [`Edlong`](https://google.com/search?q=Edlong) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
-| 2024-05-10 | [`colonialsd.org`](https://google.com/search?q=colonialsd.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-05-10 | [`21stcenturyvitamins.com`](https://google.com/search?q=21stcenturyvitamins.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-05-10 | [`http://www.mcbdds.org`](https://google.com/search?q=http%3A%2F%2Fwww.mcbdds.org) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
-| 2024-05-10 | [`LiveHelpNow`](https://google.com/search?q=LiveHelpNow) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-05-10 | [`Crescent Point Energy`](https://google.com/search?q=Crescent+Point+Energy) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
-| 2024-05-10 | [`NK Parts Industries`](https://google.com/search?q=NK+Parts+Industries) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-05-10 | [`Haumiller Engineering`](https://google.com/search?q=Haumiller+Engineering) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
