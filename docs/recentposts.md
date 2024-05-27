@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-05-27 | [`Hytera US Inc`](https://google.com/search?q=Hytera+US+Inc) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2024-05-27 | [`workscapes.com`](https://google.com/search?q=workscapes.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-05-27 | [`sysroad.com`](https://google.com/search?q=sysroad.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-05-27 | [`sunpetro.com`](https://google.com/search?q=sunpetro.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-05-10 | [`Crescent Point Energy`](https://google.com/search?q=Crescent+Point+Energy) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2024-05-10 | [`NK Parts Industries`](https://google.com/search?q=NK+Parts+Industries) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-05-10 | [`Haumiller Engineering`](https://google.com/search?q=Haumiller+Engineering) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-05-10 | [`Badger Tag & Label`](https://google.com/search?q=Badger+Tag+%26+Label) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
