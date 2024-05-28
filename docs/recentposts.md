@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-05-28 | [`Manuchar`](https://google.com/search?q=Manuchar) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
+| 2024-05-28 | [`Arrabawn Co-op`](https://google.com/search?q=Arrabawn+Co-op) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-05-28 | [`OTR`](https://google.com/search?q=OTR) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-05-28 | [`Avelina`](https://google.com/search?q=Avelina) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-05-28 | [`Brett Slater Solicit ors`](https://google.com/search?q=Brett+Slater+Solicit+ors) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-05-11 | [`Intuitae`](https://google.com/search?q=Intuitae) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-05-11 | [`Dr Charles A Evans`](https://google.com/search?q=Dr+Charles+A+Evans) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-05-11 | [`Tholen Building Technology Group`](https://google.com/search?q=Tholen+Building+Technology+Group) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
-| 2024-05-11 | [`The Weinstein Firm `](https://google.com/search?q=The+Weinstein+Firm+) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
-| 2024-05-11 | [`williamsrdm.com `](https://google.com/search?q=williamsrdm.com+) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
