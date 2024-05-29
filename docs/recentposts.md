@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-05-29 | [`Aircod.com`](https://google.com/search?q=Aircod.com) | [redransomware](https://ransomwatch.telemetry.ltd/#/profiles?id=redransomware) |
+| 2024-05-29 | [`mcmtelecom.com`](https://google.com/search?q=mcmtelecom.com) | [blackout](https://ransomwatch.telemetry.ltd/#/profiles?id=blackout) |
+| 2024-05-29 | [`Assist Informatica`](https://google.com/search?q=Assist+Informatica) | [mallox](https://ransomwatch.telemetry.ltd/#/profiles?id=mallox) |
 | 2024-05-29 | [`alliedtelesis.com`](https://google.com/search?q=alliedtelesis.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-05-28 | [`Manuchar`](https://google.com/search?q=Manuchar) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-05-28 | [`Arrabawn Co-op`](https://google.com/search?q=Arrabawn+Co-op) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2024-05-11 | [`etateam.be`](https://google.com/search?q=etateam.be) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-05-11 | [`jean-nouvel`](https://google.com/search?q=jean-nouvel) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-05-11 | [`watergate`](https://google.com/search?q=watergate) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
-| 2024-05-11 | [`The law firm Dr. Fingerle Rechtsanwälte`](https://google.com/search?q=The+law+firm+Dr.+Fingerle+Rechtsanw%C3%A4lte) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
-| 2024-05-11 | [`Intuitae`](https://google.com/search?q=Intuitae) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
-| 2024-05-11 | [`Dr Charles A Evans`](https://google.com/search?q=Dr+Charles+A+Evans) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
