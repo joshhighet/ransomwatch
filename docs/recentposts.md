@@ -4,6 +4,11 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-05-29 | [`WALSER AUTOMOTIVE GROUP`](https://google.com/search?q=WALSER+AUTOMOTIVE+GROUP) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-05-29 | [`Ntv`](https://google.com/search?q=Ntv) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-05-29 | [`FPL Food`](https://google.com/search?q=FPL+Food) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-05-29 | [`Elmhurst Group`](https://google.com/search?q=Elmhurst+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-05-29 | [`Credit Central`](https://google.com/search?q=Credit+Central) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-05-29 | [`Western Dovetail`](https://google.com/search?q=Western+Dovetail) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-05-29 | [`Aircod.com`](https://google.com/search?q=Aircod.com) | [redransomware](https://ransomwatch.telemetry.ltd/#/profiles?id=redransomware) |
 | 2024-05-29 | [`mcmtelecom.com`](https://google.com/search?q=mcmtelecom.com) | [blackout](https://ransomwatch.telemetry.ltd/#/profiles?id=blackout) |
@@ -199,8 +204,3 @@ _last `200` posts_
 | 2024-05-11 | [`NHS (press update)`](https://google.com/search?q=NHS+%28press+update%29) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2024-05-11 | [`http://www.jacksongov.org`](https://google.com/search?q=http%3A%2F%2Fwww.jacksongov.org) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-05-11 | [`https://frankmiller.com/`](https://google.com/search?q=https%3A%2F%2Ffrankmiller.com%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
-| 2024-05-11 | [`Cembell Industries`](https://google.com/search?q=Cembell+Industries) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
-| 2024-05-11 | [`MCS`](https://google.com/search?q=MCS) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
-| 2024-05-11 | [`Beloinlaw`](https://google.com/search?q=Beloinlaw) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
-| 2024-05-11 | [`etateam.be`](https://google.com/search?q=etateam.be) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
-| 2024-05-11 | [`jean-nouvel`](https://google.com/search?q=jean-nouvel) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
