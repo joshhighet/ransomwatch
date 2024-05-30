@@ -4,6 +4,14 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-05-30 | [`American Clinical Solutions(acslabtest.com)auctioning`](https://google.com/search?q=American+Clinical+Solutions%28acslabtest.com%29auctioning) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-05-30 | [`PSG BANATSKI DVOR D.O.O. NOVI SAD (SERBIA)`](https://google.com/search?q=PSG+BANATSKI+DVOR+D.O.O.+NOVI+SAD+%28SERBIA%29) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-05-30 | [`Bjurholms kommun<www.bjurholm.se>`](https://google.com/search?q=Bjurholms+kommun%3Cwww.bjurholm.se%3E) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-05-30 | [`SIAED.it - HOSTER/DEV FOR ITALY BIGGEST BANKS`](https://google.com/search?q=SIAED.it+-+HOSTER%2FDEV+FOR+ITALY+BIGGEST+BANKS) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-05-30 | [`Christies Auction House - christies.com`](https://google.com/search?q=Christies+Auction+House+-+christies.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-05-30 | [`Faultless Brands`](https://google.com/search?q=Faultless+Brands) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
+| 2024-05-30 | [`DreamWall`](https://google.com/search?q=DreamWall) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
+| 2024-05-30 | [`Excel Security Corp.`](https://google.com/search?q=Excel+Security+Corp.) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-05-30 | [`MagicLand`](https://google.com/search?q=MagicLand) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-05-30 | [`heras.co.uk`](https://google.com/search?q=heras.co.uk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-05-29 | [`WALSER AUTOMOTIVE GROUP`](https://google.com/search?q=WALSER+AUTOMOTIVE+GROUP) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -196,11 +204,3 @@ _last `200` posts_
 | 2024-05-13 | [`Service public de Wallonie`](https://google.com/search?q=Service+public+de+Wallonie) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2024-05-13 | [`New Boston Dental Care`](https://google.com/search?q=New+Boston+Dental+Care) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2024-05-13 | [`Fic Expertise`](https://google.com/search?q=Fic+Expertise) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2024-05-13 | [`Cushman Contracting Corporation`](https://google.com/search?q=Cushman+Contracting+Corporation) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2024-05-13 | [`Costa Edutainment SpA`](https://google.com/search?q=Costa+Edutainment+SpA) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2024-05-13 | [`Brovedani Group`](https://google.com/search?q=Brovedani+Group) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2024-05-13 | [`concordegroup.ca\$150M\CANADA\2GB\100%DISCLOSED`](https://google.com/search?q=concordegroup.ca%5C%24150M%5CCANADA%5C2GB%5C100%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2024-05-13 | [`scanda.com.mx\$23.6M\MEXICO\387GB\&lt;1%DISCLOSED`](https://google.com/search?q=scanda.com.mx%5C%2423.6M%5CMEXICO%5C387GB%5C%26lt%3B1%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2024-05-12 | [`Hohenadel`](https://google.com/search?q=Hohenadel) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2024-05-12 | [`Romeo Pitaro Injury and Litigation Lawyers`](https://google.com/search?q=Romeo+Pitaro+Injury+and+Litigation+Lawyers) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2024-05-11 | [`NHS (press update)`](https://google.com/search?q=NHS+%28press+update%29) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
