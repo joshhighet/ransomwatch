@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-05-31 | [`strikeusa.com`](https://google.com/search?q=strikeusa.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2024-05-31 | [`aytosanlorenzo.es`](https://google.com/search?q=aytosanlorenzo.es) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-05-30 | [`www.indigoent.ca`](https://google.com/search?q=www.indigoent.ca) | [qiulong](https://ransomwatch.telemetry.ltd/#/profiles?id=qiulong) |
 | 2024-05-30 | [`Rob's Whole Health Pharmacy`](https://google.com/search?q=Rob%27s+Whole+Health+Pharmacy) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2024-05-30 | [`Christies Auction House - christies.com<Auction>`](https://google.com/search?q=Christies+Auction+House+-+christies.com%3CAuction%3E) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-05-13 | [`Aero Tec Laboratories`](https://google.com/search?q=Aero+Tec+Laboratories) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-05-13 | [`Treasury of Cote d'Ivoire`](https://google.com/search?q=Treasury+of+Cote+d%27Ivoire) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-05-13 | [`acfin.cl\$25.1M\Chile\460GB\&lt;1%DISCLOSED`](https://google.com/search?q=acfin.cl%5C%2425.1M%5CChile%5C460GB%5C%26lt%3B1%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2024-05-13 | [`W.I.S. Sicherheit`](https://google.com/search?q=W.I.S.+Sicherheit) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2024-05-13 | [`Sigmund Espeland AS`](https://google.com/search?q=Sigmund+Espeland+AS) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
