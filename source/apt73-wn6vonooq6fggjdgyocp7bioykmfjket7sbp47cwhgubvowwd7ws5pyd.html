@@ -10,21 +10,17 @@
   <link rel="stylesheet" href="adaptive.css">
   <link rel="icon" href="./img/fav.png" type="image/svg+xml">
   <link rel="icon" href="./img/fav.ico" type="image/svg+xml">
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link
-    href="https://fonts.googleapis.com/css2?family=Roboto+Flex:opsz,wght@8..144,100..1000&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap"
-    rel="stylesheet">
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link
-    href="https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&family=Roboto+Flex:opsz,wght@8..144,100..1000&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap"
-    rel="stylesheet">
+  
   <title>APT73</title>
 </head>
 
 <body>
 
+
+
+  <div class="preloader" id="preloader">
+    <img class="preloader__img" src="./img/Preloader user.svg" alt="preloader">
+  </div>
   <div class="main">
 
     <header class="header">
@@ -61,7 +57,7 @@
           </div>
         </div>
 
-        <a href="/">
+        <a href="index.php">
           <div class="nav__logo">
 
             <svg class="logo__logo" width="67" height="28" viewBox="0 0 67 28" fill="none"
@@ -77,6 +73,9 @@
         <div class="nav__nav">
           <a href="mirrors.php">
             <div class="nav__link">Mirrors</div>
+          </a>
+          <a href="./affiliate/affiliate program EU.html">
+            <div class="nav__link">Affiliate program</div>
           </a>
           <a href="how_to_buy_bitcoin.php">
             <div class="nav__link">How to buy Bitcoin</div>
@@ -162,6 +161,9 @@
           <a href="mirrors.php">
             <div class="nav__link">Mirrors</div>
           </a>
+          <a href="./affiliate/affiliate program EU.html">
+            <div class="nav__link">Affiliate program</div>
+          </a>
           <a href="how_to_buy_bitcoin.php">
             <div class="nav__link">How to buy Bitcoin</div>
           </a>
@@ -224,6 +226,7 @@
 
 </body>
 
+
 <script>
 var countdownElements = document.querySelectorAll('.segment__block');
 
@@ -272,12 +275,21 @@ countdownElements.forEach(function(countdownElement) {
 
 
 
+<script>
 
 
+document.addEventListener("DOMContentLoaded", function(event) {
+  
+  var preloader = document.querySelector(".preloader");
+  var mainContent = document.querySelector(".main");
+  window.addEventListener("load", function() {
+    preloader.style.display = "none";
+    mainContent.style.display = "block";
 
+  });
+});
 
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
-
+</script>
 
 
 
