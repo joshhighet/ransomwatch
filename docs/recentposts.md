@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-06-03 | [`Anderson Mikos Archi tects`](https://google.com/search?q=Anderson+Mikos+Archi+tects) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-06-03 | [`Nidec Motor Corporation`](https://google.com/search?q=Nidec+Motor+Corporation) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2024-06-03 | [`ISETO CORPORATION`](https://google.com/search?q=ISETO+CORPORATION) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2024-06-02 | [`Wealth Depot LLC Data Leak`](https://google.com/search?q=Wealth+Depot+LLC+Data+Leak) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-05-15 | [`Surrey Place Healthcare & Rehabilitation`](https://google.com/search?q=Surrey+Place+Healthcare+%26+Rehabilitation) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2024-05-15 | [`Litigation Lawyers`](https://google.com/search?q=Litigation+Lawyers) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-05-15 | [`Co, Chartered Accountants`](https://google.com/search?q=Co%2C+Chartered+Accountants) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2024-05-15 | [`Coplosa`](https://google.com/search?q=Coplosa) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
