@@ -4,6 +4,10 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-06-04 | [`Mountjoy`](https://google.com/search?q=Mountjoy) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2024-06-04 | [`Northern Minerals Limited`](https://google.com/search?q=Northern+Minerals+Limited) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2024-06-04 | [`smithandcaugheys.co.nz`](https://google.com/search?q=smithandcaugheys.co.nz) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2024-06-04 | [`cfymca.org`](https://google.com/search?q=cfymca.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-06-04 | [`Langescheid GbR`](https://google.com/search?q=Langescheid+GbR) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2024-06-04 | [`Franja IT Integradores de Tecnología`](https://google.com/search?q=Franja+IT+Integradores+de+Tecnolog%C3%ADa) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2024-06-04 | [`Duque Saldarriaga`](https://google.com/search?q=Duque+Saldarriaga) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
@@ -200,7 +204,3 @@ _last `200` posts_
 | 2024-05-16 | [`Administração do Porto de São Francisco do Sul (APSFS)`](https://google.com/search?q=Administra%C3%A7%C3%A3o+do+Porto+de+S%C3%A3o+Francisco+do+Sul+%28APSFS%29) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-05-16 | [`500gb/www.confins.com.br/10kk/BR/Come to chat or we will attack you again.`](https://google.com/search?q=500gb%2Fwww.confins.com.br%2F10kk%2FBR%2FCome+to+chat+or+we+will+attack+you+again.) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-05-16 | [`eucatex.com.br`](https://google.com/search?q=eucatex.com.br) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-05-16 | [`Rocky Mountain Sales <www.rockymountainsales.com>`](https://google.com/search?q=Rocky+Mountain+Sales+%3Cwww.rockymountainsales.com%3E) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-05-16 | [`City of Neodesha<neodesha.org>`](https://google.com/search?q=City+of+Neodesha%3Cneodesha.org%3E) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-05-16 | [`Chuo System Service Co.,Ltd <chuoss.co.jp>`](https://google.com/search?q=Chuo+System+Service+Co.%2CLtd+%3Cchuoss.co.jp%3E) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-05-16 | [`East Shore Sound`](https://google.com/search?q=East+Shore+Sound) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
