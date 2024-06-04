@@ -4,6 +4,12 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-06-04 | [`Langescheid GbR`](https://google.com/search?q=Langescheid+GbR) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
+| 2024-06-04 | [`Franja IT Integradores de Tecnología`](https://google.com/search?q=Franja+IT+Integradores+de+Tecnolog%C3%ADa) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
+| 2024-06-04 | [`Duque Saldarriaga`](https://google.com/search?q=Duque+Saldarriaga) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
+| 2024-06-04 | [`BHMAC`](https://google.com/search?q=BHMAC) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
+| 2024-06-04 | [`Botselo`](https://google.com/search?q=Botselo) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
+| 2024-06-04 | [`Immediate Transport &#8211; UK`](https://google.com/search?q=Immediate+Transport+%26%238211%3B+UK) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2024-06-03 | [`Anderson Mikos Archi tects`](https://google.com/search?q=Anderson+Mikos+Archi+tects) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-06-03 | [`Nidec Motor Corporation`](https://google.com/search?q=Nidec+Motor+Corporation) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2024-06-03 | [`ISETO CORPORATION`](https://google.com/search?q=ISETO+CORPORATION) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
@@ -198,9 +204,3 @@ _last `200` posts_
 | 2024-05-16 | [`City of Neodesha<neodesha.org>`](https://google.com/search?q=City+of+Neodesha%3Cneodesha.org%3E) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-05-16 | [`Chuo System Service Co.,Ltd <chuoss.co.jp>`](https://google.com/search?q=Chuo+System+Service+Co.%2CLtd+%3Cchuoss.co.jp%3E) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-05-16 | [`East Shore Sound`](https://google.com/search?q=East+Shore+Sound) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-05-16 | [`thermalsolutionsllc.com`](https://google.com/search?q=thermalsolutionsllc.com) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
-| 2024-05-16 | [`escriba.com.br`](https://google.com/search?q=escriba.com.br) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
-| 2024-05-15 | [`project sold`](https://google.com/search?q=project+sold) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
-| 2024-05-15 | [`Surrey Place Healthcare & Rehabilitation`](https://google.com/search?q=Surrey+Place+Healthcare+%26+Rehabilitation) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2024-05-15 | [`Litigation Lawyers`](https://google.com/search?q=Litigation+Lawyers) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2024-05-15 | [`Co, Chartered Accountants`](https://google.com/search?q=Co%2C+Chartered+Accountants) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
