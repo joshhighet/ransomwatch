@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-06-05 | [`naprodgroup.com`](https://google.com/search?q=naprodgroup.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-06-04 | [`Voorhees Family Office Services`](https://google.com/search?q=Voorhees+Family+Office+Services) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2024-06-04 | [`Mahindra Racing`](https://google.com/search?q=Mahindra+Racing) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-06-04 | [`Mountjoy`](https://google.com/search?q=Mountjoy) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-05-16 | [`countyins.com`](https://google.com/search?q=countyins.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-05-16 | [`allcare-med.com`](https://google.com/search?q=allcare-med.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-05-16 | [`acla.de`](https://google.com/search?q=acla.de) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-05-16 | [`Administração do Porto de São Francisco do Sul (APSFS)`](https://google.com/search?q=Administra%C3%A7%C3%A3o+do+Porto+de+S%C3%A3o+Francisco+do+Sul+%28APSFS%29) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
