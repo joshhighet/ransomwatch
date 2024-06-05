@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-06-05 | [`Dubai Municipality (UAE)`](https://google.com/search?q=Dubai+Municipality+%28UAE%29) | [daixin](https://ransomwatch.telemetry.ltd/#/profiles?id=daixin) |
 | 2024-06-05 | [`naprodgroup.com`](https://google.com/search?q=naprodgroup.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-06-04 | [`Voorhees Family Office Services`](https://google.com/search?q=Voorhees+Family+Office+Services) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2024-06-04 | [`Mahindra Racing`](https://google.com/search?q=Mahindra+Racing) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-05-16 | [`daubertchemical.com`](https://google.com/search?q=daubertchemical.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-05-16 | [`countyins.com`](https://google.com/search?q=countyins.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-05-16 | [`allcare-med.com`](https://google.com/search?q=allcare-med.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-05-16 | [`acla.de`](https://google.com/search?q=acla.de) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
