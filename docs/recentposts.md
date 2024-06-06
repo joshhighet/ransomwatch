@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-06-06 | [`RAVEN Mechanical`](https://google.com/search?q=RAVEN+Mechanical) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
+| 2024-06-06 | [`craigsteven.com`](https://google.com/search?q=craigsteven.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-06-06 | [`dollmar.com\$28.3M\Italy\127GB\100% DISCLOSED`](https://google.com/search?q=dollmar.com%5C%2428.3M%5CItaly%5C127GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-06-06 | [`Panasonic Australia`](https://google.com/search?q=Panasonic+Australia) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-06-05 | [`espackeuro.com\$17.3M\Spain\11GB\100% DISCLOSED`](https://google.com/search?q=espackeuro.com%5C%2417.3M%5CSpain%5C11GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-05-16 | [`kauffmanschool.org`](https://google.com/search?q=kauffmanschool.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-05-16 | [`jmjcorporation.com`](https://google.com/search?q=jmjcorporation.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-05-16 | [`hesperiausd.org`](https://google.com/search?q=hesperiausd.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-05-16 | [`epsd.org`](https://google.com/search?q=epsd.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-05-16 | [`ema-eda.com`](https://google.com/search?q=ema-eda.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
