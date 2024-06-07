@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-06-07 | [`dmedelivers.com`](https://google.com/search?q=dmedelivers.com) | [embargo](https://ransomwatch.telemetry.ltd/#/profiles?id=embargo) |
+| 2024-06-07 | [`Talalay Global`](https://google.com/search?q=Talalay+Global) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2024-06-07 | [`Akdeniz Chemson`](https://google.com/search?q=Akdeniz+Chemson) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-06-07 | [`Reinhold Sign Servic e`](https://google.com/search?q=Reinhold+Sign+Servic+e) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-06-07 | [`Dynasafe`](https://google.com/search?q=Dynasafe) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-06-07 | [`The Robson Companies`](https://google.com/search?q=The+Robson+Companies) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2024-05-17 | [`Formosa Plastics USA`](https://google.com/search?q=Formosa+Plastics+USA) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-05-16 | [`laxmicapital.com.np`](https://google.com/search?q=laxmicapital.com.np) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-05-16 | [`agranibank.org`](https://google.com/search?q=agranibank.org) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
-| 2024-05-16 | [`fulcrum.pro\$2.1M\US\57GB\&lt;1%DISCLOSED`](https://google.com/search?q=fulcrum.pro%5C%242.1M%5CUS%5C57GB%5C%26lt%3B1%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2024-05-16 | [`OKUANT - okuant.com`](https://google.com/search?q=OKUANT+-+okuant.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-05-16 | [`Insurance Agency Marketing Services`](https://google.com/search?q=Insurance+Agency+Marketing+Services) | [moneymessage](https://ransomwatch.telemetry.ltd/#/profiles?id=moneymessage) |
