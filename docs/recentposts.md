@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-06-07 | [`Jones`](https://google.com/search?q=Jones) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2024-06-07 | [`Elite Limousine Plus Inc`](https://google.com/search?q=Elite+Limousine+Plus+Inc) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2024-06-07 | [`GMJ and Co, Chartered Accountants`](https://google.com/search?q=GMJ+and+Co%2C+Chartered+Accountants) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-06-07 | [`dmedelivers.com`](https://google.com/search?q=dmedelivers.com) | [embargo](https://ransomwatch.telemetry.ltd/#/profiles?id=embargo) |
 | 2024-06-07 | [`Talalay Global`](https://google.com/search?q=Talalay+Global) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-06-07 | [`Akdeniz Chemson`](https://google.com/search?q=Akdeniz+Chemson) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2024-05-17 | [`Isaacs Odinocki`](https://google.com/search?q=Isaacs+Odinocki) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2024-05-17 | [`Gantan Beauty Industry`](https://google.com/search?q=Gantan+Beauty+Industry) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2024-05-17 | [`ABS-CBN Broadcasting`](https://google.com/search?q=ABS-CBN+Broadcasting) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
-| 2024-05-17 | [`Formosa Plastics USA`](https://google.com/search?q=Formosa+Plastics+USA) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2024-05-16 | [`laxmicapital.com.np`](https://google.com/search?q=laxmicapital.com.np) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
-| 2024-05-16 | [`agranibank.org`](https://google.com/search?q=agranibank.org) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
