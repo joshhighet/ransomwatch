@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-06-08 | [`ccmaui.org`](https://google.com/search?q=ccmaui.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-06-07 | [`Río Negro`](https://google.com/search?q=R%C3%ADo+Negro) | [mallox](https://ransomwatch.telemetry.ltd/#/profiles?id=mallox) |
 | 2024-06-07 | [`Madata Data Collection &amp; Internet Portals`](https://google.com/search?q=Madata+Data+Collection+%26amp%3B+Internet+Portals) | [mallox](https://ransomwatch.telemetry.ltd/#/profiles?id=mallox) |
 | 2024-06-07 | [`"Moshe Kahn Advocates"`](https://google.com/search?q=%22Moshe+Kahn+Advocates%22) | [mallox](https://ransomwatch.telemetry.ltd/#/profiles?id=mallox) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-05-17 | [`www.belcherpharma.com`](https://google.com/search?q=www.belcherpharma.com) | [underground](https://ransomwatch.telemetry.ltd/#/profiles?id=underground) |
 | 2024-05-17 | [`valleyjoist.com`](https://google.com/search?q=valleyjoist.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-05-17 | [`Houston Waste Solutions <www.houstonwastesolutions.com>`](https://google.com/search?q=Houston+Waste+Solutions+%3Cwww.houstonwastesolutions.com%3E) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-05-17 | [`http://www.visionmech.net`](https://google.com/search?q=http%3A%2F%2Fwww.visionmech.net) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
