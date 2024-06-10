@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-06-10 | [`CentralSecurities.com`](https://google.com/search?q=CentralSecurities.com) | [underground](https://ransomwatch.telemetry.ltd/#/profiles?id=underground) |
+| 2024-06-10 | [`nordspace.lt`](https://google.com/search?q=nordspace.lt) | [darkvault](https://ransomwatch.telemetry.ltd/#/profiles?id=darkvault) |
+| 2024-06-10 | [`Harper Industries`](https://google.com/search?q=Harper+Industries) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-06-10 | [`sanyo-shokai.co.jp\$412.6M\Japan\248GB\&lt;1% DISCLOSED`](https://google.com/search?q=sanyo-shokai.co.jp%5C%24412.6M%5CJapan%5C248GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-06-10 | [`Arge Baustahl`](https://google.com/search?q=Arge+Baustahl) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-06-10 | [`wave2.co.kr`](https://google.com/search?q=wave2.co.kr) | [darkvault](https://ransomwatch.telemetry.ltd/#/profiles?id=darkvault) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2024-05-20 | [`LEMKEN`](https://google.com/search?q=LEMKEN) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2024-05-20 | [`Embellir`](https://google.com/search?q=Embellir) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2024-05-20 | [`Crooker`](https://google.com/search?q=Crooker) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2024-05-18 | [`Bluebonnet Nutrition`](https://google.com/search?q=Bluebonnet+Nutrition) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2024-05-18 | [`Center for Digestive Health`](https://google.com/search?q=Center+for+Digestive+Health) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2024-05-18 | [`Widdop & Co.`](https://google.com/search?q=Widdop+%26+Co.) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
