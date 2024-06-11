@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-06-11 | [`Embotits Espina, SLU`](https://google.com/search?q=Embotits+Espina%2C+SLU) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2024-06-10 | [`CentralSecurities.com`](https://google.com/search?q=CentralSecurities.com) | [underground](https://ransomwatch.telemetry.ltd/#/profiles?id=underground) |
 | 2024-06-10 | [`nordspace.lt`](https://google.com/search?q=nordspace.lt) | [darkvault](https://ransomwatch.telemetry.ltd/#/profiles?id=darkvault) |
 | 2024-06-10 | [`Harper Industries`](https://google.com/search?q=Harper+Industries) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-05-20 | [`schuettemetals.com\$28.9M\USA\280GB\&lt;1%DISCLOSED`](https://google.com/search?q=schuettemetals.com%5C%2428.9M%5CUSA%5C280GB%5C%26lt%3B1%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-05-20 | [`LEMKEN`](https://google.com/search?q=LEMKEN) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2024-05-20 | [`Embellir`](https://google.com/search?q=Embellir) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2024-05-20 | [`Crooker`](https://google.com/search?q=Crooker) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
