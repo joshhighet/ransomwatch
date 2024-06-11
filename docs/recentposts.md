@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-06-11 | [`WinFashion ERP`](https://google.com/search?q=WinFashion+ERP) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2024-06-11 | [`apex.uk.net`](https://google.com/search?q=apex.uk.net) | [apt73](https://ransomwatch.telemetry.ltd/#/profiles?id=apt73) |
 | 2024-06-11 | [`AlphaNovaCapital`](https://google.com/search?q=AlphaNovaCapital) | [apt73](https://ransomwatch.telemetry.ltd/#/profiles?id=apt73) |
 | 2024-06-11 | [`AMI Global Assistance`](https://google.com/search?q=AMI+Global+Assistance) | [apt73](https://ransomwatch.telemetry.ltd/#/profiles?id=apt73) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-05-20 | [`acfin.cl\$25.1M\Chile\460GB\100%DISCLOSED`](https://google.com/search?q=acfin.cl%5C%2425.1M%5CChile%5C460GB%5C100%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-05-20 | [`fulcrum.pro\$2.1M\US\57GB\100%DISCLOSED`](https://google.com/search?q=fulcrum.pro%5C%242.1M%5CUS%5C57GB%5C100%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-05-20 | [`Jess-link Products`](https://google.com/search?q=Jess-link+Products) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2024-05-20 | [`Berge Bulk`](https://google.com/search?q=Berge+Bulk) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
