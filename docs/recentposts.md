@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-06-12 | [`transportlaberge.com\$27.8M\Canada\110GB\&lt;1% DISCLOSED`](https://google.com/search?q=transportlaberge.com%5C%2427.8M%5CCanada%5C110GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-06-12 | [`Hello World`](https://google.com/search?q=Hello+World) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2024-06-11 | [`Zuber Gardner CPAs pt.2`](https://google.com/search?q=Zuber+Gardner+CPAs+pt.2) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2024-06-11 | [`WinFashion ERP`](https://google.com/search?q=WinFashion+ERP) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-05-20 | [`Atlas Oil`](https://google.com/search?q=Atlas+Oil) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-05-20 | [`TruGreen`](https://google.com/search?q=TruGreen) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-05-20 | [`Marigin`](https://google.com/search?q=Marigin) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2024-05-20 | [`acfin.cl\$25.1M\Chile\460GB\100%DISCLOSED`](https://google.com/search?q=acfin.cl%5C%2425.1M%5CChile%5C460GB%5C100%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
