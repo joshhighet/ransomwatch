@@ -4,6 +4,18 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-06-12 | [`Western Mechanical`](https://google.com/search?q=Western+Mechanical) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-06-12 | [`Trisun Land Services`](https://google.com/search?q=Trisun+Land+Services) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-06-12 | [`Smartweb`](https://google.com/search?q=Smartweb) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-06-12 | [`Shinnick & Ryan`](https://google.com/search?q=Shinnick+%26+Ryan) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-06-12 | [`Seagulf Marine Industries`](https://google.com/search?q=Seagulf+Marine+Industries) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-06-12 | [`Peterbilt of Atlanta`](https://google.com/search?q=Peterbilt+of+Atlanta) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-06-12 | [`Great Lakes International Trading`](https://google.com/search?q=Great+Lakes+International+Trading) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-06-12 | [`Goodman Reichwald-Dodge`](https://google.com/search?q=Goodman+Reichwald-Dodge) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-06-12 | [`Eagle Materials`](https://google.com/search?q=Eagle+Materials) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-06-12 | [`Chroma Color`](https://google.com/search?q=Chroma+Color) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-06-12 | [`Brainworks Software`](https://google.com/search?q=Brainworks+Software) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-06-12 | [`3GL Technology Solutions`](https://google.com/search?q=3GL+Technology+Solutions) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-06-12 | [`ZeepLive`](https://google.com/search?q=ZeepLive) | [darkvault](https://ransomwatch.telemetry.ltd/#/profiles?id=darkvault) |
 | 2024-06-12 | [`Concrete`](https://google.com/search?q=Concrete) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-06-12 | [`Kinter`](https://google.com/search?q=Kinter) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -192,15 +204,3 @@ _last `200` posts_
 | 2024-05-22 | [`Starostwo Powiatowe w Świebodzinie`](https://google.com/search?q=Starostwo+Powiatowe+w+%C5%9Awiebodzinie) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-05-22 | [`Semicore Equipment`](https://google.com/search?q=Semicore+Equipment) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-05-22 | [`Ryder Scott Co.`](https://google.com/search?q=Ryder+Scott+Co.) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-05-22 | [`RDI-USA`](https://google.com/search?q=RDI-USA) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-05-22 | [`Levin Porter Associates`](https://google.com/search?q=Levin+Porter+Associates) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-05-22 | [`Experis Technology Group`](https://google.com/search?q=Experis+Technology+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-05-22 | [`Aspire Tax`](https://google.com/search?q=Aspire+Tax) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-05-22 | [`Ardenbrook`](https://google.com/search?q=Ardenbrook) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-05-22 | [`Anchorage Daily News`](https://google.com/search?q=Anchorage+Daily+News) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-05-21 | [`Brittany Horne <brittanyhorne.com>`](https://google.com/search?q=Brittany+Horne+%3Cbrittanyhorne.com%3E) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-05-21 | [`ALO diamonds`](https://google.com/search?q=ALO+diamonds) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2024-05-21 | [`Matadero de Gijón - Biogas energy plant - mataderodegijon.es`](https://google.com/search?q=Matadero+de+Gij%C3%B3n+-+Biogas+energy+plant+-+mataderodegijon.es) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-05-21 | [`American Clinical Solutions(acslabtest.com)`](https://google.com/search?q=American+Clinical+Solutions%28acslabtest.com%29) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-05-21 | [`ORIUX: Experts in Mobility <www.oriux.com>`](https://google.com/search?q=ORIUX%3A+Experts+in+Mobility+%3Cwww.oriux.com%3E) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-05-20 | [`Le Vian`](https://google.com/search?q=Le+Vian) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
