@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-06-12 | [`ZeepLive`](https://google.com/search?q=ZeepLive) | [darkvault](https://ransomwatch.telemetry.ltd/#/profiles?id=darkvault) |
+| 2024-06-12 | [`Concrete`](https://google.com/search?q=Concrete) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
+| 2024-06-12 | [`Kinter`](https://google.com/search?q=Kinter) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-06-12 | [`IPM Group (Multimedi a Information & Prod uction Company)`](https://google.com/search?q=IPM+Group+%28Multimedi+a+Information+%26+Prod+uction+Company%29) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-06-12 | [`manncorp.com`](https://google.com/search?q=manncorp.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-06-12 | [`belcherpharma.com`](https://google.com/search?q=belcherpharma.com) | [underground](https://ransomwatch.telemetry.ltd/#/profiles?id=underground) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2024-05-21 | [`American Clinical Solutions(acslabtest.com)`](https://google.com/search?q=American+Clinical+Solutions%28acslabtest.com%29) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-05-21 | [`ORIUX: Experts in Mobility <www.oriux.com>`](https://google.com/search?q=ORIUX%3A+Experts+in+Mobility+%3Cwww.oriux.com%3E) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-05-20 | [`Le Vian`](https://google.com/search?q=Le+Vian) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2024-05-20 | [`Provencher_Roy`](https://google.com/search?q=Provencher_Roy) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2024-05-20 | [`Lactanet`](https://google.com/search?q=Lactanet) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2024-05-20 | [`Grupo Cadarso`](https://google.com/search?q=Grupo+Cadarso) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
