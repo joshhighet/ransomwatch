@@ -4,6 +4,11 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-06-13 | [`Borrer Executive Search`](https://google.com/search?q=Borrer+Executive+Search) | [apt73](https://ransomwatch.telemetry.ltd/#/profiles?id=apt73) |
+| 2024-06-13 | [`www.bigalsfoodservice.co.uk`](https://google.com/search?q=www.bigalsfoodservice.co.uk) | [apt73](https://ransomwatch.telemetry.ltd/#/profiles?id=apt73) |
+| 2024-06-13 | [`Diogenet S.r.l.`](https://google.com/search?q=Diogenet+S.r.l.) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
+| 2024-06-13 | [`Cukierski &#038; Associates, LLC`](https://google.com/search?q=Cukierski+%26%23038%3B+Associates%2C+LLC) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
+| 2024-06-13 | [`2K Dental`](https://google.com/search?q=2K+Dental) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2024-06-13 | [`Dordt University`](https://google.com/search?q=Dordt+University) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-06-12 | [`https://eurotrol.com/en/`](https://google.com/search?q=https%3A%2F%2Feurotrol.com%2Fen%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-06-12 | [`Western Mechanical`](https://google.com/search?q=Western+Mechanical) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -199,8 +204,3 @@ _last `200` posts_
 | 2024-05-22 | [`Cressex Community School`](https://google.com/search?q=Cressex+Community+School) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2024-05-22 | [`Hedbergs`](https://google.com/search?q=Hedbergs) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2024-05-22 | [`J & N Stone`](https://google.com/search?q=J+%26+N+Stone) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
-| 2024-05-22 | [`Newman Ferrara`](https://google.com/search?q=Newman+Ferrara) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2024-05-22 | [`Visa Lighting`](https://google.com/search?q=Visa+Lighting) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-05-22 | [`Tri-state General Contractors`](https://google.com/search?q=Tri-state+General+Contractors) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-05-22 | [`The Louis G Freeman`](https://google.com/search?q=The+Louis+G+Freeman) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-05-22 | [`Starostwo Powiatowe w Świebodzinie`](https://google.com/search?q=Starostwo+Powiatowe+w+%C5%9Awiebodzinie) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
