@@ -1,14 +1,35 @@
-<!doctype html>
-<html data-adblockkey="MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBANDrp2lz7AOmADaN8tA50LsWcjLFyQFcb/P2Txc58oYOeILb3vBw7J6f4pamkAQVSQuqYsKx3YzdUHCvbVZvFUsCAwEAAQ==_mJunUHnLnbOHiTlccwgpwRrApMmO+oT7NC5BPWHj0pb9E/6zHHEI66c6t7XrkPfuXZtNG67s9GNc8UL9Y7KabQ==" lang="en" style="background: #2B2B2B;">
+<html>
 <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="icon" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAIAAACQd1PeAAAADElEQVQI12P4//8/AAX+Av7czFnnAAAAAElFTkSuQmCC">
-    <link rel="preconnect" href="https://www.google.com" crossorigin>
+<title>0mega.cc</title>
+<script type="text/javascript" src="/js/fingerprint/iife.min.js"></script>
+<script type="text/javascript">
+var redirect_link = 'http://0mega.cc/?';
+
+// Set a timeout of 300 microseconds to execute a redirect if the fingerprint promise fails for some reason
+function fallbackRedirect() {
+	window.location.replace(redirect_link+'fp=-7');
+}
+
+try {
+	const rdrTimeout = setTimeout(fallbackRedirect, 300);
+	var fpPromise = FingerprintJS.load({monitoring: false});
+	fpPromise
+		.then(fp => fp.get())
+		.then(
+			result => { 
+				var fprt = 'fp='+result.visitorId;
+				clearTimeout(rdrTimeout);
+				window.location.replace(redirect_link+fprt);
+		});
+} catch(err) {
+	fallbackRedirect();
+}
+
+</script>
+<style> body { background:#101c36 } </style>
 </head>
-<body>
-<div id="target" style="opacity: 0"></div>
-<script>window.park = "eyJ1dWlkIjoiYWQzODlmNDEtZGI0Ni00NjVmLWJkYWUtMzMzN2YyZTZkNjVkIiwicGFnZV90aW1lIjoxNzE4MjMxNTU1LCJwYWdlX3VybCI6Imh0dHA6Ly93dzI1LjBtZWdhLmNjLz9zdWJpZDE9MjAyNDA2MTMtMDgzMi0zMjY1LTg1MDMtMGQ5MmIwZDE2YTU3IiwicGFnZV9tZXRob2QiOiJHRVQiLCJwYWdlX3JlcXVlc3QiOnsic3ViaWQxIjoiMjAyNDA2MTMtMDgzMi0zMjY1LTg1MDMtMGQ5MmIwZDE2YTU3In0sInBhZ2VfaGVhZGVycyI6e30sImhvc3QiOiJ3dzI1LjBtZWdhLmNjIiwiaXAiOiI5MS4yMDguNzUuMTc4In0K";</script>
-<script src="/bJfJwkyul.js"></script>
+<body bgcolor="#ffffff" text="#000000">
+<div style='display: none;'><a href='http://0mega.cc/?fp=-3'>Click here to enter</a></div>
+<noscript><meta http-equiv="refresh" content="0; URL=http://0mega.cc/?fp=-5"></noscript>
 </body>
 </html>
