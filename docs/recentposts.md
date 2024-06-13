@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-06-13 | [`Dordt University`](https://google.com/search?q=Dordt+University) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-06-12 | [`https://eurotrol.com/en/`](https://google.com/search?q=https%3A%2F%2Feurotrol.com%2Fen%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-06-12 | [`Western Mechanical`](https://google.com/search?q=Western+Mechanical) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-06-12 | [`Trisun Land Services`](https://google.com/search?q=Trisun+Land+Services) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-05-22 | [`Tri-state General Contractors`](https://google.com/search?q=Tri-state+General+Contractors) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-05-22 | [`The Louis G Freeman`](https://google.com/search?q=The+Louis+G+Freeman) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-05-22 | [`Starostwo Powiatowe w Świebodzinie`](https://google.com/search?q=Starostwo+Powiatowe+w+%C5%9Awiebodzinie) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-05-22 | [`Semicore Equipment`](https://google.com/search?q=Semicore+Equipment) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
