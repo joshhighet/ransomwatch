@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-06-14 | [`Zuber Gardner CPAs Data Leak`](https://google.com/search?q=Zuber+Gardner+CPAs+Data+Leak) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2024-06-13 | [`Borrer Executive Search`](https://google.com/search?q=Borrer+Executive+Search) | [apt73](https://ransomwatch.telemetry.ltd/#/profiles?id=apt73) |
 | 2024-06-13 | [`www.bigalsfoodservice.co.uk`](https://google.com/search?q=www.bigalsfoodservice.co.uk) | [apt73](https://ransomwatch.telemetry.ltd/#/profiles?id=apt73) |
 | 2024-06-13 | [`Diogenet S.r.l.`](https://google.com/search?q=Diogenet+S.r.l.) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-05-22 | [`GRANVILLE FOOD CARE  LIMITED`](https://google.com/search?q=GRANVILLE+FOOD+CARE++LIMITED) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-05-22 | [`Cressex Community School`](https://google.com/search?q=Cressex+Community+School) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2024-05-22 | [`Hedbergs`](https://google.com/search?q=Hedbergs) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
-| 2024-05-22 | [`J & N Stone`](https://google.com/search?q=J+%26+N+Stone) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
