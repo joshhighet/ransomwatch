@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-06-15 | [`Sun City Pediatrics PA (USA, TX)`](https://google.com/search?q=Sun+City+Pediatrics+PA+%28USA%2C+TX%29) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2024-06-15 | [`InVogue Women Healthcare, PLLC (USA,TX)`](https://google.com/search?q=InVogue+Women+Healthcare%2C+PLLC+%28USA%2CTX%29) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2024-06-15 | [`Lee Trevino Dental (USA,TX)`](https://google.com/search?q=Lee+Trevino+Dental+%28USA%2CTX%29) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2024-06-15 | [`Sun City Pediatrics PA`](https://google.com/search?q=Sun+City+Pediatrics+PA) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-05-23 | [`iseta.fr (institut des Sciences de l'Environnement et des Territoires d'Annecy)`](https://google.com/search?q=iseta.fr+%28institut+des+Sciences+de+l%27Environnement+et+des+Territoires+d%27Annecy%29) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-05-23 | [`MAH Machine`](https://google.com/search?q=MAH+Machine) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-05-23 | [`Critchfield and Johnston`](https://google.com/search?q=Critchfield+and+Johnston) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2024-05-23 | [`Nutec Group`](https://google.com/search?q=Nutec+Group) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
