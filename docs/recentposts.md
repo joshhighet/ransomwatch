@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-06-17 | [`http://www.kckpd.org`](https://google.com/search?q=http%3A%2F%2Fwww.kckpd.org) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
+| 2024-06-17 | [`Wielton S.A.`](https://google.com/search?q=Wielton+S.A.) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2024-06-17 | [`Amper Radio`](https://google.com/search?q=Amper+Radio) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-06-17 | [`A-Line Staffing Solutions`](https://google.com/search?q=A-Line+Staffing+Solutions) | [underground](https://ransomwatch.telemetry.ltd/#/profiles?id=underground) |
 | 2024-06-17 | [`Acteon Group`](https://google.com/search?q=Acteon+Group) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-06-17 | [`TETRA Technologies,  Inc.`](https://google.com/search?q=TETRA+Technologies%2C++Inc.) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2024-05-24 | [`http://www.colfax.k12.wi.us`](https://google.com/search?q=http%3A%2F%2Fwww.colfax.k12.wi.us) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-05-24 | [`http://www.dowellchem.cn/`](https://google.com/search?q=http%3A%2F%2Fwww.dowellchem.cn%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-05-24 | [`http://www.hiawathahomes.org`](https://google.com/search?q=http%3A%2F%2Fwww.hiawathahomes.org) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
-| 2024-05-24 | [`valleylandtitleco.com`](https://google.com/search?q=valleylandtitleco.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-05-23 | [`Patriot Machine, Updated data leak.`](https://google.com/search?q=Patriot+Machine%2C+Updated+data+leak.) | [donutleaks](https://ransomwatch.telemetry.ltd/#/profiles?id=donutleaks) |
-| 2024-05-23 | [`unisi.it`](https://google.com/search?q=unisi.it) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
