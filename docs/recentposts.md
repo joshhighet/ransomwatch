@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-06-17 | [`A-Line Staffing Solutions`](https://google.com/search?q=A-Line+Staffing+Solutions) | [underground](https://ransomwatch.telemetry.ltd/#/profiles?id=underground) |
+| 2024-06-17 | [`Acteon Group`](https://google.com/search?q=Acteon+Group) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-06-17 | [`TETRA Technologies,  Inc.`](https://google.com/search?q=TETRA+Technologies%2C++Inc.) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-06-17 | [`Virum Apotek`](https://google.com/search?q=Virum+Apotek) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2024-06-17 | [`MGF`](https://google.com/search?q=MGF) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-05-24 | [`valleylandtitleco.com`](https://google.com/search?q=valleylandtitleco.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-05-23 | [`Patriot Machine, Updated data leak.`](https://google.com/search?q=Patriot+Machine%2C+Updated+data+leak.) | [donutleaks](https://ransomwatch.telemetry.ltd/#/profiles?id=donutleaks) |
 | 2024-05-23 | [`unisi.it`](https://google.com/search?q=unisi.it) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-05-23 | [`schmittyandsons.com`](https://google.com/search?q=schmittyandsons.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-05-23 | [`ramfoam.com`](https://google.com/search?q=ramfoam.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
