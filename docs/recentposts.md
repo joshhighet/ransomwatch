@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-06-17 | [`cosimti.com`](https://google.com/search?q=cosimti.com) | [darkvault](https://ransomwatch.telemetry.ltd/#/profiles?id=darkvault) |
 | 2024-06-17 | [`journohq.com`](https://google.com/search?q=journohq.com) | [darkvault](https://ransomwatch.telemetry.ltd/#/profiles?id=darkvault) |
 | 2024-06-16 | [`Production Machine & Enterprises`](https://google.com/search?q=Production+Machine+%26+Enterprises) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2024-06-16 | [`CETOS Services`](https://google.com/search?q=CETOS+Services) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-05-23 | [`londondrugs.com`](https://google.com/search?q=londondrugs.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-05-23 | [`equinoxinc.org`](https://google.com/search?q=equinoxinc.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-05-23 | [`carcajou.fr`](https://google.com/search?q=carcajou.fr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-05-23 | [`shamrocktradingcorp.com`](https://google.com/search?q=shamrocktradingcorp.com) | [embargo](https://ransomwatch.telemetry.ltd/#/profiles?id=embargo) |
