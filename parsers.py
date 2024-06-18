@@ -1336,8 +1336,9 @@ def alphalocker():
 
 def ransomhub():
     stdlog('parser: ' + 'ransomhub')
+    # grep '<h5 class="card-title">' source/ransomhub-*.html | cut -d '>' -f 3 | cut -d '<' -f 1 | perl -MHTML::Entities -ne 'print decode_entities($_)'
     parser = '''
-    grep '<h5 class="card-title">' source/ransomhub-*.html | cut -d '>' -f 3 | cut -d '<' -f 1 | perl -MHTML::Entities -ne 'print decode_entities($_)'
+    grep '<div class="card-title text-center">' source/ransomhub-ransomxifxw*.html | cut -d '>' -f 3 | cut -d '<' -f 1 && grep '<tr><td class="link">' source/ransomhub-fp*.html | cut -d '"' -f 4 | sort --uniq
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
