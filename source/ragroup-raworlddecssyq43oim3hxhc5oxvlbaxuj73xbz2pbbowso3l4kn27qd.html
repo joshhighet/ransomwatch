@@ -1,0 +1,47 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title> RA World - RA World </title>
+	<base href="http://raworlddecssyq43oim3hxhc5oxvlbaxuj73xbz2pbbowso3l4kn27qd.onion">
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="description" content="" />
+	<meta name="keywords" content="instant chat, disposable chat" />
+	<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1" />
+	<link href="https://fonts.googleapis.com/css?family=Inter:400,500&display=swap" rel="stylesheet">
+	<link href="/static/style.css" rel="stylesheet" />
+	<script>
+		
+	</script>
+</head>
+<body>
+<div class="container">
+	<div id="app" v-cloak>
+
+	<section class="intro">
+		<div class="centered-image">
+			<img src="/static/images/chat.png" alt="" />
+		</div>
+		<input type="text" id="linkInput" placeholder="Enter Room ID">
+		<button onclick="submitLink()">Go</button>
+
+		<script>
+			function submitLink() {
+				var link = document.getElementById("linkInput").value;
+				window.location.href = "/r/" + link;
+			}
+		</script>
+	</section>
+
+		<div v-if="notifMessage" :class="notifType" class="notification">{( notifMessage )}</div>
+	</div>
+</div>
+
+<script src="/static/vue.min.js"></script>
+<script src="/static/client.js"></script>
+<script src="/static/app.js"></script>
+
+</body>
+</html>
+
