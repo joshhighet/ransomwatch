@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-06-18 | [`Ojai srl`](https://google.com/search?q=Ojai+srl) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2024-06-17 | [`http://www.kckpd.org`](https://google.com/search?q=http%3A%2F%2Fwww.kckpd.org) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-06-17 | [`Wielton S.A.`](https://google.com/search?q=Wielton+S.A.) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-06-17 | [`Amper Radio`](https://google.com/search?q=Amper+Radio) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-05-24 | [`schuettemetals.com\$28.9M\USA\280GB\100%DISCLOSED`](https://google.com/search?q=schuettemetals.com%5C%2428.9M%5CUSA%5C280GB%5C100%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-05-24 | [`http://www.colfax.k12.wi.us`](https://google.com/search?q=http%3A%2F%2Fwww.colfax.k12.wi.us) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-05-24 | [`http://www.dowellchem.cn/`](https://google.com/search?q=http%3A%2F%2Fwww.dowellchem.cn%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
-| 2024-05-24 | [`http://www.hiawathahomes.org`](https://google.com/search?q=http%3A%2F%2Fwww.hiawathahomes.org) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
