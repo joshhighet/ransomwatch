@@ -1511,3 +1511,14 @@ def arcusmedia():
         errlog('arcusmedia: ' + 'parsing fail')
     for post in posts:
         appender(post, 'arcusmedia')
+
+def trinity():
+    stdlog('parser: ' + 'trinity')
+    parser = '''
+    grep -A 1 '<strong>Company name:</strong>' source/trinity-*.html | grep -v '<strong>' | grep -v '<p>' | grep -v -- '--' | sed -e 's/^ *//g'
+    '''
+    posts = runshellcmd(parser)
+    if len(posts) == 1:
+        errlog('trinity: ' + 'parsing fail')
+    for post in posts:
+        appender(post, 'trinity')
