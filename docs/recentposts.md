@@ -174,6 +174,8 @@ _last `200` posts_
 | 2024-06-18 | [`evoevents.co.nz`](https://google.com/search?q=evoevents.co.nz) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
 | 2024-06-18 | [`seafrigo.com`](https://google.com/search?q=seafrigo.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
 | 2024-06-18 | [`thebus.org`](https://google.com/search?q=thebus.org) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
+| 2024-06-18 | [`reawire.com\$100M\USA\100GB\&lt;1% DISCLOSED`](https://google.com/search?q=reawire.com%5C%24100M%5CUSA%5C100GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
+| 2024-06-18 | [`malca-amit.com`](https://google.com/search?q=malca-amit.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
 | 2024-06-18 | [`sofidel.com\$3B\Italy\74GB\&lt;1% DISCLOSED`](https://google.com/search?q=sofidel.com%5C%243B%5CItaly%5C74GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-06-18 | [`sky-light.com\$26.4M\Denmark\50GB\&lt;1% DISCLOSED`](https://google.com/search?q=sky-light.com%5C%2426.4M%5CDenmark%5C50GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-06-18 | [`www.gbricambi.it`](https://google.com/search?q=www.gbricambi.it) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-06-15 | [`Lee Trevino Dental (USA,TX)`](https://google.com/search?q=Lee+Trevino+Dental+%28USA%2CTX%29) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2024-06-15 | [`Sun City Pediatrics PA`](https://google.com/search?q=Sun+City+Pediatrics+PA) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2024-06-15 | [`http://www.peregrinegp.com`](https://google.com/search?q=http%3A%2F%2Fwww.peregrinegp.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
-| 2024-06-14 | [`https://mbe.cpa`](https://google.com/search?q=https%3A%2F%2Fmbe.cpa) | [metaencryptor](https://ransomwatch.telemetry.ltd/#/profiles?id=metaencryptor) |
-| 2024-06-14 | [`New Balance Commodit ies`](https://google.com/search?q=New+Balance+Commodit+ies) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
