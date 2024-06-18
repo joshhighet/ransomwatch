@@ -1522,3 +1522,14 @@ def trinity():
         errlog('trinity: ' + 'parsing fail')
     for post in posts:
         appender(post, 'trinity')
+
+def sensayq():
+    stdlog('parser: ' + 'sensayq')
+    parser = '''
+    grep '<div class="cls_recordTop">' source/sensayq-*.html | cut -d '>' -f 3 | cut -d '<' -f 1
+    '''
+    posts = runshellcmd(parser)
+    if len(posts) == 1:
+        errlog('sensayq: ' + 'parsing fail')
+    for post in posts:
+        appender(post, 'sensayq')

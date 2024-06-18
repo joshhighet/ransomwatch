@@ -312,4 +312,5 @@ if args.mode == 'parse':
     parsers.flocker()
     parsers.arcusmedia()
     parsers.trinity()
+    parsers.sensayq()
     stdlog('ransomwatch: ' + 'parse run complete')
