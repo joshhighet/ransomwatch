@@ -174,6 +174,7 @@ _last `200` posts_
 | 2024-06-18 | [`evoevents.co.nz`](https://google.com/search?q=evoevents.co.nz) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
 | 2024-06-18 | [`seafrigo.com`](https://google.com/search?q=seafrigo.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
 | 2024-06-18 | [`thebus.org`](https://google.com/search?q=thebus.org) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
+| 2024-06-18 | [`www.gbricambi.it`](https://google.com/search?q=www.gbricambi.it) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-06-18 | [`Seoyon E-Hwa`](https://google.com/search?q=Seoyon+E-Hwa) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2024-06-18 | [`GIANNI CUCUINI`](https://google.com/search?q=GIANNI+CUCUINI) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2024-06-18 | [`Ojai srl`](https://google.com/search?q=Ojai+srl) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-06-14 | [`New Balance Commodit ies`](https://google.com/search?q=New+Balance+Commodit+ies) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-06-14 | [`www.gannons.co.uk`](https://google.com/search?q=www.gannons.co.uk) | [apt73](https://ransomwatch.telemetry.ltd/#/profiles?id=apt73) |
 | 2024-06-14 | [`Zuber Gardner CPAs Data Leak`](https://google.com/search?q=Zuber+Gardner+CPAs+Data+Leak) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
-| 2024-06-13 | [`Borrer Executive Search`](https://google.com/search?q=Borrer+Executive+Search) | [apt73](https://ransomwatch.telemetry.ltd/#/profiles?id=apt73) |
