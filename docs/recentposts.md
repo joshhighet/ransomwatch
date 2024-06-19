@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-06-19 | [`Lindermayr`](https://google.com/search?q=Lindermayr) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
+| 2024-06-19 | [`Perfumes & Companhia`](https://google.com/search?q=Perfumes+%26+Companhia) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-06-19 | [`First Baptist Medical Center`](https://google.com/search?q=First+Baptist+Medical+Center) | [moneymessage](https://ransomwatch.telemetry.ltd/#/profiles?id=moneymessage) |
 | 2024-06-19 | [`Circle K Atlanta`](https://google.com/search?q=Circle+K+Atlanta) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-06-18 | [`www.novabitsrl.it/`](https://google.com/search?q=www.novabitsrl.it%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-06-16 | [`CETOS Services`](https://google.com/search?q=CETOS+Services) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2024-06-15 | [`Kiemle-Hankins`](https://google.com/search?q=Kiemle-Hankins) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2024-06-15 | [`MRI`](https://google.com/search?q=MRI) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2024-06-15 | [`Legrand CRM`](https://google.com/search?q=Legrand+CRM) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2024-06-15 | [`Sun City Pediatrics PA (USA, TX)`](https://google.com/search?q=Sun+City+Pediatrics+PA+%28USA%2C+TX%29) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
