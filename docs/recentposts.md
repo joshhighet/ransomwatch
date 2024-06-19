@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-06-19 | [`&lt;www.invisio.com&gt;`](https://google.com/search?q=%26lt%3Bwww.invisio.com%26gt%3B) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-06-19 | [`www.clevo.com.tw&lt;Disclose&gt;`](https://google.com/search?q=www.clevo.com.tw%26lt%3BDisclose%26gt%3B) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-06-19 | [`suminoe.us\$71.3M\USA\278GB\&lt;1% DISCLOSED`](https://google.com/search?q=suminoe.us%5C%2471.3M%5CUSA%5C278GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-06-19 | [`Lindermayr`](https://google.com/search?q=Lindermayr) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-06-17 | [`cosimti.com`](https://google.com/search?q=cosimti.com) | [darkvault](https://ransomwatch.telemetry.ltd/#/profiles?id=darkvault) |
 | 2024-06-17 | [`journohq.com`](https://google.com/search?q=journohq.com) | [darkvault](https://ransomwatch.telemetry.ltd/#/profiles?id=darkvault) |
 | 2024-06-16 | [`Production Machine & Enterprises`](https://google.com/search?q=Production+Machine+%26+Enterprises) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2024-06-16 | [`CETOS Services`](https://google.com/search?q=CETOS+Services) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
