@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-06-19 | [`Circle K Atlanta`](https://google.com/search?q=Circle+K+Atlanta) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-06-18 | [`www.novabitsrl.it/`](https://google.com/search?q=www.novabitsrl.it%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-06-18 | [`smicusa.com/`](https://google.com/search?q=smicusa.com%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-06-18 | [`pedsurology.com`](https://google.com/search?q=pedsurology.com) | [dAn0n](https://ransomwatch.telemetry.ltd/#/profiles?id=dAn0n) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-06-15 | [`Legrand CRM`](https://google.com/search?q=Legrand+CRM) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-06-15 | [`Sun City Pediatrics PA (USA, TX)`](https://google.com/search?q=Sun+City+Pediatrics+PA+%28USA%2C+TX%29) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2024-06-15 | [`InVogue Women Healthcare, PLLC (USA,TX)`](https://google.com/search?q=InVogue+Women+Healthcare%2C+PLLC+%28USA%2CTX%29) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
-| 2024-06-15 | [`Lee Trevino Dental (USA,TX)`](https://google.com/search?q=Lee+Trevino+Dental+%28USA%2CTX%29) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
