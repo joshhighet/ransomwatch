@@ -1534,3 +1534,14 @@ def sensayq():
         errlog('sensayq: ' + 'parsing fail')
     for post in posts:
         appender(post, 'sensayq')
+
+def cicada3301():
+    stdlog('parser: ' + 'cicada3301')
+    parser = '''
+    grep -C 1 'tracking-widest">web:</span>' source/cicada3301-*.html | grep href | cut -d '"' -f 2
+    '''
+    posts = runshellcmd(parser)
+    if len(posts) == 1:
+        errlog('cicada3301: ' + 'parsing fail')
+    for post in posts:
+        appender(post, 'cicada3301')

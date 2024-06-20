@@ -6153,5 +6153,25 @@
             }
         ],
         "profile": []
+    },
+    {
+        "name": "cicada3301",
+        "captcha": false,
+        "parser": false,
+        "javascript_render": false,
+        "meta": null,
+        "locations": [
+            {
+                "fqdn": "cicadabv7vicyvgz5khl7v2x5yygcgow7ryy6yppwmxii4eoobdaztqd.onion",
+                "title": " ",
+                "version": 3,
+                "slug": "http://cicadabv7vicyvgz5khl7v2x5yygcgow7ryy6yppwmxii4eoobdaztqd.onion",
+                "available": true,
+                "updated": "2024-06-20 12:57:59.939028",
+                "lastscrape": "2024-06-20 12:57:59.939021",
+                "enabled": true
+            }
+        ],
+        "profile": []
     }
 ]
