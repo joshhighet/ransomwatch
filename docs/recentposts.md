@@ -4,6 +4,12 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-06-20 | [`ALPS Alpine`](https://google.com/search?q=ALPS+Alpine) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
+| 2024-06-20 | [`Encinajpa`](https://google.com/search?q=Encinajpa) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
+| 2024-06-20 | [`https://basementsystems.com`](https://google.com/search?q=https%3A%2F%2Fbasementsystems.com) | [cicada3301](https://ransomwatch.telemetry.ltd/#/profiles?id=cicada3301) |
+| 2024-06-20 | [`https://www.asst-rhodense.it`](https://google.com/search?q=https%3A%2F%2Fwww.asst-rhodense.it) | [cicada3301](https://ransomwatch.telemetry.ltd/#/profiles?id=cicada3301) |
+| 2024-06-20 | [`https://maintel.co.uk`](https://google.com/search?q=https%3A%2F%2Fmaintel.co.uk) | [cicada3301](https://ransomwatch.telemetry.ltd/#/profiles?id=cicada3301) |
+| 2024-06-20 | [`https://theaccessgroup.com`](https://google.com/search?q=https%3A%2F%2Ftheaccessgroup.com) | [cicada3301](https://ransomwatch.telemetry.ltd/#/profiles?id=cicada3301) |
 | 2024-06-19 | [`&lt;www.invisio.com&gt;`](https://google.com/search?q=%26lt%3Bwww.invisio.com%26gt%3B) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-06-19 | [`www.clevo.com.tw&lt;Disclose&gt;`](https://google.com/search?q=www.clevo.com.tw%26lt%3BDisclose%26gt%3B) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-06-19 | [`suminoe.us\$71.3M\USA\278GB\&lt;1% DISCLOSED`](https://google.com/search?q=suminoe.us%5C%2471.3M%5CUSA%5C278GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
@@ -198,9 +204,3 @@ _last `200` posts_
 | 2024-06-17 | [`Acteon Group`](https://google.com/search?q=Acteon+Group) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-06-17 | [`TETRA Technologies,  Inc.`](https://google.com/search?q=TETRA+Technologies%2C++Inc.) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-06-17 | [`Virum Apotek`](https://google.com/search?q=Virum+Apotek) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
-| 2024-06-17 | [`MGF`](https://google.com/search?q=MGF) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2024-06-17 | [`P/Kaufmann Fabrics`](https://google.com/search?q=P%2FKaufmann+Fabrics) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2024-06-17 | [`Modplan`](https://google.com/search?q=Modplan) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2024-06-17 | [`cosimti.com`](https://google.com/search?q=cosimti.com) | [darkvault](https://ransomwatch.telemetry.ltd/#/profiles?id=darkvault) |
-| 2024-06-17 | [`journohq.com`](https://google.com/search?q=journohq.com) | [darkvault](https://ransomwatch.telemetry.ltd/#/profiles?id=darkvault) |
-| 2024-06-16 | [`Production Machine & Enterprises`](https://google.com/search?q=Production+Machine+%26+Enterprises) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
