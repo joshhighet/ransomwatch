@@ -6,6 +6,9 @@ _last `200` posts_
 |---|---|---|
 | 2024-06-20 | [`ALPS Alpine`](https://google.com/search?q=ALPS+Alpine) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
 | 2024-06-20 | [`Encinajpa`](https://google.com/search?q=Encinajpa) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
+| 2024-06-20 | [`Exhaustpro shops`](https://google.com/search?q=Exhaustpro+shops) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
+| 2024-06-20 | [`BankSelfStorage`](https://google.com/search?q=BankSelfStorage) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
+| 2024-06-20 | [`GED Lawyers &amp; ..`](https://google.com/search?q=GED+Lawyers+%26amp%3B+..) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2024-06-20 | [`SAWA INTERNATIONAL`](https://google.com/search?q=SAWA+INTERNATIONAL) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2024-06-20 | [`Gokals  Consumer Electronics &amp; Computers Retail · Fiji`](https://google.com/search?q=Gokals++Consumer+Electronics+%26amp%3B+Computers+Retail+%C2%B7+Fiji) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2024-06-20 | [`https://basementsystems.com`](https://google.com/search?q=https%3A%2F%2Fbasementsystems.com) | [cicada3301](https://ransomwatch.telemetry.ltd/#/profiles?id=cicada3301) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2024-06-18 | [`Ojai srl`](https://google.com/search?q=Ojai+srl) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2024-06-17 | [`http://www.kckpd.org`](https://google.com/search?q=http%3A%2F%2Fwww.kckpd.org) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-06-17 | [`Wielton S.A.`](https://google.com/search?q=Wielton+S.A.) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2024-06-17 | [`Amper Radio`](https://google.com/search?q=Amper+Radio) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2024-06-17 | [`A-Line Staffing Solutions`](https://google.com/search?q=A-Line+Staffing+Solutions) | [underground](https://ransomwatch.telemetry.ltd/#/profiles?id=underground) |
-| 2024-06-17 | [`Acteon Group`](https://google.com/search?q=Acteon+Group) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
