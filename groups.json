@@ -3283,16 +3283,6 @@
                 "enabled": true
             },
             {
-                "fqdn": "lockbitwwgh7ybaxczt4fddrpthaweouq4bez2lim7ct2bqtkdlec4ad.onion",
-                "title": null,
-                "version": 3,
-                "slug": "http://lockbitwwgh7ybaxczt4fddrpthaweouq4bez2lim7ct2bqtkdlec4ad.onion/",
-                "available": false,
-                "updated": "2024-06-19 18:21:25.624003",
-                "lastscrape": "2024-06-19 18:21:25.623954",
-                "enabled": true
-            },
-            {
                 "fqdn": "lockbitzka3u4xx4xbw2lo7mqwgqxign6iq4clatn66sfbred22qdiid.onion",
                 "title": "LockBit LOGIN",
                 "version": 3,
