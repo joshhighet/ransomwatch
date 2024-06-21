@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-06-21 | [`Maxillofacial Surgery`](https://google.com/search?q=Maxillofacial+Surgery) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2024-06-21 | [`MEL aviation Ltd`](https://google.com/search?q=MEL+aviation+Ltd) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-06-21 | [`oexpress.id`](https://google.com/search?q=oexpress.id) | [darkvault](https://ransomwatch.telemetry.ltd/#/profiles?id=darkvault) |
 | 2024-06-21 | [`Topserve Service Solutions`](https://google.com/search?q=Topserve+Service+Solutions) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2024-06-21 | [`Taiyo Kogyo Co., Ltd.`](https://google.com/search?q=Taiyo+Kogyo+Co.%2C+Ltd.) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-06-18 | [`evoevents.co.nz`](https://google.com/search?q=evoevents.co.nz) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
 | 2024-06-18 | [`seafrigo.com`](https://google.com/search?q=seafrigo.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
 | 2024-06-18 | [`thebus.org`](https://google.com/search?q=thebus.org) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
-| 2024-06-18 | [`reawire.com\$100M\USA\100GB\&lt;1% DISCLOSED`](https://google.com/search?q=reawire.com%5C%24100M%5CUSA%5C100GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2024-06-18 | [`malca-amit.com`](https://google.com/search?q=malca-amit.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
