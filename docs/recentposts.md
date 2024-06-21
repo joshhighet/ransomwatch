@@ -4,6 +4,11 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-06-21 | [`Topserve Service Solutions`](https://google.com/search?q=Topserve+Service+Solutions) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2024-06-21 | [`Taiyo Kogyo Co., Ltd.`](https://google.com/search?q=Taiyo+Kogyo+Co.%2C+Ltd.) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2024-06-21 | [`TC Capital Asia Limited`](https://google.com/search?q=TC+Capital+Asia+Limited) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2024-06-21 | [`LCS and Partners`](https://google.com/search?q=LCS+and+Partners) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
+| 2024-06-21 | [`Hokushinko Co., Ltd.`](https://google.com/search?q=Hokushinko+Co.%2C+Ltd.) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2024-06-21 | [`www.gbricambi.it [UPDATE]`](https://google.com/search?q=www.gbricambi.it+%5BUPDATE%5D) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-06-20 | [`www.invisio.com`](https://google.com/search?q=www.invisio.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-06-20 | [`ALPS Alpine`](https://google.com/search?q=ALPS+Alpine) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
@@ -199,8 +204,3 @@ _last `200` posts_
 | 2024-06-18 | [`reawire.com\$100M\USA\100GB\&lt;1% DISCLOSED`](https://google.com/search?q=reawire.com%5C%24100M%5CUSA%5C100GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-06-18 | [`malca-amit.com`](https://google.com/search?q=malca-amit.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
 | 2024-06-18 | [`sofidel.com\$3B\Italy\74GB\&lt;1% DISCLOSED`](https://google.com/search?q=sofidel.com%5C%243B%5CItaly%5C74GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2024-06-18 | [`sky-light.com\$26.4M\Denmark\50GB\&lt;1% DISCLOSED`](https://google.com/search?q=sky-light.com%5C%2426.4M%5CDenmark%5C50GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2024-06-18 | [`www.gbricambi.it`](https://google.com/search?q=www.gbricambi.it) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-06-18 | [`Seoyon E-Hwa`](https://google.com/search?q=Seoyon+E-Hwa) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
-| 2024-06-18 | [`GIANNI CUCUINI`](https://google.com/search?q=GIANNI+CUCUINI) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
-| 2024-06-18 | [`Ojai srl`](https://google.com/search?q=Ojai+srl) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
