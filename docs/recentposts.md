@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-06-22 | [`Rotor Team`](https://google.com/search?q=Rotor+Team) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
+| 2024-06-22 | [`Heli Securite`](https://google.com/search?q=Heli+Securite) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
+| 2024-06-22 | [`BLADE`](https://google.com/search?q=BLADE) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2024-06-22 | [`www.invisio.com/`](https://google.com/search?q=www.invisio.com%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-06-22 | [`parlorenzo.com/`](https://google.com/search?q=parlorenzo.com%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-06-21 | [`Maxillofacial Surgery`](https://google.com/search?q=Maxillofacial+Surgery) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2024-06-18 | [`one.biremote.net`](https://google.com/search?q=one.biremote.net) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
 | 2024-06-18 | [`davisyounglaw.com`](https://google.com/search?q=davisyounglaw.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
 | 2024-06-18 | [`hoppecke-us.com`](https://google.com/search?q=hoppecke-us.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
-| 2024-06-18 | [`barretteyecare.com`](https://google.com/search?q=barretteyecare.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
-| 2024-06-18 | [`parrish-mccall.com`](https://google.com/search?q=parrish-mccall.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
-| 2024-06-18 | [`evoevents.co.nz`](https://google.com/search?q=evoevents.co.nz) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
