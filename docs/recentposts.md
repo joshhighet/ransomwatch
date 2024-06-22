@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-06-22 | [`www.ugrocapital.com/`](https://google.com/search?q=www.ugrocapital.com%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-06-22 | [`www.gbricambi.it/`](https://google.com/search?q=www.gbricambi.it%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-06-22 | [`sanyo-shokai.co.jp\$412.6M\Japan\248GB\100% DISCLOSED`](https://google.com/search?q=sanyo-shokai.co.jp%5C%24412.6M%5CJapan%5C248GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-06-22 | [`D*****S`](https://google.com/search?q=D%2A%2A%2A%2A%2AS) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
 | 2024-06-22 | [`Rotor Team`](https://google.com/search?q=Rotor+Team) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2024-06-22 | [`Heli Securite`](https://google.com/search?q=Heli+Securite) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2024-06-18 | [`motormunich.cat`](https://google.com/search?q=motormunich.cat) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
 | 2024-06-18 | [`dean-lumber.com`](https://google.com/search?q=dean-lumber.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
 | 2024-06-18 | [`windcomservices.com`](https://google.com/search?q=windcomservices.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
-| 2024-06-18 | [`local1964.org`](https://google.com/search?q=local1964.org) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
-| 2024-06-18 | [`one.biremote.net`](https://google.com/search?q=one.biremote.net) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
-| 2024-06-18 | [`davisyounglaw.com`](https://google.com/search?q=davisyounglaw.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
