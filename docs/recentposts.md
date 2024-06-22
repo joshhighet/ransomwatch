@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-06-22 | [`Erivan Gecom Inc`](https://google.com/search?q=Erivan+Gecom+Inc) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
+| 2024-06-22 | [`City of Newburgh`](https://google.com/search?q=City+of+Newburgh) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
 | 2024-06-22 | [`www.ugrocapital.com/`](https://google.com/search?q=www.ugrocapital.com%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-06-22 | [`www.gbricambi.it/`](https://google.com/search?q=www.gbricambi.it%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-06-22 | [`sanyo-shokai.co.jp\$412.6M\Japan\248GB\100% DISCLOSED`](https://google.com/search?q=sanyo-shokai.co.jp%5C%24412.6M%5CJapan%5C248GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-06-18 | [`hardings-transport.com`](https://google.com/search?q=hardings-transport.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
 | 2024-06-18 | [`cssltd.co.uk`](https://google.com/search?q=cssltd.co.uk) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
 | 2024-06-18 | [`motormunich.cat`](https://google.com/search?q=motormunich.cat) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
-| 2024-06-18 | [`dean-lumber.com`](https://google.com/search?q=dean-lumber.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
-| 2024-06-18 | [`windcomservices.com`](https://google.com/search?q=windcomservices.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
