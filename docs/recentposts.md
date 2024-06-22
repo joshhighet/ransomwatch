@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-06-22 | [`Cityofnewburgh-ny.gov`](https://google.com/search?q=Cityofnewburgh-ny.gov) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
 | 2024-06-22 | [`Erivan Gecom Inc`](https://google.com/search?q=Erivan+Gecom+Inc) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2024-06-22 | [`City of Newburgh`](https://google.com/search?q=City+of+Newburgh) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
 | 2024-06-22 | [`www.ugrocapital.com/`](https://google.com/search?q=www.ugrocapital.com%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-06-18 | [`www.maloneaccountants.ie`](https://google.com/search?q=www.maloneaccountants.ie) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
 | 2024-06-18 | [`hardings-transport.com`](https://google.com/search?q=hardings-transport.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
 | 2024-06-18 | [`cssltd.co.uk`](https://google.com/search?q=cssltd.co.uk) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
-| 2024-06-18 | [`motormunich.cat`](https://google.com/search?q=motormunich.cat) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
