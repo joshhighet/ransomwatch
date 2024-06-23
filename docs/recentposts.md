@@ -4,6 +4,12 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-06-23 | [`deskcenter.com\$25.9M\Germany\224GB\&lt;1% DISCLOSED`](https://google.com/search?q=deskcenter.com%5C%2425.9M%5CGermany%5C224GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
+| 2024-06-23 | [`millimages.com\$12.6M\France\147GB\&lt;1% DISCLOSED`](https://google.com/search?q=millimages.com%5C%2412.6M%5CFrance%5C147GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
+| 2024-06-23 | [`www.glynmarais.co.za\$12.6M\South Africa\105GB\&lt;1% DISCLOSED`](https://google.com/search?q=www.glynmarais.co.za%5C%2412.6M%5CSouth+Africa%5C105GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
+| 2024-06-23 | [`hundhausen.de\$150M\Germany\650GB\&lt;1% DISCLOSED`](https://google.com/search?q=hundhausen.de%5C%24150M%5CGermany%5C650GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
+| 2024-06-23 | [`fbttransport.com\$70.8M\USA\180GB\&lt;1% DISCLOSED`](https://google.com/search?q=fbttransport.com%5C%2470.8M%5CUSA%5C180GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
+| 2024-06-23 | [`daystar.com\$120.3M\USA\125GB\&lt;1% DISCLOSED`](https://google.com/search?q=daystar.com%5C%24120.3M%5CUSA%5C125GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-06-23 | [`test123.com`](https://google.com/search?q=test123.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-06-23 | [`marvell.com`](https://google.com/search?q=marvell.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-06-23 | [`at-global.com`](https://google.com/search?q=at-global.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -198,9 +204,3 @@ _last `200` posts_
 | 2024-06-18 | [`www.crezit.com`](https://google.com/search?q=www.crezit.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-06-18 | [`www.ugrocapital.com`](https://google.com/search?q=www.ugrocapital.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-06-18 | [`www.novabitsrl.it`](https://google.com/search?q=www.novabitsrl.it) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-06-18 | [`smicusa.com`](https://google.com/search?q=smicusa.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-06-18 | [`www.racalacoustics.com [UPDATE]`](https://google.com/search?q=www.racalacoustics.com+%5BUPDATE%5D) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-06-18 | [`parlorenzo.com`](https://google.com/search?q=parlorenzo.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-06-18 | [`www.liderit.es`](https://google.com/search?q=www.liderit.es) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-06-18 | [`www.domainatcleveland.com`](https://google.com/search?q=www.domainatcleveland.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-06-18 | [`www.altipal.com.co`](https://google.com/search?q=www.altipal.com.co) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
