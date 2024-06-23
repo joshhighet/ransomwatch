@@ -4,6 +4,15 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-06-23 | [`World inquest`](https://google.com/search?q=World+inquest) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-06-23 | [`TPI`](https://google.com/search?q=TPI) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-06-23 | [`RRCA Accounts Management`](https://google.com/search?q=RRCA+Accounts+Management) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-06-23 | [`ProMotion Holdings`](https://google.com/search?q=ProMotion+Holdings) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-06-23 | [`Hedrick Brothers Construction`](https://google.com/search?q=Hedrick+Brothers+Construction) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-06-23 | [`Harvey Construction`](https://google.com/search?q=Harvey+Construction) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-06-23 | [`Custom Concrete`](https://google.com/search?q=Custom+Concrete) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-06-23 | [`Bunger Steel`](https://google.com/search?q=Bunger+Steel) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-06-23 | [`Belle Tire`](https://google.com/search?q=Belle+Tire) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-06-23 | [`Ladco`](https://google.com/search?q=Ladco) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-06-23 | [`deskcenter.com\$25.9M\Germany\224GB\&lt;1% DISCLOSED`](https://google.com/search?q=deskcenter.com%5C%2425.9M%5CGermany%5C224GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-06-23 | [`millimages.com\$12.6M\France\147GB\&lt;1% DISCLOSED`](https://google.com/search?q=millimages.com%5C%2412.6M%5CFrance%5C147GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
@@ -195,12 +204,3 @@ _last `200` posts_
 | 2024-06-18 | [`www.eastshoresound.com`](https://google.com/search?q=www.eastshoresound.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-06-18 | [`www.houstonwastesolutions.com`](https://google.com/search?q=www.houstonwastesolutions.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-06-18 | [`www.mataderodegijon.es`](https://google.com/search?q=www.mataderodegijon.es) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-06-18 | [`www.brittanyhorne.com`](https://google.com/search?q=www.brittanyhorne.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-06-18 | [`www.throttleup.io`](https://google.com/search?q=www.throttleup.io) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-06-18 | [`www.acslabtest.com`](https://google.com/search?q=www.acslabtest.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-06-18 | [`www.christies.com&lt;SOLD&gt;`](https://google.com/search?q=www.christies.com%26lt%3BSOLD%26gt%3B) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-06-18 | [`www.psgbdvor.rs`](https://google.com/search?q=www.psgbdvor.rs) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-06-18 | [`www.bjurholm.se`](https://google.com/search?q=www.bjurholm.se) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-06-18 | [`Frontier.com`](https://google.com/search?q=Frontier.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-06-18 | [`www.crezit.com`](https://google.com/search?q=www.crezit.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-06-18 | [`www.ugrocapital.com`](https://google.com/search?q=www.ugrocapital.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
