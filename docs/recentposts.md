@@ -4,6 +4,13 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-06-23 | [`test123.com`](https://google.com/search?q=test123.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2024-06-23 | [`marvell.com`](https://google.com/search?q=marvell.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2024-06-23 | [`at-global.com`](https://google.com/search?q=at-global.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2024-06-23 | [`12341.com`](https://google.com/search?q=12341.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2024-06-23 | [`1144.com`](https://google.com/search?q=1144.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2024-06-23 | [`1133.com`](https://google.com/search?q=1133.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2024-06-23 | [`1122.com`](https://google.com/search?q=1122.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-06-22 | [`Cityofnewburgh-ny.gov`](https://google.com/search?q=Cityofnewburgh-ny.gov) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
 | 2024-06-22 | [`Erivan Gecom Inc`](https://google.com/search?q=Erivan+Gecom+Inc) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2024-06-22 | [`City of Newburgh`](https://google.com/search?q=City+of+Newburgh) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
@@ -197,10 +204,3 @@ _last `200` posts_
 | 2024-06-18 | [`www.liderit.es`](https://google.com/search?q=www.liderit.es) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-06-18 | [`www.domainatcleveland.com`](https://google.com/search?q=www.domainatcleveland.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-06-18 | [`www.altipal.com.co`](https://google.com/search?q=www.altipal.com.co) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
-| 2024-06-18 | [`accuratelockandhardware.com`](https://google.com/search?q=accuratelockandhardware.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
-| 2024-06-18 | [`monocon.com`](https://google.com/search?q=monocon.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
-| 2024-06-18 | [`www.persyn.be`](https://google.com/search?q=www.persyn.be) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
-| 2024-06-18 | [`www.wattcarmichael.com`](https://google.com/search?q=www.wattcarmichael.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
-| 2024-06-18 | [`www.maloneaccountants.ie`](https://google.com/search?q=www.maloneaccountants.ie) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
-| 2024-06-18 | [`hardings-transport.com`](https://google.com/search?q=hardings-transport.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
-| 2024-06-18 | [`cssltd.co.uk`](https://google.com/search?q=cssltd.co.uk) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
