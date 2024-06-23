@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-06-23 | [`Ladco`](https://google.com/search?q=Ladco) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-06-23 | [`deskcenter.com\$25.9M\Germany\224GB\&lt;1% DISCLOSED`](https://google.com/search?q=deskcenter.com%5C%2425.9M%5CGermany%5C224GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-06-23 | [`millimages.com\$12.6M\France\147GB\&lt;1% DISCLOSED`](https://google.com/search?q=millimages.com%5C%2412.6M%5CFrance%5C147GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-06-23 | [`www.glynmarais.co.za\$12.6M\South Africa\105GB\&lt;1% DISCLOSED`](https://google.com/search?q=www.glynmarais.co.za%5C%2412.6M%5CSouth+Africa%5C105GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-06-18 | [`Frontier.com`](https://google.com/search?q=Frontier.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-06-18 | [`www.crezit.com`](https://google.com/search?q=www.crezit.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-06-18 | [`www.ugrocapital.com`](https://google.com/search?q=www.ugrocapital.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-06-18 | [`www.novabitsrl.it`](https://google.com/search?q=www.novabitsrl.it) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
