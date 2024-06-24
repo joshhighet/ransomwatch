@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-06-24 | [`Compagnia Trasporti Integrati S.R.L`](https://google.com/search?q=Compagnia+Trasporti+Integrati+S.R.L) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
+| 2024-06-24 | [`VTWin.ca`](https://google.com/search?q=VTWin.ca) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2024-06-24 | [`www.sicoob.com.br`](https://google.com/search?q=www.sicoob.com.br) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-06-24 | [`www.liderit.es/`](https://google.com/search?q=www.liderit.es%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-06-24 | [`multi-wing.com`](https://google.com/search?q=multi-wing.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-06-18 | [`www.portosaofrancisco.com.br`](https://google.com/search?q=www.portosaofrancisco.com.br) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-06-18 | [`www.lalengineering.com`](https://google.com/search?q=www.lalengineering.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-06-18 | [`iseta.fr`](https://google.com/search?q=iseta.fr) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-06-18 | [`www.confins.com.br`](https://google.com/search?q=www.confins.com.br) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-06-18 | [`www.eucatex.com.br`](https://google.com/search?q=www.eucatex.com.br) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
