@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-06-24 | [`Agron (Five Ten) ACQ UIRED BY ADIDAS`](https://google.com/search?q=Agron+%28Five+Ten%29+ACQ+UIRED+BY+ADIDAS) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-06-24 | [`Compagnia Trasporti Integrati S.R.L`](https://google.com/search?q=Compagnia+Trasporti+Integrati+S.R.L) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2024-06-24 | [`VTWin.ca`](https://google.com/search?q=VTWin.ca) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2024-06-24 | [`www.sicoob.com.br`](https://google.com/search?q=www.sicoob.com.br) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-06-18 | [`www.kamojou.co.za`](https://google.com/search?q=www.kamojou.co.za) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-06-18 | [`www.portosaofrancisco.com.br`](https://google.com/search?q=www.portosaofrancisco.com.br) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-06-18 | [`www.lalengineering.com`](https://google.com/search?q=www.lalengineering.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-06-18 | [`iseta.fr`](https://google.com/search?q=iseta.fr) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
