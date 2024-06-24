@@ -4,6 +4,10 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-06-24 | [`www.concisa.eng.br`](https://google.com/search?q=www.concisa.eng.br) | [qiulong](https://ransomwatch.telemetry.ltd/#/profiles?id=qiulong) |
+| 2024-06-24 | [`hydmech.com\$47.2M\Canada\980GB\&lt;1% DISCLOSED`](https://google.com/search?q=hydmech.com%5C%2447.2M%5CCanada%5C980GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
+| 2024-06-24 | [`westfalia-automotive.com\$19.4M\Germany\60GB\&lt;1% DISCLOSED`](https://google.com/search?q=westfalia-automotive.com%5C%2419.4M%5CGermany%5C60GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
+| 2024-06-24 | [`Agron (Five Ten) Adi das TERREX`](https://google.com/search?q=Agron+%28Five+Ten%29+Adi+das+TERREX) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-06-24 | [`Agron (Five Ten) ACQ UIRED BY ADIDAS`](https://google.com/search?q=Agron+%28Five+Ten%29+ACQ+UIRED+BY+ADIDAS) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-06-24 | [`Compagnia Trasporti Integrati S.R.L`](https://google.com/search?q=Compagnia+Trasporti+Integrati+S.R.L) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2024-06-24 | [`VTWin.ca`](https://google.com/search?q=VTWin.ca) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
@@ -200,7 +204,3 @@ _last `200` posts_
 | 2024-06-18 | [`www.jutebag.co.uk`](https://google.com/search?q=www.jutebag.co.uk) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-06-18 | [`www.polaris.es`](https://google.com/search?q=www.polaris.es) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-06-18 | [`www.extraco.ae`](https://google.com/search?q=www.extraco.ae) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-06-18 | [`www.thaayakam.co.uk`](https://google.com/search?q=www.thaayakam.co.uk) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-06-18 | [`www.kamojou.co.za`](https://google.com/search?q=www.kamojou.co.za) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-06-18 | [`www.portosaofrancisco.com.br`](https://google.com/search?q=www.portosaofrancisco.com.br) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-06-18 | [`www.lalengineering.com`](https://google.com/search?q=www.lalengineering.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
