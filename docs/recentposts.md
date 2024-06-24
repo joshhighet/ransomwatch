@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-06-24 | [`multi-wing.com`](https://google.com/search?q=multi-wing.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-06-24 | [`bitzsoftwares.com.br`](https://google.com/search?q=bitzsoftwares.com.br) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-06-24 | [`http://revolutionresources.com`](https://google.com/search?q=http%3A%2F%2Frevolutionresources.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-06-24 | [`qftemb.com`](https://google.com/search?q=qftemb.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-06-24 | [`federalreserve.gov`](https://google.com/search?q=federalreserve.gov) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-06-18 | [`www.eucatex.com.br`](https://google.com/search?q=www.eucatex.com.br) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-06-18 | [`www.rockymountainsales.com`](https://google.com/search?q=www.rockymountainsales.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-06-18 | [`www.neodesha.org`](https://google.com/search?q=www.neodesha.org) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-06-18 | [`www.oriux.com`](https://google.com/search?q=www.oriux.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-06-18 | [`www.chuoss.co.jp`](https://google.com/search?q=www.chuoss.co.jp) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
