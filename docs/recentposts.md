@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-06-25 | [`Diogenet S.r.l. Data Leak`](https://google.com/search?q=Diogenet+S.r.l.+Data+Leak) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
+| 2024-06-25 | [`2K Dental Data Leak`](https://google.com/search?q=2K+Dental+Data+Leak) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2024-06-24 | [`www.concisa.eng.br`](https://google.com/search?q=www.concisa.eng.br) | [qiulong](https://ransomwatch.telemetry.ltd/#/profiles?id=qiulong) |
 | 2024-06-24 | [`hydmech.com\$47.2M\Canada\980GB\&lt;1% DISCLOSED`](https://google.com/search?q=hydmech.com%5C%2447.2M%5CCanada%5C980GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-06-24 | [`westfalia-automotive.com\$19.4M\Germany\60GB\&lt;1% DISCLOSED`](https://google.com/search?q=westfalia-automotive.com%5C%2419.4M%5CGermany%5C60GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-06-18 | [`www.designintoto.com.au`](https://google.com/search?q=www.designintoto.com.au) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-06-18 | [`www.precisiontimesystems.com`](https://google.com/search?q=www.precisiontimesystems.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-06-18 | [`www.jutebag.co.uk`](https://google.com/search?q=www.jutebag.co.uk) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-06-18 | [`www.polaris.es`](https://google.com/search?q=www.polaris.es) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-06-18 | [`www.extraco.ae`](https://google.com/search?q=www.extraco.ae) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
