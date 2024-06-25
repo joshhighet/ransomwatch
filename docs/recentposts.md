@@ -4,6 +4,12 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-06-25 | [`http://www.sanglier.org.uk`](https://google.com/search?q=http%3A%2F%2Fwww.sanglier.org.uk) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
+| 2024-06-25 | [`https://arangobillboard.com/`](https://google.com/search?q=https%3A%2F%2Farangobillboard.com%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
+| 2024-06-25 | [`https://rbbschools.net/`](https://google.com/search?q=https%3A%2F%2Frbbschools.net%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
+| 2024-06-25 | [`https://www.colfax.k12.wi.us/`](https://google.com/search?q=https%3A%2F%2Fwww.colfax.k12.wi.us%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
+| 2024-06-25 | [`https://www.axiavg.com/`](https://google.com/search?q=https%3A%2F%2Fwww.axiavg.com%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
+| 2024-06-25 | [`https://www.catiglass.com/`](https://google.com/search?q=https%3A%2F%2Fwww.catiglass.com%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-06-25 | [`http://ibewlocal1.org`](https://google.com/search?q=http%3A%2F%2Fibewlocal1.org) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-06-25 | [`https://www.doityoungs.com/`](https://google.com/search?q=https%3A%2F%2Fwww.doityoungs.com%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-06-25 | [`https://www.keeservices.com/`](https://google.com/search?q=https%3A%2F%2Fwww.keeservices.com%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
@@ -198,9 +204,3 @@ _last `200` posts_
 | 2024-06-18 | [`www.betteraccountingsolutions.com`](https://google.com/search?q=www.betteraccountingsolutions.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-06-18 | [`www.hcisystems.net`](https://google.com/search?q=www.hcisystems.net) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-06-18 | [`www.nrshealthcare.com`](https://google.com/search?q=www.nrshealthcare.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-06-18 | [`www.farmaciaflorio.com`](https://google.com/search?q=www.farmaciaflorio.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-06-18 | [`www.skywaycoach.ca`](https://google.com/search?q=www.skywaycoach.ca) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-06-18 | [`www.cyncsolutions.com`](https://google.com/search?q=www.cyncsolutions.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-06-18 | [`www.robesoncoso.org`](https://google.com/search?q=www.robesoncoso.org) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-06-18 | [`www.eebpsa.com.co`](https://google.com/search?q=www.eebpsa.com.co) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-06-18 | [`www.grupocuevas.es`](https://google.com/search?q=www.grupocuevas.es) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
