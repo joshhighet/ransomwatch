@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-06-26 | [`www.harrisranchbeef.com`](https://google.com/search?q=www.harrisranchbeef.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-06-25 | [`US Dermatology Partners`](https://google.com/search?q=US+Dermatology+Partners) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-06-25 | [`Better Business Bureau`](https://google.com/search?q=Better+Business+Bureau) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-06-25 | [`PCI Developments`](https://google.com/search?q=PCI+Developments) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-06-18 | [`www.industrialdealimentos.com`](https://google.com/search?q=www.industrialdealimentos.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-06-18 | [`www.wisd.net`](https://google.com/search?q=www.wisd.net) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-06-18 | [`www.pgesco.com`](https://google.com/search?q=www.pgesco.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-06-18 | [`www.avantit.no`](https://google.com/search?q=www.avantit.no) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
