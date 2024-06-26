@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-06-26 | [`Waterbury Newton`](https://google.com/search?q=Waterbury+Newton) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
+| 2024-06-26 | [`Cukierski &#038; Associates, LLC Data Leak`](https://google.com/search?q=Cukierski+%26%23038%3B+Associates%2C+LLC+Data+Leak) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2024-06-26 | [`www.harrisranchbeef.com`](https://google.com/search?q=www.harrisranchbeef.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-06-25 | [`US Dermatology Partners`](https://google.com/search?q=US+Dermatology+Partners) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-06-25 | [`Better Business Bureau`](https://google.com/search?q=Better+Business+Bureau) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-06-18 | [`www.kovra.com.my`](https://google.com/search?q=www.kovra.com.my) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-06-18 | [`www.lapastina.com`](https://google.com/search?q=www.lapastina.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-06-18 | [`www.industrialdealimentos.com`](https://google.com/search?q=www.industrialdealimentos.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-06-18 | [`www.wisd.net`](https://google.com/search?q=www.wisd.net) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-06-18 | [`www.pgesco.com`](https://google.com/search?q=www.pgesco.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
