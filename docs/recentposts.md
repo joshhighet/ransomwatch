@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-06-26 | [`Total Revisjon DA`](https://google.com/search?q=Total+Revisjon+DA) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
+| 2024-06-26 | [`competenz.co.nz`](https://google.com/search?q=competenz.co.nz) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-06-26 | [`GED Lawyers &#8211; Sells Open`](https://google.com/search?q=GED+Lawyers+%26%238211%3B+Sells+Open) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2024-06-26 | [`Ocasa`](https://google.com/search?q=Ocasa) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-06-26 | [`Gallos Metal Solutio ns`](https://google.com/search?q=Gallos+Metal+Solutio+ns) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-06-18 | [`www.dvttechnologyltd.com`](https://google.com/search?q=www.dvttechnologyltd.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-06-18 | [`www.rekamy.com`](https://google.com/search?q=www.rekamy.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-06-18 | [`www.go4kora.tv`](https://google.com/search?q=www.go4kora.tv) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-06-18 | [`www.scadea.com`](https://google.com/search?q=www.scadea.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-06-18 | [`www.computan.com`](https://google.com/search?q=www.computan.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
