@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-06-27 | [`H*******Y`](https://google.com/search?q=H%2A%2A%2A%2A%2A%2A%2AY) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
 | 2024-06-26 | [`Total Revisjon DA`](https://google.com/search?q=Total+Revisjon+DA) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2024-06-26 | [`competenz.co.nz`](https://google.com/search?q=competenz.co.nz) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-06-26 | [`GED Lawyers &#8211; Sells Open`](https://google.com/search?q=GED+Lawyers+%26%238211%3B+Sells+Open) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-06-18 | [`www.siea.sk`](https://google.com/search?q=www.siea.sk) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-06-18 | [`www.dvttechnologyltd.com`](https://google.com/search?q=www.dvttechnologyltd.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-06-18 | [`www.rekamy.com`](https://google.com/search?q=www.rekamy.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-06-18 | [`www.go4kora.tv`](https://google.com/search?q=www.go4kora.tv) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
