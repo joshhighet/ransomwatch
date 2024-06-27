@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-06-27 | [`landmarklife.com`](https://google.com/search?q=landmarklife.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
+| 2024-06-27 | [`conferenceusa.com`](https://google.com/search?q=conferenceusa.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
 | 2024-06-27 | [`buyeazzy.com`](https://google.com/search?q=buyeazzy.com) | [darkvault](https://ransomwatch.telemetry.ltd/#/profiles?id=darkvault) |
 | 2024-06-27 | [`promarkbrands.com`](https://google.com/search?q=promarkbrands.com) | [dAn0n](https://ransomwatch.telemetry.ltd/#/profiles?id=dAn0n) |
 | 2024-06-27 | [`http://kadokawa.co.jp`](https://google.com/search?q=http%3A%2F%2Fkadokawa.co.jp) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-06-18 | [`www.al-shefafarm.ro(SOLD)`](https://google.com/search?q=www.al-shefafarm.ro%28SOLD%29) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-06-18 | [`www.headwaterco.com`](https://google.com/search?q=www.headwaterco.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-06-18 | [`www.shootinghouse.com.br`](https://google.com/search?q=www.shootinghouse.com.br) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-06-18 | [`www.merchant.id`](https://google.com/search?q=www.merchant.id) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-06-18 | [`www.spmundi.com.br`](https://google.com/search?q=www.spmundi.com.br) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
