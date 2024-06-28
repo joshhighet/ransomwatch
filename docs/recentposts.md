@@ -4,6 +4,11 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-06-28 | [`www.mangimifusco.it`](https://google.com/search?q=www.mangimifusco.it) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-06-28 | [`www.cloudeurope.it`](https://google.com/search?q=www.cloudeurope.it) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-06-28 | [`coca-cola.com - Myanmar office`](https://google.com/search?q=coca-cola.com+-+Myanmar+office) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-06-28 | [`daniellegroup.com`](https://google.com/search?q=daniellegroup.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-06-28 | [`www.cipl.org.in`](https://google.com/search?q=www.cipl.org.in) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-06-27 | [`landmarklife.com`](https://google.com/search?q=landmarklife.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
 | 2024-06-27 | [`conferenceusa.com`](https://google.com/search?q=conferenceusa.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
 | 2024-06-27 | [`buyeazzy.com`](https://google.com/search?q=buyeazzy.com) | [darkvault](https://ransomwatch.telemetry.ltd/#/profiles?id=darkvault) |
@@ -199,8 +204,3 @@ _last `200` posts_
 | 2024-06-18 | [`EastShoreSound/`](https://google.com/search?q=EastShoreSound%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-06-18 | [`CABLECON/`](https://google.com/search?q=CABLECON%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-06-18 | [`BacaCounty/`](https://google.com/search?q=BacaCounty%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-06-18 | [`APSFS/`](https://google.com/search?q=APSFS%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-06-18 | [`www.ykp.com.br`](https://google.com/search?q=www.ykp.com.br) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-06-18 | [`www.al-shefafarm.ro(SOLD)`](https://google.com/search?q=www.al-shefafarm.ro%28SOLD%29) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-06-18 | [`www.headwaterco.com`](https://google.com/search?q=www.headwaterco.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-06-18 | [`www.shootinghouse.com.br`](https://google.com/search?q=www.shootinghouse.com.br) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
