@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-06-28 | [`Francesco Parisi`](https://google.com/search?q=Francesco+Parisi) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
+| 2024-06-28 | [`Gestores Administrativos Reunidos`](https://google.com/search?q=Gestores+Administrativos+Reunidos) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2024-06-28 | [`www.mangimifusco.it`](https://google.com/search?q=www.mangimifusco.it) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-06-28 | [`www.cloudeurope.it`](https://google.com/search?q=www.cloudeurope.it) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-06-28 | [`coca-cola.com - Myanmar office`](https://google.com/search?q=coca-cola.com+-+Myanmar+office) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-06-18 | [`HARMAN/`](https://google.com/search?q=HARMAN%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-06-18 | [`Frontier.com/`](https://google.com/search?q=Frontier.com%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-06-18 | [`EastShoreSound/`](https://google.com/search?q=EastShoreSound%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-06-18 | [`CABLECON/`](https://google.com/search?q=CABLECON%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-06-18 | [`BacaCounty/`](https://google.com/search?q=BacaCounty%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
