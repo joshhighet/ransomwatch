@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-06-29 | [`DRM Resources`](https://google.com/search?q=DRM+Resources) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2024-06-29 | [`Clima Lodi`](https://google.com/search?q=Clima+Lodi) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2024-06-29 | [`DatAnalítica`](https://google.com/search?q=DatAnal%C3%ADtica) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2024-06-29 | [`Freightliner of Grand Rapids &amp; Kalamazoo`](https://google.com/search?q=Freightliner+of+Grand+Rapids+%26amp%3B+Kalamazoo) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-06-18 | [`computan/`](https://google.com/search?q=computan%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-06-18 | [`chuoss.co.jp/`](https://google.com/search?q=chuoss.co.jp%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-06-18 | [`brittany/`](https://google.com/search?q=brittany%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-06-18 | [`bjurholms.se/`](https://google.com/search?q=bjurholms.se%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
