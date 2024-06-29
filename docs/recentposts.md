@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-06-29 | [`Clima Lodi`](https://google.com/search?q=Clima+Lodi) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
+| 2024-06-29 | [`DatAnalítica`](https://google.com/search?q=DatAnal%C3%ADtica) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
+| 2024-06-29 | [`Freightliner of Grand Rapids &amp; Kalamazoo`](https://google.com/search?q=Freightliner+of+Grand+Rapids+%26amp%3B+Kalamazoo) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2024-06-29 | [`Spandex.com`](https://google.com/search?q=Spandex.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-06-28 | [`equinocioplay.com.br`](https://google.com/search?q=equinocioplay.com.br) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-06-28 | [`midamea.com`](https://google.com/search?q=midamea.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2024-06-18 | [`chuoss.co.jp/`](https://google.com/search?q=chuoss.co.jp%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-06-18 | [`brittany/`](https://google.com/search?q=brittany%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-06-18 | [`bjurholms.se/`](https://google.com/search?q=bjurholms.se%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-06-18 | [`aretusamilano.it/`](https://google.com/search?q=aretusamilano.it%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-06-18 | [`agenciahost/`](https://google.com/search?q=agenciahost%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-06-18 | [`acslabtest.com/`](https://google.com/search?q=acslabtest.com%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
