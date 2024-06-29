@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-06-29 | [`Spandex.com`](https://google.com/search?q=Spandex.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-06-28 | [`equinocioplay.com.br`](https://google.com/search?q=equinocioplay.com.br) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-06-28 | [`midamea.com`](https://google.com/search?q=midamea.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-06-28 | [`www.harrisranchbeef.com/`](https://google.com/search?q=www.harrisranchbeef.com%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-06-18 | [`aretusamilano.it/`](https://google.com/search?q=aretusamilano.it%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-06-18 | [`agenciahost/`](https://google.com/search?q=agenciahost%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-06-18 | [`acslabtest.com/`](https://google.com/search?q=acslabtest.com%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-06-18 | [`PGESCo/`](https://google.com/search?q=PGESCo%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
