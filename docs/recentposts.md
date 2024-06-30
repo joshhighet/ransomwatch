@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-06-30 | [`jla.com`](https://google.com/search?q=jla.com) | [embargo](https://ransomwatch.telemetry.ltd/#/profiles?id=embargo) |
+| 2024-06-30 | [`life.vet.br`](https://google.com/search?q=life.vet.br) | [darkvault](https://ransomwatch.telemetry.ltd/#/profiles?id=darkvault) |
 | 2024-06-29 | [`pandacare.ae`](https://google.com/search?q=pandacare.ae) | [darkvault](https://ransomwatch.telemetry.ltd/#/profiles?id=darkvault) |
 | 2024-06-29 | [`DRM Resources`](https://google.com/search?q=DRM+Resources) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2024-06-29 | [`Clima Lodi`](https://google.com/search?q=Clima+Lodi) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-06-18 | [`eebpsa.com.co/`](https://google.com/search?q=eebpsa.com.co%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-06-18 | [`dvttechnologyltd.com/`](https://google.com/search?q=dvttechnologyltd.com%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-06-18 | [`crezit.com/`](https://google.com/search?q=crezit.com%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-06-18 | [`computan/`](https://google.com/search?q=computan%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-06-18 | [`chuoss.co.jp/`](https://google.com/search?q=chuoss.co.jp%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
