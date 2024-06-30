@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-06-30 | [`www.sicoob.com.br&lt;Updated&gt;`](https://google.com/search?q=www.sicoob.com.br%26lt%3BUpdated%26gt%3B) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-06-30 | [`Wayne Memorial Hospital`](https://google.com/search?q=Wayne+Memorial+Hospital) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2024-06-30 | [`Lambertz`](https://google.com/search?q=Lambertz) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-06-30 | [`jla.com`](https://google.com/search?q=jla.com) | [embargo](https://ransomwatch.telemetry.ltd/#/profiles?id=embargo) |
 | 2024-06-30 | [`life.vet.br`](https://google.com/search?q=life.vet.br) | [darkvault](https://ransomwatch.telemetry.ltd/#/profiles?id=darkvault) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-06-18 | [`go4kora.tv/`](https://google.com/search?q=go4kora.tv%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-06-18 | [`fabricainfo.com/`](https://google.com/search?q=fabricainfo.com%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-06-18 | [`extraco.ae/`](https://google.com/search?q=extraco.ae%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-06-18 | [`eebpsa.com.co/`](https://google.com/search?q=eebpsa.com.co%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-06-18 | [`dvttechnologyltd.com/`](https://google.com/search?q=dvttechnologyltd.com%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
