@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-07-01 | [`www.mangimifusco.it/`](https://google.com/search?q=www.mangimifusco.it%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-07-01 | [`Ethypharm`](https://google.com/search?q=Ethypharm) | [underground](https://ransomwatch.telemetry.ltd/#/profiles?id=underground) |
 | 2024-07-01 | [`SYNERGY PEANUT`](https://google.com/search?q=SYNERGY+PEANUT) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-07-01 | [`maxcess-logistics.com`](https://google.com/search?q=maxcess-logistics.com) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-06-18 | [`neodesha.org.tar.gz`](https://google.com/search?q=neodesha.org.tar.gz) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-06-18 | [`merchant.id/`](https://google.com/search?q=merchant.id%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-06-18 | [`mataderodegijon.es/`](https://google.com/search?q=mataderodegijon.es%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-06-18 | [`kamojou.co.za/`](https://google.com/search?q=kamojou.co.za%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
