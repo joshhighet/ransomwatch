@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-07-02 | [`floridahealth.gov`](https://google.com/search?q=floridahealth.gov) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-07-02 | [`www.nttdata.ro`](https://google.com/search?q=www.nttdata.ro) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-07-01 | [`www.mangimifusco.it/`](https://google.com/search?q=www.mangimifusco.it%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-07-01 | [`Ethypharm`](https://google.com/search?q=Ethypharm) | [underground](https://ransomwatch.telemetry.ltd/#/profiles?id=underground) |
 | 2024-07-01 | [`SYNERGY PEANUT`](https://google.com/search?q=SYNERGY+PEANUT) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-06-18 | [`polaris.es/`](https://google.com/search?q=polaris.es%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-06-18 | [`neodesha.org/`](https://google.com/search?q=neodesha.org%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-06-18 | [`neodesha.org.tar.gz`](https://google.com/search?q=neodesha.org.tar.gz) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-06-18 | [`merchant.id/`](https://google.com/search?q=merchant.id%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-06-18 | [`mataderodegijon.es/`](https://google.com/search?q=mataderodegijon.es%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
