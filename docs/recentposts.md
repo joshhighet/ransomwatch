@@ -4,6 +4,10 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-07-02 | [`equinocioplay.com.br/`](https://google.com/search?q=equinocioplay.com.br%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-07-02 | [`www.sfmedical.de`](https://google.com/search?q=www.sfmedical.de) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-07-02 | [`Conexus Medstaff`](https://google.com/search?q=Conexus+Medstaff) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
+| 2024-07-02 | [`Salton`](https://google.com/search?q=Salton) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-07-02 | [`P1 Technologies`](https://google.com/search?q=P1+Technologies) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-07-02 | [`Longview Oral and Maxillofacial Surgery`](https://google.com/search?q=Longview+Oral+and+Maxillofacial+Surgery) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-07-02 | [`WheelerShip`](https://google.com/search?q=WheelerShip) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
@@ -200,7 +204,3 @@ _last `200` posts_
 | 2024-06-18 | [`www.avantit.no/`](https://google.com/search?q=www.avantit.no%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-06-18 | [`throttleup.io/`](https://google.com/search?q=throttleup.io%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-06-18 | [`thaayakam.co.uk/`](https://google.com/search?q=thaayakam.co.uk%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-06-18 | [`skywaycoach.ca/`](https://google.com/search?q=skywaycoach.ca%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-06-18 | [`siea.sk/`](https://google.com/search?q=siea.sk%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-06-18 | [`scadea.com/`](https://google.com/search?q=scadea.com%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-06-18 | [`rockymountainsales.com/`](https://google.com/search?q=rockymountainsales.com%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
