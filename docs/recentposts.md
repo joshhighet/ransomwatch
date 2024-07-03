@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-07-03 | [`F*****H`](https://google.com/search?q=F%2A%2A%2A%2A%2AH) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
+| 2024-07-03 | [`I-❤️-TEXAS`](https://google.com/search?q=I-%E2%9D%A4%EF%B8%8F-TEXAS) | [donutleaks](https://ransomwatch.telemetry.ltd/#/profiles?id=donutleaks) |
 | 2024-07-03 | [`www.finecopneumatica.com`](https://google.com/search?q=www.finecopneumatica.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-07-03 | [`www.hauptmann.at`](https://google.com/search?q=www.hauptmann.at) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-07-03 | [`www.daesangamerica.com`](https://google.com/search?q=www.daesangamerica.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-06-18 | [`www.designintoto.com.au/`](https://google.com/search?q=www.designintoto.com.au%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-06-18 | [`www.constelacion.com.sv/`](https://google.com/search?q=www.constelacion.com.sv%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-06-18 | [`www.confins.com.br/`](https://google.com/search?q=www.confins.com.br%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-06-18 | [`www.clevo.com.tw/`](https://google.com/search?q=www.clevo.com.tw%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-06-18 | [`www.betteraccountingsolutions.com/`](https://google.com/search?q=www.betteraccountingsolutions.com%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
