@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-07-03 | [`www.finecopneumatica.com`](https://google.com/search?q=www.finecopneumatica.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-07-03 | [`www.hauptmann.at`](https://google.com/search?q=www.hauptmann.at) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-07-03 | [`www.daesangamerica.com`](https://google.com/search?q=www.daesangamerica.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-07-02 | [`equinocioplay.com.br/`](https://google.com/search?q=equinocioplay.com.br%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-07-02 | [`www.sfmedical.de`](https://google.com/search?q=www.sfmedical.de) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-07-02 | [`Conexus Medstaff`](https://google.com/search?q=Conexus+Medstaff) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2024-06-18 | [`www.confins.com.br/`](https://google.com/search?q=www.confins.com.br%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-06-18 | [`www.clevo.com.tw/`](https://google.com/search?q=www.clevo.com.tw%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-06-18 | [`www.betteraccountingsolutions.com/`](https://google.com/search?q=www.betteraccountingsolutions.com%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-06-18 | [`www.avantit.no/`](https://google.com/search?q=www.avantit.no%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-06-18 | [`throttleup.io/`](https://google.com/search?q=throttleup.io%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-06-18 | [`thaayakam.co.uk/`](https://google.com/search?q=thaayakam.co.uk%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
