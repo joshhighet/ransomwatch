@@ -4,6 +4,11 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-07-03 | [`badel1862.hr`](https://google.com/search?q=badel1862.hr) | [blackout](https://ransomwatch.telemetry.ltd/#/profiles?id=blackout) |
+| 2024-07-03 | [`cipl.org.in/`](https://google.com/search?q=cipl.org.in%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-07-03 | [`midamea.com&lt;Auction&gt;`](https://google.com/search?q=midamea.com%26lt%3BAuction%26gt%3B) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-07-03 | [`Explomin`](https://google.com/search?q=Explomin) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
+| 2024-07-03 | [`Alimac`](https://google.com/search?q=Alimac) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-07-03 | [`ramservices.com`](https://google.com/search?q=ramservices.com) | [underground](https://ransomwatch.telemetry.ltd/#/profiles?id=underground) |
 | 2024-07-03 | [`foremedia.net`](https://google.com/search?q=foremedia.net) | [darkvault](https://ransomwatch.telemetry.ltd/#/profiles?id=darkvault) |
 | 2024-07-03 | [`www.swcs-inc.com`](https://google.com/search?q=www.swcs-inc.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -199,8 +204,3 @@ _last `200` posts_
 | 2024-06-18 | [`www.precisiontimesystems.com/`](https://google.com/search?q=www.precisiontimesystems.com%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-06-18 | [`www.oriux.com/`](https://google.com/search?q=www.oriux.com%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-06-18 | [`www.lapastina.com/`](https://google.com/search?q=www.lapastina.com%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-06-18 | [`www.lalengineering.com/`](https://google.com/search?q=www.lalengineering.com%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-06-18 | [`www.kovra.com.my/`](https://google.com/search?q=www.kovra.com.my%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-06-18 | [`www.jutebag.co.uk/`](https://google.com/search?q=www.jutebag.co.uk%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-06-18 | [`www.houstonwastesolutions.com/`](https://google.com/search?q=www.houstonwastesolutions.com%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-06-18 | [`www.headwaterco.com/`](https://google.com/search?q=www.headwaterco.com%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
