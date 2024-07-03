@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-07-03 | [`ramservices.com`](https://google.com/search?q=ramservices.com) | [underground](https://ransomwatch.telemetry.ltd/#/profiles?id=underground) |
+| 2024-07-03 | [`foremedia.net`](https://google.com/search?q=foremedia.net) | [darkvault](https://ransomwatch.telemetry.ltd/#/profiles?id=darkvault) |
+| 2024-07-03 | [`www.swcs-inc.com`](https://google.com/search?q=www.swcs-inc.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-07-03 | [`valleylandtitleco.com`](https://google.com/search?q=valleylandtitleco.com) | [donutleaks](https://ransomwatch.telemetry.ltd/#/profiles?id=donutleaks) |
 | 2024-07-03 | [`K*****S`](https://google.com/search?q=K%2A%2A%2A%2A%2AS) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
 | 2024-07-03 | [`F*****H`](https://google.com/search?q=F%2A%2A%2A%2A%2AH) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2024-06-18 | [`www.jutebag.co.uk/`](https://google.com/search?q=www.jutebag.co.uk%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-06-18 | [`www.houstonwastesolutions.com/`](https://google.com/search?q=www.houstonwastesolutions.com%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-06-18 | [`www.headwaterco.com/`](https://google.com/search?q=www.headwaterco.com%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-06-18 | [`www.hcisystems.net/`](https://google.com/search?q=www.hcisystems.net%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-06-18 | [`www.farnaciaflorio.com/`](https://google.com/search?q=www.farnaciaflorio.com%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-06-18 | [`www.designintoto.com.au/`](https://google.com/search?q=www.designintoto.com.au%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
