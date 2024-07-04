@@ -1545,3 +1545,14 @@ def cicada3301():
         errlog('cicada3301: ' + 'parsing fail')
     for post in posts:
         appender(post, 'cicada3301')
+
+def pryx():
+    stdlog('parser: ' + 'pryx')
+    parser = '''
+    grep '<td><a href="' source/pryx-*.html | cut -d '>' -f 3 | cut -d '<' -f 1 | sed 's/\[\*\] //g' | grep -v soon
+    '''
+    posts = runshellcmd(parser)
+    if len(posts) == 1:
+        errlog('pryx: ' + 'parsing fail')
+    for post in posts:
+        appender(post, 'pryx')

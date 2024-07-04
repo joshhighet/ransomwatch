@@ -6173,5 +6173,25 @@
             }
         ],
         "profile": []
+    },
+    {
+        "name": "pryx",
+        "captcha": false,
+        "parser": true,
+        "javascript_render": false,
+        "meta": null,
+        "locations": [
+            {
+                "fqdn": "c2mdhim6btaiyae3xqthnxsz64brvdxsnbty4tvos65zb565y4v55iid.onion",
+                "title": "Styled Back Button",
+                "version": 3,
+                "slug": "http://c2mdhim6btaiyae3xqthnxsz64brvdxsnbty4tvos65zb565y4v55iid.onion/b/",
+                "available": true,
+                "updated": "2024-07-04 16:56:34.610683",
+                "lastscrape": "2024-07-04 16:56:34.610664",
+                "enabled": true
+            }
+        ],
+        "profile": []
     }
 ]
