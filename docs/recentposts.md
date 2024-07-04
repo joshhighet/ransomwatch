@@ -4,6 +4,12 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-07-04 | [`Texas Recycling`](https://google.com/search?q=Texas+Recycling) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-07-04 | [`Prairie Athletic Club`](https://google.com/search?q=Prairie+Athletic+Club) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-07-04 | [`Innerspec Technologies`](https://google.com/search?q=Innerspec+Technologies) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-07-04 | [`INDA's`](https://google.com/search?q=INDA%27s) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-07-04 | [`Fareri Associates`](https://google.com/search?q=Fareri+Associates) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-07-04 | [`Elyria Foundry`](https://google.com/search?q=Elyria+Foundry) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-07-04 | [`Island Transportation Corp.`](https://google.com/search?q=Island+Transportation+Corp.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-07-04 | [`Legend Properties, Inc.`](https://google.com/search?q=Legend+Properties%2C+Inc.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-07-04 | [`Transit Mutual Insurance Corporation`](https://google.com/search?q=Transit+Mutual+Insurance+Corporation) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
@@ -198,9 +204,3 @@ _last `200` posts_
 | 2024-06-18 | [`neosmteam.com`](https://google.com/search?q=neosmteam.com) | [dAn0n](https://ransomwatch.telemetry.ltd/#/profiles?id=dAn0n) |
 | 2024-06-18 | [`glenwoodnyc.com`](https://google.com/search?q=glenwoodnyc.com) | [dAn0n](https://ransomwatch.telemetry.ltd/#/profiles?id=dAn0n) |
 | 2024-06-18 | [`s-f-concrete.com`](https://google.com/search?q=s-f-concrete.com) | [dAn0n](https://ransomwatch.telemetry.ltd/#/profiles?id=dAn0n) |
-| 2024-06-18 | [`college-park.com`](https://google.com/search?q=college-park.com) | [dAn0n](https://ransomwatch.telemetry.ltd/#/profiles?id=dAn0n) |
-| 2024-06-18 | [`fifcousa.com`](https://google.com/search?q=fifcousa.com) | [dAn0n](https://ransomwatch.telemetry.ltd/#/profiles?id=dAn0n) |
-| 2024-06-18 | [`Premium Broking House`](https://google.com/search?q=Premium+Broking+House) | [sensayq](https://ransomwatch.telemetry.ltd/#/profiles?id=sensayq) |
-| 2024-06-18 | [`Vimer Industrie Grafiche Italiane`](https://google.com/search?q=Vimer+Industrie+Grafiche+Italiane) | [sensayq](https://ransomwatch.telemetry.ltd/#/profiles?id=sensayq) |
-| 2024-06-18 | [`sgvfr.com`](https://google.com/search?q=sgvfr.com) | [trinity](https://ransomwatch.telemetry.ltd/#/profiles?id=trinity) |
-| 2024-06-18 | [`CBSTRAINING`](https://google.com/search?q=CBSTRAINING) | [trinity](https://ransomwatch.telemetry.ltd/#/profiles?id=trinity) |
