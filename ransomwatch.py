@@ -315,4 +315,5 @@ if args.mode == 'parse':
     parsers.sensayq()
     parsers.cicada3301()
     parsers.pryx()
+    parsers.braincipher()
     stdlog('ransomwatch: ' + 'parse run complete')

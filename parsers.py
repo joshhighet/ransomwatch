@@ -1556,3 +1556,14 @@ def pryx():
         errlog('pryx: ' + 'parsing fail')
     for post in posts:
         appender(post, 'pryx')
+
+def braincipher():
+    stdlog('parser: ' + 'braincipher')
+    parser = '''
+    grep 'class="h5">' source/braincipher-*.html | cut -d '>' -f 2 | cut -d '<' -f 1 | sort -u | sed '/More important than money, only honor./d' | sed '/Space for your advertising./d' | sed '/Very expensive advertising./d'
+    '''
+    posts = runshellcmd(parser)
+    if len(posts) == 1:
+        errlog('braincipher: ' + 'parsing fail')
+    for post in posts:
+        appender(post, 'braincipher')
