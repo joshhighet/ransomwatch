@@ -4201,6 +4201,16 @@
                 "updated": "2024-07-04 04:25:46.920019",
                 "lastscrape": "2024-07-04 04:25:46.920006",
                 "enabled": true
+            },
+            {
+                "fqdn": "k7kg3jqzffsxe2z53jjx4goybvxu3a557kpsqakpwi6mrvfgcdo55tid.onion",
+                "title": "PLAY NEWS",
+                "version": 3,
+                "slug": "http://k7kg3jqzffsxe2z53jjx4goybvxu3a557kpsqakpwi6mrvfgcdo55tid.onion/",
+                "available": true,
+                "updated": "2024-07-04 16:56:42.739504",
+                "lastscrape": "2024-07-04 16:56:42.739481",
+                "enabled": true
             }
         ],
         "profile": []
