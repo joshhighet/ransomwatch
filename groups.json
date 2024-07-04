@@ -5253,7 +5253,7 @@
     },
     {
         "name": "dragonforce",
-        "captcha": false,
+        "captcha": true,
         "parser": true,
         "javascript_render": false,
         "meta": null,
