@@ -5,6 +5,9 @@ _last `200` posts_
 | date | title | group |
 |---|---|---|
 | 2024-07-04 | [`RCBC.edu Data Breach: over 30,000 University Applications Exposed`](https://google.com/search?q=RCBC.edu+Data+Breach%3A+over+30%2C000+University+Applications+Exposed) | [pryx](https://ransomwatch.telemetry.ltd/#/profiles?id=pryx) |
+| 2024-07-04 | [`hcri.edu`](https://google.com/search?q=hcri.edu) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-07-04 | [`Сoquitlam Concrete`](https://google.com/search?q=%D0%A1oquitlam+Concrete) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
+| 2024-07-04 | [`Multisuns Communication`](https://google.com/search?q=Multisuns+Communication) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-07-04 | [`Creative Realities`](https://google.com/search?q=Creative+Realities) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2024-07-04 | [`aedifica.com`](https://google.com/search?q=aedifica.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-07-03 | [`sequelglobal.com`](https://google.com/search?q=sequelglobal.com) | [darkvault](https://ransomwatch.telemetry.ltd/#/profiles?id=darkvault) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2024-06-18 | [`cbstraining.com`](https://google.com/search?q=cbstraining.com) | [trinity](https://ransomwatch.telemetry.ltd/#/profiles?id=trinity) |
 | 2024-06-18 | [`filmetrics corporation`](https://google.com/search?q=filmetrics+corporation) | [trinity](https://ransomwatch.telemetry.ltd/#/profiles?id=trinity) |
 | 2024-06-18 | [`www.filmetrics.com.ph`](https://google.com/search?q=www.filmetrics.com.ph) | [trinity](https://ransomwatch.telemetry.ltd/#/profiles?id=trinity) |
-| 2024-06-18 | [`www.ykp.com.br-part1.zip`](https://google.com/search?q=www.ykp.com.br-part1.zip) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-06-18 | [`www.spmundi.com.br/`](https://google.com/search?q=www.spmundi.com.br%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-06-18 | [`www.shootinghouse.com.br/`](https://google.com/search?q=www.shootinghouse.com.br%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
