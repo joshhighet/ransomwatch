@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-07-04 | [`Island Transportation Corp.`](https://google.com/search?q=Island+Transportation+Corp.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2024-07-04 | [`Legend Properties, Inc.`](https://google.com/search?q=Legend+Properties%2C+Inc.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2024-07-04 | [`Transit Mutual Insurance Corporation`](https://google.com/search?q=Transit+Mutual+Insurance+Corporation) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-07-04 | [`RCBC.edu Data Breach: over 30,000 University Applications Exposed`](https://google.com/search?q=RCBC.edu+Data+Breach%3A+over+30%2C000+University+Applications+Exposed) | [pryx](https://ransomwatch.telemetry.ltd/#/profiles?id=pryx) |
 | 2024-07-04 | [`hcri.edu`](https://google.com/search?q=hcri.edu) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-07-04 | [`Сoquitlam Concrete`](https://google.com/search?q=%D0%A1oquitlam+Concrete) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2024-06-18 | [`Vimer Industrie Grafiche Italiane`](https://google.com/search?q=Vimer+Industrie+Grafiche+Italiane) | [sensayq](https://ransomwatch.telemetry.ltd/#/profiles?id=sensayq) |
 | 2024-06-18 | [`sgvfr.com`](https://google.com/search?q=sgvfr.com) | [trinity](https://ransomwatch.telemetry.ltd/#/profiles?id=trinity) |
 | 2024-06-18 | [`CBSTRAINING`](https://google.com/search?q=CBSTRAINING) | [trinity](https://ransomwatch.telemetry.ltd/#/profiles?id=trinity) |
-| 2024-06-18 | [`cbstraining.com`](https://google.com/search?q=cbstraining.com) | [trinity](https://ransomwatch.telemetry.ltd/#/profiles?id=trinity) |
-| 2024-06-18 | [`filmetrics corporation`](https://google.com/search?q=filmetrics+corporation) | [trinity](https://ransomwatch.telemetry.ltd/#/profiles?id=trinity) |
-| 2024-06-18 | [`www.filmetrics.com.ph`](https://google.com/search?q=www.filmetrics.com.ph) | [trinity](https://ransomwatch.telemetry.ltd/#/profiles?id=trinity) |
