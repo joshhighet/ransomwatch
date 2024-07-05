@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-07-05 | [`www.nttdata.ro/`](https://google.com/search?q=www.nttdata.ro%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-07-05 | [`floridahealth.gov/`](https://google.com/search?q=floridahealth.gov%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-07-05 | [`http://nhls.ac.za`](https://google.com/search?q=http%3A%2F%2Fnhls.ac.za) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-07-05 | [`Haylem`](https://google.com/search?q=Haylem) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-06-18 | [`allenblastingandcoating.com`](https://google.com/search?q=allenblastingandcoating.com) | [dAn0n](https://ransomwatch.telemetry.ltd/#/profiles?id=dAn0n) |
 | 2024-06-18 | [`semilab.com`](https://google.com/search?q=semilab.com) | [dAn0n](https://ransomwatch.telemetry.ltd/#/profiles?id=dAn0n) |
 | 2024-06-18 | [`fightingforfairness.com`](https://google.com/search?q=fightingforfairness.com) | [dAn0n](https://ransomwatch.telemetry.ltd/#/profiles?id=dAn0n) |
-| 2024-06-18 | [`oconnellmahon.ie`](https://google.com/search?q=oconnellmahon.ie) | [dAn0n](https://ransomwatch.telemetry.ltd/#/profiles?id=dAn0n) |
