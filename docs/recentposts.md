@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-07-06 | [`baiminstitute.org`](https://google.com/search?q=baiminstitute.org) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-07-06 | [`https://www.a-g.com/`](https://google.com/search?q=https%3A%2F%2Fwww.a-g.com%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-07-05 | [`www.nttdata.ro/`](https://google.com/search?q=www.nttdata.ro%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-07-05 | [`floridahealth.gov/`](https://google.com/search?q=floridahealth.gov%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-07-05 | [`http://nhls.ac.za`](https://google.com/search?q=http%3A%2F%2Fnhls.ac.za) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-06-18 | [`theblakefirm.com`](https://google.com/search?q=theblakefirm.com) | [dAn0n](https://ransomwatch.telemetry.ltd/#/profiles?id=dAn0n) |
 | 2024-06-18 | [`ueg1.com`](https://google.com/search?q=ueg1.com) | [dAn0n](https://ransomwatch.telemetry.ltd/#/profiles?id=dAn0n) |
 | 2024-06-18 | [`allenblastingandcoating.com`](https://google.com/search?q=allenblastingandcoating.com) | [dAn0n](https://ransomwatch.telemetry.ltd/#/profiles?id=dAn0n) |
-| 2024-06-18 | [`semilab.com`](https://google.com/search?q=semilab.com) | [dAn0n](https://ransomwatch.telemetry.ltd/#/profiles?id=dAn0n) |
-| 2024-06-18 | [`fightingforfairness.com`](https://google.com/search?q=fightingforfairness.com) | [dAn0n](https://ransomwatch.telemetry.ltd/#/profiles?id=dAn0n) |
