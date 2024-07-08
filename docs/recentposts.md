@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-07-08 | [`Federated Co-operati ves`](https://google.com/search?q=Federated+Co-operati+ves) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-07-08 | [`millimages.com\$12.6M\France\147GB\100% DISCLOSED`](https://google.com/search?q=millimages.com%5C%2412.6M%5CFrance%5C147GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-07-08 | [`www.glynmarais.co.za\$12.6M\South Africa\105GB\100% DISCLOSED`](https://google.com/search?q=www.glynmarais.co.za%5C%2412.6M%5CSouth+Africa%5C105GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-07-08 | [`fbttransport.com\$70.8M\USA\180GB\100% DISCLOSED`](https://google.com/search?q=fbttransport.com%5C%2470.8M%5CUSA%5C180GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-06-19 | [`Lindermayr`](https://google.com/search?q=Lindermayr) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-06-19 | [`Perfumes & Companhia`](https://google.com/search?q=Perfumes+%26+Companhia) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-06-19 | [`First Baptist Medical Center`](https://google.com/search?q=First+Baptist+Medical+Center) | [moneymessage](https://ransomwatch.telemetry.ltd/#/profiles?id=moneymessage) |
-| 2024-06-19 | [`Circle K Atlanta`](https://google.com/search?q=Circle+K+Atlanta) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
