@@ -4,6 +4,10 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-07-08 | [`millimages.com\$12.6M\France\147GB\100% DISCLOSED`](https://google.com/search?q=millimages.com%5C%2412.6M%5CFrance%5C147GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
+| 2024-07-08 | [`www.glynmarais.co.za\$12.6M\South Africa\105GB\100% DISCLOSED`](https://google.com/search?q=www.glynmarais.co.za%5C%2412.6M%5CSouth+Africa%5C105GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
+| 2024-07-08 | [`fbttransport.com\$70.8M\USA\180GB\100% DISCLOSED`](https://google.com/search?q=fbttransport.com%5C%2470.8M%5CUSA%5C180GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
+| 2024-07-08 | [`daystar.com\$120.3M\USA\125GB\100% DISCLOSED`](https://google.com/search?q=daystar.com%5C%24120.3M%5CUSA%5C125GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-07-07 | [`Spandex.com/`](https://google.com/search?q=Spandex.com%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-07-07 | [`MYC Media`](https://google.com/search?q=MYC+Media) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2024-07-06 | [`baiminstitute.org`](https://google.com/search?q=baiminstitute.org) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -200,7 +204,3 @@ _last `200` posts_
 | 2024-06-19 | [`Perfumes & Companhia`](https://google.com/search?q=Perfumes+%26+Companhia) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-06-19 | [`First Baptist Medical Center`](https://google.com/search?q=First+Baptist+Medical+Center) | [moneymessage](https://ransomwatch.telemetry.ltd/#/profiles?id=moneymessage) |
 | 2024-06-19 | [`Circle K Atlanta`](https://google.com/search?q=Circle+K+Atlanta) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2024-06-18 | [`www.novabitsrl.it/`](https://google.com/search?q=www.novabitsrl.it%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-06-18 | [`smicusa.com/`](https://google.com/search?q=smicusa.com%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-06-18 | [`pedsurology.com`](https://google.com/search?q=pedsurology.com) | [dAn0n](https://ransomwatch.telemetry.ltd/#/profiles?id=dAn0n) |
-| 2024-06-18 | [`theblakefirm.com`](https://google.com/search?q=theblakefirm.com) | [dAn0n](https://ransomwatch.telemetry.ltd/#/profiles?id=dAn0n) |
