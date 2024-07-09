@@ -4,6 +4,16 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-07-09 | [`Indika Energy`](https://google.com/search?q=Indika+Energy) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
+| 2024-07-09 | [`Municipalité La Guadeloupe`](https://google.com/search?q=Municipalit%C3%A9+La+Guadeloupe) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
+| 2024-07-09 | [`williamsrdm.com`](https://google.com/search?q=williamsrdm.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
+| 2024-07-09 | [`W.P.J. McCarthy and Company `](https://google.com/search?q=W.P.J.+McCarthy+and+Company+) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
+| 2024-07-09 | [`jean-nouvel `](https://google.com/search?q=jean-nouvel+) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
+| 2024-07-09 | [`watergate `](https://google.com/search?q=watergate+) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
+| 2024-07-09 | [`Madero`](https://google.com/search?q=Madero) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
+| 2024-07-09 | [`maccarinelli.it `](https://google.com/search?q=maccarinelli.it+) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
+| 2024-07-09 | [`The Wacks Law Group `](https://google.com/search?q=The+Wacks+Law+Group+) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
+| 2024-07-09 | [`easchangesystems `](https://google.com/search?q=easchangesystems+) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-07-09 | [`www.daesangamerica.com/`](https://google.com/search?q=www.daesangamerica.com%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-07-09 | [`Heidmar`](https://google.com/search?q=Heidmar) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-07-08 | [`Excelsior Orthopaedics`](https://google.com/search?q=Excelsior+Orthopaedics) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
@@ -194,13 +204,3 @@ _last `200` posts_
 | 2024-06-20 | [`www.invisio.com`](https://google.com/search?q=www.invisio.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-06-20 | [`ALPS Alpine`](https://google.com/search?q=ALPS+Alpine) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
 | 2024-06-20 | [`Encinajpa`](https://google.com/search?q=Encinajpa) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
-| 2024-06-20 | [`Exhaustpro shops`](https://google.com/search?q=Exhaustpro+shops) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
-| 2024-06-20 | [`BankSelfStorage`](https://google.com/search?q=BankSelfStorage) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
-| 2024-06-20 | [`GED Lawyers &amp; ..`](https://google.com/search?q=GED+Lawyers+%26amp%3B+..) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
-| 2024-06-20 | [`SAWA INTERNATIONAL`](https://google.com/search?q=SAWA+INTERNATIONAL) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
-| 2024-06-20 | [`Gokals  Consumer Electronics &amp; Computers Retail · Fiji`](https://google.com/search?q=Gokals++Consumer+Electronics+%26amp%3B+Computers+Retail+%C2%B7+Fiji) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
-| 2024-06-20 | [`https://basementsystems.com`](https://google.com/search?q=https%3A%2F%2Fbasementsystems.com) | [cicada3301](https://ransomwatch.telemetry.ltd/#/profiles?id=cicada3301) |
-| 2024-06-20 | [`https://www.asst-rhodense.it`](https://google.com/search?q=https%3A%2F%2Fwww.asst-rhodense.it) | [cicada3301](https://ransomwatch.telemetry.ltd/#/profiles?id=cicada3301) |
-| 2024-06-20 | [`https://maintel.co.uk`](https://google.com/search?q=https%3A%2F%2Fmaintel.co.uk) | [cicada3301](https://ransomwatch.telemetry.ltd/#/profiles?id=cicada3301) |
-| 2024-06-20 | [`https://theaccessgroup.com`](https://google.com/search?q=https%3A%2F%2Ftheaccessgroup.com) | [cicada3301](https://ransomwatch.telemetry.ltd/#/profiles?id=cicada3301) |
-| 2024-06-19 | [`&lt;www.invisio.com&gt;`](https://google.com/search?q=%26lt%3Bwww.invisio.com%26gt%3B) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
