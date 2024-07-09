@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-07-09 | [`www.daesangamerica.com/`](https://google.com/search?q=www.daesangamerica.com%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-07-09 | [`Heidmar`](https://google.com/search?q=Heidmar) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-07-08 | [`Excelsior Orthopaedics`](https://google.com/search?q=Excelsior+Orthopaedics) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2024-07-08 | [`Allied Industrial Gr oup`](https://google.com/search?q=Allied+Industrial+Gr+oup) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-06-20 | [`https://maintel.co.uk`](https://google.com/search?q=https%3A%2F%2Fmaintel.co.uk) | [cicada3301](https://ransomwatch.telemetry.ltd/#/profiles?id=cicada3301) |
 | 2024-06-20 | [`https://theaccessgroup.com`](https://google.com/search?q=https%3A%2F%2Ftheaccessgroup.com) | [cicada3301](https://ransomwatch.telemetry.ltd/#/profiles?id=cicada3301) |
 | 2024-06-19 | [`&lt;www.invisio.com&gt;`](https://google.com/search?q=%26lt%3Bwww.invisio.com%26gt%3B) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-06-19 | [`www.clevo.com.tw&lt;Disclose&gt;`](https://google.com/search?q=www.clevo.com.tw%26lt%3BDisclose%26gt%3B) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
