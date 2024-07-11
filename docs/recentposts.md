@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-07-11 | [`Uae gov breach`](https://google.com/search?q=Uae+gov+breach) | [pryx](https://ransomwatch.telemetry.ltd/#/profiles?id=pryx) |
 | 2024-07-11 | [`http://dealscoop.com`](https://google.com/search?q=http%3A%2F%2Fdealscoop.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-07-11 | [`www.netavent.dk`](https://google.com/search?q=www.netavent.dk) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-07-11 | [`www.lynchaluminum.com`](https://google.com/search?q=www.lynchaluminum.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-06-23 | [`1133.com`](https://google.com/search?q=1133.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-06-23 | [`1122.com`](https://google.com/search?q=1122.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-06-22 | [`Cityofnewburgh-ny.gov`](https://google.com/search?q=Cityofnewburgh-ny.gov) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
-| 2024-06-22 | [`Erivan Gecom Inc`](https://google.com/search?q=Erivan+Gecom+Inc) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
