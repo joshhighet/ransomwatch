@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-07-12 | [`GED Lawyers`](https://google.com/search?q=GED+Lawyers) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2024-07-11 | [`diligentusa.com`](https://google.com/search?q=diligentusa.com) | [embargo](https://ransomwatch.telemetry.ltd/#/profiles?id=embargo) |
 | 2024-07-11 | [`Hyperice`](https://google.com/search?q=Hyperice) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-07-11 | [`Uae gov breach`](https://google.com/search?q=Uae+gov+breach) | [pryx](https://ransomwatch.telemetry.ltd/#/profiles?id=pryx) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-06-23 | [`at-global.com`](https://google.com/search?q=at-global.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-06-23 | [`12341.com`](https://google.com/search?q=12341.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-06-23 | [`1144.com`](https://google.com/search?q=1144.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-06-23 | [`1133.com`](https://google.com/search?q=1133.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
