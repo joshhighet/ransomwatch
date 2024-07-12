@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-07-12 | [`Preferred IT Group`](https://google.com/search?q=Preferred+IT+Group) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-07-12 | [`Wagner-Meinert`](https://google.com/search?q=Wagner-Meinert) | [ransomexx](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomexx) |
 | 2024-07-12 | [`www.zepter.de`](https://google.com/search?q=www.zepter.de) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-07-12 | [`www.sfmedical.de/`](https://google.com/search?q=www.sfmedical.de%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-06-23 | [`hundhausen.de\$150M\Germany\650GB\&lt;1% DISCLOSED`](https://google.com/search?q=hundhausen.de%5C%24150M%5CGermany%5C650GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-06-23 | [`fbttransport.com\$70.8M\USA\180GB\&lt;1% DISCLOSED`](https://google.com/search?q=fbttransport.com%5C%2470.8M%5CUSA%5C180GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-06-23 | [`daystar.com\$120.3M\USA\125GB\&lt;1% DISCLOSED`](https://google.com/search?q=daystar.com%5C%24120.3M%5CUSA%5C125GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2024-06-23 | [`test123.com`](https://google.com/search?q=test123.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
