@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-07-14 | [`BrownWinick`](https://google.com/search?q=BrownWinick) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
+| 2024-07-14 | [`Texas Alcohol and Drug Testing Service`](https://google.com/search?q=Texas+Alcohol+and+Drug+Testing+Service) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-07-13 | [`Kenya Urban Roads Authority`](https://google.com/search?q=Kenya+Urban+Roads+Authority) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-07-13 | [`Carigali Hess Operating Company`](https://google.com/search?q=Carigali+Hess+Operating+Company) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-07-13 | [`eni.com&amp;mellitahog.ly`](https://google.com/search?q=eni.com%26amp%3Bmellitahog.ly) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-06-23 | [`Custom Concrete`](https://google.com/search?q=Custom+Concrete) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-06-23 | [`Bunger Steel`](https://google.com/search?q=Bunger+Steel) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-06-23 | [`Belle Tire`](https://google.com/search?q=Belle+Tire) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-06-23 | [`Ladco`](https://google.com/search?q=Ladco) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-06-23 | [`deskcenter.com\$25.9M\Germany\224GB\&lt;1% DISCLOSED`](https://google.com/search?q=deskcenter.com%5C%2425.9M%5CGermany%5C224GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
