@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-07-14 | [`www.netavent.dk/`](https://google.com/search?q=www.netavent.dk%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-07-14 | [`www.lynchaluminum.com/`](https://google.com/search?q=www.lynchaluminum.com%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-07-14 | [`www.eurostrand.de/`](https://google.com/search?q=www.eurostrand.de%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-07-14 | [`luzan5.com`](https://google.com/search?q=luzan5.com) | [blackout](https://ransomwatch.telemetry.ltd/#/profiles?id=blackout) |
 | 2024-07-14 | [`BrownWinick`](https://google.com/search?q=BrownWinick) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2024-07-14 | [`Texas Alcohol and Drug Testing Service`](https://google.com/search?q=Texas+Alcohol+and+Drug+Testing+Service) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2024-06-23 | [`RRCA Accounts Management`](https://google.com/search?q=RRCA+Accounts+Management) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-06-23 | [`ProMotion Holdings`](https://google.com/search?q=ProMotion+Holdings) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-06-23 | [`Hedrick Brothers Construction`](https://google.com/search?q=Hedrick+Brothers+Construction) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-06-23 | [`Harvey Construction`](https://google.com/search?q=Harvey+Construction) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-06-23 | [`Custom Concrete`](https://google.com/search?q=Custom+Concrete) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-06-23 | [`Bunger Steel`](https://google.com/search?q=Bunger+Steel) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
