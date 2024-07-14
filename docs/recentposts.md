@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-07-14 | [`luzan5.com`](https://google.com/search?q=luzan5.com) | [blackout](https://ransomwatch.telemetry.ltd/#/profiles?id=blackout) |
 | 2024-07-14 | [`BrownWinick`](https://google.com/search?q=BrownWinick) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2024-07-14 | [`Texas Alcohol and Drug Testing Service`](https://google.com/search?q=Texas+Alcohol+and+Drug+Testing+Service) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-07-13 | [`Kenya Urban Roads Authority`](https://google.com/search?q=Kenya+Urban+Roads+Authority) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-06-23 | [`Harvey Construction`](https://google.com/search?q=Harvey+Construction) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-06-23 | [`Custom Concrete`](https://google.com/search?q=Custom+Concrete) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-06-23 | [`Bunger Steel`](https://google.com/search?q=Bunger+Steel) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-06-23 | [`Belle Tire`](https://google.com/search?q=Belle+Tire) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
