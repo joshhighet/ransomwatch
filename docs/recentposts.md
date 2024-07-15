@@ -4,6 +4,12 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-07-15 | [`Goede, DeBoest & Cross, PLLC.`](https://google.com/search?q=Goede%2C+DeBoest+%26+Cross%2C+PLLC.) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
+| 2024-07-15 | [`Amino Transport`](https://google.com/search?q=Amino+Transport) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
+| 2024-07-15 | [`integraservices`](https://google.com/search?q=integraservices) | [mallox](https://ransomwatch.telemetry.ltd/#/profiles?id=mallox) |
+| 2024-07-15 | [`XENAPP-GLOBER`](https://google.com/search?q=XENAPP-GLOBER) | [mallox](https://ransomwatch.telemetry.ltd/#/profiles?id=mallox) |
+| 2024-07-15 | [`Posi+`](https://google.com/search?q=Posi%2B) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2024-07-15 | [`CDS, a Hewlett Packard Enterprise company`](https://google.com/search?q=CDS%2C+a+Hewlett+Packard+Enterprise+company) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-07-15 | [`RZO`](https://google.com/search?q=RZO) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-07-15 | [`MS Ultrasonic Technology Group`](https://google.com/search?q=MS+Ultrasonic+Technology+Group) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-07-15 | [`Gibbs Hurley Chartered Accountants`](https://google.com/search?q=Gibbs+Hurley+Chartered+Accountants) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
@@ -198,9 +204,3 @@ _last `200` posts_
 | 2024-06-24 | [`westfalia-automotive.com\$19.4M\Germany\60GB\&lt;1% DISCLOSED`](https://google.com/search?q=westfalia-automotive.com%5C%2419.4M%5CGermany%5C60GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-06-24 | [`Agron (Five Ten) Adi das TERREX`](https://google.com/search?q=Agron+%28Five+Ten%29+Adi+das+TERREX) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-06-24 | [`Agron (Five Ten) ACQ UIRED BY ADIDAS`](https://google.com/search?q=Agron+%28Five+Ten%29+ACQ+UIRED+BY+ADIDAS) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2024-06-24 | [`Compagnia Trasporti Integrati S.R.L`](https://google.com/search?q=Compagnia+Trasporti+Integrati+S.R.L) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
-| 2024-06-24 | [`VTWin.ca`](https://google.com/search?q=VTWin.ca) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
-| 2024-06-24 | [`www.sicoob.com.br`](https://google.com/search?q=www.sicoob.com.br) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-06-24 | [`www.liderit.es/`](https://google.com/search?q=www.liderit.es%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-06-24 | [`multi-wing.com`](https://google.com/search?q=multi-wing.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-06-24 | [`bitzsoftwares.com.br`](https://google.com/search?q=bitzsoftwares.com.br) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
