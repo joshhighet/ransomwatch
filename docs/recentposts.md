@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-07-16 | [`Conexus MedStaff`](https://google.com/search?q=Conexus+MedStaff) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-07-16 | [`verco.co.uk\$17.5M\United Kingdom\592GB\&lt;1% DISCLOSED`](https://google.com/search?q=verco.co.uk%5C%2417.5M%5CUnited+Kingdom%5C592GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-07-15 | [`Nuevatel`](https://google.com/search?q=Nuevatel) | [dunghill_leak](https://ransomwatch.telemetry.ltd/#/profiles?id=dunghill_leak) |
 | 2024-07-15 | [`www.baiminstitute.org`](https://google.com/search?q=www.baiminstitute.org) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-06-25 | [`Scrubs &amp; Beyond`](https://google.com/search?q=Scrubs+%26amp%3B+Beyond) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-06-25 | [`Diogenet S.r.l. Data Leak`](https://google.com/search?q=Diogenet+S.r.l.+Data+Leak) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2024-06-25 | [`2K Dental Data Leak`](https://google.com/search?q=2K+Dental+Data+Leak) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
-| 2024-06-24 | [`www.concisa.eng.br`](https://google.com/search?q=www.concisa.eng.br) | [qiulong](https://ransomwatch.telemetry.ltd/#/profiles?id=qiulong) |
