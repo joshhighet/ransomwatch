@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-07-16 | [`www.cloudeurope.it/`](https://google.com/search?q=www.cloudeurope.it%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-07-16 | [`nepa.gov.af/`](https://google.com/search?q=nepa.gov.af%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-07-16 | [`www.benchinternational.com`](https://google.com/search?q=www.benchinternational.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-07-16 | [`www.cameronhodges.com`](https://google.com/search?q=www.cameronhodges.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-07-16 | [`Lantronix Inc.`](https://google.com/search?q=Lantronix+Inc.) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-06-25 | [`https://www.catiglass.com/`](https://google.com/search?q=https%3A%2F%2Fwww.catiglass.com%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-06-25 | [`http://ibewlocal1.org`](https://google.com/search?q=http%3A%2F%2Fibewlocal1.org) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-06-25 | [`https://www.doityoungs.com/`](https://google.com/search?q=https%3A%2F%2Fwww.doityoungs.com%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
-| 2024-06-25 | [`https://www.keeservices.com/`](https://google.com/search?q=https%3A%2F%2Fwww.keeservices.com%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
-| 2024-06-25 | [`https://theeyeclinicsurgicenter.com`](https://google.com/search?q=https%3A%2F%2Ftheeyeclinicsurgicenter.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
