@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-07-17 | [`isometrix.com\$45.8M\USA\126GB\&lt;1% DISCLOSED`](https://google.com/search?q=isometrix.com%5C%2445.8M%5CUSA%5C126GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-07-17 | [`https://www.groupepro-b.com`](https://google.com/search?q=https%3A%2F%2Fwww.groupepro-b.com) | [cicada3301](https://ransomwatch.telemetry.ltd/#/profiles?id=cicada3301) |
 | 2024-07-17 | [`The Law Office of Omar O. Vargas, P.C.`](https://google.com/search?q=The+Law+Office+of+Omar+O.+Vargas%2C+P.C.) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2024-07-17 | [`STUDIO NOTARILE BUCCI – OLMI`](https://google.com/search?q=STUDIO+NOTARILE+BUCCI+%E2%80%93+OLMI) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-06-25 | [`http://www.sanglier.org.uk`](https://google.com/search?q=http%3A%2F%2Fwww.sanglier.org.uk) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-06-25 | [`https://arangobillboard.com/`](https://google.com/search?q=https%3A%2F%2Farangobillboard.com%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-06-25 | [`https://rbbschools.net/`](https://google.com/search?q=https%3A%2F%2Frbbschools.net%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
-| 2024-06-25 | [`https://www.colfax.k12.wi.us/`](https://google.com/search?q=https%3A%2F%2Fwww.colfax.k12.wi.us%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
