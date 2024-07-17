@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-07-17 | [`https://www.groupepro-b.com`](https://google.com/search?q=https%3A%2F%2Fwww.groupepro-b.com) | [cicada3301](https://ransomwatch.telemetry.ltd/#/profiles?id=cicada3301) |
+| 2024-07-17 | [`The Law Office of Omar O. Vargas, P.C.`](https://google.com/search?q=The+Law+Office+of+Omar+O.+Vargas%2C+P.C.) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
+| 2024-07-17 | [`STUDIO NOTARILE BUCCI – OLMI`](https://google.com/search?q=STUDIO+NOTARILE+BUCCI+%E2%80%93+OLMI) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2024-07-16 | [`ceopag.com.br / ceofood.com.br`](https://google.com/search?q=ceopag.com.br+%2F+ceofood.com.br) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-07-16 | [`www.cloudeurope.it/`](https://google.com/search?q=www.cloudeurope.it%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-07-16 | [`nepa.gov.af/`](https://google.com/search?q=nepa.gov.af%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2024-06-25 | [`https://arangobillboard.com/`](https://google.com/search?q=https%3A%2F%2Farangobillboard.com%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-06-25 | [`https://rbbschools.net/`](https://google.com/search?q=https%3A%2F%2Frbbschools.net%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-06-25 | [`https://www.colfax.k12.wi.us/`](https://google.com/search?q=https%3A%2F%2Fwww.colfax.k12.wi.us%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
-| 2024-06-25 | [`https://www.axiavg.com/`](https://google.com/search?q=https%3A%2F%2Fwww.axiavg.com%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
-| 2024-06-25 | [`https://www.catiglass.com/`](https://google.com/search?q=https%3A%2F%2Fwww.catiglass.com%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
-| 2024-06-25 | [`http://ibewlocal1.org`](https://google.com/search?q=http%3A%2F%2Fibewlocal1.org) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
