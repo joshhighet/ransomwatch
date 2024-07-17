@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-07-17 | [`Modernauto`](https://google.com/search?q=Modernauto) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
 | 2024-07-17 | [`Gandara Center`](https://google.com/search?q=Gandara+Center) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2024-07-17 | [`Hayden Power Group`](https://google.com/search?q=Hayden+Power+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-07-17 | [`C???o???m`](https://google.com/search?q=C%3F%3F%3Fo%3F%3F%3Fm) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-06-26 | [`www.harrisranchbeef.com`](https://google.com/search?q=www.harrisranchbeef.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-06-25 | [`US Dermatology Partners`](https://google.com/search?q=US+Dermatology+Partners) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-06-25 | [`Better Business Bureau`](https://google.com/search?q=Better+Business+Bureau) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2024-06-25 | [`PCI Developments`](https://google.com/search?q=PCI+Developments) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
