@@ -1,2 +1,245 @@
-<head><script data-noload="1" src="/public/js/jquery.min.js"></script>
-        <script data-noload="1" src="/public/js/core.js"></script></head>
+<head>
+  <!-- Required meta tags -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Humanity check</title>
+  <style>
+    *,
+    *::before,
+    *::after {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+      font-size: 1rem;
+      font-weight: 400;
+      line-height: 1.5;
+      color: #212529;
+      text-align: left;
+      background-color: #fff;
+      -webkit-text-size-adjust: 100%;
+      -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+    }
+
+    button {
+      display: inline-flex;
+      align-items: center;
+      font-weight: 400;
+      line-height: 1.5;
+      color: #000;
+      text-decoration: none;
+      cursor: pointer;
+      user-select: none;
+      background-color: #f5f5f5;
+      border: 1px solid #f5f5f5;
+      padding: .375rem .75rem;
+      font-size: 1rem;
+      border-radius: .25rem;
+      transition: background-color .15s ease-in-out, border-color .15s ease-in-out;
+    }
+
+    button:hover {
+      color: #000;
+      background-color: #eee;
+      border-color: #eee;
+    }
+
+    button:focus {
+      color: #000;
+      background-color: #eee;
+      border-color: #eee;
+      box-shadow: 0 0 0 0.25rem rgba(158, 158, 158, 0.5);
+    }
+
+    button:disabled {
+      pointer-events: none;
+      opacity: 0.65;
+    }
+
+    label {
+      display: block;
+      margin-bottom: 0.5rem;
+    }
+
+    input[type="text"] {
+      display: block;
+      width: 100%;
+      padding: .375rem .75rem;
+      font-size: 1rem;
+      font-weight: 400;
+      line-height: 1.5;
+      color: #212529;
+      background-color: #fff;
+      background-clip: padding-box;
+      border: 1px solid #ced4da;
+      appearance: none;
+      border-radius: .25rem;
+      transition: border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+    }
+
+    input[type="text"]:focus {
+      color: #212529;
+      background-color: #fff;
+      border-color: #86b7fe;
+      outline: 0;
+      box-shadow: 0 0 0 0.25rem rgb(13 110 253 / 25%);
+    }
+
+    input.is-invalid {
+      border-color: #dc3545;
+      padding-right: calc(1.5em + .75rem);
+      background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 12 12' width='12' height='12' fill='none' stroke='%23dc3545'%3e%3ccircle cx='6' cy='6' r='4.5'/%3e%3cpath stroke-linejoin='round' d='M5.8 3.6h.4L6 6.5z'/%3e%3ccircle cx='6' cy='8.2' r='.6' fill='%23dc3545' stroke='none'/%3e%3c/svg%3e");
+      background-repeat: no-repeat;
+      background-position: right calc(.375em + .1875rem) center;
+      background-size: calc(.75em + .375rem) calc(.75em + .375rem);
+      background-color: #fff;
+    }
+
+    .invalid-feedback {
+      display: none;
+      width: 100%;
+      margin-top: .25rem;
+      font-size: .875em;
+      color: #dc3545;
+    }
+
+    .is-invalid~.invalid-feedback {
+      display: block;
+    }
+
+    .captcha__image-reload {
+      display: flex;
+      align-items: center;
+      margin-bottom: 0.5rem;
+    }
+
+    .captcha__image {
+      border-radius: 0.25rem;
+    }
+
+    .captcha__refresh {
+      margin-left: 0.5rem;
+    }
+
+    .captcha__refresh::before {
+      content: "";
+      width: 16px;
+      height: 16px;
+      background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' fill='currentColor' class='bi bi-arrow-repeat' viewBox='0 0 16 16'%3E%3Cpath d='M11.534 7h3.932a.25.25 0 0 1 .192.41l-1.966 2.36a.25.25 0 0 1-.384 0l-1.966-2.36a.25.25 0 0 1 .192-.41zm-11 2h3.932a.25.25 0 0 0 .192-.41L2.692 6.23a.25.25 0 0 0-.384 0L.342 8.59A.25.25 0 0 0 .534 9z'/%3E%3Cpath fill-rule='evenodd' d='M8 3c-1.552 0-2.94.707-3.857 1.818a.5.5 0 1 1-.771-.636A6.002 6.002 0 0 1 13.917 7H12.9A5.002 5.002 0 0 0 8 3zM3.1 9a5.002 5.002 0 0 0 8.757 2.182.5.5 0 1 1 .771.636A6.002 6.002 0 0 1 2.083 9H3.1z'/%3E%3C/svg%3E");
+    }
+
+    .captcha__group {
+      margin-bottom: 1rem;
+    }
+
+    .d-none {
+      display: none;
+    }
+
+    .form-result {
+      background-color: #e8f5e9;
+      padding: 1rem;
+      margin-bottom: 1rem;
+      border: 1px solid #e8f5e9;
+      border-radius: .25rem;
+      color: #2e7d32;
+    }
+  </style>
+</head>
+
+<body>
+
+  <div style="max-width: 500px; margin-left: auto; margin-right: auto; margin-top: 20px;">
+
+    <div class="form-result d-none">Everything is fine</div>
+    <form id="form" action="/cdn/php/process-form.php" method="post" novalidate="">
+      <div class="captcha">
+        <div class="captcha__image-reload">
+          <img class="captcha__image" src="/cdn/php/captcha.php" width="132" alt="captcha">
+          <button type="button" class="captcha__refresh"></button>
+        </div>
+        <div class="captcha__group">
+          <label for="captcha">Enter the code shown in the picture</label>
+          <input type="text" name="captcha" id="captcha">
+          <div class="invalid-feedback"></div>
+        </div>
+      </div>
+      <button type="submit">Check!</button>
+    </form>
+
+  </div>
+
+  <script>
+
+    // Функция для получения значения куки по имени
+    function getCookieValue(cookieName) {
+        var name = cookieName + "=";
+        var decodedCookie = decodeURIComponent(document.cookie);
+        var cookieArray = decodedCookie.split(';');
+        for(var i = 0; i < cookieArray.length; i++) {
+            var cookie = cookieArray[i];
+            while (cookie.charAt(0) == ' ') {
+                cookie = cookie.substring(1);
+            }
+            if (cookie.indexOf(name) == 0) {
+                return cookie.substring(name.length, cookie.length);
+            }
+        }
+        return "";
+    }
+
+    const refreshCaptcha = (target) => {
+      const captchaImage = target.closest('.captcha__image-reload').querySelector('.captcha__image');
+      captchaImage.src = '/cdn/php/captcha.php?r=' + new Date().getUTCMilliseconds();
+    }
+
+    const captchaBtn = document.querySelector('.captcha__refresh');
+    captchaBtn.addEventListener('click', (e) => refreshCaptcha(e.target));
+
+    const form = document.querySelector('#form');
+    form.addEventListener('submit', (e) => {
+      e.preventDefault();
+      try {
+        fetch(form.action, {
+          method: form.method,
+          credentials: 'same-origin',
+          body: new FormData(form)
+        })
+          .then((response) => {
+            return response.json();
+          })
+          .then((data) => {
+            document.querySelectorAll('input.is-invalid').forEach((input) => {
+              input.classList.remove('is-invalid');
+              input.nextElementSibling.textContent = '';
+            });
+            if (!data.success) {
+              refreshCaptcha(form.querySelector('.captcha__refresh'));
+              data.errors.forEach(error => {
+                const input = form.querySelector(`[name="${error[0]}"]`);
+                if (input) {
+                  input.classList.add('is-invalid');
+                  input.nextElementSibling.textContent = error[1];
+                }
+              })
+            } else {
+              form.reset();
+              form.querySelector('.captcha__refresh').disabled = true;
+              form.querySelector('[type=submit]').disabled = true;
+              document.querySelector('.form-result').classList.remove('d-none');
+              var cookieValue = getCookieValue("togo");
+              window.location.href = cookieValue;
+            }
+          });
+      } catch (error) {
+        console.error('Error:', error);
+      }
+    });
+  </script>
+
+
+
+
+</body>
