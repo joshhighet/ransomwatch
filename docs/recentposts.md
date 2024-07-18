@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-07-18 | [`ZSZAALEJI.cz `](https://google.com/search?q=ZSZAALEJI.cz+) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-07-18 | [`aedifica.com/`](https://google.com/search?q=aedifica.com%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-07-18 | [`all-mode.com`](https://google.com/search?q=all-mode.com) | [donutleaks](https://ransomwatch.telemetry.ltd/#/profiles?id=donutleaks) |
 | 2024-07-18 | [`www.erma-rtmo.it`](https://google.com/search?q=www.erma-rtmo.it) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-06-27 | [`buyeazzy.com`](https://google.com/search?q=buyeazzy.com) | [darkvault](https://ransomwatch.telemetry.ltd/#/profiles?id=darkvault) |
 | 2024-06-27 | [`promarkbrands.com`](https://google.com/search?q=promarkbrands.com) | [dAn0n](https://ransomwatch.telemetry.ltd/#/profiles?id=dAn0n) |
 | 2024-06-27 | [`http://kadokawa.co.jp`](https://google.com/search?q=http%3A%2F%2Fkadokawa.co.jp) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
-| 2024-06-27 | [`H*******Y`](https://google.com/search?q=H%2A%2A%2A%2A%2A%2A%2AY) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
