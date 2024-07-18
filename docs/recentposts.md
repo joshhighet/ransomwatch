@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-07-18 | [`pgd.pl`](https://google.com/search?q=pgd.pl) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-07-18 | [`Lacey Serrano`](https://google.com/search?q=Lacey+Serrano) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2024-07-18 | [`Jaden Hamilton`](https://google.com/search?q=Jaden+Hamilton) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2024-07-18 | [`Yeo Nielsen`](https://google.com/search?q=Yeo+Nielsen) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-06-26 | [`GED Lawyers &#8211; Sells Open`](https://google.com/search?q=GED+Lawyers+%26%238211%3B+Sells+Open) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2024-06-26 | [`Ocasa`](https://google.com/search?q=Ocasa) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-06-26 | [`Gallos Metal Solutio ns`](https://google.com/search?q=Gallos+Metal+Solutio+ns) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2024-06-26 | [`Waterbury Newton`](https://google.com/search?q=Waterbury+Newton) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
