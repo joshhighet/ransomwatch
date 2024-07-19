@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-07-19 | [`Law Offices of the Public Defender - New Mexico`](https://google.com/search?q=Law+Offices+of+the+Public+Defender+-+New+Mexico) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2024-07-18 | [`Seamon Whiteside`](https://google.com/search?q=Seamon+Whiteside) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-07-18 | [`Santa Rosa`](https://google.com/search?q=Santa+Rosa) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-07-18 | [`Northeast Rehabilitation Hospital Network`](https://google.com/search?q=Northeast+Rehabilitation+Hospital+Network) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-06-28 | [`www.cloudeurope.it`](https://google.com/search?q=www.cloudeurope.it) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-06-28 | [`coca-cola.com - Myanmar office`](https://google.com/search?q=coca-cola.com+-+Myanmar+office) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-06-28 | [`daniellegroup.com`](https://google.com/search?q=daniellegroup.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-06-28 | [`www.cipl.org.in`](https://google.com/search?q=www.cipl.org.in) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
