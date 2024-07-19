@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-07-19 | [`ceopag.com.br/`](https://google.com/search?q=ceopag.com.br%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-07-19 | [`Arcmed Group`](https://google.com/search?q=Arcmed+Group) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-07-19 | [`https://leechlakegaming.com`](https://google.com/search?q=https%3A%2F%2Fleechlakegaming.com) | [cicada3301](https://ransomwatch.telemetry.ltd/#/profiles?id=cicada3301) |
 | 2024-07-19 | [`A*****D`](https://google.com/search?q=A%2A%2A%2A%2A%2AD) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-06-28 | [`bitzsoftwares.com.br/`](https://google.com/search?q=bitzsoftwares.com.br%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-06-28 | [`Power Lube Industria l`](https://google.com/search?q=Power+Lube+Industria+l) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-06-28 | [`Wilmots (Legal servi ces)`](https://google.com/search?q=Wilmots+%28Legal+servi+ces%29) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2024-06-28 | [`ASI`](https://google.com/search?q=ASI) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
