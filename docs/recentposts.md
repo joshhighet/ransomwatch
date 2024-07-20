@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-07-20 | [`https://ecfgroup.com/en/brand/reward-hospitality/;https://www.rewardhospitality.com.au/`](https://google.com/search?q=https%3A%2F%2Fecfgroup.com%2Fen%2Fbrand%2Freward-hospitality%2F%3Bhttps%3A%2F%2Fwww.rewardhospitality.com.au%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
+| 2024-07-20 | [`ESET. PREMIUM.`](https://google.com/search?q=ESET.+PREMIUM.) | [donutleaks](https://ransomwatch.telemetry.ltd/#/profiles?id=donutleaks) |
 | 2024-07-20 | [`Doodle Tech`](https://google.com/search?q=Doodle+Tech) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2024-07-20 | [`www.kumagaigumi.co.jp`](https://google.com/search?q=www.kumagaigumi.co.jp) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-07-19 | [`ceopag.com.br/`](https://google.com/search?q=ceopag.com.br%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-06-28 | [`midamea.com`](https://google.com/search?q=midamea.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-06-28 | [`www.harrisranchbeef.com/`](https://google.com/search?q=www.harrisranchbeef.com%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-06-28 | [`multi-wing.com/`](https://google.com/search?q=multi-wing.com%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-06-28 | [`iseta.fr/`](https://google.com/search?q=iseta.fr%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-06-28 | [`bitzsoftwares.com.br/`](https://google.com/search?q=bitzsoftwares.com.br%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
