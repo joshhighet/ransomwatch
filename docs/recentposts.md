@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-07-22 | [`MEMC`](https://google.com/search?q=MEMC) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-07-22 | [`Guaranteed Supply Company`](https://google.com/search?q=Guaranteed+Supply+Company) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2024-07-22 | [`RiverSoft`](https://google.com/search?q=RiverSoft) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2024-07-21 | [`KickDown ESET company. No overpayments at 0% (renamed and update)`](https://google.com/search?q=KickDown+ESET+company.+No+overpayments+at+0%25+%28renamed+and+update%29) | [donutleaks](https://ransomwatch.telemetry.ltd/#/profiles?id=donutleaks) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-06-29 | [`pandacare.ae`](https://google.com/search?q=pandacare.ae) | [darkvault](https://ransomwatch.telemetry.ltd/#/profiles?id=darkvault) |
 | 2024-06-29 | [`DRM Resources`](https://google.com/search?q=DRM+Resources) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2024-06-29 | [`Clima Lodi`](https://google.com/search?q=Clima+Lodi) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
-| 2024-06-29 | [`DatAnalítica`](https://google.com/search?q=DatAnal%C3%ADtica) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
