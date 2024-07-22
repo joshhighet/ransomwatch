@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-07-22 | [`RiverSoft`](https://google.com/search?q=RiverSoft) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2024-07-21 | [`KickDown ESET company. No overpayments at 0% (renamed and update)`](https://google.com/search?q=KickDown+ESET+company.+No+overpayments+at+0%25+%28renamed+and+update%29) | [donutleaks](https://ransomwatch.telemetry.ltd/#/profiles?id=donutleaks) |
 | 2024-07-20 | [`www.garudafood.com`](https://google.com/search?q=www.garudafood.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-07-20 | [`Queens County Public Administrator`](https://google.com/search?q=Queens+County+Public+Administrator) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-06-29 | [`Clima Lodi`](https://google.com/search?q=Clima+Lodi) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2024-06-29 | [`DatAnalítica`](https://google.com/search?q=DatAnal%C3%ADtica) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2024-06-29 | [`Freightliner of Grand Rapids &amp; Kalamazoo`](https://google.com/search?q=Freightliner+of+Grand+Rapids+%26amp%3B+Kalamazoo) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
-| 2024-06-29 | [`Spandex.com`](https://google.com/search?q=Spandex.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
