@@ -4,6 +4,10 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-07-23 | [`www.byzan.com`](https://google.com/search?q=www.byzan.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-07-23 | [`verco.co.uk\$17.5M\United Kingdom\592GB\100% DISCLOSED`](https://google.com/search?q=verco.co.uk%5C%2417.5M%5CUnited+Kingdom%5C592GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
+| 2024-07-23 | [`isometrix.com\$45.8M\USA\126GB\100% DISCLOSED`](https://google.com/search?q=isometrix.com%5C%2445.8M%5CUSA%5C126GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
+| 2024-07-23 | [`LawDepot`](https://google.com/search?q=LawDepot) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2024-07-22 | [`www.benchinternational.com/`](https://google.com/search?q=www.benchinternational.com%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-07-22 | [`Acadian Ambulance (US)`](https://google.com/search?q=Acadian+Ambulance+%28US%29) | [daixin](https://ransomwatch.telemetry.ltd/#/profiles?id=daixin) |
 | 2024-07-22 | [`Sibanye-Stillwater`](https://google.com/search?q=Sibanye-Stillwater) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
@@ -200,7 +204,3 @@ _last `200` posts_
 | 2024-07-01 | [`SYNERGY PEANUT`](https://google.com/search?q=SYNERGY+PEANUT) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-07-01 | [`maxcess-logistics.com`](https://google.com/search?q=maxcess-logistics.com) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-07-01 | [`Bartlett & Weigle Co. LPA.`](https://google.com/search?q=Bartlett+%26+Weigle+Co.+LPA.) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2024-06-30 | [`www.sicoob.com.br&lt;Updated&gt;`](https://google.com/search?q=www.sicoob.com.br%26lt%3BUpdated%26gt%3B) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-06-30 | [`Wayne Memorial Hospital`](https://google.com/search?q=Wayne+Memorial+Hospital) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
-| 2024-06-30 | [`Lambertz`](https://google.com/search?q=Lambertz) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2024-06-30 | [`jla.com`](https://google.com/search?q=jla.com) | [embargo](https://ransomwatch.telemetry.ltd/#/profiles?id=embargo) |
