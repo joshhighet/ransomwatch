@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-07-23 | [`http://rhinocorps.com`](https://google.com/search?q=http%3A%2F%2Frhinocorps.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
+| 2024-07-23 | [`Congoleum`](https://google.com/search?q=Congoleum) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-07-23 | [`sigmacontrol.eu`](https://google.com/search?q=sigmacontrol.eu) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-07-23 | [`siParadigm`](https://google.com/search?q=siParadigm) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-07-23 | [`eurovilla.hr`](https://google.com/search?q=eurovilla.hr) | [darkvault](https://ransomwatch.telemetry.ltd/#/profiles?id=darkvault) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-07-02 | [`Salton`](https://google.com/search?q=Salton) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-07-02 | [`P1 Technologies`](https://google.com/search?q=P1+Technologies) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-07-02 | [`Longview Oral and Maxillofacial Surgery`](https://google.com/search?q=Longview+Oral+and+Maxillofacial+Surgery) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2024-07-02 | [`WheelerShip`](https://google.com/search?q=WheelerShip) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2024-07-02 | [`floridahealth.gov`](https://google.com/search?q=floridahealth.gov) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
