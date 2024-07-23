@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-07-23 | [`eurovilla.hr`](https://google.com/search?q=eurovilla.hr) | [darkvault](https://ransomwatch.telemetry.ltd/#/profiles?id=darkvault) |
+| 2024-07-23 | [`Notarkammer Pfalz`](https://google.com/search?q=Notarkammer+Pfalz) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-07-23 | [`thesourcinggroup.com`](https://google.com/search?q=thesourcinggroup.com) | [dAn0n](https://ransomwatch.telemetry.ltd/#/profiles?id=dAn0n) |
 | 2024-07-23 | [`Win Systems`](https://google.com/search?q=Win+Systems) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-07-23 | [`www.byzan.com`](https://google.com/search?q=www.byzan.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-07-02 | [`floridahealth.gov`](https://google.com/search?q=floridahealth.gov) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-07-02 | [`www.nttdata.ro`](https://google.com/search?q=www.nttdata.ro) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-07-01 | [`www.mangimifusco.it/`](https://google.com/search?q=www.mangimifusco.it%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-07-01 | [`Ethypharm`](https://google.com/search?q=Ethypharm) | [underground](https://ransomwatch.telemetry.ltd/#/profiles?id=underground) |
-| 2024-07-01 | [`SYNERGY PEANUT`](https://google.com/search?q=SYNERGY+PEANUT) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
