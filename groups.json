@@ -2112,6 +2112,16 @@
                 "updated": "2024-07-24 02:21:50.598118",
                 "lastscrape": "2024-07-24 02:21:50.598097",
                 "enabled": true
+            },
+            {
+                "fqdn": "osintcorp.net",
+                "title": null,
+                "version": 0,
+                "slug": "https://osintcorp.net",
+                "available": false,
+                "updated": null,
+                "lastscrape": "2021-05-01 00:00:00.000000",
+                "enabled": true
             }
         ],
         "profile": []
