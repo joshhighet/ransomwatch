@@ -1611,3 +1611,14 @@ def vanirgroup():
         errlog('vanirgroup: ' + 'parsing fail')
     for post in posts:
         appender(post, 'vanirgroup')
+
+def ransomcortex():
+    stdlog('parser: ' + 'ransomcortex')
+    parser = '''
+    grep '<h2 class="entry-title">' source/ransomcortex-*.html | cut -d '>' -f 3 | cut -d '<' -f 1 || true
+    '''
+    posts = runshellcmd(parser)
+    if len(posts) == 1:
+        errlog('ransomcortex: ' + 'parsing fail')
+    for post in posts:
+        appender(post, 'ransomcortex')

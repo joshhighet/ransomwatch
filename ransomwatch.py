@@ -320,4 +320,5 @@ if args.mode == 'parse':
     parsers.handala()
     parsers.eldorado()
     parsers.vanirgroup()
+    parsers.ransomcortex()
     stdlog('ransomwatch: ' + 'parse run complete')

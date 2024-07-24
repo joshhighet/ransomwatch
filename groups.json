@@ -6373,5 +6373,25 @@
             }
         ],
         "profile": []
+    },
+    {
+        "name": "ransomcortex",
+        "captcha": false,
+        "parser": true,
+        "javascript_render": false,
+        "meta": null,
+        "locations": [
+            {
+                "fqdn": "gg6owuhu72muoelkt2msjrp2llwr2on5634sk5v2xefzmobvryywbhid.onion",
+                "title": "Ransomcortex – Practical Solutions for High-Level ",
+                "version": 3,
+                "slug": "http://gg6owuhu72muoelkt2msjrp2llwr2on5634sk5v2xefzmobvryywbhid.onion",
+                "available": true,
+                "updated": "2024-07-25 09:43:43.736976",
+                "lastscrape": "2024-07-25 09:43:43.736970",
+                "enabled": true
+            }
+        ],
+        "profile": []
     }
 ]
