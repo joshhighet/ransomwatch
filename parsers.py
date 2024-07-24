@@ -1622,3 +1622,14 @@ def ransomcortex():
         errlog('ransomcortex: ' + 'parsing fail')
     for post in posts:
         appender(post, 'ransomcortex')
+
+def madliberator():
+    stdlog('parser: ' + 'madliberator')
+    parser = '''
+    grep '<span class="blog-cat">' source/madliberator-*.html | cut -d '>' -f 2 | cut -d '<' -f 1 || true
+    '''
+    posts = runshellcmd(parser)
+    if len(posts) == 1:
+        errlog('madliberator: ' + 'parsing fail')
+    for post in posts:
+        appender(post, 'madliberator')

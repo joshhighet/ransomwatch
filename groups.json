@@ -6393,5 +6393,25 @@
             }
         ],
         "profile": []
+    },
+    {
+        "name": "madliberator",
+        "captcha": false,
+        "parser": true,
+        "javascript_render": false,
+        "meta": null,
+        "locations": [
+            {
+                "fqdn": "k67ivvik3dikqi4gy4ua7xa6idijl4si7k5ad5lotbaeirfcsx4sgbid.onion",
+                "title": "MAD LIBERATOR - LEAKED FILES",
+                "version": 3,
+                "slug": "http://k67ivvik3dikqi4gy4ua7xa6idijl4si7k5ad5lotbaeirfcsx4sgbid.onion/index2.php",
+                "available": true,
+                "updated": "2024-07-25 09:49:25.092810",
+                "lastscrape": "2024-07-25 09:49:25.092803",
+                "enabled": true
+            }
+        ],
+        "profile": []
     }
 ]
