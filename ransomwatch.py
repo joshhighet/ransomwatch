@@ -317,4 +317,5 @@ if args.mode == 'parse':
     parsers.pryx()
     parsers.braincipher()
     parsers.FOG()
+    parsers.handala()
     stdlog('ransomwatch: ' + 'parse run complete')

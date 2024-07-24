@@ -1578,3 +1578,14 @@ def FOG():
         errlog('FOG: ' + 'parsing fail')
     for post in posts:
         appender(post, 'FOG')
+        
+def handala():
+    stdlog('parser: ' + 'handala')
+    parser = '''
+    grep '<h2 class="wp-block-post-title">' source/handala-*.html | cut -d '>' -f 3 | cut -d '<' -f 1 || true
+    '''
+    posts = runshellcmd(parser)
+    if len(posts) == 1:
+        errlog('handala: ' + 'parsing fail')
+    for post in posts:
+        appender(post, 'handala')
