@@ -322,4 +322,5 @@ if args.mode == 'parse':
     parsers.vanirgroup()
     parsers.ransomcortex()
     parsers.madliberator()
+    parsers.dispossessor()
     stdlog('ransomwatch: ' + 'parse run complete')

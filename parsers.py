@@ -1633,3 +1633,14 @@ def madliberator():
         errlog('madliberator: ' + 'parsing fail')
     for post in posts:
         appender(post, 'madliberator')
+
+def dispossessor():
+    stdlog('parser: ' + 'dispossessor')
+    parser = '''
+    cat source/dispossessor-e27z5*.html | jq '.data.items[].company_name' -r || true
+    '''
+    posts = runshellcmd(parser)
+    if len(posts) == 1:
+        errlog('dispossessor: ' + 'parsing fail')
+    for post in posts:
+        appender(post, 'dispossessor')
