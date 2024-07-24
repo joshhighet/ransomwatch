@@ -6453,5 +6453,45 @@
             }
         ],
         "profile": []
+    },
+    {
+        "name": "nullbulge",
+        "captcha": false,
+        "parser": false,
+        "javascript_render": false,
+        "meta": null,
+        "locations": [
+            {
+                "fqdn": "nullbulge.com",
+                "title": null,
+                "version": 0,
+                "slug": "https://nullbulge.com",
+                "available": false,
+                "updated": null,
+                "lastscrape": "2021-05-01 00:00:00.000000",
+                "enabled": false
+            },
+            {
+                "fqdn": "nullbulge.se",
+                "title": "NullBulge",
+                "version": 0,
+                "slug": "https://nullbulge.se/blog.html",
+                "available": true,
+                "updated": "2024-07-25 10:00:44.718143",
+                "lastscrape": "2024-07-25 10:00:44.718135",
+                "enabled": true
+            },
+            {
+                "fqdn": "nullbulge.co",
+                "title": "NullBulge",
+                "version": 0,
+                "slug": "https://nullbulge.co/blog.html",
+                "available": true,
+                "updated": "2024-07-25 10:00:46.818336",
+                "lastscrape": "2024-07-25 10:00:46.818316",
+                "enabled": true
+            }
+        ],
+        "profile": []
     }
 ]

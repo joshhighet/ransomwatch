@@ -1644,3 +1644,14 @@ def dispossessor():
         errlog('dispossessor: ' + 'parsing fail')
     for post in posts:
         appender(post, 'dispossessor')
+
+def nullbulge():
+    stdlog('parser: ' + 'nullbulge')
+    parser = '''
+    grep '<div class="elem">' -A1 source/nullbulge-nullbulge.html | grep '<h6 class="hacked__font">' | cut -d '>' -f 2 | cut -d '<' -f 1 || true
+    '''
+    posts = runshellcmd(parser)
+    if len(posts) == 1:
+        errlog('nullbulge: ' + 'parsing fail')
+    for post in posts:
+        appender(post, 'nullbulge')
