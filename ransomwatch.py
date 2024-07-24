@@ -316,4 +316,5 @@ if args.mode == 'parse':
     parsers.cicada3301()
     parsers.pryx()
     parsers.braincipher()
+    parsers.FOG()
     stdlog('ransomwatch: ' + 'parse run complete')

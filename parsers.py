@@ -1567,3 +1567,14 @@ def braincipher():
         errlog('braincipher: ' + 'parsing fail')
     for post in posts:
         appender(post, 'braincipher')
+
+def FOG():
+    stdlog('parser: ' + 'FOG')
+    parser = '''
+    grep '<p class="pb-4 text-lg font-bold">' source/FOG-*.html | cut -d '>' -f 10 | cut -d '<' -f 1 | grep -v 00 || true
+    '''
+    posts = runshellcmd(parser)
+    if len(posts) == 1:
+        errlog('FOG: ' + 'parsing fail')
+    for post in posts:
+        appender(post, 'FOG')
