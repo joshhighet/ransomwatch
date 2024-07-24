@@ -1600,3 +1600,14 @@ def eldorado():
         errlog('eldorado: ' + 'parsing fail')
     for post in posts:
         appender(post, 'eldorado')
+
+def vanirgroup():
+    stdlog('parser: ' + 'vanirgroup')
+    parser = '''
+    grep '</pre></p></div><p data-v-' source/vanirgroup-*.html | awk 'match($0, /projectName:"[^"]+"/) {while (match($0, /projectName:"[^"]+"/)) {print substr($0, RSTART+13, RLENGTH-14); $0 = substr($0, RSTART+RLENGTH)}}' || true
+    '''
+    posts = runshellcmd(parser)
+    if len(posts) == 1:
+        errlog('vanirgroup: ' + 'parsing fail')
+    for post in posts:
+        appender(post, 'vanirgroup')

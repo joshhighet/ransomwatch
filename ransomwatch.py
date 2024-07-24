@@ -319,4 +319,5 @@ if args.mode == 'parse':
     parsers.FOG()
     parsers.handala()
     parsers.eldorado()
+    parsers.vanirgroup()
     stdlog('ransomwatch: ' + 'parse run complete')

@@ -6353,5 +6353,25 @@
             }
         ],
         "profile": []
+    },
+    {
+        "name": "vanirgroup",
+        "captcha": false,
+        "parser": true,
+        "javascript_render": false,
+        "meta": null,
+        "locations": [
+            {
+                "fqdn": "6xdpj3sb5kekvq5ulym5qqmzsv6ektjgvpmajns3qrafgxtyxrhokfqd.onion",
+                "title": null,
+                "version": 3,
+                "slug": "http://6xdpj3sb5kekvq5ulym5qqmzsv6ektjgvpmajns3qrafgxtyxrhokfqd.onion/assets/index-49d93e78.js",
+                "available": true,
+                "updated": "2024-07-25 09:36:35.876925",
+                "lastscrape": "2024-07-25 09:36:35.876918",
+                "enabled": true
+            }
+        ],
+        "profile": []
     }
 ]
