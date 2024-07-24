@@ -6289,7 +6289,17 @@
                 "available": true,
                 "updated": "2024-07-23 22:36:15.029680",
                 "lastscrape": "2024-07-23 22:36:15.029667",
-                "enabled": true
+                "enabled": false
+            },
+            {
+                "fqdn": "pryx.cc",
+                "title": null,
+                "version": 0,
+                "slug": "https://pryx.cc/blogs.html",
+                "available": false,
+                "updated": null,
+                "lastscrape": "2021-05-01 00:00:00.000000",
+                "enabled": false
             }
         ],
         "profile": []
