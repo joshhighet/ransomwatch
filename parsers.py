@@ -1167,7 +1167,7 @@ def metaencryptor():
 def cloak():
     stdlog('parser: ' + 'cloak')
     parser = '''
-    grep '<h2 class="main__name">' source/cloak-*.html --no-filename | cut -d ">" -f2 | cut -d '<' -f 1
+    grep '<h2 class="main__name">' source/cloak-cloak7jp*.html --no-filename | cut -d ">" -f2 | cut -d '<' -f 1 && grep --no-filename -A 1 '<div class="card-body">' source/cloak-cloak.html | grep '<p class="card-text">' | cut -d '>' -f 2 | cut -d '<' -f 1 | grep -v test || true
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
