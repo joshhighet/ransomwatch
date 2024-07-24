@@ -6273,5 +6273,25 @@
             }
         ],
         "profile": []
+    },
+    {
+        "name": "eldorado",
+        "captcha": false,
+        "parser": true,
+        "javascript_render": false,
+        "meta": null,
+        "locations": [
+            {
+                "fqdn": "dataleakypypu7uwblm5kttv726l3iripago6p336xjnbstkjwrlnlid.onion",
+                "title": "\r\n\r\n    Data Leak\r\n\r\n",
+                "version": 3,
+                "slug": "http://dataleakypypu7uwblm5kttv726l3iripago6p336xjnbstkjwrlnlid.onion",
+                "available": true,
+                "updated": "2024-07-25 09:17:47.790585",
+                "lastscrape": "2024-07-25 09:17:47.790579",
+                "enabled": true
+            }
+        ],
+        "profile": []
     }
 ]

@@ -1589,3 +1589,14 @@ def handala():
         errlog('handala: ' + 'parsing fail')
     for post in posts:
         appender(post, 'handala')
+
+def eldorado():
+    stdlog('parser: ' + 'eldorado')
+    parser = '''
+    grep '<h1 class="text-xl mb-2 text-decoration-underline">' source/eldorado-*.html | cut -d '>' -f 2 | cut -d '<' -f 1 || true
+    '''
+    posts = runshellcmd(parser)
+    if len(posts) == 1:
+        errlog('eldorado: ' + 'parsing fail')
+    for post in posts:
+        appender(post, 'eldorado')
