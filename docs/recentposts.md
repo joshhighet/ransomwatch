@@ -111,6 +111,7 @@ _last `200` posts_
 | 2024-07-25 | [`www.raffmetal.it`](https://google.com/search?q=www.raffmetal.it) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
 | 2024-07-25 | [`mainlandmachinery.com`](https://google.com/search?q=mainlandmachinery.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
 | 2024-07-25 | [`www.rcc911.org`](https://google.com/search?q=www.rcc911.org) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
+| 2024-07-25 | [`Stienemann`](https://google.com/search?q=Stienemann) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2024-07-25 | [`www.baiminstitute.org/`](https://google.com/search?q=www.baiminstitute.org%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-07-25 | [`http://www.pojoaque.org`](https://google.com/search?q=http%3A%2F%2Fwww.pojoaque.org) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-07-25 | [`Kusum Group of Companies`](https://google.com/search?q=Kusum+Group+of+Companies) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-07-16 | [`HOYA Corporation`](https://google.com/search?q=HOYA+Corporation) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-07-16 | [`Braum's Inc`](https://google.com/search?q=Braum%27s+Inc) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-07-16 | [`Conexus MedStaff`](https://google.com/search?q=Conexus+MedStaff) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2024-07-16 | [`verco.co.uk\$17.5M\United Kingdom\592GB\&lt;1% DISCLOSED`](https://google.com/search?q=verco.co.uk%5C%2417.5M%5CUnited+Kingdom%5C592GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
