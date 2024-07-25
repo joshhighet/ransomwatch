@@ -179,7 +179,7 @@
 	  data-content-key=""
 	  data-logged-in="false"
 	  data-cookie-prefix="xf_"
-	  data-csrf="1721916273,dd73beef9526935607595450532bdc38"
+	  data-csrf="1721930686,ef8a4882e2ac697f4a918b7b185b72d9"
 	  class="has-no-js template-login  uix_page-- uix_hasSectionLinks "
 	  >
 	<head>
@@ -934,7 +934,7 @@
 			<form action="/login/login" method="post" class="block"
 				
 			>
-				<input type="hidden" name="_xfToken" value="1721916273,dd73beef9526935607595450532bdc38" />
+				<input type="hidden" name="_xfToken" value="1721930686,ef8a4882e2ac697f4a918b7b185b72d9" />
 				
 		<div class="block-container">
 			<div class="block-body">
@@ -943,10 +943,10 @@
 			<dl class="formRow formRow--input">
 				<dt>
 					<div class="formRow-labelWrapper">
-					<label class="formRow-label" for="_xfUid-1-1721916273">Your name or email address</label></div>
+					<label class="formRow-label" for="_xfUid-1-1721930686">Your name or email address</label></div>
 				</dt>
 				<dd>
-					<input type="text" class="input" name="login" autofocus="autofocus" autocomplete="username" id="_xfUid-1-1721916273" />
+					<input type="text" class="input" name="login" autofocus="autofocus" autocomplete="username" id="_xfUid-1-1721930686" />
 				</dd>
 			</dl>
 		
@@ -956,7 +956,7 @@
 			<dl class="formRow formRow--input">
 				<dt>
 					<div class="formRow-labelWrapper">
-					<label class="formRow-label" for="_xfUid-2-1721916273">Password</label></div>
+					<label class="formRow-label" for="_xfUid-2-1721930686">Password</label></div>
 				</dt>
 				<dd>
 					
@@ -969,7 +969,7 @@
 		<div class="inputGroup inputGroup--joined">
 			
 	<input type="password" name="password" value=""
-		class="input js-password input--passwordHideShow"  autocomplete="current-password" id="_xfUid-2-1721916273" />
+		class="input js-password input--passwordHideShow"  autocomplete="current-password" id="_xfUid-2-1721930686" />
 
 			
 			<div class="inputGroup-text">
@@ -1132,7 +1132,97 @@
 			
 		</div>
 
+		<script>
+	if (typeof (window.themehouse) !== 'object') {
+		window.themehouse = {};
+	}
+	if (typeof (window.themehouse.settings) !== 'object') {
+		window.themehouse.settings = {};
+	}
+	window.themehouse.settings = {
+		common: {
+			'20180112': {
+				init: false,
+			},
+		},
+		data: {
+			version: '2.2.1.0.0',
+			jsVersion: 'No JS Files',
+			templateVersion: '2.1.8.0_Release',
+			betaMode: 0,
+			theme: '',
+			url: 'http://rampjcdlqvgkoz5oywutpo6ggl7g6tvddysustfl6qzhr5osr24xxqqd.onion/',
+			user: '0',
+		},
+		inputSync: {},
+		minimalSearch: {
+			breakpoint: "900",
+			dropdownBreakpoint: "900",
+		},
+		sidebar: {
+            enabled: '',
+			link: '/uix/toggle-sidebar.json?t=1721930686%2Cef8a4882e2ac697f4a918b7b185b72d9',
+            state: '',
+		},
+        sidebarNav: {
+            enabled: '',
+			link: '/uix/toggle-sidebar-navigation.json?t=1721930686%2Cef8a4882e2ac697f4a918b7b185b72d9',
+            state: '',
+		},
+		fab: {
+			enabled: 1,
+		},
+		checkRadius: {
+			enabled: 0,
+			selectors: '.p-footer-inner, .uix_extendedFooter, .p-nav, .p-sectionLinks, .p-staffBar, .p-header, #wpadminbar',
+		},
+		nodes: {
+			enabled: 0,
+		},
+        nodesCollapse: {
+            enabled: '',
+			link: '/uix/toggle-category.json?t=1721930686%2Cef8a4882e2ac697f4a918b7b185b72d9',
+			state: '',
+        },
+		widthToggle: {
+			enabled: '',
+			link: '/uix/toggle-width.json?t=1721930686%2Cef8a4882e2ac697f4a918b7b185b72d9',
+			state: '',
+		},
+	}
+
+	window.document.addEventListener('DOMContentLoaded', function() {
 		
+			try {
+			   window.themehouse.common['20180112'].init();
+			} catch(e) {
+			   console.log('Error caught', e);
+			}
+		
+
+
+		var jsVersionPrefix = 'No JS Files';
+		if (typeof(window.themehouse.settings.data.jsVersion) === 'string') {
+			var jsVersionSplit = window.themehouse.settings.data.jsVersion.split('_');
+			if (jsVersionSplit.length) {
+				jsVersionPrefix = jsVersionSplit[0];
+			}
+		}
+		var templateVersionPrefix = 'No JS Template Version';
+		if (typeof(window.themehouse.settings.data.templateVersion) === 'string') {
+			var templateVersionSplit = window.themehouse.settings.data.templateVersion.split('_');
+			if (templateVersionSplit.length) {
+				templateVersionPrefix = templateVersionSplit[0];
+			}
+		}
+		if (jsVersionPrefix !== templateVersionPrefix) {
+			var splitFileVersion = jsVersionPrefix.split('.');
+			var splitTemplateVersion = templateVersionPrefix.split('.');
+			console.log('version mismatch', jsVersionPrefix, templateVersionPrefix);
+		}
+
+	});
+</script>
 
 		
 	<script src="/js/vendor/jquery/jquery-3.5.1.min.js?_v=d2bf17ae"></script>
@@ -1497,11 +1587,11 @@
 				secure: false
 			},
 			cacheKey: '797f3a2634e81aeb918d7759fb8d609f',
-			csrf: '1721916273,dd73beef9526935607595450532bdc38',
+			csrf: '1721930686,ef8a4882e2ac697f4a918b7b185b72d9',
 			js: {"\/js\/xf\/login_signup.min.js?_v=d2bf17ae":true,"\/js\/themehouse\/uix_dark\/ripple.min.js?_v=d2bf17ae":true,"\/js\/themehouse\/global\/20180112.min.js?_v=d2bf17ae":true,"\/js\/themehouse\/uix_dark\/index.min.js?_v=d2bf17ae":true,"\/js\/themehouse\/uix_dark\/vendor\/hover-intent\/jquery.hoverIntent.min.js?_v=d2bf17ae":true},
 			css: {"public:uix.less":true,"public:uix_socialMedia.less":true,"public:extra.less":true},
 			time: {
-				now: 1721916273,
+				now: 1721930686,
 				today: 1721862000,
 				todayDow: 4,
 				tomorrow: 1721948400,
