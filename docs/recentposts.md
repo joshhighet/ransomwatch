@@ -4,6 +4,14 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-07-25 | [`mrhme.org`](https://google.com/search?q=mrhme.org) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-07-25 | [`Williams Construction`](https://google.com/search?q=Williams+Construction) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-07-25 | [`The Computer Merchant`](https://google.com/search?q=The+Computer+Merchant) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-07-25 | [`OfficeOps`](https://google.com/search?q=OfficeOps) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-07-25 | [`Odyssey Fitness Center`](https://google.com/search?q=Odyssey+Fitness+Center) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-07-25 | [`Golden Business Machines`](https://google.com/search?q=Golden+Business+Machines) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-07-25 | [`Gendron & Gendron`](https://google.com/search?q=Gendron+%26+Gendron) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-07-25 | [`Gateway Extrusions`](https://google.com/search?q=Gateway+Extrusions) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-07-25 | [`https://www.dkgroup.com`](https://google.com/search?q=https%3A%2F%2Fwww.dkgroup.com) | [cicada3301](https://ransomwatch.telemetry.ltd/#/profiles?id=cicada3301) |
 | 2024-07-25 | [`https://www.vossbelt.com`](https://google.com/search?q=https%3A%2F%2Fwww.vossbelt.com) | [cicada3301](https://ransomwatch.telemetry.ltd/#/profiles?id=cicada3301) |
 | 2024-07-25 | [`https://tristardisplay.com`](https://google.com/search?q=https%3A%2F%2Ftristardisplay.com) | [cicada3301](https://ransomwatch.telemetry.ltd/#/profiles?id=cicada3301) |
@@ -196,11 +204,3 @@ _last `200` posts_
 | 2024-07-18 | [`all-mode.com`](https://google.com/search?q=all-mode.com) | [donutleaks](https://ransomwatch.telemetry.ltd/#/profiles?id=donutleaks) |
 | 2024-07-18 | [`www.erma-rtmo.it`](https://google.com/search?q=www.erma-rtmo.it) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-07-18 | [`metalfrio.com.br`](https://google.com/search?q=metalfrio.com.br) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-07-18 | [`www.newcastlewa.gov`](https://google.com/search?q=www.newcastlewa.gov) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-07-18 | [`pgd.pl`](https://google.com/search?q=pgd.pl) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-07-18 | [`Lacey Serrano`](https://google.com/search?q=Lacey+Serrano) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
-| 2024-07-18 | [`Jaden Hamilton`](https://google.com/search?q=Jaden+Hamilton) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
-| 2024-07-18 | [`Yeo Nielsen`](https://google.com/search?q=Yeo+Nielsen) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
-| 2024-07-18 | [`Modern Automotive Group`](https://google.com/search?q=Modern+Automotive+Group) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
-| 2024-07-17 | [`Modernauto`](https://google.com/search?q=Modernauto) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
-| 2024-07-17 | [`Gandara Center`](https://google.com/search?q=Gandara+Center) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
