@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="description" content="DarkVault Here We Post The Clowns That Don't Pay!">
+        <title>DarkVault</title>
+        <link rel="stylesheet" href="/css/style.css">
+        <link rel="stylesheet" href="/css/index.css">
+        <link rel="stylesheet" href="/css/main.css">
+        <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+        <script src="/js/sparkle.js"></script>
+        <script src="/js/logout.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.js<"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    </head>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #171717; /* Dark background color */
+            color: #f4f4f4; /* Text color */
+        }
+
+        .navbar {
+            background-color: #252525; /* Darker gray navbar color */
+            padding: 15px;
+            text-align: center;
+            display: flex;
+            justify-content: space-between;
+        }
+
+        .navbar a {
+            color: #fff; /* Navbar link color */
+            text-decoration: none;
+            padding: 10px;
+            border-radius: 5px;
+            transition: background-color 0.3s;
+            font-weight: bold;
+        }
+
+        .navbar a:hover {
+            background-color: #333; /* Dark gray hover color */
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 20px 0;
+            background-color: #252525; /* Dark gray background color */
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            color: #f4f4f4; /* Text color */
+        }
+
+        th, td {
+            padding: 15px;
+            text-align: left;
+            border-bottom: 1px solid #333; /* Darker border color */
+        }
+
+        th {
+            background-color: #333; /* Dark gray header color */
+            color: #fff;
+        }
+
+        th.clickable {
+            cursor: pointer;
+        }
+
+        th.clickable:hover {
+            background-color: #333; /* Dark gray header hover color */
+        }
+
+        th.auto-size {
+            width: auto;
+        }
+
+        th.text-center, td.text-center {
+            text-align: center;
+        }
+
+        th.r-hide, td.r-hide {
+            display: none;
+        }
+
+        tr:nth-child(even) {
+            background-color: #2c2c2c; /* Darker gray even row color */
+        }
+
+        tr:hover {
+            background-color: #444; /* Dark gray row hover color */
+        }
+
+        .center {
+            text-align: center;
+            color: #f4f4f4; /* Centered text color */
+        }
+
+        .form-container {
+            max-width: 400px;
+            margin: 0 auto;
+            background-color: #333; /* Dark gray form background color */
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+            color: #f4f4f4;
+        }
+
+        input[type=text],
+        select,
+        option,
+        input[type=submit] {
+            line-height: 1.6;
+            color: #fff;
+            background: #252525; /* Dark gray input background color */
+            border: 0;
+            border-radius: 5px;
+            display: block;
+            -webkit-font-smoothing: antialiased;
+            outline: none;
+            padding: 10px;
+            margin-bottom: 10px;
+            width: 100%;
+        }
+
+        input[type=text]::placeholder {
+            color: #8b99a7; /* Light teal placeholder color */
+        }
+
+        input[type=submit] {
+            line-height: 1.6;
+            color: #fff;
+            background: #333; /* Dark gray submit button background color */
+            border: 0;
+            border-radius: 5px;
+            display: inline-block;
+            -webkit-font-smoothing: antialiased;
+            outline: none;
+            padding: 10px;
+            cursor: pointer;
+            transition: background-color 0.3s;
+        }
+
+        input[type=submit]:hover {
+            background-color: #252525; /* Dark gray hover color */
+        }
+    </style>
+    <body>
+    
+        <nav class="navbar navbar-default navbar-fixed-top">
+            <div class="container">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar"
+                            aria-expanded="false" aria-controls="navbar">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                </div>
+                <div id="navbar" class="collapse navbar-collapse">
+                    <ul class="nav navbar-nav">
+                        <li class="active"><a href="index.html">Home</a></li>
+                        <li><a href="doxes.html">Doxes</a></li>
+                        <li><a href="blackhat.html">BlackHat Services</a></li>
+                        <li><a href="pwned.html">Pwned Sites
+                                <p class="notif_count" style="display: none;margin-top: 4px; left:65px;height: 8px;top:8px;"></p>
+                            </a></li>
+                        <li><a href="contact.html">Contact</a></li>
+                        <li><a href="announcements.html">Announcements
+                        <li><a target="_blank" rel="nofollow" href="https://t.me/darkvaultransom">Telegram</a></li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+
+    <div class="sidebar-right">
+        <center>
+
+            <a href="https://t.me/darkvaultransom"><img src="./pics/darkvault.PNG" alt="ad-gif" border="0"></a>
+            <h5 class="announcement a-1" style="color:#2AABEE;"><u><a style="color:inherit;" href="https://t.me/darkvaultransom">DarkVault TELEGRAM</a></u></h5>
+            <h5 class="announcement a-1" style="color:#eb36b5;"><u><a style="color:inherit;" href="changelog.html">ChangeLog</a></u></h5>
+        </center>
+
+
+        <h6 style="margin-top: 14px;">BTC Wallet</h6>
+        <table class="table table-striped table-hover">
+        <thead>
+                <tr>
+                    <th class="text-center auto-size">bc1qpcee40tr99xr5rpgwax808hd24fuza7ft75ced</th
+
+                                        <tr>
+
+                                        </tr>
+            </thead>
+            <tbody>
+                
+
+</body>
+</html>

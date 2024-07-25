@@ -1,0 +1,564 @@
+<!DOCTYPE html>
+<html lang='en-us'>
+    <head>
+
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width,initial-scale=1.0"/>
+<link rel="icon" href='/xfavicon-32x32.png.pagespeed.ic.-lPk2Rlh_U.jpg'/>
+
+<title>
+
+    Data Leak
+
+</title>
+
+
+ 
+
+
+
+
+
+<link rel="stylesheet" href="/css/main.min.04f977f7bc11b8ade6f3a2a1ad13e37fa935efd1bba42d79c4e2f3a7b00db787fd96bd92493c3e637c580246b66468bf.css.pagespeed.ce.Vs51LT23v7.css" integrity="sha384-BPl397wRuK3m86KhrRPjf6k179G7pC15xOLzp7ANt4f9lr2SSTw+Y3xYAka2ZGi/"/>
+
+
+
+
+<meta name="description" content=""/>
+<meta property="og:title" content=""/>
+<meta property="og:type" content="website"/>
+<meta property="og:url" content=""/>
+<meta property="og:image" content=""/>
+<meta property="og:description" content=""/>
+<meta name="twitter:card" content=""/>
+<meta name="twitter:site" content=""/>
+<meta name="twitter:creator" content=""/>
+
+    </head>
+    
+    
+    <body class="flex flex-col min-h-screen dark:bg-warmgray-800">
+    <style>.mopen{float:left;display:block;background:rgba(255,255,255,0);position:relative;z-index:1000}.mopen span{transition:all .3s;transform:rotate(0deg);width:50px;height:2px;display:block;position:absolute;left:50%;top:50%;margin-left:-25px}.mopen .top{transform:translateY(-17px)}.mopen .bottom{transform:translateY(17px)}.mopen.is-open span{background:#fff}.mopen.is-open .middle{background:rgba(255,255,255,0)}.mopen.is-open .top{transform:rotate(-45deg) translateY(0)}.mopen.is-open .bottom{transform:rotate(45deg) translateY(0)}#overlay{visibility:hidden;display:flex;transition:.3s linear;position:absolute;z-index:900;align-items:center;justify-content:center;left:0;top:0;width:100%;height:100%;background:#222;opacity:0}#overlay.open{visibility:visible;opacity:.95}body.scroll-lock{position:fixed;left:0;right:0;top:0;bottom:0}</style>
+<header class="bg-white dark:bg-warmgray-800 dark:text-white">
+    <div id="overlay">
+        <ul class="text-center list-none text-white text-3xl">
+            
+            <li class="p-2">
+                <a href="/about/">
+                    <span>About</span>
+                </a>
+            </li>
+            
+            <li class="p-2">
+                <a href="/contact/">
+                    <span>Contact</span>
+                </a>
+            </li>
+            
+            
+        </ul>
+    </div>
+
+    <nav class="flex items-center justify-between flex-wrap p-4 dark:bg-black bg-gray-100">
+        <div class="flex items-center flex-shrink-0 text-2xl mx-6">
+          
+
+            <a href="http://dataleakypypu7uwblm5kttv726l3iripago6p336xjnbstkjwrlnlid.onion/"><img src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAUDBAQEAwUEBAQFBQUGBwwIBwcHBw8LCwkMEQ8SEhEPERETFhwXExQaFRERGCEYGh0dHx8fExciJCIeJBweHx7/2wBDAQUFBQcGBw4ICA4eFBEUHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh7/wAARCAAgAC0DASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAABgcDBAgCBf/EAC0QAAEDAwMCBQMFAQAAAAAAAAECAwQABREGEiEHExQxQVFhIjJCFSMzUnGR/8QAFwEBAQEBAAAAAAAAAAAAAAAABQQDBv/EACkRAAEDAgIJBQAAAAAAAAAAAAEAAhEDBAUxEhMhQVFhcaHwIjKx0fH/2gAMAwEAAhEDEQA/ANR6911Y9Fm3JvHiSu4uqZjIYbCipSU7iOSMcVHcNf2aHaI9yES6SUSLg5bkMx4hW7329+5JT8dtfPxVjqHpq36jsZEq3eNlQ9z8La+tlaHdpH0rQQRkEjzwaWlug6ft1jdeu1glNXZ2Ypzwq7rI3ArCtzqcrOxR7iskYyT8VBdXRt3EuMNiZ838lqymXjYvfV100OmA3PcTd2oj2RHechFCHlBaEFKSSASC4nPtz7VCjr7oRcgMobvKiY5fyIefpDRdPG7P2AnOMcedL26RdKtyo7MbRkDwjzgbTGkz3nG0hW1RCUFe1JJQgnA5FF1nh6JkQ2oc/TDKWFKCnXzNccUMs9n7ydxT2ztxnGPmjW45QJA1g28j9fK0Nu4DJFVv6tabm3n9JTAvrMpMlmM+HoCkiO46ra2HDn6dx8qYFBsXpxotV0avse3veJU8iV3RNew6tKy4ha078Lwo5G4HHAHAoypylpx6lOY3Lh9xLLDjyvtQkqPPoBms2apuRk3ebLbASVrUQkqO9KDj8snIB9le/FaLvEFFztcm3uPPMokNltTjKtq0g+oPoaBXukGn3m1Ieul6WFDBJfRn/uyicYsbi7LBSiBOf4qLepTZOkkO9MuumXVxZzk+Uh796MIbAdDJJ/IqGfRXHlycVYZg3a2J23GYmQ7JHecWFEgAkZyMewHABAxxinArovAjrUbZf7kEufy+OUZJPBA2nKcDCjxz6Vdt3RvTcEhTdzvrqgMAvTA5j/NyTigRgF7Jy68enCO6uN3RhW+it8k3PTioUxOHYWEpV/ZJJxxnPGMUe0OaW0hB09NclRJ1weK2u2W3nElAGQcgBI54ojrrbCnWpW7WVvcPB2RlUtc8luS//9k=" class="w-auto h-auto" style="float:left" alt="Data Leak"/>&nbsp;Data Leak</a>
+          
+        </div>
+        <div class="pr-4 block lg:hidden">
+            <div id="hamburgerbtn" class="flex cursor-pointer items-center w-14 h-10 py-2 rounded mopen">
+                <span class="top bg-black dark:bg-white"></span>
+                <span class="middle bg-black dark:bg-white"></span>
+                <span class="bottom bg-black dark:bg-white"></span>
+            </div>
+        </div>
+        <div class="hidden w-full ml-6 block flex-grow lg:flex lg:flex-row lg:items-center lg:w-auto" id="mobileMenu">
+            <div class="text-lg lg:flex-grow">
+            </div>
+            <div class="text-lg mt-3 lg:m-0">
+                
+                <a href="/about/" class="block mt-4 lg:inline-block lg:mt-0 hover:text-gray-500 duration-200 mr-8">
+                    About
+                </a>
+                
+                <a href="/contact/" class="block mt-4 lg:inline-block lg:mt-0 hover:text-gray-500 duration-200 mr-8">
+                    Contact
+                </a>
+                
+                <button onclick="toggleDarkMode()" class="focus:outline-none mr-5"><i class="icon-moon" id="icon"></i></button>
+            </div>
+        </div>
+    </nav>
+</header><div class="container mx-auto max-w-7xl my-4 flex-grow" id="content">
+
+<h2 class="text-4xl py-3 dark:text-white">
+    
+</h2>
+<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+    
+        
+    
+
+    
+    
+    <div class="border-b dark:border-warmgray-700">
+        <article class="p-6 dark:text-white lg:flex">
+    <a href="http://dataleakypypu7uwblm5kttv726l3iripago6p336xjnbstkjwrlnlid.onion/posts/adamshomes.com/" aria-label="Read">
+        
+        
+        <img class="rounded mx-auto w-auto h-32 lg:mx-0 mb-5 lg:mb-0" src="/img/xnovel-128x128.png.pagespeed.ic.1mvjUv78mP.png" alt="thumbnail"/>
+        
+    </a>
+    <div class="lg:ml-8">
+        <a href="http://dataleakypypu7uwblm5kttv726l3iripago6p336xjnbstkjwrlnlid.onion/posts/adamshomes.com/">
+            <h1 class="text-xl mb-2 text-decoration-underline">adamshomes.com</h1>
+        </a>
+        <p class="mb-1 text-sm opacity-40">11 words ã» 0min read</p>
+        
+            <div id="tags">
+                
+                <span class="inline-flex my-2 mr-2 leading-4 mb-2 content-center justify-center h-8 text-blue-600">
+                    <a href="http://dataleakypypu7uwblm5kttv726l3iripago6p336xjnbstkjwrlnlid.onion/tags/adams-homes">#Adams Homes</a>
+                </span>
+                
+                <span class="inline-flex my-2 mr-2 leading-4 mb-2 content-center justify-center h-8 text-blue-600">
+                    <a href="http://dataleakypypu7uwblm5kttv726l3iripago6p336xjnbstkjwrlnlid.onion/tags/realtor">#Realtor</a>
+                </span>
+                
+                <span class="inline-flex my-2 mr-2 leading-4 mb-2 content-center justify-center h-8 text-blue-600">
+                    <a href="http://dataleakypypu7uwblm5kttv726l3iripago6p336xjnbstkjwrlnlid.onion/tags/florida">#Florida</a>
+                </span>
+                
+            </div>
+        
+        <p class="opacity-70">...</p>
+    </div>
+</article>
+    </div>
+    
+    <div class="border-b dark:border-warmgray-700">
+        <article class="p-6 dark:text-white lg:flex">
+    <a href="http://dataleakypypu7uwblm5kttv726l3iripago6p336xjnbstkjwrlnlid.onion/posts/celplan.com/" aria-label="Read">
+        
+        
+        <img class="rounded mx-auto w-auto h-32 lg:mx-0 mb-5 lg:mb-0" src="/img/xnovel-128x128.png.pagespeed.ic.1mvjUv78mP.png" alt="thumbnail"/>
+        
+    </a>
+    <div class="lg:ml-8">
+        <a href="http://dataleakypypu7uwblm5kttv726l3iripago6p336xjnbstkjwrlnlid.onion/posts/celplan.com/">
+            <h1 class="text-xl mb-2 text-decoration-underline">celplan.com</h1>
+        </a>
+        <p class="mb-1 text-sm opacity-40">13 words ã» 0min read</p>
+        
+            <div id="tags">
+                
+                <span class="inline-flex my-2 mr-2 leading-4 mb-2 content-center justify-center h-8 text-blue-600">
+                    <a href="http://dataleakypypu7uwblm5kttv726l3iripago6p336xjnbstkjwrlnlid.onion/tags/celplan">#CelPlan</a>
+                </span>
+                
+                <span class="inline-flex my-2 mr-2 leading-4 mb-2 content-center justify-center h-8 text-blue-600">
+                    <a href="http://dataleakypypu7uwblm5kttv726l3iripago6p336xjnbstkjwrlnlid.onion/tags/technologies">#Technologies</a>
+                </span>
+                
+                <span class="inline-flex my-2 mr-2 leading-4 mb-2 content-center justify-center h-8 text-blue-600">
+                    <a href="http://dataleakypypu7uwblm5kttv726l3iripago6p336xjnbstkjwrlnlid.onion/tags/reston-virginia-usa">#Reston, Virginia, USA</a>
+                </span>
+                
+            </div>
+        
+        <p class="opacity-70">...</p>
+    </div>
+</article>
+    </div>
+    
+    <div class="border-b dark:border-warmgray-700">
+        <article class="p-6 dark:text-white lg:flex">
+    <a href="http://dataleakypypu7uwblm5kttv726l3iripago6p336xjnbstkjwrlnlid.onion/posts/burotec.biz/" aria-label="Read">
+        
+        
+        <img class="rounded mx-auto w-auto h-32 lg:mx-0 mb-5 lg:mb-0" src="/img/xnovel-128x128.png.pagespeed.ic.1mvjUv78mP.png" alt="thumbnail"/>
+        
+    </a>
+    <div class="lg:ml-8">
+        <a href="http://dataleakypypu7uwblm5kttv726l3iripago6p336xjnbstkjwrlnlid.onion/posts/burotec.biz/">
+            <h1 class="text-xl mb-2 text-decoration-underline">burotec.biz</h1>
+        </a>
+        <p class="mb-1 text-sm opacity-40">13 words ã» 0min read</p>
+        
+            <div id="tags">
+                
+                <span class="inline-flex my-2 mr-2 leading-4 mb-2 content-center justify-center h-8 text-blue-600">
+                    <a href="http://dataleakypypu7uwblm5kttv726l3iripago6p336xjnbstkjwrlnlid.onion/tags/burotec-s.a.">#BUROTEC S.A.</a>
+                </span>
+                
+                <span class="inline-flex my-2 mr-2 leading-4 mb-2 content-center justify-center h-8 text-blue-600">
+                    <a href="http://dataleakypypu7uwblm5kttv726l3iripago6p336xjnbstkjwrlnlid.onion/tags/charles-de-gaulle-avenue">#Charles de Gaulle avenue</a>
+                </span>
+                
+                <span class="inline-flex my-2 mr-2 leading-4 mb-2 content-center justify-center h-8 text-blue-600">
+                    <a href="http://dataleakypypu7uwblm5kttv726l3iripago6p336xjnbstkjwrlnlid.onion/tags/republic-of-congo">#Republic of Congo</a>
+                </span>
+                
+            </div>
+        
+        <p class="opacity-70">...</p>
+    </div>
+</article>
+    </div>
+    
+    <div class="border-b dark:border-warmgray-700">
+        <article class="p-6 dark:text-white lg:flex">
+    <a href="http://dataleakypypu7uwblm5kttv726l3iripago6p336xjnbstkjwrlnlid.onion/posts/lindostar.it/" aria-label="Read">
+        
+        
+        <img class="rounded mx-auto w-auto h-32 lg:mx-0 mb-5 lg:mb-0" src="/img/xnovel-128x128.png.pagespeed.ic.1mvjUv78mP.png" alt="thumbnail"/>
+        
+    </a>
+    <div class="lg:ml-8">
+        <a href="http://dataleakypypu7uwblm5kttv726l3iripago6p336xjnbstkjwrlnlid.onion/posts/lindostar.it/">
+            <h1 class="text-xl mb-2 text-decoration-underline">lindostar.it</h1>
+        </a>
+        <p class="mb-1 text-sm opacity-40">13 words ã» 0min read</p>
+        
+            <div id="tags">
+                
+                <span class="inline-flex my-2 mr-2 leading-4 mb-2 content-center justify-center h-8 text-blue-600">
+                    <a href="http://dataleakypypu7uwblm5kttv726l3iripago6p336xjnbstkjwrlnlid.onion/tags/lindostar">#LINDOSTAR</a>
+                </span>
+                
+                <span class="inline-flex my-2 mr-2 leading-4 mb-2 content-center justify-center h-8 text-blue-600">
+                    <a href="http://dataleakypypu7uwblm5kttv726l3iripago6p336xjnbstkjwrlnlid.onion/tags/yesweclean">#YESWECLEAN</a>
+                </span>
+                
+                <span class="inline-flex my-2 mr-2 leading-4 mb-2 content-center justify-center h-8 text-blue-600">
+                    <a href="http://dataleakypypu7uwblm5kttv726l3iripago6p336xjnbstkjwrlnlid.onion/tags/italy">#ITALY</a>
+                </span>
+                
+            </div>
+        
+        <p class="opacity-70">...</p>
+    </div>
+</article>
+    </div>
+    
+    <div class="border-b dark:border-warmgray-700">
+        <article class="p-6 dark:text-white lg:flex">
+    <a href="http://dataleakypypu7uwblm5kttv726l3iripago6p336xjnbstkjwrlnlid.onion/posts/burotec.biz/" aria-label="Read">
+        
+        
+        <img class="rounded mx-auto w-auto h-32 lg:mx-0 mb-5 lg:mb-0" src="/img/xnovel-128x128.png.pagespeed.ic.1mvjUv78mP.png" alt="thumbnail"/>
+        
+    </a>
+    <div class="lg:ml-8">
+        <a href="http://dataleakypypu7uwblm5kttv726l3iripago6p336xjnbstkjwrlnlid.onion/posts/burotec.biz/">
+            <h1 class="text-xl mb-2 text-decoration-underline">panzersolutions.com</h1>
+        </a>
+        <p class="mb-1 text-sm opacity-40">13 words ã» 0min read</p>
+        
+            <div id="tags">
+                
+                <span class="inline-flex my-2 mr-2 leading-4 mb-2 content-center justify-center h-8 text-blue-600">
+                    <a href="http://dataleakypypu7uwblm5kttv726l3iripago6p336xjnbstkjwrlnlid.onion/tags/panzer-solutions">#Panzer Solutions</a>
+                </span>
+                
+                <span class="inline-flex my-2 mr-2 leading-4 mb-2 content-center justify-center h-8 text-blue-600">
+                    <a href="http://dataleakypypu7uwblm5kttv726l3iripago6p336xjnbstkjwrlnlid.onion/tags/it-project">#IT Project</a>
+                </span>
+                
+                <span class="inline-flex my-2 mr-2 leading-4 mb-2 content-center justify-center h-8 text-blue-600">
+                    <a href="http://dataleakypypu7uwblm5kttv726l3iripago6p336xjnbstkjwrlnlid.onion/tags/business-analyst">#Business Analyst</a>
+                </span>
+                
+            </div>
+        
+        <p class="opacity-70">...</p>
+    </div>
+</article>
+    </div>
+    
+    <div class="border-b dark:border-warmgray-700">
+        <article class="p-6 dark:text-white lg:flex">
+    <a href="http://dataleakypypu7uwblm5kttv726l3iripago6p336xjnbstkjwrlnlid.onion/posts/www.itasnatta.edu.it/" aria-label="Read">
+        
+        
+        <img class="rounded mx-auto w-auto h-32 lg:mx-0 mb-5 lg:mb-0" src="/img/xnovel-128x128.png.pagespeed.ic.1mvjUv78mP.png" alt="thumbnail"/>
+        
+    </a>
+    <div class="lg:ml-8">
+        <a href="http://dataleakypypu7uwblm5kttv726l3iripago6p336xjnbstkjwrlnlid.onion/posts/www.itasnatta.edu.it/">
+            <h1 class="text-xl mb-2 text-decoration-underline">www.itasnatta.edu.it</h1>
+        </a>
+        <p class="mb-1 text-sm opacity-40">13 words ã» 0min read</p>
+        
+            <div id="tags">
+                
+                <span class="inline-flex my-2 mr-2 leading-4 mb-2 content-center justify-center h-8 text-blue-600">
+                    <a href="http://dataleakypypu7uwblm5kttv726l3iripago6p336xjnbstkjwrlnlid.onion/tags/istituto-di-istruzione-superiore">#ISTITUTO DI ISTRUZIONE SUPERIORE</a>
+                </span>
+                
+                <span class="inline-flex my-2 mr-2 leading-4 mb-2 content-center justify-center h-8 text-blue-600">
+                    <a href="http://dataleakypypu7uwblm5kttv726l3iripago6p336xjnbstkjwrlnlid.onion/tags/giulio-natta">#Giulio Natta</a>
+                </span>
+                
+                <span class="inline-flex my-2 mr-2 leading-4 mb-2 content-center justify-center h-8 text-blue-600">
+                    <a href="http://dataleakypypu7uwblm5kttv726l3iripago6p336xjnbstkjwrlnlid.onion/tags/milano-mi">#MILANO - MI</a>
+                </span>
+                
+            </div>
+        
+        <p class="opacity-70">...</p>
+    </div>
+</article>
+    </div>
+    
+    <div class="border-b dark:border-warmgray-700">
+        <article class="p-6 dark:text-white lg:flex">
+    <a href="http://dataleakypypu7uwblm5kttv726l3iripago6p336xjnbstkjwrlnlid.onion/posts/thunderbirdcc.org/" aria-label="Read">
+        
+        
+        <img class="rounded mx-auto w-auto h-32 lg:mx-0 mb-5 lg:mb-0" src="/img/xnovel-128x128.png.pagespeed.ic.1mvjUv78mP.png" alt="thumbnail"/>
+        
+    </a>
+    <div class="lg:ml-8">
+        <a href="http://dataleakypypu7uwblm5kttv726l3iripago6p336xjnbstkjwrlnlid.onion/posts/thunderbirdcc.org/">
+            <h1 class="text-xl mb-2 text-decoration-underline">thunderbirdcc.org</h1>
+        </a>
+        <p class="mb-1 text-sm opacity-40">18 words ã» 0min read</p>
+        
+            <div id="tags">
+                
+                <span class="inline-flex my-2 mr-2 leading-4 mb-2 content-center justify-center h-8 text-blue-600">
+                    <a href="http://dataleakypypu7uwblm5kttv726l3iripago6p336xjnbstkjwrlnlid.onion/tags/thunderbird-country-club">#Thunderbird Country Club</a>
+                </span>
+                
+                <span class="inline-flex my-2 mr-2 leading-4 mb-2 content-center justify-center h-8 text-blue-600">
+                    <a href="http://dataleakypypu7uwblm5kttv726l3iripago6p336xjnbstkjwrlnlid.onion/tags/country-club">#Country Club</a>
+                </span>
+                
+                <span class="inline-flex my-2 mr-2 leading-4 mb-2 content-center justify-center h-8 text-blue-600">
+                    <a href="http://dataleakypypu7uwblm5kttv726l3iripago6p336xjnbstkjwrlnlid.onion/tags/rancho-mirage">#Rancho Mirage</a>
+                </span>
+                
+            </div>
+        
+        <p class="opacity-70">...</p>
+    </div>
+</article>
+    </div>
+    
+    <div class="border-b dark:border-warmgray-700">
+        <article class="p-6 dark:text-white lg:flex">
+    <a href="http://dataleakypypu7uwblm5kttv726l3iripago6p336xjnbstkjwrlnlid.onion/posts/cityofpensacola.com/" aria-label="Read">
+        
+        
+        <img class="rounded mx-auto w-auto h-32 lg:mx-0 mb-5 lg:mb-0" src="/img/xnovel-128x128.png.pagespeed.ic.1mvjUv78mP.png" alt="thumbnail"/>
+        
+    </a>
+    <div class="lg:ml-8">
+        <a href="http://dataleakypypu7uwblm5kttv726l3iripago6p336xjnbstkjwrlnlid.onion/posts/cityofpensacola.com/">
+            <h1 class="text-xl mb-2 text-decoration-underline">cityofpensacola.com</h1>
+        </a>
+        <p class="mb-1 text-sm opacity-40">18 words ã» 0min read</p>
+        
+            <div id="tags">
+                
+                <span class="inline-flex my-2 mr-2 leading-4 mb-2 content-center justify-center h-8 text-blue-600">
+                    <a href="http://dataleakypypu7uwblm5kttv726l3iripago6p336xjnbstkjwrlnlid.onion/tags/cyberattack">#cyberattack</a>
+                </span>
+                
+                <span class="inline-flex my-2 mr-2 leading-4 mb-2 content-center justify-center h-8 text-blue-600">
+                    <a href="http://dataleakypypu7uwblm5kttv726l3iripago6p336xjnbstkjwrlnlid.onion/tags/municipalities">#municipalities</a>
+                </span>
+                
+                <span class="inline-flex my-2 mr-2 leading-4 mb-2 content-center justify-center h-8 text-blue-600">
+                    <a href="http://dataleakypypu7uwblm5kttv726l3iripago6p336xjnbstkjwrlnlid.onion/tags/florida">#Florida</a>
+                </span>
+                
+            </div>
+        
+        <p class="opacity-70">...</p>
+    </div>
+</article>
+    </div>
+    
+    <div class="border-b dark:border-warmgray-700">
+        <article class="p-6 dark:text-white lg:flex">
+    <a href="http://dataleakypypu7uwblm5kttv726l3iripago6p336xjnbstkjwrlnlid.onion/posts/www.tankerska.hr/" aria-label="Read">
+        
+        
+        <img class="rounded mx-auto w-auto h-32 lg:mx-0 mb-5 lg:mb-0" src="/img/xnovel-128x128.png.pagespeed.ic.1mvjUv78mP.png" alt="thumbnail"/>
+        
+    </a>
+    <div class="lg:ml-8">
+        <a href="http://dataleakypypu7uwblm5kttv726l3iripago6p336xjnbstkjwrlnlid.onion/posts/www.tankerska.hr/">
+            <h1 class="text-xl mb-2 text-decoration-underline">www.tankerska.hr</h1>
+        </a>
+        <p class="mb-1 text-sm opacity-40">17 words ã» 0min read</p>
+        
+            <div id="tags">
+                
+                <span class="inline-flex my-2 mr-2 leading-4 mb-2 content-center justify-center h-8 text-blue-600">
+                    <a href="http://dataleakypypu7uwblm5kttv726l3iripago6p336xjnbstkjwrlnlid.onion/tags/tankerska">#Tankerska</a>
+                </span>
+                
+                <span class="inline-flex my-2 mr-2 leading-4 mb-2 content-center justify-center h-8 text-blue-600">
+                    <a href="http://dataleakypypu7uwblm5kttv726l3iripago6p336xjnbstkjwrlnlid.onion/tags/marine-shipping-and-transportation">#Marine Shipping and Transportation</a>
+                </span>
+                
+                <span class="inline-flex my-2 mr-2 leading-4 mb-2 content-center justify-center h-8 text-blue-600">
+                    <a href="http://dataleakypypu7uwblm5kttv726l3iripago6p336xjnbstkjwrlnlid.onion/tags/croatia">#Croatia</a>
+                </span>
+                
+            </div>
+        
+        <p class="opacity-70">...</p>
+    </div>
+</article>
+    </div>
+    
+    <div class="border-b dark:border-warmgray-700">
+        <article class="p-6 dark:text-white lg:flex">
+    <a href="http://dataleakypypu7uwblm5kttv726l3iripago6p336xjnbstkjwrlnlid.onion/posts/www.bakertriangle.com/" aria-label="Read">
+        
+        
+        <img class="rounded mx-auto w-auto h-32 lg:mx-0 mb-5 lg:mb-0" src="/img/xnovel-128x128.png.pagespeed.ic.1mvjUv78mP.png" alt="thumbnail"/>
+        
+    </a>
+    <div class="lg:ml-8">
+        <a href="http://dataleakypypu7uwblm5kttv726l3iripago6p336xjnbstkjwrlnlid.onion/posts/www.bakertriangle.com/">
+            <h1 class="text-xl mb-2 text-decoration-underline">Baker Triangle</h1>
+        </a>
+        <p class="mb-1 text-sm opacity-40">14 words ã» 0min read</p>
+        
+            <div id="tags">
+                
+                <span class="inline-flex my-2 mr-2 leading-4 mb-2 content-center justify-center h-8 text-blue-600">
+                    <a href="http://dataleakypypu7uwblm5kttv726l3iripago6p336xjnbstkjwrlnlid.onion/tags/baker-triangle">#Baker Triangle</a>
+                </span>
+                
+                <span class="inline-flex my-2 mr-2 leading-4 mb-2 content-center justify-center h-8 text-blue-600">
+                    <a href="http://dataleakypypu7uwblm5kttv726l3iripago6p336xjnbstkjwrlnlid.onion/tags/construction">#Construction</a>
+                </span>
+                
+                <span class="inline-flex my-2 mr-2 leading-4 mb-2 content-center justify-center h-8 text-blue-600">
+                    <a href="http://dataleakypypu7uwblm5kttv726l3iripago6p336xjnbstkjwrlnlid.onion/tags/united-states">#United States</a>
+                </span>
+                
+            </div>
+        
+        <p class="opacity-70">...</p>
+    </div>
+</article>
+    </div>
+    
+    <div class="border-b dark:border-warmgray-700">
+        <article class="p-6 dark:text-white lg:flex">
+    <a href="http://dataleakypypu7uwblm5kttv726l3iripago6p336xjnbstkjwrlnlid.onion/posts/goughhomes.com/" aria-label="Read">
+        
+        
+        <img class="rounded mx-auto w-auto h-32 lg:mx-0 mb-5 lg:mb-0" src="/img/xnovel-128x128.png.pagespeed.ic.1mvjUv78mP.png" alt="thumbnail"/>
+        
+    </a>
+    <div class="lg:ml-8">
+        <a href="http://dataleakypypu7uwblm5kttv726l3iripago6p336xjnbstkjwrlnlid.onion/posts/goughhomes.com/">
+            <h1 class="text-xl mb-2 text-decoration-underline">goughhomes.com</h1>
+        </a>
+        <p class="mb-1 text-sm opacity-40">13 words ã» 0min read</p>
+        
+            <div id="tags">
+                
+                <span class="inline-flex my-2 mr-2 leading-4 mb-2 content-center justify-center h-8 text-blue-600">
+                    <a href="http://dataleakypypu7uwblm5kttv726l3iripago6p336xjnbstkjwrlnlid.onion/tags/gough-homes">#GOUGH HOMES</a>
+                </span>
+                
+                <span class="inline-flex my-2 mr-2 leading-4 mb-2 content-center justify-center h-8 text-blue-600">
+                    <a href="http://dataleakypypu7uwblm5kttv726l3iripago6p336xjnbstkjwrlnlid.onion/tags/gough-construction">#GOUGH CONSTRUCTION</a>
+                </span>
+                
+                <span class="inline-flex my-2 mr-2 leading-4 mb-2 content-center justify-center h-8 text-blue-600">
+                    <a href="http://dataleakypypu7uwblm5kttv726l3iripago6p336xjnbstkjwrlnlid.onion/tags/united-states">#United States</a>
+                </span>
+                
+            </div>
+        
+        <p class="opacity-70">...</p>
+    </div>
+</article>
+    </div>
+    
+    <div class="border-b dark:border-warmgray-700">
+        <article class="p-6 dark:text-white lg:flex">
+    <a href="http://dataleakypypu7uwblm5kttv726l3iripago6p336xjnbstkjwrlnlid.onion/posts/www.htetech.com/" aria-label="Read">
+        
+        
+        <img class="rounded mx-auto w-auto h-32 lg:mx-0 mb-5 lg:mb-0" src="/img/xnovel-128x128.png.pagespeed.ic.1mvjUv78mP.png" alt="thumbnail"/>
+        
+    </a>
+    <div class="lg:ml-8">
+        <a href="http://dataleakypypu7uwblm5kttv726l3iripago6p336xjnbstkjwrlnlid.onion/posts/www.htetech.com/">
+            <h1 class="text-xl mb-2 text-decoration-underline">HTE Technologies</h1>
+        </a>
+        <p class="mb-1 text-sm opacity-40">13 words ã» 0min read</p>
+        
+            <div id="tags">
+                
+                <span class="inline-flex my-2 mr-2 leading-4 mb-2 content-center justify-center h-8 text-blue-600">
+                    <a href="http://dataleakypypu7uwblm5kttv726l3iripago6p336xjnbstkjwrlnlid.onion/tags/manufacturing-productivity">#MANUFACTURING PRODUCTIVITY</a>
+                </span>
+                
+                <span class="inline-flex my-2 mr-2 leading-4 mb-2 content-center justify-center h-8 text-blue-600">
+                    <a href="http://dataleakypypu7uwblm5kttv726l3iripago6p336xjnbstkjwrlnlid.onion/tags/factory-automation-and-industrial-productivity">#Factory Automation and Industrial Productivity</a>
+                </span>
+                
+                <span class="inline-flex my-2 mr-2 leading-4 mb-2 content-center justify-center h-8 text-blue-600">
+                    <a href="http://dataleakypypu7uwblm5kttv726l3iripago6p336xjnbstkjwrlnlid.onion/tags/united-states">#United States</a>
+                </span>
+                
+            </div>
+        
+        <p class="opacity-70">...</p>
+    </div>
+</article>
+    </div>
+    
+</div>
+
+
+<nav aria-label="page navigation">
+    <ul class="flex list-none my-5 p-0 justify-center">
+        
+        
+
+        
+
+        
+             
+            <li class="page-item active"><a href="/" class="shadow-md mx-2 py-3 px-5 rounded-full relative block border-white border-0 duration-100 bg-blue-600 border-blue-600 text-white hover:border-blue-700 dark:border-gray-600">1</a></li>
+            
+        
+            
+             
+            <li class="page-item"><a href="/page/2/" class="shadow-md mx-2 py-3 px-5 rounded-full relative block border-white border-0 duration-100 bg-white text-blue-600 hover:bg-gray-400 hover:text-blue-700 dark:bg-warmgray-900 dark:border-gray-600 dark:hover:bg-warmgray-700">2</a></li>
+            
+        
+
+        
+        <li class="page-item"><a href="/page/2/" rel="next" class="shadow-md mx-2 py-3 px-5 rounded-full relative block border-white border-0 duration-100  bg-white text-blue-600 hover:bg-gray-400 hover:text-blue-700 dark:bg-warmgray-900 dark:border-gray-600 dark:hover:bg-warmgray-700">Next</a></li>
+        
+
+        
+        
+    </ul>
+</nav>
+
+
+        </div><footer class="bg-white dark:bg-warmgray-800 dark:text-white pt-5 pb-5 bg-gray-100">
+  <div class="container mx-auto px-4 text-center">
+    <p>&copy;2024 </p>
+  </div>
+</footer>
+<script>function toggleNav(){var hamburger=document.getElementById("hamburgerbtn");var overlay=document.getElementById("overlay");var body=document.body;hamburger.addEventListener("click",function(){overlay.classList.toggle("open");hamburger.classList.toggle("is-open");body.classList.toggle("scroll-lock");});}toggleNav();var icon=document.getElementById("icon");if(document.documentElement.classList.contains("dark")||localStorage.theme==='dark'||(!('theme'in localStorage)&&window.matchMedia('(prefers-color-scheme: dark)').matches)){icon.classList.remove("icon-moon");icon.classList.add("icon-sun");document.documentElement.classList.add('dark')}else{document.documentElement.classList.remove('dark')}function toggleDarkMode(){if(document.documentElement.classList.contains('dark')){icon.classList.remove("icon-sun");icon.classList.add("icon-moon");document.documentElement.classList.remove('dark')
+localStorage.theme='light'}else{icon.classList.remove("icon-moon");icon.classList.add("icon-sun");document.documentElement.classList.add('dark')
+localStorage.theme='dark'}}</script></body>
+</html>
