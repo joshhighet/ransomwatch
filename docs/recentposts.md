@@ -111,6 +111,9 @@ _last `200` posts_
 | 2024-07-25 | [`www.raffmetal.it`](https://google.com/search?q=www.raffmetal.it) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
 | 2024-07-25 | [`mainlandmachinery.com`](https://google.com/search?q=mainlandmachinery.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
 | 2024-07-25 | [`www.rcc911.org`](https://google.com/search?q=www.rcc911.org) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
+| 2024-07-25 | [`BLEnergy Sensitive Leak`](https://google.com/search?q=BLEnergy+Sensitive+Leak) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
+| 2024-07-25 | [`crimsonwinegroup.com`](https://google.com/search?q=crimsonwinegroup.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
+| 2024-07-25 | [`Insula Group`](https://google.com/search?q=Insula+Group) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-07-25 | [`Stienemann`](https://google.com/search?q=Stienemann) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2024-07-25 | [`www.baiminstitute.org/`](https://google.com/search?q=www.baiminstitute.org%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-07-25 | [`http://www.pojoaque.org`](https://google.com/search?q=http%3A%2F%2Fwww.pojoaque.org) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2024-07-16 | [`www.benchinternational.com`](https://google.com/search?q=www.benchinternational.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-07-16 | [`www.cameronhodges.com`](https://google.com/search?q=www.cameronhodges.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-07-16 | [`Lantronix Inc.`](https://google.com/search?q=Lantronix+Inc.) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2024-07-16 | [`HOYA Corporation`](https://google.com/search?q=HOYA+Corporation) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2024-07-16 | [`Braum's Inc`](https://google.com/search?q=Braum%27s+Inc) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2024-07-16 | [`Conexus MedStaff`](https://google.com/search?q=Conexus+MedStaff) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
