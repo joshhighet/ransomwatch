@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-07-25 | [`Odessa College`](https://google.com/search?q=Odessa+College) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
+| 2024-07-25 | [`Environmental Design International`](https://google.com/search?q=Environmental+Design+International) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-07-25 | [`KMLG`](https://google.com/search?q=KMLG) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-07-25 | [`Empereon Constar`](https://google.com/search?q=Empereon+Constar) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-07-25 | [`EHS Partnerships`](https://google.com/search?q=EHS+Partnerships) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-07-17 | [`www.hlbpr.com`](https://google.com/search?q=www.hlbpr.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-07-17 | [`isometrix.com\$45.8M\USA\126GB\&lt;1% DISCLOSED`](https://google.com/search?q=isometrix.com%5C%2445.8M%5CUSA%5C126GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-07-17 | [`https://www.groupepro-b.com`](https://google.com/search?q=https%3A%2F%2Fwww.groupepro-b.com) | [cicada3301](https://ransomwatch.telemetry.ltd/#/profiles?id=cicada3301) |
-| 2024-07-17 | [`The Law Office of Omar O. Vargas, P.C.`](https://google.com/search?q=The+Law+Office+of+Omar+O.+Vargas%2C+P.C.) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
-| 2024-07-17 | [`STUDIO NOTARILE BUCCI – OLMI`](https://google.com/search?q=STUDIO+NOTARILE+BUCCI+%E2%80%93+OLMI) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
