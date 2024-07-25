@@ -4,6 +4,10 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-07-25 | [`Empereon Constar`](https://google.com/search?q=Empereon+Constar) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
+| 2024-07-25 | [`EHS Partnerships`](https://google.com/search?q=EHS+Partnerships) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
+| 2024-07-25 | [`The Law Office of Omar O. Vargas, P.C. Data Leak`](https://google.com/search?q=The+Law+Office+of+Omar+O.+Vargas%2C+P.C.+Data+Leak) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
+| 2024-07-25 | [`SH Pension Data Leak`](https://google.com/search?q=SH+Pension+Data+Leak) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2024-07-25 | [`Physical & Occupational Therapy Examiners ofTexas`](https://google.com/search?q=Physical+%26+Occupational+Therapy+Examiners+ofTexas) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-07-25 | [`THE  FIRST SHAMING`](https://google.com/search?q=THE++FIRST+SHAMING) | [nullbulge](https://ransomwatch.telemetry.ltd/#/profiles?id=nullbulge) |
 | 2024-07-25 | [`Second Punch`](https://google.com/search?q=Second+Punch) | [nullbulge](https://ransomwatch.telemetry.ltd/#/profiles?id=nullbulge) |
@@ -200,7 +204,3 @@ _last `200` posts_
 | 2024-07-17 | [`The Law Office of Omar O. Vargas, P.C.`](https://google.com/search?q=The+Law+Office+of+Omar+O.+Vargas%2C+P.C.) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2024-07-17 | [`STUDIO NOTARILE BUCCI – OLMI`](https://google.com/search?q=STUDIO+NOTARILE+BUCCI+%E2%80%93+OLMI) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2024-07-16 | [`ceopag.com.br / ceofood.com.br`](https://google.com/search?q=ceopag.com.br+%2F+ceofood.com.br) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-07-16 | [`www.cloudeurope.it/`](https://google.com/search?q=www.cloudeurope.it%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-07-16 | [`nepa.gov.af/`](https://google.com/search?q=nepa.gov.af%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-07-16 | [`www.benchinternational.com`](https://google.com/search?q=www.benchinternational.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-07-16 | [`www.cameronhodges.com`](https://google.com/search?q=www.cameronhodges.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
