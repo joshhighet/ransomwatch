@@ -4,6 +4,11 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-07-26 | [`City of Cold Lake`](https://google.com/search?q=City+of+Cold+Lake) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
+| 2024-07-26 | [`summervillepolice.com`](https://google.com/search?q=summervillepolice.com) | [embargo](https://ransomwatch.telemetry.ltd/#/profiles?id=embargo) |
+| 2024-07-26 | [`blankstyle.com`](https://google.com/search?q=blankstyle.com) | [darkvault](https://ransomwatch.telemetry.ltd/#/profiles?id=darkvault) |
+| 2024-07-26 | [`Augusta Orthopedic`](https://google.com/search?q=Augusta+Orthopedic) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2024-07-26 | [`Karvo Companies, Inc.`](https://google.com/search?q=Karvo+Companies%2C+Inc.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-07-26 | [`www.panitchlaw.com/`](https://google.com/search?q=www.panitchlaw.com%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-07-26 | [`www.newcastlewa.gov/`](https://google.com/search?q=www.newcastlewa.gov%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-07-26 | [`www.erma-rtmo.it/`](https://google.com/search?q=www.erma-rtmo.it%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -199,8 +204,3 @@ _last `200` posts_
 | 2024-07-20 | [`www.garudafood.com`](https://google.com/search?q=www.garudafood.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-07-20 | [`Queens County Public Administrator`](https://google.com/search?q=Queens+County+Public+Administrator) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2024-07-20 | [`www.zepter.de/`](https://google.com/search?q=www.zepter.de%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-07-20 | [`https://ecfgroup.com/en/brand/reward-hospitality/;https://www.rewardhospitality.com.au/`](https://google.com/search?q=https%3A%2F%2Fecfgroup.com%2Fen%2Fbrand%2Freward-hospitality%2F%3Bhttps%3A%2F%2Fwww.rewardhospitality.com.au%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
-| 2024-07-20 | [`ESET. PREMIUM.`](https://google.com/search?q=ESET.+PREMIUM.) | [donutleaks](https://ransomwatch.telemetry.ltd/#/profiles?id=donutleaks) |
-| 2024-07-20 | [`Doodle Tech`](https://google.com/search?q=Doodle+Tech) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
-| 2024-07-20 | [`www.kumagaigumi.co.jp`](https://google.com/search?q=www.kumagaigumi.co.jp) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-07-19 | [`ceopag.com.br/`](https://google.com/search?q=ceopag.com.br%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
