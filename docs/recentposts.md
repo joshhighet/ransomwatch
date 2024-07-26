@@ -4,6 +4,10 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-07-26 | [`Innovalve 3TB Data Leak ( $300M )`](https://google.com/search?q=Innovalve+3TB+Data+Leak+%28+%24300M+%29) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
+| 2024-07-26 | [`ach.co.th`](https://google.com/search?q=ach.co.th) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-07-26 | [`bpjaguar.com`](https://google.com/search?q=bpjaguar.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-07-26 | [`oficina.oficinadasfinancas.com.br`](https://google.com/search?q=oficina.oficinadasfinancas.com.br) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-07-26 | [`Speed Advisory`](https://google.com/search?q=Speed+Advisory) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2024-07-25 | [`Physical & Occupational Therapy Examiners of Texas`](https://google.com/search?q=Physical+%26+Occupational+Therapy+Examiners+of+Texas) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-07-25 | [`mrhme.org`](https://google.com/search?q=mrhme.org) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -200,7 +204,3 @@ _last `200` posts_
 | 2024-07-18 | [`Santa Rosa`](https://google.com/search?q=Santa+Rosa) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-07-18 | [`Northeast Rehabilitation Hospital Network`](https://google.com/search?q=Northeast+Rehabilitation+Hospital+Network) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-07-18 | [`Next step healthcar`](https://google.com/search?q=Next+step+healthcar) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
-| 2024-07-18 | [`Infomedika`](https://google.com/search?q=Infomedika) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
-| 2024-07-18 | [`ZSZAALEJI.cz `](https://google.com/search?q=ZSZAALEJI.cz+) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
-| 2024-07-18 | [`aedifica.com/`](https://google.com/search?q=aedifica.com%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-07-18 | [`all-mode.com`](https://google.com/search?q=all-mode.com) | [donutleaks](https://ransomwatch.telemetry.ltd/#/profiles?id=donutleaks) |
