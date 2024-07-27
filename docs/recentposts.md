@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-07-27 | [`New Jersey City University`](https://google.com/search?q=New+Jersey+City+University) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2024-07-27 | [`Computer Networking Solutions`](https://google.com/search?q=Computer+Networking+Solutions) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2024-07-27 | [`The Weinstein Firm`](https://google.com/search?q=The+Weinstein+Firm) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-07-27 | [`ayurcan`](https://google.com/search?q=ayurcan) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-07-23 | [`isometrix.com\$45.8M\USA\126GB\100% DISCLOSED`](https://google.com/search?q=isometrix.com%5C%2445.8M%5CUSA%5C126GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-07-23 | [`LawDepot`](https://google.com/search?q=LawDepot) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2024-07-22 | [`www.benchinternational.com/`](https://google.com/search?q=www.benchinternational.com%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-07-22 | [`Acadian Ambulance (US)`](https://google.com/search?q=Acadian+Ambulance+%28US%29) | [daixin](https://ransomwatch.telemetry.ltd/#/profiles?id=daixin) |
