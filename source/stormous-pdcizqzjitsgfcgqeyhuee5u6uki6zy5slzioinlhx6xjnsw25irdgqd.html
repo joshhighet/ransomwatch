@@ -301,7 +301,7 @@
 						<div class="card-box height-100-p widget-style3">
 							<div class="d-flex flex-wrap">
 								<div class="widget-data">
-									<div class="weight-700 font-24 text-dark">107+</div>
+									<div class="weight-700 font-24 text-dark">108+</div>
 									<div class="font-14 text-secondary weight-500">
 										Number of victims"2021/2024"
 									</div>
@@ -352,7 +352,61 @@
 						</thead>
 						
 						
+						<tbody>						
+							<tr style="background-color: rgb(245, 143, 143);">
 						
+								<td class="table-plus">
+									<div class="name-avatar d-flex align-items-center">
+										<div class="avatar mr-2 flex-shrink-0">
+											<img src="vendors/images/companyimage/intrama-bg.png"
+												 class="border-radius-100 shadow"
+												 width="40"
+												 height="40"
+												 alt=""
+											/>
+										</div>
+										<div class="txt">
+											<div class="weight-600">intrama-bg</div>
+										</div>
+									</div>
+								</td>
+								<td>Bulgaria</td>
+								<td>120GB</td>
+								<td>intrama-bg.com</td>
+								<td>28/07/2024</td>
+								<td>
+									<div class="table-actions">
+										<div id="timer46" style="color: rgb(224, 88, 88); font-size: small;"></div>
+									</div>
+								</td>
+								<td>
+									<div class="table-actions">
+										<a href="" data-color="#265ed7"
+										 class="border-radius-100 shadow" style="width: 40px; height: 40px; background-color: #e46161; text-align: center; line-height: 40px; font-size: small;">
+										 0%
+									</div>
+								</td>
+							</tr>
+							<script>
+								var targetDate46 = new Date('July 30, 2024').getTime();
+								var timerDisplay46 = document.getElementById('timer46');
+								var timerInterval46 = setInterval(function() {
+									var now46 = new Date().getTime();
+									var distance46 = targetDate46 - now46;
+								
+									var days46 = Math.floor(distance46 / (1000 * 60 * 60 * 24));
+									var hours46 = Math.floor((distance46 % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+									var minutes46 = Math.floor((distance46 % (1000 * 60 * 60)) / (1000 * 60));
+									var seconds46 = Math.floor((distance46 % (1000 * 60)) / 1000);
+								
+									timerDisplay46.innerHTML = days46 + "d " + hours46 + "h " + minutes46 + "m " + seconds46 + "s ";
+								
+									if (distance46 < 0) {
+										clearInterval(timerInterval46);
+										timerDisplay46.innerHTML = "FINISHED";
+									}
+								}, 1000);
+							</script>
 							
 								
 						<tbody>						
