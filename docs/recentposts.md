@@ -4,6 +4,10 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-07-29 | [`delhihospital.com`](https://google.com/search?q=delhihospital.com) | [dispossessor](https://ransomwatch.telemetry.ltd/#/profiles?id=dispossessor) |
+| 2024-07-29 | [`https://qatar.vcu.edu`](https://google.com/search?q=https%3A%2F%2Fqatar.vcu.edu) | [dispossessor](https://ransomwatch.telemetry.ltd/#/profiles?id=dispossessor) |
+| 2024-07-29 | [`www.garudafood.com/`](https://google.com/search?q=www.garudafood.com%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-07-29 | [`ita.ach.co.th/`](https://google.com/search?q=ita.ach.co.th%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-07-28 | [`Ascent Group`](https://google.com/search?q=Ascent+Group) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
 | 2024-07-28 | [`zoppo.com`](https://google.com/search?q=zoppo.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
 | 2024-07-27 | [`http://hanoverhill.com`](https://google.com/search?q=http%3A%2F%2Fhanoverhill.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
@@ -200,7 +204,3 @@ _last `200` posts_
 | 2024-07-23 | [`siParadigm`](https://google.com/search?q=siParadigm) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-07-23 | [`eurovilla.hr`](https://google.com/search?q=eurovilla.hr) | [darkvault](https://ransomwatch.telemetry.ltd/#/profiles?id=darkvault) |
 | 2024-07-23 | [`Notarkammer Pfalz`](https://google.com/search?q=Notarkammer+Pfalz) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2024-07-23 | [`thesourcinggroup.com`](https://google.com/search?q=thesourcinggroup.com) | [dAn0n](https://ransomwatch.telemetry.ltd/#/profiles?id=dAn0n) |
-| 2024-07-23 | [`Win Systems`](https://google.com/search?q=Win+Systems) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2024-07-23 | [`www.byzan.com`](https://google.com/search?q=www.byzan.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-07-23 | [`verco.co.uk\$17.5M\United Kingdom\592GB\100% DISCLOSED`](https://google.com/search?q=verco.co.uk%5C%2417.5M%5CUnited+Kingdom%5C592GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
