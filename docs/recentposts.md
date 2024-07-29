@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-07-29 | [`labor-koblenz.de`](https://google.com/search?q=labor-koblenz.de) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-07-29 | [`BASF - Nunhems`](https://google.com/search?q=BASF+-+Nunhems) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2024-07-29 | [`Crownlea Group`](https://google.com/search?q=Crownlea+Group) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-07-29 | [`https://tursso.com`](https://google.com/search?q=https%3A%2F%2Ftursso.com) | [dispossessor](https://ransomwatch.telemetry.ltd/#/profiles?id=dispossessor) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-07-23 | [`Regas (regasenergy.com)`](https://google.com/search?q=Regas+%28regasenergy.com%29) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2024-07-23 | [`forestparkga.gov`](https://google.com/search?q=forestparkga.gov) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2024-07-23 | [`CALDAN Conveyor`](https://google.com/search?q=CALDAN+Conveyor) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2024-07-23 | [`Electroalfa`](https://google.com/search?q=Electroalfa) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
