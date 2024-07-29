@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-07-29 | [`Al-Karam Textile Mills Pvt`](https://google.com/search?q=Al-Karam+Textile+Mills+Pvt) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2024-07-29 | [`delhihospital.com`](https://google.com/search?q=delhihospital.com) | [dispossessor](https://ransomwatch.telemetry.ltd/#/profiles?id=dispossessor) |
 | 2024-07-29 | [`https://qatar.vcu.edu`](https://google.com/search?q=https%3A%2F%2Fqatar.vcu.edu) | [dispossessor](https://ransomwatch.telemetry.ltd/#/profiles?id=dispossessor) |
 | 2024-07-29 | [`www.garudafood.com/`](https://google.com/search?q=www.garudafood.com%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-07-23 | [`sigmacontrol.eu`](https://google.com/search?q=sigmacontrol.eu) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-07-23 | [`siParadigm`](https://google.com/search?q=siParadigm) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-07-23 | [`eurovilla.hr`](https://google.com/search?q=eurovilla.hr) | [darkvault](https://ransomwatch.telemetry.ltd/#/profiles?id=darkvault) |
-| 2024-07-23 | [`Notarkammer Pfalz`](https://google.com/search?q=Notarkammer+Pfalz) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
