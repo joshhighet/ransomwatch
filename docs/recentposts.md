@@ -4,6 +4,10 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-07-29 | [`https://tursso.com`](https://google.com/search?q=https%3A%2F%2Ftursso.com) | [dispossessor](https://ransomwatch.telemetry.ltd/#/profiles?id=dispossessor) |
+| 2024-07-29 | [`http://airedentalarts.com`](https://google.com/search?q=http%3A%2F%2Fairedentalarts.com) | [dispossessor](https://ransomwatch.telemetry.ltd/#/profiles?id=dispossessor) |
+| 2024-07-29 | [`The Gill Corporation`](https://google.com/search?q=The+Gill+Corporation) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
+| 2024-07-29 | [`Priefert`](https://google.com/search?q=Priefert) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-07-29 | [`Al-Karam Textile Mills Pvt`](https://google.com/search?q=Al-Karam+Textile+Mills+Pvt) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2024-07-29 | [`delhihospital.com`](https://google.com/search?q=delhihospital.com) | [dispossessor](https://ransomwatch.telemetry.ltd/#/profiles?id=dispossessor) |
 | 2024-07-29 | [`https://qatar.vcu.edu`](https://google.com/search?q=https%3A%2F%2Fqatar.vcu.edu) | [dispossessor](https://ransomwatch.telemetry.ltd/#/profiles?id=dispossessor) |
@@ -200,7 +204,3 @@ _last `200` posts_
 | 2024-07-23 | [`Electroalfa`](https://google.com/search?q=Electroalfa) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-07-23 | [`American Acryl`](https://google.com/search?q=American+Acryl) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-07-23 | [`Betances Health Center`](https://google.com/search?q=Betances+Health+Center) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2024-07-23 | [`Congoleum`](https://google.com/search?q=Congoleum) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-07-23 | [`sigmacontrol.eu`](https://google.com/search?q=sigmacontrol.eu) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-07-23 | [`siParadigm`](https://google.com/search?q=siParadigm) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2024-07-23 | [`eurovilla.hr`](https://google.com/search?q=eurovilla.hr) | [darkvault](https://ransomwatch.telemetry.ltd/#/profiles?id=darkvault) |
