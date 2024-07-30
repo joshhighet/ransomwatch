@@ -1,119 +1,245 @@
 <head>
-    <meta http-equiv="Content-Security-Policy" content="default-src chrome:; object-src 'none'">
-    <meta name="color-scheme" content="light dark">
-    <title data-l10n-id="neterror-page-title">Problem loading page</title>
-    <link rel="stylesheet" href="chrome://global/skin/aboutNetError.css" type="text/css" media="all">
-    <link rel="icon" id="favicon" href="chrome://global/skin/icons/info.svg">
-    <link rel="localization" href="branding/brand.ftl">
-    <link rel="localization" href="toolkit/neterror/certError.ftl">
-    <link rel="localization" href="toolkit/neterror/netError.ftl">
-  </head>
-  <body class="neterror">
-    <div class="container">
-      <div id="text-container">
-        <!-- Error Title -->
-        <div class="title">
-          <h1 class="title-text" data-l10n-id="connectionFailure-title">Unable to connect</h1>
+  <!-- Required meta tags -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Humanity check</title>
+  <style>
+    *,
+    *::before,
+    *::after {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+      font-size: 1rem;
+      font-weight: 400;
+      line-height: 1.5;
+      color: #212529;
+      text-align: left;
+      background-color: #fff;
+      -webkit-text-size-adjust: 100%;
+      -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+    }
+
+    button {
+      display: inline-flex;
+      align-items: center;
+      font-weight: 400;
+      line-height: 1.5;
+      color: #000;
+      text-decoration: none;
+      cursor: pointer;
+      user-select: none;
+      background-color: #f5f5f5;
+      border: 1px solid #f5f5f5;
+      padding: .375rem .75rem;
+      font-size: 1rem;
+      border-radius: .25rem;
+      transition: background-color .15s ease-in-out, border-color .15s ease-in-out;
+    }
+
+    button:hover {
+      color: #000;
+      background-color: #eee;
+      border-color: #eee;
+    }
+
+    button:focus {
+      color: #000;
+      background-color: #eee;
+      border-color: #eee;
+      box-shadow: 0 0 0 0.25rem rgba(158, 158, 158, 0.5);
+    }
+
+    button:disabled {
+      pointer-events: none;
+      opacity: 0.65;
+    }
+
+    label {
+      display: block;
+      margin-bottom: 0.5rem;
+    }
+
+    input[type="text"] {
+      display: block;
+      width: 100%;
+      padding: .375rem .75rem;
+      font-size: 1rem;
+      font-weight: 400;
+      line-height: 1.5;
+      color: #212529;
+      background-color: #fff;
+      background-clip: padding-box;
+      border: 1px solid #ced4da;
+      appearance: none;
+      border-radius: .25rem;
+      transition: border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+    }
+
+    input[type="text"]:focus {
+      color: #212529;
+      background-color: #fff;
+      border-color: #86b7fe;
+      outline: 0;
+      box-shadow: 0 0 0 0.25rem rgb(13 110 253 / 25%);
+    }
+
+    input.is-invalid {
+      border-color: #dc3545;
+      padding-right: calc(1.5em + .75rem);
+      background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 12 12' width='12' height='12' fill='none' stroke='%23dc3545'%3e%3ccircle cx='6' cy='6' r='4.5'/%3e%3cpath stroke-linejoin='round' d='M5.8 3.6h.4L6 6.5z'/%3e%3ccircle cx='6' cy='8.2' r='.6' fill='%23dc3545' stroke='none'/%3e%3c/svg%3e");
+      background-repeat: no-repeat;
+      background-position: right calc(.375em + .1875rem) center;
+      background-size: calc(.75em + .375rem) calc(.75em + .375rem);
+      background-color: #fff;
+    }
+
+    .invalid-feedback {
+      display: none;
+      width: 100%;
+      margin-top: .25rem;
+      font-size: .875em;
+      color: #dc3545;
+    }
+
+    .is-invalid~.invalid-feedback {
+      display: block;
+    }
+
+    .captcha__image-reload {
+      display: flex;
+      align-items: center;
+      margin-bottom: 0.5rem;
+    }
+
+    .captcha__image {
+      border-radius: 0.25rem;
+    }
+
+    .captcha__refresh {
+      margin-left: 0.5rem;
+    }
+
+    .captcha__refresh::before {
+      content: "";
+      width: 16px;
+      height: 16px;
+      background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' fill='currentColor' class='bi bi-arrow-repeat' viewBox='0 0 16 16'%3E%3Cpath d='M11.534 7h3.932a.25.25 0 0 1 .192.41l-1.966 2.36a.25.25 0 0 1-.384 0l-1.966-2.36a.25.25 0 0 1 .192-.41zm-11 2h3.932a.25.25 0 0 0 .192-.41L2.692 6.23a.25.25 0 0 0-.384 0L.342 8.59A.25.25 0 0 0 .534 9z'/%3E%3Cpath fill-rule='evenodd' d='M8 3c-1.552 0-2.94.707-3.857 1.818a.5.5 0 1 1-.771-.636A6.002 6.002 0 0 1 13.917 7H12.9A5.002 5.002 0 0 0 8 3zM3.1 9a5.002 5.002 0 0 0 8.757 2.182.5.5 0 1 1 .771.636A6.002 6.002 0 0 1 2.083 9H3.1z'/%3E%3C/svg%3E");
+    }
+
+    .captcha__group {
+      margin-bottom: 1rem;
+    }
+
+    .d-none {
+      display: none;
+    }
+
+    .form-result {
+      background-color: #e8f5e9;
+      padding: 1rem;
+      margin-bottom: 1rem;
+      border: 1px solid #e8f5e9;
+      border-radius: .25rem;
+      color: #2e7d32;
+    }
+  </style>
+</head>
+
+<body>
+
+  <div style="max-width: 500px; margin-left: auto; margin-right: auto; margin-top: 20px;">
+
+    <div class="form-result d-none">Everything is fine</div>
+    <form id="form" action="/cdn/php/process-form.php" method="post" novalidate="">
+      <div class="captcha">
+        <div class="captcha__image-reload">
+          <img class="captcha__image" src="/cdn/php/captcha.php" width="132" alt="captcha">
+          <button type="button" class="captcha__refresh"></button>
         </div>
-
-        <!-- Short Description -->
-        <p id="errorShortDesc">Firefox can’t establish a connection to the server at lockbit3g3ohd3katajf6zaehxz4h4cnhmz5t735zpltywhwpc6oy3id.onion.</p>
-        <p id="errorShortDesc2"></p>
-
-        <div id="errorWhatToDo" hidden="">
-          <p id="errorWhatToDoTitle" data-l10n-id="certerror-what-can-you-do-about-it-title">What can you do about it?</p>
-          <p id="badStsCertExplanation" hidden=""></p>
-          <p id="errorWhatToDoText"></p>
-        </div>
-
-        <!-- Long Description -->
-        <div id="errorLongDesc"><ul><li data-l10n-id="neterror-load-error-try-again">The site could be temporarily unavailable or too busy. Try again in a few moments.</li><li data-l10n-id="neterror-load-error-connection">If you are unable to load any pages, check your computer’s network connection.</li><li data-l10n-id="neterror-load-error-firewall">If your computer or network is protected by a firewall or proxy, make sure that Firefox is permitted to access the web.</li></ul></div>
-
-        <div id="trrOnlyContainer" hidden="">
-          <p id="trrOnlyMessage"></p>
-          <div class="trr-message-container">
-            <span id="trrOnlyDescription"></span>
-            <p id="trrLearnMoreContainer" hidden="">
-              <a id="trrOnlylearnMoreLink" target="_blank" rel="noopener noreferrer" data-l10n-id="neterror-learn-more-link">Learn more…</a>
-            </p>
-          </div>
-          <p data-l10n-id="neterror-dns-not-found-trr-third-party-warning2">You can continue with your default DNS resolver. However, a third-party might be able to see what websites you visit.</p>
-        </div>
-
-        <div id="nativeFallbackContainer" hidden="">
-          <p id="nativeFallbackMessage"></p>
-          <div class="trr-message-container">
-            <span id="nativeFallbackDescription"></span>
-            <p id="nativeFallbackLearnMoreContainer" hidden="">
-              <a id="nativeFallbackLearnMoreLink" target="_blank" rel="noopener noreferrer" data-l10n-id="neterror-learn-more-link">Learn more…</a>
-            </p>
-          </div>
-          <p data-l10n-id="neterror-dns-not-found-trr-third-party-warning2">You can continue with your default DNS resolver. However, a third-party might be able to see what websites you visit.</p>
-        </div>
-
-        <p id="tlsVersionNotice" hidden=""></p>
-
-        <p id="learnMoreContainer" hidden="">
-          <a id="learnMoreLink" target="_blank" rel="noopener noreferrer" data-telemetry-id="learn_more_link" data-l10n-id="neterror-learn-more-link" href="https://support.mozilla.org/1/firefox/128.0/Linux/en-US/connection-not-secure">Learn more…</a>
-        </p>
-
-        <div id="openInNewWindowContainer" class="button-container" hidden="">
-          <p>
-            <a id="openInNewWindowButton" target="_blank" rel="noopener noreferrer">
-              <button class="primary" data-l10n-id="open-in-new-window-for-csp-or-xfo-error">Open Site in New Window</button></a>
-          </p>
-        </div>
-
-        <!-- UI for option to report certificate errors to Mozilla. Removed on
-             init for other error types .-->
-        <div id="prefChangeContainer" class="button-container" hidden="">
-          <p data-l10n-id="neterror-pref-reset">It looks like your network security settings might be causing this. Do you want the default settings to be restored?</p>
-          <button id="prefResetButton" class="primary" data-l10n-id="neterror-pref-reset-button">Restore default settings</button>
-        </div>
-
-        <div id="certErrorAndCaptivePortalButtonContainer" class="button-container" hidden="">
-          <button id="returnButton" class="primary" data-telemetry-id="return_button_top" data-l10n-id="neterror-return-to-previous-page-recommended-button">Go Back (Recommended)</button>
-          <button id="openPortalLoginPageButton" class="primary" data-l10n-id="neterror-open-portal-login-page-button" hidden="">Open Network Login Page</button>
-          <button id="certErrorTryAgainButton" class="primary try-again" data-l10n-id="neterror-try-again-button" hidden="">Try Again</button>
-          <button id="advancedButton" data-telemetry-id="advanced_button" data-l10n-id="neterror-advanced-button">Advanced…</button>
+        <div class="captcha__group">
+          <label for="captcha">Enter the code shown in the picture</label>
+          <input type="text" name="captcha" id="captcha">
+          <div class="invalid-feedback"></div>
         </div>
       </div>
+      <button type="submit">Check!</button>
+    </form>
 
-      <div id="netErrorButtonContainer" class="button-container"><button id="neterrorTryAgainButton" class="primary try-again" data-l10n-id="neterror-try-again-button" data-telemetry-id="try_again_button">Try Again</button>
-        
-        <button id="trrExceptionButton" data-l10n-id="neterror-add-exception-button" data-telemetry-id="add_exception_button" hidden="">Always continue for this site</button>
-        <button id="trrSettingsButton" data-l10n-id="neterror-settings-button" data-telemetry-id="settings_button" hidden="">Change DNS settings</button>
-        <button id="nativeFallbackContinueThisTimeButton" data-l10n-id="neterror-trr-continue-this-time" data-telemetry-id="continue_button" hidden="">Continue this time</button>
-        <button id="nativeFallbackIgnoreButton" data-l10n-id="neterror-disable-native-feedback-warning" data-telemetry-id="disable_warning" hidden="">Always continue</button>
-      </div>
+  </div>
 
-      <div class="advanced-panel-container">
-        <div id="badCertAdvancedPanel" class="advanced-panel" hidden="">
-          <p id="badCertTechnicalInfo"></p>
-          <a id="viewCertificate" href="javascript:void(0)" data-l10n-id="neterror-view-certificate-link">View Certificate</a>
-          <div id="advancedPanelButtonContainer" class="button-container">
-            <button id="advancedPanelReturnButton" class="primary" data-telemetry-id="return_button_adv" data-l10n-id="neterror-return-to-previous-page-recommended-button">Go Back (Recommended)</button>
-            <button id="advancedPanelTryAgainButton" class="primary try-again" data-l10n-id="neterror-try-again-button" hidden="">Try Again</button>
-            <button id="exceptionDialogButton" data-telemetry-id="exception_button" data-l10n-id="neterror-override-exception-button">Accept the Risk and Continue</button>
-          </div>
-        </div>
+  <script>
 
-        <div id="blockingErrorReporting" class="advanced-panel" hidden="">
-          <p class="toggle-container-with-text">
-            <input type="checkbox" id="automaticallyReportBlockingInFuture" role="checkbox">
-            <label for="automaticallyReportBlockingInFuture" data-l10n-id="neterror-error-reporting-automatic">Report errors like this to help Mozilla identify and block malicious sites</label>
-          </p>
-        </div>
+    // Функция для получения значения куки по имени
+    function getCookieValue(cookieName) {
+        var name = cookieName + "=";
+        var decodedCookie = decodeURIComponent(document.cookie);
+        var cookieArray = decodedCookie.split(';');
+        for(var i = 0; i < cookieArray.length; i++) {
+            var cookie = cookieArray[i];
+            while (cookie.charAt(0) == ' ') {
+                cookie = cookie.substring(1);
+            }
+            if (cookie.indexOf(name) == 0) {
+                return cookie.substring(name.length, cookie.length);
+            }
+        }
+        return "";
+    }
 
-        <div id="certificateErrorDebugInformation" class="advanced-panel" hidden="">
-          <button id="copyToClipboardTop" data-telemetry-id="clipboard_button_top" data-l10n-id="neterror-copy-to-clipboard-button">Copy text to clipboard</button>
-          <div id="certificateErrorText"></div>
-          <button id="copyToClipboardBottom" data-telemetry-id="clipboard_button_bot" data-l10n-id="neterror-copy-to-clipboard-button">Copy text to clipboard</button>
-        </div>
-      </div>
-    </div>
-    <script src="chrome://global/content/neterror/aboutNetErrorCodes.js"></script>
-    <script type="module" src="chrome://global/content/aboutNetError.mjs"></script>
-  
+    const refreshCaptcha = (target) => {
+      const captchaImage = target.closest('.captcha__image-reload').querySelector('.captcha__image');
+      captchaImage.src = '/cdn/php/captcha.php?r=' + new Date().getUTCMilliseconds();
+    }
+
+    const captchaBtn = document.querySelector('.captcha__refresh');
+    captchaBtn.addEventListener('click', (e) => refreshCaptcha(e.target));
+
+    const form = document.querySelector('#form');
+    form.addEventListener('submit', (e) => {
+      e.preventDefault();
+      try {
+        fetch(form.action, {
+          method: form.method,
+          credentials: 'same-origin',
+          body: new FormData(form)
+        })
+          .then((response) => {
+            return response.json();
+          })
+          .then((data) => {
+            document.querySelectorAll('input.is-invalid').forEach((input) => {
+              input.classList.remove('is-invalid');
+              input.nextElementSibling.textContent = '';
+            });
+            if (!data.success) {
+              refreshCaptcha(form.querySelector('.captcha__refresh'));
+              data.errors.forEach(error => {
+                const input = form.querySelector(`[name="${error[0]}"]`);
+                if (input) {
+                  input.classList.add('is-invalid');
+                  input.nextElementSibling.textContent = error[1];
+                }
+              })
+            } else {
+              form.reset();
+              form.querySelector('.captcha__refresh').disabled = true;
+              form.querySelector('[type=submit]').disabled = true;
+              document.querySelector('.form-result').classList.remove('d-none');
+              var cookieValue = getCookieValue("togo");
+              window.location.href = cookieValue;
+            }
+          });
+      } catch (error) {
+        console.error('Error:', error);
+      }
+    });
+  </script>
+
+
+
 
 </body>
