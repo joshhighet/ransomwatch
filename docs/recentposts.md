@@ -4,6 +4,12 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-07-30 | [`www.whittakersystem.com/`](https://google.com/search?q=www.whittakersystem.com%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-07-30 | [`chubb-bulleid.co.uk\$14M\United Kingdom\362GB\&lt;1% DISCLOSED`](https://google.com/search?q=chubb-bulleid.co.uk%5C%2414M%5CUnited+Kingdom%5C362GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
+| 2024-07-30 | [`leonardssyrups.com\$22M\USA\575GB\&lt;1% DISCLOSED`](https://google.com/search?q=leonardssyrups.com%5C%2422M%5CUSA%5C575GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
+| 2024-07-30 | [`westernwyomingbeverages.com\$59.2M\USA\102GB\&lt;1% DISCLOSED`](https://google.com/search?q=westernwyomingbeverages.com%5C%2459.2M%5CUSA%5C102GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
+| 2024-07-30 | [`demos.fr\$37.5M\France\870GB\&lt;1% DISCLOSED`](https://google.com/search?q=demos.fr%5C%2437.5M%5CFrance%5C870GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
+| 2024-07-30 | [`denkaiamerica.com/\$18.1M\USA\80GB\&lt;1% DISCLOSED`](https://google.com/search?q=denkaiamerica.com%2F%5C%2418.1M%5CUSA%5C80GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-07-30 | [`Macadam Europe`](https://google.com/search?q=Macadam+Europe) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-07-30 | [`Olschewski Davie`](https://google.com/search?q=Olschewski+Davie) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-07-30 | [`Gemicar`](https://google.com/search?q=Gemicar) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
@@ -198,9 +204,3 @@ _last `200` posts_
 | 2024-07-25 | [`TheLutheranFoundation`](https://google.com/search?q=TheLutheranFoundation) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
 | 2024-07-25 | [`Melchers Singapore`](https://google.com/search?q=Melchers+Singapore) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
 | 2024-07-25 | [`As****fs`](https://google.com/search?q=As%2A%2A%2A%2Afs) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
-| 2024-07-25 | [`SKC West`](https://google.com/search?q=SKC+West) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2024-07-25 | [`simple-solution-systems`](https://google.com/search?q=simple-solution-systems) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
-| 2024-07-25 | [`Bunkhouse Group`](https://google.com/search?q=Bunkhouse+Group) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2024-07-25 | [`Playa Vista Job Opportunities and Business Services`](https://google.com/search?q=Playa+Vista+Job+Opportunities+and+Business+Services) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2024-07-25 | [`Accelon Technologies Private`](https://google.com/search?q=Accelon+Technologies+Private) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2024-07-25 | [`Valisana`](https://google.com/search?q=Valisana) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
