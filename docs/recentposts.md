@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-07-30 | [`stb.ro`](https://google.com/search?q=stb.ro) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-07-30 | [`www.whittakersystem.com/`](https://google.com/search?q=www.whittakersystem.com%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-07-30 | [`chubb-bulleid.co.uk\$14M\United Kingdom\362GB\&lt;1% DISCLOSED`](https://google.com/search?q=chubb-bulleid.co.uk%5C%2414M%5CUnited+Kingdom%5C362GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-07-30 | [`leonardssyrups.com\$22M\USA\575GB\&lt;1% DISCLOSED`](https://google.com/search?q=leonardssyrups.com%5C%2422M%5CUSA%5C575GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-07-25 | [`Kusum Group of Companies`](https://google.com/search?q=Kusum+Group+of+Companies) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
 | 2024-07-25 | [`TheLutheranFoundation`](https://google.com/search?q=TheLutheranFoundation) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
 | 2024-07-25 | [`Melchers Singapore`](https://google.com/search?q=Melchers+Singapore) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
-| 2024-07-25 | [`As****fs`](https://google.com/search?q=As%2A%2A%2A%2Afs) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
