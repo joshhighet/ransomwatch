@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-07-30 | [`udch.in.th`](https://google.com/search?q=udch.in.th) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-07-30 | [`http://www.chsd117.org`](https://google.com/search?q=http%3A%2F%2Fwww.chsd117.org) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
+| 2024-07-30 | [`SAGE Publishing`](https://google.com/search?q=SAGE+Publishing) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-07-29 | [`labor-koblenz.de`](https://google.com/search?q=labor-koblenz.de) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-07-29 | [`BASF - Nunhems`](https://google.com/search?q=BASF+-+Nunhems) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2024-07-29 | [`Crownlea Group`](https://google.com/search?q=Crownlea+Group) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2024-07-23 | [`Warning: some of webchats are unavailable. We are working to resolve the issue, all timers`](https://google.com/search?q=Warning%3A+some+of+webchats+are+unavailable.+We+are+working+to+resolve+the+issue%2C+all+timers) | [daixin](https://ransomwatch.telemetry.ltd/#/profiles?id=daixin) |
 | 2024-07-23 | [`Jack "Designer" Sparrow.`](https://google.com/search?q=Jack+%22Designer%22+Sparrow.) | [donutleaks](https://ransomwatch.telemetry.ltd/#/profiles?id=donutleaks) |
 | 2024-07-23 | [`Anyone.. Who need some bags?`](https://google.com/search?q=Anyone..+Who+need+some+bags%3F) | [donutleaks](https://ransomwatch.telemetry.ltd/#/profiles?id=donutleaks) |
-| 2024-07-23 | [`Regas (regasenergy.com)`](https://google.com/search?q=Regas+%28regasenergy.com%29) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
-| 2024-07-23 | [`forestparkga.gov`](https://google.com/search?q=forestparkga.gov) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
-| 2024-07-23 | [`CALDAN Conveyor`](https://google.com/search?q=CALDAN+Conveyor) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
