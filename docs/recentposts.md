@@ -4,6 +4,13 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-07-31 | [`unknown`](https://google.com/search?q=unknown) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
+| 2024-07-31 | [`EFRON LAW FIRM`](https://google.com/search?q=EFRON+LAW+FIRM) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
+| 2024-07-31 | [`fingersstore.com`](https://google.com/search?q=fingersstore.com) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
+| 2024-07-31 | [`wgma.org`](https://google.com/search?q=wgma.org) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-07-31 | [`biggreenegg.com`](https://google.com/search?q=biggreenegg.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-07-31 | [`nydj.com`](https://google.com/search?q=nydj.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-07-31 | [`www.pharm-int.com`](https://google.com/search?q=www.pharm-int.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-07-31 | [`EBL PARTNERS (construction-interiors), Florida`](https://google.com/search?q=EBL+PARTNERS+%28construction-interiors%29%2C+Florida) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2024-07-31 | [`Kleven Construction`](https://google.com/search?q=Kleven+Construction) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-07-31 | [`Durham Manufacturing`](https://google.com/search?q=Durham+Manufacturing) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
@@ -197,10 +204,3 @@ _last `200` posts_
 | 2024-07-25 | [`Eyal Baror the key official of the 8200 unit`](https://google.com/search?q=Eyal+Baror+the+key+official+of+the+8200+unit) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2024-07-25 | [`Handala&#8217;s attack on Israeli organizations`](https://google.com/search?q=Handala%26%238217%3Bs+attack+on+Israeli+organizations) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2024-07-25 | [`Zionists BLEnergy Hacked`](https://google.com/search?q=Zionists+BLEnergy+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
-| 2024-07-25 | [`German University of Technology in Oman`](https://google.com/search?q=German+University+of+Technology+in+Oman) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
-| 2024-07-25 | [`Wichita State University Campus of Applied Sciences and Technology`](https://google.com/search?q=Wichita+State+University+Campus+of+Applied+Sciences+and+Technology) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
-| 2024-07-25 | [`supergardens.com.au`](https://google.com/search?q=supergardens.com.au) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
-| 2024-07-25 | [`hampdenvets.co.uk`](https://google.com/search?q=hampdenvets.co.uk) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
-| 2024-07-25 | [`grgravel.com`](https://google.com/search?q=grgravel.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
-| 2024-07-25 | [`elitefitness.co.nz`](https://google.com/search?q=elitefitness.co.nz) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
-| 2024-07-25 | [`adm.gray-adams.com`](https://google.com/search?q=adm.gray-adams.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
