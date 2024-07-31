@@ -4,6 +4,12 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-07-31 | [`EBL PARTNERS (construction-interiors), Florida`](https://google.com/search?q=EBL+PARTNERS+%28construction-interiors%29%2C+Florida) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
+| 2024-07-31 | [`Kleven Construction`](https://google.com/search?q=Kleven+Construction) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
+| 2024-07-31 | [`Durham Manufacturing`](https://google.com/search?q=Durham+Manufacturing) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
+| 2024-07-31 | [`https://www.webasto.com`](https://google.com/search?q=https%3A%2F%2Fwww.webasto.com) | [metaencryptor](https://ransomwatch.telemetry.ltd/#/profiles?id=metaencryptor) |
+| 2024-07-31 | [`Find Great People`](https://google.com/search?q=Find+Great+People) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
+| 2024-07-31 | [`BRASPRESS`](https://google.com/search?q=BRASPRESS) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-07-31 | [`www.srmedicalcenter.org`](https://google.com/search?q=www.srmedicalcenter.org) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-07-31 | [`Florence Cement Company, Inc.`](https://google.com/search?q=Florence+Cement+Company%2C+Inc.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-07-31 | [`Sable International.`](https://google.com/search?q=Sable+International.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
@@ -198,9 +204,3 @@ _last `200` posts_
 | 2024-07-25 | [`grgravel.com`](https://google.com/search?q=grgravel.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
 | 2024-07-25 | [`elitefitness.co.nz`](https://google.com/search?q=elitefitness.co.nz) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
 | 2024-07-25 | [`adm.gray-adams.com`](https://google.com/search?q=adm.gray-adams.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
-| 2024-07-25 | [`panurgyvt.com`](https://google.com/search?q=panurgyvt.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
-| 2024-07-25 | [`www.raffmetal.it`](https://google.com/search?q=www.raffmetal.it) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
-| 2024-07-25 | [`mainlandmachinery.com`](https://google.com/search?q=mainlandmachinery.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
-| 2024-07-25 | [`www.rcc911.org`](https://google.com/search?q=www.rcc911.org) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
-| 2024-07-25 | [`BLEnergy Sensitive Leak`](https://google.com/search?q=BLEnergy+Sensitive+Leak) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
-| 2024-07-25 | [`crimsonwinegroup.com`](https://google.com/search?q=crimsonwinegroup.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
