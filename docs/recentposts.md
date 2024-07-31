@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-07-31 | [`www.byzan.com/`](https://google.com/search?q=www.byzan.com%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-07-31 | [`unknown`](https://google.com/search?q=unknown) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2024-07-31 | [`EFRON LAW FIRM`](https://google.com/search?q=EFRON+LAW+FIRM) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2024-07-31 | [`fingersstore.com`](https://google.com/search?q=fingersstore.com) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-07-25 | [`Innovalve Bio Medical Hacked`](https://google.com/search?q=Innovalve+Bio+Medical+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2024-07-25 | [`Eyal Baror the key official of the 8200 unit`](https://google.com/search?q=Eyal+Baror+the+key+official+of+the+8200+unit) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2024-07-25 | [`Handala&#8217;s attack on Israeli organizations`](https://google.com/search?q=Handala%26%238217%3Bs+attack+on+Israeli+organizations) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
-| 2024-07-25 | [`Zionists BLEnergy Hacked`](https://google.com/search?q=Zionists+BLEnergy+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
