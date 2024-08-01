@@ -4,6 +4,11 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-08-01 | [`warrendale-wagyu.co.uk`](https://google.com/search?q=warrendale-wagyu.co.uk) | [darkvault](https://ransomwatch.telemetry.ltd/#/profiles?id=darkvault) |
+| 2024-08-01 | [`text/html; charset=utf-8`](https://google.com/search?q=text%2Fhtml%3B+charset%3Dutf-8) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-08-01 | [`mcdowallaffleck.com.au`](https://google.com/search?q=mcdowallaffleck.com.au) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-08-01 | [`effinghamschools.com`](https://google.com/search?q=effinghamschools.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-08-01 | [`Adorna & Guzman Dentistry`](https://google.com/search?q=Adorna+%26+Guzman+Dentistry) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2024-08-01 | [`https://www.acsi.org/`](https://google.com/search?q=https%3A%2F%2Fwww.acsi.org%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-08-01 | [`County Linen UK`](https://google.com/search?q=County+Linen+UK) | [dispossessor](https://ransomwatch.telemetry.ltd/#/profiles?id=dispossessor) |
 | 2024-08-01 | [`TNT Materials https://tnt-materials.com/`](https://google.com/search?q=TNT+Materials+https%3A%2F%2Ftnt-materials.com%2F) | [dispossessor](https://ransomwatch.telemetry.ltd/#/profiles?id=dispossessor) |
@@ -199,8 +204,3 @@ _last `200` posts_
 | 2024-07-25 | [`My City application Hacked`](https://google.com/search?q=My+City+application+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2024-07-25 | [`Zionists Elfi-Tech Hacked`](https://google.com/search?q=Zionists+Elfi-Tech+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2024-07-25 | [`SolidCAM Hacked`](https://google.com/search?q=SolidCAM+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
-| 2024-07-25 | [`SolidCAM LEAK`](https://google.com/search?q=SolidCAM+LEAK) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
-| 2024-07-25 | [`Ma&#8217;agan Michael Kibbutz`](https://google.com/search?q=Ma%26%238217%3Bagan+Michael+Kibbutz) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
-| 2024-07-25 | [`SolidCAM 2024 SP0`](https://google.com/search?q=SolidCAM+2024+SP0) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
-| 2024-07-25 | [`Zerto Security Hacked`](https://google.com/search?q=Zerto+Security+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
-| 2024-07-25 | [`Independent Education System Hacked`](https://google.com/search?q=Independent+Education+System+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
