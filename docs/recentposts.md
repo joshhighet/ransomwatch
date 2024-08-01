@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-08-01 | [`dahlvalve.com\$23.9M\Canada\80GB\&lt;1% DISCLOSED`](https://google.com/search?q=dahlvalve.com%5C%2423.9M%5CCanada%5C80GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
+| 2024-08-01 | [`Peñoles`](https://google.com/search?q=Pe%C3%B1oles) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-07-31 | [`www.byzan.com/`](https://google.com/search?q=www.byzan.com%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-07-31 | [`unknown`](https://google.com/search?q=unknown) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2024-07-31 | [`EFRON LAW FIRM`](https://google.com/search?q=EFRON+LAW+FIRM) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-07-25 | [`Zionists Sonol Hacked ( Gas Stations )`](https://google.com/search?q=Zionists+Sonol+Hacked+%28+Gas+Stations+%29) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2024-07-25 | [`Sheba Medical Center Hacked`](https://google.com/search?q=Sheba+Medical+Center+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2024-07-25 | [`Innovalve Bio Medical Hacked`](https://google.com/search?q=Innovalve+Bio+Medical+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
-| 2024-07-25 | [`Eyal Baror the key official of the 8200 unit`](https://google.com/search?q=Eyal+Baror+the+key+official+of+the+8200+unit) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
-| 2024-07-25 | [`Handala&#8217;s attack on Israeli organizations`](https://google.com/search?q=Handala%26%238217%3Bs+attack+on+Israeli+organizations) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
