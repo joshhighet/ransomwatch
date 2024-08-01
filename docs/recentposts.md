@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-08-01 | [`https://www.acsi.org/`](https://google.com/search?q=https%3A%2F%2Fwww.acsi.org%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-08-01 | [`County Linen UK`](https://google.com/search?q=County+Linen+UK) | [dispossessor](https://ransomwatch.telemetry.ltd/#/profiles?id=dispossessor) |
 | 2024-08-01 | [`TNT Materials https://tnt-materials.com/`](https://google.com/search?q=TNT+Materials+https%3A%2F%2Ftnt-materials.com%2F) | [dispossessor](https://ransomwatch.telemetry.ltd/#/profiles?id=dispossessor) |
 | 2024-08-01 | [`dahlvalve.com\$23.9M\Canada\80GB\&lt;1% DISCLOSED`](https://google.com/search?q=dahlvalve.com%5C%2423.9M%5CCanada%5C80GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-07-25 | [`SolidCAM 2024 SP0`](https://google.com/search?q=SolidCAM+2024+SP0) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2024-07-25 | [`Zerto Security Hacked`](https://google.com/search?q=Zerto+Security+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2024-07-25 | [`Independent Education System Hacked`](https://google.com/search?q=Independent+Education+System+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
-| 2024-07-25 | [`Zionists Sonol Hacked ( Gas Stations )`](https://google.com/search?q=Zionists+Sonol+Hacked+%28+Gas+Stations+%29) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
