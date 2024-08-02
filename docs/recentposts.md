@@ -4,6 +4,11 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-08-02 | [`Keystone Engineering`](https://google.com/search?q=Keystone+Engineering) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
+| 2024-08-02 | [`Kemlon Products &amp; Development Co Inc`](https://google.com/search?q=Kemlon+Products+%26amp%3B+Development+Co+Inc) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
+| 2024-08-02 | [`www.normandydiesel.fr`](https://google.com/search?q=www.normandydiesel.fr) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-08-02 | [`www.bahia-principe.com`](https://google.com/search?q=www.bahia-principe.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-08-02 | [`retaildatallc.com`](https://google.com/search?q=retaildatallc.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-08-02 | [`q-cells.de`](https://google.com/search?q=q-cells.de) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
 | 2024-08-02 | [`Veren Inc and Crescent Point Energy`](https://google.com/search?q=Veren+Inc+and+Crescent+Point+Energy) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2024-08-02 | [`https://www.valleybulkinc.com`](https://google.com/search?q=https%3A%2F%2Fwww.valleybulkinc.com) | [cicada3301](https://ransomwatch.telemetry.ltd/#/profiles?id=cicada3301) |
@@ -199,8 +204,3 @@ _last `200` posts_
 | 2024-07-25 | [`Israel largest cyber security college`](https://google.com/search?q=Israel+largest+cyber+security+college) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2024-07-25 | [`Israel 99 Digital Hacked!`](https://google.com/search?q=Israel+99+Digital+Hacked%21) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2024-07-25 | [`Israel Radars Hacked!`](https://google.com/search?q=Israel+Radars+Hacked%21) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
-| 2024-07-25 | [`Zionists Kashin Distillery Hacked`](https://google.com/search?q=Zionists+Kashin+Distillery+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
-| 2024-07-25 | [`Zionists High Group Hacked`](https://google.com/search?q=Zionists+High+Group+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
-| 2024-07-25 | [`Zionists Amigour Company Hacked`](https://google.com/search?q=Zionists+Amigour+Company+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
-| 2024-07-25 | [`Zionists Harmony Pharm Hacked`](https://google.com/search?q=Zionists+Harmony+Pharm+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
-| 2024-07-25 | [`Ramat Gan Academic College Hacked`](https://google.com/search?q=Ramat+Gan+Academic+College+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
