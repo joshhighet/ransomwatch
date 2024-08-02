@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-08-02 | [`Khandelwal Laboratories Pvt`](https://google.com/search?q=Khandelwal+Laboratories+Pvt) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
+| 2024-08-02 | [`Jangho Group`](https://google.com/search?q=Jangho+Group) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-08-02 | [`Keystone Engineering`](https://google.com/search?q=Keystone+Engineering) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2024-08-02 | [`Kemlon Products &amp; Development Co Inc`](https://google.com/search?q=Kemlon+Products+%26amp%3B+Development+Co+Inc) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2024-08-02 | [`www.normandydiesel.fr`](https://google.com/search?q=www.normandydiesel.fr) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-07-25 | [`Israel Textile Hacked`](https://google.com/search?q=Israel+Textile+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2024-07-25 | [`Israel Massad Quality Hacked`](https://google.com/search?q=Israel+Massad+Quality+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2024-07-25 | [`Israel largest cyber security college`](https://google.com/search?q=Israel+largest+cyber+security+college) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
-| 2024-07-25 | [`Israel 99 Digital Hacked!`](https://google.com/search?q=Israel+99+Digital+Hacked%21) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
-| 2024-07-25 | [`Israel Radars Hacked!`](https://google.com/search?q=Israel+Radars+Hacked%21) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
