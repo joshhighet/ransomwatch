@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-08-02 | [`q-cells.de`](https://google.com/search?q=q-cells.de) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
+| 2024-08-02 | [`Veren Inc and Crescent Point Energy`](https://google.com/search?q=Veren+Inc+and+Crescent+Point+Energy) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2024-08-02 | [`https://www.valleybulkinc.com`](https://google.com/search?q=https%3A%2F%2Fwww.valleybulkinc.com) | [cicada3301](https://ransomwatch.telemetry.ltd/#/profiles?id=cicada3301) |
 | 2024-08-02 | [`ENEA Italy`](https://google.com/search?q=ENEA+Italy) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-08-01 | [`warrendale-wagyu.co.uk`](https://google.com/search?q=warrendale-wagyu.co.uk) | [darkvault](https://ransomwatch.telemetry.ltd/#/profiles?id=darkvault) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-07-25 | [`Zionists Amigour Company Hacked`](https://google.com/search?q=Zionists+Amigour+Company+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2024-07-25 | [`Zionists Harmony Pharm Hacked`](https://google.com/search?q=Zionists+Harmony+Pharm+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2024-07-25 | [`Ramat Gan Academic College Hacked`](https://google.com/search?q=Ramat+Gan+Academic+College+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
-| 2024-07-25 | [`Zionist information technology Hacked`](https://google.com/search?q=Zionist+information+technology+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
-| 2024-07-25 | [`My City application Hacked`](https://google.com/search?q=My+City+application+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
