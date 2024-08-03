@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-08-03 | [`LRN`](https://google.com/search?q=LRN) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-08-03 | [`https://aikenhousing.org/`](https://google.com/search?q=https%3A%2F%2Faikenhousing.org%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-08-02 | [`Khandelwal Laboratories Pvt`](https://google.com/search?q=Khandelwal+Laboratories+Pvt) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-08-02 | [`Jangho Group`](https://google.com/search?q=Jangho+Group) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-07-25 | [`About Israel 8200 Unit`](https://google.com/search?q=About+Israel+8200+Unit) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2024-07-25 | [`Israel Elitech Company Hacked`](https://google.com/search?q=Israel+Elitech+Company+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2024-07-25 | [`Israel Textile Hacked`](https://google.com/search?q=Israel+Textile+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
-| 2024-07-25 | [`Israel Massad Quality Hacked`](https://google.com/search?q=Israel+Massad+Quality+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
