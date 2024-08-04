@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-08-04 | [`Ranney School`](https://google.com/search?q=Ranney+School) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2024-08-03 | [`hlbpr.com`](https://google.com/search?q=hlbpr.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-08-03 | [`nursing.com`](https://google.com/search?q=nursing.com) | [ransomexx](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomexx) |
 | 2024-08-03 | [`LRN`](https://google.com/search?q=LRN) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-07-25 | [`Israel water facilities Hacked!`](https://google.com/search?q=Israel+water+facilities+Hacked%21) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2024-07-25 | [`Viber Messenger Source and Data!`](https://google.com/search?q=Viber+Messenger+Source+and+Data%21) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2024-07-25 | [`About Israel Kogol Unitrade Ltd`](https://google.com/search?q=About+Israel+Kogol+Unitrade+Ltd) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
-| 2024-07-25 | [`About Israel 8200 Unit`](https://google.com/search?q=About+Israel+8200+Unit) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
