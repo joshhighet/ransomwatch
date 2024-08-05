@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-08-05 | [`https://www.squareonecoatingsystems.com`](https://google.com/search?q=https%3A%2F%2Fwww.squareonecoatingsystems.com) | [cicada3301](https://ransomwatch.telemetry.ltd/#/profiles?id=cicada3301) |
 | 2024-08-05 | [`Zon Beachside https://zonbeachside.com`](https://google.com/search?q=Zon+Beachside+https%3A%2F%2Fzonbeachside.com) | [dispossessor](https://ransomwatch.telemetry.ltd/#/profiles?id=dispossessor) |
 | 2024-08-05 | [`Hi-P International`](https://google.com/search?q=Hi-P+International) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2024-08-05 | [`Speed Advisory Data Leak`](https://google.com/search?q=Speed+Advisory+Data+Leak) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-07-25 | [`About INCD !`](https://google.com/search?q=About+INCD+%21) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2024-07-25 | [`About Israel HCT !`](https://google.com/search?q=About+Israel+HCT+%21) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2024-07-25 | [`About Israel Health !`](https://google.com/search?q=About+Israel+Health+%21) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
-| 2024-07-25 | [`About Israel Rosh Ha&#8217;ayin !`](https://google.com/search?q=About+Israel+Rosh+Ha%26%238217%3Bayin+%21) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
