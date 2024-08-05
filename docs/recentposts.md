@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-08-05 | [`exco-solutions.com\$76.4M\Germany\251GB\&lt;1% DISCLOSED`](https://google.com/search?q=exco-solutions.com%5C%2476.4M%5CGermany%5C251GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-08-05 | [`Maryville Academy`](https://google.com/search?q=Maryville+Academy) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2024-08-04 | [`notariusze.waw.pl`](https://google.com/search?q=notariusze.waw.pl) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-08-04 | [`Ma****ny`](https://google.com/search?q=Ma%2A%2A%2A%2Any) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-07-25 | [`About Israel companies!`](https://google.com/search?q=About+Israel+companies%21) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2024-07-25 | [`About Israel Radars!`](https://google.com/search?q=About+Israel+Radars%21) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2024-07-25 | [`About Israel Fake news companies`](https://google.com/search?q=About+Israel+Fake+news+companies) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
-| 2024-07-25 | [`Israel agriculture company Hacked`](https://google.com/search?q=Israel+agriculture+company+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
