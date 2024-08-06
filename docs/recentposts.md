@@ -4,6 +4,11 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-08-06 | [`Omni Family Health`](https://google.com/search?q=Omni+Family+Health) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
+| 2024-08-06 | [`True Blue Environmental`](https://google.com/search?q=True+Blue+Environmental) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-08-06 | [`KinetX`](https://google.com/search?q=KinetX) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-08-06 | [`Granit Design`](https://google.com/search?q=Granit+Design) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-08-06 | [`Alternate Energy`](https://google.com/search?q=Alternate+Energy) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-08-06 | [`www.sobha.com`](https://google.com/search?q=www.sobha.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-08-06 | [`Ziba Design`](https://google.com/search?q=Ziba+Design) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2024-08-06 | [`IOI Corporation Berhad`](https://google.com/search?q=IOI+Corporation+Berhad) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
@@ -199,8 +204,3 @@ _last `200` posts_
 | 2024-07-25 | [`goughhomes.com`](https://google.com/search?q=goughhomes.com) | [eldorado](https://ransomwatch.telemetry.ltd/#/profiles?id=eldorado) |
 | 2024-07-25 | [`Baker Triangle`](https://google.com/search?q=Baker+Triangle) | [eldorado](https://ransomwatch.telemetry.ltd/#/profiles?id=eldorado) |
 | 2024-07-25 | [`www.tankerska.hr`](https://google.com/search?q=www.tankerska.hr) | [eldorado](https://ransomwatch.telemetry.ltd/#/profiles?id=eldorado) |
-| 2024-07-25 | [`cityofpensacola.com`](https://google.com/search?q=cityofpensacola.com) | [eldorado](https://ransomwatch.telemetry.ltd/#/profiles?id=eldorado) |
-| 2024-07-25 | [`thunderbirdcc.org`](https://google.com/search?q=thunderbirdcc.org) | [eldorado](https://ransomwatch.telemetry.ltd/#/profiles?id=eldorado) |
-| 2024-07-25 | [`www.itasnatta.edu.it`](https://google.com/search?q=www.itasnatta.edu.it) | [eldorado](https://ransomwatch.telemetry.ltd/#/profiles?id=eldorado) |
-| 2024-07-25 | [`panzersolutions.com`](https://google.com/search?q=panzersolutions.com) | [eldorado](https://ransomwatch.telemetry.ltd/#/profiles?id=eldorado) |
-| 2024-07-25 | [`lindostar.it`](https://google.com/search?q=lindostar.it) | [eldorado](https://ransomwatch.telemetry.ltd/#/profiles?id=eldorado) |
