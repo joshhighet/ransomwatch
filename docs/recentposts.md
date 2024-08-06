@@ -4,6 +4,10 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-08-06 | [`leonardssyrups.com\$22M\USA\575GB\100% DISCLOSED`](https://google.com/search?q=leonardssyrups.com%5C%2422M%5CUSA%5C575GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
+| 2024-08-06 | [`westernwyomingbeverages.com\$59.2M\USA\102GB\100% DISCLOSED`](https://google.com/search?q=westernwyomingbeverages.com%5C%2459.2M%5CUSA%5C102GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
+| 2024-08-06 | [`denkaiamerica.com/\$18.1M\USA\80GB\100% DISCLOSED`](https://google.com/search?q=denkaiamerica.com%2F%5C%2418.1M%5CUSA%5C80GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
+| 2024-08-06 | [`dahlvalve.com\$23.9M\Canada\80GB\100% DISCLOSED`](https://google.com/search?q=dahlvalve.com%5C%2423.9M%5CCanada%5C80GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-08-05 | [`https://silipos.com`](https://google.com/search?q=https%3A%2F%2Fsilipos.com) | [cicada3301](https://ransomwatch.telemetry.ltd/#/profiles?id=cicada3301) |
 | 2024-08-05 | [`https://www.squareonecoatingsystems.com`](https://google.com/search?q=https%3A%2F%2Fwww.squareonecoatingsystems.com) | [cicada3301](https://ransomwatch.telemetry.ltd/#/profiles?id=cicada3301) |
 | 2024-08-05 | [`Zon Beachside https://zonbeachside.com`](https://google.com/search?q=Zon+Beachside+https%3A%2F%2Fzonbeachside.com) | [dispossessor](https://ransomwatch.telemetry.ltd/#/profiles?id=dispossessor) |
@@ -200,7 +204,3 @@ _last `200` posts_
 | 2024-07-25 | [`adamshomes.com`](https://google.com/search?q=adamshomes.com) | [eldorado](https://ransomwatch.telemetry.ltd/#/profiles?id=eldorado) |
 | 2024-07-25 | [`TBMCG.com`](https://google.com/search?q=TBMCG.com) | [eldorado](https://ransomwatch.telemetry.ltd/#/profiles?id=eldorado) |
 | 2024-07-25 | [`www.vet.k-state.edu`](https://google.com/search?q=www.vet.k-state.edu) | [eldorado](https://ransomwatch.telemetry.ltd/#/profiles?id=eldorado) |
-| 2024-07-25 | [`www.uccretrievals.com`](https://google.com/search?q=www.uccretrievals.com) | [eldorado](https://ransomwatch.telemetry.ltd/#/profiles?id=eldorado) |
-| 2024-07-25 | [`About Handala!`](https://google.com/search?q=About+Handala%21) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
-| 2024-07-25 | [`About INCD !`](https://google.com/search?q=About+INCD+%21) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
-| 2024-07-25 | [`About Israel HCT !`](https://google.com/search?q=About+Israel+HCT+%21) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
