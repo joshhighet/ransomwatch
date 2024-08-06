@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-08-06 | [`www.sobha.com`](https://google.com/search?q=www.sobha.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-08-06 | [`Ziba Design`](https://google.com/search?q=Ziba+Design) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2024-08-06 | [`IOI Corporation Berhad`](https://google.com/search?q=IOI+Corporation+Berhad) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2024-08-06 | [`Casco Antiguo`](https://google.com/search?q=Casco+Antiguo) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-07-25 | [`www.itasnatta.edu.it`](https://google.com/search?q=www.itasnatta.edu.it) | [eldorado](https://ransomwatch.telemetry.ltd/#/profiles?id=eldorado) |
 | 2024-07-25 | [`panzersolutions.com`](https://google.com/search?q=panzersolutions.com) | [eldorado](https://ransomwatch.telemetry.ltd/#/profiles?id=eldorado) |
 | 2024-07-25 | [`lindostar.it`](https://google.com/search?q=lindostar.it) | [eldorado](https://ransomwatch.telemetry.ltd/#/profiles?id=eldorado) |
-| 2024-07-25 | [`burotec.biz`](https://google.com/search?q=burotec.biz) | [eldorado](https://ransomwatch.telemetry.ltd/#/profiles?id=eldorado) |
