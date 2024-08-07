@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-08-07 | [`bonatra.com`](https://google.com/search?q=bonatra.com) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-08-07 | [`https://biw-burger.de`](https://google.com/search?q=https%3A%2F%2Fbiw-burger.de) | [alphalocker](https://ransomwatch.telemetry.ltd/#/profiles?id=alphalocker) |
 | 2024-08-06 | [`Omni Family Health`](https://google.com/search?q=Omni+Family+Health) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-08-06 | [`True Blue Environmental`](https://google.com/search?q=True+Blue+Environmental) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-07-25 | [`Athlon`](https://google.com/search?q=Athlon) | [vanirgroup](https://ransomwatch.telemetry.ltd/#/profiles?id=vanirgroup) |
 | 2024-07-25 | [`HTE Technologies`](https://google.com/search?q=HTE+Technologies) | [eldorado](https://ransomwatch.telemetry.ltd/#/profiles?id=eldorado) |
 | 2024-07-25 | [`goughhomes.com`](https://google.com/search?q=goughhomes.com) | [eldorado](https://ransomwatch.telemetry.ltd/#/profiles?id=eldorado) |
-| 2024-07-25 | [`Baker Triangle`](https://google.com/search?q=Baker+Triangle) | [eldorado](https://ransomwatch.telemetry.ltd/#/profiles?id=eldorado) |
