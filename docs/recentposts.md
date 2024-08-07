@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-08-07 | [`amplicon.com`](https://google.com/search?q=amplicon.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-08-07 | [`infotexim.pe`](https://google.com/search?q=infotexim.pe) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-08-07 | [`A****N`](https://google.com/search?q=A%2A%2A%2A%2AN) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
 | 2024-08-07 | [`kempe.com.au`](https://google.com/search?q=kempe.com.au) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-07-25 | [`perfeitaplastica.com.br`](https://google.com/search?q=perfeitaplastica.com.br) | [ransomcortex](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomcortex) |
 | 2024-07-25 | [`www.respirarlondrina.com.br`](https://google.com/search?q=www.respirarlondrina.com.br) | [ransomcortex](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomcortex) |
 | 2024-07-25 | [`painproclinics.com`](https://google.com/search?q=painproclinics.com) | [ransomcortex](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomcortex) |
-| 2024-07-25 | [`Beowulfchain`](https://google.com/search?q=Beowulfchain) | [vanirgroup](https://ransomwatch.telemetry.ltd/#/profiles?id=vanirgroup) |
