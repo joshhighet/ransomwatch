@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-08-07 | [`hudsoncivil.com.au`](https://google.com/search?q=hudsoncivil.com.au) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-08-07 | [`www.jgsummit.com.ph`](https://google.com/search?q=www.jgsummit.com.ph) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-08-07 | [`Bayhealth Hospital`](https://google.com/search?q=Bayhealth+Hospital) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2024-08-07 | [`amplicon.com`](https://google.com/search?q=amplicon.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-07-25 | [`Uw logistieke partner`](https://google.com/search?q=Uw+logistieke+partner) | [madliberator](https://ransomwatch.telemetry.ltd/#/profiles?id=madliberator) |
 | 2024-07-25 | [`ORBINOX`](https://google.com/search?q=ORBINOX) | [madliberator](https://ransomwatch.telemetry.ltd/#/profiles?id=madliberator) |
 | 2024-07-25 | [`www.donaanita.com`](https://google.com/search?q=www.donaanita.com) | [ransomcortex](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomcortex) |
-| 2024-07-25 | [`perfeitaplastica.com.br`](https://google.com/search?q=perfeitaplastica.com.br) | [ransomcortex](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomcortex) |
