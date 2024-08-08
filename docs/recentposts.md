@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-08-08 | [`comoferta.com`](https://google.com/search?q=comoferta.com) | [darkvault](https://ransomwatch.telemetry.ltd/#/profiles?id=darkvault) |
+| 2024-08-08 | [`mercadomineiro.com.br`](https://google.com/search?q=mercadomineiro.com.br) | [darkvault](https://ransomwatch.telemetry.ltd/#/profiles?id=darkvault) |
 | 2024-08-08 | [`NIDEC CORPORATION`](https://google.com/search?q=NIDEC+CORPORATION) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2024-08-08 | [`Horizon View Medical Center`](https://google.com/search?q=Horizon+View+Medical+Center) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2024-08-07 | [`hudsoncivil.com.au`](https://google.com/search?q=hudsoncivil.com.au) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-07-25 | [`MINISTERO DELLA CULTURA`](https://google.com/search?q=MINISTERO+DELLA+CULTURA) | [madliberator](https://ransomwatch.telemetry.ltd/#/profiles?id=madliberator) |
 | 2024-07-25 | [`CROSSWEAR TRADING LTD`](https://google.com/search?q=CROSSWEAR+TRADING+LTD) | [madliberator](https://ransomwatch.telemetry.ltd/#/profiles?id=madliberator) |
 | 2024-07-25 | [`Cities Network`](https://google.com/search?q=Cities+Network) | [madliberator](https://ransomwatch.telemetry.ltd/#/profiles?id=madliberator) |
-| 2024-07-25 | [`ZB Financial Holdings`](https://google.com/search?q=ZB+Financial+Holdings) | [madliberator](https://ransomwatch.telemetry.ltd/#/profiles?id=madliberator) |
-| 2024-07-25 | [`Uw logistieke partner`](https://google.com/search?q=Uw+logistieke+partner) | [madliberator](https://ransomwatch.telemetry.ltd/#/profiles?id=madliberator) |
