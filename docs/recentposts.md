@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-08-08 | [`modernceramics.com`](https://google.com/search?q=modernceramics.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-08-08 | [`rationalenterprise.com`](https://google.com/search?q=rationalenterprise.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-08-08 | [`inv-dar.com`](https://google.com/search?q=inv-dar.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-08-08 | [`Gramercy Surgery Center Data Leak`](https://google.com/search?q=Gramercy+Surgery+Center+Data+Leak) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2024-08-08 | [`Gramercy Surgery Center  Data  Leak`](https://google.com/search?q=Gramercy+Surgery+Center++Data++Leak) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2024-08-08 | [`https://imagemicro.com/`](https://google.com/search?q=https%3A%2F%2Fimagemicro.com%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2024-07-25 | [`navalaviationmuseum.org`](https://google.com/search?q=navalaviationmuseum.org) | [dispossessor](https://ransomwatch.telemetry.ltd/#/profiles?id=dispossessor) |
 | 2024-07-25 | [`nationalflightacademy.com`](https://google.com/search?q=nationalflightacademy.com) | [dispossessor](https://ransomwatch.telemetry.ltd/#/profiles?id=dispossessor) |
 | 2024-07-25 | [`umbrellaproperties.com`](https://google.com/search?q=umbrellaproperties.com) | [dispossessor](https://ransomwatch.telemetry.ltd/#/profiles?id=dispossessor) |
-| 2024-07-25 | [`UMBRELLA PROPERTIES PART2`](https://google.com/search?q=UMBRELLA+PROPERTIES+PART2) | [dispossessor](https://ransomwatch.telemetry.ltd/#/profiles?id=dispossessor) |
-| 2024-07-25 | [`UMAPS - PART2`](https://google.com/search?q=UMAPS+-+PART2) | [dispossessor](https://ransomwatch.telemetry.ltd/#/profiles?id=dispossessor) |
-| 2024-07-25 | [`fidelia-consulting.com`](https://google.com/search?q=fidelia-consulting.com) | [dispossessor](https://ransomwatch.telemetry.ltd/#/profiles?id=dispossessor) |

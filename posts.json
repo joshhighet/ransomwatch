@@ -62738,5 +62738,20 @@
         "post_title": "Gramercy Surgery Center Data Leak",
         "group_name": "everest",
         "discovered": "2024-08-08 18:47:25.862068"
+    },
+    {
+        "post_title": "inv-dar.com",
+        "group_name": "ransomhub",
+        "discovered": "2024-08-08 20:39:52.372980"
+    },
+    {
+        "post_title": "rationalenterprise.com",
+        "group_name": "ransomhub",
+        "discovered": "2024-08-08 20:39:58.306668"
+    },
+    {
+        "post_title": "modernceramics.com",
+        "group_name": "ransomhub",
+        "discovered": "2024-08-08 20:39:59.054296"
     }
 ]
