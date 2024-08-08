@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-08-08 | [`icarasia.com`](https://google.com/search?q=icarasia.com) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-08-08 | [`modernceramics.com`](https://google.com/search?q=modernceramics.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-08-08 | [`rationalenterprise.com`](https://google.com/search?q=rationalenterprise.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-08-08 | [`inv-dar.com`](https://google.com/search?q=inv-dar.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-07-25 | [`myhomecarellc.com`](https://google.com/search?q=myhomecarellc.com) | [dispossessor](https://ransomwatch.telemetry.ltd/#/profiles?id=dispossessor) |
 | 2024-07-25 | [`navalaviationmuseum.org`](https://google.com/search?q=navalaviationmuseum.org) | [dispossessor](https://ransomwatch.telemetry.ltd/#/profiles?id=dispossessor) |
 | 2024-07-25 | [`nationalflightacademy.com`](https://google.com/search?q=nationalflightacademy.com) | [dispossessor](https://ransomwatch.telemetry.ltd/#/profiles?id=dispossessor) |
-| 2024-07-25 | [`umbrellaproperties.com`](https://google.com/search?q=umbrellaproperties.com) | [dispossessor](https://ransomwatch.telemetry.ltd/#/profiles?id=dispossessor) |
