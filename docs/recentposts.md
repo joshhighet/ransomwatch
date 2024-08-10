@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-08-10 | [`lmgroup.com`](https://google.com/search?q=lmgroup.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-08-10 | [`https://www.arkworkplacerisk.co.uk`](https://google.com/search?q=https%3A%2F%2Fwww.arkworkplacerisk.co.uk) | [alphalocker](https://ransomwatch.telemetry.ltd/#/profiles?id=alphalocker) |
 | 2024-08-10 | [`Brontoo Technology Solutions`](https://google.com/search?q=Brontoo+Technology+Solutions) | [ransomexx](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomexx) |
 | 2024-08-10 | [`Credible Group`](https://google.com/search?q=Credible+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-07-25 | [`Multiple Months, All Idiots`](https://google.com/search?q=Multiple+Months%2C+All+Idiots) | [nullbulge](https://ransomwatch.telemetry.ltd/#/profiles?id=nullbulge) |
 | 2024-07-25 | [`Release is close`](https://google.com/search?q=Release+is+close) | [nullbulge](https://ransomwatch.telemetry.ltd/#/profiles?id=nullbulge) |
 | 2024-07-25 | [`Intermitem`](https://google.com/search?q=Intermitem) | [nullbulge](https://ransomwatch.telemetry.ltd/#/profiles?id=nullbulge) |
-| 2024-07-25 | [`Disney Internal Slack`](https://google.com/search?q=Disney+Internal+Slack) | [nullbulge](https://ransomwatch.telemetry.ltd/#/profiles?id=nullbulge) |
