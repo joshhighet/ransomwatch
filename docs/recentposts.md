@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-08-11 | [`Hanon Systems`](https://google.com/search?q=Hanon+Systems) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
+| 2024-08-11 | [`Moser Wealth Advisors`](https://google.com/search?q=Moser+Wealth+Advisors) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
+| 2024-08-11 | [`robertshvac.com`](https://google.com/search?q=robertshvac.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
 | 2024-08-10 | [`lmgroup.com`](https://google.com/search?q=lmgroup.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-08-10 | [`https://www.arkworkplacerisk.co.uk`](https://google.com/search?q=https%3A%2F%2Fwww.arkworkplacerisk.co.uk) | [alphalocker](https://ransomwatch.telemetry.ltd/#/profiles?id=alphalocker) |
 | 2024-08-10 | [`Brontoo Technology Solutions`](https://google.com/search?q=Brontoo+Technology+Solutions) | [ransomexx](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomexx) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2024-07-25 | [`THE  FIRST SHAMING`](https://google.com/search?q=THE++FIRST+SHAMING) | [nullbulge](https://ransomwatch.telemetry.ltd/#/profiles?id=nullbulge) |
 | 2024-07-25 | [`Second Punch`](https://google.com/search?q=Second+Punch) | [nullbulge](https://ransomwatch.telemetry.ltd/#/profiles?id=nullbulge) |
 | 2024-07-25 | [`CRYPTO`](https://google.com/search?q=CRYPTO) | [nullbulge](https://ransomwatch.telemetry.ltd/#/profiles?id=nullbulge) |
-| 2024-07-25 | [`Multiple Months, All Idiots`](https://google.com/search?q=Multiple+Months%2C+All+Idiots) | [nullbulge](https://ransomwatch.telemetry.ltd/#/profiles?id=nullbulge) |
-| 2024-07-25 | [`Release is close`](https://google.com/search?q=Release+is+close) | [nullbulge](https://ransomwatch.telemetry.ltd/#/profiles?id=nullbulge) |
-| 2024-07-25 | [`Intermitem`](https://google.com/search?q=Intermitem) | [nullbulge](https://ransomwatch.telemetry.ltd/#/profiles?id=nullbulge) |
