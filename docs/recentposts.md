@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-08-11 | [`Jeffersoncountyclerk.org`](https://google.com/search?q=Jeffersoncountyclerk.org) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-08-11 | [`Amco Metal Industrial Corporation`](https://google.com/search?q=Amco+Metal+Industrial+Corporation) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-08-11 | [`alliuminteriors.co.nz`](https://google.com/search?q=alliuminteriors.co.nz) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-08-11 | [`Hanon Systems`](https://google.com/search?q=Hanon+Systems) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-07-25 | [`The Law Office of Omar O. Vargas, P.C. Data Leak`](https://google.com/search?q=The+Law+Office+of+Omar+O.+Vargas%2C+P.C.+Data+Leak) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2024-07-25 | [`SH Pension Data Leak`](https://google.com/search?q=SH+Pension+Data+Leak) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2024-07-25 | [`Physical & Occupational Therapy Examiners ofTexas`](https://google.com/search?q=Physical+%26+Occupational+Therapy+Examiners+ofTexas) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2024-07-25 | [`THE  FIRST SHAMING`](https://google.com/search?q=THE++FIRST+SHAMING) | [nullbulge](https://ransomwatch.telemetry.ltd/#/profiles?id=nullbulge) |
