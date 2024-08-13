@@ -4,6 +4,12 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-08-13 | [`Parker Development Company`](https://google.com/search?q=Parker+Development+Company) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-08-13 | [`M??? ????k ??????`](https://google.com/search?q=M%3F%3F%3F+%3F%3F%3F%3Fk+%3F%3F%3F%3F%3F%3F) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-08-13 | [`Erie Meats`](https://google.com/search?q=Erie+Meats) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-08-13 | [`CinemaTech`](https://google.com/search?q=CinemaTech) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-08-13 | [`Air International Thermal Systems`](https://google.com/search?q=Air+International+Thermal+Systems) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-08-13 | [`Adina Design`](https://google.com/search?q=Adina+Design) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-08-13 | [`infotexim.pe&lt;Auction&gt;`](https://google.com/search?q=infotexim.pe%26lt%3BAuction%26gt%3B) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-08-13 | [`The White Center Community Development Association`](https://google.com/search?q=The+White+Center+Community+Development+Association) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2024-08-13 | [`https://www.banneracc.com/`](https://google.com/search?q=https%3A%2F%2Fwww.banneracc.com%2F) | [trinity](https://ransomwatch.telemetry.ltd/#/profiles?id=trinity) |
@@ -198,9 +204,3 @@ _last `200` posts_
 | 2024-07-26 | [`oficina.oficinadasfinancas.com.br`](https://google.com/search?q=oficina.oficinadasfinancas.com.br) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-07-26 | [`Speed Advisory`](https://google.com/search?q=Speed+Advisory) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2024-07-25 | [`Physical & Occupational Therapy Examiners of Texas`](https://google.com/search?q=Physical+%26+Occupational+Therapy+Examiners+of+Texas) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2024-07-25 | [`mrhme.org`](https://google.com/search?q=mrhme.org) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-07-25 | [`Williams Construction`](https://google.com/search?q=Williams+Construction) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-07-25 | [`The Computer Merchant`](https://google.com/search?q=The+Computer+Merchant) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-07-25 | [`OfficeOps`](https://google.com/search?q=OfficeOps) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-07-25 | [`Odyssey Fitness Center`](https://google.com/search?q=Odyssey+Fitness+Center) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-07-25 | [`Golden Business Machines`](https://google.com/search?q=Golden+Business+Machines) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
