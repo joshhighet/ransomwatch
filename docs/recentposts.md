@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-08-13 | [`NetOne`](https://google.com/search?q=NetOne) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-08-12 | [`bedford.k12.oh.us`](https://google.com/search?q=bedford.k12.oh.us) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-08-12 | [`https://www.vvs-eksperten.dk/`](https://google.com/search?q=https%3A%2F%2Fwww.vvs-eksperten.dk%2F) | [cicada3301](https://ransomwatch.telemetry.ltd/#/profiles?id=cicada3301) |
 | 2024-08-12 | [`[DISCLOSED] Ronglian Group [Source code of RONGLIAN GROUP company developments]`](https://google.com/search?q=%5BDISCLOSED%5D+Ronglian+Group+%5BSource+code+of+RONGLIAN+GROUP+company+developments%5D) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-07-25 | [`panitchlaw.com`](https://google.com/search?q=panitchlaw.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-07-25 | [`cminsulation.com`](https://google.com/search?q=cminsulation.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-07-25 | [`baytoti.com`](https://google.com/search?q=baytoti.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-07-25 | [`Odessa College`](https://google.com/search?q=Odessa+College) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
