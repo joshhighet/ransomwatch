@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-08-13 | [`glazkov.co.il`](https://google.com/search?q=glazkov.co.il) | [darkvault](https://ransomwatch.telemetry.ltd/#/profiles?id=darkvault) |
 | 2024-08-13 | [`https://www.vvs-eksperten.dk`](https://google.com/search?q=https%3A%2F%2Fwww.vvs-eksperten.dk) | [cicada3301](https://ransomwatch.telemetry.ltd/#/profiles?id=cicada3301) |
 | 2024-08-13 | [`NetOne`](https://google.com/search?q=NetOne) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-08-12 | [`bedford.k12.oh.us`](https://google.com/search?q=bedford.k12.oh.us) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-07-25 | [`https://tristardisplay.com`](https://google.com/search?q=https%3A%2F%2Ftristardisplay.com) | [cicada3301](https://ransomwatch.telemetry.ltd/#/profiles?id=cicada3301) |
 | 2024-07-25 | [`https://www.narstco.com`](https://google.com/search?q=https%3A%2F%2Fwww.narstco.com) | [cicada3301](https://ransomwatch.telemetry.ltd/#/profiles?id=cicada3301) |
 | 2024-07-25 | [`panitchlaw.com`](https://google.com/search?q=panitchlaw.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-07-25 | [`cminsulation.com`](https://google.com/search?q=cminsulation.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
