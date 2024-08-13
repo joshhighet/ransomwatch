@@ -4,6 +4,11 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-08-13 | [`https://www.banneracc.com/`](https://google.com/search?q=https%3A%2F%2Fwww.banneracc.com%2F) | [trinity](https://ransomwatch.telemetry.ltd/#/profiles?id=trinity) |
+| 2024-08-13 | [`Banner and Associates`](https://google.com/search?q=Banner+and+Associates) | [trinity](https://ransomwatch.telemetry.ltd/#/profiles?id=trinity) |
+| 2024-08-13 | [`lenmed.co.za`](https://google.com/search?q=lenmed.co.za) | [darkvault](https://ransomwatch.telemetry.ltd/#/profiles?id=darkvault) |
+| 2024-08-13 | [`gpf.org.za`](https://google.com/search?q=gpf.org.za) | [darkvault](https://ransomwatch.telemetry.ltd/#/profiles?id=darkvault) |
+| 2024-08-13 | [`Southwest Family Medicine Associates`](https://google.com/search?q=Southwest+Family+Medicine+Associates) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-08-13 | [`glazkov.co.il`](https://google.com/search?q=glazkov.co.il) | [darkvault](https://ransomwatch.telemetry.ltd/#/profiles?id=darkvault) |
 | 2024-08-13 | [`https://www.vvs-eksperten.dk`](https://google.com/search?q=https%3A%2F%2Fwww.vvs-eksperten.dk) | [cicada3301](https://ransomwatch.telemetry.ltd/#/profiles?id=cicada3301) |
 | 2024-08-13 | [`NetOne`](https://google.com/search?q=NetOne) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
@@ -199,8 +204,3 @@ _last `200` posts_
 | 2024-07-25 | [`Golden Business Machines`](https://google.com/search?q=Golden+Business+Machines) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-07-25 | [`Gendron & Gendron`](https://google.com/search?q=Gendron+%26+Gendron) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-07-25 | [`Gateway Extrusions`](https://google.com/search?q=Gateway+Extrusions) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-07-25 | [`https://www.dkgroup.com`](https://google.com/search?q=https%3A%2F%2Fwww.dkgroup.com) | [cicada3301](https://ransomwatch.telemetry.ltd/#/profiles?id=cicada3301) |
-| 2024-07-25 | [`https://www.vossbelt.com`](https://google.com/search?q=https%3A%2F%2Fwww.vossbelt.com) | [cicada3301](https://ransomwatch.telemetry.ltd/#/profiles?id=cicada3301) |
-| 2024-07-25 | [`https://tristardisplay.com`](https://google.com/search?q=https%3A%2F%2Ftristardisplay.com) | [cicada3301](https://ransomwatch.telemetry.ltd/#/profiles?id=cicada3301) |
-| 2024-07-25 | [`https://www.narstco.com`](https://google.com/search?q=https%3A%2F%2Fwww.narstco.com) | [cicada3301](https://ransomwatch.telemetry.ltd/#/profiles?id=cicada3301) |
-| 2024-07-25 | [`panitchlaw.com`](https://google.com/search?q=panitchlaw.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
