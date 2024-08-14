@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-08-14 | [`mmtransport.com`](https://google.com/search?q=mmtransport.com) | [dAn0n](https://ransomwatch.telemetry.ltd/#/profiles?id=dAn0n) |
 | 2024-08-13 | [`http://www.forrec.it`](https://google.com/search?q=http%3A%2F%2Fwww.forrec.it) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-08-13 | [`Parker Development Company`](https://google.com/search?q=Parker+Development+Company) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-08-13 | [`M??? ????k ??????`](https://google.com/search?q=M%3F%3F%3F+%3F%3F%3F%3Fk+%3F%3F%3F%3F%3F%3F) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-07-26 | [`ach.co.th`](https://google.com/search?q=ach.co.th) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-07-26 | [`bpjaguar.com`](https://google.com/search?q=bpjaguar.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-07-26 | [`oficina.oficinadasfinancas.com.br`](https://google.com/search?q=oficina.oficinadasfinancas.com.br) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-07-26 | [`Speed Advisory`](https://google.com/search?q=Speed+Advisory) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
