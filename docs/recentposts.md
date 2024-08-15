@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-08-15 | [`ljglaw.com`](https://google.com/search?q=ljglaw.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-08-15 | [`www.aaconsultinc.com`](https://google.com/search?q=www.aaconsultinc.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-08-15 | [`Tick Tock`](https://google.com/search?q=Tick+Tock) | [nullbulge](https://ransomwatch.telemetry.ltd/#/profiles?id=nullbulge) |
 | 2024-08-15 | [`Mill Creek Lumber`](https://google.com/search?q=Mill+Creek+Lumber) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-08-15 | [`Zionists EPS Tech Ltd Hacked`](https://google.com/search?q=Zionists+EPS+Tech+Ltd+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-07-27 | [`The Weinstein Firm`](https://google.com/search?q=The+Weinstein+Firm) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-07-27 | [`ayurcan`](https://google.com/search?q=ayurcan) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-07-26 | [`www.neurologicalinstitute.com`](https://google.com/search?q=www.neurologicalinstitute.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-07-26 | [`www.whittakersystem.com`](https://google.com/search?q=www.whittakersystem.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-07-26 | [`www.castelligroup.com`](https://google.com/search?q=www.castelligroup.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
