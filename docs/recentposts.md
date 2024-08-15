@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-08-15 | [`megatravel.com.mx`](https://google.com/search?q=megatravel.com.mx) | [darkvault](https://ransomwatch.telemetry.ltd/#/profiles?id=darkvault) |
 | 2024-08-14 | [`Y*********I`](https://google.com/search?q=Y%2A%2A%2A%2A%2A%2A%2A%2A%2AI) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
 | 2024-08-14 | [`startaxi.com`](https://google.com/search?q=startaxi.com) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-08-14 | [`The Washington Times`](https://google.com/search?q=The+Washington+Times) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-07-26 | [`www.newcastlewa.gov/`](https://google.com/search?q=www.newcastlewa.gov%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-07-26 | [`www.erma-rtmo.it/`](https://google.com/search?q=www.erma-rtmo.it%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-07-26 | [`cminsulation.com/`](https://google.com/search?q=cminsulation.com%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-07-26 | [`baytoti.com/`](https://google.com/search?q=baytoti.com%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
