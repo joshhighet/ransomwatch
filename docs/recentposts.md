@@ -4,6 +4,11 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-08-16 | [`Prefeitura do Jaboatão dos Guararapes`](https://google.com/search?q=Prefeitura+do+Jaboat%C3%A3o+dos+Guararapes) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
+| 2024-08-16 | [`on365.co.uk`](https://google.com/search?q=on365.co.uk) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
+| 2024-08-16 | [`Hiesmayr Haustechnik`](https://google.com/search?q=Hiesmayr+Haustechnik) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
+| 2024-08-16 | [`promises2kids.org `](https://google.com/search?q=promises2kids.org+) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
+| 2024-08-16 | [`Amco Metal Industrial Corporation `](https://google.com/search?q=Amco+Metal+Industrial+Corporation+) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-08-16 | [`ccj.edu.lb `](https://google.com/search?q=ccj.edu.lb+) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-08-16 | [`[DISCLOSED] Valisana`](https://google.com/search?q=%5BDISCLOSED%5D+Valisana) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2024-08-16 | [`BTS Biogas`](https://google.com/search?q=BTS+Biogas) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
@@ -199,8 +204,3 @@ _last `200` posts_
 | 2024-07-29 | [`delhihospital.com`](https://google.com/search?q=delhihospital.com) | [dispossessor](https://ransomwatch.telemetry.ltd/#/profiles?id=dispossessor) |
 | 2024-07-29 | [`https://qatar.vcu.edu`](https://google.com/search?q=https%3A%2F%2Fqatar.vcu.edu) | [dispossessor](https://ransomwatch.telemetry.ltd/#/profiles?id=dispossessor) |
 | 2024-07-29 | [`www.garudafood.com/`](https://google.com/search?q=www.garudafood.com%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-07-29 | [`ita.ach.co.th/`](https://google.com/search?q=ita.ach.co.th%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-07-28 | [`Ascent Group`](https://google.com/search?q=Ascent+Group) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
-| 2024-07-28 | [`zoppo.com`](https://google.com/search?q=zoppo.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
-| 2024-07-27 | [`http://hanoverhill.com`](https://google.com/search?q=http%3A%2F%2Fhanoverhill.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
-| 2024-07-27 | [`New Jersey City University`](https://google.com/search?q=New+Jersey+City+University) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
