@@ -4,6 +4,14 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-08-17 | [`www.albynhousing.org.uk`](https://google.com/search?q=www.albynhousing.org.uk) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-08-17 | [`www.lennartsfors.com`](https://google.com/search?q=www.lennartsfors.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-08-17 | [`www.allanmcneill.co.nz`](https://google.com/search?q=www.allanmcneill.co.nz) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-08-17 | [`www.martinswood.herts.sch.uk`](https://google.com/search?q=www.martinswood.herts.sch.uk) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-08-17 | [`www.gmchc.org`](https://google.com/search?q=www.gmchc.org) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-08-17 | [`www.regentcaravans.com.au`](https://google.com/search?q=www.regentcaravans.com.au) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-08-17 | [`www.netconfig.co.za`](https://google.com/search?q=www.netconfig.co.za) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-08-17 | [`www.manotherm.ie`](https://google.com/search?q=www.manotherm.ie) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-08-17 | [`nrcollecties.nl`](https://google.com/search?q=nrcollecties.nl) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-08-17 | [`www.wmwmeyer.com`](https://google.com/search?q=www.wmwmeyer.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-08-16 | [`www.vinakom.com`](https://google.com/search?q=www.vinakom.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -196,11 +204,3 @@ _last `200` posts_
 | 2024-07-30 | [`Macadam Europe`](https://google.com/search?q=Macadam+Europe) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-07-30 | [`Olschewski Davie`](https://google.com/search?q=Olschewski+Davie) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-07-30 | [`Gemicar`](https://google.com/search?q=Gemicar) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
-| 2024-07-30 | [`welevelup.com`](https://google.com/search?q=welevelup.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-07-30 | [`udch.in.th`](https://google.com/search?q=udch.in.th) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-07-30 | [`http://www.chsd117.org`](https://google.com/search?q=http%3A%2F%2Fwww.chsd117.org) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
-| 2024-07-30 | [`SAGE Publishing`](https://google.com/search?q=SAGE+Publishing) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2024-07-29 | [`labor-koblenz.de`](https://google.com/search?q=labor-koblenz.de) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-07-29 | [`BASF - Nunhems`](https://google.com/search?q=BASF+-+Nunhems) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
-| 2024-07-29 | [`Crownlea Group`](https://google.com/search?q=Crownlea+Group) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2024-07-29 | [`https://tursso.com`](https://google.com/search?q=https%3A%2F%2Ftursso.com) | [dispossessor](https://ransomwatch.telemetry.ltd/#/profiles?id=dispossessor) |
