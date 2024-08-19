@@ -1202,8 +1202,10 @@ def ciphbit():
 
 def threeam():
     stdlog('parser: ' + 'threeam')
+    # grep -A 1 '<div class="p ost-title-block">' source/threeam-*.html | grep '<div>' | cut -d '>' -f 2 | cut -d '<' -f 1
+    # cat source/threeam-*.html | awk '{while (match($0, /<div id="post-title" class="post-title f_left">[^<]+<\/div>/)) {print substr($0, RSTART, RLENGTH); $0 = substr($0, RSTART + RLENGTH); fflush()}}' | cut -d '>' -f 2 | cut -d '<' -f 1
     parser = '''
-    grep -A 1 '<div class="post-title-block">' source/threeam-*.html | grep '<div>' | cut -d '>' -f 2 | cut -d '<' -f 1
+    perl -lne 'while(/<div id="post-title" class="post-title f_left">([^<]+)<\/div>/g) { print $1 }' source/threeam-*.html || true
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
