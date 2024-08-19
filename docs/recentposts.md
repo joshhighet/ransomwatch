@@ -24,6 +24,7 @@ _last `200` posts_
 | 2024-08-19 | [`Alvan Blanch Development`](https://google.com/search?q=Alvan+Blanch+Development) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
 | 2024-08-19 | [`Warwick Hotels and Resorts`](https://google.com/search?q=Warwick+Hotels+and+Resorts) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
 | 2024-08-19 | [`Innoquest`](https://google.com/search?q=Innoquest) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
+| 2024-08-19 | [`The Transit Authorit y of Northern Kentuc ky (TANK)`](https://google.com/search?q=The+Transit+Authorit+y+of+Northern+Kentuc+ky+%28TANK%29) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-08-19 | [`http://wearesbi.com`](https://google.com/search?q=http%3A%2F%2Fwearesbi.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-08-19 | [`Jangho Group`](https://google.com/search?q=Jangho+Group) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2024-08-19 | [`The Greenhouse People`](https://google.com/search?q=The+Greenhouse+People) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-08-01 | [`https://www.acsi.org/`](https://google.com/search?q=https%3A%2F%2Fwww.acsi.org%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-08-01 | [`County Linen UK`](https://google.com/search?q=County+Linen+UK) | [dispossessor](https://ransomwatch.telemetry.ltd/#/profiles?id=dispossessor) |
 | 2024-08-01 | [`TNT Materials https://tnt-materials.com/`](https://google.com/search?q=TNT+Materials+https%3A%2F%2Ftnt-materials.com%2F) | [dispossessor](https://ransomwatch.telemetry.ltd/#/profiles?id=dispossessor) |
-| 2024-08-01 | [`dahlvalve.com\$23.9M\Canada\80GB\&lt;1% DISCLOSED`](https://google.com/search?q=dahlvalve.com%5C%2423.9M%5CCanada%5C80GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
