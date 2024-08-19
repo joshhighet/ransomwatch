@@ -1666,3 +1666,14 @@ def lynxblog():
         errlog('lynxblog: ' + 'parsing fail')
     for post in posts:
         appender(post, 'lynxblog')
+
+def helldown():
+    stdlog('parser: ' + 'helldown')
+    parser = '''
+    grep '<p class="card-summary">' source/helldown*.html | sed -e 's/<[^>]*>//g' -e 's/^[ \t]*//' | grep -v 'password is required to continue reading.' || true
+    '''
+    posts = runshellcmd(parser)
+    if len(posts) == 1:
+        errlog('helldown: ' + 'parsing fail')
+    for post in posts:
+        appender(post, 'helldown')
