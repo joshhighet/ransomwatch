@@ -24,6 +24,8 @@ _last `200` posts_
 | 2024-08-19 | [`Alvan Blanch Development`](https://google.com/search?q=Alvan+Blanch+Development) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
 | 2024-08-19 | [`Warwick Hotels and Resorts`](https://google.com/search?q=Warwick+Hotels+and+Resorts) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
 | 2024-08-19 | [`Innoquest`](https://google.com/search?q=Innoquest) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
+| 2024-08-19 | [`http://wearesbi.com`](https://google.com/search?q=http%3A%2F%2Fwearesbi.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
+| 2024-08-19 | [`Jangho Group`](https://google.com/search?q=Jangho+Group) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2024-08-19 | [`The Greenhouse People`](https://google.com/search?q=The+Greenhouse+People) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
 | 2024-08-19 | [`Zionists EPS Tech +150K Emails Leak`](https://google.com/search?q=Zionists+EPS+Tech+%2B150K+Emails+Leak) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2024-08-19 | [`www.jgsummit.com.ph &lt;update&gt;`](https://google.com/search?q=www.jgsummit.com.ph+%26lt%3Bupdate%26gt%3B) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-08-01 | [`County Linen UK`](https://google.com/search?q=County+Linen+UK) | [dispossessor](https://ransomwatch.telemetry.ltd/#/profiles?id=dispossessor) |
 | 2024-08-01 | [`TNT Materials https://tnt-materials.com/`](https://google.com/search?q=TNT+Materials+https%3A%2F%2Ftnt-materials.com%2F) | [dispossessor](https://ransomwatch.telemetry.ltd/#/profiles?id=dispossessor) |
 | 2024-08-01 | [`dahlvalve.com\$23.9M\Canada\80GB\&lt;1% DISCLOSED`](https://google.com/search?q=dahlvalve.com%5C%2423.9M%5CCanada%5C80GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2024-08-01 | [`Peñoles`](https://google.com/search?q=Pe%C3%B1oles) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2024-07-31 | [`www.byzan.com/`](https://google.com/search?q=www.byzan.com%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
