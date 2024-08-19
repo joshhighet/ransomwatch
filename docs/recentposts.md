@@ -4,6 +4,31 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-08-19 | [`XPERT Business Solutions GmbH`](https://google.com/search?q=XPERT+Business+Solutions+GmbH) | [helldown](https://ransomwatch.telemetry.ltd/#/profiles?id=helldown) |
+| 2024-08-19 | [`MyFreightWorld`](https://google.com/search?q=MyFreightWorld) | [helldown](https://ransomwatch.telemetry.ltd/#/profiles?id=helldown) |
+| 2024-08-19 | [`cbmm.org`](https://google.com/search?q=cbmm.org) | [helldown](https://ransomwatch.telemetry.ltd/#/profiles?id=helldown) |
+| 2024-08-19 | [`AZIENDA TRASPORTI PUBBLICI S.P.A.`](https://google.com/search?q=AZIENDA+TRASPORTI+PUBBLICI+S.P.A.) | [helldown](https://ransomwatch.telemetry.ltd/#/profiles?id=helldown) |
+| 2024-08-19 | [`briju.pl`](https://google.com/search?q=briju.pl) | [helldown](https://ransomwatch.telemetry.ltd/#/profiles?id=helldown) |
+| 2024-08-19 | [`vindix.pl`](https://google.com/search?q=vindix.pl) | [helldown](https://ransomwatch.telemetry.ltd/#/profiles?id=helldown) |
+| 2024-08-19 | [`Albatros S.r.l.`](https://google.com/search?q=Albatros+S.r.l.) | [helldown](https://ransomwatch.telemetry.ltd/#/profiles?id=helldown) |
+| 2024-08-19 | [`SCHLATTNER.de`](https://google.com/search?q=SCHLATTNER.de) | [helldown](https://ransomwatch.telemetry.ltd/#/profiles?id=helldown) |
+| 2024-08-19 | [`deganis.fr`](https://google.com/search?q=deganis.fr) | [helldown](https://ransomwatch.telemetry.ltd/#/profiles?id=helldown) |
+| 2024-08-19 | [`hugwi.ch`](https://google.com/search?q=hugwi.ch) | [helldown](https://ransomwatch.telemetry.ltd/#/profiles?id=helldown) |
+| 2024-08-19 | [`True Blue Environmental`](https://google.com/search?q=True+Blue+Environmental) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
+| 2024-08-19 | [`Reef-PCG (pcg.local)`](https://google.com/search?q=Reef-PCG+%28pcg.local%29) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
+| 2024-08-19 | [`Miller Boskus Lack Architects (ad.mbl-arch.com)`](https://google.com/search?q=Miller+Boskus+Lack+Architects+%28ad.mbl-arch.com%29) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
+| 2024-08-19 | [`Pyle Group`](https://google.com/search?q=Pyle+Group) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
+| 2024-08-19 | [`Concut (ddm.local)`](https://google.com/search?q=Concut+%28ddm.local%29) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
+| 2024-08-19 | [`Cambria Automobiles (summitgroup.local)`](https://google.com/search?q=Cambria+Automobiles+%28summitgroup.local%29) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
+| 2024-08-19 | [`Johnson Laschober & Associates `](https://google.com/search?q=Johnson+Laschober+%26+Associates+) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
+| 2024-08-19 | [`Alvan Blanch Development`](https://google.com/search?q=Alvan+Blanch+Development) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
+| 2024-08-19 | [`Warwick Hotels and Resorts`](https://google.com/search?q=Warwick+Hotels+and+Resorts) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
+| 2024-08-19 | [`Innoquest`](https://google.com/search?q=Innoquest) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
+| 2024-08-19 | [`The Greenhouse People`](https://google.com/search?q=The+Greenhouse+People) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
+| 2024-08-19 | [`Zionists EPS Tech +150K Emails Leak`](https://google.com/search?q=Zionists+EPS+Tech+%2B150K+Emails+Leak) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
+| 2024-08-19 | [`www.jgsummit.com.ph &lt;update&gt;`](https://google.com/search?q=www.jgsummit.com.ph+%26lt%3Bupdate%26gt%3B) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-08-19 | [`ccsdschools.com`](https://google.com/search?q=ccsdschools.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-08-19 | [`Ferraro Group`](https://google.com/search?q=Ferraro+Group) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-08-18 | [`Mohawk Valley Cardiology PC`](https://google.com/search?q=Mohawk+Valley+Cardiology+PC) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-08-18 | [`PBC Companies`](https://google.com/search?q=PBC+Companies) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-08-18 | [`Cosmetic Dental Group`](https://google.com/search?q=Cosmetic+Dental+Group) | [trinity](https://ransomwatch.telemetry.ltd/#/profiles?id=trinity) |
@@ -179,28 +204,3 @@ _last `200` posts_
 | 2024-08-01 | [`dahlvalve.com\$23.9M\Canada\80GB\&lt;1% DISCLOSED`](https://google.com/search?q=dahlvalve.com%5C%2423.9M%5CCanada%5C80GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-08-01 | [`Peñoles`](https://google.com/search?q=Pe%C3%B1oles) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-07-31 | [`www.byzan.com/`](https://google.com/search?q=www.byzan.com%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-07-31 | [`unknown`](https://google.com/search?q=unknown) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
-| 2024-07-31 | [`EFRON LAW FIRM`](https://google.com/search?q=EFRON+LAW+FIRM) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
-| 2024-07-31 | [`fingersstore.com`](https://google.com/search?q=fingersstore.com) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
-| 2024-07-31 | [`wgma.org`](https://google.com/search?q=wgma.org) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-07-31 | [`biggreenegg.com`](https://google.com/search?q=biggreenegg.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-07-31 | [`nydj.com`](https://google.com/search?q=nydj.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-07-31 | [`www.pharm-int.com`](https://google.com/search?q=www.pharm-int.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-07-31 | [`EBL PARTNERS (construction-interiors), Florida`](https://google.com/search?q=EBL+PARTNERS+%28construction-interiors%29%2C+Florida) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
-| 2024-07-31 | [`Kleven Construction`](https://google.com/search?q=Kleven+Construction) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2024-07-31 | [`Durham Manufacturing`](https://google.com/search?q=Durham+Manufacturing) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2024-07-31 | [`https://www.webasto.com`](https://google.com/search?q=https%3A%2F%2Fwww.webasto.com) | [metaencryptor](https://ransomwatch.telemetry.ltd/#/profiles?id=metaencryptor) |
-| 2024-07-31 | [`Find Great People`](https://google.com/search?q=Find+Great+People) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2024-07-31 | [`BRASPRESS`](https://google.com/search?q=BRASPRESS) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2024-07-31 | [`www.srmedicalcenter.org`](https://google.com/search?q=www.srmedicalcenter.org) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
-| 2024-07-31 | [`Florence Cement Company, Inc.`](https://google.com/search?q=Florence+Cement+Company%2C+Inc.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2024-07-31 | [`Sable International.`](https://google.com/search?q=Sable+International.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2024-07-31 | [`City of Columbus, Ohio`](https://google.com/search?q=City+of+Columbus%2C+Ohio) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2024-07-31 | [`Network Communications Group `](https://google.com/search?q=Network+Communications+Group+) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
-| 2024-07-31 | [`Lake Washington Institute of Technology`](https://google.com/search?q=Lake+Washington+Institute+of+Technology) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
-| 2024-07-30 | [`verwarmingheyndrickx.be`](https://google.com/search?q=verwarmingheyndrickx.be) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-07-30 | [`stb.ro`](https://google.com/search?q=stb.ro) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
-| 2024-07-30 | [`www.whittakersystem.com/`](https://google.com/search?q=www.whittakersystem.com%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-07-30 | [`chubb-bulleid.co.uk\$14M\United Kingdom\362GB\&lt;1% DISCLOSED`](https://google.com/search?q=chubb-bulleid.co.uk%5C%2414M%5CUnited+Kingdom%5C362GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2024-07-30 | [`leonardssyrups.com\$22M\USA\575GB\&lt;1% DISCLOSED`](https://google.com/search?q=leonardssyrups.com%5C%2422M%5CUSA%5C575GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2024-07-30 | [`westernwyomingbeverages.com\$59.2M\USA\102GB\&lt;1% DISCLOSED`](https://google.com/search?q=westernwyomingbeverages.com%5C%2459.2M%5CUSA%5C102GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
