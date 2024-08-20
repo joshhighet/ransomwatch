@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-08-20 | [`Akkanat Holding`](https://google.com/search?q=Akkanat+Holding) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-08-19 | [`imobesidade.com.br`](https://google.com/search?q=imobesidade.com.br) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-08-19 | [`rationalenterprise.com&lt;disclose&gt;`](https://google.com/search?q=rationalenterprise.com%26lt%3Bdisclose%26gt%3B) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-08-19 | [`Waynesboro Nurseries`](https://google.com/search?q=Waynesboro+Nurseries) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-08-01 | [`text/html; charset=utf-8`](https://google.com/search?q=text%2Fhtml%3B+charset%3Dutf-8) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-08-01 | [`mcdowallaffleck.com.au`](https://google.com/search?q=mcdowallaffleck.com.au) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-08-01 | [`effinghamschools.com`](https://google.com/search?q=effinghamschools.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-08-01 | [`Adorna & Guzman Dentistry`](https://google.com/search?q=Adorna+%26+Guzman+Dentistry) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
