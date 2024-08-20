@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-08-20 | [`jpoint.in`](https://google.com/search?q=jpoint.in) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
+| 2024-08-20 | [`blowerdempsay.com`](https://google.com/search?q=blowerdempsay.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-08-20 | [`inlighten.net`](https://google.com/search?q=inlighten.net) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-08-20 | [`atpsassari.it`](https://google.com/search?q=atpsassari.it) | [helldown](https://ransomwatch.telemetry.ltd/#/profiles?id=helldown) |
 | 2024-08-20 | [`Rushlift (lks.net)`](https://google.com/search?q=Rushlift+%28lks.net%29) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-08-02 | [`retaildatallc.com`](https://google.com/search?q=retaildatallc.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-08-02 | [`q-cells.de`](https://google.com/search?q=q-cells.de) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
 | 2024-08-02 | [`Veren Inc and Crescent Point Energy`](https://google.com/search?q=Veren+Inc+and+Crescent+Point+Energy) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
-| 2024-08-02 | [`https://www.valleybulkinc.com`](https://google.com/search?q=https%3A%2F%2Fwww.valleybulkinc.com) | [cicada3301](https://ransomwatch.telemetry.ltd/#/profiles?id=cicada3301) |
-| 2024-08-02 | [`ENEA Italy`](https://google.com/search?q=ENEA+Italy) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
