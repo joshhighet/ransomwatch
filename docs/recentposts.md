@@ -4,6 +4,10 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-08-21 | [`kidkraft.com`](https://google.com/search?q=kidkraft.com) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
+| 2024-08-21 | [`https://www.findel.co.uk`](https://google.com/search?q=https%3A%2F%2Fwww.findel.co.uk) | [cicada3301](https://ransomwatch.telemetry.ltd/#/profiles?id=cicada3301) |
+| 2024-08-21 | [`http://www.luigiconvertini.it`](https://google.com/search?q=http%3A%2F%2Fwww.luigiconvertini.it) | [ciphbit](https://ransomwatch.telemetry.ltd/#/profiles?id=ciphbit) |
+| 2024-08-21 | [`spvmhc.org`](https://google.com/search?q=spvmhc.org) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
 | 2024-08-21 | [`Olympus Financial`](https://google.com/search?q=Olympus+Financial) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2024-08-21 | [`globacap.com`](https://google.com/search?q=globacap.com) | [apt73](https://ransomwatch.telemetry.ltd/#/profiles?id=apt73) |
 | 2024-08-21 | [`Codival`](https://google.com/search?q=Codival) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
@@ -200,7 +204,3 @@ _last `200` posts_
 | 2024-08-03 | [`https://aikenhousing.org/`](https://google.com/search?q=https%3A%2F%2Faikenhousing.org%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-08-02 | [`Khandelwal Laboratories Pvt`](https://google.com/search?q=Khandelwal+Laboratories+Pvt) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-08-02 | [`Jangho Group`](https://google.com/search?q=Jangho+Group) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2024-08-02 | [`Keystone Engineering`](https://google.com/search?q=Keystone+Engineering) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
-| 2024-08-02 | [`Kemlon Products &amp; Development Co Inc`](https://google.com/search?q=Kemlon+Products+%26amp%3B+Development+Co+Inc) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
-| 2024-08-02 | [`www.normandydiesel.fr`](https://google.com/search?q=www.normandydiesel.fr) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-08-02 | [`www.bahia-principe.com`](https://google.com/search?q=www.bahia-principe.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
