@@ -4,6 +4,12 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-08-21 | [`The SMS Group`](https://google.com/search?q=The+SMS+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-08-21 | [`RCG`](https://google.com/search?q=RCG) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-08-21 | [`Quilvest Capital Partners`](https://google.com/search?q=Quilvest+Capital+Partners) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-08-21 | [`Policy Administration Solutions`](https://google.com/search?q=Policy+Administration+Solutions) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-08-21 | [`Grid Subject Matter Experts`](https://google.com/search?q=Grid+Subject+Matter+Experts) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-08-21 | [`Armour Coatings`](https://google.com/search?q=Armour+Coatings) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-08-21 | [`Zyxel.eu`](https://google.com/search?q=Zyxel.eu) | [helldown](https://ransomwatch.telemetry.ltd/#/profiles?id=helldown) |
 | 2024-08-21 | [`Jinny Corporation`](https://google.com/search?q=Jinny+Corporation) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-08-21 | [`www.pindrophearing.co.uk`](https://google.com/search?q=www.pindrophearing.co.uk) | [apt73](https://ransomwatch.telemetry.ltd/#/profiles?id=apt73) |
@@ -198,9 +204,3 @@ _last `200` posts_
 | 2024-08-05 | [`https://silipos.com`](https://google.com/search?q=https%3A%2F%2Fsilipos.com) | [cicada3301](https://ransomwatch.telemetry.ltd/#/profiles?id=cicada3301) |
 | 2024-08-05 | [`https://www.squareonecoatingsystems.com`](https://google.com/search?q=https%3A%2F%2Fwww.squareonecoatingsystems.com) | [cicada3301](https://ransomwatch.telemetry.ltd/#/profiles?id=cicada3301) |
 | 2024-08-05 | [`Zon Beachside https://zonbeachside.com`](https://google.com/search?q=Zon+Beachside+https%3A%2F%2Fzonbeachside.com) | [dispossessor](https://ransomwatch.telemetry.ltd/#/profiles?id=dispossessor) |
-| 2024-08-05 | [`Hi-P International`](https://google.com/search?q=Hi-P+International) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
-| 2024-08-05 | [`Speed Advisory Data Leak`](https://google.com/search?q=Speed+Advisory+Data+Leak) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
-| 2024-08-05 | [`exco-solutions.com\$76.4M\Germany\251GB\&lt;1% DISCLOSED`](https://google.com/search?q=exco-solutions.com%5C%2476.4M%5CGermany%5C251GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2024-08-05 | [`Maryville Academy`](https://google.com/search?q=Maryville+Academy) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2024-08-04 | [`notariusze.waw.pl`](https://google.com/search?q=notariusze.waw.pl) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
-| 2024-08-04 | [`Ma****ny`](https://google.com/search?q=Ma%2A%2A%2A%2Any) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
