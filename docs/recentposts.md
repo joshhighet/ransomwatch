@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-08-21 | [`Olympus Financial`](https://google.com/search?q=Olympus+Financial) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2024-08-21 | [`globacap.com`](https://google.com/search?q=globacap.com) | [apt73](https://ransomwatch.telemetry.ltd/#/profiles?id=apt73) |
 | 2024-08-21 | [`Codival`](https://google.com/search?q=Codival) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2024-08-20 | [`jpoint.in`](https://google.com/search?q=jpoint.in) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-08-02 | [`Kemlon Products &amp; Development Co Inc`](https://google.com/search?q=Kemlon+Products+%26amp%3B+Development+Co+Inc) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2024-08-02 | [`www.normandydiesel.fr`](https://google.com/search?q=www.normandydiesel.fr) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-08-02 | [`www.bahia-principe.com`](https://google.com/search?q=www.bahia-principe.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-08-02 | [`retaildatallc.com`](https://google.com/search?q=retaildatallc.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
