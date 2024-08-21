@@ -4,6 +4,11 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-08-21 | [`www.pindrophearing.co.uk`](https://google.com/search?q=www.pindrophearing.co.uk) | [apt73](https://ransomwatch.telemetry.ltd/#/profiles?id=apt73) |
+| 2024-08-21 | [`capitalfund1.com`](https://google.com/search?q=capitalfund1.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-08-21 | [`www.banhampoultry.co.uk`](https://google.com/search?q=www.banhampoultry.co.uk) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-08-21 | [`HOERBIGER Holding`](https://google.com/search?q=HOERBIGER+Holding) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
+| 2024-08-21 | [`Co`](https://google.com/search?q=Co) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-08-21 | [`kidkraft.com`](https://google.com/search?q=kidkraft.com) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
 | 2024-08-21 | [`https://www.findel.co.uk`](https://google.com/search?q=https%3A%2F%2Fwww.findel.co.uk) | [cicada3301](https://ransomwatch.telemetry.ltd/#/profiles?id=cicada3301) |
 | 2024-08-21 | [`http://www.luigiconvertini.it`](https://google.com/search?q=http%3A%2F%2Fwww.luigiconvertini.it) | [ciphbit](https://ransomwatch.telemetry.ltd/#/profiles?id=ciphbit) |
@@ -199,8 +204,3 @@ _last `200` posts_
 | 2024-08-04 | [`Ma****ny`](https://google.com/search?q=Ma%2A%2A%2A%2Any) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
 | 2024-08-04 | [`Ranney School`](https://google.com/search?q=Ranney+School) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2024-08-03 | [`hlbpr.com`](https://google.com/search?q=hlbpr.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-08-03 | [`nursing.com`](https://google.com/search?q=nursing.com) | [ransomexx](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomexx) |
-| 2024-08-03 | [`LRN`](https://google.com/search?q=LRN) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2024-08-03 | [`https://aikenhousing.org/`](https://google.com/search?q=https%3A%2F%2Faikenhousing.org%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
-| 2024-08-02 | [`Khandelwal Laboratories Pvt`](https://google.com/search?q=Khandelwal+Laboratories+Pvt) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2024-08-02 | [`Jangho Group`](https://google.com/search?q=Jangho+Group) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
