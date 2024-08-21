@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-08-21 | [`Zyxel.eu`](https://google.com/search?q=Zyxel.eu) | [helldown](https://ransomwatch.telemetry.ltd/#/profiles?id=helldown) |
+| 2024-08-21 | [`Jinny Corporation`](https://google.com/search?q=Jinny+Corporation) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-08-21 | [`www.pindrophearing.co.uk`](https://google.com/search?q=www.pindrophearing.co.uk) | [apt73](https://ransomwatch.telemetry.ltd/#/profiles?id=apt73) |
 | 2024-08-21 | [`capitalfund1.com`](https://google.com/search?q=capitalfund1.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-08-21 | [`www.banhampoultry.co.uk`](https://google.com/search?q=www.banhampoultry.co.uk) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-08-05 | [`Maryville Academy`](https://google.com/search?q=Maryville+Academy) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2024-08-04 | [`notariusze.waw.pl`](https://google.com/search?q=notariusze.waw.pl) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-08-04 | [`Ma****ny`](https://google.com/search?q=Ma%2A%2A%2A%2Any) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
-| 2024-08-04 | [`Ranney School`](https://google.com/search?q=Ranney+School) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2024-08-03 | [`hlbpr.com`](https://google.com/search?q=hlbpr.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
