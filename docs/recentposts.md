@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-08-22 | [`rylandpeters.com`](https://google.com/search?q=rylandpeters.com) | [apt73](https://ransomwatch.telemetry.ltd/#/profiles?id=apt73) |
+| 2024-08-22 | [`level.game`](https://google.com/search?q=level.game) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
+| 2024-08-22 | [`antaeustravel.com`](https://google.com/search?q=antaeustravel.com) | [blackout](https://ransomwatch.telemetry.ltd/#/profiles?id=blackout) |
 | 2024-08-22 | [`Engedi`](https://google.com/search?q=Engedi) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2024-08-22 | [`EPS Tech confidential source code ( military )`](https://google.com/search?q=EPS+Tech+confidential+source+code+%28+military+%29) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2024-08-22 | [`kbosecurity.co.uk`](https://google.com/search?q=kbosecurity.co.uk) | [helldown](https://ransomwatch.telemetry.ltd/#/profiles?id=helldown) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2024-08-06 | [`IOI Corporation Berhad`](https://google.com/search?q=IOI+Corporation+Berhad) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2024-08-06 | [`Casco Antiguo`](https://google.com/search?q=Casco+Antiguo) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-08-06 | [`Fractalia Group`](https://google.com/search?q=Fractalia+Group) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2024-08-06 | [`leonardssyrups.com\$22M\USA\575GB\100% DISCLOSED`](https://google.com/search?q=leonardssyrups.com%5C%2422M%5CUSA%5C575GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2024-08-06 | [`westernwyomingbeverages.com\$59.2M\USA\102GB\100% DISCLOSED`](https://google.com/search?q=westernwyomingbeverages.com%5C%2459.2M%5CUSA%5C102GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2024-08-06 | [`denkaiamerica.com/\$18.1M\USA\80GB\100% DISCLOSED`](https://google.com/search?q=denkaiamerica.com%2F%5C%2418.1M%5CUSA%5C80GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
