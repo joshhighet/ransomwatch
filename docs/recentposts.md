@@ -4,6 +4,11 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-08-22 | [`www.cincinnatipainphysicians.com`](https://google.com/search?q=www.cincinnatipainphysicians.com) | [helldown](https://ransomwatch.telemetry.ltd/#/profiles?id=helldown) |
+| 2024-08-22 | [`https://ufcw135.com`](https://google.com/search?q=https%3A%2F%2Fufcw135.com) | [cicada3301](https://ransomwatch.telemetry.ltd/#/profiles?id=cicada3301) |
+| 2024-08-22 | [`https://www.ebapc.com`](https://google.com/search?q=https%3A%2F%2Fwww.ebapc.com) | [cicada3301](https://ransomwatch.telemetry.ltd/#/profiles?id=cicada3301) |
+| 2024-08-22 | [`instadriver.co`](https://google.com/search?q=instadriver.co) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
+| 2024-08-22 | [`Kronick Moskovitz Tiedemann & Girard`](https://google.com/search?q=Kronick+Moskovitz+Tiedemann+%26+Girard) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2024-08-22 | [`rylandpeters.com`](https://google.com/search?q=rylandpeters.com) | [apt73](https://ransomwatch.telemetry.ltd/#/profiles?id=apt73) |
 | 2024-08-22 | [`level.game`](https://google.com/search?q=level.game) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-08-22 | [`antaeustravel.com`](https://google.com/search?q=antaeustravel.com) | [blackout](https://ransomwatch.telemetry.ltd/#/profiles?id=blackout) |
@@ -199,8 +204,3 @@ _last `200` posts_
 | 2024-08-06 | [`KinetX`](https://google.com/search?q=KinetX) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-08-06 | [`Granit Design`](https://google.com/search?q=Granit+Design) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-08-06 | [`Alternate Energy`](https://google.com/search?q=Alternate+Energy) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-08-06 | [`www.sobha.com`](https://google.com/search?q=www.sobha.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-08-06 | [`Ziba Design`](https://google.com/search?q=Ziba+Design) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
-| 2024-08-06 | [`IOI Corporation Berhad`](https://google.com/search?q=IOI+Corporation+Berhad) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
-| 2024-08-06 | [`Casco Antiguo`](https://google.com/search?q=Casco+Antiguo) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2024-08-06 | [`Fractalia Group`](https://google.com/search?q=Fractalia+Group) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
