@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-08-22 | [`EPS Tech confidential source code ( military )`](https://google.com/search?q=EPS+Tech+confidential+source+code+%28+military+%29) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2024-08-22 | [`kbosecurity.co.uk`](https://google.com/search?q=kbosecurity.co.uk) | [helldown](https://ransomwatch.telemetry.ltd/#/profiles?id=helldown) |
 | 2024-08-22 | [`khonaysser.com`](https://google.com/search?q=khonaysser.com) | [helldown](https://ransomwatch.telemetry.ltd/#/profiles?id=helldown) |
 | 2024-08-21 | [`The SMS Group`](https://google.com/search?q=The+SMS+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-08-06 | [`westernwyomingbeverages.com\$59.2M\USA\102GB\100% DISCLOSED`](https://google.com/search?q=westernwyomingbeverages.com%5C%2459.2M%5CUSA%5C102GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-08-06 | [`denkaiamerica.com/\$18.1M\USA\80GB\100% DISCLOSED`](https://google.com/search?q=denkaiamerica.com%2F%5C%2418.1M%5CUSA%5C80GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-08-06 | [`dahlvalve.com\$23.9M\Canada\80GB\100% DISCLOSED`](https://google.com/search?q=dahlvalve.com%5C%2423.9M%5CCanada%5C80GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2024-08-05 | [`https://silipos.com`](https://google.com/search?q=https%3A%2F%2Fsilipos.com) | [cicada3301](https://ransomwatch.telemetry.ltd/#/profiles?id=cicada3301) |
