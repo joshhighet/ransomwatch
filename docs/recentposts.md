@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-08-22 | [`saudi arabia(general secretariat of the military service council)`](https://google.com/search?q=saudi+arabia%28general+secretariat+of+the+military+service+council%29) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-08-22 | [`www.cincinnatipainphysicians.com`](https://google.com/search?q=www.cincinnatipainphysicians.com) | [helldown](https://ransomwatch.telemetry.ltd/#/profiles?id=helldown) |
 | 2024-08-22 | [`https://ufcw135.com`](https://google.com/search?q=https%3A%2F%2Fufcw135.com) | [cicada3301](https://ransomwatch.telemetry.ltd/#/profiles?id=cicada3301) |
 | 2024-08-22 | [`https://www.ebapc.com`](https://google.com/search?q=https%3A%2F%2Fwww.ebapc.com) | [cicada3301](https://ransomwatch.telemetry.ltd/#/profiles?id=cicada3301) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-08-06 | [`True Blue Environmental`](https://google.com/search?q=True+Blue+Environmental) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-08-06 | [`KinetX`](https://google.com/search?q=KinetX) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-08-06 | [`Granit Design`](https://google.com/search?q=Granit+Design) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-08-06 | [`Alternate Energy`](https://google.com/search?q=Alternate+Energy) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
