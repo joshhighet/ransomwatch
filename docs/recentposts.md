@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-08-22 | [`kbosecurity.co.uk`](https://google.com/search?q=kbosecurity.co.uk) | [helldown](https://ransomwatch.telemetry.ltd/#/profiles?id=helldown) |
+| 2024-08-22 | [`khonaysser.com`](https://google.com/search?q=khonaysser.com) | [helldown](https://ransomwatch.telemetry.ltd/#/profiles?id=helldown) |
 | 2024-08-21 | [`The SMS Group`](https://google.com/search?q=The+SMS+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-08-21 | [`RCG`](https://google.com/search?q=RCG) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-08-21 | [`Quilvest Capital Partners`](https://google.com/search?q=Quilvest+Capital+Partners) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-08-06 | [`denkaiamerica.com/\$18.1M\USA\80GB\100% DISCLOSED`](https://google.com/search?q=denkaiamerica.com%2F%5C%2418.1M%5CUSA%5C80GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-08-06 | [`dahlvalve.com\$23.9M\Canada\80GB\100% DISCLOSED`](https://google.com/search?q=dahlvalve.com%5C%2423.9M%5CCanada%5C80GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-08-05 | [`https://silipos.com`](https://google.com/search?q=https%3A%2F%2Fsilipos.com) | [cicada3301](https://ransomwatch.telemetry.ltd/#/profiles?id=cicada3301) |
-| 2024-08-05 | [`https://www.squareonecoatingsystems.com`](https://google.com/search?q=https%3A%2F%2Fwww.squareonecoatingsystems.com) | [cicada3301](https://ransomwatch.telemetry.ltd/#/profiles?id=cicada3301) |
-| 2024-08-05 | [`Zon Beachside https://zonbeachside.com`](https://google.com/search?q=Zon+Beachside+https%3A%2F%2Fzonbeachside.com) | [dispossessor](https://ransomwatch.telemetry.ltd/#/profiles?id=dispossessor) |
