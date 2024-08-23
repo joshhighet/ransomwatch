@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-08-23 | [`https://www.chamagaucha.com`](https://google.com/search?q=https%3A%2F%2Fwww.chamagaucha.com) | [cicada3301](https://ransomwatch.telemetry.ltd/#/profiles?id=cicada3301) |
+| 2024-08-23 | [`terralogs.com.br`](https://google.com/search?q=terralogs.com.br) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-08-23 | [`idahopacific.com`](https://google.com/search?q=idahopacific.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
 | 2024-08-23 | [`www.barryavenueplating.com`](https://google.com/search?q=www.barryavenueplating.com) | [helldown](https://ransomwatch.telemetry.ltd/#/profiles?id=helldown) |
 | 2024-08-23 | [`www.rsk-immobilien.de`](https://google.com/search?q=www.rsk-immobilien.de) | [helldown](https://ransomwatch.telemetry.ltd/#/profiles?id=helldown) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-08-07 | [`Bayhealth Hospital`](https://google.com/search?q=Bayhealth+Hospital) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2024-08-07 | [`amplicon.com`](https://google.com/search?q=amplicon.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-08-07 | [`infotexim.pe`](https://google.com/search?q=infotexim.pe) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-08-07 | [`A****N`](https://google.com/search?q=A%2A%2A%2A%2AN) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
-| 2024-08-07 | [`kempe.com.au`](https://google.com/search?q=kempe.com.au) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
