@@ -4,6 +4,10 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-08-24 | [`www.jewishharrisburg.org`](https://google.com/search?q=www.jewishharrisburg.org) | [helldown](https://ransomwatch.telemetry.ltd/#/profiles?id=helldown) |
+| 2024-08-24 | [`Wallace Construction Specialties (wcs.local))`](https://google.com/search?q=Wallace+Construction+Specialties+%28wcs.local%29%29) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
+| 2024-08-24 | [`Bay Sales (cog.local)`](https://google.com/search?q=Bay+Sales+%28cog.local%29) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
+| 2024-08-24 | [`PBS group`](https://google.com/search?q=PBS+group) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
 | 2024-08-24 | [`Studio Legale Associato Isolabella`](https://google.com/search?q=Studio+Legale+Associato+Isolabella) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-08-23 | [`https://www.chamagaucha.com`](https://google.com/search?q=https%3A%2F%2Fwww.chamagaucha.com) | [cicada3301](https://ransomwatch.telemetry.ltd/#/profiles?id=cicada3301) |
 | 2024-08-23 | [`terralogs.com.br`](https://google.com/search?q=terralogs.com.br) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
@@ -200,7 +204,3 @@ _last `200` posts_
 | 2024-08-08 | [`mercadomineiro.com.br`](https://google.com/search?q=mercadomineiro.com.br) | [darkvault](https://ransomwatch.telemetry.ltd/#/profiles?id=darkvault) |
 | 2024-08-08 | [`NIDEC CORPORATION`](https://google.com/search?q=NIDEC+CORPORATION) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2024-08-08 | [`Horizon View Medical Center`](https://google.com/search?q=Horizon+View+Medical+Center) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
-| 2024-08-07 | [`hudsoncivil.com.au`](https://google.com/search?q=hudsoncivil.com.au) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-08-07 | [`www.jgsummit.com.ph`](https://google.com/search?q=www.jgsummit.com.ph) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-08-07 | [`Bayhealth Hospital`](https://google.com/search?q=Bayhealth+Hospital) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2024-08-07 | [`amplicon.com`](https://google.com/search?q=amplicon.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
