@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-08-24 | [`Myelec Electrical`](https://google.com/search?q=Myelec+Electrical) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
+| 2024-08-24 | [`www.curvc.com`](https://google.com/search?q=www.curvc.com) | [eldorado](https://ransomwatch.telemetry.ltd/#/profiles?id=eldorado) |
+| 2024-08-24 | [`Eagle Safety Eyewear`](https://google.com/search?q=Eagle+Safety+Eyewear) | [eldorado](https://ransomwatch.telemetry.ltd/#/profiles?id=eldorado) |
 | 2024-08-24 | [`https://www.hofmann-malerei.ch`](https://google.com/search?q=https%3A%2F%2Fwww.hofmann-malerei.ch) | [cicada3301](https://ransomwatch.telemetry.ltd/#/profiles?id=cicada3301) |
 | 2024-08-24 | [`ingotbrokers.com`](https://google.com/search?q=ingotbrokers.com) | [darkvault](https://ransomwatch.telemetry.ltd/#/profiles?id=darkvault) |
 | 2024-08-24 | [`ccsdschools.com&lt;disclose&gt;`](https://google.com/search?q=ccsdschools.com%26lt%3Bdisclose%26gt%3B) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2024-08-08 | [`https://imagemicro.com/`](https://google.com/search?q=https%3A%2F%2Fimagemicro.com%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-08-08 | [`[DISCLOSED] Al-Karam Textile Mills Pvt`](https://google.com/search?q=%5BDISCLOSED%5D+Al-Karam+Textile+Mills+Pvt) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2024-08-08 | [`demos.fr\$37.5M\France\870GB\100% DISCLOSED`](https://google.com/search?q=demos.fr%5C%2437.5M%5CFrance%5C870GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2024-08-08 | [`tibaitservices.com\$124.3M\Mexico\29GB\&lt;1% DISCLOSED`](https://google.com/search?q=tibaitservices.com%5C%24124.3M%5CMexico%5C29GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2024-08-08 | [`mihlfeld.com\$88.2M\USA\316GB\&lt;1% DISCLOSED`](https://google.com/search?q=mihlfeld.com%5C%2488.2M%5CUSA%5C316GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2024-08-08 | [`comoferta.com`](https://google.com/search?q=comoferta.com) | [darkvault](https://ransomwatch.telemetry.ltd/#/profiles?id=darkvault) |
