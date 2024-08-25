@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-08-25 | [`prasarana.com.my`](https://google.com/search?q=prasarana.com.my) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-08-25 | [`Sable International`](https://google.com/search?q=Sable+International) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-08-25 | [`Penn Veterinary Supply INC`](https://google.com/search?q=Penn+Veterinary+Supply+INC) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-08-25 | [`Meli (BCYF &amp; Bethany) `](https://google.com/search?q=Meli+%28BCYF+%26amp%3B+Bethany%29+) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-08-25 | [`dt-technologies`](https://google.com/search?q=dt-technologies) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-08-08 | [`icarasia.com`](https://google.com/search?q=icarasia.com) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-08-08 | [`modernceramics.com`](https://google.com/search?q=modernceramics.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-08-08 | [`rationalenterprise.com`](https://google.com/search?q=rationalenterprise.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-08-08 | [`inv-dar.com`](https://google.com/search?q=inv-dar.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-08-08 | [`Gramercy Surgery Center Data Leak`](https://google.com/search?q=Gramercy+Surgery+Center+Data+Leak) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
