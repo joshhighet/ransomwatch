@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-08-25 | [`Penn Veterinary Supply INC`](https://google.com/search?q=Penn+Veterinary+Supply+INC) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
+| 2024-08-25 | [`Meli (BCYF &amp; Bethany) `](https://google.com/search?q=Meli+%28BCYF+%26amp%3B+Bethany%29+) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
+| 2024-08-25 | [`dt-technologies`](https://google.com/search?q=dt-technologies) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-08-24 | [`https://www.nwcsb.com`](https://google.com/search?q=https%3A%2F%2Fwww.nwcsb.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-08-24 | [`Myelec Electrical`](https://google.com/search?q=Myelec+Electrical) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
 | 2024-08-24 | [`www.curvc.com`](https://google.com/search?q=www.curvc.com) | [eldorado](https://ransomwatch.telemetry.ltd/#/profiles?id=eldorado) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2024-08-08 | [`rationalenterprise.com`](https://google.com/search?q=rationalenterprise.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-08-08 | [`inv-dar.com`](https://google.com/search?q=inv-dar.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-08-08 | [`Gramercy Surgery Center Data Leak`](https://google.com/search?q=Gramercy+Surgery+Center+Data+Leak) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
-| 2024-08-08 | [`Gramercy Surgery Center  Data  Leak`](https://google.com/search?q=Gramercy+Surgery+Center++Data++Leak) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
-| 2024-08-08 | [`https://imagemicro.com/`](https://google.com/search?q=https%3A%2F%2Fimagemicro.com%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
-| 2024-08-08 | [`[DISCLOSED] Al-Karam Textile Mills Pvt`](https://google.com/search?q=%5BDISCLOSED%5D+Al-Karam+Textile+Mills+Pvt) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
