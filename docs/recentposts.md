@@ -4,6 +4,10 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-08-26 | [`MacEwen Petroleum`](https://google.com/search?q=MacEwen+Petroleum) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
+| 2024-08-26 | [`htsusa.com`](https://google.com/search?q=htsusa.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-08-26 | [`www.spie-tec.de`](https://google.com/search?q=www.spie-tec.de) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-08-26 | [`https://www.widex.com`](https://google.com/search?q=https%3A%2F%2Fwww.widex.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-08-26 | [`pocketrisk.com`](https://google.com/search?q=pocketrisk.com) | [darkvault](https://ransomwatch.telemetry.ltd/#/profiles?id=darkvault) |
 | 2024-08-26 | [`www.alabamaplate.com`](https://google.com/search?q=www.alabamaplate.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-08-26 | [`www.smarterp.com&lt;Auction&gt;`](https://google.com/search?q=www.smarterp.com%26lt%3BAuction%26gt%3B) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -200,7 +204,3 @@ _last `200` posts_
 | 2024-08-10 | [`lmgroup.com`](https://google.com/search?q=lmgroup.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-08-10 | [`https://www.arkworkplacerisk.co.uk`](https://google.com/search?q=https%3A%2F%2Fwww.arkworkplacerisk.co.uk) | [alphalocker](https://ransomwatch.telemetry.ltd/#/profiles?id=alphalocker) |
 | 2024-08-10 | [`Brontoo Technology Solutions`](https://google.com/search?q=Brontoo+Technology+Solutions) | [ransomexx](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomexx) |
-| 2024-08-10 | [`Credible Group`](https://google.com/search?q=Credible+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-08-09 | [`Nilorngruppen AB`](https://google.com/search?q=Nilorngruppen+AB) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-08-09 | [`Anniversary Holding Company`](https://google.com/search?q=Anniversary+Holding+Company) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2024-08-09 | [`GCA Global Cargo Alliance`](https://google.com/search?q=GCA+Global+Cargo+Alliance) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
