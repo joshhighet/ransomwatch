@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-08-26 | [`Blue Maven Group - Press Release`](https://google.com/search?q=Blue+Maven+Group+-+Press+Release) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2024-08-26 | [`US Marshals Service`](https://google.com/search?q=US+Marshals+Service) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-08-26 | [`NewsBank`](https://google.com/search?q=NewsBank) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2024-08-26 | [`EPS Tech R&#038;D PoC`](https://google.com/search?q=EPS+Tech+R%26%23038%3BD+PoC) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-08-09 | [`New TSI Holdings, NYSC`](https://google.com/search?q=New+TSI+Holdings%2C+NYSC) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-08-09 | [`NIDEC CORPORATION pt.2`](https://google.com/search?q=NIDEC+CORPORATION+pt.2) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2024-08-09 | [`dhcgrp.com`](https://google.com/search?q=dhcgrp.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-08-09 | [`www.dunnsolutions.com`](https://google.com/search?q=www.dunnsolutions.com) | [dAn0n](https://ransomwatch.telemetry.ltd/#/profiles?id=dAn0n) |
