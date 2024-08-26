@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-08-26 | [`Brookshire Dental - Hospitals &amp; Clinics`](https://google.com/search?q=Brookshire+Dental+-+Hospitals+%26amp%3B+Clinics) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-08-26 | [`MacEwen Petroleum`](https://google.com/search?q=MacEwen+Petroleum) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
 | 2024-08-26 | [`htsusa.com`](https://google.com/search?q=htsusa.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-08-26 | [`www.spie-tec.de`](https://google.com/search?q=www.spie-tec.de) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-08-11 | [`robertshvac.com`](https://google.com/search?q=robertshvac.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
 | 2024-08-10 | [`lmgroup.com`](https://google.com/search?q=lmgroup.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-08-10 | [`https://www.arkworkplacerisk.co.uk`](https://google.com/search?q=https%3A%2F%2Fwww.arkworkplacerisk.co.uk) | [alphalocker](https://ransomwatch.telemetry.ltd/#/profiles?id=alphalocker) |
-| 2024-08-10 | [`Brontoo Technology Solutions`](https://google.com/search?q=Brontoo+Technology+Solutions) | [ransomexx](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomexx) |
