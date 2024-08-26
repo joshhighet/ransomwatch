@@ -4,6 +4,10 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-08-26 | [`pocketrisk.com`](https://google.com/search?q=pocketrisk.com) | [darkvault](https://ransomwatch.telemetry.ltd/#/profiles?id=darkvault) |
+| 2024-08-26 | [`www.alabamaplate.com`](https://google.com/search?q=www.alabamaplate.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-08-26 | [`www.smarterp.com&lt;Auction&gt;`](https://google.com/search?q=www.smarterp.com%26lt%3BAuction%26gt%3B) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-08-26 | [`[DISCLOSED] Lake Washington Institute of Technology`](https://google.com/search?q=%5BDISCLOSED%5D+Lake+Washington+Institute+of+Technology) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2024-08-26 | [`Blue Maven Group - Press Release`](https://google.com/search?q=Blue+Maven+Group+-+Press+Release) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2024-08-26 | [`US Marshals Service`](https://google.com/search?q=US+Marshals+Service) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-08-26 | [`NewsBank`](https://google.com/search?q=NewsBank) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
@@ -200,7 +204,3 @@ _last `200` posts_
 | 2024-08-09 | [`Nilorngruppen AB`](https://google.com/search?q=Nilorngruppen+AB) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-08-09 | [`Anniversary Holding Company`](https://google.com/search?q=Anniversary+Holding+Company) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-08-09 | [`GCA Global Cargo Alliance`](https://google.com/search?q=GCA+Global+Cargo+Alliance) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2024-08-09 | [`Majestic Metals`](https://google.com/search?q=Majestic+Metals) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2024-08-09 | [`New TSI Holdings, NYSC`](https://google.com/search?q=New+TSI+Holdings%2C+NYSC) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
-| 2024-08-09 | [`NIDEC CORPORATION pt.2`](https://google.com/search?q=NIDEC+CORPORATION+pt.2) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
-| 2024-08-09 | [`dhcgrp.com`](https://google.com/search?q=dhcgrp.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
