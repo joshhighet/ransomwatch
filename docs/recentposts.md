@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-08-28 | [`tcn.local`](https://google.com/search?q=tcn.local) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
+| 2024-08-28 | [`freshairefranchise.com`](https://google.com/search?q=freshairefranchise.com) | [darkvault](https://ransomwatch.telemetry.ltd/#/profiles?id=darkvault) |
+| 2024-08-28 | [`comtruck.ca`](https://google.com/search?q=comtruck.ca) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
 | 2024-08-28 | [`dpfza.gov.dj`](https://google.com/search?q=dpfza.gov.dj) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-08-28 | [`www.polycohealthline.com`](https://google.com/search?q=www.polycohealthline.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-08-28 | [`Rinehart Butler Hodge Moss & Bryant`](https://google.com/search?q=Rinehart+Butler+Hodge+Moss+%26+Bryant) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2024-08-13 | [`lenmed.co.za`](https://google.com/search?q=lenmed.co.za) | [darkvault](https://ransomwatch.telemetry.ltd/#/profiles?id=darkvault) |
 | 2024-08-13 | [`gpf.org.za`](https://google.com/search?q=gpf.org.za) | [darkvault](https://ransomwatch.telemetry.ltd/#/profiles?id=darkvault) |
 | 2024-08-13 | [`Southwest Family Medicine Associates`](https://google.com/search?q=Southwest+Family+Medicine+Associates) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2024-08-13 | [`glazkov.co.il`](https://google.com/search?q=glazkov.co.il) | [darkvault](https://ransomwatch.telemetry.ltd/#/profiles?id=darkvault) |
-| 2024-08-13 | [`https://www.vvs-eksperten.dk`](https://google.com/search?q=https%3A%2F%2Fwww.vvs-eksperten.dk) | [cicada3301](https://ransomwatch.telemetry.ltd/#/profiles?id=cicada3301) |
-| 2024-08-13 | [`NetOne`](https://google.com/search?q=NetOne) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
