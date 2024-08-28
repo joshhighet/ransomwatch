@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-08-28 | [`medisetter.com`](https://google.com/search?q=medisetter.com) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
+| 2024-08-28 | [`agra-services.be`](https://google.com/search?q=agra-services.be) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-08-28 | [`Cherny, P.C.`](https://google.com/search?q=Cherny%2C+P.C.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-08-28 | [`Holden`](https://google.com/search?q=Holden) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-08-28 | [`M.Royo and KlockMetal`](https://google.com/search?q=M.Royo+and+KlockMetal) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-08-13 | [`Air International Thermal Systems`](https://google.com/search?q=Air+International+Thermal+Systems) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-08-13 | [`Adina Design`](https://google.com/search?q=Adina+Design) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-08-13 | [`infotexim.pe&lt;Auction&gt;`](https://google.com/search?q=infotexim.pe%26lt%3BAuction%26gt%3B) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-08-13 | [`The White Center Community Development Association`](https://google.com/search?q=The+White+Center+Community+Development+Association) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2024-08-13 | [`https://www.banneracc.com/`](https://google.com/search?q=https%3A%2F%2Fwww.banneracc.com%2F) | [trinity](https://ransomwatch.telemetry.ltd/#/profiles?id=trinity) |
