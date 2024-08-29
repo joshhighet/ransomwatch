@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-08-29 | [`glasstile.com`](https://google.com/search?q=glasstile.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-08-29 | [`Corbally Gartland and Rappleyea`](https://google.com/search?q=Corbally+Gartland+and+Rappleyea) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2024-08-29 | [`Gortemoller Engineering (gorteng.local)`](https://google.com/search?q=Gortemoller+Engineering+%28gorteng.local%29) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
 | 2024-08-29 | [`exco-solutions.com\$76.4M\Germany\251GB\100% DISCLOSED`](https://google.com/search?q=exco-solutions.com%5C%2476.4M%5CGermany%5C251GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-08-15 | [`Seaway Manufacturing Corp.`](https://google.com/search?q=Seaway+Manufacturing+Corp.) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2024-08-15 | [`http://www.fdsrl.it`](https://google.com/search?q=http%3A%2F%2Fwww.fdsrl.it) | [ciphbit](https://ransomwatch.telemetry.ltd/#/profiles?id=ciphbit) |
 | 2024-08-15 | [`[DISCLOSED]Sibanye-Stillwater`](https://google.com/search?q=%5BDISCLOSED%5DSibanye-Stillwater) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
-| 2024-08-15 | [`Liberty Resources`](https://google.com/search?q=Liberty+Resources) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
