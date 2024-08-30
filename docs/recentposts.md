@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-08-30 | [`Navitas Semiconductor`](https://google.com/search?q=Navitas+Semiconductor) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-08-30 | [`https://www.clatronic.com/`](https://google.com/search?q=https%3A%2F%2Fwww.clatronic.com%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-08-30 | [`http://www.hollywoodburbankairport.com`](https://google.com/search?q=http%3A%2F%2Fwww.hollywoodburbankairport.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-08-29 | [`lmgroup.com&lt;Disclose&gt;`](https://google.com/search?q=lmgroup.com%26lt%3BDisclose%26gt%3B) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-08-15 | [`Zionists EPS Tech Ltd Hacked`](https://google.com/search?q=Zionists+EPS+Tech+Ltd+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2024-08-15 | [`www.atwoodcherny.com`](https://google.com/search?q=www.atwoodcherny.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-08-15 | [`Patterson Health Center`](https://google.com/search?q=Patterson+Health+Center) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
-| 2024-08-15 | [`IEMSC.com`](https://google.com/search?q=IEMSC.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
