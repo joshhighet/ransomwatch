@@ -4,6 +4,17 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-08-30 | [`grant-associates.uk.com`](https://google.com/search?q=grant-associates.uk.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-08-30 | [`pfsbrands.com`](https://google.com/search?q=pfsbrands.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
+| 2024-08-30 | [`Burgess Kilpartik`](https://google.com/search?q=Burgess+Kilpartik) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
+| 2024-08-30 | [`Richmond Auto Mall`](https://google.com/search?q=Richmond+Auto+Mall) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
+| 2024-08-30 | [`Seng Tsoi Architect`](https://google.com/search?q=Seng+Tsoi+Architect) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
+| 2024-08-30 | [`Raeyco Lab Equipment Systems Management`](https://google.com/search?q=Raeyco+Lab+Equipment+Systems+Management) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
+| 2024-08-30 | [`Welding and Fabrication (humblemfg)`](https://google.com/search?q=Welding+and+Fabrication+%28humblemfg%29) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
+| 2024-08-30 | [`City Projects`](https://google.com/search?q=City+Projects) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
+| 2024-08-30 | [`Prism Construction`](https://google.com/search?q=Prism+Construction) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
+| 2024-08-30 | [`Cotala Cross-Media`](https://google.com/search?q=Cotala+Cross-Media) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
+| 2024-08-30 | [`Phyton Biotech`](https://google.com/search?q=Phyton+Biotech) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2024-08-30 | [`www.timortelecom.tl`](https://google.com/search?q=www.timortelecom.tl) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-08-30 | [`Riverside Resort Hotel and Casino`](https://google.com/search?q=Riverside+Resort+Hotel+and+Casino) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
 | 2024-08-30 | [`www.ramoncorripio.com`](https://google.com/search?q=www.ramoncorripio.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -193,14 +204,3 @@ _last `200` posts_
 | 2024-08-18 | [`Cosmetic Dental Group`](https://google.com/search?q=Cosmetic+Dental+Group) | [trinity](https://ransomwatch.telemetry.ltd/#/profiles?id=trinity) |
 | 2024-08-18 | [`www.cosmeticdentalgroup.je`](https://google.com/search?q=www.cosmeticdentalgroup.je) | [trinity](https://ransomwatch.telemetry.ltd/#/profiles?id=trinity) |
 | 2024-08-17 | [`peoplewell.com`](https://google.com/search?q=peoplewell.com) | [darkvault](https://ransomwatch.telemetry.ltd/#/profiles?id=darkvault) |
-| 2024-08-17 | [`www.albynhousing.org.uk`](https://google.com/search?q=www.albynhousing.org.uk) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-08-17 | [`www.lennartsfors.com`](https://google.com/search?q=www.lennartsfors.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-08-17 | [`www.allanmcneill.co.nz`](https://google.com/search?q=www.allanmcneill.co.nz) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-08-17 | [`www.martinswood.herts.sch.uk`](https://google.com/search?q=www.martinswood.herts.sch.uk) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-08-17 | [`www.gmchc.org`](https://google.com/search?q=www.gmchc.org) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-08-17 | [`www.regentcaravans.com.au`](https://google.com/search?q=www.regentcaravans.com.au) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-08-17 | [`www.netconfig.co.za`](https://google.com/search?q=www.netconfig.co.za) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-08-17 | [`www.manotherm.ie`](https://google.com/search?q=www.manotherm.ie) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-08-17 | [`nrcollecties.nl`](https://google.com/search?q=nrcollecties.nl) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-08-17 | [`www.wmwmeyer.com`](https://google.com/search?q=www.wmwmeyer.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-08-16 | [`www.vinakom.com`](https://google.com/search?q=www.vinakom.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
