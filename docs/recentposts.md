@@ -4,6 +4,12 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-08-30 | [`www.citebd.org`](https://google.com/search?q=www.citebd.org) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-08-30 | [`Wayne Wright, LLP.`](https://google.com/search?q=Wayne+Wright%2C+LLP.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2024-08-30 | [`ICWI`](https://google.com/search?q=ICWI) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2024-08-30 | [`Eric Rossi CPA LLC`](https://google.com/search?q=Eric+Rossi+CPA+LLC) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2024-08-30 | [`Lane Supply Inc.`](https://google.com/search?q=Lane+Supply+Inc.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2024-08-30 | [`Stein Fibers`](https://google.com/search?q=Stein+Fibers) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-08-30 | [`Navitas Semiconductor`](https://google.com/search?q=Navitas+Semiconductor) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-08-30 | [`https://www.clatronic.com/`](https://google.com/search?q=https%3A%2F%2Fwww.clatronic.com%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-08-30 | [`http://www.hollywoodburbankairport.com`](https://google.com/search?q=http%3A%2F%2Fwww.hollywoodburbankairport.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
@@ -198,9 +204,3 @@ _last `200` posts_
 | 2024-08-16 | [`BTS Biogas`](https://google.com/search?q=BTS+Biogas) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-08-16 | [`Sterling Rope`](https://google.com/search?q=Sterling+Rope) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2024-08-15 | [`ljglaw.com`](https://google.com/search?q=ljglaw.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-08-15 | [`www.aaconsultinc.com`](https://google.com/search?q=www.aaconsultinc.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-08-15 | [`Tick Tock`](https://google.com/search?q=Tick+Tock) | [nullbulge](https://ransomwatch.telemetry.ltd/#/profiles?id=nullbulge) |
-| 2024-08-15 | [`Mill Creek Lumber`](https://google.com/search?q=Mill+Creek+Lumber) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-08-15 | [`Zionists EPS Tech Ltd Hacked`](https://google.com/search?q=Zionists+EPS+Tech+Ltd+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
-| 2024-08-15 | [`www.atwoodcherny.com`](https://google.com/search?q=www.atwoodcherny.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-08-15 | [`Patterson Health Center`](https://google.com/search?q=Patterson+Health+Center) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
