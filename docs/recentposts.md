@@ -4,6 +4,19 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-08-30 | [`Riverside Resort Hotel and Casino`](https://google.com/search?q=Riverside+Resort+Hotel+and+Casino) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
+| 2024-08-30 | [`www.ramoncorripio.com`](https://google.com/search?q=www.ramoncorripio.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-08-30 | [`www.iiitd.ac.in`](https://google.com/search?q=www.iiitd.ac.in) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-08-30 | [`www.swinburne.edu`](https://google.com/search?q=www.swinburne.edu) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-08-30 | [`www.mineduc.gob.gt`](https://google.com/search?q=www.mineduc.gob.gt) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-08-30 | [`www.primariatm.ro`](https://google.com/search?q=www.primariatm.ro) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-08-30 | [`www.suvacity.org`](https://google.com/search?q=www.suvacity.org) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-08-30 | [`www.iph-bet.fr`](https://google.com/search?q=www.iph-bet.fr) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-08-30 | [`www.johnkellys.com`](https://google.com/search?q=www.johnkellys.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-08-30 | [`www.fenceauthority.com`](https://google.com/search?q=www.fenceauthority.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-08-30 | [`www.gruyeria.ch`](https://google.com/search?q=www.gruyeria.ch) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-08-30 | [`www.lfewines.com`](https://google.com/search?q=www.lfewines.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-08-30 | [`ccj.edu.lb`](https://google.com/search?q=ccj.edu.lb) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-08-30 | [`www.citebd.org`](https://google.com/search?q=www.citebd.org) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-08-30 | [`Wayne Wright, LLP.`](https://google.com/search?q=Wayne+Wright%2C+LLP.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-08-30 | [`ICWI`](https://google.com/search?q=ICWI) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
@@ -191,16 +204,3 @@ _last `200` posts_
 | 2024-08-17 | [`www.wmwmeyer.com`](https://google.com/search?q=www.wmwmeyer.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-08-16 | [`www.vinakom.com`](https://google.com/search?q=www.vinakom.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-08-16 | [`http://www.keios.it`](https://google.com/search?q=http%3A%2F%2Fwww.keios.it) | [ciphbit](https://ransomwatch.telemetry.ltd/#/profiles?id=ciphbit) |
-| 2024-08-16 | [`https://tp.kadokawa.co.jp/`](https://google.com/search?q=https%3A%2F%2Ftp.kadokawa.co.jp%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
-| 2024-08-16 | [`www.patelco.org&lt;Auction&gt;`](https://google.com/search?q=www.patelco.org%26lt%3BAuction%26gt%3B) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-08-16 | [`SuperDrob S.A.`](https://google.com/search?q=SuperDrob+S.A.) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2024-08-16 | [`Prefeitura do Jaboatão dos Guararapes`](https://google.com/search?q=Prefeitura+do+Jaboat%C3%A3o+dos+Guararapes) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
-| 2024-08-16 | [`on365.co.uk`](https://google.com/search?q=on365.co.uk) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
-| 2024-08-16 | [`Hiesmayr Haustechnik`](https://google.com/search?q=Hiesmayr+Haustechnik) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
-| 2024-08-16 | [`promises2kids.org `](https://google.com/search?q=promises2kids.org+) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
-| 2024-08-16 | [`Amco Metal Industrial Corporation `](https://google.com/search?q=Amco+Metal+Industrial+Corporation+) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
-| 2024-08-16 | [`ccj.edu.lb `](https://google.com/search?q=ccj.edu.lb+) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
-| 2024-08-16 | [`[DISCLOSED] Valisana`](https://google.com/search?q=%5BDISCLOSED%5D+Valisana) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
-| 2024-08-16 | [`BTS Biogas`](https://google.com/search?q=BTS+Biogas) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2024-08-16 | [`Sterling Rope`](https://google.com/search?q=Sterling+Rope) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2024-08-15 | [`ljglaw.com`](https://google.com/search?q=ljglaw.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
