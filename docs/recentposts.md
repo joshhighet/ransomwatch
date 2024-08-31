@@ -4,6 +4,10 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-08-31 | [`http://www.bfcpas.com/`](https://google.com/search?q=http%3A%2F%2Fwww.bfcpas.com%2F) | [cicada3301](https://ransomwatch.telemetry.ltd/#/profiles?id=cicada3301) |
+| 2024-08-31 | [`https://www.blvdresidential.com/`](https://google.com/search?q=https%3A%2F%2Fwww.blvdresidential.com%2F) | [cicada3301](https://ransomwatch.telemetry.ltd/#/profiles?id=cicada3301) |
+| 2024-08-31 | [`https://www.brooker-cpa.com`](https://google.com/search?q=https%3A%2F%2Fwww.brooker-cpa.com) | [cicada3301](https://ransomwatch.telemetry.ltd/#/profiles?id=cicada3301) |
+| 2024-08-31 | [`https://www.khoocpa.com/`](https://google.com/search?q=https%3A%2F%2Fwww.khoocpa.com%2F) | [cicada3301](https://ransomwatch.telemetry.ltd/#/profiles?id=cicada3301) |
 | 2024-08-31 | [`New River Electrical Corporation`](https://google.com/search?q=New+River+Electrical+Corporation) | [eldorado](https://ransomwatch.telemetry.ltd/#/profiles?id=eldorado) |
 | 2024-08-31 | [`The Recycler Core Company`](https://google.com/search?q=The+Recycler+Core+Company) | [eldorado](https://ransomwatch.telemetry.ltd/#/profiles?id=eldorado) |
 | 2024-08-31 | [`Tranter (tcn.local)`](https://google.com/search?q=Tranter+%28tcn.local%29) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
@@ -200,7 +204,3 @@ _last `200` posts_
 | 2024-08-19 | [`http://wearesbi.com`](https://google.com/search?q=http%3A%2F%2Fwearesbi.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-08-19 | [`Jangho Group`](https://google.com/search?q=Jangho+Group) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2024-08-19 | [`The Greenhouse People`](https://google.com/search?q=The+Greenhouse+People) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
-| 2024-08-19 | [`Zionists EPS Tech +150K Emails Leak`](https://google.com/search?q=Zionists+EPS+Tech+%2B150K+Emails+Leak) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
-| 2024-08-19 | [`www.jgsummit.com.ph &lt;update&gt;`](https://google.com/search?q=www.jgsummit.com.ph+%26lt%3Bupdate%26gt%3B) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-08-19 | [`ccsdschools.com`](https://google.com/search?q=ccsdschools.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-08-19 | [`Ferraro Group`](https://google.com/search?q=Ferraro+Group) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
