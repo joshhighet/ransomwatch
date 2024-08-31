@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-08-31 | [`Mitsubishi Chemical Group`](https://google.com/search?q=Mitsubishi+Chemical+Group) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2024-08-30 | [`grant-associates.uk.com`](https://google.com/search?q=grant-associates.uk.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-08-30 | [`pfsbrands.com`](https://google.com/search?q=pfsbrands.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
 | 2024-08-30 | [`Burgess Kilpartik`](https://google.com/search?q=Burgess+Kilpartik) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-08-18 | [`PBC Companies`](https://google.com/search?q=PBC+Companies) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-08-18 | [`Cosmetic Dental Group`](https://google.com/search?q=Cosmetic+Dental+Group) | [trinity](https://ransomwatch.telemetry.ltd/#/profiles?id=trinity) |
 | 2024-08-18 | [`www.cosmeticdentalgroup.je`](https://google.com/search?q=www.cosmeticdentalgroup.je) | [trinity](https://ransomwatch.telemetry.ltd/#/profiles?id=trinity) |
-| 2024-08-17 | [`peoplewell.com`](https://google.com/search?q=peoplewell.com) | [darkvault](https://ransomwatch.telemetry.ltd/#/profiles?id=darkvault) |
