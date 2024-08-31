@@ -4,6 +4,13 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-08-31 | [`ciot.com`](https://google.com/search?q=ciot.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-08-31 | [`White Mountain Backpacks`](https://google.com/search?q=White+Mountain+Backpacks) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
+| 2024-08-31 | [`https://www.southwesttraders.com`](https://google.com/search?q=https%3A%2F%2Fwww.southwesttraders.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
+| 2024-08-31 | [`https://www.nevadaheart.com`](https://google.com/search?q=https%3A%2F%2Fwww.nevadaheart.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
+| 2024-08-31 | [`https://www.morningstarseniorliving.com`](https://google.com/search?q=https%3A%2F%2Fwww.morningstarseniorliving.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
+| 2024-08-31 | [`https://www.goodlessdermatology.com`](https://google.com/search?q=https%3A%2F%2Fwww.goodlessdermatology.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
+| 2024-08-31 | [`https://effortlessoffice.com/`](https://google.com/search?q=https%3A%2F%2Feffortlessoffice.com%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-08-31 | [`www.nissan-dubai.com`](https://google.com/search?q=www.nissan-dubai.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-08-31 | [`http://www.bfcpas.com/`](https://google.com/search?q=http%3A%2F%2Fwww.bfcpas.com%2F) | [cicada3301](https://ransomwatch.telemetry.ltd/#/profiles?id=cicada3301) |
 | 2024-08-31 | [`https://www.blvdresidential.com/`](https://google.com/search?q=https%3A%2F%2Fwww.blvdresidential.com%2F) | [cicada3301](https://ransomwatch.telemetry.ltd/#/profiles?id=cicada3301) |
@@ -197,10 +204,3 @@ _last `200` posts_
 | 2024-08-19 | [`Pyle Group`](https://google.com/search?q=Pyle+Group) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
 | 2024-08-19 | [`Concut (ddm.local)`](https://google.com/search?q=Concut+%28ddm.local%29) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
 | 2024-08-19 | [`Cambria Automobiles (summitgroup.local)`](https://google.com/search?q=Cambria+Automobiles+%28summitgroup.local%29) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
-| 2024-08-19 | [`Johnson Laschober & Associates `](https://google.com/search?q=Johnson+Laschober+%26+Associates+) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
-| 2024-08-19 | [`Alvan Blanch Development`](https://google.com/search?q=Alvan+Blanch+Development) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
-| 2024-08-19 | [`Warwick Hotels and Resorts`](https://google.com/search?q=Warwick+Hotels+and+Resorts) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
-| 2024-08-19 | [`Innoquest`](https://google.com/search?q=Innoquest) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
-| 2024-08-19 | [`The Transit Authorit y of Northern Kentuc ky (TANK)`](https://google.com/search?q=The+Transit+Authorit+y+of+Northern+Kentuc+ky+%28TANK%29) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2024-08-19 | [`http://wearesbi.com`](https://google.com/search?q=http%3A%2F%2Fwearesbi.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
-| 2024-08-19 | [`Jangho Group`](https://google.com/search?q=Jangho+Group) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
