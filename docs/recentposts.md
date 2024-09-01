@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-09-01 | [`welland-corp.com`](https://google.com/search?q=welland-corp.com) | [trinity](https://ransomwatch.telemetry.ltd/#/profiles?id=trinity) |
+| 2024-09-01 | [`welland`](https://google.com/search?q=welland) | [trinity](https://ransomwatch.telemetry.ltd/#/profiles?id=trinity) |
 | 2024-08-31 | [`ciot.com`](https://google.com/search?q=ciot.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-08-31 | [`White Mountain Backpacks`](https://google.com/search?q=White+Mountain+Backpacks) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2024-08-31 | [`https://www.southwesttraders.com`](https://google.com/search?q=https%3A%2F%2Fwww.southwesttraders.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-08-19 | [`Reef-PCG (pcg.local)`](https://google.com/search?q=Reef-PCG+%28pcg.local%29) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
 | 2024-08-19 | [`Miller Boskus Lack Architects (ad.mbl-arch.com)`](https://google.com/search?q=Miller+Boskus+Lack+Architects+%28ad.mbl-arch.com%29) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
 | 2024-08-19 | [`Pyle Group`](https://google.com/search?q=Pyle+Group) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
-| 2024-08-19 | [`Concut (ddm.local)`](https://google.com/search?q=Concut+%28ddm.local%29) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
-| 2024-08-19 | [`Cambria Automobiles (summitgroup.local)`](https://google.com/search?q=Cambria+Automobiles+%28summitgroup.local%29) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
