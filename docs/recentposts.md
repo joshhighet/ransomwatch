@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-09-02 | [`www.schneider.ch`](https://google.com/search?q=www.schneider.ch) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-09-02 | [`www.electriforce.com`](https://google.com/search?q=www.electriforce.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-09-01 | [`Quálitas México`](https://google.com/search?q=Qu%C3%A1litas+M%C3%A9xico) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-09-01 | [`welland-corp.com`](https://google.com/search?q=welland-corp.com) | [trinity](https://ransomwatch.telemetry.ltd/#/profiles?id=trinity) |
 | 2024-09-01 | [`welland`](https://google.com/search?q=welland) | [trinity](https://ransomwatch.telemetry.ltd/#/profiles?id=trinity) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-08-19 | [`deganis.fr`](https://google.com/search?q=deganis.fr) | [helldown](https://ransomwatch.telemetry.ltd/#/profiles?id=helldown) |
 | 2024-08-19 | [`hugwi.ch`](https://google.com/search?q=hugwi.ch) | [helldown](https://ransomwatch.telemetry.ltd/#/profiles?id=helldown) |
 | 2024-08-19 | [`True Blue Environmental`](https://google.com/search?q=True+Blue+Environmental) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
-| 2024-08-19 | [`Reef-PCG (pcg.local)`](https://google.com/search?q=Reef-PCG+%28pcg.local%29) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
-| 2024-08-19 | [`Miller Boskus Lack Architects (ad.mbl-arch.com)`](https://google.com/search?q=Miller+Boskus+Lack+Architects+%28ad.mbl-arch.com%29) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
