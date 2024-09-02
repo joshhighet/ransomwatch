@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-09-02 | [`Removal.AI`](https://google.com/search?q=Removal.AI) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-09-02 | [`www.amberbev.com`](https://google.com/search?q=www.amberbev.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-09-02 | [`www.sanyo-bussan.co.jp`](https://google.com/search?q=www.sanyo-bussan.co.jp) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-09-02 | [`Project Hospitality`](https://google.com/search?q=Project+Hospitality) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2024-09-02 | [`www.sanyo-av.com&lt;Taiwan&gt;`](https://google.com/search?q=www.sanyo-av.com%26lt%3BTaiwan%26gt%3B) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-09-02 | [`www.schneider.ch`](https://google.com/search?q=www.schneider.ch) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2024-08-19 | [`AZIENDA TRASPORTI PUBBLICI S.P.A.`](https://google.com/search?q=AZIENDA+TRASPORTI+PUBBLICI+S.P.A.) | [helldown](https://ransomwatch.telemetry.ltd/#/profiles?id=helldown) |
 | 2024-08-19 | [`briju.pl`](https://google.com/search?q=briju.pl) | [helldown](https://ransomwatch.telemetry.ltd/#/profiles?id=helldown) |
 | 2024-08-19 | [`vindix.pl`](https://google.com/search?q=vindix.pl) | [helldown](https://ransomwatch.telemetry.ltd/#/profiles?id=helldown) |
-| 2024-08-19 | [`Albatros S.r.l.`](https://google.com/search?q=Albatros+S.r.l.) | [helldown](https://ransomwatch.telemetry.ltd/#/profiles?id=helldown) |
-| 2024-08-19 | [`SCHLATTNER.de`](https://google.com/search?q=SCHLATTNER.de) | [helldown](https://ransomwatch.telemetry.ltd/#/profiles?id=helldown) |
-| 2024-08-19 | [`deganis.fr`](https://google.com/search?q=deganis.fr) | [helldown](https://ransomwatch.telemetry.ltd/#/profiles?id=helldown) |
