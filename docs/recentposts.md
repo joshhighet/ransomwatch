@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-09-03 | [`[DISCLOSED][TORRENT] Roberto Verino Difusion`](https://google.com/search?q=%5BDISCLOSED%5D%5BTORRENT%5D+Roberto+Verino+Difusion) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2024-09-03 | [`bluemaven.ca problems`](https://google.com/search?q=bluemaven.ca+problems) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2024-09-03 | [`Turman `](https://google.com/search?q=Turman+) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-09-02 | [`www.pokerspa.it`](https://google.com/search?q=www.pokerspa.it) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-08-19 | [`Waynesboro Nurseries`](https://google.com/search?q=Waynesboro+Nurseries) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2024-08-19 | [`XPERT Business Solutions GmbH`](https://google.com/search?q=XPERT+Business+Solutions+GmbH) | [helldown](https://ransomwatch.telemetry.ltd/#/profiles?id=helldown) |
 | 2024-08-19 | [`MyFreightWorld`](https://google.com/search?q=MyFreightWorld) | [helldown](https://ransomwatch.telemetry.ltd/#/profiles?id=helldown) |
-| 2024-08-19 | [`cbmm.org`](https://google.com/search?q=cbmm.org) | [helldown](https://ransomwatch.telemetry.ltd/#/profiles?id=helldown) |
