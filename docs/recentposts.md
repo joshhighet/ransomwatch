@@ -4,6 +4,12 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-09-04 | [`http://www.osda.com`](https://google.com/search?q=http%3A%2F%2Fwww.osda.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
+| 2024-09-04 | [`http://parrishandcompany.com`](https://google.com/search?q=http%3A%2F%2Fparrishandcompany.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
+| 2024-09-04 | [`Seirus Innovation`](https://google.com/search?q=Seirus+Innovation) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-09-04 | [`Farmers' Rice Cooperative`](https://google.com/search?q=Farmers%27+Rice+Cooperative) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-09-04 | [`Crain Group`](https://google.com/search?q=Crain+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-09-04 | [`Bakersfield`](https://google.com/search?q=Bakersfield) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-09-04 | [`www.galgorm.com&lt;Auction&gt;`](https://google.com/search?q=www.galgorm.com%26lt%3BAuction%26gt%3B) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-09-04 | [`www.pcipa.com`](https://google.com/search?q=www.pcipa.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-09-04 | [`www.bennettcurrie.co.nz`](https://google.com/search?q=www.bennettcurrie.co.nz) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -198,9 +204,3 @@ _last `200` posts_
 | 2024-08-21 | [`www.pindrophearing.co.uk`](https://google.com/search?q=www.pindrophearing.co.uk) | [apt73](https://ransomwatch.telemetry.ltd/#/profiles?id=apt73) |
 | 2024-08-21 | [`capitalfund1.com`](https://google.com/search?q=capitalfund1.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-08-21 | [`www.banhampoultry.co.uk`](https://google.com/search?q=www.banhampoultry.co.uk) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-08-21 | [`HOERBIGER Holding`](https://google.com/search?q=HOERBIGER+Holding) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2024-08-21 | [`Co`](https://google.com/search?q=Co) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2024-08-21 | [`kidkraft.com`](https://google.com/search?q=kidkraft.com) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
-| 2024-08-21 | [`https://www.findel.co.uk`](https://google.com/search?q=https%3A%2F%2Fwww.findel.co.uk) | [cicada3301](https://ransomwatch.telemetry.ltd/#/profiles?id=cicada3301) |
-| 2024-08-21 | [`http://www.luigiconvertini.it`](https://google.com/search?q=http%3A%2F%2Fwww.luigiconvertini.it) | [ciphbit](https://ransomwatch.telemetry.ltd/#/profiles?id=ciphbit) |
-| 2024-08-21 | [`spvmhc.org`](https://google.com/search?q=spvmhc.org) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
