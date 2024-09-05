@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-09-05 | [`SWISS CZ`](https://google.com/search?q=SWISS+CZ) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
+| 2024-09-05 | [`Cellular Plus`](https://google.com/search?q=Cellular+Plus) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-09-05 | [`www.parknfly.ca`](https://google.com/search?q=www.parknfly.ca) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-09-05 | [`Western Supplies, Inc`](https://google.com/search?q=Western+Supplies%2C+Inc) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-09-04 | [`http://www.osda.com`](https://google.com/search?q=http%3A%2F%2Fwww.osda.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-08-21 | [`Grid Subject Matter Experts`](https://google.com/search?q=Grid+Subject+Matter+Experts) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-08-21 | [`Armour Coatings`](https://google.com/search?q=Armour+Coatings) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-08-21 | [`Zyxel.eu`](https://google.com/search?q=Zyxel.eu) | [helldown](https://ransomwatch.telemetry.ltd/#/profiles?id=helldown) |
-| 2024-08-21 | [`Jinny Corporation`](https://google.com/search?q=Jinny+Corporation) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2024-08-21 | [`www.pindrophearing.co.uk`](https://google.com/search?q=www.pindrophearing.co.uk) | [apt73](https://ransomwatch.telemetry.ltd/#/profiles?id=apt73) |
