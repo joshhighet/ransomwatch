@@ -4,6 +4,13 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-09-05 | [`kawasaki.eu`](https://google.com/search?q=kawasaki.eu) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-09-05 | [`phdservices.net`](https://google.com/search?q=phdservices.net) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-09-05 | [`Inglenorth.co.uk`](https://google.com/search?q=Inglenorth.co.uk) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-09-05 | [`cps-k12.org`](https://google.com/search?q=cps-k12.org) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-09-05 | [`inorde.com`](https://google.com/search?q=inorde.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-09-05 | [`cbt-gmbh.de`](https://google.com/search?q=cbt-gmbh.de) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-09-05 | [`tri-tech.us`](https://google.com/search?q=tri-tech.us) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-09-05 | [`www.towellengineering.net`](https://google.com/search?q=www.towellengineering.net) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-09-05 | [`Baird Mandalas Brock stedt LLC`](https://google.com/search?q=Baird+Mandalas+Brock+stedt+LLC) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-09-05 | [`Imetame`](https://google.com/search?q=Imetame) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
@@ -197,10 +204,3 @@ _last `200` posts_
 | 2024-08-22 | [`level.game`](https://google.com/search?q=level.game) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-08-22 | [`antaeustravel.com`](https://google.com/search?q=antaeustravel.com) | [blackout](https://ransomwatch.telemetry.ltd/#/profiles?id=blackout) |
 | 2024-08-22 | [`Engedi`](https://google.com/search?q=Engedi) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2024-08-22 | [`EPS Tech confidential source code ( military )`](https://google.com/search?q=EPS+Tech+confidential+source+code+%28+military+%29) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
-| 2024-08-22 | [`kbosecurity.co.uk`](https://google.com/search?q=kbosecurity.co.uk) | [helldown](https://ransomwatch.telemetry.ltd/#/profiles?id=helldown) |
-| 2024-08-22 | [`khonaysser.com`](https://google.com/search?q=khonaysser.com) | [helldown](https://ransomwatch.telemetry.ltd/#/profiles?id=helldown) |
-| 2024-08-21 | [`The SMS Group`](https://google.com/search?q=The+SMS+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-08-21 | [`RCG`](https://google.com/search?q=RCG) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-08-21 | [`Quilvest Capital Partners`](https://google.com/search?q=Quilvest+Capital+Partners) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-08-21 | [`Policy Administration Solutions`](https://google.com/search?q=Policy+Administration+Solutions) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
