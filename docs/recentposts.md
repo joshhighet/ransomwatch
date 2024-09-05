@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-09-05 | [`www.towellengineering.net`](https://google.com/search?q=www.towellengineering.net) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-09-05 | [`Baird Mandalas Brock stedt LLC`](https://google.com/search?q=Baird+Mandalas+Brock+stedt+LLC) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-09-05 | [`Imetame`](https://google.com/search?q=Imetame) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-09-05 | [`SWISS CZ`](https://google.com/search?q=SWISS+CZ) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-09-05 | [`Cellular Plus`](https://google.com/search?q=Cellular+Plus) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-08-21 | [`RCG`](https://google.com/search?q=RCG) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-08-21 | [`Quilvest Capital Partners`](https://google.com/search?q=Quilvest+Capital+Partners) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-08-21 | [`Policy Administration Solutions`](https://google.com/search?q=Policy+Administration+Solutions) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-08-21 | [`Grid Subject Matter Experts`](https://google.com/search?q=Grid+Subject+Matter+Experts) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-08-21 | [`Armour Coatings`](https://google.com/search?q=Armour+Coatings) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
