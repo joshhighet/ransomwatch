@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-09-05 | [`cda.be`](https://google.com/search?q=cda.be) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
+| 2024-09-05 | [`belfius.be`](https://google.com/search?q=belfius.be) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
+| 2024-09-05 | [`dvv.be`](https://google.com/search?q=dvv.be) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-09-05 | [`kawasaki.eu`](https://google.com/search?q=kawasaki.eu) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-09-05 | [`phdservices.net`](https://google.com/search?q=phdservices.net) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-09-05 | [`Inglenorth.co.uk`](https://google.com/search?q=Inglenorth.co.uk) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2024-08-22 | [`instadriver.co`](https://google.com/search?q=instadriver.co) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-08-22 | [`Kronick Moskovitz Tiedemann & Girard`](https://google.com/search?q=Kronick+Moskovitz+Tiedemann+%26+Girard) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2024-08-22 | [`rylandpeters.com`](https://google.com/search?q=rylandpeters.com) | [apt73](https://ransomwatch.telemetry.ltd/#/profiles?id=apt73) |
-| 2024-08-22 | [`level.game`](https://google.com/search?q=level.game) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
-| 2024-08-22 | [`antaeustravel.com`](https://google.com/search?q=antaeustravel.com) | [blackout](https://ransomwatch.telemetry.ltd/#/profiles?id=blackout) |
-| 2024-08-22 | [`Engedi`](https://google.com/search?q=Engedi) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
