@@ -4,6 +4,12 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-09-09 | [`schynsassurances.be`](https://google.com/search?q=schynsassurances.be) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
+| 2024-09-09 | [`pv.be`](https://google.com/search?q=pv.be) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
+| 2024-09-09 | [`www.unige.it`](https://google.com/search?q=www.unige.it) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-09-09 | [`www.dpe.go.th`](https://google.com/search?q=www.dpe.go.th) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-09-09 | [`www.bsg.com.au`](https://google.com/search?q=www.bsg.com.au) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-09-09 | [`www.avf-biomedical.com`](https://google.com/search?q=www.avf-biomedical.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-09-09 | [`kahle cpa`](https://google.com/search?q=kahle+cpa) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-09-09 | [`Smart Source, Inc.`](https://google.com/search?q=Smart+Source%2C+Inc.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-09-09 | [`CAM - Tyre Trade Systems &amp; Solutions`](https://google.com/search?q=CAM+-+Tyre+Trade+Systems+%26amp%3B+Solutions) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
@@ -198,9 +204,3 @@ _last `200` posts_
 | 2024-08-24 | [`https://www.nwcsb.com`](https://google.com/search?q=https%3A%2F%2Fwww.nwcsb.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-08-24 | [`Myelec Electrical`](https://google.com/search?q=Myelec+Electrical) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
 | 2024-08-24 | [`www.curvc.com`](https://google.com/search?q=www.curvc.com) | [eldorado](https://ransomwatch.telemetry.ltd/#/profiles?id=eldorado) |
-| 2024-08-24 | [`Eagle Safety Eyewear`](https://google.com/search?q=Eagle+Safety+Eyewear) | [eldorado](https://ransomwatch.telemetry.ltd/#/profiles?id=eldorado) |
-| 2024-08-24 | [`https://www.hofmann-malerei.ch`](https://google.com/search?q=https%3A%2F%2Fwww.hofmann-malerei.ch) | [cicada3301](https://ransomwatch.telemetry.ltd/#/profiles?id=cicada3301) |
-| 2024-08-24 | [`ingotbrokers.com`](https://google.com/search?q=ingotbrokers.com) | [darkvault](https://ransomwatch.telemetry.ltd/#/profiles?id=darkvault) |
-| 2024-08-24 | [`ccsdschools.com&lt;disclose&gt;`](https://google.com/search?q=ccsdschools.com%26lt%3Bdisclose%26gt%3B) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-08-24 | [`www.jewishharrisburg.org`](https://google.com/search?q=www.jewishharrisburg.org) | [helldown](https://ransomwatch.telemetry.ltd/#/profiles?id=helldown) |
-| 2024-08-24 | [`Wallace Construction Specialties (wcs.local))`](https://google.com/search?q=Wallace+Construction+Specialties+%28wcs.local%29%29) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
