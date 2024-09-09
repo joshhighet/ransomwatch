@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-09-09 | [`CAM - Tyre Trade Systems &amp; Solutions`](https://google.com/search?q=CAM+-+Tyre+Trade+Systems+%26amp%3B+Solutions) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
+| 2024-09-09 | [`atlanticice.com`](https://google.com/search?q=atlanticice.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-09-09 | [`Exitz Technologies`](https://google.com/search?q=Exitz+Technologies) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-09-09 | [`Phoenix Air Conditioning &amp; Heating`](https://google.com/search?q=Phoenix+Air+Conditioning+%26amp%3B+Heating) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-09-09 | [`https://www.kashima-coat.com/`](https://google.com/search?q=https%3A%2F%2Fwww.kashima-coat.com%2F) | [cicada3301](https://ransomwatch.telemetry.ltd/#/profiles?id=cicada3301) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-08-24 | [`Wallace Construction Specialties (wcs.local))`](https://google.com/search?q=Wallace+Construction+Specialties+%28wcs.local%29%29) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
 | 2024-08-24 | [`Bay Sales (cog.local)`](https://google.com/search?q=Bay+Sales+%28cog.local%29) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
 | 2024-08-24 | [`PBS group`](https://google.com/search?q=PBS+group) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
-| 2024-08-24 | [`Studio Legale Associato Isolabella`](https://google.com/search?q=Studio+Legale+Associato+Isolabella) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2024-08-23 | [`https://www.chamagaucha.com`](https://google.com/search?q=https%3A%2F%2Fwww.chamagaucha.com) | [cicada3301](https://ransomwatch.telemetry.ltd/#/profiles?id=cicada3301) |
