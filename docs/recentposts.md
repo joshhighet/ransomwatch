@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-09-10 | [`Vickers Engineering`](https://google.com/search?q=Vickers+Engineering) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-09-10 | [`HDI`](https://google.com/search?q=HDI) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-09-10 | [`Qeco/coeq`](https://google.com/search?q=Qeco%2Fcoeq) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2024-09-10 | [`https://www.kadokawa.co.jp/`](https://google.com/search?q=https%3A%2F%2Fwww.kadokawa.co.jp%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-08-26 | [`EPS Tech R&#038;D PoC`](https://google.com/search?q=EPS+Tech+R%26%23038%3BD+PoC) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2024-08-26 | [`onedayonly.co.za`](https://google.com/search?q=onedayonly.co.za) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-08-25 | [`Affordable Tools`](https://google.com/search?q=Affordable+Tools) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2024-08-25 | [`autonomous.ai`](https://google.com/search?q=autonomous.ai) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
