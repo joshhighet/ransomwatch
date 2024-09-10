@@ -4,6 +4,15 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-09-10 | [`rupicard.com`](https://google.com/search?q=rupicard.com) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
+| 2024-09-10 | [`Weldco-Beales Manufacturing`](https://google.com/search?q=Weldco-Beales+Manufacturing) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-09-10 | [`Virginia Dare Extract Co.`](https://google.com/search?q=Virginia+Dare+Extract+Co.) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-09-10 | [`Southeast Cooler`](https://google.com/search?q=Southeast+Cooler) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-09-10 | [`PIGGLY WIGGLY ALABAMA DISTRIBUTING`](https://google.com/search?q=PIGGLY+WIGGLY+ALABAMA+DISTRIBUTING) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-09-10 | [`Joe Swartz Electric`](https://google.com/search?q=Joe+Swartz+Electric) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-09-10 | [`Evans Distribution Systems`](https://google.com/search?q=Evans+Distribution+Systems) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-09-10 | [`Elgin Separation Solutions`](https://google.com/search?q=Elgin+Separation+Solutions) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-09-10 | [`Bel-Air Bay Club`](https://google.com/search?q=Bel-Air+Bay+Club) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-09-10 | [`Vickers Engineering`](https://google.com/search?q=Vickers+Engineering) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-09-10 | [`HDI`](https://google.com/search?q=HDI) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-09-10 | [`Qeco/coeq`](https://google.com/search?q=Qeco%2Fcoeq) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
@@ -195,12 +204,3 @@ _last `200` posts_
 | 2024-08-26 | [`www.spie-tec.de`](https://google.com/search?q=www.spie-tec.de) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-08-26 | [`https://www.widex.com`](https://google.com/search?q=https%3A%2F%2Fwww.widex.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-08-26 | [`pocketrisk.com`](https://google.com/search?q=pocketrisk.com) | [darkvault](https://ransomwatch.telemetry.ltd/#/profiles?id=darkvault) |
-| 2024-08-26 | [`www.alabamaplate.com`](https://google.com/search?q=www.alabamaplate.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-08-26 | [`www.smarterp.com&lt;Auction&gt;`](https://google.com/search?q=www.smarterp.com%26lt%3BAuction%26gt%3B) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-08-26 | [`[DISCLOSED] Lake Washington Institute of Technology`](https://google.com/search?q=%5BDISCLOSED%5D+Lake+Washington+Institute+of+Technology) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
-| 2024-08-26 | [`Blue Maven Group - Press Release`](https://google.com/search?q=Blue+Maven+Group+-+Press+Release) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
-| 2024-08-26 | [`US Marshals Service`](https://google.com/search?q=US+Marshals+Service) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2024-08-26 | [`NewsBank`](https://google.com/search?q=NewsBank) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2024-08-26 | [`EPS Tech R&#038;D PoC`](https://google.com/search?q=EPS+Tech+R%26%23038%3BD+PoC) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
-| 2024-08-26 | [`onedayonly.co.za`](https://google.com/search?q=onedayonly.co.za) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
-| 2024-08-25 | [`Affordable Tools`](https://google.com/search?q=Affordable+Tools) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
