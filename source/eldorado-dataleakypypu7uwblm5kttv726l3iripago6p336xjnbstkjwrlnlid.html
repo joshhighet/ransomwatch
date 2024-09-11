@@ -1,564 +1,1293 @@
 <!DOCTYPE html>
-<html lang='en-us'>
-    <head>
-
-<meta charset="utf-8"/>
-<meta name="viewport" content="width=device-width,initial-scale=1.0"/>
-<link rel="icon" href='/xfavicon-32x32.png.pagespeed.ic.-lPk2Rlh_U.jpg'/>
-
-<title>
-
-    Data Leak
-
-</title>
-
-
- 
-
-
-
-
-
-<link rel="stylesheet" href="/css/main.min.04f977f7bc11b8ade6f3a2a1ad13e37fa935efd1bba42d79c4e2f3a7b00db787fd96bd92493c3e637c580246b66468bf.css.pagespeed.ce.Vs51LT23v7.css" integrity="sha384-BPl397wRuK3m86KhrRPjf6k179G7pC15xOLzp7ANt4f9lr2SSTw+Y3xYAka2ZGi/"/>
-
-
-
-
-<meta name="description" content=""/>
-<meta property="og:title" content=""/>
-<meta property="og:type" content="website"/>
-<meta property="og:url" content=""/>
-<meta property="og:image" content=""/>
-<meta property="og:description" content=""/>
-<meta name="twitter:card" content=""/>
-<meta name="twitter:site" content=""/>
-<meta name="twitter:creator" content=""/>
-
-    </head>
+<html style="font-size: 16px;" lang="ru"><head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="utf-8">
+    <meta name="keywords" content="âProperties For Rent, ÐÐÐ¢Ð£ÐÐ¢ÐÐÐÐ«Ð">
+    <meta name="description" content="">
+    <title>Home</title>
+    <link rel="stylesheet" href="nicepage.css" media="screen">
+<link rel="stylesheet" href="index.css" media="screen">
+    <script class="u-script" type="text/javascript" src="jquery.js" defer=""></script>
+    <script class="u-script" type="text/javascript" src="nicepage.js" defer=""></script>
+    <meta name="generator" content="Nicepage 6.16.5, nicepage.com">
+    <link id="u-theme-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i|Open+Sans:300,300i,400,400i,500,500i,600,600i,700,700i,800,800i">
     
     
-    <body class="flex flex-col min-h-screen dark:bg-warmgray-800">
-    <style>.mopen{float:left;display:block;background:rgba(255,255,255,0);position:relative;z-index:1000}.mopen span{transition:all .3s;transform:rotate(0deg);width:50px;height:2px;display:block;position:absolute;left:50%;top:50%;margin-left:-25px}.mopen .top{transform:translateY(-17px)}.mopen .bottom{transform:translateY(17px)}.mopen.is-open span{background:#fff}.mopen.is-open .middle{background:rgba(255,255,255,0)}.mopen.is-open .top{transform:rotate(-45deg) translateY(0)}.mopen.is-open .bottom{transform:rotate(45deg) translateY(0)}#overlay{visibility:hidden;display:flex;transition:.3s linear;position:absolute;z-index:900;align-items:center;justify-content:center;left:0;top:0;width:100%;height:100%;background:#222;opacity:0}#overlay.open{visibility:visible;opacity:.95}body.scroll-lock{position:fixed;left:0;right:0;top:0;bottom:0}</style>
-<header class="bg-white dark:bg-warmgray-800 dark:text-white">
-    <div id="overlay">
-        <ul class="text-center list-none text-white text-3xl">
-            
-            <li class="p-2">
-                <a href="/about/">
-                    <span>About</span>
-                </a>
-            </li>
-            
-            <li class="p-2">
-                <a href="/contact/">
-                    <span>Contact</span>
-                </a>
-            </li>
-            
-            
-        </ul>
-    </div>
-
-    <nav class="flex items-center justify-between flex-wrap p-4 dark:bg-black bg-gray-100">
-        <div class="flex items-center flex-shrink-0 text-2xl mx-6">
-          
-
-            <a href="http://dataleakypypu7uwblm5kttv726l3iripago6p336xjnbstkjwrlnlid.onion/"><img src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAUDBAQEAwUEBAQFBQUGBwwIBwcHBw8LCwkMEQ8SEhEPERETFhwXExQaFRERGCEYGh0dHx8fExciJCIeJBweHx7/2wBDAQUFBQcGBw4ICA4eFBEUHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh7/wAARCAAgAC0DASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAABgcDBAgCBf/EAC0QAAEDAwMCBQMFAQAAAAAAAAECAwQABREGEiEHExQxQVFhIjJCFSMzUnGR/8QAFwEBAQEBAAAAAAAAAAAAAAAABQQDBv/EACkRAAEDAgIJBQAAAAAAAAAAAAEAAhEDBAUxEhMhQVFhcaHwIjKx0fH/2gAMAwEAAhEDEQA/ANR6911Y9Fm3JvHiSu4uqZjIYbCipSU7iOSMcVHcNf2aHaI9yES6SUSLg5bkMx4hW7329+5JT8dtfPxVjqHpq36jsZEq3eNlQ9z8La+tlaHdpH0rQQRkEjzwaWlug6ft1jdeu1glNXZ2Ypzwq7rI3ArCtzqcrOxR7iskYyT8VBdXRt3EuMNiZ838lqymXjYvfV100OmA3PcTd2oj2RHechFCHlBaEFKSSASC4nPtz7VCjr7oRcgMobvKiY5fyIefpDRdPG7P2AnOMcedL26RdKtyo7MbRkDwjzgbTGkz3nG0hW1RCUFe1JJQgnA5FF1nh6JkQ2oc/TDKWFKCnXzNccUMs9n7ydxT2ztxnGPmjW45QJA1g28j9fK0Nu4DJFVv6tabm3n9JTAvrMpMlmM+HoCkiO46ra2HDn6dx8qYFBsXpxotV0avse3veJU8iV3RNew6tKy4ha078Lwo5G4HHAHAoypylpx6lOY3Lh9xLLDjyvtQkqPPoBms2apuRk3ebLbASVrUQkqO9KDj8snIB9le/FaLvEFFztcm3uPPMokNltTjKtq0g+oPoaBXukGn3m1Ieul6WFDBJfRn/uyicYsbi7LBSiBOf4qLepTZOkkO9MuumXVxZzk+Uh796MIbAdDJJ/IqGfRXHlycVYZg3a2J23GYmQ7JHecWFEgAkZyMewHABAxxinArovAjrUbZf7kEufy+OUZJPBA2nKcDCjxz6Vdt3RvTcEhTdzvrqgMAvTA5j/NyTigRgF7Jy68enCO6uN3RhW+it8k3PTioUxOHYWEpV/ZJJxxnPGMUe0OaW0hB09NclRJ1weK2u2W3nElAGQcgBI54ojrrbCnWpW7WVvcPB2RlUtc8luS//9k=" class="w-auto h-auto" style="float:left" alt="Data Leak"/>&nbsp;Data Leak</a>
-          
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <script type="application/ld+json">{
+		"@context": "http://schema.org",
+		"@type": "Organization",
+		"name": ""
+}</script>
+    <meta name="theme-color" content="#478ac9">
+    <meta property="og:title" content="Home">
+    <meta property="og:type" content="website">
+  <meta data-intl-tel-input-cdn-path="intlTelInput/"></head>
+  <body data-home-page="Home.html" data-home-page-title="Home" data-path-to-root="./" data-include-products="false" class="u-body u-xl-mode" data-lang="ru">
+    <section class="u-clearfix u-container-align-center u-section-1" id="carousel_8c84">
+      <div class="u-clearfix u-sheet u-sheet-1">
+        <h2 class="u-align-center u-text u-text-default u-text-1"> Welcome to the Hackers Group âEldorado</h2>
+        <div class="u-expanded-width u-list u-list-1">
+          <div class="u-repeater u-repeater-1">
+            <div class="u-container-style u-custom-item u-dialog-link u-hover-feature u-list-item u-radius u-repeater-item u-list-item-1" data-animation-name="customAnimationIn" data-animation-duration="2000" data-animation-delay="0" data-href="#sec-1f0c">
+              <div class="u-container-layout u-similar-container u-valign-bottom-sm u-valign-bottom-xs u-container-layout-1">
+                <img class="custom-expanded u-hover-feature u-image u-image-contain u-image-1" src="images/thunderbird-cc-mark-oval.svg" data-image-width="80" data-image-height="59">
+                <div class="u-container-align-center u-container-style u-group u-radius-20 u-shape-round u-white u-group-1">
+                  <div class="u-container-layout u-container-layout-2">
+                    <h5 class="u-align-center u-text u-text-default u-text-2"> thunderbirdcc.org</h5>
+                    <p class="u-align-center u-text u-text-3"> Published</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="u-container-style u-custom-item u-dialog-link u-hover-feature u-list-item u-radius u-repeater-item u-list-item-2" data-href="#sec-6f8a">
+              <div class="u-container-layout u-similar-container u-valign-bottom-sm u-valign-bottom-xs u-container-layout-3">
+                <img class="custom-expanded u-hover-feature u-image u-image-contain u-image-2" src="images/f9cc0c0c5f4f3d4297cce9f14f6f6e7b.jpg" data-image-width="696" data-image-height="147">
+                <div class="u-container-align-center u-container-style u-group u-radius-20 u-shape-round u-white u-group-2">
+                  <div class="u-container-layout u-container-layout-4">
+                    <h5 class="u-align-center u-text u-text-default u-text-4"> rccauto.com</h5>
+                    <p class="u-align-center u-text u-text-5"> Published</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="u-container-align-center u-container-style u-custom-item u-dialog-link u-list-item u-radius u-repeater-item u-list-item-3" data-animation-name="customAnimationIn" data-animation-duration="2000" data-animation-delay="0" data-href="#sec-e03d">
+              <div class="u-container-layout u-similar-container u-valign-bottom-sm u-valign-bottom-xs u-container-layout-5">
+                <img class="custom-expanded u-hover-feature u-image u-image-contain u-image-3" src="images/eagle-safety-logo.png" data-image-width="295" data-image-height="53">
+                <div class="u-container-align-center u-container-style u-group u-radius-20 u-shape-round u-white u-group-3">
+                  <div class="u-container-layout u-container-layout-6">
+                    <h5 class="u-align-center u-text u-text-default u-text-6"> seaglesafety.com</h5>
+                    <p class="u-align-center u-text u-text-7"> Published</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="u-container-style u-custom-item u-dialog-link u-list-item u-radius u-repeater-item u-list-item-4" data-animation-name="customAnimationIn" data-animation-duration="2000" data-animation-delay="0" data-href="#sec-2de4">
+              <div class="u-container-layout u-similar-container u-valign-bottom-sm u-valign-bottom-xs u-container-layout-7">
+                <img class="custom-expanded u-hover-feature u-image u-image-contain u-image-4" src="images/17234c09-6e2a-fd27-f5e8-ea6e9afe3607.jpg" data-image-width="225" data-image-height="225">
+                <div class="u-container-align-center u-container-style u-group u-radius-20 u-shape-round u-white u-group-4">
+                  <div class="u-container-layout u-container-layout-8">
+                    <h5 class="u-align-center u-text u-text-default u-text-8"> panzersolutions.com</h5>
+                    <p class="u-align-center u-text u-text-9"> Published</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="u-container-style u-custom-item u-dialog-link u-list-item u-radius u-repeater-item u-list-item-5" data-animation-name="customAnimationIn" data-animation-duration="2000" data-animation-delay="0" data-href="#sec-90f9">
+              <div class="u-container-layout u-similar-container u-valign-bottom-sm u-valign-bottom-xs u-container-layout-9">
+                <img class="custom-expanded u-hover-feature u-image u-image-contain u-image-5" src="images/logo-corp.svg" data-image-width="398" data-image-height="92">
+                <div class="u-container-align-center u-container-style u-group u-radius-20 u-shape-round u-white u-group-5">
+                  <div class="u-container-layout u-container-layout-10">
+                    <h5 class="u-align-center u-text u-text-default u-text-10">newriverelectrical.com</h5>
+                    <p class="u-align-center u-text u-text-11"> Published</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="u-container-align-center u-container-style u-custom-item u-dialog-link u-list-item u-radius u-repeater-item u-list-item-6" data-animation-name="customAnimationIn" data-animation-duration="2000" data-animation-delay="0" data-href="#sec-57ef">
+              <div class="u-container-layout u-similar-container u-valign-bottom-sm u-valign-bottom-xs u-container-layout-11">
+                <img class="custom-expanded u-hover-feature u-image u-image-contain u-image-6" src="images/cropped-CelPlan-Logo-8-black-2-Connectivity-768x237.png" data-image-width="768" data-image-height="237">
+                <div class="u-container-align-center u-container-style u-group u-radius-20 u-shape-round u-white u-group-6">
+                  <div class="u-container-layout u-container-layout-12">
+                    <h5 class="u-align-center u-text u-text-default u-text-12"> celplan.com</h5>
+                    <p class="u-align-center u-text u-text-13"> Published</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
         </div>
-        <div class="pr-4 block lg:hidden">
-            <div id="hamburgerbtn" class="flex cursor-pointer items-center w-14 h-10 py-2 rounded mopen">
-                <span class="top bg-black dark:bg-white"></span>
-                <span class="middle bg-black dark:bg-white"></span>
-                <span class="bottom bg-black dark:bg-white"></span>
+        <div class="u-expanded-width u-list u-list-2">
+          <div class="u-repeater u-repeater-2">
+            <div class="u-container-style u-custom-item u-list-item u-radius u-repeater-item u-list-item-7" data-animation-name="customAnimationIn" data-animation-duration="2000" data-animation-delay="0">
+              <div class="u-container-layout u-similar-container u-valign-bottom-sm u-valign-bottom-xs u-container-layout-13">
+                <img class="custom-expanded u-image u-image-contain u-image-7" src="images/logo.png" data-image-width="121" data-image-height="120">
+                <div class="u-container-align-center u-container-style u-group u-radius-20 u-shape-round u-white u-group-7">
+                  <div class="u-container-layout u-container-layout-14">
+                    <h5 class="u-align-center u-text u-text-default u-text-14"> itasnatta.edu.it</h5>
+                    <p class="u-align-center u-text u-text-15"> Published</p>
+                  </div>
+                </div>
+              </div>
             </div>
+            <div class="u-container-style u-custom-item u-dialog-link u-list-item u-radius u-repeater-item u-list-item-8" data-animation-name="customAnimationIn" data-animation-duration="2000" data-animation-delay="0" data-href="#sec-d104">
+              <div class="u-container-layout u-similar-container u-valign-bottom-sm u-valign-bottom-xs u-container-layout-15">
+                <img class="custom-expanded u-image u-image-contain u-image-8" src="images/curvcLogo.png" data-image-width="1184" data-image-height="418">
+                <div class="u-container-align-center u-container-style u-group u-radius-20 u-shape-round u-white u-group-8">
+                  <div class="u-container-layout u-container-layout-16">
+                    <h5 class="u-align-center u-text u-text-default u-text-16"> curvc.com</h5>
+                    <p class="u-align-center u-text u-text-17"> Published</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="u-container-align-center u-container-style u-custom-item u-dialog-link u-list-item u-radius u-repeater-item u-list-item-9" data-animation-name="customAnimationIn" data-animation-duration="2000" data-animation-delay="0" data-href="#sec-ca1b">
+              <div class="u-container-layout u-similar-container u-valign-bottom-sm u-valign-bottom-xs u-container-layout-17">
+                <img class="custom-expanded u-image u-image-contain u-image-9" src="images/Document.jpg" data-image-width="537" data-image-height="537">
+                <div class="u-container-align-center u-container-style u-group u-radius-20 u-shape-round u-white u-group-9">
+                  <div class="u-container-layout u-container-layout-18">
+                    <h5 class="u-align-center u-text u-text-default u-text-18"> cityofpensacola.com</h5>
+                    <p class="u-align-center u-text u-text-19"> Published</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="u-container-style u-custom-item u-dialog-link u-list-item u-radius u-repeater-item u-list-item-10" data-animation-name="customAnimationIn" data-animation-duration="2000" data-animation-delay="0" data-href="#sec-27cb">
+              <div class="u-container-layout u-similar-container u-valign-bottom-sm u-valign-bottom-xs u-container-layout-19">
+                <img class="custom-expanded u-image u-image-contain u-image-10" src="images/logo-fullColor.svg" data-image-width="240" data-image-height="93">
+                <div class="u-container-align-center u-container-style u-group u-radius-20 u-shape-round u-white u-group-10">
+                  <div class="u-container-layout u-container-layout-20">
+                    <h5 class="u-align-center u-text u-text-default u-text-20"> adamshomes.com</h5>
+                    <p class="u-align-center u-text u-text-21"> Published</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="u-container-style u-custom-item u-dialog-link u-list-item u-radius u-repeater-item u-list-item-11" data-animation-name="customAnimationIn" data-animation-duration="2000" data-animation-delay="0" data-href="#sec-1a2b">
+              <div class="u-container-layout u-similar-container u-valign-bottom-sm u-valign-bottom-xs u-container-layout-21">
+                <img class="custom-expanded u-image u-image-contain u-image-11" src="images/a1-logo-2x.png" data-image-width="584" data-image-height="198">
+                <div class="u-container-align-center u-container-style u-group u-radius-20 u-shape-round u-white u-group-11">
+                  <div class="u-container-layout u-container-layout-22">
+                    <h5 class="u-align-center u-text u-text-default u-text-22">a1mobilelock.com </h5>
+                    <p class="u-align-center u-text u-text-23">Coming soon </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="u-container-align-center u-container-style u-custom-item u-list-item u-radius u-repeater-item u-list-item-12" data-animation-name="customAnimationIn" data-animation-duration="2000" data-animation-delay="0">
+              <div class="u-container-layout u-similar-container u-valign-bottom-sm u-valign-bottom-xs u-container-layout-23">
+                <img class="custom-expanded u-image u-image-contain u-image-12" src="images/pexels-photo-911758.jpeg" data-image-width="2247" data-image-height="1500">
+                <div class="u-container-align-center u-container-style u-group u-radius-20 u-shape-round u-white u-group-12">
+                  <div class="u-container-layout u-container-layout-24">
+                    <h5 class="u-align-center u-text u-text-default u-text-24">WHOS NEXT</h5>
+                    <p class="u-align-center u-text u-text-25">coming soon </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
         </div>
-        <div class="hidden w-full ml-6 block flex-grow lg:flex lg:flex-row lg:items-center lg:w-auto" id="mobileMenu">
-            <div class="text-lg lg:flex-grow">
+      </div>
+      
+      
+      
+      
+      
+      
+      
+      
+    </section>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <footer class="u-align-center u-clearfix u-footer u-grey-80 u-footer" id="sec-9751"><div class="u-clearfix u-sheet u-valign-middle u-sheet-1">
+        <p class="u-text u-text-default u-text-1"> MAIL:&nbsp;<a href="mailto:eldoradodataleak@tutamail.com" class="u-active-none u-border-none u-btn u-button-style u-hover-none u-none u-text-palette-1-base u-btn-1">eldoradodataleak@tutamail.com</a>&nbsp;<br> CHAT <a href="https://qtox.github.io/" class="u-active-none u-border-none u-btn u-button-style u-hover-none u-none u-text-palette-1-base u-btn-2">https://qtox.github.io/</a> qTox ID - 667798F921A68529C74094664C1B890D4E1156C4588906071398FA4F76C2095C0BF34A4C5D9C<br>For all questions regarding retail sales,
+please contact TOR LINK <a href="http://panelqbinglxczi2gqkwderfvgq6bcv5cbjwxrksjtvr5xv7ozh5wqad.onion/Url=4094dd92-0f91-4699-8328-fdb7070a8230" class="u-active-none u-border-none u-btn u-button-style u-hover-none u-none u-text-palette-1-base u-btn-3">http://panelqbinglxczi2gqkwderfvgq6bcv5cbjwxrksjtvr5xv7ozh5wqad.onion/Url=4094dd92-0f91-4699-8328-fdb7070a8230</a>
+          <br>
+        </p>
+      </div></footer>
+    <section class="u-backlink u-clearfix u-grey-80">
+      <p class="u-text">
+        <span>This site was created with the </span>
+        <a class="u-link" href="https://nicepage.com/" target="_blank" rel="nofollow">
+          <span>Nicepage</span>
+        </a>
+      </p>
+    </section>
+  <section class="u-align-center u-black u-clearfix u-container-align-center u-container-style u-dialog-block u-opacity u-opacity-70 u-valign-middle u-dialog-section-5" id="sec-1f0c">
+      <div class="u-align-left u-container-align-left u-container-style u-dialog u-image u-image-1" data-image-width="2000" data-image-height="1333">
+        <div class="u-container-layout u-container-layout-1">
+          <div class="u-container-style u-expanded-width u-group u-white u-group-1">
+            <div class="u-container-layout u-container-layout-2">
+              <img class="u-image u-image-contain u-image-default u-preserve-proportions u-image-2" src="images/thunderbird-cc-mark-oval.svg" alt="" data-image-width="80" data-image-height="59">
+              <h3 class="u-align-center u-text u-text-1"> Thunderbird Country Club</h3>
+              <p class="u-align-center u-text u-text-default u-text-2"> Revenue&nbsp;is $5.7 Million.</p>
+              <p class="u-align-center u-text u-text-default u-text-3">Thunderbird Country Club&nbsp;proudly offers world-class golf, dining, tennis, and more.<br> ALL DATA SIZE: â850gb<br> 1. Accounting<br> 2. HR, Users<br> 3. Scans, Confidentialâ¦
+              </p>
             </div>
-            <div class="text-lg mt-3 lg:m-0">
-                
-                <a href="/about/" class="block mt-4 lg:inline-block lg:mt-0 hover:text-gray-500 duration-200 mr-8">
-                    About
-                </a>
-                
-                <a href="/contact/" class="block mt-4 lg:inline-block lg:mt-0 hover:text-gray-500 duration-200 mr-8">
-                    Contact
-                </a>
-                
-                <button onclick="toggleDarkMode()" class="focus:outline-none mr-5"><i class="icon-moon" id="icon"></i></button>
-            </div>
-        </div>
-    </nav>
-</header><div class="container mx-auto max-w-7xl my-4 flex-grow" id="content">
+          </div>
+        </div><button class="u-dialog-close-button u-icon u-text-grey-40 u-icon-1"><svg class="u-svg-link" preserveAspectRatio="xMidYMin slice" viewBox="0 0 409.806 409.806" style=""><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#svg-5da4"></use></svg><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" xml:space="preserve" class="u-svg-content" viewBox="0 0 409.806 409.806" x="0px" y="0px" id="svg-5da4" style="enable-background:new 0 0 409.806 409.806;"><g><g><path d="M228.929,205.01L404.596,29.343c6.78-6.548,6.968-17.352,0.42-24.132c-6.548-6.78-17.352-6.968-24.132-0.42    c-0.142,0.137-0.282,0.277-0.42,0.42L204.796,180.878L29.129,5.21c-6.78-6.548-17.584-6.36-24.132,0.42    c-6.388,6.614-6.388,17.099,0,23.713L180.664,205.01L4.997,380.677c-6.663,6.664-6.663,17.468,0,24.132    c6.664,6.662,17.468,6.662,24.132,0l175.667-175.667l175.667,175.667c6.78,6.548,17.584,6.36,24.132-0.42    c6.387-6.614,6.387-17.099,0-23.712L228.929,205.01z"></path>
+</g>
+</g></svg></button>
+      </div>
+    </section><style>.u-dialog-section-5 .u-image-1 {
+  width: 545px;
+  min-height: 519px;
+  height: auto;
+  box-shadow: 0 0 14px 0 rgba(0,0,0,0.3);
+  background-image: url("data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiIGlkPSJkZWZhdWx0LWltYWdlLXNvbGlkIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHg9IjBweCIgeT0iMHB4IiB2aWV3Qm94PSIwIDAgNDAwIDI2NSIgc3R5bGU9IndpZHRoOiA0MDBweDsgaGVpZ2h0OiAyNjVweDsiPg0KPHJlY3QgZmlsbD0iI0M2RDhFMSIgd2lkdGg9IjQwMCIgaGVpZ2h0PSIyNjUiLz4NCjxwYXRoIGZpbGw9IiNEOUUzRTgiIGQ9Ik0zOTUuMyw5Ni4yYy01LTAuOC02LjEsMS4xLTguNSwyLjljLTEtMi4zLTIuNi02LjItNy43LTVjMS41LTUuMy0yLjYtOC40LTcuNy04LjRjLTAuNiwwLTEuMiwwLjEtMS44LDAuMg0KCWMtMS44LTQuMS02LTYuOS0xMC43LTYuOWMtNi41LDAtMTEuOCw1LjMtMTEuOCwxMS44YzAsMC40LDAsMC45LDAuMSwxLjNjLTEuMi0wLjgtMi41LTEuMy0zLjktMS4zYy00LjMsMC03LjksNC4yLTcuOSw5LjQNCgljMCwxLjIsMC4yLDIuNCwwLjYsMy41Yy0wLjUtMC4xLTEtMC4xLTEuNi0wLjFjLTYuOSwwLTEyLjUsNS41LTEyLjcsMTIuNGMtMC45LTAuMi0xLjktMC40LTIuOS0wLjRjLTYuNCwwLTExLjcsNS4yLTEyLjUsMTEuOA0KCWMtMS4yLTAuNC0yLjUtMC42LTMuOS0wLjZjLTUuOSwwLTEwLjgsMy44LTEyLjEsOC45Yy0yLjQtMi01LjUtMy4yLTguOS0zLjJjLTYsMC0xMS4xLDMuNy0xMi44LDguOGMtMS41LTEuNC0zLjgtMi4zLTYuMy0yLjMNCgljLTIuMSwwLTQuMSwwLjYtNS41LDEuN2gtMC4xYy0xLjMtNS41LTYuMi05LjUtMTIuMS05LjVjLTIuNCwwLTQuNywwLjctNi42LDEuOWMtMS40LTAuNy0zLTEuMi00LjgtMS4yYy0wLjMsMC0wLjUsMC0wLjgsMA0KCWMtMS41LTQuMS01LjItNy05LjUtN2MtMy4xLDAtNS45LDEuNS03LjgsMy45Yy0yLjItNC44LTYuOC04LjItMTIuMi04LjJjLTUuNiwwLTEwLjUsMy43LTEyLjUsOC44Yy0yLjEtMC45LTQuNC0xLjUtNi45LTEuNQ0KCWMtNi44LDAtMTIuNSwzLjktMTQuNSw5LjNjLTAuMiwwLTAuNSwwLTAuNywwYy01LjIsMC05LjYsMy4yLTExLjQsNy44Yy0yLjctMi44LTctNC41LTExLjgtNC41Yy0zLjMsMC02LjQsMC45LTguOSwyLjMNCgljLTIuMS02LjUtOC0xMi4yLTE4LjEtOS45Yy0yLjctMi4zLTYuMy0zLjctMTAuMS0zLjdjLTIuNSwwLTQuOCwwLjYtNi45LDEuNmMtMi4yLTUuOS03LjktMTAuMS0xNC42LTEwLjFjLTguNiwwLTE1LjYsNy0xNS42LDE1LjYNCgljMCwwLjksMC4xLDEuNywwLjIsMi41Yy0yLjYtNS03LjgtOC40LTEzLjgtOC40Yy04LjMsMC0xNS4xLDYuNS0xNS42LDE0LjZjLTIuOS0zLjItNy01LjMtMTEuNy01LjNjLTcuNCwwLTEzLjUsNS4xLTE1LjIsMTINCgljLTIuOS0zLjUtOS44LTYtMTQuNy02djExOS4yaDQwMFYxMDJDNDAwLDEwMiw0MDAsOTcsMzk1LjMsOTYuMnoiLz4NCjxwYXRoIGZpbGw9IiM4RUE4QkIiIGQ9Ik00MDAsMjA2LjJjMCwwLTI1LjMtMTkuMi0zMy42LTI1LjdjLTEzLjQtMTAuNi0yMy4xLTEyLjktMzEuNy03cy0yMy45LDE5LjctMjMuOSwxOS43cy01OC45LTYzLjktNjEuNS02Ni40DQoJYy0xLjUtMS40LTMuNi0xLjctNS41LTAuOWMtNS4yLDIuNC0xNy42LDkuNy0yNC41LDEyLjdjLTYuOSwyLjktNDEtNTAuNy00OS42LTUzcy04NC4zLDgzLjMtMTAxLjQsNzUuMXMtMjYuOS0yLjMtMzUuNCwzLjUNCgljLTguNiw1LjktMTEsNS45LTE1LjksOC4ycy0xNy4xLTUuOS0xNy4xLTUuOVYyNjVjMCwwLDQwMCwwLjIsNDAwLDB2LTU4LjhINDAweiIvPg0KPHBhdGggZmlsbD0iIzdFOTZBNiIgZD0iTTMzMy40LDE3OWMtMTMuMS05LjMtNDAsNC42LTU1LjEsMTAuN2MtMjMuNiw5LjYtOTQtNTQuNC0xMDcuMi01OS43YzAsMC00LjIsMy43LTkuNiw3LjYNCgljLTMuNS0wLjQtOC40LTUuNy05LjktNC43Yy00LjYsMy4xLTE3LjgsMTUuNC0yOC4zLDI2LjZjLTEwLjUsMTEuMy0xMS43LDAtMTUuOC0wLjZjLTIuNS0wLjQtNTQuMSw0Mi41LTU4LjcsNDMuMQ0KCUMyMi4zLDIwNS4zLDAsMTk3LjUsMCwxOTcuNVYyNjVsNDAwLTAuMXYtNTMuM0M0MDAsMjExLjYsMzQ0LjgsMTg3LjEsMzMzLjQsMTc5eiIvPg0KPHBhdGggZmlsbD0iIzc4OEY5RSIgZD0iTTAsMjY0Ljl2LTU4LjZjMCwwLDguMiwxLjgsMTEuMyw1LjNjMy4xLDMuNiwyNi4xLTQuMiwyNi4xLDQuN3MwLjUsNC4yLDAuNSwxNC44YzAsMTAuNywyMy00LjIsMzguMS0xOC40DQoJczM0LjktNDkuMiwzNi0zNWMxLDE0LjItMTUuMSwzOS4yLTI0LDU2LjRDNzkuMSwyNTEuNCw1MS43LDI2NSw1MS43LDI2NUwwLDI2NC45eiIvPg0KPHBhdGggZmlsbD0iIzc4OEY5RSIgZD0iTTEwMCwyNjVjMCwwLDY2LjctMTI1LjEsNjguMy0xMTYuOHMtNi44LDI5LjcsMi4xLDI2LjFjOC45LTMuNiwxNC42LTE2LDE4LjgtOS41czE2LjIsMzguNiwyMS45LDMzLjgNCgljNS43LTQuNywyMS40LTEzLjEsMjIuNC02LjVjMSw2LjUtMSw1LjMtNS43LDIwLjJDMjIzLjEsMjI3LjEsMjAwLDI2NSwyMDAsMjY1aC0xMGMwLDAsNi0yNC44LDguNi0zNC45YzIuNi0xMC4xLTMuNy0xOS0xMi04LjMNCglzLTIzLDIyLTI0LDE3LjhzLTUuNy0zMC4zLTE4LjgtMTQuMmMtMTMsMTYtMzMuOCwzOS43LTMzLjgsMzkuN2gtMTBWMjY1eiIvPg0KPHBhdGggZmlsbD0iIzc4OEY5RSIgZD0iTTI0NSwyNjVjMCwwLDE5LjgtNTQuNywzMy40LTY0LjJzNTMuNy0yNy45LDQ2LjktMTMuNmMtNi44LDE0LjItMTEsMzQuNC0yMC4zLDQ5LjgNCgljLTkuNCwxNS40LTE4LjgsMjYuMS0xNC4xLDEzLjZjNC43LTEyLjUsNi40LTIzLjMsMy43LTIzLjFDMjcxLjMsMjI5LjEsMjYwLDI2NSwyNjAsMjY1SDI0NXoiLz4NCjwvc3ZnPg0K");
+  background-position: 50% 50%;
+  margin: 60px auto;
+}
 
-<h2 class="text-4xl py-3 dark:text-white">
-    
-</h2>
-<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-    
-        
-    
+.u-dialog-section-5 .u-container-layout-1 {
+  padding: 50px;
+}
 
-    
-    
-    <div class="border-b dark:border-warmgray-700">
-        <article class="p-6 dark:text-white lg:flex">
-    <a href="http://dataleakypypu7uwblm5kttv726l3iripago6p336xjnbstkjwrlnlid.onion/posts/www.newriverelectrical.com/" aria-label="Read">
-        
-        
-        <img class="rounded mx-auto w-auto h-32 lg:mx-0 mb-5 object-cover lg:mb-0" src="/img/xNewRiver.png.pagespeed.ic.Uia0tfeY71.png" alt="thumbnail"/>
-        
-    </a>
-    <div class="lg:ml-8">
-        <a href="http://dataleakypypu7uwblm5kttv726l3iripago6p336xjnbstkjwrlnlid.onion/posts/www.newriverelectrical.com/">
-            <h1 class="text-xl mb-2 text-decoration-underline">New River Electrical Corporation</h1>
-        </a>
-        <p class="mb-1 text-sm opacity-40">15 words ã» 0min read</p>
-        
-            <div id="tags">
-                
-                <span class="inline-flex my-2 mr-2 leading-4 mb-2 content-center justify-center h-8 text-blue-600">
-                    <a href="http://dataleakypypu7uwblm5kttv726l3iripago6p336xjnbstkjwrlnlid.onion/tags/new-river-electrical-corporation">#New River Electrical Corporation</a>
-                </span>
-                
-                <span class="inline-flex my-2 mr-2 leading-4 mb-2 content-center justify-center h-8 text-blue-600">
-                    <a href="http://dataleakypypu7uwblm5kttv726l3iripago6p336xjnbstkjwrlnlid.onion/tags/virginia">#Virginia</a>
-                </span>
-                
-                <span class="inline-flex my-2 mr-2 leading-4 mb-2 content-center justify-center h-8 text-blue-600">
-                    <a href="http://dataleakypypu7uwblm5kttv726l3iripago6p336xjnbstkjwrlnlid.onion/tags/united-states">#United States</a>
-                </span>
-                
-            </div>
-        
-        <p class="opacity-70">...</p>
-    </div>
-</article>
-    </div>
-    
-    <div class="border-b dark:border-warmgray-700">
-        <article class="p-6 dark:text-white lg:flex">
-    <a href="http://dataleakypypu7uwblm5kttv726l3iripago6p336xjnbstkjwrlnlid.onion/posts/www.rccauto.com/" aria-label="Read">
-        
-        
-        <img class="rounded mx-auto w-auto h-32 lg:mx-0 mb-5 object-cover lg:mb-0" src="/img/xrccauto.png.pagespeed.ic.cfEopg8F9v.jpg" alt="thumbnail"/>
-        
-    </a>
-    <div class="lg:ml-8">
-        <a href="http://dataleakypypu7uwblm5kttv726l3iripago6p336xjnbstkjwrlnlid.onion/posts/www.rccauto.com/">
-            <h1 class="text-xl mb-2 text-decoration-underline">The Recycler Core Company</h1>
-        </a>
-        <p class="mb-1 text-sm opacity-40">23 words ã» 0min read</p>
-        
-            <div id="tags">
-                
-                <span class="inline-flex my-2 mr-2 leading-4 mb-2 content-center justify-center h-8 text-blue-600">
-                    <a href="http://dataleakypypu7uwblm5kttv726l3iripago6p336xjnbstkjwrlnlid.onion/tags/the-recycler-core-company">#The Recycler Core Company</a>
-                </span>
-                
-                <span class="inline-flex my-2 mr-2 leading-4 mb-2 content-center justify-center h-8 text-blue-600">
-                    <a href="http://dataleakypypu7uwblm5kttv726l3iripago6p336xjnbstkjwrlnlid.onion/tags/kansas">#Kansas</a>
-                </span>
-                
-                <span class="inline-flex my-2 mr-2 leading-4 mb-2 content-center justify-center h-8 text-blue-600">
-                    <a href="http://dataleakypypu7uwblm5kttv726l3iripago6p336xjnbstkjwrlnlid.onion/tags/united-states">#United States</a>
-                </span>
-                
-            </div>
-        
-        <p class="opacity-70">...</p>
-    </div>
-</article>
-    </div>
-    
-    <div class="border-b dark:border-warmgray-700">
-        <article class="p-6 dark:text-white lg:flex">
-    <a href="http://dataleakypypu7uwblm5kttv726l3iripago6p336xjnbstkjwrlnlid.onion/posts/www.eaglesafety.com/" aria-label="Read">
-        
-        
-        <img class="rounded mx-auto w-auto h-32 lg:mx-0 mb-5 lg:mb-0" src="/img/xnovel-128x128.png.pagespeed.ic.1mvjUv78mP.png" alt="thumbnail"/>
-        
-    </a>
-    <div class="lg:ml-8">
-        <a href="http://dataleakypypu7uwblm5kttv726l3iripago6p336xjnbstkjwrlnlid.onion/posts/www.eaglesafety.com/">
-            <h1 class="text-xl mb-2 text-decoration-underline">Eagle Safety Eyewear</h1>
-        </a>
-        <p class="mb-1 text-sm opacity-40">18 words ã» 0min read</p>
-        
-            <div id="tags">
-                
-                <span class="inline-flex my-2 mr-2 leading-4 mb-2 content-center justify-center h-8 text-blue-600">
-                    <a href="http://dataleakypypu7uwblm5kttv726l3iripago6p336xjnbstkjwrlnlid.onion/tags/3801-bishop-lane">#3801 Bishop Lane</a>
-                </span>
-                
-                <span class="inline-flex my-2 mr-2 leading-4 mb-2 content-center justify-center h-8 text-blue-600">
-                    <a href="http://dataleakypypu7uwblm5kttv726l3iripago6p336xjnbstkjwrlnlid.onion/tags/louisville">#Louisville</a>
-                </span>
-                
-                <span class="inline-flex my-2 mr-2 leading-4 mb-2 content-center justify-center h-8 text-blue-600">
-                    <a href="http://dataleakypypu7uwblm5kttv726l3iripago6p336xjnbstkjwrlnlid.onion/tags/united-states">#United States</a>
-                </span>
-                
-            </div>
-        
-        <p class="opacity-70">...</p>
-    </div>
-</article>
-    </div>
-    
-    <div class="border-b dark:border-warmgray-700">
-        <article class="p-6 dark:text-white lg:flex">
-    <a href="http://dataleakypypu7uwblm5kttv726l3iripago6p336xjnbstkjwrlnlid.onion/posts/www.curvc.com/" aria-label="Read">
-        
-        
-        <img class="rounded mx-auto w-auto h-32 lg:mx-0 mb-5 lg:mb-0" src="/img/xnovel-128x128.png.pagespeed.ic.1mvjUv78mP.png" alt="thumbnail"/>
-        
-    </a>
-    <div class="lg:ml-8">
-        <a href="http://dataleakypypu7uwblm5kttv726l3iripago6p336xjnbstkjwrlnlid.onion/posts/www.curvc.com/">
-            <h1 class="text-xl mb-2 text-decoration-underline">www.curvc.com</h1>
-        </a>
-        <p class="mb-1 text-sm opacity-40">18 words ã» 0min read</p>
-        
-            <div id="tags">
-                
-                <span class="inline-flex my-2 mr-2 leading-4 mb-2 content-center justify-center h-8 text-blue-600">
-                    <a href="http://dataleakypypu7uwblm5kttv726l3iripago6p336xjnbstkjwrlnlid.onion/tags/seoul">#Seoul</a>
-                </span>
-                
-                <span class="inline-flex my-2 mr-2 leading-4 mb-2 content-center justify-center h-8 text-blue-600">
-                    <a href="http://dataleakypypu7uwblm5kttv726l3iripago6p336xjnbstkjwrlnlid.onion/tags/seoul-tukpyolsi">#Seoul-t&#39;ukpyolsi</a>
-                </span>
-                
-                <span class="inline-flex my-2 mr-2 leading-4 mb-2 content-center justify-center h-8 text-blue-600">
-                    <a href="http://dataleakypypu7uwblm5kttv726l3iripago6p336xjnbstkjwrlnlid.onion/tags/south-korea">#South Korea</a>
-                </span>
-                
-            </div>
-        
-        <p class="opacity-70">...</p>
-    </div>
-</article>
-    </div>
-    
-    <div class="border-b dark:border-warmgray-700">
-        <article class="p-6 dark:text-white lg:flex">
-    <a href="http://dataleakypypu7uwblm5kttv726l3iripago6p336xjnbstkjwrlnlid.onion/posts/adamshomes.com/" aria-label="Read">
-        
-        
-        <img class="rounded mx-auto w-auto h-32 lg:mx-0 mb-5 lg:mb-0" src="/img/xnovel-128x128.png.pagespeed.ic.1mvjUv78mP.png" alt="thumbnail"/>
-        
-    </a>
-    <div class="lg:ml-8">
-        <a href="http://dataleakypypu7uwblm5kttv726l3iripago6p336xjnbstkjwrlnlid.onion/posts/adamshomes.com/">
-            <h1 class="text-xl mb-2 text-decoration-underline">adamshomes.com</h1>
-        </a>
-        <p class="mb-1 text-sm opacity-40">11 words ã» 0min read</p>
-        
-            <div id="tags">
-                
-                <span class="inline-flex my-2 mr-2 leading-4 mb-2 content-center justify-center h-8 text-blue-600">
-                    <a href="http://dataleakypypu7uwblm5kttv726l3iripago6p336xjnbstkjwrlnlid.onion/tags/adams-homes">#Adams Homes</a>
-                </span>
-                
-                <span class="inline-flex my-2 mr-2 leading-4 mb-2 content-center justify-center h-8 text-blue-600">
-                    <a href="http://dataleakypypu7uwblm5kttv726l3iripago6p336xjnbstkjwrlnlid.onion/tags/realtor">#Realtor</a>
-                </span>
-                
-                <span class="inline-flex my-2 mr-2 leading-4 mb-2 content-center justify-center h-8 text-blue-600">
-                    <a href="http://dataleakypypu7uwblm5kttv726l3iripago6p336xjnbstkjwrlnlid.onion/tags/florida">#Florida</a>
-                </span>
-                
-            </div>
-        
-        <p class="opacity-70">...</p>
-    </div>
-</article>
-    </div>
-    
-    <div class="border-b dark:border-warmgray-700">
-        <article class="p-6 dark:text-white lg:flex">
-    <a href="http://dataleakypypu7uwblm5kttv726l3iripago6p336xjnbstkjwrlnlid.onion/posts/celplan.com/" aria-label="Read">
-        
-        
-        <img class="rounded mx-auto w-auto h-32 lg:mx-0 mb-5 lg:mb-0" src="/img/xnovel-128x128.png.pagespeed.ic.1mvjUv78mP.png" alt="thumbnail"/>
-        
-    </a>
-    <div class="lg:ml-8">
-        <a href="http://dataleakypypu7uwblm5kttv726l3iripago6p336xjnbstkjwrlnlid.onion/posts/celplan.com/">
-            <h1 class="text-xl mb-2 text-decoration-underline">celplan.com</h1>
-        </a>
-        <p class="mb-1 text-sm opacity-40">13 words ã» 0min read</p>
-        
-            <div id="tags">
-                
-                <span class="inline-flex my-2 mr-2 leading-4 mb-2 content-center justify-center h-8 text-blue-600">
-                    <a href="http://dataleakypypu7uwblm5kttv726l3iripago6p336xjnbstkjwrlnlid.onion/tags/celplan">#CelPlan</a>
-                </span>
-                
-                <span class="inline-flex my-2 mr-2 leading-4 mb-2 content-center justify-center h-8 text-blue-600">
-                    <a href="http://dataleakypypu7uwblm5kttv726l3iripago6p336xjnbstkjwrlnlid.onion/tags/technologies">#Technologies</a>
-                </span>
-                
-                <span class="inline-flex my-2 mr-2 leading-4 mb-2 content-center justify-center h-8 text-blue-600">
-                    <a href="http://dataleakypypu7uwblm5kttv726l3iripago6p336xjnbstkjwrlnlid.onion/tags/reston-virginia-usa">#Reston, Virginia, USA</a>
-                </span>
-                
-            </div>
-        
-        <p class="opacity-70">...</p>
-    </div>
-</article>
-    </div>
-    
-    <div class="border-b dark:border-warmgray-700">
-        <article class="p-6 dark:text-white lg:flex">
-    <a href="http://dataleakypypu7uwblm5kttv726l3iripago6p336xjnbstkjwrlnlid.onion/posts/burotec.biz/" aria-label="Read">
-        
-        
-        <img class="rounded mx-auto w-auto h-32 lg:mx-0 mb-5 lg:mb-0" src="/img/xnovel-128x128.png.pagespeed.ic.1mvjUv78mP.png" alt="thumbnail"/>
-        
-    </a>
-    <div class="lg:ml-8">
-        <a href="http://dataleakypypu7uwblm5kttv726l3iripago6p336xjnbstkjwrlnlid.onion/posts/burotec.biz/">
-            <h1 class="text-xl mb-2 text-decoration-underline">burotec.biz</h1>
-        </a>
-        <p class="mb-1 text-sm opacity-40">13 words ã» 0min read</p>
-        
-            <div id="tags">
-                
-                <span class="inline-flex my-2 mr-2 leading-4 mb-2 content-center justify-center h-8 text-blue-600">
-                    <a href="http://dataleakypypu7uwblm5kttv726l3iripago6p336xjnbstkjwrlnlid.onion/tags/burotec-s.a.">#BUROTEC S.A.</a>
-                </span>
-                
-                <span class="inline-flex my-2 mr-2 leading-4 mb-2 content-center justify-center h-8 text-blue-600">
-                    <a href="http://dataleakypypu7uwblm5kttv726l3iripago6p336xjnbstkjwrlnlid.onion/tags/charles-de-gaulle-avenue">#Charles de Gaulle avenue</a>
-                </span>
-                
-                <span class="inline-flex my-2 mr-2 leading-4 mb-2 content-center justify-center h-8 text-blue-600">
-                    <a href="http://dataleakypypu7uwblm5kttv726l3iripago6p336xjnbstkjwrlnlid.onion/tags/republic-of-congo">#Republic of Congo</a>
-                </span>
-                
-            </div>
-        
-        <p class="opacity-70">...</p>
-    </div>
-</article>
-    </div>
-    
-    <div class="border-b dark:border-warmgray-700">
-        <article class="p-6 dark:text-white lg:flex">
-    <a href="http://dataleakypypu7uwblm5kttv726l3iripago6p336xjnbstkjwrlnlid.onion/posts/lindostar.it/" aria-label="Read">
-        
-        
-        <img class="rounded mx-auto w-auto h-32 lg:mx-0 mb-5 lg:mb-0" src="/img/xnovel-128x128.png.pagespeed.ic.1mvjUv78mP.png" alt="thumbnail"/>
-        
-    </a>
-    <div class="lg:ml-8">
-        <a href="http://dataleakypypu7uwblm5kttv726l3iripago6p336xjnbstkjwrlnlid.onion/posts/lindostar.it/">
-            <h1 class="text-xl mb-2 text-decoration-underline">lindostar.it</h1>
-        </a>
-        <p class="mb-1 text-sm opacity-40">13 words ã» 0min read</p>
-        
-            <div id="tags">
-                
-                <span class="inline-flex my-2 mr-2 leading-4 mb-2 content-center justify-center h-8 text-blue-600">
-                    <a href="http://dataleakypypu7uwblm5kttv726l3iripago6p336xjnbstkjwrlnlid.onion/tags/lindostar">#LINDOSTAR</a>
-                </span>
-                
-                <span class="inline-flex my-2 mr-2 leading-4 mb-2 content-center justify-center h-8 text-blue-600">
-                    <a href="http://dataleakypypu7uwblm5kttv726l3iripago6p336xjnbstkjwrlnlid.onion/tags/yesweclean">#YESWECLEAN</a>
-                </span>
-                
-                <span class="inline-flex my-2 mr-2 leading-4 mb-2 content-center justify-center h-8 text-blue-600">
-                    <a href="http://dataleakypypu7uwblm5kttv726l3iripago6p336xjnbstkjwrlnlid.onion/tags/italy">#ITALY</a>
-                </span>
-                
-            </div>
-        
-        <p class="opacity-70">...</p>
-    </div>
-</article>
-    </div>
-    
-    <div class="border-b dark:border-warmgray-700">
-        <article class="p-6 dark:text-white lg:flex">
-    <a href="http://dataleakypypu7uwblm5kttv726l3iripago6p336xjnbstkjwrlnlid.onion/posts/burotec.biz/" aria-label="Read">
-        
-        
-        <img class="rounded mx-auto w-auto h-32 lg:mx-0 mb-5 lg:mb-0" src="/img/xnovel-128x128.png.pagespeed.ic.1mvjUv78mP.png" alt="thumbnail"/>
-        
-    </a>
-    <div class="lg:ml-8">
-        <a href="http://dataleakypypu7uwblm5kttv726l3iripago6p336xjnbstkjwrlnlid.onion/posts/burotec.biz/">
-            <h1 class="text-xl mb-2 text-decoration-underline">panzersolutions.com</h1>
-        </a>
-        <p class="mb-1 text-sm opacity-40">13 words ã» 0min read</p>
-        
-            <div id="tags">
-                
-                <span class="inline-flex my-2 mr-2 leading-4 mb-2 content-center justify-center h-8 text-blue-600">
-                    <a href="http://dataleakypypu7uwblm5kttv726l3iripago6p336xjnbstkjwrlnlid.onion/tags/panzer-solutions">#Panzer Solutions</a>
-                </span>
-                
-                <span class="inline-flex my-2 mr-2 leading-4 mb-2 content-center justify-center h-8 text-blue-600">
-                    <a href="http://dataleakypypu7uwblm5kttv726l3iripago6p336xjnbstkjwrlnlid.onion/tags/it-project">#IT Project</a>
-                </span>
-                
-                <span class="inline-flex my-2 mr-2 leading-4 mb-2 content-center justify-center h-8 text-blue-600">
-                    <a href="http://dataleakypypu7uwblm5kttv726l3iripago6p336xjnbstkjwrlnlid.onion/tags/business-analyst">#Business Analyst</a>
-                </span>
-                
-            </div>
-        
-        <p class="opacity-70">...</p>
-    </div>
-</article>
-    </div>
-    
-    <div class="border-b dark:border-warmgray-700">
-        <article class="p-6 dark:text-white lg:flex">
-    <a href="http://dataleakypypu7uwblm5kttv726l3iripago6p336xjnbstkjwrlnlid.onion/posts/www.itasnatta.edu.it/" aria-label="Read">
-        
-        
-        <img class="rounded mx-auto w-auto h-32 lg:mx-0 mb-5 lg:mb-0" src="/img/xnovel-128x128.png.pagespeed.ic.1mvjUv78mP.png" alt="thumbnail"/>
-        
-    </a>
-    <div class="lg:ml-8">
-        <a href="http://dataleakypypu7uwblm5kttv726l3iripago6p336xjnbstkjwrlnlid.onion/posts/www.itasnatta.edu.it/">
-            <h1 class="text-xl mb-2 text-decoration-underline">www.itasnatta.edu.it</h1>
-        </a>
-        <p class="mb-1 text-sm opacity-40">13 words ã» 0min read</p>
-        
-            <div id="tags">
-                
-                <span class="inline-flex my-2 mr-2 leading-4 mb-2 content-center justify-center h-8 text-blue-600">
-                    <a href="http://dataleakypypu7uwblm5kttv726l3iripago6p336xjnbstkjwrlnlid.onion/tags/istituto-di-istruzione-superiore">#ISTITUTO DI ISTRUZIONE SUPERIORE</a>
-                </span>
-                
-                <span class="inline-flex my-2 mr-2 leading-4 mb-2 content-center justify-center h-8 text-blue-600">
-                    <a href="http://dataleakypypu7uwblm5kttv726l3iripago6p336xjnbstkjwrlnlid.onion/tags/giulio-natta">#Giulio Natta</a>
-                </span>
-                
-                <span class="inline-flex my-2 mr-2 leading-4 mb-2 content-center justify-center h-8 text-blue-600">
-                    <a href="http://dataleakypypu7uwblm5kttv726l3iripago6p336xjnbstkjwrlnlid.onion/tags/milano-mi">#MILANO - MI</a>
-                </span>
-                
-            </div>
-        
-        <p class="opacity-70">...</p>
-    </div>
-</article>
-    </div>
-    
-    <div class="border-b dark:border-warmgray-700">
-        <article class="p-6 dark:text-white lg:flex">
-    <a href="http://dataleakypypu7uwblm5kttv726l3iripago6p336xjnbstkjwrlnlid.onion/posts/thunderbirdcc.org/" aria-label="Read">
-        
-        
-        <img class="rounded mx-auto w-auto h-32 lg:mx-0 mb-5 lg:mb-0" src="/img/xnovel-128x128.png.pagespeed.ic.1mvjUv78mP.png" alt="thumbnail"/>
-        
-    </a>
-    <div class="lg:ml-8">
-        <a href="http://dataleakypypu7uwblm5kttv726l3iripago6p336xjnbstkjwrlnlid.onion/posts/thunderbirdcc.org/">
-            <h1 class="text-xl mb-2 text-decoration-underline">thunderbirdcc.org</h1>
-        </a>
-        <p class="mb-1 text-sm opacity-40">18 words ã» 0min read</p>
-        
-            <div id="tags">
-                
-                <span class="inline-flex my-2 mr-2 leading-4 mb-2 content-center justify-center h-8 text-blue-600">
-                    <a href="http://dataleakypypu7uwblm5kttv726l3iripago6p336xjnbstkjwrlnlid.onion/tags/thunderbird-country-club">#Thunderbird Country Club</a>
-                </span>
-                
-                <span class="inline-flex my-2 mr-2 leading-4 mb-2 content-center justify-center h-8 text-blue-600">
-                    <a href="http://dataleakypypu7uwblm5kttv726l3iripago6p336xjnbstkjwrlnlid.onion/tags/country-club">#Country Club</a>
-                </span>
-                
-                <span class="inline-flex my-2 mr-2 leading-4 mb-2 content-center justify-center h-8 text-blue-600">
-                    <a href="http://dataleakypypu7uwblm5kttv726l3iripago6p336xjnbstkjwrlnlid.onion/tags/rancho-mirage">#Rancho Mirage</a>
-                </span>
-                
-            </div>
-        
-        <p class="opacity-70">...</p>
-    </div>
-</article>
-    </div>
-    
-    <div class="border-b dark:border-warmgray-700">
-        <article class="p-6 dark:text-white lg:flex">
-    <a href="http://dataleakypypu7uwblm5kttv726l3iripago6p336xjnbstkjwrlnlid.onion/posts/cityofpensacola.com/" aria-label="Read">
-        
-        
-        <img class="rounded mx-auto w-auto h-32 lg:mx-0 mb-5 lg:mb-0" src="/img/xnovel-128x128.png.pagespeed.ic.1mvjUv78mP.png" alt="thumbnail"/>
-        
-    </a>
-    <div class="lg:ml-8">
-        <a href="http://dataleakypypu7uwblm5kttv726l3iripago6p336xjnbstkjwrlnlid.onion/posts/cityofpensacola.com/">
-            <h1 class="text-xl mb-2 text-decoration-underline">cityofpensacola.com</h1>
-        </a>
-        <p class="mb-1 text-sm opacity-40">18 words ã» 0min read</p>
-        
-            <div id="tags">
-                
-                <span class="inline-flex my-2 mr-2 leading-4 mb-2 content-center justify-center h-8 text-blue-600">
-                    <a href="http://dataleakypypu7uwblm5kttv726l3iripago6p336xjnbstkjwrlnlid.onion/tags/cyberattack">#cyberattack</a>
-                </span>
-                
-                <span class="inline-flex my-2 mr-2 leading-4 mb-2 content-center justify-center h-8 text-blue-600">
-                    <a href="http://dataleakypypu7uwblm5kttv726l3iripago6p336xjnbstkjwrlnlid.onion/tags/municipalities">#municipalities</a>
-                </span>
-                
-                <span class="inline-flex my-2 mr-2 leading-4 mb-2 content-center justify-center h-8 text-blue-600">
-                    <a href="http://dataleakypypu7uwblm5kttv726l3iripago6p336xjnbstkjwrlnlid.onion/tags/florida">#Florida</a>
-                </span>
-                
-            </div>
-        
-        <p class="opacity-70">...</p>
-    </div>
-</article>
-    </div>
-    
-</div>
+.u-dialog-section-5 .u-group-1 {
+  min-height: 330px;
+  height: auto;
+  background-image: none;
+  margin: 0 -100px 0 auto;
+}
 
+.u-dialog-section-5 .u-container-layout-2 {
+  padding: 0 30px;
+}
 
-<nav aria-label="page navigation">
-    <ul class="flex list-none my-5 p-0 justify-center">
-        
-        
+.u-dialog-section-5 .u-image-2 {
+  width: 80px;
+  height: 59px;
+  margin: -30px auto 0 153px;
+}
 
-        
+.u-dialog-section-5 .u-text-1 {
+  font-weight: 700;
+  text-transform: none;
+  margin: 1px 0 0;
+}
 
-        
-             
-            <li class="page-item active"><a href="/" class="shadow-md mx-2 py-3 px-5 rounded-full relative block border-white border-0 duration-100 bg-blue-600 border-blue-600 text-white hover:border-blue-700 dark:border-gray-600">1</a></li>
-            
-        
-            
-             
-            <li class="page-item"><a href="/page/2/" class="shadow-md mx-2 py-3 px-5 rounded-full relative block border-white border-0 duration-100 bg-white text-blue-600 hover:bg-gray-400 hover:text-blue-700 dark:bg-warmgray-900 dark:border-gray-600 dark:hover:bg-warmgray-700">2</a></li>
-            
-        
+.u-dialog-section-5 .u-text-2 {
+  margin: 20px auto 0 0;
+}
 
-        
-        <li class="page-item"><a href="/page/2/" rel="next" class="shadow-md mx-2 py-3 px-5 rounded-full relative block border-white border-0 duration-100  bg-white text-blue-600 hover:bg-gray-400 hover:text-blue-700 dark:bg-warmgray-900 dark:border-gray-600 dark:hover:bg-warmgray-700">Next</a></li>
-        
+.u-dialog-section-5 .u-text-3 {
+  margin: 20px auto 0 0;
+}
 
-        
-        
-    </ul>
-</nav>
+.u-dialog-section-5 .u-icon-1 {
+  width: 16px;
+  height: 16px;
+  left: auto;
+  top: 17px;
+  position: absolute;
+  right: 16px;
+}
 
+@media (max-width: 1199px) {
+  .u-dialog-section-5 .u-group-1 {
+    margin-right: initial;
+    margin-left: initial;
+    height: auto;
+  }
 
-        </div><footer class="bg-white dark:bg-warmgray-800 dark:text-white pt-5 pb-5 bg-gray-100">
-  <div class="container mx-auto px-4 text-center">
-    <p>&copy;2024 </p>
-  </div>
-</footer>
-<script>function toggleNav(){var hamburger=document.getElementById("hamburgerbtn");var overlay=document.getElementById("overlay");var body=document.body;hamburger.addEventListener("click",function(){overlay.classList.toggle("open");hamburger.classList.toggle("is-open");body.classList.toggle("scroll-lock");});}toggleNav();var icon=document.getElementById("icon");if(document.documentElement.classList.contains("dark")||localStorage.theme==='dark'||(!('theme'in localStorage)&&window.matchMedia('(prefers-color-scheme: dark)').matches)){icon.classList.remove("icon-moon");icon.classList.add("icon-sun");document.documentElement.classList.add('dark')}else{document.documentElement.classList.remove('dark')}function toggleDarkMode(){if(document.documentElement.classList.contains('dark')){icon.classList.remove("icon-sun");icon.classList.add("icon-moon");document.documentElement.classList.remove('dark')
-localStorage.theme='light'}else{icon.classList.remove("icon-moon");icon.classList.add("icon-sun");document.documentElement.classList.add('dark')
-localStorage.theme='dark'}}</script></body>
-</html>
+  .u-dialog-section-5 .u-image-2 {
+    margin-top: -30px;
+    margin-left: 153px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-dialog-section-5 .u-image-1 {
+    margin-top: 318px;
+  }
+
+  .u-dialog-section-5 .u-container-layout-1 {
+    padding: 30px 40px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-dialog-section-5 .u-image-1 {
+    width: 540px;
+    margin-top: 60px;
+  }
+
+  .u-dialog-section-5 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-dialog-section-5 .u-image-1 {
+    width: 340px;
+  }
+
+  .u-dialog-section-5 .u-container-layout-1 {
+    padding-left: 25px;
+    padding-right: 25px;
+  }
+}</style><section class="u-align-center u-black u-clearfix u-container-align-center u-container-style u-dialog-block u-opacity u-opacity-70 u-dialog-section-6" id="sec-6f8a">
+      <div class="u-align-left u-container-align-left u-container-style u-dialog u-image u-image-1" data-image-width="2000" data-image-height="1333">
+        <div class="u-container-layout u-container-layout-1">
+          <div class="u-container-style u-expanded-width u-group u-white u-group-1">
+            <div class="u-container-layout u-container-layout-2">
+              <img class="u-image u-image-contain u-image-default u-image-2" src="images/f9cc0c0c5f4f3d4297cce9f14f6f6e7b.jpg" alt="" data-image-width="696" data-image-height="147">
+              <h3 class="u-align-center u-text u-text-1"> The Recycler Core</h3>
+              <p class="u-align-center u-text u-text-default u-text-2"> Revenue$20.4 Million</p>
+              <p class="u-text u-text-default u-text-3">Supplies scrap materials, cores, used equipment, and catalytic converters for various industries.</p>
+            </div>
+          </div>
+        </div><button class="u-dialog-close-button u-icon u-text-grey-40 u-icon-1"><svg class="u-svg-link" preserveAspectRatio="xMidYMin slice" viewBox="0 0 409.806 409.806" style=""><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#svg-5da4"></use></svg><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" xml:space="preserve" class="u-svg-content" viewBox="0 0 409.806 409.806" x="0px" y="0px" id="svg-5da4" style="enable-background:new 0 0 409.806 409.806;"><g><g><path d="M228.929,205.01L404.596,29.343c6.78-6.548,6.968-17.352,0.42-24.132c-6.548-6.78-17.352-6.968-24.132-0.42    c-0.142,0.137-0.282,0.277-0.42,0.42L204.796,180.878L29.129,5.21c-6.78-6.548-17.584-6.36-24.132,0.42    c-6.388,6.614-6.388,17.099,0,23.713L180.664,205.01L4.997,380.677c-6.663,6.664-6.663,17.468,0,24.132    c6.664,6.662,17.468,6.662,24.132,0l175.667-175.667l175.667,175.667c6.78,6.548,17.584,6.36,24.132-0.42    c6.387-6.614,6.387-17.099,0-23.712L228.929,205.01z"></path>
+</g>
+</g></svg></button>
+      </div>
+    </section><style>.u-dialog-section-6 .u-image-1 {
+  width: 615px;
+  min-height: 494px;
+  height: auto;
+  box-shadow: 0 0 14px 0 rgba(0,0,0,0.3);
+  background-image: url("data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiIGlkPSJkZWZhdWx0LWltYWdlLXNvbGlkIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHg9IjBweCIgeT0iMHB4IiB2aWV3Qm94PSIwIDAgNDAwIDI2NSIgc3R5bGU9IndpZHRoOiA0MDBweDsgaGVpZ2h0OiAyNjVweDsiPg0KPHJlY3QgZmlsbD0iI0M2RDhFMSIgd2lkdGg9IjQwMCIgaGVpZ2h0PSIyNjUiLz4NCjxwYXRoIGZpbGw9IiNEOUUzRTgiIGQ9Ik0zOTUuMyw5Ni4yYy01LTAuOC02LjEsMS4xLTguNSwyLjljLTEtMi4zLTIuNi02LjItNy43LTVjMS41LTUuMy0yLjYtOC40LTcuNy04LjRjLTAuNiwwLTEuMiwwLjEtMS44LDAuMg0KCWMtMS44LTQuMS02LTYuOS0xMC43LTYuOWMtNi41LDAtMTEuOCw1LjMtMTEuOCwxMS44YzAsMC40LDAsMC45LDAuMSwxLjNjLTEuMi0wLjgtMi41LTEuMy0zLjktMS4zYy00LjMsMC03LjksNC4yLTcuOSw5LjQNCgljMCwxLjIsMC4yLDIuNCwwLjYsMy41Yy0wLjUtMC4xLTEtMC4xLTEuNi0wLjFjLTYuOSwwLTEyLjUsNS41LTEyLjcsMTIuNGMtMC45LTAuMi0xLjktMC40LTIuOS0wLjRjLTYuNCwwLTExLjcsNS4yLTEyLjUsMTEuOA0KCWMtMS4yLTAuNC0yLjUtMC42LTMuOS0wLjZjLTUuOSwwLTEwLjgsMy44LTEyLjEsOC45Yy0yLjQtMi01LjUtMy4yLTguOS0zLjJjLTYsMC0xMS4xLDMuNy0xMi44LDguOGMtMS41LTEuNC0zLjgtMi4zLTYuMy0yLjMNCgljLTIuMSwwLTQuMSwwLjYtNS41LDEuN2gtMC4xYy0xLjMtNS41LTYuMi05LjUtMTIuMS05LjVjLTIuNCwwLTQuNywwLjctNi42LDEuOWMtMS40LTAuNy0zLTEuMi00LjgtMS4yYy0wLjMsMC0wLjUsMC0wLjgsMA0KCWMtMS41LTQuMS01LjItNy05LjUtN2MtMy4xLDAtNS45LDEuNS03LjgsMy45Yy0yLjItNC44LTYuOC04LjItMTIuMi04LjJjLTUuNiwwLTEwLjUsMy43LTEyLjUsOC44Yy0yLjEtMC45LTQuNC0xLjUtNi45LTEuNQ0KCWMtNi44LDAtMTIuNSwzLjktMTQuNSw5LjNjLTAuMiwwLTAuNSwwLTAuNywwYy01LjIsMC05LjYsMy4yLTExLjQsNy44Yy0yLjctMi44LTctNC41LTExLjgtNC41Yy0zLjMsMC02LjQsMC45LTguOSwyLjMNCgljLTIuMS02LjUtOC0xMi4yLTE4LjEtOS45Yy0yLjctMi4zLTYuMy0zLjctMTAuMS0zLjdjLTIuNSwwLTQuOCwwLjYtNi45LDEuNmMtMi4yLTUuOS03LjktMTAuMS0xNC42LTEwLjFjLTguNiwwLTE1LjYsNy0xNS42LDE1LjYNCgljMCwwLjksMC4xLDEuNywwLjIsMi41Yy0yLjYtNS03LjgtOC40LTEzLjgtOC40Yy04LjMsMC0xNS4xLDYuNS0xNS42LDE0LjZjLTIuOS0zLjItNy01LjMtMTEuNy01LjNjLTcuNCwwLTEzLjUsNS4xLTE1LjIsMTINCgljLTIuOS0zLjUtOS44LTYtMTQuNy02djExOS4yaDQwMFYxMDJDNDAwLDEwMiw0MDAsOTcsMzk1LjMsOTYuMnoiLz4NCjxwYXRoIGZpbGw9IiM4RUE4QkIiIGQ9Ik00MDAsMjA2LjJjMCwwLTI1LjMtMTkuMi0zMy42LTI1LjdjLTEzLjQtMTAuNi0yMy4xLTEyLjktMzEuNy03cy0yMy45LDE5LjctMjMuOSwxOS43cy01OC45LTYzLjktNjEuNS02Ni40DQoJYy0xLjUtMS40LTMuNi0xLjctNS41LTAuOWMtNS4yLDIuNC0xNy42LDkuNy0yNC41LDEyLjdjLTYuOSwyLjktNDEtNTAuNy00OS42LTUzcy04NC4zLDgzLjMtMTAxLjQsNzUuMXMtMjYuOS0yLjMtMzUuNCwzLjUNCgljLTguNiw1LjktMTEsNS45LTE1LjksOC4ycy0xNy4xLTUuOS0xNy4xLTUuOVYyNjVjMCwwLDQwMCwwLjIsNDAwLDB2LTU4LjhINDAweiIvPg0KPHBhdGggZmlsbD0iIzdFOTZBNiIgZD0iTTMzMy40LDE3OWMtMTMuMS05LjMtNDAsNC42LTU1LjEsMTAuN2MtMjMuNiw5LjYtOTQtNTQuNC0xMDcuMi01OS43YzAsMC00LjIsMy43LTkuNiw3LjYNCgljLTMuNS0wLjQtOC40LTUuNy05LjktNC43Yy00LjYsMy4xLTE3LjgsMTUuNC0yOC4zLDI2LjZjLTEwLjUsMTEuMy0xMS43LDAtMTUuOC0wLjZjLTIuNS0wLjQtNTQuMSw0Mi41LTU4LjcsNDMuMQ0KCUMyMi4zLDIwNS4zLDAsMTk3LjUsMCwxOTcuNVYyNjVsNDAwLTAuMXYtNTMuM0M0MDAsMjExLjYsMzQ0LjgsMTg3LjEsMzMzLjQsMTc5eiIvPg0KPHBhdGggZmlsbD0iIzc4OEY5RSIgZD0iTTAsMjY0Ljl2LTU4LjZjMCwwLDguMiwxLjgsMTEuMyw1LjNjMy4xLDMuNiwyNi4xLTQuMiwyNi4xLDQuN3MwLjUsNC4yLDAuNSwxNC44YzAsMTAuNywyMy00LjIsMzguMS0xOC40DQoJczM0LjktNDkuMiwzNi0zNWMxLDE0LjItMTUuMSwzOS4yLTI0LDU2LjRDNzkuMSwyNTEuNCw1MS43LDI2NSw1MS43LDI2NUwwLDI2NC45eiIvPg0KPHBhdGggZmlsbD0iIzc4OEY5RSIgZD0iTTEwMCwyNjVjMCwwLDY2LjctMTI1LjEsNjguMy0xMTYuOHMtNi44LDI5LjcsMi4xLDI2LjFjOC45LTMuNiwxNC42LTE2LDE4LjgtOS41czE2LjIsMzguNiwyMS45LDMzLjgNCgljNS43LTQuNywyMS40LTEzLjEsMjIuNC02LjVjMSw2LjUtMSw1LjMtNS43LDIwLjJDMjIzLjEsMjI3LjEsMjAwLDI2NSwyMDAsMjY1aC0xMGMwLDAsNi0yNC44LDguNi0zNC45YzIuNi0xMC4xLTMuNy0xOS0xMi04LjMNCglzLTIzLDIyLTI0LDE3LjhzLTUuNy0zMC4zLTE4LjgtMTQuMmMtMTMsMTYtMzMuOCwzOS43LTMzLjgsMzkuN2gtMTBWMjY1eiIvPg0KPHBhdGggZmlsbD0iIzc4OEY5RSIgZD0iTTI0NSwyNjVjMCwwLDE5LjgtNTQuNywzMy40LTY0LjJzNTMuNy0yNy45LDQ2LjktMTMuNmMtNi44LDE0LjItMTEsMzQuNC0yMC4zLDQ5LjgNCgljLTkuNCwxNS40LTE4LjgsMjYuMS0xNC4xLDEzLjZjNC43LTEyLjUsNi40LTIzLjMsMy43LTIzLjFDMjcxLjMsMjI5LjEsMjYwLDI2NSwyNjAsMjY1SDI0NXoiLz4NCjwvc3ZnPg0K");
+  background-position: 50% 50%;
+  margin: 235px calc(((100% - 1140px) / 2)  + 228px) 60px auto;
+}
+
+.u-dialog-section-6 .u-container-layout-1 {
+  padding: 50px;
+}
+
+.u-dialog-section-6 .u-group-1 {
+  min-height: 262px;
+  height: auto;
+  background-image: none;
+  margin: 24px -100px 0 auto;
+}
+
+.u-dialog-section-6 .u-container-layout-2 {
+  padding: 0 30px;
+}
+
+.u-dialog-section-6 .u-image-2 {
+  width: 258px;
+  height: 54px;
+  margin: -21px auto 0;
+}
+
+.u-dialog-section-6 .u-text-1 {
+  font-weight: 700;
+  text-transform: none;
+  margin: 37px 0 0;
+}
+
+.u-dialog-section-6 .u-text-2 {
+  margin: 5px auto 0 0;
+}
+
+.u-dialog-section-6 .u-text-3 {
+  margin: 1px 0 0;
+}
+
+.u-dialog-section-6 .u-icon-1 {
+  width: 16px;
+  height: 16px;
+  left: auto;
+  top: 17px;
+  position: absolute;
+  right: 16px;
+}
+
+@media (max-width: 1199px) {
+  .u-dialog-section-6 .u-image-1 {
+    margin-right: calc(((100% - 940px) / 2) + 228px);
+  }
+
+  .u-dialog-section-6 .u-group-1 {
+    margin-right: initial;
+    margin-left: initial;
+    height: auto;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-dialog-section-6 .u-image-1 {
+    margin-top: 318px;
+    margin-right: calc(((100% - 720px) / 2) + 105px);
+  }
+
+  .u-dialog-section-6 .u-container-layout-1 {
+    padding: 30px 40px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-dialog-section-6 .u-image-1 {
+    width: 540px;
+    margin-top: 235px;
+    margin-right: calc(((100% - 540px) / 2));
+  }
+
+  .u-dialog-section-6 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-dialog-section-6 .u-image-1 {
+    width: 340px;
+    margin-right: calc(((100% - 340px) / 2));
+  }
+
+  .u-dialog-section-6 .u-container-layout-1 {
+    padding-left: 25px;
+    padding-right: 25px;
+  }
+}</style><section class="u-align-center u-black u-clearfix u-container-align-center u-container-style u-dialog-block u-opacity u-opacity-70 u-valign-middle u-dialog-section-7" id="sec-e03d">
+      <div class="u-container-style u-dialog u-shape-rectangle u-white u-dialog-1">
+        <div class="u-container-layout u-container-layout-1">
+          <img class="u-image u-image-contain u-image-default u-image-1" src="images/eagle-safety-logo.png" alt="" data-image-width="295" data-image-height="53">
+          <h2 class="u-align-center u-text u-text-default u-text-1"> Eagle Safety Eyewear</h2>
+          <p class="u-align-center u-text u-text-default u-text-2"> &nbsp;Source For Prescription Safety Eyewear</p>
+        </div><button class="u-dialog-close-button u-icon u-text-grey-50 u-icon-1"><svg class="u-svg-link" preserveAspectRatio="xMidYMin slice" viewBox="0 0 413.348 413.348" style=""><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#svg-5801"></use></svg><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" xml:space="preserve" class="u-svg-content" viewBox="0 0 413.348 413.348" id="svg-5801"><path d="m413.348 24.354-24.354-24.354-182.32 182.32-182.32-182.32-24.354 24.354 182.32 182.32-182.32 182.32 24.354 24.354 182.32-182.32 182.32 182.32 24.354-24.354-182.32-182.32z"></path></svg></button>
+      </div>
+    </section><style>.u-dialog-section-7 .u-dialog-1 {
+  width: 566px;
+  min-height: 367px;
+  height: auto;
+  box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
+  margin: 60px auto;
+}
+
+.u-dialog-section-7 .u-container-layout-1 {
+  padding: 27px 30px;
+}
+
+.u-dialog-section-7 .u-image-1 {
+  width: 253px;
+  height: 45px;
+  margin: 0 118px 0 auto;
+}
+
+.u-dialog-section-7 .u-text-1 {
+  font-size: 2.5rem;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  font-weight: 700;
+  margin: 33px auto 0;
+}
+
+.u-dialog-section-7 .u-text-2 {
+  margin: 20px 0 0;
+}
+
+.u-dialog-section-7 .u-icon-1 {
+  width: 15px;
+  height: 15px;
+  left: auto;
+  top: 17px;
+  position: absolute;
+  right: 16px;
+}
+
+@media (max-width: 767px) {
+  .u-dialog-section-7 .u-dialog-1 {
+    width: 540px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-dialog-section-7 .u-dialog-1 {
+    width: 340px;
+  }
+
+  .u-dialog-section-7 .u-container-layout-1 {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+  .u-dialog-section-7 .u-image-1 {
+    margin-right: 67px;
+  }
+
+  .u-dialog-section-7 .u-text-1 {
+    font-size: 2.25rem;
+  }
+}</style><section class="u-align-center u-black u-clearfix u-container-align-center u-container-style u-dialog-block u-opacity u-opacity-70 u-valign-middle u-dialog-section-8" id="sec-2de4">
+      <div class="u-align-left u-container-style u-dialog u-image u-image-1" data-image-width="2000" data-image-height="1333">
+        <div class="u-container-layout u-container-layout-1">
+          <img class="u-image u-image-contain u-image-default u-preserve-proportions u-image-2" src="images/17234c09-6e2a-fd27-f5e8-ea6e9afe3607.jpg" alt="" data-image-width="225" data-image-height="225">
+          <div class="custom-expanded u-container-style u-group u-white u-group-1">
+            <div class="u-container-layout u-container-layout-2">
+              <h3 class="u-align-center u-text u-text-1"> Panzer Solutions LLCBusiness Services</h3>
+              <p class="u-align-center u-text u-text-default u-text-2"> 631 Employees<br>Revenue $57.6 Million<br>A front-line source in Recruiting &amp; Talent Acquisition has indicated that the organization is in the midst of initiatives related to applicant tracking systems (ATS).<br>
+              </p>
+            </div>
+          </div>
+        </div><button class="u-dialog-close-button u-icon u-text-grey-40 u-icon-1"><svg class="u-svg-link" preserveAspectRatio="xMidYMin slice" viewBox="0 0 409.806 409.806" style=""><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#svg-5da4"></use></svg><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" xml:space="preserve" class="u-svg-content" viewBox="0 0 409.806 409.806" x="0px" y="0px" id="svg-5da4" style="enable-background:new 0 0 409.806 409.806;"><g><g><path d="M228.929,205.01L404.596,29.343c6.78-6.548,6.968-17.352,0.42-24.132c-6.548-6.78-17.352-6.968-24.132-0.42    c-0.142,0.137-0.282,0.277-0.42,0.42L204.796,180.878L29.129,5.21c-6.78-6.548-17.584-6.36-24.132,0.42    c-6.388,6.614-6.388,17.099,0,23.713L180.664,205.01L4.997,380.677c-6.663,6.664-6.663,17.468,0,24.132    c6.664,6.662,17.468,6.662,24.132,0l175.667-175.667l175.667,175.667c6.78,6.548,17.584,6.36,24.132-0.42    c6.387-6.614,6.387-17.099,0-23.712L228.929,205.01z"></path>
+</g>
+</g></svg></button>
+      </div>
+    </section><style>.u-dialog-section-8 .u-image-1 {
+  width: 545px;
+  min-height: 585px;
+  height: auto;
+  box-shadow: 0 0 14px 0 rgba(0,0,0,0.3);
+  background-image: url("data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiIGlkPSJkZWZhdWx0LWltYWdlLXNvbGlkIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHg9IjBweCIgeT0iMHB4IiB2aWV3Qm94PSIwIDAgNDAwIDI2NSIgc3R5bGU9IndpZHRoOiA0MDBweDsgaGVpZ2h0OiAyNjVweDsiPg0KPHJlY3QgZmlsbD0iI0M2RDhFMSIgd2lkdGg9IjQwMCIgaGVpZ2h0PSIyNjUiLz4NCjxwYXRoIGZpbGw9IiNEOUUzRTgiIGQ9Ik0zOTUuMyw5Ni4yYy01LTAuOC02LjEsMS4xLTguNSwyLjljLTEtMi4zLTIuNi02LjItNy43LTVjMS41LTUuMy0yLjYtOC40LTcuNy04LjRjLTAuNiwwLTEuMiwwLjEtMS44LDAuMg0KCWMtMS44LTQuMS02LTYuOS0xMC43LTYuOWMtNi41LDAtMTEuOCw1LjMtMTEuOCwxMS44YzAsMC40LDAsMC45LDAuMSwxLjNjLTEuMi0wLjgtMi41LTEuMy0zLjktMS4zYy00LjMsMC03LjksNC4yLTcuOSw5LjQNCgljMCwxLjIsMC4yLDIuNCwwLjYsMy41Yy0wLjUtMC4xLTEtMC4xLTEuNi0wLjFjLTYuOSwwLTEyLjUsNS41LTEyLjcsMTIuNGMtMC45LTAuMi0xLjktMC40LTIuOS0wLjRjLTYuNCwwLTExLjcsNS4yLTEyLjUsMTEuOA0KCWMtMS4yLTAuNC0yLjUtMC42LTMuOS0wLjZjLTUuOSwwLTEwLjgsMy44LTEyLjEsOC45Yy0yLjQtMi01LjUtMy4yLTguOS0zLjJjLTYsMC0xMS4xLDMuNy0xMi44LDguOGMtMS41LTEuNC0zLjgtMi4zLTYuMy0yLjMNCgljLTIuMSwwLTQuMSwwLjYtNS41LDEuN2gtMC4xYy0xLjMtNS41LTYuMi05LjUtMTIuMS05LjVjLTIuNCwwLTQuNywwLjctNi42LDEuOWMtMS40LTAuNy0zLTEuMi00LjgtMS4yYy0wLjMsMC0wLjUsMC0wLjgsMA0KCWMtMS41LTQuMS01LjItNy05LjUtN2MtMy4xLDAtNS45LDEuNS03LjgsMy45Yy0yLjItNC44LTYuOC04LjItMTIuMi04LjJjLTUuNiwwLTEwLjUsMy43LTEyLjUsOC44Yy0yLjEtMC45LTQuNC0xLjUtNi45LTEuNQ0KCWMtNi44LDAtMTIuNSwzLjktMTQuNSw5LjNjLTAuMiwwLTAuNSwwLTAuNywwYy01LjIsMC05LjYsMy4yLTExLjQsNy44Yy0yLjctMi44LTctNC41LTExLjgtNC41Yy0zLjMsMC02LjQsMC45LTguOSwyLjMNCgljLTIuMS02LjUtOC0xMi4yLTE4LjEtOS45Yy0yLjctMi4zLTYuMy0zLjctMTAuMS0zLjdjLTIuNSwwLTQuOCwwLjYtNi45LDEuNmMtMi4yLTUuOS03LjktMTAuMS0xNC42LTEwLjFjLTguNiwwLTE1LjYsNy0xNS42LDE1LjYNCgljMCwwLjksMC4xLDEuNywwLjIsMi41Yy0yLjYtNS03LjgtOC40LTEzLjgtOC40Yy04LjMsMC0xNS4xLDYuNS0xNS42LDE0LjZjLTIuOS0zLjItNy01LjMtMTEuNy01LjNjLTcuNCwwLTEzLjUsNS4xLTE1LjIsMTINCgljLTIuOS0zLjUtOS44LTYtMTQuNy02djExOS4yaDQwMFYxMDJDNDAwLDEwMiw0MDAsOTcsMzk1LjMsOTYuMnoiLz4NCjxwYXRoIGZpbGw9IiM4RUE4QkIiIGQ9Ik00MDAsMjA2LjJjMCwwLTI1LjMtMTkuMi0zMy42LTI1LjdjLTEzLjQtMTAuNi0yMy4xLTEyLjktMzEuNy03cy0yMy45LDE5LjctMjMuOSwxOS43cy01OC45LTYzLjktNjEuNS02Ni40DQoJYy0xLjUtMS40LTMuNi0xLjctNS41LTAuOWMtNS4yLDIuNC0xNy42LDkuNy0yNC41LDEyLjdjLTYuOSwyLjktNDEtNTAuNy00OS42LTUzcy04NC4zLDgzLjMtMTAxLjQsNzUuMXMtMjYuOS0yLjMtMzUuNCwzLjUNCgljLTguNiw1LjktMTEsNS45LTE1LjksOC4ycy0xNy4xLTUuOS0xNy4xLTUuOVYyNjVjMCwwLDQwMCwwLjIsNDAwLDB2LTU4LjhINDAweiIvPg0KPHBhdGggZmlsbD0iIzdFOTZBNiIgZD0iTTMzMy40LDE3OWMtMTMuMS05LjMtNDAsNC42LTU1LjEsMTAuN2MtMjMuNiw5LjYtOTQtNTQuNC0xMDcuMi01OS43YzAsMC00LjIsMy43LTkuNiw3LjYNCgljLTMuNS0wLjQtOC40LTUuNy05LjktNC43Yy00LjYsMy4xLTE3LjgsMTUuNC0yOC4zLDI2LjZjLTEwLjUsMTEuMy0xMS43LDAtMTUuOC0wLjZjLTIuNS0wLjQtNTQuMSw0Mi41LTU4LjcsNDMuMQ0KCUMyMi4zLDIwNS4zLDAsMTk3LjUsMCwxOTcuNVYyNjVsNDAwLTAuMXYtNTMuM0M0MDAsMjExLjYsMzQ0LjgsMTg3LjEsMzMzLjQsMTc5eiIvPg0KPHBhdGggZmlsbD0iIzc4OEY5RSIgZD0iTTAsMjY0Ljl2LTU4LjZjMCwwLDguMiwxLjgsMTEuMyw1LjNjMy4xLDMuNiwyNi4xLTQuMiwyNi4xLDQuN3MwLjUsNC4yLDAuNSwxNC44YzAsMTAuNywyMy00LjIsMzguMS0xOC40DQoJczM0LjktNDkuMiwzNi0zNWMxLDE0LjItMTUuMSwzOS4yLTI0LDU2LjRDNzkuMSwyNTEuNCw1MS43LDI2NSw1MS43LDI2NUwwLDI2NC45eiIvPg0KPHBhdGggZmlsbD0iIzc4OEY5RSIgZD0iTTEwMCwyNjVjMCwwLDY2LjctMTI1LjEsNjguMy0xMTYuOHMtNi44LDI5LjcsMi4xLDI2LjFjOC45LTMuNiwxNC42LTE2LDE4LjgtOS41czE2LjIsMzguNiwyMS45LDMzLjgNCgljNS43LTQuNywyMS40LTEzLjEsMjIuNC02LjVjMSw2LjUtMSw1LjMtNS43LDIwLjJDMjIzLjEsMjI3LjEsMjAwLDI2NSwyMDAsMjY1aC0xMGMwLDAsNi0yNC44LDguNi0zNC45YzIuNi0xMC4xLTMuNy0xOS0xMi04LjMNCglzLTIzLDIyLTI0LDE3LjhzLTUuNy0zMC4zLTE4LjgtMTQuMmMtMTMsMTYtMzMuOCwzOS43LTMzLjgsMzkuN2gtMTBWMjY1eiIvPg0KPHBhdGggZmlsbD0iIzc4OEY5RSIgZD0iTTI0NSwyNjVjMCwwLDE5LjgtNTQuNywzMy40LTY0LjJzNTMuNy0yNy45LDQ2LjktMTMuNmMtNi44LDE0LjItMTEsMzQuNC0yMC4zLDQ5LjgNCgljLTkuNCwxNS40LTE4LjgsMjYuMS0xNC4xLDEzLjZjNC43LTEyLjUsNi40LTIzLjMsMy43LTIzLjFDMjcxLjMsMjI5LjEsMjYwLDI2NSwyNjAsMjY1SDI0NXoiLz4NCjwvc3ZnPg0K");
+  background-position: 50% 50%;
+  margin: 60px auto;
+}
+
+.u-dialog-section-8 .u-container-layout-1 {
+  padding: 0 43px;
+}
+
+.u-dialog-section-8 .u-image-2 {
+  width: 199px;
+  height: 199px;
+  margin: -58px 128px 0 auto;
+}
+
+.u-dialog-section-8 .u-group-1 {
+  min-height: 538px;
+  height: auto;
+  background-image: none;
+  width: 445px;
+  margin: -71px 0 0 auto;
+}
+
+.u-dialog-section-8 .u-container-layout-2 {
+  padding: 0 23px;
+}
+
+.u-dialog-section-8 .u-text-1 {
+  font-weight: 700;
+  text-transform: none;
+  margin: 28px 0 0 13px;
+}
+
+.u-dialog-section-8 .u-text-2 {
+  margin: 22px auto 0 7px;
+}
+
+.u-dialog-section-8 .u-icon-1 {
+  width: 16px;
+  height: 16px;
+  left: auto;
+  top: 17px;
+  position: absolute;
+  right: 16px;
+}
+
+@media (max-width: 1199px) {
+  .u-dialog-section-8 .u-image-2 {
+    margin-right: 128px;
+  }
+
+  .u-dialog-section-8 .u-group-1 {
+    margin-top: -71px;
+    margin-right: 0;
+    height: auto;
+  }
+
+  .u-dialog-section-8 .u-text-1 {
+    margin-right: 0;
+    margin-left: 13px;
+  }
+
+  .u-dialog-section-8 .u-text-2 {
+    margin-left: 7px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-dialog-section-8 .u-image-1 {
+    margin-top: 318px;
+  }
+
+  .u-dialog-section-8 .u-container-layout-1 {
+    padding-left: 40px;
+    padding-right: 40px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-dialog-section-8 .u-image-1 {
+    width: 540px;
+    margin-top: 60px;
+  }
+
+  .u-dialog-section-8 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-dialog-section-8 .u-image-1 {
+    width: 340px;
+  }
+
+  .u-dialog-section-8 .u-container-layout-1 {
+    padding-left: 25px;
+    padding-right: 25px;
+  }
+
+  .u-dialog-section-8 .u-image-2 {
+    margin-right: 121px;
+  }
+
+  .u-dialog-section-8 .u-group-1 {
+    width: 320px;
+  }
+
+  .u-dialog-section-8 .u-text-1 {
+    margin-left: 0;
+  }
+}</style><section class="u-align-center u-black u-clearfix u-container-align-center u-container-style u-dialog-block u-opacity u-opacity-70 u-valign-middle u-dialog-section-9" id="sec-90f9">
+      <div class="u-align-left u-container-style u-dialog u-image u-image-1" data-image-width="2000" data-image-height="1333">
+        <div class="u-container-layout u-container-layout-1">
+          <div class="u-container-style u-expanded-width u-group u-white u-group-1">
+            <div class="u-container-layout u-container-layout-2">
+              <h3 class="u-align-center u-text u-text-1"> New River Electrical Corporation</h3>
+              <p class="u-align-center u-text u-text-default u-text-2"> Revenue $247.1 million<br>New River Electrical Corporation provides electric utility line construction services.
+              </p>
+            </div>
+          </div>
+          <img class="u-image u-image-default u-image-2" src="images/logo-corp.svg" alt="" data-image-width="398" data-image-height="92">
+        </div><button class="u-dialog-close-button u-icon u-text-grey-40 u-icon-1"><svg class="u-svg-link" preserveAspectRatio="xMidYMin slice" viewBox="0 0 409.806 409.806" style=""><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#svg-5da4"></use></svg><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" xml:space="preserve" class="u-svg-content" viewBox="0 0 409.806 409.806" x="0px" y="0px" id="svg-5da4" style="enable-background:new 0 0 409.806 409.806;"><g><g><path d="M228.929,205.01L404.596,29.343c6.78-6.548,6.968-17.352,0.42-24.132c-6.548-6.78-17.352-6.968-24.132-0.42    c-0.142,0.137-0.282,0.277-0.42,0.42L204.796,180.878L29.129,5.21c-6.78-6.548-17.584-6.36-24.132,0.42    c-6.388,6.614-6.388,17.099,0,23.713L180.664,205.01L4.997,380.677c-6.663,6.664-6.663,17.468,0,24.132    c6.664,6.662,17.468,6.662,24.132,0l175.667-175.667l175.667,175.667c6.78,6.548,17.584,6.36,24.132-0.42    c6.387-6.614,6.387-17.099,0-23.712L228.929,205.01z"></path>
+</g>
+</g></svg></button>
+      </div>
+    </section><style>.u-dialog-section-9 .u-image-1 {
+  width: 545px;
+  min-height: 445px;
+  height: auto;
+  box-shadow: 0 0 14px 0 rgba(0,0,0,0.3);
+  background-image: url("data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiIGlkPSJkZWZhdWx0LWltYWdlLXNvbGlkIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHg9IjBweCIgeT0iMHB4IiB2aWV3Qm94PSIwIDAgNDAwIDI2NSIgc3R5bGU9IndpZHRoOiA0MDBweDsgaGVpZ2h0OiAyNjVweDsiPg0KPHJlY3QgZmlsbD0iI0M2RDhFMSIgd2lkdGg9IjQwMCIgaGVpZ2h0PSIyNjUiLz4NCjxwYXRoIGZpbGw9IiNEOUUzRTgiIGQ9Ik0zOTUuMyw5Ni4yYy01LTAuOC02LjEsMS4xLTguNSwyLjljLTEtMi4zLTIuNi02LjItNy43LTVjMS41LTUuMy0yLjYtOC40LTcuNy04LjRjLTAuNiwwLTEuMiwwLjEtMS44LDAuMg0KCWMtMS44LTQuMS02LTYuOS0xMC43LTYuOWMtNi41LDAtMTEuOCw1LjMtMTEuOCwxMS44YzAsMC40LDAsMC45LDAuMSwxLjNjLTEuMi0wLjgtMi41LTEuMy0zLjktMS4zYy00LjMsMC03LjksNC4yLTcuOSw5LjQNCgljMCwxLjIsMC4yLDIuNCwwLjYsMy41Yy0wLjUtMC4xLTEtMC4xLTEuNi0wLjFjLTYuOSwwLTEyLjUsNS41LTEyLjcsMTIuNGMtMC45LTAuMi0xLjktMC40LTIuOS0wLjRjLTYuNCwwLTExLjcsNS4yLTEyLjUsMTEuOA0KCWMtMS4yLTAuNC0yLjUtMC42LTMuOS0wLjZjLTUuOSwwLTEwLjgsMy44LTEyLjEsOC45Yy0yLjQtMi01LjUtMy4yLTguOS0zLjJjLTYsMC0xMS4xLDMuNy0xMi44LDguOGMtMS41LTEuNC0zLjgtMi4zLTYuMy0yLjMNCgljLTIuMSwwLTQuMSwwLjYtNS41LDEuN2gtMC4xYy0xLjMtNS41LTYuMi05LjUtMTIuMS05LjVjLTIuNCwwLTQuNywwLjctNi42LDEuOWMtMS40LTAuNy0zLTEuMi00LjgtMS4yYy0wLjMsMC0wLjUsMC0wLjgsMA0KCWMtMS41LTQuMS01LjItNy05LjUtN2MtMy4xLDAtNS45LDEuNS03LjgsMy45Yy0yLjItNC44LTYuOC04LjItMTIuMi04LjJjLTUuNiwwLTEwLjUsMy43LTEyLjUsOC44Yy0yLjEtMC45LTQuNC0xLjUtNi45LTEuNQ0KCWMtNi44LDAtMTIuNSwzLjktMTQuNSw5LjNjLTAuMiwwLTAuNSwwLTAuNywwYy01LjIsMC05LjYsMy4yLTExLjQsNy44Yy0yLjctMi44LTctNC41LTExLjgtNC41Yy0zLjMsMC02LjQsMC45LTguOSwyLjMNCgljLTIuMS02LjUtOC0xMi4yLTE4LjEtOS45Yy0yLjctMi4zLTYuMy0zLjctMTAuMS0zLjdjLTIuNSwwLTQuOCwwLjYtNi45LDEuNmMtMi4yLTUuOS03LjktMTAuMS0xNC42LTEwLjFjLTguNiwwLTE1LjYsNy0xNS42LDE1LjYNCgljMCwwLjksMC4xLDEuNywwLjIsMi41Yy0yLjYtNS03LjgtOC40LTEzLjgtOC40Yy04LjMsMC0xNS4xLDYuNS0xNS42LDE0LjZjLTIuOS0zLjItNy01LjMtMTEuNy01LjNjLTcuNCwwLTEzLjUsNS4xLTE1LjIsMTINCgljLTIuOS0zLjUtOS44LTYtMTQuNy02djExOS4yaDQwMFYxMDJDNDAwLDEwMiw0MDAsOTcsMzk1LjMsOTYuMnoiLz4NCjxwYXRoIGZpbGw9IiM4RUE4QkIiIGQ9Ik00MDAsMjA2LjJjMCwwLTI1LjMtMTkuMi0zMy42LTI1LjdjLTEzLjQtMTAuNi0yMy4xLTEyLjktMzEuNy03cy0yMy45LDE5LjctMjMuOSwxOS43cy01OC45LTYzLjktNjEuNS02Ni40DQoJYy0xLjUtMS40LTMuNi0xLjctNS41LTAuOWMtNS4yLDIuNC0xNy42LDkuNy0yNC41LDEyLjdjLTYuOSwyLjktNDEtNTAuNy00OS42LTUzcy04NC4zLDgzLjMtMTAxLjQsNzUuMXMtMjYuOS0yLjMtMzUuNCwzLjUNCgljLTguNiw1LjktMTEsNS45LTE1LjksOC4ycy0xNy4xLTUuOS0xNy4xLTUuOVYyNjVjMCwwLDQwMCwwLjIsNDAwLDB2LTU4LjhINDAweiIvPg0KPHBhdGggZmlsbD0iIzdFOTZBNiIgZD0iTTMzMy40LDE3OWMtMTMuMS05LjMtNDAsNC42LTU1LjEsMTAuN2MtMjMuNiw5LjYtOTQtNTQuNC0xMDcuMi01OS43YzAsMC00LjIsMy43LTkuNiw3LjYNCgljLTMuNS0wLjQtOC40LTUuNy05LjktNC43Yy00LjYsMy4xLTE3LjgsMTUuNC0yOC4zLDI2LjZjLTEwLjUsMTEuMy0xMS43LDAtMTUuOC0wLjZjLTIuNS0wLjQtNTQuMSw0Mi41LTU4LjcsNDMuMQ0KCUMyMi4zLDIwNS4zLDAsMTk3LjUsMCwxOTcuNVYyNjVsNDAwLTAuMXYtNTMuM0M0MDAsMjExLjYsMzQ0LjgsMTg3LjEsMzMzLjQsMTc5eiIvPg0KPHBhdGggZmlsbD0iIzc4OEY5RSIgZD0iTTAsMjY0Ljl2LTU4LjZjMCwwLDguMiwxLjgsMTEuMyw1LjNjMy4xLDMuNiwyNi4xLTQuMiwyNi4xLDQuN3MwLjUsNC4yLDAuNSwxNC44YzAsMTAuNywyMy00LjIsMzguMS0xOC40DQoJczM0LjktNDkuMiwzNi0zNWMxLDE0LjItMTUuMSwzOS4yLTI0LDU2LjRDNzkuMSwyNTEuNCw1MS43LDI2NSw1MS43LDI2NUwwLDI2NC45eiIvPg0KPHBhdGggZmlsbD0iIzc4OEY5RSIgZD0iTTEwMCwyNjVjMCwwLDY2LjctMTI1LjEsNjguMy0xMTYuOHMtNi44LDI5LjcsMi4xLDI2LjFjOC45LTMuNiwxNC42LTE2LDE4LjgtOS41czE2LjIsMzguNiwyMS45LDMzLjgNCgljNS43LTQuNywyMS40LTEzLjEsMjIuNC02LjVjMSw2LjUtMSw1LjMtNS43LDIwLjJDMjIzLjEsMjI3LjEsMjAwLDI2NSwyMDAsMjY1aC0xMGMwLDAsNi0yNC44LDguNi0zNC45YzIuNi0xMC4xLTMuNy0xOS0xMi04LjMNCglzLTIzLDIyLTI0LDE3LjhzLTUuNy0zMC4zLTE4LjgtMTQuMmMtMTMsMTYtMzMuOCwzOS43LTMzLjgsMzkuN2gtMTBWMjY1eiIvPg0KPHBhdGggZmlsbD0iIzc4OEY5RSIgZD0iTTI0NSwyNjVjMCwwLDE5LjgtNTQuNywzMy40LTY0LjJzNTMuNy0yNy45LDQ2LjktMTMuNmMtNi44LDE0LjItMTEsMzQuNC0yMC4zLDQ5LjgNCgljLTkuNCwxNS40LTE4LjgsMjYuMS0xNC4xLDEzLjZjNC43LTEyLjUsNi40LTIzLjMsMy43LTIzLjFDMjcxLjMsMjI5LjEsMjYwLDI2NSwyNjAsMjY1SDI0NXoiLz4NCjwvc3ZnPg0K");
+  background-position: 50% 50%;
+  margin: 60px auto;
+}
+
+.u-dialog-section-9 .u-container-layout-1 {
+  padding: 10px 50px;
+}
+
+.u-dialog-section-9 .u-group-1 {
+  min-height: 263px;
+  height: auto;
+  background-image: none;
+  margin: 40px -100px 0 auto;
+}
+
+.u-dialog-section-9 .u-container-layout-2 {
+  padding: 0 30px;
+}
+
+.u-dialog-section-9 .u-text-1 {
+  font-weight: 700;
+  text-transform: none;
+  margin: 41px 0 0;
+}
+
+.u-dialog-section-9 .u-text-2 {
+  margin: 20px auto 0 0;
+}
+
+.u-dialog-section-9 .u-image-2 {
+  width: 223px;
+  height: 51px;
+  margin: -294px auto 0 111px;
+}
+
+.u-dialog-section-9 .u-icon-1 {
+  width: 16px;
+  height: 16px;
+  left: auto;
+  top: 17px;
+  position: absolute;
+  right: 16px;
+}
+
+@media (max-width: 1199px) {
+  .u-dialog-section-9 .u-group-1 {
+    margin-right: initial;
+    margin-left: initial;
+    height: auto;
+  }
+
+  .u-dialog-section-9 .u-image-2 {
+    margin-top: -294px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-dialog-section-9 .u-image-1 {
+    margin-top: 318px;
+  }
+
+  .u-dialog-section-9 .u-container-layout-1 {
+    padding-left: 40px;
+    padding-right: 40px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-dialog-section-9 .u-image-1 {
+    width: 540px;
+    margin-top: 60px;
+  }
+
+  .u-dialog-section-9 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-dialog-section-9 .u-image-1 {
+    width: 340px;
+  }
+
+  .u-dialog-section-9 .u-container-layout-1 {
+    padding-left: 25px;
+    padding-right: 25px;
+  }
+
+  .u-dialog-section-9 .u-image-2 {
+    margin-left: 97px;
+  }
+}</style><section class="u-align-center u-black u-clearfix u-container-align-center u-container-style u-dialog-block u-opacity u-opacity-70 u-valign-middle u-dialog-section-10" id="sec-57ef">
+      <div class="u-align-left u-container-align-left u-container-style u-dialog u-image u-image-1" data-image-width="2000" data-image-height="1333">
+        <div class="u-container-layout u-container-layout-1">
+          <div class="u-container-style u-expanded-width u-group u-white u-group-1">
+            <div class="u-container-layout u-container-layout-2">
+              <img class="u-image u-image-contain u-image-default u-image-2" src="images/cropped-CelPlan-Logo-8-black-2-Connectivity-768x237.png" alt="" data-image-width="768" data-image-height="237">
+              <h3 class="u-align-center u-text u-text-1"> CelPlan Technologies, Inc.</h3>
+              <p class="u-align-center u-text u-text-default u-text-2">Revenue $51.8 million<br>CelPlan âis a leading provider of radio frequency (RF) planning &amp; optimization tools, value added consulting, engineering and training services to the wireless industry.
+              </p>
+            </div>
+          </div>
+        </div><button class="u-dialog-close-button u-icon u-text-grey-40 u-icon-1"><svg class="u-svg-link" preserveAspectRatio="xMidYMin slice" viewBox="0 0 409.806 409.806" style=""><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#svg-5da4"></use></svg><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" xml:space="preserve" class="u-svg-content" viewBox="0 0 409.806 409.806" x="0px" y="0px" id="svg-5da4" style="enable-background:new 0 0 409.806 409.806;"><g><g><path d="M228.929,205.01L404.596,29.343c6.78-6.548,6.968-17.352,0.42-24.132c-6.548-6.78-17.352-6.968-24.132-0.42    c-0.142,0.137-0.282,0.277-0.42,0.42L204.796,180.878L29.129,5.21c-6.78-6.548-17.584-6.36-24.132,0.42    c-6.388,6.614-6.388,17.099,0,23.713L180.664,205.01L4.997,380.677c-6.663,6.664-6.663,17.468,0,24.132    c6.664,6.662,17.468,6.662,24.132,0l175.667-175.667l175.667,175.667c6.78,6.548,17.584,6.36,24.132-0.42    c6.387-6.614,6.387-17.099,0-23.712L228.929,205.01z"></path>
+</g>
+</g></svg></button>
+      </div>
+    </section><style>.u-dialog-section-10 .u-image-1 {
+  width: 545px;
+  min-height: 520px;
+  height: auto;
+  box-shadow: 0 0 14px 0 rgba(0,0,0,0.3);
+  background-image: url("data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiIGlkPSJkZWZhdWx0LWltYWdlLXNvbGlkIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHg9IjBweCIgeT0iMHB4IiB2aWV3Qm94PSIwIDAgNDAwIDI2NSIgc3R5bGU9IndpZHRoOiA0MDBweDsgaGVpZ2h0OiAyNjVweDsiPg0KPHJlY3QgZmlsbD0iI0M2RDhFMSIgd2lkdGg9IjQwMCIgaGVpZ2h0PSIyNjUiLz4NCjxwYXRoIGZpbGw9IiNEOUUzRTgiIGQ9Ik0zOTUuMyw5Ni4yYy01LTAuOC02LjEsMS4xLTguNSwyLjljLTEtMi4zLTIuNi02LjItNy43LTVjMS41LTUuMy0yLjYtOC40LTcuNy04LjRjLTAuNiwwLTEuMiwwLjEtMS44LDAuMg0KCWMtMS44LTQuMS02LTYuOS0xMC43LTYuOWMtNi41LDAtMTEuOCw1LjMtMTEuOCwxMS44YzAsMC40LDAsMC45LDAuMSwxLjNjLTEuMi0wLjgtMi41LTEuMy0zLjktMS4zYy00LjMsMC03LjksNC4yLTcuOSw5LjQNCgljMCwxLjIsMC4yLDIuNCwwLjYsMy41Yy0wLjUtMC4xLTEtMC4xLTEuNi0wLjFjLTYuOSwwLTEyLjUsNS41LTEyLjcsMTIuNGMtMC45LTAuMi0xLjktMC40LTIuOS0wLjRjLTYuNCwwLTExLjcsNS4yLTEyLjUsMTEuOA0KCWMtMS4yLTAuNC0yLjUtMC42LTMuOS0wLjZjLTUuOSwwLTEwLjgsMy44LTEyLjEsOC45Yy0yLjQtMi01LjUtMy4yLTguOS0zLjJjLTYsMC0xMS4xLDMuNy0xMi44LDguOGMtMS41LTEuNC0zLjgtMi4zLTYuMy0yLjMNCgljLTIuMSwwLTQuMSwwLjYtNS41LDEuN2gtMC4xYy0xLjMtNS41LTYuMi05LjUtMTIuMS05LjVjLTIuNCwwLTQuNywwLjctNi42LDEuOWMtMS40LTAuNy0zLTEuMi00LjgtMS4yYy0wLjMsMC0wLjUsMC0wLjgsMA0KCWMtMS41LTQuMS01LjItNy05LjUtN2MtMy4xLDAtNS45LDEuNS03LjgsMy45Yy0yLjItNC44LTYuOC04LjItMTIuMi04LjJjLTUuNiwwLTEwLjUsMy43LTEyLjUsOC44Yy0yLjEtMC45LTQuNC0xLjUtNi45LTEuNQ0KCWMtNi44LDAtMTIuNSwzLjktMTQuNSw5LjNjLTAuMiwwLTAuNSwwLTAuNywwYy01LjIsMC05LjYsMy4yLTExLjQsNy44Yy0yLjctMi44LTctNC41LTExLjgtNC41Yy0zLjMsMC02LjQsMC45LTguOSwyLjMNCgljLTIuMS02LjUtOC0xMi4yLTE4LjEtOS45Yy0yLjctMi4zLTYuMy0zLjctMTAuMS0zLjdjLTIuNSwwLTQuOCwwLjYtNi45LDEuNmMtMi4yLTUuOS03LjktMTAuMS0xNC42LTEwLjFjLTguNiwwLTE1LjYsNy0xNS42LDE1LjYNCgljMCwwLjksMC4xLDEuNywwLjIsMi41Yy0yLjYtNS03LjgtOC40LTEzLjgtOC40Yy04LjMsMC0xNS4xLDYuNS0xNS42LDE0LjZjLTIuOS0zLjItNy01LjMtMTEuNy01LjNjLTcuNCwwLTEzLjUsNS4xLTE1LjIsMTINCgljLTIuOS0zLjUtOS44LTYtMTQuNy02djExOS4yaDQwMFYxMDJDNDAwLDEwMiw0MDAsOTcsMzk1LjMsOTYuMnoiLz4NCjxwYXRoIGZpbGw9IiM4RUE4QkIiIGQ9Ik00MDAsMjA2LjJjMCwwLTI1LjMtMTkuMi0zMy42LTI1LjdjLTEzLjQtMTAuNi0yMy4xLTEyLjktMzEuNy03cy0yMy45LDE5LjctMjMuOSwxOS43cy01OC45LTYzLjktNjEuNS02Ni40DQoJYy0xLjUtMS40LTMuNi0xLjctNS41LTAuOWMtNS4yLDIuNC0xNy42LDkuNy0yNC41LDEyLjdjLTYuOSwyLjktNDEtNTAuNy00OS42LTUzcy04NC4zLDgzLjMtMTAxLjQsNzUuMXMtMjYuOS0yLjMtMzUuNCwzLjUNCgljLTguNiw1LjktMTEsNS45LTE1LjksOC4ycy0xNy4xLTUuOS0xNy4xLTUuOVYyNjVjMCwwLDQwMCwwLjIsNDAwLDB2LTU4LjhINDAweiIvPg0KPHBhdGggZmlsbD0iIzdFOTZBNiIgZD0iTTMzMy40LDE3OWMtMTMuMS05LjMtNDAsNC42LTU1LjEsMTAuN2MtMjMuNiw5LjYtOTQtNTQuNC0xMDcuMi01OS43YzAsMC00LjIsMy43LTkuNiw3LjYNCgljLTMuNS0wLjQtOC40LTUuNy05LjktNC43Yy00LjYsMy4xLTE3LjgsMTUuNC0yOC4zLDI2LjZjLTEwLjUsMTEuMy0xMS43LDAtMTUuOC0wLjZjLTIuNS0wLjQtNTQuMSw0Mi41LTU4LjcsNDMuMQ0KCUMyMi4zLDIwNS4zLDAsMTk3LjUsMCwxOTcuNVYyNjVsNDAwLTAuMXYtNTMuM0M0MDAsMjExLjYsMzQ0LjgsMTg3LjEsMzMzLjQsMTc5eiIvPg0KPHBhdGggZmlsbD0iIzc4OEY5RSIgZD0iTTAsMjY0Ljl2LTU4LjZjMCwwLDguMiwxLjgsMTEuMyw1LjNjMy4xLDMuNiwyNi4xLTQuMiwyNi4xLDQuN3MwLjUsNC4yLDAuNSwxNC44YzAsMTAuNywyMy00LjIsMzguMS0xOC40DQoJczM0LjktNDkuMiwzNi0zNWMxLDE0LjItMTUuMSwzOS4yLTI0LDU2LjRDNzkuMSwyNTEuNCw1MS43LDI2NSw1MS43LDI2NUwwLDI2NC45eiIvPg0KPHBhdGggZmlsbD0iIzc4OEY5RSIgZD0iTTEwMCwyNjVjMCwwLDY2LjctMTI1LjEsNjguMy0xMTYuOHMtNi44LDI5LjcsMi4xLDI2LjFjOC45LTMuNiwxNC42LTE2LDE4LjgtOS41czE2LjIsMzguNiwyMS45LDMzLjgNCgljNS43LTQuNywyMS40LTEzLjEsMjIuNC02LjVjMSw2LjUtMSw1LjMtNS43LDIwLjJDMjIzLjEsMjI3LjEsMjAwLDI2NSwyMDAsMjY1aC0xMGMwLDAsNi0yNC44LDguNi0zNC45YzIuNi0xMC4xLTMuNy0xOS0xMi04LjMNCglzLTIzLDIyLTI0LDE3LjhzLTUuNy0zMC4zLTE4LjgtMTQuMmMtMTMsMTYtMzMuOCwzOS43LTMzLjgsMzkuN2gtMTBWMjY1eiIvPg0KPHBhdGggZmlsbD0iIzc4OEY5RSIgZD0iTTI0NSwyNjVjMCwwLDE5LjgtNTQuNywzMy40LTY0LjJzNTMuNy0yNy45LDQ2LjktMTMuNmMtNi44LDE0LjItMTEsMzQuNC0yMC4zLDQ5LjgNCgljLTkuNCwxNS40LTE4LjgsMjYuMS0xNC4xLDEzLjZjNC43LTEyLjUsNi40LTIzLjMsMy43LTIzLjFDMjcxLjMsMjI5LjEsMjYwLDI2NSwyNjAsMjY1SDI0NXoiLz4NCjwvc3ZnPg0K");
+  background-position: 50% 50%;
+  margin: 60px auto;
+}
+
+.u-dialog-section-10 .u-container-layout-1 {
+  padding: 50px;
+}
+
+.u-dialog-section-10 .u-group-1 {
+  background-image: none;
+}
+
+.u-dialog-section-10 .u-container-layout-2 {
+  padding: 0 30px;
+}
+
+.u-dialog-section-10 .u-image-2 {
+  width: 223px;
+  height: 69px;
+  margin: -40px auto 0 70px;
+}
+
+.u-dialog-section-10 .u-text-1 {
+  font-weight: 700;
+  text-transform: none;
+}
+
+.u-dialog-section-10 .u-text-2 {
+  margin: 20px auto 0 0;
+}
+
+.u-dialog-section-10 .u-icon-1 {
+  width: 16px;
+  height: 16px;
+  left: auto;
+  top: 17px;
+  position: absolute;
+  right: 16px;
+}
+
+@media (max-width: 1199px) {
+  .u-dialog-section-10 .u-group-1 {
+    min-height: 321px;
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+
+  .u-dialog-section-10 .u-text-1 {
+    margin: 11px 0 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-dialog-section-10 .u-image-1 {
+    margin-top: 318px;
+  }
+
+  .u-dialog-section-10 .u-container-layout-1 {
+    padding: 30px 40px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-dialog-section-10 .u-image-1 {
+    width: 540px;
+    margin-top: 60px;
+  }
+
+  .u-dialog-section-10 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-dialog-section-10 .u-image-1 {
+    width: 340px;
+  }
+
+  .u-dialog-section-10 .u-container-layout-1 {
+    padding-left: 25px;
+    padding-right: 25px;
+  }
+}</style><section class="u-align-center u-black u-clearfix u-container-align-center u-container-style u-dialog-block u-opacity u-opacity-70 u-valign-middle u-dialog-section-11" id="sec-d104">
+      <div class="u-align-left u-container-align-left u-container-style u-dialog u-image u-image-1" data-image-width="2000" data-image-height="1333">
+        <div class="u-container-layout u-container-layout-1">
+          <div class="u-container-style u-expanded-width u-group u-white u-group-1">
+            <div class="u-container-layout u-container-layout-2">
+              <img class="u-image u-image-contain u-image-default u-image-2" src="images/curvcLogo.png" alt="" data-image-width="1184" data-image-height="418">
+              <h3 class="u-align-center u-text u-text-1"> Curvc</h3>
+              <p class="u-align-center u-text u-text-default u-text-2"> Revenue $6.5 Million<br>Curvc helps companies need to improve productivity in software development.
+              </p>
+            </div>
+          </div>
+        </div><button class="u-dialog-close-button u-icon u-text-grey-40 u-icon-1"><svg class="u-svg-link" preserveAspectRatio="xMidYMin slice" viewBox="0 0 409.806 409.806" style=""><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#svg-5da4"></use></svg><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" xml:space="preserve" class="u-svg-content" viewBox="0 0 409.806 409.806" x="0px" y="0px" id="svg-5da4" style="enable-background:new 0 0 409.806 409.806;"><g><g><path d="M228.929,205.01L404.596,29.343c6.78-6.548,6.968-17.352,0.42-24.132c-6.548-6.78-17.352-6.968-24.132-0.42    c-0.142,0.137-0.282,0.277-0.42,0.42L204.796,180.878L29.129,5.21c-6.78-6.548-17.584-6.36-24.132,0.42    c-6.388,6.614-6.388,17.099,0,23.713L180.664,205.01L4.997,380.677c-6.663,6.664-6.663,17.468,0,24.132    c6.664,6.662,17.468,6.662,24.132,0l175.667-175.667l175.667,175.667c6.78,6.548,17.584,6.36,24.132-0.42    c6.387-6.614,6.387-17.099,0-23.712L228.929,205.01z"></path>
+</g>
+</g></svg></button>
+      </div>
+    </section><style>.u-dialog-section-11 .u-image-1 {
+  width: 545px;
+  min-height: 471px;
+  height: auto;
+  box-shadow: 0 0 14px 0 rgba(0,0,0,0.3);
+  background-image: url("data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiIGlkPSJkZWZhdWx0LWltYWdlLXNvbGlkIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHg9IjBweCIgeT0iMHB4IiB2aWV3Qm94PSIwIDAgNDAwIDI2NSIgc3R5bGU9IndpZHRoOiA0MDBweDsgaGVpZ2h0OiAyNjVweDsiPg0KPHJlY3QgZmlsbD0iI0M2RDhFMSIgd2lkdGg9IjQwMCIgaGVpZ2h0PSIyNjUiLz4NCjxwYXRoIGZpbGw9IiNEOUUzRTgiIGQ9Ik0zOTUuMyw5Ni4yYy01LTAuOC02LjEsMS4xLTguNSwyLjljLTEtMi4zLTIuNi02LjItNy43LTVjMS41LTUuMy0yLjYtOC40LTcuNy04LjRjLTAuNiwwLTEuMiwwLjEtMS44LDAuMg0KCWMtMS44LTQuMS02LTYuOS0xMC43LTYuOWMtNi41LDAtMTEuOCw1LjMtMTEuOCwxMS44YzAsMC40LDAsMC45LDAuMSwxLjNjLTEuMi0wLjgtMi41LTEuMy0zLjktMS4zYy00LjMsMC03LjksNC4yLTcuOSw5LjQNCgljMCwxLjIsMC4yLDIuNCwwLjYsMy41Yy0wLjUtMC4xLTEtMC4xLTEuNi0wLjFjLTYuOSwwLTEyLjUsNS41LTEyLjcsMTIuNGMtMC45LTAuMi0xLjktMC40LTIuOS0wLjRjLTYuNCwwLTExLjcsNS4yLTEyLjUsMTEuOA0KCWMtMS4yLTAuNC0yLjUtMC42LTMuOS0wLjZjLTUuOSwwLTEwLjgsMy44LTEyLjEsOC45Yy0yLjQtMi01LjUtMy4yLTguOS0zLjJjLTYsMC0xMS4xLDMuNy0xMi44LDguOGMtMS41LTEuNC0zLjgtMi4zLTYuMy0yLjMNCgljLTIuMSwwLTQuMSwwLjYtNS41LDEuN2gtMC4xYy0xLjMtNS41LTYuMi05LjUtMTIuMS05LjVjLTIuNCwwLTQuNywwLjctNi42LDEuOWMtMS40LTAuNy0zLTEuMi00LjgtMS4yYy0wLjMsMC0wLjUsMC0wLjgsMA0KCWMtMS41LTQuMS01LjItNy05LjUtN2MtMy4xLDAtNS45LDEuNS03LjgsMy45Yy0yLjItNC44LTYuOC04LjItMTIuMi04LjJjLTUuNiwwLTEwLjUsMy43LTEyLjUsOC44Yy0yLjEtMC45LTQuNC0xLjUtNi45LTEuNQ0KCWMtNi44LDAtMTIuNSwzLjktMTQuNSw5LjNjLTAuMiwwLTAuNSwwLTAuNywwYy01LjIsMC05LjYsMy4yLTExLjQsNy44Yy0yLjctMi44LTctNC41LTExLjgtNC41Yy0zLjMsMC02LjQsMC45LTguOSwyLjMNCgljLTIuMS02LjUtOC0xMi4yLTE4LjEtOS45Yy0yLjctMi4zLTYuMy0zLjctMTAuMS0zLjdjLTIuNSwwLTQuOCwwLjYtNi45LDEuNmMtMi4yLTUuOS03LjktMTAuMS0xNC42LTEwLjFjLTguNiwwLTE1LjYsNy0xNS42LDE1LjYNCgljMCwwLjksMC4xLDEuNywwLjIsMi41Yy0yLjYtNS03LjgtOC40LTEzLjgtOC40Yy04LjMsMC0xNS4xLDYuNS0xNS42LDE0LjZjLTIuOS0zLjItNy01LjMtMTEuNy01LjNjLTcuNCwwLTEzLjUsNS4xLTE1LjIsMTINCgljLTIuOS0zLjUtOS44LTYtMTQuNy02djExOS4yaDQwMFYxMDJDNDAwLDEwMiw0MDAsOTcsMzk1LjMsOTYuMnoiLz4NCjxwYXRoIGZpbGw9IiM4RUE4QkIiIGQ9Ik00MDAsMjA2LjJjMCwwLTI1LjMtMTkuMi0zMy42LTI1LjdjLTEzLjQtMTAuNi0yMy4xLTEyLjktMzEuNy03cy0yMy45LDE5LjctMjMuOSwxOS43cy01OC45LTYzLjktNjEuNS02Ni40DQoJYy0xLjUtMS40LTMuNi0xLjctNS41LTAuOWMtNS4yLDIuNC0xNy42LDkuNy0yNC41LDEyLjdjLTYuOSwyLjktNDEtNTAuNy00OS42LTUzcy04NC4zLDgzLjMtMTAxLjQsNzUuMXMtMjYuOS0yLjMtMzUuNCwzLjUNCgljLTguNiw1LjktMTEsNS45LTE1LjksOC4ycy0xNy4xLTUuOS0xNy4xLTUuOVYyNjVjMCwwLDQwMCwwLjIsNDAwLDB2LTU4LjhINDAweiIvPg0KPHBhdGggZmlsbD0iIzdFOTZBNiIgZD0iTTMzMy40LDE3OWMtMTMuMS05LjMtNDAsNC42LTU1LjEsMTAuN2MtMjMuNiw5LjYtOTQtNTQuNC0xMDcuMi01OS43YzAsMC00LjIsMy43LTkuNiw3LjYNCgljLTMuNS0wLjQtOC40LTUuNy05LjktNC43Yy00LjYsMy4xLTE3LjgsMTUuNC0yOC4zLDI2LjZjLTEwLjUsMTEuMy0xMS43LDAtMTUuOC0wLjZjLTIuNS0wLjQtNTQuMSw0Mi41LTU4LjcsNDMuMQ0KCUMyMi4zLDIwNS4zLDAsMTk3LjUsMCwxOTcuNVYyNjVsNDAwLTAuMXYtNTMuM0M0MDAsMjExLjYsMzQ0LjgsMTg3LjEsMzMzLjQsMTc5eiIvPg0KPHBhdGggZmlsbD0iIzc4OEY5RSIgZD0iTTAsMjY0Ljl2LTU4LjZjMCwwLDguMiwxLjgsMTEuMyw1LjNjMy4xLDMuNiwyNi4xLTQuMiwyNi4xLDQuN3MwLjUsNC4yLDAuNSwxNC44YzAsMTAuNywyMy00LjIsMzguMS0xOC40DQoJczM0LjktNDkuMiwzNi0zNWMxLDE0LjItMTUuMSwzOS4yLTI0LDU2LjRDNzkuMSwyNTEuNCw1MS43LDI2NSw1MS43LDI2NUwwLDI2NC45eiIvPg0KPHBhdGggZmlsbD0iIzc4OEY5RSIgZD0iTTEwMCwyNjVjMCwwLDY2LjctMTI1LjEsNjguMy0xMTYuOHMtNi44LDI5LjcsMi4xLDI2LjFjOC45LTMuNiwxNC42LTE2LDE4LjgtOS41czE2LjIsMzguNiwyMS45LDMzLjgNCgljNS43LTQuNywyMS40LTEzLjEsMjIuNC02LjVjMSw2LjUtMSw1LjMtNS43LDIwLjJDMjIzLjEsMjI3LjEsMjAwLDI2NSwyMDAsMjY1aC0xMGMwLDAsNi0yNC44LDguNi0zNC45YzIuNi0xMC4xLTMuNy0xOS0xMi04LjMNCglzLTIzLDIyLTI0LDE3LjhzLTUuNy0zMC4zLTE4LjgtMTQuMmMtMTMsMTYtMzMuOCwzOS43LTMzLjgsMzkuN2gtMTBWMjY1eiIvPg0KPHBhdGggZmlsbD0iIzc4OEY5RSIgZD0iTTI0NSwyNjVjMCwwLDE5LjgtNTQuNywzMy40LTY0LjJzNTMuNy0yNy45LDQ2LjktMTMuNmMtNi44LDE0LjItMTEsMzQuNC0yMC4zLDQ5LjgNCgljLTkuNCwxNS40LTE4LjgsMjYuMS0xNC4xLDEzLjZjNC43LTEyLjUsNi40LTIzLjMsMy43LTIzLjFDMjcxLjMsMjI5LjEsMjYwLDI2NSwyNjAsMjY1SDI0NXoiLz4NCjwvc3ZnPg0K");
+  background-position: 50% 50%;
+  margin: 60px auto;
+}
+
+.u-dialog-section-11 .u-container-layout-1 {
+  padding: 50px;
+}
+
+.u-dialog-section-11 .u-group-1 {
+  background-image: none;
+}
+
+.u-dialog-section-11 .u-container-layout-2 {
+  padding: 0 30px;
+}
+
+.u-dialog-section-11 .u-image-2 {
+  width: 223px;
+  height: 79px;
+  margin: -59px auto 0 60px;
+}
+
+.u-dialog-section-11 .u-text-1 {
+  font-weight: 700;
+  text-transform: none;
+}
+
+.u-dialog-section-11 .u-text-2 {
+  margin: 20px auto 0 0;
+}
+
+.u-dialog-section-11 .u-icon-1 {
+  width: 16px;
+  height: 16px;
+  left: auto;
+  top: 17px;
+  position: absolute;
+  right: 16px;
+}
+
+@media (max-width: 1199px) {
+  .u-dialog-section-11 .u-group-1 {
+    min-height: 262px;
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+
+  .u-dialog-section-11 .u-text-1 {
+    margin: 20px 0 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-dialog-section-11 .u-image-1 {
+    margin-top: 318px;
+  }
+
+  .u-dialog-section-11 .u-container-layout-1 {
+    padding: 30px 40px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-dialog-section-11 .u-image-1 {
+    width: 540px;
+    margin-top: 60px;
+  }
+
+  .u-dialog-section-11 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-dialog-section-11 .u-image-1 {
+    width: 340px;
+  }
+
+  .u-dialog-section-11 .u-container-layout-1 {
+    padding-left: 25px;
+    padding-right: 25px;
+  }
+}</style><section class="u-align-center u-black u-clearfix u-container-align-center u-container-style u-dialog-block u-opacity u-opacity-70 u-valign-middle u-dialog-section-13" id="sec-ca1b">
+      <div class="u-align-left u-container-style u-dialog u-image u-image-1" data-image-width="2000" data-image-height="1333">
+        <div class="u-container-layout u-container-layout-1">
+          <img class="u-image u-image-default u-preserve-proportions u-image-2" src="images/Document.jpg" alt="" data-image-width="537" data-image-height="537">
+          <div class="u-container-style u-expanded-width u-group u-white u-group-1">
+            <div class="u-container-layout u-container-layout-2">
+              <h3 class="u-align-center u-text u-text-1"> City of Pensacola</h3>
+              <p class="u-align-center u-text u-text-default u-text-2"> Revenue$89.9 Million<br>The City of Pensacola serves to administer and enforce city ordinances, direct city employees providing services to citizens<br>
+              </p>
+            </div>
+          </div>
+        </div><button class="u-dialog-close-button u-icon u-text-grey-40 u-icon-1"><svg class="u-svg-link" preserveAspectRatio="xMidYMin slice" viewBox="0 0 409.806 409.806" style=""><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#svg-5da4"></use></svg><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" xml:space="preserve" class="u-svg-content" viewBox="0 0 409.806 409.806" x="0px" y="0px" id="svg-5da4" style="enable-background:new 0 0 409.806 409.806;"><g><g><path d="M228.929,205.01L404.596,29.343c6.78-6.548,6.968-17.352,0.42-24.132c-6.548-6.78-17.352-6.968-24.132-0.42    c-0.142,0.137-0.282,0.277-0.42,0.42L204.796,180.878L29.129,5.21c-6.78-6.548-17.584-6.36-24.132,0.42    c-6.388,6.614-6.388,17.099,0,23.713L180.664,205.01L4.997,380.677c-6.663,6.664-6.663,17.468,0,24.132    c6.664,6.662,17.468,6.662,24.132,0l175.667-175.667l175.667,175.667c6.78,6.548,17.584,6.36,24.132-0.42    c6.387-6.614,6.387-17.099,0-23.712L228.929,205.01z"></path>
+</g>
+</g></svg></button>
+      </div>
+    </section><style>.u-dialog-section-13 .u-image-1 {
+  width: 545px;
+  height: auto;
+  box-shadow: 0 0 14px 0 rgba(0,0,0,0.3);
+  background-image: url("data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiIGlkPSJkZWZhdWx0LWltYWdlLXNvbGlkIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHg9IjBweCIgeT0iMHB4IiB2aWV3Qm94PSIwIDAgNDAwIDI2NSIgc3R5bGU9IndpZHRoOiA0MDBweDsgaGVpZ2h0OiAyNjVweDsiPg0KPHJlY3QgZmlsbD0iI0M2RDhFMSIgd2lkdGg9IjQwMCIgaGVpZ2h0PSIyNjUiLz4NCjxwYXRoIGZpbGw9IiNEOUUzRTgiIGQ9Ik0zOTUuMyw5Ni4yYy01LTAuOC02LjEsMS4xLTguNSwyLjljLTEtMi4zLTIuNi02LjItNy43LTVjMS41LTUuMy0yLjYtOC40LTcuNy04LjRjLTAuNiwwLTEuMiwwLjEtMS44LDAuMg0KCWMtMS44LTQuMS02LTYuOS0xMC43LTYuOWMtNi41LDAtMTEuOCw1LjMtMTEuOCwxMS44YzAsMC40LDAsMC45LDAuMSwxLjNjLTEuMi0wLjgtMi41LTEuMy0zLjktMS4zYy00LjMsMC03LjksNC4yLTcuOSw5LjQNCgljMCwxLjIsMC4yLDIuNCwwLjYsMy41Yy0wLjUtMC4xLTEtMC4xLTEuNi0wLjFjLTYuOSwwLTEyLjUsNS41LTEyLjcsMTIuNGMtMC45LTAuMi0xLjktMC40LTIuOS0wLjRjLTYuNCwwLTExLjcsNS4yLTEyLjUsMTEuOA0KCWMtMS4yLTAuNC0yLjUtMC42LTMuOS0wLjZjLTUuOSwwLTEwLjgsMy44LTEyLjEsOC45Yy0yLjQtMi01LjUtMy4yLTguOS0zLjJjLTYsMC0xMS4xLDMuNy0xMi44LDguOGMtMS41LTEuNC0zLjgtMi4zLTYuMy0yLjMNCgljLTIuMSwwLTQuMSwwLjYtNS41LDEuN2gtMC4xYy0xLjMtNS41LTYuMi05LjUtMTIuMS05LjVjLTIuNCwwLTQuNywwLjctNi42LDEuOWMtMS40LTAuNy0zLTEuMi00LjgtMS4yYy0wLjMsMC0wLjUsMC0wLjgsMA0KCWMtMS41LTQuMS01LjItNy05LjUtN2MtMy4xLDAtNS45LDEuNS03LjgsMy45Yy0yLjItNC44LTYuOC04LjItMTIuMi04LjJjLTUuNiwwLTEwLjUsMy43LTEyLjUsOC44Yy0yLjEtMC45LTQuNC0xLjUtNi45LTEuNQ0KCWMtNi44LDAtMTIuNSwzLjktMTQuNSw5LjNjLTAuMiwwLTAuNSwwLTAuNywwYy01LjIsMC05LjYsMy4yLTExLjQsNy44Yy0yLjctMi44LTctNC41LTExLjgtNC41Yy0zLjMsMC02LjQsMC45LTguOSwyLjMNCgljLTIuMS02LjUtOC0xMi4yLTE4LjEtOS45Yy0yLjctMi4zLTYuMy0zLjctMTAuMS0zLjdjLTIuNSwwLTQuOCwwLjYtNi45LDEuNmMtMi4yLTUuOS03LjktMTAuMS0xNC42LTEwLjFjLTguNiwwLTE1LjYsNy0xNS42LDE1LjYNCgljMCwwLjksMC4xLDEuNywwLjIsMi41Yy0yLjYtNS03LjgtOC40LTEzLjgtOC40Yy04LjMsMC0xNS4xLDYuNS0xNS42LDE0LjZjLTIuOS0zLjItNy01LjMtMTEuNy01LjNjLTcuNCwwLTEzLjUsNS4xLTE1LjIsMTINCgljLTIuOS0zLjUtOS44LTYtMTQuNy02djExOS4yaDQwMFYxMDJDNDAwLDEwMiw0MDAsOTcsMzk1LjMsOTYuMnoiLz4NCjxwYXRoIGZpbGw9IiM4RUE4QkIiIGQ9Ik00MDAsMjA2LjJjMCwwLTI1LjMtMTkuMi0zMy42LTI1LjdjLTEzLjQtMTAuNi0yMy4xLTEyLjktMzEuNy03cy0yMy45LDE5LjctMjMuOSwxOS43cy01OC45LTYzLjktNjEuNS02Ni40DQoJYy0xLjUtMS40LTMuNi0xLjctNS41LTAuOWMtNS4yLDIuNC0xNy42LDkuNy0yNC41LDEyLjdjLTYuOSwyLjktNDEtNTAuNy00OS42LTUzcy04NC4zLDgzLjMtMTAxLjQsNzUuMXMtMjYuOS0yLjMtMzUuNCwzLjUNCgljLTguNiw1LjktMTEsNS45LTE1LjksOC4ycy0xNy4xLTUuOS0xNy4xLTUuOVYyNjVjMCwwLDQwMCwwLjIsNDAwLDB2LTU4LjhINDAweiIvPg0KPHBhdGggZmlsbD0iIzdFOTZBNiIgZD0iTTMzMy40LDE3OWMtMTMuMS05LjMtNDAsNC42LTU1LjEsMTAuN2MtMjMuNiw5LjYtOTQtNTQuNC0xMDcuMi01OS43YzAsMC00LjIsMy43LTkuNiw3LjYNCgljLTMuNS0wLjQtOC40LTUuNy05LjktNC43Yy00LjYsMy4xLTE3LjgsMTUuNC0yOC4zLDI2LjZjLTEwLjUsMTEuMy0xMS43LDAtMTUuOC0wLjZjLTIuNS0wLjQtNTQuMSw0Mi41LTU4LjcsNDMuMQ0KCUMyMi4zLDIwNS4zLDAsMTk3LjUsMCwxOTcuNVYyNjVsNDAwLTAuMXYtNTMuM0M0MDAsMjExLjYsMzQ0LjgsMTg3LjEsMzMzLjQsMTc5eiIvPg0KPHBhdGggZmlsbD0iIzc4OEY5RSIgZD0iTTAsMjY0Ljl2LTU4LjZjMCwwLDguMiwxLjgsMTEuMyw1LjNjMy4xLDMuNiwyNi4xLTQuMiwyNi4xLDQuN3MwLjUsNC4yLDAuNSwxNC44YzAsMTAuNywyMy00LjIsMzguMS0xOC40DQoJczM0LjktNDkuMiwzNi0zNWMxLDE0LjItMTUuMSwzOS4yLTI0LDU2LjRDNzkuMSwyNTEuNCw1MS43LDI2NSw1MS43LDI2NUwwLDI2NC45eiIvPg0KPHBhdGggZmlsbD0iIzc4OEY5RSIgZD0iTTEwMCwyNjVjMCwwLDY2LjctMTI1LjEsNjguMy0xMTYuOHMtNi44LDI5LjcsMi4xLDI2LjFjOC45LTMuNiwxNC42LTE2LDE4LjgtOS41czE2LjIsMzguNiwyMS45LDMzLjgNCgljNS43LTQuNywyMS40LTEzLjEsMjIuNC02LjVjMSw2LjUtMSw1LjMtNS43LDIwLjJDMjIzLjEsMjI3LjEsMjAwLDI2NSwyMDAsMjY1aC0xMGMwLDAsNi0yNC44LDguNi0zNC45YzIuNi0xMC4xLTMuNy0xOS0xMi04LjMNCglzLTIzLDIyLTI0LDE3LjhzLTUuNy0zMC4zLTE4LjgtMTQuMmMtMTMsMTYtMzMuOCwzOS43LTMzLjgsMzkuN2gtMTBWMjY1eiIvPg0KPHBhdGggZmlsbD0iIzc4OEY5RSIgZD0iTTI0NSwyNjVjMCwwLDE5LjgtNTQuNywzMy40LTY0LjJzNTMuNy0yNy45LDQ2LjktMTMuNmMtNi44LDE0LjItMTEsMzQuNC0yMC4zLDQ5LjgNCgljLTkuNCwxNS40LTE4LjgsMjYuMS0xNC4xLDEzLjZjNC43LTEyLjUsNi40LTIzLjMsMy43LTIzLjFDMjcxLjMsMjI5LjEsMjYwLDI2NSwyNjAsMjY1SDI0NXoiLz4NCjwvc3ZnPg0K");
+  background-position: 50% 50%;
+  margin: 60px auto;
+}
+
+.u-dialog-section-13 .u-container-layout-1 {
+  padding: 50px;
+}
+
+.u-dialog-section-13 .u-image-2 {
+  width: 111px;
+  height: 111px;
+  margin: 14px auto 0;
+}
+
+.u-dialog-section-13 .u-group-1 {
+  min-height: 262px;
+  height: auto;
+  background-image: none;
+  margin: 0 -100px 0 auto;
+}
+
+.u-dialog-section-13 .u-container-layout-2 {
+  padding: 30px;
+}
+
+.u-dialog-section-13 .u-text-1 {
+  font-weight: 700;
+  text-transform: none;
+  margin: 0;
+}
+
+.u-dialog-section-13 .u-text-2 {
+  margin: 20px auto 0 0;
+}
+
+.u-dialog-section-13 .u-icon-1 {
+  width: 16px;
+  height: 16px;
+  left: auto;
+  top: 17px;
+  position: absolute;
+  right: 16px;
+}
+
+@media (max-width: 1199px) {
+  .u-dialog-section-13 .u-image-1 {
+    min-height: 362px;
+  }
+
+  .u-dialog-section-13 .u-group-1 {
+    margin-right: initial;
+    margin-left: initial;
+    height: auto;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-dialog-section-13 .u-image-1 {
+    margin-top: 318px;
+  }
+
+  .u-dialog-section-13 .u-container-layout-1 {
+    padding: 30px 40px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-dialog-section-13 .u-image-1 {
+    width: 540px;
+    margin-top: 60px;
+  }
+
+  .u-dialog-section-13 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-dialog-section-13 .u-image-1 {
+    width: 340px;
+  }
+
+  .u-dialog-section-13 .u-container-layout-1 {
+    padding-left: 25px;
+    padding-right: 25px;
+  }
+}</style><section class="u-align-center u-black u-clearfix u-container-align-center u-container-style u-dialog-block u-opacity u-opacity-70 u-valign-middle u-dialog-section-14" id="sec-27cb">
+      <div class="u-align-left u-container-style u-dialog u-image u-image-1" data-image-width="2000" data-image-height="1333">
+        <div class="u-container-layout u-container-layout-1">
+          <div class="u-container-style u-expanded-width u-group u-white u-group-1">
+            <div class="u-container-layout u-container-layout-2">
+              <h3 class="u-align-center u-text u-text-1"> Adams Homes</h3>
+              <p class="u-align-center u-text u-text-default u-text-2"> Revenue $41 Million<br>Adams Homes is known as the premier home builder and is one of the largest privately-held home building companies in the southeast.
+              </p>
+            </div>
+          </div>
+          <img class="u-image u-image-contain u-image-default u-preserve-proportions u-image-2" src="images/logo-fullColor.svg" alt="" data-image-width="240" data-image-height="93">
+        </div><button class="u-dialog-close-button u-icon u-text-grey-40 u-icon-1"><svg class="u-svg-link" preserveAspectRatio="xMidYMin slice" viewBox="0 0 409.806 409.806" style=""><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#svg-5da4"></use></svg><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" xml:space="preserve" class="u-svg-content" viewBox="0 0 409.806 409.806" x="0px" y="0px" id="svg-5da4" style="enable-background:new 0 0 409.806 409.806;"><g><g><path d="M228.929,205.01L404.596,29.343c6.78-6.548,6.968-17.352,0.42-24.132c-6.548-6.78-17.352-6.968-24.132-0.42    c-0.142,0.137-0.282,0.277-0.42,0.42L204.796,180.878L29.129,5.21c-6.78-6.548-17.584-6.36-24.132,0.42    c-6.388,6.614-6.388,17.099,0,23.713L180.664,205.01L4.997,380.677c-6.663,6.664-6.663,17.468,0,24.132    c6.664,6.662,17.468,6.662,24.132,0l175.667-175.667l175.667,175.667c6.78,6.548,17.584,6.36,24.132-0.42    c6.387-6.614,6.387-17.099,0-23.712L228.929,205.01z"></path>
+</g>
+</g></svg></button>
+      </div>
+    </section><style>.u-dialog-section-14 .u-image-1 {
+  width: 545px;
+  min-height: 465px;
+  height: auto;
+  box-shadow: 0 0 14px 0 rgba(0,0,0,0.3);
+  background-image: url("data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiIGlkPSJkZWZhdWx0LWltYWdlLXNvbGlkIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHg9IjBweCIgeT0iMHB4IiB2aWV3Qm94PSIwIDAgNDAwIDI2NSIgc3R5bGU9IndpZHRoOiA0MDBweDsgaGVpZ2h0OiAyNjVweDsiPg0KPHJlY3QgZmlsbD0iI0M2RDhFMSIgd2lkdGg9IjQwMCIgaGVpZ2h0PSIyNjUiLz4NCjxwYXRoIGZpbGw9IiNEOUUzRTgiIGQ9Ik0zOTUuMyw5Ni4yYy01LTAuOC02LjEsMS4xLTguNSwyLjljLTEtMi4zLTIuNi02LjItNy43LTVjMS41LTUuMy0yLjYtOC40LTcuNy04LjRjLTAuNiwwLTEuMiwwLjEtMS44LDAuMg0KCWMtMS44LTQuMS02LTYuOS0xMC43LTYuOWMtNi41LDAtMTEuOCw1LjMtMTEuOCwxMS44YzAsMC40LDAsMC45LDAuMSwxLjNjLTEuMi0wLjgtMi41LTEuMy0zLjktMS4zYy00LjMsMC03LjksNC4yLTcuOSw5LjQNCgljMCwxLjIsMC4yLDIuNCwwLjYsMy41Yy0wLjUtMC4xLTEtMC4xLTEuNi0wLjFjLTYuOSwwLTEyLjUsNS41LTEyLjcsMTIuNGMtMC45LTAuMi0xLjktMC40LTIuOS0wLjRjLTYuNCwwLTExLjcsNS4yLTEyLjUsMTEuOA0KCWMtMS4yLTAuNC0yLjUtMC42LTMuOS0wLjZjLTUuOSwwLTEwLjgsMy44LTEyLjEsOC45Yy0yLjQtMi01LjUtMy4yLTguOS0zLjJjLTYsMC0xMS4xLDMuNy0xMi44LDguOGMtMS41LTEuNC0zLjgtMi4zLTYuMy0yLjMNCgljLTIuMSwwLTQuMSwwLjYtNS41LDEuN2gtMC4xYy0xLjMtNS41LTYuMi05LjUtMTIuMS05LjVjLTIuNCwwLTQuNywwLjctNi42LDEuOWMtMS40LTAuNy0zLTEuMi00LjgtMS4yYy0wLjMsMC0wLjUsMC0wLjgsMA0KCWMtMS41LTQuMS01LjItNy05LjUtN2MtMy4xLDAtNS45LDEuNS03LjgsMy45Yy0yLjItNC44LTYuOC04LjItMTIuMi04LjJjLTUuNiwwLTEwLjUsMy43LTEyLjUsOC44Yy0yLjEtMC45LTQuNC0xLjUtNi45LTEuNQ0KCWMtNi44LDAtMTIuNSwzLjktMTQuNSw5LjNjLTAuMiwwLTAuNSwwLTAuNywwYy01LjIsMC05LjYsMy4yLTExLjQsNy44Yy0yLjctMi44LTctNC41LTExLjgtNC41Yy0zLjMsMC02LjQsMC45LTguOSwyLjMNCgljLTIuMS02LjUtOC0xMi4yLTE4LjEtOS45Yy0yLjctMi4zLTYuMy0zLjctMTAuMS0zLjdjLTIuNSwwLTQuOCwwLjYtNi45LDEuNmMtMi4yLTUuOS03LjktMTAuMS0xNC42LTEwLjFjLTguNiwwLTE1LjYsNy0xNS42LDE1LjYNCgljMCwwLjksMC4xLDEuNywwLjIsMi41Yy0yLjYtNS03LjgtOC40LTEzLjgtOC40Yy04LjMsMC0xNS4xLDYuNS0xNS42LDE0LjZjLTIuOS0zLjItNy01LjMtMTEuNy01LjNjLTcuNCwwLTEzLjUsNS4xLTE1LjIsMTINCgljLTIuOS0zLjUtOS44LTYtMTQuNy02djExOS4yaDQwMFYxMDJDNDAwLDEwMiw0MDAsOTcsMzk1LjMsOTYuMnoiLz4NCjxwYXRoIGZpbGw9IiM4RUE4QkIiIGQ9Ik00MDAsMjA2LjJjMCwwLTI1LjMtMTkuMi0zMy42LTI1LjdjLTEzLjQtMTAuNi0yMy4xLTEyLjktMzEuNy03cy0yMy45LDE5LjctMjMuOSwxOS43cy01OC45LTYzLjktNjEuNS02Ni40DQoJYy0xLjUtMS40LTMuNi0xLjctNS41LTAuOWMtNS4yLDIuNC0xNy42LDkuNy0yNC41LDEyLjdjLTYuOSwyLjktNDEtNTAuNy00OS42LTUzcy04NC4zLDgzLjMtMTAxLjQsNzUuMXMtMjYuOS0yLjMtMzUuNCwzLjUNCgljLTguNiw1LjktMTEsNS45LTE1LjksOC4ycy0xNy4xLTUuOS0xNy4xLTUuOVYyNjVjMCwwLDQwMCwwLjIsNDAwLDB2LTU4LjhINDAweiIvPg0KPHBhdGggZmlsbD0iIzdFOTZBNiIgZD0iTTMzMy40LDE3OWMtMTMuMS05LjMtNDAsNC42LTU1LjEsMTAuN2MtMjMuNiw5LjYtOTQtNTQuNC0xMDcuMi01OS43YzAsMC00LjIsMy43LTkuNiw3LjYNCgljLTMuNS0wLjQtOC40LTUuNy05LjktNC43Yy00LjYsMy4xLTE3LjgsMTUuNC0yOC4zLDI2LjZjLTEwLjUsMTEuMy0xMS43LDAtMTUuOC0wLjZjLTIuNS0wLjQtNTQuMSw0Mi41LTU4LjcsNDMuMQ0KCUMyMi4zLDIwNS4zLDAsMTk3LjUsMCwxOTcuNVYyNjVsNDAwLTAuMXYtNTMuM0M0MDAsMjExLjYsMzQ0LjgsMTg3LjEsMzMzLjQsMTc5eiIvPg0KPHBhdGggZmlsbD0iIzc4OEY5RSIgZD0iTTAsMjY0Ljl2LTU4LjZjMCwwLDguMiwxLjgsMTEuMyw1LjNjMy4xLDMuNiwyNi4xLTQuMiwyNi4xLDQuN3MwLjUsNC4yLDAuNSwxNC44YzAsMTAuNywyMy00LjIsMzguMS0xOC40DQoJczM0LjktNDkuMiwzNi0zNWMxLDE0LjItMTUuMSwzOS4yLTI0LDU2LjRDNzkuMSwyNTEuNCw1MS43LDI2NSw1MS43LDI2NUwwLDI2NC45eiIvPg0KPHBhdGggZmlsbD0iIzc4OEY5RSIgZD0iTTEwMCwyNjVjMCwwLDY2LjctMTI1LjEsNjguMy0xMTYuOHMtNi44LDI5LjcsMi4xLDI2LjFjOC45LTMuNiwxNC42LTE2LDE4LjgtOS41czE2LjIsMzguNiwyMS45LDMzLjgNCgljNS43LTQuNywyMS40LTEzLjEsMjIuNC02LjVjMSw2LjUtMSw1LjMtNS43LDIwLjJDMjIzLjEsMjI3LjEsMjAwLDI2NSwyMDAsMjY1aC0xMGMwLDAsNi0yNC44LDguNi0zNC45YzIuNi0xMC4xLTMuNy0xOS0xMi04LjMNCglzLTIzLDIyLTI0LDE3LjhzLTUuNy0zMC4zLTE4LjgtMTQuMmMtMTMsMTYtMzMuOCwzOS43LTMzLjgsMzkuN2gtMTBWMjY1eiIvPg0KPHBhdGggZmlsbD0iIzc4OEY5RSIgZD0iTTI0NSwyNjVjMCwwLDE5LjgtNTQuNywzMy40LTY0LjJzNTMuNy0yNy45LDQ2LjktMTMuNmMtNi44LDE0LjItMTEsMzQuNC0yMC4zLDQ5LjgNCgljLTkuNCwxNS40LTE4LjgsMjYuMS0xNC4xLDEzLjZjNC43LTEyLjUsNi40LTIzLjMsMy43LTIzLjFDMjcxLjMsMjI5LjEsMjYwLDI2NSwyNjAsMjY1SDI0NXoiLz4NCjwvc3ZnPg0K");
+  background-position: 50% 50%;
+  margin: 60px auto;
+}
+
+.u-dialog-section-14 .u-container-layout-1 {
+  padding: 16px 50px;
+}
+
+.u-dialog-section-14 .u-group-1 {
+  min-height: 267px;
+  height: auto;
+  background-image: none;
+  margin-top: 57px;
+  margin-bottom: 0;
+}
+
+.u-dialog-section-14 .u-container-layout-2 {
+  padding: 30px;
+}
+
+.u-dialog-section-14 .u-text-1 {
+  font-weight: 700;
+  text-transform: none;
+  margin: 0;
+}
+
+.u-dialog-section-14 .u-text-2 {
+  margin: 20px auto 0 0;
+}
+
+.u-dialog-section-14 .u-image-2 {
+  width: 175px;
+  height: 68px;
+  margin: -324px 128px 0 auto;
+}
+
+.u-dialog-section-14 .u-icon-1 {
+  width: 16px;
+  height: 16px;
+  left: auto;
+  top: 17px;
+  position: absolute;
+  right: 16px;
+}
+
+@media (max-width: 1199px) {
+  .u-dialog-section-14 .u-group-1 {
+    height: auto;
+  }
+
+  .u-dialog-section-14 .u-image-2 {
+    margin-top: -324px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-dialog-section-14 .u-image-1 {
+    margin-top: 318px;
+  }
+
+  .u-dialog-section-14 .u-container-layout-1 {
+    padding-left: 40px;
+    padding-right: 40px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-dialog-section-14 .u-image-1 {
+    width: 540px;
+    margin-top: 60px;
+  }
+
+  .u-dialog-section-14 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-dialog-section-14 .u-image-1 {
+    width: 340px;
+  }
+
+  .u-dialog-section-14 .u-container-layout-1 {
+    padding-left: 25px;
+    padding-right: 25px;
+  }
+}</style><section class="u-align-center u-black u-clearfix u-container-align-center u-container-style u-dialog-block u-opacity u-opacity-70 u-valign-middle u-dialog-section-15" id="sec-1a2b">
+      <div class="u-align-left u-container-align-left u-container-style u-dialog u-image u-image-1" data-image-width="2000" data-image-height="1333">
+        <div class="u-container-layout u-container-layout-1">
+          <div class="u-container-style u-expanded-width u-group u-white u-group-1">
+            <div class="u-container-layout u-container-layout-2">
+              <img class="u-image u-image-contain u-image-default u-image-2" src="images/a1-logo-2x.png" alt="" data-image-width="584" data-image-height="198">
+              <h3 class="u-align-center u-text u-text-1"> A-1 Mobile Lock &amp; Key</h3>
+              <p class="u-align-center u-text u-text-default u-text-2"> Revenue&lt;$5 Million</p>
+            </div>
+          </div>
+        </div><button class="u-dialog-close-button u-icon u-text-grey-40 u-icon-1"><svg class="u-svg-link" preserveAspectRatio="xMidYMin slice" viewBox="0 0 409.806 409.806" style=""><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#svg-5da4"></use></svg><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" xml:space="preserve" class="u-svg-content" viewBox="0 0 409.806 409.806" x="0px" y="0px" id="svg-5da4" style="enable-background:new 0 0 409.806 409.806;"><g><g><path d="M228.929,205.01L404.596,29.343c6.78-6.548,6.968-17.352,0.42-24.132c-6.548-6.78-17.352-6.968-24.132-0.42    c-0.142,0.137-0.282,0.277-0.42,0.42L204.796,180.878L29.129,5.21c-6.78-6.548-17.584-6.36-24.132,0.42    c-6.388,6.614-6.388,17.099,0,23.713L180.664,205.01L4.997,380.677c-6.663,6.664-6.663,17.468,0,24.132    c6.664,6.662,17.468,6.662,24.132,0l175.667-175.667l175.667,175.667c6.78,6.548,17.584,6.36,24.132-0.42    c6.387-6.614,6.387-17.099,0-23.712L228.929,205.01z"></path>
+</g>
+</g></svg></button>
+      </div>
+    </section><style>.u-dialog-section-15 .u-image-1 {
+  width: 545px;
+  min-height: 467px;
+  height: auto;
+  box-shadow: 0 0 14px 0 rgba(0,0,0,0.3);
+  background-image: url("data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiIGlkPSJkZWZhdWx0LWltYWdlLXNvbGlkIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHg9IjBweCIgeT0iMHB4IiB2aWV3Qm94PSIwIDAgNDAwIDI2NSIgc3R5bGU9IndpZHRoOiA0MDBweDsgaGVpZ2h0OiAyNjVweDsiPg0KPHJlY3QgZmlsbD0iI0M2RDhFMSIgd2lkdGg9IjQwMCIgaGVpZ2h0PSIyNjUiLz4NCjxwYXRoIGZpbGw9IiNEOUUzRTgiIGQ9Ik0zOTUuMyw5Ni4yYy01LTAuOC02LjEsMS4xLTguNSwyLjljLTEtMi4zLTIuNi02LjItNy43LTVjMS41LTUuMy0yLjYtOC40LTcuNy04LjRjLTAuNiwwLTEuMiwwLjEtMS44LDAuMg0KCWMtMS44LTQuMS02LTYuOS0xMC43LTYuOWMtNi41LDAtMTEuOCw1LjMtMTEuOCwxMS44YzAsMC40LDAsMC45LDAuMSwxLjNjLTEuMi0wLjgtMi41LTEuMy0zLjktMS4zYy00LjMsMC03LjksNC4yLTcuOSw5LjQNCgljMCwxLjIsMC4yLDIuNCwwLjYsMy41Yy0wLjUtMC4xLTEtMC4xLTEuNi0wLjFjLTYuOSwwLTEyLjUsNS41LTEyLjcsMTIuNGMtMC45LTAuMi0xLjktMC40LTIuOS0wLjRjLTYuNCwwLTExLjcsNS4yLTEyLjUsMTEuOA0KCWMtMS4yLTAuNC0yLjUtMC42LTMuOS0wLjZjLTUuOSwwLTEwLjgsMy44LTEyLjEsOC45Yy0yLjQtMi01LjUtMy4yLTguOS0zLjJjLTYsMC0xMS4xLDMuNy0xMi44LDguOGMtMS41LTEuNC0zLjgtMi4zLTYuMy0yLjMNCgljLTIuMSwwLTQuMSwwLjYtNS41LDEuN2gtMC4xYy0xLjMtNS41LTYuMi05LjUtMTIuMS05LjVjLTIuNCwwLTQuNywwLjctNi42LDEuOWMtMS40LTAuNy0zLTEuMi00LjgtMS4yYy0wLjMsMC0wLjUsMC0wLjgsMA0KCWMtMS41LTQuMS01LjItNy05LjUtN2MtMy4xLDAtNS45LDEuNS03LjgsMy45Yy0yLjItNC44LTYuOC04LjItMTIuMi04LjJjLTUuNiwwLTEwLjUsMy43LTEyLjUsOC44Yy0yLjEtMC45LTQuNC0xLjUtNi45LTEuNQ0KCWMtNi44LDAtMTIuNSwzLjktMTQuNSw5LjNjLTAuMiwwLTAuNSwwLTAuNywwYy01LjIsMC05LjYsMy4yLTExLjQsNy44Yy0yLjctMi44LTctNC41LTExLjgtNC41Yy0zLjMsMC02LjQsMC45LTguOSwyLjMNCgljLTIuMS02LjUtOC0xMi4yLTE4LjEtOS45Yy0yLjctMi4zLTYuMy0zLjctMTAuMS0zLjdjLTIuNSwwLTQuOCwwLjYtNi45LDEuNmMtMi4yLTUuOS03LjktMTAuMS0xNC42LTEwLjFjLTguNiwwLTE1LjYsNy0xNS42LDE1LjYNCgljMCwwLjksMC4xLDEuNywwLjIsMi41Yy0yLjYtNS03LjgtOC40LTEzLjgtOC40Yy04LjMsMC0xNS4xLDYuNS0xNS42LDE0LjZjLTIuOS0zLjItNy01LjMtMTEuNy01LjNjLTcuNCwwLTEzLjUsNS4xLTE1LjIsMTINCgljLTIuOS0zLjUtOS44LTYtMTQuNy02djExOS4yaDQwMFYxMDJDNDAwLDEwMiw0MDAsOTcsMzk1LjMsOTYuMnoiLz4NCjxwYXRoIGZpbGw9IiM4RUE4QkIiIGQ9Ik00MDAsMjA2LjJjMCwwLTI1LjMtMTkuMi0zMy42LTI1LjdjLTEzLjQtMTAuNi0yMy4xLTEyLjktMzEuNy03cy0yMy45LDE5LjctMjMuOSwxOS43cy01OC45LTYzLjktNjEuNS02Ni40DQoJYy0xLjUtMS40LTMuNi0xLjctNS41LTAuOWMtNS4yLDIuNC0xNy42LDkuNy0yNC41LDEyLjdjLTYuOSwyLjktNDEtNTAuNy00OS42LTUzcy04NC4zLDgzLjMtMTAxLjQsNzUuMXMtMjYuOS0yLjMtMzUuNCwzLjUNCgljLTguNiw1LjktMTEsNS45LTE1LjksOC4ycy0xNy4xLTUuOS0xNy4xLTUuOVYyNjVjMCwwLDQwMCwwLjIsNDAwLDB2LTU4LjhINDAweiIvPg0KPHBhdGggZmlsbD0iIzdFOTZBNiIgZD0iTTMzMy40LDE3OWMtMTMuMS05LjMtNDAsNC42LTU1LjEsMTAuN2MtMjMuNiw5LjYtOTQtNTQuNC0xMDcuMi01OS43YzAsMC00LjIsMy43LTkuNiw3LjYNCgljLTMuNS0wLjQtOC40LTUuNy05LjktNC43Yy00LjYsMy4xLTE3LjgsMTUuNC0yOC4zLDI2LjZjLTEwLjUsMTEuMy0xMS43LDAtMTUuOC0wLjZjLTIuNS0wLjQtNTQuMSw0Mi41LTU4LjcsNDMuMQ0KCUMyMi4zLDIwNS4zLDAsMTk3LjUsMCwxOTcuNVYyNjVsNDAwLTAuMXYtNTMuM0M0MDAsMjExLjYsMzQ0LjgsMTg3LjEsMzMzLjQsMTc5eiIvPg0KPHBhdGggZmlsbD0iIzc4OEY5RSIgZD0iTTAsMjY0Ljl2LTU4LjZjMCwwLDguMiwxLjgsMTEuMyw1LjNjMy4xLDMuNiwyNi4xLTQuMiwyNi4xLDQuN3MwLjUsNC4yLDAuNSwxNC44YzAsMTAuNywyMy00LjIsMzguMS0xOC40DQoJczM0LjktNDkuMiwzNi0zNWMxLDE0LjItMTUuMSwzOS4yLTI0LDU2LjRDNzkuMSwyNTEuNCw1MS43LDI2NSw1MS43LDI2NUwwLDI2NC45eiIvPg0KPHBhdGggZmlsbD0iIzc4OEY5RSIgZD0iTTEwMCwyNjVjMCwwLDY2LjctMTI1LjEsNjguMy0xMTYuOHMtNi44LDI5LjcsMi4xLDI2LjFjOC45LTMuNiwxNC42LTE2LDE4LjgtOS41czE2LjIsMzguNiwyMS45LDMzLjgNCgljNS43LTQuNywyMS40LTEzLjEsMjIuNC02LjVjMSw2LjUtMSw1LjMtNS43LDIwLjJDMjIzLjEsMjI3LjEsMjAwLDI2NSwyMDAsMjY1aC0xMGMwLDAsNi0yNC44LDguNi0zNC45YzIuNi0xMC4xLTMuNy0xOS0xMi04LjMNCglzLTIzLDIyLTI0LDE3LjhzLTUuNy0zMC4zLTE4LjgtMTQuMmMtMTMsMTYtMzMuOCwzOS43LTMzLjgsMzkuN2gtMTBWMjY1eiIvPg0KPHBhdGggZmlsbD0iIzc4OEY5RSIgZD0iTTI0NSwyNjVjMCwwLDE5LjgtNTQuNywzMy40LTY0LjJzNTMuNy0yNy45LDQ2LjktMTMuNmMtNi44LDE0LjItMTEsMzQuNC0yMC4zLDQ5LjgNCgljLTkuNCwxNS40LTE4LjgsMjYuMS0xNC4xLDEzLjZjNC43LTEyLjUsNi40LTIzLjMsMy43LTIzLjFDMjcxLjMsMjI5LjEsMjYwLDI2NSwyNjAsMjY1SDI0NXoiLz4NCjwvc3ZnPg0K");
+  background-position: 50% 50%;
+  margin: 60px auto;
+}
+
+.u-dialog-section-15 .u-container-layout-1 {
+  padding: 50px;
+}
+
+.u-dialog-section-15 .u-group-1 {
+  background-image: none;
+}
+
+.u-dialog-section-15 .u-container-layout-2 {
+  padding: 0 30px;
+}
+
+.u-dialog-section-15 .u-image-2 {
+  width: 223px;
+  height: 75px;
+  margin: -39px auto 0 81px;
+}
+
+.u-dialog-section-15 .u-text-1 {
+  font-weight: 700;
+  text-transform: none;
+}
+
+.u-dialog-section-15 .u-text-2 {
+  margin: 18px auto 0 97px;
+}
+
+.u-dialog-section-15 .u-icon-1 {
+  width: 16px;
+  height: 16px;
+  left: auto;
+  top: 17px;
+  position: absolute;
+  right: 16px;
+}
+
+@media (max-width: 1199px) {
+  .u-dialog-section-15 .u-group-1 {
+    min-height: 262px;
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+
+  .u-dialog-section-15 .u-text-1 {
+    margin: 19px 0 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-dialog-section-15 .u-image-1 {
+    margin-top: 318px;
+  }
+
+  .u-dialog-section-15 .u-container-layout-1 {
+    padding: 30px 40px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-dialog-section-15 .u-image-1 {
+    width: 540px;
+    margin-top: 60px;
+  }
+
+  .u-dialog-section-15 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-dialog-section-15 .u-image-1 {
+    width: 340px;
+  }
+
+  .u-dialog-section-15 .u-container-layout-1 {
+    padding-left: 25px;
+    padding-right: 25px;
+  }
+
+  .u-dialog-section-15 .u-image-2 {
+    margin-left: 77px;
+  }
+}</style>
+</body></html>

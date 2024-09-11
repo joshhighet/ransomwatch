@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-09-11 | [`mcphillips.co.uk\$40.8M\United Kingdom\1.2TB\100% DISCLOSED`](https://google.com/search?q=mcphillips.co.uk%5C%2440.8M%5CUnited+Kingdom%5C1.2TB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
+| 2024-09-11 | [`rangeramerican.com\$52.9M\USA\218GB\100% DISCLOSED`](https://google.com/search?q=rangeramerican.com%5C%2452.9M%5CUSA%5C218GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
+| 2024-09-11 | [`www.jatelindo.co.id`](https://google.com/search?q=www.jatelindo.co.id) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
 | 2024-09-11 | [`www.galgorm.com`](https://google.com/search?q=www.galgorm.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-09-11 | [`allamericanpoly.com`](https://google.com/search?q=allamericanpoly.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-09-11 | [`http://cdarwin.com`](https://google.com/search?q=http%3A%2F%2Fcdarwin.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2024-08-27 | [`http://modelaircraft.org`](https://google.com/search?q=http%3A%2F%2Fmodelaircraft.org) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-08-27 | [`Mason City Recycling Center `](https://google.com/search?q=Mason+City+Recycling+Center+) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-08-27 | [`Crowe`](https://google.com/search?q=Crowe) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2024-08-27 | [`securityinstrument.com\$15.4M\USA\141GB\&lt;1% DISCLOSED`](https://google.com/search?q=securityinstrument.com%5C%2415.4M%5CUSA%5C141GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2024-08-26 | [`Johnson Laschober & Associates`](https://google.com/search?q=Johnson+Laschober+%26+Associates) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
-| 2024-08-26 | [`Precom`](https://google.com/search?q=Precom) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
