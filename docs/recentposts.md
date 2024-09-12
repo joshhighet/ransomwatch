@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-09-12 | [`brunswickhospitalcenter.org`](https://google.com/search?q=brunswickhospitalcenter.org) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
 | 2024-09-12 | [`ICBC (London)`](https://google.com/search?q=ICBC+%28London%29) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-09-12 | [`thornton-inc.com`](https://google.com/search?q=thornton-inc.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-09-12 | [`mechdyne.com`](https://google.com/search?q=mechdyne.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-08-28 | [`Rinehart Butler Hodge Moss & Bryant`](https://google.com/search?q=Rinehart+Butler+Hodge+Moss+%26+Bryant) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-08-28 | [`codacinc.org`](https://google.com/search?q=codacinc.org) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-08-27 | [`KidKraft`](https://google.com/search?q=KidKraft) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
-| 2024-08-27 | [`www.chwa.com.tw`](https://google.com/search?q=www.chwa.com.tw) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
