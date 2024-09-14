@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-09-14 | [`Retemex`](https://google.com/search?q=Retemex) | [ransomexx](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomexx) |
 | 2024-09-14 | [`ecbawm.com`](https://google.com/search?q=ecbawm.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
 | 2024-09-14 | [`http://www.fdlawrence.com`](https://google.com/search?q=http%3A%2F%2Fwww.fdlawrence.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-09-13 | [`www.mivideo.club`](https://google.com/search?q=www.mivideo.club) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-08-28 | [`Universal Pure`](https://google.com/search?q=Universal+Pure) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-08-28 | [`Omicron Granite & Tile`](https://google.com/search?q=Omicron+Granite+%26+Tile) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-08-28 | [`GDB International`](https://google.com/search?q=GDB+International) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-08-28 | [`Clabots`](https://google.com/search?q=Clabots) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
