@@ -4,6 +4,11 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-09-15 | [`Announcement 9-14`](https://google.com/search?q=Announcement+9-14) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
+| 2024-09-15 | [`Gino Giglio Generation Spa`](https://google.com/search?q=Gino+Giglio+Generation+Spa) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
+| 2024-09-15 | [`Rextech`](https://google.com/search?q=Rextech) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
+| 2024-09-15 | [`Like Family&#8217;s`](https://google.com/search?q=Like+Family%26%238217%3Bs) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
+| 2024-09-15 | [`UNI-PA A.Ş`](https://google.com/search?q=UNI-PA+A.%C5%9E) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2024-09-14 | [`Retemex`](https://google.com/search?q=Retemex) | [ransomexx](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomexx) |
 | 2024-09-14 | [`ecbawm.com`](https://google.com/search?q=ecbawm.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
 | 2024-09-14 | [`http://www.fdlawrence.com`](https://google.com/search?q=http%3A%2F%2Fwww.fdlawrence.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
@@ -199,8 +204,3 @@ _last `200` posts_
 | 2024-08-29 | [`https://bayoudesiardcc.com`](https://google.com/search?q=https%3A%2F%2Fbayoudesiardcc.com) | [cicada3301](https://ransomwatch.telemetry.ltd/#/profiles?id=cicada3301) |
 | 2024-08-28 | [`rainierarms.com`](https://google.com/search?q=rainierarms.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-08-28 | [`Software Engineering Associates`](https://google.com/search?q=Software+Engineering+Associates) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-08-28 | [`Epi Breads`](https://google.com/search?q=Epi+Breads) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-08-28 | [`tjs.com`](https://google.com/search?q=tjs.com) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
-| 2024-08-28 | [`Universal Pure`](https://google.com/search?q=Universal+Pure) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-08-28 | [`Omicron Granite & Tile`](https://google.com/search?q=Omicron+Granite+%26+Tile) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-08-28 | [`GDB International`](https://google.com/search?q=GDB+International) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
