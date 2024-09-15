@@ -4,6 +4,15 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-09-15 | [`https://christen-sanitaer.ch`](https://google.com/search?q=https%3A%2F%2Fchristen-sanitaer.ch) | [cicada3301](https://ransomwatch.telemetry.ltd/#/profiles?id=cicada3301) |
+| 2024-09-15 | [`http://www.bfcpas.com`](https://google.com/search?q=http%3A%2F%2Fwww.bfcpas.com) | [cicada3301](https://ransomwatch.telemetry.ltd/#/profiles?id=cicada3301) |
+| 2024-09-15 | [`https://www.blvdresidential.com`](https://google.com/search?q=https%3A%2F%2Fwww.blvdresidential.com) | [cicada3301](https://ransomwatch.telemetry.ltd/#/profiles?id=cicada3301) |
+| 2024-09-15 | [`https://www.khoocpa.com`](https://google.com/search?q=https%3A%2F%2Fwww.khoocpa.com) | [cicada3301](https://ransomwatch.telemetry.ltd/#/profiles?id=cicada3301) |
+| 2024-09-15 | [`https://www.kashima-coat.com`](https://google.com/search?q=https%3A%2F%2Fwww.kashima-coat.com) | [cicada3301](https://ransomwatch.telemetry.ltd/#/profiles?id=cicada3301) |
+| 2024-09-15 | [`www.atlcc.net`](https://google.com/search?q=www.atlcc.net) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-09-15 | [`accuraterailroad.com`](https://google.com/search?q=accuraterailroad.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-09-15 | [`advantagecdc.org`](https://google.com/search?q=advantagecdc.org) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-09-15 | [`lafuturasrl.it`](https://google.com/search?q=lafuturasrl.it) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-09-15 | [`Emtel`](https://google.com/search?q=Emtel) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2024-09-15 | [`EAGLE School`](https://google.com/search?q=EAGLE+School) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-09-15 | [`www.rockymountaingastro.com`](https://google.com/search?q=www.rockymountaingastro.com) | [trinity](https://ransomwatch.telemetry.ltd/#/profiles?id=trinity) |
@@ -195,12 +204,3 @@ _last `200` posts_
 | 2024-08-30 | [`http://www.hollywoodburbankairport.com`](https://google.com/search?q=http%3A%2F%2Fwww.hollywoodburbankairport.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-08-29 | [`lmgroup.com&lt;Disclose&gt;`](https://google.com/search?q=lmgroup.com%26lt%3BDisclose%26gt%3B) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-08-29 | [`Stiller Aesthetics`](https://google.com/search?q=Stiller+Aesthetics) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
-| 2024-08-29 | [`Risser Oil`](https://google.com/search?q=Risser+Oil) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
-| 2024-08-29 | [`glasstile.com`](https://google.com/search?q=glasstile.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-08-29 | [`Corbally Gartland and Rappleyea`](https://google.com/search?q=Corbally+Gartland+and+Rappleyea) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2024-08-29 | [`Gortemoller Engineering (gorteng.local)`](https://google.com/search?q=Gortemoller+Engineering+%28gorteng.local%29) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
-| 2024-08-29 | [`exco-solutions.com\$76.4M\Germany\251GB\100% DISCLOSED`](https://google.com/search?q=exco-solutions.com%5C%2476.4M%5CGermany%5C251GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2024-08-29 | [`tibaitservices.com\$124.3M\Mexico\29GB\100% DISCLOSED`](https://google.com/search?q=tibaitservices.com%5C%24124.3M%5CMexico%5C29GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2024-08-29 | [`mihlfeld.com\$88.2M\USA\316GB\100% DISCLOSED`](https://google.com/search?q=mihlfeld.com%5C%2488.2M%5CUSA%5C316GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2024-08-29 | [`https://malonetoyota.com`](https://google.com/search?q=https%3A%2F%2Fmalonetoyota.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
-| 2024-08-29 | [`Appletec Ltd Hacked`](https://google.com/search?q=Appletec+Ltd+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
