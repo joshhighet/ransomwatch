@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-09-15 | [`Emtel`](https://google.com/search?q=Emtel) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2024-09-15 | [`EAGLE School`](https://google.com/search?q=EAGLE+School) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-09-15 | [`www.rockymountaingastro.com`](https://google.com/search?q=www.rockymountaingastro.com) | [trinity](https://ransomwatch.telemetry.ltd/#/profiles?id=trinity) |
 | 2024-09-15 | [`INTERNAL.ROCKYMOUNTAINGASTRO.COM`](https://google.com/search?q=INTERNAL.ROCKYMOUNTAINGASTRO.COM) | [trinity](https://ransomwatch.telemetry.ltd/#/profiles?id=trinity) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-08-29 | [`mihlfeld.com\$88.2M\USA\316GB\100% DISCLOSED`](https://google.com/search?q=mihlfeld.com%5C%2488.2M%5CUSA%5C316GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-08-29 | [`https://malonetoyota.com`](https://google.com/search?q=https%3A%2F%2Fmalonetoyota.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-08-29 | [`Appletec Ltd Hacked`](https://google.com/search?q=Appletec+Ltd+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
-| 2024-08-29 | [`https://christen-sanitaer.ch/`](https://google.com/search?q=https%3A%2F%2Fchristen-sanitaer.ch%2F) | [cicada3301](https://ransomwatch.telemetry.ltd/#/profiles?id=cicada3301) |
