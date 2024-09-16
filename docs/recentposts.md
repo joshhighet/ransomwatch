@@ -4,6 +4,10 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-09-16 | [`www.faithfc.org`](https://google.com/search?q=www.faithfc.org) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-09-16 | [`www.adantia.es`](https://google.com/search?q=www.adantia.es) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-09-16 | [`topdoctors.com`](https://google.com/search?q=topdoctors.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-09-16 | [`www.taperuvicha.com`](https://google.com/search?q=www.taperuvicha.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-09-16 | [`Cruz Marine (cruz.local)`](https://google.com/search?q=Cruz+Marine+%28cruz.local%29) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
 | 2024-09-16 | [`SuperCommerce.ai`](https://google.com/search?q=SuperCommerce.ai) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-09-16 | [`oipip.gda.pl`](https://google.com/search?q=oipip.gda.pl) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -200,7 +204,3 @@ _last `200` posts_
 | 2024-08-30 | [`www.suvacity.org`](https://google.com/search?q=www.suvacity.org) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-08-30 | [`www.iph-bet.fr`](https://google.com/search?q=www.iph-bet.fr) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-08-30 | [`www.johnkellys.com`](https://google.com/search?q=www.johnkellys.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-08-30 | [`www.fenceauthority.com`](https://google.com/search?q=www.fenceauthority.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-08-30 | [`www.gruyeria.ch`](https://google.com/search?q=www.gruyeria.ch) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-08-30 | [`www.lfewines.com`](https://google.com/search?q=www.lfewines.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-08-30 | [`ccj.edu.lb`](https://google.com/search?q=ccj.edu.lb) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
