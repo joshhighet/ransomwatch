@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-09-17 | [`New Electric`](https://google.com/search?q=New+Electric) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-09-17 | [`AutoCanada`](https://google.com/search?q=AutoCanada) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-09-17 | [`gestiriego.com`](https://google.com/search?q=gestiriego.com) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
 | 2024-09-17 | [`Sherr Puttmann Akins Lamb PC`](https://google.com/search?q=Sherr+Puttmann+Akins+Lamb+PC) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-08-30 | [`grant-associates.uk.com`](https://google.com/search?q=grant-associates.uk.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-08-30 | [`pfsbrands.com`](https://google.com/search?q=pfsbrands.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
 | 2024-08-30 | [`Burgess Kilpartik`](https://google.com/search?q=Burgess+Kilpartik) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
-| 2024-08-30 | [`Richmond Auto Mall`](https://google.com/search?q=Richmond+Auto+Mall) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
