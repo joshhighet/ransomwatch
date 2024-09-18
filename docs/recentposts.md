@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-09-18 | [`www.galloway-macleod.co.uk`](https://google.com/search?q=www.galloway-macleod.co.uk) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-09-18 | [`ringpower.com`](https://google.com/search?q=ringpower.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-09-17 | [`www.quenotedeporten.com`](https://google.com/search?q=www.quenotedeporten.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-09-17 | [`miit.gov.cn`](https://google.com/search?q=miit.gov.cn) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-09-17 | [`www.plumbersstock.com`](https://google.com/search?q=www.plumbersstock.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-08-31 | [`https://www.brooker-cpa.com`](https://google.com/search?q=https%3A%2F%2Fwww.brooker-cpa.com) | [cicada3301](https://ransomwatch.telemetry.ltd/#/profiles?id=cicada3301) |
 | 2024-08-31 | [`https://www.khoocpa.com/`](https://google.com/search?q=https%3A%2F%2Fwww.khoocpa.com%2F) | [cicada3301](https://ransomwatch.telemetry.ltd/#/profiles?id=cicada3301) |
 | 2024-08-31 | [`New River Electrical Corporation`](https://google.com/search?q=New+River+Electrical+Corporation) | [eldorado](https://ransomwatch.telemetry.ltd/#/profiles?id=eldorado) |
-| 2024-08-31 | [`The Recycler Core Company`](https://google.com/search?q=The+Recycler+Core+Company) | [eldorado](https://ransomwatch.telemetry.ltd/#/profiles?id=eldorado) |
-| 2024-08-31 | [`Tranter (tcn.local)`](https://google.com/search?q=Tranter+%28tcn.local%29) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
