@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-09-19 | [`Sunrise Farms`](https://google.com/search?q=Sunrise+Farms) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
+| 2024-09-19 | [`advbe.com`](https://google.com/search?q=advbe.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-09-19 | [`avl1.com`](https://google.com/search?q=avl1.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-09-19 | [`libertyfirstcu.com`](https://google.com/search?q=libertyfirstcu.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-09-19 | [`Hunter Dickinson Inc.`](https://google.com/search?q=Hunter+Dickinson+Inc.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-09-01 | [`Quálitas México`](https://google.com/search?q=Qu%C3%A1litas+M%C3%A9xico) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-09-01 | [`welland-corp.com`](https://google.com/search?q=welland-corp.com) | [trinity](https://ransomwatch.telemetry.ltd/#/profiles?id=trinity) |
 | 2024-09-01 | [`welland`](https://google.com/search?q=welland) | [trinity](https://ransomwatch.telemetry.ltd/#/profiles?id=trinity) |
-| 2024-08-31 | [`ciot.com`](https://google.com/search?q=ciot.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-08-31 | [`White Mountain Backpacks`](https://google.com/search?q=White+Mountain+Backpacks) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
