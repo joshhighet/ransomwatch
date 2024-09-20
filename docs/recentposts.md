@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-09-20 | [`https://capitalprintingco.com`](https://google.com/search?q=https%3A%2F%2Fcapitalprintingco.com) | [cicada3301](https://ransomwatch.telemetry.ltd/#/profiles?id=cicada3301) |
+| 2024-09-20 | [`Mason City Recycling Center`](https://google.com/search?q=Mason+City+Recycling+Center) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
+| 2024-09-20 | [`KW Realty Group`](https://google.com/search?q=KW+Realty+Group) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-09-20 | [`Juice Generation`](https://google.com/search?q=Juice+Generation) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2024-09-20 | [`virainsight.com`](https://google.com/search?q=virainsight.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-09-20 | [`River Region Cardiology Associates`](https://google.com/search?q=River+Region+Cardiology+Associates) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2024-09-03 | [`bluemaven.ca problems`](https://google.com/search?q=bluemaven.ca+problems) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2024-09-03 | [`Turman `](https://google.com/search?q=Turman+) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-09-02 | [`www.pokerspa.it`](https://google.com/search?q=www.pokerspa.it) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-09-02 | [`Removal.AI`](https://google.com/search?q=Removal.AI) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-09-02 | [`www.amberbev.com`](https://google.com/search?q=www.amberbev.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-09-02 | [`www.sanyo-bussan.co.jp`](https://google.com/search?q=www.sanyo-bussan.co.jp) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
