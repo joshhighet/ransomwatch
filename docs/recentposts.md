@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-09-20 | [`Juice Generation`](https://google.com/search?q=Juice+Generation) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
+| 2024-09-20 | [`virainsight.com`](https://google.com/search?q=virainsight.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-09-20 | [`River Region Cardiology Associates`](https://google.com/search?q=River+Region+Cardiology+Associates) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-09-20 | [`Greene Acres Nursing Home`](https://google.com/search?q=Greene+Acres+Nursing+Home) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2024-09-20 | [`aroma.com.tr`](https://google.com/search?q=aroma.com.tr) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-09-02 | [`Removal.AI`](https://google.com/search?q=Removal.AI) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-09-02 | [`www.amberbev.com`](https://google.com/search?q=www.amberbev.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-09-02 | [`www.sanyo-bussan.co.jp`](https://google.com/search?q=www.sanyo-bussan.co.jp) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-09-02 | [`Project Hospitality`](https://google.com/search?q=Project+Hospitality) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2024-09-02 | [`www.sanyo-av.com&lt;Taiwan&gt;`](https://google.com/search?q=www.sanyo-av.com%26lt%3BTaiwan%26gt%3B) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
