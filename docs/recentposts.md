@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-09-23 | [`Meli (BCYF &amp; Bethany)`](https://google.com/search?q=Meli+%28BCYF+%26amp%3B+Bethany%29) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
+| 2024-09-23 | [`Canstar Restorations`](https://google.com/search?q=Canstar+Restorations) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-09-22 | [`Daughterly Care`](https://google.com/search?q=Daughterly+Care) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2024-09-22 | [`Woodard , Hernandez , Roth &amp; Day`](https://google.com/search?q=Woodard+%2C+Hernandez+%2C+Roth+%26amp%3B+Day) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-09-21 | [`savannahcandy.com`](https://google.com/search?q=savannahcandy.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-09-04 | [`plannedparenthood.org`](https://google.com/search?q=plannedparenthood.org) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-09-04 | [`Sunrise Erectors`](https://google.com/search?q=Sunrise+Erectors) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-09-03 | [`balboabayresort.com\$101M\USA\790GB\&lt;1% DISCLOSED`](https://google.com/search?q=balboabayresort.com%5C%24101M%5CUSA%5C790GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2024-09-03 | [`inlighten.net&lt;Disclose&gt;`](https://google.com/search?q=inlighten.net%26lt%3BDisclose%26gt%3B) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-09-03 | [`gardenhomesmanagement.com`](https://google.com/search?q=gardenhomesmanagement.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
