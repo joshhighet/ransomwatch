@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-09-23 | [`Benny Gantz Hacked`](https://google.com/search?q=Benny+Gantz+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
+| 2024-09-23 | [`Avi Resort & Casino`](https://google.com/search?q=Avi+Resort+%26+Casino) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
+| 2024-09-23 | [`Brown Bottling Group`](https://google.com/search?q=Brown+Bottling+Group) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-09-23 | [`medicheck.io`](https://google.com/search?q=medicheck.io) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-09-23 | [`bakpilic.com.tr`](https://google.com/search?q=bakpilic.com.tr) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-09-23 | [`Idre Fjäll`](https://google.com/search?q=Idre+Fj%C3%A4ll) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2024-09-04 | [`http://www.osda.com`](https://google.com/search?q=http%3A%2F%2Fwww.osda.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-09-04 | [`http://parrishandcompany.com`](https://google.com/search?q=http%3A%2F%2Fparrishandcompany.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-09-04 | [`Seirus Innovation`](https://google.com/search?q=Seirus+Innovation) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-09-04 | [`Farmers' Rice Cooperative`](https://google.com/search?q=Farmers%27+Rice+Cooperative) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-09-04 | [`Crain Group`](https://google.com/search?q=Crain+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-09-04 | [`Bakersfield`](https://google.com/search?q=Bakersfield) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
