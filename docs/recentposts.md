@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-09-24 | [`https://designbymodel.com`](https://google.com/search?q=https%3A%2F%2Fdesignbymodel.com) | [cicada3301](https://ransomwatch.telemetry.ltd/#/profiles?id=cicada3301) |
 | 2024-09-23 | [`tellurianinc.org`](https://google.com/search?q=tellurianinc.org) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-09-23 | [`https://cottlesinc.com`](https://google.com/search?q=https%3A%2F%2Fcottlesinc.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-09-23 | [`Eurobulk`](https://google.com/search?q=Eurobulk) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-09-05 | [`inorde.com`](https://google.com/search?q=inorde.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-09-05 | [`cbt-gmbh.de`](https://google.com/search?q=cbt-gmbh.de) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-09-05 | [`tri-tech.us`](https://google.com/search?q=tri-tech.us) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-09-05 | [`www.towellengineering.net`](https://google.com/search?q=www.towellengineering.net) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
