@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-09-24 | [`libraries.delaware.gov`](https://google.com/search?q=libraries.delaware.gov) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-09-24 | [`gsdwi.org`](https://google.com/search?q=gsdwi.org) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-09-24 | [`https://hughes-gill.com`](https://google.com/search?q=https%3A%2F%2Fhughes-gill.com) | [cicada3301](https://ransomwatch.telemetry.ltd/#/profiles?id=cicada3301) |
 | 2024-09-24 | [`Israel defense minister private photos`](https://google.com/search?q=Israel+defense+minister+private+photos) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2024-09-24 | [`https://crownmortgagecompany.com`](https://google.com/search?q=https%3A%2F%2Fcrownmortgagecompany.com) | [cicada3301](https://ransomwatch.telemetry.ltd/#/profiles?id=cicada3301) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-09-06 | [`champeau.com\$25.5M\Canada\130GB\&lt;1% DISCLOSED`](https://google.com/search?q=champeau.com%5C%2425.5M%5CCanada%5C130GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-09-06 | [`Custom Security Systems`](https://google.com/search?q=Custom+Security+Systems) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-09-05 | [`cda.be`](https://google.com/search?q=cda.be) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
-| 2024-09-05 | [`belfius.be`](https://google.com/search?q=belfius.be) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
-| 2024-09-05 | [`dvv.be`](https://google.com/search?q=dvv.be) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
