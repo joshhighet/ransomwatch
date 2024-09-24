@@ -4,6 +4,10 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-09-24 | [`Frigocenter`](https://google.com/search?q=Frigocenter) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
+| 2024-09-24 | [`Partners Air`](https://google.com/search?q=Partners+Air) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
+| 2024-09-24 | [`Solutii Sistemas`](https://google.com/search?q=Solutii+Sistemas) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
+| 2024-09-24 | [`Nova Sinseg`](https://google.com/search?q=Nova+Sinseg) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2024-09-24 | [`https://designbymodel.com`](https://google.com/search?q=https%3A%2F%2Fdesignbymodel.com) | [cicada3301](https://ransomwatch.telemetry.ltd/#/profiles?id=cicada3301) |
 | 2024-09-23 | [`tellurianinc.org`](https://google.com/search?q=tellurianinc.org) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-09-23 | [`https://cottlesinc.com`](https://google.com/search?q=https%3A%2F%2Fcottlesinc.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
@@ -200,7 +204,3 @@ _last `200` posts_
 | 2024-09-05 | [`kawasaki.eu`](https://google.com/search?q=kawasaki.eu) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-09-05 | [`phdservices.net`](https://google.com/search?q=phdservices.net) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-09-05 | [`Inglenorth.co.uk`](https://google.com/search?q=Inglenorth.co.uk) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-09-05 | [`cps-k12.org`](https://google.com/search?q=cps-k12.org) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-09-05 | [`inorde.com`](https://google.com/search?q=inorde.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-09-05 | [`cbt-gmbh.de`](https://google.com/search?q=cbt-gmbh.de) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-09-05 | [`tri-tech.us`](https://google.com/search?q=tri-tech.us) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
