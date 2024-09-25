@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-09-25 | [`http://menningerclinic.org`](https://google.com/search?q=http%3A%2F%2Fmenningerclinic.org) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-09-25 | [`PetEdge`](https://google.com/search?q=PetEdge) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-09-24 | [`libraries.delaware.gov`](https://google.com/search?q=libraries.delaware.gov) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-09-24 | [`gsdwi.org`](https://google.com/search?q=gsdwi.org) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-09-06 | [`SESAM Informatics`](https://google.com/search?q=SESAM+Informatics) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-09-06 | [`riomarineinc.com\$56M\USA\490GB\&lt;1% DISCLOSED`](https://google.com/search?q=riomarineinc.com%5C%2456M%5CUSA%5C490GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-09-06 | [`champeau.com\$25.5M\Canada\130GB\&lt;1% DISCLOSED`](https://google.com/search?q=champeau.com%5C%2425.5M%5CCanada%5C130GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2024-09-06 | [`Custom Security Systems`](https://google.com/search?q=Custom+Security+Systems) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
