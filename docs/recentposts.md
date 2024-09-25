@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-09-25 | [`triverus.com`](https://google.com/search?q=triverus.com) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
+| 2024-09-25 | [`kjtait.com\$18.8M\United Kingdom\1.2TB\&lt;1% DISCLOSED`](https://google.com/search?q=kjtait.com%5C%2418.8M%5CUnited+Kingdom%5C1.2TB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
+| 2024-09-25 | [`www.amchar.com\$28.7M\USA\605GB\&lt;1% DISCLOSED`](https://google.com/search?q=www.amchar.com%5C%2428.7M%5CUSA%5C605GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-09-25 | [`hindlegroup.com\$30.6M\United Kingdom\380GB\&lt;1% DISCLOSED`](https://google.com/search?q=hindlegroup.com%5C%2430.6M%5CUnited+Kingdom%5C380GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-09-25 | [`http://menningerclinic.org`](https://google.com/search?q=http%3A%2F%2Fmenningerclinic.org) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-09-25 | [`PetEdge`](https://google.com/search?q=PetEdge) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2024-09-06 | [`briedis.lt`](https://google.com/search?q=briedis.lt) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-09-06 | [`CK Associates`](https://google.com/search?q=CK+Associates) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-09-06 | [`Keya Accounting and Tax Services LLC`](https://google.com/search?q=Keya+Accounting+and+Tax+Services+LLC) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2024-09-06 | [`Arbitech (arb.local)`](https://google.com/search?q=Arbitech+%28arb.local%29) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
-| 2024-09-06 | [`SESAM Informatics`](https://google.com/search?q=SESAM+Informatics) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2024-09-06 | [`riomarineinc.com\$56M\USA\490GB\&lt;1% DISCLOSED`](https://google.com/search?q=riomarineinc.com%5C%2456M%5CUSA%5C490GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
