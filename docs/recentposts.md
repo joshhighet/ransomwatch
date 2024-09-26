@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-09-26 | [`Israel foreign affairs minister Emails`](https://google.com/search?q=Israel+foreign+affairs+minister+Emails) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
+| 2024-09-26 | [`tolsa.com`](https://google.com/search?q=tolsa.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
 | 2024-09-25 | [`DETROIT PBS ( PUBLIC TV )`](https://google.com/search?q=DETROIT+PBS+%28+PUBLIC+TV+%29) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-09-25 | [`Concord Management S ervices`](https://google.com/search?q=Concord+Management+S+ervices) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-09-25 | [`Lawrie Insurance Gro up`](https://google.com/search?q=Lawrie+Insurance+Gro+up) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-09-09 | [`Exitz Technologies`](https://google.com/search?q=Exitz+Technologies) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-09-09 | [`Phoenix Air Conditioning &amp; Heating`](https://google.com/search?q=Phoenix+Air+Conditioning+%26amp%3B+Heating) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-09-09 | [`https://www.kashima-coat.com/`](https://google.com/search?q=https%3A%2F%2Fwww.kashima-coat.com%2F) | [cicada3301](https://ransomwatch.telemetry.ltd/#/profiles?id=cicada3301) |
-| 2024-09-08 | [`Stratford School Academy`](https://google.com/search?q=Stratford+School+Academy) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2024-09-07 | [`cardiovirginia.com`](https://google.com/search?q=cardiovirginia.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
