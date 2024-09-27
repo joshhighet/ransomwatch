@@ -4,6 +4,12 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-09-27 | [`www.law-taxes.pl`](https://google.com/search?q=www.law-taxes.pl) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-09-27 | [`www.tokiwa-group.co.jp`](https://google.com/search?q=www.tokiwa-group.co.jp) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-09-27 | [`www.careco.se`](https://google.com/search?q=www.careco.se) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-09-27 | [`www.vbrlogistica.com.br`](https://google.com/search?q=www.vbrlogistica.com.br) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-09-27 | [`www.naniwa-pump.co.jp`](https://google.com/search?q=www.naniwa-pump.co.jp) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-09-27 | [`http://www.lolaliza.com`](https://google.com/search?q=http%3A%2F%2Fwww.lolaliza.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-09-26 | [`Mile Hi Foods`](https://google.com/search?q=Mile+Hi+Foods) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-09-26 | [`Shenango Area School District`](https://google.com/search?q=Shenango+Area+School+District) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2024-09-26 | [`Schäfer, dein Bäcker GmbH & Co. KG`](https://google.com/search?q=Sch%C3%A4fer%2C+dein+B%C3%A4cker+GmbH+%26+Co.+KG) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
@@ -198,9 +204,3 @@ _last `200` posts_
 | 2024-09-09 | [`schynsassurances.be`](https://google.com/search?q=schynsassurances.be) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-09-09 | [`pv.be`](https://google.com/search?q=pv.be) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-09-09 | [`www.unige.it`](https://google.com/search?q=www.unige.it) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-09-09 | [`www.dpe.go.th`](https://google.com/search?q=www.dpe.go.th) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-09-09 | [`www.bsg.com.au`](https://google.com/search?q=www.bsg.com.au) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-09-09 | [`www.avf-biomedical.com`](https://google.com/search?q=www.avf-biomedical.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-09-09 | [`kahle cpa`](https://google.com/search?q=kahle+cpa) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
-| 2024-09-09 | [`Smart Source, Inc.`](https://google.com/search?q=Smart+Source%2C+Inc.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2024-09-09 | [`CAM - Tyre Trade Systems &amp; Solutions`](https://google.com/search?q=CAM+-+Tyre+Trade+Systems+%26amp%3B+Solutions) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
