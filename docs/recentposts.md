@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-09-28 | [`appweb.usinacoruripe.com.br`](https://google.com/search?q=appweb.usinacoruripe.com.br) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-09-28 | [`rockymountaingastro.com`](https://google.com/search?q=rockymountaingastro.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-09-28 | [`www.contegritygroup.com`](https://google.com/search?q=www.contegritygroup.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-09-28 | [`PipelBiz.com`](https://google.com/search?q=PipelBiz.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-09-28 | [`http://www.southernfiresprinkler.com`](https://google.com/search?q=http%3A%2F%2Fwww.southernfiresprinkler.com) | [ciphbit](https://ransomwatch.telemetry.ltd/#/profiles?id=ciphbit) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-09-10 | [`Qeco/coeq`](https://google.com/search?q=Qeco%2Fcoeq) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2024-09-10 | [`https://www.kadokawa.co.jp/`](https://google.com/search?q=https%3A%2F%2Fwww.kadokawa.co.jp%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-09-10 | [`Bank Rakyat`](https://google.com/search?q=Bank+Rakyat) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2024-09-10 | [`americagraphics.com`](https://google.com/search?q=americagraphics.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-09-09 | [`Pennsylvania State Education Association`](https://google.com/search?q=Pennsylvania+State+Education+Association) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
