@@ -4,6 +4,17 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-09-29 | [`The Rubber Resources`](https://google.com/search?q=The+Rubber+Resources) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-09-29 | [`Reutter`](https://google.com/search?q=Reutter) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-09-29 | [`Performance Food Centers`](https://google.com/search?q=Performance+Food+Centers) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-09-29 | [`InteriorWorx Commercial Flooring`](https://google.com/search?q=InteriorWorx+Commercial+Flooring) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-09-29 | [`Garvey`](https://google.com/search?q=Garvey) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-09-29 | [`G/S Solutions`](https://google.com/search?q=G%2FS+Solutions) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-09-29 | [`Condere Ip, Infracom Group`](https://google.com/search?q=Condere+Ip%2C+Infracom+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-09-29 | [`Classic Business Products`](https://google.com/search?q=Classic+Business+Products) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-09-29 | [`Andantex USA`](https://google.com/search?q=Andantex+USA) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-09-29 | [`Affirm Agency`](https://google.com/search?q=Affirm+Agency) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-09-29 | [`4B Components`](https://google.com/search?q=4B+Components) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-09-29 | [`cdc-biodiversite.fr`](https://google.com/search?q=cdc-biodiversite.fr) | [blackout](https://ransomwatch.telemetry.ltd/#/profiles?id=blackout) |
 | 2024-09-29 | [`markdom.com`](https://google.com/search?q=markdom.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-09-29 | [`nfe.fazenda.gov.br `](https://google.com/search?q=nfe.fazenda.gov.br+) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
@@ -193,14 +204,3 @@ _last `200` posts_
 | 2024-09-11 | [`Clatronic International GmbH`](https://google.com/search?q=Clatronic+International+GmbH) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2024-09-11 | [`Ladov Law Firm`](https://google.com/search?q=Ladov+Law+Firm) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-09-11 | [`ICBC London`](https://google.com/search?q=ICBC+London) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2024-09-10 | [`www.vinatiorganics.com`](https://google.com/search?q=www.vinatiorganics.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-09-10 | [`rupicard.com`](https://google.com/search?q=rupicard.com) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
-| 2024-09-10 | [`Weldco-Beales Manufacturing`](https://google.com/search?q=Weldco-Beales+Manufacturing) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-09-10 | [`Virginia Dare Extract Co.`](https://google.com/search?q=Virginia+Dare+Extract+Co.) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-09-10 | [`Southeast Cooler`](https://google.com/search?q=Southeast+Cooler) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-09-10 | [`PIGGLY WIGGLY ALABAMA DISTRIBUTING`](https://google.com/search?q=PIGGLY+WIGGLY+ALABAMA+DISTRIBUTING) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-09-10 | [`Joe Swartz Electric`](https://google.com/search?q=Joe+Swartz+Electric) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-09-10 | [`Evans Distribution Systems`](https://google.com/search?q=Evans+Distribution+Systems) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-09-10 | [`Elgin Separation Solutions`](https://google.com/search?q=Elgin+Separation+Solutions) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-09-10 | [`Bel-Air Bay Club`](https://google.com/search?q=Bel-Air+Bay+Club) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-09-10 | [`Vickers Engineering`](https://google.com/search?q=Vickers+Engineering) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
