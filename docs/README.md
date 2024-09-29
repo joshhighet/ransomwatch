@@ -1,20 +1,20 @@
 
 ## summary
-_september 28th, 2024_
+_september 29th, 2024_
 
 ransomwatch is currently crawling `427` sites belonging to `208` unique groups
 
-⏲ there have been `6` posts within the `last 24 hours`
+⏲ there have been `7` posts within the `last 24 hours`
 
-🦈 there have been `282` posts within the `month of september`
+🦈 there have been `283` posts within the `month of september`
 
-🪐 there have been `1113` posts within the `last 90 days`
+🪐 there have been `1114` posts within the `last 90 days`
 
-🏚 there have been `3690` posts within the `year of 2024`
+🏚 there have been `3691` posts within the `year of 2024`
 
-_⚙️ there are currently `112` online hosts & `132` custom parsers._
+_⚙️ there are currently `123` online hosts & `132` custom parsers._
 
-🦕 ransomwatch has been running for `3 years, 0 months and 20 days` and indexed `13147` posts
+🦕 ransomwatch has been running for `3 years, 0 months and 21 days` and indexed `13148` posts
 
 _all data  [(groups)](http://ransomwhat.telemetry.ltd/groups) and [(posts)](http://ransomwhat.telemetry.ltd/posts) is available in JSON (updated hourly)_
 
