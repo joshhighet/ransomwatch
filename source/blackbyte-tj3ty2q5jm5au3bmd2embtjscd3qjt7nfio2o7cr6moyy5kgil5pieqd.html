@@ -6,13 +6,13 @@
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>File downloader</title>
-    <link href="/assets/css/style.css?v=1727438706" rel="stylesheet">
+    <link href="/assets/css/style.css?v=1727604322" rel="stylesheet">
     <link href="/assets/css/bootstrap.min.css?" rel="stylesheet">
     <script src="/assets/js/jquery.min.js"></script>
     <link rel="shortcut icon" href="favicon.ico" type="image/x-icon"/>
     <script src="/assets/js/jquery.form.min.js"></script>
     <script src="/assets/js/bootstrap.min.js"></script>
-    <script src="/assets/js/script.js?v=1727438706"></script>
+    <script src="/assets/js/script.js?v=1727604322"></script>
 </head>
 <body>
 <div class="container">
@@ -885,7 +885,7 @@
 
 
 
-                        DeleteLocalFile(target_id,hash);
+                        // DeleteLocalFile(target_id,hash);
                     })
                 })
 
@@ -895,12 +895,12 @@
     function DownloadNow(hash){
         window.open("/download.php?hash="+hash);
     }
-    function DeleteLocalFile(target_id,hash){
-
-        $.post("/request.php",{t:"file",a:"delete",target_id:target_id,hash:hash},function (data) {
-
-        })
-    }
+    // function DeleteLocalFile(target_id,hash){
+    //
+    //     $.post("/request.php",{t:"file",a:"delete",target_id:target_id,hash:hash},function (data) {
+    //
+    //     })
+    // }
 
 </script>
 </body>
