@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-09-30 | [`McAbee Construction, Inc`](https://google.com/search?q=McAbee+Construction%2C+Inc) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-09-30 | [`Plastics Plus`](https://google.com/search?q=Plastics+Plus) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2024-09-30 | [`weisermemorialhospital.org`](https://google.com/search?q=weisermemorialhospital.org) | [embargo](https://ransomwatch.telemetry.ltd/#/profiles?id=embargo) |
 | 2024-09-29 | [`nfe.fazenda.gov.br`](https://google.com/search?q=nfe.fazenda.gov.br) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-09-11 | [`rangeramerican.com\$52.9M\USA\218GB\100% DISCLOSED`](https://google.com/search?q=rangeramerican.com%5C%2452.9M%5CUSA%5C218GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-09-11 | [`www.jatelindo.co.id`](https://google.com/search?q=www.jatelindo.co.id) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
 | 2024-09-11 | [`www.galgorm.com`](https://google.com/search?q=www.galgorm.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-09-11 | [`allamericanpoly.com`](https://google.com/search?q=allamericanpoly.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
