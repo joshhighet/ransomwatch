@@ -4,6 +4,14 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-09-30 | [`carlile-group.com`](https://google.com/search?q=carlile-group.com) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
+| 2024-09-30 | [`sacredheart.southwark.sch.uk`](https://google.com/search?q=sacredheart.southwark.sch.uk) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
+| 2024-09-30 | [`mctas.org.au`](https://google.com/search?q=mctas.org.au) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
+| 2024-09-30 | [`mnpl.com.sg`](https://google.com/search?q=mnpl.com.sg) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
+| 2024-09-30 | [`verco.co.uk`](https://google.com/search?q=verco.co.uk) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
+| 2024-09-30 | [`Keller Williams Realty Group`](https://google.com/search?q=Keller+Williams+Realty+Group) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
+| 2024-09-30 | [`canstarrestorations.com `](https://google.com/search?q=canstarrestorations.com+) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
+| 2024-09-30 | [`TOTVS`](https://google.com/search?q=TOTVS) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
 | 2024-09-30 | [`itap.nacc.go.th`](https://google.com/search?q=itap.nacc.go.th) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-09-30 | [`McAbee Construction, Inc`](https://google.com/search?q=McAbee+Construction%2C+Inc) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-09-30 | [`Plastics Plus`](https://google.com/search?q=Plastics+Plus) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
@@ -196,11 +204,3 @@ _last `200` posts_
 | 2024-09-13 | [`www.southeasternretina.com`](https://google.com/search?q=www.southeasternretina.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-09-13 | [`Ascend Analytics (ascendanalytics.com)`](https://google.com/search?q=Ascend+Analytics+%28ascendanalytics.com%29) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
 | 2024-09-13 | [`Kingsmill Resort`](https://google.com/search?q=Kingsmill+Resort) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
-| 2024-09-12 | [`brunswickhospitalcenter.org`](https://google.com/search?q=brunswickhospitalcenter.org) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
-| 2024-09-12 | [`ICBC (London)`](https://google.com/search?q=ICBC+%28London%29) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2024-09-12 | [`thornton-inc.com`](https://google.com/search?q=thornton-inc.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-09-12 | [`mechdyne.com`](https://google.com/search?q=mechdyne.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-09-12 | [`CNPS Cameroun`](https://google.com/search?q=CNPS+Cameroun) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
-| 2024-09-11 | [`mcphillips.co.uk\$40.8M\United Kingdom\1.2TB\100% DISCLOSED`](https://google.com/search?q=mcphillips.co.uk%5C%2440.8M%5CUnited+Kingdom%5C1.2TB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2024-09-11 | [`rangeramerican.com\$52.9M\USA\218GB\100% DISCLOSED`](https://google.com/search?q=rangeramerican.com%5C%2452.9M%5CUSA%5C218GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2024-09-11 | [`www.jatelindo.co.id`](https://google.com/search?q=www.jatelindo.co.id) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
