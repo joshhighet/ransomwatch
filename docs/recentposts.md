@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-10-01 | [`Turman`](https://google.com/search?q=Turman) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
+| 2024-10-01 | [`performance-therapies`](https://google.com/search?q=performance-therapies) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-10-01 | [`www.galab.com\$7.9M\Germany\120GB\&lt;1% DISCLOSED`](https://google.com/search?q=www.galab.com%5C%247.9M%5CGermany%5C120GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-10-01 | [`credihealth.com`](https://google.com/search?q=credihealth.com) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-10-01 | [`telehealthcenter.in`](https://google.com/search?q=telehealthcenter.in) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-09-13 | [`Benson Kearley IFG - Insurance Brokers and Financial Advisors`](https://google.com/search?q=Benson+Kearley+IFG+-+Insurance+Brokers+and+Financial+Advisors) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-09-13 | [`https://hostetlergroup.com/`](https://google.com/search?q=https%3A%2F%2Fhostetlergroup.com%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-09-13 | [`VIcom Corporation`](https://google.com/search?q=VIcom+Corporation) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2024-09-13 | [`HB Construction`](https://google.com/search?q=HB+Construction) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2024-09-13 | [`Associated Building Specialties`](https://google.com/search?q=Associated+Building+Specialties) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
