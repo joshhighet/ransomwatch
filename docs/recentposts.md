@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-10-01 | [`Cascade Columbia Dis tribution`](https://google.com/search?q=Cascade+Columbia+Dis+tribution) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
+| 2024-10-01 | [`ShoreMaster`](https://google.com/search?q=ShoreMaster) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
+| 2024-10-01 | [`CSG Consultants`](https://google.com/search?q=CSG+Consultants) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-10-01 | [`Enviromental Design  International`](https://google.com/search?q=Enviromental+Design++International) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-10-01 | [`www.asobostudio.com`](https://google.com/search?q=www.asobostudio.com) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
 | 2024-10-01 | [`Turman`](https://google.com/search?q=Turman) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2024-09-13 | [`True Family Enterprises`](https://google.com/search?q=True+Family+Enterprises) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-09-13 | [`Dimensional Merchandising`](https://google.com/search?q=Dimensional+Merchandising) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-09-13 | [`Creative Playthings`](https://google.com/search?q=Creative+Playthings) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-09-13 | [`KlockMetal`](https://google.com/search?q=KlockMetal) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2024-09-13 | [`Law Offices of Michael J Gurfinkel, Inc`](https://google.com/search?q=Law+Offices+of+Michael+J+Gurfinkel%2C+Inc) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2024-09-13 | [`Benson Kearley IFG - Insurance Brokers and Financial Advisors`](https://google.com/search?q=Benson+Kearley+IFG+-+Insurance+Brokers+and+Financial+Advisors) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
