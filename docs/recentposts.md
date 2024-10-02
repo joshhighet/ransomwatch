@@ -4,6 +4,15 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-10-02 | [`mccartycompany.com`](https://google.com/search?q=mccartycompany.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-10-02 | [`bypeterandpauls.com`](https://google.com/search?q=bypeterandpauls.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-10-02 | [`domainindustries.com`](https://google.com/search?q=domainindustries.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-10-02 | [`ironmetals.com`](https://google.com/search?q=ironmetals.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-10-02 | [`rollxvans.com`](https://google.com/search?q=rollxvans.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-10-02 | [`ten8fire.com\$149M\USA\240GB\100% DISCLOSED`](https://google.com/search?q=ten8fire.com%5C%24149M%5CUSA%5C240GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
+| 2024-10-02 | [`hindlegroup.com\$30.6M\United Kingdom\380GB\100% DISCLOSED`](https://google.com/search?q=hindlegroup.com%5C%2430.6M%5CUnited+Kingdom%5C380GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
+| 2024-10-02 | [`kjtait.com\$18.8M\United Kingdom\1.2TB\100% DISCLOSED`](https://google.com/search?q=kjtait.com%5C%2418.8M%5CUnited+Kingdom%5C1.2TB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
+| 2024-10-02 | [`www.amchar.com\$28.7M\USA\605GB\100% DISCLOSED`](https://google.com/search?q=www.amchar.com%5C%2428.7M%5CUSA%5C605GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-10-02 | [`ETC Companies`](https://google.com/search?q=ETC+Companies) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-10-02 | [`Holmes & Brakel`](https://google.com/search?q=Holmes+%26+Brakel) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-10-02 | [`Israel Prime Minister Emails`](https://google.com/search?q=Israel+Prime+Minister+Emails) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
@@ -195,12 +204,3 @@ _last `200` posts_
 | 2024-09-15 | [`accuraterailroad.com`](https://google.com/search?q=accuraterailroad.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-09-15 | [`advantagecdc.org`](https://google.com/search?q=advantagecdc.org) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-09-15 | [`lafuturasrl.it`](https://google.com/search?q=lafuturasrl.it) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-09-15 | [`Emtel`](https://google.com/search?q=Emtel) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
-| 2024-09-15 | [`EAGLE School`](https://google.com/search?q=EAGLE+School) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
-| 2024-09-15 | [`www.rockymountaingastro.com`](https://google.com/search?q=www.rockymountaingastro.com) | [trinity](https://ransomwatch.telemetry.ltd/#/profiles?id=trinity) |
-| 2024-09-15 | [`INTERNAL.ROCKYMOUNTAINGASTRO.COM`](https://google.com/search?q=INTERNAL.ROCKYMOUNTAINGASTRO.COM) | [trinity](https://ransomwatch.telemetry.ltd/#/profiles?id=trinity) |
-| 2024-09-15 | [`Announcement 9-14`](https://google.com/search?q=Announcement+9-14) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
-| 2024-09-15 | [`Gino Giglio Generation Spa`](https://google.com/search?q=Gino+Giglio+Generation+Spa) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
-| 2024-09-15 | [`Rextech`](https://google.com/search?q=Rextech) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
-| 2024-09-15 | [`Like Family&#8217;s`](https://google.com/search?q=Like+Family%26%238217%3Bs) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
-| 2024-09-15 | [`UNI-PA A.Ş`](https://google.com/search?q=UNI-PA+A.%C5%9E) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
