@@ -8,11 +8,11 @@
     <title>BB Auction</title>
     <link href="/dist/font-awesome.min.css" rel="stylesheet">
     <link href="/dist/css/bootstrap.css" rel="stylesheet">
-    <link href="/blog.css?v=1727971463" rel="stylesheet">
+    <link href="/blog.css?v=1727985929" rel="stylesheet">
     <script src="/assets/js/jquery-2.1.3.min.js"></script>
     <script src="/assets/js/vendor/popper.min.js"></script>
     <script src="/dist/js/bootstrap.min.js"></script>
-    <script src="/script.js?v=1727971463"></script>
+    <script src="/script.js?v=1727985929"></script>
     <script src="/dist/js/jquery.twbsPagination.min.js"></script>
     <script src="/dist/js/jquery.copy-to-clipboard.js"></script>
 </head>
@@ -57,13 +57,13 @@
         </div>
     </header>
 
-    <div id="bg_popups">
-        <div id="popups">
-            <h1 class="popups-name">New Info</h1>
-            <p class="popups-bname">Dear users of our blog, we inform you that now you can download company files through tor-addresses, for each company will be placed an individual number of files, you can download and view all files of current and future corporations, to go to view and also download files you need to go to the page with files click on the button "data company list"</p>
-            <a class="closes" href="#" title="Close" onclick="document.getElementById('bg_popups').style.display='none'; return false;">X</a>
-        </div>
-    </div>
+<!--    <div id="bg_popups">-->
+<!--        <div id="popups">-->
+<!--            <h1 class="popups-name"></h1>-->
+<!--            <p class="popups-bname"></p>-->
+<!--            <a class="closes" href="#" title="Close" onclick="document.getElementById('bg_popups').style.display='none'; return false;">X</a>-->
+<!--        </div>-->
+<!--    </div>-->
 
     <div class="row cont1" style="display: none">
 
@@ -5237,12 +5237,12 @@ As Key High-tech Enterprise of State Torch Plan, we have world class factory wit
 
 
 
-    var delay_popup = 3000;
-    $(function(){
-        setTimeout(function () {
-            document.getElementById('bg_popups').style.display='block'
-        }, delay_popup);
-    });
+    // var delay_popup = 3000;
+    // $(function(){
+    //     setTimeout(function () {
+    //         document.getElementById('bg_popups').style.display='block'
+    //     }, delay_popup);
+    // });
         $("#copier").on('click', function () {
             CopyToClipboard("BlackByteSupp0rt@onionmail.org",'body');
             var element = $(this);
