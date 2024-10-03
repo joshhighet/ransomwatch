@@ -1,35 +1,3 @@
-<html>
-<head>
-<title>0mega.cc</title>
-<script type="text/javascript" src="/js/fingerprint/iife.min.js"></script>
-<script type="text/javascript">
-var redirect_link = 'http://0mega.cc/?';
-
-// Set a timeout of 300 microseconds to execute a redirect if the fingerprint promise fails for some reason
-function fallbackRedirect() {
-	window.location.replace(redirect_link+'fp=-7');
-}
-
-try {
-	const rdrTimeout = setTimeout(fallbackRedirect, 300);
-	var fpPromise = FingerprintJS.load({monitoring: false});
-	fpPromise
-		.then(fp => fp.get())
-		.then(
-			result => { 
-				var fprt = 'fp='+result.visitorId;
-				clearTimeout(rdrTimeout);
-				window.location.replace(redirect_link+fprt);
-		});
-} catch(err) {
-	fallbackRedirect();
-}
-
-</script>
-<style> body { background:#101c36 } </style>
-</head>
-<body bgcolor="#ffffff" text="#000000">
-<div style='display: none;'><a href='http://0mega.cc/?fp=-3'>Click here to enter</a></div>
-<noscript><meta http-equiv="refresh" content="0; URL=http://0mega.cc/?fp=-5"></noscript>
-</body>
-</html>
+<html><body><h1>408 Request Time-out</h1>
+Your browser didn't send a complete request in time.
+</body></html>
