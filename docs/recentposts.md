@@ -4,6 +4,10 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-10-04 | [`GW Mechanical`](https://google.com/search?q=GW+Mechanical) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
+| 2024-10-04 | [`Dreyfuss + Blackford Architecture`](https://google.com/search?q=Dreyfuss+%2B+Blackford+Architecture) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
+| 2024-10-04 | [`Amplitude Laser`](https://google.com/search?q=Amplitude+Laser) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
+| 2024-10-04 | [`Fursan Travel`](https://google.com/search?q=Fursan+Travel) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2024-10-04 | [`enterpriseoutsourcing.com`](https://google.com/search?q=enterpriseoutsourcing.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-10-04 | [`McGaughey &amp; Keaney CPAs `](https://google.com/search?q=McGaughey+%26amp%3B+Keaney+CPAs+) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-10-04 | [`DPC DATA `](https://google.com/search?q=DPC+DATA+) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
@@ -200,7 +204,3 @@ _last `200` posts_
 | 2024-09-16 | [`www.adantia.es`](https://google.com/search?q=www.adantia.es) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-09-16 | [`topdoctors.com`](https://google.com/search?q=topdoctors.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-09-16 | [`www.taperuvicha.com`](https://google.com/search?q=www.taperuvicha.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-09-16 | [`Cruz Marine (cruz.local)`](https://google.com/search?q=Cruz+Marine+%28cruz.local%29) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
-| 2024-09-16 | [`SuperCommerce.ai`](https://google.com/search?q=SuperCommerce.ai) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
-| 2024-09-16 | [`oipip.gda.pl`](https://google.com/search?q=oipip.gda.pl) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-09-16 | [`kryptonresources.com`](https://google.com/search?q=kryptonresources.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
