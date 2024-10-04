@@ -4,6 +4,10 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-10-04 | [`releese.io`](https://google.com/search?q=releese.io) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-10-04 | [`kleberandassociates.com`](https://google.com/search?q=kleberandassociates.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-10-04 | [`https://genproinc.com/`](https://google.com/search?q=https%3A%2F%2Fgenproinc.com%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
+| 2024-10-04 | [`City Of Forest Park - Full Leak`](https://google.com/search?q=City+Of+Forest+Park+-+Full+Leak) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2024-10-04 | [`Riley Gear Corporati on`](https://google.com/search?q=Riley+Gear+Corporati+on) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-10-04 | [`TANYA Creations`](https://google.com/search?q=TANYA+Creations) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-10-04 | [`http://www.copysmart.us`](https://google.com/search?q=http%3A%2F%2Fwww.copysmart.us) | [ciphbit](https://ransomwatch.telemetry.ltd/#/profiles?id=ciphbit) |
@@ -200,7 +204,3 @@ _last `200` posts_
 | 2024-09-16 | [`Rsp`](https://google.com/search?q=Rsp) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-09-16 | [`Protective Industrial Products`](https://google.com/search?q=Protective+Industrial+Products) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-09-16 | [`Multidata`](https://google.com/search?q=Multidata) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-09-16 | [`Inktel`](https://google.com/search?q=Inktel) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-09-16 | [`Hariri Pontarini Architects`](https://google.com/search?q=Hariri+Pontarini+Architects) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-09-16 | [`Baskervill`](https://google.com/search?q=Baskervill) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-09-16 | [`www.8010urbanliving.com`](https://google.com/search?q=www.8010urbanliving.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
