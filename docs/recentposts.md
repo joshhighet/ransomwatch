@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-10-04 | [`DPC DATA `](https://google.com/search?q=DPC+DATA+) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-10-04 | [`https://corstat.com`](https://google.com/search?q=https%3A%2F%2Fcorstat.com) | [cicada3301](https://ransomwatch.telemetry.ltd/#/profiles?id=cicada3301) |
 | 2024-10-04 | [`bbgc.gov.bd`](https://google.com/search?q=bbgc.gov.bd) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-10-03 | [`CobelPlast`](https://google.com/search?q=CobelPlast) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-09-16 | [`kryptonresources.com`](https://google.com/search?q=kryptonresources.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-09-16 | [`www.tta.cls`](https://google.com/search?q=www.tta.cls) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-09-16 | [`Port of Seattle`](https://google.com/search?q=Port+of+Seattle) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2024-09-16 | [`MCNA Dental 1 million patients records`](https://google.com/search?q=MCNA+Dental+1+million+patients+records) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
