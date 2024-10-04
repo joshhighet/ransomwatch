@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-10-04 | [`Riley Gear Corporati on`](https://google.com/search?q=Riley+Gear+Corporati+on) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
+| 2024-10-04 | [`TANYA Creations`](https://google.com/search?q=TANYA+Creations) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-10-04 | [`http://www.copysmart.us`](https://google.com/search?q=http%3A%2F%2Fwww.copysmart.us) | [ciphbit](https://ransomwatch.telemetry.ltd/#/profiles?id=ciphbit) |
 | 2024-10-04 | [`North American Break er`](https://google.com/search?q=North+American+Break+er) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-10-04 | [`GW Mechanical`](https://google.com/search?q=GW+Mechanical) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-09-16 | [`Hariri Pontarini Architects`](https://google.com/search?q=Hariri+Pontarini+Architects) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-09-16 | [`Baskervill`](https://google.com/search?q=Baskervill) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-09-16 | [`www.8010urbanliving.com`](https://google.com/search?q=www.8010urbanliving.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-09-16 | [`www.faithfc.org`](https://google.com/search?q=www.faithfc.org) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-09-16 | [`www.adantia.es`](https://google.com/search?q=www.adantia.es) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
