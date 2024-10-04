@@ -4,6 +4,11 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-10-04 | [`Wilmington Convention Center`](https://google.com/search?q=Wilmington+Convention+Center) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-10-04 | [`Pete's Road Service`](https://google.com/search?q=Pete%27s+Road+Service) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-10-04 | [`Markdom Plastic Products`](https://google.com/search?q=Markdom+Plastic+Products) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-10-04 | [`Guerriere & Halnon`](https://google.com/search?q=Guerriere+%26+Halnon) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-10-04 | [`C&L Ward`](https://google.com/search?q=C%26L+Ward) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-10-04 | [`releese.io`](https://google.com/search?q=releese.io) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-10-04 | [`kleberandassociates.com`](https://google.com/search?q=kleberandassociates.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-10-04 | [`https://genproinc.com/`](https://google.com/search?q=https%3A%2F%2Fgenproinc.com%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
@@ -199,8 +204,3 @@ _last `200` posts_
 | 2024-09-17 | [`natcoglobal.com\$38.5M\USA\111GB\100% DISCLOSED`](https://google.com/search?q=natcoglobal.com%5C%2438.5M%5CUSA%5C111GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-09-17 | [`peerlessumbrella.com\$23.2M\USA\131GB\100% DISCLOSED`](https://google.com/search?q=peerlessumbrella.com%5C%2423.2M%5CUSA%5C131GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-09-17 | [`thomas-lloyd.com\$66.1M\USA\2.4TB\&lt;1% DISCLOSED`](https://google.com/search?q=thomas-lloyd.com%5C%2466.1M%5CUSA%5C2.4TB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2024-09-17 | [`Mitsubishi Chemical Group pt.2`](https://google.com/search?q=Mitsubishi+Chemical+Group+pt.2) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
-| 2024-09-16 | [`Port of Seattle/Seattle-Tacoma International Airport (SEA)`](https://google.com/search?q=Port+of+Seattle%2FSeattle-Tacoma+International+Airport+%28SEA%29) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2024-09-16 | [`Rsp`](https://google.com/search?q=Rsp) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-09-16 | [`Protective Industrial Products`](https://google.com/search?q=Protective+Industrial+Products) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-09-16 | [`Multidata`](https://google.com/search?q=Multidata) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
