@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-10-05 | [`Ibermutuamur`](https://google.com/search?q=Ibermutuamur) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-10-05 | [`betterhalf.ai`](https://google.com/search?q=betterhalf.ai) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-10-05 | [`omniboxx.nl`](https://google.com/search?q=omniboxx.nl) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-10-05 | [`BNBuilders`](https://google.com/search?q=BNBuilders) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-09-17 | [`AutoCanada`](https://google.com/search?q=AutoCanada) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-09-17 | [`gestiriego.com`](https://google.com/search?q=gestiriego.com) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
 | 2024-09-17 | [`Sherr Puttmann Akins Lamb PC`](https://google.com/search?q=Sherr+Puttmann+Akins+Lamb+PC) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2024-09-17 | [`riomarineinc.com\$56M\USA\490GB\100% DISCLOSED`](https://google.com/search?q=riomarineinc.com%5C%2456M%5CUSA%5C490GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
