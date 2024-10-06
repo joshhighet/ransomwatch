@@ -5,12 +5,12 @@
     <meta content='width=device-width, initial-scale=2, maximum-scale=4, user-scalable=no, shrink-to-fit=no' name='viewport' />
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
 
-    <title>Trinity</title>
+    <title>rans</title>
     <meta name="csrf-param" content="authenticity_token" />
-<meta name="csrf-token" content="yXAGlzinTZ3u_107EbgACK9SRQmSKaUrGIcSQSs-Grgj-cvjcym3t06E-2hDDC05yTKCsN1JOThUfsTVdffIsQ" />
+<meta name="csrf-token" content="5VB-v7yiAFs5kc8rTvWneUMyCkEiwOg9KBqbbhrNB-0XxiLxLyAmy2fWMD_lNTGBu2Yz_zN2pkRrDx_HUO6gYQ" />
     
-    <script src="/assets/application-cedf91bd872063c04b62f583291c38291d3d11801ba9aea91959d7c46c86cc0b.js" data-turbo-track="reload" type="module"></script>
-    <link rel="stylesheet" href="/assets/panel_style-23f576bd69a82973788bb0b8a1172855d3e601c1d186a69463301035e5f869ba.css" data-turbo-track="reload" />
+    <script src="/assets/application-5e92c570ff614354c4294bdd1070313dbcf5a10e92099ab9e4a3a2680aeb0668.js" data-turbo-track="reload" type="module"></script>
+    <link rel="stylesheet" href="/assets/panel_style-3393127244ea8ea381bf23caec14737264250d5a89bde715c5116536ddd94e0e.css" data-turbo-track="reload" />
 
     <link rel="stylesheet" href="/assets/application-34019796b88e0efb530d16cf2d99f3e288cd790c910e978759cc91e68554bf0d.css" data-turbo-track="reload" />
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -23,7 +23,8 @@
   </head>
 
 <body>
-            <turbo-frame id="remote_modal" target="_top"></turbo-frame>
+
+            <div id="modal"></div>
         
         <div class="container-fluid pt-4 px-4">
 <p style="color: green"></p>
@@ -63,6 +64,7 @@
       <p>
         <a href="/articles/8">Show leakes</a>
       </p>
+      
     </div>
 
     </div>
@@ -99,6 +101,7 @@
       <p>
         <a href="/articles/9">Show leakes</a>
       </p>
+      
     </div>
 
     </div>
@@ -135,6 +138,7 @@
       <p>
         <a href="/articles/10">Show leakes</a>
       </p>
+      
     </div>
 
     </div>
@@ -174,6 +178,7 @@
       <p>
         <a href="/articles/11">Show leakes</a>
       </p>
+      
     </div>
 
     </div>
@@ -210,13 +215,20 @@
       <p>
         <a href="/articles/12">Show leakes</a>
       </p>
+      
     </div>
 
     </div>
   </div>
   <br>  
 </div>
+    <script>
+        $( document ).ready(function() {
 
+      // hide spinner
+      $("#spinner").removeClass('show');
+    });
+</script>
 </body>
 
 </html>
