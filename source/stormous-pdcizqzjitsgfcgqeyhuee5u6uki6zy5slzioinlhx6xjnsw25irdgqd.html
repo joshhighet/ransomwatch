@@ -1,1956 +1,829 @@
 <!DOCTYPE html>
-<html lang="ru">
+<html>
 <head>
-    <meta charset="utf-8" />
-    <link rel="icon" type="ddcef3d0fe4bb39" href="vendors/images/stm.ico">
-    <title>StormouS.X BLOG</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
-    <link rel="stylesheet" type="text/css" href="vendors/styles/core.css" />
-    <link rel="stylesheet" type="text/css" href="vendors/styles/icon-font.min.css" />
-    <link rel="stylesheet" type="text/css" href="vendors/styles/style.css" />
+<link rel="icon" type="ddcef3d0fe4bb39" href="images/companyimage/ico/stm.ico">
+<title>StormouS.X*Blog</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
+<style>
+body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
+body {
+    background-image: url('images/stm.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    background-color: #000; 
+    color: white;
+}
+
+header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 32px;
+}
+
+#custom-box {
+    max-width: 600px;
+    width: 100%;
+    height: auto;
+    background-color: rgba(0, 0, 0, 0.7); 
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    text-align: center;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+#custom-box h1 {
+    margin: 0;
+    font-size: 36px;
+    font-weight: bold;
+    color: #fff;
+}
+
+#button-container {
+    margin-top: 15px;
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+}
+
+.button {
+    width: 48%;
+    padding: 10px;
+    font-size: 14px;
+    background-color: #fff;
+    border: 2px solid #ddd;
+    color: #000;
+    text-decoration: none;
+    border-radius: 5px;
+    text-align: center;
+    transition: 0.3s;
+}
+
+.button:hover {
+    background-color: #ddd;
+    color: #111;
+    border-color: #ccc;
+}
+
+.info-box {
+    background-color: rgba(25, 25, 25, 0.8); 
+    color: white;
+    border-radius: 15px;
+    padding: 25px;
+    margin-bottom: 20px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+    position: relative;
+    transition: 0.3s;
+}
+
+.info-box:hover {
+    background-color: rgba(35, 35, 35, 0.9);
+    transform: translateY(-5px);
+}
+
+.thumbnail-container {
+    margin-top: 15px;
+    display: flex;
+    justify-content: start;
+    gap: 10px;
+}
+
+.thumbnail {
+    width: 150px; 
+    height: 150px; 
+    border-radius: 5px;
+    cursor: pointer;
+    transition: transform 0.3s, box-shadow 0.3s;
+    object-fit: cover;
+    border: 2px solid rgb(132, 235, 140); 
+    box-shadow: 0 0 5px rgba(252, 244, 136, 0.7); 
+}
+
+.thumbnail:hover {
+    transform: scale(1.1);
+    box-shadow: 0 0 15px rgb(252, 244, 136); 
+}
+
+#image-modal {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.9);
+    justify-content: center;
+    align-items: center;
+}
+
+#image-modal img {
+    max-width: 90%;
+    max-height: 90%;
+}
+
+#image-modal:target {
+    display: flex;
+}
+
+#image-modal a {
+    position: absolute;
+    top: 10px;
+    right: 20px;
+    color: white;
+    font-size: 30px;
+    text-decoration: none;
+}
+
+#download-box {
+    background-color: rgba(0, 128, 0, 0.8); 
+    border: 2px solid #fff;
+    border-radius: 10px;
+    padding: 15px;
+    margin-top: 15px;
+    text-align: center;
+}
+#download-boxA {
+    background-color: rgba(247, 163, 163, 0.8); 
+    border: 2px solid #000000;
+    border-radius: 10px;
+    padding: 15px;
+    margin-top: 15px;
+    text-align: center;
+}
+
+#download-box a {
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+    border: 2px solid #fff;
+    padding: 10px 20px;
+    border-radius: 5px;
+    display: inline-block;
+}
+
+#download-box a:hover {
+    background-color: #fff;
+    color: #000;
+}
+
+h3 {
+    font-size: 24px;
+    font-weight: bold;
+    color: #f8f8f8; 
+}
+
+p {
+    font-size: 16px;
+    color: #d0d0d0;
+    line-height: 1.6; 
+}
+
+a {
+    color: #00aaff;
+    text-decoration: none;
+    font-size: 14px;
+}
+
+a:hover {
+    color: #66d9ff;
+}
+
+h5 {
+    font-size: 18px;
+    font-weight: bold;
+    color: #ffae00; 
+}
+
+#contact-modal {
+    display: none; 
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.8); 
+    justify-content: center;
+    align-items: center;
+    z-index: 1000; 
+}
+
+#modal-content {
+    background-color: rgba(35, 35, 35, 0.9); 
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.close-button {
+    background-color: #ff4444;
+    color: white;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+.close-button:hover {
+    background-color: #ff0000; 
+}
+</style>
 </head>
-	<body>
-		
+<body>
 
-		<div class="header">
-			<div class="header-left">
-				<div class="menu-icon bi bi-list"></div>
-				<div
-					class="search-toggle-icon bi bi-search"
-					data-toggle="header_search"
-				></div>
-				<div class="header-search">
-					<form>
-						<div class="form-group mb-0">
-							<i class="dw dw-search2 search-icon"></i>
-							<input
-								type="text"
-								class="form-control search-input"
-								placeholder="Search"
-							/>
-							<div class="dropdown">
-								<a
-									class="dropdown-toggle no-arrow"
-									href="#"
-									role="button"
-									data-toggle="dropdown"
-								>
-									<i class="ion-arrow-down-c"></i>
-								</a>
-								<div class="dropdown-menu dropdown-menu-right">									
-									<div class="form-group row">									
-									</div>							
-								</div>
-							</div>
-						</div>
-					</form>
-				</div>
-			</div>
-			<div class="header-right">
-				<div class="dashboard-setting user-notification">
-					<div class="dropdown">
-						<a
-							class="dropdown-toggle no-arrow"
-							href="javascript:;"
-							data-toggle="right-sidebar"
-						>
-							<i class="dw dw-settings2"></i>
-						</a>
-					</div>
-				</div>
-				
-				<div class="user-notification">				
-				  <div class="dropdown">
-					
-					<a
-							class="dropdown-toggle no-arrow"
-							href="#"
-							role="button"
-							data-toggle="dropdown"
-						>
-							<i class="icon-copy dw dw-notification"></i>
-							<span class="badge notification-active"></span>
-						</a>
+<header class="w3-container w3-center w3-padding-32"> 
+  <div id="custom-box">
+    <h1>Stormous Ransomware</h1>
+    <div id="button-container">
+      <a href="javascript:void(0);" class="button" onclick="showContactModal()">Contact Us</a>
+      <a href="https://t.me/StmXRaaS" class="button" target="_blank">Telegram</a>
+    </div>
+  </div>
+</header>
 
-						<div class="dropdown-menu dropdown-menu-right"></div>
-							<div class="notification-list mx-h-350 customscroll">
-							</div>
-						</div>
-					</div>
-				</div>
-				
-				
-				<div class="user-info-dropdown">
-					<div class="dropdown">										
-					</div>
-				</div>				
-			</div>
-		</div>
-	
-	
-		<div class="right-sidebar">
-			<div class="sidebar-title">	
-				<div class="close-sidebar" data-toggle="right-sidebar-close">
-					<i class="icon-copy ion-close-round"></i>
-				</div>
-			</div>
-			<div class="right-sidebar-body customscroll">
-				<div class="right-sidebar-body-content">
-					<h4 class="weight-600 font-18 pb-10">Header Background</h4>
-					<div class="sidebar-btn-group pb-30 mb-10">
-						<a
-							href="javascript:void(0);"
-							class="btn btn-outline-primary header-white active"
-							>White</a
-						>
-						<a
-							href="javascript:void(0);"
-							class="btn btn-outline-primary header-dark"
-							>Dark</a
-						>
-					</div>
-					<h4 class="weight-600 font-18 pb-10">Sidebar Background</h4>
-					<div class="sidebar-btn-group pb-30 mb-10">
-						<a
-							href="javascript:void(0);"
-							class="btn btn-outline-primary sidebar-light"
-							>White</a
-						>
-						<a
-							href="javascript:void(0);"
-							class="btn btn-outline-primary sidebar-dark active"
-							>Dark</a
-						>
-					</div>				
-				</div>
-			</div>
-		</div>
-		
-		<div class="left-side-bar">
-		<div class="brand-logo">
-			<a href="index.html">
-				<img src="" alt="" class="dark-logo" />
-				<img
-					src=""
-					alt=""
-					class="light-logo"
-				/>
-			</a>
-				<div class="close-sidebar" data-toggle="left-sidebar-close">
-					<i class="ion-close-round"></i>
-				</div>
-			</div>
-			
-			
-			<div class="menu-block customscroll">
-				<div class="sidebar-menu">
-					<ul id="accordion-menu">
-						<li class="dropdown">
-							<a href="javascript:;" class="dropdown-toggle">
-								<img src="vendors/images/stm.ico" alt="" width="25"
-								/>
-								<span class="mtext">Home</span>
-							</a>							
-						</li>					
-						<li>
-							<a href="javascript:;" class="dropdown-toggle">
-								<img src="vendors/images/ico/rules.jpg" alt="" width="25"
-								/>
-								<span class="mtext">Affiliate Rules </span>			
-							</a>
-							<ul class="submenu">
-								<li><a href="fes-e87d-9987f-96s-zzd6.html">Program Usage Guidelines</a></li>						
-							</ul>
-						</li>
-					
-						<li>
-							<a href="t.me/StmXRaaS" class="dropdown-toggle no-arrow">
-								<img src="vendors/images/ico/tg.png" alt="" width="25"
-								/>								
-								<span class="mtext">telegram</span>							
-							</a>
-						</li>
-						
-						</span>							
-							</a>
-						
-						</li>
+<div id="contact-modal" class="modal">
+  <div id="modal-content">
+    <h2>Contact Information</h2>
+    <p>TOX ID: C286720F7592E5668A932F1D06EDEECBAFACB3BE369632C908F9511D072C142575BA8109CBC6</p>
+    <button class="close-button" onclick="closeContactModal()">Close</button>
+  </div>
+</div>
 
-						<li>
-							<a href="http://6sf5xa7eso3e3vk46i5tpcqhnlayczztj7zjktzaztlotyy75zs6j7qd.onion/" class="dropdown-toggle no-arrow">
-								<img src="vendors/images/ico/data.png" alt="" width="25"
-								/>								
-								<span class="mtext">Data leak</span>							
-							</a>
-						</li>
+<script>
+function showContactModal() {
+    document.getElementById("contact-modal").style.display = "flex"; 
+}
 
-						<li>
-							<a href="contact.html" class="dropdown-toggle no-arrow">
-								<img src="vendors/images/ico/contact.png" alt="" width="25"
-								/>								
-								<span class="mtext">Contact</span>							
-							</a>
-						</li>
-					</ul>
-				</div>
-			</div>
-		</div>
-
-		
-
-		<div class="mobile-menu-overlay"></div>
-		<div class="main-container">
-			<div class="xs-pd-20-10 pd-ltr-20">
-				<div class="row pb-10">
-					<div class="col-xl-3 col-lg-3 col-md-6 mb-20">
-						<div class="card-box height-100-p widget-style3">
-							<div class="d-flex flex-wrap">
-								<div class="widget-data">
-									<div class="weight-700 font-24 text-dark">+2</div>
-									<div class="font-14 text-secondary weight-500">
-										Stormous.X
-									</div>
-								</div>
-								<div class="">
-									<div class="icon" data-color="#00eccf">
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-				
-				
-					<div class="col-xl-3 col-lg-3 col-md-6 mb-20">
-						<div class="card-box height-100-p widget-style3">
-							<div class="d-flex flex-wrap">
-								<div class="widget-data">
-									<div class="weight-700 font-24 text-dark">+0</div>
-									<div class="font-14 text-secondary weight-500">
-										Today leaks
-									</div>
-								</div>
-								<div class="">
-									<div class="icon" data-color="#ff5b5b">
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-					
-					
-					<div class="col-xl-3 col-lg-3 col-md-6 mb-20">
-						<div class="card-box height-100-p widget-style3">
-							<div class="d-flex flex-wrap">
-								<div class="widget-data">
-									<div class="weight-700 font-24 text-dark">+120</div>
-									<div class="font-14 text-secondary weight-500">
-										Number of victims"21/24"
-									</div>
-								</div>
-								<div class="">
-									<div class="icon">										
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-			
-			
-					<div class="col-xl-3 col-lg-3 col-md-6 mb-20">
-						<div class="card-box height-100-p widget-style3">
-							<div class="d-flex flex-wrap">
-								<div class="widget-data">
-									<div class="weight-700 font-24 text-dark">$5 million</div>
-									<div class="font-14 text-secondary weight-500">largest ransom</div>
-								</div>
-								<div class="widget-icon">
-									<div class="icon" data-color="#09cc06">
-										<i class="icon-copy fa fa-money" aria-hidden="true"></i>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-
-				
-	
-				<div class="card-box pb-10">
-					<div class="h5 pd-20 mb-0">Last victims</div>
-					<table class="data-table table nowrap">
-						<thead>
-							<tr>
-								<th class="table-plus">Name</th>
-								<th>Country</th>
-								<th>size</th>
-								<th>site</th>
-								<th>Date</th>
-								<th>Status</th>
-							</tr>	
-						</thead>
-
-
-
-						<tbody>						
-							<tr style="background-color: rgb(252, 139, 139);">
-						
-								<td class="table-plus">
-									<div class="name-avatar d-flex align-items-center">
-										<div class="avatar mr-2 flex-shrink-0">
-											<img src="vendors/images/companyimage/nasa.jfif"
-												 class="border-radius-100 shadow"
-												 width="40"
-												 height="40"
-												 alt=""
-											/>
-										</div>
-										<div class="txt">
-											<div class="weight-600">NASA/AOSense</div>
-										</div>
-									</div>
-								</td>
-								<td>US</td>
-								<td>?</td>
-								<td>www.nasa.gov</td>
-								<td>5/10/2024</td>
-								<td>
-									<div class="table-actions">
-										<div id="timer54" style="color: rgb(224, 2, 2); font-size: small;"></div>
-									</div>
-								</td>
-								<td>
-									<div class="table-actions">
-										<a href="http://6sf5xa7eso3e3vk46i5tpcqhnlayczztj7zjktzaztlotyy75zs6j7qd.onion/AoSense_File_Tree.rar" data-color="#265ed7"
-										 class="border-radius-100 shadow" style="width: 40px; height: 40px; background-color: #f03c3c; text-align: center; line-height: 40px; font-size: small;">
-										 5%
-									</div>
-								</td>
-							</tr>
-							<script> 
-								var targetDate54 = new Date('October 17, 2024').getTime(); 
-								var timerDisplay54 = document.getElementById('timer54'); 
-								var timerInterval54 = setInterval(function() { 
-									var now54 = new Date().getTime(); 
-									var distance54 = targetDate54 - now54; 
-									
-									var days54 = Math.floor(distance54 / (1000 * 60 * 60 * 24)); 
-									var hours54 = Math.floor((distance54 % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60)); 
-									var minutes54 = Math.floor((distance54 % (1000 * 60 * 60)) / (1000 * 60)); 
-									var seconds54 = Math.floor((distance54 % (1000 * 60)) / 1000); 
-									
-									timerDisplay54.innerHTML = days54 + "d " + hours54 + "h " + minutes54 + "m " + seconds54 + "s "; 
-									
-									if (distance54 < 0) { 
-										clearInterval(timerInterval54); 
-										timerDisplay54.innerHTML = "FINISHED"; 
-									} 
-								}, 1000); 
-							</script>
-
-
-
-
-							
-						<tbody>						
-							<tr style="background-color: rgb(252, 139, 139);">
-						
-								<td class="table-plus">
-									<div class="name-avatar d-flex align-items-center">
-										<div class="avatar mr-2 flex-shrink-0">
-											<img src="vendors/images/companyimage/aosense.jfif"
-												 class="border-radius-100 shadow"
-												 width="40"
-												 height="40"
-												 alt=""
-											/>
-										</div>
-										<div class="txt">
-											<div class="weight-600">AOSense/NASA</div>
-										</div>
-									</div>
-								</td>
-								<td>US</td>
-								<td>1TB</td>
-								<td>www.aosense.com</td>
-								<td>5/10/2024</td>
-								<td>
-									<div class="table-actions">
-										<div id="timer53" style="color: rgb(224, 2, 2); font-size: small;"></div>
-									</div>
-								</td>
-								<td>
-									<div class="table-actions">
-										<a href="http://6sf5xa7eso3e3vk46i5tpcqhnlayczztj7zjktzaztlotyy75zs6j7qd.onion/AoSense_File_Tree.rar" data-color="#265ed7"
-										 class="border-radius-100 shadow" style="width: 40px; height: 40px; background-color: #f03c3c; text-align: center; line-height: 40px; font-size: small;">
-										 5%
-									</div>
-								</td>
-							</tr>
-							<script> 
-								var targetDate53 = new Date('October 17, 2024').getTime(); 
-								var timerDisplay53 = document.getElementById('timer53'); 
-								var timerInterval53 = setInterval(function() { 
-									var now53 = new Date().getTime(); 
-									var distance53 = targetDate53 - now53; 
-									
-									var days53 = Math.floor(distance53 / (1000 * 60 * 60 * 24)); 
-									var hours53 = Math.floor((distance53 % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60)); 
-									var minutes53 = Math.floor((distance53 % (1000 * 60 * 60)) / (1000 * 60)); 
-									var seconds53 = Math.floor((distance53 % (1000 * 60)) / 1000); 
-									
-									timerDisplay53.innerHTML = days53 + "d " + hours53 + "h " + minutes53 + "m " + seconds53 + "s "; 
-									
-									if (distance53 < 0) { 
-										clearInterval(timerInterval53); 
-										timerDisplay53.innerHTML = "FINISHED"; 
-									} 
-								}, 1000); 
-							</script>
-
-
-
-
-						<tbody>						
-							<tr style="background-color: rgb(151, 247, 175);">
-						
-								<td class="table-plus">
-									<div class="name-avatar d-flex align-items-center">
-										<div class="avatar mr-2 flex-shrink-0">
-											<img src="vendors/images/companyimage/?"
-												 class="border-radius-100 shadow"
-												 width="40"
-												 height="40"
-												 alt=""
-											/>
-										</div>
-										<div class="txt">
-											<div class="weight-600">lyra.officegroup.it</div>
-										</div>
-									</div>
-								</td>
-								<td>?</td>
-								<td>1GB</td>
-								<td>lyra.officegroup.it</td>
-								<td>3/10/2024</td>
-								<td>
-									<div class="table-actions">
-										<div id="timer52" style="color: rgb(41, 182, 6); font-size: small;"></div>
-									</div>
-								</td>
-								<td>
-									<div class="table-actions">
-										<a href="http://6sf5xa7eso3e3vk46i5tpcqhnlayczztj7zjktzaztlotyy75zs6j7qd.onion/lyra.officegroup.it.rar" data-color="#265ed7"
-										 class="border-radius-100 shadow" style="width: 40px; height: 40px; background-color: #17e704; text-align: center; line-height: 40px; font-size: small;">
-										 100%
-									</div>
-								</td>
-							</tr>
-							<script> 
-								var targetDate52 = new Date('October 3, 2024').getTime(); 
-								var timerDisplay52 = document.getElementById('timer52'); 
-								var timerInterval52 = setInterval(function() { 
-									var now52 = new Date().getTime(); 
-									var distance52 = targetDate52 - now52; 
-									
-									var days52 = Math.floor(distance52 / (1000 * 60 * 60 * 24)); 
-									var hours52 = Math.floor((distance52 % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60)); 
-									var minutes52 = Math.floor((distance52 % (1000 * 60 * 60)) / (1000 * 60)); 
-									var seconds52 = Math.floor((distance52 % (1000 * 60)) / 1000); 
-									
-									timerDisplay52.innerHTML = days52 + "d " + hours52 + "h " + minutes52 + "m " + seconds52 + "s "; 
-									
-									if (distance52 < 0) { 
-										clearInterval(timerInterval52); 
-										timerDisplay52.innerHTML = "FINISHED"; 
-									} 
-								}, 1000); 
-							</script>
-
-
-
-
-						<tbody>						
-							<tr style="background-color: rgb(252, 139, 139);">
-						
-								<td class="table-plus">
-									<div class="name-avatar d-flex align-items-center">
-										<div class="avatar mr-2 flex-shrink-0">
-											<img src="vendors/images/companyimage/acuity.jfif"
-												 class="border-radius-100 shadow"
-												 width="40"
-												 height="40"
-												 alt=""
-											/>
-										</div>
-										<div class="txt">
-											<div class="weight-600">Acuity Advisor</div>
-										</div>
-									</div>
-								</td>
-								<td>United Kingdom</td>
-								<td>4GB</td>
-								<td>www.acuity.co.uk</td>
-								<td>1/10/2024</td>
-								<td>
-									<div class="table-actions">
-										<div id="timer50" style="color: rgb(224, 2, 2); font-size: small;"></div>
-									</div>
-								</td>
-								<td>
-									<div class="table-actions">
-										<a href="http://6sf5xa7eso3e3vk46i5tpcqhnlayczztj7zjktzaztlotyy75zs6j7qd.onion/" data-color="#265ed7"
-										 class="border-radius-100 shadow" style="width: 40px; height: 40px; background-color: #f03c3c; text-align: center; line-height: 40px; font-size: small;">
-										 2%
-									</div>
-								</td>
-							</tr>
-							<script> 
-								var targetDate50 = new Date('October 8, 2024').getTime(); 
-								var timerDisplay50 = document.getElementById('timer50'); 
-								var timerInterval50 = setInterval(function() { 
-									var now50 = new Date().getTime(); 
-									var distance50 = targetDate50 - now50; 
-									 
-									var days50 = Math.floor(distance50 / (1000 * 60 * 60 * 24)); 
-									var hours50 = Math.floor((distance50 % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60)); 
-									var minutes50 = Math.floor((distance50 % (1000 * 60 * 60)) / (1000 * 60)); 
-									var seconds50 = Math.floor((distance50 % (1000 * 60)) / 1000); 
-									 
-									timerDisplay50.innerHTML = days50 + "d " + hours50 + "h " + minutes50 + "m " + seconds50 + "s "; 
-									 
-									if (distance50 < 0) { 
-										clearInterval(timerInterval50); 
-										timerDisplay50.innerHTML = "FINISHED"; 
-									} 
-								}, 1000); 
-							</script>
-
-					
-						
-						<tbody>						
-							<tr style="background-color: rgb(151, 247, 175);">
-						
-								<td class="table-plus">
-									<div class="name-avatar d-flex align-items-center">
-										<div class="avatar mr-2 flex-shrink-0">
-											<img src="vendors/images/companyimage/?"
-												 class="border-radius-100 shadow"
-												 width="40"
-												 height="40"
-												 alt=""
-											/>
-										</div>
-										<div class="txt">
-											<div class="weight-600">mivideo.club</div>
-										</div>
-									</div>
-								</td>
-								<td>?</td>
-								<td>3GB</td>
-								<td>www.mivideo.club</td>
-								<td>13/09/2024</td>
-								<td>
-									<div class="table-actions">
-										<div id="timer48" style="color: rgb(41, 182, 6); font-size: small;"></div>
-									</div>
-								</td>
-								<td>
-									<div class="table-actions">
-										<a href="http://6sf5xa7eso3e3vk46i5tpcqhnlayczztj7zjktzaztlotyy75zs6j7qd.onion/" data-color="#265ed7"
-										 class="border-radius-100 shadow" style="width: 40px; height: 40px; background-color: #17e704; text-align: center; line-height: 40px; font-size: small;">
-										 100%
-									</div>
-								</td>
-							</tr>
-							<script>
-								var targetDate48 = new Date('September 13, 2024').getTime();
-								var timerDisplay48 = document.getElementById('timer48');
-								var timerInterval48 = setInterval(function() {
-									var now48 = new Date().getTime();
-									var distance48 = targetDate48 - now48;
-									
-									var days48 = Math.floor(distance48 / (1000 * 60 * 60 * 24));
-									var hours48 = Math.floor((distance48 % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
-									var minutes48 = Math.floor((distance48 % (1000 * 60 * 60)) / (1000 * 60));
-									var seconds48 = Math.floor((distance48 % (1000 * 60)) / 1000);
-									
-									timerDisplay48.innerHTML = days48 + "d " + hours48 + "h " + minutes48 + "m " + seconds48 + "s ";
-									
-									if (distance48 < 0) {
-										clearInterval(timerInterval48);
-										timerDisplay48.innerHTML = "FINISHED";
-									}
-								}, 1000);
-							</script>
-
-
-				
-						<tbody>						
-							<tr style="background-color: rgb(151, 247, 175);">
-						
-								<td class="table-plus">
-									<div class="name-avatar d-flex align-items-center">
-										<div class="avatar mr-2 flex-shrink-0">
-											<img src="vendors/images/companyimage/?"
-												 class="border-radius-100 shadow"
-												 width="40"
-												 height="40"
-												 alt=""
-											/>
-										</div>
-										<div class="txt">
-											<div class="weight-600">jatelindo</div>
-										</div>
-									</div>
-								</td>
-								<td>IndonÃ©sie</td>
-								<td>?GB</td>
-								<td>www.jatelindo.co.id</td>
-								<td>11/09/2024</td>
-								<td>
-									<div class="table-actions">
-										<div id="timer47" style="color: rgb(41, 182, 6); font-size: small;"></div>
-									</div>
-								</td>
-								<td>
-									<div class="table-actions">
-										<a href="http://6sf5xa7eso3e3vk46i5tpcqhnlayczztj7zjktzaztlotyy75zs6j7qd.onion/" data-color="#265ed7"
-										 class="border-radius-100 shadow" style="width: 40px; height: 40px; background-color: #17e704; text-align: center; line-height: 40px; font-size: small;">
-										 100%
-									</div>
-								</td>
-							</tr>
-							<script>
-								var targetDate47 = new Date('July 12, 2024').getTime();
-								var timerDisplay47 = document.getElementById('timer47');
-								var timerInterval47 = setInterval(function() {
-									var now47 = new Date().getTime();
-									var distance47 = targetDate47 - now47;
-									
-									var days47 = Math.floor(distance47 / (1000 * 60 * 60 * 24));
-									var hours47 = Math.floor((distance47 % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
-									var minutes47 = Math.floor((distance47 % (1000 * 60 * 60)) / (1000 * 60));
-									var seconds47 = Math.floor((distance47 % (1000 * 60)) / 1000);
-									
-									timerDisplay47.innerHTML = days47 + "d " + hours47 + "h " + minutes47 + "m " + seconds47 + "s ";
-									
-									if (distance47 < 0) {
-										clearInterval(timerInterval47);
-										timerDisplay47.innerHTML = "FINISHED";
-									}
-								}, 1000);
-							</script>
-
-
-
-						<tbody>						
-							<tr style="background-color: rgb(151, 247, 175);">
-						
-								<td class="table-plus">
-									<div class="name-avatar d-flex align-items-center">
-										<div class="avatar mr-2 flex-shrink-0">
-											<img src="vendors/images/companyimage/intrama-bg.png"
-												 class="border-radius-100 shadow"
-												 width="40"
-												 height="40"
-												 alt=""
-											/>
-										</div>
-										<div class="txt">
-											<div class="weight-600">intrama-bg</div>
-										</div>
-									</div>
-								</td>
-								<td>Bulgaria</td>
-								<td>120GB</td>
-								<td>intrama-bg.com</td>
-								<td>28/07/2024</td>
-								<td>
-									<div class="table-actions">
-										<div id="timer46" style="color: rgb(41, 182, 6); font-size: small;"></div>
-									</div>
-								</td>
-								<td>
-									<div class="table-actions">
-										<a href="http://6sf5xa7eso3e3vk46i5tpcqhnlayczztj7zjktzaztlotyy75zs6j7qd.onion" data-color="#265ed7"
-										 class="border-radius-100 shadow" style="width: 40px; height: 40px; background-color: #17e704; text-align: center; line-height: 40px; font-size: small;">
-										 100%
-									</div>
-								</td>
-							</tr>
-							<script>
-								var targetDate46 = new Date('July 11, 2024').getTime();
-								var timerDisplay46 = document.getElementById('timer46');
-								var timerInterval46 = setInterval(function() {
-									var now46 = new Date().getTime();
-									var distance46 = targetDate46 - now46;
-								
-									var days46 = Math.floor(distance46 / (1000 * 60 * 60 * 24));
-									var hours46 = Math.floor((distance46 % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
-									var minutes46 = Math.floor((distance46 % (1000 * 60 * 60)) / (1000 * 60));
-									var seconds46 = Math.floor((distance46 % (1000 * 60)) / 1000);
-								
-									timerDisplay46.innerHTML = days46 + "d " + hours46 + "h " + minutes46 + "m " + seconds46 + "s ";
-								
-									if (distance46 < 0) {
-										clearInterval(timerInterval46);
-										timerDisplay46.innerHTML = "FINISHED";
-									}
-								}, 1000);
-							</script>
-							
-								
-						<tbody>						
-							<tr style="background-color: rgb(151, 247, 175);">
-						
-								<td class="table-plus">
-									<div class="name-avatar d-flex align-items-center">
-										<div class="avatar mr-2 flex-shrink-0">
-											<img src="vendors/images/companyimage/hitc-logo.png"
-												 class="border-radius-100 shadow"
-												 width="40"
-												 height="40"
-												 alt=""
-											/>
-										</div>
-										<div class="txt">
-											<div class="weight-600">HITC.VN</div>
-										</div>
-									</div>
-								</td>
-								<td>Vietnam</td>
-								<td>182GB</td>
-								<td>hitc.vn</td>
-								<td>30/06/2024</td>
-								<td>
-									<div class="table-actions">
-										<div id="timer45" style="color: rgb(41, 182, 6); font-size: small;"></div>
-									</div>
-								</td>
-								<td>
-									<div class="table-actions">
-										<a href="http://6sf5xa7eso3e3vk46i5tpcqhnlayczztj7zjktzaztlotyy75zs6j7qd.onion" data-color="#265ed7"
-										 class="border-radius-100 shadow" style="width: 40px; height: 40px; background-color: #17e704; text-align: center; line-height: 40px; font-size: small;">
-										 100%
-									</div>
-								</td>
-							</tr>
-							<script>
-								var targetDate45 = new Date('July 6, 2024').getTime();
-								var timerDisplay45 = document.getElementById('timer45');
-								var timerInterval45 = setInterval(function() {
-									var now45 = new Date().getTime();
-									var distance45 = targetDate45 - now45;
-							
-									var days45 = Math.floor(distance45 / (1000 * 60 * 60 * 24));
-									var hours45 = Math.floor((distance45 % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
-									var minutes45 = Math.floor((distance45 % (1000 * 60 * 60)) / (1000 * 60));
-									var seconds45 = Math.floor((distance45 % (1000 * 60)) / 1000);
-							
-									timerDisplay45.innerHTML = days45 + "d " + hours45 + "h " + minutes45 + "m " + seconds45 + "s ";
-							
-									if (distance45 < 0) {
-										clearInterval(timerInterval45);
-										timerDisplay45.innerHTML = "FINISHED";
-									}
-								}, 1000);
-							</script>
-							
-							
-								
-						<tbody>						
-							<tr style="background-color: rgb(151, 247, 175);">
-						
-								<td class="table-plus">
-									<div class="name-avatar d-flex align-items-center">
-										<div class="avatar mr-2 flex-shrink-0">
-											<img src="vendors/images/companyimage/"
-												 class="border-radius-100 shadow"
-												 width="40"
-												 height="40"
-												 alt=""
-											/>
-										</div>
-										<div class="txt">
-											<div class="weight-600">kidx</div>
-										</div>
-									</div>
-								</td>
-								<td>UAE</td>
-								<td>?</td>
-								<td>kidx.ae</td>
-								<td>02/05/2024</td>
-								<td>
-									<div class="table-actions">
-										<div id="timer31" style="color: rgb(41, 182, 6); font-size: small;"></div>
-									</div>
-								</td>
-								<td>
-									<div class="table-actions">
-										<a href="http://7ct6k2azuio4dpu32gxkfeomcrakpo3ixqkeckiiurvpklfhlzpzsyqd.onion/" data-color="#265ed7"
-										 class="border-radius-100 shadow" style="width: 40px; height: 40px; background-color: #17e704; text-align: center; line-height: 40px; font-size: small;">
-										 100%;
-									</div>
-								</td>
-							</tr>
-							<script>
-								var targetDate31 = new Date('May 9, 2024').getTime();
-								var timerDisplay31 = document.getElementById('timer31');
-								var timerInterval31 = setInterval(function() {
-									var now31 = new Date().getTime();
-									var distance31 = targetDate31 - now31;
-							
-									var days31 = Math.floor(distance31 / (1000 * 60 * 60 * 24));
-									var hours31 = Math.floor((distance31 % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
-									var minutes31 = Math.floor((distance31 % (1000 * 60 * 60)) / (1000 * 60));
-									var seconds31 = Math.floor((distance31 % (1000 * 60)) / 1000);
-							
-									timerDisplay31.innerHTML = days31 + "d " + hours31 + "h " + minutes31 + "m " + seconds31 + "s ";
-							
-									if (distance31 < 0) {
-										clearInterval(timerInterval31);
-										timerDisplay31.innerHTML = "FINISHED";
-									}
-								}, 1000);
-							</script>
-							
-							
-								
-						<tbody>						
-							<tr style="background-color: rgb(151, 247, 175);">
-						
-								<td class="table-plus">
-									<div class="name-avatar d-flex align-items-center">
-										<div class="avatar mr-2 flex-shrink-0">
-											<img src="vendors/images/companyimage/Logo_en.png"
-												 class="border-radius-100 shadow"
-												 width="40"
-												 height="40"
-												 alt=""
-											/>
-										</div>
-										<div class="txt">
-											<div class="weight-600">Bayanat</div>
-										</div>
-									</div>
-								</td>
-								<td>UAE</td>
-								<td>?</td>
-								<td>Bayanat.ae</td>
-								<td>02/05/2024</td>
-								<td>
-									<div class="table-actions">
-										<div id="timer30" style="color: rgb(41, 182, 6); font-size: small;"></div>
-
-									</div>
-								</td>
-								<td>
-									<div class="table-actions">
-										<a href="" data-color="#265ed7"
-										 class="border-radius-100 shadow" style="width: 40px; height: 40px; background-color: #17e704; text-align: center; line-height: 40px; font-size: small;">
-										 100%
-									</div>
-								</td>
-							</tr>
-							<script>
-								var targetDate30 = new Date('May 9, 2024').getTime();
-								var timerDisplay30 = document.getElementById('timer30');
-								var timerInterval30 = setInterval(function() {
-									var now30 = new Date().getTime();
-									var distance30 = targetDate30 - now30;
-							
-									var days30 = Math.floor(distance30 / (1000 * 60 * 60 * 24));
-									var hours30 = Math.floor((distance30 % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
-									var minutes30 = Math.floor((distance30 % (1000 * 60 * 60)) / (1000 * 60));
-									var seconds30 = Math.floor((distance30 % (1000 * 60)) / 1000);
-							
-									timerDisplay30.innerHTML = days30 + "d " + hours30 + "h " + minutes30 + "m " + seconds30 + "s ";
-							
-									if (distance30 < 0) {
-										clearInterval(timerInterval30);
-										timerDisplay30.innerHTML = "FINISHED";
-									}
-								}, 1000);
-							</script>
-							
-								
-
-						<tbody>						
-							<tr style="background-color: rgb(151, 247, 175);">
-						
-								<td class="table-plus">
-									<div class="name-avatar d-flex align-items-center">
-										<div class="avatar mr-2 flex-shrink-0">
-											<img src="vendors/images/companyimage/gov-logo.png"
-												 class="border-radius-100 shadow"
-												 width="40"
-												 height="40"
-												 alt=""
-											/>
-										</div>
-										<div class="txt">
-											<div class="weight-600">fanr.gov.ae</div>
-										</div>
-									</div>
-								</td>
-								<td>UAE</td>
-								<td>?</td>
-								<td>fanr.gov.ae</td>
-								<td>02/05/2024</td>
-								<td>
-									<div class="table-actions">
-										<div id="timer29" style="color: rgb(41, 182, 6); font-size: small;"></div>
-									</div>
-								</td>
-								<td>
-									<div class="table-actions">
-										<a href="http://7ct6k2azuio4dpu32gxkfeomcrakpo3ixqkeckiiurvpklfhlzpzsyqd.onion/" data-color="#265ed7"
-										 class="border-radius-100 shadow" style="width: 40px; height: 40px; background-color: #17e704; text-align: center; line-height: 40px; font-size: small;">
-										 100%
-									</div>
-								</td>
-							</tr>
-							<script>
-								var targetDate29 = new Date('May 9, 2024').getTime();
-								var timerDisplay29 = document.getElementById('timer29');
-								var timerInterval29 = setInterval(function() {
-									var now29 = new Date().getTime();
-									var distance29 = targetDate29 - now29;
-							
-									var days29 = Math.floor(distance29 / (1000 * 60 * 60 * 24));
-									var hours29 = Math.floor((distance29 % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
-									var minutes29 = Math.floor((distance29 % (1000 * 60 * 60)) / (1000 * 60));
-									var seconds29 = Math.floor((distance29 % (1000 * 60)) / 1000);
-							
-									timerDisplay29.innerHTML = days29 + "d " + hours29 + "h " + minutes29 + "m " + seconds29 + "s ";
-							
-									if (distance29 < 0) {
-										clearInterval(timerInterval29);
-										timerDisplay29.innerHTML = "FINISHED";
-									}
-								}, 1000);
-							</script>
-							
-
-						<tbody>						
-							<tr style="background-color: rgb(151, 247, 175);">
-						
-								<td class="table-plus">
-									<div class="name-avatar d-flex align-items-center">
-										<div class="avatar mr-2 flex-shrink-0">
-											<img src="vendors/images/companyimage/UAEGoldNew-01.png"
-												 class="border-radius-100 shadow"
-												 width="40"
-												 height="40"
-												 alt=""
-											/>
-										</div>
-										<div class="txt">
-											<div class="weight-600">tdra</div>
-										</div>
-									</div>
-								</td>
-								<td>UAE</td>
-								<td>?</td>
-								<td>tdra.gov.ae</td>
-								<td>02/05/2024</td>
-								<td>
-									<div class="table-actions">
-										<div id="timer28" style="color: rgb(41, 182, 6); font-size: small;"></div>
-									</div>
-								</td>
-								<td>
-									<div class="table-actions">
-										<a href="http://7ct6k2azuio4dpu32gxkfeomcrakpo3ixqkeckiiurvpklfhlzpzsyqd.onion/" data-color="#265ed7"
-										 class="border-radius-100 shadow" style="width: 40px; height: 40px; background-color:#17e704; text-align: center; line-height: 40px; font-size: small;">
-										 100%
-									</div>
-								</td>
-							</tr>
-				<script>
-    var targetDate28 = new Date('May 9, 2024').getTime();
-    var timerDisplay28 = document.getElementById('timer28');
-    var timerInterval28 = setInterval(function() {
-        var now28 = new Date().getTime();
-        var distance28 = targetDate28 - now28;
-
-        var days28 = Math.floor(distance28 / (1000 * 60 * 60 * 24));
-        var hours28 = Math.floor((distance28 % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
-        var minutes28 = Math.floor((distance28 % (1000 * 60 * 60)) / (1000 * 60));
-        var seconds28 = Math.floor((distance28 % (1000 * 60)) / 1000);
-
-        timerDisplay28.innerHTML = days28 + "d " + hours28 + "h " + minutes28 + "m " + seconds28 + "s ";
-
-        if (distance28 < 0) {
-            clearInterval(timerInterval28);
-            timerDisplay28.innerHTML = "FINISHED";
-        }
-    }, 1000);
+function closeContactModal() {
+    document.getElementById("contact-modal").style.display = "none"; 
+}
 </script>
+</header>
 
-							
-						
+<div class="w3-content" style="max-width:1400px">
+  <div class="w3-row"> 
 
-<tbody>						
-	<tr style="background-color: rgb(151, 247, 175);">
-						
-								<td class="table-plus">
-									<div class="name-avatar d-flex align-items-center">
-										<div class="avatar mr-2 flex-shrink-0">
-											<img src="vendors/images/companyimage/Sharik Arabic.svg"
-												 class="border-radius-100 shadow"
-												 width="40"
-												 height="40"
-												 alt=""
-											/>
-										</div>
-										<div class="txt">
-											<div class="weight-600">sharik</div>
-										</div>
-									</div>
-								</td>
-								<td>UAE</td>
-								<td>?</td>
-								<td>sharik.ae</td>
-								<td>02/05/2024</td>
-								<td>
-									<div class="table-actions">
-										<div id="timer27" style="color: rgb(41, 182, 6); font-size: small;"></div>
-									</div>
-								</td>
-								<td>
-									<div class="table-actions">
-										<a href="http://7ct6k2azuio4dpu32gxkfeomcrakpo3ixqkeckiiurvpklfhlzpzsyqd.onion/" data-color="#265ed7"
-										 class="border-radius-100 shadow" style="width: 40px; height: 40px; background-color: #17e704; text-align: center; line-height: 40px; font-size: small;">
-										 100%
-									</div>
-								</td>
-							</tr>
-						<script>
-    var targetDate27 = new Date('May 9, 2024').getTime();
-    var timerDisplay27 = document.getElementById('timer27');
-    var timerInterval27 = setInterval(function() {
-        var now27 = new Date().getTime();
-        var distance27 = targetDate27 - now27;
+ <!-- 15 COMPANY POST -->
+ <div class="w3-col">
+    <div class="w3-card-4 w3-margin info-box">
+       <div class="w3-container">
+         <div style="padding-left: 0%">
+           <div class="w3-half" style="height: 60px;">
+             <h3><b>AOSense/NASA</b></h3>
+           </div>
+           <div class="w3-half" style="height: 60px;">
+           </div>
+           <p><a href="www.aosense.com" target="_blank">www.aosense.com</a></p>
+           <h5>Size: 1TB</h5>
+           <h5>Status: Pending</h5>
+		   <h5>PROOF:</h5>
 
-        var days27 = Math.floor(distance27 / (1000 * 60 * 60 * 24));
-        var hours27 = Math.floor((distance27 % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
-        var minutes27 = Math.floor((distance27 % (1000 * 60 * 60)) / (1000 * 60));
-        var seconds27 = Math.floor((distance27 % (1000 * 60)) / 1000);
+		   <div class="thumbnail-container">
+            <img src="images/companyimage/AOSense/1.png" alt="Thumbnail" class="thumbnail" onclick="openImageModal('images/companyimage/AOSense/1.png')">
+            <img src="images/companyimage/AOSense/2.png" alt="Thumbnail" class="thumbnail" onclick="openImageModal('images/companyimage/AOSense/2.png')">
+            <img src="images/companyimage/AOSense/3.png" alt="Thumbnail" class="thumbnail" onclick="openImageModal('images/companyimage/AOSense/3.png')">
+            <img src="images/companyimage/AOSense/4.png" alt="Thumbnail" class="thumbnail" onclick="openImageModal('images/companyimage/AOSense/4.png')">
+            <img src="images/companyimage/AOSense/5.png" alt="Thumbnail" class="thumbnail" onclick="openImageModal('images/companyimage/AOSense/5.png')">
+            <img src="images/companyimage/AOSense/6.png" alt="Thumbnail" class="thumbnail" onclick="openImageModal('images/companyimage/AOSense/6.png')">
+          </div>
+          
+          <div id="image-modal" class="modal">
+            <img id="modal-image" src="" alt="Enlarged Image">
+            <a href="javascript:void(0);" class="close-button" onclick="closeImageModal()">Ã</a>
+          </div>
+          
+          <script>
+          function openImageModal(imageSrc) {
+              document.getElementById("modal-image").src = imageSrc; 
+              document.getElementById("image-modal").style.display = "flex"; 
+          }
+          
+          function closeImageModal() {
+              document.getElementById("image-modal").style.display = "none"; 
+          }
+          </script>
 
-        timerDisplay27.innerHTML = days27 + "d " + hours27 + "h " + minutes27 + "m " + seconds27 + "s ";
+           <div id="download-boxA">
+             <a href="http://6sf5xa7eso3e3vk46i5tpcqhnlayczztj7zjktzaztlotyy75zs6j7qd.onion" download>Pending</a>
 
-        if (distance27 < 0) {
-            clearInterval(timerInterval27);
-            timerDisplay27.innerHTML = "FINISHED";
-        }
-    }, 1000);
-</script>
+            </div>
+         </div>
+       </div>
+     </div>
+   </div>  
 
+  <!-- 14 COMPANY POST -->
+  <div class="w3-col">
+    <div class="w3-card-4 w3-margin info-box">
+       <div class="w3-container">
+         <div style="padding-left: 0%">
+           <div class="w3-half" style="height: 60px;">
+             <h3><b>lyra.officegroup</b></h3>
+           </div>
+           <div class="w3-half" style="height: 60px;">
+           </div>
+           <p><a href="lyra.officegroup.it" target="_blank">lyra.officegroup.it</a></p>
+           <h5>Size: 1GB</h5>
+           <h5>Status: Leaked</h5>
+           <p></p>
+           
+         
+          
+           <div class="thumbnail-container">
+            <a href="#image-modal">
+              <img src="" alt="" class="thumbnail">
+            </a>
+          </div>
 
-
-
-						
-						<tbody>						
-							<tr style="background-color: rgb(151, 247, 175);">
-						
-								<td class="table-plus">
-									<div class="name-avatar d-flex align-items-center">
-										<div class="avatar mr-2 flex-shrink-0">
-											<img src="vendors/images/companyimage/casio.jpg"
-												 class="border-radius-100 shadow"
-												 width="40"
-												 height="40"
-												 alt=""
-											/>
-										</div>
-										<div class="txt">
-											<div class="weight-600">casio india</div>
-										</div>
-									</div>
-								</td>
-								<td>India</td>
-								<td>200GB+</td>
-								<td>casio.co.in</td>
-								<td>05/04/2024</td>
-								<td>
-									<div class="table-actions">
-										<div id="timer26" style="color: rgb(41, 182, 6); font-size: small;"></div>
-									</div>
-								</td>
-								<td>
-									<div class="table-actions">
-										<a href="https://gofile.io/d/fIRohi" data-color="#265ed7"
-										 class="border-radius-100 shadow" style="width: 40px; height: 40px; background-color: #17e704; text-align: center; line-height: 40px; font-size: small;">
-										 100%
-									</div>
-								</td>
-							</tr>
-							<script>
-                                var targetDate26 = new Date('April 22, 2024').getTime();
-								var timerDisplay26 = document.getElementById('timer26');
-								var timerInterval26 = setInterval(function() {
-									var now26 = new Date().getTime();
-									var distance26 = targetDate26 - now26;
-							
-									var days26 = Math.floor(distance26 / (1000 * 60 * 60 * 24));
-									var hours26 = Math.floor((distance26 % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
-									var minutes26 = Math.floor((distance26 % (1000 * 60 * 60)) / (1000 * 60));
-									var seconds26 = Math.floor((distance26 % (1000 * 60)) / 1000);
-							
-									timerDisplay26.innerHTML = days26 + "d " + hours26 + "h " + minutes26 + "m " + seconds26 + "s ";
-							
-									if (distance26 < 0) {
-										clearInterval(timerInterval26);
-										timerDisplay26.innerHTML = "FINISHED";
-									}
-								}, 1000);
-							</script>
-							
-						
-						<tbody>						
-							<tr style="background-color: rgb(151, 247, 175);">
-						
-								<td class="table-plus">
-									<div class="name-avatar d-flex align-items-center">
-										<div class="avatar mr-2 flex-shrink-0">
-											<img src="vendors/images/companyimage/Berjaya Clubs_logo.png"
-												 class="border-radius-100 shadow"
-												 width="40"
-												 height="40"
-												 alt=""
-											/>
-										</div>
-										<div class="txt">
-											<div class="weight-600">berjayaclubs</div>
-										</div>
-									</div>
-								</td>
-								<td>Malaysia</td>
-								<td>?</td>
-								<td>www.berjayaclubs.com</td>
-								<td>20/03/2024</td>
-								<td>
-									<div class="table-actions">
-										<div id="timer22" style="color: rgb(41, 182, 6); font-size: small;"></div>
-									</div>
-								</td>
-								<td>
-									<div class="table-actions">
-										<a href="https://gofile.io/d/3tmUxA" data-color="#265ed7"
-										 class="border-radius-100 shadow" style="width: 40px; height: 40px; background-color: #17e704; text-align: center; line-height: 40px; font-size: small;">
-										 100%
-									</div>
-								</td>
-							</tr>
-							<script>
-								var targetDate22 = new Date().getTime();
-								var timerDisplay22 = document.getElementById('timer22');
-								var timerInterval22 = setInterval(function() {
-									var now22 = new Date().getTime();
-									var distance22 = targetDate22 - now22;
-							
-									var days22 = Math.floor(distance22 / (1000 * 60 * 60 * 24));
-									var hours22 = Math.floor((distance22 % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
-									var minutes22 = Math.floor((distance22 % (1000 * 60 * 60)) / (1000 * 60));
-									var seconds22 = Math.floor((distance22 % (1000 * 60)) / 1000);
-							
-									timerDisplay22.innerHTML = days22 + "d " + hours22 + "h " + minutes22 + "m " + seconds22 + "s ";
-							
-									if (distance22 < 0) {
-										clearInterval(timerInterval22);
-										timerDisplay22.innerHTML = "FINISHED";
-									}
-								}, 1000);
-							</script>
-						
-
-						<tbody>						
-							<tr style="background-color: rgb(151, 247, 175);">
-						
-								<td class="table-plus">
-									<div class="name-avatar d-flex align-items-center">
-										<div class="avatar mr-2 flex-shrink-0">
-											<img src="vendors/images/companyimage/paginesi.png"
-												 class="border-radius-100 shadow"
-												 width="40"
-												 height="40"
-												 alt=""
-											/>
-										</div>
-										<div class="txt">
-											<div class="weight-600">paginesi</div>
-										</div>
-									</div>
-								</td>
-								<td>Italie</td>
-								<td>170GB</td>
-								<td>www.paginesi.it</td>
-								<td>17/03/2024</td>
-								<td>
-									<div class="table-actions">
-										<div id="timer21" style="color: rgb(41, 182, 6); font-size: small;"></div>
-									</div>
-								</td>
-								<td>
-									<div class="table-actions">
-										<a href="2024/paginesi.it.txt" data-color="#265ed7"
-										 class="border-radius-100 shadow" style="width: 40px; height: 40px; background-color: #17e704; text-align: center; line-height: 40px; font-size: small;">
-											PYV
-									</div>
-								</td>
-							</tr>
-							<script>
-								var targetDate21 = new Date('March 16, 2024').getTime();
-								var timerDisplay21 = document.getElementById('timer21');
-								var timerInterval21 = setInterval(function() {
-									var now21 = new Date().getTime();
-									var distance21 = targetDate21 - now21;
-							
-									var days21 = Math.floor(distance21 / (1000 * 60 * 60 * 24));
-									var hours21 = Math.floor((distance21 % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
-									var minutes21 = Math.floor((distance21 % (1000 * 60 * 60)) / (1000 * 60));
-									var seconds21 = Math.floor((distance21 % (1000 * 60)) / 1000);
-							
-									timerDisplay21.innerHTML = days21 + "d " + hours21 + "h " + minutes21 + "m " + seconds21 + "s ";
-							
-									if (distance21 < 0) {
-										clearInterval(timerInterval21);
-										timerDisplay21.innerHTML = "FINISHED";
-									}
-								}, 1000);
-							</script>
-							
-						
-						<tbody>						
-							<tr style="background-color: rgb(151, 247, 175);">
-						
-								<td class="table-plus">
-									<div class="name-avatar d-flex align-items-center">
-										<div class="avatar mr-2 flex-shrink-0">
-											<img src="vendors/images/companyimage/lostlb.png"
-												 class="border-radius-100 shadow"
-												 width="40"
-												 height="40"
-												 alt=""
-											/>
-										</div>
-										<div class="txt">
-											<div class="weight-600">education.eeb-lost</div>
-										</div>
-									</div>
-								</td>
-								<td>Lebanon</td>
-								<td>?</td>
-								<td>www.education.eeb-lost.org</td>
-								<td>14/03/2024</td>
-								<td>
-									<div class="table-actions">
-										<div id="timer20" style="color: rgb(41, 182, 6); font-size: small;"></div>
-									</div>
-								</td>
-								<td>
-									<div class="table-actions">
-										<a href="https://gofile.io/d/1RsY6o" data-color="#265ed7"
-										class="border-radius-100 shadow" style="width: 40px; height: 40px; background-color: #17e704; text-align: center; line-height: 40px; font-size: small;">
-										100%
-									</div>
-								</td>
-							</tr>
-							<script>
-								var targetDate20 = new Date('March 18 2024').getTime();
-								var timerDisplay20 = document.getElementById('timer20');
-								var timerInterval20 = setInterval(function() {
-									var now20 = new Date().getTime();
-									var distance20 = targetDate20 - now20;
-							
-									var days20 = Math.floor(distance20 / (1000 * 60 * 60 * 24));
-									var hours20 = Math.floor((distance20 % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
-									var minutes20 = Math.floor((distance20 % (1000 * 60 * 60)) / (1000 * 60));
-									var seconds20 = Math.floor((distance20 % (1000 * 60)) / 1000);
-							
-									timerDisplay20.innerHTML = days20 + "d " + hours20 + "h " + minutes20 + "m " + seconds20 + "s ";
-							
-									if (distance20 < 0) {
-										clearInterval(timerInterval20);
-										timerDisplay20.innerHTML = "FINISHED";
-									}
-								}, 1000);
-							</script>
-							
-						
-
-						<tbody>						
-							<tr style="background-color: rgb(151, 247, 175);">
-						
-								<td class="table-plus">
-									<div class="name-avatar d-flex align-items-center">
-										<div class="avatar mr-2 flex-shrink-0">
-											<img src="vendors/images/companyimage/lostlb.png"
-												 class="border-radius-100 shadow"
-												 width="40"
-												 height="40"
-												 alt=""
-											/>
-										</div>
-										<div class="txt">
-											<div class="weight-600">lostlb</div>
-										</div>
-									</div>
-								</td>
-								<td>Lebanon</td>
-								<td>?</td>
-								<td>www.lostlb.org</td>
-								<td>14/03/2024</td>
-								<td>
-									<div class="table-actions">
-										<div id="timer19" style="color: rgb(41, 182, 6); font-size: small;"></div>
-									</div>
-								</td>
-								<td>
-									<div class="table-actions">
-										<a href="https://gofile.io/d/1RsY6o" data-color="#265ed7"
-										class="border-radius-100 shadow" style="width: 40px; height: 40px; background-color: #17e704; text-align: center; line-height: 40px; font-size: small;">
-										100%
-									</div>
-								</td>
-							</tr>
-							<script>
-								var targetDate19 = new Date('March 18 2024').getTime();
-								var timerDisplay19 = document.getElementById('timer19');
-								var timerInterval19 = setInterval(function() {
-									var now19 = new Date().getTime();
-									var distance19 = targetDate19 - now19;
-							
-									var days19 = Math.floor(distance19 / (1000 * 60 * 60 * 24));
-									var hours19 = Math.floor((distance19 % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
-									var minutes19 = Math.floor((distance19 % (1000 * 60 * 60)) / (1000 * 60));
-									var seconds19 = Math.floor((distance19 % (1000 * 60)) / 1000);
-							
-									timerDisplay19.innerHTML = days19 + "d " + hours19 + "h " + minutes19 + "m " + seconds19 + "s ";
-							
-									if (distance19 < 0) {
-										clearInterval(timerInterval19);
-										timerDisplay19.innerHTML = "FINISHED";
-									}
-								}, 1000);
-							</script>
-							
-
-
-						<tbody>						
-							<tr style="background-color: rgb(151, 247, 175);">
-						
-								<td class="table-plus">
-									<div class="name-avatar d-flex align-items-center">
-										<div class="avatar mr-2 flex-shrink-0">
-											<img src="vendors/images/companyimage/mioa.png"
-												 class="border-radius-100 shadow"
-												 width="40"
-												 height="40"
-												 alt=""
-											/>
-										</div>
-										<div class="txt">
-											<div class="weight-600">mioa.gov</div>
-										</div>
-									</div>
-								</td>
-								<td>?</td>
-								<td>?</td>
-								<td>www.mioa.gov.mk</td>
-								<td>14/03/2024</td>
-								<td>
-									<div class="table-actions">
-										<div id="timer18" style="color: rgb(41, 182, 6); font-size: small;"></div>
-									</div>
-								</td>
-								<td>
-									<div class="table-actions">
-										<a href="2024/mioa.gov.mk.txt" data-color="#265ed7"
-										 class="border-radius-100 shadow" style="width: 40px; height: 40px; background-color: #17e704; text-align: center; line-height: 40px; font-size: small;">
-											PYV
-									</div>
-								</td>
-							</tr>
-							<script>
-								var targetDate18 = new Date('March 12 2024').getTime();
-								var timerDisplay18 = document.getElementById('timer18');
-								var timerInterval18 = setInterval(function() {
-									var now18 = new Date().getTime();
-									var distance18 = targetDate18 - now18;
-							
-									var days18 = Math.floor(distance18 / (1000 * 60 * 60 * 24));
-									var hours18 = Math.floor((distance18 % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
-									var minutes18 = Math.floor((distance18 % (1000 * 60 * 60)) / (1000 * 60));
-									var seconds18 = Math.floor((distance18 % (1000 * 60)) / 1000);
-							
-									timerDisplay18.innerHTML = days18 + "d " + hours18 + "h " + minutes18 + "m " + seconds18 + "s ";
-							
-									if (distance18 < 0) {
-										clearInterval(timerInterval18);
-										timerDisplay18.innerHTML = "FINISHED";
-									}
-								}, 1000);
-							</script>
+           <div id="download-box">
+             <a href="http://6sf5xa7eso3e3vk46i5tpcqhnlayczztj7zjktzaztlotyy75zs6j7qd.onion" download>Download Data</a>
+           </div>
+         </div>
+       </div>
+     </div>
+   </div>
+</div>
 
 
 
-						<tbody>						
-							<tr style="background-color: rgb(151, 247, 175);">
-						
-								<td class="table-plus">
-									<div class="name-avatar d-flex align-items-center">
-										<div class="avatar mr-2 flex-shrink-0">
-											<img src="vendors/images/companyimage/duvel.svg"
-												 class="border-radius-100 shadow"
-												 width="40"
-												 height="40"
-												 alt=""
-											/>
-										</div>
-										<div class="txt">
-											<div class="weight-600">www.duvel.com</div>
-										</div>
-									</div>
-								</td>
-								<td>Belgium</td>
-								<td>?</td>
-								<td>www.duvel.com</td>
-								<td>07/03/2024</td>
-								<td>
-									<div class="table-actions">
-										<div id="timer17" style="color: rgb(41, 182, 6); font-size: small;"></div>
-									</div>
-								</td>
-								<td>
-									<div class="table-actions">
-										<a href="http://stniiomyjliimcgkvdszvgen3eaaoz55hreqqx6o77yvmpwt7gklffqd.onion/?id=duvel.com%20|%20boulevard.com" data-color="#265ed7"
-										 class="border-radius-100 shadow" style="width: 40px; height: 40px; background-color: #17e704; text-align: center; line-height: 40px; font-size: small;">
-											100%
-									</div>
-								</td>
-							</tr>
-							<script>
-								var targetDate17 = new Date('February 18 2024').getTime();
-								var timerDisplay17 = document.getElementById('timer17');
-								var timerInterval17 = setInterval(function() {
-									var now17 = new Date().getTime();
-									var distance17 = targetDate17 - now17;
-							
-									var days17 = Math.floor(distance17 / (1000 * 60 * 60 * 24));
-									var hours17 = Math.floor((distance17 % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
-									var minutes17 = Math.floor((distance17 % (1000 * 60 * 60)) / (1000 * 60));
-									var seconds17 = Math.floor((distance17 % (1000 * 60)) / 1000);
-							
-									timerDisplay17.innerHTML = days17 + "d " + hours17 + "h " + minutes17 + "m " + seconds17 + "s ";
-							
-									if (distance17 < 0) {
-										clearInterval(timerInterval17);
-										timerDisplay17.innerHTML = "FINISHED";
-									}
-								}, 1000);
-							</script>
-							
-					
-					
-				
-						<tbody>						
-							<tr style="background-color: rgb(151, 247, 175);">
-						
-								<td class="table-plus">
-									<div class="name-avatar d-flex align-items-center">
-										<div class="avatar mr-2 flex-shrink-0">
-											<img src="vendors/images/companyimage/?"
-												 class="border-radius-100 shadow"
-												 width="40"
-												 height="40"
-												 alt=""
-											/>
-										</div>
-										<div class="txt">
-											<div class="weight-600">www.loghmanpharma.com</div>
-										</div>
-									</div>
-								</td>
-								<td>Iran</td>
-								<td>?</td>
-								<td>www.loghmanpharma.com</td>
-								<td>06/03/2024</td>
-								<td>
-									<div class="table-actions">
-										<div id="timer16" style="color: rgb(41, 182, 6); font-size: small;"></div>
-									</div>
-								</td>
-								<td>
-									<div class="table-actions">
-										<a href="2024/loghmanpharma.com.txt" data-color="#265ed7"
-										 class="border-radius-100 shadow" style="width: 40px; height: 40px; background-color: #17e704; text-align: center; line-height: 40px; font-size: small;">
-											PYV
-									</div>
-								</td>
-							</tr>
-							<script>
-								var targetDate16 = new Date('February 18 2024').getTime();
-								var timerDisplay16 = document.getElementById('timer16');
-								var timerInterval16 = setInterval(function() {
-									var now16 = new Date().getTime();
-									var distance16 = targetDate16 - now16;
-							
-									var days16 = Math.floor(distance16 / (1000 * 60 * 60 * 24));
-									var hours16 = Math.floor((distance16 % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
-									var minutes16 = Math.floor((distance16 % (1000 * 60 * 60)) / (1000 * 60));
-									var seconds16 = Math.floor((distance16 % (1000 * 60)) / 1000);
-							
-									timerDisplay16.innerHTML = days16 + "d " + hours16 + "h " + minutes16 + "m " + seconds16 + "s ";
-							
-									if (distance16 < 0) {
-										clearInterval(timerInterval16);
-										timerDisplay16.innerHTML = "FINISHED";
-									}
-								}, 1000);
-							</script>
-							
-		
-						<tbody>						
-							<tr style="background-color: rgb(151, 247, 175);">
-						
-								<td class="table-plus">
-									<div class="name-avatar d-flex align-items-center">
-										<div class="avatar mr-2 flex-shrink-0">
-											<img src="vendors/images/companyimage/VDM_Logo-2020_r01-01.png"
-												 class="border-radius-100 shadow"
-												 width="40"
-												 height="40"
-												 alt=""
-											/>
-										</div>
-										<div class="txt">
-											<div class="weight-600">viadirectamarketing</div>
-										</div>
-									</div>
-								</td>
-								<td>Spain</td>
-								<td>2.7GB</td>
-								<td>www.viadirectamarketing.com</td>
-								<td>06/03/2024</td>
-								<td>
+  <!-- 13 COMPANY POST -->
+  <div class="w3-col">
+    <div class="w3-card-4 w3-margin info-box">
+       <div class="w3-container">
+         <div style="padding-left: 0%">
+           <div class="w3-half" style="height: 60px;">
+             <h3><b>mivideo.club</b></h3>
+           </div>
+           <div class="w3-half" style="height: 60px;">
+           </div>
+           <p><a href="www.mivideo.club" target="_blank">www.mivideo.club</a></p>
+           <h5>Size: 3GB</h5>
+           <h5>Status: Leaked</h5>
+           <p></p>
+           
+         
+           <div class="thumbnail-container">
+            <a href="#image-modal">
+              <img src="" alt="" class="thumbnail">
+            </a>
+          </div>
+
+         
+           <div id="download-box">
+             <a href="http://6sf5xa7eso3e3vk46i5tpcqhnlayczztj7zjktzaztlotyy75zs6j7qd.onion" download>Download Data</a>
+           </div>
+         </div>
+       </div>
+     </div>
+   </div>  
 
 
-										<div class="table-actions">
-										<div id="timer15" style="color: rgb(41, 182, 6); font-size: small;"></div>
-									</div>
-								</td>
-								<td>
-									<div class="table-actions">
-										<a href="https://gofile.io/d/pWI4uj" data-color="#265ed7"
-										 class="border-radius-100 shadow" style="width: 40px; height: 40px; background-color: #17e704; text-align: center; line-height: 40px; font-size: small;">
-											100%
-									</div>
-								</td>
-							</tr>
+
+  <!-- 12 COMPANY POST -->
+  <div class="w3-col">
+    <div class="w3-card-4 w3-margin info-box">
+       <div class="w3-container">
+         <div style="padding-left: 0%">
+           <div class="w3-half" style="height: 60px;">
+             <h3><b>jatelindo</b></h3>
+           </div>
+           <div class="w3-half" style="height: 60px;">
+           </div>
+           <p><a href="www.jatelindo.co.id" target="_blank">www.jatelindo.co.id</a></p>
+           <h5>Size: 1.5GB</h5>
+           <h5>Status: Leaked</h5>
+           <p></p>
+           
+         
+          
+           <div class="thumbnail-container">
+            <a href="#image-modal">
+              <img src="" alt="" class="thumbnail">
+            </a>
+          </div>
+
+         
+           <div id="download-box">
+             <a href="http://6sf5xa7eso3e3vk46i5tpcqhnlayczztj7zjktzaztlotyy75zs6j7qd.onion" download>Download Data</a>
+           </div>
+         </div>
+       </div>
+     </div>
+   </div>  
 
 
 
 
-                          <script>
-								var targetDate15 = new Date('February 18 2024').getTime();
-								var timerDisplay15 = document.getElementById('timer15');
-								var timerInterval15 = setInterval(function() {
-									var now15 = new Date().getTime();
-									var distance15 = targetDate15 - now15;
-							
-									var days15 = Math.floor(distance15 / (1000 * 60 * 60 * 24));
-									var hours15 = Math.floor((distance15 % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
-									var minutes15 = Math.floor((distance15 % (1000 * 60 * 60)) / (1000 * 60));
-									var seconds15 = Math.floor((distance15 % (1000 * 60)) / 1000);
-							
-									timerDisplay15.innerHTML = days15 + "d " + hours15 + "h " + minutes15 + "m " + seconds15 + "s ";
-							
-									if (distance15 < 0) {
-										clearInterval(timerInterval15);
-										timerDisplay15.innerHTML = "FINISHED";
-									}
-								}, 1000);
-							</script>
-							
-						
-						
-		
-						<tbody>						
-							<tr style="background-color: rgb(151, 247, 175);">
-						
-								<td class="table-plus">
-									<div class="name-avatar d-flex align-items-center">
-										<div class="avatar mr-2 flex-shrink-0">
-											<img src="vendors/images/companyimage/?"
-												 class="border-radius-100 shadow"
-												 width="40"
-												 height="40"
-												 alt=""
-											/>
-										</div>
-										<div class="txt">
-											<div class="weight-600">airbogo</div>
-										</div>
-									</div>
-								</td>
-								<td>?</td>
-								<td>10TB</td>
-								<td>www.airbogo.com</td>
-								<td>05/03/2024</td>
-								<td>
-									<div class="table-actions">
-										<div id="timer14" style="color: rgb(41, 182, 6); font-size: small;"></div>
-									</div>
-								</td>
-								<td>
-									<div class="table-actions">
-										<a href="2024/airbogo.com.txt" data-color="#265ed7"
-										 class="border-radius-100 shadow" style="width: 40px; height: 40px; background-color: #17e704; text-align: center; line-height: 40px; font-size: small;">
-											100%
-									</div>
-								</td>
-							</tr>
-							<script>
-								var targetDate14 = new Date('March 25 2024').getTime();
-								var timerDisplay14 = document.getElementById('timer14');
-								var timerInterval14 = setInterval(function() {
-									var now14 = new Date().getTime();
-									var distance14 = targetDate14 - now14;
-							
-									var days14 = Math.floor(distance14 / (1000 * 60 * 60 * 24));
-									var hours14 = Math.floor((distance14 % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
-									var minutes14 = Math.floor((distance14 % (1000 * 60 * 60)) / (1000 * 60));
-									var seconds14 = Math.floor((distance14 % (1000 * 60)) / 1000);
-							
-									timerDisplay14.innerHTML = days14 + "d " + hours14 + "h " + minutes14 + "m " + seconds14 + "s ";
-							
-									if (distance14 < 0) {
-										clearInterval(timerInterval14);
-										timerDisplay14.innerHTML = "FINISHED";
-									}
-								}, 1000);
-							</script>
-							
-							
+  <!-- 11 COMPANY POST -->
+  <div class="w3-col">
+    <div class="w3-card-4 w3-margin info-box">
+       <div class="w3-container">
+         <div style="padding-left: 0%">
+           <div class="w3-half" style="height: 60px;">
+             <h3><b>intrama-bg</b></h3>
+           </div>
+           <div class="w3-half" style="height: 60px;">
+           </div>
+           <p><a href="intrama-bg.com" target="_blank">intrama-bg.com</a></p>
+           <h5>Size: 120GB</h5>
+           <h5>Status: Leaked</h5>
+           <p></p>
+           
+         
+          
+           <div class="thumbnail-container">
+            <a href="#image-modal">
+              <img src="" alt="" class="thumbnail">
+            </a>
+          </div>
 
-							<tr style="background-color: rgb(151, 247, 175);">
-						
-								<td class="table-plus">
-									<div class="name-avatar d-flex align-items-center">
-										<div class="avatar mr-2 flex-shrink-0">
-											<img src="vendors/images/companyimage/pcmarket-logo.jpg"
-												class="border-radius-100 shadow"
-												width="40"
-												height="40"
-												alt=""
-											/>
-										</div>
-										<div class="txt">
-											<div class="weight-600">pcmarket</div>
-										</div>
-									</div>
-								</td>
-								<td>Uzbekistan</td>
-								<td>1 GB</td>
-								<td>www.pcmarket.uz</td>
-								<td>31/01/2024</td>
-								<td>
-									<div class="table-actions">
-										<div id="timer00" style="color: rgb(3, 114, 27); font-size: small;"></div>
-									</div>
-								</td>
-								<td>
-									<div class="table-actions">
-										<a href="2024/PCMARKET/PCmarket.3.torrent" data-color="#265ed7"
-										 class="border-radius-100 shadow" style="width: 40px; height: 40px; background-color: #17e704; text-align: center; line-height: 40px; font-size: small;">
-											100%
-									</div>
-								</td>
-							</tr>
-						
-							<script>
-								var targetDate00 = new Date('March 12, 2024').getTime();
-								var timerDisplay00 = document.getElementById('timer00');
-								var timerInterval00 = setInterval(function() {
-									var now00 = new Date().getTime();
-									var distance00 = targetDate00 - now00;
-							
-									var days00 = Math.floor(distance00 / (1000 * 60 * 60 * 24));
-									var hours00 = Math.floor((distance00 % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
-									var minutes00 = Math.floor((distance00 % (1000 * 60 * 60)) / (1000 * 60));
-									var seconds00 = Math.floor((distance00 % (1000 * 60)) / 1000);
-							
-									timerDisplay00.innerHTML = days00 + "d " + hours00 + "h " + minutes00 + "m " + seconds00 + "s ";
-							
-									if (distance00 < 0) {
-										clearInterval(timerInterval00);
-										timerDisplay00.innerHTML = "FINISHED";
-									}
-								}, 1000);
-							</script>
-							
-							
-						</tbody>	
-							<tr>
-								<tr style="background-color: rgb(151, 247, 175);">
-
-								<td class="table-plus">
-									<div class="name-avatar d-flex align-items-center">
-										<div class="avatar mr-2 flex-shrink-0">
-											<img
-												src="vendors/images/companyimage/kai-logo.png"
-												class="border-radius-100 shadow"
-												width="40"
-												height="40"
-												alt=""
-											/>
-										</div>
-										<div class="txt">
-											<div class="weight-600">KAI
-											</div>
-										</div>
-									</div>
-								</td>
-								<td>indonesia</td>
-								<td>1 TB</td>
-								<td>www.kai.id</td>
-								<td>22/01/2024</td>
-								<td>
-									<div class="table-actions">
-										<div id="timer5" style="color: rgb(5, 133, 11); font-size: small;"></div>
-									</div>
-								</td>
-								<td>
-									<div class="table-actions">
-										<a href="2024/KAI.ID/KAI.rar" data-color="#265ed7"
-										 class="border-radius-100 shadow" style="width: 40px; height: 40px; background-color: #17e704; text-align: center; line-height: 40px; font-size: small;">
-											100%
-									</div>
-								</td>
-							</tr>
-							
-							<script>
-								var targetDate3 = new Date('February 18 2024').getTime();
-								var timerDisplay3 = document.getElementById('timer5');
-							
-								var timerInterval3 = setInterval(function() {
-									var now3 = new Date().getTime();
-									var distance3 = targetDate3 - now3;
-							
-									var days3 = Math.floor(distance3 / (1000 * 60 * 60 * 24));
-									var hours3 = Math.floor((distance3 % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
-									var minutes3 = Math.floor((distance3 % (1000 * 60 * 60)) / (1000 * 60));
-									var seconds3 = Math.floor((distance3 % (1000 * 60)) / 1000);
-							
-									timerDisplay3.innerHTML = days3 + "d " + hours3 + "h " + minutes3 + "m " + seconds3 + "s ";
-							
-									if (distance3 < 0) {
-										clearInterval(timerInterval3);
-										timerDisplay3.innerHTML = "FINISHED";
-									}
-								}, 1000);
-							</script>
-							
-				
-					
-					
-								<tr>
-									<tr style="background-color: rgb(151, 247, 175);">
-
-									<td class="table-plus">
-										<div class="name-avatar d-flex align-items-center">
-											<div class="avatar mr-2 flex-shrink-0">
-												<img
-													src="vendors/images/companyimage/delia_logo_bez_r.png"
-													class="border-radius-100 shadow"
-													width="40"
-													height="40"
-													alt=""
-												/>
-											</div>
-											<div class="txt">
-												<div class="weight-600">delia.pl
-												</div>
-											</div>
-										</div>
-									</td>
-									<td>Poland</td>
-									<td>64 GB</td>
-									<td>www.delia.pl</td>
-									<td>16/02/2024</td>
-									
-									<td>
-										<div class="table-actions">
-											<div id="timer6" style="color: rgb(5, 161, 5); font-size: small;"></div>
-										</div>
-									</td>
-									<td>
-										<div class="table-actions">
-											<a href="https://gofile.io/d/WX2hnX" data-color="#265ed7"
-											 class="border-radius-100 shadow" style="width: 40px; height: 40px; background-color: #17e704; text-align: center; line-height: 40px; font-size: small;">
-												100%
-										</div>
-									</td>
-								</tr>
-								
-								<script>
-									var targetDate5 = new Date('February 18 2024').getTime();
-									var timerDisplay5 = document.getElementById('timer6');
-								
-									var timerInterval5 = setInterval(function() {
-										var now5 = new Date().getTime();
-										var distance5 = targetDate5 - now5;
-								
-										var days5 = Math.floor(distance5 / (1000 * 60 * 60 * 24));
-										var hours5 = Math.floor((distance5 % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
-										var minutes5 = Math.floor((distance5 % (1000 * 60 * 60)) / (1000 * 60));
-										var seconds5 = Math.floor((distance5 % (1000 * 60)) / 1000);
-								
-										timerDisplay5.innerHTML = days5 + "d " + hours5 + "h " + minutes5 + "m " + seconds5 + "s ";
-								
-										if (distance5 < 0) {
-											clearInterval(timerInterval5);
-											timerDisplay5.innerHTML = "FINISHED";
-										}
-									}, 1000);
-								</script>
-					
-					
-					
-										
-					<tr>
-						<tr style="background-color: rgb(151, 247, 175);">
-							<td class="table-plus">
-								<div class="name-avatar d-flex align-items-center">
-									<div class="avatar mr-2 flex-shrink-0">
-										<img src="vendors/images/companyimage/CCET_logo_header.png" class="border-radius-100 shadow" width="40" height="40" alt="">
-									</div>
-									<div class="txt">
-										<div class="weight-600">calcomp</div>
-									</div>
-								</div>
-							</td>
-							<td>Thailand</td>
-							<td>12 GB</td>
-							<td>www.calcomp.co.th</td>
-							<td>14/02/2024</td>
-							<td>
-								<div class="table-actions">
-									<div id="timer7" style="color: rgb(9, 153, 21); font-size: small;"></div>
-								</div>
-							</td>
-							<td>
-								<div class="table-actions">
-									<a href="https://gofile.io/d/MWC6DS" data-color="#265ed7" class="border-radius-100 shadow" style="width: 40px; height: 40px; background-color: #17e704; text-align: center; line-height: 40px; font-size: small;">100%</a>
-								</div>
-							</td>
-						</tr>
-						<script>
-							var targetDate6 = new Date('February 18, 2024').getTime();
-							
-							var timerDisplay6 = document.getElementById('timer7');
-							
-							var timerInterval6 = setInterval(function() {
-								var now6 = new Date().getTime();
-								var distance6 = targetDate6 - now6;
-								
-								var days6 = Math.floor(distance6 / (1000 * 60 * 60 * 24));
-								var hours6 = Math.floor((distance6 % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
-								var minutes6 = Math.floor((distance6 % (1000 * 60 * 60)) / (1000 * 60));
-								var seconds6 = Math.floor((distance6 % (1000 * 60)) / 1000);
-								
-								timerDisplay6.innerHTML = days6 + "d " + hours6 + "h " + minutes6 + "m " + seconds6 + "s ";
-								
-								if (distance6 < 0) {
-									clearInterval(timerInterval6);
-									timerDisplay6.innerHTML = "FINISHED";
-								}
-							}, 1000);
-						</script>
-						
-							
-							<tr>
-								<tr style="background-color: rgb(151, 247, 175);">
-
-								<td class="table-plus">
-									<div class="name-avatar d-flex align-items-center">
-										<div class="avatar mr-2 flex-shrink-0">
-											<img
-												src="vendors/images/companyimage/abelsantos-y-asociados.png"
-												class="border-radius-100 shadow"
-												width="40"
-												height="40"
-												alt=""
-											/>
-										</div>
-										<div class="txt">
-											<div class="weight-600">Abelsantosyasoc
-											</div>
-										</div>
-									</div>
-								</td>
-								<td>Argentina</td>
-								<td>26 GB</td>
-								<td>www.Abelsantosyasoc.com.ar</td>
-								<td>14/02/2024</td>
-								<td>
-																
-									<div class="table-actions">
-										<div id="timer8" style="color: rgb(9, 170, 35); font-size: small;"></div>
-									</div>
-								</td>
-								<td>
-									<div class="table-actions">
-										<a href="https://mega.nz/file/gYxGBIQa#eRa7Ly8FZv5VukSjDeY35Afuuk-x1yBn8PRqNhwmh_w" data-color="#265ed7"
-										class="border-radius-100 shadow" style="width: 40px; height: 40px; background-color: #17e704; text-align: center; line-height: 40px; font-size: small;">
-											100%
-									</div>
-								</td>
-							</tr>
-							
-							<script>
-								var targetDate4 = new Date('February 18 2024').getTime();
-								var timerDisplay4 = document.getElementById('timer8');
-							
-								var timerInterval4 = setInterval(function() {
-									var now4 = new Date().getTime();
-									var distance4 = targetDate4 - now4;
-							
-									var days4 = Math.floor(distance4 / (1000 * 60 * 60 * 24));
-									var hours4 = Math.floor((distance4 % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
-									var minutes4 = Math.floor((distance4 % (1000 * 60 * 60)) / (1000 * 60));
-									var seconds4 = Math.floor((distance4 % (1000 * 60)) / 1000);
-							
-									timerDisplay4.innerHTML = days4 + "d " + hours4 + "h " + minutes4 + "m " + seconds4 + "s ";
-							
-									if (distance4 < 0) {
-										clearInterval(timerInterval4);
-										timerDisplay4.innerHTML = "FINISHED";
-									}
-								}, 1000);
-							</script>
-							
-								</tr>								
-									</div>
-								</td>
-							</tr>
-						
-						
-						</tbody>
-					</table>
-				</div>
+         
+           <div id="download-box">
+             <a href="http://6sf5xa7eso3e3vk46i5tpcqhnlayczztj7zjktzaztlotyy75zs6j7qd.onion" download>Download Data</a>
+           </div>
+         </div>
+       </div>
+     </div>
+   </div>  
 
 
 
-				
 
-				
-		<script src="vendors/scripts/core.js"></script>
-		<script src="vendors/scripts/script.min.js"></script>
-		<script src="vendors/scripts/process.js"></script>
-		<script src="vendors/scripts/layout-settings.js"></script>
-	
+   <!-- 10 COMPANY POST -->
+   <div class="w3-col">
+    <div class="w3-card-4 w3-margin info-box">
+       <div class="w3-container">
+         <div style="padding-left: 0%">
+           <div class="w3-half" style="height: 60px;">
+             <h3><b>HITC.VN</b></h3>
+           </div>
+           <div class="w3-half" style="height: 60px;">
+           </div>
+           <p><a href="www.hitc.vn" target="_blank">www.hitc.vn</a></p>
+           <h5>Size: 182GB</h5>
+           <h5>Status: Leaked</h5>
+           <p></p>
+           
+         
+          
+           <div class="thumbnail-container">
+            <a href="#image-modal">
+              <img src="" alt="" class="thumbnail">
+            </a>
+          </div>
+
+         
+           <div id="download-box">
+             <a href="http://6sf5xa7eso3e3vk46i5tpcqhnlayczztj7zjktzaztlotyy75zs6j7qd.onion" download>Download Data</a>
+           </div>
+         </div>
+       </div>
+     </div>
+   </div>  
+
+
+
+    <!-- 10 COMPANY POST -->
+  <div class="w3-col">
+    <div class="w3-card-4 w3-margin info-box">
+       <div class="w3-container">
+         <div style="padding-left: 0%">
+           <div class="w3-half" style="height: 60px;">
+             <h3><b>casio india</b></h3>
+           </div>
+           <div class="w3-half" style="height: 60px;">
+           </div>
+           <p><a href="casio.co.in" target="_blank">casio.co.in</a></p>
+           <h5>Size: 200GB</h5>
+           <h5>Status: Leaked</h5>
+           <p></p>
+           
+         
+          
+           <div class="thumbnail-container">
+            <a href="#image-modal">
+              <img src="" alt="" class="thumbnail">
+            </a>
+          </div>
+         
+           <div id="download-box">
+             <a href="https://gofile.io/d/fIRohi" download>Download Data</a>
+           </div>
+         </div>
+       </div>
+     </div>
+   </div>  
+
+
+
+
+
+  <!-- 9 COMPANY POST -->
+  <div class="w3-col">
+    <div class="w3-card-4 w3-margin info-box">
+       <div class="w3-container">
+         <div style="padding-left: 0%">
+           <div class="w3-half" style="height: 60px;">
+             <h3><b>berjayaclubs</b></h3>
+           </div>
+           <div class="w3-half" style="height: 60px;">
+           </div>
+           <p><a href="www.berjayaclubs.com" target="_blank">www.berjayaclubs.com</a></p>
+           <h5>Size: ?</h5>
+           <h5>Status: Leaked</h5>
+           <p></p>
+           
+         
+          
+           <div class="thumbnail-container">
+            <a href="#image-modal">
+              <img src="" alt="" class="thumbnail">
+            </a>
+          </div>
+
+         
+           <div id="download-box">
+             <a href="" download>Download Data</a>
+           </div>
+         </div>
+       </div>
+     </div>
+   </div> 
+
+
+
+    <!-- 8 COMPANY POST -->
+    <div class="w3-col">
+        <div class="w3-card-4 w3-margin info-box">
+           <div class="w3-container">
+             <div style="padding-left: 0%">
+               <div class="w3-half" style="height: 60px;">
+                 <h3><b>paginesi</b></h3>
+               </div>
+               <div class="w3-half" style="height: 60px;">
+               </div>
+               <p><a href="www.paginesi.it" target="_blank">www.paginesi.it</a></p>
+               <h5>Size: 170GB</h5>
+               <h5>Status: Leaked</h5>
+               <p></p>
+               
+             
+              
+               <div class="thumbnail-container">
+                <a href="#image-modal">
+                  <img src="" alt="" class="thumbnail">
+                </a>
+              </div>
+             
+               <div id="download-box">
+                 <a href="" download>Download Data</a>
+               </div>
+             </div>
+           </div>
+         </div>
+       </div> 
+
+
+
+    <!-- 7 COMPANY POST -->
+ <div class="w3-col">
+    <div class="w3-card-4 w3-margin info-box">
+       <div class="w3-container">
+         <div style="padding-left: 0%">
+           <div class="w3-half" style="height: 60px;">
+             <h3><b>lostlb</b></h3>
+           </div>
+           <div class="w3-half" style="height: 60px;">
+           </div>
+           <p><a href="www.lostlb.org" target="_blank">www.lostlb.org</a></p>
+           <h5>Size: 1GB</h5>
+           <h5>Status: Leaked</h5>
+           <p></p>
+           
+         
+          
+           <div class="thumbnail-container">
+            <a href="#image-modal">
+              <img src="" alt="" class="thumbnail">
+            </a>
+          </div>
+
+         
+           <div id="download-box">
+             <a href="https://gofile.io/d/1RsY6o" download>Download Data</a>
+           </div>
+         </div>
+       </div>
+     </div>
+   </div>  
+
+
+ <!-- 6 COMPANY POST -->
+ <div class="w3-col">
+    <div class="w3-card-4 w3-margin info-box">
+       <div class="w3-container">
+         <div style="padding-left: 0%">
+           <div class="w3-half" style="height: 60px;">
+             <h3><b>duvel</b></h3>
+           </div>
+           <div class="w3-half" style="height: 60px;">
+           </div>
+           <p><a href="www.duvel.com" target="_blank">www.duvel.com</a></p>
+           <h5>Size: ?GB</h5>
+           <h5>Status: Leaked</h5>
+           <p></p>
+           
+         
+          
+           <div class="thumbnail-container">
+            <a href="#image-modal">
+              <img src="" alt="" class="thumbnail">
+            </a>
+          </div>
+
+         
+           <div id="download-box">
+             <a href="http://stniiomyjliimcgkvdszvgen3eaaoz55hreqqx6o77yvmpwt7gklffqd.onion/?id=duvel.com%20|%20boulevard.com" download>Download Data</a>
+           </div>
+         </div>
+       </div>
+     </div>
+   </div>  
+
+ <!-- 5 COMPANY POST -->
+ <div class="w3-col">
+    <div class="w3-card-4 w3-margin info-box">
+       <div class="w3-container">
+         <div style="padding-left: 0%">
+           <div class="w3-half" style="height: 60px;">
+             <h3><b>viadirectamarketing</b></h3>
+           </div>
+           <div class="w3-half" style="height: 60px;">
+           </div>
+           <p><a href="www.viadirectamarketing.com" target="_blank">www.viadirectamarketing.com</a></p>
+           <h5>Size: 2.7GB</h5>
+           <h5>Status: Leaked</h5>
+           <p></p>
+           
+         
+          
+           <div class="thumbnail-container">
+            <a href="#image-modal">
+              <img src="" alt="" class="thumbnail">
+            </a>
+          </div>
+
+         
+           <div id="download-box">
+             <a href="https://gofile.io/d/pWI4uj" download>Download Data</a>
+           </div>
+         </div>
+       </div>
+     </div>
+   </div>  
+  
+  <!-- 4 COMPANY POST -->
+  <div class="w3-col">
+    <div class="w3-card-4 w3-margin info-box">
+       <div class="w3-container">
+         <div style="padding-left: 0%">
+           <div class="w3-half" style="height: 60px;">
+             <h3><b>airbogo</b></h3>
+           </div>
+           <div class="w3-half" style="height: 60px;">
+           </div>
+           <p><a href="www.airbogo.com" target="_blank">www.airbogo.com</a></p>
+           <h5>Size: 10TB</h5>
+           <h5>Status: Leaked</h5>
+           <p></p>
+           
+         
+          
+           <div class="thumbnail-container">
+            <a href="#image-modal">
+              <img src="" alt="" class="thumbnail">
+            </a>
+          </div>
+
+         
+           <div id="download-box">
+             <a href="" download>Download Data</a>
+           </div>
+         </div>
+       </div>
+     </div>
+   </div>  
+  
+
+  <!-- 3 COMPANY POST -->
+  <div class="w3-col">
+    <div class="w3-card-4 w3-margin info-box">
+       <div class="w3-container">
+         <div style="padding-left: 0%">
+           <div class="w3-half" style="height: 60px;">
+             <h3><b>delia.pl</b></h3>
+           </div>
+           <div class="w3-half" style="height: 60px;">
+           </div>
+           <p><a href="www.delia.pl" target="_blank">www.delia.pl</a></p>
+           <h5>Size: 182GB</h5>
+           <h5>Status: Leaked</h5>
+           <p></p>
+           
+         
+          
+           <div class="thumbnail-container">
+            <a href="#image-modal">
+              <img src="" alt="" class="thumbnail">
+            </a>
+          </div>
+
+         
+           <div id="download-box">
+             <a href="https://gofile.io/d/WX2hnX" download>Download Data</a>
+           </div>
+         </div>
+       </div>
+     </div>
+   </div>  
+  
+  
+   <!-- 2 COMPANY POST -->
+   <div class="w3-col">
+     <div class="w3-card-4 w3-margin info-box">
+        <div class="w3-container">
+          <div style="padding-left: 0%">
+            <div class="w3-half" style="height: 60px;">
+              <h3><b>calcomp</b></h3>
+            </div>
+            <div class="w3-half" style="height: 60px;">
+            </div>
+            <p><a href="www.calcomp.co.th" target="_blank">www.calcomp.co.th</a></p>
+            <h5>Size: 100GB</h5>
+            <h5>Status: Leaked</h5>
+            <p></p>
+            
+          
+           
+            <div class="thumbnail-container">
+             <a href="#image-modal">
+               <img src="" alt="" class="thumbnail">
+             </a>
+           </div>
+          
+            <div id="download-box">
+              <a href="https://gofile.io/d/MWC6DS" download>Download Data</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>  
+     
+
+    <!-- 1 COMPANY POST -->
+    <div class="w3-col">
+     <div class="w3-card-4 w3-margin info-box">
+        <div class="w3-container">
+          <div style="padding-left: 0%">
+            <div class="w3-half" style="height: 60px;">
+              <h3><b>Abelsantosyasoc</b></h3>
+            </div>
+             <div class="w3-half" style="height: 60px;">
+            </div>
+            <p><a href="www.Abelsantosyasoc.com.ar" target="_blank">www.Abelsantosyasoc.com.ar</a></p>
+            <h5>Size: 26GB</h5>
+            <h5>Status: Leaked</h5>
+            <p></p>
+            
+          
+           
+            <div class="thumbnail-container">
+             <a href="#image-modal">
+               <img src="" alt="" class="thumbnail">
+             </a>
+           </div>
+
+          
+            <div id="download-box">
+              <a href="https://mega.nz/file/gYxGBIQa#eRa7Ly8FZv5VukSjDeY35Afuuk-x1yBn8PRqNhwmh_w" download>Download Data</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div> 
+  </div>
+</div>
+
+
+
 </body>
 </html>
