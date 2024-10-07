@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-10-07 | [`autodoc.pro`](https://google.com/search?q=autodoc.pro) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-10-07 | [`trulysmall.com`](https://google.com/search?q=trulysmall.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-10-07 | [`Broward Realty Corp`](https://google.com/search?q=Broward+Realty+Corp) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2024-10-06 | [`yassir.com`](https://google.com/search?q=yassir.com) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-10-06 | [`yesmoke.eu`](https://google.com/search?q=yesmoke.eu) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-09-28 | [`appweb.usinacoruripe.com.br`](https://google.com/search?q=appweb.usinacoruripe.com.br) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-09-28 | [`rockymountaingastro.com`](https://google.com/search?q=rockymountaingastro.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-09-28 | [`www.contegritygroup.com`](https://google.com/search?q=www.contegritygroup.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-09-28 | [`PipelBiz.com`](https://google.com/search?q=PipelBiz.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-09-28 | [`http://www.southernfiresprinkler.com`](https://google.com/search?q=http%3A%2F%2Fwww.southernfiresprinkler.com) | [ciphbit](https://ransomwatch.telemetry.ltd/#/profiles?id=ciphbit) |
