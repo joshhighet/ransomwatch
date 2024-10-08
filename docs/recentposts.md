@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-10-08 | [`matki.co.uk\$23M\United Kingdom\267GB\&lt;1% DISCLOSED`](https://google.com/search?q=matki.co.uk%5C%2423M%5CUnited+Kingdom%5C267GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
+| 2024-10-08 | [`corporatejobbank.com\$22.8M\USA\65GB\&lt;1% DISCLOSED`](https://google.com/search?q=corporatejobbank.com%5C%2422.8M%5CUSA%5C65GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-10-08 | [`Max Shop Hacked`](https://google.com/search?q=Max+Shop+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2024-10-07 | [`healthyuturn.in`](https://google.com/search?q=healthyuturn.in) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-10-07 | [`nspproteins.com`](https://google.com/search?q=nspproteins.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-09-29 | [`Andantex USA`](https://google.com/search?q=Andantex+USA) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-09-29 | [`Affirm Agency`](https://google.com/search?q=Affirm+Agency) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-09-29 | [`4B Components`](https://google.com/search?q=4B+Components) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-09-29 | [`cdc-biodiversite.fr`](https://google.com/search?q=cdc-biodiversite.fr) | [blackout](https://ransomwatch.telemetry.ltd/#/profiles?id=blackout) |
-| 2024-09-29 | [`markdom.com`](https://google.com/search?q=markdom.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
