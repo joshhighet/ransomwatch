@@ -4,6 +4,13 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-10-08 | [`Ambassador of Israel in Germany Emails`](https://google.com/search?q=Ambassador+of+Israel+in+Germany+Emails) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
+| 2024-10-08 | [`pingan.com`](https://google.com/search?q=pingan.com) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
+| 2024-10-08 | [`Smoker's Choice`](https://google.com/search?q=Smoker%27s+Choice) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-10-08 | [`Saratoga Liquor`](https://google.com/search?q=Saratoga+Liquor) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-10-08 | [`Eagle Recovery Associates`](https://google.com/search?q=Eagle+Recovery+Associates) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-10-08 | [`AnVa Industries`](https://google.com/search?q=AnVa+Industries) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-10-08 | [`Accounting Resource Group`](https://google.com/search?q=Accounting+Resource+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-10-08 | [`actionfirepros.com\$17.4M\USA\407GB\100% DISCLOSED`](https://google.com/search?q=actionfirepros.com%5C%2417.4M%5CUSA%5C407GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-10-08 | [`Aaren Scientific`](https://google.com/search?q=Aaren+Scientific) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-10-08 | [`blalockcompanies.com`](https://google.com/search?q=blalockcompanies.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -197,10 +204,3 @@ _last `200` posts_
 | 2024-09-30 | [`McAbee Construction, Inc`](https://google.com/search?q=McAbee+Construction%2C+Inc) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-09-30 | [`Plastics Plus`](https://google.com/search?q=Plastics+Plus) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2024-09-30 | [`weisermemorialhospital.org`](https://google.com/search?q=weisermemorialhospital.org) | [embargo](https://ransomwatch.telemetry.ltd/#/profiles?id=embargo) |
-| 2024-09-29 | [`nfe.fazenda.gov.br`](https://google.com/search?q=nfe.fazenda.gov.br) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
-| 2024-09-29 | [`poorvika.com`](https://google.com/search?q=poorvika.com) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
-| 2024-09-29 | [`porter.in`](https://google.com/search?q=porter.in) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
-| 2024-09-29 | [`The Rubber Resources`](https://google.com/search?q=The+Rubber+Resources) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-09-29 | [`Reutter`](https://google.com/search?q=Reutter) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-09-29 | [`Performance Food Centers`](https://google.com/search?q=Performance+Food+Centers) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-09-29 | [`InteriorWorx Commercial Flooring`](https://google.com/search?q=InteriorWorx+Commercial+Flooring) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
