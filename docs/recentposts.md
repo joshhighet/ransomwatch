@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-10-09 | [`argofinance.org`](https://google.com/search?q=argofinance.org) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-10-09 | [`tankstar.com`](https://google.com/search?q=tankstar.com) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
 | 2024-10-09 | [`victrongroup.com`](https://google.com/search?q=victrongroup.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
 | 2024-10-09 | [`Universite Paris Sud`](https://google.com/search?q=Universite+Paris+Sud) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-09-30 | [`verco.co.uk`](https://google.com/search?q=verco.co.uk) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
 | 2024-09-30 | [`Keller Williams Realty Group`](https://google.com/search?q=Keller+Williams+Realty+Group) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-09-30 | [`canstarrestorations.com `](https://google.com/search?q=canstarrestorations.com+) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
-| 2024-09-30 | [`TOTVS`](https://google.com/search?q=TOTVS) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
