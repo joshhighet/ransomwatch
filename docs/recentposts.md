@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-10-10 | [`Casio Computer Co., Ltd`](https://google.com/search?q=Casio+Computer+Co.%2C+Ltd) | [underground](https://ransomwatch.telemetry.ltd/#/profiles?id=underground) |
+| 2024-10-10 | [`Glacier`](https://google.com/search?q=Glacier) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-10-10 | [`Doscast Hacked`](https://google.com/search?q=Doscast+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2024-10-10 | [`K***N Corp`](https://google.com/search?q=K%2A%2A%2AN+Corp) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
 | 2024-10-09 | [`transfoodbeverage.com`](https://google.com/search?q=transfoodbeverage.com) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-10-01 | [`www.galab.com\$7.9M\Germany\120GB\&lt;1% DISCLOSED`](https://google.com/search?q=www.galab.com%5C%247.9M%5CGermany%5C120GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-10-01 | [`credihealth.com`](https://google.com/search?q=credihealth.com) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-10-01 | [`telehealthcenter.in`](https://google.com/search?q=telehealthcenter.in) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
-| 2024-09-30 | [`https://decalesp.com`](https://google.com/search?q=https%3A%2F%2Fdecalesp.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
-| 2024-09-30 | [`carlile-group.com`](https://google.com/search?q=carlile-group.com) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
