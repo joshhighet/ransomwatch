@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-10-11 | [`Therabel Lucien Pharma SAS`](https://google.com/search?q=Therabel+Lucien+Pharma+SAS) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
+| 2024-10-11 | [`Protective Industrial Products`](https://google.com/search?q=Protective+Industrial+Products) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-10-11 | [`Elmore Goldsmith`](https://google.com/search?q=Elmore+Goldsmith) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-10-11 | [`promise.com`](https://google.com/search?q=promise.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
 | 2024-10-11 | [`[DISCLOSED][i2p-torrent] Roberto Verino Difusion`](https://google.com/search?q=%5BDISCLOSED%5D%5Bi2p-torrent%5D+Roberto+Verino+Difusion) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-10-02 | [`ETC Companies`](https://google.com/search?q=ETC+Companies) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-10-02 | [`Holmes & Brakel`](https://google.com/search?q=Holmes+%26+Brakel) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-10-02 | [`Israel Prime Minister Emails`](https://google.com/search?q=Israel+Prime+Minister+Emails) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
-| 2024-10-02 | [`https://www.foccoerp.com.br`](https://google.com/search?q=https%3A%2F%2Fwww.foccoerp.com.br) | [trinity](https://ransomwatch.telemetry.ltd/#/profiles?id=trinity) |
-| 2024-10-02 | [`FoccoERP`](https://google.com/search?q=FoccoERP) | [trinity](https://ransomwatch.telemetry.ltd/#/profiles?id=trinity) |
