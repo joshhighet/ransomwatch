@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-10-12 | [`saizeriya.co.jp`](https://google.com/search?q=saizeriya.co.jp) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-10-12 | [`confidencegroup.com.bd`](https://google.com/search?q=confidencegroup.com.bd) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-10-12 | [`NextStage.AI`](https://google.com/search?q=NextStage.AI) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-10-11 | [`http://vra.com`](https://google.com/search?q=http%3A%2F%2Fvra.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-10-11 | [`Rumpke Consolidated Companies`](https://google.com/search?q=Rumpke+Consolidated+Companies) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-10-02 | [`rollxvans.com`](https://google.com/search?q=rollxvans.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-10-02 | [`ten8fire.com\$149M\USA\240GB\100% DISCLOSED`](https://google.com/search?q=ten8fire.com%5C%24149M%5CUSA%5C240GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-10-02 | [`hindlegroup.com\$30.6M\United Kingdom\380GB\100% DISCLOSED`](https://google.com/search?q=hindlegroup.com%5C%2430.6M%5CUnited+Kingdom%5C380GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2024-10-02 | [`kjtait.com\$18.8M\United Kingdom\1.2TB\100% DISCLOSED`](https://google.com/search?q=kjtait.com%5C%2418.8M%5CUnited+Kingdom%5C1.2TB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2024-10-02 | [`www.amchar.com\$28.7M\USA\605GB\100% DISCLOSED`](https://google.com/search?q=www.amchar.com%5C%2428.7M%5CUSA%5C605GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
