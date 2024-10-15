@@ -4,6 +4,10 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-10-15 | [`moi.gov.ly`](https://google.com/search?q=moi.gov.ly) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
+| 2024-10-15 | [`Corporate Job Bank`](https://google.com/search?q=Corporate+Job+Bank) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2024-10-15 | [`Lein Law Offices`](https://google.com/search?q=Lein+Law+Offices) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2024-10-15 | [`Boston Children's Health Physicians`](https://google.com/search?q=Boston+Children%27s+Health+Physicians) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-10-15 | [`Henry County Schools`](https://google.com/search?q=Henry+County+Schools) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2024-10-15 | [`Central Pennsylvania Food Bank`](https://google.com/search?q=Central+Pennsylvania+Food+Bank) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2024-10-15 | [`In the depths of software development. Unlocking the secrets of Promise Technology, Inc.`](https://google.com/search?q=In+the+depths+of+software+development.+Unlocking+the+secrets+of+Promise+Technology%2C+Inc.) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
@@ -200,7 +204,3 @@ _last `200` posts_
 | 2024-10-04 | [`North American Break er`](https://google.com/search?q=North+American+Break+er) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-10-04 | [`GW Mechanical`](https://google.com/search?q=GW+Mechanical) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-10-04 | [`Dreyfuss + Blackford Architecture`](https://google.com/search?q=Dreyfuss+%2B+Blackford+Architecture) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2024-10-04 | [`Amplitude Laser`](https://google.com/search?q=Amplitude+Laser) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2024-10-04 | [`Fursan Travel`](https://google.com/search?q=Fursan+Travel) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
-| 2024-10-04 | [`enterpriseoutsourcing.com`](https://google.com/search?q=enterpriseoutsourcing.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-10-04 | [`McGaughey &amp; Keaney CPAs `](https://google.com/search?q=McGaughey+%26amp%3B+Keaney+CPAs+) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
