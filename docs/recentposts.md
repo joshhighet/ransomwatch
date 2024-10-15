@@ -4,6 +4,10 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-10-15 | [`Rescar Companies`](https://google.com/search?q=Rescar+Companies) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-10-15 | [`OzarksGo`](https://google.com/search?q=OzarksGo) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-10-15 | [`Nora Biscuits`](https://google.com/search?q=Nora+Biscuits) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-10-15 | [`Concord`](https://google.com/search?q=Concord) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-10-14 | [`rudrakshahospitals.com`](https://google.com/search?q=rudrakshahospitals.com) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-10-14 | [`Courtney Construction`](https://google.com/search?q=Courtney+Construction) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-10-14 | [`Byerly Aviation`](https://google.com/search?q=Byerly+Aviation) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -200,7 +204,3 @@ _last `200` posts_
 | 2024-10-03 | [`Shin Bet Hacked`](https://google.com/search?q=Shin+Bet+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2024-10-03 | [`www.bbcjustice.com`](https://google.com/search?q=www.bbcjustice.com) | [trinity](https://ransomwatch.telemetry.ltd/#/profiles?id=trinity) |
 | 2024-10-03 | [`Barnes &amp; Cohen`](https://google.com/search?q=Barnes+%26amp%3B+Cohen) | [trinity](https://ransomwatch.telemetry.ltd/#/profiles?id=trinity) |
-| 2024-10-03 | [`https://www.foccoerp.com.br `](https://google.com/search?q=https%3A%2F%2Fwww.foccoerp.com.br+) | [trinity](https://ransomwatch.telemetry.ltd/#/profiles?id=trinity) |
-| 2024-10-03 | [`TRC Worldwide Engine ering (Trcww)`](https://google.com/search?q=TRC+Worldwide+Engine+ering+%28Trcww%29) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2024-10-03 | [`Rob Levine & Associa tes (roblevine.com)`](https://google.com/search?q=Rob+Levine+%26+Associa+tes+%28roblevine.com%29) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2024-10-03 | [`CaleyWray`](https://google.com/search?q=CaleyWray) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
