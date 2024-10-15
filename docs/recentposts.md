@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-10-15 | [`Aaren Scientific`](https://google.com/search?q=Aaren+Scientific) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-10-15 | [`Rescar Companies`](https://google.com/search?q=Rescar+Companies) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-10-15 | [`OzarksGo`](https://google.com/search?q=OzarksGo) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-10-15 | [`Nora Biscuits`](https://google.com/search?q=Nora+Biscuits) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-10-03 | [`CobelPlast`](https://google.com/search?q=CobelPlast) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-10-03 | [`Shin Bet Hacked`](https://google.com/search?q=Shin+Bet+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2024-10-03 | [`www.bbcjustice.com`](https://google.com/search?q=www.bbcjustice.com) | [trinity](https://ransomwatch.telemetry.ltd/#/profiles?id=trinity) |
-| 2024-10-03 | [`Barnes &amp; Cohen`](https://google.com/search?q=Barnes+%26amp%3B+Cohen) | [trinity](https://ransomwatch.telemetry.ltd/#/profiles?id=trinity) |
