@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-10-15 | [`Central Pennsylvania Food Bank`](https://google.com/search?q=Central+Pennsylvania+Food+Bank) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
+| 2024-10-15 | [`In the depths of software development. Unlocking the secrets of Promise Technology, Inc.`](https://google.com/search?q=In+the+depths+of+software+development.+Unlocking+the+secrets+of+Promise+Technology%2C+Inc.) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
 | 2024-10-15 | [`basarsoft.com.tr`](https://google.com/search?q=basarsoft.com.tr) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-10-15 | [`Parnell Defense`](https://google.com/search?q=Parnell+Defense) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-10-15 | [`Microworks`](https://google.com/search?q=Microworks) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-10-04 | [`enterpriseoutsourcing.com`](https://google.com/search?q=enterpriseoutsourcing.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-10-04 | [`McGaughey &amp; Keaney CPAs `](https://google.com/search?q=McGaughey+%26amp%3B+Keaney+CPAs+) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-10-04 | [`DPC DATA `](https://google.com/search?q=DPC+DATA+) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
-| 2024-10-04 | [`https://corstat.com`](https://google.com/search?q=https%3A%2F%2Fcorstat.com) | [cicada3301](https://ransomwatch.telemetry.ltd/#/profiles?id=cicada3301) |
-| 2024-10-04 | [`bbgc.gov.bd`](https://google.com/search?q=bbgc.gov.bd) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
