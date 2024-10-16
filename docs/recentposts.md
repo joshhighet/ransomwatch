@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-10-16 | [`Funlab`](https://google.com/search?q=Funlab) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
+| 2024-10-16 | [`Tankstar`](https://google.com/search?q=Tankstar) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
 | 2024-10-16 | [`Welker (welker.com)`](https://google.com/search?q=Welker+%28welker.com%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2024-10-16 | [`Cordogan Clark and Associates (cordoganclark.com) `](https://google.com/search?q=Cordogan+Clark+and+Associates+%28cordoganclark.com%29+) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2024-10-16 | [`powiatjedrzejow.pl`](https://google.com/search?q=powiatjedrzejow.pl) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-10-05 | [`betterhalf.ai`](https://google.com/search?q=betterhalf.ai) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-10-05 | [`omniboxx.nl`](https://google.com/search?q=omniboxx.nl) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-10-05 | [`BNBuilders`](https://google.com/search?q=BNBuilders) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2024-10-05 | [`winwinza.com`](https://google.com/search?q=winwinza.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-10-04 | [`Wilmington Convention Center`](https://google.com/search?q=Wilmington+Convention+Center) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
