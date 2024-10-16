@@ -4,6 +4,10 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-10-16 | [`Astolabs.com - ASTO LABS`](https://google.com/search?q=Astolabs.com+-+ASTO+LABS) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-10-16 | [`transport-system.com`](https://google.com/search?q=transport-system.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-10-16 | [`DoctorsToYou.com`](https://google.com/search?q=DoctorsToYou.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-10-16 | [`Horsesportireland.ie`](https://google.com/search?q=Horsesportireland.ie) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-10-16 | [`Food Sciences Corporation (foodsciences.com)`](https://google.com/search?q=Food+Sciences+Corporation+%28foodsciences.com%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2024-10-16 | [`G-plans.com`](https://google.com/search?q=G-plans.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-10-16 | [`Fpapak.org`](https://google.com/search?q=Fpapak.org) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -200,7 +204,3 @@ _last `200` posts_
 | 2024-10-04 | [`Pete's Road Service`](https://google.com/search?q=Pete%27s+Road+Service) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-10-04 | [`Markdom Plastic Products`](https://google.com/search?q=Markdom+Plastic+Products) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-10-04 | [`Guerriere & Halnon`](https://google.com/search?q=Guerriere+%26+Halnon) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-10-04 | [`C&L Ward`](https://google.com/search?q=C%26L+Ward) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-10-04 | [`releese.io`](https://google.com/search?q=releese.io) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-10-04 | [`kleberandassociates.com`](https://google.com/search?q=kleberandassociates.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-10-04 | [`https://genproinc.com/`](https://google.com/search?q=https%3A%2F%2Fgenproinc.com%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
