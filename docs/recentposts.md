@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-10-16 | [`Welker (welker.com)`](https://google.com/search?q=Welker+%28welker.com%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
+| 2024-10-16 | [`Cordogan Clark and Associates (cordoganclark.com) `](https://google.com/search?q=Cordogan+Clark+and+Associates+%28cordoganclark.com%29+) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
+| 2024-10-16 | [`powiatjedrzejow.pl`](https://google.com/search?q=powiatjedrzejow.pl) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-10-16 | [`Astolabs.com - ASTO LABS`](https://google.com/search?q=Astolabs.com+-+ASTO+LABS) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-10-16 | [`transport-system.com`](https://google.com/search?q=transport-system.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-10-16 | [`DoctorsToYou.com`](https://google.com/search?q=DoctorsToYou.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2024-10-05 | [`BNBuilders`](https://google.com/search?q=BNBuilders) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-10-05 | [`winwinza.com`](https://google.com/search?q=winwinza.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-10-04 | [`Wilmington Convention Center`](https://google.com/search?q=Wilmington+Convention+Center) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-10-04 | [`Pete's Road Service`](https://google.com/search?q=Pete%27s+Road+Service) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-10-04 | [`Markdom Plastic Products`](https://google.com/search?q=Markdom+Plastic+Products) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-10-04 | [`Guerriere & Halnon`](https://google.com/search?q=Guerriere+%26+Halnon) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
