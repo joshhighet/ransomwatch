@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-10-16 | [`G-plans.com`](https://google.com/search?q=G-plans.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-10-16 | [`Fpapak.org`](https://google.com/search?q=Fpapak.org) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-10-16 | [`synertrade.com\$42M\USA\3TB\&lt;1% DISCLOSED`](https://google.com/search?q=synertrade.com%5C%2442M%5CUSA%5C3TB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-10-16 | [`Nor-Well`](https://google.com/search?q=Nor-Well) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-10-16 | [`Kuhn and Associates`](https://google.com/search?q=Kuhn+and+Associates) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-10-16 | [`CETRULO`](https://google.com/search?q=CETRULO) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2024-10-04 | [`kleberandassociates.com`](https://google.com/search?q=kleberandassociates.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-10-04 | [`https://genproinc.com/`](https://google.com/search?q=https%3A%2F%2Fgenproinc.com%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-10-04 | [`City Of Forest Park - Full Leak`](https://google.com/search?q=City+Of+Forest+Park+-+Full+Leak) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
-| 2024-10-04 | [`Riley Gear Corporati on`](https://google.com/search?q=Riley+Gear+Corporati+on) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2024-10-04 | [`TANYA Creations`](https://google.com/search?q=TANYA+Creations) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2024-10-04 | [`http://www.copysmart.us`](https://google.com/search?q=http%3A%2F%2Fwww.copysmart.us) | [ciphbit](https://ransomwatch.telemetry.ltd/#/profiles?id=ciphbit) |
