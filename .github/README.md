@@ -68,7 +68,7 @@ rendered HTML for each page is viewable within the [source](https://github.com/j
 - [screenshotter.py](https://github.com/joshhighet/ransomwatch/blob/main/assets/screenshotter.py) _a playwright script to generate high-resolution screenshots of online hosts_
 - [srcanalyser.py](https://github.com/joshhighet/ransomwatch/blob/main/assets/srcanalyser.py) _a basic extractor for emails, internal and external links found within page source_
 - [browse-hosts.sh](https://github.com/joshhighet/ransomwatch/blob/main/assets/browse-hosts.sh) _a simple cURL based iterator for sweeping URL checks_
-- [sources.zsh](https://github.com/joshhighet/ransomwatch/blob/main/assets/sources.zsh) _an aggregator of various locations that surface new groups for ransomwatch_
+- [sources.sh](https://github.com/joshhighet/ransomwatch/blob/main/assets/sources.sh) _an aggregator of various locations that surface new groups for ransomwatch_
 - [uptimekuma-importer.py](https://github.com/joshhighet/ransomwatch/blob/main/assets/uptimekuma-importer.py) _a script to convert the group data into a [uptime-kuma](https://github.com/louislam/uptime-kuma) configuration file_
 - [parsers.sh](https://github.com/joshhighet/ransomwatch/blob/main/assets/parsers.sh) _a health-check script that provides details on parsers that are returning no fields_
 
