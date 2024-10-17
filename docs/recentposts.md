@@ -4,6 +4,12 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-10-17 | [`www.chiltonisd.org`](https://google.com/search?q=www.chiltonisd.org) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-10-17 | [`www.kersey.net`](https://google.com/search?q=www.kersey.net) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-10-17 | [`www.aristoiclassical.org`](https://google.com/search?q=www.aristoiclassical.org) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-10-17 | [`www.camelotservices.com`](https://google.com/search?q=www.camelotservices.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-10-17 | [`matki.co.uk\$23M\United Kingdom\267GB\100% DISCLOSED`](https://google.com/search?q=matki.co.uk%5C%2423M%5CUnited+Kingdom%5C267GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
+| 2024-10-17 | [`corporatejobbank.com\$22.8M\USA\65GB\100% DISCLOSED`](https://google.com/search?q=corporatejobbank.com%5C%2422.8M%5CUSA%5C65GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-10-17 | [`HiCare.net`](https://google.com/search?q=HiCare.net) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-10-17 | [`Bigpharmacy.com.my`](https://google.com/search?q=Bigpharmacy.com.my) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-10-17 | [`volohealth.in`](https://google.com/search?q=volohealth.in) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
@@ -198,9 +204,3 @@ _last `200` posts_
 | 2024-10-06 | [`acdcexpress.com`](https://google.com/search?q=acdcexpress.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-10-06 | [`IIB ( Israeli Industrial Batteries ) Leaked`](https://google.com/search?q=IIB+%28+Israeli+Industrial+Batteries+%29+Leaked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2024-10-06 | [`seoulpi.io`](https://google.com/search?q=seoulpi.io) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
-| 2024-10-06 | [`www.aosense.com`](https://google.com/search?q=www.aosense.com) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
-| 2024-10-06 | [`www.nasa.gov`](https://google.com/search?q=www.nasa.gov) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
-| 2024-10-05 | [`Power Torque Services`](https://google.com/search?q=Power+Torque+Services) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-10-05 | [`Creative Consumer Concepts`](https://google.com/search?q=Creative+Consumer+Concepts) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-10-05 | [`canstarrestorations.com`](https://google.com/search?q=canstarrestorations.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-10-05 | [`www.ravencm.com`](https://google.com/search?q=www.ravencm.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
