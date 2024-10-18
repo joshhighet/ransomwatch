@@ -4,6 +4,11 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-10-18 | [`http://dubingroup.com`](https://google.com/search?q=http%3A%2F%2Fdubingroup.com) | [cicada3301](https://ransomwatch.telemetry.ltd/#/profiles?id=cicada3301) |
+| 2024-10-18 | [`https://rdccontrol.com`](https://google.com/search?q=https%3A%2F%2Frdccontrol.com) | [cicada3301](https://ransomwatch.telemetry.ltd/#/profiles?id=cicada3301) |
+| 2024-10-18 | [`https://racingforensics.com`](https://google.com/search?q=https%3A%2F%2Fracingforensics.com) | [cicada3301](https://ransomwatch.telemetry.ltd/#/profiles?id=cicada3301) |
+| 2024-10-18 | [`https://www.luxwood.ca`](https://google.com/search?q=https%3A%2F%2Fwww.luxwood.ca) | [cicada3301](https://ransomwatch.telemetry.ltd/#/profiles?id=cicada3301) |
+| 2024-10-18 | [`tripxoxo.com`](https://google.com/search?q=tripxoxo.com) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-10-17 | [`www.proflex.ro`](https://google.com/search?q=www.proflex.ro) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-10-17 | [`www.icp.pr.gov`](https://google.com/search?q=www.icp.pr.gov) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-10-17 | [`www.chiltonisd.org`](https://google.com/search?q=www.chiltonisd.org) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -199,8 +204,3 @@ _last `200` posts_
 | 2024-10-06 | [`apexbrasil.com.br`](https://google.com/search?q=apexbrasil.com.br) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-10-06 | [`allweatheraa.com`](https://google.com/search?q=allweatheraa.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-10-06 | [`alconca.com.ve`](https://google.com/search?q=alconca.com.ve) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-10-06 | [`albonanova.at`](https://google.com/search?q=albonanova.at) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-10-06 | [`albanybank.com`](https://google.com/search?q=albanybank.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-10-06 | [`akanea.com`](https://google.com/search?q=akanea.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-10-06 | [`agapefrance.org`](https://google.com/search?q=agapefrance.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-10-06 | [`acdcexpress.com`](https://google.com/search?q=acdcexpress.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
