@@ -4,6 +4,11 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-10-18 | [`Wilkinson`](https://google.com/search?q=Wilkinson) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-10-18 | [`The Strainrite Companies`](https://google.com/search?q=The+Strainrite+Companies) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-10-18 | [`Mid State Electric`](https://google.com/search?q=Mid+State+Electric) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-10-18 | [`McCody`](https://google.com/search?q=McCody) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-10-18 | [`Absolute Machine Tools`](https://google.com/search?q=Absolute+Machine+Tools) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-10-18 | [`https://indiba.com`](https://google.com/search?q=https%3A%2F%2Findiba.com) | [cicada3301](https://ransomwatch.telemetry.ltd/#/profiles?id=cicada3301) |
 | 2024-10-18 | [`Astolabs.com`](https://google.com/search?q=Astolabs.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-10-18 | [`Cordogan Clark and Associates (cordoganclark.com)`](https://google.com/search?q=Cordogan+Clark+and+Associates+%28cordoganclark.com%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
@@ -199,8 +204,3 @@ _last `200` posts_
 | 2024-10-06 | [`dmmerch.com`](https://google.com/search?q=dmmerch.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-10-06 | [`divaris.com`](https://google.com/search?q=divaris.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-10-06 | [`designintoto.com.au`](https://google.com/search?q=designintoto.com.au) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-10-06 | [`customssupport.be`](https://google.com/search?q=customssupport.be) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-10-06 | [`concorddirect.com`](https://google.com/search?q=concorddirect.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-10-06 | [`clinicatezza.com.pe`](https://google.com/search?q=clinicatezza.com.pe) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-10-06 | [`claycountyin.gov`](https://google.com/search?q=claycountyin.gov) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-10-06 | [`ciberviaxesespecial.net`](https://google.com/search?q=ciberviaxesespecial.net) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
