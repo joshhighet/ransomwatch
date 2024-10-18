@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-10-18 | [`www.qal.com`](https://google.com/search?q=www.qal.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-10-18 | [`Q***M`](https://google.com/search?q=Q%2A%2A%2AM) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
 | 2024-10-18 | [`CreaGen Inc`](https://google.com/search?q=CreaGen+Inc) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2024-10-18 | [`http://dubingroup.com`](https://google.com/search?q=http%3A%2F%2Fdubingroup.com) | [cicada3301](https://ransomwatch.telemetry.ltd/#/profiles?id=cicada3301) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-10-06 | [`barkingwell.gr`](https://google.com/search?q=barkingwell.gr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-10-06 | [`atcdi.com.cn`](https://google.com/search?q=atcdi.com.cn) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-10-06 | [`assih.com`](https://google.com/search?q=assih.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-10-06 | [`apexbrasil.com.br`](https://google.com/search?q=apexbrasil.com.br) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
