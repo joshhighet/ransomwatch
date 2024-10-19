@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-10-19 | [`Country Inn &#038; Suites by Radisson`](https://google.com/search?q=Country+Inn+%26%23038%3B+Suites+by+Radisson) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2024-10-18 | [`Wilkinson`](https://google.com/search?q=Wilkinson) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-10-18 | [`The Strainrite Companies`](https://google.com/search?q=The+Strainrite+Companies) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-10-18 | [`Mid State Electric`](https://google.com/search?q=Mid+State+Electric) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-10-06 | [`dowley.com`](https://google.com/search?q=dowley.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-10-06 | [`dmmerch.com`](https://google.com/search?q=dmmerch.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-10-06 | [`divaris.com`](https://google.com/search?q=divaris.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-10-06 | [`designintoto.com.au`](https://google.com/search?q=designintoto.com.au) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
