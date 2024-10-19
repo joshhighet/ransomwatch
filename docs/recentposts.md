@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-10-19 | [`Michael J Gurfinkel`](https://google.com/search?q=Michael+J+Gurfinkel) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
+| 2024-10-19 | [`KMC Controls`](https://google.com/search?q=KMC+Controls) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-10-19 | [`clinicia.com`](https://google.com/search?q=clinicia.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-10-19 | [`paciente.sempremedico.com.br`](https://google.com/search?q=paciente.sempremedico.com.br) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-10-19 | [`starhealth.in`](https://google.com/search?q=starhealth.in) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-10-06 | [`fanningfanning.com`](https://google.com/search?q=fanningfanning.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-10-06 | [`fairfieldmemorial.org`](https://google.com/search?q=fairfieldmemorial.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-10-06 | [`exol-lubricants.com`](https://google.com/search?q=exol-lubricants.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-10-06 | [`energateinc.com`](https://google.com/search?q=energateinc.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-10-06 | [`emanic.net`](https://google.com/search?q=emanic.net) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
