@@ -4,6 +4,15 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-10-22 | [`Precision Steel Services`](https://google.com/search?q=Precision+Steel+Services) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
+| 2024-10-22 | [`tkg.com`](https://google.com/search?q=tkg.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-10-22 | [`lpahorticole.faylbillot.educagri.fr`](https://google.com/search?q=lpahorticole.faylbillot.educagri.fr) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-10-22 | [`bwdtechnology.com`](https://google.com/search?q=bwdtechnology.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-10-22 | [`davisbrothersinc.com`](https://google.com/search?q=davisbrothersinc.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-10-22 | [`polypane.be`](https://google.com/search?q=polypane.be) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-10-22 | [`dennissupply.com`](https://google.com/search?q=dennissupply.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-10-22 | [`specpro-inc.com`](https://google.com/search?q=specpro-inc.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-10-22 | [`semna.fr`](https://google.com/search?q=semna.fr) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-10-22 | [`1doc.sg`](https://google.com/search?q=1doc.sg) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-10-22 | [`mauguio-carnon.com`](https://google.com/search?q=mauguio-carnon.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-10-22 | [`donbosco-landser.net`](https://google.com/search?q=donbosco-landser.net) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -195,12 +204,3 @@ _last `200` posts_
 | 2024-10-06 | [`townandforest.co.uk`](https://google.com/search?q=townandforest.co.uk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-10-06 | [`tdsb.on.ca`](https://google.com/search?q=tdsb.on.ca) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-10-06 | [`tccfleet.com`](https://google.com/search?q=tccfleet.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-10-06 | [`sullivansteelservice.com`](https://google.com/search?q=sullivansteelservice.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-10-06 | [`soprema.com`](https://google.com/search?q=soprema.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-10-06 | [`sandytownshippolice.org`](https://google.com/search?q=sandytownshippolice.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-10-06 | [`sampoernaagro.com`](https://google.com/search?q=sampoernaagro.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-10-06 | [`salaam.af`](https://google.com/search?q=salaam.af) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-10-06 | [`robesoncoso.org`](https://google.com/search?q=robesoncoso.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-10-06 | [`rhp.com.br`](https://google.com/search?q=rhp.com.br) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-10-06 | [`qespavements.com`](https://google.com/search?q=qespavements.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-10-06 | [`policiaauxiliarcusaem.com.mx`](https://google.com/search?q=policiaauxiliarcusaem.com.mx) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
