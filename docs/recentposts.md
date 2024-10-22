@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-10-22 | [`boloforms.com`](https://google.com/search?q=boloforms.com) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-10-22 | [`onedayevent.com`](https://google.com/search?q=onedayevent.com) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-10-22 | [`autodukan.com`](https://google.com/search?q=autodukan.com) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-10-21 | [`fordcountrymotors.mx`](https://google.com/search?q=fordcountrymotors.mx) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-10-06 | [`plantmachineworks.com`](https://google.com/search?q=plantmachineworks.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-10-06 | [`pkf.com.au`](https://google.com/search?q=pkf.com.au) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-10-06 | [`piedmonthoist.com`](https://google.com/search?q=piedmonthoist.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-10-06 | [`petroassist.co.uk`](https://google.com/search?q=petroassist.co.uk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
