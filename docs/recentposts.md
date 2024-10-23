@@ -4,6 +4,10 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-10-23 | [`Prince Pipes`](https://google.com/search?q=Prince+Pipes) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
+| 2024-10-23 | [`P+B Team Aircargo`](https://google.com/search?q=P%2BB+Team+Aircargo) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
+| 2024-10-23 | [`Gluckstein Personal Injury Lawyers`](https://google.com/search?q=Gluckstein+Personal+Injury+Lawyers) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2024-10-23 | [`The Povman Law Firm`](https://google.com/search?q=The+Povman+Law+Firm) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-10-23 | [`passivecomponent.com`](https://google.com/search?q=passivecomponent.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-10-23 | [`Goshen Central School District (gcsny.org)`](https://google.com/search?q=Goshen+Central+School+District+%28gcsny.org%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2024-10-23 | [`Mar-Bal (mar-bal.com)`](https://google.com/search?q=Mar-Bal+%28mar-bal.com%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
@@ -200,7 +204,3 @@ _last `200` posts_
 | 2024-10-08 | [`corporatejobbank.com\$22.8M\USA\65GB\&lt;1% DISCLOSED`](https://google.com/search?q=corporatejobbank.com%5C%2422.8M%5CUSA%5C65GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-10-08 | [`Max Shop Hacked`](https://google.com/search?q=Max+Shop+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2024-10-07 | [`healthyuturn.in`](https://google.com/search?q=healthyuturn.in) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
-| 2024-10-07 | [`nspproteins.com`](https://google.com/search?q=nspproteins.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-10-07 | [`Richmond Auto Mall - Full Leak`](https://google.com/search?q=Richmond+Auto+Mall+-+Full+Leak) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
-| 2024-10-07 | [`Pearl Cohen`](https://google.com/search?q=Pearl+Cohen) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2024-10-07 | [`autodoc.pro`](https://google.com/search?q=autodoc.pro) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
