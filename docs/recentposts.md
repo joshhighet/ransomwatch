@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-10-24 | [`Apache Mills, Inc. (apachemills.com)`](https://google.com/search?q=Apache+Mills%2C+Inc.+%28apachemills.com%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2024-10-24 | [`picsolve.com\$32M\USA\620GB\&lt;1% DISCLOSED`](https://google.com/search?q=picsolve.com%5C%2432M%5CUSA%5C620GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-10-24 | [`bcllegal.com\$16.7M\United Kingdom\829GB\&lt;1% DISCLOSED`](https://google.com/search?q=bcllegal.com%5C%2416.7M%5CUnited+Kingdom%5C829GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-10-24 | [`B****A`](https://google.com/search?q=B%2A%2A%2A%2AA) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-10-08 | [`Smoker's Choice`](https://google.com/search?q=Smoker%27s+Choice) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-10-08 | [`Saratoga Liquor`](https://google.com/search?q=Saratoga+Liquor) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-10-08 | [`Eagle Recovery Associates`](https://google.com/search?q=Eagle+Recovery+Associates) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-10-08 | [`AnVa Industries`](https://google.com/search?q=AnVa+Industries) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
