@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-10-24 | [`picsolve.com\$32M\USA\620GB\&lt;1% DISCLOSED`](https://google.com/search?q=picsolve.com%5C%2432M%5CUSA%5C620GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
+| 2024-10-24 | [`bcllegal.com\$16.7M\United Kingdom\829GB\&lt;1% DISCLOSED`](https://google.com/search?q=bcllegal.com%5C%2416.7M%5CUnited+Kingdom%5C829GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-10-24 | [`B****A`](https://google.com/search?q=B%2A%2A%2A%2AA) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
 | 2024-10-24 | [`F*******M Corp`](https://google.com/search?q=F%2A%2A%2A%2A%2A%2A%2AM+Corp) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
 | 2024-10-24 | [`LifeMine`](https://google.com/search?q=LifeMine) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-10-08 | [`Saratoga Liquor`](https://google.com/search?q=Saratoga+Liquor) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-10-08 | [`Eagle Recovery Associates`](https://google.com/search?q=Eagle+Recovery+Associates) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-10-08 | [`AnVa Industries`](https://google.com/search?q=AnVa+Industries) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-10-08 | [`Accounting Resource Group`](https://google.com/search?q=Accounting+Resource+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-10-08 | [`actionfirepros.com\$17.4M\USA\407GB\100% DISCLOSED`](https://google.com/search?q=actionfirepros.com%5C%2417.4M%5CUSA%5C407GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
