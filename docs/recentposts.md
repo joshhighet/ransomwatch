@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-10-24 | [`Tuggle Duggins`](https://google.com/search?q=Tuggle+Duggins) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-10-24 | [`Value City NJ (valuecitynj.com)`](https://google.com/search?q=Value+City+NJ+%28valuecitynj.com%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2024-10-24 | [`The Getz Group (getz.com.hk)`](https://google.com/search?q=The+Getz+Group+%28getz.com.hk%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2024-10-24 | [`carolinaarthritis.com`](https://google.com/search?q=carolinaarthritis.com) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-10-09 | [`Universite Paris Sud`](https://google.com/search?q=Universite+Paris+Sud) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2024-10-09 | [`avans.com`](https://google.com/search?q=avans.com) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-10-08 | [`Ambassador of Israel in Germany Emails`](https://google.com/search?q=Ambassador+of+Israel+in+Germany+Emails) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
-| 2024-10-08 | [`pingan.com`](https://google.com/search?q=pingan.com) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
