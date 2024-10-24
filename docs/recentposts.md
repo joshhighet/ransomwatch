@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-10-24 | [`Value City NJ (valuecitynj.com)`](https://google.com/search?q=Value+City+NJ+%28valuecitynj.com%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
+| 2024-10-24 | [`The Getz Group (getz.com.hk)`](https://google.com/search?q=The+Getz+Group+%28getz.com.hk%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
+| 2024-10-24 | [`carolinaarthritis.com`](https://google.com/search?q=carolinaarthritis.com) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
 | 2024-10-24 | [`Apache Mills, Inc. (apachemills.com)`](https://google.com/search?q=Apache+Mills%2C+Inc.+%28apachemills.com%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2024-10-24 | [`picsolve.com\$32M\USA\620GB\&lt;1% DISCLOSED`](https://google.com/search?q=picsolve.com%5C%2432M%5CUSA%5C620GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-10-24 | [`bcllegal.com\$16.7M\United Kingdom\829GB\&lt;1% DISCLOSED`](https://google.com/search?q=bcllegal.com%5C%2416.7M%5CUnited+Kingdom%5C829GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2024-10-09 | [`avans.com`](https://google.com/search?q=avans.com) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-10-08 | [`Ambassador of Israel in Germany Emails`](https://google.com/search?q=Ambassador+of+Israel+in+Germany+Emails) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2024-10-08 | [`pingan.com`](https://google.com/search?q=pingan.com) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
-| 2024-10-08 | [`Smoker's Choice`](https://google.com/search?q=Smoker%27s+Choice) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-10-08 | [`Saratoga Liquor`](https://google.com/search?q=Saratoga+Liquor) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-10-08 | [`Eagle Recovery Associates`](https://google.com/search?q=Eagle+Recovery+Associates) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
