@@ -3160,7 +3160,7 @@
         "captcha": true,
         "parser": true,
         "javascript_render": true,
-        "meta": null,
+        "meta": "pkey: 6A3OUL5IALGWJYQ2C53V7WOTVU7SKZYJ6MHXHKTLVUBPVZTEKVFA",
         "locations": [
             {
                 "fqdn": "lockbit3753ekiocyo5epmpy6klmejchjtzddoekjlnt6mu3qh4de2id.onion",
@@ -3440,6 +3440,206 @@
                 "available": true,
                 "updated": "2024-10-25 02:41:04.024110",
                 "lastscrape": "2024-10-25 02:41:04.024093",
+                "enabled": true
+            },
+            {
+                "fqdn": "lbb2llze7ab4rnq4jumsy4ihsqzpuysaofpz2e43foocwmrzsokumqid.onion",
+                "title": null,
+                "version": 3,
+                "slug": "http://lbb2llze7ab4rnq4jumsy4ihsqzpuysaofpz2e43foocwmrzsokumqid.onion",
+                "available": false,
+                "updated": null,
+                "lastscrape": "2021-05-01 00:00:00.000000",
+                "enabled": true
+            },
+            {
+                "fqdn": "lbb47q2f7nzeatj6mxppuk7bhnvwu23mf6pfuywxcz57dwnzl6z3ksqd.onion",
+                "title": null,
+                "version": 3,
+                "slug": "http://lbb47q2f7nzeatj6mxppuk7bhnvwu23mf6pfuywxcz57dwnzl6z3ksqd.onion",
+                "available": false,
+                "updated": null,
+                "lastscrape": "2021-05-01 00:00:00.000000",
+                "enabled": true
+            },
+            {
+                "fqdn": "lbb5cnqexve2wg6acbfyohkzeijflpqmgijx5ksyvu4aljv27r2lgiid.onion",
+                "title": null,
+                "version": 3,
+                "slug": "http://lbb5cnqexve2wg6acbfyohkzeijflpqmgijx5ksyvu4aljv27r2lgiid.onion",
+                "available": false,
+                "updated": null,
+                "lastscrape": "2021-05-01 00:00:00.000000",
+                "enabled": true
+            },
+            {
+                "fqdn": "lbb6ud2vyf23z4hw6fzskr5gru7eftbjfbd6yzra3hzuqqvjy63blqqd.onion",
+                "title": null,
+                "version": 3,
+                "slug": "http://lbb6ud2vyf23z4hw6fzskr5gru7eftbjfbd6yzra3hzuqqvjy63blqqd.onion",
+                "available": false,
+                "updated": null,
+                "lastscrape": "2021-05-01 00:00:00.000000",
+                "enabled": true
+            },
+            {
+                "fqdn": "lbbchnkrhkjtltjunmqsbw32bbblsd5bd2pqywtt2bex4bjmo5ry2iqd.onion",
+                "title": null,
+                "version": 3,
+                "slug": "http://lbbchnkrhkjtltjunmqsbw32bbblsd5bd2pqywtt2bex4bjmo5ry2iqd.onion",
+                "available": false,
+                "updated": null,
+                "lastscrape": "2021-05-01 00:00:00.000000",
+                "enabled": true
+            },
+            {
+                "fqdn": "lbbellr6aq4kuchzy44pmimszfd4di4fslez765ux4kse3o4lxcnpgid.onion",
+                "title": null,
+                "version": 3,
+                "slug": "http://lbbellr6aq4kuchzy44pmimszfd4di4fslez765ux4kse3o4lxcnpgid.onion",
+                "available": false,
+                "updated": null,
+                "lastscrape": "2021-05-01 00:00:00.000000",
+                "enabled": true
+            },
+            {
+                "fqdn": "lbbfsazjqqwvtq2ckhm53kfmvsy7c6sdci3uy6qui4lv66aeef7hhpad.onion",
+                "title": null,
+                "version": 3,
+                "slug": "http://lbbfsazjqqwvtq2ckhm53kfmvsy7c6sdci3uy6qui4lv66aeef7hhpad.onion",
+                "available": false,
+                "updated": null,
+                "lastscrape": "2021-05-01 00:00:00.000000",
+                "enabled": true
+            },
+            {
+                "fqdn": "lbbgv7wsi6bpguvjbu6omdgwzllqm5tvdo65do2q7vw4er7aqrnjmtad.onion",
+                "title": null,
+                "version": 3,
+                "slug": "http://lbbgv7wsi6bpguvjbu6omdgwzllqm5tvdo65do2q7vw4er7aqrnjmtad.onion",
+                "available": false,
+                "updated": null,
+                "lastscrape": "2021-05-01 00:00:00.000000",
+                "enabled": true
+            },
+            {
+                "fqdn": "lbbk5lfftmhhu2qtahhg4wpnxw4bmtzoy5mu7g4jwyfyeyqoe3vpl4yd.onion",
+                "title": null,
+                "version": 3,
+                "slug": "http://lbbk5lfftmhhu2qtahhg4wpnxw4bmtzoy5mu7g4jwyfyeyqoe3vpl4yd.onion",
+                "available": false,
+                "updated": null,
+                "lastscrape": "2021-05-01 00:00:00.000000",
+                "enabled": true
+            },
+            {
+                "fqdn": "lbbjmbkvw3yurmnazwkbj5muyvw5dd6y7hyxrus23y33qiqczclrnbyd.onion",
+                "title": null,
+                "version": 3,
+                "slug": "http://lbbjmbkvw3yurmnazwkbj5muyvw5dd6y7hyxrus23y33qiqczclrnbyd.onion",
+                "available": false,
+                "updated": null,
+                "lastscrape": "2021-05-01 00:00:00.000000",
+                "enabled": true
+            },
+            {
+                "fqdn": "lbbov7weoojwnqytnjqygmglkwtim5dvyw3xvoluk5ostz75ofd6enqd.onion",
+                "title": null,
+                "version": 3,
+                "slug": "http://lbbov7weoojwnqytnjqygmglkwtim5dvyw3xvoluk5ostz75ofd6enqd.onion",
+                "available": false,
+                "updated": null,
+                "lastscrape": "2021-05-01 00:00:00.000000",
+                "enabled": true
+            },
+            {
+                "fqdn": "lbbp2rsfcmg5durpwgs22wxrdngsa4wiwmc4xk6hgmuluy6bvbvvtlid.onion",
+                "title": null,
+                "version": 3,
+                "slug": "http://lbbp2rsfcmg5durpwgs22wxrdngsa4wiwmc4xk6hgmuluy6bvbvvtlid.onion",
+                "available": false,
+                "updated": null,
+                "lastscrape": "2021-05-01 00:00:00.000000",
+                "enabled": true
+            },
+            {
+                "fqdn": "lbbpoq6d2jglpw7dxarr6oaakgnlxt5nmrza5ojlufsuffuzexajsuyd.onion",
+                "title": null,
+                "version": 3,
+                "slug": "http://lbbpoq6d2jglpw7dxarr6oaakgnlxt5nmrza5ojlufsuffuzexajsuyd.onion",
+                "available": false,
+                "updated": null,
+                "lastscrape": "2021-05-01 00:00:00.000000",
+                "enabled": true
+            },
+            {
+                "fqdn": "lbbuxq57hyskobn5xwtw26rkq4wyvttory6k7pio2lv5adeopeezv6ad.onion",
+                "title": null,
+                "version": 3,
+                "slug": "http://lbbuxq57hyskobn5xwtw26rkq4wyvttory6k7pio2lv5adeopeezv6ad.onion",
+                "available": false,
+                "updated": null,
+                "lastscrape": "2021-05-01 00:00:00.000000",
+                "enabled": true
+            },
+            {
+                "fqdn": "lbbvhambmct5s4rpf2b65mrnqynhpn4hksq47io2wow5cjtv3xmsypid.onion",
+                "title": null,
+                "version": 3,
+                "slug": "http://lbbvhambmct5s4rpf2b65mrnqynhpn4hksq47io2wow5cjtv3xmsypid.onion",
+                "available": false,
+                "updated": null,
+                "lastscrape": "2021-05-01 00:00:00.000000",
+                "enabled": true
+            },
+            {
+                "fqdn": "lbbw6uqp2te2f323ltn2fgwl5tu5cr3udoj3ik2obdtr5367skuh4cid.onion",
+                "title": null,
+                "version": 3,
+                "slug": "http://lbbw6uqp2te2f323ltn2fgwl5tu5cr3udoj3ik2obdtr5367skuh4cid.onion",
+                "available": false,
+                "updated": null,
+                "lastscrape": "2021-05-01 00:00:00.000000",
+                "enabled": true
+            },
+            {
+                "fqdn": "lbbw7j6si6k2bzxd4tzvesoijfjtr4pa6awqie63rmkpql7hmu6tqnqd.onion",
+                "title": null,
+                "version": 3,
+                "slug": "http://lbbw7j6si6k2bzxd4tzvesoijfjtr4pa6awqie63rmkpql7hmu6tqnqd.onion",
+                "available": false,
+                "updated": null,
+                "lastscrape": "2021-05-01 00:00:00.000000",
+                "enabled": true
+            },
+            {
+                "fqdn": "lbbxv6nlojheut6th4nqwpabr4gtksm7y7f4c52ubvvvumydpo4dmryd.onion",
+                "title": null,
+                "version": 3,
+                "slug": "http://lbbxv6nlojheut6th4nqwpabr4gtksm7y7f4c52ubvvvumydpo4dmryd.onion",
+                "available": false,
+                "updated": null,
+                "lastscrape": "2021-05-01 00:00:00.000000",
+                "enabled": true
+            },
+            {
+                "fqdn": "lbbzlychkbilhjsw5hhuvk7zk4axdffy3nvel3zaqwnuo2d4nlqqkeyd.onion",
+                "title": null,
+                "version": 3,
+                "slug": "http://lbbzlychkbilhjsw5hhuvk7zk4axdffy3nvel3zaqwnuo2d4nlqqkeyd.onion",
+                "available": false,
+                "updated": null,
+                "lastscrape": "2021-05-01 00:00:00.000000",
+                "enabled": true
+            },
+            {
+                "fqdn": "lbbzme4ctvcgzo5lq7jvcdy2v2cs6hrlgihsmylfddprzqptm6ywhhyd.onion",
+                "title": null,
+                "version": 3,
+                "slug": "http://lbbzme4ctvcgzo5lq7jvcdy2v2cs6hrlgihsmylfddprzqptm6ywhhyd.onion",
+                "available": false,
+                "updated": null,
+                "lastscrape": "2021-05-01 00:00:00.000000",
                 "enabled": true
             }
         ],
