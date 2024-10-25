@@ -13,9 +13,6 @@ check ransomwatch-history - https://github.com/joshhighet/ransomwatch-history
   <a href="https://github.com/joshhighet/ransomwatch/actions/workflows/ransomwatch.yml">
     <img src="https://github.com/joshhighet/ransomwatch/actions/workflows/ransomwatch.yml/badge.svg" alt="ransomwatch engine" />
   </a>
-  <a href="https://github.com/joshhighet/ransomwatch/actions/workflows/ransomwatch-build.yml">
-    <img src="https://github.com/joshhighet/ransomwatch/actions/workflows/ransomwatch-build.yml/badge.svg" alt="ransomwatch dockerimage builder" />
-  </a>
   <a href="https://github.com/joshhighet/ransomwatch/actions/workflows/codeql-analysis.yml">
     <img src="https://github.com/joshhighet/ransomwatch/actions/workflows/codeql-analysis.yml/badge.svg" alt="ransomwatch codeql analysis" />
   </a>
