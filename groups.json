@@ -5562,7 +5562,7 @@
                 "fqdn": "meow6xanhzfci2gbkn3lmbqq7xjjufskkdfocqdngt3ltvzgqpsg5mid.onion",
                 "title": "MEOW",
                 "version": 3,
-                "slug": "http://meow6xanhzfci2gbkn3lmbqq7xjjufskkdfocqdngt3ltvzgqpsg5mid.onion",
+                "slug": "http://meow6xanhzfci2gbkn3lmbqq7xjjufskkdfocqdngt3ltvzgqpsg5mid.onion/backend/post/getPosts?page=1&search=",
                 "available": true,
                 "updated": "2024-10-25 02:54:22.536196",
                 "lastscrape": "2024-10-25 02:54:22.536183",

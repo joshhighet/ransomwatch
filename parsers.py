@@ -1248,8 +1248,9 @@ def hunters():
 
 def meow():
     stdlog('parser: ' + 'meow')
+    # jq -r '.data[].title' source/meow-totos*.html || true
     parser = '''
-    jq -r '.data[].title' source/meow-totos*.html || true
+    jq -r '.data.posts[].title' source/meow-meow6x*.html || true
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
