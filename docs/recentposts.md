@@ -63,6 +63,17 @@ _last `200` posts_
 | 2024-10-25 | [`ExcelPlast Tunisie`](https://google.com/search?q=ExcelPlast+Tunisie) | [orca](https://ransomwatch.telemetry.ltd/#/profiles?id=orca) |
 | 2024-10-25 | [`Chernan Technology`](https://google.com/search?q=Chernan+Technology) | [orca](https://ransomwatch.telemetry.ltd/#/profiles?id=orca) |
 | 2024-10-25 | [`Transtec SAS`](https://google.com/search?q=Transtec+SAS) | [orca](https://ransomwatch.telemetry.ltd/#/profiles?id=orca) |
+| 2024-10-25 | [`SRS-Stahl GmbH`](https://google.com/search?q=SRS-Stahl+GmbH) | [sarcoma](https://ransomwatch.telemetry.ltd/#/profiles?id=sarcoma) |
+| 2024-10-25 | [`MESHWORKS`](https://google.com/search?q=MESHWORKS) | [sarcoma](https://ransomwatch.telemetry.ltd/#/profiles?id=sarcoma) |
+| 2024-10-25 | [`ValueMax Group`](https://google.com/search?q=ValueMax+Group) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
+| 2024-10-25 | [`Precision Electrical Systems`](https://google.com/search?q=Precision+Electrical+Systems) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
+| 2024-10-25 | [`Denkali`](https://google.com/search?q=Denkali) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
+| 2024-10-25 | [`Cucamonga Valley Water District (cvwdwater.com)`](https://google.com/search?q=Cucamonga+Valley+Water+District+%28cvwdwater.com%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
+| 2024-10-25 | [`hcsgcorp.com`](https://google.com/search?q=hcsgcorp.com) | [underground](https://ransomwatch.telemetry.ltd/#/profiles?id=underground) |
+| 2024-10-25 | [`Niko Resources Ltd.`](https://google.com/search?q=Niko+Resources+Ltd.) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
+| 2024-10-25 | [`Ambica Steels`](https://google.com/search?q=Ambica+Steels) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
+| 2024-10-25 | [`De Rose Lawyers`](https://google.com/search?q=De+Rose+Lawyers) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
+| 2024-10-25 | [`Matouk Bassiouny`](https://google.com/search?q=Matouk+Bassiouny) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
 | 2024-10-25 | [`Groupseco.com`](https://google.com/search?q=Groupseco.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-10-25 | [`https://www.zyloware.com/`](https://google.com/search?q=https%3A%2F%2Fwww.zyloware.com%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-10-25 | [`https://www.omara-ag.com/`](https://google.com/search?q=https%3A%2F%2Fwww.omara-ag.com%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
@@ -193,14 +204,3 @@ _last `200` posts_
 | 2024-10-18 | [`https://racingforensics.com`](https://google.com/search?q=https%3A%2F%2Fracingforensics.com) | [cicada3301](https://ransomwatch.telemetry.ltd/#/profiles?id=cicada3301) |
 | 2024-10-18 | [`https://www.luxwood.ca`](https://google.com/search?q=https%3A%2F%2Fwww.luxwood.ca) | [cicada3301](https://ransomwatch.telemetry.ltd/#/profiles?id=cicada3301) |
 | 2024-10-18 | [`tripxoxo.com`](https://google.com/search?q=tripxoxo.com) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
-| 2024-10-17 | [`www.proflex.ro`](https://google.com/search?q=www.proflex.ro) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-10-17 | [`www.icp.pr.gov`](https://google.com/search?q=www.icp.pr.gov) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-10-17 | [`www.chiltonisd.org`](https://google.com/search?q=www.chiltonisd.org) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-10-17 | [`www.kersey.net`](https://google.com/search?q=www.kersey.net) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-10-17 | [`www.aristoiclassical.org`](https://google.com/search?q=www.aristoiclassical.org) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-10-17 | [`www.camelotservices.com`](https://google.com/search?q=www.camelotservices.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-10-17 | [`matki.co.uk\$23M\United Kingdom\267GB\100% DISCLOSED`](https://google.com/search?q=matki.co.uk%5C%2423M%5CUnited+Kingdom%5C267GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2024-10-17 | [`corporatejobbank.com\$22.8M\USA\65GB\100% DISCLOSED`](https://google.com/search?q=corporatejobbank.com%5C%2422.8M%5CUSA%5C65GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2024-10-17 | [`HiCare.net`](https://google.com/search?q=HiCare.net) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-10-17 | [`Bigpharmacy.com.my`](https://google.com/search?q=Bigpharmacy.com.my) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-10-17 | [`volohealth.in`](https://google.com/search?q=volohealth.in) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
