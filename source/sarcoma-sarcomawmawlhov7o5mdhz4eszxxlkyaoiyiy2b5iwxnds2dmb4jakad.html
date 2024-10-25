@@ -1,0 +1,1297 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>Sarcoma Group</title>
+		<link rel="icon" href="/favicon.png" type="image/x-icon">
+		<link href="./bootstrap.min.css" rel="stylesheet">
+		<script type="text/javascript" src="./clipboard.min.js"></script>
+		<style type="text/css">
+			.indigo, .indigo:hover, .indigo:active, .indigo:focus {
+				background-color: indigo;
+				border-color: indigo;
+			}
+			body.bg-dark #moon-stars-fill {
+				display: none;
+			}
+			body.bg-light #sun-fill {
+				display: none;
+			}
+			
+			@font-face {
+				font-family: 'JetBrains Mono';
+				font-style: italic;
+				font-weight: 400;
+				src: url(./fonts/JetBrains_Mono/static/JetBrainsMono-Regular.woff) format('woff');
+			}
+			body {
+				font-family: 'JetBrains Mono', Roboto, monospace, sans-serif;
+			}
+			body {
+				background-color: #020019;
+			}
+			.sg-form {
+				background-color: #03011d;
+				border: 1px solid rgba(125, 83, 243, 0.5);
+			}
+			.sg-form input[type="text"], .sg-form input[type="password"], .sg-form textarea {
+				border: 2px solid #7d53f3;
+				border-radius: 6px;
+				background-color: #030021;
+				padding: 17px 40px;
+			}
+			.sg-form input[type="radio"] {
+				border: 2px solid #7d53f3;
+				border-radius: 6px;
+				background-color: #030021;
+			}
+			.sg-form input[type=file] {
+				color: #ffffff;
+			}
+			.sg-form input[type=file]::file-selector-button {
+				background-color: #100934;
+				border-color: #7d53f3;
+				border-radius: 6px;
+				color: #ffffff;
+				padding: 5px 7px;
+			}
+			.sg-form label {
+				color: #7d53f3;
+				padding-left: 20px;
+			}
+			.sg-form input:focus, .sg-form textarea:focus, .sg-form textarea:disabled {
+				background-color: #030021;
+				border-color: #86b7fe;
+			}
+			.sg-form button {
+				background-color: #100934;
+				padding: 17px 100px;
+				text-transform: capitalize;
+			}
+			.sg-form .text {
+				color: #451db5;
+			}
+			.sg-form .text a {
+				color: #7d53f3;
+			}
+			.chat-form {
+				min-height: calc(100vh - 1rem);
+				max-height: calc(100vh - 1rem);
+				border-radius: 1rem;
+				background-color: #03011d;
+				border: 1px solid rgba(125, 83, 243, 0.5);
+			}
+			.chat-form input[type="text"], input[type="number"], .chat-form input[type="password"], .chat-form textarea {
+				border: 2px solid #7d53f3;
+				border-radius: 6px;
+				background-color: #04002f;
+				padding: 17px 40px;
+				color: #ffffff;
+			}
+			.chat-form input[type="number"] {
+				width: 160px;
+			}
+			.chat-form textarea {
+				color: #ffffff !important;
+			}
+			.chat-form input[type="radio"] {
+				border: 2px solid #7d53f3;
+				border-radius: 6px;
+				background-color: #04002f;
+			}
+			.chat-form input[type=file] {
+				color: #ffffff;
+			}
+			.chat-form input[type=file]:disabled {
+				color: #666666;
+			}
+			.chat-form input[type=file]::file-selector-button {
+				background-color: #100934;
+				border-color: #7d53f3;
+				border-radius: 6px;
+				color: #ffffff;
+				padding: 5px 7px;
+			}
+			.chat-form input[type=file]:disabled::file-selector-button {
+				color: #666666;
+			}
+			.chat-form label {
+				color: #7d53f3;
+				padding-left: 20px;
+			}
+			.chat-form input:focus, .chat-form textarea:focus, .chat-form textarea:disabled {
+				background-color: #04002f;
+				border-color: #86b7fe;
+			}
+			.chat-form button {
+				background-color: #100934;
+				padding: 17px 100px;
+				text-transform: capitalize;
+			}
+			.chat-form .text {
+				color: #451db5;
+			}
+			.chat-form .text a {
+				color: #7d53f3;
+			}
+			.chat-form .clear {
+				background-color: #100934;
+				border: 2px solid #7d53f3;
+				border-radius: 6px;
+				color: #ffffff;
+				padding: 5px 7px;
+				cursor: pointer;
+				width: fit-content;
+			}
+			.chat .message .time {
+				color: #777777;
+			}
+			.chat .message .text {
+				width: fit-content;
+				min-width: 20%;
+				max-width: 50%;
+				color: #ffffff;
+				border-radius: 1rem;
+				background-color: #03011d;
+				border: 1px solid rgba(125, 83, 243, 0.5);
+			}
+			.chat .message.left .text {
+				border-top-left-radius: 0 !important;
+			}
+			.chat .message.right .text {
+				margin-left: auto;
+				margin-right: 0;
+				border-top-right-radius: 0 !important;
+			}
+			.copy_button {
+				border: 0 !important;
+				outline: 0 !important;
+				background-color: transparent !important;
+				padding: 0 !important;
+			}
+		</style>
+	</head>
+	<body>
+		<svg xmlns="http://www.w3.org/2000/svg" class="d-none">
+			<symbol id="moon-stars-fill" viewBox="0 0 16 16">
+				<path d="M6 .278a.768.768 0 0 1 .08.858 7.208 7.208 0 0 0-.878 3.46c0 4.021 3.278 7.277 7.318 7.277.527 0 1.04-.055 1.533-.16a.787.787 0 0 1 .81.316.733.733 0 0 1-.031.893A8.349 8.349 0 0 1 8.344 16C3.734 16 0 12.286 0 7.71 0 4.266 2.114 1.312 5.124.06A.752.752 0 0 1 6 .278z"/>
+				<path d="M10.794 3.148a.217.217 0 0 1 .412 0l.387 1.162c.173.518.579.924 1.097 1.097l1.162.387a.217.217 0 0 1 0 .412l-1.162.387a1.734 1.734 0 0 0-1.097 1.097l-.387 1.162a.217.217 0 0 1-.412 0l-.387-1.162A1.734 1.734 0 0 0 9.31 6.593l-1.162-.387a.217.217 0 0 1 0-.412l1.162-.387a1.734 1.734 0 0 0 1.097-1.097l.387-1.162zM13.863.099a.145.145 0 0 1 .274 0l.258.774c.115.346.386.617.732.732l.774.258a.145.145 0 0 1 0 .274l-.774.258a1.156 1.156 0 0 0-.732.732l-.258.774a.145.145 0 0 1-.274 0l-.258-.774a1.156 1.156 0 0 0-.732-.732l-.774-.258a.145.145 0 0 1 0-.274l.774-.258c.346-.115.617-.386.732-.732L13.863.1z"/>
+			</symbol>
+			<symbol id="sun-fill" viewBox="0 0 16 16">
+				<path d="M8 12a4 4 0 1 0 0-8 4 4 0 0 0 0 8zM8 0a.5.5 0 0 1 .5.5v2a.5.5 0 0 1-1 0v-2A.5.5 0 0 1 8 0zm0 13a.5.5 0 0 1 .5.5v2a.5.5 0 0 1-1 0v-2A.5.5 0 0 1 8 13zm8-5a.5.5 0 0 1-.5.5h-2a.5.5 0 0 1 0-1h2a.5.5 0 0 1 .5.5zM3 8a.5.5 0 0 1-.5.5h-2a.5.5 0 0 1 0-1h2A.5.5 0 0 1 3 8zm10.657-5.657a.5.5 0 0 1 0 .707l-1.414 1.415a.5.5 0 1 1-.707-.708l1.414-1.414a.5.5 0 0 1 .707 0zm-9.193 9.193a.5.5 0 0 1 0 .707L3.05 13.657a.5.5 0 0 1-.707-.707l1.414-1.414a.5.5 0 0 1 .707 0zm9.193 2.121a.5.5 0 0 1-.707 0l-1.414-1.414a.5.5 0 0 1 .707-.707l1.414 1.414a.5.5 0 0 1 0 .707zM4.464 4.465a.5.5 0 0 1-.707 0L2.343 3.05a.5.5 0 1 1 .707-.707l1.414 1.414a.5.5 0 0 1 0 .708z"/>
+			</symbol>
+		</svg>
+										<div class=""><!-- container container-fluid -->
+				<div class="p-5 text-center">
+					<h1 class="mb-3 text-light">
+						<img src="./logo.webp" height="70" alt="Sarcoma Group Logo" loading="lazy" />
+					</h1>
+				</div>
+				<section>
+					<div class="container pb-5 h-100">
+													<div class="row row-cols-4 mb-4">
+																	<div class="col">
+										<div class="sg-form card overflow-hidden rounded h-100 text-white">
+											<div class="card-body p-2">
+												<div class="card-title text-center fs-5">Ferrer & Ojeda</div>
+												<img class="rounded w-75 mx-auto d-block mb-3" src="/files/05E6781E-0428-4F94-B12D-151D57DF6B65.png" />
+												<div class="card-main">
+													<hr />
+													<div class="card-text">
+														Site: ferrerojeda.com<br />
+														Industry: Finance, insurance partners<br />
+														GEO: Spain													</div>
+																									</div>
+											</div>
+											<div class="card-footer">
+												<button type="button" class="btn btn-lg btn-block indigo text-center text-white d-block m-auto" data-bs-toggle="modal" data-bs-target="#company_38" style="padding: .375rem .75rem;">More info</button>
+											</div>
+										</div>
+									</div>
+																										<div class="col">
+										<div class="sg-form card overflow-hidden rounded h-100 text-white">
+											<div class="card-body p-2">
+												<div class="card-title text-center fs-5">Open Range Field Services</div>
+												<img class="rounded w-75 mx-auto d-block mb-3" src="/files/A75886BE-CD6E-4993-AEFE-65777E7EDEBF.jpg" />
+												<div class="card-main">
+													<hr />
+													<div class="card-text">
+														Site: openrangefieldservices.com<br />
+														Industry: Geodetic and cartographic company<br />
+														GEO: USA													</div>
+																											<hr />
+														<div class="text-danger text-center">21 days 23 hours 52 minutes</div>
+														<hr />
+																									</div>
+											</div>
+											<div class="card-footer">
+												<button type="button" class="btn btn-lg btn-block indigo text-center text-white d-block m-auto" data-bs-toggle="modal" data-bs-target="#company_37" style="padding: .375rem .75rem;">More info</button>
+											</div>
+										</div>
+									</div>
+																										<div class="col">
+										<div class="sg-form card overflow-hidden rounded h-100 text-white">
+											<div class="card-body p-2">
+												<div class="card-title text-center fs-5">Zierick Manufacturing Corporation</div>
+												<img class="rounded w-75 mx-auto d-block mb-3" src="/files/0A67EED3-8E2B-431F-8B9A-161BC5DA515A.jpg" />
+												<div class="card-main">
+													<hr />
+													<div class="card-text">
+														Site: zierick.com<br />
+														Industry: Manufacturing<br />
+														GEO: USA													</div>
+																											<hr />
+														<div class="text-danger text-center">21 days 00 hours 11 minutes</div>
+														<hr />
+																									</div>
+											</div>
+											<div class="card-footer">
+												<button type="button" class="btn btn-lg btn-block indigo text-center text-white d-block m-auto" data-bs-toggle="modal" data-bs-target="#company_36" style="padding: .375rem .75rem;">More info</button>
+											</div>
+										</div>
+									</div>
+																										<div class="col">
+										<div class="sg-form card overflow-hidden rounded h-100 text-white">
+											<div class="card-body p-2">
+												<div class="card-title text-center fs-5">Pheim Unit Trusts Berhad</div>
+												<img class="rounded w-75 mx-auto d-block mb-3" src="/files/1A27856D-CBBB-4F06-8965-064BB11FBBC0.jpg" />
+												<div class="card-main">
+													<hr />
+													<div class="card-text">
+														Site: pheimunittrusts.com<br />
+														Industry: Management<br />
+														GEO: Malaysia													</div>
+																											<hr />
+														<div class="text-danger text-center">20 days 01 hours 11 minutes</div>
+														<hr />
+																									</div>
+											</div>
+											<div class="card-footer">
+												<button type="button" class="btn btn-lg btn-block indigo text-center text-white d-block m-auto" data-bs-toggle="modal" data-bs-target="#company_35" style="padding: .375rem .75rem;">More info</button>
+											</div>
+										</div>
+									</div>
+																								</div>
+													<div class="row row-cols-4 mb-4">
+																	<div class="col">
+										<div class="sg-form card overflow-hidden rounded h-100 text-white">
+											<div class="card-body p-2">
+												<div class="card-title text-center fs-5">Auxit S.r.l</div>
+												<img class="rounded w-75 mx-auto d-block mb-3" src="/files/FD535850-25D7-4F88-BCB6-75B417369FCF.jpg" />
+												<div class="card-main">
+													<hr />
+													<div class="card-text">
+														Site: Auxit S.r.l<br />
+														Industry: Software Development<br />
+														GEO: Italy													</div>
+																											<hr />
+														<div class="text-danger text-center">18 days 01 hours 11 minutes</div>
+														<hr />
+																									</div>
+											</div>
+											<div class="card-footer">
+												<button type="button" class="btn btn-lg btn-block indigo text-center text-white d-block m-auto" data-bs-toggle="modal" data-bs-target="#company_34" style="padding: .375rem .75rem;">More info</button>
+											</div>
+										</div>
+									</div>
+																										<div class="col">
+										<div class="sg-form card overflow-hidden rounded h-100 text-white">
+											<div class="card-body p-2">
+												<div class="card-title text-center fs-5">McMunn & Yates Building Suppliesorp</div>
+												<img class="rounded w-75 mx-auto d-block mb-3" src="/files/7D15B455-CBDC-4A0D-A141-B82DC36983AC.png" />
+												<div class="card-main">
+													<hr />
+													<div class="card-text">
+														Site: mcmunnandyates.com<br />
+														Industry: Building Materials<br />
+														GEO: Canada													</div>
+																											<hr />
+														<div class="text-danger text-center">16 days 02 hours 11 minutes</div>
+														<hr />
+																									</div>
+											</div>
+											<div class="card-footer">
+												<button type="button" class="btn btn-lg btn-block indigo text-center text-white d-block m-auto" data-bs-toggle="modal" data-bs-target="#company_33" style="padding: .375rem .75rem;">More info</button>
+											</div>
+										</div>
+									</div>
+																										<div class="col">
+										<div class="sg-form card overflow-hidden rounded h-100 text-white">
+											<div class="card-body p-2">
+												<div class="card-title text-center fs-5">Timber</div>
+												<img class="rounded w-75 mx-auto d-block mb-3" src="/files/99F0BAC6-BC93-4276-95E3-4D379261F867.png" />
+												<div class="card-main">
+													<hr />
+													<div class="card-text">
+														Site: timber.net<br />
+														Industry: Advertising & Marketing<br />
+														GEO: USA													</div>
+																											<hr />
+														<div class="text-danger text-center">15 days 01 hours 15 minutes</div>
+														<hr />
+																									</div>
+											</div>
+											<div class="card-footer">
+												<button type="button" class="btn btn-lg btn-block indigo text-center text-white d-block m-auto" data-bs-toggle="modal" data-bs-target="#company_32" style="padding: .375rem .75rem;">More info</button>
+											</div>
+										</div>
+									</div>
+																										<div class="col">
+										<div class="sg-form card overflow-hidden rounded h-100 text-white">
+											<div class="card-body p-2">
+												<div class="card-title text-center fs-5">Suntrust Properties</div>
+												<img class="rounded w-75 mx-auto d-block mb-3" src="/files/3930E64B-9E0D-4DB4-A8D3-A312F7FD6255.png" />
+												<div class="card-main">
+													<hr />
+													<div class="card-text">
+														Site: suntrust.com.ph<br />
+														Industry: Residential and commercial developments<br />
+														GEO: Philippines													</div>
+																											<hr />
+														<div class="text-danger text-center">14 days 20 hours 10 minutes</div>
+														<hr />
+																									</div>
+											</div>
+											<div class="card-footer">
+												<button type="button" class="btn btn-lg btn-block indigo text-center text-white d-block m-auto" data-bs-toggle="modal" data-bs-target="#company_31" style="padding: .375rem .75rem;">More info</button>
+											</div>
+										</div>
+									</div>
+																								</div>
+													<div class="row row-cols-4 mb-4">
+																	<div class="col">
+										<div class="sg-form card overflow-hidden rounded h-100 text-white">
+											<div class="card-body p-2">
+												<div class="card-title text-center fs-5">March Elevator</div>
+												<img class="rounded w-75 mx-auto d-block mb-3" src="/files/20757D2D-58C6-407E-B983-B8637B255A60.png" />
+												<div class="card-main">
+													<hr />
+													<div class="card-text">
+														Site: march-elevator.ca<br />
+														Industry: Industrial Machinery & Equipment<br />
+														GEO: Canada													</div>
+																											<hr />
+														<div class="text-danger text-center">12 days 05 hours 10 minutes</div>
+														<hr />
+																									</div>
+											</div>
+											<div class="card-footer">
+												<button type="button" class="btn btn-lg btn-block indigo text-center text-white d-block m-auto" data-bs-toggle="modal" data-bs-target="#company_30" style="padding: .375rem .75rem;">More info</button>
+											</div>
+										</div>
+									</div>
+																										<div class="col">
+										<div class="sg-form card overflow-hidden rounded h-100 text-white">
+											<div class="card-body p-2">
+												<div class="card-title text-center fs-5">Elevator One</div>
+												<img class="rounded w-75 mx-auto d-block mb-3" src="/files/821AC23C-437A-42CF-909F-6A0EE758F2D3.png" />
+												<div class="card-main">
+													<hr />
+													<div class="card-text">
+														Site: elevatorone.ca<br />
+														Industry: Commercial & Residential Construction<br />
+														GEO: Canada													</div>
+																											<hr />
+														<div class="text-danger text-center">11 days 05 hours 10 minutes</div>
+														<hr />
+																									</div>
+											</div>
+											<div class="card-footer">
+												<button type="button" class="btn btn-lg btn-block indigo text-center text-white d-block m-auto" data-bs-toggle="modal" data-bs-target="#company_29" style="padding: .375rem .75rem;">More info</button>
+											</div>
+										</div>
+									</div>
+																										<div class="col">
+										<div class="sg-form card overflow-hidden rounded h-100 text-white">
+											<div class="card-body p-2">
+												<div class="card-title text-center fs-5">The Plastic Bag</div>
+												<img class="rounded w-75 mx-auto d-block mb-3" src="/files/DF60A311-58B8-42AF-AB46-42C01FBDDA01.png" />
+												<div class="card-main">
+													<hr />
+													<div class="card-text">
+														Site: plasticbag.com.au<br />
+														Industry: Manufacturing<br />
+														GEO: Australia													</div>
+																											<hr />
+														<div class="text-danger text-center">10 days 05 hours 10 minutes</div>
+														<hr />
+																									</div>
+											</div>
+											<div class="card-footer">
+												<button type="button" class="btn btn-lg btn-block indigo text-center text-white d-block m-auto" data-bs-toggle="modal" data-bs-target="#company_28" style="padding: .375rem .75rem;">More info</button>
+											</div>
+										</div>
+									</div>
+																										<div class="col">
+										<div class="sg-form card overflow-hidden rounded h-100 text-white">
+											<div class="card-body p-2">
+												<div class="card-title text-center fs-5">Costa Del Sol Hotels</div>
+												<img class="rounded w-75 mx-auto d-block mb-3" src="/files/FD7972B5-6198-4B19-A937-8DB76D65FDE6.png" />
+												<div class="card-main">
+													<hr />
+													<div class="card-text">
+														Site: cdshotels.co<br />
+														Industry: Hotels<br />
+														GEO: Kuwait													</div>
+																											<hr />
+														<div class="text-danger text-center">8 days 23 hours 10 minutes</div>
+														<hr />
+																									</div>
+											</div>
+											<div class="card-footer">
+												<button type="button" class="btn btn-lg btn-block indigo text-center text-white d-block m-auto" data-bs-toggle="modal" data-bs-target="#company_27" style="padding: .375rem .75rem;">More info</button>
+											</div>
+										</div>
+									</div>
+																								</div>
+													<div class="row row-cols-4 mb-4">
+																	<div class="col">
+										<div class="sg-form card overflow-hidden rounded h-100 text-white">
+											<div class="card-body p-2">
+												<div class="card-title text-center fs-5">Navarra & Marzano</div>
+												<img class="rounded w-75 mx-auto d-block mb-3" src="/files/F444F095-52B8-42DC-B46E-A426A1253B55.jpg" />
+												<div class="card-main">
+													<hr />
+													<div class="card-text">
+														Site: studionamar.it<br />
+														Industry: Accounting<br />
+														GEO: Italy													</div>
+																											<hr />
+														<div class="text-danger text-center">8 days 03 hours 09 minutes</div>
+														<hr />
+																									</div>
+											</div>
+											<div class="card-footer">
+												<button type="button" class="btn btn-lg btn-block indigo text-center text-white d-block m-auto" data-bs-toggle="modal" data-bs-target="#company_26" style="padding: .375rem .75rem;">More info</button>
+											</div>
+										</div>
+									</div>
+																										<div class="col">
+										<div class="sg-form card overflow-hidden rounded h-100 text-white">
+											<div class="card-body p-2">
+												<div class="card-title text-center fs-5">Jumbo Electronics Qatar</div>
+												<img class="rounded w-75 mx-auto d-block mb-3" src="/files/FEAA997E-4C31-4C16-B884-E01898C96F8C.png" />
+												<div class="card-main">
+													<hr />
+													<div class="card-text">
+														Site: jumboqatar.com<br />
+														Industry: Consumer Electronics & Computers Retail<br />
+														GEO: Qatar													</div>
+																											<hr />
+														<div class="text-danger text-center">7 days 04 hours 09 minutes</div>
+														<hr />
+																									</div>
+											</div>
+											<div class="card-footer">
+												<button type="button" class="btn btn-lg btn-block indigo text-center text-white d-block m-auto" data-bs-toggle="modal" data-bs-target="#company_25" style="padding: .375rem .75rem;">More info</button>
+											</div>
+										</div>
+									</div>
+																										<div class="col">
+										<div class="sg-form card overflow-hidden rounded h-100 text-white">
+											<div class="card-body p-2">
+												<div class="card-title text-center fs-5">EasyPay</div>
+												<img class="rounded w-75 mx-auto d-block mb-3" src="/files/5B66D42C-DA2F-42C3-977B-14EAD5471F8E.jpg" />
+												<div class="card-main">
+													<hr />
+													<div class="card-text">
+														Site: easypay.bm<br />
+														Industry: Finance<br />
+														GEO: Bermuda													</div>
+																											<hr />
+														<div class="text-danger text-center">0 days 20 hours 09 minutes</div>
+														<hr />
+																									</div>
+											</div>
+											<div class="card-footer">
+												<button type="button" class="btn btn-lg btn-block indigo text-center text-white d-block m-auto" data-bs-toggle="modal" data-bs-target="#company_24" style="padding: .375rem .75rem;">More info</button>
+											</div>
+										</div>
+									</div>
+																										<div class="col">
+										<div class="sg-form card overflow-hidden rounded h-100 text-white">
+											<div class="card-body p-2">
+												<div class="card-title text-center fs-5">Curtidos Barbero</div>
+												<img class="rounded w-75 mx-auto d-block mb-3" src="/files/5F24F378-5B7C-48BF-A22F-A2E2E8510DEA.png" />
+												<div class="card-main">
+													<hr />
+													<div class="card-text">
+														Site: curtidosbarbero.com<br />
+														Industry: Apparel & Accessories Retail<br />
+														GEO: Spain													</div>
+																									</div>
+											</div>
+											<div class="card-footer">
+												<button type="button" class="btn btn-lg btn-block indigo text-center text-white d-block m-auto" data-bs-toggle="modal" data-bs-target="#company_23" style="padding: .375rem .75rem;">More info</button>
+											</div>
+										</div>
+									</div>
+																								</div>
+													<div class="row row-cols-4 mb-4">
+																	<div class="col">
+										<div class="sg-form card overflow-hidden rounded h-100 text-white">
+											<div class="card-body p-2">
+												<div class="card-title text-center fs-5">Lácteos Lorán</div>
+												<img class="rounded w-75 mx-auto d-block mb-3" src="/files/F14CCDA8-B813-43E6-BAD0-58FDFC4287CD.png" />
+												<div class="card-main">
+													<hr />
+													<div class="card-text">
+														Site: lacteosloran.com<br />
+														Industry: Food & Beverage<br />
+														GEO: Spain													</div>
+																									</div>
+											</div>
+											<div class="card-footer">
+												<button type="button" class="btn btn-lg btn-block indigo text-center text-white d-block m-auto" data-bs-toggle="modal" data-bs-target="#company_22" style="padding: .375rem .75rem;">More info</button>
+											</div>
+										</div>
+									</div>
+																										<div class="col">
+										<div class="sg-form card overflow-hidden rounded h-100 text-white">
+											<div class="card-body p-2">
+												<div class="card-title text-center fs-5">Road Distribution Services</div>
+												<img class="rounded w-75 mx-auto d-block mb-3" src="/files/B5D3B384-B3E0-41B7-9DEC-9863BD86F0F1.png" />
+												<div class="card-main">
+													<hr />
+													<div class="card-text">
+														Site: rdsws.com<br />
+														Industry: Freight & Logistics Services<br />
+														GEO: Australia													</div>
+																									</div>
+											</div>
+											<div class="card-footer">
+												<button type="button" class="btn btn-lg btn-block indigo text-center text-white d-block m-auto" data-bs-toggle="modal" data-bs-target="#company_20" style="padding: .375rem .75rem;">More info</button>
+											</div>
+										</div>
+									</div>
+																										<div class="col">
+										<div class="sg-form card overflow-hidden rounded h-100 text-white">
+											<div class="card-body p-2">
+												<div class="card-title text-center fs-5">Advanced Accounting & Business Advisory</div>
+												<img class="rounded w-75 mx-auto d-block mb-3" src="/files/FE07397B-462B-433F-B448-81283EFCE581.png" />
+												<div class="card-main">
+													<hr />
+													<div class="card-text">
+														Site: advancedaccounting.net.nz<br />
+														Industry: Accounting Services<br />
+														GEO: New Zealand													</div>
+																									</div>
+											</div>
+											<div class="card-footer">
+												<button type="button" class="btn btn-lg btn-block indigo text-center text-white d-block m-auto" data-bs-toggle="modal" data-bs-target="#company_19" style="padding: .375rem .75rem;">More info</button>
+											</div>
+										</div>
+									</div>
+																										<div class="col">
+										<div class="sg-form card overflow-hidden rounded h-100 text-white">
+											<div class="card-body p-2">
+												<div class="card-title text-center fs-5">Perfection Fresh</div>
+												<img class="rounded w-75 mx-auto d-block mb-3" src="/files/2236E81E-E084-49AA-A9DC-762E69F90FCB.png" />
+												<div class="card-main">
+													<hr />
+													<div class="card-text">
+														Site: perfection.com.au<br />
+														Industry: Agriculture<br />
+														GEO: Australia													</div>
+																											<hr />
+														<div class="text-danger text-center">Timer Paused</div>
+														<hr />
+																									</div>
+											</div>
+											<div class="card-footer">
+												<button type="button" class="btn btn-lg btn-block indigo text-center text-white d-block m-auto" data-bs-toggle="modal" data-bs-target="#company_18" style="padding: .375rem .75rem;">More info</button>
+											</div>
+										</div>
+									</div>
+																								</div>
+											</div>
+				</section>
+			</div>
+			<div class="text-center text-white">
+								<a href="/?page=1" class="text-white text-decoration-none">1</a>
+								<a href="/?page=2" class="text-white">2</a>
+							</div>
+			<div class="container">
+				<div class="row my-3">
+					<div class="col-6 text-center">
+						<a href="#" class="text-center text-white m-auto fs-4" data-bs-toggle="modal" data-bs-target="#contacts">Contacts</a>
+					</div>
+					<div class="col-6 text-center">
+						<a href="#" class="text-center text-white m-auto fs-4" data-bs-toggle="modal" data-bs-target="#about">About Us</a>
+					</div>
+				</div>
+			</div>
+							<div class="modal fade" id="company_38" tabindex="-1" aria-labelledby="company_38_label" aria-hidden="true">
+					<div class="modal-dialog modal-lg modal-dialog-centered modal-dialog-scrollable">
+						<div class="modal-content sg-form">
+							<div class="modal-header">
+								<h5 class="modal-title text-white" id="company_38_label">Ferrer & Ojeda</h5>
+								<button type="button" class="btn-close bg-danger" data-bs-dismiss="modal" aria-label="Close"></button>
+							</div>
+							<div class="modal-body text-white">
+								<pre class="text-break mb-2" style="white-space: pre-line;">Privileged access to the insurance market and negotiation capacity optimizing the risk-coverage-cost ratio. We work with over 70 national and international insurance companies, with access to the main global insurance markets.
+Sectors:
+Manufacturing and Industrial Goods, Construction, Logistics and Transportation, Retail, Chemicals and Pharmaceuticals, Engineering, Energy, Technology and Media, Education, Consumer Goods, Tourism and Leisure, Real Estate and Property, Health and Welfare, Professional Services, Public Sector, Non-Profit.</pre>
+								<hr />
+								<div>GEO: Spain</div>
+								<div>Leak size: 1,27 TB Archive</div>
+																	<div>Contains: Files, SQL, Exchange</div>
+																<hr />
+																	<div class="text-center text-danger">Download Link: <a href="http://lpp4aze237qkkursbtesd54ofag6te5i5lzpee5a3buhq4v3uwtxnlqd.onion" target="_blank" class="text-danger">http://lpp4aze237qkkursbtesd54ofag6te5i5lzpee5a3buhq4v3uwtxnlqd.onion</a></div>
+									<hr />
+																									<img src="/files/96985740-6031-4A13-BBA9-0259D7CC94D5.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/E0F836B6-0134-48C8-9DB8-6BF7574E1989.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/1E06C119-943F-4CD8-8C8A-218BF242CC43.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/BA751A62-DADF-432F-AAB2-C050109C6F21.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/F233F861-8C69-43BE-89E0-AE14280C89FF.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/7102FE2D-F67B-427D-AA98-0901E04E00C8.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/2DA8822C-5001-4F0C-9927-FAE37AE95FFD.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/D69B2C36-AADA-47FC-9C1B-061046216235.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/24C91658-DA71-4DB5-A91E-5B408FD022F0.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/A7FBC65E-6A1C-462A-A6AD-44AAA4357C8E.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/1AB14C6D-B449-4B7A-A6E3-142C8803A872.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/AAD04634-2EDC-4B85-AF46-0C091EFDC6CE.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/B74DCAFF-6D29-43EE-B94B-3FC5A3FBA5ED.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/6121366E-356E-4C57-AA66-03F4316A5F9C.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/57BA86DA-1202-4D85-BA86-475B8977A07E.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/49E97068-501C-49F1-8CF0-9B652164215C.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/6F47744E-36AC-4C5D-B4D8-3B01EF35CA3A.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/246ADF0C-DE7B-460F-ABEB-8A29CF04EF79.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/5287DE18-A8C1-4DD6-AAD7-E6DA57B518A0.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/8E906FB5-76AD-40BC-BD49-8A6E5DF4EE9A.png" class="d-block mw-100 mb-2" loading="lazy" />
+															</div>
+						</div>
+					</div>
+				</div>
+							<div class="modal fade" id="company_37" tabindex="-1" aria-labelledby="company_37_label" aria-hidden="true">
+					<div class="modal-dialog modal-lg modal-dialog-centered modal-dialog-scrollable">
+						<div class="modal-content sg-form">
+							<div class="modal-header">
+								<h5 class="modal-title text-white" id="company_37_label">Open Range Field Services</h5>
+								<button type="button" class="btn-close bg-danger" data-bs-dismiss="modal" aria-label="Close"></button>
+							</div>
+							<div class="modal-body text-white">
+								<pre class="text-break mb-2" style="white-space: pre-line;">Open Range Field Services
+Open Range Field Services, LLC was established in 2014 by Kent Dyson, James Kantola, and Ron Nelson. The company's headquarters is located in Pampa, TX. Open Range is a full-service surveying and mapping company specializing in the development and construction of energy-related infrastructure and assets. The organization's primary objective is to serve the energy and construction industry by providing responsive and innovative geospatial data solutions.</pre>
+								<hr />
+								<div>GEO: USA</div>
+								<div>Leak size: 37 GB Archive</div>
+																	<div>Contains: Files, SQL</div>
+																<hr />
+																									<img src="/files/EFE5F9DC-A144-4A7F-89F7-DEDF3BC1BD88.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/629210E2-46D7-4E2F-812B-FE8888225903.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/526919D8-5BE2-41E9-8E88-DF885C5B4FAA.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/0DDD8E4F-E58F-43B8-8D40-4F60D73FA800.png" class="d-block mw-100 mb-2" loading="lazy" />
+															</div>
+						</div>
+					</div>
+				</div>
+							<div class="modal fade" id="company_36" tabindex="-1" aria-labelledby="company_36_label" aria-hidden="true">
+					<div class="modal-dialog modal-lg modal-dialog-centered modal-dialog-scrollable">
+						<div class="modal-content sg-form">
+							<div class="modal-header">
+								<h5 class="modal-title text-white" id="company_36_label">Zierick Manufacturing Corporation</h5>
+								<button type="button" class="btn-close bg-danger" data-bs-dismiss="modal" aria-label="Close"></button>
+							</div>
+							<div class="modal-body text-white">
+								<pre class="text-break mb-2" style="white-space: pre-line;">Zierick Manufacturing Corporation
+Since 1919, Zierick Manufacturing Corporation has been providing innovative solutions to the challenges posed by complex interconnection requirements. Today, we believe in an integrated approach to design for manufacture and assembly, working with our customers to determine the ideal product for their application. In this way, we can move more efficiently and economically from design concept to successful assembly. Through this collaborative process our engineers have developed many industry breakthroughs in durability, reliability, and efficiency.
+The engineers at Zierick have developed:
+
+    A mounting design which improves PCB-to-terminal retention
+    A harsh environment IDC
+    An economical and reliable way to attach a discrete wire to a PCB
+    A mechanical hold-down that increases mounting integrity
+    Solder-wicking prevention technologies
+    A circuit board parallel stacking system
+    Repeatable and reliable receptacles
+    A board stuffing service for companies without high speed insertion equipment
+    Custom solutions
+
+Besides pioneering the above technologies, Zierick also manufactures assembly equipment, interconnection hardware and taped terminals. In addition to our standard Board-to-Board and Wire-to-Board solutions, Zierick has provides custom stamping capability, setting the standard in both design leadership and quality tooling and stamping.</pre>
+								<hr />
+								<div>GEO: USA</div>
+								<div>Leak size: 57 GB Archive</div>
+																	<div>Contains: Files, SQL</div>
+																<hr />
+																									<img src="/files/D261712B-420F-42CB-8A7F-9C3179D8130D.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/1D324D2F-E95D-419C-929E-EA976308DF02.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/C632AE6C-C475-4135-B40E-8418A2F0F040.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/DC67B6E4-C30C-46B8-B7EC-639381E6655B.png" class="d-block mw-100 mb-2" loading="lazy" />
+															</div>
+						</div>
+					</div>
+				</div>
+							<div class="modal fade" id="company_35" tabindex="-1" aria-labelledby="company_35_label" aria-hidden="true">
+					<div class="modal-dialog modal-lg modal-dialog-centered modal-dialog-scrollable">
+						<div class="modal-content sg-form">
+							<div class="modal-header">
+								<h5 class="modal-title text-white" id="company_35_label">Pheim Unit Trusts Berhad</h5>
+								<button type="button" class="btn-close bg-danger" data-bs-dismiss="modal" aria-label="Close"></button>
+							</div>
+							<div class="modal-body text-white">
+								<pre class="text-break mb-2" style="white-space: pre-line;">Pheim Unit Trusts Berhad
+
+Capitalizing on the synergies among the Pheim Group of companies – At Pheim, we are benefitting from the increased synergies that exceed among the Pheim affiliated entities, comprising of Pheim Asset Management Sdn Bhd, Pheim Asset Management (Asia) Pte Ltd, Pheim Unit Trusts Berhad, and Pheim Islamic Asset Management Sdn Bhd. These synergies that have been strengthening over time has worked and enhanced the Pheim franchise; broaden the product offerings available from the Pheim Group; and tapping into each other’s market reach.
+Pheim Asset Management Sdn Bhd (Pheim Malaysia), a licensed asset management company founded by Dr. Tan Chong Koay, has been in operation since 4 January 1994. It was one of the pioneer boutique asset management companies when the asset management industry in Malaysia was first liberalised. As one of the maiden asset management companies in Malaysia, Pheim Malaysia is licenced under the Capital Markets and Services Act 2007, specializing in ASEAN and Asia ex-Japan equity markets. Our clientele consists of high-net-worth individuals, a diverse group of corporate investors that include provident fund and insurance companies as well as retail investors. Pheim Malaysia has successfully established a long-term performance track record that extends to our Islamic funds. The Dana Makmur Pheim and Pheim Asia Ex-Japan Islamic Fund, launched in 2002 and 2006 respectively, have won numerous awards from rating agencies like LSEG Lipper, Morningstar and Asia Asset Management over the years.
+In view of our track record, the Securities Commission Malaysia has granted a new Islamic Fund Management licence to Pheim Islamic Asset Management Sdn Bhd (Pheim Islamic), another wholly-owned subsidiary company of Pheim Malaysia, on 4 October 2021. We are ready to tap into the growing demand for Islamic mandates and investment funds, and capitalise on investors’ preference for Islamic or ethical products by offering a wide range of Islamic products to institutional and global investors, and at the same time, help in promoting the development of Malaysia’s Islamic capital market. Pheim Islamic seeks to grow the Islamic fund management industry as an important channel for mobilising human capital as well as developing talent pool to be proficient in the area of Islamic investing. This is in-line with the goal of driving the next phase of internationalisation for Malaysia’s Islamic markets given that Islamic wealth management industry has clearly been identified as having significant potential for growth. Pheim Islamic adds value through the nurturing of professionals and enhance the expertise in Islamic fund management, and promoting industry growth through greater investment in Islamic shares and debt securities.</pre>
+								<hr />
+								<div>GEO: Malaysia</div>
+								<div>Leak size: 15 GB Archive</div>
+																	<div>Contains: Files, SQL</div>
+																<hr />
+																									<img src="/files/109A96BB-C2BB-4612-A63D-2DDA5C5AF1A4.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/25FED23A-42FF-4852-BC85-5CA8DA28BBD5.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/B5D90982-611D-4411-8750-CA88ED34F2BA.png" class="d-block mw-100 mb-2" loading="lazy" />
+															</div>
+						</div>
+					</div>
+				</div>
+							<div class="modal fade" id="company_34" tabindex="-1" aria-labelledby="company_34_label" aria-hidden="true">
+					<div class="modal-dialog modal-lg modal-dialog-centered modal-dialog-scrollable">
+						<div class="modal-content sg-form">
+							<div class="modal-header">
+								<h5 class="modal-title text-white" id="company_34_label">Auxit S.r.l</h5>
+								<button type="button" class="btn-close bg-danger" data-bs-dismiss="modal" aria-label="Close"></button>
+							</div>
+							<div class="modal-body text-white">
+								<pre class="text-break mb-2" style="white-space: pre-line;">Auxit S.r.l.
+Auxit S.r.l. operates within the Consultancy in the field of information technology industry.
+Consulting services regarding hardware and software for electronic data processing and documents.Auxit S.r.l. operates within the Consultancy in the field of information technology industry.</pre>
+								<hr />
+								<div>GEO: Italy</div>
+								<div>Leak size: 163 GB Archive</div>
+																	<div>Contains: Files</div>
+																<hr />
+																									<img src="/files/718AC736-AE25-4BAD-9D3D-92F9BB2EB389.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/72D45686-2F77-4240-945B-5EF5EA8D8587.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/B6989841-3378-4799-AC6A-02AA629D0CFE.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/7AF08C71-F7AC-48D1-A309-39998217CC3E.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/3CD7D007-2E8A-4C1A-A93F-D241E76CC6A0.png" class="d-block mw-100 mb-2" loading="lazy" />
+															</div>
+						</div>
+					</div>
+				</div>
+							<div class="modal fade" id="company_33" tabindex="-1" aria-labelledby="company_33_label" aria-hidden="true">
+					<div class="modal-dialog modal-lg modal-dialog-centered modal-dialog-scrollable">
+						<div class="modal-content sg-form">
+							<div class="modal-header">
+								<h5 class="modal-title text-white" id="company_33_label">McMunn & Yates Building Suppliesorp</h5>
+								<button type="button" class="btn-close bg-danger" data-bs-dismiss="modal" aria-label="Close"></button>
+							</div>
+							<div class="modal-body text-white">
+								<pre class="text-break mb-2" style="white-space: pre-line;">McMunn & Yates Building Supplies
+It is a story about family first and foremost, of two families coming together. McMunn & Yates was formed in 1971 when Terry Yates and Stan and Gordon McMunn opened their first store in Dauphin, MB. With combined experience in both contract work and retail, this union of families put their faith in each other to build and rebuild something larger than themselves, now hundreds of families serving their local communities large and small. McMunn & Yates is committed to and believe in the hometown values and doing business with their friends and neighbors. We believe the "and" in McMunn & Yates is more than just a conjunction because without it, there are no connections and no commitment. We believe its this commitment to building strong, honest relationships that is the foundation upon which McMunn & Yates rests.
+McMunn & Yates Commercial Division is a major supplier to builders and contractors. Our Contractor Division delivers with a dedicated team that handles phone-in orders in an efficient and timely manner and provide enhanced contractor services. 
+TIM-BR-FAB Industries is a manufacturer of roof and floor trusses and supplier of pre-engineered wood products serving Manitoba, Saskatchewan and Northwestern Ontario with quality products from its two manufacturing plants located in Dauphin, MB and Oak Bluff, MB. Tim-Br-Fab has a wide selection of manufactured truss systems to choose from or you can work with our specialized design team to build what is right for you. Our cost effective designs are tailored to meet our customers needs and we offer the most durable roof and floor components available today. 
+McMunn & Yates Post Frame Division manufacturers post-frame buildings. Available in fully customized range of styles and sizes, McMunn & Yates Post Frame Division delivers the strongest posts, industry-wide. 
+Steinbach Concrete Division  provides reliable service and quality Redi Mix concrete at competitive prices to Steinbach and surrounding areas. Our Concrete Division is able to handle various sized jobs including basement walls and floors, garage floors, shop floors, footings, driveways and sidewalks. 
+McMunn & Yates Furniture & Appliances  is a 15,000 square foot showroom located in Yorkton, SK and is packed with new and exciting pieces for every room in your home, cottage or dorm room. Proudly serving Yorkton and its surrounding areas: Melville, Canora, Langenburg, Churchbridge, Saltcoats, Bredenbury, Springside, Theodore, Esterhazy and Roblin for over 50 years, our Sales Specialists will assist in selecting the perfect products fit for your needs and budget. 
+Jenkins, The Flooring People, presents the newest trends in flooring covering products and the expert assistance of our experienced Sales Team. From home and cottage to office or small business and commercial projects including hospitals, schools, restaurants and other facilities. From selecting the most efficient flooring covering, the ideal colour or pattern and coordinating the installation of your product at the job site, Jenkins Sales Team will assist you every step of the way. </pre>
+								<hr />
+								<div>GEO: Canada</div>
+								<div>Leak size: 17 GB Archive</div>
+																	<div>Contains: Files</div>
+																<hr />
+																									<img src="/files/2A8C6711-147D-4633-89B5-3BCE0E022020.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/770FC76D-5D89-4AAB-82B4-CBC7C9FD74E4.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/363E90FF-ACAB-472E-B908-75FF9D7382C8.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/DBBA4941-E2E5-407F-B60A-4E0179CA048D.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/66B7EB24-C1D5-4898-A9FD-0F90358B6196.png" class="d-block mw-100 mb-2" loading="lazy" />
+															</div>
+						</div>
+					</div>
+				</div>
+							<div class="modal fade" id="company_32" tabindex="-1" aria-labelledby="company_32_label" aria-hidden="true">
+					<div class="modal-dialog modal-lg modal-dialog-centered modal-dialog-scrollable">
+						<div class="modal-content sg-form">
+							<div class="modal-header">
+								<h5 class="modal-title text-white" id="company_32_label">Timber</h5>
+								<button type="button" class="btn-close bg-danger" data-bs-dismiss="modal" aria-label="Close"></button>
+							</div>
+							<div class="modal-body text-white">
+								<pre class="text-break mb-2" style="white-space: pre-line;">Timber
+Timber was founded for the sole purpose of creating compelling content for clients. We strive to look at each project as a unique opportunity to make something memorable. From visual effects to finishing, our collective experience draws from a wide range of disciplines. Timber’s talented team is comprised of artists who have honed their craft at some of the most respected post production companies in the industry. Our goal is to help our clients fully realize all their creative endeavors. Thank you for stopping by!</pre>
+								<hr />
+								<div>GEO: USA</div>
+								<div>Leak size: No Data</div>
+																	<div>Contains: No Data</div>
+																<hr />
+																							</div>
+						</div>
+					</div>
+				</div>
+							<div class="modal fade" id="company_31" tabindex="-1" aria-labelledby="company_31_label" aria-hidden="true">
+					<div class="modal-dialog modal-lg modal-dialog-centered modal-dialog-scrollable">
+						<div class="modal-content sg-form">
+							<div class="modal-header">
+								<h5 class="modal-title text-white" id="company_31_label">Suntrust Properties</h5>
+								<button type="button" class="btn-close bg-danger" data-bs-dismiss="modal" aria-label="Close"></button>
+							</div>
+							<div class="modal-body text-white">
+								<pre class="text-break mb-2" style="white-space: pre-line;">Suntrust Properties
+Company Profile
+Suntrust Properties, Inc. (SPI), a wholly owned subsidiary of Megaworld Corporation, has established itself as a leader in the Philippine real estate industry since 1997. With over 26 years of excellence, SPI has built a diverse portfolio of residential and commercial developments across North Luzon, Metro Manila, Cavite, Laguna, Batangas, Visayas, and Mindanao. 
+In addition to its expansive real estate offerings, Suntrust manages key export processing zones and a premier golf course development, reinforcing its multifaceted expertise in the industry. The acquisition of Stateland, Inc., a 42-year-old real estate developer, in 2018 further strengthened Suntrust's dedication to providing quality homes for every Filipino.
+Today, with more than 50 developments nationwide, Suntrust continues to expand its reach and set new standards for modern Filipino living, blending innovation, comfort, and affordability in every community. 
+About the Chairman
+Dr. Andrew L. Tan is the country’s most dynamic billionaire. His holding company, Alliance Global Inc. (AGI), is one of the Philippines’ largest conglomerates, with interests in the food and beverage industry, real estate development and quick service restaurants. Through its subsidiaries, associates and other investments, the company operates a diversified range of businesses in the Philippines that focus on developing products and services that cater to the growing Philippine middle class.</pre>
+								<hr />
+								<div>GEO: Philippines</div>
+								<div>Leak size: 1 TB Archive</div>
+																	<div>Contains: File, SQL</div>
+																<hr />
+																									<img src="/files/96D11463-1878-45DF-82CA-40A401602DB9.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/53B361DE-D088-4E5A-ACE2-05C2CB90BFBE.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/A7CABCC0-C971-425D-9382-5B936E3D3B23.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/975EEF0A-9591-42B3-AC12-0B8703D0A2D1.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/7343584C-F2E2-4CC9-BE7D-76B098BBBE5A.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/8CE42438-F4E4-4134-94FB-B80787340982.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/24880EB7-D29F-490B-BA36-33C01BCE8919.png" class="d-block mw-100 mb-2" loading="lazy" />
+															</div>
+						</div>
+					</div>
+				</div>
+							<div class="modal fade" id="company_30" tabindex="-1" aria-labelledby="company_30_label" aria-hidden="true">
+					<div class="modal-dialog modal-lg modal-dialog-centered modal-dialog-scrollable">
+						<div class="modal-content sg-form">
+							<div class="modal-header">
+								<h5 class="modal-title text-white" id="company_30_label">March Elevator</h5>
+								<button type="button" class="btn-close bg-danger" data-bs-dismiss="modal" aria-label="Close"></button>
+							</div>
+							<div class="modal-body text-white">
+								<pre class="text-break mb-2" style="white-space: pre-line;">March Elevator
+Established in 1961, MARCH ELEVATOR LIMITED specializes in offering reliable elevator and lift maintenance and installation services.
+Based in Toronto, ON, we focus on providing clients with exceptional workmanship. Our company has established its reputation on finding innovative solutions that provide the riding public a comfortable, safe and effecient ride during their daily activites.
+Our growing team of highly qualified technicians will maintain, inspect and repair your elevators, all the while exceeding your expectations. We work according to the Technical Standards and Safety Authority (TSSA)</pre>
+								<hr />
+								<div>GEO: Canada</div>
+								<div>Leak size: 1 GB Archive</div>
+																	<div>Contains: SQL</div>
+																<hr />
+																							</div>
+						</div>
+					</div>
+				</div>
+							<div class="modal fade" id="company_29" tabindex="-1" aria-labelledby="company_29_label" aria-hidden="true">
+					<div class="modal-dialog modal-lg modal-dialog-centered modal-dialog-scrollable">
+						<div class="modal-content sg-form">
+							<div class="modal-header">
+								<h5 class="modal-title text-white" id="company_29_label">Elevator One</h5>
+								<button type="button" class="btn-close bg-danger" data-bs-dismiss="modal" aria-label="Close"></button>
+							</div>
+							<div class="modal-body text-white">
+								<pre class="text-break mb-2" style="white-space: pre-line;">Operating since 1994, Elevator One has built a premium elevator company, attracting a clientele interested in obtaining the highest quality of elevator service in the province. To maintain this level of service, we have tried to bring on the best employees both in the field and in the office, providing Elevator Maintenance, Modernizations, Repairs and New Construction Services.
+A long history of great
+Customer service
+Elevator One Inc. is a high quality, top rated Elevator Contractor operating in Ontario. Since 1994, we have chosen to focus our business in Central Ontario in the areas North of GTA and up into the Muskoka’s and Parry Sound. We are dedicated to offering clients outside Toronto with the best Elevator services including new installations, modernizations, routine maintenance and repair throughout our territory.
+In the most recent statistics published by the TSSA, Elevator One was the number one TSSA-rated elevator maintenance Contractor in the province of Ontario. We have a stellar 4.9/5.0 Google rating and we were nominated for the 2018 Elevator World Ellies Awards in the category of “Best Contractor – Canada”. It is our commitment to our core values of Integrity, Service & Quality that has given us this stellar reputation in the Elevator Industry.</pre>
+								<hr />
+								<div>GEO: Canada</div>
+								<div>Leak size: 1,3 GB Archive</div>
+																	<div>Contains: SQL</div>
+																<hr />
+																							</div>
+						</div>
+					</div>
+				</div>
+							<div class="modal fade" id="company_28" tabindex="-1" aria-labelledby="company_28_label" aria-hidden="true">
+					<div class="modal-dialog modal-lg modal-dialog-centered modal-dialog-scrollable">
+						<div class="modal-content sg-form">
+							<div class="modal-header">
+								<h5 class="modal-title text-white" id="company_28_label">The Plastic Bag</h5>
+								<button type="button" class="btn-close bg-danger" data-bs-dismiss="modal" aria-label="Close"></button>
+							</div>
+							<div class="modal-body text-white">
+								<pre class="text-break mb-2" style="white-space: pre-line;">The Plastic Bag
+Bags: plastic, laminated, and coated.
+Packaging and Containers Manufacturing.</pre>
+								<hr />
+								<div>GEO: Australia</div>
+								<div>Leak size: 3,6 GB Archive</div>
+																	<div>Contains: Files</div>
+																<hr />
+																									<img src="/files/DBE376AA-CE79-4638-A11C-30925790E90F.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/0BB32D08-12B0-454A-A214-5412283455B0.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/23A29E04-AE91-4CA5-8745-D18B87C8CC8B.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/DFFC21D1-26C5-4ED0-9C5C-B8830CC0F3E9.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/79BACF63-7FF5-492B-9D52-C836D2A1FE10.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/ED2C5B2B-431E-4889-8D61-053AAA2FDFBE.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/394DF461-5545-4CC4-A533-10A8436E860D.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/B10A1C2A-0515-48F4-BE2A-6F8D0083E685.png" class="d-block mw-100 mb-2" loading="lazy" />
+															</div>
+						</div>
+					</div>
+				</div>
+							<div class="modal fade" id="company_27" tabindex="-1" aria-labelledby="company_27_label" aria-hidden="true">
+					<div class="modal-dialog modal-lg modal-dialog-centered modal-dialog-scrollable">
+						<div class="modal-content sg-form">
+							<div class="modal-header">
+								<h5 class="modal-title text-white" id="company_27_label">Costa Del Sol Hotels</h5>
+								<button type="button" class="btn-close bg-danger" data-bs-dismiss="modal" aria-label="Close"></button>
+							</div>
+							<div class="modal-body text-white">
+								<pre class="text-break mb-2" style="white-space: pre-line;">Costa Del Sol Group
+As a distinguished Kuwaiti entity, we have been steadfastly engaged in the realm of hospitality since the 1980s. Under our esteemed brand, we oversee the management of two premier hotels, along with a splendid rural estate, offering unparalleled experiences to our esteemed clientele.</pre>
+								<hr />
+								<div>GEO: Kuwait</div>
+								<div>Leak size: 50,5 GB Archive</div>
+																	<div>Contains: Files</div>
+																<hr />
+																									<img src="/files/7779AE55-C572-4638-A22F-32EE76D54896.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/F3CA2355-7A78-4214-B18F-E2E8397D883F.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/7AF117A9-25A7-4C04-A6D7-709530E2DA07.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/FD42557C-4AB5-42DB-80DA-01E9C2A79202.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/4C844D2A-2E0E-4A12-A81D-CA5D3E36D40F.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/D37E187F-4169-4A6C-91C0-2E66BC8801B4.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/2BEA3B11-F2AD-4437-AE13-D28291863861.png" class="d-block mw-100 mb-2" loading="lazy" />
+															</div>
+						</div>
+					</div>
+				</div>
+							<div class="modal fade" id="company_26" tabindex="-1" aria-labelledby="company_26_label" aria-hidden="true">
+					<div class="modal-dialog modal-lg modal-dialog-centered modal-dialog-scrollable">
+						<div class="modal-content sg-form">
+							<div class="modal-header">
+								<h5 class="modal-title text-white" id="company_26_label">Navarra & Marzano</h5>
+								<button type="button" class="btn-close bg-danger" data-bs-dismiss="modal" aria-label="Close"></button>
+							</div>
+							<div class="modal-body text-white">
+								<pre class="text-break mb-2" style="white-space: pre-line;">Electronic accounting data processing.</pre>
+								<hr />
+								<div>GEO: Italy</div>
+								<div>Leak size: 22,8 GB Archive</div>
+																	<div>Contains: Files, SQL</div>
+																<hr />
+																									<img src="/files/2A4FB370-776E-4281-B01C-B7FB9D6284E6.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/883B63F1-ECED-4AC1-9425-32E79793A709.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/ADD3043B-82C0-47C2-B138-257EAF1CED3C.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/CAB19342-D2B2-4617-9C68-DBDB1D7077E6.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/339D0075-89E0-4E04-B357-9BAF8FA3A02C.png" class="d-block mw-100 mb-2" loading="lazy" />
+															</div>
+						</div>
+					</div>
+				</div>
+							<div class="modal fade" id="company_25" tabindex="-1" aria-labelledby="company_25_label" aria-hidden="true">
+					<div class="modal-dialog modal-lg modal-dialog-centered modal-dialog-scrollable">
+						<div class="modal-content sg-form">
+							<div class="modal-header">
+								<h5 class="modal-title text-white" id="company_25_label">Jumbo Electronics Qatar</h5>
+								<button type="button" class="btn-close bg-danger" data-bs-dismiss="modal" aria-label="Close"></button>
+							</div>
+							<div class="modal-body text-white">
+								<pre class="text-break mb-2" style="white-space: pre-line;">Jumbo Electronics Qatar
+About Video Home & Electronic Centre
+Video Home & Electronic Centre was founded by late Mr. Jassim Mohammed Sulaiman, two of his colleagues along with first employee & co-founder Mr. C.V. Rappai in the year 1980 in Qatar.
+Today Video Home & Electronic Centre has over 800 employees with annual revenue of over QAR 800 Million with a CAGR of 18% for the past 10 years. It conducts business under 4 major verticals: Retail, Distribution, B2B & MEP (Jumbo Electromech Engineering, Jumbo Security Equipments & Services, Jumbo Fire Protection & Safety Engineering). The retail arm includes Jumbo Electronics as its flagship retail chain, LG Brand shops & Harman House showrooms.
+Video Home & Electronic Centre is the sole distributor in Qatar for some of the world’s most renowned  and favored brands like LG, Indesit, Ariston, Brother, JBL, Harman Kardon, Kyocera, Oscar, Kenwood, Morphy Richards, Maytag, Mr. Light, Mediacom, Rotpunkt, Symphony, Dometic and also some specialized brands for the MEP sector like Secutron, Bosch, Hikoki Power Tools, Interal, Siemens, Actron, Belden, Cisco etc. and it is constantly adding to this list of world class brands.
+It also has been providing world class office automation products from trusted brands over the years that make daily office tasks effortless with a range of office solutions from brands like Kyocera, Brother and LG that provide custom solutions for all office needs. Its strong B2B customer base includes government & semi-government institutions, private companies, contractors and consultants with whom it has built and nurtured a relationship of trust over 42 years.
+Video Home is supported by a state-of-the-art supply chain & logistics facilities and a capable after sales service infrastructure developed with best practices and latest technologies for efficient functioning. Its Service Centre is spread over 2200 sq meters which includes a training academy that imparts training and skill up gradation to its service staff.  Trainings are conducted in-house as well as directly by respective brands to ensure professional and quality services for all products.
+As a Total Solutions Provider, Video Home today is poised to expand its horizons as it continues to be a leading electronics & appliances retailer in the country. It’s strong relations with the government & private sector ensures that it’s products & services are appreciated across many major projects in hospitality, healthcare, education, real estate, retail and oil & gas sectors.
+</pre>
+								<hr />
+								<div>GEO: Qatar</div>
+								<div>Leak size: 311 GB Archive</div>
+																	<div>Contains: Files</div>
+																<hr />
+																									<img src="/files/BA376BAE-A834-4227-92D5-98C09A3E7526.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/594EC0BC-910C-4C70-9358-AD2FB5A18545.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/356BDDC6-458C-4722-B046-A9FB5189C1C4.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/072E753F-F855-4E54-9433-67E93854073C.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/AE611EA6-AFD4-4DE7-B9C6-88DE4A76D121.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/181FEE4B-2721-4A35-85EC-C56679EB4C97.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/844387FA-C846-4692-9714-F1E69B4ACEF3.png" class="d-block mw-100 mb-2" loading="lazy" />
+															</div>
+						</div>
+					</div>
+				</div>
+							<div class="modal fade" id="company_24" tabindex="-1" aria-labelledby="company_24_label" aria-hidden="true">
+					<div class="modal-dialog modal-lg modal-dialog-centered modal-dialog-scrollable">
+						<div class="modal-content sg-form">
+							<div class="modal-header">
+								<h5 class="modal-title text-white" id="company_24_label">EasyPay</h5>
+								<button type="button" class="btn-close bg-danger" data-bs-dismiss="modal" aria-label="Close"></button>
+							</div>
+							<div class="modal-body text-white">
+								<pre class="text-break mb-2" style="white-space: pre-line;">Fourth Floor British American Building HAMILTON, Pembroke, HM12 Bermuda</pre>
+								<hr />
+								<div>GEO: Bermuda</div>
+								<div>Leak size: 560 KB Archive</div>
+																	<div>Contains: SQL</div>
+																<hr />
+																									<img src="/files/3A8013E2-4B84-4D46-B2EC-6C3FBE4AB83D.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/57566920-34A0-4191-8C8F-CD29935468A9.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/4372E6DB-A20F-4B64-B2E0-FDCDC0D27510.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/97A22024-305B-4857-9E5C-A624D42CC571.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/8B61EB1C-32C7-41C1-A202-1B6A18762C81.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/E73B0BD8-6284-4B76-B0A5-6F72F8591B76.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/94B8281B-DAC9-4689-ABEC-6F0E848A8F76.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/59E86AF5-0683-4BE0-89FD-E7853FAF70D7.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/72C7F490-4BB1-4216-A4E2-7295CE0593FC.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/93F320E8-1C69-40DE-A51F-98258108AAB3.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/6EF35211-ED61-4508-824F-51A1D653BFCC.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/CA96FEA6-1B00-42E7-80A1-81097BE9A5BD.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/13600D1F-6D62-42FB-9F1B-27C5061CBC02.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/2FB9DDD9-FAEE-4413-B090-2342D30909E5.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/E07CC9DF-1C09-4185-BE95-695364CE9CFC.png" class="d-block mw-100 mb-2" loading="lazy" />
+															</div>
+						</div>
+					</div>
+				</div>
+							<div class="modal fade" id="company_23" tabindex="-1" aria-labelledby="company_23_label" aria-hidden="true">
+					<div class="modal-dialog modal-lg modal-dialog-centered modal-dialog-scrollable">
+						<div class="modal-content sg-form">
+							<div class="modal-header">
+								<h5 class="modal-title text-white" id="company_23_label">Curtidos Barbero</h5>
+								<button type="button" class="btn-close bg-danger" data-bs-dismiss="modal" aria-label="Close"></button>
+							</div>
+							<div class="modal-body text-white">
+								<pre class="text-break mb-2" style="white-space: pre-line;">Tras la experiencia adquirida durante años como curtidores, en 1940 nace el almacén de curtidos «Barbero» con la filosofía de dar un esmerado servicio a sus clientes, manteniéndose y transformándose con el paso de los años para adaptarse a ellos, llegando hasta nuestros días con el mismo espíritu de superación y trato personalizado, que junto a la experiencia acumulada, mantiene la filosofía de ofrecer a nuestros clientes calidad de servicio, de producto y un precio altamente competitivo.
+En nuestros almacenes existe una amplia gama de artículos en stock, para la inmediata entrega. Entre ellos encontramos artículos de todo tipo que cubren las exigencias del consumidor más clásico hasta el consumidor de artículos de vanguardia y pronto moda.</pre>
+								<hr />
+								<div>GEO: Spain</div>
+								<div>Leak size: 17,5 GB Archive</div>
+																	<div>Contains: Files</div>
+																<hr />
+																	<div class="text-center text-danger">Download Link: <a href="http://jq6vxgpnjfs3ue2wn7ve4bnga4ewkcetpvkmz324se7mlqjtnrenkqad.onion" target="_blank" class="text-danger">http://jq6vxgpnjfs3ue2wn7ve4bnga4ewkcetpvkmz324se7mlqjtnrenkqad.onion</a></div>
+									<hr />
+																									<img src="/files/C96E2BC1-52F6-4FE0-9253-E5506FF11FDE.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/A1BC1F32-45A0-4AFD-B14B-C37D3EAD1114.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/09C333F6-2842-4088-BDC7-3E791269BD03.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/218E90FA-1C09-43D4-96BB-D181451F8AB2.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/A09FCDCD-559E-48FC-8F0A-4218624FAF90.png" class="d-block mw-100 mb-2" loading="lazy" />
+															</div>
+						</div>
+					</div>
+				</div>
+							<div class="modal fade" id="company_22" tabindex="-1" aria-labelledby="company_22_label" aria-hidden="true">
+					<div class="modal-dialog modal-lg modal-dialog-centered modal-dialog-scrollable">
+						<div class="modal-content sg-form">
+							<div class="modal-header">
+								<h5 class="modal-title text-white" id="company_22_label">Lácteos Lorán</h5>
+								<button type="button" class="btn-close bg-danger" data-bs-dismiss="modal" aria-label="Close"></button>
+							</div>
+							<div class="modal-body text-white">
+								<pre class="text-break mb-2" style="white-space: pre-line;">We have a wide variety of soft and fresh cheeses, as well as products with Designation of Origin such as San Simón Serra do Xistral and Tetilla cheeses.
+Our extensive experience in the sector and the recognition of our products support us.</pre>
+								<hr />
+								<div>GEO: Spain</div>
+								<div>Leak size: 5,6 GB Archive</div>
+																	<div>Contains: Files</div>
+																<hr />
+																	<div class="text-center text-danger">Download Link: <a href="http://qhzy4ur5atch5orjkd2h3x34kwqbswqzqnllaij4crl3v2mnrj7aouyd.onion" target="_blank" class="text-danger">http://qhzy4ur5atch5orjkd2h3x34kwqbswqzqnllaij4crl3v2mnrj7aouyd.onion</a></div>
+									<hr />
+																									<img src="/files/AEC4B0A3-4234-4A86-BF9D-FD45036BA612.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/88B96874-93F0-4942-92C4-DDCA25554C3E.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/2261B497-3BFF-497E-8C8D-5C0F2E41BDE4.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/19E97231-E716-4B70-B230-20B314149134.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/38C93B0F-6EDB-47ED-95D8-AE3A950D1FC7.png" class="d-block mw-100 mb-2" loading="lazy" />
+															</div>
+						</div>
+					</div>
+				</div>
+							<div class="modal fade" id="company_20" tabindex="-1" aria-labelledby="company_20_label" aria-hidden="true">
+					<div class="modal-dialog modal-lg modal-dialog-centered modal-dialog-scrollable">
+						<div class="modal-content sg-form">
+							<div class="modal-header">
+								<h5 class="modal-title text-white" id="company_20_label">Road Distribution Services</h5>
+								<button type="button" class="btn-close bg-danger" data-bs-dismiss="modal" aria-label="Close"></button>
+							</div>
+							<div class="modal-body text-white">
+								<pre class="text-break mb-2" style="white-space: pre-line;">RDS offers a transport and logistics service, which we tailor to your company’s needs.
+RDS has a dedicated team of employees, committed to providing an excellent service to ensure customer satisfaction. Our staff are trained in load restraint and dealing with unconventional freight. We strive to exceed your expectations on every job we undertake.
+Our warehouse situated in Western Australia’s transport hub, Kewdale, is able to provide a storage solution for any company.
+RDS have a wide selection of vehicles available. Not only do we have prime movers with an assortment of trailers but we also have a rigid and a van available to transport your goods, locally or intrastate.
+All of RDS’ vehicles are fully equipped to be able to handle any load. With a diverse array of truck and trailer combinations, we are able to provide a logistics solution trailored to your needs. RDS is fully Main Roads WA
+accredited. This enables our fleet to transport an almost endless variety of items including any oversize freight that can legally be transported.</pre>
+								<hr />
+								<div>GEO: Australia</div>
+								<div>Leak size: 1,56 GB Archive</div>
+																	<div>Contains: Files</div>
+																<hr />
+																	<div class="text-center text-danger">Download Link: <a href="http://tzmfdwducfvlh6ie4juo6ovgft3qwxgf5q7dxca57fqalpn6zsed3lad.onion" target="_blank" class="text-danger">http://tzmfdwducfvlh6ie4juo6ovgft3qwxgf5q7dxca57fqalpn6zsed3lad.onion</a></div>
+									<hr />
+																									<img src="/files/CF679880-DC54-42DD-808A-AE7A014569D9.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/F1E8A9BF-A65B-47E1-B1E0-B29EA2016BA0.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/FCA97014-4FA6-4CAE-946F-130562A579DC.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/B7F30082-9E5D-44F9-BEF8-9BCA17370E52.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/2E3E9E5C-F518-4A1D-8189-DBDD81D0866D.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/4668FC36-F9E7-4063-914C-23FE8736A79D.png" class="d-block mw-100 mb-2" loading="lazy" />
+															</div>
+						</div>
+					</div>
+				</div>
+							<div class="modal fade" id="company_19" tabindex="-1" aria-labelledby="company_19_label" aria-hidden="true">
+					<div class="modal-dialog modal-lg modal-dialog-centered modal-dialog-scrollable">
+						<div class="modal-content sg-form">
+							<div class="modal-header">
+								<h5 class="modal-title text-white" id="company_19_label">Advanced Accounting & Business Advisory</h5>
+								<button type="button" class="btn-close bg-danger" data-bs-dismiss="modal" aria-label="Close"></button>
+							</div>
+							<div class="modal-body text-white">
+								<pre class="text-break mb-2" style="white-space: pre-line;">Helping passionate Business Owners achieve their goals doing what they love!
+What makes us different?
+We value our relationships with you.
+Working within a wide range of industries, whether you’re doing business in your gumboots or in the boardroom, we’re eager to help you set and reach your goals.
+Not everybody gets as excited about numbers as us, that’s why we’re here. You take care of your business and we’ll account for the numbers. We’re not going to try to impress you with flashy lingo, if you just want to hear it in plain English, then we’re happy to talk your language.
+Advanced Accounting’s diverse team brings a lot to the table so we’ve got the experience needed to understand your particular business. We take into account your needs and tailor a package that’s perfectly balanced for you.</pre>
+								<hr />
+								<div>GEO: New Zealand</div>
+								<div>Leak size: 115 GB Archive</div>
+																	<div>Contains: Files</div>
+																<hr />
+																	<div class="text-center text-danger">Download Link: <a href="http://jdphsfcjuyog5cgtjdfsxluarkvqy5rw75kasoj6kuihga3bs3fwgfyd.onion" target="_blank" class="text-danger">http://jdphsfcjuyog5cgtjdfsxluarkvqy5rw75kasoj6kuihga3bs3fwgfyd.onion</a></div>
+									<hr />
+																									<img src="/files/EE8FCAD5-644C-48E9-8378-A034B8C9D5B6.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/1425B660-B093-4D46-937D-31BBBE5B1512.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/AC2DEE1F-7960-4B29-9C10-9E7E48AC10D6.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/9160E5F9-51AE-40CB-A057-6E4F8A519FB0.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/07C1655D-4BE0-4006-8099-3CFD47A847FC.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/E9372627-2957-455D-8F85-32442109FD5D.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/EB393417-967F-4BDB-9BC6-9AAF3BE748FE.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/FC5B0114-6BC6-494E-AD6A-554DB0187660.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/A324E073-AAC7-498C-B87B-DD5A0C679D29.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/8BBC2BE2-7696-4CB0-BAA4-D202E6A8D3FE.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/8C1479CA-805F-48D1-9262-587C603C1FEF.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/8044372C-215A-4953-B8B5-ABEB8185962F.png" class="d-block mw-100 mb-2" loading="lazy" />
+															</div>
+						</div>
+					</div>
+				</div>
+							<div class="modal fade" id="company_18" tabindex="-1" aria-labelledby="company_18_label" aria-hidden="true">
+					<div class="modal-dialog modal-lg modal-dialog-centered modal-dialog-scrollable">
+						<div class="modal-content sg-form">
+							<div class="modal-header">
+								<h5 class="modal-title text-white" id="company_18_label">Perfection Fresh</h5>
+								<button type="button" class="btn-close bg-danger" data-bs-dismiss="modal" aria-label="Close"></button>
+							</div>
+							<div class="modal-body text-white">
+								<pre class="text-break mb-2" style="white-space: pre-line;">A FAMILY LEGACY
+We’re what you might call a home-grown company – in more ways than one! For more than 45 years we’ve operated as a family business. We have a long history in agriculture and together with the Australian farming community we grow the freshest, most flavoursome produce around.
+It’s a legacy of flavour perfection that’s been handed down through the family. From our founder Tony Simonetta right through to our 1000+ staff, who share our passion for bringing you unforgettable, fresh flavours.
+PREMIUM AUSTRALIAN GROWN PRODUCE
+We pursue flavour perfection. Since 1978, we’ve been travelling the world searching for produce that’s tastier. And when we find the absolute best, we bring it home to Australia. To grow, perfect, share, and enjoy.
+Perfection has some of the best produce varieties including:
+
+    Broccolini®
+    Calypso® mangoes
+    Qukes® baby cucumbers
+    Mix-a-Mato® tomatoes
+    Kumato® tomatoes
+    Cauli-Blossom® Fioretto®
+    Solanato® tomatoes
+    Perfection Berries
+    Little Gem®, Havana™, Red Tip® Ecoganic® bananas
+    Sunworld grapes</pre>
+								<hr />
+								<div>GEO: Australia</div>
+								<div>Leak size: 690 GB Archive</div>
+																	<div>Contains: Files, SQL</div>
+																<hr />
+																									<img src="/files/F4FC5773-1152-4A30-920D-00B45FE16DAB.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/3E9582C6-E036-402C-AA33-45F2A634501D.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/96AC3634-8C35-404B-A326-3AE38245CFF9.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/9C9E2776-F61A-406D-9B7D-45ADDC49F151.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/41F19B74-0625-4AB5-AE32-3753E3F8EB87.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/56DA15E5-3B14-4B4E-8126-C8298CD939A7.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/C95CBCAE-D39D-41E1-ADD0-F4F47D1289BE.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/47CA0BD3-F3C6-41EC-A381-6605F3CCB86D.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/703C4046-9337-45AC-95C5-BE2751570A53.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/49B20418-80FD-43F2-B432-2D4130F5A47B.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/CF94106F-A136-48FC-AC4B-AB3D45F2E8D1.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/530B2DA5-E8F0-4D9C-BA68-8F533313C020.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/E11D3ACB-0EA4-48F2-A4E5-322D53989489.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/D4C8978A-6CAF-4508-B232-B95BDC9CCC65.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/8449B3BA-1DE9-4BFE-84E5-63BEB54C65E4.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/7D9A7658-15FB-4BCE-80BA-63A51754D4F7.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/37B6802E-065D-452C-AE99-9705103048DA.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/478D2477-DC9C-4C57-921E-45A7EC6F39B9.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/7732EA4B-01EA-4243-A88B-62D6C4357F84.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/3E4292F5-1344-491C-927E-B08B86EF8A85.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/F3BEE451-9FEF-4B99-BA8F-738D950C908E.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/E10E9AE7-4302-4441-8678-EBE6651AE1E5.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/3E50DF57-E4CC-4431-A3E6-DFEB907A9C01.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/7F91B93C-1A9C-484B-9F63-07564D4A4871.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/1B6AA1F2-52C5-4D4D-AD5E-6FD4A6971629.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/ACDCF6FC-DBB2-43CC-981D-6AD6F13BF5C1.png" class="d-block mw-100 mb-2" loading="lazy" />
+															</div>
+						</div>
+					</div>
+				</div>
+						<div class="modal fade" id="contacts" tabindex="-1" aria-labelledby="contacts_label" aria-hidden="true">
+				<div class="modal-dialog modal-xl modal-dialog-centered modal-dialog-scrollable">
+					<div class="modal-content sg-form">
+						<div class="modal-header">
+							<h5 class="modal-title text-white" id="contacts_label">Contacts</h5>
+							<button type="button" class="btn-close bg-danger" data-bs-dismiss="modal" aria-label="Close"></button>
+						</div>
+						<div class="modal-body text-white">
+							<div>Mail: <a href="mailto:SarcomaGroup@onionmail.org" class="text-white">SarcomaGroup@onionmail.org</a></div>
+							<div>TOX: D7A5E0027572764BE600925712D079472FF950F954553FF07E823FF1D068C31292E5E5F31AE4</div> 
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="modal fade" id="about" tabindex="-1" aria-labelledby="about_label" aria-hidden="true">
+				<div class="modal-dialog modal-lg modal-dialog-centered modal-dialog-scrollable">
+					<div class="modal-content sg-form">
+						<div class="modal-header">
+							<h5 class="modal-title text-white" id="about_label">About Us</h5>
+							<button type="button" class="btn-close bg-danger" data-bs-dismiss="modal" aria-label="Close"></button>
+						</div>
+						<div class="modal-body text-white">
+							<div>
+								Today, more and more information is stored on digital media.<br />
+								Companies that store sensitive information on their servers must take a responsible attitude to security.<br />
+								Our mission is to show the world how important it is to keep data safe.<br />
+								If you see your company on our website it means that security was low.<br />
+								<br />
+								We invite access brokers, interested parties, aggrieved employees of companies to co-operate.<br />
+								Together we can be stronger and richer.<br />
+								We know how to make our cooperation profitable and safe.
+							</div> 
+						</div>
+					</div>
+				</div>
+			</div>
+				<script src="./bootstrap.bundle.min.js"></script>
+		<script type="text/javascript">
+			document.addEventListener( "DOMContentLoaded", function() {
+				new ClipboardJS( ".copy_button" );
+			} );
+			
+			document.addEventListener( "DOMContentLoaded", function() {
+				var tooltipTriggerList = [].slice.call( document.querySelectorAll( '[data-bs-toggle="tooltip"]' ) );
+				var tooltipList = tooltipTriggerList.map( function( tooltipTriggerEl ) {
+					var tooltip = new bootstrap.Tooltip( tooltipTriggerEl );
+					tooltipTriggerEl.addEventListener( 'show.bs.tooltip', function () {
+						setTimeout( function() { tooltip.hide(); }, 1000 );
+					} );
+					return tooltip;
+				} );
+			} );
+			
+			document.addEventListener( "DOMContentLoaded", function() {
+				let toastElList = [].slice.call( document.querySelectorAll( ".toast:not(.hide)" ) );
+				let toastList = toastElList.map( function ( toastEl ) {
+					return new bootstrap.Toast( toastEl );
+				} );
+				for( let i = 0; i < toastList.length; i++ ){
+					toastList[ i ].show();
+				}
+			} );
+			
+			document.addEventListener( "DOMContentLoaded", function() {
+				let popoverTriggerList = [].slice.call( document.querySelectorAll( "[data-bs-toggle=\"popover\"]" ) );
+				let popoverList = popoverTriggerList.map( function( popoverTriggerEl ){
+					var popover = new bootstrap.Popover( popoverTriggerEl );
+					popoverTriggerEl.addEventListener( 'show.bs.popover', function () {
+						setTimeout( function() { popover.hide(); }, 3000 );
+					} );
+					return popover;
+				} );
+			} );
+		</script>
+	</body>
+</html>
