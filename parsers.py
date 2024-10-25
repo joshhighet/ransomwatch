@@ -1703,3 +1703,14 @@ def nitrogen():
         errlog('nitrogen: ' + 'parsing fail')
     for post in posts:
         appender(post, 'nitrogen')
+
+def sarcoma():
+    stdlog('parser: ' + 'sarcoma')
+    parser = '''
+    grep '<div class="card-title text-center fs-5">' source/sarcoma-*.html | cut -d '>' -f 2 | cut -d '<' -f 1 || true
+    '''
+    posts = runshellcmd(parser)
+    if len(posts) == 1:
+        errlog('sarcoma: ' + 'parsing fail')
+    for post in posts:
+        appender(post, 'sarcoma')
