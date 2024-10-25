@@ -1658,16 +1658,16 @@ def nullbulge():
     for post in posts:
         appender(post, 'nullbulge')
 
-def lynxblog():
-    stdlog('parser: ' + 'lynxblog')
+def lynx():
+    stdlog('parser: ' + 'lynx')
     parser = '''
     jq -r '.payload.announcements[].company.company_name' source/lynx-lynxblog.html | perl -MURI::Escape -ne 'print uri_unescape($_)' || true
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
-        errlog('lynxblog: ' + 'parsing fail')
+        errlog('lynx: ' + 'parsing fail')
     for post in posts:
-        appender(post, 'lynxblog')
+        appender(post, 'lynx')
 
 def helldown():
     stdlog('parser: ' + 'helldown')
