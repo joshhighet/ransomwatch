@@ -63,6 +63,7 @@ _last `200` posts_
 | 2024-10-25 | [`ExcelPlast Tunisie`](https://google.com/search?q=ExcelPlast+Tunisie) | [orca](https://ransomwatch.telemetry.ltd/#/profiles?id=orca) |
 | 2024-10-25 | [`Chernan Technology`](https://google.com/search?q=Chernan+Technology) | [orca](https://ransomwatch.telemetry.ltd/#/profiles?id=orca) |
 | 2024-10-25 | [`Transtec SAS`](https://google.com/search?q=Transtec+SAS) | [orca](https://ransomwatch.telemetry.ltd/#/profiles?id=orca) |
+| 2024-10-25 | [`Evergreen Local School District (evgvikings.org)`](https://google.com/search?q=Evergreen+Local+School+District+%28evgvikings.org%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2024-10-25 | [`SRS-Stahl GmbH`](https://google.com/search?q=SRS-Stahl+GmbH) | [sarcoma](https://ransomwatch.telemetry.ltd/#/profiles?id=sarcoma) |
 | 2024-10-25 | [`MESHWORKS`](https://google.com/search?q=MESHWORKS) | [sarcoma](https://ransomwatch.telemetry.ltd/#/profiles?id=sarcoma) |
 | 2024-10-25 | [`ValueMax Group`](https://google.com/search?q=ValueMax+Group) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-10-18 | [`https://rdccontrol.com`](https://google.com/search?q=https%3A%2F%2Frdccontrol.com) | [cicada3301](https://ransomwatch.telemetry.ltd/#/profiles?id=cicada3301) |
 | 2024-10-18 | [`https://racingforensics.com`](https://google.com/search?q=https%3A%2F%2Fracingforensics.com) | [cicada3301](https://ransomwatch.telemetry.ltd/#/profiles?id=cicada3301) |
 | 2024-10-18 | [`https://www.luxwood.ca`](https://google.com/search?q=https%3A%2F%2Fwww.luxwood.ca) | [cicada3301](https://ransomwatch.telemetry.ltd/#/profiles?id=cicada3301) |
-| 2024-10-18 | [`tripxoxo.com`](https://google.com/search?q=tripxoxo.com) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
