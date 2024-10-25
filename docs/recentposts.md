@@ -63,6 +63,7 @@ _last `200` posts_
 | 2024-10-25 | [`ExcelPlast Tunisie`](https://google.com/search?q=ExcelPlast+Tunisie) | [orca](https://ransomwatch.telemetry.ltd/#/profiles?id=orca) |
 | 2024-10-25 | [`Chernan Technology`](https://google.com/search?q=Chernan+Technology) | [orca](https://ransomwatch.telemetry.ltd/#/profiles?id=orca) |
 | 2024-10-25 | [`Transtec SAS`](https://google.com/search?q=Transtec+SAS) | [orca](https://ransomwatch.telemetry.ltd/#/profiles?id=orca) |
+| 2024-10-25 | [`Ottawa Valley Handrailing Company Ltd`](https://google.com/search?q=Ottawa+Valley+Handrailing+Company+Ltd) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
 | 2024-10-25 | [`Evergreen Public Schools (evergreenps.org)`](https://google.com/search?q=Evergreen+Public+Schools+%28evergreenps.org%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2024-10-25 | [`Evergreen Local School District (evgvikings.org)`](https://google.com/search?q=Evergreen+Local+School+District+%28evgvikings.org%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2024-10-25 | [`SRS-Stahl GmbH`](https://google.com/search?q=SRS-Stahl+GmbH) | [sarcoma](https://ransomwatch.telemetry.ltd/#/profiles?id=sarcoma) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-10-18 | [`CreaGen Inc`](https://google.com/search?q=CreaGen+Inc) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2024-10-18 | [`http://dubingroup.com`](https://google.com/search?q=http%3A%2F%2Fdubingroup.com) | [cicada3301](https://ransomwatch.telemetry.ltd/#/profiles?id=cicada3301) |
 | 2024-10-18 | [`https://rdccontrol.com`](https://google.com/search?q=https%3A%2F%2Frdccontrol.com) | [cicada3301](https://ransomwatch.telemetry.ltd/#/profiles?id=cicada3301) |
-| 2024-10-18 | [`https://racingforensics.com`](https://google.com/search?q=https%3A%2F%2Fracingforensics.com) | [cicada3301](https://ransomwatch.telemetry.ltd/#/profiles?id=cicada3301) |
