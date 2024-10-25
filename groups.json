@@ -6853,5 +6853,25 @@
             }
         ],
         "profile": []
+    },
+    {
+        "name": "nitrogen",
+        "captcha": false,
+        "parser": true,
+        "javascript_render": false,
+        "meta": null,
+        "locations": [
+            {
+                "fqdn": "nitrogenczslprh3xyw6lh5xyjvmsz7ciljoqxxknd7uymkfetfhgvqd.onion",
+                "title": "NitroBlog",
+                "version": 3,
+                "slug": "http://nitrogenczslprh3xyw6lh5xyjvmsz7ciljoqxxknd7uymkfetfhgvqd.onion",
+                "available": true,
+                "updated": "2024-10-25 17:29:06.638523",
+                "lastscrape": "2024-10-25 17:29:06.638508",
+                "enabled": true
+            }
+        ],
+        "profile": []
     }
 ]

@@ -1683,10 +1683,21 @@ def helldown():
 def orca():
     stdlog('parser: ' + 'orca')
     parser = '''
-    grep '<h2 class="blog__card-top-info-title">' source/orca-*.html | cut -d '>' -f 2 | cut -d '<' -f 1 | grep -v INTRODUCT
+    grep '<h2 class="blog__card-top-info-title">' source/orca-*.html | cut -d '>' -f 2 | cut -d '<' -f 1 | grep -v INTRODUCT || true
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
         errlog('orca: ' + 'parsing fail')
     for post in posts:
         appender(post, 'orca')
+
+def nitrogen():
+    stdlog('parser: ' + 'nitrogen')
+    parser = '''
+    grep -C 1 '<div class="w3-half "' source/nitrogen-*.html  | grep h3 | cut -d '>' -f 3 | cut -d '<' -f 1 || true
+    '''
+    posts = runshellcmd(parser)
+    if len(posts) == 1:
+        errlog('nitrogen: ' + 'parsing fail')
+    for post in posts:
+        appender(post, 'nitrogen')
