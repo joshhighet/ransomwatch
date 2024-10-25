@@ -1044,8 +1044,9 @@ def ragroup():
 def eightbase():
     stdlog('parser: ' + '8base')
     # awk '/class="stretched-link">/{getline; print}' source/8base-*.html | sed -e 's/^[ \t]*//' | sort | uniq
+    # awk '/class="stretched-link">/{getline; print}' source/8base-*.html | sed -e 's/^[ \t]*//' | perl -MHTML::Entities -ne 'print decode_entities(decode_entities($_))' | sort | uniq
     parser = '''
-    awk '/class="stretched-link">/{getline; print}' source/8base-*.html | sed -e 's/^[ \t]*//' | perl -MHTML::Entities -ne 'print decode_entities(decode_entities($_))' | sort | uniq
+    awk '/class="stretched-link">/{getline; print}' source/8base-*.html | sed -e 's/^[ \t]*//' -e 's/^ *//g' -e 's/[[:space:]]*$//' | perl -MHTML::Entities -ne 'print decode_entities(decode_entities($_))' | sort | uniq  | sed -e 's/^ *//g' -e 's/[[:space:]]*$//'
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:

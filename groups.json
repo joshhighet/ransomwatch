@@ -5021,6 +5021,16 @@
                 "updated": "2024-09-18 08:41:17.217701",
                 "lastscrape": "2024-09-18 08:41:17.217690",
                 "enabled": true
+            },
+            {
+                "fqdn": "92.118.36.204",
+                "title": "Home",
+                "version": 0,
+                "slug": "http://92.118.36.204",
+                "available": true,
+                "updated": "2024-10-25 17:49:24.063132",
+                "lastscrape": "2024-10-25 17:49:24.063122",
+                "enabled": true
             }
         ],
         "profile": []
