@@ -1714,3 +1714,14 @@ def sarcoma():
         errlog('sarcoma: ' + 'parsing fail')
     for post in posts:
         appender(post, 'sarcoma')
+        
+def interlock():
+    stdlog('parser: ' + 'interlock')
+    parser = '''
+    grep '<div class="advert_info_title">' source/interlock-*.html | cut -d '>' -f 2 | cut -d '<' -f 1 || true
+    '''
+    posts = runshellcmd(parser)
+    if len(posts) == 1:
+        errlog('interlock: ' + 'parsing fail')
+    for post in posts:
+        appender(post, 'interlock')
