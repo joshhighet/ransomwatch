@@ -6833,5 +6833,25 @@
             }
         ],
         "profile": []
+    },
+    {
+        "name": "orca",
+        "captcha": false,
+        "parser": true,
+        "javascript_render": false,
+        "meta": null,
+        "locations": [
+            {
+                "fqdn": "orca66hwnpciepupe5626k2ib6dds6zizjwuuashz67usjps2wehz4id.onion",
+                "title": "Leaks",
+                "version": 3,
+                "slug": "http://orca66hwnpciepupe5626k2ib6dds6zizjwuuashz67usjps2wehz4id.onion",
+                "available": true,
+                "updated": "2024-10-25 17:23:48.124011",
+                "lastscrape": "2024-10-25 17:23:48.124003",
+                "enabled": true
+            }
+        ],
+        "profile": []
     }
 ]

@@ -326,4 +326,5 @@ if args.mode == 'parse':
     parsers.nullbulge()
     parsers.lynx()
     parsers.helldown()
+    parsers.orca()
     stdlog('ransomwatch: ' + 'parse run complete')

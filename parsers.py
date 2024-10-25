@@ -1679,3 +1679,14 @@ def helldown():
         errlog('helldown: ' + 'parsing fail')
     for post in posts:
         appender(post, 'helldown')
+
+def orca():
+    stdlog('parser: ' + 'orca')
+    parser = '''
+    grep '<h2 class="blog__card-top-info-title">' source/orca-*.html | cut -d '>' -f 2 | cut -d '<' -f 1 | grep -v INTRODUCT
+    '''
+    posts = runshellcmd(parser)
+    if len(posts) == 1:
+        errlog('orca: ' + 'parsing fail')
+    for post in posts:
+        appender(post, 'orca')
