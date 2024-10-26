@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-10-26 | [`ATTENTION!`](https://google.com/search?q=ATTENTION%21) | [donutleaks](https://ransomwatch.telemetry.ltd/#/profiles?id=donutleaks) |
+| 2024-10-26 | [`Premier Work Support`](https://google.com/search?q=Premier+Work+Support) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-10-26 | [`Digital Engineering`](https://google.com/search?q=Digital+Engineering) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
 | 2024-10-26 | [`TR****GB`](https://google.com/search?q=TR%2A%2A%2A%2AGB) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
 | 2024-10-25 | [`www.olanocorp.com`](https://google.com/search?q=www.olanocorp.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-10-18 | [`http://neighborscu.org`](https://google.com/search?q=http%3A%2F%2Fneighborscu.org) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-10-18 | [`Ultra Tune (ultratune.com.au)`](https://google.com/search?q=Ultra+Tune+%28ultratune.com.au%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2024-10-18 | [`Alqaryahauction.com`](https://google.com/search?q=Alqaryahauction.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-10-18 | [`www.qal.com`](https://google.com/search?q=www.qal.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-10-18 | [`Q***M`](https://google.com/search?q=Q%2A%2A%2AM) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
