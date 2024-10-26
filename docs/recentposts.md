@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-10-26 | [`PT Transportasi Gas Indonesia`](https://google.com/search?q=PT+Transportasi+Gas+Indonesia) | [meow](https://ransomwatch.telemetry.ltd/#/profiles?id=meow) |
+| 2024-10-26 | [`The Eye Clinic Surgicenter`](https://google.com/search?q=The+Eye+Clinic+Surgicenter) | [meow](https://ransomwatch.telemetry.ltd/#/profiles?id=meow) |
+| 2024-10-26 | [`Westwood Country Club`](https://google.com/search?q=Westwood+Country+Club) | [meow](https://ransomwatch.telemetry.ltd/#/profiles?id=meow) |
 | 2024-10-26 | [`https://wescan-services.com`](https://google.com/search?q=https%3A%2F%2Fwescan-services.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-10-26 | [`ATTENTION!`](https://google.com/search?q=ATTENTION%21) | [donutleaks](https://ransomwatch.telemetry.ltd/#/profiles?id=donutleaks) |
 | 2024-10-26 | [`Premier Work Support`](https://google.com/search?q=Premier+Work+Support) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2024-10-18 | [`https://indiba.com`](https://google.com/search?q=https%3A%2F%2Findiba.com) | [cicada3301](https://ransomwatch.telemetry.ltd/#/profiles?id=cicada3301) |
 | 2024-10-18 | [`Astolabs.com`](https://google.com/search?q=Astolabs.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-10-18 | [`Cordogan Clark and Associates (cordoganclark.com)`](https://google.com/search?q=Cordogan+Clark+and+Associates+%28cordoganclark.com%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
-| 2024-10-18 | [`Fromm (FrommBeauty.com)`](https://google.com/search?q=Fromm+%28FrommBeauty.com%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
-| 2024-10-18 | [`http://neighborscu.org`](https://google.com/search?q=http%3A%2F%2Fneighborscu.org) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
-| 2024-10-18 | [`Ultra Tune (ultratune.com.au)`](https://google.com/search?q=Ultra+Tune+%28ultratune.com.au%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
