@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-10-26 | [`TV Guide Magazine`](https://google.com/search?q=TV+Guide+Magazine) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-10-26 | [`Positive Business Solutions`](https://google.com/search?q=Positive+Business+Solutions) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-10-26 | [`C & C Industries`](https://google.com/search?q=C+%26+C+Industries) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-10-26 | [`PT Transportasi Gas Indonesia`](https://google.com/search?q=PT+Transportasi+Gas+Indonesia) | [meow](https://ransomwatch.telemetry.ltd/#/profiles?id=meow) |
 | 2024-10-26 | [`The Eye Clinic Surgicenter`](https://google.com/search?q=The+Eye+Clinic+Surgicenter) | [meow](https://ransomwatch.telemetry.ltd/#/profiles?id=meow) |
 | 2024-10-26 | [`Westwood Country Club`](https://google.com/search?q=Westwood+Country+Club) | [meow](https://ransomwatch.telemetry.ltd/#/profiles?id=meow) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2024-10-18 | [`Mid State Electric`](https://google.com/search?q=Mid+State+Electric) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-10-18 | [`McCody`](https://google.com/search?q=McCody) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-10-18 | [`Absolute Machine Tools`](https://google.com/search?q=Absolute+Machine+Tools) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-10-18 | [`https://indiba.com`](https://google.com/search?q=https%3A%2F%2Findiba.com) | [cicada3301](https://ransomwatch.telemetry.ltd/#/profiles?id=cicada3301) |
-| 2024-10-18 | [`Astolabs.com`](https://google.com/search?q=Astolabs.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-10-18 | [`Cordogan Clark and Associates (cordoganclark.com)`](https://google.com/search?q=Cordogan+Clark+and+Associates+%28cordoganclark.com%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
