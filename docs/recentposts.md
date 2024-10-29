@@ -4,6 +4,10 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-10-29 | [`www.baymark.com`](https://google.com/search?q=www.baymark.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-10-29 | [`Dirksen Screw Products`](https://google.com/search?q=Dirksen+Screw+Products) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-10-29 | [`Dana Safety Supply`](https://google.com/search?q=Dana+Safety+Supply) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-10-29 | [`Astac`](https://google.com/search?q=Astac) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-10-29 | [`noblehouse.com.ph`](https://google.com/search?q=noblehouse.com.ph) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-10-29 | [`hcfinc.com`](https://google.com/search?q=hcfinc.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-10-29 | [`www.ztexconstruction.com`](https://google.com/search?q=www.ztexconstruction.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -200,7 +204,3 @@ _last `200` posts_
 | 2024-10-21 | [`Schweiger Transport (schweiger-gmbh.de)`](https://google.com/search?q=Schweiger+Transport+%28schweiger-gmbh.de%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2024-10-21 | [`www.stivo.com`](https://google.com/search?q=www.stivo.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-10-21 | [`Philadelphia Macaroni (philamacaroni.com)`](https://google.com/search?q=Philadelphia+Macaroni+%28philamacaroni.com%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
-| 2024-10-21 | [`Mercury Theatre`](https://google.com/search?q=Mercury+Theatre) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2024-10-21 | [`Trimarc Financial (trimarc.com)`](https://google.com/search?q=Trimarc+Financial+%28trimarc.com%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
-| 2024-10-21 | [`yorozu-corp.co.jp`](https://google.com/search?q=yorozu-corp.co.jp) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-10-20 | [`qs-group.com`](https://google.com/search?q=qs-group.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
