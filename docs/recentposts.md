@@ -4,6 +4,13 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-10-30 | [`iFocus Consulting`](https://google.com/search?q=iFocus+Consulting) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-10-30 | [`Unlimited Lawn Care`](https://google.com/search?q=Unlimited+Lawn+Care) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-10-30 | [`Sunrise Express`](https://google.com/search?q=Sunrise+Express) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-10-30 | [`Pureflow Airdog`](https://google.com/search?q=Pureflow+Airdog) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-10-30 | [`Pelsue`](https://google.com/search?q=Pelsue) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-10-30 | [`Paul White Company`](https://google.com/search?q=Paul+White+Company) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-10-30 | [`Maval Industries`](https://google.com/search?q=Maval+Industries) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-10-30 | [`C**********M`](https://google.com/search?q=C%2A%2A%2A%2A%2A%2A%2A%2A%2A%2AM) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
 | 2024-10-30 | [`IM Cannabis Hacked`](https://google.com/search?q=IM+Cannabis+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2024-10-30 | [`SmartSource (smartsource-inc.com)`](https://google.com/search?q=SmartSource+%28smartsource-inc.com%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
@@ -197,10 +204,3 @@ _last `200` posts_
 | 2024-10-21 | [`The Kaiser Enterprise`](https://google.com/search?q=The+Kaiser+Enterprise) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-10-21 | [`Silver Springs Bottled Water Company`](https://google.com/search?q=Silver+Springs+Bottled+Water+Company) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-10-21 | [`LEWA`](https://google.com/search?q=LEWA) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2024-10-21 | [`Phyton Biotech - Full Leak`](https://google.com/search?q=Phyton+Biotech+-+Full+Leak) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
-| 2024-10-21 | [`Cotala Cross-Media - Full Leak`](https://google.com/search?q=Cotala+Cross-Media+-+Full+Leak) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
-| 2024-10-21 | [`City Projects - Full Leak`](https://google.com/search?q=City+Projects+-+Full+Leak) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
-| 2024-10-21 | [`Raeyco Lab Equipment - Full Leak`](https://google.com/search?q=Raeyco+Lab+Equipment+-+Full+Leak) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
-| 2024-10-21 | [`Seng Tsoi Architect - Full Leak`](https://google.com/search?q=Seng+Tsoi+Architect+-+Full+Leak) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
-| 2024-10-21 | [`http://teddy.it`](https://google.com/search?q=http%3A%2F%2Fteddy.it) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
-| 2024-10-21 | [`La Tazza D'oro - Full Leak`](https://google.com/search?q=La+Tazza+D%27oro+-+Full+Leak) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
