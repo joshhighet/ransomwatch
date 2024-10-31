@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-10-31 | [`TDM Technical Services`](https://google.com/search?q=TDM+Technical+Services) | [sarcoma](https://ransomwatch.telemetry.ltd/#/profiles?id=sarcoma) |
+| 2024-10-31 | [`CAS Software`](https://google.com/search?q=CAS+Software) | [sarcoma](https://ransomwatch.telemetry.ltd/#/profiles?id=sarcoma) |
+| 2024-10-31 | [`granjazul.com`](https://google.com/search?q=granjazul.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-10-31 | [`illumin8global.com`](https://google.com/search?q=illumin8global.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-10-30 | [`iFocus Consulting`](https://google.com/search?q=iFocus+Consulting) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-10-30 | [`Unlimited Lawn Care`](https://google.com/search?q=Unlimited+Lawn+Care) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2024-10-22 | [`autodukan.com`](https://google.com/search?q=autodukan.com) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-10-21 | [`fordcountrymotors.mx`](https://google.com/search?q=fordcountrymotors.mx) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-10-21 | [`Temple, Inc.`](https://google.com/search?q=Temple%2C+Inc.) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2024-10-21 | [`Miller Edge`](https://google.com/search?q=Miller+Edge) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2024-10-21 | [`The Kaiser Enterprise`](https://google.com/search?q=The+Kaiser+Enterprise) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2024-10-21 | [`Silver Springs Bottled Water Company`](https://google.com/search?q=Silver+Springs+Bottled+Water+Company) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
