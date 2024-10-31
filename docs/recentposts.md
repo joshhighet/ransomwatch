@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-10-31 | [`hacla.org\$1.9B\USA\861GB\&lt;1% DISCLOSED`](https://google.com/search?q=hacla.org%5C%241.9B%5CUSA%5C861GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-10-31 | [`Brancaia`](https://google.com/search?q=Brancaia) | [sarcoma](https://ransomwatch.telemetry.ltd/#/profiles?id=sarcoma) |
 | 2024-10-31 | [`TDM Technical Services`](https://google.com/search?q=TDM+Technical+Services) | [sarcoma](https://ransomwatch.telemetry.ltd/#/profiles?id=sarcoma) |
 | 2024-10-31 | [`CAS Software`](https://google.com/search?q=CAS+Software) | [sarcoma](https://ransomwatch.telemetry.ltd/#/profiles?id=sarcoma) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-10-22 | [`boloforms.com`](https://google.com/search?q=boloforms.com) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-10-22 | [`onedayevent.com`](https://google.com/search?q=onedayevent.com) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-10-22 | [`autodukan.com`](https://google.com/search?q=autodukan.com) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
-| 2024-10-21 | [`fordcountrymotors.mx`](https://google.com/search?q=fordcountrymotors.mx) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
