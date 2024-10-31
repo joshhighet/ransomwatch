@@ -4,6 +4,13 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-10-31 | [`anuenterprise.com.au`](https://google.com/search?q=anuenterprise.com.au) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
+| 2024-10-31 | [`inhometexas.com`](https://google.com/search?q=inhometexas.com) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
+| 2024-10-31 | [`caillau.com.br`](https://google.com/search?q=caillau.com.br) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
+| 2024-10-31 | [`sandray.com`](https://google.com/search?q=sandray.com) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
+| 2024-10-31 | [`mpspromotions.com`](https://google.com/search?q=mpspromotions.com) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
+| 2024-10-31 | [`freedomhomecare.net`](https://google.com/search?q=freedomhomecare.net) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
+| 2024-10-31 | [`BULLONERIE GALVIT`](https://google.com/search?q=BULLONERIE+GALVIT) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
 | 2024-10-31 | [`hacla.org\$1.9B\USA\861GB\&lt;1% DISCLOSED`](https://google.com/search?q=hacla.org%5C%241.9B%5CUSA%5C861GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-10-31 | [`Brancaia`](https://google.com/search?q=Brancaia) | [sarcoma](https://ransomwatch.telemetry.ltd/#/profiles?id=sarcoma) |
 | 2024-10-31 | [`TDM Technical Services`](https://google.com/search?q=TDM+Technical+Services) | [sarcoma](https://ransomwatch.telemetry.ltd/#/profiles?id=sarcoma) |
@@ -197,10 +204,3 @@ _last `200` posts_
 | 2024-10-22 | [`polypane.be`](https://google.com/search?q=polypane.be) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-10-22 | [`dennissupply.com`](https://google.com/search?q=dennissupply.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-10-22 | [`specpro-inc.com`](https://google.com/search?q=specpro-inc.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-10-22 | [`semna.fr`](https://google.com/search?q=semna.fr) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-10-22 | [`1doc.sg`](https://google.com/search?q=1doc.sg) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-10-22 | [`mauguio-carnon.com`](https://google.com/search?q=mauguio-carnon.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-10-22 | [`donbosco-landser.net`](https://google.com/search?q=donbosco-landser.net) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-10-22 | [`boloforms.com`](https://google.com/search?q=boloforms.com) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
-| 2024-10-22 | [`onedayevent.com`](https://google.com/search?q=onedayevent.com) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
-| 2024-10-22 | [`autodukan.com`](https://google.com/search?q=autodukan.com) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
