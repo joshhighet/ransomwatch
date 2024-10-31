@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-10-31 | [`illumin8global.com`](https://google.com/search?q=illumin8global.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-10-30 | [`iFocus Consulting`](https://google.com/search?q=iFocus+Consulting) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-10-30 | [`Unlimited Lawn Care`](https://google.com/search?q=Unlimited+Lawn+Care) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-10-30 | [`Sunrise Express`](https://google.com/search?q=Sunrise+Express) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-10-21 | [`Miller Edge`](https://google.com/search?q=Miller+Edge) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-10-21 | [`The Kaiser Enterprise`](https://google.com/search?q=The+Kaiser+Enterprise) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-10-21 | [`Silver Springs Bottled Water Company`](https://google.com/search?q=Silver+Springs+Bottled+Water+Company) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2024-10-21 | [`LEWA`](https://google.com/search?q=LEWA) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
