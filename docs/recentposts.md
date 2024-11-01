@@ -4,6 +4,16 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-01 | [`www.sym-global.com`](https://google.com/search?q=www.sym-global.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-11-01 | [`www.fatboysfleetandauto.com`](https://google.com/search?q=www.fatboysfleetandauto.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-11-01 | [`www.tetco-group.com`](https://google.com/search?q=www.tetco-group.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-11-01 | [`www.tigre.gob.ar`](https://google.com/search?q=www.tigre.gob.ar) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-11-01 | [`www.usm.cl`](https://google.com/search?q=www.usm.cl) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-11-01 | [`www.ua4rent.com`](https://google.com/search?q=www.ua4rent.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-11-01 | [`www.rosito-bisani.com`](https://google.com/search?q=www.rosito-bisani.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-11-01 | [`obe.com`](https://google.com/search?q=obe.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-11-01 | [`lighthouseelectric.com`](https://google.com/search?q=lighthouseelectric.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-11-01 | [`lumiplan.com\$49.2M\France\652GB\&lt;1% DISCLOSED`](https://google.com/search?q=lumiplan.com%5C%2449.2M%5CFrance%5C652GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-11-01 | [`eap.gr`](https://google.com/search?q=eap.gr) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-01 | [`Cerp Bretagne Nord`](https://google.com/search?q=Cerp+Bretagne+Nord) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-11-01 | [`synertrade.com\$42M\USA\3TB\100% DISCLOSED`](https://google.com/search?q=synertrade.com%5C%2442M%5CUSA%5C3TB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
@@ -194,13 +204,3 @@ _last `200` posts_
 | 2024-10-24 | [`www.resourceinternational.com`](https://google.com/search?q=www.resourceinternational.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-10-24 | [`McElroy, Quirk and Burch, APC`](https://google.com/search?q=McElroy%2C+Quirk+and+Burch%2C+APC) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-10-24 | [`www.oma.aero`](https://google.com/search?q=www.oma.aero) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-10-24 | [`Tuggle Duggins`](https://google.com/search?q=Tuggle+Duggins) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2024-10-24 | [`Value City NJ (valuecitynj.com)`](https://google.com/search?q=Value+City+NJ+%28valuecitynj.com%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
-| 2024-10-24 | [`The Getz Group (getz.com.hk)`](https://google.com/search?q=The+Getz+Group+%28getz.com.hk%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
-| 2024-10-24 | [`carolinaarthritis.com`](https://google.com/search?q=carolinaarthritis.com) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
-| 2024-10-24 | [`Apache Mills, Inc. (apachemills.com)`](https://google.com/search?q=Apache+Mills%2C+Inc.+%28apachemills.com%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
-| 2024-10-24 | [`picsolve.com\$32M\USA\620GB\&lt;1% DISCLOSED`](https://google.com/search?q=picsolve.com%5C%2432M%5CUSA%5C620GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2024-10-24 | [`bcllegal.com\$16.7M\United Kingdom\829GB\&lt;1% DISCLOSED`](https://google.com/search?q=bcllegal.com%5C%2416.7M%5CUnited+Kingdom%5C829GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2024-10-24 | [`B****A`](https://google.com/search?q=B%2A%2A%2A%2AA) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
-| 2024-10-24 | [`F*******M Corp`](https://google.com/search?q=F%2A%2A%2A%2A%2A%2A%2AM+Corp) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
-| 2024-10-24 | [`LifeMine`](https://google.com/search?q=LifeMine) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
