@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-01 | [`MENZIES CNAC (Jardine Aviation Services)`](https://google.com/search?q=MENZIES+CNAC+%28Jardine+Aviation+Services%29) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
+| 2024-11-01 | [`www.mltmua.com`](https://google.com/search?q=www.mltmua.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-11-01 | [`DAIKIN THAILAND`](https://google.com/search?q=DAIKIN+THAILAND) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-11-01 | [`Heritage Golf`](https://google.com/search?q=Heritage+Golf) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-11-01 | [`Valu-Trac Investment Management`](https://google.com/search?q=Valu-Trac+Investment+Management) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-10-24 | [`Eagle Industries`](https://google.com/search?q=Eagle+Industries) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-10-24 | [`Action Heating & Cooling`](https://google.com/search?q=Action+Heating+%26+Cooling) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-10-23 | [`Prince Pipes`](https://google.com/search?q=Prince+Pipes) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
-| 2024-10-23 | [`P+B Team Aircargo`](https://google.com/search?q=P%2BB+Team+Aircargo) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
-| 2024-10-23 | [`Gluckstein Personal Injury Lawyers`](https://google.com/search?q=Gluckstein+Personal+Injury+Lawyers) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
