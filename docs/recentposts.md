@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-01 | [`JS McCarthy Printers`](https://google.com/search?q=JS+McCarthy+Printers) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-11-01 | [`CGR Technologies`](https://google.com/search?q=CGR+Technologies) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-11-01 | [`www.sym-global.com`](https://google.com/search?q=www.sym-global.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-01 | [`www.fatboysfleetandauto.com`](https://google.com/search?q=www.fatboysfleetandauto.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-01 | [`www.tetco-group.com`](https://google.com/search?q=www.tetco-group.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-10-24 | [`bulloch.solutions`](https://google.com/search?q=bulloch.solutions) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-10-24 | [`www.kciconst.com`](https://google.com/search?q=www.kciconst.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-10-24 | [`www.resourceinternational.com`](https://google.com/search?q=www.resourceinternational.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-10-24 | [`McElroy, Quirk and Burch, APC`](https://google.com/search?q=McElroy%2C+Quirk+and+Burch%2C+APC) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2024-10-24 | [`www.oma.aero`](https://google.com/search?q=www.oma.aero) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
