@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-02 | [`Imprimerie Peau`](https://google.com/search?q=Imprimerie+Peau) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
+| 2024-11-02 | [`B Transport, L.L.C.`](https://google.com/search?q=B+Transport%2C+L.L.C.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-11-02 | [`http://svpworldwide.com`](https://google.com/search?q=http%3A%2F%2Fsvpworldwide.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-11-02 | [`DieTech North America`](https://google.com/search?q=DieTech+North+America) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-11-01 | [`JS McCarthy Printers`](https://google.com/search?q=JS+McCarthy+Printers) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-10-25 | [`****`](https://google.com/search?q=%2A%2A%2A%2A) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
 | 2024-10-25 | [`Spine by Villamil MD`](https://google.com/search?q=Spine+by+Villamil+MD) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2024-10-25 | [`Pacific Pulmonary Medical Group`](https://google.com/search?q=Pacific+Pulmonary+Medical+Group) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
-| 2024-10-25 | [`Aspen Healthcare`](https://google.com/search?q=Aspen+Healthcare) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
-| 2024-10-24 | [`bulloch.solutions`](https://google.com/search?q=bulloch.solutions) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
