@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-02 | [`DieTech North America`](https://google.com/search?q=DieTech+North+America) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-11-01 | [`JS McCarthy Printers`](https://google.com/search?q=JS+McCarthy+Printers) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-11-01 | [`CGR Technologies`](https://google.com/search?q=CGR+Technologies) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-11-01 | [`www.sym-global.com`](https://google.com/search?q=www.sym-global.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-10-25 | [`Aspen Healthcare`](https://google.com/search?q=Aspen+Healthcare) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2024-10-24 | [`bulloch.solutions`](https://google.com/search?q=bulloch.solutions) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-10-24 | [`www.kciconst.com`](https://google.com/search?q=www.kciconst.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-10-24 | [`www.resourceinternational.com`](https://google.com/search?q=www.resourceinternational.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
