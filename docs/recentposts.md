@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-03 | [`The Law Offices of Jed Silverman`](https://google.com/search?q=The+Law+Offices+of+Jed+Silverman) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-11-03 | [`Russell Law Firm, LLC`](https://google.com/search?q=Russell+Law+Firm%2C+LLC) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-11-02 | [`bravodigitaltrader.co.uk`](https://google.com/search?q=bravodigitaltrader.co.uk) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-02 | [`Imprimerie Peau`](https://google.com/search?q=Imprimerie+Peau) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-10-25 | [`https://www.deschampsimp.com/`](https://google.com/search?q=https%3A%2F%2Fwww.deschampsimp.com%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-10-25 | [`https://unitedsprinkler.com/`](https://google.com/search?q=https%3A%2F%2Funitedsprinkler.com%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-10-25 | [`https://www.centrilliontech.com`](https://google.com/search?q=https%3A%2F%2Fwww.centrilliontech.com) | [cicada3301](https://ransomwatch.telemetry.ltd/#/profiles?id=cicada3301) |
-| 2024-10-25 | [`****`](https://google.com/search?q=%2A%2A%2A%2A) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
