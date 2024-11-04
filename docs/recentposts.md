@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-04 | [`fullfordelectric.com`](https://google.com/search?q=fullfordelectric.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-04 | [`European External Action Service (EEAS)`](https://google.com/search?q=European+External+Action+Service+%28EEAS%29) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-11-04 | [`csucontracting.com`](https://google.com/search?q=csucontracting.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-04 | [`redphoenixconstruction.com`](https://google.com/search?q=redphoenixconstruction.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-10-25 | [`Cucamonga Valley Water District (cvwdwater.com)`](https://google.com/search?q=Cucamonga+Valley+Water+District+%28cvwdwater.com%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2024-10-25 | [`hcsgcorp.com`](https://google.com/search?q=hcsgcorp.com) | [underground](https://ransomwatch.telemetry.ltd/#/profiles?id=underground) |
 | 2024-10-25 | [`Niko Resources Ltd.`](https://google.com/search?q=Niko+Resources+Ltd.) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2024-10-25 | [`Ambica Steels`](https://google.com/search?q=Ambica+Steels) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
