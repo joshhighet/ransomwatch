@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-05 | [`Model Die & Mold`](https://google.com/search?q=Model+Die+%26+Mold) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
+| 2024-11-05 | [`Falco Sult`](https://google.com/search?q=Falco+Sult) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-11-05 | [`mh-m.org`](https://google.com/search?q=mh-m.org) | [embargo](https://ransomwatch.telemetry.ltd/#/profiles?id=embargo) |
 | 2024-11-05 | [`wexfordcounty.org`](https://google.com/search?q=wexfordcounty.org) | [embargo](https://ransomwatch.telemetry.ltd/#/profiles?id=embargo) |
 | 2024-11-05 | [`apoyoconsultoria.com`](https://google.com/search?q=apoyoconsultoria.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-10-25 | [`Spectrum Industries`](https://google.com/search?q=Spectrum+Industries) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
 | 2024-10-25 | [`Magenta Photo Studio`](https://google.com/search?q=Magenta+Photo+Studio) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
 | 2024-10-25 | [`Brechbuhler Scales Inc`](https://google.com/search?q=Brechbuhler+Scales+Inc) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
-| 2024-10-25 | [`MDSi INC`](https://google.com/search?q=MDSi+INC) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
-| 2024-10-25 | [`IDEALEASE INC`](https://google.com/search?q=IDEALEASE+INC) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
