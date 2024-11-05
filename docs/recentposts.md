@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-05 | [`sundt.com`](https://google.com/search?q=sundt.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-05 | [`Memorial Hospital &amp; Manor`](https://google.com/search?q=Memorial+Hospital+%26amp%3B+Manor) | [embargo](https://ransomwatch.telemetry.ltd/#/profiles?id=embargo) |
 | 2024-11-05 | [`www.colonialbh.org`](https://google.com/search?q=www.colonialbh.org) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-11-05 | [`d****I`](https://google.com/search?q=d%2A%2A%2A%2AI) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-10-25 | [`Research Electronics International`](https://google.com/search?q=Research+Electronics+International) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
 | 2024-10-25 | [`ExcelPlast Tunisie`](https://google.com/search?q=ExcelPlast+Tunisie) | [orca](https://ransomwatch.telemetry.ltd/#/profiles?id=orca) |
 | 2024-10-25 | [`Chernan Technology`](https://google.com/search?q=Chernan+Technology) | [orca](https://ransomwatch.telemetry.ltd/#/profiles?id=orca) |
-| 2024-10-25 | [`Transtec SAS`](https://google.com/search?q=Transtec+SAS) | [orca](https://ransomwatch.telemetry.ltd/#/profiles?id=orca) |
