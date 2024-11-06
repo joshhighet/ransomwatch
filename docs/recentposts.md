@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-06 | [`Lincoln University`](https://google.com/search?q=Lincoln+University) | [meow](https://ransomwatch.telemetry.ltd/#/profiles?id=meow) |
 | 2024-11-06 | [`Cape Cod Regional Technical High School (capetech.us)`](https://google.com/search?q=Cape+Cod+Regional+Technical+High+School+%28capetech.us%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2024-11-06 | [`GSR Andrade Architects (gsr-andrade.com)`](https://google.com/search?q=GSR+Andrade+Architects+%28gsr-andrade.com%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2024-11-06 | [`Interoute agency`](https://google.com/search?q=Interoute+agency) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-10-25 | [`Groupe Bayard`](https://google.com/search?q=Groupe+Bayard) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2024-10-25 | [`Futureguard`](https://google.com/search?q=Futureguard) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2024-10-25 | [`Evlox`](https://google.com/search?q=Evlox) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2024-10-25 | [`ErgoFloor`](https://google.com/search?q=ErgoFloor) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
