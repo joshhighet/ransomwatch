@@ -4,6 +4,10 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-06 | [`Smitty's Supply`](https://google.com/search?q=Smitty%27s+Supply) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-11-06 | [`S & W Kitchens`](https://google.com/search?q=S+%26+W+Kitchens) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-11-06 | [`Paragon Plastics`](https://google.com/search?q=Paragon+Plastics) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-11-06 | [`Delfin Design & Manufacturing`](https://google.com/search?q=Delfin+Design+%26+Manufacturing) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-11-05 | [`nwhealthporter.com`](https://google.com/search?q=nwhealthporter.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-05 | [`pacificglazing.com`](https://google.com/search?q=pacificglazing.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-05 | [`Dome Construction`](https://google.com/search?q=Dome+Construction) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -200,7 +204,3 @@ _last `200` posts_
 | 2024-10-25 | [`Rocky Mountain Gastroenterology`](https://google.com/search?q=Rocky+Mountain+Gastroenterology) | [meow](https://ransomwatch.telemetry.ltd/#/profiles?id=meow) |
 | 2024-10-25 | [`Astero`](https://google.com/search?q=Astero) | [meow](https://ransomwatch.telemetry.ltd/#/profiles?id=meow) |
 | 2024-10-25 | [`Arango Billboard`](https://google.com/search?q=Arango+Billboard) | [meow](https://ransomwatch.telemetry.ltd/#/profiles?id=meow) |
-| 2024-10-25 | [`Sanglier Limited`](https://google.com/search?q=Sanglier+Limited) | [meow](https://ransomwatch.telemetry.ltd/#/profiles?id=meow) |
-| 2024-10-25 | [`KEE Process`](https://google.com/search?q=KEE+Process) | [meow](https://ransomwatch.telemetry.ltd/#/profiles?id=meow) |
-| 2024-10-25 | [`Youngs Timber Builders Merchants`](https://google.com/search?q=Youngs+Timber+Builders+Merchants) | [meow](https://ransomwatch.telemetry.ltd/#/profiles?id=meow) |
-| 2024-10-25 | [`By Design LLC`](https://google.com/search?q=By+Design+LLC) | [meow](https://ransomwatch.telemetry.ltd/#/profiles?id=meow) |
