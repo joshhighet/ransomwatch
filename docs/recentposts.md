@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-07 | [`Equator Worldwide`](https://google.com/search?q=Equator+Worldwide) | [meow](https://ransomwatch.telemetry.ltd/#/profiles?id=meow) |
 | 2024-11-07 | [`geminiindustriesinc.com`](https://google.com/search?q=geminiindustriesinc.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-07 | [`dzsi.com`](https://google.com/search?q=dzsi.com) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2024-11-07 | [`futuremetals.com`](https://google.com/search?q=futuremetals.com) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-10-25 | [`Zierick Manufacturing Corporation`](https://google.com/search?q=Zierick+Manufacturing+Corporation) | [sarcoma](https://ransomwatch.telemetry.ltd/#/profiles?id=sarcoma) |
 | 2024-10-25 | [`Open Range Field Services`](https://google.com/search?q=Open+Range+Field+Services) | [sarcoma](https://ransomwatch.telemetry.ltd/#/profiles?id=sarcoma) |
 | 2024-10-25 | [`Ferrer & Ojeda`](https://google.com/search?q=Ferrer+%26+Ojeda) | [sarcoma](https://ransomwatch.telemetry.ltd/#/profiles?id=sarcoma) |
-| 2024-10-25 | [`Wild Apple Graphics`](https://google.com/search?q=Wild+Apple+Graphics) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
