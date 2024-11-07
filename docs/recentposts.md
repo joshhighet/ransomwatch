@@ -4,6 +4,10 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-07 | [`nelconinc.biz`](https://google.com/search?q=nelconinc.biz) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-11-07 | [`www.fdc.ie`](https://google.com/search?q=www.fdc.ie) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-11-07 | [`www.cenergica.com`](https://google.com/search?q=www.cenergica.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-11-07 | [`www.bluco.com`](https://google.com/search?q=www.bluco.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-07 | [`naj.ae`](https://google.com/search?q=naj.ae) | [darkvault](https://ransomwatch.telemetry.ltd/#/profiles?id=darkvault) |
 | 2024-11-07 | [`Lexco`](https://google.com/search?q=Lexco) | [meow](https://ransomwatch.telemetry.ltd/#/profiles?id=meow) |
 | 2024-11-07 | [`Equator Worldwide`](https://google.com/search?q=Equator+Worldwide) | [meow](https://ransomwatch.telemetry.ltd/#/profiles?id=meow) |
@@ -200,7 +204,3 @@ _last `200` posts_
 | 2024-10-25 | [`March Elevator`](https://google.com/search?q=March+Elevator) | [sarcoma](https://ransomwatch.telemetry.ltd/#/profiles?id=sarcoma) |
 | 2024-10-25 | [`Suntrust Properties`](https://google.com/search?q=Suntrust+Properties) | [sarcoma](https://ransomwatch.telemetry.ltd/#/profiles?id=sarcoma) |
 | 2024-10-25 | [`Timber`](https://google.com/search?q=Timber) | [sarcoma](https://ransomwatch.telemetry.ltd/#/profiles?id=sarcoma) |
-| 2024-10-25 | [`McMunn & Yates Building Suppliesorp`](https://google.com/search?q=McMunn+%26+Yates+Building+Suppliesorp) | [sarcoma](https://ransomwatch.telemetry.ltd/#/profiles?id=sarcoma) |
-| 2024-10-25 | [`Auxit S.r.l`](https://google.com/search?q=Auxit+S.r.l) | [sarcoma](https://ransomwatch.telemetry.ltd/#/profiles?id=sarcoma) |
-| 2024-10-25 | [`Pheim Unit Trusts Berhad`](https://google.com/search?q=Pheim+Unit+Trusts+Berhad) | [sarcoma](https://ransomwatch.telemetry.ltd/#/profiles?id=sarcoma) |
-| 2024-10-25 | [`Zierick Manufacturing Corporation`](https://google.com/search?q=Zierick+Manufacturing+Corporation) | [sarcoma](https://ransomwatch.telemetry.ltd/#/profiles?id=sarcoma) |
