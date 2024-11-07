@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-07 | [`www.msdl.ca`](https://google.com/search?q=www.msdl.ca) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-11-07 | [`New Law`](https://google.com/search?q=New+Law) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
+| 2024-11-07 | [`Postcard Mania`](https://google.com/search?q=Postcard+Mania) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-11-06 | [`OSG.COM`](https://google.com/search?q=OSG.COM) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-06 | [`brandenburgerplumbing.com`](https://google.com/search?q=brandenburgerplumbing.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-06 | [`arcoexc.com`](https://google.com/search?q=arcoexc.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2024-10-25 | [`Stone Future inc`](https://google.com/search?q=Stone+Future+inc) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2024-10-25 | [`SOFPO (Exideuil)`](https://google.com/search?q=SOFPO+%28Exideuil%29) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2024-10-25 | [`SCHUMAG AKTIENGESELLSCHAFT`](https://google.com/search?q=SCHUMAG+AKTIENGESELLSCHAFT) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2024-10-25 | [`Kerkstoel`](https://google.com/search?q=Kerkstoel) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2024-10-25 | [`Island Grill`](https://google.com/search?q=Island+Grill) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2024-10-25 | [`Hauschild Installationen`](https://google.com/search?q=Hauschild+Installationen) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
