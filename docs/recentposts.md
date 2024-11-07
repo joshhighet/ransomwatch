@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-07 | [`dzsi.com`](https://google.com/search?q=dzsi.com) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
+| 2024-11-07 | [`futuremetals.com`](https://google.com/search?q=futuremetals.com) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
+| 2024-11-07 | [`plowmancraven.co.uk`](https://google.com/search?q=plowmancraven.co.uk) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2024-11-07 | [`www.msdl.ca`](https://google.com/search?q=www.msdl.ca) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-07 | [`New Law`](https://google.com/search?q=New+Law) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-11-07 | [`Postcard Mania`](https://google.com/search?q=Postcard+Mania) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2024-10-25 | [`Ferrer & Ojeda`](https://google.com/search?q=Ferrer+%26+Ojeda) | [sarcoma](https://ransomwatch.telemetry.ltd/#/profiles?id=sarcoma) |
 | 2024-10-25 | [`Wild Apple Graphics`](https://google.com/search?q=Wild+Apple+Graphics) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2024-10-25 | [`Volkswagen group`](https://google.com/search?q=Volkswagen+group) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2024-10-25 | [`Stone Future inc`](https://google.com/search?q=Stone+Future+inc) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2024-10-25 | [`SOFPO (Exideuil)`](https://google.com/search?q=SOFPO+%28Exideuil%29) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2024-10-25 | [`SCHUMAG AKTIENGESELLSCHAFT`](https://google.com/search?q=SCHUMAG+AKTIENGESELLSCHAFT) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
