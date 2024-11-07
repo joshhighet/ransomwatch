@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-07 | [`naj.ae`](https://google.com/search?q=naj.ae) | [darkvault](https://ransomwatch.telemetry.ltd/#/profiles?id=darkvault) |
+| 2024-11-07 | [`Lexco`](https://google.com/search?q=Lexco) | [meow](https://ransomwatch.telemetry.ltd/#/profiles?id=meow) |
 | 2024-11-07 | [`Equator Worldwide`](https://google.com/search?q=Equator+Worldwide) | [meow](https://ransomwatch.telemetry.ltd/#/profiles?id=meow) |
 | 2024-11-07 | [`geminiindustriesinc.com`](https://google.com/search?q=geminiindustriesinc.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-07 | [`dzsi.com`](https://google.com/search?q=dzsi.com) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-10-25 | [`Auxit S.r.l`](https://google.com/search?q=Auxit+S.r.l) | [sarcoma](https://ransomwatch.telemetry.ltd/#/profiles?id=sarcoma) |
 | 2024-10-25 | [`Pheim Unit Trusts Berhad`](https://google.com/search?q=Pheim+Unit+Trusts+Berhad) | [sarcoma](https://ransomwatch.telemetry.ltd/#/profiles?id=sarcoma) |
 | 2024-10-25 | [`Zierick Manufacturing Corporation`](https://google.com/search?q=Zierick+Manufacturing+Corporation) | [sarcoma](https://ransomwatch.telemetry.ltd/#/profiles?id=sarcoma) |
-| 2024-10-25 | [`Open Range Field Services`](https://google.com/search?q=Open+Range+Field+Services) | [sarcoma](https://ransomwatch.telemetry.ltd/#/profiles?id=sarcoma) |
-| 2024-10-25 | [`Ferrer & Ojeda`](https://google.com/search?q=Ferrer+%26+Ojeda) | [sarcoma](https://ransomwatch.telemetry.ltd/#/profiles?id=sarcoma) |
