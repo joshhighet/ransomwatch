@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-08 | [`Intermed Hospital Mongolia`](https://google.com/search?q=Intermed+Hospital+Mongolia) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2024-11-08 | [`MedElite Group`](https://google.com/search?q=MedElite+Group) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2024-11-07 | [`nelconinc.biz`](https://google.com/search?q=nelconinc.biz) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-07 | [`www.fdc.ie`](https://google.com/search?q=www.fdc.ie) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-10-25 | [`The Plastic Bag`](https://google.com/search?q=The+Plastic+Bag) | [sarcoma](https://ransomwatch.telemetry.ltd/#/profiles?id=sarcoma) |
 | 2024-10-25 | [`Elevator One`](https://google.com/search?q=Elevator+One) | [sarcoma](https://ransomwatch.telemetry.ltd/#/profiles?id=sarcoma) |
 | 2024-10-25 | [`March Elevator`](https://google.com/search?q=March+Elevator) | [sarcoma](https://ransomwatch.telemetry.ltd/#/profiles?id=sarcoma) |
-| 2024-10-25 | [`Suntrust Properties`](https://google.com/search?q=Suntrust+Properties) | [sarcoma](https://ransomwatch.telemetry.ltd/#/profiles?id=sarcoma) |
