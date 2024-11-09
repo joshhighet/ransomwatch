@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-09 | [`ATSG, Inc`](https://google.com/search?q=ATSG%2C+Inc) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2024-11-09 | [`Palmisano and Goodman, P.A.`](https://google.com/search?q=Palmisano+and+Goodman%2C+P.A.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-11-09 | [`Siltech (siltechcorp.local)`](https://google.com/search?q=Siltech+%28siltechcorp.local%29) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2024-11-09 | [`Finger Beton Unternehmensgruppe`](https://google.com/search?q=Finger+Beton+Unternehmensgruppe) | [meow](https://ransomwatch.telemetry.ltd/#/profiles?id=meow) |
 | 2024-11-09 | [`Karman Inc`](https://google.com/search?q=Karman+Inc) | [meow](https://ransomwatch.telemetry.ltd/#/profiles?id=meow) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-10-25 | [`www.olanocorp.com`](https://google.com/search?q=www.olanocorp.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-10-25 | [`Drug and Alcohol Treatment Service`](https://google.com/search?q=Drug+and+Alcohol+Treatment+Service) | [interlock](https://ransomwatch.telemetry.ltd/#/profiles?id=interlock) |
 | 2024-10-25 | [`Smeg`](https://google.com/search?q=Smeg) | [interlock](https://ransomwatch.telemetry.ltd/#/profiles?id=interlock) |
-| 2024-10-25 | [`Wayne County`](https://google.com/search?q=Wayne+County) | [interlock](https://ransomwatch.telemetry.ltd/#/profiles?id=interlock) |
-| 2024-10-25 | [`Cathexis Holdings LP`](https://google.com/search?q=Cathexis+Holdings+LP) | [interlock](https://ransomwatch.telemetry.ltd/#/profiles?id=interlock) |
