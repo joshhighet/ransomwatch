@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-09 | [`MENZIES CNAC (Jardine Aviation Services, Agility)`](https://google.com/search?q=MENZIES+CNAC+%28Jardine+Aviation+Services%2C+Agility%29) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2024-11-08 | [`bartleycorp.com`](https://google.com/search?q=bartleycorp.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-08 | [`interlabel.be`](https://google.com/search?q=interlabel.be) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-08 | [`del-electric.com`](https://google.com/search?q=del-electric.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-10-25 | [`Lácteos Lorán`](https://google.com/search?q=L%C3%A1cteos+Lor%C3%A1n) | [sarcoma](https://ransomwatch.telemetry.ltd/#/profiles?id=sarcoma) |
 | 2024-10-25 | [`Curtidos Barbero`](https://google.com/search?q=Curtidos+Barbero) | [sarcoma](https://ransomwatch.telemetry.ltd/#/profiles?id=sarcoma) |
 | 2024-10-25 | [`EasyPay`](https://google.com/search?q=EasyPay) | [sarcoma](https://ransomwatch.telemetry.ltd/#/profiles?id=sarcoma) |
-| 2024-10-25 | [`Jumbo Electronics Qatar`](https://google.com/search?q=Jumbo+Electronics+Qatar) | [sarcoma](https://ransomwatch.telemetry.ltd/#/profiles?id=sarcoma) |
