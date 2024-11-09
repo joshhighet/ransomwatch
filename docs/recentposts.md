@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-09 | [`Granite School District`](https://google.com/search?q=Granite+School+District) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2024-11-09 | [`NEBRASKALAND`](https://google.com/search?q=NEBRASKALAND) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2024-11-09 | [`WimCoCorp`](https://google.com/search?q=WimCoCorp) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2024-11-09 | [`MENZIES CNAC (Jardine Aviation Services, Agility)`](https://google.com/search?q=MENZIES+CNAC+%28Jardine+Aviation+Services%2C+Agility%29) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-10-25 | [`Perfection Fresh`](https://google.com/search?q=Perfection+Fresh) | [sarcoma](https://ransomwatch.telemetry.ltd/#/profiles?id=sarcoma) |
 | 2024-10-25 | [`Advanced Accounting & Business Advisory`](https://google.com/search?q=Advanced+Accounting+%26+Business+Advisory) | [sarcoma](https://ransomwatch.telemetry.ltd/#/profiles?id=sarcoma) |
 | 2024-10-25 | [`Road Distribution Services`](https://google.com/search?q=Road+Distribution+Services) | [sarcoma](https://ransomwatch.telemetry.ltd/#/profiles?id=sarcoma) |
-| 2024-10-25 | [`Lácteos Lorán`](https://google.com/search?q=L%C3%A1cteos+Lor%C3%A1n) | [sarcoma](https://ransomwatch.telemetry.ltd/#/profiles?id=sarcoma) |
