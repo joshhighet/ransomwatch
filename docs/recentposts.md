@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-09 | [`NEBRASKALAND`](https://google.com/search?q=NEBRASKALAND) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
+| 2024-11-09 | [`WimCoCorp`](https://google.com/search?q=WimCoCorp) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2024-11-09 | [`MENZIES CNAC (Jardine Aviation Services, Agility)`](https://google.com/search?q=MENZIES+CNAC+%28Jardine+Aviation+Services%2C+Agility%29) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2024-11-08 | [`bartleycorp.com`](https://google.com/search?q=bartleycorp.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-08 | [`interlabel.be`](https://google.com/search?q=interlabel.be) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-10-25 | [`Advanced Accounting & Business Advisory`](https://google.com/search?q=Advanced+Accounting+%26+Business+Advisory) | [sarcoma](https://ransomwatch.telemetry.ltd/#/profiles?id=sarcoma) |
 | 2024-10-25 | [`Road Distribution Services`](https://google.com/search?q=Road+Distribution+Services) | [sarcoma](https://ransomwatch.telemetry.ltd/#/profiles?id=sarcoma) |
 | 2024-10-25 | [`Lácteos Lorán`](https://google.com/search?q=L%C3%A1cteos+Lor%C3%A1n) | [sarcoma](https://ransomwatch.telemetry.ltd/#/profiles?id=sarcoma) |
-| 2024-10-25 | [`Curtidos Barbero`](https://google.com/search?q=Curtidos+Barbero) | [sarcoma](https://ransomwatch.telemetry.ltd/#/profiles?id=sarcoma) |
-| 2024-10-25 | [`EasyPay`](https://google.com/search?q=EasyPay) | [sarcoma](https://ransomwatch.telemetry.ltd/#/profiles?id=sarcoma) |
