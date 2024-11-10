@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-10 | [`bitquail.com`](https://google.com/search?q=bitquail.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-11-10 | [`Immuno Laboratories, Inc`](https://google.com/search?q=Immuno+Laboratories%2C+Inc) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-11-09 | [`ATSG, Inc`](https://google.com/search?q=ATSG%2C+Inc) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-11-09 | [`Palmisano and Goodman, P.A.`](https://google.com/search?q=Palmisano+and+Goodman%2C+P.A.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-11-09 | [`Siltech (siltechcorp.local)`](https://google.com/search?q=Siltech+%28siltechcorp.local%29) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-10-26 | [`Digital Engineering`](https://google.com/search?q=Digital+Engineering) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
 | 2024-10-26 | [`TR****GB`](https://google.com/search?q=TR%2A%2A%2A%2AGB) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
 | 2024-10-25 | [`www.olanocorp.com`](https://google.com/search?q=www.olanocorp.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-10-25 | [`Drug and Alcohol Treatment Service`](https://google.com/search?q=Drug+and+Alcohol+Treatment+Service) | [interlock](https://ransomwatch.telemetry.ltd/#/profiles?id=interlock) |
-| 2024-10-25 | [`Smeg`](https://google.com/search?q=Smeg) | [interlock](https://ransomwatch.telemetry.ltd/#/profiles?id=interlock) |
