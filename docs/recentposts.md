@@ -4,6 +4,12 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-11 | [`DSZ`](https://google.com/search?q=DSZ) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
+| 2024-11-11 | [`Future Metals`](https://google.com/search?q=Future+Metals) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
+| 2024-11-11 | [`Plowman Craven`](https://google.com/search?q=Plowman+Craven) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
+| 2024-11-11 | [`potteau.be`](https://google.com/search?q=potteau.be) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-11-11 | [`https://www.supplytechnologies.com/`](https://google.com/search?q=https%3A%2F%2Fwww.supplytechnologies.com%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
+| 2024-11-11 | [`https://www.maxxis.com/`](https://google.com/search?q=https%3A%2F%2Fwww.maxxis.com%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-11-11 | [`https://dezinecorp.com`](https://google.com/search?q=https%3A%2F%2Fdezinecorp.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-11-11 | [`Dietzgen Corporation`](https://google.com/search?q=Dietzgen+Corporation) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-11-11 | [`Amourgis & Associates`](https://google.com/search?q=Amourgis+%26+Associates) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
@@ -198,9 +204,3 @@ _last `200` posts_
 | 2024-10-27 | [`BU****IT`](https://google.com/search?q=BU%2A%2A%2A%2AIT) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
 | 2024-10-27 | [`payxpress.co.il`](https://google.com/search?q=payxpress.co.il) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-10-27 | [`melangesystems.com`](https://google.com/search?q=melangesystems.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-10-27 | [`mkarrari.com.br`](https://google.com/search?q=mkarrari.com.br) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-10-26 | [`TV Guide Magazine`](https://google.com/search?q=TV+Guide+Magazine) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-10-26 | [`Positive Business Solutions`](https://google.com/search?q=Positive+Business+Solutions) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-10-26 | [`C & C Industries`](https://google.com/search?q=C+%26+C+Industries) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-10-26 | [`PT Transportasi Gas Indonesia`](https://google.com/search?q=PT+Transportasi+Gas+Indonesia) | [meow](https://ransomwatch.telemetry.ltd/#/profiles?id=meow) |
-| 2024-10-26 | [`The Eye Clinic Surgicenter`](https://google.com/search?q=The+Eye+Clinic+Surgicenter) | [meow](https://ransomwatch.telemetry.ltd/#/profiles?id=meow) |
