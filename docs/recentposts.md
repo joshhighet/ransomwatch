@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-11 | [`https://dezinecorp.com`](https://google.com/search?q=https%3A%2F%2Fdezinecorp.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-11-11 | [`Dietzgen Corporation`](https://google.com/search?q=Dietzgen+Corporation) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-11-11 | [`Amourgis & Associates`](https://google.com/search?q=Amourgis+%26+Associates) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-11-11 | [`nynewspapers.com`](https://google.com/search?q=nynewspapers.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-10-26 | [`C & C Industries`](https://google.com/search?q=C+%26+C+Industries) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-10-26 | [`PT Transportasi Gas Indonesia`](https://google.com/search?q=PT+Transportasi+Gas+Indonesia) | [meow](https://ransomwatch.telemetry.ltd/#/profiles?id=meow) |
 | 2024-10-26 | [`The Eye Clinic Surgicenter`](https://google.com/search?q=The+Eye+Clinic+Surgicenter) | [meow](https://ransomwatch.telemetry.ltd/#/profiles?id=meow) |
-| 2024-10-26 | [`Westwood Country Club`](https://google.com/search?q=Westwood+Country+Club) | [meow](https://ransomwatch.telemetry.ltd/#/profiles?id=meow) |
