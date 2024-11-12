@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-12 | [`www.guymontigers.com`](https://google.com/search?q=www.guymontigers.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-11-12 | [`https://jst.es/`](https://google.com/search?q=https%3A%2F%2Fjst.es%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-11-12 | [`https://jarrellinc.com/`](https://google.com/search?q=https%3A%2F%2Fjarrellinc.com%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-11-12 | [`Banco de Fomento Internacional`](https://google.com/search?q=Banco+de+Fomento+Internacional) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2024-11-12 | [`TaxPros of Clermont`](https://google.com/search?q=TaxPros+of+Clermont) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-10-28 | [`flueid.com`](https://google.com/search?q=flueid.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-10-28 | [`guymontigers.com`](https://google.com/search?q=guymontigers.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-10-28 | [`harrispersonalinjury.com`](https://google.com/search?q=harrispersonalinjury.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-10-28 | [`Triverus`](https://google.com/search?q=Triverus) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
-| 2024-10-28 | [`AGAS Hacked`](https://google.com/search?q=AGAS+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
