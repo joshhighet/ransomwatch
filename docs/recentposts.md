@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-13 | [`http://www.axeon-360.com`](https://google.com/search?q=http%3A%2F%2Fwww.axeon-360.com) | [ciphbit](https://ransomwatch.telemetry.ltd/#/profiles?id=ciphbit) |
+| 2024-11-13 | [`Hellmich`](https://google.com/search?q=Hellmich) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2024-11-13 | [`Sercomm`](https://google.com/search?q=Sercomm) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-11-13 | [`Schmack`](https://google.com/search?q=Schmack) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-11-13 | [`midstatesindustrial.com`](https://google.com/search?q=midstatesindustrial.com) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-10-29 | [`CELO`](https://google.com/search?q=CELO) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-10-29 | [`Surfnet Communications`](https://google.com/search?q=Surfnet+Communications) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2024-10-29 | [`projektalp.ch`](https://google.com/search?q=projektalp.ch) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
-| 2024-10-29 | [`anhf.org.auh`](https://google.com/search?q=anhf.org.auh) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
-| 2024-10-29 | [`Jordan Public Schools (https://www.jordan.k12.mn.us/)`](https://google.com/search?q=Jordan+Public+Schools+%28https%3A%2F%2Fwww.jordan.k12.mn.us%2F%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
