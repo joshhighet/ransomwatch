@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-13 | [`midstatesindustrial.com`](https://google.com/search?q=midstatesindustrial.com) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
 | 2024-11-13 | [`Value Dental Center`](https://google.com/search?q=Value+Dental+Center) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2024-11-13 | [`Asaro Dental Aesthetics`](https://google.com/search?q=Asaro+Dental+Aesthetics) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2024-11-13 | [`Artistic Family Dental`](https://google.com/search?q=Artistic+Family+Dental) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-10-29 | [`Jordan Public Schools (https://www.jordan.k12.mn.us/)`](https://google.com/search?q=Jordan+Public+Schools+%28https%3A%2F%2Fwww.jordan.k12.mn.us%2F%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2024-10-29 | [`[DISCLOSED]Fursan Travel`](https://google.com/search?q=%5BDISCLOSED%5DFursan+Travel) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2024-10-29 | [`[DISCLOSED]Universite Paris Sud`](https://google.com/search?q=%5BDISCLOSED%5DUniversite+Paris+Sud) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
-| 2024-10-29 | [`Sage Automotive Interior (sageautomotiveinteriors.com)`](https://google.com/search?q=Sage+Automotive+Interior+%28sageautomotiveinteriors.com%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
