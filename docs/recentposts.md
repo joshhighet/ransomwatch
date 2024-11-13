@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-13 | [`American Associated Pharmacies`](https://google.com/search?q=American+Associated+Pharmacies) | [embargo](https://ransomwatch.telemetry.ltd/#/profiles?id=embargo) |
 | 2024-11-12 | [`Medigroup.ca`](https://google.com/search?q=Medigroup.ca) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-12 | [`Orange County Pathology Medical Group`](https://google.com/search?q=Orange+County+Pathology+Medical+Group) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
 | 2024-11-12 | [`SK Gas`](https://google.com/search?q=SK+Gas) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-10-29 | [`https://nathcompanies.com/`](https://google.com/search?q=https%3A%2F%2Fnathcompanies.com%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-10-29 | [`Hello.`](https://google.com/search?q=Hello.) | [donutleaks](https://ransomwatch.telemetry.ltd/#/profiles?id=donutleaks) |
 | 2024-10-28 | [`http://aerotecnic.com`](https://google.com/search?q=http%3A%2F%2Faerotecnic.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
-| 2024-10-28 | [`[File Tree and Full Data Dump]VOP CZ`](https://google.com/search?q=%5BFile+Tree+and+Full+Data+Dump%5DVOP+CZ) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
