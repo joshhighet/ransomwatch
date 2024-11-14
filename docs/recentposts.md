@@ -4,6 +4,14 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-14 | [`Pine Belt Cars`](https://google.com/search?q=Pine+Belt+Cars) | [meow](https://ransomwatch.telemetry.ltd/#/profiles?id=meow) |
+| 2024-11-14 | [`DieTech North America`](https://google.com/search?q=DieTech+North+America) | [meow](https://ransomwatch.telemetry.ltd/#/profiles?id=meow) |
+| 2024-11-14 | [`Cottles Asphalt Maintenance Inc`](https://google.com/search?q=Cottles+Asphalt+Maintenance+Inc) | [meow](https://ransomwatch.telemetry.ltd/#/profiles?id=meow) |
+| 2024-11-14 | [`Herron Todd White`](https://google.com/search?q=Herron+Todd+White) | [meow](https://ransomwatch.telemetry.ltd/#/profiles?id=meow) |
+| 2024-11-14 | [`J.S.T. Espana`](https://google.com/search?q=J.S.T.+Espana) | [meow](https://ransomwatch.telemetry.ltd/#/profiles?id=meow) |
+| 2024-11-14 | [`Karl Malone Toyota`](https://google.com/search?q=Karl+Malone+Toyota) | [meow](https://ransomwatch.telemetry.ltd/#/profiles?id=meow) |
+| 2024-11-14 | [`OMara Ag Equipment`](https://google.com/search?q=OMara+Ag+Equipment) | [meow](https://ransomwatch.telemetry.ltd/#/profiles?id=meow) |
+| 2024-11-14 | [`Zyloware`](https://google.com/search?q=Zyloware) | [meow](https://ransomwatch.telemetry.ltd/#/profiles?id=meow) |
 | 2024-11-14 | [`Pincu Barkan, Law Office and Notary`](https://google.com/search?q=Pincu+Barkan%2C+Law+Office+and+Notary) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2024-11-14 | [`Kumla Kommun`](https://google.com/search?q=Kumla+Kommun) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-11-13 | [`https://www.stalyhill-inf.tameside.sch.uk/`](https://google.com/search?q=https%3A%2F%2Fwww.stalyhill-inf.tameside.sch.uk%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
@@ -196,11 +204,3 @@ _last `200` posts_
 | 2024-10-29 | [`www.baymark.com`](https://google.com/search?q=www.baymark.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-10-29 | [`Dirksen Screw Products`](https://google.com/search?q=Dirksen+Screw+Products) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-10-29 | [`Dana Safety Supply`](https://google.com/search?q=Dana+Safety+Supply) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-10-29 | [`Astac`](https://google.com/search?q=Astac) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-10-29 | [`noblehouse.com.ph`](https://google.com/search?q=noblehouse.com.ph) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-10-29 | [`hcfinc.com`](https://google.com/search?q=hcfinc.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-10-29 | [`www.ztexconstruction.com`](https://google.com/search?q=www.ztexconstruction.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-10-29 | [`CLAS Information Services`](https://google.com/search?q=CLAS+Information+Services) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2024-10-29 | [`The Rosen Law Firm, P.A.`](https://google.com/search?q=The+Rosen+Law+Firm%2C+P.A.) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2024-10-29 | [`Weber Packaging Solutions`](https://google.com/search?q=Weber+Packaging+Solutions) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2024-10-29 | [`Distribution Alternatives, Inc.`](https://google.com/search?q=Distribution+Alternatives%2C+Inc.) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
