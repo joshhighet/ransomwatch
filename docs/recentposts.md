@@ -4,6 +4,11 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-15 | [`potteau.com`](https://google.com/search?q=potteau.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-11-15 | [`https://klarenbeek-transport.nl/`](https://google.com/search?q=https%3A%2F%2Fklarenbeek-transport.nl%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
+| 2024-11-15 | [`https://www.surgicalassociates.com/`](https://google.com/search?q=https%3A%2F%2Fwww.surgicalassociates.com%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
+| 2024-11-15 | [`https://www.billyheromans.com/`](https://google.com/search?q=https%3A%2F%2Fwww.billyheromans.com%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
+| 2024-11-15 | [`https://www.kenmore.com/`](https://google.com/search?q=https%3A%2F%2Fwww.kenmore.com%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-11-15 | [`jhs.co.uk`](https://google.com/search?q=jhs.co.uk) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-15 | [`Total Patient Care LLC`](https://google.com/search?q=Total+Patient+Care+LLC) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2024-11-15 | [`Bio-Clima Service Srl`](https://google.com/search?q=Bio-Clima+Service+Srl) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
@@ -199,8 +204,3 @@ _last `200` posts_
 | 2024-10-31 | [`granjazul.com`](https://google.com/search?q=granjazul.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-10-31 | [`illumin8global.com`](https://google.com/search?q=illumin8global.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-10-30 | [`iFocus Consulting`](https://google.com/search?q=iFocus+Consulting) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-10-30 | [`Unlimited Lawn Care`](https://google.com/search?q=Unlimited+Lawn+Care) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-10-30 | [`Sunrise Express`](https://google.com/search?q=Sunrise+Express) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-10-30 | [`Pureflow Airdog`](https://google.com/search?q=Pureflow+Airdog) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-10-30 | [`Pelsue`](https://google.com/search?q=Pelsue) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-10-30 | [`Paul White Company`](https://google.com/search?q=Paul+White+Company) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
