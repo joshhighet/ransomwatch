@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-15 | [`jhs.co.uk`](https://google.com/search?q=jhs.co.uk) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-15 | [`Total Patient Care LLC`](https://google.com/search?q=Total+Patient+Care+LLC) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2024-11-15 | [`Bio-Clima Service Srl`](https://google.com/search?q=Bio-Clima+Service+Srl) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2024-11-15 | [`A Sensitive Touch Home Health;Alphastar Home Health Care;Heart of Texas Home Healthcare Se`](https://google.com/search?q=A+Sensitive+Touch+Home+Health%3BAlphastar+Home+Health+Care%3BHeart+of+Texas+Home+Healthcare+Se) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-10-30 | [`Pureflow Airdog`](https://google.com/search?q=Pureflow+Airdog) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-10-30 | [`Pelsue`](https://google.com/search?q=Pelsue) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-10-30 | [`Paul White Company`](https://google.com/search?q=Paul+White+Company) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-10-30 | [`Maval Industries`](https://google.com/search?q=Maval+Industries) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
