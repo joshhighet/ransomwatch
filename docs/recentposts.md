@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-15 | [`Vector Transport (vectortransport.com)`](https://google.com/search?q=Vector+Transport+%28vectortransport.com%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
+| 2024-11-15 | [`www.gob.mx`](https://google.com/search?q=www.gob.mx) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-11-15 | [`A&O IT Group`](https://google.com/search?q=A%26O+IT+Group) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-11-15 | [`https://www.marysville.k12.oh.us`](https://google.com/search?q=https%3A%2F%2Fwww.marysville.k12.oh.us) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-11-15 | [`fortinainvestments.com`](https://google.com/search?q=fortinainvestments.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-14 | [`Mark Thomas`](https://google.com/search?q=Mark+Thomas) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2024-10-30 | [`C**********M`](https://google.com/search?q=C%2A%2A%2A%2A%2A%2A%2A%2A%2A%2AM) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
 | 2024-10-30 | [`IM Cannabis Hacked`](https://google.com/search?q=IM+Cannabis+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2024-10-30 | [`SmartSource (smartsource-inc.com)`](https://google.com/search?q=SmartSource+%28smartsource-inc.com%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
-| 2024-10-30 | [`Jillamy (jillamy.com)`](https://google.com/search?q=Jillamy+%28jillamy.com%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
-| 2024-10-30 | [`tlie.org`](https://google.com/search?q=tlie.org) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-10-30 | [`nagucoop.com`](https://google.com/search?q=nagucoop.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
