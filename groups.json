@@ -6973,5 +6973,35 @@
             }
         ],
         "profile": []
+    },
+    {
+        "name": "termite",
+        "captcha": false,
+        "parser": true,
+        "javascript_render": false,
+        "meta": null,
+        "locations": [
+            {
+                "fqdn": "termiteuslbumdge2zmfmfcsrvmvsfe4gvyudc5j6cdnisnhtftvokid.onion",
+                "title": "Termite",
+                "version": 3,
+                "slug": "http://termiteuslbumdge2zmfmfcsrvmvsfe4gvyudc5j6cdnisnhtftvokid.onion",
+                "available": true,
+                "updated": "2024-11-18 16:38:13.874518",
+                "lastscrape": "2024-11-18 16:38:13.874509",
+                "enabled": true
+            },
+            {
+                "fqdn": "termitelfvhutinrgpe55siktisskbqntkuq7ojidg42zh26avekq6qd.onion",
+                "title": null,
+                "version": 3,
+                "slug": "http://termitelfvhutinrgpe55siktisskbqntkuq7ojidg42zh26avekq6qd.onion/api/blog/blogs",
+                "available": true,
+                "updated": "2024-11-18 16:38:15.067299",
+                "lastscrape": "2024-11-18 16:38:15.067292",
+                "enabled": true
+            }
+        ],
+        "profile": []
     }
 ]

@@ -331,4 +331,5 @@ if args.mode == 'parse':
     parsers.sarcoma()
     parsers.interlock()
     parsers.hellcat()
+    parsers.termite()
     stdlog('ransomwatch: ' + 'parse run complete')

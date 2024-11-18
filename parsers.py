@@ -1740,3 +1740,14 @@ def hellcat():
         errlog('hellcat: ' + 'parsing fail')
     for post in posts:
         appender(post, 'hellcat')
+
+def termite():
+    stdlog('parser: ' + 'termite')
+    parser = '''
+    jq -r '.[].title' source/termite-termitelfv*.html || true
+    '''
+    posts = runshellcmd(parser)
+    if len(posts) == 1:
+        errlog('termite: ' + 'parsing fail')
+    for post in posts:
+        appender(post, 'termite')
