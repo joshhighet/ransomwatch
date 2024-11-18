@@ -1763,3 +1763,14 @@ def kairos():
         errlog('kairos: ' + 'parsing fail')
     for post in posts:
         appender(post, 'kairos')
+
+def bashe():
+    stdlog('parser: ' + 'bashe')
+    parser = '''
+    grep 'segment__contant' source/bashe-bashe*.html | grep segment__text__off | cut -d '>' -f 16 | cut -d '<' -f 1 | sort | uniq || true
+    '''
+    posts = runshellcmd(parser)
+    if len(posts) == 1:
+        errlog('bashe: ' + 'parsing fail')
+    for post in posts:
+        appender(post, 'bashe')
