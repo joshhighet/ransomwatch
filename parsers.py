@@ -1596,8 +1596,10 @@ def handala():
 
 def eldorado():
     stdlog('parser: ' + 'eldorado')
+    # grep '<h1 class="text-xl mb-2 text-decoration-underline">' source/eldorado-*.html | cut -d '>' -f 2 | cut -d '<' -f 1 || true
+    # grep '<p class="u-align-center u-text u-text-' source/eldorado-*.html | grep -v 'data-lang-' | cut -d '>' -f 2 | cut -d '<' -f 1 | sed -e 's/<[^>]*>//g' -e 's/^[ \t]*//' || true
     parser = '''
-    grep '<h1 class="text-xl mb-2 text-decoration-underline">' source/eldorado-*.html | cut -d '>' -f 2 | cut -d '<' -f 1 || true
+    grep 'const projects =' source/eldorado-*.html | sed 's/const projects =\(.*\);/\\1/' | jq '.[].name' -r || true
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
