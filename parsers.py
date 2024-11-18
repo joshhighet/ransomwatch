@@ -1588,7 +1588,7 @@ def FOG():
 def handala():
     stdlog('parser: ' + 'handala')
     parser = '''
-    grep '<h2 class="wp-block-post-title">' source/handala-*.html | cut -d '>' -f 3 | cut -d '<' -f 1 || true
+    grep '<h2 class="wp-block-post-title">' source/handala-*.html | cut -d '>' -f 3 | cut -d '<' -f 1 | sort | uniq || true
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
