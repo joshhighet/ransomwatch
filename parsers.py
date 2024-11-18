@@ -1386,8 +1386,9 @@ def donex():
 
 def killsecurity():
     stdlog('parser: ' + 'killsecurity')
+    # grep '<div class="post-title">' source/killsecurity-*.html | cut -d '>' -f 2 | cut -d '<' -f 1
     parser = '''
-    grep '<div class="post-title">' source/killsecurity-*.html | cut -d '>' -f 2 | cut -d '<' -f 1
+    grep '<st><img src="static/svg/' source/killsecurity-ks54*.html | cut -d ';' -f 2 | cut -d '<' -f 1
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
