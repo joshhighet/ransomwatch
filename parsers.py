@@ -1068,7 +1068,7 @@ def malas():
 
 def blacksuit():
     stdlog('parser: ' + 'blacksuit')
-    parser = "sed 's/>/>\\n/g' source/blacksuit-*.html | grep -A 1 '<div class=\"url\">' | grep href | cut -d '\"' -f 2"
+    parser = "sed 's/>/>\\n/g' source/blacksuit-*.html | grep -A 1 '<div class=\"url\">' | grep href | cut -d '\"' -f 2 | sort | uniq"
     posts = runshellcmd(parser)
     if len(posts) == 1:
         errlog('blacksuit: ' + 'parsing fail')
