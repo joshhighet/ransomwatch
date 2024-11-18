@@ -1727,3 +1727,14 @@ def interlock():
         errlog('interlock: ' + 'parsing fail')
     for post in posts:
         appender(post, 'interlock')
+
+def hellcat():
+    stdlog('parser: ' + 'hellcat')
+    parser = '''
+    grep '<h2>' source/hellcat-*.html | cut -d '>' -f 2 | cut -d '<' -f 1 || true
+    '''
+    posts = runshellcmd(parser)
+    if len(posts) == 1:
+        errlog('hellcat: ' + 'parsing fail')
+    for post in posts:
+        appender(post, 'hellcat')

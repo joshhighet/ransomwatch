@@ -6933,5 +6933,25 @@
             }
         ],
         "profile": []
+    },
+    {
+        "name": "hellcat",
+        "captcha": false,
+        "parser": true,
+        "javascript_render": false,
+        "meta": null,
+        "locations": [
+            {
+                "fqdn": "hellcakbszllztlyqbjzwcbdhfrodx55wq77kmftp4bhnhsnn5r3odad.onion",
+                "title": "HELLCAT",
+                "version": 3,
+                "slug": "http://hellcakbszllztlyqbjzwcbdhfrodx55wq77kmftp4bhnhsnn5r3odad.onion",
+                "available": true,
+                "updated": "2024-11-18 16:19:08.594142",
+                "lastscrape": "2024-11-18 16:19:08.594128",
+                "enabled": true
+            }
+        ],
+        "profile": []
     }
 ]
