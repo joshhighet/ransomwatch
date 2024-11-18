@@ -5262,7 +5262,7 @@
                 "available": false,
                 "updated": "2024-07-10 00:40:48.891596",
                 "lastscrape": "2024-07-10 00:40:48.891581",
-                "enabled": true
+                "enabled": false
             },
             {
                 "fqdn": "incblog7vmuq7rktic73r4ha4j757m3ptym37tyvifzp2roedyyzzxid.onion",
@@ -5272,7 +5272,7 @@
                 "available": false,
                 "updated": "2024-07-10 00:40:58.747501",
                 "lastscrape": "2024-07-10 00:40:58.747487",
-                "enabled": true
+                "enabled": false
             },
             {
                 "fqdn": "incbackend.top",
@@ -5282,7 +5282,7 @@
                 "available": false,
                 "updated": "2024-07-25 08:33:59.947426",
                 "lastscrape": "2024-07-25 08:33:59.947412",
-                "enabled": true
+                "enabled": false
             },
             {
                 "fqdn": "incapt.blog",
@@ -5302,7 +5302,7 @@
                 "available": false,
                 "updated": "2024-07-05 18:28:07.479677",
                 "lastscrape": "2024-07-05 18:28:07.479663",
-                "enabled": true
+                "enabled": false
             },
             {
                 "fqdn": "incblog6qu4y4mm4zvw5nrmue6qbwtgjsxpw6b7ixzssu36tsajldoad.onion",
@@ -5322,6 +5322,16 @@
                 "available": false,
                 "updated": "2024-07-15 12:32:47.197443",
                 "lastscrape": "2024-07-15 12:32:47.197426",
+                "enabled": false
+            },
+            {
+                "fqdn": "incbacg6bfwtrlzwdbqc55gsfl763s3twdtwhp27dzuik6s6rwdcityd.onion",
+                "title": null,
+                "version": 3,
+                "slug": "http://incbacg6bfwtrlzwdbqc55gsfl763s3twdtwhp27dzuik6s6rwdcityd.onion/api/v1/blog/get/announcements?page=1&perPage=15",
+                "available": true,
+                "updated": "2024-11-18 16:24:19.018064",
+                "lastscrape": "2024-11-18 16:24:19.018045",
                 "enabled": true
             }
         ],
