@@ -1,0 +1,392 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
+    <title>HELLCAT</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            background-color: #000000;
+            font-family: 'Courier New', Courier, monospace;
+            color: #ffffff;
+            display: flex;
+            justify-content: center;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        .blog-container {
+           width: 90%;
+           max-width: 1000px;
+           margin-top: 50px;
+           display: grid;
+           grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); 
+           gap: 15px;
+           justify-content: center;
+        }
+
+        .ascii-banner {
+            color: #b30000;
+            font-size: 0.9em;
+            text-align: center;
+            white-space: pre-wrap;
+            margin-bottom: 20px;
+        }
+
+        .post-head {
+           background-color: #222222;
+           border: 1px solid #ffffff;
+           border-radius: 10px;
+           padding: 10px;
+           transition: transform 0.3s;
+           display: flex;
+           flex-direction: column;
+           position: relative;
+           cursor: pointer;
+           height: auto; /* Ensure dynamic height */
+           box-sizing: border-box; /* Include padding in height calculation */
+}
+
+
+        .post-head:hover {
+            transform: scale(1.02);
+        }
+
+        .post-title {
+            font-weight: bold;
+            font-size: 1.1em;
+            color: #ff6666;
+            margin: 0;
+            word-wrap: break-word;
+        }
+
+        .timer {
+            display: inline-block;
+            padding: 5px 8px;
+            border: 2px solid;
+            border-radius: 12px;
+            color: white;
+            font-weight: bold;
+            text-align: center;
+            margin: 5px 0;
+        }
+
+        .published {
+            border-color: #33ff33;
+        }
+
+        .will-be-published {
+            border-color: #ff3333;
+        }
+
+        .selling {
+            border-color: #ffa500;
+        }
+
+        .post-block-body {
+            padding: 8px 0;
+            color: #cccccc;
+            flex-grow: 1;
+        }
+
+        .post-block-text {
+            font-size: 0.9em;
+            height: auto;
+            overflow: hidden;
+            margin-bottom: 8px;
+        }
+
+        .views {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            font-size: 0.8em;
+            color: #999999;
+            padding-top: 3px;
+            position: absolute;
+            bottom: 5px;
+            left: 10px;
+            right: 10px;
+        }
+        .domn {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            font-size: 0.8em;
+            color: #999999;
+            padding-top: 3px;
+ 
+        }
+
+
+        .updated-post-date span {
+            display: flex;
+            align-items: center;
+        }
+
+        .updated-post-date img {
+            filter: opacity(20%);
+            padding-right: 2px;
+            width: 20px;
+        }
+         .domain span {
+            display: flex;
+            align-items: center;
+        }
+
+        .domain img {
+            filter: opacity(40%);
+            padding-right: 2px;
+            width: 20px;
+        }
+
+
+        .domain img {
+            filter: opacity(30%);
+            width: 20px;
+        }
+
+        .views span {
+            font-weight: bold;
+            font-size: 12px;
+        }
+        .domn span {
+            font-weight: bold;
+            font-size: 12px;
+        }
+
+        .modal {
+            display: none;
+            position: fixed;
+            z-index: 1000;
+            left: 0;
+            top: 0;
+            width: 100%;
+            height: 100%;
+            overflow: auto;
+            background-color: rgba(0, 0, 0, 0.8);
+            padding-top: 60px;
+        }
+
+        .modal-content {
+            background-color: #222222;
+            margin: 5% auto;
+            padding: 20px;
+            border: 1px solid #ffffff;
+            border-radius: 10px;
+            width: 90%;
+            max-width: 600px;
+            color: #ffffff;
+        }
+
+        .close {
+            color: #aaa;
+            float: right;
+            font-size: 28px;
+            font-weight: bold;
+        }
+
+        .close:hover,
+        .close:focus {
+            color: #ffffff;
+            text-decoration: none;
+            cursor: pointer;
+        }
+
+        /* Underlined "Who are we?" */
+        .who-are-we {
+            text-decoration: underline;
+            cursor: pointer;
+        }
+
+        /* TOX ID copy button styling */
+        .tox-copy, .btn {
+            background-color: #444;
+            color: #fff;
+            border: none;
+            padding: 5px 10px;
+            border-radius: 5px;
+            cursor: pointer;
+            margin-left: 10px;
+        }
+
+        .tox-copy:hover, .btn:hover {
+            background-color: #555;
+        }
+    </style>
+    <script>
+        function openModal(postId) {
+            document.getElementById(postId).style.display = "block";
+        }
+
+        function closeModal(postId) {
+            document.getElementById(postId).style.display = "none";
+        }
+
+        window.onclick = function(event) {
+            if (event.target.className === 'modal') {
+                closeModal(event.target.id);
+            }
+        }
+
+        function copyToxId(toxId) {
+            navigator.clipboard.writeText(toxId).then(function() {
+                alert('TOX ID copied to clipboard: ' + toxId);
+            }, function(err) {
+                alert('Error copying TOX ID: ', err);
+            });
+        }
+    </script>
+</head>
+<body>
+    <div class="ascii-banner">
+        <p>
+         âââ  ââââââââââââââ     âââ      âââââââ ââââââ âââââââââ
+         âââ  ââââââââââââââ     âââ     âââââââââââââââââââââââââ
+      ââââââââââââââ  âââ     âââ     âââ     ââââââââ   âââ
+      ââââââââââââââ  âââ     âââ     âââ     ââââââââ   âââ
+      âââ  ââââââââââââââââââââââââââââââââââââââ  âââ   âââ
+      âââ  âââââââââââââââââââââââââââ ââââââââââ  âââ   âââ 
+        </p>
+    </div>
+    <div class="who-are-we" onclick="openModal('contactModal')">
+        Contact us
+    </div>
+     <br>     ------------------------------------------------------- <br>   
+    <div class="blog-container">
+    <div class="post-head" onclick="openModal('post1')">
+        <div class="post-title">Schneider Electric - France</div>
+        <div class="domn">
+            <div class="domain">
+                <span>se.com</span>
+            </div>
+        </div>
+        <div class="timer published" id="timer1">PUBLISHED</div>
+        <div class="post-block-body">Schneider Electric (se.com) has been breached, and sensitive information is now publicly exposed after the company refused to pay the ransom.</div>
+        <div class="views">
+            <div class="updated-post-date">
+                <span>07 Nov, 2024, &nbsp;&nbsp; 10:12 UTC</span>
+            </div>
+        </div>
+    </div>
+
+    <div class="post-head" onclick="openModal('post2')">
+        <div class="post-title">Ministry of Education - Jordan</div>
+        <div class="domn">
+            <div class="domain">
+                <span>moe.gov.jo</span>
+            </div>
+        </div>
+        <div class="timer published" id="timer2">PUBLISHED</div>
+        <div class="post-block-body">
+            <div class="post-block-text">We have successfully accessed and compromised a range of sensitive documents from Jordan's Ministry of Education. This includes images of identification cards, divorce papers, and various letters addressed to the Minister.</div>
+        </div>
+        <div class="views">
+            <div class="updated-post-date">
+                <span>02 Nov, 2024, &nbsp;&nbsp; 9:18 UTC</span>
+            </div>
+        </div>
+    </div>
+
+    <div class="post-head" onclick="openModal('post3')">
+        <div class="post-title">College of Business - Tanzania</div>
+        <div class="domn">
+            <div class="domain">
+                <span>cbe.ac.tz</span>
+            </div>
+        </div>
+        <div class="timer published" id="timer3">PUBLISHED</div>
+        <div class="post-block-body">
+            <div class="post-block-text">We have released over 500,000 records from Tanzaniaâs College of Business Education, containing student names, phone numbers, emails, and additional data, including possible billing information.</div>
+        </div>
+        <div class="views">
+            <div class="updated-post-date">
+                <span>02 Nov, 2024, &nbsp;&nbsp; 9:18 UTC</span>
+            </div>
+        </div>
+    </div>
+
+    <!-- Fourth Post -->
+    <div class="post-head" onclick="openModal('post4')">
+        <div class="post-title">Pinger - USA</div>
+        <div class="domn">
+            <div class="domain">
+                <span>pinger.com</span>
+            </div>
+        </div>
+       <div class="timer will-be-published" id="timer4">22/11/2024</div>
+        <div class="post-block-body">
+            <div class="post-block-text">We have successfully breached Pinger, obtaining 111 GB of sensitive data. This includes over 9 million user records, private messages, voice messages, internal tools such as phone number lookup and notification sender, backend systems, and source codes. If the ransom is not paid, we will release all the data to the public.</div>
+        </div>
+        <div class="views">
+            <div class="updated-post-date">
+                <span>15 Nov, 2024, &nbsp;&nbsp; 11:37 UTC</span>
+            </div>
+        </div>
+    </div>
+</div>
+
+    <!-- MODALS -->
+    <div id="contactModal" class="modal">
+        <div class="modal-content">
+            <span class="close" onclick="closeModal('contactModal')">&times;</span>
+            <h2>Contact us</h2>
+            <p>Do you have any questions? Was your company breached or locked by us? Never hesitate to contact us.</p>
+            <p>You can find our PGP key <a href="/pgp.txt">here</a>.</p>
+            <p>Signed onion address: <a href="/onion.txt">Hidden Service</a>.</p>
+            <ul>
+                <li>TOX: 898923FE0699CFE1EFD177... <button class="tox-copy" onclick="copyToxId('898923FE0699CFE1EFD17773425DECB080840877C29F883D389D6880B2B961737FACE98E82E4')">Copy</button></li>
+                <li>Telegram: @HCSupp</li>
+                <li>XMPP: hellcat@5222.de</li>
+            </ul>
+        </div>
+    </div>
+
+    <div id="post1" class="modal">
+        <div class="modal-content">
+            <span class="close" onclick="closeModal('post1')">&times;</span>
+            <h2>Schneider Electric - France</h2>
+            <p>We have successfully breached Schneider Electricâs infrastructure, accessing their Atlassian Jira system. </p>
+            <p>This breach has compromised critical data, including projects, issues, and plugins, along with over <strong>400,000</strong> rows of user data, totaling more than <strong>40GB</strong> Compressed Data.</p>
+            <p>Schneider Electric, a leader in energy management and automation with annual revenue exceeding $40 billion, is now at risk of exposing sensitive customer and operational information.</p>
+            <p>Since Schneider Electric refused to pay the demanded ransom, over 40GB of data is now publicly available for download.</p>
+           <a href="http://r7i4vprxr2vznmhnnxj36264ofwx6extopdz535f5v357nqacifymbad.onion/SE.tar.gz" class="btn">Download</a>
+        </div>
+    </div>
+
+    <div id="post2" class="modal">
+        <div class="modal-content">
+            <span class="close" onclick="closeModal('post2')">&times;</span>
+            <h2>Ministry of Education - Jordan</h2>
+            <p>We have successfully accessed and compromised a range of sensitive documents from Jordan's Ministry of Education. This includes images of identification cards, divorce papers, and various letters addressed to the Minister.</p>
+            <p>You can now download the full dataset.</p>
+            <p></p>
+            <a href="/Files/MOEJ.7z" class="btn">Download</a>
+        </div>
+    </div>
+
+    <div id="post3" class="modal">
+        <div class="modal-content">
+            <span class="close" onclick="closeModal('post3')">&times;</span>
+            <h2>College of Business - Tanzania</h2>
+            <p>We have successfully accessed and compromised over 500,000 student records from the College of Business Education in Tanzania. This leak includes a substantial amount of personally identifiable information (PII), such as full names, phone numbers, and email addresses. Additionally, the records may contain billing and financial information. </p>
+            <p>You can now download the full Database.</p>
+            <p></p>
+            <a href="/Files/CBE.sql" class="btn">Download</a>
+        </div>
+    </div>
+    <div id="post4" class="modal">
+       <div class="modal-content">
+        <span class="close" onclick="closeModal('modal4')">&times;</span>
+        <h2>Pinger - USA</h2>
+      <p>We have successfully breached Pingerâs infrastructure, acquiring 111 GB of highly sensitive data. This includes over <strong>9 million user records</strong>, private messages, voice messages, internal tools (such as phone number lookup and notification sender), backend systems, and source codes.</p>  
+<p>Pinger, a global leader in free texting and calling solutions with millions of active users, is now at risk of having its proprietary data and user information exposed, potentially causing significant reputational and operational damage.</p>  
+<p>To secure the deletion of this data and prevent its public release, we demand a payment of <strong>$150,000 USD</strong> in Monero (XMR) or Bitcoin (BTC). Failure to comply will result in the immediate dissemination of the compromised information.</p>  
+
+    </div>
+</div>
+</body>
+</html>
