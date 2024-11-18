@@ -1752,3 +1752,14 @@ def termite():
         errlog('termite: ' + 'parsing fail')
     for post in posts:
         appender(post, 'termite')
+
+def kairos():
+    stdlog('parser: ' + 'kairos')
+    parser = '''
+    grep -C 2 '<div class="desc">' source/kairos-*.html | grep -v '<div class="desc">' | sed -e '/^$/d' -e 's/--//g' -e 's/^[[:space:]]*//;s/[[:space:]]*$//' -e '/^$/d'
+    '''
+    posts = runshellcmd(parser)
+    if len(posts) == 1:
+        errlog('kairos: ' + 'parsing fail')
+    for post in posts:
+        appender(post, 'kairos')

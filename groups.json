@@ -7033,5 +7033,25 @@
             }
         ],
         "profile": []
+    },
+    {
+        "name": "kairos",
+        "captcha": false,
+        "parser": true,
+        "javascript_render": false,
+        "meta": null,
+        "locations": [
+            {
+                "fqdn": "nerqnacjmdy3obvevyol7qhazkwkv57dwqvye5v46k5bcujtfa6sduad.onion",
+                "title": "Local",
+                "version": 3,
+                "slug": "http://nerqnacjmdy3obvevyol7qhazkwkv57dwqvye5v46k5bcujtfa6sduad.onion/",
+                "available": true,
+                "updated": "2024-11-18 16:54:16.923580",
+                "lastscrape": "2024-11-18 16:54:16.923573",
+                "enabled": true
+            }
+        ],
+        "profile": []
     }
 ]
