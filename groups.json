@@ -3641,6 +3641,96 @@
                 "updated": null,
                 "lastscrape": "2021-05-01 00:00:00.000000",
                 "enabled": true
+            },
+            {
+                "fqdn": "lockbit3hdu7e4sv3ecg6mmqmeihjcizebcxic6t4eqwar6f2e7rxpad.onion",
+                "title": null,
+                "version": 3,
+                "slug": "http://lockbit3hdu7e4sv3ecg6mmqmeihjcizebcxic6t4eqwar6f2e7rxpad.onion",
+                "available": false,
+                "updated": null,
+                "lastscrape": "2021-05-01 00:00:00.000000",
+                "enabled": false
+            },
+            {
+                "fqdn": "lockbit4r3ly63w22jhkg33emtqwxw436wkftosscvdal2prdlwzknyd.onion",
+                "title": null,
+                "version": 3,
+                "slug": "http://lockbit4r3ly63w22jhkg33emtqwxw436wkftosscvdal2prdlwzknyd.onion",
+                "available": false,
+                "updated": null,
+                "lastscrape": "2021-05-01 00:00:00.000000",
+                "enabled": false
+            },
+            {
+                "fqdn": "lockbit7bb4b6n27feok2rc7ri75udaqkfppjvtkxlwh7qldygbopmad.onion",
+                "title": null,
+                "version": 3,
+                "slug": "http://lockbit7bb4b6n27feok2rc7ri75udaqkfppjvtkxlwh7qldygbopmad.onion",
+                "available": false,
+                "updated": null,
+                "lastscrape": "2021-05-01 00:00:00.000000",
+                "enabled": false
+            },
+            {
+                "fqdn": "lockbitb63zs7f4rdjcsn2etkqaswurk6hh55sa2ojeilxcnwf6qbkqd.onion",
+                "title": null,
+                "version": 3,
+                "slug": "http://lockbitb63zs7f4rdjcsn2etkqaswurk6hh55sa2ojeilxcnwf6qbkqd.onion",
+                "available": false,
+                "updated": null,
+                "lastscrape": "2021-05-01 00:00:00.000000",
+                "enabled": false
+            },
+            {
+                "fqdn": "lockbitbtdk33k75rsl6uhn6bewd5g6z3hp42z6vb2hfk54oja55h7id.onion",
+                "title": null,
+                "version": 3,
+                "slug": "http://lockbitbtdk33k75rsl6uhn6bewd5g6z3hp42z6vb2hfk54oja55h7id.onion",
+                "available": false,
+                "updated": null,
+                "lastscrape": "2021-05-01 00:00:00.000000",
+                "enabled": false
+            },
+            {
+                "fqdn": "lockbitdzjxsgyacnmfte6nfgqfcyhedkduimi4tsajvrwi4ljbos7id.onion",
+                "title": null,
+                "version": 3,
+                "slug": "http://lockbitdzjxsgyacnmfte6nfgqfcyhedkduimi4tsajvrwi4ljbos7id.onion",
+                "available": false,
+                "updated": null,
+                "lastscrape": "2021-05-01 00:00:00.000000",
+                "enabled": false
+            },
+            {
+                "fqdn": "lockbitehorki5kh6s3n27hi3serhzr7htlshfqyg5ex32dyr5efhfyd.onion",
+                "title": null,
+                "version": 3,
+                "slug": "http://lockbitehorki5kh6s3n27hi3serhzr7htlshfqyg5ex32dyr5efhfyd.onion",
+                "available": false,
+                "updated": null,
+                "lastscrape": "2021-05-01 00:00:00.000000",
+                "enabled": false
+            },
+            {
+                "fqdn": "lockbitffcjqi2wpwhjgubkjihhc7seaujqgzscvwvdiftunl6hn5oyd.onion",
+                "title": null,
+                "version": 3,
+                "slug": "http://lockbitffcjqi2wpwhjgubkjihhc7seaujqgzscvwvdiftunl6hn5oyd.onion",
+                "available": false,
+                "updated": null,
+                "lastscrape": "2021-05-01 00:00:00.000000",
+                "enabled": false
+            },
+            {
+                "fqdn": "lockbitfnszjao7hayqsd424m74k5jxc52hozvabjrut7pjfsfaaaoad.onion",
+                "title": null,
+                "version": 3,
+                "slug": "http://lockbitfnszjao7hayqsd424m74k5jxc52hozvabjrut7pjfsfaaaoad.onion",
+                "available": false,
+                "updated": null,
+                "lastscrape": "2021-05-01 00:00:00.000000",
+                "enabled": false
             }
         ],
         "profile": []
