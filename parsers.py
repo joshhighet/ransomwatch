@@ -1678,7 +1678,7 @@ def lynx():
 def helldown():
     stdlog('parser: ' + 'helldown')
     parser = '''
-    grep '<p class="card-summary">' source/helldown*.html | sed -e 's/<[^>]*>//g' -e 's/^[ \t]*//' | grep -v 'password is required to continue reading.' || true
+    grep --no-filename '<p class="card-summary">' source/helldown*.html | sed -e 's/<[^>]*>//g' -e 's/^[ \t]*//' | grep -v 'password is required to continue reading.' | sort | uniq || true
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
