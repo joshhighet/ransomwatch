@@ -4780,6 +4780,16 @@
                 "available": false,
                 "updated": "2024-07-23 16:25:45.058801",
                 "lastscrape": "2024-07-23 16:25:45.058787",
+                "enabled": false
+            },
+            {
+                "fqdn": "nsalewdnfclsowcal6kn5csm4ryqmfpijznxwictukhrgvz2vbmjjjyd.onion",
+                "title": "Dunghill Leak - Details",
+                "version": 3,
+                "slug": "http://nsalewdnfclsowcal6kn5csm4ryqmfpijznxwictukhrgvz2vbmjjjyd.onion",
+                "available": true,
+                "updated": "2024-11-18 16:48:16.398590",
+                "lastscrape": "2024-11-18 16:48:16.398581",
                 "enabled": true
             }
         ],

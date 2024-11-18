@@ -970,8 +970,9 @@ def dunghill_leak():
     stdlog('parser: ' + 'dunghill_leak')
     # awk '/<div class="ibody_title">/{print $0; getline; print $0}' source/dunghill_leak-*.html | sed -e 'N;s/\n//g' -e 's/<div class="ibody_title">//g' -e 's/<\/div>//g' -e 's/[[:space:]]*<\/a>.*$//g' -e 's/[[:space:]]\+/ /g' -e 's/^ *//g' -e 's/[[:space:]]*$//'
     # grep -C 1 '<div class="ibody_title">' source/dunghill_leak-*.html | grep -v '</div>' | grep -v '<div class="ibody_title">' | grep -v '\-\-' | sed -e 's/^ *//g' -e 's/[[:space:]]*$//' | grep -v '</a>'
+    # grep -C 3 '<div class="ibody_body">' source/dunghill_leak-*.html | grep strong | sed -E 's/.*<strong>([^<]+)<\/strong>.*/\\1/'
     parser = '''
-    grep -C 3 '<div class="ibody_body">' source/dunghill_leak-*.html | grep strong | sed -E 's/.*<strong>([^<]+)<\/strong>.*/\\1/'
+    grep -C 3 '<div class="ibody_body">' source/dunghill_leak-p66slx*.html | grep '<strong>' | sed -e 's/<p>/ /' | cut -d '>' -f 2 | cut -d '<' -f 1 | sort | uniq || true
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
