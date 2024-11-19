@@ -4,6 +4,13 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-19 | [`smawins.net`](https://google.com/search?q=smawins.net) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-11-19 | [`chsplumbing.com`](https://google.com/search?q=chsplumbing.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-11-19 | [`tempaircompany.com`](https://google.com/search?q=tempaircompany.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-11-19 | [`Anderson Miller LTD`](https://google.com/search?q=Anderson+Miller+LTD) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
+| 2024-11-19 | [`Premier Tax Services`](https://google.com/search?q=Premier+Tax+Services) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
+| 2024-11-19 | [`KVF`](https://google.com/search?q=KVF) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
+| 2024-11-19 | [`Southern Oregon Veterinary Specialty Center`](https://google.com/search?q=Southern+Oregon+Veterinary+Specialty+Center) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2024-11-19 | [`wulffco.com`](https://google.com/search?q=wulffco.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-19 | [`Wachter`](https://google.com/search?q=Wachter) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-11-19 | [`Jonti-Craft`](https://google.com/search?q=Jonti-Craft) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
@@ -197,10 +204,3 @@ _last `200` posts_
 | 2024-11-17 | [`http://www.hetrhedens.nl`](https://google.com/search?q=http%3A%2F%2Fwww.hetrhedens.nl) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-11-17 | [`The Egyptian Tax Authority (ETA)`](https://google.com/search?q=The+Egyptian+Tax+Authority+%28ETA%29) | [moneymessage](https://ransomwatch.telemetry.ltd/#/profiles?id=moneymessage) |
 | 2024-11-16 | [`https://www.brandywinecoachworks.com/`](https://google.com/search?q=https%3A%2F%2Fwww.brandywinecoachworks.com%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
-| 2024-11-16 | [`http://www.billyheromans.com`](https://google.com/search?q=http%3A%2F%2Fwww.billyheromans.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
-| 2024-11-16 | [`http://www.kapurinc.com`](https://google.com/search?q=http%3A%2F%2Fwww.kapurinc.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
-| 2024-11-16 | [`American Addiction Centers`](https://google.com/search?q=American+Addiction+Centers) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2024-11-16 | [`Grupo_Trisan`](https://google.com/search?q=Grupo_Trisan) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
-| 2024-11-15 | [`potteau.com`](https://google.com/search?q=potteau.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-11-15 | [`https://klarenbeek-transport.nl/`](https://google.com/search?q=https%3A%2F%2Fklarenbeek-transport.nl%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
-| 2024-11-15 | [`https://www.surgicalassociates.com/`](https://google.com/search?q=https%3A%2F%2Fwww.surgicalassociates.com%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
