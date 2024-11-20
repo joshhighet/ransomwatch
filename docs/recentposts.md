@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-20 | [`scalar.co.il`](https://google.com/search?q=scalar.co.il) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-20 | [`www.protectasecurity.pe`](https://google.com/search?q=www.protectasecurity.pe) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2024-11-20 | [`CK Power Public Manufacturing`](https://google.com/search?q=CK+Power+Public+Manufacturing) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-11-20 | [`Quantum Healthcare`](https://google.com/search?q=Quantum+Healthcare) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-11-18 | [`cucinatagliani.com`](https://google.com/search?q=cucinatagliani.com) | [eldorado](https://ransomwatch.telemetry.ltd/#/profiles?id=eldorado) |
 | 2024-11-18 | [`datacampos.com`](https://google.com/search?q=datacampos.com) | [eldorado](https://ransomwatch.telemetry.ltd/#/profiles?id=eldorado) |
 | 2024-11-18 | [`gccustommetal.com`](https://google.com/search?q=gccustommetal.com) | [eldorado](https://ransomwatch.telemetry.ltd/#/profiles?id=eldorado) |
-| 2024-11-18 | [`bshsoft.com`](https://google.com/search?q=bshsoft.com) | [eldorado](https://ransomwatch.telemetry.ltd/#/profiles?id=eldorado) |
