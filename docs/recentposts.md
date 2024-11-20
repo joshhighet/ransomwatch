@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-20 | [`inthinking.net`](https://google.com/search?q=inthinking.net) | [darkvault](https://ransomwatch.telemetry.ltd/#/profiles?id=darkvault) |
+| 2024-11-20 | [`Amherstburg Family Health`](https://google.com/search?q=Amherstburg+Family+Health) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-11-20 | [`polaraire.com`](https://google.com/search?q=polaraire.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-20 | [`Département de La Réunion`](https://google.com/search?q=D%C3%A9partement+de+La+R%C3%A9union) | [termite](https://ransomwatch.telemetry.ltd/#/profiles?id=termite) |
 | 2024-11-20 | [`Camim`](https://google.com/search?q=Camim) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-11-18 | [`aberdeenwa.gov`](https://google.com/search?q=aberdeenwa.gov) | [eldorado](https://ransomwatch.telemetry.ltd/#/profiles?id=eldorado) |
 | 2024-11-18 | [`compra-aruba.com`](https://google.com/search?q=compra-aruba.com) | [eldorado](https://ransomwatch.telemetry.ltd/#/profiles?id=eldorado) |
 | 2024-11-18 | [`mmpunion.com`](https://google.com/search?q=mmpunion.com) | [eldorado](https://ransomwatch.telemetry.ltd/#/profiles?id=eldorado) |
-| 2024-11-18 | [`www.keizers.ca`](https://google.com/search?q=www.keizers.ca) | [eldorado](https://ransomwatch.telemetry.ltd/#/profiles?id=eldorado) |
-| 2024-11-18 | [`barranquitas.pr.gov`](https://google.com/search?q=barranquitas.pr.gov) | [eldorado](https://ransomwatch.telemetry.ltd/#/profiles?id=eldorado) |
