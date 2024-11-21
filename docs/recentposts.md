@@ -4,6 +4,11 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-21 | [`PK Mulyo`](https://google.com/search?q=PK+Mulyo) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
+| 2024-11-21 | [`Barneek Safety Consultancies`](https://google.com/search?q=Barneek+Safety+Consultancies) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
+| 2024-11-21 | [`Trust Seeds`](https://google.com/search?q=Trust+Seeds) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
+| 2024-11-21 | [`HM Environmental Services`](https://google.com/search?q=HM+Environmental+Services) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
+| 2024-11-21 | [`IT Networks`](https://google.com/search?q=IT+Networks) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2024-11-20 | [`PBS AEROSPACE`](https://google.com/search?q=PBS+AEROSPACE) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2024-11-20 | [`Bishop Ireton High School`](https://google.com/search?q=Bishop+Ireton+High+School) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2024-11-20 | [`scalar.co.il`](https://google.com/search?q=scalar.co.il) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -199,8 +204,3 @@ _last `200` posts_
 | 2024-11-18 | [`tankerska.hr`](https://google.com/search?q=tankerska.hr) | [eldorado](https://ransomwatch.telemetry.ltd/#/profiles?id=eldorado) |
 | 2024-11-18 | [`a1mobilelock.com`](https://google.com/search?q=a1mobilelock.com) | [eldorado](https://ransomwatch.telemetry.ltd/#/profiles?id=eldorado) |
 | 2024-11-18 | [`curvc.com`](https://google.com/search?q=curvc.com) | [eldorado](https://ransomwatch.telemetry.ltd/#/profiles?id=eldorado) |
-| 2024-11-18 | [`thinksimple.com`](https://google.com/search?q=thinksimple.com) | [eldorado](https://ransomwatch.telemetry.ltd/#/profiles?id=eldorado) |
-| 2024-11-18 | [`patricksanderscompany.com`](https://google.com/search?q=patricksanderscompany.com) | [eldorado](https://ransomwatch.telemetry.ltd/#/profiles?id=eldorado) |
-| 2024-11-18 | [`mullenwylie.com`](https://google.com/search?q=mullenwylie.com) | [eldorado](https://ransomwatch.telemetry.ltd/#/profiles?id=eldorado) |
-| 2024-11-18 | [`cmclb.com`](https://google.com/search?q=cmclb.com) | [eldorado](https://ransomwatch.telemetry.ltd/#/profiles?id=eldorado) |
-| 2024-11-18 | [`cucinatagliani.com`](https://google.com/search?q=cucinatagliani.com) | [eldorado](https://ransomwatch.telemetry.ltd/#/profiles?id=eldorado) |
