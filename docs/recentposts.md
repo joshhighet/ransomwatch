@@ -4,6 +4,11 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-21 | [`Hogan Mfg (hoganmfg.com)`](https://google.com/search?q=Hogan+Mfg+%28hoganmfg.com%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
+| 2024-11-21 | [`Fifteenfortyseven Critical Systems Realty (1547realty.com)`](https://google.com/search?q=Fifteenfortyseven+Critical+Systems+Realty+%281547realty.com%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
+| 2024-11-21 | [`ottosimon.co.uk\$16.6M\United Kingdom\1.9TB\100% DISCLOSED`](https://google.com/search?q=ottosimon.co.uk%5C%2416.6M%5CUnited+Kingdom%5C1.9TB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
+| 2024-11-21 | [`Kellerhals Ferguson Kroblin PLLC`](https://google.com/search?q=Kellerhals+Ferguson+Kroblin+PLLC) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2024-11-21 | [`Silverback Exploration`](https://google.com/search?q=Silverback+Exploration) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-11-21 | [`SSV Blockchain Network Hacked`](https://google.com/search?q=SSV+Blockchain+Network+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2024-11-21 | [`PK Mulyo`](https://google.com/search?q=PK+Mulyo) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2024-11-21 | [`Barneek Safety Consultancies`](https://google.com/search?q=Barneek+Safety+Consultancies) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
@@ -199,8 +204,3 @@ _last `200` posts_
 | 2024-11-18 | [`allianceind.com`](https://google.com/search?q=allianceind.com) | [eldorado](https://ransomwatch.telemetry.ltd/#/profiles?id=eldorado) |
 | 2024-11-18 | [`avioesforza.it`](https://google.com/search?q=avioesforza.it) | [eldorado](https://ransomwatch.telemetry.ltd/#/profiles?id=eldorado) |
 | 2024-11-18 | [`newriverelectrical.com`](https://google.com/search?q=newriverelectrical.com) | [eldorado](https://ransomwatch.telemetry.ltd/#/profiles?id=eldorado) |
-| 2024-11-18 | [`seaglesafety.com`](https://google.com/search?q=seaglesafety.com) | [eldorado](https://ransomwatch.telemetry.ltd/#/profiles?id=eldorado) |
-| 2024-11-18 | [`rccauto.com`](https://google.com/search?q=rccauto.com) | [eldorado](https://ransomwatch.telemetry.ltd/#/profiles?id=eldorado) |
-| 2024-11-18 | [`itasnatta.edu.it`](https://google.com/search?q=itasnatta.edu.it) | [eldorado](https://ransomwatch.telemetry.ltd/#/profiles?id=eldorado) |
-| 2024-11-18 | [`tankerska.hr`](https://google.com/search?q=tankerska.hr) | [eldorado](https://ransomwatch.telemetry.ltd/#/profiles?id=eldorado) |
-| 2024-11-18 | [`a1mobilelock.com`](https://google.com/search?q=a1mobilelock.com) | [eldorado](https://ransomwatch.telemetry.ltd/#/profiles?id=eldorado) |
