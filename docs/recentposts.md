@@ -4,6 +4,11 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-21 | [`Suneva Medical(sunevamedical.com)`](https://google.com/search?q=Suneva+Medical%28sunevamedical.com%29) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
+| 2024-11-21 | [`MGEMAL`](https://google.com/search?q=MGEMAL) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
+| 2024-11-21 | [`Symantric IT`](https://google.com/search?q=Symantric+IT) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
+| 2024-11-21 | [`Zimmerei Buder`](https://google.com/search?q=Zimmerei+Buder) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
+| 2024-11-21 | [`United Bakery Equipment`](https://google.com/search?q=United+Bakery+Equipment) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2024-11-21 | [`rao.hr`](https://google.com/search?q=rao.hr) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2024-11-21 | [`www.cobeldarou.com`](https://google.com/search?q=www.cobeldarou.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-21 | [`www.damcapital.in`](https://google.com/search?q=www.damcapital.in) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -199,8 +204,3 @@ _last `200` posts_
 | 2024-11-18 | [`tbmcg.com`](https://google.com/search?q=tbmcg.com) | [eldorado](https://ransomwatch.telemetry.ltd/#/profiles?id=eldorado) |
 | 2024-11-18 | [`premierpackaging.com`](https://google.com/search?q=premierpackaging.com) | [eldorado](https://ransomwatch.telemetry.ltd/#/profiles?id=eldorado) |
 | 2024-11-18 | [`htetech.com`](https://google.com/search?q=htetech.com) | [eldorado](https://ransomwatch.telemetry.ltd/#/profiles?id=eldorado) |
-| 2024-11-18 | [`goughconstruction.com`](https://google.com/search?q=goughconstruction.com) | [eldorado](https://ransomwatch.telemetry.ltd/#/profiles?id=eldorado) |
-| 2024-11-18 | [`pesprograms.com`](https://google.com/search?q=pesprograms.com) | [eldorado](https://ransomwatch.telemetry.ltd/#/profiles?id=eldorado) |
-| 2024-11-18 | [`palmfs.com`](https://google.com/search?q=palmfs.com) | [eldorado](https://ransomwatch.telemetry.ltd/#/profiles?id=eldorado) |
-| 2024-11-18 | [`kennedyfunding.com`](https://google.com/search?q=kennedyfunding.com) | [eldorado](https://ransomwatch.telemetry.ltd/#/profiles?id=eldorado) |
-| 2024-11-18 | [`auto-recyclers.com`](https://google.com/search?q=auto-recyclers.com) | [eldorado](https://ransomwatch.telemetry.ltd/#/profiles?id=eldorado) |
