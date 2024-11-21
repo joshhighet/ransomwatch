@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-21 | [`rao.hr`](https://google.com/search?q=rao.hr) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
+| 2024-11-21 | [`www.cobeldarou.com`](https://google.com/search?q=www.cobeldarou.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-11-21 | [`www.damcapital.in`](https://google.com/search?q=www.damcapital.in) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-21 | [`Hogan Mfg (hoganmfg.com)`](https://google.com/search?q=Hogan+Mfg+%28hoganmfg.com%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2024-11-21 | [`Fifteenfortyseven Critical Systems Realty (1547realty.com)`](https://google.com/search?q=Fifteenfortyseven+Critical+Systems+Realty+%281547realty.com%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2024-11-21 | [`ottosimon.co.uk\$16.6M\United Kingdom\1.9TB\100% DISCLOSED`](https://google.com/search?q=ottosimon.co.uk%5C%2416.6M%5CUnited+Kingdom%5C1.9TB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2024-11-18 | [`palmfs.com`](https://google.com/search?q=palmfs.com) | [eldorado](https://ransomwatch.telemetry.ltd/#/profiles?id=eldorado) |
 | 2024-11-18 | [`kennedyfunding.com`](https://google.com/search?q=kennedyfunding.com) | [eldorado](https://ransomwatch.telemetry.ltd/#/profiles?id=eldorado) |
 | 2024-11-18 | [`auto-recyclers.com`](https://google.com/search?q=auto-recyclers.com) | [eldorado](https://ransomwatch.telemetry.ltd/#/profiles?id=eldorado) |
-| 2024-11-18 | [`allianceind.com`](https://google.com/search?q=allianceind.com) | [eldorado](https://ransomwatch.telemetry.ltd/#/profiles?id=eldorado) |
-| 2024-11-18 | [`avioesforza.it`](https://google.com/search?q=avioesforza.it) | [eldorado](https://ransomwatch.telemetry.ltd/#/profiles?id=eldorado) |
-| 2024-11-18 | [`newriverelectrical.com`](https://google.com/search?q=newriverelectrical.com) | [eldorado](https://ransomwatch.telemetry.ltd/#/profiles?id=eldorado) |
