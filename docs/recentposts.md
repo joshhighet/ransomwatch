@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-22 | [`ViralPitch`](https://google.com/search?q=ViralPitch) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
+| 2024-11-22 | [`ABC Group`](https://google.com/search?q=ABC+Group) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-11-21 | [`curenta.com`](https://google.com/search?q=curenta.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-21 | [`Goldsmith & Hull`](https://google.com/search?q=Goldsmith+%26+Hull) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2024-11-21 | [`Brueck Golosow Kim & Associates`](https://google.com/search?q=Brueck+Golosow+Kim+%26+Associates) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-11-18 | [`CHRISTODOULOS G. VASSILIADES &amp; CO. LLC`](https://google.com/search?q=CHRISTODOULOS+G.+VASSILIADES+%26amp%3B+CO.+LLC) | [braincipher](https://ransomwatch.telemetry.ltd/#/profiles?id=braincipher) |
 | 2024-11-18 | [`Berridge Manufacturing Co.`](https://google.com/search?q=Berridge+Manufacturing+Co.) | [braincipher](https://ransomwatch.telemetry.ltd/#/profiles?id=braincipher) |
 | 2024-11-18 | [`Basilio Advogados`](https://google.com/search?q=Basilio+Advogados) | [braincipher](https://ransomwatch.telemetry.ltd/#/profiles?id=braincipher) |
-| 2024-11-18 | [`fleetequipment.com`](https://google.com/search?q=fleetequipment.com) | [eldorado](https://ransomwatch.telemetry.ltd/#/profiles?id=eldorado) |
-| 2024-11-18 | [`atd-american.com`](https://google.com/search?q=atd-american.com) | [eldorado](https://ransomwatch.telemetry.ltd/#/profiles?id=eldorado) |
