@@ -4,6 +4,10 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-23 | [`Jones & Mayer`](https://google.com/search?q=Jones+%26+Mayer) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
+| 2024-11-23 | [`Aeris Energy`](https://google.com/search?q=Aeris+Energy) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
+| 2024-11-23 | [`IPE Engwicht`](https://google.com/search?q=IPE+Engwicht) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
+| 2024-11-23 | [`Gulf Energy Maritime`](https://google.com/search?q=Gulf+Energy+Maritime) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
 | 2024-11-23 | [`www.sfr.fr`](https://google.com/search?q=www.sfr.fr) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2024-11-23 | [`gureco.pl`](https://google.com/search?q=gureco.pl) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2024-11-23 | [`Alna-Bioscience`](https://google.com/search?q=Alna-Bioscience) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -200,7 +204,3 @@ _last `200` posts_
 | 2024-11-18 | [`Contact us`](https://google.com/search?q=Contact+us) | [hellcat](https://ransomwatch.telemetry.ltd/#/profiles?id=hellcat) |
 | 2024-11-18 | [`rmn.fr`](https://google.com/search?q=rmn.fr) | [braincipher](https://ransomwatch.telemetry.ltd/#/profiles?id=braincipher) |
 | 2024-11-18 | [`ghanare.com`](https://google.com/search?q=ghanare.com) | [braincipher](https://ransomwatch.telemetry.ltd/#/profiles?id=braincipher) |
-| 2024-11-18 | [`fabamaq.com`](https://google.com/search?q=fabamaq.com) | [braincipher](https://ransomwatch.telemetry.ltd/#/profiles?id=braincipher) |
-| 2024-11-18 | [`cyceron.fr`](https://google.com/search?q=cyceron.fr) | [braincipher](https://ransomwatch.telemetry.ltd/#/profiles?id=braincipher) |
-| 2024-11-18 | [`beinlaw.co.il - Prof. Bein &amp; Co.`](https://google.com/search?q=beinlaw.co.il+-+Prof.+Bein+%26amp%3B+Co.) | [braincipher](https://ransomwatch.telemetry.ltd/#/profiles?id=braincipher) |
-| 2024-11-18 | [`Mars 2 LLC`](https://google.com/search?q=Mars+2+LLC) | [braincipher](https://ransomwatch.telemetry.ltd/#/profiles?id=braincipher) |
