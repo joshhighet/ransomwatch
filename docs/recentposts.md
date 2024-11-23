@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-23 | [`www.sfr.fr`](https://google.com/search?q=www.sfr.fr) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
+| 2024-11-23 | [`gureco.pl`](https://google.com/search?q=gureco.pl) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2024-11-23 | [`Alna-Bioscience`](https://google.com/search?q=Alna-Bioscience) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2024-11-23 | [`https://www.co.cullman.al.us/`](https://google.com/search?q=https%3A%2F%2Fwww.co.cullman.al.us%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-11-22 | [`Trinity Petroleum Management, LLC`](https://google.com/search?q=Trinity+Petroleum+Management%2C+LLC) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-11-18 | [`cyceron.fr`](https://google.com/search?q=cyceron.fr) | [braincipher](https://ransomwatch.telemetry.ltd/#/profiles?id=braincipher) |
 | 2024-11-18 | [`beinlaw.co.il - Prof. Bein &amp; Co.`](https://google.com/search?q=beinlaw.co.il+-+Prof.+Bein+%26amp%3B+Co.) | [braincipher](https://ransomwatch.telemetry.ltd/#/profiles?id=braincipher) |
 | 2024-11-18 | [`Mars 2 LLC`](https://google.com/search?q=Mars+2+LLC) | [braincipher](https://ransomwatch.telemetry.ltd/#/profiles?id=braincipher) |
-| 2024-11-18 | [`K&amp;S Tool &amp; Mfg Co.`](https://google.com/search?q=K%26amp%3BS+Tool+%26amp%3B+Mfg+Co.) | [braincipher](https://ransomwatch.telemetry.ltd/#/profiles?id=braincipher) |
-| 2024-11-18 | [`G-One Auto Parts de México S.A. de C.V.`](https://google.com/search?q=G-One+Auto+Parts+de+M%C3%A9xico+S.A.+de+C.V.) | [braincipher](https://ransomwatch.telemetry.ltd/#/profiles?id=braincipher) |
