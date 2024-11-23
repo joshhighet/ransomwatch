@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-23 | [`Service Avicole JGL`](https://google.com/search?q=Service+Avicole+JGL) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2024-11-23 | [`Schuck-Gruppe`](https://google.com/search?q=Schuck-Gruppe) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2024-11-23 | [`Darlington EMS`](https://google.com/search?q=Darlington+EMS) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2024-11-23 | [`Jones & Mayer`](https://google.com/search?q=Jones+%26+Mayer) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-11-18 | [`College of Business - Tanzania`](https://google.com/search?q=College+of+Business+-+Tanzania) | [hellcat](https://ransomwatch.telemetry.ltd/#/profiles?id=hellcat) |
 | 2024-11-18 | [`Ministry of Education - Jordan`](https://google.com/search?q=Ministry+of+Education+-+Jordan) | [hellcat](https://ransomwatch.telemetry.ltd/#/profiles?id=hellcat) |
 | 2024-11-18 | [`Schneider Electric - France`](https://google.com/search?q=Schneider+Electric+-+France) | [hellcat](https://ransomwatch.telemetry.ltd/#/profiles?id=hellcat) |
-| 2024-11-18 | [`Contact us`](https://google.com/search?q=Contact+us) | [hellcat](https://ransomwatch.telemetry.ltd/#/profiles?id=hellcat) |
