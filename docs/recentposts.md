@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-24 | [`Silicom Hacked`](https://google.com/search?q=Silicom+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
+| 2024-11-24 | [`Sa.SS Datentechnik`](https://google.com/search?q=Sa.SS+Datentechnik) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2024-11-24 | [`Eassy Life`](https://google.com/search?q=Eassy+Life) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-11-24 | [`Nationwide Legal`](https://google.com/search?q=Nationwide+Legal) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-11-24 | [`Vogue Homes`](https://google.com/search?q=Vogue+Homes) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-11-18 | [`San Francisco Sheriff's Department (sjcso.local)`](https://google.com/search?q=San+Francisco+Sheriff%27s+Department+%28sjcso.local%29) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2024-11-18 | [`San Francisco Ballet`](https://google.com/search?q=San+Francisco+Ballet) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2024-11-18 | [`Planar`](https://google.com/search?q=Planar) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2024-11-18 | [`PHARMATIS-SAS`](https://google.com/search?q=PHARMATIS-SAS) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2024-11-18 | [`Health Quality Council`](https://google.com/search?q=Health+Quality+Council) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
