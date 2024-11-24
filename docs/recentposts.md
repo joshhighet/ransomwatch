@@ -4,6 +4,10 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-24 | [`Hypertype`](https://google.com/search?q=Hypertype) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
+| 2024-11-24 | [`Nicholsons Solicitors`](https://google.com/search?q=Nicholsons+Solicitors) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
+| 2024-11-24 | [`STIIIZY`](https://google.com/search?q=STIIIZY) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
+| 2024-11-24 | [`Concord Orthopaedics`](https://google.com/search?q=Concord+Orthopaedics) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2024-11-24 | [`Pastor Real Estate`](https://google.com/search?q=Pastor+Real+Estate) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2024-11-24 | [`Silicom Hacked`](https://google.com/search?q=Silicom+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2024-11-24 | [`Sa.SS Datentechnik`](https://google.com/search?q=Sa.SS+Datentechnik) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -200,7 +204,3 @@ _last `200` posts_
 | 2024-11-18 | [`Webb Institute`](https://google.com/search?q=Webb+Institute) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2024-11-18 | [`The University and College Union`](https://google.com/search?q=The+University+and+College+Union) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2024-11-18 | [`The Coffee Bean & Tea Leaf`](https://google.com/search?q=The+Coffee+Bean+%26+Tea+Leaf) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2024-11-18 | [`Storck-Baugesellschaft mbH`](https://google.com/search?q=Storck-Baugesellschaft+mbH) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2024-11-18 | [`State of Alabama - Alabama Department Of Education`](https://google.com/search?q=State+of+Alabama+-+Alabama+Department+Of+Education) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2024-11-18 | [`San Francisco Sheriff's Department (sjcso.local)`](https://google.com/search?q=San+Francisco+Sheriff%27s+Department+%28sjcso.local%29) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2024-11-18 | [`San Francisco Ballet`](https://google.com/search?q=San+Francisco+Ballet) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
