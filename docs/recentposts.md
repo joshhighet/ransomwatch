@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-24 | [`Eassy Life`](https://google.com/search?q=Eassy+Life) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
+| 2024-11-24 | [`Nationwide Legal`](https://google.com/search?q=Nationwide+Legal) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-11-24 | [`Vogue Homes`](https://google.com/search?q=Vogue+Homes) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-11-24 | [`Efi Sales`](https://google.com/search?q=Efi+Sales) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-11-23 | [`Service Avicole JGL`](https://google.com/search?q=Service+Avicole+JGL) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-11-18 | [`Planar`](https://google.com/search?q=Planar) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2024-11-18 | [`PHARMATIS-SAS`](https://google.com/search?q=PHARMATIS-SAS) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2024-11-18 | [`Health Quality Council`](https://google.com/search?q=Health+Quality+Council) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2024-11-18 | [`Pinger - USA`](https://google.com/search?q=Pinger+-+USA) | [hellcat](https://ransomwatch.telemetry.ltd/#/profiles?id=hellcat) |
-| 2024-11-18 | [`College of Business - Tanzania`](https://google.com/search?q=College+of+Business+-+Tanzania) | [hellcat](https://ransomwatch.telemetry.ltd/#/profiles?id=hellcat) |
