@@ -4,6 +4,11 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-25 | [`Everything Breaks`](https://google.com/search?q=Everything+Breaks) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
+| 2024-11-25 | [`Keable & Brown`](https://google.com/search?q=Keable+%26+Brown) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
+| 2024-11-25 | [`TOC`](https://google.com/search?q=TOC) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
+| 2024-11-25 | [`www.itlindia.com`](https://google.com/search?q=www.itlindia.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-11-25 | [`INFiLED`](https://google.com/search?q=INFiLED) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2024-11-25 | [`GuangDong South Land pharmaceutical`](https://google.com/search?q=GuangDong+South+Land+pharmaceutical) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2024-11-25 | [`Orshan, Spann & Fernandez-Mesa`](https://google.com/search?q=Orshan%2C+Spann+%26+Fernandez-Mesa) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-11-25 | [`JN attorney`](https://google.com/search?q=JN+attorney) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
@@ -199,8 +204,3 @@ _last `200` posts_
 | 2024-11-18 | [`hausdesstiftens.org`](https://google.com/search?q=hausdesstiftens.org) | [helldown](https://ransomwatch.telemetry.ltd/#/profiles?id=helldown) |
 | 2024-11-18 | [`generaldentistryforchildren.com`](https://google.com/search?q=generaldentistryforchildren.com) | [helldown](https://ransomwatch.telemetry.ltd/#/profiles?id=helldown) |
 | 2024-11-18 | [`fuelco-us.com`](https://google.com/search?q=fuelco-us.com) | [helldown](https://ransomwatch.telemetry.ltd/#/profiles?id=helldown) |
-| 2024-11-18 | [`americanventures.com`](https://google.com/search?q=americanventures.com) | [helldown](https://ransomwatch.telemetry.ltd/#/profiles?id=helldown) |
-| 2024-11-18 | [`Conseil scolaire Viamonde`](https://google.com/search?q=Conseil+scolaire+Viamonde) | [termite](https://ransomwatch.telemetry.ltd/#/profiles?id=termite) |
-| 2024-11-18 | [`Lebenshilfe Heinsberg`](https://google.com/search?q=Lebenshilfe+Heinsberg) | [termite](https://ransomwatch.telemetry.ltd/#/profiles?id=termite) |
-| 2024-11-18 | [`Oman Oil`](https://google.com/search?q=Oman+Oil) | [termite](https://ransomwatch.telemetry.ltd/#/profiles?id=termite) |
-| 2024-11-18 | [`Culligan`](https://google.com/search?q=Culligan) | [termite](https://ransomwatch.telemetry.ltd/#/profiles?id=termite) |
