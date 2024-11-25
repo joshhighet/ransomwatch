@@ -4,6 +4,15 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-25 | [`BeClever`](https://google.com/search?q=BeClever) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
+| 2024-11-25 | [`Extra`](https://google.com/search?q=Extra) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
+| 2024-11-25 | [`Ithbar`](https://google.com/search?q=Ithbar) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
+| 2024-11-25 | [`Dardoc`](https://google.com/search?q=Dardoc) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
+| 2024-11-25 | [`inv[...]nator`](https://google.com/search?q=inv%5B...%5Dnator) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
+| 2024-11-25 | [`RiverRestHome`](https://google.com/search?q=RiverRestHome) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
+| 2024-11-25 | [`borohradek`](https://google.com/search?q=borohradek) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
+| 2024-11-25 | [`atfservices.com.au`](https://google.com/search?q=atfservices.com.au) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
+| 2024-11-25 | [`aclaser.com.au`](https://google.com/search?q=aclaser.com.au) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2024-11-25 | [`Ace Laboratories Limited`](https://google.com/search?q=Ace+Laboratories+Limited) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-11-25 | [`Co****nt`](https://google.com/search?q=Co%2A%2A%2A%2Ant) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
 | 2024-11-24 | [`Hypertype`](https://google.com/search?q=Hypertype) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
@@ -195,12 +204,3 @@ _last `200` posts_
 | 2024-11-18 | [`http://betrvom4agzebo27bt7o3hk35tvr7ppw3hrx5xx4ecvijwfsb4iufoyd.onion/kciaviation.com/`](https://google.com/search?q=http%3A%2F%2Fbetrvom4agzebo27bt7o3hk35tvr7ppw3hrx5xx4ecvijwfsb4iufoyd.onion%2Fkciaviation.com%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-11-18 | [`SW Reclaim`](https://google.com/search?q=SW+Reclaim) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-11-18 | [`Wilson Tarquin`](https://google.com/search?q=Wilson+Tarquin) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
-| 2024-11-18 | [`BluMed Health`](https://google.com/search?q=BluMed+Health) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
-| 2024-11-18 | [`Dragon Capital`](https://google.com/search?q=Dragon+Capital) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
-| 2024-11-18 | [`Buddy Loan`](https://google.com/search?q=Buddy+Loan) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
-| 2024-11-18 | [`Followup CRM`](https://google.com/search?q=Followup+CRM) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
-| 2024-11-18 | [`vbuzrt.hu`](https://google.com/search?q=vbuzrt.hu) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2024-11-18 | [`ucv.es`](https://google.com/search?q=ucv.es) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2024-11-18 | [`europe-qualité`](https://google.com/search?q=europe-qualite%CC%81) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2024-11-18 | [`a4hs-dom.local`](https://google.com/search?q=a4hs-dom.local) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2024-11-18 | [`Webb Institute`](https://google.com/search?q=Webb+Institute) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
