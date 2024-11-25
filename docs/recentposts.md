@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-25 | [`GuangDong South Land pharmaceutical`](https://google.com/search?q=GuangDong+South+Land+pharmaceutical) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2024-11-25 | [`Orshan, Spann & Fernandez-Mesa`](https://google.com/search?q=Orshan%2C+Spann+%26+Fernandez-Mesa) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-11-25 | [`JN attorney`](https://google.com/search?q=JN+attorney) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-11-25 | [`Hadwins Volkswagen`](https://google.com/search?q=Hadwins+Volkswagen) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-11-18 | [`Lebenshilfe Heinsberg`](https://google.com/search?q=Lebenshilfe+Heinsberg) | [termite](https://ransomwatch.telemetry.ltd/#/profiles?id=termite) |
 | 2024-11-18 | [`Oman Oil`](https://google.com/search?q=Oman+Oil) | [termite](https://ransomwatch.telemetry.ltd/#/profiles?id=termite) |
 | 2024-11-18 | [`Culligan`](https://google.com/search?q=Culligan) | [termite](https://ransomwatch.telemetry.ltd/#/profiles?id=termite) |
-| 2024-11-18 | [`Nifast`](https://google.com/search?q=Nifast) | [termite](https://ransomwatch.telemetry.ltd/#/profiles?id=termite) |
