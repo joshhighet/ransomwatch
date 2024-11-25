@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-25 | [`Ace Laboratories Limited`](https://google.com/search?q=Ace+Laboratories+Limited) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
+| 2024-11-25 | [`Co****nt`](https://google.com/search?q=Co%2A%2A%2A%2Ant) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
 | 2024-11-24 | [`Hypertype`](https://google.com/search?q=Hypertype) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2024-11-24 | [`Nicholsons Solicitors`](https://google.com/search?q=Nicholsons+Solicitors) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2024-11-24 | [`STIIIZY`](https://google.com/search?q=STIIIZY) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-11-18 | [`europe-qualité`](https://google.com/search?q=europe-qualite%CC%81) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2024-11-18 | [`a4hs-dom.local`](https://google.com/search?q=a4hs-dom.local) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2024-11-18 | [`Webb Institute`](https://google.com/search?q=Webb+Institute) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2024-11-18 | [`The University and College Union`](https://google.com/search?q=The+University+and+College+Union) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2024-11-18 | [`The Coffee Bean & Tea Leaf`](https://google.com/search?q=The+Coffee+Bean+%26+Tea+Leaf) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
