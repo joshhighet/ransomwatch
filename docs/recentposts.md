@@ -4,6 +4,14 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-25 | [`lgpunjab.gov.in`](https://google.com/search?q=lgpunjab.gov.in) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
+| 2024-11-25 | [`coppelltx.gov`](https://google.com/search?q=coppelltx.gov) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-11-25 | [`isd109.org`](https://google.com/search?q=isd109.org) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-11-25 | [`parkleigh.com`](https://google.com/search?q=parkleigh.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-11-25 | [`dienesusa.com`](https://google.com/search?q=dienesusa.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-11-25 | [`yunker.com`](https://google.com/search?q=yunker.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-11-25 | [`minneapolisparks.org`](https://google.com/search?q=minneapolisparks.org) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-11-25 | [`maynard.k12.ma.us`](https://google.com/search?q=maynard.k12.ma.us) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-25 | [`Everything Breaks`](https://google.com/search?q=Everything+Breaks) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2024-11-25 | [`Keable & Brown`](https://google.com/search?q=Keable+%26+Brown) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2024-11-25 | [`TOC`](https://google.com/search?q=TOC) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
@@ -196,11 +204,3 @@ _last `200` posts_
 | 2024-11-18 | [`www.knoxlawcenter.com`](https://google.com/search?q=www.knoxlawcenter.com) | [helldown](https://ransomwatch.telemetry.ltd/#/profiles?id=helldown) |
 | 2024-11-18 | [`www.csikitchenandbath.com`](https://google.com/search?q=www.csikitchenandbath.com) | [helldown](https://ransomwatch.telemetry.ltd/#/profiles?id=helldown) |
 | 2024-11-18 | [`www.compassfs.net`](https://google.com/search?q=www.compassfs.net) | [helldown](https://ransomwatch.telemetry.ltd/#/profiles?id=helldown) |
-| 2024-11-18 | [`www.co.san-jacinto.tx.us`](https://google.com/search?q=www.co.san-jacinto.tx.us) | [helldown](https://ransomwatch.telemetry.ltd/#/profiles?id=helldown) |
-| 2024-11-18 | [`valleyfirm.com`](https://google.com/search?q=valleyfirm.com) | [helldown](https://ransomwatch.telemetry.ltd/#/profiles?id=helldown) |
-| 2024-11-18 | [`tivoli-33.org`](https://google.com/search?q=tivoli-33.org) | [helldown](https://ransomwatch.telemetry.ltd/#/profiles?id=helldown) |
-| 2024-11-18 | [`lacliniqueducoureur.com`](https://google.com/search?q=lacliniqueducoureur.com) | [helldown](https://ransomwatch.telemetry.ltd/#/profiles?id=helldown) |
-| 2024-11-18 | [`klinik-am-kurpark.de`](https://google.com/search?q=klinik-am-kurpark.de) | [helldown](https://ransomwatch.telemetry.ltd/#/profiles?id=helldown) |
-| 2024-11-18 | [`hausdesstiftens.org`](https://google.com/search?q=hausdesstiftens.org) | [helldown](https://ransomwatch.telemetry.ltd/#/profiles?id=helldown) |
-| 2024-11-18 | [`generaldentistryforchildren.com`](https://google.com/search?q=generaldentistryforchildren.com) | [helldown](https://ransomwatch.telemetry.ltd/#/profiles?id=helldown) |
-| 2024-11-18 | [`fuelco-us.com`](https://google.com/search?q=fuelco-us.com) | [helldown](https://ransomwatch.telemetry.ltd/#/profiles?id=helldown) |
