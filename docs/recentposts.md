@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-25 | [`Orshan, Spann & Fernandez-Mesa`](https://google.com/search?q=Orshan%2C+Spann+%26+Fernandez-Mesa) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
+| 2024-11-25 | [`JN attorney`](https://google.com/search?q=JN+attorney) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-11-25 | [`Hadwins Volkswagen`](https://google.com/search?q=Hadwins+Volkswagen) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2024-11-25 | [`BeClever`](https://google.com/search?q=BeClever) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2024-11-25 | [`Extra`](https://google.com/search?q=Extra) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-11-18 | [`Oman Oil`](https://google.com/search?q=Oman+Oil) | [termite](https://ransomwatch.telemetry.ltd/#/profiles?id=termite) |
 | 2024-11-18 | [`Culligan`](https://google.com/search?q=Culligan) | [termite](https://ransomwatch.telemetry.ltd/#/profiles?id=termite) |
 | 2024-11-18 | [`Nifast`](https://google.com/search?q=Nifast) | [termite](https://ransomwatch.telemetry.ltd/#/profiles?id=termite) |
-| 2024-11-18 | [`http://betrvom4agzebo27bt7o3hk35tvr7ppw3hrx5xx4ecvijwfsb4iufoyd.onion/kciaviation.com/`](https://google.com/search?q=http%3A%2F%2Fbetrvom4agzebo27bt7o3hk35tvr7ppw3hrx5xx4ecvijwfsb4iufoyd.onion%2Fkciaviation.com%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
-| 2024-11-18 | [`SW Reclaim`](https://google.com/search?q=SW+Reclaim) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
