@@ -4,6 +4,10 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-26 | [`goformz.com`](https://google.com/search?q=goformz.com) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
+| 2024-11-26 | [`empowersettlementservices.com`](https://google.com/search?q=empowersettlementservices.com) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
+| 2024-11-26 | [`mydelux.com.my`](https://google.com/search?q=mydelux.com.my) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
+| 2024-11-26 | [`Publications postponded`](https://google.com/search?q=Publications+postponded) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2024-11-25 | [`karberinsulation.com`](https://google.com/search?q=karberinsulation.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-25 | [`glts.net`](https://google.com/search?q=glts.net) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
 | 2024-11-25 | [`lgpunjab.gov.in`](https://google.com/search?q=lgpunjab.gov.in) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
@@ -200,7 +204,3 @@ _last `200` posts_
 | 2024-11-18 | [`Accounting & Advisory Services,`](https://google.com/search?q=Accounting+%26+Advisory+Services%2C) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
 | 2024-11-18 | [`Sunshine Center`](https://google.com/search?q=Sunshine+Center) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
 | 2024-11-18 | [`Kansas Regenerative medicine centre`](https://google.com/search?q=Kansas+Regenerative+medicine+centre) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
-| 2024-11-18 | [`www.smarts-engineering.de`](https://google.com/search?q=www.smarts-engineering.de) | [helldown](https://ransomwatch.telemetry.ltd/#/profiles?id=helldown) |
-| 2024-11-18 | [`www.qualiform.cz`](https://google.com/search?q=www.qualiform.cz) | [helldown](https://ransomwatch.telemetry.ltd/#/profiles?id=helldown) |
-| 2024-11-18 | [`www.nightnurse.ch`](https://google.com/search?q=www.nightnurse.ch) | [helldown](https://ransomwatch.telemetry.ltd/#/profiles?id=helldown) |
-| 2024-11-18 | [`www.knoxlawcenter.com`](https://google.com/search?q=www.knoxlawcenter.com) | [helldown](https://ransomwatch.telemetry.ltd/#/profiles?id=helldown) |
