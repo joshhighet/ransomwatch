@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-26 | [`reliv.la`](https://google.com/search?q=reliv.la) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-11-26 | [`walkingtree.org`](https://google.com/search?q=walkingtree.org) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-26 | [`Goodman, P.A.`](https://google.com/search?q=Goodman%2C+P.A.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-11-26 | [`cal-tool.com`](https://google.com/search?q=cal-tool.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-26 | [`OfficeZilla.com`](https://google.com/search?q=OfficeZilla.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-11-18 | [`Susan Fischgrund`](https://google.com/search?q=Susan+Fischgrund) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2024-11-18 | [`Sandro Forte Financial Support`](https://google.com/search?q=Sandro+Forte+Financial+Support) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2024-11-18 | [`Borrer Executive Search`](https://google.com/search?q=Borrer+Executive+Search) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
-| 2024-11-18 | [`AlphaNovaCapital`](https://google.com/search?q=AlphaNovaCapital) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
-| 2024-11-18 | [`AMI Global Assistance`](https://google.com/search?q=AMI+Global+Assistance) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
