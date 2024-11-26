@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-26 | [`GMG`](https://google.com/search?q=GMG) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
+| 2024-11-26 | [`Pioneer Urban Land &amp; Infrastructure (pioneerurban.in)`](https://google.com/search?q=Pioneer+Urban+Land+%26amp%3B+Infrastructure+%28pioneerurban.in%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
+| 2024-11-26 | [`Government of the People`](https://google.com/search?q=Government+of+the+People) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-11-26 | [`SCM GROUP`](https://google.com/search?q=SCM+GROUP) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2024-11-26 | [`Metroline (metrolinedirect.com)`](https://google.com/search?q=Metroline+%28metrolinedirect.com%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2024-11-26 | [`Marketing Incentives (leinsterappointments.ie)`](https://google.com/search?q=Marketing+Incentives+%28leinsterappointments.ie%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2024-11-18 | [`filmai.in`](https://google.com/search?q=filmai.in) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2024-11-18 | [`emefarmario.com.br`](https://google.com/search?q=emefarmario.com.br) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2024-11-18 | [`drizly.com`](https://google.com/search?q=drizly.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
-| 2024-11-18 | [`brightwayconsultants.co.uk`](https://google.com/search?q=brightwayconsultants.co.uk) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
-| 2024-11-18 | [`appen.com`](https://google.com/search?q=appen.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
-| 2024-11-18 | [`apex.uk.net`](https://google.com/search?q=apex.uk.net) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
