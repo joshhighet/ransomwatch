@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-26 | [`cal-tool.com`](https://google.com/search?q=cal-tool.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-11-26 | [`OfficeZilla.com`](https://google.com/search?q=OfficeZilla.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-26 | [`Tacoma Engineers`](https://google.com/search?q=Tacoma+Engineers) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
 | 2024-11-26 | [`CNHW Landscape Design, Ltd`](https://google.com/search?q=CNHW+Landscape+Design%2C+Ltd) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2024-11-26 | [`waltersgardens.com`](https://google.com/search?q=waltersgardens.com) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-11-18 | [`AlphaNovaCapital`](https://google.com/search?q=AlphaNovaCapital) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2024-11-18 | [`AMI Global Assistance`](https://google.com/search?q=AMI+Global+Assistance) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2024-11-18 | [`The Physical Medicine and Rehabilitation Center`](https://google.com/search?q=The+Physical+Medicine+and+Rehabilitation+Center) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
-| 2024-11-18 | [`Formosa Certified Public Accountants`](https://google.com/search?q=Formosa+Certified+Public+Accountants) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
-| 2024-11-18 | [`Clay Platte Family Medicine Clinic`](https://google.com/search?q=Clay+Platte+Family+Medicine+Clinic) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
