@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-26 | [`Wisconsin Lifting Specialists`](https://google.com/search?q=Wisconsin+Lifting+Specialists) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
+| 2024-11-26 | [`SILKNET COMPANY`](https://google.com/search?q=SILKNET+COMPANY) | [ransomblog_noname](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomblog_noname) |
 | 2024-11-26 | [`www.netromsoftware.ro`](https://google.com/search?q=www.netromsoftware.ro) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2024-11-26 | [`Pinnacle Plastic Products (pinnacleplasitcporducts.com)`](https://google.com/search?q=Pinnacle+Plastic+Products+%28pinnacleplasitcporducts.com%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2024-11-26 | [`Complete Recycling Services (completerecyclingservices.com)`](https://google.com/search?q=Complete+Recycling+Services+%28completerecyclingservices.com%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-11-18 | [`melting-mind.de`](https://google.com/search?q=melting-mind.de) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2024-11-18 | [`liftkits4less.com`](https://google.com/search?q=liftkits4less.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2024-11-18 | [`hpecds.com`](https://google.com/search?q=hpecds.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
-| 2024-11-18 | [`globacap.com`](https://google.com/search?q=globacap.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
-| 2024-11-18 | [`fortify.pro`](https://google.com/search?q=fortify.pro) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
