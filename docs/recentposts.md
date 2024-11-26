@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-26 | [`Tacoma Engineers`](https://google.com/search?q=Tacoma+Engineers) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
+| 2024-11-26 | [`CNHW Landscape Design, Ltd`](https://google.com/search?q=CNHW+Landscape+Design%2C+Ltd) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
+| 2024-11-26 | [`waltersgardens.com`](https://google.com/search?q=waltersgardens.com) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-11-26 | [`goformz.com`](https://google.com/search?q=goformz.com) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-11-26 | [`empowersettlementservices.com`](https://google.com/search?q=empowersettlementservices.com) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-11-26 | [`mydelux.com.my`](https://google.com/search?q=mydelux.com.my) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2024-11-18 | [`The Physical Medicine and Rehabilitation Center`](https://google.com/search?q=The+Physical+Medicine+and+Rehabilitation+Center) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
 | 2024-11-18 | [`Formosa Certified Public Accountants`](https://google.com/search?q=Formosa+Certified+Public+Accountants) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
 | 2024-11-18 | [`Clay Platte Family Medicine Clinic`](https://google.com/search?q=Clay+Platte+Family+Medicine+Clinic) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
-| 2024-11-18 | [`Accounting & Advisory Services,`](https://google.com/search?q=Accounting+%26+Advisory+Services%2C) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
-| 2024-11-18 | [`Sunshine Center`](https://google.com/search?q=Sunshine+Center) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
-| 2024-11-18 | [`Kansas Regenerative medicine centre`](https://google.com/search?q=Kansas+Regenerative+medicine+centre) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
