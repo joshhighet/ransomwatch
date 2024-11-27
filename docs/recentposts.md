@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-27 | [`Signal Health Washington (signalhealthwa.com)`](https://google.com/search?q=Signal+Health+Washington+%28signalhealthwa.com%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
+| 2024-11-27 | [`Interior Metals`](https://google.com/search?q=Interior+Metals) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2024-11-27 | [`www.bent-tree.com`](https://google.com/search?q=www.bent-tree.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-27 | [`facilcreditos.co`](https://google.com/search?q=facilcreditos.co) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-27 | [`osmedica.com.ar`](https://google.com/search?q=osmedica.com.ar) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-11-18 | [`thebeautyclick.co.uk`](https://google.com/search?q=thebeautyclick.co.uk) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2024-11-18 | [`sokkakreatif.com`](https://google.com/search?q=sokkakreatif.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2024-11-18 | [`rylandpeters.com`](https://google.com/search?q=rylandpeters.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
-| 2024-11-18 | [`robinhood.com`](https://google.com/search?q=robinhood.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
-| 2024-11-18 | [`pkaufmann.com`](https://google.com/search?q=pkaufmann.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
