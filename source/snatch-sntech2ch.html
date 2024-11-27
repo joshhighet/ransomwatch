@@ -1,281 +1,38 @@
-<head><script src="/js/jquery.js"></script><title>Authorization with roles</title><meta charset="utf-8"><meta http-equiv="X-UA-Compatible" content="IE=10"><meta name="format-detection" content="telephone=no"><meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0"><meta name="robots" content="all,follow"><script src="/js/base.js"></script><style>.SmartCaptcha-Overlay {
-  position: fixed;
-  z-index: 9999999;
-  top: -10000px;
-  left: -10000px;
+<head>
+<meta charset="utf-8">
+<title>没有找到站点</title>
+<style>
+*{margin:0;padding:0;color:#444}
+body{font-size:14px;font-family:"宋体"}
+.main{width:600px;margin:10% auto;}
+.title{background: #20a53a;color: #fff;font-size: 16px;height: 40px;line-height: 40px;padding-left: 20px;}
+.content{background-color:#f3f7f9; height:300px;border:1px dashed #c6d9b6;padding:20px}
+.t1{border-bottom: 1px dashed #c6d9b6;color: #ff4000;font-weight: bold; margin: 0 0 20px; padding-bottom: 18px;}
+.t2{margin-bottom:8px; font-weight:bold}
+ol{margin:0 0 20px 22px;padding:0;}
+ol li{line-height:30px}
+</style>
+</head>
 
-  width: 100%;
-  width: var(--smart-captcha-doc-width, 100%);
-  height: 100%;
-  height: var(--smart-captcha-doc-height, 100%);
-  margin: 0;
-  padding: 0;
-
-  background: rgba(0, 0, 0, 0.4);
-}
-
-.SmartCaptcha-Overlay.SmartCaptcha-Overlay_visible {
-  position: fixed;
-  top: 0;
-  left: 0;
-}
-
-.SmartCaptcha-Overlay.SmartCaptcha-Overlay_no_background {
-  background: none;
-}
-
-.SmartCaptcha-Overlay .SmartCaptcha-Spin {
-  position: absolute;
-  top: 50%;
-  /* stylelint-disable */
-  left: 0;
-  right: 0;
-  /* stylelint-enable */
-
-  margin: auto;
-
-  transform: translateY(-50%);
-}
-</style><style>.SmartCaptcha-Spin {
-  display: none;
-  visibility: hidden;
-
-  box-sizing: border-box;
-
-  border: 2px solid transparent;
-  border-radius: 50%;
-  background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0));
-}
-
-/* Для правильного позиционирования блока относительно baseline */
-.SmartCaptcha-Spin::after {
-  visibility: hidden;
-
-  content: '\00A0'; /* &nbsp; */
-}
-
-/*
-(1) https://st.yandex-team.ru/ISL-6342
-    Добавлена задержка начала анимации, что заставляет её нормально работать в iOS 12-
-    Решение взято отсюда:
-    https://stackoverflow.com/questions/29219534/css-animation-not-always-starting-in-ios-8-safari
-*/
-.SmartCaptcha-Overlay_visible.SmartCaptcha-Overlay_show_spinner .SmartCaptcha-Spin {
-  display: inline-block;
-  visibility: visible;
-
-  width: 50px;
-  height: 50px;
-
-  border-top-color: #5282FF;
-  border-left-color: #5282FF;
-
-  animation: islands-spin 1s .21s infinite linear; /* (1) */
-
-  backface-visibility: hidden;  /* Для ускорения анимации */
-}
- .SmartCaptcha-Overlay_visible.SmartCaptcha-Overlay_show_spinner .SmartCaptcha-Spin {
-  border-top-color: var(--spin-view-default-border-color, #5282FF);
-  border-left-color: var(--spin-view-default-border-color, #5282FF);
-}
-
-@keyframes islands-spin {
-  from {
-    transform: rotate(0deg);
-  }
-
-  to {
-    transform: rotate(360deg);
-  }
-}
-</style><style>.smart-captcha {
-  min-width: 300px;
-  height: 102px;
-}
-
-.smart-captcha_invisible {
-  height: 0;
-}
-</style><link rel="prefetch" as="script" href="https://captcha-api.yandex.ru/shield.92b352a1c535daccf62d.chunk.js"></head><body><link type="text/css" rel="stylesheet" href="/css/operator_layout.css"><script src="https://captcha-api.yandex.ru/captcha.js?render=onload&amp;onload=onloadFunction" defer=""></script><div class="container"><div class="login-form"><div class="main-div"><div class="panel"><h2>CMS</h2><p></p></div><form id="Login" autocomplete="on"><div class="form-group"><input type="email" name="username" autocomplete="on" class="form-control" id="inputEmail" placeholder="Email"></div><div class="form-group"><input type="password" name="password" autocomplete="on" class="form-control" id="inputPassword" placeholder="Пароль"></div><div class="form-group"><div class="forgot"><a href="#" class="forgot-link">Забыли пароль?</a></div><button type="button" class="btn btn-dark btn-block" id="btn-enter">Войти</button></div><div class="form-group"><p class="error-text text-danger"></p></div></form></div><div class="restore-div"><div class="panel"><h2>Восстановление пароля</h2><p></p></div><form id="restore" autocomplete="off"><div class="form-group"><input type="email" name="restore" autocomplete="nope" class="form-control" id="restoreEmail" placeholder="Email"></div><div class="form-group"><button type="button" class="btn btn-secondary" id="btn-back">Назад</button><button type="button" class="btn btn-info" id="btn-restore">Восстановить</button></div><div class="form-group"><p class="error-text text-danger"></p></div></form></div><div class="form-group"><div style="height: 122px;" id="captcha-container" class="smart-captcha" data-sitekey="lRBaO0crmVsHC8PWy3NXX5sf8KpbNcol7Cs50muL" data-testid="smartCaptcha-container"><div style="display: none;"><iframe frameborder="0" src="https://captcha-api.yandex.ru/backend.30c709bdc9dfb8d6e09b.html?sitekey=lRBaO0crmVsHC8PWy3NXX5sf8KpbNcol7Cs50muL&amp;hl=ru&amp;host=sntech2ch.top&amp;href=http%253A%252F%252Fsntech2ch.top%252F&amp;test=false&amp;webview=false&amp;hideChallengeContainer=false" style="display: block; width: 100%; height: 100%; z-index: 0; transform: translate3d(0px, 0px, 0px);" aria-hidden="true" allow="encrypted-media *;" data-testid="backend-iframe" title="SmartCaptcha backend"></iframe></div><input type="hidden" name="smart-token" data-testid="smart-token"><iframe frameborder="0" src="https://captcha-api.yandex.ru/checkbox.ru.b699e672fa5f6d8e032b.html?sitekey=lRBaO0crmVsHC8PWy3NXX5sf8KpbNcol7Cs50muL&amp;hl=ru&amp;host=sntech2ch.top&amp;href=http%253A%252F%252Fsntech2ch.top%252F&amp;test=false&amp;webview=false&amp;hideChallengeContainer=false" style="display: block; width: 100%; height: 100%; z-index: 0; transform: translate3d(0px, 0px, 0px);" aria-hidden="false" allow="encrypted-media *;" data-testid="checkbox-iframe" title="SmartCaptcha checkbox widget"></iframe></div></div></div></div><style>body{background:#eee}.panel h2{color:#444444;font-size:18px;margin:0 0 8px 0}.panel p{color:#777777;font-size:14px;margin-bottom:30px;line-height:24px}.login-form .form-control{background:#f7f7f7 none repeat scroll 0 0;border:1px solid #d4d4d4;border-radius:4px;font-size:14px;height:50px;line-height:50px}.login-form .form-control:focus{border-color:#343a405c;box-shadow:0 0 0 0.1rem rgba(52,58,64,0.18)}.login-form{background:#ffffff none repeat scroll 0 0;border-radius:2px;margin:4em auto;max-width:340px;padding:40px 20px 20px 21px}.login-form .form-group{margin-bottom:10px}.login-form{text-align:center}.forgot{text-align:center}.forgot a{color:#777777;font-size:14px;text-decoration:underline}.forgot a:hover{color:#4e4e4e}.login-form .btn.btn-primary{background:#f0ad4e none repeat scroll 0 0;border-color:#f0ad4e;color:#ffffff;font-size:14px;width:100%;height:50px;line-height:50px;padding:0;transition:background-color 0.2s ease-in}.login-form .btn.btn-primary:hover{background:#e9931c none repeat scroll 0 0;border-color:#e29221}.forgot{text-align:left;margin-bottom:20px}.login-form .btn.btn-primary.reset{background:#ff9900 none repeat scroll 0 0}.back{text-align:left;margin-top:10px}.back a{color:#444444;font-size:13px;text-decoration:none}.restore-div{display:none}.login-form .restore-div .btn.btn-primary{width:45%;height:50px;line-height:50px;padding:0;transition:background-color 0.2s ease-in}#btn-back{width:48%;height:50px;line-height:50px;padding:0;margin-right:4%;transition:background-color 0.2s ease-in;float:left}.login-form .btn{height:50px;padding:0;line-height:50px}.login-form .restore-div .btn.btn-info{color:white;width:48%;height:50px;line-height:50px;padding:0;transition:background-color 0.2s ease-in}.restore-div .form-group:first-of-type{margin-bottom:30px}#btn-restore{width:48%}</style><script type="application/javascript">
-
-    var siteKey = 'lRBaO0crmVsHC8PWy3NXX5sf8KpbNcol7Cs50muL';
-
-    function onloadFunction() {
-        if (window.smartCaptcha) {
-
-            const container = document.getElementById('captcha-container');
-
-            const widgetId = window.smartCaptcha.render(container, {
-                sitekey: 'lRBaO0crmVsHC8PWy3NXX5sf8KpbNcol7Cs50muL',
-                hl: 'ru',
-            });
-        }
-    }
-
-    function findGetParameter(parameterName) {
-        var result = null,
-            tmp = [];
-        location.search
-            .substr(1)
-            .split("&")
-            .forEach(function (item) {
-                tmp = item.split("=");
-                if (tmp[0] === parameterName) result = decodeURIComponent(tmp[1]);
-            });
-
-        return result;
-    }
-
-    $('document').ready(function () {
-        $('input').blur(function () {
-            var $this = $(this);
-            if ($this.val())
-                $this.addClass('used');
-            else
-                $this.removeClass('used');
-        });
-
-        var $ripples = $('.ripples');
-        var $enter = $('#btn-enter');
-        $enter.click(function (e) {
-            e.preventDefault();
-            var username = $('[name="username"]').val();
-            var password = $('[name="password"]').val();
-            var smartToken = $('[name="smart-token"]').val()
-            var lastPath = findGetParameter('lastPath');
-            if (username.length < 3) {
-                return $('.main-div .error-text').html('Имя пользователя должно быть не менее 3х символов');
-            }
-
-            if (password.length < 3) {
-                return $('.main-div .error-text').html('Пароль должен быть не менее 3х символов');
-            }
-
-            $.ajax({
-                url: '/loginReq/',
-                type: 'POST',
-                data: {
-                    username: username,
-                    password: password,
-                    smartToken: smartToken
-                },
-                success: function (data) {
-                    if (data.error) {
-                        $('.main-div .error-text').html(data.error);
-                        window.smartCaptcha.render(document.getElementById('captcha-container'), {
-                            sitekey: siteKey,
-                            hl: 'ru',
-                        })
-                    } else {
-                        if (lastPath) {
-                            window.location = lastPath;
-                        } else if (data.url) {
-                            window.location = data.url;
-                        } else {
-                            window.location = '/';
-                        }
-                    }
-                },
-                error: function(jqXHR, textStatus, errorThrown){
-                    if(jqXHR.status === 429){
-                        $('.main-div .error-text').html('Слишком много запросов, попробуйте через несколько секунд')
-                    }
-                }
-            })
-        });
-
-        $ripples.on('click.Ripples', function (e) {
+<body>
+	<div class="main">
+		<div class="title">没有找到站点</div>
+		<div class="content">
+			<p class="t1">您的请求在Web服务器中没有找到对应的站点！</p>
+			<p class="t2">可能原因：</p>
+			<ol>
+				<li>您没有将此域名或IP绑定到对应站点!</li>
+				<li>配置文件未生效!</li>
+			</ol>
+			<p class="t2">如何解决：</p>
+			<ol>
+				<li>检查是否已经绑定到对应站点，若确认已绑定，请尝试重载Web服务；</li>
+				<li>检查端口是否正确；</li>
+				<li>若您使用了CDN产品，请尝试清除CDN缓存；</li>
+				<li>普通网站访客，请联系网站管理员；</li>
+			</ol>
+		</div>
+	</div>
 
 
-            var $this = $(this);
-            var $offset = $this.parent().offset();
-            var $circle = $this.find('.ripplesCircle');
-
-            var x = e.pageX - $offset.left;
-            var y = e.pageY - $offset.top;
-
-            $circle.css({
-                top: y + 'px',
-                left: x + 'px'
-            });
-
-            $this.addClass('is-active');
-
-            // $('#login-form').submit();
-
-
-        });
-
-        $ripples.on('animationend webkitAnimationEnd mozAnimationEnd oanimationend MSAnimationEnd', function (e) {
-            $(this).removeClass('is-active');
-        });
-
-        // $('input[type=password]').on('keydown', function (e) {
-        //     if (e.which == 13) {
-        //         e.preventDefault();
-        //         $enter.click();
-        //     }
-        // })
-
-        setTimeout(function () {
-            $('input').blur()
-        }, 200)
-
-        $('.forgot-link').click(function (e) {
-            e.preventDefault();
-            $('.main-div').hide();
-            $('.restore-div').show();
-        });
-
-        $('#btn-back').click(function (e) {
-            e.preventDefault();
-            $('.main-div').show();
-            $('.restore-div').hide();
-        });
-
-        $('#btn-restore').click(function (e) {
-            e.preventDefault();
-
-            var username = $('[name="restore"]').val();
-            var smartToken = $('[name="smart-token"]').val()
-
-            if (username.length < 8) {
-                return $('.restore-div .error-text').html('Email должен быть не менее 8 символов');
-            }
-
-            $.ajax({
-                url: '/restore/',
-                type: 'POST',
-                data: {
-                    username: username,
-                    smartToken: smartToken
-                },
-                success: function (data) {
-                    if (data.error) {
-                        $('.restore-div .error-text').html(data.error);
-                        window.smartCaptcha.render(document.getElementById('captcha-container'), {
-                            sitekey: siteKey,
-                            hl: 'ru',
-                        })
-                    } else {
-                        $('.restore-div .error-text').html('');
-                        $('.main-div').show();
-                        $('.restore-div').hide();
-                        $('.main-div .error-text').html('<span class="text-success">Ссылка для восстановления отправлена на почту</span>');
-                        setTimeout(function () {
-                            window.smartCaptcha.render(document.getElementById('captcha-container'), {
-                                sitekey: siteKey,
-                                hl: 'ru',
-                            })
-                        },0)
-                        setTimeout(function () {
-                            $('.main-div .error-text').html('');
-                        }, 5000)
-
-                    }
-                }
-            })
-        })
-
-
-    });</script><div class="SmartCaptcha-Overlay SmartCaptcha-Overlay_show_spinner" data-testid="advanced-container" tabindex="-1" style="--smart-captcha-doc-height: 634px; --smart-captcha-doc-width: 1366px;"><div class="SmartCaptcha-Spin"></div></div></body>
+</body>

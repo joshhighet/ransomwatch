@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-27 | [`Gruber Tool &amp; Die (grubertool.com)`](https://google.com/search?q=Gruber+Tool+%26amp%3B+Die+%28grubertool.com%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
+| 2024-11-27 | [`wheelerassoc.com`](https://google.com/search?q=wheelerassoc.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-11-27 | [`times-supermarket.com`](https://google.com/search?q=times-supermarket.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-27 | [`gronercrm.com.br`](https://google.com/search?q=gronercrm.com.br) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-27 | [`Signal Health Washington (signalhealthwa.com)`](https://google.com/search?q=Signal+Health+Washington+%28signalhealthwa.com%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2024-11-27 | [`Interior Metals`](https://google.com/search?q=Interior+Metals) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2024-11-18 | [`www.baldinger-ag.ch`](https://google.com/search?q=www.baldinger-ag.ch) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2024-11-18 | [`www.assurified.com`](https://google.com/search?q=www.assurified.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2024-11-18 | [`trans-logik.com`](https://google.com/search?q=trans-logik.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
-| 2024-11-18 | [`thompsoncreek.com`](https://google.com/search?q=thompsoncreek.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
-| 2024-11-18 | [`thebeautyclick.co.uk`](https://google.com/search?q=thebeautyclick.co.uk) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
-| 2024-11-18 | [`sokkakreatif.com`](https://google.com/search?q=sokkakreatif.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
