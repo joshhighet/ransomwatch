@@ -4,6 +4,10 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-27 | [`www.bent-tree.com`](https://google.com/search?q=www.bent-tree.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-11-27 | [`facilcreditos.co`](https://google.com/search?q=facilcreditos.co) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-11-27 | [`osmedica.com.ar`](https://google.com/search?q=osmedica.com.ar) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-11-27 | [`bolognafc.it`](https://google.com/search?q=bolognafc.it) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-27 | [`Vermilion Parish School System`](https://google.com/search?q=Vermilion+Parish+School+System) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2024-11-27 | [`formpipe.com`](https://google.com/search?q=formpipe.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2024-11-26 | [`Wisconsin Lifting Specialists`](https://google.com/search?q=Wisconsin+Lifting+Specialists) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
@@ -200,7 +204,3 @@ _last `200` posts_
 | 2024-11-18 | [`rylandpeters.com`](https://google.com/search?q=rylandpeters.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2024-11-18 | [`robinhood.com`](https://google.com/search?q=robinhood.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2024-11-18 | [`pkaufmann.com`](https://google.com/search?q=pkaufmann.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
-| 2024-11-18 | [`nanolive.ch`](https://google.com/search?q=nanolive.ch) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
-| 2024-11-18 | [`modplan.co.uk`](https://google.com/search?q=modplan.co.uk) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
-| 2024-11-18 | [`mgfsourcing.com`](https://google.com/search?q=mgfsourcing.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
-| 2024-11-18 | [`melting-mind.de`](https://google.com/search?q=melting-mind.de) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
