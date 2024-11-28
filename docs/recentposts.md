@@ -4,6 +4,10 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-28 | [`cloudofgoods.com`](https://google.com/search?q=cloudofgoods.com) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
+| 2024-11-28 | [`gehnaindia.com`](https://google.com/search?q=gehnaindia.com) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
+| 2024-11-28 | [`gajicermat.com`](https://google.com/search?q=gajicermat.com) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
+| 2024-11-28 | [`senacr`](https://google.com/search?q=senacr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-11-28 | [`corenroll.com`](https://google.com/search?q=corenroll.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-27 | [`alleghenycontract.com`](https://google.com/search?q=alleghenycontract.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-27 | [`tappi.org`](https://google.com/search?q=tappi.org) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -200,7 +204,3 @@ _last `200` posts_
 | 2024-11-18 | [`jergenspiping.com`](https://google.com/search?q=jergenspiping.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-18 | [`sealevelinc.com`](https://google.com/search?q=sealevelinc.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-18 | [`Jornstax.com`](https://google.com/search?q=Jornstax.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-11-18 | [`waive.com.au`](https://google.com/search?q=waive.com.au) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-11-18 | [`www.trinitesolutions.com`](https://google.com/search?q=www.trinitesolutions.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
-| 2024-11-18 | [`www.trifecta.com`](https://google.com/search?q=www.trifecta.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
-| 2024-11-18 | [`www.talonsolutions.co.uk`](https://google.com/search?q=www.talonsolutions.co.uk) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
