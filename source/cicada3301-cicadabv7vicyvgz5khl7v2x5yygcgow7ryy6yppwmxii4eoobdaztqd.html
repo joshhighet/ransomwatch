@@ -24,15 +24,27 @@
         0% { transform: rotate(0deg); }
         100% { transform: rotate(360deg); }
     }
+    h1 {
+            font-size: 2rem;
+            color: #F59E0B;
+            margin-bottom: 20px;
+            font-weight: 600;
+        }
+
     .spinner {
         width: 150px;
         height: 150px;
-        border: 18px solid rgba(255, 255, 255, 0.2);
-        border-top-color: #f7fafc;
+        border: 15px solid rgba(255, 255, 255, 0.2);
+        border-top: 15px solid #F59E0B;
         border-radius: 50%;
-        animation: spin 1s linear infinite;
-        align-items: center;
-        justify-content: center;
+        animation: spin 1.5s linear infinite;
+        margin: 30px auto;
+    }
+
+    p {
+        font-size: 1.2rem;
+        line-height: 1.6;
+        color: #e2e8f0;
     }
     .container {
         max-width: 700px;
@@ -44,14 +56,7 @@
         border-radius: 8px;
         box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
     }
-    h1 {
-        font-size: 1.8rem;
-        margin-bottom: 1rem;
-    }
-    p {
-        font-size: 1.5rem;
-        line-height: 2;
-    }
+ 
 
 </style>
 </head>
@@ -59,7 +64,7 @@
     <div class="container">
         <h1>Anti-DDoS Defense</h1>
         <center><div class="spinner"></div></center>
-        <p>Please wait...</p>
+        <p>One moment, we're performing a security check...</p>
     </div>
         <script>
             async function solveChallenge() {
