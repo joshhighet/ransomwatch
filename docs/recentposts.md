@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-12-02 | [`Mmaynewagemicro`](https://google.com/search?q=Mmaynewagemicro) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
+| 2024-12-02 | [`G-ONE AUTO PARTS DE MÉXICO, S.A. DE C.V.`](https://google.com/search?q=G-ONE+AUTO+PARTS+DE+M%C3%89XICO%2C+S.A.+DE+C.V.) | [braincipher](https://ransomwatch.telemetry.ltd/#/profiles?id=braincipher) |
 | 2024-12-02 | [`NT****st`](https://google.com/search?q=NT%2A%2A%2A%2Ast) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
 | 2024-12-01 | [`shapesmfg.com`](https://google.com/search?q=shapesmfg.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-12-01 | [`everde.com`](https://google.com/search?q=everde.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-11-19 | [`chsplumbing.com`](https://google.com/search?q=chsplumbing.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-19 | [`tempaircompany.com`](https://google.com/search?q=tempaircompany.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-19 | [`Anderson Miller LTD`](https://google.com/search?q=Anderson+Miller+LTD) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
-| 2024-11-19 | [`Premier Tax Services`](https://google.com/search?q=Premier+Tax+Services) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
-| 2024-11-19 | [`KVF`](https://google.com/search?q=KVF) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
