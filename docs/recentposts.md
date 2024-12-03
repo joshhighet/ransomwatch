@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-12-03 | [`Royce Corporation`](https://google.com/search?q=Royce+Corporation) | [braincipher](https://ransomwatch.telemetry.ltd/#/profiles?id=braincipher) |
 | 2024-12-03 | [`www.sansirostadium.com`](https://google.com/search?q=www.sansirostadium.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2024-12-03 | [`Goodwill North Central Texas`](https://google.com/search?q=Goodwill+North+Central+Texas) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2024-12-03 | [`Harel Insurance Hacked ( Shirbit Server )`](https://google.com/search?q=Harel+Insurance+Hacked+%28+Shirbit+Server+%29) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-11-19 | [`Miller & Smith`](https://google.com/search?q=Miller+%26+Smith) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-11-19 | [`IVC Technologies`](https://google.com/search?q=IVC+Technologies) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-11-19 | [`Hive Power Engineering`](https://google.com/search?q=Hive+Power+Engineering) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-11-19 | [`CMD`](https://google.com/search?q=CMD) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
