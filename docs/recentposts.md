@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-12-03 | [`www.fpj.com.py PART1`](https://google.com/search?q=www.fpj.com.py+PART1) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
+| 2024-12-03 | [`InterCon Construction`](https://google.com/search?q=InterCon+Construction) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
+| 2024-12-03 | [`Conteg`](https://google.com/search?q=Conteg) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-12-03 | [`Royce Corporation`](https://google.com/search?q=Royce+Corporation) | [braincipher](https://ransomwatch.telemetry.ltd/#/profiles?id=braincipher) |
 | 2024-12-03 | [`www.sansirostadium.com`](https://google.com/search?q=www.sansirostadium.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2024-12-03 | [`Goodwill North Central Texas`](https://google.com/search?q=Goodwill+North+Central+Texas) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2024-11-19 | [`techguard.in`](https://google.com/search?q=techguard.in) | [darkvault](https://ransomwatch.telemetry.ltd/#/profiles?id=darkvault) |
 | 2024-11-19 | [`Performance Health & Fitness`](https://google.com/search?q=Performance+Health+%26+Fitness) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-11-19 | [`Vox Printing`](https://google.com/search?q=Vox+Printing) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-11-19 | [`Miller & Smith`](https://google.com/search?q=Miller+%26+Smith) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-11-19 | [`IVC Technologies`](https://google.com/search?q=IVC+Technologies) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-11-19 | [`Hive Power Engineering`](https://google.com/search?q=Hive+Power+Engineering) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
