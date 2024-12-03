@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-12-03 | [`Communicare Inc.(US)`](https://google.com/search?q=Communicare+Inc.%28US%29) | [daixin](https://ransomwatch.telemetry.ltd/#/profiles?id=daixin) |
 | 2024-12-03 | [`Inland Tarp & Liner`](https://google.com/search?q=Inland+Tarp+%26+Liner) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2024-12-03 | [`SGS Co (US)`](https://google.com/search?q=SGS+Co+%28US%29) | [daixin](https://ransomwatch.telemetry.ltd/#/profiles?id=daixin) |
 | 2024-12-03 | [`www.fpj.com.py PART1`](https://google.com/search?q=www.fpj.com.py+PART1) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-11-19 | [`Dairy Farmers of Canada`](https://google.com/search?q=Dairy+Farmers+of+Canada) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-11-19 | [`Burkburnett Independent School District`](https://google.com/search?q=Burkburnett+Independent+School+District) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2024-11-19 | [`Valley Planing Mill (valleyplaning.com)`](https://google.com/search?q=Valley+Planing+Mill+%28valleyplaning.com%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
-| 2024-11-19 | [`techguard.in`](https://google.com/search?q=techguard.in) | [darkvault](https://ransomwatch.telemetry.ltd/#/profiles?id=darkvault) |
