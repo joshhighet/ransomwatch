@@ -4,6 +4,12 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-12-04 | [`Deloitte UK`](https://google.com/search?q=Deloitte+UK) | [braincipher](https://ransomwatch.telemetry.ltd/#/profiles?id=braincipher) |
+| 2024-12-04 | [`www.d47.org`](https://google.com/search?q=www.d47.org) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-12-04 | [`hobokennj.gov`](https://google.com/search?q=hobokennj.gov) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
+| 2024-12-04 | [`NTrust`](https://google.com/search?q=NTrust) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
+| 2024-12-04 | [`Co****ns`](https://google.com/search?q=Co%2A%2A%2A%2Ans) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
+| 2024-12-04 | [`copral.com.br`](https://google.com/search?q=copral.com.br) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-12-04 | [`www.siapenet.gov.br`](https://google.com/search?q=www.siapenet.gov.br) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2024-12-04 | [`www.fpj.com.py  PART2`](https://google.com/search?q=www.fpj.com.py++PART2) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2024-12-04 | [`Graham + Sibbald`](https://google.com/search?q=Graham+%2B+Sibbald) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
@@ -198,9 +204,3 @@ _last `200` posts_
 | 2024-11-21 | [`rao.hr`](https://google.com/search?q=rao.hr) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2024-11-21 | [`www.cobeldarou.com`](https://google.com/search?q=www.cobeldarou.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-21 | [`www.damcapital.in`](https://google.com/search?q=www.damcapital.in) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-11-21 | [`Hogan Mfg (hoganmfg.com)`](https://google.com/search?q=Hogan+Mfg+%28hoganmfg.com%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
-| 2024-11-21 | [`Fifteenfortyseven Critical Systems Realty (1547realty.com)`](https://google.com/search?q=Fifteenfortyseven+Critical+Systems+Realty+%281547realty.com%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
-| 2024-11-21 | [`ottosimon.co.uk\$16.6M\United Kingdom\1.9TB\100% DISCLOSED`](https://google.com/search?q=ottosimon.co.uk%5C%2416.6M%5CUnited+Kingdom%5C1.9TB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2024-11-21 | [`Kellerhals Ferguson Kroblin PLLC`](https://google.com/search?q=Kellerhals+Ferguson+Kroblin+PLLC) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2024-11-21 | [`Silverback Exploration`](https://google.com/search?q=Silverback+Exploration) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2024-11-21 | [`SSV Blockchain Network Hacked`](https://google.com/search?q=SSV+Blockchain+Network+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
