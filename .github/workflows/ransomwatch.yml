@@ -53,4 +53,4 @@ jobs:
           git push
       - name: ping c2 beep bop
         run: |
-          curl -sSf "https://betteruptime.com/api/v1/heartbeat/${{ secrets.HEARTBEAT_SECRET }}"
+          curl -sSf "https://betteruptime.com/api/v1/heartbeat/${{ secrets.HEARTBEAT_SECRET }}" || true
