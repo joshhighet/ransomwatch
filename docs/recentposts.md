@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-12-05 | [`Textiles Coated International`](https://google.com/search?q=Textiles+Coated+International) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
+| 2024-12-05 | [`frigopesca.com.ec`](https://google.com/search?q=frigopesca.com.ec) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-12-04 | [`troxlerlabs.com`](https://google.com/search?q=troxlerlabs.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-12-04 | [`islandphoto.com`](https://google.com/search?q=islandphoto.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-12-04 | [`Deloitte UK`](https://google.com/search?q=Deloitte+UK) | [braincipher](https://ransomwatch.telemetry.ltd/#/profiles?id=braincipher) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-11-21 | [`MGEMAL`](https://google.com/search?q=MGEMAL) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2024-11-21 | [`Symantric IT`](https://google.com/search?q=Symantric+IT) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2024-11-21 | [`Zimmerei Buder`](https://google.com/search?q=Zimmerei+Buder) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2024-11-21 | [`United Bakery Equipment`](https://google.com/search?q=United+Bakery+Equipment) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2024-11-21 | [`rao.hr`](https://google.com/search?q=rao.hr) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
