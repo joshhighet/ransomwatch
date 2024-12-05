@@ -4,6 +4,12 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-12-05 | [`www.aliorbank.pl`](https://google.com/search?q=www.aliorbank.pl) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
+| 2024-12-05 | [`SRP Federal Credit Union`](https://google.com/search?q=SRP+Federal+Credit+Union) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
+| 2024-12-05 | [`Aptus Value Housing Finance India Ltd`](https://google.com/search?q=Aptus+Value+Housing+Finance+India+Ltd) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
+| 2024-12-05 | [`[DISCLOSED]Sabesp`](https://google.com/search?q=%5BDISCLOSED%5DSabesp) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
+| 2024-12-05 | [`[DISCLOSED]GuangDong South Land pharmaceutical`](https://google.com/search?q=%5BDISCLOSED%5DGuangDong+South+Land+pharmaceutical) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
+| 2024-12-05 | [`[DISCLOSED]Interior Metals`](https://google.com/search?q=%5BDISCLOSED%5DInterior+Metals) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2024-12-05 | [`Dorner (dorner-gmbh.de)`](https://google.com/search?q=Dorner+%28dorner-gmbh.de%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2024-12-05 | [`Star Shuttle Inc.`](https://google.com/search?q=Star+Shuttle+Inc.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-12-05 | [`www.certifiedinfosec.com`](https://google.com/search?q=www.certifiedinfosec.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
@@ -198,9 +204,3 @@ _last `200` posts_
 | 2024-11-22 | [`Trinity Petroleum Management, LLC`](https://google.com/search?q=Trinity+Petroleum+Management%2C+LLC) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-11-22 | [`blr.com`](https://google.com/search?q=blr.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-22 | [`madison-home.com`](https://google.com/search?q=madison-home.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-11-22 | [`Suneva Medical`](https://google.com/search?q=Suneva+Medical) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
-| 2024-11-22 | [`ViralPitch`](https://google.com/search?q=ViralPitch) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
-| 2024-11-22 | [`ABC Group`](https://google.com/search?q=ABC+Group) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
-| 2024-11-21 | [`curenta.com`](https://google.com/search?q=curenta.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-11-21 | [`Goldsmith & Hull`](https://google.com/search?q=Goldsmith+%26+Hull) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2024-11-21 | [`Brueck Golosow Kim & Associates`](https://google.com/search?q=Brueck+Golosow+Kim+%26+Associates) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
