@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-12-07 | [`azpay.me`](https://google.com/search?q=azpay.me) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2024-12-07 | [`Black Creek Community Health Centre (bcch.local)`](https://google.com/search?q=Black+Creek+Community+Health+Centre+%28bcch.local%29) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2024-12-07 | [`Arc Community Services Inc`](https://google.com/search?q=Arc+Community+Services+Inc) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2024-12-07 | [`CO-VER Power Technology SpA`](https://google.com/search?q=CO-VER+Power+Technology+SpA) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-11-24 | [`Nationwide Legal`](https://google.com/search?q=Nationwide+Legal) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-11-24 | [`Vogue Homes`](https://google.com/search?q=Vogue+Homes) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-11-24 | [`Efi Sales`](https://google.com/search?q=Efi+Sales) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
-| 2024-11-23 | [`Service Avicole JGL`](https://google.com/search?q=Service+Avicole+JGL) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
