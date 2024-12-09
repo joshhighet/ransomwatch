@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-12-09 | [`www.lasalleinc.com`](https://google.com/search?q=www.lasalleinc.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-12-09 | [`inia.es`](https://google.com/search?q=inia.es) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-12-09 | [`Thanks For The Help`](https://google.com/search?q=Thanks+For+The+Help) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-12-07 | [`Matlock Security Services`](https://google.com/search?q=Matlock+Security+Services) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2024-12-07 | [`azpay.me`](https://google.com/search?q=azpay.me) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-11-24 | [`Pastor Real Estate`](https://google.com/search?q=Pastor+Real+Estate) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2024-11-24 | [`Silicom Hacked`](https://google.com/search?q=Silicom+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2024-11-24 | [`Sa.SS Datentechnik`](https://google.com/search?q=Sa.SS+Datentechnik) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2024-11-24 | [`Eassy Life`](https://google.com/search?q=Eassy+Life) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
-| 2024-11-24 | [`Nationwide Legal`](https://google.com/search?q=Nationwide+Legal) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
