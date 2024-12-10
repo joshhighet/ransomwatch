@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-12-10 | [`Telecom Namibia`](https://google.com/search?q=Telecom+Namibia) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-12-10 | [`melhorcompraclube.com.br`](https://google.com/search?q=melhorcompraclube.com.br) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2024-12-10 | [`greenscape.us.com`](https://google.com/search?q=greenscape.us.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-12-10 | [`Throat`](https://google.com/search?q=Throat) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-11-25 | [`BeClever`](https://google.com/search?q=BeClever) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2024-11-25 | [`Extra`](https://google.com/search?q=Extra) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2024-11-25 | [`Ithbar`](https://google.com/search?q=Ithbar) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
-| 2024-11-25 | [`Dardoc`](https://google.com/search?q=Dardoc) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
