@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-12-10 | [`greenscape.us.com`](https://google.com/search?q=greenscape.us.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-12-10 | [`Throat`](https://google.com/search?q=Throat) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2024-12-10 | [`Global Insurance Agency LLC`](https://google.com/search?q=Global+Insurance+Agency+LLC) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-12-10 | [`womenscare.com`](https://google.com/search?q=womenscare.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-12-10 | [`Physicians' Primary Care of Southwest Florida`](https://google.com/search?q=Physicians%27+Primary+Care+of+Southwest+Florida) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-12-10 | [`Equity & Advisory`](https://google.com/search?q=Equity+%26+Advisory) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2024-11-25 | [`Ithbar`](https://google.com/search?q=Ithbar) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-11-25 | [`Dardoc`](https://google.com/search?q=Dardoc) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-11-25 | [`inv[...]nator`](https://google.com/search?q=inv%5B...%5Dnator) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
-| 2024-11-25 | [`RiverRestHome`](https://google.com/search?q=RiverRestHome) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
-| 2024-11-25 | [`borohradek`](https://google.com/search?q=borohradek) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2024-11-25 | [`atfservices.com.au`](https://google.com/search?q=atfservices.com.au) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
