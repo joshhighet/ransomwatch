@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-12-11 | [`http://midwest.com`](https://google.com/search?q=http%3A%2F%2Fmidwest.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
+| 2024-12-11 | [`Compass Communications`](https://google.com/search?q=Compass+Communications) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
 | 2024-12-11 | [`leadboxhq.com`](https://google.com/search?q=leadboxhq.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2024-12-11 | [`Tejas Office Products, Inc. `](https://google.com/search?q=Tejas+Office+Products%2C+Inc.+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
 | 2024-12-11 | [`Planters Telephone Cooperative (planters.net)`](https://google.com/search?q=Planters+Telephone+Cooperative+%28planters.net%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-11-25 | [`yunker.com`](https://google.com/search?q=yunker.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-25 | [`minneapolisparks.org`](https://google.com/search?q=minneapolisparks.org) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-25 | [`maynard.k12.ma.us`](https://google.com/search?q=maynard.k12.ma.us) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-11-25 | [`Everything Breaks`](https://google.com/search?q=Everything+Breaks) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
-| 2024-11-25 | [`Keable & Brown`](https://google.com/search?q=Keable+%26+Brown) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
