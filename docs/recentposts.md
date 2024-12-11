@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-12-11 | [`Watsonville Community Hospital`](https://google.com/search?q=Watsonville+Community+Hospital) | [termite](https://ransomwatch.telemetry.ltd/#/profiles?id=termite) |
+| 2024-12-11 | [`Locke Solutions , LLC `](https://google.com/search?q=Locke+Solutions+%2C+LLC+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
+| 2024-12-11 | [`CW Lighting, LLC `](https://google.com/search?q=CW+Lighting%2C+LLC+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
 | 2024-12-11 | [`Interforos Casting`](https://google.com/search?q=Interforos+Casting) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-12-11 | [`Sarah Car Care`](https://google.com/search?q=Sarah+Car+Care) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2024-12-11 | [`http://midwest.com`](https://google.com/search?q=http%3A%2F%2Fmidwest.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2024-11-25 | [`lgpunjab.gov.in`](https://google.com/search?q=lgpunjab.gov.in) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2024-11-25 | [`coppelltx.gov`](https://google.com/search?q=coppelltx.gov) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-25 | [`isd109.org`](https://google.com/search?q=isd109.org) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-11-25 | [`parkleigh.com`](https://google.com/search?q=parkleigh.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-11-25 | [`dienesusa.com`](https://google.com/search?q=dienesusa.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-11-25 | [`yunker.com`](https://google.com/search?q=yunker.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
