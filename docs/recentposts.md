@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-12-12 | [`bankily.mr - SOLD`](https://google.com/search?q=bankily.mr+-+SOLD) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
+| 2024-12-12 | [`Gills Onions`](https://google.com/search?q=Gills+Onions) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2024-12-12 | [`Wintergreen Learning Materials`](https://google.com/search?q=Wintergreen+Learning+Materials) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-12-12 | [`AFD`](https://google.com/search?q=AFD) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-12-12 | [`Southern Acids`](https://google.com/search?q=Southern+Acids) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-11-26 | [`CNHW Landscape Design, Ltd`](https://google.com/search?q=CNHW+Landscape+Design%2C+Ltd) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2024-11-26 | [`waltersgardens.com`](https://google.com/search?q=waltersgardens.com) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-11-26 | [`goformz.com`](https://google.com/search?q=goformz.com) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
-| 2024-11-26 | [`empowersettlementservices.com`](https://google.com/search?q=empowersettlementservices.com) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
-| 2024-11-26 | [`mydelux.com.my`](https://google.com/search?q=mydelux.com.my) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
