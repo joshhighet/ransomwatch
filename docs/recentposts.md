@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-12-13 | [`Estar Seguros, S.A.`](https://google.com/search?q=Estar+Seguros%2C+S.A.) | [braincipher](https://ransomwatch.telemetry.ltd/#/profiles?id=braincipher) |
+| 2024-12-13 | [`Cristal y Lavisa S.A. de C.V.`](https://google.com/search?q=Cristal+y+Lavisa+S.A.+de+C.V.) | [braincipher](https://ransomwatch.telemetry.ltd/#/profiles?id=braincipher) |
 | 2024-12-13 | [`Talascend`](https://google.com/search?q=Talascend) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2024-12-13 | [`Goins Law`](https://google.com/search?q=Goins+Law) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2024-12-13 | [`Sigarth`](https://google.com/search?q=Sigarth) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-11-26 | [`GMG`](https://google.com/search?q=GMG) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2024-11-26 | [`Pioneer Urban Land &amp; Infrastructure (pioneerurban.in)`](https://google.com/search?q=Pioneer+Urban+Land+%26amp%3B+Infrastructure+%28pioneerurban.in%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2024-11-26 | [`Government of the People`](https://google.com/search?q=Government+of+the+People) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
-| 2024-11-26 | [`SCM GROUP`](https://google.com/search?q=SCM+GROUP) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
-| 2024-11-26 | [`Metroline (metrolinedirect.com)`](https://google.com/search?q=Metroline+%28metrolinedirect.com%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
