@@ -4,6 +4,11 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-12-16 | [`Eisenhower Carlson`](https://google.com/search?q=Eisenhower+Carlson) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
+| 2024-12-16 | [`www.specialtree.com`](https://google.com/search?q=www.specialtree.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-12-16 | [`Welker`](https://google.com/search?q=Welker) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-12-16 | [`Lanigan Ryan`](https://google.com/search?q=Lanigan+Ryan) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-12-16 | [`Hatfield Consultants`](https://google.com/search?q=Hatfield+Consultants) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-12-16 | [`bushandburchett.com`](https://google.com/search?q=bushandburchett.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-12-16 | [`SWDAKOTAH.COM`](https://google.com/search?q=SWDAKOTAH.COM) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-12-16 | [`www.minerasancristobal.com`](https://google.com/search?q=www.minerasancristobal.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
@@ -199,8 +204,3 @@ _last `200` posts_
 | 2024-11-28 | [`visufarma.com`](https://google.com/search?q=visufarma.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2024-11-28 | [`cloudofgoods.com`](https://google.com/search?q=cloudofgoods.com) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-11-28 | [`gehnaindia.com`](https://google.com/search?q=gehnaindia.com) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
-| 2024-11-28 | [`gajicermat.com`](https://google.com/search?q=gajicermat.com) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
-| 2024-11-28 | [`senacr`](https://google.com/search?q=senacr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-11-28 | [`corenroll.com`](https://google.com/search?q=corenroll.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-11-27 | [`alleghenycontract.com`](https://google.com/search?q=alleghenycontract.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-11-27 | [`tappi.org`](https://google.com/search?q=tappi.org) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
