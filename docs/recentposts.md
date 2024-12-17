@@ -4,6 +4,10 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-12-17 | [`choicemg.com`](https://google.com/search?q=choicemg.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-12-17 | [`medisecure.com.au`](https://google.com/search?q=medisecure.com.au) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-12-17 | [`redknee.com`](https://google.com/search?q=redknee.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-12-17 | [`nbleisuretrust.org`](https://google.com/search?q=nbleisuretrust.org) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-12-17 | [`Kilgore Industries `](https://google.com/search?q=Kilgore+Industries+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
 | 2024-12-17 | [`kuritaamerica.com`](https://google.com/search?q=kuritaamerica.com) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
 | 2024-12-17 | [`A Beautiful Pools Inc `](https://google.com/search?q=A+Beautiful+Pools+Inc+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
@@ -200,7 +204,3 @@ _last `200` posts_
 | 2024-11-29 | [`Bendheim`](https://google.com/search?q=Bendheim) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-11-29 | [`www.aras-group.ae`](https://google.com/search?q=www.aras-group.ae) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-29 | [`www.polleninformation.at`](https://google.com/search?q=www.polleninformation.at) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
-| 2024-11-29 | [`Horsa`](https://google.com/search?q=Horsa) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2024-11-29 | [`Weld Racing (weldracing.com)`](https://google.com/search?q=Weld+Racing+%28weldracing.com%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
-| 2024-11-29 | [`ppotts.com`](https://google.com/search?q=ppotts.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-11-29 | [`Namforce Life Insurance`](https://google.com/search?q=Namforce+Life+Insurance) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
