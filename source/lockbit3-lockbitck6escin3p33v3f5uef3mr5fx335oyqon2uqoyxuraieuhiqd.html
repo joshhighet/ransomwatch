@@ -173,7 +173,6 @@
 
   <script>
 
-    // Функция для получения значения куки по имени
     function getCookieValue(cookieName) {
         var name = cookieName + "=";
         var decodedCookie = decodeURIComponent(document.cookie);
@@ -193,6 +192,7 @@
     const refreshCaptcha = (target) => {
       const captchaImage = target.closest('.captcha__image-reload').querySelector('.captcha__image');
       captchaImage.src = '/cdn/php/captcha.php?r=' + new Date().getUTCMilliseconds();
+	  document.querySelector('#captcha').value = '';
     }
 
     const captchaBtn = document.querySelector('.captcha__refresh');
@@ -238,7 +238,6 @@
       }
     });
   </script>
-
 
 
 

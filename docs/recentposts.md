@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-12-17 | [`A Beautiful Pools Inc `](https://google.com/search?q=A+Beautiful+Pools+Inc+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
+| 2024-12-17 | [`Fireproof Contractors Inc `](https://google.com/search?q=Fireproof+Contractors+Inc+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
+| 2024-12-17 | [`SpeedLine Solutions (speedlinesolutions.com)`](https://google.com/search?q=SpeedLine+Solutions+%28speedlinesolutions.com%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2024-12-17 | [`Ouro Verde (ouroverde.net.br)`](https://google.com/search?q=Ouro+Verde+%28ouroverde.net.br%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2024-12-17 | [`Ecritel`](https://google.com/search?q=Ecritel) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-12-17 | [`Total Patient Care LLC;A Sensitive Touch Home Health;Alphastar Home Health Care;Heart of T`](https://google.com/search?q=Total+Patient+Care+LLC%3BA+Sensitive+Touch+Home+Health%3BAlphastar+Home+Health+Care%3BHeart+of+T) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2024-11-29 | [`Namforce Life Insurance`](https://google.com/search?q=Namforce+Life+Insurance) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2024-11-28 | [`Brown Packing`](https://google.com/search?q=Brown+Packing) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
 | 2024-11-28 | [`Delmar International`](https://google.com/search?q=Delmar+International) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2024-11-28 | [`https://jtekt-na.com/`](https://google.com/search?q=https%3A%2F%2Fjtekt-na.com%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
-| 2024-11-28 | [`Chanas Assurances S.A. (chanasassurances.com)`](https://google.com/search?q=Chanas+Assurances+S.A.+%28chanasassurances.com%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
-| 2024-11-28 | [`NHS Alder Hey`](https://google.com/search?q=NHS+Alder+Hey) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
