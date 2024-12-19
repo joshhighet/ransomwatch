@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-12-19 | [`Banner Day Camp`](https://google.com/search?q=Banner+Day+Camp) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
+| 2024-12-19 | [`lockbit4.com`](https://google.com/search?q=lockbit4.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-12-18 | [`Trev Deeley Motorcycles`](https://google.com/search?q=Trev+Deeley+Motorcycles) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-12-18 | [`Microvision`](https://google.com/search?q=Microvision) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-12-18 | [`Development Bank of Jamaica`](https://google.com/search?q=Development+Bank+of+Jamaica) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-12-03 | [`SGS Co (US)`](https://google.com/search?q=SGS+Co+%28US%29) | [daixin](https://ransomwatch.telemetry.ltd/#/profiles?id=daixin) |
 | 2024-12-03 | [`www.fpj.com.py PART1`](https://google.com/search?q=www.fpj.com.py+PART1) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2024-12-03 | [`InterCon Construction`](https://google.com/search?q=InterCon+Construction) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2024-12-03 | [`Conteg`](https://google.com/search?q=Conteg) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2024-12-03 | [`Royce Corporation`](https://google.com/search?q=Royce+Corporation) | [braincipher](https://ransomwatch.telemetry.ltd/#/profiles?id=braincipher) |
