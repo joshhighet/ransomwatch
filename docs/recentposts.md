@@ -4,6 +4,10 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-12-20 | [`Schenkelberg - Die Medienstrategen (schenkelberg-druck.de)`](https://google.com/search?q=Schenkelberg+-+Die+Medienstrategen+%28schenkelberg-druck.de%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
+| 2024-12-20 | [`Village Community School (vcsnyc.org)`](https://google.com/search?q=Village+Community+School+%28vcsnyc.org%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
+| 2024-12-20 | [`Circle Electric (circleelectric.com)`](https://google.com/search?q=Circle+Electric+%28circleelectric.com%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
+| 2024-12-20 | [`tabocas.com.br`](https://google.com/search?q=tabocas.com.br) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-12-20 | [`Howell Township Public Schools (howell.k12.nj.us)`](https://google.com/search?q=Howell+Township+Public+Schools+%28howell.k12.nj.us%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2024-12-20 | [`EP Holdings (epholdingsinc.com)`](https://google.com/search?q=EP+Holdings+%28epholdingsinc.com%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2024-12-20 | [`Water Utilities Corporation`](https://google.com/search?q=Water+Utilities+Corporation) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
@@ -200,7 +204,3 @@ _last `200` posts_
 | 2024-12-04 | [`Medica Corporation`](https://google.com/search?q=Medica+Corporation) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-12-04 | [`Lorne Stewart Group`](https://google.com/search?q=Lorne+Stewart+Group) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-12-04 | [`Vossko GmbH &amp; Co. KG`](https://google.com/search?q=Vossko+GmbH+%26amp%3B+Co.+KG) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2024-12-04 | [`internetway.com.br`](https://google.com/search?q=internetway.com.br) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-12-04 | [`www.iscinc93.com`](https://google.com/search?q=www.iscinc93.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-12-04 | [`www.fibrogen.com`](https://google.com/search?q=www.fibrogen.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-12-04 | [`www.z2data.com`](https://google.com/search?q=www.z2data.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
