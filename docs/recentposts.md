@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-12-20 | [`Accolent ERP Software`](https://google.com/search?q=Accolent+ERP+Software) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
+| 2024-12-20 | [`gilariver.org`](https://google.com/search?q=gilariver.org) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-12-20 | [`Izmocars`](https://google.com/search?q=Izmocars) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2024-12-20 | [`Genie Healthcare`](https://google.com/search?q=Genie+Healthcare) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2024-12-20 | [`Schenkelberg - Die Medienstrategen (schenkelberg-druck.de)`](https://google.com/search?q=Schenkelberg+-+Die+Medienstrategen+%28schenkelberg-druck.de%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-12-04 | [`Westbank Corp`](https://google.com/search?q=Westbank+Corp) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-12-04 | [`BT Group plc`](https://google.com/search?q=BT+Group+plc) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-12-04 | [`BEKO TECHNOLOGIES GMBH`](https://google.com/search?q=BEKO+TECHNOLOGIES+GMBH) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2024-12-04 | [`The Snatt Omlog Companies`](https://google.com/search?q=The+Snatt+Omlog+Companies) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2024-12-04 | [`Medica Corporation`](https://google.com/search?q=Medica+Corporation) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
