@@ -4,6 +4,11 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-12-21 | [`Albert Paper Company`](https://google.com/search?q=Albert+Paper+Company) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
+| 2024-12-21 | [`Allied Packing And Rubber Inc`](https://google.com/search?q=Allied+Packing+And+Rubber+Inc) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
+| 2024-12-21 | [`Avana Electrotek`](https://google.com/search?q=Avana+Electrotek) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
+| 2024-12-21 | [`Badger Popcorn And Concession Supply Company`](https://google.com/search?q=Badger+Popcorn+And+Concession+Supply+Company) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
+| 2024-12-21 | [`berkotfoods.com`](https://google.com/search?q=berkotfoods.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
 | 2024-12-21 | [`www.marietta-city.org`](https://google.com/search?q=www.marietta-city.org) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-12-21 | [`www.groupe-setcar.com.tn`](https://google.com/search?q=www.groupe-setcar.com.tn) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-12-21 | [`K****S CORP`](https://google.com/search?q=K%2A%2A%2A%2AS+CORP) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
@@ -199,8 +204,3 @@ _last `200` posts_
 | 2024-12-04 | [`hobokennj.gov`](https://google.com/search?q=hobokennj.gov) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
 | 2024-12-04 | [`NTrust`](https://google.com/search?q=NTrust) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
 | 2024-12-04 | [`Co****ns`](https://google.com/search?q=Co%2A%2A%2A%2Ans) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
-| 2024-12-04 | [`copral.com.br`](https://google.com/search?q=copral.com.br) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-12-04 | [`www.siapenet.gov.br`](https://google.com/search?q=www.siapenet.gov.br) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
-| 2024-12-04 | [`www.fpj.com.py  PART2`](https://google.com/search?q=www.fpj.com.py++PART2) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
-| 2024-12-04 | [`Graham + Sibbald`](https://google.com/search?q=Graham+%2B+Sibbald) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2024-12-04 | [`Cafe Zupas`](https://google.com/search?q=Cafe+Zupas) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
