@@ -4,6 +4,10 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-12-23 | [`RODS Surveying (rods.cc)`](https://google.com/search?q=RODS+Surveying+%28rods.cc%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
+| 2024-12-23 | [`www.semfin.com`](https://google.com/search?q=www.semfin.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-12-23 | [`www.mccoyglobal.com`](https://google.com/search?q=www.mccoyglobal.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-12-23 | [`Cathedral Prep (villalan.edu)`](https://google.com/search?q=Cathedral+Prep+%28villalan.edu%29) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2024-12-23 | [`Forum Architecture &amp; Interior Design (forumarchitecture.com)`](https://google.com/search?q=Forum+Architecture+%26amp%3B+Interior+Design+%28forumarchitecture.com%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2024-12-23 | [`Gallade Chemical (galladechem.com)`](https://google.com/search?q=Gallade+Chemical+%28galladechem.com%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2024-12-23 | [`Industria e Comercio Jolitex Ltda (jolitex.com)`](https://google.com/search?q=Industria+e+Comercio+Jolitex+Ltda+%28jolitex.com%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
@@ -200,7 +204,3 @@ _last `200` posts_
 | 2024-12-05 | [`Standard Calibrations`](https://google.com/search?q=Standard+Calibrations) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-12-05 | [`NatAlliance Securities`](https://google.com/search?q=NatAlliance+Securities) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-12-05 | [`Max Trans`](https://google.com/search?q=Max+Trans) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-12-05 | [`ITO EN`](https://google.com/search?q=ITO+EN) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-12-05 | [`www.aliorbank.pl`](https://google.com/search?q=www.aliorbank.pl) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
-| 2024-12-05 | [`SRP Federal Credit Union`](https://google.com/search?q=SRP+Federal+Credit+Union) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
-| 2024-12-05 | [`Aptus Value Housing Finance India Ltd`](https://google.com/search?q=Aptus+Value+Housing+Finance+India+Ltd) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
