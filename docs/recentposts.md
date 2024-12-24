@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-12-24 | [`bri.co.id (SOLD TO 3RD PARTY)`](https://google.com/search?q=bri.co.id+%28SOLD+TO+3RD+PARTY%29) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2024-12-24 | [`relate-infotech.com`](https://google.com/search?q=relate-infotech.com) | [eldorado](https://ransomwatch.telemetry.ltd/#/profiles?id=eldorado) |
 | 2024-12-24 | [`linebank.co.id`](https://google.com/search?q=linebank.co.id) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2024-12-23 | [`acwlaw.com`](https://google.com/search?q=acwlaw.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-12-09 | [`www.lasalleinc.com`](https://google.com/search?q=www.lasalleinc.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-12-09 | [`inia.es`](https://google.com/search?q=inia.es) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-12-09 | [`Thanks For The Help`](https://google.com/search?q=Thanks+For+The+Help) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
-| 2024-12-07 | [`Matlock Security Services`](https://google.com/search?q=Matlock+Security+Services) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
