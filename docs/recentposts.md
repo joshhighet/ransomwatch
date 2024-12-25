@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-12-25 | [`Reutone Hacked`](https://google.com/search?q=Reutone+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
+| 2024-12-25 | [`Aroma Housewares Co (Aromaco.com)`](https://google.com/search?q=Aroma+Housewares+Co+%28Aromaco.com%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
+| 2024-12-25 | [`STIIIZY Happy New 20025 !`](https://google.com/search?q=STIIIZY+Happy+New+20025+%21) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2024-12-25 | [`T Smiles Dental`](https://google.com/search?q=T+Smiles+Dental) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2024-12-25 | [`Sistem Informasi Pengelolaan Keuangan Daerah (SIPKD) - Blora Regency`](https://google.com/search?q=Sistem+Informasi+Pengelolaan+Keuangan+Daerah+%28SIPKD%29+-+Blora+Regency) | [hellcat](https://ransomwatch.telemetry.ltd/#/profiles?id=hellcat) |
 | 2024-12-25 | [`sensualcollection.com`](https://google.com/search?q=sensualcollection.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2024-12-09 | [`nedamaritime.gr`](https://google.com/search?q=nedamaritime.gr) | [blackout](https://ransomwatch.telemetry.ltd/#/profiles?id=blackout) |
 | 2024-12-09 | [`www.bms.com`](https://google.com/search?q=www.bms.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2024-12-09 | [`mpdory.com`](https://google.com/search?q=mpdory.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-12-09 | [`bankily.mr`](https://google.com/search?q=bankily.mr) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
-| 2024-12-09 | [`www.fpj.com.py PART3`](https://google.com/search?q=www.fpj.com.py+PART3) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
-| 2024-12-09 | [`Hosting.co.uk`](https://google.com/search?q=Hosting.co.uk) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
