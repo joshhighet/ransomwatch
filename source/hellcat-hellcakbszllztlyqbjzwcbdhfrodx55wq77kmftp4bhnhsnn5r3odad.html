@@ -46,8 +46,8 @@
            flex-direction: column;
            position: relative;
            cursor: pointer;
-           height: auto; /* Ensure dynamic height */
-           box-sizing: border-box; /* Include padding in height calculation */
+           height: auto; 
+           box-sizing: border-box; 
 }
 
 
@@ -196,13 +196,17 @@
             cursor: pointer;
         }
 
-        /* Underlined "Who are we?" */
+        
         .who-are-we {
             text-decoration: underline;
             cursor: pointer;
         }
+        .deadline-bar {
+            display: flex;
+            justify-content: space-between;
+            margin-top: 20px;
+        }
 
-        /* TOX ID copy button styling */
         .tox-copy, .btn {
             background-color: #444;
             color: #fff;
@@ -216,6 +220,27 @@
         .tox-copy:hover, .btn:hover {
             background-color: #555;
         }
+       @import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+        .ransom-bar {
+             display: flex;
+             justify-content: center;
+             align-items: center;
+             margin-top: 20px;
+             background-color: #222; 
+             padding: 10px;
+             border-radius: 12px;
+             border: 2px solid #444; 
+             font-family: 'Press Start 2P', monospace; 
+         }
+
+         .ransom {
+              font-weight: bold;
+              color: #cc0000; 
+             font-size: 1.2em;
+           padding: 0 10px;
+         }
+
     </style>
     <script>
         function openModal(postId) {
@@ -256,87 +281,98 @@
         Contact us
     </div>
      <br>     ------------------------------------------------------- <br>   
-    <div class="blog-container">
-    <div class="post-head" onclick="openModal('post1')">
-        <div class="post-title">Schneider Electric - France</div>
-        <div class="domn">
-            <div class="domain">
-                <span>se.com</span>
+     <div class="blog-container">
+        <div class="post-head" onclick="openModal('post1')">
+            <div class="post-title">Schneider Electric - France</div>
+            <div class="domn">
+                <div class="domain">
+                    <span>se.com</span>
+                </div>
+            </div>
+            <div class="timer published" id="timer1">PUBLISHED</div>
+            <div class="post-block-body">Schneider Electric (se.com) has been breached, and sensitive information is now publicly exposed after the company refused to pay the ransom.</div>
+            <div class="views">
+                <div class="updated-post-date">
+                    <span>07 Nov, 2024, &nbsp;&nbsp; 10:12 UTC</span>
+                </div>
             </div>
         </div>
-        <div class="timer published" id="timer1">PUBLISHED</div>
-        <div class="post-block-body">Schneider Electric (se.com) has been breached, and sensitive information is now publicly exposed after the company refused to pay the ransom.</div>
-        <div class="views">
-            <div class="updated-post-date">
-                <span>07 Nov, 2024, &nbsp;&nbsp; 10:12 UTC</span>
+    
+        <div class="post-head" onclick="openModal('post2')">
+            <div class="post-title">Ministry of Education - Jordan</div>
+            <div class="domn">
+                <div class="domain">
+                    <span>moe.gov.jo</span>
+                </div>
             </div>
+            <div class="timer published" id="timer2">PUBLISHED</div>
+            <div class="post-block-body">
+                <div class="post-block-text">We have successfully accessed and compromised a range of sensitive documents from Jordan's Ministry of Education. This includes images of identification cards, divorce papers, and various letters addressed to the Minister.</div>
+            </div>
+            <div class="views">
+                <div class="updated-post-date">
+                    <span>02 Nov, 2024, &nbsp;&nbsp; 9:18 UTC</span>
+                </div>
+            </div>
+        </div>
+    
+        <div class="post-head" onclick="openModal('post3')">
+            <div class="post-title">College of Business - Tanzania</div>
+            <div class="domn">
+                <div class="domain">
+                    <span>cbe.ac.tz</span>
+                </div>
+            </div>
+            <div class="timer published" id="timer3">PUBLISHED</div>
+            <div class="post-block-body">
+                <div class="post-block-text">We have released over 500,000 records from Tanzaniaâs College of Business Education, containing student names, phone numbers, emails, and additional data, including possible billing information.</div>
+            </div>
+            <div class="views">
+                <div class="updated-post-date">
+                    <span>02 Nov, 2024, &nbsp;&nbsp; 9:18 UTC</span>
+                </div>
+            </div>
+        </div>
+    
+        <div class="post-head" onclick="openModal('post4')">
+            <div class="post-title">Pinger - USA</div>
+            <div class="domn">
+                <div class="domain">
+                    <span>pinger.com</span>
+                </div>
+            </div>
+            <div class="timer published" id="timer4">PUBLISHED</div>
+            <div class="post-block-body">
+                <div class="post-block-text">We have successfully breached Pinger, obtaining 111 GB of sensitive data. This includes over 9 million user records, private messages, voice messages, internal tools such as phone number lookup and notification sender, backend systems, and source codes. Since the ransom was not paid, all the data has been publicly released.</div>
+            </div>
+            <div class="views">
+                <div class="updated-post-date">
+                    <span>15 Nov, 2024, &nbsp;&nbsp; 11:37 UTC</span>
+                </div>
+            </div>
+        </div>
+    
+<div class="post-head" onclick="openModal('post5')">
+    <div class="post-title">Sistem Informasi Pengelolaan Keuangan Daerah (SIPKD) - Blora Regency</div>
+    <div class="domn">
+        <div class="domain">
+            <span>bppkad.blora.go.id</span>
         </div>
     </div>
-
-    <div class="post-head" onclick="openModal('post2')">
-        <div class="post-title">Ministry of Education - Jordan</div>
-        <div class="domn">
-            <div class="domain">
-                <span>moe.gov.jo</span>
-            </div>
-        </div>
-        <div class="timer published" id="timer2">PUBLISHED</div>
-        <div class="post-block-body">
-            <div class="post-block-text">We have successfully accessed and compromised a range of sensitive documents from Jordan's Ministry of Education. This includes images of identification cards, divorce papers, and various letters addressed to the Minister.</div>
-        </div>
-        <div class="views">
-            <div class="updated-post-date">
-                <span>02 Nov, 2024, &nbsp;&nbsp; 9:18 UTC</span>
-            </div>
+    <div class="timer will-be-published" id="timer5">1/1/2025</div>
+    <div class="post-block-body">
+        <div class="post-block-text">
+            We have successfully stolen <strong>82 GB</strong> of data, including backups, from the e-Finance system of Blora Regency, known as the <em>Sistem Informasi Pengelolaan Keuangan Daerah (SIPKD)</em>. The data spans from 2018 to the present and remains in our possession. To ensure its safe return, we are demanding <strong>1.5 BTC</strong>. The deadline for this payment is fast approaching. Once the payment is received, the data will be returned without further delay. The terms are clear, and it is up to Blora Regency's authorities to act accordingly.
         </div>
     </div>
-
-    <div class="post-head" onclick="openModal('post3')">
-        <div class="post-title">College of Business - Tanzania</div>
-        <div class="domn">
-            <div class="domain">
-                <span>cbe.ac.tz</span>
-            </div>
-        </div>
-        <div class="timer published" id="timer3">PUBLISHED</div>
-        <div class="post-block-body">
-            <div class="post-block-text">We have released over 500,000 records from Tanzaniaâs College of Business Education, containing student names, phone numbers, emails, and additional data, including possible billing information.</div>
-        </div>
-        <div class="views">
-            <div class="updated-post-date">
-                <span>02 Nov, 2024, &nbsp;&nbsp; 9:18 UTC</span>
-            </div>
+    <div class="views">
+        <div class="updated-post-date">
+            <span>14 Dec, 2024, &nbsp;&nbsp; 2:11 UTC</span>
         </div>
     </div>
-
-    <!-- Fourth Post -->
-    <div class="post-head" onclick="openModal('post4')">
-        <div class="post-title">Pinger - USA</div>
-        <div class="domn">
-            <div class="domain">
-                <span>pinger.com</span>
-            </div>
-        </div>
-       <div class="timer published" id="timer4">PUBLISHED</div>
-        <div class="post-block-body">
-            <div class="post-block-text">We have successfully breached Pinger, obtaining 111 GB of sensitive data. This includes over 9 million user records, private messages, voice messages, internal tools such as phone number lookup and notification sender, backend systems, and source codes. Since the ransom was not paid, all the data has been publicly released.
-
-
-
-
-
-
 </div>
-        </div>
-        <div class="views">
-            <div class="updated-post-date">
-                <span>15 Nov, 2024, &nbsp;&nbsp; 11:37 UTC</span>
-            </div>
-        </div>
-    </div>
-</div>
+    
 
-    <!-- MODALS -->
     <div id="contactModal" class="modal">
         <div class="modal-content">
             <span class="close" onclick="closeModal('contactModal')">&times;</span>
@@ -351,51 +387,71 @@
             </ul>
         </div>
     </div>
-
+    
     <div id="post1" class="modal">
         <div class="modal-content">
             <span class="close" onclick="closeModal('post1')">&times;</span>
             <h2>Schneider Electric - France</h2>
-            <p>We have successfully breached Schneider Electricâs infrastructure, accessing their Atlassian Jira system. </p>
-            <p>This breach has compromised critical data, including projects, issues, and plugins, along with over <strong>400,000</strong> rows of user data, totaling more than <strong>40GB</strong> Compressed Data.</p>
+            <p>We have successfully breached Schneider Electricâs infrastructure, accessing their Atlassian Jira system.</p>
+            <p>This breach has compromised critical data, including projects, issues, and plugins, along with over <strong>400,000</strong> rows of user data, totaling more than <strong>40GB</strong> of compressed data.</p>
             <p>Schneider Electric, a leader in energy management and automation with annual revenue exceeding $40 billion, is now at risk of exposing sensitive customer and operational information.</p>
             <p>Since Schneider Electric refused to pay the demanded ransom, over 40GB of data is now publicly available for download.</p>
-           <a href="http://r7i4vprxr2vznmhnnxj36264ofwx6extopdz535f5v357nqacifymbad.onion/SE.tar.gz" class="btn">Download</a>
+            <a href="http://r7i4vprxr2vznmhnnxj36264ofwx6extopdz535f5v357nqacifymbad.onion/SE.tar.gz" class="btn">Download</a>
         </div>
     </div>
-
+    
     <div id="post2" class="modal">
         <div class="modal-content">
             <span class="close" onclick="closeModal('post2')">&times;</span>
             <h2>Ministry of Education - Jordan</h2>
             <p>We have successfully accessed and compromised a range of sensitive documents from Jordan's Ministry of Education. This includes images of identification cards, divorce papers, and various letters addressed to the Minister.</p>
             <p>You can now download the full dataset.</p>
-            <p></p>
             <a href="/Files/MOEJ.7z" class="btn">Download</a>
         </div>
     </div>
-
+    
     <div id="post3" class="modal">
         <div class="modal-content">
             <span class="close" onclick="closeModal('post3')">&times;</span>
             <h2>College of Business - Tanzania</h2>
-            <p>We have successfully accessed and compromised over 500,000 student records from the College of Business Education in Tanzania. This leak includes a substantial amount of personally identifiable information (PII), such as full names, phone numbers, and email addresses. Additionally, the records may contain billing and financial information. </p>
-            <p>You can now download the full Database.</p>
-            <p></p>
+            <p>We have successfully accessed and compromised over 500,000 student records from the College of Business Education in Tanzania. This leak includes a substantial amount of personally identifiable information (PII), such as full names, phone numbers, and email addresses. Additionally, the records may contain billing and financial information.</p>
+            <p>You can now download the full database.</p>
             <a href="/Files/CBE.sql" class="btn">Download</a>
         </div>
     </div>
+    
     <div id="post4" class="modal">
-       <div class="modal-content">
-        <span class="close" onclick="closeModal('modal4')">&times;</span>
-        <h2>Pinger - USA</h2>
-      <p>We have successfully breached Pingerâs infrastructure, acquiring 111 GB of highly sensitive data. This includes over <strong>9 million user records</strong>, private messages, voice messages, internal tools (such as phone number lookup and notification sender), backend systems, and source codes.</p>
-<p>Pinger, a global leader in free texting and calling solutions with millions of active users, is now at risk of significant reputational and operational damage due to the exposure of proprietary data and user information.</p>
-<p>Since Pinger failed to pay the demanded ransom of <strong>$150,000 USD</strong> in Monero (XMR) or Bitcoin (BTC), the entire dataset is now publicly available for download.</p>
-
-<a href="https://dangerzone.cx/index.php?threads/pinger-dataset-leaked-download.10/" class="btn">Download</a>
-</div>
-
-</div>
+        <div class="modal-content">
+            <span class="close" onclick="closeModal('post4')">&times;</span>
+            <h2>Pinger - USA</h2>
+            <p>We have successfully breached Pingerâs infrastructure, acquiring 111 GB of highly sensitive data. This includes over <strong>9 million user records</strong>, private messages, voice messages, internal tools (such as phone number lookup and notification sender), backend systems, and source codes.</p>
+            <p>Pinger, a global leader in free texting and calling solutions with millions of active users, is now at risk of significant reputational and operational damage due to the exposure of proprietary data and user information.</p>
+            <p>Since Pinger failed to pay the demanded ransom of <strong>$150,000 USD</strong> in Monero (XMR) or Bitcoin (BTC), the entire dataset is now publicly available for download.</p>
+            <a href="https://dangerzone.cx/index.php?threads/pinger-dataset-leaked-download.10/" class="btn">Download</a>
+        </div>
+    </div>
+    
+    <div id="post5" class="modal">
+        <div class="modal-content">
+            <span class="close" onclick="closeModal('post5')">&times;</span>
+            <h2>Sistem Informasi Pengelolaan Keuangan Daerah (SIPKD) - Blora Regency</h2>
+            <p>The e-Finance system of Blora Regency, known as the <em>Sistem Informasi Pengelolaan Keuangan Daerah (SIPKD)</em> (English Translation: Regional Financial Management Information System), is an integrated, online, real-time platform designed to manage regional financial administration. It is managed by the Badan Pendapatan, Pengelolaan Keuangan, dan Aset Daerah (BPPKAD), which translates to the Regional Revenue, Finance, and Asset Management Agency of Blora Regency.</p>
+            <p>We have successfully stolen <strong>82 GB</strong> of data, including backups, spanning from 2018 to the present. This data includes:</p>
+            <ul>
+                <li><strong>User and Access Control Data:</strong> Usernames, hashed passwords, email addresses.</li>
+                <li><strong>Financial and Budgetary Data:</strong> Detailed financial transactions, budget allocations, and expenditures.</li>
+                <li><strong>Taxation Data:</strong> Taxpayer names, Tax IDs, amounts, and categories.</li>
+                <li><strong>Program and Project Management:</strong> Details of government programs and their budgets.</li>
+                <li><strong>Administrative and Organizational Data:</strong> Names and roles of government employees, administrative unit details.</li>
+                <li><strong>Transactions and Receipts:</strong> Daily financial transactions and payment recipients.</li>
+                <li><strong>Legal and Regulatory Data:</strong> Legal regulations governing financial activities.</li>
+                <li><strong>Personally Identifiable Information (PII):</strong> Names, addresses, Taxpayer IDs, and contact details.</li>
+                <p>Failure to pay the ransom before the deadline will result in the data being sold or publicly released.</p>            </ul>
+            <div class="ransom-bar">
+                <span class="ransom">Ransom Demand: 1.5 BTC</span>
+            </div>
+        </div>
+    </div>
+    
 </body>
-</html>
+</html>    
