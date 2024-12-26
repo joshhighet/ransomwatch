@@ -237,9 +237,13 @@
          .ransom {
               font-weight: bold;
               color: #cc0000; 
-             font-size: 1.2em;
-           padding: 0 10px;
+              font-size: 1.2em;
+              padding: 0 10px;
          }
+         .timer.countdown {
+             border-color: #ff3333;
+}
+
 
     </style>
     <script>
@@ -264,6 +268,35 @@
                 alert('Error copying TOX ID: ', err);
             });
         }
+
+         function updateCountdown() {
+            var countdownElements = document.querySelectorAll('.timer.countdown');
+
+            countdownElements.forEach(function(element) {
+        var deadline = new Date(element.getAttribute("deadline")).getTime();
+
+        var now = new Date().getTime();
+        var distance = deadline - now;
+
+        if (distance < 0) {
+            element.classList.remove('timer', 'countdown');
+            element.classList.add('timer', 'published');
+            element.innerHTML = "PUBLISHED";
+        } else {
+            var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+            var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+            var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+            var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+
+            element.innerHTML = days + "D " + hours + "H " + minutes + "M " + seconds + "S ";
+        }
+    });
+}
+
+setInterval(updateCountdown, 1000);
+
+
+
     </script>
 </head>
 <body>
@@ -353,13 +386,13 @@
         </div>
     
 <div class="post-head" onclick="openModal('post5')">
-    <div class="post-title">Sistem Informasi Pengelolaan Keuangan Daerah (SIPKD) - Blora Regency</div>
+    <div class="post-title">Sistem Informasi Pengelolaan Keuangan Daerah (SIPKD)</div>
     <div class="domn">
         <div class="domain">
             <span>bppkad.blora.go.id</span>
         </div>
     </div>
-    <div class="timer will-be-published" id="timer5">1/1/2025</div>
+    <div class="timer countdown" id="countdown1" deadline="1/1/2025 23:59:59"></div>
     <div class="post-block-body">
         <div class="post-block-text">
             We have successfully stolen <strong>82 GB</strong> of data, including backups, from the e-Finance system of Blora Regency, known as the <em>Sistem Informasi Pengelolaan Keuangan Daerah (SIPKD)</em>. The data spans from 2018 to the present and remains in our possession. To ensure its safe return, we are demanding <strong>1.5 BTC</strong>. The deadline for this payment is fast approaching. Once the payment is received, the data will be returned without further delay. The terms are clear, and it is up to Blora Regency's authorities to act accordingly.
@@ -367,7 +400,33 @@
     </div>
     <div class="views">
         <div class="updated-post-date">
-            <span>25 Dec, 2024, &nbsp;&nbsp; 3:05 UTC</span>
+            <span>25 Dec, 2024, &nbsp;&nbsp; 2:11 UTC</span>
+        </div>
+    </div>
+</div>
+
+<div class="post-head" onclick="openModal('post6')">
+    <div class="post-title">Car Care Plan - Turkey
+
+
+    </div>
+    <div class="domn">
+        <div class="domain">
+            <span>                       </span>
+            <span>carcareplan.com.tr</span>
+        </div>
+    </div>
+    <div class="timer countdown" id="countdown6" deadline="1/1/2025 23:59:59"></div>
+    <div class="post-block-body">
+        <div class="post-block-text">
+            We have successfully stolen over <strong>50 GB</strong> of data from Car Care Plan, including financial records with sensitive information, legal documents and statements, customer records, along with internal documents and records. All the data has been encrypted, and without our decryption key, it is almost impossible to decrypt.
+            <p></p>
+            To ensure the return of this data, we are demanding a ransom of <strong>0.5 BTC</strong>. The deadline for this payment is fast approaching. Once the payment is received, the decryption key will be provided, and the data will be returned without delay. It is up to Car Care Plan to act accordingly.
+        </div>
+    </div>
+    <div class="views">
+        <div class="updated-post-date">
+            <span>25 Dec, 2024, &nbsp;&nbsp; 11:50 UTC</span>
         </div>
     </div>
 </div>
@@ -452,6 +511,27 @@
             </div>
         </div>
     </div>
+
+<div id="post6" class="modal">
+    <div class="modal-content">
+        <span class="close" onclick="closeModal('post6')">&times;</span>
+        <h2>Car Care Plan - Data Breach</h2>
+        <p>Car Care Plan is a leading provider of Warranty, Asset Protection, Cosmetic Repair Insurance, Alloy Wheel Repair Insurance, Tyre Insurance, Roadside Assistance, and MOT test programmes. The company has over 40 years of industry experience and holds relationships with over 20 major manufacturers along with over 3,000 independent and group car retailers across 26 territories worldwide. Through these relationships, Car Care Plan offers an array of award-winning products and administers over 1,000,000 policies annually with a team of over 400 employees.</p>
+        <p>We have successfully stolen over <strong>50 GB</strong> of data, including the following:</p>
+        <ul>
+            <li><strong>Financial Records:</strong> Sensitive information related to financial transactions and company assets.</li>
+            <li><strong>Legal Documents and Statements:</strong> Confidential agreements, contracts, and statements.</li>
+            <li><strong>Customer Records:</strong> Personal details, contact information, and service history.</li>
+            <li><strong>Internal Documents and Records:</strong> Sensitive company files and internal communications.</li>
+        </ul>
+        <p>All the data has been encrypted, and without our decryption key, it is nearly impossible to decrypt the files.</p>
+        <p>Failure to pay the ransom before the deadline will result in the data being publicly released.</p>
+        <div class="ransom-bar">
+            <span class="ransom">Ransom Demand: 0.5 BTC</span>
+        </div>
+    </div>
+</div>
+
     
 </body>
 </html>    
