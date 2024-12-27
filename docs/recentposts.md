@@ -4,6 +4,10 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-12-27 | [`Inner City Family Health Team (ICFHT.local)`](https://google.com/search?q=Inner+City+Family+Health+Team+%28ICFHT.local%29) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
+| 2024-12-27 | [`[DISCLOSED] KuiperCompagnons`](https://google.com/search?q=%5BDISCLOSED%5D+KuiperCompagnons) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
+| 2024-12-27 | [`[DISCLOSED] Lago Group Spa`](https://google.com/search?q=%5BDISCLOSED%5D+Lago+Group+Spa) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
+| 2024-12-27 | [`[DISCLOSED] INFiLED`](https://google.com/search?q=%5BDISCLOSED%5D+INFiLED) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2024-12-27 | [`Primary Health Services Center`](https://google.com/search?q=Primary+Health+Services+Center) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2024-12-26 | [`Family Help & Wellness`](https://google.com/search?q=Family+Help+%26+Wellness) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-12-26 | [`Ober Mountain (OberGatlinburg.com)`](https://google.com/search?q=Ober+Mountain+%28OberGatlinburg.com%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
@@ -200,7 +204,3 @@ _last `200` posts_
 | 2024-12-10 | [`Mission Constructors , Inc. `](https://google.com/search?q=Mission+Constructors+%2C+Inc.+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
 | 2024-12-10 | [`tectaamerica.com`](https://google.com/search?q=tectaamerica.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-12-10 | [`Haji Husein Alireza`](https://google.com/search?q=Haji+Husein+Alireza) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2024-12-10 | [`Telecom Namibia`](https://google.com/search?q=Telecom+Namibia) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2024-12-10 | [`melhorcompraclube.com.br`](https://google.com/search?q=melhorcompraclube.com.br) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
-| 2024-12-10 | [`greenscape.us.com`](https://google.com/search?q=greenscape.us.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-12-10 | [`Throat`](https://google.com/search?q=Throat) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
