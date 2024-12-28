@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-12-28 | [`Atos (Business Services · France)`](https://google.com/search?q=Atos+%28Business+Services+%C2%B7+France%29) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2024-12-28 | [`Farrar & Ball`](https://google.com/search?q=Farrar+%26+Ball) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2024-12-27 | [`vinati`](https://google.com/search?q=vinati) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-12-27 | [`falp.org`](https://google.com/search?q=falp.org) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-12-11 | [`Planters Telephone Cooperative (planters.net)`](https://google.com/search?q=Planters+Telephone+Cooperative+%28planters.net%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2024-12-11 | [`NSK Group ROTA`](https://google.com/search?q=NSK+Group+ROTA) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2024-12-11 | [`Rutherford County Schools`](https://google.com/search?q=Rutherford+County+Schools) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2024-12-11 | [`At Interspiro`](https://google.com/search?q=At+Interspiro) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
