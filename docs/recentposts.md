@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-12-28 | [`Farrar & Ball`](https://google.com/search?q=Farrar+%26+Ball) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2024-12-27 | [`vinati`](https://google.com/search?q=vinati) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-12-27 | [`falp.org`](https://google.com/search?q=falp.org) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2024-12-27 | [`diazfoodsolutions.es`](https://google.com/search?q=diazfoodsolutions.es) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-12-11 | [`NSK Group ROTA`](https://google.com/search?q=NSK+Group+ROTA) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2024-12-11 | [`Rutherford County Schools`](https://google.com/search?q=Rutherford+County+Schools) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2024-12-11 | [`At Interspiro`](https://google.com/search?q=At+Interspiro) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2024-12-11 | [`Hydra-Matic Packing`](https://google.com/search?q=Hydra-Matic+Packing) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
