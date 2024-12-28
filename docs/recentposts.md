@@ -4,6 +4,11 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-12-28 | [`Compass Communications(Attack again)`](https://google.com/search?q=Compass+Communications%28Attack+again%29) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
+| 2024-12-28 | [`Watertown Public Schools`](https://google.com/search?q=Watertown+Public+Schools) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
+| 2024-12-28 | [`STEG Stadtentwicklung`](https://google.com/search?q=STEG+Stadtentwicklung) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
+| 2024-12-28 | [`Ire-Omba SpA`](https://google.com/search?q=Ire-Omba+SpA) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
+| 2024-12-28 | [`Cell C`](https://google.com/search?q=Cell+C) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2024-12-28 | [`Youth Eastside Services`](https://google.com/search?q=Youth+Eastside+Services) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2024-12-28 | [`Atos (Business Services · France)`](https://google.com/search?q=Atos+%28Business+Services+%C2%B7+France%29) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2024-12-28 | [`Farrar & Ball`](https://google.com/search?q=Farrar+%26+Ball) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
@@ -199,8 +204,3 @@ _last `200` posts_
 | 2024-12-11 | [`Interforos Casting`](https://google.com/search?q=Interforos+Casting) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-12-11 | [`Sarah Car Care`](https://google.com/search?q=Sarah+Car+Care) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2024-12-11 | [`http://midwest.com`](https://google.com/search?q=http%3A%2F%2Fmidwest.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
-| 2024-12-11 | [`Compass Communications`](https://google.com/search?q=Compass+Communications) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
-| 2024-12-11 | [`leadboxhq.com`](https://google.com/search?q=leadboxhq.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
-| 2024-12-11 | [`Tejas Office Products, Inc. `](https://google.com/search?q=Tejas+Office+Products%2C+Inc.+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
-| 2024-12-11 | [`Planters Telephone Cooperative (planters.net)`](https://google.com/search?q=Planters+Telephone+Cooperative+%28planters.net%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
-| 2024-12-11 | [`NSK Group ROTA`](https://google.com/search?q=NSK+Group+ROTA) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
