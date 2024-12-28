@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-12-28 | [`timely.mn`](https://google.com/search?q=timely.mn) | [darkvault](https://ransomwatch.telemetry.ltd/#/profiles?id=darkvault) |
 | 2024-12-28 | [`nigico.gr`](https://google.com/search?q=nigico.gr) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-12-28 | [`Compass Communications(Attack again)`](https://google.com/search?q=Compass+Communications%28Attack+again%29) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
 | 2024-12-28 | [`Watertown Public Schools`](https://google.com/search?q=Watertown+Public+Schools) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-12-11 | [`Locke Solutions , LLC `](https://google.com/search?q=Locke+Solutions+%2C+LLC+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
 | 2024-12-11 | [`CW Lighting, LLC `](https://google.com/search?q=CW+Lighting%2C+LLC+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
 | 2024-12-11 | [`Interforos Casting`](https://google.com/search?q=Interforos+Casting) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
-| 2024-12-11 | [`Sarah Car Care`](https://google.com/search?q=Sarah+Car+Care) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
