@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-12-29 | [`asesoriacamen.es`](https://google.com/search?q=asesoriacamen.es) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-12-29 | [`www.psccorporation.com`](https://google.com/search?q=www.psccorporation.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-12-29 | [`Enge Ilha Construção`](https://google.com/search?q=Enge+Ilha+Constru%C3%A7%C3%A3o) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2024-12-29 | [`Hi-Raise Constructions Holding`](https://google.com/search?q=Hi-Raise+Constructions+Holding) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2024-12-29 | [`Megaexit`](https://google.com/search?q=Megaexit) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-12-12 | [`Artemis Holding`](https://google.com/search?q=Artemis+Holding) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-12-12 | [`Arnott`](https://google.com/search?q=Arnott) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-12-12 | [`bankily.mr - SOLD`](https://google.com/search?q=bankily.mr+-+SOLD) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
-| 2024-12-12 | [`Gills Onions`](https://google.com/search?q=Gills+Onions) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
-| 2024-12-12 | [`Wintergreen Learning Materials`](https://google.com/search?q=Wintergreen+Learning+Materials) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
