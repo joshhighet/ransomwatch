@@ -4,6 +4,10 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-12-30 | [`Zeifmans`](https://google.com/search?q=Zeifmans) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-12-30 | [`McCray Lumber`](https://google.com/search?q=McCray+Lumber) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-12-30 | [`Luxury Yacht Group`](https://google.com/search?q=Luxury+Yacht+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-12-30 | [`Bettisworth North`](https://google.com/search?q=Bettisworth+North) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-12-30 | [`Allen Carr’s Easyway Hacked`](https://google.com/search?q=Allen+Carr%E2%80%99s+Easyway+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2024-12-29 | [`asesoriacamen.es`](https://google.com/search?q=asesoriacamen.es) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-12-29 | [`www.psccorporation.com`](https://google.com/search?q=www.psccorporation.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -200,7 +204,3 @@ _last `200` posts_
 | 2024-12-13 | [`SBW`](https://google.com/search?q=SBW) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-12-13 | [`Maxus Group`](https://google.com/search?q=Maxus+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-12-13 | [`Long Beach Convention Center`](https://google.com/search?q=Long+Beach+Convention+Center) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-12-13 | [`Myhealthcarebilling`](https://google.com/search?q=Myhealthcarebilling) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
-| 2024-12-12 | [`Sunline`](https://google.com/search?q=Sunline) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-12-12 | [`Artemis Holding`](https://google.com/search?q=Artemis+Holding) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-12-12 | [`Arnott`](https://google.com/search?q=Arnott) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
