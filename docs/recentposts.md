@@ -4,6 +4,10 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-01-03 | [`Amourgis & Associates`](https://google.com/search?q=Amourgis+%26+Associates) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
+| 2025-01-03 | [`www.alliancemat.com`](https://google.com/search?q=www.alliancemat.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2025-01-03 | [`www.geedingconstruction.com`](https://google.com/search?q=www.geedingconstruction.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2025-01-03 | [`Nikki-Universal Co Ltd`](https://google.com/search?q=Nikki-Universal+Co+Ltd) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2025-01-02 | [`confluxhr.com`](https://google.com/search?q=confluxhr.com) | [darkvault](https://ransomwatch.telemetry.ltd/#/profiles?id=darkvault) |
 | 2025-01-02 | [`groupegm.com`](https://google.com/search?q=groupegm.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-01-01 | [`regencymedia`](https://google.com/search?q=regencymedia) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -200,7 +204,3 @@ _last `200` posts_
 | 2024-12-13 | [`Tri County Property Management`](https://google.com/search?q=Tri+County+Property+Management) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
 | 2024-12-13 | [`Archdiocese of Louisville`](https://google.com/search?q=Archdiocese+of+Louisville) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
 | 2024-12-13 | [`tekni-plex.com`](https://google.com/search?q=tekni-plex.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-12-13 | [`www.hashem-contracting.com`](https://google.com/search?q=www.hashem-contracting.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-12-13 | [`http://www.abag-sroc.pt`](https://google.com/search?q=http%3A%2F%2Fwww.abag-sroc.pt) | [ciphbit](https://ransomwatch.telemetry.ltd/#/profiles?id=ciphbit) |
-| 2024-12-13 | [`Kazyon`](https://google.com/search?q=Kazyon) | [moneymessage](https://ransomwatch.telemetry.ltd/#/profiles?id=moneymessage) |
-| 2024-12-13 | [`Estar Seguros, S.A.`](https://google.com/search?q=Estar+Seguros%2C+S.A.) | [braincipher](https://ransomwatch.telemetry.ltd/#/profiles?id=braincipher) |
