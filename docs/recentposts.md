@@ -4,6 +4,36 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-01-04 | [`trinitesolutions.com`](https://google.com/search?q=trinitesolutions.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
+| 2025-01-04 | [`trifecta.com`](https://google.com/search?q=trifecta.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
+| 2025-01-04 | [`talonsolutions.co.uk`](https://google.com/search?q=talonsolutions.co.uk) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
+| 2025-01-04 | [`siapenet.gov.br`](https://google.com/search?q=siapenet.gov.br) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
+| 2025-01-04 | [`sfr.fr`](https://google.com/search?q=sfr.fr) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
+| 2025-01-04 | [`servicepower.com`](https://google.com/search?q=servicepower.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
+| 2025-01-04 | [`sella.eng.br`](https://google.com/search?q=sella.eng.br) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
+| 2025-01-04 | [`scopeset.de`](https://google.com/search?q=scopeset.de) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
+| 2025-01-04 | [`sansirostadium.com`](https://google.com/search?q=sansirostadium.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
+| 2025-01-04 | [`protectasecurity.pe`](https://google.com/search?q=protectasecurity.pe) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
+| 2025-01-04 | [`prixet.com`](https://google.com/search?q=prixet.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
+| 2025-01-04 | [`polleninformation.at`](https://google.com/search?q=polleninformation.at) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
+| 2025-01-04 | [`pindrophearing.co.uk`](https://google.com/search?q=pindrophearing.co.uk) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
+| 2025-01-04 | [`northernsafety.com`](https://google.com/search?q=northernsafety.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
+| 2025-01-04 | [`netromsoftware.ro`](https://google.com/search?q=netromsoftware.ro) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
+| 2025-01-04 | [`minerasancristobal.com`](https://google.com/search?q=minerasancristobal.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
+| 2025-01-04 | [`legilog.fr`](https://google.com/search?q=legilog.fr) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
+| 2025-01-04 | [`lamaisonducitron.com`](https://google.com/search?q=lamaisonducitron.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
+| 2025-01-04 | [`gannons.co.uk`](https://google.com/search?q=gannons.co.uk) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
+| 2025-01-04 | [`fpj.com.py PART3`](https://google.com/search?q=fpj.com.py+PART3) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
+| 2025-01-04 | [`fpj.com.py PART1`](https://google.com/search?q=fpj.com.py+PART1) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
+| 2025-01-04 | [`fpj.com.py  PART2`](https://google.com/search?q=fpj.com.py++PART2) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
+| 2025-01-04 | [`credio.eu`](https://google.com/search?q=credio.eu) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
+| 2025-01-04 | [`certifiedinfosec.com`](https://google.com/search?q=certifiedinfosec.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
+| 2025-01-04 | [`bms.com`](https://google.com/search?q=bms.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
+| 2025-01-04 | [`bigalsfoodservice.co.uk`](https://google.com/search?q=bigalsfoodservice.co.uk) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
+| 2025-01-04 | [`baldinger-ag.ch`](https://google.com/search?q=baldinger-ag.ch) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
+| 2025-01-04 | [`assurified.com`](https://google.com/search?q=assurified.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
+| 2025-01-04 | [`aliorbank.pl`](https://google.com/search?q=aliorbank.pl) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
+| 2025-01-04 | [`Montreal North`](https://google.com/search?q=Montreal+North) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2025-01-03 | [`Amourgis & Associates`](https://google.com/search?q=Amourgis+%26+Associates) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-01-03 | [`www.alliancemat.com`](https://google.com/search?q=www.alliancemat.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-01-03 | [`www.geedingconstruction.com`](https://google.com/search?q=www.geedingconstruction.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -174,33 +204,3 @@ _last `200` posts_
 | 2024-12-16 | [`Joshua Grading & Excavating`](https://google.com/search?q=Joshua+Grading+%26+Excavating) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-12-16 | [`Chemitex SA Information`](https://google.com/search?q=Chemitex+SA+Information) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-12-16 | [`Eisenhower Carlson`](https://google.com/search?q=Eisenhower+Carlson) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
-| 2024-12-16 | [`www.specialtree.com`](https://google.com/search?q=www.specialtree.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-12-16 | [`Welker`](https://google.com/search?q=Welker) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-12-16 | [`Lanigan Ryan`](https://google.com/search?q=Lanigan+Ryan) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-12-16 | [`Hatfield Consultants`](https://google.com/search?q=Hatfield+Consultants) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-12-16 | [`bushandburchett.com`](https://google.com/search?q=bushandburchett.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-12-16 | [`SWDAKOTAH.COM`](https://google.com/search?q=SWDAKOTAH.COM) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-12-16 | [`www.minerasancristobal.com`](https://google.com/search?q=www.minerasancristobal.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
-| 2024-12-16 | [`Waverley Christian College (wcc.vic.edu.au)`](https://google.com/search?q=Waverley+Christian+College+%28wcc.vic.edu.au%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
-| 2024-12-16 | [`Cognity (cognity.gr)`](https://google.com/search?q=Cognity+%28cognity.gr%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
-| 2024-12-16 | [`acumengroup.us`](https://google.com/search?q=acumengroup.us) | [eldorado](https://ransomwatch.telemetry.ltd/#/profiles?id=eldorado) |
-| 2024-12-16 | [`lasen.com`](https://google.com/search?q=lasen.com) | [eldorado](https://ransomwatch.telemetry.ltd/#/profiles?id=eldorado) |
-| 2024-12-16 | [`Simmtech Co., Ltd.`](https://google.com/search?q=Simmtech+Co.%2C+Ltd.) | [underground](https://ransomwatch.telemetry.ltd/#/profiles?id=underground) |
-| 2024-12-16 | [`scania.pl`](https://google.com/search?q=scania.pl) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-12-16 | [`GNS Cloud Hacked`](https://google.com/search?q=GNS+Cloud+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
-| 2024-12-16 | [`www.aflak.com.sa`](https://google.com/search?q=www.aflak.com.sa) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-12-15 | [`JSSR Options Co., Ltd. (JSSR)`](https://google.com/search?q=JSSR+Options+Co.%2C+Ltd.+%28JSSR%29) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
-| 2024-12-15 | [`Tumeny Payments Limited`](https://google.com/search?q=Tumeny+Payments+Limited) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
-| 2024-12-14 | [`www.midlandturbo.com`](https://google.com/search?q=www.midlandturbo.com) | [eldorado](https://ransomwatch.telemetry.ltd/#/profiles?id=eldorado) |
-| 2024-12-14 | [`fbchighsprings.org`](https://google.com/search?q=fbchighsprings.org) | [eldorado](https://ransomwatch.telemetry.ltd/#/profiles?id=eldorado) |
-| 2024-12-14 | [`www.kandelaar.com`](https://google.com/search?q=www.kandelaar.com) | [eldorado](https://ransomwatch.telemetry.ltd/#/profiles?id=eldorado) |
-| 2024-12-14 | [`www.lightspeeddesign.com`](https://google.com/search?q=www.lightspeeddesign.com) | [eldorado](https://ransomwatch.telemetry.ltd/#/profiles?id=eldorado) |
-| 2024-12-14 | [`Levinlaw.com`](https://google.com/search?q=Levinlaw.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-12-14 | [`American Computer Estimating Inc`](https://google.com/search?q=American+Computer+Estimating+Inc) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2024-12-14 | [`MedRevenu Inc`](https://google.com/search?q=MedRevenu+Inc) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2024-12-14 | [`Mid Florida Primary Care`](https://google.com/search?q=Mid+Florida+Primary+Care) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2024-12-14 | [`TWRU CPAs and Financial Advisors`](https://google.com/search?q=TWRU+CPAs+and+Financial+Advisors) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2024-12-13 | [`Anetic Aid`](https://google.com/search?q=Anetic+Aid) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
-| 2024-12-13 | [`Tri County Property Management`](https://google.com/search?q=Tri+County+Property+Management) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
-| 2024-12-13 | [`Archdiocese of Louisville`](https://google.com/search?q=Archdiocese+of+Louisville) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
-| 2024-12-13 | [`tekni-plex.com`](https://google.com/search?q=tekni-plex.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
