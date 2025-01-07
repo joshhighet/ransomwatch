@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-01-07 | [`Saint-Bar (saintbar.be)`](https://google.com/search?q=Saint-Bar+%28saintbar.be%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2025-01-07 | [`u0 Excel Transportation`](https://google.com/search?q=u0+Excel+Transportation) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-01-07 | [`D-7 Roofing`](https://google.com/search?q=D-7+Roofing) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-01-07 | [`Sunflower Medical Group`](https://google.com/search?q=Sunflower+Medical+Group) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-12-17 | [`Kilgore Industries `](https://google.com/search?q=Kilgore+Industries+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
 | 2024-12-17 | [`kuritaamerica.com`](https://google.com/search?q=kuritaamerica.com) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
 | 2024-12-17 | [`A Beautiful Pools Inc `](https://google.com/search?q=A+Beautiful+Pools+Inc+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
-| 2024-12-17 | [`Fireproof Contractors Inc `](https://google.com/search?q=Fireproof+Contractors+Inc+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
