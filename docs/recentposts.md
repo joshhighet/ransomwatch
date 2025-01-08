@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-01-08 | [`Huntington Hotel Group`](https://google.com/search?q=Huntington+Hotel+Group) | [termite](https://ransomwatch.telemetry.ltd/#/profiles?id=termite) |
+| 2025-01-08 | [`fwmep.edu`](https://google.com/search?q=fwmep.edu) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-01-08 | [`sahpetrol.com.tr`](https://google.com/search?q=sahpetrol.com.tr) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-01-08 | [`acquafertil.com.br`](https://google.com/search?q=acquafertil.com.br) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-01-08 | [`General Digital`](https://google.com/search?q=General+Digital) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-12-18 | [`Medion AG`](https://google.com/search?q=Medion+AG) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-12-18 | [`Avstar Fuel Systems`](https://google.com/search?q=Avstar+Fuel+Systems) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2024-12-17 | [`Tharisa`](https://google.com/search?q=Tharisa) | [termite](https://ransomwatch.telemetry.ltd/#/profiles?id=termite) |
-| 2024-12-17 | [`Modern Dental Group Limited`](https://google.com/search?q=Modern+Dental+Group+Limited) | [braincipher](https://ransomwatch.telemetry.ltd/#/profiles?id=braincipher) |
-| 2024-12-17 | [`choicemg.com`](https://google.com/search?q=choicemg.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
