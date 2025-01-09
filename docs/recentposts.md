@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-01-09 | [`drive-lines.com`](https://google.com/search?q=drive-lines.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2025-01-09 | [`depewgillen.com`](https://google.com/search?q=depewgillen.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-01-09 | [`castlehillha.co.uk`](https://google.com/search?q=castlehillha.co.uk) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-01-09 | [`azpay.me - SOLD`](https://google.com/search?q=azpay.me+-+SOLD) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2025-01-09 | [`alansarioman.com`](https://google.com/search?q=alansarioman.com) | [embargo](https://ransomwatch.telemetry.ltd/#/profiles?id=embargo) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-12-18 | [`National Atomic Energy Commission`](https://google.com/search?q=National+Atomic+Energy+Commission) | [moneymessage](https://ransomwatch.telemetry.ltd/#/profiles?id=moneymessage) |
 | 2024-12-18 | [`Cottrell P.C.`](https://google.com/search?q=Cottrell+P.C.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-12-18 | [`Gagne, LLC.`](https://google.com/search?q=Gagne%2C+LLC.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2024-12-18 | [`www.prixet.com`](https://google.com/search?q=www.prixet.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
-| 2024-12-18 | [`Vroninks Ricker Weyts &amp; Sacre- Notaires (notassoc.be)`](https://google.com/search?q=Vroninks+Ricker+Weyts+%26amp%3B+Sacre-+Notaires+%28notassoc.be%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
