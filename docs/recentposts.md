@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-01-09 | [`azpay.me - SOLD`](https://google.com/search?q=azpay.me+-+SOLD) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2025-01-09 | [`alansarioman.com`](https://google.com/search?q=alansarioman.com) | [embargo](https://ransomwatch.telemetry.ltd/#/profiles?id=embargo) |
 | 2025-01-09 | [`Sarah Car Care Data Leak`](https://google.com/search?q=Sarah+Car+Care+Data+Leak) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2025-01-09 | [`Myhealthcarebilling Data Leak`](https://google.com/search?q=Myhealthcarebilling+Data+Leak) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-12-18 | [`www.prixet.com`](https://google.com/search?q=www.prixet.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2024-12-18 | [`Vroninks Ricker Weyts &amp; Sacre- Notaires (notassoc.be)`](https://google.com/search?q=Vroninks+Ricker+Weyts+%26amp%3B+Sacre-+Notaires+%28notassoc.be%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2024-12-18 | [`massdevelopment.com\$24.6M\USA\1.2TB\&lt;1% DISCLOSED`](https://google.com/search?q=massdevelopment.com%5C%2424.6M%5CUSA%5C1.2TB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2024-12-18 | [`Furmano’s`](https://google.com/search?q=Furmano%E2%80%99s) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
