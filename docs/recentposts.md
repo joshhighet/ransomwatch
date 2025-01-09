@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-01-09 | [`Fukoku Co. Ltd.`](https://google.com/search?q=Fukoku+Co.+Ltd.) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2025-01-08 | [`bendixengineering`](https://google.com/search?q=bendixengineering) | [ransomblog_noname](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomblog_noname) |
 | 2025-01-08 | [`kingpower.com`](https://google.com/search?q=kingpower.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
 | 2025-01-08 | [`Huntington Hotel Group`](https://google.com/search?q=Huntington+Hotel+Group) | [termite](https://ransomwatch.telemetry.ltd/#/profiles?id=termite) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-12-18 | [`Active Dynamics`](https://google.com/search?q=Active+Dynamics) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-12-18 | [`Bath Fitter`](https://google.com/search?q=Bath+Fitter) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-12-18 | [`Grimaldi Alliance`](https://google.com/search?q=Grimaldi+Alliance) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2024-12-18 | [`Medion AG`](https://google.com/search?q=Medion+AG) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
