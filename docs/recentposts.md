@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-01-11 | [`Jim Thompson`](https://google.com/search?q=Jim+Thompson) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
+| 2025-01-11 | [`Astaphans`](https://google.com/search?q=Astaphans) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-01-11 | [`Unisource Information Services`](https://google.com/search?q=Unisource+Information+Services) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2025-01-11 | [`T. Hasegawa USA`](https://google.com/search?q=T.+Hasegawa+USA) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2025-01-11 | [`RocSearch`](https://google.com/search?q=RocSearch) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-12-21 | [`www.groupe-setcar.com.tn`](https://google.com/search?q=www.groupe-setcar.com.tn) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-12-21 | [`K****S CORP`](https://google.com/search?q=K%2A%2A%2A%2AS+CORP) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
 | 2024-12-20 | [`Accolent ERP Software`](https://google.com/search?q=Accolent+ERP+Software) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
-| 2024-12-20 | [`gilariver.org`](https://google.com/search?q=gilariver.org) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-12-20 | [`Izmocars`](https://google.com/search?q=Izmocars) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
