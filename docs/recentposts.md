@@ -4,6 +4,12 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-01-13 | [`SERGAS Group`](https://google.com/search?q=SERGAS+Group) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
+| 2025-01-13 | [`Conad (conad.lan)`](https://google.com/search?q=Conad+%28conad.lan%29) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
+| 2025-01-13 | [`Novati Constructions`](https://google.com/search?q=Novati+Constructions) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
+| 2025-01-13 | [`Browdy (bl.local)`](https://google.com/search?q=Browdy+%28bl.local%29) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
+| 2025-01-13 | [`PHG CPAs (bushman.biz)`](https://google.com/search?q=PHG+CPAs+%28bushman.biz%29) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
+| 2025-01-13 | [`Nash Brothers Construction (nashdom.local)`](https://google.com/search?q=Nash+Brothers+Construction+%28nashdom.local%29) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-01-13 | [`Delap & Waller`](https://google.com/search?q=Delap+%26+Waller) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-01-13 | [`healthcarewithinreach.org`](https://google.com/search?q=healthcarewithinreach.org) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-01-13 | [`telering.de`](https://google.com/search?q=telering.de) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -198,9 +204,3 @@ _last `200` posts_
 | 2024-12-22 | [`ibericar - Press Release`](https://google.com/search?q=ibericar+-+Press+Release) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2024-12-21 | [`J AND S Electrical And Lighting Supply LLC`](https://google.com/search?q=J+AND+S+Electrical+And+Lighting+Supply+LLC) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-12-21 | [`LAMERS ENTERPRISE INC`](https://google.com/search?q=LAMERS+ENTERPRISE+INC) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
-| 2024-12-21 | [`Langford Tool And Drill Co`](https://google.com/search?q=Langford+Tool+And+Drill+Co) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
-| 2024-12-21 | [`McCally Tool and Supply`](https://google.com/search?q=McCally+Tool+and+Supply) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
-| 2024-12-21 | [`Albert Paper Company`](https://google.com/search?q=Albert+Paper+Company) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
-| 2024-12-21 | [`Allied Packing And Rubber Inc`](https://google.com/search?q=Allied+Packing+And+Rubber+Inc) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
-| 2024-12-21 | [`Avana Electrotek`](https://google.com/search?q=Avana+Electrotek) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
-| 2024-12-21 | [`Badger Popcorn And Concession Supply Company`](https://google.com/search?q=Badger+Popcorn+And+Concession+Supply+Company) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
