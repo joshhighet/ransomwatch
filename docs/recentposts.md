@@ -4,6 +4,12 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-01-14 | [`WPD.WOODPORTDOORS.COM`](https://google.com/search?q=WPD.WOODPORTDOORS.COM) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
+| 2025-01-14 | [`QualiTech (qualitech.com)`](https://google.com/search?q=QualiTech+%28qualitech.com%29) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
+| 2025-01-14 | [`Kinseth Hospitality Companies `](https://google.com/search?q=Kinseth+Hospitality+Companies+) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
+| 2025-01-14 | [`Douglas County, GA (DDCWSA.COM)`](https://google.com/search?q=Douglas+County%2C+GA+%28DDCWSA.COM%29) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
+| 2025-01-14 | [`Buttery (butterycompany.com)`](https://google.com/search?q=Buttery+%28butterycompany.com%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
+| 2025-01-14 | [`pittman-construction.com`](https://google.com/search?q=pittman-construction.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2025-01-14 | [`The University of Oklahoma (ou.edu)`](https://google.com/search?q=The+University+of+Oklahoma+%28ou.edu%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2025-01-14 | [`SciTech Services, Inc.`](https://google.com/search?q=SciTech+Services%2C+Inc.) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2025-01-14 | [`Farmacia Cofar`](https://google.com/search?q=Farmacia+Cofar) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
@@ -198,9 +204,3 @@ _last `200` posts_
 | 2024-12-23 | [`It seems that it was easier to pay and calmly fix everything.`](https://google.com/search?q=It+seems+that+it+was+easier+to+pay+and+calmly+fix+everything.) | [braincipher](https://ransomwatch.telemetry.ltd/#/profiles?id=braincipher) |
 | 2024-12-23 | [`awimc.com\$102.7M\USA\440GB\&lt;1% DISCLOSED`](https://google.com/search?q=awimc.com%5C%24102.7M%5CUSA%5C440GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-12-23 | [`tsebrakes.com`](https://google.com/search?q=tsebrakes.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-12-23 | [`marmon-herrington.com`](https://google.com/search?q=marmon-herrington.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-12-23 | [`n4telecom.com.br`](https://google.com/search?q=n4telecom.com.br) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
-| 2024-12-23 | [`federalbank.co.in`](https://google.com/search?q=federalbank.co.in) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
-| 2024-12-23 | [`intellinet-es.com`](https://google.com/search?q=intellinet-es.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-12-23 | [`SmartLynx Airlines SIA`](https://google.com/search?q=SmartLynx+Airlines+SIA) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2024-12-23 | [`galatachemicals.com\$100M\USA\1.7TB\&lt;1% DISCLOSED`](https://google.com/search?q=galatachemicals.com%5C%24100M%5CUSA%5C1.7TB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
