@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-01-15 | [`AKConstructors.com`](https://google.com/search?q=AKConstructors.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2025-01-15 | [`fplfood.com\$675M\USA\21GB\&lt;1% DISCLOSED`](https://google.com/search?q=fplfood.com%5C%24675M%5CUSA%5C21GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2025-01-15 | [`pnp.co.za`](https://google.com/search?q=pnp.co.za) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2025-01-15 | [`Woodport Doors`](https://google.com/search?q=Woodport+Doors) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-01-15 | [`communisis.com & paragon.world`](https://google.com/search?q=communisis.com+%26+paragon.world) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-12-26 | [`http://www.advokatur-bl.ch`](https://google.com/search?q=http%3A%2F%2Fwww.advokatur-bl.ch) | [ciphbit](https://ransomwatch.telemetry.ltd/#/profiles?id=ciphbit) |
 | 2024-12-26 | [`Car Care Plan - Data Breach`](https://google.com/search?q=Car+Care+Plan+-+Data+Breach) | [hellcat](https://ransomwatch.telemetry.ltd/#/profiles?id=hellcat) |
 | 2024-12-25 | [`Reutone Hacked`](https://google.com/search?q=Reutone+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
-| 2024-12-25 | [`Aroma Housewares Co (Aromaco.com)`](https://google.com/search?q=Aroma+Housewares+Co+%28Aromaco.com%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
-| 2024-12-25 | [`STIIIZY Happy New 20025 !`](https://google.com/search?q=STIIIZY+Happy+New+20025+%21) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
