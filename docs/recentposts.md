@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-01-15 | [`J.G. Electrical Installations`](https://google.com/search?q=J.G.+Electrical+Installations) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
 | 2025-01-14 | [`udb.net`](https://google.com/search?q=udb.net) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-01-14 | [`The Chicano Federation`](https://google.com/search?q=The+Chicano+Federation) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2025-01-14 | [`WPD.WOODPORTDOORS.COM`](https://google.com/search?q=WPD.WOODPORTDOORS.COM) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-12-24 | [`relate-infotech.com`](https://google.com/search?q=relate-infotech.com) | [eldorado](https://ransomwatch.telemetry.ltd/#/profiles?id=eldorado) |
 | 2024-12-24 | [`linebank.co.id`](https://google.com/search?q=linebank.co.id) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2024-12-23 | [`acwlaw.com`](https://google.com/search?q=acwlaw.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-12-23 | [`It seems that it was easier to pay and calmly fix everything.`](https://google.com/search?q=It+seems+that+it+was+easier+to+pay+and+calmly+fix+everything.) | [braincipher](https://ransomwatch.telemetry.ltd/#/profiles?id=braincipher) |
