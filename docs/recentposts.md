@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-01-16 | [`Access Capital Partners SA`](https://google.com/search?q=Access+Capital+Partners+SA) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-01-15 | [`Combined Pool and Spa`](https://google.com/search?q=Combined+Pool+and+Spa) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
 | 2025-01-15 | [`Lowe Engineers`](https://google.com/search?q=Lowe+Engineers) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-01-15 | [`AKConstructors.com`](https://google.com/search?q=AKConstructors.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-12-26 | [`Ober Mountain (OberGatlinburg.com)`](https://google.com/search?q=Ober+Mountain+%28OberGatlinburg.com%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2024-12-26 | [`Associates`](https://google.com/search?q=Associates) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-12-26 | [`Caframo Limited.`](https://google.com/search?q=Caframo+Limited.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2024-12-26 | [`http://www.advokatur-bl.ch`](https://google.com/search?q=http%3A%2F%2Fwww.advokatur-bl.ch) | [ciphbit](https://ransomwatch.telemetry.ltd/#/profiles?id=ciphbit) |
