@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-01-17 | [`peponline.org`](https://google.com/search?q=peponline.org) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
+| 2025-01-17 | [`Washington Gastroenterology (DHSWA.NET)`](https://google.com/search?q=Washington+Gastroenterology+%28DHSWA.NET%29) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
+| 2025-01-17 | [`Kilgore College (kilgore.edu)`](https://google.com/search?q=Kilgore+College+%28kilgore.edu%29) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-01-16 | [`Real Tax`](https://google.com/search?q=Real+Tax) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
 | 2025-01-16 | [`Fish Nelson and Holden`](https://google.com/search?q=Fish+Nelson+and+Holden) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2025-01-16 | [`Solaris Pharma proof`](https://google.com/search?q=Solaris+Pharma+proof) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2024-12-28 | [`Cell C`](https://google.com/search?q=Cell+C) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2024-12-28 | [`Youth Eastside Services`](https://google.com/search?q=Youth+Eastside+Services) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2024-12-28 | [`Atos (Business Services · France)`](https://google.com/search?q=Atos+%28Business+Services+%C2%B7+France%29) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
-| 2024-12-28 | [`Farrar & Ball`](https://google.com/search?q=Farrar+%26+Ball) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
-| 2024-12-27 | [`vinati`](https://google.com/search?q=vinati) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-12-27 | [`falp.org`](https://google.com/search?q=falp.org) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
