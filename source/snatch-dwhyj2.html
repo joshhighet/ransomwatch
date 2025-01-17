@@ -1,288 +1,347 @@
 <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="icon" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAIAAACQd1PeAAAADElEQVQI12P4//8/AAX+Av7czFnnAAAAAElFTkSuQmCC">
-    <link rel="preconnect" href="https://www.google.com" crossorigin="">
-<title>dwhyj2.top</title><meta name="description" content="See relevant content for dwhyj2.top"><style>* {
-  font-smoothing: antialiased;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>dwhyj2.top</title>
+    <style media="screen">
+.asset_star0 {
+	background: url('//d38psrni17bvxu.cloudfront.net/themes/assets/star0.gif') no-repeat center;
+	width: 13px;
+	height: 12px;
+	display: inline-block;
 }
 
-html, body {
-  width: 100%;
-  margin: 0;
+.asset_star1 {
+	background: url('//d38psrni17bvxu.cloudfront.net/themes/assets/star1.gif') no-repeat center;
+	width: 13px;
+	height: 12px;
+	display: inline-block;
 }
 
-html {
-  background-color: #2B2B2B;
-  height: 100%;
+.asset_starH {
+	background: url('//d38psrni17bvxu.cloudfront.net/themes/assets/starH.gif') no-repeat center;
+	width: 13px;
+	height: 12px;
+	display: inline-block;
+}
+
+.sitelink {
+	padding-right: 16px;
+}
+
+.sellerRatings a:link,
+.sellerRatings a:visited,
+.sellerRatings a:hover,
+.sellerRatings a:active {
+	text-decoration: none;
+	cursor: text;
+}
+
+.sellerRatings {
+	margin:0 0 3px 20px;
+}
+
+.sitelinkHolder {
+	margin:-15px 0 15px 35px;
+}
+
+#ajaxloaderHolder {
+	display: block;
+	width: 24px;
+	height: 24px;
+	background: #fff;
+	padding: 8px 0 0 8px;
+	margin:10px auto;
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+}</style>    <style media="screen">
+* {
+    margin:0;padding:0
 }
 
 body {
-  min-height: 90%;
-  font-family: Arial, sans-serif;
-  letter-spacing: 1.2px;
-  color: #ccc;
-  text-align: center;
-}
-
-/* App Target - This starts hidden until we apply a class to "activate" it */
-
-#target {
-  opacity: 0;
-  visibility: hidden;
-}
-
-/* Status Messages - These are displayed when we are not rendering ad blocks or Related Search */
-
-#pk-status-message {
-  height: 75vh;
-  width: 100%;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-}
-
-/* Sales Box - Default State */
-
-#sales-box {
-  display: block;
-  width: 100%;
-  padding: 3px;
-  text-align: center;
-  text-decoration: none;
-  color: #8EABC0;
-}
-
-#sales-box a {
-  display: block;
-  width: 100%;
-  text-decoration: inherit;
-  color: #8EABC0;
-  cursor: pointer;
-}
-
-/* Sales Box - Highlighted State */
-
-#sales-box.is-highlighted {
-  position: relative;
-  z-index: 1;
-  background: #032438 linear-gradient(to top, #044368 0%, #000 100%);
-  box-shadow: 0 0 15px 0 #000;
-  border-bottom: 3px solid #262626;
-}
-
-#sales-box.is-highlighted a {
-  line-height: 1.3;
-  display: inline-block;
-  font-size: 18px;
-  color: #fff;
-  text-shadow: 1px 1px 0 rgba(0, 0, 0, 0.5);
-  background: none;
-}
-
-/* Ellipsis Loader */
-
-.pk-loader {
-  display: inline-block;
-  position: relative;
-  width: 80px;
-  height: 80px;
-}
-
-.pk-loader div {
-  position: absolute;
-  top: 33px;
-  width: 13px;
-  height: 13px;
-  border-radius: 50%;
-  background: #ccc;
-  animation-timing-function: cubic-bezier(0, 1, 1, 0);
-}
-
-.pk-loader div:nth-child(1) {
-  left: 8px;
-  animation: pk-anim-1 0.6s infinite;
-}
-
-.pk-loader div:nth-child(2) {
-  left: 8px;
-  animation: pk-anim-2 0.6s infinite;
-}
-
-.pk-loader div:nth-child(3) {
-  left: 32px;
-  animation: pk-anim-2 0.6s infinite;
-}
-
-.pk-loader div:nth-child(4) {
-  left: 56px;
-  animation: pk-anim-1 0.6s infinite;
-  animation-direction: reverse;
-}
-
-.pk-loader-text {
-  position: fixed;
-  font-size: 12px;
-  right: 20px;
-  bottom: 20px;
-  font-weight: lighter;
-}
-
-/* Utilities */
-
-.pk-message-title {
-  font-size: 2em;
-  font-weight: bold;
-}
-
-.pk-page-ready {
-  opacity: 1 !important;
-  visibility: visible !important;
-}
-
-@media only screen and (max-width: 600px) {
-  .hidden-xs {
-    opacity: 0;
-    visibility: hidden;
-  }
-}
-
-/* Animation */
-
-@keyframes pk-anim-1 {
-  0% {
-      transform: scale(0);
-  }
-  100% {
-      transform: scale(1);
-  }
-}
-
-@keyframes pk-anim-2 {
-  0% {
-      transform: translate(0, 0);
-  }
-  100% {
-      transform: translate(24px, 0);
-  }
-}
-</style><style>:root {
-  --rswidth: 700px;
-  --sales-banner-height: 0;
-}
-
-body, html {
-    font-family: sans-serif, 'Arial';
-    height: 100%;
-    background-color: #2B2B2B;
-    margin: 0 !important;
-    position: relative;
-    overflow-x: hidden;
-}
-
-#target {
-    position: relative;
-    height: auto;
-    margin: 0 auto !important;
-}
-main {
+    background:#101c36;
+    font-family: sans-serif;
     text-align: center;
-    margin: 0 auto;
-    min-height: 100vh;
-    display: flex;
-    position: relative;
-    z-index: 2;
-    align-items: center;
-    justify-content: start;
-    flex-direction: column;
+    font-size:1rem;
 }
-header {
-    text-align: center;
-    padding: 45px 0;
+
+.header {
+    padding:1rem 1rem 0;
+    overflow:hidden;
 }
-header h1 {
-    font-size: 29px;
-    color: #ccc;
-    text-transform: uppercase;
-    margin: 0;
+
+h1 {
+    color:#848484;
+    font-size:1.5rem;
 }
-main section {
-    flex: 1;
-    padding: 20px;
-    width: 100%;
-    display: flex;
-    align-items: center;
-    justify-content: start;
-    flex-direction: column;
+
+.header-text-color:visited,
+.header-text-color:link,
+.header-text-color {
+    color:#848484;
 }
-section .ad-block {
-    width: 100%;
+
+.comp-is-parked {
+  margin: 4px 0 2px;
+}
+
+.comp-sponsored {
+  text-align: left;
+  margin: 0 0 -1.8rem 4px;
+}
+
+.wrapper1 {
+    margin:1rem;
+}
+
+.wrapper2 {
+    background:url('//d38psrni17bvxu.cloudfront.net/themes/cleanPeppermintBlack_657d9013/img/bottom.png') no-repeat center bottom;
+    padding-bottom:140px;
+}
+
+.wrapper3 {
+    background:#fff;
+    max-width:300px;
+    margin:0 auto 1rem;
+    padding-top:1px;
+    padding-bottom:1px;
+}
+
+.onDesktop {
+    display:none;
+}
+
+.tcHolder {
+    padding-top: 2rem;
+}
+
+.adsHolder {
+    margin: 1rem 0;
+    padding-top: 2rem;
+    overflow:hidden;
+}
+
+.footer {
+    color:#626574;
+    padding:2rem 1rem;
+    font-size:.8rem;
+    margin:0 auto;
+    max-width:440px;
+}
+
+.footer a:link,
+.footer a:visited {
+    color:#626574;
+}
+
+.sale_link_bold a,
+.sale_link,
+.sale_link a {
+    color:#626574 !important;
+}
+
+.searchHolder {
+    padding:1px 0 1px 1px;
+    margin:1rem auto;
+    width: 95%;
     max-width: 500px;
-    height: 100%;
-
 }
-#rs {
+
+@media screen and (min-width:600px) {
+
+    .comp-is-parked,
+    .comp-sponsored {
+      color: #848484;
+    }
+
+    .comp-sponsored {
+      margin-left: 0;
+    }
+
+    .wrapper1 {
+        max-width:1500px;
+        margin-left:auto;
+        margin-right:auto;
+    }
+
+    .wrapper2 {
+        background:url('//d38psrni17bvxu.cloudfront.net/themes/cleanPeppermintBlack_657d9013/img/arrows.png') no-repeat center top;
+        padding-bottom:0;
+        min-height:600px;
+    }
+
+    .wrapper3 {
+        max-width:530px;
+        background:none;
+    }
+}
+</style>    <style media="screen">
+.fallback-term-holder {
+    display: inline-grid;
+    grid-template-columns: 1fr;
     width: 100%;
-    max-width: var(--rswidth);
-    min-height: 480px;
-    height: 100%;
-}
-footer {
-    font-size: 14px;
-    text-align: center;
-    padding: 30px 0px;
-    width: 100%;
-    color: #555;
-}
-footer a {
-    color: #555;
+    padding-top: 50px;
 }
 
-#sales-banner {
-    height: var(--sales-banner-height);
-} 
+.fallback-term-link {
+    grid-column: 1 / span 1; align-self: center;
+    padding: 50px 13px 50px 13px; border-radius: 25px;
+    border: 5px solid #ffffff; margin-bottom: 20px;
+    background-color: rgb(17, 38, 77);
+    text-decoration-line: none;
+    font-size: 18px;
+    font-weight: 700;
+    color: #ffffff;
+    text-align: left;
+}
 
-#sales-banner.top { 
-    margin-bottom: 8px; 
-} 
+.fallback-arrow {
+    float: right;
+    width: 24px;
+    height: 24px;
+    background-image: url('data:image/svg+xml;base64,PHN2ZyBmaWxsPScjRDdEN0Q3JyBzdHlsZT0iZmxvYXQ6IHJpZ2h0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjI0Ij48cGF0aCBkPSJNMCAwaDI0djI0SDB6IiBmaWxsPSJub25lIi8+PHBhdGggZD0iTTUuODggNC4xMkwxMy43NiAxMmwtNy44OCA3Ljg4TDggMjJsMTAtMTBMOCAyeiIvPjwvc3ZnPg==');
+}</style>
+    <meta name="description" content="This domain may be for sale!">
+            <style>
+            @media (min-width: 600px) {
+                .tcHolder {
+                    margin-top: 3rem
+                }
+            }
+            </style>
+    <script src="https://obseu.netgreencolumn.com/ct?id=77721&amp;url=http%3A%2F%2Fww38.dwhyj2.top%2F&amp;sf=0&amp;tpi=&amp;ch=landingpage&amp;uvid=8590&amp;tsf=0&amp;tsfmi=&amp;tsfu=&amp;cb=1737129980159&amp;hl=1&amp;op=0&amp;ag=3678426874&amp;rand=03185019104777227259012271950629047056889280291170061697195067015955889288859058021910&amp;fs=1366x682&amp;fst=1366x682&amp;np=linux%20x86_64&amp;nv=&amp;ref=&amp;ss=1366x768&amp;nc=0&amp;at=&amp;di=W1siZWYiLDQzOTddLFsiYWJuY2giLDldLFstMTMsIi0iXSxbLTMzLCItIl0sWy00NCwiMCw1LDAsNSJdLFstNTYsImxhbmRzY2FwZS1wcmltYXJ5Il0sWy01NywiUzNsUlRVMUpTZ01XRmx4TVZsc1hWMXhOWGt0Y1hGZGFWbFZNVkZjWFdsWlVGa3BCU1JaUUZsb05Ed2tJWEF4ZkQxcGRYUTRLQ3dnUFdsaGZYVjBNV0Y4TENRQUxDUWhhRjFOS0F3Z0REZ3NQRFEwVlRSZGNRVWxXUzAxS0ZnVjVVVTFOU1VvREZoWmNURlpiRjFkY1RWNUxYRnhYV2xaVlRGUlhGMXBXVkJaS1FVa1dVQlphRFE4SkNGd01YdzlhWFYwT0Nnc0lEMXBZWDExZERGaGZDd2tBQ3drSVdoZFRTZ01JQXc0TEFRMEoiXSxbLTY4LCItIl0sWy0zMSwidHJ1ZSJdLFstNTIsIi0iXSxbLTY1LCItIl0sWy0xLCJMaW51eCB4ODZfNjQiXSxbLTM4LCJpLC0xLC0xLDI3NywwLDEsMCwxMzQsOCwyMDQsLTEsMCwsMTI1NywxNDIxLDE0MjAiXSxbLTQzLCIwMDAwMDAwMTAwMDAwMDAwMDAxMTEwMDEwMDAwMDEwMDAwMDAwMDAiXSxbLTU1LCIwIl0sWy02NiwiLSJdLFstOSwiKyJdLFstMTYsIjAiXSxbLTIxLCItIl0sWy0yOSwiLSJdLFstNDUsIjc1MiwwLDAsMCwwLDAsNzYxLDAsNjQ4LDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCJdLFstMTgsIlswLDAsMCwxXSJdLFstMTksIlswLDAsMCwwLDAsMCwxLDI0LDI0LFwiLVwiLDEzNjYsNzY4LDEzNjYsNzY4LDEzNjYsNzY4LDEzNjYsNjgyLDAsMCwwLDAsXCItXCIsXCItXCIsMTM1NCw2ODIsbnVsbF0iXSxbLTIzLCIrIl0sWy0zNywiLSJdLFstNDksIi0iXSxbLTUzLCIwMDEiXSxbLTU5LCJkZW5pZWQiXSxbLTYwLCItIl0sWy00LCItIl0sWy02LCJ7XCJ3XCI6W1wiMFwiLFwidGxpbmtcIixcInRjYmxvY2tcIixcInNlYXJjaGJveEJsb2NrXCIsXCJnZXRYTUxodHRwXCIsXCJhamF4UXVlcnlcIixcImFqYXhCYWNrZmlsbFwiLFwibG9hZEZlZWRcIixcInhtbEh0dHBcIixcImxzXCIsXCJnZXRMb2FkRmVlZEFyZ3VtZW50c1wiLFwiX19jdGNnX2N0Xzc3NzIxX2V4ZWNcIixcImdvb2dsZU5EVF9cIixcImdvb2dsZUFsdExvYWRlclwiLFwiZ29vZ2xlXCIsXCJfX3Nhc0Nvb2tpZVwiXSxcIm5cIjpbXSxcImRcIjpbXX0iXSxbLTgsIi0iXSxbMTIsIntcImVcIjowLFwid2dsXCI6MX0iXSxbLTE1LCItIl0sWy0yOCwiZW4tVVMsZW4iXSxbLTQyLCI4ODMzOTkwMTYiXSxbLTQ2LCIwIl0sWy01OCwiLSJdLFstNjIsIjU4Il0sWy01LCItIl0sWy0yNCwiW10iXSxbLTI2LCItIl0sWy0zMiwiMCJdLFstMzUsIlsxNzM3MTI5OTc5OTEyLDBdIl0sWy0zNiwiW1wiNjgzLzM4NFwiLFwiNjgzLzM4NFwiXSJdLFstNTAsIi0iXSxbLTU0LCJ7XCJoXCI6W1wieG1sbnNcIixcImh0dHA6Ly93d3cudzMub3JnLzE5OTkveGh0bWxcIixcIl8zXCIsXCJlblwiXSxcImRcIjpbXSxcImJcIjpbXCJfMFwiLFwiYWZkXCJdLFwic1wiOjB9Il0sWy02MywiLSJdLFstMywiW1wiaW50ZXJuYWwtcGRmLXZpZXdlclwiLFwiaW50ZXJuYWwtcGRmLXZpZXdlclwiLFwiaW50ZXJuYWwtcGRmLXZpZXdlclwiLFwiaW50ZXJuYWwtcGRmLXZpZXdlclwiLFwiaW50ZXJuYWwtcGRmLXZpZXdlclwiXSJdLFstMTAsIi0iXSxbLTQwLCIzNyJdLFstNDEsIi0iXSxbLTQ3LCJVVEMsZW4tVVMsbGF0bixncmVnb3J5Il0sWy02OSwiTGludXggeDg2XzY0fHx8NHwtfC0iXSxbLTE0LCItIl0sWy0zMCwiW1widlwiLDBdIl0sWy0zNCwiLSJdLFstMzksIltcIjIwMTAwMTAxXCIsMixcIkdlY2tvXCIsXCJOZXRzY2FwZVwiLFwiTW96aWxsYVwiLFwiMjAxODEwMDEwMDAwMDBcIixudWxsLGZhbHNlLG51bGwsZmFsc2UsbnVsbCw1LHRydWUsZmFsc2UsbnVsbCwwLGZhbHNlLGZhbHNlXSJdLFstNTEsIi0iXSxbLTYxLCItIl0sWy02NCwiLSJdLFstNywiLSJdLFstMTEsIntcInRcIjpcIlwiLFwibVwiOltcImRlc2NyaXB0aW9uXCJdfSJdLFstMjAsIi0iXSxbLTI1LCItIl0sWy0yNywiLSJdLFstNjcsIi0iXSxbLTcwLCItIl0sWy03MSwiYTAxMTAwMTAxMDAxMDAxMDEwMDAxMDEwMDExMTExMDAwMDAwMTAiXSxbImJuY2giLDQ3MV0sWy0yLCI0MixGQkVWQlJyQ0FxWWdFQjI0cWQxVVZGWFZkZHNhTzBSYXpyMmxmRjNoVkZWRVNzMkhjdGExZEVtbElEQ2FsVDd0eitQZWZPM09UT0pGSDB2MS81ZllOeGFtNW0zdWMrcHp6bm5IIl0sWy0xMiwiXCJ1bnNwZWNpZmllZFwiIl0sWy0xNywiNCJdLFstMjIsIltcIm5cIixcIm5cIl0iXSxbLTQ4LCIwLDAiXSxbImRkYiIsIjAsNDMsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMSwwLDAsMCwwLDAsMCwxLDAsMCwwLDAsMCwwLDEsMCwwLDAsMCwwLDAsMCw3LDIsNTAsMCwxOTMsMCwwLDAsMCwwLDEsMCwwLDAsMCwxNSwwLDAsMCwwLDAsMCwwLDAsMCwwLDEsMSwwIl0sWyJjYiIsIjAsMCwwLDAsMCwwLDAsMSwwLDIxLDEsMCwzMSwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwyMCwwLDAsMCwwLDAsMSwwLDAsMCJdXQ%3D%3D&amp;dep=0&amp;pre=0&amp;sdd=&amp;cri=V112EtOQsK&amp;pto=1793&amp;ver=63&amp;gac=-&amp;mei=&amp;ap=&amp;fe=1&amp;duid=1.1737129980.TjlgD40atEoqzXmm&amp;suid=1.1737129980.sVNzEHWlPtdm8YdG&amp;tuid=1.1737129980.9LXJ7ePyAdXgAUUT&amp;fbc=-&amp;gtm=-&amp;it=11%2C638%2C117&amp;fbcl=-&amp;gacl=-&amp;gacsd=-&amp;rtic=-&amp;bgc=-&amp;spa=1&amp;urid=0&amp;ab=&amp;sck=-&amp;io=aGA2Og%3D%3D" async=""></script></head>
 
-#sales-banner.bottom { 
-    margin-top: 8px; 
-}</style></head>
-<body>
-<div id="target" style="opacity: 0" class="pk-page-ready">
+<body id="afd" style="visibility: visible;"><a href="#" tabindex="-1" aria-hidden="true" rel="nofollow" style="opacity: 0.01; position: absolute; z-index: -999; width: 54px; height: 22px;">___</a><div style="opacity: 0.01; position: absolute; z-index: -1000; width: 54px; height: 22px;"></div>
 
-<main>
+<div class="wrapper1">
     
-      <header>
-        <h1>dwhyj2.top</h1>
-      </header>
-    
-    <section>
-        <div class="ad-block">
-            <div class="ads">
-                <div id="ad-1"></div>
-                <div id="ad-2"></div>
+<style>
+    .sale_banner_gray {
+        background:#706b67;
+        background: -moz-linear-gradient(top, #817c78 0%, #5d5854 100%);
+        background: -webkit-linear-gradient(top, #817c78 0%,#5d5854 100%);
+        background: linear-gradient(to bottom, #817c78 0%,#5d5854 100%);
+        filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#817c78', endColorstr='#5d5854',GradientType=0 );
+        border-top: 1px solid #eee;
+        border-bottom: 1px solid #eee;
+        color: #c8c8c8;
+        text-align: center;
+        font: bold 16px/36px sans-serif;
+        height: 36px;
+    }
+
+    .sale_banner_gray a {
+        display: block;
+        color:#fff;
+        text-decoration: none;
+    }
+</style>
+
+
+	<script src="https://partner.googleadservices.com/gampad/cookie.js?domain=ww38.dwhyj2.top&amp;client=dp-teaminternet04_3ph&amp;product=SAS&amp;callback=__sasCookie&amp;cookie_types=v1%2Cv2"></script><script src="http://c.parkingcrew.net/scripts/sale_form.js" type="text/javascript"></script>
+
+<div class="sale_banner_gray" style="border-top:none">
+			<a href="http://www.sedo.com/search/details.php4?partnerid=&amp;domain=dwhyj2.top" target="_blank" onmousedown="tlink('ing', 'dwhyj2.top');">
+            Buy this domain.
+	</a>
+</div>
+    <div class="wrapper2">
+        <div class="wrapper3">
+            <br>
+    <script async="" src="https://euob.netgreencolumn.com/sxp/i/c4601e5f6cdd73216cafdd5af209201c.js" data-ch="landingpage" data-uvid="8590" class="ct_clicktrue_77721" data-jsonp="onCheqResponse"></script>
+<br>
+                        <div class="tcHolder">
+                <div id="tc" style="height: auto;"><iframe frameborder="0" marginwidth="0" marginheight="0" allowtransparency="true" scrolling="no" style="visibility: visible; height: 496px; display: block;" width="100%" name="{&quot;name&quot;:&quot;master-1&quot;,&quot;slave-1-1&quot;:{&quot;clicktrackUrl&quot;:&quot;https://trkpcna.net/track.php?click=caf&amp;domain=dwhyj2.top&amp;uid=MTczNzEyOTk3OC45MTI0OjFhNjg0ZWZhMGQzZmFhMDQxZDBlN2I4ZGJhZWNkZTlhOWNjM2VkOGY5ZDAyYTMxZWM4MjhmNTA3MGEwYmZhZDk6Njc4YTdmZmFkZWJlNQ%3D%3D&amp;ts=fENsZWFuUGVwcGVybWludEJsYWNrfHw1Y2U4NHxidWNrZXQwMjd8fHx8fHw2NzhhN2ZmYWRlYmFkfHx8MTczNzEyOTk3OC45Mzk3fGI0ZTEyNjYzMjEyYTc3ODUwNDFkM2ViYjZkNzVlNmVlYzZlYWI0MTh8fHx8fDF8fDB8MHx8fHwxfHx8fHwwfDB8fHx8fHx8fFpIQXRkR1ZoYldsdWRHVnlibVYwTURSZk0zQm98ZDgyZjM2MWZiZjFhMmNkYjk1Y2Y3NmRjNjczMTAzZDYzZWVlNTdiZHwwfDB8fDB8fHwwfDB8VzEwPXx8MXxXMTA9fDI4YTIzZDZjZTBhZTc0YWI3NThjMTgwNTUyMTIzZWQzMGE4MDJiYjh8MHxkcC10ZWFtaW50ZXJuZXQwNF8zcGh8MHwwfHx8fA%3D%3D&amp;adtest=off&quot;,&quot;container&quot;:&quot;search&quot;,&quot;styleId&quot;:7840396037,&quot;personalizedAds&quot;:false,&quot;channel&quot;:&quot;bucket007,bucket027&quot;,&quot;domainName&quot;:&quot;ww38.dwhyj2.top&quot;,&quot;fexp&quot;:&quot;21404,17301437,17301439,17301442,17301548,17301266,72717108&quot;,&quot;masterNumber&quot;:1,&quot;number&quot;:10,&quot;pubId&quot;:&quot;dp-teaminternet04_3ph&quot;,&quot;role&quot;:&quot;s&quot;,&quot;slaveNumber&quot;:1,&quot;hl&quot;:&quot;en&quot;,&quot;resultsPageBaseUrl&quot;:&quot;http://ww38.dwhyj2.top/?ts=fENsZWFuUGVwcGVybWludEJsYWNrfHw1Y2U4NHxidWNrZXQwMjd8fHx8fHw2NzhhN2ZmYWRlYmFkfHx8MTczNzEyOTk3OC45Mzk3fGI0ZTEyNjYzMjEyYTc3ODUwNDFkM2ViYjZkNzVlNmVlYzZlYWI0MTh8fHx8fDF8fDB8MHx8fHwxfHx8fHwwfDB8fHx8fHx8fFpIQXRkR1ZoYldsdWRHVnlibVYwTURSZk0zQm98ZDgyZjM2MWZiZjFhMmNkYjk1Y2Y3NmRjNjczMTAzZDYzZWVlNTdiZHwwfDB8fDB8fHwwfDB8VzEwPXx8MXxXMTA9fDI4YTIzZDZjZTBhZTc0YWI3NThjMTgwNTUyMTIzZWQzMGE4MDJiYjh8MHxkcC10ZWFtaW50ZXJuZXQwNF8zcGh8MHwwfHx8fA%3D%3D&quot;,&quot;resultsPageQueryParam&quot;:&quot;query&quot;,&quot;terms&quot;:&quot;&quot;,&quot;kw&quot;:&quot;&quot;,&quot;ie&quot;:&quot;UTF-8&quot;,&quot;maxTermLength&quot;:40,&quot;maxTop&quot;:null,&quot;minTop&quot;:null,&quot;oe&quot;:&quot;UTF-8&quot;,&quot;fontFamily&quot;:&quot;arial&quot;,&quot;type&quot;:&quot;searchbox&quot;,&quot;linkTarget&quot;:&quot;_blank&quot;,&quot;colorBackground&quot;:&quot;transparent&quot;,&quot;hideSearchInputBorder&quot;:false,&quot;hideSearchButtonBorder&quot;:true,&quot;colorSearchButton&quot;:&quot;#0b3279&quot;,&quot;colorSearchButtonText&quot;:&quot;#fff&quot;,&quot;fontSizeSearchInput&quot;:12,&quot;fontSizeSearchButton&quot;:13,&quot;uiOptimize&quot;:true,&quot;domainRegistrant&quot;:&quot;as-drid-2657853924491968&quot;},&quot;master-1&quot;:{&quot;clicktrackUrl&quot;:&quot;https://trkpcna.net/track.php?click=caf&amp;domain=dwhyj2.top&amp;uid=MTczNzEyOTk3OC45MTI0OjFhNjg0ZWZhMGQzZmFhMDQxZDBlN2I4ZGJhZWNkZTlhOWNjM2VkOGY5ZDAyYTMxZWM4MjhmNTA3MGEwYmZhZDk6Njc4YTdmZmFkZWJlNQ%3D%3D&amp;ts=fENsZWFuUGVwcGVybWludEJsYWNrfHw1Y2U4NHxidWNrZXQwMjd8fHx8fHw2NzhhN2ZmYWRlYmFkfHx8MTczNzEyOTk3OC45Mzk3fGI0ZTEyNjYzMjEyYTc3ODUwNDFkM2ViYjZkNzVlNmVlYzZlYWI0MTh8fHx8fDF8fDB8MHx8fHwxfHx8fHwwfDB8fHx8fHx8fFpIQXRkR1ZoYldsdWRHVnlibVYwTURSZk0zQm98ZDgyZjM2MWZiZjFhMmNkYjk1Y2Y3NmRjNjczMTAzZDYzZWVlNTdiZHwwfDB8fDB8fHwwfDB8VzEwPXx8MXxXMTA9fDI4YTIzZDZjZTBhZTc0YWI3NThjMTgwNTUyMTIzZWQzMGE4MDJiYjh8MHxkcC10ZWFtaW50ZXJuZXQwNF8zcGh8MHwwfHx8fA%3D%3D&amp;adtest=off&quot;,&quot;container&quot;:&quot;tc&quot;,&quot;styleId&quot;:7840396037,&quot;personalizedAds&quot;:false,&quot;channel&quot;:&quot;bucket007,bucket027&quot;,&quot;domainName&quot;:&quot;ww38.dwhyj2.top&quot;,&quot;fexp&quot;:&quot;21404,17301437,17301439,17301442,17301548,17301266,72717108&quot;,&quot;masterNumber&quot;:1,&quot;number&quot;:3,&quot;pubId&quot;:&quot;dp-teaminternet04_3ph&quot;,&quot;role&quot;:&quot;m&quot;,&quot;hl&quot;:&quot;en&quot;,&quot;resultsPageBaseUrl&quot;:&quot;http://ww38.dwhyj2.top/?ts=fENsZWFuUGVwcGVybWludEJsYWNrfHw1Y2U4NHxidWNrZXQwMjd8fHx8fHw2NzhhN2ZmYWRlYmFkfHx8MTczNzEyOTk3OC45Mzk3fGI0ZTEyNjYzMjEyYTc3ODUwNDFkM2ViYjZkNzVlNmVlYzZlYWI0MTh8fHx8fDF8fDB8MHx8fHwxfHx8fHwwfDB8fHx8fHx8fFpIQXRkR1ZoYldsdWRHVnlibVYwTURSZk0zQm98ZDgyZjM2MWZiZjFhMmNkYjk1Y2Y3NmRjNjczMTAzZDYzZWVlNTdiZHwwfDB8fDB8fHwwfDB8VzEwPXx8MXxXMTA9fDI4YTIzZDZjZTBhZTc0YWI3NThjMTgwNTUyMTIzZWQzMGE4MDJiYjh8MHxkcC10ZWFtaW50ZXJuZXQwNF8zcGh8MHwwfHx8fA%3D%3D&quot;,&quot;resultsPageQueryParam&quot;:&quot;query&quot;,&quot;terms&quot;:&quot;&quot;,&quot;kw&quot;:&quot;&quot;,&quot;ie&quot;:&quot;UTF-8&quot;,&quot;maxTermLength&quot;:40,&quot;maxTop&quot;:null,&quot;minTop&quot;:null,&quot;oe&quot;:&quot;UTF-8&quot;,&quot;fontFamily&quot;:&quot;arial&quot;,&quot;type&quot;:&quot;relatedsearch&quot;,&quot;linkTarget&quot;:&quot;_blank&quot;,&quot;colorBackground&quot;:&quot;transparent&quot;,&quot;uiOptimize&quot;:true,&quot;domainRegistrant&quot;:&quot;as-drid-2657853924491968&quot;}}" id="master-1" src="https://syndicatedsearch.goog/afs/ads?adtest=off&amp;psid=7840396037&amp;pcsa=false&amp;channel=bucket007%2Cbucket027&amp;client=dp-teaminternet04_3ph&amp;r=m&amp;hl=en&amp;rpbu=http%3A%2F%2Fww38.dwhyj2.top%2F%3Fts%3DfENsZWFuUGVwcGVybWludEJsYWNrfHw1Y2U4NHxidWNrZXQwMjd8fHx8fHw2NzhhN2ZmYWRlYmFkfHx8MTczNzEyOTk3OC45Mzk3fGI0ZTEyNjYzMjEyYTc3ODUwNDFkM2ViYjZkNzVlNmVlYzZlYWI0MTh8fHx8fDF8fDB8MHx8fHwxfHx8fHwwfDB8fHx8fHx8fFpIQXRkR1ZoYldsdWRHVnlibVYwTURSZk0zQm98ZDgyZjM2MWZiZjFhMmNkYjk1Y2Y3NmRjNjczMTAzZDYzZWVlNTdiZHwwfDB8fDB8fHwwfDB8VzEwPXx8MXxXMTA9fDI4YTIzZDZjZTBhZTc0YWI3NThjMTgwNTUyMTIzZWQzMGE4MDJiYjh8MHxkcC10ZWFtaW50ZXJuZXQwNF8zcGh8MHwwfHx8fA%253D%253D&amp;max_radlink_len=40&amp;type=3&amp;uiopt=true&amp;swp=as-drid-2657853924491968&amp;oe=UTF-8&amp;ie=UTF-8&amp;fexp=21404%2C17301437%2C17301439%2C17301442%2C17301548%2C17301266%2C72717108&amp;format=r3%7Cs&amp;nocache=5801737129979725&amp;num=0&amp;output=afd_ads&amp;domain_name=ww38.dwhyj2.top&amp;v=3&amp;bsl=8&amp;pac=0&amp;u_his=1&amp;u_tz=0&amp;dt=1737129979726&amp;u_w=1366&amp;u_h=768&amp;biw=1354&amp;bih=682&amp;psw=1354&amp;psh=797&amp;frm=0&amp;uio=--&amp;cont=tc&amp;drt=0&amp;jsid=caf&amp;jsv=715046146&amp;rurl=http%3A%2F%2Fww38.dwhyj2.top%2F" title=""></iframe></div>
             </div>
         </div>
-        <div id="rs" style="height: auto;"><iframe frameborder="0" marginwidth="0" marginheight="0" allowtransparency="true" scrolling="no" style="visibility: visible; height: 363px; display: block;" width="100%" name="{&quot;name&quot;:&quot;master-1&quot;,&quot;master-1&quot;:{&quot;container&quot;:&quot;rs&quot;,&quot;styleId&quot;:&quot;3113057640&quot;,&quot;personalizedAds&quot;:false,&quot;channel&quot;:&quot;pid-bodis-gcontrol97,pid-bodis-gcontrol114,pid-bodis-gcontrol456,pid-bodis-gcontrol152,pid-bodis-gcontrol160&quot;,&quot;domainName&quot;:&quot;ww25.dwhyj2.top&quot;,&quot;fexp&quot;:&quot;21404,17301437,17301439,17301442,17301266,72717107&quot;,&quot;masterNumber&quot;:1,&quot;number&quot;:3,&quot;pubId&quot;:&quot;dp-bodis31_3ph&quot;,&quot;role&quot;:&quot;m&quot;,&quot;hl&quot;:&quot;en&quot;,&quot;ivt&quot;:true,&quot;resultsPageBaseUrl&quot;:&quot;http://ww25.dwhyj2.top/?caf=1&amp;bpt=345&amp;subid1=20250118-0108-5011-8804-5f865baead58&quot;,&quot;resultsPageQueryParam&quot;:&quot;query&quot;,&quot;terms&quot;:&quot;&quot;,&quot;kw&quot;:&quot;&quot;,&quot;ie&quot;:&quot;UTF-8&quot;,&quot;maxTermLength&quot;:50,&quot;maxTop&quot;:null,&quot;minTop&quot;:null,&quot;oe&quot;:&quot;UTF-8&quot;,&quot;type&quot;:&quot;relatedsearch&quot;,&quot;linkTarget&quot;:&quot;_blank&quot;,&quot;uiOptimize&quot;:false,&quot;domainRegistrant&quot;:&quot;as-drid-2589285024539458&quot;}}" id="master-1" src="https://syndicatedsearch.goog/afs/ads?adtest=off&amp;psid=3113057640&amp;pcsa=false&amp;channel=pid-bodis-gcontrol97%2Cpid-bodis-gcontrol114%2Cpid-bodis-gcontrol456%2Cpid-bodis-gcontrol152%2Cpid-bodis-gcontrol160&amp;client=dp-bodis31_3ph&amp;r=m&amp;hl=en&amp;ivt=1&amp;rpbu=http%3A%2F%2Fww25.dwhyj2.top%2F%3Fcaf%3D1%26bpt%3D345%26subid1%3D20250118-0108-5011-8804-5f865baead58&amp;max_radlink_len=50&amp;type=3&amp;uiopt=false&amp;swp=as-drid-2589285024539458&amp;oe=UTF-8&amp;ie=UTF-8&amp;fexp=21404%2C17301437%2C17301439%2C17301442%2C17301266%2C72717107&amp;format=r3&amp;nocache=5361737122930854&amp;num=0&amp;output=afd_ads&amp;domain_name=ww25.dwhyj2.top&amp;v=3&amp;bsl=8&amp;pac=0&amp;u_his=1&amp;u_tz=0&amp;dt=1737122930855&amp;u_w=1366&amp;u_h=768&amp;biw=1366&amp;bih=682&amp;psw=1366&amp;psh=614&amp;frm=0&amp;uio=-&amp;cont=rs&amp;drt=0&amp;jsid=caf&amp;jsv=715046146&amp;rurl=http%3A%2F%2Fww25.dwhyj2.top%2F%3Fsubid1%3D20250118-0108-5011-8804-5f865baead58" title=""></iframe></div>
-    </section>
-    <footer>
-        <span>Copyright 2025</span>
-	    <span style="padding:0px 8px;">•</span>
-	    <a href="/privacy" target="_blank">Privacy Policy</a>
-	    <span style="padding:0px 8px;">•</span>
-	    <a href="/legal" target="_blank">Legal</a>
-        <p id="imprint-text"></p>
-    </footer>
-</main>
-
+    </div>
+            <div class="footer">
+            2025 Copyright.  All Rights Reserved.
+<br><br>
+<a href="javascript:void(0);" onclick="window.open('/privacy.html', 'privacy-policy', 'width=890,height=330,left=200,top=200,menubar=no,status=yes,toolbar=no').focus()" class="privacy-policy">
+    Privacy Policy
+</a>
+<br><br>
+<br><br>
+    </div>
 </div>
-<script src="https://partner.googleadservices.com/gampad/cookie.js?domain=ww25.dwhyj2.top&amp;client=partner-dp-bodis31_3ph&amp;product=SAS&amp;callback=__sasCookie&amp;cookie_types=v1%2Cv2"></script><script>window.park = "eyJ1dWlkIjoiNDBiZTdlNTUtMDY3OS00OTJlLWFjZDEtY2U3Mjk0OTlkZjc0IiwicGFnZV90aW1lIjoxNzM3MTIyOTMwLCJwYWdlX3VybCI6Imh0dHA6Ly93dzI1LmR3aHlqMi50b3AvP3N1YmlkMT0yMDI1MDExOC0wMTA4LTUwMTEtODgwNC01Zjg2NWJhZWFkNTgiLCJwYWdlX21ldGhvZCI6IkdFVCIsInBhZ2VfcmVxdWVzdCI6eyJzdWJpZDEiOiIyMDI1MDExOC0wMTA4LTUwMTEtODgwNC01Zjg2NWJhZWFkNTgifSwicGFnZV9oZWFkZXJzIjp7fSwiaG9zdCI6Ind3MjUuZHdoeWoyLnRvcCIsImlwIjoiMTcyLjE4My4xNTkuNzgifQo=";</script>
-<script src="/bAybaPeQi.js"></script>
+
+<script type="text/javascript" language="JavaScript">
+    var tcblock = {
+        // Required and steady
+        'container': 'tc',
+        'type': 'relatedsearch',
+        'colorBackground': 'transparent',
+        
+        'number': 3,
+        
+        // Font-Sizes and Line-Heights
+        'fontSizeAttribution': 14,
+        'fontSizeTitle': 24,
+        'lineHeightTitle': 34,
+        // Colors
+        'colorAttribution': '#aaa',
+        'colorTitleLink': '#0277bd',
+        // Alphabetically
+        'horizontalAlignment': 'center',
+        'noTitleUnderline': false,
+        'rolloverLinkColor': '#01579b',
+        'verticalSpacing': 10
+    };
+    var searchboxBlock = {
+        'container': 'search',
+        'type': 'searchbox',
+        'fontSizeSearchInput': 12,
+        'hideSearchInputBorder': false,
+        'hideSearchButtonBorder': true,
+        'fontSizeSearchButton': 13,
+        'colorBackground': 'transparent',
+        'colorSearchButton': '#0b3279',
+        'colorSearchButtonText': '#fff'
+    };
+    </script>
+<script type="text/javascript">let isAdult=false;         let containerNames=[];         let uniqueTrackingID='MTczNzEyOTk3OC45MTI0OjFhNjg0ZWZhMGQzZmFhMDQxZDBlN2I4ZGJhZWNkZTlhOWNjM2VkOGY5ZDAyYTMxZWM4MjhmNTA3MGEwYmZhZDk6Njc4YTdmZmFkZWJlNQ==';         let search='';         let themedata='fENsZWFuUGVwcGVybWludEJsYWNrfHw1Y2U4NHxidWNrZXQwMjd8fHx8fHw2NzhhN2ZmYWRlYmFkfHx8MTczNzEyOTk3OC45Mzk3fGI0ZTEyNjYzMjEyYTc3ODUwNDFkM2ViYjZkNzVlNmVlYzZlYWI0MTh8fHx8fDF8fDB8MHx8fHwxfHx8fHwwfDB8fHx8fHx8fFpIQXRkR1ZoYldsdWRHVnlibVYwTURSZk0zQm98ZDgyZjM2MWZiZjFhMmNkYjk1Y2Y3NmRjNjczMTAzZDYzZWVlNTdiZHwwfDB8fDB8fHwwfDB8VzEwPXx8MXxXMTA9fDI4YTIzZDZjZTBhZTc0YWI3NThjMTgwNTUyMTIzZWQzMGE4MDJiYjh8MHxkcC10ZWFtaW50ZXJuZXQwNF8zcGh8MHwwfHx8fA==';         let domain='dwhyj2.top';         let scriptPath='';         let adtest='off';if(top.location!==location) { top.location.href=location.protocol + '//' + location.host + location.pathname + (location.search ? location.search + '&' : '?') + '_xafvr=Mzg5NjhlOWI5NTZhY2QwMDdmN2EyYTc5Njk5NTFhMWU3Mjc4Zjg5Yiw2NzhhN2ZmYWU1NjYz'; }let pageLoadedCallbackTriggered = false;let fallbackTriggered = false;let formerCalledArguments = false;let pageOptions = {'pubId': 'dp-teaminternet01','resultsPageBaseUrl': '//' + location.host + '/?ts=','fontFamily': 'arial','optimizeTerms': true,'maxTermLength': 40,'adtest': true,'clicktrackUrl': '//' + location.host + '/track.php?','attributionText': 'Ads','colorAttribution': '#b7b7b7','fontSizeAttribution': 16,'attributionBold': false,'rolloverLinkBold': false,'fontFamilyAttribution': 'arial','adLoadedCallback': function(containerName, adsLoaded, isExperimentVariant, callbackOptions) {let data = {containerName: containerName,adsLoaded: adsLoaded,isExperimentVariant: isExperimentVariant,callbackOptions: callbackOptions,terms: pageOptions.terms};if (!adsLoaded || (containerName in containerNames)) {ajaxQuery(scriptPath + "/track.php"+ "?toggle=adloaded"+ "&uid=" + encodeURIComponent(uniqueTrackingID)+ "&domain=" + encodeURIComponent(domain)+ "&data=" + encodeURIComponent(JSON.stringify(data)));}},'pageLoadedCallback': function (requestAccepted, status) {document.body.style.visibility = 'visible';pageLoadedCallbackTriggered = true;if ((status.faillisted === true || status.faillisted == "true" || status.blocked === true || status.blocked == "true" ) && status.error_code != 25) {ajaxQuery(scriptPath + "/track.php?domain=" + encodeURIComponent(domain) + "&caf=1&toggle=block&reason=other&uid=" + encodeURIComponent(uniqueTrackingID));}if (status.errorcode && !status.error_code) {status.error_code = status.errorcode;}if (status.error_code) {ajaxQuery(scriptPath + "/track.php?domain=" + encodeURIComponent(domain) + "&caf=1&toggle=errorcode&code=" + encodeURIComponent(status.error_code) + "&uid=" + encodeURIComponent(uniqueTrackingID));if ([18, 19].indexOf(parseInt(status.error_code)) != -1 && fallbackTriggered == false) {fallbackTriggered = true;if (typeof loadFeed === "function") {window.location.href = '//' + location.host;}}if (status.error_code == 20) {window.location.replace("//dp.g.doubleclick.net/apps/domainpark/domainpark.cgi?client=" + encodeURIComponent((pageOptions.pubid.match(/^ca-/i) ? "" : "ca-") + pageOptions.pubid) + "&domain_name=" + encodeURIComponent(domain) + "&output=html&drid=" + encodeURIComponent(pageOptions.domainRegistrant));}}if (status.needsreview === true || status.needsreview == "true") {ajaxQuery(scriptPath + "/track.php?domain=" + encodeURIComponent(domain) + "&caf=1&toggle=needsreview&uid=" + encodeURIComponent(uniqueTrackingID));}if ((status.adult === true || status.adult == "true") && !isAdult) {ajaxQuery(scriptPath + "/track.php?domain=" + encodeURIComponent(domain) + "&caf=1&toggle=adult&uid=" + encodeURIComponent(uniqueTrackingID));} else if ((status.adult === false || status.adult == "false") && isAdult) {ajaxQuery(scriptPath + "/track.php?domain=" + encodeURIComponent(domain) + "&caf=1&toggle=nonadult&uid=" + encodeURIComponent(uniqueTrackingID));}if (requestAccepted) {if (status.feed) {ajaxQuery(scriptPath + "/track.php?domain=" + encodeURIComponent(domain) + "&caf=1&toggle=feed&feed=" + encodeURIComponent(status.feed) + "&uid=" + encodeURIComponent(uniqueTrackingID));}if (status.error_code) {ajaxQuery(scriptPath + "/track.php?domain=" + encodeURIComponent(domain) + "&caf=1&toggle=answercheck&answer=error_" + encodeURIComponent(status.error_code) + "&uid=" + encodeURIComponent(uniqueTrackingID));} else {ajaxQuery(scriptPath + "/track.php?domain=" + encodeURIComponent(domain) + "&caf=1&toggle=answercheck&answer=yes&uid=" + encodeURIComponent(uniqueTrackingID));}} else {ajaxQuery(scriptPath + "/track.php?domain=" + encodeURIComponent(domain) + "&caf=1&toggle=answercheck&answer=rejected&uid=" + encodeURIComponent(uniqueTrackingID));}}};let x = function (obj1, obj2) {if (typeof obj1 != "object")obj1 = {};for (let key in obj2)obj1[key] = obj2[key];return obj1;};function getXMLhttp() {let xmlHttp = null;try {xmlHttp = new XMLHttpRequest();} catch (e) {try {xmlHttp = new ActiveXObject("Msxml2.XMLHTTP");} catch (ex) {try {xmlHttp = new ActiveXObject("Microsoft.XMLHTTP");} catch (exc) {}}}return xmlHttp;}function ajaxQuery(url) {if (adtest == 'on') return false;xmlHttp = getXMLhttp();if (!xmlHttp) return ajaxBackfill(url);xmlHttp.open("GET", url, false);return xmlHttp.send(null);}function ajaxBackfill(url) {if (adtest == 'on') return false;if (url.indexOf("&toggle=browserjs") > -1) return false;try {let img = document.createElement('img');img.style.visibility = 'hidden';img.style.width = '1px';img.style.height = '1px';img.src = url + "&_t=" + new Date().getTime();document.body.appendChild(img);} catch (e) {}}ajaxQuery(scriptPath + "/track.php?domain=" + encodeURIComponent(domain) + "&toggle=browserjs&uid=" + encodeURIComponent(uniqueTrackingID));x(pageOptions, {resultsPageBaseUrl: 'http://ww38.dwhyj2.top/?ts=fENsZWFuUGVwcGVybWludEJsYWNrfHw1Y2U4NHxidWNrZXQwMjd8fHx8fHw2NzhhN2ZmYWRlYmFkfHx8MTczNzEyOTk3OC45Mzk3fGI0ZTEyNjYzMjEyYTc3ODUwNDFkM2ViYjZkNzVlNmVlYzZlYWI0MTh8fHx8fDF8fDB8MHx8fHwxfHx8fHwwfDB8fHx8fHx8fFpIQXRkR1ZoYldsdWRHVnlibVYwTURSZk0zQm98ZDgyZjM2MWZiZjFhMmNkYjk1Y2Y3NmRjNjczMTAzZDYzZWVlNTdiZHwwfDB8fDB8fHwwfDB8VzEwPXx8MXxXMTA9fDI4YTIzZDZjZTBhZTc0YWI3NThjMTgwNTUyMTIzZWQzMGE4MDJiYjh8MHxkcC10ZWFtaW50ZXJuZXQwNF8zcGh8MHwwfHx8fA%3D%3D',hl: 'en',kw: '',terms: '',uiOptimize: true, channel: 'bucket007,bucket027', pubId: 'dp-teaminternet04_3ph',adtest: 'off',personalizedAds: false,clicktrackUrl: 'https://trkpcna.net/track.' + 'php?click=caf' + '&domain=dwhyj2.top&uid=MTczNzEyOTk3OC45MTI0OjFhNjg0ZWZhMGQzZmFhMDQxZDBlN2I4ZGJhZWNkZTlhOWNjM2VkOGY5ZDAyYTMxZWM4MjhmNTA3MGEwYmZhZDk6Njc4YTdmZmFkZWJlNQ%3D%3D&ts=fENsZWFuUGVwcGVybWludEJsYWNrfHw1Y2U4NHxidWNrZXQwMjd8fHx8fHw2NzhhN2ZmYWRlYmFkfHx8MTczNzEyOTk3OC45Mzk3fGI0ZTEyNjYzMjEyYTc3ODUwNDFkM2ViYjZkNzVlNmVlYzZlYWI0MTh8fHx8fDF8fDB8MHx8fHwxfHx8fHwwfDB8fHx8fHx8fFpIQXRkR1ZoYldsdWRHVnlibVYwTURSZk0zQm98ZDgyZjM2MWZiZjFhMmNkYjk1Y2Y3NmRjNjczMTAzZDYzZWVlNTdiZHwwfDB8fDB8fHwwfDB8VzEwPXx8MXxXMTA9fDI4YTIzZDZjZTBhZTc0YWI3NThjMTgwNTUyMTIzZWQzMGE4MDJiYjh8MHxkcC10ZWFtaW50ZXJuZXQwNF8zcGh8MHwwfHx8fA%3D%3D&adtest=off' });x(pageOptions, [] );x(pageOptions, { domainRegistrant:'as-drid-2657853924491968' } );function loadFeed() {let s = document.createElement('script');let blurredTerms = document.getElementById('blurred-terms');if (blurredTerms !== null) {blurredTerms.style.display = "none";}s.src = '//www.google.com/adsense/domains/caf.js?abp=1&adsdeli=true';document.body.appendChild(s);let a = Array.prototype.slice.call(arguments);s.onload = function () {let c = google.ads.domains.Caf;switch (a.length) {case 1:return new c(a[0]);case 2:return new c(a[0], a[1]);case 3:return new c(a[0], a[1], a[2]);case 4:return new c(a[0], a[1], a[2], a[3]);case 5:return new c(a[0], a[1], a[2], a[3], a[4]);}return c.apply(null, a);};}</script>
+<script type="text/javascript">var ls = function(xhr, path, token) {
+    xhr.onreadystatechange = function () {
+        if (xhr.readyState === XMLHttpRequest.DONE) {
+            if (xhr.status >= 200 && xhr.status <= 400) {
+                if (xhr.responseText.trim() === '') {
+                    return;
+                }
+    
+                console.log(JSON.parse(xhr.responseText))
+            } else {
+                console.log('There was a problem with the request.');
+            }
+        }
+    }
+    
+    xhr.open('GET', path + '/ls.p' + 'hp?t=678a7ffa&token=' + encodeURI(token), true);
+    xhr.send();
+};
+ls(new XMLHttpRequest(), scriptPath, '28a23d6ce0ae74ab758c180552123ed30a802bb8');</script>
+<script type="text/javascript">x(pageOptions, { "styleId":7840396037});</script>
+<script>
+    function getLoadFeedArguments() {
+        let arguments = [
+            pageOptions
+        ];
+
+        let possibleArguments = ['adblock', 'adblock1', 'adblock2', 'tcblock', 'searchboxBlock', 'rtblock', 'rsblock', 'searchblock'];
+        for (let i = 0; i < possibleArguments.length; i++) {
+            if (typeof this[possibleArguments[i]] !== 'undefined') {
+                arguments.push(this[possibleArguments[i]]);
+            }
+        }
+
+        return arguments;
+    }
+</script>
+
+    <script>
+        loadFeed(...getLoadFeedArguments());
+    </script><script src="//www.google.com/adsense/domains/caf.js?abp=1&amp;adsdeli=true"></script>
 
 
-<script type="text/javascript" src="https://www.google.com/adsense/domains/caf.js?abp=1&amp;bodis=true"></script></body>
+</body>
