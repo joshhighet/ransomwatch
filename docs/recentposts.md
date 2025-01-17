@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-01-17 | [`Taylor Regional Hospital (thcg.local)`](https://google.com/search?q=Taylor+Regional+Hospital+%28thcg.local%29) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
+| 2025-01-17 | [`Regina Coeli Convent`](https://google.com/search?q=Regina+Coeli+Convent) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-01-17 | [`peponline.org`](https://google.com/search?q=peponline.org) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-01-17 | [`Washington Gastroenterology (DHSWA.NET)`](https://google.com/search?q=Washington+Gastroenterology+%28DHSWA.NET%29) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-01-17 | [`Kilgore College (kilgore.edu)`](https://google.com/search?q=Kilgore+College+%28kilgore.edu%29) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-12-28 | [`STEG Stadtentwicklung`](https://google.com/search?q=STEG+Stadtentwicklung) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
 | 2024-12-28 | [`Ire-Omba SpA`](https://google.com/search?q=Ire-Omba+SpA) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
 | 2024-12-28 | [`Cell C`](https://google.com/search?q=Cell+C) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
-| 2024-12-28 | [`Youth Eastside Services`](https://google.com/search?q=Youth+Eastside+Services) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2024-12-28 | [`Atos (Business Services · France)`](https://google.com/search?q=Atos+%28Business+Services+%C2%B7+France%29) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
