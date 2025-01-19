@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-01-19 | [`TG3 Electronics`](https://google.com/search?q=TG3+Electronics) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2025-01-18 | [`MassDevelopment`](https://google.com/search?q=MassDevelopment) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2025-01-18 | [`Marina Family Medical`](https://google.com/search?q=Marina+Family+Medical) | [moneymessage](https://ransomwatch.telemetry.ltd/#/profiles?id=moneymessage) |
 | 2025-01-18 | [`Kassin & Carrow`](https://google.com/search?q=Kassin+%26+Carrow) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-12-29 | [`Engenet Informatica`](https://google.com/search?q=Engenet+Informatica) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2024-12-28 | [`dgenviro.com`](https://google.com/search?q=dgenviro.com) | [eldorado](https://ransomwatch.telemetry.ltd/#/profiles?id=eldorado) |
 | 2024-12-28 | [`timely.mn`](https://google.com/search?q=timely.mn) | [darkvault](https://ransomwatch.telemetry.ltd/#/profiles?id=darkvault) |
-| 2024-12-28 | [`nigico.gr`](https://google.com/search?q=nigico.gr) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
