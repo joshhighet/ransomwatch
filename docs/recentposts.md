@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-01-20 | [`Zuk Group Hacked`](https://google.com/search?q=Zuk+Group+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2025-01-20 | [`Clutch Industries`](https://google.com/search?q=Clutch+Industries) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-01-20 | [`P****b.gov.pk`](https://google.com/search?q=P%2A%2A%2A%2Ab.gov.pk) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
 | 2025-01-19 | [`TG3 Electronics`](https://google.com/search?q=TG3+Electronics) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-12-29 | [`Innois`](https://google.com/search?q=Innois) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2024-12-29 | [`Meerapfel Family`](https://google.com/search?q=Meerapfel+Family) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2024-12-29 | [`IEC + EMCO`](https://google.com/search?q=IEC+%2B+EMCO) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
-| 2024-12-29 | [`Engenet Informatica`](https://google.com/search?q=Engenet+Informatica) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
