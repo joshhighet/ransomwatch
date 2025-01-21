@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-01-21 | [`Bethany Hospital`](https://google.com/search?q=Bethany+Hospital) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2025-01-21 | [`Marukai`](https://google.com/search?q=Marukai) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-01-20 | [`PetroVietnam Exploration Production Corporation`](https://google.com/search?q=PetroVietnam+Exploration+Production+Corporation) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2025-01-20 | [`The Urswick School`](https://google.com/search?q=The+Urswick+School) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-12-30 | [`Bettisworth North`](https://google.com/search?q=Bettisworth+North) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-12-30 | [`Allen Carr’s Easyway Hacked`](https://google.com/search?q=Allen+Carr%E2%80%99s+Easyway+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2024-12-29 | [`asesoriacamen.es`](https://google.com/search?q=asesoriacamen.es) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-12-29 | [`www.psccorporation.com`](https://google.com/search?q=www.psccorporation.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
