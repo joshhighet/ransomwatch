@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-01-22 | [`SANTA MARIA LABORATORIO`](https://google.com/search?q=SANTA+MARIA+LABORATORIO) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2025-01-22 | [`Mintz Law Firm, LLC`](https://google.com/search?q=Mintz+Law+Firm%2C+LLC) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-01-22 | [`Gossett Motor Cars `](https://google.com/search?q=Gossett+Motor+Cars+) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-01-21 | [`RETAL Baltic Films`](https://google.com/search?q=RETAL+Baltic+Films) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-01-03 | [`Amourgis & Associates`](https://google.com/search?q=Amourgis+%26+Associates) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-01-03 | [`www.alliancemat.com`](https://google.com/search?q=www.alliancemat.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-01-03 | [`www.geedingconstruction.com`](https://google.com/search?q=www.geedingconstruction.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2025-01-03 | [`Nikki-Universal Co Ltd`](https://google.com/search?q=Nikki-Universal+Co+Ltd) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
