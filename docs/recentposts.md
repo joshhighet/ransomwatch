@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-01-22 | [`Jacobs & Thompson`](https://google.com/search?q=Jacobs+%26+Thompson) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-01-22 | [`www.americanstandard-us.com`](https://google.com/search?q=www.americanstandard-us.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-01-22 | [`Christian Community Aid`](https://google.com/search?q=Christian+Community+Aid) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2025-01-22 | [`SANTA MARIA LABORATORIO`](https://google.com/search?q=SANTA+MARIA+LABORATORIO) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-01-04 | [`assurified.com`](https://google.com/search?q=assurified.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2025-01-04 | [`aliorbank.pl`](https://google.com/search?q=aliorbank.pl) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2025-01-04 | [`Montreal North`](https://google.com/search?q=Montreal+North) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2025-01-03 | [`Amourgis & Associates`](https://google.com/search?q=Amourgis+%26+Associates) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
