@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-01-23 | [`reesndt.ca`](https://google.com/search?q=reesndt.ca) | [eldorado](https://ransomwatch.telemetry.ltd/#/profiles?id=eldorado) |
 | 2025-01-23 | [`samsill.com`](https://google.com/search?q=samsill.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-01-23 | [`archaeologicalresearchservices.com`](https://google.com/search?q=archaeologicalresearchservices.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-01-23 | [`starkaerospace.com`](https://google.com/search?q=starkaerospace.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-01-04 | [`northernsafety.com`](https://google.com/search?q=northernsafety.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2025-01-04 | [`netromsoftware.ro`](https://google.com/search?q=netromsoftware.ro) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2025-01-04 | [`minerasancristobal.com`](https://google.com/search?q=minerasancristobal.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
-| 2025-01-04 | [`legilog.fr`](https://google.com/search?q=legilog.fr) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
