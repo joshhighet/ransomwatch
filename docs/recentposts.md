@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-01-24 | [`ORU Mabee Center`](https://google.com/search?q=ORU+Mabee+Center) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2025-01-24 | [`ELTEK Group (eltekgroup.com)`](https://google.com/search?q=ELTEK+Group+%28eltekgroup.com%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2025-01-24 | [`De La Salle High School (dlshs.org)`](https://google.com/search?q=De+La+Salle+High+School+%28dlshs.org%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2025-01-24 | [`icicibank.com`](https://google.com/search?q=icicibank.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-01-04 | [`servicepower.com`](https://google.com/search?q=servicepower.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2025-01-04 | [`sella.eng.br`](https://google.com/search?q=sella.eng.br) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2025-01-04 | [`scopeset.de`](https://google.com/search?q=scopeset.de) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
-| 2025-01-04 | [`sansirostadium.com`](https://google.com/search?q=sansirostadium.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
