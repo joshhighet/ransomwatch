@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-01-24 | [`PrimoTicketing`](https://google.com/search?q=PrimoTicketing) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2025-01-24 | [`www.pcm.com.mx`](https://google.com/search?q=www.pcm.com.mx) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-01-24 | [`ORU Mabee Center`](https://google.com/search?q=ORU+Mabee+Center) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2025-01-24 | [`ELTEK Group (eltekgroup.com)`](https://google.com/search?q=ELTEK+Group+%28eltekgroup.com%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-01-04 | [`siapenet.gov.br`](https://google.com/search?q=siapenet.gov.br) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2025-01-04 | [`sfr.fr`](https://google.com/search?q=sfr.fr) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2025-01-04 | [`servicepower.com`](https://google.com/search?q=servicepower.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
-| 2025-01-04 | [`sella.eng.br`](https://google.com/search?q=sella.eng.br) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
