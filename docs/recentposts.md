@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-01-26 | [`Metro Wire &amp; Cable`](https://google.com/search?q=Metro+Wire+%26amp%3B+Cable) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2025-01-25 | [`Keepz`](https://google.com/search?q=Keepz) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2025-01-25 | [`DataSociete`](https://google.com/search?q=DataSociete) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2025-01-25 | [`envirosep.com`](https://google.com/search?q=envirosep.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-01-04 | [`datascan.com`](https://google.com/search?q=datascan.com) | [eldorado](https://ransomwatch.telemetry.ltd/#/profiles?id=eldorado) |
 | 2025-01-04 | [`trinitesolutions.com`](https://google.com/search?q=trinitesolutions.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2025-01-04 | [`trifecta.com`](https://google.com/search?q=trifecta.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
-| 2025-01-04 | [`talonsolutions.co.uk`](https://google.com/search?q=talonsolutions.co.uk) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
