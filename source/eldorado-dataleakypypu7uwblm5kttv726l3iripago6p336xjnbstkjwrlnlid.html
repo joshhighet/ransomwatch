@@ -1,7 +1,344 @@
-<html>
-<head><title>502 Bad Gateway</title></head>
-<body bgcolor="white">
-<center><h1>502 Bad Gateway</h1></center>
-<hr><center>nginx</center>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="">
+<title>BlackLock</title>
+<script class="u-script" type="text/javascript" src="/jquery.js"></script>
+<script src="/react.production.min.js"></script>
+<script src="/react-dom.production.min.js"></script>
+<script src="/babel.min.js"></script> 
+<script src="/ReactRouter.min.js"></script>
+<link id="u-theme-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i|Open+Sans:300,300i,400,400i,500,500i,600,600i,700,700i,800,800i">
+<script type="text/babel">
+var PropTypes = React.PropTypes, Router = ReactRouter.Router, Route = ReactRouter.Route, browserHistory = ReactRouter.browserHistory, Link = ReactRouter.Link;
+
+const projects = [{"name":"perucontrols.com","counter":2848,"desc":"Grocery Retail · Peru · 347 Employees\nControl Union Perú SAC is a company that operates in the Grocery Retail industry. It employs 250to499 people and has 10Mto25M of revenue. The company is headquartered in Miraflores, Lima region, Peru.\nRevenue $19.1 Million","fullname":"Perú Controls S.A.C.","img":"logo.svg","ts":1737132071,"url1":"","urlname1":"Data","release":1738341671},{"name":"reesndt.ca","counter":548,"desc":"Energy, Utilities & Waste · Canada · <25 Employees\nWe serve northwestern Canada from our locations in Grande Prairie, Bonnyville and Vegreville and with mobile units that can be dispatched throughout the area. We specialize in the inspection and engineering certification of all types of overhead lifting devices such as cranes, pickers and sideboom pipelayers as well as all types of oilfield-related lifting equipment.\nRevenue <$5 Million","fullname":"Rees NDT Inspection Services","img":"white-eagle.png","ts":1737059657,"url1":"/Data_Download/REESNDT","urlname1":"Data","release":1737740610},{"name":"evasair.com","counter":22673,"desc":"Education · Canada · 294 Employees\nEVAS Air Charters provides a specially designed aircraft to meet the most thorough requirements of our corporate and business class travelers. Being part of our executive class, your requests for special details and preferences for your flight can always be taken care of in advance, while in-flight commissaries and quality service is always complimentary. In comparison to alternative air travel, EVAS Air Charters operates on a schedule that was created by you, for you.\nRevenue $12.5 Million","fullname":"EVAS Group","img":"NewLogo-1.01-2048x1152.png","ts":1736457067,"url1":"/Data_Download/evasair.com","urlname1":"Data","release":1737666667},{"name":"akantha.fr","counter":131024,"desc":"Software · France · <25 Employees\nAkantha offers Portalis, a legal software tailored for lawyers. The solution provides intuitive dashboards for each function, allowing easy management of law firms. Features include a 360-degree view, automatic update dashboards, secure document sharing, and data hosting in France. Akantha presents Portalis at various Barreau events, showcasing its tools for legal procedure management.\nRevenue <$5 Million","fullname":"Akantha","img":"Logo-Akantha-signature_Site.png","ts":1736077163,"url1":"/Data_Download/AVOCATS","urlname1":"Data","release":1737286763},{"name":"hasa-arg.com","counter":310058,"desc":"Energy, Utilities & Waste · Argentina\n638 Employees\nHASA (Hidrocarburos Argentinos SA) is a company that operates in the Energy, Utilities & Waste industry. It employs 500to999 people and has 25Mto50M of revenue. The company is headquartered in Buenos Aires, Buenos Aires F.D., Argentina.\nRevenue $35.1 Million","fullname":"HIDROCARBUROS ARGENTINOS S.A.","img":"c53e28_ddc6a22097c743cc904517d8a1cf7f1b.png","ts":1735997576,"url1":"/Data_Download/HASA-ARG","urlname1":"Data","release":1736781656},{"name":"datascan.com","counter":126281,"desc":"Business Services · Texas, United States · 319 Employees\nFounded in 1970, Datascan provides Retailers with a choice of On-demand Self-Scan Inventory Solutions delivered via a Solution-as-a-Service model. They are located in Carrollton, Texas.\nRevenue $29.1 Million","fullname":"Inventory Management\nand Counting Solutions","img":"NEW-Once-600x100-2.gif","ts":1735990008,"url1":"/Data_Download/Datascan","urlname1":"Data","release":1736695680},{"name":"dgenviro.com","counter":104622,"desc":"Energy, Utilities & Waste\nCanada · <25 Employees\nThe flexible corporate structure at D&G Enviro-Group ensures that each client receives highly personalized service and cost-effective solutions to the challenges within a project. The ultimate objective of our team is to provide environmental services that are suited to the specific needs of each client.\nRevenue <$5 Million","fullname":"D&G Enviro-Group","img":"dgenviro_logo.jpg","ts":1735407286,"url1":"/Data_Download/dgenviro.com","urlname1":"Data"},{"name":"relate-infotech.com","counter":11061,"desc":"Accounting Services · United Kingdom · 120 Employees\nRelate Infotech is a subsidiary of Relate Software Development Limited based in Ireland, UK & US. India operations mainly handle Software Product Development, Quality Assurance, Documentation and Support. We also have presence in Malaysia, Singapore, Hongkong and South Africa. Our primary products include CRM, Accounts Production, Taxation, Company Secretary and Business Accounting software.\nRevenue <$5 Million","fullname":"Relate Infotech","img":"relate-infotech-logo.svg","ts":1735048796,"url1":"/Data_Download/relate-infotech.com","urlname1":"Data"},{"name":"acumengroup.us","counter":76603,"desc":"Home Improvement & Hardware Retail · California, United States\n<25 Employees\nAcumen Group, a founding partner of Distributor's EDGE, delivers integrated best-in-class solutions that address the essential challenges that distributors face in all areas of their businesses such as financials, supply chain planning, relationship management, demand management, ERP, warehouse management, business intelligence and Ecommerce\nRevenue <$5 Million","fullname":"Acumen Group","img":"AcumenLogo.png","ts":1734347628,"url1":"/Data_Download/acumengroup.us","urlname1":"Data"},{"name":"www.lightspeeddesign.com","counter":200168,"desc":"Manufacturing · Washington, United States · <25 Employees\nLightspeed Design, Inc. is located in Bellevue, WA, USA, and specializes in 3D film & video production and stereoscopic 3D technology development.\nRevenue <$5 Million","fullname":"Light Speed Design","img":"lightspeeddesign.png","ts":1734193134,"url1":"/Data_Download/lightspeeddesign.com","urlname1":"Data"},{"name":"www.kandelaar.com","counter":670298,"desc":"Civil Engineering Construction · Netherlands\n<25 Employees\nRevenue $5.4 Million","fullname":"Kandelaar Electrotechniek","img":"Logo-KandelaarElectrotechniek60.jpg","ts":1734192804,"url1":"/Data_Download/kandelaar.com","urlname1":"Data"},{"name":"fbchighsprings.org","counter":280694,"desc":"Organizations · Florida,\nUnited States\n<25 Employees\nFirst Baptist Church of High Springs maintains an affiliation with the Southern Baptist Convention.\nRevenue < $5 Million","fullname":"First Baptist Church","img":"THE-Church-logo-Teal-48c95798-120w.png","ts":1734192522,"url1":"/Data_Download/fbchighsprings.org","urlname1":"Data"},{"name":"www.midlandturbo.com","counter":575154,"desc":"Industrial Machinery & Equipment\nUnited Kingdom · < 25 Employees\nMidland Turbo has a 7000 sq ft turbo reconditioning facility.\nRevenue < $5 Million","fullname":"Midland Turbo","img":"midland.png","ts":1734191650,"url1":"/Data_Download/midlandturbo.com","urlname1":"Data"},{"name":"www.lalucky.com","counter":111697,"desc":"Grocery Retail · California,\nUnited States\nLA Lucky has been in business for over 28 years. In 2007, George Nguyen, a third generation of Asian foods entrepreneur, purchased LA Lucky with the idea of providing Asian retailers with a complete variety of food.\n< 25 Employees\nRevenue < $5 Million","fullname":"LA LUCKY Brand","img":"lalucky-logo.png","ts":1731932401,"url1":"/Data_Download/lalucky.com","urlname1":"Data"},{"name":"tiendascarrion.com","counter":789154,"desc":"Retail · Spain\nTiendas Carrion & Fernandez Sl is a company that operates in the Retail industry.\nIt employs 100 - 249 people\nand has $5M - $10M of revenue.","fullname":"Tiendas Carrion & Fernandez","img":"carrion.png","ts":1731931957,"url1":"/Data_Download/CARRION.com","urlname1":"Data"},{"name":"bellstaxservice.com","counter":406980,"desc":"Accounting Services · California,\nUnited States\nBells Tax Service | Bells Tax Service Modesto California Modesto Tax Services Bells Tax Service modesto, tax, preparation, corporate, trusts...\n< 25 Employees\nRevenue < $5 Million","fullname":"Bells Tax Service","img":"2023_company_placeholder_120-22.png","ts":1731931412,"url1":"/Data_Download/BellsTax.net","urlname1":"Data"},{"name":"www.pcafterhours.net","counter":207457,"desc":"Consumer Services · Minnesota, United States.\nPC-AfterHours offers a variety of technical support services for Windows based computers and networks.\n< 25 Employees\nRevenue < $5 Million","fullname":"PC AfterHours","img":"logo.webp","ts":1731930665,"url1":"/Data_Download/pcafterhours.net","urlname1":"Data"},{"name":"myrtlebeachcustomhomebuilder.com","counter":752203,"desc":"Nations Homes has earned a reputation as one of the finest custom homebuilders in Myrtle Beach, South Carolina.\n<25 Employees\nRevenue <$5 Million","fullname":"Nations Homes\nCommercial & Residential Construction\nSouth Carolina, United States","img":"logo-flip.png","url1":"/Data_Download/nationshomes","urlname1":"Data","ts":1731173487},{"name":"phxcmp.com","counter":566274,"desc":"a company with more than 15 years in the market, providing innovative solutions to government and private institutions.\nRevenue $3.8 M","fullname":"The PHOENIX","img":"OIP.jpg","url1":"/Data_Download/PHXCMP.com","urlname1":"Data","ts":11},{"name":"barranquitas.pr.gov","counter":366114,"desc":"","fullname":"The Municipal Administration\nof Barranquitas and its\nDepartment of Finance","img":"Logo-Municipio2-02.png","ts":10,"url1":"/Data_Download/BARRANQUITAS","urlname1":"Data"},{"name":"www.keizers.ca","counter":324147,"desc":"Keizer's Collision Centre has been a family run business for the last 35 years. We are a licensed automotive repair shop.\nRevenue > $5 Million","fullname":"Keizer's Collision CSN & Automotive","img":"keizers-group-logo.png","ts":9,"url1":"/Data_Download/KEIZERS.CA","urlname1":"Data"},{"name":"compra-aruba.com","counter":303843,"desc":"Revenue $9.7 Million\nFounded in 1948, Compra Ltd. with over 110 employees continues to be Aruba’s largest supplier of food and non-food, with the widest assortment of products.","fullname":"Compra LTD Aruba","img":"compra2x1.png","ts":7,"url1":"/Data_Download/compra-aruba","urlname1":"Data"},{"name":"bshsoft.com","counter":1268809,"desc":"Revenue $6.1 Million\nBSH has delivered to the Middle East market state-of-the-art proprietary solutions to streamline HCM processes and reduce their costs","fullname":"Business Systems House FZ-LLC","img":"BSH_Logo2x-1.png","ts":5,"url1":"/Data_Download/bshsoft.com","urlname1":"Data"},{"name":"gccustommetal.com","counter":66932,"desc":"GC Custom Metal Fabrication Ltd is a Manufacturing, Mining, and Metals & Minerals company located in Edmonton, Alberta with $4.00 Million in revenue and 12 employees.","fullname":"GC Custom Metal Fabricationsoon","img":"gc_custom_metal_fabrication_ltd_logo.png","ts":4,"url1":"/Data_Download/gccustommetal.com","urlname1":"Data"},{"name":"datacampos.com","counter":26272,"desc":"A commitment to innovation and sustainability\nÉtudes is a pioneering company that seamlessly unites creativity and functionality to redefine architectural excellence.","fullname":"Data Campos Sistemas","img":"2023_company_placeholder_120-22.png","ts":3,"url1":"/Data_Download/datacampos.com","urlname1":"Data"},{"name":"cucinatagliani.com","counter":309200,"desc":"Revenue < $5 Million\nHeadquarters 17045 N 59th Ave Ste 101, Glendale, Arizona, 85...\nPhone Number (602) 547-2782\nWebsite www.cucinatagliani.com\nIndustry Hospitality General","fullname":"Cucina Tagliani","img":"cucina-tagliani-logo.svg","ts":2,"url1":"/Data_Download/cucinatagliani","urlname1":"Data"},{"name":"mullenwylie.com","counter":748848,"desc":"Mullen Wylie LLC is a company that operates in the Legal Services industry.\nIt employs 11-20 people\nand has $1M-$5M of revenue.","fullname":"Mullen Wylie, LLC","img":"header-logo.png","url1":"/Data_Download/MULLENWYLIE","urlname1":"Data","ts":0},{"name":"patricksanderscompany.com","counter":23883,"desc":"Revenue < $5 Million\nPatrick Sanders and Company, P.C. provides a wide range of services to a variety of industries. Whether you need a tax return filed, small business consulting, or assistance with estate planning, we can help.","fullname":"Patrick Sanders and Company, P.C.","img":"2023_company_placeholder_120-22.png","ts":0,"url1":"/Data_Download/Patrick","urlname1":"Data"},{"name":"cityofpensacola.com","counter":2046350,"desc":"Revenue $89.9 Million\nThe City of Pensacola serves to administer and enforce city ordinances, direct city employees providing services to citizens","fullname":"Pensacola","img":"Document.jpg","url1":"/Data_Download/pensacolacitygov","urlname1":"Data","ts":0},{"name":"a1mobilelock.com","counter":36371,"desc":"","fullname":"A-1 Mobile Lock & Key","img":"a1-logo-2x.png","ts":0,"url1":"/Data_Download/a1mobilelock.com","urlname1":"Data"},{"name":"adamshomes.com","counter":411929,"desc":"Revenue $41 Million\nAdams Homes is known as the premier home builder and is one of the largest privately-held home building companies in the southeast.","fullname":"Adams Homes","img":"logo-fullColor.svg","url1":"/Data_Download/ADAMSHOMES","urlname1":"Data","ts":0},{"name":"tankerska.hr","counter":314815,"desc":"","fullname":"ANKERSKA PLOVIDBA d.d.","img":"tankerska.svg","ts":0,"url1":"/Data_Download/TANKER","urlname1":"Data"},{"name":"newriverelectrical.com","counter":562784,"desc":"Revenue $247.1 million\nNew River Electrical Corporation provides electric utility line construction services.","fullname":"New River Electrical Corporation","img":"logo-corp.svg","ts":0,"url1":"/Data_Download/NRE","urlname1":"Data"},{"name":"panzersolutions.com","counter":470780,"desc":"631 Employeesb\nRevenue $57.6 Million\nA front-line source in Recruiting & Talent Acquisition has indicated that the organization is in the midst of initiatives related to applicant tracking systems (ATS)","fullname":"Panzer Solutions LLC Business Services","img":"17234c09-6e2a-fd27-f5e8-ea6e9afe3607.jpg","url1":"/Data_Download/panzersolutions.com","urlname1":"Data","ts":0},{"name":"avioesforza.it","counter":15428,"desc":"","fullname":"avioesforza.it","img":"logo-AvioSforza.png","url1":"/Data_Download/AES","urlname1":"Data","ts":0},{"name":"celplan.com","counter":62265,"desc":"Revenue $51.8 million\nCelPlan is a leading provider of radio frequency (RF) planning &amp; optimization tools, value added consulting, engineering and training services to the wireless industry.","fullname":"CelPlan Technologies, Inc.","img":"cropped-CelPlan-Logo-8-black-2-Connectivity-768x237.png","url1":"/Data_Download/CELPLANUS","urlname1":"Data","ts":0},{"name":"allianceind.com","counter":171775,"desc":"","fullname":"Alliance Industries, LLC.","img":"64fa04a4b0db51b8bd6c7bb6_alliance-logo-white_transparent.png","url1":"/Data_Download/ALLIANCE","urlname1":"Data","ts":0},{"name":"auto-recyclers.com","counter":130529,"desc":"","fullname":"A & L Auto Recyclers","img":"logoAurorecyclers.png","url1":"/Data_Download/AUTO-RECYCLERS","urlname1":"Data","ts":0},{"name":"burotec.biz","counter":20283,"desc":"","fullname":"BUROTEC S.A.","img":"Burotec-Logo-ONLYNEW.png","url1":"/Data_Download/burotec.biz","urlname1":"Data","ts":0},{"name":"kennedyfunding.com","counter":379138,"desc":"Up to over $4 billion in closed loans.\nKennedy Funding is a nationwide direct private lender specializing in bridge loans for commercial property and land acquisition.","fullname":"Kennedy Funding","img":"KF_Logo.png","ts":0,"url1":"/Data_Download/kennedyfunding","urlname1":"Data"},{"name":"goughconstruction.com","counter":3934,"desc":"","fullname":"Gough Construction","img":"pexels-photo-911758.jpeg","url1":"/Data_Download/GOUGH","urlname1":"Data","ts":0},{"name":"htetech.com","counter":330355,"desc":"","fullname":"HTE Technologies","img":"hte-corporate-logo.png","url1":"/Data_Download/HTE","urlname1":"Data","ts":0},{"name":"lindostar.it","counter":4283,"desc":"","fullname":"LINDOSTAR","img":"lindostarzjtlfrtd.png","url1":"/Data_Download/lindostar.it","urlname1":"Data","ts":0},{"name":"premierpackaging.com","counter":14958,"desc":"","fullname":"Premier Packaging","img":"Premier-Packaging_Horizontal_white.svg","ts":0,"url1":"/Data_Download/PREMIER","urlname1":"Data"},{"name":"tbmcg.com","counter":209809,"desc":"","fullname":"TBM Consulting Group, Inc.","img":"TBM-logo.svg","ts":0,"url1":"/Data_Download/TBM.COM","urlname1":"Data"},{"name":"uccretrievals.com","counter":168202,"desc":"","fullname":"UCC Retrievals, Inc.","img":"ucc-logo-328x91-1.png","ts":0,"url1":"/Data_Download/www.uccretrievals.com","urlname1":"Data"},{"name":"www.vet.k-state.edu","counter":12177,"desc":"","fullname":"K-State College of Veterinary Medicine","img":"ksu-purple.svg","ts":0,"url1":"/Data_Download/www.vet.k-state.edu","urlname1":"Data"},{"name":"atd-american.com","counter":397791,"desc":"","fullname":"ATD-American","img":"2023_company_placeholder_120-22.png","url1":"/Data_Download/ATDTM","urlname1":"Data","ts":0},{"name":"fleetequipment.com","counter":7204,"desc":"","fullname":"Fleet Equipment Center, Inc.","img":"fleetlogo-no-addy.png","url1":"/Data_Download/FLEET","urlname1":"Data","ts":0}];
+
+function fancySize(amount) {
+    if (!amount)
+	return '';
+    var size = amount.toString().split('');
+    switch(size.length) {
+	case 3:
+	    return `${amount} B`;
+	case 4:
+	    return `${size[0]}.${size[1]} KB`;
+	case 5:
+	    return `${size[0]}${size[1]}.${size[2]} KB`;
+	case 6:
+	    return `${size[0]}${size[1]}${size[2]}.${size[3]} KB`;
+	case 7:
+	    return `${size[0]}.${size[1]} MB`;
+	case 8:
+	    return `${size[0]}${size[1]}.${size[2]} MB`;
+	case 9:
+	    return `${size[0]}${size[1]}${size[2]}.${size[3]} MB`;
+	case 10:
+	    return `${size[0]}.${size[1]} GB`;
+	case 11:
+	    return `${size[0]}${size[1]}.${size[2]} GB`;
+	case 12:
+	    return `${size[0]}${size[2]}${size[3]}.${size[4]} GB`;
+	default:
+	    return `${amount} B`;
+    }
+}
+
+function fancyDate(ts) {
+    var now = Math.round(Date.now() / 1000), diff = ts - now, days = 0, hr = 0, min = 0, sec = 0, res = '';
+
+    if (diff > 60 * 60 * 24) {
+	days = Math.floor(diff / (60 * 60 * 24));
+	diff = diff - (days * 60 * 60 * 24);
+//	res = days + ' day' + (days > 0 ? 's ' : ' ');
+    }
+
+    if (diff > 60 * 60) {
+	hr = Math.floor(diff / (60 * 60));
+	diff = diff - (hr * 60 * 60);
+//	res += hr + 'h ';
+    }
+
+    if (diff > 60) {
+	min = Math.floor(diff / 60);
+	diff = diff - (min * 60);
+//	res += min + 'm ';
+    }
+
+    sec = diff;
+//    res += sec + 's';
+
+    return [days, hr, min, sec];
+}
+
+class File extends React.Component {
+    render() {
+	const {name, size, path, isFile, isDir, pname} = this.props;
+	if (isDir)
+	    return (<div className="file"><Link to={`${path}/${name}`}>{name}/</Link><span>{fancySize(size)}</span></div>)
+	else
+	    return (<div className="file"><a href={`/f?pname=${pname}&path=${escape(path)}&name=${escape(name)}`}>{name}</a><span>{fancySize(size)}</span></div>)
+    }
+}
+
+class Dir extends React.Component {
+    render () {
+	const {name, path, active} = this.props;
+	if (active)
+	    return (<div>/<Link to={path}>{name}</Link></div>);
+	else
+	    return (<div>/{name}</div>);
+    }
+}
+
+class Navigator extends React.Component {
+    render() {
+	var dirs = this.props.path.split('/'), list = [];
+
+	dirs.shift();
+	$.each(dirs, (i, item) => {
+	    var path = '/' + dirs.slice(0,i+1).join('/');
+	    list.push(<Dir active={i == 0 || i == dirs.length - 1 ? false : true} path={path} name={item}/>)
+	})
+
+	return (
+	    <div className="nav">
+		{list}
+	    </div>
+	)
+    }
+}
+
+class Download extends React.Component {
+    constructor(props) {
+        super(props);
+
+	var pname, path = '/Data_Download/' + props.params.cname;
+	projects.forEach(project => { if (project.url1 == path) pname = project.name });
+        this.state = {path:this.props.location.pathname + (this.props.location.hash ? this.props.location.hash : ''), files:[], pname:pname};
+    }
+
+    componentDidMount() {
+	$.ajax(`/d?pname=${this.state.pname}&path=${escape(this.state.path)}`).done(data => {
+	    this.setState({files:data});
+	})
+    }
+
+    componentDidUpdate() {
+	if (this.props.location.pathname + (this.props.location.hash ? this.props.location.hash : '') != this.state.path) {
+	    var path = this.props.location.pathname + (this.props.location.hash ? this.props.location.hash : '');
+	    this.setState({path:path, files:[]});
+	    $.ajax(`/d?pname=${this.state.pname}&path=${escape(path)}`).done(data => {
+		this.setState({files:data});
+	    })
+	}
+    }
+
+    render() {
+	var {path, files, pname, w, h} = this.state, list = [];
+
+	if (files.length == 0)
+	    list = <div className='placeholder' style={{width:w, height:h}}><div className='loader'/></div>;
+	else
+	    files.forEach(file => {
+		list.push(<File name={file.name} size={file.size} path={unescape(path)} isFile={file.isFile} isDir={file.isDir} pname={pname}/>)
+	    })
+
+	return (
+	    <section className="download">
+		<div className="white">
+		    <Navigator path={decodeURI(path)}/>
+		    <div className="files">{list}</div>
+		</div>
+	    </section>
+	)
+    }
+}
+
+class Project extends React.Component {
+    constructor(props) {
+        super(props);
+        this.state = {showDesc:false, showFiles:false, timer:0};
+
+	if (props.release) {
+	    this.interval = setInterval(function() {
+		this.setState({timer:this.state.timer + 1});
+	    }.bind(this), 1000);
+	}
+    }
+
+    componentWillUnmount() {
+	clearInterval(this.interval);
+    }
+
+    handleClick(data, e) {
+	const {name} = this.props;
+	$.ajax('/c?name=' + name);
+
+	e.preventDefault();
+
+        if (data)
+            this.setState({showFiles:true});
+    }
+
+    handleDescOpen() {
+	const {name, desc} = this.props;
+
+        if (desc) {
+	    $.ajax('/c?name=' + name);
+            this.setState({showDesc:true});
+        }
+    }
+
+    handleDescClose() {
+        this.setState({showDesc:false});
+    }
+
+    handleFilesClose() {
+        this.setState({showFiles:false});
+    }
+
+    render() {
+	const {name, fullname, img, counter, url1, urlname1, url2, urlname2, desc, release} = this.props;
+        var section = '', url = '';
+
+	if (url1)
+	    url = <Link to={url1}>{urlname1}</Link>
+
+	if (release && release >= Math.floor(Date.now() / 1000)) {
+	    var [days, hr, min, sec] = fancyDate(release);
+	    url = <p>Release <b>DATA</b><br/>after <b>{days + (days > 1 ? 'days' : 'day')}<br/>{hr + 'h'} {min + 'm'} {sec + 's'}</b></p>;
+	} else if (url1) {
+	    url = <Link to={url1}>{urlname1}</Link>
+	}
+
+        if (this.state.showDesc) {
+            section = <section className="bg">
+                    <div className="box" style={{width:"50vh"}}>
+                        <div className="close">
+                            <div onClick={this.handleDescClose.bind(this)}>X</div>
+                        </div>
+                        <div className="white">
+                            <h2 style={{whiteSpace:'pre-line'}}>{fullname}</h2>
+                            <p style={{whiteSpace:'pre-line'}}>{desc}</p>
+                        </div>
+                    </div>
+                </section>;
+	}
+	return (
+	    <section className="project">
+                {section}
+                <div className="img" onClick={desc ? this.handleDescOpen.bind(this) : null} style={{'background-image':'url(/images/' + img + ')', cursor:desc ? 'pointer' : 'default'}}/>
+                <div className="name">
+                    <div className="desc">
+                        <div>
+			    <h3> {name}</h3>
+                            <p style={{whiteSpace:'pre-line'}}> {fullname}</p>
+			    <p>Visitors: {counter}</p>
+                        </div>
+                    </div>
+		</div>
+                <div className="links">
+		    {url}
+                </div>
+	    </section>
+	)
+    }
+}
+
+class Projects extends React.Component {
+    render() {
+        var list = [];
+
+	projects.forEach(project => {
+	    list.push(<Project name={project.name} fullname={project.fullname} img={project.img} counter={project.counter} url1={project.url1} urlname1={project.urlname1} url2={project.url2} urlname2={project.urlname2} desc={project.desc} release={project.release}/>)
+	});
+
+	return (
+            <main>{list}</main>
+        )
+    }
+}
+
+ReactDOM.render(
+    <Router history={browserHistory}>
+	<Route path="/" component={Projects}/>
+	<Route path="/Data_Download/:cname(/:arg1)(/:arg2)(/:arg3)(/:arg4)(/:arg5)(/:arg6)(/:arg7)(/:arg8)(/:arg9)(/:arg10)(/:arg11)(/:arg12)(/:arg13)(/:arg14)(/:arg15)(/:arg16)(/:arg17)(/:arg18)(/:arg19)(/:arg20)(/:arg21)(/:arg22)(/:arg23)(/:arg24)(/:arg25)" component={Download}/>
+	<Route path="/Data_Download/" component={Projects}/>
+	<Route path="/Data_Download" component={Projects}/>
+    </Router>,
+$('#main')[0]);
+</script>
+<style>
+* {margin:0;padding:0;position:relative}
+a {text-decoration:none}
+body {margin:0;padding:0;min-height:100vh;color:#fff;font-size:1.7vmin;font-family:'Open Sans',sans-serif;line-height:1.6;background-image:url('/images/gembg.webp');background-size:100% auto;}
+header {padding-top:5vmin;display:flex;flex-direction:row;justify-content:center}
+main {display:flex;justify-content:center;flex:1;flex-wrap:wrap;align-items:flex-start}
+
+section {margin:5vmin;display:flex;flex-direction:column;justify-content:center}
+
+section.download {color:#000;font-size:2vmin;align-items:center}
+section.download .files {display:flex;flex-direction:column;width:100vw}
+section.download .files .file:nth-child(2n) {background-color:rgba(0,0,0,0.05);}
+
+section.bg {position:fixed;width:100%;height:100%;top:0;left:0;z-index:100001;background-color:rgba(0,0,0,0.8);margin:0;color:#000;font-size:2vmin;align-items:center;}
+section.bg p, section.bg h2 {text-align:center}
+section.bg .box {display:flex;flex-direction:column;justify-content:center;background:url('/images/bl1.jpg') no-repeat; background-size:cover;background-position:center;border-radius:2vmin;padding:2vmin}
+//section.bg .box {display:flex;flex-direction:column;justify-content:center;background:url('/images/photo_2024-11-08_04-38-22.jpg') no-repeat; background-size:cover;background-position:center;border-radius:2vmin;padding:2vmin}
+section.bg .white, section.download .white {display:flex;flex-direction:column;justify-content:center;background-color:rgba(255,255,255,0.9);margin:0 3vmin 3vmin 3vmin}
+section.bg .close {display:flex;justify-content:flex-end}
+section.bg .close div {cursor:pointer;width:1vmin;padding:0;font-weight:bold}
+
+.links b {color:#29cf31}
+.links a {text-transform:uppercase}
+
+section.project .img {margin:1vmin;background-repeat:no-repeat;background-position:center;background-size:contain;height:20vmin}
+section.project .name, section.project .links {display:flex;justify-content:space-around;padding:1vmin;background:#000}
+section.project .desc {display:block;align-self:center;background:#1a1a1a;border-radius:2vmin;padding:0.5vmin 1vmin}
+section.project .desc div {display:flex;flex-direction:column}
+section.project p, section.project h3 {margin:1vmin;text-align:center}
+
+section .nav {display:flex;flex-direction:row;justify-content:flex-start;padding:0.5vmin;font-size:2.2vmin;background-color:rgba(0,0,0,0.1);padding:1.5vmin}
+section .nav div {display:flex;flex-direction:row;justify-content:flex-start}
+
+.file {display:flex;flex-direction:row;justify-content:space-between; margin:0.5vmin 1vmin}
+.file a {padding-right:2vmin}
+.overflow {overflow: scroll;max-height:75vh;padding:1vmin}
+
+footer {display:flex;flex-direction:column;justify-content:center;background-color:#333;margin-top:5vmin;padding-top:3vmin;padding-bottom:20vmin;font-size:2vmin;}
+footer p {align-self:center;display:flex;align-items:center;flex-wrap:wrap;margin:1vmin}
+footer p span {padding:0 1vmin}
+footer a {color:#478ac9}
+a:hover {filter:brightness(70%)}
+
+.placeholder {display:flex;justify-content:center;flex-direction:column;align-items:center}
+.loader {font-size:10px;width:1em;height:1em;border-radius:50%;position:relative;display:block;margin:5vmin;animation: mulShdSpin 1.1s infinite ease;transform: translateZ(0);}
+@keyframes mulShdSpin {
+0%, 100% { box-shadow: 0em -2.6em 0em 0em #000, 1.8em -1.8em 0 0em rgba(0,0,0, 0.2), 2.5em 0em 0 0em rgba(0,0,0, 0.2), 1.75em 1.75em 0 0em rgba(0,0,0, 0.2), 0em 2.5em 0 0em rgba(0,0,0, 0.2), -1.8em 1.8em 0 0em rgba(0,0,0, 0.2), -2.6em 0em 0 0em rgba(0,0,0, 0.5), -1.8em -1.8em 0 0em rgba(0,0,0, 0.7); }
+12.5% { box-shadow: 0em -2.6em 0em 0em rgba(0,0,0, 0.7), 1.8em -1.8em 0 0em #000, 2.5em 0em 0 0em rgba(0,0,0, 0.2), 1.75em 1.75em 0 0em rgba(0,0,0, 0.2), 0em 2.5em 0 0em rgba(0,0,0, 0.2), -1.8em 1.8em 0 0em rgba(0,0,0, 0.2), -2.6em 0em 0 0em rgba(0,0,0, 0.2), -1.8em -1.8em 0 0em rgba(0,0,0, 0.5); }
+25% { box-shadow: 0em -2.6em 0em 0em rgba(0,0,0, 0.5), 1.8em -1.8em 0 0em rgba(0,0,0, 0.7), 2.5em 0em 0 0em #000, 1.75em 1.75em 0 0em rgba(0,0,0, 0.2), 0em 2.5em 0 0em rgba(0,0,0, 0.2), -1.8em 1.8em 0 0em rgba(0,0,0, 0.2), -2.6em 0em 0 0em rgba(0,0,0, 0.2), -1.8em -1.8em 0 0em rgba(0,0,0, 0.2); }
+37.5% { box-shadow: 0em -2.6em 0em 0em rgba(0,0,0, 0.2), 1.8em -1.8em 0 0em rgba(0,0,0, 0.5), 2.5em 0em 0 0em rgba(0,0,0, 0.7), 1.75em 1.75em 0 0em #000, 0em 2.5em 0 0em rgba(0,0,0, 0.2), -1.8em 1.8em 0 0em rgba(0,0,0, 0.2), -2.6em 0em 0 0em rgba(0,0,0, 0.2), -1.8em -1.8em 0 0em rgba(0,0,0, 0.2); }
+50% { box-shadow: 0em -2.6em 0em 0em rgba(0,0,0, 0.2), 1.8em -1.8em 0 0em rgba(0,0,0, 0.2), 2.5em 0em 0 0em rgba(0,0,0, 0.5), 1.75em 1.75em 0 0em rgba(0,0,0, 0.7), 0em 2.5em 0 0em #000, -1.8em 1.8em 0 0em rgba(0,0,0, 0.2), -2.6em 0em 0 0em rgba(0,0,0, 0.2), -1.8em -1.8em 0 0em rgba(0,0,0, 0.2); }
+62.5% { box-shadow: 0em -2.6em 0em 0em rgba(0,0,0, 0.2), 1.8em -1.8em 0 0em rgba(0,0,0, 0.2), 2.5em 0em 0 0em rgba(0,0,0, 0.2), 1.75em 1.75em 0 0em rgba(0,0,0, 0.5), 0em 2.5em 0 0em rgba(0,0,0, 0.7), -1.8em 1.8em 0 0em #000, -2.6em 0em 0 0em rgba(0,0,0, 0.2), -1.8em -1.8em 0 0em rgba(0,0,0, 0.2); }
+75% { box-shadow: 0em -2.6em 0em 0em rgba(0,0,0, 0.2), 1.8em -1.8em 0 0em rgba(0,0,0, 0.2), 2.5em 0em 0 0em rgba(0,0,0, 0.2), 1.75em 1.75em 0 0em rgba(0,0,0, 0.2), 0em 2.5em 0 0em rgba(0,0,0, 0.5), -1.8em 1.8em 0 0em rgba(0,0,0, 0.7), -2.6em 0em 0 0em #000, -1.8em -1.8em 0 0em rgba(0,0,0, 0.2); }
+87.5% { box-shadow: 0em -2.6em 0em 0em rgba(0,0,0, 0.2), 1.8em -1.8em 0 0em rgba(0,0,0, 0.2), 2.5em 0em 0 0em rgba(0,0,0, 0.2), 1.75em 1.75em 0 0em rgba(0,0,0, 0.2), 0em 2.5em 0 0em rgba(0,0,0, 0.2), -1.8em 1.8em 0 0em rgba(0,0,0, 0.5), -2.6em 0em 0 0em rgba(0,0,0, 0.7), -1.8em -1.8em 0 0em #000; }
+}
+</style>
+</head>
+<body>
+    <header>
+        <a href="/"><img src="/images/logo11.png" width="250"></a>
+    </header>
+    <div id="main"></div>
+    <footer>
+        <p><span>MAIL:</span> <a href="mailto:blacklock@cyberfear.com">blacklock@cyberfear.com</a></p>
+	<p><span>Telegram:</span> <a href="https://t.me/BlackLockChanel">BlackLock Channel</a></p>
+        <p><span>CHAT:</span> <a href="https://qtox.github.io/">https://qtox.github.io/</a></p> 
+        <p><span>qTox ID:</span> <a href="tox:667798F921A68529C74094664C1B890D4E1156C4588906071398FA4F76C2095C0BF34A4C5D9C">667798F921A68529C74094664C1B890D4E1156C4588906071398FA4F76C2095C0BF34A4C5D9C</a></p>
+        <p><img src="/images/qTox_Image_2024-10-0814-52-47.802.png" width="84" height="84"></p>
+    </footer>
 </body>
 </html>
