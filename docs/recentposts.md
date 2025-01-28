@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-01-28 | [`broward.edu`](https://google.com/search?q=broward.edu) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-01-28 | [`Carthage Police Department`](https://google.com/search?q=Carthage+Police+Department) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2025-01-28 | [`sce.org.sg`](https://google.com/search?q=sce.org.sg) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-01-28 | [`www.healthcarewithinreach.org`](https://google.com/search?q=www.healthcarewithinreach.org) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-01-07 | [`jimthompson.com`](https://google.com/search?q=jimthompson.com) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-01-07 | [`astaphans.com`](https://google.com/search?q=astaphans.com) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-01-07 | [`Saint-Bar (saintbar.be)`](https://google.com/search?q=Saint-Bar+%28saintbar.be%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
-| 2025-01-07 | [`u0 Excel Transportation`](https://google.com/search?q=u0+Excel+Transportation) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
