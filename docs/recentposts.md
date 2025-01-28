@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-01-28 | [`Acoustiblok`](https://google.com/search?q=Acoustiblok) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
+| 2025-01-28 | [`BBLAWFIRM`](https://google.com/search?q=BBLAWFIRM) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
+| 2025-01-28 | [`metalurgica roma`](https://google.com/search?q=metalurgica+roma) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2025-01-28 | [`broward.edu`](https://google.com/search?q=broward.edu) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-01-28 | [`Carthage Police Department`](https://google.com/search?q=Carthage+Police+Department) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2025-01-28 | [`sce.org.sg`](https://google.com/search?q=sce.org.sg) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2025-01-08 | [`acquafertil.com.br`](https://google.com/search?q=acquafertil.com.br) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-01-08 | [`General Digital`](https://google.com/search?q=General+Digital) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2025-01-08 | [`General Digital CRM`](https://google.com/search?q=General+Digital+CRM) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
-| 2025-01-07 | [`jimthompson.com`](https://google.com/search?q=jimthompson.com) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
-| 2025-01-07 | [`astaphans.com`](https://google.com/search?q=astaphans.com) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
-| 2025-01-07 | [`Saint-Bar (saintbar.be)`](https://google.com/search?q=Saint-Bar+%28saintbar.be%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
