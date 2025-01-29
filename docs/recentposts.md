@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-01-29 | [`Mission Locale Montpellier `](https://google.com/search?q=Mission+Locale+Montpellier+) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
+| 2025-01-29 | [`Menominee Tribal Clinic`](https://google.com/search?q=Menominee+Tribal+Clinic) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-01-29 | [`Israel Ministry of National Security Hacked`](https://google.com/search?q=Israel+Ministry+of+National+Security+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2025-01-29 | [`DEL Packaging`](https://google.com/search?q=DEL+Packaging) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
 | 2025-01-28 | [`lnetwork`](https://google.com/search?q=lnetwork) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2025-01-08 | [`bendixengineering`](https://google.com/search?q=bendixengineering) | [ransomblog_noname](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomblog_noname) |
 | 2025-01-08 | [`kingpower.com`](https://google.com/search?q=kingpower.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
 | 2025-01-08 | [`Huntington Hotel Group`](https://google.com/search?q=Huntington+Hotel+Group) | [termite](https://ransomwatch.telemetry.ltd/#/profiles?id=termite) |
-| 2025-01-08 | [`fwmep.edu`](https://google.com/search?q=fwmep.edu) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-01-08 | [`sahpetrol.com.tr`](https://google.com/search?q=sahpetrol.com.tr) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
