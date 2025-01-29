@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-01-29 | [`DEL Packaging`](https://google.com/search?q=DEL+Packaging) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
 | 2025-01-28 | [`lnetwork`](https://google.com/search?q=lnetwork) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2025-01-28 | [`Acoustiblok`](https://google.com/search?q=Acoustiblok) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2025-01-28 | [`BBLAWFIRM`](https://google.com/search?q=BBLAWFIRM) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-01-08 | [`fwmep.edu`](https://google.com/search?q=fwmep.edu) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-01-08 | [`sahpetrol.com.tr`](https://google.com/search?q=sahpetrol.com.tr) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-01-08 | [`acquafertil.com.br`](https://google.com/search?q=acquafertil.com.br) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2025-01-08 | [`General Digital`](https://google.com/search?q=General+Digital) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
