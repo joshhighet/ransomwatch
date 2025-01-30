@@ -4,6 +4,10 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-01-30 | [`malindoair.com - SOLD`](https://google.com/search?q=malindoair.com+-+SOLD) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
+| 2025-01-30 | [`icicibank.com - SOLD`](https://google.com/search?q=icicibank.com+-+SOLD) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
+| 2025-01-30 | [`Silverado Contractors`](https://google.com/search?q=Silverado+Contractors) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
+| 2025-01-30 | [`Night Hawk`](https://google.com/search?q=Night+Hawk) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-01-30 | [`ttucorp.com\$27.6M\USA\1TB\&lt;1% DISCLOSED`](https://google.com/search?q=ttucorp.com%5C%2427.6M%5CUSA%5C1TB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2025-01-30 | [`jayaapparelgroup.com\$60.6M\USA\824GB\&lt;1% DISCLOSED`](https://google.com/search?q=jayaapparelgroup.com%5C%2460.6M%5CUSA%5C824GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2025-01-30 | [`johnpaulrichard.com\$60M\USA\985GB\&lt;1% DISCLOSED`](https://google.com/search?q=johnpaulrichard.com%5C%2460M%5CUSA%5C985GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
@@ -200,7 +204,3 @@ _last `200` posts_
 | 2025-01-11 | [`Jim Thompson`](https://google.com/search?q=Jim+Thompson) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-01-11 | [`Astaphans`](https://google.com/search?q=Astaphans) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-01-11 | [`Unisource Information Services`](https://google.com/search?q=Unisource+Information+Services) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2025-01-11 | [`T. Hasegawa USA`](https://google.com/search?q=T.+Hasegawa+USA) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2025-01-11 | [`RocSearch`](https://google.com/search?q=RocSearch) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2025-01-11 | [`Patriarche Office of Architecture`](https://google.com/search?q=Patriarche+Office+of+Architecture) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2025-01-11 | [`Costex`](https://google.com/search?q=Costex) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
