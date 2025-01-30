@@ -4,6 +4,12 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-01-30 | [`Engine Power Source`](https://google.com/search?q=Engine+Power+Source) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
+| 2025-01-30 | [`Jalaram Produce`](https://google.com/search?q=Jalaram+Produce) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
+| 2025-01-30 | [`KPI Engineering`](https://google.com/search?q=KPI+Engineering) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
+| 2025-01-30 | [`Scott Engineering`](https://google.com/search?q=Scott+Engineering) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
+| 2025-01-30 | [`Tri-Sen Systems`](https://google.com/search?q=Tri-Sen+Systems) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
+| 2025-01-30 | [`soitinlaine.fi`](https://google.com/search?q=soitinlaine.fi) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
 | 2025-01-30 | [`Zschimmer and Schwarz`](https://google.com/search?q=Zschimmer+and+Schwarz) | [termite](https://ransomwatch.telemetry.ltd/#/profiles?id=termite) |
 | 2025-01-30 | [`payahmedabadechallan.org`](https://google.com/search?q=payahmedabadechallan.org) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2025-01-30 | [`Gitlabs: Prasaga, HE2B, Kombinat`](https://google.com/search?q=Gitlabs%3A+Prasaga%2C+HE2B%2C+Kombinat) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
@@ -198,9 +204,3 @@ _last `200` posts_
 | 2025-01-11 | [`Plasma-Therm`](https://google.com/search?q=Plasma-Therm) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2025-01-11 | [`Arun Estates`](https://google.com/search?q=Arun+Estates) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2025-01-11 | [`Brachot`](https://google.com/search?q=Brachot) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2025-01-11 | [`Avril Supermarché Santé`](https://google.com/search?q=Avril+Supermarch%C3%A9+Sant%C3%A9) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2025-01-11 | [`Mortgage Investors Group (MIG)`](https://google.com/search?q=Mortgage+Investors+Group+%28MIG%29) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2025-01-11 | [`Bnext.nl`](https://google.com/search?q=Bnext.nl) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2025-01-10 | [`Protected: Title Hidden`](https://google.com/search?q=Protected%3A+Title+Hidden) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
-| 2025-01-10 | [`amerplumb.com`](https://google.com/search?q=amerplumb.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2025-01-10 | [`www.wisesocon.com`](https://google.com/search?q=www.wisesocon.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
