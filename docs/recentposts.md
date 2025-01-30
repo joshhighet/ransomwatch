@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-01-30 | [`Gitlabs: Professional Computer, X-Pans, Propulsion Academy AG`](https://google.com/search?q=Gitlabs%3A+Professional+Computer%2C+X-Pans%2C+Propulsion+Academy+AG) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2025-01-30 | [`ibericar`](https://google.com/search?q=ibericar) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2025-01-30 | [`malindoair.com - SOLD`](https://google.com/search?q=malindoair.com+-+SOLD) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2025-01-30 | [`icicibank.com - SOLD`](https://google.com/search?q=icicibank.com+-+SOLD) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-01-13 | [`mi.edu`](https://google.com/search?q=mi.edu) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-01-13 | [`adveo.com\$740.7M\France\1.1TB\100% DISCLOSED`](https://google.com/search?q=adveo.com%5C%24740.7M%5CFrance%5C1.1TB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2025-01-11 | [`Jim Thompson`](https://google.com/search?q=Jim+Thompson) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
-| 2025-01-11 | [`Astaphans`](https://google.com/search?q=Astaphans) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
