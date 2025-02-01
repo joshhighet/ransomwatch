@@ -4,6 +4,12 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-02-01 | [`Wireless Solutions (Morris.Domain)`](https://google.com/search?q=Wireless+Solutions+%28Morris.Domain%29) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
+| 2025-02-01 | [`Falcon Gaming`](https://google.com/search?q=Falcon+Gaming) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
+| 2025-02-01 | [`Eascon`](https://google.com/search?q=Eascon) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
+| 2025-02-01 | [`Utilissimo Transportes`](https://google.com/search?q=Utilissimo+Transportes) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
+| 2025-02-01 | [`GATTELLI SpA`](https://google.com/search?q=GATTELLI+SpA) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
+| 2025-02-01 | [`Technico`](https://google.com/search?q=Technico) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2025-01-31 | [`BH Aircraft Company, Inc.`](https://google.com/search?q=BH+Aircraft+Company%2C+Inc.) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2025-01-31 | [`Pembina Trails School Division`](https://google.com/search?q=Pembina+Trails+School+Division) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2025-01-31 | [`A**-****o.com`](https://google.com/search?q=A%2A%2A-%2A%2A%2A%2Ao.com) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
@@ -198,9 +204,3 @@ _last `200` posts_
 | 2025-01-13 | [`Welcomehallmission.com`](https://google.com/search?q=Welcomehallmission.com) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2025-01-13 | [`SERGAS Group`](https://google.com/search?q=SERGAS+Group) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-01-13 | [`Conad (conad.lan)`](https://google.com/search?q=Conad+%28conad.lan%29) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
-| 2025-01-13 | [`Novati Constructions`](https://google.com/search?q=Novati+Constructions) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
-| 2025-01-13 | [`Browdy (bl.local)`](https://google.com/search?q=Browdy+%28bl.local%29) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
-| 2025-01-13 | [`PHG CPAs (bushman.biz)`](https://google.com/search?q=PHG+CPAs+%28bushman.biz%29) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
-| 2025-01-13 | [`Nash Brothers Construction (nashdom.local)`](https://google.com/search?q=Nash+Brothers+Construction+%28nashdom.local%29) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
-| 2025-01-13 | [`Delap & Waller`](https://google.com/search?q=Delap+%26+Waller) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
-| 2025-01-13 | [`healthcarewithinreach.org`](https://google.com/search?q=healthcarewithinreach.org) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
