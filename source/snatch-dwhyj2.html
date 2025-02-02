@@ -1,347 +1,288 @@
 <head>
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title>dwhyj2.top</title>
-    <style media="screen">
-.asset_star0 {
-	background: url('//d38psrni17bvxu.cloudfront.net/themes/assets/star0.gif') no-repeat center;
-	width: 13px;
-	height: 12px;
-	display: inline-block;
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAIAAACQd1PeAAAADElEQVQI12P4//8/AAX+Av7czFnnAAAAAElFTkSuQmCC">
+    <link rel="preconnect" href="https://www.google.com" crossorigin="">
+<title>dwhyj2.top</title><meta name="description" content="See relevant content for dwhyj2.top"><style>* {
+  font-smoothing: antialiased;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
-.asset_star1 {
-	background: url('//d38psrni17bvxu.cloudfront.net/themes/assets/star1.gif') no-repeat center;
-	width: 13px;
-	height: 12px;
-	display: inline-block;
+html, body {
+  width: 100%;
+  margin: 0;
 }
 
-.asset_starH {
-	background: url('//d38psrni17bvxu.cloudfront.net/themes/assets/starH.gif') no-repeat center;
-	width: 13px;
-	height: 12px;
-	display: inline-block;
-}
-
-.sitelink {
-	padding-right: 16px;
-}
-
-.sellerRatings a:link,
-.sellerRatings a:visited,
-.sellerRatings a:hover,
-.sellerRatings a:active {
-	text-decoration: none;
-	cursor: text;
-}
-
-.sellerRatings {
-	margin:0 0 3px 20px;
-}
-
-.sitelinkHolder {
-	margin:-15px 0 15px 35px;
-}
-
-#ajaxloaderHolder {
-	display: block;
-	width: 24px;
-	height: 24px;
-	background: #fff;
-	padding: 8px 0 0 8px;
-	margin:10px auto;
-	-webkit-border-radius: 4px;
-	-moz-border-radius: 4px;
-	border-radius: 4px;
-}</style>    <style media="screen">
-* {
-    margin:0;padding:0
+html {
+  background-color: #2B2B2B;
+  height: 100%;
 }
 
 body {
-    background:#101c36;
-    font-family: sans-serif;
+  min-height: 90%;
+  font-family: Arial, sans-serif;
+  letter-spacing: 1.2px;
+  color: #ccc;
+  text-align: center;
+}
+
+/* App Target - This starts hidden until we apply a class to "activate" it */
+
+#target {
+  opacity: 0;
+  visibility: hidden;
+}
+
+/* Status Messages - These are displayed when we are not rendering ad blocks or Related Search */
+
+#pk-status-message {
+  height: 75vh;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+/* Sales Box - Default State */
+
+#sales-box {
+  display: block;
+  width: 100%;
+  padding: 3px;
+  text-align: center;
+  text-decoration: none;
+  color: #8EABC0;
+}
+
+#sales-box a {
+  display: block;
+  width: 100%;
+  text-decoration: inherit;
+  color: #8EABC0;
+  cursor: pointer;
+}
+
+/* Sales Box - Highlighted State */
+
+#sales-box.is-highlighted {
+  position: relative;
+  z-index: 1;
+  background: #032438 linear-gradient(to top, #044368 0%, #000 100%);
+  box-shadow: 0 0 15px 0 #000;
+  border-bottom: 3px solid #262626;
+}
+
+#sales-box.is-highlighted a {
+  line-height: 1.3;
+  display: inline-block;
+  font-size: 18px;
+  color: #fff;
+  text-shadow: 1px 1px 0 rgba(0, 0, 0, 0.5);
+  background: none;
+}
+
+/* Ellipsis Loader */
+
+.pk-loader {
+  display: inline-block;
+  position: relative;
+  width: 80px;
+  height: 80px;
+}
+
+.pk-loader div {
+  position: absolute;
+  top: 33px;
+  width: 13px;
+  height: 13px;
+  border-radius: 50%;
+  background: #ccc;
+  animation-timing-function: cubic-bezier(0, 1, 1, 0);
+}
+
+.pk-loader div:nth-child(1) {
+  left: 8px;
+  animation: pk-anim-1 0.6s infinite;
+}
+
+.pk-loader div:nth-child(2) {
+  left: 8px;
+  animation: pk-anim-2 0.6s infinite;
+}
+
+.pk-loader div:nth-child(3) {
+  left: 32px;
+  animation: pk-anim-2 0.6s infinite;
+}
+
+.pk-loader div:nth-child(4) {
+  left: 56px;
+  animation: pk-anim-1 0.6s infinite;
+  animation-direction: reverse;
+}
+
+.pk-loader-text {
+  position: fixed;
+  font-size: 12px;
+  right: 20px;
+  bottom: 20px;
+  font-weight: lighter;
+}
+
+/* Utilities */
+
+.pk-message-title {
+  font-size: 2em;
+  font-weight: bold;
+}
+
+.pk-page-ready {
+  opacity: 1 !important;
+  visibility: visible !important;
+}
+
+@media only screen and (max-width: 600px) {
+  .hidden-xs {
+    opacity: 0;
+    visibility: hidden;
+  }
+}
+
+/* Animation */
+
+@keyframes pk-anim-1 {
+  0% {
+      transform: scale(0);
+  }
+  100% {
+      transform: scale(1);
+  }
+}
+
+@keyframes pk-anim-2 {
+  0% {
+      transform: translate(0, 0);
+  }
+  100% {
+      transform: translate(24px, 0);
+  }
+}
+</style><style>:root {
+  --rswidth: 700px;
+  --sales-banner-height: 0;
+}
+
+body, html {
+    font-family: sans-serif, 'Arial';
+    height: 100%;
+    background-color: #2B2B2B;
+    margin: 0 !important;
+    position: relative;
+    overflow-x: hidden;
+}
+
+#target {
+    position: relative;
+    height: auto;
+    margin: 0 auto !important;
+}
+main {
     text-align: center;
-    font-size:1rem;
+    margin: 0 auto;
+    min-height: 100vh;
+    display: flex;
+    position: relative;
+    z-index: 2;
+    align-items: center;
+    justify-content: start;
+    flex-direction: column;
 }
-
-.header {
-    padding:1rem 1rem 0;
-    overflow:hidden;
+header {
+    text-align: center;
+    padding: 45px 0;
 }
-
-h1 {
-    color:#848484;
-    font-size:1.5rem;
+header h1 {
+    font-size: 29px;
+    color: #ccc;
+    text-transform: uppercase;
+    margin: 0;
 }
-
-.header-text-color:visited,
-.header-text-color:link,
-.header-text-color {
-    color:#848484;
-}
-
-.comp-is-parked {
-  margin: 4px 0 2px;
-}
-
-.comp-sponsored {
-  text-align: left;
-  margin: 0 0 -1.8rem 4px;
-}
-
-.wrapper1 {
-    margin:1rem;
-}
-
-.wrapper2 {
-    background:url('//d38psrni17bvxu.cloudfront.net/themes/cleanPeppermintBlack_657d9013/img/bottom.png') no-repeat center bottom;
-    padding-bottom:140px;
-}
-
-.wrapper3 {
-    background:#fff;
-    max-width:300px;
-    margin:0 auto 1rem;
-    padding-top:1px;
-    padding-bottom:1px;
-}
-
-.onDesktop {
-    display:none;
-}
-
-.tcHolder {
-    padding-top: 2rem;
-}
-
-.adsHolder {
-    margin: 1rem 0;
-    padding-top: 2rem;
-    overflow:hidden;
-}
-
-.footer {
-    color:#626574;
-    padding:2rem 1rem;
-    font-size:.8rem;
-    margin:0 auto;
-    max-width:440px;
-}
-
-.footer a:link,
-.footer a:visited {
-    color:#626574;
-}
-
-.sale_link_bold a,
-.sale_link,
-.sale_link a {
-    color:#626574 !important;
-}
-
-.searchHolder {
-    padding:1px 0 1px 1px;
-    margin:1rem auto;
-    width: 95%;
-    max-width: 500px;
-}
-
-@media screen and (min-width:600px) {
-
-    .comp-is-parked,
-    .comp-sponsored {
-      color: #848484;
-    }
-
-    .comp-sponsored {
-      margin-left: 0;
-    }
-
-    .wrapper1 {
-        max-width:1500px;
-        margin-left:auto;
-        margin-right:auto;
-    }
-
-    .wrapper2 {
-        background:url('//d38psrni17bvxu.cloudfront.net/themes/cleanPeppermintBlack_657d9013/img/arrows.png') no-repeat center top;
-        padding-bottom:0;
-        min-height:600px;
-    }
-
-    .wrapper3 {
-        max-width:530px;
-        background:none;
-    }
-}
-</style>    <style media="screen">
-.fallback-term-holder {
-    display: inline-grid;
-    grid-template-columns: 1fr;
+main section {
+    flex: 1;
+    padding: 20px;
     width: 100%;
-    padding-top: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    flex-direction: column;
+}
+section .ad-block {
+    width: 100%;
+    max-width: 500px;
+    height: 100%;
+
+}
+#rs {
+    width: 100%;
+    max-width: var(--rswidth);
+    min-height: 480px;
+    height: 100%;
+}
+footer {
+    font-size: 14px;
+    text-align: center;
+    padding: 30px 0px;
+    width: 100%;
+    color: #555;
+}
+footer a {
+    color: #555;
 }
 
-.fallback-term-link {
-    grid-column: 1 / span 1; align-self: center;
-    padding: 50px 13px 50px 13px; border-radius: 25px;
-    border: 5px solid #ffffff; margin-bottom: 20px;
-    background-color: rgb(17, 38, 77);
-    text-decoration-line: none;
-    font-size: 18px;
-    font-weight: 700;
-    color: #ffffff;
-    text-align: left;
-}
+#sales-banner {
+    height: var(--sales-banner-height);
+} 
 
-.fallback-arrow {
-    float: right;
-    width: 24px;
-    height: 24px;
-    background-image: url('data:image/svg+xml;base64,PHN2ZyBmaWxsPScjRDdEN0Q3JyBzdHlsZT0iZmxvYXQ6IHJpZ2h0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjI0Ij48cGF0aCBkPSJNMCAwaDI0djI0SDB6IiBmaWxsPSJub25lIi8+PHBhdGggZD0iTTUuODggNC4xMkwxMy43NiAxMmwtNy44OCA3Ljg4TDggMjJsMTAtMTBMOCAyeiIvPjwvc3ZnPg==');
-}</style>
-    <meta name="description" content="This domain may be for sale!">
-            <style>
-            @media (min-width: 600px) {
-                .tcHolder {
-                    margin-top: 3rem
-                }
-            }
-            </style>
-    <script src="https://obseu.netgreencolumn.com/ct?id=77721&amp;url=http%3A%2F%2Fww38.dwhyj2.top%2F&amp;sf=0&amp;tpi=&amp;ch=landingpage&amp;uvid=392949840b86dd4e442a209b772ed8d2a2bdb17f&amp;tsf=0&amp;tsfmi=&amp;tsfu=&amp;cb=1738512292449&amp;hl=1&amp;op=0&amp;ag=3678426874&amp;rand=94271558184812919855872265267226540822622019802020720270227822015862295762518907702070&amp;fs=1366x682&amp;fst=1366x682&amp;np=linux%20x86_64&amp;nv=&amp;ref=&amp;ss=1366x768&amp;nc=0&amp;at=&amp;di=W1siZWYiLDUyMjldLFsiYWJuY2giLDldLFstMywiW1wiaW50ZXJuYWwtcGRmLXZpZXdlclwiLFwiaW50ZXJuYWwtcGRmLXZpZXdlclwiLFwiaW50ZXJuYWwtcGRmLXZpZXdlclwiLFwiaW50ZXJuYWwtcGRmLXZpZXdlclwiLFwiaW50ZXJuYWwtcGRmLXZpZXdlclwiXSJdLFstMTAsIi0iXSxbLTM3LCItIl0sWy02LCJ7XCJ3XCI6W1wiMFwiLFwidGxpbmtcIixcInRjYmxvY2tcIixcInNlYXJjaGJveEJsb2NrXCIsXCJnZXRYTUxodHRwXCIsXCJhamF4UXVlcnlcIixcImFqYXhCYWNrZmlsbFwiLFwibG9hZEZlZWRcIixcInhtbEh0dHBcIixcImxzXCIsXCJnZXRMb2FkRmVlZEFyZ3VtZW50c1wiLFwiX19jdGNnX2N0Xzc3NzIxX2V4ZWNcIixcImdvb2dsZU5EVF9cIixcImdvb2dsZUFsdExvYWRlclwiLFwiZ29vZ2xlXCIsXCJfX3Nhc0Nvb2tpZVwiXSxcIm5cIjpbXSxcImRcIjpbXX0iXSxbLTU4LCItIl0sWy0yNiwiLSJdLFstMiwiOTEsRkJFVkJSckNBcVlnRUIyNHFkMVVWRlhWZGRzYU8wUmF6cjJsZkYzaFZGVkVTczJIY3RhMWRFbWxJRENhbFQ3dHorUGVmTzNPVE9KRkgwdjEvNWZZTnhhbTVtM3VjK3B6em5uSCJdLFstNjMsIi0iXSxbLTEyLCJcInVuc3BlY2lmaWVkXCIiXSxbLTE0LCItIl0sWy0xNSwiLSJdLFstMTksIlswLDAsMCwwLDAsMCwxLDI0LDI0LFwiLVwiLDEzNjYsNzY4LDEzNjYsNzY4LDEzNjYsNzY4LDEzNjYsNjgyLDAsMCwwLDAsXCItXCIsXCItXCIsMTM1NCw2ODIsbnVsbF0iXSxbLTM5LCJbXCIyMDEwMDEwMVwiLDIsXCJHZWNrb1wiLFwiTmV0c2NhcGVcIixcIk1vemlsbGFcIixcIjIwMTgxMDAxMDAwMDAwXCIsbnVsbCxmYWxzZSxudWxsLGZhbHNlLG51bGwsNSx0cnVlLGZhbHNlLG51bGwsMCxmYWxzZSxmYWxzZV0iXSxbLTU3LCJTM2xSVFUxSlNnTVdGbHhNVmxzWFYxeE5Ya3RjWEZkYVZsVk1WRmNYV2xaVUZrcEJTUlpRRmxvTkR3a0lYQXhmRDFwZFhRNEtDd2dQV2xoZlhWME1XRjhMQ1FBTENRaGFGMU5LQXdnRERnb0FDQTRWVFJkY1FVbFdTMDFLRmdWNVVVMU5TVW9ERmhaY1RGWmJGMWRjVFY1TFhGeFhXbFpWVEZSWEYxcFdWQlpLUVVrV1VCWmFEUThKQ0Z3TVh3OWFYVjBPQ2dzSUQxcFlYMTFkREZoZkN3a0FDd2tJV2hkVFNnTUlBdzROQ0FnSyJdLFstNTksImRlbmllZCJdLFstNjAsIi0iXSxbLTE2LCIwIl0sWy0xOCwiWzAsMCwwLDFdIl0sWy0yMywiKyJdLFstMjQsIltdIl0sWy0yOCwiZW4tVVMsZW4iXSxbLTcsIi0iXSxbLTU0LCJ7XCJoXCI6W1wiMzI5OTcyODQ1MlwiLFwiODIyODIzMTE5XCIsXCJfM1wiLFwiMjg3Mjg5OTMyMFwiXSxcImRcIjpbXSxcImJcIjpbXCJfMFwiLFwiMjY0NjAzODgyXCIsXCJfMlwiLFwiMzgyMzQ0MzQyN1wiXSxcInNcIjoxfSJdLFstNTYsImxhbmRzY2FwZS1wcmltYXJ5Il0sWy02NSwiLSJdLFstMTMsIi0iXSxbLTE3LCI0Il0sWy0zNSwiWzE3Mzg1MTIyOTIyNjcsMF0iXSxbLTQwLCIzNyJdLFstNDUsIi0iXSxbLTY0LCItIl0sWy02OCwiLSJdLFstNzEsImEwMTEwMDEwMTAwMTAwMTAxMDAwMTAxMDAxMTExMTAwMDAwMDEwIl0sWy0yMSwiLSJdLFstMjUsIi0iXSxbLTQxLCItIl0sWy00NywiVVRDLGVuLVVTLGxhdG4sZ3JlZ29yeSJdLFstMSwiTGludXggeDg2XzY0Il0sWy02MiwiNTgiXSxbLTIyLCJbXCJuXCIsXCJuXCJdIl0sWy0zNCwiLSJdLFstNDIsIjg4MzM5OTAxNiJdLFstNDMsIjAwMDAwMDAxMDAwMDAwMDAwMDExMTAwMTAwMDAwMTAwMDAwMDAwMCJdLFstNjcsIi0iXSxbLTI3LCItIl0sWy0yOSwiLSJdLFstNCwiLSJdLFstNSwiLSJdLFstOCwiLSJdLFstNTIsIi0iXSxbLTIwLCItIl0sWy0zMSwidHJ1ZSJdLFsxMiwie1wiZVwiOjAsXCJ3Z2xcIjoxfSJdLFstOSwiKyJdLFstNDgsIjAsMCJdLFstNTMsIjAwMSJdLFstNjksIkxpbnV4IHg4Nl82NHx8fDR8LXwtIl0sWy0zMCwiW1widlwiLDBdIl0sWy0zMywiLSJdLFstMzgsImMsLTEsLTEsMjk5LDAsMCwwLDEwMSwxLDI0NSwtMSwwLCwxMTI5LDE3NTYsMTc1NiJdLFstNDQsIjAsNSwwLDUiXSxbLTQ2LCIwIl0sWyJibmNoIiw2MTVdLFstMTEsIntcInRcIjpcIlwiLFwibVwiOltcImRlc2NyaXB0aW9uXCJdfSJdLFstNDksIi0iXSxbLTUwLCItIl0sWy02MSwiLSJdLFstNjYsIi0iXSxbLTMyLCIwIl0sWy0zNiwiW1wiNjgzLzM4NFwiLFwiNjgzLzM4NFwiXSJdLFstNTEsIi0iXSxbLTU1LCIwIl0sWy03MCwiLSJdLFsiZGRiIiwiMCw5MSwwLDAsMSwxLDAsMCwwLDAsMCwwLDAsMCwxLDAsMCwwLDAsMCwwLDAsMCwwLDAsMSwwLDEsMCwwLDAsMSwwLDAsMCwwLDAsMSwwLDAsMCw1LDAsMSwxLDAsMTQ4LDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMSwwIl0sWyJjYiIsIjAsMCwwLDAsMCwwLDAsMSwxLDEsMCwwLDE5LDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwxLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMSwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDEsMCwwLDAsMCwwLDY3LDAsMCwwIl1d&amp;dep=0&amp;pre=0&amp;sdd=&amp;cri=i3BIhYcZOA&amp;pto=1763&amp;ver=63&amp;gac=-&amp;mei=&amp;ap=&amp;fe=1&amp;duid=1.1738512292.JSvmCqhEZ2vmCGj7&amp;suid=1.1738512292.fkI9Xb8BBz0ImEdX&amp;tuid=1.1738512292.gRzIG5f2jBdSgtSS&amp;fbc=-&amp;gtm=-&amp;it=12%2C669%2C77&amp;fbcl=-&amp;gacl=-&amp;gacsd=-&amp;rtic=-&amp;bgc=-&amp;spa=1&amp;urid=0&amp;ab=&amp;sck=-&amp;io=aGA2Og%3D%3D" async=""></script></head>
+#sales-banner.top { 
+    margin-bottom: 8px; 
+} 
 
-<body id="afd" style="visibility: visible;"><a href="#" tabindex="-1" aria-hidden="true" rel="nofollow" style="opacity: 0.01; position: absolute; z-index: -999; width: 54px; height: 22px;">___</a><div style="opacity: 0.01; position: absolute; z-index: -1000; width: 54px; height: 22px;"></div>
+#sales-banner.bottom { 
+    margin-top: 8px; 
+}</style></head>
+<body>
+<div id="target" style="opacity: 0" class="pk-page-ready">
 
-<div class="wrapper1">
+<main>
     
-<style>
-    .sale_banner_gray {
-        background:#706b67;
-        background: -moz-linear-gradient(top, #817c78 0%, #5d5854 100%);
-        background: -webkit-linear-gradient(top, #817c78 0%,#5d5854 100%);
-        background: linear-gradient(to bottom, #817c78 0%,#5d5854 100%);
-        filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#817c78', endColorstr='#5d5854',GradientType=0 );
-        border-top: 1px solid #eee;
-        border-bottom: 1px solid #eee;
-        color: #c8c8c8;
-        text-align: center;
-        font: bold 16px/36px sans-serif;
-        height: 36px;
-    }
-
-    .sale_banner_gray a {
-        display: block;
-        color:#fff;
-        text-decoration: none;
-    }
-</style>
-
-
-	<script src="https://partner.googleadservices.com/gampad/cookie.js?domain=ww38.dwhyj2.top&amp;client=dp-teaminternet04_3ph&amp;product=SAS&amp;callback=__sasCookie&amp;cookie_types=v1%2Cv2"></script><script src="http://c.parkingcrew.net/scripts/sale_form.js" type="text/javascript"></script>
-
-<div class="sale_banner_gray" style="border-top:none">
-			<a href="http://www.sedo.com/search/details.php4?partnerid=&amp;domain=dwhyj2.top" target="_blank" onmousedown="tlink('ing', 'dwhyj2.top');">
-            Buy this domain.
-	</a>
-</div>
-    <div class="wrapper2">
-        <div class="wrapper3">
-            <br>
-    <script async="" src="https://euob.netgreencolumn.com/sxp/i/c4601e5f6cdd73216cafdd5af209201c.js" data-ch="landingpage" data-uvid="392949840b86dd4e442a209b772ed8d2a2bdb17f" class="ct_clicktrue_77721" data-jsonp="onCheqResponse"></script>
-<br>
-                        <div class="tcHolder">
-                <div id="tc" style="height: auto;"><iframe frameborder="0" marginwidth="0" marginheight="0" allowtransparency="true" scrolling="no" style="visibility: visible; height: 496px; display: block;" width="100%" name="{&quot;name&quot;:&quot;master-1&quot;,&quot;slave-1-1&quot;:{&quot;clicktrackUrl&quot;:&quot;https://trkpcna.net/munin/a/tr/click?click=caf&amp;domain=dwhyj2.top&amp;uid=MTczODUxMjI5MS4yMzIxOjgzZjc2NzE2ZmU0YTk2OGRkNDQ0MjQyN2EwNDMwMzhmODVmOGFiNjc4NjhjYmMzNGYwYzhhMDRjN2Y2YmQ3NzE6Njc5Zjk3YTMzOGE3Yw%3D%3D&amp;ts=fENsZWFuUGVwcGVybWludEJsYWNrfHw1Y2U4NHxidWNrZXQwMjd8fHx8fHw2NzlmOTdhMzM4YTJjfHx8MTczODUxMjI5MS4yNjM2fDI5ZTU1OGYxOWJkNWZjNTU5M2FlMDMwMTZmMDI0NDE4YmZhMTFiOWR8fHx8fDF8fDB8MHx8fHwxfHx8fHwwfDB8fHx8fHx8fFpIQXRkR1ZoYldsdWRHVnlibVYwTURSZk0zQm98ZDgyZjM2MWZiZjFhMmNkYjk1Y2Y3NmRjNjczMTAzZDYzZWVlNTdiZHwwfDB8fDB8fHwwfDB8VzEwPXx8MXxXMTA9fDM5Mjk0OTg0MGI4NmRkNGU0NDJhMjA5Yjc3MmVkOGQyYTJiZGIxN2Z8MHxkcC10ZWFtaW50ZXJuZXQwNF8zcGh8MHwwfHx8fHw%3D&amp;adtest=off&quot;,&quot;container&quot;:&quot;search&quot;,&quot;styleId&quot;:7840396037,&quot;personalizedAds&quot;:false,&quot;channel&quot;:&quot;bucket007,bucket027&quot;,&quot;domainName&quot;:&quot;ww38.dwhyj2.top&quot;,&quot;fexp&quot;:&quot;21404,17300003,17301437,17301439,17301442,17301266,72717108&quot;,&quot;masterNumber&quot;:1,&quot;number&quot;:10,&quot;pubId&quot;:&quot;dp-teaminternet04_3ph&quot;,&quot;role&quot;:&quot;s&quot;,&quot;slaveNumber&quot;:1,&quot;hl&quot;:&quot;en&quot;,&quot;resultsPageBaseUrl&quot;:&quot;http://ww38.dwhyj2.top/?ts=fENsZWFuUGVwcGVybWludEJsYWNrfHw1Y2U4NHxidWNrZXQwMjd8fHx8fHw2NzlmOTdhMzM4YTJjfHx8MTczODUxMjI5MS4yNjM2fDI5ZTU1OGYxOWJkNWZjNTU5M2FlMDMwMTZmMDI0NDE4YmZhMTFiOWR8fHx8fDF8fDB8MHx8fHwxfHx8fHwwfDB8fHx8fHx8fFpIQXRkR1ZoYldsdWRHVnlibVYwTURSZk0zQm98ZDgyZjM2MWZiZjFhMmNkYjk1Y2Y3NmRjNjczMTAzZDYzZWVlNTdiZHwwfDB8fDB8fHwwfDB8VzEwPXx8MXxXMTA9fDM5Mjk0OTg0MGI4NmRkNGU0NDJhMjA5Yjc3MmVkOGQyYTJiZGIxN2Z8MHxkcC10ZWFtaW50ZXJuZXQwNF8zcGh8MHwwfHx8fHw%3D&quot;,&quot;resultsPageQueryParam&quot;:&quot;query&quot;,&quot;terms&quot;:&quot;&quot;,&quot;kw&quot;:&quot;&quot;,&quot;ie&quot;:&quot;UTF-8&quot;,&quot;maxTermLength&quot;:40,&quot;maxTop&quot;:null,&quot;minTop&quot;:null,&quot;oe&quot;:&quot;UTF-8&quot;,&quot;fontFamily&quot;:&quot;arial&quot;,&quot;type&quot;:&quot;searchbox&quot;,&quot;linkTarget&quot;:&quot;_blank&quot;,&quot;colorBackground&quot;:&quot;transparent&quot;,&quot;hideSearchInputBorder&quot;:false,&quot;hideSearchButtonBorder&quot;:true,&quot;colorSearchButton&quot;:&quot;#0b3279&quot;,&quot;colorSearchButtonText&quot;:&quot;#fff&quot;,&quot;fontSizeSearchInput&quot;:12,&quot;fontSizeSearchButton&quot;:13,&quot;uiOptimize&quot;:true,&quot;domainRegistrant&quot;:&quot;as-drid-2657853924491968&quot;},&quot;master-1&quot;:{&quot;clicktrackUrl&quot;:&quot;https://trkpcna.net/munin/a/tr/click?click=caf&amp;domain=dwhyj2.top&amp;uid=MTczODUxMjI5MS4yMzIxOjgzZjc2NzE2ZmU0YTk2OGRkNDQ0MjQyN2EwNDMwMzhmODVmOGFiNjc4NjhjYmMzNGYwYzhhMDRjN2Y2YmQ3NzE6Njc5Zjk3YTMzOGE3Yw%3D%3D&amp;ts=fENsZWFuUGVwcGVybWludEJsYWNrfHw1Y2U4NHxidWNrZXQwMjd8fHx8fHw2NzlmOTdhMzM4YTJjfHx8MTczODUxMjI5MS4yNjM2fDI5ZTU1OGYxOWJkNWZjNTU5M2FlMDMwMTZmMDI0NDE4YmZhMTFiOWR8fHx8fDF8fDB8MHx8fHwxfHx8fHwwfDB8fHx8fHx8fFpIQXRkR1ZoYldsdWRHVnlibVYwTURSZk0zQm98ZDgyZjM2MWZiZjFhMmNkYjk1Y2Y3NmRjNjczMTAzZDYzZWVlNTdiZHwwfDB8fDB8fHwwfDB8VzEwPXx8MXxXMTA9fDM5Mjk0OTg0MGI4NmRkNGU0NDJhMjA5Yjc3MmVkOGQyYTJiZGIxN2Z8MHxkcC10ZWFtaW50ZXJuZXQwNF8zcGh8MHwwfHx8fHw%3D&amp;adtest=off&quot;,&quot;container&quot;:&quot;tc&quot;,&quot;styleId&quot;:7840396037,&quot;personalizedAds&quot;:false,&quot;channel&quot;:&quot;bucket007,bucket027&quot;,&quot;domainName&quot;:&quot;ww38.dwhyj2.top&quot;,&quot;fexp&quot;:&quot;21404,17300003,17301437,17301439,17301442,17301266,72717108&quot;,&quot;masterNumber&quot;:1,&quot;number&quot;:3,&quot;pubId&quot;:&quot;dp-teaminternet04_3ph&quot;,&quot;role&quot;:&quot;m&quot;,&quot;hl&quot;:&quot;en&quot;,&quot;resultsPageBaseUrl&quot;:&quot;http://ww38.dwhyj2.top/?ts=fENsZWFuUGVwcGVybWludEJsYWNrfHw1Y2U4NHxidWNrZXQwMjd8fHx8fHw2NzlmOTdhMzM4YTJjfHx8MTczODUxMjI5MS4yNjM2fDI5ZTU1OGYxOWJkNWZjNTU5M2FlMDMwMTZmMDI0NDE4YmZhMTFiOWR8fHx8fDF8fDB8MHx8fHwxfHx8fHwwfDB8fHx8fHx8fFpIQXRkR1ZoYldsdWRHVnlibVYwTURSZk0zQm98ZDgyZjM2MWZiZjFhMmNkYjk1Y2Y3NmRjNjczMTAzZDYzZWVlNTdiZHwwfDB8fDB8fHwwfDB8VzEwPXx8MXxXMTA9fDM5Mjk0OTg0MGI4NmRkNGU0NDJhMjA5Yjc3MmVkOGQyYTJiZGIxN2Z8MHxkcC10ZWFtaW50ZXJuZXQwNF8zcGh8MHwwfHx8fHw%3D&quot;,&quot;resultsPageQueryParam&quot;:&quot;query&quot;,&quot;terms&quot;:&quot;&quot;,&quot;kw&quot;:&quot;&quot;,&quot;ie&quot;:&quot;UTF-8&quot;,&quot;maxTermLength&quot;:40,&quot;maxTop&quot;:null,&quot;minTop&quot;:null,&quot;oe&quot;:&quot;UTF-8&quot;,&quot;fontFamily&quot;:&quot;arial&quot;,&quot;type&quot;:&quot;relatedsearch&quot;,&quot;linkTarget&quot;:&quot;_blank&quot;,&quot;colorBackground&quot;:&quot;transparent&quot;,&quot;uiOptimize&quot;:true,&quot;domainRegistrant&quot;:&quot;as-drid-2657853924491968&quot;}}" id="master-1" src="https://syndicatedsearch.goog/afs/ads?adtest=off&amp;psid=7840396037&amp;pcsa=false&amp;channel=bucket007%2Cbucket027&amp;client=dp-teaminternet04_3ph&amp;r=m&amp;hl=en&amp;rpbu=http%3A%2F%2Fww38.dwhyj2.top%2F%3Fts%3DfENsZWFuUGVwcGVybWludEJsYWNrfHw1Y2U4NHxidWNrZXQwMjd8fHx8fHw2NzlmOTdhMzM4YTJjfHx8MTczODUxMjI5MS4yNjM2fDI5ZTU1OGYxOWJkNWZjNTU5M2FlMDMwMTZmMDI0NDE4YmZhMTFiOWR8fHx8fDF8fDB8MHx8fHwxfHx8fHwwfDB8fHx8fHx8fFpIQXRkR1ZoYldsdWRHVnlibVYwTURSZk0zQm98ZDgyZjM2MWZiZjFhMmNkYjk1Y2Y3NmRjNjczMTAzZDYzZWVlNTdiZHwwfDB8fDB8fHwwfDB8VzEwPXx8MXxXMTA9fDM5Mjk0OTg0MGI4NmRkNGU0NDJhMjA5Yjc3MmVkOGQyYTJiZGIxN2Z8MHxkcC10ZWFtaW50ZXJuZXQwNF8zcGh8MHwwfHx8fHw%253D&amp;max_radlink_len=40&amp;type=3&amp;uiopt=true&amp;swp=as-drid-2657853924491968&amp;oe=UTF-8&amp;ie=UTF-8&amp;fexp=21404%2C17300003%2C17301437%2C17301439%2C17301442%2C17301266%2C72717108&amp;format=r3%7Cs&amp;nocache=981738512291869&amp;num=0&amp;output=afd_ads&amp;domain_name=ww38.dwhyj2.top&amp;v=3&amp;bsl=8&amp;pac=0&amp;u_his=1&amp;u_tz=0&amp;dt=1738512291870&amp;u_w=1366&amp;u_h=768&amp;biw=1354&amp;bih=682&amp;psw=1354&amp;psh=797&amp;frm=0&amp;uio=--&amp;cont=tc&amp;drt=0&amp;jsid=caf&amp;jsv=721100514&amp;rurl=http%3A%2F%2Fww38.dwhyj2.top%2F" title=""></iframe></div>
+      <header>
+        <h1>dwhyj2.top</h1>
+      </header>
+    
+    <section>
+        <div class="ad-block">
+            <div class="ads">
+                <div id="ad-1"></div>
+                <div id="ad-2"></div>
             </div>
         </div>
-    </div>
-            <div class="footer">
-            2025 Copyright.  All Rights Reserved.
-<br><br>
-<a href="javascript:void(0);" onclick="window.open('/privacy.html', 'privacy-policy', 'width=890,height=330,left=200,top=200,menubar=no,status=yes,toolbar=no').focus()" class="privacy-policy">
-    Privacy Policy
-</a>
-<br><br>
-<br><br>
-    </div>
+        <div id="rs" style="height: auto;"><iframe frameborder="0" marginwidth="0" marginheight="0" allowtransparency="true" scrolling="no" style="visibility: visible; height: 363px; display: block;" width="100%" name="{&quot;name&quot;:&quot;master-1&quot;,&quot;master-1&quot;:{&quot;container&quot;:&quot;rs&quot;,&quot;styleId&quot;:&quot;3113057640&quot;,&quot;personalizedAds&quot;:false,&quot;channel&quot;:&quot;pid-bodis-gcontrol97,pid-bodis-gcontrol118,pid-bodis-gcontrol472,pid-bodis-gcontrol152,pid-bodis-gcontrol162&quot;,&quot;domainName&quot;:&quot;ww25.dwhyj2.top&quot;,&quot;fexp&quot;:&quot;21404,17301437,17301439,17301442,17301266,72717108&quot;,&quot;masterNumber&quot;:1,&quot;number&quot;:3,&quot;pubId&quot;:&quot;dp-bodis31_3ph&quot;,&quot;role&quot;:&quot;m&quot;,&quot;hl&quot;:&quot;en&quot;,&quot;ivt&quot;:true,&quot;resultsPageBaseUrl&quot;:&quot;http://ww25.dwhyj2.top/?caf=1&amp;bpt=345&amp;subid1=20250203-0505-39c7-b0a9-c18b54262aa6&quot;,&quot;resultsPageQueryParam&quot;:&quot;query&quot;,&quot;terms&quot;:&quot;&quot;,&quot;kw&quot;:&quot;&quot;,&quot;ie&quot;:&quot;UTF-8&quot;,&quot;maxTermLength&quot;:50,&quot;maxTop&quot;:null,&quot;minTop&quot;:null,&quot;oe&quot;:&quot;UTF-8&quot;,&quot;type&quot;:&quot;relatedsearch&quot;,&quot;linkTarget&quot;:&quot;_blank&quot;,&quot;uiOptimize&quot;:false,&quot;domainRegistrant&quot;:&quot;as-drid-2589285024539458&quot;}}" id="master-1" src="https://syndicatedsearch.goog/afs/ads?adtest=off&amp;psid=3113057640&amp;pcsa=false&amp;channel=pid-bodis-gcontrol97%2Cpid-bodis-gcontrol118%2Cpid-bodis-gcontrol472%2Cpid-bodis-gcontrol152%2Cpid-bodis-gcontrol162&amp;client=dp-bodis31_3ph&amp;r=m&amp;hl=en&amp;ivt=1&amp;rpbu=http%3A%2F%2Fww25.dwhyj2.top%2F%3Fcaf%3D1%26bpt%3D345%26subid1%3D20250203-0505-39c7-b0a9-c18b54262aa6&amp;max_radlink_len=50&amp;type=3&amp;uiopt=false&amp;swp=as-drid-2589285024539458&amp;oe=UTF-8&amp;ie=UTF-8&amp;fexp=21404%2C17301437%2C17301439%2C17301442%2C17301266%2C72717108&amp;format=r3&amp;nocache=3301738519540264&amp;num=0&amp;output=afd_ads&amp;domain_name=ww25.dwhyj2.top&amp;v=3&amp;bsl=8&amp;pac=0&amp;u_his=1&amp;u_tz=0&amp;dt=1738519540265&amp;u_w=1366&amp;u_h=768&amp;biw=1366&amp;bih=682&amp;psw=1366&amp;psh=614&amp;frm=0&amp;uio=-&amp;cont=rs&amp;drt=0&amp;jsid=caf&amp;jsv=721100514&amp;rurl=http%3A%2F%2Fww25.dwhyj2.top%2F%3Fsubid1%3D20250203-0505-39c7-b0a9-c18b54262aa6" title=""></iframe></div>
+    </section>
+    <footer>
+        <span>Copyright 2025</span>
+	    <span style="padding:0px 8px;">•</span>
+	    <a href="/privacy" target="_blank">Privacy Policy</a>
+	    <span style="padding:0px 8px;">•</span>
+	    <a href="/legal" target="_blank">Legal</a>
+        <p id="imprint-text"></p>
+    </footer>
+</main>
+
 </div>
-
-<script type="text/javascript" language="JavaScript">
-    var tcblock = {
-        // Required and steady
-        'container': 'tc',
-        'type': 'relatedsearch',
-        'colorBackground': 'transparent',
-        
-        'number': 3,
-        
-        // Font-Sizes and Line-Heights
-        'fontSizeAttribution': 14,
-        'fontSizeTitle': 24,
-        'lineHeightTitle': 34,
-        // Colors
-        'colorAttribution': '#aaa',
-        'colorTitleLink': '#0277bd',
-        // Alphabetically
-        'horizontalAlignment': 'center',
-        'noTitleUnderline': false,
-        'rolloverLinkColor': '#01579b',
-        'verticalSpacing': 10
-    };
-    var searchboxBlock = {
-        'container': 'search',
-        'type': 'searchbox',
-        'fontSizeSearchInput': 12,
-        'hideSearchInputBorder': false,
-        'hideSearchButtonBorder': true,
-        'fontSizeSearchButton': 13,
-        'colorBackground': 'transparent',
-        'colorSearchButton': '#0b3279',
-        'colorSearchButtonText': '#fff'
-    };
-    </script>
-<script type="text/javascript">let isAdult=false;         let containerNames=[];         let uniqueTrackingID='MTczODUxMjI5MS4yMzIxOjgzZjc2NzE2ZmU0YTk2OGRkNDQ0MjQyN2EwNDMwMzhmODVmOGFiNjc4NjhjYmMzNGYwYzhhMDRjN2Y2YmQ3NzE6Njc5Zjk3YTMzOGE3Yw==';         let search='';         let themedata='fENsZWFuUGVwcGVybWludEJsYWNrfHw1Y2U4NHxidWNrZXQwMjd8fHx8fHw2NzlmOTdhMzM4YTJjfHx8MTczODUxMjI5MS4yNjM2fDI5ZTU1OGYxOWJkNWZjNTU5M2FlMDMwMTZmMDI0NDE4YmZhMTFiOWR8fHx8fDF8fDB8MHx8fHwxfHx8fHwwfDB8fHx8fHx8fFpIQXRkR1ZoYldsdWRHVnlibVYwTURSZk0zQm98ZDgyZjM2MWZiZjFhMmNkYjk1Y2Y3NmRjNjczMTAzZDYzZWVlNTdiZHwwfDB8fDB8fHwwfDB8VzEwPXx8MXxXMTA9fDM5Mjk0OTg0MGI4NmRkNGU0NDJhMjA5Yjc3MmVkOGQyYTJiZGIxN2Z8MHxkcC10ZWFtaW50ZXJuZXQwNF8zcGh8MHwwfHx8fHw=';         let domain='dwhyj2.top';         let scriptPath='';         let adtest='off';if(top.location!==location) { top.location.href=location.protocol + '//' + location.host + location.pathname + (location.search ? location.search + '&' : '?') + '_xafvr=MzYwMDA3ZDY4YmE0MjA4YWE2MjcwMDRlODQ3OWUzZjY2ZmFlNTA3ZSw2NzlmOTdhMzQwNTY2'; }let pageLoadedCallbackTriggered = false;let fallbackTriggered = false;let formerCalledArguments = false;let pageOptions = {'pubId': 'dp-teaminternet01','resultsPageBaseUrl': '//' + location.host + '/?ts=','fontFamily': 'arial','optimizeTerms': true,'maxTermLength': 40,'adtest': true,'clicktrackUrl': '//' + location.host + '/munin/a/tr/click?','attributionText': 'Ads','colorAttribution': '#b7b7b7','fontSizeAttribution': 16,'attributionBold': false,'rolloverLinkBold': false,'fontFamilyAttribution': 'arial','adLoadedCallback': function(containerName, adsLoaded, isExperimentVariant, callbackOptions) {let data = {containerName: containerName,adsLoaded: adsLoaded,isExperimentVariant: isExperimentVariant,callbackOptions: callbackOptions,terms: pageOptions.terms};if (!adsLoaded || (containerName in containerNames)) {ajaxQuery(scriptPath + "/munin/a/tr/adloaded"+ "?toggle=adloaded"+ "&uid=" + encodeURIComponent(uniqueTrackingID)+ "&domain=" + encodeURIComponent(domain)+ "&data=" + encodeURIComponent(JSON.stringify(data)));}},'pageLoadedCallback': function (requestAccepted, status) {document.body.style.visibility = 'visible';pageLoadedCallbackTriggered = true;if ((status.faillisted === true || status.faillisted == "true" || status.blocked === true || status.blocked == "true" ) && status.error_code != 25) {ajaxQuery(scriptPath + "/munin/a/tr/block?domain=" + encodeURIComponent(domain) + "&caf=1&toggle=block&reason=other&uid=" + encodeURIComponent(uniqueTrackingID));}if (status.errorcode && !status.error_code) {status.error_code = status.errorcode;}if (status.error_code) {ajaxQuery(scriptPath + "/munin/a/tr/errorcode?domain=" + encodeURIComponent(domain) + "&caf=1&toggle=errorcode&code=" + encodeURIComponent(status.error_code) + "&uid=" + encodeURIComponent(uniqueTrackingID));if ([18, 19].indexOf(parseInt(status.error_code)) != -1 && fallbackTriggered == false) {fallbackTriggered = true;if (typeof loadFeed === "function") {window.location.href = '//' + location.host;}}if (status.error_code == 20) {window.location.replace("//dp.g.doubleclick.net/apps/domainpark/domainpark.cgi?client=" + encodeURIComponent((pageOptions.pubid.match(/^ca-/i) ? "" : "ca-") + pageOptions.pubid) + "&domain_name=" + encodeURIComponent(domain) + "&output=html&drid=" + encodeURIComponent(pageOptions.domainRegistrant));}}if (status.needsreview === true || status.needsreview == "true") {ajaxQuery(scriptPath + "/munin/a/tr/needsreview?domain=" + encodeURIComponent(domain) + "&caf=1&toggle=needsreview&uid=" + encodeURIComponent(uniqueTrackingID));}if ((status.adult === true || status.adult == "true") && !isAdult) {ajaxQuery(scriptPath + "/munin/a/tr/adult?domain=" + encodeURIComponent(domain) + "&caf=1&toggle=adult&uid=" + encodeURIComponent(uniqueTrackingID));} else if ((status.adult === false || status.adult == "false") && isAdult) {ajaxQuery(scriptPath + "/munin/a/tr/nonadult?domain=" + encodeURIComponent(domain) + "&caf=1&toggle=nonadult&uid=" + encodeURIComponent(uniqueTrackingID));}if (requestAccepted) {if (status.feed) {ajaxQuery(scriptPath + "/munin/a/tr/feed?domain=" + encodeURIComponent(domain) + "&caf=1&toggle=feed&feed=" + encodeURIComponent(status.feed) + "&uid=" + encodeURIComponent(uniqueTrackingID));}if (status.error_code) {ajaxQuery(scriptPath + "/munin/a/tr/answercheck/error?domain=" + encodeURIComponent(domain) + "&caf=1&toggle=answercheck&answer=error_" + encodeURIComponent(status.error_code) + "&uid=" + encodeURIComponent(uniqueTrackingID));} else {ajaxQuery(scriptPath + "/munin/a/tr/answercheck/yes?domain=" + encodeURIComponent(domain) + "&caf=1&toggle=answercheck&answer=yes&uid=" + encodeURIComponent(uniqueTrackingID));}} else {ajaxQuery(scriptPath + "/munin/a/tr/answercheck/reject?domain=" + encodeURIComponent(domain) + "&caf=1&toggle=answercheck&answer=rejected&uid=" + encodeURIComponent(uniqueTrackingID));}}};let x = function (obj1, obj2) {if (typeof obj1 != "object")obj1 = {};for (let key in obj2)obj1[key] = obj2[key];return obj1;};function getXMLhttp() {let xmlHttp = null;try {xmlHttp = new XMLHttpRequest();} catch (e) {try {xmlHttp = new ActiveXObject("Msxml2.XMLHTTP");} catch (ex) {try {xmlHttp = new ActiveXObject("Microsoft.XMLHTTP");} catch (exc) {}}}return xmlHttp;}function ajaxQuery(url) {if (adtest == 'on') return false;xmlHttp = getXMLhttp();if (!xmlHttp) return ajaxBackfill(url);xmlHttp.open("GET", url, false);return xmlHttp.send(null);}function ajaxBackfill(url) {if (adtest == 'on') return false;if (url.indexOf("&toggle=browserjs") > -1) return false;try {let img = document.createElement('img');img.style.visibility = 'hidden';img.style.width = '1px';img.style.height = '1px';img.src = url + "&_t=" + new Date().getTime();document.body.appendChild(img);} catch (e) {}}ajaxQuery(scriptPath + "/munin/a/tr/browserjs?domain=" + encodeURIComponent(domain) + "&toggle=browserjs&uid=" + encodeURIComponent(uniqueTrackingID));x(pageOptions, {resultsPageBaseUrl: 'http://ww38.dwhyj2.top/?ts=fENsZWFuUGVwcGVybWludEJsYWNrfHw1Y2U4NHxidWNrZXQwMjd8fHx8fHw2NzlmOTdhMzM4YTJjfHx8MTczODUxMjI5MS4yNjM2fDI5ZTU1OGYxOWJkNWZjNTU5M2FlMDMwMTZmMDI0NDE4YmZhMTFiOWR8fHx8fDF8fDB8MHx8fHwxfHx8fHwwfDB8fHx8fHx8fFpIQXRkR1ZoYldsdWRHVnlibVYwTURSZk0zQm98ZDgyZjM2MWZiZjFhMmNkYjk1Y2Y3NmRjNjczMTAzZDYzZWVlNTdiZHwwfDB8fDB8fHwwfDB8VzEwPXx8MXxXMTA9fDM5Mjk0OTg0MGI4NmRkNGU0NDJhMjA5Yjc3MmVkOGQyYTJiZGIxN2Z8MHxkcC10ZWFtaW50ZXJuZXQwNF8zcGh8MHwwfHx8fHw%3D',hl: 'en',kw: '',terms: '',uiOptimize: true, channel: 'bucket007,bucket027', pubId: 'dp-teaminternet04_3ph',adtest: 'off',personalizedAds: false,clicktrackUrl: 'https://trkpcna.net/munin/a/tr/click' + '?click=caf' + '&domain=dwhyj2.top&uid=MTczODUxMjI5MS4yMzIxOjgzZjc2NzE2ZmU0YTk2OGRkNDQ0MjQyN2EwNDMwMzhmODVmOGFiNjc4NjhjYmMzNGYwYzhhMDRjN2Y2YmQ3NzE6Njc5Zjk3YTMzOGE3Yw%3D%3D&ts=fENsZWFuUGVwcGVybWludEJsYWNrfHw1Y2U4NHxidWNrZXQwMjd8fHx8fHw2NzlmOTdhMzM4YTJjfHx8MTczODUxMjI5MS4yNjM2fDI5ZTU1OGYxOWJkNWZjNTU5M2FlMDMwMTZmMDI0NDE4YmZhMTFiOWR8fHx8fDF8fDB8MHx8fHwxfHx8fHwwfDB8fHx8fHx8fFpIQXRkR1ZoYldsdWRHVnlibVYwTURSZk0zQm98ZDgyZjM2MWZiZjFhMmNkYjk1Y2Y3NmRjNjczMTAzZDYzZWVlNTdiZHwwfDB8fDB8fHwwfDB8VzEwPXx8MXxXMTA9fDM5Mjk0OTg0MGI4NmRkNGU0NDJhMjA5Yjc3MmVkOGQyYTJiZGIxN2Z8MHxkcC10ZWFtaW50ZXJuZXQwNF8zcGh8MHwwfHx8fHw%3D&adtest=off' });x(pageOptions, [] );x(pageOptions, { domainRegistrant:'as-drid-2657853924491968' } );function loadFeed() {let s = document.createElement('script');let blurredTerms = document.getElementById('blurred-terms');if (blurredTerms !== null) {blurredTerms.style.display = "none";}s.src = '//www.google.com/adsense/domains/caf.js?abp=1&adsdeli=true';document.body.appendChild(s);let a = Array.prototype.slice.call(arguments);s.onload = function () {let c = google.ads.domains.Caf;switch (a.length) {case 1:return new c(a[0]);case 2:return new c(a[0], a[1]);case 3:return new c(a[0], a[1], a[2]);case 4:return new c(a[0], a[1], a[2], a[3]);case 5:return new c(a[0], a[1], a[2], a[3], a[4]);}return c.apply(null, a);};}</script>
-<script type="text/javascript">var ls = function(xhr, path, token) {
-    xhr.onreadystatechange = function () {
-        if (xhr.readyState === XMLHttpRequest.DONE) {
-            if (xhr.status >= 200 && xhr.status <= 400) {
-                if (xhr.responseText.trim() === '') {
-                    return;
-                }
-    
-                console.log(JSON.parse(xhr.responseText))
-            } else {
-                console.log('There was a problem with the request.');
-            }
-        }
-    }
-    
-    xhr.open('GET', path + '/munin/a/l' + 's?t=679f97a3&token=' + encodeURI(token), true);
-    xhr.send();
-};
-ls(new XMLHttpRequest(), scriptPath, '392949840b86dd4e442a209b772ed8d2a2bdb17f');</script>
-<script type="text/javascript">x(pageOptions, { "styleId":7840396037});</script>
-<script>
-    function getLoadFeedArguments() {
-        let arguments = [
-            pageOptions
-        ];
-
-        let possibleArguments = ['adblock', 'adblock1', 'adblock2', 'tcblock', 'searchboxBlock', 'rtblock', 'rsblock', 'searchblock'];
-        for (let i = 0; i < possibleArguments.length; i++) {
-            if (typeof this[possibleArguments[i]] !== 'undefined') {
-                arguments.push(this[possibleArguments[i]]);
-            }
-        }
-
-        return arguments;
-    }
-</script>
-
-    <script>
-        loadFeed(...getLoadFeedArguments());
-    </script><script src="//www.google.com/adsense/domains/caf.js?abp=1&amp;adsdeli=true"></script>
+<script src="https://partner.googleadservices.com/gampad/cookie.js?domain=ww25.dwhyj2.top&amp;client=partner-dp-bodis31_3ph&amp;product=SAS&amp;callback=__sasCookie&amp;cookie_types=v1%2Cv2"></script><script>window.park = "eyJ1dWlkIjoiZjEyNTNkMTgtNTQ1Ny00NzY0LTljYzItZGNiNzMwZTVmNGY4IiwicGFnZV90aW1lIjoxNzM4NTE5NTM5LCJwYWdlX3VybCI6Imh0dHA6Ly93dzI1LmR3aHlqMi50b3AvP3N1YmlkMT0yMDI1MDIwMy0wNTA1LTM5YzctYjBhOS1jMThiNTQyNjJhYTYiLCJwYWdlX21ldGhvZCI6IkdFVCIsInBhZ2VfcmVxdWVzdCI6eyJzdWJpZDEiOiIyMDI1MDIwMy0wNTA1LTM5YzctYjBhOS1jMThiNTQyNjJhYTYifSwicGFnZV9oZWFkZXJzIjp7fSwiaG9zdCI6Ind3MjUuZHdoeWoyLnRvcCIsImlwIjoiMjAuMjUuMTkzLjMzIn0K";</script>
+<script src="/biYCxhsKw.js"></script>
 
 
-</body>
+<script type="text/javascript" src="https://www.google.com/adsense/domains/caf.js?abp=1&amp;bodis=true"></script></body>
