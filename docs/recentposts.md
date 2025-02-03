@@ -4,6 +4,14 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-02-03 | [`Woodway USA`](https://google.com/search?q=Woodway+USA) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2025-02-03 | [`The Hill Brush`](https://google.com/search?q=The+Hill+Brush) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2025-02-03 | [`Sheridan Nurseries`](https://google.com/search?q=Sheridan+Nurseries) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2025-02-03 | [`QGS Development`](https://google.com/search?q=QGS+Development) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2025-02-03 | [`KWS`](https://google.com/search?q=KWS) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2025-02-03 | [`Dickerson & Nieman Realtors`](https://google.com/search?q=Dickerson+%26+Nieman+Realtors) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2025-02-03 | [`Daniel Island Club`](https://google.com/search?q=Daniel+Island+Club) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2025-02-03 | [`DPC Development`](https://google.com/search?q=DPC+Development) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-02-03 | [`Gitlabs: Bolin Centre for Climate Research, X-lab group, Madia`](https://google.com/search?q=Gitlabs%3A+Bolin+Centre+for+Climate+Research%2C+X-lab+group%2C+Madia) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2025-02-03 | [`gruppozaccaria.it`](https://google.com/search?q=gruppozaccaria.it) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2025-02-03 | [`Karadeniz Holding  (karadenizholding.com)`](https://google.com/search?q=Karadeniz+Holding++%28karadenizholding.com%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
@@ -196,11 +204,3 @@ _last `200` posts_
 | 2025-01-15 | [`FSOCIETY X FUNKSEC`](https://google.com/search?q=FSOCIETY+X+FUNKSEC) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
 | 2025-01-15 | [`A*****Y.com`](https://google.com/search?q=A%2A%2A%2A%2A%2AY.com) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
 | 2025-01-15 | [`www.eurocert.pl`](https://google.com/search?q=www.eurocert.pl) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2025-01-15 | [`J.G. Electrical Installations`](https://google.com/search?q=J.G.+Electrical+Installations) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
-| 2025-01-14 | [`udb.net`](https://google.com/search?q=udb.net) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2025-01-14 | [`The Chicano Federation`](https://google.com/search?q=The+Chicano+Federation) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2025-01-14 | [`WPD.WOODPORTDOORS.COM`](https://google.com/search?q=WPD.WOODPORTDOORS.COM) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
-| 2025-01-14 | [`QualiTech (qualitech.com)`](https://google.com/search?q=QualiTech+%28qualitech.com%29) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
-| 2025-01-14 | [`Kinseth Hospitality Companies `](https://google.com/search?q=Kinseth+Hospitality+Companies+) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
-| 2025-01-14 | [`Douglas County, GA (DDCWSA.COM)`](https://google.com/search?q=Douglas+County%2C+GA+%28DDCWSA.COM%29) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
-| 2025-01-14 | [`Buttery (butterycompany.com)`](https://google.com/search?q=Buttery+%28butterycompany.com%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
