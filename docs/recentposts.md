@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-02-03 | [`realtaxcanada.com`](https://google.com/search?q=realtaxcanada.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
+| 2025-02-03 | [`Ponte16 Hotel &amp`](https://google.com/search?q=Ponte16+Hotel+%26amp) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2025-02-03 | [`ome.tv`](https://google.com/search?q=ome.tv) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2025-02-03 | [`Pineland community service board`](https://google.com/search?q=Pineland+community+service+board) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2025-02-03 | [`Evidn Data Leak`](https://google.com/search?q=Evidn+Data+Leak) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2025-01-14 | [`Farmacia Cofar`](https://google.com/search?q=Farmacia+Cofar) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2025-01-14 | [`Sharm Reef Hotel`](https://google.com/search?q=Sharm+Reef+Hotel) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2025-01-14 | [`Intelservice.com`](https://google.com/search?q=Intelservice.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2025-01-14 | [`Spectrum`](https://google.com/search?q=Spectrum) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-01-14 | [`Solaris Pharma`](https://google.com/search?q=Solaris+Pharma) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
