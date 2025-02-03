@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-02-03 | [`Gitlabs: Bolin Centre for Climate Research, X-lab group, Madia`](https://google.com/search?q=Gitlabs%3A+Bolin+Centre+for+Climate+Research%2C+X-lab+group%2C+Madia) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
+| 2025-02-03 | [`gruppozaccaria.it`](https://google.com/search?q=gruppozaccaria.it) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2025-02-03 | [`Karadeniz Holding  (karadenizholding.com)`](https://google.com/search?q=Karadeniz+Holding++%28karadenizholding.com%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2025-02-03 | [`www.wongfleming.com`](https://google.com/search?q=www.wongfleming.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-03 | [`smithmidland.com`](https://google.com/search?q=smithmidland.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2025-01-14 | [`Kinseth Hospitality Companies `](https://google.com/search?q=Kinseth+Hospitality+Companies+) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-01-14 | [`Douglas County, GA (DDCWSA.COM)`](https://google.com/search?q=Douglas+County%2C+GA+%28DDCWSA.COM%29) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-01-14 | [`Buttery (butterycompany.com)`](https://google.com/search?q=Buttery+%28butterycompany.com%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
-| 2025-01-14 | [`pittman-construction.com`](https://google.com/search?q=pittman-construction.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2025-01-14 | [`The University of Oklahoma (ou.edu)`](https://google.com/search?q=The+University+of+Oklahoma+%28ou.edu%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
