@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-02-06 | [`Lexington Electric `](https://google.com/search?q=Lexington+Electric+) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-02-06 | [`Gitlabs: eConceptions, Top Systems, DIEM`](https://google.com/search?q=Gitlabs%3A+eConceptions%2C+Top+Systems%2C+DIEM) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2025-02-06 | [`SmithDunn&amp;Co`](https://google.com/search?q=SmithDunn%26amp%3BCo) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2025-02-05 | [`corehandf.com`](https://google.com/search?q=corehandf.com) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-01-20 | [`The Urswick School`](https://google.com/search?q=The+Urswick+School) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
 | 2025-01-20 | [`fol-23.fr`](https://google.com/search?q=fol-23.fr) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2025-01-20 | [`Kinseth Hospitality Companies`](https://google.com/search?q=Kinseth+Hospitality+Companies) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
-| 2025-01-20 | [`Sentinel Systems`](https://google.com/search?q=Sentinel+Systems) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
