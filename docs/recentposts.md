@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-02-08 | [`G*********7.com`](https://google.com/search?q=G%2A%2A%2A%2A%2A%2A%2A%2A%2A7.com) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
+| 2025-02-08 | [`M****s.info`](https://google.com/search?q=M%2A%2A%2A%2As.info) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
 | 2025-02-07 | [`Gitlabs: Chalmers tekniska högskola, Fligno, 3SS`](https://google.com/search?q=Gitlabs%3A+Chalmers+tekniska+h%C3%B6gskola%2C+Fligno%2C+3SS) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2025-02-07 | [`teamues.com`](https://google.com/search?q=teamues.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-07 | [`sautech.edu`](https://google.com/search?q=sautech.edu) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2025-01-21 | [`Solaris-pharma.com leakage`](https://google.com/search?q=Solaris-pharma.com+leakage) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2025-01-21 | [`malindoair.com`](https://google.com/search?q=malindoair.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2025-01-21 | [`supremegroup.co.in`](https://google.com/search?q=supremegroup.co.in) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2025-01-21 | [`Inaya Clinique`](https://google.com/search?q=Inaya+Clinique) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
-| 2025-01-21 | [`FAAB Invest Advisors Private Limited`](https://google.com/search?q=FAAB+Invest+Advisors+Private+Limited) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
