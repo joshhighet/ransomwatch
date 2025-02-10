@@ -4,6 +4,11 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-02-10 | [`Lexington Electric`](https://google.com/search?q=Lexington+Electric) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
+| 2025-02-10 | [`Marshall Motor Holdings`](https://google.com/search?q=Marshall+Motor+Holdings) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
+| 2025-02-10 | [`WhoHire`](https://google.com/search?q=WhoHire) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
+| 2025-02-10 | [`Capital Cell Global (CCG)`](https://google.com/search?q=Capital+Cell+Global+%28CCG%29) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
+| 2025-02-10 | [`ASRAM Medical College and Hospita`](https://google.com/search?q=ASRAM+Medical+College+and+Hospita) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2025-02-10 | [`Albright Institute`](https://google.com/search?q=Albright+Institute) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2025-02-09 | [`Leading Edge Specialized Dentistry`](https://google.com/search?q=Leading+Edge+Specialized+Dentistry) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2025-02-09 | [`Handala New Telegram Channel`](https://google.com/search?q=Handala+New+Telegram+Channel) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
@@ -199,8 +204,3 @@ _last `200` posts_
 | 2025-01-22 | [`ilemgroup.com`](https://google.com/search?q=ilemgroup.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-01-22 | [`www.grohe.com`](https://google.com/search?q=www.grohe.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-01-22 | [`Omni Fiber LLC - Press Release`](https://google.com/search?q=Omni+Fiber+LLC+-+Press+Release) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
-| 2025-01-22 | [`Jacobs & Thompson`](https://google.com/search?q=Jacobs+%26+Thompson) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
-| 2025-01-22 | [`www.americanstandard-us.com`](https://google.com/search?q=www.americanstandard-us.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2025-01-22 | [`Christian Community Aid`](https://google.com/search?q=Christian+Community+Aid) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
-| 2025-01-22 | [`SANTA MARIA LABORATORIO`](https://google.com/search?q=SANTA+MARIA+LABORATORIO) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
-| 2025-01-22 | [`Mintz Law Firm, LLC`](https://google.com/search?q=Mintz+Law+Firm%2C+LLC) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
