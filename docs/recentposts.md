@@ -4,6 +4,12 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-02-10 | [`ome.tv - SOLD`](https://google.com/search?q=ome.tv+-+SOLD) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
+| 2025-02-10 | [`komline.com`](https://google.com/search?q=komline.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2025-02-10 | [`bazcooil.com`](https://google.com/search?q=bazcooil.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2025-02-10 | [`sdfab.com`](https://google.com/search?q=sdfab.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2025-02-10 | [`kaplanstahler.com`](https://google.com/search?q=kaplanstahler.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2025-02-10 | [`www.jsp.com`](https://google.com/search?q=www.jsp.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-10 | [`D-7 Roofing`](https://google.com/search?q=D-7+Roofing) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2025-02-10 | [`Recievership Specialists`](https://google.com/search?q=Recievership+Specialists) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2025-02-10 | [`Atlas Commodities`](https://google.com/search?q=Atlas+Commodities) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
@@ -198,9 +204,3 @@ _last `200` posts_
 | 2025-01-23 | [`reesndt.ca`](https://google.com/search?q=reesndt.ca) | [eldorado](https://ransomwatch.telemetry.ltd/#/profiles?id=eldorado) |
 | 2025-01-23 | [`samsill.com`](https://google.com/search?q=samsill.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-01-23 | [`archaeologicalresearchservices.com`](https://google.com/search?q=archaeologicalresearchservices.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2025-01-23 | [`starkaerospace.com`](https://google.com/search?q=starkaerospace.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-01-23 | [`www.missionbank.bank`](https://google.com/search?q=www.missionbank.bank) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2025-01-23 | [`Cyrious Software`](https://google.com/search?q=Cyrious+Software) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2025-01-23 | [`Medical Associates of Brevard`](https://google.com/search?q=Medical+Associates+of+Brevard) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2025-01-23 | [`PINELAND BHDD COMMUNITY SERVICES`](https://google.com/search?q=PINELAND+BHDD+COMMUNITY+SERVICES) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
-| 2025-01-22 | [`www.reesndt.com`](https://google.com/search?q=www.reesndt.com) | [eldorado](https://ransomwatch.telemetry.ltd/#/profiles?id=eldorado) |
