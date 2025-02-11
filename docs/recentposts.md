@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-02-11 | [`Logix Corporate Solutions`](https://google.com/search?q=Logix+Corporate+Solutions) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
+| 2025-02-11 | [`TMC`](https://google.com/search?q=TMC) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
+| 2025-02-11 | [`sole technology`](https://google.com/search?q=sole+technology) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2025-02-11 | [`primesourcestaffing.com`](https://google.com/search?q=primesourcestaffing.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-11 | [`The Children's Center Of Hamden`](https://google.com/search?q=The+Children%27s+Center+Of+Hamden) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-02-10 | [`ome.tv - SOLD`](https://google.com/search?q=ome.tv+-+SOLD) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2025-01-24 | [`icicibank.com`](https://google.com/search?q=icicibank.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2025-01-24 | [`Punjab.gov.pk`](https://google.com/search?q=Punjab.gov.pk) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
 | 2025-01-24 | [`Arrow Motor Auctions`](https://google.com/search?q=Arrow+Motor+Auctions) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
-| 2025-01-24 | [`Kooijman Vianen (kooijmanvianen.nl)`](https://google.com/search?q=Kooijman+Vianen+%28kooijmanvianen.nl%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
-| 2025-01-24 | [`topackt.com`](https://google.com/search?q=topackt.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2025-01-23 | [`reesndt.ca`](https://google.com/search?q=reesndt.ca) | [eldorado](https://ransomwatch.telemetry.ltd/#/profiles?id=eldorado) |
