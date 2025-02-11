@@ -4,6 +4,19 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-02-11 | [`CESI`](https://google.com/search?q=CESI) | [termite](https://ransomwatch.telemetry.ltd/#/profiles?id=termite) |
+| 2025-02-11 | [`Tie Down Engineering`](https://google.com/search?q=Tie+Down+Engineering) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2025-02-11 | [`Shinn Fu Company of America`](https://google.com/search?q=Shinn+Fu+Company+of+America) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2025-02-11 | [`ROCK SOLID Stabilization & Reclamation`](https://google.com/search?q=ROCK+SOLID+Stabilization+%26+Reclamation) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2025-02-11 | [`Neaton Auto Products Manufacturing`](https://google.com/search?q=Neaton+Auto+Products+Manufacturing) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2025-02-11 | [`Monroe Transportation Services Inc`](https://google.com/search?q=Monroe+Transportation+Services+Inc) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2025-02-11 | [`Mainline Information Systems`](https://google.com/search?q=Mainline+Information+Systems) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2025-02-11 | [`Kensington Glass Arts`](https://google.com/search?q=Kensington+Glass+Arts) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2025-02-11 | [`Jildor Shoes`](https://google.com/search?q=Jildor+Shoes) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2025-02-11 | [`Fastighetsservice AB`](https://google.com/search?q=Fastighetsservice+AB) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2025-02-11 | [`EAC Consulting`](https://google.com/search?q=EAC+Consulting) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2025-02-11 | [`Cold Storage Manufacturing`](https://google.com/search?q=Cold+Storage+Manufacturing) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2025-02-11 | [`Baltimore Country Club`](https://google.com/search?q=Baltimore+Country+Club) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-02-11 | [`Aurora Public Schools (aurorak12.org)`](https://google.com/search?q=Aurora+Public+Schools+%28aurorak12.org%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2025-02-11 | [`Saint George&#39;s College (saintgeorge.cl)`](https://google.com/search?q=Saint+George%26%2339%3Bs+College+%28saintgeorge.cl%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2025-02-11 | [`sehma.com`](https://google.com/search?q=sehma.com) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
@@ -191,16 +204,3 @@ _last `200` posts_
 | 2025-01-28 | [`www.healthcarewithinreach.org`](https://google.com/search?q=www.healthcarewithinreach.org) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-01-28 | [`cnnindonesia.com`](https://google.com/search?q=cnnindonesia.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-01-27 | [`Alo Center (hq.aloteknik.se)`](https://google.com/search?q=Alo+Center+%28hq.aloteknik.se%29) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
-| 2025-01-27 | [`https://leehartman.com`](https://google.com/search?q=https%3A%2F%2Fleehartman.com) | [metaencryptor](https://ransomwatch.telemetry.ltd/#/profiles?id=metaencryptor) |
-| 2025-01-27 | [`lhps.org`](https://google.com/search?q=lhps.org) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-01-27 | [`Prinston Pharmaceutical (huahaius.com)`](https://google.com/search?q=Prinston+Pharmaceutical+%28huahaius.com%29) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-01-27 | [`International AIDS Vaccine Initiative (iavi.org)`](https://google.com/search?q=International+AIDS+Vaccine+Initiative+%28iavi.org%29) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-01-27 | [`AIshu, Eshoo`](https://google.com/search?q=AIshu%2C+Eshoo) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
-| 2025-01-27 | [`Weeks, Brucker &#038; Coleman, Ltd - Legal Services`](https://google.com/search?q=Weeks%2C+Brucker+%26%23038%3B+Coleman%2C+Ltd+-+Legal+Services) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
-| 2025-01-26 | [`Let’s Secure Insurance`](https://google.com/search?q=Let%E2%80%99s+Secure+Insurance) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
-| 2025-01-26 | [`Metro Wire &amp; Cable`](https://google.com/search?q=Metro+Wire+%26amp%3B+Cable) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
-| 2025-01-25 | [`Keepz`](https://google.com/search?q=Keepz) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
-| 2025-01-25 | [`DataSociete`](https://google.com/search?q=DataSociete) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
-| 2025-01-25 | [`envirosep.com`](https://google.com/search?q=envirosep.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
-| 2025-01-24 | [`PrimoTicketing`](https://google.com/search?q=PrimoTicketing) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
-| 2025-01-24 | [`www.pcm.com.mx`](https://google.com/search?q=www.pcm.com.mx) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
