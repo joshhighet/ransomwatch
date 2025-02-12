@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-02-12 | [`Gitlabs: INGV, Spacemanic, Squeezer-software`](https://google.com/search?q=Gitlabs%3A+INGV%2C+Spacemanic%2C+Squeezer-software) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
+| 2025-02-12 | [`STIIIZY  Full Data Leak`](https://google.com/search?q=STIIIZY++Full+Data+Leak) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2025-02-12 | [`alderconstruction.com`](https://google.com/search?q=alderconstruction.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-12 | [`steveallcorn.remax.com`](https://google.com/search?q=steveallcorn.remax.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-12 | [`bergconst.com`](https://google.com/search?q=bergconst.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2025-01-29 | [`daVinci`](https://google.com/search?q=daVinci) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-01-29 | [`Wallin & Klarich`](https://google.com/search?q=Wallin+%26+Klarich) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-01-29 | [`TRIVAD`](https://google.com/search?q=TRIVAD) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-01-29 | [`Plymouth Foam`](https://google.com/search?q=Plymouth+Foam) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-01-29 | [`Marshall & Bruce Printing`](https://google.com/search?q=Marshall+%26+Bruce+Printing) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
