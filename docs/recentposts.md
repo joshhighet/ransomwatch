@@ -4,6 +4,19 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-02-12 | [`alderconstruction.com`](https://google.com/search?q=alderconstruction.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2025-02-12 | [`steveallcorn.remax.com`](https://google.com/search?q=steveallcorn.remax.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2025-02-12 | [`bergconst.com`](https://google.com/search?q=bergconst.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2025-02-12 | [`burdickpainting.com`](https://google.com/search?q=burdickpainting.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2025-02-12 | [`columbiacabinets.com`](https://google.com/search?q=columbiacabinets.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2025-02-12 | [`ekvallbyrne.com`](https://google.com/search?q=ekvallbyrne.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2025-02-12 | [`krmcustomhomes.com`](https://google.com/search?q=krmcustomhomes.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2025-02-12 | [`laderalending.com`](https://google.com/search?q=laderalending.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2025-02-12 | [`minnesotaexteriors.com`](https://google.com/search?q=minnesotaexteriors.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2025-02-12 | [`rogerspetro.com`](https://google.com/search?q=rogerspetro.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2025-02-12 | [`sundanceliving.com`](https://google.com/search?q=sundanceliving.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2025-02-12 | [`thejdkgroup.com`](https://google.com/search?q=thejdkgroup.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2025-02-12 | [`twncomm.com`](https://google.com/search?q=twncomm.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-12 | [`Hess (hess-gmbh.de)`](https://google.com/search?q=Hess+%28hess-gmbh.de%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2025-02-12 | [`E*******s.gov.zm`](https://google.com/search?q=E%2A%2A%2A%2A%2A%2A%2As.gov.zm) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
 | 2025-02-12 | [`The Brown & Hurley Group`](https://google.com/search?q=The+Brown+%26+Hurley+Group) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
@@ -191,16 +204,3 @@ _last `200` posts_
 | 2025-01-29 | [`TRIVAD`](https://google.com/search?q=TRIVAD) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-01-29 | [`Plymouth Foam`](https://google.com/search?q=Plymouth+Foam) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-01-29 | [`Marshall & Bruce Printing`](https://google.com/search?q=Marshall+%26+Bruce+Printing) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-01-29 | [`Johnston`](https://google.com/search?q=Johnston) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-01-29 | [`Commercial & Residential Management Group`](https://google.com/search?q=Commercial+%26+Residential+Management+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-01-29 | [`Cimarron Telephone Company`](https://google.com/search?q=Cimarron+Telephone+Company) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-01-29 | [`Cahoon Farms`](https://google.com/search?q=Cahoon+Farms) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-01-29 | [`By design`](https://google.com/search?q=By+design) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-01-29 | [`Strategic Materials`](https://google.com/search?q=Strategic+Materials) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
-| 2025-01-29 | [`Boutin Jones (boutindentino.com)`](https://google.com/search?q=Boutin+Jones+%28boutindentino.com%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
-| 2025-01-29 | [`Turning Leaf (TURNINGLEAF.local)`](https://google.com/search?q=Turning+Leaf+%28TURNINGLEAF.local%29) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-01-29 | [`Heart to Heart Hospice`](https://google.com/search?q=Heart+to+Heart+Hospice) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-01-29 | [`City Of Beloit`](https://google.com/search?q=City+Of+Beloit) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-01-29 | [`W*****e.com`](https://google.com/search?q=W%2A%2A%2A%2A%2Ae.com) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
-| 2025-01-29 | [`Mission Locale Montpellier `](https://google.com/search?q=Mission+Locale+Montpellier+) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-01-29 | [`Menominee Tribal Clinic`](https://google.com/search?q=Menominee+Tribal+Clinic) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
