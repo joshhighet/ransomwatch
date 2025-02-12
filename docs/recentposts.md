@@ -4,6 +4,10 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-02-12 | [`The Brown & Hurley Group`](https://google.com/search?q=The+Brown+%26+Hurley+Group) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
+| 2025-02-12 | [`askgs.ma`](https://google.com/search?q=askgs.ma) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2025-02-12 | [`slchc.edu`](https://google.com/search?q=slchc.edu) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2025-02-12 | [`weathersa.co.za`](https://google.com/search?q=weathersa.co.za) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-12 | [`curtisint.com\$37.2M\Canada\676GB\&lt;1% DISCLOSED`](https://google.com/search?q=curtisint.com%5C%2437.2M%5CCanada%5C676GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2025-02-12 | [`britannicahome.com\$20.6M\USA\2.8TB\&lt;1% DISCLOSED`](https://google.com/search?q=britannicahome.com%5C%2420.6M%5CUSA%5C2.8TB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2025-02-12 | [`uniquehd.com\$13.7M\USA\429GB\&lt;1% DISCLOSED`](https://google.com/search?q=uniquehd.com%5C%2413.7M%5CUSA%5C429GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
@@ -200,7 +204,3 @@ _last `200` posts_
 | 2025-01-29 | [`Menominee Tribal Clinic`](https://google.com/search?q=Menominee+Tribal+Clinic) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-01-29 | [`Israel Ministry of National Security Hacked`](https://google.com/search?q=Israel+Ministry+of+National+Security+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2025-01-29 | [`DEL Packaging`](https://google.com/search?q=DEL+Packaging) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
-| 2025-01-28 | [`lnetwork`](https://google.com/search?q=lnetwork) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
-| 2025-01-28 | [`Acoustiblok`](https://google.com/search?q=Acoustiblok) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
-| 2025-01-28 | [`BBLAWFIRM`](https://google.com/search?q=BBLAWFIRM) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
-| 2025-01-28 | [`metalurgica roma`](https://google.com/search?q=metalurgica+roma) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
