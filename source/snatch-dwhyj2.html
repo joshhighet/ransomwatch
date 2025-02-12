@@ -1,288 +1,81 @@
-<head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="icon" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAIAAACQd1PeAAAADElEQVQI12P4//8/AAX+Av7czFnnAAAAAElFTkSuQmCC">
-    <link rel="preconnect" href="https://www.google.com" crossorigin="">
-<title>dwhyj2.top</title><meta name="description" content="See relevant content for dwhyj2.top"><style>* {
-  font-smoothing: antialiased;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
-
-html, body {
-  width: 100%;
-  margin: 0;
-}
-
-html {
-  background-color: #2B2B2B;
-  height: 100%;
-}
-
-body {
-  min-height: 90%;
-  font-family: Arial, sans-serif;
-  letter-spacing: 1.2px;
-  color: #ccc;
-  text-align: center;
-}
-
-/* App Target - This starts hidden until we apply a class to "activate" it */
-
-#target {
-  opacity: 0;
-  visibility: hidden;
-}
-
-/* Status Messages - These are displayed when we are not rendering ad blocks or Related Search */
-
-#pk-status-message {
-  height: 75vh;
-  width: 100%;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-}
-
-/* Sales Box - Default State */
-
-#sales-box {
-  display: block;
-  width: 100%;
-  padding: 3px;
-  text-align: center;
-  text-decoration: none;
-  color: #8EABC0;
-}
-
-#sales-box a {
-  display: block;
-  width: 100%;
-  text-decoration: inherit;
-  color: #8EABC0;
-  cursor: pointer;
-}
-
-/* Sales Box - Highlighted State */
-
-#sales-box.is-highlighted {
-  position: relative;
-  z-index: 1;
-  background: #032438 linear-gradient(to top, #044368 0%, #000 100%);
-  box-shadow: 0 0 15px 0 #000;
-  border-bottom: 3px solid #262626;
-}
-
-#sales-box.is-highlighted a {
-  line-height: 1.3;
-  display: inline-block;
-  font-size: 18px;
-  color: #fff;
-  text-shadow: 1px 1px 0 rgba(0, 0, 0, 0.5);
-  background: none;
-}
-
-/* Ellipsis Loader */
-
-.pk-loader {
-  display: inline-block;
-  position: relative;
-  width: 80px;
-  height: 80px;
-}
-
-.pk-loader div {
-  position: absolute;
-  top: 33px;
-  width: 13px;
-  height: 13px;
-  border-radius: 50%;
-  background: #ccc;
-  animation-timing-function: cubic-bezier(0, 1, 1, 0);
-}
-
-.pk-loader div:nth-child(1) {
-  left: 8px;
-  animation: pk-anim-1 0.6s infinite;
-}
-
-.pk-loader div:nth-child(2) {
-  left: 8px;
-  animation: pk-anim-2 0.6s infinite;
-}
-
-.pk-loader div:nth-child(3) {
-  left: 32px;
-  animation: pk-anim-2 0.6s infinite;
-}
-
-.pk-loader div:nth-child(4) {
-  left: 56px;
-  animation: pk-anim-1 0.6s infinite;
-  animation-direction: reverse;
-}
-
-.pk-loader-text {
-  position: fixed;
-  font-size: 12px;
-  right: 20px;
-  bottom: 20px;
-  font-weight: lighter;
-}
-
-/* Utilities */
-
-.pk-message-title {
-  font-size: 2em;
-  font-weight: bold;
-}
-
-.pk-page-ready {
-  opacity: 1 !important;
-  visibility: visible !important;
-}
-
-@media only screen and (max-width: 600px) {
-  .hidden-xs {
-    opacity: 0;
-    visibility: hidden;
-  }
-}
-
-/* Animation */
-
-@keyframes pk-anim-1 {
-  0% {
-      transform: scale(0);
-  }
-  100% {
-      transform: scale(1);
-  }
-}
-
-@keyframes pk-anim-2 {
-  0% {
-      transform: translate(0, 0);
-  }
-  100% {
-      transform: translate(24px, 0);
-  }
-}
-</style><style>:root {
-  --rswidth: 700px;
-  --sales-banner-height: 0;
-}
-
-body, html {
-    font-family: sans-serif, 'Arial';
-    height: 100%;
-    background-color: #2B2B2B;
-    margin: 0 !important;
-    position: relative;
-    overflow-x: hidden;
-}
-
-#target {
-    position: relative;
-    height: auto;
-    margin: 0 auto !important;
-}
-main {
-    text-align: center;
-    margin: 0 auto;
-    min-height: 100vh;
-    display: flex;
-    position: relative;
-    z-index: 2;
-    align-items: center;
-    justify-content: start;
-    flex-direction: column;
-}
-header {
-    text-align: center;
-    padding: 45px 0;
-}
-header h1 {
-    font-size: 29px;
-    color: #ccc;
-    text-transform: uppercase;
-    margin: 0;
-}
-main section {
-    flex: 1;
-    padding: 20px;
-    width: 100%;
-    display: flex;
-    align-items: center;
-    justify-content: start;
-    flex-direction: column;
-}
-section .ad-block {
-    width: 100%;
-    max-width: 500px;
-    height: 100%;
-
-}
-#rs {
-    width: 100%;
-    max-width: var(--rswidth);
-    min-height: 480px;
-    height: 100%;
-}
-footer {
-    font-size: 14px;
-    text-align: center;
-    padding: 30px 0px;
-    width: 100%;
-    color: #555;
-}
-footer a {
-    color: #555;
-}
-
-#sales-banner {
-    height: var(--sales-banner-height);
-} 
-
-#sales-banner.top { 
-    margin-bottom: 8px; 
-} 
-
-#sales-banner.bottom { 
-    margin-top: 8px; 
-}</style></head>
-<body>
-<div id="target" style="opacity: 0" class="pk-page-ready">
-
-<main>
-    
-      <header>
-        <h1>dwhyj2.top</h1>
-      </header>
-    
-    <section>
-        <div class="ad-block">
-            <div class="ads">
-                <div id="ad-1"></div>
-                <div id="ad-2"></div>
-            </div>
-        </div>
-        <div id="rs" style="height: auto;"><iframe frameborder="0" marginwidth="0" marginheight="0" allowtransparency="true" scrolling="no" style="visibility: visible; height: 363px; display: block;" width="100%" name="{&quot;name&quot;:&quot;master-1&quot;,&quot;master-1&quot;:{&quot;container&quot;:&quot;rs&quot;,&quot;styleId&quot;:&quot;3113057640&quot;,&quot;personalizedAds&quot;:false,&quot;channel&quot;:&quot;pid-bodis-gcontrol97,pid-bodis-gcontrol122,pid-bodis-gcontrol488,pid-bodis-gcontrol152,pid-bodis-gcontrol162&quot;,&quot;domainName&quot;:&quot;ww25.dwhyj2.top&quot;,&quot;fexp&quot;:&quot;21404,17300002,17301437,17301439,17301442,17301266,72717108&quot;,&quot;masterNumber&quot;:1,&quot;number&quot;:3,&quot;pubId&quot;:&quot;dp-bodis31_3ph&quot;,&quot;role&quot;:&quot;m&quot;,&quot;hl&quot;:&quot;en&quot;,&quot;ivt&quot;:true,&quot;resultsPageBaseUrl&quot;:&quot;http://ww25.dwhyj2.top/?caf=1&amp;bpt=345&amp;subid1=20250212-0906-04e0-bde7-9360e2df3402&quot;,&quot;resultsPageQueryParam&quot;:&quot;query&quot;,&quot;terms&quot;:&quot;&quot;,&quot;kw&quot;:&quot;&quot;,&quot;ie&quot;:&quot;UTF-8&quot;,&quot;maxTermLength&quot;:50,&quot;maxTop&quot;:null,&quot;minTop&quot;:null,&quot;oe&quot;:&quot;UTF-8&quot;,&quot;type&quot;:&quot;relatedsearch&quot;,&quot;linkTarget&quot;:&quot;_blank&quot;,&quot;uiOptimize&quot;:false,&quot;domainRegistrant&quot;:&quot;as-drid-2589285024539458&quot;}}" id="master-1" src="https://syndicatedsearch.goog/afs/ads?adtest=off&amp;psid=3113057640&amp;pcsa=false&amp;channel=pid-bodis-gcontrol97%2Cpid-bodis-gcontrol122%2Cpid-bodis-gcontrol488%2Cpid-bodis-gcontrol152%2Cpid-bodis-gcontrol162&amp;client=dp-bodis31_3ph&amp;r=m&amp;hl=en&amp;ivt=1&amp;rpbu=http%3A%2F%2Fww25.dwhyj2.top%2F%3Fcaf%3D1%26bpt%3D345%26subid1%3D20250212-0906-04e0-bde7-9360e2df3402&amp;max_radlink_len=50&amp;type=3&amp;uiopt=false&amp;swp=as-drid-2589285024539458&amp;oe=UTF-8&amp;ie=UTF-8&amp;fexp=21404%2C17300002%2C17301437%2C17301439%2C17301442%2C17301266%2C72717108&amp;format=r3&amp;nocache=6871739311566114&amp;num=0&amp;output=afd_ads&amp;domain_name=ww25.dwhyj2.top&amp;v=3&amp;bsl=8&amp;pac=2&amp;u_his=1&amp;u_tz=0&amp;dt=1739311566114&amp;u_w=1366&amp;u_h=768&amp;biw=1366&amp;bih=682&amp;psw=1366&amp;psh=614&amp;frm=0&amp;uio=-&amp;cont=rs&amp;drt=0&amp;jsid=caf&amp;jsv=725223537&amp;rurl=http%3A%2F%2Fww25.dwhyj2.top%2F%3Fsubid1%3D20250212-0906-04e0-bde7-9360e2df3402" title=""></iframe></div>
-    </section>
-    <footer>
-        <span>Copyright 2025</span>
-	    <span style="padding:0px 8px;">•</span>
-	    <a href="/privacy" target="_blank">Privacy Policy</a>
-	    <span style="padding:0px 8px;">•</span>
-	    <a href="/legal" target="_blank">Legal</a>
-        <p id="imprint-text"></p>
-    </footer>
-</main>
-
-</div>
-<script src="https://partner.googleadservices.com/gampad/cookie.js?domain=ww25.dwhyj2.top&amp;client=partner-dp-bodis31_3ph&amp;product=SAS&amp;callback=__sasCookie&amp;cookie_types=v1%2Cv2"></script><script>window.park = "eyJ1dWlkIjoiNWI4ZWM4NzctMjAyZi00ZDBmLWExN2EtYjlkNzc1MDU5ZDQ5IiwicGFnZV90aW1lIjoxNzM5MzExNTY1LCJwYWdlX3VybCI6Imh0dHA6Ly93dzI1LmR3aHlqMi50b3AvP3N1YmlkMT0yMDI1MDIxMi0wOTA2LTA0ZTAtYmRlNy05MzYwZTJkZjM0MDIiLCJwYWdlX21ldGhvZCI6IkdFVCIsInBhZ2VfcmVxdWVzdCI6eyJzdWJpZDEiOiIyMDI1MDIxMi0wOTA2LTA0ZTAtYmRlNy05MzYwZTJkZjM0MDIifSwicGFnZV9oZWFkZXJzIjp7fSwiaG9zdCI6Ind3MjUuZHdoeWoyLnRvcCIsImlwIjoiNTIuMjM0LjMuMTkzIn0K";</script>
-<script src="/bBgOqqADE.js"></script>
-
-
-<script type="text/javascript" src="https://www.google.com/adsense/domains/caf.js?abp=1&amp;bodis=true"></script></body>
+<head><style type="text/css">.truste_caIcon_display {display: block !important;}</style><style type="text/css">.truste_cursor_pointer {cursor: pointer;}.truste_border_none {border: none;}</style><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1"><link rel="icon" href="data:,"><script src="https://partner.googleadservices.com/gampad/cookie.js?domain=ww6.dwhyj2.top&amp;client=dp-namemedia08_3ph&amp;product=SAS&amp;callback=__sasCookie&amp;cookie_types=v1%2Cv2"></script><script src="https://www.google.com/adsense/domains/caf.js?abp=1&amp;gdabp=true"></script><script>window.LANDER_SYSTEM="CP"</script><script defer="defer" src="https://img1.wsimg.com/parking-lander/static/js/main.203056e5.js"></script><link href="https://img1.wsimg.com/parking-lander/static/css/main.8b4b0fd9.css" rel="stylesheet"></head><body><div id="root"><div id="simpleLayout"><div id="contentLayout"><div><div></div><style>body { margin: 0;
+	padding: 0;
+	background-color: #333;
+	font-family: 'Arial', serif; }
+#tdfsBanner { background:#00ff00;
+	font-size: 15px;
+	padding: .5em;
+	-webkit-transition: padding 400ms;
+	transition: padding 400ms; }
+#tdfsBanner:hover { padding: .7em .5em; }
+#tdfsLink, #tdfsAuctionsLink, #tdfsContactLink, #tdfsCustomForSaleLink { margin:0 auto;
+	max-width: 960px;
+	width: 95%;
+	text-align: center; }
+#tdfsLink a, #tdfsAuctionsLink a, #tdfsContactLink a, #tdfsCustomForSaleLink a { color: #000;
+	display: block;
+	font-size: 1em;
+	font-weight: 300;
+	text-decoration: none;
+	text-shadow:0 1px rgba(0,0,0,.5); }
+a { text-decoration: none; }
+#searchbox { margin:0 auto;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	width: 50%;
+	font-weight: normal;
+	text-align: center;
+	height: 24px; }
+#headerElement { padding: 10px;
+	color: #b4b4b4;
+	font-size: 11px;
+	text-align: center; }
+#footer { width: auto;
+	padding-top: 70px; }
+#privacy a { text-decoration: none;
+	color:#b4b4b4; }
+.footerLine { line-height: 25px;
+	font-size: 11px;
+	text-align: center; }
+.footerColor { color:#b4b4b4; }
+#loading { color: white; }
+#contentLayout { margin: auto; }
+#sponsored_listings, #related_links { border-radius: 5px;
+	background-color: #484848;
+	padding-top: 10px; }
+.highlight { color: #FD7400; }
+#privacy { font-size: small;
+	text-decoration: underline; }
+#copyright { justify-content: center;
+	text-align: center;
+	line-height: 1.5rem;
+	font-size: small;
+	color: #b4b4b4; }
+#verizon-feed { padding: 8px; }
+#verizon-feed * { color: #fff; }
+#verizon-feed a { font-weight: bold; }
+#verizon-feed .verizon-rs ul { background-color: #5f5f5f;
+	border-radius: 5px; }
+#verizon-feed .verizon-ads .adLink, #verizon-feed .verizon-ads .adLink * { color: #00ff00; }
+#verizon-feed .verizon-ads a { text-decoration: underline; }
+#verizon-feed #searchbox * { color: initial; }
+#contentLayout { padding: 10px; }#sponsored_listings, #related_links { padding: 30px;
+	width: 75%;
+	min-width: 500px;
+	max-width: 800px;
+	margin: auto; }#simpleLayout { min-height: 100vh;
+	overflow: hidden; }
+#contentLayout { padding: 0px;
+	max-width: 100%;
+	width: 100%;
+	min-height: 100%;
+	display: grid;
+	grid-template-rows: auto 1fr auto; }
+#contentMain { height:100vh; }
+body { background-color: #1D2A33; }
+#sponsored_listings, #related_links { padding: 0px;
+	margin: 0;
+	background-color: transparent; }
+#sponsored_listings, #related_links { width: 30rem; }
+</style><div class="DomainDisplay_domainDisplayLayout__+GpkH simple2C_domainDisplay__AXzsI"><div style="font-size: 36px;">dwhyj2.top</div></div></div><div><div id="consent_blackbar" class="trustArc_parkingTrustArcBanner__Ijwo0"><style>@font-face{  font-family:"Source Sans Pro";  src:url(https://consent.trustarc.com/get?name=SourceSansPro-Regular.ttf) format("truetype"),  url(https://consent.trustarc.com/get?name=SourceSansPro-Regular.woff) format("woff"),  url(https://consent.trustarc.com/get?name=SourceSansPro-Regular.otf) format("opentype"),  url(https://consent.trustarc.com/get?name=SourceSansPro-Regular.eot) format("embedded-opentype");}    .trustarc-banner-content {        display: -webkit-box;        display: -ms-flexbox;        display: flex;        -ms-flex-pack: distribute;        -webkit-box-pack: justify;        justify-content: space-between;        position: relative;    }    .trustarc-banner-wrapper  {        max-width: 1080px;        margin: 2px auto;        -webkit-box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.25);        box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.25);    }    .trustarc-banner-container {        display: -webkit-box;        display: -ms-flexbox;        display: flex;        flex-direction: column;        width: 100%;    }    .description-group { /*Added CSS*/        display: -webkit-box;        display: -ms-flexbox;        display: flex;        gap: 24px;        width: 100%;    }    .trustarc-banner-wrapper {        position: relative;        line-height: normal;        font-size: 100%;        -webkit-text-size-adjust: 100%;        text-rendering: optimizeLegibility;        -moz-osx-font-smoothing: grayscale;        font-smoothing: antialiased;        -webkit-font-smoothing: antialiased;        text-shadow: rgba(0, 0, 0, 0.01) 0 0 1px;        font-variant-ligatures: none;        -webkit-font-variant-ligatures: none;        width: 100%;        display: block;        -webkit-box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.2);        box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.2);        overflow: hidden;        font-family: "Source Sans Pro", sans-serif;    }    .trustarc-banner-wrapper * {        -webkit-box-sizing: content-box;        box-sizing: content-box;    }    .trustarc-client-logo {        padding: 30px;    }    .trustarc-client-logo img {        -o-object-fit:contain;        object-fit: contain;    }    .trustarc-consent-buttons{        padding: 15px 0 30px;        max-width: 100%;        margin: 0 30px;        display: flex;        flex-direction: column;    }/*    .trustarc-consent-buttons > div {        max-width: 260px;    }*/    .trustarc-body-text, .trustarc-warning-text {        font-size: 11px;    }    .trustarc-banner-body {        max-width: 500px;        width: 100%;        font-size: 11px;        line-height: 14px;        padding-top: 16px;    }    .trustarc-secondary-btn, .trustarc-primary-btn, .trustarc-acceptall-btn, .trustarc-declineall-btn    {        padding: unset;    }    .trustarc-primary-btn:hover,    .trustarc-secondary-btn:hover,    .trustarc-acceptall-btn:hover,    .trustarc-declineall-btn:hover    {        opacity: 0.8;    }    .trustarc-banner-details {        -webkit-box-flex: 1;        -ms-flex-positive: 1;        flex-grow: 1;        width: 50%;    }    .trustarc-info-show {        color: #fff;        font-size: 16px;        background-color: #0a7be9;        -webkit-box-pack: justify;        -ms-flex-pack: justify;        justify-content: space-between;        display: -webkit-box;        display: -ms-flexbox;        display: flex;        transition: opacity 400ms;    }    .trustarc-info-hide {        opacity: 0;        display: none;    }    .trustarc-info-img {        -ms-flex-item-align: center;        -ms-grid-row-align: center;        align-self: center;    }    .trustarc-banner-footer {        background-color: #f7f7f7;        height: 40px;        font-size: 10px;        border: none;        width: 100%;        display: -webkit-box;        display: -ms-flexbox;        display: flex;        -webkit-box-pack: justify;        -ms-flex-pack: justify;        justify-content: normal;        bottom: 0;        position: relative;      align-items: center;    }    .banner-details-container { /*ADDED CSS*/        margin: 30px 30px 10px 30px;/*        width: 100%;*/    }    .trustarc-banner-right {        -ms-flex-item-align: center;        align-self: center;        padding-right: 20px;        justify-self: flex-end;      /*  position: relative;*/        display: -webkit-box;        display: -ms-flexbox;        display: flex;        -webkit-box-sizing: unset;        box-sizing: unset;      position: absolute;      right: 0;  }    .trustarc-banner-left {        color: #0061e4;        cursor: pointer;        -ms-flex-item-align: center;        -ms-grid-row-align: center;        align-self: center;        margin-left: 20px;    }    .trustarc-banner-logo {        height: 136px;        max-width: 136px;    }    .trustarc-btn-disabled {        opacity:0.6;        filter:alpha(opacity=60);        cursor: default;    }    .trustarc-btn-disabled:hover {        opacity:0.6;        filter:alpha(opacity=60);        cursor: default;    }    .trustarc-banner-header {        font-size: 18px;    }    .trustarc-banner-header span {    font-family: "Source Sans Pro", sans-serif;}    .trustarc-declineall-btn, .trustarc-manage-btn {        margin-top:10px;        min-height:32px;        width:150px;        font-size:12px;        border: none;        padding: 0px;        text-decoration: underline;        background-color:#ffffff;        border-radius:2px;        cursor:pointer;        color:#000;        font-family: "Source Sans Pro", sans-serif;    }    .trustarc-declineall-btn:hover, .trustarc-manage-btn:hover {        text-decoration: none;        opacity: 1 !important;    }    .trustarc-agree-btn {        margin-top:10px;        min-height:32px;        width:100%;        font-size:12px;        border: 1px solid #081e76;        padding:0px ;        background-color:#081e76;        border-radius:2px;        cursor:pointer;        color:#fff;        font-family: "Source Sans Pro", sans-serif;    }/*    .partners-container {        padding-left:24px;    }*/    .iab-link {        color: #0061e4;    	cursor:pointer;    }a#truste-privacy-button {    margin-right: 10px;}a#truste-cookie-button {    margin-left: 10px;}    .btn-class {        width: 100%;        text-align: center;        display: flex;        justify-content: space-around;    }     @media only screen and (min-width: 640px) and (max-width: 1024px) {/*        .trustarc-agree-btn, .trustarc-declineall-btn, .trustarc-manage-btn {            width:114px;        }*/        .trustarc-banner-header {            color: #000000;            font-size: 14px;        }    }    @media only screen and (min-width: 1px) and (max-width: 768px) {        .trustarc-banner-logo {            height: 64px;            width: 64px;        }        .trustarc-manage-btn, .trustarc-agree-btn, .trustarc-declineall-btn {            font-size: 12px;        }        .trustarc-client-logo {            padding: 16px 10px;        }    }    @media only screen and (min-width: 1px) and (max-width: 640px) {        .trustarc-banner-container {            -webkit-box-orient: vertical;            -webkit-box-direction: normal;            -ms-flex-direction: column;            flex-direction: column;            display: -webkit-box;            display: -ms-flexbox;            display: flex;        }        .trustarc-banner-header {            padding-top: 0px !important;        }        .trustarc-banner-content {            -ms-flex-wrap: wrap;            flex-wrap: wrap;        }        .trustarc-banner-details {            padding: 5px;            width: 100%;            display: -webkit-box;            display: -ms-flexbox;            display: flex;            -webkit-box-orient: horizontal;            -webkit-box-direction: normal;            -ms-flex-direction: row;            flex-direction: row;        }        .trustarc-consent-buttons { /*Adjust button size or gap*/            max-width: 100%;            padding: 8px 10px;            text-align: center;            min-height: 38px;            display: -webkit-box;            display: -ms-flexbox;            display: flex;            -webkit-box-orient: horizontal;            margin: 0px 5px;        }        .trustarc-manage-btn, .trustarc-agree-btn, .trustarc-declineall-btn {            font-size: 12px;            margin:5px;            width: 100%;        }        .banner-details-container { /*ADDED CSS*/            display: -webkit-box;            display: -ms-flexbox;            display: flex;            -webkit-box-orient: horizontal;            -webkit-box-direction: normal;            -ms-flex-direction: row;            flex-direction: row;            width: auto;        }        .description-group { /*ADDED CSS*/            display: -webkit-box;            display: -ms-flexbox;            display: flex;            gap: 5px;            -webkit-box-orient: vertical;            -webkit-box-direction: normal;            -ms-flex-direction: column;            flex-direction: column;        }        .trustarc-banner-body {            padding-top: 0px;        }        .trustarc-banner-header {            color: #000000;            padding-top: 16px;            padding-bottom: 8px;            font-size: 14px;        }    }    @media only screen and (min-width: 1px) and (max-width: 425px) {        .trustarc-consent-buttons { /*Adjust button size or gap*/            max-width: 100%;            padding: 8px 10px;            text-align: center;            min-height: 38px;            display: -webkit-box;            display: -ms-flexbox;            display: flex;            margin: 0px 5px;        }        .banner-details-container {            margin: 10px 10px 0px 10px;        }    }    @media only screen and (min-width: 1px) and (max-width: 320px) {        .trustarc-consent-buttons { /*Adjust button size or gap*/            max-width: 100%;            padding: 8px 10px;            text-align: center;            min-height: 38px;            -ms-flex-wrap: wrap ;            flex-wrap: wrap ;            display: -webkit-box;            display: -ms-flexbox;            display: flex;            margin: 0px 5px;        }        .trustarc-manage-btn, .trustarc-agree-btn, .trustarc-declineall-btn {            -webkit-box-flex: 1;            -ms-flex: 1 0 40%;            flex: 1 0 40%;        }    }    {Css}</style><div id="truste-consent-track" class="trustarc-banner-wrapper trustarc-banner-background trustarc-background" style="display: block; background-color: rgb(255, 255, 255); opacity: 1;" role="dialog" aria-modal="true">    <div id="trustarc-info" class="trustarc-info-hide">        <div class="trustarc-info-img" style="margin: 14px 6px 14px 26px;" aria-hidden="true">            <img src="https://consent.trustarc.com/asset/ic-error.svg" alt="alert icon">        </div>        <div tabindex="0" id="truste-repop-msg" class="trustarc-warning-text" style="margin: 14px;"></div>        <div class="trustarc-info-img" style="margin: 14px 26px 14px 6px;">            <a id="truste-repop-msg-close" role="button" style="cursor: pointer;" tabindex="0">                <img src="https://consent.trustarc.com/asset/ic-close-white.svg" alt="alert message close" style="width: 14px; height: 14px;">            </a>        </div>    </div>    <div id="trustarc-clear-cookie-info" class="trustarc-info-hide">        <div class="trustarc-info-img" style="margin: 14px 6px 14px 26px;" aria-hidden="true">            <img src="https://consent.trustarc.com/asset/ic-error.svg" alt="alert icon">        </div>        <div tabindex="0" id="truste-clear-cookie-msg" class="trustarc-warning-text" style="margin: 14px;"></div>        <div class="trustarc-info-img" style="margin: 14px 26px 14px 6px;">            <a id="truste-clear-cookie-msg-close" role="button" style="cursor: pointer;" tabindex="0">                <img src="https://consent.trustarc.com/asset/ic-close-white.svg" alt="alert message close" style="width: 14px; height: 14px;">            </a>        </div>    </div>    <div class="trustarc-banner-container">        <div class="banner-details-container">            <div class="description-group">                <div class="trustarc-banner-details">                    <div id="truste-banner-header-text" class="trustarc-banner-header" style="font-kerning:normal;" aria-readonly="true">                        <span style="font-weight:bolder;" role="heading" wai-aria="" aria-level="1" tabindex="0">YOUR CHOICES REGARDING COOKIES ON THIS SITE</span>                        <div tabindex="0" id="truste-banner-body-text" class="trustarc-banner-body">                            Please choose whether this site may use cookies or related technologies such as web beacons, pixel tags, and Flash objects ("Cookies") as described below. You can learn more about how this site uses cookies and related technologies by reading our privacy policy linked to below. Your choices on this site will be applied globally. This means that your settings will be available on other sites that set your choices globally. You can change your mind and revisit your preferences at any time by accessing the "Cookie Preferences" link in the footer of this site.                        </div>                    </div>                </div>                <div class="trustarc-banner-details partners-container">                    <div id="truste-partner-header-text" class="trustarc-banner-header" style="font-kerning:normal;" aria-readonly="true">                        <span style="font-weight:bolder;" tabindex="0">WE AND OUR PARTNERS (1)</span>                        <div tabindex="0" id="truste-partner-body-text" class="trustarc-banner-body">                            <p style="margin: 0px">We and <a id="iab-partners-link" class="iab-link" tabindex="0"> our partners: (1)</a> process personal data such as IP Address, Unique ID, browsing data for:  Store and/or access information on a device | Personalised advertising.</p>                            <p style="margin: 0px; padding-top:8px;">Some partners do not ask for your consent to process your data, instead, they rely on their legitimate business interest. View our <a id="iab-second-partners-link" class="iab-link" tabindex="0">list of partners</a> to see the purposes they believe they have a legitimate interest for and how you can object to it.</p>                        </div>                    </div>                </div>            </div>        </div>        <div id="truste-consent-buttons" class="trustarc-consent-buttons">            <div id="btn-g1" class="btn-class"><button tabindex="0" class="trustarc-agree-btn" id="truste-consent-button">Accept All</button></div>          <div id="btn-g2" class="btn-class">            <button tabindex="0" class="trustarc-declineall-btn" id="truste-consent-required">Decline All</button>            <button tabindex="0" class="trustarc-manage-btn" id="truste-show-consent" aria-haspopup="true">Manage Settings</button>          </div>        </div>    </div>    <div class="trustarc-banner-footer">      <a href="https://www.godaddy.com/agreements/showdoc?pageid=PRIVACY" tabindex="0" class="trustarc-banner-left" id="truste-privacy-button" target="_blank">Privacy Policy</a>        <div class="trustarc-banner-right">            <span style="align-self: center;">Powered by:</span>            <a href="https://trustarc.com" target="_blank" id="truste-powered-by" tabindex="0">                <img src="https://consent.trustarc.com/get?name=Powered-By-TrustArc.png" style="margin-bottom:7px;padding-left:5px;padding-top:10px;image-rendering:auto;image-rendering:crisp-edges;image-rendering:inherit;height:16px;" alt="cookie notice provider logo">            </a>        </div>    </div></div></div></div><div id="footer"><div class="footerLine footerColor footer_spaceBetween__1ytgc"><span id="copyright">Copyright © dwhyj2.top. &nbsp;All rights reserved.</span><span id="privacy"><a href="#!" rel="nofollow">Privacy Policy</a></span><span id="teconsent" consent="undefined" aria-label="Open Cookie Preferences Modal" class="truste_caIcon_display" role="complementary"><script async="async" type="text/javascript" crossorigin="" importance="high" src="https://consent.trustarc.com/asset/tcfapi2.2.js"></script><script src="https://consent.trustarc.com/asset/notice.js/v/v1.7-289" async="async" crossorigin="" importance="high"></script><a role="link" id="icon-id08105718514981776" tabindex="0" lang="en" aria-haspopup="dialog" aria-label="Cookie Preferences, opens a dedicated popup modal window" class="truste_cursor_pointer">Cookie Preferences</a></span></div></div></div></div></div>
+<iframe style="display: none;" name="__tcfapiLocator"></iframe><script src="//consent.truste.com/notice?domain=godaddy_parking_iab.com&amp;c=teconsent&amp;js=nj&amp;noticeType=bb&amp;text=true&amp;privacypolicylink=https%3A%2F%2Fwww.godaddy.com%2Fagreements%2Fshowdoc%3Fpageid%3DPRIVACY&amp;gtm=1" class="trustarc-script" async="" crossorigin="" id="truste_0.6769746320592681"></script></body>
