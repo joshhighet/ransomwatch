@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-02-13 | [`Gitlabs: Omydoo, Ayomi, ADULLACT`](https://google.com/search?q=Gitlabs%3A+Omydoo%2C+Ayomi%2C+ADULLACT) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
+| 2025-02-13 | [`leonardo.com`](https://google.com/search?q=leonardo.com) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
+| 2025-02-13 | [`Aspire Rural Health System`](https://google.com/search?q=Aspire+Rural+Health+System) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2025-02-13 | [`Mozo Grau (mozo-grau.com)`](https://google.com/search?q=Mozo+Grau+%28mozo-grau.com%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2025-02-13 | [`enventuregt.com`](https://google.com/search?q=enventuregt.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-13 | [`snoqualmietribe.us`](https://google.com/search?q=snoqualmietribe.us) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2025-01-30 | [`Tri-Sen Systems`](https://google.com/search?q=Tri-Sen+Systems) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-01-30 | [`soitinlaine.fi`](https://google.com/search?q=soitinlaine.fi) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
 | 2025-01-30 | [`Zschimmer and Schwarz`](https://google.com/search?q=Zschimmer+and+Schwarz) | [termite](https://ransomwatch.telemetry.ltd/#/profiles?id=termite) |
-| 2025-01-30 | [`payahmedabadechallan.org`](https://google.com/search?q=payahmedabadechallan.org) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
-| 2025-01-30 | [`Gitlabs: Prasaga, HE2B, Kombinat`](https://google.com/search?q=Gitlabs%3A+Prasaga%2C+HE2B%2C+Kombinat) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
-| 2025-01-29 | [`midwaymetals.com.vn`](https://google.com/search?q=midwaymetals.com.vn) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
