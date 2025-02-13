@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-02-13 | [`Mozo Grau (mozo-grau.com)`](https://google.com/search?q=Mozo+Grau+%28mozo-grau.com%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2025-02-13 | [`enventuregt.com`](https://google.com/search?q=enventuregt.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-13 | [`snoqualmietribe.us`](https://google.com/search?q=snoqualmietribe.us) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-13 | [`Ball, LLP`](https://google.com/search?q=Ball%2C+LLP) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-01-30 | [`payahmedabadechallan.org`](https://google.com/search?q=payahmedabadechallan.org) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2025-01-30 | [`Gitlabs: Prasaga, HE2B, Kombinat`](https://google.com/search?q=Gitlabs%3A+Prasaga%2C+HE2B%2C+Kombinat) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2025-01-29 | [`midwaymetals.com.vn`](https://google.com/search?q=midwaymetals.com.vn) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2025-01-29 | [`SCV Med Group`](https://google.com/search?q=SCV+Med+Group) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
