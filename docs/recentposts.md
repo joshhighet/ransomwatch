@@ -4,6 +4,15 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-02-13 | [`enventuregt.com`](https://google.com/search?q=enventuregt.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2025-02-13 | [`snoqualmietribe.us`](https://google.com/search?q=snoqualmietribe.us) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2025-02-13 | [`Ball, LLP`](https://google.com/search?q=Ball%2C+LLP) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2025-02-13 | [`R Molds Inc`](https://google.com/search?q=R+Molds+Inc) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2025-02-13 | [`Nash Brothers Construction`](https://google.com/search?q=Nash+Brothers+Construction) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2025-02-13 | [`Nippon Steel USA`](https://google.com/search?q=Nippon+Steel+USA) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2025-02-13 | [`Financial Services of America, Inc.`](https://google.com/search?q=Financial+Services+of+America%2C+Inc.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2025-02-13 | [`Borel CPA's L.L.C`](https://google.com/search?q=Borel+CPA%27s+L.L.C) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2025-02-13 | [`Dain, Torpy, Le Ray, Wiest and Garner, P.C.`](https://google.com/search?q=Dain%2C+Torpy%2C+Le+Ray%2C+Wiest+and+Garner%2C+P.C.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2025-02-12 | [`Obex Medical`](https://google.com/search?q=Obex+Medical) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2025-02-12 | [`http://thermaseal.net`](https://google.com/search?q=http%3A%2F%2Fthermaseal.net) | [ciphbit](https://ransomwatch.telemetry.ltd/#/profiles?id=ciphbit) |
 | 2025-02-12 | [`Gitlabs: INGV, Spacemanic, Squeezer-software`](https://google.com/search?q=Gitlabs%3A+INGV%2C+Spacemanic%2C+Squeezer-software) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
@@ -195,12 +204,3 @@ _last `200` posts_
 | 2025-01-30 | [`Gitlabs: Prasaga, HE2B, Kombinat`](https://google.com/search?q=Gitlabs%3A+Prasaga%2C+HE2B%2C+Kombinat) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2025-01-29 | [`midwaymetals.com.vn`](https://google.com/search?q=midwaymetals.com.vn) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-01-29 | [`SCV Med Group`](https://google.com/search?q=SCV+Med+Group) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
-| 2025-01-29 | [`The Wendt Agency`](https://google.com/search?q=The+Wendt+Agency) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
-| 2025-01-29 | [`Rossi Real Estate (ROSSIDG.LOCAL)`](https://google.com/search?q=Rossi+Real+Estate+%28ROSSIDG.LOCAL%29) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
-| 2025-01-29 | [`Delta Screen & Filtration ()`](https://google.com/search?q=Delta+Screen+%26+Filtration+%28%29) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
-| 2025-01-29 | [`tnlottery.com`](https://google.com/search?q=tnlottery.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-01-29 | [`air europa`](https://google.com/search?q=air+europa) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-01-29 | [`Boldon James`](https://google.com/search?q=Boldon+James) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-01-29 | [`biagibros.com\$273M\USA\820GB\&lt;1% DISCLOSED`](https://google.com/search?q=biagibros.com%5C%24273M%5CUSA%5C820GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2025-01-29 | [`alkodistributors.com\$33.5M\USA\345GB\&lt;1% DISCLOSED`](https://google.com/search?q=alkodistributors.com%5C%2433.5M%5CUSA%5C345GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2025-01-29 | [`daVinci`](https://google.com/search?q=daVinci) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
