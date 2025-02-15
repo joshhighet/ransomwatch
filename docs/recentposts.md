@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-02-15 | [`Empire Home Center`](https://google.com/search?q=Empire+Home+Center) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
+| 2025-02-15 | [`halex.com`](https://google.com/search?q=halex.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
 | 2025-02-15 | [`(M)Empire-home-center`](https://google.com/search?q=%28M%29Empire-home-center) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-02-14 | [`Heritage South Credit Union`](https://google.com/search?q=Heritage+South+Credit+Union) | [embargo](https://ransomwatch.telemetry.ltd/#/profiles?id=embargo) |
 | 2025-02-14 | [`www.calspa.it`](https://google.com/search?q=www.calspa.it) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2025-01-30 | [`vsstransportationgroup.com\$54.5M\USA\522GB\&lt;1% DISCLOSED`](https://google.com/search?q=vsstransportationgroup.com%5C%2454.5M%5CUSA%5C522GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2025-01-30 | [`sunrise-soya.com\$42.2M\Canada\504GB\&lt;1% DISCLOSED`](https://google.com/search?q=sunrise-soya.com%5C%2442.2M%5CCanada%5C504GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2025-01-30 | [`nenok.de`](https://google.com/search?q=nenok.de) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
-| 2025-01-30 | [`FENSTERMAKER`](https://google.com/search?q=FENSTERMAKER) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
-| 2025-01-30 | [`Engine Power Source`](https://google.com/search?q=Engine+Power+Source) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
