@@ -4,6 +4,10 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-02-16 | [`Gpstech2007.com`](https://google.com/search?q=Gpstech2007.com) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
+| 2025-02-16 | [`Mervis.info`](https://google.com/search?q=Mervis.info) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
+| 2025-02-16 | [`Realtime.tw`](https://google.com/search?q=Realtime.tw) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
+| 2025-02-16 | [`A*u.edu.au`](https://google.com/search?q=A%2Au.edu.au) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
 | 2025-02-15 | [`saulttribe.com/kewadin.com`](https://google.com/search?q=saulttribe.com%2Fkewadin.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-15 | [`www.rowetactical.com`](https://google.com/search?q=www.rowetactical.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-15 | [`www.transcend-info.com`](https://google.com/search?q=www.transcend-info.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -200,7 +204,3 @@ _last `200` posts_
 | 2025-02-01 | [`GATTELLI SpA`](https://google.com/search?q=GATTELLI+SpA) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2025-02-01 | [`Technico`](https://google.com/search?q=Technico) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2025-01-31 | [`BH Aircraft Company, Inc.`](https://google.com/search?q=BH+Aircraft+Company%2C+Inc.) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2025-01-31 | [`Pembina Trails School Division`](https://google.com/search?q=Pembina+Trails+School+Division) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2025-01-31 | [`A**-****o.com`](https://google.com/search?q=A%2A%2A-%2A%2A%2A%2Ao.com) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
-| 2025-01-31 | [`T*****p.com`](https://google.com/search?q=T%2A%2A%2A%2A%2Ap.com) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
-| 2025-01-30 | [`Gitlabs: Professional Computer, X-Pans, Propulsion Academy AG`](https://google.com/search?q=Gitlabs%3A+Professional+Computer%2C+X-Pans%2C+Propulsion+Academy+AG) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
