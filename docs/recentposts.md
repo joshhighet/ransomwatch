@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-02-16 | [`annegrady.org`](https://google.com/search?q=annegrady.org) | [embargo](https://ransomwatch.telemetry.ltd/#/profiles?id=embargo) |
 | 2025-02-16 | [`Gitlabs: Acqua development, QBurst, Pamyra.de`](https://google.com/search?q=Gitlabs%3A+Acqua+development%2C+QBurst%2C+Pamyra.de) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2025-02-16 | [`Gpstech2007.com`](https://google.com/search?q=Gpstech2007.com) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
 | 2025-02-16 | [`Mervis.info`](https://google.com/search?q=Mervis.info) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-02-01 | [`Eascon`](https://google.com/search?q=Eascon) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2025-02-01 | [`Utilissimo Transportes`](https://google.com/search?q=Utilissimo+Transportes) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2025-02-01 | [`GATTELLI SpA`](https://google.com/search?q=GATTELLI+SpA) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
-| 2025-02-01 | [`Technico`](https://google.com/search?q=Technico) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
