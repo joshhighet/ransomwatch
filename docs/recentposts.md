@@ -4,6 +4,10 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-02-17 | [`Persante Health Care`](https://google.com/search?q=Persante+Health+Care) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
+| 2025-02-17 | [`mgainnovation.com\$30.9M\USA\215GB\100% DISCLOSED`](https://google.com/search?q=mgainnovation.com%5C%2430.9M%5CUSA%5C215GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
+| 2025-02-17 | [`northernresponse.com\$17.4M\Canada\366GB\100% DISCLOSED`](https://google.com/search?q=northernresponse.com%5C%2417.4M%5CCanada%5C366GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
+| 2025-02-17 | [`savoiesfoods.com\$18.2M\USA\95GB\100% DISCLOSED`](https://google.com/search?q=savoiesfoods.com%5C%2418.2M%5CUSA%5C95GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2025-02-16 | [`annegrady.org`](https://google.com/search?q=annegrady.org) | [embargo](https://ransomwatch.telemetry.ltd/#/profiles?id=embargo) |
 | 2025-02-16 | [`Gitlabs: Acqua development, QBurst, Pamyra.de`](https://google.com/search?q=Gitlabs%3A+Acqua+development%2C+QBurst%2C+Pamyra.de) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2025-02-16 | [`Gpstech2007.com`](https://google.com/search?q=Gpstech2007.com) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
@@ -200,7 +204,3 @@ _last `200` posts_
 | 2025-02-01 | [`My New Jersey Dentist`](https://google.com/search?q=My+New+Jersey+Dentist) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2025-02-01 | [`CAMRIDGEPORT`](https://google.com/search?q=CAMRIDGEPORT) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2025-02-01 | [`Wireless Solutions (Morris.Domain)`](https://google.com/search?q=Wireless+Solutions+%28Morris.Domain%29) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
-| 2025-02-01 | [`Falcon Gaming`](https://google.com/search?q=Falcon+Gaming) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
-| 2025-02-01 | [`Eascon`](https://google.com/search?q=Eascon) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
-| 2025-02-01 | [`Utilissimo Transportes`](https://google.com/search?q=Utilissimo+Transportes) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
-| 2025-02-01 | [`GATTELLI SpA`](https://google.com/search?q=GATTELLI+SpA) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
