@@ -4,6 +4,16 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-02-17 | [`Dane Court Grammar School`](https://google.com/search?q=Dane+Court+Grammar+School) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
+| 2025-02-17 | [`Toi Toi USA`](https://google.com/search?q=Toi+Toi+USA) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
+| 2025-02-17 | [`lekiaviation.com`](https://google.com/search?q=lekiaviation.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2025-02-17 | [`bisindustries.com`](https://google.com/search?q=bisindustries.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2025-02-17 | [`kinseysinc.com\$74.9M\USA\675GB\&lt;1% DISCLOSED`](https://google.com/search?q=kinseysinc.com%5C%2474.9M%5CUSA%5C675GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
+| 2025-02-17 | [`steelerubber.com\$17.9M\USA\116GB\&lt;1% DISCLOSED`](https://google.com/search?q=steelerubber.com%5C%2417.9M%5CUSA%5C116GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
+| 2025-02-17 | [`almostfamousclothing.com\$183M\USA\375GB\&lt;1% DISCLOSED`](https://google.com/search?q=almostfamousclothing.com%5C%24183M%5CUSA%5C375GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
+| 2025-02-17 | [`teamwass.com\$676.3M\USA\451GB\&lt;1% DISCLOSED`](https://google.com/search?q=teamwass.com%5C%24676.3M%5CUSA%5C451GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
+| 2025-02-17 | [`ssmcoop.com\$22.5M\USA\26GB\&lt;1% DISCLOSED`](https://google.com/search?q=ssmcoop.com%5C%2422.5M%5CUSA%5C26GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
+| 2025-02-17 | [`https://www.dapope.com/`](https://google.com/search?q=https%3A%2F%2Fwww.dapope.com%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2025-02-17 | [`hamton`](https://google.com/search?q=hamton) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-02-17 | [`Hisingstads Bleck`](https://google.com/search?q=Hisingstads+Bleck) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-02-17 | [`Leadership Strategies`](https://google.com/search?q=Leadership+Strategies) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
@@ -194,13 +204,3 @@ _last `200` posts_
 | 2025-02-03 | [`Daniel Island Club`](https://google.com/search?q=Daniel+Island+Club) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-02-03 | [`DPC Development`](https://google.com/search?q=DPC+Development) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-02-03 | [`Gitlabs: Bolin Centre for Climate Research, X-lab group, Madia`](https://google.com/search?q=Gitlabs%3A+Bolin+Centre+for+Climate+Research%2C+X-lab+group%2C+Madia) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
-| 2025-02-03 | [`gruppozaccaria.it`](https://google.com/search?q=gruppozaccaria.it) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2025-02-03 | [`Karadeniz Holding  (karadenizholding.com)`](https://google.com/search?q=Karadeniz+Holding++%28karadenizholding.com%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
-| 2025-02-03 | [`www.wongfleming.com`](https://google.com/search?q=www.wongfleming.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2025-02-03 | [`smithmidland.com`](https://google.com/search?q=smithmidland.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2025-02-03 | [`www.origene.com`](https://google.com/search?q=www.origene.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2025-02-03 | [`realtaxcanada.com`](https://google.com/search?q=realtaxcanada.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
-| 2025-02-03 | [`Ponte16 Hotel &amp`](https://google.com/search?q=Ponte16+Hotel+%26amp) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
-| 2025-02-03 | [`ome.tv`](https://google.com/search?q=ome.tv) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
-| 2025-02-03 | [`Pineland community service board`](https://google.com/search?q=Pineland+community+service+board) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
-| 2025-02-03 | [`Evidn Data Leak`](https://google.com/search?q=Evidn+Data+Leak) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
