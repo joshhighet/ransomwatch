@@ -4,6 +4,19 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-02-17 | [`www.macter.com`](https://google.com/search?q=www.macter.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2025-02-17 | [`Wylie Steel Fabricators`](https://google.com/search?q=Wylie+Steel+Fabricators) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2025-02-17 | [`Weed Man Canada`](https://google.com/search?q=Weed+Man+Canada) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2025-02-17 | [`Transkid`](https://google.com/search?q=Transkid) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2025-02-17 | [`Startek Peglar & Calcagni`](https://google.com/search?q=Startek+Peglar+%26+Calcagni) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2025-02-17 | [`Stage 3 Separation`](https://google.com/search?q=Stage+3+Separation) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2025-02-17 | [`Rheinischer Sch`](https://google.com/search?q=Rheinischer+Sch) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2025-02-17 | [`Oxford Companies`](https://google.com/search?q=Oxford+Companies) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2025-02-17 | [`Inland Empire Distribution Systems, Inc.`](https://google.com/search?q=Inland+Empire+Distribution+Systems%2C+Inc.) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2025-02-17 | [`Cuna Supply`](https://google.com/search?q=Cuna+Supply) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2025-02-17 | [`Bushmans`](https://google.com/search?q=Bushmans) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2025-02-17 | [`Bulldog Oilfield Services`](https://google.com/search?q=Bulldog+Oilfield+Services) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2025-02-17 | [`The Townsley Law Firm Information`](https://google.com/search?q=The+Townsley+Law+Firm+Information) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-02-17 | [`Dane Court Grammar School`](https://google.com/search?q=Dane+Court+Grammar+School) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
 | 2025-02-17 | [`Toi Toi USA`](https://google.com/search?q=Toi+Toi+USA) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
 | 2025-02-17 | [`lekiaviation.com`](https://google.com/search?q=lekiaviation.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -191,16 +204,3 @@ _last `200` posts_
 | 2025-02-04 | [`www.aswgr.com`](https://google.com/search?q=www.aswgr.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-04 | [`heartlandrvs.com`](https://google.com/search?q=heartlandrvs.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-04 | [`gaheritagefcu.org`](https://google.com/search?q=gaheritagefcu.org) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2025-02-04 | [`alojaimi.com`](https://google.com/search?q=alojaimi.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2025-02-04 | [`ITSS`](https://google.com/search?q=ITSS) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
-| 2025-02-04 | [`C2S Technologies Inc.`](https://google.com/search?q=C2S+Technologies+Inc.) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
-| 2025-02-03 | [`[EVIDANCE] AIshu, Eshoo`](https://google.com/search?q=%5BEVIDANCE%5D+AIshu%2C+Eshoo) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
-| 2025-02-03 | [`Woodway USA`](https://google.com/search?q=Woodway+USA) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-02-03 | [`The Hill Brush`](https://google.com/search?q=The+Hill+Brush) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-02-03 | [`Sheridan Nurseries`](https://google.com/search?q=Sheridan+Nurseries) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-02-03 | [`QGS Development`](https://google.com/search?q=QGS+Development) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-02-03 | [`KWS`](https://google.com/search?q=KWS) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-02-03 | [`Dickerson & Nieman Realtors`](https://google.com/search?q=Dickerson+%26+Nieman+Realtors) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-02-03 | [`Daniel Island Club`](https://google.com/search?q=Daniel+Island+Club) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-02-03 | [`DPC Development`](https://google.com/search?q=DPC+Development) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-02-03 | [`Gitlabs: Bolin Centre for Climate Research, X-lab group, Madia`](https://google.com/search?q=Gitlabs%3A+Bolin+Centre+for+Climate+Research%2C+X-lab+group%2C+Madia) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
