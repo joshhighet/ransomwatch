@@ -4,6 +4,13 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-02-17 | [`LINTEC & LINNHOFF Holdings`](https://google.com/search?q=LINTEC+%26+LINNHOFF+Holdings) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
+| 2025-02-17 | [`HRS_IDEA_Expertises`](https://google.com/search?q=HRS_IDEA_Expertises) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
+| 2025-02-17 | [`Autoschade Pippel`](https://google.com/search?q=Autoschade+Pippel) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
+| 2025-02-17 | [`Pedensia Graphics Distribution`](https://google.com/search?q=Pedensia+Graphics+Distribution) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
+| 2025-02-17 | [`Winbas`](https://google.com/search?q=Winbas) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
+| 2025-02-17 | [`neatem.fr`](https://google.com/search?q=neatem.fr) | [braincipher](https://ransomwatch.telemetry.ltd/#/profiles?id=braincipher) |
+| 2025-02-17 | [`Cirion Technologies`](https://google.com/search?q=Cirion+Technologies) | [braincipher](https://ransomwatch.telemetry.ltd/#/profiles?id=braincipher) |
 | 2025-02-17 | [`Allied Tenesis`](https://google.com/search?q=Allied+Tenesis) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-02-17 | [`Greencastle-Antrim Senior High School (gcasd.org)`](https://google.com/search?q=Greencastle-Antrim+Senior+High+School+%28gcasd.org%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2025-02-17 | [`Persante Health Care`](https://google.com/search?q=Persante+Health+Care) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -197,10 +204,3 @@ _last `200` posts_
 | 2025-02-02 | [`Four Eye Clinics`](https://google.com/search?q=Four+Eye+Clinics) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
 | 2025-02-02 | [`jpcgroupinc.com`](https://google.com/search?q=jpcgroupinc.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
 | 2025-02-02 | [`Tosaf Hacked`](https://google.com/search?q=Tosaf+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
-| 2025-02-02 | [`Civic Committee`](https://google.com/search?q=Civic+Committee) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2025-02-02 | [`Ayres Law Firm`](https://google.com/search?q=Ayres+Law+Firm) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2025-02-02 | [`Growth Acceleration Partners`](https://google.com/search?q=Growth+Acceleration+Partners) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2025-02-01 | [`Gitlabs: PT. ITPRENEUR INDONESIA TECHNOLOGY, GFZ Helmholtz Centre for Geosciences, LUA Cof`](https://google.com/search?q=Gitlabs%3A+PT.+ITPRENEUR+INDONESIA+TECHNOLOGY%2C+GFZ+Helmholtz+Centre+for+Geosciences%2C+LUA+Cof) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
-| 2025-02-01 | [`Zamzow's`](https://google.com/search?q=Zamzow%27s) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
-| 2025-02-01 | [`Nano Health`](https://google.com/search?q=Nano+Health) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
-| 2025-02-01 | [`My New Jersey Dentist`](https://google.com/search?q=My+New+Jersey+Dentist) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
