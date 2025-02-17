@@ -4,6 +4,10 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-02-17 | [`hamton`](https://google.com/search?q=hamton) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
+| 2025-02-17 | [`Hisingstads Bleck`](https://google.com/search?q=Hisingstads+Bleck) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
+| 2025-02-17 | [`Leadership Strategies`](https://google.com/search?q=Leadership+Strategies) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
+| 2025-02-17 | [`Swissmem`](https://google.com/search?q=Swissmem) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2025-02-17 | [`LINTEC & LINNHOFF Holdings`](https://google.com/search?q=LINTEC+%26+LINNHOFF+Holdings) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-02-17 | [`HRS_IDEA_Expertises`](https://google.com/search?q=HRS_IDEA_Expertises) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-02-17 | [`Autoschade Pippel`](https://google.com/search?q=Autoschade+Pippel) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
@@ -200,7 +204,3 @@ _last `200` posts_
 | 2025-02-03 | [`ome.tv`](https://google.com/search?q=ome.tv) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2025-02-03 | [`Pineland community service board`](https://google.com/search?q=Pineland+community+service+board) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2025-02-03 | [`Evidn Data Leak`](https://google.com/search?q=Evidn+Data+Leak) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
-| 2025-02-02 | [`usuhs.edu`](https://google.com/search?q=usuhs.edu) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2025-02-02 | [`Four Eye Clinics`](https://google.com/search?q=Four+Eye+Clinics) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
-| 2025-02-02 | [`jpcgroupinc.com`](https://google.com/search?q=jpcgroupinc.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
-| 2025-02-02 | [`Tosaf Hacked`](https://google.com/search?q=Tosaf+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
