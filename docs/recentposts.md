@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-02-18 | [`pyasolutions.com`](https://google.com/search?q=pyasolutions.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
+| 2025-02-18 | [`lavi.co.il`](https://google.com/search?q=lavi.co.il) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-02-18 | [`Afa Systems Ltd.`](https://google.com/search?q=Afa+Systems+Ltd.) | [underground](https://ransomwatch.telemetry.ltd/#/profiles?id=underground) |
 | 2025-02-18 | [`Buanderie Centrale de Montreal`](https://google.com/search?q=Buanderie+Centrale+de+Montreal) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2025-02-17 | [`myhscu.com`](https://google.com/search?q=myhscu.com) | [embargo](https://ransomwatch.telemetry.ltd/#/profiles?id=embargo) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2025-02-04 | [`clarkfreightways.com`](https://google.com/search?q=clarkfreightways.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-04 | [`Town Counsel Law & Litigation`](https://google.com/search?q=Town+Counsel+Law+%26+Litigation) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2025-02-04 | [`cornwelltools.com\$218.7M\USA\4.6TB\&lt;1% DISCLOSED`](https://google.com/search?q=cornwelltools.com%5C%24218.7M%5CUSA%5C4.6TB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2025-02-04 | [`rashtiandrashti.com\$19.1M\USA\786GB\&lt;1% DISCLOSED`](https://google.com/search?q=rashtiandrashti.com%5C%2419.1M%5CUSA%5C786GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2025-02-04 | [`mgainnovation.com\$30.9M\USA\215GB\&lt;1% DISCLOSED`](https://google.com/search?q=mgainnovation.com%5C%2430.9M%5CUSA%5C215GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
