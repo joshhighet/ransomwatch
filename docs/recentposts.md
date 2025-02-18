@@ -4,6 +4,10 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-02-18 | [`uniekinc.com\$37.5M\USA\1.8TB\&lt;1% DISCLOSED`](https://google.com/search?q=uniekinc.com%5C%2437.5M%5CUSA%5C1.8TB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
+| 2025-02-18 | [`midwayimporting.com\$43.7M\USA\915GB\&lt;1% DISCLOSED`](https://google.com/search?q=midwayimporting.com%5C%2443.7M%5CUSA%5C915GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
+| 2025-02-18 | [`revitalash.com\$21.5M\USA\1.2TB\&lt;1% DISCLOSED`](https://google.com/search?q=revitalash.com%5C%2421.5M%5CUSA%5C1.2TB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
+| 2025-02-18 | [`bestbrands.com\$25.5M\USA\659GB\&lt;1% DISCLOSED`](https://google.com/search?q=bestbrands.com%5C%2425.5M%5CUSA%5C659GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2025-02-18 | [`boostheat.com`](https://google.com/search?q=boostheat.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2025-02-18 | [`www.mwmechanicalinc.com`](https://google.com/search?q=www.mwmechanicalinc.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-18 | [`www.alphamedctr.com`](https://google.com/search?q=www.alphamedctr.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -200,7 +204,3 @@ _last `200` posts_
 | 2025-02-04 | [`Medical Reports`](https://google.com/search?q=Medical+Reports) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
 | 2025-02-04 | [`Casper&#39;s Truck Equipment`](https://google.com/search?q=Casper%26%2339%3Bs+Truck+Equipment) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
 | 2025-02-04 | [`Gitlabs: hemio.de, SOLEIL, Devlion`](https://google.com/search?q=Gitlabs%3A+hemio.de%2C+SOLEIL%2C+Devlion) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
-| 2025-02-04 | [`sportadmin.se`](https://google.com/search?q=sportadmin.se) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2025-02-04 | [`escada.com`](https://google.com/search?q=escada.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2025-02-04 | [`C and R Molds Inc`](https://google.com/search?q=C+and+R+Molds+Inc) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2025-02-04 | [`Commercial Solutions`](https://google.com/search?q=Commercial+Solutions) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
