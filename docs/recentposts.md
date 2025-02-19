@@ -4,6 +4,11 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-02-19 | [`Brolly`](https://google.com/search?q=Brolly) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
+| 2025-02-19 | [`BeniPlus`](https://google.com/search?q=BeniPlus) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
+| 2025-02-19 | [`Revi`](https://google.com/search?q=Revi) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
+| 2025-02-19 | [`Help Me Grow Yolo`](https://google.com/search?q=Help+Me+Grow+Yolo) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
+| 2025-02-19 | [`NimuSoft`](https://google.com/search?q=NimuSoft) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2025-02-18 | [`uniekinc.com\$37.5M\USA\1.8TB\&lt;1% DISCLOSED`](https://google.com/search?q=uniekinc.com%5C%2437.5M%5CUSA%5C1.8TB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2025-02-18 | [`midwayimporting.com\$43.7M\USA\915GB\&lt;1% DISCLOSED`](https://google.com/search?q=midwayimporting.com%5C%2443.7M%5CUSA%5C915GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2025-02-18 | [`revitalash.com\$21.5M\USA\1.2TB\&lt;1% DISCLOSED`](https://google.com/search?q=revitalash.com%5C%2421.5M%5CUSA%5C1.2TB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
@@ -199,8 +204,3 @@ _last `200` posts_
 | 2025-02-05 | [`India car owners`](https://google.com/search?q=India+car+owners) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2025-02-05 | [`annegrady.org`](https://google.com/search?q=annegrady.org) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-05 | [`Mid-State Machine & Fabricating Corp`](https://google.com/search?q=Mid-State+Machine+%26+Fabricating+Corp) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-02-05 | [`Toshapp.com`](https://google.com/search?q=Toshapp.com) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
-| 2025-02-05 | [`A2b-cargo.com`](https://google.com/search?q=A2b-cargo.com) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
-| 2025-02-04 | [`Medical Reports`](https://google.com/search?q=Medical+Reports) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
-| 2025-02-04 | [`Casper&#39;s Truck Equipment`](https://google.com/search?q=Casper%26%2339%3Bs+Truck+Equipment) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
-| 2025-02-04 | [`Gitlabs: hemio.de, SOLEIL, Devlion`](https://google.com/search?q=Gitlabs%3A+hemio.de%2C+SOLEIL%2C+Devlion) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
