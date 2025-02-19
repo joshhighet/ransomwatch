@@ -4,6 +4,10 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-02-19 | [`Haggin Oaks Golf (hagginoaks.com)`](https://google.com/search?q=Haggin+Oaks+Golf+%28hagginoaks.com%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
+| 2025-02-19 | [`DR.Claims FL LLC`](https://google.com/search?q=DR.Claims+FL+LLC) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
+| 2025-02-19 | [`EzyLegal`](https://google.com/search?q=EzyLegal) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
+| 2025-02-19 | [`haleycomfort.com`](https://google.com/search?q=haleycomfort.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-19 | [`Eservices.gov.zm`](https://google.com/search?q=Eservices.gov.zm) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
 | 2025-02-19 | [`Gitlabs: Next TI, VISEO, Hochschule Trier`](https://google.com/search?q=Gitlabs%3A+Next+TI%2C+VISEO%2C+Hochschule+Trier) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2025-02-19 | [`Brolly`](https://google.com/search?q=Brolly) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
@@ -200,7 +204,3 @@ _last `200` posts_
 | 2025-02-05 | [`OFW Law`](https://google.com/search?q=OFW+Law) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2025-02-05 | [`Dash Business`](https://google.com/search?q=Dash+Business) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2025-02-05 | [`Hall Chadwick`](https://google.com/search?q=Hall+Chadwick) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2025-02-05 | [`NESCTC Security Services`](https://google.com/search?q=NESCTC+Security+Services) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2025-02-05 | [`Shinsung Delta Tech`](https://google.com/search?q=Shinsung+Delta+Tech) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
-| 2025-02-05 | [`Banfi Vintners`](https://google.com/search?q=Banfi+Vintners) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
-| 2025-02-05 | [`India car owners`](https://google.com/search?q=India+car+owners) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
