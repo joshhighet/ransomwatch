@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-02-21 | [`www.elecgalapagos.com.ec`](https://google.com/search?q=www.elecgalapagos.com.ec) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2025-02-21 | [`www.fla-esq.com`](https://google.com/search?q=www.fla-esq.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2025-02-21 | [`www.saracenproperties.com`](https://google.com/search?q=www.saracenproperties.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-21 | [`(kc2) geokon.com`](https://google.com/search?q=%28kc2%29+geokon.com) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-02-20 | [`Medical File`](https://google.com/search?q=Medical+File) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2025-02-20 | [`Fortune Electric Co Ltd`](https://google.com/search?q=Fortune+Electric+Co+Ltd) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2025-02-09 | [`Gitlabs: Universitatea Politehnica din Bucuresti, Maxvy Technologies Pvt, iRidge Inc.`](https://google.com/search?q=Gitlabs%3A+Universitatea+Politehnica+din+Bucuresti%2C+Maxvy+Technologies+Pvt%2C+iRidge+Inc.) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2025-02-09 | [`Hpisd.org`](https://google.com/search?q=Hpisd.org) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-09 | [`wwcsd.net`](https://google.com/search?q=wwcsd.net) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2025-02-09 | [`Israel Police Hacked`](https://google.com/search?q=Israel+Police+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
-| 2025-02-08 | [`R******e.tw`](https://google.com/search?q=R%2A%2A%2A%2A%2A%2Ae.tw) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
-| 2025-02-08 | [`SAKAI SOUKEN Co.`](https://google.com/search?q=SAKAI+SOUKEN+Co.) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
