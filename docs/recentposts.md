@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-02-22 | [`Excel Security`](https://google.com/search?q=Excel+Security) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
+| 2025-02-22 | [`evergreenpnw.com`](https://google.com/search?q=evergreenpnw.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-02-22 | [`alleghenybradford.com`](https://google.com/search?q=alleghenybradford.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-22 | [`teamsters175.org`](https://google.com/search?q=teamsters175.org) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-02-21 | [`www.electro-fusion.com`](https://google.com/search?q=www.electro-fusion.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2025-02-10 | [`D-7 Roofing`](https://google.com/search?q=D-7+Roofing) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2025-02-10 | [`Recievership Specialists`](https://google.com/search?q=Recievership+Specialists) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2025-02-10 | [`Atlas Commodities`](https://google.com/search?q=Atlas+Commodities) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
-| 2025-02-10 | [`Enfin`](https://google.com/search?q=Enfin) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
-| 2025-02-10 | [`abcapital.com.ph`](https://google.com/search?q=abcapital.com.ph) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
