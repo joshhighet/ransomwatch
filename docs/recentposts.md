@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-02-23 | [`BluAgent Technologies, Inc`](https://google.com/search?q=BluAgent+Technologies%2C+Inc) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
+| 2025-02-23 | [`Novi Community School District`](https://google.com/search?q=Novi+Community+School+District) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
+| 2025-02-23 | [`G&amp`](https://google.com/search?q=G%26amp) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2025-02-23 | [`Shaghalni`](https://google.com/search?q=Shaghalni) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2025-02-22 | [`SPEED Co`](https://google.com/search?q=SPEED+Co) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2025-02-22 | [`CCOO Servicios`](https://google.com/search?q=CCOO+Servicios) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2025-02-11 | [`The Children's Center Of Hamden`](https://google.com/search?q=The+Children%27s+Center+Of+Hamden) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-02-10 | [`ome.tv - SOLD`](https://google.com/search?q=ome.tv+-+SOLD) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
 | 2025-02-10 | [`komline.com`](https://google.com/search?q=komline.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2025-02-10 | [`bazcooil.com`](https://google.com/search?q=bazcooil.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2025-02-10 | [`sdfab.com`](https://google.com/search?q=sdfab.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2025-02-10 | [`kaplanstahler.com`](https://google.com/search?q=kaplanstahler.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
