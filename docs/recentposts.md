@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-02-24 | [`[DISCLOSED] Aishu, Eshoo`](https://google.com/search?q=%5BDISCLOSED%5D+Aishu%2C+Eshoo) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2025-02-24 | [`denbyco.co.uk`](https://google.com/search?q=denbyco.co.uk) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-24 | [`Fireplace Warehouse`](https://google.com/search?q=Fireplace+Warehouse) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
 | 2025-02-24 | [`Geokon`](https://google.com/search?q=Geokon) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-02-11 | [`Mainline Information Systems`](https://google.com/search?q=Mainline+Information+Systems) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-02-11 | [`Kensington Glass Arts`](https://google.com/search?q=Kensington+Glass+Arts) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-02-11 | [`Jildor Shoes`](https://google.com/search?q=Jildor+Shoes) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-02-11 | [`Fastighetsservice AB`](https://google.com/search?q=Fastighetsservice+AB) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
