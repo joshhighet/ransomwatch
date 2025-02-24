@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-02-24 | [`Fireplace Warehouse`](https://google.com/search?q=Fireplace+Warehouse) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
 | 2025-02-24 | [`Geokon`](https://google.com/search?q=Geokon) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-02-24 | [`Planet One`](https://google.com/search?q=Planet+One) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-02-24 | [`IDEA Expertises`](https://google.com/search?q=IDEA+Expertises) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-02-11 | [`Jildor Shoes`](https://google.com/search?q=Jildor+Shoes) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-02-11 | [`Fastighetsservice AB`](https://google.com/search?q=Fastighetsservice+AB) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-02-11 | [`EAC Consulting`](https://google.com/search?q=EAC+Consulting) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-02-11 | [`Cold Storage Manufacturing`](https://google.com/search?q=Cold+Storage+Manufacturing) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
