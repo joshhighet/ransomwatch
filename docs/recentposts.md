@@ -4,6 +4,17 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-02-24 | [`Geokon`](https://google.com/search?q=Geokon) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
+| 2025-02-24 | [`Planet One`](https://google.com/search?q=Planet+One) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
+| 2025-02-24 | [`IDEA Expertises`](https://google.com/search?q=IDEA+Expertises) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
+| 2025-02-24 | [`Stürmer Maschinen`](https://google.com/search?q=St%C3%BCrmer+Maschinen) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
+| 2025-02-24 | [`chfindustries.com\$253.8M\USA\2.5TB\&lt;1% DISCLOSED`](https://google.com/search?q=chfindustries.com%5C%24253.8M%5CUSA%5C2.5TB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
+| 2025-02-24 | [`aiibeauty.com\$274.8M\USA\508GB\&lt;1% DISCLOSED`](https://google.com/search?q=aiibeauty.com%5C%24274.8M%5CUSA%5C508GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
+| 2025-02-24 | [`formanmills.com\$422.2M\USA\846gb\&lt;1% DISCLOSED`](https://google.com/search?q=formanmills.com%5C%24422.2M%5CUSA%5C846gb%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
+| 2025-02-24 | [`amalgamatedsugar.com\$764.8 M\USA\464gb\&lt;1% DISCLOSED`](https://google.com/search?q=amalgamatedsugar.com%5C%24764.8+M%5CUSA%5C464gb%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
+| 2025-02-24 | [`everelgroup.com\$259M\Italy\440GB\&lt;1% DISCLOSED`](https://google.com/search?q=everelgroup.com%5C%24259M%5CItaly%5C440GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
+| 2025-02-24 | [`regulvar.com\$253.5M\Canada\3.6TB\&lt;1% DISCLOSED`](https://google.com/search?q=regulvar.com%5C%24253.5M%5CCanada%5C3.6TB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
+| 2025-02-24 | [`[EVIDENCE] Aishu, Eshoo`](https://google.com/search?q=%5BEVIDENCE%5D+Aishu%2C+Eshoo) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2025-02-23 | [`www.famcomachine.com`](https://google.com/search?q=www.famcomachine.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-23 | [`Gitlabs: Naphix, WDNA, Bayteq`](https://google.com/search?q=Gitlabs%3A+Naphix%2C+WDNA%2C+Bayteq) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2025-02-23 | [`ondaralogistica.com`](https://google.com/search?q=ondaralogistica.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -193,14 +204,3 @@ _last `200` posts_
 | 2025-02-11 | [`Fastighetsservice AB`](https://google.com/search?q=Fastighetsservice+AB) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-02-11 | [`EAC Consulting`](https://google.com/search?q=EAC+Consulting) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-02-11 | [`Cold Storage Manufacturing`](https://google.com/search?q=Cold+Storage+Manufacturing) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-02-11 | [`Baltimore Country Club`](https://google.com/search?q=Baltimore+Country+Club) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-02-11 | [`Aurora Public Schools (aurorak12.org)`](https://google.com/search?q=Aurora+Public+Schools+%28aurorak12.org%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
-| 2025-02-11 | [`Saint George&#39;s College (saintgeorge.cl)`](https://google.com/search?q=Saint+George%26%2339%3Bs+College+%28saintgeorge.cl%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
-| 2025-02-11 | [`sehma.com`](https://google.com/search?q=sehma.com) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
-| 2025-02-11 | [`The University of Notre Dame Australia (nd.edu.au)`](https://google.com/search?q=The+University+of+Notre+Dame+Australia+%28nd.edu.au%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
-| 2025-02-11 | [`Rogers`](https://google.com/search?q=Rogers) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2025-02-11 | [`Hammond Trucking & Excavation`](https://google.com/search?q=Hammond+Trucking+%26+Excavation) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2025-02-11 | [`Logix Corporate Solutions`](https://google.com/search?q=Logix+Corporate+Solutions) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
-| 2025-02-11 | [`TMC`](https://google.com/search?q=TMC) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
-| 2025-02-11 | [`sole technology`](https://google.com/search?q=sole+technology) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
-| 2025-02-11 | [`primesourcestaffing.com`](https://google.com/search?q=primesourcestaffing.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
