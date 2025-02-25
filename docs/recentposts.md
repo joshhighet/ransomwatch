@@ -4,6 +4,13 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-02-25 | [`www.avalon-hotel.com`](https://google.com/search?q=www.avalon-hotel.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2025-02-25 | [`www.rgb.com`](https://google.com/search?q=www.rgb.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2025-02-25 | [`www.wpisd.com`](https://google.com/search?q=www.wpisd.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2025-02-25 | [`www.ateliermonarque.com`](https://google.com/search?q=www.ateliermonarque.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2025-02-25 | [`www.confabca.com`](https://google.com/search?q=www.confabca.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2025-02-25 | [`www.bwdtechnology.com`](https://google.com/search?q=www.bwdtechnology.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2025-02-25 | [`hgmlegal.com`](https://google.com/search?q=hgmlegal.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-25 | [`PPS Services Group`](https://google.com/search?q=PPS+Services+Group) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-02-25 | [`South Georgia Accounting Services`](https://google.com/search?q=South+Georgia+Accounting+Services) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2025-02-25 | [`unila.edu.mx`](https://google.com/search?q=unila.edu.mx) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -197,10 +204,3 @@ _last `200` posts_
 | 2025-02-12 | [`thejdkgroup.com`](https://google.com/search?q=thejdkgroup.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-12 | [`twncomm.com`](https://google.com/search?q=twncomm.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-12 | [`Hess (hess-gmbh.de)`](https://google.com/search?q=Hess+%28hess-gmbh.de%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
-| 2025-02-12 | [`E*******s.gov.zm`](https://google.com/search?q=E%2A%2A%2A%2A%2A%2A%2As.gov.zm) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
-| 2025-02-12 | [`The Brown & Hurley Group`](https://google.com/search?q=The+Brown+%26+Hurley+Group) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
-| 2025-02-12 | [`askgs.ma`](https://google.com/search?q=askgs.ma) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2025-02-12 | [`slchc.edu`](https://google.com/search?q=slchc.edu) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2025-02-12 | [`weathersa.co.za`](https://google.com/search?q=weathersa.co.za) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2025-02-12 | [`curtisint.com\$37.2M\Canada\676GB\&lt;1% DISCLOSED`](https://google.com/search?q=curtisint.com%5C%2437.2M%5CCanada%5C676GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2025-02-12 | [`britannicahome.com\$20.6M\USA\2.8TB\&lt;1% DISCLOSED`](https://google.com/search?q=britannicahome.com%5C%2420.6M%5CUSA%5C2.8TB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
