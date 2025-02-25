@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-02-25 | [`megamtls.com`](https://google.com/search?q=megamtls.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
+| 2025-02-25 | [`First Federal Savings & Loan`](https://google.com/search?q=First+Federal+Savings+%26+Loan) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2025-02-25 | [`ALCOTT HR GROUP`](https://google.com/search?q=ALCOTT+HR+GROUP) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-02-25 | [`lifting.com\$135.8M\USA\1.4TB\&lt;1% DISCLOSED`](https://google.com/search?q=lifting.com%5C%24135.8M%5CUSA%5C1.4TB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2025-02-25 | [`bluedge.com\$104.5M\USA\994GB\&lt;1% DISCLOSED`](https://google.com/search?q=bluedge.com%5C%24104.5M%5CUSA%5C994GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2025-02-25 | [`www.avalon-hotel.com`](https://google.com/search?q=www.avalon-hotel.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2025-02-12 | [`krmcustomhomes.com`](https://google.com/search?q=krmcustomhomes.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-12 | [`laderalending.com`](https://google.com/search?q=laderalending.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-12 | [`minnesotaexteriors.com`](https://google.com/search?q=minnesotaexteriors.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2025-02-12 | [`rogerspetro.com`](https://google.com/search?q=rogerspetro.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2025-02-12 | [`sundanceliving.com`](https://google.com/search?q=sundanceliving.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2025-02-12 | [`thejdkgroup.com`](https://google.com/search?q=thejdkgroup.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
