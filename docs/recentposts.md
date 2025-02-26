@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-02-26 | [`ITU AbsorbTech`](https://google.com/search?q=ITU+AbsorbTech) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
+| 2025-02-26 | [`powelltool.com`](https://google.com/search?q=powelltool.com) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-02-26 | [`London Belgravia`](https://google.com/search?q=London+Belgravia) | [termite](https://ransomwatch.telemetry.ltd/#/profiles?id=termite) |
 | 2025-02-26 | [`National Legal Service`](https://google.com/search?q=National+Legal+Service) | [termite](https://ransomwatch.telemetry.ltd/#/profiles?id=termite) |
 | 2025-02-26 | [`Rooks Rider Solicitors`](https://google.com/search?q=Rooks+Rider+Solicitors) | [termite](https://ransomwatch.telemetry.ltd/#/profiles?id=termite) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2025-02-13 | [`Borel CPA's L.L.C`](https://google.com/search?q=Borel+CPA%27s+L.L.C) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2025-02-13 | [`Dain, Torpy, Le Ray, Wiest and Garner, P.C.`](https://google.com/search?q=Dain%2C+Torpy%2C+Le+Ray%2C+Wiest+and+Garner%2C+P.C.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2025-02-12 | [`Obex Medical`](https://google.com/search?q=Obex+Medical) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
-| 2025-02-12 | [`http://thermaseal.net`](https://google.com/search?q=http%3A%2F%2Fthermaseal.net) | [ciphbit](https://ransomwatch.telemetry.ltd/#/profiles?id=ciphbit) |
-| 2025-02-12 | [`Gitlabs: INGV, Spacemanic, Squeezer-software`](https://google.com/search?q=Gitlabs%3A+INGV%2C+Spacemanic%2C+Squeezer-software) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
