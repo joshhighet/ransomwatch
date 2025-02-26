@@ -4,6 +4,10 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-02-26 | [`Gitlabs: Synelixis Solutions, INGV, VMO Holdings`](https://google.com/search?q=Gitlabs%3A+Synelixis+Solutions%2C+INGV%2C+VMO+Holdings) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
+| 2025-02-26 | [`caltrol.com\$296.3M\USA\224gb\&lt;1% DISCLOSED`](https://google.com/search?q=caltrol.com%5C%24296.3M%5CUSA%5C224gb%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
+| 2025-02-26 | [`Muller Insurance`](https://google.com/search?q=Muller+Insurance) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2025-02-26 | [`Nationz Technologies Inc.`](https://google.com/search?q=Nationz+Technologies+Inc.) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2025-02-26 | [`www.obrienavocats.qc.ca`](https://google.com/search?q=www.obrienavocats.qc.ca) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-26 | [`www.cmsg.cl`](https://google.com/search?q=www.cmsg.cl) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-26 | [`www.amerasphalt.com`](https://google.com/search?q=www.amerasphalt.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -200,7 +204,3 @@ _last `200` posts_
 | 2025-02-14 | [`www.calspa.it`](https://google.com/search?q=www.calspa.it) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-14 | [`brockbanks.co.uk`](https://google.com/search?q=brockbanks.co.uk) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-14 | [`The Agency`](https://google.com/search?q=The+Agency) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2025-02-13 | [`Shields Facilities Maintenance`](https://google.com/search?q=Shields+Facilities+Maintenance) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-02-13 | [`Gitlabs: Omydoo, Ayomi, ADULLACT`](https://google.com/search?q=Gitlabs%3A+Omydoo%2C+Ayomi%2C+ADULLACT) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
-| 2025-02-13 | [`leonardo.com`](https://google.com/search?q=leonardo.com) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
-| 2025-02-13 | [`Aspire Rural Health System`](https://google.com/search?q=Aspire+Rural+Health+System) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
