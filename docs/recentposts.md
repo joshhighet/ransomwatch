@@ -4,6 +4,11 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-02-26 | [`London Belgravia`](https://google.com/search?q=London+Belgravia) | [termite](https://ransomwatch.telemetry.ltd/#/profiles?id=termite) |
+| 2025-02-26 | [`National Legal Service`](https://google.com/search?q=National+Legal+Service) | [termite](https://ransomwatch.telemetry.ltd/#/profiles?id=termite) |
+| 2025-02-26 | [`Rooks Rider Solicitors`](https://google.com/search?q=Rooks+Rider+Solicitors) | [termite](https://ransomwatch.telemetry.ltd/#/profiles?id=termite) |
+| 2025-02-26 | [`Arcandco`](https://google.com/search?q=Arcandco) | [termite](https://ransomwatch.telemetry.ltd/#/profiles?id=termite) |
+| 2025-02-26 | [`Genea`](https://google.com/search?q=Genea) | [termite](https://ransomwatch.telemetry.ltd/#/profiles?id=termite) |
 | 2025-02-25 | [`welcompanies.com`](https://google.com/search?q=welcompanies.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-25 | [`Radco Industries`](https://google.com/search?q=Radco+Industries) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-02-25 | [`Island Realty`](https://google.com/search?q=Island+Realty) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -199,8 +204,3 @@ _last `200` posts_
 | 2025-02-12 | [`Obex Medical`](https://google.com/search?q=Obex+Medical) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2025-02-12 | [`http://thermaseal.net`](https://google.com/search?q=http%3A%2F%2Fthermaseal.net) | [ciphbit](https://ransomwatch.telemetry.ltd/#/profiles?id=ciphbit) |
 | 2025-02-12 | [`Gitlabs: INGV, Spacemanic, Squeezer-software`](https://google.com/search?q=Gitlabs%3A+INGV%2C+Spacemanic%2C+Squeezer-software) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
-| 2025-02-12 | [`STIIIZY  Full Data Leak`](https://google.com/search?q=STIIIZY++Full+Data+Leak) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
-| 2025-02-12 | [`alderconstruction.com`](https://google.com/search?q=alderconstruction.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2025-02-12 | [`steveallcorn.remax.com`](https://google.com/search?q=steveallcorn.remax.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2025-02-12 | [`bergconst.com`](https://google.com/search?q=bergconst.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2025-02-12 | [`burdickpainting.com`](https://google.com/search?q=burdickpainting.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
