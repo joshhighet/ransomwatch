@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-02-27 | [`teamwass.com`](https://google.com/search?q=teamwass.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-27 | [`jtu.com.br`](https://google.com/search?q=jtu.com.br) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2025-02-27 | [`Biogena GmbH & Co KG`](https://google.com/search?q=Biogena+GmbH+%26+Co+KG) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-02-26 | [`www.envirolabsinc.com`](https://google.com/search?q=www.envirolabsinc.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-02-15 | [`www.310tempering.com`](https://google.com/search?q=www.310tempering.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-15 | [`www.colacouronnelocations.com`](https://google.com/search?q=www.colacouronnelocations.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-15 | [`Northeast Delta Human Services Authority`](https://google.com/search?q=Northeast+Delta+Human+Services+Authority) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-02-15 | [`City of McKinney`](https://google.com/search?q=City+of+McKinney) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
