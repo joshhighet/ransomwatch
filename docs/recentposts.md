@@ -4,6 +4,14 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-03-02 | [`britannicahome.com\$20.6M\USA\2.8TB\100% DISCLOSED`](https://google.com/search?q=britannicahome.com%5C%2420.6M%5CUSA%5C2.8TB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
+| 2025-03-02 | [`kinseysinc.com\$74.9M\USA\675GB\100% DISCLOSED`](https://google.com/search?q=kinseysinc.com%5C%2474.9M%5CUSA%5C675GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
+| 2025-03-02 | [`steelerubber.com\$17.9M\USA\116GB\100% DISCLOSED`](https://google.com/search?q=steelerubber.com%5C%2417.9M%5CUSA%5C116GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
+| 2025-03-02 | [`uniekinc.com\$37.5M\USA\1.8TB\100% DISCLOSED`](https://google.com/search?q=uniekinc.com%5C%2437.5M%5CUSA%5C1.8TB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
+| 2025-03-02 | [`midwayimporting.com\$43.7M\USA\915GB\100% DISCLOSED`](https://google.com/search?q=midwayimporting.com%5C%2443.7M%5CUSA%5C915GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
+| 2025-03-02 | [`revitalash.com\$21.5M\USA\1.2TB\100% DISCLOSED`](https://google.com/search?q=revitalash.com%5C%2421.5M%5CUSA%5C1.2TB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
+| 2025-03-02 | [`bestbrands.com\$25.5M\USA\659GB\100% DISCLOSED`](https://google.com/search?q=bestbrands.com%5C%2425.5M%5CUSA%5C659GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
+| 2025-03-02 | [`newhorizonsbaking.com\$163M\USA\455GB\100% DISCLOSED`](https://google.com/search?q=newhorizonsbaking.com%5C%24163M%5CUSA%5C455GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2025-03-02 | [`germancentre.sg`](https://google.com/search?q=germancentre.sg) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-03-01 | [`breakawayconcretecutting.com`](https://google.com/search?q=breakawayconcretecutting.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-03-01 | [`Newton & Associates, Inc`](https://google.com/search?q=Newton+%26+Associates%2C+Inc) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
@@ -196,11 +204,3 @@ _last `200` posts_
 | 2025-02-17 | [`Swissmem`](https://google.com/search?q=Swissmem) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2025-02-17 | [`LINTEC & LINNHOFF Holdings`](https://google.com/search?q=LINTEC+%26+LINNHOFF+Holdings) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-02-17 | [`HRS_IDEA_Expertises`](https://google.com/search?q=HRS_IDEA_Expertises) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
-| 2025-02-17 | [`Autoschade Pippel`](https://google.com/search?q=Autoschade+Pippel) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
-| 2025-02-17 | [`Pedensia Graphics Distribution`](https://google.com/search?q=Pedensia+Graphics+Distribution) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
-| 2025-02-17 | [`Winbas`](https://google.com/search?q=Winbas) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
-| 2025-02-17 | [`neatem.fr`](https://google.com/search?q=neatem.fr) | [braincipher](https://ransomwatch.telemetry.ltd/#/profiles?id=braincipher) |
-| 2025-02-17 | [`Cirion Technologies`](https://google.com/search?q=Cirion+Technologies) | [braincipher](https://ransomwatch.telemetry.ltd/#/profiles?id=braincipher) |
-| 2025-02-17 | [`Allied Tenesis`](https://google.com/search?q=Allied+Tenesis) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
-| 2025-02-17 | [`Greencastle-Antrim Senior High School (gcasd.org)`](https://google.com/search?q=Greencastle-Antrim+Senior+High+School+%28gcasd.org%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
-| 2025-02-17 | [`Persante Health Care`](https://google.com/search?q=Persante+Health+Care) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
