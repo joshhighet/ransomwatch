@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-03-02 | [`Workforce Group`](https://google.com/search?q=Workforce+Group) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
+| 2025-03-02 | [`FM.GOB.AR`](https://google.com/search?q=FM.GOB.AR) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2025-03-02 | [`britannicahome.com\$20.6M\USA\2.8TB\100% DISCLOSED`](https://google.com/search?q=britannicahome.com%5C%2420.6M%5CUSA%5C2.8TB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2025-03-02 | [`kinseysinc.com\$74.9M\USA\675GB\100% DISCLOSED`](https://google.com/search?q=kinseysinc.com%5C%2474.9M%5CUSA%5C675GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2025-03-02 | [`steelerubber.com\$17.9M\USA\116GB\100% DISCLOSED`](https://google.com/search?q=steelerubber.com%5C%2417.9M%5CUSA%5C116GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2025-02-17 | [`Hisingstads Bleck`](https://google.com/search?q=Hisingstads+Bleck) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-02-17 | [`Leadership Strategies`](https://google.com/search?q=Leadership+Strategies) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-02-17 | [`Swissmem`](https://google.com/search?q=Swissmem) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2025-02-17 | [`LINTEC & LINNHOFF Holdings`](https://google.com/search?q=LINTEC+%26+LINNHOFF+Holdings) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
-| 2025-02-17 | [`HRS_IDEA_Expertises`](https://google.com/search?q=HRS_IDEA_Expertises) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
