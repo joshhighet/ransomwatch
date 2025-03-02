@@ -4,6 +4,15 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-03-02 | [`Pre Con Industries`](https://google.com/search?q=Pre+Con+Industries) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2025-03-02 | [`Optometrics`](https://google.com/search?q=Optometrics) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2025-03-02 | [`North American Fire Hose`](https://google.com/search?q=North+American+Fire+Hose) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2025-03-02 | [`M&n Management`](https://google.com/search?q=M%26n+Management) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2025-03-02 | [`International Process Plants`](https://google.com/search?q=International+Process+Plants) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2025-03-02 | [`IT-IQ Botswana`](https://google.com/search?q=IT-IQ+Botswana) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2025-03-02 | [`Ganong Bros`](https://google.com/search?q=Ganong+Bros) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2025-03-02 | [`Couri Insurance Agency`](https://google.com/search?q=Couri+Insurance+Agency) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2025-03-02 | [`gruppocogesi.org`](https://google.com/search?q=gruppocogesi.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2025-03-02 | [`Workforce Group`](https://google.com/search?q=Workforce+Group) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2025-03-02 | [`FM.GOB.AR`](https://google.com/search?q=FM.GOB.AR) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2025-03-02 | [`britannicahome.com\$20.6M\USA\2.8TB\100% DISCLOSED`](https://google.com/search?q=britannicahome.com%5C%2420.6M%5CUSA%5C2.8TB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
@@ -195,12 +204,3 @@ _last `200` posts_
 | 2025-02-17 | [`lekiaviation.com`](https://google.com/search?q=lekiaviation.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-17 | [`bisindustries.com`](https://google.com/search?q=bisindustries.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-17 | [`kinseysinc.com\$74.9M\USA\675GB\&lt;1% DISCLOSED`](https://google.com/search?q=kinseysinc.com%5C%2474.9M%5CUSA%5C675GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2025-02-17 | [`steelerubber.com\$17.9M\USA\116GB\&lt;1% DISCLOSED`](https://google.com/search?q=steelerubber.com%5C%2417.9M%5CUSA%5C116GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2025-02-17 | [`almostfamousclothing.com\$183M\USA\375GB\&lt;1% DISCLOSED`](https://google.com/search?q=almostfamousclothing.com%5C%24183M%5CUSA%5C375GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2025-02-17 | [`teamwass.com\$676.3M\USA\451GB\&lt;1% DISCLOSED`](https://google.com/search?q=teamwass.com%5C%24676.3M%5CUSA%5C451GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2025-02-17 | [`ssmcoop.com\$22.5M\USA\26GB\&lt;1% DISCLOSED`](https://google.com/search?q=ssmcoop.com%5C%2422.5M%5CUSA%5C26GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2025-02-17 | [`https://www.dapope.com/`](https://google.com/search?q=https%3A%2F%2Fwww.dapope.com%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
-| 2025-02-17 | [`hamton`](https://google.com/search?q=hamton) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
-| 2025-02-17 | [`Hisingstads Bleck`](https://google.com/search?q=Hisingstads+Bleck) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
-| 2025-02-17 | [`Leadership Strategies`](https://google.com/search?q=Leadership+Strategies) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
-| 2025-02-17 | [`Swissmem`](https://google.com/search?q=Swissmem) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
