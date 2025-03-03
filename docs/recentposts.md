@@ -4,6 +4,10 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-03-03 | [`Research Electronics International `](https://google.com/search?q=Research+Electronics+International+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
+| 2025-03-03 | [`Klesk Metal Stamping Co (kleskmetalstamping.com)`](https://google.com/search?q=Klesk+Metal+Stamping+Co+%28kleskmetalstamping.com%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
+| 2025-03-03 | [`S********e.com`](https://google.com/search?q=S%2A%2A%2A%2A%2A%2A%2A%2Ae.com) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
+| 2025-03-03 | [`K**d.edu`](https://google.com/search?q=K%2A%2Ad.edu) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
 | 2025-03-03 | [`Central McGowan (centralmcgowan.com)`](https://google.com/search?q=Central+McGowan+%28centralmcgowan.com%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2025-03-03 | [`ceratec.com`](https://google.com/search?q=ceratec.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
 | 2025-03-02 | [`Pre Con Industries`](https://google.com/search?q=Pre+Con+Industries) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -200,7 +204,3 @@ _last `200` posts_
 | 2025-02-17 | [`Cuna Supply`](https://google.com/search?q=Cuna+Supply) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-02-17 | [`Bushmans`](https://google.com/search?q=Bushmans) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-02-17 | [`Bulldog Oilfield Services`](https://google.com/search?q=Bulldog+Oilfield+Services) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-02-17 | [`The Townsley Law Firm Information`](https://google.com/search?q=The+Townsley+Law+Firm+Information) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-02-17 | [`Dane Court Grammar School`](https://google.com/search?q=Dane+Court+Grammar+School) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
-| 2025-02-17 | [`Toi Toi USA`](https://google.com/search?q=Toi+Toi+USA) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
-| 2025-02-17 | [`lekiaviation.com`](https://google.com/search?q=lekiaviation.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
