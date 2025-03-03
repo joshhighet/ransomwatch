@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-03-03 | [`Central McGowan (centralmcgowan.com)`](https://google.com/search?q=Central+McGowan+%28centralmcgowan.com%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
+| 2025-03-03 | [`ceratec.com`](https://google.com/search?q=ceratec.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
 | 2025-03-02 | [`Pre Con Industries`](https://google.com/search?q=Pre+Con+Industries) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-03-02 | [`Optometrics`](https://google.com/search?q=Optometrics) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-03-02 | [`North American Fire Hose`](https://google.com/search?q=North+American+Fire+Hose) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2025-02-17 | [`Dane Court Grammar School`](https://google.com/search?q=Dane+Court+Grammar+School) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
 | 2025-02-17 | [`Toi Toi USA`](https://google.com/search?q=Toi+Toi+USA) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
 | 2025-02-17 | [`lekiaviation.com`](https://google.com/search?q=lekiaviation.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2025-02-17 | [`bisindustries.com`](https://google.com/search?q=bisindustries.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2025-02-17 | [`kinseysinc.com\$74.9M\USA\675GB\&lt;1% DISCLOSED`](https://google.com/search?q=kinseysinc.com%5C%2474.9M%5CUSA%5C675GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
