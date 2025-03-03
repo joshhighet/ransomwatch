@@ -4,6 +4,11 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-03-03 | [`almostfamousclothing.com\$183M\USA\375GB\100% DISCLOSED`](https://google.com/search?q=almostfamousclothing.com%5C%24183M%5CUSA%5C375GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
+| 2025-03-03 | [`ssmcoop.com\$22.5M\USA\26GB\100% DISCLOSED`](https://google.com/search?q=ssmcoop.com%5C%2422.5M%5CUSA%5C26GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
+| 2025-03-03 | [`everelgroup.com\$259M\Italy\440GB\100% DISCLOSED`](https://google.com/search?q=everelgroup.com%5C%24259M%5CItaly%5C440GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
+| 2025-03-03 | [`regulvar.com\$253.5M\Canada\3.6TB\100% DISCLOSED`](https://google.com/search?q=regulvar.com%5C%24253.5M%5CCanada%5C3.6TB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
+| 2025-03-03 | [`quigleyeye.com\$33.6M\USA\435GB\&lt;1% DISCLOSED`](https://google.com/search?q=quigleyeye.com%5C%2433.6M%5CUSA%5C435GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2025-03-03 | [`La Unión`](https://google.com/search?q=La+Uni%C3%B3n) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-03-03 | [`Research Electronics International `](https://google.com/search?q=Research+Electronics+International+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
 | 2025-03-03 | [`Klesk Metal Stamping Co (kleskmetalstamping.com)`](https://google.com/search?q=Klesk+Metal+Stamping+Co+%28kleskmetalstamping.com%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
@@ -199,8 +204,3 @@ _last `200` posts_
 | 2025-02-17 | [`Transkid`](https://google.com/search?q=Transkid) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-02-17 | [`Startek Peglar & Calcagni`](https://google.com/search?q=Startek+Peglar+%26+Calcagni) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-02-17 | [`Stage 3 Separation`](https://google.com/search?q=Stage+3+Separation) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-02-17 | [`Rheinischer Sch`](https://google.com/search?q=Rheinischer+Sch) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-02-17 | [`Oxford Companies`](https://google.com/search?q=Oxford+Companies) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-02-17 | [`Inland Empire Distribution Systems, Inc.`](https://google.com/search?q=Inland+Empire+Distribution+Systems%2C+Inc.) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-02-17 | [`Cuna Supply`](https://google.com/search?q=Cuna+Supply) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-02-17 | [`Bushmans`](https://google.com/search?q=Bushmans) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
