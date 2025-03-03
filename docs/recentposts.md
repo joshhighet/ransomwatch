@@ -4,6 +4,16 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-03-03 | [`Vitenas Cosmetic Surgery`](https://google.com/search?q=Vitenas+Cosmetic+Surgery) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
+| 2025-03-03 | [`LINKGROUP`](https://google.com/search?q=LINKGROUP) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
+| 2025-03-03 | [`Openreso`](https://google.com/search?q=Openreso) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
+| 2025-03-03 | [`Itapeseg`](https://google.com/search?q=Itapeseg) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
+| 2025-03-03 | [`logic insectes`](https://google.com/search?q=logic+insectes) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
+| 2025-03-03 | [`RJ IT Solutions`](https://google.com/search?q=RJ+IT+Solutions) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
+| 2025-03-03 | [`Grafitec`](https://google.com/search?q=Grafitec) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
+| 2025-03-03 | [`synaptic.co.tz`](https://google.com/search?q=synaptic.co.tz) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
+| 2025-03-03 | [`ICO`](https://google.com/search?q=ICO) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
+| 2025-03-03 | [`New .Gov ?`](https://google.com/search?q=New+.Gov+%3F) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2025-03-03 | [`almostfamousclothing.com\$183M\USA\375GB\100% DISCLOSED`](https://google.com/search?q=almostfamousclothing.com%5C%24183M%5CUSA%5C375GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2025-03-03 | [`ssmcoop.com\$22.5M\USA\26GB\100% DISCLOSED`](https://google.com/search?q=ssmcoop.com%5C%2422.5M%5CUSA%5C26GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2025-03-03 | [`everelgroup.com\$259M\Italy\440GB\100% DISCLOSED`](https://google.com/search?q=everelgroup.com%5C%24259M%5CItaly%5C440GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
@@ -194,13 +204,3 @@ _last `200` posts_
 | 2025-02-18 | [`www.macmed.com`](https://google.com/search?q=www.macmed.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-18 | [`ranhillbersekutu.com.my`](https://google.com/search?q=ranhillbersekutu.com.my) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-02-18 | [`pyasolutions.com`](https://google.com/search?q=pyasolutions.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-02-18 | [`lavi.co.il`](https://google.com/search?q=lavi.co.il) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-02-18 | [`Afa Systems Ltd.`](https://google.com/search?q=Afa+Systems+Ltd.) | [underground](https://ransomwatch.telemetry.ltd/#/profiles?id=underground) |
-| 2025-02-18 | [`Buanderie Centrale de Montreal`](https://google.com/search?q=Buanderie+Centrale+de+Montreal) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2025-02-17 | [`myhscu.com`](https://google.com/search?q=myhscu.com) | [embargo](https://ransomwatch.telemetry.ltd/#/profiles?id=embargo) |
-| 2025-02-17 | [`www.macter.com`](https://google.com/search?q=www.macter.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2025-02-17 | [`Wylie Steel Fabricators`](https://google.com/search?q=Wylie+Steel+Fabricators) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-02-17 | [`Weed Man Canada`](https://google.com/search?q=Weed+Man+Canada) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-02-17 | [`Transkid`](https://google.com/search?q=Transkid) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-02-17 | [`Startek Peglar & Calcagni`](https://google.com/search?q=Startek+Peglar+%26+Calcagni) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-02-17 | [`Stage 3 Separation`](https://google.com/search?q=Stage+3+Separation) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
