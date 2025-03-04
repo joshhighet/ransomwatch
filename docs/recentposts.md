@@ -4,6 +4,12 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-03-04 | [`Seabank Group`](https://google.com/search?q=Seabank+Group) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
+| 2025-03-04 | [`goencon.com`](https://google.com/search?q=goencon.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2025-03-04 | [`Tata Technologies`](https://google.com/search?q=Tata+Technologies) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
+| 2025-03-04 | [`Garner, P.C.`](https://google.com/search?q=Garner%2C+P.C.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2025-03-04 | [`Legal Aid Society of Salt Lake`](https://google.com/search?q=Legal+Aid+Society+of+Salt+Lake) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2025-03-04 | [`Ewald Consulting`](https://google.com/search?q=Ewald+Consulting) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2025-03-03 | [`familychc.com`](https://google.com/search?q=familychc.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-03-03 | [`andreyevengineering.com`](https://google.com/search?q=andreyevengineering.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-03-03 | [`Vitenas Cosmetic Surgery`](https://google.com/search?q=Vitenas+Cosmetic+Surgery) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
@@ -198,9 +204,3 @@ _last `200` posts_
 | 2025-02-18 | [`midwayimporting.com\$43.7M\USA\915GB\&lt;1% DISCLOSED`](https://google.com/search?q=midwayimporting.com%5C%2443.7M%5CUSA%5C915GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2025-02-18 | [`revitalash.com\$21.5M\USA\1.2TB\&lt;1% DISCLOSED`](https://google.com/search?q=revitalash.com%5C%2421.5M%5CUSA%5C1.2TB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2025-02-18 | [`bestbrands.com\$25.5M\USA\659GB\&lt;1% DISCLOSED`](https://google.com/search?q=bestbrands.com%5C%2425.5M%5CUSA%5C659GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2025-02-18 | [`boostheat.com`](https://google.com/search?q=boostheat.com) | [bashe](https://ransomwatch.telemetry.ltd/#/profiles?id=bashe) |
-| 2025-02-18 | [`www.mwmechanicalinc.com`](https://google.com/search?q=www.mwmechanicalinc.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2025-02-18 | [`www.alphamedctr.com`](https://google.com/search?q=www.alphamedctr.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2025-02-18 | [`www.ccttechnologies.com`](https://google.com/search?q=www.ccttechnologies.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2025-02-18 | [`www.copleystoughton.com`](https://google.com/search?q=www.copleystoughton.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2025-02-18 | [`www.macmed.com`](https://google.com/search?q=www.macmed.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
