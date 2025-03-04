@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-03-04 | [`Grupo Baston Aerossol (baston.com.br)`](https://google.com/search?q=Grupo+Baston+Aerossol+%28baston.com.br%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2025-03-04 | [`Seabank Group`](https://google.com/search?q=Seabank+Group) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-03-04 | [`goencon.com`](https://google.com/search?q=goencon.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-03-04 | [`Tata Technologies`](https://google.com/search?q=Tata+Technologies) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-02-18 | [`uniekinc.com\$37.5M\USA\1.8TB\&lt;1% DISCLOSED`](https://google.com/search?q=uniekinc.com%5C%2437.5M%5CUSA%5C1.8TB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2025-02-18 | [`midwayimporting.com\$43.7M\USA\915GB\&lt;1% DISCLOSED`](https://google.com/search?q=midwayimporting.com%5C%2443.7M%5CUSA%5C915GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2025-02-18 | [`revitalash.com\$21.5M\USA\1.2TB\&lt;1% DISCLOSED`](https://google.com/search?q=revitalash.com%5C%2421.5M%5CUSA%5C1.2TB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2025-02-18 | [`bestbrands.com\$25.5M\USA\659GB\&lt;1% DISCLOSED`](https://google.com/search?q=bestbrands.com%5C%2425.5M%5CUSA%5C659GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
