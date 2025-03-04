@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-03-04 | [`dsrny.com`](https://google.com/search?q=dsrny.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-03-04 | [`Pampili (pampili.com.br)`](https://google.com/search?q=Pampili+%28pampili.com.br%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2025-03-04 | [`Wendy Wu Tours`](https://google.com/search?q=Wendy+Wu+Tours) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2025-03-04 | [`Keystone Pacific Property Management LLC`](https://google.com/search?q=Keystone+Pacific+Property+Management+LLC) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-02-19 | [`Gitlabs: Next TI, VISEO, Hochschule Trier`](https://google.com/search?q=Gitlabs%3A+Next+TI%2C+VISEO%2C+Hochschule+Trier) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2025-02-19 | [`Brolly`](https://google.com/search?q=Brolly) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2025-02-19 | [`BeniPlus`](https://google.com/search?q=BeniPlus) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
-| 2025-02-19 | [`Revi`](https://google.com/search?q=Revi) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
