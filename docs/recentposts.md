@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-03-05 | [`SCOLARO FETTER GRIZANTI &amp; McGOUGH, P.C. (scolaro.com)`](https://google.com/search?q=SCOLARO+FETTER+GRIZANTI+%26amp%3B+McGOUGH%2C+P.C.+%28scolaro.com%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2025-03-05 | [`www.black-star.fr`](https://google.com/search?q=www.black-star.fr) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-03-05 | [`Schmiedetechnik Plettenberg GmbH & Co KG`](https://google.com/search?q=Schmiedetechnik+Plettenberg+GmbH+%26+Co+KG) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-03-05 | [`www.japanrebuilt.jp`](https://google.com/search?q=www.japanrebuilt.jp) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-02-20 | [`Ligentia`](https://google.com/search?q=Ligentia) | [termite](https://ransomwatch.telemetry.ltd/#/profiles?id=termite) |
 | 2025-02-19 | [`Supreme Administrative Court of Bulgaria`](https://google.com/search?q=Supreme+Administrative+Court+of+Bulgaria) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2025-02-19 | [`Pulmonary Physicians of South Florida Clinics - Data security breach!`](https://google.com/search?q=Pulmonary+Physicians+of+South+Florida+Clinics+-+Data+security+breach%21) | [braincipher](https://ransomwatch.telemetry.ltd/#/profiles?id=braincipher) |
-| 2025-02-19 | [`Ranhill Bersekutu`](https://google.com/search?q=Ranhill+Bersekutu) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
