@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-03-06 | [`Tugwell Pump & Supply`](https://google.com/search?q=Tugwell+Pump+%26+Supply) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
+| 2025-03-06 | [`www.portlandschools.org`](https://google.com/search?q=www.portlandschools.org) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2025-03-06 | [`www.hinton.ca`](https://google.com/search?q=www.hinton.ca) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-03-06 | [`Dynamic Closures`](https://google.com/search?q=Dynamic+Closures) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-03-06 | [`Adval Tech`](https://google.com/search?q=Adval+Tech) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-03-06 | [`WJCC Public Schools (wjccschools.org)`](https://google.com/search?q=WJCC+Public+Schools+%28wjccschools.org%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2025-02-21 | [`headcount.com`](https://google.com/search?q=headcount.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-21 | [`jindalgroup.com`](https://google.com/search?q=jindalgroup.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-21 | [`statesideseattle.com`](https://google.com/search?q=statesideseattle.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-02-21 | [`www.elecgalapagos.com.ec`](https://google.com/search?q=www.elecgalapagos.com.ec) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2025-02-21 | [`www.fla-esq.com`](https://google.com/search?q=www.fla-esq.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2025-02-21 | [`www.saracenproperties.com`](https://google.com/search?q=www.saracenproperties.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
