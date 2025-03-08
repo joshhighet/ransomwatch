@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-03-08 | [`www.dcarosolutions.com`](https://google.com/search?q=www.dcarosolutions.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-03-08 | [`mitchellmcnutt.com`](https://google.com/search?q=mitchellmcnutt.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-03-08 | [`www.jpwindustries.com`](https://google.com/search?q=www.jpwindustries.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-03-08 | [`Tech NH`](https://google.com/search?q=Tech+NH) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-02-23 | [`BluAgent Technologies, Inc`](https://google.com/search?q=BluAgent+Technologies%2C+Inc) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2025-02-23 | [`Novi Community School District`](https://google.com/search?q=Novi+Community+School+District) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2025-02-23 | [`G&amp`](https://google.com/search?q=G%26amp) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
-| 2025-02-23 | [`Shaghalni`](https://google.com/search?q=Shaghalni) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
