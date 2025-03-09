@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-03-09 | [`Insider Technologies Limited`](https://google.com/search?q=Insider+Technologies+Limited) | [embargo](https://ransomwatch.telemetry.ltd/#/profiles?id=embargo) |
+| 2025-03-09 | [`British virgin islands London Office`](https://google.com/search?q=British+virgin+islands+London+Office) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2025-03-08 | [`www.dcarosolutions.com`](https://google.com/search?q=www.dcarosolutions.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-03-08 | [`mitchellmcnutt.com`](https://google.com/search?q=mitchellmcnutt.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-03-08 | [`www.jpwindustries.com`](https://google.com/search?q=www.jpwindustries.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2025-02-23 | [`Gitlabs: Naphix, WDNA, Bayteq`](https://google.com/search?q=Gitlabs%3A+Naphix%2C+WDNA%2C+Bayteq) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2025-02-23 | [`ondaralogistica.com`](https://google.com/search?q=ondaralogistica.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-23 | [`BluAgent Technologies, Inc`](https://google.com/search?q=BluAgent+Technologies%2C+Inc) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
-| 2025-02-23 | [`Novi Community School District`](https://google.com/search?q=Novi+Community+School+District) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
-| 2025-02-23 | [`G&amp`](https://google.com/search?q=G%26amp) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
