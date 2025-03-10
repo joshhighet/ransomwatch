@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-03-10 | [`Fred Salvucci`](https://google.com/search?q=Fred+Salvucci) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
 | 2025-03-10 | [`www.hexosys.com`](https://google.com/search?q=www.hexosys.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-03-10 | [`aiibeauty.com\$274.8M\USA\508GB\100% DISCLOSED`](https://google.com/search?q=aiibeauty.com%5C%24274.8M%5CUSA%5C508GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2025-03-10 | [`formanmills.com\$422.2M\USA\846GB\100% DISCLOSED`](https://google.com/search?q=formanmills.com%5C%24422.2M%5CUSA%5C846GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-02-25 | [`www.confabca.com`](https://google.com/search?q=www.confabca.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-25 | [`www.bwdtechnology.com`](https://google.com/search?q=www.bwdtechnology.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-25 | [`hgmlegal.com`](https://google.com/search?q=hgmlegal.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2025-02-25 | [`PPS Services Group`](https://google.com/search?q=PPS+Services+Group) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
