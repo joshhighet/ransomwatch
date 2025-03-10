@@ -4,6 +4,11 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-03-10 | [`pace-usa.com\$134.4M\USA\65GB\100% DISCLOSED`](https://google.com/search?q=pace-usa.com%5C%24134.4M%5CUSA%5C65GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
+| 2025-03-10 | [`steelwarehouse.com\$570.3M\USA\679GB\100% DISCLOSED`](https://google.com/search?q=steelwarehouse.com%5C%24570.3M%5CUSA%5C679GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
+| 2025-03-10 | [`caltrol.com\$296.3M\USA\224GB\100% DISCLOSED`](https://google.com/search?q=caltrol.com%5C%24296.3M%5CUSA%5C224GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
+| 2025-03-10 | [`[DISCLOSED]Nationz Technologies Inc.`](https://google.com/search?q=%5BDISCLOSED%5DNationz+Technologies+Inc.) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
+| 2025-03-10 | [`The Loretto Hospital`](https://google.com/search?q=The+Loretto+Hospital) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2025-03-09 | [`ACTi Corporation`](https://google.com/search?q=ACTi+Corporation) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-03-09 | [`wog-kaiserbaeder.de`](https://google.com/search?q=wog-kaiserbaeder.de) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-03-09 | [`williampevear.com`](https://google.com/search?q=williampevear.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -199,8 +204,3 @@ _last `200` posts_
 | 2025-02-25 | [`unila.edu.mx`](https://google.com/search?q=unila.edu.mx) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2025-02-25 | [`ossc.mx`](https://google.com/search?q=ossc.mx) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2025-02-25 | [`essenzamovies.com.br`](https://google.com/search?q=essenzamovies.com.br) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2025-02-25 | [`Vvf Ilinois Services`](https://google.com/search?q=Vvf+Ilinois+Services) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
-| 2025-02-25 | [`GANRO`](https://google.com/search?q=GANRO) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
-| 2025-02-25 | [`tequaly.com`](https://google.com/search?q=tequaly.com) | [embargo](https://ransomwatch.telemetry.ltd/#/profiles?id=embargo) |
-| 2025-02-25 | [`acmefan.com`](https://google.com/search?q=acmefan.com) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
-| 2025-02-25 | [`pacresmortgage.com`](https://google.com/search?q=pacresmortgage.com) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
