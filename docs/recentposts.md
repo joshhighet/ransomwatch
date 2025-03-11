@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-03-11 | [`Skyward Specialty Insurance`](https://google.com/search?q=Skyward+Specialty+Insurance) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
+| 2025-03-11 | [`Trymata`](https://google.com/search?q=Trymata) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2025-03-11 | [` Research Electronics International `](https://google.com/search?q=+Research+Electronics+International+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
 | 2025-03-11 | [`SIRIUS S.R.L.`](https://google.com/search?q=SIRIUS+S.R.L.) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
 | 2025-03-11 | [`Springfield Water and Sewer Commission`](https://google.com/search?q=Springfield+Water+and+Sewer+Commission) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2025-02-25 | [`welcompanies.com`](https://google.com/search?q=welcompanies.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-25 | [`Radco Industries`](https://google.com/search?q=Radco+Industries) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-02-25 | [`Island Realty`](https://google.com/search?q=Island+Realty) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-02-25 | [`Fairhaven Shipyard Companies`](https://google.com/search?q=Fairhaven+Shipyard+Companies) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-02-25 | [`Convert Solar`](https://google.com/search?q=Convert+Solar) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
