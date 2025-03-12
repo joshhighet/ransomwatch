@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-03-12 | [`HYPONAMIRU`](https://google.com/search?q=HYPONAMIRU) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
+| 2025-03-12 | [`HYPERNOVA TELECOM`](https://google.com/search?q=HYPERNOVA+TELECOM) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2025-03-11 | [`Skyward Specialty Insurance`](https://google.com/search?q=Skyward+Specialty+Insurance) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2025-03-11 | [`Trymata`](https://google.com/search?q=Trymata) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2025-03-11 | [` Research Electronics International `](https://google.com/search?q=+Research+Electronics+International+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2025-02-26 | [`Arcandco`](https://google.com/search?q=Arcandco) | [termite](https://ransomwatch.telemetry.ltd/#/profiles?id=termite) |
 | 2025-02-26 | [`Genea`](https://google.com/search?q=Genea) | [termite](https://ransomwatch.telemetry.ltd/#/profiles?id=termite) |
 | 2025-02-25 | [`welcompanies.com`](https://google.com/search?q=welcompanies.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2025-02-25 | [`Radco Industries`](https://google.com/search?q=Radco+Industries) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-02-25 | [`Island Realty`](https://google.com/search?q=Island+Realty) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
