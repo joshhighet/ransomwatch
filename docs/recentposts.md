@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-03-12 | [`tempel.com\$628.7M\USA\111GB\&lt;1% DISCLOSED`](https://google.com/search?q=tempel.com%5C%24628.7M%5CUSA%5C111GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
+| 2025-03-12 | [`thermoid.com\$183.2M\USA\199GB\&lt;1% DISCLOSED`](https://google.com/search?q=thermoid.com%5C%24183.2M%5CUSA%5C199GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
+| 2025-03-12 | [`baillie.com\$130.5M\USA\52GB\&lt;1% DISCLOSED`](https://google.com/search?q=baillie.com%5C%24130.5M%5CUSA%5C52GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2025-03-12 | [`www.visualisation.one`](https://google.com/search?q=www.visualisation.one) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-03-12 | [`urban1.com\$460.3M\USA\2.5TB\&lt;1% DISCLOSED`](https://google.com/search?q=urban1.com%5C%24460.3M%5CUSA%5C2.5TB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2025-03-12 | [`rocketstores.com\$738.9M\USA\3.2TB\&lt;1% DISCLOSED`](https://google.com/search?q=rocketstores.com%5C%24738.9M%5CUSA%5C3.2TB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2025-02-26 | [`alphabaking.com\$421.9M\USA\1TB\&lt;1% DISCLOSED`](https://google.com/search?q=alphabaking.com%5C%24421.9M%5CUSA%5C1TB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2025-02-26 | [`ITU AbsorbTech`](https://google.com/search?q=ITU+AbsorbTech) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-02-26 | [`powelltool.com`](https://google.com/search?q=powelltool.com) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
-| 2025-02-26 | [`London Belgravia`](https://google.com/search?q=London+Belgravia) | [termite](https://ransomwatch.telemetry.ltd/#/profiles?id=termite) |
-| 2025-02-26 | [`National Legal Service`](https://google.com/search?q=National+Legal+Service) | [termite](https://ransomwatch.telemetry.ltd/#/profiles?id=termite) |
-| 2025-02-26 | [`Rooks Rider Solicitors`](https://google.com/search?q=Rooks+Rider+Solicitors) | [termite](https://ransomwatch.telemetry.ltd/#/profiles?id=termite) |
