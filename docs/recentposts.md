@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-03-13 | [`muellersyste`](https://google.com/search?q=muellersyste) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2025-03-13 | [`chfindustries.com\$253.8M\USA\2.5TB\100% DISCLOSED`](https://google.com/search?q=chfindustries.com%5C%24253.8M%5CUSA%5C2.5TB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2025-03-13 | [`University Diagnostic Medical Imaging, PC (udmi.net)`](https://google.com/search?q=University+Diagnostic+Medical+Imaging%2C+PC+%28udmi.net%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2025-03-12 | [`El Camino Real Academy (elcaminorealacademy)`](https://google.com/search?q=El+Camino+Real+Academy+%28elcaminorealacademy%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-02-26 | [`Kendall Auto Group`](https://google.com/search?q=Kendall+Auto+Group) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2025-02-26 | [`Vermeer Mexico`](https://google.com/search?q=Vermeer+Mexico) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2025-02-26 | [`Omni United`](https://google.com/search?q=Omni+United) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2025-02-26 | [`Nichino Ryokka Co Ltd`](https://google.com/search?q=Nichino+Ryokka+Co+Ltd) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
