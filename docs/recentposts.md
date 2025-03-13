@@ -4,6 +4,11 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-03-13 | [`dtrglaw.com`](https://google.com/search?q=dtrglaw.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2025-03-13 | [`Cothron's Security Professionals`](https://google.com/search?q=Cothron%27s+Security+Professionals) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
+| 2025-03-13 | [`SL Tennessee Information`](https://google.com/search?q=SL+Tennessee+Information) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2025-03-13 | [`Best Cheer Stone`](https://google.com/search?q=Best+Cheer+Stone) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2025-03-13 | [`Backes`](https://google.com/search?q=Backes) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-03-13 | [`rixos.com`](https://google.com/search?q=rixos.com) | [embargo](https://ransomwatch.telemetry.ltd/#/profiles?id=embargo) |
 | 2025-03-13 | [`www.raymond.in`](https://google.com/search?q=www.raymond.in) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-03-13 | [`muellersyste`](https://google.com/search?q=muellersyste) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -199,8 +204,3 @@ _last `200` posts_
 | 2025-02-26 | [`Muller Insurance`](https://google.com/search?q=Muller+Insurance) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-02-26 | [`Nationz Technologies Inc.`](https://google.com/search?q=Nationz+Technologies+Inc.) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2025-02-26 | [`www.obrienavocats.qc.ca`](https://google.com/search?q=www.obrienavocats.qc.ca) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2025-02-26 | [`www.cmsg.cl`](https://google.com/search?q=www.cmsg.cl) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2025-02-26 | [`www.amerasphalt.com`](https://google.com/search?q=www.amerasphalt.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2025-02-26 | [`www.emeryair.net`](https://google.com/search?q=www.emeryair.net) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2025-02-26 | [`www.newburghhealthcarecenter.com`](https://google.com/search?q=www.newburghhealthcarecenter.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2025-02-26 | [`Kendall Auto Group`](https://google.com/search?q=Kendall+Auto+Group) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
