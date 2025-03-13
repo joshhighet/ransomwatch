@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-03-13 | [`University Diagnostic Medical Imaging, PC (udmi.net)`](https://google.com/search?q=University+Diagnostic+Medical+Imaging%2C+PC+%28udmi.net%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2025-03-12 | [`El Camino Real Academy (elcaminorealacademy)`](https://google.com/search?q=El+Camino+Real+Academy+%28elcaminorealacademy%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2025-03-12 | [`TUV India Pvt. Ltd.`](https://google.com/search?q=TUV+India+Pvt.+Ltd.) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2025-03-12 | [`tempel.com\$628.7M\USA\111GB\&lt;1% DISCLOSED`](https://google.com/search?q=tempel.com%5C%24628.7M%5CUSA%5C111GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-02-26 | [`Omni United`](https://google.com/search?q=Omni+United) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2025-02-26 | [`Nichino Ryokka Co Ltd`](https://google.com/search?q=Nichino+Ryokka+Co+Ltd) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2025-02-26 | [`holtcat.com\$1B\USA\868GB\&lt;1% DISCLOSED`](https://google.com/search?q=holtcat.com%5C%241B%5CUSA%5C868GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2025-02-26 | [`alphabaking.com\$421.9M\USA\1TB\&lt;1% DISCLOSED`](https://google.com/search?q=alphabaking.com%5C%24421.9M%5CUSA%5C1TB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
