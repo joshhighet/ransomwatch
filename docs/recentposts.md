@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-03-14 | [`mdm-insurance.com`](https://google.com/search?q=mdm-insurance.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
 | 2025-03-13 | [`fstlogistics.com`](https://google.com/search?q=fstlogistics.com) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-03-13 | [`Harrells.com`](https://google.com/search?q=Harrells.com) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-03-13 | [`dtrglaw.com`](https://google.com/search?q=dtrglaw.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-02-26 | [`3cBSI`](https://google.com/search?q=3cBSI) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-02-26 | [`Gitlabs: Synelixis Solutions, INGV, VMO Holdings`](https://google.com/search?q=Gitlabs%3A+Synelixis+Solutions%2C+INGV%2C+VMO+Holdings) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2025-02-26 | [`caltrol.com\$296.3M\USA\224gb\&lt;1% DISCLOSED`](https://google.com/search?q=caltrol.com%5C%24296.3M%5CUSA%5C224gb%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2025-02-26 | [`Muller Insurance`](https://google.com/search?q=Muller+Insurance) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
