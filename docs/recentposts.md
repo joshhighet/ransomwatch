@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-03-15 | [`yeanshalle.de`](https://google.com/search?q=yeanshalle.de) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-03-14 | [`Perrigo Company`](https://google.com/search?q=Perrigo+Company) | [termite](https://ransomwatch.telemetry.ltd/#/profiles?id=termite) |
 | 2025-03-14 | [`Fulcrum Lifting`](https://google.com/search?q=Fulcrum+Lifting) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-03-14 | [`Casale Del Giglio`](https://google.com/search?q=Casale+Del+Giglio) | [orca](https://ransomwatch.telemetry.ltd/#/profiles?id=orca) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-02-27 | [`www.townofbourne.com`](https://google.com/search?q=www.townofbourne.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-27 | [`www.nasonptc.com`](https://google.com/search?q=www.nasonptc.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-27 | [`teamwass.com`](https://google.com/search?q=teamwass.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2025-02-27 | [`jtu.com.br`](https://google.com/search?q=jtu.com.br) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
