@@ -1,1539 +1,425 @@
-<!DOCTYPE html>
-<html>
+ï»¿<!DOCTYPE html>
+<html lang="en">
 <head>
-<link rel="icon" type="ddcef3d0fe4bb39" href="images/companyimage/ico/stm.ico">
-<title>StormouS.X BLOG</title>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
-<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
-<style>
-body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
-body {
-    background-image: url('images/stm2025.jpg');
-    background-size: cover;
-    background-position: center;
-    background-attachment: fixed;
-    background-color: #000; 
-    color: white;
-}
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="icon" type="ddcef3d0fe4bb39" href="images/stm.ico">
+  <title>StormouS.X V.4</title>
+  <link rel="stylesheet" href="styles.css">
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f4f4f4;
+    }
+    .header {
+      background-color: #fff;
+      padding: 20px;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+    .header h1 {
+      font-size: 28px;
+      color: #333;
+      margin: 0;
+      display: flex;
+      align-items: center;
+    }
+    .header h1 .additional-boxes {
+      display: flex;
+      gap: 15px;
+      margin-left: 20px;
+    }
+    .box {
+      padding: 10px 20px;
+      background-color: #48688b;
+      border-radius: 5px;
+      color: #fff;
+      font-size: 14px;
+      cursor: pointer;
+      transition: background-color 0.3s ease;
+    }
+    .box:hover {
+      background-color: #0056b3;
+    }
+    .main-container {
+      padding: 20px;
+    }
+    .posts-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+      gap: 20px;
+    }
+    .post-card {
+      background-color: #fff;
+      border-radius: 8px;
+      box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+      padding: 20px;
+      transition: transform 0.3s ease, box-shadow 0.3s ease;
+    }
+    .post-card:hover {
+      transform: translateY(-5px);
+      box-shadow: 0 8px 15px rgba(0, 0, 0, 0.1);
+    }
+    .post-card .date {
+      font-size: 12px;
+      color: #888;
+    }
+    .post-card h4 {
+      font-size: 18px;
+      margin: 10px 0;
+      color: #333;
+    }
+    .post-card .subtitle {
+      font-size: 14px;
+      color: #555;
+    }
+    .post-card .size {
+      font-size: 16px;
+      font-weight: bold;
+      margin: 10px 0;
+      color: #007bff;
+    }
+    .read-more {
+      color: #007bff;
+      text-decoration: none;
+      font-size: 14px;
+    }
+    .read-more:hover {
+      text-decoration: underline;
+    }
+    .post-card {
+      border-left: 5px solid green;
+    }
 
-header {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    padding: 32px;
-}
+    .countdown-box {
+      width: 100%;
+      height: 30px; 
+      border: 2px solid #ccc;
+      padding: 5px;
+      margin-top: 10px;
+      text-align: center;
+      font-size: 12px; 
+      background-color: #f7f7f7;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      border-radius: 5px;
+    }
 
-#custom-box {
-    max-width: 600px;
+    .post-card .countdown-box {
+      position: relative;
+      top: 10px;
+      margin-top: 0;
+    }
+
+    .search-container {
+      margin-top: 30px;
+      text-align: center;
+    }
+
+    .search-input {
+      padding: 10px;
+      font-size: 16px;
+      width: 80%;
+      max-width: 500px;
+      margin-bottom: 20px;
+      border-radius: 5px;
+      border: 1px solid #ccc;
+      outline: none;
+    }
+
+    .search-input:focus {
+      border-color: #007bff;
+    }
+
+    .no-results {
+      color: red;
+      font-size: 16px;
+      margin-top: 10px;
+    }
+  .countdown-box {
     width: 100%;
-    height: auto;
-    background-color: rgba(0, 0, 0, 0.7); 
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    color: white;
-    text-align: center;
-    border-radius: 10px;
-    padding: 20px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-}
-
-#custom-box h1 {
-    margin: 0;
-    font-size: 36px;
-    font-weight: bold;
-    color: #fff;
-}
-
-#button-container {
-    margin-top: 15px;
-    display: flex;
-    justify-content: space-around;
-    width: 100%;
-}
-
-.button {
-    width: 48%;
-    padding: 10px;
-    font-size: 14px;
-    background-color: #fff;
-    border: 2px solid #ddd;
-    color: #000;
-    text-decoration: none;
-    border-radius: 5px;
-    text-align: center;
-    transition: 0.3s;
-}
-
-.button:hover {
-    background-color: #ddd;
-    color: #111;
-    border-color: #ccc;
-}
-
-.info-box {
-    background-color: rgba(25, 25, 25, 0.8); 
-    color: white;
-    border-radius: 15px;
-    padding: 25px;
-    margin-bottom: 20px;
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
-    position: relative;
-    transition: 0.3s;
-}
-
-.info-box:hover {
-    background-color: rgba(35, 35, 35, 0.9);
-    transform: translateY(-5px);
-}
-
-.thumbnail-container {
-    margin-top: 15px;
-    display: flex;
-    justify-content: start;
-    gap: 10px;
-}
-
-.thumbnail {
-    width: 150px; 
-    height: 150px; 
-    border-radius: 5px;
-    cursor: pointer;
-    transition: transform 0.3s, box-shadow 0.3s;
-    object-fit: cover;
-    border: 2px solid rgb(132, 235, 140); 
-    box-shadow: 0 0 5px rgba(252, 244, 136, 0.7); 
-}
-
-.thumbnail:hover {
-    transform: scale(1.1);
-    box-shadow: 0 0 15px rgb(252, 244, 136); 
-}
-
-#image-modal {
-    display: none;
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    background-color: rgba(0, 0, 0, 0.9);
-    justify-content: center;
-    align-items: center;
-}
-
-#image-modal img {
-    max-width: 90%;
-    max-height: 90%;
-}
-
-#image-modal:target {
-    display: flex;
-}
-
-#image-modal a {
-    position: absolute;
-    top: 10px;
-    right: 20px;
-    color: white;
-    font-size: 30px;
-    text-decoration: none;
-}
-
-#download-box {
-    background-color: rgba(0, 128, 0, 0.8); 
-    border: 2px solid #fff;
-    border-radius: 10px;
-    padding: 15px;
-    margin-top: 15px;
-    text-align: center;
-}
-#download-boxA {
-    background-color: rgba(247, 163, 163, 0.8); 
-    border: 2px solid #000000;
-    border-radius: 10px;
-    padding: 15px;
-    margin-top: 15px;
-    text-align: center;
-}
-
-#download-box a {
-    color: #fff;
-    text-decoration: none;
-    font-weight: bold;
-    border: 2px solid #fff;
-    padding: 10px 20px;
-    border-radius: 5px;
-    display: inline-block;
-}
-
-#download-box a:hover {
-    background-color: #fff;
-    color: #000;
-}
-
-h3 {
-    font-size: 24px;
-    font-weight: bold;
-    color: #f8f8f8; 
-}
-
-p {
-    font-size: 16px;
-    color: #d0d0d0;
-    line-height: 1.6; 
-}
-
-a {
-    color: #00aaff;
-    text-decoration: none;
-    font-size: 14px;
-}
-
-a:hover {
-    color: #66d9ff;
-}
-
-h5 {
-    font-size: 18px;
-    font-weight: bold;
-    color: #ffae00; 
-}
-
-#contact-modal {
-    display: none; 
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    background-color: rgba(0, 0, 0, 0.8); 
-    justify-content: center;
-    align-items: center;
-    z-index: 1000; 
-}
-
-#modal-content {
-    background-color: rgba(35, 35, 35, 0.9); 
-    padding: 20px;
-    border-radius: 10px;
-    text-align: center;
-}
-
-.close-button {
-    background-color: #ff4444;
-    color: white;
-    border: none;
-    padding: 10px;
-    border-radius: 5px;
-    cursor: pointer;
+    height: 30px; 
+    border: 2px solid #ccc;
+    padding: 5px;
     margin-top: 10px;
+    text-align: center;
+    font-size: 12px; 
+    background-color: #ffcccc;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+  }
+  .posts-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); 
+  gap: 20px; 
+  align-items: stretch; /
 }
 
-.close-button:hover {
-    background-color: #ff0000; 
+.post-card {
+  display: flex;
+  flex-direction: column; 
+  justify-content: space-between; 
+  background-color: #fff;
+  border-radius: 8px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
-</style>
+  </style>
 </head>
 <body>
+  <header class="header">
+    <h1>StormouS/ <span>V.4</span>
+      <span class="additional-boxes">
+        <div class="box" onclick="window.location.href='Contact-Us.html'">Contact</div>
+        <div class="box" onclick="window.location.href='RaaS-Service.html'"><span>RaaS</span></div>
+        <div class="box">Service</div>
+      </span>
+    </h1>
+  </header>
+
+  <main class="main-container">
+    <!-- Search -->
+    <div class="search-container">
+      <input type="text" id="searchBox" class="search-input" placeholder="Search for a phrase..." onkeyup="searchPosts()">
+      <div id="noResults" class="no-results" style="display: none;">No results found</div>
+    </div>
+
+    <div class="posts-grid" id="postsGrid">
+      <!-- Card 1 -->
+      <div class="post-card">
+        <p class="date">2025-03-14</p>
+        <h4>enersolcr.com</h4>
+        <p class="subtitle">Internal Data - System Data - 73 Partner Data - Customer Data (Email, Name, Phone Number) - Admin Data and Their Roles, etc.....</p>
+        <p class="size">?GB</p>
+        <a href="http://6sf5xa7eso3e3vk46i5tpcqhnlayczztj7zjktzaztlotyy75zs6j7qd.onion/enersolcr.com" class="read-more">read more â</a>
+        <div class="countdown-box" id="countdown1"></div>
 
-<header class="w3-container w3-center w3-padding-32"> 
-  <div id="custom-box">
-    <h1>Stormous Ransomware</h1>
-    <div id="button-container">
-      <a href="javascript:void(0);" class="button" onclick="showContactModal()">Contact Us</a>
-      <a href="https://t.me/StmXRaaSV4" class="button" target="_blank">Telegram</a>
-      <a href="https://breachforums.st/User-GameXOver" class="button" target="_blank">BF Supp</a>
- </div>
-  </div>
-</header>
-
-<div id="contact-modal" class="modal">
-  <div id="modal-content">
-    <h2>Contact Information</h2>
-    <p>TOX ID: C286720F7592E5668A932F1D06EDEECBAFACB3BE369632C908F9511D072C142575BA8109CBC6</p>
-    <button class="close-button" onclick="closeContactModal()">Close</button>
-  </div>
-</div>
-
-<script>
-function showContactModal() {
-    document.getElementById("contact-modal").style.display = "flex"; 
-}
-
-function closeContactModal() {
-    document.getElementById("contact-modal").style.display = "none"; 
-}
-</script>
-</header>
-
-<div class="w3-content" style="max-width:1400px">
-  <div class="w3-row"> 
-
-
-    <!-- 27 COMPANY POST -->
-<div class="w3-col">
-  <div class="w3-card-4 w3-margin info-box">
-     <div class="w3-container">
-       <div style="padding-left: 0%">
-         <div class="w3-half" style="height: 60px;">
-           <h3><b>enersolcr</b></h3>
-         </div>
-         <div class="w3-half" style="height: 60px;">
-         </div>
-         <p><a href="enersolcr.com" target="_blank">enersolcr.com</a></p>
-         <h5>Size: ?GB</h5>
-         <h5>Status: </h5>
-         <h5>Data type: Internal Data - System Data - 73 Partner Data - Customer Data (Email, Name, Phone Number) - Admin Data and Their Roles, etc.....</h5>  
-         <h5>PROOF:</h5>
-
-     <div class="thumbnail-container">
-          <img src="images/companyimage/enersolcr/1.jpg" alt="Thumbnail" class="thumbnail" onclick="openImageModal('images/companyimage/enersolcr/1.jpg')">
-          <img src="images/companyimage/enersolcr/2.jpg" alt="Thumbnail" class="thumbnail" onclick="openImageModal('images/companyimage/enersolcr/2.jpg')">
-          <img src="images/companyimage/enersolcr/3.jpg" alt="Thumbnail" class="thumbnail" onclick="openImageModal('images/companyimage/enersolcr/3.jpg')">
-          <img src="images/companyimage/enersolcr/4.jpg" alt="Thumbnail" class="thumbnail" onclick="openImageModal('images/companyimage/enersolcr/4.jpg')">
-          <img src="images/companyimage/enersolcr/5.jpg" alt="Thumbnail" class="thumbnail" onclick="openImageModal('images/companyimage/enersolcr/5.jpg')">
-     
-
-        </div>
-        <div id="image-modal" class="modal">
-          <img id="modal-image" src="" alt="Enlarged Image">
-          <a href="javascript:void(0);" class="close-button" onclick="closeImageModal()">Ã</a>
-        </div>
-        
-        <script>
-        function openImageModal(imageSrc) {
-            document.getElementById("modal-image").src = imageSrc; 
-            document.getElementById("image-modal").style.display = "flex"; 
-        }
-        
-        function closeImageModal() {
-            document.getElementById("image-modal").style.display = "none"; 
-        }
-        </script>
-
-         <div id="download-box">
-           <a href="http://6sf5xa7eso3e3vk46i5tpcqhnlayczztj7zjktzaztlotyy75zs6j7qd.onion/enersolcr.com" download>Download</a>
-
-          </div>
-       </div>
-     </div>
-   </div>
- </div>  
-
-
-
-
-
-
-    <!-- 26 COMPANY POST -->
-<div class="w3-col">
-  <div class="w3-card-4 w3-margin info-box">
-     <div class="w3-container">
-       <div style="padding-left: 0%">
-         <div class="w3-half" style="height: 60px;">
-           <h3><b>KYC UK </b></h3>
-         </div>
-         <div class="w3-half" style="height: 60px;">
-         </div>
-         <p><a href="" target="_blank">KYC United Kingdom</a></p>
-         <h5>Size: 10GB</h5>
-         <h5>Status: 6.000$</h5>
-         <h5>Data type: ID card photos - Passport photos linked to verified users - Front and back of driverâs licenses - User information and proof of residence documents from Gov.uk - Proof of residence documents, mostly bank-related and others</h5>
-         <h5>PROOF:</h5>
-
-     <div class="thumbnail-container">
-          <img src="images/companyimage/Uk KYC/1.jpg" alt="Thumbnail" class="thumbnail" onclick="openImageModal('images/companyimage/Uk KYC/1.jpg')">
-          <img src="images/companyimage/Uk KYC/2.jpg" alt="Thumbnail" class="thumbnail" onclick="openImageModal('images/companyimage/Uk KYC/2.jpg')">
-          <img src="images/companyimage/Uk KYC/3.jpg" alt="Thumbnail" class="thumbnail" onclick="openImageModal('images/companyimage/Uk KYC/3.jpg')">
-          <img src="images/companyimage/Uk KYC/4.jpg" alt="Thumbnail" class="thumbnail" onclick="openImageModal('images/companyimage/Uk KYC/4.jpg')">
-          <img src="images/companyimage/Uk KYC/5.jpg" alt="Thumbnail" class="thumbnail" onclick="openImageModal('images/companyimage/Uk KYC/5.jpg')">
-          <img src="images/companyimage/Uk KYC/6.jpg" alt="Thumbnail" class="thumbnail" onclick="openImageModal('images/companyimage/Uk KYC/6.jpg')">
-     
-
-        </div>
-        <div id="image-modal" class="modal">
-          <img id="modal-image" src="" alt="Enlarged Image">
-          <a href="javascript:void(0);" class="close-button" onclick="closeImageModal()">Ã</a>
-        </div>
-        
-        <script>
-        function openImageModal(imageSrc) {
-            document.getElementById("modal-image").src = imageSrc; 
-            document.getElementById("image-modal").style.display = "flex"; 
-        }
-        
-        function closeImageModal() {
-            document.getElementById("image-modal").style.display = "none"; 
-        }
-        </script>
-
-         <div id="download-box">
-           <a href="" download>For sale: 14.000$</a>
-
-          </div>
-       </div>
-     </div>
-   </div>
- </div>  
-
-
-
-<!-- 25 COMPANY POST -->
-<div class="w3-col">
-  <div class="w3-card-4 w3-margin info-box">
-     <div class="w3-container">
-       <div style="padding-left: 0%">
-         <div class="w3-half" style="height: 60px;">
-           <h3><b>Wizz Air Abu Dhabi</b></h3>
-         </div>
-         <div class="w3-half" style="height: 60px;">
-         </div>
-         <p><a href="" target="_blank">Wizz Air Abu Dhabi</a></p>
-         <h5>Size: 22GB</h5>
-         <h5>Status: 10.000$</h5>
-         <h5>Data type: Company reports and operations - Employee and client data - Internal data - Air operator certificates for all employees and others.</h5>
-         <h5>PROOF:</h5>
-
-     <div class="thumbnail-container">
-          <img src="images/companyimage/wabd/0.1.jpg" alt="Thumbnail" class="thumbnail" onclick="openImageModal('images/companyimage/wabd/0.1.jpg')">
-          <img src="images/companyimage/wabd/0.2.jpg" alt="Thumbnail" class="thumbnail" onclick="openImageModal('images/companyimage/wabd/0.2.jpg')">
-          <img src="images/companyimage/wabd/0.3.jpg" alt="Thumbnail" class="thumbnail" onclick="openImageModal('images/companyimage/wabd/0.3.jpg')">
-          <img src="images/companyimage/wabd/0.4.jpg" alt="Thumbnail" class="thumbnail" onclick="openImageModal('images/companyimage/wabd/0.4.jpg')">
-          <img src="images/companyimage/wabd/0.5.jpg" alt="Thumbnail" class="thumbnail" onclick="openImageModal('images/companyimage/wabd/0.5.jpg')">
-          <img src="images/companyimage/wabd/0.7.jpg" alt="Thumbnail" class="thumbnail" onclick="openImageModal('images/companyimage/wabd/0.7.jpg')">
-          <img src="images/companyimage/wabd/0.6.jpg" alt="Thumbnail" class="thumbnail" onclick="openImageModal('images/companyimage/wabd/0.6.jpg')">
-          <img src="images/companyimage/wabd/0.8.jpg" alt="Thumbnail" class="thumbnail" onclick="openImageModal('images/companyimage/wabd/0.8.jpg')">
-
-        </div>
-        <div id="image-modal" class="modal">
-          <img id="modal-image" src="" alt="Enlarged Image">
-          <a href="javascript:void(0);" class="close-button" onclick="closeImageModal()">Ã</a>
-        </div>
-        
-        <script>
-        function openImageModal(imageSrc) {
-            document.getElementById("modal-image").src = imageSrc; 
-            document.getElementById("image-modal").style.display = "flex"; 
-        }
-        
-        function closeImageModal() {
-            document.getElementById("image-modal").style.display = "none"; 
-        }
-        </script>
-
-         <div id="download-box">
-           <a href="http://6sf5xa7eso3e3vk46i5tpcqhnlayczztj7zjktzaztlotyy75zs6j7qd.onion/WAAD" download>Sample</a>
-           <a href="" download>For sale: 10.000$</a>
-
-          </div>
-       </div>
-     </div>
-   </div>
- </div>  
-
-
-
- <!-- 24 COMPANY POST -->
- <div class="w3-col">
-  <div class="w3-card-4 w3-margin info-box">
-     <div class="w3-container">
-       <div style="padding-left: 0%">
-         <div class="w3-half" style="height: 60px;">
-           <h3><b>cmr24</b></h3>
-         </div>
-         <div class="w3-half" style="height: 60px;">
-         </div>
-         <p><a href="cmr24.by" target="_blank">cmr24.by</a></p>
-         <h5>Size: 5GB</h5>
-         <h5>Status: Leaked</h5>
-         <h5>Data type: Account statements and payment checks A list of delinquent customers with their data,  Includes invoices, operational reports, and logistical document</h5>
-         <h5>PROOF:</h5>
-
-     <div class="thumbnail-container">
-          <img src="images/companyimage/cmr24.by/1.jpg" alt="Thumbnail" class="thumbnail" onclick="openImageModal('images/companyimage/cmr24.by/1.jpg')">
-          <img src="images/companyimage/cmr24.by/2.jpg" alt="Thumbnail" class="thumbnail" onclick="openImageModal('images/companyimage/cmr24.by/2.jpg')">
-          <img src="images/companyimage/cmr24.by/4.jpg" alt="Thumbnail" class="thumbnail" onclick="openImageModal('images/companyimage/cmr24.by/4.jpg')">
-          <img src="images/companyimage/cmr24.by/5.jpg" alt="Thumbnail" class="thumbnail" onclick="openImageModal('images/companyimage/cmr24.by/5.jpg')">
-          <img src="images/companyimage/cmr24.by/6.jpg" alt="Thumbnail" class="thumbnail" onclick="openImageModal('images/companyimage/cmr24.by/6.jpg')">
-
-        </div>
-        <div id="image-modal" class="modal">
-          <img id="modal-image" src="" alt="Enlarged Image">
-          <a href="javascript:void(0);" class="close-button" onclick="closeImageModal()">Ã</a>
-        </div>
-        
-        <script>
-        function openImageModal(imageSrc) {
-            document.getElementById("modal-image").src = imageSrc; 
-            document.getElementById("image-modal").style.display = "flex"; 
-        }
-        
-        function closeImageModal() {
-            document.getElementById("image-modal").style.display = "none"; 
-        }
-        </script>
-
-         <div id="download-box">
-           <a href="http://6sf5xa7eso3e3vk46i5tpcqhnlayczztj7zjktzaztlotyy75zs6j7qd.onion/cmr24.by" download>Download</a>
-           <a href="https://t.me/StmXRaaSV4" download>Telegram</a>
-
-          </div>
-       </div>
-     </div>
-   </div>
- </div>  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    <!-- 23 COMPANY POST -->
-    <div class="w3-col">
-      <div class="w3-card-4 w3-margin info-box">
-         <div class="w3-container">
-           <div style="padding-left: 0%">
-             <div class="w3-half" style="height: 60px;">
-               <h3><b>turbomp</b></h3>
-             </div>
-             <div class="w3-half" style="height: 60px;">
-             </div>
-             <p><a href="turbomp.com" target="_blank">turbomp.com</a></p>
-             <h5>Size: 700GB</h5>
-             <h5>Status: ?</h5>
-             <h5>Data type: Because this company receives product design drawings from other partner companies and carries out manufacturing orders, it has detailed contract documents with numerous companies, their design documents, detailed drawings required for the manufacturing process, and documents showing the manufacturing process.</h5>
-             <h5>PROOF:</h5>
-    
-         <div class="thumbnail-container">
-              <img src="images/companyimage/turbomp.com/1.jpg" alt="Thumbnail" class="thumbnail" onclick="openImageModal('images/companyimage/turbomp.com/1.jpg')">
-              <img src="images/companyimage/turbomp.com/2.jpg" alt="Thumbnail" class="thumbnail" onclick="openImageModal('images/companyimage/turbomp.com/2.jpg')">
-              <img src="images/companyimage/turbomp.com/3.jpg" alt="Thumbnail" class="thumbnail" onclick="openImageModal('images/companyimage/turbomp.com/3.jpg')">
-              <img src="images/companyimage/turbomp.com/4.jpg" alt="Thumbnail" class="thumbnail" onclick="openImageModal('images/companyimage/turbomp.com/4.jpg')">
-              <img src="images/companyimage/turbomp.com/5.jpg" alt="Thumbnail" class="thumbnail" onclick="openImageModal('images/companyimage/turbomp.com/5.jpg')">
-              <img src="images/companyimage/turbomp.com/6.jpg" alt="Thumbnail" class="thumbnail" onclick="openImageModal('images/companyimage/turbomp.com/6.jpg')">
-    
-            </div>
-            <div id="image-modal" class="modal">
-              <img id="modal-image" src="" alt="Enlarged Image">
-              <a href="javascript:void(0);" class="close-button" onclick="closeImageModal()">Ã</a>
-            </div>
-            
-            <script>
-            function openImageModal(imageSrc) {
-                document.getElementById("modal-image").src = imageSrc; 
-                document.getElementById("image-modal").style.display = "flex"; 
-            }
-            
-            function closeImageModal() {
-                document.getElementById("image-modal").style.display = "none"; 
-            }
-            </script>
-    
-             <div id="download-box">
-              <a href="http://6sf5xa7eso3e3vk46i5tpcqhnlayczztj7zjktzaztlotyy75zs6j7qd.onion/turbomp.com" download>Download</a>
-
-              <a href="https://t.me/StmXRaaSV4" download>Download Data</a>
-    
-              </div>
-           </div>
-         </div>
-       </div>
-     </div>  
-    
-    
-
-
-
-
-
-
-<!--22-->
-<div class="w3-col">
-  <div class="w3-card-4 w3-margin info-box">
-     <div class="w3-container">
-       <div style="padding-left: 0%">
-         <div class="w3-half" style="height: 60px;">
-           <h3><b>StormouS.X</b></h3>
-         </div>
-         <div class="w3-half" style="height: 60px;">
-         </div>
-         
-         <h5>Hello
-
-          Three of our previous channels were deleted, and we have created this new channel for those who do not use Tor network links to access our blog. This channel also aims to make it easier to share our latest objectives with everyone.
-          
-          /Warning/ This channel might also be deleted in the future or at any time* You can visit our blog if you are unable to access this channel again.
-          
-          We will provide an overview of our work in 2025 after this post.</h5>
-
-  
-        <div id="image-modal" class="modal">
-          <img id="modal-image" src="" alt="Enlarged Image">
-          <a href="javascript:void(0);" class="close-button" onclick="closeImageModal()">Ã</a>
-        </div>
-        
-        <script>
-        function openImageModal(imageSrc) {
-            document.getElementById("modal-image").src = imageSrc; 
-            document.getElementById("image-modal").style.display = "flex"; 
-        }
-        
-        function closeImageModal() {
-            document.getElementById("image-modal").style.display = "none"; 
-        }
-        </script>
-
-         <div id="download-box">
-           <a href="https://t.me/StmXRaaSV4" download>New channel</a>
-
-          </div>
-       </div>
-     </div>
-   </div>
- </div>  
-
-
-    <!-- 22 COMPANY POST -->
-<div class="w3-col">
-  <div class="w3-card-4 w3-margin info-box">
-     <div class="w3-container">
-       <div style="padding-left: 0%">
-         <div class="w3-half" style="height: 60px;">
-           <h3><b>biodimed</b></h3>
-         </div>
-         <div class="w3-half" style="height: 60px;">
-         </div>
-         <p><a href="biodimed.com" target="_blank">biodimed.com</a></p>
-         <h5>Size: 60GB</h5>
-         <h5>Status: Leaked</h5>
-         <h5>Data type: Email operations associated with all employees - attachments include 40GB of documents related to biodimed - employee data - internal messages</h5>
-         <h5>PROOF:</h5>
-
-     <div class="thumbnail-container">
-          <img src="images/companyimage/biodmed/1.jpg" alt="Thumbnail" class="thumbnail" onclick="openImageModal('images/companyimage/biodmed/1.jpg')">
-          <img src="images/companyimage/biodmed/2.jpg" alt="Thumbnail" class="thumbnail" onclick="openImageModal('images/companyimage/biodmed/2.jpg')">
-          <img src="images/companyimage/biodmed/3.jpg" alt="Thumbnail" class="thumbnail" onclick="openImageModal('images/companyimage/biodmed/3.jpg')">
-          <img src="images/companyimage/biodmed/4.jpg" alt="Thumbnail" class="thumbnail" onclick="openImageModal('images/companyimage/biodmed/4.jpg')">
-          <img src="images/companyimage/biodmed/5.jpg" alt="Thumbnail" class="thumbnail" onclick="openImageModal('images/companyimage/biodmed/5.jpg')">
-          <img src="images/companyimage/biodmed/6.jpg" alt="Thumbnail" class="thumbnail" onclick="openImageModal('images/companyimage/biodmed/6.jpg')">
-
-        </div>
-        <div id="image-modal" class="modal">
-          <img id="modal-image" src="" alt="Enlarged Image">
-          <a href="javascript:void(0);" class="close-button" onclick="closeImageModal()">Ã</a>
-        </div>
-        
-        <script>
-        function openImageModal(imageSrc) {
-            document.getElementById("modal-image").src = imageSrc; 
-            document.getElementById("image-modal").style.display = "flex"; 
-        }
-        
-        function closeImageModal() {
-            document.getElementById("image-modal").style.display = "none"; 
-        }
-        </script>
-
-         <div id="download-box">
-           <a href="http://6sf5xa7eso3e3vk46i5tpcqhnlayczztj7zjktzaztlotyy75zs6j7qd.onion/biodimed.com" download>Download Data</a>
-
-          </div>
-       </div>
-     </div>
-   </div>
- </div>  
-
-
-
-<!-- 21 COMPANY POST -->
-<div class="w3-col">
-  <div class="w3-card-4 w3-margin info-box">
-     <div class="w3-container">
-       <div style="padding-left: 0%">
-         <div class="w3-half" style="height: 60px;">
-           <h3><b>UATF</b></h3>
-         </div>
-         <div class="w3-half" style="height: 60px;">
-         </div>
-         <p><a href="uatf.edu.bo" target="_blank">uatf.edu.bo</a></p>
-         <h5>Size: ?GB</h5>
-         <h5>Status: Leaked</h5>
-         <h5>Data type: Personal data (names, addresses, phone numbers) - Internal email correspondences - Attachments containing educational and administrative documents - Information on student or employee activities - Contact list for all students, internal messages, and more</h5>
-         <h5>PROOF:</h5>
-
-     <div class="thumbnail-container">
-          <img src="images/companyimage/uatf.edu.bo/1.jpg" alt="Thumbnail" class="thumbnail" onclick="openImageModal('images/companyimage/uatf.edu.bo/1.jpg')">
-          <img src="images/companyimage/uatf.edu.bo/2.jpg" alt="Thumbnail" class="thumbnail" onclick="openImageModal('images/companyimage/uatf.edu.bo/2.jpg')">
-          <img src="images/companyimage/uatf.edu.bo/3.jpg" alt="Thumbnail" class="thumbnail" onclick="openImageModal('images/companyimage/uatf.edu.bo/3.jpg')">
-          <img src="images/companyimage/uatf.edu.bo/4.jpg" alt="Thumbnail" class="thumbnail" onclick="openImageModal('images/companyimage/uatf.edu.bo/4.jpg')">
-          <img src="images/companyimage/uatf.edu.bo/5.jpg" alt="Thumbnail" class="thumbnail" onclick="openImageModal('images/companyimage/uatf.edu.bo/5.jpg')">
-     
-
-        </div>
-        <div id="image-modal" class="modal">
-          <img id="modal-image" src="" alt="Enlarged Image">
-          <a href="javascript:void(0);" class="close-button" onclick="closeImageModal()">Ã</a>
-        </div>
-        
-        <script>
-        function openImageModal(imageSrc) {
-            document.getElementById("modal-image").src = imageSrc; 
-            document.getElementById("image-modal").style.display = "flex"; 
-        }
-        
-        function closeImageModal() {
-            document.getElementById("image-modal").style.display = "none"; 
-        }
-        </script>
-
-         <div id="download-box">
-           <a href="http://6sf5xa7eso3e3vk46i5tpcqhnlayczztj7zjktzaztlotyy75zs6j7qd.onion/uatf.edu.bo" download>Download Data</a>
-
-          </div>
-       </div>
-     </div>
-   </div>
- </div>  
-
-
-
-
-<!-- 20 COMPANY POST -->
-<div class="w3-col">
-  <div class="w3-card-4 w3-margin info-box">
-     <div class="w3-container">
-       <div style="padding-left: 0%">
-         <div class="w3-half" style="height: 60px;">
-           <h3><b>guardianhc</b></h3>
-         </div>
-         <div class="w3-half" style="height: 60px;">
-         </div>
-         <p><a href="guardianhc.com" target="_blank">guardianhc.com</a></p>
-         <h5>Size: 3GB</h5>
-         <h5>Status: Leaked</h5>
-         <h5>Data type: Apps - Attachments - Daily Admission Copies - Documents - Pictures - COVID TESTING DATE - Custom Office Templates -Vaccines</h5>
-         <h5>PROOF:</h5>
-
-     <div class="thumbnail-container">
-          <img src="images/companyimage/guardianhc/1.jpg" alt="Thumbnail" class="thumbnail" onclick="openImageModal('images/companyimage/guardianhc/1.jpg')">
-          <img src="images/companyimage/guardianhc/2.jpg" alt="Thumbnail" class="thumbnail" onclick="openImageModal('images/companyimage/guardianhc/2.jpg')">
-          <img src="images/companyimage/guardianhc/3.jpg" alt="Thumbnail" class="thumbnail" onclick="openImageModal('images/companyimage/guardianhc/3.jpg')">
-          <img src="images/companyimage/guardianhc/4.jpg" alt="Thumbnail" class="thumbnail" onclick="openImageModal('images/companyimage/guardianhc/4.jpg')">
-          <img src="images/companyimage/guardianhc/5.jpg" alt="Thumbnail" class="thumbnail" onclick="openImageModal('images/companyimage/guardianhc/5.jpg')">
-          <img src="images/companyimage/guardianhc/6.jpg" alt="Thumbnail" class="thumbnail" onclick="openImageModal('images/companyimage/guardianhc/6.jpg')">
-     
-
-        </div>
-        <div id="image-modal" class="modal">
-          <img id="modal-image" src="" alt="Enlarged Image">
-          <a href="javascript:void(0);" class="close-button" onclick="closeImageModal()">Ã</a>
-        </div>
-        
-        <script>
-        function openImageModal(imageSrc) {
-            document.getElementById("modal-image").src = imageSrc; 
-            document.getElementById("image-modal").style.display = "flex"; 
-        }
-        
-        function closeImageModal() {
-            document.getElementById("image-modal").style.display = "none"; 
-        }
-        </script>
-
-         <div id="download-box">
-           <a href="http://6sf5xa7eso3e3vk46i5tpcqhnlayczztj7zjktzaztlotyy75zs6j7qd.onion/guardianhc.com" download>Download Data</a>
-
-          </div>
-       </div>
-     </div>
-   </div>
- </div>  
-
-
-
-<!-- 19 COMPANY POST -->
-<div class="w3-col">
-  <div class="w3-card-4 w3-margin info-box">
-     <div class="w3-container">
-       <div style="padding-left: 0%">
-         <div class="w3-half" style="height: 60px;">
-           <h3><b>TRANSAK</b></h3>
-         </div>
-         <div class="w3-half" style="height: 60px;">
-         </div>
-         <p><a href="transak.com" target="_blank">TRANSAK.COM</a></p>
-         <h5>Size: 300GB</h5>
-         <h5>Status: Leaked</h5>
-         <h5>Data type:  We have extracted more than 300GB of data, which includes sensitive personal documents such as government-issued IDs, proof of address, financial statements, and user selfies</h5>
-         <h5>PROOF:</h5>
-
-     <div class="thumbnail-container">
-          <img src="images/companyimage/Transak/1.jpg" alt="Thumbnail" class="thumbnail" onclick="openImageModal('images/companyimage/Transak/1.jpg')">
-          <img src="images/companyimage/Transak/2.jpg" alt="Thumbnail" class="thumbnail" onclick="openImageModal('images/companyimage/Transak/2.jpg')">
-          <img src="images/companyimage/Transak/3.jpg" alt="Thumbnail" class="thumbnail" onclick="openImageModal('images/companyimage/Transak/3.jpg')">
-          <img src="images/companyimage/Transak/4.jpg" alt="Thumbnail" class="thumbnail" onclick="openImageModal('images/companyimage/Transak/4.jpg')">
-          <img src="images/companyimage/Transak/5.jpg" alt="Thumbnail" class="thumbnail" onclick="openImageModal('images/companyimage/Transak/5.jpg')">
-          <img src="images/companyimage/Transak/6.jpg" alt="Thumbnail" class="thumbnail" onclick="openImageModal('images/companyimage/Transak/6.jpg')">
-          <img src="images/companyimage/Transak/7.jpg" alt="Thumbnail" class="thumbnail" onclick="openImageModal('images/companyimage/Transak/7.jpg')">
-          <img src="images/companyimage/Transak/8.jpg" alt="Thumbnail" class="thumbnail" onclick="openImageModal('images/companyimage/Transak/8.jpg')">
-
-        </div>
-        <div id="image-modal" class="modal">
-          <img id="modal-image" src="" alt="Enlarged Image">
-          <a href="javascript:void(0);" class="close-button" onclick="closeImageModal()">Ã</a>
-        </div>
-        
-        <script>
-        function openImageModal(imageSrc) {
-            document.getElementById("modal-image").src = imageSrc; 
-            document.getElementById("image-modal").style.display = "flex"; 
-        }
-        
-        function closeImageModal() {
-            document.getElementById("image-modal").style.display = "none"; 
-        }
-        </script>
-
-         <div id="download-box">
-           <a href="http://6sf5xa7eso3e3vk46i5tpcqhnlayczztj7zjktzaztlotyy75zs6j7qd.onion/TRANSAK_LEAKS_+30GB.rar" download>Download Data</a>
-
-          </div>
-       </div>
-     </div>
-   </div>
- </div>  
-
-
-
-<!-- 18 COMPANY POST -->
-<div class="w3-col">
-  <div class="w3-card-4 w3-margin info-box">
-     <div class="w3-container">
-       <div style="padding-left: 0%">
-         <div class="w3-half" style="height: 60px;">
-           <h3><b>FRACTAL ID</b></h3>
-         </div>
-         <div class="w3-half" style="height: 60px;">
-         </div>
-         <p><a href="web.fractal.id" target="_blank">web.fractal.id</a></p>
-         <h5>Size: 12GB</h5>
-         <h5>Status: Leaked</h5>
-         <h5>Data type:  The total amount of data we managed to access exceeded 10 GB ------ 12GB, including personal photos, bank statements, proof of address, and ETH/BTC addresses</h5>
-         <h5>PROOF:</h5>
-
-     <div class="thumbnail-container">
-          <img src="images/companyimage/fractal/1.jpg" alt="Thumbnail" class="thumbnail" onclick="openImageModal('images/companyimage/fractal/1.jpg')">
-          <img src="images/companyimage/fractal/2.jpg" alt="Thumbnail" class="thumbnail" onclick="openImageModal('images/companyimage/fractal/2.jpg')">
-          <img src="images/companyimage/fractal/3.jpg" alt="Thumbnail" class="thumbnail" onclick="openImageModal('images/companyimage/fractal/3.jpg')">
-          <img src="images/companyimage/fractal/4.jpg" alt="Thumbnail" class="thumbnail" onclick="openImageModal('images/companyimage/fractal/4.jpg')">
-       
-        </div>
-        <div id="image-modal" class="modal">
-          <img id="modal-image" src="" alt="Enlarged Image">
-          <a href="javascript:void(0);" class="close-button" onclick="closeImageModal()">Ã</a>
-        </div>
-        
-        <script>
-        function openImageModal(imageSrc) {
-            document.getElementById("modal-image").src = imageSrc; 
-            document.getElementById("image-modal").style.display = "flex"; 
-        }
-        
-        function closeImageModal() {
-            document.getElementById("image-modal").style.display = "none"; 
-        }
-        </script>
-
-         <div id="download-box">
-           <a href="http://6sf5xa7eso3e3vk46i5tpcqhnlayczztj7zjktzaztlotyy75zs6j7qd.onion/Fratcal ID_LEAKS.rar" download>Download Data</a>
-
-          </div>
-       </div>
-     </div>
-   </div>
- </div>  
-
-
-
-
-<!-- 17 COMPANY POST -->
- <div class="w3-col">
-    <div class="w3-card-4 w3-margin info-box">
-       <div class="w3-container">
-         <div style="padding-left: 0%">
-           <div class="w3-half" style="height: 60px;">
-             <h3><b>Ascires Biomedical Group</b></h3>
-           </div>
-           <div class="w3-half" style="height: 60px;">
-           </div>
-           <p><a href="www.ascires.com" target="_blank">www.ascires.com</a></p>
-           <h5>Update</h5>
-           <h5>Size: 700GB</h5>
-           <h5>Status: Leaked</h5>
-           <h5>Data type:  Client Data - Medical Reports - Financial Status (Bank reports, taxes, and more) - Annual Accounts - Personal Information - New Projects - Large amounts of patient-related data - Business plans and much more â a total of 700 GB of critical information!</h5>
-           <h5>PROOF:</h5>
-
-		   <div class="thumbnail-container">
-            <img src="images/companyimage/Ascires Biomedical Group/1.jpg" alt="Thumbnail" class="thumbnail" onclick="openImageModal('images/companyimage/Ascires Biomedical Group/1.jpg')">
-
-            <img src="images/companyimage/Ascires Biomedical Group/2.jpg" alt="Thumbnail" class="thumbnail" onclick="openImageModal('images/companyimage/Ascires Biomedical Group/2.jpg')">
-            <img src="images/companyimage/Ascires Biomedical Group/3.jpg" alt="Thumbnail" class="thumbnail" onclick="openImageModal('images/companyimage/Ascires Biomedical Group/3.jpg')">
-            <img src="images/companyimage/Ascires Biomedical Group/4.jpg" alt="Thumbnail" class="thumbnail" onclick="openImageModal('images/companyimage/Ascires Biomedical Group/4.jpg')">
-            <img src="images/companyimage/Ascires Biomedical Group/5.jpg" alt="Thumbnail" class="thumbnail" onclick="openImageModal('images/companyimage/Ascires Biomedical Group/5.jpg')">
-            <img src="images/companyimage/Ascires Biomedical Group/6.jpg" alt="Thumbnail" class="thumbnail" onclick="openImageModal('images/companyimage/Ascires Biomedical Group/6.jpg')">
-            <img src="images/companyimage/Ascires Biomedical Group/7.jpg" alt="Thumbnail" class="thumbnail" onclick="openImageModal('images/companyimage/Ascires Biomedical Group/7.jpg')">
-            <img src="images/companyimage/Ascires Biomedical Group/8.jpg" alt="Thumbnail" class="thumbnail" onclick="openImageModal('images/companyimage/Ascires Biomedical Group/8.jpg')">         
-         
-          </div>
-          <div id="image-modal" class="modal">
-            <img id="modal-image" src="" alt="Enlarged Image">
-            <a href="javascript:void(0);" class="close-button" onclick="closeImageModal()">Ã</a>
-          </div>
-          
-          <script>
-          function openImageModal(imageSrc) {
-              document.getElementById("modal-image").src = imageSrc; 
-              document.getElementById("image-modal").style.display = "flex"; 
-          }
-          
-          function closeImageModal() {
-              document.getElementById("image-modal").style.display = "none"; 
-          }
-          </script>
-
-           <div id="download-box">
-             <a href="http://6sf5xa7eso3e3vk46i5tpcqhnlayczztj7zjktzaztlotyy75zs6j7qd.onion/ascires.com" download>Download Data</a>
-
-            </div>
-         </div>
-       </div>
-     </div>
-   </div>  
-
-
- <!-- 16 COMPANY POST -->
- <div class="w3-col">
-    <div class="w3-card-4 w3-margin info-box">
-       <div class="w3-container">
-         <div style="padding-left: 0%">
-           <div class="w3-half" style="height: 60px;">
-             <h3><b>AOSense/NASA</b></h3>
-           </div>
-           <div class="w3-half" style="height: 60px;">
-           </div>
-           <p><a href="www.aosense.com" target="_blank">www.aosense.com</a></p>
-           <h5>Update</h5>
-           <h5>Size: 1TB</h5>
-           <h5>Status: Leaked</h5>
-           <h5>Data type:  Accounting Information- AOSense Commercial Sales-Design-Financial-Inertial_Sensors_Group-IT-Products-Report-ContractsAdmin-Active Project Numbers-USNO Ca oven-NASA-Atom Computing-Subcontracts-Purchasing-IntellectualProperty-Administrative-Data-Navigation</h5>
-           <h5>PROOF:</h5>
-
-		   <div class="thumbnail-container">
-            <img src="images/companyimage/AOSense/1.png" alt="Thumbnail" class="thumbnail" onclick="openImageModal('images/companyimage/AOSense/1.png')">
-            <img src="images/companyimage/AOSense/2.png" alt="Thumbnail" class="thumbnail" onclick="openImageModal('images/companyimage/AOSense/2.png')">
-            <img src="images/companyimage/AOSense/3.png" alt="Thumbnail" class="thumbnail" onclick="openImageModal('images/companyimage/AOSense/3.png')">
-            <img src="images/companyimage/AOSense/4.png" alt="Thumbnail" class="thumbnail" onclick="openImageModal('images/companyimage/AOSense/4.png')">
-            <img src="images/companyimage/AOSense/5.png" alt="Thumbnail" class="thumbnail" onclick="openImageModal('images/companyimage/AOSense/5.png')">
-            <img src="images/companyimage/AOSense/6.png" alt="Thumbnail" class="thumbnail" onclick="openImageModal('images/companyimage/AOSense/6.png')">
-            <img src="images/companyimage/AOSense/7.jpg" alt="Thumbnail" class="thumbnail" onclick="openImageModal('images/companyimage/AOSense/7.jpg')">
-            <img src="images/companyimage/AOSense/8.jpg" alt="Thumbnail" class="thumbnail" onclick="openImageModal('images/companyimage/AOSense/8.jpg')">         
-         
-          </div>
-          <div id="image-modal" class="modal">
-            <img id="modal-image" src="" alt="Enlarged Image">
-            <a href="javascript:void(0);" class="close-button" onclick="closeImageModal()">Ã</a>
-          </div>
-          
-          <script>
-          function openImageModal(imageSrc) {
-              document.getElementById("modal-image").src = imageSrc; 
-              document.getElementById("image-modal").style.display = "flex"; 
-          }
-          
-          function closeImageModal() {
-              document.getElementById("image-modal").style.display = "none"; 
-          }
-          </script>
-
-           <div id="download-box">
-             <a href="http://6sf5xa7eso3e3vk46i5tpcqhnlayczztj7zjktzaztlotyy75zs6j7qd.onion/aosense.com" download>Download Data</a>
-
-            </div>
-         </div>
-       </div>
-     </div>
-   </div>  
-
- <!-- 15 COMPANY POST -->
- <div class="w3-col">
-  <div class="w3-card-4 w3-margin info-box">
-     <div class="w3-container">
-       <div style="padding-left: 0%">
-         <div class="w3-half" style="height: 60px;">
-           <h3><b>Acuity</b></h3>
-         </div>
-         <div class="w3-half" style="height: 60px;">
-         </div>
-         <p><a href="Acuity.co.uk" target="_blank">www.Acuity.co.uk</a></p>
-         <h5>Update</h5>
-         <h5>Size: 3.6GB</h5>
-         <h5>Status: Leaked</h5>
-         <h5>Data type: This includes important legal documents such as drafts of non-disclosure agreements (NDA) pertaining to the company and strategic partners like Bosch, detailed financial documents containing analyses of Acuity's financial position, including files like 'Cash position Hprobe 2024-25', important confidentiality agreements including confidentiality agreements specific to Semilab, and significant merger and acquisition agreements, including details on deals executed between company and major firms like Nidec Corporation and Nordic Semiconductor  </h5>
-         <h5>PROOF:</h5>
-
-     <div class="thumbnail-container">
-          <img src="images/companyimage/acuity/1.jpg" alt="Thumbnail" class="thumbnail" onclick="openImageModal('images/companyimage/acuity/1.jpg')">
-          <img src="images/companyimage/acuity/2.jpg" alt="Thumbnail" class="thumbnail" onclick="openImageModal('images/companyimage/acuity/2.jpg')">
-          <img src="images/companyimage/acuity/3.jpg" alt="Thumbnail" class="thumbnail" onclick="openImageModal('images/companyimage/acuity/3.jpg')">
-          <img src="images/companyimage/acuity/4.jpg" alt="Thumbnail" class="thumbnail" onclick="openImageModal('images/companyimage/acuity/4.jpg')">
-          <img src="images/companyimage/acuity/5.jpg" alt="Thumbnail" class="thumbnail" onclick="openImageModal('images/companyimage/acuity/5.jpg')">
-          <img src="images/companyimage/acuity/6.jpg" alt="Thumbnail" class="thumbnail" onclick="openImageModal('images/companyimage/acuity/6.jpg')">
-            
-       
-        </div>
-        <div id="image-modal" class="modal">
-          <img id="modal-image" src="" alt="Enlarged Image">
-          <a href="javascript:void(0);" class="close-button" onclick="closeImageModal()">Ã</a>
-        </div>
-        
-        <script>
-        function openImageModal(imageSrc) {
-            document.getElementById("modal-image").src = imageSrc; 
-            document.getElementById("image-modal").style.display = "flex"; 
-        }
-        
-        function closeImageModal() {
-            document.getElementById("image-modal").style.display = "none"; 
-        }
-        </script>
-
-         <div id="download-box">
-           <a href="http://6sf5xa7eso3e3vk46i5tpcqhnlayczztj7zjktzaztlotyy75zs6j7qd.onion/acuity.co.uk/acuity%20uk/" download>Download Data</a>
-
-          </div>
-       </div>
-     </div>
-   </div>
- </div>  
-
-
-  <!-- 14 COMPANY POST -->
-  <div class="w3-col">
-    <div class="w3-card-4 w3-margin info-box">
-       <div class="w3-container">
-         <div style="padding-left: 0%">
-           <div class="w3-half" style="height: 60px;">
-             <h3><b>lyra.officegroup</b></h3>
-           </div>
-           <div class="w3-half" style="height: 60px;">
-           </div>
-           <p><a href="lyra.officegroup.it" target="_blank">lyra.officegroup.it</a></p>
-           <h5>Size: 1GB</h5>
-           <h5>Status: Leaked</h5>
-           <p></p>
-           
-         
-          
-           <div class="thumbnail-container">
-            <a href="#image-modal">
-              <img src="" alt="" class="thumbnail">
-            </a>
-          </div>
-
-           <div id="download-box">
-             <a href="http://6sf5xa7eso3e3vk46i5tpcqhnlayczztj7zjktzaztlotyy75zs6j7qd.onion" download>Download Data</a>
-           </div>
-         </div>
-       </div>
-     </div>
-   </div>
-</div>
-
-
-
-  <!-- 13 COMPANY POST -->
-  <div class="w3-col">
-    <div class="w3-card-4 w3-margin info-box">
-       <div class="w3-container">
-         <div style="padding-left: 0%">
-           <div class="w3-half" style="height: 60px;">
-             <h3><b>mivideo.club</b></h3>
-           </div>
-           <div class="w3-half" style="height: 60px;">
-           </div>
-           <p><a href="www.mivideo.club" target="_blank">www.mivideo.club</a></p>
-           <h5>Size: 3GB</h5>
-           <h5>Status: Leaked</h5>
-           <p></p>
-           
-         
-           <div class="thumbnail-container">
-            <a href="#image-modal">
-              <img src="" alt="" class="thumbnail">
-            </a>
-          </div>
-
-         
-           <div id="download-box">
-             <a href="http://6sf5xa7eso3e3vk46i5tpcqhnlayczztj7zjktzaztlotyy75zs6j7qd.onion" download>Download Data</a>
-           </div>
-         </div>
-       </div>
-     </div>
-   </div>  
-
-
-
-  <!-- 12 COMPANY POST -->
-  <div class="w3-col">
-    <div class="w3-card-4 w3-margin info-box">
-       <div class="w3-container">
-         <div style="padding-left: 0%">
-           <div class="w3-half" style="height: 60px;">
-             <h3><b>jatelindo</b></h3>
-           </div>
-           <div class="w3-half" style="height: 60px;">
-           </div>
-           <p><a href="www.jatelindo.co.id" target="_blank">www.jatelindo.co.id</a></p>
-           <h5>Size: 1.5GB</h5>
-           <h5>Status: Leaked</h5>
-           <p></p>
-           
-         
-          
-           <div class="thumbnail-container">
-            <a href="#image-modal">
-              <img src="" alt="" class="thumbnail">
-            </a>
-          </div>
-
-         
-           <div id="download-box">
-             <a href="http://6sf5xa7eso3e3vk46i5tpcqhnlayczztj7zjktzaztlotyy75zs6j7qd.onion" download>Download Data</a>
-           </div>
-         </div>
-       </div>
-     </div>
-   </div>  
-
-
-
-
-  <!-- 11 COMPANY POST -->
-  <div class="w3-col">
-    <div class="w3-card-4 w3-margin info-box">
-       <div class="w3-container">
-         <div style="padding-left: 0%">
-           <div class="w3-half" style="height: 60px;">
-             <h3><b>intrama-bg</b></h3>
-           </div>
-           <div class="w3-half" style="height: 60px;">
-           </div>
-           <p><a href="intrama-bg.com" target="_blank">intrama-bg.com</a></p>
-           <h5>Size: 120GB</h5>
-           <h5>Status: Leaked</h5>
-           <p></p>
-           
-         
-          
-           <div class="thumbnail-container">
-            <a href="#image-modal">
-              <img src="" alt="" class="thumbnail">
-            </a>
-          </div>
-
-         
-           <div id="download-box">
-             <a href="http://6sf5xa7eso3e3vk46i5tpcqhnlayczztj7zjktzaztlotyy75zs6j7qd.onion" download>Download Data</a>
-           </div>
-         </div>
-       </div>
-     </div>
-   </div>  
-
-
-
-
-   <!-- 10 COMPANY POST -->
-   <div class="w3-col">
-    <div class="w3-card-4 w3-margin info-box">
-       <div class="w3-container">
-         <div style="padding-left: 0%">
-           <div class="w3-half" style="height: 60px;">
-             <h3><b>HITC.VN</b></h3>
-           </div>
-           <div class="w3-half" style="height: 60px;">
-           </div>
-           <p><a href="www.hitc.vn" target="_blank">www.hitc.vn</a></p>
-           <h5>Size: 182GB</h5>
-           <h5>Status: Leaked</h5>
-           <p></p>
-           
-         
-          
-           <div class="thumbnail-container">
-            <a href="#image-modal">
-              <img src="" alt="" class="thumbnail">
-            </a>
-          </div>
-
-         
-           <div id="download-box">
-             <a href="http://6sf5xa7eso3e3vk46i5tpcqhnlayczztj7zjktzaztlotyy75zs6j7qd.onion" download>Download Data</a>
-           </div>
-         </div>
-       </div>
-     </div>
-   </div>  
-
-
-
-    <!-- 10 COMPANY POST -->
-  <div class="w3-col">
-    <div class="w3-card-4 w3-margin info-box">
-       <div class="w3-container">
-         <div style="padding-left: 0%">
-           <div class="w3-half" style="height: 60px;">
-             <h3><b>casio india</b></h3>
-           </div>
-           <div class="w3-half" style="height: 60px;">
-           </div>
-           <p><a href="casio.co.in" target="_blank">casio.co.in</a></p>
-           <h5>Size: 200GB</h5>
-           <h5>Status: Leaked</h5>
-           <p></p>
-           
-         
-          
-           <div class="thumbnail-container">
-            <a href="#image-modal">
-              <img src="" alt="" class="thumbnail">
-            </a>
-          </div>
-         
-           <div id="download-box">
-             <a href="https://gofile.io/d/fIRohi" download>Download Data</a>
-           </div>
-         </div>
-       </div>
-     </div>
-   </div>  
-
-
-
-
-
-  <!-- 9 COMPANY POST -->
-  <div class="w3-col">
-    <div class="w3-card-4 w3-margin info-box">
-       <div class="w3-container">
-         <div style="padding-left: 0%">
-           <div class="w3-half" style="height: 60px;">
-             <h3><b>berjayaclubs</b></h3>
-           </div>
-           <div class="w3-half" style="height: 60px;">
-           </div>
-           <p><a href="www.berjayaclubs.com" target="_blank">www.berjayaclubs.com</a></p>
-           <h5>Size: ?</h5>
-           <h5>Status: Leaked</h5>
-           <p></p>
-           
-         
-          
-           <div class="thumbnail-container">
-            <a href="#image-modal">
-              <img src="" alt="" class="thumbnail">
-            </a>
-          </div>
-
-         
-           <div id="download-box">
-             <a href="" download>Download Data</a>
-           </div>
-         </div>
-       </div>
-     </div>
-   </div> 
-
-
-
-    <!-- 8 COMPANY POST -->
-    <div class="w3-col">
-        <div class="w3-card-4 w3-margin info-box">
-           <div class="w3-container">
-             <div style="padding-left: 0%">
-               <div class="w3-half" style="height: 60px;">
-                 <h3><b>paginesi</b></h3>
-               </div>
-               <div class="w3-half" style="height: 60px;">
-               </div>
-               <p><a href="www.paginesi.it" target="_blank">www.paginesi.it</a></p>
-               <h5>Size: 170GB</h5>
-               <h5>Status: Leaked</h5>
-               <p></p>
-               
-             
-              
-               <div class="thumbnail-container">
-                <a href="#image-modal">
-                  <img src="" alt="" class="thumbnail">
-                </a>
-              </div>
-             
-               <div id="download-box">
-                 <a href="" download>Download Data</a>
-               </div>
-             </div>
-           </div>
-         </div>
-       </div> 
-
-
-
-    <!-- 7 COMPANY POST -->
- <div class="w3-col">
-    <div class="w3-card-4 w3-margin info-box">
-       <div class="w3-container">
-         <div style="padding-left: 0%">
-           <div class="w3-half" style="height: 60px;">
-             <h3><b>lostlb</b></h3>
-           </div>
-           <div class="w3-half" style="height: 60px;">
-           </div>
-           <p><a href="www.lostlb.org" target="_blank">www.lostlb.org</a></p>
-           <h5>Size: 1GB</h5>
-           <h5>Status: Leaked</h5>
-           <p></p>
-           
-         
-          
-           <div class="thumbnail-container">
-            <a href="#image-modal">
-              <img src="" alt="" class="thumbnail">
-            </a>
-          </div>
-
-         
-           <div id="download-box">
-             <a href="https://gofile.io/d/1RsY6o" download>Download Data</a>
-           </div>
-         </div>
-       </div>
-     </div>
-   </div>  
-
-
- <!-- 6 COMPANY POST -->
- <div class="w3-col">
-    <div class="w3-card-4 w3-margin info-box">
-       <div class="w3-container">
-         <div style="padding-left: 0%">
-           <div class="w3-half" style="height: 60px;">
-             <h3><b>duvel</b></h3>
-           </div>
-           <div class="w3-half" style="height: 60px;">
-           </div>
-           <p><a href="www.duvel.com" target="_blank">www.duvel.com</a></p>
-           <h5>Size: ?GB</h5>
-           <h5>Status: Leaked</h5>
-           <p></p>
-           
-         
-          
-           <div class="thumbnail-container">
-            <a href="#image-modal">
-              <img src="" alt="" class="thumbnail">
-            </a>
-          </div>
-
-         
-           <div id="download-box">
-             <a href="http://stniiomyjliimcgkvdszvgen3eaaoz55hreqqx6o77yvmpwt7gklffqd.onion/?id=duvel.com%20|%20boulevard.com" download>Download Data</a>
-           </div>
-         </div>
-       </div>
-     </div>
-   </div>  
-
- <!-- 5 COMPANY POST -->
- <div class="w3-col">
-    <div class="w3-card-4 w3-margin info-box">
-       <div class="w3-container">
-         <div style="padding-left: 0%">
-           <div class="w3-half" style="height: 60px;">
-             <h3><b>viadirectamarketing</b></h3>
-           </div>
-           <div class="w3-half" style="height: 60px;">
-           </div>
-           <p><a href="www.viadirectamarketing.com" target="_blank">www.viadirectamarketing.com</a></p>
-           <h5>Size: 2.7GB</h5>
-           <h5>Status: Leaked</h5>
-           <p></p>
-           
-         
-          
-           <div class="thumbnail-container">
-            <a href="#image-modal">
-              <img src="" alt="" class="thumbnail">
-            </a>
-          </div>
-
-         
-           <div id="download-box">
-             <a href="https://gofile.io/d/pWI4uj" download>Download Data</a>
-           </div>
-         </div>
-       </div>
-     </div>
-   </div>  
-  
-  <!-- 4 COMPANY POST -->
-  <div class="w3-col">
-    <div class="w3-card-4 w3-margin info-box">
-       <div class="w3-container">
-         <div style="padding-left: 0%">
-           <div class="w3-half" style="height: 60px;">
-             <h3><b>airbogo</b></h3>
-           </div>
-           <div class="w3-half" style="height: 60px;">
-           </div>
-           <p><a href="www.airbogo.com" target="_blank">www.airbogo.com</a></p>
-           <h5>Size: 10TB</h5>
-           <h5>Status: Leaked</h5>
-           <p></p>
-           
-         
-          
-           <div class="thumbnail-container">
-            <a href="#image-modal">
-              <img src="" alt="" class="thumbnail">
-            </a>
-          </div>
-
-         
-           <div id="download-box">
-             <a href="" download>Download Data</a>
-           </div>
-         </div>
-       </div>
-     </div>
-   </div>  
-  
-
-  <!-- 3 COMPANY POST -->
-  <div class="w3-col">
-    <div class="w3-card-4 w3-margin info-box">
-       <div class="w3-container">
-         <div style="padding-left: 0%">
-           <div class="w3-half" style="height: 60px;">
-             <h3><b>delia.pl</b></h3>
-           </div>
-           <div class="w3-half" style="height: 60px;">
-           </div>
-           <p><a href="www.delia.pl" target="_blank">www.delia.pl</a></p>
-           <h5>Size: 182GB</h5>
-           <h5>Status: Leaked</h5>
-           <p></p>
-           
-         
-          
-           <div class="thumbnail-container">
-            <a href="#image-modal">
-              <img src="" alt="" class="thumbnail">
-            </a>
-          </div>
-
-         
-           <div id="download-box">
-             <a href="https://gofile.io/d/WX2hnX" download>Download Data</a>
-           </div>
-         </div>
-       </div>
-     </div>
-   </div>  
-  
-  
-   <!-- 2 COMPANY POST -->
-   <div class="w3-col">
-     <div class="w3-card-4 w3-margin info-box">
-        <div class="w3-container">
-          <div style="padding-left: 0%">
-            <div class="w3-half" style="height: 60px;">
-              <h3><b>calcomp</b></h3>
-            </div>
-            <div class="w3-half" style="height: 60px;">
-            </div>
-            <p><a href="www.calcomp.co.th" target="_blank">www.calcomp.co.th</a></p>
-            <h5>Size: 100GB</h5>
-            <h5>Status: Leaked</h5>
-            <p></p>
-            
-          
-           
-            <div class="thumbnail-container">
-             <a href="#image-modal">
-               <img src="" alt="" class="thumbnail">
-             </a>
-           </div>
-          
-            <div id="download-box">
-              <a href="https://gofile.io/d/MWC6DS" download>Download Data</a>
-            </div>
-          </div>
-        </div>
       </div>
-    </div>  
-     
 
-    <!-- 1 COMPANY POST -->
-    <div class="w3-col">
-     <div class="w3-card-4 w3-margin info-box">
-        <div class="w3-container">
-          <div style="padding-left: 0%">
-            <div class="w3-half" style="height: 60px;">
-              <h3><b>Abelsantosyasoc</b></h3>
-            </div>
-             <div class="w3-half" style="height: 60px;">
-            </div>
-            <p><a href="www.Abelsantosyasoc.com.ar" target="_blank">www.Abelsantosyasoc.com.ar</a></p>
-            <h5>Size: 26GB</h5>
-            <h5>Status: Leaked</h5>
-            <p></p>
-            
-          
-           
-            <div class="thumbnail-container">
-             <a href="#image-modal">
-               <img src="" alt="" class="thumbnail">
-             </a>
-           </div>
-
-          
-            <div id="download-box">
-              <a href="https://mega.nz/file/gYxGBIQa#eRa7Ly8FZv5VukSjDeY35Afuuk-x1yBn8PRqNhwmh_w" download>Download Data</a>
-            </div>
-          </div>
-        </div>
+      <!-- Card 2 -->
+      <div class="post-card">
+        <p class="date">2025-03-08</p>
+        <h4>Wizz Air Abu Dhabi</h4>
+        <p class="subtitle">Company reports and operations - Employee and client data - Internal data - Air operator certificates for all employees and others.</p>
+        <p class="size">?GB</p>
+        <a href="http://6sf5xa7eso3e3vk46i5tpcqhnlayczztj7zjktzaztlotyy75zs6j7qd.onion//WAAD" class="read-more">read more â</a>
+        <div class="countdown-box" id="countdown2"></div>
       </div>
-    </div> 
-  </div>
+
+      <!-- Card 3 -->
+      <div class="post-card">
+        <p class="date">2025-02-06</p>
+        <h4>cmr24.by</h4>
+        <p class="subtitle">Account statements and payment checks A list of delinquent customers with their data, Includes invoices, operational reports, and logistical document</p>
+        <p class="size">5 GB</p>
+        <a href="http://6sf5xa7eso3e3vk46i5tpcqhnlayczztj7zjktzaztlotyy75zs6j7qd.onion//cmr24.by" class="read-more">read more â</a>
+        <div class="countdown-box" id="countdown3"></div>
+      </div>
+
+      <!-- Card 4 -->
+      <div class="post-card">
+        <p class="date">2025-01-28</p>
+        <h4>turbomp.com</h4>
+        <p class="subtitle">Because this company receives product design drawings from other partner companies and carries out manufacturing orders, it has detailed contract documents with numerous companies, their design documents, detailed drawings required for the manufacturing process, and documents showing the manufacturing process.</p>
+        <p class="size">700GB</p>
+        <a href="http://6sf5xa7eso3e3vk46i5tpcqhnlayczztj7zjktzaztlotyy75zs6j7qd.onion//turbomp.com" class="read-more">read more â</a>
+        <div class="countdown-box" id="countdown4"></div>
+      </div>
+
+<!-- Card 5 -->
+<div class="post-card">
+  <p class="date">2024-12-16</p>
+  <h4>biodimed.com</h4>
+  <p class="subtitle">Email operations associated with all employees - attachments include 40GB of documents related to biodimed - employee data - internal messages</p>
+  <p class="size">12 GB</p>
+  <a href="http://6sf5xa7eso3e3vk46i5tpcqhnlayczztj7zjktzaztlotyy75zs6j7qd.onion//biodimed.com" class="read-more">read more â</a>
+  <div class="countdown-box" id="countdown5"></div>
+
 </div>
 
+    <!-- Card 6 -->
+    <div class="post-card">
+      <p class="date">2024-10-10</p>
+      <h4>acuity.co.uk</h4>
+      <p class="subtitle">his includes important legal documents such as drafts of non-disclosure agreements (NDA) pertaining to the company and strategic partners like Bosch, detailed financial documents containing analyses of Acuity's financial position</p>
+      <p class="size">4 GB</p>
+      <a href="http://6sf5xa7eso3e3vk46i5tpcqhnlayczztj7zjktzaztlotyy75zs6j7qd.onion//acuity.co.uk" class="read-more">read more â</a>
+      <div class="countdown-box" id="countdown6"></div>
 
+    </div>
 
+    <!-- Card 7 -->
+    <div class="post-card">
+      <p class="date">2024-10-14</p>
+      <h4>aosense.com</h4>
+      <p class="subtitle">Accounting Information- AOSense Commercial Sales-Design-Financial-Inertial_Sensors_Group-IT-Products-Report-ContractsAdmin-Active Project Numbers-USNO Ca oven-NASA-Atom Computing-Subcontracts-Purchasing-IntellectualProperty-Administrative-Data-Navigation</p>
+      <p class="size">? GB</p>
+      <a href="http://6sf5xa7eso3e3vk46i5tpcqhnlayczztj7zjktzaztlotyy75zs6j7qd.onion//aosense.com" class="read-more">read more â</a>
+      <div class="countdown-box" id="countdown7"></div>
+
+    </div>
+  
+    <!-- Card 8 -->
+    <div class="post-card">
+      <p class="date">2024-10-15</p>
+      <h4>fractal.id</h4>
+      <p class="subtitle"> The total amount of data we managed to access exceeded 10 GB ------ 12GB, including personal photos, bank statements, proof of address, and ETH/BTC addresses</p>
+      <p class="size">? GB</p>
+      <a href="http://6sf5xa7eso3e3vk46i5tpcqhnlayczztj7zjktzaztlotyy75zs6j7qd.onion//fractal.id" class="read-more">read more â</a>
+      <div class="countdown-box" id="countdown8"></div>
+
+    </div>
+
+    <!-- Card 9 -->
+    <div class="post-card">
+      <p class="date">2024-10-15</p>
+      <h4>ascires.com</h4>
+      <p class="subtitle">Client Data - Medical Reports - Financial Status (Bank reports, taxes, and more) - Annual Accounts - Personal Information - New Projects - Large amounts of patient-related data - Business plans and much more â a total of 700 GB of critical information!</p>
+      <p class="size">60 GB</p>
+      <a href="http://6sf5xa7eso3e3vk46i5tpcqhnlayczztj7zjktzaztlotyy75zs6j7qd.onion//ascires.com" class="read-more">read more â</a>
+      <div class="countdown-box" id="countdown9"></div>
+
+    </div>
+
+    <!-- Card 10 -->
+    <div class="post-card">
+      <p class="date">2024-10-31</p>
+      <h4>guardianhc.com</h4>
+      <p class="subtitle">Apps - Attachments - Daily Admission Copies - Documents - Pictures - COVID TESTING DATE - Custom Office Templates -Vaccines</p>
+      <p class="size">3 GB</p>
+      <a href="http://6sf5xa7eso3e3vk46i5tpcqhnlayczztj7zjktzaztlotyy75zs6j7qd.onion//guardianhc.com" class="read-more">read more â</a>
+      <div class="countdown-box" id="countdown10"></div>
+    </div>
+
+    <!-- Card 11 -->
+    <div class="post-card">
+      <p class="date">2024-09-02</p>
+      <h4>intrama-bg</h4>
+      <p class="subtitle">intrama-bg.com/</p>
+      <p class="size">42 GB</p>
+      <a href="http://6sf5xa7eso3e3vk46i5tpcqhnlayczztj7zjktzaztlotyy75zs6j7qd.onion//intrama-bg.com.rar" class="read-more">read more â</a>
+      <div class="countdown-box" id="countdown11"></div>
+    </div>
+
+    <!-- Card 12 -->
+    <div class="post-card">
+      <p class="date">2024-09-12</p>
+      <h4>jatelindo</h4>
+      <p class="subtitle">jatelindo.co.id/</p>
+      <p class="size">1.2 GB</p>
+      <a href="http://6sf5xa7eso3e3vk46i5tpcqhnlayczztj7zjktzaztlotyy75zs6j7qd.onion//jatelindo.co.id.rar" class="read-more">read more â</a>
+      <div class="countdown-box" id="countdown12"></div>
+    </div>
+
+    <!-- Card 13 -->
+    <div class="post-card">
+      <p class="date">2024-10-03</p>
+      <h4>lyra.officegroup.it</h4>
+      <p class="subtitle">lyra.officegroup/</p>
+      <p class="size">1 GB</p>
+      <a href="http://6sf5xa7eso3e3vk46i5tpcqhnlayczztj7zjktzaztlotyy75zs6j7qd.onion//lyra.officegroup.it.rar" class="read-more">read more â</a>
+      <div class="countdown-box" id="countdown13"></div>
+
+    </div>
+
+    <!-- Card 14 -->
+    <div class="post-card">
+      <p class="date">2024-09-13</p>
+      <h4>mivideo.club</h4>
+      <p class="subtitle">mivideo.club/</p>
+      <p class="size">1 GB</p>
+      <a href="http://6sf5xa7eso3e3vk46i5tpcqhnlayczztj7zjktzaztlotyy75zs6j7qd.onion//mivideo.club.rar" class="read-more">read more â</a>
+      <div class="countdown-box" id="countdown14"></div>
+
+    </div>
+
+    <!-- Card 15 -->
+    <div class="post-card">
+      <p class="date">2024-11-17</p>
+      <h4>uatf.edu.bo</h4>
+      <p class="subtitle">Personal data (names, addresses, phone numbers) - Internal email correspondences - Attachments containing educational and administrative documents - Information on student or employee activities - Contact list for all students, internal messages, and more</p>
+      <p class="size">3 GB</p>
+      <a href="http://6sf5xa7eso3e3vk46i5tpcqhnlayczztj7zjktzaztlotyy75zs6j7qd.onion//uatf.edu.bo" class="read-more">read more â</a>
+      <div class="countdown-box" id="countdown15"></div>
+
+    </div>
+
+    <!-- Card 16 -->
+    <div class="post-card">
+      <p class="date">2024-11-17</p>
+      <h4>Transak.com</h4>
+      <p class="subtitle">We have extracted more than 300GB of data, which includes sensitive personal documents such as government-issued IDs, proof of address, financial statements, and user selfies</p>
+      <p class="size">70 GB</p>
+      <a href="http://6sf5xa7eso3e3vk46i5tpcqhnlayczztj7zjktzaztlotyy75zs6j7qd.onion//transak.com" class="read-more">read more â</a>
+      <div class="countdown-box" id="countdown16"></div>
+    </div>
+    </div>
+  </main>
+  
+  
+  
+  <script>
+    function startCountdown(id, targetDate) {
+      var countdownElement = document.getElementById(id);
+      var interval = setInterval(function() {
+        var now = new Date().getTime();
+        var distance = targetDate - now;
+  
+        if (distance < 0) {
+          clearInterval(interval);
+          countdownElement.innerHTML = "PUBLISHED";
+        } else {
+          var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+          var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+          var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+          var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+  
+          countdownElement.innerHTML = days + "d " + hours + "h " + minutes + "m " + seconds + "s ";
+        }
+      }, 1000);
+    }
+  
+    var targetDate1 = new Date("2025-03-15T00:00:00").getTime();  
+    var targetDate2 = new Date("2025-03-16T00:00:00").getTime();  
+    var targetDate3 = new Date("2025-03-16T00:00:00").getTime();  
+    var targetDate4 = new Date("2025-03-16T00:00:00").getTime();  
+    var targetDate5 = new Date("2025-03-16T00:00:00").getTime();  
+    var targetDate6 = new Date("2025-03-16T00:00:00").getTime();  
+    var targetDate7 = new Date("2025-03-16T00:00:00").getTime();  
+    var targetDate8 = new Date("2025-03-16T00:00:00").getTime();  
+    var targetDate9 = new Date("2025-03-16T00:00:00").getTime();  
+    var targetDate10 = new Date("2025-03-16T00:00:00").getTime();  
+    var targetDate11 = new Date("2025-03-16T00:00:00").getTime();  
+    var targetDate12 = new Date("2025-03-16T00:00:00").getTime();  
+    var targetDate13 = new Date("2025-03-16T00:00:00").getTime();  
+    var targetDate14 = new Date("2025-03-16T00:00:00").getTime();  
+    var targetDate15 = new Date("2025-03-16T00:00:00").getTime();  
+    var targetDate16 = new Date("2025-03-16T00:00:00").getTime();  
+
+    startCountdown('countdown1', targetDate1);
+    startCountdown('countdown2', targetDate2);
+    startCountdown('countdown3', targetDate3);
+    startCountdown('countdown4', targetDate4);
+    startCountdown('countdown5', targetDate5);
+    startCountdown('countdown6', targetDate6);
+    startCountdown('countdown7', targetDate7);
+    startCountdown('countdown8', targetDate8);
+    startCountdown('countdown9', targetDate9);
+    startCountdown('countdown10', targetDate10);
+    startCountdown('countdown11', targetDate11);
+    startCountdown('countdown12', targetDate12);
+    startCountdown('countdown13', targetDate13);
+    startCountdown('countdown14', targetDate14);
+    startCountdown('countdown15', targetDate15);
+    startCountdown('countdown16', targetDate16);
+  </script>
 </body>
 </html>
