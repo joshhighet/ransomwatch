@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-03-18 | [`CD`](https://google.com/search?q=CD) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
+| 2025-03-18 | [`Gloria Cales`](https://google.com/search?q=Gloria+Cales) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2025-03-18 | [`AMICIO`](https://google.com/search?q=AMICIO) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-03-18 | [`Ted Hosmer Enterprises`](https://google.com/search?q=Ted+Hosmer+Enterprises) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2025-03-18 | [`51talk.com`](https://google.com/search?q=51talk.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2025-03-02 | [`britannicahome.com\$20.6M\USA\2.8TB\100% DISCLOSED`](https://google.com/search?q=britannicahome.com%5C%2420.6M%5CUSA%5C2.8TB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2025-03-02 | [`kinseysinc.com\$74.9M\USA\675GB\100% DISCLOSED`](https://google.com/search?q=kinseysinc.com%5C%2474.9M%5CUSA%5C675GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2025-03-02 | [`steelerubber.com\$17.9M\USA\116GB\100% DISCLOSED`](https://google.com/search?q=steelerubber.com%5C%2417.9M%5CUSA%5C116GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2025-03-02 | [`uniekinc.com\$37.5M\USA\1.8TB\100% DISCLOSED`](https://google.com/search?q=uniekinc.com%5C%2437.5M%5CUSA%5C1.8TB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2025-03-02 | [`midwayimporting.com\$43.7M\USA\915GB\100% DISCLOSED`](https://google.com/search?q=midwayimporting.com%5C%2443.7M%5CUSA%5C915GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
