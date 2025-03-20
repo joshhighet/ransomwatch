@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-03-20 | [`L&amp;S Mechanical`](https://google.com/search?q=L%26amp%3BS+Mechanical) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
+| 2025-03-20 | [`Instituto de Ojos`](https://google.com/search?q=Instituto+de+Ojos) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
+| 2025-03-20 | [`www.janvier-labs.com`](https://google.com/search?q=www.janvier-labs.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-03-20 | [`Obra Play`](https://google.com/search?q=Obra+Play) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2025-03-20 | [`interiseworld.com`](https://google.com/search?q=interiseworld.com) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2025-03-20 | [`Newtown Friends School (newtownfriends.org)`](https://google.com/search?q=Newtown+Friends+School+%28newtownfriends.org%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2025-03-03 | [`Research Electronics International `](https://google.com/search?q=Research+Electronics+International+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
 | 2025-03-03 | [`Klesk Metal Stamping Co (kleskmetalstamping.com)`](https://google.com/search?q=Klesk+Metal+Stamping+Co+%28kleskmetalstamping.com%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2025-03-03 | [`S********e.com`](https://google.com/search?q=S%2A%2A%2A%2A%2A%2A%2A%2Ae.com) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
-| 2025-03-03 | [`K**d.edu`](https://google.com/search?q=K%2A%2Ad.edu) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
-| 2025-03-03 | [`Central McGowan (centralmcgowan.com)`](https://google.com/search?q=Central+McGowan+%28centralmcgowan.com%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
-| 2025-03-03 | [`ceratec.com`](https://google.com/search?q=ceratec.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
