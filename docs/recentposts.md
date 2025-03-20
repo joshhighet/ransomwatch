@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-03-20 | [`Newtown Friends School (newtownfriends.org)`](https://google.com/search?q=Newtown+Friends+School+%28newtownfriends.org%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
+| 2025-03-20 | [`Megacentro`](https://google.com/search?q=Megacentro) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
+| 2025-03-20 | [`Cargills Bank`](https://google.com/search?q=Cargills+Bank) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2025-03-19 | [`Q railing`](https://google.com/search?q=Q+railing) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-03-19 | [`controlledair.com`](https://google.com/search?q=controlledair.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-03-19 | [`Palomino Petroleum`](https://google.com/search?q=Palomino+Petroleum) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2025-03-03 | [`ceratec.com`](https://google.com/search?q=ceratec.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
 | 2025-03-02 | [`Pre Con Industries`](https://google.com/search?q=Pre+Con+Industries) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-03-02 | [`Optometrics`](https://google.com/search?q=Optometrics) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-03-02 | [`North American Fire Hose`](https://google.com/search?q=North+American+Fire+Hose) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-03-02 | [`M&n Management`](https://google.com/search?q=M%26n+Management) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-03-02 | [`International Process Plants`](https://google.com/search?q=International+Process+Plants) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
