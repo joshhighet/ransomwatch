@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-03-20 | [`Whittaker &amp; Company`](https://google.com/search?q=Whittaker+%26amp%3B+Company) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
+| 2025-03-20 | [`www.georgehay.co.uk`](https://google.com/search?q=www.georgehay.co.uk) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-03-20 | [`L&amp;S Mechanical`](https://google.com/search?q=L%26amp%3BS+Mechanical) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2025-03-20 | [`Instituto de Ojos`](https://google.com/search?q=Instituto+de+Ojos) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2025-03-20 | [`www.janvier-labs.com`](https://google.com/search?q=www.janvier-labs.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2025-03-03 | [`quigleyeye.com\$33.6M\USA\435GB\&lt;1% DISCLOSED`](https://google.com/search?q=quigleyeye.com%5C%2433.6M%5CUSA%5C435GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2025-03-03 | [`La Unión`](https://google.com/search?q=La+Uni%C3%B3n) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-03-03 | [`Research Electronics International `](https://google.com/search?q=Research+Electronics+International+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
-| 2025-03-03 | [`Klesk Metal Stamping Co (kleskmetalstamping.com)`](https://google.com/search?q=Klesk+Metal+Stamping+Co+%28kleskmetalstamping.com%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
-| 2025-03-03 | [`S********e.com`](https://google.com/search?q=S%2A%2A%2A%2A%2A%2A%2A%2Ae.com) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
