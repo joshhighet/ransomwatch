@@ -4,6 +4,24 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-03-21 | [`www.scpautomation.com`](https://google.com/search?q=www.scpautomation.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2025-03-21 | [`www.gestionquintessence.com`](https://google.com/search?q=www.gestionquintessence.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2025-03-21 | [`www.engines.man.eu`](https://google.com/search?q=www.engines.man.eu) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2025-03-21 | [`www.abmenviro.ca`](https://google.com/search?q=www.abmenviro.ca) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2025-03-21 | [`www.accessfinanceonline.com`](https://google.com/search?q=www.accessfinanceonline.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2025-03-21 | [`www.ahmadiyya.ca`](https://google.com/search?q=www.ahmadiyya.ca) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2025-03-21 | [`www.elizajennings.org`](https://google.com/search?q=www.elizajennings.org) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2025-03-21 | [`www.sinkdirect.com`](https://google.com/search?q=www.sinkdirect.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2025-03-21 | [`www.broadmoormethodist.org`](https://google.com/search?q=www.broadmoormethodist.org) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2025-03-21 | [`www.parklandmanufacturing.com`](https://google.com/search?q=www.parklandmanufacturing.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2025-03-21 | [`www.solinst.com`](https://google.com/search?q=www.solinst.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2025-03-21 | [`www.allstarhealthcaresolutions.com`](https://google.com/search?q=www.allstarhealthcaresolutions.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2025-03-21 | [`www.njcalwe.com`](https://google.com/search?q=www.njcalwe.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2025-03-21 | [`www.gcsnet.com`](https://google.com/search?q=www.gcsnet.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2025-03-21 | [`www.core-1.com`](https://google.com/search?q=www.core-1.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2025-03-21 | [`www.esquirebrands.com`](https://google.com/search?q=www.esquirebrands.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2025-03-21 | [`www.avalonapparel.com`](https://google.com/search?q=www.avalonapparel.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2025-03-21 | [`www.oneupinnovations.com`](https://google.com/search?q=www.oneupinnovations.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-03-21 | [`Cayman National Bank`](https://google.com/search?q=Cayman+National+Bank) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2025-03-21 | [`Officio Medical`](https://google.com/search?q=Officio+Medical) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2025-03-21 | [`https://www.orangeville.ca`](https://google.com/search?q=https%3A%2F%2Fwww.orangeville.ca) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
@@ -186,21 +204,3 @@ _last `200` posts_
 | 2025-03-04 | [`Grupo Baston Aerossol (baston.com.br)`](https://google.com/search?q=Grupo+Baston+Aerossol+%28baston.com.br%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2025-03-04 | [`Seabank Group`](https://google.com/search?q=Seabank+Group) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-03-04 | [`goencon.com`](https://google.com/search?q=goencon.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2025-03-04 | [`Tata Technologies`](https://google.com/search?q=Tata+Technologies) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2025-03-04 | [`Garner, P.C.`](https://google.com/search?q=Garner%2C+P.C.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2025-03-04 | [`Legal Aid Society of Salt Lake`](https://google.com/search?q=Legal+Aid+Society+of+Salt+Lake) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2025-03-04 | [`Ewald Consulting`](https://google.com/search?q=Ewald+Consulting) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2025-03-03 | [`familychc.com`](https://google.com/search?q=familychc.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2025-03-03 | [`andreyevengineering.com`](https://google.com/search?q=andreyevengineering.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2025-03-03 | [`Vitenas Cosmetic Surgery`](https://google.com/search?q=Vitenas+Cosmetic+Surgery) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
-| 2025-03-03 | [`LINKGROUP`](https://google.com/search?q=LINKGROUP) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
-| 2025-03-03 | [`Openreso`](https://google.com/search?q=Openreso) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
-| 2025-03-03 | [`Itapeseg`](https://google.com/search?q=Itapeseg) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
-| 2025-03-03 | [`logic insectes`](https://google.com/search?q=logic+insectes) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
-| 2025-03-03 | [`RJ IT Solutions`](https://google.com/search?q=RJ+IT+Solutions) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
-| 2025-03-03 | [`Grafitec`](https://google.com/search?q=Grafitec) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
-| 2025-03-03 | [`synaptic.co.tz`](https://google.com/search?q=synaptic.co.tz) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
-| 2025-03-03 | [`ICO`](https://google.com/search?q=ICO) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
-| 2025-03-03 | [`New .Gov ?`](https://google.com/search?q=New+.Gov+%3F) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
-| 2025-03-03 | [`almostfamousclothing.com\$183M\USA\375GB\100% DISCLOSED`](https://google.com/search?q=almostfamousclothing.com%5C%24183M%5CUSA%5C375GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2025-03-03 | [`ssmcoop.com\$22.5M\USA\26GB\100% DISCLOSED`](https://google.com/search?q=ssmcoop.com%5C%2422.5M%5CUSA%5C26GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
