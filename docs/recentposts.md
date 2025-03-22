@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-03-22 | [`Zaveta Custom Homes`](https://google.com/search?q=Zaveta+Custom+Homes) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-03-22 | [`Innovative Surfaces`](https://google.com/search?q=Innovative+Surfaces) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2025-03-22 | [`SPARSH Hospital`](https://google.com/search?q=SPARSH+Hospital) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2025-03-21 | [`gbsn.com.br`](https://google.com/search?q=gbsn.com.br) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-03-04 | [`Wendy Wu Tours`](https://google.com/search?q=Wendy+Wu+Tours) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2025-03-04 | [`Keystone Pacific Property Management LLC`](https://google.com/search?q=Keystone+Pacific+Property+Management+LLC) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2025-03-04 | [`Layfield and Borel CPA's L.L.C`](https://google.com/search?q=Layfield+and+Borel+CPA%27s+L.L.C) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2025-03-04 | [`Brien, Inc.`](https://google.com/search?q=Brien%2C+Inc.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
