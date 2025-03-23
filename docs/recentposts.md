@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-03-23 | [`Goshen Medical Center`](https://google.com/search?q=Goshen+Medical+Center) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2025-03-22 | [`Doumen`](https://google.com/search?q=Doumen) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-03-22 | [`REOC San Antonio`](https://google.com/search?q=REOC+San+Antonio) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-03-22 | [`Zaveta Custom Homes`](https://google.com/search?q=Zaveta+Custom+Homes) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-03-04 | [`Phoenix`](https://google.com/search?q=Phoenix) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2025-03-04 | [`dsrny.com`](https://google.com/search?q=dsrny.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-03-04 | [`Pampili (pampili.com.br)`](https://google.com/search?q=Pampili+%28pampili.com.br%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
-| 2025-03-04 | [`Wendy Wu Tours`](https://google.com/search?q=Wendy+Wu+Tours) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
