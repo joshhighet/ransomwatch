@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-03-23 | [`Precision Accounting Intl`](https://google.com/search?q=Precision+Accounting+Intl) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2025-03-23 | [`abeyor.fr`](https://google.com/search?q=abeyor.fr) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-03-23 | [`Goshen Medical Center`](https://google.com/search?q=Goshen+Medical+Center) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2025-03-22 | [`Doumen`](https://google.com/search?q=Doumen) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-03-05 | [`USA Rice<br />`](https://google.com/search?q=USA+Rice%3Cbr+%2F%3E) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
 | 2025-03-04 | [`365labs - Security Corp`](https://google.com/search?q=365labs+-+Security+Corp) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2025-03-04 | [`Phoenix`](https://google.com/search?q=Phoenix) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
-| 2025-03-04 | [`dsrny.com`](https://google.com/search?q=dsrny.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
