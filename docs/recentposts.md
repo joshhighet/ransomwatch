@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-03-24 | [`www.exemplar.com`](https://google.com/search?q=www.exemplar.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-03-24 | [`Lupin Limited`](https://google.com/search?q=Lupin+Limited) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2025-03-23 | [`Precision Accounting Intl`](https://google.com/search?q=Precision+Accounting+Intl) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2025-03-23 | [`abeyor.fr`](https://google.com/search?q=abeyor.fr) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-03-05 | [`www.cda.be`](https://google.com/search?q=www.cda.be) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-03-05 | [`Best Collateral, Inc.`](https://google.com/search?q=Best+Collateral%2C+Inc.) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2025-03-05 | [`USA Rice<br />`](https://google.com/search?q=USA+Rice%3Cbr+%2F%3E) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
-| 2025-03-04 | [`365labs - Security Corp`](https://google.com/search?q=365labs+-+Security+Corp) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
