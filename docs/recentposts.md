@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-03-25 | [`mnm.hu`](https://google.com/search?q=mnm.hu) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-03-25 | [`texascompressionservices.com`](https://google.com/search?q=texascompressionservices.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-03-24 | [`allbiz.com`](https://google.com/search?q=allbiz.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-03-24 | [`TMT Clam Dredger`](https://google.com/search?q=TMT+Clam+Dredger) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-03-05 | [`www.black-star.fr`](https://google.com/search?q=www.black-star.fr) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-03-05 | [`Schmiedetechnik Plettenberg GmbH & Co KG`](https://google.com/search?q=Schmiedetechnik+Plettenberg+GmbH+%26+Co+KG) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-03-05 | [`www.japanrebuilt.jp`](https://google.com/search?q=www.japanrebuilt.jp) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2025-03-05 | [`www.sunsweet.com`](https://google.com/search?q=www.sunsweet.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
