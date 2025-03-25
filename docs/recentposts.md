@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-03-25 | [`Kimco Steel`](https://google.com/search?q=Kimco+Steel) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-03-25 | [`B&C Industries`](https://google.com/search?q=B%26C+Industries) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-03-25 | [`ossc.com.mx`](https://google.com/search?q=ossc.com.mx) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2025-03-25 | [`fepasa.com.ar`](https://google.com/search?q=fepasa.com.ar) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-03-06 | [`lovesac.com`](https://google.com/search?q=lovesac.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-03-06 | [`agi.net`](https://google.com/search?q=agi.net) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2025-03-06 | [`Naples Heritage Golf & Country Club`](https://google.com/search?q=Naples+Heritage+Golf+%26+Country+Club) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-03-06 | [`Oberlin Cable Co-op (oberlin.net)`](https://google.com/search?q=Oberlin+Cable+Co-op+%28oberlin.net%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
