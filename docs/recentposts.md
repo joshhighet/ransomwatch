@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-03-25 | [`Okeene Elementary School`](https://google.com/search?q=Okeene+Elementary+School) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2025-03-25 | [`cisd.org`](https://google.com/search?q=cisd.org) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-03-25 | [`mnm.hu`](https://google.com/search?q=mnm.hu) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-03-25 | [`texascompressionservices.com`](https://google.com/search?q=texascompressionservices.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-03-05 | [`Pervedant`](https://google.com/search?q=Pervedant) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-03-05 | [`SCOLARO FETTER GRIZANTI &amp; McGOUGH, P.C. (scolaro.com)`](https://google.com/search?q=SCOLARO+FETTER+GRIZANTI+%26amp%3B+McGOUGH%2C+P.C.+%28scolaro.com%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2025-03-05 | [`www.black-star.fr`](https://google.com/search?q=www.black-star.fr) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2025-03-05 | [`Schmiedetechnik Plettenberg GmbH & Co KG`](https://google.com/search?q=Schmiedetechnik+Plettenberg+GmbH+%26+Co+KG) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
