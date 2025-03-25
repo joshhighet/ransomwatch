@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-03-25 | [`fepasa.com.ar`](https://google.com/search?q=fepasa.com.ar) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2025-03-25 | [`bioclimaservice.it`](https://google.com/search?q=bioclimaservice.it) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2025-03-25 | [`www.rivaldt.com`](https://google.com/search?q=www.rivaldt.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-03-25 | [`OMLTD.CO.JP`](https://google.com/search?q=OMLTD.CO.JP) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-03-06 | [`Oberlin Cable Co-op (oberlin.net)`](https://google.com/search?q=Oberlin+Cable+Co-op+%28oberlin.net%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2025-03-06 | [`stanleyconsultants.com\$190.5M\USA\388GB\100% DISCLOSED`](https://google.com/search?q=stanleyconsultants.com%5C%24190.5M%5CUSA%5C388GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2025-03-06 | [`electrocraft.com\$190.1M\USA\477GB\100% DISCLOSED`](https://google.com/search?q=electrocraft.com%5C%24190.1M%5CUSA%5C477GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2025-03-06 | [`holtcat.com\$1B\USA\868GB\100% DISCLOSED`](https://google.com/search?q=holtcat.com%5C%241B%5CUSA%5C868GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
