@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-03-26 | [`TriCity Family Services`](https://google.com/search?q=TriCity+Family+Services) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-03-26 | [`www.creativelogisticservices.com`](https://google.com/search?q=www.creativelogisticservices.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-03-26 | [`www.afnigc.ca`](https://google.com/search?q=www.afnigc.ca) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-03-26 | [`www.cormidom.com.do`](https://google.com/search?q=www.cormidom.com.do) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-03-06 | [`www.portlandschools.org`](https://google.com/search?q=www.portlandschools.org) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-03-06 | [`www.hinton.ca`](https://google.com/search?q=www.hinton.ca) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-03-06 | [`Dynamic Closures`](https://google.com/search?q=Dynamic+Closures) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
-| 2025-03-06 | [`Adval Tech`](https://google.com/search?q=Adval+Tech) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
