@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-03-28 | [`entandallergy.com`](https://google.com/search?q=entandallergy.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
 | 2025-03-28 | [`amatechinc.com`](https://google.com/search?q=amatechinc.com) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-03-28 | [`Direct Traffic Control`](https://google.com/search?q=Direct+Traffic+Control) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-03-28 | [`W*******w.com`](https://google.com/search?q=W%2A%2A%2A%2A%2A%2A%2Aw.com) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-03-09 | [`Salemerode.com`](https://google.com/search?q=Salemerode.com) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
 | 2025-03-09 | [`Insider Technologies Limited`](https://google.com/search?q=Insider+Technologies+Limited) | [embargo](https://ransomwatch.telemetry.ltd/#/profiles?id=embargo) |
 | 2025-03-09 | [`British virgin islands London Office`](https://google.com/search?q=British+virgin+islands+London+Office) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2025-03-08 | [`www.dcarosolutions.com`](https://google.com/search?q=www.dcarosolutions.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
