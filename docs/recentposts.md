@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-04-01 | [`intellioan.com`](https://google.com/search?q=intellioan.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-04-01 | [`jackpotjunction.com`](https://google.com/search?q=jackpotjunction.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-03-31 | [`CMC Technology Group`](https://google.com/search?q=CMC+Technology+Group) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2025-03-31 | [`Meridian Senior`](https://google.com/search?q=Meridian+Senior) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-03-10 | [`steelwarehouse.com\$570.3M\USA\679GB\100% DISCLOSED`](https://google.com/search?q=steelwarehouse.com%5C%24570.3M%5CUSA%5C679GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2025-03-10 | [`caltrol.com\$296.3M\USA\224GB\100% DISCLOSED`](https://google.com/search?q=caltrol.com%5C%24296.3M%5CUSA%5C224GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2025-03-10 | [`[DISCLOSED]Nationz Technologies Inc.`](https://google.com/search?q=%5BDISCLOSED%5DNationz+Technologies+Inc.) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
-| 2025-03-10 | [`The Loretto Hospital`](https://google.com/search?q=The+Loretto+Hospital) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
