@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-04-01 | [`europtec.com`](https://google.com/search?q=europtec.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-04-01 | [`delta-life.com`](https://google.com/search?q=delta-life.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-04-01 | [`intellioan.com`](https://google.com/search?q=intellioan.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-04-01 | [`jackpotjunction.com`](https://google.com/search?q=jackpotjunction.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-03-10 | [`amalgamatedsugar.com\$764.8 M\USA\464GB\100% DISCLOSED`](https://google.com/search?q=amalgamatedsugar.com%5C%24764.8+M%5CUSA%5C464GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2025-03-10 | [`pace-usa.com\$134.4M\USA\65GB\100% DISCLOSED`](https://google.com/search?q=pace-usa.com%5C%24134.4M%5CUSA%5C65GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2025-03-10 | [`steelwarehouse.com\$570.3M\USA\679GB\100% DISCLOSED`](https://google.com/search?q=steelwarehouse.com%5C%24570.3M%5CUSA%5C679GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2025-03-10 | [`caltrol.com\$296.3M\USA\224GB\100% DISCLOSED`](https://google.com/search?q=caltrol.com%5C%24296.3M%5CUSA%5C224GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
