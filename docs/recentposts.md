@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-04-02 | [`Clarity Ventures`](https://google.com/search?q=Clarity+Ventures) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2025-04-02 | [`crownlaboratories.com`](https://google.com/search?q=crownlaboratories.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
 | 2025-04-02 | [`The Hoff Brand SL Data Leak`](https://google.com/search?q=The+Hoff+Brand+SL+Data+Leak) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2025-04-01 | [`The Loretto Hospital`](https://google.com/search?q=The+Loretto+Hospital) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-03-10 | [`dccsagroup.com&amp;csahome.com`](https://google.com/search?q=dccsagroup.com%26amp%3Bcsahome.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-03-10 | [`Fred Salvucci`](https://google.com/search?q=Fred+Salvucci) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
 | 2025-03-10 | [`www.hexosys.com`](https://google.com/search?q=www.hexosys.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2025-03-10 | [`aiibeauty.com\$274.8M\USA\508GB\100% DISCLOSED`](https://google.com/search?q=aiibeauty.com%5C%24274.8M%5CUSA%5C508GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
