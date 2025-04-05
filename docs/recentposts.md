@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-04-05 | [`ABITL Finishing`](https://google.com/search?q=ABITL+Finishing) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-04-05 | [`L&amp;S Mechanical (Reuploaded)`](https://google.com/search?q=L%26amp%3BS+Mechanical+%28Reuploaded%29) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2025-04-05 | [`TEDOM`](https://google.com/search?q=TEDOM) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2025-04-05 | [`Nexia Poyiadjis IT`](https://google.com/search?q=Nexia+Poyiadjis+IT) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-03-12 | [`baillie.com\$130.5M\USA\52GB\&lt;1% DISCLOSED`](https://google.com/search?q=baillie.com%5C%24130.5M%5CUSA%5C52GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2025-03-12 | [`www.visualisation.one`](https://google.com/search?q=www.visualisation.one) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-03-12 | [`urban1.com\$460.3M\USA\2.5TB\&lt;1% DISCLOSED`](https://google.com/search?q=urban1.com%5C%24460.3M%5CUSA%5C2.5TB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2025-03-12 | [`rocketstores.com\$738.9M\USA\3.2TB\&lt;1% DISCLOSED`](https://google.com/search?q=rocketstores.com%5C%24738.9M%5CUSA%5C3.2TB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
