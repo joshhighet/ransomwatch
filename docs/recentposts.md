@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-04-05 | [`https://www.mmwec.org`](https://google.com/search?q=https%3A%2F%2Fwww.mmwec.org) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2025-04-04 | [`Royal Glass`](https://google.com/search?q=Royal+Glass) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-04-04 | [`Fraser Trebilcock`](https://google.com/search?q=Fraser+Trebilcock) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-04-04 | [`Sansone Group`](https://google.com/search?q=Sansone+Group) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-03-11 | [`Skyward Specialty Insurance`](https://google.com/search?q=Skyward+Specialty+Insurance) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2025-03-11 | [`Trymata`](https://google.com/search?q=Trymata) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2025-03-11 | [` Research Electronics International `](https://google.com/search?q=+Research+Electronics+International+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
-| 2025-03-11 | [`SIRIUS S.R.L.`](https://google.com/search?q=SIRIUS+S.R.L.) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
