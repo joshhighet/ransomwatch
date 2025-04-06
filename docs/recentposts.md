@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-04-06 | [`graphiquedefrance.com`](https://google.com/search?q=graphiquedefrance.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2025-04-06 | [`Swiss Capitals Group`](https://google.com/search?q=Swiss+Capitals+Group) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2025-04-05 | [`Hawk Technology`](https://google.com/search?q=Hawk+Technology) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-04-05 | [`Csm Engineering`](https://google.com/search?q=Csm+Engineering) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-03-13 | [`University Diagnostic Medical Imaging, PC (udmi.net)`](https://google.com/search?q=University+Diagnostic+Medical+Imaging%2C+PC+%28udmi.net%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2025-03-12 | [`El Camino Real Academy (elcaminorealacademy)`](https://google.com/search?q=El+Camino+Real+Academy+%28elcaminorealacademy%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2025-03-12 | [`TUV India Pvt. Ltd.`](https://google.com/search?q=TUV+India+Pvt.+Ltd.) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
-| 2025-03-12 | [`tempel.com\$628.7M\USA\111GB\&lt;1% DISCLOSED`](https://google.com/search?q=tempel.com%5C%24628.7M%5CUSA%5C111GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
