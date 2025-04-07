@@ -78528,5 +78528,10 @@
         "post_title": "IDS Infotech",
         "group_name": "hunters",
         "discovered": "2025-04-07 00:45:34.934342"
+    },
+    {
+        "post_title": "[DISCLOSED]Cell C",
+        "group_name": "ransomhouse",
+        "discovered": "2025-04-07 14:37:10.083217"
     }
 ]
