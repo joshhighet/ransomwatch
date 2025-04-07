@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-04-07 | [`IDS Infotech`](https://google.com/search?q=IDS+Infotech) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2025-04-06 | [`asiapacificex.com`](https://google.com/search?q=asiapacificex.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2025-04-06 | [`Hofmann Fördertechnik GmbH`](https://google.com/search?q=Hofmann+F%C3%B6rdertechnik+GmbH) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2025-04-06 | [`Groupe Delcourt`](https://google.com/search?q=Groupe+Delcourt) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-03-13 | [`Backes`](https://google.com/search?q=Backes) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-03-13 | [`rixos.com`](https://google.com/search?q=rixos.com) | [embargo](https://ransomwatch.telemetry.ltd/#/profiles?id=embargo) |
 | 2025-03-13 | [`www.raymond.in`](https://google.com/search?q=www.raymond.in) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2025-03-13 | [`muellersyste`](https://google.com/search?q=muellersyste) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
