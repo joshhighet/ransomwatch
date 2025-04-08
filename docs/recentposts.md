@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-04-08 | [`RFMS, Inc.`](https://google.com/search?q=RFMS%2C+Inc.) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
 | 2025-04-08 | [`https://www.thirdave.com`](https://google.com/search?q=https%3A%2F%2Fwww.thirdave.com) | [metaencryptor](https://ransomwatch.telemetry.ltd/#/profiles?id=metaencryptor) |
 | 2025-04-08 | [`Thiekon Constructie`](https://google.com/search?q=Thiekon+Constructie) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-04-08 | [`crystal-d.com`](https://google.com/search?q=crystal-d.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-03-14 | [`Indiv Usa`](https://google.com/search?q=Indiv+Usa) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-03-14 | [`Bancroft Wines`](https://google.com/search?q=Bancroft+Wines) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-03-14 | [`mdm-insurance.com`](https://google.com/search?q=mdm-insurance.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
-| 2025-03-13 | [`fstlogistics.com`](https://google.com/search?q=fstlogistics.com) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
