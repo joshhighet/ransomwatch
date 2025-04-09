@@ -1,1 +1,1041 @@
-<!DOCTYPE html><html lang=en><meta charset=utf-8><meta name=viewport content="initial-scale=1, minimum-scale=1, width=device-width"><title>Error 502</title><style>*{margin:0;padding:0}html{font:15px/22px arial,sans-serif;background: #fff;color:#222;padding:15px}body{margin:7% auto 0;max-width:390px;min-height:180px;padding:30px 0 15px}p{margin:11px 0 22px;overflow :hidden}ins{color:#777;text-decoration :none;}</style><p><b>502 - Bad Gateway .</b> <ins>That’s an error.</ins><p>Looks like we have got an invalid response from the upstream server.  <ins>That’s all we know.</ins>
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8"/>
+    <title>Visitor anti-robot validation</title>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="robots" content="noindex, nofollow" />
+<meta name="keywords" content="joomla, Joomla, joomla 1.5, wordpress 2.5, Drupal" />
+<meta name="description" content="Joomla!" />
+<meta name="generator" content="Joomla! 1.5 - Open Source Content Management" />
+<meta name="generator" content="WordPress 2.5" />
+    <style>
+      html,
+      body,
+      div,
+      span,
+      applet,
+      object,
+      iframe,
+      h1,
+      h2,
+      h3,
+      h4,
+      h5,
+      h6,
+      p,
+      blockquote,
+      pre,
+      a,
+      abbr,
+      acronym,
+      address,
+      big,
+      cite,
+      code,
+      del,
+      dfn,
+      em,
+      img,
+      ins,
+      kbd,
+      q,
+      s,
+      samp,
+      small,
+      strike,
+      strong,
+      sub,
+      sup,
+      tt,
+      var,
+      b,
+      u,
+      i,
+      center,
+      dl,
+      dt,
+      dd,
+      ol,
+      ul,
+      li,
+      fieldset,
+      form,
+      label,
+      legend,
+      table,
+      caption,
+      tbody,
+      tfoot,
+      thead,
+      tr,
+      th,
+      td,
+      article,
+      aside,
+      canvas,
+      details,
+      embed,
+      figure,
+      figcaption,
+      footer,
+      header,
+      hgroup,
+      menu,
+      nav,
+      output,
+      ruby,
+      section,
+      summary,
+      time,
+      mark,
+      audio,
+      video {
+        margin: 0;
+        padding: 0;
+        border: 0;
+        font-size: 100%;
+        font: inherit;
+        vertical-align: baseline;
+      }
+
+      b {
+        font-weight: bold;
+      }
+
+      /* HTML5 display-role reset for older browsers */
+      article,
+      aside,
+      details,
+      figcaption,
+      figure,
+      footer,
+      header,
+      hgroup,
+      menu,
+      nav,
+      section {
+        display: block;
+      }
+
+      body {
+        line-height: 1;
+      }
+
+      ol,
+      ul {
+        list-style: none;
+      }
+
+      blockquote,
+      q {
+        quotes: none;
+      }
+
+      blockquote:before,
+      blockquote:after,
+      q:before,
+      q:after {
+        content: none;
+      }
+
+      table {
+        border-collapse: collapse;
+        border-spacing: 0;
+      }
+
+      html,
+      body {
+        font-family: -apple-system, BlinkMacSystemFont, "Calibri", Roboto,
+          Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+        line-height: 150%;
+      }
+
+      .page-container {
+        background-color: transparent;
+        max-width: 460px;
+        margin: auto;
+      }
+      .page-container .contact-support {
+        color: #979797;
+        font-size: 12px;
+        padding: 10px 20px;
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+      }
+      .page-container .contact-support > div {
+        flex: 1 0;
+      }
+      @media screen and (min-width: 460px) {
+        .page-container .contact-support {
+          flex-direction: row;
+          padding: 15px 40px;
+        }
+      }
+      .page-container .card {
+        padding: 28px;
+        margin: 0 auto 30px auto;
+        background: #ffffff;
+        font-size: 14px;
+      }
+      @media screen and (min-width: 460px) {
+        .page-container .card {
+          box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+          border-radius: 10px;
+          font-size: 18px;
+        }
+      }
+      .page-container .card.alert {
+        border: 2px solid #c40000;
+      }
+      .page-container .card.alert .title {
+        font-weight: bold;
+      }
+      .page-container .card.alert p {
+        padding: 10px 0;
+      }
+      .page-container .captcha-container {
+        margin-top: -20px;
+      }
+      @media screen and (min-width: 460px) {
+        .page-container .captcha-container {
+          padding: 10px 10px;
+        }
+      }
+      .page-container .captcha-container .logo {
+        display: block;
+        max-height: 77px;
+        margin: auto;
+        padding-top: 20px;
+      }
+
+      .page-container .captcha-container .container-header {
+        display: flex;
+        align-items: center;
+      }
+
+      .page-container .captcha-container .title {
+        font-size: 24px;
+        padding: 30px 0 15px 0;
+        font-weight: bold;
+      }
+      .page-container .captcha-container .captcha {
+        padding: 30px 0;
+        text-align: center;
+      }
+      .page-container .captcha-container .captcha .g-recaptcha {
+        display: inline-block;
+      }
+      .page-container .captcha-container .domain {
+        font-weight: bold;
+      }
+      .page-container .captcha-container .description {
+        padding: 20px 0;
+      }
+      .page-container .captcha-container .ip-info {
+        font-size: 12px;
+        line-height: 14px;
+        color: #979797;
+      }
+      .page-container .captcha-container .ip-info b {
+        color: #c40000;
+        font-weight: bold;
+      }
+      .page-container .captcha-container #moreInfoDropdown {
+        font-size: 14px;
+        text-align: center;
+        color: #c40000;
+        cursor: pointer;
+      }
+      .page-container .captcha-container #moreInfo {
+        font-size: 14px;
+        color: #979797;
+        padding-top: 20px;
+        display: none;
+        text-align: center;
+        line-height: 150%;
+      }
+
+      #languageDropdown {
+        background-color: transparent;
+        border: none;
+        cursor: pointer;
+        margin-top: -20px;
+        text-align-last: right;
+        text-align: right;
+      }
+
+      .delist-button {
+        font-family: "Roboto", sans-serif;
+        font-size: 14px;
+        background-color: #c40000;
+        color: white;
+        padding: 8px 20px;
+        border-radius: 5px;
+        text-transform: uppercase;
+        outline: none;
+        border: none;
+        cursor: pointer;
+        font-weight: 400;
+        letter-spacing: 1px;
+      }
+      @media screen and (min-width: 460px) {
+        .delist-button {
+          padding: 18px 40px;
+          font-size: 18px;
+        }
+      }
+
+      select:focus {
+        outline: none;
+      }
+
+      footer {
+        color: #979797;
+        font-size: 12px;
+        text-align: center;
+        width: 100%;
+      }
+
+      .center {
+        text-align: center;
+      }
+
+      .right {
+        text-align: right;
+      }
+
+      .visible {
+        display: block !important;
+      }
+
+      .invisible {
+        display: none !important;
+      }
+
+      input {
+        -webkit-appearance: none;
+        -moz-appearance: none;
+        appearance: none;
+      }
+
+      .form-actions {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-top: 30px;
+      }
+
+      .flex-center {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 100%;
+      }
+    </style>
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script
+      async
+      src="https://www.googletagmanager.com/gtag/js?id=UA-1975075-20"
+    ></script>
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"
+    />
+
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag("js", new Date());
+
+      gtag("config", "UA-1975075-20");
+      gtag("event", "screen_view", {
+        screen_name: "Captcha Page",
+      });
+    </script>
+
+    <script>
+      function adaptiveColor(
+        hex,
+        darkColor = "#000000",
+        lightColor = "#FFFFFF"
+      ) {
+        if (hex.indexOf("#") === 0) {
+          hex = hex.slice(1);
+        }
+        // convert 3-digit hex to 6-digits.
+        if (hex.length === 3) {
+          hex = hex[0] + hex[0] + hex[1] + hex[1] + hex[2] + hex[2];
+        }
+        if (hex.length !== 6) {
+          throw new Error("Invalid HEX color.");
+        }
+        let r = parseInt(hex.slice(0, 2), 16),
+          g = parseInt(hex.slice(2, 4), 16),
+          b = parseInt(hex.slice(4, 6), 16);
+
+        return r * 0.299 + g * 0.587 + b * 0.114 > 186 ? darkColor : lightColor;
+      }
+    </script>
+
+    <script>
+      var languages = {
+        en: "English",
+        es: "Spanish",
+        fr: "French",
+        gr: "Greek",
+        hu: "Hungarian",
+        id: "Bahasa Indonesia",
+        it: "Italian",
+        nl: "Dutch",
+        pl: "Polish",
+        pt: "Portuguese",
+        ru: "Russian",
+        tr: "Turkish",
+        de: "German",
+        vi: "Vietnamese",
+        dk: "Danish",
+        sa: "Arabic",
+        ja: "Japanese",
+      };
+
+      var rtlLanguages = ["sa"];
+
+      var translations = {};
+
+      translations["de"] = {
+        TITLE: "Lieber Besucher",
+        SUBTITLE:
+          "Bitte lÃ¶sen Sie das <b>CAPTCHA</b> unten, um weiter zu surfen und uns bei der BekÃ¤mpfung von CyberkriminalitÃ¤t zu helfen.",
+        SUBMIT: "LÃ¶schen meiner IP",
+        HEADING: "Warum ist das notwenig?",
+        PRE_BODY: "Ihre IP Adresse",
+        POST_BODY:
+          "wurde aus SicherheitsgrÃ¼nden gesperrt.<br>Vermutlich wurde Ihre IP-Adresse zuvor fÃ¼r die Verletzung von Server-Sicherheitsregeln verwendet.<br>Wir mÃ¼ssen sicherstellen, dass dies kein bÃ¶sartiger, automatisierter Besuch eines Roboters ist.<br>Nachdem Sie sich durch das <b>CAPTCHA</b> validiert haben, wird Ihre IP-Adresse aus der Greylist von BitNinja entfernt.",
+        BEST_REGARDS: "Vielen Dank.",
+        SIGNATURE: "Das BitNinja Team",
+        ACCESSING: "Zugriff",
+        SECURELY: "sicher.",
+        PROCESS: "Dies ist ein automatischer Prozess. Ihr Browser wird",
+        SECONDS: "Sekunden zu Ihrem angeforderten Inhalt weiterleiten.",
+        CHECK: "Sicherheitscheck von BitNinja.IO",
+        YOUR_IP: "Ihre IP-Adresse",
+      };
+      translations["en"] = {
+        TITLE: "Dear visitor",
+        SUBTITLE:
+          "To continue browsing and help us fight cybercrime, please solve the <b>CAPTCHA</b> you see below.",
+        SUBMIT: "Delist",
+        HEADING: "Why is it necessary?",
+        PRE_BODY: "Your IP address",
+        POST_BODY:
+          "has been blocked for security reasons.<br>Probably your IP address has been used for violation of server security rules before.<br>We have to make sure that this is not a malicious, automated visit by a robot.<br>After you validate yourself by the <b>CAPTCHA</b>, your IP will be removed from BitNinja's greylist.",
+        BEST_REGARDS: "Thank you.",
+        SIGNATURE: "The BitNinja Team",
+        ACCESSING: "Accessing",
+        SECURELY: "securely.",
+        PROCESS:
+          "This is an automatic process. Your browser will redirect to your requested content in",
+        SECONDS: "seconds",
+        CHECK: "Security check by BitNinja.IO",
+        YOUR_IP: "Your IP address",
+      };
+      translations["es"] = {
+        TITLE: "Estimado Visitante,",
+        SUBTITLE: "Demuestra que no eres un robot seleccionÃ¡ndolo debajo.",
+        SUBMIT: "Desbloquear IP",
+        HEADING: "Â¿Por quÃ© esto es necesario?",
+        PRE_BODY:
+          "Su direcciÃ³n IP actual ha sido bloqueada por razones de seguridad. Probablemente su IP ha sido utilizada anteriormente para infringir la seguridad de algÃºn servidor de la red Bit-Ninja.",
+        POST_BODY:
+          "Necesitamos estar seguros de que quien estÃ© detras del computador sea una persona y no el software de un Hacker. Por favor rellene el Captcha. Al rellenar correctamente el Captcha, su IP actual, serÃ¡ eliminada automÃ¡ticamente de nuestra lista de IP's maliciosas.",
+        BEST_REGARDS: "Muchas Gracias.",
+        SIGNATURE: "El equipo de BitNinja ",
+        ACCESSING: "Accediendo a",
+        SECURELY: "con seguridad.",
+        PROCESS:
+          "Es un proceso automÃ¡tico. Tu buscador te redirigirÃ¡ a tu contenido requerido dentro de",
+        SECONDS: "segundos",
+        CHECK: "Control de seguridad por BitNinja.IO",
+        YOUR_IP: "Su direcciÃ³n IP",
+      };
+      translations["fr"] = {
+        TITLE: "Cher visiteur,",
+        SUBTITLE:
+          "Pour continuer votre navigation et nous aider Ã  combattre le crime informatique, veuillez rÃ©soudre le <b>CAPTCHA</b> que vous voyez ci-dessous.",
+        SUBMIT: "Enlever mon adresse IP",
+        HEADING: "Pourquoi est-ce nÃ©cessaire?",
+        PRE_BODY: "Votre adresse IP",
+        POST_BODY:
+          "a Ã©tÃ© bloquÃ©e pour des raisons de sÃ©curitÃ©.<br>Votre adresse IP a probablement dÃ©jÃ  Ã©tÃ© utilisÃ©e pour violation des rÃ¨gles de sÃ©curitÃ© du serveur.<br>Nous devons nous assurer qu'il ne s'agit pas d'une visite malveillante et automatisÃ©e d'un bot.<br>AprÃ¨s s'Ãªtre validÃ© Ã  travers le <b>CAPTCHA</b>, votre adresse IP sera supprimÃ©e de la liste grise de BitNinja.",
+        BEST_REGARDS: "Merci.",
+        SIGNATURE: "L'Ã©quipe BitNinja",
+        ACCESSING: "Ouverture",
+        SECURELY: "en sÃ©curitÃ©",
+        PROCESS:
+          "Ceci est un processus automatique. Votre navigateur se redirigera vers votre contenu demandÃ© en",
+        SECONDS: "secondes",
+        CHECK: "Test de sÃ©curitÃ© par BitNinja.IO",
+        YOUR_IP: "Votre adresse IP",
+      };
+      translations["gr"] = {
+        TITLE: "ÎÎ³Î±ÏÎ·ÏÎ­ ÎµÏÎ¹ÏÎºÎ­ÏÏÎ·",
+        SUBTITLE:
+          "ÎÎ¹Î± Î½Î± ÏÏÎ½ÎµÏÎ¯ÏÎµÏÎµ Î½Î± ÏÎµÏÏÎ¬ÏÎµÏÎµ ÎºÎ±Î¹ Î½Î± Î¼Î±Ï Î²Î¿Î·Î¸Î®ÏÎµÏÎµ Î½Î± ÎºÎ±ÏÎ±ÏÎ¿Î»ÎµÎ¼Î®ÏÎ¿ÏÎ¼Îµ ÏÎ¿ Î·Î»ÎµÎºÏÏÎ¿Î½Î¹ÎºÏ Î­Î³ÎºÎ»Î·Î¼Î±, ÏÎ±ÏÎ±ÎºÎ±Î»Ï ÏÏÎ¼ÏÎ»Î·ÏÏÏÏÎµ ÏÎ¿ Captcha.",
+        SUBMIT: "ÎÏÎ±Î¯ÏÎµÏÎµ ÏÎ·Î½ IP Î¼Î¿Ï",
+        HEADING: "ÎÎ¹Î±ÏÎ¯ ÎµÎ¯Î½Î±Î¹ Î±ÏÎ±ÏÎ±Î¯ÏÎ·ÏÎ¿;",
+        PRE_BODY: "Î Î´Î¹ÎµÏÎ¸ÏÎ½ÏÎ· IP",
+        POST_BODY:
+          "Î­ÏÎµÎ¹ Î¼ÏÎ»Î¿ÎºÎ±ÏÎ¹ÏÏÎµÎ¯ Î³Î¹Î± Î»ÏÎ³Î¿ÏÏ Î±ÏÏÎ±Î»ÎµÎ¯Î±Ï.<br>ÎÎ½Î´ÎµÏÎ¿Î¼Î­Î½ÏÏ Î· Î´Î¹ÎµÏÎ¸ÏÎ½ÏÎ· IP ÏÎ±Ï Î½Î± Î­ÏÎµÎ¹ ÏÏÎ·ÏÎ¹Î¼Î¿ÏÎ¿Î¹Î·Î¸ÎµÎ¯ Î³Î¹Î± ÏÎ±ÏÎ¬Î²Î±ÏÎ· ÏÏÎ½ ÎºÎ±Î½Î¿Î½Î¹ÏÎ¼ÏÎ½ Î±ÏÏÎ¬Î»ÎµÎ¹Î±Ï ÏÎ¿Ï  ÎµÎ¾ÏÏÎ·ÏÎµÏÎ·ÏÎ® ÏÏÎ¿ ÏÎ±ÏÎµÎ»Î¸ÏÎ½.<br>Î ÏÎ­ÏÎµÎ¹ Î½Î± Î²ÎµÎ²Î±Î¹ÏÎ¸Î¿ÏÎ¼Îµ ÏÏÏ Î±ÏÏÏ Î´ÎµÎ½ ÎµÎ¯Î½Î±Î¹ Î¼Î¹Î± ÎºÎ±ÎºÏÎ²Î¿ÏÎ»Î·, Î±ÏÏÏÎ¼Î±ÏÎ· ÎµÏÎ¯ÏÎºÎµÏÎ· Î±ÏÏ Î­Î½Î± ÏÎ¿Î¼ÏÏÏ.<br>ÎÎµÏÎ¬ ÏÎ·Î½ ÏÎ±ÏÏÎ¿ÏÎ¿Î¯Î·ÏÎ· ÏÎ±Ï Î±ÏÏ ÏÎ¿ Captcha, Î· IP ÏÎ±Ï Î¸Î± Î±ÏÎ±Î¹ÏÎµÎ¸ÎµÎ¯ Î±ÏÏ ÏÎ· Î³ÎºÏÎ¯Î¶Î± Î»Î¯ÏÏÎ± ÏÎ¿Ï BitNinja.",
+        BEST_REGARDS: "Î£Î±Ï ÎµÏÏÎ±ÏÎ¹ÏÏÎ¿ÏÎ¼Îµ.",
+        SIGNATURE: "Î Î¿Î¼Î¬Î´Î± ÏÎ¿Ï BitNinja",
+        YOUR_IP: "ÏÎ· Î´Î¹ÎµÏÎ¸ÏÎ½ÏÎ· IP ÏÎ±Ï",
+      };
+      translations["hu"] = {
+        TITLE: "Kedves lÃ¡togatÃ³!",
+        SUBTITLE:
+          "A weboldal biztonsÃ¡gos elÃ©rÃ©sÃ©hez kÃ©rjÃ¼k, tÃ¶ltse ki az alÃ¡bbi ellenÅrzÅ mezÅt.",
+        SUBMIT: "IP eltÃ¡volÃ­tÃ¡sa",
+        HEADING: "MiÃ©rt szÃ¼ksÃ©ges ez?",
+        PRE_BODY: "Az Ãn",
+        POST_BODY:
+          "IP cÃ­me biztonsÃ¡gi okokbÃ³l blokkolva lett. Az IP cÃ­mrÅl olyan kÃ©rÃ©s Ã©rkezett a szerverre korÃ¡bban, amely megsÃ©rtette a szerver biztonsÃ¡gi elÅÃ­rÃ¡sait.<br>Meg kell bizonyosodjunk rÃ³la, hogy ezen lÃ¡togatÃ¡s nem egy kÃ¡rtÃ©kony automatizÃ¡lt robot lekÃ©rdezÃ©s. KÃ©rem, tÃ¶ltse ki a fentebbi <b>CAPTCHA</b> ellenÅrzÅ mezÅt, hogy IP cÃ­me feloldÃ¡sra kerÃ¼ljÃ¶n.",
+        BEST_REGARDS: "KÃ¶szÃ¶njÃ¼k egyÃ¼ttmÅ±kÃ¶dÃ©sÃ©t,",
+        SIGNATURE: "A Bitninja csapata",
+        ACCESSING: "A",
+        SECURELY: "oldal biztonsÃ¡gos elÃ©rÃ©se.",
+        PROCESS:
+          "Ez egy automatikus mÅ±velet. A bÃ¶ngÃ©szÅ Ã¡t fog irÃ¡nyÃ­tani a kÃ©rt oldalra",
+        SECONDS: "mÃ¡sodpercen belÃ¼l",
+        CHECK: "BitNinja biztonsÃ¡gi ellenÅrzÃ©s",
+        YOUR_IP: "IP cÃ­me",
+      };
+      translations["id"] = {
+        TITLE: "Salam pengunjung",
+        SUBTITLE:
+          "Untuk melanjutkan browsing dan membantu kami melawan kejahatan cybee, mohon isi Captcha berikut.",
+        SUBMIT: "Hapus IP saya",
+        HEADING: "Mengapa ini wajib dilakukan?",
+        PRE_BODY: "Alamat IP Anda",
+        POST_BODY:
+          "telah diblokir karena alasan keamanan.<br>Kemungkinan besar alamat IP Anda telah digunakan untuk melanggar aturan keamanan server sebelumnya.<br>Kami harus memastikan bahwa ini tidak berbahaya, kunjungan otomatis oleh robot.<br>Setelah memvalidasi diri dengan Captcha, IP Anda akan dihapus dari daftar abu-abu BitNinja.",
+        BEST_REGARDS: "Terima kasih.",
+        SIGNATURE: "Tim BitNinja",
+        YOUR_IP: "alamat IP Anda",
+      };
+      translations["it"] = {
+        TITLE: "Gentile Visitatore,",
+        SUBTITLE:
+          "Per continuare a navigare e per aiutarci a combattere la criminalitÃ  informatica, ti preghiamo di risolvere il <b>CAPTCHA</b> che vedi sotto.",
+        SUBMIT: "Elimina il mio IP",
+        HEADING: "PerchÃ© Ã¨ necessario?",
+        PRE_BODY: "Il tuo indirizzo IP",
+        POST_BODY:
+          "Ã¨ stato bloccato per ragioni di sicurezza.<br>E' probabile che il tuo indirizzo IP sia stato usato in precedenza per la violazione delle norme di sicurezza del server.<br>Dobbiamo assicurarci che questa non sia una visita da parte di un robot automatico.<br>Dopo la verifica della tua identitÃ  attraverso il <b>CAPTCHA</b>, il tuo IP verrÃ  rimosso dalla greylist di BitNinja.",
+        BEST_REGARDS: "Grazie.",
+        SIGNATURE: "Il Team di BitNinja",
+        ACCESSING: "Accesso",
+        SECURELY: "in sicurezza",
+        PROCESS:
+          "Questo Ã¨ un processo automatico. Il tuo browser ti reinderizzerÃ  al contenuto richiesto in",
+        SECONDS: "secondi.",
+        CHECK: "Controlo di sicurezza di BitNinja",
+        YOUR_IP: "il tuo indirizzo IP",
+      };
+      translations["nl"] = {
+        TITLE: "Geachte bezoeker",
+        SUBTITLE:
+          "Om met het browsen verder te gaan en ons te helpen cybercriminaliteit te bestrijden, moet u de onderstaande <b>CAPTCHA</b> oplossen.",
+        SUBMIT: "Verwijder mijn IP",
+        HEADING: "Waarom is het noodzakelijk?",
+        PRE_BODY: "Uw IP-adres",
+        POST_BODY:
+          "is vanwege veiligheidsmaatregelen geblokkeerd.<br>Uw IP-adres is waarschijnlijk geblokkeerd vanwege het eerder overtreden van de veiligheidsregels van de server.<br>Wij moeten zeker weten dat dit geen kwaadaardig en automatisch bezoek is van een robot.<br>Nadat u zichzelf heeft gevalideerd met de <b>CAPTCHA</b>, zal uw IP van BitNinja's grijze lijst worden verwijderd.",
+        BEST_REGARDS: "Dank u.",
+        SIGNATURE: "Het BitNinja Team",
+        ACCESSING: "Veilig toegang krijgen tot",
+        SECURELY: "",
+        PROCESS:
+          "Dit is een automatisch process. Uw browser zal u doorverwijzen naar uw in",
+        SECONDS: "seconden",
+        CHECK: "Security Check door BitNinja.IO",
+        YOUR_IP: "uw IP adres",
+      };
+      translations["pl"] = {
+        TITLE: "Drogi uÅ¼ytkowniku,",
+        SUBTITLE:
+          "By kontynuowaÄ I pomÃ³c nam w walce z cyberprzestÄpczoÅciÄ prosimy rozwiÄÅ¼ poniÅ¼sze <b>CAPTCHA</b>",
+        SUBMIT: "UsuÅ moje IP",
+        HEADING: "Dlaczego to jest konieczne?",
+        PRE_BODY: "TwÃ³j adres IP",
+        POST_BODY:
+          "zostaÅ zablokowany z powodÃ³w bezpieczeÅstwa.<br>Prawdopodobnie twÃ³j adres IP zostaÅ wczeÅniej uÅ¼yty do naruszenia zasad bezpieczeÅstwa serwera.<br>Musimy siÄ upewniÄ, Å¼e to nie jest zÅoÅliwa automatyczna wizyta robota.<br>Po walidacji przez Captcha twoje IP zostanie usuniÄte z szarej listy BitNinja.",
+        BEST_REGARDS: "DziÄkujemy.",
+        SIGNATURE: "Ekipa BitNinja",
+        ACCESSING: "Bezpieczne Åadowanie",
+        SECURELY: "",
+        PROCESS:
+          "To automatyczny proces. Twoja przeglÄdarka przekieruje ciÄ do docelowej zawartoÅci w",
+        SECONDS: "",
+        CHECK: "Skan bezpieczeÅstwa autorstwa BitNinja.IO",
+        YOUR_IP: "twÃ³j adres IP",
+      };
+      translations["pt"] = {
+        TITLE: "Caro visitante",
+        SUBTITLE:
+          "Para continuar a navegar e para nos ajudar a combater o cibercrime, por favor, preencha o Captcha.",
+        SUBMIT: "Remover o meu IP",
+        HEADING: "PorquÃª Ã© necessÃ¡rio?",
+        PRE_BODY: "O seu endereÃ§o IP",
+        POST_BODY:
+          "oi bloqueado por razÃµes de seguranÃ§a.<br>Provavelmente o seu endereÃ§o IP foi usado antes para violar as regras do servidor.<br>NÃ³s temos de ter a certeza que isto nÃ£o Ã© malicioso, como uma visita automÃ¡tica efectuada por um robot.<br>Depois de vocÃª se validar pelo Captcha, o seu IP serÃ¡ removido da greylist do BitNinja.",
+        BEST_REGARDS: "Obrigado.",
+        SIGNATURE: "A equipa BitNinja",
+        YOUR_IP: "seu endereÃ§o IP",
+      };
+      translations["ru"] = {
+        TITLE: "Ð£Ð²Ð°Ð¶Ð°ÐµÐ¼ÑÐ¹ Ð¿Ð¾ÑÐµÑÐ¸ÑÐµÐ»Ñ,",
+        SUBTITLE:
+          "Ð§ÑÐ¾Ð±Ñ Ð¿ÑÐ¾Ð´Ð¾Ð»Ð¶Ð°ÑÑ Ð¿ÑÐ¾ÑÐ¼Ð¾ÑÑ Ð¸ Ð½Ð°Ð¼ Ð¿Ð¾Ð¼Ð¾Ð³Ð°ÑÑ Ð² Ð±Ð¾ÑÑÐ±Ðµ Ñ ÐºÐ¸Ð±ÐµÑÐ¿ÑÐµÑÑÑÐ¿Ð½Ð¾ÑÑÑÑ Ð¿ÑÐ¾ÑÑÐ±Ð° Ð²Ð²ÐµÐ´Ð¸ÑÑ ÐºÐ¾Ð´ Ñ ÐºÐ°ÑÑÐ¸Ð½ÐºÐ¸ Ð²Ñ Ð¼Ð¾Ð¶ÐµÑÐµ Ð²Ð¸Ð´ÐµÑÑ Ð½Ð¸Ð¶Ðµ.",
+        SUBMIT: "Ð£Ð´Ð°Ð»Ð¸ÑÑ Ð¼Ð¾Ð¹ IP-Ð°Ð´ÑÐµÑ",
+        HEADING: "ÐÐ¾ÑÐµÐ¼Ñ ÑÑÐ¾ Ð²Ð°Ð¶Ð½Ð¾?",
+        PRE_BODY: "ÐÐ°Ñ IP-Ð°Ð´ÑÐµÑ",
+        POST_BODY:
+          "Ð±ÑÐ» Ð·Ð°Ð±Ð»Ð¾ÐºÐ¸ÑÐ¾Ð²Ð°Ð½ Ð¿Ð¾ ÑÐ¾Ð¾Ð±ÑÐ°Ð¶ÐµÐ½Ð¸ÑÐ¼ Ð±ÐµÐ·Ð¾Ð¿Ð°ÑÐ½Ð¾ÑÑÐ¸.<br>ÐÐ°Ñ IP-Ð°Ð´ÑÐµÑ Ð²ÐµÑÐ¾ÑÑÐ½Ð¾ Ð¸ÑÐ¿Ð¾Ð»ÑÐ·Ð¾Ð²Ð°Ð»ÑÑÑ Ð´Ð»Ñ Ð½Ð°ÑÑÑÐµÐ½Ð¸Ñ Ð¿ÑÐ°Ð²Ð¸Ð»Ð¾Ð² Ð±ÐµÐ·Ð¾Ð¿Ð°ÑÐ½Ð¾ÑÑÐ¸ ÑÐµÑÐ²ÐµÑÐ° ÑÐ°Ð½ÑÑÐµ.<br>ÐÑ ÑÐ¾ÑÐ¸Ð¼ ÑÐ´Ð¾ÑÑÐ¾Ð²ÐµÑÐ¸ÑÑÑÑ Ð² ÑÐ¾Ð¼, ÑÑÐ¾ ÑÑÐ¾ Ð½Ðµ Ð²ÑÐµÐ´Ð¾Ð½Ð¾ÑÐ½Ð¾Ð³Ð¾ Ð°Ð²ÑÐ¾Ð¼Ð°ÑÐ¸ÑÐµÑÐºÐ¾Ð³Ð¾ Ð¿Ð¾ÑÐµÑÐµÐ½Ð¸Ñ ÑÐ¾Ð±Ð¾ÑÐ¾Ð¼.<br>ÐÐ¾ÑÐ»Ðµ Ð²Ð°ÑÐµÐ¹ Ð¿ÑÐ¾Ð²ÐµÑÐºÐ¸ ÐºÐ¾Ð´Ð¾Ð¼ Captcha Ð²Ð°Ñ IP-Ð°Ð´ÑÐµÑ Ð±ÑÐ´ÐµÑ ÑÐ´Ð°Ð»ÑÐ½ Ð¸Ð· ÑÐµÑÐ¾Ð³Ð¾ ÑÐ¿Ð¸ÑÐºÐ° BitNinja.",
+        BEST_REGARDS: "ÐÐ¾Ð»ÑÑÐ¾Ðµ ÑÐ¿Ð°ÑÐ¸Ð±Ð¾.",
+        SIGNATURE: "ÐÑÑÐ¿Ð¿Ð° BitNinja",
+        ACCESSING: "Ð¿Ð¾Ð»ÑÑÐ°ÑÑ Ð´Ð¾ÑÑÑÐ¿ Ðº",
+        SECURELY: "Ð±ÐµÐ·Ð¾Ð¿Ð°ÑÐ½Ð¾",
+        PROCESS:
+          "Ð­ÑÐ¾Ñ Ð¿ÑÐ¾ÑÐµÑÑ ÑÐ²Ð»ÑÐµÑÑÑ Ð°Ð²ÑÐ¾Ð¼Ð°ÑÐ¸ÑÐµÑÐºÐ¸Ð¼. ÐÐ°Ñ Ð±ÑÐ°ÑÐ·ÐµÑ Ð±ÑÐ´ÐµÑ Ð¿ÐµÑÐµÐ½Ð°Ð¿ÑÐ°Ð²Ð»ÐµÐ½ Ðº Ð·Ð°ÑÑÐµÐ±Ð¾Ð²Ð°Ð½Ð½Ð¾Ð¼Ñ ÐºÐ¾Ð½ÑÐµÐ½ÑÑ Ð·Ð°",
+        SECONDS: "ÑÐµÐºÑÐ½Ð´.Ì¸Ñ.",
+        CHECK: "ÐÑÐ¾Ð²ÐµÑÐºÐ° Ð±ÐµÐ·Ð¾Ð¿Ð°ÑÐ½Ð¾ÑÑÐ¸ ÑÐ¸ÑÑÐµÐ¼Ñ BitNinja.IO",
+        YOUR_IP: "Ð²Ð°Ñ IP-Ð°Ð´ÑÐµÑ",
+      };
+      translations["tr"] = {
+        TITLE: "SayÄ±n ziyaretÃ§i",
+        SUBTITLE:
+          "Taramaya devam etmek ve siber suÃ§larla mÃ¼cadele etmemize yardÄ±mcÄ± olmak iÃ§in aÅaÄÄ±da gÃ¶rdÃ¼ÄÃ¼nÃ¼z <b>CAPTCHA</b>'yi Ã§Ã¶zÃ¼n lÃ¼tfen.",
+        SUBMIT: "Benim IP-mi kaldÄ±rÄ±n",
+        HEADING: "Neden gereklidir?",
+        PRE_BODY: "IP adresiniz",
+        POST_BODY:
+          "gÃ¼venlik nedeniyle engellendi.<br>BÃ¼yÃ¼k ihtimal ki, IP adresiniz Ã¶nce sunucu gÃ¼venlik kurallarÄ±nÄ±n ihlali iÃ§in kullanÄ±lmÄ±ÅtÄ±r.<br>Bunun bir robot tarafÄ±ndan kÃ¶tÃ¼ niyetli, otomatik bir ziyaret olmasÄ±ndan emin olmalÄ±yÄ±z.<br>Captcha tarafÄ±ndan onaylandÄ±ktan sonra, IP adresiniz BitNinja'nÄ±n greylistinden kaldÄ±rÄ±lacaktÄ±r.",
+        BEST_REGARDS: "TeÅekkÃ¼r ederim.",
+        SIGNATURE: "BitNinja TakÄ±mÄ±",
+        ACCESSING: "EriÅim",
+        SECURELY: "gÃ¼venli",
+        PROCESS:
+          "Bu otomatik bir iÅlemdir. TarayÄ±cÄ±nÄ±z talep edilen iÃ§eriÄinize saniyeler iÃ§inde yÃ¶nlendirilecek.",
+        SECONDS: "",
+        CHECK: "BitNinja tarafÄ±ndan gÃ¼venlik kontrolÃ¼.",
+        YOUR_IP: "IP adresiniz",
+      };
+      translations["vi"] = {
+        TITLE: "ChÃ o quÃ½ khÃ¡ch",
+        SUBTITLE:
+          " Äá» tiáº¿p tá»¥c truy cáº­p vÃ  giÃºp chÃºng tÃ´i chá»ng láº¡i cÃ¡c tá»i pháº¡m máº¡ng, xin vui lÃ²ng Äiá»n cÃ¡c kÃ½ tá»± theo hÃ¬nh bÃªn dÆ°á»i.",
+        SUBMIT: "Gá»¡ bá»",
+        HEADING: "VÃ¬ sao viá»c nÃ y cáº§n thiáº¿t?",
+        PRE_BODY: "IP cá»§a báº¡n lÃ ",
+        POST_BODY:
+          "ÄÃ£ bá» cháº·n vÃ¬ lÃ½ do an toÃ n. CÃ³ láº½ IP cá»§a báº¡n trÆ°á»c ÄÃ¢y ÄÃ£ ÄÆ°á»£c sá»­ dá»¥ng Äá» tham gia cÃ¡c hoáº¡t Äá»ng vi pháº¡m cÃ¡c quy Äá»nh báº£o máº­t cá»§a há» thá»ng mÃ¡y chá»§. ChÃºng tÃ´i cáº§n pháº£i Äáº£m báº£o ráº±ng truy cáº­p nÃ y khÃ´ng Äá»c háº¡i vÃ  tá»± Äá»ng ÄÆ°á»£c thá»±c hiá»n bá»i robot. Sau khi xÃ¡c thá»±c báº±ng mÃ£ Captcha, IP cá»§a báº¡n sáº½ ÄÆ°á»£c gá»¡ khá»i danh sÃ¡ch xÃ¡m cá»§a BitNinja.",
+        BEST_REGARDS: "Cáº£m Æ¡n",
+        SIGNATURE: "Äá»i ngÅ© BitNinja",
+        YOUR_IP: "Äá»a chá» IP cá»§a báº¡n",
+      };
+      translations["dk"] = {
+        TITLE: "KÃ¦re besÃ¸gende",
+        SUBTITLE:
+          "For at fortsÃ¦tte med at browse, og for at hjÃ¦lpe os med at bekÃ¦mpe cyberkriminalitet, sÃ¥ lÃ¸s venligst CAPTCHAen herunder.",
+        SUBMIT: "Bliv fjernet fra listen",
+        HEADING: "Hvorfor er det nÃ¸dvendigt?",
+        PRE_BODY: "Din IP-adresse ",
+        POST_BODY:
+          "er blevet blokeret af sikkerhedsmÃ¦ssige Ã¥rsager.<br>Din IP-adresse er formentlig blevet brugt til at omgÃ¥ serversikkerhedsregler pÃ¥ et tidligere tidspunkt.<br>Vi er derfor nÃ¸dt til at sikre os, at dette ikke er et ondsindet, automatisk besÃ¸g foretaget af en robot.<br>Du kan blive valideret ved hjÃ¦lp af CAPTCHAen, hvorefter din IP vil blive fjernet fra BitNinjas grÃ¥ liste.",
+        BEST_REGARDS: "PÃ¥ forhÃ¥nd tak,",
+        SIGNATURE: "Teamet hos BitNinja",
+        ACCESSING: "Adgand",
+        SECURELY: "ordentligt.",
+        PROCESS:
+          "Dette er en automatisk proces. Din browser vil omdirigere til din anmodet indhold i",
+        SECONDS: "sekunder",
+        CHECK: "Sikkerhedscheck af BitNinja.IO",
+        YOUR_IP: "Din IP-adresse",
+      };
+      translations["sa"] = {
+        TITLE: "",
+        SUBTITLE:
+          "ï»¿ÙÙØªØ§Ø¨Ø¹Ø© Ø§ÙØªØµÙØ­ ÙÙØ³Ø§Ø¹Ø¯ØªÙØ§ ÙÙ ÙÙØ§ÙØ­Ø© Ø§ÙØ¬Ø±Ø§Ø¦Ù Ø§ÙØ¥ÙÙØªØ±ÙÙÙØ© Ø ÙØ±Ø¬Ù Ø­Ù Ø§Ø®ØªØ¨Ø§Ø± <b>CAPTCHA</b> Ø§ÙØ°Ù ØªØ±Ø§Ù Ø£Ø¯ÙØ§Ù.",
+        HEADING: "ÙÙØ§Ø°Ø§ ÙÙ Ø¶Ø±ÙØ±ÙØ",
+        PRE_BODY: "ØªÙ Ø­Ø¸Ø± Ø¹ÙÙØ§Ù IP Ø§ÙØ®Ø§Øµ Ø¨Ù ",
+        POST_BODY:
+          " ÙØ£Ø³Ø¨Ø§Ø¨ Ø£ÙÙÙØ©.<br> Ø±Ø¨ÙØ§ ØªÙ Ø§Ø³ØªØ®Ø¯Ø§Ù Ø¹ÙÙØ§Ù IP Ø§ÙØ®Ø§Øµ Ø¨Ù ÙØ§ÙØªÙØ§Ù ÙÙØ§Ø¹Ø¯ Ø£ÙØ§Ù Ø§ÙØ®Ø§Ø¯Ù ÙÙ ÙØ¨Ù.<br> Ø¹ÙÙÙØ§ Ø£Ù ÙØªØ£ÙØ¯ ÙÙ Ø£Ù ÙØ°Ù ÙÙØ³Øª Ø²ÙØ§Ø±Ø© Ø¶Ø§Ø±Ø© Ø¢ÙÙØ© ÙÙ ÙØ¨Ù Ø§ÙØ±ÙØ¨ÙØª. Ø¨Ø¹Ø¯ Ø§ÙØªØ­ÙÙ ÙÙ ØµØ­Ø© ÙÙØ³Ù Ø¨ÙØ§Ø³Ø·Ø© Ø§Ø®ØªØ¨Ø§Ø± <b>CAPTCHA</b> Ø Ø³ØªØªÙ Ø¥Ø²Ø§ÙØ© Ø¹ÙÙØ§Ù IP Ø§ÙØ®Ø§Øµ Ø¨Ù ÙÙ ÙØ§Ø¦ÙØ© BitNinja.",
+        BEST_REGARDS: "Ø´ÙØ±Ø§ ÙÙÙ.",
+        SIGNATURE: "Ø´ÙØ±Ø§ ÙÙÙ. ÙØ±ÙÙ BitNinja",
+        YOUR_IP: "Ø¹ÙÙØ§Ù IP Ø§ÙØ®Ø§Øµ Ø¨Ù",
+      };
+      translations["ja"] = {
+        TITLE: "è¨ªåèæ§",
+        SUBTITLE:
+          "ãã©ã¦ã¸ã³ã°ãç¶ããå½ç¤¾ã®ãµã¤ãã¼ç¯ç½ªã¨ã®éããæå©ãããããã«ãä¸è¨ã®ã­ã£ããã£ãå®è¡ãã¦ãã ããã",
+        SUBMIT: "ãªã¹ãããåé¤",
+        HEADING: "ãªãå¿è¦ãªã®ã§ããï¼",
+        PRE_BODY: "ã»ã­ã¥ãªãã£ä¸ã®çç±ã§ããªãã®IPã¢ãã¬ã¹",
+        POST_BODY:
+          "ã¯ãã­ãã¯ããã¦ãã¾ãã<br>ããããããªãã®IPã¢ãã¬ã¹ã¯ä»¥åã«ãµã¼ãã¼ã»ã­ã¥ãªãã£ã«ã¼ã«éåã«å©ç¨ãããã¨èãããã¾ãã<br>å½ç¤¾ã¯ããªãã®è¨ªåãã­ãããã«ããæªæã®ããèªååãããè¨ªåã§ã¯ãªããã¨ãç¢ºèªããå¿è¦ãããã¾ãã<br>ã­ã£ããã£ãå®è¡ãæ¤è¨¼ããå¾ãããªãã®IPã¢ãã¬ã¹ã¯BitNinjaã®ã°ã¬ã¼ãªã¹ãããåé¤ããã¾ãã",
+        BEST_REGARDS: "ãããããé¡ããããã¾ãã",
+        SIGNATURE: "BitNinjaãã¼ã ",
+        ACCESSING: "ã¢ã¯ã»ã¹ä¸­",
+        SECURELY: "å®å¨ã«",
+        PROCESS:
+          "ãã¡ãã¯èªåãã­ã»ã¹ã§ããããªãã®ãã©ã¦ã¶ã¯è¦æ±ãããã³ã³ãã³ãã«ãªãã¤ã¬ã¯ããã¾ãã",
+        SECONDS: "ç§",
+        CHECK: "BitNinja.IOã«ããã»ã­ã¥ãªãã£ãã§ãã¯",
+        YOUR_IP: "ããªãã®IPã¢ãã¬ã¹",
+      };
+    </script>
+
+    <script>
+      var regex = /((([a-zA-Z]+(-[a-zA-Z0-9]+){0,2})|\*)(;q=[0-1](\.[0-9]+)?)?)*/g;
+
+      var isString = function (s) {
+        return typeof s === "string";
+      };
+
+      function parse(al) {
+        var strings = (al || "").match(regex);
+        return strings
+          .map(function (m) {
+            if (!m) {
+              return;
+            }
+
+            var bits = m.split(";");
+            var ietf = bits[0].split("-");
+            var hasScript = ietf.length === 3;
+
+            return {
+              code: ietf[0],
+              script: hasScript ? ietf[1] : null,
+              region: hasScript ? ietf[2] : ietf[1],
+              quality: bits[1] ? parseFloat(bits[1].split("=")[1]) : 1.0,
+            };
+          })
+          .filter(function (r) {
+            return r;
+          })
+          .sort(function (a, b) {
+            return b.quality - a.quality;
+          });
+      }
+
+      function pick(supportedLanguages, acceptLanguage, options) {
+        options = options || {};
+
+        if (
+          !supportedLanguages ||
+          !supportedLanguages.length ||
+          !acceptLanguage
+        ) {
+          return null;
+        }
+
+        if (isString(acceptLanguage)) {
+          acceptLanguage = parse(acceptLanguage);
+        }
+
+        var supported = supportedLanguages.map(function (support) {
+          var bits = support.split("-");
+          var hasScript = bits.length === 3;
+
+          return {
+            code: bits[0],
+            script: hasScript ? bits[1] : null,
+            region: hasScript ? bits[2] : bits[1],
+          };
+        });
+
+        for (var i = 0; i < acceptLanguage.length; i++) {
+          var lang = acceptLanguage[i];
+          var langCode = lang.code.toLowerCase();
+          var langRegion = lang.region
+            ? lang.region.toLowerCase()
+            : lang.region;
+          var langScript = lang.script
+            ? lang.script.toLowerCase()
+            : lang.script;
+          for (var j = 0; j < supported.length; j++) {
+            var supportedCode = supported[j].code.toLowerCase();
+            var supportedScript = supported[j].script
+              ? supported[j].script.toLowerCase()
+              : supported[j].script;
+            var supportedRegion = supported[j].region
+              ? supported[j].region.toLowerCase()
+              : supported[j].region;
+            if (
+              langCode === supportedCode &&
+              (options.loose ||
+                !langScript ||
+                langScript === supportedScript) &&
+              (options.loose || !langRegion || langRegion === supportedRegion)
+            ) {
+              return supportedLanguages[j];
+            }
+          }
+        }
+
+        return null;
+      }
+    </script>
+  </head>
+
+  <body>
+    <div class="page-container">
+      <div class="contact-support info">
+        <!--
+        <div>
+            <p>Company</p>
+            <p>info@company.com</p>
+        </div>
+        <div>
+            <p>USA: +1 234 567 88</p>
+            <p>EU: +44 55 6666 777</p>
+        </div>
+        -->
+      </div>
+
+      <noscript>
+        <div class="alert card">
+          <div class="title">Your browser does not support JavaScript!</div>
+          <p>Please enable Javascript and refresh this page!</p>
+        </div>
+      </noscript>
+
+      <div class="card">
+        <div class="captcha-container">
+
+          <div class="container-header">
+            <div class="bn-logo">
+            <img class="img-responsive logo" alt="BitNinja" src="data:image/png;base64,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">            
+            </div>
+            <div class="right">
+              <select id="languageDropdown" class="link"></select>
+            </div>
+          </div>
+          
+          <div class="title js-lang-TITLE"></div>
+
+          <div class="description js-lang-SUBTITLE"></div>
+
+          <div class="ip-info info">
+            <span class="js-lang-YOUR_IP"></span>:
+            <b class="primary"> 186.2.160.34</b>
+            <!-- â BNI: 552aebbdf8d1b9f8 -->
+          </div>
+
+          <div class="center">
+            <div class="captcha">
+              <form method="post" >
+                <div class="flex-center">
+                  <script src="https://recaptcha.net/recaptcha/api.js" async defer></script>
+                    <div class="g-recaptcha" data-sitekey="6LdvpRAUAAAAAJkr4psZnXC4TeOEVPwP_bEQrP24"></div>
+                </div>
+
+                <input type="hidden" name="origin_url" value="/" />
+
+                <div class="form-actions">
+                  <input type="submit" class="delist-button js-lang-SUBMIT" value="Delist" />
+
+                  <!-- <div id="moreInfoDropdown" class="link">
+                    <span class="js-lang-HEADING"></span> âµ
+                  </div> -->
+                </div>
+              </form>
+            </div>
+            <div id="moreInfo">
+              <span class="js-lang-PRE_BODY"></span>
+              <span class="js-lang-POST_BODY"></span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <footer class="info js-lang-CHECK"></footer>
+
+    <script>
+      // Use and calculate colors:
+
+      const primaryColor = "#c00000";
+      const backgroundColor = "#fff";
+
+      var fallbackLanguage = { code: "en" };
+
+      // Detect browser language
+
+      var browserLanguages = [
+        ...parse(window.navigator.language),
+        fallbackLanguage,
+      ];
+
+      var languageDropdown = document.getElementById("languageDropdown");
+
+      languageDropdown.addEventListener(
+        "change",
+        function () {
+          translate([{ code: languageDropdown.value }, fallbackLanguage]);
+        },
+        false
+      );
+
+      for (const langCode in translations) {
+        var opt = document.createElement("option");
+        opt.value = langCode;
+        opt.innerHTML = languages[langCode];
+        opt.selected = browserLanguages[0].code === langCode;
+
+        languageDropdown.appendChild(opt);
+      }
+
+      // More info dropdown
+
+      var moreInfoDropdown = document.getElementById("moreInfoDropdown");
+
+      moreInfoDropdown.addEventListener(
+        "click",
+        function () {
+          if(document.getElementById("moreInfo").className === 'visible') {
+            document.getElementById("moreInfo").className = "invisible";
+          } else {
+            document.getElementById("moreInfo").className = "visible";
+          }
+        },
+        false
+      );
+    </script>
+
+    <script>
+      var translationMap = {};
+
+      function translate(browserLanguages) {
+        if (rtlLanguages.indexOf(browserLanguages[0].code) !== -1) {
+          document.body.setAttribute("dir", "rtl");
+        } else {
+          document.body.setAttribute("dir", "ltr");
+        }
+
+        browserLanguages.reverse().forEach((lang, idx) => {
+          if (typeof translations[lang.code] !== "undefined") {
+            var languageMap = translations[lang.code];
+
+            for (const [key, value] of Object.entries(languageMap)) {
+              translationMap[key] = value;
+            }
+          }
+        });
+
+        for (const key in translationMap) {
+          if (translationMap.hasOwnProperty(key)) {
+            const replace = translationMap[key];
+            Array.from(
+              document.getElementsByClassName("js-lang-" + key)
+            ).forEach(function (element) {
+              if (element) {
+                element.innerHTML = replace;
+              }
+
+              if (element.value) {
+                element.value = replace;
+              }
+            });
+          }
+        }
+      }
+
+      translate(browserLanguages);
+    </script>
+    <script>
+      try {
+        document.body.style.backgroundColor = backgroundColor;
+        document.body.style.color = adaptiveColor(backgroundColor);
+
+        document.querySelectorAll("button").forEach(function (el) {
+          el.style.backgroundColor = primaryColor;
+          el.style.color = adaptiveColor(primaryColor);
+        });
+
+        document.querySelectorAll(".card").forEach(function (el) {
+          el.style.backgroundColor = backgroundColor;
+        });
+
+        document.querySelectorAll(".primary").forEach(function (el) {
+          el.style.color = primaryColor;
+        });
+
+        document.querySelectorAll(".link").forEach(function (el) {
+          el.style.color = primaryColor;
+        });
+
+        document.querySelectorAll(".info").forEach(function (el) {
+          el.style.color = adaptiveColor(backgroundColor, "#333", "#979797");
+        });
+      } catch (e) {}
+    </script>
+  </body>
+
+  <!--
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<a href='index.php?option=com_dshop'>This contact form is about /components/com_dshop/ </a><br>
+<a href='index.php?option=com_jobprofile'>This contact form is about /components/com_jobprofile/ </a><br>
+<a href='index.php?option=com_fckeditor'>This contact form is about /components/com_fckeditor/ </a><br>
+<a href='index.php?option=com_acajoom'>This contact form is about /components/com_acajoom/ </a><br>
+<a href='index.php?option=com_content'>This contact form is about /components/com_content/ </a><br>
+<a href='index.php?option=com_phocagallery'>This contact form is about /components/com_phocagallery/ </a><br>
+<a href='index.php?option=com_mailto'>This contact form is about /components/com_mailto/ </a><br>
+<a href='index.php?option=com_qcontacts'>This contact form is about /components/com_qcontacts/ </a><br>
+<a href='index.php?option=com_jevents'>This contact form is about /components/com_jevents/ </a><br>
+<a href='index.php?option=com_contact'>This contact form is about /components/com_contact/ </a><br>
+<a href='index.php?option=com_search'>This contact form is about /components/com_search/ </a><br>
+<a href='index.php?option=com_virtuemart'>This contact form is about /components/com_virtuemart/ </a><br>
+<a href='index.php?option=com_google'>This contact form is about /components/com_google/ </a><br>
+<a href='index.php?option=com_oziogallery2'>This contact form is about /components/com_oziogallery2/ </a><br>
+<a href='index.php?option=fckeditor/editor/filemanager/connectors/uploadtest.html'>This contact form is about /components/fckeditor/editor/filemanager/connectors/uploadtest.html/ </a><br>
+<a href='index.php?option=FCKeditor - Uploaders Tests'>This contact form is about /components/FCKeditor - Uploaders Tests/ </a><br>
+<a href='index.php?option=phpmyadmin'>This contact form is about /components/phpmyadmin/ </a><br>
+<a href='index.php?option=phpmyadmin2'>This contact form is about /components/phpmyadmin2/ </a><br>
+
+<a href="demo/GHH%20-%20Haxplorer/1.php?param=honey">GHDB Signature #833 (filetype:php HAXPLORER &quot;Server Files Browser&quot;)</a><br>
+<br>
+<a href="demo/GHH%20-%20PHP%20Ping/php-ping.php?param=honey">GHDB Signature #733 (&quot;Enter ip&quot; inurl:&quot;php-ping.php&quot;)</a><br>
+<br>
+<a href="demo/GHH%20-%20PHP%20Shell/phpshell.php?param=honey">GHDB Signature #365 (intitle:&quot;PHP Shell *&quot; &quot;Enable stderr&quot; filetype:php)</a><br>
+<br>
+<a href="demo/GHH%20-%20PHPBB%20Install/phpBB2/install/install.php?param=honey">GHDB Signature #935 (inurl:&quot;install/install.php&quot;)</a><br>
+<br>
+<a href="demo/GHH%20-%20PHPFM/index.php?param=honey">GHDB Signature #361 (&quot;Powered by PHPFM&quot; filetype:php -username)
+</a><br><br>
+<a href="demo/GHH%20-%20PhpSysInfo/index.php?param=honey">GHDB Signature #161 (inurl:phpSysInfo/ &quot;created by phpsysinfo&quot;)</a><br><br>
+<a href="demo/GHH%20-%20SquirrelMail/src/login.php?param=honey">GHDB Signature #1013 (&quot;SquirrelMail version 1.4.4&quot; inurl:src ext:php)</a> <br><br>
+<a href="/demo/?GHH v1.1 - WebUtil 2.7">GHDB Signature #1013 (&quot;SquirrelMail version 1.4.4&quot; inurl:src ext:php)</a> <br><br>
+<a href="/demo/?GHH v1.1 - .mdb/admin.mdb">GHDB Signature #162 (allinurl: admin mdb)</a> <br><br>
+<a href="/demo/?GHH v1.1 - .sql/create.sql">GHDB Signature #1064 (filetype:sql ("passwd values" | "password values" | "pass values" ))</a> <br><br>
+<a href="/demo/?GHH v1.1 - AIM BuddyList/BuddyList.blt">GHDB Signature #937 (filetype:blt "buddylist")</a> <br><br>
+<a href="/demo/?GHH v1.1 - File Upload Manager/">GHDB Signature #734 ("File Upload Manager v1.3" "rename to")</a> <br><br>
+<a href="/demo/?GHH v1.1 - passlist.txt/passlist.txt">GHDB Signature #58 (inurl:passlist.txt)</a> <br><br>
+<a href="/demo/?GHH v1.1 - passwd.txt/passwd.txt">GHDB Signature #1122 (wwwboard WebAdmin inurl:passwd.txt</a> <br><br>
+<a href="/demo/?GHH v1.1 - WebUtil 2.7/webutil.pl">GHDB Signature #769 (inurl:webutil.pl)</a> <br><br>
+--> <!--
+<a href="mailto:info@ninjamailtrap.com"></a>
+-->
+
+  <img
+    src="https://admin.bitninja.io/cookieimg.php"
+    rel="nofollow"
+    style="display: none"
+  />
+</html>
