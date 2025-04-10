@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-04-10 | [`inspec-international.com`](https://google.com/search?q=inspec-international.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-04-10 | [`3P Corporation`](https://google.com/search?q=3P+Corporation) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2025-04-10 | [`silocaf.com`](https://google.com/search?q=silocaf.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-04-10 | [`finetech.de`](https://google.com/search?q=finetech.de) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-03-16 | [`Courageous Home Care`](https://google.com/search?q=Courageous+Home+Care) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2025-03-15 | [`yeanshalle.de`](https://google.com/search?q=yeanshalle.de) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-03-14 | [`Perrigo Company`](https://google.com/search?q=Perrigo+Company) | [termite](https://ransomwatch.telemetry.ltd/#/profiles?id=termite) |
-| 2025-03-14 | [`Fulcrum Lifting`](https://google.com/search?q=Fulcrum+Lifting) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
