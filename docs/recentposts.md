@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-04-10 | [`finetech.de`](https://google.com/search?q=finetech.de) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-04-10 | [`chesterfieldtwp.org`](https://google.com/search?q=chesterfieldtwp.org) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-04-09 | [`ccso2014.local(sheriffs)`](https://google.com/search?q=ccso2014.local%28sheriffs%29) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-04-09 | [`gramoll.com`](https://google.com/search?q=gramoll.com) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-03-14 | [`Fulcrum Lifting`](https://google.com/search?q=Fulcrum+Lifting) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-03-14 | [`Casale Del Giglio`](https://google.com/search?q=Casale+Del+Giglio) | [orca](https://ransomwatch.telemetry.ltd/#/profiles?id=orca) |
 | 2025-03-14 | [`idcconstruction.com`](https://google.com/search?q=idcconstruction.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2025-03-14 | [`jennyyoo.com`](https://google.com/search?q=jennyyoo.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
