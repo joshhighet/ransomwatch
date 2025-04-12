@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-04-12 | [`bilbie.com.au`](https://google.com/search?q=bilbie.com.au) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-04-12 | [`Bjørklund`](https://google.com/search?q=Bj%C3%B8rklund) | [termite](https://ransomwatch.telemetry.ltd/#/profiles?id=termite) |
 | 2025-04-12 | [`Restaurant Associates`](https://google.com/search?q=Restaurant+Associates) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-04-11 | [`Colmar Industrial Supplies`](https://google.com/search?q=Colmar+Industrial+Supplies) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-03-18 | [`airtelligence.com`](https://google.com/search?q=airtelligence.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-03-18 | [`Harcourts Prime Properties`](https://google.com/search?q=Harcourts+Prime+Properties) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2025-03-17 | [`www.baxterlaboratories.com`](https://google.com/search?q=www.baxterlaboratories.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2025-03-17 | [`ccktech.com`](https://google.com/search?q=ccktech.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
