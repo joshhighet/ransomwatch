@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-04-15 | [`Lake HVAC`](https://google.com/search?q=Lake+HVAC) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-04-15 | [`nevadareadymix.com`](https://google.com/search?q=nevadareadymix.com) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-04-15 | [`trocaire.edu`](https://google.com/search?q=trocaire.edu) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-04-15 | [`Oregon Department of Environmental Quality`](https://google.com/search?q=Oregon+Department+of+Environmental+Quality) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-03-20 | [`www.janvier-labs.com`](https://google.com/search?q=www.janvier-labs.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-03-20 | [`Obra Play`](https://google.com/search?q=Obra+Play) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2025-03-20 | [`interiseworld.com`](https://google.com/search?q=interiseworld.com) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
-| 2025-03-20 | [`Newtown Friends School (newtownfriends.org)`](https://google.com/search?q=Newtown+Friends+School+%28newtownfriends.org%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
