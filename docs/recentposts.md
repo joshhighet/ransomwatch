@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-04-16 | [`Seneca Gaming &amp; Entertainment `](https://google.com/search?q=Seneca+Gaming+%26amp%3B+Entertainment+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
 | 2025-04-16 | [`McElwee Firm`](https://google.com/search?q=McElwee+Firm) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-04-16 | [`semex.com`](https://google.com/search?q=semex.com) | [underground](https://ransomwatch.telemetry.ltd/#/profiles?id=underground) |
 | 2025-04-16 | [`toolsign.com`](https://google.com/search?q=toolsign.com) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-03-21 | [`https://www.orangeville.ca`](https://google.com/search?q=https%3A%2F%2Fwww.orangeville.ca) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2025-03-21 | [`www.mslglobalexp.com`](https://google.com/search?q=www.mslglobalexp.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-03-20 | [`yano.tokyo`](https://google.com/search?q=yano.tokyo) | [blackout](https://ransomwatch.telemetry.ltd/#/profiles?id=blackout) |
-| 2025-03-20 | [`Whittaker &amp; Company`](https://google.com/search?q=Whittaker+%26amp%3B+Company) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
