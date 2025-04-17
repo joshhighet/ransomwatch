@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-04-17 | [`Koninklijke Ahold Delhaize N.V.`](https://google.com/search?q=Koninklijke+Ahold+Delhaize+N.V.) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-04-17 | [`Red Chamber`](https://google.com/search?q=Red+Chamber) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-04-16 | [`aqhch.com.cn`](https://google.com/search?q=aqhch.com.cn) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2025-04-16 | [`jackpotjunction.com`](https://google.com/search?q=jackpotjunction.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-03-21 | [`www.core-1.com`](https://google.com/search?q=www.core-1.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-03-21 | [`www.esquirebrands.com`](https://google.com/search?q=www.esquirebrands.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-03-21 | [`www.avalonapparel.com`](https://google.com/search?q=www.avalonapparel.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2025-03-21 | [`www.oneupinnovations.com`](https://google.com/search?q=www.oneupinnovations.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
