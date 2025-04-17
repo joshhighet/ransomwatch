@@ -380,7 +380,7 @@ document.querySelectorAll('[np]').forEach(link => {
         }, 1000);
       }</script>
       
-      <pin id="pin-aBmDRA0OHxIXK7DbDAIpMb9x" stat="2" 
+      <pin id="pin-aBmDRA0OHxIXK7DbDAIpMb9x" stat="0" 
         pinned="1">
         <in>
           <top>
@@ -388,13 +388,26 @@ document.querySelectorAll('[np]').forEach(link => {
               <img src="static/svg/locales/sa.svg" />              <subtitle><span>Royal Saudi Air Force</span></subtitle>
             </l>
             <r>
-                              <span class="price">€350000</span>
+                              <span class="countdown">--:--:--</span>
+                <script>
+                  // Initialize the countdown on page load
+                  document.addEventListener("DOMContentLoaded", function() {
+                    const countdown = document.querySelector("pin#pin-aBmDRA0OHxIXK7DbDAIpMb9x in top r span.countdown");
+                    if (countdown) {
+                      docount(countdown, 0, "aBmDRA0OHxIXK7DbDAIpMb9x", 0, false);
+                    }
+                  });
+                </script>
                           </r>
           </top>
           <cat></cat>
           <infs>
             <item><ctitle>Update</ctitle><cont>Announcement 3</cont></item>
-                                    <item><ctitle>Status</ctitle><cont><i class="fa fa-thumbtack"></i> Featured</cont></item>
+            <item>
+              <ctitle>Disclosures</ctitle>
+              <cont>3/3</cont>
+            </item>
+                                                <item><ctitle>Status</ctitle><cont><i class="fa fa-thumbtack"></i> Featured</cont></item>
                       </infs>
         </in>
       </pin>
@@ -405,7 +418,7 @@ document.querySelectorAll('[np]').forEach(link => {
         <a s="3" tab>Published</a>
         <a s="4" tab>Announcements</a>
       </opt>
-      <ls>                <a post href="?pid=aBmDRA0OHxIXK7DbDAIpMb9x" onclick="displayPost('aBmDRA0OHxIXK7DbDAIpMb9x');" tags="royal saudi air force gov.sa" id="aBmDRA0OHxIXK7DbDAIpMb9x" stat="2" 
+      <ls>                <a post href="?pid=aBmDRA0OHxIXK7DbDAIpMb9x" onclick="displayPost('aBmDRA0OHxIXK7DbDAIpMb9x');" tags="royal saudi air force gov.sa" id="aBmDRA0OHxIXK7DbDAIpMb9x" stat="1" 
                                                             pinned="1"
                                                             title="Royal Saudi Air Force - gov.sa [Pinned]">
                   <in>
@@ -416,13 +429,18 @@ document.querySelectorAll('[np]').forEach(link => {
                         </subtitle>
                       </l>
                       <r>
-                                                  <span class="price">€350000</span>
+                                                  <span class="countdown">--:--:--</span>
+                          <script>docount(document.getElementById('aBmDRA0OHxIXK7DbDAIpMb9x').querySelector('top r .countdown'),1744690200,"aBmDRA0OHxIXK7DbDAIpMb9x",0,false);</script>
                                               </r>
                     </top>
                     <cat></cat>
                     <infs>
                       <item><ctitle>Update</ctitle><cont>Announcement 3</cont></item>
-                                                                  <item><ctitle>Status</ctitle><cont><i class="fa fa-thumbtack"></i> Featured</cont></item>
+                      <item>
+                        <ctitle>Disclosures</ctitle>
+                        <cont>3/3</cont>
+                      </item>
+                                                                                        <item><ctitle>Status</ctitle><cont><i class="fa fa-thumbtack"></i> Featured</cont></item>
                                           </infs>
                   </in>
                 </a>
@@ -4010,14 +4028,15 @@ document.addEventListener("DOMContentLoaded", function() {
     </script>
         <!-- Show regular post content -->
     <vpost id="view-aBmDRA0OHxIXK7DbDAIpMb9x" 
-        stat="2" 
+        stat="0" 
         pinned="1"        >
       <shade></shade>
       <h>
         <in>
           <st>Royal Saudi Air Force</st>
           <img src="[object FileList]"/>        </in>
-                    <count>€350,000</count>             </h>
+                    <count>--:--:--</count><script>document.addEventListener("DOMContentLoaded", function() {docount(document.querySelector("vpost h count"),1744690200,"aBmDRA0OHxIXK7DbDAIpMb9x",0,false);
+                docount(document.querySelector("pin in top r"),1744690200,"aBmDRA0OHxIXK7DbDAIpMb9x",0,false);});</script>             </h>
       <sp><div></div></sp>
       <brief>
         <card>
@@ -4037,26 +4056,31 @@ document.addEventListener("DOMContentLoaded", function() {
  ------------------------------------ 10% OF THE DATA IS PUBLISHED: https://gofile.io/d/4LhqGC</p>
             <infs>
               <item><ctitle>Update</ctitle><cont>Announcement 3</cont></item>
-            </infs>
+              <item>
+                <ctitle>Disclosures</ctitle>
+                <cont>3/3</cont>
+              </item>
+                          </infs>
           </in>
         </card>
-                                        <card class="rs">
+                                        
+                                  <card class="rs">
                                     <in>
-                                      <h2>PURCHASE</h2><h><h1>€350,000</h1></h>
+                                      <h2>DATA</h2><h><h1>PUBLISHED</h1></h>
                                       <cont>
-                                        <p>This data is for sale. Contact us if interested in it.</p>
+                                        <p>All the disclosures had been published. Go to each disclosure to download its data.</p>
                                       </cont>
                                     </in>
                                   </card>                                    </brief>
-              <discls><disc id="d-SOpwMXi9KP1hBe0eUUZqKVi2" stat="2"><indicator><icn></icn><div></div></indicator><cont><top><l><span>1% Data</span></l><r><span>Published</span></r></top><cat></cat><p>1% of the data is published</p><gallery id="gallery-ze1Bl6gqhvvsl9Nv0Q11abKQ"></gallery><a onclick="showdir('https://gofile.io/d/sG69sf');" class='btn'><inner>
+              <discls><disc id="d-a8W0zFZ2Ph10wSfgjZM25AAG" stat="2"><indicator><icn></icn><div></div></indicator><cont><top><l><span>1% Data</span></l><r><span>Published</span></r></top><cat></cat><p>1% of the data is published</p><gallery id="gallery-FrD4osZNzneHxW79eHwrhf22"></gallery><a onclick="showdir('https://gofile.io/d/sG69sf');" class='btn'><inner>
                      <svg xmlns='http://www.w3.org/2000/svg' height='18' viewBox='0 0 24 24' width='18'>
                      <path d='M19 9h-4V3H9v6H5l7 7 7-7zM5 18v2h14v-2H5z' fill='#000'/></svg>
                      <label>Download</label>
-                     </inner></a></cont></disc><disc id="d-SzyQkYCnchfMP6mogACoySoG" stat="2"><indicator><icn></icn><div></div></indicator><cont><top><l><span>10% data</span></l><r><span>Published</span></r></top><cat></cat><p>10% of the data is published</p><gallery id="gallery-jrM4sg6yE8aY5OAz0B9WwMTK"></gallery><a onclick="showdir('https://gofile.io/d/4LhqGC');" class='btn'><inner>
+                     </inner></a></cont></disc><disc id="d-Yyz7RMIxVzTytagrQc2teBOo" stat="2"><indicator><icn></icn><div></div></indicator><cont><top><l><span>10% data</span></l><r><span>Published</span></r></top><cat></cat><p>10% of the data is published</p><gallery id="gallery-HQaXWbek0svWXlZu9PuihYZG"></gallery><a onclick="showdir('https://gofile.io/d/4LhqGC');" class='btn'><inner>
                      <svg xmlns='http://www.w3.org/2000/svg' height='18' viewBox='0 0 24 24' width='18'>
                      <path d='M19 9h-4V3H9v6H5l7 7 7-7zM5 18v2h14v-2H5z' fill='#000'/></svg>
                      <label>Download</label>
-                     </inner></a></cont></disc><disc id="d-bWtY50J8amLWnkNkVWiE3lCl" stat="2"><indicator><icn></icn></indicator><cont><top><l><span>All Data</span></l><r><span>Published</span></r></top><cat></cat><p> If you are an authorized representative to negotiate on behalf of this company, submit your application via the session messenger. We also accept your offers.</p><gallery id="gallery-cgRjSIspSEspKxoCuMnFkFmC"><img src="
+                     </inner></a></cont></disc><disc id="d-w5CSKk6FqZDrkxreI0FlIAdh" stat="2"><indicator><icn></icn></indicator><cont><top><l><span>All Data</span></l><r><span>Published</span></r></top><cat></cat><p> If you are an authorized representative to negotiate on behalf of this company, submit your application via the session messenger. We also accept your offers.</p><gallery id="gallery-PU6duNEbbIs9pQquNUFavGCW"><img src="
 http://ks5424y3wpr5zlug5c7i6svvxweinhbdcqcfnptkfcutrncfazzgz5id.onion/img/sample/fbb1dff854055156.png"><img src="
 http://ks5424y3wpr5zlug5c7i6svvxweinhbdcqcfnptkfcutrncfazzgz5id.onion/img/sample/ed353198b4a1baf5.png"><img src="
 http://ks5424y3wpr5zlug5c7i6svvxweinhbdcqcfnptkfcutrncfazzgz5id.onion/img/sample/46f3554c6ae05e15.png"><img src="
@@ -4068,7 +4092,7 @@ http://ks5424y3wpr5zlug5c7i6svvxweinhbdcqcfnptkfcutrncfazzgz5id.onion/img/sample
 http://ks5424y3wpr5zlug5c7i6svvxweinhbdcqcfnptkfcutrncfazzgz5id.onion/img/sample/2e69044182a72bf5.png"><img src="
 http://ks5424y3wpr5zlug5c7i6svvxweinhbdcqcfnptkfcutrncfazzgz5id.onion/img/sample/51925a78e00d3357.png"><img src="
 http://ks5424y3wpr5zlug5c7i6svvxweinhbdcqcfnptkfcutrncfazzgz5id.onion/img/sample/3df58222734ed294.png"><img src="
-http://ks5424y3wpr5zlug5c7i6svvxweinhbdcqcfnptkfcutrncfazzgz5id.onion/img/sample/eacdbcd4bf3b940d.png"></gallery><script>new Viewer(document.getElementById("gallery-cgRjSIspSEspKxoCuMnFkFmC"));</script><a onclick="showdir('http://xo4o2o2ezgydykywn6zkyqx7toio6z5rzvmjyakgtgkk22vv7223jmqd.onion/uploads/RoyalSaudiAir Force-9785483');" class='btn'><inner>
+http://ks5424y3wpr5zlug5c7i6svvxweinhbdcqcfnptkfcutrncfazzgz5id.onion/img/sample/eacdbcd4bf3b940d.png"></gallery><script>new Viewer(document.getElementById("gallery-PU6duNEbbIs9pQquNUFavGCW"));</script><a onclick="showdir('http://xo4o2o2ezgydykywn6zkyqx7toio6z5rzvmjyakgtgkk22vv7223jmqd.onion/uploads/RoyalSaudiAir Force-9785483');" class='btn'><inner>
                      <svg xmlns='http://www.w3.org/2000/svg' height='18' viewBox='0 0 24 24' width='18'>
                      <path d='M19 9h-4V3H9v6H5l7 7 7-7zM5 18v2h14v-2H5z' fill='#000'/></svg>
                      <label>Download</label>
