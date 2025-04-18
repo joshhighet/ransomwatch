@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-04-18 | [`Global Media Group `](https://google.com/search?q=Global+Media+Group+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
 | 2025-04-17 | [`Sally B Gold`](https://google.com/search?q=Sally+B+Gold) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-04-17 | [`HOPI`](https://google.com/search?q=HOPI) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2025-04-17 | [`d-line`](https://google.com/search?q=d-line) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-03-21 | [`www.elizajennings.org`](https://google.com/search?q=www.elizajennings.org) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-03-21 | [`www.sinkdirect.com`](https://google.com/search?q=www.sinkdirect.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-03-21 | [`www.broadmoormethodist.org`](https://google.com/search?q=www.broadmoormethodist.org) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2025-03-21 | [`www.parklandmanufacturing.com`](https://google.com/search?q=www.parklandmanufacturing.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
