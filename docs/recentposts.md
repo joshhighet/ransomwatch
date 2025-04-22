@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-04-22 | [`Acos Favorit`](https://google.com/search?q=Acos+Favorit) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2025-04-21 | [`C-Mec`](https://google.com/search?q=C-Mec) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2025-04-21 | [`Pharma Force`](https://google.com/search?q=Pharma+Force) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2025-04-21 | [`tuttoperlufficio.eu`](https://google.com/search?q=tuttoperlufficio.eu) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-03-22 | [`Innovative Surfaces`](https://google.com/search?q=Innovative+Surfaces) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2025-03-22 | [`SPARSH Hospital`](https://google.com/search?q=SPARSH+Hospital) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2025-03-21 | [`gbsn.com.br`](https://google.com/search?q=gbsn.com.br) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2025-03-21 | [`www.scpautomation.com`](https://google.com/search?q=www.scpautomation.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
