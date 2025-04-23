@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-04-23 | [`amethystgroup.co.uk`](https://google.com/search?q=amethystgroup.co.uk) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-04-23 | [`Farmo Res`](https://google.com/search?q=Farmo+Res) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-04-23 | [`Milicic`](https://google.com/search?q=Milicic) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2025-04-23 | [`Springer & Steinberg`](https://google.com/search?q=Springer+%26+Steinberg) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-03-25 | [`www.rivaldt.com`](https://google.com/search?q=www.rivaldt.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-03-25 | [`OMLTD.CO.JP`](https://google.com/search?q=OMLTD.CO.JP) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-03-25 | [`technicare.com`](https://google.com/search?q=technicare.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2025-03-25 | [`Okeene Elementary School`](https://google.com/search?q=Okeene+Elementary+School) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
