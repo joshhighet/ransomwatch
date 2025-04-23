@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-04-23 | [`Mafi`](https://google.com/search?q=Mafi) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2025-04-23 | [`The Human Bean`](https://google.com/search?q=The+Human+Bean) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-04-23 | [`Suburban Carting`](https://google.com/search?q=Suburban+Carting) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-04-23 | [`NESCTC`](https://google.com/search?q=NESCTC) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-03-25 | [`texascompressionservices.com`](https://google.com/search?q=texascompressionservices.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-03-24 | [`allbiz.com`](https://google.com/search?q=allbiz.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-03-24 | [`TMT Clam Dredger`](https://google.com/search?q=TMT+Clam+Dredger) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-03-24 | [`www.exemplar.com`](https://google.com/search?q=www.exemplar.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
