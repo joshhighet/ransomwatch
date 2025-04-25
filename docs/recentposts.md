@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-04-25 | [`Stadtwerke Schwerte GmbH `](https://google.com/search?q=Stadtwerke+Schwerte+GmbH+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
 | 2025-04-25 | [`corporateflight.com`](https://google.com/search?q=corporateflight.com) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-04-25 | [`shgcpa.com`](https://google.com/search?q=shgcpa.com) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-04-25 | [`Kenworth Del Sur`](https://google.com/search?q=Kenworth+Del+Sur) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-03-27 | [`www.carolinaac.com`](https://google.com/search?q=www.carolinaac.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-03-27 | [`www.garbinc.com`](https://google.com/search?q=www.garbinc.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-03-26 | [`www.fkm-elemente.de`](https://google.com/search?q=www.fkm-elemente.de) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2025-03-26 | [`www.mododoc.com`](https://google.com/search?q=www.mododoc.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
