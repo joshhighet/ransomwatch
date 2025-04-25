@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-04-25 | [`M&#39;AR De AR Hotels`](https://google.com/search?q=M%26%2339%3BAR+De+AR+Hotels) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
 | 2025-04-25 | [` AKTO `](https://google.com/search?q=+AKTO+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
 | 2025-04-25 | [`friscochamber.com`](https://google.com/search?q=friscochamber.com) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-04-25 | [`greatplainstransport.com`](https://google.com/search?q=greatplainstransport.com) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-03-26 | [`www.ripplejunction.com`](https://google.com/search?q=www.ripplejunction.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-03-26 | [`TriCity Family Services`](https://google.com/search?q=TriCity+Family+Services) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-03-26 | [`www.creativelogisticservices.com`](https://google.com/search?q=www.creativelogisticservices.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2025-03-26 | [`www.afnigc.ca`](https://google.com/search?q=www.afnigc.ca) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
