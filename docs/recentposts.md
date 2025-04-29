@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-04-29 | [`Cooper Global Chauffeured`](https://google.com/search?q=Cooper+Global+Chauffeured) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-04-29 | [`BOLL Logistik`](https://google.com/search?q=BOLL+Logistik) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-04-29 | [`David Mills CPA, LLC`](https://google.com/search?q=David+Mills+CPA%2C+LLC) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-04-28 | [`Hpital Glengarry Memorial Hospital (clglen.local)`](https://google.com/search?q=Hpital+Glengarry+Memorial+Hospital+%28clglen.local%29) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-03-28 | [`entandallergy.com`](https://google.com/search?q=entandallergy.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
 | 2025-03-28 | [`amatechinc.com`](https://google.com/search?q=amatechinc.com) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-03-28 | [`Direct Traffic Control`](https://google.com/search?q=Direct+Traffic+Control) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
-| 2025-03-28 | [`W*******w.com`](https://google.com/search?q=W%2A%2A%2A%2A%2A%2A%2Aw.com) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
