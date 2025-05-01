@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-05-01 | [`StudioVaiani`](https://google.com/search?q=StudioVaiani) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-05-01 | [`The Saint James Hospital Group`](https://google.com/search?q=The+Saint+James+Hospital+Group) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-05-01 | [`WDEF-TV`](https://google.com/search?q=WDEF-TV) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-05-01 | [`maywdef`](https://google.com/search?q=maywdef) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-03-30 | [`www.assisi.nl`](https://google.com/search?q=www.assisi.nl) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-03-29 | [`importantsteps.com`](https://google.com/search?q=importantsteps.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-03-29 | [`bahnlog.com`](https://google.com/search?q=bahnlog.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-03-29 | [`Martin Mechanical (martin.local)`](https://google.com/search?q=Martin+Mechanical+%28martin.local%29) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
