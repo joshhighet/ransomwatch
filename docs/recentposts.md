@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-05-02 | [`arc-com.com`](https://google.com/search?q=arc-com.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2025-05-01 | [`Defected Records`](https://google.com/search?q=Defected+Records) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-05-01 | [`Custom Paper`](https://google.com/search?q=Custom+Paper) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-05-01 | [`StudioVaiani`](https://google.com/search?q=StudioVaiani) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-03-31 | [`test1234.com`](https://google.com/search?q=test1234.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2025-03-31 | [` SIRIUS S.R.L.`](https://google.com/search?q=+SIRIUS+S.R.L.) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
 | 2025-03-31 | [`AKTO`](https://google.com/search?q=AKTO) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
-| 2025-03-30 | [`www.assisi.nl`](https://google.com/search?q=www.assisi.nl) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
