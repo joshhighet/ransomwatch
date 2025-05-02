@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-05-02 | [`The Seydel Companies`](https://google.com/search?q=The+Seydel+Companies) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-05-02 | [`Southern Fidelity`](https://google.com/search?q=Southern+Fidelity) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-05-02 | [`ECOM America`](https://google.com/search?q=ECOM+America) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-05-02 | [`pdcm.com`](https://google.com/search?q=pdcm.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-04-01 | [`jackpotjunction.com`](https://google.com/search?q=jackpotjunction.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-03-31 | [`CMC Technology Group`](https://google.com/search?q=CMC+Technology+Group) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2025-03-31 | [`Meridian Senior`](https://google.com/search?q=Meridian+Senior) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2025-03-31 | [`Saunders and Saunders`](https://google.com/search?q=Saunders+and+Saunders) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
