@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-05-02 | [`[DISCLOSED]Imedexsa`](https://google.com/search?q=%5BDISCLOSED%5DImedexsa) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2025-05-02 | [`derichsukonertz.de`](https://google.com/search?q=derichsukonertz.de) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-05-02 | [`Government of Peru`](https://google.com/search?q=Government+of+Peru) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2025-05-02 | [`The Seydel Companies`](https://google.com/search?q=The+Seydel+Companies) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-04-01 | [`europtec.com`](https://google.com/search?q=europtec.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-04-01 | [`delta-life.com`](https://google.com/search?q=delta-life.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-04-01 | [`intellioan.com`](https://google.com/search?q=intellioan.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2025-04-01 | [`jackpotjunction.com`](https://google.com/search?q=jackpotjunction.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
