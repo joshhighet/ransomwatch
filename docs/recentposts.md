@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-05-03 | [`American Eagle Logistics - Press Release`](https://google.com/search?q=American+Eagle+Logistics+-+Press+Release) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2025-05-02 | [`runtec.co.jp`](https://google.com/search?q=runtec.co.jp) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-05-02 | [`[DISCLOSED]Imedexsa`](https://google.com/search?q=%5BDISCLOSED%5DImedexsa) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2025-05-02 | [`derichsukonertz.de`](https://google.com/search?q=derichsukonertz.de) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-04-01 | [`The Loretto Hospital`](https://google.com/search?q=The+Loretto+Hospital) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-04-01 | [`State&#39;s Attorney Office`](https://google.com/search?q=State%26%2339%3Bs+Attorney+Office) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
 | 2025-04-01 | [`europtec.com`](https://google.com/search?q=europtec.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2025-04-01 | [`delta-life.com`](https://google.com/search?q=delta-life.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
