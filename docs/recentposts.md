@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-05-09 | [`Gistic Research`](https://google.com/search?q=Gistic+Research) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-05-09 | [`EMX Enterprises`](https://google.com/search?q=EMX+Enterprises) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-05-09 | [`hennessyfunds.com`](https://google.com/search?q=hennessyfunds.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2025-05-09 | [`Mountain View Mushrooms`](https://google.com/search?q=Mountain+View+Mushrooms) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-04-08 | [`shengyusteel.com`](https://google.com/search?q=shengyusteel.com) | [underground](https://ransomwatch.telemetry.ltd/#/profiles?id=underground) |
 | 2025-04-07 | [`Galesburg Area Chamber of Commerce`](https://google.com/search?q=Galesburg+Area+Chamber+of+Commerce) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
 | 2025-04-07 | [`Telecontrol`](https://google.com/search?q=Telecontrol) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
-| 2025-04-07 | [`[DISCLOSED]Cell C`](https://google.com/search?q=%5BDISCLOSED%5DCell+C) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
