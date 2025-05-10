@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-05-10 | [`statesmanbiz.com`](https://google.com/search?q=statesmanbiz.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
 | 2025-05-10 | [`American Eagle Logistics - Full Leak`](https://google.com/search?q=American+Eagle+Logistics+-+Full+Leak) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2025-05-10 | [`Verrex`](https://google.com/search?q=Verrex) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-05-09 | [`Sweet Shop USA`](https://google.com/search?q=Sweet+Shop+USA) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-04-08 | [`https://www.thirdave.com`](https://google.com/search?q=https%3A%2F%2Fwww.thirdave.com) | [metaencryptor](https://ransomwatch.telemetry.ltd/#/profiles?id=metaencryptor) |
 | 2025-04-08 | [`Thiekon Constructie`](https://google.com/search?q=Thiekon+Constructie) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-04-08 | [`crystal-d.com`](https://google.com/search?q=crystal-d.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2025-04-08 | [`Coop57`](https://google.com/search?q=Coop57) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
