@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-05-11 | [`pryor-morrow.com`](https://google.com/search?q=pryor-morrow.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
 | 2025-05-11 | [`pratthomes.com`](https://google.com/search?q=pratthomes.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
 | 2025-05-11 | [`www.setpointsystems.com`](https://google.com/search?q=www.setpointsystems.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
 | 2025-05-11 | [`www.irisid.com`](https://google.com/search?q=www.irisid.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-04-10 | [`finetech.de`](https://google.com/search?q=finetech.de) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-04-10 | [`chesterfieldtwp.org`](https://google.com/search?q=chesterfieldtwp.org) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-04-09 | [`ccso2014.local(sheriffs)`](https://google.com/search?q=ccso2014.local%28sheriffs%29) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-04-09 | [`gramoll.com`](https://google.com/search?q=gramoll.com) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
