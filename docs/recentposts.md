@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-05-11 | [`ossman.co.uk`](https://google.com/search?q=ossman.co.uk) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
 | 2025-05-11 | [`kraftkisarna.se`](https://google.com/search?q=kraftkisarna.se) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
 | 2025-05-11 | [`pryor-morrow.com`](https://google.com/search?q=pryor-morrow.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
 | 2025-05-11 | [`pratthomes.com`](https://google.com/search?q=pratthomes.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-04-10 | [`3P Corporation`](https://google.com/search?q=3P+Corporation) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2025-04-10 | [`silocaf.com`](https://google.com/search?q=silocaf.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-04-10 | [`finetech.de`](https://google.com/search?q=finetech.de) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2025-04-10 | [`chesterfieldtwp.org`](https://google.com/search?q=chesterfieldtwp.org) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
