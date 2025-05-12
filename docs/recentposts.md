@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-05-12 | [`industrialdynamics.com`](https://google.com/search?q=industrialdynamics.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
 | 2025-05-12 | [`www.dermatologysolutions.com`](https://google.com/search?q=www.dermatologysolutions.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
 | 2025-05-12 | [`net-move.com`](https://google.com/search?q=net-move.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
 | 2025-05-12 | [`altara.com`](https://google.com/search?q=altara.com) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-04-11 | [`Imagineering Finishing Technologies`](https://google.com/search?q=Imagineering+Finishing+Technologies) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-04-11 | [`hotelemc2.c`](https://google.com/search?q=hotelemc2.c) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2025-04-11 | [`The Study`](https://google.com/search?q=The+Study) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-04-11 | [`Sfrent.net`](https://google.com/search?q=Sfrent.net) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
