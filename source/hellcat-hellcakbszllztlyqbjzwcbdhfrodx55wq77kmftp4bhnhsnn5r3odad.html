@@ -1,3 +1,703 @@
-$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
-bye...
-$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>HellCat - Blog</title>
+
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css" />
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/hover.css/2.3.1/css/hover-min.css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/magic/1.1.0/magic.min.css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" />
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/sweetalert2@11/dist/sweetalert2.min.css" />
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/ui/dist/fancybox.css" />
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.css" />
+
+  <style>
+    :root {
+      --primary-color: #e74c3c;
+      --secondary-color: #343a40;
+      --light-bg: #f7f7f7;
+      --card-bg: #ffffff;
+      --struct-border: #e0e0e0;
+      --accent-bg: #fafafa;
+    }
+    body {
+      background: linear-gradient(135deg, #d8e2dc, #f7f7f7);
+      background-image: url('');
+      background-repeat: repeat;
+      background-blend-mode: multiply;
+      color: var(--secondary-color);
+      font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+      position: relative;
+      z-index: 1;
+    }
+    #particles-js {
+      position: fixed;
+      width: 100%;
+      height: 100%;
+      top: 0;
+      left: 0;
+      z-index: -2;
+      background: var(--light-bg);
+    }
+    .navbar {
+      background-color: var(--card-bg);
+      box-shadow: 0 2px 4px rgba(0,0,0,0.08);
+    }
+    .navbar-brand {
+      font-family: 'Montserrat', sans-serif;
+      font-weight: 700;
+      font-size: 2rem;
+      color: var(--primary-color);
+    }
+    .nav-link {
+      font-weight: 500;
+      color: var(--secondary-color) !important;
+    }
+    .banner {
+      margin: 1rem auto;
+      text-align: center;
+    }
+    .banner img {
+      max-width: 100%;
+      height: auto;
+    }
+    .card-custom {
+      background-color: var(--card-bg);
+      border: none;
+      border-radius: 12px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+      transition: transform 0.2s, box-shadow 0.2s;
+      text-decoration: none;
+      color: inherit;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      padding: 1rem;
+    }
+    .card-custom:hover {
+      transform: translateY(-5px);
+      box-shadow: 0 8px 16px rgba(0,0,0,0.12);
+    }
+    .card-title {
+      font-size: 1.4rem;
+      font-weight: 600;
+      color: var(--secondary-color);
+    }
+    .card-custom .card-footer {
+      margin-top: auto;
+      border-top: 1px solid #e0e0e0;
+      border-bottom-left-radius: 12px;
+      border-bottom-right-radius: 12px;
+      font-size: 0.8rem;
+      color: #6c757d;
+      text-align: left;
+      padding: 0.5rem 1rem;
+      background-color: inherit;
+    }
+    .domain {
+      color: #6c757d;
+      font-size: 0.95rem;
+      margin-bottom: 0.5rem;
+    }
+    .countdown-bar {
+      border: 1px solid var(--primary-color);
+      border-radius: 6px;
+      padding: 0.5rem;
+      text-align: center;
+      margin-bottom: 1rem;
+    }
+    .countdown {
+      font-size: 1.2rem;
+      font-weight: 700;
+      color: var(--primary-color);
+    }
+    .card-text {
+      font-size: 0.95rem;
+      line-height: 1.5;
+    }
+    .truncated-description {
+      display: -webkit-box;
+      -webkit-line-clamp: 3;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+      min-height: 4.5rem;
+      max-height: 4.5rem;
+    }
+    #victim-cards {
+      margin-bottom: 2rem;
+    }
+    .card-row {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      transform: translateX(10%);
+    }
+    footer {
+      background: transparent;
+      padding: 0.5rem 0;
+      margin-top: 1rem;
+      font-size: 0.9rem;
+      text-align: center;
+    }
+    footer .footer-link {
+      color: var(--secondary-color);
+      font-weight: normal;
+      text-decoration: none;
+      display: block;
+      margin: 0.25rem 0;
+    }
+    footer .footer-link:hover {
+      text-decoration: underline;
+    }
+    footer .pgp-section {
+      margin-top: 0.5rem;
+    }
+    .modal-content {
+      border: 1px solid var(--struct-border);
+      border-radius: 10px;
+      box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+      background-color: #fff;
+    }
+    .modal-header {
+      background-color: var(--accent-bg);
+      border-bottom: 1px solid var(--struct-border);
+      padding: 1rem 1.5rem;
+      margin-bottom: 0.5rem;
+    }
+    .modal-header .info-container {
+      display: flex;
+      align-items: center;
+      width: 100%;
+    }
+    .modal-header .logo-container {
+      flex-shrink: 0;
+      margin-right: 1rem;
+    }
+    .modal-header .logo-container img {
+      width: auto;
+      max-width: 100%;
+      height: auto;
+      max-height: 80px;
+      object-fit: contain;
+    }
+    .modal-header .details {
+      flex-grow: 1;
+      padding-left: 1rem;
+      border-left: 2px solid var(--struct-border);
+    }
+    .modal-header .details h5 {
+      font-size: 1.8rem;
+      font-weight: 600;
+      margin-bottom: 0.5rem;
+    }
+    .modal-header .details p {
+      margin: 0.25rem 0;
+      font-size: 1rem;
+      color: #6c757d;
+    }
+    #modal-victim-status {
+      font-weight: 700;
+    }
+    #ransom-bar {
+      margin-top: 0.5rem;
+      display: none;
+      border: 1px solid var(--primary-color);
+      border-radius: 6px;
+      padding: 0.5rem;
+      text-align: center;
+      color: var(--primary-color);
+      font-weight: 700;
+    }
+    .divider {
+      height: 1px;
+      background-color: var(--struct-border);
+      margin: 1rem 0;
+    }
+    #modal-victim-description {
+      max-height: 400px;
+      overflow: hidden;
+      padding: 0.75rem;
+      border: 1px solid var(--struct-border);
+      border-radius: 8px;
+      background-color: var(--accent-bg);
+      white-space: normal;
+      line-height: 1.4;
+      position: relative;
+    }
+    #modal-victim-description p {
+      margin: 0.5rem 0;
+      line-height: 1.4;
+    }
+
+    #modal-image-slider {
+      display: none;
+      padding: 0.75rem;
+      background-color: var(--accent-bg);
+      border: 1px solid var(--struct-border);
+      border-radius: 8px;
+      margin-bottom: 1rem;
+    }
+    .swiper {
+      width: 100%;
+      aspect-ratio: 16 / 9;
+      max-height: calc(100vh - 250px);
+    }
+    .swiper-slide {
+      text-align: center;
+      background: var(--card-bg);
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+    .swiper-slide img {
+      width: 100%;
+      height: 100%;
+      object-fit: contain;
+      display: block;
+    }
+    .modal-body {
+      padding: 1rem 1.5rem;
+    }
+    .modal-body .close-btn {
+      text-align: right;
+      margin-top: 1rem;
+    }
+    .modal-body .close-btn button {
+      font-size: 1rem;
+      padding: 0.5rem 1rem;
+    }
+    .fancybox__container {
+      z-index: 2000 !important;
+    }
+    .fancybox__backdrop {
+      background-color: rgba(0, 0, 0, 0.7) !important;
+      backdrop-filter: blur(20px);
+    }
+    .fancybox__slide {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      aspect-ratio: 16 / 9;
+    }
+    .fancybox__slide img {
+      max-width: 90%;
+      max-height: 90%;
+      object-fit: contain;
+    }
+  </style>
+
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.0/gsap.min.js"></script>
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@fancyapps/ui/dist/fancybox.umd.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/smooth-scrollbar@latest/dist/smooth-scrollbar.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/particles.js@2.0.0/particles.min.js"></script>
+</head>
+<body>
+  <div id="particles-js"></div>
+
+  <nav class="navbar navbar-expand-lg navbar-light">
+    <div class="container">
+        <a class="navbar-brand" href="#">
+            <img src="brand.png" alt="HellCat Logo" height="50">
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+            <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarNav">
+        <ul class="navbar-nav ms-auto">
+          <li class="nav-item">
+            <a class="nav-link hvr-grow" href="/"><i class="fas fa-home me-1"></i> Home</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link hvr-grow" href="/contact"><i class="fas fa-address-book me-1"></i> Contacts</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link hvr-grow" href="/PGP"><i class="fas fa-key me-1"></i> PGP</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <div class="container banner">
+The blog is under maintenance, download links will be available soon
+The program will be open again soon
+We are still holding all the data
+
+Блог находится на обслуживании, ссылки для скачивания будут доступны в ближайшее время
+Программа скоро снова будет открыта
+Мы все еще храним все данные
+  </div>
+
+  <div class="container">
+    <div class="row g-4 card-row" id="victim-cards">
+
+    </div>
+  </div>
+
+  <div class="modal fade animate__animated" id="victimModal" tabindex="-1" aria-labelledby="victimModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg modal-dialog-centered">
+      <div class="modal-content">
+        <div class="modal-header">
+          <div class="info-container w-100">
+            <div class="logo-container">
+              <img id="modal-victim-logo" src="" alt="Victim Logo">
+            </div>
+            <div class="details">
+              <h5 id="victimModalLabel">Victim Name</h5>
+              <p><strong>Domain:</strong> <span id="modal-victim-domain"></span></p>
+              <p><strong>Total Size Stolen:</strong> <span id="modal-victim-size"></span></p>
+              <div class="status-bar countdown-bar">
+                <span id="modal-victim-status" data-deadline=""></span>
+              </div>
+              <div id="ransom-bar">
+                Ransom Demand: USD <span id="ransom-usd"></span>  <span id="ransom-btc"></span>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="modal-body">
+          <div class="divider"></div>
+          <div id="modal-victim-description"></div>
+          <div class="divider"></div>
+          <div id="modal-image-slider"></div>
+          <div class="divider"></div>
+          <div id="modal-download-links" class="mb-3"></div>
+          <div class="close-btn">
+            <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <footer>
+    <a href="/bitcoin" target="_blank" class="footer-link">
+      How to Buy Bitcoin? <i class="fab fa-bitcoin"></i>
+    </a>
+    <a href="/tox" target="_blank" class="footer-link">
+      How to Use TOX? <i class="fas fa-lock"></i>
+    </a>
+    <a href="/xmpp" target="_blank" class="footer-link">
+      How to Use XMPP? <i class="fas fa-comments"></i>
+    </a>
+    <div class="pgp-section">
+      <span>PGP Fingerprint: </span>
+      <span id="pgp-fingerprint" class="fw-bold">1EED C56E 15A3 27E4 331F F7E1 1807 E4F2 415B 49A9</span>
+      <button id="copy-pgp" class="btn btn-sm btn-outline-secondary ms-2" title="Copy Fingerprint">
+        <i class="fas fa-copy"></i>
+      </button>
+    </div>
+  </footer>
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.js"></script>
+  <script>
+    AOS.init({ duration: 1000, once: true });
+  </script>
+
+  <script src="https://cdn.jsdelivr.net/npm/particles.js@2.0.0/particles.min.js"></script>
+  <script>
+    particlesJS("particles-js", {
+      "particles": {
+        "number": { "value": 60, "density": { "enable": true, "value_area": 800 }},
+        "color": { "value": "#e74c3c" },
+        "shape": {
+          "type": "circle",
+          "stroke": { "width": 0, "color": "#000" },
+          "polygon": { "nb_sides": 5 }
+        },
+        "opacity": { "value": 0.3, "random": true },
+        "size": { "value": 3, "random": true },
+        "line_linked": {
+          "enable": true,
+          "distance": 150,
+          "color": "#e74c3c",
+          "opacity": 0.2,
+          "width": 1
+        },
+        "move": { "enable": true, "speed": 2, "direction": "none", "out_mode": "out" }
+      },
+      "interactivity": {
+        "detect_on": "canvas",
+        "events": {
+          "onhover": { "enable": true, "mode": "grab" },
+          "onclick": { "enable": true, "mode": "push" },
+          "resize": true
+        },
+        "modes": {
+          "grab": { "distance": 140, "line_linked": { "opacity": 1 }},
+          "bubble": { "distance": 400, "size": 40, "duration": 2, "opacity": 8, "speed": 3 },
+          "repulse": { "distance": 200, "duration": 0.4 },
+          "push": { "particles_nb": 4 },
+          "remove": { "particles_nb": 2 }
+        }
+      },
+      "retina_detect": true
+    });
+  </script>
+
+  <script src="https://unpkg.com/masonry-layout@4/dist/masonry.pkgd.min.js"></script>
+  <script src="https://unpkg.com/imagesloaded@4/imagesloaded.pkgd.min.js"></script>
+
+  <script>
+    function updateCountdowns() {
+      const countdownElements = document.querySelectorAll('[data-countdown]');
+      countdownElements.forEach(el => {
+        const deadlineStr = el.getAttribute('data-deadline');
+        const deadline = new Date(deadlineStr);
+        const now = new Date();
+        const diff = deadline - now;
+        const countdownBar = el.parentElement;
+        if (diff > 0) {
+          const days = Math.floor(diff / (1000 * 60 * 60 * 24));
+          const hours = Math.floor((diff % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+          const minutes = Math.floor((diff % (1000 * 60 * 60)) / (1000 * 60));
+          const seconds = Math.floor((diff % (1000 * 60)) / 1000);
+          el.textContent = `${days}D ${hours}H ${minutes}M ${seconds}S`;
+          el.style.color = "#e74c3c";
+          countdownBar.style.borderColor = "#e74c3c";
+        } else {
+          el.textContent = "PUBLISHED";
+          el.style.color = "#28a745";
+          countdownBar.style.borderColor = "#28a745";
+        }
+      });
+    }
+    updateCountdowns();
+    setInterval(updateCountdowns, 1000);
+  </script>
+
+  <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+
+  <script>
+    $(document).ready(function() {
+      marked.setOptions({ breaks: true });
+
+      $.getJSON("api2.php?action=victims", function(victims) {
+        const now = new Date();
+        victims.sort((a, b) => {
+          const aPublished = new Date(a.deadline) <= now;
+          const bPublished = new Date(b.deadline) <= now;
+          if (aPublished !== bPublished) {
+            return aPublished ? 1 : -1;
+          }
+          return new Date(b.created_at) - new Date(a.created_at);
+        });
+
+        let cardsHtml = "";
+        victims.forEach(victim => {
+          cardsHtml += `
+            <div class="col-12 col-sm-6 col-md-4 col-lg-3" data-aos="fade-up">
+              <div class="card card-custom h-100 p-3 victim-card" data-id="${victim.id}" style="cursor:pointer;">
+                <h5 class="card-title">${victim.name}</h5>
+                <p class="domain">${victim.domain}</p>
+                <div class="countdown-bar">
+                  <span class="countdown" data-countdown data-deadline="${victim.deadline}"></span>
+                </div>
+                <p class="card-text truncated-description">${victim.cardDescription}</p>
+                <p class="card-footer text-muted" style="font-size: 0.8rem; margin-top: auto;">
+                  <i class="fas fa-clock me-1"></i> ${victim.created_at}
+                </p>
+              </div>
+            </div>
+          `;
+        });
+        $("#victim-cards").html(cardsHtml);
+        updateCountdowns();
+        imagesLoaded("#victim-cards", function() {
+          new Masonry("#victim-cards", {
+            itemSelector: '.col-12',
+            percentPosition: true,
+            gutter: 16
+          });
+        });
+      });
+
+      $(document).on('click', '.victim-card', function() {
+        const victimId = $(this).data('id');
+        $.getJSON("api2.php?action=victim&id=" + victimId, function(victim) {
+          $("#victimModalLabel").text(victim.name);
+          $("#modal-victim-domain").text(victim.domain);
+          $("#modal-victim-size").text(victim.totalSize || "Unknown");
+          $("#modal-victim-status").attr("data-deadline", victim.deadline);
+
+          const updateModalStatus = () => {
+            const statusEl = document.getElementById("modal-victim-status");
+            const deadline = new Date(statusEl.getAttribute("data-deadline"));
+            const now = new Date();
+            const diff = deadline - now;
+            if (diff > 0) {
+              const days = Math.floor(diff / (1000 * 60 * 60 * 24));
+              const hours = Math.floor((diff % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+              const minutes = Math.floor((diff % (1000 * 60 * 60)) / (1000 * 60));
+              const seconds = Math.floor((diff % (1000 * 60)) / 1000);
+              statusEl.textContent = `${days}D ${hours}H ${minutes}M ${seconds}S`;
+              statusEl.style.color = "#e74c3c";
+              statusEl.parentElement.style.borderColor = "#e74c3c";
+            } else {
+              statusEl.textContent = "PUBLISHED";
+              statusEl.style.color = "#28a745";
+              statusEl.parentElement.style.borderColor = "#28a745";
+            }
+          };
+          updateModalStatus();
+          setInterval(updateModalStatus, 1000);
+
+          const description = victim.modalDescription.replace(/\\n/g, "\n");
+          $("#modal-victim-description").html(marked.parse(description));
+
+          if (victim.logo) {
+            $("#modal-victim-logo").attr("src", victim.logo).show();
+          } else {
+            $("#modal-victim-logo").hide();
+          }
+
+          const currentTime = new Date();
+          const deadlineTime = new Date(victim.deadline);
+          if (currentTime < deadlineTime && victim.ransom && parseFloat(victim.ransom) > 0) {
+            const ransomUSD = parseFloat(victim.ransom);
+            $("#ransom-usd").text(ransomUSD.toLocaleString("en-US", { style: "currency", currency: "USD" }));
+            $("#ransom-btc").text("");
+            $("#ransom-bar").show();
+          } else {
+            $("#ransom-bar").hide();
+          }
+
+          if (currentTime >= deadlineTime && victim.downloadLinks && victim.downloadLinks.length > 0) {
+            let dlHtml = "";
+            victim.downloadLinks.forEach(link => {
+              dlHtml += `<a href="${link.url}" target="_blank" class="btn btn-sm btn-outline-primary me-2 mb-2">${link.label}</a>`;
+            });
+            $("#modal-download-links").html(dlHtml);
+          } else {
+            $("#modal-download-links").html("");
+          }
+
+          if (victim.images && victim.images.length > 0) {
+            let slidesHtml = "";
+            victim.images.forEach((asset, index) => {
+              let typeAttr = "";
+              if (asset.toLowerCase().endsWith('.pdf')) {
+                typeAttr = 'data-type="iframe"';
+              }
+              slidesHtml += `
+                <div class="swiper-slide">
+                  <a href="${asset}" data-fancybox="gallery" ${typeAttr}>
+                    <img src="${asset}" alt="Asset ${index + 1}">
+                  </a>
+                </div>
+              `;
+            });
+            const swiperHtml = `
+              <div class="swiper mySwiper">
+                <div class="swiper-wrapper">
+                  ${slidesHtml}
+                </div>
+                <div class="swiper-pagination"></div>
+                <div class="swiper-button-next"></div>
+                <div class="swiper-button-prev"></div>
+              </div>
+            `;
+
+            $("#modal-image-slider").html(swiperHtml).show();
+
+            if (window.mySwiperInstance && typeof window.mySwiperInstance.destroy === 'function') {
+              window.mySwiperInstance.destroy(true, true);
+            }
+            window.mySwiperInstance = new Swiper(".mySwiper", {
+              autoplay: { delay: 3000 },
+              speed: 500,
+              pagination: { el: ".swiper-pagination", clickable: true },
+              navigation: { nextEl: ".swiper-button-next", prevEl: ".swiper-button-prev" },
+              adaptiveHeight: true,
+            });
+          } else {
+            $("#modal-image-slider").html("").hide();
+          }
+
+          const modalDesc = document.querySelector('#modal-victim-description');
+          if (modalDesc) {
+            let scrollbar = Scrollbar.get(modalDesc);
+            if (!scrollbar) {
+              Scrollbar.init(modalDesc, { damping: 0.1 });
+            } else {
+              scrollbar.update();
+            }
+          }
+
+          $("#victimModal").modal("show");
+        });
+      });
+
+
+      $("#copy-pgp").on("click", function() {
+        const fingerprint = $("#pgp-fingerprint").text().trim();
+        if (navigator.clipboard) {
+          navigator.clipboard.writeText(fingerprint).then(() => {
+            Swal.fire({
+              toast: true,
+              position: 'top',
+              icon: 'success',
+              title: 'PGP fingerprint copied!',
+              showConfirmButton: false,
+              timer: 2000,
+              timerProgressBar: true,
+            });
+          }).catch(err => {
+            Swal.fire({
+              toast: true,
+              position: 'top',
+              icon: 'error',
+              title: 'Failed to copy fingerprint',
+              showConfirmButton: false,
+              timer: 2000,
+              timerProgressBar: true,
+            });
+          });
+        } else {
+          const tempInput = $("<textarea>");
+          tempInput.val(fingerprint).appendTo("body").select();
+          try {
+            document.execCommand("copy");
+            Swal.fire({
+              toast: true,
+              position: 'top',
+              icon: 'success',
+              title: 'PGP fingerprint copied!',
+              showConfirmButton: false,
+              timer: 2000,
+              timerProgressBar: true,
+            });
+          } catch(err) {
+            Swal.fire({
+              toast: true,
+              position: 'top',
+              icon: 'error',
+              title: 'Failed to copy fingerprint',
+              showConfirmButton: false,
+              timer: 2000,
+              timerProgressBar: true,
+            });
+          }
+          tempInput.remove();
+        }
+      });
+    });
+  </script>
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.js"></script>
+  <script>
+    gsap.from(".banner img", { duration: 1.5, scale: 1.1, ease: "power2.out" });
+  </script>
+</body>
+</html>
