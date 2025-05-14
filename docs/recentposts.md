@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-05-14 | [`Regal Ideas`](https://google.com/search?q=Regal+Ideas) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-05-14 | [`Grafton Technologies`](https://google.com/search?q=Grafton+Technologies) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-05-14 | [`Sao Camilo Cachoeiro de Itapemirim`](https://google.com/search?q=Sao+Camilo+Cachoeiro+de+Itapemirim) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2025-05-14 | [`Kingsmen Creatives Ltd. `](https://google.com/search?q=Kingsmen+Creatives+Ltd.+) | [embargo](https://ransomwatch.telemetry.ltd/#/profiles?id=embargo) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-04-15 | [`Merri-Makers`](https://google.com/search?q=Merri-Makers) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-04-15 | [`James & Sons Fine Jewelers`](https://google.com/search?q=James+%26+Sons+Fine+Jewelers) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-04-15 | [`Destination Toronto`](https://google.com/search?q=Destination+Toronto) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-04-14 | [`Cortez Resources`](https://google.com/search?q=Cortez+Resources) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
