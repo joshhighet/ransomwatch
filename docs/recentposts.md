@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-05-16 | [`finanzconsult-immobilien.de`](https://google.com/search?q=finanzconsult-immobilien.de) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-05-16 | [`alpha-steuer.de`](https://google.com/search?q=alpha-steuer.de) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-05-16 | [`ccrcda.org`](https://google.com/search?q=ccrcda.org) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-05-16 | [`Triple Jump`](https://google.com/search?q=Triple+Jump) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-04-15 | [`Astra Products`](https://google.com/search?q=Astra+Products) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-04-15 | [`Lake HVAC`](https://google.com/search?q=Lake+HVAC) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-04-15 | [`nevadareadymix.com`](https://google.com/search?q=nevadareadymix.com) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
-| 2025-04-15 | [`trocaire.edu`](https://google.com/search?q=trocaire.edu) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
