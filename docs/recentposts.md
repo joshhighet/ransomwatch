@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-05-18 | [`Grupo Boulevard`](https://google.com/search?q=Grupo+Boulevard) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2025-05-17 | [`Maruichi Leavitt Pipe & Tube`](https://google.com/search?q=Maruichi+Leavitt+Pipe+%26+Tube) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-05-17 | [`Gearhiser Peters Elliott & Cannon`](https://google.com/search?q=Gearhiser+Peters+Elliott+%26+Cannon) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-05-17 | [`diyar.com`](https://google.com/search?q=diyar.com) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-04-16 | [`jackpotjunction.com`](https://google.com/search?q=jackpotjunction.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2025-04-16 | [`ende.bo`](https://google.com/search?q=ende.bo) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2025-04-16 | [`aeamg.org.br`](https://google.com/search?q=aeamg.org.br) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2025-04-16 | [`Seneca Gaming &amp; Entertainment `](https://google.com/search?q=Seneca+Gaming+%26amp%3B+Entertainment+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
