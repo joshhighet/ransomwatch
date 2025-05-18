@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-05-18 | [`Termolar`](https://google.com/search?q=Termolar) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2025-05-18 | [`Fong Shann Printing Philippines`](https://google.com/search?q=Fong+Shann+Printing+Philippines) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2025-05-18 | [`Road Development Corporation`](https://google.com/search?q=Road+Development+Corporation) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2025-05-18 | [`RECI SYSTEMS`](https://google.com/search?q=RECI+SYSTEMS) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-04-17 | [`EVERTECH INSTRUMENTAL CO., LTD`](https://google.com/search?q=EVERTECH+INSTRUMENTAL+CO.%2C+LTD) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2025-04-17 | [`Koninklijke Ahold Delhaize N.V.`](https://google.com/search?q=Koninklijke+Ahold+Delhaize+N.V.) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-04-17 | [`Red Chamber`](https://google.com/search?q=Red+Chamber) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-04-16 | [`aqhch.com.cn`](https://google.com/search?q=aqhch.com.cn) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
