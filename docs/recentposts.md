@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-05-20 | [`Runtec`](https://google.com/search?q=Runtec) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-05-20 | [`The Vascular Experts`](https://google.com/search?q=The+Vascular+Experts) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-05-20 | [`Tri State Electric`](https://google.com/search?q=Tri+State+Electric) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2025-05-19 | [`K & K Fence`](https://google.com/search?q=K+%26+K+Fence) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-04-17 | [`Sally B Gold`](https://google.com/search?q=Sally+B+Gold) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-04-17 | [`HOPI`](https://google.com/search?q=HOPI) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2025-04-17 | [`d-line`](https://google.com/search?q=d-line) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
-| 2025-04-17 | [`Feldman & Lopez`](https://google.com/search?q=Feldman+%26+Lopez) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
