@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-05-20 | [`Tri State Electric`](https://google.com/search?q=Tri+State+Electric) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2025-05-19 | [`K & K Fence`](https://google.com/search?q=K+%26+K+Fence) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-05-18 | [`null`](https://google.com/search?q=null) | [dragonforce](https://ransomwatch.telemetry.ltd/#/profiles?id=dragonforce) |
 | 2025-05-18 | [`Colegio de la Compania de Maria Vigo`](https://google.com/search?q=Colegio+de+la+Compania+de+Maria+Vigo) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-04-17 | [`d-line`](https://google.com/search?q=d-line) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
 | 2025-04-17 | [`Feldman & Lopez`](https://google.com/search?q=Feldman+%26+Lopez) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-04-17 | [`Hyalogic`](https://google.com/search?q=Hyalogic) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
-| 2025-04-17 | [`VIÑUELAS ABOGADOS`](https://google.com/search?q=VI%C3%91UELAS+ABOGADOS) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
