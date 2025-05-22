@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-05-22 | [`Curewell Pharmacy &amp; Surgicals`](https://google.com/search?q=Curewell+Pharmacy+%26amp%3B+Surgicals) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2025-05-22 | [`Greater Seattle Concrete`](https://google.com/search?q=Greater+Seattle+Concrete) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-05-22 | [`CNHI LLC`](https://google.com/search?q=CNHI+LLC) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-05-21 | [`AttainX`](https://google.com/search?q=AttainX) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-04-21 | [`Pharma Force`](https://google.com/search?q=Pharma+Force) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2025-04-21 | [`tuttoperlufficio.eu`](https://google.com/search?q=tuttoperlufficio.eu) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2025-04-19 | [`Z****a.com`](https://google.com/search?q=Z%2A%2A%2A%2Aa.com) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
-| 2025-04-18 | [` AKTO`](https://google.com/search?q=+AKTO) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
