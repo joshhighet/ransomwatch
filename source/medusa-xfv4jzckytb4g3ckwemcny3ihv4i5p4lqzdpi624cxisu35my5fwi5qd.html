@@ -1,1 +1,45 @@
-Connection failed
+<!DOCTYPE html>
+<html lang="en">
+
+
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Human Verify</title>
+    <link href="/assets/css/min/5.2.3-bootstrap.min.css" rel="stylesheet">
+    <link href="/assets/css/pages/captcha.css" rel="stylesheet">
+</head>
+
+
+<body>
+    <div class="d-flex align-items-center justify-content-center vh-100">
+        <div class="text-center">
+            <img class="brand-logo" alt="Medusa Logo" src="/assets/img/medusa-logo.svg" style="width: 144px; margin-bottom: 1rem" />
+            <div class="card captcha-card">
+                <p class="captcha-card-title">Human verification required</p>
+                <p class="captcha-card-prompt">We need to ensure you're a real person. Please solve the captcha below to continue.</p>
+                <form id="captcha-verify" method="POST">
+                    <div class="captcha-image-wrapper">
+                        <span id="captcha-reload">
+                            <img src="/assets/img/sync.svg" />
+                        </span>
+                        <img id="captcha-image" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAZAAAAA8CAIAAADHdHu6AAAACXBIWXMAAA7EAAAOxAGVKw4bAAAEP0lEQVR4nO2cyXLkMAxD/f8/3XPojKvLiyxLXAAK75RUUjYISl4oytvmzOfzOfwg7qCwaFhkTHROZ7E6bHCKa4yo/CjuFAQoA59vsJiHH3b9WjxxyLRTA5S7s45cZYez//6KYhkwempwYp1IufHIU+OYGhaCjsR3FPEMURqIpG5saqEYLs6ye/7Vzx4FDbJ7Ryb0Q+EVhchkaniUFQW7e6RrZ/0gCEPQsDMpBioWYYNfUhtrC6ITmYYOVHlPXV09rGAOVL+VlnRy0OVABOA9uvYyZf+JNOAPyJDVUbPSJOARYcoLbnjENMGLzmjXMuUJvYy0CXiak8/CEo0nUQyo+l0RuIJ/pRYqtIA7PFS8v9gKw9kcplZBexLd5CoGke4ZzqLSNSgRVVcqAJXFnrNAPTrFXEpWmEJcd1wO0B4rBC8aDDVQHp9B8IjufohgWgq8hchHHtVyhTNMqTDbH7EqFWo3K795AWJoe+Gr8wvC3gTLOlgLkzRdrmOiDQA0PebMBIhoDqKmIcoEkkJh90BCA5HxCq23OFIm7PLrHnTFwZIH50JWXPP2FcbwXRg2JbDCBlBznPhDmcv96k5hWGK0KvzNH8T8UCsi+6zwc1I58gbBYQQNwoW3qQ0bClXHHFpcaHqEEF1o6rLTblecOdr8vwlcQFIIIkPQEbxw0forWtVQiE6oR13P2jR1gDbE9PjrIshFDatrRDFDsQkLl9DczT2NY479SbyC10le5blcbtvCgqXBJNdH5JYFLtvR58MbKsVSk89/soXYQxdUtd2zeOwuebfRFE8HUXj4UvEV8lLMW5ZwWHR2gRbMpZ74/X1otqAxkxFVG89QP4K9EDOmGypaBGRIGcb6DDBX3ADPGEGlj4QM461quLpheOp14AqZZRXLnbBJCAuawq8eNFX98CrfQQ4hd8IiOyMEATgTTJO5gWqOI9hWJZG7qHjP7gdIXLkdPDE7XpJh1f0SrlZJcQeX1WHlfAoKRkr6pQuWm6o3kQsL3o/AUMaWQa6KbUMaB1llYxwH+gneSwt1zEzo4gEXDC6vn7Aqoarv4paYsqLTugPjaIPVfBAGq9OQ+A0VkQyLd4ma2sovBUIQlSAtuebzdrcBoIOAkg7gK2SHvZWkXV9z0hC2/D1wIk2Z4ijBdEymrHDGJy92xuQr8IQruhofoijwloCAbCGAuimUdIRh3T9LIBtXYbWtTCxBsegMQ4YsR1jKteNvy94ZF4m6289EuyH3G9julE6kwKtZv2yEABE0XNJYo5zXHBQ1rLljqJx0BvxJ8PHJhdFzcYlNKgsPiOC2ncJOniENllT2AMg3KrLl3UrbU1dgnbykR2o4NaxqGumeJJNbUuF1n1f5LyZRpPSLi3mMU1M106Sb/kWDrERg7f5NOssqyE1hi2FTBcXg7P/6heuTbM6hKDIEzpiHKhac4XpiossgrLA7/gEnrpSyr0h3cwAAAABJRU5ErkJggg==">
+                    </div>
+                    <input class="form-control captcha-input" name="captcha" style="text-align: center;" maxlength="6" autofocus>
+                    <p id="captcha-card-helper-text"></p>
+                    <div style="display: block;">
+                        <button type="submit" class="btn btn-primary captcha-card-button">
+                            Verify
+                        </button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</body>
+
+<script src="/assets/js/core/libraries/jquery.min.js" type="text/javascript"></script>
+<script src="/assets/js/captcha.js" type="text/javascript"></script>
+
+</html>
