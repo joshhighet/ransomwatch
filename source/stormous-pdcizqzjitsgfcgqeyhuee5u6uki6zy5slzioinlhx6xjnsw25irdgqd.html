@@ -173,16 +173,17 @@
   transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
 .post-card:nth-child(1) {
-  border-left: 5px solid rgb(2, 122, 8);
+  border-left: 5px solid rgb(207, 0, 0);
 }
+
 .post-card:nth-child(2) {
   border-left: 5px solid rgb(2, 122, 8);
 }
 .post-card:nth-child(3) {
-  border-left: 5px solid rgb(2, 122, 8);}
-.post-card:nth-child(4) {
-  border-left: 5px solid rgb(207, 0, 0);
+  border-left: 5px solid rgb(2, 122, 8);
 }
+.post-card:nth-child(4) {
+  border-left: 5px solid rgb(2, 122, 8);}
 .post-card:nth-child(5) {
   border-left: 5px solid rgb(207, 0, 0);
 }
@@ -193,6 +194,9 @@
   border-left: 5px solid rgb(207, 0, 0);
 }
 .post-card:nth-child(8) {
+  border-left: 5px solid rgb(207, 0, 0);
+}
+.post-card:nth-child(9) {
   border-left: 5px solid rgb(2, 122, 8);
 }
 
@@ -227,6 +231,26 @@
 
     <div class="posts-grid" id="postsGrid">
 
+
+ <!-- Card 17 -->
+     <div class="post-card">
+      <p class="date">2025-05-31</p>
+      <h5>fal-3a.prd.eu.dp.vwg-connect.com / www.volkswagen-group.com</h5>
+
+      <p class="subtitle"> User account data (partially hidden emails)
+                          Authentication tokens (OAuth tokens, JWT tokens)
+                          Login links for internal systems (e.g., https://identity.vwgroup.io)
+                          Session cookies (JSESSIONID and others)
+                          identity and access information (scopes such as email, profile, vin, phone, etc.)
+                          Authentication and access control details (redirect_uri, state, nonce)</p>
+        <p class="size">?GB</p>
+        <a href="http://6sf5xa7eso3e3vk46i5tpcqhnlayczztj7zjktzaztlotyy75zs6j7qd.onion/vwg-connect.com/CarNet-Part1.log" class="read-more">CarNet Sample â</a>
+        <div class="countdown-box" id="countdown17"></div>
+
+    </div>
+
+
+
  <!-- Card 16 -->
  <div class="post-card">
   <p class="date">Update:2025-05-29 PUBLISHED</p>
@@ -249,8 +273,6 @@ Passwords, originally stored using Argon2 hashing</p>
     <div class="countdown-box" id="countdown15"></div>
 
 </div>
-
-
 
  <!-- Card 16 -->
      <div class="post-card">
@@ -719,6 +741,7 @@ Booking references traceable to their system
     var targetDate29 = new Date("2025-06-01T00:00:00").getTime();  
     var targetDate31 = new Date("2025-05-22T00:00:00").getTime();  
     var targetDate32 = new Date("2025-05-16T00:00:00").getTime();  
+    var targetDate33 = new Date("2025-06-07T00:00:00").getTime();  
 
     startCountdown('countdown1', targetDate1);
     startCountdown('countdown2', targetDate2);
@@ -751,6 +774,7 @@ Booking references traceable to their system
     startCountdown('countdown13', targetDate29);
     startCountdown('countdown15', targetDate31);
     startCountdown('countdown16', targetDate32);
+    startCountdown('countdown17', targetDate33);
 
   </script>
 </body>
