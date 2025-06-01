@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-06-01 | [`Dcsdev.org`](https://google.com/search?q=Dcsdev.org) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
 | 2025-05-31 | [`Trustgrp.ae`](https://google.com/search?q=Trustgrp.ae) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
 | 2025-05-31 | [`sitro.com.au`](https://google.com/search?q=sitro.com.au) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-05-30 | [`mysfa.org`](https://google.com/search?q=mysfa.org) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-04-26 | [` Global Media Group `](https://google.com/search?q=+Global+Media+Group+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
 | 2025-04-26 | [` M&#39;AR De AR Hotels`](https://google.com/search?q=+M%26%2339%3BAR+De+AR+Hotels) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
 | 2025-04-26 | [` Stadtwerke Schwerte GmbH `](https://google.com/search?q=+Stadtwerke+Schwerte+GmbH+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
-| 2025-04-25 | [`Stadtwerke Schwerte GmbH `](https://google.com/search?q=Stadtwerke+Schwerte+GmbH+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
