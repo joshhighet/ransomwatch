@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-06-02 | [`Capital Trade`](https://google.com/search?q=Capital+Trade) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-06-02 | [`Vinda Group`](https://google.com/search?q=Vinda+Group) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2025-06-02 | [`http://www.kcac.com`](https://google.com/search?q=http%3A%2F%2Fwww.kcac.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2025-06-02 | [`valuestoreit`](https://google.com/search?q=valuestoreit) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-04-28 | [`Mantel Machine Products`](https://google.com/search?q=Mantel+Machine+Products) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-04-28 | [`Haas & Associates`](https://google.com/search?q=Haas+%26+Associates) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-04-27 | [`FMT Consultants`](https://google.com/search?q=FMT+Consultants) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-04-27 | [`Crawford Door Sales`](https://google.com/search?q=Crawford+Door+Sales) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
