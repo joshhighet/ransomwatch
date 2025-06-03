@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-06-03 | [`Rochon`](https://google.com/search?q=Rochon) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-06-03 | [`Sandhills Medical Foundation`](https://google.com/search?q=Sandhills+Medical+Foundation) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-06-03 | [`Jericho Fire Department`](https://google.com/search?q=Jericho+Fire+Department) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
 | 2025-06-03 | [`FLOE Internationa`](https://google.com/search?q=FLOE+Internationa) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-04-28 | [`Hpital Glengarry Memorial Hospital (clglen.local)`](https://google.com/search?q=Hpital+Glengarry+Memorial+Hospital+%28clglen.local%29) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-04-28 | [`LaBella Associates`](https://google.com/search?q=LaBella+Associates) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2025-04-28 | [`Minnesota Lawyers Mutual Insurance`](https://google.com/search?q=Minnesota+Lawyers+Mutual+Insurance) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2025-04-28 | [`Scientel Solutions`](https://google.com/search?q=Scientel+Solutions) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
