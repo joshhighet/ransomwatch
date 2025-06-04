@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-06-04 | [`cemeteries.local`](https://google.com/search?q=cemeteries.local) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-06-04 | [`Funktel GmbH`](https://google.com/search?q=Funktel+GmbH) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-06-03 | [`Sorter Construction`](https://google.com/search?q=Sorter+Construction) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-06-03 | [`Rochon`](https://google.com/search?q=Rochon) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-04-29 | [`Cooper Global Chauffeured`](https://google.com/search?q=Cooper+Global+Chauffeured) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-04-29 | [`BOLL Logistik`](https://google.com/search?q=BOLL+Logistik) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-04-29 | [`David Mills CPA, LLC`](https://google.com/search?q=David+Mills+CPA%2C+LLC) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
-| 2025-04-28 | [`Hpital Glengarry Memorial Hospital (clglen.local)`](https://google.com/search?q=Hpital+Glengarry+Memorial+Hospital+%28clglen.local%29) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
