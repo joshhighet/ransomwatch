@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-06-04 | [`https://devimco.com/`](https://google.com/search?q=https%3A%2F%2Fdevimco.com%2F) | [metaencryptor](https://ransomwatch.telemetry.ltd/#/profiles?id=metaencryptor) |
 | 2025-06-04 | [`cemeteries.local`](https://google.com/search?q=cemeteries.local) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-06-04 | [`Funktel GmbH`](https://google.com/search?q=Funktel+GmbH) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-06-03 | [`Sorter Construction`](https://google.com/search?q=Sorter+Construction) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-04-30 | [`Gorham Sand & Gravel`](https://google.com/search?q=Gorham+Sand+%26+Gravel) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-04-29 | [`Cooper Global Chauffeured`](https://google.com/search?q=Cooper+Global+Chauffeured) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-04-29 | [`BOLL Logistik`](https://google.com/search?q=BOLL+Logistik) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-04-29 | [`David Mills CPA, LLC`](https://google.com/search?q=David+Mills+CPA%2C+LLC) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
