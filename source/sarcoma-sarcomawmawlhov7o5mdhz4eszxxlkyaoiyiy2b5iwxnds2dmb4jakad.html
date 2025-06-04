@@ -1,127 +1,1344 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>DDOS PROTECTION</title>
-    <style>
-        body {
-            display: flex;
-            flex-direction: column;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
-            margin: 0;
-            background-color: #020019;
-            font-family: Arial, sans-serif;
-            color: #AA9CCF;
-        }
-        
-        .container {
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            text-align: center;
-        }
-        
-        .logo {
-            width: 300px;
-            height: 70px;
-            margin-bottom: 30px;
-            object-fit: contain;
-        }
-        
-        .loader-circle-11 {
-            position: relative;
-            width: 70px;
-            height: 70px;
-            transform-style: preserve-3d;
-            perspective: 400px;
-            margin-bottom: 30px;
-        }
-        
-        .loader-circle-11 .arc {
-            position: absolute;
-            content: "";
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-            border-radius: 50%;
-            border-bottom: 5px solid #AA9CCF;
-        }
-        
-        .loader-circle-11 .arc:nth-child(1) {
-            animation: rotate1 1.15s linear infinite;
-            animation-delay: -0.8s;
-            border-bottom-color: #AA9CCF;
-        }
-        
-        .loader-circle-11 .arc:nth-child(2) {
-            animation: rotate2 1.15s linear infinite;
-            animation-delay: -0.4s;
-            border-bottom-color: #8657C5;
-        }
-        
-        .loader-circle-11 .arc:nth-child(3) {
-            animation: rotate3 1.15s linear infinite;
-            animation-delay: 0s;
-            border-bottom-color: #430098;
-        }
-        
-        @keyframes rotate1 {
-            from {
-                transform: rotateX(35deg) rotateY(-45deg) rotateZ(0);
-            }
-            to {
-                transform: rotateX(35deg) rotateY(-45deg) rotateZ(1turn);
-            }
-        }
-        
-        @keyframes rotate2 {
-            from {
-                transform: rotateX(50deg) rotateY(10deg) rotateZ(0);
-            }
-            to {
-                transform: rotateX(50deg) rotateY(10deg) rotateZ(1turn);
-            }
-        }
-        
-        @keyframes rotate3 {
-            from {
-                transform: rotateX(35deg) rotateY(55deg) rotateZ(0);
-            }
-            to {
-                transform: rotateX(35deg) rotateY(55deg) rotateZ(1turn);
-            }
-        }
-        
-        .text {
-            font-size: 24px;
-            font-weight: bold;
-            letter-spacing: 2px;
-            margin-bottom: 15px;
-        }
-        
-        .subtext {
-            font-size: 16px;
-            opacity: 0.8;
-        }
-    </style>
-</head>
-<body>
-    <div class="container">
-        <img src="data:image/webp;base64,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" alt="Virus Logo" class="logo">
-        
-        <div class="loader-circle-11">
-            <div class="arc"></div>
-            <div class="arc"></div>
-            <div class="arc"></div>
-        </div>
-        
-        <div class="text">DDOS PROTECTION</div>
-        <div class="subtext">You are put in a queue, please wait.</div>
-    </div>
-</body>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>Sarcoma Group</title>
+		<link rel="icon" href="/favicon.png" type="image/x-icon">
+		<!-- <link href="./bootstrap.min.css" rel="stylesheet"> -->
+		<link href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.1.3/css/bootstrap.min.css" rel="stylesheet">
+		<!-- <script type="text/javascript" src="./clipboard.min.js"></script> -->
+		<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.11/clipboard.min.js"></script>
+		<style type="text/css">
+			.indigo, .indigo:hover, .indigo:active, .indigo:focus {
+				background-color: indigo;
+				border-color: indigo;
+			}
+			body.bg-dark #moon-stars-fill {
+				display: none;
+			}
+			body.bg-light #sun-fill {
+				display: none;
+			}
+			
+			@font-face {
+				font-family: 'JetBrains Mono';
+				font-style: italic;
+				font-weight: 400;
+				src: url(./fonts/JetBrains_Mono/static/JetBrainsMono-Regular.woff) format('woff');
+			}
+			body {
+				font-family: 'JetBrains Mono', Roboto, monospace, sans-serif;
+			}
+			body {
+				background-color: #020019;
+			}
+			.sg-form {
+				background-color: #03011d;
+				border: 1px solid rgba(125, 83, 243, 0.5);
+			}
+			.sg-form input[type="text"], .sg-form input[type="password"], .sg-form textarea {
+				border: 2px solid #7d53f3;
+				border-radius: 6px;
+				background-color: #030021;
+				padding: 17px 40px;
+			}
+			.sg-form input[type="radio"] {
+				border: 2px solid #7d53f3;
+				border-radius: 6px;
+				background-color: #030021;
+			}
+			.sg-form input[type=file] {
+				color: #ffffff;
+			}
+			.sg-form input[type=file]::file-selector-button {
+				background-color: #100934;
+				border-color: #7d53f3;
+				border-radius: 6px;
+				color: #ffffff;
+				padding: 5px 7px;
+			}
+			.sg-form label {
+				color: #7d53f3;
+				padding-left: 20px;
+			}
+			.sg-form input:focus, .sg-form textarea:focus, .sg-form textarea:disabled {
+				background-color: #030021;
+				border-color: #86b7fe;
+			}
+			.sg-form button {
+				background-color: #100934;
+				padding: 17px 100px;
+				text-transform: capitalize;
+			}
+			.sg-form .text {
+				color: #451db5;
+			}
+			.sg-form .text a {
+				color: #7d53f3;
+			}
+			.chat-form {
+				min-height: calc(100vh - 1rem);
+				max-height: calc(100vh - 1rem);
+				border-radius: 1rem;
+				background-color: #03011d;
+				border: 1px solid rgba(125, 83, 243, 0.5);
+			}
+			.chat-form input[type="text"], input[type="number"], .chat-form input[type="password"], .chat-form textarea {
+				border: 2px solid #7d53f3;
+				border-radius: 6px;
+				background-color: #04002f;
+				padding: 17px 40px;
+				color: #ffffff;
+			}
+			.chat-form input[type="number"] {
+				width: 160px;
+			}
+			.chat-form textarea {
+				color: #ffffff !important;
+			}
+			.chat-form input[type="radio"] {
+				border: 2px solid #7d53f3;
+				border-radius: 6px;
+				background-color: #04002f;
+			}
+			.chat-form input[type=file] {
+				color: #ffffff;
+			}
+			.chat-form input[type=file]:disabled {
+				color: #666666;
+			}
+			.chat-form input[type=file]::file-selector-button {
+				background-color: #100934;
+				border-color: #7d53f3;
+				border-radius: 6px;
+				color: #ffffff;
+				padding: 5px 7px;
+			}
+			.chat-form input[type=file]:disabled::file-selector-button {
+				color: #666666;
+			}
+			.chat-form label {
+				color: #7d53f3;
+				padding-left: 20px;
+			}
+			.chat-form input:focus, .chat-form textarea:focus, .chat-form textarea:disabled {
+				background-color: #04002f;
+				border-color: #86b7fe;
+			}
+			.chat-form button {
+				background-color: #100934;
+				padding: 17px 100px;
+				text-transform: capitalize;
+			}
+			.chat-form .text {
+				color: #451db5;
+			}
+			.chat-form .text a {
+				color: #7d53f3;
+			}
+			.chat-form .clear {
+				background-color: #100934;
+				border: 2px solid #7d53f3;
+				border-radius: 6px;
+				color: #ffffff;
+				padding: 5px 7px;
+				cursor: pointer;
+				width: fit-content;
+			}
+			.chat .message .time {
+				color: #777777;
+			}
+			.chat .message .text {
+				width: fit-content;
+				min-width: 20%;
+				max-width: 50%;
+				color: #ffffff;
+				border-radius: 1rem;
+				background-color: #03011d;
+				border: 1px solid rgba(125, 83, 243, 0.5);
+			}
+			.chat .message.left .text {
+				border-top-left-radius: 0 !important;
+			}
+			.chat .message.right .text {
+				margin-left: auto;
+				margin-right: 0;
+				border-top-right-radius: 0 !important;
+			}
+			.copy_button {
+				border: 0 !important;
+				outline: 0 !important;
+				background-color: transparent !important;
+				padding: 0 !important;
+			}
+		</style>
+	</head>
+	<body>
+		<svg xmlns="http://www.w3.org/2000/svg" class="d-none">
+			<symbol id="moon-stars-fill" viewBox="0 0 16 16">
+				<path d="M6 .278a.768.768 0 0 1 .08.858 7.208 7.208 0 0 0-.878 3.46c0 4.021 3.278 7.277 7.318 7.277.527 0 1.04-.055 1.533-.16a.787.787 0 0 1 .81.316.733.733 0 0 1-.031.893A8.349 8.349 0 0 1 8.344 16C3.734 16 0 12.286 0 7.71 0 4.266 2.114 1.312 5.124.06A.752.752 0 0 1 6 .278z"/>
+				<path d="M10.794 3.148a.217.217 0 0 1 .412 0l.387 1.162c.173.518.579.924 1.097 1.097l1.162.387a.217.217 0 0 1 0 .412l-1.162.387a1.734 1.734 0 0 0-1.097 1.097l-.387 1.162a.217.217 0 0 1-.412 0l-.387-1.162A1.734 1.734 0 0 0 9.31 6.593l-1.162-.387a.217.217 0 0 1 0-.412l1.162-.387a1.734 1.734 0 0 0 1.097-1.097l.387-1.162zM13.863.099a.145.145 0 0 1 .274 0l.258.774c.115.346.386.617.732.732l.774.258a.145.145 0 0 1 0 .274l-.774.258a1.156 1.156 0 0 0-.732.732l-.258.774a.145.145 0 0 1-.274 0l-.258-.774a1.156 1.156 0 0 0-.732-.732l-.774-.258a.145.145 0 0 1 0-.274l.774-.258c.346-.115.617-.386.732-.732L13.863.1z"/>
+			</symbol>
+			<symbol id="sun-fill" viewBox="0 0 16 16">
+				<path d="M8 12a4 4 0 1 0 0-8 4 4 0 0 0 0 8zM8 0a.5.5 0 0 1 .5.5v2a.5.5 0 0 1-1 0v-2A.5.5 0 0 1 8 0zm0 13a.5.5 0 0 1 .5.5v2a.5.5 0 0 1-1 0v-2A.5.5 0 0 1 8 13zm8-5a.5.5 0 0 1-.5.5h-2a.5.5 0 0 1 0-1h2a.5.5 0 0 1 .5.5zM3 8a.5.5 0 0 1-.5.5h-2a.5.5 0 0 1 0-1h2A.5.5 0 0 1 3 8zm10.657-5.657a.5.5 0 0 1 0 .707l-1.414 1.415a.5.5 0 1 1-.707-.708l1.414-1.414a.5.5 0 0 1 .707 0zm-9.193 9.193a.5.5 0 0 1 0 .707L3.05 13.657a.5.5 0 0 1-.707-.707l1.414-1.414a.5.5 0 0 1 .707 0zm9.193 2.121a.5.5 0 0 1-.707 0l-1.414-1.414a.5.5 0 0 1 .707-.707l1.414 1.414a.5.5 0 0 1 0 .707zM4.464 4.465a.5.5 0 0 1-.707 0L2.343 3.05a.5.5 0 1 1 .707-.707l1.414 1.414a.5.5 0 0 1 0 .708z"/>
+			</symbol>
+		</svg>
+										<div class=""><!-- container container-fluid -->
+				<div class="p-5 text-center">
+					<a href="/">
+						<h1 class="mb-3 text-light">
+							<img src="./logo1.webp" height="70" alt="Sarcoma Group Logo" loading="lazy" />
+						</h1>
+					</a>
+				</div>
+				<section>
+					<div class="container pb-5 h-100">
+													<div class="row row-cols-4 mb-4">
+																										<div class="col">
+										<div class="sg-form card overflow-hidden rounded h-100 text-white">
+											<div class="card-body p-2">
+												<div class="card-title text-center fs-5">
+																											<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#ffffff" class="bi bi-eye" viewBox="0 0 16 16">
+															<path d="M16 8s-3-5.5-8-5.5S0 8 0 8s3 5.5 8 5.5S16 8 16 8M1.173 8a13 13 0 0 1 1.66-2.043C4.12 4.668 5.88 3.5 8 3.5s3.879 1.168 5.168 2.457A13 13 0 0 1 14.828 8q-.086.13-.195.288c-.335.48-.83 1.12-1.465 1.755C11.879 11.332 10.119 12.5 8 12.5s-3.879-1.168-5.168-2.457A13 13 0 0 1 1.172 8z"/>
+															<path d="M8 5.5a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5M4.5 8a3.5 3.5 0 1 1 7 0 3.5 3.5 0 0 1-7 0"/>
+														</svg>
+														3														<hr />
+																										Victim												</div>
+												<img class="rounded w-75 mx-auto d-block mb-3" src="/files/187D325B-099C-4A33-8946-FFA59D1C3297.jpeg" loading="lazy" />
+												<div class="card-main">
+													<hr />
+													<div class="card-text">
+														Site: victimransomware.org<br />
+														Industry: Victim<br />
+														GEO: Latvia													</div>
+																											<hr />
+														<div class="text-danger text-center">6 days 23 hours 34 minutes</div>
+														<hr />
+																									</div>
+											</div>
+											<div class="card-footer">
+												<button type="button" class="btn btn-lg btn-block indigo text-center text-white d-block m-auto company_button" data-bs-toggle="modal" data-bs-target="#company_118" style="padding: .375rem .75rem;">More info</button>
+											</div>
+										</div>
+									</div>
+																																			<div class="col">
+										<div class="sg-form card overflow-hidden rounded h-100 text-white">
+											<div class="card-body p-2">
+												<div class="card-title text-center fs-5">
+																											<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#ffffff" class="bi bi-eye" viewBox="0 0 16 16">
+															<path d="M16 8s-3-5.5-8-5.5S0 8 0 8s3 5.5 8 5.5S16 8 16 8M1.173 8a13 13 0 0 1 1.66-2.043C4.12 4.668 5.88 3.5 8 3.5s3.879 1.168 5.168 2.457A13 13 0 0 1 14.828 8q-.086.13-.195.288c-.335.48-.83 1.12-1.465 1.755C11.879 11.332 10.119 12.5 8 12.5s-3.879-1.168-5.168-2.457A13 13 0 0 1 1.172 8z"/>
+															<path d="M8 5.5a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5M4.5 8a3.5 3.5 0 1 1 7 0 3.5 3.5 0 0 1-7 0"/>
+														</svg>
+														52														<hr />
+																										PPM Industries SpA												</div>
+												<img class="rounded w-75 mx-auto d-block mb-3" src="/files/CE6513CC-479C-4931-9D2F-3EE37C570B99.png" loading="lazy" />
+												<div class="card-main">
+													<hr />
+													<div class="card-text">
+														Site: ppmindustries.com<br />
+														Industry: Chemicals & Related Products<br />
+														GEO: Italy													</div>
+																											<hr />
+														<div class="text-danger text-center">2 days 21 hours 24 minutes</div>
+														<hr />
+																									</div>
+											</div>
+											<div class="card-footer">
+												<button type="button" class="btn btn-lg btn-block indigo text-center text-white d-block m-auto company_button" data-bs-toggle="modal" data-bs-target="#company_117" style="padding: .375rem .75rem;">More info</button>
+											</div>
+										</div>
+									</div>
+																																			<div class="col">
+										<div class="sg-form card overflow-hidden rounded h-100 text-white">
+											<div class="card-body p-2">
+												<div class="card-title text-center fs-5">
+																											<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#ffffff" class="bi bi-eye" viewBox="0 0 16 16">
+															<path d="M16 8s-3-5.5-8-5.5S0 8 0 8s3 5.5 8 5.5S16 8 16 8M1.173 8a13 13 0 0 1 1.66-2.043C4.12 4.668 5.88 3.5 8 3.5s3.879 1.168 5.168 2.457A13 13 0 0 1 14.828 8q-.086.13-.195.288c-.335.48-.83 1.12-1.465 1.755C11.879 11.332 10.119 12.5 8 12.5s-3.879-1.168-5.168-2.457A13 13 0 0 1 1.172 8z"/>
+															<path d="M8 5.5a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5M4.5 8a3.5 3.5 0 1 1 7 0 3.5 3.5 0 0 1-7 0"/>
+														</svg>
+														66														<hr />
+																										Norgeshus												</div>
+												<img class="rounded w-75 mx-auto d-block mb-3" src="/files/D46D9E91-63E0-4255-A1E0-CA73AF23C195.png" loading="lazy" />
+												<div class="card-main">
+													<hr />
+													<div class="card-text">
+														Site: norgeshus.no<br />
+														Industry: Architecture, Engineering & Design<br />
+														GEO: Norway													</div>
+																									</div>
+											</div>
+											<div class="card-footer">
+												<button type="button" class="btn btn-lg btn-block indigo text-center text-white d-block m-auto company_button" data-bs-toggle="modal" data-bs-target="#company_116" style="padding: .375rem .75rem;">More info</button>
+											</div>
+										</div>
+									</div>
+																																			<div class="col">
+										<div class="sg-form card overflow-hidden rounded h-100 text-white">
+											<div class="card-body p-2">
+												<div class="card-title text-center fs-5">
+																											<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#ffffff" class="bi bi-eye" viewBox="0 0 16 16">
+															<path d="M16 8s-3-5.5-8-5.5S0 8 0 8s3 5.5 8 5.5S16 8 16 8M1.173 8a13 13 0 0 1 1.66-2.043C4.12 4.668 5.88 3.5 8 3.5s3.879 1.168 5.168 2.457A13 13 0 0 1 14.828 8q-.086.13-.195.288c-.335.48-.83 1.12-1.465 1.755C11.879 11.332 10.119 12.5 8 12.5s-3.879-1.168-5.168-2.457A13 13 0 0 1 1.172 8z"/>
+															<path d="M8 5.5a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5M4.5 8a3.5 3.5 0 1 1 7 0 3.5 3.5 0 0 1-7 0"/>
+														</svg>
+														73														<hr />
+																										APH Svenska												</div>
+												<img class="rounded w-75 mx-auto d-block mb-3" src="/files/DAF485E1-650D-4240-B254-239EF361AD7A.png" loading="lazy" />
+												<div class="card-main">
+													<hr />
+													<div class="card-text">
+														Site: aph.se<br />
+														Industry: Flowers, Gifts & Specialty Stores<br />
+														GEO: Sweden													</div>
+																									</div>
+											</div>
+											<div class="card-footer">
+												<button type="button" class="btn btn-lg btn-block indigo text-center text-white d-block m-auto company_button" data-bs-toggle="modal" data-bs-target="#company_115" style="padding: .375rem .75rem;">More info</button>
+											</div>
+										</div>
+									</div>
+																								</div>
+													<div class="row row-cols-4 mb-4">
+																										<div class="col">
+										<div class="sg-form card overflow-hidden rounded h-100 text-white">
+											<div class="card-body p-2">
+												<div class="card-title text-center fs-5">
+																											<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#ffffff" class="bi bi-eye" viewBox="0 0 16 16">
+															<path d="M16 8s-3-5.5-8-5.5S0 8 0 8s3 5.5 8 5.5S16 8 16 8M1.173 8a13 13 0 0 1 1.66-2.043C4.12 4.668 5.88 3.5 8 3.5s3.879 1.168 5.168 2.457A13 13 0 0 1 14.828 8q-.086.13-.195.288c-.335.48-.83 1.12-1.465 1.755C11.879 11.332 10.119 12.5 8 12.5s-3.879-1.168-5.168-2.457A13 13 0 0 1 1.172 8z"/>
+															<path d="M8 5.5a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5M4.5 8a3.5 3.5 0 1 1 7 0 3.5 3.5 0 0 1-7 0"/>
+														</svg>
+														83														<hr />
+																										RISE Racing												</div>
+												<img class="rounded w-75 mx-auto d-block mb-3" src="/files/4DFD34D4-5B93-4A34-B1CB-7CB4F7807736.png" loading="lazy" />
+												<div class="card-main">
+													<hr />
+													<div class="card-text">
+														Site: riseracing.com<br />
+														Industry: Harness Racing industry<br />
+														GEO: Australia													</div>
+																									</div>
+											</div>
+											<div class="card-footer">
+												<button type="button" class="btn btn-lg btn-block indigo text-center text-white d-block m-auto company_button" data-bs-toggle="modal" data-bs-target="#company_114" style="padding: .375rem .75rem;">More info</button>
+											</div>
+										</div>
+									</div>
+																																			<div class="col">
+										<div class="sg-form card overflow-hidden rounded h-100 text-white">
+											<div class="card-body p-2">
+												<div class="card-title text-center fs-5">
+																											<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#ffffff" class="bi bi-eye" viewBox="0 0 16 16">
+															<path d="M16 8s-3-5.5-8-5.5S0 8 0 8s3 5.5 8 5.5S16 8 16 8M1.173 8a13 13 0 0 1 1.66-2.043C4.12 4.668 5.88 3.5 8 3.5s3.879 1.168 5.168 2.457A13 13 0 0 1 14.828 8q-.086.13-.195.288c-.335.48-.83 1.12-1.465 1.755C11.879 11.332 10.119 12.5 8 12.5s-3.879-1.168-5.168-2.457A13 13 0 0 1 1.172 8z"/>
+															<path d="M8 5.5a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5M4.5 8a3.5 3.5 0 1 1 7 0 3.5 3.5 0 0 1-7 0"/>
+														</svg>
+														69														<hr />
+																										Buford Ranches												</div>
+												<img class="rounded w-75 mx-auto d-block mb-3" src="/files/E7033DEB-3ECC-4D9B-A050-255CDB16D5F9.jpg" loading="lazy" />
+												<div class="card-main">
+													<hr />
+													<div class="card-text">
+														Site: bufordranches.com<br />
+														Industry: Agriculture<br />
+														GEO: USA													</div>
+																									</div>
+											</div>
+											<div class="card-footer">
+												<button type="button" class="btn btn-lg btn-block indigo text-center text-white d-block m-auto company_button" data-bs-toggle="modal" data-bs-target="#company_113" style="padding: .375rem .75rem;">More info</button>
+											</div>
+										</div>
+									</div>
+																																			<div class="col">
+										<div class="sg-form card overflow-hidden rounded h-100 text-white">
+											<div class="card-body p-2">
+												<div class="card-title text-center fs-5">
+																											<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#ffffff" class="bi bi-eye" viewBox="0 0 16 16">
+															<path d="M16 8s-3-5.5-8-5.5S0 8 0 8s3 5.5 8 5.5S16 8 16 8M1.173 8a13 13 0 0 1 1.66-2.043C4.12 4.668 5.88 3.5 8 3.5s3.879 1.168 5.168 2.457A13 13 0 0 1 14.828 8q-.086.13-.195.288c-.335.48-.83 1.12-1.465 1.755C11.879 11.332 10.119 12.5 8 12.5s-3.879-1.168-5.168-2.457A13 13 0 0 1 1.172 8z"/>
+															<path d="M8 5.5a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5M4.5 8a3.5 3.5 0 1 1 7 0 3.5 3.5 0 0 1-7 0"/>
+														</svg>
+														59														<hr />
+																										Strand Ag Supply												</div>
+												<img class="rounded w-75 mx-auto d-block mb-3" src="/files/19C754B2-FE24-4538-9F5D-02D632FA7D6C.jpg" loading="lazy" />
+												<div class="card-main">
+													<hr />
+													<div class="card-text">
+														Site: strandagsupply.com<br />
+														Industry: Agriculture<br />
+														GEO: USA													</div>
+																									</div>
+											</div>
+											<div class="card-footer">
+												<button type="button" class="btn btn-lg btn-block indigo text-center text-white d-block m-auto company_button" data-bs-toggle="modal" data-bs-target="#company_112" style="padding: .375rem .75rem;">More info</button>
+											</div>
+										</div>
+									</div>
+																																			<div class="col">
+										<div class="sg-form card overflow-hidden rounded h-100 text-white">
+											<div class="card-body p-2">
+												<div class="card-title text-center fs-5">
+																											<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#ffffff" class="bi bi-eye" viewBox="0 0 16 16">
+															<path d="M16 8s-3-5.5-8-5.5S0 8 0 8s3 5.5 8 5.5S16 8 16 8M1.173 8a13 13 0 0 1 1.66-2.043C4.12 4.668 5.88 3.5 8 3.5s3.879 1.168 5.168 2.457A13 13 0 0 1 14.828 8q-.086.13-.195.288c-.335.48-.83 1.12-1.465 1.755C11.879 11.332 10.119 12.5 8 12.5s-3.879-1.168-5.168-2.457A13 13 0 0 1 1.172 8z"/>
+															<path d="M8 5.5a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5M4.5 8a3.5 3.5 0 1 1 7 0 3.5 3.5 0 0 1-7 0"/>
+														</svg>
+														57														<hr />
+																										Miller & Stewart												</div>
+												<img class="rounded w-75 mx-auto d-block mb-3" src="/files/F4EEF504-AAE4-47CC-B4EF-8B9248C02E4C.jpg" loading="lazy" />
+												<div class="card-main">
+													<hr />
+													<div class="card-text">
+														Site: miller-stewart.com<br />
+														Industry: Accounting Services<br />
+														GEO: Brazil													</div>
+																									</div>
+											</div>
+											<div class="card-footer">
+												<button type="button" class="btn btn-lg btn-block indigo text-center text-white d-block m-auto company_button" data-bs-toggle="modal" data-bs-target="#company_111" style="padding: .375rem .75rem;">More info</button>
+											</div>
+										</div>
+									</div>
+																								</div>
+													<div class="row row-cols-4 mb-4">
+																										<div class="col">
+										<div class="sg-form card overflow-hidden rounded h-100 text-white">
+											<div class="card-body p-2">
+												<div class="card-title text-center fs-5">
+																											<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#ffffff" class="bi bi-eye" viewBox="0 0 16 16">
+															<path d="M16 8s-3-5.5-8-5.5S0 8 0 8s3 5.5 8 5.5S16 8 16 8M1.173 8a13 13 0 0 1 1.66-2.043C4.12 4.668 5.88 3.5 8 3.5s3.879 1.168 5.168 2.457A13 13 0 0 1 14.828 8q-.086.13-.195.288c-.335.48-.83 1.12-1.465 1.755C11.879 11.332 10.119 12.5 8 12.5s-3.879-1.168-5.168-2.457A13 13 0 0 1 1.172 8z"/>
+															<path d="M8 5.5a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5M4.5 8a3.5 3.5 0 1 1 7 0 3.5 3.5 0 0 1-7 0"/>
+														</svg>
+														63														<hr />
+																										Reece Noland & McElrath Engineers												</div>
+												<img class="rounded w-75 mx-auto d-block mb-3" src="/files/1766D292-5231-4833-B1BD-D96DF6D99A4C.png" loading="lazy" />
+												<div class="card-main">
+													<hr />
+													<div class="card-text">
+														Site: rnm-engineers.com<br />
+														Industry: Architecture, Engineering & Design<br />
+														GEO: USA													</div>
+																									</div>
+											</div>
+											<div class="card-footer">
+												<button type="button" class="btn btn-lg btn-block indigo text-center text-white d-block m-auto company_button" data-bs-toggle="modal" data-bs-target="#company_110" style="padding: .375rem .75rem;">More info</button>
+											</div>
+										</div>
+									</div>
+																																			<div class="col">
+										<div class="sg-form card overflow-hidden rounded h-100 text-white">
+											<div class="card-body p-2">
+												<div class="card-title text-center fs-5">
+																											<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#ffffff" class="bi bi-eye" viewBox="0 0 16 16">
+															<path d="M16 8s-3-5.5-8-5.5S0 8 0 8s3 5.5 8 5.5S16 8 16 8M1.173 8a13 13 0 0 1 1.66-2.043C4.12 4.668 5.88 3.5 8 3.5s3.879 1.168 5.168 2.457A13 13 0 0 1 14.828 8q-.086.13-.195.288c-.335.48-.83 1.12-1.465 1.755C11.879 11.332 10.119 12.5 8 12.5s-3.879-1.168-5.168-2.457A13 13 0 0 1 1.172 8z"/>
+															<path d="M8 5.5a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5M4.5 8a3.5 3.5 0 1 1 7 0 3.5 3.5 0 0 1-7 0"/>
+														</svg>
+														64														<hr />
+																										Flo Components												</div>
+												<img class="rounded w-75 mx-auto d-block mb-3" src="/files/2302EBF3-BB15-4814-9274-C6A047456307.jpg" loading="lazy" />
+												<div class="card-main">
+													<hr />
+													<div class="card-text">
+														Site: flocomponents.com<br />
+														Industry: Manufacturing<br />
+														GEO: Canada													</div>
+																									</div>
+											</div>
+											<div class="card-footer">
+												<button type="button" class="btn btn-lg btn-block indigo text-center text-white d-block m-auto company_button" data-bs-toggle="modal" data-bs-target="#company_109" style="padding: .375rem .75rem;">More info</button>
+											</div>
+										</div>
+									</div>
+																																			<div class="col">
+										<div class="sg-form card overflow-hidden rounded h-100 text-white">
+											<div class="card-body p-2">
+												<div class="card-title text-center fs-5">
+																											<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#ffffff" class="bi bi-eye" viewBox="0 0 16 16">
+															<path d="M16 8s-3-5.5-8-5.5S0 8 0 8s3 5.5 8 5.5S16 8 16 8M1.173 8a13 13 0 0 1 1.66-2.043C4.12 4.668 5.88 3.5 8 3.5s3.879 1.168 5.168 2.457A13 13 0 0 1 14.828 8q-.086.13-.195.288c-.335.48-.83 1.12-1.465 1.755C11.879 11.332 10.119 12.5 8 12.5s-3.879-1.168-5.168-2.457A13 13 0 0 1 1.172 8z"/>
+															<path d="M8 5.5a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5M4.5 8a3.5 3.5 0 1 1 7 0 3.5 3.5 0 0 1-7 0"/>
+														</svg>
+														70														<hr />
+																										DMG Contractors												</div>
+												<img class="rounded w-75 mx-auto d-block mb-3" src="/files/0EBD081C-64BB-4DCF-8D40-1407EB15E0FE.png" loading="lazy" />
+												<div class="card-main">
+													<hr />
+													<div class="card-text">
+														Site: dmgcontractors.com<br />
+														Industry: Real Estate<br />
+														GEO: USA													</div>
+																									</div>
+											</div>
+											<div class="card-footer">
+												<button type="button" class="btn btn-lg btn-block indigo text-center text-white d-block m-auto company_button" data-bs-toggle="modal" data-bs-target="#company_108" style="padding: .375rem .75rem;">More info</button>
+											</div>
+										</div>
+									</div>
+																																			<div class="col">
+										<div class="sg-form card overflow-hidden rounded h-100 text-white">
+											<div class="card-body p-2">
+												<div class="card-title text-center fs-5">
+																											<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#ffffff" class="bi bi-eye" viewBox="0 0 16 16">
+															<path d="M16 8s-3-5.5-8-5.5S0 8 0 8s3 5.5 8 5.5S16 8 16 8M1.173 8a13 13 0 0 1 1.66-2.043C4.12 4.668 5.88 3.5 8 3.5s3.879 1.168 5.168 2.457A13 13 0 0 1 14.828 8q-.086.13-.195.288c-.335.48-.83 1.12-1.465 1.755C11.879 11.332 10.119 12.5 8 12.5s-3.879-1.168-5.168-2.457A13 13 0 0 1 1.172 8z"/>
+															<path d="M8 5.5a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5M4.5 8a3.5 3.5 0 1 1 7 0 3.5 3.5 0 0 1-7 0"/>
+														</svg>
+														217														<hr />
+																										Decoline												</div>
+												<img class="rounded w-75 mx-auto d-block mb-3" src="/files/80EA6CCF-AB5C-4DA9-BBB2-D8688D4D71D7.png" loading="lazy" />
+												<div class="card-main">
+													<hr />
+													<div class="card-text">
+														Site: decoline.com<br />
+														Industry: Business Services<br />
+														GEO: Belgium													</div>
+																									</div>
+											</div>
+											<div class="card-footer">
+												<button type="button" class="btn btn-lg btn-block indigo text-center text-white d-block m-auto company_button" data-bs-toggle="modal" data-bs-target="#company_107" style="padding: .375rem .75rem;">More info</button>
+											</div>
+										</div>
+									</div>
+																								</div>
+													<div class="row row-cols-4 mb-4">
+																										<div class="col">
+										<div class="sg-form card overflow-hidden rounded h-100 text-white">
+											<div class="card-body p-2">
+												<div class="card-title text-center fs-5">
+																											<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#ffffff" class="bi bi-eye" viewBox="0 0 16 16">
+															<path d="M16 8s-3-5.5-8-5.5S0 8 0 8s3 5.5 8 5.5S16 8 16 8M1.173 8a13 13 0 0 1 1.66-2.043C4.12 4.668 5.88 3.5 8 3.5s3.879 1.168 5.168 2.457A13 13 0 0 1 14.828 8q-.086.13-.195.288c-.335.48-.83 1.12-1.465 1.755C11.879 11.332 10.119 12.5 8 12.5s-3.879-1.168-5.168-2.457A13 13 0 0 1 1.172 8z"/>
+															<path d="M8 5.5a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5M4.5 8a3.5 3.5 0 1 1 7 0 3.5 3.5 0 0 1-7 0"/>
+														</svg>
+														140														<hr />
+																										Defiance												</div>
+												<img class="rounded w-75 mx-auto d-block mb-3" src="/files/5C184D95-9F90-4B66-B28D-371E6C9FA3E1.png" loading="lazy" />
+												<div class="card-main">
+													<hr />
+													<div class="card-text">
+														Site: defiancellc.com<br />
+														Industry: Energy, Utilities & Waste<br />
+														GEO: USA													</div>
+																									</div>
+											</div>
+											<div class="card-footer">
+												<button type="button" class="btn btn-lg btn-block indigo text-center text-white d-block m-auto company_button" data-bs-toggle="modal" data-bs-target="#company_106" style="padding: .375rem .75rem;">More info</button>
+											</div>
+										</div>
+									</div>
+																																			<div class="col">
+										<div class="sg-form card overflow-hidden rounded h-100 text-white">
+											<div class="card-body p-2">
+												<div class="card-title text-center fs-5">
+																											<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#ffffff" class="bi bi-eye" viewBox="0 0 16 16">
+															<path d="M16 8s-3-5.5-8-5.5S0 8 0 8s3 5.5 8 5.5S16 8 16 8M1.173 8a13 13 0 0 1 1.66-2.043C4.12 4.668 5.88 3.5 8 3.5s3.879 1.168 5.168 2.457A13 13 0 0 1 14.828 8q-.086.13-.195.288c-.335.48-.83 1.12-1.465 1.755C11.879 11.332 10.119 12.5 8 12.5s-3.879-1.168-5.168-2.457A13 13 0 0 1 1.172 8z"/>
+															<path d="M8 5.5a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5M4.5 8a3.5 3.5 0 1 1 7 0 3.5 3.5 0 0 1-7 0"/>
+														</svg>
+														106														<hr />
+																										NNC Firm												</div>
+												<img class="rounded w-75 mx-auto d-block mb-3" src="/files/94396EE3-D235-4AAB-9AE4-4562B4AE1C74.png" loading="lazy" />
+												<div class="card-main">
+													<hr />
+													<div class="card-text">
+														Site: nncfirm.ca<br />
+														Industry: Law Firms & Legal Services<br />
+														GEO: Canada													</div>
+																									</div>
+											</div>
+											<div class="card-footer">
+												<button type="button" class="btn btn-lg btn-block indigo text-center text-white d-block m-auto company_button" data-bs-toggle="modal" data-bs-target="#company_105" style="padding: .375rem .75rem;">More info</button>
+											</div>
+										</div>
+									</div>
+																																			<div class="col">
+										<div class="sg-form card overflow-hidden rounded h-100 text-white">
+											<div class="card-body p-2">
+												<div class="card-title text-center fs-5">
+																											<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#ffffff" class="bi bi-eye" viewBox="0 0 16 16">
+															<path d="M16 8s-3-5.5-8-5.5S0 8 0 8s3 5.5 8 5.5S16 8 16 8M1.173 8a13 13 0 0 1 1.66-2.043C4.12 4.668 5.88 3.5 8 3.5s3.879 1.168 5.168 2.457A13 13 0 0 1 14.828 8q-.086.13-.195.288c-.335.48-.83 1.12-1.465 1.755C11.879 11.332 10.119 12.5 8 12.5s-3.879-1.168-5.168-2.457A13 13 0 0 1 1.172 8z"/>
+															<path d="M8 5.5a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5M4.5 8a3.5 3.5 0 1 1 7 0 3.5 3.5 0 0 1-7 0"/>
+														</svg>
+														281														<hr />
+																										Sinalisa Segurança Viária Ltda												</div>
+												<img class="rounded w-75 mx-auto d-block mb-3" src="/files/80ADA97F-4526-4B98-84B6-5164B1FCFAA5.jpg" loading="lazy" />
+												<div class="card-main">
+													<hr />
+													<div class="card-text">
+														Site: sinalisa.com.br<br />
+														Industry: Civil Engineering Construction<br />
+														GEO: Brazil													</div>
+																									</div>
+											</div>
+											<div class="card-footer">
+												<button type="button" class="btn btn-lg btn-block indigo text-center text-white d-block m-auto company_button" data-bs-toggle="modal" data-bs-target="#company_104" style="padding: .375rem .75rem;">More info</button>
+											</div>
+										</div>
+									</div>
+																																			<div class="col">
+										<div class="sg-form card overflow-hidden rounded h-100 text-white">
+											<div class="card-body p-2">
+												<div class="card-title text-center fs-5">
+																											<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#ffffff" class="bi bi-eye" viewBox="0 0 16 16">
+															<path d="M16 8s-3-5.5-8-5.5S0 8 0 8s3 5.5 8 5.5S16 8 16 8M1.173 8a13 13 0 0 1 1.66-2.043C4.12 4.668 5.88 3.5 8 3.5s3.879 1.168 5.168 2.457A13 13 0 0 1 14.828 8q-.086.13-.195.288c-.335.48-.83 1.12-1.465 1.755C11.879 11.332 10.119 12.5 8 12.5s-3.879-1.168-5.168-2.457A13 13 0 0 1 1.172 8z"/>
+															<path d="M8 5.5a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5M4.5 8a3.5 3.5 0 1 1 7 0 3.5 3.5 0 0 1-7 0"/>
+														</svg>
+														929														<hr />
+																										Lubiam												</div>
+												<img class="rounded w-75 mx-auto d-block mb-3" src="/files/AB2E180A-BFEA-4698-BA3A-6C2EC3C536ED.jpeg" loading="lazy" />
+												<div class="card-main">
+													<hr />
+													<div class="card-text">
+														Site: lubiam.it<br />
+														Industry: Apparel & Accessories Retail<br />
+														GEO: Italy													</div>
+																									</div>
+											</div>
+											<div class="card-footer">
+												<button type="button" class="btn btn-lg btn-block indigo text-center text-white d-block m-auto company_button" data-bs-toggle="modal" data-bs-target="#company_103" style="padding: .375rem .75rem;">More info</button>
+											</div>
+										</div>
+									</div>
+																								</div>
+													<div class="row row-cols-4 mb-4">
+																										<div class="col">
+										<div class="sg-form card overflow-hidden rounded h-100 text-white">
+											<div class="card-body p-2">
+												<div class="card-title text-center fs-5">
+																											<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#ffffff" class="bi bi-eye" viewBox="0 0 16 16">
+															<path d="M16 8s-3-5.5-8-5.5S0 8 0 8s3 5.5 8 5.5S16 8 16 8M1.173 8a13 13 0 0 1 1.66-2.043C4.12 4.668 5.88 3.5 8 3.5s3.879 1.168 5.168 2.457A13 13 0 0 1 14.828 8q-.086.13-.195.288c-.335.48-.83 1.12-1.465 1.755C11.879 11.332 10.119 12.5 8 12.5s-3.879-1.168-5.168-2.457A13 13 0 0 1 1.172 8z"/>
+															<path d="M8 5.5a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5M4.5 8a3.5 3.5 0 1 1 7 0 3.5 3.5 0 0 1-7 0"/>
+														</svg>
+														1449														<hr />
+																										Ju Percussion Group												</div>
+												<img class="rounded w-75 mx-auto d-block mb-3" src="/files/C1A25717-578D-4982-9CAF-9D0888FD49F6.jpg" loading="lazy" />
+												<div class="card-main">
+													<hr />
+													<div class="card-text">
+														Site: jpg.org.tw<br />
+														Industry: Media & Internet<br />
+														GEO: Taiwan													</div>
+																									</div>
+											</div>
+											<div class="card-footer">
+												<button type="button" class="btn btn-lg btn-block indigo text-center text-white d-block m-auto company_button" data-bs-toggle="modal" data-bs-target="#company_102" style="padding: .375rem .75rem;">More info</button>
+											</div>
+										</div>
+									</div>
+																																			<div class="col">
+										<div class="sg-form card overflow-hidden rounded h-100 text-white">
+											<div class="card-body p-2">
+												<div class="card-title text-center fs-5">
+																											<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#ffffff" class="bi bi-eye" viewBox="0 0 16 16">
+															<path d="M16 8s-3-5.5-8-5.5S0 8 0 8s3 5.5 8 5.5S16 8 16 8M1.173 8a13 13 0 0 1 1.66-2.043C4.12 4.668 5.88 3.5 8 3.5s3.879 1.168 5.168 2.457A13 13 0 0 1 14.828 8q-.086.13-.195.288c-.335.48-.83 1.12-1.465 1.755C11.879 11.332 10.119 12.5 8 12.5s-3.879-1.168-5.168-2.457A13 13 0 0 1 1.172 8z"/>
+															<path d="M8 5.5a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5M4.5 8a3.5 3.5 0 1 1 7 0 3.5 3.5 0 0 1-7 0"/>
+														</svg>
+														1263														<hr />
+																										Manchester Credit Union												</div>
+												<img class="rounded w-75 mx-auto d-block mb-3" src="/files/F299E249-F8C3-4CCA-8895-30BCC6215FDA.jpg" loading="lazy" />
+												<div class="card-main">
+													<hr />
+													<div class="card-text">
+														Site: manchestercreditunion.co.uk<br />
+														Industry: Banking<br />
+														GEO: United Kingdom													</div>
+																									</div>
+											</div>
+											<div class="card-footer">
+												<button type="button" class="btn btn-lg btn-block indigo text-center text-white d-block m-auto company_button" data-bs-toggle="modal" data-bs-target="#company_101" style="padding: .375rem .75rem;">More info</button>
+											</div>
+										</div>
+									</div>
+																																			<div class="col">
+										<div class="sg-form card overflow-hidden rounded h-100 text-white">
+											<div class="card-body p-2">
+												<div class="card-title text-center fs-5">
+																											<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#ffffff" class="bi bi-eye" viewBox="0 0 16 16">
+															<path d="M16 8s-3-5.5-8-5.5S0 8 0 8s3 5.5 8 5.5S16 8 16 8M1.173 8a13 13 0 0 1 1.66-2.043C4.12 4.668 5.88 3.5 8 3.5s3.879 1.168 5.168 2.457A13 13 0 0 1 14.828 8q-.086.13-.195.288c-.335.48-.83 1.12-1.465 1.755C11.879 11.332 10.119 12.5 8 12.5s-3.879-1.168-5.168-2.457A13 13 0 0 1 1.172 8z"/>
+															<path d="M8 5.5a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5M4.5 8a3.5 3.5 0 1 1 7 0 3.5 3.5 0 0 1-7 0"/>
+														</svg>
+														1498														<hr />
+																										FAKO-M Getränke												</div>
+												<img class="rounded w-75 mx-auto d-block mb-3" src="/files/E946502C-4D38-4F63-8E66-57CC8FB0D868.png" loading="lazy" />
+												<div class="card-main">
+													<hr />
+													<div class="card-text">
+														Site: fako-m.de<br />
+														Industry: Retail and end consumers<br />
+														GEO: Germany													</div>
+																									</div>
+											</div>
+											<div class="card-footer">
+												<button type="button" class="btn btn-lg btn-block indigo text-center text-white d-block m-auto company_button" data-bs-toggle="modal" data-bs-target="#company_100" style="padding: .375rem .75rem;">More info</button>
+											</div>
+										</div>
+									</div>
+																																			<div class="col">
+										<div class="sg-form card overflow-hidden rounded h-100 text-white">
+											<div class="card-body p-2">
+												<div class="card-title text-center fs-5">
+																											<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#ffffff" class="bi bi-eye" viewBox="0 0 16 16">
+															<path d="M16 8s-3-5.5-8-5.5S0 8 0 8s3 5.5 8 5.5S16 8 16 8M1.173 8a13 13 0 0 1 1.66-2.043C4.12 4.668 5.88 3.5 8 3.5s3.879 1.168 5.168 2.457A13 13 0 0 1 14.828 8q-.086.13-.195.288c-.335.48-.83 1.12-1.465 1.755C11.879 11.332 10.119 12.5 8 12.5s-3.879-1.168-5.168-2.457A13 13 0 0 1 1.172 8z"/>
+															<path d="M8 5.5a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5M4.5 8a3.5 3.5 0 1 1 7 0 3.5 3.5 0 0 1-7 0"/>
+														</svg>
+														2294														<hr />
+																										Schultz Industries Inc.												</div>
+												<img class="rounded w-75 mx-auto d-block mb-3" src="/files/D4818562-531D-43BD-AA63-F19D4A5DC9F6.gif" loading="lazy" />
+												<div class="card-main">
+													<hr />
+													<div class="card-text">
+														Site: schultzindustries.com<br />
+														Industry: Landscape maintenance and installation company<br />
+														GEO: USA													</div>
+																									</div>
+											</div>
+											<div class="card-footer">
+												<button type="button" class="btn btn-lg btn-block indigo text-center text-white d-block m-auto company_button" data-bs-toggle="modal" data-bs-target="#company_99" style="padding: .375rem .75rem;">More info</button>
+											</div>
+										</div>
+									</div>
+																								</div>
+											</div>
+				</section>
+			</div>
+							<div class="text-center text-white">
+										<a href="/?page=1" class="text-white text-decoration-none">1</a>
+										<a href="/?page=2" class="text-white">2</a>
+										<a href="/?page=3" class="text-white">3</a>
+										<a href="/?page=4" class="text-white">4</a>
+										<a href="/?page=5" class="text-white">5</a>
+										<a href="/?page=6" class="text-white">6</a>
+									</div>
+						<div class="container">
+				<div class="row my-3">
+					<div class="col-4 text-center">
+						<a href="#" class="text-center text-white m-auto fs-4" data-bs-toggle="modal" data-bs-target="#contacts">Contacts</a>
+					</div>
+					<div class="col-4 text-center">
+						<a href="#" class="text-center text-white m-auto fs-4" data-bs-toggle="modal" data-bs-target="#about">About Us</a>
+					</div>
+					<div class="col-4 text-center">
+						<a href="/news" class="text-center text-white m-auto fs-4">News</a>
+					</div>
+				</div>
+			</div>
+							<div class="modal fade company_modal" id="company_118" tabindex="-1" aria-labelledby="company_118_label" aria-hidden="true" data-id="118">
+					<div class="modal-dialog modal-lg modal-dialog-centered modal-dialog-scrollable">
+						<div class="modal-content sg-form">
+							<div class="modal-header">
+								<h5 class="modal-title text-white" id="company_118_label">Victim</h5>
+								<button type="button" class="btn-close bg-danger" data-bs-dismiss="modal" aria-label="Close"></button>
+							</div>
+							<div class="modal-body text-white">
+								<pre class="text-break mb-2" style="white-space: pre-line;">Victim</pre>
+								<hr />
+								<div>GEO: Latvia</div>
+								<div>Leak size: 370 GB</div>
+																	<div>Contains: Files</div>
+																<hr />
+																									<img src="/files/3D2C2E57-DE71-4170-9B7A-470F31F1DC13.jpg" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/F5AC9620-8138-4CB6-8D1B-1228A5EE8FB4.jpg" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/5191D810-9FD6-4D54-ABAD-9308DCDA82AF.jpg" class="d-block mw-100 mb-2" loading="lazy" />
+															</div>
+						</div>
+					</div>
+				</div>
+							<div class="modal fade company_modal" id="company_117" tabindex="-1" aria-labelledby="company_117_label" aria-hidden="true" data-id="117">
+					<div class="modal-dialog modal-lg modal-dialog-centered modal-dialog-scrollable">
+						<div class="modal-content sg-form">
+							<div class="modal-header">
+								<h5 class="modal-title text-white" id="company_117_label">PPM Industries SpA</h5>
+								<button type="button" class="btn-close bg-danger" data-bs-dismiss="modal" aria-label="Close"></button>
+							</div>
+							<div class="modal-body text-white">
+								<pre class="text-break mb-2" style="white-space: pre-line;">PPM Industries SpA
+Adhesive tape PPM Industries
+As a leading masking tape manufacturer, PPM Industries has been at the forefront of adhesive tape production since 1993.
+Our expertise in developing high-quality masking and adhesive tape solutions ensures that we meet diverse user requirements and applications across various markets. We pride ourselves on being a trusted partner to B2B customers worldwide, delivering reliable and innovative masking tape products. Trust PPM Industries for adhesive tape solutions you can depend on.</pre>
+								<hr />
+								<div>GEO: Italy</div>
+								<div>Leak size: 288 GB Archive</div>
+																	<div>Contains: Files, SQL</div>
+																<hr />
+																									<img src="/files/1F8DE75D-A225-4483-89EB-910E3F2D495D.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/9B221F90-7639-4751-AA1B-12FAE63F463A.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/4A56954D-BBE7-4756-9C14-0449D2933280.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/2B403C29-60E1-41D9-945D-C305E1F434F8.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/FFAF0FCC-54B4-4B03-85E3-0863BDFC76AA.png" class="d-block mw-100 mb-2" loading="lazy" />
+															</div>
+						</div>
+					</div>
+				</div>
+							<div class="modal fade company_modal" id="company_116" tabindex="-1" aria-labelledby="company_116_label" aria-hidden="true" data-id="116">
+					<div class="modal-dialog modal-lg modal-dialog-centered modal-dialog-scrollable">
+						<div class="modal-content sg-form">
+							<div class="modal-header">
+								<h5 class="modal-title text-white" id="company_116_label">Norgeshus</h5>
+								<button type="button" class="btn-close bg-danger" data-bs-dismiss="modal" aria-label="Close"></button>
+							</div>
+							<div class="modal-body text-white">
+								<pre class="text-break mb-2" style="white-space: pre-line;">Norgeshus
+The most important thing you should know about Norgeshus is that we deliver tailor-made solutions to you as a house builder. The house you like in the catalogue is just a starting point. Together with our architects and engineers, you will find the solutions that make your house your DREAM HOUSE.
+The most important thing you should know about Norgeshus as a house supplier is that we deliver tailor-made solutions to you who are building a house. Be inspired by our house catalogue. The house you like in the catalogue is just a starting point. Our architects and engineers help you make it your dream house. 
+For over 35 years, Norgeshus has built 25,000 homes from Svalbard to Kristiansand. Norgeshus has dealers all over the country who deliver the same safe quality, no matter where you build and live. Find your local dealer to get started with your housing project! 
+We at Norgeshus take pride in offering solid professional expertise and good service, no matter which of our dealers you use. Our craftsmen are passionate about their profession and their craft. At Norgeshus, we listen to our customers and provide professional advice, making it easier for you to make the right decisions when building a house for you and yours.</pre>
+								<hr />
+								<div>GEO: Norway</div>
+								<div>Leak size: 78 GB Archive</div>
+																	<div>Contains: Files, SQL, Exchange</div>
+																<hr />
+																	<div class="text-center text-danger">Download Link: <a href="http://lq4acyymyobtq7tafyspo7zlm4bwnmpyyknbtb3zefq2zdy3xxiu5nad.onion/" target="_blank" class="text-danger">http://lq4acyymyobtq7tafyspo7zlm4bwnmpyyknbtb3zefq2zdy3xxiu5nad.onion/</a></div>
+									<hr />
+																									<img src="/files/6A327A1A-BF44-42D6-B80D-E2E02D2128A2.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/BF99E52F-DDC4-455D-8459-F9E834EE34A1.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/DDC63993-2E5B-4D84-8B3D-AC2F770FAF18.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/8DD2F385-0240-48DD-B628-085A5FAF2AF1.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/DA86ED96-0DF9-4DC2-A878-E5341264ABF9.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/BD2A5A2F-D558-4096-B689-65F0C10D7EEA.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/215DC9CC-B13A-46EA-BB42-CAE22605257A.png" class="d-block mw-100 mb-2" loading="lazy" />
+															</div>
+						</div>
+					</div>
+				</div>
+							<div class="modal fade company_modal" id="company_115" tabindex="-1" aria-labelledby="company_115_label" aria-hidden="true" data-id="115">
+					<div class="modal-dialog modal-lg modal-dialog-centered modal-dialog-scrollable">
+						<div class="modal-content sg-form">
+							<div class="modal-header">
+								<h5 class="modal-title text-white" id="company_115_label">APH Svenska</h5>
+								<button type="button" class="btn-close bg-danger" data-bs-dismiss="modal" aria-label="Close"></button>
+							</div>
+							<div class="modal-body text-white">
+								<pre class="text-break mb-2" style="white-space: pre-line;">APH Svenska
+APH Svenska AB is a company that operates in the Flowers, Gifts & Specialty Stores industry. It employs 100to249 people and has 5Mto10M of revenue. The company is headquartered in Malmoe, Skane, Sweden</pre>
+								<hr />
+								<div>GEO: Sweden</div>
+								<div>Leak size: 174 GB Archive</div>
+																	<div>Contains: Files</div>
+																<hr />
+																	<div class="text-center text-danger">Download Link: <a href="http://cgewcqt4x7kb7xgkfu2r3yv5wifzvpx6tojonay3kdgs5tqpjvkd5bqd.onion/" target="_blank" class="text-danger">http://cgewcqt4x7kb7xgkfu2r3yv5wifzvpx6tojonay3kdgs5tqpjvkd5bqd.onion/</a></div>
+									<hr />
+																									<img src="/files/6E51E5A2-C2E8-4ACE-A176-9B6871042D4D.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/631EC588-6B40-4C25-BC8C-CA8213CFD4D5.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/4454B2E5-10F2-4EB0-BBFB-57E12210F185.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/4BEAC206-650B-4E91-A918-F1517E2AC49B.png" class="d-block mw-100 mb-2" loading="lazy" />
+															</div>
+						</div>
+					</div>
+				</div>
+							<div class="modal fade company_modal" id="company_114" tabindex="-1" aria-labelledby="company_114_label" aria-hidden="true" data-id="114">
+					<div class="modal-dialog modal-lg modal-dialog-centered modal-dialog-scrollable">
+						<div class="modal-content sg-form">
+							<div class="modal-header">
+								<h5 class="modal-title text-white" id="company_114_label">RISE Racing</h5>
+								<button type="button" class="btn-close bg-danger" data-bs-dismiss="modal" aria-label="Close"></button>
+							</div>
+							<div class="modal-body text-white">
+								<pre class="text-break mb-2" style="white-space: pre-line;">RISE Racing
+RISE Racing is the data and systems provider for the Australian Harness Racing industry.
+Our charter is to drive and deliver digital innovation for the benefit of racing authorities, race clubs, owners, breeders, trainers, drivers and racing enthusiasts alike.</pre>
+								<hr />
+								<div>GEO: Australia</div>
+								<div>Leak size: 1,6 GB Archive</div>
+																	<div>Contains: Files</div>
+																<hr />
+																	<div class="text-center text-danger">Download Link: <a href="http://m7k6jgadomd3nd2mor5sefnuowtwktfjvzihydx6zy2tkohv6aatr3ad.onion/" target="_blank" class="text-danger">http://m7k6jgadomd3nd2mor5sefnuowtwktfjvzihydx6zy2tkohv6aatr3ad.onion/</a></div>
+									<hr />
+																									<img src="/files/F90555D4-A242-4410-BF2A-40AE07B4A93E.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/0F0DF661-C12A-4D4E-8B2B-6CCAA128090E.png" class="d-block mw-100 mb-2" loading="lazy" />
+															</div>
+						</div>
+					</div>
+				</div>
+							<div class="modal fade company_modal" id="company_113" tabindex="-1" aria-labelledby="company_113_label" aria-hidden="true" data-id="113">
+					<div class="modal-dialog modal-lg modal-dialog-centered modal-dialog-scrollable">
+						<div class="modal-content sg-form">
+							<div class="modal-header">
+								<h5 class="modal-title text-white" id="company_113_label">Buford Ranches</h5>
+								<button type="button" class="btn-close bg-danger" data-bs-dismiss="modal" aria-label="Close"></button>
+							</div>
+							<div class="modal-body text-white">
+								<pre class="text-break mb-2" style="white-space: pre-line;">Buford Ranches
+Buford Ranches LLC is a company that operates in the Animals & Livestock industry. It employs 20to49 people and has 5Mto10M of revenue. The company is headquartered in Tulsa, Oklahoma.</pre>
+								<hr />
+								<div>GEO: USA</div>
+								<div>Leak size: 12 GB Archive</div>
+																	<div>Contains: Files</div>
+																<hr />
+																	<div class="text-center text-danger">Download Link: <a href="http://vysjfhy5gpr2f4p6amiamjo36emgbyh3xelsxg6sudisdfwtfor4rjqd.onion/" target="_blank" class="text-danger">http://vysjfhy5gpr2f4p6amiamjo36emgbyh3xelsxg6sudisdfwtfor4rjqd.onion/</a></div>
+									<hr />
+																									<img src="/files/77693BE1-5656-4466-9382-D73B61AFA317.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/9C5CB9F5-588D-40FE-961B-28AFF0A90F68.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/8953FD7F-08F9-431B-88C0-9AC47294BDB7.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/FB06122E-E3B0-4958-92A0-FFBBBF82F7D3.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/CF895025-7E3A-4B5D-9E69-3990AE8A5FAE.png" class="d-block mw-100 mb-2" loading="lazy" />
+															</div>
+						</div>
+					</div>
+				</div>
+							<div class="modal fade company_modal" id="company_112" tabindex="-1" aria-labelledby="company_112_label" aria-hidden="true" data-id="112">
+					<div class="modal-dialog modal-lg modal-dialog-centered modal-dialog-scrollable">
+						<div class="modal-content sg-form">
+							<div class="modal-header">
+								<h5 class="modal-title text-white" id="company_112_label">Strand Ag Supply</h5>
+								<button type="button" class="btn-close bg-danger" data-bs-dismiss="modal" aria-label="Close"></button>
+							</div>
+							<div class="modal-body text-white">
+								<pre class="text-break mb-2" style="white-space: pre-line;">Strand Ag Supply
+Steve Strand began working at the old Balswick's Poultry back in 1984. After questioning where his career would take him, Steve jumped at an opportunity to buy the company in 1999. That was the year that Strand Ag Supply was born. 
+Today, Strand Ag Supply is a large distributor for poultry equipment. From nuts and bolts to large silos for grain storage, there is little that Strand Ag Supply does not provide to help farmers, small or large, work more efficiently during production. And that is our whole goal at Strand Ag: To provide the best equipment and superior service to help our customers produce at the highest levels.</pre>
+								<hr />
+								<div>GEO: USA</div>
+								<div>Leak size: 16 GB Archive</div>
+																	<div>Contains: Files</div>
+																<hr />
+																	<div class="text-center text-danger">Download Link: <a href="http://tbkqp6pbl7uq2ymiii2jqzbre5igk2xtaruzm7fcdtstmufsssekukid.onion/" target="_blank" class="text-danger">http://tbkqp6pbl7uq2ymiii2jqzbre5igk2xtaruzm7fcdtstmufsssekukid.onion/</a></div>
+									<hr />
+																									<img src="/files/E3E76A0E-D093-41B8-8ED4-DBC9D1655D29.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/0169B6D3-BDFA-48E2-A63E-3BA809F9BB03.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/F97ACA2B-611A-41F2-9271-593D9D997B0A.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/62DC0A67-2D4C-4047-B1F3-15324349FBE2.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/B4E360A2-100C-4542-AE26-52BCE1DC319F.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/27418A78-71E7-4205-8DDA-2CE3FE6C4AC7.png" class="d-block mw-100 mb-2" loading="lazy" />
+															</div>
+						</div>
+					</div>
+				</div>
+							<div class="modal fade company_modal" id="company_111" tabindex="-1" aria-labelledby="company_111_label" aria-hidden="true" data-id="111">
+					<div class="modal-dialog modal-lg modal-dialog-centered modal-dialog-scrollable">
+						<div class="modal-content sg-form">
+							<div class="modal-header">
+								<h5 class="modal-title text-white" id="company_111_label">Miller & Stewart</h5>
+								<button type="button" class="btn-close bg-danger" data-bs-dismiss="modal" aria-label="Close"></button>
+							</div>
+							<div class="modal-body text-white">
+								<pre class="text-break mb-2" style="white-space: pre-line;">Miller & Stewart
+Our firm provides outstanding service to our clients because of our dedication to three underlying principles: professionalism, responsiveness, and quality.
+Professionalism
+We believe our high standards, service, and specialized staff make a difference and are dedicated to ensuring every client receives personal attention. We also know how important it is to stay informed about new developments in tax law and other related topics. As such, we continually educate ourselves through professional organizations to improve our technical expertise and financial knowledge, as well as how to serve our clients better using state-of-the-art technologies.
+Responsiveness
+We provide comprehensive financial services to individuals, small to medium-sized businesses, and other agencies. Dedicated to serving client needs throughout the year - not just at tax time - we strive to respond quickly to any concerns our clients have. To see a listing of our services, please take a moment and look at our services page.
+Quality
+As trusted advisors, we are available to assist our clients at any time to provide insightful advice that enables them to make informed financial decisions. If you have any questions or want to learn more about how we can help you achieve your financial goals, don't hesitate to contact us today.</pre>
+								<hr />
+								<div>GEO: Brazil</div>
+								<div>Leak size: 13 GB Archive</div>
+																	<div>Contains: Files,SQL</div>
+																<hr />
+																	<div class="text-center text-danger">Download Link: <a href="http://nzqvpyyznsn4c3ubidcpywr5iqtnjn3lkcsafnjtsmozowmbjforgeqd.onion/" target="_blank" class="text-danger">http://nzqvpyyznsn4c3ubidcpywr5iqtnjn3lkcsafnjtsmozowmbjforgeqd.onion/</a></div>
+									<hr />
+																									<img src="/files/06FC5031-EE3A-453F-BEAF-6096AA324C17.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/A64736D2-6A8D-4210-BF14-739206D5D12B.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/B91AE14F-C633-4627-8F31-8010141388B2.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/F24E6C1D-FD4B-4BF2-B05B-2C32E620E7CF.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/1237986C-7C70-45CC-9972-7C0EEB467C5E.png" class="d-block mw-100 mb-2" loading="lazy" />
+															</div>
+						</div>
+					</div>
+				</div>
+							<div class="modal fade company_modal" id="company_110" tabindex="-1" aria-labelledby="company_110_label" aria-hidden="true" data-id="110">
+					<div class="modal-dialog modal-lg modal-dialog-centered modal-dialog-scrollable">
+						<div class="modal-content sg-form">
+							<div class="modal-header">
+								<h5 class="modal-title text-white" id="company_110_label">Reece Noland & McElrath Engineers</h5>
+								<button type="button" class="btn-close bg-danger" data-bs-dismiss="modal" aria-label="Close"></button>
+							</div>
+							<div class="modal-body text-white">
+								<pre class="text-break mb-2" style="white-space: pre-line;">Reece Noland & McElrath Engineers
+Reece, Noland & McElrath, Inc. is a client-focused engineering design and consulting firm. We provide a full range of design and consulting services for education, health care, industrial, commercial, and institutional facilities.
+Founded in 1960, RN&M has successfully developed a range of engineering services encompassing feasibility studies, design, construction phase administration, and commissioning. In addition to traditional HVAC, plumbing, and electrical design, we have extensive experience with sustainable design concepts such as solar systems, rain water reuse, geothermal, day lighting and photovoltaics. We also have expertise in specialized systems such as telecommunications, instrumentation, special lighting, and fire protection.
+While keeping abreast of ever-changing technology, we have maintained our focus on the basic business principles that have been the foundation of our success: close communication with our clients, meeting deadlines, and respecting budgets. We are small enough to give your project the personal attention needed by our principals and yet large enough to support the project schedule.</pre>
+								<hr />
+								<div>GEO: USA</div>
+								<div>Leak size: 142 GB Archive</div>
+																	<div>Contains: Files</div>
+																<hr />
+																	<div class="text-center text-danger">Download Link: <a href="http://isxttzwtr7havmbj2qmyb7stwmrds32ye42iwc7kxj55adbexdnbfoqd.onion/" target="_blank" class="text-danger">http://isxttzwtr7havmbj2qmyb7stwmrds32ye42iwc7kxj55adbexdnbfoqd.onion/</a></div>
+									<hr />
+																									<img src="/files/730643AE-9F41-464E-BEBF-F59C17C3F5D1.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/38C3F096-8D03-47E6-8E1F-E2D889F5DDAA.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/9CB6F3A3-55DF-41CD-9AA2-7314051221BE.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/66DA95FD-66C1-471D-A4E5-E7B64C212181.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/E9D585AE-03B7-4871-A576-6D81E7AEFE7B.png" class="d-block mw-100 mb-2" loading="lazy" />
+															</div>
+						</div>
+					</div>
+				</div>
+							<div class="modal fade company_modal" id="company_109" tabindex="-1" aria-labelledby="company_109_label" aria-hidden="true" data-id="109">
+					<div class="modal-dialog modal-lg modal-dialog-centered modal-dialog-scrollable">
+						<div class="modal-content sg-form">
+							<div class="modal-header">
+								<h5 class="modal-title text-white" id="company_109_label">Flo Components</h5>
+								<button type="button" class="btn-close bg-danger" data-bs-dismiss="modal" aria-label="Close"></button>
+							</div>
+							<div class="modal-body text-white">
+								<pre class="text-break mb-2" style="white-space: pre-line;">Flo Components
+FLO Components Ltd. is an automatic greasing systems specialist and has been a leading supplier of “Total Lube Solutions” to major manufacturers since 1977. More recently, FLO has teamed up with AFEX to help FLO customers protect their critical heavy equipment with the only Fire Suppression Systems designed specifically for heavy mobile equipment.
+With offices in Mississauga, ON and Winnipeg, MB, FLO uses application expertise, qualified installation and service technicians, combined with high-quality products to provide effective Equipment Reliability Solutions for all types of vehicle fire suppression, manual lubrication, central automatic lubrication and fluid handling applications.
+We design, assemble and install the highest quality automated systems, using components from industry leaders such as AFEX, Graco, SKF, Lincoln, Alemite, Trico, Perma, Oil-Rite, Petro-Canada, Lubcon, Super Lube, Anderol and other world-class manufacturers.</pre>
+								<hr />
+								<div>GEO: Canada</div>
+								<div>Leak size: 172 GB Archive</div>
+																	<div>Contains: Files</div>
+																<hr />
+																	<div class="text-center text-danger">Download Link: <a href="http://3fdy7qukqwts2j7w7lks75tueaokjsmotcshzmxjqeojca26s3doocad.onion/" target="_blank" class="text-danger">http://3fdy7qukqwts2j7w7lks75tueaokjsmotcshzmxjqeojca26s3doocad.onion/</a></div>
+									<hr />
+																									<img src="/files/24F08215-B7CC-478B-A9FA-C8318FC91DF3.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/86F8023D-AB93-4AFD-B413-76DA8E08DF93.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/94A1F91E-3F7B-4AA3-B41E-55CCB9CB57C1.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/177DFF7E-6D49-40D2-A662-F7C33F442E81.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/C6C69D93-8706-4E58-8796-F063BCF607BF.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/C6E74128-F79B-436F-A0FC-EEEBC158509D.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/FD91834C-0878-47AC-9ED7-AC6B4B138232.png" class="d-block mw-100 mb-2" loading="lazy" />
+															</div>
+						</div>
+					</div>
+				</div>
+							<div class="modal fade company_modal" id="company_108" tabindex="-1" aria-labelledby="company_108_label" aria-hidden="true" data-id="108">
+					<div class="modal-dialog modal-lg modal-dialog-centered modal-dialog-scrollable">
+						<div class="modal-content sg-form">
+							<div class="modal-header">
+								<h5 class="modal-title text-white" id="company_108_label">DMG Contractors</h5>
+								<button type="button" class="btn-close bg-danger" data-bs-dismiss="modal" aria-label="Close"></button>
+							</div>
+							<div class="modal-body text-white">
+								<pre class="text-break mb-2" style="white-space: pre-line;">DMG Contractors
+DMG Contractors, established in 1987, specializes in providing services exclusively for the multi-family industry, including capital improvements, major renovations, and insurance restoration projects across the United States. With over 25 years of experience, the company has developed a skilled workforce and efficient project management strategies to complete projects on time and within budget. Their services range from exterior renovations such as siding replacements and full exterior painting to interior renovations like kitchen and bathroom updates. DMG Contractors aims to meet the needs of apartment communities while minimizing disruption to residents and staff.</pre>
+								<hr />
+								<div>GEO: USA</div>
+								<div>Leak size: 113 GB Archive</div>
+																	<div>Contains: Files</div>
+																<hr />
+																	<div class="text-center text-danger">Download Link: <a href="http://xik5pf7gejiffbapos223f4q7l5pdwv6xwag6irgkltx2lu6wfnglaqd.onion/" target="_blank" class="text-danger">http://xik5pf7gejiffbapos223f4q7l5pdwv6xwag6irgkltx2lu6wfnglaqd.onion/</a></div>
+									<hr />
+																									<img src="/files/457844E7-8150-49FE-A8D9-2FE8E80C80D9.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/E7A8A2AB-B090-478C-95B1-405A7E6036C9.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/C9E73DA5-E595-4B7B-9D67-1805939D294E.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/8C22E654-B725-4BBD-850B-6A3F67FF224E.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/292F22E4-14AE-4D47-A868-B5B36F5635A4.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/A2B7C9B2-3F1E-4F95-8BF1-AD50BE0507DE.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/34B811B5-4402-4D59-8E1E-AC55D2D59359.png" class="d-block mw-100 mb-2" loading="lazy" />
+															</div>
+						</div>
+					</div>
+				</div>
+							<div class="modal fade company_modal" id="company_107" tabindex="-1" aria-labelledby="company_107_label" aria-hidden="true" data-id="107">
+					<div class="modal-dialog modal-lg modal-dialog-centered modal-dialog-scrollable">
+						<div class="modal-content sg-form">
+							<div class="modal-header">
+								<h5 class="modal-title text-white" id="company_107_label">Decoline</h5>
+								<button type="button" class="btn-close bg-danger" data-bs-dismiss="modal" aria-label="Close"></button>
+							</div>
+							<div class="modal-body text-white">
+								<pre class="text-break mb-2" style="white-space: pre-line;">Decoline
+Since 1990, Decoline has been active as a producer and distributor of user-friendly, high-quality curtain-hanging systems.
+Unique and complete professional window decoration solutions are also part of its assortment. Thanks to constant product and service innovations, and because of its top-class quality standards, the company is a leading player in the window decoration market. At the end of 2019, the company was taken over by investment group Renardmont. This enabled Decoline to pursue its independent course, and to continue to focus on innovation and growth.
+With a team of more than 45 employees, Decoline realises more than 70% of its sales from its own developments, operating from its headquarters in Pelt (Belgium).</pre>
+								<hr />
+								<div>GEO: Belgium</div>
+								<div>Leak size: 85 GB Archive</div>
+																	<div>Contains: Files</div>
+																<hr />
+																	<div class="text-center text-danger">Download Link: <a href="http://zgu66qoreyw4tx7bmtus6gcz7at5ufiqhgyswfnprbwvpcjw4mows7id.onion/" target="_blank" class="text-danger">http://zgu66qoreyw4tx7bmtus6gcz7at5ufiqhgyswfnprbwvpcjw4mows7id.onion/</a></div>
+									<hr />
+																									<img src="/files/5826EBC6-6407-416A-96A3-35F7A5876E96.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/979EED4C-1A0F-4309-9B17-16C60D180330.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/17A2567B-B279-472F-A055-515DF1E667D7.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/7E7D723E-B58E-453B-ACED-40553F20077B.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/B555DF33-4D4F-4C5D-A35C-966381280471.png" class="d-block mw-100 mb-2" loading="lazy" />
+															</div>
+						</div>
+					</div>
+				</div>
+							<div class="modal fade company_modal" id="company_106" tabindex="-1" aria-labelledby="company_106_label" aria-hidden="true" data-id="106">
+					<div class="modal-dialog modal-lg modal-dialog-centered modal-dialog-scrollable">
+						<div class="modal-content sg-form">
+							<div class="modal-header">
+								<h5 class="modal-title text-white" id="company_106_label">Defiance</h5>
+								<button type="button" class="btn-close bg-danger" data-bs-dismiss="modal" aria-label="Close"></button>
+							</div>
+							<div class="modal-body text-white">
+								<pre class="text-break mb-2" style="white-space: pre-line;">Defiance
+Defiance Energy Services, LLC provides water hauling and other services to energy producers throughout the Haynesville Shale. We offer low-cost and efficient services that minimize non-productive time for our customers.
+ In business since 2008, we are now one of the largest water haulers in the Haynesville. We run about 50 vacuum truck each day, serving our customers 24/7/365.
+ In all our work, the safety of our employees, customers, and the environment are paramount. To that end, we maintain a rigorous compliance program to exceed all federal, state, and local regulatory requirements.
+ Our combination of efficiency, reliability, and safety make us the right choice for your service needs.</pre>
+								<hr />
+								<div>GEO: USA</div>
+								<div>Leak size: 188 GB Archive</div>
+																	<div>Contains: Files</div>
+																<hr />
+																	<div class="text-center text-danger">Download Link: <a href="http://lm7o3nfplejz7jibisw7wwrivlmske4rq6vofvbncl7g7jflvd3ubqid.onion/" target="_blank" class="text-danger">http://lm7o3nfplejz7jibisw7wwrivlmske4rq6vofvbncl7g7jflvd3ubqid.onion/</a></div>
+									<hr />
+																									<img src="/files/98B6874A-1011-4974-9BBC-C5149AC93876.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/ABDAE20C-EAB6-41CF-8FFB-C647788BD322.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/47AD5356-3BA8-4AB3-A310-F160080032F9.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/878DC272-DA77-4896-9A44-500B5B78FD64.png" class="d-block mw-100 mb-2" loading="lazy" />
+															</div>
+						</div>
+					</div>
+				</div>
+							<div class="modal fade company_modal" id="company_105" tabindex="-1" aria-labelledby="company_105_label" aria-hidden="true" data-id="105">
+					<div class="modal-dialog modal-lg modal-dialog-centered modal-dialog-scrollable">
+						<div class="modal-content sg-form">
+							<div class="modal-header">
+								<h5 class="modal-title text-white" id="company_105_label">NNC Firm</h5>
+								<button type="button" class="btn-close bg-danger" data-bs-dismiss="modal" aria-label="Close"></button>
+							</div>
+							<div class="modal-body text-white">
+								<pre class="text-break mb-2" style="white-space: pre-line;">NNC Firm
+Nahwegahbow Corbiere originated in 1982. Our Firm acts exclusively for First Nation individuals, communities and organizations, and our practice is restricted to Aboriginal law. We provide general representation for First Nations in all matters related to governance, as well as specialized work in Aboriginal and Treaty Rights litigation and negotiation. We have a comprehensive network of highly qualified experts in archival research, anthropology, history, Aboriginal policy and other disciplines regionally, nationally and internationally. This ensures that we can take full advantage of research while keeping expenses within your budget.</pre>
+								<hr />
+								<div>GEO: Canada</div>
+								<div>Leak size: 960 GB Archive</div>
+																	<div>Contains: Files, SQL</div>
+																<hr />
+																	<div class="text-center text-danger">Download Link: <a href="http://krxmjef2yd7dwmxbgghooskep4kcecxtqqs3iu33evi7dvr5oc3dpkid.onion/" target="_blank" class="text-danger">http://krxmjef2yd7dwmxbgghooskep4kcecxtqqs3iu33evi7dvr5oc3dpkid.onion/</a></div>
+									<hr />
+																									<img src="/files/391E2D3E-2BD8-4300-A0E8-695722DA6611.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/59BA598E-B403-4126-8618-8FBE6725BB8B.txt" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/7512F3FC-C005-44AC-BE57-F3CA2E4205D8.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/5991CFF2-0339-484E-830D-9E67091D45AD.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/CAB92900-FEE4-4533-82B7-8DEA5A7F4048.png" class="d-block mw-100 mb-2" loading="lazy" />
+															</div>
+						</div>
+					</div>
+				</div>
+							<div class="modal fade company_modal" id="company_104" tabindex="-1" aria-labelledby="company_104_label" aria-hidden="true" data-id="104">
+					<div class="modal-dialog modal-lg modal-dialog-centered modal-dialog-scrollable">
+						<div class="modal-content sg-form">
+							<div class="modal-header">
+								<h5 class="modal-title text-white" id="company_104_label">Sinalisa Segurança Viária Ltda</h5>
+								<button type="button" class="btn-close bg-danger" data-bs-dismiss="modal" aria-label="Close"></button>
+							</div>
+							<div class="modal-body text-white">
+								<pre class="text-break mb-2" style="white-space: pre-line;">Sinalisa Segurança Viária Ltda
+Sinalisa's history began about four decades ago when the company was founded by the Ypiranga S/A group in 1971 in Rio de Janeiro. In 1982, it was acquired by the ERITRAM group and its headquarters were transferred to the capital of São Paulo. In November 2000, it moved to its current address in the Mooca neighborhood.
+A pioneer in the Brazilian road marking market, Sinalisa is a forerunner in lane marking painting with solvent-based acrylic paints, water-emulsified acrylic paints, high-thickness emulsified acrylic paints, conventional and high-relief thermoplastics, smooth, structured and embossed two-component methyl methacrylates.
+With outstanding performance throughout the national territory in the implementation of horizontal and vertical signage and Intelligent Transportation Systems (ITS), the company has modern equipment for the application of all painting systems.
+Its scope of work is to prioritize services that aim to improve the safety of road users, through quality and good production performance.
+Sinalisa performs painting services on highways, urban roads, cycle paths and airports.</pre>
+								<hr />
+								<div>GEO: Brazil</div>
+								<div>Leak size: 43 GB Archive</div>
+																	<div>Contains: Files</div>
+																<hr />
+																	<div class="text-center text-danger">Download Link: <a href="http://3mwyz2wt6b6zuah5y3eyjmsjkhaowiv6ejqodt2ly4y4rpwcggii65id.onion/" target="_blank" class="text-danger">http://3mwyz2wt6b6zuah5y3eyjmsjkhaowiv6ejqodt2ly4y4rpwcggii65id.onion/</a></div>
+									<hr />
+																									<img src="/files/793F0BDF-83C4-46EB-BC9A-F5D12180F98E.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/110A3C19-1B62-4C57-8ED4-05B7247FE677.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/54F5F557-1027-4E28-91B8-A57C169E7613.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/D8FA9485-3C16-44E5-8C7C-511DC1363E96.png" class="d-block mw-100 mb-2" loading="lazy" />
+															</div>
+						</div>
+					</div>
+				</div>
+							<div class="modal fade company_modal" id="company_103" tabindex="-1" aria-labelledby="company_103_label" aria-hidden="true" data-id="103">
+					<div class="modal-dialog modal-lg modal-dialog-centered modal-dialog-scrollable">
+						<div class="modal-content sg-form">
+							<div class="modal-header">
+								<h5 class="modal-title text-white" id="company_103_label">Lubiam</h5>
+								<button type="button" class="btn-close bg-danger" data-bs-dismiss="modal" aria-label="Close"></button>
+							</div>
+							<div class="modal-body text-white">
+								<pre class="text-break mb-2" style="white-space: pre-line;">LUBIAM
+LUBIAM is today one of the few Italian companies whose management is still in the hands of the family of its founder, Luigi Bianchi,
+who at just 16 years old left his hometown in the province of Mantua – San Michele in Bosco – to go to Turin to learn all the secrets of tailoring. He wanted to become a tailor, to ennoble the family tradition of his father Paride and grandfather Giuliano, tailors-barbers from house to house in the villages of the countryside. In 1911 Luigi fulfilled his dream by inaugurating the “Primaria Sartoria Luigi Bianchi – Men's tailoring and women's suits and suits”; thanks to his enthusiasm and great passion for craftsmanship, he managed to start a successful business that later established itself as an excellence Made in Italy in high-end menswear, recognized in Italy and abroad. In the first twenty years after its foundation, the business evolved from a family-run artisan workshop to a company with over 300 employees.</pre>
+								<hr />
+								<div>GEO: Italy</div>
+								<div>Leak size: NO DATA</div>
+																	<div>Contains: NO DATA</div>
+																<hr />
+																									<img src="/files/3E5D40DF-F511-45C8-B417-CFAFD18BC3FF.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/4E2E1CCE-81B4-44A8-8A10-4CA92E45CBBB.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/62583104-38A7-493F-B598-7D9D945972D9.png" class="d-block mw-100 mb-2" loading="lazy" />
+															</div>
+						</div>
+					</div>
+				</div>
+							<div class="modal fade company_modal" id="company_102" tabindex="-1" aria-labelledby="company_102_label" aria-hidden="true" data-id="102">
+					<div class="modal-dialog modal-lg modal-dialog-centered modal-dialog-scrollable">
+						<div class="modal-content sg-form">
+							<div class="modal-header">
+								<h5 class="modal-title text-white" id="company_102_label">Ju Percussion Group</h5>
+								<button type="button" class="btn-close bg-danger" data-bs-dismiss="modal" aria-label="Close"></button>
+							</div>
+							<div class="modal-body text-white">
+								<pre class="text-break mb-2" style="white-space: pre-line;">Ju Percussion Group
+To date, the group has played in 33 different countries around the world, and cultivated more than 130,000 percussion learners by means of its instruction system. The growth of the Ju Percussion Group is a reflection of the development of contemporary percussion on the island of Taiwan. In 1986, the Ju Percussion Group met at a hot pot restaurant in Taipei and announced to the world that Taiwan's very first professional percussion band had been born. When the Ju Percussion Group was first established, most people in Taiwan were unfamiliar with its percussion music genre. Thanks to the group's activities, however, the Ju Percussion Group soon became a household name throughout the island. In 1991, the Ju Percussion Group introduced its instruction system, which swept the country with its absorbing and authentic teaching format. At present, there are 30 existing percussion music schools around the world</pre>
+								<hr />
+								<div>GEO: Taiwan</div>
+								<div>Leak size: 1.6 TB Archive</div>
+																	<div>Contains: Files</div>
+																<hr />
+																	<div class="text-center text-danger">Download Link: <a href="http://qxbuog46z72pycrwfaedafqy5dodyrt46ucfs4p5vaaigxtudtwerpyd.onion/" target="_blank" class="text-danger">http://qxbuog46z72pycrwfaedafqy5dodyrt46ucfs4p5vaaigxtudtwerpyd.onion/</a></div>
+									<hr />
+																									<img src="/files/1B4568DE-7BF0-4C24-A762-D3ABB9458DE1.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/9EB29BCA-3ACB-4F62-847A-E150C616C523.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/6F664A56-C991-4BD4-BD7F-6F52D798C071.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/3297C18E-6BDF-4498-861F-8F42547D5E7E.png" class="d-block mw-100 mb-2" loading="lazy" />
+															</div>
+						</div>
+					</div>
+				</div>
+							<div class="modal fade company_modal" id="company_101" tabindex="-1" aria-labelledby="company_101_label" aria-hidden="true" data-id="101">
+					<div class="modal-dialog modal-lg modal-dialog-centered modal-dialog-scrollable">
+						<div class="modal-content sg-form">
+							<div class="modal-header">
+								<h5 class="modal-title text-white" id="company_101_label">Manchester Credit Union</h5>
+								<button type="button" class="btn-close bg-danger" data-bs-dismiss="modal" aria-label="Close"></button>
+							</div>
+							<div class="modal-body text-white">
+								<pre class="text-break mb-2" style="white-space: pre-line;">Manchester Credit Union
+Manchester Credit Union offers ethical and affordable financial services, including personal loans and savings opportunities, catering primarily to local residents. The organization emphasizes community involvement, providing members with a share in ownership and earning dividends on their savings. They also offer a mobile app for convenient money management, and various educational initiatives aimed at promoting financial literacy. With over 30,000 members, the credit union is committed to supporting individuals and communities while keeping financial services accessible.</pre>
+								<hr />
+								<div>GEO: United Kingdom</div>
+								<div>Leak size: 6 GB Archive</div>
+																	<div>Contains: Files,SQL</div>
+																<hr />
+																	<div class="text-center text-danger">Download Link: <a href="http://y2vv2zvegnvv7uwr5saye4enthgq3ghlhomu5a3nshgwih4phn6qusyd.onion/" target="_blank" class="text-danger">http://y2vv2zvegnvv7uwr5saye4enthgq3ghlhomu5a3nshgwih4phn6qusyd.onion/</a></div>
+									<hr />
+																									<img src="/files/B758B7AF-022B-4165-9F8E-1D97DDA3B853.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/195D51C0-FDB3-4242-AA40-BBA57BAFB547.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/B39D6C6F-3921-47B8-87E0-741A6FE751F0.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/2D347A0F-244C-4B3D-9755-8031CD291D18.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/8531B1D5-CCC0-4A09-A605-AAF8CE538104.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/F124ACFC-9DDB-4E98-B5D0-0A4AF918E9A4.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/A5477A77-C4BB-46E7-BEE7-3730E058238C.png" class="d-block mw-100 mb-2" loading="lazy" />
+															</div>
+						</div>
+					</div>
+				</div>
+							<div class="modal fade company_modal" id="company_100" tabindex="-1" aria-labelledby="company_100_label" aria-hidden="true" data-id="100">
+					<div class="modal-dialog modal-lg modal-dialog-centered modal-dialog-scrollable">
+						<div class="modal-content sg-form">
+							<div class="modal-header">
+								<h5 class="modal-title text-white" id="company_100_label">FAKO-M Getränke</h5>
+								<button type="button" class="btn-close bg-danger" data-bs-dismiss="modal" aria-label="Close"></button>
+							</div>
+							<div class="modal-body text-white">
+								<pre class="text-break mb-2" style="white-space: pre-line;">FAKO-M Getränke
+We, the Fako-M Group, see ourselves as a partner to the hospitality industry, retail, and end consumers. In our delivery area of ​​North Rhine-Westphalia, we supply you with a comprehensive product range of over 7,000 items from the beverage, wine, spirits, coffee, and hygiene product categories. Our comprehensive offering is rounded out by services such as vending machine operation (cold and hot beverage, snack, and confectionery vending machines), event equipment, dispensing technology, financing advice, and leasing.</pre>
+								<hr />
+								<div>GEO: Germany</div>
+								<div>Leak size: 446 GB Archive</div>
+																	<div>Contains: Files, SQL</div>
+																<hr />
+																	<div class="text-center text-danger">Download Link: <a href="http://hpugjgammwixig4kpti5r67ofjd4qrgkjohbth2irq4nvcv3m7s76tyd.onion/" target="_blank" class="text-danger">http://hpugjgammwixig4kpti5r67ofjd4qrgkjohbth2irq4nvcv3m7s76tyd.onion/</a></div>
+									<hr />
+																									<img src="/files/BFE21C62-C68C-4792-AB1A-D8B2430B0ADC.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/B1CB78A8-99D2-4251-BA24-26FB9C6EAA81.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/44D6B7CF-95CE-43CF-9884-3C1EAE1DCE98.png" class="d-block mw-100 mb-2" loading="lazy" />
+															</div>
+						</div>
+					</div>
+				</div>
+							<div class="modal fade company_modal" id="company_99" tabindex="-1" aria-labelledby="company_99_label" aria-hidden="true" data-id="99">
+					<div class="modal-dialog modal-lg modal-dialog-centered modal-dialog-scrollable">
+						<div class="modal-content sg-form">
+							<div class="modal-header">
+								<h5 class="modal-title text-white" id="company_99_label">Schultz Industries Inc.</h5>
+								<button type="button" class="btn-close bg-danger" data-bs-dismiss="modal" aria-label="Close"></button>
+							</div>
+							<div class="modal-body text-white">
+								<pre class="text-break mb-2" style="white-space: pre-line;">Schultz Industries Inc.
+Schultz Industries, Inc. is lacally owned and operated complete landscape maintenance and installation company. Our focus is commercial properties such as retail centers, apartment complexes, office parks, municipalities and homeowner associations.
+Our employees are professionally certified in arboriculture, chamical application, irrigation audits, and many other specialties. They are also trained on new topics every week, and of coarse they are reminded every day of our company's mission statement:
+"Every employee committed to exceeding the client expecations"</pre>
+								<hr />
+								<div>GEO: USA</div>
+								<div>Leak size: 61 GB Archive</div>
+																	<div>Contains: Files</div>
+																<hr />
+																	<div class="text-center text-danger">Download Link: <a href="http://areaucod7knfvyl2xbnezcucezcwr4iku5psrt74zthoyqegdzqsxzad.onion/" target="_blank" class="text-danger">http://areaucod7knfvyl2xbnezcucezcwr4iku5psrt74zthoyqegdzqsxzad.onion/</a></div>
+									<hr />
+																									<img src="/files/8AAB5DD3-F3B0-4639-A9B3-D7EF7C9C31CD.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/72DDEB5D-6C5D-4D9D-833D-6F42DE000C7B.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/E0F13035-B460-4753-8A3E-897E6B528EB9.png" class="d-block mw-100 mb-2" loading="lazy" />
+																	<img src="/files/480D5998-BC69-4619-9D63-E781FB41D473.png" class="d-block mw-100 mb-2" loading="lazy" />
+															</div>
+						</div>
+					</div>
+				</div>
+						<div class="modal fade" id="contacts" tabindex="-1" aria-labelledby="contacts_label" aria-hidden="true">
+				<div class="modal-dialog modal-xl modal-dialog-centered modal-dialog-scrollable">
+					<div class="modal-content sg-form">
+						<div class="modal-header">
+							<h5 class="modal-title text-white" id="contacts_label">Contacts</h5>
+							<button type="button" class="btn-close bg-danger" data-bs-dismiss="modal" aria-label="Close"></button>
+						</div>
+						<div class="modal-body text-white">
+							<div>Mail: <a href="mailto:SarcomaGroup@onionmail.org" class="text-white">SarcomaGroup@onionmail.org</a></div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="modal fade" id="about" tabindex="-1" aria-labelledby="about_label" aria-hidden="true">
+				<div class="modal-dialog modal-lg modal-dialog-centered modal-dialog-scrollable">
+					<div class="modal-content sg-form">
+						<div class="modal-header">
+							<h5 class="modal-title text-white" id="about_label">About Us</h5>
+							<button type="button" class="btn-close bg-danger" data-bs-dismiss="modal" aria-label="Close"></button>
+						</div>
+						<div class="modal-body text-white">
+							<div>
+								Today, more and more information is stored on digital media.<br />
+								Companies that store sensitive information on their servers must take a responsible attitude to security.<br />
+								Our mission is to show the world how important it is to keep data safe.<br />
+								If you see your company on our website it means that security was low.<br />
+								<br />
+								We invite access brokers, interested parties, aggrieved employees of companies to co-operate.<br />
+								Together we can be stronger and richer.<br />
+								We know how to make our cooperation profitable and safe.
+							</div> 
+						</div>
+					</div>
+				</div>
+			</div>
+			<script type="text/javascript">
+				document.addEventListener( "DOMContentLoaded", function() {
+					let company_modals = document.querySelectorAll( ".company_modal" );
+					for( let i = 0; i < company_modals.length; i++ ) {
+						company_modals[ i ].addEventListener( "shown.bs.modal", function( event ){
+							var xhr = new XMLHttpRequest();
+							xhr.open( "POST", "/", true );
+							let data = new FormData();
+							data.append( "action", "show_company" );
+							data.append( "id", this.dataset.id );
+							xhr.send( data );
+						} );
+					}
+				} );
+			</script>
+				<!-- <script src="./bootstrap.bundle.min.js"></script> -->
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.1.3/js/bootstrap.bundle.min.js"></script>
+		<script type="text/javascript">
+			document.addEventListener( "DOMContentLoaded", function() {
+				new ClipboardJS( ".copy_button" );
+			} );
+			
+			document.addEventListener( "DOMContentLoaded", function() {
+				var tooltipTriggerList = [].slice.call( document.querySelectorAll( '[data-bs-toggle="tooltip"]' ) );
+				var tooltipList = tooltipTriggerList.map( function( tooltipTriggerEl ) {
+					var tooltip = new bootstrap.Tooltip( tooltipTriggerEl );
+					tooltipTriggerEl.addEventListener( 'show.bs.tooltip', function () {
+						setTimeout( function() { tooltip.hide(); }, 1000 );
+					} );
+					return tooltip;
+				} );
+			} );
+			
+			document.addEventListener( "DOMContentLoaded", function() {
+				let toastElList = [].slice.call( document.querySelectorAll( ".toast:not(.hide)" ) );
+				let toastList = toastElList.map( function ( toastEl ) {
+					return new bootstrap.Toast( toastEl );
+				} );
+				for( let i = 0; i < toastList.length; i++ ){
+					toastList[ i ].show();
+				}
+			} );
+			
+			document.addEventListener( "DOMContentLoaded", function() {
+				let popoverTriggerList = [].slice.call( document.querySelectorAll( "[data-bs-toggle=\"popover\"]" ) );
+				let popoverList = popoverTriggerList.map( function( popoverTriggerEl ){
+					var popover = new bootstrap.Popover( popoverTriggerEl );
+					popoverTriggerEl.addEventListener( 'show.bs.popover', function () {
+						setTimeout( function() { popover.hide(); }, 3000 );
+					} );
+					return popover;
+				} );
+			} );
+		</script>
+	</body>
 </html>
-
