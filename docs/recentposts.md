@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-06-06 | [`Nunez Dental`](https://google.com/search?q=Nunez+Dental) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-06-06 | [`MTTEXPERTISES.COM`](https://google.com/search?q=MTTEXPERTISES.COM) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-06-06 | [`Kittery Police Department`](https://google.com/search?q=Kittery+Police+Department) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-06-05 | [`Triumph Construction`](https://google.com/search?q=Triumph+Construction) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-04-30 | [`FCC`](https://google.com/search?q=FCC) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2025-04-30 | [`Digestive Specialists`](https://google.com/search?q=Digestive+Specialists) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2025-04-30 | [`Penn Emblem (penn.local)`](https://google.com/search?q=Penn+Emblem+%28penn.local%29) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
-| 2025-04-30 | [`southernagllc.com`](https://google.com/search?q=southernagllc.com) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
