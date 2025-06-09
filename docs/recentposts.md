@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-06-09 | [`EUC Sjlland`](https://google.com/search?q=EUC+Sjlland) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2025-06-07 | [`Hudson River Housing`](https://google.com/search?q=Hudson+River+Housing) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2025-06-07 | [`waiwhetu-medical-centre`](https://google.com/search?q=waiwhetu-medical-centre) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-06-06 | [`Nunez Dental`](https://google.com/search?q=Nunez+Dental) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-05-01 | [`maywdef`](https://google.com/search?q=maywdef) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-04-30 | [`Ushio`](https://google.com/search?q=Ushio) | [termite](https://ransomwatch.telemetry.ltd/#/profiles?id=termite) |
 | 2025-04-30 | [`Telco Intercontinental`](https://google.com/search?q=Telco+Intercontinental) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2025-04-30 | [`FCC`](https://google.com/search?q=FCC) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
