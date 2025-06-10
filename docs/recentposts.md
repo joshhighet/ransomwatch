@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-06-10 | [`Mount Rogers Community Services`](https://google.com/search?q=Mount+Rogers+Community+Services) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-06-09 | [`Homestead Gardens`](https://google.com/search?q=Homestead+Gardens) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-06-09 | [`Community Choice Credit Union`](https://google.com/search?q=Community+Choice+Credit+Union) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-06-09 | [`EUC Sjlland`](https://google.com/search?q=EUC+Sjlland) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-05-01 | [`StudioVaiani`](https://google.com/search?q=StudioVaiani) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-05-01 | [`The Saint James Hospital Group`](https://google.com/search?q=The+Saint+James+Hospital+Group) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-05-01 | [`WDEF-TV`](https://google.com/search?q=WDEF-TV) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
-| 2025-05-01 | [`maywdef`](https://google.com/search?q=maywdef) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
