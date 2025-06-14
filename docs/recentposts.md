@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-06-14 | [`Project Partners`](https://google.com/search?q=Project+Partners) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-06-14 | [`NPD Products`](https://google.com/search?q=NPD+Products) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-06-14 | [`099 ISP Hacked`](https://google.com/search?q=099+ISP+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2025-06-14 | [`Y.G. New Idan Hacked`](https://google.com/search?q=Y.G.+New+Idan+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-05-02 | [`derichsukonertz.de`](https://google.com/search?q=derichsukonertz.de) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-05-02 | [`Government of Peru`](https://google.com/search?q=Government+of+Peru) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2025-05-02 | [`The Seydel Companies`](https://google.com/search?q=The+Seydel+Companies) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-05-02 | [`Southern Fidelity`](https://google.com/search?q=Southern+Fidelity) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
