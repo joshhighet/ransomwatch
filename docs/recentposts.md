@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-06-16 | [`TBN Israel Hacked`](https://google.com/search?q=TBN+Israel+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2025-06-15 | [`Israel’s fuel supply system Data`](https://google.com/search?q=Israel%E2%80%99s+fuel+supply+system+Data) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2025-06-15 | [`S&H Express`](https://google.com/search?q=S%26H+Express) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-06-14 | [`Rollex`](https://google.com/search?q=Rollex) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-05-03 | [`Kalin Hobeltechnik`](https://google.com/search?q=Kalin+Hobeltechnik) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2025-05-03 | [`American Eagle Logistics - Press Release`](https://google.com/search?q=American+Eagle+Logistics+-+Press+Release) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2025-05-02 | [`runtec.co.jp`](https://google.com/search?q=runtec.co.jp) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
-| 2025-05-02 | [`[DISCLOSED]Imedexsa`](https://google.com/search?q=%5BDISCLOSED%5DImedexsa) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
